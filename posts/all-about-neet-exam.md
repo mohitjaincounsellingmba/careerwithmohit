@@ -112,8 +112,6 @@ While the majority of questions (roughly 95%+) are directly based on NCERT textb
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

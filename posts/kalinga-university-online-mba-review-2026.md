@@ -190,9 +190,7 @@ Candidates with budgets below ₹80,000 or those specifically targeting a FinTec
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

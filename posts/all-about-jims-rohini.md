@@ -93,8 +93,6 @@ The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS Roh
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

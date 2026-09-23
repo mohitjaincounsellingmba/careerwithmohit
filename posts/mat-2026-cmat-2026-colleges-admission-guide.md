@@ -123,8 +123,6 @@ MAT and CMAT are the smart student's bypass. Many students Mohit Jain has counse
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

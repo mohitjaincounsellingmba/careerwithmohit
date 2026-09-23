@@ -116,7 +116,7 @@ Business Analytics is the practice of analyzing corporate data to improve busine
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

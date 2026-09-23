@@ -118,8 +118,6 @@ Investment Banking is not just a job; it’s a lifestyle change. Don't waste you
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

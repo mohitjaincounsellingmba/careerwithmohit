@@ -100,8 +100,6 @@ Classes are held on Saturdays (late afternoon) and Sundays (full day) at the SIB
 ### Is SNAP required for SIBM Executive MBA?
 No, SNAP is not mandatory. SIBM conducts its own entrance test and interview process for executive admissions.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

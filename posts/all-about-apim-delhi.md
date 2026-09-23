@@ -97,8 +97,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Asia Pacific Institute of Management (APIM)](/colleges/apim-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Asia Pacific Institute of Management (APIM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

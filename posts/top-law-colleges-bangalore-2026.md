@@ -144,8 +144,6 @@ Bangalore is competitive. Don't waste your years at a college with zero corporat
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

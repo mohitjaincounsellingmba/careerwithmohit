@@ -229,7 +229,7 @@ Don't wait for official estimates — use our **free MHCET MBA 2026 Score Calcul
 
 ---
 
-Source: State CET Cell Maharashtra (cetcell.mahacet.org), Shiksha.com, CollegeDunia
+
 ---
 
 ### 🚀 Boost Your Preparation

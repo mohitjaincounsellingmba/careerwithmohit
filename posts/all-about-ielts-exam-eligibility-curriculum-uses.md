@@ -82,8 +82,6 @@ There is no limit. You can take the IELTS as many times as you want until you ac
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

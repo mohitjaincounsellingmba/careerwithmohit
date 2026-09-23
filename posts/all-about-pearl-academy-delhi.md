@@ -91,8 +91,6 @@ The college accepts scores from national level entrance examinations including E
 **Final Verdict**: [Pearl Academy, Delhi](/colleges/pearl-academy-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Pearl Academy, Delhi](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

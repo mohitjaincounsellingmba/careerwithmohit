@@ -239,8 +239,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

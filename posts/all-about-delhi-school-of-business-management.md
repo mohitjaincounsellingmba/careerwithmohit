@@ -94,8 +94,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Delhi School of Business & Management](/colleges/delhi-school-of-business-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Delhi School of Business & Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

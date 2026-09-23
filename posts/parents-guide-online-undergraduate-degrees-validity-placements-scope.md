@@ -121,7 +121,7 @@ If you are evaluating colleges for your child, make sure you check these paramet
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

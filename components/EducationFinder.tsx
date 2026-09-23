@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import {
@@ -8,7 +8,6 @@ import {
   Cpu,
   Laptop,
   Globe,
-  FileSpreadsheet,
   Calculator,
   Search,
   MapPin,
@@ -17,8 +16,11 @@ import {
   Sparkles,
   ArrowRight,
   Target,
+  X,
+  Building2,
+  TrendingUp,
   CheckCircle2,
-  BookOpen
+  ExternalLink
 } from "lucide-react";
 
 type StreamTab = "mba" | "btech" | "online" | "abroad" | "mocks" | "calculators";
@@ -29,6 +31,20 @@ interface TabConfig {
   icon: React.ElementType;
   badge?: string;
   badgeColor?: string;
+}
+
+interface CollegeSuggestion {
+  slug: string;
+  name: string;
+  logo?: string;
+  location: string;
+  category: string;
+  fees: string;
+  avg_placement: string;
+  highest_placement?: string;
+  ranking?: string;
+  ownership?: string;
+  exams?: string[];
 }
 
 const STREAM_TABS: TabConfig[] = [
@@ -48,8 +64,66 @@ export function EducationFinder() {
   const [selectedBudget, setSelectedBudget] = useState("");
   const [selectedExam, setSelectedExam] = useState("");
 
-  const handleSearchSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
+  // Live Autocomplete Suggestions State
+  const [suggestions, setSuggestions] = useState<CollegeSuggestion[]>([]);
+  const [popularSearches, setPopularSearches] = useState<string[]>([]);
+  const [totalMatches, setTotalMatches] = useState<number>(0);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [selectedIndex, setSelectedIndex] = useState<number>(-1);
+
+  const containerRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Debounced API search for instant suggestions
+  useEffect(() => {
+    const streamParam = activeTab === "btech" ? "btech" : activeTab === "mba" ? "mba" : "";
+    const cleanQuery = searchQuery.trim();
+
+    if (!cleanQuery && !isDropdownOpen) {
+      setSuggestions([]);
+      return;
+    }
+
+    const timer = setTimeout(async () => {
+      try {
+        setIsLoading(true);
+        const params = new URLSearchParams();
+        if (cleanQuery) params.set("q", cleanQuery);
+        if (streamParam) params.set("stream", streamParam);
+        params.set("limit", "5");
+
+        const res = await fetch(`/api/colleges/search?${params.toString()}`);
+        if (res.ok) {
+          const data = await res.json();
+          setSuggestions(data.colleges || []);
+          setPopularSearches(data.popularSearches || []);
+          setTotalMatches(data.totalMatches || 0);
+        }
+      } catch (err) {
+        console.error("Failed to fetch college suggestions", err);
+      } finally {
+        setIsLoading(false);
+      }
+    }, 150);
+
+    return () => clearTimeout(timer);
+  }, [searchQuery, activeTab, isDropdownOpen]);
+
+  // Click outside to close dropdown
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+        setIsDropdownOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  const handleSearchSubmit = (e?: React.FormEvent) => {
+    if (e) e.preventDefault();
+    setIsDropdownOpen(false);
 
     if (activeTab === "mba" || activeTab === "btech") {
       const params = new URLSearchParams();
@@ -58,7 +132,7 @@ export function EducationFinder() {
       if (selectedBudget) params.set("budget", selectedBudget);
       if (selectedExam) params.set("exam", selectedExam);
       if (activeTab === "btech") params.set("course", "btech");
-      
+
       const queryString = params.toString();
       router.push(`/colleges${queryString ? `?${queryString}` : ""}`);
     } else if (activeTab === "online") {
@@ -72,9 +146,40 @@ export function EducationFinder() {
     }
   };
 
+  const handleSelectCollege = (slug: string) => {
+    setIsDropdownOpen(false);
+    router.push(`/colleges/${slug}`);
+  };
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (!isDropdownOpen) {
+      if (e.key === "ArrowDown") {
+        setIsDropdownOpen(true);
+      }
+      return;
+    }
+
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      setSelectedIndex((prev) => (prev < suggestions.length - 1 ? prev + 1 : 0));
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      setSelectedIndex((prev) => (prev > 0 ? prev - 1 : suggestions.length - 1));
+    } else if (e.key === "Enter") {
+      if (selectedIndex >= 0 && suggestions[selectedIndex]) {
+        e.preventDefault();
+        handleSelectCollege(suggestions[selectedIndex].slug);
+      } else {
+        handleSearchSubmit();
+      }
+    } else if (e.key === "Escape") {
+      setIsDropdownOpen(false);
+    }
+  };
+
   return (
-    <div className="w-full max-w-5xl mx-auto rounded-3xl bg-slate-900/85 backdrop-blur-xl border border-white/20 p-3 sm:p-6 shadow-2xl shadow-black/50 text-white transition-all">
-      {/* Stream Tabs Bar */}
+    <div className="w-full max-w-5xl mx-auto rounded-3xl bg-slate-900/90 backdrop-blur-2xl border border-white/20 p-3 sm:p-6 shadow-2xl shadow-black/60 text-white transition-all">
+      {/* Stream Tabs Navigation */}
       <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto pb-3 sm:pb-4 border-b border-white/10 no-scrollbar">
         {STREAM_TABS.map((tab) => {
           const Icon = tab.icon;
@@ -83,7 +188,10 @@ export function EducationFinder() {
             <button
               key={tab.id}
               type="button"
-              onClick={() => setActiveTab(tab.id)}
+              onClick={() => {
+                setActiveTab(tab.id);
+                setSelectedIndex(-1);
+              }}
               className={`flex items-center gap-2 px-3.5 sm:px-4 py-2 sm:py-2.5 rounded-2xl text-xs sm:text-sm font-bold whitespace-nowrap transition-all cursor-pointer ${
                 isActive
                   ? "bg-blue-600 text-white shadow-lg shadow-blue-500/30 scale-[1.02] ring-1 ring-white/30"
@@ -102,21 +210,155 @@ export function EducationFinder() {
         })}
       </div>
 
-      {/* Interactive Stream Form View */}
+      {/* Main Interactive Stream Form View */}
       <div className="pt-4 sm:pt-6">
         {activeTab === "mba" && (
           <form onSubmit={handleSearchSubmit} className="space-y-4">
             <div className="grid grid-cols-1 sm:grid-cols-12 gap-3 sm:gap-4 items-center">
-              {/* Keyword Search */}
-              <div className="sm:col-span-4 relative">
-                <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-blue-400 pointer-events-none" />
-                <input
-                  type="text"
-                  placeholder="Search college, city, or specialisation..."
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  className="w-full h-12 pl-10 pr-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400 focus:bg-white/15 transition-all"
-                />
+              {/* College & Course Autocomplete Search Input */}
+              <div ref={containerRef} className="sm:col-span-4 relative">
+                <div className="relative">
+                  <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-blue-400 pointer-events-none" />
+                  <input
+                    ref={inputRef}
+                    type="text"
+                    placeholder="Search college, city, MBA, ROI..."
+                    value={searchQuery}
+                    onChange={(e) => {
+                      setSearchQuery(e.target.value);
+                      setIsDropdownOpen(true);
+                      setSelectedIndex(-1);
+                    }}
+                    onFocus={() => setIsDropdownOpen(true)}
+                    onKeyDown={handleKeyDown}
+                    className="w-full h-12 pl-10 pr-9 rounded-xl bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400 focus:bg-white/15 transition-all"
+                  />
+                  {searchQuery && (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setSearchQuery("");
+                        inputRef.current?.focus();
+                      }}
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white p-1"
+                    >
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  )}
+                </div>
+
+                {/* Live Real-time Predictive College Search Dropdown */}
+                {isDropdownOpen && (
+                  <div className="absolute left-0 right-0 top-full mt-2 bg-slate-900/98 backdrop-blur-2xl border border-white/25 rounded-2xl shadow-2xl z-50 overflow-hidden text-left animate-in fade-in slide-in-from-top-2 duration-150 divide-y divide-white/10 ring-1 ring-black/50">
+                    
+                    {/* Header showing match status */}
+                    <div className="px-3.5 py-2.5 bg-white/5 flex items-center justify-between text-[11px] font-bold text-slate-300">
+                      <span className="flex items-center gap-1.5 text-blue-300">
+                        <Building2 className="w-3.5 h-3.5" />
+                        {searchQuery.trim() ? "Direct College Matches" : "Top Verified Colleges"}
+                      </span>
+                      {totalMatches > 0 && (
+                        <span className="text-amber-300 font-extrabold">{totalMatches} colleges found</span>
+                      )}
+                    </div>
+
+                    {/* Matched Colleges List */}
+                    {suggestions.length > 0 ? (
+                      <div className="p-2 space-y-1 max-h-72 overflow-y-auto">
+                        {suggestions.map((col, idx) => {
+                          const isSelected = selectedIndex === idx;
+                          return (
+                            <div
+                              key={col.slug}
+                              onClick={() => handleSelectCollege(col.slug)}
+                              onMouseEnter={() => setSelectedIndex(idx)}
+                              className={`flex items-center justify-between gap-3 p-2.5 rounded-xl cursor-pointer transition-all ${
+                                isSelected ? "bg-blue-600 text-white" : "hover:bg-white/10 text-slate-200"
+                              }`}
+                            >
+                              <div className="flex items-center gap-3 min-w-0">
+                                <div className="w-9 h-9 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center text-xs font-black text-amber-300 shrink-0">
+                                  {col.name.charAt(0)}
+                                </div>
+                                <div className="truncate">
+                                  <div className="text-xs sm:text-sm font-bold truncate text-white">
+                                    {col.name}
+                                  </div>
+                                  <div className="flex items-center gap-2 text-[11px] text-slate-300 mt-0.5">
+                                    <span className="flex items-center gap-1">
+                                      <MapPin className="w-3 h-3 text-amber-400 shrink-0" />
+                                      {col.location}
+                                    </span>
+                                    <span>•</span>
+                                    <span className="text-emerald-300 font-bold">Avg: {col.avg_placement}</span>
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div className="hidden sm:flex items-center gap-2 shrink-0">
+                                <span className="text-[10px] font-bold bg-white/15 px-2 py-0.5 rounded text-white">
+                                  {col.fees}
+                                </span>
+                                <ArrowRight className={`w-3.5 h-3.5 ${isSelected ? "text-white translate-x-0.5" : "text-slate-400"}`} />
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    ) : searchQuery.trim() ? (
+                      <div className="p-4 text-center text-xs text-slate-400">
+                        No direct college name match for &ldquo;{searchQuery}&rdquo;.
+                        <div className="mt-1 text-[11px] text-blue-300 font-medium">
+                          Press <kbd className="px-1.5 py-0.5 bg-white/10 rounded border border-white/20 text-[10px] font-mono">Enter</kbd> to search across all cutoffs, cities &amp; courses.
+                        </div>
+                      </div>
+                    ) : null}
+
+                    {/* Popular Quick Searches */}
+                    {popularSearches.length > 0 && (
+                      <div className="p-3 bg-white/5">
+                        <span className="text-[10px] font-extrabold uppercase tracking-wider text-slate-400 block mb-2 px-1">
+                          Trending Searches
+                        </span>
+                        <div className="flex flex-wrap gap-1.5">
+                          {popularSearches.map((s, idx) => (
+                            <button
+                              key={idx}
+                              type="button"
+                              onClick={() => {
+                                setSearchQuery(s);
+                                setIsDropdownOpen(false);
+                                router.push(`/colleges?search=${encodeURIComponent(s)}`);
+                              }}
+                              className="px-2.5 py-1 rounded-lg bg-white/10 hover:bg-blue-600 text-slate-200 hover:text-white text-xs font-semibold border border-white/10 transition-all cursor-pointer"
+                            >
+                              {s}
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Footer View All Action */}
+                    <div className="p-2.5 bg-slate-950 flex items-center justify-between text-xs">
+                      <button
+                        type="button"
+                        onClick={() => handleSearchSubmit()}
+                        className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1"
+                      >
+                        <span>View all {totalMatches > 0 ? `${totalMatches} ` : ""}colleges on directory</span>
+                        <ArrowRight className="w-3.5 h-3.5" />
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => setIsDropdownOpen(false)}
+                        className="text-slate-500 hover:text-slate-300 text-[11px]"
+                      >
+                        Close [Esc]
+                      </button>
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* City / Hub Selector */}
@@ -129,8 +371,8 @@ export function EducationFinder() {
                 >
                   <option value="">All Locations (Pan-India)</option>
                   <option value="delhi-ncr">Delhi NCR (Noida/Gurgaon)</option>
-                  <option value="pune">Pune & Mumbai</option>
-                  <option value="bangalore">Bangalore & South</option>
+                  <option value="pune">Pune &amp; Mumbai</option>
+                  <option value="bangalore">Bangalore &amp; South</option>
                   <option value="hyderabad">Hyderabad</option>
                   <option value="jaipur">Jaipur / Rajasthan</option>
                   <option value="kolkata">Kolkata / East</option>
@@ -172,7 +414,7 @@ export function EducationFinder() {
                 🏛️ Top 20 IIMs
               </Link>
               <Link href="/top-tier-mba-colleges?tab=nmat" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-emerald-200 border border-white/10 transition-colors">
-                ⚡ NMIMS & SIBM
+                ⚡ NMIMS &amp; SIBM
               </Link>
               <Link href="/mba-application-form-discount" className="px-3 py-1 rounded-lg bg-amber-400/20 hover:bg-amber-400/30 text-amber-300 border border-amber-400/30 font-bold transition-colors">
                 🏷️ Save ₹5,000+ Form Combos
@@ -187,15 +429,61 @@ export function EducationFinder() {
         {activeTab === "btech" && (
           <form onSubmit={handleSearchSubmit} className="space-y-4">
             <div className="grid grid-cols-1 sm:grid-cols-12 gap-3 sm:gap-4 items-center">
-              <div className="sm:col-span-5 relative">
-                <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-blue-400 pointer-events-none" />
-                <input
-                  type="text"
-                  placeholder="Search B.Tech colleges (e.g. Computer Science, AI, Delhi NCR)..."
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  className="w-full h-12 pl-10 pr-3 rounded-xl bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400 focus:bg-white/15 transition-all"
-                />
+              <div ref={containerRef} className="sm:col-span-5 relative">
+                <div className="relative">
+                  <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-emerald-400 pointer-events-none" />
+                  <input
+                    type="text"
+                    placeholder="Search B.Tech colleges (e.g. Computer Science, IIT, NIT, Delhi)..."
+                    value={searchQuery}
+                    onChange={(e) => {
+                      setSearchQuery(e.target.value);
+                      setIsDropdownOpen(true);
+                    }}
+                    onFocus={() => setIsDropdownOpen(true)}
+                    onKeyDown={handleKeyDown}
+                    className="w-full h-12 pl-10 pr-9 rounded-xl bg-white/10 border border-white/20 text-white placeholder:text-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-400 focus:bg-white/15 transition-all"
+                  />
+                  {searchQuery && (
+                    <button
+                      type="button"
+                      onClick={() => setSearchQuery("")}
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white p-1"
+                    >
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  )}
+                </div>
+
+                {/* Live Dropdown for B.Tech */}
+                {isDropdownOpen && suggestions.length > 0 && (
+                  <div className="absolute left-0 right-0 top-full mt-2 bg-slate-900/98 backdrop-blur-2xl border border-white/25 rounded-2xl shadow-2xl z-50 overflow-hidden text-left animate-in fade-in slide-in-from-top-2 duration-150 divide-y divide-white/10 ring-1 ring-black/50">
+                    <div className="p-2 space-y-1 max-h-72 overflow-y-auto">
+                      {suggestions.map((col) => (
+                        <div
+                          key={col.slug}
+                          onClick={() => handleSelectCollege(col.slug)}
+                          className="flex items-center justify-between gap-3 p-2.5 rounded-xl cursor-pointer hover:bg-emerald-600 hover:text-white text-slate-200 transition-all group"
+                        >
+                          <div className="flex items-center gap-3 min-w-0">
+                            <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center text-xs font-black text-emerald-300">
+                              {col.name.charAt(0)}
+                            </div>
+                            <div className="truncate">
+                              <div className="text-xs sm:text-sm font-bold truncate text-white">
+                                {col.name}
+                              </div>
+                              <div className="text-[11px] text-slate-300">
+                                {col.location} • <span className="text-emerald-300 font-bold">Avg: {col.avg_placement}</span>
+                              </div>
+                            </div>
+                          </div>
+                          <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-white shrink-0" />
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
 
               <div className="sm:col-span-4 relative">
@@ -203,7 +491,7 @@ export function EducationFinder() {
                 <select
                   value={selectedExam}
                   onChange={(e) => setSelectedExam(e.target.value)}
-                  className="w-full h-12 pl-10 pr-8 rounded-xl bg-slate-800 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-400 cursor-pointer appearance-none"
+                  className="w-full h-12 pl-10 pr-8 rounded-xl bg-slate-800 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-emerald-400 cursor-pointer appearance-none"
                 >
                   <option value="">Entrance: JEE Main / Direct / CET</option>
                   <option value="jee-main">JEE Main 90+ %ile</option>

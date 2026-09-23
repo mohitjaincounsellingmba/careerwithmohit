@@ -75,8 +75,6 @@ PGPM is a fast-track **1-year MBA equivalent** for those with at least 24 months
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

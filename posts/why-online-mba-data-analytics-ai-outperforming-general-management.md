@@ -99,7 +99,7 @@ Several premium universities offer high-quality online degrees in this domain:
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

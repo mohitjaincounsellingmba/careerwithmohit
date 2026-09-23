@@ -116,8 +116,6 @@ Choosing the right integrated MBA track that aligns with your placement expectat
 **Get expert profile evaluation and admissions guidance:**
 
 [👉 Build My Integrated MBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

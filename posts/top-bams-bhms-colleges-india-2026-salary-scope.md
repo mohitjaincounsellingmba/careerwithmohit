@@ -146,8 +146,6 @@ Ayurveda and Homeopathy are the future of personalized medicine. Don't waste you
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -178,8 +178,6 @@ IIM Indore and IIM Lucknow have among the highest total intakes. IIM Indore offe
 Following the IIM Act of 2017, Indian Institutes of Management now award Master of Business Administration (MBA) degrees instead of Post Graduate Diploma in Management (PGDM) for their flagship two-year programs.
 
 ---
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your MBA Preparation

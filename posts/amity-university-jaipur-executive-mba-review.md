@@ -103,8 +103,6 @@ While CAT/MAT/GMAT scores are appreciated, Amity conducts its own written assess
 ### Are there placements for this program?
 Amity provides access to its centralized placement portal, though most weekend candidates leverage the degree for lateral shifts.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

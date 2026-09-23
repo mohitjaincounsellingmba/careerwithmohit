@@ -103,8 +103,6 @@ No, government college seats are reserved for students with UP domicile. Outside
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

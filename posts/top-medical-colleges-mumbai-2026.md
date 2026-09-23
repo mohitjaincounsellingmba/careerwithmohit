@@ -145,8 +145,6 @@ Mumbai medical colleges aren't just about exams; they are about surviving the bu
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

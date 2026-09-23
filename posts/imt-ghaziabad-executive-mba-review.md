@@ -102,8 +102,6 @@ Yes, it is a full-time residential program for 12 months, followed by 3 months o
 ### What are the accepted entrance test scores?
 IMT accepts valid scores from CAT, XAT, and GMAT.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

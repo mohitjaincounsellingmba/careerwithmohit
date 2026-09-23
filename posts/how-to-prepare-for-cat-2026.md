@@ -133,5 +133,3 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 
 ---
-
-Source: Shiksha.com

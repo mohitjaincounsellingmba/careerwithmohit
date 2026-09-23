@@ -170,8 +170,6 @@ Navigating through fee structures and placement records can be overwhelming. At 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

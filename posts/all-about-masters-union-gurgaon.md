@@ -123,8 +123,6 @@ MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning,
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

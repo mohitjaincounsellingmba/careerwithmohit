@@ -144,8 +144,6 @@ MANIT Bhopal charges approximately ₹1.5 Lakhs per year — making it one of th
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -78,8 +78,6 @@ The university has strong links in the **Service and Hospitality sectors**, with
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

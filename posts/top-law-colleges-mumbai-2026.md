@@ -144,8 +144,6 @@ Mumbai is about the hustle. Don't waste your years at a college without a law fi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

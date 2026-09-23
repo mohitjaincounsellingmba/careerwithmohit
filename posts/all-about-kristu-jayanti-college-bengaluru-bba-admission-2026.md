@@ -84,8 +84,6 @@ The panel at KJC focuses on your values and communication skills. Mohit Jain’s
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

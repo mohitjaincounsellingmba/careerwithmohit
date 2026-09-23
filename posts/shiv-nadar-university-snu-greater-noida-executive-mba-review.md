@@ -104,8 +104,6 @@ SMAT is the Shiv Nadar University Management Admission Test, an internal entranc
 ### Is the SNU campus residential?
 SNU has a fully residential 286-acre campus, but the Executive MBA is structured to accommodate commuter and weekend candidates.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

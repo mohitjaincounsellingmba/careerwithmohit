@@ -132,8 +132,6 @@ Lucknow is about growth and heritage. Don't waste your score on a college withou
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

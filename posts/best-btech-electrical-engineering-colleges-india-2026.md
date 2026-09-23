@@ -188,8 +188,6 @@ Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE: ₹9�
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

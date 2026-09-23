@@ -92,7 +92,7 @@ To ensure you face no issues during your government job document verification, v
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

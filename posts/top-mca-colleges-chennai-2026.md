@@ -133,8 +133,6 @@ Chennai offers discipline and depth. Don't waste your years at a college without
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

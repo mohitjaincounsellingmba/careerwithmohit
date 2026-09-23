@@ -150,8 +150,6 @@ Mumbai is competitive. Don't be just another applicant. Get Mohit's direct indus
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

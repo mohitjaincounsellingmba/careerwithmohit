@@ -103,8 +103,6 @@ No, classes are scheduled primarily on weekends and in evening blocks to accommo
 ### What is the entrance exam accepted?
 Admissions are made based on CUET PG or the university's counselling guidelines for working candidates.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

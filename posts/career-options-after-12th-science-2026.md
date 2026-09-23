@@ -121,8 +121,6 @@ B.Tech is a professional degree focused on applied engineering, while B.Sc is an
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -129,8 +129,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Ready to test your level? **[Access our Free IPMAT Mock Test Hub](/mock-tests)** to practice with real exam-level questions and time tracking.
 
 
-Source: Shiksha.com
-
 
 ## Verified 2027–2029 MBA / PGDM Comparison Matrix
 

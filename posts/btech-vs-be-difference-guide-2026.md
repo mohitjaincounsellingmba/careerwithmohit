@@ -118,8 +118,6 @@ The best engineers come from the best labs, not the best degree names. Mohit Jai
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

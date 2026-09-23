@@ -182,8 +182,6 @@ Graphic Era charges approximately ₹1.8 Lakhs per year. Total B.Tech programme 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

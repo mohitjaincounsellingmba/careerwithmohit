@@ -231,7 +231,7 @@ export default function CollegesPage() {
                 <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
                   India&apos;s Pan-India MBA & Engineering Directory{' '}
                   <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                    By State, City & Cutoff (Shiksha Format)
+                    By State, City & Cutoff (Pan-India Directory)
                   </span>
                 </h2>
                 <div className="w-20 h-1.5 bg-blue-600 rounded-full mb-6" />

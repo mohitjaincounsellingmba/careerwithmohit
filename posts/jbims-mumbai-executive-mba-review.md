@@ -106,8 +106,6 @@ Yes, the Master's in Management Studies for Working Professionals at JBIMS is fu
 ### What is the focus of JBIMS executive programs?
 JBIMS is historically famous for its Finance, Investment Banking, and General Management specializations.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

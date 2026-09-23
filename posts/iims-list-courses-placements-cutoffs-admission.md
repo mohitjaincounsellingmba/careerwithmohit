@@ -215,8 +215,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

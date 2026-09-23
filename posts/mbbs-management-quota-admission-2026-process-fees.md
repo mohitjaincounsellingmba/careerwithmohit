@@ -117,8 +117,6 @@ A management quota seat is a massive investment of your family's hard-earned mon
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

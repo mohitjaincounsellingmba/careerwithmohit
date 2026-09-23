@@ -138,8 +138,6 @@ Mumbai is about high-stakes logic. Don't waste your years at a college without a
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

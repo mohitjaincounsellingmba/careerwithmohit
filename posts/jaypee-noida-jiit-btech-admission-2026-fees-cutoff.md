@@ -101,8 +101,6 @@ Yes, JIIT provides well-maintained hostels for both boys and girls at its Sector
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -92,8 +92,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Greater Noida Business School](/colleges/greater-noida-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Greater Noida Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

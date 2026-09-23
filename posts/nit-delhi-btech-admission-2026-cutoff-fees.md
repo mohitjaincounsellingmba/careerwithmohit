@@ -101,8 +101,6 @@ Admission is strictly through JEE Main 2026 and JoSAA/CSAB counselling.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

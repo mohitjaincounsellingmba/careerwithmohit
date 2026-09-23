@@ -113,8 +113,6 @@ Applicants need a minimum of 5 years of post-qualification managerial/profession
 ### Does the program include a corporate project?
 Yes, the final 3 months of the 15-month program are dedicated to an in-depth corporate internship/project.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

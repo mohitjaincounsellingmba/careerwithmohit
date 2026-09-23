@@ -190,8 +190,6 @@ Fresh B.Tech Civil Engineering graduates earn ₹4–7 LPA in private sector. PS
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

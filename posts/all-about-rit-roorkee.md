@@ -88,8 +88,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Roorkee Institute of Technology (RIT)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

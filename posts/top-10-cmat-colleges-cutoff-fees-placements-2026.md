@@ -297,8 +297,6 @@ For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is better fo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

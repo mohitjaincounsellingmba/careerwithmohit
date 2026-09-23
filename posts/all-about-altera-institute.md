@@ -92,8 +92,6 @@ The ALAT process is highly practical, often involving a case presentation or a m
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

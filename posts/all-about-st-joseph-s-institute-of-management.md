@@ -88,8 +88,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [St Joseph's Institute of Management](/colleges/st-joseph-s-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to St Joseph's Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -152,7 +152,7 @@ A career counsellor helps students evaluate their strengths, interests, and care
 ### How important is NAAC accreditation for a university?
 NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of education, infrastructure, and research at a university, serving as a reliable benchmark for students.
 
-Source: NTA / Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

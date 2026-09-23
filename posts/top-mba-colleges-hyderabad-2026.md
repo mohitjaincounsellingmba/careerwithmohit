@@ -143,8 +143,6 @@ Don't just pick a name from a brochure. Get the ground reality of Hyderabad B-sc
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

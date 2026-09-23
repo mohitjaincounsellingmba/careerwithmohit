@@ -205,8 +205,6 @@ Fresh B.Tech ME graduates earn ₹4–8 LPA in private sector. Government PSU (v
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

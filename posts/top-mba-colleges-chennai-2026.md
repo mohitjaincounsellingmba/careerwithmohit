@@ -141,8 +141,6 @@ Chennai's B-schools are known for discipline and academic rigour. Mohit Jain pro
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

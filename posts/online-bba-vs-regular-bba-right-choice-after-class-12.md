@@ -93,7 +93,7 @@ If you decide to go online, ensure the university is recognized:
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

@@ -139,8 +139,6 @@ CUET is a game of strategy, not just knowledge. Don't waste your score on a univ
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

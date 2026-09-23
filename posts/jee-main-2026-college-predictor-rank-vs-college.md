@@ -140,8 +140,6 @@ Don't guess with your career. A "Safe Allotment" depends on your rank, category,
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

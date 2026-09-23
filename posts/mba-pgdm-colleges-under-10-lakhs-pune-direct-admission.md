@@ -94,8 +94,6 @@ Absolutely not. Companies recruit based on skills, communication, and aptitude. 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

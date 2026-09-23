@@ -107,8 +107,6 @@ While Kengeri is further from the city hub, it is well-connected by the Bangalor
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

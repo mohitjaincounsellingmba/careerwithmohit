@@ -117,8 +117,6 @@ At **CareerWithMohit**, we help you choose the right PGDM specializations and ce
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

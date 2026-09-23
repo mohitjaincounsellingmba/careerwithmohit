@@ -224,9 +224,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

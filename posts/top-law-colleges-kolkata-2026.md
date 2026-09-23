@@ -141,8 +141,6 @@ Kolkata offers heritage and excellence. Don't waste your years at a college with
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

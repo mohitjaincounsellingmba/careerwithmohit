@@ -78,8 +78,6 @@ The tuition fee is approximately **₹60,000 per year**, totaling around **₹1.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

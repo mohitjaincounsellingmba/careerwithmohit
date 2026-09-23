@@ -103,8 +103,6 @@ Yes, MAIT provides separate hostel facilities for boys and girls with both AC an
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

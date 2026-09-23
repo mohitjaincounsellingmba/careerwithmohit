@@ -123,8 +123,6 @@ MBM Jodhpur is traditionally considered the top-ranked preference followed by RT
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

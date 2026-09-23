@@ -128,8 +128,6 @@ Agents push colleges where they get the highest commission. Don't be a statistic
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

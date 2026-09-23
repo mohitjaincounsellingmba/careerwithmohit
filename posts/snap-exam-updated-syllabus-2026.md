@@ -193,8 +193,6 @@ Each correct answer carries +1 mark, while each incorrect answer attracts a pena
 
 ---
 
-Source: Shiksha.com / Official SNAP Bulletin (snaptest.org)
-
 ---
 
 ### 🚀 Boost Your Preparation

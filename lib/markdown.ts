@@ -76,8 +76,12 @@ export function getPostData(slug: string): PostData | null {
     const fullPath = path.join(postsDirectory, `${slug}.md`);
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
-    // Use gray-matter to parse the post metadata section
-    const matterResult = matter(fileContents);
+    // Sanitize content to remove any third-party competitor credits
+    const sanitizedContent = (matterResult.content || "")
+      .replace(/^Source:\s*Shiksha.*$/gim, '')
+      .replace(/^Source:\s*.*Shiksha\.com.*$/gim, '')
+      .replace(/For more insights on online universities and courses, explore \[Online Shiksha\]\(https:\/\/onlineshiksha\.online\/\)\.?/gim, '')
+      .trim();
 
     return {
       slug,
@@ -85,7 +89,7 @@ export function getPostData(slug: string): PostData | null {
       date: matterResult.data.date,
       description: matterResult.data.description,
       keywords: matterResult.data.keywords || [],
-      content: matterResult.content,
+      content: sanitizedContent,
       faqs: matterResult.data.faqs || [],
       category: inferCategory(matterResult.data, slug),
       image: getValidImage(matterResult.data.image),

@@ -123,8 +123,6 @@ The CFA designation is more than just an exam; it’s a commitment to profession
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

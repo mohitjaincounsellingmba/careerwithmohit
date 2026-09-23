@@ -99,8 +99,6 @@ Yes, a small percentage of seats are filled under the management quota based on 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

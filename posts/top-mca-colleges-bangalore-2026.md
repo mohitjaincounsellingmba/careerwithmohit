@@ -134,8 +134,6 @@ Bangalore is the big league. Don't waste your years at a college with zero place
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

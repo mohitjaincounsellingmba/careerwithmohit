@@ -100,7 +100,7 @@ A common complaint about online programs is the lack of physical networking. How
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

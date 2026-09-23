@@ -124,8 +124,6 @@ Most government-affiliated colleges in Kota accept **CMAT** or the **RMAP** proc
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

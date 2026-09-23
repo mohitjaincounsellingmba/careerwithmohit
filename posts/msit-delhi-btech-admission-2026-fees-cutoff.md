@@ -104,8 +104,6 @@ MSIT maintains a decent academic environment, and while there isn't a strict uni
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

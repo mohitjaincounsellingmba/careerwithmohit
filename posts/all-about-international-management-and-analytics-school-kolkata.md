@@ -93,8 +93,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to International Management and Analytics School Kolkata](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

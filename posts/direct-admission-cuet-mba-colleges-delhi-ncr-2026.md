@@ -142,8 +142,6 @@ Most private universities start their intake in **January - March** for the upco
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -102,8 +102,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Christ University - School of Business and Management](/colleges/christ-university-school-of-business-and-management-pune) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Christ University - School of Business and Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

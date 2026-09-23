@@ -199,9 +199,7 @@ Budget for an annual examination fee of ~₹4,000 and a one-time registration fe
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

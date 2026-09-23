@@ -113,8 +113,6 @@ Law graduates can practice in courts, join corporate law firms as legal advisors
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

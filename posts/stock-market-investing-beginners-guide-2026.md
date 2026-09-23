@@ -116,8 +116,6 @@ Investing is a journey of discipline. Don't waste your capital on "get rich quic
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

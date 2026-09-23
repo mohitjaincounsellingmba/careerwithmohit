@@ -69,8 +69,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [NERIM Group of Institutions](/colleges/nerim-group-of-institutions) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to NERIM Group of Institutions](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

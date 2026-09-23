@@ -132,8 +132,6 @@ Pune is the city of logic. Don't waste your years at a college with no recruiter
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

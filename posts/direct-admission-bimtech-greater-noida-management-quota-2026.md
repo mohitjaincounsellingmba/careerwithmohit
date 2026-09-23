@@ -98,8 +98,6 @@ BIMTECH is one of the top institutes in India for **PGDM-Insurance Business**, o
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

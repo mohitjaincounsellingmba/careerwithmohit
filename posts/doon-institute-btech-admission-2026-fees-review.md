@@ -82,8 +82,6 @@ Placements are solid for local industries, with top service companies frequently
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

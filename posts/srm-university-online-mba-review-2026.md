@@ -194,9 +194,7 @@ SRM focuses on niche specializations (AI, Healthcare) and has stronger tech sect
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

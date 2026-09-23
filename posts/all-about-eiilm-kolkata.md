@@ -98,8 +98,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Eastern Institute for Integrated Learning in Management (EIILM)](/colleges/eiilm-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Eastern Institute for Integrated Learning in Management (EIILM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

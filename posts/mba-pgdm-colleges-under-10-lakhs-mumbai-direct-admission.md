@@ -99,8 +99,6 @@ Finance and Marketing reign supreme in Mumbai due to the sheer concentration of 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

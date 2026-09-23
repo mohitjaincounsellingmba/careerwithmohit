@@ -201,9 +201,7 @@ Yes. The program features live and recorded sessions accessible 24/7, designed s
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

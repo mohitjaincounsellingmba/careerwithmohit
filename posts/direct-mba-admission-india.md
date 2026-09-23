@@ -161,8 +161,6 @@ Our experts help you navigate the management quota process with 100% transparenc
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -103,8 +103,6 @@ Yes, IIFT has a lateral recruitment support cell that helps candidates access se
 ### What is the schedule of classes for the Executive MBA at IIFT?
 IIFT offers the program in weekend format (Saturdays and Sundays) as well as modular format (on-campus blocks every few months).
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

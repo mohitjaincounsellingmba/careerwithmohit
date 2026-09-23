@@ -123,8 +123,6 @@ Ahmedabad is about resilience and scaling. Don't waste your score on a college w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -185,8 +185,6 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

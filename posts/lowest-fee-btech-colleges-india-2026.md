@@ -197,8 +197,6 @@ Yes. SC/ST students at government colleges receive full fee waivers funded by st
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

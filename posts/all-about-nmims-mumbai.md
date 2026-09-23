@@ -93,8 +93,6 @@ The college accepts scores from national level entrance examinations including N
 **Final Verdict**: [NMIMS Mumbai](/colleges/nmims-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to NMIMS Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

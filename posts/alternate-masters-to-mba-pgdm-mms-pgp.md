@@ -180,8 +180,6 @@ Yes, as long as the PGDM is AIU-approved, it is recognized as equivalent to a ma
 Yes, many private AICTE-approved colleges offer direct admission options under management quota or institutional rounds, provided you meet their minimum eligibility criteria and have sat for a national entrance exam.
 
 ---
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

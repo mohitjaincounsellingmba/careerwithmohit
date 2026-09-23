@@ -110,8 +110,6 @@ Cycle 1 usually ends in **January**, with subsequent rounds ending in March or A
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

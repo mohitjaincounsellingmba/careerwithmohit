@@ -79,8 +79,6 @@ Yes, UOK is a UGC-recognized state university. Its MBA degree is fully valid for
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

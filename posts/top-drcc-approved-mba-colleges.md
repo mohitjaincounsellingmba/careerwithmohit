@@ -193,8 +193,6 @@ No reputable, top-tier B-school will charge extra for processing DRCC applicatio
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

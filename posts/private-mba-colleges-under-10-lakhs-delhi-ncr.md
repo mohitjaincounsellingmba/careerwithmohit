@@ -168,8 +168,6 @@ An MBA under ₹10 Lakhs in the NCR region is highly achievable and strategicall
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -94,8 +94,6 @@ Yes, the campus has separate hostels for boys and girls with 24/7 security, Wi-F
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

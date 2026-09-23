@@ -209,8 +209,6 @@ For CSE and electronics in private sector placements, [BITS Pilani](/colleges/bi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

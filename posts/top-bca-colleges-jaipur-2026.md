@@ -133,8 +133,6 @@ Jaipur offers authority and value. Don't pick a college that is just a building 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

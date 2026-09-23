@@ -95,8 +95,6 @@ The college accepts scores from national level entrance examinations including L
 **Final Verdict**: [Lovely Professional University](/colleges/lovely-professional-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Lovely Professional University](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

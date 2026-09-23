@@ -137,5 +137,3 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 ### 🚀 Boost Your Preparation
 Whichever path you choose, a high CAT/NMAT score is the first step. **[Access our Free Mock Test Series 2026](/mock-tests)** to start your journey toward India's top B-schools.
 
-
-Source: Shiksha.com

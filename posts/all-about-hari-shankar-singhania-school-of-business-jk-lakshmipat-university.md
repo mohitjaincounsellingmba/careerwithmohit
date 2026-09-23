@@ -114,8 +114,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Hari Shankar Singhania School of Business, JK Lakshmipat University](/colleges/hari-shankar-singhania-school-of-business-jk-lakshmipat-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Hari Shankar Singhania School of Business, JK Lakshmipat University](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

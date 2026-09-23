@@ -149,8 +149,6 @@ Choosing the right branch and college during CAP rounds is tricky. DSE cutoffs c
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

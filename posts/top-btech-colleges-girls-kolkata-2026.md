@@ -126,8 +126,6 @@ Kolkata is about intellect and equality. Don't waste your score on a college wit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

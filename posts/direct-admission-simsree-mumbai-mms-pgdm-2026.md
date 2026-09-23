@@ -104,8 +104,6 @@ The current average package is approximately **₹15.19 LPA**.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -114,8 +114,6 @@ Yes, a valid GMAT or GRE score is mandatory for securing admission to the IPMX p
 ### Does IPMX include an international module?
 Yes, the program includes a mandatory international immersion module at a partner foreign university.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

@@ -113,8 +113,6 @@ At **CareerWithMohit**, we help you navigate the noisy MBA market to find an ins
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

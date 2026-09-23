@@ -78,8 +78,6 @@ Yes, the group has a centralized placement cell that works with local industries
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

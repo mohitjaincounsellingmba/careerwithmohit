@@ -145,8 +145,6 @@ Don't pick a degree based on your neighbor's advice. Mohit Jain provides a "Care
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

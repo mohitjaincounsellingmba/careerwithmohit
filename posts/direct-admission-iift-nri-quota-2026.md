@@ -79,8 +79,6 @@ You will typically need a valid Passport, proof of NRI status (e.g., Parent's wo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

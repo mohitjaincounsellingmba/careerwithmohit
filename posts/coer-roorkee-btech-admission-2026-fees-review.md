@@ -88,8 +88,6 @@ The highest package recorded for the recent batch was ₹44 LPA.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

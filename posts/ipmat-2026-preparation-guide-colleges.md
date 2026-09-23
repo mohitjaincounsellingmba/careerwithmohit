@@ -140,8 +140,6 @@ IPMAT is about speed, precision, and endurance. Don't waste your attempt on a su
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

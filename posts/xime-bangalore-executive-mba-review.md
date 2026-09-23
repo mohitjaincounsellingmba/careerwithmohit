@@ -106,8 +106,6 @@ Candidates must possess at least 5 years of post-qualification corporate or entr
 ### Which specializations are available?
 Specializations include Finance, Marketing, HR, Information Technology, and Operations.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

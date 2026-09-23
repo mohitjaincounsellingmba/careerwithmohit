@@ -145,8 +145,6 @@ Finance is a game of credibility. Don't waste your degree at a college that big 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

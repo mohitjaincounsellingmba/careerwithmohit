@@ -96,8 +96,6 @@ RV College of Engineering (RVCE) Bangalore is consistently ranked as the #1 pref
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

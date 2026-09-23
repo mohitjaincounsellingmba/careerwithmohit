@@ -143,8 +143,6 @@ Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tool
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -111,8 +111,6 @@ Choosing the right engineering branch (CSE, AIML, ECE) is as important as choosi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -245,8 +245,6 @@ With a JEE Advanced rank of ~1,000, you can target IIT Kharagpur CSE, IIT Roorke
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

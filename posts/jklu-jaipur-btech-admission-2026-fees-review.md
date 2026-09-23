@@ -96,8 +96,6 @@ Yes, high-merit students can get up to 100% tuition fee waivers based on JEE/CUE
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

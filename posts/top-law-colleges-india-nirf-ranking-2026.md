@@ -136,8 +136,6 @@ India's legal education is highly competitive. Choosing the wrong NLU tier can c
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

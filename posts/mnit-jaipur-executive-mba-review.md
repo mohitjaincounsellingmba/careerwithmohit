@@ -107,8 +107,6 @@ Classes are conducted primarily on weekends and in evening sessions on weekdays.
 ### Is there a written exam?
 Yes, MNIT conducts its own written assessment to test candidates on quantitative and verbal abilities.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

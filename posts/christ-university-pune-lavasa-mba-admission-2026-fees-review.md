@@ -106,8 +106,6 @@ While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

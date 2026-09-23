@@ -107,7 +107,7 @@ When you apply for a job or an MBA after your BBA, your work experience will be 
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

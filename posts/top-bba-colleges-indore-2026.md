@@ -119,8 +119,6 @@ Indore is about speed and specialized networking. Don't waste your score on a co
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

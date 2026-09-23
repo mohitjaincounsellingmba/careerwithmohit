@@ -150,7 +150,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ---
 
-Source: NTA / Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

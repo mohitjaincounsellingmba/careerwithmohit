@@ -109,7 +109,7 @@ If you are pursuing an online MBA, use these strategies to match the corporate v
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

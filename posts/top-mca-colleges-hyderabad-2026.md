@@ -127,8 +127,6 @@ Hyderabad offers authority and value. Don't waste your years at a college with z
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

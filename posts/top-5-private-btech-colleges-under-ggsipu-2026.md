@@ -135,7 +135,7 @@ Yes, Echelon Institute of Technology (EIT), Faridabad has officially shifted its
 **4. What are the typical placements at MSIT Delhi?**
 The average placement package at Maharaja Surajmal Institute of Technology (MSIT) ranges between ₹5.0 LPA and ₹8.0 LPA, with top packages going above ₹50 LPA.
 
-Source: College Portals, GGSIPU Admission Catalog, Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

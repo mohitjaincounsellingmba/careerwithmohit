@@ -227,8 +227,6 @@ Making the right MBA decision in 2026 requires more than just clearing an entran
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

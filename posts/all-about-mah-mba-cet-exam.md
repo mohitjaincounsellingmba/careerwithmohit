@@ -147,8 +147,6 @@ Yes! Maharashtra domicile students admitted through CAP rounds can apply for **E
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

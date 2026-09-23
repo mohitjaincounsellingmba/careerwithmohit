@@ -82,8 +82,6 @@ No, it is a profile-linked merit process conducted through the institutional quo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -82,8 +82,6 @@ A score of **665+ on the GMAT Focus Edition** is considered safe for the NRI/FN 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

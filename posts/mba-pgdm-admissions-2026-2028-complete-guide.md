@@ -158,8 +158,6 @@ An MBA is a heavy investment of time and money, but meticulous planning guarante
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

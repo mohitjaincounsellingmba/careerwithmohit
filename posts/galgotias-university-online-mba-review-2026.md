@@ -205,9 +205,7 @@ No. Admission is open to fresh graduates and working professionals without any e
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

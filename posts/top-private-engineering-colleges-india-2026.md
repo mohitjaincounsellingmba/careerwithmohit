@@ -223,8 +223,6 @@ Private deemed universities (BITS, VIT, SRM, MIT) award their own degrees and ha
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

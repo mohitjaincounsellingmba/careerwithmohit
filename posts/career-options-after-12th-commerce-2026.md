@@ -152,8 +152,6 @@ Top options include **CA, CS, Law (LLB), Hotel Management, and Digital Marketing
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

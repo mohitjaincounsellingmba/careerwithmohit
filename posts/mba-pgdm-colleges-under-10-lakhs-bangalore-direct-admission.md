@@ -90,8 +90,6 @@ Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 La
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

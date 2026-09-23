@@ -140,8 +140,6 @@ Stop following generic advice. Mohit Jain provides a **Personalized CAT Roadmap*
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -103,8 +103,6 @@ The admission cycle typically begins in **December/January** for the July intake
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

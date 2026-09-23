@@ -92,8 +92,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Institute of Management Studies](/colleges/institute-of-management-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Institute of Management Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

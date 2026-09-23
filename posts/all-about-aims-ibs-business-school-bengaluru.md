@@ -86,8 +86,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [AIMS IBS Business School Bengaluru](/colleges/aims-ibs-business-school-bengaluru) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to AIMS IBS Business School Bengaluru](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

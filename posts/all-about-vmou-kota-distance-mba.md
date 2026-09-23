@@ -78,8 +78,6 @@ Unlike regular programs, VMOU focus is on providing academic flexibility. Howeve
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

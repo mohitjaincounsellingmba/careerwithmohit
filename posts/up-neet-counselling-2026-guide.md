@@ -145,8 +145,6 @@ UP counselling is a game of strategy. One wrong move and your security deposit i
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

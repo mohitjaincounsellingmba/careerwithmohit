@@ -104,8 +104,6 @@ Yes, the Executive MBA at Jamia Millia Islamia is fully approved by the Universi
 ### What are the class timings?
 Classes are conducted during weekends (Saturdays and Sundays) at the Faculty of Management Studies building on JMI campus.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

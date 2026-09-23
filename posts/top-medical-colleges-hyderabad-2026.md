@@ -140,8 +140,6 @@ Hyderabad offers authority and innovation. Don't waste your score on a college w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

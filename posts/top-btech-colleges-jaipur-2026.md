@@ -193,8 +193,6 @@ Private engineering college fees in Jaipur range from ₹90,000 to ₹2.5 Lakhs 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

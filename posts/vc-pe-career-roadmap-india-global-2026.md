@@ -133,8 +133,6 @@ The Buy-Side is where the real power in finance lies. Don't waste your effort by
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

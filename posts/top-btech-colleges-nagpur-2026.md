@@ -146,8 +146,6 @@ Yes. MIHAN's growing aerospace/logistics hub, Nagpur's expanding IT sector (TCS,
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

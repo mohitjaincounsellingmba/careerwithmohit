@@ -106,8 +106,6 @@ The program is structured over 30 months (2.5 years) split into semesters.
 ### What is the minimum work experience required?
 A minimum of 2 years of post-graduation professional work experience is required to apply.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

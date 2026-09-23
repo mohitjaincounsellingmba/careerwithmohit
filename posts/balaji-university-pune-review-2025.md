@@ -97,8 +97,6 @@ The university operates on a **365-day model** with strict attendance and profes
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

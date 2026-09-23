@@ -131,8 +131,6 @@ At **CareerWithMohit**, we help you find "Independent" colleges where you get pe
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

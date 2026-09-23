@@ -131,8 +131,6 @@ Pune isn't just about Vada Pav; it's about the law that runs the nation. Don't w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

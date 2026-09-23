@@ -161,8 +161,6 @@ IIT Indore charges approximately ₹2.5 Lakhs per year, identical to all other I
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

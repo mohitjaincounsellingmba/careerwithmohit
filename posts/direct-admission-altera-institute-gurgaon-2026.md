@@ -102,8 +102,6 @@ Minimum 50% in graduation and a valid score in ALNAT or any national entrance ex
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

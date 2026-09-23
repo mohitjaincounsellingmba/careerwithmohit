@@ -202,9 +202,7 @@ Yes. Zero-cost EMI options are available through partner banks. You can also app
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

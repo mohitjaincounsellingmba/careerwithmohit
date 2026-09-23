@@ -102,8 +102,6 @@ At **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagp
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

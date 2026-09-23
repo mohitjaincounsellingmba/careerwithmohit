@@ -232,8 +232,6 @@ Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than m
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

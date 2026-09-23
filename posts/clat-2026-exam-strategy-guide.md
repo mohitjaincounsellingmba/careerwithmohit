@@ -146,8 +146,6 @@ CLAT is a test of stamina. Don't waste your months on the wrong material. Mohit 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

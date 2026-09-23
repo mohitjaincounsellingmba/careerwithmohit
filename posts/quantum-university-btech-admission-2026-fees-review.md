@@ -106,8 +106,6 @@ Yes, students with very high 10+2 marks can apply for direct merit-based admissi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

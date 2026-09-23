@@ -141,8 +141,6 @@ Doing an MCA provides advanced technical expertise and is often treated on par w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

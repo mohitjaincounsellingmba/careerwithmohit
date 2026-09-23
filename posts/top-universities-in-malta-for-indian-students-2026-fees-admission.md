@@ -161,8 +161,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

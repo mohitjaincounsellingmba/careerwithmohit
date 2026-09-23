@@ -113,8 +113,6 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

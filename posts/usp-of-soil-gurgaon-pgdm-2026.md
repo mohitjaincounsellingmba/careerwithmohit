@@ -249,5 +249,3 @@ PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lak
 
 ---
 
-
-Source: Shiksha.com

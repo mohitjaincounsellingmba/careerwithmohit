@@ -102,8 +102,6 @@ The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT scores ar
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

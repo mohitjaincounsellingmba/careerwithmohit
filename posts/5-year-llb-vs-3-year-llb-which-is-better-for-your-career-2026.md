@@ -144,8 +144,6 @@ Don't pick a degree just because it sounds prestigious. Mohit Jain provides a "L
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

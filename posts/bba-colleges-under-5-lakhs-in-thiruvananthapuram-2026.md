@@ -121,8 +121,6 @@ Choosing a budget-friendly BBA college that matches your career aspirations can 
 
 [👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## 🚀 Boost Your Preparation

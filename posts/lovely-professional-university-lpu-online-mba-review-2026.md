@@ -200,9 +200,7 @@ Yes. LPU provides no-cost EMI options through partner banks, making the program 
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

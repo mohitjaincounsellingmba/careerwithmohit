@@ -132,8 +132,6 @@ Selecting the right specialization (like CSE vs. VLSI) and balancing fees with p
 
 [👉 Build My M.Tech Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## 🚀 Boost Your Preparation

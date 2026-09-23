@@ -103,8 +103,6 @@ For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is accep
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -130,8 +130,6 @@ Kolkata offers branding that spans decades. Don't waste your precious 3 years at
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

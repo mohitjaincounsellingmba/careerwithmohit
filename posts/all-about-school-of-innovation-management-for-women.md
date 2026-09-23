@@ -93,8 +93,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [School of Innovation & Management (for Women)](/colleges/school-of-innovation-management-for-women) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to School of Innovation & Management (for Women)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -99,8 +99,6 @@ The college accepts scores from national level entrance examinations including I
 **Final Verdict**: [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Gitarattan International Business School (GIBS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

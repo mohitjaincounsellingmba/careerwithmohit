@@ -114,8 +114,6 @@ Choosing a budget-friendly MBA college that matches your profile and placement a
 
 [👉 Build My MBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

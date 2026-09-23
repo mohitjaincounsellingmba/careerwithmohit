@@ -111,8 +111,6 @@ Unlike other exams, CUET PG has a high "penalty" for wrong guesses. For every in
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -138,8 +138,6 @@ Don't pick a college just because it's near your house. A medical degree is abou
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

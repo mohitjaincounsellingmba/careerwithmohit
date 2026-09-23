@@ -69,8 +69,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Dr Gaur Hari Singhania Institute of Management & Research](/colleges/dr-gaur-hari-singhania-institute-of-management-research) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Dr Gaur Hari Singhania Institute of Management & Research](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

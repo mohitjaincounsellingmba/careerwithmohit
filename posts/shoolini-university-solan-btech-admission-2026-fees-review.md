@@ -103,8 +103,6 @@ Yes, Shoolini accepts JEE Main, CUET, and its own SU-SAT scores for admission.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

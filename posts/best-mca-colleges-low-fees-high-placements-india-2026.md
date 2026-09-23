@@ -137,8 +137,6 @@ A high-end tech career doesn't require a ₹10 Lakh loan. Don't waste your money
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

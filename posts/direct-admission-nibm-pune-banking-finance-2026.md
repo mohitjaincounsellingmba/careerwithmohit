@@ -101,8 +101,6 @@ For a specialized career in **Banking and Financial Risk Management**, NIBM is c
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

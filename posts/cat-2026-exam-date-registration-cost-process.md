@@ -150,8 +150,6 @@ With the CAT exam scheduled for November, the mid-year window is the perfect tim
 
 ---
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

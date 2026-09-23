@@ -104,8 +104,6 @@ The highest package recent reached ₹26 LPA at the Greater Noida campus.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

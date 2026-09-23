@@ -141,8 +141,6 @@ The total first-year fee for the B.Tech program at EIT Faridabad is ₹1,87,200.
 
 **4. Are BBA and BCA courses offered at EIT Faridabad?**
 Yes, EIT Faridabad offers both BBA and BCA undergraduate courses. The first-year fee is ₹1,49,700 for BBA and ₹1,47,600 for BCA.
-
-Source: Shiksha.com, EIT Faridabad Official Portal
 ---
 
 ### 🚀 Boost Your Preparation

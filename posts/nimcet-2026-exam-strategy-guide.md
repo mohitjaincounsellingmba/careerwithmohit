@@ -120,8 +120,6 @@ NIMCET is a math-war. Don't get lost in English or Computers. Mohit Jain provide
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

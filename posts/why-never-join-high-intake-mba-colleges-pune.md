@@ -140,8 +140,6 @@ Check the **AICTE Extension of Approval (EoA)** letter on the college website. T
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

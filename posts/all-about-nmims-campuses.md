@@ -432,8 +432,6 @@ NMIMS runs a partially centralized placement system. Students from newer campuse
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

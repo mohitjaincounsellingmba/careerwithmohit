@@ -100,8 +100,6 @@ Yes. Once you are part of the program, placements are entirely driven by your sk
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

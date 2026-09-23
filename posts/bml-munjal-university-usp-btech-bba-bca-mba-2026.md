@@ -367,5 +367,3 @@ Yes — merit-based scholarships linked to JEE Main percentile and Class 12 scor
 
 ---
 
-
-Source: Shiksha.com

@@ -212,8 +212,6 @@ JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme cost is
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

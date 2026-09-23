@@ -103,8 +103,6 @@ Classes are conducted primarily on weekends (Saturdays and Sundays) to allow pro
 ### Does [Sharda University](/colleges/sharda-greater-noida) offer study material online?
 Yes, Sharda provides access to a comprehensive LMS (Learning Management System) for hybrid and weekend learners.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

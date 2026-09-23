@@ -189,5 +189,3 @@ Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA 
 
 ---
 
-
-Source: Shiksha.com

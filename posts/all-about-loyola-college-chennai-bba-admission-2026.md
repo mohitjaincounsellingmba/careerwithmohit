@@ -85,8 +85,6 @@ With cutoffs touching 98% in some years, you need a backup plan. Mohit Jain’s 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

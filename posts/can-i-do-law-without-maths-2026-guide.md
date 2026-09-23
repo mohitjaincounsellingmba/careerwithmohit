@@ -132,8 +132,6 @@ India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks o
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

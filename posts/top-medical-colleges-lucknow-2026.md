@@ -139,8 +139,6 @@ Lucknow offers clinical depth and authority. Don't waste your score on a college
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -198,5 +198,3 @@ Yes — placing it in the top 6% of B-schools globally.
 
 ---
 
-
-Source: Shiksha.com

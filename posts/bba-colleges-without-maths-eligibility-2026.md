@@ -132,8 +132,6 @@ A management mind is about strategy, not just numbers. Don't waste your score on
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

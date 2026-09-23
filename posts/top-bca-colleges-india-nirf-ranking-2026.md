@@ -138,8 +138,6 @@ India's BCA landscape is crowded with "Degree Shops." Don't waste your precious 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

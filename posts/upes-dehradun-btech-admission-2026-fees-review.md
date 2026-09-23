@@ -106,8 +106,6 @@ It is a global leader for core sectors like energy, petroleum, and aviation engi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

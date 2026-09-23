@@ -129,8 +129,6 @@ Private law schools can be a massive investment. Don't invest ₹30 Lakhs withou
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

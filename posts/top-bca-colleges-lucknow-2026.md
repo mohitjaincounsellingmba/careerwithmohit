@@ -137,8 +137,6 @@ Lucknow offers value and authority. Don't waste your degree at a college that do
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

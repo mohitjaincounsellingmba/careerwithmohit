@@ -132,8 +132,6 @@ Delhi NCR is the biggest IT cluster in the North. Don't waste your degree at a c
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

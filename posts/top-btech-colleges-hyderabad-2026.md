@@ -220,8 +220,6 @@ BITS Hyderabad has slightly higher placement packages for CSE/ECE. NIT Warangal 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

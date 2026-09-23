@@ -104,8 +104,6 @@ Yes, the program is conducted jointly with the Department of Management Studies,
 ### What is the average package for this course?
 The average CTC ranges from ₹22.00 to ₹25.00 LPA, with top consulting and manufacturing companies recruiting.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

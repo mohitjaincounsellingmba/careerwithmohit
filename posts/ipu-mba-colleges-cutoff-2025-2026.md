@@ -144,8 +144,6 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -103,8 +103,6 @@ A minimum of 5 years of full-time professional experience is required to apply.
 ### Are there scholarship opportunities?
 IMS Ghaziabad offers merit-based scholarships based on past academics and CAT/XAT score performance.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

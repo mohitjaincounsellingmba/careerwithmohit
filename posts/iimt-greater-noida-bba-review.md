@@ -146,8 +146,6 @@ The average salary package for undergraduate BBA graduates at IIMT Greater Noida
 Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in 10+2 from a recognized board) can apply for direct merit-based admission or register through CCS University counseling.
 
 ---
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

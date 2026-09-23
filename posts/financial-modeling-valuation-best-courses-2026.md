@@ -132,8 +132,6 @@ A financial model is a map of the future. Don't waste your score on a career wit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

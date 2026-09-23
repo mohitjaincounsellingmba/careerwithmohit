@@ -114,8 +114,6 @@ BIMTECH holds AACSB accreditation, placing it in the top 5% of business schools 
 ### Is there an age limit to apply?
 There is no upper age limit, but applicants must have a minimum of 5 years of managerial experience.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

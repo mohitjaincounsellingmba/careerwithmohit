@@ -100,8 +100,6 @@ Masters Union is not a traditional university; it offers a Post Graduate Program
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

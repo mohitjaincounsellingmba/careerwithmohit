@@ -112,8 +112,6 @@ Classes for the Executive MBA programs are held in the evening from 6:00 PM to 9
 ### Is there an entrance exam for FMS Executive MBA?
 There is no written entrance test like CAT. Admission is based on past academic performance, length of work experience, write-up assessment, and performance in the personal interview.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

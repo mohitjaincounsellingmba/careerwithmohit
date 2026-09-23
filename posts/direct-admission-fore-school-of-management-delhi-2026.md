@@ -107,8 +107,6 @@ Yes, FORE has a balanced mix of freshers and students with professional work exp
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

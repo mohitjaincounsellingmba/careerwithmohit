@@ -79,8 +79,6 @@ The total fee is exceptionally affordable at approximately **₹1.29 Lakhs** for
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

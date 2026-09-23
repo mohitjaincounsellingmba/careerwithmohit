@@ -159,8 +159,6 @@ While merit-based scholarships like Aditya Birla require a high entrance rank, s
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -242,8 +242,6 @@ For core branches (ECE, Mechanical, Civil), the cutoff difference narrows signif
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

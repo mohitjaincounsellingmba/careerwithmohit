@@ -146,8 +146,6 @@ Preparing for IPMAT requires a clear understanding of sectional cutoffs and spee
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

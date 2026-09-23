@@ -109,8 +109,6 @@ While Central Campus is the urban heart, Kengeri offers a lush, sprawling enviro
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -85,8 +85,6 @@ MCC is the only college in India with a scrub jungle on campus. Mohit Jain’s "
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

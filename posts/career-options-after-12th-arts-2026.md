@@ -130,8 +130,6 @@ Yes, arts students can excel as UI-UX Designers, Technical Writers, or Digital M
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -119,8 +119,6 @@ Forensic accounting is where ethics meets intelligence. Don't waste your career 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

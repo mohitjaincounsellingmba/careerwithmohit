@@ -90,8 +90,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [MNIT Jaipur](/colleges/mnit-jaipur) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to MNIT Jaipur](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

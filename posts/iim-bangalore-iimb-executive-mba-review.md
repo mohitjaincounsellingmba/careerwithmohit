@@ -98,8 +98,6 @@ The average GMAT score of the enrolled batch typically hovers around 700 to 710.
 ### Are there placements for EPGP students?
 Yes, IIMB provides full placement support, matching or exceeding average salaries of the 2-year PGP program, with recruiters like McKinsey, BCG, Bain, and Amazon.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

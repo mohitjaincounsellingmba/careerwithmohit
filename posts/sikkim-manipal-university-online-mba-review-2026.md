@@ -193,9 +193,7 @@ Yes — and this is actually included in the base fee, which is rare. You can co
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

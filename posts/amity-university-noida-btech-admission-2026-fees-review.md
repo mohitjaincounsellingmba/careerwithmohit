@@ -104,8 +104,6 @@ Admission is typically based on 10+2 merit and JEE scores, often followed by a p
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

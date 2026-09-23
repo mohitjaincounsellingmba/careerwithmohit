@@ -101,8 +101,6 @@ The total fee for the entire program is approximately ₹4.50 Lakhs, making it h
 ### Are classes online or offline?
 The program is primarily offline, with classes held on weekends at the Kirkee campus in Pune.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

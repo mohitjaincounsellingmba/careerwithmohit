@@ -134,8 +134,6 @@ Don't gamble with your tech future. Mohit Jain provides a **Safe Tech Seat Audit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

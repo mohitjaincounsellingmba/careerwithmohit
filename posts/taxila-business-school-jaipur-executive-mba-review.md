@@ -103,8 +103,6 @@ The program is structured over 18 to 24 months, with weekend learning patterns.
 ### Do they offer placement assistance?
 Yes, Taxila provides dedicated placement support to help candidates transition laterally.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

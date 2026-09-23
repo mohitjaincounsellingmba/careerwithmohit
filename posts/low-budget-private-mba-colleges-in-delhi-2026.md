@@ -142,8 +142,6 @@ Finding the right budget private MBA college that matches your profile and caree
 
 [👉 Build My MBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## 🚀 Boost Your Preparation

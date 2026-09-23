@@ -120,8 +120,6 @@ At **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

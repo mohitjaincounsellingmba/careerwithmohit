@@ -134,8 +134,6 @@ MAH MCA CET is a race against time. Don't get stuck on one math problem. Mohit J
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

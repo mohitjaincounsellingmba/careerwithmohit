@@ -128,8 +128,6 @@ Choosing the right business school is one of the most critical decisions of your
 
 [👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

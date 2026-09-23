@@ -138,8 +138,6 @@ An MCA transforms you from a "Computer Assistant" to a "Software Engineer." Don'
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

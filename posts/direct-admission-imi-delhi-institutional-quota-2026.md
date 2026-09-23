@@ -106,8 +106,6 @@ Yes, [IMI Delhi](/colleges/imi-delhi) has a good mix of both freshers and studen
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

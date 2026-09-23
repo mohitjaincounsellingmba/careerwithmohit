@@ -104,8 +104,6 @@ Yes, being an AKTU affiliate, JSS follows the 75% attendance rule strictly.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

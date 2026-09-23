@@ -88,8 +88,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Regional College of Management (RCM)](/colleges/rcm-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Regional College of Management (RCM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

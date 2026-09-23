@@ -134,8 +134,6 @@ Direct admission is a massive investment in your career. Don't waste it on a col
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -112,9 +112,7 @@ At **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

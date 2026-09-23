@@ -104,8 +104,6 @@ The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC studen
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

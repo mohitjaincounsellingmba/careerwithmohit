@@ -106,8 +106,6 @@ No, PUMBA conducts its own dedicated entrance test for the Executive program, fo
 ### What is the duration of the program?
 The Executive MBA at PUMBA is a 2-year program divided into 4 semesters.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

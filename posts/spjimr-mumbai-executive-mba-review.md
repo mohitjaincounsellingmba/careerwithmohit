@@ -107,8 +107,6 @@ No, CAT is not mandatory. Selection is based on the applicant's academic history
 ### Is company sponsorship necessary?
 While company-sponsored candidates are preferred and secure direct entry paths, self-sponsored candidates with strong profiles are also admitted.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

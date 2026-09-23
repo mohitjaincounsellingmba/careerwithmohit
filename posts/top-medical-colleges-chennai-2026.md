@@ -143,8 +143,6 @@ Chennai is about discipline and depth. Don't waste your score on a college witho
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

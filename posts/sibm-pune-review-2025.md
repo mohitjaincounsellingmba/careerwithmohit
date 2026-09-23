@@ -93,8 +93,6 @@ Yes, [SIBM Pune](/colleges/sibm-pune) consistently achieves **100% placements** 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

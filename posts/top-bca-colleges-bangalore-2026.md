@@ -133,8 +133,6 @@ Bangalore is competitive. Don't waste your years at a college with zero placemen
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

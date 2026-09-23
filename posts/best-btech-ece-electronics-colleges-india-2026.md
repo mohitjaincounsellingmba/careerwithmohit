@@ -224,8 +224,6 @@ Yes. Most IT companies (TCS, Wipro, Infosys, Accenture) hire ECE graduates for s
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

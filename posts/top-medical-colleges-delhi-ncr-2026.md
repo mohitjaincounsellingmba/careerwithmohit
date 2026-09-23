@@ -148,8 +148,6 @@ Delhi medical life is high-pressure and high-reward. Don't waste your score on a
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

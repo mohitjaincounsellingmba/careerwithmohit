@@ -158,8 +158,6 @@ MAIT is generally ranked higher for its coding culture and placement packages, b
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

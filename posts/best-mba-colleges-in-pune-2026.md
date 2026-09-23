@@ -228,8 +228,6 @@ The average package for Sri Balaji University (BIMM) is approximately **₹8.75 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

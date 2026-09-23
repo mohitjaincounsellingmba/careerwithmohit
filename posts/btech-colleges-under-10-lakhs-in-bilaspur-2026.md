@@ -120,8 +120,6 @@ Finding a budget-friendly engineering college that aligns with your tech aspirat
 
 [👉 Build My B.Tech Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## 🚀 Boost Your Preparation

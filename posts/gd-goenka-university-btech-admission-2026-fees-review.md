@@ -102,8 +102,6 @@ GATA is the university's entrance test used for merit selection and scholarship 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

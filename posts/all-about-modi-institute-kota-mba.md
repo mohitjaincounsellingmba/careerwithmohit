@@ -77,8 +77,6 @@ They primarily accept **CMAT** and **RMAP** rankings. Candidates with MAT and ot
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

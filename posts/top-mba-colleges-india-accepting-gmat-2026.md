@@ -149,8 +149,6 @@ If you are a working professional with 2+ years of experience, the GMAT is often
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

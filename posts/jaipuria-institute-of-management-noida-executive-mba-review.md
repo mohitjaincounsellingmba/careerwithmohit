@@ -101,8 +101,6 @@ Candidates must possess at least 5 years of post-qualification corporate or entr
 ### Does the program support weekend schedules?
 The program is designed as a modular/hybrid model, combining classroom interactive sessions with online research work.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

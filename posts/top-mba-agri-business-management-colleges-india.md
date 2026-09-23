@@ -203,8 +203,6 @@ Choosing between a premium IIM or a specialized institute like MANAGE depends on
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

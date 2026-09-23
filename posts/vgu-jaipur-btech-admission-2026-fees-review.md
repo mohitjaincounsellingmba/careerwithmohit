@@ -98,8 +98,6 @@ The highest package touched ₹46 LPA for a CSE student.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

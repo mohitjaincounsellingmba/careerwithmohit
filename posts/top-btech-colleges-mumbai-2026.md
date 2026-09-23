@@ -210,8 +210,6 @@ A few private colleges have started accepting CUET scores as part of their merit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

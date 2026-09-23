@@ -105,8 +105,6 @@ Yes, JBIMS accepts CAT and CMAT scores for All India Category seats through the 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

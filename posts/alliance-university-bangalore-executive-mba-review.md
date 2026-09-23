@@ -97,8 +97,6 @@ While CAT/XAT/GMAT scores are appreciated, Alliance conducts its own written ass
 ### Are there placements for this program?
 Alliance provides access to its centralized placement portal, though most weekend candidates leverage the degree for lateral shifts.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

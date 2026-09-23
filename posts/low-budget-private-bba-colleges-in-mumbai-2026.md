@@ -136,8 +136,6 @@ Finding the right budget private BBA college that matches your profile and caree
 
 [👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## 🚀 Boost Your Preparation

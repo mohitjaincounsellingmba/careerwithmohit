@@ -97,8 +97,6 @@ Yes, the degree (PGDM) and all placement opportunities are identical for all stu
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

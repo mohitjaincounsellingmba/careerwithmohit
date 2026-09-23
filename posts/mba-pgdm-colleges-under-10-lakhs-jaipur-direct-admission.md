@@ -99,8 +99,6 @@ Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates in
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

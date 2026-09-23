@@ -172,8 +172,6 @@ IET Lucknow charges approximately ₹70,000 per year — making it one of the mo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

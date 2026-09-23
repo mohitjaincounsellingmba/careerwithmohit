@@ -169,8 +169,6 @@ Jadavpur University charges approximately ₹40,000 per year — one of the lowe
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

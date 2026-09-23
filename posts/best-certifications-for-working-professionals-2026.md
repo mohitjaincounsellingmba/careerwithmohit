@@ -178,8 +178,6 @@ Yes, most professional certifications for working professionals are designed in 
 ### Is PMP better than an MBA for working professionals?
 If you want a role focused purely on project execution, methodologies, and frameworks within your domain, PMP is excellent. If you want general management, leadership, strategy, and business scaling skills, an MBA (particularly an Executive or Online MBA) is better suited.
 
-Source: Shiksha.com / PMI / CFA Institute
-
 ---
 
 ### 🚀 Boost Your Preparation

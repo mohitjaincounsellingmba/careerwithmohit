@@ -140,8 +140,6 @@ CSE is about speed and logic. Don't waste your score on a college without a func
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

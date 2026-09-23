@@ -102,8 +102,6 @@ No, it is a transparent, merit-linked process conducted through official institu
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

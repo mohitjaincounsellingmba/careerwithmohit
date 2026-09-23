@@ -102,8 +102,6 @@ These are your "Dream Colleges" that may be 5-10 marks away. If the difficulty l
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

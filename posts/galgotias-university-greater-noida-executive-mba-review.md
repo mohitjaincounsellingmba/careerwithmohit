@@ -103,8 +103,6 @@ No, admission is based on the candidate's past academic record, work experience 
 ### Which specializations are available?
 Specializations include Marketing, Finance, Human Resource Management, Information Technology, and Operations.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

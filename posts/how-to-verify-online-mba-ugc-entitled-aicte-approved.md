@@ -108,7 +108,7 @@ Before paying any admission or registration fees, verify these 5 parameters:
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
+
 ---
 
 ### 🚀 Boost Your Preparation

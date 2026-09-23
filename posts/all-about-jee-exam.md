@@ -104,8 +104,6 @@ Candidates can attempt JEE Advanced a maximum of **two times in two consecutive 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

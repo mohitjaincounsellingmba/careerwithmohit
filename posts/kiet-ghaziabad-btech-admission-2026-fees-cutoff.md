@@ -106,8 +106,6 @@ Yes, the university provides merit-based scholarships and government-aided fee w
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

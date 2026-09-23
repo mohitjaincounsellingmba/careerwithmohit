@@ -101,8 +101,6 @@ It is situated at a prime location on Golf Course Road in Sector 55, Gurugram.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

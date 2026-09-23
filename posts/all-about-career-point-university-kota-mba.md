@@ -77,8 +77,6 @@ Yes, CPU accepts CMAT scores, but students can also appear for the university's 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

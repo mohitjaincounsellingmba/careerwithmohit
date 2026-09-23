@@ -69,8 +69,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [International Vasai-Virar Institute of Management & Technology](/colleges/international-vasai-virar-institute-of-management-technology) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to International Vasai-Virar Institute of Management & Technology](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -232,8 +232,6 @@ Need personalized guidance on choosing the right study abroad destination, langu
 
 ---
 
-Source: Shiksha.com & Official CEFR, JLPT, TOPIK Guidelines 2026
-
 ---
 
 ### 🚀 Boost Your Preparation

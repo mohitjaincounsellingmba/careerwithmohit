@@ -81,8 +81,6 @@ Absolutely. While located in India, ISB’s pedagogy, global faculty, and intern
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

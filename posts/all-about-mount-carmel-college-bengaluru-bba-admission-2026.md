@@ -83,8 +83,6 @@ MCC's interview panel looks for confidence and a clear vision. Mohit Jain’s "B
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -155,8 +155,6 @@ If you are confused about which online university aligns best with your budget, 
 
 [👉 Build My Online BCA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

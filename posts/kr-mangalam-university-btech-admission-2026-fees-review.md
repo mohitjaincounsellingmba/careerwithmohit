@@ -100,8 +100,6 @@ No, but many students prefer it due to the campus's modern facilities and distan
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

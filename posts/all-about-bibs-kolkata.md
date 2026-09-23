@@ -91,8 +91,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Bengal Institute of Business Studies (BIBS)](/colleges/bibs-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Bengal Institute of Business Studies (BIBS)](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

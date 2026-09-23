@@ -183,9 +183,7 @@ Yes. The program is 100% online and accessible from any location in India.
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

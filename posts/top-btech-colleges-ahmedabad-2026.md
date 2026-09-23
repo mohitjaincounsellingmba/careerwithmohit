@@ -179,8 +179,6 @@ Yes. DAIICT has its own entrance test. Private colleges like Silver Oak, Parul, 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

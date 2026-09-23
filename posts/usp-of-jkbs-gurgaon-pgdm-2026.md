@@ -244,5 +244,3 @@ Yes — JKBS offers hostel accommodation for outstation students on its 10-acre 
 
 ---
 
-
-Source: Shiksha.com

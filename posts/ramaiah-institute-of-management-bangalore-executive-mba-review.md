@@ -95,8 +95,6 @@ A minimum of 2 years of post-qualification corporate or entrepreneurial experien
 ### What are the class timings?
 Classes are conducted primarily on weekends and in evening sessions on weekdays.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

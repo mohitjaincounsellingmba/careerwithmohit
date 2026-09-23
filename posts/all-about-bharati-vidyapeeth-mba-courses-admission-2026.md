@@ -164,8 +164,6 @@ BVP CET is generally considered moderately difficult, focusing more on speed and
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

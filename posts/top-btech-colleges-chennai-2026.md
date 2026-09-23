@@ -206,8 +206,6 @@ Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed un
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

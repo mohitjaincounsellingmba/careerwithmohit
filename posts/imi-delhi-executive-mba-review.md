@@ -103,8 +103,6 @@ The average CTC consistently hovers around ₹17-19 LPA, with top consulting, te
 ### Are other entrance exams accepted apart from CAT?
 Yes, [IMI Delhi](/colleges/imi-delhi) accepts XAT, GMAT, and the school's own Executive Admission Test (JMAT).
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

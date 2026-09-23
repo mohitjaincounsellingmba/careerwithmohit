@@ -202,8 +202,6 @@ VITEEE is considerably easier than JEE Main in terms of difficulty level. It is 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

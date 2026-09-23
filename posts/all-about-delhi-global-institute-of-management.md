@@ -94,8 +94,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Delhi Global Institute of Management](/colleges/delhi-global-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Delhi Global Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

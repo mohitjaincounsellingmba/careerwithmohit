@@ -130,8 +130,6 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 [👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

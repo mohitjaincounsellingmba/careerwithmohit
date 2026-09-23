@@ -103,8 +103,6 @@ Classes are conducted on weekends, covering Saturdays (evenings) and Sundays (fu
 ### Is work experience mandatory?
 Yes, a minimum of 2 years of full-time professional experience is required to apply.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

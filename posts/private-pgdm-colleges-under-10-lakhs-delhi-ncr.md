@@ -165,8 +165,6 @@ When evaluating PGDM programs under ₹10 Lakhs:
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

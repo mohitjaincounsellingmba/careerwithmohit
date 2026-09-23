@@ -138,5 +138,3 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 ### 🚀 Boost Your Preparation
 Planning for competitive exams? **[Explore Our Free Mock Test Series 2026](/mock-tests)** to test your skills and get ahead of the competition!
 
-
-Source: Shiksha.com

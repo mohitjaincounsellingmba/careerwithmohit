@@ -87,8 +87,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Acharya Bangalore B-School](/colleges/acharya-bangalore-b-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Acharya Bangalore B-School](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -135,8 +135,6 @@ BBA is the foundation of leadership. Don't waste your score on a college without
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -148,8 +148,6 @@ Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

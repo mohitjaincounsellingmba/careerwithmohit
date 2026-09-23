@@ -106,8 +106,6 @@ The program is structured over 3 years, comprising 9 terms, allowing working man
 ### Are there placements for IIT Delhi Executive MBA?
 While primarily a sponsored/part-time program, the corporate relations team provides career support and networking opportunities, leading to high-profile lateral shifts.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

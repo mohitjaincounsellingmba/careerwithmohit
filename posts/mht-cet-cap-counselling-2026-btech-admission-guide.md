@@ -100,8 +100,6 @@ Typically there are three CAP rounds followed by an additional institutional-lev
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

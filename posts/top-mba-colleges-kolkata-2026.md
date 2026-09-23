@@ -152,8 +152,6 @@ Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

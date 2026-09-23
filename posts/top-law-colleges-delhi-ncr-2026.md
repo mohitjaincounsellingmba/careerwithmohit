@@ -133,8 +133,6 @@ Delhi's legal market is all about networking. Don't waste your degree at a colle
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

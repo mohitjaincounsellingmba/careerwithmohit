@@ -131,8 +131,6 @@ Right now! Most direct admission registrations for the July 2026 batch close by 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

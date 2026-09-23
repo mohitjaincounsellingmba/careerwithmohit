@@ -116,8 +116,6 @@ Some private colleges offer direct admission based on Class 12 marks, but top-ra
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

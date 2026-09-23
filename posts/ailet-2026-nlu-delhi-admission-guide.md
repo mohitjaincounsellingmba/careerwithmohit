@@ -141,8 +141,6 @@ The margin of error in AILET is zero. One wrong logic set and you are out. Mohit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

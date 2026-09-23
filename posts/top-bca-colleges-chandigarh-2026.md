@@ -131,8 +131,6 @@ Chandigarh offers discipline and branding. Don't waste your precious 3 years at 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

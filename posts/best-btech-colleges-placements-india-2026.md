@@ -201,8 +201,6 @@ Yes — but with caveats. VIT places ~70% of its 10,000 students. The average is
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

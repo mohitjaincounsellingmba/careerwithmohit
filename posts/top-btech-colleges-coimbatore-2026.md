@@ -132,8 +132,6 @@ Coimbatore offers authority and mechanical depth. Don't waste your years at a co
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

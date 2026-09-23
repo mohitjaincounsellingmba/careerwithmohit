@@ -131,8 +131,6 @@ Yes, several private B-schools accept MAT scores for admissions and also offer p
 
 ### How can I book a free counselling session?
 You can book a free counselling session with Mohit Jain by submitting your profile details on our Inquiry page or contacting our expert desk via WhatsApp.
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -105,8 +105,6 @@ No, you can also join via JEE Main or CUET scores, though BMU-SAT is helpful for
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

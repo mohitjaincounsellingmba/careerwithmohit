@@ -162,8 +162,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 
-Source: Shiksha.com
-
 ---
 
 ### 🎓 Need Expert MBA/PGDM Admission Guidance for 2027–2029?

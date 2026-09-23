@@ -201,9 +201,7 @@ The Online MBA uses a live LMS with real-time classes, while Distance MBA was an
 
 
 
-For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

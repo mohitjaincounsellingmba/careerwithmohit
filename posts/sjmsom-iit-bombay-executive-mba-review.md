@@ -107,8 +107,6 @@ Yes, the program includes a mandatory 2-week capstone residency module at Washin
 ### What is the schedule of classes?
 Classes are held once a month in a 4-day residency format (Thursday through Sunday) at the [IIT Bombay](/colleges/iit-bombay) campus.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

@@ -133,8 +133,6 @@ Pune's B-school and BCA landscape is vast. Don't be just another name in a batch
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

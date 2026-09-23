@@ -150,7 +150,7 @@ You will need a scanned passport-size photograph, your signature, category certi
 * **[Top MBA Entrance Exams in India: Dates, Syllabus & Fees](/blog/top-mba-entrance-exams-2026-guide)**
 * **[IIM Cutoffs & Admission Criteria for 2027–29 Batch](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
 
-*Source: Shiksha.com and official website notifications.*
+
 
 ---
 

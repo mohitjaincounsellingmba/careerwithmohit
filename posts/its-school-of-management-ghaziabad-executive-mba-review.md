@@ -103,8 +103,6 @@ Classes are held primarily on weekends (Saturdays and Sundays) to support workin
 ### Does ITS offer direct admission?
 Yes, candidates with strong work experience profiles can secure direct admission based on their interview performance.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

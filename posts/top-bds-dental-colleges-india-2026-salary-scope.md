@@ -133,8 +133,6 @@ Dentistry is where art meets medicine. Don't settle for a sub-par college. Mohit
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -130,8 +130,6 @@ The industry is changing. Don't graduate with a degree that's already obsolete. 
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

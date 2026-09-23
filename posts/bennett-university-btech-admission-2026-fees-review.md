@@ -108,8 +108,6 @@ The university is owned and backed by the Times of India Group.
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -92,8 +92,6 @@ The college accepts scores from national level entrance examinations including C
 **Final Verdict**: [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Jaipuria Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

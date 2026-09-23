@@ -97,8 +97,6 @@ The program spans 15 to 18 months, covering core management modules and speciali
 ### Are there placements?
 NMIMS provides active corporate career services to help candidates discover lateral senior openings.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

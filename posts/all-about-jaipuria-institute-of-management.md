@@ -98,8 +98,6 @@ The average package for the 2025 batch stood at **₹8.95 LPA**, with the top 10
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

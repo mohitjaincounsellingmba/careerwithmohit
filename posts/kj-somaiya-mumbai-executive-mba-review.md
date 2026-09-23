@@ -97,8 +97,6 @@ There is no fixed minimum score, but candidates scoring above 600 in GMAT have h
 ### Does the program include a global immersion module?
 Yes, the program integrates a mandatory/optional international immersion trip to expose students to global supply chains.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

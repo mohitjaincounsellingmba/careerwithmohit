@@ -133,8 +133,6 @@ Many of India's top developers came from non-science backgrounds. Don't let a "M
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

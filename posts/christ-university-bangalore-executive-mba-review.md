@@ -97,8 +97,6 @@ Admission is based on the candidate's past academic record, work experience prof
 ### Are there placements for this program?
 Christ provides access to its centralized placement portal, though most weekend candidates leverage the degree for lateral shifts.
 
-
-Source: Shiksha.com and Official College Websites
 ---
 
 ### 🚀 Boost Your Preparation

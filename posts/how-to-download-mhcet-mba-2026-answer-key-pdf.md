@@ -124,8 +124,6 @@ The counseling process for MHCET is highly competitive. Missing a single prefere
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

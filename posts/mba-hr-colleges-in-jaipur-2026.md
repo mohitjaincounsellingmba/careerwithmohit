@@ -128,8 +128,6 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 [👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
-Source: Shiksha.com
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)

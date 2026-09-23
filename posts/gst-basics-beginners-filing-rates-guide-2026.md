@@ -120,8 +120,6 @@ GST is the legal language of Indian business. Don't let technical errors block y
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

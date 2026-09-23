@@ -134,8 +134,6 @@ Bangalore is about performance. Don't waste your score on a college without a st
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

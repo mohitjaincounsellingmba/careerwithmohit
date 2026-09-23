@@ -107,8 +107,6 @@ Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corpo
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

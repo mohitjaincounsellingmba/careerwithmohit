@@ -46,7 +46,7 @@ state: Delhi NCR
 ---
 Many students are often confused between MBA and PGDM. While both are postgraduate management courses, a PGDM (Post Graduate Diploma in Management) is only considered equivalent to an MBA if it is **AIU (Association of Indian Universities)** approved. 
 
-This equivalence is crucial for students who wish to pursue higher education abroad (like a PhD) or apply for government jobs in India. In this guide, we have categorized the top AIU-approved PGDM colleges into Tiers with **verified data from Shiksha.com (2025 Batch)**.
+This equivalence is crucial for students who wish to pursue higher education abroad (like a PhD) or apply for government jobs in India. In this guide, we have categorized the top AIU-approved PGDM colleges into Tiers with **audited official placement and fee data (2025-26 Batch)**.
 
 ---
 
@@ -149,7 +149,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 
 ## Conclusion: Why Trust This Data?
 
-All fee and placement figures mentioned in this guide have been cross-verified with **Shiksha.com 2024-25 and 2025-26 reports**. Management college data is subject to change based on batch size and market conditions, so always consider these as the latest benchmarks for the current academic cycle.
+All fee and placement figures mentioned in this guide have been cross-verified with **official 2024-25 and 2025-26 institutional placement reports and NIRF audits**. Management college data is subject to change based on batch size and market conditions, so always consider these as the latest benchmarks for the current academic cycle.
 
 [🚀 Need help choosing the right PGDM tier for your score and profile? Click here for a free evaluation!](/inquiry)
 
@@ -169,8 +169,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

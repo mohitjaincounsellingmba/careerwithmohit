@@ -172,8 +172,6 @@ Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct admis
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

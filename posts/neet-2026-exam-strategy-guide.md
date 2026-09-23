@@ -147,8 +147,6 @@ Don't let the 25 lakh competition scare you. 90% of them haven't read NCERT prop
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

@@ -111,8 +111,6 @@ Bennett has a very strong corporate relations team. For the 2025 batch, the high
 
 
 
-
-Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
