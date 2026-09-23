@@ -4,7 +4,7 @@ import { getAllColleges } from "@/lib/colleges";
 import { getSortedPostsData } from "@/lib/markdown";
 import { CollegesClient } from "@/components/CollegesClient";
 import { JsonLd } from "@/components/JsonLd";
-import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingUp, CheckCircle2 } from "lucide-react";
+import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingUp, CheckCircle2, MessageSquare, ArrowRight, ShieldCheck } from "lucide-react";
 
 export const metadata = {
   title: "Top MBA, PGDM, B.Tech & UG Colleges in India 2027: Fees, Cutoffs, Placements & Search",
@@ -212,22 +212,23 @@ export default function CollegesPage() {
       <JsonLd data={educationalOrgSchema} />
       <JsonLd data={faqSchema} />
 
-      <Suspense fallback={<div className="text-center py-16 font-bold text-slate-600">Loading pan-India college directory…</div>}>
+      <Suspense fallback={<div className="text-center py-20 font-bold text-slate-500">Loading pan-India college directory…</div>}>
         <CollegesClient colleges={colleges} trendingBlogs={trendingBlogs} />
       </Suspense>
 
       {/* SEO & GEO (Generative Engine Optimization) Pan-India Knowledge Section */}
-      <section className="bg-white px-4 sm:px-6 lg:px-8 py-20 border-t border-slate-200/80 overflow-hidden relative">
+      <section className="bg-slate-50/50 px-4 sm:px-6 lg:px-8 py-20 border-t border-slate-200/80 overflow-hidden relative">
         <div className="mx-auto max-w-7xl relative z-10">
-          <div className="grid lg:grid-cols-12 gap-12 items-start">
+          <div className="grid lg:grid-cols-12 gap-10 items-start">
             
             {/* Main Content Column */}
-            <div className="lg:col-span-8 space-y-12">
+            <div className="lg:col-span-8 space-y-10">
+              
               {/* GEO Knowledge Matrix Table (AI & LLM Search Extractable) */}
-              <div className="bg-slate-50 border border-slate-200 rounded-3xl p-5 sm:p-7 space-y-4">
-                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 pb-3">
+              <div className="bg-white border border-slate-200/90 rounded-3xl p-5 sm:p-7 space-y-4 shadow-xs">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-100 pb-3.5">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-extrabold text-slate-900 flex items-center gap-2">
+                    <h3 className="text-base sm:text-lg font-black text-slate-900 flex items-center gap-2">
                       <Sparkles className="w-4 h-4 text-amber-500" />
                       <span>2027 Key Regional Education Hubs Comparison Matrix</span>
                     </h3>
@@ -240,7 +241,7 @@ export default function CollegesPage() {
                 <div className="overflow-x-auto custom-scrollbar">
                   <table className="w-full text-left text-xs border-collapse">
                     <thead>
-                      <tr className="bg-slate-200/80 text-slate-800 font-extrabold uppercase tracking-wider text-[11px]">
+                      <tr className="bg-slate-100 text-slate-800 font-extrabold uppercase tracking-wider text-[11px]">
                         <th className="p-3 rounded-l-xl">Hub / Region</th>
                         <th className="p-3">Premier Campuses</th>
                         <th className="p-3">Fee Range</th>
@@ -249,74 +250,74 @@ export default function CollegesPage() {
                         <th className="p-3 rounded-r-xl">Direct Admission</th>
                       </tr>
                     </thead>
-                    <tbody className="divide-y divide-slate-200 text-slate-700 font-medium">
-                      <tr className="hover:bg-white transition-colors">
+                    <tbody className="divide-y divide-slate-100 text-slate-700 font-medium">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
                           <MapPin className="w-3.5 h-3.5 text-blue-600" /> Delhi NCR
                         </td>
                         <td className="p-3 text-slate-800">FMS, IIT-D, MDI, IIFT, FORE, BIMTECH, NDIM, JIMS</td>
                         <td className="p-3">₹7.5L - ₹24L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹9.5L - ₹26.7 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹9.5L - ₹26.7 LPA</td>
                         <td className="p-3">CAT, XAT, CMAT, MAT</td>
                         <td className="p-3 text-blue-600 font-bold">Available in Top PGDM</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
-                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Mumbai & Pune
+                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Mumbai &amp; Pune
                         </td>
                         <td className="p-3 text-slate-800">JBIMS, SPJIMR, SIBM Pune, SCMHRD, WeSchool, Somaiya</td>
                         <td className="p-3">₹6.5L - ₹22L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹10.5L - ₹32.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹10.5L - ₹32.0 LPA</td>
                         <td className="p-3">MAH CET, CAT, SNAP, XAT</td>
                         <td className="p-3 text-blue-600 font-bold">Institutional Seats</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
                           <MapPin className="w-3.5 h-3.5 text-blue-600" /> Bangalore (Karnataka)
                         </td>
                         <td className="p-3 text-slate-800">IIM-B, TAPMI, JAGSoM, Christ, XIME, Alliance, RVCE</td>
                         <td className="p-3">₹8.0L - ₹21L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹9.0L - ₹35.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹9.0L - ₹35.0 LPA</td>
                         <td className="p-3">CAT, XAT, MAT, KCET</td>
                         <td className="p-3 text-blue-600 font-bold">Merit / Management Quota</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
                           <MapPin className="w-3.5 h-3.5 text-blue-600" /> Hyderabad (Telangana)
                         </td>
                         <td className="p-3 text-slate-800">ISB, IBS Hyderabad, IPE, Woxsen, VJIM, IIIT-H</td>
                         <td className="p-3">₹7.0L - ₹18L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹8.5L - ₹28.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹8.5L - ₹28.0 LPA</td>
                         <td className="p-3">CAT, XAT, TS ICET, IBSAT</td>
                         <td className="p-3 text-blue-600 font-bold">Direct PGDM Interview</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
-                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Chennai & Tamil Nadu
+                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Chennai &amp; Tamil Nadu
                         </td>
                         <td className="p-3 text-slate-800">DoMS IIT-M, Great Lakes, LIBA, PSGIM, VIT Vellore</td>
                         <td className="p-3">₹6.0L - ₹20L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹8.0L - ₹21.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹8.0L - ₹21.0 LPA</td>
                         <td className="p-3">CAT, XAT, TANCET, MAT</td>
                         <td className="p-3 text-blue-600 font-bold">Profile-Based Admission</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
-                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Ahmedabad & Gujarat
+                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Ahmedabad &amp; Gujarat
                         </td>
                         <td className="p-3 text-slate-800">IIM-A, MICA, IRMA Anand, Nirma University, PDEU</td>
                         <td className="p-3">₹7.5L - ₹23L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹9.0L - ₹34.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹9.0L - ₹34.0 LPA</td>
                         <td className="p-3">CAT, XAT, MICAT, CMAT</td>
                         <td className="p-3 text-blue-600 font-bold">Corporate Sponsored Seats</td>
                       </tr>
-                      <tr className="hover:bg-white transition-colors">
+                      <tr className="hover:bg-slate-50/60 transition-colors">
                         <td className="p-3 font-bold text-slate-900 flex items-center gap-1.5">
-                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Kolkata & East India
+                          <MapPin className="w-3.5 h-3.5 text-blue-600" /> Kolkata &amp; East India
                         </td>
                         <td className="p-3 text-slate-800">IIM-C, XLRI Jamshedpur, IMI Kolkata, Praxis, Globsyn</td>
                         <td className="p-3">₹6.5L - ₹25L</td>
-                        <td className="p-3 font-bold text-emerald-700">₹8.5L - ₹32.0 LPA</td>
+                        <td className="p-3 font-black text-emerald-600">₹8.5L - ₹32.0 LPA</td>
                         <td className="p-3">XAT, CAT, MAT, CMAT</td>
                         <td className="p-3 text-blue-600 font-bold">AICTE Verified Direct</td>
                       </tr>
@@ -326,16 +327,16 @@ export default function CollegesPage() {
               </div>
 
               {/* State & City Selection Guide */}
-              <div className="bg-slate-50/70 border border-slate-200/90 rounded-3xl p-6 sm:p-8">
+              <div className="bg-white border border-slate-200/90 rounded-3xl p-6 sm:p-7 shadow-xs">
                 <div className="mb-6">
-                  <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
-                    State & Regional City MBA Hubs
+                  <h3 className="text-lg sm:text-xl font-black text-slate-900 tracking-tight">
+                    State &amp; Regional City MBA Hubs
                   </h3>
-                  <p className="text-xs sm:text-sm text-slate-500 mt-1">
+                  <p className="text-xs sm:text-sm text-slate-500 mt-0.5">
                     Explore dedicated landing portals tailored by India&apos;s primary regional education centers
                   </p>
                 </div>
-                <div className="grid sm:grid-cols-2 gap-4">
+                <div className="grid sm:grid-cols-2 gap-3.5">
                   {[
                     { city: "Maharashtra (Mumbai & Pune)", link: "/colleges/mba-colleges-mumbai", sub: "IIM Mumbai, JBIMS, SPJIMR, SIBM, WeSchool, Somaiya" },
                     { city: "Delhi NCR (Delhi & Noida)", link: "/colleges/mba-colleges-delhi-ncr", sub: "FMS, DMS IIT-D, MDI, IIFT, FORE, BIMTECH, NDIM" },
@@ -356,16 +357,16 @@ export default function CollegesPage() {
                       key={i}
                       href={item.link}
                       prefetch={false}
-                      className="group bg-white rounded-2xl p-4 border border-slate-200/80 shadow-2xs hover:shadow-md hover:border-blue-300 transition-all flex items-center gap-3.5"
+                      className="group bg-slate-50/60 hover:bg-blue-50/40 rounded-2xl p-3.5 border border-slate-200/80 hover:border-blue-300 transition-all flex items-center gap-3"
                     >
-                      <div className="w-10 h-10 rounded-xl bg-blue-50 border border-blue-100 font-extrabold text-blue-600 text-sm flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+                      <div className="w-8 h-8 rounded-xl bg-blue-600/10 font-black text-blue-600 text-xs flex items-center justify-center shrink-0 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                         {i + 1}
                       </div>
                       <div className="overflow-hidden">
-                        <span className="text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors block truncate">
+                        <span className="text-xs sm:text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors block truncate">
                           MBA in {item.city} &rarr;
                         </span>
-                        <span className="text-xs text-slate-500 truncate block">{item.sub}</span>
+                        <span className="text-[11px] text-slate-500 truncate block">{item.sub}</span>
                       </div>
                     </Link>
                   ))}
@@ -375,10 +376,10 @@ export default function CollegesPage() {
               {/* FAQ Accordion */}
               <div className="space-y-4">
                 <div className="mb-4">
-                  <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 tracking-tight">
+                  <h3 className="text-lg sm:text-xl font-black text-slate-900 tracking-tight">
                     Frequently Asked Questions (2027 Admissions)
                   </h3>
-                  <p className="text-xs sm:text-sm text-slate-500 mt-1">
+                  <p className="text-xs sm:text-sm text-slate-500 mt-0.5">
                     Key insights regarding admissions, entrance tests, ROI analysis, and fee structures
                   </p>
                 </div>
@@ -410,7 +411,7 @@ export default function CollegesPage() {
                 ].map((item, index) => (
                   <details
                     key={index}
-                    className="group border border-slate-200/90 rounded-2xl bg-white overflow-hidden hover:border-blue-300 transition-colors"
+                    className="group border border-slate-200/90 rounded-2xl bg-white overflow-hidden hover:border-blue-300 transition-colors shadow-2xs"
                   >
                     <summary className="flex items-center justify-between p-4 sm:p-5 cursor-pointer select-none">
                       <span className="text-xs sm:text-sm font-bold text-slate-900">{item.q}</span>
@@ -426,21 +427,22 @@ export default function CollegesPage() {
 
             {/* Sticky Counselor Column */}
             <div className="lg:col-span-4 lg:sticky lg:top-24 h-fit">
-              <div className="rounded-3xl bg-gradient-to-br from-slate-900 via-slate-900 to-[#123058] text-white p-6 sm:p-8 border border-slate-800 shadow-xl space-y-6">
-                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/15 border border-blue-400/25 text-blue-300 text-xs font-bold uppercase tracking-wider">
-                  Direct Guidance
+              <div className="rounded-3xl bg-gradient-to-br from-[#0A192F] via-[#0E274A] to-[#123058] text-white p-6 sm:p-7 border border-slate-800 shadow-xl space-y-6">
+                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-bold uppercase tracking-wider">
+                  <ShieldCheck className="w-3.5 h-3.5" />
+                  <span>Direct Guidance</span>
                 </div>
-                <h4 className="text-xl sm:text-2xl font-extrabold text-white leading-tight">
+                <h4 className="text-xl font-black text-white leading-tight">
                   Personalized College Admission Roadmap
                 </h4>
                 <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
                   Don&apos;t settle for a mediocre campus. Get a personalized evaluation tailored to your budget, academic scores, and career ambitions.
                 </p>
                 
-                <div className="space-y-3 pt-2">
+                <div className="space-y-2.5 pt-2">
                   <Link
                     href="/inquiry"
-                    className="block w-full text-center py-3 px-4 bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs uppercase tracking-wider rounded-xl transition-all shadow-md active:scale-95"
+                    className="block w-full text-center py-3 px-4 bg-blue-600 hover:bg-blue-500 text-white font-black text-xs uppercase tracking-wider rounded-xl transition-all shadow-md active:scale-95"
                   >
                     Get Free Shortlist &rarr;
                   </Link>
@@ -448,7 +450,7 @@ export default function CollegesPage() {
                     href="https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20guidance%20for%20college%20shortlisting"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block w-full text-center py-3 px-4 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs uppercase tracking-wider rounded-xl transition-all shadow-sm active:scale-95"
+                    className="block w-full text-center py-3 px-4 bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs uppercase tracking-wider rounded-xl transition-all shadow-sm active:scale-95"
                   >
                     WhatsApp Mohit Jain
                   </a>
