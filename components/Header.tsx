@@ -613,9 +613,7 @@ export function Header() {
                       className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${
                         isActive 
                           ? 'bg-blue-50 text-blue-700 font-bold' 
-                          : item.highlight
-                            ? 'bg-blue-50/40 text-blue-900 font-semibold'
-                            : 'hover:bg-slate-50 text-slate-700 font-medium'
+                          : 'hover:bg-slate-50 text-slate-700 font-medium'
                       }`}
                     >
                       <div className="flex items-center gap-2.5">
