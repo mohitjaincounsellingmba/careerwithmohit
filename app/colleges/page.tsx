@@ -4,7 +4,7 @@ import { getAllColleges } from "@/lib/colleges";
 import { getSortedPostsData } from "@/lib/markdown";
 import { CollegesClient } from "@/components/CollegesClient";
 import { JsonLd } from "@/components/JsonLd";
-import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingUp, Compass, CheckCircle2 } from "lucide-react";
+import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingUp, CheckCircle2 } from "lucide-react";
 
 export const metadata = {
   title: "Top MBA, PGDM, B.Tech & UG Colleges in India 2027: Fees, Cutoffs, Placements & Search",
@@ -223,29 +223,6 @@ export default function CollegesPage() {
             
             {/* Main Content Column */}
             <div className="lg:col-span-8 space-y-12">
-              <div>
-                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-extrabold uppercase tracking-wider mb-4 border border-blue-200/60">
-                  <Compass className="w-3.5 h-3.5 text-blue-600" />
-                  <span>Pan-India Admission & Cutoffs Matrix 2027</span>
-                </div>
-                <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
-                  India&apos;s Pan-India MBA & Engineering Directory{' '}
-                  <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                    By State, City & Cutoff (Pan-India Directory)
-                  </span>
-                </h2>
-                <div className="w-20 h-1.5 bg-blue-600 rounded-full mb-6" />
-                
-                <div className="space-y-4 text-sm sm:text-base text-slate-600 leading-relaxed">
-                  <p>
-                    Navigating the 2027 admissions landscape requires more than raw rankings. It demands <strong>Audited, Transparent, and Verified Data</strong>. At CareerWithMohit, our directory indexes <strong>770+ top colleges in India</strong> spanning MBA, PGDM, B.Tech, M.Tech, BBA, and BCA disciplines across all 28 states and Union Territories.
-                  </p>
-                  <p>
-                    Whether you are targeting premier campuses like <strong>IIM Ahmedabad, IIM Bangalore, IIM Calcutta, and FMS Delhi</strong>, or seeking verified high-ROI private business schools like <strong>GIM Goa, Great Lakes Chennai, XLRI, SPJIMR, SIBM Pune, TAPMI, BIMTECH, NDIM, and JIMS</strong>, our platform delivers audited insights on tuition fee structures, 2025–2026 placement packages, cutoffs, and state NIRF rankings.
-                  </p>
-                </div>
-              </div>
-
               {/* GEO Knowledge Matrix Table (AI & LLM Search Extractable) */}
               <div className="bg-slate-50 border border-slate-200 rounded-3xl p-5 sm:p-7 space-y-4">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 pb-3">
