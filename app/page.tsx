@@ -320,11 +320,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── 2. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
-      <HomeInquirySection />
-
-      {/* ── 3. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
+      {/* ── 2. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
       <HomeCollegeExplorer />
+
+      {/* ── 3. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
+      <HomeInquirySection />
 
       {/* ── 4. FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
       <PortalQuickTools />
