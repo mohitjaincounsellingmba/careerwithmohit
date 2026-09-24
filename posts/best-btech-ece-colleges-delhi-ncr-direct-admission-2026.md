@@ -40,7 +40,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 With India aggressively pushing semiconductor manufacturing and 5G/6G infrastructure, **Electronics and Communication Engineering (ECE)** is witnessing a massive resurgence. An ECE degree bridges the gap between hardware (embedded systems, VLSI) and software (IoT, networking), making graduating engineers highly versatile.

@@ -41,7 +41,7 @@ faqs:
     answer: >-
       The CAT and XAT cutoffs for IMI New Delhi generally hover around 88 to 92
       percentile for General category applicants.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

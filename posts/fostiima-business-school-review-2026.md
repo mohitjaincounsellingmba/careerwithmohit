@@ -24,6 +24,14 @@ keywords:
   - FOSTIIMA faculty IIM Ahmedabad
   - FOSTIIMA vs NDIM Delhi
   - FOSTIIMA vs JIMS Kalkaji
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the total fee structure for the PGDM program at FOSTIIMA Business
@@ -59,7 +67,7 @@ faqs:
       Yes, FOSTIIMA Business School is approved by the All India Council for
       Technical Education (AICTE), Ministry of Education, Government of India,
       for its 2-year full-time PGDM program.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

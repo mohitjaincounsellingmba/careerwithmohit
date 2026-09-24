@@ -1,9 +1,16 @@
 ---
-title: 'Institute of Management Technology (IMT) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Institute of Management Technology (IMT) Review 2027: Fees, Placements,
+  Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  In-depth Institute of Management Technology (IMT) (Raj Nagar Campus) review for 2027 admissions. Explore verified fee structure (₹21.50 – ₹22.50 Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹17.07 – ₹17.60 LPA, highest ₹65.50 LPA (Domestic) / ₹28.00+ LPA (Median for Top 10%)), cutoffs (CAT: 90–92 Percentile; XAT: 90–92 Percentile; GMAT: 650+), and student verdict.
+  In-depth Institute of Management Technology (IMT) (Raj Nagar Campus) review
+  for 2027 admissions. Explore verified fee structure (₹21.50 – ₹22.50 Lakhs (2
+  Years Full-Time Residential)), latest placements (avg ₹17.07 – ₹17.60 LPA,
+  highest ₹65.50 LPA (Domestic) / ₹28.00+ LPA (Median for Top 10%)), cutoffs
+  (CAT: 90–92 Percentile; XAT: 90–92 Percentile; GMAT: 650+), and student
+  verdict.
 keywords:
   - institute of management technology (imt) review 2027
   - institute of management technology (imt) fees
@@ -13,23 +20,38 @@ keywords:
   - institute of management technology (imt) cutoff cat xat gmat
   - institute of management technology (imt) admission process 2027
   - institute of management technology (imt) ranking
-  - Ghaziabad, Delhi NCR / Uttar Pradesh MBA colleges
+  - 'Ghaziabad, Delhi NCR / Uttar Pradesh MBA colleges'
   - best MBA colleges in Delhi NCR
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the CAT and XAT cutoff for IMT Ghaziabad PGDM?
     answer: >-
-      The cutoff for the flagship PGDM program at IMT Ghaziabad typically ranges from 90 to 92 percentile in CAT and XAT, alongside a GMAT score of 650+.
+      The cutoff for the flagship PGDM program at IMT Ghaziabad typically ranges
+      from 90 to 92 percentile in CAT and XAT, alongside a GMAT score of 650+.
   - question: What is the fee structure for IMT Ghaziabad for 2027–2029?
     answer: >-
-      The total fee for the 2-year full-time PGDM program at IMT Ghaziabad is approximately ₹21.50 to ₹22.50 Lakhs, covering tuition, academic material, and residential hostel charges.
+      The total fee for the 2-year full-time PGDM program at IMT Ghaziabad is
+      approximately ₹21.50 to ₹22.50 Lakhs, covering tuition, academic material,
+      and residential hostel charges.
   - question: What is the average package at IMT Ghaziabad in recent placements?
     answer: >-
-      The latest audited average package at IMT Ghaziabad is ₹17.07 to ₹17.60 LPA, with the top 25% cohort bagging an average of ₹23.00 LPA and the highest domestic offer touching ₹65.50 LPA.
+      The latest audited average package at IMT Ghaziabad is ₹17.07 to ₹17.60
+      LPA, with the top 25% cohort bagging an average of ₹23.00 LPA and the
+      highest domestic offer touching ₹65.50 LPA.
   - question: Is IMT Ghaziabad good for Finance as well as Marketing?
     answer: >-
-      While IMT is globally known for Marketing, its PGDM (Financial Management) and PGDM (Banking & Financial Services) have grown rapidly, drawing elite BFSI recruiters like Goldman Sachs, Barclays, Morgan Stanley, and CRISIL.
+      While IMT is globally known for Marketing, its PGDM (Financial Management)
+      and PGDM (Banking & Financial Services) have grown rapidly, drawing elite
+      BFSI recruiters like Goldman Sachs, Barclays, Morgan Stanley, and CRISIL.
 location: Ghaziabad
 state: Delhi NCR
 ---

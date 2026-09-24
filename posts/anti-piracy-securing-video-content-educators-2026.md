@@ -15,6 +15,13 @@ keywords:
   - secure lms for teachers
   - copyright protection for online education
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is DRM expensive for a small teacher?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       Yes. Modern secure apps can disable the "Share" and "Download" options for
       PDFs, allowing students to view them only within the app's secure reader.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

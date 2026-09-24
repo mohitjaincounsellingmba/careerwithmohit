@@ -16,6 +16,13 @@ keywords:
   - nlu delhi ailet admission
   - best government law colleges india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Mathematics compulsory for CLAT?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       CLAT is usually held on the **first Sunday of December** (e.g., Dec 2025
       for the 2026 intake).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -20,8 +20,12 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Gurgaon
 faqs:
   - question: >-
       Is Ansal University (Sushant University), Gurugram a good choice for

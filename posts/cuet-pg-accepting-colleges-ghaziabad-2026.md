@@ -39,7 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Ghaziabad, part of the National Capital Region (NCR), is a major industrial and educational hub. With several universities and institutes affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU), the **CUET PG 2026** score has become a key requirement for postgraduate admissions in the city.

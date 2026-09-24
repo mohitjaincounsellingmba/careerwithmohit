@@ -17,6 +17,13 @@ keywords:
   - CUET UG marks vs percentile 2026
   - NTA CUET result check link
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my CUET UG 2026 result?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       Candidates must register separately on the admission portals of their
       target universities (e.g., DU CSAS portal, IP University portal, BHU, JNU)
       and submit their course and college preferences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

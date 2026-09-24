@@ -1,21 +1,55 @@
 ---
-name: "Institute of Management, Nirma University (IMNU)"
-logo: "/logo.webp"
-location: "Ahmedabad, Gujarat"
-category: "Management"
-type: "University"
-courses: ["MBA (General)", "MBA Human Resource Management", "MBA Family Business & Entrepreneurship"]
+name: 'Institute of Management, Nirma University (IMNU)'
+logo: /logo.webp
+location: 'Ahmedabad, Gujarat'
+category: Management
+type: University
+courses:
+  - MBA (General)
+  - MBA Human Resource Management
+  - MBA Family Business & Entrepreneurship
 established: 1996
-ownership: "Private University (NAAC A+)"
-ranking: "Top 30 Private B-Schools India · SAQS Accredited"
-fees: "₹12.50 Lakhs (Total)"
-avg_placement: "₹11.20 LPA"
-highest_placement: "₹30.00 LPA"
-lowest_placement: "₹7.50 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://management.nirmauni.ac.in"
-top_recruiters: ["Morgan Stanley", "Deloitte", "Adani Group", "KPMG", "ICICI Bank", "Infosys", "Tata AIG"]
+ownership: Private University (NAAC A+)
+ranking: Top 30 Private B-Schools India · SAQS Accredited
+fees: ₹12.50 Lakhs (Total)
+avg_placement: ₹11.20 LPA
+highest_placement: ₹30.00 LPA
+lowest_placement: ₹7.50 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://management.nirmauni.ac.in'
+top_recruiters:
+  - Morgan Stanley
+  - Deloitte
+  - Adani Group
+  - KPMG
+  - ICICI Bank
+  - Infosys
+  - Tata AIG
+seo_title: 'Institute of Management, Nirma University (IMNU) MBA Fees, C'
+seo_description: >-
+  Explore Institute of Management, Nirma University (IMNU) Ahmedabad, Gujarat:
+  MBA/PGDM fee structure ₹12.50 Lakhs (Total), average placement ₹11.20 LPA,
+  highest 
+keywords:
+  - 'Institute of Management, Nirma University (IMNU) review'
+  - 'Institute of Management, Nirma University (IMNU) fees structure 2027'
+  - 'Institute of Management, Nirma University (IMNU) average package'
+  - 'Institute of Management, Nirma University (IMNU) placement report 2027'
+  - 'Institute of Management, Nirma University (IMNU) highest package'
+  - 'Institute of Management, Nirma University (IMNU) cutoff 2027'
+  - 'Institute of Management, Nirma University (IMNU) admission process'
+  - 'Institute of Management, Nirma University (IMNU) ranking'
+  - 'Institute of Management, Nirma University (IMNU) Ahmedabad, Gujarat'
+  - 'is Institute of Management, Nirma University (IMNU) good'
+  - 'Institute of Management, Nirma University (IMNU) mohit jain review'
+  - 'Institute of Management, Nirma University (IMNU) hostel fees'
+  - 'Institute of Management, Nirma University (IMNU) contact number'
+  - 'Institute of Management, Nirma University (IMNU) MBA fees'
+  - 'Institute of Management, Nirma University (IMNU) PGDM placement'
+  - 'Institute of Management, Nirma University (IMNU) MBA admission 2027'
+  - 'MBA colleges Ahmedabad, Gujarat'
 ---
 
 ### About Institute of Management, Nirma University (IMNU)

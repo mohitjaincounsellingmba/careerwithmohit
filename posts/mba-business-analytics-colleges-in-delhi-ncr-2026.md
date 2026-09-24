@@ -41,7 +41,7 @@ faqs:
       For top-tier colleges like MDI Gurgaon, the average placement is over INR
       27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting
       salary ranges from INR 12 LPA to 15 LPA.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

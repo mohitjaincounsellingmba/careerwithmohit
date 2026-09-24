@@ -23,6 +23,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Which are the top MBA colleges accepting NMAT exam scores for 2027
@@ -43,7 +49,7 @@ faqs:
       Yes, colleges like SOIL Gurgaon, ITM Navi Mumbai, Alliance University,
       Universal AI University, ISBR Bangalore, and Woxsen University offer
       admissions for scores in the 180-210 range.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 # NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR

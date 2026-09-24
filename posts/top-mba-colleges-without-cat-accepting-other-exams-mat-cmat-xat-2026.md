@@ -20,7 +20,14 @@ keywords:
   - NMIMS NMAT Cutoff
   - SIBM SNAP Cutoff
   - Direct Admission in Delhi
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: Which is the best MBA college in India without CAT?
     answer: >-

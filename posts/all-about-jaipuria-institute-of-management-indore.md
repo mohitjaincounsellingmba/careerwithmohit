@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Jaipuria Institute of Management a good option for PGDM/MBA?
     answer: >-
@@ -31,7 +36,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

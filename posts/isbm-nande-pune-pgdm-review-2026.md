@@ -13,6 +13,13 @@ keywords:
   - ISB&M Pune cutoff 2026
   - best PGDM college in Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **[International School of Business & Media](/colleges/international-school-of-business-media) (ISB&M) Nande, Pune** is a premier B-School known for its "lifestyle-based" learning model, strong corporate connectivity, and impressive placements. Established with a vision to create dynamic corporate leaders, ISB&M Pune has consistently ranked among the top private PGDM colleges in India.

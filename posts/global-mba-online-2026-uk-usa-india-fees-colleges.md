@@ -22,6 +22,13 @@ keywords:
   - global MBA eligibility India
   - international MBA online India
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
     answer: >-
       Yes, universities typically conduct online semester exams using AI-enabled
       or human-proctored systems to maintain academic integrity.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 In today's borderless business world, a **Global MBA** is not just a degree — it is a passport to international career opportunities, cross-border leadership roles, and a truly global professional network.

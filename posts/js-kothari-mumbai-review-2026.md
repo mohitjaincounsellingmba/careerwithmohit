@@ -16,6 +16,13 @@ keywords:
   - J.S. Kothari Business School admission cutoffs
   - top mba colleges in Mumbai Metropolis
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at J.S. Kothari Business School in 2026?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at J.S. Kothari
       Business School is approximately ₹4.85 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

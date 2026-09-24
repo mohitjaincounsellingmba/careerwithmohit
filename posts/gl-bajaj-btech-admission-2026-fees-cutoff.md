@@ -37,7 +37,7 @@ faqs:
     answer: >-
       Yes, a small percentage of seats are filled under the management quota
       based on merit and JEE Main score.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

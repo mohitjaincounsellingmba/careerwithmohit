@@ -46,7 +46,7 @@ faqs:
     answer: >-
       Cycle 1 usually ends in **January**, with subsequent rounds ending in
       March or April.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

@@ -17,6 +17,13 @@ keywords:
   - Download RBSE 12th marksheet online
   - Madan Dilawar RBSE result 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which entrance exams are required for LLB admissions in India?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       Law graduates can practice in courts, join corporate law firms as legal
       advisors, prepare for judicial services, work in NGOs, or join public
       sector undertakings (PSUs).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Board of Secondary Education, Rajasthan (RBSE) is all set to declare the **RBSE Class 12 Result 2026 for Science, Commerce, and Arts tomorrow, March 31, 2026, at 10:00 AM**. This follows the recent announcement by Rajasthan Education Minister **Madan Dilawar**, who confirmed the results will be available online for students across the state.

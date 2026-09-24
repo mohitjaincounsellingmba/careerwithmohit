@@ -40,7 +40,7 @@ faqs:
       (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
   - question: 'Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?'
     answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)"
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -15,6 +15,13 @@ keywords:
   - 'St. John’s Medical College, Bengaluru MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can non-Karnataka students apply for St. John's Medical College?
     answer: >-
@@ -24,7 +31,7 @@ faqs:
     answer: 'Yes, St. John''s has a mandatory 2-year rural service bond post MBBS.'
   - question: What is the MBBS fee at St. John's Bengaluru?
     answer: The tuition fee is approximately ₹7.3 Lakhs per year.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

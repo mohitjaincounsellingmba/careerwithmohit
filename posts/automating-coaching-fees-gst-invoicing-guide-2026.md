@@ -15,6 +15,13 @@ keywords:
   - automatic fee reminder software
   - coaching business operations 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: can I accept international payments on my app?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
       Absolutely. Your dashboard should allow you to download a monthly
       CSV/Excel file with all transaction details, GST splits, and student data
       in one click.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

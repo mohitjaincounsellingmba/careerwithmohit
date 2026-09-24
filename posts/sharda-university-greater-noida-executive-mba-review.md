@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Yes, Sharda provides access to a comprehensive LMS (Learning Management
       System) for hybrid and weekend learners.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

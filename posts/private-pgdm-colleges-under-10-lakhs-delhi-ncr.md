@@ -53,7 +53,7 @@ faqs:
       In most cases, the ₹7–10 Lakhs range covers only the tuition and academic
       fees. Hostel charges are usually extra, ranging from ₹1.2 to ₹1.8 Lakhs
       per year depending on the type of accommodation.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

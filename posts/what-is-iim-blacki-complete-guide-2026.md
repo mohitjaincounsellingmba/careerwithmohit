@@ -25,6 +25,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the full form of IIM BLACKI?
     answer: >-
@@ -46,7 +51,7 @@ faqs:
       IIM BLACKISM expands the traditional BLACKI group by including S (IIM
       Shillong) and M (IIM Mumbai, formerly NITIE), reflecting their elite
       status and comparable placement benchmarks.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -1,9 +1,14 @@
 ---
-title: 'First Bridge Business School (FBBS) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  First Bridge Business School (FBBS) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for First Bridge Business School (FBBS) (First Bridge Gurgaon). Verified fee structure (₹16.00 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹8.50 LPA, Highest ₹20.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for First Bridge Business School (FBBS)
+  (First Bridge Gurgaon). Verified fee structure (₹16.00 Lakhs (Total)), PGDM
+  approvals, audited placements (Avg ₹8.50 LPA, Highest ₹20.00 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - First Bridge Business School (FBBS) admission 2027-29
   - First Bridge Gurgaon fees 2027
@@ -17,25 +22,59 @@ keywords:
   - best MBA PGDM colleges in Gurgaon
   - direct admission in First Bridge Gurgaon
   - MBA Career Counselling Mohit Jain
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: What is the total fee for the PGDM (2027–29) Batch at First Bridge Gurgaon?
+  - question: >-
+      What is the total fee for the PGDM (2027–29) Batch at First Bridge
+      Gurgaon?
     answer: >-
-      The total course fee for the 2-year PGDM program at First Bridge Business School (FBBS) for the 2027–29 batch is ₹16.00 Lakhs (Total) (₹8.00 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
-  - question: Which statutory approvals and accreditations does First Bridge Gurgaon hold?
+      The total course fee for the 2-year PGDM program at First Bridge Business
+      School (FBBS) for the 2027–29 batch is ₹16.00 Lakhs (Total) (₹8.00 Lakhs
+      per Year). Various merit and category scholarships are available for
+      deserving candidates.
+  - question: >-
+      Which statutory approvals and accreditations does First Bridge Gurgaon
+      hold?
     answer: >-
-      First Bridge Business School (FBBS) holds AICTE Approved, Ministry of Education, Govt. of India, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at First Bridge Gurgaon?
+      First Bridge Business School (FBBS) holds AICTE Approved, Ministry of
+      Education, Govt. of India, ensuring valid degree equivalence, eligibility
+      for government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at First
+      Bridge Gurgaon?
     answer: >-
-      For recent placement drives, First Bridge Gurgaon recorded an average salary package of ₹8.50 LPA (Top 25% averaging ₹12.00 LPA) and a peak highest CTC of ₹20.00 LPA, with leading recruiters including High-growth GCCs, Consulting Boutiques, Tech Startups, FinTech Innovators.
-  - question: Does First Bridge Gurgaon offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, First Bridge Gurgaon recorded an average
+      salary package of ₹8.50 LPA (Top 25% averaging ₹12.00 LPA) and a peak
+      highest CTC of ₹20.00 LPA, with leading recruiters including High-growth
+      GCCs, Consulting Boutiques, Tech Startups, FinTech Innovators.
+  - question: >-
+      Does First Bridge Gurgaon offer Pre-Placement Offers (PPOs) and paid
+      summer internships?
     answer: >-
-      Yes, Portfolio-based live project tracks with high conversion in consulting & product startups.
-  - question: What value-added certifications are provided to students at First Bridge Gurgaon?
+      Yes, Portfolio-based live project tracks with high conversion in
+      consulting & product startups.
+  - question: >-
+      What value-added certifications are provided to students at First Bridge
+      Gurgaon?
     answer: >-
-      Students receive embedded industry certifications including Applied Generative AI for Business, Growth Product Management, GCC Finance & Treasury, Strategy Decks Mastery.
-  - question: How can students apply for admission or get counseling for First Bridge Gurgaon for 2027–29?
+      Students receive embedded industry certifications including Applied
+      Generative AI for Business, Growth Product Management, GCC Finance &
+      Treasury, Strategy Decks Mastery.
+  - question: >-
+      How can students apply for admission or get counseling for First Bridge
+      Gurgaon for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Gurgaon
 state: Pan India
 ---

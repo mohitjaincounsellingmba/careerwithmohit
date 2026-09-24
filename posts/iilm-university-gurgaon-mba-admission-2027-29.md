@@ -1,9 +1,14 @@
 ---
-title: 'IILM University (Gurugram Campus) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  IILM University (Gurugram Campus) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for IILM University (Gurugram Campus) (IILM Gurgaon). Verified fee structure (₹11.50 Lakhs (Total)), MBA approvals, audited placements (Avg ₹8.60 LPA, Highest ₹26.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for IILM University (Gurugram Campus) (IILM
+  Gurgaon). Verified fee structure (₹11.50 Lakhs (Total)), MBA approvals,
+  audited placements (Avg ₹8.60 LPA, Highest ₹26.00 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - IILM University (Gurugram Campus) admission 2027-29
   - IILM Gurgaon fees 2027
@@ -17,25 +22,52 @@ keywords:
   - best MBA PGDM colleges in Gurgaon
   - direct admission in IILM Gurgaon
   - MBA Career Counselling Mohit Jain
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at IILM Gurgaon?
     answer: >-
-      The total course fee for the 2-year MBA program at IILM University (Gurugram Campus) for the 2027–29 batch is ₹11.50 Lakhs (Total) (₹5.75 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at IILM University
+      (Gurugram Campus) for the 2027–29 batch is ₹11.50 Lakhs (Total) (₹5.75
+      Lakhs per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does IILM Gurgaon hold?
     answer: >-
-      IILM University (Gurugram Campus) holds UGC Approved State Private University, Govt. of Haryana, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at IILM Gurgaon?
+      IILM University (Gurugram Campus) holds UGC Approved State Private
+      University, Govt. of Haryana, ensuring valid degree equivalence,
+      eligibility for government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at IILM
+      Gurgaon?
     answer: >-
-      For recent placement drives, IILM Gurgaon recorded an average salary package of ₹8.60 LPA (Top 25% averaging ₹12.50 LPA) and a peak highest CTC of ₹26.00 LPA, with leading recruiters including Deloitte, KPMG, EY, PwC.
-  - question: Does IILM Gurgaon offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, IILM Gurgaon recorded an average salary
+      package of ₹8.60 LPA (Top 25% averaging ₹12.50 LPA) and a peak highest CTC
+      of ₹26.00 LPA, with leading recruiters including Deloitte, KPMG, EY, PwC.
+  - question: >-
+      Does IILM Gurgaon offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 25% PPO conversion through active corporate mentoring on Golf Course Road.
+      Yes, 25% PPO conversion through active corporate mentoring on Golf Course
+      Road.
   - question: What value-added certifications are provided to students at IILM Gurgaon?
     answer: >-
-      Students receive embedded industry certifications including AI in HR & People Analytics, Investment Banking Valuation Modeling, Digital Media Strategy, Python for Analytics.
-  - question: How can students apply for admission or get counseling for IILM Gurgaon for 2027–29?
+      Students receive embedded industry certifications including AI in HR &
+      People Analytics, Investment Banking Valuation Modeling, Digital Media
+      Strategy, Python for Analytics.
+  - question: >-
+      How can students apply for admission or get counseling for IILM Gurgaon
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Gurgaon
 state: Pan India
 ---

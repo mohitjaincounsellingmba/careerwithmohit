@@ -56,7 +56,7 @@ faqs:
     answer: >-
       JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme
       cost is around ₹8.5–₹9 Lakhs.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

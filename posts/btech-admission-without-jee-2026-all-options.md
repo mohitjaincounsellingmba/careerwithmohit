@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is B.Tech admission valid without JEE Main?
     answer: >-
@@ -45,7 +50,7 @@ faqs:
       VITEEE is considerably easier than JEE Main in terms of difficulty level.
       It is a good alternative for students who want a quality engineering
       college without the intense JEE preparation grind.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

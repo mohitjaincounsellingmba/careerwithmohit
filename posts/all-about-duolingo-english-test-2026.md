@@ -23,6 +23,13 @@ keywords:
   - admissions 2026
   - placements 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is a good score in DET for top universities?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
     answer: >-
       You can take the test as many times as you like, but you can only purchase
       three tests in a 30-day period.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

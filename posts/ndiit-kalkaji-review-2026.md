@@ -49,7 +49,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at New Delhi
       Institute of Info Tech & Management (NDIIT) is approximately ₹5.80 Lakhs
       (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

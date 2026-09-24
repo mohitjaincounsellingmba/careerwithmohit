@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the easiest MBA entrance exam?
     answer: >-
@@ -28,7 +32,7 @@ faqs:
       placement quality is often low.
   - question: What is the total cost of applying for all exams?
     answer: "If you apply for 4 major exams (CAT, XAT, NMAT, SNAP), expect to spend around **₹10,000 to ₹12,000** just on application fees.\n\n[\U0001F449 Use our College Predictor based on your Exam Score!](/tools/mat-college-predictor)\n\n**Confused about which exam fits your profile?**\nAt **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest the best exam strategy for your dream B-school.\n\n[\U0001F449 Book a Personalized Strategy Session!](/inquiry)"
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

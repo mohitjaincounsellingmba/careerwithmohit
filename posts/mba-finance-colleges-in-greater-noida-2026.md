@@ -37,7 +37,7 @@ faqs:
       Many private colleges in Greater Noida offer direct admission to
       institutional seats based on a candidate's profile and moderate test
       scores.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

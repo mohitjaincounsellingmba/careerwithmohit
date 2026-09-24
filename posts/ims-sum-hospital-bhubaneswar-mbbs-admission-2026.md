@@ -15,6 +15,13 @@ keywords:
   - 'Siksha ''O'' Anusandhan (IMS & SUM Hospital), Bhubaneswar MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee for MBBS in IMS & SUM Hospital Bhubaneswar?
     answer: The annual tuition fee is ₹19.60 Lakhs per year.
@@ -24,7 +31,7 @@ faqs:
     answer: >-
       All 250 seats are allocated through MCC All India Deemed Counselling at
       mcc.nic.in.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

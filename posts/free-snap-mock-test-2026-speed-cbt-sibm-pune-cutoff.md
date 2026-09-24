@@ -76,6 +76,8 @@ Unlike CAT, which tests in-depth conceptual stamina over 2 hours, SNAP is an ult
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam pattern for SNAP 2026?

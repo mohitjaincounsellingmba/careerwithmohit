@@ -22,6 +22,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get a good PGDM college with a 60-70 percentile in CAT 2026?
     answer: >-
@@ -39,7 +45,7 @@ faqs:
       Yes. Once CAT 2026 percentiles are declared, colleges conduct
       profile-based evaluations including Group Discussions,
       Micro-presentations, and Personal Interviews.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 # CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore

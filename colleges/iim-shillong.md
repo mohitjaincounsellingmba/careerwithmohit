@@ -1,21 +1,55 @@
 ---
-name: "IIM Shillong (RGIIM Shillong)"
-logo: "/logo.webp"
-location: "Umsawli, Shillong, Meghalaya"
-category: "Management"
-type: "Institute"
-courses: ["PGP (MBA)", "PGP for Working Executives", "Ph.D."]
+name: IIM Shillong (RGIIM Shillong)
+logo: /logo.webp
+location: 'Umsawli, Shillong, Meghalaya'
+category: Management
+type: Institute
+courses:
+  - PGP (MBA)
+  - PGP for Working Executives
+  - Ph.D.
 established: 2007
-ownership: "Government Autonomous (IIM)"
-ranking: "NIRF Rank #24 (Management 2024)"
-fees: "₹17.50 Lakhs (Total)"
-avg_placement: "₹26.10 LPA"
-highest_placement: "₹71.30 LPA"
-lowest_placement: "₹15.00 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://www.iimshillong.ac.in"
-top_recruiters: ["McKinsey", "Bain & Co.", "Goldman Sachs", "Morgan Stanley", "ITC", "Tata Steel", "Google"]
+ownership: Government Autonomous (IIM)
+ranking: 'NIRF Rank #24 (Management 2024)'
+fees: ₹17.50 Lakhs (Total)
+avg_placement: ₹26.10 LPA
+highest_placement: ₹71.30 LPA
+lowest_placement: ₹15.00 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://www.iimshillong.ac.in'
+top_recruiters:
+  - McKinsey
+  - Bain & Co.
+  - Goldman Sachs
+  - Morgan Stanley
+  - ITC
+  - Tata Steel
+  - Google
+seo_title: 'IIM Shillong (RGIIM Shillong) MBA Fees, Cutoff & Placement 2'
+seo_description: >-
+  Explore IIM Shillong (RGIIM Shillong) Umsawli, Shillong, Meghalaya: MBA/PGDM
+  fee structure ₹17.50 Lakhs (Total), average placement ₹26.10 LPA, highest CTC,
+  rank
+keywords:
+  - IIM Shillong (RGIIM Shillong) review
+  - IIM Shillong (RGIIM Shillong) fees structure 2027
+  - IIM Shillong (RGIIM Shillong) average package
+  - IIM Shillong (RGIIM Shillong) placement report 2027
+  - IIM Shillong (RGIIM Shillong) highest package
+  - IIM Shillong (RGIIM Shillong) cutoff 2027
+  - IIM Shillong (RGIIM Shillong) admission process
+  - IIM Shillong (RGIIM Shillong) ranking
+  - 'IIM Shillong (RGIIM Shillong) Umsawli, Shillong, Meghalaya'
+  - is IIM Shillong (RGIIM Shillong) good
+  - IIM Shillong (RGIIM Shillong) mohit jain review
+  - IIM Shillong (RGIIM Shillong) hostel fees
+  - IIM Shillong (RGIIM Shillong) contact number
+  - IIM Shillong (RGIIM Shillong) MBA fees
+  - IIM Shillong (RGIIM Shillong) PGDM placement
+  - IIM Shillong (RGIIM Shillong) MBA admission 2027
+  - 'MBA colleges Umsawli, Shillong, Meghalaya'
 ---
 
 ### About IIM Shillong (RGIIM Shillong)

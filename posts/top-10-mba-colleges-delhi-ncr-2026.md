@@ -38,7 +38,7 @@ faqs:
       (for specific seats) and others may have profile-based or management quota
       admissions. Read our [Direct MBA Admission
       Guide](/blog/direct-mba-admission-india) for more details.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

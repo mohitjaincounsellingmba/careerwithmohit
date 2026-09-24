@@ -47,7 +47,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at GNIOT (Greater
       Noida Institute of Technology) is approximately ₹4.95L - ₹8.55L (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

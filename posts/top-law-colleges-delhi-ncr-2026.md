@@ -44,7 +44,7 @@ faqs:
       toughest in India.
   - question: When is the AILET 2026 exam?
     answer: AILET is usually held on the **second Sunday of December**.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

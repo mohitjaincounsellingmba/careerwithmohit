@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which specialization pays a higher salary?
     answer: >-
@@ -36,7 +40,7 @@ faqs:
       focus will remain on business intelligence tools (Tableau, Power BI) and
       Advanced Excel. You will not be expected to build complex machine learning
       architectures.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

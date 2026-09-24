@@ -48,7 +48,7 @@ faqs:
       Usually starts in **July/August**, conducted by the Medical Counselling
       Committee (MCC) for central seats and Guru Gobind Singh Indraprastha
       University (GGSIPU) for state seats.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

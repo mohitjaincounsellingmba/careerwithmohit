@@ -1,22 +1,85 @@
 ---
-name: "IIIT Sri City (Indian Institute of Information Technology Sri City)"
-logo: ""
-location: "Sri City, Tirupati District, Andhra Pradesh"
-state: "Andhra Pradesh"
-category: "Engineering"
-type: "Institute of National Importance (PPP)"
-courses: ["B.Tech Computer Science & Engineering (CSE)", "B.Tech Artificial Intelligence & Machine Learning", "B.Tech Electronics & Communication (ECE)", "M.Tech AI & ML"]
+name: IIIT Sri City (Indian Institute of Information Technology Sri City)
+logo: ''
+location: 'Sri City, Tirupati District, Andhra Pradesh'
+state: Andhra Pradesh
+category: Engineering
+type: Institute of National Importance (PPP)
+courses:
+  - B.Tech Computer Science & Engineering (CSE)
+  - B.Tech Artificial Intelligence & Machine Learning
+  - B.Tech Electronics & Communication (ECE)
+  - M.Tech AI & ML
 established: 2013
-ownership: "Institute of National Importance (PPP Mode)"
-ranking: "Top Emerging IIIT in South India"
-fees: "₹12.00 - ₹14.50 Lakhs (Total 4 Years)"
-avg_placement: "₹14.50 LPA"
-highest_placement: "₹51.00 LPA"
-lowest_placement: "₹9.00 LPA"
-exams: ["JEE Main (Top 98.5%ile)", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://www.iiits.ac.in"
-top_recruiters: ["Amazon", "Google", "Microsoft", "Swiggy", "PhonePe", "Commvault", "Deloitte"]
+ownership: Institute of National Importance (PPP Mode)
+ranking: Top Emerging IIIT in South India
+fees: ₹12.00 - ₹14.50 Lakhs (Total 4 Years)
+avg_placement: ₹14.50 LPA
+highest_placement: ₹51.00 LPA
+lowest_placement: ₹9.00 LPA
+exams:
+  - JEE Main (Top 98.5%ile)
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://www.iiits.ac.in'
+top_recruiters:
+  - Amazon
+  - Google
+  - Microsoft
+  - Swiggy
+  - PhonePe
+  - Commvault
+  - Deloitte
+seo_title: IIIT Sri City (Indian Institute of Information Technology Sr
+seo_description: >-
+  Check IIIT Sri City (Indian Institute of Information Technology Sri City) Sri
+  City, Tirupati District, Andhra Pradesh: B.Tech fee structure ₹12.00 - ₹14.50
+  Lakh
+keywords:
+  - IIIT Sri City (Indian Institute of Information Technology Sri City) review
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) fees
+    structure 2027
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) average
+    package
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City)
+    placement report 2027
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) highest
+    package
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) cutoff
+    2027
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City)
+    admission process
+  - IIIT Sri City (Indian Institute of Information Technology Sri City) ranking
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) Sri
+    City, Tirupati District, Andhra Pradesh
+  - is IIIT Sri City (Indian Institute of Information Technology Sri City) good
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) mohit
+    jain review
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) hostel
+    fees
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) contact
+    number
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) B.Tech
+    fees
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) CSE
+    placement
+  - >-
+    IIIT Sri City (Indian Institute of Information Technology Sri City) B.Tech
+    admission 2027
+  - 'engineering colleges Sri City, Tirupati District, Andhra Pradesh'
 ---
 
 ### About IIIT Sri City (Indian Institute of Information Technology Sri City)

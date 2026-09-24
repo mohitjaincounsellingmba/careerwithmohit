@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Finding the right undergraduate management program is the critical first step toward a successful corporate career. Delhi National Capital Region (NCR) stands as India's premier educational and corporate hub, offering access to world-class public universities, elite central institutions, and premium private campuses.

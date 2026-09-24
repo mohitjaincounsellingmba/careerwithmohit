@@ -16,6 +16,13 @@ keywords:
   - karnataka neet counselling 2026
   - direct mbbs admission bangalore
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Bangalore have any Deemed Medical universities?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       high (530-580+ range).
   - question: When is the KEA Medical counselling 2026?
     answer: Usually starts in **July** after the NEET results are announced.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

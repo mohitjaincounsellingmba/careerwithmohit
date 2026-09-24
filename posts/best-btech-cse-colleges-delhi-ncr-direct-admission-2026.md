@@ -41,7 +41,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Computer Science and Engineering (CSE) remains the definitive powerhouse of engineering courses in India. With the explosive demand for full-stack developers, software engineers, and cloud architects, getting a B.Tech CSE degree from a top college in Delhi NCR ensures a lucrative career path.

@@ -14,6 +14,13 @@ keywords:
   - SRM JEE result check link
   - SRMJEEE counselling 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Thousands of B.Tech aspirants are eagerly waiting for the **SRMJEEE 2026 result** after appearing in one of India's most popular private engineering entrance exams. Here's everything you need to know — expected result date, how to check your rank card, and what to do next.

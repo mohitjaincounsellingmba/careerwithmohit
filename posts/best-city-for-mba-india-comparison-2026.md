@@ -44,7 +44,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Choosing the right city for your MBA is as important as choosing the right college. The location of your B-School directly impacts your **internships, networking opportunities, and final placements**. 

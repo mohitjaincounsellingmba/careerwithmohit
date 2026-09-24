@@ -38,7 +38,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Lloyd Business
       School is approximately ₹2.90L - ₹8.25L (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

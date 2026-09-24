@@ -1,9 +1,14 @@
 ---
-title: 'Amity University Gurugram (Manesar) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Amity University Gurugram (Manesar) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Amity University Gurugram (Manesar) (Amity Gurgaon). Verified fee structure (₹9.80 Lakhs (Total)), MBA approvals, audited placements (Avg ₹6.80 LPA, Highest ₹21.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Amity University Gurugram (Manesar)
+  (Amity Gurgaon). Verified fee structure (₹9.80 Lakhs (Total)), MBA approvals,
+  audited placements (Avg ₹6.80 LPA, Highest ₹21.00 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - Amity University Gurugram (Manesar) admission 2027-29
   - Amity Gurgaon fees 2027
@@ -17,25 +22,54 @@ keywords:
   - best MBA PGDM colleges in Gurgaon
   - direct admission in Amity Gurgaon
   - MBA Career Counselling Mohit Jain
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Amity Gurgaon?
     answer: >-
-      The total course fee for the 2-year MBA program at Amity University Gurugram (Manesar) for the 2027–29 batch is ₹9.80 Lakhs (Total) (₹4.90 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at Amity University
+      Gurugram (Manesar) for the 2027–29 batch is ₹9.80 Lakhs (Total) (₹4.90
+      Lakhs per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does Amity Gurgaon hold?
     answer: >-
-      Amity University Gurugram (Manesar) holds UGC Approved · NAAC Grade A+ Accredited · IACBE (USA) · WES Approved, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Amity Gurgaon?
+      Amity University Gurugram (Manesar) holds UGC Approved · NAAC Grade A+
+      Accredited · IACBE (USA) · WES Approved, ensuring valid degree
+      equivalence, eligibility for government jobs, and global corporate
+      recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Amity
+      Gurgaon?
     answer: >-
-      For recent placement drives, Amity Gurgaon recorded an average salary package of ₹6.80 LPA (Top 25% averaging ₹9.50 LPA) and a peak highest CTC of ₹21.00 LPA, with leading recruiters including Accenture, EY, Amazon, Infosys.
-  - question: Does Amity Gurgaon offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Amity Gurgaon recorded an average salary
+      package of ₹6.80 LPA (Top 25% averaging ₹9.50 LPA) and a peak highest CTC
+      of ₹21.00 LPA, with leading recruiters including Accenture, EY, Amazon,
+      Infosys.
+  - question: >-
+      Does Amity Gurgaon offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 20% of the batch secures PPOs through campus corporate partnership networks.
+      Yes, 20% of the batch secures PPOs through campus corporate partnership
+      networks.
   - question: What value-added certifications are provided to students at Amity Gurgaon?
     answer: >-
-      Students receive embedded industry certifications including IBM Analytics Badge, Foreign Language Certification (French/German/Spanish), Lean Six Sigma Green Belt, Digital Marketing & CRM.
-  - question: How can students apply for admission or get counseling for Amity Gurgaon for 2027–29?
+      Students receive embedded industry certifications including IBM Analytics
+      Badge, Foreign Language Certification (French/German/Spanish), Lean Six
+      Sigma Green Belt, Digital Marketing & CRM.
+  - question: >-
+      How can students apply for admission or get counseling for Amity Gurgaon
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Gurgaon
 state: Pan India
 ---

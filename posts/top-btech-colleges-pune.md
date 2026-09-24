@@ -17,6 +17,13 @@ keywords:
   - direct admission btech pune 2026
   - pune it hub placements btech
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What MHT CET percentile is needed for COEP Pune CSE?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       For Tier-1 colleges (COEP, PICT), the average package ranges from ₹12L to
       ₹18L. For Tier-2 private colleges, it ranges between ₹5L and ₹9L.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

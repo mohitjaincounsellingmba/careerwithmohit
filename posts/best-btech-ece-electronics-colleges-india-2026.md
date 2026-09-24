@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best ECE college in India?
     answer: >-
@@ -43,7 +48,7 @@ faqs:
       Yes. Most IT companies (TCS, Wipro, Infosys, Accenture) hire ECE graduates
       for software roles alongside CSE students. Many ECE graduates also crack
       product companies through coding preparation.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

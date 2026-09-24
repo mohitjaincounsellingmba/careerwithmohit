@@ -22,6 +22,13 @@ keywords:
   - IIEBM Pune PGDM
   - best ROI MBA Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -38,7 +45,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pune is often called the "Oxford of the East," and for good reason. While giants like SIBM and SCMHRD take the limelight, a large majority of students look for **affordable MBA/PGDM colleges in Pune** that offer a decent start to their corporate careers without a 25-lakh price tag.

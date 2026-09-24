@@ -21,7 +21,12 @@ keywords:
   - Best Colleges in Noida
   - Direct Admission in Noida
   - Noida Admissions 2026
-location: Delhi NCR
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Noida
 faqs:
   - question: Which are the top MBA colleges accepting 70-80 percentile in CAT 2026?
     answer: >-

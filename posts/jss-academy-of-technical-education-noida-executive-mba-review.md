@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Admissions are made based on CUET PG or the university's counselling
       guidelines for working candidates.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

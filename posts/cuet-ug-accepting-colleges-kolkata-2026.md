@@ -14,6 +14,13 @@ keywords:
   - Brainware University CUET admissions
   - best colleges for CUET in Kolkata
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Kolkata, the "City of Joy," is a leading educational hub in East India. With some of its most specialized and high-tech private universities joining the **Common University Entrance Test (CUET) UG** movement, the competition is fierce but rewarding.

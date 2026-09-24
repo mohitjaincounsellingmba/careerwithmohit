@@ -66,7 +66,7 @@ faqs:
       Admissions require JEE Main for B.Tech, IPU CET / CUET for BBA, BCA, and
       B.Com, CAT / CMAT / IPU CET for MBA, NIMCET for MCA, and CLAT for Law (BA
       LLB / BBA LLB).
-location: Delhi NCR
+location: Faridabad
 state: Delhi NCR
 ---
 

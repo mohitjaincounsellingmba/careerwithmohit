@@ -21,6 +21,13 @@ keywords:
   - 100 GDPI topics with answers PDF
   - Mohit Jain MBA counselling
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is included in the Free MBA Preparation Kit 2026-27?
     answer: >-
@@ -52,7 +59,7 @@ faqs:
       (via XAT), SIBM Pune (via SNAP), and top AICTE-approved PGDM colleges (via
       MAT, CMAT, ATMA or profile-based evaluation) offer exceptional placement
       ROI without requiring CAT scores.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

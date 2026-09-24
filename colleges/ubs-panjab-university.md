@@ -1,21 +1,56 @@
 ---
-name: "University Business School (UBS), Panjab University"
-logo: "/logo.webp"
-location: "Chandigarh"
-category: "Management"
-type: "University"
-courses: ["MBA (General)", "MBA International Business", "MBA HR", "MBA Biotech"]
+name: 'University Business School (UBS), Panjab University'
+logo: /logo.webp
+location: Chandigarh
+category: Management
+type: University
+courses:
+  - MBA (General)
+  - MBA International Business
+  - MBA HR
+  - MBA Biotech
 established: 1962
-ownership: "Public State University"
-ranking: "Top ROI Business School in India · NIRF #38 (2024)"
-fees: "₹45,000 (Total for 2 Years)"
-avg_placement: "₹13.72 LPA"
-highest_placement: "₹58.48 LPA"
-lowest_placement: "₹8.50 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://ubs.puchd.ac.in"
-top_recruiters: ["Tolaram Group", "Trident", "American Express", "KPMG", "HDFC Bank", "EY", "Marico"]
+ownership: Public State University
+ranking: 'Top ROI Business School in India · NIRF #38 (2024)'
+fees: '₹45,000 (Total for 2 Years)'
+avg_placement: ₹13.72 LPA
+highest_placement: ₹58.48 LPA
+lowest_placement: ₹8.50 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://ubs.puchd.ac.in'
+top_recruiters:
+  - Tolaram Group
+  - Trident
+  - American Express
+  - KPMG
+  - HDFC Bank
+  - EY
+  - Marico
+seo_title: 'University Business School (UBS), Panjab University MBA Fees'
+seo_description: >-
+  Explore University Business School (UBS), Panjab University Chandigarh:
+  MBA/PGDM fee structure ₹45,000 (Total for 2 Years), average placement ₹13.72
+  LPA, highes
+keywords:
+  - 'University Business School (UBS), Panjab University review'
+  - 'University Business School (UBS), Panjab University fees structure 2027'
+  - 'University Business School (UBS), Panjab University average package'
+  - 'University Business School (UBS), Panjab University placement report 2027'
+  - 'University Business School (UBS), Panjab University highest package'
+  - 'University Business School (UBS), Panjab University cutoff 2027'
+  - 'University Business School (UBS), Panjab University admission process'
+  - 'University Business School (UBS), Panjab University ranking'
+  - 'University Business School (UBS), Panjab University Chandigarh'
+  - 'is University Business School (UBS), Panjab University good'
+  - 'University Business School (UBS), Panjab University mohit jain review'
+  - 'University Business School (UBS), Panjab University hostel fees'
+  - 'University Business School (UBS), Panjab University contact number'
+  - 'University Business School (UBS), Panjab University MBA fees'
+  - 'University Business School (UBS), Panjab University PGDM placement'
+  - 'University Business School (UBS), Panjab University MBA admission 2027'
+  - MBA colleges Chandigarh
 ---
 
 ### About University Business School (UBS), Panjab University

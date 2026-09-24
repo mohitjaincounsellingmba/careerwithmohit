@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is a "Safe Rank" for CSE in Top IITs?
     answer: >-
@@ -39,7 +44,7 @@ faqs:
     answer: >-
       Government colleges (IITs/NITs) cost around ₹8L - ₹12L for 4 years.
       Private universities range from ₹15L to ₹25L.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

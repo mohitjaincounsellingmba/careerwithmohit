@@ -18,8 +18,15 @@ keywords:
   - Top Universities in Pune
   - Direct Admission in Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: >-
       Is MIT World Peace University (MIT-WPU) a good choice for higher education

@@ -13,6 +13,13 @@ keywords:
   - Jaipur executive mba
   - best executive mba in Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: MBA
 faqs:
   - question: What is the schedule of classes for the Amity Jaipur Executive MBA?
@@ -27,7 +34,7 @@ faqs:
     answer: >-
       Amity provides access to its centralized placement portal, though most
       weekend candidates leverage the degree for lateral shifts.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

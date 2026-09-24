@@ -13,6 +13,13 @@ keywords:
   - NMAT adaptive test strategy
   - best NMAT mock tests
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **[NMIMS Mumbai](/colleges/nmims-mumbai)**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.

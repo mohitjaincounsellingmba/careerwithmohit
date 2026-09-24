@@ -1,9 +1,15 @@
 ---
-title: 'Fortune Institute of International Business (FIIB) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Fortune Institute of International Business (FIIB) MBA / PGDM Admission
+  2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Fortune Institute of International Business (FIIB) (FIIB Delhi). Verified fee structure (₹12.85 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹8.50 LPA, Highest ₹25.92 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Fortune Institute of International
+  Business (FIIB) (FIIB Delhi). Verified fee structure (₹12.85 Lakhs (Total)),
+  PGDM approvals, audited placements (Avg ₹8.50 LPA, Highest ₹25.92 LPA), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - Fortune Institute of International Business (FIIB) admission 2027-29
   - FIIB Delhi fees 2027
@@ -17,26 +23,53 @@ keywords:
   - best MBA PGDM colleges in New Delhi
   - direct admission in FIIB Delhi
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at FIIB Delhi?
     answer: >-
-      The total course fee for the 2-year PGDM program at Fortune Institute of International Business (FIIB) for the 2027–29 batch is ₹12.85 Lakhs (Total) (₹6.42 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at Fortune Institute of
+      International Business (FIIB) for the 2027–29 batch is ₹12.85 Lakhs
+      (Total) (₹6.42 Lakhs per Year). Various merit and category scholarships
+      are available for deserving candidates.
   - question: Which statutory approvals and accreditations does FIIB Delhi hold?
     answer: >-
-      Fortune Institute of International Business (FIIB) holds AICTE Approved · NBA Accredited · AIU Equivalent · Member AACSB & EFMD, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      Fortune Institute of International Business (FIIB) holds AICTE Approved ·
+      NBA Accredited · AIU Equivalent · Member AACSB & EFMD, ensuring valid
+      degree equivalence, eligibility for government jobs, and global corporate
+      recognition.
   - question: What are the placement statistics (Average and Highest CTC) at FIIB Delhi?
     answer: >-
-      For recent placement drives, FIIB Delhi recorded an average salary package of ₹8.50 LPA (Top 25% averaging ₹11.50 LPA) and a peak highest CTC of ₹25.92 LPA, with leading recruiters including Amazon, Deloitte, ICICI Bank, Tata Capital.
-  - question: Does FIIB Delhi offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, FIIB Delhi recorded an average salary package
+      of ₹8.50 LPA (Top 25% averaging ₹11.50 LPA) and a peak highest CTC of
+      ₹25.92 LPA, with leading recruiters including Amazon, Deloitte, ICICI
+      Bank, Tata Capital.
+  - question: >-
+      Does FIIB Delhi offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 22% PPO conversion rate through the "Sankalp" corporate mentorship program.
+      Yes, 22% PPO conversion rate through the "Sankalp" corporate mentorship
+      program.
   - question: What value-added certifications are provided to students at FIIB Delhi?
     answer: >-
-      Students receive embedded industry certifications including Bloomberg Terminal Certification, Six Sigma Green Belt, Digital Strategy & Social Media Analytics, Python & R for Predictive Modeling.
-  - question: How can students apply for admission or get counseling for FIIB Delhi for 2027–29?
+      Students receive embedded industry certifications including Bloomberg
+      Terminal Certification, Six Sigma Green Belt, Digital Strategy & Social
+      Media Analytics, Python & R for Predictive Modeling.
+  - question: >-
+      How can students apply for admission or get counseling for FIIB Delhi for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: New Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

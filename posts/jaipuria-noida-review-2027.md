@@ -1,11 +1,14 @@
 ---
-title: 'Jaipuria Noida Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Verdict'
+title: >-
+  Jaipuria Noida Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest
+  Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  Comprehensive Jaipuria Institute of Management Noida review for the 2027–2029 session.
-  Explore verified PGDM fee structure (₹16.50 Lakhs in 6 trimesters), placements (avg ₹11.29 LPA,
-  highest ₹24.11 LPA, 350+ recruiters), AACSB membership, cutoffs, and ROI analysis.
+  Comprehensive Jaipuria Institute of Management Noida review for the 2027–2029
+  session. Explore verified PGDM fee structure (₹16.50 Lakhs in 6 trimesters),
+  placements (avg ₹11.29 LPA, highest ₹24.11 LPA, 350+ recruiters), AACSB
+  membership, cutoffs, and ROI analysis.
 keywords:
   - Jaipuria Noida review 2027
   - Jaipuria Noida review 2027 2029
@@ -32,31 +35,41 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: What is the official fee structure for the PGDM program at Jaipuria Noida for the 2027–2029 batch?
+  - question: >-
+      What is the official fee structure for the PGDM program at Jaipuria Noida
+      for the 2027–2029 batch?
     answer: >-
-      The total course fee for the 2-year full-time PGDM, PGDM (Marketing), and PGDM (Service Management) programs
-      at Jaipuria Institute of Management, Noida is ₹16,50,000, payable across six trimester installments. Merit-based
-      scholarships of up to ₹3 Lakhs are available based on CAT/MAT scores.
+      The total course fee for the 2-year full-time PGDM, PGDM (Marketing), and
+      PGDM (Service Management) programs at Jaipuria Institute of Management,
+      Noida is ₹16,50,000, payable across six trimester installments.
+      Merit-based scholarships of up to ₹3 Lakhs are available based on CAT/MAT
+      scores.
   - question: What are the average and highest placement packages at Jaipuria Noida?
     answer: >-
-      In the recent placement seasons, Jaipuria Institute of Management reported an overall average CTC of ₹11.29 LPA,
-      with the top 10% of the batch securing an average of ₹14.70 LPA and the top 20% averaging ₹13.18 LPA. The highest
-      domestic package reached ₹24.11 LPA across 350+ visiting recruiters.
+      In the recent placement seasons, Jaipuria Institute of Management reported
+      an overall average CTC of ₹11.29 LPA, with the top 10% of the batch
+      securing an average of ₹14.70 LPA and the top 20% averaging ₹13.18 LPA.
+      The highest domestic package reached ₹24.11 LPA across 350+ visiting
+      recruiters.
   - question: What is Jaipuria’s centralized placement advantage?
     answer: >-
-      Jaipuria operates a unified, centralized placement model connecting students across all four campuses (Noida,
-      Lucknow, Jaipur, and Indore). A company visiting any campus can interview students from all campuses, vastly
-      multiplying career opportunities.
+      Jaipuria operates a unified, centralized placement model connecting
+      students across all four campuses (Noida, Lucknow, Jaipur, and Indore). A
+      company visiting any campus can interview students from all campuses,
+      vastly multiplying career opportunities.
   - question: What entrance exams and cutoffs are required for Jaipuria Noida?
     answer: >-
-      Jaipuria Noida accepts CAT, XAT, MAT, CMAT, and ATMA. Expected cutoffs range from 70–75 percentile in CAT/XAT,
-      75–80 percentile in CMAT, and 80–85 percentile in MAT. Shortlisting also considers academic consistency, diversity,
-      and performance in personal interviews.
+      Jaipuria Noida accepts CAT, XAT, MAT, CMAT, and ATMA. Expected cutoffs
+      range from 70–75 percentile in CAT/XAT, 75–80 percentile in CMAT, and
+      80–85 percentile in MAT. Shortlisting also considers academic consistency,
+      diversity, and performance in personal interviews.
   - question: Is Jaipuria Institute of Management Noida accredited by AACSB and AICTE?
     answer: >-
-      Yes. Jaipuria Noida is approved by AICTE, accredited by NBA, its PGDM is recognized as MBA-equivalent by the
-      Association of Indian Universities (AIU), and it is a member of the prestigious AACSB Business Education Alliance.
-location: Delhi NCR
+      Yes. Jaipuria Noida is approved by AICTE, accredited by NBA, its PGDM is
+      recognized as MBA-equivalent by the Association of Indian Universities
+      (AIU), and it is a member of the prestigious AACSB Business Education
+      Alliance.
+location: Noida
 state: Delhi NCR
 ---
 

@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Vignan offer dual specialization in online MBA?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
     answer: >-
       Budget for an annual examination fee of ~₹4,000 and a one-time
       registration fee of ~₹1,000 in addition to the tuition fees.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

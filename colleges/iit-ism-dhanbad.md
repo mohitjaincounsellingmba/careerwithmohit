@@ -1,22 +1,80 @@
 ---
-name: "IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad)"
-logo: ""
-location: "Dhanbad, Jharkhand"
-state: "Jharkhand"
-category: "Engineering"
-type: "Institute of National Importance"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Petroleum Engineering", "B.Tech Mining Engineering", "B.Tech Electronics & Communication", "B.Tech Mechanical Engineering", "M.Tech Computer Science"]
+name: IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad)
+logo: ''
+location: 'Dhanbad, Jharkhand'
+state: Jharkhand
+category: Engineering
+type: Institute of National Importance
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Petroleum Engineering
+  - B.Tech Mining Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Mechanical Engineering
+  - M.Tech Computer Science
 established: 1926
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #15 (Engineering 2024)"
-fees: "₹8.50 - ₹9.80 Lakhs (Total 4 Years)"
-avg_placement: "₹17.80 LPA"
-highest_placement: "₹83.00 LPA"
-lowest_placement: "₹11.00 LPA"
-exams: ["JEE Advanced", "JEE Main", "GATE"]
-brochure_url: "#"
-website: "https://www.iitism.ac.in"
-top_recruiters: ["Google", "Microsoft", "Amazon", "Schlumberger", "ONGC", "Tata Steel", "Coal India", "Qualcomm"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #15 (Engineering 2024)'
+fees: ₹8.50 - ₹9.80 Lakhs (Total 4 Years)
+avg_placement: ₹17.80 LPA
+highest_placement: ₹83.00 LPA
+lowest_placement: ₹11.00 LPA
+exams:
+  - JEE Advanced
+  - JEE Main
+  - GATE
+brochure_url: '#'
+website: 'https://www.iitism.ac.in'
+top_recruiters:
+  - Google
+  - Microsoft
+  - Amazon
+  - Schlumberger
+  - ONGC
+  - Tata Steel
+  - Coal India
+  - Qualcomm
+seo_title: IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanba
+seo_description: >-
+  Check IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) Dhanbad,
+  Jharkhand: B.Tech fee structure ₹8.50 - ₹9.80 Lakhs (Total 4 Years), average
+  place
+keywords:
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) review
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) fees
+    structure 2027
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) average
+    package
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) placement
+    report 2027
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) highest
+    package
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) cutoff 2027
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) admission
+    process
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) ranking
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) Dhanbad,
+    Jharkhand
+  - is IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) good
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) mohit jain
+    review
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) hostel fees
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) contact
+    number
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) B.Tech fees
+  - IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) CSE placement
+  - >-
+    IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad) B.Tech
+    admission 2027
+  - 'engineering colleges Dhanbad, Jharkhand'
 ---
 
 ### About IIT (ISM) Dhanbad (Indian Institute of Technology ISM Dhanbad)

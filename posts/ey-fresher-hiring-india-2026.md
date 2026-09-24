@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -32,7 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 **Ernst & Young (EY) India** has opened its recruitment portal for the **2026 batch**. As one of the "Big 4" professional services firms, EY offers a dynamic environment for freshers to start their careers in Technology, Tax, Assurance, and Consulting.

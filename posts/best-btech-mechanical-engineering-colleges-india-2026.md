@@ -19,6 +19,13 @@ keywords:
   - core mechanical engineering jobs india
   - btech mechanical salary india 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Mechanical Engineering worth it in 2026?
     answer: >-
@@ -43,7 +50,7 @@ faqs:
       Fresh B.Tech ME graduates earn ₹4–8 LPA in private sector. Government PSU
       (via GATE) offers ₹9–14 LPA. Top IIT ME graduates earn ₹15–22 LPA at
       product companies.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

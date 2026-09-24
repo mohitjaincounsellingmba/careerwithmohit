@@ -34,7 +34,7 @@ faqs:
       attracts many leading retail brands, FMCG companies, and media agencies.
   - question: Does IMS Noida accept MAT?
     answer: 'Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

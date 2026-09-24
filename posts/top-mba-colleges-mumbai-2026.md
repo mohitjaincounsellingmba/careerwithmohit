@@ -17,6 +17,13 @@ keywords:
   - direct admission mba mumbai
   - sjmsom iit bombay mba fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in MBA Mumbai colleges?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
       Most Mumbai B-schools have limited hostels. Use areas like Kurla,
       Santacruz, or Andheri for affordable PG stays near the Western/Central
       railway lines.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

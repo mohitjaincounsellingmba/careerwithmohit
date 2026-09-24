@@ -36,7 +36,7 @@ faqs:
     answer: >-
       No, IMT Ghaziabad admits students strictly through CAT, XAT, and GMAT
       scores.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

@@ -20,6 +20,13 @@ keywords:
   - NMIMS Chandigarh MBA
   - best NMIMS campus for MBA
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does NMIMS accept CAT scores?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
       campuses (Shirpur, Chandigarh, Indore) can participate in placement drives
       at the Mumbai campus, which significantly broadens their recruiter
       exposure.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

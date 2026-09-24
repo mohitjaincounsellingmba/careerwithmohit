@@ -36,7 +36,14 @@ keywords:
   - SIBM SNAP cutoff
   - NMIMS NMAT cutoff
   - Direct Admission in Delhi
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: 'Which exam is easiest among XAT, SNAP, and NMAT?'
     answer: >-

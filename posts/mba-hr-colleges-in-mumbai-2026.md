@@ -13,6 +13,13 @@ keywords:
   - nmims mumbai mba hr fees
   - jbims mumbai placements 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is TISS Mumbai considered the best college in India for HR?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       SIMSREE has a very low state government fee of approximately INR 68,000
       per year, making it one of the top ROI management colleges in India.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

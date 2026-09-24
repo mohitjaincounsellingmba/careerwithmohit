@@ -13,6 +13,13 @@ keywords:
   - Jaipur executive mba
   - best executive mba in Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: MBA
 faqs:
   - question: Is the Jaipuria Jaipur Executive PGDM approved by AICTE?
@@ -25,7 +32,7 @@ faqs:
     answer: >-
       Specializations include Finance, Marketing, HR, Information Technology,
       and Operations.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

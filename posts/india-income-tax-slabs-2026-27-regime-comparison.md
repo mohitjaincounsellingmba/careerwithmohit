@@ -15,6 +15,13 @@ keywords:
   - how to calculate income tax 2026
   - standard deduction 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is standard deduction available in the New Tax Regime?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       The deadline for individual taxpayers whose accounts don't need to be
       audited is **July 31, 2026**.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

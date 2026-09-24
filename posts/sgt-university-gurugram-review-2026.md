@@ -17,8 +17,12 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Gurgaon
 faqs:
   - question: 'Is SGT University, Gurugram a good choice for higher education in 2026?'
     answer: >-

@@ -29,7 +29,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-location: Delhi NCR
+location: Noida
 faqs:
   - question: Which is the best MBA college in Delhi NCR accepting CAT score?
     answer: >-

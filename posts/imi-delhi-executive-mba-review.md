@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Yes, IMI Delhi accepts XAT, GMAT, and the school's own Executive Admission
       Test (JMAT).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -16,6 +16,13 @@ keywords:
   - MBA in Kengeri campus
   - Christ University vs Other MBA
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Kengeri Campus good for MBA?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       Bangalore campuses.
   - question: What is the dress code for MBA at Christ Kengeri?
     answer: "Exactly the same as other campuses; formal attire and professional grooming are strictly monitored.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About the Location?**\nWhile Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

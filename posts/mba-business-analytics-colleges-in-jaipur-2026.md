@@ -13,6 +13,13 @@ keywords:
   - jaipuria jaipur pgdm fees
   - manipal university jaipur mba business analytics
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Taxila Business School good for Business Analytics?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       The average placement package for private management B-schools in Jaipur
       ranges from INR 6.5 LPA to 7.5 LPA, with some specialized programs
       securing higher packages.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

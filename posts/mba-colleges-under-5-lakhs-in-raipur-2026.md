@@ -12,6 +12,13 @@ keywords:
   - low fees MBA colleges in Raipur
   - best MBA in Raipur under 5 Lakhs
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best MBA college under 5 Lakhs in Raipur?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

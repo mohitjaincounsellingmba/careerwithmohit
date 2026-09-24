@@ -48,7 +48,7 @@ faqs:
     answer: >-
       Yes, EIT Faridabad offers both BBA and BCA undergraduate courses. The
       first-year fee is ₹1,49,700 for BBA and ₹1,47,600 for BCA.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

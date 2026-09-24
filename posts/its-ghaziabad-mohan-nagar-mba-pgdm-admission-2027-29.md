@@ -1,9 +1,15 @@
 ---
-title: 'Institute of Technology & Science (ITS Ghaziabad) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Institute of Technology & Science (ITS Ghaziabad) MBA / PGDM Admission
+  2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Institute of Technology & Science (ITS Ghaziabad) (ITS Ghaziabad). Verified fee structure (₹6.95 Lakhs for PGDM / ₹3.15 Lakhs for MBA), MBA / PGDM approvals, audited placements (Avg ₹6.00 LPA, Highest ₹11.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Institute of Technology & Science (ITS
+  Ghaziabad) (ITS Ghaziabad). Verified fee structure (₹6.95 Lakhs for PGDM /
+  ₹3.15 Lakhs for MBA), MBA / PGDM approvals, audited placements (Avg ₹6.00 LPA,
+  Highest ₹11.00 LPA), PPO stats, certifications, awards, alumni network,
+  faculty profiles, and Why Join review.
 keywords:
   - Institute of Technology & Science (ITS Ghaziabad) admission 2027-29
   - ITS Ghaziabad fees 2027
@@ -17,25 +23,54 @@ keywords:
   - best MBA PGDM colleges in Ghaziabad
   - direct admission in ITS Ghaziabad
   - MBA Career Counselling Mohit Jain
+  - Ghaziabad Colleges
+  - Best Colleges in Ghaziabad
+  - Ghaziabad Admissions 2026
+  - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at ITS Ghaziabad?
     answer: >-
-      The total course fee for the 2-year MBA / PGDM program at Institute of Technology & Science (ITS Ghaziabad) for the 2027–29 batch is ₹6.95 Lakhs for PGDM / ₹3.15 Lakhs for MBA (₹3.47 Lakhs / Year (PGDM)). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA / PGDM program at Institute of
+      Technology & Science (ITS Ghaziabad) for the 2027–29 batch is ₹6.95 Lakhs
+      for PGDM / ₹3.15 Lakhs for MBA (₹3.47 Lakhs / Year (PGDM)). Various merit
+      and category scholarships are available for deserving candidates.
   - question: Which statutory approvals and accreditations does ITS Ghaziabad hold?
     answer: >-
-      Institute of Technology & Science (ITS Ghaziabad) holds AICTE Approved · NBA Accredited · NAAC Grade A · Affiliated to AKTU, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at ITS Ghaziabad?
+      Institute of Technology & Science (ITS Ghaziabad) holds AICTE Approved ·
+      NBA Accredited · NAAC Grade A · Affiliated to AKTU, ensuring valid degree
+      equivalence, eligibility for government jobs, and global corporate
+      recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at ITS
+      Ghaziabad?
     answer: >-
-      For recent placement drives, ITS Ghaziabad recorded an average salary package of ₹6.00 LPA (Top 25% averaging ₹8.00 LPA) and a peak highest CTC of ₹11.00 LPA, with leading recruiters including TCS, Infosys, Wipro, Nestle.
-  - question: Does ITS Ghaziabad offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, ITS Ghaziabad recorded an average salary
+      package of ₹6.00 LPA (Top 25% averaging ₹8.00 LPA) and a peak highest CTC
+      of ₹11.00 LPA, with leading recruiters including TCS, Infosys, Wipro,
+      Nestle.
+  - question: >-
+      Does ITS Ghaziabad offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 18% PPO conversion through outbound industry visits and corporate training.
+      Yes, 18% PPO conversion through outbound industry visits and corporate
+      training.
   - question: What value-added certifications are provided to students at ITS Ghaziabad?
     answer: >-
-      Students receive embedded industry certifications including Advanced Excel & Data Analytics, Digital Marketing Strategy, Personality Grooming & Outbound Training, Retail Operations Management.
-  - question: How can students apply for admission or get counseling for ITS Ghaziabad for 2027–29?
+      Students receive embedded industry certifications including Advanced Excel
+      & Data Analytics, Digital Marketing Strategy, Personality Grooming &
+      Outbound Training, Retail Operations Management.
+  - question: >-
+      How can students apply for admission or get counseling for ITS Ghaziabad
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Ghaziabad
 state: Pan India
 ---

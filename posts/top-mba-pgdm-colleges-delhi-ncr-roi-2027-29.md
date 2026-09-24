@@ -54,7 +54,7 @@ faqs:
       Yes, most top private autonomous PGDM institutes like NDIM, FIIB,
       FOSTIIMA, JIMS, and BIMTECH (for specific programs) accept MAT scores
       alongside CMAT, CAT, and XAT.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

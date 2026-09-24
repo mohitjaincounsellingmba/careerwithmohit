@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the MAT composite score out of 800 calculated?
     answer: >-
@@ -38,7 +43,7 @@ faqs:
       **A.** Yes, the MAT scorecard remains valid for 12 months from the date of
       declaration, allowing you to apply for multiple admission intakes within
       that timeframe.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

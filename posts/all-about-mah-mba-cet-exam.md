@@ -13,6 +13,13 @@ keywords:
   - MBA CET registration dates
   - MAH CET mock test free
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will MAH MBA CET 2026 registration start?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       here.](/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
   - question: Can I get a scholarship for MBA via MAH CET?
     answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

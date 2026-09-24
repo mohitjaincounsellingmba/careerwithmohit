@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at BML Munjal
       University (BMU) is approximately ₹15.10 Lakhs (Total).
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

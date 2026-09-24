@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Jaipuria School
       of Business (JSB) is approximately ₹8.50 Lakhs (Total).
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

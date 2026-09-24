@@ -15,6 +15,13 @@ keywords:
   - iit kanpur mba fees vs roi
   - mba admission 2027–2029
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the key salary statistics for MBA at IIT Kanpur in 2025?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       The 2-year total tuition fee is exceptionally affordable at approximately
       INR 5.5 to 6.5 Lakhs, making IIT Kanpur one of the highest ROI business
       programs in the nation.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -68,7 +68,7 @@ faqs:
       including SBI, HDFC Credila, Axis Bank, ICICI Bank, and Avanse Financial
       Services, offering collateral-free education loans covering up to 100% of
       academic and living expenses with flexible repayment moratoriums.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

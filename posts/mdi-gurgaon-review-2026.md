@@ -29,7 +29,7 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi NCR
+location: Gurgaon
 faqs:
   - question: >-
       Is Management Development Institute (MDI), Gurugram a good choice for

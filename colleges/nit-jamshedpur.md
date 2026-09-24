@@ -1,22 +1,73 @@
 ---
-name: "NIT Jamshedpur (National Institute of Technology Jamshedpur)"
-logo: ""
-location: "Jamshedpur, Jharkhand"
-state: "Jharkhand"
-category: "Engineering"
-type: "Institute of National Importance (NIT)"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Electronics & Communication", "B.Tech Mechanical Engineering", "B.Tech Metallurgical & Materials", "B.Tech Production & Industrial", "M.Tech Computer Science"]
+name: NIT Jamshedpur (National Institute of Technology Jamshedpur)
+logo: ''
+location: 'Jamshedpur, Jharkhand'
+state: Jharkhand
+category: Engineering
+type: Institute of National Importance (NIT)
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Mechanical Engineering
+  - B.Tech Metallurgical & Materials
+  - B.Tech Production & Industrial
+  - M.Tech Computer Science
 established: 1960
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #81 (Engineering 2024)"
-fees: "₹5.50 - ₹6.50 Lakhs (Total 4 Years)"
-avg_placement: "₹15.20 LPA"
-highest_placement: "₹83.00 LPA"
-lowest_placement: "₹8.50 LPA"
-exams: ["JEE Main", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://www.nitjsr.ac.in"
-top_recruiters: ["Amazon", "Atlassian", "Microsoft", "Tata Steel", "Tata Motors", "Qualcomm", "L&T"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #81 (Engineering 2024)'
+fees: ₹5.50 - ₹6.50 Lakhs (Total 4 Years)
+avg_placement: ₹15.20 LPA
+highest_placement: ₹83.00 LPA
+lowest_placement: ₹8.50 LPA
+exams:
+  - JEE Main
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://www.nitjsr.ac.in'
+top_recruiters:
+  - Amazon
+  - Atlassian
+  - Microsoft
+  - Tata Steel
+  - Tata Motors
+  - Qualcomm
+  - L&T
+seo_title: NIT Jamshedpur (National Institute of Technology Jamshedpur)
+seo_description: >-
+  Check NIT Jamshedpur (National Institute of Technology Jamshedpur) Jamshedpur,
+  Jharkhand: B.Tech fee structure ₹5.50 - ₹6.50 Lakhs (Total 4 Years), average
+  plac
+keywords:
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) review
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) fees structure
+    2027
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) average package
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) placement
+    report 2027
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) highest package
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) cutoff 2027
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) admission
+    process
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) ranking
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) Jamshedpur,
+    Jharkhand
+  - is NIT Jamshedpur (National Institute of Technology Jamshedpur) good
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) mohit jain
+    review
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) hostel fees
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) contact number
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) B.Tech fees
+  - NIT Jamshedpur (National Institute of Technology Jamshedpur) CSE placement
+  - >-
+    NIT Jamshedpur (National Institute of Technology Jamshedpur) B.Tech
+    admission 2027
+  - 'engineering colleges Jamshedpur, Jharkhand'
 ---
 
 ### About NIT Jamshedpur (National Institute of Technology Jamshedpur)

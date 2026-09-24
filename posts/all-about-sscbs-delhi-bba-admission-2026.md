@@ -33,7 +33,7 @@ faqs:
     answer: >-
       BMS is a general management course covering all aspects of business, while
       BBA(FIA) is highly specialized towards finance and investment banking.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

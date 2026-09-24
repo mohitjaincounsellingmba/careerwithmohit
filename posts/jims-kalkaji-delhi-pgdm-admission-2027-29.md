@@ -1,9 +1,15 @@
 ---
-title: 'Jagannath International Management School (JIMS Kalkaji) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Jagannath International Management School (JIMS Kalkaji) MBA / PGDM Admission
+  2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Jagannath International Management School (JIMS Kalkaji) (JIMS Kalkaji). Verified fee structure (₹10.75 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹10.50 LPA, Highest ₹35.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Jagannath International Management School
+  (JIMS Kalkaji) (JIMS Kalkaji). Verified fee structure (₹10.75 Lakhs (Total)),
+  PGDM approvals, audited placements (Avg ₹10.50 LPA, Highest ₹35.00 LPA), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - Jagannath International Management School (JIMS Kalkaji) admission 2027-29
   - JIMS Kalkaji fees 2027
@@ -17,26 +23,55 @@ keywords:
   - best MBA PGDM colleges in New Delhi
   - direct admission in JIMS Kalkaji
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at JIMS Kalkaji?
     answer: >-
-      The total course fee for the 2-year PGDM program at Jagannath International Management School (JIMS Kalkaji) for the 2027–29 batch is ₹10.75 Lakhs (Total) (₹5.37 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at Jagannath
+      International Management School (JIMS Kalkaji) for the 2027–29 batch is
+      ₹10.75 Lakhs (Total) (₹5.37 Lakhs per Year). Various merit and category
+      scholarships are available for deserving candidates.
   - question: Which statutory approvals and accreditations does JIMS Kalkaji hold?
     answer: >-
-      Jagannath International Management School (JIMS Kalkaji) holds AICTE Approved · NBA Accredited · AIU Equivalent · NAAC Accredited, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at JIMS Kalkaji?
+      Jagannath International Management School (JIMS Kalkaji) holds AICTE
+      Approved · NBA Accredited · AIU Equivalent · NAAC Accredited, ensuring
+      valid degree equivalence, eligibility for government jobs, and global
+      corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at JIMS
+      Kalkaji?
     answer: >-
-      For recent placement drives, JIMS Kalkaji recorded an average salary package of ₹10.50 LPA (Top 25% averaging ₹13.50 LPA) and a peak highest CTC of ₹35.00 LPA, with leading recruiters including Amazon, Deloitte, PwC, Tata Capital.
-  - question: Does JIMS Kalkaji offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, JIMS Kalkaji recorded an average salary
+      package of ₹10.50 LPA (Top 25% averaging ₹13.50 LPA) and a peak highest
+      CTC of ₹35.00 LPA, with leading recruiters including Amazon, Deloitte,
+      PwC, Tata Capital.
+  - question: >-
+      Does JIMS Kalkaji offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 27% PPO conversion through active live projects and 8-week corporate internships.
+      Yes, 27% PPO conversion through active live projects and 8-week corporate
+      internships.
   - question: What value-added certifications are provided to students at JIMS Kalkaji?
     answer: >-
-      Students receive embedded industry certifications including KPMG Lean Six Sigma Green Belt, Data Analytics using Python, Digital Marketing & Social Strategy, Export-Import Documentation & Customs.
-  - question: How can students apply for admission or get counseling for JIMS Kalkaji for 2027–29?
+      Students receive embedded industry certifications including KPMG Lean Six
+      Sigma Green Belt, Data Analytics using Python, Digital Marketing & Social
+      Strategy, Export-Import Documentation & Customs.
+  - question: >-
+      How can students apply for admission or get counseling for JIMS Kalkaji
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: New Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

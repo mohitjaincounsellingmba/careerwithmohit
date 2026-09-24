@@ -16,6 +16,13 @@ keywords:
   - mamc delhi mbbs admission
   - afmc pune mbbs fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is AFMC Pune better than AIIMS?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       Usually held on the **first Sunday of May**. Registrations typically open
       in January.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

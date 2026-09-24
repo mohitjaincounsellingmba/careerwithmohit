@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Amity provides access to its centralized placement portal, though most
       weekend candidates leverage the degree for external lateral shifts.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

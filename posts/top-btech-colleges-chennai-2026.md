@@ -16,6 +16,13 @@ keywords:
   - SRM btech chennai
   - private engineering colleges chennai fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Chennai?
     answer: >-
@@ -42,7 +49,7 @@ faqs:
     answer: >-
       Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed
       universities like SRM and VIT charge ₹2–₹2.5 Lakhs per year.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

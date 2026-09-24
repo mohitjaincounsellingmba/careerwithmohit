@@ -14,6 +14,13 @@ keywords:
   - best university brand for MBA Pune
   - GBSRC Pune average package 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Global Business School & Research Centre (GBSRC) is the flagship management arm of the Dr. D. Y. Patil Vidyapeeth (Deemed to be University). It combines the massive brand equity of DY Patil with a research-driven management curriculum.

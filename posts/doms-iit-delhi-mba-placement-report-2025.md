@@ -41,7 +41,7 @@ faqs:
       The final shortlist cutoff for General category candidates generally
       ranges between 97.5+ and 98.5+ percentile in CAT, alongside strong
       academic credentials.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

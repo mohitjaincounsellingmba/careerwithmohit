@@ -39,7 +39,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Bennett
       University is approximately ₹11.95 Lakhs (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

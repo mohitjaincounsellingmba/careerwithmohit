@@ -33,7 +33,7 @@ faqs:
     answer: >-
       JIMS provides assistance and tie-ups for hostel and PG accommodations for
       outstation students near its campuses.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

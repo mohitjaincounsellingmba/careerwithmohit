@@ -1,9 +1,15 @@
 ---
-title: 'Management Development Institute (MDI) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Management Development Institute (MDI) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  In-depth Management Development Institute (MDI) (Sukhrali Campus, Sector 17) review for 2027 admissions. Explore verified fee structure (₹25.00 – ₹26.50 Lakhs (PGDM Core); ₹30.00 Lakhs (PGDM-IB dual degree)), latest placements (avg ₹25.50 – ₹26.70 LPA, highest ₹60.00 – ₹63.50 LPA), cutoffs (CAT: 95.0 – 97.0 Percentile (GMAT for NRI/Foreign applicants only)), and student verdict.
+  In-depth Management Development Institute (MDI) (Sukhrali Campus, Sector 17)
+  review for 2027 admissions. Explore verified fee structure (₹25.00 – ₹26.50
+  Lakhs (PGDM Core); ₹30.00 Lakhs (PGDM-IB dual degree)), latest placements (avg
+  ₹25.50 – ₹26.70 LPA, highest ₹60.00 – ₹63.50 LPA), cutoffs (CAT: 95.0 – 97.0
+  Percentile (GMAT for NRI/Foreign applicants only)), and student verdict.
 keywords:
   - management development institute (mdi) review 2027
   - management development institute (mdi) fees
@@ -13,24 +19,42 @@ keywords:
   - management development institute (mdi) cutoff cat xat gmat
   - management development institute (mdi) admission process 2027
   - management development institute (mdi) ranking
-  - Gurugram, Delhi NCR / Haryana MBA colleges
+  - 'Gurugram, Delhi NCR / Haryana MBA colleges'
   - best MBA colleges in Delhi NCR
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the CAT cutoff for MDI Gurgaon PGDM?
     answer: >-
-      The CAT cutoff for general PGDM at MDI Gurgaon typically hovers between 95.0 and 97.0 percentile, along with sectional cutoffs around 85 percentile in VARC, DILR, and QA.
+      The CAT cutoff for general PGDM at MDI Gurgaon typically hovers between
+      95.0 and 97.0 percentile, along with sectional cutoffs around 85
+      percentile in VARC, DILR, and QA.
   - question: What is the difference between MDI PGDM Core and PGDM-IB?
     answer: >-
-      PGDM Core is a 2-year program entirely hosted at the Gurgaon campus, while PGDM-IB (International Business) involves dual-degree collaboration where students spend one academic term at ESCP Europe (Paris/Berlin/Madrid/London) and earn both an MDI PGDM and an ESCP Master in Management.
+      PGDM Core is a 2-year program entirely hosted at the Gurgaon campus, while
+      PGDM-IB (International Business) involves dual-degree collaboration where
+      students spend one academic term at ESCP Europe
+      (Paris/Berlin/Madrid/London) and earn both an MDI PGDM and an ESCP Master
+      in Management.
   - question: What was the average package at MDI Gurgaon in 2025–2026?
     answer: >-
-      The combined average package at MDI Gurgaon stands at ₹25.50 to ₹26.70 LPA, with the median salary at ₹24.20 LPA and the top domestic package reaching ₹63.50 LPA.
+      The combined average package at MDI Gurgaon stands at ₹25.50 to ₹26.70
+      LPA, with the median salary at ₹24.20 LPA and the top domestic package
+      reaching ₹63.50 LPA.
   - question: Is MDI Gurgaon considered equivalent to older IIMs?
     answer: >-
-      Yes, MDI Gurgaon consistently ranks alongside IIM Indore, IIM Kozhikode, and SPJIMR in placement quality, recruiter trust, and corporate alumni footprint.
-location: Gurugram
+      Yes, MDI Gurgaon consistently ranks alongside IIM Indore, IIM Kozhikode,
+      and SPJIMR in placement quality, recruiter trust, and corporate alumni
+      footprint.
+location: Gurgaon
 state: Delhi NCR
 ---
 

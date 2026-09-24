@@ -15,6 +15,13 @@ keywords:
   - cfi fmva review 2026
   - skills for equity research analyst
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: can I learn Financial Modeling for free?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       As an Associate or Junior Analyst, you can expect **₹6L to ₹12L** in
       Tier-2 firms, climbing to **₹15L+** in top Tier-1 MNCs.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -14,6 +14,13 @@ keywords:
   - IIMS Pune honest feedback
   - Sai Balaji vs Sri Balaji Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 While the **Sai Balaji Education Society (SBES)** in Pune—which runs institutes like SBIIMS (Sai Balaji International Institute of Management Sciences) and IIMS—is often marketed as a premier destination for MBA and PGDM aspirants, the ground reality for many students can differ from the promotional brochures. 

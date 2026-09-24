@@ -17,6 +17,13 @@ keywords:
   - SKIT Jaipur expected cutoff
   - top engineering colleges in Rajasthan under REAP
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will the REAP 2026 final seat allotment be declared?
     answer: >-
@@ -40,7 +47,7 @@ faqs:
       Yes, while JEE Main ranks are given Priority 1, candidates who did not
       appear for JEE can apply based on their Class 12th PCM marks under
       Priority 2.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

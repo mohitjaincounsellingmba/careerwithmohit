@@ -40,7 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and [FORE School of Management](/colleges/fore-school-delhi). 

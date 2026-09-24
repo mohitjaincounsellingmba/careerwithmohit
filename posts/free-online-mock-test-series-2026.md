@@ -24,6 +24,13 @@ keywords:
   - free mock test score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -38,7 +45,7 @@ faqs:
     answer: >-
       Yes, all our online mock tests are fully responsive and optimized for
       mobile, tablet, and desktop practice.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Success in competitive exams in 2026 is no longer about how many books you read; it’s about how many **simulations** you survive. Whether you are aiming for an IIM, an IIT, or a prestigious Government department, the "Mock Test" is your most powerful weapon.
@@ -52,6 +59,8 @@ At CareerWithMohit, we have built the **[Ultimate Mock Test Hub 2026](/mock-test
 > 🚀 **Simulate the Real Exam Interface Now!**
 >
 > [👉 Access the Free 2026 Mock Test Hub](/mock-tests)
+
+---
 
 ---
 

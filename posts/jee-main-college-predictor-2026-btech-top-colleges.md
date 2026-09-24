@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Are you wondering which engineering college you can get with your JEE Main percentile? With over **12 Lakh students** appearing for the exam, the competition for top-tier institutes like **NITs, IIITs, and DTU** is at an all-time high.

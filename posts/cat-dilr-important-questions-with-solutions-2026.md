@@ -19,6 +19,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How many sets should I attempt in CAT 2026 DILR to score 99 percentile?
     answer: >-
@@ -44,7 +49,7 @@ faqs:
       **explicit numerical constraints, familiar structures (like round-robin
       tournaments or scheduling)**, and fewer conditional variables. Avoid sets
       with highly ambiguous 'if-then' conditions in your first attempt.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

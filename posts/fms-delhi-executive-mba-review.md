@@ -46,7 +46,7 @@ faqs:
       There is no written entrance test like CAT. Admission is based on past
       academic performance, length of work experience, write-up assessment, and
       performance in the personal interview.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

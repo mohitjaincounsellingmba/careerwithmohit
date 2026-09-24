@@ -19,7 +19,14 @@ keywords:
   - IIM academic diversity points
   - IIM work experience weightage
   - Direct Admission in Delhi
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: What is the difference between IIM Qualifying Cutoff and Calling Cutoff?
     answer: >-

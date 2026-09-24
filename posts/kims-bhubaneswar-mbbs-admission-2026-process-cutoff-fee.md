@@ -15,6 +15,13 @@ keywords:
   - 'Kalinga Institute of Medical Sciences (KIMS), Bhubaneswar MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee structure for KIMS Bhubaneswar MBBS 2026?
     answer: The annual tuition fee is ₹18.5 Lakhs per year.
@@ -24,7 +31,7 @@ faqs:
     answer: >-
       Yes, KIMS is fully recognized by NMC and Ministry of Health, Govt of
       India.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

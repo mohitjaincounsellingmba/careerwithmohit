@@ -19,6 +19,13 @@ keywords:
   - government jobs civil engineering india
   - btech civil salary 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Civil Engineering a good career choice in 2026?
     answer: >-
@@ -43,7 +50,7 @@ faqs:
       Fresh B.Tech Civil Engineering graduates earn ₹4–7 LPA in private sector.
       PSU recruitment via GATE offers ₹9–14 LPA. IIT Civil graduates at top
       consulting firms earn ₹12–18 LPA.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

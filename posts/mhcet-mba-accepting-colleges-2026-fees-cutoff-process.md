@@ -14,6 +14,13 @@ keywords:
   - top MBA colleges in Maharashtra under CET
   - MHCET MBA admission process 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The MAH-MBA/MMS CET is a crucial state-level entrance exam for students aiming to secure admission into over 300+ management institutes across Maharashtra. From government-aided to university-affiliated and private colleges, MHCET opens the doors to elite B-schools like JBIMS, SIMSREE, PUMBA, and WeSchool.

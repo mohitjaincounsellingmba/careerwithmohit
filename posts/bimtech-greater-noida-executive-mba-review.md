@@ -49,7 +49,7 @@ faqs:
     answer: >-
       There is no upper age limit, but applicants must have a minimum of 5 years
       of managerial experience.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -40,7 +40,7 @@ faqs:
       criteria rather than an all-India pool cutoff.
   - question: When should I apply for these colleges?
     answer: "Most private universities start their intake in **January - March** for the upcoming July batch. It is best to apply before the CUET results are out to secure your preferred specialization.\n\n[\U0001F449 Still confused about which NCR college to choose? Get a Free Career Roadmap!](/inquiry)\n\n**Related Posts:**\n*   [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)\n*   [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)\n*   [MBA PGDM Colleges Under 10 Lakhs in Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)"
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

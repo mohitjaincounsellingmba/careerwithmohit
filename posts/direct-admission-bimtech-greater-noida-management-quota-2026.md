@@ -38,7 +38,7 @@ faqs:
     answer: >-
       BIMTECH is one of the top institutes in India for **PGDM-Insurance
       Business**, offering massive opportunities in the BFS sector.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -48,7 +48,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Guru Gobind Singh Indraprastha University (GGSIPU) is a premier destination for MBA aspirants in Delhi NCR. With multiple affiliated institutes across Delhi, Noida, and Greater Noida, GGSIPU offers diverse options for students aiming for high ROI and quality management education.

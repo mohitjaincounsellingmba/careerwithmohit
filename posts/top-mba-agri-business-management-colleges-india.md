@@ -23,6 +23,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is there a future in Agri-Business Management?
     answer: >-
@@ -37,7 +42,7 @@ faqs:
     answer: >-
       Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies
       (UPL, Bayer), and Rural Banks (NABARD, HDFC).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -36,7 +36,7 @@ faqs:
       with its PGDM program being highly respected in the NCR region.
   - question: What exams are accepted by IMS Noida?
     answer: IMS Noida accepts scores from national exams like MAT and CMAT.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

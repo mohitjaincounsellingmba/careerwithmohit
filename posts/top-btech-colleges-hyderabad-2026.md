@@ -16,6 +16,13 @@ keywords:
   - IIIT Hyderabad admission
   - top engineering colleges telangana
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Hyderabad?
     answer: >-
@@ -40,7 +47,7 @@ faqs:
       BITS Hyderabad has slightly higher placement packages for CSE/ECE. NIT
       Warangal has a stronger brand for core engineering branches and government
       sector options. Both are excellent choices.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

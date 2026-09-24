@@ -1,9 +1,15 @@
 ---
-title: 'New Delhi Institute of Management (NDIM) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  New Delhi Institute of Management (NDIM) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for New Delhi Institute of Management (NDIM) (NDIM Delhi). Verified fee structure (₹14.00 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹10.00 LPA, Highest ₹24.00 LPA (International / Domestic High)), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for New Delhi Institute of Management (NDIM)
+  (NDIM Delhi). Verified fee structure (₹14.00 Lakhs (Total)), PGDM approvals,
+  audited placements (Avg ₹10.00 LPA, Highest ₹24.00 LPA (International /
+  Domestic High)), PPO stats, certifications, awards, alumni network, faculty
+  profiles, and Why Join review.
 keywords:
   - New Delhi Institute of Management (NDIM) admission 2027-29
   - NDIM Delhi fees 2027
@@ -17,26 +23,54 @@ keywords:
   - best MBA PGDM colleges in New Delhi
   - direct admission in NDIM Delhi
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at NDIM Delhi?
     answer: >-
-      The total course fee for the 2-year PGDM program at New Delhi Institute of Management (NDIM) for the 2027–29 batch is ₹14.00 Lakhs (Total) (₹7.00 Lakhs per Year (or ₹3.50L/semester + ₹6k convenience charge)). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at New Delhi Institute of
+      Management (NDIM) for the 2027–29 batch is ₹14.00 Lakhs (Total) (₹7.00
+      Lakhs per Year (or ₹3.50L/semester + ₹6k convenience charge)). Various
+      merit and category scholarships are available for deserving candidates.
   - question: Which statutory approvals and accreditations does NDIM Delhi hold?
     answer: >-
-      New Delhi Institute of Management (NDIM) holds AICTE Approved · NBA Accredited · AIU MBA Equivalent · ASIC (UK) Premier Institution, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      New Delhi Institute of Management (NDIM) holds AICTE Approved · NBA
+      Accredited · AIU MBA Equivalent · ASIC (UK) Premier Institution, ensuring
+      valid degree equivalence, eligibility for government jobs, and global
+      corporate recognition.
   - question: What are the placement statistics (Average and Highest CTC) at NDIM Delhi?
     answer: >-
-      For recent placement drives, NDIM Delhi recorded an average salary package of ₹10.00 LPA (Top 25% averaging ₹12.80 LPA) and a peak highest CTC of ₹24.00 LPA (International / Domestic High), with leading recruiters including Deloitte, KPMG, EY, PwC.
-  - question: Does NDIM Delhi offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, NDIM Delhi recorded an average salary package
+      of ₹10.00 LPA (Top 25% averaging ₹12.80 LPA) and a peak highest CTC of
+      ₹24.00 LPA (International / Domestic High), with leading recruiters
+      including Deloitte, KPMG, EY, PwC.
+  - question: >-
+      Does NDIM Delhi offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 28% of the batch converts Pre-Placement Offers (PPOs) via mandatory 8-week corporate internships.
+      Yes, 28% of the batch converts Pre-Placement Offers (PPOs) via mandatory
+      8-week corporate internships.
   - question: What value-added certifications are provided to students at NDIM Delhi?
     answer: >-
-      Students receive embedded industry certifications including Advanced Financial Modeling & Equity Research, Power BI & Tableau Business Analytics, Google Certified Digital Marketing & Growth Strategy, Lean Six Sigma Green Belt, Python for Business Decision Making.
-  - question: How can students apply for admission or get counseling for NDIM Delhi for 2027–29?
+      Students receive embedded industry certifications including Advanced
+      Financial Modeling & Equity Research, Power BI & Tableau Business
+      Analytics, Google Certified Digital Marketing & Growth Strategy, Lean Six
+      Sigma Green Belt, Python for Business Decision Making.
+  - question: >-
+      How can students apply for admission or get counseling for NDIM Delhi for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: New Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

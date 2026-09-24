@@ -39,7 +39,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.

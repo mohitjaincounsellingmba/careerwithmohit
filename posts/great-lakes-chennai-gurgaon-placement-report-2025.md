@@ -62,7 +62,7 @@ faqs:
     answer: >-
       Great Lakes accepts CAT, XAT, GMAT, and CMAT scores for its admission
       rounds.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

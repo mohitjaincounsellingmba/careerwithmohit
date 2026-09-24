@@ -1,22 +1,73 @@
 ---
-name: "VNIT Nagpur (Visvesvaraya National Institute of Technology)"
-logo: ""
-location: "Nagpur, Maharashtra"
-state: "Maharashtra"
-category: "Engineering"
-type: "Institute of National Importance (NIT)"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Electronics & Communication", "B.Tech Mechanical Engineering", "B.Tech Electrical & Electronics", "B.Tech Metallurgical & Materials Engineering", "M.Tech Computer Science"]
+name: VNIT Nagpur (Visvesvaraya National Institute of Technology)
+logo: ''
+location: 'Nagpur, Maharashtra'
+state: Maharashtra
+category: Engineering
+type: Institute of National Importance (NIT)
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Mechanical Engineering
+  - B.Tech Electrical & Electronics
+  - B.Tech Metallurgical & Materials Engineering
+  - M.Tech Computer Science
 established: 1960
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #39 (Engineering 2024)"
-fees: "₹5.50 - ₹6.20 Lakhs (Total 4 Years)"
-avg_placement: "₹14.50 LPA"
-highest_placement: "₹64.00 LPA"
-lowest_placement: "₹8.50 LPA"
-exams: ["JEE Main", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://vnit.ac.in"
-top_recruiters: ["Amazon", "Google", "Siemens", "Tata Motors", "Larsen & Toubro", "Morgan Stanley", "Texas Instruments"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #39 (Engineering 2024)'
+fees: ₹5.50 - ₹6.20 Lakhs (Total 4 Years)
+avg_placement: ₹14.50 LPA
+highest_placement: ₹64.00 LPA
+lowest_placement: ₹8.50 LPA
+exams:
+  - JEE Main
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://vnit.ac.in'
+top_recruiters:
+  - Amazon
+  - Google
+  - Siemens
+  - Tata Motors
+  - Larsen & Toubro
+  - Morgan Stanley
+  - Texas Instruments
+seo_title: 'VNIT Nagpur (Visvesvaraya National Institute of Technology) '
+seo_description: >-
+  Check VNIT Nagpur (Visvesvaraya National Institute of Technology) Nagpur,
+  Maharashtra: B.Tech fee structure ₹5.50 - ₹6.20 Lakhs (Total 4 Years), average
+  placeme
+keywords:
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) review
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) fees structure
+    2027
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) average package
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) placement report
+    2027
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) highest package
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) cutoff 2027
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) admission
+    process
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) ranking
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) Nagpur,
+    Maharashtra
+  - is VNIT Nagpur (Visvesvaraya National Institute of Technology) good
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) mohit jain
+    review
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) hostel fees
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) contact number
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) B.Tech fees
+  - VNIT Nagpur (Visvesvaraya National Institute of Technology) CSE placement
+  - >-
+    VNIT Nagpur (Visvesvaraya National Institute of Technology) B.Tech admission
+    2027
+  - 'engineering colleges Nagpur, Maharashtra'
 ---
 
 ### About VNIT Nagpur (Visvesvaraya National Institute of Technology)

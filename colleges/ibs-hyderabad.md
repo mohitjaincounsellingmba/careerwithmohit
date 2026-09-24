@@ -1,21 +1,60 @@
 ---
-name: "ICFAI Business School (IBS Hyderabad)"
-logo: "/logo.webp"
-location: "Hyderabad, Telangana"
-category: "Management"
-type: "University"
-courses: ["MBA (Flagship)", "Executive MBA", "Ph.D."]
+name: ICFAI Business School (IBS Hyderabad)
+logo: /logo.webp
+location: 'Hyderabad, Telangana'
+category: Management
+type: University
+courses:
+  - MBA (Flagship)
+  - Executive MBA
+  - Ph.D.
 established: 1995
-ownership: "Private Deemed University (AACSB Accredited)"
-ranking: "NIRF Rank #39 (Management 2024) · AACSB Accredited"
-fees: "₹16.02 Lakhs (Total)"
-avg_placement: "₹10.42 LPA"
-highest_placement: "₹58.19 LPA"
-lowest_placement: "₹7.00 LPA"
-exams: ["IBSAT", "CAT", "NMAT", "GMAT", "XAT"]
-brochure_url: "#"
-website: "https://www.ibshyderabad.org"
-top_recruiters: ["Deloitte", "EY", "PwC", "KPMG", "Google", "Oracle", "HDFC Bank", "ICICI Bank"]
+ownership: Private Deemed University (AACSB Accredited)
+ranking: 'NIRF Rank #39 (Management 2024) · AACSB Accredited'
+fees: ₹16.02 Lakhs (Total)
+avg_placement: ₹10.42 LPA
+highest_placement: ₹58.19 LPA
+lowest_placement: ₹7.00 LPA
+exams:
+  - IBSAT
+  - CAT
+  - NMAT
+  - GMAT
+  - XAT
+brochure_url: '#'
+website: 'https://www.ibshyderabad.org'
+top_recruiters:
+  - Deloitte
+  - EY
+  - PwC
+  - KPMG
+  - Google
+  - Oracle
+  - HDFC Bank
+  - ICICI Bank
+seo_title: 'ICFAI Business School (IBS Hyderabad) MBA Fees, Cutoff & Pla'
+seo_description: >-
+  Explore ICFAI Business School (IBS Hyderabad) Hyderabad, Telangana: MBA/PGDM
+  fee structure ₹16.02 Lakhs (Total), average placement ₹10.42 LPA, highest CTC,
+  rank
+keywords:
+  - ICFAI Business School (IBS Hyderabad) review
+  - ICFAI Business School (IBS Hyderabad) fees structure 2027
+  - ICFAI Business School (IBS Hyderabad) average package
+  - ICFAI Business School (IBS Hyderabad) placement report 2027
+  - ICFAI Business School (IBS Hyderabad) highest package
+  - ICFAI Business School (IBS Hyderabad) cutoff 2027
+  - ICFAI Business School (IBS Hyderabad) admission process
+  - ICFAI Business School (IBS Hyderabad) ranking
+  - 'ICFAI Business School (IBS Hyderabad) Hyderabad, Telangana'
+  - is ICFAI Business School (IBS Hyderabad) good
+  - ICFAI Business School (IBS Hyderabad) mohit jain review
+  - ICFAI Business School (IBS Hyderabad) hostel fees
+  - ICFAI Business School (IBS Hyderabad) contact number
+  - ICFAI Business School (IBS Hyderabad) MBA fees
+  - ICFAI Business School (IBS Hyderabad) PGDM placement
+  - ICFAI Business School (IBS Hyderabad) MBA admission 2027
+  - 'MBA colleges Hyderabad, Telangana'
 ---
 
 ### About ICFAI Business School (IBS Hyderabad)

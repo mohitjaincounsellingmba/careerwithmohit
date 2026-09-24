@@ -16,6 +16,13 @@ keywords:
   - IPMAT exam pattern 2026
   - JIPMAT 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the IPMAT 2026 exam date?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
       For final selection at IIM Indore, the **IPMAT Aptitude Test (AT) score
       carries 65% weightage**, while the **Personal Interview (PI) carries 35%
       weightage**.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

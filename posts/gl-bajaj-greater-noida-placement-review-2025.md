@@ -41,7 +41,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a powerhouse for placements and corporate connections in the Noida-Greater Noida belt. With a reputation for high-ROI programs, it has become a favorite for MBA aspirants.

@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does University of Calcutta (CU) have an entrance exam?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
     answer: >-
       Registrations for merit-based seats usually open in **June** after the HS
       and CBSE results.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

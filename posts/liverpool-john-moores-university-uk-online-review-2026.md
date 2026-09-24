@@ -16,6 +16,13 @@ keywords:
   - WES recognized British degree LJMU
   - LJMU degree validity in India
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **Liverpool John Moores University (LJMU, UK) Online** is a powerhouse in the global higher education landscape, based in the legacy city of Liverpool, United Kingdom. As one of the UK’s most respected public research universities, LJMU's online international programs bring the same academic rigor and campus heritage directly to you. With a prestigious **AACSB accreditation** and full WES recognition, LJMU offers some of the most globalized online degrees in India for 2026.

@@ -40,7 +40,7 @@ faqs:
       CAT is the primary entrance exam accepted by FMS Delhi and MDI Gurgaon.
       Other top colleges like IMI Delhi, IMT Ghaziabad, and LBSIM accept CAT,
       XAT, and GMAT.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -12,6 +12,13 @@ keywords:
   - Pune university CUET universities
   - best colleges in Pune for BBA through CUET
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pune, known as the "Oxford of the East," is a premier educational hub with a high concentration of research and professional institutes. With more private and deemed universities joining the **Common University Entrance Test (CUET) UG** framework, admission possibilities in Pune have expanded.

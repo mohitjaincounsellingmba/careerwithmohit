@@ -18,6 +18,13 @@ keywords:
   - neet 2026 physics review
   - neet ug 2026 student reactions
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The National Eligibility cum Entrance Test (NEET-UG) 2026 was conducted today, May 3, 2026, across thousands of centers in India and abroad. With over **25 lakh aspirants** appearing for the exam, the competition for the approximately 1.1 lakh MBBS seats remains at an all-time high.

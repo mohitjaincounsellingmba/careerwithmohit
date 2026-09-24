@@ -1,9 +1,13 @@
 ---
-title: 'NDIM Delhi PGDM / MBA Admission 2027-29: Fees, Eligibility, Selection Process, Cutoffs & Placements'
+title: >-
+  NDIM Delhi PGDM / MBA Admission 2027-29: Fees, Eligibility, Selection Process,
+  Cutoffs & Placements
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Official NDIM Delhi PGDM/MBA 2027-29 (32nd Batch) admission guide. Updated fee structure (₹14.00 Lakhs), semester vs annual plans, ₹2.5 Cr scholarship pool, CAT/MAT/XAT/CMAT cutoffs, GD-PI rounds, and 100% placements.
+  Official NDIM Delhi PGDM/MBA 2027-29 (32nd Batch) admission guide. Updated fee
+  structure (₹14.00 Lakhs), semester vs annual plans, ₹2.5 Cr scholarship pool,
+  CAT/MAT/XAT/CMAT cutoffs, GD-PI rounds, and 100% placements.
 keywords:
   - NDIM Delhi PGDM admission 2027-29
   - NDIM Delhi MBA fees 2027
@@ -26,26 +30,43 @@ keywords:
   - Delhi NCR Direct Admission 2027
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi Admissions 2026
 faqs:
   - question: What is the updated total fee for the PGDM (2027–29) Batch at NDIM Delhi?
     answer: >-
-      According to the official NDIM fee portal, the total course fee for the 2-year full-time PGDM (2027–29) Batch is ₹14,00,000 (₹7,00,000 per year if paid annually). If paid semester-wise, it is ₹3,50,000 per semester with an additional annual convenience charge of ₹6,000.
+      According to the official NDIM fee portal, the total course fee for the
+      2-year full-time PGDM (2027–29) Batch is ₹14,00,000 (₹7,00,000 per year if
+      paid annually). If paid semester-wise, it is ₹3,50,000 per semester with
+      an additional annual convenience charge of ₹6,000.
   - question: Is NDIM PGDM equivalent to an MBA degree?
     answer: >-
-      Yes, the 2-year full-time PGDM program at NDIM Delhi is approved by AICTE, accredited by NBA, and granted MBA equivalence by the Association of Indian Universities (AIU).
+      Yes, the 2-year full-time PGDM program at NDIM Delhi is approved by AICTE,
+      accredited by NBA, and granted MBA equivalence by the Association of
+      Indian Universities (AIU).
   - question: What scholarships and rebates are available at NDIM Delhi for 2027–29?
     answer: >-
-      NDIM has established a dedicated pool of ₹2.5 Crore for scholarships and rebates. Merit scholarships are awarded for high percentiles in CAT, XAT, CMAT, MAT, GMAT, ATMA and strong academics. Rebates are available for defense/paramilitary wards, NDIM siblings/alumni, single parent wards, J&K/North-East students, and SC/ST/OBC/EWS candidates.
+      NDIM has established a dedicated pool of ₹2.5 Crore for scholarships and
+      rebates. Merit scholarships are awarded for high percentiles in CAT, XAT,
+      CMAT, MAT, GMAT, ATMA and strong academics. Rebates are available for
+      defense/paramilitary wards, NDIM siblings/alumni, single parent wards,
+      J&K/North-East students, and SC/ST/OBC/EWS candidates.
   - question: Which entrance exams are accepted for NDIM Delhi admission 2027?
     answer: >-
-      NDIM Delhi accepts valid scores from national-level entrance exams including CAT, XAT, MAT, CMAT, ATMA, and GMAT. Candidates with 60% to 75% percentile are shortlisted for GD and PI rounds.
+      NDIM Delhi accepts valid scores from national-level entrance exams
+      including CAT, XAT, MAT, CMAT, ATMA, and GMAT. Candidates with 60% to 75%
+      percentile are shortlisted for GD and PI rounds.
   - question: What is the hostel fee at NDIM Delhi?
     answer: >-
-      NDIM provides verified partner hostels within walking distance of campus for boys and girls. Charges for twin-sharing rooms with furniture, air-cooling, attached bathrooms, Wi-Fi, common TV, and meals start at ₹11,000 per month. Free to-and-fro campus transport is provided.
+      NDIM provides verified partner hostels within walking distance of campus
+      for boys and girls. Charges for twin-sharing rooms with furniture,
+      air-cooling, attached bathrooms, Wi-Fi, common TV, and meals start at
+      ₹11,000 per month. Free to-and-fro campus transport is provided.
   - question: What is the average and highest placement package at NDIM Delhi?
     answer: >-
-      NDIM maintains a 100% placement track record. The latest average package stands at ₹10.00 LPA (with the top 25% batch averaging ₹12.80 LPA) and the peak salary package reaching up to ₹24.00 LPA.
-location: Delhi NCR
+      NDIM maintains a 100% placement track record. The latest average package
+      stands at ₹10.00 LPA (with the top 25% batch averaging ₹12.80 LPA) and the
+      peak salary package reaching up to ₹24.00 LPA.
+location: Delhi
 state: Delhi NCR
 ---
 

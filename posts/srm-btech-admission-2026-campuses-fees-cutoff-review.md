@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Ghaziabad
   - Ghaziabad Admissions 2026
   - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -33,7 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 SRM Institute of Science and Technology (SRMIST) is one of India's largest private universities, offering a massive array of B.Tech specializations across multiple campuses. For the **2026 admission cycle**, SRM has already commenced its application process through the **SRMJEEE (SRM Joint Engineering Entrance Examination)**.

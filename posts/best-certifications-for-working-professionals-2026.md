@@ -14,6 +14,13 @@ keywords:
   - best online certifications high salary
   - Executive MBA for working professionals
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which certification is best for high salary in India?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       frameworks within your domain, PMP is excellent. If you want general
       management, leadership, strategy, and business scaling skills, an MBA
       (particularly an Executive or Online MBA) is better suited.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

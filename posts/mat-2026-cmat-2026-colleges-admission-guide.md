@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM accept MAT score?
     answer: NO. IIMs and FMS only accept CAT scores.
@@ -32,7 +37,7 @@ faqs:
       percentile. If you skip GK, you cannot reach the 99+ bracket.
   - question: When is the MAT 2026 February registration?
     answer: Registration usually starts in **late December or early January**.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

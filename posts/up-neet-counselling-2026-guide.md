@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is the security deposit refundable?
     answer: >-
@@ -37,7 +42,7 @@ faqs:
       Usually 15-20 days after the Round 1 result. Round 2 is often when the
       "Category-wise" shift happens and some lower-tier private seats become
       available.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

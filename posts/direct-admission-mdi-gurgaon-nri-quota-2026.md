@@ -39,7 +39,7 @@ faqs:
       A score of **665+ on the GMAT Focus Edition** is considered safe for the
       NRI/FN category. However, a strong professional profile and academic
       record can sometimes compensate for a slightly lower score (645+).
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

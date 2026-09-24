@@ -17,6 +17,13 @@ keywords:
   - matricbiharboard.com result link
   - BSEB Matric pass percentage 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Bihar School Examination Board (BSEB) has officially announced the **Bihar Board Class 10 Result 2026 today, March 29, 2026, at 1:15 PM**. Over 16 lakh students who appeared for the Matric examinations held in February can now access their marks and download the provisional marksheet online.

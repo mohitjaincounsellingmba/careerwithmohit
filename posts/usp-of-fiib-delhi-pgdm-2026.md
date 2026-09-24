@@ -42,7 +42,7 @@ faqs:
     answer: >-
       FIIB typically accepts candidates with 60–75 percentile in CAT/XAT, along
       with MAT, CMAT, ATMA, and GMAT scores.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

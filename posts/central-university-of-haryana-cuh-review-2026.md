@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -33,7 +37,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 Central University of Haryana (CUH) offers a highly affordable and quality education, attracting students across India. Known for its comprehensive academic programs and strong infrastructure, CUH is a prime choice for both UG and PG candidates seeking admission via the CUET 2026 exams.

@@ -14,6 +14,13 @@ keywords:
   - UGC approved online degree Chandigarh
   - CU online degree validity
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **Chandigarh University (CU) Online** has emerged as one of the fastest-growing digital education providers in Northern India. With a legacy of placement excellence and a prestigious **QS World University Ranking**, CU's online division offers students the same academic rigor as its residential programs, but with the flexibility and affordability of modern online learning.

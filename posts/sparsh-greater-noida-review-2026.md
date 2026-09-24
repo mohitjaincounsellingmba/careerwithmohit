@@ -44,7 +44,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Sparsh Global
       Business School (SGBS) is approximately ₹10.50 Lakhs (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

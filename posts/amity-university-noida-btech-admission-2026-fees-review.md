@@ -37,7 +37,7 @@ faqs:
     answer: >-
       Admission is typically based on 10+2 merit and JEE scores, often followed
       by a personal interview.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

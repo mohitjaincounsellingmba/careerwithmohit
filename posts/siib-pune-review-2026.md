@@ -16,6 +16,13 @@ keywords:
   - SIIB Pune (Symbiosis Institute of International Business) admission cutoffs
   - top mba colleges in Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the average package at SIIB Pune (Symbiosis Institute of
@@ -38,7 +45,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at SIIB Pune
       (Symbiosis Institute of International Business) is approximately ₹19.6
       Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

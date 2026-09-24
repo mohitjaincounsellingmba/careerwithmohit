@@ -35,7 +35,7 @@ faqs:
       fee of around INR 6.5 Lakhs, making it a balanced choice.
   - question: What exams does GNIOT accept?
     answer: 'GNIOT accepts scores from national exams like CAT, MAT, and CMAT.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

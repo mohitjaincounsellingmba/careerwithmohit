@@ -1,21 +1,55 @@
 ---
-name: "Loyola Institute of Business Administration (LIBA)"
-logo: "/logo.webp"
-location: "Chennai, Tamil Nadu"
-category: "Management"
-type: "Institute"
-courses: ["PGDM (Full-Time)", "Executive PGDM"]
+name: Loyola Institute of Business Administration (LIBA)
+logo: /logo.webp
+location: 'Chennai, Tamil Nadu'
+category: Management
+type: Institute
+courses:
+  - PGDM (Full-Time)
+  - Executive PGDM
 established: 1979
-ownership: "Private Jesuit Autonomous"
-ranking: "Top Tier B-School South India · SAQS Accredited"
-fees: "₹17.20 Lakhs (Total)"
-avg_placement: "₹11.60 LPA"
-highest_placement: "₹22.50 LPA"
-lowest_placement: "₹8.00 LPA"
-exams: ["CAT", "XAT"]
-brochure_url: "#"
-website: "https://liba.edu"
-top_recruiters: ["Cognizant", "Deloitte", "Morgan Stanley", "Infosys", "ITC", "Bank of America", "BMW"]
+ownership: Private Jesuit Autonomous
+ranking: Top Tier B-School South India · SAQS Accredited
+fees: ₹17.20 Lakhs (Total)
+avg_placement: ₹11.60 LPA
+highest_placement: ₹22.50 LPA
+lowest_placement: ₹8.00 LPA
+exams:
+  - CAT
+  - XAT
+brochure_url: '#'
+website: 'https://liba.edu'
+top_recruiters:
+  - Cognizant
+  - Deloitte
+  - Morgan Stanley
+  - Infosys
+  - ITC
+  - Bank of America
+  - BMW
+seo_title: 'Loyola Institute of Business Administration (LIBA) MBA Fees,'
+seo_description: >-
+  Explore Loyola Institute of Business Administration (LIBA) Chennai, Tamil
+  Nadu: MBA/PGDM fee structure ₹17.20 Lakhs (Total), average placement ₹11.60
+  LPA, highe
+keywords:
+  - Loyola Institute of Business Administration (LIBA) review
+  - Loyola Institute of Business Administration (LIBA) fees structure 2027
+  - Loyola Institute of Business Administration (LIBA) average package
+  - Loyola Institute of Business Administration (LIBA) placement report 2027
+  - Loyola Institute of Business Administration (LIBA) highest package
+  - Loyola Institute of Business Administration (LIBA) cutoff 2027
+  - Loyola Institute of Business Administration (LIBA) admission process
+  - Loyola Institute of Business Administration (LIBA) ranking
+  - 'Loyola Institute of Business Administration (LIBA) Chennai, Tamil Nadu'
+  - is Loyola Institute of Business Administration (LIBA) good
+  - Loyola Institute of Business Administration (LIBA) mohit jain review
+  - Loyola Institute of Business Administration (LIBA) hostel fees
+  - Loyola Institute of Business Administration (LIBA) contact number
+  - Loyola Institute of Business Administration (LIBA) MBA fees
+  - Loyola Institute of Business Administration (LIBA) PGDM placement
+  - Loyola Institute of Business Administration (LIBA) MBA admission 2027
+  - 'MBA colleges Chennai, Tamil Nadu'
 ---
 
 ### About Loyola Institute of Business Administration (LIBA)

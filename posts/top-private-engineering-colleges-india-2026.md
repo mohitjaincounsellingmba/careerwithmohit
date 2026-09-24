@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best private engineering college in India?
     answer: >-
@@ -48,7 +53,7 @@ faqs:
       and have more autonomy in curriculum. Affiliated private colleges (e.g.,
       KIET Ghaziabad → AKTU, CBIT Hyderabad → OU) follow the parent university's
       curriculum and award state university degrees.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

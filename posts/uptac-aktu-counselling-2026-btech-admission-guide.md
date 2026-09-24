@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will UPTAC 2026 registration start?
     answer: >-
@@ -27,7 +32,7 @@ faqs:
     answer: >-
       No, government college seats are reserved for students with UP domicile.
       Outside state students are eligible for private college seats.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

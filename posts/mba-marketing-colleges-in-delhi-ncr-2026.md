@@ -40,7 +40,7 @@ faqs:
       Top-tier colleges like FMS and MDI do not offer direct admission and admit
       strictly via CAT. Some private colleges offer management quota seats based
       on CMAT/MAT scores.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

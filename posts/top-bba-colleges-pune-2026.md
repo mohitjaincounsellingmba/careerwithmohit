@@ -16,6 +16,13 @@ keywords:
   - symbiosis set 2026 details
   - pune bba placements report
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: does MIT-WPU require CET for BBA?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       The annual tuition fee is approximately **₹1.2 Lakhs to ₹1.5 Lakhs**,
       making it one of the most affordable Tier-1 options in the city.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -41,7 +41,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Delhi School of
       Business (VIPS-TC) is approximately ₹11.50 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

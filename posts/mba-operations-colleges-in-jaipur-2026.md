@@ -13,6 +13,13 @@ keywords:
   - jaipuria jaipur operations placement
   - manipal university jaipur mba
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Taxila Business School good for operations management?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
     answer: >-
       Yes, Jaipuria Jaipur provides PGDM with specialized operations electives
       that include logistics, project management, and services strategy.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -24,6 +24,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Which are the best non-IIM MBA colleges in Delhi NCR accepting CAT 2026
@@ -43,7 +49,7 @@ faqs:
       Colleges like NDIM Delhi, FIIB New Delhi, FOSTIIMA Business School, JIMS
       Rohini/Kalkaji, and SOIL Gurgaon provide high ROI and strong corporate
       placements for candidates in the 60-75 percentile range.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 # MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027

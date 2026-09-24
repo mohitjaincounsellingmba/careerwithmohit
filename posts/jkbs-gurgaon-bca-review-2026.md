@@ -39,7 +39,7 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 While JK Business School (JKBS) is predominantly known for its PGDM and BBA programs, its **Bachelor of Computer Applications (BCA)** has been gaining traction among students looking for a solid foundation in IT with a professional management touch. Affiliated with Gurugram University, the JKBS BCA program offers a blend of technical academic rigor and corporate readiness.

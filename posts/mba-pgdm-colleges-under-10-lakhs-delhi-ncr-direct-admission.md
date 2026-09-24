@@ -32,7 +32,7 @@ faqs:
       donation processing, though AICTE regulates this.
   - question: Are placements the same for direct admission students?
     answer: "Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)\n*   [\U0001F449 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)\n\n*At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*"
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

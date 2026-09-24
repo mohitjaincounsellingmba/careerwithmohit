@@ -18,6 +18,13 @@ keywords:
   - IIIT Allahabad seats
   - IIIT Gwalior seat matrix
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **Indian Institutes of Information Technology (IIITs)** have emerged as prime destinations for B.Tech aspirants wanting to specialize in Computer Science (CSE), Information Technology (IT), and Electronics (ECE). With a total of 26 IIITs, these institutes are known for excellent placement records and state-of-the-art infrastructure.

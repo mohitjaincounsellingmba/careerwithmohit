@@ -16,6 +16,13 @@ keywords:
   - mca placements 2025 highest package
   - mca admission via nimcet
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is MCA equivalent to B.Tech CSE?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Yes. Practically all universities accept B.Sc. graduates (with
       Maths/Computer Science/Stats) for their MCA programs.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

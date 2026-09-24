@@ -1,9 +1,15 @@
 ---
-title: 'Mangalmay Institute of Management and Technology MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Mangalmay Institute of Management and Technology MBA / PGDM Admission 2027-29:
+  Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Mangalmay Institute of Management and Technology (Mangalmay Greater Noida). Verified fee structure (₹3.25 Lakhs (Total)), MBA approvals, audited placements (Avg ₹5.50 LPA, Highest ₹12.40 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Mangalmay Institute of Management and
+  Technology (Mangalmay Greater Noida). Verified fee structure (₹3.25 Lakhs
+  (Total)), MBA approvals, audited placements (Avg ₹5.50 LPA, Highest ₹12.40
+  LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and
+  Why Join review.
 keywords:
   - Mangalmay Institute of Management and Technology admission 2027-29
   - Mangalmay Greater Noida fees 2027
@@ -17,26 +23,60 @@ keywords:
   - best MBA PGDM colleges in Greater Noida
   - direct admission in Mangalmay Greater Noida
   - MBA Career Counselling Mohit Jain
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: What is the total fee for the MBA (2027–29) Batch at Mangalmay Greater Noida?
+  - question: >-
+      What is the total fee for the MBA (2027–29) Batch at Mangalmay Greater
+      Noida?
     answer: >-
-      The total course fee for the 2-year MBA program at Mangalmay Institute of Management and Technology for the 2027–29 batch is ₹3.25 Lakhs (Total) (₹1.62 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
-  - question: Which statutory approvals and accreditations does Mangalmay Greater Noida hold?
+      The total course fee for the 2-year MBA program at Mangalmay Institute of
+      Management and Technology for the 2027–29 batch is ₹3.25 Lakhs (Total)
+      (₹1.62 Lakhs per Year). Various merit and category scholarships are
+      available for deserving candidates.
+  - question: >-
+      Which statutory approvals and accreditations does Mangalmay Greater Noida
+      hold?
     answer: >-
-      Mangalmay Institute of Management and Technology holds AICTE Approved · Affiliated to AKTU · NAAC Accredited, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Mangalmay Greater Noida?
+      Mangalmay Institute of Management and Technology holds AICTE Approved ·
+      Affiliated to AKTU · NAAC Accredited, ensuring valid degree equivalence,
+      eligibility for government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Mangalmay
+      Greater Noida?
     answer: >-
-      For recent placement drives, Mangalmay Greater Noida recorded an average salary package of ₹5.50 LPA (Top 25% averaging ₹7.50 LPA) and a peak highest CTC of ₹12.40 LPA, with leading recruiters including TCS, Infosys, HCL, Kotak Bank.
-  - question: Does Mangalmay Greater Noida offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Mangalmay Greater Noida recorded an average
+      salary package of ₹5.50 LPA (Top 25% averaging ₹7.50 LPA) and a peak
+      highest CTC of ₹12.40 LPA, with leading recruiters including TCS, Infosys,
+      HCL, Kotak Bank.
+  - question: >-
+      Does Mangalmay Greater Noida offer Pre-Placement Offers (PPOs) and paid
+      summer internships?
     answer: >-
-      Yes, 18% PPO rate through dedicated personality development and placement drives.
-  - question: What value-added certifications are provided to students at Mangalmay Greater Noida?
+      Yes, 18% PPO rate through dedicated personality development and placement
+      drives.
+  - question: >-
+      What value-added certifications are provided to students at Mangalmay
+      Greater Noida?
     answer: >-
-      Students receive embedded industry certifications including Digital Marketing Foundations, Advanced Excel for Business Decision Making, Soft Skills & Corporate Etiquette Mastery, HR Analytics Basics.
-  - question: How can students apply for admission or get counseling for Mangalmay Greater Noida for 2027–29?
+      Students receive embedded industry certifications including Digital
+      Marketing Foundations, Advanced Excel for Business Decision Making, Soft
+      Skills & Corporate Etiquette Mastery, HR Analytics Basics.
+  - question: >-
+      How can students apply for admission or get counseling for Mangalmay
+      Greater Noida for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Greater Noida
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Noida
 state: Pan India
 ---
 

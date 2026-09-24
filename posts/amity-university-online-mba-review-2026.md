@@ -48,7 +48,7 @@ faqs:
       The Online MBA uses a live LMS with real-time classes, while Distance MBA
       was an older correspondence model. Amity has now primarily shifted to
       online mode.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

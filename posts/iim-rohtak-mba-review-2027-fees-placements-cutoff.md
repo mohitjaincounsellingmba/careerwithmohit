@@ -3,7 +3,10 @@ title: 'IIM Rohtak Review 2027: Fees, Placements, Cutoff, Ranking & Admission Ve
 date: '2026-09-15'
 category: MBA Admissions
 description: >-
-  Comprehensive IIM Rohtak (Sunaria, Rohtak, Haryana) review for 2027 admissions. Explore audited fee structure (₹18.90 Lakhs (Total)), latest placement packages (Avg: ₹19.27 LPA, Highest: ₹48.25 LPA), entrance exam cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Rohtak (Sunaria, Rohtak, Haryana) review for 2027
+  admissions. Explore audited fee structure (₹18.90 Lakhs (Total)), latest
+  placement packages (Avg: ₹19.27 LPA, Highest: ₹48.25 LPA), entrance exam
+  cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
 keywords:
   - iim rohtak review 2027
   - iim rohtak mba fees
@@ -17,20 +20,38 @@ keywords:
   - best MBA colleges in Rohtak
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at IIM Rohtak in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Rohtak stands at approximately ₹19.27 LPA, with the median package around ₹12.00 LPA and top offers reaching ₹48.25 LPA.
+      The overall average placement package at IIM Rohtak stands at
+      approximately ₹19.27 LPA, with the median package around ₹12.00 LPA and
+      top offers reaching ₹48.25 LPA.
   - question: What entrance exams are accepted for admission to IIM Rohtak?
     answer: >-
-      IIM Rohtak accepts scores from CAT, IPMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Rohtak for the 2-year MBA / PGDM program?
+      IIM Rohtak accepts scores from CAT, IPMAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Rohtak for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹18.90 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹18.90 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Rohtak offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Rohtak provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
-location: Sunaria
+      Yes, IIM Rohtak provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
+location: Delhi
 state: Rohtak
 ---
 

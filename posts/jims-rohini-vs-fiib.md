@@ -40,7 +40,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi** are two of the most popular choices. 

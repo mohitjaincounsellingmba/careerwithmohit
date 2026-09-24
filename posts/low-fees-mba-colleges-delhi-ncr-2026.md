@@ -38,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pursuing a Master of Business Administration (MBA) is a major financial investment. With tuition fees at premium private institutions reaching ₹20 Lakhs to ₹28 Lakhs, educational debt can become a heavy burden for starting graduates. However, several top-tier universities and government institutions in the Delhi National Capital Region (NCR) offer world-class management education at an extremely low fee structure.

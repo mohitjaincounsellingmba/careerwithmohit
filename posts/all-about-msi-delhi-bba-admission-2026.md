@@ -34,7 +34,7 @@ faqs:
     answer: >-
       Yes, Maharaja Surajmal Institute has its own hostel facility for both boys
       and girls within the campus.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

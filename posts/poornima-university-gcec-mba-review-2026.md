@@ -14,6 +14,13 @@ keywords:
   - Global Centre for Entrepreneurship and Commerce reviews
   - best MBA for entrepreneurship in Rajasthan
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is GCEC [Poornima University](/colleges/poornima-jaipur) degree valid?'
     answer: >-
@@ -26,7 +33,7 @@ faqs:
       ACCA (UK) certification, saving nearly 2 years of study time.
   - question: What is the intake for the GCEC MBA 2026 batch?
     answer: "They maintain a selective, smaller batch size to ensure personalized mentorship for startup ideas and placement grooming.\n\n[\U0001F449 Compare GCEC with Other Jaipur B-Schools!](/tools/college-comparison)\n\n**Ready to Build Your Own Empire?**\nAt **CareerWithMohit**, we help you identify the right \"Niche\" colleges that match your specific career goals in Finance or Entrepreneurship.\n\n[\U0001F449 Book a Personalized Admission Audit!](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

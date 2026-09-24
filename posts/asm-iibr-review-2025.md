@@ -14,6 +14,13 @@ keywords:
   - 'PGDM in [ASM IIBR](/colleges/asm-iibr)'
   - '[ASM IIBR](/colleges/asm-iibr) average package 2025'
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 ASM's Institute of International Business and Research (IIBR) is the specialized PGDM arm of the ASM group. It focuses on international business standards and high-growth industry niches.

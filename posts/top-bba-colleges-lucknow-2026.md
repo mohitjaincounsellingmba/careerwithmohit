@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: does IIM Lucknow have a BBA course?
     answer: >-
@@ -34,7 +39,7 @@ faqs:
     answer: >-
       For top-tier colleges like Jaipuria and LU, the average package ranges
       from **₹4.5L to ₹7.5L**.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

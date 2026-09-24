@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Which is the #1 engineering college in India in 2026?'
     answer: >-
@@ -46,7 +51,7 @@ faqs:
       With a JEE Advanced rank of ~1,000, you can target IIT Kharagpur CSE, IIT
       Roorkee CSE, or IIT Guwahati CSE. Check the latest JoSAA opening/closing
       ranks for the most accurate guidance.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

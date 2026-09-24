@@ -45,7 +45,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 In today's fast-paced digital economy, data is the new oil. Companies across the globe are aggressively hunting for management professionals who don't just understand business strategies but can also decode complex data. This massive shift has made **Data Analytics and Business Intelligence** one of the most sought-after specializations. 

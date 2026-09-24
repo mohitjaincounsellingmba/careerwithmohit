@@ -15,6 +15,13 @@ keywords:
   - top pe firms in india 2026
   - mba for private equity
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is it possible to change from VC to PE?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       schools for **Portfolio Operations or ESG-focused roles**.
   - question: What is the most important trait for a VC?
     answer: '**Networking.** Being the person whom every founder wants to call first.'
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -39,7 +39,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida, is widely regarded as one of Northern India's top private PGDM campuses. With over 275+ recruiters and international opportunities, it has become a hotbed for ambitious management students.

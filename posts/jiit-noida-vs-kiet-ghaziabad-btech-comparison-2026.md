@@ -51,7 +51,7 @@ faqs:
       For core branches (ECE, Mechanical, Civil), the cutoff difference narrows
       significantly. KIET's ECE placements are respectable and the lower fee
       makes it a more attractive proposition for core branch students.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

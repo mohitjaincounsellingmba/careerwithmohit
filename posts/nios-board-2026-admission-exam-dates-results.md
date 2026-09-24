@@ -15,6 +15,13 @@ keywords:
   - National Institute of Open Schooling
   - how to apply for NIOS
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **National Institute of Open Schooling (NIOS)**, formerly known as the National Open School (NOS), is the largest open schooling system in the world. Established by the Ministry of Education, Government of India, NIOS provides flexible, learner-centric education up to the pre-degree level.

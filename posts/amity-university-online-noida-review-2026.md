@@ -41,7 +41,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 [Amity University](/colleges/amity-noida) Online is recognized as one of India's premier private institutions for distance and online learning. With prestigious approvals from **UGC-DEB, AICTE, and NAAC A++**, it offers a world-class education that is on par with regular on-campus programs. In 2026, Amity continues to dominate the online education space with its industry-aligned curriculum and robust placement support.

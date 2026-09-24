@@ -1,22 +1,85 @@
 ---
-name: "SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)"
-logo: ""
-location: "Indore, Madhya Pradesh"
-state: "Madhya Pradesh"
-category: "Engineering"
-type: "Govt. Aided Autonomous Institute"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Information Technology", "B.Tech Electronics & Telecommunication", "B.Tech Mechanical Engineering", "M.Tech Computer Science"]
+name: SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)
+logo: ''
+location: 'Indore, Madhya Pradesh'
+state: Madhya Pradesh
+category: Engineering
+type: Govt. Aided Autonomous Institute
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Information Technology
+  - B.Tech Electronics & Telecommunication
+  - B.Tech Mechanical Engineering
+  - M.Tech Computer Science
 established: 1952
-ownership: "Govt. Aided Autonomous"
-ranking: "Top State Engineering College in Madhya Pradesh (MP DTE #1 Choice)"
-fees: "₹3.50 - ₹4.50 Lakhs (Total 4 Years)"
-avg_placement: "₹8.50 LPA"
-highest_placement: "₹44.00 LPA"
-lowest_placement: "₹5.50 LPA"
-exams: ["JEE Main (MP DTE Counselling)", "GATE"]
-brochure_url: "#"
-website: "https://www.sgsits.ac.in"
-top_recruiters: ["Amazon", "Adobe", "Goldman Sachs", "TCS Digital", "Infosys", "Cognizant", "L&T"]
+ownership: Govt. Aided Autonomous
+ranking: 'Top State Engineering College in Madhya Pradesh (MP DTE #1 Choice)'
+fees: ₹3.50 - ₹4.50 Lakhs (Total 4 Years)
+avg_placement: ₹8.50 LPA
+highest_placement: ₹44.00 LPA
+lowest_placement: ₹5.50 LPA
+exams:
+  - JEE Main (MP DTE Counselling)
+  - GATE
+brochure_url: '#'
+website: 'https://www.sgsits.ac.in'
+top_recruiters:
+  - Amazon
+  - Adobe
+  - Goldman Sachs
+  - TCS Digital
+  - Infosys
+  - Cognizant
+  - L&T
+seo_title: SGSITS Indore (Shri Govindram Seksaria Institute of Tech & S
+seo_description: >-
+  Check SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)
+  Indore, Madhya Pradesh: B.Tech fee structure ₹3.50 - ₹4.50 Lakhs (Total 4
+  Years), aver
+keywords:
+  - SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) review
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) fees
+    structure 2027
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) average
+    package
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)
+    placement report 2027
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) highest
+    package
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) cutoff
+    2027
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)
+    admission process
+  - SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) ranking
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) Indore,
+    Madhya Pradesh
+  - is SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) good
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) mohit
+    jain review
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) hostel
+    fees
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) contact
+    number
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) B.Tech
+    fees
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) CSE
+    placement
+  - >-
+    SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science) B.Tech
+    admission 2027
+  - 'engineering colleges Indore, Madhya Pradesh'
 ---
 
 ### About SGSITS Indore (Shri Govindram Seksaria Institute of Tech & Science)

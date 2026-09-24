@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does BCA Data Science require a strong maths background?
     answer: >-
@@ -33,7 +38,7 @@ faqs:
     answer: >-
       Top students in colleges like **Bennett or Jain** have cleared ₹12L-₹15L
       packages in the Data Analytics domain during the 2025 placement season.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

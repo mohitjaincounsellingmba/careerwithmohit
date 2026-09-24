@@ -15,8 +15,15 @@ keywords:
   - Apeejay Dwarka fees and admission 2026
   - Top MBA colleges in Dwarka Delhi
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: >-
       What makes Apeejay Business School (ASM Dwarka) stand out among top PGDM

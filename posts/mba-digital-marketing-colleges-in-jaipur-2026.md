@@ -13,6 +13,13 @@ keywords:
   - jaipuria jaipur marketing placement
   - manipal university jaipur mba
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Taxila Business School good for Digital Marketing?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       Yes, Jaipuria Jaipur provides PGDM with specialized marketing courses that
       include digital marketing, advertising, and retail management.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

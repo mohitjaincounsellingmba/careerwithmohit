@@ -40,7 +40,7 @@ faqs:
     answer: >-
       MSIT maintains a decent academic environment, and while there isn't a
       strict uniform, students are expected to follow basic campus decorum.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

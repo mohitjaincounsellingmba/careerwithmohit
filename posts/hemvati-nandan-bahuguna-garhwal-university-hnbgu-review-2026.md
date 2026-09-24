@@ -15,6 +15,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 Set against a beautiful backdrop, Hemvati Nandan Bahuguna Garhwal University (HNBGU) is a Central University offering a robust academic environment. For 2026, it remains a heavily sought-after institution for students looking for quality and affordable education through the CUET.

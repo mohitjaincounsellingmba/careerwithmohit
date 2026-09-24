@@ -1,21 +1,60 @@
 ---
-name: "K J Somaiya Institute of Management"
-logo: "/logo.webp"
-location: "Vidyavihar, Mumbai, Maharashtra"
-category: "Management"
-type: "Institute"
-courses: ["MBA (General)", "MBA Healthcare Management", "MBA Sports Management", "Executive MBA"]
+name: K J Somaiya Institute of Management
+logo: /logo.webp
+location: 'Vidyavihar, Mumbai, Maharashtra'
+category: Management
+type: Institute
+courses:
+  - MBA (General)
+  - MBA Healthcare Management
+  - MBA Sports Management
+  - Executive MBA
 established: 1981
-ownership: "Private Autonomous (Somaiya Vidyavihar University)"
-ranking: "NIRF Rank #63 (Management 2024) · AACSB Accredited"
-fees: "₹20.87 Lakhs (Total)"
-avg_placement: "₹12.28 LPA"
-highest_placement: "₹28.25 LPA"
-lowest_placement: "₹8.00 LPA"
-exams: ["CAT", "XAT", "GMAT", "NMAT", "CMAT"]
-brochure_url: "#"
-website: "https://simsr.somaiya.edu"
-top_recruiters: ["Barclays", "JP Morgan Chase", "ITC", "Amazon", "Airtel", "Deloitte", "Tata Capital"]
+ownership: Private Autonomous (Somaiya Vidyavihar University)
+ranking: 'NIRF Rank #63 (Management 2024) · AACSB Accredited'
+fees: ₹20.87 Lakhs (Total)
+avg_placement: ₹12.28 LPA
+highest_placement: ₹28.25 LPA
+lowest_placement: ₹8.00 LPA
+exams:
+  - CAT
+  - XAT
+  - GMAT
+  - NMAT
+  - CMAT
+brochure_url: '#'
+website: 'https://simsr.somaiya.edu'
+top_recruiters:
+  - Barclays
+  - JP Morgan Chase
+  - ITC
+  - Amazon
+  - Airtel
+  - Deloitte
+  - Tata Capital
+seo_title: 'K J Somaiya Institute of Management MBA Fees, Cutoff & Place'
+seo_description: >-
+  Explore K J Somaiya Institute of Management Vidyavihar, Mumbai, Maharashtra:
+  MBA/PGDM fee structure ₹20.87 Lakhs (Total), average placement ₹12.28 LPA,
+  highest 
+keywords:
+  - K J Somaiya Institute of Management review
+  - K J Somaiya Institute of Management fees structure 2027
+  - K J Somaiya Institute of Management average package
+  - K J Somaiya Institute of Management placement report 2027
+  - K J Somaiya Institute of Management highest package
+  - K J Somaiya Institute of Management cutoff 2027
+  - K J Somaiya Institute of Management admission process
+  - K J Somaiya Institute of Management ranking
+  - 'K J Somaiya Institute of Management Vidyavihar, Mumbai, Maharashtra'
+  - is K J Somaiya Institute of Management good
+  - K J Somaiya Institute of Management mohit jain review
+  - K J Somaiya Institute of Management hostel fees
+  - K J Somaiya Institute of Management contact number
+  - K J Somaiya Institute of Management MBA fees
+  - K J Somaiya Institute of Management PGDM placement
+  - K J Somaiya Institute of Management MBA admission 2027
+  - 'MBA colleges Vidyavihar, Mumbai, Maharashtra'
 ---
 
 ### About K J Somaiya Institute of Management

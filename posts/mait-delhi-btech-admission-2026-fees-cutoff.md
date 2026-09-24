@@ -41,7 +41,7 @@ faqs:
     answer: >-
       Yes, MAIT provides separate hostel facilities for boys and girls with both
       AC and Non-AC options.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

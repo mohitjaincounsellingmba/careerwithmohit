@@ -42,7 +42,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 The dynamic world of media, journalism, and digital communication is evolving at lightning speed. For students aiming to build a career in broadcasting, PR, advertising, or digital journalism, pursuing a **Bachelor of Journalism and Mass Communication (BJMC)** or a Master's degree in Mass Comm is the ultimate stepping stone.

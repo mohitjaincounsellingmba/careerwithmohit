@@ -52,7 +52,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 **Great Lakes Institute of Management (GLIM)** has rapidly cemented its position as one of India's top private B-schools since its inception in 2004. With two stellar campuses in Chennai and Gurgaon, Great Lakes is famous for its analytics-heavy curriculum and its pioneering 1-year fast-track management program.

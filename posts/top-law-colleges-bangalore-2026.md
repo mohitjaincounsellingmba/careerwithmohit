@@ -16,6 +16,13 @@ keywords:
   - st josephs law college bangalore
   - direct law admission bangalore
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Christ University Law have management quota?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       Entrance-based admissions close by **March-April**. Direct merit-based
       admissions open in **May** after 12th results.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

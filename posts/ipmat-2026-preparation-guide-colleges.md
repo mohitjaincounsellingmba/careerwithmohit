@@ -16,6 +16,13 @@ keywords:
   - ipmat quant strategy 2026
   - jipmat 2026 details
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is IPMAT tougher than JEE?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Typically held in **May 2026**, soon after the 12th standard board exams
       are over.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

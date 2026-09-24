@@ -18,6 +18,13 @@ keywords:
   - stripe vs paypal for educators
   - cross border coaching business guide
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is English the only language for global scaling?
     answer: >-
@@ -38,7 +45,7 @@ faqs:
     answer: >-
       Yes, but **Email and In-App Chat** are preferred in western markets for a
       more professional experience.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -15,6 +15,13 @@ keywords:
   - 'PSG Institute of Medical Sciences & Research, Coimbatore MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee for PSG Medical College Management Quota?
     answer: The management quota annual tuition fee is around ₹13.5 Lakhs.
@@ -24,7 +31,7 @@ faqs:
       Medical Selection counselling.
   - question: What is the NEET score needed for PSG Govt Quota seat?
     answer: Expected NEET score for TN Govt Quota in PSG is 590 to 625.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

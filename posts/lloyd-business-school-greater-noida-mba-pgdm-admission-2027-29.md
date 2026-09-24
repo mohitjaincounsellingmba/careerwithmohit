@@ -1,9 +1,15 @@
 ---
-title: 'Lloyd Business School MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Lloyd Business School MBA / PGDM Admission 2027-29: Fees, Approvals,
+  Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Lloyd Business School (Lloyd Greater Noida). Verified fee structure (₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA), MBA / PGDM approvals, audited placements (Avg ₹6.00 LPA, Highest ₹18.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Lloyd Business School (Lloyd Greater
+  Noida). Verified fee structure (₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA),
+  MBA / PGDM approvals, audited placements (Avg ₹6.00 LPA, Highest ₹18.00 LPA),
+  PPO stats, certifications, awards, alumni network, faculty profiles, and Why
+  Join review.
 keywords:
   - Lloyd Business School admission 2027-29
   - Lloyd Greater Noida fees 2027
@@ -17,26 +23,60 @@ keywords:
   - best MBA PGDM colleges in Greater Noida
   - direct admission in Lloyd Greater Noida
   - MBA Career Counselling Mohit Jain
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: What is the total fee for the MBA / PGDM (2027–29) Batch at Lloyd Greater Noida?
+  - question: >-
+      What is the total fee for the MBA / PGDM (2027–29) Batch at Lloyd Greater
+      Noida?
     answer: >-
-      The total course fee for the 2-year MBA / PGDM program at Lloyd Business School for the 2027–29 batch is ₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA (₹4.12 Lakhs / Year (PGDM)). Various merit and category scholarships are available for deserving candidates.
-  - question: Which statutory approvals and accreditations does Lloyd Greater Noida hold?
+      The total course fee for the 2-year MBA / PGDM program at Lloyd Business
+      School for the 2027–29 batch is ₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA
+      (₹4.12 Lakhs / Year (PGDM)). Various merit and category scholarships are
+      available for deserving candidates.
+  - question: >-
+      Which statutory approvals and accreditations does Lloyd Greater Noida
+      hold?
     answer: >-
-      Lloyd Business School holds AICTE Approved · Affiliated to AKTU (for MBA) · IBM Collaboration, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Lloyd Greater Noida?
+      Lloyd Business School holds AICTE Approved · Affiliated to AKTU (for MBA)
+      · IBM Collaboration, ensuring valid degree equivalence, eligibility for
+      government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Lloyd
+      Greater Noida?
     answer: >-
-      For recent placement drives, Lloyd Greater Noida recorded an average salary package of ₹6.00 LPA (Top 25% averaging ₹8.50 LPA) and a peak highest CTC of ₹18.00 LPA, with leading recruiters including IBM, Safexpress, Amazon, Flipkart.
-  - question: Does Lloyd Greater Noida offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Lloyd Greater Noida recorded an average
+      salary package of ₹6.00 LPA (Top 25% averaging ₹8.50 LPA) and a peak
+      highest CTC of ₹18.00 LPA, with leading recruiters including IBM,
+      Safexpress, Amazon, Flipkart.
+  - question: >-
+      Does Lloyd Greater Noida offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 22% PPO conversion through IBM lab training and Safexpress supply chain attachments.
-  - question: What value-added certifications are provided to students at Lloyd Greater Noida?
+      Yes, 22% PPO conversion through IBM lab training and Safexpress supply
+      chain attachments.
+  - question: >-
+      What value-added certifications are provided to students at Lloyd Greater
+      Noida?
     answer: >-
-      Students receive embedded industry certifications including IBM Business Analytics Specialist Badge, IBM AI & Machine Learning Foundations, Supply Chain & Logistics Mastery (with Safexpress), Digital Marketing & SEO.
-  - question: How can students apply for admission or get counseling for Lloyd Greater Noida for 2027–29?
+      Students receive embedded industry certifications including IBM Business
+      Analytics Specialist Badge, IBM AI & Machine Learning Foundations, Supply
+      Chain & Logistics Mastery (with Safexpress), Digital Marketing & SEO.
+  - question: >-
+      How can students apply for admission or get counseling for Lloyd Greater
+      Noida for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Greater Noida
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Noida
 state: Pan India
 ---
 

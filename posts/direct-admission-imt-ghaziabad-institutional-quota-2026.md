@@ -40,7 +40,7 @@ faqs:
     answer: >-
       For the regular PGDM, CAT or XAT is mandatory. For NRI candidates, GMAT is
       accepted.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

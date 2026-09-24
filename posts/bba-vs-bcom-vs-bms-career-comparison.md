@@ -14,6 +14,13 @@ keywords:
   - salary after bba vs bcom 2026
   - bba vs bcom for ca students
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is Math mandatory for BBA in 2026?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
     answer: >-
       Most BBA/BMS entrance exam forms (IPMAT, CUET) open in **February 2026**.
       B.Com admissions in most states happen after the 12th board results.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

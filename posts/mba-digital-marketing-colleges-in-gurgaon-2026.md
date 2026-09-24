@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores for its
       management programs.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

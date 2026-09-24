@@ -16,6 +16,13 @@ keywords:
   - how to apply for CBSE rechecking
   - CBSE 12th photocopy of answer sheet 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **CBSE Class 12 Results 2026** were recently declared, and while many students have celebrated their success, some may feel that their marks do not reflect their true performance. If you are unsatisfied with your results, the Central Board of Secondary Education (CBSE) provides a formal mechanism for **Verification of Marks, Obtaining Photocopies, and Re-evaluation.**

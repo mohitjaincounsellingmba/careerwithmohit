@@ -18,8 +18,15 @@ keywords:
   - Top Universities in Mumbai
   - Direct Admission in Mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: >-
       Is Somaiya Vidyavihar University (K J Somaiya Institute of Management) a

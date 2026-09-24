@@ -15,6 +15,13 @@ keywords:
   - 'MS Ramaiah Medical College, Bengaluru MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How to get MBBS seat in MS Ramaiah Medical College?
     answer: >-
@@ -24,7 +31,7 @@ faqs:
     answer: The open private quota fee is around ₹10.92 Lakhs per year.
   - question: What is the cutoff for MS Ramaiah MBBS 2026?
     answer: 'For Open Private Quota, expected NEET score is 590-620.'
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

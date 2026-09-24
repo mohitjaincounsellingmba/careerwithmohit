@@ -16,6 +16,13 @@ keywords:
   - thapar university chandigarh
   - engineering college mohali panchkula
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Chandigarh?
     answer: >-
@@ -40,7 +47,7 @@ faqs:
     answer: >-
       Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct
       admissions based on board marks without requiring a JEE score.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

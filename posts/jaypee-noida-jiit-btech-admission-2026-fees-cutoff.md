@@ -37,7 +37,7 @@ faqs:
     answer: >-
       Yes, JIIT provides well-maintained hostels for both boys and girls at its
       Sector 62 and Sector 128 campuses.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

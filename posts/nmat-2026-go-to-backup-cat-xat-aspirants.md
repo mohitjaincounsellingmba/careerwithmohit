@@ -12,6 +12,13 @@ keywords:
   - MBA entrance exams 2026
   - admission backup plan
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Every year, over 3 lakh candidates register for the Common Admission Test (CAT) in India, competing for a limited number of seats at the top IIMs. Due to the high competition and the unpredictable nature of CAT, many high-potential candidates struggle on exam day. 

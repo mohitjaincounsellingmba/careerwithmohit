@@ -40,7 +40,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 Graduating with a Bachelor of Business Administration (BBA) in Delhi NCR opens up diverse career opportunities. However, many students face a common dilemma as they enter their final year: *"Should I take a job immediately after graduation, or should I prep for CAT/XAT to join an MBA program?"*

@@ -14,6 +14,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -30,7 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Kolkata, the "Cultural Capital" of India, has long been a center for academic excellence. With the **CUET PG 2026** score becoming a primary admission criterion for many postgraduate programs, Kolkata’s top universities have integrated the CUET score into their admission process.

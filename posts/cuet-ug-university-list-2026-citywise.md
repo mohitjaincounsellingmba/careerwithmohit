@@ -43,7 +43,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 The **Common University Entrance Test (CUET) UG** has revolutionized undergraduate admissions in India. With over 200+ universities—including Central, State, Deemed, and Private institutions—accepting CUET scores, it is now the single most important exam for 12th-grade students.

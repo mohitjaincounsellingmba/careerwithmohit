@@ -40,7 +40,7 @@ faqs:
       The college accepts scores from national level entrance examinations
       including CAT, MAT, GMAT, Goenka Aptitude Test for the PGDM and MBA
       admissions.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

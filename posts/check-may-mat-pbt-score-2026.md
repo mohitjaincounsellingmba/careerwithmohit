@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Where can I check my MAT PBT scorecard?
     answer: >-
@@ -39,7 +44,7 @@ faqs:
     answer: >-
       The maximum composite score is **800** (200 per section × 4 sections: LC,
       ICR, MS, DA).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

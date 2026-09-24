@@ -40,7 +40,7 @@ faqs:
       are eligible for significant tuition fee waivers.
   - question: 'Which group owns [Bennett University](/colleges/bennett-greater-noida)?'
     answer: The university is owned and backed by the Times of India Group.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

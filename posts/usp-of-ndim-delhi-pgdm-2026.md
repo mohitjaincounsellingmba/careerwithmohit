@@ -53,7 +53,7 @@ faqs:
       Institute award, (2) 100% placement legacy, (3) dual specialization
       flexibility, (4) South Delhi location, and (5) 30+ years of alumni
       network.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -1,22 +1,61 @@
 ---
-name: "Andhra University College of Engineering (AUCE Vizag)"
-logo: ""
-location: "Visakhapatnam, Andhra Pradesh"
-state: "Andhra Pradesh"
-category: "Engineering"
-type: "Public State University College"
-courses: ["B.Tech Computer Science & Systems Engineering", "B.Tech Electronics & Communication", "B.Tech Marine Engineering", "B.Tech Chemical Engineering", "M.Tech Computer Science"]
+name: Andhra University College of Engineering (AUCE Vizag)
+logo: ''
+location: 'Visakhapatnam, Andhra Pradesh'
+state: Andhra Pradesh
+category: Engineering
+type: Public State University College
+courses:
+  - B.Tech Computer Science & Systems Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Marine Engineering
+  - B.Tech Chemical Engineering
+  - M.Tech Computer Science
 established: 1946
-ownership: "Public State University"
-ranking: "NIRF Rank #94 (Engineering 2024)"
-fees: "₹1.50 - ₹2.50 Lakhs (Total 4 Years)"
-avg_placement: "₹7.50 LPA"
-highest_placement: "₹30.00 LPA"
-lowest_placement: "₹4.80 LPA"
-exams: ["AP EAPCET", "GATE"]
-brochure_url: "#"
-website: "https://www.andhrauniversity.edu.in"
-top_recruiters: ["TCS", "Infosys", "Wipro", "L&T", "Hyundai", "Dr. Reddy’s", "Vizag Steel Plant"]
+ownership: Public State University
+ranking: 'NIRF Rank #94 (Engineering 2024)'
+fees: ₹1.50 - ₹2.50 Lakhs (Total 4 Years)
+avg_placement: ₹7.50 LPA
+highest_placement: ₹30.00 LPA
+lowest_placement: ₹4.80 LPA
+exams:
+  - AP EAPCET
+  - GATE
+brochure_url: '#'
+website: 'https://www.andhrauniversity.edu.in'
+top_recruiters:
+  - TCS
+  - Infosys
+  - Wipro
+  - L&T
+  - Hyundai
+  - Dr. Reddy’s
+  - Vizag Steel Plant
+seo_title: Andhra University College of Engineering (AUCE Vizag) B.Tech
+seo_description: >-
+  Check Andhra University College of Engineering (AUCE Vizag) Visakhapatnam,
+  Andhra Pradesh: B.Tech fee structure ₹1.50 - ₹2.50 Lakhs (Total 4 Years),
+  average pla
+keywords:
+  - Andhra University College of Engineering (AUCE Vizag) review
+  - Andhra University College of Engineering (AUCE Vizag) fees structure 2027
+  - Andhra University College of Engineering (AUCE Vizag) average package
+  - Andhra University College of Engineering (AUCE Vizag) placement report 2027
+  - Andhra University College of Engineering (AUCE Vizag) highest package
+  - Andhra University College of Engineering (AUCE Vizag) cutoff 2027
+  - Andhra University College of Engineering (AUCE Vizag) admission process
+  - Andhra University College of Engineering (AUCE Vizag) ranking
+  - >-
+    Andhra University College of Engineering (AUCE Vizag) Visakhapatnam, Andhra
+    Pradesh
+  - is Andhra University College of Engineering (AUCE Vizag) good
+  - Andhra University College of Engineering (AUCE Vizag) mohit jain review
+  - Andhra University College of Engineering (AUCE Vizag) hostel fees
+  - Andhra University College of Engineering (AUCE Vizag) contact number
+  - Andhra University College of Engineering (AUCE Vizag) B.Tech fees
+  - Andhra University College of Engineering (AUCE Vizag) CSE placement
+  - Andhra University College of Engineering (AUCE Vizag) B.Tech admission 2027
+  - 'engineering colleges Visakhapatnam, Andhra Pradesh'
 ---
 
 ### About Andhra University College of Engineering (AUCE Vizag)

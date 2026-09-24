@@ -15,6 +15,13 @@ keywords:
   - liberal arts India
   - law after 12th arts
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which arts degree has the highest salary?
     answer: >-
@@ -25,7 +32,7 @@ faqs:
     answer: >-
       Yes, arts students can excel as UI-UX Designers, Technical Writers, or
       Digital Marketers in the tech industry.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

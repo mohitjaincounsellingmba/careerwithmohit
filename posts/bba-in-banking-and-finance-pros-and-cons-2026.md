@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is BBA in Banking and Finance better than a General BBA?
     answer: >-
@@ -46,7 +51,7 @@ faqs:
       The most powerful post-graduation combinations are an MBA/PGDM in Finance,
       Chartered Financial Analyst (CFA), Certified Financial Planner (CFP), or
       Chartered Accountancy (CA).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -27,6 +27,13 @@ keywords:
   - free mock test series 2026
   - online exam preparation 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-
@@ -41,7 +48,7 @@ faqs:
     answer: >-
       Yes, all our online mock tests are fully responsive and optimized for
       mobile, tablet, and desktop practice.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 # Free MAT Mock Test 2026/27: Full 150-Question CBT for Sept, Dec, Feb & May MAT Sessions
@@ -66,6 +73,8 @@ To help you secure a **650+ Composite Score (95+%ile)**, **CareerWithMohit** pro
 > [👉 **Start Free MAT 2026/27 CBT Mock Test (150 Questions | 120 Mins)**](https://www.careerwithmohit.online/tools/mat-mock-test)
 >
 > *Supports Sept, Dec, Feb & May MAT sessions — No login barriers.*
+
+---
 
 ---
 

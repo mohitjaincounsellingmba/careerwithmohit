@@ -38,7 +38,7 @@ faqs:
       The college accepts scores from national level entrance examinations
       including Entrance Exam, Portfolio, Interview for the PGDM and MBA
       admissions.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

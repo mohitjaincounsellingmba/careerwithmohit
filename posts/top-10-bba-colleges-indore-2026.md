@@ -11,6 +11,13 @@ keywords:
   - bba admission 2026 Indore
   - bba fees Indore
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Finding the right undergraduate management program is the first step toward a successful career in business. Indore is home to some of the finest educational institutions in the country, offering state-of-the-art infrastructure, excellent faculty, and outstanding placement records.

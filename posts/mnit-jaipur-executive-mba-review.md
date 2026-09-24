@@ -18,6 +18,13 @@ keywords:
   - Jaipur executive mba
   - best executive mba in Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: MBA
 faqs:
   - question: Who can apply for the MNIT Jaipur Working Professionals MBA?
@@ -32,7 +39,7 @@ faqs:
     answer: >-
       Yes, MNIT conducts its own written assessment to test candidates on
       quantitative and verbal abilities.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

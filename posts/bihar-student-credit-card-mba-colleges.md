@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is the Bihar Student Credit Card really interest-free in 2026?
     answer: >-
@@ -33,7 +38,7 @@ faqs:
       your grace period.
   - question: How long does the verification process take?
     answer: Usually **45 to 60 days** from the date of your DRCC office visit.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

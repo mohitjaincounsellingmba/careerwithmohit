@@ -17,7 +17,14 @@ keywords:
   - Abstract GD topics for MBA
   - PESTLE framework for WAT
   - Direct Admission in Delhi
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: What is the Written Ability Test (WAT) in IIM admissions?
     answer: >-

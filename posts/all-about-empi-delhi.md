@@ -37,7 +37,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT for the PGDM and MBA admissions.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

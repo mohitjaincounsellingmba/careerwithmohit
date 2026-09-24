@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How to check MAT CBT scorecard online?
     answer: >-
@@ -43,7 +48,7 @@ faqs:
     answer: >-
       Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT
       scores interchangeably.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

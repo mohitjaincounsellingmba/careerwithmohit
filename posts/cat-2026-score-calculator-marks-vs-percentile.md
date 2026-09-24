@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the CAT 2026 raw score calculated?
     answer: >-
@@ -33,7 +37,7 @@ faqs:
       You can enter your sectional MCQs and TITA attempts in our online CAT 2026
       Score Calculator to instantly get your raw scores, scaled scores, and
       expected overall percentile.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

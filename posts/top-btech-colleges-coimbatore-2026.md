@@ -15,6 +15,13 @@ keywords:
   - tnea 2026 cutoff coimbatore
   - direct btech admission coimbatore
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Coimbatore have good B.Tech CSE colleges?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Usually starts in **June/July** after the 12th board results are
       announced.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

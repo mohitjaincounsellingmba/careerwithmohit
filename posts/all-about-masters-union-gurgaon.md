@@ -42,7 +42,7 @@ faqs:
       MU-BAAT is an aptitude test that evaluates critical thinking, logical
       reasoning, and data interpretation. It is followed by a very rigorous
       interview process focusing on your business mindset and past achievements.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

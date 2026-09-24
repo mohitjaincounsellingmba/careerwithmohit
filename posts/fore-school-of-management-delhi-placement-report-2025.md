@@ -41,7 +41,7 @@ faqs:
     answer: >-
       The CAT, XAT, and GMAT cutoffs for FORE School of Management typically
       range between 82 and 86 percentile for General applicants.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -1,21 +1,55 @@
 ---
-name: "IIM Udaipur"
-logo: "/logo.webp"
-location: "Balicha, Udaipur, Rajasthan"
-category: "Management"
-type: "Institute"
-courses: ["MBA (Flagship)", "1-Year MBA Digital Enterprise Management (DEM)", "1-Year MBA Global Supply Chain"]
+name: IIM Udaipur
+logo: /logo.webp
+location: 'Balicha, Udaipur, Rajasthan'
+category: Management
+type: Institute
+courses:
+  - MBA (Flagship)
+  - 1-Year MBA Digital Enterprise Management (DEM)
+  - 1-Year MBA Global Supply Chain
 established: 2011
-ownership: "Government Autonomous (IIM AACSB Accredited)"
-ranking: "NIRF Rank #22 (Management 2024) · FT Global Top 100 Mim"
-fees: "₹21.40 Lakhs (Total)"
-avg_placement: "₹20.30 LPA"
-highest_placement: "₹47.00 LPA"
-lowest_placement: "₹13.00 LPA"
-exams: ["CAT", "GMAT"]
-brochure_url: "#"
-website: "https://www.iimu.ac.in"
-top_recruiters: ["Accenture Strategy", "Amazon", "Bain Capability Network", "Deloitte", "Goldman Sachs", "ITC"]
+ownership: Government Autonomous (IIM AACSB Accredited)
+ranking: 'NIRF Rank #22 (Management 2024) · FT Global Top 100 Mim'
+fees: ₹21.40 Lakhs (Total)
+avg_placement: ₹20.30 LPA
+highest_placement: ₹47.00 LPA
+lowest_placement: ₹13.00 LPA
+exams:
+  - CAT
+  - GMAT
+brochure_url: '#'
+website: 'https://www.iimu.ac.in'
+top_recruiters:
+  - Accenture Strategy
+  - Amazon
+  - Bain Capability Network
+  - Deloitte
+  - Goldman Sachs
+  - ITC
+seo_title: 'IIM Udaipur MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Udaipur Balicha, Udaipur, Rajasthan: MBA/PGDM fee structure ₹21.40
+  Lakhs (Total), average placement ₹20.30 LPA, highest CTC, ranking, and 2027
+  admis
+keywords:
+  - IIM Udaipur review
+  - IIM Udaipur fees structure 2027
+  - IIM Udaipur average package
+  - IIM Udaipur placement report 2027
+  - IIM Udaipur highest package
+  - IIM Udaipur cutoff 2027
+  - IIM Udaipur admission process
+  - IIM Udaipur ranking
+  - 'IIM Udaipur Balicha, Udaipur, Rajasthan'
+  - is IIM Udaipur good
+  - IIM Udaipur mohit jain review
+  - IIM Udaipur hostel fees
+  - IIM Udaipur contact number
+  - IIM Udaipur MBA fees
+  - IIM Udaipur PGDM placement
+  - IIM Udaipur MBA admission 2027
+  - 'MBA colleges Balicha, Udaipur, Rajasthan'
 ---
 
 ### About IIM Udaipur

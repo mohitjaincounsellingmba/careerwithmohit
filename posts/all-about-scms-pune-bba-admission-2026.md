@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is there a reservation policy at SCMS Pune?
     answer: >-
@@ -26,7 +31,7 @@ faqs:
     answer: >-
       No, direct admission is not available for the BBA program. Every candidate
       must qualify for the SET and the subsequent PI-WAT rounds.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

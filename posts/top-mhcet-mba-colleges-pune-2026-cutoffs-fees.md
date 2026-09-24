@@ -15,6 +15,13 @@ keywords:
   - Balaji Pune MAH CET cutoff
   - MHCET MBA colleges Pune 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pune remains the most preferred destination for MAH MBA CET aspirants after Mumbai. With elite government departments like **PUMBA** and **COEP** offering high ROI, and massive private campuses like **Indira** and **Balaji**, there is a college for every percentile bracket.

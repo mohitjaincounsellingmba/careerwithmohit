@@ -18,6 +18,13 @@ keywords:
   - diploma to degree admission pune
   - Maharashtra DSE CAP rounds 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I change my branch during lateral entry?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
     answer: >-
       In government colleges like COEP, it is around ₹80k–₹1L per year. In
       private colleges like VIT or PICT, it ranges from ₹1.5L to ₹2.5L per year.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

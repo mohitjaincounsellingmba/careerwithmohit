@@ -14,6 +14,13 @@ keywords:
   - classplus alternatives
   - careerwithmohit app builder
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are there any hidden transaction fees on CareerWithMohit?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       Typically, Classplus and Graphy take 10-14 days to deploy your app on the
       Google Play Store and App Store. Under our premium package,
       CareerWithMohit can speed up delivery to under 7 business days.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

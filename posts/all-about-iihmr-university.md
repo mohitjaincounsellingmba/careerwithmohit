@@ -13,6 +13,13 @@ keywords:
   - iihmr university admission cutoff
   - iihmr university fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is IIHMR University a good option for PGDM/MBA?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

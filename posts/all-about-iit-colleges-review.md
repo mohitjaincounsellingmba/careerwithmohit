@@ -14,6 +14,13 @@ keywords:
   - IIT highest package
   - IIT Madras vs IIT Bombay
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Indian Institutes of Technology (IITs) are the most prestigious engineering institutions in India. Recognized globally for their rigorous academics, brilliant peer groups, and astronomical placement figures, getting into an older IIT (Bombay, Delhi, Madras, Kanpur, Kharagpur) is a dream for millions of students.

@@ -17,6 +17,13 @@ keywords:
   - SKIT Jaipur cutoff 2026
   - RTU Kota counselling REAP
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Who can apply for REAP 2026?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       MBM Jodhpur is traditionally considered the top-ranked preference followed
       by RTU Kota and CTAE Udaipur.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

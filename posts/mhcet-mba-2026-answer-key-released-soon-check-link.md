@@ -16,6 +16,13 @@ keywords:
   - JBIMS cutoff 2026
   - MHCET MBA result date
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The State Common Entrance Test Cell, Maharashtra, successfully conducted the **MAH MBA/MMS CET 2026 Phase 1** on April 6, 7, and 8. Thousands of aspirants are now eagerly waiting for the **MHCET MBA 2026 Answer Key** to calculate their raw scores and predict their chances for top institutes like JBIMS, SIMSREE, and PUMBA.

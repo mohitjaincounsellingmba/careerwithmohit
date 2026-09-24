@@ -17,6 +17,13 @@ keywords:
   - Akemi Business School placement 2026
   - direct admission Akemi Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Choosing the right MBA college in Pune can be overwhelming. With powerhouses like **ISMS** and **RIIM** frequently hitting the headlines, another rising star is capturing the attention of smart aspirants: **Akemi Business School (Pune)**.

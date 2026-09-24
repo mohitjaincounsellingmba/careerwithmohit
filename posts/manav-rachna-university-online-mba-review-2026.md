@@ -14,6 +14,10 @@ keywords:
   - Best Colleges in Faridabad
   - Faridabad Admissions 2026
   - Direct Admission in Faridabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +34,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Faridabad
 state: Delhi NCR
 ---
 **Manav Rachna University**, based in Faridabad, has long been a landmark in the Delhi-NCR educational landscape. Its online division, **Manav Rachna Centre for Distance and Online Education (MRCDOE)**, brings a legacy of high-quality management and engineering education to a flexible, digital format.

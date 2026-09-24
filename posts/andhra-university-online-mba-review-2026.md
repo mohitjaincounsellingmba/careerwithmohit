@@ -13,6 +13,13 @@ keywords:
   - lowest fee online MBA India
   - Andhra University distance MBA review
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Established in 1926, **Andhra University** is one of India's oldest and most prestigious state universities. Its entry into online education has democratized high-quality management degrees, offering one of the most budget-friendly **Online MBA** programs in the country.

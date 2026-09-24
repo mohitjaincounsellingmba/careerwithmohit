@@ -16,6 +16,13 @@ keywords:
   - christ university mca fees
   - direct mca admission bangalore
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Christ University require PGCET for MCA?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       "Technical Associate" or "Software Engineer" tracks.
   - question: When is the Karnataka PGCET 2026 exam?
     answer: Usually held in **July/August**. Registrations typically open in May/June.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

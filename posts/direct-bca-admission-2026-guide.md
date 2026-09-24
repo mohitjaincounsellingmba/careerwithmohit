@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the minimum percentage for direct BCA admission?
     answer: >-
@@ -37,7 +42,7 @@ faqs:
       The "Golden Window" is between **April and May** (after board exams). By
       June/July, even management quota seats in top colleges like Alliance or
       Galgotias fill up.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

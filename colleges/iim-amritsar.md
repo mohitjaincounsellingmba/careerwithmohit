@@ -1,21 +1,55 @@
 ---
-name: "IIM Amritsar"
-logo: "/logo.webp"
-location: "Manawala, Amritsar, Punjab"
-category: "Management"
-type: "Institute"
-courses: ["MBA (General)", "MBA Business Analytics", "MBA Human Resources"]
+name: IIM Amritsar
+logo: /logo.webp
+location: 'Manawala, Amritsar, Punjab'
+category: Management
+type: Institute
+courses:
+  - MBA (General)
+  - MBA Business Analytics
+  - MBA Human Resources
 established: 2015
-ownership: "Government Autonomous (IIM)"
-ranking: "NIRF Rank #47 (Management 2024)"
-fees: "₹17.50 Lakhs (Total)"
-avg_placement: "₹16.51 LPA"
-highest_placement: "₹36.25 LPA"
-lowest_placement: "₹10.50 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://iimamritsar.ac.in"
-top_recruiters: ["Accenture", "Deloitte", "Cognizant", "Adani", "BMW", "Cipla", "ICICI Bank"]
+ownership: Government Autonomous (IIM)
+ranking: 'NIRF Rank #47 (Management 2024)'
+fees: ₹17.50 Lakhs (Total)
+avg_placement: ₹16.51 LPA
+highest_placement: ₹36.25 LPA
+lowest_placement: ₹10.50 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://iimamritsar.ac.in'
+top_recruiters:
+  - Accenture
+  - Deloitte
+  - Cognizant
+  - Adani
+  - BMW
+  - Cipla
+  - ICICI Bank
+seo_title: 'IIM Amritsar MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Amritsar Manawala, Amritsar, Punjab: MBA/PGDM fee structure ₹17.50
+  Lakhs (Total), average placement ₹16.51 LPA, highest CTC, ranking, and 2027
+  admis
+keywords:
+  - IIM Amritsar review
+  - IIM Amritsar fees structure 2027
+  - IIM Amritsar average package
+  - IIM Amritsar placement report 2027
+  - IIM Amritsar highest package
+  - IIM Amritsar cutoff 2027
+  - IIM Amritsar admission process
+  - IIM Amritsar ranking
+  - 'IIM Amritsar Manawala, Amritsar, Punjab'
+  - is IIM Amritsar good
+  - IIM Amritsar mohit jain review
+  - IIM Amritsar hostel fees
+  - IIM Amritsar contact number
+  - IIM Amritsar MBA fees
+  - IIM Amritsar PGDM placement
+  - IIM Amritsar MBA admission 2027
+  - 'MBA colleges Manawala, Amritsar, Punjab'
 ---
 
 ### About IIM Amritsar

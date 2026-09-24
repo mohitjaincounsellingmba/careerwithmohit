@@ -18,8 +18,15 @@ keywords:
   - 'Top Universities in Kochi, South India'
   - Direct Admission in Kochi (Kakkanad / Valley Campus)
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: >-
       Is Rajagiri Business School / Rajagiri College of Social Sciences, Kochi a

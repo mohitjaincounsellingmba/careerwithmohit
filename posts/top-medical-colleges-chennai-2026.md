@@ -16,6 +16,13 @@ keywords:
   - tn neet counselling 2026
   - direct mbbs admission chennai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are government medical seats in Tamil Nadu open to outside students?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       Counselling registrations typically open in **July** after the NEET
       results.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

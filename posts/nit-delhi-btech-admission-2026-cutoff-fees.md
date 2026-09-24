@@ -36,7 +36,7 @@ faqs:
       for CSE students.
   - question: Which entrance exam is needed for NIT Delhi?
     answer: Admission is strictly through JEE Main 2026 and JoSAA/CSAB counselling.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

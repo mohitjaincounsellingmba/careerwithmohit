@@ -13,6 +13,13 @@ keywords:
   - Jaipur executive mba
   - best executive mba in Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: MBA
 faqs:
   - question: Is Taxila Business School AICTE approved?
@@ -27,7 +34,7 @@ faqs:
     answer: >-
       Yes, Taxila provides dedicated placement support to help candidates
       transition laterally.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

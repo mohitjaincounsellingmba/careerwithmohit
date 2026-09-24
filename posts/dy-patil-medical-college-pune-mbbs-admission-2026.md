@@ -15,6 +15,13 @@ keywords:
   - 'Dr. D. Y. Patil Vidyapeeth, Pune MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the tuition fee for DY Patil Pune MBBS?
     answer: The tuition fee starts at around ₹25 Lakhs to ₹26.5 Lakhs per year.
@@ -22,7 +29,7 @@ faqs:
     answer: 'Yes, it is fully recognized by the National Medical Commission (NMC).'
   - question: What score is required for DY Patil Pune MBBS seat?
     answer: Expected NEET score is 250-350 in MCC Deemed Counselling.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

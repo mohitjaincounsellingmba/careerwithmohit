@@ -1,22 +1,69 @@
 ---
-name: "NIT Meghalaya (National Institute of Technology Meghalaya)"
-logo: ""
-location: "Shillong, Meghalaya"
-state: "Assam & North East"
-category: "Engineering"
-type: "Institute of National Importance (NIT)"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Electronics & Communication", "B.Tech Electrical & Electronics", "B.Tech Mechanical Engineering", "B.Tech Civil Engineering", "M.Tech Computer Science"]
+name: NIT Meghalaya (National Institute of Technology Meghalaya)
+logo: ''
+location: 'Shillong, Meghalaya'
+state: Assam & North East
+category: Engineering
+type: Institute of National Importance (NIT)
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Electrical & Electronics
+  - B.Tech Mechanical Engineering
+  - B.Tech Civil Engineering
+  - M.Tech Computer Science
 established: 2010
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #68 (Engineering 2024)"
-fees: "₹5.50 - ₹6.50 Lakhs (Total 4 Years)"
-avg_placement: "₹11.20 LPA"
-highest_placement: "₹32.00 LPA"
-lowest_placement: "₹7.00 LPA"
-exams: ["JEE Main", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://www.nitm.ac.in"
-top_recruiters: ["Amazon", "Samsung R&D", "Cognizant", "Infosys", "L&T", "Wipro", "Deloitte"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #68 (Engineering 2024)'
+fees: ₹5.50 - ₹6.50 Lakhs (Total 4 Years)
+avg_placement: ₹11.20 LPA
+highest_placement: ₹32.00 LPA
+lowest_placement: ₹7.00 LPA
+exams:
+  - JEE Main
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://www.nitm.ac.in'
+top_recruiters:
+  - Amazon
+  - Samsung R&D
+  - Cognizant
+  - Infosys
+  - L&T
+  - Wipro
+  - Deloitte
+seo_title: NIT Meghalaya (National Institute of Technology Meghalaya) B
+seo_description: >-
+  Check NIT Meghalaya (National Institute of Technology Meghalaya) Shillong,
+  Meghalaya: B.Tech fee structure ₹5.50 - ₹6.50 Lakhs (Total 4 Years), average
+  placemen
+keywords:
+  - NIT Meghalaya (National Institute of Technology Meghalaya) review
+  - >-
+    NIT Meghalaya (National Institute of Technology Meghalaya) fees structure
+    2027
+  - NIT Meghalaya (National Institute of Technology Meghalaya) average package
+  - >-
+    NIT Meghalaya (National Institute of Technology Meghalaya) placement report
+    2027
+  - NIT Meghalaya (National Institute of Technology Meghalaya) highest package
+  - NIT Meghalaya (National Institute of Technology Meghalaya) cutoff 2027
+  - NIT Meghalaya (National Institute of Technology Meghalaya) admission process
+  - NIT Meghalaya (National Institute of Technology Meghalaya) ranking
+  - >-
+    NIT Meghalaya (National Institute of Technology Meghalaya) Shillong,
+    Meghalaya
+  - is NIT Meghalaya (National Institute of Technology Meghalaya) good
+  - NIT Meghalaya (National Institute of Technology Meghalaya) mohit jain review
+  - NIT Meghalaya (National Institute of Technology Meghalaya) hostel fees
+  - NIT Meghalaya (National Institute of Technology Meghalaya) contact number
+  - NIT Meghalaya (National Institute of Technology Meghalaya) B.Tech fees
+  - NIT Meghalaya (National Institute of Technology Meghalaya) CSE placement
+  - >-
+    NIT Meghalaya (National Institute of Technology Meghalaya) B.Tech admission
+    2027
+  - 'engineering colleges Shillong, Meghalaya'
 ---
 
 ### About NIT Meghalaya (National Institute of Technology Meghalaya)

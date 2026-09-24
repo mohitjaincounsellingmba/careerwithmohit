@@ -22,7 +22,12 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-location: Delhi NCR
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Noida
 faqs:
   - question: What raw score is needed for a 99 percentile in CAT 2026?
     answer: >-

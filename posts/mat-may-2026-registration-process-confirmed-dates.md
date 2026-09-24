@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +36,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 The **All India Management Association (AIMA)** has officially released the finalized schedule for the **MAT May 2026 session**. For MBA aspirants who missed the earlier sessions or want to improve their scores for the 2027–29 academic batch, this is the most critical window.

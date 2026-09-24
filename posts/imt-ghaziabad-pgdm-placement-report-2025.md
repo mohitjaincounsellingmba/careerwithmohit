@@ -59,7 +59,7 @@ faqs:
     answer: >-
       IMT Ghaziabad accepts CAT, XAT, and GMAT scores, with shortlist cutoffs
       typically around 90–93 percentile in CAT/XAT.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

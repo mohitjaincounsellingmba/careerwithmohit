@@ -1,21 +1,56 @@
 ---
-name: "IIM Kozhikode (IIM-K)"
-logo: "/logo.webp"
-location: "Kozhikode, Kerala"
-category: "Management"
-type: "Institute"
-courses: ["PGP (MBA)", "PGP-Finance", "PGP-Liberal Studies & Management", "PGP-Business Leadership"]
+name: IIM Kozhikode (IIM-K)
+logo: /logo.webp
+location: 'Kozhikode, Kerala'
+category: Management
+type: Institute
+courses:
+  - PGP (MBA)
+  - PGP-Finance
+  - PGP-Liberal Studies & Management
+  - PGP-Business Leadership
 established: 1996
-ownership: "Government Autonomous (IIM)"
-ranking: "NIRF Rank #3 (Management 2024) · EQUIS & AMBA Accredited"
-fees: "₹22.50 Lakhs (Total)"
-avg_placement: "₹31.02 LPA"
-highest_placement: "₹72.00 LPA"
-lowest_placement: "₹18.00 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://www.iimk.ac.in"
-top_recruiters: ["McKinsey", "Boston Consulting Group", "Goldman Sachs", "Morgan Stanley", "Amazon", "HUL", "ITC"]
+ownership: Government Autonomous (IIM)
+ranking: 'NIRF Rank #3 (Management 2024) · EQUIS & AMBA Accredited'
+fees: ₹22.50 Lakhs (Total)
+avg_placement: ₹31.02 LPA
+highest_placement: ₹72.00 LPA
+lowest_placement: ₹18.00 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://www.iimk.ac.in'
+top_recruiters:
+  - McKinsey
+  - Boston Consulting Group
+  - Goldman Sachs
+  - Morgan Stanley
+  - Amazon
+  - HUL
+  - ITC
+seo_title: 'IIM Kozhikode (IIM-K) MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Kozhikode (IIM-K) Kozhikode, Kerala: MBA/PGDM fee structure ₹22.50
+  Lakhs (Total), average placement ₹31.02 LPA, highest CTC, ranking, and 2027
+  admis
+keywords:
+  - IIM Kozhikode (IIM-K) review
+  - IIM Kozhikode (IIM-K) fees structure 2027
+  - IIM Kozhikode (IIM-K) average package
+  - IIM Kozhikode (IIM-K) placement report 2027
+  - IIM Kozhikode (IIM-K) highest package
+  - IIM Kozhikode (IIM-K) cutoff 2027
+  - IIM Kozhikode (IIM-K) admission process
+  - IIM Kozhikode (IIM-K) ranking
+  - 'IIM Kozhikode (IIM-K) Kozhikode, Kerala'
+  - is IIM Kozhikode (IIM-K) good
+  - IIM Kozhikode (IIM-K) mohit jain review
+  - IIM Kozhikode (IIM-K) hostel fees
+  - IIM Kozhikode (IIM-K) contact number
+  - IIM Kozhikode (IIM-K) MBA fees
+  - IIM Kozhikode (IIM-K) PGDM placement
+  - IIM Kozhikode (IIM-K) MBA admission 2027
+  - 'MBA colleges Kozhikode, Kerala'
 ---
 
 ### About IIM Kozhikode (IIM-K)

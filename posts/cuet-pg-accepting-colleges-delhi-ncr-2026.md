@@ -41,7 +41,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Delhi NCR is the hub of higher education in India, offering a mix of prestigious central universities and high-growth private institutions. With the **CUET PG 2026** becoming the standard entrance for postgraduate studies, students have a unified gateway to enter some of the best campuses in the region.

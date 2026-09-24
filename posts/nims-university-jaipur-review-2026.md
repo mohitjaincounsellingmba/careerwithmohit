@@ -16,8 +16,15 @@ keywords:
   - Top Universities in Jaipur
   - Direct Admission in Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: 'Is NIMS University, Jaipur a good choice for higher education in 2026?'
     answer: >-

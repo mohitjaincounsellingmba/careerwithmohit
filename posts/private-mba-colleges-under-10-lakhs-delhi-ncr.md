@@ -48,7 +48,7 @@ faqs:
       An MBA under ₹10 Lakhs in the NCR region is highly achievable and
       strategically sound if you aim for institutions that prioritize
       skill-building over lavish campus aesthetics!
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

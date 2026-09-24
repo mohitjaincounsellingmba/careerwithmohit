@@ -38,7 +38,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 While rankings, fees, and placements are primary criteria, campus life is equally important. The environment you live in, the quality of mentorship you receive, and the practical internships you secure during college shape your personal and professional growth.

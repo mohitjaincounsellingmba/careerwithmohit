@@ -21,6 +21,13 @@ keywords:
   - JIMS Kalkaji vs NDIM Delhi
   - JIMS Kalkaji vs FIIB Delhi
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the exact total fee for PGDM at JIMS Kalkaji for 2027–2029?
     answer: >-
@@ -52,7 +59,7 @@ faqs:
       Yes. JIMS Kalkaji is approved by AICTE, accredited by NBA, accredited
       internationally by SAQS, and its PGDM is granted official MBA equivalence
       by the Association of Indian Universities (AIU).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

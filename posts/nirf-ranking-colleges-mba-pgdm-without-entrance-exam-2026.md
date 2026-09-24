@@ -19,6 +19,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get admission in a NIRF ranked MBA college without CAT or MAT?
     answer: >-
@@ -54,7 +59,7 @@ faqs:
       The tuition fee ranges from ₹2.5 Lakhs to ₹6.0 Lakhs for online/distance
       programs, and ₹6.0 Lakhs to ₹16.0 Lakhs for regular full-time MBA/PGDM
       programs at private NIRF-ranked universities.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

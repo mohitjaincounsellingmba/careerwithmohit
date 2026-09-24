@@ -69,7 +69,7 @@ faqs:
       Distance Education Bureau (deb.ugc.ac.in) for online/distance MBA
       approvals. Always cross-verify the exact campus name, address, and
       year-by-year approval letter.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

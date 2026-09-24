@@ -15,6 +15,13 @@ keywords:
   - section 80d medical insurance limit
   - tax saving tips for salaried individuals
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is PPF interest taxable?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
     answer: >-
       **April.** Start a Monthly SIP in ELSS from April to avoid the last-minute
       liquidity crunch in March.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

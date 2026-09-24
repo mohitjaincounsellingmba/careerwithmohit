@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Entrance exams like CUET, SET, and IPU CET can be highly competitive and stressful. If you did not get your target score in these exams or missed the application deadlines, you might wonder: *"Can I get into a top BBA college in Delhi NCR without an entrance exam?"*

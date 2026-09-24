@@ -14,6 +14,13 @@ keywords:
   - B.Tech vs MBBS after 12th
   - careers in AI and Data Science India
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are there high-paying science jobs that don't require NEET?
     answer: >-
@@ -24,7 +31,7 @@ faqs:
       B.Tech is a professional degree focused on applied engineering, while B.Sc
       is an academic degree focused on theoretical concepts and research. Choose
       based on your career goal (Job vs. Research).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

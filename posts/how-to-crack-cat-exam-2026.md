@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can a student with average academics crack CAT?
     answer: >-
@@ -34,7 +38,7 @@ faqs:
       No. Many self-studying students crack CAT using online resources, standard
       books (like Arun Sharma), and quality mock test series. Consistency and
       self-discipline are the actual keys.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

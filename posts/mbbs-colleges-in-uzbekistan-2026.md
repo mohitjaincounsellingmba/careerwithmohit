@@ -14,6 +14,13 @@ keywords:
   - cheapest mbbs abroad 2026
   - nmc approved medical colleges in uzbekistan
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total budget for MBBS in Uzbekistan in 2026?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       Yes, premier government medical universities in Uzbekistan have structured
       5+1 year programs (54 months study + 12 months internship) in 100% English
       medium.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

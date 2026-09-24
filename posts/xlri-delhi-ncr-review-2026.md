@@ -37,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at XLRI Delhi NCR
       is approximately ₹25.0 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -12,6 +12,13 @@ keywords:
   - Vivekananda Global University Jaipur CUET PG
   - Suresh Gyan Vihar University Jaipur CUET PG
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Jaipur, the Pink City, is not just a tourist hub but also a thriving center for higher education in North India. With the **CUET PG 2026** score becoming a standard for PG admissions, students in Jaipur can now access some of the best management, technical, and arts programs.

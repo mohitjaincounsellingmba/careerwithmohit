@@ -13,6 +13,13 @@ keywords:
   - Mumbai executive mba
   - best executive mba in Mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: MBA
 faqs:
   - question: Who can apply for the IIM Mumbai VLFM program?
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       The average CTC ranges from ₹22.00 to ₹25.00 LPA, with top consulting and
       manufacturing companies recruiting.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

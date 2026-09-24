@@ -14,6 +14,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the maximum loan amount under the DRCC Scheme?
     answer: >-
@@ -47,7 +52,7 @@ faqs:
       dynamic government reviews based on NAAC/NBA renewals. Always verify the
       college's current DRCC/MNSSBY portal status with their admission office
       before paying your booking amount.*
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

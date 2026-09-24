@@ -40,7 +40,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU), founded by the Hero Group, has set its focus on experimental learning and career-readiness. Its MBA program is particularly known for high-tier industry links and competitive salary outcomes in Gurgaon's corporate hub.

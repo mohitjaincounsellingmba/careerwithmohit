@@ -15,6 +15,13 @@ keywords:
   - international institute of health management research admission cutoff
   - international institute of health management research fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Is International Institute of Health Management Research a good option for
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

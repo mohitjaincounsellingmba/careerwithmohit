@@ -42,7 +42,7 @@ faqs:
     answer: >-
       Yes, FORE has a balanced mix of freshers and students with professional
       work experience, offering a diverse learning environment.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

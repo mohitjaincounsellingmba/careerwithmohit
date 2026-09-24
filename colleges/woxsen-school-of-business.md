@@ -1,21 +1,58 @@
 ---
-name: "Woxsen School of Business, Woxsen University"
-logo: "/logo.webp"
-location: "Hyderabad, Telangana"
-category: "Management"
-type: "University"
-courses: ["MBA (General)", "MBA Business Analytics", "MBA Financial Services"]
+name: 'Woxsen School of Business, Woxsen University'
+logo: /logo.webp
+location: 'Hyderabad, Telangana'
+category: Management
+type: University
+courses:
+  - MBA (General)
+  - MBA Business Analytics
+  - MBA Financial Services
 established: 2014
-ownership: "Private University (EFMD, AMBA, AACSB Member)"
-ranking: "Top 15 Private B-Schools India · Bloomberg Best B-Schools Rank #3 Asia"
-fees: "₹15.20 Lakhs (Total)"
-avg_placement: "₹9.04 LPA"
-highest_placement: "₹17.00 LPA"
-lowest_placement: "₹6.50 LPA"
-exams: ["CAT", "XAT", "NMAT", "GMAT", "WAT (Woxsen Aptitude Test)"]
-brochure_url: "#"
-website: "https://woxsen.edu.in"
-top_recruiters: ["Morgan Stanley", "KPMG", "Aditya Birla Group", "Dell", "Amazon", "Tata Advanced Systems"]
+ownership: 'Private University (EFMD, AMBA, AACSB Member)'
+ranking: 'Top 15 Private B-Schools India · Bloomberg Best B-Schools Rank #3 Asia'
+fees: ₹15.20 Lakhs (Total)
+avg_placement: ₹9.04 LPA
+highest_placement: ₹17.00 LPA
+lowest_placement: ₹6.50 LPA
+exams:
+  - CAT
+  - XAT
+  - NMAT
+  - GMAT
+  - WAT (Woxsen Aptitude Test)
+brochure_url: '#'
+website: 'https://woxsen.edu.in'
+top_recruiters:
+  - Morgan Stanley
+  - KPMG
+  - Aditya Birla Group
+  - Dell
+  - Amazon
+  - Tata Advanced Systems
+seo_title: 'Woxsen School of Business, Woxsen University MBA Fees, Cutof'
+seo_description: >-
+  Explore Woxsen School of Business, Woxsen University Hyderabad, Telangana:
+  MBA/PGDM fee structure ₹15.20 Lakhs (Total), average placement ₹9.04 LPA,
+  highest CTC
+keywords:
+  - 'Woxsen School of Business, Woxsen University review'
+  - 'Woxsen School of Business, Woxsen University fees structure 2027'
+  - 'Woxsen School of Business, Woxsen University average package'
+  - 'Woxsen School of Business, Woxsen University placement report 2027'
+  - 'Woxsen School of Business, Woxsen University highest package'
+  - 'Woxsen School of Business, Woxsen University cutoff 2027'
+  - 'Woxsen School of Business, Woxsen University admission process'
+  - 'Woxsen School of Business, Woxsen University ranking'
+  - 'Woxsen School of Business, Woxsen University Hyderabad, Telangana'
+  - 'is Woxsen School of Business, Woxsen University good'
+  - 'Woxsen School of Business, Woxsen University mohit jain review'
+  - 'Woxsen School of Business, Woxsen University hostel fees'
+  - 'Woxsen School of Business, Woxsen University contact number'
+  - 'Woxsen School of Business, Woxsen University MBA fees'
+  - 'Woxsen School of Business, Woxsen University PGDM placement'
+  - 'Woxsen School of Business, Woxsen University MBA admission 2027'
+  - 'MBA colleges Hyderabad, Telangana'
 ---
 
 ### About Woxsen School of Business, Woxsen University

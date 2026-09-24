@@ -39,7 +39,7 @@ faqs:
     answer: >-
       The total fee package is around ₹85 Lakhs including tuition fee and hostel
       charges.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

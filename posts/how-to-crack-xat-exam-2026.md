@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Ghaziabad
   - Ghaziabad Admissions 2026
   - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is XAT tougher than CAT?
     answer: >-
@@ -34,7 +38,7 @@ faqs:
       The essay is evaluated during the second stage of selection. Spend 15
       minutes drafting a balanced, logical, and structured argument. Use
       real-life examples and avoid using overly complicated language.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

@@ -18,6 +18,13 @@ keywords:
   - SRM online MBA placement 2026
   - is SRM online MBA worth it
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the difference between SRM on-campus and online MBA?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
       SRM focuses on niche specializations (AI, Healthcare) and has stronger
       tech sector ties. Amity offers more specializations (15+), while CU Online
       is more affordable. Compare based on your career target.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

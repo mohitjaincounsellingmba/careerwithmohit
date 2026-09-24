@@ -37,7 +37,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 ### **College Review: SAITM Gurgaon**

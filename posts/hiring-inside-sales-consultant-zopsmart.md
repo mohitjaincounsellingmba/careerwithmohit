@@ -40,7 +40,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Are you looking for a high-impact role in the industry? **Zopsmart** is hiring a **Inside Sales Consultant** for their **Noida, UP** team. This is a premium opportunity with a verified referral link to fast-track your application.

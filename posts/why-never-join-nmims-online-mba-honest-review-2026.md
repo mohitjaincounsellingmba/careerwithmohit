@@ -13,6 +13,13 @@ keywords:
   - problems with NMIMS online exams
   - why skip online MBA at NMIMS
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is NMIMS Online MBA valid for Government Jobs?
     answer: >-
@@ -26,7 +33,7 @@ faqs:
       itself.
   - question: Is the degree certificate different from the Mumbai campus?
     answer: "Yes. It clearly mentions \"NMIMS Global Access School for Continuing Education.\" Every HR will know the difference immediately.\n\n[\U0001F449 Get a Free Career Audit Before You Pay!](/inquiry)\n\n**Don't Let Marketing Define Your Future.**\nAt **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not just the brand. \n\n[\U0001F449 Speak to an Honest Consultant Now!](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

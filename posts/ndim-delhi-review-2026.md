@@ -1,11 +1,14 @@
 ---
-title: 'NDIM Delhi Review 2026–2027: PGDM Fees, Placements, Cutoffs, Direct Admission & Honest Verdict'
+title: >-
+  NDIM Delhi Review 2026–2027: PGDM Fees, Placements, Cutoffs, Direct Admission
+  & Honest Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  Updated NDIM Delhi review for 2026–2027 admissions. Discover verified PGDM fee structure
-  (₹13.75 Lakhs), latest 2025–2026 placement packages (avg ₹10.00 LPA, highest ₹16.0–₹24.0 LPA),
-  CAT/MAT cutoffs, South Delhi campus pros & cons, and admission process.
+  Updated NDIM Delhi review for 2026–2027 admissions. Discover verified PGDM fee
+  structure (₹13.75 Lakhs), latest 2025–2026 placement packages (avg ₹10.00 LPA,
+  highest ₹16.0–₹24.0 LPA), CAT/MAT cutoffs, South Delhi campus pros & cons, and
+  admission process.
 keywords:
   - NDIM Delhi review
   - NDIM Delhi review 2026
@@ -31,36 +34,53 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
 faqs:
-  - question: What is the exact total fee structure for PGDM at NDIM Delhi for the 2026–2028 batch?
+  - question: >-
+      What is the exact total fee structure for PGDM at NDIM Delhi for the
+      2026–2028 batch?
     answer: >-
-      The total official course fee for the 2-year full-time PGDM program at New Delhi Institute of Management (NDIM)
-      is ₹13.75 Lakhs under the annual payment plan (Year 1: ₹6,90,000 and Year 2: ₹6,85,000). For students paying
-      semester-wise, the fee is ₹3,45,000 per semester for the first three semesters and ₹3,40,000 for the fourth
-      semester, plus a ₹5,000/year convenience fee, totaling ₹13.85 Lakhs. Off-campus dedicated hostel accommodation
-      starts from ₹9,500 to ₹13,000 per month including food, Wi-Fi, and transport.
-  - question: What was the highest and average placement package at NDIM Delhi in 2025–2026?
+      The total official course fee for the 2-year full-time PGDM program at New
+      Delhi Institute of Management (NDIM) is ₹13.75 Lakhs under the annual
+      payment plan (Year 1: ₹6,90,000 and Year 2: ₹6,85,000). For students
+      paying semester-wise, the fee is ₹3,45,000 per semester for the first
+      three semesters and ₹3,40,000 for the fourth semester, plus a ₹5,000/year
+      convenience fee, totaling ₹13.85 Lakhs. Off-campus dedicated hostel
+      accommodation starts from ₹9,500 to ₹13,000 per month including food,
+      Wi-Fi, and transport.
+  - question: >-
+      What was the highest and average placement package at NDIM Delhi in
+      2025–2026?
     answer: >-
-      In the recent 2024–2025 and 2025–2026 placement cycles, NDIM Delhi recorded an overall average CTC of ₹10.00 LPA,
-      with the top 25% of the batch securing an average of ₹12.80 LPA. The latest audited highest domestic package
-      stands between ₹16.00 LPA and ₹17.50 LPA, with peak and international offers reaching up to ₹24.00 – ₹24.40 LPA
-      across 250+ recruiting firms.
+      In the recent 2024–2025 and 2025–2026 placement cycles, NDIM Delhi
+      recorded an overall average CTC of ₹10.00 LPA, with the top 25% of the
+      batch securing an average of ₹12.80 LPA. The latest audited highest
+      domestic package stands between ₹16.00 LPA and ₹17.50 LPA, with peak and
+      international offers reaching up to ₹24.00 – ₹24.40 LPA across 250+
+      recruiting firms.
   - question: What entrance exams and cutoffs are required for NDIM Delhi admission?
     answer: >-
-      NDIM Delhi accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT. The expected cutoff ranges between 60–65 percentile
-      in CAT/XAT, 75–80 percentile in MAT/ATMA, and 70–75 percentile in CMAT. Candidate profiles with strong academics,
-      extracurriculars, or work experience are also evaluated through profile-based shortlisting rounds.
+      NDIM Delhi accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT. The expected
+      cutoff ranges between 60–65 percentile in CAT/XAT, 75–80 percentile in
+      MAT/ATMA, and 70–75 percentile in CMAT. Candidate profiles with strong
+      academics, extracurriculars, or work experience are also evaluated through
+      profile-based shortlisting rounds.
   - question: Is NDIM Delhi PGDM equivalent to an MBA degree?
     answer: >-
-      Yes. NDIM is approved by the All India Council for Technical Education (AICTE), accredited by the National
-      Board of Accreditation (NBA), and its PGDM has been officially granted MBA equivalence by the Association of Indian
-      Universities (AIU).
+      Yes. NDIM is approved by the All India Council for Technical Education
+      (AICTE), accredited by the National Board of Accreditation (NBA), and its
+      PGDM has been officially granted MBA equivalence by the Association of
+      Indian Universities (AIU).
   - question: What is the seat intake and scholarship availability at NDIM Delhi?
     answer: >-
-      NDIM Delhi has an AICTE-approved intake of 420 seats for its flagship PGDM programs. The institute has instituted
-      a dedicated ₹2.5 Crore scholarship corpus for the 2026–2028 batch for meritorious candidates based on entrance
-      scores and academic performance.
-location: Delhi NCR
+      NDIM Delhi has an AICTE-approved intake of 420 seats for its flagship PGDM
+      programs. The institute has instituted a dedicated ₹2.5 Crore scholarship
+      corpus for the 2026–2028 batch for meritorious candidates based on
+      entrance scores and academic performance.
+location: Delhi
 state: Delhi NCR
 ---
 

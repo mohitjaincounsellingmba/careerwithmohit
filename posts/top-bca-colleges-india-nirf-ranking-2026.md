@@ -15,6 +15,13 @@ keywords:
   - best computer application college india
   - bca placements 2025 india highest package
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are placements in BCA good?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
       In about 70-80% of top-tier colleges, Mathematics at 10+2 is a mandatory
       requirement. However, some private universities offer bridge courses for
       non-maths students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

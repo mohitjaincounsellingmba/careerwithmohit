@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the minimum percentage for direct MCA admission?
     answer: >-
@@ -38,7 +43,7 @@ faqs:
       The "Golden Window" is **May to June** (after your final semester exams).
       By August, even management seats in top colleges like RVCE or MIT-WPU are
       filled.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

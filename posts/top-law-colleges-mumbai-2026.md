@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Does [NMIMS Mumbai](/colleges/nmims-mumbai) accept CLAT?'
     answer: >-
@@ -34,7 +39,7 @@ faqs:
       internships.
   - question: When is the MAH CET Law 2026 exam?
     answer: 'The 5-year CET is usually in **May**, and the 3-year CET is in **June**.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

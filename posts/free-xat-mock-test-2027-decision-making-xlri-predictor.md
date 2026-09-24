@@ -25,6 +25,13 @@ keywords:
   - free mock test series 2026
   - online exam preparation 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is unique about the XAT exam?
     answer: >-
@@ -38,7 +45,7 @@ faqs:
     answer: >-
       For BM (Business Management), a percentile of 96+ is required for male
       candidates and 93+ for female candidates.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 # Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor
@@ -63,6 +70,8 @@ To help you master this format, **CareerWithMohit** provides a **100% Free Full-
 > [👉 **Start Free XAT 2027 Full Mock Test (95 Questions | 175 Mins)**](/tools/mock-test/xat/)
 >
 > *Instant Decision Making & Sectional Analysis — Completely Free.*
+
+---
 
 ---
 

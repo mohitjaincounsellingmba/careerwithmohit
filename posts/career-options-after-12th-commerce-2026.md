@@ -14,6 +14,13 @@ keywords:
   - CA vs CS vs CMA
   - career counselling after 12th commerce India
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is math compulsory for BBA?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       Top options include **CA, CS, Law (LLB), Hotel Management, and Digital
       Marketing.**
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

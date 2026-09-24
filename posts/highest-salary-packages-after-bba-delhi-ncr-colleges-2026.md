@@ -40,7 +40,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Many students assume that high-paying corporate roles in consulting, investment banking, and management analytics are reserved for MBA graduates. However, top-tier BBA colleges in Delhi NCR have broken this myth, securing record-breaking placements directly at the undergraduate level.

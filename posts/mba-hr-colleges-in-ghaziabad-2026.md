@@ -37,7 +37,7 @@ faqs:
     answer: >-
       No, IMT Ghaziabad accepts only CAT, XAT, and GMAT scores for its flagship
       PGDM programs.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

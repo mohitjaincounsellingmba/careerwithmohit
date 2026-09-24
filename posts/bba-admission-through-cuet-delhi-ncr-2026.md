@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 The **Common University Entrance Test (CUET UG)** has fundamentally changed the landscape of undergraduate admissions in India. For business aspirants in the Delhi National Capital Region (NCR), CUET is now the primary gateway to secure a seat in some of the country's most prestigious BBA and BMS programs.

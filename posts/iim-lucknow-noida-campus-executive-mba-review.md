@@ -49,7 +49,7 @@ faqs:
     answer: >-
       Yes, the program includes a mandatory international immersion module at a
       partner foreign university.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

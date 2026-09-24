@@ -17,6 +17,13 @@ keywords:
     MBBS process
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the MBBS tuition fee for MGMCRI Puducherry?
     answer: The annual tuition fee is approximately ₹22 Lakhs.
@@ -26,7 +33,7 @@ faqs:
     answer: >-
       Yes, admissions are conducted online through MCC Deemed University
       counselling.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

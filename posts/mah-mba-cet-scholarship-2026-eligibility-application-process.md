@@ -13,6 +13,13 @@ keywords:
   - Maharashtra MBA fee reimbursement
   - Rajarshi Shahu Maharaj scholarship MBA 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 For many MBA aspirants in Maharashtra, the high fees of top B-schools like JBIMS, SIMSREE, and PUMBA can be a concern. However, if you are a domicile of Maharashtra and have secured admission through the **Centralized Admission Process (CAP)**, you are eligible for significant government scholarships that can cover up to 50% to 100% of your tuition fees.

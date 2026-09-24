@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pursuing a Bachelor of Business Administration (BBA) does not have to drain your financial resources. While premium private institutions charge hefty fees, several top-tier universities and colleges in Delhi NCR offer outstanding management education at an affordable price.

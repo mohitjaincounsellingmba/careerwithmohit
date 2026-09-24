@@ -14,6 +14,13 @@ keywords:
   - iim indore integrated mba
   - best bba program in india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Indore accept SAT scores for IPM?
     answer: >-
@@ -21,7 +28,7 @@ faqs:
       is generally for international/NRI candidates.
   - question: How many seats are available in IIM Indore IPM?
     answer: There are approximately 150 seats available for the 2027–2029 intake.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

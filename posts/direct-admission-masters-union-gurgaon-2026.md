@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Masters Union is not a traditional university; it offers a Post Graduate
       Program (PGP) which is valued by global industry leaders and top startups.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

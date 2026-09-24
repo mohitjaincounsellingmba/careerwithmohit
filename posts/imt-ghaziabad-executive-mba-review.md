@@ -37,7 +37,7 @@ faqs:
       months of a live field project.
   - question: What are the accepted entrance test scores?
     answer: 'IMT accepts valid scores from CAT, XAT, and GMAT.'
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

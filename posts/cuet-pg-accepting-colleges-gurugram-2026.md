@@ -39,7 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Gurugram, the "Millennium City" of India, is the primary destination for corporate management and research. Hosting hundreds of Fortune 500 companies, Gurugram offers an unmatched environment for postgraduate studies. With **CUET PG 2026** becoming a standard entrance, many of its premier private universities have integrated the CUET score into their admission process.

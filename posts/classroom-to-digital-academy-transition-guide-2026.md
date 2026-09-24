@@ -15,6 +15,13 @@ keywords:
   - set up online classroom for teachers
   - online teaching equipment for educators
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is it expensive to build a digital platform?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       **Pre-Season.** Start your digital transition 3 months before the start of
       a new academic session (e.g., start in January for the April session).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

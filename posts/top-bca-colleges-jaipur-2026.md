@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Manipal Jaipur require Maths for BCA?
     answer: >-
@@ -34,7 +39,7 @@ faqs:
     answer: >-
       Usually in **June/July**, following the RBSE and CBSE board result
       declarations.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

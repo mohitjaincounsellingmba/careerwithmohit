@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -32,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 If you are an MBA or BBA aspirant in Delhi, the name "JIMS" is hard to miss. However, the biggest confusion for students is the existence of multiple campuses within the same brand. Specifically, the debate often revolves around **JIMS Rohini Sector 5**, **JIMS Rohini Sector 3**, and **JIMS Kalkaji**.

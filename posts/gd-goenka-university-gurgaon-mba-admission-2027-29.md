@@ -1,9 +1,15 @@
 ---
-title: 'GD Goenka University (School of Management) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  GD Goenka University (School of Management) MBA / PGDM Admission 2027-29:
+  Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for GD Goenka University (School of Management) (GD Goenka Gurgaon). Verified fee structure (₹8.50 Lakhs (Total)), MBA approvals, audited placements (Avg ₹6.50 LPA, Highest ₹17.50 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for GD Goenka University (School of
+  Management) (GD Goenka Gurgaon). Verified fee structure (₹8.50 Lakhs (Total)),
+  MBA approvals, audited placements (Avg ₹6.50 LPA, Highest ₹17.50 LPA), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - GD Goenka University (School of Management) admission 2027-29
   - GD Goenka Gurgaon fees 2027
@@ -17,25 +23,54 @@ keywords:
   - best MBA PGDM colleges in Gurgaon
   - direct admission in GD Goenka Gurgaon
   - MBA Career Counselling Mohit Jain
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at GD Goenka Gurgaon?
     answer: >-
-      The total course fee for the 2-year MBA program at GD Goenka University (School of Management) for the 2027–29 batch is ₹8.50 Lakhs (Total) (₹4.25 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at GD Goenka University
+      (School of Management) for the 2027–29 batch is ₹8.50 Lakhs (Total) (₹4.25
+      Lakhs per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does GD Goenka Gurgaon hold?
     answer: >-
-      GD Goenka University (School of Management) holds UGC Approved State Private University · AIU Member · ACU Member, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at GD Goenka Gurgaon?
+      GD Goenka University (School of Management) holds UGC Approved State
+      Private University · AIU Member · ACU Member, ensuring valid degree
+      equivalence, eligibility for government jobs, and global corporate
+      recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at GD Goenka
+      Gurgaon?
     answer: >-
-      For recent placement drives, GD Goenka Gurgaon recorded an average salary package of ₹6.50 LPA (Top 25% averaging ₹9.00 LPA) and a peak highest CTC of ₹17.50 LPA, with leading recruiters including HCL, Wipro, Decathlon, Amazon.
-  - question: Does GD Goenka Gurgaon offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, GD Goenka Gurgaon recorded an average salary
+      package of ₹6.50 LPA (Top 25% averaging ₹9.00 LPA) and a peak highest CTC
+      of ₹17.50 LPA, with leading recruiters including HCL, Wipro, Decathlon,
+      Amazon.
+  - question: >-
+      Does GD Goenka Gurgaon offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
+    answer: 'Yes, 18% PPO rate through dedicated corporate resource center linkages.'
+  - question: >-
+      What value-added certifications are provided to students at GD Goenka
+      Gurgaon?
     answer: >-
-      Yes, 18% PPO rate through dedicated corporate resource center linkages.
-  - question: What value-added certifications are provided to students at GD Goenka Gurgaon?
+      Students receive embedded industry certifications including Supply Chain
+      Analytics, Design Thinking & Product Innovation, Brand Management &
+      Consumer Insights, Advanced Financial Modeling.
+  - question: >-
+      How can students apply for admission or get counseling for GD Goenka
+      Gurgaon for 2027–29?
     answer: >-
-      Students receive embedded industry certifications including Supply Chain Analytics, Design Thinking & Product Innovation, Brand Management & Consumer Insights, Advanced Financial Modeling.
-  - question: How can students apply for admission or get counseling for GD Goenka Gurgaon for 2027–29?
-    answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Gurgaon
 state: Pan India
 ---

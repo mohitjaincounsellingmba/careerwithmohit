@@ -36,7 +36,7 @@ faqs:
       program, attracting high placement interest from major companies.
   - question: What exams does Great Lakes Gurgaon accept?
     answer: 'Great Lakes Gurgaon accepts CAT, XAT, GMAT, and CMAT scores.'
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

@@ -40,7 +40,7 @@ faqs:
     answer: >-
       No, it is a transparent, merit-linked process conducted through official
       institutional channels.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

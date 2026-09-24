@@ -60,7 +60,7 @@ faqs:
       The selection process includes an online application, profile
       shortlisting, a mandatory Design Thinking Workshop (Group Exercise), and a
       Personal Interview (PI) with industry experts and faculty.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

@@ -17,6 +17,13 @@ keywords:
   - best colleges in mumbai
   - mithibai college courses and fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Maths compulsory for BMS/BBA in Mithibai College?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       Starting from the recent academic sessions, BBA and BMS admissions in
       Maharashtra are governed by the State CET Cell, and candidates must appear
       for the MAH-BBA/BMS-CET to be eligible.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

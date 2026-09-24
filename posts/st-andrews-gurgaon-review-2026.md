@@ -48,7 +48,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at St. Andrews
       Institute of Technology & Management (SAITM) is approximately ₹3.25 Lakhs
       (Total).
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

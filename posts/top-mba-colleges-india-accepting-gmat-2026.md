@@ -28,6 +28,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get into IIM with GMAT?
     answer: >-
@@ -44,7 +48,7 @@ faqs:
       XLRI accepts GMAT for its **PGDM (General Management)** program, which is
       a 15-month executive course. For the flagship BM and HRM programs, only
       XAT and GMAT (for NRIs) are accepted.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

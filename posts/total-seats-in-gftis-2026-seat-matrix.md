@@ -17,6 +17,13 @@ keywords:
   - PEC Chandigarh seats
   - BIT Mesra total seats
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **Government Funded Technical Institutes (GFTIs)** are prestigious universities and colleges funded either by the Central or State Governments. For students qualifying the **JEE Main** examination, GFTIs represent an excellent option, especially when seeking quality education at affordable fee structures.

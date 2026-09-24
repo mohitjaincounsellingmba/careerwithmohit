@@ -18,8 +18,15 @@ keywords:
   - 'Top Universities in Chennai, South India'
   - Direct Admission in Chennai (Sholinganallur / OMR)
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 faqs:
   - question: >-
       Is Sathyabama Institute of Science and Technology, Chennai a good choice

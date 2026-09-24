@@ -15,6 +15,13 @@ keywords:
   - bseronline.com scrutiny
   - RBSE result rechecking date
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Board of Secondary Education, Rajasthan (RBSE) has declared the Class 12 results for Science, Commerce, and Arts. While thousands have cleared the exams with flying colors, some students may feel that their marks do not reflect their true performance. 

@@ -15,6 +15,13 @@ keywords:
   - dental admission neet cutoff 2026
   - career after bds in india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee for BDS in private colleges?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
       Dental officers in the **Army Dental Corps** are commissioned officers
       with salaries starting at ₹90,000+ per month, on par with other medical
       officers.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

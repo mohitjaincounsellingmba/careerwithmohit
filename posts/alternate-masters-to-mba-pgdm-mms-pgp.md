@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is PGDM equivalent to a Master's degree (MBA)?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
       PGDM programs range from ₹10 LPA to ₹16 LPA. High-ROI MMS programs like
       JBIMS average around ₹28 LPA, while others range between ₹6 LPA to ₹12
       LPA.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

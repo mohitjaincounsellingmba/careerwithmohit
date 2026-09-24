@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Amity
       University (Noida Campus) is approximately ₹16.80 Lakhs (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

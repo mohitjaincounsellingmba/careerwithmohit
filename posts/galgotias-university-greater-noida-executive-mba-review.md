@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Specializations include Marketing, Finance, Human Resource Management,
       Information Technology, and Operations.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

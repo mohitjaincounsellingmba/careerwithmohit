@@ -13,6 +13,13 @@ keywords:
   - IIM Ranchi admission cutoffs
   - top mba colleges in Ranchi
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at IIM Ranchi in 2026?
     answer: >-
@@ -26,7 +33,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at IIM Ranchi is
       approximately ₹17.5 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -35,6 +35,14 @@ keywords:
   - Best MBA colleges in Mumbai
   - Direct Admission in MBA PGDM 2027
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the difference between MBA and PGDM programs for the 2027-29
@@ -89,7 +97,7 @@ faqs:
       (+91 9560020771) for profile evaluation, GD-PI preparation, scholarship
       assessments, and direct admission guidance tailored to their budget and
       career goals.
-location: Pan India
+location: Delhi
 state: 'Delhi NCR, Maharashtra, Karnataka, Rajasthan'
 ---
 

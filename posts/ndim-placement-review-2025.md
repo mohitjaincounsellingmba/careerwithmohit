@@ -39,7 +39,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.

@@ -15,6 +15,13 @@ keywords:
   - 'SRM Medical College Hospital & Research Centre, Chennai MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee for MBBS in SRM Medical College Chennai?
     answer: The annual tuition fee is approximately ₹22.5 Lakhs to ₹25 Lakhs.
@@ -24,7 +31,7 @@ faqs:
       Counselling.
   - question: What is the NEET cutoff for SRM Medical College 2026?
     answer: Expected NEET score cutoff is between 320 and 400.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

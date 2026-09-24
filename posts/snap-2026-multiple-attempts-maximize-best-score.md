@@ -12,6 +12,13 @@ keywords:
   - SNAP registration strategy
   - best score SNAP
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Symbiosis International (Deemed) University allows candidates to take the Symbiosis National Aptitude Test (SNAP) up to **three times** in a single admission cycle. The university then considers your **best score out of the attempts** for shortlisting.

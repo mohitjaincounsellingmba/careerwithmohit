@@ -22,6 +22,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How much does CAT coaching cost in India?
     answer: >-
@@ -41,7 +46,7 @@ faqs:
       IMS SimCAT, T.I.M.E. AIMCAT, and Career Launcher CL Mocks. Joining at
       least 1-2 major mock test series is essential for accurate national
       percentile benchmarking.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

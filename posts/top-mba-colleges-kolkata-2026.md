@@ -17,6 +17,13 @@ keywords:
   - mba kolkata under 10 lakhs
   - vgsom iit kharagpur mba fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the JEMAT exam?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
     answer: >-
       Tier-1 closes by December/January. State colleges through JEMAT continue
       their process until June/July.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

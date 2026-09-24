@@ -1,9 +1,14 @@
 ---
-title: 'Delhi School of Business (DSB / VIPS-TC) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Delhi School of Business (DSB / VIPS-TC) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Delhi School of Business (DSB / VIPS-TC) (DSB Delhi). Verified fee structure (₹11.50 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹10.50 LPA, Highest ₹23.90 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Delhi School of Business (DSB / VIPS-TC)
+  (DSB Delhi). Verified fee structure (₹11.50 Lakhs (Total)), PGDM approvals,
+  audited placements (Avg ₹10.50 LPA, Highest ₹23.90 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - Delhi School of Business (DSB / VIPS-TC) admission 2027-29
   - DSB Delhi fees 2027
@@ -14,29 +19,55 @@ keywords:
   - DSB Delhi average package
   - DSB Delhi certifications
   - DSB Delhi review
-  - best MBA PGDM colleges in Pitampura, Delhi
+  - 'best MBA PGDM colleges in Pitampura, Delhi'
   - direct admission in DSB Delhi
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at DSB Delhi?
     answer: >-
-      The total course fee for the 2-year PGDM program at Delhi School of Business (DSB / VIPS-TC) for the 2027–29 batch is ₹11.50 Lakhs (Total) (₹5.75 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at Delhi School of
+      Business (DSB / VIPS-TC) for the 2027–29 batch is ₹11.50 Lakhs (Total)
+      (₹5.75 Lakhs per Year). Various merit and category scholarships are
+      available for deserving candidates.
   - question: Which statutory approvals and accreditations does DSB Delhi hold?
     answer: >-
-      Delhi School of Business (DSB / VIPS-TC) holds AICTE Approved · NBA Accredited · AIU MBA Equivalent, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      Delhi School of Business (DSB / VIPS-TC) holds AICTE Approved · NBA
+      Accredited · AIU MBA Equivalent, ensuring valid degree equivalence,
+      eligibility for government jobs, and global corporate recognition.
   - question: What are the placement statistics (Average and Highest CTC) at DSB Delhi?
     answer: >-
-      For recent placement drives, DSB Delhi recorded an average salary package of ₹10.50 LPA (Top 25% averaging ₹13.20 LPA) and a peak highest CTC of ₹23.90 LPA, with leading recruiters including BlackRock, Deloitte, EY, Asian Paints.
-  - question: Does DSB Delhi offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, DSB Delhi recorded an average salary package
+      of ₹10.50 LPA (Top 25% averaging ₹13.20 LPA) and a peak highest CTC of
+      ₹23.90 LPA, with leading recruiters including BlackRock, Deloitte, EY,
+      Asian Paints.
+  - question: >-
+      Does DSB Delhi offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, Strong PPO conversion of 26% driven by rigorous live industry consulting projects.
+      Yes, Strong PPO conversion of 26% driven by rigorous live industry
+      consulting projects.
   - question: What value-added certifications are provided to students at DSB Delhi?
     answer: >-
-      Students receive embedded industry certifications including Advanced Financial Modeling with Excel, Power BI & Tableau Dashboarding, AI in Business Decision Making, SAP ERP Core Modules.
-  - question: How can students apply for admission or get counseling for DSB Delhi for 2027–29?
+      Students receive embedded industry certifications including Advanced
+      Financial Modeling with Excel, Power BI & Tableau Dashboarding, AI in
+      Business Decision Making, SAP ERP Core Modules.
+  - question: >-
+      How can students apply for admission or get counseling for DSB Delhi for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Pitampura, Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

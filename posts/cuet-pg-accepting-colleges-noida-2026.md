@@ -38,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Noida, being a major corporate hub, is the primary destination for postgraduate aspirants in Northern India. With **CUET PG 2026** becoming a standard entrance for management and technical courses, many of Noida's premier universities have integrated the CUET score into their admission process.

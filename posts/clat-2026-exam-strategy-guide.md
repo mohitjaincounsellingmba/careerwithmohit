@@ -16,6 +16,13 @@ keywords:
   - how to crack clat 2026
   - clat mock test series
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is CLAT 2026 online or offline?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       Absolutely. In fact, many CLAT toppers are from Commerce and Humanities
       backgrounds as they are comfortable with general studies and business
       logic.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

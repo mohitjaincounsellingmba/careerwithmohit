@@ -49,7 +49,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at Mangalmay
       Institute of Management and Technology is approximately ₹3.25 Lakhs
       (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

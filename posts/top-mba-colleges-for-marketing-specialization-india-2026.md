@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which MBA college has the best placement for Digital Marketing?
     answer: >-
@@ -34,7 +39,7 @@ faqs:
     answer: >-
       In a Tier-2 college, expect ₹6L to ₹9L. In Tier-1 (IIM/MDI/XLRI), freshers
       start at ₹15L to ₹25L.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

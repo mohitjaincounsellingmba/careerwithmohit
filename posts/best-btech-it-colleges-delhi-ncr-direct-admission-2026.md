@@ -42,7 +42,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 While Computer Science deals with the underlying architecture and theoretical building blocks of computing, **Information Technology (IT)** is everything practical. It deals with maintaining databases, networking, cybersecurity, web development, and cloud systems. IT engineers are the backbone of any modern corporation's infrastructure.

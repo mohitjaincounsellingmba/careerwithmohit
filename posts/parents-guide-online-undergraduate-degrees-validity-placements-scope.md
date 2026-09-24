@@ -16,6 +16,13 @@ keywords:
   - UGC DEB approved online BBA BCA
   - is online college worth it parents
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Will my child get a proper graduation degree certificate?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       Yes, as long as the online degree is from a recognized Indian university,
       it is accepted by foreign evaluation bodies (like WES) and universities
       abroad for higher studies.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

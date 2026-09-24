@@ -48,7 +48,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at ISB&M Gurgaon
       (International School of Business & Media) is approximately ₹9.50 Lakhs
       (Total).
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

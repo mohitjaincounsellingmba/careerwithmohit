@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at FORE School of
       Management Delhi is approximately ₹18.6 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

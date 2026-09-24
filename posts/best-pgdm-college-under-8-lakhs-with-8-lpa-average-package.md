@@ -1,8 +1,12 @@
 ---
-title: 'Best PGDM Colleges Under 8 Lakhs Fees with 8 LPA Average Package: Top High-ROI B-Schools 2026'
+title: >-
+  Best PGDM Colleges Under 8 Lakhs Fees with 8 LPA Average Package: Top High-ROI
+  B-Schools 2026
 date: '2026-09-12'
-description: 'Discover top PGDM and MBA colleges in India offering 1:1 Fee-to-Placement ROI. Total fees under 8 Lakhs with verified 8+ LPA average salary packages.'
-category: 'MBA Admissions'
+description: >-
+  Discover top PGDM and MBA colleges in India offering 1:1 Fee-to-Placement ROI.
+  Total fees under 8 Lakhs with verified 8+ LPA average salary packages.
+category: MBA Admissions
 keywords:
   - best pgdm college under 8 lakhs with 8 lpa average package
   - low fees high return mba colleges india
@@ -10,17 +14,41 @@ keywords:
   - pgdm under 8 lakhs fees
   - best mba colleges under 10 lakhs in india
   - high roi mba colleges delhi pune bangalore
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which MBA college has the highest ROI under 8 lakhs fees?
-    answer: "FMS BHU (Banaras Hindu University) and SIMSREE Mumbai offer the highest ROI in India. FMS BHU charges approximately ₹1.5 Lakhs total tuition with an average package of ₹11.5 LPA, while SIMSREE charges ₹1.4 Lakhs with an average package of ₹15.2 LPA."
-  - question: Are there private AICTE-approved PGDM colleges under 8 lakhs with 8 LPA package?
-    answer: "Yes, institutions like FOSTIIMA Business School, JIMS Rohini, PIBM Pune, and select specialized PGDM programs at XIME Kochi and Balaji University Pune offer course fees around ₹7.5–8.5 Lakhs with average placement packages hovering between ₹8.0 LPA and ₹9.2 LPA."
+    answer: >-
+      FMS BHU (Banaras Hindu University) and SIMSREE Mumbai offer the highest
+      ROI in India. FMS BHU charges approximately ₹1.5 Lakhs total tuition with
+      an average package of ₹11.5 LPA, while SIMSREE charges ₹1.4 Lakhs with an
+      average package of ₹15.2 LPA.
+  - question: >-
+      Are there private AICTE-approved PGDM colleges under 8 lakhs with 8 LPA
+      package?
+    answer: >-
+      Yes, institutions like FOSTIIMA Business School, JIMS Rohini, PIBM Pune,
+      and select specialized PGDM programs at XIME Kochi and Balaji University
+      Pune offer course fees around ₹7.5–8.5 Lakhs with average placement
+      packages hovering between ₹8.0 LPA and ₹9.2 LPA.
   - question: What entrance exams do low-fee high-ROI colleges accept?
-    answer: "Most university departments (like PUMBA, SIMSREE, UBS) accept CAT, CMAT, and MAH MBA CET. Autonomous PGDM colleges under 8 Lakhs accept CAT, XAT, MAT, CMAT, and ATMA."
+    answer: >-
+      Most university departments (like PUMBA, SIMSREE, UBS) accept CAT, CMAT,
+      and MAH MBA CET. Autonomous PGDM colleges under 8 Lakhs accept CAT, XAT,
+      MAT, CMAT, and ATMA.
   - question: Can freshers get an 8 LPA placement from an 8 lakh budget college?
-    answer: "Absolutely. Freshers with strong communication, analytical abilities, and internship credentials routinely secure ₹8–10 LPA roles in market research, business development, financial analysis, and tech sales."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Absolutely. Freshers with strong communication, analytical abilities, and
+      internship credentials routinely secure ₹8–10 LPA roles in market
+      research, business development, financial analysis, and tech sales.
+location: Delhi
+state: Pan India
 ---
 
 With MBA and PGDM tuition fees at tier-1 business schools soaring past ₹20 to ₹30 Lakhs, educational debt has become a severe burden for fresh graduates. As a result, savvy management aspirants are seeking **high-ROI business schools with a 1:1 fee-to-placement ratio**—institutions where the **total course fee is under ₹8 Lakhs and the average annual placement package is ₹8 LPA or higher**.

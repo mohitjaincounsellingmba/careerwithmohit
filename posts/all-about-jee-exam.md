@@ -14,6 +14,13 @@ keywords:
   - JEE pattern 2026
   - JEE syllabus PDF
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will JEE Main 2026 be held?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       respective boards to be eligible for NIT/IIT admissions.
   - question: How many attempts are allowed for JEE Advanced?
     answer: "Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.\n\n[\U0001F449 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

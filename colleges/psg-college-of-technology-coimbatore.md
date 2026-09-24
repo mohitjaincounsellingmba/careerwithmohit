@@ -1,22 +1,59 @@
 ---
-name: "PSG College of Technology (PSG Tech)"
-logo: ""
-location: "Coimbatore, Tamil Nadu"
-state: "Tamil Nadu"
-category: "Engineering"
-type: "Govt. Aided Autonomous College"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Robotics & Automation", "B.Tech Electrical & Electronics Engineering", "B.Tech Mechanical Engineering", "M.Tech Embedded & Real Time Systems"]
+name: PSG College of Technology (PSG Tech)
+logo: ''
+location: 'Coimbatore, Tamil Nadu'
+state: Tamil Nadu
+category: Engineering
+type: Govt. Aided Autonomous College
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Robotics & Automation
+  - B.Tech Electrical & Electronics Engineering
+  - B.Tech Mechanical Engineering
+  - M.Tech Embedded & Real Time Systems
 established: 1951
-ownership: "Govt. Aided Autonomous"
-ranking: "NIRF Rank #67 (Engineering 2024)"
-fees: "₹3.20 - ₹4.50 Lakhs (Total 4 Years)"
-avg_placement: "₹9.20 LPA"
-highest_placement: "₹38.00 LPA"
-lowest_placement: "₹5.50 LPA"
-exams: ["TNEA", "GATE"]
-brochure_url: "#"
-website: "https://www.psgtech.edu"
-top_recruiters: ["Bosch", "Caterpillar", "Zoho", "Qualcomm", "Amazon", "TCS Ninja/Digital", "L&T Technology"]
+ownership: Govt. Aided Autonomous
+ranking: 'NIRF Rank #67 (Engineering 2024)'
+fees: ₹3.20 - ₹4.50 Lakhs (Total 4 Years)
+avg_placement: ₹9.20 LPA
+highest_placement: ₹38.00 LPA
+lowest_placement: ₹5.50 LPA
+exams:
+  - TNEA
+  - GATE
+brochure_url: '#'
+website: 'https://www.psgtech.edu'
+top_recruiters:
+  - Bosch
+  - Caterpillar
+  - Zoho
+  - Qualcomm
+  - Amazon
+  - TCS Ninja/Digital
+  - L&T Technology
+seo_title: 'PSG College of Technology (PSG Tech) B.Tech Fees, Cutoff & P'
+seo_description: >-
+  Check PSG College of Technology (PSG Tech) Coimbatore, Tamil Nadu: B.Tech fee
+  structure ₹3.20 - ₹4.50 Lakhs (Total 4 Years), average placement ₹9.20 LPA,
+  JEE cu
+keywords:
+  - PSG College of Technology (PSG Tech) review
+  - PSG College of Technology (PSG Tech) fees structure 2027
+  - PSG College of Technology (PSG Tech) average package
+  - PSG College of Technology (PSG Tech) placement report 2027
+  - PSG College of Technology (PSG Tech) highest package
+  - PSG College of Technology (PSG Tech) cutoff 2027
+  - PSG College of Technology (PSG Tech) admission process
+  - PSG College of Technology (PSG Tech) ranking
+  - 'PSG College of Technology (PSG Tech) Coimbatore, Tamil Nadu'
+  - is PSG College of Technology (PSG Tech) good
+  - PSG College of Technology (PSG Tech) mohit jain review
+  - PSG College of Technology (PSG Tech) hostel fees
+  - PSG College of Technology (PSG Tech) contact number
+  - PSG College of Technology (PSG Tech) B.Tech fees
+  - PSG College of Technology (PSG Tech) CSE placement
+  - PSG College of Technology (PSG Tech) B.Tech admission 2027
+  - 'engineering colleges Coimbatore, Tamil Nadu'
 ---
 
 ### About PSG College of Technology (PSG Tech)

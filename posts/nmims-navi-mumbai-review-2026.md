@@ -13,6 +13,13 @@ keywords:
   - NMIMS Navi Mumbai admission cutoffs
   - top mba colleges in Navi Mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at NMIMS Navi Mumbai in 2026?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at NMIMS Navi
       Mumbai is approximately ₹18.5 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

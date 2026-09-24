@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 One of the most common questions undergraduate management aspirants ask is: *"Am I eligible for a BBA program if I am from the Arts or Science stream?"* or *"Do I need Mathematics in Class 12 to pursue BBA in Delhi NCR?"*

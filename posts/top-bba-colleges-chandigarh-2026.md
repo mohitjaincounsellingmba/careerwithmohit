@@ -12,6 +12,13 @@ keywords:
   - Chitkara University BBA placements
   - BBA admission Chandigarh 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Chandigarh, India’s first planned city, is a major education hub for Punjab, Haryana, and Himachal Pradesh. Its well-structured universities offer some of the most industry-aligned BBA programs in North India.

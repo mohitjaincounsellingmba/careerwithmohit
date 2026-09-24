@@ -39,7 +39,7 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 As the IT sector continues to evolve with AI, Cloud Computing, and Data Analytics, choosing the right undergraduate program is critical. **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** offers a specialized **BCA + UGPM (Under Graduate Program in Management)** that aims to bridge the gap between technical skills and corporate management.

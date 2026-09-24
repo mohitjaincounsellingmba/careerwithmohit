@@ -15,6 +15,13 @@ keywords:
   - NIT Warangal seat matrix
   - NIT Patna total seats
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **National Institutes of Technology (NITs)** are among the most sought-after engineering colleges in India, especially for candidates who qualify through the **JEE Main** examination. With 31 NITs distributed across the country, knowing the seat distribution is key to securing your preferred branch.

@@ -16,6 +16,13 @@ keywords:
   - bba admission without maths mumbai
   - mumbai bba placements 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: does St. Xavier’s Mumbai require math for BMS?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
       Some private universities like **SNDT (Women) or Somaiya** have their own
       selection criteria that may involve interviews instead of a heavy entrance
       test.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

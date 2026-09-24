@@ -13,6 +13,13 @@ keywords:
   - best upcoming PGDM college in Pune
   - PBS Pune average package 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Pune Business School (PBS) is part of the PCET group (Pimpri Chinchwad Education Trust), which has a massive legacy of placements in Engineering. Now, PBS is bringing that same placement muscle to the management world.

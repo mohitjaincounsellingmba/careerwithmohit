@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Lucknow?
     answer: >-
@@ -42,7 +47,7 @@ faqs:
     answer: >-
       IET Lucknow charges approximately ₹70,000 per year — making it one of the
       most affordable quality engineering colleges in UP.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

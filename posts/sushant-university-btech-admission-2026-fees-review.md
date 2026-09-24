@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the unique selling point of Sushant University?
     answer: >-
@@ -26,7 +31,7 @@ faqs:
     answer: >-
       It is situated at a prime location on Golf Course Road in Sector 55,
       Gurugram.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

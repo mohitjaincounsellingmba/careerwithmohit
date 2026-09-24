@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the minimum percentage for direct BA LLB admission?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
     answer: >-
       The "Golden Window" is **April to May** (after board exams). By July, even
       management quota seats in top schools like Alliance or Amity are filled.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

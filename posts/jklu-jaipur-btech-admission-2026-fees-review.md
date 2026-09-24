@@ -13,6 +13,13 @@ keywords:
   - BTech admission Jaipur
   - JKLU vs VGU Jaipur
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is JKLU Jaipur tốt for CSE?
     answer: >-
@@ -24,7 +31,7 @@ faqs:
     answer: >-
       Yes, high-merit students can get up to 100% tuition fee waivers based on
       JEE/CUET ranks.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

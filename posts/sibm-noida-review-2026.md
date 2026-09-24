@@ -37,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at SIBM Noida is
       approximately ₹16.0 Lakhs (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Classes are conducted during weekends (Saturdays and Sundays) at the
       Faculty of Management Studies building on JMI campus.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

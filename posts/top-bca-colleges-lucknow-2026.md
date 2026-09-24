@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Amity Lucknow require Maths for BCA?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
     answer: >-
       Registrations usually start in **April/May**. The entrance test (LUVET) is
       typically held in June.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

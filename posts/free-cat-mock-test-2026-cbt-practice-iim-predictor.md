@@ -27,6 +27,13 @@ keywords:
   - free mock test series 2026
   - online exam preparation 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the pattern of the CAT 2026 exam?
     answer: >-
@@ -42,7 +49,7 @@ faqs:
       A raw score of 85+ (out of 198) is typically required to secure a 99+
       percentile, which is the benchmark for getting call letters from the top 3
       IIMs (A, B, C).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 # Free CAT Mock Test 2026: Full 68-Question CBT Simulation with Instant IIM Call Predictor
@@ -65,6 +72,8 @@ To help you benchmark your preparation under authentic exam conditions, **Career
 > [👉 **Start Free CAT 2026 Full Mock Test (68 Qs | 120 Mins)**](/cat-mock-test)
 >
 > *No credit card or login barriers — Instant AI Scorecard & IIM Call Benchmarking.*
+
+---
 
 ---
 

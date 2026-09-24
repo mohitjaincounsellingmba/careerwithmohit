@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are placements good in 70-80 percentile colleges?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
     answer: >-
       Most close by **mid-January**. It is better to apply *before* the CAT
       result is out if you are reasonably confident of your score.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

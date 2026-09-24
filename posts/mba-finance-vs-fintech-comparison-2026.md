@@ -14,6 +14,13 @@ keywords:
   - career options in fintech
   - best finance b-schools india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is traditional Finance still relevant in 2026?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       Python, or product management concepts mid-career. However, starting with
       a FinTech MBA gives you a dedicated headstart with specialized lab
       internships.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

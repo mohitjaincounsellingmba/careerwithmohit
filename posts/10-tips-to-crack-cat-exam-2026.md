@@ -15,6 +15,13 @@ keywords:
   - cat varc tips
   - how to prepare for dilr cat
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Common Admission Test (CAT) is less of a math exam and more of a **stress management and decision-making test**. With over 3 lakh candidates expected to appear for CAT 2026, standing out requires a strategy that goes beyond just solving textbooks.

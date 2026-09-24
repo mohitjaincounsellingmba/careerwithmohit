@@ -40,7 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 In the rapidly evolving landscape of higher education, online degrees have become a pivotal tool for career elevation. One of the top-rated choices available today is the **online MBA program from [Sharda University](/colleges/sharda-greater-noida)**. 

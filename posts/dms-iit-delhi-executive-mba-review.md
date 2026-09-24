@@ -41,7 +41,7 @@ faqs:
       While primarily a sponsored/part-time program, the corporate relations
       team provides career support and networking opportunities, leading to
       high-profile lateral shifts.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

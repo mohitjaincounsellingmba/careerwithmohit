@@ -16,6 +16,13 @@ keywords:
   - up neet counselling 2026
   - direct mbbs admission lucknow
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Era Medical College have different fees for Minority quota?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
       domicile.
   - question: When is the UP NEET 2026 counselling?
     answer: Usually starts late **June/July** after the NEET results.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

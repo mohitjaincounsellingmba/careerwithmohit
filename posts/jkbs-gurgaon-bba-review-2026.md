@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 JK Business School (JKBS) in Gurgaon has carved a niche for itself by offering a curriculum that blends traditional academic rigor with modern "industry-ready" simulations. Affiliated with Gurugram University, the JKBS BBA program is a popular choice for students looking for a corporate-centric undergraduate journey.

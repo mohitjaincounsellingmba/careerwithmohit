@@ -1,9 +1,15 @@
 ---
-title: 'Lal Bahadur Shastri Institute of Management (LBSIM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Lal Bahadur Shastri Institute of Management (LBSIM) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  In-depth Lal Bahadur Shastri Institute of Management (LBSIM) (Dwarka Sector 11 Campus) review for 2027 admissions. Explore verified fee structure (₹16.50 – ₹17.50 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹12.80 – ₹13.20 LPA, highest ₹24.00 – ₹25.00 LPA), cutoffs (CAT: 83–86 Percentile; XAT: 82–85 Percentile; GMAT: 600+), and student verdict.
+  In-depth Lal Bahadur Shastri Institute of Management (LBSIM) (Dwarka Sector 11
+  Campus) review for 2027 admissions. Explore verified fee structure (₹16.50 –
+  ₹17.50 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹12.80 – ₹13.20
+  LPA, highest ₹24.00 – ₹25.00 LPA), cutoffs (CAT: 83–86 Percentile; XAT: 82–85
+  Percentile; GMAT: 600+), and student verdict.
 keywords:
   - lal bahadur shastri institute of management (lbsim) review 2027
   - lal bahadur shastri institute of management (lbsim) fees
@@ -13,24 +19,40 @@ keywords:
   - lal bahadur shastri institute of management (lbsim) cutoff cat xat gmat
   - lal bahadur shastri institute of management (lbsim) admission process 2027
   - lal bahadur shastri institute of management (lbsim) ranking
-  - New Delhi, Delhi NCR MBA colleges
+  - 'New Delhi, Delhi NCR MBA colleges'
   - best MBA colleges in Delhi NCR
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Why is LBSIM considered top-tier for Finance?
     answer: >-
-      LBSIM has built a legendary reputation for financial modeling, equity analysis, and risk management over three decades. Elite quant firms like D.E. Shaw, Arcesium, and Morgan Stanley regularly visit LBSIM for specialized front-end analyst roles.
+      LBSIM has built a legendary reputation for financial modeling, equity
+      analysis, and risk management over three decades. Elite quant firms like
+      D.E. Shaw, Arcesium, and Morgan Stanley regularly visit LBSIM for
+      specialized front-end analyst roles.
   - question: What is the CAT cutoff for LBSIM Dwarka?
     answer: >-
-      The CAT cutoff for the PGDM (General) and PGDM (Financial Management) is typically 83 to 86 percentile, with the XAT cutoff around 82 to 85 percentile.
+      The CAT cutoff for the PGDM (General) and PGDM (Financial Management) is
+      typically 83 to 86 percentile, with the XAT cutoff around 82 to 85
+      percentile.
   - question: What is the total fee for LBSIM PGDM 2027–2029?
     answer: >-
-      The total academic fee for the 2-year program is approximately ₹14.90 Lakhs, making total expenses around ₹16.50 to ₹17.50 Lakhs including living costs, which delivers an attractive ROI.
+      The total academic fee for the 2-year program is approximately ₹14.90
+      Lakhs, making total expenses around ₹16.50 to ₹17.50 Lakhs including
+      living costs, which delivers an attractive ROI.
   - question: What was the average package at LBSIM Delhi in recent placements?
     answer: >-
-      The average CTC stands at ₹12.80 to ₹13.20 LPA, with the median at ₹12.50 LPA and the top 25% averaging over ₹16.20 LPA.
-location: New Delhi
+      The average CTC stands at ₹12.80 to ₹13.20 LPA, with the median at ₹12.50
+      LPA and the top 25% averaging over ₹16.20 LPA.
+location: Delhi
 state: Delhi NCR
 ---
 

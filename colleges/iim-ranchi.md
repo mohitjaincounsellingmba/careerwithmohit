@@ -1,21 +1,56 @@
 ---
-name: "IIM Ranchi"
-logo: "/logo.webp"
-location: "Dhurwa, Ranchi, Jharkhand"
-category: "Management"
-type: "Institute"
-courses: ["MBA (General)", "MBA-HR (Pioneering Program)", "MBA Business Analytics", "IPM"]
+name: IIM Ranchi
+logo: /logo.webp
+location: 'Dhurwa, Ranchi, Jharkhand'
+category: Management
+type: Institute
+courses:
+  - MBA (General)
+  - MBA-HR (Pioneering Program)
+  - MBA Business Analytics
+  - IPM
 established: 2009
-ownership: "Government Autonomous (IIM)"
-ranking: "NIRF Rank #17 (Management 2024)"
-fees: "₹17.50 Lakhs (Total)"
-avg_placement: "₹18.69 LPA"
-highest_placement: "₹67.00 LPA"
-lowest_placement: "₹12.00 LPA"
-exams: ["CAT", "IPMAT"]
-brochure_url: "#"
-website: "https://iimranchi.ac.in"
-top_recruiters: ["Microsoft", "Google", "Deloitte", "Tata Steel", "JP Morgan Chase", "Asian Paints"]
+ownership: Government Autonomous (IIM)
+ranking: 'NIRF Rank #17 (Management 2024)'
+fees: ₹17.50 Lakhs (Total)
+avg_placement: ₹18.69 LPA
+highest_placement: ₹67.00 LPA
+lowest_placement: ₹12.00 LPA
+exams:
+  - CAT
+  - IPMAT
+brochure_url: '#'
+website: 'https://iimranchi.ac.in'
+top_recruiters:
+  - Microsoft
+  - Google
+  - Deloitte
+  - Tata Steel
+  - JP Morgan Chase
+  - Asian Paints
+seo_title: 'IIM Ranchi MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Ranchi Dhurwa, Ranchi, Jharkhand: MBA/PGDM fee structure ₹17.50
+  Lakhs (Total), average placement ₹18.69 LPA, highest CTC, ranking, and 2027
+  admissio
+keywords:
+  - IIM Ranchi review
+  - IIM Ranchi fees structure 2027
+  - IIM Ranchi average package
+  - IIM Ranchi placement report 2027
+  - IIM Ranchi highest package
+  - IIM Ranchi cutoff 2027
+  - IIM Ranchi admission process
+  - IIM Ranchi ranking
+  - 'IIM Ranchi Dhurwa, Ranchi, Jharkhand'
+  - is IIM Ranchi good
+  - IIM Ranchi mohit jain review
+  - IIM Ranchi hostel fees
+  - IIM Ranchi contact number
+  - IIM Ranchi MBA fees
+  - IIM Ranchi PGDM placement
+  - IIM Ranchi MBA admission 2027
+  - 'MBA colleges Dhurwa, Ranchi, Jharkhand'
 ---
 
 ### About IIM Ranchi

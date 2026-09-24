@@ -46,7 +46,7 @@ faqs:
       Ideally, you should start along with CLAT prep (around **12 months before
       exam**). Since the syllabus overlaps by 80%, you just need to adjust your
       logic speed for AILET in the final 3 months.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

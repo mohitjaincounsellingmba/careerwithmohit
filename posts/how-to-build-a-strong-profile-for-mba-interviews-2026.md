@@ -17,7 +17,14 @@ keywords:
   - How to justify gap year in MBA interview
   - Tell me about yourself MBA interview answer
   - Direct Admission in Delhi
-location: Delhi NCR
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+location: Delhi
 faqs:
   - question: What are the main components of an MBA candidate's profile?
     answer: >-

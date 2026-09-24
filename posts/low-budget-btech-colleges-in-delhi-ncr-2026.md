@@ -47,7 +47,7 @@ faqs:
       Campus (DTC) and Echelon Institute of Technology offer a great balance of
       government-recognized degrees and moderate fee structures (usually under
       ₹1.5 - ₹1.8 Lakhs per year).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

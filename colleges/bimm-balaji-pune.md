@@ -1,21 +1,60 @@
 ---
-name: "Balaji Institute of Modern Management (BIMM Pune)"
-logo: "/logo.webp"
-location: "Tathawade, Pune, Maharashtra"
-category: "Management"
-type: "University"
-courses: ["MBA (General)", "MBA IT & Marketing", "MBA PM & HRD"]
+name: Balaji Institute of Modern Management (BIMM Pune)
+logo: /logo.webp
+location: 'Tathawade, Pune, Maharashtra'
+category: Management
+type: University
+courses:
+  - MBA (General)
+  - MBA IT & Marketing
+  - MBA PM & HRD
 established: 1999
-ownership: "Private Autonomous (Sri Balaji University)"
-ranking: "Top Tier B-School Pune · AICTE Approved"
-fees: "₹12.60 Lakhs (Total)"
-avg_placement: "₹8.75 LPA"
-highest_placement: "₹21.50 LPA"
-lowest_placement: "₹6.00 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "MAH CET"]
-brochure_url: "#"
-website: "https://sbup.edu.in"
-top_recruiters: ["Infosys", "Wipro", "ICICI Bank", "Amazon", "Hindustan Unilever", "Asian Paints"]
+ownership: Private Autonomous (Sri Balaji University)
+ranking: Top Tier B-School Pune · AICTE Approved
+fees: ₹12.60 Lakhs (Total)
+avg_placement: ₹8.75 LPA
+highest_placement: ₹21.50 LPA
+lowest_placement: ₹6.00 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+  - MAH CET
+brochure_url: '#'
+website: 'https://sbup.edu.in'
+top_recruiters:
+  - Infosys
+  - Wipro
+  - ICICI Bank
+  - Amazon
+  - Hindustan Unilever
+  - Asian Paints
+seo_title: 'Balaji Institute of Modern Management (BIMM Pune) MBA Fees, '
+seo_description: >-
+  Explore Balaji Institute of Modern Management (BIMM Pune) Tathawade, Pune,
+  Maharashtra: MBA/PGDM fee structure ₹12.60 Lakhs (Total), average placement
+  ₹8.75 LPA
+keywords:
+  - Balaji Institute of Modern Management (BIMM Pune) review
+  - Balaji Institute of Modern Management (BIMM Pune) fees structure 2027
+  - Balaji Institute of Modern Management (BIMM Pune) average package
+  - Balaji Institute of Modern Management (BIMM Pune) placement report 2027
+  - Balaji Institute of Modern Management (BIMM Pune) highest package
+  - Balaji Institute of Modern Management (BIMM Pune) cutoff 2027
+  - Balaji Institute of Modern Management (BIMM Pune) admission process
+  - Balaji Institute of Modern Management (BIMM Pune) ranking
+  - >-
+    Balaji Institute of Modern Management (BIMM Pune) Tathawade, Pune,
+    Maharashtra
+  - is Balaji Institute of Modern Management (BIMM Pune) good
+  - Balaji Institute of Modern Management (BIMM Pune) mohit jain review
+  - Balaji Institute of Modern Management (BIMM Pune) hostel fees
+  - Balaji Institute of Modern Management (BIMM Pune) contact number
+  - Balaji Institute of Modern Management (BIMM Pune) MBA fees
+  - Balaji Institute of Modern Management (BIMM Pune) PGDM placement
+  - Balaji Institute of Modern Management (BIMM Pune) MBA admission 2027
+  - 'MBA colleges Tathawade, Pune, Maharashtra'
 ---
 
 ### About Balaji Institute of Modern Management (BIMM Pune)

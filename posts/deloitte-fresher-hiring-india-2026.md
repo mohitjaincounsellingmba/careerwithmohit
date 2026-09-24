@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -32,7 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 **Deloitte India** is actively recruiting for its **2026 batch** through its **National Level Assessment (NLA)** and on-campus placement drives. As a global leader in audit, consulting, and advisory services, Deloitte is a top choice for freshers aiming for a high-growth career.

@@ -17,6 +17,13 @@ keywords:
     [Manipal University Jaipur](/colleges/manipal-university-jaipur) distance
     MBA fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 In the rapidly evolving landscape of higher education, online degrees have become a pivotal tool for career elevation. One of the top-rated choices available today is the **online MBA program from [Manipal University Jaipur](/colleges/manipal-university-jaipur)**. 

@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 With undergraduate college tuition rising every year, students and parents are asking a fundamental question: *"Is a BBA degree worth the investment?"* 

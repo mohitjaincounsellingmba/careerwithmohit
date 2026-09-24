@@ -40,7 +40,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 In the digital era, data is the new oil. Companies are desperate for engineers who can process big data, run predictive analytics, and build machine learning models to drive business decisions. This massive demand has made **B.Tech Computer Science Engineering (Data Science)** one of the most sought-after and highest-paying specializations in 2026.

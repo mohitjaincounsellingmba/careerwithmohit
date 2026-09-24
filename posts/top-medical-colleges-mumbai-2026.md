@@ -16,6 +16,13 @@ keywords:
   - muhs medical counselling 2026
   - direct mbbs admission mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are government medical seats in Mumbai very competitive?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       Usually starts late **July**, following the national MCC counselling
       cycles.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

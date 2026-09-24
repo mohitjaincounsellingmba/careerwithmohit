@@ -38,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 University of Delhi (DU) remains one of India's most prestigious and sought-after institutions. Renowned for its vibrant campus life, esteemed faculty, and excellent academic programs, DU continues to attract lakhs of students nationwide. If you are planning for admission in 2026, here is everything you need to know about fees, placements, cutoffs, and hostels.

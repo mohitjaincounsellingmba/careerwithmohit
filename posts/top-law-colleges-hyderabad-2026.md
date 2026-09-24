@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Symbiosis Hyderabad offer the same placements as Pune?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
       part-time legal interns for IP filing and founder agreements.
   - question: When is the TS LAWCET 2026 exam?
     answer: Usually held in **June**. Applications typically open in March.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

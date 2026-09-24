@@ -13,6 +13,13 @@ keywords:
   - Decision Making questions
   - XAT preparation strategy
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Xavier Aptitude Test (XAT) is widely considered one of the most challenging MBA entrance exams in India. While it shares sections like Quantitative Aptitude and Verbal Ability with the CAT, the defining feature of XAT is its **Decision Making (DM)** section. 

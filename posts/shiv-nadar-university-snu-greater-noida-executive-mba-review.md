@@ -39,7 +39,7 @@ faqs:
     answer: >-
       SNU has a fully residential 286-acre campus, but the Executive MBA is
       structured to accommodate commuter and weekend candidates.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

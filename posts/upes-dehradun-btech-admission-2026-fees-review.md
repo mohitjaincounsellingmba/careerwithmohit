@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: 'Is [UPES Dehradun](/colleges/upes-dehradun) good for Computer Science?'
     answer: >-
@@ -30,7 +35,7 @@ faqs:
     answer: >-
       It is a global leader for core sectors like energy, petroleum, and
       aviation engineering.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

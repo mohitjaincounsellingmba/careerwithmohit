@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Class 12 Mathematics compulsory for IIM BBA programs?
     answer: >-
@@ -29,7 +33,7 @@ faqs:
       Lakhs for 5 years, the average placements for top IIMs like Indore (₹25.6
       LPA) and Shillong (₹26.1 LPA) mean you can recover the costs within 2
       years of starting your career.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

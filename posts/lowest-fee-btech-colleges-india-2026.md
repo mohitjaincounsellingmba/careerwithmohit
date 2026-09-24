@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the cheapest good engineering college in India?
     answer: >-
@@ -43,7 +48,7 @@ faqs:
       Yes. SC/ST students at government colleges receive full fee waivers funded
       by state governments. At central government institutions (IITs, NITs),
       SC/ST students also get lower fees and additional scholarships.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

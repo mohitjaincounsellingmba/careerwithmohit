@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: does IIM Indore give BBA degree?
     answer: >-
@@ -34,7 +39,7 @@ faqs:
       exceptionally high in **CUET 2026** to get into SSCBS.
   - question: When are the BBA entrance exams held?
     answer: 'Most exams (IPMAT, NPAT, SET) are held in **May/June 2026**.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

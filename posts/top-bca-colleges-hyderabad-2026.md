@@ -16,6 +16,13 @@ keywords:
   - st marys hyderabad bca fees
   - direct bca admission hyderabad
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Nizam College require Maths for BCA?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
     answer: >-
       Admissions for merit-based seats usually close by **July end**. Management
       quota seats in private colleges often fill up by June.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

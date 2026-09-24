@@ -39,7 +39,7 @@ faqs:
       The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC
       students, with full waivers for SC/ST and income-based concessions for
       others.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

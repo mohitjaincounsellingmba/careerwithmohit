@@ -1,22 +1,66 @@
 ---
-name: "IIT Hyderabad (Indian Institute of Technology Hyderabad)"
-logo: ""
-location: "Sangareddy, Telangana"
-state: "Telangana"
-category: "Engineering"
-type: "Institute of National Importance"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Artificial Intelligence", "B.Tech Electrical Engineering", "B.Tech Computational Engineering", "M.Tech AI & Machine Learning"]
+name: IIT Hyderabad (Indian Institute of Technology Hyderabad)
+logo: ''
+location: 'Sangareddy, Telangana'
+state: Telangana
+category: Engineering
+type: Institute of National Importance
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Artificial Intelligence
+  - B.Tech Electrical Engineering
+  - B.Tech Computational Engineering
+  - M.Tech AI & Machine Learning
 established: 2008
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #8 (Engineering 2024)"
-fees: "₹8.80 - ₹10.00 Lakhs (Total 4 Years)"
-avg_placement: "₹20.50 LPA"
-highest_placement: "₹65.00 LPA"
-lowest_placement: "₹13.00 LPA"
-exams: ["JEE Advanced", "JEE Main", "GATE"]
-brochure_url: "#"
-website: "https://www.iith.ac.in"
-top_recruiters: ["Google", "Microsoft", "Goldman Sachs", "TSMC", "Rakuten Japan", "Qualcomm", "Apple"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #8 (Engineering 2024)'
+fees: ₹8.80 - ₹10.00 Lakhs (Total 4 Years)
+avg_placement: ₹20.50 LPA
+highest_placement: ₹65.00 LPA
+lowest_placement: ₹13.00 LPA
+exams:
+  - JEE Advanced
+  - JEE Main
+  - GATE
+brochure_url: '#'
+website: 'https://www.iith.ac.in'
+top_recruiters:
+  - Google
+  - Microsoft
+  - Goldman Sachs
+  - TSMC
+  - Rakuten Japan
+  - Qualcomm
+  - Apple
+seo_title: IIT Hyderabad (Indian Institute of Technology Hyderabad) B.T
+seo_description: >-
+  Check IIT Hyderabad (Indian Institute of Technology Hyderabad) Sangareddy,
+  Telangana: B.Tech fee structure ₹8.80 - ₹10.00 Lakhs (Total 4 Years), average
+  placeme
+keywords:
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) review
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) fees structure 2027
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) average package
+  - >-
+    IIT Hyderabad (Indian Institute of Technology Hyderabad) placement report
+    2027
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) highest package
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) cutoff 2027
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) admission process
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) ranking
+  - >-
+    IIT Hyderabad (Indian Institute of Technology Hyderabad) Sangareddy,
+    Telangana
+  - is IIT Hyderabad (Indian Institute of Technology Hyderabad) good
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) mohit jain review
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) hostel fees
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) contact number
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) B.Tech fees
+  - IIT Hyderabad (Indian Institute of Technology Hyderabad) CSE placement
+  - >-
+    IIT Hyderabad (Indian Institute of Technology Hyderabad) B.Tech admission
+    2027
+  - 'engineering colleges Sangareddy, Telangana'
 ---
 
 ### About IIT Hyderabad (Indian Institute of Technology Hyderabad)

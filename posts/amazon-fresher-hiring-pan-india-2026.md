@@ -13,6 +13,13 @@ keywords:
   - Amazon careers India
   - Amazon 2026 batch hiring
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Are you ready to start your career with one of the world's most customer-centric companies? **Amazon India** has announced its **Pan-India Fresher Hiring Drive for 2026**. Whether you are a B.Tech graduate looking for SDE roles, or an MBA grad aiming for Operations, Amazon has multiple openings across the country.

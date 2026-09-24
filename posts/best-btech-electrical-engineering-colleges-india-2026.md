@@ -19,6 +19,13 @@ keywords:
   - btech eee salary india 2026
   - core electrical jobs india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Electrical Engineering a good stream in 2026?
     answer: >-
@@ -43,7 +50,7 @@ faqs:
       Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE:
       ₹9–14 LPA. IIT EE graduates at semiconductor/product companies: ₹16–24
       LPA.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

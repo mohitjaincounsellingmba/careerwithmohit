@@ -34,7 +34,7 @@ faqs:
     answer: >-
       No, all admissions are strictly through the CUET merit list for the
       specified year.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

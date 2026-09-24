@@ -18,6 +18,13 @@ keywords:
   - Rajasthan Board toppers 2026
   - how to download RBSE 12th marksheet
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Board of Secondary Education, Rajasthan (RBSE) has officially declared the **RBSE Class 12 Result 2026** for all streams—**Science, Commerce, and Arts**—on March 31, 2026. Over 9 lakh students who appeared for the examinations can now access their provisional marksheets online.

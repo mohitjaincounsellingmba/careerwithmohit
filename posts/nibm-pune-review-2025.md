@@ -13,6 +13,13 @@ keywords:
   - CAT cut off for NIBM Pune
   - NIBM Pune average package 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The National Institute of Bank Management (NIBM) Pune, established by the Reserve Bank of India (RBI), is the apex institution for research, training, and consultancy in banking. Its PGDM in Banking & Financial Services (B&FS) is a highly specialized program for aspiring finance professionals.

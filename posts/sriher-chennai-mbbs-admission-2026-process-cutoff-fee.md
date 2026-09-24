@@ -17,6 +17,13 @@ keywords:
     MBBS process
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the fee structure for Sri Ramachandra Medical College MBBS?
     answer: The annual tuition fee is ₹25 Lakhs per year.
@@ -24,7 +31,7 @@ faqs:
     answer: SRIHER has a total intake of 250 MBBS seats.
   - question: What score is needed for Sri Ramachandra MBBS admission?
     answer: Expected NEET score is between 380 and 450 in MCC Deemed Counselling.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

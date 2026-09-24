@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Yes, candidates with strong work experience profiles can secure direct
       admission based on their interview performance.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

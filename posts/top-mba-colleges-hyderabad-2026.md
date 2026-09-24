@@ -17,6 +17,13 @@ keywords:
   - mba hyderabad under 10 lakhs
   - imt hyderabad placements 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in MBA Hyderabad colleges?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
       The Telangana Integrated Common Entrance Test (TS ICET) usually happens in
       May. It is the mandatory bridge for MBA admission in state universities
       like Osmania and JNTU.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -15,6 +15,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +35,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 Mahatma Gandhi Central University (MGCUB) located in Motihari, Bihar, has been rapidly expanding its academic offerings and campus infrastructure. It serves as an excellent central university option for students aiming to secure admission through CUET 2026.

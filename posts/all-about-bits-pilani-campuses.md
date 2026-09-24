@@ -16,6 +16,13 @@ keywords:
   - top engineering colleges in India
   - BITS Pilani vs IIT
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Birla Institute of Technology & Science (BITS) Pilani is the holy grail of private engineering education in India. Often considered directly equivalent to the top 5 old IITs, BITS is famous for its 0% attendance policy, Practice School (PS) industry program, and exceptional startup ecosystem.

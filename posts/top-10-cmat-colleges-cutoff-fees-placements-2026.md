@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the minimum CMAT score for a good college?
     answer: >-
@@ -38,7 +43,7 @@ faqs:
       For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is
       better for accessing a wider network of 600+ private B-schools, especially
       in North India.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

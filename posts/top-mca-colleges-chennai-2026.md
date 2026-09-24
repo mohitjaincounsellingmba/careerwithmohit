@@ -16,6 +16,13 @@ keywords:
   - loyola college mca fees
   - direct mca admission chennai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does SRM Chennai require TANCET for MCA?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
     answer: >-
       Usually held in **March**. Registrations typically open in
       January/February.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

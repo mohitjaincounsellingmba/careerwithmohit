@@ -39,7 +39,7 @@ faqs:
       Top-tier campuses like MDI Gurgaon report average packages around INR 27
       LPA. Mid-tier campuses like FORE and LBSIM report average packages between
       INR 12 LPA and 15 LPA.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

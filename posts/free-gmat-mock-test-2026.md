@@ -59,6 +59,8 @@ To help you measure your standing, we offer a high-fidelity **[Free GMAT Focus E
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Are these mock tests free to attempt?
@@ -76,11 +78,3 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 ### 🚀 Boost Your Preparation
 
 Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
-
-
----
-
-### 🎓 Need Expert MBA/PGDM Admission Guidance for 2027–2029?
-Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shortlisting based on your percentile & budget, and direct application assistance.
-
-👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or request a free callback through our inquiry desk.

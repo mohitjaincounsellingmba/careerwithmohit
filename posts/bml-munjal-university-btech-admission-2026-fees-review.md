@@ -37,7 +37,7 @@ faqs:
     answer: >-
       No, you can also join via JEE Main or CUET scores, though BMU-SAT is
       helpful for scholarship consideration.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

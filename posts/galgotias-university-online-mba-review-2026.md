@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Why is Galgotias online MBA so cheap?
     answer: >-
@@ -38,7 +43,7 @@ faqs:
     answer: >-
       No. Admission is open to fresh graduates and working professionals without
       any entrance exam or work experience requirement.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

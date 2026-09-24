@@ -23,6 +23,13 @@ keywords:
   - new IIMs India admission
   - IIM average salary package 2025
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -39,7 +46,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Indian Institutes of Management (IIMs) represent the gold standard of business education. Every IIM has its own unique placement record, selection criteria, and course specializations. 

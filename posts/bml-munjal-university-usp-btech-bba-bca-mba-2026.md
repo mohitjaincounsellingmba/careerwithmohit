@@ -53,7 +53,7 @@ faqs:
     answer: >-
       Yes — merit-based scholarships linked to JEE Main percentile and Class 12
       scores can cover up to **100% of tuition fees** for high performers.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Ghaziabad, a key industrial city in the National Capital Region (NCR), has emerged as a hub for affordable yet high-quality management education. It offers students the dual advantage of living in a growing city while being just a short commute away from Delhi's corporate center.

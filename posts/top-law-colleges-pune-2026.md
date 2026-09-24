@@ -16,6 +16,13 @@ keywords:
   - symbiosis law school pune placements
   - direct law admission pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does SLS Pune accept CLAT?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       autonomous bodies offer an Institutional Quota for direct admission.
   - question: When is the MAH CET Law 2026 exam?
     answer: 'The 5-year CET is usually in **May**, and the 3-year CET is in **June**.'
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

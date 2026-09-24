@@ -38,7 +38,7 @@ faqs:
     answer: >-
       IMS Ghaziabad offers merit-based scholarships based on past academics and
       CAT/XAT score performance.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

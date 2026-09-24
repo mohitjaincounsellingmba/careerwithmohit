@@ -16,6 +16,13 @@ keywords:
   - Bharati Vidyapeeth law courses
   - medical admission BVP
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Bharati Vidyapeeth a private or government university?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
       BVP CET is generally considered moderately difficult, focusing more on
       speed and basic concepts compared to [JEE Main](/blog/all-about-jee-exam)
       or [CAT](/blog/all-about-cat-exam).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

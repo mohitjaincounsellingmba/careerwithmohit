@@ -12,6 +12,13 @@ keywords:
   - fashion retail inventory management
   - Just In Time case study MBA
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 In the traditional fashion retail industry, the journey of a garment from a designer’s sketchpad to a retail store shelf takes anywhere between **six to nine months**. Designers anticipate trends almost a year in advance, outsource manufacturing to low-cost developing countries in massive bulk orders, and pray that consumers will buy them when the season arrives. 

@@ -1,9 +1,15 @@
 ---
-title: 'FORE School of Management Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  FORE School of Management Review 2027: Fees, Placements, Cutoff, Ranking &
+  Admission Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  In-depth FORE School of Management (Qutab Institutional Area Campus) review for 2027 admissions. Explore verified fee structure (₹18.50 – ₹19.50 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹14.50 – ₹15.00 LPA, highest ₹70.00 LPA (International) / ₹30.00 LPA (Domestic)), cutoffs (CAT: 85–87 Percentile; XAT: 85–87 Percentile; GMAT: 620+), and student verdict.
+  In-depth FORE School of Management (Qutab Institutional Area Campus) review
+  for 2027 admissions. Explore verified fee structure (₹18.50 – ₹19.50 Lakhs (2
+  Years Full-Time PGDM)), latest placements (avg ₹14.50 – ₹15.00 LPA, highest
+  ₹70.00 LPA (International) / ₹30.00 LPA (Domestic)), cutoffs (CAT: 85–87
+  Percentile; XAT: 85–87 Percentile; GMAT: 620+), and student verdict.
 keywords:
   - fore school of management review 2027
   - fore school of management fees
@@ -13,24 +19,40 @@ keywords:
   - fore school of management cutoff cat xat gmat
   - fore school of management admission process 2027
   - fore school of management ranking
-  - New Delhi, Delhi NCR MBA colleges
+  - 'New Delhi, Delhi NCR MBA colleges'
   - best MBA colleges in Delhi NCR
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the CAT cutoff for FORE School of Management?
     answer: >-
-      The CAT and XAT cutoff for the core PGDM at FORE School of Management ranges from 85 to 87 percentile, with cutoffs for PGDM-IB, PGDM-FM, and PGDM-BDA slightly lower around 82–85 percentile.
+      The CAT and XAT cutoff for the core PGDM at FORE School of Management
+      ranges from 85 to 87 percentile, with cutoffs for PGDM-IB, PGDM-FM, and
+      PGDM-BDA slightly lower around 82–85 percentile.
   - question: Does FORE School of Management have on-campus hostel facilities?
     answer: >-
-      FORE is an urban campus located in Qutab Institutional Area; it coordinates with dedicated student housing and hostel partners nearby with air-conditioned rooms, food, and shuttle connectivity.
+      FORE is an urban campus located in Qutab Institutional Area; it
+      coordinates with dedicated student housing and hostel partners nearby with
+      air-conditioned rooms, food, and shuttle connectivity.
   - question: What was the average package at FORE School of Management in 2025–2026?
     answer: >-
-      The overall average CTC at FORE School of Management is ₹14.50 to ₹15.00 LPA, with the top 20% of students receiving over ₹18.50 LPA, and international packages reaching up to ₹70.00 LPA.
+      The overall average CTC at FORE School of Management is ₹14.50 to ₹15.00
+      LPA, with the top 20% of students receiving over ₹18.50 LPA, and
+      international packages reaching up to ₹70.00 LPA.
   - question: Is FORE PGDM equivalent to an MBA degree?
     answer: >-
-      Yes. The PGDM program at FORE is AICTE-approved, NBA-accredited, and holds official MBA equivalence from the Association of Indian Universities (AIU).
-location: New Delhi
+      Yes. The PGDM program at FORE is AICTE-approved, NBA-accredited, and holds
+      official MBA equivalence from the Association of Indian Universities
+      (AIU).
+location: Delhi
 state: Delhi NCR
 ---
 

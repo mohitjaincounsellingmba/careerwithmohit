@@ -16,6 +16,13 @@ keywords:
   - ts neet counselling 2026
   - direct mbbs admission hyderabad
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Hyderabad have any Deemed medical colleges?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       Counselling registrations typically open in **July** after the national
       MCC counselling cycles start.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

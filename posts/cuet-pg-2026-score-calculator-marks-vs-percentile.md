@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How is the CUET PG 2026 raw score calculated?
     answer: >-
@@ -37,7 +42,7 @@ faqs:
       Most universities like DU and BHU consider the total score. However, TISS
       may have specific shortlisting criteria for their TISS-RAT/Interview
       rounds based on sectional performance.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

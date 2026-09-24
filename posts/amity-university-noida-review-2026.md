@@ -25,7 +25,7 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi NCR
+location: Noida
 faqs:
   - question: 'Is Amity University, Noida a good choice for higher education in 2026?'
     answer: >-

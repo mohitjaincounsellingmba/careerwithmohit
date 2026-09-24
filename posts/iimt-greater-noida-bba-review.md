@@ -45,7 +45,7 @@ faqs:
       Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in
       10+2 from a recognized board) can apply for direct merit-based admission
       or register through CCS University counseling.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

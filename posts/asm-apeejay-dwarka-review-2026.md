@@ -16,6 +16,13 @@ keywords:
   - ASM Apeejay School of Management admission cutoffs
   - top mba colleges in Dwarka
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at ASM Apeejay School of Management in 2026?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at ASM Apeejay
       School of Management is approximately ₹10.50 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

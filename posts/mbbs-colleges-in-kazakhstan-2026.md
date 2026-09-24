@@ -17,6 +17,13 @@ keywords:
   - astana medical university fees 2026
   - nmc rules for mbbs in kazakhstan
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the cost of MBBS in Kazakhstan in 2026?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
       Yes, Asfendiyarov Kazakh National Medical University and other top state
       universities in Kazakhstan are recognized by WHO, WDOMS, and comply with
       NMC regulations.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

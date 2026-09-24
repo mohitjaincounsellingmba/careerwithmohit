@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Noida is a massive corporate hub, home to thousands of IT companies and multinational headquarters. For a BBA student, studying in Noida means being at the center of the action with plenty of internship opportunities and industry interaction.

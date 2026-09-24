@@ -15,6 +15,13 @@ keywords:
   - '[ASM IIBR](/colleges/asm-iibr) Pune specialized training'
   - best ROI MBA colleges Pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Choosing the right B-school in Pune's crowded educational landscape can be difficult. However, **ASM's (Audyogik Shikshan Mandal)** Group of Institutes, which includes **[ASM IIBR](/colleges/asm-iibr)**, has remained a preferred choice for students seeking a balance between affordable fees and corporate readiness.

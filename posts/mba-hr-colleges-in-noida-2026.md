@@ -35,7 +35,7 @@ faqs:
       14.0 Lakhs, offering extensive infrastructure and global learning modules.
   - question: Does IMS Noida accept MAT scores?
     answer: 'Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

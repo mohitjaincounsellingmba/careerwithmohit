@@ -41,7 +41,7 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

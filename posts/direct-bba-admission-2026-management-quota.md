@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       does [Christ University Bangalore](/colleges/christ-university-bangalore)
@@ -41,7 +46,7 @@ faqs:
     answer: >-
       Ideally in **June/July** after the 12th results are out and the first few
       merit lists of top colleges have been released.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

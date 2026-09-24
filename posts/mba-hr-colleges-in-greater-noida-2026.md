@@ -36,7 +36,7 @@ faqs:
     answer: >-
       Yes, GNIOT accepts MAT, CMAT, and CAT scores for admissions to its
       management courses.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

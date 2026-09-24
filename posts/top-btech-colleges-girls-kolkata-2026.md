@@ -15,6 +15,13 @@ keywords:
   - scholarships for girls in engineering west bengal
   - heritage kolkata btech girls hostel
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is Jadavpur University safe for girls?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       are limited and allotted based on distance and merit.
   - question: When is the WBJEE 2026 exam?
     answer: Usually held in **April/May**. Result and counselling follow in June.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

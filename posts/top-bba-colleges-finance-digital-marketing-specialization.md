@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which BBA specialization has the highest salary?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
       Every brand in the world today is a digital brand. A specialist who
       understands SEO and AI-marketing is preferred over a generalist in almost
       every media or consumer product firm.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

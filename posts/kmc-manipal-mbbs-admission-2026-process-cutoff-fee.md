@@ -15,6 +15,13 @@ keywords:
   - 'Kasturba Medical College (KMC), Manipal MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the NEET score required for KMC Manipal MBBS 2026?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
     answer: >-
       Yes, 100% of seats in KMC Manipal are filled through MCC All India Deemed
       University counselling at mcc.nic.in.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

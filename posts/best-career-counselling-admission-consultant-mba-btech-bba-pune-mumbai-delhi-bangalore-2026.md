@@ -7,7 +7,8 @@ date: '2026-08-17'
 description: >-
   Looking for the best career counselling and admission consultant in Pune,
   Mumbai, Delhi NCR, Greater Noida, Ghaziabad, Jaipur, or Bangalore? Get expert
-  1-on-1 guidance for MBA, PGDM, B.Tech, BBA, BCA, and Global MBA admissions 2027–2029 with Mohit Jain.
+  1-on-1 guidance for MBA, PGDM, B.Tech, BBA, BCA, and Global MBA admissions
+  2027–2029 with Mohit Jain.
 keywords:
   - best career counselling for mba pgdm
   - admission counselling for mba pgdm btech bba bca
@@ -87,7 +88,7 @@ faqs:
       You can directly schedule a profile evaluation and 1-on-1 career strategy
       session by submitting an inquiry on CareerWithMohit.online or by messaging
       via WhatsApp at +91 9560020771.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

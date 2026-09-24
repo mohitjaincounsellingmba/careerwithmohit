@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When should I start preparing for CAT 2025?
     answer: >-
@@ -39,7 +43,7 @@ faqs:
       An MBA is a heavy investment of time and money, but meticulous planning
       guarantees you end up exactly where you belong. Start your preparation
       early and stay consistent!
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

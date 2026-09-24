@@ -14,6 +14,13 @@ keywords:
   - best HR MBA college in India
   - '[SCMHRD Pune](/colleges/scmhrd-pune) average package 2025'
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 SCMHRD (Symbiosis Centre for Management and Human Resource Development) is a premier institute renowned specifically for its Human Resources (HR) program, often ranked as one of the best in Asia. However, its Business Analytics and Infrastructure Management programs are also gaining significant traction.

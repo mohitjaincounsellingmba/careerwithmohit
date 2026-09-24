@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is "Direct Admission" legal?
     answer: >-
@@ -31,7 +36,7 @@ faqs:
     answer: >-
       Right now! Most direct admission registrations for the July 2026 batch
       close by the end of **April**.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

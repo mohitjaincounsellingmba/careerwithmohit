@@ -1,9 +1,14 @@
 ---
-title: 'IILM Institute for Higher Education MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  IILM Institute for Higher Education MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for IILM Institute for Higher Education (IILM Lodhi Road). Verified fee structure (₹12.90 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹8.60 LPA, Highest ₹20.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for IILM Institute for Higher Education (IILM
+  Lodhi Road). Verified fee structure (₹12.90 Lakhs (Total)), PGDM approvals,
+  audited placements (Avg ₹8.60 LPA, Highest ₹20.00 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - IILM Institute for Higher Education admission 2027-29
   - IILM Lodhi Road fees 2027
@@ -17,26 +22,55 @@ keywords:
   - best MBA PGDM colleges in New Delhi
   - direct admission in IILM Lodhi Road
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at IILM Lodhi Road?
     answer: >-
-      The total course fee for the 2-year PGDM program at IILM Institute for Higher Education for the 2027–29 batch is ₹12.90 Lakhs (Total) (₹6.45 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at IILM Institute for
+      Higher Education for the 2027–29 batch is ₹12.90 Lakhs (Total) (₹6.45
+      Lakhs per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does IILM Lodhi Road hold?
     answer: >-
-      IILM Institute for Higher Education holds AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at IILM Lodhi Road?
+      IILM Institute for Higher Education holds AICTE Approved · NBA Accredited
+      · AIU Equivalent · SAQS Accredited, ensuring valid degree equivalence,
+      eligibility for government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at IILM Lodhi
+      Road?
     answer: >-
-      For recent placement drives, IILM Lodhi Road recorded an average salary package of ₹8.60 LPA (Top 25% averaging ₹12.00 LPA) and a peak highest CTC of ₹20.00 LPA, with leading recruiters including Deloitte, KPMG, EY, PwC.
-  - question: Does IILM Lodhi Road offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, IILM Lodhi Road recorded an average salary
+      package of ₹8.60 LPA (Top 25% averaging ₹12.00 LPA) and a peak highest CTC
+      of ₹20.00 LPA, with leading recruiters including Deloitte, KPMG, EY, PwC.
+  - question: >-
+      Does IILM Lodhi Road offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 24% of students secure PPOs during summer placements with top management consulting and retail brands.
-  - question: What value-added certifications are provided to students at IILM Lodhi Road?
+      Yes, 24% of students secure PPOs during summer placements with top
+      management consulting and retail brands.
+  - question: >-
+      What value-added certifications are provided to students at IILM Lodhi
+      Road?
     answer: >-
-      Students receive embedded industry certifications including Global Leadership & Design Thinking, ESG & Sustainable Business Practices, Tableau Business Intelligence, Financial Engineering & Risk Modeling.
-  - question: How can students apply for admission or get counseling for IILM Lodhi Road for 2027–29?
+      Students receive embedded industry certifications including Global
+      Leadership & Design Thinking, ESG & Sustainable Business Practices,
+      Tableau Business Intelligence, Financial Engineering & Risk Modeling.
+  - question: >-
+      How can students apply for admission or get counseling for IILM Lodhi Road
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: New Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

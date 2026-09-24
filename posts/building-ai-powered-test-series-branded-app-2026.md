@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: can I import my own Excel question bank?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
     answer: >-
       Absolutely. In 2026, "Test Series Only" packages are a high-volume revenue
       stream for many successful educators.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

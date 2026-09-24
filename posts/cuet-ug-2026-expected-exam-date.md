@@ -15,6 +15,13 @@ keywords:
   - NTA CUET schedule 2026
   - CUET UG 2026 datesheet
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **Common University Entrance Test (CUET) UG 2026** is just around the corner, and millions of aspirants are eagerly waiting for the official subject-wise schedule. As per the latest trends and NTA notifications, the exam is set to be a marathon event spanning over two weeks.

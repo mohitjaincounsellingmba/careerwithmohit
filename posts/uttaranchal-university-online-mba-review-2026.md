@@ -20,6 +20,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Uttaranchal better than Kalinga for an online MBA?
     answer: >-
@@ -33,7 +38,7 @@ faqs:
       strength. Choose based on geography and employer network fit.
   - question: Can I pursue Uttaranchal Online MBA from outside Uttarakhand?
     answer: Yes. The program is 100% online and accessible from any location in India.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

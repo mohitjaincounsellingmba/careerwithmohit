@@ -1,9 +1,15 @@
 ---
-title: 'Management Education & Research Institute (MERI) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Management Education & Research Institute (MERI) MBA / PGDM Admission 2027-29:
+  Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
 category: MBA Admissions
 description: >-
-  Complete 2027-29 admission guide for Management Education & Research Institute (MERI) (MERI Janakpuri). Verified fee structure (₹5.95 Lakhs (Total)), MBA / PGDM approvals, audited placements (Avg ₹7.50 LPA, Highest ₹20.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Management Education & Research Institute
+  (MERI) (MERI Janakpuri). Verified fee structure (₹5.95 Lakhs (Total)), MBA /
+  PGDM approvals, audited placements (Avg ₹7.50 LPA, Highest ₹20.00 LPA), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - Management Education & Research Institute (MERI) admission 2027-29
   - MERI Janakpuri fees 2027
@@ -17,26 +23,59 @@ keywords:
   - best MBA PGDM colleges in New Delhi
   - direct admission in MERI Janakpuri
   - MBA Career Counselling Mohit Jain
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
-  - question: What is the total fee for the MBA / PGDM (2027–29) Batch at MERI Janakpuri?
+  - question: >-
+      What is the total fee for the MBA / PGDM (2027–29) Batch at MERI
+      Janakpuri?
     answer: >-
-      The total course fee for the 2-year MBA / PGDM program at Management Education & Research Institute (MERI) for the 2027–29 batch is ₹5.95 Lakhs (Total) (₹2.97 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA / PGDM program at Management
+      Education & Research Institute (MERI) for the 2027–29 batch is ₹5.95 Lakhs
+      (Total) (₹2.97 Lakhs per Year). Various merit and category scholarships
+      are available for deserving candidates.
   - question: Which statutory approvals and accreditations does MERI Janakpuri hold?
     answer: >-
-      Management Education & Research Institute (MERI) holds AICTE Approved · Affiliated to GGSIPU (for MBA) · NAAC Grade A, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at MERI Janakpuri?
+      Management Education & Research Institute (MERI) holds AICTE Approved ·
+      Affiliated to GGSIPU (for MBA) · NAAC Grade A, ensuring valid degree
+      equivalence, eligibility for government jobs, and global corporate
+      recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at MERI
+      Janakpuri?
     answer: >-
-      For recent placement drives, MERI Janakpuri recorded an average salary package of ₹7.50 LPA (Top 25% averaging ₹9.80 LPA) and a peak highest CTC of ₹20.00 LPA, with leading recruiters including TCS, Infosys, HCL, Axis Bank.
-  - question: Does MERI Janakpuri offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, MERI Janakpuri recorded an average salary
+      package of ₹7.50 LPA (Top 25% averaging ₹9.80 LPA) and a peak highest CTC
+      of ₹20.00 LPA, with leading recruiters including TCS, Infosys, HCL, Axis
+      Bank.
+  - question: >-
+      Does MERI Janakpuri offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, Strong local corporate internship ties leading to 20% PPO conversions.
-  - question: What value-added certifications are provided to students at MERI Janakpuri?
+      Yes, Strong local corporate internship ties leading to 20% PPO
+      conversions.
+  - question: >-
+      What value-added certifications are provided to students at MERI
+      Janakpuri?
     answer: >-
-      Students receive embedded industry certifications including Digital Marketing & SEO Mastery, Advanced Excel for Financial Analysis, NSE NCFM Financial Markets Certification, Retail Analytics & Operations.
-  - question: How can students apply for admission or get counseling for MERI Janakpuri for 2027–29?
+      Students receive embedded industry certifications including Digital
+      Marketing & SEO Mastery, Advanced Excel for Financial Analysis, NSE NCFM
+      Financial Markets Certification, Retail Analytics & Operations.
+  - question: >-
+      How can students apply for admission or get counseling for MERI Janakpuri
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: New Delhi
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi
 state: Pan India
 ---
 

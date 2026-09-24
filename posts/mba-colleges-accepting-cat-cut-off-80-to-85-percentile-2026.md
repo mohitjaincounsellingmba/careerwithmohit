@@ -1,34 +1,82 @@
 ---
-title: "Top MBA Colleges Accepting CAT Cut Off 80 to 85 Percentile (2026–2027): Fees, Placements, Cutoffs & ROI Guide"
-date: "2026-09-10"
-description: "Looking for top MBA colleges accepting CAT cut off 80 to 85 percentile? Compare TAPMI, FORE, GIM, LBSIM, Great Lakes, IRMA, NIBM, and IIT Dhanbad with fees, packages, and ROI."
+title: >-
+  Top MBA Colleges Accepting CAT Cut Off 80 to 85 Percentile (2026–2027): Fees,
+  Placements, Cutoffs & ROI Guide
+date: '2026-09-10'
+description: >-
+  Looking for top MBA colleges accepting CAT cut off 80 to 85 percentile?
+  Compare TAPMI, FORE, GIM, LBSIM, Great Lakes, IRMA, NIBM, and IIT Dhanbad with
+  fees, packages, and ROI.
 keywords:
-  - "mba college accepting cat cut off 80 to 85 percentile"
-  - "top mba colleges with 80-85 percentile in cat"
-  - "cat 80 percentile colleges fees and placements"
-  - "best b schools for cat 80 to 85 percentile 2026"
-  - "tapmi cat cutoff 2026"
-  - "fore school cat cutoff 2026"
-  - "gim goa cat cutoff"
-  - "lbsim cat cutoff 2026"
-  - "great lakes cat cutoff 2026"
-  - "cat 85 percentile mba colleges average package"
-  - "mba admission 80 percentile cat"
-category: "MBA Admissions"
-image: "/images/blog/mba-guide.webp"
+  - mba college accepting cat cut off 80 to 85 percentile
+  - top mba colleges with 80-85 percentile in cat
+  - cat 80 percentile colleges fees and placements
+  - best b schools for cat 80 to 85 percentile 2026
+  - tapmi cat cutoff 2026
+  - fore school cat cutoff 2026
+  - gim goa cat cutoff
+  - lbsim cat cutoff 2026
+  - great lakes cat cutoff 2026
+  - cat 85 percentile mba colleges average package
+  - mba admission 80 percentile cat
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA Admissions
+image: /images/blog/mba-guide.webp
 faqs:
-  - question: "Which are the best MBA colleges accepting CAT cut off 80 to 85 percentile?"
-    answer: "The top MBA/PGDM colleges accepting 80 to 85 percentile in CAT include TAPMI Manipal, FORE School of Management (New Delhi), Goa Institute of Management (GIM), Lal Bahadur Shastri Institute of Management (LBSIM New Delhi), Great Lakes Institute of Management (GLIM Chennai & Gurgaon), IRMA Anand, NIBM Pune, K.J. Somaiya Institute of Management (Mumbai), and DoMS IIT ISM Dhanbad."
-  - question: "What is the average placement package for colleges in the 80 to 85 CAT percentile bracket?"
-    answer: "Colleges in the 80 to 85 CAT percentile tier report strong placement figures, with overall average CTC ranging from ₹11.50 LPA to ₹16.20 LPA. For instance, FORE School of Management averages ~₹16.01 LPA, TAPMI Manipal averages ~₹13.84 LPA, GIM Goa averages ~₹14.87 LPA, and NIBM Pune averages ~₹14.16 LPA."
-  - question: "Does TAPMI or GIM have sectional cutoffs for CAT?"
-    answer: "Yes, TAPMI Manipal and GIM Goa typically prescribe minimum sectional cutoffs (usually around 70 to 75 percentile per section in VARC, DILR, and QA) for standard score-based shortlisting. However, both institutes offer profile-based shortlisting routes where exceptional academic records or work experience can relax strict cutoffs."
-  - question: "Can I convert Tier-1 corporate roles with an 80 to 85 percentile in CAT?"
-    answer: "Absolutely. B-Schools like FORE, TAPMI, LBSIM, and GIM host premier recruiters including Deloitte, PwC, EY, KPMG, BNY Mellon, Amazon, ICICI Bank, Tata Capital, and Asian Paints, offering frontline consulting, investment banking, corporate finance, and brand management roles."
-  - question: "What are the best high-ROI MBA colleges accepting 80 to 85 percentile in CAT?"
-    answer: "For maximum Return on Investment (ROI), DoMS IIT ISM Dhanbad (fees ~₹8.5 Lakhs, avg package ~₹13.0 LPA), NIBM Pune (fees ~₹16 Lakhs, avg package ~₹14.16 LPA), and BITS Pilani MBA Business Analytics (fees ~₹11.5 Lakhs, avg package ~₹15.8 LPA) offer the quickest breakeven periods."
-  - question: "Do colleges accepting 80–85 percentile in CAT accept other entrance exams like XAT, NMAT, or CMAT?"
-    answer: "Yes. Most top autonomous PGDM institutions in this bracket accept multiple national exam scores. For instance, TAPMI, GIM, FORE, and LBSIM accept XAT scores alongside CAT; Great Lakes accepts CAT, XAT, and CMAT; while K.J. Somaiya and WeSchool accept CAT, XAT, and NMAT or CMAT."
+  - question: Which are the best MBA colleges accepting CAT cut off 80 to 85 percentile?
+    answer: >-
+      The top MBA/PGDM colleges accepting 80 to 85 percentile in CAT include
+      TAPMI Manipal, FORE School of Management (New Delhi), Goa Institute of
+      Management (GIM), Lal Bahadur Shastri Institute of Management (LBSIM New
+      Delhi), Great Lakes Institute of Management (GLIM Chennai & Gurgaon), IRMA
+      Anand, NIBM Pune, K.J. Somaiya Institute of Management (Mumbai), and DoMS
+      IIT ISM Dhanbad.
+  - question: >-
+      What is the average placement package for colleges in the 80 to 85 CAT
+      percentile bracket?
+    answer: >-
+      Colleges in the 80 to 85 CAT percentile tier report strong placement
+      figures, with overall average CTC ranging from ₹11.50 LPA to ₹16.20 LPA.
+      For instance, FORE School of Management averages ~₹16.01 LPA, TAPMI
+      Manipal averages ~₹13.84 LPA, GIM Goa averages ~₹14.87 LPA, and NIBM Pune
+      averages ~₹14.16 LPA.
+  - question: Does TAPMI or GIM have sectional cutoffs for CAT?
+    answer: >-
+      Yes, TAPMI Manipal and GIM Goa typically prescribe minimum sectional
+      cutoffs (usually around 70 to 75 percentile per section in VARC, DILR, and
+      QA) for standard score-based shortlisting. However, both institutes offer
+      profile-based shortlisting routes where exceptional academic records or
+      work experience can relax strict cutoffs.
+  - question: Can I convert Tier-1 corporate roles with an 80 to 85 percentile in CAT?
+    answer: >-
+      Absolutely. B-Schools like FORE, TAPMI, LBSIM, and GIM host premier
+      recruiters including Deloitte, PwC, EY, KPMG, BNY Mellon, Amazon, ICICI
+      Bank, Tata Capital, and Asian Paints, offering frontline consulting,
+      investment banking, corporate finance, and brand management roles.
+  - question: >-
+      What are the best high-ROI MBA colleges accepting 80 to 85 percentile in
+      CAT?
+    answer: >-
+      For maximum Return on Investment (ROI), DoMS IIT ISM Dhanbad (fees ~₹8.5
+      Lakhs, avg package ~₹13.0 LPA), NIBM Pune (fees ~₹16 Lakhs, avg package
+      ~₹14.16 LPA), and BITS Pilani MBA Business Analytics (fees ~₹11.5 Lakhs,
+      avg package ~₹15.8 LPA) offer the quickest breakeven periods.
+  - question: >-
+      Do colleges accepting 80–85 percentile in CAT accept other entrance exams
+      like XAT, NMAT, or CMAT?
+    answer: >-
+      Yes. Most top autonomous PGDM institutions in this bracket accept multiple
+      national exam scores. For instance, TAPMI, GIM, FORE, and LBSIM accept XAT
+      scores alongside CAT; Great Lakes accepts CAT, XAT, and CMAT; while K.J.
+      Somaiya and WeSchool accept CAT, XAT, and NMAT or CMAT.
+location: Delhi
 ---
 
 # Top MBA Colleges Accepting CAT Cut Off 80 to 85 Percentile (2026–2027): Fees, Placements, Cutoffs & ROI Guide

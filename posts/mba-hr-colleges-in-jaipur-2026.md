@@ -13,6 +13,13 @@ keywords:
   - taxila business school fees
   - manipal university jaipur mba hr
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Jaipuria Jaipur good for an MBA in Human Resource Management?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       Yes, private universities like Manipal Jaipur and others offer direct
       admission pathways based on merit in qualifying graduation exams or
       moderate entrance scores.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

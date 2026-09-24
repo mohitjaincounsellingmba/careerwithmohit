@@ -41,7 +41,7 @@ faqs:
     answer: >-
       Yes, IMI Delhi has a good mix of both freshers and students with work
       experience in its PGDM programs.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

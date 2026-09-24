@@ -15,6 +15,13 @@ keywords:
   - jnu mca fees vs placement
   - low budget mca colleges bangalore pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is it harder to get into low-fee colleges?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Since these seats are limited, start your preparation at least **8-12
       months** before the exam. Aim for a rank in the top 1% nationally.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

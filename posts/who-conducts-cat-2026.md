@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which IIM is conducting CAT 2026?
     answer: >-
@@ -35,7 +39,7 @@ faqs:
     answer: >-
       IIM Indore last conducted the CAT exam in **2020**. Prior to that, they
       also organized CAT in **2013** and **2014**.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

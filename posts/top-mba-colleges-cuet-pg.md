@@ -17,6 +17,13 @@ keywords:
   - top MBA colleges through CUET PG
   - COQP12 colleges list
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best MBA college through CUET PG?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       Yes, the NTA follows a +4 / -1 marking scheme. Every correct answer gives
       you 4 marks, and every incorrect one deducts 1 mark.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

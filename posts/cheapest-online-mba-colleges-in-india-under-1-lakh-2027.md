@@ -1,27 +1,57 @@
 ---
-title: "Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees, ROI & Top Universities"
-date: "2026-09-17"
-category: "Online Degree & Affordable Education"
-description: "Discover top UGC-DEB approved online MBA colleges in India under ₹1 Lakh for 2027. Compare Andhra University (₹62K), Galgotias (₹90K), Uttaranchal (₹98K), zero-cost EMIs & admission steps."
+title: >-
+  Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees,
+  ROI & Top Universities
+date: '2026-09-17'
+category: Online Degree & Affordable Education
+description: >-
+  Discover top UGC-DEB approved online MBA colleges in India under ₹1 Lakh for
+  2027. Compare Andhra University (₹62K), Galgotias (₹90K), Uttaranchal (₹98K),
+  zero-cost EMIs & admission steps.
 keywords:
-  - "cheapest online mba in india fees under 1 lakh"
-  - "affordable online mba colleges in india"
-  - "low cost online mba ugc approved"
-  - "andhra university online mba fees"
-  - "galgotias online mba review"
-  - "uttaranchal university online mba 2027"
-  - "online mba under 100000"
-  - "mohit jain career counsellor"
-image: "/og-image.webp"
+  - cheapest online mba in india fees under 1 lakh
+  - affordable online mba colleges in india
+  - low cost online mba ugc approved
+  - andhra university online mba fees
+  - galgotias online mba review
+  - uttaranchal university online mba 2027
+  - online mba under 100000
+  - mohit jain career counsellor
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+image: /og-image.webp
 faqs:
-  - question: "Which is the cheapest UGC-DEB approved Online MBA in India in 2027?"
-    answer: "Andhra University Online is the most affordable UGC-approved Online MBA in India, with a total 2-year tuition fee of just ₹62,200 (approx. ₹15,550 per semester)."
-  - question: "Are cheap online MBA degrees valid for government jobs and UPSC?"
-    answer: "Yes, 100%. Under UGC Regulations 2020, fee structure has zero impact on degree validity. As long as the university holds UGC-DEB entitlement, the degree is fully equivalent to an on-campus MBA for UPSC, Bank PO, and PSU recruitments."
-  - question: "Can I pay low-cost online MBA fees in monthly installments?"
-    answer: "Yes. Most universities offer zero-cost monthly EMI options through financial partners, allowing students to pay as low as ₹2,800 to ₹3,500 per month."
-  - question: "How does Andhra University Online compare with private institutions like Amity or NMIMS?"
-    answer: "Andhra University offers maximum fee savings (₹62K vs ₹2L) and identical statutory validity for government exams, whereas private institutions offer additional specialized electives, corporate virtual job fairs, and WES global recognition."
+  - question: Which is the cheapest UGC-DEB approved Online MBA in India in 2027?
+    answer: >-
+      Andhra University Online is the most affordable UGC-approved Online MBA in
+      India, with a total 2-year tuition fee of just ₹62,200 (approx. ₹15,550
+      per semester).
+  - question: Are cheap online MBA degrees valid for government jobs and UPSC?
+    answer: >-
+      Yes, 100%. Under UGC Regulations 2020, fee structure has zero impact on
+      degree validity. As long as the university holds UGC-DEB entitlement, the
+      degree is fully equivalent to an on-campus MBA for UPSC, Bank PO, and PSU
+      recruitments.
+  - question: Can I pay low-cost online MBA fees in monthly installments?
+    answer: >-
+      Yes. Most universities offer zero-cost monthly EMI options through
+      financial partners, allowing students to pay as low as ₹2,800 to ₹3,500
+      per month.
+  - question: >-
+      How does Andhra University Online compare with private institutions like
+      Amity or NMIMS?
+    answer: >-
+      Andhra University offers maximum fee savings (₹62K vs ₹2L) and identical
+      statutory validity for government exams, whereas private institutions
+      offer additional specialized electives, corporate virtual job fairs, and
+      WES global recognition.
+location: Noida
 ---
 
 # Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees, ROI & Top Universities

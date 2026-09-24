@@ -13,6 +13,13 @@ keywords:
   - DU admission 2026 cutoff
   - CUET UG result predictor
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **Common University Entrance Test Undergraduate (CUET UG) 2026** is the single window for admission to all Central Universities in India, including **Delhi University (DU)**, **BHU**, and **JNU**. With millions of students competing across multiple shifts, understanding your raw score and expected percentile is the first step toward securing your seat.

@@ -43,7 +43,7 @@ faqs:
     answer: >-
       XLRI accepts only Xavier Aptitude Test (XAT) scores and GMAT (for
       NRI/Foreign/Executive candidates).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

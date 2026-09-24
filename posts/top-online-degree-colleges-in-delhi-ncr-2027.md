@@ -44,7 +44,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 # Top Online Degree Colleges in Delhi NCR (2027): UGC Approved Fees, Courses & Admissions

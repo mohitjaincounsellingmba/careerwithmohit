@@ -13,6 +13,13 @@ keywords:
   - Tezpur University fees
   - Tezpur B.Tech cutoff
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 [Tezpur University](/colleges/tezpur-university), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.

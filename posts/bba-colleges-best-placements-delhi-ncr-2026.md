@@ -40,7 +40,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 For many undergraduate management students, the ultimate measure of a college's quality is its placement record. Pursuing a BBA in Delhi National Capital Region (NCR) provides a unique advantage: proximity to the headquarters of major multinational corporations, top consulting firms, and leading tech companies located in Gurgaon, Noida, and Delhi.

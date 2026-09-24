@@ -16,6 +16,13 @@ keywords:
   - direct admission btech jaipur
   - '[Manipal University Jaipur](/colleges/manipal-university-jaipur) btech'
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Jaipur?
     answer: >-
@@ -43,7 +50,7 @@ faqs:
       stronger brand, better placement packages, and superior infrastructure.
       JECRC is a more affordable alternative with decent placements for
       budget-conscious students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

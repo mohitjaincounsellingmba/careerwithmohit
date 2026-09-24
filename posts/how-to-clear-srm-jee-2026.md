@@ -15,6 +15,13 @@ keywords:
   - SRMJEEE subject wise preparation
   - SRM JEE marking scheme
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **SRM Joint Engineering Entrance Examination (SRMJEEE)** is one of India's most competitive private university entrance exams — conducted by **SRM Institute of Science and Technology (SRMIST)** for admission to its B.Tech programmes across campuses in Kattankulathur (Chennai), Ramapuram, Vadapalani, and Delhi-NCR.

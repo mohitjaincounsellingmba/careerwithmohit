@@ -48,7 +48,7 @@ faqs:
     answer: >-
       Yes, the final 3 months of the 15-month program are dedicated to an
       in-depth corporate internship/project.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

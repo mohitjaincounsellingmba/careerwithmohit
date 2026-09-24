@@ -49,7 +49,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Delhi University (DU) is considered the pinnacle for commerce students across India. Thousands of students dream of securing a seat in B.Com or B.Com (Hons.) at elite DU colleges like SRCC, Hindu, and Hansraj. But with the introduction of the Common University Entrance Test (CUET) UG, the admission dynamics have changed. 

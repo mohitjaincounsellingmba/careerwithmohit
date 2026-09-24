@@ -40,7 +40,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Are you looking for a high-impact role in the industry? **Rannkly** is hiring a **Business Development Executive (SaaS)** for their **Noida, UP** team. This is a premium opportunity with a verified referral link to fast-track your application.

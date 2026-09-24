@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Where can I check my MAT May 2026 result?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
     answer: >-
       Yes. Your MAT score is valid for 12 months, so it can be used for both the
       current and upcoming admission cycles.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

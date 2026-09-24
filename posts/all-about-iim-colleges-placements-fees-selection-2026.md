@@ -22,6 +22,13 @@ keywords:
   - IIM BLACKI
   - MBA admission 2027–2029
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How many IIMs are there in India and who approves them?
     answer: >-
@@ -50,7 +57,7 @@ faqs:
       Following the enactment of the IIM Act, 2017, all 21 IIMs are empowered to
       award standard Master of Business Administration (MBA) degrees instead of
       the traditional PGDM diplomas.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

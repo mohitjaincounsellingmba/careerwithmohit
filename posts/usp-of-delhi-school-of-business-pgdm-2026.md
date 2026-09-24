@@ -40,7 +40,7 @@ faqs:
     answer: >-
       Yes — DSB offers a dedicated full-time **PGDM (FinTech)** program, one of
       the very few in Delhi.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

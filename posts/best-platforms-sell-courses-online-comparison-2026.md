@@ -15,6 +15,13 @@ keywords:
   - white label coaching app builder
   - monetize teaching skills online
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: can I migrate my students from Udemy to my own app?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
     answer: >-
       **Today.** The creator economy is maturing fast. The sooner you own your
       student data, the more valuable your business becomes.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

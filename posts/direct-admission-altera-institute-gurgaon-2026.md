@@ -41,7 +41,7 @@ faqs:
     answer: >-
       Minimum 50% in graduation and a valid score in ALNAT or any national
       entrance exam.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

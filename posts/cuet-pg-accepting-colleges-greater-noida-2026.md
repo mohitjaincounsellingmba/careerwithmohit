@@ -38,7 +38,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Greater Noida is one of India's fastest-growing educational hubs, hosting several massive university campuses. With **CUET PG 2026** score becoming a primary admission criterion, Greater Noida has become a top choice for postgraduate aspirants looking for a world-class campus experience.

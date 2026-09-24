@@ -16,6 +16,13 @@ keywords:
   - IES Management College Mumbai admission cutoffs
   - top mba colleges in Mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at IES Management College Mumbai in 2026?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at IES Management
       College Mumbai is approximately ₹9.0 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

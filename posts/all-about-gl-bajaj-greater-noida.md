@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Yes, the campus has separate hostels for boys and girls with 24/7
       security, Wi-Fi, and mess facilities.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

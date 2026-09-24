@@ -17,6 +17,10 @@ keywords:
   - Best Colleges in Ghaziabad
   - Ghaziabad Admissions 2026
   - Direct Admission in Ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When did the XAT 2027 application form open?
     answer: 'The XAT 2027 application form officially opened on **July 15, 2026**.'
@@ -31,7 +35,7 @@ faqs:
       The registration fee for XAT 2027 is **₹2,300**. If you wish to apply for
       XLRI programs directly through the portal, an additional fee of **₹200 per
       program** is applicable.
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

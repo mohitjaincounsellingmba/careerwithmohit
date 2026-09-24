@@ -23,6 +23,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is direct PGDM admission legal in AICTE approved colleges for 2027?
     answer: >-
@@ -41,7 +47,7 @@ faqs:
       Greater Noida (Knowledge Park), Ghaziabad, Pune, Bangalore, and Jaipur
       offer premier autonomous institutions with strong placement records for
       direct profile-based admissions.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 # Direct PGDM Admission 2027 Without CAT: Greater Noida, Ghaziabad, Pune & Jaipur Options

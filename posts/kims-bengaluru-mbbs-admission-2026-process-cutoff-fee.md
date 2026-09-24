@@ -15,6 +15,13 @@ keywords:
   - 'Kempegowda Institute of Medical Sciences (KIMS), Bengaluru MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the Private Open quota fee at KIMS Bengaluru?
     answer: The open private quota fee is ₹10.92 Lakhs per year.
@@ -24,7 +31,7 @@ faqs:
       kea.kar.nic.in.
   - question: What NEET rank is required for KIMS Bengaluru MBBS?
     answer: 'Expected NEET rank for Open Private Quota is under 50,000 (Score 580-610).'
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

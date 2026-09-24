@@ -1,22 +1,67 @@
 ---
-name: "NIT Durgapur (National Institute of Technology Durgapur)"
-logo: ""
-location: "Durgapur, West Bengal"
-state: "West Bengal"
-category: "Engineering"
-type: "Institute of National Importance (NIT)"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Electronics & Communication", "B.Tech Mechanical Engineering", "B.Tech Chemical Engineering", "B.Tech Biotechnology", "M.Tech Computer Science"]
+name: NIT Durgapur (National Institute of Technology Durgapur)
+logo: ''
+location: 'Durgapur, West Bengal'
+state: West Bengal
+category: Engineering
+type: Institute of National Importance (NIT)
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Mechanical Engineering
+  - B.Tech Chemical Engineering
+  - B.Tech Biotechnology
+  - M.Tech Computer Science
 established: 1960
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #43 (Engineering 2024)"
-fees: "₹5.50 - ₹6.20 Lakhs (Total 4 Years)"
-avg_placement: "₹13.60 LPA"
-highest_placement: "₹70.00 LPA"
-lowest_placement: "₹8.00 LPA"
-exams: ["JEE Main", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://nitdgp.ac.in"
-top_recruiters: ["Amazon", "Microsoft", "Qualcomm", "JPMorgan Chase", "Wells Fargo", "Tata Motors", "Schneider Electric"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #43 (Engineering 2024)'
+fees: ₹5.50 - ₹6.20 Lakhs (Total 4 Years)
+avg_placement: ₹13.60 LPA
+highest_placement: ₹70.00 LPA
+lowest_placement: ₹8.00 LPA
+exams:
+  - JEE Main
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://nitdgp.ac.in'
+top_recruiters:
+  - Amazon
+  - Microsoft
+  - Qualcomm
+  - JPMorgan Chase
+  - Wells Fargo
+  - Tata Motors
+  - Schneider Electric
+seo_title: NIT Durgapur (National Institute of Technology Durgapur) B.T
+seo_description: >-
+  Check NIT Durgapur (National Institute of Technology Durgapur) Durgapur, West
+  Bengal: B.Tech fee structure ₹5.50 - ₹6.20 Lakhs (Total 4 Years), average
+  placemen
+keywords:
+  - NIT Durgapur (National Institute of Technology Durgapur) review
+  - NIT Durgapur (National Institute of Technology Durgapur) fees structure 2027
+  - NIT Durgapur (National Institute of Technology Durgapur) average package
+  - >-
+    NIT Durgapur (National Institute of Technology Durgapur) placement report
+    2027
+  - NIT Durgapur (National Institute of Technology Durgapur) highest package
+  - NIT Durgapur (National Institute of Technology Durgapur) cutoff 2027
+  - NIT Durgapur (National Institute of Technology Durgapur) admission process
+  - NIT Durgapur (National Institute of Technology Durgapur) ranking
+  - >-
+    NIT Durgapur (National Institute of Technology Durgapur) Durgapur, West
+    Bengal
+  - is NIT Durgapur (National Institute of Technology Durgapur) good
+  - NIT Durgapur (National Institute of Technology Durgapur) mohit jain review
+  - NIT Durgapur (National Institute of Technology Durgapur) hostel fees
+  - NIT Durgapur (National Institute of Technology Durgapur) contact number
+  - NIT Durgapur (National Institute of Technology Durgapur) B.Tech fees
+  - NIT Durgapur (National Institute of Technology Durgapur) CSE placement
+  - >-
+    NIT Durgapur (National Institute of Technology Durgapur) B.Tech admission
+    2027
+  - 'engineering colleges Durgapur, West Bengal'
 ---
 
 ### About NIT Durgapur (National Institute of Technology Durgapur)

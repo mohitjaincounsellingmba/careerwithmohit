@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 For students looking for a management degree that doesn't break the bank while providing solid industry exposure, **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** is a name that frequently pops up. Known for its "out-of-class" learning approach, IBMR offers a unique **BBA + UGPM (Under Graduate Program in Management)**.

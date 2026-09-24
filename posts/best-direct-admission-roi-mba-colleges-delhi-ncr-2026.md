@@ -45,7 +45,7 @@ faqs:
       **GL Bajaj** and **Accurate Institute** in Greater Noida offer some of the
       lowest tuition fees (under ₹6 Lakhs) while maintaining solid average
       placement packages (₹6-8 LPA).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

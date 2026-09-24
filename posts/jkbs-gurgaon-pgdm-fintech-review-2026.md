@@ -42,7 +42,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 As financial institutions, payment gateways, and banking systems undergo a massive digital shift, the intersection of finance and technology—**FinTech**—has become one of the fastest-growing sectors in the global economy. Consequently, traditional finance degrees are no longer sufficient to secure top-tier roles in corporate finance and product management. 

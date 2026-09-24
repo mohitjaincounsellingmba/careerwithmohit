@@ -1,22 +1,70 @@
 ---
-name: "Netaji Subhas University of Technology (NSUT, formerly NSIT)"
-logo: ""
-location: "Dwarka, Delhi"
-state: "Delhi NCR"
-category: "Engineering"
-type: "State Technical University"
-courses: ["B.Tech Computer Science & Engineering (CSE)", "B.Tech Computer Science & AI (CSAI)", "B.Tech Information Technology (IT)", "B.Tech Electronics & Communication (ECE)", "M.Tech Embedded Systems"]
+name: 'Netaji Subhas University of Technology (NSUT, formerly NSIT)'
+logo: ''
+location: 'Dwarka, Delhi'
+state: Delhi NCR
+category: Engineering
+type: State Technical University
+courses:
+  - B.Tech Computer Science & Engineering (CSE)
+  - B.Tech Computer Science & AI (CSAI)
+  - B.Tech Information Technology (IT)
+  - B.Tech Electronics & Communication (ECE)
+  - M.Tech Embedded Systems
 established: 1983
-ownership: "Public State University (Govt. of NCT of Delhi)"
-ranking: "NIRF Rank #60 (Engineering 2024)"
-fees: "₹8.00 - ₹9.20 Lakhs (Total 4 Years)"
-avg_placement: "₹16.80 LPA"
-highest_placement: "₹1.50 CPA"
-lowest_placement: "₹10.00 LPA"
-exams: ["JEE Main (JAC Delhi Counselling)", "GATE"]
-brochure_url: "#"
-website: "http://nsut.ac.in"
-top_recruiters: ["Google", "Microsoft", "Amazon", "Tower Research", "DE Shaw", "Directi", "Salesforce", "Adobe"]
+ownership: Public State University (Govt. of NCT of Delhi)
+ranking: 'NIRF Rank #60 (Engineering 2024)'
+fees: ₹8.00 - ₹9.20 Lakhs (Total 4 Years)
+avg_placement: ₹16.80 LPA
+highest_placement: ₹1.50 CPA
+lowest_placement: ₹10.00 LPA
+exams:
+  - JEE Main (JAC Delhi Counselling)
+  - GATE
+brochure_url: '#'
+website: 'http://nsut.ac.in'
+top_recruiters:
+  - Google
+  - Microsoft
+  - Amazon
+  - Tower Research
+  - DE Shaw
+  - Directi
+  - Salesforce
+  - Adobe
+seo_title: 'Netaji Subhas University of Technology (NSUT, formerly NSIT)'
+seo_description: >-
+  Check Netaji Subhas University of Technology (NSUT, formerly NSIT) Dwarka,
+  Delhi: B.Tech fee structure ₹8.00 - ₹9.20 Lakhs (Total 4 Years), average
+  placement ₹1
+keywords:
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) review'
+  - >-
+    Netaji Subhas University of Technology (NSUT, formerly NSIT) fees structure
+    2027
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) average package'
+  - >-
+    Netaji Subhas University of Technology (NSUT, formerly NSIT) placement
+    report 2027
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) highest package'
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) cutoff 2027'
+  - >-
+    Netaji Subhas University of Technology (NSUT, formerly NSIT) admission
+    process
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) ranking'
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) Dwarka, Delhi'
+  - 'is Netaji Subhas University of Technology (NSUT, formerly NSIT) good'
+  - >-
+    Netaji Subhas University of Technology (NSUT, formerly NSIT) mohit jain
+    review
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) hostel fees'
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) contact number'
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) B.Tech fees'
+  - 'Netaji Subhas University of Technology (NSUT, formerly NSIT) CSE placement'
+  - >-
+    Netaji Subhas University of Technology (NSUT, formerly NSIT) B.Tech
+    admission 2027
+  - 'engineering colleges Dwarka, Delhi'
 ---
 
 ### About Netaji Subhas University of Technology (NSUT, formerly NSIT)

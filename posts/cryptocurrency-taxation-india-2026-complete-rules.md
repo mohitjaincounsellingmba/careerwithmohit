@@ -17,6 +17,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What if I hold crypto for more than 3 years?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
     answer: >-
       Non-disclosure of VDA can lead to a penalty of **up to 300%** of the tax
       evaded, along with potential prosecution.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

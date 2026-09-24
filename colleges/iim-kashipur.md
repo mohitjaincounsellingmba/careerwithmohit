@@ -1,21 +1,54 @@
 ---
-name: "IIM Kashipur"
-logo: "/logo.webp"
-location: "Kundeshwari, Kashipur, Uttarakhand"
-category: "Management"
-type: "Institute"
-courses: ["MBA (Flagship)", "MBA Analytics", "Executive MBA"]
+name: IIM Kashipur
+logo: /logo.webp
+location: 'Kundeshwari, Kashipur, Uttarakhand'
+category: Management
+type: Institute
+courses:
+  - MBA (Flagship)
+  - MBA Analytics
+  - Executive MBA
 established: 2011
-ownership: "Government Autonomous (IIM)"
-ranking: "NIRF Rank #23 (Management 2024)"
-fees: "₹17.30 Lakhs (Total)"
-avg_placement: "₹18.11 LPA"
-highest_placement: "₹37.00 LPA"
-lowest_placement: "₹11.50 LPA"
-exams: ["CAT"]
-brochure_url: "#"
-website: "https://www.iimkashipur.ac.in"
-top_recruiters: ["Deloitte", "EY", "KPMG", "Aditya Birla Group", "Tata Motors", "Bank of America"]
+ownership: Government Autonomous (IIM)
+ranking: 'NIRF Rank #23 (Management 2024)'
+fees: ₹17.30 Lakhs (Total)
+avg_placement: ₹18.11 LPA
+highest_placement: ₹37.00 LPA
+lowest_placement: ₹11.50 LPA
+exams:
+  - CAT
+brochure_url: '#'
+website: 'https://www.iimkashipur.ac.in'
+top_recruiters:
+  - Deloitte
+  - EY
+  - KPMG
+  - Aditya Birla Group
+  - Tata Motors
+  - Bank of America
+seo_title: 'IIM Kashipur MBA Fees, Cutoff & Placement 2027'
+seo_description: >-
+  Explore IIM Kashipur Kundeshwari, Kashipur, Uttarakhand: MBA/PGDM fee
+  structure ₹17.30 Lakhs (Total), average placement ₹18.11 LPA, highest CTC,
+  ranking, and 20
+keywords:
+  - IIM Kashipur review
+  - IIM Kashipur fees structure 2027
+  - IIM Kashipur average package
+  - IIM Kashipur placement report 2027
+  - IIM Kashipur highest package
+  - IIM Kashipur cutoff 2027
+  - IIM Kashipur admission process
+  - IIM Kashipur ranking
+  - 'IIM Kashipur Kundeshwari, Kashipur, Uttarakhand'
+  - is IIM Kashipur good
+  - IIM Kashipur mohit jain review
+  - IIM Kashipur hostel fees
+  - IIM Kashipur contact number
+  - IIM Kashipur MBA fees
+  - IIM Kashipur PGDM placement
+  - IIM Kashipur MBA admission 2027
+  - 'MBA colleges Kundeshwari, Kashipur, Uttarakhand'
 ---
 
 ### About IIM Kashipur

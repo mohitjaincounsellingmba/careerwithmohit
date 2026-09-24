@@ -16,6 +16,13 @@ keywords:
   - cuet general test for bba strategy
   - bhu bba admission 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is CUET mandatory for all BBA colleges in 2026?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       and placements in firms like KPMG and Amazon have been reported.
   - question: When is the CUET 2026 exam?
     answer: Typically held in **May/June 2026** across multiple shifts.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

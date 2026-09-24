@@ -16,6 +16,13 @@ keywords:
   - uttarakhand engineering admission 2026
   - private engineering college dehradun fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the best B.Tech college in Dehradun?
     answer: >-
@@ -41,7 +48,7 @@ faqs:
     answer: >-
       Graphic Era charges approximately ₹1.8 Lakhs per year. Total B.Tech
       programme cost is around ₹7–7.5 Lakhs.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

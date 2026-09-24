@@ -41,7 +41,7 @@ faqs:
       years of experience.
   - question: What are SOIL's total fees?
     answer: 'PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lakhs.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

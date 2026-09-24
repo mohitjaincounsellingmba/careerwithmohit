@@ -66,7 +66,7 @@ faqs:
       fintech companies in roles like Credit Analyst, Wealth Manager, or Banking
       Operations Executive can earn even higher packages with performance
       incentives.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

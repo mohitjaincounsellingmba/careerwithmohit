@@ -13,6 +13,13 @@ keywords:
   - taxila business school fees jaipur
   - manipal university jaipur mba
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the highest-ranked MBA college in Jaipur?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
       Yes, private universities like Manipal Jaipur provide direct admission
       options based on institutional entrance criteria or moderate exam
       percentiles.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

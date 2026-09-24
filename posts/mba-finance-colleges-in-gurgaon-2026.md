@@ -35,7 +35,7 @@ faqs:
     answer: >-
       JKBS offers excellent corporate interface, internships, and affordable
       fees paired with average placement packages around INR 7.0 LPA.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

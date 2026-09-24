@@ -15,6 +15,13 @@ keywords:
   - career in law for arts students
   - maths in ailet exam
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is there any Law specialization that requires Maths?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       If you have stayed away from logic and maths, start your CLAT prep at
       least **12 months before the exam** to build the thinking patterns
       required for the test.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How many Reading Comprehension (RC) passages appear in CAT VARC?
     answer: >-
@@ -45,7 +50,7 @@ faqs:
       With an accuracy of **85%**, attempting **16 to 18 questions** (typically
       3 complete RCs + 4 to 5 Verbal Ability questions) is sufficient to score
       **40+ marks**, which usually maps to a **99+ percentile** in CAT VARC.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

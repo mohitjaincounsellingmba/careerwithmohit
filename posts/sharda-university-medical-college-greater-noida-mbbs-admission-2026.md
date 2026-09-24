@@ -39,7 +39,7 @@ faqs:
       including hostel, security, and tuition fees.
   - question: What is the NEET cutoff for Sharda Medical College Greater Noida?
     answer: 'The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000).'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

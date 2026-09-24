@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in private law colleges?
     answer: >-
@@ -37,7 +42,7 @@ faqs:
     answer: >-
       Symbiosis (SLAT) applications usually close by **mid-April**. Always check
       the official portal in January of your 12th year.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

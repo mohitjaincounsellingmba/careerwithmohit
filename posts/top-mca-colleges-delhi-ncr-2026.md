@@ -46,7 +46,7 @@ faqs:
     answer: >-
       Usually held in **June**. Registrations typically open in February or
       March of 2026.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

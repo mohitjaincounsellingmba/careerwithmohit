@@ -15,6 +15,13 @@ keywords:
   - BIMM vs BITM vs BIIB
   - Sri Balaji University fees 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Sri Balaji University, Pune (SBUP)—famously known for its flagship institute **BIMM**—is often the first name that comes to mind when talking about "disciplined" MBA colleges in Pune. With its military-style training and 365-day working model, it promises to turn students into corporate-ready professionals.

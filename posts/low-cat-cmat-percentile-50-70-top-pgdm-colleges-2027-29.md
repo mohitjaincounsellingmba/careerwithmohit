@@ -18,6 +18,13 @@ keywords:
   - ISBR Bangalore MAT CMAT Cutoff
   - FIIB Delhi Admission Low Score
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get a decent PGDM college with 50-60 percentile in CAT or CMAT?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       Focus on highlighting your graduation projects, internships, domain
       interest, communication clarity, and strong performance in current
       affairs/business topics during the personal interview.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

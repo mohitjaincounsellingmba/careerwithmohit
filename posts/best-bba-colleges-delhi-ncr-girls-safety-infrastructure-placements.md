@@ -40,7 +40,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 For female students moving to Delhi NCR for undergraduate studies, safety, secure living conditions, and supportive campus environments are critical decision factors alongside academic reputation and placement opportunities.

@@ -17,6 +17,13 @@ keywords:
   - neet 2026 qualifying marks
   - top medical colleges neet cutoff
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is NCERT enough for NEET Physics?
     answer: >-
@@ -37,7 +44,7 @@ faqs:
     answer: >-
       Ideally, from **January 2026**. This gives you 4 months to fine-tune your
       speed and accuracy.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

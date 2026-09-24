@@ -13,6 +13,13 @@ keywords:
   - IIM Amritsar admission cutoffs
   - top mba colleges in Amritsar
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the average package at IIM Amritsar in 2026?
     answer: >-
@@ -26,7 +33,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at IIM Amritsar is
       approximately ₹16.0 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

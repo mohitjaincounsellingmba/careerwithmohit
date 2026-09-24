@@ -14,6 +14,13 @@ keywords:
   - iim ranchi integrated mba
   - best bba program in india
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does IIM Ranchi accept IPMAT Rohtak scores?
     answer: >-
@@ -22,7 +29,7 @@ faqs:
       Rohtak or JIPMAT scores.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2027–2029 intake.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

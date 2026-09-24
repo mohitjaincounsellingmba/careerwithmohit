@@ -16,6 +16,13 @@ keywords:
   - Q-Care entrance exam 2026
   - BTech admission Roorkee
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are Passion Programs at Quantum?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
     answer: >-
       Yes, students with very high 10+2 marks can apply for direct merit-based
       admission for specific seats.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

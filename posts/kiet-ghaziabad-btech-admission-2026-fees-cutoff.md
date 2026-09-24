@@ -41,7 +41,7 @@ faqs:
     answer: >-
       Yes, the university provides merit-based scholarships and government-aided
       fee waivers for deserving students.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

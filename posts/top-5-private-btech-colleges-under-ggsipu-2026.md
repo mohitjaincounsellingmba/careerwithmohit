@@ -45,7 +45,7 @@ faqs:
       The average placement package at Maharaja Surajmal Institute of Technology
       (MSIT) ranges between ₹5.0 LPA and ₹8.0 LPA, with top packages going above
       ₹50 LPA.
-location: Delhi NCR
+location: Faridabad
 state: Delhi NCR
 ---
 

@@ -16,6 +16,13 @@ keywords:
   - Manipal online MBA placement 2026
   - is Manipal online MBA worth it 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Is Manipal MAHE Online MBA and [Manipal University
@@ -38,7 +45,7 @@ faqs:
       Yes. Zero-cost EMI options are available through partner banks. You can
       also apply for education loans through HDFC Credila, Avanse, and other
       NBFCs.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -41,7 +41,7 @@ faqs:
       MDI Gurgaon accepts CAT scores, with the shortlist cutoff generally
       hovering between 94.5+ and 96.5+ percentile for General category
       candidates.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

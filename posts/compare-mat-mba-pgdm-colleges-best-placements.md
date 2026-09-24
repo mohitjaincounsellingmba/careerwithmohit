@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which MAT accepting B-school has the best placement?
     answer: >-
@@ -31,7 +36,7 @@ faqs:
       You can book a free counselling session with Mohit Jain by submitting your
       profile details on our Inquiry page or contacting our expert desk via
       WhatsApp.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

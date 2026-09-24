@@ -43,7 +43,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 For a B.Tech student, the city you choose is more than just a location—it is your **professional playground**. The proximity to tech parks, industrial zones, and research labs can significantly impact your **internships, industrial visits, and campus placements**.

@@ -38,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 The Management Aptitude Test (MAT) is one of the most widely accepted MBA entrance exams in India. Conducted by the All India Management Association (AIMA) in multiple cycles (February, May, September, and December), MAT is a popular choice for candidates who want to bypass the high difficulty of CAT/XAT while still targetting premium B-schools.

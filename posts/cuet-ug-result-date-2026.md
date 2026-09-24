@@ -17,6 +17,13 @@ keywords:
   - DU CSAS portal registration 2026
   - NTA CUET UG results 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 With the National Testing Agency (NTA) closing the objection window for the provisional answer key on **June 11, 2026**, millions of candidates are now eagerly waiting for the **CUET UG result date 2026**. 

@@ -1,22 +1,61 @@
 ---
-name: "Vellore Institute of Technology (VIT Vellore)"
-logo: ""
-location: "Vellore, Tamil Nadu"
-state: "Tamil Nadu"
-category: "Engineering"
-type: "Institute of Eminence / Deemed University"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech CSE with AI & Machine Learning", "B.Tech Electronics & Communication", "B.Tech Mechanical Engineering", "B.Tech Biotechnology", "M.Tech Computer Science & Engineering"]
+name: Vellore Institute of Technology (VIT Vellore)
+logo: ''
+location: 'Vellore, Tamil Nadu'
+state: Tamil Nadu
+category: Engineering
+type: Institute of Eminence / Deemed University
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech CSE with AI & Machine Learning
+  - B.Tech Electronics & Communication
+  - B.Tech Mechanical Engineering
+  - B.Tech Biotechnology
+  - M.Tech Computer Science & Engineering
 established: 1984
-ownership: "Private Deemed University"
-ranking: "NIRF Rank #11 (Engineering 2024)"
-fees: "₹7.80 - ₹19.80 Lakhs (Category 1-5)"
-avg_placement: "₹9.90 LPA"
-highest_placement: "₹1.02 CPA"
-lowest_placement: "₹5.50 LPA"
-exams: ["VITEEE", "GATE"]
-brochure_url: "#"
-website: "https://vit.ac.in"
-top_recruiters: ["Microsoft", "Amazon", "AppDynamics", "D.E. Shaw", "PayPal", "Intel", "Deloitte", "Wipro"]
+ownership: Private Deemed University
+ranking: 'NIRF Rank #11 (Engineering 2024)'
+fees: ₹7.80 - ₹19.80 Lakhs (Category 1-5)
+avg_placement: ₹9.90 LPA
+highest_placement: ₹1.02 CPA
+lowest_placement: ₹5.50 LPA
+exams:
+  - VITEEE
+  - GATE
+brochure_url: '#'
+website: 'https://vit.ac.in'
+top_recruiters:
+  - Microsoft
+  - Amazon
+  - AppDynamics
+  - D.E. Shaw
+  - PayPal
+  - Intel
+  - Deloitte
+  - Wipro
+seo_title: 'Vellore Institute of Technology (VIT Vellore) B.Tech Fees, C'
+seo_description: >-
+  Check Vellore Institute of Technology (VIT Vellore) Vellore, Tamil Nadu:
+  B.Tech fee structure ₹7.80 - ₹19.80 Lakhs (Category 1-5), average placement
+  ₹9.90 LPA, 
+keywords:
+  - Vellore Institute of Technology (VIT Vellore) review
+  - Vellore Institute of Technology (VIT Vellore) fees structure 2027
+  - Vellore Institute of Technology (VIT Vellore) average package
+  - Vellore Institute of Technology (VIT Vellore) placement report 2027
+  - Vellore Institute of Technology (VIT Vellore) highest package
+  - Vellore Institute of Technology (VIT Vellore) cutoff 2027
+  - Vellore Institute of Technology (VIT Vellore) admission process
+  - Vellore Institute of Technology (VIT Vellore) ranking
+  - 'Vellore Institute of Technology (VIT Vellore) Vellore, Tamil Nadu'
+  - is Vellore Institute of Technology (VIT Vellore) good
+  - Vellore Institute of Technology (VIT Vellore) mohit jain review
+  - Vellore Institute of Technology (VIT Vellore) hostel fees
+  - Vellore Institute of Technology (VIT Vellore) contact number
+  - Vellore Institute of Technology (VIT Vellore) B.Tech fees
+  - Vellore Institute of Technology (VIT Vellore) CSE placement
+  - Vellore Institute of Technology (VIT Vellore) B.Tech admission 2027
+  - 'engineering colleges Vellore, Tamil Nadu'
 ---
 
 ### About Vellore Institute of Technology (VIT Vellore)

@@ -29,7 +29,7 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 category: Colleges
-location: Delhi NCR
+location: Faridabad
 faqs:
   - question: >-
       Is Manav Rachna International Institute of Research and Studies (MRIIRS),

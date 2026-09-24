@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Yes, being an AKTU affiliate, JSS follows the 75% attendance rule
       strictly.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

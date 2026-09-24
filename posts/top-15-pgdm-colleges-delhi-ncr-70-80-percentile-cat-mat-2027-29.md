@@ -54,7 +54,8 @@ keywords:
   - Delhi NCR Career Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
-location: Delhi NCR
+  - Noida Admissions 2026
+location: Noida
 faqs:
   - question: >-
       Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and

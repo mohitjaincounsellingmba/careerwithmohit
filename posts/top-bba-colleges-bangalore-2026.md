@@ -16,6 +16,13 @@ keywords:
   - direct bba admission bangalore fees
   - bangalore bba placements report
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When is the Christ University BBA entrance 2026?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Yes. Several colleges like **MS Ramaiah and Presidency** do not mandate
       math in 12th for BBA admissions.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

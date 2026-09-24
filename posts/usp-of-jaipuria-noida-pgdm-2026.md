@@ -35,7 +35,7 @@ faqs:
     answer: Yes — placing it in the top 6% of B-schools globally.
   - question: What is the total fee?
     answer: '₹16.50 Lakhs for 2027–29, with scholarships up to ₹5 Lakhs available.'
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

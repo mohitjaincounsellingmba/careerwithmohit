@@ -41,7 +41,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at I Business
       Institute (IBI) is approximately ₹10.75 Lakhs (Total).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

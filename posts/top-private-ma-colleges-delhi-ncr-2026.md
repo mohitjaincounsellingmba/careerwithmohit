@@ -41,7 +41,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 For many Master of Arts (MA) aspirants, the traditional route often leads to government universities like DU, JNU, or Jamia. However, with rising competition and the need for industry-aligned curricula, **private universities in Delhi NCR** have emerged as powerhouse alternatives. These institutions offer state-of-the-art infrastructure, global faculty, and niche specializations that traditional universities often lack.

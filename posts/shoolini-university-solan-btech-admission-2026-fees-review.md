@@ -13,6 +13,13 @@ keywords:
   - SU-SAT 2026 exam
   - BTech admission Himachal Pradesh
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is Shoolini University globally ranked?
     answer: >-
@@ -26,7 +33,7 @@ faqs:
     answer: >-
       Yes, Shoolini accepts JEE Main, CUET, and its own SU-SAT scores for
       admission.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

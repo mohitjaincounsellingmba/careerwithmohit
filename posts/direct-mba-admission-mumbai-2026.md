@@ -13,6 +13,13 @@ keywords:
   - itm mumbai admission
   - how to get direct admission in mumbai b-schools
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Mumbai, the financial capital of India, is the most coveted destination for MBA aspirants. While scores like CAT, CET, and MAT are the standard routes, many top private institutes offer **Direct MBA Admission in Mumbai** through management or institutional quotas.

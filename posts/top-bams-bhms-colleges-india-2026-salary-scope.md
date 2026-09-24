@@ -18,6 +18,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is NEET required for BAMS in private colleges?
     answer: >-
@@ -36,7 +41,7 @@ faqs:
     answer: >-
       It usually starts in **September/October**, following the completion of
       the main MBBS/BDS counselling rounds.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

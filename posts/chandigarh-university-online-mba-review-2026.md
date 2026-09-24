@@ -18,6 +18,13 @@ keywords:
   - Chandigarh University UGC DEB approved MBA
   - is CU online MBA worth it 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-
@@ -36,7 +43,7 @@ faqs:
     answer: >-
       CU holds **NAAC A+** (not A++). Do not confuse it with other universities
       — always verify accreditation at [naac.gov.in](https://naac.gov.in).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

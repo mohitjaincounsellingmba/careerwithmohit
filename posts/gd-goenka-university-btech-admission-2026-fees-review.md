@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is GD Goenka a good college for B.Tech?
     answer: >-
@@ -28,7 +33,7 @@ faqs:
     answer: >-
       GATA is the university's entrance test used for merit selection and
       scholarship allocation.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

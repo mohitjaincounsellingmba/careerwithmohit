@@ -16,6 +16,13 @@ keywords:
   - SIES College of Management Studies Navi Mumbai admission cutoffs
   - top mba colleges in Navi Mumbai
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the average package at SIES College of Management Studies Navi
@@ -37,7 +44,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at SIES College of
       Management Studies Navi Mumbai is approximately ₹9.0 Lakhs (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

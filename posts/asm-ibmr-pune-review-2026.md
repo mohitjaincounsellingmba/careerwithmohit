@@ -16,6 +16,13 @@ keywords:
   - ASM Institute of Business Management & Research (IBMR) admission cutoffs
   - top mba colleges in Chinchwad
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the average package at ASM Institute of Business Management &
@@ -38,7 +45,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at ASM Institute
       of Business Management & Research (IBMR) is approximately ₹3.75L - ₹6.95L
       (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

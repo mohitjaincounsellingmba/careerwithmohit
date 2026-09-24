@@ -13,6 +13,13 @@ keywords:
   - CUET hall ticket link 2026
   - NTA CUET admit card released
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The National Testing Agency (NTA) has officially released the **CUET UG 2026 Admit Card** on **May 5, 2026**. This is a critical update for millions of aspirants appearing for the Common University Entrance Test starting from **May 11, 2026**.

@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is KR Mangalam a recognized university?
     answer: 'Yes, it is recognized by UGC and holds NAAC ''A'' grade accreditation.'
@@ -26,7 +31,7 @@ faqs:
     answer: >-
       No, but many students prefer it due to the campus's modern facilities and
       distance from the city center.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -1,17 +1,53 @@
 ---
-title: "Top MBA & PGDM Colleges in Delhi NCR 2027–2029: Fees, Cutoffs, Placements & Admission Process"
-date: "2026-09-06"
-description: "Discover top MBA & PGDM colleges in Delhi NCR for 2027–2029 admissions. Compare verified fees, CAT/MAT/CMAT cutoffs, placement packages, and application dates for FMS, MDI, NDIM, FOSTIIMA, FIIB, Jaipuria, and JIMS."
-keywords: ["Top MBA Colleges Delhi NCR 2027-2029", "PGDM Admissions Delhi NCR 2027", "NDIM Delhi Admission 2027", "FOSTIIMA Business School Fees", "FIIB Delhi Placement 2027", "Jaipuria Noida Admission", "JIMS Rohini Fees 2027", "MBA Colleges in Gurgaon and Noida 2027"]
-category: "MBA"
-image: "/images/blog/delhi-ncr-mba.webp"
+title: >-
+  Top MBA & PGDM Colleges in Delhi NCR 2027–2029: Fees, Cutoffs, Placements &
+  Admission Process
+date: '2026-09-06'
+description: >-
+  Discover top MBA & PGDM colleges in Delhi NCR for 2027–2029 admissions.
+  Compare verified fees, CAT/MAT/CMAT cutoffs, placement packages, and
+  application dates for FMS, MDI, NDIM, FOSTIIMA, FIIB, Jaipuria, and JIMS.
+keywords:
+  - Top MBA Colleges Delhi NCR 2027-2029
+  - PGDM Admissions Delhi NCR 2027
+  - NDIM Delhi Admission 2027
+  - FOSTIIMA Business School Fees
+  - FIIB Delhi Placement 2027
+  - Jaipuria Noida Admission
+  - JIMS Rohini Fees 2027
+  - MBA Colleges in Gurgaon and Noida 2027
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+category: MBA
+image: /images/blog/delhi-ncr-mba.webp
 faqs:
-  - question: "Which is the best ROI MBA college in Delhi NCR?"
-    answer: "FMS Delhi (Faculty of Management Studies, DU) offers the highest ROI with total fees of approx ₹2.40 Lakhs and an average placement package of ₹34.10 LPA."
-  - question: "What are the best Tier-2 PGDM colleges in Delhi NCR under ₹12-14 Lakhs budget?"
-    answer: "Leading Tier-2 B-schools include NDIM Delhi (₹11.5L-₹13.75L, avg ₹9.5 LPA), FOSTIIMA Delhi (₹11.5L, avg ₹11.15 LPA), FIIB South Delhi (₹12.85L, avg ₹8.5 LPA), Jaipuria Noida (₹15.5L, avg ₹11.29 LPA), and JIMS Rohini/Kalkaji (₹9.5L-₹9.75L, avg ₹8.1 LPA)."
-  - question: "Can I get admission in Delhi NCR PGDM colleges with a 60-75 percentile in MAT/CMAT?"
-    answer: "Yes, reputed AICTE-approved colleges like NDIM, FOSTIIMA, FIIB, JIMS, GL Bajaj, and GIMS Greater Noida actively accept 60-75 percentile in MAT, CMAT, ATMA, and CAT."
+  - question: Which is the best ROI MBA college in Delhi NCR?
+    answer: >-
+      FMS Delhi (Faculty of Management Studies, DU) offers the highest ROI with
+      total fees of approx ₹2.40 Lakhs and an average placement package of
+      ₹34.10 LPA.
+  - question: >-
+      What are the best Tier-2 PGDM colleges in Delhi NCR under ₹12-14 Lakhs
+      budget?
+    answer: >-
+      Leading Tier-2 B-schools include NDIM Delhi (₹11.5L-₹13.75L, avg ₹9.5
+      LPA), FOSTIIMA Delhi (₹11.5L, avg ₹11.15 LPA), FIIB South Delhi (₹12.85L,
+      avg ₹8.5 LPA), Jaipuria Noida (₹15.5L, avg ₹11.29 LPA), and JIMS
+      Rohini/Kalkaji (₹9.5L-₹9.75L, avg ₹8.1 LPA).
+  - question: >-
+      Can I get admission in Delhi NCR PGDM colleges with a 60-75 percentile in
+      MAT/CMAT?
+    answer: >-
+      Yes, reputed AICTE-approved colleges like NDIM, FOSTIIMA, FIIB, JIMS, GL
+      Bajaj, and GIMS Greater Noida actively accept 60-75 percentile in MAT,
+      CMAT, ATMA, and CAT.
+location: Noida
 ---
 
 # Top MBA & PGDM Colleges in Delhi NCR 2027–2029: Fees, Cutoffs, Placements & Admission Process

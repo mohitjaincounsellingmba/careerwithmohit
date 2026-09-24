@@ -39,7 +39,7 @@ faqs:
       MSIT) ranges from **₹1.0 to 1.2 Lakhs**.
   - question: Can I get direct admission in BBA in Delhi?
     answer: "Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.\n\n[\U0001F449 Build My Delhi BBA Roadmap](/inquiry) | [\U0001F4AC Schedule a Private Profile Review](/inquiry)"
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

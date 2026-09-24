@@ -16,6 +16,13 @@ keywords:
   - ipu cet mba rank cutoff
   - best mba colleges in delhi ipu cutoff
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get USMS Dwarka with a CMAT score?
     answer: >-
@@ -32,7 +39,7 @@ faqs:
       USMS is the university's on-campus department. It has the lowest fees and
       the highest brand value. Affiliated colleges are private but follow the
       same curriculum and degree.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -1,22 +1,65 @@
 ---
-name: "NIT Agartala (National Institute of Technology Agartala)"
-logo: ""
-location: "Agartala, Tripura"
-state: "Assam & North East"
-category: "Engineering"
-type: "Institute of National Importance (NIT)"
-courses: ["B.Tech Computer Science & Engineering", "B.Tech Electronics & Communication", "B.Tech Electrical Engineering", "B.Tech Mechanical Engineering", "B.Tech Chemical Engineering", "M.Tech Computer Science"]
+name: NIT Agartala (National Institute of Technology Agartala)
+logo: ''
+location: 'Agartala, Tripura'
+state: Assam & North East
+category: Engineering
+type: Institute of National Importance (NIT)
+courses:
+  - B.Tech Computer Science & Engineering
+  - B.Tech Electronics & Communication
+  - B.Tech Electrical Engineering
+  - B.Tech Mechanical Engineering
+  - B.Tech Chemical Engineering
+  - M.Tech Computer Science
 established: 1965
-ownership: "Public Autonomous (Govt. of India)"
-ranking: "NIRF Rank #82 (Engineering 2024)"
-fees: "₹5.50 - ₹6.50 Lakhs (Total 4 Years)"
-avg_placement: "₹10.50 LPA"
-highest_placement: "₹52.00 LPA"
-lowest_placement: "₹6.50 LPA"
-exams: ["JEE Main", "DASA", "GATE"]
-brochure_url: "#"
-website: "https://www.nita.ac.in"
-top_recruiters: ["Amazon", "Oracle", "Samsung", "Tata Motors", "Capgemini", "Infosys", "L&T"]
+ownership: Public Autonomous (Govt. of India)
+ranking: 'NIRF Rank #82 (Engineering 2024)'
+fees: ₹5.50 - ₹6.50 Lakhs (Total 4 Years)
+avg_placement: ₹10.50 LPA
+highest_placement: ₹52.00 LPA
+lowest_placement: ₹6.50 LPA
+exams:
+  - JEE Main
+  - DASA
+  - GATE
+brochure_url: '#'
+website: 'https://www.nita.ac.in'
+top_recruiters:
+  - Amazon
+  - Oracle
+  - Samsung
+  - Tata Motors
+  - Capgemini
+  - Infosys
+  - L&T
+seo_title: NIT Agartala (National Institute of Technology Agartala) B.T
+seo_description: >-
+  Check NIT Agartala (National Institute of Technology Agartala) Agartala,
+  Tripura: B.Tech fee structure ₹5.50 - ₹6.50 Lakhs (Total 4 Years), average
+  placement ₹1
+keywords:
+  - NIT Agartala (National Institute of Technology Agartala) review
+  - NIT Agartala (National Institute of Technology Agartala) fees structure 2027
+  - NIT Agartala (National Institute of Technology Agartala) average package
+  - >-
+    NIT Agartala (National Institute of Technology Agartala) placement report
+    2027
+  - NIT Agartala (National Institute of Technology Agartala) highest package
+  - NIT Agartala (National Institute of Technology Agartala) cutoff 2027
+  - NIT Agartala (National Institute of Technology Agartala) admission process
+  - NIT Agartala (National Institute of Technology Agartala) ranking
+  - 'NIT Agartala (National Institute of Technology Agartala) Agartala, Tripura'
+  - is NIT Agartala (National Institute of Technology Agartala) good
+  - NIT Agartala (National Institute of Technology Agartala) mohit jain review
+  - NIT Agartala (National Institute of Technology Agartala) hostel fees
+  - NIT Agartala (National Institute of Technology Agartala) contact number
+  - NIT Agartala (National Institute of Technology Agartala) B.Tech fees
+  - NIT Agartala (National Institute of Technology Agartala) CSE placement
+  - >-
+    NIT Agartala (National Institute of Technology Agartala) B.Tech admission
+    2027
+  - 'engineering colleges Agartala, Tripura'
 ---
 
 ### About NIT Agartala (National Institute of Technology Agartala)

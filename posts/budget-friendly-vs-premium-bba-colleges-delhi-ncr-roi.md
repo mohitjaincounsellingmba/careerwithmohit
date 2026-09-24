@@ -39,7 +39,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 When researching Bachelor of Business Administration (BBA) options in Delhi NCR, you will find two distinct categories of colleges: **budget-friendly government or state institutions** and **premium private universities**.

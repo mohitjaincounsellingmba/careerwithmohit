@@ -38,7 +38,7 @@ faqs:
     answer: >-
       IIFT offers the program in weekend format (Saturdays and Sundays) as well
       as modular format (on-campus blocks every few months).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -39,7 +39,7 @@ faqs:
     answer: >-
       Cutoffs for reserved categories are much higher (relaxed). For example, SC
       candidates from Delhi often get branches under 1.5 Lakh rank.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

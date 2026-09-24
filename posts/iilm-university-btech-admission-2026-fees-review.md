@@ -37,7 +37,7 @@ faqs:
       specializations and atmospheres.
   - question: What is the highest package at IILM?
     answer: The highest package recent reached ₹26 LPA at the Greater Noida campus.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

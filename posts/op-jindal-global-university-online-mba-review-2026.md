@@ -13,6 +13,13 @@ keywords:
   - AACSB accredited online MBA India
   - best premium online MBA India
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **OP Jindal Global University (JGU)** is widely regarded as one of India's most elite private institutions. It holds the distinction of being an **Institution of Eminence** and is consistently ranked among the top universities in the QS World University Rankings. Its Online MBA, delivered through the **Jindal Global Business School (JGBS)**, is designed for those with global career ambitions.

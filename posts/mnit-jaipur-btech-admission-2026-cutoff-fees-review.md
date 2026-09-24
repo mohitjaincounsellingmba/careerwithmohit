@@ -15,6 +15,13 @@ keywords:
   - '[MNIT Jaipur](/colleges/mnit-jaipur) placement review 2025'
   - 'NIRF ranking [MNIT Jaipur](/colleges/mnit-jaipur)'
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Malaviya National Institute of Technology (MNIT) Jaipur is one of the oldest and most prestigious NITs in India. Known for its world-class infrastructure and strong placement records, it remains a top choice for students from Rajasthan and across India. 

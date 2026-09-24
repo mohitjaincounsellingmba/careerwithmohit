@@ -15,6 +15,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the CAT 2026 exam date?
     answer: >-
@@ -34,7 +39,7 @@ faqs:
       high-school mathematics.
   - question: Can I get a top college with 90 percentile in CAT?
     answer: "Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges/fore-school-delhi)** often accept students in the 85-92 percentile range.\n\n[\U0001F449 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)"
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

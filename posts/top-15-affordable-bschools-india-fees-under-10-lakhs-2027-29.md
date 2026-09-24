@@ -21,6 +21,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which is the cheapest MBA college in India with top placement?
     answer: >-
@@ -39,7 +44,7 @@ faqs:
       Yes, nationalized and private banks provide non-collateral education loans
       up to ₹7.5 Lakhs to ₹40 Lakhs for AICTE-approved PGDM programs based on
       institute classification.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

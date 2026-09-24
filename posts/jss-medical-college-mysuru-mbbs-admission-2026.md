@@ -15,6 +15,13 @@ keywords:
   - 'JSS Medical College, Mysuru MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the annual fee for JSS Medical College Mysuru MBBS?
     answer: The annual tuition fee is approximately ₹19.86 Lakhs.
@@ -24,7 +31,7 @@ faqs:
     answer: >-
       100% of seats in JSS Medical College Mysuru are allotted through MCC
       Deemed Counselling.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

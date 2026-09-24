@@ -16,6 +16,13 @@ keywords:
   - International Institute of Business Studies (IIBS) admission cutoffs
   - top mba colleges in Airport Road
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       What is the average package at International Institute of Business Studies
@@ -38,7 +45,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at International
       Institute of Business Studies (IIBS) is approximately ₹5.25L - ₹8.95L
       (Total).
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

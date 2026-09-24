@@ -40,7 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **[Jamia Hamdard](/colleges/jamia-hamdard-delhi) University Online** has emerged as one of Delhi’s most respected institutions for specialized digital education. Based in the capital city, [Jamia Hamdard](/colleges/jamia-hamdard-delhi)'s online division brings that same academic rigor and heritage directly to you. With a prestigious **NAAC A accreditation**, [Jamia Hamdard](/colleges/jamia-hamdard-delhi) offers some of the most specialized online degrees in India for 2026.

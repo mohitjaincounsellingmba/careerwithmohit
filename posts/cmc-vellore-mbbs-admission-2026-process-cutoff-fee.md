@@ -15,6 +15,13 @@ keywords:
   - 'Christian Medical College (CMC), Vellore MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is CMC Vellore private or government?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
     answer: >-
       Candidates must qualify NEET UG 2026 and register for Tamil Nadu State
       NEET Counselling (dme.tn.gov.in) under Management/Minority Quota seats.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

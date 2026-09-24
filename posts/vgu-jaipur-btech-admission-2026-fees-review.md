@@ -16,6 +16,13 @@ keywords:
   - VGUCET 2026 exam
   - BTech admission Rajasthan
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is VGU Jaipur better than JECRC?
     answer: >-
@@ -27,7 +34,7 @@ faqs:
       undergraduate programs.
   - question: What was the highest offering at VGU in 2025?
     answer: The highest package touched ₹46 LPA for a CSE student.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

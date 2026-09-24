@@ -54,7 +54,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Delhi University (DU) isn't just famous for its undergraduate programs; it is also home to some of the highest ROI (Return on Investment) MBA programs in the entire country. 

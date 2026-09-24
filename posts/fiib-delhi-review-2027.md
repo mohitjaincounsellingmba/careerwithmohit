@@ -1,11 +1,14 @@
 ---
-title: 'FIIB Delhi Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Student Verdict'
+title: >-
+  FIIB Delhi Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Student
+  Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  Comprehensive FIIB Delhi (Fortune Institute of International Business) review for 2027–2029 admissions.
-  Explore verified PGDM fee structure (₹12.85 Lakhs), placements (avg ₹8.50–₹9.00 LPA, top 20% ₹14.0 LPA),
-  AACSB membership, cutoffs, and South Delhi campus realities.
+  Comprehensive FIIB Delhi (Fortune Institute of International Business) review
+  for 2027–2029 admissions. Explore verified PGDM fee structure (₹12.85 Lakhs),
+  placements (avg ₹8.50–₹9.00 LPA, top 20% ₹14.0 LPA), AACSB membership,
+  cutoffs, and South Delhi campus realities.
 keywords:
   - FIIB Delhi review 2027
   - FIIB Delhi review 2027 2029
@@ -33,31 +36,42 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: What is the total fee structure for PGDM at FIIB Delhi for the 2027–2029 session?
+  - question: >-
+      What is the total fee structure for PGDM at FIIB Delhi for the 2027–2029
+      session?
     answer: >-
-      The total course fee for the 2-year full-time PGDM and PGDM-Financial Management programs at FIIB Delhi is
-      ₹12,85,000 (Tuition Fees ₹9,38,350 + Academic Resources ₹3,46,650), plus a refundable security deposit of
+      The total course fee for the 2-year full-time PGDM and PGDM-Financial
+      Management programs at FIIB Delhi is ₹12,85,000 (Tuition Fees ₹9,38,350 +
+      Academic Resources ₹3,46,650), plus a refundable security deposit of
       ₹20,000. Fees are payable across four structured installments.
-  - question: What are the placement packages at FIIB Delhi in the recent placement season?
+  - question: >-
+      What are the placement packages at FIIB Delhi in the recent placement
+      season?
     answer: >-
-      FIIB Delhi achieved a 96% placement rate with an overall average CTC of ₹8.50 to ₹9.00 LPA. The top 20% of
-      the batch secured an average package of ₹14.00 LPA, while the highest domestic package stood between ₹20.00 LPA
+      FIIB Delhi achieved a 96% placement rate with an overall average CTC of
+      ₹8.50 to ₹9.00 LPA. The top 20% of the batch secured an average package of
+      ₹14.00 LPA, while the highest domestic package stood between ₹20.00 LPA
       and ₹25.92 LPA with recruitment from over 130+ companies.
   - question: What accreditations and international memberships does FIIB Delhi possess?
     answer: >-
-      FIIB is approved by AICTE, accredited by NBA, and granted official MBA equivalence by AIU. Globally, FIIB is
-      a member of the prestigious AACSB Business Education Alliance (USA) and the Association of MBAs (AMBA Development Network).
+      FIIB is approved by AICTE, accredited by NBA, and granted official MBA
+      equivalence by AIU. Globally, FIIB is a member of the prestigious AACSB
+      Business Education Alliance (USA) and the Association of MBAs (AMBA
+      Development Network).
   - question: What entrance exams and cutoffs are accepted by FIIB Delhi?
     answer: >-
-      FIIB accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Typical cutoffs are 60–65 percentile in CAT/XAT,
-      70–75 percentile in CMAT, and 75–80 percentile in MAT. Profile-based evaluations consider academic consistency,
-      extracurricular achievements, and personal interview performance.
+      FIIB accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Typical cutoffs
+      are 60–65 percentile in CAT/XAT, 70–75 percentile in CMAT, and 75–80
+      percentile in MAT. Profile-based evaluations consider academic
+      consistency, extracurricular achievements, and personal interview
+      performance.
   - question: Where is FIIB Delhi located and what is the campus advantage?
     answer: >-
-      FIIB is located in the prime diplomatic area of Vasant Vihar, South Delhi (Plot 5, Rao Tula Ram Marg). It offers
-      immediate proximity to Delhi Aerocity, Gurgaon Cyber City, and South Delhi business hubs, facilitating year-round
-      corporate interactions.
-location: Delhi NCR
+      FIIB is located in the prime diplomatic area of Vasant Vihar, South Delhi
+      (Plot 5, Rao Tula Ram Marg). It offers immediate proximity to Delhi
+      Aerocity, Gurgaon Cyber City, and South Delhi business hubs, facilitating
+      year-round corporate interactions.
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -1,21 +1,61 @@
 ---
-name: "Vignana Jyothi Institute of Management (VJIM Hyderabad)"
-logo: "/logo.webp"
-location: "Bachupally, Hyderabad, Telangana"
-category: "Management"
-type: "Institute"
-courses: ["PGDM (General)", "PGDM with Dual Specialization"]
+name: Vignana Jyothi Institute of Management (VJIM Hyderabad)
+logo: /logo.webp
+location: 'Bachupally, Hyderabad, Telangana'
+category: Management
+type: Institute
+courses:
+  - PGDM (General)
+  - PGDM with Dual Specialization
 established: 1993
-ownership: "Private Autonomous"
-ranking: "AICTE Approved · NBA & NAAC A+ Accredited"
-fees: "₹8.00 Lakhs (Total)"
-avg_placement: "₹7.20 LPA"
-highest_placement: "₹14.50 LPA"
-lowest_placement: "₹5.20 LPA"
-exams: ["CAT", "MAT", "XAT", "CMAT", "ATMA"]
-brochure_url: "#"
-website: "https://vjim.edu.in"
-top_recruiters: ["Deloitte", "Invesco", "FactSet", "ICICI Bank", "Tech Mahindra", "Berger Paints"]
+ownership: Private Autonomous
+ranking: AICTE Approved · NBA & NAAC A+ Accredited
+fees: ₹8.00 Lakhs (Total)
+avg_placement: ₹7.20 LPA
+highest_placement: ₹14.50 LPA
+lowest_placement: ₹5.20 LPA
+exams:
+  - CAT
+  - MAT
+  - XAT
+  - CMAT
+  - ATMA
+brochure_url: '#'
+website: 'https://vjim.edu.in'
+top_recruiters:
+  - Deloitte
+  - Invesco
+  - FactSet
+  - ICICI Bank
+  - Tech Mahindra
+  - Berger Paints
+seo_title: 'Vignana Jyothi Institute of Management (VJIM Hyderabad) MBA '
+seo_description: >-
+  Explore Vignana Jyothi Institute of Management (VJIM Hyderabad) Bachupally,
+  Hyderabad, Telangana: MBA/PGDM fee structure ₹8.00 Lakhs (Total), average
+  placement 
+keywords:
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) review
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) fees structure 2027
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) average package
+  - >-
+    Vignana Jyothi Institute of Management (VJIM Hyderabad) placement report
+    2027
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) highest package
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) cutoff 2027
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) admission process
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) ranking
+  - >-
+    Vignana Jyothi Institute of Management (VJIM Hyderabad) Bachupally,
+    Hyderabad, Telangana
+  - is Vignana Jyothi Institute of Management (VJIM Hyderabad) good
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) mohit jain review
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) hostel fees
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) contact number
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) MBA fees
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) PGDM placement
+  - Vignana Jyothi Institute of Management (VJIM Hyderabad) MBA admission 2027
+  - 'MBA colleges Bachupally, Hyderabad, Telangana'
 ---
 
 ### About Vignana Jyothi Institute of Management (VJIM Hyderabad)

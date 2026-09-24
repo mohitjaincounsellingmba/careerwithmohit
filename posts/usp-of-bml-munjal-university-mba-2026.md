@@ -18,6 +18,14 @@ keywords:
   - BML Munjal vs SOIL Gurgaon vs JKBS
   - BMU MBA admission cutoffs 2027-2029
   - MBA admission Gurgaon 2027
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the biggest USP of BML Munjal University for MBA?
     answer: >-
@@ -59,7 +67,7 @@ faqs:
       including Harvard Business Publishing simulations, live corporate
       consulting projects, and a mandatory Practice School internship of 8 to 12
       weeks where students work on real corporate deliverables.
-location: Gurugram
+location: Gurgaon
 state: Haryana
 ---
 

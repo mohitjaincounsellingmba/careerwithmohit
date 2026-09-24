@@ -1,21 +1,60 @@
 ---
-name: "Institute of Management Technology (IMT Ghaziabad)"
-logo: "/logo.webp"
-location: "Ghaziabad, Delhi NCR, Uttar Pradesh"
-category: "Management"
-type: "Institute"
-courses: ["PGDM (Flagship)", "PGDM Marketing", "PGDM Finance", "PGDM BFS"]
+name: Institute of Management Technology (IMT Ghaziabad)
+logo: /logo.webp
+location: 'Ghaziabad, Delhi NCR, Uttar Pradesh'
+category: Management
+type: Institute
+courses:
+  - PGDM (Flagship)
+  - PGDM Marketing
+  - PGDM Finance
+  - PGDM BFS
 established: 1980
-ownership: "Private Autonomous (AACSB Accredited)"
-ranking: "NIRF Rank #35 (Management 2024) · Marketing Mecca of India"
-fees: "₹21.50 Lakhs (Total)"
-avg_placement: "₹17.35 LPA"
-highest_placement: "₹65.60 LPA"
-lowest_placement: "₹11.00 LPA"
-exams: ["CAT", "XAT", "GMAT"]
-brochure_url: "#"
-website: "https://www.imt.edu"
-top_recruiters: ["Google", "Microsoft", "Goldman Sachs", "L'Oreal", "Marico", "Deloitte", "Morgan Stanley"]
+ownership: Private Autonomous (AACSB Accredited)
+ranking: 'NIRF Rank #35 (Management 2024) · Marketing Mecca of India'
+fees: ₹21.50 Lakhs (Total)
+avg_placement: ₹17.35 LPA
+highest_placement: ₹65.60 LPA
+lowest_placement: ₹11.00 LPA
+exams:
+  - CAT
+  - XAT
+  - GMAT
+brochure_url: '#'
+website: 'https://www.imt.edu'
+top_recruiters:
+  - Google
+  - Microsoft
+  - Goldman Sachs
+  - L'Oreal
+  - Marico
+  - Deloitte
+  - Morgan Stanley
+seo_title: 'Institute of Management Technology (IMT Ghaziabad) MBA Fees,'
+seo_description: >-
+  Explore Institute of Management Technology (IMT Ghaziabad) Ghaziabad, Delhi
+  NCR, Uttar Pradesh: MBA/PGDM fee structure ₹21.50 Lakhs (Total), average
+  placement ₹
+keywords:
+  - Institute of Management Technology (IMT Ghaziabad) review
+  - Institute of Management Technology (IMT Ghaziabad) fees structure 2027
+  - Institute of Management Technology (IMT Ghaziabad) average package
+  - Institute of Management Technology (IMT Ghaziabad) placement report 2027
+  - Institute of Management Technology (IMT Ghaziabad) highest package
+  - Institute of Management Technology (IMT Ghaziabad) cutoff 2027
+  - Institute of Management Technology (IMT Ghaziabad) admission process
+  - Institute of Management Technology (IMT Ghaziabad) ranking
+  - >-
+    Institute of Management Technology (IMT Ghaziabad) Ghaziabad, Delhi NCR,
+    Uttar Pradesh
+  - is Institute of Management Technology (IMT Ghaziabad) good
+  - Institute of Management Technology (IMT Ghaziabad) mohit jain review
+  - Institute of Management Technology (IMT Ghaziabad) hostel fees
+  - Institute of Management Technology (IMT Ghaziabad) contact number
+  - Institute of Management Technology (IMT Ghaziabad) MBA fees
+  - Institute of Management Technology (IMT Ghaziabad) PGDM placement
+  - Institute of Management Technology (IMT Ghaziabad) MBA admission 2027
+  - 'MBA colleges Ghaziabad, Delhi NCR, Uttar Pradesh'
 ---
 
 ### About Institute of Management Technology (IMT Ghaziabad)

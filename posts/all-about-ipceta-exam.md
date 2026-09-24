@@ -40,7 +40,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Guru Gobind Singh Indraprastha University (GGSIPU) CET, commonly referred to as IPU CET or IPCET, is the primary gateway for students looking to pursue their MBA from colleges affiliated directly with the state government university of Delhi.

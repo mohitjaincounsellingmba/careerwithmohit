@@ -1,21 +1,70 @@
 ---
-name: "Prestige Institute of Management and Research (PIMR Indore)"
-logo: "/logo.webp"
-location: "Indore, Madhya Pradesh"
-category: "Management"
-type: "Institute"
-courses: ["MBA (Full-Time)", "MBA Financial Administration", "MBA Marketing Management", "MBA International Business"]
+name: Prestige Institute of Management and Research (PIMR Indore)
+logo: /logo.webp
+location: 'Indore, Madhya Pradesh'
+category: Management
+type: Institute
+courses:
+  - MBA (Full-Time)
+  - MBA Financial Administration
+  - MBA Marketing Management
+  - MBA International Business
 established: 1994
-ownership: "Private Autonomous (NAAC A++)"
-ranking: "NAAC A++ Accredited · Top Private Institute in Central India"
-fees: "₹3.40 Lakhs (Total)"
-avg_placement: "₹5.50 LPA"
-highest_placement: "₹14.00 LPA"
-lowest_placement: "₹3.80 LPA"
-exams: ["CMAT", "CAT", "MAT", "MP DTE Counselling"]
-brochure_url: "#"
-website: "https://pimrindore.ac.in"
-top_recruiters: ["TCS", "Wipro", "ICICI Bank", "Colgate Palmolive", "Federal Bank", "Nestle"]
+ownership: Private Autonomous (NAAC A++)
+ranking: NAAC A++ Accredited · Top Private Institute in Central India
+fees: ₹3.40 Lakhs (Total)
+avg_placement: ₹5.50 LPA
+highest_placement: ₹14.00 LPA
+lowest_placement: ₹3.80 LPA
+exams:
+  - CMAT
+  - CAT
+  - MAT
+  - MP DTE Counselling
+brochure_url: '#'
+website: 'https://pimrindore.ac.in'
+top_recruiters:
+  - TCS
+  - Wipro
+  - ICICI Bank
+  - Colgate Palmolive
+  - Federal Bank
+  - Nestle
+seo_title: 'Prestige Institute of Management and Research (PIMR Indore) '
+seo_description: >-
+  Explore Prestige Institute of Management and Research (PIMR Indore) Indore,
+  Madhya Pradesh: MBA/PGDM fee structure ₹3.40 Lakhs (Total), average placement
+  ₹5.50 
+keywords:
+  - Prestige Institute of Management and Research (PIMR Indore) review
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) fees structure
+    2027
+  - Prestige Institute of Management and Research (PIMR Indore) average package
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) placement report
+    2027
+  - Prestige Institute of Management and Research (PIMR Indore) highest package
+  - Prestige Institute of Management and Research (PIMR Indore) cutoff 2027
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) admission
+    process
+  - Prestige Institute of Management and Research (PIMR Indore) ranking
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) Indore, Madhya
+    Pradesh
+  - is Prestige Institute of Management and Research (PIMR Indore) good
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) mohit jain
+    review
+  - Prestige Institute of Management and Research (PIMR Indore) hostel fees
+  - Prestige Institute of Management and Research (PIMR Indore) contact number
+  - Prestige Institute of Management and Research (PIMR Indore) MBA fees
+  - Prestige Institute of Management and Research (PIMR Indore) PGDM placement
+  - >-
+    Prestige Institute of Management and Research (PIMR Indore) MBA admission
+    2027
+  - 'MBA colleges Indore, Madhya Pradesh'
 ---
 
 ### About Prestige Institute of Management and Research (PIMR Indore)

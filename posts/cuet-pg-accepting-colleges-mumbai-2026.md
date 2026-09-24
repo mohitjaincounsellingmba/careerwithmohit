@@ -12,6 +12,13 @@ keywords:
   - Mumbai University CUET PG admission
   - D.Y. Patil Mumbai CUET PG
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -28,7 +35,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Mumbai, the financial capital of India, is home to some of the country's most iconic educational institutions. With **CUET PG 2026** becoming a major gateway, aspirants can now target top-tier Mumbai colleges with a single national score.

@@ -14,6 +14,13 @@ keywords:
   - CAT 2026 official notification
   - IIM admission 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When will the CAT 2026 application form open?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       You will need a scanned passport-size photograph, your signature, category
       certificates (SC/ST/OBC-NCL/EWS) if applicable, and detailed academic
       transcripts from class 10th, 12th, and graduation.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

@@ -23,6 +23,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is an MBA in Healthcare better than a Hospital Administration degree?
     answer: >-
@@ -39,7 +44,7 @@ faqs:
       Top roles include Health-Tech Product Manager, Healthcare Consultant (Big
       4), Operations Manager (Hospital Chains), and Business Analyst (Health
       Insurance).
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

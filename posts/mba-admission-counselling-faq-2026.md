@@ -17,6 +17,13 @@ keywords:
   - MBA eligibility criteria
   - best MBA colleges India 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Do I need a counsellor for MBA admission?
     answer: >-
@@ -33,7 +40,7 @@ faqs:
       CAT for IIMs and top B-schools, CMAT for private college admissions, and
       MAT as a backup. Most students benefit from appearing in 2-3 exams to
       maximize options.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

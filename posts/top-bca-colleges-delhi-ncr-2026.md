@@ -45,7 +45,7 @@ faqs:
     answer: >-
       The exam is usually conducted in **May 2026**. Registrations typically
       open in February or March.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

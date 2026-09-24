@@ -1,9 +1,16 @@
 ---
-title: 'International Management Institute (IMI) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  International Management Institute (IMI) Review 2027: Fees, Placements,
+  Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
 category: MBA Admissions
 description: >-
-  In-depth International Management Institute (IMI) (Qutab Institutional Area Campus) review for 2027 admissions. Explore verified fee structure (₹21.00 – ₹22.20 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹16.70 – ₹17.10 LPA, highest ₹70.00 LPA (International) / ₹40.00 LPA (Domestic)), cutoffs (CAT: 88–90 Percentile; XAT: 88–90 Percentile; GMAT: 650+), and student verdict.
+  In-depth International Management Institute (IMI) (Qutab Institutional Area
+  Campus) review for 2027 admissions. Explore verified fee structure (₹21.00 –
+  ₹22.20 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹16.70 – ₹17.10
+  LPA, highest ₹70.00 LPA (International) / ₹40.00 LPA (Domestic)), cutoffs
+  (CAT: 88–90 Percentile; XAT: 88–90 Percentile; GMAT: 650+), and student
+  verdict.
 keywords:
   - international management institute (imi) review 2027
   - international management institute (imi) fees
@@ -13,24 +20,39 @@ keywords:
   - international management institute (imi) cutoff cat xat gmat
   - international management institute (imi) admission process 2027
   - international management institute (imi) ranking
-  - New Delhi, Delhi NCR MBA colleges
+  - 'New Delhi, Delhi NCR MBA colleges'
   - best MBA colleges in Delhi NCR
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the CAT cutoff for IMI New Delhi?
     answer: >-
-      The expected CAT and XAT cutoff for the core PGDM at IMI New Delhi is between 88 and 90 percentile, with slightly lower cutoffs (85–87%ile) for PGDM (HRM) and PGDM (BFS).
+      The expected CAT and XAT cutoff for the core PGDM at IMI New Delhi is
+      between 88 and 90 percentile, with slightly lower cutoffs (85–87%ile) for
+      PGDM (HRM) and PGDM (BFS).
   - question: What is the total fee for IMI New Delhi PGDM 2027–2029?
     answer: >-
-      The total tuition and academic fee is approximately ₹21.00 to ₹22.20 Lakhs, with hostel and food expenses costing an additional ₹2.50 to ₹3.50 Lakhs over two years.
+      The total tuition and academic fee is approximately ₹21.00 to ₹22.20
+      Lakhs, with hostel and food expenses costing an additional ₹2.50 to ₹3.50
+      Lakhs over two years.
   - question: What are the top placement roles at IMI New Delhi?
     answer: >-
-      Key roles include Investment Banking Analyst, Strategy Consultant, Risk Advisory, HR Business Partner, and Financial Modeling across Big 4 firms, multinational banks, and tech corporations.
+      Key roles include Investment Banking Analyst, Strategy Consultant, Risk
+      Advisory, HR Business Partner, and Financial Modeling across Big 4 firms,
+      multinational banks, and tech corporations.
   - question: Does IMI New Delhi provide international placements?
     answer: >-
-      Yes, international recruiters regularly participate, offering overseas packages up to ₹70.00 LPA in Dubai, Singapore, and European business hubs.
-location: New Delhi
+      Yes, international recruiters regularly participate, offering overseas
+      packages up to ₹70.00 LPA in Dubai, Singapore, and European business hubs.
+location: Delhi
 state: Delhi NCR
 ---
 

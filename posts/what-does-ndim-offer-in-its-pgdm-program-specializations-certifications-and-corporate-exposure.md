@@ -22,8 +22,15 @@ keywords:
   - NDIM Delhi fees and placements
   - NDIM AICTE CII ranking
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 category: Colleges
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 faqs:
   - question: Does NDIM offer a dual specialization in its PGDM program?

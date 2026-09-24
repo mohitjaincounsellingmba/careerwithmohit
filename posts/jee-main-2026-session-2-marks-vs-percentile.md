@@ -15,6 +15,13 @@ keywords:
   - 99 percentile marks in JEE 2026
   - JAC Delhi cutoffs for JEE Main 2026
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -30,7 +37,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The **JEE Main 2026 Session 2** examinations were conducted between April 2 and April 8, 2026. With the exams now over, students are eagerly calculating their scores using official response sheets. However, the biggest question on everyone's mind is: **"What percentile will I get for my marks?"**

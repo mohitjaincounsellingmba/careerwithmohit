@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at ITS Ghaziabad
       (Mohan Nagar) is approximately ₹6.0 Lakhs (Total).
-location: Delhi NCR
+location: Ghaziabad
 state: Delhi NCR
 ---
 

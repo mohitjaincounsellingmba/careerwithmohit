@@ -54,7 +54,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 Navigating **bba admission 2026** requires understanding the entrance exam landscape. A few years ago, the Delhi University Joint Admission Test (DU-JAT) was the golden standard for DU business programs. Today, the admission process has undergone massive changes.

@@ -16,6 +16,13 @@ keywords:
   - pune medical college neet cutoff
   - direct mbbs admission pune
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: is there a service bond in AFMC?
     answer: >-
@@ -35,7 +42,7 @@ faqs:
     answer: >-
       Counselling registrations typically open in **July** after the NEET
       results.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

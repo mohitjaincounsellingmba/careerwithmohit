@@ -33,6 +33,12 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Noida Colleges
+  - Best Colleges in Noida
+  - Noida Admissions 2026
+  - Direct Admission in Noida
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: >-
       Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT
@@ -65,7 +71,7 @@ faqs:
       Business Analytics & AI, Fintech / Banking & Corporate Finance, and
       Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with
       packages starting from ₹8 LPA to ₹16 LPA.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

@@ -16,6 +16,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
     answer: >-
@@ -35,7 +40,7 @@ faqs:
       Yes, but you will need to take the **NIMCET** or other state exams, which
       typically have a Mathematics section. You will have to work harder on your
       maths prep during your BCA years.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

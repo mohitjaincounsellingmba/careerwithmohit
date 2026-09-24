@@ -40,7 +40,7 @@ faqs:
     answer: >-
       Yes — JKBS offers hostel accommodation for outstation students on its
       10-acre residential campus.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

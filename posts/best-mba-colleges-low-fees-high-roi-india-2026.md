@@ -16,6 +16,13 @@ keywords:
   - pumba pune fees roi
   - government mba colleges in india with low fees
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Are low-fee colleges inferior in infrastructure?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
     answer: >-
       NO. Government ROI colleges (FMS, JBIMS, PUMBA) have no management quota.
       Admission is strictly through national/state entrance tests.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

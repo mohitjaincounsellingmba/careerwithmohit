@@ -16,6 +16,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -32,7 +36,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 [GD Goenka University](/colleges/gd-goenka-university)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.

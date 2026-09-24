@@ -47,7 +47,7 @@ faqs:
       Yes, Jaipuria Institute of Management Lucknow PGDM is AICTE approved, NBA
       accredited, and recognized by AIU (Association of Indian Universities) as
       equivalent to an MBA degree.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

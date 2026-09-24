@@ -37,7 +37,7 @@ faqs:
       Ahmedabad](/colleges/iim-ahmedabad)."
   - question: What is the total fee?
     answer: ₹11.5 Lakhs for the 2027–29 PGDM batch.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 

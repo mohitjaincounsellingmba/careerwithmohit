@@ -15,6 +15,10 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Is mathematics compulsory to get admission in BCA?
     answer: >-
@@ -31,7 +35,7 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
-location: Delhi NCR
+location: Gurgaon
 state: Delhi NCR
 ---
 With the rapid rise of the digital economy, a Bachelor of Computer Applications (BCA) is no longer just about basic coding. It’s about specialization in AI, Data Analytics, and Cloud Computing. **[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located on Sohna Road, Gurgaon, has positioned its BCA program as a "future-ready" degree with strong industry tie-ups.

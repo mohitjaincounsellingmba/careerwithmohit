@@ -36,7 +36,7 @@ faqs:
     answer: >-
       The program is designed as a modular/hybrid model, combining classroom
       interactive sessions with online research work.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

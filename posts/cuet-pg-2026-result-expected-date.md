@@ -13,6 +13,13 @@ keywords:
   - CUET PG result link 2026
   - CUET PG normalisation process
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: When is the CUET PG 2026 result date?
     answer: >-
@@ -31,7 +38,7 @@ faqs:
     answer: >-
       No, candidates must download the digital scorecard from the portal. No
       physical copies will be sent by post.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

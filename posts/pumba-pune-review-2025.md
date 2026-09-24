@@ -13,6 +13,13 @@ keywords:
   - best ROI MBA college in Pune
   - PUMBA average package 2024
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 The Department of Management Sciences (PUMBA) at Savitribai Phule Pune University is one of the oldest and most respected management departments in India. It is famous nationwide for providing "Tier 1 Placements at Tier 3 Fees."

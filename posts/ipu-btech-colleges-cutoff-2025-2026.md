@@ -16,6 +16,13 @@ keywords:
   - msit janakpuri btech cutoff
   - best btech colleges in delhi ipu
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Can I get IPU B.Tech without JEE Main?
     answer: >-
@@ -34,7 +41,7 @@ faqs:
       MAIT is generally ranked higher for its coding culture and placement
       packages, but MSIT is often preferred for its discipline and central
       location in Janakpuri.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 

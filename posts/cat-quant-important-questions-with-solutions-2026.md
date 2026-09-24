@@ -19,6 +19,11 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Noida Colleges
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: Which topics carry the highest weightage in CAT Quant?
     answer: >-
@@ -42,7 +47,7 @@ faqs:
       circumradius $R = \frac{abc}{4\Delta}$, and similarity ratios) are
       essential, CAT emphasizes **geometric visualization, angle-chasing, and
       auxiliary line constructions** over pure formula substitution.
-location: Delhi NCR
+location: Noida
 state: Delhi NCR
 ---
 

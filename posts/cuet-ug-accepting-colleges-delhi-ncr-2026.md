@@ -39,7 +39,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 Delhi NCR is the epicenter of the **Common University Entrance Test (CUET) UG** movement. With some of the most prestigious central and state universities in the country, the competition is fierce but rewarding.

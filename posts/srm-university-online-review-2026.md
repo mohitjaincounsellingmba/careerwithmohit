@@ -13,6 +13,13 @@ keywords:
   - UGC approved online degree SRM
   - SRM online degree validity
   - Direct Admission in Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -29,7 +36,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
+location: Delhi
 state: Delhi NCR
 ---
 **SRM University (Chennai) Online** is one of the most prominent private universities in South India. Known for its strong focus on engineering and management, its online arm brings the same academic rigor and high-tech infrastructure with the highest possible **NAAC A++ accreditation**.
