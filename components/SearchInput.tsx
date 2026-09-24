@@ -5,6 +5,8 @@ import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Search, Building2, MapPin, ArrowRight, X } from "lucide-react";
 
+import { FEATURED_DIRECTORY_COLLEGES } from "@/components/HomeCollegeExplorer";
+
 interface CollegeMini {
   slug: string;
   name: string;
@@ -34,25 +36,30 @@ function SearchInputInner({
   }, [searchParams]);
 
   useEffect(() => {
-    const clean = query.trim();
+    const clean = query.trim().toLowerCase();
     if (!clean) {
       setSuggestions([]);
       return;
     }
 
-    const timer = setTimeout(async () => {
-      try {
-        const res = await fetch(`/api/colleges/search?q=${encodeURIComponent(clean)}&limit=4`);
-        if (res.ok) {
-          const data = await res.json();
-          setSuggestions(data.colleges || []);
-        }
-      } catch {
-        // ignore
-      }
-    }, 150);
+    const matches = FEATURED_DIRECTORY_COLLEGES.filter((c) => {
+      return (
+        c.name.toLowerCase().includes(clean) ||
+        c.location.toLowerCase().includes(clean) ||
+        c.ranking.toLowerCase().includes(clean) ||
+        c.exams.some((e) => e.toLowerCase().includes(clean))
+      );
+    }).slice(0, 4);
 
-    return () => clearTimeout(timer);
+    setSuggestions(
+      matches.map((c) => ({
+        slug: c.slug.replace(/^colleges\//, ""),
+        name: c.name,
+        location: c.location,
+        fees: c.fees,
+        avg_placement: c.avgPlacement,
+      }))
+    );
   }, [query]);
 
   useEffect(() => {

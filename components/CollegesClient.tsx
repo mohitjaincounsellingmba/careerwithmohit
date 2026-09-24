@@ -331,21 +331,94 @@ export function CollegesClient({
     const q = searchParams.get('search') || searchParams.get('q') || '';
     if (q) setSearchQuery(q);
 
+    const loc = (searchParams.get('location') || '').toLowerCase().trim();
     const st = searchParams.get('state');
-    if (st) setSelectedState(st);
-
     const ct = searchParams.get('city');
+
+    if (st) {
+      setSelectedState(st);
+    } else if (loc) {
+      if (loc.includes('delhi') || loc.includes('ncr') || loc.includes('noida') || loc.includes('gurgaon')) {
+        setSelectedState('Delhi NCR');
+      } else if (loc.includes('pune')) {
+        setSelectedState('Maharashtra');
+        setSelectedCity('Pune');
+      } else if (loc.includes('mumbai')) {
+        setSelectedState('Maharashtra');
+        setSelectedCity('Mumbai');
+      } else if (loc.includes('bangalore') || loc.includes('bengaluru') || loc.includes('karnataka')) {
+        setSelectedState('Karnataka');
+        setSelectedCity('Bangalore');
+      } else if (loc.includes('hyderabad') || loc.includes('telangana')) {
+        setSelectedState('Telangana');
+        setSelectedCity('Hyderabad');
+      } else if (loc.includes('chennai') || loc.includes('tamil')) {
+        setSelectedState('Tamil Nadu');
+        setSelectedCity('Chennai');
+      } else if (loc.includes('jaipur') || loc.includes('rajasthan')) {
+        setSelectedState('Rajasthan');
+        setSelectedCity('Jaipur');
+      } else if (loc.includes('kolkata') || loc.includes('bengal')) {
+        setSelectedState('West Bengal');
+        setSelectedCity('Kolkata');
+      } else if (loc.includes('ahmedabad') || loc.includes('gujarat')) {
+        setSelectedState('Gujarat');
+        setSelectedCity('Ahmedabad');
+      }
+    }
+
     if (ct) setSelectedCity(ct);
 
     const cat = searchParams.get('category') || searchParams.get('stream');
     if (cat) {
-      if (cat.toLowerCase().includes('manage') || cat.toLowerCase() === 'mba') setSelectedCategory('Management');
-      else if (cat.toLowerCase().includes('eng') || cat.toLowerCase() === 'btech') setSelectedCategory('Engineering');
-      else if (cat.toLowerCase().includes('ug')) setSelectedCategory('UG Courses');
+      const cleanCat = cat.toLowerCase();
+      if (cleanCat.includes('manage') || cleanCat === 'mba' || cleanCat === 'pgdm') setSelectedCategory('Management');
+      else if (cleanCat.includes('eng') || cleanCat === 'btech' || cleanCat === 'b.tech') setSelectedCategory('Engineering');
+      else if (cleanCat.includes('ug') || cleanCat === 'bba' || cleanCat === 'bca') setSelectedCategory('UG Courses');
     }
 
     const crs = searchParams.get('course');
-    if (crs) setSelectedCourse(crs);
+    if (crs) {
+      const cleanCrs = crs.toLowerCase().replace(/[\s\.\-_]/g, '');
+      if (cleanCrs === 'btech') setSelectedCourse('B.Tech');
+      else if (cleanCrs === 'mtech') setSelectedCourse('M.Tech');
+      else if (cleanCrs === 'mba') setSelectedCourse('MBA');
+      else if (cleanCrs === 'pgdm') setSelectedCourse('PGDM');
+      else if (cleanCrs === 'bba') setSelectedCourse('BBA');
+      else if (cleanCrs === 'bca') setSelectedCourse('BCA');
+      else if (cleanCrs === 'bcom') setSelectedCourse('BCom');
+      else setSelectedCourse(crs);
+    }
+
+    const bdg = searchParams.get('budget') || searchParams.get('fee');
+    if (bdg) {
+      const cleanBdg = bdg.toLowerCase();
+      if (cleanBdg.includes('under-10l') || cleanBdg.includes('under-10') || cleanBdg.includes('roi')) {
+        setSelectedFeeRange('5-10 Lakhs');
+      } else if (cleanBdg.includes('under-5l') || cleanBdg.includes('under-1l')) {
+        setSelectedFeeRange('1-5 Lakhs');
+      } else if (cleanBdg.includes('10l-16l') || cleanBdg.includes('10-20') || cleanBdg.includes('10l-20l')) {
+        setSelectedFeeRange('10-20 Lakhs');
+      } else if (cleanBdg.includes('16l-25l') || cleanBdg.includes('above-25l') || cleanBdg.includes('> 20')) {
+        setSelectedFeeRange('> 20 Lakhs');
+      } else {
+        setSelectedFeeRange(bdg);
+      }
+    }
+
+    const exm = searchParams.get('exam');
+    if (exm) {
+      const cleanExm = exm.toLowerCase().replace(/[\s\.\-_]/g, '');
+      if (cleanExm.includes('jeemain') || cleanExm === 'jee') setSelectedExam('JEE Main');
+      else if (cleanExm === 'cat') setSelectedExam('CAT');
+      else if (cleanExm === 'xat') setSelectedExam('XAT');
+      else if (cleanExm === 'cmat') setSelectedExam('CMAT');
+      else if (cleanExm === 'mat') setSelectedExam('MAT');
+      else if (cleanExm === 'snap') setSelectedExam('SNAP');
+      else if (cleanExm === 'nmat') setSelectedExam('NMAT');
+      else if (cleanExm.includes('direct')) setSelectedExam('Direct Admission');
+      else setSelectedExam(exm);
+    }
 
     const srt = searchParams.get('sort');
     if (srt) setSortBy(srt);
@@ -622,7 +695,11 @@ export function CollegesClient({
       const matchesCategory = selectedCategory === "All Streams" || college.category === selectedCategory;
 
       const matchesCourse = selectedCourse === "All Courses" ||
-        college.courses.some(c => c === selectedCourse || c.startsWith(selectedCourse + " ") || c.toLowerCase().includes(selectedCourse.toLowerCase()));
+        college.courses.some(c => {
+          const cleanCollegeCourse = c.replace(/[\s\.\-_]/g, '').toLowerCase();
+          const cleanSelected = selectedCourse.replace(/[\s\.\-_]/g, '').toLowerCase();
+          return cleanCollegeCourse.includes(cleanSelected) || cleanSelected.includes(cleanCollegeCourse) || c.toLowerCase().includes(selectedCourse.toLowerCase());
+        });
 
       let matchesSpecialization = true;
       if (selectedSpecialization !== "All Specializations") {
@@ -639,7 +716,11 @@ export function CollegesClient({
       const matchesState = selectedState === "All States" || locInfo.state === selectedState;
       const matchesCity = selectedCity === "All Cities" || locInfo.city === selectedCity;
       const matchesOwnership = selectedOwnership === "All Types" || college.ownership.toLowerCase().includes(selectedOwnership.toLowerCase());
-      const matchesExam = selectedExam === "All Exams" || (college.exams || []).includes(selectedExam);
+      const matchesExam = selectedExam === "All Exams" || (college.exams || []).some(e => {
+        const cleanCollegeExam = e.replace(/[\s\.\-_]/g, '').toLowerCase();
+        const cleanSelected = selectedExam.replace(/[\s\.\-_]/g, '').toLowerCase();
+        return cleanCollegeExam.includes(cleanSelected) || cleanSelected.includes(cleanCollegeExam) || e.toLowerCase() === selectedExam.toLowerCase();
+      });
 
       let matchesFee = true;
       if (selectedFeeRange !== "All Fees") {

@@ -20,8 +20,12 @@ import {
   Building2,
   TrendingUp,
   CheckCircle2,
-  ExternalLink
+  ExternalLink,
+  SlidersHorizontal,
+  ChevronDown
 } from "lucide-react";
+
+import { FEATURED_DIRECTORY_COLLEGES } from "@/components/HomeCollegeExplorer";
 
 type StreamTab = "mba" | "btech" | "online" | "abroad" | "mocks" | "calculators";
 
@@ -48,11 +52,11 @@ interface CollegeSuggestion {
 }
 
 const STREAM_TABS: TabConfig[] = [
-  { id: "mba", label: "MBA / PGDM 2027", icon: GraduationCap, badge: "Popular", badgeColor: "bg-amber-400 text-slate-950 font-bold" },
+  { id: "mba", label: "MBA & PGDM 2027", icon: GraduationCap, badge: "Popular", badgeColor: "bg-amber-400 text-slate-950 font-black" },
   { id: "btech", label: "B.Tech & Engg", icon: Cpu },
-  { id: "online", label: "Online Degrees", icon: Laptop, badge: "UGC-DEB", badgeColor: "bg-cyan-400 text-slate-950 font-bold" },
-  { id: "abroad", label: "Study Abroad", icon: Globe, badge: "Global", badgeColor: "bg-emerald-400 text-slate-950 font-bold" },
-  { id: "mocks", label: "Free CBT Mocks", icon: Target, badge: "Free", badgeColor: "bg-rose-500 text-white font-bold" },
+  { id: "online", label: "Online Degrees", icon: Laptop, badge: "UGC-DEB", badgeColor: "bg-cyan-400 text-slate-950 font-black" },
+  { id: "abroad", label: "Study Abroad", icon: Globe, badge: "Global", badgeColor: "bg-emerald-400 text-slate-950 font-black" },
+  { id: "mocks", label: "Free CBT Mocks", icon: Target, badge: "Free", badgeColor: "bg-rose-500 text-white font-black" },
   { id: "calculators", label: "Score Calculators", icon: Calculator },
 ];
 
@@ -69,46 +73,80 @@ export function EducationFinder() {
   const [popularSearches, setPopularSearches] = useState<string[]>([]);
   const [totalMatches, setTotalMatches] = useState<number>(0);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState<number>(-1);
 
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Debounced API search for instant suggestions
+  // Instant in-memory search for suggestions
   useEffect(() => {
     const streamParam = activeTab === "btech" ? "btech" : activeTab === "mba" ? "mba" : "";
-    const cleanQuery = searchQuery.trim();
+    const cleanQuery = searchQuery.trim().toLowerCase();
 
-    if (!cleanQuery && !isDropdownOpen) {
-      setSuggestions([]);
+    const targetStreamColleges = FEATURED_DIRECTORY_COLLEGES.filter((c) => {
+      if (streamParam === "mba") return c.stream === "mba";
+      if (streamParam === "btech") return c.stream === "btech";
+      return true;
+    });
+
+    if (!cleanQuery) {
+      setSuggestions(
+        targetStreamColleges.slice(0, 5).map((c) => ({
+          slug: c.slug.replace(/^colleges\//, ""),
+          name: c.name,
+          location: c.location,
+          category: c.category,
+          fees: c.fees,
+          avg_placement: c.avgPlacement,
+          highest_placement: c.highestPlacement,
+          ranking: c.ranking,
+          ownership: c.ownership,
+          exams: c.exams,
+        }))
+      );
+      setPopularSearches(
+        streamParam === "btech"
+          ? ["Top B.Tech in Delhi NCR", "Best Engg in Bangalore", "COEP & VJTI Pune", "JEE Main 90+ %ile Colleges"]
+          : ["Top 20 IIMs", "NMIMS Mumbai SBM", "SIBM & SCMHRD Pune", "Best MBA under ₹10 Lakhs Fees", "Direct Admission PGDM"]
+      );
+      setTotalMatches(targetStreamColleges.length);
       return;
     }
 
-    const timer = setTimeout(async () => {
-      try {
-        setIsLoading(true);
-        const params = new URLSearchParams();
-        if (cleanQuery) params.set("q", cleanQuery);
-        if (streamParam) params.set("stream", streamParam);
-        params.set("limit", "5");
+    const matches = targetStreamColleges.filter((c) => {
+      return (
+        c.name.toLowerCase().includes(cleanQuery) ||
+        c.location.toLowerCase().includes(cleanQuery) ||
+        c.state.toLowerCase().includes(cleanQuery) ||
+        c.city.toLowerCase().includes(cleanQuery) ||
+        c.ranking.toLowerCase().includes(cleanQuery) ||
+        c.exams.some((e) => e.toLowerCase().includes(cleanQuery))
+      );
+    });
 
-        const res = await fetch(`/api/colleges/search?${params.toString()}`);
-        if (res.ok) {
-          const data = await res.json();
-          setSuggestions(data.colleges || []);
-          setPopularSearches(data.popularSearches || []);
-          setTotalMatches(data.totalMatches || 0);
-        }
-      } catch (err) {
-        console.error("Failed to fetch college suggestions", err);
-      } finally {
-        setIsLoading(false);
-      }
-    }, 150);
-
-    return () => clearTimeout(timer);
-  }, [searchQuery, activeTab, isDropdownOpen]);
+    setSuggestions(
+      matches.slice(0, 6).map((c) => ({
+        slug: c.slug.replace(/^colleges\//, ""),
+        name: c.name,
+        location: c.location,
+        category: c.category,
+        fees: c.fees,
+        avg_placement: c.avgPlacement,
+        highest_placement: c.highestPlacement,
+        ranking: c.ranking,
+        ownership: c.ownership,
+        exams: c.exams,
+      }))
+    );
+    setTotalMatches(matches.length);
+    setPopularSearches(
+      [
+        `Top Colleges matching "${searchQuery}"`,
+        `Fee Structure for "${searchQuery}"`,
+        `Cutoff Percentiles for "${searchQuery}"`,
+      ].slice(0, 3)
+    );
+  }, [searchQuery, activeTab, selectedLocation]);
 
   // Click outside to close dropdown
   useEffect(() => {
@@ -131,10 +169,18 @@ export function EducationFinder() {
       if (selectedLocation) params.set("location", selectedLocation);
       if (selectedBudget) params.set("budget", selectedBudget);
       if (selectedExam) params.set("exam", selectedExam);
-      if (activeTab === "btech") params.set("course", "btech");
+      params.set("category", activeTab === "btech" ? "Engineering" : "Management");
+      if (activeTab === "btech") params.set("course", "B.Tech");
 
       const queryString = params.toString();
-      router.push(`/colleges${queryString ? `?${queryString}` : ""}`);
+      
+      // If college explorer exists in DOM on home page, smoothly scroll to it and optionally update URL
+      const inPageExplorer = document.getElementById("college-explorer");
+      if (inPageExplorer && !searchQuery.trim()) {
+        inPageExplorer.scrollIntoView({ behavior: "smooth" });
+      } else {
+        router.push(`/colleges${queryString ? `?${queryString}` : ""}`);
+      }
     } else if (activeTab === "online") {
       router.push("/online-degree-certification");
     } else if (activeTab === "abroad") {
@@ -201,7 +247,7 @@ export function EducationFinder() {
               <Icon className={`w-4 h-4 shrink-0 ${isActive ? "text-white" : "text-blue-400"}`} />
               <span>{tab.label}</span>
               {tab.badge && (
-                <span className={`text-[10px] px-1.5 py-0.2 rounded-full uppercase tracking-wider ${tab.badgeColor}`}>
+                <span className={`text-[10px] px-2 py-0.5 rounded-full uppercase tracking-wider ${tab.badgeColor}`}>
                   {tab.badge}
                 </span>
               )}
@@ -344,7 +390,7 @@ export function EducationFinder() {
                       <button
                         type="button"
                         onClick={() => handleSearchSubmit()}
-                        className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1"
+                        className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 cursor-pointer"
                       >
                         <span>View all {totalMatches > 0 ? `${totalMatches} ` : ""}colleges on directory</span>
                         <ArrowRight className="w-3.5 h-3.5" />
@@ -352,7 +398,7 @@ export function EducationFinder() {
                       <button
                         type="button"
                         onClick={() => setIsDropdownOpen(false)}
-                        className="text-slate-500 hover:text-slate-300 text-[11px]"
+                        className="text-slate-500 hover:text-slate-300 text-[11px] cursor-pointer"
                       >
                         Close [Esc]
                       </button>
@@ -503,24 +549,24 @@ export function EducationFinder() {
               <div className="sm:col-span-3">
                 <button
                   type="submit"
-                  className="w-full h-12 rounded-xl bg-emerald-600 hover:bg-emerald-700 active:scale-98 text-white font-extrabold text-sm shadow-lg shadow-emerald-600/25 flex items-center justify-center gap-1.5 transition-all cursor-pointer"
+                  className="w-full h-12 rounded-xl bg-emerald-600 hover:bg-emerald-500 active:scale-98 text-white font-extrabold text-sm shadow-lg shadow-emerald-500/25 flex items-center justify-center gap-1.5 transition-all cursor-pointer"
                 >
-                  <span>Search B.Tech</span>
+                  <span>Explore B.Tech</span>
                   <ArrowRight className="w-4 h-4" />
                 </button>
               </div>
             </div>
 
             <div className="flex flex-wrap items-center gap-2 text-xs pt-1">
-              <span className="text-slate-400 font-medium">Popular:</span>
-              <Link href="/tools/btech-college-predictor" className="px-3 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-400/30 font-bold hover:bg-emerald-500/30 transition-colors">
-                🎯 JEE Main Rank Predictor
+              <span className="text-slate-400 font-medium">B.Tech Hubs:</span>
+              <Link href="/colleges?category=Engineering&state=Delhi+NCR" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-emerald-200 border border-white/10 transition-colors">
+                🏛️ Delhi NCR (IIT/DTU/NSUT)
               </Link>
-              <Link href="/colleges?search=cse" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10 transition-colors">
-                💻 Computer Science &amp; AI
+              <Link href="/colleges?category=Engineering&state=Karnataka" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-blue-200 border border-white/10 transition-colors">
+                💻 Bangalore (RVCE/BMSCE)
               </Link>
-              <Link href="/colleges?search=delhi" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10 transition-colors">
-                📍 Delhi NCR Premier Tech
+              <Link href="/colleges?category=Engineering&state=Maharashtra" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 transition-colors">
+                ⚡ Pune &amp; Mumbai (COEP/VJTI)
               </Link>
             </div>
           </form>
@@ -528,152 +574,129 @@ export function EducationFinder() {
 
         {activeTab === "online" && (
           <div className="space-y-4">
-            <div className="p-4 sm:p-5 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="p-4 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
               <div className="space-y-1 text-center sm:text-left">
-                <span className="inline-flex items-center gap-1.5 text-xs font-bold text-cyan-300 uppercase tracking-wider">
-                  <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
-                  100% Legal UGC-DEB Entitled Universities
-                </span>
-                <h3 className="text-base sm:text-lg font-bold text-white">
-                  Compare 40+ Online MBA, MCA &amp; Degree Programs
+                <div className="flex items-center justify-center sm:justify-start gap-2">
+                  <span className="px-2 py-0.5 rounded bg-cyan-400 text-slate-950 text-[10px] font-black uppercase">
+                    100% Legal Equivalence
+                  </span>
+                  <span className="text-xs text-slate-300 font-medium">UGC-DEB Entitled 2027</span>
+                </div>
+                <h3 className="font-display text-base sm:text-lg font-bold text-white">
+                  Compare 40+ NAAC A++ Accredited Online Universities
                 </h3>
-                <p className="text-xs text-blue-200/80 max-w-xl">
-                  Govt &amp; UPSC equivalent, Canada/USA WES approved, no-cost EMI from ₹3,500/month.
+                <p className="text-xs text-blue-200/80">
+                  Affordable Online MBA, MCA, BBA, BCA &amp; Data Science degrees with UPSC &amp; WES approval.
                 </p>
               </div>
 
-              <div className="flex flex-wrap items-center gap-2.5">
+              <div className="flex items-center gap-2 shrink-0">
                 <Link
                   href="/online-degree-certification"
-                  className="px-5 py-3 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-extrabold text-xs sm:text-sm transition-all shadow-md"
+                  className="h-11 px-5 rounded-xl bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-cyan-500/20"
                 >
-                  View 40+ Universities &rarr;
-                </Link>
-                <Link
-                  href="/online-degree-certification/cheapest-online-mba"
-                  className="px-4 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm border border-white/15 transition-all"
-                >
-                  MBA &lt; ₹1 Lakh
+                  <span>Explore Online Degrees</span>
+                  <ArrowRight className="w-4 h-4" />
                 </Link>
               </div>
             </div>
 
-            <div className="flex flex-wrap gap-2 text-xs">
-              <span className="text-slate-400 font-medium self-center">Explore Programs:</span>
-              <Link href="/online-degree-certification/online-mba" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">🎓 Online MBA</Link>
-              <Link href="/online-degree-certification/online-mca" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">💻 Online MCA (AI &amp; Cloud)</Link>
-              <Link href="/online-degree-certification/wes-approved-online-degrees" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">🌍 WES Approved (Abroad)</Link>
+            <div className="flex flex-wrap items-center gap-2 text-xs">
+              <span className="text-slate-400 font-medium">Popular:</span>
+              <Link href="/online-degree-certification/online-mba" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10">
+                🎓 Online MBA
+              </Link>
+              <Link href="/online-degree-certification/online-mca" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10">
+                💻 Online MCA (AI &amp; CS)
+              </Link>
+              <Link href="/online-degree-certification/cheapest-online-mba" className="px-3 py-1 rounded-lg bg-amber-400/20 hover:bg-amber-400/30 text-amber-300 border border-amber-400/30 font-bold">
+                💰 Cheapest MBA (&lt; ₹1L)
+              </Link>
+              <Link href="/online-degree-certification/wes-approved-online-degrees" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-emerald-200 border border-white/10">
+                🌍 WES Approved (Canada/USA)
+              </Link>
             </div>
           </div>
         )}
 
         {activeTab === "abroad" && (
-          <div className="space-y-4">
-            <div className="p-4 sm:p-5 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div className="space-y-1 text-center sm:text-left">
-                <span className="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-300 uppercase tracking-wider">
-                  🇺🇸 🇬🇧 🇨🇦 🇩🇪 🇦🇺 Global University Admissions
+          <div className="p-4 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="space-y-1 text-center sm:text-left">
+              <div className="flex items-center justify-center sm:justify-start gap-2">
+                <span className="px-2 py-0.5 rounded bg-emerald-400 text-slate-950 text-[10px] font-black uppercase">
+                  Global Admissions 2027
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-white">
-                  Study Abroad Mentorship: USA, UK, Canada, Germany &amp; Australia
-                </h3>
-                <p className="text-xs text-blue-200/80 max-w-xl">
-                  Profile evaluation, SOP/LOR drafting, IELTS/GMAT preparation, and scholarship assistance.
-                </p>
+                <span className="text-xs text-slate-300 font-medium">USA • UK • Canada • Germany • Ireland</span>
               </div>
-
-              <div className="flex flex-wrap items-center gap-2.5">
-                <Link
-                  href="/abroad-education"
-                  className="px-5 py-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-extrabold text-xs sm:text-sm transition-all shadow-md"
-                >
-                  Explore Global Hub &rarr;
-                </Link>
-                <Link
-                  href="/book-session"
-                  className="px-4 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm border border-white/15 transition-all"
-                >
-                  Book 1-on-1 Advisory
-                </Link>
-              </div>
+              <h3 className="font-display text-base sm:text-lg font-bold text-white">
+                Study Abroad End-to-End Strategic Counseling
+              </h3>
+              <p className="text-xs text-blue-200/80">
+                University shortlisting, SOP/LOR drafting, IELTS/GRE prep, scholarship assistance, and visa filing.
+              </p>
             </div>
 
-            <div className="flex flex-wrap gap-2 text-xs">
-              <span className="text-slate-400 font-medium self-center">Destinations:</span>
-              <Link href="/abroad-education?country=usa" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">🇺🇸 USA Universities</Link>
-              <Link href="/abroad-education?country=uk" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">🇬🇧 UK Russell Group</Link>
-              <Link href="/abroad-education?country=germany" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">🇩🇪 Germany Zero Tuition</Link>
-            </div>
+            <Link
+              href="/abroad-education"
+              className="h-11 px-5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-emerald-500/20 shrink-0"
+            >
+              <span>Explore Study Abroad</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         )}
 
         {activeTab === "mocks" && (
-          <div className="space-y-4">
-            <div className="p-4 sm:p-5 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div className="space-y-1 text-center sm:text-left">
-                <span className="inline-flex items-center gap-1.5 text-xs font-bold text-rose-400 uppercase tracking-wider">
-                  🔥 100% Free Full-Length CBT Simulation
+          <div className="p-4 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="space-y-1 text-center sm:text-left">
+              <div className="flex items-center justify-center sm:justify-start gap-2">
+                <span className="px-2 py-0.5 rounded bg-rose-500 text-white text-[10px] font-black uppercase">
+                  100% Free Full Length CBT
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-white">
-                  Real Exam Software Simulation with Instant Percentile &amp; Solutions
-                </h3>
-                <p className="text-xs text-blue-200/80 max-w-xl">
-                  Sectional timers, accurate +3/-1 marking, detailed solution breakdowns for CAT, XAT, NMAT, SNAP, MAT &amp; GMAT.
-                </p>
+                <span className="text-xs text-slate-300 font-medium">CAT • XAT • NMAT • SNAP • CMAT</span>
               </div>
-
-              <div className="flex flex-wrap items-center gap-2.5">
-                <Link
-                  href="/mock-tests"
-                  className="px-5 py-3 rounded-xl bg-rose-600 hover:bg-rose-500 text-white font-extrabold text-xs sm:text-sm transition-all shadow-md"
-                >
-                  View 50+ Mock Tests &rarr;
-                </Link>
-              </div>
+              <h3 className="font-display text-base sm:text-lg font-bold text-white">
+                Simulated CBT Mock Test Engine with Real Countdown Timers
+              </h3>
+              <p className="text-xs text-blue-200/80">
+                Full-length sectional timing, negative marking calculations, and instant percentile score breakdown.
+              </p>
             </div>
 
-            <div className="flex flex-wrap gap-2 text-xs">
-              <span className="text-slate-400 font-medium self-center">Direct Mock Launchers:</span>
-              <Link href="/cat-mock-test" className="px-3 py-1 rounded-lg bg-rose-500/20 text-rose-300 border border-rose-400/30 font-bold">🎯 CAT 2026 Free Mock</Link>
-              <Link href="/xat-mock-test" className="px-3 py-1 rounded-lg bg-purple-500/20 text-purple-300 border border-purple-400/30 font-bold">⚡ XAT 2027 Mock</Link>
-              <Link href="/nmat-mock-test" className="px-3 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-400/30 font-bold">⏱️ NMAT Mock</Link>
-              <Link href="/snap-mock-test" className="px-3 py-1 rounded-lg bg-amber-500/20 text-amber-300 border border-amber-400/30 font-bold">🚀 SNAP Mock</Link>
-            </div>
+            <Link
+              href="/mock-tests"
+              className="h-11 px-5 rounded-xl bg-rose-500 hover:bg-rose-400 text-white font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-rose-500/20 shrink-0"
+            >
+              <span>Start Free CBT Mock</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         )}
 
         {activeTab === "calculators" && (
-          <div className="space-y-4">
-            <div className="p-4 sm:p-5 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <div className="space-y-1 text-center sm:text-left">
-                <span className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-300 uppercase tracking-wider">
-                  📊 AI Score &amp; Percentile Predictors
+          <div className="p-4 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="space-y-1 text-center sm:text-left">
+              <div className="flex items-center justify-center sm:justify-start gap-2">
+                <span className="px-2 py-0.5 rounded bg-amber-400 text-slate-950 text-[10px] font-black uppercase">
+                  Score to Percentile
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-white">
-                  Convert Raw Test Scores into Normalized Percentiles &amp; College Shortlists
-                </h3>
-                <p className="text-xs text-blue-200/80 max-w-xl">
-                  Verified statistical formulas calibrated on official IIM CAT, XAT, and MAT normalization algorithms.
-                </p>
+                <span className="text-xs text-slate-300 font-medium">Updated for 2026-2027 Scoring</span>
               </div>
-
-              <div className="flex flex-wrap items-center gap-2.5">
-                <Link
-                  href="/tools"
-                  className="px-5 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-extrabold text-xs sm:text-sm transition-all shadow-md"
-                >
-                  All 20+ Tools Hub &rarr;
-                </Link>
-              </div>
+              <h3 className="font-display text-base sm:text-lg font-bold text-white">
+                Live Percentile Calculators &amp; Call Predictors
+              </h3>
+              <p className="text-xs text-blue-200/80">
+                Predict sectional percentiles for CAT, XAT, NMAT, SNAP, and calculate your MBA ROI payback timeline.
+              </p>
             </div>
 
-            <div className="flex flex-wrap gap-2 text-xs">
-              <span className="text-slate-400 font-medium self-center">Popular Tools:</span>
-              <Link href="/tools/cat-score-calculator" className="px-3 py-1 rounded-lg bg-amber-400/20 text-amber-300 border border-amber-400/30 font-bold">📈 CAT Score Calculator</Link>
-              <Link href="/tools/mat-score-calculator" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">Sept MAT Checker</Link>
-              <Link href="/calculator/mhcet-mba-2026" className="px-3 py-1 rounded-lg bg-white/10 hover:bg-white/20 text-slate-200 border border-white/10">MHCET MBA Predictor</Link>
-              <Link href="/tools/ats-resume-builder" className="px-3 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 border border-emerald-400/30 font-bold">📄 ATS Resume Builder</Link>
-            </div>
+            <Link
+              href="/tools/cat-score-calculator"
+              className="h-11 px-5 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-amber-500/20 shrink-0"
+            >
+              <span>Open Calculator Tool</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         )}
       </div>

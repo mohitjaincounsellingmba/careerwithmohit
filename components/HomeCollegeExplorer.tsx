@@ -18,16 +18,30 @@ import {
   Laptop,
   Cpu,
   Percent,
-  Star
+  Star,
+  Layers,
+  LayoutGrid,
+  List,
+  RotateCcw,
+  ShieldCheck,
+  Zap,
+  Check,
+  X,
+  ChevronDown
 } from 'lucide-react';
 
-interface CollegeData {
+export interface FeaturedCollege {
   id: string;
   name: string;
-  category: 'iim' | 'premier' | 'online' | 'roi' | 'btech';
+  category: 'iim' | 'premier' | 'aicte' | 'roi' | 'online' | 'btech' | 'ug';
+  stream: 'mba' | 'btech' | 'online' | 'ug';
   location: string;
+  state: string;
+  city: string;
   fees: string;
+  feeNum: number; // in Lakhs
   avgPlacement: string;
+  avgPlacementNum: number; // in LPA
   highestPlacement?: string;
   cutoff: string;
   ranking: string;
@@ -36,17 +50,27 @@ interface CollegeData {
   tagColor: string;
   slug: string;
   rating: string;
+  ownership: string;
+  approvals: string;
+  isHighRoi?: boolean;
+  hasDiscount?: boolean;
+  hasDirectAdmission?: boolean;
 }
 
-const FEATURED_COLLEGES: CollegeData[] = [
-  // Top IIMs
+export const FEATURED_DIRECTORY_COLLEGES: FeaturedCollege[] = [
+  // ── Top IIMs & Govt Elite Tier ──
   {
     id: 'iim-a',
     name: 'IIM Ahmedabad (Indian Institute of Management)',
     category: 'iim',
+    stream: 'mba',
     location: 'Ahmedabad, Gujarat',
+    state: 'Gujarat',
+    city: 'Ahmedabad',
     fees: '₹26.5 Lakhs (Total)',
+    feeNum: 26.5,
     avgPlacement: '₹35.22 LPA',
+    avgPlacementNum: 35.22,
     highestPlacement: '₹1.15 Cr',
     cutoff: '99.5+ CAT %ile',
     ranking: 'NIRF #1 Management',
@@ -54,15 +78,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt • Elite Tier',
     tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
     slug: 'colleges/iim-ahmedabad',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Government Autonomous',
+    approvals: 'EQUIS, AACSB, AMBA',
   },
   {
     id: 'iim-b',
     name: 'IIM Bangalore (Indian Institute of Management)',
     category: 'iim',
+    stream: 'mba',
     location: 'Bangalore, Karnataka',
+    state: 'Karnataka',
+    city: 'Bangalore',
     fees: '₹24.5 Lakhs (Total)',
+    feeNum: 24.5,
     avgPlacement: '₹33.50 LPA',
+    avgPlacementNum: 33.50,
     highestPlacement: '₹1.15 Cr',
     cutoff: '99.0+ CAT %ile',
     ranking: 'NIRF #2 Management',
@@ -70,15 +101,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt • Elite Tier',
     tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
     slug: 'colleges/iim-bangalore',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Government Autonomous',
+    approvals: 'EQUIS, AACSB',
   },
   {
     id: 'iim-c',
     name: 'IIM Calcutta (Indian Institute of Management)',
     category: 'iim',
+    stream: 'mba',
     location: 'Kolkata, West Bengal',
+    state: 'West Bengal',
+    city: 'Kolkata',
     fees: '₹27.0 Lakhs (Total)',
+    feeNum: 27.0,
     avgPlacement: '₹35.07 LPA',
+    avgPlacementNum: 35.07,
     highestPlacement: '₹1.20 Cr',
     cutoff: '99.0+ CAT %ile',
     ranking: 'NIRF #3 Management',
@@ -86,15 +124,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt • Finance Hub',
     tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
     slug: 'colleges/iim-calcutta',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Government Autonomous',
+    approvals: 'Triple Crown (EQUIS, AACSB, AMBA)',
   },
   {
     id: 'iim-l',
     name: 'IIM Lucknow',
     category: 'iim',
+    stream: 'mba',
     location: 'Lucknow, Uttar Pradesh',
+    state: 'Uttar Pradesh',
+    city: 'Lucknow',
     fees: '₹20.7 Lakhs (Total)',
+    feeNum: 20.7,
     avgPlacement: '₹32.20 LPA',
+    avgPlacementNum: 32.20,
     highestPlacement: '₹65.0 LPA',
     cutoff: '98.0+ CAT %ile',
     ranking: 'NIRF #6 Management',
@@ -102,17 +147,70 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt • Top 6 IIM',
     tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
     slug: 'colleges/iim-lucknow',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Government Autonomous',
+    approvals: 'AACSB, AMBA',
+  },
+  {
+    id: 'iim-k',
+    name: 'IIM Kozhikode',
+    category: 'iim',
+    stream: 'mba',
+    location: 'Kozhikode, Kerala',
+    state: 'Kerala',
+    city: 'Kozhikode',
+    fees: '₹20.5 Lakhs (Total)',
+    feeNum: 20.5,
+    avgPlacement: '₹31.02 LPA',
+    avgPlacementNum: 31.02,
+    highestPlacement: '₹67.0 LPA',
+    cutoff: '98.0+ CAT %ile',
+    ranking: 'NIRF #3 Management',
+    exams: ['CAT'],
+    tag: 'Govt • Top 5 IIM',
+    tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
+    slug: 'colleges/iim-kozhikode',
+    rating: '4.8',
+    ownership: 'Government Autonomous',
+    approvals: 'EQUIS, AMBA',
+  },
+  {
+    id: 'iim-mumbai',
+    name: 'IIM Mumbai (formerly NITIE)',
+    category: 'iim',
+    stream: 'mba',
+    location: 'Powai, Mumbai, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Mumbai',
+    fees: '₹21.0 Lakhs (Total)',
+    feeNum: 21.0,
+    avgPlacement: '₹29.70 LPA',
+    avgPlacementNum: 29.70,
+    highestPlacement: '₹78.0 LPA',
+    cutoff: '97.5+ CAT %ile',
+    ranking: 'NIRF #7 Management',
+    exams: ['CAT'],
+    tag: 'Supply Chain Capital',
+    tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
+    slug: 'colleges/iim-mumbai',
+    rating: '4.8',
+    ownership: 'Government Autonomous',
+    approvals: 'AICTE, MHRD',
   },
 
-  // Premier Non-IIMs
+  // ── Premier Non-IIM Business Schools ──
   {
     id: 'xlri',
     name: 'XLRI Jamshedpur (Xavier School of Management)',
     category: 'premier',
+    stream: 'mba',
     location: 'Jamshedpur, Jharkhand',
+    state: 'Jharkhand',
+    city: 'Jamshedpur',
     fees: '₹28.6 Lakhs (Total)',
+    feeNum: 28.6,
     avgPlacement: '₹32.70 LPA',
+    avgPlacementNum: 32.70,
     highestPlacement: '₹78.2 LPA',
     cutoff: '95+ XAT %ile',
     ranking: 'NIRF #9 • Asia #1 HR',
@@ -120,15 +218,68 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Private • Tier-1 Non-IIM',
     tagColor: 'bg-purple-100 text-purple-900 border-purple-300',
     slug: 'colleges/xlri-jamshedpur',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Private Autonomous',
+    approvals: 'AACSB, AMBA',
+  },
+  {
+    id: 'spjimr',
+    name: 'SPJIMR Mumbai (S.P. Jain Institute of Management)',
+    category: 'premier',
+    stream: 'mba',
+    location: 'Andheri West, Mumbai, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Mumbai',
+    fees: '₹22.5 Lakhs (Total)',
+    feeNum: 22.5,
+    avgPlacement: '₹33.00 LPA',
+    avgPlacementNum: 33.00,
+    highestPlacement: '₹77.8 LPA',
+    cutoff: '92+ CAT / XAT',
+    ranking: 'FT Global Top 50 • AACSB',
+    exams: ['CAT', 'XAT', 'GMAT'],
+    tag: 'Profile-Based Calls',
+    tagColor: 'bg-purple-100 text-purple-900 border-purple-300',
+    slug: 'colleges/spjimr-mumbai',
+    rating: '4.9',
+    ownership: 'Private Autonomous',
+    approvals: 'AACSB, AICTE',
+  },
+  {
+    id: 'mdi-gurgaon',
+    name: 'MDI Gurgaon (Management Development Institute)',
+    category: 'premier',
+    stream: 'mba',
+    location: 'Gurgaon, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Gurgaon',
+    fees: '₹25.0 Lakhs (Total)',
+    feeNum: 25.0,
+    avgPlacement: '₹27.67 LPA',
+    avgPlacementNum: 27.67,
+    highestPlacement: '₹60.0 LPA',
+    cutoff: '95+ CAT %ile',
+    ranking: 'NIRF #13 Management',
+    exams: ['CAT', 'GMAT'],
+    tag: 'Corporate Hub Flagship',
+    tagColor: 'bg-blue-100 text-blue-900 border-blue-300',
+    slug: 'colleges/mdi-gurgaon',
+    rating: '4.8',
+    ownership: 'Autonomous Institute',
+    approvals: 'AACSB, AMBA, AICTE',
   },
   {
     id: 'nmims-mumbai',
     name: 'NMIMS School of Business Management (SBM)',
     category: 'premier',
-    location: 'Mumbai, Maharashtra',
+    stream: 'mba',
+    location: 'Vile Parle, Mumbai, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Mumbai',
     fees: '₹23.9 Lakhs (Total)',
+    feeNum: 23.9,
     avgPlacement: '₹26.63 LPA',
+    avgPlacementNum: 26.63,
     highestPlacement: '₹67.8 LPA',
     cutoff: '235+ NMAT Score',
     ranking: 'NIRF #21 • AACSB',
@@ -136,15 +287,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Mumbai Financial Hub',
     tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
     slug: 'colleges/nmims-mumbai',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Deemed University',
+    approvals: 'AACSB, UGC, NAAC A+',
   },
   {
     id: 'sibm-pune',
     name: 'SIBM Pune (Symbiosis Institute of Business Management)',
     category: 'premier',
+    stream: 'mba',
     location: 'Lavale, Pune, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Pune',
     fees: '₹24.2 Lakhs (Total)',
+    feeNum: 24.2,
     avgPlacement: '₹26.77 LPA',
+    avgPlacementNum: 26.77,
     highestPlacement: '₹49.0 LPA',
     cutoff: '98.5+ SNAP %ile',
     ranking: 'NIRF #17 • Symbiosis Flagship',
@@ -152,33 +310,269 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Symbiosis Flagship',
     tagColor: 'bg-rose-100 text-rose-900 border-rose-300',
     slug: 'colleges/sibm-pune',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Deemed University',
+    approvals: 'NAAC A++, UGC',
   },
   {
     id: 'imt-ghaziabad',
     name: 'IMT Ghaziabad (Institute of Management Technology)',
     category: 'premier',
+    stream: 'mba',
     location: 'Ghaziabad, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Ghaziabad',
     fees: '₹21.5 Lakhs (Total)',
+    feeNum: 21.5,
     avgPlacement: '₹17.35 LPA',
+    avgPlacementNum: 17.35,
     highestPlacement: '₹65.6 LPA',
     cutoff: '90+ CAT / XAT',
     ranking: 'AACSB Accredited • Top Mktg',
-    exams: ['CAT', 'XAT'],
+    exams: ['CAT', 'XAT', 'GMAT'],
     tag: 'Delhi NCR #1 Marketing',
     tagColor: 'bg-blue-100 text-blue-900 border-blue-300',
     slug: 'colleges/imt-ghaziabad',
-    rating: '4.7'
+    rating: '4.7',
+    ownership: 'Private Autonomous',
+    approvals: 'AACSB, AICTE, NBA',
+  },
+  {
+    id: 'great-lakes-chennai',
+    name: 'Great Lakes Institute of Management Chennai',
+    category: 'premier',
+    stream: 'mba',
+    location: 'Chennai, Tamil Nadu',
+    state: 'Tamil Nadu',
+    city: 'Chennai',
+    fees: '₹19.8 Lakhs (Total)',
+    feeNum: 19.8,
+    avgPlacement: '₹15.10 LPA',
+    avgPlacementNum: 15.10,
+    highestPlacement: '₹34.0 LPA',
+    cutoff: '80+ CAT / XAT / CMAT',
+    ranking: 'AMBA & SAQS Accredited',
+    exams: ['CAT', 'XAT', 'CMAT', 'GMAT'],
+    tag: 'Analytics & Tech MBA',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/great-lakes-chennai',
+    rating: '4.7',
+    ownership: 'Private Autonomous',
+    approvals: 'AMBA, AICTE',
+  },
+  {
+    id: 'gim-goa',
+    name: 'Goa Institute of Management (GIM)',
+    category: 'premier',
+    stream: 'mba',
+    location: 'Sanquelim, Goa',
+    state: 'Goa',
+    city: 'Goa',
+    fees: '₹18.5 Lakhs (Total)',
+    feeNum: 18.5,
+    avgPlacement: '₹15.00 LPA',
+    avgPlacementNum: 15.00,
+    highestPlacement: '₹60.0 LPA',
+    cutoff: '85+ CAT / XAT / CMAT / GMAT',
+    ranking: 'AACSB & AMBA Accredited',
+    exams: ['CAT', 'XAT', 'CMAT', 'GMAT'],
+    tag: 'Healthcare & Big Data',
+    tagColor: 'bg-cyan-100 text-cyan-900 border-cyan-300',
+    slug: 'colleges/gim-goa',
+    rating: '4.7',
+    ownership: 'Private Autonomous',
+    approvals: 'AACSB, AMBA, AICTE',
   },
 
-  // High ROI (< ₹10L)
+  // ── Curated AICTE & Form Combo Partner B-Schools ──
+  {
+    id: 'ndim-delhi',
+    name: 'New Delhi Institute of Management (NDIM)',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Tughlakabad, South Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹14.0 Lakhs (Total)',
+    feeNum: 14.0,
+    avgPlacement: '₹9.50 LPA',
+    avgPlacementNum: 9.50,
+    highestPlacement: '₹24.0 LPA',
+    cutoff: '65+ CAT/MAT/CMAT or Merit',
+    ranking: 'AICTE Approved • AIU MBA Eq.',
+    exams: ['CAT', 'MAT', 'CMAT', 'XAT', 'Direct'],
+    tag: '100% Placements • AIU Eq.',
+    tagColor: 'bg-blue-100 text-blue-900 border-blue-300',
+    slug: 'colleges/ndim-delhi',
+    rating: '4.7',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE, NBA, AIU',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'fostiima',
+    name: 'FOSTIIMA Business School',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Dwarka, West Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹11.5 Lakhs (Total)',
+    feeNum: 11.5,
+    avgPlacement: '₹11.15 LPA',
+    avgPlacementNum: 11.15,
+    highestPlacement: '₹30.0 LPA',
+    cutoff: '65+ CAT/XAT/CMAT or Direct',
+    ranking: 'Founded by IIM-A Alumni',
+    exams: ['CAT', 'XAT', 'CMAT', 'MAT', 'Direct'],
+    tag: 'IIM Alumni Faculty Pool',
+    tagColor: 'bg-amber-100 text-amber-900 border-amber-300',
+    slug: 'colleges/fostiima-business-school',
+    rating: '4.6',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE Approved',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'fiib-delhi',
+    name: 'Fortune Institute of International Business (FIIB)',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Vasant Vihar, South Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹12.85 Lakhs (Total)',
+    feeNum: 12.85,
+    avgPlacement: '₹8.50 LPA',
+    avgPlacementNum: 8.50,
+    highestPlacement: '₹25.92 LPA',
+    cutoff: '60+ CAT/MAT/CMAT/XAT',
+    ranking: 'AACSB Member • NBA Acc.',
+    exams: ['CAT', 'MAT', 'CMAT', 'XAT', 'ATMA'],
+    tag: 'South Delhi Corporate Hub',
+    tagColor: 'bg-purple-100 text-purple-900 border-purple-300',
+    slug: 'colleges/fiib-delhi',
+    rating: '4.6',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE, NBA, AACSB Member',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'jims-rohini',
+    name: 'JIMS Rohini (Jagan Institute of Management Studies)',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Rohini, North Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹9.25 Lakhs (Total)',
+    feeNum: 9.25,
+    avgPlacement: '₹8.10 LPA',
+    avgPlacementNum: 8.10,
+    highestPlacement: '₹22.0 LPA',
+    cutoff: '70+ CAT / MAT / CMAT',
+    ranking: 'NIRF Top 100 • NAAC A',
+    exams: ['CAT', 'MAT', 'CMAT', 'XAT'],
+    tag: 'High ROI • Delhi Metro',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/jims-rohini',
+    rating: '4.6',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE, NBA, NAAC A',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'pibm-pune',
+    name: 'PIBM Pune (Pune Institute of Business Management)',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Pirangut, Pune, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Pune',
+    fees: '₹8.95 Lakhs (Total)',
+    feeNum: 8.95,
+    avgPlacement: '₹7.50 LPA',
+    avgPlacementNum: 7.50,
+    highestPlacement: '₹17.0 LPA',
+    cutoff: '60+ CAT/XAT/MAT/CMAT/CET',
+    ranking: 'Sector-Specific Practical Training',
+    exams: ['CAT', 'XAT', 'MAT', 'CMAT', 'MAH CET'],
+    tag: 'Pune Corporate Placement',
+    tagColor: 'bg-rose-100 text-rose-900 border-rose-300',
+    slug: 'colleges/pibm-pune',
+    rating: '4.5',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE, NBA',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'soil-gurgaon',
+    name: 'SOIL Institute of Management',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Manesar / Gurgaon, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Gurgaon',
+    fees: '₹15.9 Lakhs (Total)',
+    feeNum: 15.9,
+    avgPlacement: '₹11.20 LPA',
+    avgPlacementNum: 11.20,
+    highestPlacement: '₹27.0 LPA',
+    cutoff: 'Profile & Leadership Call',
+    ranking: 'Top Leadership Business School',
+    exams: ['CAT', 'XAT', 'NMAT', 'GMAT', 'SOIL Test'],
+    tag: 'Leadership & Design Thinking',
+    tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
+    slug: 'colleges/soil-institute-of-management',
+    rating: '4.6',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE Approved',
+    hasDiscount: true,
+    hasDirectAdmission: true,
+  },
+  {
+    id: 'jagsom-bangalore',
+    name: 'JAGSoM Bangalore (Jagdish Sheth School of Management)',
+    category: 'aicte',
+    stream: 'mba',
+    location: 'Electronic City, Bangalore, Karnataka',
+    state: 'Karnataka',
+    city: 'Bangalore',
+    fees: '₹15.95 Lakhs (Total)',
+    feeNum: 15.95,
+    avgPlacement: '₹13.30 LPA',
+    avgPlacementNum: 13.30,
+    highestPlacement: '₹43.0 LPA',
+    cutoff: '75+ CAT/XAT/GMAT/MAT',
+    ranking: 'AACSB Accredited • QS Ranked',
+    exams: ['CAT', 'XAT', 'MAT', 'CMAT', 'GMAT'],
+    tag: 'Silicon Valley Tech B-School',
+    tagColor: 'bg-blue-100 text-blue-900 border-blue-300',
+    slug: 'colleges/jagsom-bangalore',
+    rating: '4.7',
+    ownership: 'Private Autonomous',
+    approvals: 'AACSB, AICTE, NBA',
+    hasDiscount: true,
+  },
+
+  // ── Extreme ROI Business Schools (< ₹10L Fee) ──
   {
     id: 'fms-delhi',
     name: 'FMS Delhi (Faculty of Management Studies)',
     category: 'roi',
-    location: 'New Delhi, Delhi NCR',
+    stream: 'mba',
+    location: 'North Campus, New Delhi, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Delhi',
     fees: '₹2.0 Lakhs (Total 2-Yr)',
+    feeNum: 2.0,
     avgPlacement: '₹34.10 LPA',
+    avgPlacementNum: 34.10,
     highestPlacement: '₹1.23 Cr',
     cutoff: '99.0+ CAT %ile',
     ranking: 'ROI Multiplier: 17x',
@@ -186,47 +580,23 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: '17x Payback • DU Govt',
     tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
     slug: 'colleges/fms-delhi',
-    rating: '4.9'
-  },
-  {
-    id: 'dbe-du',
-    name: 'DBE Delhi University (Business Economics)',
-    category: 'roi',
-    location: 'New Delhi, Delhi NCR',
-    fees: '₹48,000 (Total 2-Yr)',
-    avgPlacement: '₹14.20 LPA',
-    highestPlacement: '₹32.0 LPA',
-    cutoff: '93+ CAT %ile',
-    ranking: 'ROI Multiplier: 28x',
-    exams: ['CAT'],
-    tag: '28x Payback • DU Govt',
-    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
-    slug: 'colleges/dbe-delhi-university',
-    rating: '4.7'
-  },
-  {
-    id: 'dse-delhi',
-    name: 'DSE Delhi School of Economics (MBA HRD & IB)',
-    category: 'roi',
-    location: 'New Delhi, Delhi NCR',
-    fees: '₹32,000 (Total 2-Yr)',
-    avgPlacement: '₹14.50 LPA',
-    highestPlacement: '₹32.0 LPA',
-    cutoff: '94+ CAT %ile',
-    ranking: 'ROI Multiplier: 30x',
-    exams: ['CAT'],
-    tag: '30x Payback • DU Govt',
-    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
-    slug: 'colleges/dse-delhi',
-    rating: '4.8'
+    rating: '4.9',
+    ownership: 'Government University',
+    approvals: 'UGC, Delhi University',
+    isHighRoi: true,
   },
   {
     id: 'jbims-mumbai',
     name: 'JBIMS Mumbai (Jamnalal Bajaj Institute)',
     category: 'roi',
-    location: 'Mumbai, Maharashtra',
+    stream: 'mba',
+    location: 'Churchgate, Mumbai, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Mumbai',
     fees: '₹6.0 Lakhs (Total 2-Yr)',
+    feeNum: 6.0,
     avgPlacement: '₹28.02 LPA',
+    avgPlacementNum: 28.02,
     highestPlacement: '₹44.0 LPA',
     cutoff: '99.9+ MAH CET / CAT',
     ranking: 'CEO Factory of India',
@@ -234,83 +604,195 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Highest ROI Maharashtra',
     tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
     slug: 'colleges/jbims-mumbai',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Government Autonomous',
+    approvals: 'UGC, University of Mumbai',
+    isHighRoi: true,
+  },
+  {
+    id: 'dbe-du',
+    name: 'DBE Delhi University (Business Economics)',
+    category: 'roi',
+    stream: 'mba',
+    location: 'South Campus, New Delhi, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹48,000 (Total 2-Yr)',
+    feeNum: 0.48,
+    avgPlacement: '₹14.20 LPA',
+    avgPlacementNum: 14.20,
+    highestPlacement: '₹32.0 LPA',
+    cutoff: '93+ CAT %ile',
+    ranking: 'ROI Multiplier: 29x',
+    exams: ['CAT'],
+    tag: '29x Payback • DU Govt',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/dbe-delhi-university',
+    rating: '4.7',
+    ownership: 'Government University',
+    approvals: 'UGC, Delhi University',
+    isHighRoi: true,
+  },
+  {
+    id: 'dse-delhi',
+    name: 'DSE Delhi School of Economics (MBA HRD & IB)',
+    category: 'roi',
+    stream: 'mba',
+    location: 'North Campus, New Delhi, Delhi NCR',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹32,000 (Total 2-Yr)',
+    feeNum: 0.32,
+    avgPlacement: '₹14.50 LPA',
+    avgPlacementNum: 14.50,
+    highestPlacement: '₹32.0 LPA',
+    cutoff: '94+ CAT %ile',
+    ranking: 'ROI Multiplier: 45x',
+    exams: ['CAT'],
+    tag: '45x Payback • DU Govt',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/dse-delhi',
+    rating: '4.8',
+    ownership: 'Government University',
+    approvals: 'UGC, Delhi University',
+    isHighRoi: true,
+  },
+  {
+    id: 'simsree-mumbai',
+    name: 'SIMSREE Mumbai (Sydenham Institute)',
+    category: 'roi',
+    stream: 'mba',
+    location: 'Churchgate, Mumbai, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Mumbai',
+    fees: '₹1.36 Lakhs (Total 2-Yr)',
+    feeNum: 1.36,
+    avgPlacement: '₹15.19 LPA',
+    avgPlacementNum: 15.19,
+    highestPlacement: '₹24.0 LPA',
+    cutoff: '99.5+ MAH CET / CAT',
+    ranking: 'ROI Multiplier: 11x',
+    exams: ['MAH CET', 'CAT'],
+    tag: '11x Payback • Govt Mumbai',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/simsree-mumbai',
+    rating: '4.8',
+    ownership: 'Government Institute',
+    approvals: 'AICTE, DTE Maharashtra',
+    isHighRoi: true,
   },
 
-  // Online Degrees
+  // ── UGC-DEB Approved Online Degrees ──
   {
     id: 'amity-online',
     name: 'Amity University Online (MBA / MCA / BBA)',
     category: 'online',
-    location: 'Noida / 100% Online',
+    stream: 'online',
+    location: 'Noida / 100% Online Pan-India',
+    state: 'Delhi NCR',
+    city: 'Noida',
     fees: '₹1.99 Lakhs (2-Yr EMI)',
-    avgPlacement: 'Placement Support',
-    highestPlacement: '₹18 LPA',
+    feeNum: 1.99,
+    avgPlacement: 'Corporate Hiring Drives',
+    avgPlacementNum: 8.5,
+    highestPlacement: '₹18.0 LPA',
     cutoff: 'Direct / 50% in Grad',
-    ranking: 'UGC-DEB • NAAC A+ • WES',
+    ranking: 'UGC-DEB • NAAC A+ • WES Valid',
     exams: ['Direct Admission'],
     tag: 'WES Approved • Canada/USA',
     tagColor: 'bg-cyan-100 text-cyan-900 border-cyan-300',
     slug: 'online-degree-certification/amity-university-online',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Private University (Online)',
+    approvals: 'UGC-DEB, AICTE, NAAC A+, WES',
+    hasDirectAdmission: true,
   },
   {
     id: 'jain-online',
-    name: 'Jain University Online (JAIN Deemed-to-be-Univ)',
+    name: 'Jain University Online (JAIN Deemed-to-be)',
     category: 'online',
-    location: 'Bangalore / 100% Online',
+    stream: 'online',
+    location: 'Bangalore / 100% Online Pan-India',
+    state: 'Karnataka',
+    city: 'Bangalore',
     fees: '₹1.96 Lakhs (2-Yr EMI)',
+    feeNum: 1.96,
     avgPlacement: 'Bangalore Tech Connect',
-    highestPlacement: '₹21 LPA',
+    avgPlacementNum: 9.0,
+    highestPlacement: '₹21.0 LPA',
     cutoff: 'Direct / 50% in Grad',
     ranking: 'UGC-DEB • NAAC A++ (3.71)',
     exams: ['Direct Admission'],
     tag: 'NAAC A++ Entitled',
     tagColor: 'bg-cyan-100 text-cyan-900 border-cyan-300',
     slug: 'online-degree-certification/jain-university-online',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Deemed University (Online)',
+    approvals: 'UGC-DEB, NAAC A++, AICTE',
+    hasDirectAdmission: true,
   },
   {
     id: 'lpu-online',
     name: 'LPU Online (Lovely Professional University)',
     category: 'online',
-    location: 'Punjab / 100% Online',
+    stream: 'online',
+    location: 'Punjab / 100% Online Pan-India',
+    state: 'Punjab & Chandigarh',
+    city: 'Phagwara',
     fees: '₹1.61 Lakhs (2-Yr EMI)',
-    avgPlacement: 'Career Support',
-    highestPlacement: '₹15 LPA',
+    feeNum: 1.61,
+    avgPlacement: 'Career Support & Drives',
+    avgPlacementNum: 7.8,
+    highestPlacement: '₹15.0 LPA',
     cutoff: 'Direct / 50% in Grad',
     ranking: 'UGC-DEB • NAAC A++',
     exams: ['Direct Admission'],
-    tag: 'Award Winning LMS',
+    tag: 'Award Winning LMS App',
     tagColor: 'bg-cyan-100 text-cyan-900 border-cyan-300',
     slug: 'online-degree-certification/lovely-professional-university-lpu-online',
-    rating: '4.7'
+    rating: '4.7',
+    ownership: 'Private University (Online)',
+    approvals: 'UGC-DEB, NAAC A++, AICTE',
+    hasDirectAdmission: true,
   },
   {
     id: 'cu-online',
     name: 'Chandigarh University Online (CU Online)',
     category: 'online',
-    location: 'Chandigarh / 100% Online',
+    stream: 'online',
+    location: 'Chandigarh / 100% Online Pan-India',
+    state: 'Punjab & Chandigarh',
+    city: 'Chandigarh',
     fees: '₹1.65 Lakhs (2-Yr EMI)',
+    feeNum: 1.65,
     avgPlacement: 'Fortune 500 Network',
-    highestPlacement: '₹16 LPA',
+    avgPlacementNum: 8.0,
+    highestPlacement: '₹16.0 LPA',
     cutoff: 'Direct / 50% in Grad',
     ranking: 'UGC-DEB • NAAC A+ • QS Ranked',
     exams: ['Direct Admission'],
     tag: 'QS World Ranked',
     tagColor: 'bg-cyan-100 text-cyan-900 border-cyan-300',
     slug: 'online-degree-certification/chandigarh-university-online',
-    rating: '4.7'
+    rating: '4.7',
+    ownership: 'Private University (Online)',
+    approvals: 'UGC-DEB, NAAC A+, AICTE',
+    hasDirectAdmission: true,
   },
 
-  // BTech Hubs
+  // ── Premier B.Tech & Engineering Hubs ──
   {
     id: 'iit-delhi',
     name: 'IIT Delhi (Indian Institute of Technology)',
     category: 'btech',
+    stream: 'btech',
     location: 'Hauz Khas, New Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
     fees: '₹8.5 Lakhs (4-Yr Total)',
+    feeNum: 8.5,
     avgPlacement: '₹25.8 LPA',
+    avgPlacementNum: 25.8,
     highestPlacement: '₹2.0 Cr',
     cutoff: 'JEE Advanced Rank < 2000',
     ranking: 'NIRF #2 Engineering',
@@ -318,15 +800,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt • Top Tech Institute',
     tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
     slug: 'colleges/iit-delhi',
-    rating: '4.9'
+    rating: '4.9',
+    ownership: 'Institute of National Importance',
+    approvals: 'MHRD Govt of India',
   },
   {
     id: 'iiit-delhi',
     name: 'IIIT Delhi (Indraprastha Institute of IT)',
     category: 'btech',
+    stream: 'btech',
     location: 'Okhla, New Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
     fees: '₹18.0 Lakhs (4-Yr Total)',
+    feeNum: 18.0,
     avgPlacement: '₹23.7 LPA',
+    avgPlacementNum: 23.7,
     highestPlacement: '₹51.3 LPA',
     cutoff: 'JEE Main 98+ %ile (JAC)',
     ranking: 'Premier CS & AI Hub',
@@ -334,15 +823,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt Autonomous • CS/AI',
     tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
     slug: 'colleges/iiit-delhi',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'Delhi Govt State University',
+    approvals: 'UGC, NAAC A',
   },
   {
     id: 'dtu-delhi',
     name: 'DTU (Delhi Technological University)',
     category: 'btech',
+    stream: 'btech',
     location: 'Rohini, New Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
     fees: '₹9.2 Lakhs (4-Yr Total)',
+    feeNum: 9.2,
     avgPlacement: '₹16.5 LPA',
+    avgPlacementNum: 16.5,
     highestPlacement: '₹82.0 LPA',
     cutoff: 'JEE Main Rank (JAC Delhi)',
     ranking: 'NIRF Top 30 • DCE Legacy',
@@ -350,15 +846,22 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Delhi Govt • Tech Legacy',
     tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
     slug: 'colleges/delhi-technological-university-dtu',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'State Government University',
+    approvals: 'UGC, AICTE',
   },
   {
     id: 'coep-pune',
     name: 'COEP Technological University Pune',
     category: 'btech',
+    stream: 'btech',
     location: 'Shivajinagar, Pune, Maharashtra',
+    state: 'Maharashtra',
+    city: 'Pune',
     fees: '₹4.5 Lakhs (4-Yr Total)',
+    feeNum: 4.5,
     avgPlacement: '₹12.8 LPA',
+    avgPlacementNum: 12.8,
     highestPlacement: '₹50.5 LPA',
     cutoff: 'MHT CET 99+ %ile / JEE',
     ranking: '3rd Oldest Engg College in Asia',
@@ -366,62 +869,269 @@ const FEATURED_COLLEGES: CollegeData[] = [
     tag: 'Govt Autonomous • Pune Hub',
     tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
     slug: 'colleges/coep-pune',
-    rating: '4.8'
+    rating: '4.8',
+    ownership: 'State Govt Autonomous',
+    approvals: 'AICTE, NBA, NAAC A+',
+    isHighRoi: true,
+  },
+  {
+    id: 'rvce-bangalore',
+    name: 'RV College of Engineering (RVCE)',
+    category: 'btech',
+    stream: 'btech',
+    location: 'Mysore Road, Bangalore, Karnataka',
+    state: 'Karnataka',
+    city: 'Bangalore',
+    fees: '₹10.5 Lakhs (4-Yr Total)',
+    feeNum: 10.5,
+    avgPlacement: '₹15.5 LPA',
+    avgPlacementNum: 15.5,
+    highestPlacement: '₹62.0 LPA',
+    cutoff: 'KCET Top 500 / COMEDK 98%ile',
+    ranking: 'NIRF Top Engineering Karnataka',
+    exams: ['KCET', 'COMEDK', 'Direct Management Quota'],
+    tag: 'Bangalore #1 Private Engg',
+    tagColor: 'bg-indigo-100 text-indigo-900 border-indigo-300',
+    slug: 'colleges/rvce-bangalore',
+    rating: '4.8',
+    ownership: 'Private Autonomous',
+    approvals: 'AICTE, VTU, NBA',
+    hasDirectAdmission: true,
+  },
+
+  // ── Top Undergraduate Foundations (BBA / BCA / B.Com) ──
+  {
+    id: 'sscbs-delhi',
+    name: 'SSCBS (Shaheed Sukhdev College of Business Studies)',
+    category: 'ug',
+    stream: 'ug',
+    location: 'Rohini, New Delhi',
+    state: 'Delhi NCR',
+    city: 'Delhi',
+    fees: '₹65,000 (3-Yr Total)',
+    feeNum: 0.65,
+    avgPlacement: '₹10.5 LPA',
+    avgPlacementNum: 10.5,
+    highestPlacement: '₹44.0 LPA',
+    cutoff: 'CUET-UG Top Percentile',
+    ranking: 'India #1 BBA / BMS College',
+    exams: ['CUET-UG'],
+    tag: 'DU Govt • India #1 BBA',
+    tagColor: 'bg-emerald-100 text-emerald-900 border-emerald-300',
+    slug: 'colleges/sscbs-delhi-university',
+    rating: '4.9',
+    ownership: 'Government (Delhi University)',
+    approvals: 'UGC, Delhi University',
+    isHighRoi: true,
+  },
+  {
+    id: 'christ-ug',
+    name: 'Christ University Bangalore (BBA / BCA / BCom)',
+    category: 'ug',
+    stream: 'ug',
+    location: 'Hosur Road, Bangalore, Karnataka',
+    state: 'Karnataka',
+    city: 'Bangalore',
+    fees: '₹5.5 Lakhs (3-Yr Total)',
+    feeNum: 5.5,
+    avgPlacement: '₹6.8 LPA',
+    avgPlacementNum: 6.8,
+    highestPlacement: '₹21.0 LPA',
+    cutoff: 'CUET / Christ Entrance Test',
+    ranking: 'NIRF Top 60 • NAAC A+',
+    exams: ['Christ Entrance Test', 'Merit'],
+    tag: 'Top Bangalore UG Campus',
+    tagColor: 'bg-purple-100 text-purple-900 border-purple-300',
+    slug: 'colleges/christ-university-bangalore',
+    rating: '4.7',
+    ownership: 'Deemed University',
+    approvals: 'UGC, NAAC A+',
+    hasDirectAdmission: true,
   }
 ];
 
 export function HomeCollegeExplorer() {
-  const [activeCategory, setActiveCategory] = useState<'all' | 'iim' | 'premier' | 'online' | 'roi' | 'btech'>('iim');
+  const [activeCategory, setActiveCategory] = useState<string>('all');
   const [searchFilter, setSearchFilter] = useState('');
+  const [selectedLocation, setSelectedLocation] = useState('all');
+  const [selectedBudget, setSelectedBudget] = useState('all');
+  const [selectedExam, setSelectedExam] = useState('all');
+  const [selectedSort, setSelectedSort] = useState('featured');
+  const [quickTag, setQuickTag] = useState<string | null>(null);
+  const [viewMode, setViewMode] = useState<'grid' | 'table'>('grid');
+  const [displayCount, setDisplayCount] = useState(8);
 
+  // Filtered & sorted colleges
   const filteredColleges = useMemo(() => {
-    return FEATURED_COLLEGES.filter((col) => {
-      const matchesCategory = activeCategory === 'all' || col.category === activeCategory;
-      const matchesSearch =
-        !searchFilter.trim() ||
-        col.name.toLowerCase().includes(searchFilter.toLowerCase()) ||
-        col.location.toLowerCase().includes(searchFilter.toLowerCase()) ||
-        col.exams.some((e) => e.toLowerCase().includes(searchFilter.toLowerCase()));
-      return matchesCategory && matchesSearch;
-    });
-  }, [activeCategory, searchFilter]);
+    return FEATURED_DIRECTORY_COLLEGES.filter((col) => {
+      // Category stream match
+      let matchesCategory = true;
+      if (activeCategory === 'all') {
+        matchesCategory = true;
+      } else if (activeCategory === 'mba') {
+        matchesCategory = col.stream === 'mba';
+      } else if (activeCategory === 'iim') {
+        matchesCategory = col.category === 'iim';
+      } else if (activeCategory === 'premier') {
+        matchesCategory = col.category === 'premier';
+      } else if (activeCategory === 'aicte') {
+        matchesCategory = col.category === 'aicte';
+      } else if (activeCategory === 'roi') {
+        matchesCategory = col.category === 'roi' || !!col.isHighRoi;
+      } else if (activeCategory === 'online') {
+        matchesCategory = col.stream === 'online';
+      } else if (activeCategory === 'btech') {
+        matchesCategory = col.stream === 'btech';
+      } else if (activeCategory === 'ug') {
+        matchesCategory = col.stream === 'ug';
+      }
 
-  const scrollToInquiry = (courseName: string = 'MBA / PGDM') => {
+      // Location match
+      let matchesLocation = true;
+      if (selectedLocation !== 'all') {
+        const cleanLoc = selectedLocation.toLowerCase();
+        const colState = col.state.toLowerCase();
+        const colCity = col.city.toLowerCase();
+        const colFullLoc = col.location.toLowerCase();
+        matchesLocation = colState.includes(cleanLoc) || colCity.includes(cleanLoc) || colFullLoc.includes(cleanLoc);
+      }
+
+      // Budget match
+      let matchesBudget = true;
+      if (selectedBudget === 'under-5l') {
+        matchesBudget = col.feeNum <= 5.0;
+      } else if (selectedBudget === '5l-10l') {
+        matchesBudget = col.feeNum > 5.0 && col.feeNum <= 10.0;
+      } else if (selectedBudget === '10l-18l') {
+        matchesBudget = col.feeNum > 10.0 && col.feeNum <= 18.0;
+      } else if (selectedBudget === 'above-18l') {
+        matchesBudget = col.feeNum > 18.0;
+      }
+
+      // Exam match
+      let matchesExam = true;
+      if (selectedExam !== 'all') {
+        const cleanEx = selectedExam.toLowerCase();
+        matchesExam = col.exams.some(e => e.toLowerCase().includes(cleanEx) || cleanEx.includes(e.toLowerCase())) ||
+          col.cutoff.toLowerCase().includes(cleanEx);
+      }
+
+      // Quick Tag pill match
+      let matchesQuickTag = true;
+      if (quickTag === 'placements') {
+        matchesQuickTag = col.avgPlacementNum >= 15.0;
+      } else if (quickTag === 'roi') {
+        matchesQuickTag = !!col.isHighRoi || col.category === 'roi';
+      } else if (quickTag === 'discount') {
+        matchesQuickTag = !!col.hasDiscount;
+      } else if (quickTag === 'direct') {
+        matchesQuickTag = !!col.hasDirectAdmission;
+      } else if (quickTag === 'delhi') {
+        matchesQuickTag = col.state.includes('Delhi');
+      } else if (quickTag === 'pune') {
+        matchesQuickTag = col.state.includes('Maharashtra');
+      }
+
+      // Search keyword match
+      let matchesSearch = true;
+      if (searchFilter.trim()) {
+        const q = searchFilter.toLowerCase().trim();
+        matchesSearch =
+          col.name.toLowerCase().includes(q) ||
+          col.location.toLowerCase().includes(q) ||
+          col.state.toLowerCase().includes(q) ||
+          col.city.toLowerCase().includes(q) ||
+          col.ranking.toLowerCase().includes(q) ||
+          col.tag.toLowerCase().includes(q) ||
+          col.cutoff.toLowerCase().includes(q) ||
+          col.exams.some(e => e.toLowerCase().includes(q));
+      }
+
+      return matchesCategory && matchesLocation && matchesBudget && matchesExam && matchesQuickTag && matchesSearch;
+    }).sort((a, b) => {
+      if (selectedSort === 'highest-placement') {
+        return b.avgPlacementNum - a.avgPlacementNum;
+      }
+      if (selectedSort === 'lowest-fee') {
+        return a.feeNum - b.feeNum;
+      }
+      if (selectedSort === 'rating') {
+        return parseFloat(b.rating) - parseFloat(a.rating);
+      }
+      return 0; // default featured order
+    });
+  }, [activeCategory, selectedLocation, selectedBudget, selectedExam, selectedSort, quickTag, searchFilter]);
+
+  const displayedColleges = useMemo(() => {
+    return filteredColleges.slice(0, displayCount);
+  }, [filteredColleges, displayCount]);
+
+  const scrollToInquiry = (collegeName?: string) => {
     const el = document.getElementById('inquiry-section');
     if (el) {
       el.scrollIntoView({ behavior: 'smooth' });
     }
   };
 
+  const handleResetFilters = () => {
+    setActiveCategory('all');
+    setSearchFilter('');
+    setSelectedLocation('all');
+    setSelectedBudget('all');
+    setSelectedExam('all');
+    setSelectedSort('featured');
+    setQuickTag(null);
+    setDisplayCount(8);
+  };
+
+  const isAnyFilterActive =
+    activeCategory !== 'all' ||
+    searchFilter.trim() !== '' ||
+    selectedLocation !== 'all' ||
+    selectedBudget !== 'all' ||
+    selectedExam !== 'all' ||
+    selectedSort !== 'featured' ||
+    quickTag !== null;
+
   return (
-    <section id="college-explorer" className="bg-white py-16 sm:py-24 px-4 sm:px-8 lg:px-12 border-b border-slate-200 content-auto">
+    <section id="college-explorer" className="bg-gradient-to-b from-slate-50 via-white to-slate-50 py-16 sm:py-24 px-4 sm:px-8 lg:px-12 border-b border-slate-200">
       <div className="mx-auto max-w-7xl">
-        {/* Section Header with Search Bar */}
+        
+        {/* ── SECTION HEADER & SEARCH TOOLBAR ── */}
         <div className="mb-10 flex flex-col md:flex-row md:items-end md:justify-between border-b border-slate-200 pb-8 gap-6">
-          <div className="max-w-2xl">
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-black uppercase tracking-wider mb-3 border border-blue-200">
-              <Building2 className="w-3.5 h-3.5" />
-              Verified College Search Portal
+          <div className="max-w-2xl space-y-2">
+            <span className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-blue-600/10 text-blue-700 text-xs font-black uppercase tracking-wider border border-blue-200 shadow-2xs">
+              <Building2 className="w-3.5 h-3.5 text-blue-600" />
+              Pan-India Admissions 2027 Discovery Panel
             </span>
             <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-slate-900 leading-tight">
-              Explore Top <span className="text-blue-600">Universities &amp; B-Schools</span>
+              Interactive <span className="text-blue-600">College Search</span> &amp; Explorer
             </h2>
-            <p className="mt-3 text-base sm:text-lg font-normal text-slate-600">
-              Compare audited fee structures, cutoff percentiles, average salary packages, and NIRF rankings across 770+ colleges.
+            <p className="text-sm sm:text-base font-normal text-slate-600 leading-relaxed">
+              Instantly filter 770+ verified MBA, PGDM, B.Tech &amp; Online universities by audited CTC placements, fee structures, cutoffs, and state hubs.
             </p>
           </div>
 
-          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-            {/* Quick in-section search input */}
-            <div className="relative">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 shrink-0">
+            {/* Live Search Input */}
+            <div className="relative min-w-[280px]">
               <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
               <input
                 type="text"
-                placeholder="Filter colleges, exams, city..."
+                placeholder="Search college, city, CAT, fee..."
                 value={searchFilter}
                 onChange={(e) => setSearchFilter(e.target.value)}
-                className="w-full sm:w-64 h-11 pl-10 pr-4 rounded-xl bg-slate-50 border border-slate-200 text-sm font-medium text-slate-800 placeholder:text-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+                className="w-full h-11 pl-10 pr-9 rounded-xl bg-white border border-slate-300 text-sm font-medium text-slate-800 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all shadow-xs"
               />
+              {searchFilter && (
+                <button
+                  type="button"
+                  onClick={() => setSearchFilter('')}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 p-1"
+                >
+                  <X className="w-3.5 h-3.5" />
+                </button>
+              )}
             </div>
 
             <Link
@@ -434,32 +1144,38 @@ export function HomeCollegeExplorer() {
           </div>
         </div>
 
-        {/* Category Tabs */}
-        <div className="flex items-center gap-2 overflow-x-auto pb-4 mb-8 no-scrollbar">
+        {/* ── 1. STREAM & CATEGORY TABS ── */}
+        <div className="flex items-center gap-2 overflow-x-auto pb-3 mb-6 no-scrollbar">
           {[
+            { id: 'all', label: '🌐 All Streams', badge: `${FEATURED_DIRECTORY_COLLEGES.length}+ Campuses` },
+            { id: 'mba', label: '🎓 MBA & PGDM', badge: 'Tier-1 & AICTE' },
+            { id: 'aicte', label: '🏷️ AICTE Verified Forms', badge: 'Save ₹5,000+' },
+            { id: 'roi', label: '💰 High ROI (< ₹10L)', badge: 'FMS, DBE, JBIMS' },
             { id: 'iim', label: '🏛️ Top 20 IIMs', badge: 'CAT 98-99.5+' },
             { id: 'premier', label: '⚡ Premier Non-IIMs', badge: 'XLRI, NMIMS, SIBM' },
-            { id: 'roi', label: '💰 High ROI (< ₹10L)', badge: 'FMS, DBE, JBIMS' },
-            { id: 'online', label: '🎓 UGC Online Degrees', badge: 'UPSC & WES Valid' },
-            { id: 'btech', label: '💻 B.Tech & Engg Hubs', badge: 'JEE & Tech' },
-            { id: 'all', label: '🌐 View All Top Picks', badge: '20+ Hubs' },
+            { id: 'online', label: '💻 UGC Online Degrees', badge: 'UPSC & WES Valid' },
+            { id: 'btech', label: '⚡ B.Tech & Engg Hubs', badge: 'IIT, DTU, COEP' },
+            { id: 'ug', label: '📖 UG (BBA / BCA)', badge: 'SSCBS, Christ' },
           ].map((tab) => {
             const isActive = activeCategory === tab.id;
             return (
               <button
                 key={tab.id}
                 type="button"
-                onClick={() => setActiveCategory(tab.id as any)}
+                onClick={() => {
+                  setActiveCategory(tab.id);
+                  setDisplayCount(8);
+                }}
                 className={`flex items-center gap-2 px-4 py-2.5 rounded-2xl text-xs sm:text-sm font-bold whitespace-nowrap transition-all cursor-pointer border ${
                   isActive
                     ? 'bg-blue-600 text-white border-blue-600 shadow-md shadow-blue-500/25 scale-[1.02]'
-                    : 'bg-slate-50 hover:bg-slate-100 text-slate-700 border-slate-200/90'
+                    : 'bg-white hover:bg-slate-100 text-slate-700 border-slate-200'
                 }`}
               >
                 <span>{tab.label}</span>
                 <span
-                  className={`text-[10px] px-2 py-0.5 rounded-full font-bold uppercase tracking-wider ${
-                    isActive ? 'bg-white/20 text-white' : 'bg-slate-200 text-slate-700'
+                  className={`text-[10px] px-2 py-0.5 rounded-full font-extrabold uppercase tracking-wider ${
+                    isActive ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-600'
                   }`}
                 >
                   {tab.badge}
@@ -469,124 +1185,441 @@ export function HomeCollegeExplorer() {
           })}
         </div>
 
-        {/* College Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {filteredColleges.map((college) => (
-            <div
-              key={college.id}
-              className="group relative rounded-3xl bg-white border border-slate-200 hover:border-blue-400 p-6 flex flex-col justify-between shadow-sm hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300"
-            >
-              <div>
-                {/* Top Badge & Rating */}
-                <div className="flex items-center justify-between gap-2 mb-3">
-                  <span className={`px-2.5 py-1 rounded-lg text-[10px] font-bold border uppercase tracking-wider ${college.tagColor}`}>
-                    {college.tag}
-                  </span>
-                  <span className="inline-flex items-center gap-1 text-xs font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md border border-amber-200">
-                    <Star className="w-3 h-3 fill-amber-400 text-amber-500" />
-                    {college.rating}
-                  </span>
-                </div>
+        {/* ── 2. ADVANCED MULTI-FILTER CONTROL BAR ── */}
+        <div className="bg-white rounded-2xl border border-slate-200/90 p-4 sm:p-5 mb-6 shadow-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 items-center">
+            
+            {/* Location Filter */}
+            <div className="relative">
+              <label className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-1.5 flex items-center gap-1">
+                <MapPin className="w-3 h-3 text-blue-600" />
+                <span>Region / City Hub</span>
+              </label>
+              <select
+                value={selectedLocation}
+                onChange={(e) => {
+                  setSelectedLocation(e.target.value);
+                  setDisplayCount(8);
+                }}
+                className="w-full h-10 pl-3 pr-8 rounded-xl bg-slate-50 hover:bg-slate-100/80 border border-slate-200 text-slate-800 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-blue-500 focus:bg-white cursor-pointer transition-all"
+              >
+                <option value="all">All Locations (Pan-India)</option>
+                <option value="delhi">Delhi NCR (Delhi/Noida/Gurgaon)</option>
+                <option value="maharashtra">Maharashtra (Mumbai &amp; Pune)</option>
+                <option value="karnataka">Karnataka (Bangalore)</option>
+                <option value="telangana">Telangana (Hyderabad)</option>
+                <option value="tamil">Tamil Nadu (Chennai)</option>
+                <option value="gujarat">Gujarat (Ahmedabad)</option>
+                <option value="west bengal">West Bengal (Kolkata)</option>
+                <option value="rajasthan">Rajasthan (Jaipur)</option>
+                <option value="uttar pradesh">Uttar Pradesh (Lucknow/Kanpur)</option>
+              </select>
+            </div>
 
-                {/* College Title */}
-                <h3 className="font-display text-lg font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug mb-2">
-                  <Link href={`/${college.slug}`}>
-                    {college.name}
-                  </Link>
-                </h3>
+            {/* Budget Range Filter */}
+            <div className="relative">
+              <label className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-1.5 flex items-center gap-1">
+                <IndianRupee className="w-3 h-3 text-emerald-600" />
+                <span>Total Fee Budget</span>
+              </label>
+              <select
+                value={selectedBudget}
+                onChange={(e) => {
+                  setSelectedBudget(e.target.value);
+                  setDisplayCount(8);
+                }}
+                className="w-full h-10 pl-3 pr-8 rounded-xl bg-slate-50 hover:bg-slate-100/80 border border-slate-200 text-slate-800 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-blue-500 focus:bg-white cursor-pointer transition-all"
+              >
+                <option value="all">Any Budget Tier</option>
+                <option value="under-5l">High ROI (Under ₹5 Lakhs)</option>
+                <option value="5l-10l">Budget Friendly (₹5L - ₹10 Lakhs)</option>
+                <option value="10l-18l">Mid-Tier (₹10L - ₹18 Lakhs)</option>
+                <option value="above-18l">Premier / Elite Tier (₹18L+)</option>
+              </select>
+            </div>
 
-                {/* Location & Ranking */}
-                <div className="flex items-center gap-1.5 text-xs text-slate-500 mb-4">
-                  <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-                  <span className="truncate">{college.location}</span>
-                </div>
+            {/* Exam Filter */}
+            <div className="relative">
+              <label className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-1.5 flex items-center gap-1">
+                <Award className="w-3 h-3 text-amber-500" />
+                <span>Accepted Entrance Exam</span>
+              </label>
+              <select
+                value={selectedExam}
+                onChange={(e) => {
+                  setSelectedExam(e.target.value);
+                  setDisplayCount(8);
+                }}
+                className="w-full h-10 pl-3 pr-8 rounded-xl bg-slate-50 hover:bg-slate-100/80 border border-slate-200 text-slate-800 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-blue-500 focus:bg-white cursor-pointer transition-all"
+              >
+                <option value="all">All Accepted Exams</option>
+                <option value="cat">CAT (IIMs, FMS, MDI, NDIM)</option>
+                <option value="xat">XAT (XLRI, IMT, FORE, GIM)</option>
+                <option value="nmat">NMAT (NMIMS, TAPMI, SOIL)</option>
+                <option value="snap">SNAP (SIBM Pune, SCMHRD)</option>
+                <option value="cmat">CMAT / MAT (50+ AICTE Institutes)</option>
+                <option value="jee">JEE Main / Advanced (IIT/DTU/COEP)</option>
+                <option value="direct">Direct Admission / Profile Based</option>
+              </select>
+            </div>
 
-                <div className="text-[11px] font-semibold text-blue-700 bg-blue-50/80 px-2.5 py-1 rounded-lg border border-blue-100 mb-4 inline-block">
-                  {college.ranking}
-                </div>
+            {/* Sort Options */}
+            <div className="relative">
+              <label className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-1.5 flex items-center gap-1">
+                <TrendingUp className="w-3 h-3 text-purple-600" />
+                <span>Sort Colleges By</span>
+              </label>
+              <select
+                value={selectedSort}
+                onChange={(e) => setSelectedSort(e.target.value)}
+                className="w-full h-10 pl-3 pr-8 rounded-xl bg-slate-50 hover:bg-slate-100/80 border border-slate-200 text-slate-800 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-blue-500 focus:bg-white cursor-pointer transition-all"
+              >
+                <option value="featured">Featured / Recommended</option>
+                <option value="highest-placement">Highest Average CTC (↓)</option>
+                <option value="lowest-fee">Lowest Course Fees (↑)</option>
+                <option value="rating">Student Rating / NIRF (↓)</option>
+              </select>
+            </div>
 
-                {/* Key Metrics Matrix */}
-                <div className="space-y-2 py-3 border-t border-b border-slate-100 text-xs">
-                  <div className="flex justify-between items-center">
-                    <span className="text-slate-500">Total Course Fee:</span>
-                    <span className="font-bold text-slate-900">{college.fees}</span>
-                  </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-slate-500">Average CTC:</span>
-                    <span className="font-extrabold text-emerald-600">{college.avgPlacement}</span>
-                  </div>
-                  {college.highestPlacement && (
-                    <div className="flex justify-between items-center">
-                      <span className="text-slate-500">Highest CTC:</span>
-                      <span className="font-bold text-indigo-700">{college.highestPlacement}</span>
-                    </div>
-                  )}
-                  <div className="flex justify-between items-center">
-                    <span className="text-slate-500">Required Cutoff:</span>
-                    <span className="font-bold text-amber-700 bg-amber-50 px-1.5 py-0.5 rounded text-[11px]">
-                      {college.cutoff}
-                    </span>
-                  </div>
-                </div>
+          </div>
 
-                {/* Accepted Exams Chips */}
-                <div className="mt-3 flex flex-wrap gap-1.5">
-                  {college.exams.map((ex, i) => (
-                    <span key={i} className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-slate-100 text-slate-700">
-                      {ex}
-                    </span>
-                  ))}
-                </div>
-              </div>
+          {/* Quick Filter Action Pills & Results Bar */}
+          <div className="mt-4 pt-3.5 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
+            <div className="flex flex-wrap items-center gap-1.5">
+              <span className="text-xs font-bold text-slate-400 mr-1">Quick Picks:</span>
+              {[
+                { id: 'placements', label: '🔥 ₹25+ LPA Placements' },
+                { id: 'roi', label: '💰 10x+ ROI Multiplier' },
+                { id: 'discount', label: '🏷️ MBA Form Discounts (Save ₹5k)' },
+                { id: 'direct', label: '⚡ Direct Admission' },
+                { id: 'delhi', label: '🏛️ Delhi NCR Hub' },
+                { id: 'pune', label: '🏦 Mumbai & Pune' },
+              ].map((pill) => {
+                const isSelected = quickTag === pill.id;
+                return (
+                  <button
+                    key={pill.id}
+                    type="button"
+                    onClick={() => {
+                      setQuickTag(isSelected ? null : pill.id);
+                      setDisplayCount(8);
+                    }}
+                    className={`px-3 py-1 rounded-lg text-xs font-semibold transition-all cursor-pointer border ${
+                      isSelected
+                        ? 'bg-blue-600 text-white border-blue-600 shadow-xs'
+                        : 'bg-slate-100 hover:bg-slate-200/70 text-slate-700 border-slate-200'
+                    }`}
+                  >
+                    {pill.label}
+                  </button>
+                );
+              })}
+            </div>
 
-              {/* Action Buttons */}
-              <div className="mt-6 pt-4 border-t border-slate-100 flex items-center gap-2">
-                <Link
-                  href={`/${college.slug}`}
-                  className="flex-1 py-2.5 px-3 rounded-xl bg-slate-100 hover:bg-blue-600 text-slate-800 hover:text-white font-bold text-xs text-center transition-all"
-                >
-                  View Details
-                </Link>
+            {/* View Switcher & Reset */}
+            <div className="flex items-center gap-2">
+              {isAnyFilterActive && (
                 <button
                   type="button"
-                  onClick={() => scrollToInquiry(college.category === 'btech' ? 'B.Tech & Engg' : college.category === 'online' ? 'Online MBA (UGC)' : 'MBA / PGDM')}
-                  className="py-2.5 px-3 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-all shadow-sm cursor-pointer"
-                  title="Submit Inquiry for this College"
+                  onClick={handleResetFilters}
+                  className="flex items-center gap-1 px-3 py-1 rounded-lg text-xs font-bold text-rose-600 hover:bg-rose-50 border border-rose-200 transition-colors cursor-pointer"
                 >
-                  Inquire
+                  <RotateCcw className="w-3 h-3" />
+                  <span>Reset All</span>
+                </button>
+              )}
+
+              <div className="flex items-center bg-slate-100 p-0.5 rounded-lg border border-slate-200">
+                <button
+                  type="button"
+                  onClick={() => setViewMode('grid')}
+                  className={`p-1.5 rounded-md transition-all cursor-pointer ${
+                    viewMode === 'grid' ? 'bg-white text-blue-600 shadow-xs' : 'text-slate-500 hover:text-slate-800'
+                  }`}
+                  title="Grid Cards View"
+                >
+                  <LayoutGrid className="w-4 h-4" />
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setViewMode('table')}
+                  className={`p-1.5 rounded-md transition-all cursor-pointer ${
+                    viewMode === 'table' ? 'bg-white text-blue-600 shadow-xs' : 'text-slate-500 hover:text-slate-800'
+                  }`}
+                  title="Matrix Comparison Table View"
+                >
+                  <List className="w-4 h-4" />
                 </button>
               </div>
             </div>
-          ))}
+          </div>
         </div>
 
-        {/* Bottom CTA Banner */}
-        <div className="mt-12 rounded-3xl bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl">
-          <div className="space-y-1 text-center sm:text-left">
-            <h3 className="font-display text-xl sm:text-2xl font-bold text-white">
-              Looking for a Specific College, City, or Cutoff Analysis?
+        {/* ── 3. LIVE MATCH STATUS BAR ── */}
+        <div className="mb-6 flex items-center justify-between text-xs font-semibold text-slate-600">
+          <div className="flex items-center gap-2">
+            <span className="flex h-2 w-2 relative">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+            </span>
+            <span>
+              Showing <strong className="text-slate-900 font-extrabold">{displayedColleges.length}</strong> of{' '}
+              <strong className="text-blue-600 font-extrabold">{filteredColleges.length}</strong> matching verified institutions
+            </span>
+          </div>
+
+          <div className="hidden sm:block text-slate-400">
+            Free 1-on-1 Profile Shortlist &bull; <strong className="text-slate-700">Mohit Jain</strong>
+          </div>
+        </div>
+
+        {/* ── 4. COLLEGE CARDS: GRID VIEW MODE ── */}
+        {viewMode === 'grid' && (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {displayedColleges.map((college) => (
+              <div
+                key={college.id}
+                className="group relative rounded-3xl bg-white border border-slate-200/90 hover:border-blue-400 p-5 sm:p-6 flex flex-col justify-between shadow-sm hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300"
+              >
+                <div>
+                  {/* Top Badge & Rating */}
+                  <div className="flex items-center justify-between gap-2 mb-3">
+                    <span className={`px-2.5 py-0.5 rounded-lg text-[10px] font-black border uppercase tracking-wider ${college.tagColor}`}>
+                      {college.tag}
+                    </span>
+                    <span className="inline-flex items-center gap-1 text-xs font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md border border-amber-200">
+                      <Star className="w-3 h-3 fill-amber-400 text-amber-500" />
+                      {college.rating}
+                    </span>
+                  </div>
+
+                  {/* College Title */}
+                  <h3 className="font-display text-base sm:text-lg font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug mb-2 line-clamp-2">
+                    <Link href={`/${college.slug}`}>
+                      {college.name}
+                    </Link>
+                  </h3>
+
+                  {/* Location & Accreditations */}
+                  <div className="flex items-center gap-1.5 text-xs text-slate-500 mb-3">
+                    <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
+                    <span className="truncate">{college.location}</span>
+                  </div>
+
+                  <div className="text-[11px] font-semibold text-blue-700 bg-blue-50/90 px-2.5 py-1 rounded-lg border border-blue-100 mb-3 inline-block truncate max-w-full">
+                    {college.ranking}
+                  </div>
+
+                  {/* Key Metrics Matrix */}
+                  <div className="space-y-2 py-3 border-t border-b border-slate-100 text-xs">
+                    <div className="flex justify-between items-center">
+                      <span className="text-slate-500">Course Fee:</span>
+                      <span className="font-bold text-slate-900">{college.fees}</span>
+                    </div>
+                    <div className="flex justify-between items-center">
+                      <span className="text-slate-500">Average CTC:</span>
+                      <span className="font-black text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-100">
+                        {college.avgPlacement}
+                      </span>
+                    </div>
+                    {college.highestPlacement && (
+                      <div className="flex justify-between items-center">
+                        <span className="text-slate-500">Highest CTC:</span>
+                        <span className="font-extrabold text-indigo-700">{college.highestPlacement}</span>
+                      </div>
+                    )}
+                    <div className="flex justify-between items-center">
+                      <span className="text-slate-500">Cutoff / Calls:</span>
+                      <span className="font-bold text-amber-800 bg-amber-50 px-1.5 py-0.5 rounded text-[11px] border border-amber-200/60 truncate max-w-[150px]">
+                        {college.cutoff}
+                      </span>
+                    </div>
+                  </div>
+
+                  {/* Accepted Exams Chips */}
+                  <div className="mt-3 flex flex-wrap gap-1">
+                    {college.exams.map((ex, i) => (
+                      <span key={i} className="text-[10px] font-bold px-2 py-0.5 rounded-md bg-slate-100 text-slate-700">
+                        {ex}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="mt-5 pt-4 border-t border-slate-100 flex items-center gap-2">
+                  <Link
+                    href={`/${college.slug}`}
+                    className="flex-1 py-2.5 px-3 rounded-xl bg-slate-100 hover:bg-blue-600 text-slate-800 hover:text-white font-bold text-xs text-center transition-all shadow-2xs"
+                  >
+                    Details &rarr;
+                  </Link>
+                  <button
+                    type="button"
+                    onClick={() => scrollToInquiry(college.name)}
+                    className="py-2.5 px-3.5 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold text-xs transition-all shadow-xs cursor-pointer"
+                    title="Submit Free Admission Inquiry"
+                  >
+                    Inquire
+                  </button>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {/* ── 5. COLLEGE CARDS: DETAILED MATRIX TABLE VIEW MODE ── */}
+        {viewMode === 'table' && (
+          <div className="bg-white rounded-3xl border border-slate-200/90 overflow-hidden shadow-xs">
+            <div className="overflow-x-auto custom-scrollbar">
+              <table className="w-full text-left text-xs border-collapse">
+                <thead>
+                  <tr className="bg-slate-900 text-white font-extrabold uppercase tracking-wider text-[11px]">
+                    <th className="p-3.5 sm:p-4">College / University</th>
+                    <th className="p-3.5">Hub / Location</th>
+                    <th className="p-3.5">Total Course Fee</th>
+                    <th className="p-3.5">Average CTC</th>
+                    <th className="p-3.5">Highest CTC</th>
+                    <th className="p-3.5">Cutoff / Exams</th>
+                    <th className="p-3.5">Accreditation</th>
+                    <th className="p-3.5 text-right">Actions</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100 text-slate-700 font-medium">
+                  {displayedColleges.map((col) => (
+                    <tr key={col.id} className="hover:bg-blue-50/40 transition-colors">
+                      <td className="p-3.5 sm:p-4 font-bold text-slate-900">
+                        <Link href={`/${col.slug}`} className="hover:text-blue-600 block text-xs sm:text-sm font-extrabold">
+                          {col.name}
+                        </Link>
+                        <span className={`inline-block mt-1 px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-wider border ${col.tagColor}`}>
+                          {col.tag}
+                        </span>
+                      </td>
+                      <td className="p-3.5 text-slate-600 whitespace-nowrap">
+                        <div className="flex items-center gap-1">
+                          <MapPin className="w-3.5 h-3.5 text-slate-400" />
+                          <span>{col.location}</span>
+                        </div>
+                      </td>
+                      <td className="p-3.5 font-bold text-slate-900 whitespace-nowrap">
+                        {col.fees}
+                      </td>
+                      <td className="p-3.5 font-black text-emerald-600 whitespace-nowrap text-sm">
+                        {col.avgPlacement}
+                      </td>
+                      <td className="p-3.5 font-extrabold text-indigo-700 whitespace-nowrap">
+                        {col.highestPlacement || '—'}
+                      </td>
+                      <td className="p-3.5 whitespace-nowrap">
+                        <div className="font-bold text-amber-800">{col.cutoff}</div>
+                        <div className="text-[10px] text-slate-500 mt-0.5">{col.exams.join(', ')}</div>
+                      </td>
+                      <td className="p-3.5 text-[11px] text-slate-600 max-w-[160px] truncate">
+                        {col.ranking}
+                      </td>
+                      <td className="p-3.5 text-right whitespace-nowrap">
+                        <div className="flex items-center justify-end gap-2">
+                          <Link
+                            href={`/${col.slug}`}
+                            className="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-blue-600 hover:text-white font-bold text-[11px] transition-all"
+                          >
+                            Details
+                          </Link>
+                          <button
+                            type="button"
+                            onClick={() => scrollToInquiry(col.name)}
+                            className="px-3 py-1.5 rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-bold text-[11px] transition-all cursor-pointer"
+                          >
+                            Inquire
+                          </button>
+                        </div>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
+
+        {/* ── 6. ZERO RESULTS / RECOVERY VIEW ── */}
+        {filteredColleges.length === 0 && (
+          <div className="text-center py-16 px-6 bg-white rounded-3xl border border-slate-200 my-6 shadow-xs">
+            <div className="w-16 h-16 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center mx-auto mb-4 border border-amber-200">
+              <Search className="w-7 h-7" />
+            </div>
+            <h3 className="font-display text-xl font-bold text-slate-900 mb-1">
+              No Direct Matches for Selected Filters
             </h3>
-            <p className="text-xs sm:text-sm text-blue-200/80 max-w-xl font-normal">
-              Search all 770+ MBA, B.Tech, and Online universities across Delhi NCR, Pune, Bangalore, Mumbai, and pan-India.
+            <p className="text-sm text-slate-500 max-w-md mx-auto mb-6">
+              We couldn&apos;t find colleges matching this exact combination. Try broadening your location or budget tier, or reset filters to browse all.
+            </p>
+            <div className="flex items-center justify-center gap-3">
+              <button
+                type="button"
+                onClick={handleResetFilters}
+                className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold transition-all shadow-sm cursor-pointer"
+              >
+                Reset All Filters
+              </button>
+              <Link
+                href="/colleges"
+                className="px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-all"
+              >
+                Search Full 770+ Directory &rarr;
+              </Link>
+            </div>
+          </div>
+        )}
+
+        {/* ── 7. LOAD MORE / PAGINATION BUTTON ── */}
+        {filteredColleges.length > displayCount && (
+          <div className="mt-8 text-center">
+            <button
+              type="button"
+              onClick={() => setDisplayCount((prev) => prev + 8)}
+              className="inline-flex items-center gap-2 px-8 py-3.5 rounded-2xl bg-white hover:bg-blue-50 border border-slate-300 hover:border-blue-400 text-slate-800 hover:text-blue-700 font-extrabold text-sm shadow-xs transition-all cursor-pointer"
+            >
+              <span>Show More Colleges ({filteredColleges.length - displayCount} Remaining)</span>
+              <ChevronDown className="w-4 h-4 text-blue-600 animate-bounce" />
+            </button>
+          </div>
+        )}
+
+        {/* ── 8. BOTTOM HIGH-CONVERSION CTA BANNER ── */}
+        <div className="mt-12 rounded-3xl bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-950 text-white p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-xl border border-blue-800/40">
+          <div className="space-y-1.5 text-center md:text-left">
+            <div className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-amber-400/20 text-amber-300 text-[11px] font-extrabold uppercase tracking-wider border border-amber-400/30">
+              <Sparkles className="w-3.5 h-3.5" />
+              Pan-India Database 2027
+            </div>
+            <h3 className="font-display text-xl sm:text-2xl font-black text-white">
+              Looking for a Specific College, City, or Detailed Cutoff Analysis?
+            </h3>
+            <p className="text-xs sm:text-sm text-blue-200/90 max-w-2xl font-normal leading-relaxed">
+              Explore all 770+ verified MBA, PGDM, B.Tech, and UGC Online universities across Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, and Pan-India.
             </p>
           </div>
 
-          <div className="flex flex-wrap items-center gap-3">
+          <div className="flex flex-wrap items-center gap-3 shrink-0">
             <Link
               href="/colleges"
-              className="px-6 py-3 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-extrabold text-xs sm:text-sm transition-all shadow-lg shadow-amber-950/20 whitespace-nowrap"
+              className="px-6 py-3.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs sm:text-sm transition-all shadow-lg shadow-amber-950/20 whitespace-nowrap flex items-center gap-1.5"
             >
-              Open Full 770+ Directory &rarr;
+              <span>Explore All 770+ Colleges</span>
+              <ArrowRight className="w-4 h-4" />
             </Link>
             <button
               type="button"
               onClick={() => scrollToInquiry()}
-              className="px-5 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm border border-white/20 transition-all cursor-pointer whitespace-nowrap"
+              className="px-5 py-3.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm border border-white/20 transition-all cursor-pointer whitespace-nowrap"
             >
               Request Free Shortlist
             </button>
           </div>
         </div>
+
       </div>
     </section>
   );
