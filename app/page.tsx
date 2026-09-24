@@ -177,8 +177,8 @@ const HOME_FAQS = [
 ];
 
 export const metadata: Metadata = {
-  title: "Mohit Jain | Education & Admissions Portal 2027: Top Colleges, Free Mock Tests & Career Guidance",
-  description: "Transform your career with India's premier Education Portal. Search 770+ colleges, take free full-length CBT mock tests for CAT/XAT/NMAT/SNAP, calculate MBA ROI, submit admission inquiries, and book 1-on-1 mentorship with Mohit Jain.",
+  title: "Mohit Jain | MBA Admissions 2027, Colleges & Free Mock Tests",
+  description: "Search 770+ top colleges, take free CBT mock tests for CAT, XAT, NMAT & SNAP, calculate MBA ROI, and book 1-on-1 admissions counselling with Mohit Jain.",
   keywords: [
     "education portal india", "college search portal", "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert", 
     "free cat mock test 2026", "free xat mock test 2027", "nmat practice test", "snap mock test", "mba form combo discounts",
@@ -190,8 +190,8 @@ export const metadata: Metadata = {
     canonical: "https://careerwithmohit.online/",
   },
   openGraph: {
-    title: "Mohit Jain | Education & Admissions Portal 2027: Colleges, CBT Mocks & Mentorship",
-    description: "Explore 770+ colleges, free CBT mock tests, MBA form discounts, score calculators, student inquiry forms, and 1-on-1 admissions coaching with Mohit Jain.",
+    title: "Mohit Jain | MBA Admissions 2027, Colleges & Free Mock Tests",
+    description: "Search 770+ top colleges, take free CBT mock tests for CAT, XAT, NMAT & SNAP, calculate MBA ROI, and book 1-on-1 admissions counselling with Mohit Jain.",
     url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
     type: "website",
@@ -207,7 +207,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Jain | Education & Admissions Portal 2027",
+    title: "Mohit Jain | MBA Admissions 2027, Colleges & Free Mock Tests",
     description: "770+ Verified Colleges, Free CBT Mock Tests, MBA Form Discounts & 1-on-1 Guidance.",
     images: ["/og-image.webp"],
   },

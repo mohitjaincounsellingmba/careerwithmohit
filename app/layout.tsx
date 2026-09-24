@@ -27,10 +27,10 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://careerwithmohit.online"),
   title: {
-    default: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
+    default: "Mohit Jain | Career Counselling & MBA Admissions Expert 2027",
     template: "%s | CareerWithMohit",
   },
-  description: "Expert career guidance, MBA & PGDM admissions consulting, and interview prep by Mohit Jain. Uncompromised strategies for CAT 2027, MBA 2027 & degree admissions.",
+  description: "Expert career guidance, MBA/PGDM admissions consulting, and interview prep by Mohit Jain. Proven strategies for CAT, XAT, NMAT & top university admissions.",
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     locale: "en_IN",
     url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
-    title: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
+    title: "Mohit Jain | Career Counselling & MBA Admissions Expert 2027",
     description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools & 2027 admissions.",
     images: [
       {
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Jain | Career Counselling & MBA / PGDM Admissions Expert 2027",
+    title: "Mohit Jain | Career Counselling & MBA Admissions Expert 2027",
     description: "Expert career guidance and MBA / PGDM admissions consulting for top-tier B-schools & 2027 admissions.",
     images: ["/og-image.webp"],
   },
