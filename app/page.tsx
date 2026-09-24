@@ -25,11 +25,17 @@ import {
   ShieldCheck,
   TrendingUp,
   Percent,
-  Users
+  Users,
+  MessageCircle,
+  Calculator,
+  Compass,
+  Check
 } from 'lucide-react';
 
 import { DynamicHeroText } from '@/components/DynamicHeroText';
 import { EducationFinder } from '@/components/EducationFinder';
+import { HomeCollegeExplorer } from '@/components/HomeCollegeExplorer';
+import { HomeInquirySection } from '@/components/HomeInquirySection';
 import { PortalQuickTools } from '@/components/PortalQuickTools';
 import { ExamTrackerSection } from '@/components/ExamTrackerSection';
 import { InteractiveRoiCalculator } from '@/components/InteractiveRoiCalculator';
@@ -145,6 +151,10 @@ const HOME_FAQS = [
     answer: "Mohit Jain (certified by IIM Bangalore & FMS Delhi) provides personalized 1-on-1 profile evaluation, B-school shortlist mapping (Dream, Target, Safe), application review, GD-PI-WAT interview training, and guidance on direct admission processes in top AICTE/UGC approved business schools across India."
   },
   {
+    question: "How do I submit an inquiry for MBA/B.Tech admissions on this portal?",
+    answer: "You can fill out the interactive Admission Inquiry Form directly on this home page. Simply select your target course (MBA/PGDM, B.Tech, Online Degrees, or Study Abroad), enter your contact details and preferred location/budget, and Mohit Jain's senior mentorship team will evaluate your profile and contact you within 24 hours."
+  },
+  {
     question: "How do I save money on MBA application forms with the Form Discount Tool?",
     answer: "CareerWithMohit offers an MBA Application Form Discount Calculator (/mba-application-form-discount) covering 55+ accredited business schools. By applying in curated combo bundles, candidates save up to ₹5,000+ on official application fees with verified institutional discount codes."
   },
@@ -168,9 +178,9 @@ const HOME_FAQS = [
 
 export const metadata: Metadata = {
   title: "Mohit Jain | Education & Admissions Portal 2027: Top Colleges, Free Mock Tests & Career Guidance",
-  description: "Transform your career with India's premier Education Portal. Search 770+ colleges, take free full-length CBT mock tests for CAT/XAT/NMAT/SNAP, calculate MBA ROI, and book 1-on-1 mentorship with Mohit Jain.",
+  description: "Transform your career with India's premier Education Portal. Search 770+ colleges, take free full-length CBT mock tests for CAT/XAT/NMAT/SNAP, calculate MBA ROI, submit admission inquiries, and book 1-on-1 mentorship with Mohit Jain.",
   keywords: [
-    "education portal india", "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert", 
+    "education portal india", "college search portal", "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert", 
     "free cat mock test 2026", "free xat mock test 2027", "nmat practice test", "snap mock test", "mba form combo discounts",
     "best career counsellor Delhi NCR", "degree admission 2027", "Direct MBA admission 2027", "ROI MBA colleges",
     "online degree courses india 2027", "ugc deb approved online universities", "online mba colleges fees",
@@ -181,7 +191,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Mohit Jain | Education & Admissions Portal 2027: Colleges, CBT Mocks & Mentorship",
-    description: "Explore 770+ colleges, free CBT mock tests, MBA form discounts, score calculators, and 1-on-1 admissions coaching with Mohit Jain.",
+    description: "Explore 770+ colleges, free CBT mock tests, MBA form discounts, score calculators, student inquiry forms, and 1-on-1 admissions coaching with Mohit Jain.",
     url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
     type: "website",
@@ -223,12 +233,12 @@ export default function Home() {
     <div className="w-full bg-slate-50">
       <JsonLd data={faqSchema} />
       
-      {/* ── HERO SECTION: MODERN EDUCATION DISCOVERY PORTAL ── */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-[#071324] via-[#0D233E] to-[#112E52] text-white px-4 pt-16 pb-20 sm:px-8 sm:pt-24 sm:pb-28 lg:pt-28 lg:pb-32 border-b border-blue-900/40">
+      {/* ── 1. HERO SECTION: MODERN EDUCATION DISCOVERY & SEARCH PORTAL ── */}
+      <section className="relative overflow-hidden bg-gradient-to-b from-[#050D1A] via-[#091A33] to-[#0E284D] text-white px-4 pt-16 pb-20 sm:px-8 sm:pt-24 sm:pb-28 lg:pt-28 lg:pb-32 border-b border-blue-900/40">
         {/* Soft Ambient Background Glows */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[900px] h-[400px] bg-blue-500/15 blur-[130px] pointer-events-none rounded-full" />
-        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[100px] pointer-events-none rounded-full" />
-        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[90px] pointer-events-none rounded-full" />
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[450px] bg-blue-500/15 blur-[140px] pointer-events-none rounded-full" />
+        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[110px] pointer-events-none rounded-full" />
+        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[100px] pointer-events-none rounded-full" />
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
           {/* Glowing Status Pill */}
@@ -262,14 +272,21 @@ export default function Home() {
           {/* Direct Fast-Track Actions */}
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4 max-w-3xl mx-auto">
             <a 
+              href="#inquiry-section"
+              className="w-full sm:w-auto rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 active:scale-95 px-7 py-3.5 text-sm sm:text-base font-bold text-white transition-all shadow-lg shadow-blue-950/40 flex items-center justify-center gap-2 cursor-pointer"
+            >
+              <Sparkles className="w-4 h-4 text-amber-300 animate-pulse" />
+              <span>Submit Admission Inquiry</span>
+              <span className="px-2 py-0.5 rounded-md bg-white/20 text-[10px] font-bold uppercase tracking-wider text-white">Free</span>
+            </a>
+            <a 
               href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20to%20evaluate%20my%20MBA%20admission%20profile" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="w-full sm:w-auto rounded-xl bg-emerald-500 hover:bg-emerald-600 active:scale-95 px-7 py-3.5 text-sm sm:text-base font-bold text-white transition-all shadow-lg shadow-emerald-950/40 flex items-center justify-center gap-2"
+              className="w-full sm:w-auto rounded-xl bg-emerald-500 hover:bg-emerald-600 active:scale-95 px-6 py-3.5 text-sm sm:text-base font-bold text-white transition-all shadow-lg shadow-emerald-950/40 flex items-center justify-center gap-2"
             >
-              <span className="text-lg">💬</span>
+              <MessageCircle className="w-4 h-4 fill-white/20" />
               <span>WhatsApp Profile Review</span>
-              <span className="px-2 py-0.5 rounded-md bg-emerald-700/60 text-[10px] font-bold uppercase tracking-wider text-emerald-100">Instant</span>
             </a>
             <Link 
               href="/book-session" 
@@ -279,17 +296,9 @@ export default function Home() {
               <Video className="w-4 h-4 text-amber-300" />
               <span>Book 1-on-1 Google Meet</span>
             </Link>
-            <Link 
-              href="/mba-application-form-discount" 
-              prefetch={false} 
-              className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 px-6 py-3.5 text-sm sm:text-base font-bold text-slate-950 transition-all shadow-lg shadow-amber-950/20 text-center flex items-center justify-center gap-1.5"
-            >
-              <span>Save ₹5k+ Form Combos</span>
-              <ArrowRight className="w-4 h-4" />
-            </Link>
           </div>
 
-          {/* PROMINENT TRUST & CREDIBILITY STATS RIBBON */}
+          {/* Prominent Trust & Credibility Stats Ribbon */}
           <div className="mx-auto max-w-5xl mt-12 pt-8 border-t border-white/15 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             <div className="flex flex-col items-center">
               <span className="font-display text-2xl sm:text-4xl font-black text-amber-300">6+ Years</span>
@@ -311,106 +320,25 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
+      {/* ── 2. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
+      <HomeInquirySection />
+
+      {/* ── 3. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
+      <HomeCollegeExplorer />
+
+      {/* ── 4. FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
       <PortalQuickTools />
 
-      {/* ── NATIONAL ENTRANCE EXAM RADAR & DEADLINE TRACKER ── */}
+      {/* ── 5. NATIONAL ENTRANCE EXAM RADAR & DEADLINE TRACKER ── */}
       <ExamTrackerSection />
 
-      {/* ── LIVE INTERACTIVE MBA ROI & FINANCIAL PAYBACK CALCULATOR ── */}
+      {/* ── 6. LIVE INTERACTIVE MBA ROI & FINANCIAL PAYBACK CALCULATOR ── */}
       <InteractiveRoiCalculator />
 
-      {/* ── FREE FULL-LENGTH CBT MOCK TESTS SLIDER BANNER ── */}
+      {/* ── 7. FREE FULL-LENGTH CBT MOCK TESTS SLIDER BANNER ── */}
       <HomeMockTestSlider />
 
-      {/* ── TOP TIER MBA & PGDM B-SCHOOLS DIRECTORY PREVIEW ── */}
-      <section id="top-tier-mba" className="bg-slate-50 px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
-        <div className="mx-auto max-w-7xl">
-          <div className="mb-12 md:flex md:items-end md:justify-between border-b border-slate-200 pb-8">
-            <div className="max-w-2xl">
-              <span className="inline-block px-3 py-1 rounded-full bg-amber-100 text-amber-900 text-xs font-bold uppercase tracking-wider mb-3">
-                MBA / PGDM ADMISSIONS 2027
-              </span>
-              <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-slate-900 leading-tight">
-                Top Tier <span className="text-blue-600">MBA Colleges</span> in India
-              </h2>
-              <p className="mt-3 text-base sm:text-lg font-normal text-slate-600">
-                Explore fee structures, cutoff percentiles, and audited placement reports for premier Indian B-Schools.
-              </p>
-            </div>
-            <Link href="/top-tier-mba-colleges" prefetch={false} className="mt-6 md:mt-0 inline-flex items-center text-sm sm:text-base font-bold text-blue-600 hover:text-blue-800 transition-colors group">
-              View All 770+ Colleges Directory
-              <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" strokeWidth={2.5} />
-            </Link>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {[
-              {
-                name: "All 21 IIMs Directory",
-                description: "IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Baby IIMs.",
-                badge: "CAT 90-99.5+ %ile",
-                link: "/top-tier-mba-colleges?tab=iim",
-                stats: "Avg CTC: Up to ₹35.4 LPA",
-                tagColor: "bg-red-50 text-red-700 border-red-200"
-              },
-              {
-                name: "NMAT Accepting B-Schools",
-                description: "NMIMS Mumbai, Bengaluru, TAPMI, K J Somaiya, SDA Bocconi Asia Center.",
-                badge: "200-235+ Score",
-                link: "/top-tier-mba-colleges?tab=nmat",
-                stats: "Avg CTC: Up to ₹26.6 LPA",
-                tagColor: "bg-emerald-50 text-emerald-700 border-emerald-200"
-              },
-              {
-                name: "SNAP Accepting Colleges",
-                description: "SIBM Pune, SCMHRD, SIIB, SIBM Bengaluru, and top Symbiosis institutes.",
-                badge: "80-98.5+ %ile",
-                link: "/top-tier-mba-colleges?tab=snap",
-                stats: "Avg CTC: Up to ₹26.7 LPA",
-                tagColor: "bg-rose-50 text-rose-700 border-rose-200"
-              },
-              {
-                name: "XAT Accepting Colleges",
-                description: "XLRI Jamshedpur & Delhi, SPJIMR, IMT Ghaziabad, GIM Goa, XIMB.",
-                badge: "75-95+ %ile",
-                link: "/top-tier-mba-colleges?tab=xat",
-                stats: "Avg CTC: Up to ₹32.7 LPA",
-                tagColor: "bg-purple-50 text-purple-700 border-purple-200"
-              }
-            ].map((category, idx) => (
-              <Link 
-                key={idx} 
-                href={category.link}
-                prefetch={false}
-                className="group relative flex flex-col justify-between rounded-2xl border border-slate-200 bg-white p-6 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 cursor-pointer shadow-sm hover:border-blue-300"
-              >
-                <div>
-                  <span className={`inline-block px-2.5 py-1 text-xs font-bold uppercase tracking-wider rounded-lg mb-4 border ${category.tagColor}`}>
-                    {category.badge}
-                  </span>
-                  <h3 className="font-display text-xl font-bold text-slate-900 leading-tight group-hover:text-blue-600 transition-colors mb-2">
-                    {category.name}
-                  </h3>
-                  <p className="text-xs font-normal text-slate-600 leading-relaxed line-clamp-3">
-                    {category.description}
-                  </p>
-                </div>
-                <div className="mt-6 pt-4 border-t border-slate-100 flex flex-col gap-2">
-                  <span className="text-[11px] font-bold text-slate-700">
-                    {category.stats}
-                  </span>
-                  <div className="flex items-center text-xs font-bold uppercase text-blue-600 tracking-wider group-hover:text-blue-800 transition-colors">
-                    Compare Cutoffs <ArrowRight className="ml-1.5 h-3.5 w-3.5 group-hover:translate-x-1 transition-transform" />
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES SHOWCASE ── */}
+      {/* ── 8. UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES SHOWCASE ── */}
       <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-16 sm:py-24 sm:px-12 relative overflow-hidden border-b border-blue-900/50 content-auto">
         <div className="absolute top-0 right-1/4 w-96 h-96 bg-blue-500/10 blur-[130px] pointer-events-none rounded-full" />
         <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-indigo-500/10 blur-[130px] pointer-events-none rounded-full" />
@@ -561,7 +489,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── VERIFIED STUDENT SUCCESS & WALL OF FAME ── */}
+      {/* ── 9. VERIFIED STUDENT SUCCESS & WALL OF FAME ── */}
       <section className="bg-white py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-slate-200 pb-8 gap-4">
@@ -628,7 +556,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── RESOURCE DOWNLOAD & PREVIOUS YEAR PAPERS HUB ── */}
+      {/* ── 10. RESOURCE DOWNLOAD & PREVIOUS YEAR PAPERS HUB ── */}
       <section className="bg-slate-50 py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-slate-200 pb-8 gap-4">
@@ -722,10 +650,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── STUDENT COMMUNITY - WHATSAPP & TELEGRAM ── */}
+      {/* ── 11. STUDENT COMMUNITY - WHATSAPP & TELEGRAM ── */}
       <StudentCommunitySection />
 
-      {/* ── REAL-TIME ADMISSION NEWS UPDATES ── */}
+      {/* ── 12. REAL-TIME ADMISSION NEWS UPDATES ── */}
       <section id="news" className="bg-white px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
@@ -779,7 +707,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── ARTICLES & ANALYSIS SECTION ── */}
+      {/* ── 13. ARTICLES & ANALYSIS SECTION ── */}
       <section id="articles" className="bg-slate-50 px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
@@ -823,7 +751,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── AI KNOWLEDGE & FAQ SECTION ── */}
+      {/* ── 14. AI KNOWLEDGE & FAQ SECTION ── */}
       <section id="ai-fast-facts" className="bg-white px-6 py-16 sm:py-24 sm:px-12 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 border-b border-slate-200 pb-8">
@@ -835,7 +763,7 @@ export default function Home() {
               Frequently Asked Questions
             </h2>
             <p className="mt-3 text-base sm:text-lg font-normal text-slate-600 max-w-3xl speakable-summary">
-              Verified answers on MBA &amp; PGDM admissions 2027, free CAT/XAT/NMAT mock tests, MBA form discounts, and 1-on-1 counseling with Mohit Jain.
+              Verified answers on MBA &amp; PGDM admissions 2027, free CAT/XAT/NMAT mock tests, MBA form discounts, student inquiry forms, and 1-on-1 counseling with Mohit Jain.
             </p>
           </div>
 
