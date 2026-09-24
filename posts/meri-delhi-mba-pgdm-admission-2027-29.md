@@ -86,7 +86,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to GGSIPU (for MBA) · NAAC Grade A.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹9.80 LPA**) with a highest package of **₹20.00 LPA**. Strong local corporate internship ties leading to 20% PPO conversions.
 
-**Management Education & Research Institute (MERI) (MERI Janakpuri)**, located in **Janakpuri, West Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) (MERI Janakpuri)**, located in **Janakpuri, West Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **New Delhi**, this detailed guide provides verified facts regarding **MERI Janakpuri's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

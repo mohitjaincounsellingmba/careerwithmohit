@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to Savitribai Phule Pune University (for MBA) · Govt. of Maharashtra.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.84 LPA** (Top 25% at **₹11.00 LPA**) with a highest package of **₹35.00 LPA**. 30% of the batch converts PPOs through 500+ hours of Employability Development Program (EDP).
 
-**Ramachandran International Institute of Management (RIIM Pune) (RIIM Pune)**, located in **Bavdhan, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune)) (RIIM Pune)**, located in **Bavdhan, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **RIIM Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

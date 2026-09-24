@@ -84,7 +84,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Vignana Jyothi Institute
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Vignana Jyothi Institute of Management (VJIM Hyderabad)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Vignana Jyothi Institute of Management (VJIM Hyderabad)](/colleges/vjim-hyderabad)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / MAT / XAT / CMAT / ATMA). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
@@ -105,7 +105,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Vignana Jyothi Institute of Management (VJIM Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.20 LPA**

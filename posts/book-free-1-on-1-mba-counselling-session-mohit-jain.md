@@ -192,7 +192,7 @@ Scheduling your video consultation takes less than 60 seconds:
 ## About Your Mentor: Mohit Jain
 
 **Mohit Jain** is the founder and Chief MBA Admissions Strategist at *CareerWithMohit*. 
-- **Credentials:** Executive education and strategic certifications from **IIM Bangalore** and **FMS Delhi**.
+- **Credentials:** Executive education and strategic certifications from **[IIM Bangalore](/colleges/iim-bangalore)** and **[FMS Delhi](/colleges/fms-delhi)**.
 - **Track Record:** Directly mentored over 10,000+ students across Delhi NCR, Mumbai, Pune, Bangalore, Kolkata, and tier-2 cities.
 - **Philosophy:** Unbiased, data-backed mentorship with zero commercial tie-ups that compromise student interest.
 

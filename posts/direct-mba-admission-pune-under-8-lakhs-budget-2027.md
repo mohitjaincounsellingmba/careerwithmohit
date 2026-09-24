@@ -236,7 +236,7 @@ To maximize your chances of securing a seat in top budget-friendly Pune b-school
 
 ## Summary & Next Steps
 
-Getting a high-ROI MBA in Pune under an **₹8 Lakhs budget** is entirely achievable in 2027. Colleges like **PUMBA** offer unmatched affordability for top entrance scorers, while private PGDM and MBA colleges like **RIIM Pune, PIBM, Lexicon MILE, Akemi, and ASM IBMR** provide excellent corporate exposure, certifications, and strong placement networks for candidates seeking direct admission.
+Getting a high-ROI MBA in Pune under an **₹8 Lakhs budget** is entirely achievable in 2027. Colleges like **PUMBA** offer unmatched affordability for top entrance scorers, while private PGDM and MBA colleges like **[RIIM Pune](/colleges/riim-pune), PIBM, Lexicon MILE, Akemi, and [ASM IBMR](/colleges/asm-ibmr)** provide excellent corporate exposure, certifications, and strong placement networks for candidates seeking direct admission.
 
 ---
 

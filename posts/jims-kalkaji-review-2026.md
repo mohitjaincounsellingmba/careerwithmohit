@@ -82,7 +82,7 @@ In this exhaustive **JIMS Kalkaji review 2027–2029**, we provide verified deta
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution Name** | **Jagannath International Management School (JIMS), Kalkaji** |
+| **Institution Name** | **[Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS), Kalkaji** |
 | **Establishment Year** | 1997 (28+ Years of Academic Excellence) |
 | **Campus Location** | MOR Pocket 105, Kalkaji, New Delhi - 110019 (Near Nehru Place) |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence, SAQS Accredited |

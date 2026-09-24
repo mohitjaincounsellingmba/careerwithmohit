@@ -141,8 +141,8 @@ The CAT exam pattern has consolidated into a 2-hour test consisting of 66 questi
 
 | Target Percentile | Estimated Raw Score (Out of 198) | Net Correct Questions Needed | Approximate Accuracy Recommended | Target Tier / Colleges |
 | :--- | :--- | :--- | :--- | :--- |
-| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | IIM Ahmedabad, IIM Bangalore, IIM Calcutta, [FMS Delhi](/colleges/fms-delhi) |
-| **99.0+ %ile** | **76 – 82 Marks** | 26 – 28 Net Correct | 85%+ Accuracy | IIM Lucknow, IIM Kozhikode, IIM Indore, SPJIMR |
+| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [FMS Delhi](/colleges/fms-delhi) |
+| **99.0+ %ile** | **76 – 82 Marks** | 26 – 28 Net Correct | 85%+ Accuracy | [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, [IIM Indore](/colleges/iim-indore), SPJIMR |
 | **95.0+ %ile** | **55 – 62 Marks** | 19 – 22 Net Correct | 85%+ Accuracy | [MDI Gurgaon](/colleges/mdi-gurgaon), New IIMs (Udaipur, Trichy, Raipur, Ranchi) |
 | **90.0+ %ile** | **42 – 48 Marks** | 15 – 17 Net Correct | 80%+ Accuracy | Baby IIMs, IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi), GIM Goa |
 | **85.0+ %ile** | **34 – 39 Marks** | 12 – 14 Net Correct | 80%+ Accuracy | TAPMI, Great Lakes Chennai, BIMTECH, Lal Bahadur Shastri (LBSIM) |
@@ -155,12 +155,12 @@ When competing against 3 lakh aspirants, having a clear view of your target inst
 
 | College Name | Total Fees (2-Year) | Avg Placement Package | ROI & Admission Eligibility / Expected Cutoff |
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi (University of Delhi)** | ₹2.40 Lakhs | ₹34.10 LPA | Highest ROI in Asia · CAT 99.2+ %ile · Selection based heavily on VARC |
+| **[FMS Delhi](/colleges/fms-delhi) (University of Delhi)** | ₹2.40 Lakhs | ₹34.10 LPA | Highest ROI in Asia · CAT 99.2+ %ile · Selection based heavily on VARC |
 | **IIM Ahmedabad (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
 | **IIM Bangalore (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
 | **IIM Calcutta (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai) (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
-| **MDI Gurgaon (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon) (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
 | **[IIT Bombay](/colleges/iit-bombay) (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |
 | **IIT Delhi (DMS)** | ₹12.00 Lakhs | ₹25.82 LPA | Exceptional Corporate ROI · CAT 98.0+ %ile · Open to multiple streams |
 

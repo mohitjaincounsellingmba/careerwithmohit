@@ -93,7 +93,7 @@ In this official program breakdown—sourced directly from [ndimdelhi.org](https
 
 | Parameter | Official Details ([ndimdelhi.org](https://www.ndimdelhi.org/)) |
 | :--- | :--- |
-| **Institute Name** | New Delhi Institute of Management (NDIM) |
+| **Institute Name** | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) |
 | **Campus Location** | 60 & 50 (M&B), Tughlakabad Institutional Area, New Delhi |
 | **Legacy & Governance** | Established 1992; Board led by former Union Secretaries & Corporate Leaders |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |

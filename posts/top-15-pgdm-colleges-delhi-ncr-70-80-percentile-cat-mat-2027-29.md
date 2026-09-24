@@ -223,7 +223,7 @@ Situated strategically in the heart of Gurgaon's corporate belt on Golf Course R
 
 ---
 
-### 6. [IMS Ghaziabad (Institute of Management Studies)](/colleges/its-ghaziabad)
+### 6. [IMS Ghaziabad ([Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/its-ghaziabad)
 With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad)** holds a coveted **NAAC A++ Grade** and NBA accreditation, functioning from an expansive green campus in Lal Quan.
 
 *   **Total Program Fee (2 Years):** ₹9.50 Lakhs
@@ -386,7 +386,7 @@ PGDM colleges in the 70-80 percentile category offer average placement packages 
 Yes, PGDM programs offered by AICTE-approved institutions that hold AIU (Association of Indian Universities) equivalence are legally recognized as equivalent to an MBA degree for government recruitment, public sector undertakings (PSUs), higher education, and PhD/FPM admissions.
 
 ### Can I get direct admission in top PGDM colleges in Delhi NCR with a MAT score?
-Yes, institutions like NDIM, Jaipuria Noida, FIIB, FOSTIIMA, and JIMS actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85 percentile in MAT is treated on par with a 70-75 percentile in CAT for GD-PI shortlisting.
+Yes, institutions like NDIM, [Jaipuria Noida](/colleges/jaipuria-noida), FIIB, FOSTIIMA, and JIMS actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85 percentile in MAT is treated on par with a 70-75 percentile in CAT for GD-PI shortlisting.
 
 ### What is the total fee range for top 70-80 percentile PGDM B-schools in Delhi NCR?
 The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium tier like Jaipuria Noida and NDIM New Delhi).

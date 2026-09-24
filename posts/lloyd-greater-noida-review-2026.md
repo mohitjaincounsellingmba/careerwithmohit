@@ -108,7 +108,7 @@ The placement record at **[Lloyd Business School](/colleges/lloyd-business-schoo
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Lloyd Business School** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

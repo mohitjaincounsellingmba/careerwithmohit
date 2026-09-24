@@ -103,7 +103,7 @@ The placement record at **[SIBM Bangalore](/colleges/sibm-bangalore)** highlight
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **SIBM Bangalore** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[SIBM Bangalore](/colleges/sibm-bangalore)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **SNAP**.

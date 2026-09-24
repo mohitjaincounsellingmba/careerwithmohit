@@ -66,20 +66,20 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 | Percentile Bracket | Top Recommended B-Schools | Location | Total Fees (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- | :--- |
 | **70 – 80 %ile** | **BIMTECH** | Greater Noida | ₹14.00 Lakhs | ₹11.25 LPA |
-| **70 – 80 %ile** | **XIME Bangalore** | Bangalore | ₹12.00 Lakhs | ₹10.75 LPA |
+| **70 – 80 %ile** | **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore | ₹12.00 Lakhs | ₹10.75 LPA |
 | **70 – 80 %ile** | **JagSoM (IFIM)** | Bangalore | ₹15.90 Lakhs | ₹13.30 LPA |
 | **70 – 80 %ile** | **N L Dalmia** | Mumbai | ₹14.75 Lakhs | ₹10.50 LPA |
 | **60 – 70 %ile** | **FOSTIIMA Business School** | New Delhi | ₹11.50 Lakhs | ₹11.15 LPA |
 | **60 – 70 %ile** | **NDIM New Delhi** | New Delhi | ₹11.50 Lakhs | ₹9.50 LPA |
 | **60 – 70 %ile** | **FIIB New Delhi** | New Delhi | ₹12.85 Lakhs | ₹8.50 LPA |
-| **60 – 70 %ile** | **PIBM Pune** | Pune | ₹10.25 Lakhs | ₹7.80 LPA |
+| **60 – 70 %ile** | **[PIBM Pune](/colleges/pibm-pune)** | Pune | ₹10.25 Lakhs | ₹7.80 LPA |
 | **60 – 70 %ile** | **Lexicon MILE Pune** | Pune | ₹10.50 Lakhs | ₹8.20 LPA |
 | **60 – 70 %ile** | **[ISBR Business School](/colleges/isbr-bangalore)** | Bangalore | ₹10.50 Lakhs | ₹8.50 LPA |
-| **50 – 60 %ile** | **RIIM Pune** | Pune | ₹6.90L - ₹8.90L | ₹7.15 LPA |
+| **50 – 60 %ile** | **[RIIM Pune](/colleges/riim-pune)** | Pune | ₹6.90L - ₹8.90L | ₹7.15 LPA |
 | **50 – 60 %ile** | **GNIOT (GIMS)** | Greater Noida | ₹6.78 Lakhs | ₹7.25 LPA |
 | **50 – 60 %ile** | **GL Bajaj Inst. of Mgmt** | Greater Noida | ₹6.90 Lakhs | ₹7.35 LPA |
 | **50 – 60 %ile** | **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA |
-| **50 – 60 %ile** | **Jaipuria Jaipur** | Jaipur | ₹12.75 Lakhs | ₹11.29 LPA |
+| **50 – 60 %ile** | **[Jaipuria Jaipur](/colleges/jaipuria-jaipur)** | Jaipur | ₹12.75 Lakhs | ₹11.29 LPA |
 
 ---
 

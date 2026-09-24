@@ -139,7 +139,7 @@ Securing admission to Jain (Deemed-to-be University), Bangalore for the 2026 int
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Jain University](/colleges/jain-university) Bangalore**:
 
-### 👍 Why Choose Jain University Bangalore? (Pros)
+### 👍 Why Choose [Jain University](/colleges/jain-university) Bangalore? (Pros)
 - **NAAC** A++ Grade accreditation with an exceptionally high score of 3.71 out of 4
 - **Premier** incubation cell supporting over 50+ student-led startups and entrepreneurial ventures
 - **Strong** placement track record across CMS Business School and engineering campuses

@@ -61,7 +61,7 @@ The table below summarizes the vital institutional benchmarks for **[GIBS Busine
 
 | Parameter | Institutional Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Global Institute of Business Studies (GIBS Business School)** |
+| **Institution Name** | **Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore))** |
 | **Campus Location** | Bannerghatta Road, Begur Hobli, Bengaluru, Karnataka (PIN: 560076) |
 | **Established Year** | 2014 |
 | **Statutory Approvals** | AICTE Approved (Ministry of Education, Govt. of India) · UGC Recognised |

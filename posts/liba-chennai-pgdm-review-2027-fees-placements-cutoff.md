@@ -47,7 +47,7 @@ When management aspirants shortlist premier non-IIM and top-tier private busines
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
-In this comprehensive, data-verified **Loyola Institute of Business Administration (LIBA) review for 2027 admissions**, we dissect the **latest audited placement report, revised 2027–2029 fee structure, entrance exam cutoffs, curriculum highlights, pros & cons, and peer comparisons**.
+In this comprehensive, data-verified **[Loyola Institute of Business Administration (LIBA)](/colleges/liba-chennai) review for 2027 admissions**, we dissect the **latest audited placement report, revised 2027–2029 fee structure, entrance exam cutoffs, curriculum highlights, pros & cons, and peer comparisons**.
 
 ---
 

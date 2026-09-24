@@ -72,7 +72,7 @@ Here is a consolidated overview of **[Faculty of Management Sciences, Shoolini U
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **Faculty of Management Sciences, Shoolini University** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Faculty of Management Sciences, Shoolini University](/colleges/shoolini-university-solan)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved · Pearson Assured · UK University Collaborations.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.00 LPA** (Top 25% at **₹11.00 LPA**) with a highest package of **₹19.00 LPA**. 24% of students secure PPOs in Hinjawadi IT & consulting firms.
 
-**International School of Management Studies (ISMS Pune) (ISMS Pune)**, located in **Hinjawadi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) (ISMS Pune)**, located in **Hinjawadi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **ISMS Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

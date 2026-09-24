@@ -89,7 +89,7 @@ The table below outlines key institutional metrics and admission facts for **NDI
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **New Delhi Institute of Management (NDIM)** |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** |
 | **Established Year** | 1992 (Over 3 decades of management legacy) |
 | **Batch Intake** | **32nd Batch (2027–2029 Intake)** |
 | **Campus Location** | Tughlakabad Institutional Area, South Delhi, Delhi 110062 |

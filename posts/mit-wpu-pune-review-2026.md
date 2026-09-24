@@ -127,7 +127,7 @@ Life at **MIT-WPU Pune** extends far beyond traditional classrooms. The campus i
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to MIT World Peace University (MIT-WPU) for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**MIT-WPU CET, JEE Main, MHT CET, CAT, XAT, MAT, PERA CET**) or appear for the university's entrance test.

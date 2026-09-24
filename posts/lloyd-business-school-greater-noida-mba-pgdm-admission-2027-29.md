@@ -87,7 +87,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to AKTU (for MBA) · IBM Collaboration.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.00 LPA** (Top 25% at **₹8.50 LPA**) with a highest package of **₹18.00 LPA**. 22% PPO conversion through IBM lab training and Safexpress supply chain attachments.
 
-**Lloyd Business School (Lloyd Greater Noida)**, located in **Knowledge Park II, Greater Noida**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) (Lloyd Greater Noida)**, located in **Knowledge Park II, Greater Noida**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Greater Noida**, this detailed guide provides verified facts regarding **Lloyd Greater Noida's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

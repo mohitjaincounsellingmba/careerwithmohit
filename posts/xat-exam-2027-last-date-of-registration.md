@@ -50,7 +50,7 @@ state: India
 
 ---
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by **XLRI Jamshedpur** on behalf of the Xavier Association of Management Institutes (XAMI), is one of the most intellectually rigorous and respected national management entrance tests in India. 
+The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** on behalf of the Xavier Association of Management Institutes (XAMI), is one of the most intellectually rigorous and respected national management entrance tests in India. 
 
 Securing a competitive percentile in XAT opens doors to premier institutions including **XLRI Jamshedpur, XLRI Delhi-NCR, XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes**.
 
@@ -154,7 +154,7 @@ Follow these five steps to complete your registration without errors:
 | **IMT Ghaziabad** | ₹21.50 Lakhs | ₹17.07 LPA | XAT / CAT 90+ %ile · Renowned Marketing Powerhouse |
 | **GIM Goa (Goa Institute of Management)** | ₹19.50 Lakhs | ₹15.00 LPA | XAT 85-88+ %ile · High Corporate ROI in BDA & Healthcare |
 | **TAPMI Manipal** | ₹17.50 Lakhs | ₹14.80 LPA | XAT 85+ %ile · Triple Crown AACSB / AMBA Accreditation |
-| **FORE School of Management, Delhi** | ₹17.90 Lakhs | ₹15.20 LPA | XAT 85+ %ile · Prime Central Delhi Placement Network |
+| **[FORE School of Management](/colleges/fore-school-delhi), Delhi** | ₹17.90 Lakhs | ₹15.20 LPA | XAT 85+ %ile · Prime Central Delhi Placement Network |
 | **BIMTECH Greater Noida** | ₹14.00 Lakhs | ₹11.25 LPA | XAT 75-80+ %ile · Specialized Insurance & Retail Programs |
 
 ---

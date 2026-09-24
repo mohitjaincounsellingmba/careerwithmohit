@@ -75,16 +75,16 @@ The table below compiles the top-ranked management institutions in India based o
 
 | NIRF Rank | Institute Name | Location | Flagship Program | Accepted Entrance Exams |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | **IIM Ahmedabad** | Ahmedabad, Gujarat | PGP / MBA | CAT |
-| **2** | **IIM Bangalore** | Bengaluru, Karnataka | PGP / MBA | CAT, GMAT |
+| **1** | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Ahmedabad, Gujarat | PGP / MBA | CAT |
+| **2** | **[IIM Bangalore](/colleges/iim-bangalore)** | Bengaluru, Karnataka | PGP / MBA | CAT, GMAT |
 | **3** | **IIM Kozhikode** | Kozhikode, Kerala | PGP / MBA | CAT |
 | **4** | **IIT Delhi (DMS)** | New Delhi, Delhi | MBA / MBA Telecom | CAT |
-| **5** | **IIM Lucknow** | Lucknow, Uttar Pradesh | PGP / PGP-ABM | CAT |
+| **5** | **[IIM Lucknow](/colleges/iim-lucknow)** | Lucknow, Uttar Pradesh | PGP / PGP-ABM | CAT |
 | **6** | **IIM Mumbai** *(formerly NITIE)* | Mumbai, Maharashtra | MBA / MBA-OSCM | CAT |
-| **7** | **IIM Calcutta** | Kolkata, West Bengal | MBA | CAT |
+| **7** | **[IIM Calcutta](/colleges/iim-calcutta)** | Kolkata, West Bengal | MBA | CAT |
 | **8** | **[IIM Indore](/colleges/iim-indore)** | Indore, Madhya Pradesh | PGP / EPGP | CAT |
 | **9** | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | Jamshedpur, Jharkhand | PGDM (BM / HRM) | XAT, GMAT |
-| **10** | **IIT Bombay (SJMSOM)** | Mumbai, Maharashtra | MBA | CAT |
+| **10** | **[IIT Bombay](/colleges/iit-bombay) (SJMSOM)** | Mumbai, Maharashtra | MBA | CAT |
 | **11** | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurugram, Haryana | PGDM / PGDM-IB | CAT, GMAT |
 | **12** | **IIT Kharagpur (VGSoM)** | Kharagpur, West Bengal | MBA | CAT |
 | **13** | **IIT Madras (DoMS)** | Chennai, Tamil Nadu | MBA | CAT |
@@ -108,7 +108,7 @@ The table below compiles the top-ranked management institutions in India based o
 | **31** | **IMI New Delhi** | New Delhi, Delhi | PGDM | CAT, XAT, GMAT |
 | **32** | **TAPMI Manipal** | Manipal, Karnataka | MBA / MBA-BKFS | CAT, XAT, GMAT, NMAT |
 | **33** | **BIMTECH Greater Noida** | Greater Noida, UP | PGDM | CAT, XAT, CMAT, MAT |
-| **34** | **FMS Delhi (Univ. of Delhi)** | New Delhi, Delhi | MBA | CAT |
+| **34** | **[FMS Delhi](/colleges/fms-delhi) (Univ. of Delhi)** | New Delhi, Delhi | MBA | CAT |
 | **35** | **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi, Delhi | PGDM | CAT, XAT, GMAT |
 | **36** | **Goa Institute of Management (GIM)** | Sanquelim, Goa | PGDM / PGDM-BDA | CAT, XAT, GMAT, CMAT |
 | **37** | **LPU Jalandhar** | Phagwara, Punjab | MBA | LPUNEST, CAT, MAT |
@@ -141,13 +141,13 @@ Evaluating an MBA program solely on ranking can be misleading without factoring 
 | **IIT Delhi (DMS)** | ₹12.00 – ₹13.50 Lakhs | **₹25.82 LPA** | High ROI; CAT 98%+ (Engineering / Science stream) |
 | **IIM Lucknow** | ₹20.50 – ₹22.00 Lakhs | **₹30.00 LPA** | Consulting & FMCG Powerhouse; CAT 98.8%+ |
 | **IIM Mumbai** *(NITIE)* | ₹15.00 – ₹16.50 Lakhs | **₹29.70 LPA** | Supply Chain & Operations Capital; CAT 98%+ |
-| **XLRI Jamshedpur** | ₹26.00 – ₹28.00 Lakhs | **₹29.89 LPA** | #1 HR & General Management; XAT 96%+ / GMAT |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | ₹26.00 – ₹28.00 Lakhs | **₹29.89 LPA** | #1 HR & General Management; XAT 96%+ / GMAT |
 | **IIT Bombay (SJMSOM)** | ₹14.00 – ₹15.50 Lakhs | **₹28.88 LPA** | Exceptional ROI & Tech Placement; CAT 98.5%+ |
-| **SPJIMR Mumbai** | ₹22.50 – ₹24.00 Lakhs | **₹33.00 LPA** | Top Tier Placements & Autumn Internships; CAT/XAT 85%+ Profile |
-| **MDI Gurgaon** | ₹24.00 – ₹25.50 Lakhs | **₹25.50 LPA** | Top NCR Corporate Network; CAT 95%+ |
-| **SIBM Pune** | ₹24.00 – ₹26.00 Lakhs | **₹28.16 LPA** | Premier Symbiosis Campus; SNAP 98.5%+ |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 – ₹24.00 Lakhs | **₹33.00 LPA** | Top Tier Placements & Autumn Internships; CAT/XAT 85%+ Profile |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹24.00 – ₹25.50 Lakhs | **₹25.50 LPA** | Top NCR Corporate Network; CAT 95%+ |
+| **[SIBM Pune](/colleges/sibm-pune)** | ₹24.00 – ₹26.00 Lakhs | **₹28.16 LPA** | Premier Symbiosis Campus; SNAP 98.5%+ |
 | **IIT Kharagpur (VGSoM)** | ₹11.50 – ₹12.50 Lakhs | **₹22.13 LPA** | High ROI Technical Management; CAT 95%+ |
-| **IIM Udaipur** | ₹20.00 – ₹21.50 Lakhs | **₹20.30 LPA** | Fast-growing 2nd Gen IIM; CAT 93%+ (CAP Process) |
+| **[IIM Udaipur](/colleges/iim-udaipur)** | ₹20.00 – ₹21.50 Lakhs | **₹20.30 LPA** | Fast-growing 2nd Gen IIM; CAT 93%+ (CAP Process) |
 | **MICA Ahmedabad** | ₹26.00 – ₹28.00 Lakhs | **₹20.46 LPA** | "Mecca of Marketing"; CAT/XAT + MICAT Exam |
 
 ---
@@ -164,13 +164,13 @@ The **Indian Institutes of Management (IIMs)** continue their dominance over the
          ┌─────────────────────────┼─────────────────────────┐
          ▼                         ▼                         ▼
   Generation 1 (BLACKI)     Generation 2 (New IIMs)   Generation 3 (Baby IIMs)
-  • IIM Ahmedabad (#1)      • IIM Udaipur (#18)       • IIM Nagpur (#40)
-  • IIM Bangalore (#2)      • IIM Raipur (#15)        • IIM Visakhapatnam (#39)
-  • IIM Kozhikode (#3)      • IIM Rohtak (#16)        • IIM Amritsar (#43)
-  • IIM Lucknow (#5)        • IIM Ranchi (#23)        • IIM Bodh Gaya (#41)
-  • IIM Calcutta (#7)       • IIM Trichy (#21)        • IIM Sambalpur (#42)
-  • IIM Indore (#8)         • IIM Kashipur (#20)      • IIM Jammu (#44)
-  • IIM Mumbai (#6)                                   • IIM Sirmaur (#45)
+  • IIM Ahmedabad (#1)      • IIM Udaipur (#18)       • [IIM Nagpur](/colleges/iim-nagpur) (#40)
+  • IIM Bangalore (#2)      • [IIM Raipur](/colleges/iim-raipur) (#15)        • IIM Visakhapatnam (#39)
+  • IIM Kozhikode (#3)      • [IIM Rohtak](/colleges/iim-rohtak) (#16)        • [IIM Amritsar](/colleges/iim-amritsar) (#43)
+  • IIM Lucknow (#5)        • [IIM Ranchi](/colleges/iim-ranchi) (#23)        • [IIM Bodh Gaya](/colleges/iim-bodh-gaya) (#41)
+  • IIM Calcutta (#7)       • IIM Trichy (#21)        • [IIM Sambalpur](/colleges/iim-sambalpur) (#42)
+  • [IIM Indore](/colleges/iim-indore) (#8)         • [IIM Kashipur](/colleges/iim-kashipur) (#20)      • [IIM Jammu](/colleges/iim-jammu) (#44)
+  • IIM Mumbai (#6)                                   • [IIM Sirmaur](/colleges/iim-sirmaur) (#45)
 ```
 
 To dive deeper into the latest cutoffs, batch profiles, and comprehensive placement statistics across all 21 IIMs, check out our in-depth guide on [All IIM Colleges: Placements, Fees & Selection Criteria](/posts/all-about-iim-colleges-placements-fees-selection-2026).
@@ -242,7 +242,7 @@ Securing admission into the top 50 NIRF management institutes requires planning 
 * **Preparation Guide**: Explore our complete [CAT Exam Strategy & Syllabus Guide](/posts/all-about-cat-exam).
 
 ### 2. XAT (Xavier Aptitude Test)
-* **Target Institutes**: XLRI Jamshedpur, XLRI Delhi-NCR, XIMB Bhubaneswar, IMT Ghaziabad, TAPMI, GIM Goa, FORE School of Management.
+* **Target Institutes**: XLRI Jamshedpur, XLRI Delhi-NCR, XIMB Bhubaneswar, IMT Ghaziabad, TAPMI, GIM Goa, [FORE School of Management](/colleges/fore-school-delhi).
 * **Expected Cutoffs**: 93% to 96%+ for XLRI; 85% to 90% for XIMB, IMT, and GIM.
 * **Preparation Guide**: Check our detailed [XAT Exam Comprehensive Overview](/posts/all-about-xat-exam).
 
@@ -251,7 +251,7 @@ Securing admission into the top 50 NIRF management institutes requires planning 
 * **Expected Cutoffs**: 98.5%+ for SIBM Pune; 97%+ for SCMHRD.
 
 ### 4. NMAT by GMAC
-* **Target Institutes**: NMIMS Mumbai, TAPMI, K J Somaiya, SDA Bocconi Asia Center, XIM University.
+* **Target Institutes**: [NMIMS Mumbai](/colleges/nmims-mumbai), TAPMI, K J Somaiya, SDA Bocconi Asia Center, XIM University.
 * **Expected Score Cutoffs**: 232–248+ for NMIMS Mumbai Core MBA.
 
 ---

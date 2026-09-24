@@ -62,7 +62,7 @@ state: Karnataka
 | **[IIM Bangalore](/colleges/iim-bangalore)** | ₹24.50 Lakhs | ₹35.31 LPA | CAT 2026 (99+ %ile) / Tier-1 Global Rank |
 | **JagSoM (IFIM) Bangalore** | ₹15.90 Lakhs | ₹13.30 LPA | CAT 2026 / XAT / NMAT Exam / GMAT (70+ %ile) |
 | **TAPMI Bangalore Campus** | ₹16.50 Lakhs | ₹12.80 LPA | CAT 2026 / XAT / NMAT Exam / GMAT |
-| **XIME Bangalore (Electronics City)** | ₹12.00 Lakhs | ₹10.75 LPA | CAT 2026 / XAT / MAT / CMAT (70+ %ile) |
+| **[XIME Bangalore](/colleges/xime-bangalore) (Electronics City)** | ₹12.00 Lakhs | ₹10.75 LPA | CAT 2026 / XAT / MAT / CMAT (70+ %ile) |
 | **[ISBR Business School](/colleges/isbr-bangalore) (ECity)** | ₹10.50 Lakhs | ₹8.50 LPA | CAT 2026 / MAT / CMAT / KMAT / NMAT (60+ %ile) |
 | **[GIBS Business School](/colleges/gibs-bangalore) (Bannerghatta)** | ₹8.90 Lakhs | ₹7.40 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
 | **[Indus Business Academy (IBA)](/colleges/iba-bangalore)** | ₹9.78 Lakhs | ₹7.80 LPA | CAT 2026 / MAT / CMAT / ATMA (60+ %ile) |
@@ -82,8 +82,8 @@ state: Karnataka
 * **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/posts/all-about-xime-bangalore).
 
 ### 3. [ISBR Business School](/colleges/isbr-business-school) & GIBS Bangalore
-* **ISBR Business School:** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/posts/all-about-isbr-bangalore).
-* **GIBS Business School:** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/posts/all-about-gibs-bangalore).
+* **[ISBR Business School](/colleges/isbr-bangalore):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/posts/all-about-isbr-bangalore).
+* **[GIBS Business School](/colleges/gibs-bangalore):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/posts/all-about-gibs-bangalore).
 
 ### 4. [Indus Business Academy](/colleges/indus-business-academy) (IBA) & ISME
 * **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/posts/all-about-indus-business-academy).
@@ -93,7 +93,7 @@ state: Karnataka
 
 ## Cutoff Benchmark Guide for Bangalore PGDM 2027
 
-- **80+ Percentile in CAT 2026 / XAT / NMAT (220+):** JagSoM, TAPMI Bengaluru, XIME.
+- **80+ Percentile in CAT 2026 / XAT / NMAT (220+):** JagSoM, [TAPMI Bengaluru](/colleges/tapmi-bangalore), XIME.
 - **60–75 Percentile in CAT 2026 / MAT (600+ Score):** ISBR, IBA, GIBS, ISME, Alliance.
 - **Direct Profile Evaluation Seats:** Available across ISBR, GIBS, and ISME for candidates with strong academic backgrounds (60%+ in 10th/12th/Graduation).
 

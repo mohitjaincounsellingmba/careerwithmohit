@@ -38,7 +38,7 @@ Both institutions leverage Mumbai's unparalleled financial ecosystem, drawing hu
 
 ## 1. Quick Head-to-Head Comparison
 
-| Feature | K J Somaiya Institute of Management | Welingkar Mumbai (WeSchool) |
+| Feature | [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) | Welingkar Mumbai (WeSchool) |
 | :--- | :--- | :--- |
 | **Location** | Vidyavihar (East), Mumbai (60-Acre Campus) | Matunga (Central), Mumbai (City Campus) |
 | **Degree Awarded** | Master of Business Administration (MBA) | PGDM (AICTE) & MMS (Mumbai University) |

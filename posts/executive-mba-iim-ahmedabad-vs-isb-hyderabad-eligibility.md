@@ -29,7 +29,7 @@ Both programs consistently rank in the **Global Top 40 of the Financial Times (F
 
 However, significant differences exist regarding **eligibility thresholds, work experience profiles, program costs, and recruitment ecosystems**.
 
-[InquiryCard title="Evaluating IIM Ahmedabad PGPX or ISB PGP?" description="Get your resume reviewed, GMAT score evaluated, and essay strategy crafted by expert counselor Mohit Jain." cta="Book Executive MBA Counselling" type="counselling"]
+[InquiryCard title="Evaluating [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX or ISB PGP?" description="Get your resume reviewed, GMAT score evaluated, and essay strategy crafted by expert counselor Mohit Jain." cta="Book Executive MBA Counselling" type="counselling"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Experience Threshold**: IIMA PGPX mandates **minimum 4 years of work experience** (batch avg ~7.5 years), whereas ISB PGP requires **minimum 2 years of work experience** (batch avg ~4.5 years).

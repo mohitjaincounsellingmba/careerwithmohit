@@ -94,7 +94,7 @@ In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college'
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution Name** | **Fortune Institute of International Business (FIIB)** |
+| **Institution Name** | **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)** |
 | **Establishment Year** | 1995 (30+ Years of Academic Excellence) |
 | **Campus Location** | Plot 5, Rao Tula Ram Marg, Vasant Vihar, New Delhi - 110057 |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |

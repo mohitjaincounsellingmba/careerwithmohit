@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹11.80 LPA** (Top 25% at **₹15.50 LPA**) with a highest package of **₹28.60 LPA**. 100% placement track with 35% PPO conversion in SAP consulting and analytics firms.
 
-**Taxila Business School (TBS) (Taxila Jaipur)**, located in **Mansarovar, Jaipur, Rajasthan**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Taxila Business School](/colleges/taxila-jaipur) (TBS) (Taxila Jaipur)**, located in **Mansarovar, Jaipur, Rajasthan**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **Jaipur**, this detailed guide provides verified facts regarding **Taxila Jaipur's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

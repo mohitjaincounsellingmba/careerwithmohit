@@ -61,10 +61,10 @@ To secure admission into premier B-Schools for the 2027–2029 batch, track thes
 | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | ₹28.60 Lakhs | ₹29.80 LPA | XAT (95.0+ %ile) | Premier Private B-School |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹24.00 Lakhs | ₹33.00 LPA | CAT / XAT (85%+ Profile based) | AACSB Accredited |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹26.00 Lakhs | ₹25.50 LPA | CAT (95.0+ %ile) | AMBA & SAQS Accredited |
-| **NMIMS Mumbai (SBM)** | ₹25.00 Lakhs | ₹26.63 LPA | NMAT (232+ Score) | AACSB Accredited |
-| **SIBM Pune** | ₹24.50 Lakhs | ₹28.16 LPA | SNAP (98.0+ %ile) | Flagship Symbiosis Campus |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | ₹25.00 Lakhs | ₹26.63 LPA | NMAT (232+ Score) | AACSB Accredited |
+| **[SIBM Pune](/colleges/sibm-pune)** | ₹24.50 Lakhs | ₹28.16 LPA | SNAP (98.0+ %ile) | Flagship Symbiosis Campus |
 | **NDIM New Delhi** | ₹11.50L – ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) | AICTE Approved · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) | Founded by IIM Ahmedabad Alumni |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) | Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) | AACSB Member · NBA Accredited |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L – ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) | NBA & AIU Equivalent |
 | **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/MAT/CMAT/ATMA/MAH-CET | AICTE & NBA Accredited |

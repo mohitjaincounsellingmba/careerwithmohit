@@ -57,7 +57,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **International Institute of Business Studies (IIBS)** (IIBS Bangalore) |
+| **Institution Name** | **[International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)** (IIBS Bangalore) |
 | **Campus Location** | Airport Road, Bangalore, Karnataka |
 | **Program Offered** | **PGDM (AICTE Approved) & MBA (Bangalore University)** |
 | **Degree / Diploma Type** | **MBA / PGDM** |
@@ -75,7 +75,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-International Institute of Business Studies (IIBS) offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS) offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved · Affiliated to Bangalore University · Govt. of Karnataka.

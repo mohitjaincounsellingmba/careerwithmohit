@@ -82,7 +82,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.00 LPA** (Top 25% at **₹9.50 LPA**) with a highest package of **₹15.00 LPA**. 22% PPO conversion through active corporate mentoring and internships.
 
-**Jaipuria School of Business (JSB) (Jaipuria Ghaziabad)**, located in **Indirapuram, Ghaziabad**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB) (Jaipuria Ghaziabad)**, located in **Indirapuram, Ghaziabad**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **Ghaziabad**, this detailed guide provides verified facts regarding **Jaipuria Ghaziabad's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

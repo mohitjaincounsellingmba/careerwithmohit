@@ -98,7 +98,7 @@ Symbiosis International (Deemed University) ([SIBM Pune](/colleges/sibm-pune), S
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Symbiosis International (Deemed University) (SIBM Pune, SCMHRD, SIIB) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Symbiosis International (Deemed University) ([SIBM Pune](/colleges/sibm-pune), SCMHRD, SIIB) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

@@ -88,7 +88,7 @@ In this guide, we review the top UGC-DEB approved online universities located ac
 
 ## Detailed Review of Top Online Degree Providers in Delhi NCR
 
-### 1. Amity University Online (Noida, UP)
+### 1. [Amity University](/colleges/amity-noida) Online (Noida, UP)
 * **Accreditation**: NAAC A+ | UGC-DEB | AICTE | WES Approved
 * **Programs**: Online MBA, BBA, MCA, BCA, B.Com, MA (English, Psychology, Journalism)
 * **Total Tuition Fee**: ₹1,99,000 (PG) / ₹1,50,000 (UG)

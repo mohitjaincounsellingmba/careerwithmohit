@@ -72,7 +72,7 @@ Here is a consolidated overview of **[Woxsen School of Business, Woxsen Universi
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **Woxsen School of Business, Woxsen University** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Woxsen School of Business, Woxsen University](/colleges/woxsen-school-of-business)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

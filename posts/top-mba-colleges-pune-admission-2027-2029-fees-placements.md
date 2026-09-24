@@ -46,7 +46,7 @@ faqs:
 Yes, all AICTE-approved autonomous PGDM institutes in Pune accept national scores like MAT, CMAT, ATMA, CAT, and XAT, and conduct institutional interview rounds.
 
 ### Which Pune B-School offers the highest ROI for a budget below ₹10 Lakhs?
-PIBM Pune, RIIM Pune, and Lexicon MILE offer the strongest ROI in the ₹6.5L – ₹9.5L fee bracket with consistent 100% placement track records in top MNCs.
+[PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), and Lexicon MILE offer the strongest ROI in the ₹6.5L – ₹9.5L fee bracket with consistent 100% placement track records in top MNCs.
 
 ---
 

@@ -175,7 +175,7 @@ Follow this battle-tested 5-paragraph template:
 
 #### Paragraph 4: Why MBA & Why This Specific College?
 * Connect your goal gap: What skills are missing that only an MBA can provide?
-* **College Specifics:** Mention specific professors, research centers, student clubs, or curriculum electives unique to that institute (e.g., *"IIM Bangalore's NSRCEL incubator aligns directly with my entrepreneurial vision."*).
+* **College Specifics:** Mention specific professors, research centers, student clubs, or curriculum electives unique to that institute (e.g., *"[IIM Bangalore](/colleges/iim-bangalore)'s NSRCEL incubator aligns directly with my entrepreneurial vision."*).
 
 #### Paragraph 5: Conclusion & Value Addition
 * Summarize what unique perspective, industry knowledge, or cultural background you bring to the peer cohort.

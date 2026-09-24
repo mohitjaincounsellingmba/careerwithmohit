@@ -115,7 +115,7 @@ The placement record at **Maharaja Agrasen [Institute of Management Studies](/co
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Maharaja Agrasen Institute of Management Studies (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

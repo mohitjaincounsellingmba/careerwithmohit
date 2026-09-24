@@ -75,7 +75,7 @@ Below is the verified timeline for NMAT by GMAC 2026 admissions cycle:
 | **NMAT 2026 Last Date of Registration** | **October 10 – October 13, 2026** | Portal closes for main attempt registration |
 | **Exam Delivery Window (Test Period)** | October 10 – December 18, 2026 | Test conducted over ~75 days across India |
 | **Retake Registration Window** | Mid-October – Mid-December 2026 | Can register only after completing previous attempt |
-| **NMIMS Mumbai Separate Application Last Date** | Second Week of October 2026 | Must apply prior to or alongside NMAT form |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) Separate Application Last Date** | Second Week of October 2026 | Must apply prior to or alongside NMAT form |
 | **Scorecard Download Window** | Within 48–72 hours after exam | Scaled scorecard available for download |
 
 ---

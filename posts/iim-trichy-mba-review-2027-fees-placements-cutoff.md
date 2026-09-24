@@ -72,7 +72,7 @@ Here is a consolidated overview of **[IIM Tiruchirappalli (IIM Trichy)](/college
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **IIM Tiruchirappalli (IIM Trichy)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[IIM Tiruchirappalli (IIM Trichy)](/colleges/iim-trichy)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

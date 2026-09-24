@@ -173,7 +173,7 @@ After the registration closes, the convening IIM opens a limited **3-day correct
 1. **Waiting for the Last Day:** Over 80,000 students attempt to submit applications in the final 48 hours, causing payment gateways to freeze.
 2. **Uploading State-Format Caste Certificates:** IIMs strictly demand **Central List** formats for NC-OBC and EWS certificates.
 3. **Incorrect CGPA Conversion:** Never use a default 9.5 multiplier unless your university's official transcript explicitly specifies it.
-4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like FMS Delhi, SPJIMR, MDI Gurgaon, and IITs require separate forms.
+4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IITs require separate forms.
 
 ---
 

@@ -126,7 +126,7 @@ Life at **LM Thapar School of Management (TIET)** extends far beyond traditional
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**CAT, XAT, NMAT, MAT, CMAT, GMAT, GRE, Thapar Entrance**) or appear for the university's entrance test.

@@ -63,7 +63,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (NMAT Exam / CAT 2026 / XAT 2027) |
 | :--- | :--- | :--- | :--- |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT 2026 / GMAT (85+ %ile with profile) |
-| **NMIMS Mumbai (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT Exam (232+ Score) / Tier-1 Brand |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT Exam (232+ Score) / Tier-1 Brand |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET / CAT 2026 (99.9+ %ile) / Exceptional ROI |
 | **Welingkar (WeSchool) Mumbai** | ₹14.00 Lakhs | ₹12.50 LPA | CAT 2026 / XAT 2027 / CMAT / ATMA (75-80 %ile) |
 | **K J Somaiya Inst. of Mgmt (SIMSR)** | ₹20.87 Lakhs | ₹12.32 LPA | CAT 2026 / XAT 2027 / NMAT / CMAT (80+ %ile) |

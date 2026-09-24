@@ -69,7 +69,7 @@ The **Indian Institute of Management (IIM) Indore** is the official convening an
 
 Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore)). 
 
-Following the established rotation cycle—where [IIM Calcutta](/colleges/iim-calcutta) convened CAT 2024 and IIM Kozhikode convened CAT 2025—**IIM Indore** takes charge of the examination for the 2026–27 admission cycle.
+Following the established rotation cycle—where [IIM Calcutta](/colleges/iim-calcutta) convened CAT 2024 and IIM Kozhikode convened CAT 2025—**[IIM Indore](/colleges/iim-indore)** takes charge of the examination for the 2026–27 admission cycle.
 
 ### Key Highlights of CAT 2026 Convening Body
 * **Conducting Institute:** Indian Institute of Management (IIM) Indore
@@ -89,7 +89,7 @@ Understanding which IIM convened the exam in previous years helps aspirants trac
 | **2026** | **IIM Indore** | **November 29, 2026** | **Upcoming exam; focus on balanced QA and analytical VARC** |
 | **2025** | IIM Kozhikode | November 30, 2025 | Standard 66-question format across three slots |
 | **2024** | [IIM Calcutta](/colleges/iim-calcutta) | November 24, 2024 | Moderate-to-high difficulty Quantitative Aptitude |
-| **2023** | IIM Lucknow | November 26, 2023 | High analytical rigor in DILR and QA sections |
+| **2023** | [IIM Lucknow](/colleges/iim-lucknow) | November 26, 2023 | High analytical rigor in DILR and QA sections |
 | **2022** | [IIM Bangalore](/colleges/iim-bangalore) | November 27, 2022 | Conceptual focus; RC passages from philosophy & sociology |
 | **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | November 28, 2021 | Balanced structure; 66 questions (reduced from 76) |
 | **2020** | IIM Indore | November 29, 2020 | Transitioned to 2-hour duration due to COVID-19 protocols |

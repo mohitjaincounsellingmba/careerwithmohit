@@ -79,7 +79,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Atlas SkillTech University, Mumbai offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Atlas SkillTech University](/colleges/atlas-skilltech-mumbai), Mumbai offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

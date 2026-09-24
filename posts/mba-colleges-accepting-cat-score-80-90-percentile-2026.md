@@ -168,7 +168,7 @@ Top choices include [FORE School of Management](/colleges/fore-school-delhi) (Ne
 Colleges in this tier typically offer average placement packages ranging between INR 12.50 LPA and INR 16.50 LPA, with top 25% students securing INR 18 to 24 LPA.
 
 ### Can I get an IIM call with an 85 percentile in CAT?
-General category non-engineers with exceptional academic records or candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive interview calls from Baby IIMs (like IIM Bodh Gaya, Jammu, Sirmaur) via CAP.
+General category non-engineers with exceptional academic records or candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive interview calls from Baby IIMs (like [IIM Bodh Gaya](/colleges/iim-bodh-gaya), Jammu, Sirmaur) via CAP.
 
 ### Do these 80-90 percentile colleges accept other entrance exams?
 Yes, institutes like GIM, Great Lakes, FORE, LBSIM, and TAPMI also accept XAT, CMAT, and GMAT scores.

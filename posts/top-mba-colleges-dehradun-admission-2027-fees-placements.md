@@ -50,10 +50,10 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / MAT) |
 | :--- | :--- | :--- | :--- |
-| **Doon Business School (DBS Dehradun)** | ₹7.50 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT 2026 / XAT (High ROI) |
+| **[Doon Business School](/colleges/doon-business-school) (DBS Dehradun)** | ₹7.50 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT 2026 / XAT (High ROI) |
 | **UPES School of Business, Dehradun** | ₹16.50 Lakhs | ₹9.20 LPA | UPESMET / CAT 2026 / XAT / MAT / CMAT |
 | **Graphic Era University (GEU Dehradun)** | ₹7.17 Lakhs | ₹6.50 LPA | CAT 2026 / MAT / CMAT / Merit Admission |
-| **Uttaranchal University, Dehradun** | ₹4.80 Lakhs | ₹5.20 LPA | Direct Merit / MAT / CMAT / CAT 2026 |
+| **[Uttaranchal University](/colleges/uttaranchal-university), Dehradun** | ₹4.80 Lakhs | ₹5.20 LPA | Direct Merit / MAT / CMAT / CAT 2026 |
 | **[Quantum University](/colleges/quantum-university-roorkee), Roorkee** | ₹3.80 Lakhs | ₹4.80 LPA | Direct Admission / Q-Care / MAT |
 
 ---

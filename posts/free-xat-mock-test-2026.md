@@ -58,6 +58,8 @@ To help you measure your standing, we offer a high-fidelity **[Free XAT 2026 Moc
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is unique about the XAT exam?

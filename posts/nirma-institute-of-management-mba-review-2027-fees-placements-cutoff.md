@@ -43,7 +43,7 @@ state: Gujarat
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When evaluating premier business schools and universities for management education in India, **[Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management)** consistently stands out as a high-value institution in **Ahmedabad, Gujarat**. With established corporate credentials, a strong alumni base, and distinguished accreditation (Top 30 Private B-Schools India · SAQS Accredited), the institution attracts ambitious management aspirants from across the country.
+When evaluating premier business schools and universities for management education in India, **[Institute of Management, [Nirma University](/colleges/nirma-university) (IMNU)](/colleges/nirma-institute-of-management)** consistently stands out as a high-value institution in **Ahmedabad, Gujarat**. With established corporate credentials, a strong alumni base, and distinguished accreditation (Top 30 Private B-Schools India · SAQS Accredited), the institution attracts ambitious management aspirants from across the country.
 
 Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
 
@@ -72,7 +72,7 @@ Here is a consolidated overview of **[Institute of Management, Nirma University 
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **Institute of Management, Nirma University (IMNU)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

@@ -88,7 +88,7 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 ## Admission Process & CMAT Guidelines 2027-29
 
 1. **CMAT Examination**: Gujarat state admission counselling heavily utilizes CMAT scores.
-2. **Direct Application**: Apply directly to autonomous colleges (EDII, Shanti Business School) for early profile screening.
+2. **Direct Application**: Apply directly to autonomous colleges (EDII, [Shanti Business School](/colleges/shanti-business-school)) for early profile screening.
 3. **GD-PI Round**: Focuses on business acumen, entrepreneurial mindset, and communication clarity.
 
 ---

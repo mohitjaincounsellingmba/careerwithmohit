@@ -147,7 +147,7 @@ OP Jindal Global University, powered by upGrad, offers the **most affordable glo
 
 ### 4. [IIM Sirmaur](/colleges/iim-sirmaur) — Global MBA Online
 
-IIM Sirmaur is one of the newer IIMs under the Ministry of Education, Government of India. Its online Global MBA program carries the prestigious IIM brand — a game-changer for career advancement in India.
+[IIM Sirmaur](/colleges/iim-sirmaur) is one of the newer IIMs under the Ministry of Education, Government of India. Its online Global MBA program carries the prestigious IIM brand — a game-changer for career advancement in India.
 
 | Feature | Details |
 |---|---|

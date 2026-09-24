@@ -115,7 +115,7 @@ The placement record at **IRMA Anand ([Institute of Rural Management](/colleges/
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **IRMA Anand (Institute of Rural Management Anand)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management) Anand)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT**.

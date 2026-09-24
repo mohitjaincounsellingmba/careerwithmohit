@@ -70,7 +70,7 @@ Here is the comprehensive deep-dive into the **IIM BLACKI & IIM Mumbai Placement
 | **[IIM Calcutta](/colleges/iim-calcutta)** | ~460 | **₹34.23 LPA** | ₹31.20 LPA | **₹1.45 Cr (Intl)** | BFSI & Investment Banking (32%) |
 | **[IIM Lucknow](/colleges/iim-lucknow)** | ~500 | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management (35%) |
 | **IIM Mumbai** | ~480 | **₹31.00 LPA** *(Top 50%: ₹34.50 L)* | ₹29.50 LPA | ₹71.40 LPA | Supply Chain, Fin & Tech (34%) |
-| **IIM Indore** | ~580 | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing (30%) |
+| **[IIM Indore](/colleges/iim-indore)** | ~580 | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing (30%) |
 | **IIM Kozhikode** | ~520 | **₹28.18 LPA** | ₹26.50 LPA | ₹81.00 LPA | Consulting, BFSI & Retail (33%) |
 
 ---
@@ -107,7 +107,7 @@ graph LR
 *   **Highest Offer**: ₹71.40 LPA
 *   **Unrivaled Industry Connect**: As India's prime supply chain and operations nerve center, IIM Mumbai witnessed aggressive recruitment from Apple, Amazon, P&G, Unilever, ITC, Landmark Group, and Micron.
 
-### 5. IIM Lucknow (IIML)
+### 5. [IIM Lucknow](/colleges/iim-lucknow) (IIML)
 *   **Average Salary**: ₹32.30 LPA | **Top 25% Average**: ₹44.00 LPA
 *   **Key Trends**: Consulting roles captured 35% of total offers, followed closely by BFSI (25%) and General Management (18%).
 

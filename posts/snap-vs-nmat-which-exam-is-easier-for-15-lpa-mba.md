@@ -95,7 +95,7 @@ graph TD
 ## 4. Final Verdict for a 15+ LPA Target
 
 - If you want the **safest probability of securing 15+ LPA**, take **both exams**. Their syllabi overlap by more than 85%.
-- If you can only afford one, **NMAT provides a broader safety net**: clearing 235+ gets you NMIMS Mumbai (₹26.6 LPA), while clearing 220+ gets you TAPMI and K J Somaiya (₹13–15 LPA).
+- If you can only afford one, **NMAT provides a broader safety net**: clearing 235+ gets you [NMIMS Mumbai](/colleges/nmims-mumbai) (₹26.6 LPA), while clearing 220+ gets you TAPMI and K J Somaiya (₹13–15 LPA).
 - On the other hand, **SNAP is top-heavy**: if you miss the 97th percentile cutoff for SIBM/SCMHRD by just 2 marks, the next tier of Symbiosis institutes ([SIBM Bangalore](/colleges/sibm-bangalore), SITM) averages around ₹12–14 LPA.
 
 [MockTestCard title="Launch Free SNAP & NMAT Adaptive Mock Tests" link="/mock-tests" questions="Full Length" time="Timed Simulation"]

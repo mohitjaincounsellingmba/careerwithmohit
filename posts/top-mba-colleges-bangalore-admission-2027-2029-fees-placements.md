@@ -27,8 +27,8 @@ faqs:
 
 | College Name | Location | Total Fees (2027–29) | Avg Package (Latest) | Exams Accepted & Cutoffs |
 | :--- | :--- | :--- | :--- | :--- |
-| **IIM Bangalore** | Bannerghatta Road | ₹24.50 Lakhs | ₹33.50 LPA | CAT (99.0+ %ile) |
-| **SIBM Bangalore** | Electronic City | ₹19.50 Lakhs | ₹13.48 LPA | SNAP (88–90 %ile) |
+| **[IIM Bangalore](/colleges/iim-bangalore)** | Bannerghatta Road | ₹24.50 Lakhs | ₹33.50 LPA | CAT (99.0+ %ile) |
+| **[SIBM Bangalore](/colleges/sibm-bangalore)** | Electronic City | ₹19.50 Lakhs | ₹13.48 LPA | SNAP (88–90 %ile) |
 | **[XIME Bangalore](/colleges/xime-bangalore)** | Electronic City Phase 2 | ₹13.00 Lakhs | ₹10.30 LPA | XAT/CAT/CMAT/MAT (75+ %ile) |
 | **[ISBR Business School](/colleges/isbr-bangalore)** | Electronic City Phase 1 | ₹10.50 Lakhs | ₹8.20 LPA | CAT/MAT/XAT/CMAT/KMAT (60%+ %ile) |
 | **[Indus Business Academy (IBA)](/colleges/iba-bangalore)** | Kanakapura Main Road | ₹9.50 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA (65%+ %ile) |

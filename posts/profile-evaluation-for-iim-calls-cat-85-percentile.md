@@ -60,7 +60,7 @@ IIMs do not shortlist candidates purely based on raw CAT rank. Each institute cr
 - **Best Strategy**: Focus on premier non-IIMs such as [GIM Goa](/colleges/gim-goa), [FORE School of Management](/colleges/fore-school-delhi), [TAPMI Manipal](/colleges/tapmi), and [BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### Profile B: General Non-Engineer Female (GNEF - Commerce / Arts / Humanities)
-- **Chances of Baby IIMs**: High (40–60%) for [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sirmaur](/colleges/iim-sirmaur), and IIM Amritsar.
+- **Chances of Baby IIMs**: High (40–60%) for [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sirmaur](/colleges/iim-sirmaur), and [IIM Amritsar](/colleges/iim-amritsar).
 - **Why?**: Academic diversity (5 points) + Gender diversity (5 points) elevates the composite score significantly past the qualifying threshold.
 
 ### Profile C: NC-OBC & EWS Candidates
@@ -84,7 +84,7 @@ If you have scored or are targeting 85 percentile in CAT 2026, here is your targ
 | **[TAPMI Manipal](/colleges/tapmi)** | ₹18.5 Lakhs | ₹14.8 LPA | **Solid ROI**: AACSB accredited; strong finance and marketing placements |
 | **[LBSIM Delhi](/colleges/lbsim-delhi)** | ₹15.5 Lakhs | ₹12.8 LPA | **Very High ROI**: Premier finance focus; cutoff around 83–86%ile |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | ₹14.5 Lakhs | ₹11.5 LPA | **Good ROI**: Strong insurance, retail & PGDM flagship tracks |
-| **[IIM Bodh Gaya / IIM Jammu (CAP)](/colleges/iim-jammu)** | ₹17.5 Lakhs | ₹15.2 LPA | **IIM Brand ROI**: Reserved category & diverse profile calls at 80–85%ile |
+| **[IIM Bodh Gaya / [IIM Jammu](/colleges/iim-jammu) (CAP)](/colleges/iim-jammu)** | ₹17.5 Lakhs | ₹15.2 LPA | **IIM Brand ROI**: Reserved category & diverse profile calls at 80–85%ile |
 
 ---
 

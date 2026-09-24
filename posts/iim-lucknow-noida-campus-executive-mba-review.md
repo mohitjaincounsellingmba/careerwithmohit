@@ -108,7 +108,7 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 ### What is the difference between IPMX and WMP at [IIM Lucknow](/colleges/iim-lucknow) Noida campus?
 IPMX is a 1-year full-time residential program for candidates with 5+ years experience, offering on-campus placements. WMP is a 2-year weekend program for candidates with 3+ years experience who want to continue working.
 
-### Is GMAT compulsory for IPMX at IIM Lucknow?
+### Is GMAT compulsory for IPMX at [IIM Lucknow](/colleges/iim-lucknow)?
 Yes, a valid GMAT or GRE score is mandatory for securing admission to the IPMX program.
 
 ### Does IPMX include an international module?

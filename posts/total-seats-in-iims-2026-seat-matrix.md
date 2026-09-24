@@ -168,7 +168,7 @@ There are approximately 5,500 to 5,800 flagship PGP/MBA seats across all 21 IIMs
 All IIMs follow the Government of India reservation policy. Around 40.5% of the total seats are available under the General (Unreserved/Open) category, while 27% are reserved for NC-OBC, 15% for SC, 7.5% for ST, 10% for EWS, and 5% horizontal reservation for PwD candidates.
 
 ### Which IIM has the highest number of MBA seats?
-[IIM Indore](/colleges/iim-indore) and IIM Lucknow have among the highest total intakes. IIM Indore offers around 450-480 flagship PGP seats plus its Integrated Programme in Management (IPM), while IIM Lucknow offers around 500+ flagship seats along with Agri-Business and Sustainability Management programs.
+[IIM Indore](/colleges/iim-indore) and [IIM Lucknow](/colleges/iim-lucknow) have among the highest total intakes. [IIM Indore](/colleges/iim-indore) offers around 450-480 flagship PGP seats plus its Integrated Programme in Management (IPM), while IIM Lucknow offers around 500+ flagship seats along with Agri-Business and Sustainability Management programs.
 
 ### What is the difference between an MBA and a PGDM from an IIM?
 Following the IIM Act of 2017, Indian Institutes of Management now award Master of Business Administration (MBA) degrees instead of Post Graduate Diploma in Management (PGDM) for their flagship two-year programs.

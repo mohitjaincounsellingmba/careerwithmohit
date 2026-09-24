@@ -176,7 +176,7 @@ To help you assess comparative ROI, here is how S.P. Jain Institute of Managemen
 ### 1. How does SPJIMR profile-based shortlisting work?
 SPJIMR shortlists candidates in two phases: Phase 1 is Profile-Based (evaluating 10th, 12th, graduation marks, work experience achievements, and extra-curriculars with a qualifying minimum CAT score of 85 percentile). Phase 2 is Score-Based for candidates who score 96–98+ percentile in CAT.
 
-### 2. What is the fee structure for SPJIMR Mumbai PGDM 2027–2029?
+### 2. What is the fee structure for [SPJIMR Mumbai](/colleges/spjimr-mumbai) PGDM 2027–2029?
 The total program fee for the 2-year PGDM at SPJIMR is approximately ₹22.50 to ₹24.00 Lakhs, which includes tuition, hostel accommodation, academic material, and the Global Fast Track international immersion.
 
 ### 3. What is the average and highest placement package at SPJIMR Mumbai?

@@ -154,8 +154,8 @@ Yes, [Amity University](/colleges/amity-noida), Mumbai is a highly reputed insti
 ### 2. What is the annual fee structure at [Amity University, Mumbai](/colleges/amity-university-mumbai)?
 The annual tuition fee at [Amity University](/colleges/amity-noida), Mumbai generally ranges between ₹2.20 Lakhs - ₹5.00 Lakhs per annum, depending on the chosen program (MBA, B.Tech, BBA, BA LLB, Psychology, Mass Communication, Biotechnology) and applicable merit scholarships.
 
-### 3. How can I apply for admission to Amity University, Mumbai in 2026?
-Admissions for 2026 at Amity University, Mumbai are conducted based on entrance exams such as CUET, CAT, MAT, XAT, JEE Main, Amity JEE / Merit, followed by counseling, personal interviews, or merit-based shortlisting.
+### 3. How can I apply for admission to [Amity University, Mumbai](/colleges/amity-university-mumbai) in 2026?
+Admissions for 2026 at [Amity University](/colleges/amity-noida), Mumbai are conducted based on entrance exams such as CUET, CAT, MAT, XAT, JEE Main, Amity JEE / Merit, followed by counseling, personal interviews, or merit-based shortlisting.
 
 ---
 

@@ -58,7 +58,7 @@ state: Delhi NCR
 > - **Top Non-IIM NCR & Pune Hubs (65-85 %ile):** FORE School, BIMTECH Greater Noida, LBSIM, [PIBM Pune](/colleges/pibm-pune), and Lexicon MILE.
 > - **Admission Cycle 2027:** XAT 2027 exam is held on the first Sunday of January 2027 with application windows opening in August 2026.
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by XLRI Jamshedpur on behalf of XAMI, is India's most prestigious national management entrance exam after CAT. Over 160+ top-ranked autonomous business schools across **Delhi NCR, Greater Noida, Pune, Bangalore, and Mumbai** accept XAT scores for **PGDM admission 2027**.
+The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur) on behalf of XAMI, is India's most prestigious national management entrance exam after CAT. Over 160+ top-ranked autonomous business schools across **Delhi NCR, Greater Noida, Pune, Bangalore, and Mumbai** accept XAT scores for **PGDM admission 2027**.
 
 ---
 
@@ -75,7 +75,7 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by XLRI Jamshedpur on behalf 
 | **LBSIM Delhi** | New Delhi | 80+ Percentile | ₹15.50 Lakhs | ₹12.40 LPA |
 | **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore | 70+ Percentile | ₹12.00 Lakhs | ₹10.75 LPA |
 | **Lexicon MILE Pune** | Pune | 60+ Percentile | ₹10.50 Lakhs | ₹8.20 LPA |
-| **PIBM Pune** | Pune | 60+ Percentile | ₹10.25 Lakhs | ₹7.80 LPA |
+| **[PIBM Pune](/colleges/pibm-pune)** | Pune | 60+ Percentile | ₹10.25 Lakhs | ₹7.80 LPA |
 
 ---
 

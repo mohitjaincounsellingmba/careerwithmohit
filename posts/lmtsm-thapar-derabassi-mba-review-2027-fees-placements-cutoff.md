@@ -72,7 +72,7 @@ Here is a consolidated overview of **[LM Thapar School of Management (LMTSM)](/c
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **LM Thapar School of Management (LMTSM)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

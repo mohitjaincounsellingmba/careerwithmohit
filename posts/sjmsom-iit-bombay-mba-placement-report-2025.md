@@ -36,7 +36,7 @@ Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bomba
 
 ---
 
-## 1. SJMSOM IIT Bombay Placement 2025: Key Highlights
+## 1. SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement 2025: Key Highlights
 
 | Metric | Placement Statistics (2025 Batch) |
 | :--- | :--- |

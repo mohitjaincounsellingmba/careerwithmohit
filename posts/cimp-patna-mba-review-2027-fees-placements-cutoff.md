@@ -84,7 +84,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Chandragupt Institute of Management Patna (CIMP)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
@@ -105,7 +105,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Chandragupt Institute of Management Patna (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.80 LPA**

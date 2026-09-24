@@ -53,7 +53,7 @@ Whether you are targeting the high-prestige [IIM Lucknow](/colleges/iim-lucknow)
 
 | College | Type | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|
-| **IIM Lucknow (IPM/EF)** | Central | IPMAT Indore | ₹6.5 - 7.5 Lakhs | ₹22.0 - 30.0 LPA |
+| **[IIM Lucknow](/colleges/iim-lucknow) (IPM/EF)** | Central | IPMAT Indore | ₹6.5 - 7.5 Lakhs | ₹22.0 - 30.0 LPA |
 | **Lucknow Univ (LU)** | State Gov | LURAT/CUET | ₹0.4 - 0.7 Lakhs | ₹4.5 - 6.5 LPA |
 | **Amity Lucknow** | Private | Merit/Intv | ₹2.8 - 3.8 Lakhs | ₹4.0 - 6.0 LPA |
 | **BBD University** | Private | Merit | ₹0.8 - 1.2 Lakhs | ₹3.5 - 5.5 LPA |

@@ -126,7 +126,7 @@ XAT almost always features 1 or 2 poem passages followed by 2–3 questions test
 
 ---
 
-## XAT 2027 Expected Cutoffs for XLRI Jamshedpur & XLRI Delhi NCR
+## XAT 2027 Expected Cutoffs for [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi NCR
 
 XLRI offers two flagship programs: **PGDM Business Management (BM)** and **PGDM Human Resource Management (HRM)**. XLRI publishes differential cutoffs based on gender and academic background (Engineer vs. Non-Engineer).
 

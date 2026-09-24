@@ -57,7 +57,7 @@ The responsibility of organizing the CAT rotates every year among the top six "o
 2. [IIM Bangalore](/colleges/iim-bangalore)
 3. [IIM Calcutta](/colleges/iim-calcutta)
 4. [IIM Lucknow](/colleges/iim-lucknow)
-5. IIM Indore
+5. [IIM Indore](/colleges/iim-indore)
 6. IIM Kozhikode
 
 Each year, the selected IIM appoints a **CAT Convenor** who oversees the exam creation, registration process, test center management, and final result declaration. 
@@ -69,7 +69,7 @@ Here is a quick look at the historical timeline of CAT conducting bodies:
 | **2026** | **IIM Indore** | To be announced |
 | **2025** | IIM Kozhikode | Prof. Rajesh S. Upadhyayula |
 | **2024** | [IIM Calcutta](/colleges/iim-calcutta) | Prof. Sanjeet Singh |
-| **2023** | IIM Lucknow | Prof. Sanjeet Singh / Prof. Pradyumna Dash |
+| **2023** | [IIM Lucknow](/colleges/iim-lucknow) | Prof. Sanjeet Singh / Prof. Pradyumna Dash |
 | **2022** | [IIM Bangalore](/colleges/iim-bangalore) | Prof. Ashis Mishra |
 | **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | Prof. M.P. Ram Mohan |
 | **2020** | **IIM Indore** | Prof. Harshal Lowalekar |

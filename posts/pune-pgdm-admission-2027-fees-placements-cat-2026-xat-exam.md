@@ -61,7 +61,7 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2026, X
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / CMAT) |
 | :--- | :--- | :--- | :--- |
-| **SIBM Pune (Symbiosis)** | ₹24.20 Lakhs | ₹28.16 LPA | SNAP (98.5+ %ile) / Tier-1 Prestige |
+| **[SIBM Pune](/colleges/sibm-pune) (Symbiosis)** | ₹24.20 Lakhs | ₹28.16 LPA | SNAP (98.5+ %ile) / Tier-1 Prestige |
 | **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹23.70 Lakhs | ₹23.71 LPA | SNAP (97+ %ile) / HR & Infrastructure Specialization |
 | **[PIBM Pune](/colleges/pibm-pune) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | CAT 2026 / XAT / MAT / CMAT / PMAT |
 | **Lexicon MILE Pune (Lexicon Institute)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT 2026 / XAT / CMAT / MAT (60+ %ile) |
@@ -76,14 +76,14 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2026, X
 
 ## Detailed College Overviews & Placement Highlights
 
-### 1. PIBM Pune (Pune Institute of Business Management)
+### 1. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
 * **Location:** Pirangut, Pune.
 * **Why Choose PIBM:** Known for sector-specific training in Financial Modeling, Bloomberg Terminal training, SAP, and Digital Marketing. Top recruiters include Deloitte, KPMG, Amazon, Reliance, and BNY Mellon. Read [All About PIBM Pune](/posts/all-about-pibm-pune).
 
 ### 2. Lexicon MILE (Management Institute of Leadership & Excellence)
 * **Highlights:** 9-month industry internship models, global certifications, and extensive leadership boot camps. Learn more at [All About Lexicon MILE Pune](/posts/all-about-lexicon-management-institute-of-leadership-excellence).
 
-### 3. RIIM Pune (Ramachandran International Institute of Management)
+### 3. [RIIM Pune](/colleges/riim-pune) (Ramachandran International Institute of Management)
 * **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/posts/all-about-riim-pune).
 
 ### 4. DY Patil B-School & Indira Group (ISBS)

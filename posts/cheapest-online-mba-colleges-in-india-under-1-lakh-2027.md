@@ -93,12 +93,12 @@ Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-deg
 - **Why Choose It**: Andhra University is the undisputed leader in affordable management education. With total fees of just **₹62,200** spread over 4 semesters, it provides a high-credibility degree ideal for banking aspirants, state PSC applicants, and corporate executives seeking promotion credentials.
 - **Specializations**: Marketing, Human Resource Management, Financial Management.
 
-### 2. Galgotias University Online MBA (₹90,000 Total Fee)
+### 2. [Galgotias University](/colleges/galgotias-university) Online MBA (₹90,000 Total Fee)
 - **Status**: NAAC A+ Accredited Private University (Greater Noida, NCR)
 - **Why Choose It**: Located in the corporate corridor of Delhi NCR, Galgotias Online offers modern case studies, virtual live guest sessions with NCR corporate leaders, and flexible digital examination modules.
 - **Specializations**: Marketing, Finance, HR, Information Technology, International Business.
 
-### 3. Uttaranchal University Online MBA (₹98,000 Total Fee)
+### 3. [Uttaranchal University](/colleges/uttaranchal-university) Online MBA (₹98,000 Total Fee)
 - **Status**: NAAC A+ Accredited University (Dehradun)
 - **Why Choose It**: Known for its structured Learning Management System (LMS), mobile app access, and interactive doubt-clearing sessions, Uttaranchal University delivers top-tier private university infrastructure under the ₹1 Lakh threshold.
 

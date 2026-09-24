@@ -115,7 +115,7 @@ The placement record at **[ISME Bangalore](/colleges/isme-bangalore) (School of 
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **ISME Bangalore (School of Management Excellence)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[ISME Bangalore](/colleges/isme-bangalore) (School of Management Excellence)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

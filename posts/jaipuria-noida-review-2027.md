@@ -120,7 +120,7 @@ For the **2027–2029 session**, [Jaipuria Institute of Management](/colleges/ja
 *   **Integrated Certifications:** Global certification modules in Design Thinking, Advanced Financial Analytics, and Digital Performance Marketing.
 
 ### Hostel & Residential Living Charges (Sector 62, Noida)
-Jaipuria Noida offers comfortable, modern on-campus and partnered hostel accommodations:
+[Jaipuria Noida](/colleges/jaipuria-noida) offers comfortable, modern on-campus and partnered hostel accommodations:
 *   **AC Hostel Rooms (Twin-Sharing):** Approximately ₹1,25,000 – ₹1,55,000 per annum (inclusive of vegetarian/non-vegetarian meals, laundry, high-speed Wi-Fi, and gym access).
 *   **Sector 62 Advantage:** Sector 62 is a major educational and IT hub with several student PGs and residential complexes charging ₹9,000 to ₹14,000 per month.
 

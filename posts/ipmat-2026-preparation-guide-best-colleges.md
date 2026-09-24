@@ -49,8 +49,8 @@ Cracking **IPMAT 2026** requires a different mindset compared to board exams. It
 
 | Institute | Entrance Exam | Key Focus |
 | :--- | :--- | :--- |
-| **IIM Indore** | IPMAT Indore | Academic Rigor & Logic |
-| **IIM Rohtak** | IPMAT Rohtak | Speed & General Awareness |
+| **[IIM Indore](/colleges/iim-indore)** | IPMAT Indore | Academic Rigor & Logic |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | IPMAT Rohtak | Speed & General Awareness |
 | **[IIM Ranchi](/colleges/iim-ranchi)** | IPMAT Indore Score | Holistic Management |
 | **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | JIPMAT | Data Interpretation |
 | **[IIM Jammu](/colleges/iim-jammu)** | JIPMAT | Quant & Verbal |

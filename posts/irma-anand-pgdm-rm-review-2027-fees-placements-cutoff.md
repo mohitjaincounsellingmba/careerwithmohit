@@ -53,11 +53,11 @@ In this comprehensive, data-verified **[Institute of Rural Management](/colleges
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Update)
 
-Here is a consolidated institutional fact-sheet for Institute of Rural Management Anand (IRMA):
+Here is a consolidated institutional fact-sheet for [Institute of Rural Management Anand (IRMA)](/colleges/irma-anand):
 
 | Parameter | Official Verified Details |
 | :--- | :--- |
-| **Institution Name** | **Institute of Rural Management Anand (IRMA)** |
+| **Institution Name** | **[Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA)** |
 | **Campus Location** | Anand, Gujarat |
 | **Flagship Program** | Post Graduate Diploma in Management - Rural Management (PGDM-RM) |
 | **Degree Awarded** | AICTE Approved PGDM (AIU MBA Equivalence) |

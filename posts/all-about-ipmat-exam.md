@@ -71,13 +71,13 @@ There are three main entrance exams under the IPM umbrella:
 
 | Exam Feature | IPMAT Indore 2026 | IPMAT Rohtak 2026 |
 | :--- | :--- | :--- |
-| **Conducting Body** | IIM Indore | IIM Rohtak |
+| **Conducting Body** | [IIM Indore](/colleges/iim-indore) | [IIM Rohtak](/colleges/iim-rohtak) |
 | **Exam Mode** | Online Computer-Based Test (CBT) | Online Computer-Based Test (CBT) |
 | **Exam Duration** | 120 Minutes (2 Hours) | 120 Minutes (2 Hours) |
 | **Total Questions** | 90 Questions | 120 Questions |
 | **Total Marks** | 360 Marks | 480 Marks |
 | **Marking Scheme** | +4 for correct, -1 for incorrect MCQs (0 negative for SA) | +4 for correct, -1 for incorrect |
-| **Accepting Colleges** | IIM Indore, IIM Ranchi, IIFT, NALSAR, TAPMI, Nirma | IIM Rohtak |
+| **Accepting Colleges** | IIM Indore, [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, TAPMI, Nirma | IIM Rohtak |
 
 ---
 

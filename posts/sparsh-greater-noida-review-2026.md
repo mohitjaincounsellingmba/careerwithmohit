@@ -114,7 +114,7 @@ The placement record at **[Sparsh Global Business School (SGBS)](/colleges/spars
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Sparsh Global Business School (SGBS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

@@ -86,7 +86,7 @@ state: Pan India
 > - **Accreditation & Approvals**: UGC Approved State Private University · Backed by The Times Group.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹11.00 LPA**) with a highest package of **₹1.20 CPA (Peak / International)**. 24% PPO conversion through Times Group media and corporate network linkages.
 
-**Bennett University (Bennett Greater Noida)**, located in **Greater Noida Tech Corridor, UP**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Bennett University](/colleges/bennett-greater-noida) (Bennett Greater Noida)**, located in **Greater Noida Tech Corridor, UP**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA programs or comparing top business schools in **Greater Noida**, this detailed guide provides verified facts regarding **Bennett Greater Noida's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

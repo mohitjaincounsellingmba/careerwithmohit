@@ -118,7 +118,7 @@ The placement record at **ISB&M Gurgaon ([International School of Business & Med
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **ISB&M Gurgaon (International School of Business & Media)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

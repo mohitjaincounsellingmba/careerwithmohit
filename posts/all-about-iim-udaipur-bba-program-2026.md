@@ -46,7 +46,7 @@ Historically, elite management education in India has been restricted to student
 
 ---
 
-## 🏛️ Key Highlights of IIM Udaipur BBA Program
+## 🏛️ Key Highlights of [IIM Udaipur](/colleges/iim-udaipur) BBA Program
 
 | Feature | Details |
 | :--- | :--- |

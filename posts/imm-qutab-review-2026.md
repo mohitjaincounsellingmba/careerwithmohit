@@ -114,7 +114,7 @@ The placement record at **[Institute of Marketing & Management (IMM)](/colleges/
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Institute of Marketing & Management (IMM)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[Institute of Marketing & Management (IMM)](/colleges/imm-delhi)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

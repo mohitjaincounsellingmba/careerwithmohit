@@ -117,7 +117,7 @@ The placement record at **[GNIOT (Greater Noida Institute of Technology)](/colle
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **GNIOT (Greater Noida Institute of Technology)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[GNIOT (Greater Noida Institute of Technology)](/colleges/gniot-greater-noida)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.

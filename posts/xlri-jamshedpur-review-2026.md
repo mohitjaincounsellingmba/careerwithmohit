@@ -105,7 +105,7 @@ The placement record at **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** highlig
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **XLRI Jamshedpur** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **XAT**.

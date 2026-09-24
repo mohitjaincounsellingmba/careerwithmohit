@@ -150,7 +150,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best MBA college in Delhi NCR accepting CAT score?
-FMS Delhi (Faculty of Management Studies) and MDI Gurgaon are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, [IIFT Delhi](/colleges/iift-delhi), IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), and LBSIM Delhi.
+[FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies) and [MDI Gurgaon](/colleges/mdi-gurgaon) are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, [IIFT Delhi](/colleges/iift-delhi), IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), and LBSIM Delhi.
 
 ### What is the CAT cutoff for FMS Delhi and MDI Gurgaon?
 FMS Delhi typically requires a 99.3+ percentile in CAT for General category. MDI Gurgaon shortlists candidates in the 94-96+ percentile range.

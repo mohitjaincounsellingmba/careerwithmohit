@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, SAP ERP Collaboration.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.50 LPA**) with a highest package of **₹30.00 LPA**. 28% PPO conversion through direct SAP ERP systems integration and IT consulting tie-ups.
 
-**IIEBM (Indus Business School) (IIEBM Pune)**, located in **Wakad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[IIEBM (Indus Business School)](/colleges/iiebm-pune) (IIEBM Pune)**, located in **Wakad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **IIEBM Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

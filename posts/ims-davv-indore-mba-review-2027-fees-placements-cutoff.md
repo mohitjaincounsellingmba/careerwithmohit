@@ -84,7 +84,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Institute of Management 
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Institute of Management Studies, DAVV (IMS DAVV)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Institute of Management Studies, DAVV (IMS DAVV)](/colleges/ims-davv-indore)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CUET-PG / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
@@ -105,7 +105,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Institute of Management Studies, DAVV (IMS DAVV)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Institute of Management Studies](/colleges/institute-of-management-studies), DAVV (IMS DAVV)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹6.50 LPA**

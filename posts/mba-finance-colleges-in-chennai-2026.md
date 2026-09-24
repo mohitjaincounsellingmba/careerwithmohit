@@ -87,7 +87,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹16.60 LPA**
 - **Key Highlight:** Combines technical analytical capabilities with advanced management frameworks.
 
-### 4. Loyola Institute of Business Administration (LIBA)
+### 4. [Loyola Institute of Business Administration (LIBA)](/colleges/liba-chennai)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT
 - **Average Placement Package:** **₹11.20 LPA**

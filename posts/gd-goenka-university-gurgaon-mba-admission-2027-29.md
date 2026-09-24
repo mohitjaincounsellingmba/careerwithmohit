@@ -82,7 +82,7 @@ state: Pan India
 > - **Accreditation & Approvals**: UGC Approved State Private University · AIU Member · ACU Member.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.50 LPA** (Top 25% at **₹9.00 LPA**) with a highest package of **₹17.50 LPA**. 18% PPO rate through dedicated corporate resource center linkages.
 
-**GD Goenka University (School of Management) (GD Goenka Gurgaon)**, located in **Sohna Road, Gurugram NCR**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[GD Goenka University](/colleges/gd-goenka-university) (School of Management) (GD Goenka Gurgaon)**, located in **Sohna Road, Gurugram NCR**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA programs or comparing top business schools in **Gurgaon**, this detailed guide provides verified facts regarding **GD Goenka Gurgaon's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

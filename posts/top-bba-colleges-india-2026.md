@@ -69,7 +69,7 @@ Whether you are targeting the prestigious IIMs or the high-industry-connect priv
 ## 🏛️ The Three Pillars of BBA in 2026
 
 ### 1. The IIM-IPM Path (The Gold Standard)
-Programs like IIM Indore and IIM Rohtak offer a 5-year Integrated Programme in Management (IPM) where you get an MBA directly from an IIM after your 12th.
+Programs like [IIM Indore](/colleges/iim-indore) and [IIM Rohtak](/colleges/iim-rohtak) offer a 5-year Integrated Programme in Management (IPM) where you get an MBA directly from an IIM after your 12th.
 - **Top Choice:** For students with high mathematical and logical aptitude.
 - **Outcome:** Placement parity with top-tier MBA students.
 

@@ -34,7 +34,7 @@ state: Delhi NCR
 
 [IIM Indore](/colleges/iim-indore) was the first IIM to launch the Integrated Programme in Management (IPM), a unique 5-year course that blends undergraduate and postgraduate management education. In 2026, it remains the "Gold Standard" for students aiming to join the Indian Institute of Management straight after Class 12.
 
-## 🏛️ Why Choose IIM Indore IPM in 2026?
+## 🏛️ Why Choose [IIM Indore](/colleges/iim-indore) IPM in 2026?
 The IPM program is designed for high-potential students who want to build a strong foundation in social sciences and management.
 - **IIM Brand:** Direct entry into a top-tier IIM without the uncertainty of the CAT exam.
 - **Holistic Development:** The first 3 years cover diverse subjects like Philosophy, Psychology, and Mathematics.

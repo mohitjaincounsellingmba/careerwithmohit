@@ -81,7 +81,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Chitkara University, Rajpura / Punjab offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Chitkara University](/colleges/chitkara-university), Rajpura / Punjab offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

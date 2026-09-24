@@ -87,7 +87,7 @@ Founded by the Times of India Group, [Bennett University](/colleges/bennett-grea
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Bennett University, Greater Noida offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[Bennett University](/colleges/bennett-greater-noida), Greater Noida offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

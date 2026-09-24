@@ -99,7 +99,7 @@ If you are planning to target top-tier PGDM institutions in Delhi NCR with stron
 
 | Admission Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institute Name** | **New Delhi Institute of Management (NDIM)** |
+| **Institute Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** |
 | **Admission Intake** | **32nd Batch (2027–2029 Academic Session)** |
 | **Application Status** | **Applications OPEN (Early Admissions Round)** |
 | **Flagship Program** | **2-Year Full-Time PGDM (Dual Specialization)** |

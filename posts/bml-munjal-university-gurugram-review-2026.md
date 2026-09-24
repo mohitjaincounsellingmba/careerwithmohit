@@ -79,7 +79,7 @@ Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bm
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-BML Munjal University, Gurugram offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurugram offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

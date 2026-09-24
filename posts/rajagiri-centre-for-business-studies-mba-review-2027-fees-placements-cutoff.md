@@ -72,7 +72,7 @@ Here is a consolidated overview of **[Rajagiri Centre for Business Studies (RCBS
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **Rajagiri Centre for Business Studies (RCBS Kochi)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

@@ -126,7 +126,7 @@ Life at **Graphic Era University Dehradun** extends far beyond traditional class
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Graphic Era (Deemed to be University), Dehradun for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun), Dehradun for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**JEE Main, CAT, MAT, XAT, CUET, Merit-based**) or appear for the university's entrance test.

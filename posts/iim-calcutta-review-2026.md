@@ -104,7 +104,7 @@ The placement record at **[IIM Calcutta](/colleges/iim-calcutta)** highlights co
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **IIM Calcutta** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[IIM Calcutta](/colleges/iim-calcutta)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT**.

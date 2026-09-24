@@ -140,7 +140,7 @@ Securing admission to UPES (University of Petroleum and Energy Studies), Dehradu
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[UPES Dehradun](/colleges/upes-dehradun)**:
 
-### 👍 Why Choose UPES Dehradun? (Pros)
+### 👍 Why Choose [UPES Dehradun](/colleges/upes-dehradun)? (Pros)
 - **Unrivaled** domain specializations in Energy, Oil & Gas, Supply Chain Logistics, and Aviation Management
 - **Breathtaking** Himalayan campus environment in Bidholi and Kandoli, Dehradun
 - **Stellar** corporate tie-ups with IBM, Xebia, and Microsoft for co-branded engineering courses

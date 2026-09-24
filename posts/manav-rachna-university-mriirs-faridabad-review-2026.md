@@ -134,7 +134,7 @@ Life at **Manav Rachna University (MRIIRS)** extends far beyond traditional clas
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad for the 2026 intake follows a structured and merit-oriented process:
+Securing admission to [Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad) (MRIIRS), Faridabad for the 2026 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**MRNAT, JEE Main, CUET, CAT, MAT, XAT, SAT**) or appear for the university's entrance test.

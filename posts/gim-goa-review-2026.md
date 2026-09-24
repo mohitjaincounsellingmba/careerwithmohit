@@ -50,7 +50,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹18.50 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹14.87 LPA (Highest ₹60.4 LPA) with AACSB & AMBA Accredited.
 
-**Goa Institute of Management (GIM Goa)** continues to be one of the most prominent management destinations in **Sanquelim (Goa)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[Goa Institute of Management (GIM Goa)](/colleges/gim-goa)** continues to be one of the most prominent management destinations in **Sanquelim (Goa)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Goa, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 

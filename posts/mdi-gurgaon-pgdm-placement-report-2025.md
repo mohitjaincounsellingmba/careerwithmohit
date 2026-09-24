@@ -57,7 +57,7 @@ Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Repor
 
 ---
 
-## 1. MDI Gurgaon Placement 2025 Highlights
+## 1. [MDI Gurgaon](/colleges/mdi-gurgaon) Placement 2025 Highlights
 
 | Metric | Placement Statistics (2025 Cohort) |
 | :--- | :--- |

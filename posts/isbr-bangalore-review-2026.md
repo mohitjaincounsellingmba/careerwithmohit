@@ -160,8 +160,8 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 
 ## 8. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average salary package at ISBR Business School (Bangalore) in 2026?
-The average package offered during campus placements at **ISBR Business School (Bangalore)** is approximately **₹9.0 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
+### Q1. What is the average salary package at [ISBR Business School](/colleges/isbr-bangalore) (Bangalore) in 2026?
+The average package offered during campus placements at **[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** is approximately **₹9.0 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
 
 ### Q2. Which entrance exams are accepted for MBA/PGDM admission at ISBR Business School (Bangalore)?
 **ISBR Business School (Bangalore)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.

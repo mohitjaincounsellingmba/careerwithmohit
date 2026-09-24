@@ -143,7 +143,7 @@ Securing admission to Shiv Nadar University, Greater Noida for the 2026 intake f
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida)**:
 
-### 👍 Why Choose Shiv Nadar University (SNU)? (Pros)
+### 👍 Why Choose [Shiv Nadar University (SNU)](/colleges/snu-greater-noida)? (Pros)
 - **Institution** of Eminence status offering significant academic autonomy and research funding
 - **Exceptional** average salary packages exceeding ₹11 LPA for B.Tech and MBA graduates
 - **Fully** residential 286-acre green campus with Olympic-standard sports facilities

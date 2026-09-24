@@ -54,11 +54,11 @@ state: Delhi NCR
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / MAT) |
 | :--- | :--- | :--- | :--- |
 | **Jaipuria Inst. of Management, Jaipur** | ₹12.75 Lakhs | ₹11.29 LPA | CAT 2026 / XAT Exam / CMAT / MAT (65+ %ile) |
-| **IIHMR University, Jaipur** | ₹10.50 Lakhs | ₹8.80 LPA | Healthcare / Hospital Mgmt Specialist (CAT/MAT/CMAT) |
+| **[IIHMR University](/colleges/iihmr-university), Jaipur** | ₹10.50 Lakhs | ₹8.80 LPA | Healthcare / Hospital Mgmt Specialist (CAT/MAT/CMAT) |
 | **FMS-IRM Jaipur (Inst. of Rural Mgmt)** | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CAT 2026 / ATMA (High ROI) |
-| **Taxila Business School, Jaipur** | ₹9.50 Lakhs | ₹8.50 LPA | CAT 2026 / XAT / CMAT / MAT (SAP Specialization) |
+| **[Taxila Business School](/colleges/taxila-jaipur), Jaipur** | ₹9.50 Lakhs | ₹8.50 LPA | CAT 2026 / XAT / CMAT / MAT (SAP Specialization) |
 | **JK Lakshmipat University (JKLU)** | ₹8.50 Lakhs | ₹7.20 LPA | CAT 2026 / XAT / MAT / CMAT |
-| **JECRC University, Jaipur** | ₹4.20 Lakhs | ₹5.50 LPA | Direct Merit / CAT 2026 / MAT |
+| **[JECRC University](/colleges/jecrc-jaipur), Jaipur** | ₹4.20 Lakhs | ₹5.50 LPA | Direct Merit / CAT 2026 / MAT |
 | **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)** | ₹9.80 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT |
 | **[Poornima University](/colleges/poornima-jaipur), Jaipur** | ₹3.60 Lakhs | ₹4.80 LPA | Direct Admission / State Merit |
 

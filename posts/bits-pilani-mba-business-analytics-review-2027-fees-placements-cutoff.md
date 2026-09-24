@@ -43,7 +43,7 @@ state: Rajasthan
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Department of Management, BITS Pilani](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **UGC Recognized under BITS Pilani Institution of Eminence (IoE) status** accreditations, and distinguished **NIRF University Rank #20 (Ranked among India’s Top 3 High-ROI Business Analytics MBAs)**, the institute draws thousands of competitive applicants each admissions season.
+When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Department of Management, BITS Pilani](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **UGC Recognized under [BITS Pilani](/colleges/bits-pilani) Institution of Eminence (IoE) status** accreditations, and distinguished **NIRF University Rank #20 (Ranked among India’s Top 3 High-ROI Business Analytics MBAs)**, the institute draws thousands of competitive applicants each admissions season.
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 

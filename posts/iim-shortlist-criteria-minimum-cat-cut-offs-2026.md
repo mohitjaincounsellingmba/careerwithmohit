@@ -141,7 +141,7 @@ Female and transgender applicants receive direct bonus points at IIM Kozhikode, 
 
 Instead of forcing candidates to travel for 10 separate interviews, the New and Baby IIMs coordinate under a single window called the **Common Admission Process (CAP)**:
 
-*   **Participating IIMs:** [IIM Udaipur](/colleges/iim-udaipur), [IIM Ranchi](/colleges/iim-ranchi), [IIM Raipur](/colleges/iim-raipur), IIM Trichy, [IIM Kashipur](/colleges/iim-kashipur), IIM Nagpur, [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sambalpur](/colleges/iim-sambalpur), and [IIM Sirmaur](/colleges/iim-sirmaur).
+*   **Participating IIMs:** [IIM Udaipur](/colleges/iim-udaipur), [IIM Ranchi](/colleges/iim-ranchi), [IIM Raipur](/colleges/iim-raipur), IIM Trichy, [IIM Kashipur](/colleges/iim-kashipur), [IIM Nagpur](/colleges/iim-nagpur), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sambalpur](/colleges/iim-sambalpur), and [IIM Sirmaur](/colleges/iim-sirmaur).
 *   **How It Works:** A single online PI & WAT is conducted by the coordinating IIM. Each participating IIM then takes those interview scores and applies their individual institutional weights to publish their final merit list!
 
 ---
@@ -174,7 +174,7 @@ IIMs compute a weighted Composite Score (CS) comprising CAT Scaled Score (40-60%
 Yes, non-engineers (from Commerce, Arts, Law, Medicine, Sciences) receive 3 to 5 additional diversity points at [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Lucknow, and Kozhikode, enabling calls at 97-98 percentile where engineers might need 99.5+.
 
 ### What is the IIM CAP (Common Admission Process) cutoff for 2026?
-The CAP cutoff for New and Baby IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally 92-94+ percentile overall for General category with 70-75 sectional cutoffs.
+The CAP cutoff for New and Baby IIMs ([IIM Udaipur](/colleges/iim-udaipur), Ranchi, Raipur, Trichy, Kashipur, Nagpur, Bodh Gaya, Jammu, Sambalpur, Sirmaur) is generally 92-94+ percentile overall for General category with 70-75 sectional cutoffs.
 
 ### How much weightage is given to work experience in IIM admissions?
 Most IIMs award between 5 to 10 points out of 100 for relevant full-time post-graduation work experience, with maximum points allocated for 24 to 36 months of tenure.

@@ -91,7 +91,7 @@ Yes, COMEDK is primarily chosen by students from all over India for seats in Kar
 KCET is for Karnataka residents (for both government and private seats), while COMEDK is specifically for the private unaided engineering colleges.
 
 **3. What is the top college in COMEDK?**
-RV College of Engineering (RVCE) Bangalore is consistently ranked as the #1 preference.
+[RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore) Bangalore is consistently ranked as the #1 preference.
 
 
 

@@ -57,7 +57,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Amity University Mumbai** (Amity Mumbai) |
+| **Institution Name** | **[Amity University Mumbai](/colleges/amity-mumbai)** (Amity Mumbai) |
 | **Campus Location** | Panvel, Greater Mumbai, Maharashtra |
 | **Program Offered** | **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)** |
 | **Degree / Diploma Type** | **MBA** |
@@ -75,7 +75,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-Amity University Mumbai offers its flagship **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[Amity University](/colleges/amity-noida) Mumbai offers its flagship **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: UGC Approved · WES Approved · NAAC Accredited.

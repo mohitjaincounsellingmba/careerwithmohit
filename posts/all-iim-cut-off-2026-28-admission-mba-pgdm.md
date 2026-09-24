@@ -130,7 +130,7 @@ Getting a high CAT percentile is only 50-60% of the battle. Most IIMs use a **Co
 2.  **Class 10th & 12th Marks:** High weightage at [IIM Bangalore](/colleges/iim-bangalore) and Indore.
 3.  **Graduation Scores:** Diversity in background (Non-engineers often get extra points).
 4.  **Work Experience:** Usually 2-4 years is the "sweet spot" for maximum points.
-5.  **Gender Diversity:** Many IIMs (like IIM Kozhikode and IIM Rohtak) give extra points to female and transgender candidates.
+5.  **Gender Diversity:** Many IIMs (like IIM Kozhikode and [IIM Rohtak](/colleges/iim-rohtak)) give extra points to female and transgender candidates.
 
 ---
 

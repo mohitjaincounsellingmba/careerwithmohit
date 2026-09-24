@@ -126,11 +126,11 @@ Below is the exhaustive comparison table of **all 21 IIMs**, detailing their est
 *   **IIM Mumbai Factor**: Formerly known as NITIE Mumbai, **IIM Mumbai** is India’s premier destination for Supply Chain, Operations, and Analytics, boasting an average package of **₹31+ LPA**.
 
 #### 2. New IIMs (Est. 2007–2011)
-*   **Established Corporate Standing**: Institutions like **IIM Shillong, IIM Udaipur, IIM Raipur, and IIM Trichy** have completed over a decade of academic excellence and boast state-of-the-art permanent campuses.
+*   **Established Corporate Standing**: Institutions like **IIM Shillong, [IIM Udaipur](/colleges/iim-udaipur), [IIM Raipur](/colleges/iim-raipur), and IIM Trichy** have completed over a decade of academic excellence and boast state-of-the-art permanent campuses.
 *   **Placement Sweet Spot**: With average salaries hovering around **₹18–26 LPA**, they offer exceptional ROI for candidates with CAT percentiles in the **94–97 range**.
 
 #### 3. Baby IIMs (Est. 2015–2016)
-*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis), third-generation IIMs such as **IIM Nagpur, IIM Visakhapatnam, and IIM Amritsar** are growing rapidly through industry mentorship from Old IIMs.
+*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis), third-generation IIMs such as **[IIM Nagpur](/colleges/iim-nagpur), IIM Visakhapatnam, and [IIM Amritsar](/colleges/iim-amritsar)** are growing rapidly through industry mentorship from Old IIMs.
 *   **Accessible Cutoffs**: For aspirants scoring between **91 and 94 percentile**, Baby IIMs provide a guaranteed entry into the IIM ecosystem with average packages between **₹14.5 LPA and ₹17 LPA**.
 
 ---
@@ -157,8 +157,8 @@ graph TD
 
 ### 3. Global Accreditations & Quality Standards
 The leading IIMs hold international accreditations from the world’s most prestigious business school review bodies:
-*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **[IIM Calcutta](/colleges/iim-calcutta)** and **IIM Indore**—a distinction shared by fewer than 1% of B-schools globally.
-*   **AACSB & EQUIS**: Held by **[IIM Ahmedabad](/colleges/iim-ahmedabad)**, **[IIM Bangalore](/colleges/iim-bangalore)**, **IIM Lucknow**, and **IIM Kozhikode**.
+*   **Triple Crown Accreditation (AACSB, EQUIS, AMBA)**: Held by **[IIM Calcutta](/colleges/iim-calcutta)** and **[IIM Indore](/colleges/iim-indore)**—a distinction shared by fewer than 1% of B-schools globally.
+*   **AACSB & EQUIS**: Held by **[IIM Ahmedabad](/colleges/iim-ahmedabad)**, **[IIM Bangalore](/colleges/iim-bangalore)**, **[IIM Lucknow](/colleges/iim-lucknow)**, and **IIM Kozhikode**.
 
 ---
 

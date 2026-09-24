@@ -181,7 +181,7 @@ Admissions for 2026 at Management Development Institute (MDI), Gurugram are cond
 
 ---
 
-## 📞 Need Expert Guidance for MDI Gurgaon Admissions?
+## 📞 Need Expert Guidance for [MDI Gurgaon](/colleges/mdi-gurgaon) Admissions?
 
 Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.
 

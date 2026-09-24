@@ -197,7 +197,7 @@ Recommended Sequence:
 
 ## Frequently Asked Questions (FAQ)
 
-### What is a safe score for SIBM Pune in SNAP 2026-27?
+### What is a safe score for [SIBM Pune](/colleges/sibm-pune) in SNAP 2026-27?
 A safe score for SIBM Pune (Flagship MBA) is **44 to 46+ raw marks** out of 60, which corresponds to approximately a **98.5+ percentile** in SNAP.
 
 ### Are there sectional time limits or sectional cutoffs in SNAP?

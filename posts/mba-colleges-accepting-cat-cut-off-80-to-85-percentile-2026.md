@@ -162,7 +162,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Chennai PGDM Average ~₹15.10 LPA | Gurgaon PGDM Average ~₹11.60 – ₹12.50 LPA
 * **Campus USP:** Guided by academic visionary Dr. Bala V. Balachandran’s legacy, Great Lakes blends US-style pedagogy with real-time business intelligence. The institute was among the earliest in India to mandate Data Analytics, Machine Learning, and Cloud Business models across its core curriculum.
 
-### 6. Institute of Rural Management Anand (IRMA Anand)
+### 6. [Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA Anand)
 * **Location:** Anand, Gujarat
 * **Flagship Programs:** PGDM (Rural Management - RM)
 * **Expected CAT Cutoff:** 80 – 83 Percentile
@@ -202,7 +202,7 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
   [ FINANCE & BFSI ] [ MARKETING & FMCG ] [ DATA & TECH ]   [ OPERATIONS & ESG ]
   • NIBM Pune        • FORE School Delhi  • Great Lakes     • IRMA Anand
   • LBSIM New Delhi  • TAPMI Manipal      • GIM (BDA)       • BIMTECH Greater Noida
-  • TAPMI (BKFS)     • WeSchool Mumbai    • BITS Pilani     • IIT ISM Dhanbad
+  • TAPMI (BKFS)     • WeSchool Mumbai    • [BITS Pilani](/colleges/bits-pilani)     • IIT ISM Dhanbad
 ```
 
 ### Best for Finance, Investment & Banking
@@ -211,7 +211,7 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
 3. **TAPMI (BKFS):** Complete Bloomberg integration and curriculum mapped to CFA Institute standards.
 
 ### Best for Marketing, Brand Management & Sales
-1. **FORE School of Management:** Unrivaled exposure to corporate head offices located across Gurgaon and Delhi-NCR.
+1. **[FORE School of Management](/colleges/fore-school-delhi):** Unrivaled exposure to corporate head offices located across Gurgaon and Delhi-NCR.
 2. **TAPMI Manipal:** Strong FMCG and consumer durable placement heritage with brands like HUL, Nestlé, ITC, and Titan.
 3. **Welingkar (WeSchool) Mumbai:** Located in India's advertising and media capital with dedicated tracks in Retail and Media & Entertainment.
 

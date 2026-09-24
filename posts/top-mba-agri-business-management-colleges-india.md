@@ -167,7 +167,7 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 | College | Specialization | Avg Package |
 | :--- | :--- | :--- |
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | FABM | ₹28.5 LPA |
-| **IIM Lucknow** | ABM | ₹24.2 LPA |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | ABM | ₹24.2 LPA |
 | **IRMA Anand** | Rural Mgmt | ₹15.5 LPA |
 | **MANAGE Hyderabad** | Agri-Business | ₹12.8 LPA |
 

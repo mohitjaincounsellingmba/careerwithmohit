@@ -81,7 +81,7 @@ state: Pan India
 > - **Accreditation & Approvals**: UGC Approved · NAAC Grade A+ Accredited · IACBE (USA) · WES Approved.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.80 LPA** (Top 25% at **₹9.50 LPA**) with a highest package of **₹21.00 LPA**. 20% of the batch secures PPOs through campus corporate partnership networks.
 
-**Amity University Gurugram (Manesar) (Amity Gurgaon)**, located in **Amity Education Valley, Manesar, Gurugram**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Amity University](/colleges/amity-noida) Gurugram (Manesar) (Amity Gurgaon)**, located in **Amity Education Valley, Manesar, Gurugram**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA programs or comparing top business schools in **Gurgaon**, this detailed guide provides verified facts regarding **Amity Gurgaon's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

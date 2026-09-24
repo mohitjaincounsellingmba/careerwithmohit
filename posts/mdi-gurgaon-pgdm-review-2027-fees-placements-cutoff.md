@@ -197,7 +197,7 @@ To help you assess comparative ROI, here is how Management Development Institute
 
 ## 7. Frequently Asked Questions (FAQ)
 
-### 1. What is the CAT cutoff for MDI Gurgaon PGDM?
+### 1. What is the CAT cutoff for [MDI Gurgaon](/colleges/mdi-gurgaon) PGDM?
 The CAT cutoff for general PGDM at MDI Gurgaon typically hovers between 95.0 and 97.0 percentile, along with sectional cutoffs around 85 percentile in VARC, DILR, and QA.
 
 ### 2. What is the difference between MDI PGDM Core and PGDM-IB?

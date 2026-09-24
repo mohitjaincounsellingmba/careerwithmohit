@@ -165,7 +165,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 | 41 | **[GIBS Business School](/colleges/gibs-bangalore)** | Bannerghatta, Blr | MBA / PGDM | ₹11.25 Lakhs | ₹9.50 LPA | ₹22.00 LPA | AICTE · Innovation Incubation Lab |
 | 42 | **[ISME Bangalore](/colleges/isme-bangalore)** | Sarjapur Rd, Blr | PGDM | ₹10.95 Lakhs | ₹8.50 LPA | ₹18.00 LPA | AICTE · LSE & Carleton Tie-ups |
 | 43 | **Alliance School of Business** | Anekal, Blr | MBA | ₹18.00 Lakhs | ₹10.50 LPA | ₹40.00 LPA | UGC · AACSB Member · NIRF Ranked |
-| 44 | **Amity University Bengaluru** | Devanahalli, Blr | MBA | ₹11.52 Lakhs | ₹7.50 LPA | ₹20.00 LPA | UGC · Modern Tech Hub Campus |
+| 44 | **[Amity University](/colleges/amity-noida) Bengaluru** | Devanahalli, Blr | MBA | ₹11.52 Lakhs | ₹7.50 LPA | ₹20.00 LPA | UGC · Modern Tech Hub Campus |
 
 ---
 
@@ -255,7 +255,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Led by senior educationists and industry advisors from CII and FICCI panels.
 *   **Why Join**: Proven placement records, double specialization, excellent South Delhi corporate connectivity.
 
-### 8. GD Goenka University (School of Management) – Sohna Road, Gurgaon
+### 8. [GD Goenka University](/colleges/gd-goenka-university) (School of Management) – Sohna Road, Gurgaon
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: UGC Approved State Private University, AIU, Association of Commonwealth Universities.
 *   **Fee Structure (2027–29)**: **₹8.50 Lakhs** total.
@@ -327,7 +327,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Governed by the leadership of JK Organisation (Raymond, JK Tyre, JK Paper).
 *   **Why Join**: Direct corporate mentorship from JK Organisation executives, residential campus, strong analytics focus.
 
-### 14. Bennett University – Greater Noida
+### 14. [Bennett University](/colleges/bennett-greater-noida) – Greater Noida
 *   **Program**: 2-Year Full-Time MBA (Media, Finance, Marketing, Analytics, HR).
 *   **Approvals & Accreditations**: UGC Approved State Private University, Backed by The Times Group.
 *   **Fee Structure (2027–29)**: **₹11.95 Lakhs** total.
@@ -339,7 +339,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Times Group executive leadership, former vice-chancellors, and Fortune 500 corporate heads.
 *   **Why Join**: Times Group media and corporate ecosystem backing, world-class 68-acre residential campus, incubator seed funding support.
 
-### 15. Noida International University (NIU) – Greater Noida
+### 15. [Noida International University (NIU)](/colleges/niu-greater-noida) – Greater Noida
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: UGC Approved, NAAC Grade A+ Accredited.
 *   **Fee Structure (2027–29)**: **₹6.50 Lakhs** total.
@@ -399,7 +399,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Veteran academicians and former directors of technical universities.
 *   **Why Join**: One of the most affordable MBA programs in Delhi NCR with maximum fee-to-salary ROI.
 
-### 20. Lloyd Business School – Greater Noida
+### 20. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) – Greater Noida
 *   **Program**: PGDM (in collaboration with IBM) & MBA (AKTU Affiliated).
 *   **Approvals & Accreditations**: AICTE Approved, AKTU Affiliated (for MBA).
 *   **Fee Structure (2027–29)**: **₹8.25 Lakhs** for PGDM (IBM Tracks); **₹2.90 Lakhs** for MBA.
@@ -435,7 +435,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Chaired by ITS Group trustees and former university vice-chancellors.
 *   **Why Join**: Prime Mohan Nagar metro connectivity, very affordable university MBA option, high campus placement rate.
 
-### 23. Jaipuria School of Business (JSB) – Indirapuram, Ghaziabad
+### 23. [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB) – Indirapuram, Ghaziabad
 *   **Program**: 2-Year Full-Time PGDM.
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, Govt. of India.
 *   **Fee Structure (2027–29)**: **₹8.50 Lakhs** total.
@@ -451,7 +451,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 3. In-Depth Profiles: Jaipur Region (Rajasthan Hub)
 
-### 24. Taxila Business School – Mansarovar, Jaipur
+### 24. [Taxila Business School](/colleges/taxila-jaipur) – Mansarovar, Jaipur
 *   **Program**: 2-Year Full-Time PGDM (Dual Specialization with SAP S/4HANA & Business Analytics).
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, Govt. of India.
 *   **Fee Structure (2027–29)**: **₹10.50 Lakhs** (Installment Plan) / **₹9.80 Lakhs** (Lump Sum Plan).
@@ -491,7 +491,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 4. In-Depth Profiles: Pune Region (Maharashtra Educational Hub)
 
-### 27. Ramachandran International Institute of Management (RIIM Pune) – Bavdhan, Pune
+### 27. Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune)) – Bavdhan, Pune
 *   **Program**: MBA (Affiliated to SPPU), Autonomous PGDM, and Global MBA.
 *   **Approvals & Accreditations**: AICTE Approved, Affiliated to Savitribai Phule Pune University (for MBA), Govt. of Maharashtra.
 *   **Fee Structure (2027–29)**: **₹7.20 Lakhs to ₹8.60 Lakhs** total (Includes Employability Development Program & optional 1-Week International Study Tour to Dubai/Singapore).
@@ -527,7 +527,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Governed by the prestigious Dr. D.Y. Patil Pratishthan leadership.
 *   **Why Join**: NAAC A++ quality assurance, world-class Pimpri smart campus, outstanding placement record in automotive & IT sectors.
 
-### 30. International School of Management Studies (ISMS Pune) – Hinjawadi, Pune
+### 30. International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) – Hinjawadi, Pune
 *   **Program**: MBA (SPPU), PGDM, and British MBA Pathway (Dual Degree with UK Universities).
 *   **Approvals & Accreditations**: AICTE Approved, Pearson Assured, Ties with UK Universities (Leeds Beckett, Teesside).
 *   **Fee Structure (2027–29)**: **₹7.25 Lakhs** total (India Track); **₹14.50 Lakhs** for British Pathway.
@@ -603,7 +603,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Chaired by leading Indian business titans, education leaders, and venture capitalists.
 *   **Why Join**: State-of-the-art campus right next to Bandra-Kurla Complex (BKC) financial hub, cutting-edge new-age curriculum.
 
-### 36. Amity University Mumbai – Panvel, Greater Mumbai
+### 36. [Amity University Mumbai](/colleges/amity-mumbai) – Panvel, Greater Mumbai
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: UGC Approved, WES Approved, NAAC Accredited.
 *   **Fee Structure (2027–29)**: **₹10.25 Lakhs** total.
@@ -667,7 +667,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Veteran academicians and former directors of Bangalore University boards.
 *   **Why Join**: High ROI, green campus near Bangalore Airport corridor, dual program choices (MBA & PGDM).
 
-### 41. Global Institute of Business Studies (GIBS Business School) – Bannerghatta Road, Bangalore
+### 41. Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore)) – Bannerghatta Road, Bangalore
 *   **Program**: PGDM (AICTE Approved) & BBA/MBA programs.
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, Govt. of India.
 *   **Fee Structure (2027–29)**: **₹11.25 Lakhs** total.
@@ -679,7 +679,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Senior corporate executives from Infosys, Wipro, and global consulting firms.
 *   **Why Join**: Unique Finishing School & Innovation Incubation Centre, 100% placement support, modern Bannerghatta campus.
 
-### 42. International School of Management Excellence (ISME Bangalore) – Sarjapur Road, Bangalore
+### 42. International School of Management Excellence ([ISME Bangalore](/colleges/isme-bangalore)) – Sarjapur Road, Bangalore
 *   **Program**: 2-Year Full-Time PGDM.
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, Collaborations with LSE and Carleton University.
 *   **Fee Structure (2027–29)**: **₹10.95 Lakhs** total.

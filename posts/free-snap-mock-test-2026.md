@@ -59,6 +59,8 @@ To help you measure your standing, we offer a high-fidelity **[Free SNAP Dec 202
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the exam pattern for SNAP 2026?

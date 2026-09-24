@@ -57,7 +57,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **IILM Academy of Higher Learning** (IILM Jaipur) |
+| **Institution Name** | **[IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)** (IILM Jaipur) |
 | **Campus Location** | Mansarovar, Jaipur, Rajasthan |
 | **Program Offered** | **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics)** |
 | **Degree / Diploma Type** | **PGDM** |
@@ -75,7 +75,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-IILM Academy of Higher Learning offers its flagship **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[IILM Academy of Higher Learning](/colleges/iilm-jaipur) offers its flagship **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved, Ministry of Education, Govt. of India.

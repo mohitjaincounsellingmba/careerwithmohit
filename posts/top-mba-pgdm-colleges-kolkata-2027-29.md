@@ -95,7 +95,7 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 | Entrance Exam | Composite Score / Percentile | Eligible Institutes |
 | :--- | :--- | :--- |
-| **CAT / XAT 2026/2027** | 75+ Percentile | IMI Kolkata, IISWBM |
+| **CAT / XAT 2026/2027** | 75+ Percentile | [IMI Kolkata](/colleges/imi-kolkata), IISWBM |
 | **MAT 2026/2027** | 600+ Composite Score (60-80 %ile) | Globsyn, Praxis, IEM, Heritage |
 | **CMAT 2027** | 65 - 85 Percentile | IMI Kolkata, Globsyn, Praxis, IEM |
 | **JEMAT 2027** | State rank within top 1000 | IISWBM, IEM, Heritage |

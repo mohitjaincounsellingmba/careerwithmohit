@@ -90,6 +90,8 @@ In this comprehensive guide, we compare the **best mock test providers for CAT, 
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the CAT 2026 exam?

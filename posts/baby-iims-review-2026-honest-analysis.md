@@ -73,12 +73,12 @@ The 21 IIMs in India are broadly divided into three generations:
 
 | IIM | Location | Avg Package | Total Fees | CAT Cutoff (Gen) | Mentor IIM |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | [IIM Lucknow](/colleges/iim-lucknow) |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | [IIM Lucknow](/colleges/iim-lucknow) |
 | **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
 | **[IIM Jammu](/colleges/iim-jammu)** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
 | **[IIM Nagpur](/colleges/iim-nagpur)** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
 | **[IIM Sambalpur](/colleges/iim-sambalpur)** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | [IIM Indore](/colleges/iim-indore) |
-| **[IIM Sirmaur](/colleges/iim-sirmaur)** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | [IIM Lucknow](/colleges/iim-lucknow) |
 | **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | [IIM Bangalore](/colleges/iim-bangalore) |
 
 ---
@@ -96,7 +96,7 @@ The 21 IIMs in India are broadly divided into three generations:
 
 ---
 
-#### **2. IIM Bodh Gaya**
+#### **2. [IIM Bodh Gaya](/colleges/iim-bodh-gaya)**
 - **Established**: 2015 | **Batch Size**: ~180
 - **Programs**: MBA, IPM (5-Year)
 - **Average Package**: ₹15.8 LPA | **Highest**: ~₹30+ LPA
@@ -108,7 +108,7 @@ The 21 IIMs in India are broadly divided into three generations:
 
 ---
 
-#### **3. IIM Jammu**
+#### **3. [IIM Jammu](/colleges/iim-jammu)**
 - **Established**: 2016 | **Batch Size**: ~200
 - **Programs**: MBA, IPM (5-Year)
 - **Average Package**: ₹16.4 LPA | **Highest**: ~₹32+ LPA
@@ -120,7 +120,7 @@ The 21 IIMs in India are broadly divided into three generations:
 
 ---
 
-#### **4. IIM Nagpur**
+#### **4. [IIM Nagpur](/colleges/iim-nagpur)**
 - **Established**: 2015 | **Batch Size**: ~240
 - **Programs**: MBA
 - **Average Package**: ₹16.7 LPA | **Highest**: ~₹38+ LPA
@@ -131,18 +131,18 @@ The 21 IIMs in India are broadly divided into three generations:
 
 ---
 
-#### **5. IIM Sambalpur**
+#### **5. [IIM Sambalpur](/colleges/iim-sambalpur)**
 - **Established**: 2015 | **Batch Size**: ~200
 - **Programs**: MBA
 - **Average Package**: ₹16.6 LPA | **Highest**: ~₹35+ LPA
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Transitioning to permanent campus in Sambalpur, Odisha
-- **Mentor**: IIM Indore
+- **Mentor**: [IIM Indore](/colleges/iim-indore)
 - **Verdict**: Decent placements for its age. Odisha location means limited campus recruiter access, but growing. IIM Indore mentorship is solid.
 
 ---
 
-#### **6. IIM Sirmaur**
+#### **6. [IIM Sirmaur](/colleges/iim-sirmaur)**
 - **Established**: 2015 | **Batch Size**: ~160–180
 - **Programs**: MBA, MBA (Tourism & Hospitality Management)
 - **Average Package**: ₹14.5 LPA | **Highest**: ~₹28+ LPA

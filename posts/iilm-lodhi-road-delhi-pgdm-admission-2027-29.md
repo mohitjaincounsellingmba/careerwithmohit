@@ -91,7 +91,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **IILM Institute for Higher Education** (IILM Lodhi Road) |
+| **Institution Name** | **[IILM Institute for Higher Education](/colleges/iilm-delhi)** (IILM Lodhi Road) |
 | **Campus Location** | Lodhi Road, Central Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM (Marketing & Innovation, FinTech & Analytics, HR Leadership)** |
 | **Degree / Diploma Type** | **PGDM** |
@@ -109,7 +109,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-IILM Institute for Higher Education offers its flagship **2-Year Full-Time PGDM (Marketing & Innovation, FinTech & Analytics, HR Leadership)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education) offers its flagship **2-Year Full-Time PGDM (Marketing & Innovation, FinTech & Analytics, HR Leadership)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.

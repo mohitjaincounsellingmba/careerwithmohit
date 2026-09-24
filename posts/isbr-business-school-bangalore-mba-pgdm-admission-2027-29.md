@@ -57,7 +57,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **ISBR Business School** (ISBR Bangalore) |
+| **Institution Name** | **[ISBR Business School](/colleges/isbr-bangalore)** (ISBR Bangalore) |
 | **Campus Location** | Electronic City, Bangalore, Karnataka |
 | **Program Offered** | **PGDM (AICTE Approved) & MBA (Bangalore University)** |
 | **Degree / Diploma Type** | **MBA / PGDM** |
@@ -75,7 +75,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-ISBR Business School offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[ISBR Business School](/colleges/isbr-business-school) offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved · NBA Accredited · Affiliated to Bangalore University.

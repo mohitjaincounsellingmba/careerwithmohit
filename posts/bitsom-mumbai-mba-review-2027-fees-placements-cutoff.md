@@ -60,7 +60,7 @@ Here is a consolidated institutional fact-sheet for BITS School of Management (B
 | **Institution Name** | **BITS School of Management (BITSoM)** |
 | **Campus Location** | Mumbai, Maharashtra |
 | **Flagship Program** | 2-Year Full-Time Residential MBA |
-| **Degree Awarded** | Master of Business Administration (Degree awarded by BITS Pilani - Institution of Eminence) |
+| **Degree Awarded** | Master of Business Administration (Degree awarded by [BITS Pilani](/colleges/bits-pilani) - Institution of Eminence) |
 | **Accreditations** | UGC Recognized under BITS Pilani Institution of Eminence (IoE) status |
 | **National / Global Rankings** | Fastest Rising New-Age B-School in India (Backed by Aditya Birla Group) |
 | **Total Program Intake** | Approx. 150–160 Seats (Curated Boutique Cohort) |

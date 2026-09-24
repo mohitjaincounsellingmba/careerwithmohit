@@ -101,7 +101,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Indore for 2026** to help
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **IIM Indore (IPMAT)** | IPMAT | ₹5.0 Lakhs |
+| **1** | **[IIM Indore](/colleges/iim-indore) (IPMAT)** | IPMAT | ₹5.0 Lakhs |
 | **2** | **NMIMS Indore** | NPAT | ₹2.8 Lakhs |
 | **3** | **Prestige Institute of Management** | Merit | ₹1.5 Lakhs |
 | **4** | **IPS Academy** | Merit | ₹1.2 Lakhs |

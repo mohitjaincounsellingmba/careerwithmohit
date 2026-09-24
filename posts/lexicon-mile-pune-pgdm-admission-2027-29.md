@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.50 LPA** (Top 25% at **₹9.20 LPA**) with a highest package of **₹13.30 LPA**. 20% PPO conversion through active live projects and internships.
 
-**Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) (Lexicon MILE Pune)**, located in **Wagholi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE) (Lexicon MILE Pune)**, located in **Wagholi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **Lexicon MILE Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

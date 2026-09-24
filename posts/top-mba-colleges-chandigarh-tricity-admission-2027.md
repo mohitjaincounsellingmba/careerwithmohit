@@ -68,7 +68,7 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 
 ## Detailed College Highlights
 
-### 1. University Business School (UBS), Panjab University
+### 1. [University Business School (UBS), Panjab University](/colleges/ubs-panjab-university)
 * **Legacy:** Established in 1962, UBS is one of India's most prestigious public management departments.
 * **Placements:** Average salary ₹13.72 LPA with highest domestic offer touching ₹58 LPA. Top recruiters include American Express, HDFC, Trident, and EY.
 

@@ -110,7 +110,7 @@ The placement record at **[FORE School of Management](/colleges/fore-school-delh
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **FORE School of Management Delhi** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[FORE School of Management](/colleges/fore-school-delhi) Delhi** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, GMAT**.

@@ -100,7 +100,7 @@ Below is the consolidated placement comparison table for **all 21 Indian Institu
 | **[IIM Sirmaur](/colleges/iim-sirmaur)** | Baby / Gen-3 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | General Management & Ops |
 
 > [!NOTE]
-> **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad) and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
+> **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad) and [IIM Udaipur](/colleges/iim-udaipur) follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).
 
 ---
 
@@ -140,10 +140,10 @@ The top tier of Indian management education demonstrated immense placement power
    - **Average CTC**: ₹34.23 LPA | **Median CTC**: ₹31.20 LPA
    - **Highest International Package**: **₹1.45 Crore per annum**
    - **Key Highlights**: Retained its undisputed reputation as the **Finance Capital of Indian B-Schools**. Over 32% of offers came from bulge-bracket investment banks, private equity, and hedge funds including Avendus Capital, Barclays, Citi, Goldman Sachs, and JP Morgan Chase.
-4. **IIM Lucknow & IIM Mumbai**:
+4. **[IIM Lucknow](/colleges/iim-lucknow) & IIM Mumbai**:
    - **IIM Lucknow** averaged **₹32.30 LPA**, with top 25% students averaging **₹44+ LPA**.
    - **IIM Mumbai (NITIE)** achieved an average of **₹34.50 LPA** for its top 50% students and ₹31.00 LPA overall, solidifying its spot as the #1 destination for Supply Chain, Industrial Management, and Technology leadership.
-5. **IIM Indore & IIM Kozhikode**:
+5. **[IIM Indore](/colleges/iim-indore) & IIM Kozhikode**:
    - **IIM Kozhikode** reached **₹28.18 LPA** with a highest package of ₹81.00 LPA, supported by leading FMCG and consulting recruiters.
    - **IIM Indore** averaged **₹29.75 LPA**, with 150+ recruiters extending offers across BFSI, IT, and Brand Management.
 
@@ -154,9 +154,9 @@ The top tier of Indian management education demonstrated immense placement power
 Established between 2007 and 2011, New IIMs have achieved campus maturity and deep corporate recruitment ties.
 
 *   **IIM Shillong**: The clear outlier among second-generation IIMs, recording an outstanding average package of **₹27.03 LPA** and a highest package of **₹71.50 LPA**. Its strategic location and international partnerships have driven immense recruiter preference.
-*   **IIM Rohtak**: Recorded an average of **₹20.03 LPA** with a 100% placement record across its 400+ student cohort.
-*   **IIM Ranchi & IIM Trichy**: Recorded solid average CTCs of **₹19.29 LPA** and **₹19.27 LPA** respectively, with heavy recruitment from ICICI Bank, KPMG, Deloitte, HSBC, and Wells Fargo.
-*   **IIM Raipur & IIM Udaipur**: Maintained steady averages of **₹18.80 LPA** and **₹17.58 LPA**, with Udaipur being praised for its strictly audited transparent IPRS placement reports.
+*   **[IIM Rohtak](/colleges/iim-rohtak)**: Recorded an average of **₹20.03 LPA** with a 100% placement record across its 400+ student cohort.
+*   **[IIM Ranchi](/colleges/iim-ranchi) & IIM Trichy**: Recorded solid average CTCs of **₹19.29 LPA** and **₹19.27 LPA** respectively, with heavy recruitment from ICICI Bank, KPMG, Deloitte, HSBC, and Wells Fargo.
+*   **[IIM Raipur](/colleges/iim-raipur) & IIM Udaipur**: Maintained steady averages of **₹18.80 LPA** and **₹17.58 LPA**, with Udaipur being praised for its strictly audited transparent IPRS placement reports.
 
 ---
 
@@ -164,10 +164,10 @@ Established between 2007 and 2011, New IIMs have achieved campus maturity and de
 
 Established between 2015 and 2016, Baby IIMs are outperforming numerous legacy private business schools:
 
-*   **IIM Amritsar**: The standout performer in Gen-3, clocking an impressive average CTC of **₹19.73 LPA** alongside a top international offer of **₹58.52 LPA**.
-*   **IIM Nagpur**: Recorded **₹18.07 LPA** average (up from ₹16.29 LPA in 2024) with a highest CTC of **₹69.57 LPA** and 4 international offers on its state-of-the-art MIHAN campus.
-*   **IIM Visakhapatnam & IIM Jammu**: Achieved average packages of **₹16.40 LPA** and **₹16.00+ LPA** respectively, backed by brand new permanent campuses and rising recruiters in IT/ITES and Fintech.
-*   **IIM Sambalpur, Bodh Gaya & Sirmaur**: Maintained healthy salary brackets between **₹13.10 LPA and ₹15.65 LPA**, providing high return on investment for students scoring in the 91–94 CAT percentile bracket.
+*   **[IIM Amritsar](/colleges/iim-amritsar)**: The standout performer in Gen-3, clocking an impressive average CTC of **₹19.73 LPA** alongside a top international offer of **₹58.52 LPA**.
+*   **[IIM Nagpur](/colleges/iim-nagpur)**: Recorded **₹18.07 LPA** average (up from ₹16.29 LPA in 2024) with a highest CTC of **₹69.57 LPA** and 4 international offers on its state-of-the-art MIHAN campus.
+*   **IIM Visakhapatnam & [IIM Jammu](/colleges/iim-jammu)**: Achieved average packages of **₹16.40 LPA** and **₹16.00+ LPA** respectively, backed by brand new permanent campuses and rising recruiters in IT/ITES and Fintech.
+*   **[IIM Sambalpur](/colleges/iim-sambalpur), Bodh Gaya & Sirmaur**: Maintained healthy salary brackets between **₹13.10 LPA and ₹15.65 LPA**, providing high return on investment for students scoring in the 91–94 CAT percentile bracket.
 
 ---
 

@@ -46,13 +46,13 @@ Below is the comparative breakdown of all 7 Baby IIMs for the graduating class o
 
 | Institute | Est. Year | Average Package (CTC) | Median Package | Highest Package (Reported) | 2-Year Total Fees |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IIM Amritsar** | 2015 | **₹19.73 LPA** | ₹17.00 LPA | **₹58.52 LPA (Intl)** / ₹28 LPA | ₹17.6 – 18.5 Lakhs |
-| **IIM Nagpur** | 2015 | **₹18.07 LPA** | ₹16.80 LPA | **₹69.57 LPA** | ₹17.4 – 18.5 Lakhs |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | 2015 | **₹19.73 LPA** | ₹17.00 LPA | **₹58.52 LPA (Intl)** / ₹28 LPA | ₹17.6 – 18.5 Lakhs |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | 2015 | **₹18.07 LPA** | ₹16.80 LPA | **₹69.57 LPA** | ₹17.4 – 18.5 Lakhs |
 | **IIM Visakhapatnam** | 2015 | **₹16.40 LPA** | ₹15.50 LPA | ₹32.50 LPA | ₹17.2 – 18.2 Lakhs |
-| **IIM Jammu** | 2016 | **₹16.00+ LPA** | ₹15.80 LPA | ₹32.00 LPA | ₹18.0 – 19.0 Lakhs |
-| **IIM Sambalpur** | 2015 | **₹15.65 LPA** | ₹14.50 LPA | ₹48.60 LPA | ₹17.5 – 18.5 Lakhs |
-| **IIM Bodh Gaya** | 2015 | **₹13.10 – 15.80 LPA** | ₹13.00 LPA | ₹22.00 – 30.50 LPA | ₹17.0 – 18.0 Lakhs |
-| **IIM Sirmaur** | 2015 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | ₹17.0 – 18.0 Lakhs |
+| **[IIM Jammu](/colleges/iim-jammu)** | 2016 | **₹16.00+ LPA** | ₹15.80 LPA | ₹32.00 LPA | ₹18.0 – 19.0 Lakhs |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | 2015 | **₹15.65 LPA** | ₹14.50 LPA | ₹48.60 LPA | ₹17.5 – 18.5 Lakhs |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | 2015 | **₹13.10 – 15.80 LPA** | ₹13.00 LPA | ₹22.00 – 30.50 LPA | ₹17.0 – 18.0 Lakhs |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | 2015 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | ₹17.0 – 18.0 Lakhs |
 
 ---
 

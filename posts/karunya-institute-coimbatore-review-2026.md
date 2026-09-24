@@ -128,7 +128,7 @@ Life at **Karunya University Coimbatore** extends far beyond traditional classro
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Karunya Institute of Technology and Sciences, Coimbatore for the 2027–2029 intake follows a structured and merit-oriented process:
+Securing admission to [Karunya Institute of Technology and Sciences](/colleges/karunya-institute-of-technology-and-sciences), Coimbatore for the 2027–2029 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**KEE (Karunya Entrance Examination), KMAT, CAT, MAT, JEE Main**) or appear for the university's entrance test.

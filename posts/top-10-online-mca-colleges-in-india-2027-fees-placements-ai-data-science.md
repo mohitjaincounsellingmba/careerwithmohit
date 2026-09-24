@@ -61,13 +61,13 @@ Explore the complete program directory at our [Online MCA Hub](/online-degree-ce
 
 ## In-Depth Analysis: Top 5 Online MCA Programs
 
-### 1. Amity University Online MCA
+### 1. [Amity University](/colleges/amity-noida) Online MCA
 - **Key Specializations**: Artificial Intelligence, Cyber Security, Cloud Computing.
 - **Curriculum Highlights**: Includes live coding webinars, cloud-hosted coding sandboxes (AWS / Azure credits), and Harvard Business Publishing case materials.
 - **Global Recognition**: Holds **WES recognition**, allowing graduates to claim full points for Canada PR and global IT work permits.
 - **Compare**: Check [Amity vs Jain Online](/online-degree-certification/amity-vs-jain) and [Amity vs LPU Online](/online-degree-certification/amity-vs-lpu).
 
-### 2. Jain University Online MCA (Bangalore)
+### 2. [Jain University](/colleges/jain-university) Online MCA (Bangalore)
 - **Key Specializations**: Data Analytics, Computer Science & IT, Full Stack Development.
 - **Tech Stack Taught**: Python, Java, Spring Boot, React, Node.js, SQL, MongoDB, TensorFlow, and Docker.
 - **USP**: Anchored in Bangalore's tech ecosystem with 2,000+ corporate hiring partners (Flipkart, Infosys, Cisco, IBM).
@@ -77,7 +77,7 @@ Explore the complete program directory at our [Online MCA Hub](/online-degree-ce
 - **Key Specializations**: AI & Machine Learning, Data Science, Software Development.
 - **USP**: Features **LPU LIVE LMS App** with 24/7 technical mentors, virtual programming laboratories, and structured placement drives connecting students with Fortune 500 tech companies.
 
-### 4. Manipal University Jaipur (MUJ Online MCA)
+### 4. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ Online MCA)
 - **Key Specializations**: Cloud Computing, Cyber Security, Data Science.
 - **USP**: The Manipal brand offers unmatched prestige, exceptional faculty from premier engineering institutes, and access to the Coursera for Campus enterprise learning library.
 

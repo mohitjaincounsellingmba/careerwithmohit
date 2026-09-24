@@ -43,7 +43,7 @@ Whether you are targeting the national prestige of [IIM Indore](/colleges/iim-in
 
 | College | Type | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|
-| **IIM Indore (IPM)** | Central | IPMAT | ₹5.5 - 6.5 Lakhs | ₹25.0 - 35.0 LPA |
+| **[IIM Indore](/colleges/iim-indore) (IPM)** | Central | IPMAT | ₹5.5 - 6.5 Lakhs | ₹25.0 - 35.0 LPA |
 | **Prestige (PIMR)** | Private | Merit/Intv | ₹0.8 - 1.5 Lakhs | ₹4.5 - 7.5 LPA |
 | **Renaissance (RIC)** | Private | Merit | ₹0.6 - 1.2 Lakhs | ₹4.0 - 6.5 LPA |
 | **Medi-Caps Univ** | Private | Merit | ₹1.0 - 1.8 Lakhs | ₹4.0 - 6.0 LPA |

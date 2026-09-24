@@ -67,9 +67,9 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT 2027) |
 | :--- | :--- | :--- | :--- |
-| **FMS Delhi University** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 2026 (98.5+ %ile) / Exceptional 1700% ROI |
-| **MDI Gurgaon** | ₹24.00 Lakhs | ₹26.70 LPA | CAT 2026 / XAT 2027 (93-95 %ile) |
-| **FORE School of Management, Delhi** | ₹16.98 Lakhs | ₹14.50 LPA | CAT 2026 / XAT 2027 (85+ %ile) |
+| **[FMS Delhi](/colleges/fms-delhi) University** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 2026 (98.5+ %ile) / Exceptional 1700% ROI |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹24.00 Lakhs | ₹26.70 LPA | CAT 2026 / XAT 2027 (93-95 %ile) |
+| **[FORE School of Management](/colleges/fore-school-delhi), Delhi** | ₹16.98 Lakhs | ₹14.50 LPA | CAT 2026 / XAT 2027 (85+ %ile) |
 | **LBSIM Delhi (Dwarka)** | ₹15.50 Lakhs | ₹12.40 LPA | CAT 2026 / XAT 2027 (80-84 %ile) |
 | **SOIL Institute of Management, Gurgaon** | ₹15.30 Lakhs | ₹10.30 LPA | CAT 2026 / XAT 2027 / NMAT / GMAT |
 | **NDIM New Delhi (South Delhi)** | ₹11.50 Lakhs | ₹9.50 LPA | CAT 2026 / MAT / CMAT / XAT (60+ %ile) |

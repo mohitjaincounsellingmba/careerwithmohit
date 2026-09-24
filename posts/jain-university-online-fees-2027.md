@@ -48,7 +48,7 @@ state: Karnataka
 
 **[Jain University](/colleges/jain-university) Online**, based in the tech capital of **Bangalore**, holds **NAAC A++ accreditation** and **WES approval**, placing it among India's highest-ranked online degree institutions.
 
-For students planning to enroll in the 2027 academic session, understanding the exact **tuition fee schedules, semester installments, and zero-cost EMI options** is essential. Here is the verified 2027 financial guide for Jain University Online degrees.
+For students planning to enroll in the 2027 academic session, understanding the exact **tuition fee schedules, semester installments, and zero-cost EMI options** is essential. Here is the verified 2027 financial guide for [Jain University](/colleges/jain-university) Online degrees.
 
 ---
 

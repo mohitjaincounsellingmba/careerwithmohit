@@ -56,8 +56,8 @@ This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking
 
 | Institute | Exam Name | Duration | Degrees Awarded |
 |---|---|---|---|
-| **IIM Indore** | IPMAT Indore | 5 Years | BA (Foundations) + MBA |
-| **IIM Rohtak** | IPMAT Rohtak | 5 Years | BBA + MBA |
+| **[IIM Indore](/colleges/iim-indore)** | IPMAT Indore | 5 Years | BA (Foundations) + MBA |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | IPMAT Rohtak | 5 Years | BBA + MBA |
 | **[IIM Ranchi](/colleges/iim-ranchi)** | IPMAT Indore | 5 Years | BBA + MBA |
 | **[IIM Jammu](/colleges/iim-jammu)** | JIPMAT | 5 Years | BBA + MBA |
 | **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)**| JIPMAT | 5 Years | BBA + MBA |
@@ -114,7 +114,7 @@ No. JEE is purely science-based. IPMAT is an **Aptitude Test**. While the Quant 
 **Q3. What is the safe score for IIM Indore 2026?**
 While cutoffs change every year, a safe target is usually **180-200+ marks** out of 400 for a General category student to ensure an interview call.
 
-**Q4. does IIM Ranchi have a separate exam?**
+**Q4. does [IIM Ranchi](/colleges/iim-ranchi) have a separate exam?**
 No. IIM Ranchi uses the **IPMAT Indore scores** for its first-round selection.
 
 **Q5. When is IPMAT 2026 scheduled?**

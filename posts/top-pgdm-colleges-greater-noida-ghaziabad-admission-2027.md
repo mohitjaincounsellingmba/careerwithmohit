@@ -99,7 +99,7 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2026, XAT
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
 * **Highlights:** Excellent industry-oriented training, strong alumni presence across IT and FMCG sectors, and transparent placement auditing. Check [All About GL Bajaj Greater Noida](/posts/all-about-gl-bajaj-greater-noida).
 
-### 5. Accurate Institute & Lloyd Business School
+### 5. Accurate Institute & [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
 * Both institutions provide specialized industry certifications (Lean Six Sigma, Google Analytics, Advanced Excel) integrated within their PGDM curriculum to ensure freshers secure entry-level corporate packages of ₹6.5 LPA to ₹10 LPA. Learn more at [All About Accurate Greater Noida](/posts/all-about-accurate-greater-noida) and [All About Lloyd Business School](/posts/all-about-lloyd-business-school).
 
 ---

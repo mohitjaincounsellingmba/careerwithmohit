@@ -204,14 +204,14 @@ IIEBM Pune PGDM is ideal for you if:
 ## Related Guides & College Comparisons
 - **[All About IIEBM Indus Business School: Fees, Placements & Hostels](/blog/all-about-iiebm-pune)**
 - **[Best MBA Colleges in Pune 2026: Rankings, Cutoffs & Fees](/blog/best-mba-colleges-in-pune-2026)**
-- **[AKEMI vs ISMS vs RIIM Pune: MBA/PGDM Comprehensive Comparison](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)**
+- **[AKEMI vs ISMS vs [RIIM Pune](/colleges/riim-pune): MBA/PGDM Comprehensive Comparison](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)**
 - **[Why You Should Avoid High Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)**
 - **[PIBM Pune Review: Placements, Fees & Specializations](/blog/all-about-pibm-pune)**
 
 ---
 
 ### 🎓 Need Expert MBA/PGDM Admission Guidance for Pune Business Schools?
-Confused between IIEBM, PIBM, BIMM, RIIM, and ISMS Pune? Get authentic, unbiased, 1-on-1 profile evaluation, GD-PI tips, and application assistance from Mohit Jain.
+Confused between IIEBM, PIBM, BIMM, RIIM, and [ISMS Pune](/colleges/isms-pune)? Get authentic, unbiased, 1-on-1 profile evaluation, GD-PI tips, and application assistance from Mohit Jain.
 
 👉 **[Click Here to Connect with Our MBA Admission Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20want%20guidance%20for%20IIEBM%20Pune%20PGDM%20Admissions)** or request a free consultation callback.
 

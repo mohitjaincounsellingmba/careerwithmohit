@@ -69,7 +69,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 
 | College Name | Location | Expected NMAT Cutoff Score | Total Fees (Approx) | Average Placement |
 | :--- | :--- | :--- | :--- | :--- |
-| **NMIMS Mumbai (SBM)** | Mumbai | 232+ Scaled Score | ₹24.00 Lakhs | ₹26.63 LPA |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | Mumbai | 232+ Scaled Score | ₹24.00 Lakhs | ₹26.63 LPA |
 | **K J Somaiya Inst. of Mgmt** | Mumbai | 222+ Scaled Score | ₹20.87 Lakhs | ₹12.32 LPA |
 | **TAPMI (Manipal / Bengaluru)** | Bangalore / Manipal | 215+ Scaled Score | ₹16.50 Lakhs | ₹12.80 LPA |
 | **SDA Bocconi Asia Center** | Mumbai | 200+ Scaled Score | ₹19.50 Lakhs | ₹14.30 LPA |

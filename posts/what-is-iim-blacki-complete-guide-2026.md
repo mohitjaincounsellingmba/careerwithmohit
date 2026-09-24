@@ -92,7 +92,7 @@ While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-revi
 *   **Core Strength:** Quantitative Finance, Investment Banking, Private Equity, and Analytics.
 *   **Why It Stands Out:** As the oldest IIM in India, [IIM Calcutta](/colleges/iim-calcutta) holds the prestigious **Triple Crown Accreditation** (AACSB, AMBA, EQUIS). It is globally famous as the "Mecca of Finance," recruiting the highest number of investment bankers and quantitative analysts in the country.
 
-### 4. IIM Lucknow (L) — The Marketing & Consulting Powerhouse
+### 4. [IIM Lucknow](/colleges/iim-lucknow) (L) — The Marketing & Consulting Powerhouse
 *   **Core Strength:** Marketing, Sales, Operations, and Consulting.
 *   **Why It Stands Out:** Being the fourth IIM established in India, IIM Lucknow is famous for its intensive curriculum and massive 200-acre lush green campus. It also operates a dedicated satellite campus in Noida for executive education, providing strong corporate connectivity in **Delhi NCR**.
 
@@ -100,7 +100,7 @@ While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-revi
 *   **Core Strength:** Consulting, Product Management, and General Management.
 *   **Why It Stands Out:** IIM Kozhikode has witnessed meteoric growth in NIRF rankings and international accreditation. It pioneered **gender diversity initiatives** in Indian B-schools, consistently boasting batches with over 40–50% female representation and exceptional placement records.
 
-### 6. IIM Indore (I) — The Pioneer of Integrated Management
+### 6. [IIM Indore](/colleges/iim-indore) (I) — The Pioneer of Integrated Management
 *   **Core Strength:** Sales & Marketing, General Management, and Finance.
 *   **Why It Stands Out:** IIM Indore revolutionized Indian management education by launching the **Integrated Programme in Management (IPM)**—a 5-year BBA+MBA course after Class 12. Its flagship PGP program has one of the largest batch sizes among top B-schools and attracts elite recruiters across all sectors.
 

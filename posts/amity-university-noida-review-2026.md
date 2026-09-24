@@ -157,7 +157,7 @@ Yes, [Amity University, Noida](/colleges/amity-university-noida) is a highly rep
 The annual tuition fee at [Amity University, Noida](/colleges/amity-university-noida) generally ranges between ₹3.50 Lakhs - ₹7.50 Lakhs per annum, depending on the chosen program (MBA, B.Tech, BBA, Law, Computer Science, Biotechnology) and applicable merit scholarships.
 
 ### 3. How can I apply for admission to [Amity University](/colleges/amity-noida), Noida in 2026?
-Admissions for 2026 at Amity University, Noida are conducted based on entrance exams such as CUET, CAT, MAT, XAT, NMAT, JEE Main, Amity JEE / Merit-based, followed by counseling, personal interviews, or merit-based shortlisting.
+Admissions for 2026 at [Amity University, Noida](/colleges/amity-university-noida) are conducted based on entrance exams such as CUET, CAT, MAT, XAT, NMAT, JEE Main, Amity JEE / Merit-based, followed by counseling, personal interviews, or merit-based shortlisting.
 
 ---
 

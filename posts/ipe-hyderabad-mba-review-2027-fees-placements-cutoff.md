@@ -84,7 +84,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Institute of Public Ente
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Institute of Public Enterprise (IPE Hyderabad)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Institute of Public Enterprise (IPE Hyderabad)](/colleges/ipe-hyderabad)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / MAT / CMAT / ATMA / GMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
@@ -105,7 +105,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Institute of Public Enterprise (IPE Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Institute of Public Enterprise](/colleges/institute-of-public-enterprise) (IPE Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.50 LPA**

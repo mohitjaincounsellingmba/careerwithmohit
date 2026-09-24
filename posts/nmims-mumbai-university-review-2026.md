@@ -127,7 +127,7 @@ Life at **[NMIMS Mumbai](/colleges/nmims-mumbai)** extends far beyond traditiona
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to SVKM’s NMIMS (Narsee Monjee Institute of Management Studies) for the 2027–2029 intake follows a structured and merit-oriented process:
+Securing admission to SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) for the 2027–2029 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**NMAT by GMAC (MBA), NPAT (BBA/UG), NMIMS-CET (B.Tech), NLAT (Law)**) or appear for the university's entrance test.
@@ -140,7 +140,7 @@ Securing admission to SVKM’s NMIMS (Narsee Monjee Institute of Management Stud
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[NMIMS Mumbai](/colleges/nmims-mumbai)**:
 
-### 👍 Why Choose NMIMS Mumbai? (Pros)
+### 👍 Why Choose [NMIMS Mumbai](/colleges/nmims-mumbai)? (Pros)
 - **AACSB** Accreditation and NAAC A+ Grade placing NMIMS in the top 1% of global business schools
 - **Exceptional** MBA Core average compensation crossing ₹25 LPA with elite investment bank recruiting
 - **Prime** Vile Parle Mumbai location offering instant access to corporate headquarters and financial leaders

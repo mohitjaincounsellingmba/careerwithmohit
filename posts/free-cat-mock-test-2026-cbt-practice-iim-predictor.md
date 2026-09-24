@@ -81,6 +81,8 @@ To help you benchmark your preparation under authentic exam conditions, **Career
 
 ---
 
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the pattern of the CAT 2026 exam?

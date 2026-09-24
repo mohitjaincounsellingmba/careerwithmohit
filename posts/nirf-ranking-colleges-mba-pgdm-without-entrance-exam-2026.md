@@ -188,10 +188,10 @@ Due to high demand for management seats, fraud cases by fake admission agents ar
 Yes. While top government institutions like IIMs require CAT scores, many high-ranking private universities and AICTE-approved B-schools listed in NIRF offer direct admission via undergraduate merit, university-level interviews, management/corporate quotas, or internal tests.
 
 ### Which NIRF-ranked private universities offer direct MBA admission based on graduation marks?
-Universities like [Amity University](/colleges/amity-noida) (NIRF Top 35), Lovely Professional University (NIRF #38), Chandigarh University (NIRF #36), and [Alliance University](/colleges/alliance-university-bangalore) (NIRF #80) offer direct admission or entrance exemptions to candidates with 80%+ in graduation or strong academic profiles.
+Universities like [Amity University](/colleges/amity-noida) (NIRF Top 35), [Lovely Professional University](/colleges/lovely-professional-university) (NIRF #38), Chandigarh University (NIRF #36), and [Alliance University](/colleges/alliance-university-bangalore) (NIRF #80) offer direct admission or entrance exemptions to candidates with 80%+ in graduation or strong academic profiles.
 
 ### Are online MBA programs from NIRF ranked universities valid without an entrance exam?
-Yes. UGC-DEB approved online MBA programs offered by top NIRF ranked universities like [NMIMS](/colleges/nmims-mumbai) (NIRF #21), Amity Online, DY Patil, and Jain University (NIRF #68) accept candidates based on a bachelor's degree without requiring CAT/XAT scores.
+Yes. UGC-DEB approved online MBA programs offered by top NIRF ranked universities like [NMIMS](/colleges/nmims-mumbai) (NIRF #21), Amity Online, DY Patil, and [Jain University](/colleges/jain-university) (NIRF #68) accept candidates based on a bachelor's degree without requiring CAT/XAT scores.
 
 ### Is management quota legal in NIRF ranked PGDM institutes?
 Yes, AICTE guidelines permit autonomous private B-schools to allocate 15% to 20% of their total intake under Management/NRI/Institutional Quota seats, filled directly based on candidate profile and academic background.
