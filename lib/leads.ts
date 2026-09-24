@@ -31,15 +31,96 @@ export interface LeadItem {
 const LOCAL_STORAGE_KEY = "cwm_captured_leads_v1";
 const BROADCAST_CHANNEL_NAME = "cwm_leads_sync_channel";
 
+export const ACTIVEPIECES_INQUIRY_WEBHOOK_URL = "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
+export const ACTIVEPIECES_TOOLS_WEBHOOK_URL = "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F";
+
+export function isCalculatorOrToolLead(lead: {
+  category?: string;
+  source?: string;
+  course?: string;
+  program?: string;
+  targetExam?: string;
+  details?: Record<string, unknown>;
+  [key: string]: unknown;
+}): boolean {
+  const cat = String(lead.category || (lead as any).Category || "").toLowerCase().trim();
+  if (
+    cat.includes("calculator") ||
+    cat.includes("mock") ||
+    cat.includes("test") ||
+    cat.includes("starterkit") ||
+    cat.includes("assessment") ||
+    cat.includes("diagnostic") ||
+    cat.includes("discount") ||
+    cat.includes("tool")
+  ) {
+    return true;
+  }
+  if (
+    cat.includes("inquiry") ||
+    cat.includes("admission") ||
+    cat.includes("brochure") ||
+    cat.includes("booking") ||
+    cat.includes("newsletter")
+  ) {
+    return false;
+  }
+
+  const s = [
+    lead.source || (lead as any).Source || "",
+    lead.course || (lead as any).Course || "",
+    lead.program || (lead as any).Program || "",
+    lead.targetExam || (lead as any).exam || "",
+    (lead.details as any)?.exam || "",
+    (lead.details as any)?.tool || "",
+  ].join(" ").toLowerCase();
+
+  const toolKeywords = [
+    "calculator",
+    "percentile",
+    "score predictor",
+    "rank predictor",
+    "mock",
+    "cbt",
+    "test series",
+    "scorecard",
+    "solutions",
+    "assessment",
+    "diagnostic",
+    "resume",
+    "ats",
+    "roadmap",
+    "past paper",
+    "exam paper",
+    "answer key",
+    "starter kit",
+    "starter-kit",
+    "discount",
+    "combo",
+    "roi",
+    "eligibility"
+  ];
+
+  return toolKeywords.some((kw) => s.includes(kw));
+}
+
 export function categorizeSource(source: string = ""): LeadItem["category"] {
   const s = source.toLowerCase();
-  if (s.includes("calculator") || s.includes("percentile") || s.includes("score")) return "calculator";
-  if (s.includes("brochure") || s.includes("syllabus") || s.includes("paper download")) return "brochure";
-  if (s.includes("mock") || s.includes("test") || s.includes("exam") || s.includes("certificate") || s.includes("assessment")) return "mocktest";
+  // 1. Direct inquiries, college pages, online degrees & admission forms
+  if (s.includes("inquiry") || s.includes("admission") || s.includes("degree") || s.includes("college page") || s.includes("regional") || s.includes("counseling") || s.includes("counselling")) return "inquiry";
+  // 2. Bookings & Strategy Consultations
   if (s.includes("book") || s.includes("session") || s.includes("calendly") || s.includes("consultation") || s.includes("strategy")) return "booking";
-  if (s.includes("starter") || s.includes("kit") || s.includes("guide")) return "starterkit";
+  // 3. College Brochures & Fees reports
+  if (s.includes("brochure") || s.includes("fee report") || s.includes("syllabus")) return "brochure";
+  // 4. Newsletter subscriptions
   if (s.includes("subscribe") || s.includes("newsletter")) return "newsletter";
-  if (s.includes("degree") || s.includes("pgdm") || s.includes("mba") || s.includes("admission")) return "inquiry";
+  // 5. Calculators & Predictors
+  if (s.includes("calculator") || s.includes("percentile") || s.includes("score") || s.includes("rank predictor")) return "calculator";
+  // 6. Mock tests, CBT tests & scorecards
+  if (s.includes("mock") || s.includes("cbt") || s.includes("test series") || s.includes("assessment") || s.includes("diagnostic")) return "mocktest";
+  // 7. Prep kits & career tools
+  if (s.includes("starter") || s.includes("kit") || s.includes("guide") || s.includes("resume") || s.includes("ats") || s.includes("roadmap") || s.includes("paper download")) return "starterkit";
+  if (s.includes("pgdm") || s.includes("mba") || s.includes("bba") || s.includes("btech") || s.includes("abroad") || s.includes("partner")) return "inquiry";
   return "inquiry";
 }
 
@@ -218,23 +299,17 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
     });
   } catch (e) {}
 
-  // 5. Forward to Activepieces Webhooks for Google Sheets synchronization
-  const fallbackWebhooks = [
-    "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-    "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
-    "https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p",
-  ];
+  // 5. Forward to designated Activepieces Webhook for Google Sheets synchronization
+  const targetWebhook = isCalculatorOrToolLead(cleanLead)
+    ? ACTIVEPIECES_TOOLS_WEBHOOK_URL
+    : ACTIVEPIECES_INQUIRY_WEBHOOK_URL;
 
   try {
-    Promise.allSettled(
-      fallbackWebhooks.map((webhook) =>
-        fetch(webhook, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(flatPayload),
-        })
-      )
-    ).catch(() => {});
+    fetch(targetWebhook, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(flatPayload),
+    }).catch(() => {});
   } catch (err) {}
 
   return { success: true, id };

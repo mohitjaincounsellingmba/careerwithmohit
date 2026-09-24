@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
+import { isCalculatorOrToolLead, ACTIVEPIECES_INQUIRY_WEBHOOK_URL, ACTIVEPIECES_TOOLS_WEBHOOK_URL } from "@/lib/leads";
 
 export const dynamic = "force-static";
 
@@ -78,22 +79,15 @@ export async function POST(request: Request) {
     }
     writeLeadsFile(updated);
 
-    // Forward to Activepieces webhooks
-    const webhooks = [
-      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
-      "https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p",
-    ];
+    // Forward to designated Activepieces webhook
+    const isTool = isCalculatorOrToolLead(fullLead);
+    const targetWebhook = isTool ? ACTIVEPIECES_TOOLS_WEBHOOK_URL : ACTIVEPIECES_INQUIRY_WEBHOOK_URL;
 
-    Promise.allSettled(
-      webhooks.map((w) =>
-        fetch(w, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(fullLead),
-        })
-      )
-    ).catch(() => {});
+    fetch(targetWebhook, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(fullLead),
+    }).catch(() => {});
 
     return NextResponse.json({ success: true, lead: fullLead }, { status: 200 });
   } catch (e: any) {

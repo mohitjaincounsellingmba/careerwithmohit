@@ -6,6 +6,71 @@ type PagesFunction<Bindings = Record<string, unknown>> = (context: { request: Re
 
 const json = (body: unknown, status = 200) => Response.json(body, { status });
 
+const INQUIRY_WEBHOOK_URL = "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3";
+const TOOLS_WEBHOOK_URL = "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F";
+
+function isCalculatorOrTool(lead: Record<string, unknown>): boolean {
+  const cat = String(lead.category || lead.Category || "").toLowerCase().trim();
+  if (
+    cat.includes("calculator") ||
+    cat.includes("mock") ||
+    cat.includes("test") ||
+    cat.includes("starterkit") ||
+    cat.includes("assessment") ||
+    cat.includes("diagnostic") ||
+    cat.includes("discount") ||
+    cat.includes("tool")
+  ) {
+    return true;
+  }
+  if (
+    cat.includes("inquiry") ||
+    cat.includes("admission") ||
+    cat.includes("brochure") ||
+    cat.includes("booking") ||
+    cat.includes("newsletter")
+  ) {
+    return false;
+  }
+
+  const s = [
+    String(lead.source || lead.Source || ""),
+    String(lead.course || lead.Course || ""),
+    String(lead.program || lead.Program || ""),
+    String(lead.targetExam || lead.exam || ""),
+    String((lead.details as any)?.exam || ""),
+    String((lead.details as any)?.tool || ""),
+  ].join(" ").toLowerCase();
+
+  const toolKeywords = [
+    "calculator",
+    "percentile",
+    "score predictor",
+    "rank predictor",
+    "mock",
+    "cbt",
+    "test series",
+    "scorecard",
+    "solutions",
+    "assessment",
+    "diagnostic",
+    "resume",
+    "ats",
+    "roadmap",
+    "past paper",
+    "exam paper",
+    "answer key",
+    "starter kit",
+    "starter-kit",
+    "discount",
+    "combo",
+    "roi",
+    "eligibility"
+  ];
+
+  return toolKeywords.some((kw) => s.includes(kw));
+}
+
 export const onRequestGet: PagesFunction<Env> = async () => {
   return json({ success: true, message: "Leads endpoint operational" });
 };
@@ -71,20 +136,23 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
       "https://cloud.activepieces.com/api/v1/webhooks/LG8KMFgSwrLMGBRVoOOk2",
       "https://cloud.activepieces.com/api/v1/webhooks/5RBKTlNE1jXtKEfs7IMK4",
     ]);
-    const urls = new Set<string>([
-      "https://cloud.activepieces.com/api/v1/webhooks/h3HoLiVtxuydbGOfr11F3",
-      "https://cloud.activepieces.com/api/v1/webhooks/wjKhP0jGALa4bmUVYcw5F",
-      "https://cloud.activepieces.com/api/v1/webhooks/1yBqzhTcnXyDOOBsL9B4p",
-    ]);
 
-    if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
-      urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
-    }
-    if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
-      urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
+    const isTool = isCalculatorOrTool(cleanPayload);
+    const urls = new Set<string>();
+
+    if (isTool) {
+      urls.add(TOOLS_WEBHOOK_URL);
+      if (env.ACTIVEPIECES_GENERAL_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_GENERAL_WEBHOOK)) {
+        urls.add(env.ACTIVEPIECES_GENERAL_WEBHOOK);
+      }
+    } else {
+      urls.add(INQUIRY_WEBHOOK_URL);
+      if (env.ACTIVEPIECES_INQUIRY_WEBHOOK && !deadUrls.has(env.ACTIVEPIECES_INQUIRY_WEBHOOK)) {
+        urls.add(env.ACTIVEPIECES_INQUIRY_WEBHOOK);
+      }
     }
 
-    // Send to all candidate webhooks simultaneously so whichever flow is connected to Google Sheets in Activepieces always receives the lead
+    // Send to designated Activepieces webhook
     const results = await Promise.allSettled(
       Array.from(urls).map((url) =>
         fetch(url, {
@@ -98,7 +166,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     const anySuccess = results.some((r) => r.status === "fulfilled" && r.value.ok);
 
     if (!anySuccess) {
-      console.error("All Activepieces webhooks failed to save the lead");
+      console.error("Activepieces webhook failed to save the lead");
       return json({ success: false, error: "Activepieces webhook failed" }, 502);
     }
 
