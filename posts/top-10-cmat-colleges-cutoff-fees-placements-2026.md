@@ -119,7 +119,7 @@ PUMBA has a well-established alumni network across Pune's corporate ecosystem (I
 
 ---
 
-### 4. K J Somaiya Institute of Management, Mumbai
+### 4. [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai
 
 **CMAT Cutoff:** 95–98+ Percentile  
 **Total Fees:** ₹22–23 Lakhs  

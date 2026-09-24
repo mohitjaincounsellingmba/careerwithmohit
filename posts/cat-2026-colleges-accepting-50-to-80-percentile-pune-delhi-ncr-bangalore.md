@@ -51,9 +51,9 @@ state: Delhi NCR
 # CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **70–80 Percentile Bracket:** FORE School (select streams), BIMTECH Greater Noida, LBSIM, XIME Bangalore, and JagSoM.
-> - **60–70 Percentile Bracket:** NDIM New Delhi, FOSTIIMA Business School, FIIB, JIMS Kalkaji, PIBM Pune, Lexicon MILE, and ISBR Bangalore.
-> - **50–60 Percentile Bracket:** RIIM Pune, GL Bajaj Greater Noida, GNIOT (GIMS), Accurate Institute, GIBS Bangalore, and Jaipuria Jaipur.
+> - **70–80 Percentile Bracket:** FORE School (select streams), BIMTECH Greater Noida, LBSIM, [XIME Bangalore](/colleges/xime-bangalore), and JagSoM.
+> - **60–70 Percentile Bracket:** NDIM New Delhi, FOSTIIMA Business School, FIIB, JIMS Kalkaji, [PIBM Pune](/colleges/pibm-pune), Lexicon MILE, and ISBR Bangalore.
+> - **50–60 Percentile Bracket:** [RIIM Pune](/colleges/riim-pune), GL Bajaj Greater Noida, GNIOT (GIMS), Accurate Institute, GIBS Bangalore, and [Jaipuria Jaipur](/colleges/jaipuria-jaipur).
 
 Every year, over 2.5 lakh candidates appear for the CAT examination. While less than 2% qualify for IIM BLACKI calls, more than **70% of test-takers score between 50 and 80 percentile in CAT 2026**.
 
@@ -74,11 +74,11 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 | **60 – 70 %ile** | **FIIB New Delhi** | New Delhi | ₹12.85 Lakhs | ₹8.50 LPA |
 | **60 – 70 %ile** | **PIBM Pune** | Pune | ₹10.25 Lakhs | ₹7.80 LPA |
 | **60 – 70 %ile** | **Lexicon MILE Pune** | Pune | ₹10.50 Lakhs | ₹8.20 LPA |
-| **60 – 70 %ile** | **ISBR Business School** | Bangalore | ₹10.50 Lakhs | ₹8.50 LPA |
+| **60 – 70 %ile** | **[ISBR Business School](/colleges/isbr-bangalore)** | Bangalore | ₹10.50 Lakhs | ₹8.50 LPA |
 | **50 – 60 %ile** | **RIIM Pune** | Pune | ₹6.90L - ₹8.90L | ₹7.15 LPA |
 | **50 – 60 %ile** | **GNIOT (GIMS)** | Greater Noida | ₹6.78 Lakhs | ₹7.25 LPA |
 | **50 – 60 %ile** | **GL Bajaj Inst. of Mgmt** | Greater Noida | ₹6.90 Lakhs | ₹7.35 LPA |
-| **50 – 60 %ile** | **GIBS Business School** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA |
+| **50 – 60 %ile** | **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA |
 | **50 – 60 %ile** | **Jaipuria Jaipur** | Jaipur | ₹12.75 Lakhs | ₹11.29 LPA |
 
 ---

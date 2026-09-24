@@ -126,16 +126,16 @@ Delhi NCR is India's largest corporate and startup hub, housing top private univ
 Known as the Silicon Valley of India, South Indian management institutes offer outstanding corporate connectivity:
 - **VIT Business School, Vellore (NIRF #55):** Candidates with strong academic credentials in graduation can qualify through VIT's personal interview process.
 - **[Alliance University Bangalore](/colleges/alliance-university-bangalore) (NIRF #80):** Admits candidates through their internal evaluation system (AMAT) and academic profile screening.
-- **Jain University Bangalore (NIRF #68):** Direct application based on graduation scores followed by a personal interaction round.
+- **[Jain University](/colleges/jain-university) Bangalore (NIRF #68):** Direct application based on graduation scores followed by a personal interaction round.
 
 ### 3. Punjab & North Region
-- **Lovely Professional University (NIRF #38):** Features one of the largest management campuses in North India. High scorers in graduation qualify for test exemptions and fee concessions.
+- **[Lovely Professional University](/colleges/lovely-professional-university) (NIRF #38):** Features one of the largest management campuses in North India. High scorers in graduation qualify for test exemptions and fee concessions.
 - **Chandigarh University (NIRF #36):** Grants profile-based direct entry and merit scholarships under its CUCET framework.
 
 ### 4. Top NIRF-Ranked Online MBA Options (100% Exam-Free)
 If you want the prestige of a NIRF-ranked university without leaving your job:
 - **[NMIMS Centre for Distance & Online Education](/colleges/nmims-mumbai) (NIRF #21):** Offers 2-year Online MBA in Finance, Marketing, HR, and Analytics without entrance exam barriers.
-- **Amity University Online:** UGC-DEB recognized 2-year online MBA with global faculty.
+- **[Amity University](/colleges/amity-noida) Online:** UGC-DEB recognized 2-year online MBA with global faculty.
 - **DY Patil University Online (NIRF Ranked):** Flexible online program with zero entrance requirement.
 
 ---
@@ -231,6 +231,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

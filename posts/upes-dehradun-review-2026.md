@@ -138,7 +138,7 @@ Securing admission to UPES (University of Petroleum and Energy Studies), Dehradu
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **UPES Dehradun**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[UPES Dehradun](/colleges/upes-dehradun)**:
 
 ### 👍 Why Choose UPES Dehradun? (Pros)
 - **Unrivaled** domain specializations in Energy, Oil & Gas, Supply Chain Logistics, and Aviation Management

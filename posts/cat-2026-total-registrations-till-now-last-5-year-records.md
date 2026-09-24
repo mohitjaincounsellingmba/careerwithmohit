@@ -59,11 +59,11 @@ To appreciate the scale of competition for CAT 2026, examining the official numb
 
 | CAT Exam Year | Conducting IIM | Total Registered Candidates | Total Appeared Candidates | Non-Attendees (Absent) | Attendance Percentage | YoY Registration Growth |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CAT 2024** | **IIM Calcutta** | **3,29,000** | **2,93,000** | 36,000 | **89.06%** | +0.30% |
-| **CAT 2023** | **IIM Lucknow** | **3,28,000** | **2,88,000** | 40,000 | **87.80%** | +28.37% |
-| **CAT 2022** | **IIM Bangalore** | **2,55,501** | **2,22,184** | 33,317 | **86.96%** | +11.10% |
-| **CAT 2021** | **IIM Ahmedabad** | **2,29,969** | **1,91,660** | 38,309 | **83.34%** | +0.94% |
-| **CAT 2020** | **IIM Indore** | **2,27,835** | **1,90,144** | 37,691 | **83.46%** | -6.69% |
+| **CAT 2024** | **[IIM Calcutta](/colleges/iim-calcutta)** | **3,29,000** | **2,93,000** | 36,000 | **89.06%** | +0.30% |
+| **CAT 2023** | **[IIM Lucknow](/colleges/iim-lucknow)** | **3,28,000** | **2,88,000** | 40,000 | **87.80%** | +28.37% |
+| **CAT 2022** | **[IIM Bangalore](/colleges/iim-bangalore)** | **2,55,501** | **2,22,184** | 33,317 | **86.96%** | +11.10% |
+| **CAT 2021** | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | **2,29,969** | **1,91,660** | 38,309 | **83.34%** | +0.94% |
+| **CAT 2020** | **[IIM Indore](/colleges/iim-indore)** | **2,27,835** | **1,90,144** | 37,691 | **83.46%** | -6.69% |
 | *CAT 2019 (Ref)* | *IIM Kozhikode* | *2,44,169* | *2,09,926* | *34,243* | *85.98%* | *+1.02%* |
 
 ### Critical Observations from the 5-Year Data:
@@ -86,7 +86,7 @@ Diversity has been a focal point for Indian Institutes of Management. Many top I
 | **CAT 2020** | 1,52,650 | 75,180 | 5 | 1,27,396 | 62,744 | 4 | **33.00%** |
 
 ### Why Female Applications Are Surging:
-1. **Academic & Gender Diversity Policies**: IIM Rohtak, IIM Kozhikode, and IIM Kashipur have championed batches with 40% to 60%+ women cohorts.
+1. **Academic & Gender Diversity Policies**: [IIM Rohtak](/colleges/iim-rohtak), IIM Kozhikode, and [IIM Kashipur](/colleges/iim-kashipur) have championed batches with 40% to 60%+ women cohorts.
 2. **Corporate Hiring Incentives**: Top recruiters, management consultancies, and FMCG conglomerates actively seek balanced managerial cohorts during summer and final campus placements.
 3. **Scholarships & Women-Focused Fellowships**: Prominent institutions provide dedicated financial aid and merit scholarships for female scholars.
 
@@ -141,10 +141,10 @@ The CAT exam pattern has consolidated into a 2-hour test consisting of 66 questi
 
 | Target Percentile | Estimated Raw Score (Out of 198) | Net Correct Questions Needed | Approximate Accuracy Recommended | Target Tier / Colleges |
 | :--- | :--- | :--- | :--- | :--- |
-| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS Delhi |
+| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | IIM Ahmedabad, IIM Bangalore, IIM Calcutta, [FMS Delhi](/colleges/fms-delhi) |
 | **99.0+ %ile** | **76 – 82 Marks** | 26 – 28 Net Correct | 85%+ Accuracy | IIM Lucknow, IIM Kozhikode, IIM Indore, SPJIMR |
-| **95.0+ %ile** | **55 – 62 Marks** | 19 – 22 Net Correct | 85%+ Accuracy | MDI Gurgaon, New IIMs (Udaipur, Trichy, Raipur, Ranchi) |
-| **90.0+ %ile** | **42 – 48 Marks** | 15 – 17 Net Correct | 80%+ Accuracy | Baby IIMs, IMT Ghaziabad, FORE School of Management, GIM Goa |
+| **95.0+ %ile** | **55 – 62 Marks** | 19 – 22 Net Correct | 85%+ Accuracy | [MDI Gurgaon](/colleges/mdi-gurgaon), New IIMs (Udaipur, Trichy, Raipur, Ranchi) |
+| **90.0+ %ile** | **42 – 48 Marks** | 15 – 17 Net Correct | 80%+ Accuracy | Baby IIMs, IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi), GIM Goa |
 | **85.0+ %ile** | **34 – 39 Marks** | 12 – 14 Net Correct | 80%+ Accuracy | TAPMI, Great Lakes Chennai, BIMTECH, Lal Bahadur Shastri (LBSIM) |
 
 ---
@@ -159,9 +159,9 @@ When competing against 3 lakh aspirants, having a clear view of your target inst
 | **IIM Ahmedabad (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
 | **IIM Bangalore (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
 | **IIM Calcutta (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
-| **SPJIMR Mumbai (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai) (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
 | **MDI Gurgaon (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
-| **IIT Bombay (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |
+| **[IIT Bombay](/colleges/iit-bombay) (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |
 | **IIT Delhi (DMS)** | ₹12.00 Lakhs | ₹25.82 LPA | Exceptional Corporate ROI · CAT 98.0+ %ile · Open to multiple streams |
 
 ---

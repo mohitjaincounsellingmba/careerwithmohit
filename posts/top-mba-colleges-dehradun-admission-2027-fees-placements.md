@@ -38,7 +38,7 @@ state: Delhi NCR
 # Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top B-Schools in Uttarakhand:** Doon Business School (DBS), UPES School of Business, Graphic Era University, and Uttaranchal University.
+> - **Top B-Schools in Uttarakhand:** [Doon Business School](/colleges/doon-business-school) (DBS), UPES School of Business, Graphic Era University, and [Uttaranchal University](/colleges/uttaranchal-university).
 > - **Specialized Programs:** Energy Management, Oil & Gas, Aviation Management, Digital Business, and Agri-Business.
 > - **Exam Acceptance:** CAT 2026, XAT exam, MAT, CMAT, and Direct GD-PI merit evaluations.
 
@@ -54,7 +54,7 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 | **UPES School of Business, Dehradun** | ₹16.50 Lakhs | ₹9.20 LPA | UPESMET / CAT 2026 / XAT / MAT / CMAT |
 | **Graphic Era University (GEU Dehradun)** | ₹7.17 Lakhs | ₹6.50 LPA | CAT 2026 / MAT / CMAT / Merit Admission |
 | **Uttaranchal University, Dehradun** | ₹4.80 Lakhs | ₹5.20 LPA | Direct Merit / MAT / CMAT / CAT 2026 |
-| **Quantum University, Roorkee** | ₹3.80 Lakhs | ₹4.80 LPA | Direct Admission / Q-Care / MAT |
+| **[Quantum University](/colleges/quantum-university-roorkee), Roorkee** | ₹3.80 Lakhs | ₹4.80 LPA | Direct Admission / Q-Care / MAT |
 
 ---
 

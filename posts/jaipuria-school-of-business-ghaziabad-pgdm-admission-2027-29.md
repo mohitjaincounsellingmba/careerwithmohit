@@ -75,7 +75,7 @@ location: Ghaziabad
 state: Pan India
 ---
 
-# Jaipuria School of Business (JSB) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.50 Lakhs (Total)** (**₹4.25 Lakhs per Year**). Jaipuria Legacy Merit Scholarships up to ₹1.00 Lakh on entrance percentiles.

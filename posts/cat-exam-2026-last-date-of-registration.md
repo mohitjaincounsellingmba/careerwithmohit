@@ -147,10 +147,10 @@ Follow these five steps before the registration last date:
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **IIM Ahmedabad** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
-| **FMS Delhi** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
-| **SPJIMR Mumbai** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
-| **MDI Gurgaon** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
+| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU Equivalent |
 | **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/CMAT (65%+ %ile) · IIM-A Alumni Faculty |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |

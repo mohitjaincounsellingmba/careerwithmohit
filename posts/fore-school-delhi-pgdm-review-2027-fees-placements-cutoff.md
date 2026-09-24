@@ -56,7 +56,7 @@ location: Delhi
 state: Delhi NCR
 ---
 
-# FORE School of Management (Qutab Institutional Area Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [FORE School of Management](/colleges/fore-school-delhi) (Qutab Institutional Area Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, XAT, GMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 420 Seats across PGDM specializations**.
@@ -184,8 +184,8 @@ To help you assess comparative ROI, here is how FORE School of Management compar
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **FORE School of Management** | **₹18.50 – ₹19.50 Lakhs (2 Years Full-Time PGDM)** | **₹14.50 – ₹15.00 LPA** | CAT/XAT/GMAT · CAT: 85–87 Percentile |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

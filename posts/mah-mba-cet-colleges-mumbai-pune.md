@@ -111,7 +111,7 @@ Mumbai, the financial capital of India, is home to some of the highest-ranked B-
     *   **MAH CET Cutoff**: 99.97 Percentile
     *   **Total Fees**: ₹1.40 Lakhs (Best ROI)
     *   **Avg. Placement**: ₹15.19 LPA
-*   **K J Somaiya Institute of Management**
+*   **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai)**
     *   **MAH CET Cutoff**: 98+ Percentile
     *   **Total Fees**: ₹22.32 Lakhs
     *   **Avg. Placement**: ₹12.45 LPA
@@ -189,6 +189,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

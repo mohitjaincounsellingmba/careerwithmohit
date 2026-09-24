@@ -23,7 +23,7 @@ location: 'Pan India'
 state: 'Pan India'
 ---
 
-The **Common Admission Test (CAT 2026)** is India's most prestigious entrance examination for securing admission into the 21 Indian Institutes of Management (IIMs), FMS Delhi, SPJIMR Mumbai, and other elite business schools.
+The **Common Admission Test (CAT 2026)** is India's most prestigious entrance examination for securing admission into the 21 Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and other elite business schools.
 
 Because the conducting IIMs do not publish an official syllabus manual, many aspirants squander months studying irrelevant topics. 
 

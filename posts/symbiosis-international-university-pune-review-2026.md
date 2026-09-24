@@ -83,7 +83,7 @@ Symbiosis International (Deemed University), headquartered at its stunning Laval
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-Symbiosis International (Deemed University) (SIBM Pune, SCMHRD, SIIB) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+Symbiosis International (Deemed University) ([SIBM Pune](/colleges/sibm-pune), SCMHRD, SIIB) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |

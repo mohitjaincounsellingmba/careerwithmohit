@@ -82,7 +82,7 @@ state: Delhi NCR
 > - **Verified Total Fee Investment**: **₹12,85,000** for the 2-year full-time curriculum, payable across 4 installments.
 > - **Placement & ROI Benchmark**: 96% placement rate with an overall average of **₹8.50 – ₹9.00 LPA** (Top 20% average: **₹14.00 LPA**; Highest package: **₹20.00 – ₹25.92 LPA**) across 130+ corporate partners.
 
-For management aspirants targeting Delhi NCR business schools that combine international academic rigor with modern analytics curricula, **Fortune Institute of International Business (FIIB), South Delhi** is frequently evaluated. Established in 1995, FIIB has developed a distinctive identity centered on global immersion, digital transformation, and business analytics.
+For management aspirants targeting Delhi NCR business schools that combine international academic rigor with modern analytics curricula, **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB), South Delhi** is frequently evaluated. Established in 1995, FIIB has developed a distinctive identity centered on global immersion, digital transformation, and business analytics.
 
 Situated in the upscale diplomatic enclave of **Vasant Vihar (South Delhi)**, FIIB is an **AACSB Business Education Alliance member**, accredited by the **National Board of Accreditation (NBA)**, and granted **AIU MBA Equivalence**. But with an overall fee of approximately ₹12.85 Lakhs, does FIIB justify the investment for the upcoming **2027–2029 session**?
 

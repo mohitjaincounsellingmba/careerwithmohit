@@ -84,7 +84,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 
 ## 🏆 Top Tier-1 Colleges Without CAT (Exam-Wise Breakdown)
 
-### 1. XLRI Jamshedpur & XLRI Delhi NCR (Accepts XAT & GMAT)
+### 1. [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi NCR (Accepts XAT & GMAT)
 *   **Programs:** PGDM (Business Management) & PGDM (Human Resource Management).
 *   **Average Placement:** ₹32.70 LPA | Highest: ₹75.00 LPA | Total Fees: ₹28.50 Lakhs.
 *   **Why It's Elite:** XLRI is Asia's oldest management institute and is considered the undisputed #1 B-school in India for HR, with BM placements on par with [IIM Ahmedabad](/colleges/iim-ahmedabad) and Calcutta.
@@ -143,7 +143,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best MBA college in India without CAT?
-XLRI Jamshedpur (via XAT), SIBM Pune and SCMHRD (via SNAP), [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT), and [JBIMS Mumbai](/colleges/jbims-mumbai) (via MAH MBA CET) are among India's top B-schools that do not require CAT.
+XLRI Jamshedpur (via XAT), [SIBM Pune](/colleges/sibm-pune) and SCMHRD (via SNAP), [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT), and [JBIMS Mumbai](/colleges/jbims-mumbai) (via MAH MBA CET) are among India's top B-schools that do not require CAT.
 
 ### Which top MBA colleges accept XAT scores?
 Apart from XLRI Jamshedpur & Delhi NCR, institutes like [SPJIMR Mumbai](/colleges/spjimr-mumbai), XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes accept XAT.

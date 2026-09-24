@@ -37,7 +37,7 @@ For students planning **2027-29 MBA/PGDM admission**, Indore and Bhopal feature 
 
 | College Name | Location | Accepted Exams | Total Fees (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **IIM Indore** | Indore | CAT (97+ %ile) | ₹21.16 Lakhs | ₹25.68 LPA |
+| **[IIM Indore](/colleges/iim-indore)** | Indore | CAT (97+ %ile) | ₹21.16 Lakhs | ₹25.68 LPA |
 | **Jaipuria Inst. of Mgmt** | Indore | CAT/XAT/MAT/CMAT | ₹11.50 Lakhs | ₹9.50 LPA |
 | **IMS DAVV (Devi Ahilya Univ)** | Indore | CMAT (85+ %ile) | ₹1.40 Lakhs | ₹6.80 LPA |
 | **Prestige Inst. (PIMR)** | Indore | CMAT / MAT / CAT | ₹2.80 Lakhs | ₹6.00 LPA |

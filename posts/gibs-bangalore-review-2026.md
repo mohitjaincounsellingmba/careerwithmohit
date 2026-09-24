@@ -41,7 +41,7 @@ state: Karnataka
 # GIBS Bangalore MBA & PGDM Review 2026: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Flagship Programs & Approvals**: GIBS Business School Bangalore offers an AICTE-approved 2-year full-time **PGDM** and a UGC-recognized **MBA** (affiliated with Bangalore University) with dual specializations.
+> - **Flagship Programs & Approvals**: [GIBS Business School](/colleges/gibs-bangalore) Bangalore offers an AICTE-approved 2-year full-time **PGDM** and a UGC-recognized **MBA** (affiliated with Bangalore University) with dual specializations.
 > - **Verified Fees & ROI Benchmark**: Total 2-year PGDM fees are **₹11.25 Lakhs** (MBA ~**₹9.75 Lakhs**). With an average CTC of **₹8.40 – ₹9.50 LPA** (Highest **₹20.00 – ₹22.00 LPA**) and 300+ recruiters, students typically achieve complete tuition payback within 18–24 months.
 > - **Core USPs & Corporate Immersion**: Unique pedagogy backed by the **GIBS Finishing School** (CPPS/CPMP) and the **IRE (Innovation, Research & Entrepreneurship) Incubation Centre**, driving a **28% PPO conversion rate** across BFSI, Consulting, Tech, and FMCG sectors.
 

@@ -79,7 +79,7 @@ These are the absolute best Business Schools in the country. Graduating from her
 | **4** | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | XAT | ₹32.70 LPA | ₹23 Lakhs |
 | **5** | **ISB Hyderabad** | GMAT / GRE | ₹34.21 LPA | ₹41 Lakhs |
 | **6** | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹33.02 LPA | ₹22 Lakhs |
-| **7** | **IIM Lucknow** | CAT | ₹32.20 LPA | ₹20 Lakhs |
+| **7** | **[IIM Lucknow](/colleges/iim-lucknow)** | CAT | ₹32.20 LPA | ₹20 Lakhs |
 | **8** | **IIM Kozhikode** | CAT | ₹31.02 LPA | ₹20 Lakhs |
 | **9** | **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹34.10 LPA | ₹2 Lakhs |
 | **10** | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | CAT | ₹27.67 LPA | ₹24 Lakhs |

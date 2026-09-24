@@ -146,7 +146,7 @@ Securing admission to Management Development Institute (MDI), Gurugram for the 2
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[MDI Gurgaon](/colleges/mdi-gurgaon)**:
 
-### 👍 Why Choose MDI Gurgaon? (Pros)
+### 👍 Why Choose [MDI Gurgaon](/colleges/mdi-gurgaon)? (Pros)
 - **Stellar** average compensation above ₹26 LPA, competing directly with top IIMs and XLRI
 - **Prime** location in central Gurugram providing direct access to Fortune 500 headquarters
 - **AACSB,** AMBA, and SAQS international accreditations signifying world-class quality

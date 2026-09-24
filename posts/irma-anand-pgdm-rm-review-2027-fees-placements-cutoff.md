@@ -34,7 +34,7 @@ location: Anand
 state: Gujarat
 ---
 
-# Institute of Rural Management Anand (IRMA) (Anand Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [Institute of Rural Management Anand (IRMA)](/colleges/irma-anand) (Anand Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, XAT, CMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **240 Seats**.
@@ -47,7 +47,7 @@ When management aspirants shortlist premier non-IIM and top-tier private busines
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
-In this comprehensive, data-verified **Institute of Rural Management Anand (IRMA) review for 2027 admissions**, we dissect the **latest audited placement report, revised 2027–2029 fee structure, entrance exam cutoffs, curriculum highlights, pros & cons, and peer comparisons**.
+In this comprehensive, data-verified **[Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA) review for 2027 admissions**, we dissect the **latest audited placement report, revised 2027–2029 fee structure, entrance exam cutoffs, curriculum highlights, pros & cons, and peer comparisons**.
 
 ---
 
@@ -162,8 +162,8 @@ To help you assess comparative ROI, here is how Institute of Rural Management An
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Institute of Rural Management Anand (IRMA)** | **₹18.60 Lakhs (2 Years Complete Residential including field immersions)** | **₹15.50 – ₹16.10 LPA** | CAT/XAT/CMAT · CAT: 80–85 Percentile |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

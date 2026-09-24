@@ -54,11 +54,11 @@ To understand IIEBM’s value proposition in quantitative terms, here is a compa
 | :--- | :--- | :--- | :--- |
 | **IIEBM Pune (Core PGDM)** | ₹8.95 Lakhs – ₹9.85 Lakhs | ₹7.95 LPA | **High ROI**: Fast 14-month breakeven; CAT/XAT (60%+), CMAT/MAT (70%+) |
 | **IIEBM Pune (PGDM + SAP ERP)** | ₹11.90 Lakhs | ₹10.25 LPA | **Very High ROI**: Direct ERP consulting entry; Top offer ₹34.0 LPA |
-| **PIBM Pune** | ₹9.45 Lakhs – ₹10.25 Lakhs | ₹7.80 LPA | **Moderate-High ROI**: Strong PM & Sales track; CAT/XAT/MAT/CMAT |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs – ₹10.25 Lakhs | ₹7.80 LPA | **Moderate-High ROI**: Strong PM & Sales track; CAT/XAT/MAT/CMAT |
 | **Balaji Institute (BIMM Pune)** | ₹12.85 Lakhs – ₹14.00 Lakhs | ₹8.60 LPA | **Moderate ROI**: High batch size (1000+ across society); CAT/MAT/XAT |
-| **RIIM Pune** | ₹6.50 Lakhs – ₹8.50 Lakhs | ₹6.80 LPA | **High Budget ROI**: Affordable fee structure; MAT/ATMA/CMAT |
+| **[RIIM Pune](/colleges/riim-pune)** | ₹6.50 Lakhs – ₹8.50 Lakhs | ₹6.80 LPA | **High Budget ROI**: Affordable fee structure; MAT/ATMA/CMAT |
 | **Lexicon MILE Pune** | ₹9.10 Lakhs – ₹9.80 Lakhs | ₹7.50 LPA | **Moderate ROI**: Corporate grooming modules; CAT/MAT/XAT/CMAT |
-| **ISMS Pune** | ₹6.50 Lakhs – ₹8.00 Lakhs | ₹6.50 LPA | **Moderate ROI**: Triple certification tracks; National exam entrance |
+| **[ISMS Pune](/colleges/isms-pune)** | ₹6.50 Lakhs – ₹8.00 Lakhs | ₹6.50 LPA | **Moderate ROI**: Triple certification tracks; National exam entrance |
 
 ---
 

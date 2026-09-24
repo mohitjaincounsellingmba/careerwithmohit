@@ -245,7 +245,7 @@ Here is the tier-wise list of top Symbiosis International University colleges, a
 
 ## ⚠️ 5 Costly Mistakes to Avoid During SNAP 2026 Registration
 
-1. **Forgetting to Select & Pay for Institutes:** Registering for the SNAP exam alone does **NOT** automatically apply you to SIBM Pune or SCMHRD. You must select each desired institute in the form and pay ₹1,000 per program before their respective deadlines.
+1. **Forgetting to Select & Pay for Institutes:** Registering for the SNAP exam alone does **NOT** automatically apply you to [SIBM Pune](/colleges/sibm-pune) or SCMHRD. You must select each desired institute in the form and pay ₹1,000 per program before their respective deadlines.
 2. **Waiting for the Last Date:** With over 1.4 lakh applicants registering for limited test slots, regional test centers fill up rapidly. Applying early ensures you receive your preferred test city and slot.
 3. **Registering for Only 1 Attempt:** Since SNAP is a speed-based exam where variance can occur due to unfamiliar questions, taking **2 or 3 attempts** maximizes your chances of scoring 98+ percentile. SIU automatically considers your **best score**.
 4. **Mismatch in Name / ID Proof:** Ensure your name exactly matches your official Government ID proof (Aadhar Card / PAN Card / Passport) and 10th-grade certificate.

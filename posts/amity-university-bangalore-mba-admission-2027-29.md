@@ -40,7 +40,7 @@ location: Bangalore
 state: Pan India
 ---
 
-# Amity University Bengaluru Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Amity University](/colleges/amity-noida) Bengaluru Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.52 Lakhs (Total)** (**₹5.76 Lakhs per Year**). Up to 100% merit scholarships based on graduation marks and entrance test scores.

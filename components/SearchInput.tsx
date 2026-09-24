@@ -5,7 +5,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Search, Building2, MapPin, ArrowRight, X } from "lucide-react";
 
-import { FEATURED_DIRECTORY_COLLEGES } from "@/components/HomeCollegeExplorer";
+import { FEATURED_DIRECTORY_COLLEGES } from "@/lib/featuredColleges";
 
 interface CollegeMini {
   slug: string;

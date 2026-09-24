@@ -28,7 +28,7 @@ faqs:
       The base salary floor at Baby IIMs in 2025 was recorded between INR 10.5 LPA and INR 12.5 LPA, ensuring strong downside protection even during conservative economic cycles.
 ---
 
-Established between 2015 and 2016 under the **IIM Act, 2017**, the **Baby IIMs**—comprising **IIM Nagpur, IIM Amritsar, IIM Visakhapatnam (Vizag), IIM Sambalpur, IIM Jammu, IIM Bodh Gaya, and IIM Sirmaur**—have completed nearly a decade of institutional existence.
+Established between 2015 and 2016 under the **IIM Act, 2017**, the **Baby IIMs**—comprising **[IIM Nagpur](/colleges/iim-nagpur), [IIM Amritsar](/colleges/iim-amritsar), IIM Visakhapatnam (Vizag), [IIM Sambalpur](/colleges/iim-sambalpur), [IIM Jammu](/colleges/iim-jammu), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), and [IIM Sirmaur](/colleges/iim-sirmaur)**—have completed nearly a decade of institutional existence.
 
 The **2025 placement reports** from these third-generation IIMs demonstrate impressive upward mobility. With permanent campuses operational, rapidly expanding corporate alumni networks, and lower tuition costs than comparable private B-schools, Baby IIMs are no longer emerging experiments—they are established Tier-1.5 powerhouses.
 
@@ -108,7 +108,7 @@ A critical dilemma for CAT test-takers with 90–96 percentiles is whether to ch
 ## 4. Summary & Actionable Advice
 
 1. **Aim for 92–95 Percentile**: To secure calls from Baby IIMs through the Common Admission Process (CAP), target an overall CAT percentile above 92, with balanced 75+ sectional percentiles.
-2. **Explore Specialized Tracks**: Programs like MBA-BA at IIM Amritsar or MBA-Analytics at IIM Kashipur often see higher median starting salaries.
+2. **Explore Specialized Tracks**: Programs like MBA-BA at IIM Amritsar or MBA-Analytics at [IIM Kashipur](/colleges/iim-kashipur) often see higher median starting salaries.
 3. **Check the Complete 21 IIMs Report**: Read our **[All IIM Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)** for the national benchmark.
 4. **Evaluate Cutoffs**: Read our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)** to plan your prep.
 

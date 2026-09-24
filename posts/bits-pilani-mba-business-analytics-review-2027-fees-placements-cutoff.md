@@ -34,7 +34,7 @@ location: Pilani
 state: Rajasthan
 ---
 
-# Department of Management, BITS Pilani (Pilani Campus, Vidya Vihar) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# Department of Management, [BITS Pilani](/colleges/bits-pilani) (Pilani Campus, Vidya Vihar) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via BAAT (BITS Exam), CAT, XAT, GMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 80–90 Seats (Boutique High-Caliber Cohort)**.
@@ -162,8 +162,8 @@ To help you assess comparative ROI, here is how Department of Management, BITS P
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Department of Management, BITS Pilani** | **₹11.50 – ₹13.50 Lakhs (Total 2-Year Residential MBA including hostel & mess)** | **₹13.50 – ₹14.20 LPA** | BAAT (BITS Exam)/CAT/XAT/GMAT · BAAT (Business Analytics Aptitude Test conducted by BITS Pilani) + CAT / XAT: 75–80+ %ile for initial shortlisting |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

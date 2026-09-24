@@ -18,7 +18,7 @@ faqs:
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Silicon Valley Ecosystem**: Unmatched access to tech multinationals, analytics consulting giants, AI startups, and product management roles across Electronic City, Whitefield, and Outer Ring Road.
-> - **Exam Cutoffs**: 99+ percentile in CAT for IIM Bangalore; 88–90 percentile in SNAP for SIBM Bangalore; 55–75 percentile in MAT/CMAT/ATMA/KMAT for leading Tier-2 PGDM colleges.
+> - **Exam Cutoffs**: 99+ percentile in CAT for [IIM Bangalore](/colleges/iim-bangalore); 88–90 percentile in SNAP for [SIBM Bangalore](/colleges/sibm-bangalore); 55–75 percentile in MAT/CMAT/ATMA/KMAT for leading Tier-2 PGDM colleges.
 > - **Fee & Placement Range**: Tier-2 Bangalore B-Schools range from ₹9.0 Lakhs to ₹12.5 Lakhs with average placement packages from ₹8.0 LPA to ₹10.5 LPA.
 
 ---
@@ -29,10 +29,10 @@ faqs:
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Bangalore** | Bannerghatta Road | ₹24.50 Lakhs | ₹33.50 LPA | CAT (99.0+ %ile) |
 | **SIBM Bangalore** | Electronic City | ₹19.50 Lakhs | ₹13.48 LPA | SNAP (88–90 %ile) |
-| **XIME Bangalore** | Electronic City Phase 2 | ₹13.00 Lakhs | ₹10.30 LPA | XAT/CAT/CMAT/MAT (75+ %ile) |
-| **ISBR Business School** | Electronic City Phase 1 | ₹10.50 Lakhs | ₹8.20 LPA | CAT/MAT/XAT/CMAT/KMAT (60%+ %ile) |
-| **Indus Business Academy (IBA)** | Kanakapura Main Road | ₹9.50 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA (65%+ %ile) |
-| **ISME Bangalore** | Sarjapur Road | ₹9.40 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/KMAT |
+| **[XIME Bangalore](/colleges/xime-bangalore)** | Electronic City Phase 2 | ₹13.00 Lakhs | ₹10.30 LPA | XAT/CAT/CMAT/MAT (75+ %ile) |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | Electronic City Phase 1 | ₹10.50 Lakhs | ₹8.20 LPA | CAT/MAT/XAT/CMAT/KMAT (60%+ %ile) |
+| **[Indus Business Academy (IBA)](/colleges/iba-bangalore)** | Kanakapura Main Road | ₹9.50 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA (65%+ %ile) |
+| **[ISME Bangalore](/colleges/isme-bangalore)** | Sarjapur Road | ₹9.40 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/KMAT |
 | **Alliance School of Business** | Anekal, Bengaluru | ₹15.00 Lakhs | ₹8.50 LPA | AMAT / CAT / MAT / CMAT |
 | **Christ University (SBM)** | Hosur Road / Kengeri | ₹8.50L – ₹10.50L | ₹8.25 LPA | CAT/MAT/XAT/CMAT/CUET |
 | **Welingkar (WeSchool) Bengaluru** | Electronic City Phase 1 | ₹14.50 Lakhs | ₹11.50 LPA | CAT/XAT/CMAT/ATMA (75+ %ile) |

@@ -84,7 +84,7 @@ When IIMs release their admission policies on their websites, they display the *
 | | [IIM Shillong](/colleges/iim-colleges-placements-fees-selection-2026) | 75 %ile | **96.5+ %ile** | 88 – 92 %ile | 70 – 75 %ile |
 | | [IIM Udaipur](/colleges/iim-udaipur-bba-program-2026), Ranchi, Raipur, Trichy, Kashipur | 92 %ile (CAP) | **94.0 – 95.5+ %ile** | 74 – 78 %ile | 54 – 60 %ile |
 | | [IIM Rohtak](/colleges/iim-rohtak-ipm-bba-admission-2026) (Own PI) | 95 %ile | **96.0+ %ile** | 86 – 90 %ile | 65 – 72 %ile |
-| **Baby IIMs** | IIM Nagpur, Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur, Sirmaur | 92 %ile (CAP) | **92.5 – 94.0+ %ile** | 74 – 78 %ile | 50 – 58 %ile |
+| **Baby IIMs** | [IIM Nagpur](/colleges/iim-nagpur), Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur, Sirmaur | 92 %ile (CAP) | **92.5 – 94.0+ %ile** | 74 – 78 %ile | 50 – 58 %ile |
 
 ---
 
@@ -115,7 +115,7 @@ Your scaled score is compared against the highest scaled score in that year's ex
 $$\text{CAT Score Weight} = \left(\frac{\text{Candidate Scaled Score}}{\text{Highest Scaled Score}}\right) \times \text{Assigned Weight}$$
 
 ### 2. Past Academic Performance (10th, 12th & Graduation: 20% to 35% Weightage)
-*   **[IIM Bangalore](/colleges/iim-bangalore) & IIM Indore** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
+*   **[IIM Bangalore](/colleges/iim-bangalore) & [IIM Indore](/colleges/iim-indore)** place the heaviest premium on board marks. Having 90%+ in both 10th and 12th gives maximum points.
 *   **[IIM Calcutta](/colleges/iim-calcutta) & [IIM Ahmedabad](/colleges/iim-ahmedabad)** apply board normalization formulas to ensure fairness across state and central CBSE/ICSE boards.
 
 ### 3. Work Experience Tenure (5% to 10% Weightage)
@@ -133,7 +133,7 @@ To prevent classrooms from being dominated solely by engineering backgrounds (GE
 *   Law, Chartered Accountancy (CA), and CS.
 
 ### 5. Gender Diversity Points (2% to 5% Bonus)
-Female and transgender applicants receive direct bonus points at IIM Kozhikode, IIM Rohtak, IIM Lucknow, and several Baby IIMs to foster gender balance.
+Female and transgender applicants receive direct bonus points at IIM Kozhikode, [IIM Rohtak](/colleges/iim-rohtak), [IIM Lucknow](/colleges/iim-lucknow), and several Baby IIMs to foster gender balance.
 
 ---
 
@@ -141,7 +141,7 @@ Female and transgender applicants receive direct bonus points at IIM Kozhikode, 
 
 Instead of forcing candidates to travel for 10 separate interviews, the New and Baby IIMs coordinate under a single window called the **Common Admission Process (CAP)**:
 
-*   **Participating IIMs:** IIM Udaipur, IIM Ranchi, IIM Raipur, IIM Trichy, IIM Kashipur, IIM Nagpur, IIM Bodh Gaya, IIM Jammu, IIM Sambalpur, and IIM Sirmaur.
+*   **Participating IIMs:** [IIM Udaipur](/colleges/iim-udaipur), [IIM Ranchi](/colleges/iim-ranchi), [IIM Raipur](/colleges/iim-raipur), IIM Trichy, [IIM Kashipur](/colleges/iim-kashipur), IIM Nagpur, [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sambalpur](/colleges/iim-sambalpur), and [IIM Sirmaur](/colleges/iim-sirmaur).
 *   **How It Works:** A single online PI & WAT is conducted by the coordinating IIM. Each participating IIM then takes those interview scores and applies their individual institutional weights to publish their final merit list!
 
 ---

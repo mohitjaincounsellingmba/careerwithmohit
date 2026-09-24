@@ -55,7 +55,7 @@ state: Delhi NCR
 # NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Flagship Destination:** NMIMS Mumbai (SBM) requires a 232+ scaled score with sectional balance.
+> - **Flagship Destination:** [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) requires a 232+ scaled score with sectional balance.
 > - **Top Non-NMIMS Alternatives:** K J Somaiya (Mumbai), TAPMI (Bengaluru/Manipal), SDA Bocconi (Mumbai), SOIL Gurgaon, and JagSoM (Bangalore).
 > - **Score Validity & Retakes:** GMAC allows up to 3 attempts in the 75-day testing window (October to December).
 
@@ -77,7 +77,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 | **SOIL Institute of Management** | Gurgaon (Delhi NCR) | 195+ Scaled Score | ₹15.30 Lakhs | ₹10.30 LPA |
 | **ITM Navi Mumbai** | Mumbai | 185+ Scaled Score | ₹12.45 Lakhs | ₹8.65 LPA |
 | **Woxsen University** | Hyderabad | 190+ Scaled Score | ₹19.40 Lakhs | ₹9.09 LPA |
-| **ISBR Business School** | Bangalore | 180+ Scaled Score | ₹10.50 Lakhs | ₹8.50 LPA |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | Bangalore | 180+ Scaled Score | ₹10.50 Lakhs | ₹8.50 LPA |
 | **Alliance University** | Bangalore | 180+ Scaled Score | ₹15.00 Lakhs | ₹8.50 LPA |
 
 ---
@@ -90,7 +90,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 * **K J Somaiya:** Excellent finance and data science placement tracks.
 
 ### Bangalore Region NMAT Colleges
-* **TAPMI Bengaluru:** Modern urban campus focused on FinTech and Digital Transformation.
+* **[TAPMI Bengaluru](/colleges/tapmi-bangalore):** Modern urban campus focused on FinTech and Digital Transformation.
 * **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/posts/all-about-jagsom-bangalore).
 
 ### Delhi NCR Region NMAT Colleges

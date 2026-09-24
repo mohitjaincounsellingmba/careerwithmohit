@@ -138,7 +138,7 @@ Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB 
    • BIMTECH, KJ Somaiya    • Great Lakes Early Round   • NC-OBC / SC / ST
 ```
 
-1.  **Baby IIMs via Common Admission Process (CAP):** If you belong to NC-OBC (80-85 %ile), EWS (85-90 %ile), or SC/ST (70-75 %ile) categories, an 80-90 percentile is often sufficient to secure admission calls from IIM Bodh Gaya, IIM Jammu, IIM Sambalpur, and IIM Sirmaur.
+1.  **Baby IIMs via Common Admission Process (CAP):** If you belong to NC-OBC (80-85 %ile), EWS (85-90 %ile), or SC/ST (70-75 %ile) categories, an 80-90 percentile is often sufficient to secure admission calls from [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sambalpur](/colleges/iim-sambalpur), and [IIM Sirmaur](/colleges/iim-sirmaur).
 2.  **Achiever's Rounds:** Colleges like GIM and Great Lakes conduct interview rounds even before CAT scores are finalized for applicants with stellar academic records (80%+ across 10th, 12th, and undergrad) or national-level extracurricular accomplishments.
 
 ---

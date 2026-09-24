@@ -34,7 +34,7 @@ location: Chennai
 state: Tamil Nadu
 ---
 
-# Loyola Institute of Business Administration (LIBA) (Loyola College Campus, Nungambakkam) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [Loyola Institute of Business Administration (LIBA)](/colleges/liba-chennai) (Loyola College Campus, Nungambakkam) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, XAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **180–240 Seats (Controlled Boutique Intake)**.
@@ -143,7 +143,7 @@ The campus at Loyola College Campus, Nungambakkam offers state-of-the-art academ
 ### Honest Pros and Cons
 
 #### ✅ Key Advantages (Pros)
-*   **Prestigious Jesuit**: Prestigious Jesuit pedigree sharing values, academic discipline, and ethics with XLRI Jamshedpur and XIMB.
+*   **Prestigious Jesuit**: Prestigious Jesuit pedigree sharing values, academic discipline, and ethics with [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and XIMB.
 *   **Prime central**: Prime central Chennai location in Nungambakkam, close to diplomatic consulates and corporate headquarters.
 *   **Boutique batch**: Boutique batch size of ~180-240 students ensures individual career development and high faculty mentorship.
 *   **High-tier Wall**: High-tier Wall Street and GCC participation including Goldman Sachs, Wells Fargo, and HSBC.
@@ -162,8 +162,8 @@ To help you assess comparative ROI, here is how Loyola Institute of Business Adm
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Loyola Institute of Business Administration (LIBA)** | **₹17.50 – ₹18.50 Lakhs (2 Years Full-Time PGDM)** | **₹11.20 – ₹11.80 LPA** | CAT/XAT · CAT: 75–80 Percentile |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

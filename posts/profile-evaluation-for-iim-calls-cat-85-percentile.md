@@ -31,7 +31,7 @@ The reality of IIM admissions is that **CAT percentile is only one component of 
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Category Advantage**: Reserved category aspirants (NC-OBC, EWS, SC, ST, PwD) with 85 percentile have a 90%+ probability of receiving calls from New & Baby IIMs through the Common Admission Process (CAP).
-> - **Diversity Bonus**: Female non-engineers with 9/9/9 academics can secure calls from IIM Rohtak, IIM Amritsar, and IIM Visakhapatnam even in the 85–90 percentile bracket.
+> - **Diversity Bonus**: Female non-engineers with 9/9/9 academics can secure calls from [IIM Rohtak](/colleges/iim-rohtak), [IIM Amritsar](/colleges/iim-amritsar), and IIM Visakhapatnam even in the 85–90 percentile bracket.
 > - **Top Non-IIM Alternatives**: 85 percentile opens confirmed interview opportunities at tier-1.5 business schools like GIM Goa, FORE, TAPMI, and LBSIM offering ₹14–17 LPA average packages.
 
 ---
@@ -60,7 +60,7 @@ IIMs do not shortlist candidates purely based on raw CAT rank. Each institute cr
 - **Best Strategy**: Focus on premier non-IIMs such as [GIM Goa](/colleges/gim-goa), [FORE School of Management](/colleges/fore-school-delhi), [TAPMI Manipal](/colleges/tapmi), and [BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### Profile B: General Non-Engineer Female (GNEF - Commerce / Arts / Humanities)
-- **Chances of Baby IIMs**: High (40–60%) for IIM Bodh Gaya, IIM Jammu, IIM Sirmaur, and IIM Amritsar.
+- **Chances of Baby IIMs**: High (40–60%) for [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sirmaur](/colleges/iim-sirmaur), and IIM Amritsar.
 - **Why?**: Academic diversity (5 points) + Gender diversity (5 points) elevates the composite score significantly past the qualifying threshold.
 
 ### Profile C: NC-OBC & EWS Candidates
@@ -69,7 +69,7 @@ IIMs do not shortlist candidates purely based on raw CAT rank. Each institute cr
 
 ### Profile D: SC, ST & PwD Candidates
 - **Chances across All IIMs**: Extremely High (95%+)
-- **Calls Expected**: Almost all New and Baby IIMs, plus potential interview calls from IIM Lucknow, IIM Kozhikode, and IIM Indore if 10th/12th academic records are strong.
+- **Calls Expected**: Almost all New and Baby IIMs, plus potential interview calls from [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore) if 10th/12th academic records are strong.
 
 ---
 
@@ -92,7 +92,7 @@ If you have scored or are targeting 85 percentile in CAT 2026, here is your targ
 
 1. **Apply for Non-IIM Autonomous B-Schools Immediately**: Most private B-schools close application windows before CAT results or within 10 days of results.
 2. **Prepare for WAT-GD-PI Rigorously**: At 85 percentile, the interview component accounts for 30–40% of final conversion merit. Be ready to articulate your career goals, ethical reasoning, and domain fundamentals.
-3. **Target Parallel Exams**: If your CAT score is hovering around 85 percentile, take SNAP, XAT, and CMAT to unlock colleges like SIBM Pune, XLRI (via XAT), and JBIMS (via CMAT/CET).
+3. **Target Parallel Exams**: If your CAT score is hovering around 85 percentile, take SNAP, XAT, and CMAT to unlock colleges like [SIBM Pune](/colleges/sibm-pune), XLRI (via XAT), and JBIMS (via CMAT/CET).
 
 [MockTestCard title="Evaluate Your Percentile with Free CBT Mock Tests" link="/mock-tests" questions="66 Questions" time="120 Mins"]
 

@@ -40,7 +40,7 @@ location: Mumbai
 state: Pan India
 ---
 
-# JAGSoM (Jagdish Sheth School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.50 Lakhs (Total)** (**₹5.75 Lakhs per Year**). Merit scholarships up to ₹2.00 Lakhs for high CAT/XAT/GMAT scorers.

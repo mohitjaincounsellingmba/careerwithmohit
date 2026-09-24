@@ -83,7 +83,7 @@ These institutions are globally recognized and offer the highest Return on Inves
 - **Entrance Exam:** CAT (98+ Percentile)
 - **USP:** Backed by the IIT Delhi brand; excellent for Engineering-background managers.
 
-### 5. IIM Rohtak
+### 5. [IIM Rohtak](/colleges/iim-rohtak)
 - **Status:** The representative IIM of the NCR region.
 - **Fees:** ₹20.0 Lakhs
 - **Average Placement:** ₹18.7 LPA
@@ -211,7 +211,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)

@@ -55,8 +55,8 @@ If your CAT, XAT, or MAT score did not meet high cutoff expectations, you do not
 | **NDIM New Delhi** | South Delhi | ₹11.50L – ₹13.75L | ₹9.50 LPA | Graduation (50%+) + Profile & PI Round |
 | **FOSTIIMA Business School** | Dwarka, Delhi | ₹11.50 Lakhs | ₹11.15 LPA | Graduation (50%+) + Case Study & PI |
 | **FIIB South Delhi** | Vasant Vihar, Delhi | ₹12.85 Lakhs | ₹8.50 LPA | Merit Profile + Executive Interview |
-| **PIBM Pune** | Hinjewadi / Pirangut | ₹9.45 Lakhs | ₹8.00 LPA | Profile Score + Group Discussion & PI |
-| **RIIM Pune** | Bavdhan, Pune | ₹6.60L – ₹8.90L | ₹7.20 LPA | Academic Record + College Level PI |
+| **[PIBM Pune](/colleges/pibm-pune)** | Hinjewadi / Pirangut | ₹9.45 Lakhs | ₹8.00 LPA | Profile Score + Group Discussion & PI |
+| **[RIIM Pune](/colleges/riim-pune)** | Bavdhan, Pune | ₹6.60L – ₹8.90L | ₹7.20 LPA | Academic Record + College Level PI |
 | **ISBR Bangalore** | Electronic City | ₹10.50 Lakhs | ₹8.20 LPA | ISBR Aptitude Test / Profile Assessment |
 | **IBA Bangalore** | Kanakapura Road | ₹9.50 Lakhs | ₹8.00 LPA | IBA SOP Evaluation + Virtual / Offline PI |
 | **GL Bajaj Institute** | Greater Noida | ₹6.80 Lakhs | ₹7.50 LPA | Direct Merit Allocation + Counseling |

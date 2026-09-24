@@ -25,7 +25,7 @@ state: 'Pan India'
 
 The transition to the **GMAT Focus Edition** represents the most significant redesign of the Graduate Management Admission Test in decades. With the removal of Sentence Correction and the Analytical Writing Assessment (AWA), and the introduction of **Data Insights** as a fully scored core section, the scoring dynamics have changed dramatically.
 
-Understanding the **GMAT Focus Edition scoring chart and official percentile distribution** is essential for setting realistic target scores for premier institutions like **ISB Hyderabad, IIM Ahmedabad PGPX, Harvard, Stanford, and INSEAD**.
+Understanding the **GMAT Focus Edition scoring chart and official percentile distribution** is essential for setting realistic target scores for premier institutions like **ISB Hyderabad, [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX, Harvard, Stanford, and INSEAD**.
 
 [InquiryCard title="Planning for GMAT Focus Edition 2026?" description="Get personalized B-school profile shortlisting, GMAT score target mapping, and admissions guidance from Mohit Jain." cta="Get Free GMAT Strategy" type="counselling"]
 

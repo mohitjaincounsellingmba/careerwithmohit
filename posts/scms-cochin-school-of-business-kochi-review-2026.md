@@ -65,7 +65,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 | **Full Institutional Name** | SCMS Group of Institutions ([SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business)), Kochi |
 | **Location & Region** | Kochi (Muttom / Aluva), Kochi, South India |
 | **University Type & Status** | Autonomous Premier B-School (AICTE Approved, NBA Accredited) |
-| **Established Year** | 1976 (SCMS Group) / 1992 (SCMS Cochin School of Business) |
+| **Established Year** | 1976 (SCMS Group) / 1992 ([SCMS Cochin School of Business](/colleges/scms-cochin-school-of-business)) |
 | **Accreditations & Approvals** | AICTE Approved, NBA Accredited PGDM, ACBSP Accredited, AIU Recognized |
 | **Flagship Academic Streams** | PGDM (General / Marketing / Finance / Business Analytics), B.Tech (SSET), BBA |
 | **Accepted Entrance Exams** | CAT, MAT, XAT, CMAT, KMAT Kerala, ATMA |

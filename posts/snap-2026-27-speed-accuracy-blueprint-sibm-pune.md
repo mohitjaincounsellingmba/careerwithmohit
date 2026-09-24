@@ -81,7 +81,7 @@ Unlike CAT or XAT, SNAP offers total flexibility: **there are NO sectional time 
 
 ---
 
-## SIBM Pune & Top Symbiosis Cutoffs (2026-27 Benchmark)
+## [SIBM Pune](/colleges/sibm-pune) & Top Symbiosis Cutoffs (2026-27 Benchmark)
 
 Symbiosis institutes shortlist candidates based purely on overall raw score out of 60.
 

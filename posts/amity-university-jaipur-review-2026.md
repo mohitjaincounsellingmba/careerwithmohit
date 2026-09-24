@@ -72,7 +72,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Amity University Jaipur (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Amity University](/colleges/amity-noida) Jaipur (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

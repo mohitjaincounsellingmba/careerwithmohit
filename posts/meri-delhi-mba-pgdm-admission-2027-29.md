@@ -79,7 +79,7 @@ location: Delhi
 state: Pan India
 ---
 
-# Management Education & Research Institute (MERI) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹5.95 Lakhs (Total)** (**₹2.97 Lakhs per Year**). Merit rebates and fee concessions for meritorious candidates and defense wards.

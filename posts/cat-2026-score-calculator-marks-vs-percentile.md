@@ -89,9 +89,9 @@ The following table highlights the expected raw marks required to score various 
 | Raw Score Range (Out of 228) | Expected Percentile | Target IIMs / Colleges |
 | :---: | :---: | :--- |
 | **185 – 228** | **99.97+ %ile** | [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta) |
-| **155 – 184** | **99.5 – 99.9 %ile** | IIM Lucknow, IIM Kozhikode, IIM Indore |
+| **155 – 184** | **99.5 – 99.9 %ile** | [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, [IIM Indore](/colleges/iim-indore) |
 | **130 – 154** | **98.5 – 99.4 %ile** | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon), [IIFT Delhi](/colleges/iift-delhi) |
-| **110 – 129** | **97.0 – 98.4 %ile** | IIM Ranchi, IIM Udaipur, IIM Raipur |
+| **110 – 129** | **97.0 – 98.4 %ile** | [IIM Ranchi](/colleges/iim-ranchi), [IIM Udaipur](/colleges/iim-udaipur), [IIM Raipur](/colleges/iim-raipur) |
 | **90 – 109** | **93.0 – 96.9 %ile** | Baby IIMs, [FMS Delhi](/colleges/fms-delhi), SPJIMR (Profile calls) |
 | **70 – 89** | **85.0 – 92.9 %ile** | [JBIMS Mumbai](/colleges/jbims-mumbai), NMIMS (NMAT equivalent), Tier-2 Colleges |
 | **50 – 69** | **70.0 – 84.9 %ile** | Tier-2 B-Schools (NDIM, JIMS Rohini, FORE School) |

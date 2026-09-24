@@ -32,7 +32,7 @@ location: Delhi
 state: Delhi NCR
 ---
 
-IIM Rohtak is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.
+[IIM Rohtak](/colleges/iim-rohtak) is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.
 
 ## 🏛️ Why Choose IIM Rohtak IPM in 2026?
 The IPM program at IIM Rohtak focuses on developing leadership skills through a blend of academic rigor and practical exposure.
@@ -57,7 +57,7 @@ IPM students at IIM Rohtak are part of the common placement pool with the MBA (P
 Admission is based on the **IPMAT Rohtak** entrance exam.
 - **Exam Pattern:** Quantitative Ability, Logical Reasoning, and Verbal Ability (40 questions each).
 - **Selection Criteria:** Aptitude Test Score (45%) + Personal Interview (15%) + Past Academic Record (40%).
-- **Note:** IIM Rohtak has a separate exam from IIM Indore.
+- **Note:** IIM Rohtak has a separate exam from [IIM Indore](/colleges/iim-indore).
 
 ## ❓ Frequently Asked Questions (FAQ)
 **Q1. Is there an exit option at IIM Rohtak IPM?**
@@ -98,6 +98,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

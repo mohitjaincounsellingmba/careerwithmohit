@@ -141,7 +141,7 @@ Securing admission to Shiv Nadar University, Greater Noida for the 2026 intake f
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **Shiv Nadar University (SNU)**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida)**:
 
 ### 👍 Why Choose Shiv Nadar University (SNU)? (Pros)
 - **Institution** of Eminence status offering significant academic autonomy and research funding

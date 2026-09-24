@@ -78,7 +78,7 @@ state: Delhi NCR
 > - **Verified Total Fee**: **₹11.50 Lakhs** for the full 2-year AICTE-approved PGDM curriculum, payable in structured installments.
 > - **Placement & ROI Benchmark**: Average placement stands at **₹11.15 LPA** (Top 20% average: **₹14.50 LPA**; Highest package: **₹25.00 – ₹30.00 LPA**) with top hiring from Deloitte, KPMG, ICICI Bank, and Asian Paints.
 
-Among mid-tier management aspirants seeking Tier-1 faculty exposure at a sensible investment, **FOSTIIMA Business School, Delhi** has emerged as one of the most discussed business schools in the National Capital Region. Founded in 2007 by alumni of **IIM Ahmedabad (Batch of 1973)**, FOSTIIMA was built around a singular proposition: *deliver the rigor, case-method pedagogy, and mentorship of IIM Ahmedabad to ambitious graduates at an affordable fee point*.
+Among mid-tier management aspirants seeking Tier-1 faculty exposure at a sensible investment, **FOSTIIMA Business School, Delhi** has emerged as one of the most discussed business schools in the National Capital Region. Founded in 2007 by alumni of **[IIM Ahmedabad](/colleges/iim-ahmedabad) (Batch of 1973)**, FOSTIIMA was built around a singular proposition: *deliver the rigor, case-method pedagogy, and mentorship of IIM Ahmedabad to ambitious graduates at an affordable fee point*.
 
 Located strategically in **Dwarka (West Delhi)**, right opposite the Sector 9 Metro Station corridor, FOSTIIMA attracts students targeting strong starting packages in BFSI, Marketing, FinTech, and Management Consulting. But does the IIM-A alumni tag translate into genuine placement outcomes on the ground for the upcoming **2027–2029 academic session**?
 

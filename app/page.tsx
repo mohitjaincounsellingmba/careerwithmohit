@@ -32,16 +32,73 @@ import {
   Check
 } from 'lucide-react';
 
+import dynamic from 'next/dynamic';
 import { DynamicHeroText } from '@/components/DynamicHeroText';
 import { EducationFinder } from '@/components/EducationFinder';
-import { HomeCollegeExplorer } from '@/components/HomeCollegeExplorer';
-import { HomeInquirySection } from '@/components/HomeInquirySection';
 import { PortalQuickTools } from '@/components/PortalQuickTools';
-import { ExamTrackerSection } from '@/components/ExamTrackerSection';
-import { InteractiveRoiCalculator } from '@/components/InteractiveRoiCalculator';
-import HomeMockTestSlider from '@/components/HomeMockTestSlider';
 import StudentCommunitySection from '@/components/StudentCommunitySection';
 import { JsonLd } from '@/components/JsonLd';
+
+const HomeCollegeExplorer = dynamic(
+  () => import('@/components/HomeCollegeExplorer').then((mod) => mod.HomeCollegeExplorer),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-16 animate-pulse">
+        <div className="h-10 w-64 bg-slate-200 rounded-xl mb-4" />
+        <div className="h-6 w-96 bg-slate-200 rounded-lg mb-8" />
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {[...Array(4)].map((_, i) => (
+            <div key={i} className="h-72 bg-slate-200 rounded-3xl" />
+          ))}
+        </div>
+      </div>
+    ),
+  }
+);
+
+const HomeInquirySection = dynamic(
+  () => import('@/components/HomeInquirySection').then((mod) => mod.HomeInquirySection),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-16 animate-pulse">
+        <div className="h-96 bg-slate-200 rounded-3xl" />
+      </div>
+    ),
+  }
+);
+
+const ExamTrackerSection = dynamic(
+  () => import('@/components/ExamTrackerSection').then((mod) => mod.ExamTrackerSection),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-16 animate-pulse">
+        <div className="h-80 bg-slate-200 rounded-2xl" />
+      </div>
+    ),
+  }
+);
+
+const InteractiveRoiCalculator = dynamic(
+  () => import('@/components/InteractiveRoiCalculator').then((mod) => mod.InteractiveRoiCalculator),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-16 animate-pulse">
+        <div className="h-96 bg-slate-800 rounded-3xl" />
+      </div>
+    ),
+  }
+);
+
+const HomeMockTestSlider = dynamic(
+  () => import('@/components/HomeMockTestSlider'),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-16 animate-pulse">
+        <div className="h-80 bg-slate-200 rounded-2xl" />
+      </div>
+    ),
+  }
+);
 
 const SERVICES = [
   { 

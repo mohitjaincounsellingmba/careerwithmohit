@@ -47,11 +47,11 @@ state: India
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Main Registration Deadline:** NMAT by GMAC 2026 regular registration opens on August 1, 2026, and closes in the second week of October 2026 (expected around October 10–13, 2026).
 > - **Application Fee & Retakes:** ₹3,000 + 18% GST per attempt. Candidates can appear up to 3 times (1 main + 2 retakes), with retake windows open until mid-December 2026.
-> - **Dual Registration Rule:** You must register separately on both `register.nmat.org` (for the test slot) and individual college portals (especially NMIMS Mumbai at `nmims.edu`).
+> - **Dual Registration Rule:** You must register separately on both `register.nmat.org` (for the test slot) and individual college portals (especially [NMIMS Mumbai](/colleges/nmims-mumbai) at `nmims.edu`).
 
 ---
 
-The **NMAT by GMAC** (Graduate Management Admission Council) is one of India's most student-friendly and prestigious management entrance examinations. It is the premier pathway to the coveted **SVKM's Narsee Monjee Institute of Management Studies (NMIMS)** campuses in Mumbai, Bengaluru, Navi Mumbai, Hyderabad, and Indore, along with esteemed institutions like K J Somaiya, TAPMI, XIM University Bhubaneswar, and SDA Bocconi Asia Center.
+The **NMAT by GMAC** (Graduate Management Admission Council) is one of India's most student-friendly and prestigious management entrance examinations. It is the premier pathway to the coveted **SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS)** campuses in Mumbai, Bengaluru, Navi Mumbai, Hyderabad, and Indore, along with esteemed institutions like K J Somaiya, TAPMI, XIM University Bhubaneswar, and SDA Bocconi Asia Center.
 
 Unlike single-day tests like CAT or XAT, NMAT provides a 75-day testing window with customizable sectional order and zero negative marking. However, adhering to the **NMAT exam 2026 last date of registration** is vital because missing the regular window blocks you from taking the main exam and eliminates your eligibility for top NMIMS programs.
 
@@ -147,7 +147,7 @@ Follow these steps carefully before the registration last date:
 | :--- | :--- | :--- | :--- |
 | **NMIMS Mumbai (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT 232+ Scaled Score · Tier-1 Private Flagship |
 | **NMIMS Bengaluru / Navi Mumbai** | ₹20.00 Lakhs | ₹14.00 LPA | NMAT 215-225 Score · Rapidly Growing Tech Campuses |
-| **K J Somaiya Institute of Management** | ₹20.80 Lakhs | ₹12.50 LPA | NMAT 222+ / CAT / XAT · Strong Financial & HR Network |
+| **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai)** | ₹20.80 Lakhs | ₹12.50 LPA | NMAT 222+ / CAT / XAT · Strong Financial & HR Network |
 | **TAPMI Manipal (Select Programs)** | ₹17.50 Lakhs | ₹14.80 LPA | NMAT 210-220 Score · AACSB Accredited |
 | **XIM University (School of HRM)** | ₹21.00 Lakhs | ₹16.64 LPA | NMAT 210+ / XAT / CAT · Top HR Specialization in India |
 | **SDA Bocconi Asia Center** | ₹20.50 Lakhs | ₹14.50 LPA | NMAT / CAT / GMAT · International Dual Degree & Milan Term |

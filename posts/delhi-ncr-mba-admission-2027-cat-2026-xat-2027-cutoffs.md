@@ -55,7 +55,7 @@ state: Delhi NCR
 # MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Premier Non-IIM Options:** FMS Delhi (₹2 Lakhs fee, ₹34 LPA avg), MDI Gurgaon (₹24 Lakhs fee, ₹26.7 LPA avg), and FORE School of Management.
+> - **Premier Non-IIM Options:** [FMS Delhi](/colleges/fms-delhi) (₹2 Lakhs fee, ₹34 LPA avg), [MDI Gurgaon](/colleges/mdi-gurgaon) (₹24 Lakhs fee, ₹26.7 LPA avg), and [FORE School of Management](/colleges/fore-school-delhi).
 > - **Mid-Percentile Growth Hubs (60-75 %ile):** NDIM Delhi, FIIB, FOSTIIMA, JIMS Kalkaji, and SOIL Institute Gurgaon.
 > - **Exam Acceptance:** Standardized acceptance of CAT 2026, XAT 2027, and CMAT across autonomous AICTE b-schools.
 
@@ -96,7 +96,7 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 4. NDIM & FOSTIIMA: The 60-75 CAT/XAT Percentile Leaders
 * **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/posts/all-about-ndim-delhi).
-* **FOSTIIMA Business School:** Founded by IIM Ahmedabad alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/posts/all-about-fostiima-delhi).
+* **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/posts/all-about-fostiima-delhi).
 
 ---
 

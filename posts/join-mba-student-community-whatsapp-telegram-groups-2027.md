@@ -31,7 +31,7 @@ state: India
 
 Preparing for national management entrance exams like **CAT 2026, XAT 2027, NMAT, SNAP, CMAT, and MAH-MBA CET** can be an overwhelming journey when done in isolation. Between tracking shifting exam dates, analyzing mock percentiles, hunting for authentic college cutoff data, and dodging predatory coaching marketing, aspirants often suffer from severe information overload.
 
-To solve this, **Mohit Jain** (IIM-B / FMS Delhi Certified Career Counsellor) established the [CareerWithMohit Student Community](/community) — a 100% free, verified, and active peer network of **over 5,700+ ambitious students** across India.
+To solve this, **Mohit Jain** (IIM-B / [FMS Delhi](/colleges/fms-delhi) Certified Career Counsellor) established the [CareerWithMohit Student Community](/community) — a 100% free, verified, and active peer network of **over 5,700+ ambitious students** across India.
 
 ---
 
@@ -94,7 +94,7 @@ Members get instant, lifetime access to curated revision materials in the Telegr
 
 ### 3. Real-Time B-School Cutoff & Application Deadline Alerts
 Never miss an application deadline again. The community monitors **650+ B-Schools** across India, delivering instant push notifications for:
-* IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Indore shortlist criteria updates
+* [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta, Lucknow, Kozhikode, and Indore shortlist criteria updates
 * Top Non-IIM institutes: [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [NMIMS Mumbai](/colleges/nmims-mumbai), and [SIBM Pune](/colleges/sibm-pune)
 * Category-wise cutoffs (General, NC-OBC, EWS, SC/ST, and PwD)
 * Tuition fee waivers, merit scholarship deadlines, and spot round announcements

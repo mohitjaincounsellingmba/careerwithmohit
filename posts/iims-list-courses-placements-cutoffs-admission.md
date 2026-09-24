@@ -73,13 +73,13 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Focus on Quants).
 *   **Admission Rounds:** Personal Interview (PI) only (WAT is often skipped).
 
-### 4. IIM Lucknow (IIML)
+### 4. [IIM Lucknow](/colleges/iim-lucknow) (IIML)
 *   **Flagship Courses:** PGP, PGP-ABM (Agri-Business), PGP-SM (Sustainability).
 *   **Placements (Avg):** ₹30.0 LPA – ₹32.3 LPA.
 *   **Expected CAT Cut-off:** 98.5+ Percentile.
 *   **Admission Rounds:** WAT & Personal Interview (PI).
 
-### 5. IIM Indore (IIMI)
+### 5. [IIM Indore](/colleges/iim-indore) (IIMI)
 *   **Flagship Courses:** PGP, PGP-HRM, IPM (5-Year Program after 12th).
 *   **Placements (Avg):** ₹29.0 LPA – ₹30.2 LPA.
 *   **Expected CAT Cut-off:** 98.0+ Percentile (Strong focus on 10th/12th marks).
@@ -105,25 +105,25 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 95+ Percentile.
 *   **Admission Rounds:** GD (Group Discussion) & Personal Interview (PI).
 
-### 9. IIM Udaipur
+### 9. [IIM Udaipur](/colleges/iim-udaipur)
 *   **Flagship Courses:** MBA, MBA (Global Supply Chain Management).
 *   **Placements (Avg):** ₹20.3 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** Common Admission Process (CAP) Interview.
 
-### 10. IIM Rohtak
+### 10. [IIM Rohtak](/colleges/iim-rohtak)
 *   **Flagship Courses:** PGP, IPM (Integrated 5-Year).
 *   **Placements (Avg):** ₹19.3 LPA.
 *   **Expected CAT Cut-off:** 95+ Percentile (Separate process for General).
 *   **Admission Rounds:** Online PI (Personal Interview).
 
-### 11. IIM Ranchi
+### 11. [IIM Ranchi](/colleges/iim-ranchi)
 *   **Flagship Courses:** MBA, MBA-HRM, MBA-BA, IPM.
 *   **Placements (Avg):** ₹18.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 12. IIM Raipur
+### 12. [IIM Raipur](/colleges/iim-raipur)
 *   **Flagship Courses:** PGP.
 *   **Placements (Avg):** ₹21.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -135,7 +135,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 14. IIM Kashipur
+### 14. [IIM Kashipur](/colleges/iim-kashipur)
 *   **Flagship Courses:** PGP, PGP-BA.
 *   **Placements (Avg):** ₹18.1 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -143,7 +143,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 15. IIM Nagpur
+### 15. [IIM Nagpur](/colleges/iim-nagpur)
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.7 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
@@ -155,31 +155,31 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 17. IIM Amritsar
+### 17. [IIM Amritsar](/colleges/iim-amritsar)
 *   **Flagship Courses:** MBA, MBA-BA, MBA-HR.
 *   **Placements (Avg):** ₹16.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 18. IIM Bodh Gaya
+### 18. [IIM Bodh Gaya](/colleges/iim-bodh-gaya)
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹15.8 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile (SAPS for girls).
 *   **Admission Rounds:** CAP Interview.
 
-### 19. IIM Sambalpur
+### 19. [IIM Sambalpur](/colleges/iim-sambalpur)
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.6 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 20. IIM Sirmaur
+### 20. [IIM Sirmaur](/colleges/iim-sirmaur)
 *   **Flagship Courses:** MBA, MBA (Tourism & Hospitality).
 *   **Placements (Avg):** ₹14.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 21. IIM Jammu
+### 21. [IIM Jammu](/colleges/iim-jammu)
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹16.4 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.

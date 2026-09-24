@@ -78,7 +78,7 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 * **Campus**: Massive 91-acre eco-friendly campus in Dontanapalli, Hyderabad.
 * **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses](/blog/all-about-ibs-campuses).
 
-### 2. Institute of Public Enterprise (IPE), Hyderabad
+### 2. [Institute of Public Enterprise](/colleges/institute-of-public-enterprise) (IPE), Hyderabad
 * **Highlights**: Located in Shamirpet, IPE is recognized as a Centre of Excellence by the Indian Council of Social Science Research (ICSSR).
 * **Specialized PGDM Programs**: PGDM General, PGDM Banking & Financial Services, PGDM International Business, PGDM Marketing.
 * **Read Detailed Review**: [All About Institute of Public Enterprise](/blog/all-about-institute-of-public-enterprise).

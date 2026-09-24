@@ -400,13 +400,13 @@ Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoff
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQs)
 
 **Q1. Is [NMIMS Mumbai](/colleges/nmims-mumbai) better than newer IIMs?**
-In terms of placements and industry reputation, [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) competes with IIM Udaipur, IIM Trichy, and IIM Kashipur. The ₹25 LPA average package is comparable, and NMIMS has a far stronger alumni network in BFSI and Pharma sectors.
+In terms of placements and industry reputation, [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) competes with [IIM Udaipur](/colleges/iim-udaipur), IIM Trichy, and [IIM Kashipur](/colleges/iim-kashipur). The ₹25 LPA average package is comparable, and NMIMS has a far stronger alumni network in BFSI and Pharma sectors.
 
 **Q2. Does NMIMS accept CAT scores?**
 NMIMS primarily accepts NMAT by GMAC scores. Some newer campuses may consider CAT/CMAT/MAT scores, but NMAT remains the primary entrance exam for all MBA programs.

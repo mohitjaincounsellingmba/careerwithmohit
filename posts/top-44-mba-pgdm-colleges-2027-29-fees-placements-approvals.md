@@ -129,41 +129,41 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 | 5 | **IILM Lodhi Road** | New Delhi | PGDM | ₹12.90 Lakhs | ₹8.60 LPA | ₹20.00 LPA | AICTE · NBA · AIU Eq. · SAQS |
 | 6 | **MERI Janakpuri** | New Delhi | MBA / PGDM | ₹5.95 Lakhs | ₹7.50 LPA | ₹20.00 LPA | AICTE · GGSIPU Affiliated · NAAC A |
 | 7 | **JIMS Kalkaji** | New Delhi | PGDM | ₹10.75 Lakhs | ₹10.50 LPA | ₹35.00 LPA | AICTE · NBA · AIU Eq. · NAAC |
-| 8 | **GD Goenka University** | Gurgaon | MBA | ₹8.50 Lakhs | ₹6.50 LPA | ₹17.50 LPA | UGC · AIU · ACU Member |
-| 9 | **Amity University Gurugram** | Gurgaon | MBA | ₹9.80 Lakhs | ₹6.80 LPA | ₹21.00 LPA | UGC · NAAC A+ · IACBE |
+| 8 | **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | MBA | ₹8.50 Lakhs | ₹6.50 LPA | ₹17.50 LPA | UGC · AIU · ACU Member |
+| 9 | **[Amity University](/colleges/amity-noida) Gurugram** | Gurgaon | MBA | ₹9.80 Lakhs | ₹6.80 LPA | ₹21.00 LPA | UGC · NAAC A+ · IACBE |
 | 10 | **IILM University** | Sector 53, Gurgaon | MBA | ₹11.50 Lakhs | ₹8.60 LPA | ₹26.00 LPA | UGC Approved State Private Univ. |
 | 11 | **First Bridge Business School** | Gurgaon | PGDM | ₹16.00 Lakhs | ₹8.50 LPA | ₹20.00 LPA | AICTE Approved · Applied AI Model |
 | 12 | **IBMR Gurgaon** | Sector 14, Gurgaon | MBA / PGDM | ₹6.95 Lakhs | ₹7.50 LPA | ₹21.00 LPA | AICTE · MDU Affiliated (MBA) |
 | 13 | **JK Business School (JKBS)** | Gurgaon | PGDM | ₹7.99 Lakhs | ₹9.00 LPA | ₹24.00 LPA | AICTE · JK Organisation Legacy |
-| 14 | **Bennett University** | Greater Noida | MBA | ₹11.95 Lakhs | ₹7.50 LPA | ₹1.20 CPA | UGC Approved · Times Group Backed |
-| 15 | **Noida International University (NIU)** | Greater Noida | MBA | ₹6.50 Lakhs | ₹5.50 LPA | ₹13.96 LPA | UGC · NAAC A+ Accredited |
+| 14 | **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | MBA | ₹11.95 Lakhs | ₹7.50 LPA | ₹1.20 CPA | UGC Approved · Times Group Backed |
+| 15 | **[Noida International University (NIU)](/colleges/niu-greater-noida)** | Greater Noida | MBA | ₹6.50 Lakhs | ₹5.50 LPA | ₹13.96 LPA | UGC · NAAC A+ Accredited |
 | 16 | **GNIOT Greater Noida** | Greater Noida | MBA / PGDM | ₹8.55 Lakhs | ₹5.00 LPA | ₹27.00 LPA | AICTE · AKTU Affiliated (MBA) |
 | 17 | **GL Bajaj Institute (GLBIMR)** | Greater Noida | PGDM | ₹7.95 Lakhs | ₹6.80 LPA | ₹58.00 LPA | AICTE Approved · Ranked B-School |
 | 18 | **Accurate Institute (AIMT)** | Greater Noida | MBA / PGDM | ₹6.95 Lakhs | ₹6.50 LPA | ₹15.00 LPA | AICTE · AKTU Affiliated (MBA) |
 | 19 | **Mangalmay Institute** | Greater Noida | MBA | ₹3.25 Lakhs | ₹5.50 LPA | ₹12.40 LPA | AICTE · AKTU Affiliated · NAAC |
-| 20 | **Lloyd Business School** | Greater Noida | MBA / PGDM | ₹8.25 Lakhs | ₹6.00 LPA | ₹18.00 LPA | AICTE · IBM Co-Branded PGDM |
+| 20 | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida | MBA / PGDM | ₹8.25 Lakhs | ₹6.00 LPA | ₹18.00 LPA | AICTE · IBM Co-Branded PGDM |
 | 21 | **IILM University** | Greater Noida | MBA | ₹12.40 Lakhs | ₹5.90 LPA | ₹14.40 LPA | UGC Approved · Estd. 1993 Legacy |
 | 22 | **ITS Ghaziabad (Mohan Nagar)** | Ghaziabad | MBA / PGDM | ₹6.95 Lakhs | ₹6.00 LPA | ₹11.00 LPA | AICTE · NBA · NAAC Grade A |
-| 23 | **Jaipuria School of Business (JSB)** | Indirapuram, Gzb | PGDM | ₹8.50 Lakhs | ₹7.00 LPA | ₹15.00 LPA | AICTE Approved · Jaipuria Brand |
-| 24 | **Taxila Business School** | Jaipur | PGDM | ₹10.50 Lakhs | ₹11.80 LPA | ₹28.60 LPA | AICTE · SAP S/4HANA Certified |
-| 25 | **IILM Academy of Higher Learning** | Jaipur | PGDM | ₹7.00 Lakhs | ₹8.60 LPA | ₹14.00 LPA | AICTE Approved · Merit Scholarships |
+| 23 | **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB)** | Indirapuram, Gzb | PGDM | ₹8.50 Lakhs | ₹7.00 LPA | ₹15.00 LPA | AICTE Approved · Jaipuria Brand |
+| 24 | **[Taxila Business School](/colleges/taxila-jaipur)** | Jaipur | PGDM | ₹10.50 Lakhs | ₹11.80 LPA | ₹28.60 LPA | AICTE · SAP S/4HANA Certified |
+| 25 | **[IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)** | Jaipur | PGDM | ₹7.00 Lakhs | ₹8.60 LPA | ₹14.00 LPA | AICTE Approved · Merit Scholarships |
 | 26 | **Vivekananda Global Univ. (VGU)** | Jaipur | MBA | ₹5.05 Lakhs | ₹5.20 LPA | ₹54.00 LPA | UGC · NAAC A+ · Sunstone Partner |
-| 27 | **RIIM Pune** | Bavdhan, Pune | MBA / PGDM | ₹8.60 Lakhs | ₹7.84 LPA | ₹35.00 LPA | AICTE · SPPU Affiliated · High ROI |
+| 27 | **[RIIM Pune](/colleges/riim-pune)** | Bavdhan, Pune | MBA / PGDM | ₹8.60 Lakhs | ₹7.84 LPA | ₹35.00 LPA | AICTE · SPPU Affiliated · High ROI |
 | 28 | **Lexicon MILE** | Wagholi, Pune | PGDM / Global MBA | ₹10.80 Lakhs | ₹6.50 LPA | ₹13.30 LPA | AICTE · International Study Tours |
 | 29 | **Dr. D.Y. Patil Institute (DYPIMR)** | Pimpri, Pune | MBA / PGDM | ₹6.50 Lakhs | ₹8.00 LPA | ₹24.00 LPA | AICTE · SPPU · NAAC A++ (3.73) |
-| 30 | **ISMS Pune** | Hinjawadi, Pune | MBA / PGDM | ₹7.25 Lakhs | ₹8.00 LPA | ₹19.00 LPA | AICTE · British MBA Pathway |
+| 30 | **[ISMS Pune](/colleges/isms-pune)** | Hinjawadi, Pune | MBA / PGDM | ₹7.25 Lakhs | ₹8.00 LPA | ₹19.00 LPA | AICTE · British MBA Pathway |
 | 31 | **IIEBM Indus Business School** | Wakad, Pune | PGDM | ₹8.25 Lakhs | ₹7.50 LPA | ₹30.00 LPA | AICTE · SAP ERP Direct Training |
-| 32 | **ASM IBMR** | Chinchwad, Pune | MBA / PGDM | ₹6.95 Lakhs | ₹7.50 LPA | ₹24.00 LPA | AICTE · Harvard & IBM Partnered |
+| 32 | **[ASM IBMR](/colleges/asm-ibmr)** | Chinchwad, Pune | MBA / PGDM | ₹6.95 Lakhs | ₹7.50 LPA | ₹24.00 LPA | AICTE · Harvard & IBM Partnered |
 | 33 | **Akemi Business School** | Tathawade, Pune | MBA | ₹3.15 Lakhs | ₹4.80 LPA | ₹18.00 LPA | AICTE · SPPU Affiliated |
 | 34 | **UBS Mumbai (Universal AI Univ.)** | Karjat, Mumbai | MBA / PGDM | ₹12.50 Lakhs | ₹10.50 LPA | ₹42.00 LPA | AICTE · India's 1st AI University |
 | 35 | **ATLAS SkillTech University** | BKC Zone, Mumbai | MBA | ₹12.05 Lakhs | ₹9.50 LPA | ₹22.00 LPA | UGC Approved · Urban Tech Campus |
-| 36 | **Amity University Mumbai** | Panvel, Mumbai | MBA | ₹10.25 Lakhs | ₹7.00 LPA | ₹15.00 LPA | UGC · WES Approved · Smart Campus |
+| 36 | **[Amity University Mumbai](/colleges/amity-mumbai)** | Panvel, Mumbai | MBA | ₹10.25 Lakhs | ₹7.00 LPA | ₹15.00 LPA | UGC · WES Approved · Smart Campus |
 | 37 | **JAGSoM Greater Mumbai** | Karjat, Mumbai | MBA | ₹11.50 Lakhs | ₹11.00 LPA | ₹25.00 LPA | AICTE · AACSB Accredited Legacy |
 | 38 | **ITM Business School** | Navi Mumbai | PGDM | ₹12.45 Lakhs | ₹10.50 LPA | ₹25.00 LPA | AICTE · NBA · NAAC A · iConnect |
-| 39 | **ISBR Business School** | Electronic City, Blr | MBA / PGDM | ₹11.00 Lakhs | ₹9.00 LPA | ₹20.00 LPA | AICTE · NBA Accredited · BU Affil. |
+| 39 | **[ISBR Business School](/colleges/isbr-bangalore)** | Electronic City, Blr | MBA / PGDM | ₹11.00 Lakhs | ₹9.00 LPA | ₹20.00 LPA | AICTE · NBA Accredited · BU Affil. |
 | 40 | **IIBS Bangalore** | Airport Rd, Blr | MBA / PGDM | ₹8.95 Lakhs | ₹8.20 LPA | ₹48.00 LPA | AICTE · Bangalore Univ. Affiliated |
-| 41 | **GIBS Business School** | Bannerghatta, Blr | MBA / PGDM | ₹11.25 Lakhs | ₹9.50 LPA | ₹22.00 LPA | AICTE · Innovation Incubation Lab |
-| 42 | **ISME Bangalore** | Sarjapur Rd, Blr | PGDM | ₹10.95 Lakhs | ₹8.50 LPA | ₹18.00 LPA | AICTE · LSE & Carleton Tie-ups |
+| 41 | **[GIBS Business School](/colleges/gibs-bangalore)** | Bannerghatta, Blr | MBA / PGDM | ₹11.25 Lakhs | ₹9.50 LPA | ₹22.00 LPA | AICTE · Innovation Incubation Lab |
+| 42 | **[ISME Bangalore](/colleges/isme-bangalore)** | Sarjapur Rd, Blr | PGDM | ₹10.95 Lakhs | ₹8.50 LPA | ₹18.00 LPA | AICTE · LSE & Carleton Tie-ups |
 | 43 | **Alliance School of Business** | Anekal, Blr | MBA | ₹18.00 Lakhs | ₹10.50 LPA | ₹40.00 LPA | UGC · AACSB Member · NIRF Ranked |
 | 44 | **Amity University Bengaluru** | Devanahalli, Blr | MBA | ₹11.52 Lakhs | ₹7.50 LPA | ₹20.00 LPA | UGC · Modern Tech Hub Campus |
 
@@ -171,7 +171,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 2. In-Depth Profiles: Delhi NCR Region (Delhi, Gurgaon, Greater Noida, Ghaziabad)
 
-### 1. New Delhi Institute of Management (NDIM) – New Delhi
+### 1. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) – New Delhi
 *   **Program**: 2-Year Full-Time PGDM (Dual Specialization in Marketing, Finance, HR, FinTech, Business Analytics, Supply Chain & Logistics).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, AIU MBA Equivalent, ASIC (UK) Premier Institution.
 *   **Fee Structure (2027–29)**: **₹14.00 Lakhs** total (₹7.00 Lakhs/year annual plan, or ₹3.50 Lakhs/semester + ₹6,000 convenience charge). ₹2.5 Crore dedicated scholarship pool.
@@ -191,11 +191,11 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Certifications Provided**: AI for Business, Harvard Business Publishing Case Simulations, Advanced Excel & Valuation, FinTech Foundations.
 *   **Awards & Rankings**: Awarded "Top Institute for ROI" in North India by CSR-GHRDC; Ranked Top 20 Private B-Schools in Delhi NCR.
 *   **Alumni Network**: Strong network of 5,000+ professionals heavily concentrated in BFSI, Equity Research, and Tech consulting.
-*   **Faculty Members**: Founded and mentored entirely by **IIM Ahmedabad Alumni**; 90% of core faculty are alumni from IIMs and IITs.
+*   **Faculty Members**: Founded and mentored entirely by **[IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni**; 90% of core faculty are alumni from IIMs and IITs.
 *   **Board of Directors**: Chaired by IIM-A alumni and senior corporate consultants with 30+ years in international business.
 *   **Why Join**: Direct IIM-A pedagogical framework, heavy case-study immersion, excellent Dwarka metro connectivity, and outstanding ROI.
 
-### 3. Fortune Institute of International Business (FIIB) – Vasant Vihar, New Delhi
+### 3. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) – Vasant Vihar, New Delhi
 *   **Program**: PGDM & PGDM (Financial Management).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, AIU Equivalent, Member AACSB & EFMD.
 *   **Fee Structure (2027–29)**: **₹12.85 Lakhs** total.
@@ -215,11 +215,11 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Certifications Provided**: Advanced Financial Modeling, Power BI & Tableau, AI in Decision Making, SAP ERP modules.
 *   **Awards & Rankings**: Ranked among Top 10 B-Schools in Delhi NCR by Competition Success Review; NBA Accreditation for academic excellence.
 *   **Alumni Network**: Backed by the massive 25,000+ VIPS student-alumni ecosystem across corporate and judiciary corridors.
-*   **Faculty Members**: Renowned faculty drawn from IIMs, FMS Delhi, and corporate leaders in investment banking and data science.
+*   **Faculty Members**: Renowned faculty drawn from IIMs, [FMS Delhi](/colleges/fms-delhi), and corporate leaders in investment banking and data science.
 *   **Board of Directors**: Governed by the prestigious VIPS management council headed by former judges, educationists, and corporate leaders.
 *   **Why Join**: World-class Pitampura campus infrastructure, advanced financial analytics labs, high corporate linkage in North & West Delhi.
 
-### 5. IILM Institute for Higher Education – Lodhi Road, New Delhi
+### 5. [IILM Institute for Higher Education](/colleges/iilm-delhi) – Lodhi Road, New Delhi
 *   **Program**: 2-Year Full-Time PGDM.
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, AIU Equivalent, SAQS Accredited.
 *   **Fee Structure (2027–29)**: **₹12.90 Lakhs** total.
@@ -231,7 +231,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Senior industrialists, former ambassadors, and academic leaders from premier global business schools.
 *   **Why Join**: Unbeatable Lutyens' Delhi location, 30+ year management legacy, global study exchange partnerships, SAQS quality assurance.
 
-### 6. Management Education & Research Institute (MERI) – Janakpuri, New Delhi
+### 6. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) – Janakpuri, New Delhi
 *   **Program**: PGDM (AICTE) and MBA (GGSIPU Affiliated).
 *   **Approvals & Accreditations**: AICTE Approved, Affiliated to GGSIPU (for MBA), NAAC Grade A.
 *   **Fee Structure (2027–29)**: **₹5.95 Lakhs** total.
@@ -375,7 +375,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Senior corporate leaders, educationists, and advisors from ASSOCHAM and CII.
 *   **Why Join**: Exceptional placement track record with high peak packages, intensive personality grooming, strong ROI.
 
-### 18. Accurate Institute of Management & Technology (AIMT) – Greater Noida
+### 18. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology (AIMT) – Greater Noida
 *   **Program**: PGDM (AICTE Approved) & MBA (AKTU Affiliated).
 *   **Approvals & Accreditations**: AICTE Approved, AKTU Affiliated (MBA), AIU Equivalent.
 *   **Fee Structure (2027–29)**: **₹6.95 Lakhs** for PGDM; **₹3.25 Lakhs** for MBA.
@@ -463,7 +463,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Chaired by former IIM faculty and enterprise technology leaders.
 *   **Why Join**: Direct hands-on SAP S/4HANA certification embedded in the curriculum, outstanding average salary package (₹11.8 LPA), high PPO conversion.
 
-### 25. IILM Academy of Higher Learning – Mansarovar, Jaipur
+### 25. [IILM Academy of Higher Learning](/colleges/iilm-jaipur) – Mansarovar, Jaipur
 *   **Program**: 2-Year Full-Time PGDM.
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, Govt. of India.
 *   **Fee Structure (2027–29)**: **₹7.00 Lakhs** total. Generous merit scholarships up to 75% on tuition fees.
@@ -539,7 +539,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Chaired by international education consultants and corporate strategists.
 *   **Why Join**: Direct transfer option to study in the UK for the 2nd year, located right inside Hinjawadi Infotech Park.
 
-### 31. IIEBM (Indus Business School) – Wakad, Pune
+### 31. [IIEBM (Indus Business School)](/colleges/iiebm-pune) – Wakad, Pune
 *   **Program**: 2-Year Full-Time PGDM & PGPERP.
 *   **Approvals & Accreditations**: AICTE Approved, Ministry of Education, SAP ERP Collaboration.
 *   **Fee Structure (2027–29)**: **₹8.25 Lakhs** total.
@@ -615,7 +615,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: RBEF trustees and international educational scholars.
 *   **Why Join**: Modern residential campus in Panvel, WES recognition for global visas, corporate placement network.
 
-### 37. JAGSoM (Jagdish Sheth School of Management) – Karjat, Mumbai
+### 37. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)) – Karjat, Mumbai
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: AICTE Approved, **AACSB Accredited Brand Flagship**.
 *   **Fee Structure (2027–29)**: **₹11.50 Lakhs** total.
@@ -643,7 +643,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 6. In-Depth Profiles: Bangalore Region (Silicon Valley Hub)
 
-### 39. ISBR Business School – Electronic City, Bangalore
+### 39. [ISBR Business School](/colleges/isbr-business-school) – Electronic City, Bangalore
 *   **Program**: PGDM (AICTE) & MBA (Bangalore University).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, Affiliated to Bangalore University.
 *   **Fee Structure (2027–29)**: **₹11.00 Lakhs** for PGDM; **₹8.50 Lakhs** for MBA.
@@ -655,7 +655,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Led by senior educationists and corporate advisors from NASSCOM and Bangalore Chamber of Commerce.
 *   **Why Join**: Prime Electronic City IT Hub location, NBA accreditation, student exchange programs with European universities.
 
-### 40. International Institute of Business Studies (IIBS) – Airport Road, Bangalore
+### 40. [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore) – Airport Road, Bangalore
 *   **Program**: PGDM (AICTE Approved) & MBA (Bangalore University).
 *   **Approvals & Accreditations**: AICTE Approved, Affiliated to Bangalore University, Govt. of Karnataka.
 *   **Fee Structure (2027–29)**: **₹8.95 Lakhs** for PGDM; **₹5.25 Lakhs** for MBA.

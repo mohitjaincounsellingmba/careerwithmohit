@@ -45,7 +45,7 @@ state: Kerala
 
 When evaluating premier business schools and universities for management education in India, **[Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies)** consistently stands out as a high-value institution in **Kochi, Kerala**. With established corporate credentials, a strong alumni base, and distinguished accreditation (NIRF Rank #83 (Management 2024) · ACBSP & AACSB Member), the institution attracts ambitious management aspirants from across the country.
 
-Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **Rajagiri Centre for Business Studies (RCBS Kochi) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
+Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
 
 ---
 

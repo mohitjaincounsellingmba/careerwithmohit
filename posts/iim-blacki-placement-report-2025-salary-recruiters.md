@@ -49,7 +49,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-When it comes to elite business education in Asia, the **IIM BLACKI** group—**[IIM Bangalore](/colleges/iim-bangalore), [IIM Lucknow](/blog/all-about-iim-colleges-placements-fees-selection-2026), [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Calcutta](/colleges/iim-calcutta), IIM Kozhikode, and IIM Indore**—alongside the newly designated **IIM Mumbai (formerly NITIE)**, represents the pinnacle of executive placements in India.
+When it comes to elite business education in Asia, the **IIM BLACKI** group—**[IIM Bangalore](/colleges/iim-bangalore), [IIM Lucknow](/blog/all-about-iim-colleges-placements-fees-selection-2026), [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Calcutta](/colleges/iim-calcutta), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore)**—alongside the newly designated **IIM Mumbai (formerly NITIE)**, represents the pinnacle of executive placements in India.
 
 The **2025 placement season** at these premier institutes demonstrated undeniable institutional strength. While lateral hiring in the broader IT sector experienced recalibration, global management consulting conglomerates, private equity firms, bulge-bracket investment banks, and consumer goods giants competed vigorously on these 7 campuses.
 
@@ -68,7 +68,7 @@ Here is the comprehensive deep-dive into the **IIM BLACKI & IIM Mumbai Placement
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ~400 | **₹34.45 LPA** | ₹31.50 LPA | ₹1.10 Cr (Domestic) | Management Consulting (38%) |
 | **[IIM Bangalore](/colleges/iim-bangalore)** | ~500 | **₹34.88 LPA** | ₹32.00 LPA | ₹1.15+ Cr (Intl) | Consulting & Tech Strategy (42%) |
 | **[IIM Calcutta](/colleges/iim-calcutta)** | ~460 | **₹34.23 LPA** | ₹31.20 LPA | **₹1.45 Cr (Intl)** | BFSI & Investment Banking (32%) |
-| **IIM Lucknow** | ~500 | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management (35%) |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | ~500 | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management (35%) |
 | **IIM Mumbai** | ~480 | **₹31.00 LPA** *(Top 50%: ₹34.50 L)* | ₹29.50 LPA | ₹71.40 LPA | Supply Chain, Fin & Tech (34%) |
 | **IIM Indore** | ~580 | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing (30%) |
 | **IIM Kozhikode** | ~520 | **₹28.18 LPA** | ₹26.50 LPA | ₹81.00 LPA | Consulting, BFSI & Retail (33%) |

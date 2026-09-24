@@ -230,7 +230,7 @@ Salary Growth Progression (LPA)
 1. **Indian Statistical Institute (ISI), Kolkata / Delhi:** M.Tech in Computer Science / Quality, Reliability & Operations Research.
 2. **IIT Madras / [IIT Bombay](/colleges/iit-bombay) / IIT Kharagpur / IIT Hyderabad:** M.Tech in Data Science & Artificial Intelligence.
 3. **IIIT Bangalore:** M.Tech / PGP in Data Science.
-4. **BITS Pilani:** M.Tech in Data Science (Campus & Work Integrated Learning Programs).
+4. **[BITS Pilani](/colleges/bits-pilani):** M.Tech in Data Science (Campus & Work Integrated Learning Programs).
 5. **Chennai Mathematical Institute (CMI):** M.Sc in Data Science.
 
 ---

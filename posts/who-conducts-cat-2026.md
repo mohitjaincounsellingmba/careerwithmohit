@@ -47,7 +47,7 @@ The Common Admission Test (CAT) is India's most prestigious and highly competiti
 
 A common question among aspirants preparing for the upcoming session is: **Who conducts CAT 2026?** 
 
-Based on the official rotation policy of the senior IIMs and early notifications, **IIM Indore** is the official conducting body for CAT 2026.
+Based on the official rotation policy of the senior IIMs and early notifications, **[IIM Indore](/colleges/iim-indore)** is the official conducting body for CAT 2026.
 
 ---
 
@@ -56,7 +56,7 @@ The responsibility of organizing the CAT rotates every year among the top six "o
 1. [IIM Ahmedabad](/colleges/iim-ahmedabad)
 2. [IIM Bangalore](/colleges/iim-bangalore)
 3. [IIM Calcutta](/colleges/iim-calcutta)
-4. IIM Lucknow
+4. [IIM Lucknow](/colleges/iim-lucknow)
 5. IIM Indore
 6. IIM Kozhikode
 

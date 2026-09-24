@@ -79,24 +79,24 @@ For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cu
 | **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | 95 | 99.5+ |
 | | [IIM Bangalore](/colleges/iim-bangalore) | 85 | 99.0+ |
 | | [IIM Calcutta](/colleges/iim-calcutta) | 85 | 99.5+ |
-| | IIM Lucknow | 90 | 98.5+ |
-| | IIM Indore | 90 | 98.0+ |
+| | [IIM Lucknow](/colleges/iim-lucknow) | 90 | 98.5+ |
+| | [IIM Indore](/colleges/iim-indore) | 90 | 98.0+ |
 | | IIM Kozhikode | 85 | 98.0+ |
 | **New IIMs** | IIM Mumbai | 95 | 97.5+ |
 | | IIM Shillong | 92 | 96.5+ |
-| | IIM Udaipur | 92 | 94.0+ |
-| | IIM Ranchi | 92 | 94.0+ |
-| | IIM Raipur | 92 | 94.0+ |
+| | [IIM Udaipur](/colleges/iim-udaipur) | 92 | 94.0+ |
+| | [IIM Ranchi](/colleges/iim-ranchi) | 92 | 94.0+ |
+| | [IIM Raipur](/colleges/iim-raipur) | 92 | 94.0+ |
 | | IIM Trichy | 92 | 94.0+ |
-| | IIM Kashipur | 92 | 94.0+ |
-| | IIM Rohtak | 95 | 96.0+ |
-| **Baby IIMs** | IIM Nagpur | 92 | 93.5+ |
+| | [IIM Kashipur](/colleges/iim-kashipur) | 92 | 94.0+ |
+| | [IIM Rohtak](/colleges/iim-rohtak) | 95 | 96.0+ |
+| **Baby IIMs** | [IIM Nagpur](/colleges/iim-nagpur) | 92 | 93.5+ |
 | | IIM Visakhapatnam | 92 | 93.0+ |
-| | IIM Amritsar | 92 | 93.0+ |
-| | IIM Bodh Gaya | 92 | 92.5+ |
-| | IIM Jammu | 92 | 92.5+ |
-| | IIM Sambalpur | 92 | 92.5+ |
-| | IIM Sirmaur | 90 | 91.5+ |
+| | [IIM Amritsar](/colleges/iim-amritsar) | 92 | 93.0+ |
+| | [IIM Bodh Gaya](/colleges/iim-bodh-gaya) | 92 | 92.5+ |
+| | [IIM Jammu](/colleges/iim-jammu) | 92 | 92.5+ |
+| | [IIM Sambalpur](/colleges/iim-sambalpur) | 92 | 92.5+ |
+| | [IIM Sirmaur](/colleges/iim-sirmaur) | 90 | 91.5+ |
 
 ---
 

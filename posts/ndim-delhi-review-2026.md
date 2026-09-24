@@ -105,7 +105,7 @@ Before exploring placement reports and semester breakdowns, here is a consolidat
 
 | Parameter | Verified Official Details |
 | :--- | :--- |
-| **Institution Name** | **New Delhi Institute of Management (NDIM)** |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** |
 | **Establishment Year** | 1992 (33+ Years of Academic Excellence) |
 | **Campus Location** | 60 & 61, Tughlakabad Institutional Area, Near Batra Hospital, New Delhi - 110062 |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |

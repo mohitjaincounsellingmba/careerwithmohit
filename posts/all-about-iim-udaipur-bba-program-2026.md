@@ -42,7 +42,7 @@ state: Delhi NCR
 
 In a historic shift for Indian business education, the Indian Institute of Management (IIM) Udaipur is launching its highly anticipated **4-Year Online, Bilingual Bachelor of Business Administration (BBA) program** on **July 6, 2026**. 
 
-Historically, elite management education in India has been restricted to students who could relocate, afford high tuition fees, or score in the top percentiles of highly competitive entrance exams. By introducing a digital-first, bilingual BBA, IIM Udaipur aims to democratize quality education and bring the prestigious IIM brand to a much wider demographic—including rural learners, working professionals, and those pursuing dual degrees.
+Historically, elite management education in India has been restricted to students who could relocate, afford high tuition fees, or score in the top percentiles of highly competitive entrance exams. By introducing a digital-first, bilingual BBA, [IIM Udaipur](/colleges/iim-udaipur) aims to democratize quality education and bring the prestigious IIM brand to a much wider demographic—including rural learners, working professionals, and those pursuing dual degrees.
 
 ---
 
@@ -176,6 +176,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

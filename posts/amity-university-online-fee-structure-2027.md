@@ -41,7 +41,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**Amity University Online** is one of India's premier NAAC A+ accredited online education platforms, offering UGC-DEB recognized degrees valid for government recruitments and corporate jobs worldwide.
+**[Amity University](/colleges/amity-noida) Online** is one of India's premier NAAC A+ accredited online education platforms, offering UGC-DEB recognized degrees valid for government recruitments and corporate jobs worldwide.
 
 One of the most critical factors students evaluate before enrolling is the **fee structure and payment flexibility**. In this comprehensive guide, we provide the exact **2027 fee breakdown**, semester payment schedules, registration fees, zero-cost EMI options, and hidden costs audit for all online programs at Amity University Online.
 

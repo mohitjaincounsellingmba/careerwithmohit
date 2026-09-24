@@ -136,7 +136,7 @@ Here is the comprehensive, data-backed ROI comparison table for the best PGDM / 
 | **[NIBM Pune (National Institute of Bank Management)](/blog/all-about-nibm-pune)** | ₹16.00 Lakhs | ₹15.22 LPA | **ROI: Exceptional (Top BFSI Hub)** \| CAT 80–85%ile, XAT 80%ile, CMAT 95%ile \| Elite RBI-promoted institution for Banking, Risk & Treasury |
 | **[PUMBA Pune (Dept of Management Sciences)](/blog/all-about-pumba-pune)** | ₹2.45 Lakhs – ₹2.80 Lakhs | ₹8.80 LPA – ₹9.50 LPA | **ROI: Unbeatable (>300% 1-Year ROI)** \| CAT 80–85%ile (All India), MAH CET 99+ %ile \| Savitribai Phule Pune University flagship |
 | **[NL Dalmia Institute of Management, Mumbai](/blog/all-about-nl-dalmia-admission-2026)** | ₹14.50 Lakhs – ₹15.50 Lakhs | ₹10.50 LPA – ₹11.50 LPA | **ROI: High** \| CAT 75–85%ile, XAT 75%ile, CMAT 85%ile, MH CET 90%ile \| Renowned Bloomberg Lab & Investment Banking network |
-| **[ISB&M Pune (International School of Business & Media)](/blog/all-about-international-school-of-business-media-pune)** | ₹11.80 Lakhs – ₹13.20 Lakhs | ₹10.50 LPA – ₹11.20 LPA | **ROI: High** \| CAT 70–80%ile, XAT 70%ile, CMAT 80%ile \| Excellent Media, Supply Chain & FMCG Brand Management roles |
+| **[ISB&M Pune ([International School of Business & Media](/colleges/international-school-of-business-media))](/blog/all-about-international-school-of-business-media-pune)** | ₹11.80 Lakhs – ₹13.20 Lakhs | ₹10.50 LPA – ₹11.20 LPA | **ROI: High** \| CAT 70–80%ile, XAT 70%ile, CMAT 80%ile \| Excellent Media, Supply Chain & FMCG Brand Management roles |
 | **[PIBM Pune (Pune Institute of Business Management)](/blog/all-about-pibm-pune)** | ₹9.45 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: Exceptional** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile, MAT 80%ile \| Sector-specific training (SAP, Bloomberg, PowerBI, FinTech) |
 | **[Sri Balaji University, Pune (SBUP / BIMM / BITM / BIIB)](/blog/all-about-asm-ibmr)** | ₹11.50 Lakhs – ₹12.50 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: High** \| CAT 65–75%ile, MAT 75%ile, CMAT 75%ile \| Huge corporate placement engine; strong Telecom & IT hiring |
 | **[ITM Business School, Navi Mumbai (Kharghar)](/blog/all-about-itm-mumbai)** | ₹12.50 Lakhs – ₹13.50 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: High** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile, MAT 75%ile \| 5-Month intensive industry internship model |
@@ -259,5 +259,5 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 * [Top MBA Colleges Accepting 70-80 Percentile in CAT](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)
 * [MBA vs PGDM: Which is Better for Your Career?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 * [All About NIBM Pune: Cutoffs, Fees & BFSI Placements](/blog/all-about-nibm-pune)
-* [All About PUMBA Pune: Fees, Cutoffs & High ROI Guide](/blog/all-about-pumba-pune)
-* [All About PIBM Pune: Review, Fees & Industry Placements](/blog/all-about-pibm-pune)
+* [All About [PUMBA Pune](/colleges/pumba-pune): Fees, Cutoffs & High ROI Guide](/blog/all-about-pumba-pune)
+* [All About [PIBM Pune](/colleges/pibm-pune): Review, Fees & Industry Placements](/blog/all-about-pibm-pune)

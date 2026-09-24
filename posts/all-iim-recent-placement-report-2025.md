@@ -80,24 +80,24 @@ Below is the consolidated placement comparison table for **all 21 Indian Institu
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Old / Top-Tier | **₹34.45 LPA** | ₹31.50 LPA | ₹1.10 Cr (Domestic) | Management Consulting |
 | **[IIM Bangalore](/colleges/iim-bangalore)** | Old / Top-Tier | **₹34.88 LPA** | ₹32.00 LPA | ₹1.15+ Cr (Intl) | Consulting & Tech |
 | **[IIM Calcutta](/colleges/iim-calcutta)** | Old / Top-Tier | **₹34.23 LPA** | ₹31.20 LPA | **₹1.45 Cr (Intl)** | BFSI & Investment Banking |
-| **IIM Lucknow** | Old / Top-Tier | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | Old / Top-Tier | **₹32.30 LPA** | ₹30.00 LPA | ₹1.00 Cr | Consulting & Gen Management |
 | **IIM Mumbai (NITIE)** | Old / Elite | **₹31.00 – 34.50 LPA** | ₹29.50 LPA | ₹71.40 LPA | Supply Chain, Ops & Fin |
-| **IIM Indore** | Old / Top-Tier | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing |
+| **[IIM Indore](/colleges/iim-indore)** | Old / Top-Tier | **₹29.75 LPA** | ₹27.20 LPA | ₹70.00 LPA | Consulting, Sales & Marketing |
 | **IIM Kozhikode** | Old / Top-Tier | **₹28.18 LPA** | ₹26.50 LPA | ₹81.00 LPA | Consulting & BFSI |
 | **IIM Shillong** | New / Gen-2 | **₹27.03 LPA** | ₹25.00 LPA | ₹71.50 LPA | Strategy, Consulting & IT |
-| **IIM Rohtak** | New / Gen-2 | **₹20.03 LPA** | ₹18.80 LPA | ₹48.20 LPA | Consulting & Analytics |
-| **IIM Ranchi** | New / Gen-2 | **₹19.29 LPA** | ₹17.50 LPA | ₹37.80 LPA | BFSI, HR & Marketing |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | New / Gen-2 | **₹20.03 LPA** | ₹18.80 LPA | ₹48.20 LPA | Consulting & Analytics |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | New / Gen-2 | **₹19.29 LPA** | ₹17.50 LPA | ₹37.80 LPA | BFSI, HR & Marketing |
 | **IIM Trichy** | New / Gen-2 | **₹19.27 LPA** | ₹18.20 LPA | ₹41.60 LPA | BFSI & Consulting |
-| **IIM Raipur** | New / Gen-2 | **₹18.80 LPA** | ₹17.50 LPA | ₹43.40 LPA | IT/ITES & Operations |
-| **IIM Udaipur** | New / Gen-2 | **₹17.58 LPA** | ₹16.50 LPA | ₹47.00 LPA | Consulting & Analytics |
-| **IIM Kashipur** | New / Gen-2 | **₹15.04 – 18.10 LPA** | ₹15.20 LPA | ₹37.00 LPA | Operations & Analytics |
-| **IIM Amritsar** | Baby / Gen-3 | **₹19.73 LPA** | ₹17.00 LPA | ₹58.52 LPA (Intl) / ₹28 LPA | BFSI, IT & Consulting |
-| **IIM Nagpur** | Baby / Gen-3 | **₹18.07 LPA** | ₹16.80 LPA | ₹69.57 LPA | IT/ITES & Strategy |
+| **[IIM Raipur](/colleges/iim-raipur)** | New / Gen-2 | **₹18.80 LPA** | ₹17.50 LPA | ₹43.40 LPA | IT/ITES & Operations |
+| **[IIM Udaipur](/colleges/iim-udaipur)** | New / Gen-2 | **₹17.58 LPA** | ₹16.50 LPA | ₹47.00 LPA | Consulting & Analytics |
+| **[IIM Kashipur](/colleges/iim-kashipur)** | New / Gen-2 | **₹15.04 – 18.10 LPA** | ₹15.20 LPA | ₹37.00 LPA | Operations & Analytics |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | Baby / Gen-3 | **₹19.73 LPA** | ₹17.00 LPA | ₹58.52 LPA (Intl) / ₹28 LPA | BFSI, IT & Consulting |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | Baby / Gen-3 | **₹18.07 LPA** | ₹16.80 LPA | ₹69.57 LPA | IT/ITES & Strategy |
 | **IIM Visakhapatnam** | Baby / Gen-3 | **₹16.40 LPA** | ₹15.50 LPA | ₹32.50 LPA | BFSI & Consulting |
-| **IIM Jammu** | Baby / Gen-3 | **₹16.00+ LPA** | ₹15.80 LPA | ₹32.00 LPA | Marketing & BFSI |
-| **IIM Sambalpur** | Baby / Gen-3 | **₹15.65 LPA** | ₹14.50 LPA | ₹48.60 LPA | BFSI & IT/ITES |
-| **IIM Bodh Gaya** | Baby / Gen-3 | **₹13.10 – 15.80 LPA** | ₹13.00 LPA | ₹22.00 – 30.50 LPA | Banking, Finance & Sales |
-| **IIM Sirmaur** | Baby / Gen-3 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | General Management & Ops |
+| **[IIM Jammu](/colleges/iim-jammu)** | Baby / Gen-3 | **₹16.00+ LPA** | ₹15.80 LPA | ₹32.00 LPA | Marketing & BFSI |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | Baby / Gen-3 | **₹15.65 LPA** | ₹14.50 LPA | ₹48.60 LPA | BFSI & IT/ITES |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | Baby / Gen-3 | **₹13.10 – 15.80 LPA** | ₹13.00 LPA | ₹22.00 – 30.50 LPA | Banking, Finance & Sales |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | Baby / Gen-3 | **₹13.30 – 14.50 LPA** | ₹12.50 LPA | ₹28.00 LPA | General Management & Ops |
 
 > [!NOTE]
 > **Understanding Audit Standards & CTC Variance**: Institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad) and IIM Udaipur follow Indian Placement Reporting Standards (IPRS), providing audited reports with distinct fixed basic salaries, performance bonuses, and guaranteed cash components. In contrast, non-IPRS figures reflect total cost-to-company (CTC).

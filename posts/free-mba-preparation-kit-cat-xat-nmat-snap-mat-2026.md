@@ -146,7 +146,7 @@ Unlike generic ranking tables, the Starter Kit organizes B-Schools into **4 tran
 │ Top Tier 2        │ 80 - 90 CAT / XAT / SNAP   │ ₹14.0 - ₹23.7 LPA  │ IIM Shillong, SCMHRD, │
 │ (80-90% ile)      │ 215+ NMAT Score            │                    │ XIMB, IMT, IMI, TAPMI │
 ├───────────────────┼────────────────────────────┼────────────────────┼───────────────────────┤
-│ Reputed Tier 2/3  │ 70 - 80 CAT / XAT / CMAT   │ ₹11.0 - ₹16.6 LPA  │ IIM Amritsar, IRMA,   │
+│ Reputed Tier 2/3  │ 70 - 80 CAT / XAT / CMAT   │ ₹11.0 - ₹16.6 LPA  │ [IIM Amritsar](/colleges/iim-amritsar), IRMA,   │
 │ (70-80% ile)      │ 200+ NMAT Score            │                    │ K J Somaiya, BIMTECH  │
 ├───────────────────┼────────────────────────────┼────────────────────┼───────────────────────┤
 │ Accessible Tier   │ <70% ile / MAT / CMAT /    │ ₹7.5 - ₹12.8 LPA   │ Jaipuria, SIDTM, SCIT,│

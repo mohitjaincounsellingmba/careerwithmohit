@@ -158,7 +158,7 @@ To provide clear comparative perspective for MBA aspirants, the table below benc
 | **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2025)** | ₹24.00 Lakhs | **₹33.00 LPA** | Elite ROI across all streams; Profile-based / CAT / XAT 85+%ile |
 | **[IRMA Anand](/blog/irma-anand-review-2026)** | ₹16.80 Lakhs | **₹15.50 LPA** | Excellent ROI for Rural, FMCG & Agri-Business; CAT / XAT / CMAT |
 | **[SIBM Bangalore](/blog/sibm-bangalore-review-2026)** | ₹21.00 Lakhs | **₹14.48 LPA** | Strong Tech-City Corporate Connect; SNAP 90+%ile |
-| **NMIMS Mumbai** | ₹26.00 Lakhs | **₹20.01 LPA** | High corporate density in Finance & Marketing; NMAT 235+ Score |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai)** | ₹26.00 Lakhs | **₹20.01 LPA** | High corporate density in Finance & Marketing; NMAT 235+ Score |
 
 ---
 

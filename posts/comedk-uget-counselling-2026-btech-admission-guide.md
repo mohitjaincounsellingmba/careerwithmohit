@@ -57,7 +57,7 @@ state: Karnataka
 *   **Initial Part Payment**: ₹55,000 (Mandatory seat acceptance fee after allotment).
 
 ### **Top Participating Colleges in COMEDK 2026**
-1.  **RV College of Engineering (RVCE), Bangalore** - *Top Choice.*
+1.  **[RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore), Bangalore** - *Top Choice.*
 2.  **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore), Bangalore**.
 3.  **B.M.S. College of Engineering (BMSCE), Bangalore**.
 4.  **[PES University](/colleges/pes-university), Bangalore**.

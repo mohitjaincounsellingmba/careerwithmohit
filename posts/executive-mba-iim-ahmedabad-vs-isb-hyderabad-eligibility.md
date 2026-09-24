@@ -23,7 +23,7 @@ location: 'Pan India'
 state: 'Pan India'
 ---
 
-For experienced working professionals aiming to transition into senior management, strategic consulting, venture capital, or product leadership, India offers two world-renowned 1-year MBA programs: the **Post Graduate Programme in Management for Executives (PGPX) at IIM Ahmedabad** and the **Post Graduate Programme in Management (PGP) at the Indian School of Business (ISB Hyderabad & Mohali)**.
+For experienced working professionals aiming to transition into senior management, strategic consulting, venture capital, or product leadership, India offers two world-renowned 1-year MBA programs: the **Post Graduate Programme in Management for Executives (PGPX) at [IIM Ahmedabad](/colleges/iim-ahmedabad)** and the **Post Graduate Programme in Management (PGP) at the Indian School of Business (ISB Hyderabad & Mohali)**.
 
 Both programs consistently rank in the **Global Top 40 of the Financial Times (FT) Global MBA Rankings**, rivaling premier US and European business schools.
 

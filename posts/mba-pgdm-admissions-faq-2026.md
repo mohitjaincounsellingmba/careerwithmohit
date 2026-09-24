@@ -112,7 +112,7 @@ Currently, Finance and Marketing remain toppers, but **Business Analytics** and 
 Yes, if the degree is from a UGC-DEB recognized university. Online MBAs are becoming very popular for working professionals.
 
 **15. What is an Integrated MBA (IPM)?**
-It’s a 5-year course (BBA + MBA) you can join directly after 12th grade. IIM Indore and IIM Rohtak are famous for this.
+It’s a 5-year course (BBA + MBA) you can join directly after 12th grade. [IIM Indore](/colleges/iim-indore) and [IIM Rohtak](/colleges/iim-rohtak) are famous for this.
 
 ---
 

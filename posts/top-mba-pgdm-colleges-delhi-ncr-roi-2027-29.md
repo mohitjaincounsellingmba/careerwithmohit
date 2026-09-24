@@ -95,7 +95,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 * **Selection Criteria**: CAT Score (weighted) + Personal Interview + Extempore + Statement of Purpose (SOP).
 * **Top Recruiters**: McKinsey & Company, Bain & Co., BCG, Morgan Stanley, Goldman Sachs, Unilever.
 
-### 2. MDI Gurgaon (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
 * **Highlights**: Sprawling 37-acre lush green campus in Gurgaon corporate hub. Globally accredited by AMBA and AACSB.
 * **Cutoff 2027-29**: CAT 93-95 percentile, XAT 94+ percentile.
 * **Specializations**: PGDM, PGDM-HRM, PGDM-IB.
@@ -119,7 +119,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 
 $$\text{ROI Percentage} = \left( \frac{\text{Average Annual Placement Package}}{\text{Total Program Tuition Fee}} \right) \times 100$$
 
-* **FMS Delhi ROI**: $(34.10 / 2.00) \times 100 = \mathbf{1705\%}$
+* **[FMS Delhi](/colleges/fms-delhi) ROI**: $(34.10 / 2.00) \times 100 = \mathbf{1705\%}$
 * **FOSTIIMA Delhi ROI**: $(11.15 / 11.50) \times 100 = \mathbf{96.9\%}$
 * **NDIM Delhi ROI**: $(9.50 / 11.50) \times 100 = \mathbf{82.6\%}$
 * **JIMS Kalkaji ROI**: $(8.10 / 9.30) \times 100 = \mathbf{87.0\%}$

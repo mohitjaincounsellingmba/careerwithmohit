@@ -60,7 +60,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ LM Thapar School of Management (TIET): University Overview & Accreditation
 
-LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus near Chandigarh, is the flagship B-school of the legendary [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET). Backed by Thapar's 68-year academic prestige, LMTSM offers tech-savvy MBA specializations, global semester exchanges, and strong consulting placements.
+[LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi), located at the modern Dera Bassi campus near Chandigarh, is the flagship B-school of the legendary [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET). Backed by Thapar's 68-year academic prestige, LMTSM offers tech-savvy MBA specializations, global semester exchanges, and strong consulting placements.
 
 ### Key Institutional Highlights (2026)
 
@@ -98,7 +98,7 @@ LM Thapar School of Management (LMTSM), located at the modern Dera Bassi campus 
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Thapar Institute of Engineering and Technology (LM Thapar School of Management), Dera Bassi maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (LM Thapar School of Management), Dera Bassi maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

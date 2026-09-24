@@ -103,7 +103,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2025–2026: Salary Packages & Recruiters
 
-The placement record at **ISB&M Gurgaon (International School of Business & Media)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹14.0 LPA**
 *   **Average CTC:** **₹7.5 LPA**
@@ -201,6 +201,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

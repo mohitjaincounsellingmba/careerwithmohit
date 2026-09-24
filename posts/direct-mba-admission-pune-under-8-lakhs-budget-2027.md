@@ -162,11 +162,11 @@ To help you make an objective financial decision, the table below compares total
 | **[PUMBA Pune](/colleges/pumba-pune)** | MBA (SPPU) | ₹1.30 L - ₹1.50 L | ₹8.85 LPA | ₹18.00 LPA | **590% (Outstanding)** |
 | **AISSMS Pune** | MBA (SPPU) | ₹2.40 L - ₹2.80 L | ₹5.20 LPA | ₹10.50 LPA | **196% (High)** |
 | **Akemi Business School** | MBA (SPPU) | ₹3.50 L - ₹4.20 L | ₹5.80 LPA | ₹11.00 LPA | **145% (Strong)** |
-| **ASM IBMR Pune** | MBA/PGDM | ₹4.50 L - ₹6.50 L | ₹6.00 LPA | ₹12.00 LPA | **109% (Solid)** |
-| **RIIM Pune** | PGDM / MBA | ₹5.90 L - ₹6.90 L | ₹6.75 LPA | ₹14.00 LPA | **105% (Solid)** |
+| **[ASM IBMR](/colleges/asm-ibmr) Pune** | MBA/PGDM | ₹4.50 L - ₹6.50 L | ₹6.00 LPA | ₹12.00 LPA | **109% (Solid)** |
+| **[RIIM Pune](/colleges/riim-pune)** | PGDM / MBA | ₹5.90 L - ₹6.90 L | ₹6.75 LPA | ₹14.00 LPA | **105% (Solid)** |
 | **Suryadatta (SIMMC)** | PGDM / MBA | ₹5.50 L - ₹6.80 L | ₹6.00 LPA | ₹14.20 LPA | **98% (Good)** |
 | **Lexicon MILE Pune** | PGDM | ₹7.50 L - ₹7.90 L | ₹7.10 LPA | ₹18.00 LPA | **92% (Good)** |
-| **PIBM Pune** | PGDM / MBA | ₹7.75 L - ₹7.95 L | ₹7.40 LPA | ₹15.50 LPA | **93% (Good)** |
+| **[PIBM Pune](/colleges/pibm-pune)** | PGDM / MBA | ₹7.75 L - ₹7.95 L | ₹7.40 LPA | ₹15.50 LPA | **93% (Good)** |
 
 ---
 

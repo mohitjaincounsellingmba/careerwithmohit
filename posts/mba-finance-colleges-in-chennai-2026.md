@@ -48,7 +48,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | **Great Lakes Institute of Management, Chennai** | CAT / XAT / GMAT | ₹19.8 Lakhs (Total) | **₹18.10 LPA** |
 | **IFMR GSB (Sri City / Chennai)** | CAT / XAT / CMAT / GRE | ₹14.5 Lakhs (Total) | **₹13.50 LPA** |
 | **DoMS IIT Madras** | CAT | ₹10.0 Lakhs (Total) | **₹16.60 LPA** |
-| **Loyola Institute of Business Administration (LIBA)** | CAT / XAT | ₹16.5 Lakhs (Total) | **₹11.20 LPA** |
+| **[Loyola Institute of Business Administration (LIBA)](/colleges/liba-chennai)** | CAT / XAT | ₹16.5 Lakhs (Total) | **₹11.20 LPA** |
 
 ---
 

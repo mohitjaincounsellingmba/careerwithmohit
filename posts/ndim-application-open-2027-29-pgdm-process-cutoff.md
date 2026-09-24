@@ -87,7 +87,7 @@ state: Delhi NCR
 
 ---
 
-**New Delhi Institute of Management (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
+**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
 
 Recognized consecutively by **AICTE-CII as the #1 B-School in India for Industry Linkages for 3 years**, NDIM offers a future-ready PGDM curriculum designed in consultation with corporate titans from Big 4 consulting firms, multinational financial conglomerates, and fast-growing tech enterprises.
 
@@ -156,7 +156,7 @@ NDIM follows a **holistic profile-based evaluation system**. While high entrance
 | Entrance Exam | General Merit Cutoff | Profile-Based Call Cutoff | Test Validity & Scope |
 | :--- | :--- | :--- | :--- |
 | **CAT 2026** | **60 – 70 Percentile** | **55+ Percentile** | National IIMs Exam |
-| **XAT 2027** | **60 – 70 Percentile** | **55+ Percentile** | XLRI Jamshedpur Test |
+| **XAT 2027** | **60 – 70 Percentile** | **55+ Percentile** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) Test |
 | **CMAT 2027** | **70 – 80 Percentile** | **65+ Percentile** | NTA National Test |
 | **MAT (2026–2027)** | **70 – 80 Percentile** (550+ Composite) | **65+ Percentile** | AIMA Multi-Session Test |
 | **ATMA 2027** | **70 – 75 Percentile** | **65+ Percentile** | AIMS National Test |
@@ -311,7 +311,7 @@ NDIM maintains an enviable **100% placement track record** with marquee corporat
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalence · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by IIM Ahmedabad Alumni |
+| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni |
 | **[Jaipuria Institute of Management (Noida)](/colleges/jaipuria-noida)** | ₹14.75 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · NAAC A+ |
 | **[FIIB South Delhi](/colleges/fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
 | **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji)** | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · NBA Accredited, AIU Equivalence |

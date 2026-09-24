@@ -23,7 +23,7 @@ faqs:
       granted the 'Institution of Eminence' status.
 ---
 
-KIIT School of Management (KSOM), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.
+[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose KSOM Bhubaneswar for BBA in 2026?
 KSOM offers a BBA program that is deeply integrated with industry requirements, providing students with a holistic learning experience.

@@ -47,7 +47,7 @@ location: Ghaziabad
 state: Delhi NCR
 ---
 
-When aspiring managers look for premier management education in North India outside the IIM umbrella, three prominent business schools consistently dominate the shortlist: **IMT Ghaziabad, FORE School of Management (New Delhi), and LBSIM (New Delhi)**.
+When aspiring managers look for premier management education in North India outside the IIM umbrella, three prominent business schools consistently dominate the shortlist: **IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi) (New Delhi), and LBSIM (New Delhi)**.
 
 Each of these three institutions enjoys distinct academic reputations, specialized recruiting clusters, and return on investment equations.
 

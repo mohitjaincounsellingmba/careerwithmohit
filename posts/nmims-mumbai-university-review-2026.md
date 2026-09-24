@@ -99,7 +99,7 @@ SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/instit
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. SVKM’s NMIMS (Narsee Monjee Institute of Management Studies) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 
@@ -138,7 +138,7 @@ Securing admission to SVKM’s NMIMS (Narsee Monjee Institute of Management Stud
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **NMIMS Mumbai**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[NMIMS Mumbai](/colleges/nmims-mumbai)**:
 
 ### 👍 Why Choose NMIMS Mumbai? (Pros)
 - **AACSB** Accreditation and NAAC A+ Grade placing NMIMS in the top 1% of global business schools
@@ -196,6 +196,6 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -33,7 +33,7 @@ Understanding the structural difference between an MBA and a PGDM ensures you ma
 
 | Feature | Master of Business Administration (MBA) | Post Graduate Diploma in Management (PGDM) |
 | :--- | :--- | :--- |
-| **Awarding Body** | University-affiliated colleges (e.g., FMS DU, PUMBA Pune) | Autonomous institutions approved by AICTE (e.g., XLRI, SPJIMR, NDIM, FIIB) |
+| **Awarding Body** | University-affiliated colleges (e.g., FMS DU, [PUMBA Pune](/colleges/pumba-pune)) | Autonomous institutions approved by AICTE (e.g., XLRI, SPJIMR, NDIM, FIIB) |
 | **Curriculum Update Frequency** | Tied to university syllabus review cycles | Updated annually with active corporate advisory boards |
 | **Industry Immersion** | Academic and theoretical orientation | High practical emphasis, live simulations, dual specializations |
 | **AIU Equivalence** | Native Master's Degree | AIU equivalence grants equal status to MBA for higher studies & govt jobs |
@@ -46,8 +46,8 @@ To secure admission into premier B-Schools for the 2027–2029 batch, track thes
 
 1. **CAT 2026 (Common Admission Test)**: Registration opens in August 2026; Exam conducted in late November 2026. Required for all 21 IIMs, FMS, MDI, SPJIMR, and top Tier-2 colleges.
 2. **XAT 2027 (Xavier Aptitude Test)**: Registration opens in July/August 2026; Exam held first Sunday of January 2027. Accepted by XLRI, XIMB, IMT, and 160+ associate institutes.
-3. **NMAT 2026–2027**: Testing window runs from October to December 2026. Accepted by NMIMS Mumbai, K J Somaiya, TAPMI, and XIM University.
-4. **SNAP 2026**: Conducted in 3 slots across December 2026. Gateway to SIBM Pune, SCMHRD, SIIB, and all Symbiosis institutes.
+3. **NMAT 2026–2027**: Testing window runs from October to December 2026. Accepted by [NMIMS Mumbai](/colleges/nmims-mumbai), K J Somaiya, TAPMI, and XIM University.
+4. **SNAP 2026**: Conducted in 3 slots across December 2026. Gateway to [SIBM Pune](/colleges/sibm-pune), SCMHRD, SIIB, and all Symbiosis institutes.
 5. **CMAT & MAT (2026–2027)**: National testing agency and AIMA exams conducted multiple times a year; ideal for Tier-2/Tier-3 PGDM colleges.
 
 ---
@@ -56,18 +56,18 @@ To secure admission into premier B-Schools for the 2027–2029 batch, track thes
 
 | College Name | Total Fees (2027–29) | Average Package | Accepted Exams & Cutoff | Accreditation / Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **IIM Ahmedabad** | ₹26.50 Lakhs | ₹35.22 LPA | CAT (99.5+ %ile) | NIRF Rank #1 · Global AACSB/EQUIS |
-| **FMS Delhi (DU)** | ₹2.40 Lakhs | ₹34.10 LPA | CAT (99.2+ %ile) | Highest ROI B-School in Asia |
-| **XLRI Jamshedpur** | ₹28.60 Lakhs | ₹29.80 LPA | XAT (95.0+ %ile) | Premier Private B-School |
-| **SPJIMR Mumbai** | ₹24.00 Lakhs | ₹33.00 LPA | CAT / XAT (85%+ Profile based) | AACSB Accredited |
-| **MDI Gurgaon** | ₹26.00 Lakhs | ₹25.50 LPA | CAT (95.0+ %ile) | AMBA & SAQS Accredited |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹26.50 Lakhs | ₹35.22 LPA | CAT (99.5+ %ile) | NIRF Rank #1 · Global AACSB/EQUIS |
+| **[FMS Delhi](/colleges/fms-delhi) (DU)** | ₹2.40 Lakhs | ₹34.10 LPA | CAT (99.2+ %ile) | Highest ROI B-School in Asia |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | ₹28.60 Lakhs | ₹29.80 LPA | XAT (95.0+ %ile) | Premier Private B-School |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹24.00 Lakhs | ₹33.00 LPA | CAT / XAT (85%+ Profile based) | AACSB Accredited |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹26.00 Lakhs | ₹25.50 LPA | CAT (95.0+ %ile) | AMBA & SAQS Accredited |
 | **NMIMS Mumbai (SBM)** | ₹25.00 Lakhs | ₹26.63 LPA | NMAT (232+ Score) | AACSB Accredited |
 | **SIBM Pune** | ₹24.50 Lakhs | ₹28.16 LPA | SNAP (98.0+ %ile) | Flagship Symbiosis Campus |
 | **NDIM New Delhi** | ₹11.50L – ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) | AICTE Approved · AIU MBA Equivalent |
 | **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) | Founded by IIM Ahmedabad Alumni |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) | AACSB Member · NBA Accredited |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L – ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) | NBA & AIU Equivalent |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/MAT/CMAT/ATMA/MAH-CET | AICTE & NBA Accredited |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/MAT/CMAT/ATMA/MAH-CET | AICTE & NBA Accredited |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/MAT/XAT/CMAT/ATMA | AICTE Approved · Prime Tech Location |
 
 ---

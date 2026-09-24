@@ -36,7 +36,7 @@ faqs:
 location: Bangalore
 state: Karnataka
 ---
-**RV University (RVU)** is a newer addition to the Bangalore academic landscape, established in 2020 by the same trust that manages the iconic **RV College of Engineering (RVCE)**. While RVCE remains the traditional flagship, RV University offers a more flexible, interdisciplinary, and research-focused B.Tech (Hons) program.
+**RV University (RVU)** is a newer addition to the Bangalore academic landscape, established in 2020 by the same trust that manages the iconic **[RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore)**. While RVCE remains the traditional flagship, RV University offers a more flexible, interdisciplinary, and research-focused B.Tech (Hons) program.
 
 If you are looking at the **RVU Bangalore B.Tech 2026 batch**, here is the complete breakdown of admissions, fees, and the "RVU vs. RVCE" dilemma.
 

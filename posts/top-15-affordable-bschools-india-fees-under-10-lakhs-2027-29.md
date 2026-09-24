@@ -85,7 +85,7 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 
 ## Detailed Analysis of Top Value B-Schools
 
-### 1. FMS Delhi & SIMSREE Mumbai (The ROI Titans)
+### 1. [FMS Delhi](/colleges/fms-delhi) & SIMSREE Mumbai (The ROI Titans)
 * Both institutes are government-backed management institutions. While FMS admissions require 98+ percentile in CAT, SIMSREE accepts MAH-CET and CAT.
 
 ### 2. IISWBM Kolkata
@@ -94,7 +94,7 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 ### 3. GNIOT GIMS & GL Bajaj Greater Noida
 * Situated in Greater Noida Knowledge Park, these AICTE-approved PGDM colleges charge under ₹7 Lakhs total fee and deliver 100% campus placement support. Read [All About GNIOT GIMS](/blog/all-about-gniot-institute-of-management-studies-gims) and [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
 
-### 4. RIIM Pune & GIBS Bangalore
+### 4. [RIIM Pune](/colleges/riim-pune) & GIBS Bangalore
 * Premier autonomous PGDM institutes providing practical industry exposure, dual specializations, and living assistance under ₹9 Lakhs total investment. Read [All About RIIM Pune](/blog/all-about-riim-pune) and [All About GIBS Bangalore](/blog/all-about-gibs-bangalore).
 
 ---

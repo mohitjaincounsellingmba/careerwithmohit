@@ -140,7 +140,7 @@ Securing admission to S.P. Jain Institute of Management and Research (SPJIMR) fo
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**:
 
-### 👍 Why Choose SPJIMR Mumbai? (Pros)
+### 👍 Why Choose [SPJIMR Mumbai](/colleges/spjimr-mumbai)? (Pros)
 - **Stellar** average CTC of ~₹33+ LPA, competing directly with [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta
 - **Unique** profile-based shortlisting that rewards academic consistency, versatility, and social values
 - **AACSB** and AMBA dual international accreditations with world-class faculty and industry mentors
@@ -196,6 +196,6 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

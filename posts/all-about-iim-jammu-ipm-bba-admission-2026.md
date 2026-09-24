@@ -33,7 +33,7 @@ location: Delhi
 state: Delhi NCR
 ---
 
-IIM Jammu, located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
+[IIM Jammu](/colleges/iim-jammu), located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
 
 ## 🏛️ Why Choose IIM Jammu IPM in 2026?
 IIM Jammu's IPM program focuses on creating globally competitive management professionals with a strong ethical foundation.
@@ -77,7 +77,7 @@ The intake is approximately 120 seats for the 2027–2029 intake.
 
 ---
 
-**Confused between IIM Jammu and IIM Bodh Gaya?**
+**Confused between IIM Jammu and [IIM Bodh Gaya](/colleges/iim-bodh-gaya)?**
 Both use the JIPMAT exam but have different campus cultures and location advantages. Mohit Jain’s "JIPMAT Preference Guide" helps you rank these colleges correctly during the application process.
 
 [👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
@@ -99,6 +99,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

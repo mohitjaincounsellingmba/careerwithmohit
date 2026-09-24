@@ -74,7 +74,7 @@ location: Gurgaon
 state: Pan India
 ---
 
-# Amity University Gurugram (Manesar) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Amity University](/colleges/amity-noida) Gurugram (Manesar) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹9.80 Lakhs (Total)** (**₹4.90 Lakhs per Year**). Up to 100% merit scholarship based on 12th/Graduation and CAT/MAT percentiles.

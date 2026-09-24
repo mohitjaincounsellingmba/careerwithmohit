@@ -63,7 +63,7 @@ Whether you want to build the next AI breakthrough or dive into heavy manufactur
 ### 1. Bangalore (Bengaluru): The Silicon Valley
 If you are pursuing **Computer Science (CSE), AI, or Data Science**, Bangalore is the ultimate destination.
 
-*   **Top Colleges:** IISc Bangalore, IIIT Bangalore, RV College of Engineering (RVCE), [PES University](/colleges/pes-university), BMSCE.
+*   **Top Colleges:** IISc Bangalore, IIIT Bangalore, [RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore), [PES University](/colleges/pes-university), BMSCE.
 *   **Pros:** Highest density of IT companies, startups, and global R&D centers. Unmatched software job market.
 *   **Cons:** High cost of living and legendary traffic jams.
 *   **Average Salary (Top Colleges):** ₹12 - ₹36+ LPA.

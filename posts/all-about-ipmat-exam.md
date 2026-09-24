@@ -65,9 +65,9 @@ In this comprehensive guide, we cover everything you need to know about **IPMAT 
 ## 1. IPMAT Exam Overview 2026
 
 There are three main entrance exams under the IPM umbrella:
-1. **IPMAT Indore:** Conducted by **[IIM Indore](/colleges/iim-indore)** (accepted by IIM Indore, IIM Ranchi, IIFT, NALSAR, etc.)
-2. **IPMAT Rohtak:** Conducted separately by **IIM Rohtak** for its 5-year IPM program.
-3. **JIPMAT (Joint Integrated Programme in Management Admission Test):** Conducted by NTA for **IIM Bodh Gaya** and **IIM Jammu**.
+1. **IPMAT Indore:** Conducted by **[IIM Indore](/colleges/iim-indore)** (accepted by [IIM Indore](/colleges/iim-indore), [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, etc.)
+2. **IPMAT Rohtak:** Conducted separately by **[IIM Rohtak](/colleges/iim-rohtak)** for its 5-year IPM program.
+3. **JIPMAT (Joint Integrated Programme in Management Admission Test):** Conducted by NTA for **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** and **[IIM Jammu](/colleges/iim-jammu)**.
 
 | Exam Feature | IPMAT Indore 2026 | IPMAT Rohtak 2026 |
 | :--- | :--- | :--- |
@@ -242,7 +242,7 @@ Cracking IPMAT requires a structured strategy that balances board exam preparati
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)

@@ -94,24 +94,24 @@ Below is the exhaustive comparison table of **all 21 IIMs**, detailing their est
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Old (1961) | ₹27.5 – 30.0 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.5 LPA** | ₹1.30+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
 | **[IIM Bangalore](/colleges/iim-bangalore)** | Old (1973) | ₹24.5 – 26.5 L | ₹18.0 – 20.0 LPA | **₹35.0 – 36.0 LPA** | ₹1.15+ Cr (Intl) / ₹65 LPA | 99.0+ %ile |
 | **[IIM Calcutta](/colleges/iim-calcutta)** | Old (1961) | ₹27.0 – 29.0 L | ₹18.5 – 20.0 LPA | **₹35.0 – 35.5 LPA** | ₹1.20+ Cr (Intl) / ₹70 LPA | 99.5+ %ile |
-| **IIM Lucknow** | Old (1984) | ₹20.5 – 22.5 L | ₹16.0 – 18.0 LPA | **₹30.0 – 33.0 LPA** | ₹1.00+ Cr (Intl) / ₹65 LPA | 98.5+ %ile |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | Old (1984) | ₹20.5 – 22.5 L | ₹16.0 – 18.0 LPA | **₹30.0 – 33.0 LPA** | ₹1.00+ Cr (Intl) / ₹65 LPA | 98.5+ %ile |
 | **IIM Kozhikode** | Old (1996) | ₹22.0 – 24.0 L | ₹15.0 – 17.0 LPA | **₹28.0 – 30.0 LPA** | ₹70.0 LPA | 98.0+ %ile |
-| **IIM Indore** | Old (1996) | ₹21.0 – 23.0 L | ₹14.0 – 16.0 LPA | **₹25.0 – 27.5 LPA** | ₹65.0 LPA | 98.0+ %ile |
+| **[IIM Indore](/colleges/iim-indore)** | Old (1996) | ₹21.0 – 23.0 L | ₹14.0 – 16.0 LPA | **₹25.0 – 27.5 LPA** | ₹65.0 LPA | 98.0+ %ile |
 | **IIM Mumbai (NITIE)** | Old / Elite (1963) | ₹21.0 – 22.5 L | ₹16.0 – 18.0 LPA | **₹31.0 – 32.5 LPA** | ₹78.0 LPA | 97.5+ %ile |
 | **IIM Shillong** | New (2007) | ₹19.0 – 21.0 L | ₹14.0 – 15.0 LPA | **₹26.1 LPA** | ₹71.5 LPA | 96.5+ %ile |
-| **IIM Raipur** | New (2010) | ₹18.0 – 20.0 L | ₹13.0 – 14.0 LPA | **₹21.0 LPA** | ₹43.4 LPA | 94.0+ %ile |
+| **[IIM Raipur](/colleges/iim-raipur)** | New (2010) | ₹18.0 – 20.0 L | ₹13.0 – 14.0 LPA | **₹21.0 LPA** | ₹43.4 LPA | 94.0+ %ile |
 | **IIM Trichy** | New (2010) | ₹18.0 – 20.0 L | ₹13.0 – 14.0 LPA | **₹20.5 LPA** | ₹41.6 LPA | 94.0+ %ile |
-| **IIM Udaipur** | New (2011) | ₹18.5 – 20.5 L | ₹12.5 – 13.5 LPA | **₹20.3 LPA** | ₹47.0 LPA | 94.0+ %ile |
-| **IIM Rohtak** | New (2010) | ₹18.0 – 19.5 L | ₹12.5 – 13.5 LPA | **₹19.2 LPA** | ₹48.2 LPA | 96.0+ %ile |
-| **IIM Ranchi** | New (2010) | ₹18.0 – 20.0 L | ₹12.5 – 13.5 LPA | **₹18.6 LPA** | ₹37.8 LPA | 94.0+ %ile |
-| **IIM Kashipur** | New (2011) | ₹17.5 – 19.0 L | ₹12.0 – 13.0 LPA | **₹18.1 LPA** | ₹37.0 LPA | 94.0+ %ile |
-| **IIM Nagpur** | Baby (2015) | ₹17.4 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.7 LPA** | ₹38.4 LPA | 93.5+ %ile |
-| **IIM Sambalpur** | Baby (2015) | ₹17.5 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.6 LPA** | ₹35.0 LPA | 92.5+ %ile |
-| **IIM Amritsar** | Baby (2015) | ₹17.6 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.5 LPA** | ₹36.0 LPA | 93.0+ %ile |
-| **IIM Jammu** | Baby (2016) | ₹18.0 – 19.0 L | ₹11.0 – 12.0 LPA | **₹16.4 LPA** | ₹32.0 LPA | 92.5+ %ile |
+| **[IIM Udaipur](/colleges/iim-udaipur)** | New (2011) | ₹18.5 – 20.5 L | ₹12.5 – 13.5 LPA | **₹20.3 LPA** | ₹47.0 LPA | 94.0+ %ile |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | New (2010) | ₹18.0 – 19.5 L | ₹12.5 – 13.5 LPA | **₹19.2 LPA** | ₹48.2 LPA | 96.0+ %ile |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | New (2010) | ₹18.0 – 20.0 L | ₹12.5 – 13.5 LPA | **₹18.6 LPA** | ₹37.8 LPA | 94.0+ %ile |
+| **[IIM Kashipur](/colleges/iim-kashipur)** | New (2011) | ₹17.5 – 19.0 L | ₹12.0 – 13.0 LPA | **₹18.1 LPA** | ₹37.0 LPA | 94.0+ %ile |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | Baby (2015) | ₹17.4 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.7 LPA** | ₹38.4 LPA | 93.5+ %ile |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | Baby (2015) | ₹17.5 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.6 LPA** | ₹35.0 LPA | 92.5+ %ile |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | Baby (2015) | ₹17.6 – 18.5 L | ₹11.5 – 12.5 LPA | **₹16.5 LPA** | ₹36.0 LPA | 93.0+ %ile |
+| **[IIM Jammu](/colleges/iim-jammu)** | Baby (2016) | ₹18.0 – 19.0 L | ₹11.0 – 12.0 LPA | **₹16.4 LPA** | ₹32.0 LPA | 92.5+ %ile |
 | **IIM Visakhapatnam** | Baby (2015) | ₹17.2 – 18.2 L | ₹11.5 – 12.5 LPA | **₹16.0 LPA** | ₹32.5 LPA | 93.0+ %ile |
-| **IIM Bodh Gaya** | Baby (2015) | ₹17.0 – 18.0 L | ₹11.0 – 12.0 LPA | **₹15.8 LPA** | ₹30.5 LPA | 92.5+ %ile |
-| **IIM Sirmaur** | Baby (2015) | ₹17.0 – 18.0 L | ₹10.5 – 11.5 LPA | **₹14.5 LPA** | ₹28.0 LPA | 91.5+ %ile |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | Baby (2015) | ₹17.0 – 18.0 L | ₹11.0 – 12.0 LPA | **₹15.8 LPA** | ₹30.5 LPA | 92.5+ %ile |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | Baby (2015) | ₹17.0 – 18.0 L | ₹10.5 – 11.5 LPA | **₹14.5 LPA** | ₹28.0 LPA | 91.5+ %ile |
 
 > [!NOTE]
 > **Understanding the "Lowest Package"**: While media reports focus heavily on average and highest packages, the **lowest package (base salary)** at Old IIMs rarely drops below **₹16–18 LPA** even during global economic slowdowns. For Baby IIMs, the lowest salary floors sit around **₹10.5–12 LPA**, which still offers a strong ROI compared to tier-2 private B-schools.
@@ -297,6 +297,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

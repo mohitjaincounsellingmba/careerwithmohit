@@ -70,13 +70,13 @@ For **PGDM admission 2027** and **MBA admission 2027**, hundreds of top-ranked A
 | **GNIOT (GIMS) Greater Noida** | Greater Noida | ₹6.78 Lakhs | ₹7.25 LPA | MAT / CMAT / ATMA / GIMS Test |
 | **GL Bajaj Inst. of Management** | Greater Noida | ₹6.90 Lakhs | ₹7.35 LPA | MAT / CMAT / Direct GD-PI |
 | **Accurate Inst. of Management** | Greater Noida | ₹6.50 Lakhs | ₹6.85 LPA | MAT / CMAT / ATMA / Merit |
-| **PIBM Pune** | Pune | ₹10.25 Lakhs | ₹7.80 LPA | MAT / CMAT / ATMA / PMAT |
-| **RIIM Pune** | Pune | ₹6.90L - ₹8.90L | ₹7.15 LPA | MAT / CMAT / ATMA / Direct GD-PI |
+| **[PIBM Pune](/colleges/pibm-pune)** | Pune | ₹10.25 Lakhs | ₹7.80 LPA | MAT / CMAT / ATMA / PMAT |
+| **[RIIM Pune](/colleges/riim-pune)** | Pune | ₹6.90L - ₹8.90L | ₹7.15 LPA | MAT / CMAT / ATMA / Direct GD-PI |
 | **Lexicon MILE Pune** | Pune | ₹10.50 Lakhs | ₹8.20 LPA | MAT / CMAT / LAT / ATMA |
 | **Jaipuria Inst. of Mgmt Jaipur** | Jaipur | ₹12.75 Lakhs | ₹11.29 LPA | MAT (650+ Score) / CMAT / XAT |
 | **FMS-IRM Jaipur** | Jaipur | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / ATMA |
-| **ISBR Business School** | Bangalore | ₹10.50 Lakhs | ₹8.50 LPA | MAT / CMAT / KMAT / NMAT |
-| **GIBS Business School** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA | MAT / CMAT / ATMA / Direct |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | Bangalore | ₹10.50 Lakhs | ₹8.50 LPA | MAT / CMAT / KMAT / NMAT |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA | MAT / CMAT / ATMA / Direct |
 
 ---
 

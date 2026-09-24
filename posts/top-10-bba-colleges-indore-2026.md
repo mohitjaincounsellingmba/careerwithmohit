@@ -45,7 +45,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Indore for 2026** to help
 
 ## 🏆 Top 10 BBA Colleges in Indore (2026 Rankings)
 
-### 1. IIM Indore (IPMAT)
+### 1. [IIM Indore](/colleges/iim-indore) (IPMAT)
 - **Approximate Annual Fees:** ₹5.0 Lakhs
 - **Entrance Exam / Admission Process:** IPMAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

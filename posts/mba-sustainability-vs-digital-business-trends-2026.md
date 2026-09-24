@@ -95,7 +95,7 @@ This is for the tech-savvy leaders who want to manage the "Digital Backbone" of 
 ---
 
 ## 🏛️ Best Colleges for These Trends in 2026
-1.  **IIM Lucknow & [IIM Ahmedabad](/colleges/iim-ahmedabad):** Offering specialized electives in ESG and Digital.
+1.  **[IIM Lucknow](/colleges/iim-lucknow) & [IIM Ahmedabad](/colleges/iim-ahmedabad):** Offering specialized electives in ESG and Digital.
 2.  **SPJIMR, Mumbai:** A leader in value-based sustainability management.
 3.  **[MDI Gurgaon](/colleges/mdi-gurgaon):** Strong focus on Digital Transformation and AI strategy.
 4.  **Great Lakes Institute:** Known for its Digital Business and Analytics focus.

@@ -47,7 +47,7 @@ state: Maharashtra
 # Top PGDM Colleges in Pune Admission 2027: Fees, Placements & CAT 2026 / XAT Exam Cutoffs
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier Private Institutions:** SIBM Pune, SCMHRD, BIMM Pune, PIBM, Lexicon MILE, and RIIM.
+> - **Top Tier Private Institutions:** [SIBM Pune](/colleges/sibm-pune), SCMHRD, BIMM Pune, PIBM, Lexicon MILE, and RIIM.
 > - **Exam Acceptance:** Standard acceptance of CAT 2026, XAT exam, CMAT, MAT, ATMA, and MAH-CET.
 > - **Affordability & ROI:** Average tuition fee is ₹7 to ₹11 Lakhs with strong placement averages of ₹7.5 to ₹9.0 LPA in IT, Auto, and FinTech sectors.
 
@@ -62,15 +62,15 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2026, X
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / CMAT) |
 | :--- | :--- | :--- | :--- |
 | **SIBM Pune (Symbiosis)** | ₹24.20 Lakhs | ₹28.16 LPA | SNAP (98.5+ %ile) / Tier-1 Prestige |
-| **SCMHRD Pune** | ₹23.70 Lakhs | ₹23.71 LPA | SNAP (97+ %ile) / HR & Infrastructure Specialization |
-| **PIBM Pune (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | CAT 2026 / XAT / MAT / CMAT / PMAT |
+| **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹23.70 Lakhs | ₹23.71 LPA | SNAP (97+ %ile) / HR & Infrastructure Specialization |
+| **[PIBM Pune](/colleges/pibm-pune) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | CAT 2026 / XAT / MAT / CMAT / PMAT |
 | **Lexicon MILE Pune (Lexicon Institute)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT 2026 / XAT / CMAT / MAT (60+ %ile) |
-| **RIIM Pune (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | CAT 2026 / MAT / CMAT / ATMA (High ROI) |
+| **[RIIM Pune](/colleges/riim-pune) (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | CAT 2026 / MAT / CMAT / ATMA (High ROI) |
 | **Balaji Institute of Modern Mgmt (BIMM)** | ₹12.55 Lakhs | ₹8.75 LPA | CAT 2026 / XAT / MAT / CMAT / MAH-CET |
 | **DY Patil B-School, Tathawade Pune** | ₹8.50 Lakhs | ₹7.20 LPA | MAT / CMAT / CAT 2026 / ATMA |
 | **ISBS Pune (Indira School of Business)** | ₹9.20 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / MAT / CAT 2026 |
-| **ISMS Pune (International School of Mgmt)** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
-| **Suryadatta Institute of Management (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
+| **[ISMS Pune](/colleges/isms-pune) (International School of Mgmt)** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
+| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
 
 ---
 

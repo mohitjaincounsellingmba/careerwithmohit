@@ -179,7 +179,7 @@ To bridge academia and industry demands, DSB Delhi embeds the following corporat
 
 ## 8. Faculty Credentials & Academic Pedagogy
 
-*   👨‍🏫 **Faculty Profile**: Renowned faculty drawn from IIMs, FMS Delhi, and former executive directors of investment banks.
+*   👨‍🏫 **Faculty Profile**: Renowned faculty drawn from IIMs, [FMS Delhi](/colleges/fms-delhi), and former executive directors of investment banks.
 *   📚 **Pedagogy**: Case-method discussions, industrial live projects, outbound leadership bootcamps, and executive panel interactions.
 
 ---

@@ -67,7 +67,7 @@ In this comprehensive guide, we uncover the **convening IIM for CAT 2026**, expl
 
 The **Indian Institute of Management (IIM) Indore** is the official convening and conducting body for **CAT 2026**.
 
-Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), IIM Lucknow, IIM Kozhikode, and IIM Indore). 
+Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore)). 
 
 Following the established rotation cycle—where [IIM Calcutta](/colleges/iim-calcutta) convened CAT 2024 and IIM Kozhikode convened CAT 2025—**IIM Indore** takes charge of the examination for the 2026–27 admission cycle.
 

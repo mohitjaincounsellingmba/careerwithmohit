@@ -48,7 +48,7 @@ state: Maharashtra
 # Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2026 Cutoffs, Fees & Placements
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, NMIMS Mumbai (via NMAT exam), Welingkar, and K J Somaiya.
+> - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT exam), Welingkar, and K J Somaiya.
 > - **Alternative Growth B-Schools:** N L Dalmia, ITM Navi Mumbai, SIES, and Universal AI University.
 > - **Corporate Edge:** Unrivaled exposure to Dalal Street, Investment Banks, Fintech startups, and FMCG headquarters.
 
@@ -62,9 +62,9 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (NMAT Exam / CAT 2026 / XAT 2027) |
 | :--- | :--- | :--- | :--- |
-| **SPJIMR Mumbai** | ₹22.50 Lakhs | ₹33.00 LPA | CAT 2026 / GMAT (85+ %ile with profile) |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT 2026 / GMAT (85+ %ile with profile) |
 | **NMIMS Mumbai (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT Exam (232+ Score) / Tier-1 Brand |
-| **JBIMS Mumbai (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET / CAT 2026 (99.9+ %ile) / Exceptional ROI |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET / CAT 2026 (99.9+ %ile) / Exceptional ROI |
 | **Welingkar (WeSchool) Mumbai** | ₹14.00 Lakhs | ₹12.50 LPA | CAT 2026 / XAT 2027 / CMAT / ATMA (75-80 %ile) |
 | **K J Somaiya Inst. of Mgmt (SIMSR)** | ₹20.87 Lakhs | ₹12.32 LPA | CAT 2026 / XAT 2027 / NMAT / CMAT (80+ %ile) |
 | **N L Dalmia Inst. of Mgmt Studies** | ₹14.75 Lakhs | ₹10.50 LPA | CAT 2026 / XAT 2027 / CMAT / MAT (70+ %ile) |
@@ -84,7 +84,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 * Renowned for innovative specializations including PGDM Business Design, E-Business, Retail, and Healthcare.
 * Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar](/posts/all-about-welingkar).
 
-### 3. N L Dalmia Institute of Management Studies
+### 3. N L Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)
 * Known as Mumbai's premier finance power-house, featuring a dedicated Bloomberg Finance Lab with 24 terminals.
 * Read our complete review at [All About NL Dalmia Admission](/posts/all-about-nl-dalmia-admission-2026).
 

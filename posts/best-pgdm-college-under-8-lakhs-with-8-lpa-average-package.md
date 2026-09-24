@@ -77,7 +77,7 @@ The following table presents verified data on top B-schools in India delivering 
 | **[USMS GGSIPU, Delhi](/colleges/ggsipu-delhi)** | ₹2.2 – 2.6 Lakhs | ₹8.5 – 9.0 LPA | **350%+ High ROI**: IP University main campus; admission via CAT/CMAT |
 | **[FOSTIIMA Business School, Delhi](/colleges/fostiima-delhi)** | ₹8.2 – 8.9 Lakhs | ₹8.8 – 9.2 LPA | **100%+ High ROI**: Private PGDM; IIM-A alumni network; CAT/MAT/Direct PI |
 | **[JIMS Rohini (Sector 5), Delhi](/colleges/jims-rohini)** | ₹8.5 – 9.0 Lakhs | ₹8.1 – 8.6 LPA | **95%+ Solid ROI**: AICTE approved; accepts CAT/MAT/XAT/CMAT |
-| **[XIME Kochi / Chennai](/colleges/xime-bangalore)** | ₹8.0 – 9.2 Lakhs | ₹8.2 – 8.8 LPA | **100% Solid ROI**: Sister campuses of XIME Bangalore; strong industry ties |
+| **[XIME Kochi / Chennai](/colleges/xime-bangalore)** | ₹8.0 – 9.2 Lakhs | ₹8.2 – 8.8 LPA | **100% Solid ROI**: Sister campuses of [XIME Bangalore](/colleges/xime-bangalore); strong industry ties |
 
 ---
 

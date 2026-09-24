@@ -92,7 +92,7 @@ Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater Noid
 
 ## 1. Executive Overview: CAT 2026-2027 Admission Landscape (2026-2027)
 
-Every year, over 3.0 lakh aspirants appear for the **Common Admission Test (CAT)**. While the top 1–2% battle for IIMs and FMS Delhi, more than **70% of serious management candidates land in the 65 to 85 percentile bracket**. 
+Every year, over 3.0 lakh aspirants appear for the **Common Admission Test (CAT)**. While the top 1–2% battle for IIMs and [FMS Delhi](/colleges/fms-delhi), more than **70% of serious management candidates land in the 65 to 85 percentile bracket**. 
 
 For these mid-percentile aspirants, **Delhi NCR & Greater Noida** has emerged as India’s undisputed management hub. The region combines corporate proximity (Gurugram cyber hubs, Noida tech parks, Okhla industrial clusters) with a wide spectrum of AICTE-approved and NBA-accredited 2-year PGDM / MBA colleges offering superior Return on Investment (ROI).
 
@@ -128,9 +128,9 @@ Here is the comprehensive, data-backed ROI comparison table for the best PGDM / 
 | **[LBSIM Delhi (Dwarka)](/blog/all-about-lbsim-delhi)** | ₹15.50 L | ₹12.80 L – ₹13.50 L | **ROI: Very High** \| CAT 82–85%ile, XAT 80%ile \| Renowned for Corporate Finance & Research roles |
 | **[Jaipuria Institute of Management, Noida](/blog/all-about-jaipuria-noida)** | ₹13.50 L – ₹14.50 L | ₹11.20 L – ₹11.80 L | **ROI: High** \| CAT 72–80%ile, XAT 70%ile, CMAT 80%ile \| Excellent FMCG, Retail & Banking network |
 | **[JIMS Rohini (Sector-5), Delhi](/blog/all-about-jims-rohini)** | ₹9.25 L | ₹8.60 L – ₹9.20 L | **ROI: Exceptional** \| CAT 70–75%ile, MAT 80%ile, CMAT 75%ile \| Consistent legacy, strong Marketing & Finance placements |
-| **[FOSTIIMA Business School, Delhi](/blog/all-about-fostiima-delhi)** | ₹9.95 L | ₹9.50 L – ₹10.20 L | **ROI: Exceptional** \| CAT 65–75%ile, XAT 65%ile, CMAT 70%ile \| IIM Ahmedabad alumni founded; top corporate mentor pool |
+| **[FOSTIIMA Business School, Delhi](/blog/all-about-fostiima-delhi)** | ₹9.95 L | ₹9.50 L – ₹10.20 L | **ROI: Exceptional** \| CAT 65–75%ile, XAT 65%ile, CMAT 70%ile \| [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni founded; top corporate mentor pool |
 | **[FIIB Delhi (Fortune Institute)](/blog/all-about-fiib-delhi)** | ₹10.10 L | ₹8.80 L – ₹9.40 L | **ROI: High** \| CAT 65–75%ile, MAT 75%ile, CMAT 70%ile \| Leader in Business Analytics & Operations |
-| **[NDIM Delhi (New Delhi Institute of Management)](/blog/all-about-ndim-delhi)** | ₹11.50 L | ₹8.50 L – ₹9.00 L | **ROI: Moderate-High** \| CAT 65–75%ile, CMAT 70%ile \| AICTE Approved; extensive dual specialization options |
+| **[NDIM Delhi ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))](/blog/all-about-ndim-delhi)** | ₹11.50 L | ₹8.50 L – ₹9.00 L | **ROI: Moderate-High** \| CAT 65–75%ile, CMAT 70%ile \| AICTE Approved; extensive dual specialization options |
 | **[GL Bajaj Institute of Management & Research (GLBIMR), Greater Noida](/blog/all-about-gl-bajaj-greater-noida)** | ₹7.95 L | ₹7.80 L – ₹8.50 L | **ROI: Outstanding (100%+ 1-Year Recovery)** \| CAT 65–75%ile, MAT 70%ile \| High campus placement volume in IT/ITES & BFSI |
 | **[GIMS / GNIOT Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims)** | ₹7.25 L – ₹8.20 L | ₹7.20 L – ₹8.00 L | **ROI: Outstanding** \| CAT 60–70%ile, MAT 65%ile, CMAT 65%ile \| Fast-growing placement stats & global immersion |
 | **[Lloyd Business School, Greater Noida](/blog/all-about-lloyd-business-school-greater-noida)** | ₹6.50 L – ₹7.80 L | ₹6.80 L – ₹7.50 L | **ROI: High** \| CAT 60–70%ile \| Industry co-designed programs in Supply Chain & Business Analytics |

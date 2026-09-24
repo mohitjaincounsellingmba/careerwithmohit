@@ -53,12 +53,12 @@ Whether you are targeting the prestigious IIMs or the high-industry-connect priv
 
 | Rank | College | City | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|---|
-| **1** | **IIM Indore (IPM)** | Indore | IPMAT | ₹5.5 Lakhs | ₹25.0 LPA |
-| **2** | **IIM Rohtak (IPM)** | Rohtak | IPMAT | ₹5.0 Lakhs | ₹18.5 LPA |
+| **1** | **[IIM Indore](/colleges/iim-indore) (IPM)** | Indore | IPMAT | ₹5.5 Lakhs | ₹25.0 LPA |
+| **2** | **[IIM Rohtak](/colleges/iim-rohtak) (IPM)** | Rohtak | IPMAT | ₹5.0 Lakhs | ₹18.5 LPA |
 | **3** | **SSCBS (DU)** | Delhi | CUET | ₹0.3 Lakhs | ₹10.5 LPA |
 | **4** | **NMIMS (SBM)** | Mumbai | NPAT | ₹3.5 Lakhs | ₹12.0 LPA |
 | **5** | **Shaheed Sukhdev** | Delhi | CUET | ₹0.3 Lakhs | ₹9.5 LPA |
-| **6** | **IIM Ranchi (IPM)** | Ranchi | IPMAT | ₹4.8 Lakhs | ₹16.0 LPA |
+| **6** | **[IIM Ranchi](/colleges/iim-ranchi) (IPM)** | Ranchi | IPMAT | ₹4.8 Lakhs | ₹16.0 LPA |
 | **7** | **Symbiosis (SCMS)** | Pune | SET | ₹3.2 Lakhs | ₹7.5 LPA |
 | **8** | **Christ University** | Bangalore | CUET/ET | ₹2.8 Lakhs | ₹6.5 LPA |
 | **9** | **Loyola College** | Chennai | Merit | ₹0.8 Lakhs | ₹5.5 LPA |
@@ -149,6 +149,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -47,14 +47,14 @@ If you are aiming for B.Tech admission in 2026, here is your comprehensive guide
 
 ## 🏗️ Top B.Tech Institutions in Bangalore
 
-### 1. RV College of Engineering (RVCE)
+### 1. [RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore)
 *   **Rank:** Consistently ranked among the top private engineering colleges in India.
 *   **Entrance Exam:** KCET, COMEDK, JEE Main.
 *   **Approx. Fees:** ₹2.5 - 4.5 Lakhs (Annual - varies by quota).
 *   **Average Placement:** ₹10 - 12 LPA (Highest ₹50 LPA+).
 *   **USP:** Exceptional placement records for CSE and ISE branches.
 
-### 2. BMS College of Engineering (BMSCE)
+### 2. [BMS College of Engineering (BMSCE)](/colleges/bms-college-of-engineering-bangalore)
 *   **Background:** One of the oldest and most prestigious private engineering colleges in Bangalore.
 *   **Entrance Exam:** KCET, COMEDK.
 *   **Approx. Fees:** ₹2.2 - 3.5 Lakhs (Annual).

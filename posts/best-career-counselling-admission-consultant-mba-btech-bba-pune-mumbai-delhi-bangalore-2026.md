@@ -148,7 +148,7 @@ Profile Audit  Branch Selection    Early Leadership    Tech & Software  Intl. Vi
   - Explore our review on [Top Engineering Colleges in Delhi 2026](/blog/top-engineering-colleges-in-delhi-2026).
 
 ### C. BBA & BMS (Undergraduate Management)
-- **Top Entrance Exams**: IPMAT (IIM Indore, IIM Rohtak, IIM Ranchi, IIM Bodh Gaya, IIM Jammu), JIPMAT, NPAT (NMIMS), SET (Symbiosis), and CUET UG (Delhi University - SSCBS, Keshav Mahavidyalaya).
+- **Top Entrance Exams**: IPMAT ([IIM Indore](/colleges/iim-indore), [IIM Rohtak](/colleges/iim-rohtak), [IIM Ranchi](/colleges/iim-ranchi), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu)), JIPMAT, NPAT (NMIMS), SET (Symbiosis), and CUET UG (Delhi University - SSCBS, Keshav Mahavidyalaya).
 - **Key Deliverables in Counselling**:
   - Comparing 5-Year Integrated Program in Management (IPM) vs 3/4-Year BBA Honours.
   - Strategy for general management vs specialized BBA (FinTech, Global Business, Digital Marketing, Analytics).

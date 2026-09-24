@@ -49,7 +49,7 @@ location: Noida
 state: Delhi NCR
 ---
 
-One of the biggest myths in undergraduate management is that you cannot pursue a top-tier BBA degree without having Mathematics in your Class 12. While it's true that elite institutes like **IIM Indore (IPMAT) and Shaheed Sukhdev (SSCBS)** mandate Math, over 80% of India's best BBA colleges are open to students from all streams—including those who opted for Physical Education or Psychology over Calculus.
+One of the biggest myths in undergraduate management is that you cannot pursue a top-tier BBA degree without having Mathematics in your Class 12. While it's true that elite institutes like **[IIM Indore](/colleges/iim-indore) (IPMAT) and Shaheed Sukhdev (SSCBS)** mandate Math, over 80% of India's best BBA colleges are open to students from all streams—including those who opted for Physical Education or Psychology over Calculus.
 
 In 2026, many students are realizing that their management potential is not defined by their high-school math score. This guide lists the **best BBA colleges in India that do not require Math in 12th**.
 
@@ -98,7 +98,7 @@ Most state-level private colleges (affiliated with GGSIPU, Mumbai University, or
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. is Math mandatory for BBA IPM (IIM)?**
-For **IIM Indore**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **IIM Rohtak**, the math level is slightly lower, making it more accessible.
+For **IIM Indore**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **[IIM Rohtak](/colleges/iim-rohtak)**, the math level is slightly lower, making it more accessible.
 
 **Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?**
 [NMIMS Mumbai](/colleges/nmims-mumbai) usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
@@ -146,6 +146,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

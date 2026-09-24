@@ -77,7 +77,7 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 
 ## Spotlight on Bangalore’s Top Autonomous PGDM Colleges
 
-### 1. XIME Bangalore (Xavier Institute of Management & Entrepreneurship)
+### 1. [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)
 * **Accreditation**: AICTE Approved, NBA Accredited, ACBSP International Accreditation.
 * **Specializations**: Marketing, Finance, HR, Analytics, Operations.
 * **Why Choose XIME**: Strong alumni network across South Asia, mandatory winter internship, and consistent ₹10.75+ LPA average placements. Check detailed analysis at [All About XIME Bangalore](/blog/all-about-xime-bangalore).
@@ -91,7 +91,7 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 * **Course Options**: PGDM (Dual Specialization), PGDM Business Analytics, PGDM One-Year.
 * **Placements**: Average package ₹8.50 LPA. Read our detailed review at [All About ISBR Bangalore](/blog/all-about-isbr-bangalore).
 
-### 4. GIBS Business School, Bannerghatta Road
+### 4. [GIBS Business School](/colleges/gibs-bangalore), Bannerghatta Road
 * **Highlights**: Known for its Innovation, Entrepreneurship & Personal Masterclass series.
 * **Key Features**: 100% placement track record, global immersion program, and budget-friendly fee structure. Explore [All About GIBS Bangalore](/blog/all-about-gibs-bangalore).
 
@@ -99,7 +99,7 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 * **Highlights**: Single-program focused institute dedicated exclusively to PGDM.
 * **Infrastructure**: 8.5-acre dedicated residential campus with dual degree certification options. Read complete details at [All About IBA Bangalore](/blog/all-about-indus-business-academy).
 
-### 6. ISME Bangalore (International School of Management Excellence)
+### 6. [ISME Bangalore](/colleges/isme-bangalore) (International School of Management Excellence)
 * **Highlights**: Known for global academic linkages, international study tours to Singapore, and robust corporate placements. Visit [All About ISME Bangalore](/blog/all-about-isme-bangalore).
 
 ---

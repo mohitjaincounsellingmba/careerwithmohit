@@ -68,11 +68,11 @@ If you are preparing for the [CAT Exam](/blog/all-about-cat-exam) and aiming for
 Here is the full form and breakdown of **IIM BLACKI**:
 
 *   **B** — **[IIM Bangalore](/colleges/iim-bangalore)** (Established 1973)
-*   **L** — **IIM Lucknow** (Established 1984)
+*   **L** — **[IIM Lucknow](/colleges/iim-lucknow)** (Established 1984)
 *   **A** — **[IIM Ahmedabad](/colleges/iim-ahmedabad)** (Established 1961)
 *   **C** — **[IIM Calcutta](/colleges/iim-calcutta)** (Established 1961)
 *   **K** — **IIM Kozhikode** (Established 1996)
-*   **I** — **IIM Indore** (Established 1996)
+*   **I** — **[IIM Indore](/colleges/iim-indore)** (Established 1996)
 
 While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis) and New IIMs—the original **BLACKI** group remains the benchmark against which all top business schools in Asia are measured.
 
@@ -168,7 +168,7 @@ Scoring a 99.8 percentile in CAT does not automatically guarantee admission to a
 
 ## How IIM BLACKI Compares with New and Baby IIMs
 
-If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like IIM Udaipur, IIM Trichy, IIM Ranchi) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)** (like IIM Nagpur, IIM Bodh Gaya, IIM Amritsar) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
+If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like [IIM Udaipur](/colleges/iim-udaipur), IIM Trichy, [IIM Ranchi](/colleges/iim-ranchi)) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)** (like [IIM Nagpur](/colleges/iim-nagpur), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Amritsar](/colleges/iim-amritsar)) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
 
 To make an informed choice across the entire IIM hierarchy, explore our detailed comparative guides:
 *   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)

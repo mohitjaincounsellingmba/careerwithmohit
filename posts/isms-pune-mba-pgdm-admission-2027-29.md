@@ -40,7 +40,7 @@ location: Pune
 state: Pan India
 ---
 
-# International School of Management Studies (ISMS Pune) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.25 Lakhs (India Track) / ₹14.50 Lakhs (British MBA Pathway)** (**₹3.62 Lakhs / Year (India Track)**). Merit waivers on CAT/MAT/MAH-CET and early international pathway enrolments.

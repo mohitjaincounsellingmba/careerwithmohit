@@ -51,7 +51,7 @@ The **NMAT by GMAC 2026-27** stands out as one of the most candidate-friendly ye
 
 [NMIMS Mumbai](/colleges/nmims-mumbai) strictly accepts **ONLY your FIRST attempt score** for its flagship MBA programs. 
 
-This single policy rule fundamentally changes how you must approach your NMAT 2026-27 attempt strategy. You cannot afford to treat Attempt 1 as a "trial run." In this comprehensive guide, we unpack GMAC's computer-adaptive scoring algorithm, calculate exact time management limits per question, outline target sectional cutoffs for NMIMS Mumbai, and build an airtight blueprint across all 3 retake slots.
+This single policy rule fundamentally changes how you must approach your NMAT 2026-27 attempt strategy. You cannot afford to treat Attempt 1 as a "trial run." In this comprehensive guide, we unpack GMAC's computer-adaptive scoring algorithm, calculate exact time management limits per question, outline target sectional cutoffs for [NMIMS Mumbai](/colleges/nmims-mumbai), and build an airtight blueprint across all 3 retake slots.
 
 ---
 

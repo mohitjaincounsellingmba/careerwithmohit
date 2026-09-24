@@ -96,7 +96,7 @@ Recruiters are no longer looking for students who just know theory. You need to 
 Securing a seat in a top college significantly impacts your starting package and alumni network.
 
 1.  **Shahed Sukhdev College of Business Studies (SSCBS), Delhi:** The gold standard for BBA/BMS in India for its high ROI and placement records.
-2.  **IIM Indore/Rohtak (IPM):** The Five-Year Integrated Program in Management allows students to secure an MBA degree right after class 12th from an IIM.
+2.  **[IIM Indore](/colleges/iim-indore)/Rohtak (IPM):** The Five-Year Integrated Program in Management allows students to secure an MBA degree right after class 12th from an IIM.
 3.  **NMIMS (ASMSOC), Mumbai:** Known for its rigorous curriculum and urban campus life.
 4.  **Symbiosis (SCMS), Pune:** A great choice for those wanting international exposure and a holistic campus environment.
 5.  **Christ University, Bangalore:** Renowned for discipline and excellent industry ties in South India.

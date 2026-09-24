@@ -139,7 +139,7 @@ Securing admission to CHRIST (Deemed to be University), Bangalore for the 2026 i
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Christ University Bangalore](/colleges/christ-university-bangalore)**:
 
-### 👍 Why Choose Christ University Bangalore? (Pros)
+### 👍 Why Choose [Christ University Bangalore](/colleges/christ-university-bangalore)? (Pros)
 - **Nation-wide** reputation as the #1 institution in India for undergraduate BBA and B.Com programs
 - **Massive** recruitment by Big 4 consulting (Deloitte, EY, KPMG, PwC) and investment banks
 - **Vibrant** multicultural campus life with famous cultural fests (InBloom) and 100+ student clubs

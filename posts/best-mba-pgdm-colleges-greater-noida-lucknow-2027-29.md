@@ -100,7 +100,7 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 * **Highlights**: Located in Knowledge Park II, known for rigorous academic discipline and corporate mentorship.
 * **Placements**: Average package of ₹7.35 LPA with companies like Accenture, HCL, and ICICI Bank. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
 
-### 5. Accurate Institute of Management & Technology, Greater Noida
+### 5. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology, Greater Noida
 * **Highlights**: 100% placement record guarantee, global exposure trip options, and ultra-modern campus.
 * **Read Detailed Review**: [All About Accurate Greater Noida](/blog/all-about-accurate-greater-noida).
 

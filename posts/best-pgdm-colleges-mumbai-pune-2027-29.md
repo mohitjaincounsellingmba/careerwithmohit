@@ -88,7 +88,7 @@ For comprehensive reviews of Mumbai's growing AI and management hub, visit [All 
 
 | College Name | Total Fees (Approx) | Avg Package | Highest Package | Entrance Exams |
 | :--- | :--- | :--- | :--- | :--- |
-| **SIBM Pune** | ₹24.20 Lakhs | ₹28.16 LPA | ₹49.00 LPA | SNAP (98.5+ %ile) |
+| **[SIBM Pune](/colleges/sibm-pune)** | ₹24.20 Lakhs | ₹28.16 LPA | ₹49.00 LPA | SNAP (98.5+ %ile) |
 | **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹23.70 Lakhs | ₹23.71 LPA | ₹38.00 LPA | SNAP (97+ %ile) |
 | **[PUMBA Pune](/colleges/pumba-pune) (Dept of Mgmt DU)** | ₹1.35 Lakhs | ₹8.85 LPA | ₹18.00 LPA | MAH-CET / CMAT (98+ %ile) |
 | **[PIBM Pune](/colleges/pibm-pune) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | ₹18.00 LPA | CAT / MAT / CMAT / PMAT |

@@ -74,7 +74,7 @@ location: Delhi
 state: Pan India
 ---
 
-# New Delhi Institute of Management (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹14.00 Lakhs (Total)** (**₹7.00 Lakhs per Year (or ₹3.50L/semester + ₹6k convenience charge)**). ₹2.50 Crore Dedicated Fund Pool (Merit & Category Rebates)
@@ -185,7 +185,7 @@ To bridge academia and industry demands, NDIM Delhi embeds the following corpora
 
 ## 8. Faculty Credentials & Academic Pedagogy
 
-*   👨‍🏫 **Faculty Profile**: 60+ core professors; 85% hold Ph.D. degrees from IIMs, FMS Delhi, and IITs with over 15+ years average corporate consulting experience.
+*   👨‍🏫 **Faculty Profile**: 60+ core professors; 85% hold Ph.D. degrees from IIMs, [FMS Delhi](/colleges/fms-delhi), and IITs with over 15+ years average corporate consulting experience.
 *   📚 **Pedagogy**: Case-method discussions, industrial live projects, outbound leadership bootcamps, and executive panel interactions.
 
 ---

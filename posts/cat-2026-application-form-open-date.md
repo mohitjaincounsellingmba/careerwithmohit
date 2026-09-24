@@ -58,7 +58,7 @@ If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 
 
 ## Official CAT 2026 Registration Dates & Schedule
 
-The official notification for CAT 2026 has been released on July 26, 2026, by IIM Indore. The official registration cycle follows this schedule:
+The official notification for CAT 2026 has been released on July 26, 2026, by [IIM Indore](/colleges/iim-indore). The official registration cycle follows this schedule:
 
 | Event | Official Date / Timeline |
 | :--- | :--- |

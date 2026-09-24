@@ -54,8 +54,8 @@ state: Delhi NCR
 # XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier XAT Institutions:** XLRI Jamshedpur/Delhi (95+ %ile), IMT Ghaziabad (90+ %ile), XIMB (91+ %ile), and GIM Goa (85+ %ile).
-> - **Top Non-IIM NCR & Pune Hubs (65-85 %ile):** FORE School, BIMTECH Greater Noida, LBSIM, PIBM Pune, and Lexicon MILE.
+> - **Top Tier XAT Institutions:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi (95+ %ile), IMT Ghaziabad (90+ %ile), XIMB (91+ %ile), and GIM Goa (85+ %ile).
+> - **Top Non-IIM NCR & Pune Hubs (65-85 %ile):** FORE School, BIMTECH Greater Noida, LBSIM, [PIBM Pune](/colleges/pibm-pune), and Lexicon MILE.
 > - **Admission Cycle 2027:** XAT 2027 exam is held on the first Sunday of January 2027 with application windows opening in August 2026.
 
 The **Xavier Aptitude Test (XAT 2027)**, conducted by XLRI Jamshedpur on behalf of XAMI, is India's most prestigious national management entrance exam after CAT. Over 160+ top-ranked autonomous business schools across **Delhi NCR, Greater Noida, Pune, Bangalore, and Mumbai** accept XAT scores for **PGDM admission 2027**.
@@ -69,11 +69,11 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by XLRI Jamshedpur on behalf 
 | **XLRI Jamshedpur / Delhi NCR** | Jamshedpur / Jhajjar | 95+ Percentile | ₹28.00 Lakhs | ₹32.70 LPA |
 | **IMT Ghaziabad** | Delhi NCR (Ghaziabad) | 90+ Percentile | ₹21.50 Lakhs | ₹17.35 LPA |
 | **GIM Goa (Goa Inst. of Mgmt)** | Goa | 85+ Percentile | ₹19.50 Lakhs | ₹15.00 LPA |
-| **FORE School of Management** | New Delhi | 85+ Percentile | ₹16.98 Lakhs | ₹14.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi | 85+ Percentile | ₹16.98 Lakhs | ₹14.50 LPA |
 | **TAPMI (Manipal / Bengaluru)** | Manipal / Bangalore | 80+ Percentile | ₹16.50 Lakhs | ₹12.80 LPA |
 | **BIMTECH Greater Noida** | Greater Noida (NCR) | 72+ Percentile | ₹14.00 Lakhs | ₹11.25 LPA |
 | **LBSIM Delhi** | New Delhi | 80+ Percentile | ₹15.50 Lakhs | ₹12.40 LPA |
-| **XIME Bangalore** | Bangalore | 70+ Percentile | ₹12.00 Lakhs | ₹10.75 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore | 70+ Percentile | ₹12.00 Lakhs | ₹10.75 LPA |
 | **Lexicon MILE Pune** | Pune | 60+ Percentile | ₹10.50 Lakhs | ₹8.20 LPA |
 | **PIBM Pune** | Pune | 60+ Percentile | ₹10.25 Lakhs | ₹7.80 LPA |
 

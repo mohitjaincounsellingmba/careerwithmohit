@@ -73,7 +73,7 @@ location: Delhi
 state: Pan India
 ---
 
-# Fortune Institute of International Business (FIIB) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.85 Lakhs (Total)** (**₹6.42 Lakhs per Year**). Up to ₹2.00 Lakhs merit scholarships under the "Ranbaxy & FIIB Scholar" funds.

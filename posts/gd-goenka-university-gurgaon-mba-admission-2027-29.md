@@ -75,7 +75,7 @@ location: Gurgaon
 state: Pan India
 ---
 
-# GD Goenka University (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [GD Goenka University](/colleges/gd-goenka-university) (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.50 Lakhs (Total)** (**₹4.25 Lakhs per Year**). Merit scholarships up to 100% tuition waiver on CAT/MAT/CUET scores.

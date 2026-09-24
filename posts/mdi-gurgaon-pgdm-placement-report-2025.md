@@ -53,7 +53,7 @@ Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Repor
 
 ---
 
-[InquiryCard title="Targeting MDI Gurgaon, SPJIMR, or Top Private B-Schools?" description="Get personalized CAT percentile mapping, profile analysis, and WAT-GD-PI interview mentorship from Mohit Jain." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Targeting [MDI Gurgaon](/colleges/mdi-gurgaon), SPJIMR, or Top Private B-Schools?" description="Get personalized CAT percentile mapping, profile analysis, and WAT-GD-PI interview mentorship from Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 ---
 

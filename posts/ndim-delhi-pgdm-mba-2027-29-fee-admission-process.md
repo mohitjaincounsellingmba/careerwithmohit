@@ -77,7 +77,7 @@ state: Delhi NCR
 > - **₹2.5 Crore Scholarship & Rebate Pool**: Merit waivers for high CAT/XAT/MAT/CMAT percentiles and special category rebates (Defense wards, single parent wards, NDIM alumni siblings, J&K/NE students, SC/ST/OBC/EWS).
 > - **AIU MBA Equivalence & 100% Placements**: AICTE-approved 2-year full-time PGDM with Dual Specializations; 100% placement record with an average CTC of **₹10.00 LPA** (Top 25% at **₹12.80 LPA**) and highest package of **₹24.00 LPA**.
 
-**New Delhi Institute of Management (NDIM)**, established in 1992 and located in the institutional hub of South Delhi (Tughlakabad), is widely recognized as one of India's leading business schools. Operating its **32nd Batch (2027–2029)**, NDIM holds premier accreditations including **AICTE Approval, NBA Accreditation, and AIU MBA Equivalence**.
+**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**, established in 1992 and located in the institutional hub of South Delhi (Tughlakabad), is widely recognized as one of India's leading business schools. Operating its **32nd Batch (2027–2029)**, NDIM holds premier accreditations including **AICTE Approval, NBA Accreditation, and AIU MBA Equivalence**.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in Delhi NCR, this comprehensive guide provides the latest, officially updated insights into **NDIM's 2027–2029 fee schedule, semester payment options, ₹2.5 Crore scholarship pool, admission stages, entrance cutoffs, and audited placement reports**.
 

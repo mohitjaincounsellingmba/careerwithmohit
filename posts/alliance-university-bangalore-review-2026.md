@@ -135,7 +135,7 @@ Securing admission to Alliance University, Bangalore for the 2026 intake follows
 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[Alliance University Bangalore](/colleges/alliance-university-bangalore)**:
 
-### 👍 Why Choose Alliance University Bangalore? (Pros)
+### 👍 Why Choose [Alliance University Bangalore](/colleges/alliance-university-bangalore)? (Pros)
 - **AMBA** Accreditation for Alliance School of Business placing it among elite global management institutes
 - **Stellar** 55-acre green residential campus in Bangalore with modern library and sports infrastructure
 - **Consistent** MBA average package around ₹8.5 LPA to ₹10 LPA with 600+ visiting corporate recruiters

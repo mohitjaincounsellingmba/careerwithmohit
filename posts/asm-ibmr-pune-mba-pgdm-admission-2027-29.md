@@ -47,7 +47,7 @@ state: Pan India
 > - **Accreditation & Approvals**: AICTE Approved · SPPU Affiliated · Harvard Business Publishing & IBM Partnered.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.00 LPA**) with a highest package of **₹24.00 LPA**. 22% PPO conversion through IBM and Amazon AWS tech-management curriculum tracks.
 
-**ASM’s Institute of Business Management & Research (IBMR) (ASM IBMR Pune)**, located in **Chinchwad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**ASM’s Institute of Business Management & Research (IBMR) ([ASM IBMR](/colleges/asm-ibmr) Pune)**, located in **Chinchwad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **ASM IBMR Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 

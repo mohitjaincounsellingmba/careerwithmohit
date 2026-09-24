@@ -183,7 +183,7 @@ To bridge academia and industry demands, FOSTIIMA Delhi embeds the following cor
 
 ## 8. Faculty Credentials & Academic Pedagogy
 
-*   👨‍🏫 **Faculty Profile**: Founded and mentored entirely by IIM Ahmedabad Alumni; 90% of faculty pool are alumni of IIMs and IITs.
+*   👨‍🏫 **Faculty Profile**: Founded and mentored entirely by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni; 90% of faculty pool are alumni of IIMs and IITs.
 *   📚 **Pedagogy**: Case-method discussions, industrial live projects, outbound leadership bootcamps, and executive panel interactions.
 
 ---

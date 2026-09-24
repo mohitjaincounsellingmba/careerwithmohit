@@ -23,7 +23,7 @@ location: 'Mumbai'
 state: 'Maharashtra'
 ---
 
-When students evaluate tier-2 business schools in India's financial capital, two powerhouse private institutions stand out: **K J Somaiya Institute of Management (Vidyavihar, Mumbai)** and **Prin. L. N. Welingkar Institute of Management Development & Research (WeSchool, Matunga, Mumbai)**.
+When students evaluate tier-2 business schools in India's financial capital, two powerhouse private institutions stand out: **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) (Vidyavihar, Mumbai)** and **Prin. L. N. Welingkar Institute of Management Development & Research (WeSchool, Matunga, Mumbai)**.
 
 Both institutions leverage Mumbai's unparalleled financial ecosystem, drawing hundreds of investment banks, financial institutions, FMCG corporations, and consulting firms for annual recruitment.
 

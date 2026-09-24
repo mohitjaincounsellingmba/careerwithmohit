@@ -61,7 +61,7 @@ The 21 IIMs in India are broadly divided into three generations:
 | :--- | :--- | :--- |
 | **Old IIMs (BLACKI)** | IIM A, B, C, L, K, I | 98+ Percentile |
 | **New IIMs** | IIM Shillong, Udaipur, Rohtak, Ranchi, Raipur, Trichy, Kashipur | 94–97 Percentile |
-| **Baby IIMs** | IIM Amritsar, Bodh Gaya, Jammu, Nagpur, Sambalpur, Sirmaur, Visakhapatnam | 90–94 Percentile |
+| **Baby IIMs** | [IIM Amritsar](/colleges/iim-amritsar), Bodh Gaya, Jammu, Nagpur, Sambalpur, Sirmaur, Visakhapatnam | 90–94 Percentile |
 
 *IIM Mumbai (formerly NITIE) is a separate case — often treated as a New IIM due to its NITIE legacy.*
 
@@ -73,12 +73,12 @@ The 21 IIMs in India are broadly divided into three generations:
 
 | IIM | Location | Avg Package | Total Fees | CAT Cutoff (Gen) | Mentor IIM |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | IIM Lucknow |
-| **IIM Bodh Gaya** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
-| **IIM Jammu** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
-| **IIM Nagpur** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
-| **IIM Sambalpur** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | IIM Indore |
-| **IIM Sirmaur** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
+| **IIM Amritsar** | Amritsar, Punjab | ₹16.5 LPA | ~₹17.60 L | 92+ %ile | [IIM Lucknow](/colleges/iim-lucknow) |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | Bodh Gaya, Bihar | ₹15.8 LPA | ~₹17.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
+| **[IIM Jammu](/colleges/iim-jammu)** | Jammu, J&K | ₹16.4 LPA | ~₹18.00 L | 92+ %ile | [IIM Calcutta](/colleges/iim-calcutta) |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | Nagpur, Maharashtra | ₹16.7 LPA | ~₹17.40 L | 92+ %ile | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | Sambalpur, Odisha | ₹16.6 LPA | ~₹17.50 L | 92+ %ile | [IIM Indore](/colleges/iim-indore) |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | Paonta Sahib, HP | ₹14.5 LPA | ~₹17.00 L | 90+ %ile | IIM Lucknow |
 | **IIM Visakhapatnam** | Vizag, Andhra Pradesh | ₹16.0 LPA | ~₹17.20 L | 92+ %ile | [IIM Bangalore](/colleges/iim-bangalore) |
 
 ---

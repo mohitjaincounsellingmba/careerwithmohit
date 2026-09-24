@@ -32,7 +32,7 @@ Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bomba
 
 ---
 
-[InquiryCard title="Aiming for SJMSOM IIT Bombay or Top IIT MBA Programs?" description="Get your CAT percentile and engineering profile mapped to top MBA options with expert counsellor Mohit Jain." cta="Get Free Profile Evaluation" type="admission"]
+[InquiryCard title="Aiming for SJMSOM [IIT Bombay](/colleges/iit-bombay) or Top IIT MBA Programs?" description="Get your CAT percentile and engineering profile mapped to top MBA options with expert counsellor Mohit Jain." cta="Get Free Profile Evaluation" type="admission"]
 
 ---
 

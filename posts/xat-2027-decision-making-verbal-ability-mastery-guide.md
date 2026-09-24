@@ -38,7 +38,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to XLRI Jamshedpur, XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
+The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
 
 Two sections make or break an aspirant's dream of cracking XLRI: **Decision Making (DM)** and **Verbal & Logical Ability (VALA)**. Unlike standard entrance tests, XAT tests your ability to think like a compassionate, ethical, and commercially astute business leader.
 

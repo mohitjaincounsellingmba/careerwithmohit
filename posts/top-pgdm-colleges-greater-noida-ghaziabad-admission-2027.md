@@ -72,19 +72,19 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2026, XAT
 | :--- | :--- | :--- | :--- |
 | **BIMTECH Greater Noida** | ₹14.00 Lakhs | ₹11.25 LPA | CAT 2026 (70-75 %ile) / XAT Exam (70 %ile) / High ROI |
 | **IMS Ghaziabad** | ₹9.50 Lakhs | ₹8.25 LPA | CAT 2026 / XAT / CMAT / MAT (60+ %ile) |
-| **Jaipuria Institute of Management Ghaziabad** | ₹7.25 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Ghaziabad** | ₹7.25 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
 | **GL Bajaj Inst. of Management Greater Noida** | ₹6.90 Lakhs | ₹7.35 LPA | MAT / CMAT / CAT 2026 / XAT (Direct GD-PI) |
 | **GNIOT (GIMS) Greater Noida** | ₹6.78 Lakhs | ₹7.25 LPA | CAT 2026 / MAT / CMAT / XAT (High ROI Budget) |
-| **Accurate Institute of Management Greater Noida** | ₹6.50 Lakhs | ₹6.85 LPA | MAT / CMAT / ATMA / Direct Admission |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida) Greater Noida** | ₹6.50 Lakhs | ₹6.85 LPA | MAT / CMAT / ATMA / Direct Admission |
 | **I-Business Institute (IBI) Greater Noida** | ₹7.25 Lakhs | ₹7.00 LPA | CAT 2026 / XAT / MAT / Profile Evaluation |
-| **Lloyd Business School Greater Noida** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) Greater Noida** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
 | **ITS School of Management Mohan Nagar Ghaziabad** | ₹6.24 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / ATMA |
 
 ---
 
 ## In-Depth Analysis of Top Colleges
 
-### 1. Birla Institute of Management Technology (BIMTECH), Greater Noida
+### 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH), Greater Noida
 * **Accreditation:** AACSB International Accreditation, NBA, AICTE approved, AIU MBA equivalence.
 * **Flagship Courses:** PGDM, PGDM International Business (IB), PGDM Retail Management, PGDM Insurance Business Management (IBM).
 * **Placements:** Consistently attracts marquee BFSI and consulting firms like Deloitte, EY, KPMG, Marsh McLennan, and Aditya Birla Group. Read our full analysis at [All About BIMTECH Greater Noida](/posts/all-about-bimtech-greater-noida).
@@ -93,7 +93,7 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2026, XAT
 * **Legacy:** Over 34 years of excellence in management education in NCR.
 * **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies](/posts/all-about-institute-of-management-studies).
 
-### 3. GNIOT Institute of Management Studies (GIMS), Greater Noida
+### 3. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 * **Value Proposition:** Offering the highest ROI in Knowledge Park II with dual specializations, global immersion options, and 100% placement tracking. Check [All About GNIOT GIMS](/posts/all-about-gniot-institute-of-management-studies-gims).
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida

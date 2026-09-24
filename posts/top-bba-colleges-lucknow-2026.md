@@ -45,7 +45,7 @@ state: Delhi NCR
 
 Lucknow, the "City of Nawabs" and the administrative heart of Uttar Pradesh, has rapidly transformed into a major educational and corporate hub. With the entry of the HCL IT City and the rising presence of financial institutions, Lucknow offers BBA students a unique blend of cultural heritage and modern corporate growth.
 
-Whether you are targeting the high-prestige IIM Lucknow ecosystem or the heritage of Lucknow University, this guide ranks the **top BBA colleges in Lucknow for 2026**.
+Whether you are targeting the high-prestige [IIM Lucknow](/colleges/iim-lucknow) ecosystem or the heritage of Lucknow University, this guide ranks the **top BBA colleges in Lucknow for 2026**.
 
 ---
 

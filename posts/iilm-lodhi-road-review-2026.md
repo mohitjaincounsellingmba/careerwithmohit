@@ -143,7 +143,7 @@ Admission to **[IILM Institute for Higher Education](/colleges/iilm-institute-fo
 
 When evaluating **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)**, the financial return on investment is a major differentiator. With an average starting package of **₹8.6 LPA** against a program fee of **₹12.90 Lakhs (Total)**, graduates typically recover their educational investment within **18 to 24 months** of graduating.
 
-For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Technology Management**, **IILM Institute for Higher Education** remains a top-tier recommendation in the 2026–2027 B-school landscape.
+For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Technology Management**, **[IILM Institute for Higher Education](/colleges/iilm-delhi)** remains a top-tier recommendation in the 2026–2027 B-school landscape.
 
 ---
 
@@ -157,7 +157,7 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
-[InquiryCard title="Get Direct Admission Counseling for IILM Institute for Higher Education" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
+[InquiryCard title="Get Direct Admission Counseling for [IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
 
 ---
 
@@ -193,6 +193,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

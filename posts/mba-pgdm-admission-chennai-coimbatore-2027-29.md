@@ -83,7 +83,7 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 * **Highlights**: Located in Nungambakkam campus, known for ethics-driven management education and strong corporate alignment.
 * **Placements**: Top recruiters include Deloitte, EY, HSBC, JPMorgan Chase, and Amazon.
 
-### 3. PSG Institute of Management (PSGIM), Coimbatore
+### 3. [PSG Institute of Management (PSGIM)](/colleges/psg-institute-of-management), Coimbatore
 * **Highlights**: Over 50 years of excellence in management education in Coimbatore.
 * **Dual Degrees**: Partnerships with University of Toledo (USA) and Northern Illinois University.
 

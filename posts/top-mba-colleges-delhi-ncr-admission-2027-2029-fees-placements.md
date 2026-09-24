@@ -66,42 +66,42 @@ Delhi NCR is India's most vibrant corporate hub for MBA and PGDM graduates. For 
 | College Name | Location | Total Fees (2027–29) | Avg Package (Latest) | Exams Accepted & Cutoffs |
 | :--- | :--- | :--- | :--- | :--- |
 | **Faculty of Management Studies (FMS)** | North Campus, Delhi | ₹2.40 Lakhs | ₹34.10 LPA | CAT (99.2+ %ile) |
-| **MDI Gurgaon** | Sector 17, Gurugram | ₹26.00 Lakhs | ₹25.50 LPA | CAT (95.0+ %ile) · GMAT |
-| **IIFT Delhi** | Qutab Institutional Area | ₹21.75 Lakhs | ₹29.10 LPA | CAT (98.0+ %ile) |
-| **FORE School of Management** | Qutab Institutional Area | ₹18.25 Lakhs | ₹14.50 LPA | CAT / XAT / GMAT (85+ %ile) |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Sector 17, Gurugram | ₹26.00 Lakhs | ₹25.50 LPA | CAT (95.0+ %ile) · GMAT |
+| **[IIFT Delhi](/colleges/iift-delhi)** | Qutab Institutional Area | ₹21.75 Lakhs | ₹29.10 LPA | CAT (98.0+ %ile) |
+| **[FORE School of Management](/colleges/fore-school-delhi)** | Qutab Institutional Area | ₹18.25 Lakhs | ₹14.50 LPA | CAT / XAT / GMAT (85+ %ile) |
 | **LBSIM Delhi** | Dwarka, New Delhi | ₹16.50 Lakhs | ₹12.24 LPA | CAT / XAT (82+ %ile) |
 | **NDIM New Delhi** | Tughlakabad, South Delhi | ₹11.50L – ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) |
 | **FOSTIIMA Business School** | Dwarka, New Delhi | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) |
 | **FIIB Delhi** | Vasant Vihar, South Delhi | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) |
-| **Jaipuria Institute of Management** | Sector 62, Noida | ₹15.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** | Sector 62, Noida | ₹15.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) |
 | **JIMS Rohini (Sector 5)** | Rohini, North Delhi | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/XAT/CMAT (75%+ %ile) |
 | **JIMS Kalkaji** | Kalkaji, South Delhi | ₹9.50 Lakhs | ₹8.00 LPA | CAT/MAT/CMAT/XAT (70%+ %ile) |
 | **SOIL Institute of Management** | Manesar / Gurgaon | ₹15.30 Lakhs | ₹11.00 LPA | CAT/XAT/NMAT/GMAT |
 | **BIMTECH Greater Noida** | Knowledge Park II, Greater Noida | ₹14.00 Lakhs | ₹11.25 LPA | CAT/XAT/CMAT/GMAT (75%+ %ile) |
 | **GL Bajaj Institute of Management** | Knowledge Park II, Greater Noida | ₹6.80 Lakhs | ₹7.50 LPA | CAT/MAT/CMAT (50%+ %ile) |
 | **GNIOT / GIMS Greater Noida** | Knowledge Park II, Greater Noida | ₹6.50 Lakhs | ₹6.80 LPA | CAT/MAT/CMAT (50%+ %ile) |
-| **Accurate Institute of Management** | Knowledge Park III, Greater Noida | ₹6.25 Lakhs | ₹6.50 LPA | CAT/MAT/CMAT/Direct Profile |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida)** | Knowledge Park III, Greater Noida | ₹6.25 Lakhs | ₹6.50 LPA | CAT/MAT/CMAT/Direct Profile |
 
 ---
 
 ## Detailed Review of Top Delhi NCR Tier-2 PGDM Institutes
 
-### 1. New Delhi Institute of Management (NDIM)
+### 1. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)
 - **Accreditation**: AICTE Approved, NBA Accredited, AIU MBA Equivalent.
 - **Highlights**: Ranked among the premier private B-Schools in Delhi. Offers dual specializations in FinTech, Business Analytics, HR, and Marketing with 300+ recruiting partners.
 - **Placement Performance**: Average CTC ₹9.50 LPA | Highest ₹24.0 LPA.
 
 ### 2. FOSTIIMA Business School, New Delhi
 - **Accreditation**: AICTE Approved, Govt. of India.
-- **Highlights**: Founded by alumni of IIM Ahmedabad. Modern campus in Dwarka with top faculty from IIM/IIT pools, exceptional corporate linkages, and strong finance/marketing placements.
+- **Highlights**: Founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad). Modern campus in Dwarka with top faculty from IIM/IIT pools, exceptional corporate linkages, and strong finance/marketing placements.
 - **Placement Performance**: Average CTC ₹11.15 LPA | Highest ₹30.0 LPA.
 
-### 3. Fortune Institute of International Business (FIIB)
+### 3. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)
 - **Accreditation**: AICTE Approved, NBA Accredited, AACSB Business Education Alliance Member.
 - **Highlights**: Prime location in Vasant Vihar, South Delhi. Experiential learning model with mandatory executive mentoring and international corporate live projects.
 - **Placement Performance**: Average CTC ₹8.50 LPA | Highest ₹25.92 LPA.
 
-### 4. Jaipuria Institute of Management, Noida
+### 4. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida
 - **Accreditation**: AACSB Member, NBA Accredited, AIU Equivalent.
 - **Highlights**: State-of-the-art campus in Sector 62 Noida. Pan-India unified placement pool across Noida, Lucknow, Jaipur, and Indore campuses.
 - **Placement Performance**: Average CTC ₹11.29 LPA | Highest ₹27.0 LPA.

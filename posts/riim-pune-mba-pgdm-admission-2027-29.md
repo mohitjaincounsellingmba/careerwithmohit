@@ -40,7 +40,7 @@ location: Pune
 state: Pan India
 ---
 
-# Ramachandran International Institute of Management (RIIM Pune) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.20 Lakhs to ₹8.60 Lakhs (Total)** (**₹3.60L - ₹4.30L / Year (Includes 1-Week International Tour to Dubai/Singapore)**). Merit waivers for CAT/XAT/CMAT percentiles above 75% and girl child education rebates.

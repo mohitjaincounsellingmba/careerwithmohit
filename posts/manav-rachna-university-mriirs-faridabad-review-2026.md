@@ -106,7 +106,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad) (MRIIRS), Faridabad maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

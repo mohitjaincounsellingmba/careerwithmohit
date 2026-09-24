@@ -65,12 +65,12 @@ For an MCA student, being in Bangalore means you are just a 20-minute drive away
 
 ## 🏛️ Tier 1: The Bangalore "Holy Trinity"
 
-### 1. RV College of Engineering (RVCE)
+### 1. [RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore)
 Arguably the best non-NIT college for MCA in India. RVCE’s MCA department has a massive reputation for product-based company placements.
 - **Top Recruiters:** Amazon, CISCO, Atlassian, Adobe.
 - **Admission Strategy:** 100% focus on **Karnataka PGCET** (for Karnataka students) or **KMAT** (for management seats).
 
-### 2. BMS College of Engineering (BMSCE)
+### 2. [BMS College of Engineering (BMSCE)](/colleges/bms-college-of-engineering-bangalore)
 Located in Bull Temple Road, BMSCE is a brand name that recruiters trust. Their MCA program is very practical, with strong ties to Bangalore's startup hubs (Indiranagar/Koramangala).
 
 ### 3. [PES University](/colleges/pes-university) (Ring Road Campus)

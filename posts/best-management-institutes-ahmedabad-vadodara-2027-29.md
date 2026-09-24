@@ -74,13 +74,13 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 * **Uniqueness**: Autonomous institute backed by IDBI, IFCI, ICICI, and SBI under Government of Gujarat guidance.
 * **Specialized Program**: PGDM in Entrepreneurship, Start-up Management, and Family Business. Read [All About EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india).
 
-### 2. Shanti Business School (SBS), Ahmedabad
+### 2. [Shanti Business School](/colleges/shanti-business-school) (SBS), Ahmedabad
 * **Highlights**: AICTE approved PGDM with dual specializations in Data Analytics, Communication, Marketing, and Finance. Read [All About Shanti Business School](/blog/all-about-shanti-business-school).
 
-### 3. MICA Ahmedabad (The School of Ideas)
+### 3. [MICA Ahmedabad (The School of Ideas)](/colleges/mica-ahmedabad)
 * **Highlights**: Premier institution for Strategic Marketing, Digital Communications, and Brand Management.
 
-### 4. Institute of Management, Nirma University
+### 4. Institute of Management, [Nirma University](/colleges/nirma-university)
 * **Highlights**: Renowned private university campus in Ahmedabad with strong placement track record in consulting and FMCG.
 
 ---

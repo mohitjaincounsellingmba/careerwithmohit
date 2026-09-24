@@ -132,7 +132,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 
 ## 💡 Expert Recommendations for Selecting Delhi NCR B-Schools
 
-1.  **If CAT Score is 95+:** Apply to FMS Delhi, MDI Gurgaon, DMS IIT Delhi, and [IIFT Delhi](/colleges/iift-delhi) without hesitation.
+1.  **If CAT Score is 95+:** Apply to [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), DMS IIT Delhi, and [IIFT Delhi](/colleges/iift-delhi) without hesitation.
 2.  **If CAT Score is 80 to 90:** Target [FORE School of Management](/colleges/fore-school-delhi), IMI New Delhi, LBSIM Delhi, and BIMTECH Greater Noida for strong BFSI and consulting placement trajectories.
 3.  **If CAT Score is 60 to 80:** Choose [Jaipuria Noida](/colleges/jaipuria-noida), SOIL Gurgaon, NDIM New Delhi, or JIMS Rohini to maximize ROI and dual specializations.
 4.  **If CAT Score is Under 60:** Leverage direct counseling and profile rounds at GL Bajaj Greater Noida, ITS Ghaziabad, and [Lloyd Business School](/colleges/lloyd-business-school-greater-noida).
@@ -150,7 +150,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the best MBA college in Delhi NCR accepting CAT score?
-FMS Delhi (Faculty of Management Studies) and MDI Gurgaon are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, IIFT Delhi, IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), and LBSIM Delhi.
+FMS Delhi (Faculty of Management Studies) and MDI Gurgaon are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, [IIFT Delhi](/colleges/iift-delhi), IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), and LBSIM Delhi.
 
 ### What is the CAT cutoff for FMS Delhi and MDI Gurgaon?
 FMS Delhi typically requires a 99.3+ percentile in CAT for General category. MDI Gurgaon shortlists candidates in the 94-96+ percentile range.
@@ -182,6 +182,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

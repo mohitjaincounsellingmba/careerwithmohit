@@ -145,7 +145,7 @@ B-schools groom future C-suite leaders. Demonstrating initiative outside academi
 
 ## 4. The 5-Paragraph SOP Structure for IIM & Top B-School Interviews
 
-The **Statement of Purpose (SOP)** is your personal story delivered directly to the interview panel. B-schools like **SPJIMR, XLRI, MDI, IIM Bangalore, and IIM Visakhapatnam** place heavy emphasis on your written SOP.
+The **Statement of Purpose (SOP)** is your personal story delivered directly to the interview panel. B-schools like **SPJIMR, XLRI, MDI, [IIM Bangalore](/colleges/iim-bangalore), and IIM Visakhapatnam** place heavy emphasis on your written SOP.
 
 Follow this battle-tested 5-paragraph template:
 
@@ -186,7 +186,7 @@ Follow this battle-tested 5-paragraph template:
 
 1. **Certificate Hoarding without Knowledge:** Adding 20 online certificates without understanding core concepts will lead to brutal grilling in interviews.
 2. **Vague Career Goals:** Statements like *"I want an MBA to explore all fields"* signal a lack of direction.
-3. **Copy-Pasting SOPs Across Colleges:** Sending an SOP tailored for IIM Calcutta to SPJIMR without customizing section choices is an instant rejection trigger.
+3. **Copy-Pasting SOPs Across Colleges:** Sending an SOP tailored for [IIM Calcutta](/colleges/iim-calcutta) to SPJIMR without customizing section choices is an instant rejection trigger.
 4. **Ignoring Current Affairs & Domain Fundamentals:** A great profile cannot save an interview if you fail basic questions about current economic policies, GDP growth, or your graduation subjects.
 
 ---
@@ -224,6 +224,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

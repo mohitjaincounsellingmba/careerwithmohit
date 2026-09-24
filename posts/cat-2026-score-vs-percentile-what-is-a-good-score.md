@@ -157,11 +157,11 @@ Because top institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Banga
 A "good score" in CAT depends entirely on your academic profile, category (General vs NC-OBC/SC/ST/EWS), academic background (Engineer vs Non-Engineer), and target colleges.
 
 ### 1. Top Tier (98 to 99.9+ Percentile | 72–100+ Marks)
-*   **Institutions:** [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), IIM Lucknow, IIM Kozhikode, IIM Indore, [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), [SPJIMR Mumbai](/colleges/spjimr-mumbai), IIT Delhi DMS, [IIT Bombay](/colleges/iit-bombay) SJMSOM.
+*   **Institutions:** [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, [IIM Indore](/colleges/iim-indore), [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), [SPJIMR Mumbai](/colleges/spjimr-mumbai), IIT Delhi DMS, [IIT Bombay](/colleges/iit-bombay) SJMSOM.
 *   **Profile Fit:** Essential for General Engineering Male (GEM) candidates to stand a strong chance of receiving PI interview calls.
 
 ### 2. Upper Tier (90 to 97 Percentile | 46–68 Marks)
-*   **Institutions:** New IIMs (IIM Udaipur, Ranchi, Raipur, Trichy, Kashipur), Baby IIMs (IIM Nagpur, Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur), IIT Roorkee, IIT Kanpur, DSE Delhi, DFS Delhi, IMT Ghaziabad (flagship), [FORE School of Management](/colleges/fore-school-delhi), [Goa Institute of Management (GIM)](/colleges/goa-institute-of-management).
+*   **Institutions:** New IIMs ([IIM Udaipur](/colleges/iim-udaipur), Ranchi, Raipur, Trichy, Kashipur), Baby IIMs ([IIM Nagpur](/colleges/iim-nagpur), Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur), IIT Roorkee, IIT Kanpur, DSE Delhi, DFS Delhi, IMT Ghaziabad (flagship), [FORE School of Management](/colleges/fore-school-delhi), [Goa Institute of Management (GIM)](/colleges/goa-institute-of-management).
 
 ### 3. Mid Tier (75 to 89 Percentile | 28–45 Marks)
 *   **Institutions:** [BIMTECH Greater Noida](/colleges/bimtech-greater-noida), [LBSIM Delhi](/colleges/lbsim-delhi), TAPMI Manipal, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon), [XIME Bangalore](/colleges/xime-bangalore), [SOIL Institute of Management](/colleges/soil-gurgaon), [Jaipuria Institute of Management](/colleges/jaipuria-noida).

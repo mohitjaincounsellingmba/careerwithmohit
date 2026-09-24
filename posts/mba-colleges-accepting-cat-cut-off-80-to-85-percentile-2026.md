@@ -107,12 +107,12 @@ Before diving into individual campus profiles, evaluate this head-to-head compar
 | **[Goa Institute of Management (GIM Goa)](/blog/all-about-gim-goa)** | ₹19.50 Lakhs – ₹20.50 Lakhs | ₹14.87 LPA *(Highest: ₹55.0 LPA)* | **Prestigious Campus ROI**: AACSB & AMBA; CAT/XAT (85%ile Core, 80–82%ile BDA/BIFS); Strong tech & data placement |
 | **[LBSIM New Delhi](/blog/all-about-lbsim-delhi)** | ₹15.75 Lakhs – ₹16.50 Lakhs | ₹12.24 LPA *(Highest: ₹24.7 LPA)* | **High Value ROI**: Dwarka Delhi NCR hub; CAT/XAT (82–85%ile); Legendary reputation in Treasury, Equity & Finance |
 | **[Great Lakes Institute of Management (Chennai / Gurgaon)](/blog/all-about-great-lakes-campuses)** | ₹17.25 Lakhs – ₹20.75 Lakhs | ₹15.10 LPA *(PGDM Chennai)* / ₹12.50 LPA *(Gurgaon)* | **High Analytics ROI**: AMBA accredited; CAT/XAT (80–85%ile), CMAT (95%+); Pioneer in AI & Data-driven management |
-| **[IRMA Anand (Institute of Rural Management)](/blog/all-about-irma-anand)** | ₹16.80 Lakhs – ₹17.80 Lakhs | ₹14.14 LPA *(Highest: ₹31.16 LPA)* | **Social & Agribusiness ROI**: Verghese Kurien legacy; CAT/XAT (80–83%ile); FMCG, Banking & Rural Supply Chain leaders |
+| **[IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management))](/blog/all-about-irma-anand)** | ₹16.80 Lakhs – ₹17.80 Lakhs | ₹14.14 LPA *(Highest: ₹31.16 LPA)* | **Social & Agribusiness ROI**: Verghese Kurien legacy; CAT/XAT (80–83%ile); FMCG, Banking & Rural Supply Chain leaders |
 | **[NIBM Pune (National Institute of Bank Management)](/blog/all-about-nibm-pune)** | ₹16.00 Lakhs | ₹14.16 LPA *(Highest: ₹23.5 LPA)* | **Unrivaled BFSI ROI**: Established by Reserve Bank of India (RBI); CAT/XAT (80–82%ile); 100% core banking & fin placement |
 | **[K.J. Somaiya Institute of Management, Mumbai](/blog/all-about-kj-somaiya)** | ₹20.80 Lakhs | ₹12.50 LPA *(Highest: ₹28.25 LPA)* | **Financial Capital ROI**: Prime Mumbai connectivity; CAT/XAT (83–85%ile), NMAT (222+); Extensive alumni base |
 | **[DoMS IIT ISM Dhanbad](/blog/all-about-iit-colleges-review)** | ₹8.50 Lakhs – ₹9.00 Lakhs | ₹13.00 LPA *(Highest: ₹24.0 LPA)* | **Exceptional Public ROI**: IIT brand; Minimal tuition fees; CAT (80–85%ile); Fast payback period (< 9 months) |
 | **[BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida)** | ₹14.00 Lakhs – ₹15.00 Lakhs | ₹11.25 LPA *(Highest: ₹24.4 LPA)* | **High Industry ROI**: AACSB Accredited; Birla Group heritage; CAT/XAT (75–80%ile for Retail/Insurance, 80%+ for Core) |
-| **[BITS Pilani (Dept of Management - MBA BA)](/blog/all-about-bits-pilani-campuses)** | ₹11.50 Lakhs | ₹15.80 LPA *(Highest: ₹27.0 LPA)* | **High Tech ROI**: BITS Pilani engineering network; CAT/XAT/GMAT (80%+); High-demand Business Analytics focus |
+| **[BITS Pilani (Dept of Management - MBA BA)](/blog/all-about-bits-pilani-campuses)** | ₹11.50 Lakhs | ₹15.80 LPA *(Highest: ₹27.0 LPA)* | **High Tech ROI**: [BITS Pilani](/colleges/bits-pilani) engineering network; CAT/XAT/GMAT (80%+); High-demand Business Analytics focus |
 | **[WeSchool / Welingkar Mumbai & Bengaluru](/blog/all-about-welingkar)** | ₹14.50 Lakhs – ₹15.00 Lakhs | ₹12.50 LPA *(Highest: ₹25.4 LPA)* | **Design & Innovation ROI**: CAT/XAT (80–85%ile), CMAT/ATMA; Flagship E-Biz, Healthcare & Business Design |
 | **[LIBA Chennai (Loyola Institute)](/blog/all-about-liba-chennai)** | ₹15.50 Lakhs – ₹16.80 Lakhs | ₹11.20 LPA *(Highest: ₹20.5 LPA)* | **Jesuit Pedigree ROI**: Loyola campus environment; CAT/XAT (80–82%ile); Strict ethics, finance & operations focus |
 
@@ -130,7 +130,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Average CTC ~₹13.84 LPA | Top 10% Batch Average ~₹20.50 LPA
 * **Campus USP:** TAPMI holds the prestigious dual **AACSB and AMBA** accreditations. Its state-of-the-art **Bloomberg Finance Lab** (housing 16 Bloomberg terminals) makes it one of the premier destinations for aspiring equity analysts, wealth managers, and risk analysts.
 
-### 2. FORE School of Management, New Delhi
+### 2. [FORE School of Management](/colleges/fore-school-delhi), New Delhi
 * **Location:** Qutub Institutional Area, New Delhi
 * **Flagship Programs:** PGDM, PGDM (International Business), PGDM (Financial Management), PGDM (Big Data Analytics)
 * **Expected CAT Cutoff:** 83 – 85 Percentile
@@ -138,7 +138,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Average CTC ~₹16.01 LPA | Highest Domestic CTC ~₹30.00 LPA
 * **Campus USP:** Situated in the heart of South Delhi’s diplomatic and institutional corridor, FORE enjoys daily access to corporate leaders and consulting powerhouses. Top recruiters include Deloitte USI, EY, KPMG, McKinsey Knowledge, Gartner, and HDFC Bank.
 
-### 3. Goa Institute of Management (GIM Goa)
+### 3. [Goa Institute of Management (GIM Goa)](/colleges/gim-goa)
 * **Location:** Sanquelim, Goa
 * **Flagship Programs:** PGDM Core, PGDM (Big Data Analytics - BDA), PGDM (Banking, Insurance & Financial Services - BIFS), PGDM (Healthcare Management - HCM)
 * **Expected CAT Cutoff:** 85 Percentile (Core PGDM); 80 – 82 Percentile (BDA, BIFS, HCM via profile route)
@@ -262,7 +262,7 @@ Yes. Many institutes like TAPMI, FORE, LBSIM, and GIM provide 3% to 5% academic 
 Both are prestigious institutions with similar CAT cutoffs (82–85 percentile). FORE School of Management holds a distinct advantage in consulting, corporate proximity, and Delhi-NCR industry engagement, with an average CTC of ~₹16.01 LPA. TAPMI Manipal offers global AACSB & AMBA accreditations, an immersive residential campus culture, and industry-leading specialized programs in Banking & Finance (BKFS) and HRM.
 
 ### Can I get an IIM call with an 80 to 85 percentile in CAT?
-For General Category candidates, receiving an interview call from older IIMs (BLACKI) or CAP (New IIMs) at 80–85 percentile is virtually impossible unless you possess extraordinary diversity credits (e.g., medical or design graduates with 95%+ throughout school). However, candidates belonging to NC-OBC, SC, ST, and PwD categories frequently receive calls from Baby IIMs (such as IIM Bodh Gaya, IIM Sirmaur, and IIM Jammu) within the 80 to 85 percentile range.
+For General Category candidates, receiving an interview call from older IIMs (BLACKI) or CAP (New IIMs) at 80–85 percentile is virtually impossible unless you possess extraordinary diversity credits (e.g., medical or design graduates with 95%+ throughout school). However, candidates belonging to NC-OBC, SC, ST, and PwD categories frequently receive calls from Baby IIMs (such as [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Sirmaur](/colleges/iim-sirmaur), and [IIM Jammu](/colleges/iim-jammu)) within the 80 to 85 percentile range.
 
 ---
 

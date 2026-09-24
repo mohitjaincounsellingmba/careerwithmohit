@@ -55,7 +55,7 @@ state: Delhi NCR
 
 Navigating MBA admissions in India has become an overwhelming minefield of sponsored college rankings, inflated placement brochures, aggressive tele-callers, and conflicting advice. Between preparing for competitive entrance exams like CAT, XAT, NMAT, SNAP, and CMAT, students are constantly pressured to fill out expensive application forms for institutions they know little about.
 
-To bridge this trust gap, **Mohit Jain** (alumnus certification from IIM Bangalore & FMS Delhi) offers completely **free 30-minute 1-on-1 face-to-face MBA counselling sessions on Google Meet**. You can schedule your session directly at [Book Free Session](/book-session).
+To bridge this trust gap, **Mohit Jain** (alumnus certification from [IIM Bangalore](/colleges/iim-bangalore) & [FMS Delhi](/colleges/fms-delhi)) offers completely **free 30-minute 1-on-1 face-to-face MBA counselling sessions on Google Meet**. You can schedule your session directly at [Book Free Session](/book-session).
 
 ---
 
@@ -115,8 +115,8 @@ Your 10th, 12th, and graduation percentages, along with any work experience, are
 
 ### Step 2: Dream, Target, and Safe B-School Shortlisting (Min 08–16)
 Applying to 15 different colleges blindly wastes ₹30,000+ in non-refundable application fees. Mohit establishes a strategic 3-tier shortlist:
-- **Dream Colleges (Ambitious):** High percentile target, exceptional ROI (e.g., FMS, SPJIMR, XLRI, MDI Gurgaon).
-- **Target Colleges (Realistic):** Perfectly aligned with your current mock percentiles and academic profile (e.g., SIBM Pune, NMIMS Mumbai, GIM Goa, TAPMI, FORE School of Management).
+- **Dream Colleges (Ambitious):** High percentile target, exceptional ROI (e.g., FMS, SPJIMR, XLRI, [MDI Gurgaon](/colleges/mdi-gurgaon)).
+- **Target Colleges (Realistic):** Perfectly aligned with your current mock percentiles and academic profile (e.g., [SIBM Pune](/colleges/sibm-pune), [NMIMS Mumbai](/colleges/nmims-mumbai), GIM Goa, TAPMI, [FORE School of Management](/colleges/fore-school-delhi)).
 - **Safe Colleges (High-ROI Backups):** Institutes where your admission is secure even if exam day doesn't go as planned (e.g., BIMTECH, GL Bajaj, Welingkar, Christ University, JIMS Rohini).
 
 ### Step 3: Screen-Share Fee vs. Median Placement ROI Check (Min 16–24)

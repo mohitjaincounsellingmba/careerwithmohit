@@ -75,7 +75,7 @@ location: Delhi
 state: Pan India
 ---
 
-# Jagannath International Management School (JIMS Kalkaji) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS Kalkaji) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹10.75 Lakhs (Total)** (**₹5.37 Lakhs per Year**). Merit scholarships for high CAT/MAT/CMAT percentiles and sports/academic achievers.

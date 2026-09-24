@@ -73,7 +73,7 @@ Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bm
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for BML Munjal University (BMU) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

@@ -86,7 +86,7 @@ NMAT LR is a mix of verbal and analytical reasoning.
 ## 🚪 Top Colleges Accepting NMAT 2026
 1.  **NMIMS (Mumbai, Bengaluru, Hyderabad)**
 2.  **XIM University, Bhubaneswar**
-3.  **K J Somaiya Institute of Management, Mumbai**
+3.  **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai**
 4.  **SDA Bocconi Asia Center, Mumbai**
 5.  **TAPMI, Manipal**
 

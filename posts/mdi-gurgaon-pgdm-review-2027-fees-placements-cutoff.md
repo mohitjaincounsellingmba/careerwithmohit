@@ -168,7 +168,7 @@ The campus at Sukhrali Campus, Sector 17 offers state-of-the-art academic audito
 
 #### ✅ Key Advantages (Pros)
 *   **Strategic location**: Strategic location in Cyber City/Gurgaon corporate corridor ensures daily CXO interactions and top corporate live projects.
-*   **Exceptional HRM**: Exceptional HRM program considered the #2 best HR program in India after XLRI Jamshedpur.
+*   **Exceptional HRM**: Exceptional HRM program considered the #2 best HR program in India after [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 *   **High peer**: High peer caliber with strict 95–97+ CAT cutoff without reservation quotas in general admissions.
 *   **Lush 37-acre**: Lush 37-acre campus with golf greens, swimming pool, and modern air-conditioned hostels.
 
@@ -186,8 +186,8 @@ To help you assess comparative ROI, here is how Management Development Institute
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Management Development Institute (MDI)** | **₹25.00 – ₹26.50 Lakhs (PGDM Core); ₹30.00 Lakhs (PGDM-IB dual degree)** | **₹25.50 – ₹26.70 LPA** | CAT/GMAT · CAT: 95.0 – 97.0 Percentile (GMAT for NRI/Foreign applicants only) |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |
@@ -207,7 +207,7 @@ PGDM Core is a 2-year program entirely hosted at the Gurgaon campus, while PGDM-
 The combined average package at MDI Gurgaon stands at ₹25.50 to ₹26.70 LPA, with the median salary at ₹24.20 LPA and the top domestic package reaching ₹63.50 LPA.
 
 ### 4. Is MDI Gurgaon considered equivalent to older IIMs?
-Yes, MDI Gurgaon consistently ranks alongside IIM Indore, IIM Kozhikode, and SPJIMR in placement quality, recruiter trust, and corporate alumni footprint.
+Yes, MDI Gurgaon consistently ranks alongside [IIM Indore](/colleges/iim-indore), IIM Kozhikode, and SPJIMR in placement quality, recruiter trust, and corporate alumni footprint.
 
 
 ---

@@ -55,14 +55,14 @@ Unlike a standard 3-year BBA, the Integrated Programme in Management (IPM) is a 
 
 | IIM Institute | UG Degree Awarded | Entrance Exam | Approx. 5-Yr Fees | Average Placement (LPA) | Intake (Seats) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IIM Indore** | BA (Foundations of Mgmt) | IPMAT (Indore) | ₹38 - 42 Lakhs | ₹25.6 LPA | ~150 |
-| **IIM Rohtak** | BBA | IPMAT (Rohtak) | ₹38 - 40 Lakhs | ₹18.7 LPA | ~180 |
-| **IIM Ranchi** | BBA | IPMAT (Indore) / SAT | ₹33 - 36 Lakhs | ₹18.7 LPA | ~120 |
+| **[IIM Indore](/colleges/iim-indore)** | BA (Foundations of Mgmt) | IPMAT (Indore) | ₹38 - 42 Lakhs | ₹25.6 LPA | ~150 |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | BBA | IPMAT (Rohtak) | ₹38 - 40 Lakhs | ₹18.7 LPA | ~180 |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | BBA | IPMAT (Indore) / SAT | ₹33 - 36 Lakhs | ₹18.7 LPA | ~120 |
 | **IIM Shillong** | BBA | IPMAT (Indore) / SAT | ₹30 - 35 Lakhs | ₹26.1 LPA (MBA Batch) | ~30-50 |
-| **IIM Amritsar** | BS (Quant Finance & Econ) | IPMAT (Indore) | ₹38 - 39 Lakhs | ₹19.0 LPA | ~60 |
-| **IIM Bodh Gaya** | BBA | JIPMAT | ₹30 - 38 Lakhs | ₹12.3 LPA | ~120 |
-| **IIM Jammu** | BBA | JIPMAT | ₹27 - 34 Lakhs | ₹14.5 LPA | ~120 |
-| **IIM Sirmaur** | BMS (Hons) *[4-Year]* | IPMAT (Indore) | ₹22.7 Lakhs (4 Yrs) | ₹13.0 LPA (MBA Batch) | ~60 |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | BS (Quant Finance & Econ) | IPMAT (Indore) | ₹38 - 39 Lakhs | ₹19.0 LPA | ~60 |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | BBA | JIPMAT | ₹30 - 38 Lakhs | ₹12.3 LPA | ~120 |
+| **[IIM Jammu](/colleges/iim-jammu)** | BBA | JIPMAT | ₹27 - 34 Lakhs | ₹14.5 LPA | ~120 |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | BMS (Hons) *[4-Year]* | IPMAT (Indore) | ₹22.7 Lakhs (4 Yrs) | ₹13.0 LPA (MBA Batch) | ~60 |
 
 *Note: Placement packages for newly launched undergraduate programs (like Shillong and Sirmaur) are indicated based on their flagship MBA (PGP) batches, as IPM batches merge with the MBA batch for placements.*
 

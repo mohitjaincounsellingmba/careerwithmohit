@@ -46,7 +46,7 @@ location: Delhi
 state: Delhi NCR
 ---
 
-The **IPMAT (Integrated Programme in Management Aptitude Test)** is perhaps the most prestigious entrance exam for 12th-grade students in India. It is your direct ticket into the "IIM League" without waiting for CAT after graduation. In 2026, over 40,000 students will compete for a handful of seats at IIM Indore, IIM Rohtak, and other premier institutes.
+The **IPMAT (Integrated Programme in Management Aptitude Test)** is perhaps the most prestigious entrance exam for 12th-grade students in India. It is your direct ticket into the "IIM League" without waiting for CAT after graduation. In 2026, over 40,000 students will compete for a handful of seats at [IIM Indore](/colleges/iim-indore), [IIM Rohtak](/colleges/iim-rohtak), and other premier institutes.
 
 This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking down exactly how to navigate the selection criteria of the top IIMs.
 
@@ -58,9 +58,9 @@ This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking
 |---|---|---|---|
 | **IIM Indore** | IPMAT Indore | 5 Years | BA (Foundations) + MBA |
 | **IIM Rohtak** | IPMAT Rohtak | 5 Years | BBA + MBA |
-| **IIM Ranchi** | IPMAT Indore | 5 Years | BBA + MBA |
-| **IIM Jammu** | JIPMAT | 5 Years | BBA + MBA |
-| **IIM Bodh Gaya**| JIPMAT | 5 Years | BBA + MBA |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | IPMAT Indore | 5 Years | BBA + MBA |
+| **[IIM Jammu](/colleges/iim-jammu)** | JIPMAT | 5 Years | BBA + MBA |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)**| JIPMAT | 5 Years | BBA + MBA |
 | **IIFT Kakinada**| IPMAT Indore | 5 Years | BBA (Bus. Analytics) + MBA |
 
 ---
@@ -154,6 +154,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

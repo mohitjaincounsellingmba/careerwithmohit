@@ -41,7 +41,7 @@ state: Delhi NCR
 # Top MBA/PGDM Colleges in Jaipur Admission 2027: Fees, Cutoffs, Placements & Scholarships (CAT 2026 / XAT Exam)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Ranked Institutions:** Jaipuria Institute of Management Jaipur, IIHMR University, FMS-IRM, Taxila Business School, and JECRC University.
+> - **Top Ranked Institutions:** [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Jaipur, [IIHMR University](/colleges/iihmr-university), FMS-IRM, [Taxila Business School](/colleges/taxila-jaipur), and [JECRC University](/colleges/jecrc-jaipur).
 > - **Accepted Entrance Exams:** CAT 2026, XAT exam, MAT, CMAT, and ATMA.
 > - **Scholarship Opportunities:** High-performing scorers in CAT/XAT receive fee concessions up to ₹3.0 Lakhs.
 
@@ -59,21 +59,21 @@ state: Delhi NCR
 | **Taxila Business School, Jaipur** | ₹9.50 Lakhs | ₹8.50 LPA | CAT 2026 / XAT / CMAT / MAT (SAP Specialization) |
 | **JK Lakshmipat University (JKLU)** | ₹8.50 Lakhs | ₹7.20 LPA | CAT 2026 / XAT / MAT / CMAT |
 | **JECRC University, Jaipur** | ₹4.20 Lakhs | ₹5.50 LPA | Direct Merit / CAT 2026 / MAT |
-| **Manipal University Jaipur (MUJ)** | ₹9.80 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT |
-| **Poornima University, Jaipur** | ₹3.60 Lakhs | ₹4.80 LPA | Direct Admission / State Merit |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)** | ₹9.80 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT |
+| **[Poornima University](/colleges/poornima-jaipur), Jaipur** | ₹3.60 Lakhs | ₹4.80 LPA | Direct Admission / State Merit |
 
 ---
 
 ## Detailed College Highlights
 
-### 1. Jaipuria Institute of Management, Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
 * **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/posts/all-about-jaipuria-jaipur).
 
 ### 2. IIHMR University Jaipur
 * **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/posts/all-about-iihmr-university).
 
-### 3. FMS-IRM Jaipur (Institute of Rural Management)
+### 3. FMS-IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management))
 * **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/posts/all-about-fms-irm-jaipur).
 
 ### 4. Taxila Business School

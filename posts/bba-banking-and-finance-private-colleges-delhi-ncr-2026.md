@@ -112,7 +112,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 ## 🏛️ Detailed Profiles of Top Private Universities in Delhi NCR
 
 ### 1. [Amity University](/colleges/amity-noida) (Noida & Gurugram Campuses)
-- **Affiliated University**: Amity University Uttar Pradesh (Noida) / Amity University Haryana (Manesar)
+- **Affiliated University**: [Amity University](/colleges/amity-noida) Uttar Pradesh (Noida) / Amity University Haryana (Manesar)
 - **Annual Fee**: ₹3,20,000 – ₹3,50,000 per year
 - **Course Highlights**:
   - State-of-the-art **Bloomberg Finance Lab** for real-time market trading and financial modeling.
@@ -209,15 +209,15 @@ For students seeking self-financed private colleges affiliated with established 
 To help students choose an institution that matches their family budget, here is a categorized breakdown of private BBA Banking and Finance colleges in Delhi NCR:
 
 ### 1. Premium Tier (Annual Fee: ₹3.0 Lakh – ₹3.8 Lakh)
-- **Colleges**: Amity University (Noida), Bennett University, IILM University, Amity University (Gurugram).
+- **Colleges**: Amity University (Noida), [Bennett University](/colleges/bennett-greater-noida), IILM University, Amity University (Gurugram).
 - **Best For**: Students looking for luxury campus infrastructure, Bloomberg trading rooms, global exchange partnerships, and premium corporate branding.
 
 ### 2. Mid-Range Tier (Annual Fee: ₹1.8 Lakh – ₹2.9 Lakh)
-- **Colleges**: GD Goenka University, Sharda University, Sushant University, Manav Rachna (MRIIRS), K.R. Mangalam University.
+- **Colleges**: [GD Goenka University](/colleges/gd-goenka-university), [Sharda University](/colleges/sharda-greater-noida), Sushant University, Manav Rachna (MRIIRS), K.R. Mangalam University.
 - **Best For**: Balanced academic rigour, strong corporate connectivity in Gurugram/Noida, and good campus placement support.
 
 ### 3. Value-for-Money / Affordable Tier (Annual Fee: ₹95,000 – ₹1.5 Lakh)
-- **Colleges**: Galgotias University, [Noida International University (NIU)](/colleges/niu-greater-noida), GNIOT Greater Noida, IMS Noida, ASB Noida, JIMS Delhi NCR.
+- **Colleges**: [Galgotias University](/colleges/galgotias-university), [Noida International University (NIU)](/colleges/niu-greater-noida), GNIOT Greater Noida, IMS Noida, ASB Noida, JIMS Delhi NCR.
 - **Best For**: Maximum ROI, low financial burden, and state-university-recognized undergraduate degrees with solid entry-level banking placements.
 
 ---

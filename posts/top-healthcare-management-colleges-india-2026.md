@@ -77,7 +77,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Goa Institute of Management (GIM), Goa**
     *   **Approx Fees**: ₹11–12 lakh
     *   **Highlights**: Known for its specialized "Big Data Analytics in Healthcare" approach.
-*   **K J Somaiya Institute of Management, Mumbai**
+*   **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai**
     *   **Approx Fees**: ₹14–20 lakh
     *   **Highlights**: Strong alumni network in the pharmaceutical and insurance sectors.
 
@@ -185,6 +185,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

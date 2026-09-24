@@ -29,7 +29,7 @@ import {
   ArrowUpRight
 } from "lucide-react";
 
-import { FEATURED_DIRECTORY_COLLEGES, FeaturedCollege } from "@/components/HomeCollegeExplorer";
+import { FEATURED_DIRECTORY_COLLEGES, type FeaturedCollege } from "@/lib/featuredColleges";
 
 type StreamTab = "mba" | "btech" | "roi" | "online" | "mocks" | "calculators";
 

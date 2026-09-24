@@ -57,7 +57,7 @@ location: Noida
 state: Delhi NCR
 ---
 
-# Birla Institute of Management Technology (BIMTECH) (Knowledge Park II Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) (Knowledge Park II Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, XAT, CMAT, MAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 420 Seats across all PGDM streams**.
@@ -185,8 +185,8 @@ To help you assess comparative ROI, here is how Birla Institute of Management Te
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Birla Institute of Management Technology (BIMTECH)** | **₹14.50 – ₹16.00 Lakhs (Tuition) + ₹3.50 – ₹4.00 Lakhs (Hostel)** | **₹11.20 – ₹11.50 LPA** | CAT/XAT/CMAT/MAT · CAT: 72–75%ile (Core), 65–70%ile (Insurance/Retail) |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

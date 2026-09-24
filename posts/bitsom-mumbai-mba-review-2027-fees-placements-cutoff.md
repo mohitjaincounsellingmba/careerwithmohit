@@ -43,7 +43,7 @@ state: Maharashtra
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[BITS School of Management (BITSoM)](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **UGC Recognized under BITS Pilani Institution of Eminence (IoE) status** accreditations, and distinguished **Fastest Rising New-Age B-School in India (Backed by Aditya Birla Group)**, the institute draws thousands of competitive applicants each admissions season.
+When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[BITS School of Management (BITSoM)](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **UGC Recognized under [BITS Pilani](/colleges/bits-pilani) Institution of Eminence (IoE) status** accreditations, and distinguished **Fastest Rising New-Age B-School in India (Backed by Aditya Birla Group)**, the institute draws thousands of competitive applicants each admissions season.
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
@@ -162,8 +162,8 @@ To help you assess comparative ROI, here is how BITS School of Management (BITSo
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **BITS School of Management (BITSoM)** | **₹27.00 – ₹28.50 Lakhs (Complete 2-Year Residential MBA including hostel & meals)** | **₹23.50 – ₹24.00 LPA** | CAT/GMAT/GRE · CAT: 90–94+ %ile |
-| **SPJIMR Mumbai** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **MDI Gurgaon** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |

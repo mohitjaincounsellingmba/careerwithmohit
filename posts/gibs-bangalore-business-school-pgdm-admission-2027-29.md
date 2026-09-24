@@ -40,7 +40,7 @@ location: Bangalore
 state: Pan India
 ---
 
-# Global Institute of Business Studies (GIBS Business School) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore)) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.25 Lakhs (Total)** (**₹5.62 Lakhs per Year**). GIBS Merit & Sports Scholarships up to ₹1.50 Lakhs.

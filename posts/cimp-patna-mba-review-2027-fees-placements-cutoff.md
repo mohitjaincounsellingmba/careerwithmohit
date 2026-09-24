@@ -45,7 +45,7 @@ state: Patna
 
 When evaluating premier business schools and universities for management education in India, **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** consistently stands out as a high-value institution in **Mithapur, Patna, Bihar**. With established corporate credentials, a strong alumni base, and distinguished accreditation (NIRF Top 100 B-School in India · NBA & AIU Equivalent), the institution attracts ambitious management aspirants from across the country.
 
-Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **Chandragupt Institute of Management Patna (CIMP) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
+Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
 
 ---
 
@@ -72,7 +72,7 @@ Here is a consolidated overview of **[Chandragupt Institute of Management Patna 
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **Chandragupt Institute of Management Patna (CIMP)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.

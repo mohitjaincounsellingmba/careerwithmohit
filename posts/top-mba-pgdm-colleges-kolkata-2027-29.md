@@ -74,15 +74,15 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 * **Why Highest ROI**: 2-year fee of just ₹3.85 Lakhs with average placements of ₹8.50 LPA.
 * **Key Recruiters**: PwC, EY, Deloitte, ICICI Bank, Tata Steel, ITC.
 
-### 2. IMI Kolkata (International Management Institute)
+### 2. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
 * **Highlights**: Sponsored by RP-Sanjiv Goenka Group. Located in Alipore campus, NBA accredited.
 * **Placement Highlight**: Average package of ₹10.65 LPA with strong hiring in Analytics and BFSI.
 
-### 3. Globsyn Business School (GBS), Kolkata
+### 3. [Globsyn Business School](/colleges/globsyn-kolkata) (GBS), Kolkata
 * **Highlights**: Known for its 'Beyond Education' pedagogy, corporate board mentorship, and AICTE PGDM program.
 * **Placements**: Average salary ₹7.50 LPA. Read full detailed review at [All About Globsyn Kolkata](/blog/all-about-globsyn-kolkata).
 
-### 4. Praxis Business School, Kolkata
+### 4. [Praxis Business School](/colleges/praxis-kolkata), Kolkata
 * **Highlights**: Premier institute for Business Analytics, Data Science, and Financial Engineering.
 * **Placements**: Median package ₹9.46 LPA in top tech analytics companies.
 

@@ -71,10 +71,10 @@ graph LR
 | Exam Simulation | Duration | Questions | Interface Feature | Target Cutoffs |
 | :--- | :--- | :--- | :--- | :--- |
 | **[CAT 2026 Full Simulation](/mock-tests)** | 120 Mins | 66 Qs | 40m Sectional Locks, On-screen Calculator | 99+ %ile (BLACKI) / 90+ %ile (Baby IIMs) |
-| **[XAT 2027 Full Simulation](/mock-tests)** | 210 Mins | 95 Qs | Decision Making included, No sectional timer | 95+ %ile (XLRI Jamshedpur) |
-| **[SNAP 2026 Speed Test](/mock-tests)** | 60 Mins | 60 Qs | Rapid Free-Flowing, -0.25 Negative Marking | 98.5+ %ile (SIBM Pune) |
-| **[NMAT 2026 Adaptive Test](/mock-tests)** | 120 Mins | 108 Qs | Sectional countdowns, Zero negative marking | 235+ Score (NMIMS Mumbai) |
-| **[MAH MBA CET Speed Test](/mock-tests)** | 150 Mins | 200 Qs | High speed, Zero negative marking | 99.9+ %ile (JBIMS Mumbai) |
+| **[XAT 2027 Full Simulation](/mock-tests)** | 210 Mins | 95 Qs | Decision Making included, No sectional timer | 95+ %ile ([XLRI Jamshedpur](/colleges/xlri-jamshedpur)) |
+| **[SNAP 2026 Speed Test](/mock-tests)** | 60 Mins | 60 Qs | Rapid Free-Flowing, -0.25 Negative Marking | 98.5+ %ile ([SIBM Pune](/colleges/sibm-pune)) |
+| **[NMAT 2026 Adaptive Test](/mock-tests)** | 120 Mins | 108 Qs | Sectional countdowns, Zero negative marking | 235+ Score ([NMIMS Mumbai](/colleges/nmims-mumbai)) |
+| **[MAH MBA CET Speed Test](/mock-tests)** | 150 Mins | 200 Qs | High speed, Zero negative marking | 99.9+ %ile ([JBIMS Mumbai](/colleges/jbims-mumbai)) |
 
 ---
 

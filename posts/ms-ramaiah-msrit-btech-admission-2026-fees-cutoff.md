@@ -38,7 +38,7 @@ faqs:
 location: Bangalore
 state: Karnataka
 ---
-**MS Ramaiah Institute of Technology (MSRIT)**, established in 1962, is widely considered the "Gold Standard" of private engineering education in Bangalore. Ranking consistently among the top 100 engineering institutes in NIRF, MSRIT is the second-most preferred choice after the iconic **RVCE** in the COMEDK and KCET counselling rounds.
+**MS [Ramaiah Institute of Technology (MSRIT)](/colleges/ms-ramaiah-institute-of-technology)**, established in 1962, is widely considered the "Gold Standard" of private engineering education in Bangalore. Ranking consistently among the top 100 engineering institutes in NIRF, MSRIT is the second-most preferred choice after the iconic **RVCE** in the COMEDK and KCET counselling rounds.
 
 ### **MSRIT Admission Channels 2026**
 1.  **KCET (45% Seats)**: For Karnataka domicile students only.

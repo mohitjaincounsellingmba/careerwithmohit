@@ -81,7 +81,7 @@ Founded by the Times of India Group, [Bennett University](/colleges/bennett-grea
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for Bennett University (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [Bennett University](/colleges/bennett-greater-noida) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 

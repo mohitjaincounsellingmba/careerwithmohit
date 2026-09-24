@@ -116,12 +116,12 @@ Established during the second major expansion of national IIM infrastructure, th
 | Institute Name | Flagship PGP/MBA Seats | Key Specialized Courses Offered |
 | :--- | :--- | :--- |
 | **IIM Shillong** | ~380–450 | PGP-Ex, PGP for Working Professionals |
-| **IIM Ranchi** | ~300–400 | MBA-HR, MBA-Business Analytics |
-| **IIM Rohtak** | ~250–360 | Integrated Programme in Law / IPM |
-| **IIM Raipur** | ~280–360 | Executive MBA, Fellow Programme |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | ~300–400 | MBA-HR, MBA-Business Analytics |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | ~250–360 | Integrated Programme in Law / IPM |
+| **[IIM Raipur](/colleges/iim-raipur)** | ~280–360 | Executive MBA, Fellow Programme |
 | **IIM Trichy** | ~360–450 | MBA-HRM, PGPM-HR |
-| **IIM Udaipur** | ~320–400 | 1-Year MBA in Global SCM & Digital Enterprise |
-| **IIM Kashipur** | ~280–380 | MBA-Analytics, Executive MBA |
+| **[IIM Udaipur](/colleges/iim-udaipur)** | ~320–400 | 1-Year MBA in Global SCM & Digital Enterprise |
+| **[IIM Kashipur](/colleges/iim-kashipur)** | ~280–380 | MBA-Analytics, Executive MBA |
 
 ---
 
@@ -131,13 +131,13 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 
 | Institute Name | Flagship PGP/MBA Seats | Key Highlights & Intake Features |
 | :--- | :--- | :--- |
-| **IIM Nagpur** | ~240–260 | Dedicated tech & industry immersions |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | ~240–260 | Dedicated tech & industry immersions |
 | **IIM Visakhapatnam** | ~240–360 | Mentored by IIMB; strong corporate ties |
-| **IIM Amritsar** | ~280–360 | Specialized MBA in HR & Business Analytics |
-| **IIM Sambalpur** | ~300–350 | Focus on entrepreneurship & innovation |
-| **IIM Bodh Gaya** | ~240–300 | Includes IPM and MBA in Digital Management |
-| **IIM Sirmaur** | ~240–360 | Includes Tourism & Hospitality Management |
-| **IIM Jammu** | ~240–300 | Includes IPM & Hospital Administration MBA |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | ~280–360 | Specialized MBA in HR & Business Analytics |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | ~300–350 | Focus on entrepreneurship & innovation |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | ~240–300 | Includes IPM and MBA in Digital Management |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | ~240–360 | Includes Tourism & Hospitality Management |
+| **[IIM Jammu](/colleges/iim-jammu)** | ~240–300 | Includes IPM & Hospital Administration MBA |
 
 *Note: Individual IIMs reserve the right to revise their intake capacity annually based on classroom infrastructure, faculty-to-student ratios, and academic council approvals.*
 
@@ -145,7 +145,7 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 
 ### **How Strategic MBA Aspirants Maximize Their Calls**
 
-1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **[IIM Bangalore](/colleges/iim-bangalore) (Business Analytics)**, **IIM Lucknow (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
+1.  **Target Specialized MBA Programs:** If your percentile is slightly below the flagship PGP cutoff for an Old IIM, applying for specialized programs like **[IIM Bangalore](/colleges/iim-bangalore) (Business Analytics)**, **[IIM Lucknow](/colleges/iim-lucknow) (Agri-Business / Sustainability)**, or **IIM Kozhikode (Liberal Studies & Management)** can help you earn the coveted IIM brand tag.
 2.  **Understand Open Merit Dynamics:** With only **~40.5% of seats (~2,200 seats across India)** available under General unreserved merit, competition is exceptionally intense. For Old IIMs, General category candidates typically need a **99.0+ CAT percentile**, along with a strong academic profile (10th, 12th, and graduation scores).
 3.  **Keep Top Private B-Schools as Parallel Backups:** Don't rely solely on IIM calls. Top-tier private B-schools such as **[FMS Delhi](/colleges/fms-delhi)**, **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**, **[MDI Gurgaon](/colleges/mdi-gurgaon)**, **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** (via XAT), and **IMT Ghaziabad** offer placements and batch profiles at par with BLACKI IIMs.
 
@@ -168,7 +168,7 @@ There are approximately 5,500 to 5,800 flagship PGP/MBA seats across all 21 IIMs
 All IIMs follow the Government of India reservation policy. Around 40.5% of the total seats are available under the General (Unreserved/Open) category, while 27% are reserved for NC-OBC, 15% for SC, 7.5% for ST, 10% for EWS, and 5% horizontal reservation for PwD candidates.
 
 ### Which IIM has the highest number of MBA seats?
-IIM Indore and IIM Lucknow have among the highest total intakes. IIM Indore offers around 450-480 flagship PGP seats plus its Integrated Programme in Management (IPM), while IIM Lucknow offers around 500+ flagship seats along with Agri-Business and Sustainability Management programs.
+[IIM Indore](/colleges/iim-indore) and IIM Lucknow have among the highest total intakes. IIM Indore offers around 450-480 flagship PGP seats plus its Integrated Programme in Management (IPM), while IIM Lucknow offers around 500+ flagship seats along with Agri-Business and Sustainability Management programs.
 
 ### What is the difference between an MBA and a PGDM from an IIM?
 Following the IIM Act of 2017, Indian Institutes of Management now award Master of Business Administration (MBA) degrees instead of Post Graduate Diploma in Management (PGDM) for their flagship two-year programs.

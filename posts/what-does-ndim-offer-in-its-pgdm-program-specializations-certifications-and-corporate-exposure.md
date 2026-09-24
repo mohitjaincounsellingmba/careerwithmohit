@@ -83,7 +83,7 @@ faqs:
 
 Choosing the right business school is one of the most critical milestones for any management aspirant. In an era shaped by artificial intelligence, global supply chains, and cross-border commerce, conventional textbook pedagogy is no longer sufficient. Aspirants require a future-proof curriculum that merges academic rigor with real boardroom execution and global cultural readiness.
 
-Established in 1992 in the institutional hub of South Delhi (Tughlakabad), **New Delhi Institute of Management (NDIM)** has spent over three decades establishing itself as a premier destination for corporate leadership. Governed by a distinguished board featuring former Secretaries to the Government of India, Supreme Court judges, and top industry leaders, NDIM holds approvals from **AICTE**, accreditation from **NBA**, and prestigious **MBA Equivalence from the Association of Indian Universities (AIU)**.
+Established in 1992 in the institutional hub of South Delhi (Tughlakabad), **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** has spent over three decades establishing itself as a premier destination for corporate leadership. Governed by a distinguished board featuring former Secretaries to the Government of India, Supreme Court judges, and top industry leaders, NDIM holds approvals from **AICTE**, accreditation from **NBA**, and prestigious **MBA Equivalence from the Association of Indian Universities (AIU)**.
 
 In this official program breakdown—sourced directly from [ndimdelhi.org](https://www.ndimdelhi.org/)—we examine everything NDIM offers in its flagship 2-Year Full-Time Post Graduate Diploma in Management (PGDM) program: from dual specializations and professional certifications to international immersion, foreign language training, corporate interface credentials, SIP-to-PPO conversions, and student scholarships.
 
@@ -303,7 +303,7 @@ NDIM maintains a comprehensive scholarship framework to support deserving and di
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L – ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member, Triple Accreditations |
 | **JIMS Rohini / Kalkaji** | ₹9.50L – ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong Delhi NCR Corporate ROI |
 | **LBSIM New Delhi** | ₹16.50 Lakhs | ₹12.24 LPA | CAT/XAT (80–85% %ile) · Premier Finance Legacy & AIU Equivalence |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Learning |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Learning |
 
 ---
 

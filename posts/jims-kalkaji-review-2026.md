@@ -70,7 +70,7 @@ state: Delhi NCR
 > - **Verified Total Fee Investment**: **₹10,75,000** for the 2-year full-time curriculum, payable in 4 installments.
 > - **Placement & ROI Benchmark**: Average placement ranges between **₹8.20 – ₹9.30 LPA** (NIRF median: **₹9.50 LPA**; Highest package: **₹20.00 – ₹35.00 LPA**) with 92–96% placement consistency in BFSI, Consulting, and FMCG.
 
-For management aspirants seeking an AICTE-approved, NBA-accredited business school in the heart of South Delhi with tuition fees under ₹11 Lakhs, **Jagannath International Management School (JIMS), Kalkaji** is one of the most popular choices in Delhi NCR. 
+For management aspirants seeking an AICTE-approved, NBA-accredited business school in the heart of South Delhi with tuition fees under ₹11 Lakhs, **[Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS), Kalkaji** is one of the most popular choices in Delhi NCR. 
 
 Established in 1997, JIMS Kalkaji has earned a strong reputation among corporate recruiters, particularly in Banking, Financial Services, and Retail Marketing. Backed by **NBA accreditation**, **AIU MBA Equivalence**, and international **SAQS accreditation**, JIMS Kalkaji offers an intimate, high-engagement learning environment with a boutique batch size of just 180 students.
 
