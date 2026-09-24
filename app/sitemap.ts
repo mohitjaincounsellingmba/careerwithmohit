@@ -11,6 +11,8 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://careerwithmohit.online';
 
+  const buildDate = new Date();
+
   // Static routes
   const routes = [
     '',
@@ -143,7 +145,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/mba-admissions-by-region',
   ].map((route) => ({
     url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
-    lastModified: new Date('2026-09-17T00:00:00.000Z'),
+    lastModified: buildDate,
     changeFrequency: 'weekly' as const,
     priority:
       route === ''
@@ -181,7 +183,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     collegeRoutes = collegeFiles
       .filter((file) => file.endsWith('.md'))
       .map((file) => {
-        let mtime = new Date('2026-09-10T00:00:00.000Z');
+        let mtime = buildDate;
         try {
           const stat = fs.statSync(path.join(collegesDir, file));
           mtime = stat.mtime;
@@ -205,7 +207,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((config: any) => !customStaticSlugs.includes(config.slug))
     .map((config: any) => ({
       url: `${baseUrl}/tools/mock-test/${config.slug}/`,
-      lastModified: new Date('2026-09-15T00:00:00.000Z'),
+      lastModified: buildDate,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     }));
@@ -214,7 +216,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const examSlugs = ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'];
   const resourceRoutes = examSlugs.map((exam) => ({
     url: `${baseUrl}/resources/${exam}/`,
-    lastModified: new Date('2026-09-15T00:00:00.000Z'),
+    lastModified: buildDate,
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
@@ -222,7 +224,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic abroad education college routes
   const abroadRoutes = ABROAD_COLLEGES.map((college) => ({
     url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}/`,
-    lastModified: new Date('2026-09-15T00:00:00.000Z'),
+    lastModified: buildDate,
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
@@ -230,7 +232,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic online university hubs routes
   const onlineUniversityRoutes = COLLEGES.map((c) => ({
     url: `${baseUrl}/online-degree-certification/${c.universitySlug}/`,
-    lastModified: new Date('2026-09-16T00:00:00.000Z'),
+    lastModified: buildDate,
     changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));

@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ exam: str
       title: `${examName} Previous Year Question Papers PDF & Solutions`,
       description: `Download official ${examName} previous year question papers with detailed answer keys and solutions.`,
       type: "website",
-      url: `https://careerwithmohit.online/resources/${exam}`,
+      url: `https://careerwithmohit.online/resources/${exam}/`,
     }
   };
 }

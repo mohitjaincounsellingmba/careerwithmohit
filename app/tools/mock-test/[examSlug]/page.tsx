@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
   const config = EXAM_CONFIGS.find(c => c.slug === resolvedParams.examSlug);
   if (!config) return {};
   
-  const pageUrl = `https://careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}`;
+  const pageUrl = `https://careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}/`;
   return {
     title: config.seoTitle,
     description: config.seoDescription,

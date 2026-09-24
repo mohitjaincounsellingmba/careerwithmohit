@@ -40,5 +40,6 @@ export default function robots(): MetadataRoute.Robots {
       }
     ],
     sitemap: 'https://careerwithmohit.online/sitemap.xml',
+    host: 'https://careerwithmohit.online',
   };
 }

@@ -245,16 +245,22 @@ export default function RootLayout({
   const websiteData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": "https://careerwithmohit.online/#website",
     "name": "CareerWithMohit",
+    "alternateName": "Career with Mohit Admissions & Career Counselling",
     "url": "https://careerwithmohit.online",
     "publisher": {
       "@id": "https://careerwithmohit.online/#organization"
     },
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://careerwithmohit.online/search/?q={search_term_string}",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://careerwithmohit.online/search/?q={search_term_string}"
+      },
       "query-input": "required name=search_term_string"
-    }
+    },
+    "inLanguage": "en-IN"
   };
 
   const speakableData = {

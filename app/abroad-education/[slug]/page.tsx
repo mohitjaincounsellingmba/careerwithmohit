@@ -65,7 +65,7 @@ export default async function CollegePage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'CollegeOrUniversity',
     name: college.name,
-    url: `https://careerwithmohit.online/abroad-education/${slug}`,
+    url: `https://careerwithmohit.online/abroad-education/${slug}/`,
     location: {
       '@type': 'Place',
       name: college.location,
@@ -78,9 +78,35 @@ export default async function CollegePage({ params }: Props) {
     },
   };
 
+  const breadcrumbData = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://careerwithmohit.online/',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Abroad Education',
+        item: 'https://careerwithmohit.online/abroad-education/',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: college.name,
+        item: `https://careerwithmohit.online/abroad-education/${slug}/`,
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-[#f8f7f4] font-body pb-20">
       <JsonLd data={jsonLdData} />
+      <JsonLd data={breadcrumbData} />
       
       {/* HERO SECTION */}
       <section className="bg-[#0f172a] py-20 px-6 relative overflow-hidden">

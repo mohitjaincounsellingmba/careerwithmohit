@@ -100,7 +100,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
     const title = `${exam.name} Previous Year Question Papers PDF & Solutions | CareerWithMohit`;
     const description = `${exam.description} Practice with official PDF downloads, topic-wise answer keys, and exam analysis.`;
-    const url = `https://careerwithmohit.online/resources/${examKey}`;
+    const url = `https://careerwithmohit.online/resources/${examKey}/`;
 
     return {
         title,

@@ -11,7 +11,7 @@ import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
 import { COLLEGES } from '@/data/onlineColleges';
 
 const BASE_URL = 'https://careerwithmohit.online';
-const PAGE_PATH = '/online-degree-certification';
+const PAGE_PATH = '/online-degree-certification/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {

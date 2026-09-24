@@ -21,7 +21,7 @@ import MbaFormDiscountCalculator from '@/components/MbaFormDiscountCalculator';
 import { MBA_FORM_COLLEGES, CURATED_COMBOS } from '@/data/mbaFormDiscountsData';
 
 const BASE_URL = 'https://careerwithmohit.online';
-const PAGE_PATH = '/mba-application-form-discount';
+const PAGE_PATH = '/mba-application-form-discount/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {

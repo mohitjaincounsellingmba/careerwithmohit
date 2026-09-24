@@ -5,7 +5,7 @@ import { CollegeMetadata } from '@/lib/colleges';
 import MbaPgdmAdmissionsByRegionClient from '@/components/MbaPgdmAdmissionsByRegionClient';
 
 const BASE_URL = 'https://careerwithmohit.online';
-const PAGE_PATH = '/mba-admissions-by-region';
+const PAGE_PATH = '/mba-admissions-by-region/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {

@@ -1,5 +1,15 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Compass, BookOpen, GraduationCap, Laptop, Home, Search, ArrowRight } from "lucide-react";
+
+export const metadata: Metadata = {
+  title: "404 - Page Not Found | CareerWithMohit",
+  description: "The page or admissions guide you are looking for might have been moved, renamed, or updated.",
+  robots: {
+    index: false,
+    follow: false,
+  },
+};
 
 export default function NotFound() {
   return (

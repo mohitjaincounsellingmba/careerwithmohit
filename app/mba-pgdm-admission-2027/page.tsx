@@ -8,7 +8,7 @@ import { MBA_PGDM_COLLEGES_2027 } from '@/data/mbaPgdmColleges2027';
 import { GEO_MBA_HUBS } from '@/data/geoMbaHubs';
 
 const BASE_URL = 'https://careerwithmohit.online';
-const PAGE_PATH = '/mba-pgdm-admission-2027';
+const PAGE_PATH = '/mba-pgdm-admission-2027/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {

@@ -481,7 +481,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const PAGE_URL = `${BASE_URL}${PARENT_PATH}/${slug}`;
+  const PAGE_URL = `${BASE_URL}${PARENT_PATH}/${slug}/`;
 
   // 1. Course Metadata
   if (COURSE_MAP[slug]) {
@@ -593,7 +593,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function OnlineDegreeSubpage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const PAGE_URL = `${BASE_URL}${PARENT_PATH}/${slug}`;
+  const PAGE_URL = `${BASE_URL}${PARENT_PATH}/${slug}/`;
 
   // ── Render Case A: Course Specific Hub ──
   if (COURSE_MAP[slug]) {

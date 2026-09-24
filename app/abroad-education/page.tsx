@@ -25,7 +25,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { JsonLd } from '@/components/JsonLd';
 
 const BASE_URL = 'https://careerwithmohit.online';
-const PAGE_PATH = '/abroad-education';
+const PAGE_PATH = '/abroad-education/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
