@@ -1,9 +1,12 @@
 ---
 title: >-
-  Goa Institute of Management (GIM) PGDM Placement Report 2025: Average CTC ₹15.30 LPA, Highest ₹32.20 LPA & BDA Surge
+  Goa Institute of Management (GIM) PGDM Placement Report 2025: Average CTC
+  ₹15.30 LPA, Highest ₹32.20 LPA & BDA Surge
 date: '2026-08-15'
 description: >-
-  Detailed Goa Institute of Management (GIM) PGDM Placement Report 2025. Explore average package of ₹15.30 LPA, highest of ₹32.20 LPA, Big Data Analytics (BDA), fees & cutoffs.
+  Detailed Goa Institute of Management (GIM) PGDM Placement Report 2025. Explore
+  average package of ₹15.30 LPA, highest of ₹32.20 LPA, Big Data Analytics
+  (BDA), fees & cutoffs.
 keywords:
   - gim goa pgdm placement report 2025
   - gim goa average package 2025
@@ -14,14 +17,26 @@ keywords:
 faqs:
   - question: What was the average and highest package at GIM Goa in 2025?
     answer: >-
-      For the PGDM batch of 2025, Goa Institute of Management (GIM) recorded an institutional high average package of INR 15.30 LPA, a median CTC of INR 14.80 LPA, and a highest package of INR 32.20 LPA, maintaining 100% placement.
+      For the PGDM batch of 2025, Goa Institute of Management (GIM) recorded an
+      institutional high average package of INR 15.30 LPA, a median CTC of INR
+      14.80 LPA, and a highest package of INR 32.20 LPA, maintaining 100%
+      placement.
   - question: How did the specialized PGDM in Big Data Analytics (BDA) perform?
     answer: >-
-      GIM's pioneering PGDM-BDA program recorded an average salary above INR 16.50 LPA, with high demand for data engineers, AI strategists, and analytics consultants.
+      GIM's pioneering PGDM-BDA program recorded an average salary above INR
+      16.50 LPA, with high demand for data engineers, AI strategists, and
+      analytics consultants.
   - question: What entrance tests are accepted by GIM Goa?
     answer: >-
-      GIM Goa accepts CAT, XAT, GMAT, and CMAT (for select programs), with shortlist cutoffs typically around 85–90 percentile.
+      GIM Goa accepts CAT, XAT, GMAT, and CMAT (for select programs), with
+      shortlist cutoffs typically around 85–90 percentile.
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Goa Institute of Management (GIM), Goa** has established itself as one of the most innovative and rapidly rising private management schools in India, internationally accredited by AMBA and AACSB.
 

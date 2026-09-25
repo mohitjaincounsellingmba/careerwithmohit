@@ -37,6 +37,11 @@ faqs:
       (90 marks) out of the total 130 questions. This section is often the
       differentiator for high-percentile scores.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 Succeeding in the **[BITS Pilani](/colleges/bits-pilani) (BITSAT) 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 
 [MockTestCard title="Free BITSAT 2026 Full CBT Mock Test 2026" link="/tools/bitsat-mock-test" questions="130 Questions" time="180 Mins"]

@@ -3,7 +3,7 @@ title: >-
   Lal Bahadur Shastri Institute of Management (LBSIM) Review 2027: Fees,
   Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
   In-depth Lal Bahadur Shastri Institute of Management (LBSIM) (Dwarka Sector 11
   Campus) review for 2027 admissions. Explore verified fee structure (₹16.50 –
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Why is LBSIM considered top-tier for Finance?
     answer: >-
@@ -52,7 +56,7 @@ faqs:
     answer: >-
       The average CTC stands at ₹12.80 to ₹13.20 LPA, with the median at ₹12.50
       LPA and the top 25% averaging over ₹16.20 LPA.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

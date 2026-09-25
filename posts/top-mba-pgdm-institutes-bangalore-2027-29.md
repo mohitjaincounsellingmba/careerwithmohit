@@ -3,7 +3,7 @@ title: >-
   Top Ranked MBA/PGDM Institutes in Bangalore (2027-29): High ROI, MAT Cutoffs &
   Application Process
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Discover the top MBA/PGDM colleges in Bangalore for 2027-29. Compare tuition
   fees, average placements, MAT/CMAT cutoffs, and step-by-step application

@@ -1,7 +1,7 @@
 ---
 title: 'Bennett University Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Bennett
   University Review 2026: Fees, Placements, Cutoffs & ROI Analysis. Check
@@ -39,7 +39,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Bennett
       University is approximately ₹11.95 Lakhs (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Sardar Patel Institute of Technology (SPIT Mumbai)
 logo: ''
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 state: Maharashtra
 category: Engineering
 type: Private Autonomous College
@@ -53,6 +53,12 @@ keywords:
   - Sardar Patel Institute of Technology (SPIT Mumbai) CSE placement
   - Sardar Patel Institute of Technology (SPIT Mumbai) B.Tech admission 2027
   - 'engineering colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 ---
 
 ### About Sardar Patel Institute of Technology (SPIT Mumbai)

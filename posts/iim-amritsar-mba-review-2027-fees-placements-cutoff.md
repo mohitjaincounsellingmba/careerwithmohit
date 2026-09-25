@@ -1,9 +1,14 @@
 ---
-title: 'IIM Amritsar Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Amritsar Review 2027: Fees, Placements, Cutoff, Ranking & Admission
+  Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Amritsar (Manawala, Amritsar, Punjab) review for 2027 admissions. Explore audited fee structure (₹17.50 Lakhs (Total)), latest placement packages (Avg: ₹16.51 LPA, Highest: ₹36.25 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Amritsar (Manawala, Amritsar, Punjab) review for 2027
+  admissions. Explore audited fee structure (₹17.50 Lakhs (Total)), latest
+  placement packages (Avg: ₹16.51 LPA, Highest: ₹36.25 LPA), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim amritsar review 2027
   - iim amritsar mba fees
@@ -20,16 +25,25 @@ keywords:
 faqs:
   - question: What is the average package at IIM Amritsar in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Amritsar stands at approximately ₹16.51 LPA, with the median package around ₹10.50 LPA and top offers reaching ₹36.25 LPA.
+      The overall average placement package at IIM Amritsar stands at
+      approximately ₹16.51 LPA, with the median package around ₹10.50 LPA and
+      top offers reaching ₹36.25 LPA.
   - question: What entrance exams are accepted for admission to IIM Amritsar?
     answer: >-
-      IIM Amritsar accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Amritsar for the 2-year MBA / PGDM program?
+      IIM Amritsar accepts scores from CAT for shortlisting eligible candidates,
+      followed by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Amritsar for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹17.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Amritsar offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Amritsar provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Amritsar provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Manawala
 state: Amritsar
 ---

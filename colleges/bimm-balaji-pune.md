@@ -1,7 +1,7 @@
 ---
 name: Balaji Institute of Modern Management (BIMM Pune)
 logo: /logo.webp
-location: 'Tathawade, Pune, Maharashtra'
+location: Pune
 category: Management
 type: University
 courses:
@@ -55,6 +55,13 @@ keywords:
   - Balaji Institute of Modern Management (BIMM Pune) PGDM placement
   - Balaji Institute of Modern Management (BIMM Pune) MBA admission 2027
   - 'MBA colleges Tathawade, Pune, Maharashtra'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+state: Maharashtra
 ---
 
 ### About Balaji Institute of Modern Management (BIMM Pune)

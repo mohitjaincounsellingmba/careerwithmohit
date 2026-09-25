@@ -4,8 +4,8 @@ date: '2026-09-12'
 description: >-
   In-depth comparison of Delhi NCR premier B-schools: IMT Ghaziabad vs FORE
   School of Management vs LBSIM Delhi. Placement stats, fees, batch size, and
-  ROI analysis.
-category: Colleges
+  ROI analysis for 2026-2027 admissions & career guidance.
+category: Certifications & Skills
 keywords:
   - imt ghaziabad vs fore vs lbsim pgdm placement comparison
   - imt ghaziabad vs fore school of management
@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: 'Which college is better for Marketing: IMT Ghaziabad, FORE, or LBSIM?'
     answer: >-
@@ -43,7 +47,7 @@ faqs:
     answer: >-
       Typical cutoffs are: IMT Ghaziabad (90–93+ percentile), FORE School of
       Management (85–88 percentile), and LBSIM Delhi (82–86 percentile).
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -3,7 +3,7 @@ title: >-
   Free ATMA Mock Test 2026: Official 180-Question CBT with JBIMS & PUMBA Cutoff
   Predictor
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Take our free full-length ATMA 2026 CBT Mock Test online. Practice 180
   questions across 6 timed sections (Analytical I & II, Quant I & II, Verbal I &

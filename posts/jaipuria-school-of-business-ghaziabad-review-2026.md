@@ -3,11 +3,11 @@ title: >-
   Jaipuria School of Business (JSB) Review 2026: Fees, Placements, Cutoffs & ROI
   Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri
+  DU, and pri for 2026-2027 admissions & career guidance.
 keywords:
   - Jaipuria School of Business (JSB) review 2026
   - Jaipuria School of Business (JSB) mba fees
@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Jaipuria School
       of Business (JSB) is approximately ₹8.50 Lakhs (Total).
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
 ---
 

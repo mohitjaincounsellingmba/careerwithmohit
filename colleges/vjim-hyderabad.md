@@ -1,7 +1,7 @@
 ---
 name: Vignana Jyothi Institute of Management (VJIM Hyderabad)
 logo: /logo.webp
-location: 'Bachupally, Hyderabad, Telangana'
+location: Hyderabad
 category: Management
 type: Institute
 courses:
@@ -56,6 +56,13 @@ keywords:
   - Vignana Jyothi Institute of Management (VJIM Hyderabad) PGDM placement
   - Vignana Jyothi Institute of Management (VJIM Hyderabad) MBA admission 2027
   - 'MBA colleges Bachupally, Hyderabad, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### About Vignana Jyothi Institute of Management (VJIM Hyderabad)

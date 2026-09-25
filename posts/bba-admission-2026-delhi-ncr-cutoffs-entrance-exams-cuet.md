@@ -1,7 +1,7 @@
 ---
 title: 'BBA Admission 2026 in Delhi NCR: Cut‑offs, Entrance Exams & CUET vs DU‑JAT'
 date: '2026-05-21'
-category: BBA Admissions
+category: BBA
 description: >-
   Everything you need to know about BBA Admission 2026 in Delhi NCR. Get details
   on exams like CUET, SET, and IPU CET, and explore the DU-JAT replacement.
@@ -54,7 +54,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 Navigating **bba admission 2026** requires understanding the entrance exam landscape. A few years ago, the Delhi University Joint Admission Test (DU-JAT) was the golden standard for DU business programs. Today, the admission process has undergone massive changes.

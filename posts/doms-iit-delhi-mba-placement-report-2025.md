@@ -41,9 +41,15 @@ faqs:
       The final shortlist cutoff for General category candidates generally
       ranges between 97.5+ and 98.5+ percentile in CAT, alongside strong
       academic credentials.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹22.52 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **Department of Management Studies (DoMS) at IIT Delhi** continues to be a premier choice for engineering and non-engineering graduates aiming for a blend of strategic management and technology acumen.
 

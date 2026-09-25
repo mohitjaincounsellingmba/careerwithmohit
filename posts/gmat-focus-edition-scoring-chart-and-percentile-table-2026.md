@@ -1,8 +1,13 @@
 ---
-title: 'GMAT Focus Edition Scoring Chart & Percentile Table 2026: Score Concordance & B-School Cutoffs'
+title: >-
+  GMAT Focus Edition Scoring Chart & Percentile Table 2026: Score Concordance &
+  B-School Cutoffs
 date: '2026-09-12'
-description: 'Complete GMAT Focus Edition scoring chart and percentile table for 2026. Compare Focus scores (205-805) with Classic GMAT (200-800) and target B-school cutoffs.'
-category: 'Entrance Exams'
+description: >-
+  Complete GMAT Focus Edition scoring chart and percentile table for 2026.
+  Compare Focus scores (205-805) with Classic GMAT (200-800) and target B-school
+  cutoffs.
+category: Study Abroad
 keywords:
   - gmat focus edition scoring chart and percentile table 2026
   - gmat focus edition score chart
@@ -10,17 +15,37 @@ keywords:
   - gmat focus vs classic gmat score comparison
   - isb gmat focus edition cutoff
   - top b schools gmat focus cutoffs
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
   - question: What is the score range for the GMAT Focus Edition?
-    answer: "The GMAT Focus Edition total score ranges from 205 to 805, with all scores ending in the digit '5' to clearly differentiate them from the legacy Classic GMAT (which ranged from 200 to 800 and ended in '0')."
+    answer: >-
+      The GMAT Focus Edition total score ranges from 205 to 805, with all scores
+      ending in the digit '5' to clearly differentiate them from the legacy
+      Classic GMAT (which ranged from 200 to 800 and ended in '0').
   - question: How are the sections weighted in the GMAT Focus Edition?
-    answer: "The GMAT Focus Edition consists of three equally weighted sections: Quantitative Reasoning, Verbal Reasoning, and Data Insights. Each section is scored on a scale of 60 to 90 in one-point increments, and all three contribute equally to your final total score."
+    answer: >-
+      The GMAT Focus Edition consists of three equally weighted sections:
+      Quantitative Reasoning, Verbal Reasoning, and Data Insights. Each section
+      is scored on a scale of 60 to 90 in one-point increments, and all three
+      contribute equally to your final total score.
   - question: What is a good score in the GMAT Focus Edition for top B-schools?
-    answer: "A score of 645 to 665 (equivalent to 700–720 on the legacy GMAT, 89th–93rd percentile) is competitive for top Indian programs like ISB, IIMA PGPX, and SPJIMR. Scores of 685+ (97th percentile, equivalent to 740+ Classic) are ideal for global elite programs like Harvard, Stanford, and INSEAD."
+    answer: >-
+      A score of 645 to 665 (equivalent to 700–720 on the legacy GMAT, 89th–93rd
+      percentile) is competitive for top Indian programs like ISB, IIMA PGPX,
+      and SPJIMR. Scores of 685+ (97th percentile, equivalent to 740+ Classic)
+      are ideal for global elite programs like Harvard, Stanford, and INSEAD.
   - question: Has the legacy Classic GMAT been completely discontinued?
-    answer: "Yes. As of early 2024, the legacy 10th edition of the GMAT was officially retired worldwide. The GMAT Focus Edition is now the sole official GMAT examination administered by GMAC."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Yes. As of early 2024, the legacy 10th edition of the GMAT was officially
+      retired worldwide. The GMAT Focus Edition is now the sole official GMAT
+      examination administered by GMAC.
+location: Hyderabad
+state: Telangana
 ---
 
 The transition to the **GMAT Focus Edition** represents the most significant redesign of the Graduate Management Admission Test in decades. With the removal of Sentence Correction and the Analytical Writing Assessment (AWA), and the introduction of **Data Insights** as a fully scored core section, the scoring dynamics have changed dramatically.

@@ -1,7 +1,7 @@
 ---
 name: Institute of Management Technology (IMT Ghaziabad)
 logo: /logo.webp
-location: 'Ghaziabad, Delhi NCR, Uttar Pradesh'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -55,6 +55,13 @@ keywords:
   - Institute of Management Technology (IMT Ghaziabad) PGDM placement
   - Institute of Management Technology (IMT Ghaziabad) MBA admission 2027
   - 'MBA colleges Ghaziabad, Delhi NCR, Uttar Pradesh'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About Institute of Management Technology (IMT Ghaziabad)

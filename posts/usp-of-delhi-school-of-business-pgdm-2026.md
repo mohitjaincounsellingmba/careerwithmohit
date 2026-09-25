@@ -40,9 +40,15 @@ faqs:
     answer: >-
       Yes — DSB offers a dedicated full-time **PGDM (FinTech)** program, one of
       the very few in Delhi.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹11 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 **Delhi School of Business (DSB)**, operating under the aegis of **VIPS-TC (Vivekananda Institute of Professional Studies - Technical Campus)**, is one of North Delhi's best-kept secrets in the PGDM space.
 

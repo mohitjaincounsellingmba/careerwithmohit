@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Udaipur 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
   Colleges Under 5 Lakhs in Udaipur 2026: Fees & Placements. Check updated fees,
@@ -19,6 +19,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best MBA college under 5 Lakhs in Udaipur?
     answer: >-
@@ -38,7 +42,7 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

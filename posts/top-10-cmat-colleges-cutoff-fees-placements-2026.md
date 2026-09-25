@@ -1,7 +1,7 @@
 ---
 title: 'Top 10 CMAT Colleges & Cutoff 2026: Fees, Placements & Admission Guide'
 date: '2026-05-12'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top 10 CMAT
   Colleges & Cutoff 2026: Fees, Placements & Admission Guide. Check updated
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the minimum CMAT score for a good college?
     answer: >-
@@ -43,7 +47,7 @@ faqs:
       For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is
       better for accessing a wider network of 600+ private B-schools, especially
       in North India.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

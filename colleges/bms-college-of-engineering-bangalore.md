@@ -1,7 +1,7 @@
 ---
 name: BMS College of Engineering (BMSCE)
 logo: ''
-location: 'Bangalore, Karnataka'
+location: Bangalore
 state: Karnataka
 category: Engineering
 type: Private Autonomous College
@@ -55,6 +55,12 @@ keywords:
   - BMS College of Engineering (BMSCE) CSE placement
   - BMS College of Engineering (BMSCE) B.Tech admission 2027
   - 'engineering colleges Bangalore, Karnataka'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 ---
 
 ### About BMS College of Engineering (BMSCE)

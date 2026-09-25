@@ -3,7 +3,7 @@ title: >-
   Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI
   Cutoff Predictor
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Attempt the free full-length XAT 2027 CBT Mock Test. 95 questions, 5 choices
   (A–E), Decision Making caselets, VALR, QADI, and GK with XLRI Jamshedpur BM &
@@ -32,6 +32,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is unique about the XAT exam?
     answer: >-
@@ -45,7 +49,7 @@ faqs:
     answer: >-
       For BM (Business Management), a percentile of 96+ is required for male
       candidates and 93+ for female candidates.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 # Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor

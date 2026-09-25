@@ -3,7 +3,7 @@ title: >-
   FIIB Delhi Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Student
   Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive FIIB Delhi (Fortune Institute of International Business) review
   for 2027–2029 admissions. Explore verified PGDM fee structure (₹12.85 Lakhs),
@@ -71,7 +71,7 @@ faqs:
       (Plot 5, Rao Tula Ram Marg). It offers immediate proximity to Delhi
       Aerocity, Gurgaon Cyber City, and South Delhi business hubs, facilitating
       year-round corporate interactions.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

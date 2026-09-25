@@ -1,9 +1,16 @@
 ---
-title: 'S.P. Jain Institute of Management and Research (SPJIMR) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  S.P. Jain Institute of Management and Research (SPJIMR) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth S.P. Jain Institute of Management and Research (SPJIMR) (Andheri West Campus) review for 2027 admissions. Explore verified fee structure (₹22.50 – ₹24.00 Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹33.00 LPA, highest ₹77.80 – ₹81.00 LPA), cutoffs (CAT: 85%ile (Profile-based qualifying) / 96–98%ile (Merit-based); GMAT: 700+ / 645+ Focus Edition), and student verdict.
+  In-depth S.P. Jain Institute of Management and Research (SPJIMR) (Andheri West
+  Campus) review for 2027 admissions. Explore verified fee structure (₹22.50 –
+  ₹24.00 Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹33.00
+  LPA, highest ₹77.80 – ₹81.00 LPA), cutoffs (CAT: 85%ile (Profile-based
+  qualifying) / 96–98%ile (Merit-based); GMAT: 700+ / 645+ Focus Edition), and
+  student verdict.
 keywords:
   - s.p. jain institute of management and research (spjimr) review 2027
   - s.p. jain institute of management and research (spjimr) fees
@@ -11,25 +18,44 @@ keywords:
   - s.p. jain institute of management and research (spjimr) average package
   - s.p. jain institute of management and research (spjimr) highest package
   - s.p. jain institute of management and research (spjimr) cutoff cat xat gmat
-  - s.p. jain institute of management and research (spjimr) admission process 2027
+  - >-
+    s.p. jain institute of management and research (spjimr) admission process
+    2027
   - s.p. jain institute of management and research (spjimr) ranking
-  - Mumbai, Maharashtra MBA colleges
+  - 'Mumbai, Maharashtra MBA colleges'
   - best MBA colleges in Maharashtra
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: How does SPJIMR profile-based shortlisting work?
     answer: >-
-      SPJIMR shortlists candidates in two phases: Phase 1 is Profile-Based (evaluating 10th, 12th, graduation marks, work experience achievements, and extra-curriculars with a qualifying minimum CAT score of 85 percentile). Phase 2 is Score-Based for candidates who score 96–98+ percentile in CAT.
+      SPJIMR shortlists candidates in two phases: Phase 1 is Profile-Based
+      (evaluating 10th, 12th, graduation marks, work experience achievements,
+      and extra-curriculars with a qualifying minimum CAT score of 85
+      percentile). Phase 2 is Score-Based for candidates who score 96–98+
+      percentile in CAT.
   - question: What is the fee structure for SPJIMR Mumbai PGDM 2027–2029?
     answer: >-
-      The total program fee for the 2-year PGDM at SPJIMR is approximately ₹22.50 to ₹24.00 Lakhs, which includes tuition, hostel accommodation, academic material, and the Global Fast Track international immersion.
+      The total program fee for the 2-year PGDM at SPJIMR is approximately
+      ₹22.50 to ₹24.00 Lakhs, which includes tuition, hostel accommodation,
+      academic material, and the Global Fast Track international immersion.
   - question: What is the average and highest placement package at SPJIMR Mumbai?
     answer: >-
-      In recent audited placement seasons, SPJIMR recorded an average CTC of ₹33.00 LPA, a median CTC of ₹31.50 LPA, and a highest domestic package reaching ₹77.80 to ₹81.00 LPA.
+      In recent audited placement seasons, SPJIMR recorded an average CTC of
+      ₹33.00 LPA, a median CTC of ₹31.50 LPA, and a highest domestic package
+      reaching ₹77.80 to ₹81.00 LPA.
   - question: Do freshers get selected at SPJIMR Mumbai?
     answer: >-
-      Yes, freshers with excellent academic credentials (90/90/80+ in 10th, 12th, and graduation) and notable extra-curricular leadership accomplishments regularly secure admission through the profile-based route.
+      Yes, freshers with excellent academic credentials (90/90/80+ in 10th,
+      12th, and graduation) and notable extra-curricular leadership
+      accomplishments regularly secure admission through the profile-based
+      route.
 location: Mumbai
 state: Maharashtra
 ---

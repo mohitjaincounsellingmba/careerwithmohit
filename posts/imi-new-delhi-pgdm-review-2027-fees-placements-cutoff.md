@@ -3,7 +3,7 @@ title: >-
   International Management Institute (IMI) Review 2027: Fees, Placements,
   Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
   In-depth International Management Institute (IMI) (Qutab Institutional Area
   Campus) review for 2027 admissions. Explore verified fee structure (₹21.00 –
@@ -32,6 +32,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT cutoff for IMI New Delhi?
     answer: >-
@@ -52,7 +56,7 @@ faqs:
     answer: >-
       Yes, international recruiters regularly participate, offering overseas
       packages up to ₹70.00 LPA in Dubai, Singapore, and European business hubs.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

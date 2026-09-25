@@ -1,7 +1,7 @@
 ---
 name: Loyola Institute of Business Administration (LIBA)
 logo: /logo.webp
-location: 'Chennai, Tamil Nadu'
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -50,6 +50,13 @@ keywords:
   - Loyola Institute of Business Administration (LIBA) PGDM placement
   - Loyola Institute of Business Administration (LIBA) MBA admission 2027
   - 'MBA colleges Chennai, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About Loyola Institute of Business Administration (LIBA)

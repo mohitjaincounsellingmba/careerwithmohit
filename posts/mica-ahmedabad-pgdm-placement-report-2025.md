@@ -38,7 +38,13 @@ faqs:
       internal entrance test—MICAT (MICAT I or MICAT II).
 location: Ahmedabad
 state: Gujarat
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 Known as the "School of Ideas", **MICA Ahmedabad** is the undisputed leader in South Asia for Strategic Marketing, Creative Brand Communications, Digital Transformation, and Media Analytics.
 

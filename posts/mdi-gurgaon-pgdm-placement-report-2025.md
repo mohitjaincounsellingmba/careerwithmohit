@@ -41,9 +41,15 @@ faqs:
       MDI Gurgaon accepts CAT scores, with the shortlist cutoff generally
       hovering between 94.5+ and 96.5+ percentile for General category
       candidates.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹25.60 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **Management Development Institute (MDI), Gurgaon** is recognized as one of India's premier B-schools, benefiting immensely from its prime location at the epicenter of Delhi-NCR's corporate hub.
 

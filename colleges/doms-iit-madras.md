@@ -1,7 +1,7 @@
 ---
 name: 'Department of Management Studies (DoMS), IIT Madras'
 logo: /logo.webp
-location: 'Chennai, Tamil Nadu'
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -50,6 +50,13 @@ keywords:
   - 'Department of Management Studies (DoMS), IIT Madras PGDM placement'
   - 'Department of Management Studies (DoMS), IIT Madras MBA admission 2027'
   - 'MBA colleges Chennai, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About Department of Management Studies (DoMS), IIT Madras

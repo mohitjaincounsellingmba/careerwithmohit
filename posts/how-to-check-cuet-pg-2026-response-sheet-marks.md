@@ -32,6 +32,7 @@ faqs:
       For every correct answer, you get +4 marks. For every incorrect answer, 1
       mark is deducted (-1). No marks are awarded or deducted for unattempted
       questions.
+category: Career Advisory
 ---
 
 The **CUET PG 2026 examination** is officially concluding its final shift today, **March 27, 2026.** As soon as the exams wrap up, the next big milestone for over 4 lakh aspirants is the release of the **NTA Response Sheet** and the **Provisional Answer Key.**

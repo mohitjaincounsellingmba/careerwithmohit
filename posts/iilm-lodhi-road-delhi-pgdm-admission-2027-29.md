@@ -3,7 +3,7 @@ title: >-
   IILM Institute for Higher Education MBA / PGDM Admission 2027-29: Fees,
   Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
   Complete 2027-29 admission guide for IILM Institute for Higher Education (IILM
   Lodhi Road). Verified fee structure (₹12.90 Lakhs (Total)), PGDM approvals,
@@ -30,6 +30,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at IILM Lodhi Road?
     answer: >-
@@ -70,8 +74,8 @@ faqs:
       directly with senior career counselor Mohit Jain (+91 9560020771) for
       profile evaluation, GD-PI tips, scholarship calculation, and admission
       guidance.
-location: Delhi
-state: Pan India
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [IILM Institute for Higher Education](/colleges/iilm-delhi) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

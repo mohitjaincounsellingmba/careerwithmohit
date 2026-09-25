@@ -1,7 +1,7 @@
 ---
 title: 'LPU Online MBA Review 2026: Fees ₹1,61,600 | NAAC A++ | 11 Specializations'
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 description: >-
   Honest review of LPU ([Lovely Professional
   University](/colleges/lovely-professional-university)) Online MBA 2026. Real

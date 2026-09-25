@@ -35,6 +35,7 @@ faqs:
     answer: "The average package for Sri Balaji University (BIMM) is approximately **₹8.75 LPA**.\n\n[\U0001F449 Confused about which Pune college fits your profile and budget? Get a free profile evaluation from Mohit Jain!](/inquiry)"
 location: Pune
 state: Maharashtra
+category: Online Degrees
 ---
 
 Pune, the "Oxford of the East," is one of India's premier hubs for management education. With a mix of prestigious university departments, specialized national institutes, and industry-aligned private B-schools, Pune offers options for every type of aspirant.

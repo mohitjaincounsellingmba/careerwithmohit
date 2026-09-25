@@ -3,11 +3,12 @@ title: >-
   Book Free 1-on-1 MBA Counselling Online: 30-Minute Face-to-Face Video Guidance
   with Mohit Jain (2026–2027)
 date: '2026-09-15'
-category: MBA Counselling
+category: Exams
 description: >-
   Schedule a free 30-minute 1-on-1 face-to-face MBA counselling session on
   Google Meet with Mohit Jain (IIM-B & FMS certified). Live profile evaluation,
-  screen-shared cutoffs, and ROI audits.
+  screen-shared cutoffs, and ROI audits for 2026-2027 admissions & career
+  guidance.
 keywords:
   - book face to face MBA counselling
   - free 1 on 1 mba counselling online
@@ -21,6 +22,12 @@ keywords:
   - best mba career counsellor in india
   - free career counselling session
   - MBA Admissions 2027
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is this 1-on-1 MBA counselling call really 100% free?
     answer: >-
@@ -49,7 +56,7 @@ faqs:
       Yes. You will see real-time cutoff spreadsheets, official audited
       placement reports (median vs. average CTCs), and fee structures
       screen-shared live during the video meeting.
-location: Pan-India
+location: Delhi NCR
 state: Delhi NCR
 ---
 

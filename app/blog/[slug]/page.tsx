@@ -37,21 +37,51 @@ function extractNodeText(node: React.ReactNode): string {
   return "";
 }
 
-function detectGeoFocus(title: string, content: string, keywords: string[]): { isDelhiNcr: boolean; specificLocation?: string } {
-  const text = `${title} ${content} ${keywords.join(" ")}`.toLowerCase();
+interface GeoLocationResult {
+  hasGeo: boolean;
+  regionCode: string;
+  placename: string;
+  position: string;
+  keywords: string[];
+}
+
+function detectGeoFocus(title: string, content: string, keywords: string[]): GeoLocationResult {
+  const text = `${title} ${content} ${(keywords || []).join(" ")}`.toLowerCase();
   
-  if (text.includes("greater noida") || text.includes("noida")) {
-    return { isDelhiNcr: true, specificLocation: "Noida, Greater Noida, Delhi NCR" };
+  // 1. Noida / Greater Noida
+  if (text.includes("greater noida") || text.includes("noida") || text.includes("galgotias") || text.includes("bimtech") || text.includes("sharda") || text.includes("bennett")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-UP",
+      placename: "Noida, Greater Noida, Delhi NCR, India",
+      position: "28.5355;77.3910",
+      keywords: ["Noida Colleges", "Greater Noida Colleges", "Delhi NCR Admissions 2027", "Direct Admission Noida", "Top Colleges in Noida"]
+    };
   }
-  if (text.includes("gurgaon") || text.includes("gurugram")) {
-    return { isDelhiNcr: true, specificLocation: "Gurgaon, Delhi NCR" };
+
+  // 2. Gurgaon / Gurugram
+  if (text.includes("gurgaon") || text.includes("gurugram") || text.includes("mdi gurgaon") || text.includes("great lakes gurgaon") || text.includes("bml munjal")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-HR",
+      placename: "Gurgaon, Gurugram, Delhi NCR, India",
+      position: "28.4595;77.0266",
+      keywords: ["Gurgaon Colleges", "Top B-Schools Gurgaon", "Delhi NCR Admissions 2027", "Gurugram Direct Admission"]
+    };
   }
-  if (text.includes("ghaziabad")) {
-    return { isDelhiNcr: true, specificLocation: "Ghaziabad, Delhi NCR" };
+
+  // 3. Ghaziabad / Faridabad
+  if (text.includes("ghaziabad") || text.includes("faridabad") || text.includes("imt ghaziabad") || text.includes("kiet") || text.includes("akgec")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-UP",
+      placename: "Ghaziabad, Faridabad, Delhi NCR, India",
+      position: "28.6692;77.4538",
+      keywords: ["Ghaziabad Colleges", "Faridabad Colleges", "Delhi NCR Admissions 2027"]
+    };
   }
-  if (text.includes("faridabad")) {
-    return { isDelhiNcr: true, specificLocation: "Faridabad, Delhi NCR" };
-  }
+
+  // 4. Delhi / IPU / FMS
   if (
     text.includes("delhi") || 
     text.includes("ncr") || 
@@ -60,12 +90,138 @@ function detectGeoFocus(title: string, content: string, keywords: string[]): { i
     text.includes("janakpuri") || 
     text.includes("kalkaji") || 
     text.includes("rohini") || 
-    text.includes("vips")
+    text.includes("vips") ||
+    text.includes("fms delhi") ||
+    text.includes("dtu") ||
+    text.includes("fore school")
   ) {
-    return { isDelhiNcr: true, specificLocation: "Delhi NCR" };
+    return {
+      hasGeo: true,
+      regionCode: "IN-DL",
+      placename: "Delhi NCR, India",
+      position: "28.6139;77.2090",
+      keywords: ["Delhi NCR Colleges", "Best Colleges in Delhi", "Delhi Admissions 2027", "GGSIPU Admission 2027", "Delhi Career Counselling"]
+    };
   }
-  
-  return { isDelhiNcr: false };
+
+  // 5. Mumbai / Navi Mumbai / Thane
+  if (text.includes("mumbai") || text.includes("jbims") || text.includes("spjimr") || text.includes("nmims") || text.includes("welingkar") || text.includes("kj somaiya") || text.includes("sies mumbai") || text.includes("simsree")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-MH",
+      placename: "Mumbai, Maharashtra, India",
+      position: "19.0760;72.8777",
+      keywords: ["Mumbai Colleges", "Top MBA Colleges Mumbai", "Mumbai Admissions 2027", "Direct Admission Mumbai", "JBIMS & NMIMS Admission"]
+    };
+  }
+
+  // 6. Pune
+  if (text.includes("pune") || text.includes("sibm") || text.includes("scmhrd") || text.includes("pumba") || text.includes("pibm") || text.includes("iiebm") || text.includes("mit wpu") || text.includes("dy patil")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-MH",
+      placename: "Pune, Maharashtra, India",
+      position: "18.5204;73.8567",
+      keywords: ["Pune Colleges", "Top MBA Colleges Pune", "Pune Admissions 2027", "Direct Admission Pune", "SIBM & SCMHRD Cutoff"]
+    };
+  }
+
+  // 7. Bangalore / Bengaluru
+  if (text.includes("bangalore") || text.includes("bengaluru") || text.includes("iim bangalore") || text.includes("christ university") || text.includes("jain university") || text.includes("jagsom") || text.includes("xime") || text.includes("alliance university")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-KA",
+      placename: "Bangalore, Karnataka, India",
+      position: "12.9716;77.5946",
+      keywords: ["Bangalore Colleges", "Top MBA Colleges Bangalore", "Bangalore Admissions 2027", "Direct Admission Bangalore", "Christ University Admission"]
+    };
+  }
+
+  // 8. Hyderabad
+  if (text.includes("hyderabad") || text.includes("isb") || text.includes("woxsen") || text.includes("ipe hyderabad") || text.includes("imt hyderabad") || text.includes("vishwa vishwani")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-TG",
+      placename: "Hyderabad, Telangana, India",
+      position: "17.3850;78.4867",
+      keywords: ["Hyderabad Colleges", "Top MBA Colleges Hyderabad", "Hyderabad Admissions 2027", "Woxsen University Admission"]
+    };
+  }
+
+  // 9. Chennai / Coimbatore / Tamil Nadu
+  if (text.includes("chennai") || text.includes("great lakes chennai") || text.includes("loyola chennai") || text.includes("srm") || text.includes("vit chennai") || text.includes("coimbatore") || text.includes("amrita")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-TN",
+      placename: "Chennai, Tamil Nadu, India",
+      position: "13.0827;80.2707",
+      keywords: ["Chennai Colleges", "Tamil Nadu Admissions 2027", "Great Lakes Chennai Admission", "Top B-Schools South India"]
+    };
+  }
+
+  // 10. Kolkata / West Bengal
+  if (text.includes("kolkata") || text.includes("iim calcutta") || text.includes("imi kolkata") || text.includes("globsyn") || text.includes("biibs") || text.includes("heritage")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-WB",
+      placename: "Kolkata, West Bengal, India",
+      position: "22.5726;88.3639",
+      keywords: ["Kolkata Colleges", "Top MBA Colleges Kolkata", "Kolkata Admissions 2027", "West Bengal Management Colleges"]
+    };
+  }
+
+  // 11. Jaipur / Rajasthan
+  if (text.includes("jaipur") || text.includes("jaipuria jaipur") || text.includes("tapmi jaipur") || text.includes("manipal jaipur") || text.includes("fms irm")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-RJ",
+      placename: "Jaipur, Rajasthan, India",
+      position: "26.9124;75.7873",
+      keywords: ["Jaipur Colleges", "Top MBA Colleges Jaipur", "Rajasthan Admissions 2027", "Direct Admission Jaipur"]
+    };
+  }
+
+  // 12. Ahmedabad / Gujarat
+  if (text.includes("ahmedabad") || text.includes("iim ahmedabad") || text.includes("nirma") || text.includes("irma") || text.includes("muba")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-GJ",
+      placename: "Ahmedabad, Gujarat, India",
+      position: "23.0225;72.5714",
+      keywords: ["Ahmedabad Colleges", "Gujarat Admissions 2027", "IIM Ahmedabad & Nirma Admission"]
+    };
+  }
+
+  // 13. Chandigarh / Punjab
+  if (text.includes("chandigarh") || text.includes("chitkara") || text.includes("lpu") || text.includes("thapar") || text.includes("mohali")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-PB",
+      placename: "Chandigarh, Punjab, India",
+      position: "30.7333;76.7794",
+      keywords: ["Chandigarh Colleges", "Punjab Admissions 2027", "LPU & Chitkara Admission"]
+    };
+  }
+
+  // 14. Lucknow / Kanpur / Dehradun
+  if (text.includes("lucknow") || text.includes("iim lucknow") || text.includes("jaipuria lucknow") || text.includes("dehradun") || text.includes("upes")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-UP",
+      placename: "Lucknow, Uttar Pradesh, India",
+      position: "26.8467;80.9462",
+      keywords: ["Lucknow Colleges", "UP Admissions 2027", "UPES Dehradun Admission"]
+    };
+  }
+
+  // Default Pan-India
+  return {
+    hasGeo: false,
+    regionCode: "IN-DL",
+    placename: "Pan India, Delhi NCR, India",
+    position: "28.6139;77.2090",
+    keywords: ["MBA Admissions 2027", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"]
+  };
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -94,21 +250,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
-  const localKeywords = geoResult.isDelhiNcr && geoResult.specificLocation
-    ? [
-        `${geoResult.specificLocation} Colleges`,
-        `Best Colleges in ${geoResult.specificLocation}`,
-        `${geoResult.specificLocation} Admissions 2027`,
-        `Direct Admission in ${geoResult.specificLocation}`,
-        `Top Colleges in ${geoResult.specificLocation}`,
-        "Delhi NCR College Counselling"
-      ]
-    : [];
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...cleanedKeywords, ...localKeywords, "MBA Admissions 2027", "Direct MBA Admission", "Placement Report 2025", "Career Counselling India", "Mohit Jain"],
+    keywords: [...cleanedKeywords, ...geoResult.keywords, "MBA Admissions 2027", "Career Counselling India", "Mohit Jain"],
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -142,6 +288,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       "citation_publication_date": postData.date,
       "citation_online_date": postData.date,
       "citation_publisher": "CareerWithMohit",
+      "geo.region": geoResult.regionCode,
+      "geo.placename": geoResult.placename,
+      "geo.position": geoResult.position,
+      "ICBM": geoResult.position.replace(';', ', '),
+      "coverage": geoResult.placename,
       "ai-content-declaration": "human-authored-expert-guidance"
     }
   };
@@ -203,10 +354,16 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }
   };
 
-  if (geoResult.isDelhiNcr) {
+  if (geoResult.hasGeo || geoResult.placename) {
+    const coords = (geoResult.position || "28.6139;77.2090").split(";");
     articleData.contentLocation = {
       "@type": "Place",
-      "name": geoResult.specificLocation || "Delhi NCR, India"
+      "name": geoResult.placename,
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": coords[0],
+        "longitude": coords[1]
+      }
     };
   }
 

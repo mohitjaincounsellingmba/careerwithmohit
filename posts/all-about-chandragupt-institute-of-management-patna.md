@@ -1,24 +1,43 @@
 ---
-title: "Chandragupt Institute of Management Patna PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Chandragupt Institute of Management Patna? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  Chandragupt Institute of Management Patna PGDM Admission Review 2026:
+  Placements, Fees & Cutoff
+date: '2026-06-25'
+category: Exams
+description: >-
+  Looking for admission to Chandragupt Institute of Management Patna? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "chandragupt institute of management patna review 2026"
-  - "chandragupt institute of management patna pgdm placements"
-  - "chandragupt institute of management patna admission cutoff"
-  - "chandragupt institute of management patna fees"
+  - chandragupt institute of management patna review 2026
+  - chandragupt institute of management patna pgdm placements
+  - chandragupt institute of management patna admission cutoff
+  - chandragupt institute of management patna fees
 faqs:
-  - question: "Is Chandragupt Institute of Management Patna a good option for PGDM/MBA?"
+  - question: Is Chandragupt Institute of Management Patna a good option for PGDM/MBA?
     answer: >-
-      Yes, Chandragupt Institute of Management Patna is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Chandragupt Institute of Management Patna?"
+      Yes, Chandragupt Institute of Management Patna is a highly respected
+      institution known for its solid academic foundation, industry-aligned
+      curriculum, and good placement track record.
+  - question: >-
+      What is the average package offered at Chandragupt Institute of Management
+      Patna?
     answer: >-
-      The average placement package at Chandragupt Institute of Management Patna is approximately ₹7.50 LPA, with the highest package reaching up to ₹24.80 LPA.
-  - question: "What entrance exams are accepted by Chandragupt Institute of Management Patna?"
+      The average placement package at Chandragupt Institute of Management Patna
+      is approximately ₹7.50 LPA, with the highest package reaching up to ₹24.80
+      LPA.
+  - question: >-
+      What entrance exams are accepted by Chandragupt Institute of Management
+      Patna?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.

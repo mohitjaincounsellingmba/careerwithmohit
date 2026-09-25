@@ -53,9 +53,15 @@ faqs:
       Institute award, (2) 100% placement legacy, (3) dual specialization
       flexibility, (4) South Delhi location, and (5) 30+ years of alumni
       network.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹13.75 Lakhs | Audited placement: average package of ₹10 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
 

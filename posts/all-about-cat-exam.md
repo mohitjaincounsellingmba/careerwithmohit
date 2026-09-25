@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT 2026 exam date?
     answer: >-
@@ -39,9 +43,15 @@ faqs:
       high-school mathematics.
   - question: Can I get a top college with 90 percentile in CAT?
     answer: "Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges/fore-school-delhi)** often accept students in the 85-92 percentile range.\n\n[\U0001F449 Need help preparing a winning strategy for CAT 2026? Speak to our MBA admission experts today!](/inquiry)"
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The Common Admission Test (CAT) is undeniably the biggest and most competitive MBA entrance exam in India. It is the absolute primary gateway to the prestigious Indian Institutes of Management (IIMs) and other top-tier business schools like [FMS Delhi](/colleges/fms-delhi) and SPJIMR. 
 

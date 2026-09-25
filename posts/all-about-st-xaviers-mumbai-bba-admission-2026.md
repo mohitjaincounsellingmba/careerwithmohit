@@ -1,7 +1,7 @@
 ---
 title: 'St. Xavier''s College Mumbai BBA/BMS Admission 2026: Entrance Exam Guide'
 date: '2026-05-15'
-category: BBA Admissions
+category: Online Degrees
 description: >-
   Everything about BMS (BBA) at St. Xavier's College Mumbai for 2026. Learn
   about the Entrance Exam, latest fees, placement packages, and campus culture.
@@ -31,6 +31,11 @@ faqs:
 location: Mumbai
 state: Maharashtra
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
+
 
 St. Xavier's College, Mumbai, is an iconic institution known for its Gothic architecture, liberal atmosphere, and high academic standards. The Bachelor of Management Studies (BMS) program here—equivalent to BBA—is one of the most sought-after in the country for 2026.
 

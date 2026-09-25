@@ -41,8 +41,9 @@ faqs:
       Bennett has a very strong corporate relations team. For the 2025 batch,
       the highest package was **₹33 LPA**, with several students joining Big 4
       and top FMCG firms.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Online Degrees
 ---
 
 ### **College Review: [Bennett University](/colleges/bennett-greater-noida)**

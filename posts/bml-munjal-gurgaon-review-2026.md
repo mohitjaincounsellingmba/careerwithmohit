@@ -3,11 +3,11 @@ title: >-
   BML Munjal University (BMU) Review 2026: Fees, Placements, Cutoffs & ROI
   Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  and priva for 2026-2027 admissions & career guidance.
 keywords:
   - BML Munjal University (BMU) review 2026
   - BML Munjal University (BMU) mba fees
@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at BML Munjal
       University (BMU) is approximately ₹15.10 Lakhs (Total).
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

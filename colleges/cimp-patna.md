@@ -1,7 +1,7 @@
 ---
 name: Chandragupt Institute of Management Patna (CIMP)
 logo: /logo.webp
-location: 'Mithapur, Patna, Bihar'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -51,6 +51,13 @@ keywords:
   - Chandragupt Institute of Management Patna (CIMP) PGDM placement
   - Chandragupt Institute of Management Patna (CIMP) MBA admission 2027
   - 'MBA colleges Mithapur, Patna, Bihar'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Chandragupt Institute of Management Patna (CIMP)

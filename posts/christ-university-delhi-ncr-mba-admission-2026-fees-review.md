@@ -37,8 +37,9 @@ faqs:
       industrial centers.
   - question: What is the dress code?
     answer: "Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n\n**Confused Between Delhi NCR and Bangalore?**\nBangalore is the \"Silicon Valley,\" but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Online Degrees
 ---
 
 The **Delhi NCR Campus** of Christ (Deemed to be University) in Ghaziabad is a strategic expansion of Christ's educational excellence into North India. Located along the busy NCR industrial and corporate belt, this campus offers the rigorous academic training of Christ with a distinct location advantage for students aiming at placements in the nationwide corporate headquarters in Delhi and Gurgaon.

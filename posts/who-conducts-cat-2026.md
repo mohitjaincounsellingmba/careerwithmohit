@@ -1,11 +1,11 @@
 ---
 title: Who Conducts CAT 2026? Organizing IIM & Timeline Details
 date: '2026-06-28'
-category: MBA Admissions
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  and priva for 2026-2027 admissions & career guidance.
 keywords:
   - who conduct cat 2026
   - conducting body of cat 2026
@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which IIM is conducting CAT 2026?
     answer: >-
@@ -39,9 +43,14 @@ faqs:
     answer: >-
       IIM Indore last conducted the CAT exam in **2020**. Prior to that, they
       also organized CAT in **2013** and **2014**.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The Common Admission Test (CAT) is India's most prestigious and highly competitive MBA entrance exam. For candidates aiming to secure a seat in one of the 21 Indian Institutes of Management (IIMs) or other top B-schools like [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon), knowing who organizes the exam is one of the first steps of the journey.
 

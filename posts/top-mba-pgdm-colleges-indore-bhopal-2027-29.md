@@ -1,8 +1,13 @@
 ---
-title: "Top MBA/PGDM Colleges in Indore & Bhopal (2027-29): CMAT/MAT Cutoffs & Seat Booking"
+title: >-
+  Top MBA/PGDM Colleges in Indore & Bhopal (2027-29): CMAT/MAT Cutoffs & Seat
+  Booking
 date: '2026-08-22'
-category: 'MBA & PGDM'
-description: "Guide to top MBA and PGDM colleges in Indore and Bhopal for 2027-29. Check MP DTE counseling, CMAT/MAT cutoffs, fee matrices, and direct seat booking options."
+category: Exams
+description: >-
+  Guide to top MBA and PGDM colleges in Indore and Bhopal for 2027-29. Check MP
+  DTE counseling, CMAT/MAT cutoffs, fee matrices, and direct seat booking
+  options.
 keywords:
   - Top MBA Colleges in Indore 2027-29
   - Best PGDM Colleges in Bhopal Fees
@@ -12,12 +17,19 @@ keywords:
   - LNCT Bhopal MBA Fees
   - MP DTE MBA Counseling 2027 CMAT
 faqs:
-  - question: "Which exam is primary for MBA admissions in Madhya Pradesh?"
-    answer: "CMAT (conducted by NTA) is the primary entrance exam utilized by MP DTE for state university MBA seats. However, top autonomous PGDM colleges also accept MAT, CAT, XAT, and ATMA."
-  - question: "What is the average package at Jaipuria Indore?"
-    answer: "Jaipuria Institute of Management Indore reports an average placement package of ₹9.50 LPA with highest offers exceeding ₹22 LPA."
-  - question: "Can candidates outside MP apply for Indore B-Schools?"
-    answer: "Yes, candidates from all Indian states can apply for AICTE-approved PGDM programs in Indore and Bhopal under the All India Seats Quota."
+  - question: Which exam is primary for MBA admissions in Madhya Pradesh?
+    answer: >-
+      CMAT (conducted by NTA) is the primary entrance exam utilized by MP DTE
+      for state university MBA seats. However, top autonomous PGDM colleges also
+      accept MAT, CAT, XAT, and ATMA.
+  - question: What is the average package at Jaipuria Indore?
+    answer: >-
+      Jaipuria Institute of Management Indore reports an average placement
+      package of ₹9.50 LPA with highest offers exceeding ₹22 LPA.
+  - question: Can candidates outside MP apply for Indore B-Schools?
+    answer: >-
+      Yes, candidates from all Indian states can apply for AICTE-approved PGDM
+      programs in Indore and Bhopal under the All India Seats Quota.
 ---
 
 # Top MBA/PGDM Colleges in Indore & Bhopal (2027-29): CMAT/MAT Cutoffs & Seat Booking

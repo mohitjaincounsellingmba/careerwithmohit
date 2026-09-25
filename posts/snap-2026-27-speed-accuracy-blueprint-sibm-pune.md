@@ -41,7 +41,13 @@ faqs:
       penalty of -0.25 marks (25% negative marking).
 location: Pune
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Symbiosis National Aptitude Test (SNAP) 2026-27** is arguably the fastest MBA entrance examination in India. With **60 questions to be solved in just 60 minutes**, SNAP is not an exam of complex problem-solving; it is a **high-speed accuracy sprint**.
 
@@ -87,10 +93,10 @@ Symbiosis institutes shortlist candidates based purely on overall raw score out 
 
 | Institute Name | Program Offered | Expected Percentile Cutoff | Target Raw Score (Out of 60) |
 | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/posts/all-about-sibm-pune)** | **MBA (Flagship) / MBA Innovation** | **98.5+ Percentile** | **44 – 46+ Marks** |
-| **[SCMHRD Pune](/posts/all-about-scmhrd-pune)** | **MBA Core / MBA HR** | **97.0+ Percentile** | **41 – 43+ Marks** |
+| **[SIBM Pune](/blog/all-about-sibm-pune)** | **MBA (Flagship) / MBA Innovation** | **98.5+ Percentile** | **44 – 46+ Marks** |
+| **[SCMHRD Pune](/blog/all-about-scmhrd-pune)** | **MBA Core / MBA HR** | **97.0+ Percentile** | **41 – 43+ Marks** |
 | **[SCMHRD Pune](/colleges/scmhrd-pune)** | **MBA Business Analytics** | **95.0+ Percentile** | **38 – 40+ Marks** |
-| **[SIBM Bangalore](/posts/all-about-sibm-bangalore)** | **MBA Core** | **90.0+ Percentile** | **36 – 38+ Marks** |
+| **[SIBM Bangalore](/blog/all-about-sibm-bangalore)** | **MBA Core** | **90.0+ Percentile** | **36 – 38+ Marks** |
 | **SIIB Pune** | **MBA International Business** | **88.0+ Percentile** | **34 – 36+ Marks** |
 | **SIOM Nashik** | **MBA Operations Management** | **85.0+ Percentile** | **32 – 34+ Marks** |
 
@@ -215,7 +221,7 @@ Each correct answer awards +1 mark, while each wrong answer incurs a penalty of 
 
 Cracking SNAP is about ruthless speed and elimination of time-wasters. Focus on attempting **48 to 52 questions with 90%+ accuracy** to comfortably clear the cutoff for SIBM Pune and SCMHRD.
 
-For complete coverage of top entrance exams and Symbiosis institutes, check out our detailed guides on [All About SNAP Exam](/posts/all-about-snap-exam), [How to Crack SNAP Exam](/posts/how-to-crack-snap-exam-2026), and [All About Symbiosis Institutes](/posts/all-about-symbiosis-mba-institutes).
+For complete coverage of top entrance exams and Symbiosis institutes, check out our detailed guides on [All About SNAP Exam](/blog/all-about-snap-exam), [How to Crack SNAP Exam](/blog/how-to-crack-snap-exam-2026), and [All About Symbiosis Institutes](/blog/all-about-symbiosis-mba-institutes).
 
 ---
 

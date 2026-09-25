@@ -34,7 +34,13 @@ faqs:
       drops.
 location: Pune
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 The Symbiosis National Aptitude Test (SNAP) is one of the most popular speed-based MBA entrance exams in India. Unlike CAT or XAT, which are 2 to 3.5 hours long, SNAP is a sprint: **60 questions in 60 minutes**. 
 
 Because there are **no sectional time limits**, candidates have complete freedom to move between sections. This makes your **attempt sequence** the most critical factor in determining your final score. A poor sequence can leave you with no time to look at easy questions in the final minutes.

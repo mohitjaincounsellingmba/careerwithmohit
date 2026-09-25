@@ -33,7 +33,13 @@ faqs:
       frequently recruiting through pool drives.
 location: Dehradun
 state: Uttarakhand
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **Doon Institute of Engineering and Technology (DIET)**, located in the scenic surroundings of Dehradun (Rishikesh), is a prominent constituent of the Doon Group of Institutions. Affiliated with Uttarakhand Technical University (UTU) and approved by AICTE, DIET is known for providing quality technical education at an affordable price point compared to premium private universities in the region.
 

@@ -17,6 +17,12 @@ keywords:
   - upes dehradun mba placement
   - graphic era mba admission 2027
   - dehradun mba direct admission
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the best MBA college in Dehradun for ROI and placements?
     answer: >-
@@ -34,6 +40,7 @@ faqs:
       corporate firms.
 location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 # Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
 
@@ -62,13 +69,13 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 ### 1. Doon Business School (DBS), Selaqui Dehradun
 * **Accreditation:** AICTE approved PGDM and UGC recognized MBA programs.
-* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/posts/all-about-doon-business-school).
+* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/blog/all-about-doon-business-school).
 
 ### 2. UPES School of Business, Dehradun
 * **Highlights:** Renowned for specialized MBAs in Oil & Gas, Energy Trading, Aviation Management, Logistics & Supply Chain, and Digital Business. Top recruiters include Schlumberger, Shell, L&T, and Reliance.
 
 ### 3. Graphic Era University (GEU), Dehradun
-* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/posts/all-about-graphic-era-dehradun).
+* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/blog/all-about-graphic-era-dehradun).
 
 ---
 
@@ -82,9 +89,9 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 ---
 
 ## Related Reads
-- [All About Doon Business School](/posts/all-about-doon-business-school)
-- [All About CAT Exam](/posts/all-about-cat-exam)
-- [All About XAT Exam](/posts/all-about-xat-exam)
+- [All About Doon Business School](/blog/all-about-doon-business-school)
+- [All About CAT Exam](/blog/all-about-cat-exam)
+- [All About XAT Exam](/blog/all-about-xat-exam)
 
 ---
 

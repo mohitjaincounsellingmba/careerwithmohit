@@ -3,7 +3,7 @@ title: >-
   Delhi School of Business (VIPS-TC) Review 2026: Fees, Placements, Cutoffs &
   ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of Delhi School of Business (VIPS-TC) covering
   MBA/PGDM fee structures, highest and average placements (₹10.5 LPA), entrance
@@ -41,7 +41,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Delhi School of
       Business (VIPS-TC) is approximately ₹11.50 Lakhs (Total).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

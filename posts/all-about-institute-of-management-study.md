@@ -3,7 +3,7 @@ title: >-
   Institute of Management Study PGDM Admission Review 2026: Placements, Fees &
   Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to Institute of Management Study? Read our comprehensive
   PGDM review for 2026 covering total fees, average and highest placement
@@ -36,6 +36,11 @@ faqs:
 location: Kolkata
 state: West Bengal
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: [Institute of Management Study](/colleges/institute-of-management-study)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.

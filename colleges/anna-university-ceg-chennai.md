@@ -1,7 +1,7 @@
 ---
 name: 'College of Engineering, Guindy (CEG), Anna University'
 logo: ''
-location: 'Chennai, Tamil Nadu'
+location: Chennai
 state: Tamil Nadu
 category: Engineering
 type: State University Engineering Campus
@@ -57,6 +57,12 @@ keywords:
   - 'College of Engineering, Guindy (CEG), Anna University CSE placement'
   - 'College of Engineering, Guindy (CEG), Anna University B.Tech admission 2027'
   - 'engineering colleges Chennai, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 ---
 
 ### About College of Engineering, Guindy (CEG), Anna University

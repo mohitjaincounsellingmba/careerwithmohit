@@ -37,9 +37,15 @@ faqs:
       percentile score.
   - question: Which is better for Marketing?
     answer: "IMT Ghaziabad is often called the \"Marketing Mecca\" of North India. It is significantly better for FMCG and heavy-duty marketing roles.\n\n[\U0001F449 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison)\n\n**Not sure if your score is enough?**\nAt **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagpur's ROI based on your specific profile.\n\n[\U0001F449 Start Your MBA Admission Journey Now!](/inquiry)"
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Institute of Management Technology (IMT)** is one of India’s most recognized management brands. However, there is often a huge gap between its flagship campus in **Ghaziabad** and its second-largest campus in **Nagpur**. For a 2026 aspirant, understanding this gap is the difference between a high-stress topper environment and a balanced, high-ROI career path.
 

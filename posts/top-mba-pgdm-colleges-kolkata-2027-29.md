@@ -3,7 +3,7 @@ title: >-
   Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements &
   Admission Process
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Discover top MBA and PGDM colleges in Kolkata for 2027-29. Compare fee
   structures, average packages, MAT/CMAT cutoffs, and low-fee high-ROI options

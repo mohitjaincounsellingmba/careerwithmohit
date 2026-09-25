@@ -28,7 +28,13 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: Online Degrees
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
+
 [Central University of South Bihar](/colleges/cusb-gaya) (CUSB), situated in Gaya, has rapidly emerged as a center of academic excellence. With a strong focus on integrated programs and research, CUSB offers modern infrastructure and quality education.
 
 ## 📊 CUSB 2026 Overview: Fees, Placements & Cutoffs

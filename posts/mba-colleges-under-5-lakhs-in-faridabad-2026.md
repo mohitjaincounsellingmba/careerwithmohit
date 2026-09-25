@@ -1,11 +1,11 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Faridabad 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri
+  DU, and pri for 2026-2027 admissions & career guidance.
 keywords:
   - MBA Colleges under 5 Lakhs in Faridabad
   - affordable MBA in Faridabad
@@ -42,7 +42,7 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
-location: Faridabad
+location: Delhi NCR
 state: Delhi NCR
 ---
 

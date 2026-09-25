@@ -1,7 +1,7 @@
 ---
 name: SVNIT Surat (Sardar Vallabhbhai National Institute of Technology)
 logo: ''
-location: 'Surat, Gujarat'
+location: Ahmedabad
 state: Gujarat
 category: Engineering
 type: Institute of National Importance (NIT)
@@ -82,6 +82,12 @@ keywords:
     SVNIT Surat (Sardar Vallabhbhai National Institute of Technology) B.Tech
     admission 2027
   - 'engineering colleges Surat, Gujarat'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 ---
 
 ### About SVNIT Surat (Sardar Vallabhbhai National Institute of Technology)

@@ -1,11 +1,20 @@
 ---
-title: 'Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) MBA /
+  PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications &
+  Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) (Lexicon MILE Pune). Verified fee structure (₹10.80 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹6.50 LPA, Highest ₹13.30 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Lexicon Management Institute of
+  Leadership & Excellence (Lexicon MILE) (Lexicon MILE Pune). Verified fee
+  structure (₹10.80 Lakhs (Total)), PGDM approvals, audited placements (Avg
+  ₹6.50 LPA, Highest ₹13.30 LPA), PPO stats, certifications, awards, alumni
+  network, faculty profiles, and Why Join review.
 keywords:
-  - Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) admission 2027-29
+  - >-
+    Lexicon Management Institute of Leadership & Excellence (Lexicon MILE)
+    admission 2027-29
   - Lexicon MILE Pune fees 2027
   - Lexicon MILE Pune placements 2026
   - Lexicon MILE Pune PGDM MBA fee structure 2027-29
@@ -17,27 +26,55 @@ keywords:
   - best MBA PGDM colleges in Pune
   - direct admission in Lexicon MILE Pune
   - MBA Career Counselling Mohit Jain
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at Lexicon MILE Pune?
     answer: >-
-      The total course fee for the 2-year PGDM program at Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) for the 2027–29 batch is ₹10.80 Lakhs (Total) (₹5.40 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at Lexicon Management
+      Institute of Leadership & Excellence (Lexicon MILE) for the 2027–29 batch
+      is ₹10.80 Lakhs (Total) (₹5.40 Lakhs per Year). Various merit and category
+      scholarships are available for deserving candidates.
   - question: Which statutory approvals and accreditations does Lexicon MILE Pune hold?
     answer: >-
-      Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) holds AICTE Approved, Ministry of Education, Govt. of India, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Lexicon MILE Pune?
+      Lexicon Management Institute of Leadership & Excellence (Lexicon MILE)
+      holds AICTE Approved, Ministry of Education, Govt. of India, ensuring
+      valid degree equivalence, eligibility for government jobs, and global
+      corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Lexicon
+      MILE Pune?
     answer: >-
-      For recent placement drives, Lexicon MILE Pune recorded an average salary package of ₹6.50 LPA (Top 25% averaging ₹9.20 LPA) and a peak highest CTC of ₹13.30 LPA, with leading recruiters including Amazon, Deloitte, eClerx, TIAA.
-  - question: Does Lexicon MILE Pune offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Lexicon MILE Pune recorded an average salary
+      package of ₹6.50 LPA (Top 25% averaging ₹9.20 LPA) and a peak highest CTC
+      of ₹13.30 LPA, with leading recruiters including Amazon, Deloitte, eClerx,
+      TIAA.
+  - question: >-
+      Does Lexicon MILE Pune offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
+    answer: 'Yes, 20% PPO conversion through active live projects and internships.'
+  - question: >-
+      What value-added certifications are provided to students at Lexicon MILE
+      Pune?
     answer: >-
-      Yes, 20% PPO conversion through active live projects and internships.
-  - question: What value-added certifications are provided to students at Lexicon MILE Pune?
+      Students receive embedded industry certifications including 15+ Corporate
+      Certifications (Tableau, MS Office Specialist), Neuro-Linguistic
+      Programming (NLP) Leadership, Digital Strategy & Social Media, Supply
+      Chain Logistics.
+  - question: >-
+      How can students apply for admission or get counseling for Lexicon MILE
+      Pune for 2027–29?
     answer: >-
-      Students receive embedded industry certifications including 15+ Corporate Certifications (Tableau, MS Office Specialist), Neuro-Linguistic Programming (NLP) Leadership, Digital Strategy & Social Media, Supply Chain Logistics.
-  - question: How can students apply for admission or get counseling for Lexicon MILE Pune for 2027–29?
-    answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Pune
-state: Pan India
+state: Maharashtra
 ---
 
 # [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

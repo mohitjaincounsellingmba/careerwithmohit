@@ -1,7 +1,7 @@
 ---
 name: PSG College of Technology (PSG Tech)
 logo: ''
-location: 'Coimbatore, Tamil Nadu'
+location: Chennai
 state: Tamil Nadu
 category: Engineering
 type: Govt. Aided Autonomous College
@@ -54,6 +54,12 @@ keywords:
   - PSG College of Technology (PSG Tech) CSE placement
   - PSG College of Technology (PSG Tech) B.Tech admission 2027
   - 'engineering colleges Coimbatore, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 ---
 
 ### About PSG College of Technology (PSG Tech)

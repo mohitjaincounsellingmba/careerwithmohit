@@ -1,9 +1,15 @@
 ---
-title: 'JAGSoM (Jagdish Sheth School of Management) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  JAGSoM (Jagdish Sheth School of Management) MBA / PGDM Admission 2027-29:
+  Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for JAGSoM (Jagdish Sheth School of Management) (JAGSoM Mumbai). Verified fee structure (₹11.50 Lakhs (Total)), MBA approvals, audited placements (Avg ₹11.00 LPA, Highest ₹25.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for JAGSoM (Jagdish Sheth School of
+  Management) (JAGSoM Mumbai). Verified fee structure (₹11.50 Lakhs (Total)),
+  MBA approvals, audited placements (Avg ₹11.00 LPA, Highest ₹25.00 LPA), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - JAGSoM (Jagdish Sheth School of Management) admission 2027-29
   - JAGSoM Mumbai fees 2027
@@ -17,27 +23,53 @@ keywords:
   - best MBA PGDM colleges in Mumbai
   - direct admission in JAGSoM Mumbai
   - MBA Career Counselling Mohit Jain
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at JAGSoM Mumbai?
     answer: >-
-      The total course fee for the 2-year MBA program at JAGSoM (Jagdish Sheth School of Management) for the 2027–29 batch is ₹11.50 Lakhs (Total) (₹5.75 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at JAGSoM (Jagdish Sheth
+      School of Management) for the 2027–29 batch is ₹11.50 Lakhs (Total) (₹5.75
+      Lakhs per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does JAGSoM Mumbai hold?
     answer: >-
-      JAGSoM (Jagdish Sheth School of Management) holds AICTE Approved · AACSB Accredited Brand Flagship Extension, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at JAGSoM Mumbai?
+      JAGSoM (Jagdish Sheth School of Management) holds AICTE Approved · AACSB
+      Accredited Brand Flagship Extension, ensuring valid degree equivalence,
+      eligibility for government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at JAGSoM
+      Mumbai?
     answer: >-
-      For recent placement drives, JAGSoM Mumbai recorded an average salary package of ₹11.00 LPA (Top 25% averaging ₹14.50 LPA) and a peak highest CTC of ₹25.00 LPA, with leading recruiters including KPMG, EY, PwC, Deloitte.
-  - question: Does JAGSoM Mumbai offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, JAGSoM Mumbai recorded an average salary
+      package of ₹11.00 LPA (Top 25% averaging ₹14.50 LPA) and a peak highest
+      CTC of ₹25.00 LPA, with leading recruiters including KPMG, EY, PwC,
+      Deloitte.
+  - question: >-
+      Does JAGSoM Mumbai offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 30% of the batch secures PPOs across consulting, finance, and marketing MNCs.
+      Yes, 30% of the batch secures PPOs across consulting, finance, and
+      marketing MNCs.
   - question: What value-added certifications are provided to students at JAGSoM Mumbai?
     answer: >-
-      Students receive embedded industry certifications including Domain-Led Specialist Certifications in MarTech & FinTech, Digital Supply Chain & Logistics, Bloomberg Market Concepts, Design Thinking.
-  - question: How can students apply for admission or get counseling for JAGSoM Mumbai for 2027–29?
+      Students receive embedded industry certifications including Domain-Led
+      Specialist Certifications in MarTech & FinTech, Digital Supply Chain &
+      Logistics, Bloomberg Market Concepts, Design Thinking.
+  - question: >-
+      How can students apply for admission or get counseling for JAGSoM Mumbai
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Mumbai
-state: Pan India
+state: Maharashtra
 ---
 
 # JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

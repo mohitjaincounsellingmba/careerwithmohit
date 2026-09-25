@@ -1,9 +1,12 @@
 ---
 title: >-
-  TAPMI Manipal MBA Placement Report 2025: Average CTC ₹13.90 - 14.73 LPA, Highest ₹32.77 LPA & 100% Placements
+  TAPMI Manipal MBA Placement Report 2025: Average CTC ₹13.90 - 14.73 LPA,
+  Highest ₹32.77 LPA & 100% Placements
 date: '2026-08-15'
 description: >-
-  Detailed TAPMI Manipal MBA Placement Report 2025. Explore average package across MBA Core, BKFS, Marketing, HR, IB programs, highest salary of ₹32.77 LPA & recruiters.
+  Detailed TAPMI Manipal MBA Placement Report 2025. Explore average package
+  across MBA Core, BKFS, Marketing, HR, IB programs, highest salary of ₹32.77
+  LPA & recruiters.
 keywords:
   - tapmi manipal mba placement report 2025
   - tapmi average package 2025
@@ -14,14 +17,26 @@ keywords:
 faqs:
   - question: What was the average and highest package at TAPMI Manipal in 2025?
     answer: >-
-      In the 2025 placement season, T.A. Pai Management Institute (TAPMI), Manipal achieved 100% placements with an overall average package of INR 13.90 to 14.00 LPA (with MBA-BKFS averaging INR 14.73 LPA) and a highest CTC of INR 32.77 LPA.
+      In the 2025 placement season, T.A. Pai Management Institute (TAPMI),
+      Manipal achieved 100% placements with an overall average package of INR
+      13.90 to 14.00 LPA (with MBA-BKFS averaging INR 14.73 LPA) and a highest
+      CTC of INR 32.77 LPA.
   - question: Which specialization had the highest average package at TAPMI?
     answer: >-
-      The MBA in Banking and Financial Services (MBA-BKFS) program recorded the highest specialization average at INR 14.73 LPA, supported by heavy recruitment from global banks and rating agencies.
+      The MBA in Banking and Financial Services (MBA-BKFS) program recorded the
+      highest specialization average at INR 14.73 LPA, supported by heavy
+      recruitment from global banks and rating agencies.
   - question: What exams are accepted for admission to TAPMI Manipal?
     answer: >-
-      TAPMI accepts CAT, XAT, GMAT, and NMAT scores for its various MBA specialist programs.
+      TAPMI accepts CAT, XAT, GMAT, and NMAT scores for its various MBA
+      specialist programs.
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹32.77 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **T.A. Pai Management Institute (TAPMI), Manipal**—a constituent unit of MAHE (Manipal Academy of Higher Education)—is internationally accredited by AACSB and AMBA, standing among the top private business schools in India.
 

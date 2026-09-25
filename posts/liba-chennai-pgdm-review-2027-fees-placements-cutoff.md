@@ -1,9 +1,16 @@
 ---
-title: 'Loyola Institute of Business Administration (LIBA) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Loyola Institute of Business Administration (LIBA) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth Loyola Institute of Business Administration (LIBA) (Loyola College Campus, Nungambakkam) review for 2027 admissions. Explore verified fee structure (₹17.50 – ₹18.50 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹11.20 – ₹11.80 LPA, highest ₹20.50 – ₹21.00 LPA), cutoffs (CAT: 75–80 Percentile; XAT: 75–80 Percentile (Only CAT & XAT accepted)), and student verdict.
+  In-depth Loyola Institute of Business Administration (LIBA) (Loyola College
+  Campus, Nungambakkam) review for 2027 admissions. Explore verified fee
+  structure (₹17.50 – ₹18.50 Lakhs (2 Years Full-Time PGDM)), latest placements
+  (avg ₹11.20 – ₹11.80 LPA, highest ₹20.50 – ₹21.00 LPA), cutoffs (CAT: 75–80
+  Percentile; XAT: 75–80 Percentile (Only CAT & XAT accepted)), and student
+  verdict.
 keywords:
   - loyola institute of business administration (liba) review 2027
   - loyola institute of business administration (liba) fees
@@ -13,23 +20,35 @@ keywords:
   - loyola institute of business administration (liba) cutoff cat xat gmat
   - loyola institute of business administration (liba) admission process 2027
   - loyola institute of business administration (liba) ranking
-  - Chennai, Tamil Nadu MBA colleges
+  - 'Chennai, Tamil Nadu MBA colleges'
   - best MBA colleges in Tamil Nadu
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: Does LIBA Chennai accept CMAT or MAT scores?
     answer: >-
-      No. LIBA accepts only CAT and XAT scores for its full-time PGDM admissions. CMAT, MAT, ATMA, and state CET scores are not accepted.
+      No. LIBA accepts only CAT and XAT scores for its full-time PGDM
+      admissions. CMAT, MAT, ATMA, and state CET scores are not accepted.
   - question: What is the cutoff for LIBA Chennai?
     answer: >-
-      The CAT and XAT cutoff for LIBA Chennai generally stands between 75 and 80 percentile, followed by Personal Interview and Written Ability Test (WAT).
+      The CAT and XAT cutoff for LIBA Chennai generally stands between 75 and 80
+      percentile, followed by Personal Interview and Written Ability Test (WAT).
   - question: What is the total fee for PGDM at LIBA Chennai for 2027–2029?
     answer: >-
-      The total 2-year fee for the PGDM program is approximately ₹17.50 to ₹18.50 Lakhs, covering tuition, academic material, and basic campus amenities.
+      The total 2-year fee for the PGDM program is approximately ₹17.50 to
+      ₹18.50 Lakhs, covering tuition, academic material, and basic campus
+      amenities.
   - question: What is the average package at LIBA Chennai?
     answer: >-
-      The average CTC for the recent graduating batch at LIBA is ₹11.20 to ₹11.80 LPA, with top financial and tech firms offering packages up to ₹20.50 to ₹21.00 LPA.
+      The average CTC for the recent graduating batch at LIBA is ₹11.20 to
+      ₹11.80 LPA, with top financial and tech firms offering packages up to
+      ₹20.50 to ₹21.00 LPA.
 location: Chennai
 state: Tamil Nadu
 ---

@@ -1,11 +1,11 @@
 ---
 title: 'Who Will Conduct CAT 2026 Exam? Convening IIM, Rotation History & Exam Dates'
 date: '2026-07-27'
-category: MBA
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  and priva for 2026-2027 admissions & career guidance.
 keywords:
   - who will conduct cat 2026 exam
   - which iim will conduct cat 2026
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Who is conducting the CAT 2026 exam?
     answer: >-
@@ -45,9 +49,14 @@ faqs:
       The official website for CAT 2026 registration, admit card download,
       notifications, and scorecard release is
       **[iimcat.ac.in](https://iimcat.ac.in)**.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.
 

@@ -7,7 +7,7 @@ description: >-
   Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs,
   realistic cutoffs & book free profile evaluation with Mohit Jain.
 date: '2026-09-04'
-category: MBA & PGDM
+category: Exams
 tags:
   - CAT 2026-2027
   - MBA Admissions
@@ -71,7 +71,7 @@ faqs:
       Business Analytics & AI, Fintech / Banking & Corporate Finance, and
       Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with
       packages starting from ₹8 LPA to ₹16 LPA.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

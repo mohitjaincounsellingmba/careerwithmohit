@@ -1,23 +1,32 @@
 ---
-title: "CMR University, School of Mgmt PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to CMR University, School of Mgmt? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  CMR University, School of Mgmt PGDM Admission Review 2026: Placements, Fees &
+  Cutoff
+date: '2026-06-25'
+category: Online Degrees
+description: >-
+  Looking for admission to CMR University, School of Mgmt? Read our
+  comprehensive PGDM review for 2026 covering total fees, average and highest
+  placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - "cmr university, school of mgmt review 2026"
-  - "cmr university, school of mgmt pgdm placements"
-  - "cmr university, school of mgmt admission cutoff"
-  - "cmr university, school of mgmt fees"
+  - 'cmr university, school of mgmt review 2026'
+  - 'cmr university, school of mgmt pgdm placements'
+  - 'cmr university, school of mgmt admission cutoff'
+  - 'cmr university, school of mgmt fees'
 faqs:
-  - question: "Is CMR University, School of Mgmt a good option for PGDM/MBA?"
+  - question: 'Is CMR University, School of Mgmt a good option for PGDM/MBA?'
     answer: >-
-      Yes, CMR University, School of Mgmt is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at CMR University, School of Mgmt?"
+      Yes, CMR University, School of Mgmt is a highly respected institution
+      known for its solid academic foundation, industry-aligned curriculum, and
+      good placement track record.
+  - question: 'What is the average package offered at CMR University, School of Mgmt?'
     answer: >-
-      The average placement package at CMR University, School of Mgmt is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.6 LPA.
-  - question: "What entrance exams are accepted by CMR University, School of Mgmt?"
+      The average placement package at CMR University, School of Mgmt is
+      approximately ₹6.3 LPA, with the highest package reaching up to ₹14.6 LPA.
+  - question: 'What entrance exams are accepted by CMR University, School of Mgmt?'
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
 ### **College Review: [CMR University, School of Mgmt](/colleges/cmr-university-school-of-mgmt)**

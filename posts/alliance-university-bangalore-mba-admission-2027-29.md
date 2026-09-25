@@ -1,9 +1,15 @@
 ---
-title: 'Alliance School of Business (Alliance University) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Alliance School of Business (Alliance University) MBA / PGDM Admission
+  2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Alliance School of Business (Alliance University) (Alliance Bangalore). Verified fee structure (₹18.00 Lakhs (Total)), MBA approvals, audited placements (Avg ₹10.50 LPA, Highest ₹40.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Alliance School of Business (Alliance
+  University) (Alliance Bangalore). Verified fee structure (₹18.00 Lakhs
+  (Total)), MBA approvals, audited placements (Avg ₹10.50 LPA, Highest ₹40.00
+  LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and
+  Why Join review.
 keywords:
   - Alliance School of Business (Alliance University) admission 2027-29
   - Alliance Bangalore fees 2027
@@ -17,27 +23,56 @@ keywords:
   - best MBA PGDM colleges in Bangalore
   - direct admission in Alliance Bangalore
   - MBA Career Counselling Mohit Jain
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Alliance Bangalore?
     answer: >-
-      The total course fee for the 2-year MBA program at Alliance School of Business (Alliance University) for the 2027–29 batch is ₹18.00 Lakhs (Total) (₹9.00 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at Alliance School of
+      Business (Alliance University) for the 2027–29 batch is ₹18.00 Lakhs
+      (Total) (₹9.00 Lakhs per Year). Various merit and category scholarships
+      are available for deserving candidates.
   - question: Which statutory approvals and accreditations does Alliance Bangalore hold?
     answer: >-
-      Alliance School of Business (Alliance University) holds UGC Approved State Private University · AACSB Member · NIRF Ranked, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Alliance Bangalore?
+      Alliance School of Business (Alliance University) holds UGC Approved State
+      Private University · AACSB Member · NIRF Ranked, ensuring valid degree
+      equivalence, eligibility for government jobs, and global corporate
+      recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Alliance
+      Bangalore?
     answer: >-
-      For recent placement drives, Alliance Bangalore recorded an average salary package of ₹10.50 LPA (Top 25% averaging ₹14.80 LPA) and a peak highest CTC of ₹40.00 LPA, with leading recruiters including Amazon, Deloitte, KPMG, EY.
-  - question: Does Alliance Bangalore offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Alliance Bangalore recorded an average salary
+      package of ₹10.50 LPA (Top 25% averaging ₹14.80 LPA) and a peak highest
+      CTC of ₹40.00 LPA, with leading recruiters including Amazon, Deloitte,
+      KPMG, EY.
+  - question: >-
+      Does Alliance Bangalore offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 28% PPO conversion through active corporate links with multinational banking and consulting giants.
-  - question: What value-added certifications are provided to students at Alliance Bangalore?
+      Yes, 28% PPO conversion through active corporate links with multinational
+      banking and consulting giants.
+  - question: >-
+      What value-added certifications are provided to students at Alliance
+      Bangalore?
     answer: >-
-      Students receive embedded industry certifications including Advanced Global Business Strategy, International Business & Trade Analytics, Business Analytics & Machine Learning, Capital Markets & Risk Valuation.
-  - question: How can students apply for admission or get counseling for Alliance Bangalore for 2027–29?
+      Students receive embedded industry certifications including Advanced
+      Global Business Strategy, International Business & Trade Analytics,
+      Business Analytics & Machine Learning, Capital Markets & Risk Valuation.
+  - question: >-
+      How can students apply for admission or get counseling for Alliance
+      Bangalore for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Bangalore
-state: Pan India
+state: Karnataka
 ---
 
 # Alliance School of Business (Alliance University) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

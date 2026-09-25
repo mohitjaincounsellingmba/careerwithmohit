@@ -1,12 +1,13 @@
 ---
 title: 'Free MAT 2026 Mock Test 2026: Full CBT Practice Paper with Solutions'
 date: '2026-08-22'
-category: MBA
+category: Study Abroad
 description: >-
   Take our free full-length 64-question GMAT Focus Edition CBT Mock Test in 135
   minutes. Practice Quantitative Reasoning (21), Verbal Reasoning (23), and Data
   Insights (20) with instant scaled scores (205-805), ISB Hyderabad call
-  predictor, and step-by-step solutions.
+  predictor, and step-by-step solutions for 2026-2027 admissions & career
+  guidance.
 keywords:
   - free gmat focus edition mock test
   - gmat focus practice test online free

@@ -26,7 +26,13 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: Online Degrees
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
+
 [Mizoram University](/colleges/mzu-aizawl) (MZU), situated in the scenic city of Aizawl, offers a vibrant campus life and a robust academic environment. It is rapidly gaining popularity for its engineering, management, and science programs.
 
 ## 📊 MZU 2026 Overview: Fees, Placements & Cutoffs

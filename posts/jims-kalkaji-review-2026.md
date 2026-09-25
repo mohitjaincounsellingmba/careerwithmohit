@@ -1,7 +1,7 @@
 ---
 title: 'JIMS Kalkaji Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Verdict'
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive JIMS Kalkaji review for 2027–2029 admissions. Explore verified
   PGDM fee structure (₹10.75 Lakhs in 4 installments), recent placements (avg
@@ -28,6 +28,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the exact total fee for PGDM at JIMS Kalkaji for 2027–2029?
     answer: >-
@@ -59,7 +63,7 @@ faqs:
       Yes. JIMS Kalkaji is approved by AICTE, accredited by NBA, accredited
       internationally by SAQS, and its PGDM is granted official MBA equivalence
       by the Association of Indian Universities (AIU).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

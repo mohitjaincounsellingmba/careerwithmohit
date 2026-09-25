@@ -3,7 +3,7 @@ title: >-
   Best Mock Tests for MBA Entrance Exams 2026: CAT, NMAT, XAT & SNAP Test Series
   Compared
 date: '2026-08-22'
-category: MBA
+category: Online Degrees
 description: >-
   Compare the best mock tests for MBA entrance exams 2026 including CAT, NMAT,
   XAT, and SNAP. Discover top test series, CBT interface accuracy, pricing, AI

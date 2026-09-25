@@ -43,6 +43,7 @@ faqs:
       Magarpatta) recruiting hundreds of management graduates annually.
 location: Pune
 state: Maharashtra
+category: Exams
 ---
 # Top PGDM Colleges in Pune Admission 2027: Fees, Placements & CAT 2026 / XAT Exam Cutoffs
 
@@ -78,16 +79,16 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2026, X
 
 ### 1. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
 * **Location:** Pirangut, Pune.
-* **Why Choose PIBM:** Known for sector-specific training in Financial Modeling, Bloomberg Terminal training, SAP, and Digital Marketing. Top recruiters include Deloitte, KPMG, Amazon, Reliance, and BNY Mellon. Read [All About PIBM Pune](/posts/all-about-pibm-pune).
+* **Why Choose PIBM:** Known for sector-specific training in Financial Modeling, Bloomberg Terminal training, SAP, and Digital Marketing. Top recruiters include Deloitte, KPMG, Amazon, Reliance, and BNY Mellon. Read [All About PIBM Pune](/blog/all-about-pibm-pune).
 
 ### 2. Lexicon MILE (Management Institute of Leadership & Excellence)
-* **Highlights:** 9-month industry internship models, global certifications, and extensive leadership boot camps. Learn more at [All About Lexicon MILE Pune](/posts/all-about-lexicon-management-institute-of-leadership-excellence).
+* **Highlights:** 9-month industry internship models, global certifications, and extensive leadership boot camps. Learn more at [All About Lexicon MILE Pune](/blog/all-about-lexicon-management-institute-of-leadership-excellence).
 
 ### 3. [RIIM Pune](/colleges/riim-pune) (Ramachandran International Institute of Management)
-* **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/posts/all-about-riim-pune).
+* **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/blog/all-about-riim-pune).
 
 ### 4. DY Patil B-School & Indira Group (ISBS)
-* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/posts/all-about-dy-patil-b-school) and [All About ISBS Pune](/posts/all-about-isbs-pune).
+* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/blog/all-about-dy-patil-b-school) and [All About ISBS Pune](/blog/all-about-isbs-pune).
 
 ---
 
@@ -101,9 +102,9 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2026, X
 ---
 
 ## Related Guides & Comparisons
-- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/posts/best-pgdm-colleges-mumbai-pune-2027-29)
-- [All About SIBM Pune](/posts/all-about-sibm-pune)
-- [All About CAT Exam](/posts/all-about-cat-exam)
+- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29)
+- [All About SIBM Pune](/blog/all-about-sibm-pune)
+- [All About CAT Exam](/blog/all-about-cat-exam)
 
 ---
 

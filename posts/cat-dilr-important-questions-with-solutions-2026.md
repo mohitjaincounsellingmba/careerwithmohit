@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How many sets should I attempt in CAT 2026 DILR to score 99 percentile?
     answer: >-
@@ -49,9 +53,15 @@ faqs:
       **explicit numerical constraints, familiar structures (like round-robin
       tournaments or scheduling)**, and fewer conditional variables. Avoid sets
       with highly ambiguous 'if-then' conditions in your first attempt.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.
 

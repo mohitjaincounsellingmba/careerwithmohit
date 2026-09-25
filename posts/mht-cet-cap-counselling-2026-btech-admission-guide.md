@@ -33,7 +33,13 @@ faqs:
       institutional-level round for vacant seats.
 location: Mumbai
 state: Maharashtra
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **MHT-CET CAP (Centralised Admission Process) 2026**, conducted by the State CET Cell, Government of Maharashtra, is the official gateway for engineering admissions in over 300+ government and private colleges in Maharashtra. Known for legendary institutes like **COEP Pune** and **VJTI Mumbai**, MHT-CET is a top choice for students nationwide.
 

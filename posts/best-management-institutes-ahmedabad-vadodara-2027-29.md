@@ -3,7 +3,7 @@ title: >-
   Best Management Institutes in Ahmedabad & Vadodara: PGDM Admission Process
   2027-29
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Comprehensive guide to top PGDM and MBA colleges in Ahmedabad and Vadodara for
   2027-29. Details on CMAT cutoffs, specialized programs, fees, and placement

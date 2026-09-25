@@ -3,7 +3,7 @@ title: >-
   Free CAT Mock Test 2026: Full 68-Question CBT Simulation with IIM Call
   Predictor
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Take the 100% free full-length CAT 2026 CBT Mock Test online. Practice 68
   realistic questions across VARC, DILR, and Quant with sectional timers,
@@ -34,6 +34,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the pattern of the CAT 2026 exam?
     answer: >-
@@ -49,7 +53,7 @@ faqs:
       A raw score of 85+ (out of 198) is typically required to secure a 99+
       percentile, which is the benchmark for getting call letters from the top 3
       IIMs (A, B, C).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 # Free CAT Mock Test 2026: Full 68-Question CBT Simulation with Instant IIM Call Predictor

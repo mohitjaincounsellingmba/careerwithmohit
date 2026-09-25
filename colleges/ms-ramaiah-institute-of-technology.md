@@ -1,7 +1,7 @@
 ---
 name: Ramaiah Institute of Technology (MSRIT)
 logo: ''
-location: 'Bangalore, Karnataka'
+location: Bangalore
 state: Karnataka
 category: Engineering
 type: Private Autonomous College
@@ -54,6 +54,12 @@ keywords:
   - Ramaiah Institute of Technology (MSRIT) CSE placement
   - Ramaiah Institute of Technology (MSRIT) B.Tech admission 2027
   - 'engineering colleges Bangalore, Karnataka'
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
 ---
 
 ### About Ramaiah Institute of Technology (MSRIT)

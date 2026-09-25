@@ -1,7 +1,7 @@
 ---
 name: MICA Ahmedabad (The School of Ideas)
 logo: /logo.webp
-location: 'Shela, Ahmedabad, Gujarat'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -55,6 +55,13 @@ keywords:
   - MICA Ahmedabad (The School of Ideas) PGDM placement
   - MICA Ahmedabad (The School of Ideas) MBA admission 2027
   - 'MBA colleges Shela, Ahmedabad, Gujarat'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About MICA Ahmedabad (The School of Ideas)

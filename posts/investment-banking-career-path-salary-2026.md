@@ -1,7 +1,7 @@
 ---
 title: 'Investment Banking Career Path 2026 — Salary, Skills & Entry Guide'
 date: '2026-04-21'
-category: Finance
+category: MBA
 description: >-
   Dreaming of Wall Street or Dalal Street? Explore the Investment Banking career
   path for 2026. Discover the skills required, salary expectations, and how to
@@ -34,6 +34,11 @@ faqs:
       Most campus hiring happens in **December-January**, while lateral hiring
       (for experienced professionals) happens year-round based on deal flow.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹80 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Investment Banking (IB) remains the most coveted and high-paying career path in the financial world. Known for its intense hours, elite networking, and multi-million dollar deals, IB is where capital meets strategy. In 2026, as the Indian economy integrates more deeply with global markets, the demand for Investment Bankers in M&A (Mergers & Acquisitions) and IPO management is at an all-time high.
 

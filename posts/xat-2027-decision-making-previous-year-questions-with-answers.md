@@ -1,8 +1,13 @@
 ---
-title: 'XAT 2027 Decision Making Previous Year Questions with Answers: Solved Caselets & Strategy'
+title: >-
+  XAT 2027 Decision Making Previous Year Questions with Answers: Solved Caselets
+  & Strategy
 date: '2026-09-12'
-description: 'Master XAT 2027 Decision Making (DM). Solved past-year caselets with step-by-step reasoning frameworks, stakeholder analysis, and XLRI cutoff strategy.'
-category: 'Entrance Exams'
+description: >-
+  Master XAT 2027 Decision Making (DM). Solved past-year caselets with
+  step-by-step reasoning frameworks, stakeholder analysis, and XLRI cutoff
+  strategy.
+category: Exams
 keywords:
   - xat 2027 decision making previous year questions with answers
   - xat decision making solved questions pdf
@@ -10,17 +15,40 @@ keywords:
   - xlri decision making cutoff 2027
   - xat dm caselets with answers and explanation
   - decision making tips for xat
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the Decision Making (DM) section in XAT?
-    answer: "The Decision Making section is a unique, standalone 21-question section in the Xavier Aptitude Test (XAT). It presents business scenarios, ethical dilemmas, behavioral conflicts, and organizational caselets requiring candidates to select the most balanced, ethical, and commercially viable managerial decisions."
+    answer: >-
+      The Decision Making section is a unique, standalone 21-question section in
+      the Xavier Aptitude Test (XAT). It presents business scenarios, ethical
+      dilemmas, behavioral conflicts, and organizational caselets requiring
+      candidates to select the most balanced, ethical, and commercially viable
+      managerial decisions.
   - question: What is the sectional cutoff for Decision Making at XLRI?
-    answer: "XLRI Jamshedpur typically mandates a sectional cutoff between 75 and 80 percentile in Decision Making for both Business Management (BM) and Human Resource Management (HRM). In raw score terms, scoring 9.0 to 10.5 marks out of 21 safely clears the DM cutoff."
+    answer: >-
+      XLRI Jamshedpur typically mandates a sectional cutoff between 75 and 80
+      percentile in Decision Making for both Business Management (BM) and Human
+      Resource Management (HRM). In raw score terms, scoring 9.0 to 10.5 marks
+      out of 21 safely clears the DM cutoff.
   - question: Are mathematical calculations involved in XAT Decision Making?
-    answer: "Yes, approximately 1 to 2 sets in DM involve analytical and mathematical decision making (such as break-even analysis, capacity optimization, or supplier pricing decisions), while the remaining 5 to 6 sets are qualitative behavioral and ethical dilemmas."
+    answer: >-
+      Yes, approximately 1 to 2 sets in DM involve analytical and mathematical
+      decision making (such as break-even analysis, capacity optimization, or
+      supplier pricing decisions), while the remaining 5 to 6 sets are
+      qualitative behavioral and ethical dilemmas.
   - question: How can I avoid negative marks in XAT Decision Making?
-    answer: "Always eliminate extreme, emotionally impulsive, or punitive choices. Prioritize options that uphold ethical governance, respect legal frameworks, engage all stakeholders in constructive dialogue, and resolve the root cause rather than treating superficial symptoms."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Always eliminate extreme, emotionally impulsive, or punitive choices.
+      Prioritize options that uphold ethical governance, respect legal
+      frameworks, engage all stakeholders in constructive dialogue, and resolve
+      the root cause rather than treating superficial symptoms.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Xavier Aptitude Test (XAT)**, conducted annually by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), is celebrated for evaluating true managerial aptitude through its defining section: **Decision Making (DM)**.

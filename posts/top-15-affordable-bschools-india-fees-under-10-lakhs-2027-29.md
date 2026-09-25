@@ -3,7 +3,7 @@ title: >-
   Top 15 Affordable B-Schools in India (Fees Under ₹10 Lakhs) with 8+ LPA
   Average Placements (2027-29)
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Discover the top 15 affordable MBA and PGDM colleges in India with tuition
   fees under ₹10 Lakhs and average placement packages above ₹8 LPA for the
@@ -26,6 +26,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the cheapest MBA college in India with top placement?
     answer: >-
@@ -44,7 +48,7 @@ faqs:
       Yes, nationalized and private banks provide non-collateral education loans
       up to ₹7.5 Lakhs to ₹40 Lakhs for AICTE-approved PGDM programs based on
       institute classification.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

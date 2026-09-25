@@ -30,7 +30,13 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The **Joint Seat Allocation Authority (JoSAA)** is the gateway to 110+ premier engineering institutions in India, including all **IITs, NITs, IIITs, and GFTIs**. For candidates who have qualified JEE Main or JEE Advanced 2026, the JoSAA counselling process is the most critical step in securing a seat in their dream college.
 
 With the JoSAA 2026 session expected to begin in **June 2026**, here is a comprehensive guide to the schedule, registration process, and key rules.

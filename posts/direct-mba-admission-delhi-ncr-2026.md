@@ -1,7 +1,7 @@
 ---
 title: 'Direct MBA Admission in Delhi NCR 2026: Process, Fees & Colleges'
 date: '2026-05-23'
-category: MBA Admissions
+category: MBA
 description: >-
   Looking for direct MBA admission? Explore our guide on direct MBA admission in
   Delhi NCR for 2026, detailing the management quota process, fees, and top
@@ -38,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 While competitive entrance exams like CAT, XAT, and MAT are the standard pathways for business admissions, many students seek alternative entry modes due to academic profile changes, work obligations, or exam day variations. If you want to bypass the high-pressure competitive exam cycle, direct admission is a fully authorized and reliable pathway.

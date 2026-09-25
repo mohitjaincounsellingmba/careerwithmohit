@@ -38,9 +38,14 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹11.50 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Looking to pursue a Post Graduate Diploma in Management (PGDM) in the country's biggest corporate hub? Delhi NCR (comprising Delhi, Noida, Greater Noida, Gurgaon, and Ghaziabad) is home to premier business schools offering cutting-edge curricula, corporate mentorship, and high placement records.
 

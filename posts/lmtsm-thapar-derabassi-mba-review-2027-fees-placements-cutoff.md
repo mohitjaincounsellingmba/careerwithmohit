@@ -1,9 +1,15 @@
 ---
-title: 'LM Thapar School of Management (LMTSM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  LM Thapar School of Management (LMTSM) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive LM Thapar School of Management (LMTSM) (Dera Bassi, Mohali, Punjab) review for 2027 admissions. Explore audited fee structure (₹9.80 Lakhs (Total)), latest placement packages (Avg: ₹7.60 LPA, Highest: ₹21.35 LPA), entrance exam cutoffs (CAT, XAT, MAT, CMAT, NMAT), NIRF ranking, and student verdict.
+  Comprehensive LM Thapar School of Management (LMTSM) (Dera Bassi, Mohali,
+  Punjab) review for 2027 admissions. Explore audited fee structure (₹9.80 Lakhs
+  (Total)), latest placement packages (Avg: ₹7.60 LPA, Highest: ₹21.35 LPA),
+  entrance exam cutoffs (CAT, XAT, MAT, CMAT, NMAT), NIRF ranking, and student
+  verdict.
 keywords:
   - lm thapar school of management (lmtsm) review 2027
   - lm thapar school of management (lmtsm) mba fees
@@ -17,21 +23,43 @@ keywords:
   - best MBA colleges in Mohali
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
-  - question: What is the average package at LM Thapar School of Management (LMTSM) in recent placement drives?
+  - question: >-
+      What is the average package at LM Thapar School of Management (LMTSM) in
+      recent placement drives?
     answer: >-
-      The overall average placement package at LM Thapar School of Management (LMTSM) stands at approximately ₹7.60 LPA, with the median package around ₹5.50 LPA and top offers reaching ₹21.35 LPA.
-  - question: What entrance exams are accepted for admission to LM Thapar School of Management (LMTSM)?
+      The overall average placement package at LM Thapar School of Management
+      (LMTSM) stands at approximately ₹7.60 LPA, with the median package around
+      ₹5.50 LPA and top offers reaching ₹21.35 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to LM Thapar School of
+      Management (LMTSM)?
     answer: >-
-      LM Thapar School of Management (LMTSM) accepts scores from CAT, XAT, MAT, CMAT, NMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at LM Thapar School of Management (LMTSM) for the 2-year MBA / PGDM program?
+      LM Thapar School of Management (LMTSM) accepts scores from CAT, XAT, MAT,
+      CMAT, NMAT for shortlisting eligible candidates, followed by profile
+      evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at LM Thapar School of Management (LMTSM) for
+      the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹9.80 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does LM Thapar School of Management (LMTSM) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹9.80 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does LM Thapar School of Management (LMTSM) offer merit-based scholarships
+      or financial assistance?
     answer: >-
-      Yes, LM Thapar School of Management (LMTSM) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
-location: Dera Bassi
-state: Mohali
+      Yes, LM Thapar School of Management (LMTSM) provides merit scholarships to
+      high scorers in entrance tests, tuition fee waivers for economically
+      weaker candidates, and assistance for collateral-free bank loans.
+location: Chandigarh
+state: Punjab
 ---
 
 # [LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict

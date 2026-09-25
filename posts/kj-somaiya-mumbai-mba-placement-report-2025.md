@@ -38,7 +38,13 @@ faqs:
       offers), followed by IT/ITES and FMCG.
 location: Mumbai
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 Located on a sprawling 60-acre green campus in Mumbai, the **K.J. Somaiya Institute of Management (KJSIM)** under Somaiya Vidyavihar University is one of Western India's most established private management institutions, holding global AACSB accreditation.
 

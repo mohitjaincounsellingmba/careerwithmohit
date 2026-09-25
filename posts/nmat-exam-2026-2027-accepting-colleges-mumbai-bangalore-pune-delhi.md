@@ -49,8 +49,9 @@ faqs:
       Yes, colleges like SOIL Gurgaon, ITM Navi Mumbai, Alliance University,
       Universal AI University, ISBR Bangalore, and Woxsen University offer
       admissions for scores in the 180-210 range.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 # NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR
 
@@ -85,16 +86,16 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ## Detailed College Review by Region
 
 ### Mumbai Region NMAT Colleges
-* **NMIMS Mumbai:** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/posts/all-about-nmims-mumbai).
+* **NMIMS Mumbai:** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
 * **SDA Bocconi Asia Center:** European pedagogy with international faculty from Milan, Italy.
 * **K J Somaiya:** Excellent finance and data science placement tracks.
 
 ### Bangalore Region NMAT Colleges
 * **[TAPMI Bengaluru](/colleges/tapmi-bangalore):** Modern urban campus focused on FinTech and Digital Transformation.
-* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/posts/all-about-jagsom-bangalore).
+* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
 
 ### Delhi NCR Region NMAT Colleges
-* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/posts/all-about-soil-gurgaon).
+* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/blog/all-about-soil-gurgaon).
 
 ---
 
@@ -108,9 +109,9 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ---
 
 ## Related Reads
-- [All About NMAT Exam](/posts/all-about-nmat-exam)
-- [Top MBA Colleges in Mumbai Admission 2027](/posts/mumbai-mba-admission-2027-nmat-exam-xat-cat-colleges)
-- [Top PGDM Colleges in Bangalore Admission 2027](/posts/bangalore-pgdm-admission-2027-nmat-exam-cat-2026-xat-colleges)
+- [All About NMAT Exam](/blog/all-about-nmat-exam)
+- [Top MBA Colleges in Mumbai Admission 2027](/blog/mumbai-mba-admission-2027-nmat-exam-xat-cat-colleges)
+- [Top PGDM Colleges in Bangalore Admission 2027](/blog/bangalore-pgdm-admission-2027-nmat-exam-cat-2026-xat-colleges)
 
 ---
 

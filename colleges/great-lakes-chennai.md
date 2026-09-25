@@ -1,7 +1,7 @@
 ---
 name: Great Lakes Institute of Management (GLIM Chennai)
 logo: /logo.webp
-location: 'Chennai, Tamil Nadu'
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -52,6 +52,13 @@ keywords:
   - Great Lakes Institute of Management (GLIM Chennai) PGDM placement
   - Great Lakes Institute of Management (GLIM Chennai) MBA admission 2027
   - 'MBA colleges Chennai, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About Great Lakes Institute of Management (GLIM Chennai)

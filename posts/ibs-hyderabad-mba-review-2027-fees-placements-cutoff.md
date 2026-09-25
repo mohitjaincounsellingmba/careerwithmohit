@@ -1,9 +1,16 @@
 ---
-title: 'ICFAI Business School (IBS) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  ICFAI Business School (IBS) Review 2027: Fees, Placements, Cutoff, Ranking &
+  Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth ICFAI Business School (IBS) (Donthanapally Campus, Shankarpally Road) review for 2027 admissions. Explore verified fee structure (₹16.02 Lakhs (Tuition) + ₹3.50 – ₹4.00 Lakhs (Hostel & Mess)), latest placements (avg ₹9.71 – ₹10.42 LPA, highest ₹58.19 LPA (International) / ₹21.00 LPA (Domestic)), cutoffs (IBSAT: 70–75+ Score; CAT: 70–75 Percentile; NMAT: 150+ Score; GMAT: 550+), and student verdict.
+  In-depth ICFAI Business School (IBS) (Donthanapally Campus, Shankarpally Road)
+  review for 2027 admissions. Explore verified fee structure (₹16.02 Lakhs
+  (Tuition) + ₹3.50 – ₹4.00 Lakhs (Hostel & Mess)), latest placements (avg ₹9.71
+  – ₹10.42 LPA, highest ₹58.19 LPA (International) / ₹21.00 LPA (Domestic)),
+  cutoffs (IBSAT: 70–75+ Score; CAT: 70–75 Percentile; NMAT: 150+ Score; GMAT:
+  550+), and student verdict.
 keywords:
   - icfai business school (ibs) review 2027
   - icfai business school (ibs) fees
@@ -13,23 +20,38 @@ keywords:
   - icfai business school (ibs) cutoff cat xat gmat
   - icfai business school (ibs) admission process 2027
   - icfai business school (ibs) ranking
-  - Hyderabad, Telangana MBA colleges
+  - 'Hyderabad, Telangana MBA colleges'
   - best MBA colleges in Telangana
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
   - question: What entrance exams are accepted by IBS Hyderabad?
     answer: >-
-      IBS Hyderabad accepts IBSAT (the proprietary entrance test conducted nationwide by ICFAI), CAT (70–75%ile), NMAT (150+ score), and GMAT scores.
+      IBS Hyderabad accepts IBSAT (the proprietary entrance test conducted
+      nationwide by ICFAI), CAT (70–75%ile), NMAT (150+ score), and GMAT scores.
   - question: What is the fee structure for MBA at IBS Hyderabad for 2027–2029?
     answer: >-
-      The official tuition fee for the 2-year MBA at IBS Hyderabad is ₹16.02 Lakhs. Adding residential hostel and mess charges of ₹3.50 to ₹4.00 Lakhs brings the total program investment to approximately ₹19.50 to ₹20.00 Lakhs.
+      The official tuition fee for the 2-year MBA at IBS Hyderabad is ₹16.02
+      Lakhs. Adding residential hostel and mess charges of ₹3.50 to ₹4.00 Lakhs
+      brings the total program investment to approximately ₹19.50 to ₹20.00
+      Lakhs.
   - question: What is the average and highest package at IBS Hyderabad?
     answer: >-
-      The overall average package is ₹9.71 to ₹10.42 LPA, the top 25% cohort averages ₹13.97 LPA, the top 10% averages ₹17.66 LPA, and the highest international package reaches ₹58.19 LPA (with highest domestic at ₹21.00 LPA).
+      The overall average package is ₹9.71 to ₹10.42 LPA, the top 25% cohort
+      averages ₹13.97 LPA, the top 10% averages ₹17.66 LPA, and the highest
+      international package reaches ₹58.19 LPA (with highest domestic at ₹21.00
+      LPA).
   - question: What is the Case Research Center (CRC) at IBS?
     answer: >-
-      IBS Case Research Center is internationally acclaimed for writing business case studies used by over 900 business schools in 80 countries, giving students daily training in real-world corporate problem-solving.
+      IBS Case Research Center is internationally acclaimed for writing business
+      case studies used by over 900 business schools in 80 countries, giving
+      students daily training in real-world corporate problem-solving.
 location: Hyderabad
 state: Telangana
 ---

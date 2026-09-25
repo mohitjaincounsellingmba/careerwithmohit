@@ -40,9 +40,14 @@ faqs:
       The college accepts scores from national level entrance examinations
       including CAT, MAT, GMAT, Goenka Aptitude Test for the PGDM and MBA
       admissions.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹8.75 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 ### **College Review: [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.

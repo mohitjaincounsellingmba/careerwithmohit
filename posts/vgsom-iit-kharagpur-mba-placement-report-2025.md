@@ -1,9 +1,11 @@
 ---
 title: >-
-  VGSoM, IIT Kharagpur MBA Placement Report 2025: Average Package ₹22.75 LPA, Highest ₹37.63 LPA
+  VGSoM, IIT Kharagpur MBA Placement Report 2025: Average Package ₹22.75 LPA,
+  Highest ₹37.63 LPA
 date: '2026-08-15'
 description: >-
-  Detailed VGSoM IIT Kharagpur MBA Placement Report 2025. Explore average salary of ₹22.75 LPA, highest CTC of ₹37.63 LPA, consulting dominance, fees & ROI.
+  Detailed VGSoM IIT Kharagpur MBA Placement Report 2025. Explore average salary
+  of ₹22.75 LPA, highest CTC of ₹37.63 LPA, consulting dominance, fees & ROI.
 keywords:
   - vgsom iit kharagpur mba placement report 2025
   - vgsom average package 2025
@@ -14,14 +16,25 @@ keywords:
 faqs:
   - question: What was the average and highest CTC at VGSoM IIT Kharagpur in 2025?
     answer: >-
-      For the 2025 MBA batch, Vinod Gupta School of Management (VGSoM) at IIT Kharagpur recorded an average CTC of INR 22.75 LPA, a median package of INR 21.80 LPA, and a highest CTC of INR 37.63 LPA.
+      For the 2025 MBA batch, Vinod Gupta School of Management (VGSoM) at IIT
+      Kharagpur recorded an average CTC of INR 22.75 LPA, a median package of
+      INR 21.80 LPA, and a highest CTC of INR 37.63 LPA.
   - question: What is the batch size and placement record of VGSoM IIT Kharagpur?
     answer: >-
-      VGSoM placed 100% of its 142-student cohort across diverse sectors including Strategy, Operations, BFSI, and Analytics.
+      VGSoM placed 100% of its 142-student cohort across diverse sectors
+      including Strategy, Operations, BFSI, and Analytics.
   - question: What are the eligibility criteria and CAT cutoff for VGSoM?
     answer: >-
-      Candidates require a 4-year Bachelor's degree in engineering/technology or Master's in Science/Economics. The CAT cutoff for General category typically hovers between 95+ and 97+ percentile.
+      Candidates require a 4-year Bachelor's degree in engineering/technology or
+      Master's in Science/Economics. The CAT cutoff for General category
+      typically hovers between 95+ and 97+ percentile.
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹22.75 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Established in 1993 as the first business school within the IIT ecosystem, the **Vinod Gupta School of Management (VGSoM) at IIT Kharagpur** holds a storied legacy of developing data-driven management leaders.
 

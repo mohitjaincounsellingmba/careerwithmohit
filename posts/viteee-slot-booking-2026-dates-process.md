@@ -27,7 +27,13 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The Vellore Institute of Technology (VIT) has officially commenced the **VITEEE Slot Booking 2026** process. Candidates aiming for B.Tech admissions across VIT campuses must use the Online Test Booking System (OTBS) to select their preferred exam date, time, and test city. 
 
 Since slots are allotted strictly on a **first-come, first-served basis**, it is highly recommended to complete the booking process as early as possible.

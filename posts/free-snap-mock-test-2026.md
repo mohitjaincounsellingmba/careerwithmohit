@@ -33,6 +33,11 @@ faqs:
       A score of 42-44+ out of 60 (98.5+ percentile) is generally needed to
       receive a call for GE-PI-WAT from SIBM Pune.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 Succeeding in the **SNAP Dec 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 
 [MockTestCard title="Free SNAP 2026 Full CBT Mock Test 2026" link="/snap-mock-test" questions="60 Questions" time="60 Mins"]

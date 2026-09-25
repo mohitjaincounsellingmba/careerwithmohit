@@ -1,7 +1,7 @@
 ---
 name: LNMIIT Jaipur (The LNM Institute of Information Technology)
 logo: ''
-location: 'Jaipur, Rajasthan'
+location: Jaipur
 state: Rajasthan
 category: Engineering
 type: Deemed-to-be-University (Public-Private)
@@ -68,6 +68,12 @@ keywords:
     LNMIIT Jaipur (The LNM Institute of Information Technology) B.Tech admission
     2027
   - 'engineering colleges Jaipur, Rajasthan'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 ---
 
 ### About LNMIIT Jaipur (The LNM Institute of Information Technology)

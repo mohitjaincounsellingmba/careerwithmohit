@@ -39,9 +39,15 @@ faqs:
       MSIT) ranges from **₹1.0 to 1.2 Lakhs**.
   - question: Can I get direct admission in BBA in Delhi?
     answer: "Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.\n\n[\U0001F449 Build My Delhi BBA Roadmap](/inquiry) | [\U0001F4AC Schedule a Private Profile Review](/inquiry)"
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: BBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 
 Delhi, the national capital, is the heart of India's education and commerce. For BBA aspirants, Delhi offers the prestige of central universities and the massive network of Guru Gobind Singh Indraprastha University (GGSIPU).
 

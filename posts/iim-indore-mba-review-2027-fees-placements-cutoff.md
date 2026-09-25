@@ -1,9 +1,12 @@
 ---
 title: 'IIM Indore Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Indore (Prabandh Shikhar, Indore, Madhya Pradesh) review for 2027 admissions. Explore audited fee structure (₹21.50 Lakhs (Total)), latest placement packages (Avg: ₹25.68 LPA, Highest: ₹1.00 Crore), entrance exam cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Indore (Prabandh Shikhar, Indore, Madhya Pradesh) review for
+  2027 admissions. Explore audited fee structure (₹21.50 Lakhs (Total)), latest
+  placement packages (Avg: ₹25.68 LPA, Highest: ₹1.00 Crore), entrance exam
+  cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
 keywords:
   - iim indore review 2027
   - iim indore mba fees
@@ -20,16 +23,26 @@ keywords:
 faqs:
   - question: What is the average package at IIM Indore in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Indore stands at approximately ₹25.68 LPA, with the median package around ₹15.00 LPA and top offers reaching ₹1.00 Crore.
+      The overall average placement package at IIM Indore stands at
+      approximately ₹25.68 LPA, with the median package around ₹15.00 LPA and
+      top offers reaching ₹1.00 Crore.
   - question: What entrance exams are accepted for admission to IIM Indore?
     answer: >-
-      IIM Indore accepts scores from CAT, IPMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Indore for the 2-year MBA / PGDM program?
+      IIM Indore accepts scores from CAT, IPMAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Indore for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹21.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹21.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Indore offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Indore provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Indore provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Prabandh Shikhar
 state: Indore
 ---

@@ -1,9 +1,12 @@
 ---
 title: 'IIM Nagpur Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Nagpur (MIHAN, Nagpur, Maharashtra) review for 2027 admissions. Explore audited fee structure (₹18.90 Lakhs (Total)), latest placement packages (Avg: ₹16.74 LPA, Highest: ₹64.00 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Nagpur (MIHAN, Nagpur, Maharashtra) review for 2027
+  admissions. Explore audited fee structure (₹18.90 Lakhs (Total)), latest
+  placement packages (Avg: ₹16.74 LPA, Highest: ₹64.00 LPA), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim nagpur review 2027
   - iim nagpur mba fees
@@ -20,16 +23,25 @@ keywords:
 faqs:
   - question: What is the average package at IIM Nagpur in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Nagpur stands at approximately ₹16.74 LPA, with the median package around ₹11.00 LPA and top offers reaching ₹64.00 LPA.
+      The overall average placement package at IIM Nagpur stands at
+      approximately ₹16.74 LPA, with the median package around ₹11.00 LPA and
+      top offers reaching ₹64.00 LPA.
   - question: What entrance exams are accepted for admission to IIM Nagpur?
     answer: >-
-      IIM Nagpur accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Nagpur for the 2-year MBA / PGDM program?
+      IIM Nagpur accepts scores from CAT for shortlisting eligible candidates,
+      followed by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Nagpur for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹18.90 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹18.90 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Nagpur offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Nagpur provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Nagpur provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: MIHAN
 state: Nagpur
 ---

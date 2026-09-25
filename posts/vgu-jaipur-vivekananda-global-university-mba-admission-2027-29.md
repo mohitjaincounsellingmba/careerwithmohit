@@ -1,9 +1,15 @@
 ---
-title: 'Vivekananda Global University (VGU) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Vivekananda Global University (VGU) MBA / PGDM Admission 2027-29: Fees,
+  Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Vivekananda Global University (VGU) (VGU Jaipur). Verified fee structure (₹5.05 Lakhs (Total)), MBA approvals, audited placements (Avg ₹5.20 LPA, Highest ₹54.00 LPA (International / Peak)), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Vivekananda Global University (VGU) (VGU
+  Jaipur). Verified fee structure (₹5.05 Lakhs (Total)), MBA approvals, audited
+  placements (Avg ₹5.20 LPA, Highest ₹54.00 LPA (International / Peak)), PPO
+  stats, certifications, awards, alumni network, faculty profiles, and Why Join
+  review.
 keywords:
   - Vivekananda Global University (VGU) admission 2027-29
   - VGU Jaipur fees 2027
@@ -17,27 +23,49 @@ keywords:
   - best MBA PGDM colleges in Jaipur
   - direct admission in VGU Jaipur
   - MBA Career Counselling Mohit Jain
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at VGU Jaipur?
     answer: >-
-      The total course fee for the 2-year MBA program at Vivekananda Global University (VGU) for the 2027–29 batch is ₹5.05 Lakhs (Total) (₹2.53 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at Vivekananda Global
+      University (VGU) for the 2027–29 batch is ₹5.05 Lakhs (Total) (₹2.53 Lakhs
+      per Year). Various merit and category scholarships are available for
+      deserving candidates.
   - question: Which statutory approvals and accreditations does VGU Jaipur hold?
     answer: >-
-      Vivekananda Global University (VGU) holds UGC Approved · NAAC Grade A+ Accredited · AIU Member, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      Vivekananda Global University (VGU) holds UGC Approved · NAAC Grade A+
+      Accredited · AIU Member, ensuring valid degree equivalence, eligibility
+      for government jobs, and global corporate recognition.
   - question: What are the placement statistics (Average and Highest CTC) at VGU Jaipur?
     answer: >-
-      For recent placement drives, VGU Jaipur recorded an average salary package of ₹5.20 LPA (Top 25% averaging ₹7.50 LPA) and a peak highest CTC of ₹54.00 LPA (International / Peak), with leading recruiters including TCS, Infosys, HCL, Kotak Bank.
-  - question: Does VGU Jaipur offer Pre-Placement Offers (PPOs) and paid summer internships?
-    answer: >-
-      Yes, Sunstone placement protection with 18% PPO conversion.
+      For recent placement drives, VGU Jaipur recorded an average salary package
+      of ₹5.20 LPA (Top 25% averaging ₹7.50 LPA) and a peak highest CTC of
+      ₹54.00 LPA (International / Peak), with leading recruiters including TCS,
+      Infosys, HCL, Kotak Bank.
+  - question: >-
+      Does VGU Jaipur offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
+    answer: 'Yes, Sunstone placement protection with 18% PPO conversion.'
   - question: What value-added certifications are provided to students at VGU Jaipur?
     answer: >-
-      Students receive embedded industry certifications including Sunstone 10+ Employability Certifications, Digital Marketing & Performance Ads, Advanced Excel for Decision Making, Logistics & Retail Operations.
-  - question: How can students apply for admission or get counseling for VGU Jaipur for 2027–29?
+      Students receive embedded industry certifications including Sunstone 10+
+      Employability Certifications, Digital Marketing & Performance Ads,
+      Advanced Excel for Decision Making, Logistics & Retail Operations.
+  - question: >-
+      How can students apply for admission or get counseling for VGU Jaipur for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Jaipur
-state: Pan India
+state: Rajasthan
 ---
 
 # Vivekananda Global University (VGU) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

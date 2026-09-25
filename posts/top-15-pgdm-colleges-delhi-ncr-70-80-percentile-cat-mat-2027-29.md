@@ -22,7 +22,7 @@ ab_test:
         Explore top AICTE-approved B-schools in Delhi NCR accepting 70-80%ile in
         CAT & MAT. Detailed analysis of NDIM, Jaipuria, FIIB, JIMS, placements,
         and ROI.
-category: MBA Admissions
+category: Certifications & Skills
 description: >-
   Looking for top AICTE-approved PGDM colleges in Delhi NCR with 70-80
   percentile in CAT or MAT for the 2027-29 batch? Explore detailed fees,
@@ -55,7 +55,7 @@ keywords:
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Noida Admissions 2026
-location: Noida
+location: Delhi NCR
 faqs:
   - question: >-
       Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and

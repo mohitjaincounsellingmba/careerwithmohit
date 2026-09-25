@@ -39,9 +39,15 @@ faqs:
       A score of **665+ on the GMAT Focus Edition** is considered safe for the
       NRI/FN category. However, a strong professional profile and academic
       record can sometimes compensate for a slightly lower score (645+).
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹26.70 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 ### 📊 [MDI Gurgaon](/colleges/mdi-gurgaon) NRI/FN 2026 Snapshot
 

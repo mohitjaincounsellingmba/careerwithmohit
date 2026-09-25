@@ -3,7 +3,7 @@ title: >-
   New Delhi Institute of Info Tech & Management (NDIIT) Review 2026: Fees,
   Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of New Delhi Institute of Info Tech & Management
   (NDIIT) covering MBA/PGDM fee structures, highest and average placements
@@ -49,7 +49,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at New Delhi
       Institute of Info Tech & Management (NDIIT) is approximately ₹5.80 Lakhs
       (Total).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

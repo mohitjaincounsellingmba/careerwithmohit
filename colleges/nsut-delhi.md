@@ -1,7 +1,7 @@
 ---
 name: 'Netaji Subhas University of Technology (NSUT, formerly NSIT)'
 logo: ''
-location: 'Dwarka, Delhi'
+location: Delhi NCR
 state: Delhi NCR
 category: Engineering
 type: State Technical University
@@ -65,6 +65,12 @@ keywords:
     Netaji Subhas University of Technology (NSUT, formerly NSIT) B.Tech
     admission 2027
   - 'engineering colleges Dwarka, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 ---
 
 ### About Netaji Subhas University of Technology (NSUT, formerly NSIT)

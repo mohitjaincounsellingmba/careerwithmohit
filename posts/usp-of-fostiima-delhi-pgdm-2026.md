@@ -37,8 +37,9 @@ faqs:
       Ahmedabad](/colleges/iim-ahmedabad)."
   - question: What is the total fee?
     answer: ₹11.5 Lakhs for the 2027–29 PGDM batch.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
 
 In the crowded Delhi PGDM market, **FOSTIIMA Business School** has carved a unique identity — it's the only private B-school in Delhi **founded, funded, and managed by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni**. Since its inception, FOSTIIMA has attracted students who want IIM-quality thinking at a fee that makes financial sense.

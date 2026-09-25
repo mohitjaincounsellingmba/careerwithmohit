@@ -35,7 +35,13 @@ faqs:
       drops.
 location: Mumbai
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 The Indira Group of Institutes (IGI) is a household name in Pune's management education. With its flagship **Indira Institute of Management, Pune (IIMP)** located in the bustling Wakad area, it offers a perfect blend of academics and industry exposure.
 
 ### 📊 Indira Pune 2026 Snapshot

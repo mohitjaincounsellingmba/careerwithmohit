@@ -1,7 +1,7 @@
 ---
 name: BITS Pilani - Hyderabad Campus
 logo: ''
-location: 'Jawaharnagar, Hyderabad, Telangana'
+location: Hyderabad
 state: Telangana
 category: Engineering
 type: Deemed University (Institute of Eminence)
@@ -55,6 +55,12 @@ keywords:
   - BITS Pilani - Hyderabad Campus CSE placement
   - BITS Pilani - Hyderabad Campus B.Tech admission 2027
   - 'engineering colleges Jawaharnagar, Hyderabad, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 ---
 
 ### About BITS Pilani - Hyderabad Campus

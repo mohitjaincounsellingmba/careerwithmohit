@@ -1,35 +1,63 @@
 ---
-title: 'Department of Management Studies (DoMS), IIT Madras Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Department of Management Studies (DoMS), IIT Madras Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive Department of Management Studies (DoMS), IIT Madras (Chennai, Tamil Nadu) review for 2027 admissions. Explore audited fee structure (₹11.00 Lakhs (Total)), latest placement packages (Avg: ₹20.19 LPA, Highest: ₹34.00 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive Department of Management Studies (DoMS), IIT Madras (Chennai,
+  Tamil Nadu) review for 2027 admissions. Explore audited fee structure (₹11.00
+  Lakhs (Total)), latest placement packages (Avg: ₹20.19 LPA, Highest: ₹34.00
+  LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
-  - department of management studies (doms), iit madras review 2027
-  - department of management studies (doms), iit madras mba fees
-  - department of management studies (doms), iit madras placements 2026 2027
-  - department of management studies (doms), iit madras average package
-  - department of management studies (doms), iit madras highest package
-  - department of management studies (doms), iit madras cutoff cat
-  - department of management studies (doms), iit madras admission process 2027
-  - department of management studies (doms), iit madras ranking
+  - 'department of management studies (doms), iit madras review 2027'
+  - 'department of management studies (doms), iit madras mba fees'
+  - 'department of management studies (doms), iit madras placements 2026 2027'
+  - 'department of management studies (doms), iit madras average package'
+  - 'department of management studies (doms), iit madras highest package'
+  - 'department of management studies (doms), iit madras cutoff cat'
+  - 'department of management studies (doms), iit madras admission process 2027'
+  - 'department of management studies (doms), iit madras ranking'
   - Chennai MBA colleges 2027
   - best MBA colleges in Tamil Nadu
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: What is the average package at Department of Management Studies (DoMS), IIT Madras in recent placement drives?
+  - question: >-
+      What is the average package at Department of Management Studies (DoMS),
+      IIT Madras in recent placement drives?
     answer: >-
-      The overall average placement package at Department of Management Studies (DoMS), IIT Madras stands at approximately ₹20.19 LPA, with the median package around ₹13.50 LPA and top offers reaching ₹34.00 LPA.
-  - question: What entrance exams are accepted for admission to Department of Management Studies (DoMS), IIT Madras?
+      The overall average placement package at Department of Management Studies
+      (DoMS), IIT Madras stands at approximately ₹20.19 LPA, with the median
+      package around ₹13.50 LPA and top offers reaching ₹34.00 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Department of Management
+      Studies (DoMS), IIT Madras?
     answer: >-
-      Department of Management Studies (DoMS), IIT Madras accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Department of Management Studies (DoMS), IIT Madras for the 2-year MBA / PGDM program?
+      Department of Management Studies (DoMS), IIT Madras accepts scores from
+      CAT for shortlisting eligible candidates, followed by profile evaluation
+      and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Department of Management Studies (DoMS),
+      IIT Madras for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹11.00 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Department of Management Studies (DoMS), IIT Madras offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹11.00 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Department of Management Studies (DoMS), IIT Madras offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Department of Management Studies (DoMS), IIT Madras provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Department of Management Studies (DoMS), IIT Madras provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Chennai
 state: Tamil Nadu
 ---

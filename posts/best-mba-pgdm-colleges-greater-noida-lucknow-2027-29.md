@@ -3,7 +3,7 @@ title: >-
   Best MBA/PGDM Colleges in Greater Noida & Lucknow (2027-29): Eligibility, Fees
   & Seat Matrix
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Complete guide to top MBA and PGDM colleges in Greater Noida and Lucknow for
   2027-29. Details on AICTE seat matrix, total fee structure, eligibility, and
@@ -47,7 +47,7 @@ faqs:
       Yes, Jaipuria Institute of Management Lucknow PGDM is AICTE approved, NBA
       accredited, and recognized by AIU (Association of Indian Universities) as
       equivalent to an MBA degree.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

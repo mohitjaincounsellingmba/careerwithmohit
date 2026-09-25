@@ -1,9 +1,16 @@
 ---
-title: 'Great Lakes Institute of Management Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Great Lakes Institute of Management Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
-  In-depth Great Lakes Institute of Management (East Coast Road (ECR) Campus, Manamai) review for 2027 admissions. Explore verified fee structure (PGPM (1-Year): ₹21.50 – ₹22.50 Lakhs; PGDM (2-Year): ₹20.00 – ₹21.00 Lakhs), latest placements (avg PGPM: ₹17.30 – ₹18.10 LPA; PGDM: ₹15.10 – ₹15.30 LPA, highest PGPM: ₹37.00 LPA; PGDM: ₹46.00 LPA), cutoffs (CAT / XAT: 80–85+ %ile; GMAT: 600+; CMAT: 95%+ (PGDM only)), and student verdict.
+  In-depth Great Lakes Institute of Management (East Coast Road (ECR) Campus,
+  Manamai) review for 2027 admissions. Explore verified fee structure (PGPM
+  (1-Year): ₹21.50 – ₹22.50 Lakhs; PGDM (2-Year): ₹20.00 – ₹21.00 Lakhs), latest
+  placements (avg PGPM: ₹17.30 – ₹18.10 LPA; PGDM: ₹15.10 – ₹15.30 LPA, highest
+  PGPM: ₹37.00 LPA; PGDM: ₹46.00 LPA), cutoffs (CAT / XAT: 80–85+ %ile; GMAT:
+  600+; CMAT: 95%+ (PGDM only)), and student verdict.
 keywords:
   - great lakes institute of management review 2027
   - great lakes institute of management fees
@@ -13,23 +20,39 @@ keywords:
   - great lakes institute of management cutoff cat xat gmat
   - great lakes institute of management admission process 2027
   - great lakes institute of management ranking
-  - Chennai, Tamil Nadu MBA colleges
+  - 'Chennai, Tamil Nadu MBA colleges'
   - best MBA colleges in Tamil Nadu
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
   - question: What is the key difference between PGPM and PGDM at Great Lakes Chennai?
     answer: >-
-      PGPM is an accelerated 1-year full-time MBA designed specifically for candidates with more than 2 years (24+ months) of work experience. PGDM is a traditional 2-year MBA meant for freshers and candidates with 0 to 24 months of experience.
+      PGPM is an accelerated 1-year full-time MBA designed specifically for
+      candidates with more than 2 years (24+ months) of work experience. PGDM is
+      a traditional 2-year MBA meant for freshers and candidates with 0 to 24
+      months of experience.
   - question: Does Great Lakes Chennai accept CMAT scores?
     answer: >-
-      Yes, Great Lakes accepts CMAT scores (typically 95+ percentile) for its 2-year PGDM program. However, for the 1-year PGPM, only CAT, XAT, and GMAT scores are accepted.
+      Yes, Great Lakes accepts CMAT scores (typically 95+ percentile) for its
+      2-year PGDM program. However, for the 1-year PGPM, only CAT, XAT, and GMAT
+      scores are accepted.
   - question: What was the average package at Great Lakes Chennai for the recent batch?
     answer: >-
-      The flagship 1-year PGPM recorded an average salary of ₹17.30 to ₹18.10 LPA, while the 2-year PGDM recorded an average salary of ₹15.10 to ₹15.30 LPA.
+      The flagship 1-year PGPM recorded an average salary of ₹17.30 to ₹18.10
+      LPA, while the 2-year PGDM recorded an average salary of ₹15.10 to ₹15.30
+      LPA.
   - question: How is the campus life at Great Lakes Chennai?
     answer: >-
-      The campus is a 30-acre LEED Platinum certified green paradise located along the East Coast Road, offering 100% air-conditioned residential hostels, world-class sporting facilities, and an active corporate festival environment.
+      The campus is a 30-acre LEED Platinum certified green paradise located
+      along the East Coast Road, offering 100% air-conditioned residential
+      hostels, world-class sporting facilities, and an active corporate festival
+      environment.
 location: Chennai
 state: Tamil Nadu
 ---

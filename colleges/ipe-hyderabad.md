@@ -1,7 +1,7 @@
 ---
 name: Institute of Public Enterprise (IPE Hyderabad)
 logo: /logo.webp
-location: 'Shamirpet, Hyderabad, Telangana'
+location: Hyderabad
 category: Management
 type: Institute
 courses:
@@ -57,6 +57,13 @@ keywords:
   - Institute of Public Enterprise (IPE Hyderabad) PGDM placement
   - Institute of Public Enterprise (IPE Hyderabad) MBA admission 2027
   - 'MBA colleges Shamirpet, Hyderabad, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### About Institute of Public Enterprise (IPE Hyderabad)

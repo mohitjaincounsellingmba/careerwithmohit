@@ -1,7 +1,7 @@
 ---
 title: 'BBA Specializations in Delhi NCR 2026: Finance, Marketing, HR, IB & Analytics'
 date: '2026-05-21'
-category: BBA Course Details
+category: BBA
 description: >-
   Confused about choosing a BBA specialization? Read our 2026 guide comparing
   Finance, Marketing, HR, IB, and Analytics specializations in Delhi NCR.
@@ -39,9 +39,14 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 Choosing the right specialization is as important as choosing the right college. A general BBA gives you a broad overview of business, but selecting a specialization helps you build targeted skills that recruiters actively look for.
 
 In Delhi NCR, colleges have updated their curriculums to meet modern business needs. 

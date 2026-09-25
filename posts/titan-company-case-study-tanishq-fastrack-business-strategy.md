@@ -1,7 +1,13 @@
 ---
-title: "Titan Company Case Study: Strategic Disruption in Watches, Jewelry (Tanishq) & Retail"
-date: "2026-08-22"
-description: "In-depth Titan Company Case Study for MBA students & CAT aspirants. Discover how Titan disrupted watches, turned around Tanishq jewelry, built iconic sub-brands like Fastrack, and scaled retail excellence."
+title: >-
+  Titan Company Case Study: Strategic Disruption in Watches, Jewelry (Tanishq) &
+  Retail
+date: '2026-08-22'
+description: >-
+  In-depth Titan Company Case Study for MBA students & CAT aspirants. Discover
+  how Titan disrupted watches, turned around Tanishq jewelry, built iconic
+  sub-brands like Fastrack, and scaled retail excellence for 2026-2027
+  admissions & career guidance.
 keywords:
   - Titan Company case study
   - Tanishq business model case study
@@ -10,12 +16,26 @@ keywords:
   - Tata Group business case study
   - MBA case study for interview preparation
 faqs:
-  - question: "Why is Titan Company considered a masterclass in strategic brand positioning?"
-    answer: "Titan transformed watches from a commoditized functional device (HMT mechanical movement) into a stylish fashion accessory using quartz technology, multi-brand segmentation (Fastrack, Sonata, Titan, Raga), and exclusive experience retailing."
-  - question: "How did Titan turn around Tanishq from initial losses to market dominance?"
-    answer: "Tanishq initially struggled with Westernized designs. The turnaround came by adapting to local Indian bridal designs and introducing the 'Karatmeter'—a transparent purity testing device that exposed purity cheat codes in unorganized gold markets, building unprecedented consumer trust."
-  - question: "What are the main business segments of Titan Company Limited?"
-    answer: "Titan operates across Watches & Wearables, Jewelry (Tanishq, Mia, Zoya, CaratLane), EyeCare (Titan Eyeplus), and Emerging Businesses (Skinn fragrances and Taneira ethnic wear)."
+  - question: >-
+      Why is Titan Company considered a masterclass in strategic brand
+      positioning?
+    answer: >-
+      Titan transformed watches from a commoditized functional device (HMT
+      mechanical movement) into a stylish fashion accessory using quartz
+      technology, multi-brand segmentation (Fastrack, Sonata, Titan, Raga), and
+      exclusive experience retailing.
+  - question: How did Titan turn around Tanishq from initial losses to market dominance?
+    answer: >-
+      Tanishq initially struggled with Westernized designs. The turnaround came
+      by adapting to local Indian bridal designs and introducing the
+      'Karatmeter'—a transparent purity testing device that exposed purity cheat
+      codes in unorganized gold markets, building unprecedented consumer trust.
+  - question: What are the main business segments of Titan Company Limited?
+    answer: >-
+      Titan operates across Watches & Wearables, Jewelry (Tanishq, Mia, Zoya,
+      CaratLane), EyeCare (Titan Eyeplus), and Emerging Businesses (Skinn
+      fragrances and Taneira ethnic wear).
+category: MBA
 ---
 
 In the landscape of Indian corporate history, few business stories match the strategic brilliance, market disruption, and brand-building prowess of **Titan Company Limited**. A joint venture established in 1984 between the **Tata Group** and the **Tamil Nadu Industrial Development Corporation (TIDCO)** under the visionary leadership of **Xerxes Desai**, Titan single-handedly transformed two legacy, unorganized Indian industries: **Watches** and **Jewelry**.

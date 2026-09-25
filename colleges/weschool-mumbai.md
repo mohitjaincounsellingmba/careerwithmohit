@@ -1,7 +1,7 @@
 ---
 name: Welingkar Institute of Management Development & Research (WeSchool Mumbai)
 logo: /logo.webp
-location: 'Matunga, Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -88,6 +88,13 @@ keywords:
     Welingkar Institute of Management Development & Research (WeSchool Mumbai)
     MBA admission 2027
   - 'MBA colleges Matunga, Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About Welingkar Institute of Management Development & Research (WeSchool Mumbai)

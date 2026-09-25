@@ -1,9 +1,15 @@
 ---
-title: 'PSG Institute of Management (PSGIM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  PSG Institute of Management (PSGIM) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive PSG Institute of Management (PSGIM) (Coimbatore, Tamil Nadu) review for 2027 admissions. Explore audited fee structure (₹8.50 Lakhs (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹19.50 LPA), entrance exam cutoffs (CAT, MAT, TANCET, ATMA), NIRF ranking, and student verdict.
+  Comprehensive PSG Institute of Management (PSGIM) (Coimbatore, Tamil Nadu)
+  review for 2027 admissions. Explore audited fee structure (₹8.50 Lakhs
+  (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹19.50 LPA),
+  entrance exam cutoffs (CAT, MAT, TANCET, ATMA), NIRF ranking, and student
+  verdict.
 keywords:
   - psg institute of management (psgim) review 2027
   - psg institute of management (psgim) mba fees
@@ -17,20 +23,42 @@ keywords:
   - best MBA colleges in Tamil Nadu
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: What is the average package at PSG Institute of Management (PSGIM) in recent placement drives?
+  - question: >-
+      What is the average package at PSG Institute of Management (PSGIM) in
+      recent placement drives?
     answer: >-
-      The overall average placement package at PSG Institute of Management (PSGIM) stands at approximately ₹7.80 LPA, with the median package around ₹5.50 LPA and top offers reaching ₹19.50 LPA.
-  - question: What entrance exams are accepted for admission to PSG Institute of Management (PSGIM)?
+      The overall average placement package at PSG Institute of Management
+      (PSGIM) stands at approximately ₹7.80 LPA, with the median package around
+      ₹5.50 LPA and top offers reaching ₹19.50 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to PSG Institute of
+      Management (PSGIM)?
     answer: >-
-      PSG Institute of Management (PSGIM) accepts scores from CAT, MAT, TANCET, ATMA for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at PSG Institute of Management (PSGIM) for the 2-year MBA / PGDM program?
+      PSG Institute of Management (PSGIM) accepts scores from CAT, MAT, TANCET,
+      ATMA for shortlisting eligible candidates, followed by profile evaluation
+      and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at PSG Institute of Management (PSGIM) for
+      the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹8.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does PSG Institute of Management (PSGIM) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹8.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does PSG Institute of Management (PSGIM) offer merit-based scholarships or
+      financial assistance?
     answer: >-
-      Yes, PSG Institute of Management (PSGIM) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
-location: Coimbatore
+      Yes, PSG Institute of Management (PSGIM) provides merit scholarships to
+      high scorers in entrance tests, tuition fee waivers for economically
+      weaker candidates, and assistance for collateral-free bank loans.
+location: Chennai
 state: Tamil Nadu
 ---
 

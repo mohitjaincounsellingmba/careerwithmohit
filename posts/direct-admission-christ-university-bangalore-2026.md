@@ -40,7 +40,13 @@ faqs:
       intake.
 location: Bangalore
 state: Karnataka
+category: Online Degrees
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
+
 
 Christ University, Bangalore, is one of the most prestigious private universities in India. Known for its rigorous academic discipline and excellent placement records, it is a top choice for MBA aspirants. If you missed out on high-percentile entrance scores, securing a seat through **Direct Admission or Management Quota** is a viable option for the 2027–29 batch.
 

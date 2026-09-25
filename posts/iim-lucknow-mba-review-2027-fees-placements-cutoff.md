@@ -1,9 +1,12 @@
 ---
 title: 'IIM Lucknow Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Lucknow (Prabandh Nagar, Lucknow, Uttar Pradesh) review for 2027 admissions. Explore audited fee structure (₹20.75 Lakhs (Total)), latest placement packages (Avg: ₹32.20 LPA, Highest: ₹1.00 Crore), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Lucknow (Prabandh Nagar, Lucknow, Uttar Pradesh) review for
+  2027 admissions. Explore audited fee structure (₹20.75 Lakhs (Total)), latest
+  placement packages (Avg: ₹32.20 LPA, Highest: ₹1.00 Crore), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim lucknow review 2027
   - iim lucknow mba fees
@@ -20,16 +23,25 @@ keywords:
 faqs:
   - question: What is the average package at IIM Lucknow in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Lucknow stands at approximately ₹32.20 LPA, with the median package around ₹18.00 LPA and top offers reaching ₹1.00 Crore.
+      The overall average placement package at IIM Lucknow stands at
+      approximately ₹32.20 LPA, with the median package around ₹18.00 LPA and
+      top offers reaching ₹1.00 Crore.
   - question: What entrance exams are accepted for admission to IIM Lucknow?
     answer: >-
-      IIM Lucknow accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Lucknow for the 2-year MBA / PGDM program?
+      IIM Lucknow accepts scores from CAT for shortlisting eligible candidates,
+      followed by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Lucknow for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹20.75 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹20.75 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Lucknow offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Lucknow provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Lucknow provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Prabandh Nagar
 state: Lucknow
 ---

@@ -43,9 +43,15 @@ faqs:
     answer: >-
       XLRI accepts only Xavier Aptitude Test (XAT) scores and GMAT (for
       NRI/Foreign/Executive candidates).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹31.08 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **Xavier School of Management (XLRI)**, with campuses in **Jamshedpur** and **Delhi-NCR**, is India's oldest management institute and the undisputed #1 destination in Asia for Human Resource Management (HRM) and Business Management (BM).
 

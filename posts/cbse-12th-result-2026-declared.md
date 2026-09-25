@@ -30,7 +30,13 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The long wait for millions of students is finally over! The **Central Board of Secondary Education (CBSE)** has officially declared the **Class 12 Board Results for 2026 today, May 13, 2026**. 
 
 Whether you are aiming for a top-tier engineering college or a prestigious university, your scorecard is now just a click away. Here is everything you need to know about the CBSE 12th result announcement, pass percentages, and how to check your marks.

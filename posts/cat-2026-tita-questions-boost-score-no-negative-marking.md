@@ -28,7 +28,13 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 One of the most unique aspects of the Common Admission Test (CAT) is the inclusion of **TITA (Type In The Answer)** questions. Introduced in 2015, TITA questions are non-MCQ questions where candidates do not choose from multiple-choice options. Instead, they must type their calculated answer using an on-screen virtual keyboard.
 
 The biggest advantage of TITA questions is simple yet powerful: **they carry zero negative marking**. While a wrong MCQ answer deducts 1 mark, a wrong TITA answer results in 0 marks deducted.

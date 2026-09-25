@@ -1,7 +1,7 @@
 ---
 title: 'IIHMR University PGDM Admission Review 2026: Placements, Fees & Cutoff'
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for IIHMR
   University PGDM Admission Review 2026: Placements, Fees & Cutoff. Check
@@ -20,6 +20,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is IIHMR University a good option for PGDM/MBA?
     answer: >-
@@ -34,7 +38,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

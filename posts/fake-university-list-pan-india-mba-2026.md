@@ -3,7 +3,7 @@ title: >-
   Fake University List Pan India for MBA 2026: UGC & AICTE Blacklist in Delhi
   NCR, Bangalore, Kolkata, Pune, Mumbai, Jaipur & Dehradun
 date: '2026-08-12'
-category: MBA
+category: Exams
 description: >-
   Official UGC & AICTE fake university list pan-India for MBA 2026. Check
   blacklisted institutes and unrecognized B-schools in Delhi NCR, Bangalore,
@@ -69,7 +69,7 @@ faqs:
       Distance Education Bureau (deb.ugc.ac.in) for online/distance MBA
       approvals. Always cross-verify the exact campus name, address, and
       year-by-year approval letter.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

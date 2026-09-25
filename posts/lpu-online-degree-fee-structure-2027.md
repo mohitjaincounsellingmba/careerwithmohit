@@ -36,6 +36,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Chandigarh
 state: Punjab
+category: Online Degrees
 ---
 # LPU Online Fee Structure (2027): Complete Program-Wise Breakdown & Scholarships
 

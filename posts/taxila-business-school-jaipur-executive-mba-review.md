@@ -20,7 +20,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-category: MBA
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+category: Exams
 faqs:
   - question: Is Taxila Business School AICTE approved?
     answer: >-
@@ -34,9 +38,14 @@ faqs:
     answer: >-
       Yes, Taxila provides dedicated placement support to help candidates
       transition laterally.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 Running a career upgrade requires choosing the right management program. For working professionals in Jaipur, the Executive MBA / Executive PGDM offered by [Taxila Business School, Jaipur](/colleges/taxila-jaipur) represents a powerful gateway to higher senior leadership positions.
 

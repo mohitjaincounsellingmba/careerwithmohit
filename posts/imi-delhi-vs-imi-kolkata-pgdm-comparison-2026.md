@@ -37,9 +37,15 @@ faqs:
       usually requiring a 80+ percentile score.
   - question: Which campus is better for Finance?
     answer: "[IMI Delhi](/colleges/imi-delhi) is widely considered better for Finance due to its heavy recruitment cycles from top global investment banks.\n\n[\U0001F449 Compare IMI campuses with IMT and other B-Schools!](/tools/college-comparison)\n\n**Struggling to justify the loan for [IMI Delhi](/colleges/imi-delhi)?**\nAt **CareerWithMohit**, we help you calculate your individual ROI and career trajectory to ensure you make the right investment.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **International Management Institute (IMI)** is one of the "Old Guard" in Indian management education, with its Delhi campus consistently ranking in the Top 30 nationwide. But with the high fees at its **Delhi** flagship campus and the competitive metropolitan edge of its **Kolkata** campus, aspirants are asking: **"Which is the real winner in 2026?"**
 

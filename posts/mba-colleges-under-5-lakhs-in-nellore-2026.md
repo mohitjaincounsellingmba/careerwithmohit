@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Nellore 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options in Nellore? Check our list of the best MBA
   colleges under 5 lakhs in Nellore for 2026, comparing fees, entrance exams,

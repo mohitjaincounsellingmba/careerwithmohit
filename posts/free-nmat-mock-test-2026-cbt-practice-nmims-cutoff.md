@@ -3,7 +3,7 @@ title: >-
   Free NMAT Mock Test 2026: Full 108-Question CBT Simulation with NMIMS Cutoff
   Predictor
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Take the 100% free full-length NMAT 2026 CBT Mock Test. Practice 108 questions
   across Language (28m), Quantitative (52m), and Logical Reasoning (40m) with

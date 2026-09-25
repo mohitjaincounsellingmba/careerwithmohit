@@ -45,7 +45,13 @@ faqs:
       guess every remaining question before time expires in a section.
 location: Mumbai
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **NMAT by GMAC 2026-27** stands out as one of the most candidate-friendly yet strategically nuanced MBA entrance examinations in India. Unlike exams like CAT or XAT, NMAT provides candidates with a testing window of up to **three attempts** (one main exam and two retakes). However, when your primary target is the prestigious **School of Business Management at [NMIMS Mumbai](/colleges/nmims-mumbai)**, this multi-attempt feature comes with a critical caveat that many aspirants overlook to their detriment.
 
@@ -271,7 +277,7 @@ Leaving questions unattempted carries a heavy penalty in GMAC's adaptive scaling
 
 Succeeding in NMAT requires combining speed, accuracy, and smart attempt strategy. Focus your preparation on hitting your peak score in **Attempt 1** to secure your seat at [NMIMS Mumbai](/colleges/nmims-mumbai), while keeping Attempts 2 and 3 ready as strategic backups for top-tier B-schools across India.
 
-For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2026](/posts/all-about-nmat-exam), [NMIMS Campuses Review](/posts/all-about-nmims-campuses), and [CAT Exam Preparation Strategy](/posts/all-about-cat-exam).
+For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2026](/blog/all-about-nmat-exam), [NMIMS Campuses Review](/blog/all-about-nmims-campuses), and [CAT Exam Preparation Strategy](/blog/all-about-cat-exam).
 
 ---
 

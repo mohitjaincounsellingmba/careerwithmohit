@@ -1,7 +1,7 @@
 ---
 title: 'SIBM Noida Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of SIBM Noida covering MBA/PGDM fee structures,
   highest and average placements (₹11.20 LPA), entrance exam cutoffs, ROI
@@ -37,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at SIBM Noida is
       approximately ₹16.0 Lakhs (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

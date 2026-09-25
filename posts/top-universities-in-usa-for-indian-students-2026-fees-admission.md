@@ -28,6 +28,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: Study Abroad
 ---
 The United States of America remains the **#1 study abroad destination** for Indian students — and for good reason. With over 4,000 accredited institutions, a culture of innovation, and world-class research facilities, a US degree opens doors globally. Whether you are targeting a UG program, Master's, or MBA, this guide covers every major university available to Indian students in 2026 — with fees converted to INR.
 

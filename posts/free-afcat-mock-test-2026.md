@@ -34,6 +34,11 @@ faqs:
       percentile, which is the benchmark for getting call letters from the top 3
       IIMs (A, B, C).
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 Succeeding in the **AFCAT 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]

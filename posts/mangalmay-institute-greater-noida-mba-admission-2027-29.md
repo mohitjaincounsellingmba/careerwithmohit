@@ -3,7 +3,7 @@ title: >-
   Mangalmay Institute of Management and Technology MBA / PGDM Admission 2027-29:
   Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
   Complete 2027-29 admission guide for Mangalmay Institute of Management and
   Technology (Mangalmay Greater Noida). Verified fee structure (₹3.25 Lakhs
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the total fee for the MBA (2027–29) Batch at Mangalmay Greater
@@ -76,8 +80,8 @@ faqs:
       directly with senior career counselor Mohit Jain (+91 9560020771) for
       profile evaluation, GD-PI tips, scholarship calculation, and admission
       guidance.
-location: Noida
-state: Pan India
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Mangalmay Institute of Management and Technology Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

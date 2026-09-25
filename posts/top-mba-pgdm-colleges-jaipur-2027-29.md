@@ -3,7 +3,7 @@ title: >-
   Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placement
   Reports (2027-29)
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Guide to top MBA and PGDM colleges in Jaipur for 2027-29. Explore admission
   criteria, merit scholarship schemes (up to ₹3 Lakhs), fees, and placement

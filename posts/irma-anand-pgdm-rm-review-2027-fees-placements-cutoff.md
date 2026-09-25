@@ -1,9 +1,16 @@
 ---
-title: 'Institute of Rural Management Anand (IRMA) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Institute of Rural Management Anand (IRMA) Review 2027: Fees, Placements,
+  Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
-  In-depth Institute of Rural Management Anand (IRMA) (Anand Campus) review for 2027 admissions. Explore verified fee structure (₹18.60 Lakhs (2 Years Complete Residential including field immersions)), latest placements (avg ₹15.50 – ₹16.10 LPA, highest ₹31.16 LPA), cutoffs (CAT: 80–85 Percentile; XAT: 80–85 Percentile; CMAT: 90%+ (followed by IRMA Social Awareness Test / WAT-PI)), and student verdict.
+  In-depth Institute of Rural Management Anand (IRMA) (Anand Campus) review for
+  2027 admissions. Explore verified fee structure (₹18.60 Lakhs (2 Years
+  Complete Residential including field immersions)), latest placements (avg
+  ₹15.50 – ₹16.10 LPA, highest ₹31.16 LPA), cutoffs (CAT: 80–85 Percentile; XAT:
+  80–85 Percentile; CMAT: 90%+ (followed by IRMA Social Awareness Test /
+  WAT-PI)), and student verdict.
 keywords:
   - institute of rural management anand (irma) review 2027
   - institute of rural management anand (irma) fees
@@ -13,23 +20,33 @@ keywords:
   - institute of rural management anand (irma) cutoff cat xat gmat
   - institute of rural management anand (irma) admission process 2027
   - institute of rural management anand (irma) ranking
-  - Anand, Gujarat MBA colleges
+  - 'Anand, Gujarat MBA colleges'
   - best MBA colleges in Gujarat
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
 faqs:
   - question: Is IRMA only for NGO and social work jobs?
     answer: >-
-      No, this is a major myth. More than 80% of IRMA graduates work in leading corporate firms like Amul, ITC, Godrej Agrovet, HDFC Bank, Axis Bank, Big 4 consulting firms, and modern supply chain giants with corporate compensation structures.
+      No, this is a major myth. More than 80% of IRMA graduates work in leading
+      corporate firms like Amul, ITC, Godrej Agrovet, HDFC Bank, Axis Bank, Big
+      4 consulting firms, and modern supply chain giants with corporate
+      compensation structures.
   - question: What is the cutoff for IRMA Anand?
     answer: >-
-      IRMA accepts CAT and XAT scores with cutoffs around 80–85 percentile, and CMAT scores around 90+ percentile, followed by the IRMASAT / Personal Interview process.
+      IRMA accepts CAT and XAT scores with cutoffs around 80–85 percentile, and
+      CMAT scores around 90+ percentile, followed by the IRMASAT / Personal
+      Interview process.
   - question: What is the average placement package at IRMA Anand?
     answer: >-
-      The average CTC for IRMA graduates is ₹15.50 to ₹16.10 LPA, with the median package at ₹15.00 LPA and the highest domestic offer reaching ₹31.16 LPA.
+      The average CTC for IRMA graduates is ₹15.50 to ₹16.10 LPA, with the
+      median package at ₹15.00 LPA and the highest domestic offer reaching
+      ₹31.16 LPA.
   - question: What is the Village Fieldwork Segment (VWS/FWS) at IRMA?
     answer: >-
-      The Fieldwork Segment is a signature 7-week immersion where students live in rural communities across Indian states to understand ground realities, rural consumption patterns, and grassroots operational bottlenecks firsthand.
+      The Fieldwork Segment is a signature 7-week immersion where students live
+      in rural communities across Indian states to understand ground realities,
+      rural consumption patterns, and grassroots operational bottlenecks
+      firsthand.
 location: Anand
 state: Gujarat
 ---

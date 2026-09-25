@@ -38,9 +38,15 @@ faqs:
     answer: >-
       Yes, the campus has separate hostels for boys and girls with 24/7
       security, Wi-Fi, and mess facilities.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: GL Bajaj Greater Noida**
 *   **Academic Powerhouse**: Famous for its rigorous training and result-oriented approach in Greater Noida.

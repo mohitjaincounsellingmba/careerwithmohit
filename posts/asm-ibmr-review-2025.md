@@ -35,7 +35,13 @@ faqs:
       reliable benchmark for students.
 location: Pune
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 ASM's Institute of Business Management & Research (IBMR) is one of the oldest management institutes in Pune. Located in the industrial heart of Chinchwad, it has been a cornerstone of management education for decades.
 
 ### **Quick Highlights (2025 Batch):**

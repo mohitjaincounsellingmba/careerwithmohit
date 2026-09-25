@@ -26,6 +26,7 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: Online Degrees
 ---
 Pondicherry University is a central university established in 1985 that offers a vast range of undergraduate (UG), postgraduate (PG), and doctoral programs. Recognized for its affordability, quality education, and vibrant campus life, it attracts students from across the country.
 
@@ -39,6 +40,11 @@ The admission process is centralized through the **Common University Entrance Te
 #
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 ## 📊 CUET Cutoff Trends
 

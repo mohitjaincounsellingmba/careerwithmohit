@@ -1,7 +1,7 @@
 ---
 title: Minimum Marks & Stream Eligibility for BBA in Delhi NCR Colleges 2026
 date: '2026-05-21'
-category: BBA Admissions
+category: BBA
 description: >-
   Confused about BBA eligibility? Read our 2026 guide on minimum marks, stream
   eligibility (Science/Commerce/Arts), and maths requirements in Delhi NCR.
@@ -39,9 +39,14 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 One of the most common questions undergraduate management aspirants ask is: *"Am I eligible for a BBA program if I am from the Arts or Science stream?"* or *"Do I need Mathematics in Class 12 to pursue BBA in Delhi NCR?"*
 
 Eligibility rules vary significantly between universities. To help you plan your admissions, here is a complete breakdown of **minimum marks, stream eligibility, and subject requirements for BBA in Delhi NCR for 2026**.

@@ -1,9 +1,15 @@
 ---
-title: 'International School of Management Studies (ISMS Pune) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  International School of Management Studies (ISMS Pune) MBA / PGDM Admission
+  2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for International School of Management Studies (ISMS Pune) (ISMS Pune). Verified fee structure (₹7.25 Lakhs (India Track) / ₹14.50 Lakhs (British MBA Pathway)), MBA / PGDM approvals, audited placements (Avg ₹8.00 LPA, Highest ₹19.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for International School of Management
+  Studies (ISMS Pune) (ISMS Pune). Verified fee structure (₹7.25 Lakhs (India
+  Track) / ₹14.50 Lakhs (British MBA Pathway)), MBA / PGDM approvals, audited
+  placements (Avg ₹8.00 LPA, Highest ₹19.00 LPA), PPO stats, certifications,
+  awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - International School of Management Studies (ISMS Pune) admission 2027-29
   - ISMS Pune fees 2027
@@ -17,27 +23,51 @@ keywords:
   - best MBA PGDM colleges in Pune
   - direct admission in ISMS Pune
   - MBA Career Counselling Mohit Jain
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at ISMS Pune?
     answer: >-
-      The total course fee for the 2-year MBA / PGDM program at International School of Management Studies (ISMS Pune) for the 2027–29 batch is ₹7.25 Lakhs (India Track) / ₹14.50 Lakhs (British MBA Pathway) (₹3.62 Lakhs / Year (India Track)). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA / PGDM program at International
+      School of Management Studies (ISMS Pune) for the 2027–29 batch is ₹7.25
+      Lakhs (India Track) / ₹14.50 Lakhs (British MBA Pathway) (₹3.62 Lakhs /
+      Year (India Track)). Various merit and category scholarships are available
+      for deserving candidates.
   - question: Which statutory approvals and accreditations does ISMS Pune hold?
     answer: >-
-      International School of Management Studies (ISMS Pune) holds AICTE Approved · Pearson Assured · UK University Collaborations, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      International School of Management Studies (ISMS Pune) holds AICTE
+      Approved · Pearson Assured · UK University Collaborations, ensuring valid
+      degree equivalence, eligibility for government jobs, and global corporate
+      recognition.
   - question: What are the placement statistics (Average and Highest CTC) at ISMS Pune?
     answer: >-
-      For recent placement drives, ISMS Pune recorded an average salary package of ₹8.00 LPA (Top 25% averaging ₹11.00 LPA) and a peak highest CTC of ₹19.00 LPA, with leading recruiters including KPMG, Capgemini, Tech Mahindra, Wipro.
-  - question: Does ISMS Pune offer Pre-Placement Offers (PPOs) and paid summer internships?
-    answer: >-
-      Yes, 24% of students secure PPOs in Hinjawadi IT & consulting firms.
+      For recent placement drives, ISMS Pune recorded an average salary package
+      of ₹8.00 LPA (Top 25% averaging ₹11.00 LPA) and a peak highest CTC of
+      ₹19.00 LPA, with leading recruiters including KPMG, Capgemini, Tech
+      Mahindra, Wipro.
+  - question: >-
+      Does ISMS Pune offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
+    answer: 'Yes, 24% of students secure PPOs in Hinjawadi IT & consulting firms.'
   - question: What value-added certifications are provided to students at ISMS Pune?
     answer: >-
-      Students receive embedded industry certifications including Pearson BTEC Level 7 Extended Diploma, Digital Marketing Strategy, Business Analytics & Power BI, Global Supply Chain & Trade.
-  - question: How can students apply for admission or get counseling for ISMS Pune for 2027–29?
+      Students receive embedded industry certifications including Pearson BTEC
+      Level 7 Extended Diploma, Digital Marketing Strategy, Business Analytics &
+      Power BI, Global Supply Chain & Trade.
+  - question: >-
+      How can students apply for admission or get counseling for ISMS Pune for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Pune
-state: Pan India
+state: Maharashtra
 ---
 
 # International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

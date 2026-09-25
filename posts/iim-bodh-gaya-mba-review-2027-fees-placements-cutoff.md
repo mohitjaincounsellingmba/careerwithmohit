@@ -1,9 +1,14 @@
 ---
-title: 'IIM Bodh Gaya Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Bodh Gaya Review 2027: Fees, Placements, Cutoff, Ranking & Admission
+  Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Bodh Gaya (Bodh Gaya, Bihar) review for 2027 admissions. Explore audited fee structure (₹17.00 Lakhs (Total)), latest placement packages (Avg: ₹15.68 LPA, Highest: ₹48.58 LPA), entrance exam cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Bodh Gaya (Bodh Gaya, Bihar) review for 2027 admissions.
+  Explore audited fee structure (₹17.00 Lakhs (Total)), latest placement
+  packages (Avg: ₹15.68 LPA, Highest: ₹48.58 LPA), entrance exam cutoffs (CAT,
+  IPMAT), NIRF ranking, and student verdict.
 keywords:
   - iim bodh gaya review 2027
   - iim bodh gaya mba fees
@@ -20,16 +25,26 @@ keywords:
 faqs:
   - question: What is the average package at IIM Bodh Gaya in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Bodh Gaya stands at approximately ₹15.68 LPA, with the median package around ₹10.00 LPA and top offers reaching ₹48.58 LPA.
+      The overall average placement package at IIM Bodh Gaya stands at
+      approximately ₹15.68 LPA, with the median package around ₹10.00 LPA and
+      top offers reaching ₹48.58 LPA.
   - question: What entrance exams are accepted for admission to IIM Bodh Gaya?
     answer: >-
-      IIM Bodh Gaya accepts scores from CAT, IPMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Bodh Gaya for the 2-year MBA / PGDM program?
+      IIM Bodh Gaya accepts scores from CAT, IPMAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Bodh Gaya for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.00 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹17.00 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Bodh Gaya offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Bodh Gaya provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Bodh Gaya provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Bodh Gaya
 state: Bihar
 ---

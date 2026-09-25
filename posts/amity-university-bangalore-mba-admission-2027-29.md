@@ -1,9 +1,14 @@
 ---
-title: 'Amity University Bengaluru MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Amity University Bengaluru MBA / PGDM Admission 2027-29: Fees, Approvals,
+  Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Amity University Bengaluru (Amity Bangalore). Verified fee structure (₹11.52 Lakhs (Total)), MBA approvals, audited placements (Avg ₹7.50 LPA, Highest ₹20.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Amity University Bengaluru (Amity
+  Bangalore). Verified fee structure (₹11.52 Lakhs (Total)), MBA approvals,
+  audited placements (Avg ₹7.50 LPA, Highest ₹20.00 LPA), PPO stats,
+  certifications, awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - Amity University Bengaluru admission 2027-29
   - Amity Bangalore fees 2027
@@ -17,27 +22,55 @@ keywords:
   - best MBA PGDM colleges in Bangalore
   - direct admission in Amity Bangalore
   - MBA Career Counselling Mohit Jain
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Amity Bangalore?
     answer: >-
-      The total course fee for the 2-year MBA program at Amity University Bengaluru for the 2027–29 batch is ₹11.52 Lakhs (Total) (₹5.76 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at Amity University
+      Bengaluru for the 2027–29 batch is ₹11.52 Lakhs (Total) (₹5.76 Lakhs per
+      Year). Various merit and category scholarships are available for deserving
+      candidates.
   - question: Which statutory approvals and accreditations does Amity Bangalore hold?
     answer: >-
-      Amity University Bengaluru holds UGC Approved State Private University, Govt. of Karnataka, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Amity Bangalore?
+      Amity University Bengaluru holds UGC Approved State Private University,
+      Govt. of Karnataka, ensuring valid degree equivalence, eligibility for
+      government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Amity
+      Bangalore?
     answer: >-
-      For recent placement drives, Amity Bangalore recorded an average salary package of ₹7.50 LPA (Top 25% averaging ₹10.00 LPA) and a peak highest CTC of ₹20.00 LPA, with leading recruiters including Accenture, EY, Infosys, Capgemini.
-  - question: Does Amity Bangalore offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Amity Bangalore recorded an average salary
+      package of ₹7.50 LPA (Top 25% averaging ₹10.00 LPA) and a peak highest CTC
+      of ₹20.00 LPA, with leading recruiters including Accenture, EY, Infosys,
+      Capgemini.
+  - question: >-
+      Does Amity Bangalore offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 20% PPO conversion through Amity Corporate Resource Centre (CRC) linkages.
-  - question: What value-added certifications are provided to students at Amity Bangalore?
+      Yes, 20% PPO conversion through Amity Corporate Resource Centre (CRC)
+      linkages.
+  - question: >-
+      What value-added certifications are provided to students at Amity
+      Bangalore?
     answer: >-
-      Students receive embedded industry certifications including Corporate Resource Centre (CRC) Certifications, Digital Technologies & CRM, Foreign Language Proficiency, Lean Six Sigma.
-  - question: How can students apply for admission or get counseling for Amity Bangalore for 2027–29?
+      Students receive embedded industry certifications including Corporate
+      Resource Centre (CRC) Certifications, Digital Technologies & CRM, Foreign
+      Language Proficiency, Lean Six Sigma.
+  - question: >-
+      How can students apply for admission or get counseling for Amity Bangalore
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Bangalore
-state: Pan India
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Amity University](/colleges/amity-noida) Bengaluru Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

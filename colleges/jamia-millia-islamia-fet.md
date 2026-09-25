@@ -1,7 +1,7 @@
 ---
 name: 'Faculty of Engineering & Technology, Jamia Millia Islamia (JMI)'
 logo: ''
-location: 'New Delhi, Delhi'
+location: Delhi NCR
 state: Delhi NCR
 category: Engineering
 type: Central University Faculty
@@ -75,6 +75,12 @@ keywords:
     Faculty of Engineering & Technology, Jamia Millia Islamia (JMI) B.Tech
     admission 2027
   - 'engineering colleges New Delhi, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 ---
 
 ### About Faculty of Engineering & Technology, Jamia Millia Islamia (JMI)

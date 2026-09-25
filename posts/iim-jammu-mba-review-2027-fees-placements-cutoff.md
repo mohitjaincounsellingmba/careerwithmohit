@@ -1,9 +1,12 @@
 ---
 title: 'IIM Jammu Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Jammu (Jagti, Jammu, Jammu and Kashmir) review for 2027 admissions. Explore audited fee structure (₹17.15 Lakhs (Total)), latest placement packages (Avg: ₹15.48 LPA, Highest: ₹64.00 LPA), entrance exam cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Jammu (Jagti, Jammu, Jammu and Kashmir) review for 2027
+  admissions. Explore audited fee structure (₹17.15 Lakhs (Total)), latest
+  placement packages (Avg: ₹15.48 LPA, Highest: ₹64.00 LPA), entrance exam
+  cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
 keywords:
   - iim jammu review 2027
   - iim jammu mba fees
@@ -20,16 +23,26 @@ keywords:
 faqs:
   - question: What is the average package at IIM Jammu in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Jammu stands at approximately ₹15.48 LPA, with the median package around ₹10.00 LPA and top offers reaching ₹64.00 LPA.
+      The overall average placement package at IIM Jammu stands at approximately
+      ₹15.48 LPA, with the median package around ₹10.00 LPA and top offers
+      reaching ₹64.00 LPA.
   - question: What entrance exams are accepted for admission to IIM Jammu?
     answer: >-
-      IIM Jammu accepts scores from CAT, IPMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Jammu for the 2-year MBA / PGDM program?
+      IIM Jammu accepts scores from CAT, IPMAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Jammu for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.15 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹17.15 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Jammu offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Jammu provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Jammu provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Jagti
 state: Jammu
 ---

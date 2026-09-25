@@ -39,8 +39,9 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: BBA
 ---
 Greater Noida, known for its wide roads and corporate Knowledge Parks, has become the "Education Hub of North India." It offers sprawling campuses and modern infrastructure that often surpasses the traditional city centers.
 

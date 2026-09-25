@@ -3,7 +3,7 @@ title: 'IILM Lodhi Road Delhi Review 2026: Placements & Infrastructure Highlight
 date: '2026-03-15'
 description: >-
   Review of IILM Lodhi Road (New Delhi). Explore the premium placement stats,
-  heritage campus, and elite faculty.
+  heritage campus, and elite faculty for 2026-2027 admissions & career guidance.
 keywords:
   - IILM Lodhi Road review 2026
   - IILM Delhi placement
@@ -37,9 +37,15 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹9.50 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 ### **College Review: IILM Lodhi Road**
 *   **Prestigious Address**: One of the most premium B-school locations in the heart of the national capital.
 *   **Corporate Legacy**: Decades of history in shaping some of India's top management professionals.

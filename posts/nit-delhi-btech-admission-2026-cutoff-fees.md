@@ -36,9 +36,15 @@ faqs:
       for CSE students.
   - question: Which entrance exam is needed for NIT Delhi?
     answer: Admission is strictly through JEE Main 2026 and JoSAA/CSAB counselling.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **National Institute of Technology (NIT) Delhi** is one of the fastest-growing NITs in the country. Initially operating from a temporary campus, it has now moved into its permanent, state-of-the-art facility in Narela, Delhi. Its proximity to the tech hub of the capital and its consistent climb in NIRF rankings (Ranked #65 in 2025) make it an elite choice for engineering aspirants.
 

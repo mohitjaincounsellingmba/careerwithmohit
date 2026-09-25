@@ -29,6 +29,7 @@ faqs:
       Yes, as per the latest NTA guidelines, both MCQs and Numerical Value
       Questions (NVQs) have negative marking. You get +4 for a correct answer
       and -1 for an incorrect one.
+category: B.Tech
 ---
 
 The **JEE Main 2026 Session 2 (April Attempt)** is one of the most critical exams for engineering aspirants in India. Once the exam is over, the first thing every student wants to know is: *"How many marks did I score?"* and *"What will be my percentile?"*

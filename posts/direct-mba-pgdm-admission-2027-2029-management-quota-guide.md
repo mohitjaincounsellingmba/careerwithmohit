@@ -13,7 +13,13 @@ keywords:
   - Management Quota MBA Admission 2027
   - Low Percentile MBA Colleges 2027-29
   - Profile Based MBA Admission India
-category: MBA
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+category: Exams
 image: /images/blog/direct-mba.webp
 faqs:
   - question: Is direct admission or management quota legal for MBA and PGDM in India?
@@ -35,6 +41,8 @@ faqs:
       Yes, once admitted into an AICTE or UGC-approved institution, there is
       zero discrimination. All students sit in the exact same placement drives
       and receive the same degree or diploma.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota & Eligibility Rules

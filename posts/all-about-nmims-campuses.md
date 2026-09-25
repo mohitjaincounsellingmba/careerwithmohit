@@ -27,6 +27,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does NMIMS accept CAT scores?
     answer: >-
@@ -44,9 +48,15 @@ faqs:
       campuses (Shirpur, Chandigarh, Indore) can participate in placement drives
       at the Mumbai campus, which significantly broadens their recruiter
       exposure.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹25.50 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.
 

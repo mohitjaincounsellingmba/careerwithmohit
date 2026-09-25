@@ -1,7 +1,7 @@
 ---
 title: Can I do BCA Without Maths? — Schools & Eligibility Guide 2026
 date: '2026-04-21'
-category: BCA Admissions
+category: BCA/MCA
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Can I do BCA
   Without Maths? — Schools & Eligibility Guide 2026. Check updated fees,
@@ -21,6 +21,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
     answer: >-
@@ -40,7 +44,7 @@ faqs:
       Yes, but you will need to take the **NIMCET** or other state exams, which
       typically have a Mathematics section. You will have to work harder on your
       maths prep during your BCA years.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

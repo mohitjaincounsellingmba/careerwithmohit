@@ -1,9 +1,14 @@
 ---
-title: 'IIM Kozhikode (IIM-K) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Kozhikode (IIM-K) Review 2027: Fees, Placements, Cutoff, Ranking &
+  Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Kozhikode (IIM-K) (Kozhikode, Kerala) review for 2027 admissions. Explore audited fee structure (₹22.50 Lakhs (Total)), latest placement packages (Avg: ₹31.02 LPA, Highest: ₹72.00 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Kozhikode (IIM-K) (Kozhikode, Kerala) review for 2027
+  admissions. Explore audited fee structure (₹22.50 Lakhs (Total)), latest
+  placement packages (Avg: ₹31.02 LPA, Highest: ₹72.00 LPA), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim kozhikode (iim-k) review 2027
   - iim kozhikode (iim-k) mba fees
@@ -18,18 +23,32 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at IIM Kozhikode (IIM-K) in recent placement drives?
+  - question: >-
+      What is the average package at IIM Kozhikode (IIM-K) in recent placement
+      drives?
     answer: >-
-      The overall average placement package at IIM Kozhikode (IIM-K) stands at approximately ₹31.02 LPA, with the median package around ₹18.00 LPA and top offers reaching ₹72.00 LPA.
+      The overall average placement package at IIM Kozhikode (IIM-K) stands at
+      approximately ₹31.02 LPA, with the median package around ₹18.00 LPA and
+      top offers reaching ₹72.00 LPA.
   - question: What entrance exams are accepted for admission to IIM Kozhikode (IIM-K)?
     answer: >-
-      IIM Kozhikode (IIM-K) accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Kozhikode (IIM-K) for the 2-year MBA / PGDM program?
+      IIM Kozhikode (IIM-K) accepts scores from CAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Kozhikode (IIM-K) for the 2-year MBA /
+      PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹22.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does IIM Kozhikode (IIM-K) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹22.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does IIM Kozhikode (IIM-K) offer merit-based scholarships or financial
+      assistance?
     answer: >-
-      Yes, IIM Kozhikode (IIM-K) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Kozhikode (IIM-K) provides merit scholarships to high scorers in
+      entrance tests, tuition fee waivers for economically weaker candidates,
+      and assistance for collateral-free bank loans.
 location: Kozhikode
 state: Kerala
 ---

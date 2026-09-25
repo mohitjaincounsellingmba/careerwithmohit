@@ -170,8 +170,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     return {
       url: `${baseUrl}/blog/${post.slug}/`,
       lastModified: postDate,
-      changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('monthly' as const) : ('yearly' as const)),
-      priority: isMockTestBlog ? 0.9 : (isRecent ? 0.8 : 0.3),
+      changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('weekly' as const) : ('monthly' as const)),
+      priority: isMockTestBlog ? 0.9 : (isRecent ? 0.85 : 0.8),
     };
   });
 

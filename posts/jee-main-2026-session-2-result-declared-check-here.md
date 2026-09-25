@@ -30,7 +30,13 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The wait is finally over! The **National Testing Agency (NTA)** has officially declared the results for the **JEE Main 2026 Session 2 (April Attempt)** today, **April 20, 2026**. lakhs of students who appeared for the exam between April 2 and April 9 can now access their final NTA scores and All India Ranks (AIR).
 
 With the declaration of the Session 2 results, NTA has also released the **final cutoff for JEE Advanced 2026**. Only the top 2,50,000 qualifiers will be eligible to appear for the JEE Advanced exam scheduled for next month.

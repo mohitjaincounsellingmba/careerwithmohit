@@ -88,7 +88,15 @@ export const metadata: Metadata = {
     },
   },
   other: {
-    "google-adsense-account": "ca-pub-4699585931687069"
+    "google-adsense-account": "ca-pub-4699585931687069",
+    "geo.region": "IN-DL",
+    "geo.placename": "Delhi NCR, India",
+    "geo.position": "28.6139;77.2090",
+    "ICBM": "28.6139, 77.2090",
+    "coverage": "Pan India, Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Jaipur, Kolkata, Chennai, Ahmedabad",
+    "distribution": "Global",
+    "rating": "General",
+    "ai-content-declaration": "human-authored-expert-guidance"
   }
 };
 
@@ -183,10 +191,24 @@ export default function RootLayout({
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Delhi NCR",
+      "addressRegion": "Delhi",
       "addressCountry": "IN"
     },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.6139",
+      "longitude": "77.2090"
+    },
     "areaServed": [
-      "Delhi NCR", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Hyderabad", "Jaipur", "Kolkata", "Pan India"
+      "Delhi NCR", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Hyderabad", "Jaipur", "Kolkata", "Chennai", "Ahmedabad", "Chandigarh", "Pan India"
+    ],
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "opens": "09:00",
+        "closes": "20:00"
+      }
     ],
     "contactPoint": {
       "@type": "ContactPoint",

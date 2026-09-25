@@ -1,7 +1,7 @@
 ---
 title: 'Top BCA Colleges in Kolkata 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
-category: BCA Admissions
+category: BCA/MCA
 description: >-
   Planning a BCA in Kolkata? Discover the best colleges like Heritage, IEM, and
   St. Xavier's. Compare 2026 fees, MAKAUT admission, and verified tech placement
@@ -21,6 +21,12 @@ keywords:
   - Kolkata Direct Admission 2026
   - Colleges in West Bengal
   - Kolkata Career Counselling
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Heritage Kolkata require Maths for BCA?
     answer: >-
@@ -38,9 +44,14 @@ faqs:
     answer: >-
       Usually in **May/June**, immediately after the WBHSE and CBSE Board
       results are declared.
-location: Kolkata
-state: West Bengal
+location: Delhi NCR
+state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 
 Kolkata, the "City of Joy" and the tech-gateway to East India, is a massive hub for computer application studies. With Sector V (Salt Lake) and Rajarhat housing global delivery centers of TCS, Cognizant, and IBM, Kolkata provides a unique mix of high-quality technical education and an affordable cost of living.
 

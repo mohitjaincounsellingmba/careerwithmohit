@@ -3,7 +3,8 @@ title: 'MABS Delhi Review 2026: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of [Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi).
-  Explore the 1.13 Cr highest package claim, modern infra, and faculty review.
+  Explore the 1.13 Cr highest package claim, modern infra, and faculty review
+  for 2026-2027 admissions & career guidance.
 keywords:
   - MABS Delhi review 2026
   - Maharaja Agrasen Business School placements
@@ -37,9 +38,15 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹13.96 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 ### **College Review: Maharaja Agrasen Business School**
 *   **Heritage Brand**: Part of the Maharaja Agrasen group, which is a highly trusted name in education across Delhi NCR.
 *   **Strong Ethics**: Known for a value-based management education approach combined with modern technical skills.

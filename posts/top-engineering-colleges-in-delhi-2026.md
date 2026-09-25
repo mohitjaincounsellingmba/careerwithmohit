@@ -3,7 +3,7 @@ title: >-
   Top Engineering Colleges in Delhi 2026: Ranking, Fees, Courses, Admission,
   Placements
 date: '2026-04-25'
-category: BTech
+category: B.Tech
 description: >-
   Discover the top engineering colleges in Delhi for 2026 including IIT Delhi,
   DTU, NSUT, and IIIT Delhi. Compare B.Tech fees, placements, and JEE Main
@@ -43,7 +43,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Delhi, the national capital, is home to some of the most prestigious engineering institutions in India. From the globally renowned **IIT Delhi** to premier state universities like **DTU** and **NSUT**, the city offers world-class technical education, incredible placement opportunities, and vibrant campus life. 

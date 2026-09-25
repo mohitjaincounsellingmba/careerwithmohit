@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Bilaspur 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options in Bilaspur? Check our list of the best MBA
   colleges under 5 lakhs in Bilaspur for 2026, comparing fees, entrance exams,

@@ -1,37 +1,65 @@
 ---
-title: 'University Business School (UBS), Panjab University Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  University Business School (UBS), Panjab University Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive University Business School (UBS), Panjab University (Chandigarh) review for 2027 admissions. Explore audited fee structure (₹45,000 (Total for 2 Years)), latest placement packages (Avg: ₹13.72 LPA, Highest: ₹58.48 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive University Business School (UBS), Panjab University (Chandigarh)
+  review for 2027 admissions. Explore audited fee structure (₹45,000 (Total for
+  2 Years)), latest placement packages (Avg: ₹13.72 LPA, Highest: ₹58.48 LPA),
+  entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
-  - university business school (ubs), panjab university review 2027
-  - university business school (ubs), panjab university mba fees
-  - university business school (ubs), panjab university placements 2026 2027
-  - university business school (ubs), panjab university average package
-  - university business school (ubs), panjab university highest package
-  - university business school (ubs), panjab university cutoff cat
-  - university business school (ubs), panjab university admission process 2027
-  - university business school (ubs), panjab university ranking
+  - 'university business school (ubs), panjab university review 2027'
+  - 'university business school (ubs), panjab university mba fees'
+  - 'university business school (ubs), panjab university placements 2026 2027'
+  - 'university business school (ubs), panjab university average package'
+  - 'university business school (ubs), panjab university highest package'
+  - 'university business school (ubs), panjab university cutoff cat'
+  - 'university business school (ubs), panjab university admission process 2027'
+  - 'university business school (ubs), panjab university ranking'
   - Chandigarh MBA colleges 2027
   - best MBA colleges in India
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 faqs:
-  - question: What is the average package at University Business School (UBS), Panjab University in recent placement drives?
+  - question: >-
+      What is the average package at University Business School (UBS), Panjab
+      University in recent placement drives?
     answer: >-
-      The overall average placement package at University Business School (UBS), Panjab University stands at approximately ₹13.72 LPA, with the median package around ₹8.50 LPA and top offers reaching ₹58.48 LPA.
-  - question: What entrance exams are accepted for admission to University Business School (UBS), Panjab University?
+      The overall average placement package at University Business School (UBS),
+      Panjab University stands at approximately ₹13.72 LPA, with the median
+      package around ₹8.50 LPA and top offers reaching ₹58.48 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to University Business
+      School (UBS), Panjab University?
     answer: >-
-      University Business School (UBS), Panjab University accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at University Business School (UBS), Panjab University for the 2-year MBA / PGDM program?
+      University Business School (UBS), Panjab University accepts scores from
+      CAT for shortlisting eligible candidates, followed by profile evaluation
+      and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at University Business School (UBS), Panjab
+      University for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹45,000 (Total for 2 Years), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does University Business School (UBS), Panjab University offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹45,000
+      (Total for 2 Years), with education loan tie-ups available across premier
+      public and private commercial banks.
+  - question: >-
+      Does University Business School (UBS), Panjab University offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, University Business School (UBS), Panjab University provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, University Business School (UBS), Panjab University provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Chandigarh
-state: India
+state: Punjab
 ---
 
 # [University Business School (UBS), Panjab University](/colleges/ubs-panjab-university) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict

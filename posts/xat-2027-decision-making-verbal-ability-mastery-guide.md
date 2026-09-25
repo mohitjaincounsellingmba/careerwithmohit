@@ -1,7 +1,7 @@
 ---
 title: 'XAT 2027 Decision Making & Verbal Ability Mastery Guide: Crack XLRI Calls'
 date: '2026-08-26'
-category: Exam Preparation
+category: Exams
 description: >-
   Master the XAT 2027 Decision Making (DM) and Verbal & Logical Ability (VALA)
   sections. Learn core ethics frameworks, business case scenario solving
@@ -15,6 +15,12 @@ keywords:
   - XAT poem comprehension strategy
   - crack XLRI call XAT 2027
   - XAT decision making business case study
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is a good score in XAT 2027 Decision Making section to clear XLRI
@@ -37,6 +43,11 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
 

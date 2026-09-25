@@ -1,35 +1,57 @@
 ---
-title: 'MICA (Mudra Institute of Communications, Ahmedabad) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  MICA (Mudra Institute of Communications, Ahmedabad) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth MICA (Mudra Institute of Communications, Ahmedabad) (Shela Campus) review for 2027 admissions. Explore verified fee structure (₹23.00 – ₹24.50 Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹20.10 LPA, highest ₹35.50 – ₹36.00 LPA), cutoffs (CAT / XAT: 80–85%ile minimum qualifying weightage + Mandatory MICAT Test (Score 40–50+ / 105)), and student verdict.
+  In-depth MICA (Mudra Institute of Communications, Ahmedabad) (Shela Campus)
+  review for 2027 admissions. Explore verified fee structure (₹23.00 – ₹24.50
+  Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹20.10 LPA,
+  highest ₹35.50 – ₹36.00 LPA), cutoffs (CAT / XAT: 80–85%ile minimum qualifying
+  weightage + Mandatory MICAT Test (Score 40–50+ / 105)), and student verdict.
 keywords:
-  - mica (mudra institute of communications, ahmedabad) review 2027
-  - mica (mudra institute of communications, ahmedabad) fees
-  - mica (mudra institute of communications, ahmedabad) placements 2026 2027
-  - mica (mudra institute of communications, ahmedabad) average package
-  - mica (mudra institute of communications, ahmedabad) highest package
-  - mica (mudra institute of communications, ahmedabad) cutoff cat xat gmat
-  - mica (mudra institute of communications, ahmedabad) admission process 2027
-  - mica (mudra institute of communications, ahmedabad) ranking
-  - Ahmedabad, Gujarat MBA colleges
+  - 'mica (mudra institute of communications, ahmedabad) review 2027'
+  - 'mica (mudra institute of communications, ahmedabad) fees'
+  - 'mica (mudra institute of communications, ahmedabad) placements 2026 2027'
+  - 'mica (mudra institute of communications, ahmedabad) average package'
+  - 'mica (mudra institute of communications, ahmedabad) highest package'
+  - 'mica (mudra institute of communications, ahmedabad) cutoff cat xat gmat'
+  - 'mica (mudra institute of communications, ahmedabad) admission process 2027'
+  - 'mica (mudra institute of communications, ahmedabad) ranking'
+  - 'Ahmedabad, Gujarat MBA colleges'
   - best MBA colleges in Gujarat
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
   - question: Is MICAT compulsory for admission to MICA Ahmedabad?
     answer: >-
-      Yes. All candidates must take MICAT (MICAT-I or MICAT-II) in addition to submitting valid CAT, XAT, or GMAT scores. The final composite score assigns 50% weight to CAT/XAT/GMAT and 50% to MICAT.
+      Yes. All candidates must take MICAT (MICAT-I or MICAT-II) in addition to
+      submitting valid CAT, XAT, or GMAT scores. The final composite score
+      assigns 50% weight to CAT/XAT/GMAT and 50% to MICAT.
   - question: What is the cutoff for MICA Ahmedabad?
     answer: >-
-      Candidates generally need an 80+ percentile in CAT or XAT to clear the baseline, along with qualifying the psychometric test and scoring competitively in the descriptive and objective sections of MICAT.
+      Candidates generally need an 80+ percentile in CAT or XAT to clear the
+      baseline, along with qualifying the psychometric test and scoring
+      competitively in the descriptive and objective sections of MICAT.
   - question: What is the average placement package at MICA Ahmedabad?
     answer: >-
-      The average CTC at MICA currently stands at ₹20.10 LPA, with the median at ₹19.00 LPA, the top 25% averaging ₹25.80 LPA, and the highest domestic package reaching ₹36.00 LPA.
-  - question: Is MICA suitable for students interested in tech and digital product management?
+      The average CTC at MICA currently stands at ₹20.10 LPA, with the median at
+      ₹19.00 LPA, the top 25% averaging ₹25.80 LPA, and the highest domestic
+      package reaching ₹36.00 LPA.
+  - question: >-
+      Is MICA suitable for students interested in tech and digital product
+      management?
     answer: >-
-      Absolutely. Tech giants like Google, Meta, Microsoft, and Amazon recruit heavily from MICA for Product Marketing Management (PMM), Digital Strategy, and Customer Experience roles.
+      Absolutely. Tech giants like Google, Meta, Microsoft, and Amazon recruit
+      heavily from MICA for Product Marketing Management (PMM), Digital
+      Strategy, and Customer Experience roles.
 location: Ahmedabad
 state: Gujarat
 ---

@@ -38,8 +38,9 @@ faqs:
       (for specific seats) and others may have profile-based or management quota
       admissions. Read our [Direct MBA Admission
       Guide](/blog/direct-mba-admission-india) for more details.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 
 ### [InquiryCard title="Targeting Delhi NCR B-Schools?" description="Confused between MDI, IMI, FORE, or LBSIM? Get a personalized preference list based on your CAT/XAT score and budget." cta="Get Delhi Admission Strategy" type="career"]

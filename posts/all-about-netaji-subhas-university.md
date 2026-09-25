@@ -1,23 +1,30 @@
 ---
-title: "Netaji Subhas University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Netaji Subhas University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Netaji Subhas University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: Online Degrees
+description: >-
+  Looking for admission to Netaji Subhas University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "netaji subhas university review 2026"
-  - "netaji subhas university pgdm placements"
-  - "netaji subhas university admission cutoff"
-  - "netaji subhas university fees"
+  - netaji subhas university review 2026
+  - netaji subhas university pgdm placements
+  - netaji subhas university admission cutoff
+  - netaji subhas university fees
 faqs:
-  - question: "Is Netaji Subhas University a good option for PGDM/MBA?"
+  - question: Is Netaji Subhas University a good option for PGDM/MBA?
     answer: >-
-      Yes, Netaji Subhas University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Netaji Subhas University?"
+      Yes, Netaji Subhas University is a highly respected institution known for
+      its solid academic foundation, industry-aligned curriculum, and good
+      placement track record.
+  - question: What is the average package offered at Netaji Subhas University?
     answer: >-
-      The average placement package at Netaji Subhas University is approximately ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
-  - question: "What entrance exams are accepted by Netaji Subhas University?"
+      The average placement package at Netaji Subhas University is approximately
+      ₹5.0 LPA, with the highest package reaching up to ₹10.3 LPA.
+  - question: What entrance exams are accepted by Netaji Subhas University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
 ### **College Review: [Netaji Subhas University](/colleges/netaji-subhas-university)**

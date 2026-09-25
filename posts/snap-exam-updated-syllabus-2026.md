@@ -39,7 +39,13 @@ faqs:
       a penalty of -0.25 marks (25% negative marking).
 location: Pune
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Symbiosis National Aptitude Test (SNAP)** is one of India's most popular MBA entrance exams, acting as the single-window gateway to 16 prestigious institutes under Symbiosis International (Deemed University) – including flagship campuses like **[SIBM Pune](/colleges/sibm-pune)** and **[SCMHRD Pune](/colleges/scmhrd-pune)**.
 

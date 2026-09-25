@@ -27,7 +27,13 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The National Testing Agency (NTA) has officially released the **JEE Main 2026 Session 2 Admit Card** today. Candidates who registered for the April session can now download their hall tickets from the official NTA website. 
 
 As per the latest notification, the admit cards are currently available for candidates scheduled to appear for the examination on **April 2 and April 4, 2026**. Admit cards for the remaining dates (April 5, 6, 7, and 8) will be released in a phased manner.

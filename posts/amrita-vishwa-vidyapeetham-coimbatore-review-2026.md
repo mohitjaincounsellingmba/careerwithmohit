@@ -23,7 +23,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
-category: Colleges
+category: MBA
 location: Chennai
 faqs:
   - question: >-
@@ -54,6 +54,11 @@ faqs:
       personal interviews, or merit-based shortlisting.
 state: Tamil Nadu
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹9.20 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Amrita Vishwa Vidyapeetham ([Amrita School of Business](/colleges/amrita-school-of-business)), Coimbatore**, situated in **Coimbatore (Ettimadai)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Coimbatore, South India.
 

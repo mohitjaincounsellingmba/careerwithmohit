@@ -40,9 +40,15 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹27.00 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 SOIL (School of Inspired Leadership) Gurgaon is renowned for its values-driven education and unique leadership development model. Its one-year and two-year programs are highly valued by corporations looking for mature, ethically grounded leaders.
 
 ### 📊 SOIL Gurgaon 2025 SnapShot

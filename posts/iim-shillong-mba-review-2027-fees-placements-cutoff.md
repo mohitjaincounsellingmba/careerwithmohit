@@ -1,9 +1,14 @@
 ---
-title: 'IIM Shillong (RGIIM Shillong) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Shillong (RGIIM Shillong) Review 2027: Fees, Placements, Cutoff, Ranking &
+  Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Shillong (RGIIM Shillong) (Umsawli, Shillong, Meghalaya) review for 2027 admissions. Explore audited fee structure (₹17.50 Lakhs (Total)), latest placement packages (Avg: ₹26.10 LPA, Highest: ₹71.30 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Shillong (RGIIM Shillong) (Umsawli, Shillong, Meghalaya)
+  review for 2027 admissions. Explore audited fee structure (₹17.50 Lakhs
+  (Total)), latest placement packages (Avg: ₹26.10 LPA, Highest: ₹71.30 LPA),
+  entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim shillong (rgiim shillong) review 2027
   - iim shillong (rgiim shillong) mba fees
@@ -18,18 +23,34 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at IIM Shillong (RGIIM Shillong) in recent placement drives?
+  - question: >-
+      What is the average package at IIM Shillong (RGIIM Shillong) in recent
+      placement drives?
     answer: >-
-      The overall average placement package at IIM Shillong (RGIIM Shillong) stands at approximately ₹26.10 LPA, with the median package around ₹15.00 LPA and top offers reaching ₹71.30 LPA.
-  - question: What entrance exams are accepted for admission to IIM Shillong (RGIIM Shillong)?
+      The overall average placement package at IIM Shillong (RGIIM Shillong)
+      stands at approximately ₹26.10 LPA, with the median package around ₹15.00
+      LPA and top offers reaching ₹71.30 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to IIM Shillong (RGIIM
+      Shillong)?
     answer: >-
-      IIM Shillong (RGIIM Shillong) accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Shillong (RGIIM Shillong) for the 2-year MBA / PGDM program?
+      IIM Shillong (RGIIM Shillong) accepts scores from CAT for shortlisting
+      eligible candidates, followed by profile evaluation and personal
+      interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Shillong (RGIIM Shillong) for the
+      2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does IIM Shillong (RGIIM Shillong) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹17.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does IIM Shillong (RGIIM Shillong) offer merit-based scholarships or
+      financial assistance?
     answer: >-
-      Yes, IIM Shillong (RGIIM Shillong) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Shillong (RGIIM Shillong) provides merit scholarships to high
+      scorers in entrance tests, tuition fee waivers for economically weaker
+      candidates, and assistance for collateral-free bank loans.
 location: Umsawli
 state: Shillong
 ---

@@ -40,9 +40,15 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 IIT Delhi is globally recognized as one of India's most prestigious engineering and management institutions, currently ranked **#3 in the NIRF Overall Category**. While it is famous for its highly competitive B.Tech programs, IIT Delhi has also emerged as a leader in **Executive Education**, offering specialized online programs designed specifically for working professionals.
 
 <div style="margin: 40px 0; text-align: center;">

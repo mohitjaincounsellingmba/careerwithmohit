@@ -59,9 +59,15 @@ faqs:
     answer: >-
       IMT Ghaziabad accepts CAT, XAT, and GMAT scores, with shortlist cutoffs
       typically around 90–93 percentile in CAT/XAT.
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹16.25 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Recognized across India Inc. as the "Marketing Mecca" of management education, the **Institute of Management Technology (IMT), Ghaziabad** continues to deliver commanding placements across Consumer Goods, BFSI, Consulting, and Analytics.
 

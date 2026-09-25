@@ -3,7 +3,7 @@ title: >-
   Mumbai Institute of Professional Studies PGDM Admission Review 2026:
   Placements, Fees & Cutoff
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Looking for admission to Mumbai Institute of Professional Studies? Read our
   comprehensive PGDM review for 2026 covering total fees, average and highest

@@ -3,7 +3,7 @@ title: >-
   Top MBA/PGDM Colleges in Delhi NCR with Best ROI: 2027-29 Cutoff, Fees &
   Placement Reports
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Explore top MBA and PGDM colleges in Delhi NCR offering high ROI for 2027-29.
   Check detailed fee structure, placement reports, CAT/MAT/CMAT cutoffs, and
@@ -54,7 +54,7 @@ faqs:
       Yes, most top private autonomous PGDM institutes like NDIM, FIIB,
       FOSTIIMA, JIMS, and BIMTECH (for specific programs) accept MAT scores
       alongside CMAT, CAT, and XAT.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -3,7 +3,7 @@ title: >-
   MBA Admission Without CAT in Delhi NCR 2026: Entrance Exams, Cutoffs &
   Colleges
 date: '2026-05-23'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for MBA admission without CAT in Delhi NCR for 2026? Check out top
   colleges accepting XAT, MAT, CMAT, NMAT, SNAP, or offering direct merit-based
@@ -41,7 +41,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 While the Common Admission Test (CAT) is widely recognized as the primary gateway to elite Indian Business Schools like the IIMs, it is far from the only path to a high-quality management education. If your CAT exam did not go as planned, or you missed the registration, you can still secure admission to top-tier B-schools in the Delhi National Capital Region (NCR).

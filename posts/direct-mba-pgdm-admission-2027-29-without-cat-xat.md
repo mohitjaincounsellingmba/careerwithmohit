@@ -3,7 +3,7 @@ title: >-
   Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting
   MAT, CMAT & Profile Scores
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Complete guide to direct MBA and PGDM admission 2027-29 without CAT or XAT.
   Find top AICTE approved colleges accepting MAT, CMAT, ATMA, and profile

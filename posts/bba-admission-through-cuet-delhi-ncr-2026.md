@@ -1,7 +1,7 @@
 ---
 title: 'BBA Admission Through CUET in Delhi NCR 2026: Requirements, Cutoffs & Colleges'
 date: '2026-05-23'
-category: BBA Admissions
+category: BBA
 description: >-
   Planning BBA admission through CUET in Delhi NCR for 2026? Read our detailed
   guide on eligibility criteria, required subjects, top colleges, and cutoffs.
@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 The **Common University Entrance Test (CUET UG)** has fundamentally changed the landscape of undergraduate admissions in India. For business aspirants in the Delhi National Capital Region (NCR), CUET is now the primary gateway to secure a seat in some of the country's most prestigious BBA and BMS programs.

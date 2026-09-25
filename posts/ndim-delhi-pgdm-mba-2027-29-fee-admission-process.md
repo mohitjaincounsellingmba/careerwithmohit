@@ -3,7 +3,7 @@ title: >-
   NDIM Delhi PGDM / MBA Admission 2027-29: Fees, Eligibility, Selection Process,
   Cutoffs & Placements
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
   Official NDIM Delhi PGDM/MBA 2027-29 (32nd Batch) admission guide. Updated fee
   structure (₹14.00 Lakhs), semester vs annual plans, ₹2.5 Cr scholarship pool,
@@ -31,6 +31,8 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi Admissions 2026
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
 faqs:
   - question: What is the updated total fee for the PGDM (2027–29) Batch at NDIM Delhi?
     answer: >-
@@ -66,7 +68,7 @@ faqs:
       NDIM maintains a 100% placement track record. The latest average package
       stands at ₹10.00 LPA (with the top 25% batch averaging ₹12.80 LPA) and the
       peak salary package reaching up to ₹24.00 LPA.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 
@@ -313,8 +315,8 @@ For aspirants targeting NDIM’s 32nd Batch (2027–29), applying in early round
 
 Explore related MBA resources:
 *   [Top Tier MBA Colleges in India: Compare Fees & Placements](/top-tier-mba-colleges)
-*   [Top 10 MBA Colleges in Delhi NCR 2026](/posts/top-10-mba-colleges-delhi-ncr-2026)
-*   [NDIM Delhi Comprehensive Campus Review & Highlights](/posts/all-about-ndim-delhi)
+*   [Top 10 MBA Colleges in Delhi NCR 2026](/blog/top-10-mba-colleges-delhi-ncr-2026)
+*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/all-about-ndim-delhi)
 *   [MBA & PGDM Direct Admission Complete Guide 2027](/mba-pgdm-admission-2027)
 *   [Explore 200+ Top Business Schools in India](/colleges)
 

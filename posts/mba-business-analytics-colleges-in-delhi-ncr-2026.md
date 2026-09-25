@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Delhi NCR 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA Admissions
+category: MBA
 description: >-
   Looking for the best MBA Business Analytics colleges in Delhi NCR? Read our
   2026 guide comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes,
@@ -41,9 +41,14 @@ faqs:
       For top-tier colleges like MDI Gurgaon, the average placement is over INR
       27 LPA. For mid-tier colleges like FORE and LBSIM, the average starting
       salary ranges from INR 12 LPA to 15 LPA.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹25.0 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Selecting the right B-school is critical if you are targeting a career in data science, quantitative decision-making, predictive modeling, or strategic business analytics. While general MBA rankings give a broad overview, analytics recruiters tend to visit campuses that have a strong tradition of quantitative studies, dedicated analytics specializations, and proximity to major corporate headquarters.
 

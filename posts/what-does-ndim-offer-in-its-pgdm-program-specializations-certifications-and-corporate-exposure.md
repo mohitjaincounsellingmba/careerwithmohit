@@ -7,7 +7,7 @@ description: >-
   Discover what New Delhi Institute of Management (NDIM) offers in its 2-year
   PGDM program. Explore dual specializations, industry certifications, Japan &
   Korea Centres of Excellence, foreign languages, global immersion tours, and
-  placements.
+  placements for 2026-2027 admissions & career guidance.
 keywords:
   - What Does NDIM Offer in its PGDM Program
   - NDIM PGDM specializations
@@ -29,8 +29,12 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-category: Colleges
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+category: Jobs & Careers
+location: Delhi NCR
 state: Delhi NCR
 faqs:
   - question: Does NDIM offer a dual specialization in its PGDM program?
@@ -326,7 +330,7 @@ Get personalized, unbiased guidance from experienced MBA mentor **Mohit Jain**:
 * Scholarship & Education Loan Guidance
 * GD-PI Preparation Strategy
 
-👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/posts/all-about-ndim-delhi) to finalize your B-School shortlist.
+👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/blog/all-about-ndim-delhi) to finalize your B-School shortlist.
 
 ---
 

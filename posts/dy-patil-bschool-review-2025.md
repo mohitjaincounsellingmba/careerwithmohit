@@ -34,7 +34,13 @@ faqs:
       reliable benchmark for students.
 location: Pune
 state: Maharashtra
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 DY Patil B-School is one of Pune's most modern and rapidly growing management institutes. Located strategically near the Hinjewadi IT hub, it offers a high-tech learning environment and a strong focus on industry readiness.
 
 ### **Quick Highlights (2025 Batch):**

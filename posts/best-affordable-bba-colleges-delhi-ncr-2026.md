@@ -1,10 +1,11 @@
 ---
 title: Best Affordable BBA Colleges in Delhi NCR 2026 Under 3–4 Lakh INR
 date: '2026-05-21'
-category: BBA Admissions
+category: BBA
 description: >-
   Looking for affordable BBA colleges in Delhi NCR under a budget of 3 to 4
-  Lakhs? Read our detailed guide on low-fees BBA colleges with great placements.
+  Lakhs? Read our detailed guide on low-fees BBA colleges with great placements
+  for 2026-2027 admissions & career guidance.
 keywords:
   - affordable bba colleges in delhi ncr
   - low fees bba colleges in delhi ncr 2026
@@ -39,7 +40,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Pursuing a Bachelor of Business Administration (BBA) does not have to drain your financial resources. While premium private institutions charge hefty fees, several top-tier universities and colleges in Delhi NCR offer outstanding management education at an affordable price.

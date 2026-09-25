@@ -1,9 +1,15 @@
 ---
-title: 'Chandragupt Institute of Management Patna (CIMP) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Chandragupt Institute of Management Patna (CIMP) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive Chandragupt Institute of Management Patna (CIMP) (Mithapur, Patna, Bihar) review for 2027 admissions. Explore audited fee structure (₹8.65 Lakhs (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹21.50 LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student verdict.
+  Comprehensive Chandragupt Institute of Management Patna (CIMP) (Mithapur,
+  Patna, Bihar) review for 2027 admissions. Explore audited fee structure (₹8.65
+  Lakhs (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹21.50
+  LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student
+  verdict.
 keywords:
   - chandragupt institute of management patna (cimp) review 2027
   - chandragupt institute of management patna (cimp) mba fees
@@ -18,18 +24,35 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at Chandragupt Institute of Management Patna (CIMP) in recent placement drives?
+  - question: >-
+      What is the average package at Chandragupt Institute of Management Patna
+      (CIMP) in recent placement drives?
     answer: >-
-      The overall average placement package at Chandragupt Institute of Management Patna (CIMP) stands at approximately ₹7.80 LPA, with the median package around ₹5.50 LPA and top offers reaching ₹21.50 LPA.
-  - question: What entrance exams are accepted for admission to Chandragupt Institute of Management Patna (CIMP)?
+      The overall average placement package at Chandragupt Institute of
+      Management Patna (CIMP) stands at approximately ₹7.80 LPA, with the median
+      package around ₹5.50 LPA and top offers reaching ₹21.50 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Chandragupt Institute of
+      Management Patna (CIMP)?
     answer: >-
-      Chandragupt Institute of Management Patna (CIMP) accepts scores from CAT, XAT, CMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Chandragupt Institute of Management Patna (CIMP) for the 2-year MBA / PGDM program?
+      Chandragupt Institute of Management Patna (CIMP) accepts scores from CAT,
+      XAT, CMAT for shortlisting eligible candidates, followed by profile
+      evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Chandragupt Institute of Management Patna
+      (CIMP) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹8.65 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Chandragupt Institute of Management Patna (CIMP) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹8.65 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Chandragupt Institute of Management Patna (CIMP) offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Chandragupt Institute of Management Patna (CIMP) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Chandragupt Institute of Management Patna (CIMP) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Mithapur
 state: Patna
 ---

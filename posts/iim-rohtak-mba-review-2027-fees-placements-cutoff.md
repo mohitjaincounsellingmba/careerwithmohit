@@ -1,7 +1,7 @@
 ---
 title: 'IIM Rohtak Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
   Comprehensive IIM Rohtak (Sunaria, Rohtak, Haryana) review for 2027
   admissions. Explore audited fee structure (₹18.90 Lakhs (Total)), latest
@@ -28,6 +28,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the average package at IIM Rohtak in recent placement drives?
     answer: >-
@@ -51,8 +55,8 @@ faqs:
       Yes, IIM Rohtak provides merit scholarships to high scorers in entrance
       tests, tuition fee waivers for economically weaker candidates, and
       assistance for collateral-free bank loans.
-location: Delhi
-state: Rohtak
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [IIM Rohtak](/colleges/iim-rohtak) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict

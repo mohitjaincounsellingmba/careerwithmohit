@@ -1,9 +1,16 @@
 ---
-title: 'Goa Institute of Management (GIM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Goa Institute of Management (GIM) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
-  In-depth Goa Institute of Management (GIM) (Sanquelim Campus, Poriem) review for 2027 admissions. Explore verified fee structure (₹19.50 – ₹21.00 Lakhs (2 Years Full-Time Residential)), latest placements (avg ₹15.00 – ₹15.20 LPA, highest ₹60.00 LPA (International) / ₹55.00 LPA (Domestic)), cutoffs (CAT: 85–90 Percentile; XAT: 82–85 Percentile; CMAT: 98%+ (Regular & Achiever’s Round); GMAT: 620+), and student verdict.
+  In-depth Goa Institute of Management (GIM) (Sanquelim Campus, Poriem) review
+  for 2027 admissions. Explore verified fee structure (₹19.50 – ₹21.00 Lakhs (2
+  Years Full-Time Residential)), latest placements (avg ₹15.00 – ₹15.20 LPA,
+  highest ₹60.00 LPA (International) / ₹55.00 LPA (Domestic)), cutoffs (CAT:
+  85–90 Percentile; XAT: 82–85 Percentile; CMAT: 98%+ (Regular & Achiever’s
+  Round); GMAT: 620+), and student verdict.
 keywords:
   - goa institute of management (gim) review 2027
   - goa institute of management (gim) fees
@@ -13,23 +20,33 @@ keywords:
   - goa institute of management (gim) cutoff cat xat gmat
   - goa institute of management (gim) admission process 2027
   - goa institute of management (gim) ranking
-  - Sanquelim, Goa MBA colleges
+  - 'Sanquelim, Goa MBA colleges'
   - best MBA colleges in Goa
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
 faqs:
   - question: What is GIM Goa Achiever’s Round?
     answer: >-
-      GIM’s Achiever’s Round is an early profile-based interview round for candidates with outstanding academic backgrounds, work experience in top companies, national sports achievements, or stellar co-curriculars. Shortlisted candidates are interviewed before CAT/XAT results and can receive preliminary offer letters.
+      GIM’s Achiever’s Round is an early profile-based interview round for
+      candidates with outstanding academic backgrounds, work experience in top
+      companies, national sports achievements, or stellar co-curriculars.
+      Shortlisted candidates are interviewed before CAT/XAT results and can
+      receive preliminary offer letters.
   - question: What is the cutoff for GIM Goa through CAT and CMAT?
     answer: >-
-      The CAT cutoff is typically 85–90 percentile, XAT cutoff is 82–85 percentile, and CMAT cutoff is 98+ percentile for the general pool.
+      The CAT cutoff is typically 85–90 percentile, XAT cutoff is 82–85
+      percentile, and CMAT cutoff is 98+ percentile for the general pool.
   - question: How is the Big Data Analytics (BDA) program at GIM Goa?
     answer: >-
-      GIM’s PGDM-BDA is widely recognized among the top 3 analytics management programs in India, delivering specialized training in predictive analytics, cloud computing, and machine learning, with average packages around ₹16.00 LPA.
+      GIM’s PGDM-BDA is widely recognized among the top 3 analytics management
+      programs in India, delivering specialized training in predictive
+      analytics, cloud computing, and machine learning, with average packages
+      around ₹16.00 LPA.
   - question: What is the average package at GIM Goa in 2025–2026?
     answer: >-
-      The overall average CTC for the institute is ₹15.00 to ₹15.20 LPA, with top international offers reaching ₹60.00 LPA and top domestic offers hitting ₹55.00 LPA.
+      The overall average CTC for the institute is ₹15.00 to ₹15.20 LPA, with
+      top international offers reaching ₹60.00 LPA and top domestic offers
+      hitting ₹55.00 LPA.
 location: Sanquelim
 state: Goa
 ---

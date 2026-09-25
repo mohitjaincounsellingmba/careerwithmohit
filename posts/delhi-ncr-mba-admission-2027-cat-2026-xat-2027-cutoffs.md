@@ -49,8 +49,9 @@ faqs:
       Colleges like NDIM Delhi, FIIB New Delhi, FOSTIIMA Business School, JIMS
       Rohini/Kalkaji, and SOIL Gurgaon provide high ROI and strong corporate
       placements for candidates in the 60-75 percentile range.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 # MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027
 
@@ -84,19 +85,19 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 1. Faculty of Management Studies (FMS Delhi)
 * Known as the **"Red Building of Dreams"**, FMS offers the highest ROI in management education globally.
-* Shortlisting for MBA 2027 will rely on weighted CAT 2026 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/posts/all-about-fms-delhi).
+* Shortlisting for MBA 2027 will rely on weighted CAT 2026 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/blog/all-about-fms-delhi).
 
 ### 2. MDI Gurgaon
 * Accredited by AACSB, AMBA, and SAQS.
-* Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/posts/all-about-mdi-gurgaon).
+* Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/blog/all-about-mdi-gurgaon).
 
 ### 3. FORE School of Management & LBSIM Delhi
-* **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/posts/all-about-fore-school-delhi).
-* **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/posts/all-about-lbsim-delhi).
+* **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/blog/all-about-fore-school-delhi).
+* **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
 
 ### 4. NDIM & FOSTIIMA: The 60-75 CAT/XAT Percentile Leaders
-* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/posts/all-about-ndim-delhi).
-* **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/posts/all-about-fostiima-delhi).
+* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/all-about-ndim-delhi).
+* **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 
 ---
 
@@ -111,9 +112,9 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 ---
 
 ## Related Reads & Resources
-- [All About CAT Exam 2026](/posts/all-about-cat-exam)
-- [All About XAT Exam Preparation Guide](/posts/all-about-xat-exam)
-- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/posts/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
+- [All About CAT Exam 2026](/blog/all-about-cat-exam)
+- [All About XAT Exam Preparation Guide](/blog/all-about-xat-exam)
+- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
 
 ---
 

@@ -3,7 +3,7 @@ title: >-
   Jagannath International Management School (JIMS Kalkaji) MBA / PGDM Admission
   2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
   Complete 2027-29 admission guide for Jagannath International Management School
   (JIMS Kalkaji) (JIMS Kalkaji). Verified fee structure (₹10.75 Lakhs (Total)),
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at JIMS Kalkaji?
     answer: >-
@@ -71,8 +75,8 @@ faqs:
       directly with senior career counselor Mohit Jain (+91 9560020771) for
       profile evaluation, GD-PI tips, scholarship calculation, and admission
       guidance.
-location: Delhi
-state: Pan India
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS Kalkaji) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

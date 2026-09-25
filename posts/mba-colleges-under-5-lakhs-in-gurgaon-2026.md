@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Gurgaon 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options in Gurgaon? Check our list of the best MBA
   colleges under 5 lakhs in Gurgaon for 2026, comparing fees, entrance exams,
@@ -42,7 +42,7 @@ faqs:
       total fee of under 5 Lakhs and average placement packages ranging from 4
       LPA to 8 LPA, graduates can recover their educational expenses in less
       than a year.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

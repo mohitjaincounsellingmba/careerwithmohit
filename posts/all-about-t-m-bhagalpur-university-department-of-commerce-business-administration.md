@@ -1,23 +1,49 @@
 ---
-title: "T M Bhagalpur University, Department of Commerce & Business Administration PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to T M Bhagalpur University, Department of Commerce & Business Administration? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: >-
+  T M Bhagalpur University, Department of Commerce & Business Administration
+  PGDM Admission Review 2026: Placements, Fees & Cutoff
+date: '2026-06-25'
+category: Online Degrees
+description: >-
+  Looking for admission to T M Bhagalpur University, Department of Commerce &
+  Business Administration? Read our comprehensive PGDM review for 2026 covering
+  total fees, average and highest placement packages, accepted entrance exams,
+  and cutoffs.
 keywords:
-  - "t m bhagalpur university, department of commerce & business administration review 2026"
-  - "t m bhagalpur university, department of commerce & business administration pgdm placements"
-  - "t m bhagalpur university, department of commerce & business administration admission cutoff"
-  - "t m bhagalpur university, department of commerce & business administration fees"
+  - >-
+    t m bhagalpur university, department of commerce & business administration
+    review 2026
+  - >-
+    t m bhagalpur university, department of commerce & business administration
+    pgdm placements
+  - >-
+    t m bhagalpur university, department of commerce & business administration
+    admission cutoff
+  - >-
+    t m bhagalpur university, department of commerce & business administration
+    fees
 faqs:
-  - question: "Is T M Bhagalpur University, Department of Commerce & Business Administration a good option for PGDM/MBA?"
+  - question: >-
+      Is T M Bhagalpur University, Department of Commerce & Business
+      Administration a good option for PGDM/MBA?
     answer: >-
-      Yes, T M Bhagalpur University, Department of Commerce & Business Administration is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at T M Bhagalpur University, Department of Commerce & Business Administration?"
+      Yes, T M Bhagalpur University, Department of Commerce & Business
+      Administration is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: >-
+      What is the average package offered at T M Bhagalpur University,
+      Department of Commerce & Business Administration?
     answer: >-
-      The average placement package at T M Bhagalpur University, Department of Commerce & Business Administration is approximately ₹5.0 LPA, with the highest package reaching up to ₹12.5 LPA.
-  - question: "What entrance exams are accepted by T M Bhagalpur University, Department of Commerce & Business Administration?"
+      The average placement package at T M Bhagalpur University, Department of
+      Commerce & Business Administration is approximately ₹5.0 LPA, with the
+      highest package reaching up to ₹12.5 LPA.
+  - question: >-
+      What entrance exams are accepted by T M Bhagalpur University, Department
+      of Commerce & Business Administration?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
 ### **College Review: [T M Bhagalpur University, Department of Commerce & Business Administration](/colleges/t-m-bhagalpur-university-department-of-commerce-business-administration)**

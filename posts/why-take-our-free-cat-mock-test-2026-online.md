@@ -1,7 +1,7 @@
 ---
 title: 'How to Score 99+ Percentile in CAT 2026: The Ultimate Mock Strategy'
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Achieving a 99+ percentile in CAT 2026 is about strategy, not just knowledge.
   Learn how to use realistic mock tests and AI analysis to master the 2-hour
@@ -38,6 +38,11 @@ faqs:
       percentile, which is the benchmark for getting call letters from the top 3
       IIMs (A, B, C).
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 Scoring a 99+ percentile in the Common Admission Test (CAT) is less about knowing all the formulas and more about **strategic execution**. Out of the 2.5 lakh+ aspirants, only a few thousand make it to the elite bracket. The difference? They treat every mock test as a real-world simulation.
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]

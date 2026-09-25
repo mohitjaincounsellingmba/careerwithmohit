@@ -4,7 +4,7 @@ date: '2026-08-04'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  and priva for 2026-2027 admissions & career guidance.
 keywords:
   - total seats in IIM 2026
   - IIM seat matrix 2026
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How many total seats are there in all 21 IIMs for MBA/PGP?
     answer: >-
@@ -50,8 +54,9 @@ faqs:
       Following the IIM Act of 2017, Indian Institutes of Management now award
       Master of Business Administration (MBA) degrees instead of Post Graduate
       Diploma in Management (PGDM) for their flagship two-year programs.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 Getting into an **Indian Institute of Management (IIM)** is the ultimate dream for thousands of management aspirants appearing for the **Common Admission Test (CAT)** every year. While tracking cutoffs and placement reports is essential, understanding the **IIM Seat Matrix** gives you a realistic view of your competition and helps you strategize your B-school applications.
 

@@ -1,8 +1,8 @@
 ---
 name: Punjab Engineering College (PEC Chandigarh)
 logo: ''
-location: 'Sector 12, Chandigarh'
-state: Punjab & Chandigarh
+location: Chandigarh
+state: Punjab
 category: Engineering
 type: Deemed-to-be-University (Govt. of Chandigarh)
 courses:
@@ -54,6 +54,12 @@ keywords:
   - Punjab Engineering College (PEC Chandigarh) CSE placement
   - Punjab Engineering College (PEC Chandigarh) B.Tech admission 2027
   - 'engineering colleges Sector 12, Chandigarh'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 ---
 
 ### About Punjab Engineering College (PEC Chandigarh)

@@ -3,7 +3,7 @@ title: >-
   FORE School of Management Review 2027: Fees, Placements, Cutoff, Ranking &
   Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
   In-depth FORE School of Management (Qutab Institutional Area Campus) review
   for 2027 admissions. Explore verified fee structure (₹18.50 – ₹19.50 Lakhs (2
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT cutoff for FORE School of Management?
     answer: >-
@@ -52,7 +56,7 @@ faqs:
       Yes. The PGDM program at FORE is AICTE-approved, NBA-accredited, and holds
       official MBA equivalence from the Association of Indian Universities
       (AIU).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

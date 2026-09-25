@@ -1,7 +1,7 @@
 ---
 name: ICFAI Business School (IBS Hyderabad)
 logo: /logo.webp
-location: 'Hyderabad, Telangana'
+location: Hyderabad
 category: Management
 type: University
 courses:
@@ -55,6 +55,13 @@ keywords:
   - ICFAI Business School (IBS Hyderabad) PGDM placement
   - ICFAI Business School (IBS Hyderabad) MBA admission 2027
   - 'MBA colleges Hyderabad, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
+state: Telangana
 ---
 
 ### About ICFAI Business School (IBS Hyderabad)

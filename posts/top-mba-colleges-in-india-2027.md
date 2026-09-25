@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the number 1 MBA college in India for ROI?
     answer: >-
@@ -46,8 +50,8 @@ faqs:
       The median domestic placement package for the top 20 Indian B-schools
       ranges between ₹18 LPA and ₹34 LPA, with top consulting, investment
       banking, and product management roles offering upwards of ₹40-65 LPA.
-location: Delhi
-state: National
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Top MBA Colleges in India 2027: Fees, Cutoff & Placements ROI
@@ -171,3 +175,11 @@ No. Fresh graduates are eligible for almost all flagship 2-year PGP/MBA programs
 ---
 
 ### [InquiryCard title="Need Guidance on B-School Shortlisting?" description="Connect with Senior Admission Consultant Mohit Jain for strategic application planning, mock interviews, and cut-off analysis." cta="Schedule Free Counselling" type="admission"]
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

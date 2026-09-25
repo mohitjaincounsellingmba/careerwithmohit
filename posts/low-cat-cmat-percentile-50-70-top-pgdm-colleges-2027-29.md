@@ -3,7 +3,7 @@ title: >-
   Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target
   for 2027-29
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Scored 50-70 percentile in CAT or CMAT? Explore top AICTE approved PGDM
   colleges in Delhi, Pune, Bangalore, and Noida offering 100% placements for
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get a decent PGDM college with 50-60 percentile in CAT or CMAT?
     answer: >-
@@ -41,7 +45,7 @@ faqs:
       Focus on highlighting your graduation projects, internships, domain
       interest, communication clarity, and strong performance in current
       affairs/business topics during the personal interview.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

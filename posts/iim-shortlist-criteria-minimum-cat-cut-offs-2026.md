@@ -3,7 +3,7 @@ title: >-
   IIM Shortlist Criteria & Minimum CAT Cut Offs [2026] — BLACKI, New & Baby IIMs
   Calling Percentiles
 date: '2026-08-14'
-category: MBA Admissions
+category: MBA
 description: >-
   Decode IIM Shortlist Criteria and CAT 2026 cutoffs for all 21 IIMs (BLACKI,
   New, Baby IIMs). Learn Composite Score formulas, diversity points, and CAP
@@ -26,7 +26,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-location: Delhi
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What is the difference between IIM Qualifying Cutoff and Calling Cutoff?
     answer: >-

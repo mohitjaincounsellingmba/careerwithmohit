@@ -1,7 +1,7 @@
 ---
 name: IIM Udaipur
 logo: /logo.webp
-location: 'Balicha, Udaipur, Rajasthan'
+location: Jaipur
 category: Management
 type: Institute
 courses:
@@ -50,6 +50,13 @@ keywords:
   - IIM Udaipur PGDM placement
   - IIM Udaipur MBA admission 2027
   - 'MBA colleges Balicha, Udaipur, Rajasthan'
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+state: Rajasthan
 ---
 
 ### About IIM Udaipur

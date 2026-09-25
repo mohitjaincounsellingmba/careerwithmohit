@@ -1,7 +1,7 @@
 ---
 title: 'DTU Delhi BBA Admission 2026: Fees, Placements & CUET Guide'
 date: '2026-05-15'
-category: BBA Admissions
+category: BBA
 description: >-
   Planning to join [DTU (Delhi Technological University)](/colleges/dtu-delhi)
   for BBA in 2026? Learn about the admission process via CUET, latest fees, and
@@ -34,9 +34,14 @@ faqs:
     answer: >-
       No, all admissions are strictly through the CUET merit list for the
       specified year.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 
 Delhi Technological University (DTU), formerly known as Delhi College of Engineering (DCE), is a premier institution known for its engineering excellence. However, its **University School of Management and Entrepreneurship (USME)** has quickly become a top destination for BBA aspirants in 2026, offering a unique blend of management and technical exposure.
 

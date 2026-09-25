@@ -1,9 +1,12 @@
 ---
 title: 'IIM Ranchi Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Ranchi (Dhurwa, Ranchi, Jharkhand) review for 2027 admissions. Explore audited fee structure (₹17.50 Lakhs (Total)), latest placement packages (Avg: ₹18.69 LPA, Highest: ₹67.00 LPA), entrance exam cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Ranchi (Dhurwa, Ranchi, Jharkhand) review for 2027
+  admissions. Explore audited fee structure (₹17.50 Lakhs (Total)), latest
+  placement packages (Avg: ₹18.69 LPA, Highest: ₹67.00 LPA), entrance exam
+  cutoffs (CAT, IPMAT), NIRF ranking, and student verdict.
 keywords:
   - iim ranchi review 2027
   - iim ranchi mba fees
@@ -20,16 +23,26 @@ keywords:
 faqs:
   - question: What is the average package at IIM Ranchi in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Ranchi stands at approximately ₹18.69 LPA, with the median package around ₹12.00 LPA and top offers reaching ₹67.00 LPA.
+      The overall average placement package at IIM Ranchi stands at
+      approximately ₹18.69 LPA, with the median package around ₹12.00 LPA and
+      top offers reaching ₹67.00 LPA.
   - question: What entrance exams are accepted for admission to IIM Ranchi?
     answer: >-
-      IIM Ranchi accepts scores from CAT, IPMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Ranchi for the 2-year MBA / PGDM program?
+      IIM Ranchi accepts scores from CAT, IPMAT for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at IIM Ranchi for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹17.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Ranchi offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Ranchi provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Ranchi provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Dhurwa
 state: Ranchi
 ---

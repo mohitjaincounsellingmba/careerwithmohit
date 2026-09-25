@@ -1,11 +1,12 @@
 ---
 title: 'Scaler vs Newton School of Technology: 7 Negative Points No One Tells You'
 date: '2026-04-14'
-category: BTech Admissions
+category: B.Tech
 description: >-
   Thinking of joining Scaler or Newton School of Technology for B.Tech? Read
   this honest review highlighting the negative points, degree validity risks,
-  and the high fee structure before you decide.
+  and the high fee structure before you decide for 2026-2027 admissions & career
+  guidance.
 keywords:
   - scaler school of technology negative review
   - newton school of technology btech cons
@@ -28,6 +29,11 @@ faqs:
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 The Indian engineering landscape is witnessing a massive shift. New-age "Tech Schools" like **Scaler School of Technology (SST)** and **Newton School of Technology (NST)** are challenging traditional universities by promising industry-aligned curricula, massive placement packages, and mentorship from Silicon Valley veterans.
 
 However, behind the high-budget YouTube ads and flashy brochures, there are several "red flags" that prospective students and parents often overlook. If you are considering these for your B.Tech, here are the **7 major negative points** based on student feedback and ground realities.

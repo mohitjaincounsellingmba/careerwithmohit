@@ -1,9 +1,14 @@
 ---
-title: 'IIM Mumbai (Formerly NITIE Mumbai) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Mumbai (Formerly NITIE Mumbai) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Mumbai (Formerly NITIE Mumbai) (Powai, Mumbai, Maharashtra) review for 2027 admissions. Explore audited fee structure (₹21.00 Lakhs (Total)), latest placement packages (Avg: ₹27.75 LPA, Highest: ₹78.20 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Mumbai (Formerly NITIE Mumbai) (Powai, Mumbai, Maharashtra)
+  review for 2027 admissions. Explore audited fee structure (₹21.00 Lakhs
+  (Total)), latest placement packages (Avg: ₹27.75 LPA, Highest: ₹78.20 LPA),
+  entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim mumbai (formerly nitie mumbai) review 2027
   - iim mumbai (formerly nitie mumbai) mba fees
@@ -17,21 +22,43 @@ keywords:
   - best MBA colleges in Mumbai
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: What is the average package at IIM Mumbai (Formerly NITIE Mumbai) in recent placement drives?
+  - question: >-
+      What is the average package at IIM Mumbai (Formerly NITIE Mumbai) in
+      recent placement drives?
     answer: >-
-      The overall average placement package at IIM Mumbai (Formerly NITIE Mumbai) stands at approximately ₹27.75 LPA, with the median package around ₹16.00 LPA and top offers reaching ₹78.20 LPA.
-  - question: What entrance exams are accepted for admission to IIM Mumbai (Formerly NITIE Mumbai)?
+      The overall average placement package at IIM Mumbai (Formerly NITIE
+      Mumbai) stands at approximately ₹27.75 LPA, with the median package around
+      ₹16.00 LPA and top offers reaching ₹78.20 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to IIM Mumbai (Formerly
+      NITIE Mumbai)?
     answer: >-
-      IIM Mumbai (Formerly NITIE Mumbai) accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Mumbai (Formerly NITIE Mumbai) for the 2-year MBA / PGDM program?
+      IIM Mumbai (Formerly NITIE Mumbai) accepts scores from CAT for
+      shortlisting eligible candidates, followed by profile evaluation and
+      personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Mumbai (Formerly NITIE Mumbai) for the
+      2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹21.00 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does IIM Mumbai (Formerly NITIE Mumbai) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹21.00 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does IIM Mumbai (Formerly NITIE Mumbai) offer merit-based scholarships or
+      financial assistance?
     answer: >-
-      Yes, IIM Mumbai (Formerly NITIE Mumbai) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
-location: Powai
-state: Mumbai
+      Yes, IIM Mumbai (Formerly NITIE Mumbai) provides merit scholarships to
+      high scorers in entrance tests, tuition fee waivers for economically
+      weaker candidates, and assistance for collateral-free bank loans.
+location: Mumbai
+state: Maharashtra
 ---
 
 # [IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict

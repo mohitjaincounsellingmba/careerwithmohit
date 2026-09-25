@@ -3,7 +3,7 @@ title: >-
   Jaipuria Noida Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest
   Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive Jaipuria Institute of Management Noida review for the 2027–2029
   session. Explore verified PGDM fee structure (₹16.50 Lakhs in 6 trimesters),
@@ -69,7 +69,7 @@ faqs:
       recognized as MBA-equivalent by the Association of Indian Universities
       (AIU), and it is a member of the prestigious AACSB Business Education
       Alliance.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

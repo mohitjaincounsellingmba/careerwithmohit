@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Jamshedpur 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options in Jamshedpur? Check our list of the best
   MBA colleges under 5 lakhs in Jamshedpur for 2026, comparing fees, entrance

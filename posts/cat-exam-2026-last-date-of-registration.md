@@ -1,10 +1,13 @@
 ---
-title: 'CAT Exam 2026 Last Date of Registration: Deadline, Fees, Extension & How to Apply'
+title: >-
+  CAT Exam 2026 Last Date of Registration: Deadline, Fees, Extension & How to
+  Apply
 date: '2026-09-10'
-category: MBA
+category: Exams
 description: >-
-  Check the CAT Exam 2026 last date of registration, official application deadline,
-  registration fee, step-by-step form fill-up guide, documents required, and top IIM cutoffs.
+  Check the CAT Exam 2026 last date of registration, official application
+  deadline, registration fee, step-by-step form fill-up guide, documents
+  required, and top IIM cutoffs.
 keywords:
   - cat exam 2026 last date of registration
   - cat 2026 registration deadline
@@ -14,30 +17,41 @@ keywords:
   - how to apply for cat 2026
   - cat 2026 correction window date
   - iim cat registration 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT exam 2026 last date of registration?
     answer: >-
-      The official last date for CAT 2026 registration is expected to fall in the third week
-      of September 2026 (around September 13 to September 20, 2026, by 5:00 PM). In past years,
-      IIMs have typically granted a 5 to 7-day extension before closing the window permanently.
+      The official last date for CAT 2026 registration is expected to fall in
+      the third week of September 2026 (around September 13 to September 20,
+      2026, by 5:00 PM). In past years, IIMs have typically granted a 5 to 7-day
+      extension before closing the window permanently.
   - question: Can the CAT 2026 registration deadline be extended?
     answer: >-
-      Historically, the CAT convening IIM extends the registration window by 4 to 7 days to accommodate
-      candidates facing server surges or payment issues. However, candidates should never wait for an extension.
+      Historically, the CAT convening IIM extends the registration window by 4
+      to 7 days to accommodate candidates facing server surges or payment
+      issues. However, candidates should never wait for an extension.
   - question: What is the registration fee for CAT 2026?
     answer: >-
-      The registration fee for CAT 2026 is ₹2,500 for General, EWS, and NC-OBC candidates, and ₹1,250
-      for SC, ST, and PwD category applicants. The fee must be paid online via credit/debit card, net banking, or UPI.
+      The registration fee for CAT 2026 is ₹2,500 for General, EWS, and NC-OBC
+      candidates, and ₹1,250 for SC, ST, and PwD category applicants. The fee
+      must be paid online via credit/debit card, net banking, or UPI.
   - question: What documents are required for CAT 2026 online registration?
     answer: >-
-      You need a valid email ID and mobile number, recent passport-size photograph, digital signature,
-      10th/12th/Graduation marksheets, category/caste certificate (if applicable), and PwD certificate (if applicable).
+      You need a valid email ID and mobile number, recent passport-size
+      photograph, digital signature, 10th/12th/Graduation marksheets,
+      category/caste certificate (if applicable), and PwD certificate (if
+      applicable).
   - question: What is the CAT 2026 exam date?
     answer: >-
-      CAT 2026 will be conducted on the last Sunday of November 2026 (November 29, 2026) across three
-      computer-based test (CBT) slots nationwide.
-location: All India
-state: India
+      CAT 2026 will be conducted on the last Sunday of November 2026 (November
+      29, 2026) across three computer-based test (CBT) slots nationwide.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # CAT Exam 2026 Last Date of Registration: Complete Timeline, Fees & Application Guide

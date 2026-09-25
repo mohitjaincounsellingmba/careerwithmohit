@@ -1,8 +1,13 @@
 ---
-title: 'Executive MBA: IIM Ahmedabad PGPX vs ISB Hyderabad PGP Eligibility, Fees & Placements 2026'
+title: >-
+  Executive MBA: IIM Ahmedabad PGPX vs ISB Hyderabad PGP Eligibility, Fees &
+  Placements 2026
 date: '2026-09-12'
-description: 'Comparing India top 1-year executive MBA programs: IIM Ahmedabad PGPX vs ISB Hyderabad PGP. Eligibility criteria, GMAT/GRE cutoffs, fees, and career ROI.'
-category: 'Executive MBA'
+description: >-
+  Comparing India top 1-year executive MBA programs: IIM Ahmedabad PGPX vs ISB
+  Hyderabad PGP. Eligibility criteria, GMAT/GRE cutoffs, fees, and career ROI
+  for 2026-2027 admissions & career guidance.
+category: Jobs & Careers
 keywords:
   - executive mba iim ahmedabad vs isb hyderabad eligibility
   - iim ahmedabad pgpx eligibility work experience
@@ -10,17 +15,40 @@ keywords:
   - iima pgpx vs isb pgp placement comparison
   - executive mba fees iim ahmedabad isb
   - best 1 year executive mba in india
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
   - question: What is the work experience requirement for IIM Ahmedabad PGPX vs ISB PGP?
-    answer: "IIM Ahmedabad PGPX requires a minimum of 4 years (48 months) of full-time professional work experience as of March 31 of the admission year (average batch experience is ~7–8 years). ISB PGP requires a minimum of 2 years (24 months) of full-time work experience (average batch experience is ~4–5 years)."
+    answer: >-
+      IIM Ahmedabad PGPX requires a minimum of 4 years (48 months) of full-time
+      professional work experience as of March 31 of the admission year (average
+      batch experience is ~7–8 years). ISB PGP requires a minimum of 2 years (24
+      months) of full-time work experience (average batch experience is ~4–5
+      years).
   - question: What are the GMAT and GRE score expectations for IIMA PGPX and ISB?
-    answer: "For IIMA PGPX, competitive scores typically range between 645–665+ in the GMAT Focus Edition (or 700+ in GMAT Classic) and 322+ in GRE. For ISB PGP, average GMAT Focus Edition scores stand at 655–675 (Classic 710–720) and GRE 325+."
+    answer: >-
+      For IIMA PGPX, competitive scores typically range between 645–665+ in the
+      GMAT Focus Edition (or 700+ in GMAT Classic) and 322+ in GRE. For ISB PGP,
+      average GMAT Focus Edition scores stand at 655–675 (Classic 710–720) and
+      GRE 325+.
   - question: How do total program fees compare between IIMA PGPX and ISB PGP?
-    answer: "IIM Ahmedabad PGPX fees are approximately ₹33.5–35 Lakhs (inclusive of tuition, books, and international immersion travel). ISB PGP fees are approximately ₹41.5–44.5 Lakhs (inclusive of tuition, accommodation, and taxes)."
+    answer: >-
+      IIM Ahmedabad PGPX fees are approximately ₹33.5–35 Lakhs (inclusive of
+      tuition, books, and international immersion travel). ISB PGP fees are
+      approximately ₹41.5–44.5 Lakhs (inclusive of tuition, accommodation, and
+      taxes).
   - question: What are the average placement packages for both executive programs?
-    answer: "Both programs deliver world-class career transitions. IIM Ahmedabad PGPX reports an average package of ₹34.5–36.5 LPA, while ISB Hyderabad/Mohali reports an average package of ₹33.5–34.8 LPA, with top offers exceeding ₹60–75 LPA in consulting, tech, and private equity."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Both programs deliver world-class career transitions. IIM Ahmedabad PGPX
+      reports an average package of ₹34.5–36.5 LPA, while ISB Hyderabad/Mohali
+      reports an average package of ₹33.5–34.8 LPA, with top offers exceeding
+      ₹60–75 LPA in consulting, tech, and private equity.
+location: Hyderabad
+state: Telangana
 ---
 
 For experienced working professionals aiming to transition into senior management, strategic consulting, venture capital, or product leadership, India offers two world-renowned 1-year MBA programs: the **Post Graduate Programme in Management for Executives (PGPX) at [IIM Ahmedabad](/colleges/iim-ahmedabad)** and the **Post Graduate Programme in Management (PGP) at the Indian School of Business (ISB Hyderabad & Mohali)**.

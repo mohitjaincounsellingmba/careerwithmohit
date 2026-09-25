@@ -6,7 +6,7 @@ date: '2026-09-10'
 description: >-
   Looking for top MBA colleges accepting CAT cut off 80 to 85 percentile?
   Compare TAPMI, FORE, GIM, LBSIM, Great Lakes, IRMA, NIBM, and IIT Dhanbad with
-  fees, packages, and ROI.
+  fees, packages, and ROI for 2026-2027 admissions & career guidance.
 keywords:
   - mba college accepting cat cut off 80 to 85 percentile
   - top mba colleges with 80-85 percentile in cat
@@ -27,7 +27,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-category: MBA Admissions
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+category: MBA
 image: /images/blog/mba-guide.webp
 faqs:
   - question: Which are the best MBA colleges accepting CAT cut off 80 to 85 percentile?
@@ -76,7 +80,8 @@ faqs:
       national exam scores. For instance, TAPMI, GIM, FORE, and LBSIM accept XAT
       scores alongside CAT; Great Lakes accepts CAT, XAT, and CMAT; while K.J.
       Somaiya and WeSchool accept CAT, XAT, and NMAT or CMAT.
-location: Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Top MBA Colleges Accepting CAT Cut Off 80 to 85 Percentile (2026–2027): Fees, Placements, Cutoffs & ROI Guide

@@ -3,7 +3,7 @@ title: >-
   NDIM Application Open 2027-29: PGDM Complete Admission Process, Eligibility,
   Exam Cutoffs, Fees & GD-PI Guide
 date: '2026-09-22'
-category: MBA Admissions
+category: Exams
 description: >-
   NDIM Delhi PGDM application is now open for the 2027-29 batch (32nd Intake).
   Complete step-by-step admission process, eligibility criteria,
@@ -29,6 +29,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is the NDIM Delhi PGDM application form open for the 2027–29 batch?
     answer: >-
@@ -74,7 +78,7 @@ faqs:
       degree examination are fully eligible to apply provisionally, provided
       they fulfill the 50% aggregate graduation criterion (45% for reserved
       categories) by final admission.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

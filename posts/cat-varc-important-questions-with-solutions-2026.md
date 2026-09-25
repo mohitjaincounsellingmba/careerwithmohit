@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How many Reading Comprehension (RC) passages appear in CAT VARC?
     answer: >-
@@ -50,9 +54,15 @@ faqs:
       With an accuracy of **85%**, attempting **16 to 18 questions** (typically
       3 complete RCs + 4 to 5 Verbal Ability questions) is sufficient to score
       **40+ marks**, which usually maps to a **99+ percentile** in CAT VARC.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.
 

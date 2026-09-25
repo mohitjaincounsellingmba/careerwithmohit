@@ -3,7 +3,7 @@ title: >-
   ISB&M Gurgaon (International School of Business & Media) Review 2026: Fees,
   Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of ISB&M Gurgaon (International School of Business &
   Media) covering MBA/PGDM fee structures, highest and average placements (₹7.5
@@ -48,7 +48,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at ISB&M Gurgaon
       (International School of Business & Media) is approximately ₹9.50 Lakhs
       (Total).
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

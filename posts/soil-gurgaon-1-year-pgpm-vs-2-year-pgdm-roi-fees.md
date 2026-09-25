@@ -6,8 +6,8 @@ date: '2026-09-12'
 description: >-
   Compare SOIL Institute of Management Gurgaon 1-Year PGPM (BL/HRL) vs 2-Year
   PGDM. Full breakdown of fees, work experience criteria, average packages, and
-  ROI.
-category: Colleges
+  ROI for 2026-2027 admissions & career guidance.
+category: MBA
 keywords:
   - soil gurgaon 1 year pgpm vs 2 year pgdm roi fees
   - soil institute of management gurgaon review
@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the main difference between SOIL 1-Year PGPM and 2-Year PGDM?
     answer: >-
@@ -46,7 +50,7 @@ faqs:
       Yes, SOIL accepts CAT, XAT, GMAT, NMAT, and MAT scores. Candidates can
       also take the proprietary SOIL Talent Assessment Test (STAT) followed by a
       comprehensive leadership interview.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

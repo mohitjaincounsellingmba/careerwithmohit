@@ -1,7 +1,7 @@
 ---
 title: 'Low Fees BBA Colleges in Delhi NCR 2026: Best ROI Options'
 date: '2026-05-23'
-category: BBA Admissions
+category: BBA
 description: >-
   Looking for affordable BBA programs? Explore the top low fees BBA colleges in
   Delhi NCR for 2026 offering excellent placements and high return on
@@ -38,7 +38,7 @@ faqs:
       Specializations in Business Analytics, Digital Marketing, Finance, and
       International Business are highly in demand and offer strong career
       progression.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Pursuing a Bachelor of Business Administration (BBA) does not have to drain your financial resources. While premium private institutions in Delhi NCR charge tuition fees ranging from ₹10 Lakhs to ₹15 Lakhs for the three-year course, several top-tier universities offer outstanding management education at an extremely affordable price point.

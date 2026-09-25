@@ -45,9 +45,15 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 If you are an MBA aspirant looking for high ROI (Return on Investment) in Delhi NCR, **Guru Gobind Singh Indraprastha University (GGSIPU)** is likely at the top of your list. With fees significantly lower than private PGDM institutes and placements competing with mid-tier B-schools, IPU is a "safe bet" for many.
 
 However, with 15+ affiliated colleges and two main university campuses, the quality varies drastically. In this guide, I’ll break down the **IPU MBA cut-offs, placements, and the honest pros and cons** of joining the GGSIPU ecosystem in 2026.

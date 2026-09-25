@@ -1,9 +1,10 @@
 ---
-title: >-
-  Baby IIMs Placement Report 2025: Average Packages, Lowest CTC & ROI Analysis
+title: 'Baby IIMs Placement Report 2025: Average Packages, Lowest CTC & ROI Analysis'
 date: '2026-08-15'
 description: >-
-  Detailed Baby IIMs Placement Report 2025 for IIM Nagpur, Amritsar, Visakhapatnam, Jammu, Sambalpur, Bodh Gaya & Sirmaur. Compare average CTC and private B-school ROI.
+  Detailed Baby IIMs Placement Report 2025 for IIM Nagpur, Amritsar,
+  Visakhapatnam, Jammu, Sambalpur, Bodh Gaya & Sirmaur. Compare average CTC and
+  private B-school ROI.
 keywords:
   - baby iims placement report 2025
   - iim nagpur placement 2025
@@ -19,14 +20,30 @@ keywords:
 faqs:
   - question: What was the highest and average package among Baby IIMs in 2025?
     answer: >-
-      In the 2025 placement season, IIM Amritsar led with an average package of INR 19.73 LPA and an international highest package of INR 58.52 LPA, followed by IIM Nagpur with an average CTC of INR 18.07 LPA and a top package of INR 69.57 LPA.
-  - question: Are Baby IIMs better than top private B-schools like NMIMS, SIBM, and TAPMI?
+      In the 2025 placement season, IIM Amritsar led with an average package of
+      INR 19.73 LPA and an international highest package of INR 58.52 LPA,
+      followed by IIM Nagpur with an average CTC of INR 18.07 LPA and a top
+      package of INR 69.57 LPA.
+  - question: >-
+      Are Baby IIMs better than top private B-schools like NMIMS, SIBM, and
+      TAPMI?
     answer: >-
-      Baby IIMs offer significantly lower batch fees (INR 16-18.5 Lakhs vs INR 24-28 Lakhs at top private institutes), the government-backed IIM degree, statutory autonomous status, and rapid salary growth, making them superior in long-term ROI and brand credibility.
+      Baby IIMs offer significantly lower batch fees (INR 16-18.5 Lakhs vs INR
+      24-28 Lakhs at top private institutes), the government-backed IIM degree,
+      statutory autonomous status, and rapid salary growth, making them superior
+      in long-term ROI and brand credibility.
   - question: What is the lowest package recorded at Baby IIMs?
     answer: >-
-      The base salary floor at Baby IIMs in 2025 was recorded between INR 10.5 LPA and INR 12.5 LPA, ensuring strong downside protection even during conservative economic cycles.
+      The base salary floor at Baby IIMs in 2025 was recorded between INR 10.5
+      LPA and INR 12.5 LPA, ensuring strong downside protection even during
+      conservative economic cycles.
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹19.73 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Established between 2015 and 2016 under the **IIM Act, 2017**, the **Baby IIMs**—comprising **[IIM Nagpur](/colleges/iim-nagpur), [IIM Amritsar](/colleges/iim-amritsar), IIM Visakhapatnam (Vizag), [IIM Sambalpur](/colleges/iim-sambalpur), [IIM Jammu](/colleges/iim-jammu), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), and [IIM Sirmaur](/colleges/iim-sirmaur)**—have completed nearly a decade of institutional existence.
 

@@ -1,9 +1,15 @@
 ---
-title: 'Xavier Institute of Social Service (XISS Ranchi) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Xavier Institute of Social Service (XISS Ranchi) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive Xavier Institute of Social Service (XISS Ranchi) (Purulia Road, Ranchi, Jharkhand) review for 2027 admissions. Explore audited fee structure (₹8.90 Lakhs (Total)), latest placement packages (Avg: ₹7.50 LPA, Highest: ₹20.50 LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student verdict.
+  Comprehensive Xavier Institute of Social Service (XISS Ranchi) (Purulia Road,
+  Ranchi, Jharkhand) review for 2027 admissions. Explore audited fee structure
+  (₹8.90 Lakhs (Total)), latest placement packages (Avg: ₹7.50 LPA, Highest:
+  ₹20.50 LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student
+  verdict.
 keywords:
   - xavier institute of social service (xiss ranchi) review 2027
   - xavier institute of social service (xiss ranchi) mba fees
@@ -18,18 +24,35 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at Xavier Institute of Social Service (XISS Ranchi) in recent placement drives?
+  - question: >-
+      What is the average package at Xavier Institute of Social Service (XISS
+      Ranchi) in recent placement drives?
     answer: >-
-      The overall average placement package at Xavier Institute of Social Service (XISS Ranchi) stands at approximately ₹7.50 LPA, with the median package around ₹5.50 LPA and top offers reaching ₹20.50 LPA.
-  - question: What entrance exams are accepted for admission to Xavier Institute of Social Service (XISS Ranchi)?
+      The overall average placement package at Xavier Institute of Social
+      Service (XISS Ranchi) stands at approximately ₹7.50 LPA, with the median
+      package around ₹5.50 LPA and top offers reaching ₹20.50 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Xavier Institute of
+      Social Service (XISS Ranchi)?
     answer: >-
-      Xavier Institute of Social Service (XISS Ranchi) accepts scores from CAT, XAT, CMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Xavier Institute of Social Service (XISS Ranchi) for the 2-year MBA / PGDM program?
+      Xavier Institute of Social Service (XISS Ranchi) accepts scores from CAT,
+      XAT, CMAT for shortlisting eligible candidates, followed by profile
+      evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Xavier Institute of Social Service (XISS
+      Ranchi) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹8.90 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Xavier Institute of Social Service (XISS Ranchi) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹8.90 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Xavier Institute of Social Service (XISS Ranchi) offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Xavier Institute of Social Service (XISS Ranchi) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Xavier Institute of Social Service (XISS Ranchi) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Purulia Road
 state: Ranchi
 ---

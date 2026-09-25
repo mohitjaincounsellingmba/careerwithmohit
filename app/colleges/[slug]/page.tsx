@@ -87,6 +87,47 @@ function getCategoryKeywords(college: { name: string; location: string; category
   ];
 }
 
+function getCollegeGeo(location: string): { regionCode: string; placename: string; position: string } {
+  const loc = (location || '').toLowerCase();
+  if (loc.includes('delhi') || loc.includes('noida') || loc.includes('gurgaon') || loc.includes('gurugram') || loc.includes('ghaziabad') || loc.includes('faridabad') || loc.includes('ncr')) {
+    return { regionCode: 'IN-DL', placename: `${location}, Delhi NCR, India`, position: '28.6139;77.2090' };
+  }
+  if (loc.includes('mumbai') || loc.includes('navi mumbai') || loc.includes('thane')) {
+    return { regionCode: 'IN-MH', placename: `${location}, Maharashtra, India`, position: '19.0760;72.8777' };
+  }
+  if (loc.includes('pune')) {
+    return { regionCode: 'IN-MH', placename: `${location}, Maharashtra, India`, position: '18.5204;73.8567' };
+  }
+  if (loc.includes('bangalore') || loc.includes('bengaluru') || loc.includes('karnataka')) {
+    return { regionCode: 'IN-KA', placename: `${location}, Karnataka, India`, position: '12.9716;77.5946' };
+  }
+  if (loc.includes('hyderabad') || loc.includes('telangana')) {
+    return { regionCode: 'IN-TG', placename: `${location}, Telangana, India`, position: '17.3850;78.4867' };
+  }
+  if (loc.includes('chennai') || loc.includes('coimbatore') || loc.includes('tamil')) {
+    return { regionCode: 'IN-TN', placename: `${location}, Tamil Nadu, India`, position: '13.0827;80.2707' };
+  }
+  if (loc.includes('kolkata') || loc.includes('bengal')) {
+    return { regionCode: 'IN-WB', placename: `${location}, West Bengal, India`, position: '22.5726;88.3639' };
+  }
+  if (loc.includes('jaipur') || loc.includes('rajasthan')) {
+    return { regionCode: 'IN-RJ', placename: `${location}, Rajasthan, India`, position: '26.9124;75.7873' };
+  }
+  if (loc.includes('ahmedabad') || loc.includes('gujarat')) {
+    return { regionCode: 'IN-GJ', placename: `${location}, Gujarat, India`, position: '23.0225;72.5714' };
+  }
+  if (loc.includes('chandigarh') || loc.includes('punjab') || loc.includes('mohali')) {
+    return { regionCode: 'IN-PB', placename: `${location}, Punjab, India`, position: '30.7333;76.7794' };
+  }
+  if (loc.includes('lucknow') || loc.includes('uttar pradesh') || loc.includes('kanpur')) {
+    return { regionCode: 'IN-UP', placename: `${location}, Uttar Pradesh, India`, position: '26.8467;80.9462' };
+  }
+  if (loc.includes('dehradun') || loc.includes('uttarakhand') || loc.includes('roorkee')) {
+    return { regionCode: 'IN-UT', placename: `${location}, Uttarakhand, India`, position: '30.3165;78.0322' };
+  }
+  return { regionCode: 'IN-DL', placename: `${location}, India`, position: '28.6139;77.2090' };
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const college = await getCollegeBySlug(slug);
@@ -108,11 +149,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const keywords = getCategoryKeywords(college);
+  const geoInfo = getCollegeGeo(college.location);
 
   return {
     title,
     description,
-    keywords,
+    keywords: [...keywords, `${college.location} Colleges`, "MBA Admissions 2027", "Direct Admission India"],
     alternates: {
       canonical: `/colleges/${slug}/`,
     },
@@ -137,6 +179,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description,
       images: ["https://careerwithmohit.online/og-image.webp"],
     },
+    other: {
+      "geo.region": geoInfo.regionCode,
+      "geo.placename": geoInfo.placename,
+      "geo.position": geoInfo.position,
+      "ICBM": geoInfo.position.replace(';', ', '),
+      "coverage": geoInfo.placename,
+      "ai-content-declaration": "human-authored-expert-guidance"
+    }
   };
 }
 
@@ -159,6 +209,8 @@ export default async function CollegeDetailPage({ params }: PageProps) {
 
   // Do not serialize the complete college directory into every college page.
   const similarColleges = getSimilarColleges(college, getAllColleges());
+  const geoInfo = getCollegeGeo(college.location);
+  const coords = geoInfo.position.split(';');
 
   const jsonLdOrg = {
     "@context": "https://schema.org",
@@ -169,7 +221,13 @@ export default async function CollegeDetailPage({ params }: PageProps) {
     "address": {
       "@type": "PostalAddress",
       "addressLocality": college.location,
+      "addressRegion": geoInfo.regionCode.replace('IN-', ''),
       "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": coords[0],
+      "longitude": coords[1]
     },
     "aggregateRating": {
       "@type": "AggregateRating",

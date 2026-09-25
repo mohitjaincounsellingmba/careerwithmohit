@@ -1,7 +1,7 @@
 ---
 title: 'Maharaja Surajmal Institute (MSI) BBA Admission 2026: IPU CET Guide'
 date: '2026-05-15'
-category: BBA Admissions
+category: BBA
 description: >-
   Everything you need to know about BBA at [Maharaja Surajmal Institute
   (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) Delhi for 2026. Learn
@@ -34,9 +34,14 @@ faqs:
     answer: >-
       Yes, Maharaja Surajmal Institute has its own hostel facility for both boys
       and girls within the campus.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 
 [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), located in Janakpuri, Delhi, is consistently ranked as the #1 college under Guru Gobind Singh Indraprastha University (GGSIPU). Known for its academic discipline and excellent placement records, MSI is a top priority for BBA aspirants in 2026 who want a high-quality education at an affordable price.
 

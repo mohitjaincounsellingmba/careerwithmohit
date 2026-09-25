@@ -3,7 +3,7 @@ title: >-
   Galgotias University Online MBA Review 2026: Fees ₹90,000 | NAAC A+ | NCR
   Advantage
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 description: >-
   Honest review of Galgotias University Online MBA 2026. Check the real fees
   (₹90,000 total), NAAC A+ status, UGC-DEB approval, specializations, and
@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Why is Galgotias online MBA so cheap?
     answer: >-
@@ -43,7 +47,7 @@ faqs:
     answer: >-
       No. Admission is open to fresh graduates and working professionals without
       any entrance exam or work experience requirement.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

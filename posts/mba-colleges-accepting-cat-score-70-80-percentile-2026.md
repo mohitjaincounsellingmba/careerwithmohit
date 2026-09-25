@@ -3,7 +3,7 @@ title: >-
   MBA Colleges Accepting CAT Score 70-80 Percentile [2026] — Cutoffs, ROI &
   Placement Analysis
 date: '2026-08-14'
-category: MBA Admissions
+category: Exams
 description: >-
   Discover top MBA colleges accepting CAT score 70-80 percentile in 2026.
   Compare fees, cutoffs, placements (9-14 LPA), and profile-based direct
@@ -26,7 +26,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: Which are the top MBA colleges accepting 70-80 percentile in CAT 2026?
     answer: >-

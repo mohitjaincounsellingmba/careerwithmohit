@@ -1,9 +1,14 @@
 ---
-title: 'IIEBM (Indus Business School) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  IIEBM (Indus Business School) MBA / PGDM Admission 2027-29: Fees, Approvals,
+  Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for IIEBM (Indus Business School) (IIEBM Pune). Verified fee structure (₹8.25 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹7.50 LPA, Highest ₹30.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for IIEBM (Indus Business School) (IIEBM
+  Pune). Verified fee structure (₹8.25 Lakhs (Total)), PGDM approvals, audited
+  placements (Avg ₹7.50 LPA, Highest ₹30.00 LPA), PPO stats, certifications,
+  awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - IIEBM (Indus Business School) admission 2027-29
   - IIEBM Pune fees 2027
@@ -17,27 +22,51 @@ keywords:
   - best MBA PGDM colleges in Pune
   - direct admission in IIEBM Pune
   - MBA Career Counselling Mohit Jain
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at IIEBM Pune?
     answer: >-
-      The total course fee for the 2-year PGDM program at IIEBM (Indus Business School) for the 2027–29 batch is ₹8.25 Lakhs (Total) (₹4.12 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at IIEBM (Indus Business
+      School) for the 2027–29 batch is ₹8.25 Lakhs (Total) (₹4.12 Lakhs per
+      Year). Various merit and category scholarships are available for deserving
+      candidates.
   - question: Which statutory approvals and accreditations does IIEBM Pune hold?
     answer: >-
-      IIEBM (Indus Business School) holds AICTE Approved, Ministry of Education, SAP ERP Collaboration, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
+      IIEBM (Indus Business School) holds AICTE Approved, Ministry of Education,
+      SAP ERP Collaboration, ensuring valid degree equivalence, eligibility for
+      government jobs, and global corporate recognition.
   - question: What are the placement statistics (Average and Highest CTC) at IIEBM Pune?
     answer: >-
-      For recent placement drives, IIEBM Pune recorded an average salary package of ₹7.50 LPA (Top 25% averaging ₹10.50 LPA) and a peak highest CTC of ₹30.00 LPA, with leading recruiters including SAP Consulting Partners, Deloitte, PwC, Infosys.
-  - question: Does IIEBM Pune offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, IIEBM Pune recorded an average salary package
+      of ₹7.50 LPA (Top 25% averaging ₹10.50 LPA) and a peak highest CTC of
+      ₹30.00 LPA, with leading recruiters including SAP Consulting Partners,
+      Deloitte, PwC, Infosys.
+  - question: >-
+      Does IIEBM Pune offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 28% PPO conversion through direct SAP ERP systems integration and IT consulting tie-ups.
+      Yes, 28% PPO conversion through direct SAP ERP systems integration and IT
+      consulting tie-ups.
   - question: What value-added certifications are provided to students at IIEBM Pune?
     answer: >-
-      Students receive embedded industry certifications including Direct SAP ERP System Training & Certification, Advanced Business Analytics, Lean Six Sigma Green Belt, Financial Modeling & Valuation.
-  - question: How can students apply for admission or get counseling for IIEBM Pune for 2027–29?
+      Students receive embedded industry certifications including Direct SAP ERP
+      System Training & Certification, Advanced Business Analytics, Lean Six
+      Sigma Green Belt, Financial Modeling & Valuation.
+  - question: >-
+      How can students apply for admission or get counseling for IIEBM Pune for
+      2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Pune
-state: Pan India
+state: Maharashtra
 ---
 
 # [IIEBM (Indus Business School)](/colleges/iiebm-pune) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

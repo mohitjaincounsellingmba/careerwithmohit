@@ -1,26 +1,58 @@
 ---
-title: "Is an Online Degree Valid for UPSC, Government Jobs, MNCs & WES in 2027? Full Legal & Equivalence Guide"
-date: "2026-09-17"
-category: "Career Guidance & Regulations"
-description: "Is an online degree valid for UPSC Civil Services, Bank PO, SSC CGL, private MNCs & Canada WES evaluation? Read the official UGC Gazette Notification 2020 legal framework & court rulings."
+title: >-
+  Is an Online Degree Valid for UPSC, Government Jobs, MNCs & WES in 2027? Full
+  Legal & Equivalence Guide
+date: '2026-09-17'
+category: Online Degrees
+description: >-
+  Is an online degree valid for UPSC Civil Services, Bank PO, SSC CGL, private
+  MNCs & Canada WES evaluation? Read the official UGC Gazette Notification 2020
+  legal framework & court rulings for 2026-2027 admissions & career guidance.
 keywords:
-  - "is online degree valid for upsc and government jobs"
-  - "is online mba valid for government jobs"
-  - "ugc online degree equivalence gazette notification"
-  - "wes recognized online universities india"
-  - "is online degree accepted in tcs infosys"
-  - "online degree validity in canada pr"
-  - "mohit jain career counsellor"
-image: "/og-image.webp"
+  - is online degree valid for upsc and government jobs
+  - is online mba valid for government jobs
+  - ugc online degree equivalence gazette notification
+  - wes recognized online universities india
+  - is online degree accepted in tcs infosys
+  - online degree validity in canada pr
+  - mohit jain career counsellor
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+image: /og-image.webp
 faqs:
-  - question: "What does the UGC Gazette Notification 2020 state about online degree equivalence?"
-    answer: "As per Regulation 22 of the UGC (ODL & Online Programmes) Regulations 2020 published in the Gazette of India, degrees awarded through online and distance modes from recognized universities shall be treated as equivalent to corresponding degrees awarded through the conventional physical classroom mode."
-  - question: "Can I appear for UPSC Civil Services IAS/IPS with an Online Degree?"
-    answer: "Yes, 100%. The Union Public Service Commission (UPSC) requires candidates to hold a degree from a university incorporated by an Act of the Central or State Legislature in India. An online Bachelor's degree from any UGC-DEB entitled university satisfies this criteria completely."
-  - question: "Do top private IT and consulting MNCs accept online degrees?"
-    answer: "Yes. Major companies including TCS, Infosys, Wipro, Accenture, Deloitte, Amazon, and Cognizant accept UGC-recognized online degrees for fresh hiring, lateral entry, and internal promotions."
-  - question: "How does WES evaluate Indian online degrees for Canada PR?"
-    answer: "World Education Services (WES) evaluates Indian Online MBA, MCA, and Master's degrees from accredited universities like Amity Online, Jain Online, LPU Online, and Manipal Online as equivalent to Canadian Master's degrees, granting full Comprehensive Ranking System (CRS) immigration points."
+  - question: >-
+      What does the UGC Gazette Notification 2020 state about online degree
+      equivalence?
+    answer: >-
+      As per Regulation 22 of the UGC (ODL & Online Programmes) Regulations 2020
+      published in the Gazette of India, degrees awarded through online and
+      distance modes from recognized universities shall be treated as equivalent
+      to corresponding degrees awarded through the conventional physical
+      classroom mode.
+  - question: Can I appear for UPSC Civil Services IAS/IPS with an Online Degree?
+    answer: >-
+      Yes, 100%. The Union Public Service Commission (UPSC) requires candidates
+      to hold a degree from a university incorporated by an Act of the Central
+      or State Legislature in India. An online Bachelor's degree from any
+      UGC-DEB entitled university satisfies this criteria completely.
+  - question: Do top private IT and consulting MNCs accept online degrees?
+    answer: >-
+      Yes. Major companies including TCS, Infosys, Wipro, Accenture, Deloitte,
+      Amazon, and Cognizant accept UGC-recognized online degrees for fresh
+      hiring, lateral entry, and internal promotions.
+  - question: How does WES evaluate Indian online degrees for Canada PR?
+    answer: >-
+      World Education Services (WES) evaluates Indian Online MBA, MCA, and
+      Master's degrees from accredited universities like Amity Online, Jain
+      Online, LPU Online, and Manipal Online as equivalent to Canadian Master's
+      degrees, granting full Comprehensive Ranking System (CRS) immigration
+      points.
+location: Chandigarh
+state: Punjab
 ---
 
 # Is an Online Degree Valid for UPSC, Government Jobs, MNCs & WES in 2027? Full Legal & Equivalence Guide

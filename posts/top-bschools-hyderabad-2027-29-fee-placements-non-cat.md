@@ -3,7 +3,7 @@ title: >-
   Top B-Schools in Hyderabad for 2027-29: Fee Structure, Placement Stats &
   Non-CAT Options
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Explore top B-Schools in Hyderabad for 2027-29 admissions. Compare fee
   structure, placement stats, and non-CAT entrance options (MAT, CMAT, ATMA,

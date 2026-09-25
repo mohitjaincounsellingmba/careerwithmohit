@@ -1,7 +1,7 @@
 ---
 title: Can I do Law Without Maths? — Schools & Prep Guide 2026
 date: '2026-04-21'
-category: Law Admissions
+category: Law
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Can I do Law
   Without Maths? — Schools & Prep Guide 2026. Check updated fees, placement
@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is there any Law specialization that requires Maths?
     answer: >-
@@ -41,7 +45,7 @@ faqs:
       If you have stayed away from logic and maths, start your CLAT prep at
       least **12 months before the exam** to build the thinking patterns
       required for the test.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -1,35 +1,58 @@
 ---
-title: 'IFMR Graduate School of Business, Krea University Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IFMR Graduate School of Business, Krea University Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive IFMR Graduate School of Business, Krea University (Sri City, Andhra Pradesh) review for 2027 admissions. Explore audited fee structure (₹15.50 Lakhs (Total)), latest placement packages (Avg: ₹13.50 LPA, Highest: ₹22.90 LPA), entrance exam cutoffs (CAT, XAT, NMAT, CMAT, GMAT, GRE), NIRF ranking, and student verdict.
+  Comprehensive IFMR Graduate School of Business, Krea University (Sri City,
+  Andhra Pradesh) review for 2027 admissions. Explore audited fee structure
+  (₹15.50 Lakhs (Total)), latest placement packages (Avg: ₹13.50 LPA, Highest:
+  ₹22.90 LPA), entrance exam cutoffs (CAT, XAT, NMAT, CMAT, GMAT, GRE), NIRF
+  ranking, and student verdict.
 keywords:
-  - ifmr graduate school of business, krea university review 2027
-  - ifmr graduate school of business, krea university mba fees
-  - ifmr graduate school of business, krea university placements 2026 2027
-  - ifmr graduate school of business, krea university average package
-  - ifmr graduate school of business, krea university highest package
-  - ifmr graduate school of business, krea university cutoff cat xat
-  - ifmr graduate school of business, krea university admission process 2027
-  - ifmr graduate school of business, krea university ranking
+  - 'ifmr graduate school of business, krea university review 2027'
+  - 'ifmr graduate school of business, krea university mba fees'
+  - 'ifmr graduate school of business, krea university placements 2026 2027'
+  - 'ifmr graduate school of business, krea university average package'
+  - 'ifmr graduate school of business, krea university highest package'
+  - 'ifmr graduate school of business, krea university cutoff cat xat'
+  - 'ifmr graduate school of business, krea university admission process 2027'
+  - 'ifmr graduate school of business, krea university ranking'
   - Sri City MBA colleges 2027
   - best MBA colleges in Andhra Pradesh
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at IFMR Graduate School of Business, Krea University in recent placement drives?
+  - question: >-
+      What is the average package at IFMR Graduate School of Business, Krea
+      University in recent placement drives?
     answer: >-
-      The overall average placement package at IFMR Graduate School of Business, Krea University stands at approximately ₹13.50 LPA, with the median package around ₹8.50 LPA and top offers reaching ₹22.90 LPA.
-  - question: What entrance exams are accepted for admission to IFMR Graduate School of Business, Krea University?
+      The overall average placement package at IFMR Graduate School of Business,
+      Krea University stands at approximately ₹13.50 LPA, with the median
+      package around ₹8.50 LPA and top offers reaching ₹22.90 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to IFMR Graduate School of
+      Business, Krea University?
     answer: >-
-      IFMR Graduate School of Business, Krea University accepts scores from CAT, XAT, NMAT, CMAT, GMAT, GRE for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IFMR Graduate School of Business, Krea University for the 2-year MBA / PGDM program?
+      IFMR Graduate School of Business, Krea University accepts scores from CAT,
+      XAT, NMAT, CMAT, GMAT, GRE for shortlisting eligible candidates, followed
+      by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IFMR Graduate School of Business, Krea
+      University for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹15.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does IFMR Graduate School of Business, Krea University offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹15.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does IFMR Graduate School of Business, Krea University offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, IFMR Graduate School of Business, Krea University provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IFMR Graduate School of Business, Krea University provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Sri City
 state: Andhra Pradesh
 ---

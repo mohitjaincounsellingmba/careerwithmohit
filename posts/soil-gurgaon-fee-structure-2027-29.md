@@ -3,7 +3,7 @@ title: >-
   SOIL Gurgaon Fee Structure 2027–29: PGDM & PGPM Course Fees, Hostel Charges,
   Scholarships & ROI Analysis
 date: '2026-08-19'
-category: MBA Admissions
+category: Exams
 description: >-
   Detailed breakdown of SOIL Gurgaon fee structure for the 2027–2029 batch.
   Explore 2-year PGDM and 1-year PGPM course fees, installment schedules, hostel
@@ -68,7 +68,7 @@ faqs:
       including SBI, HDFC Credila, Axis Bank, ICICI Bank, and Avanse Financial
       Services, offering collateral-free education loans covering up to 100% of
       academic and living expenses with flexible repayment moratoriums.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

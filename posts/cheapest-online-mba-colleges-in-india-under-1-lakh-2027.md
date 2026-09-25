@@ -3,7 +3,7 @@ title: >-
   Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees,
   ROI & Top Universities
 date: '2026-09-17'
-category: Online Degree & Affordable Education
+category: Online Degrees
 description: >-
   Discover top UGC-DEB approved online MBA colleges in India under ₹1 Lakh for
   2027. Compare Andhra University (₹62K), Galgotias (₹90K), Uttaranchal (₹98K),
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 image: /og-image.webp
 faqs:
   - question: Which is the cheapest UGC-DEB approved Online MBA in India in 2027?
@@ -51,7 +55,8 @@ faqs:
       statutory validity for government exams, whereas private institutions
       offer additional specialized electives, corporate virtual job fairs, and
       WES global recognition.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees, ROI & Top Universities

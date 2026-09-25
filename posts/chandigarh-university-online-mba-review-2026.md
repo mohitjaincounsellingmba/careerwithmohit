@@ -3,7 +3,7 @@ title: >-
   Chandigarh University Online MBA Review 2026: Fees, Specializations &
   Placement Reality
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Chandigarh
   University Online MBA Review 2026: Fees, Specializations & Placement Reality.
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-
@@ -43,7 +47,7 @@ faqs:
     answer: >-
       CU holds **NAAC A+** (not A++). Do not confuse it with other universities
       — always verify accreditation at [naac.gov.in](https://naac.gov.in).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

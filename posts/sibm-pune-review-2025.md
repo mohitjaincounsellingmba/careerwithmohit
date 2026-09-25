@@ -36,7 +36,13 @@ faqs:
     answer: "Yes, [SIBM Pune](/colleges/sibm-pune) consistently achieves **100% placements** with top-tier companies across consulting, finance, and FMCG.\n\n[\U0001F449 Check your [SIBM Pune](/colleges/sibm-pune) admission chances based on SNAP score!](/inquiry)"
 location: Pune
 state: Maharashtra
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹27.77 Lakhs | Audited placement: average salary of ₹28 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management) is consistently ranked among the Top 10 private B-schools in India. Known for its world-class Lavale campus and "Student-Driven" culture, it is the flagship institute of Symbiosis International University.
 

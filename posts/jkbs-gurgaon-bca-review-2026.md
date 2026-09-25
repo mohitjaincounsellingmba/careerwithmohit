@@ -39,9 +39,15 @@ faqs:
       Doing an MCA provides advanced technical expertise and is often treated on
       par with a B.Tech degree, unlocking higher entry-level packages in major
       IT companies.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: BBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 While JK Business School (JKBS) is predominantly known for its PGDM and BBA programs, its **Bachelor of Computer Applications (BCA)** has been gaining traction among students looking for a solid foundation in IT with a professional management touch. Affiliated with Gurugram University, the JKBS BCA program offers a blend of technical academic rigor and corporate readiness.
 
 In this **JKBS Gurgaon BCA Review 2026**, we analyze the fee structure, placement trends, and the unique assessment-based selection process to help you decide if it’s the right fit for your IT career.

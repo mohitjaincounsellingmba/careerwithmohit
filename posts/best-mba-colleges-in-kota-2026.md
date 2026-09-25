@@ -37,6 +37,7 @@ faqs:
       entrance tests.
 location: Jaipur
 state: Rajasthan
+category: Online Degrees
 ---
 
 Kota, globally recognized as the "Coaching Capital of India," is now evolving into a significant destination for higher education, including management studies. For students in Rajasthan looking for an MBA with affordable fees, strong government backing, or specialized private mentorship, Kota offers several viable options.

@@ -3,7 +3,7 @@ title: >-
   SOIL Gurgaon Application Form Open for 2027–29: Complete Review, Fees,
   Placements, Cutoffs & Selection Process
 date: '2026-08-19'
-category: MBA Admissions
+category: Exams
 description: >-
   SOIL Institute of Management Gurgaon has opened application forms for the
   2027–2029 batch. Read our complete review covering PGDM & PGPM fees, placement
@@ -60,7 +60,7 @@ faqs:
       The selection process includes an online application, profile
       shortlisting, a mandatory Design Thinking Workshop (Group Exercise), and a
       Personal Interview (PI) with industry experts and faculty.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

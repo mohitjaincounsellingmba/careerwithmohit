@@ -1,9 +1,12 @@
 ---
 title: 'IIM Sirmaur Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Sirmaur (Paonta Sahib, Himachal Pradesh) review for 2027 admissions. Explore audited fee structure (₹16.00 Lakhs (Total)), latest placement packages (Avg: ₹14.45 LPA, Highest: ₹64.12 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Sirmaur (Paonta Sahib, Himachal Pradesh) review for 2027
+  admissions. Explore audited fee structure (₹16.00 Lakhs (Total)), latest
+  placement packages (Avg: ₹14.45 LPA, Highest: ₹64.12 LPA), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim sirmaur review 2027
   - iim sirmaur mba fees
@@ -20,16 +23,25 @@ keywords:
 faqs:
   - question: What is the average package at IIM Sirmaur in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Sirmaur stands at approximately ₹14.45 LPA, with the median package around ₹9.50 LPA and top offers reaching ₹64.12 LPA.
+      The overall average placement package at IIM Sirmaur stands at
+      approximately ₹14.45 LPA, with the median package around ₹9.50 LPA and top
+      offers reaching ₹64.12 LPA.
   - question: What entrance exams are accepted for admission to IIM Sirmaur?
     answer: >-
-      IIM Sirmaur accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Sirmaur for the 2-year MBA / PGDM program?
+      IIM Sirmaur accepts scores from CAT for shortlisting eligible candidates,
+      followed by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Sirmaur for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹16.00 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹16.00 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Sirmaur offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Sirmaur provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Sirmaur provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Paonta Sahib
 state: Himachal Pradesh
 ---

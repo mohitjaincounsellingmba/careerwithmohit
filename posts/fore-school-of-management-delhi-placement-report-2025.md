@@ -41,9 +41,15 @@ faqs:
     answer: >-
       The CAT, XAT, and GMAT cutoffs for FORE School of Management typically
       range between 82 and 86 percentile for General applicants.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹16.40 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Strategically located in South Delhi’s corporate hub (Qutub Institutional Area), the **Foundation for Organisational Research and Education (FORE) School of Management** is one of North India’s most consistent management institutes.
 

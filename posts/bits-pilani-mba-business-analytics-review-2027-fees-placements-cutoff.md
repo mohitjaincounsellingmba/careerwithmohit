@@ -1,35 +1,52 @@
 ---
-title: 'Department of Management, BITS Pilani Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Department of Management, BITS Pilani Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth Department of Management, BITS Pilani (Pilani Campus, Vidya Vihar) review for 2027 admissions. Explore verified fee structure (₹11.50 – ₹13.50 Lakhs (Total 2-Year Residential MBA including hostel & mess)), latest placements (avg ₹13.50 – ₹14.20 LPA, highest ₹22.00 – ₹27.00 LPA), cutoffs (BAAT (Business Analytics Aptitude Test conducted by BITS Pilani) + CAT / XAT: 75–80+ %ile for initial shortlisting), and student verdict.
+  In-depth Department of Management, BITS Pilani (Pilani Campus, Vidya Vihar)
+  review for 2027 admissions. Explore verified fee structure (₹11.50 – ₹13.50
+  Lakhs (Total 2-Year Residential MBA including hostel & mess)), latest
+  placements (avg ₹13.50 – ₹14.20 LPA, highest ₹22.00 – ₹27.00 LPA), cutoffs
+  (BAAT (Business Analytics Aptitude Test conducted by BITS Pilani) + CAT / XAT:
+  75–80+ %ile for initial shortlisting), and student verdict.
 keywords:
-  - department of management, bits pilani review 2027
-  - department of management, bits pilani fees
-  - department of management, bits pilani placements 2026 2027
-  - department of management, bits pilani average package
-  - department of management, bits pilani highest package
-  - department of management, bits pilani cutoff cat xat gmat
-  - department of management, bits pilani admission process 2027
-  - department of management, bits pilani ranking
-  - Pilani, Rajasthan MBA colleges
+  - 'department of management, bits pilani review 2027'
+  - 'department of management, bits pilani fees'
+  - 'department of management, bits pilani placements 2026 2027'
+  - 'department of management, bits pilani average package'
+  - 'department of management, bits pilani highest package'
+  - 'department of management, bits pilani cutoff cat xat gmat'
+  - 'department of management, bits pilani admission process 2027'
+  - 'department of management, bits pilani ranking'
+  - 'Pilani, Rajasthan MBA colleges'
   - best MBA colleges in Rajasthan
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
 faqs:
   - question: What entrance exam is required for BITS Pilani MBA in Business Analytics?
     answer: >-
-      Candidates must take the Business Analytics Aptitude Test (BAAT) conducted online by BITS Pilani. Candidates are shortlisted for BAAT and personal interviews based on their CAT / XAT percentile (typically 75–80+ %ile) or academic credentials.
+      Candidates must take the Business Analytics Aptitude Test (BAAT) conducted
+      online by BITS Pilani. Candidates are shortlisted for BAAT and personal
+      interviews based on their CAT / XAT percentile (typically 75–80+ %ile) or
+      academic credentials.
   - question: What is the fee structure for BITS Pilani MBA?
     answer: >-
-      The total program fee for the 2-year residential MBA at BITS Pilani is approximately ₹11.50 to ₹13.50 Lakhs including tuition, hostel accommodation, and mess charges, offering one of the best ROI ratios in India.
+      The total program fee for the 2-year residential MBA at BITS Pilani is
+      approximately ₹11.50 to ₹13.50 Lakhs including tuition, hostel
+      accommodation, and mess charges, offering one of the best ROI ratios in
+      India.
   - question: What was the average package for BITS Pilani MBA in Business Analytics?
     answer: >-
-      The recent graduating batch achieved an average package of ₹13.50 to ₹14.20 LPA, with top analytics recruiters offering packages reaching up to ₹27.00 LPA.
+      The recent graduating batch achieved an average package of ₹13.50 to
+      ₹14.20 LPA, with top analytics recruiters offering packages reaching up to
+      ₹27.00 LPA.
   - question: Can non-engineers apply for BITS Pilani MBA?
     answer: >-
-      Yes, graduates with a Bachelor’s degree in disciplines requiring mathematics or statistics at the 10+2 or degree level (such as B.Sc., BCA, B.Com., Economics, B.E./B.Tech) are eligible to apply.
+      Yes, graduates with a Bachelor’s degree in disciplines requiring
+      mathematics or statistics at the 10+2 or degree level (such as B.Sc., BCA,
+      B.Com., Economics, B.E./B.Tech) are eligible to apply.
 location: Pilani
 state: Rajasthan
 ---

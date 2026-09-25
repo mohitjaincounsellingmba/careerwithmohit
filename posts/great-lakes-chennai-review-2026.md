@@ -22,7 +22,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
-category: Colleges
+category: MBA
 location: Chennai
 faqs:
   - question: >-
@@ -53,6 +53,11 @@ faqs:
       shortlisting.
 state: Tamil Nadu
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹15.50 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Great Lakes Institute of Management, Chennai**, situated in **Chennai (Manamai / ECR Campus)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Chennai, South India.
 

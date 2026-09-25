@@ -39,6 +39,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Bangalore
 state: Karnataka
+category: Online Degrees
 ---
 # Best Online MBA & BBA Colleges in Bangalore (2027): Fees, Accreditations & Placements
 

@@ -36,6 +36,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Mumbai
 state: Maharashtra
+category: Online Degrees
 ---
 # Top Online Degree Colleges in Mumbai & Pune, Maharashtra (2027): Fees & Admissions
 

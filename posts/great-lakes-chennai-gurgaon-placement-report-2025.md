@@ -62,9 +62,15 @@ faqs:
     answer: >-
       Great Lakes accepts CAT, XAT, GMAT, and CMAT scores for its admission
       rounds.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Great Lakes Institute of Management (GLIM)**, with premier campuses in **Chennai** and **Gurgaon**, is globally renowned for pioneering fast-track 1-Year MBA education (PGPM) and rigorous 2-Year corporate-aligned management degrees (PGDM).
 

@@ -1,30 +1,57 @@
 ---
-title: "CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics"
-date: "2026-09-10"
-description: "Comprehensive report on CAT 2026 total registrations till now, closing date trends, and last 5-year official records of registered vs appeared candidates, attendance rates, and competition analysis."
+title: >-
+  CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs
+  Appeared Statistics
+date: '2026-09-10'
+description: >-
+  Comprehensive report on CAT 2026 total registrations till now, closing date
+  trends, and last 5-year official records of registered vs appeared candidates,
+  attendance rates, and competition analysis.
 keywords:
-  - "CAT 2026 total registration till now"
-  - "CAT registration last 5 years"
-  - "CAT registered vs appeared candidates"
-  - "CAT exam attendance rate"
-  - "CAT total applicants 2026"
-  - "CAT 2024 registered vs appeared"
-  - "CAT 2023 registered vs appeared"
-  - "IIM CAT competition analysis 2026"
-  - "CAT percentile vs marks 2026"
-category: "MBA"
-image: "/images/blog/mba-guide.webp"
+  - CAT 2026 total registration till now
+  - CAT registration last 5 years
+  - CAT registered vs appeared candidates
+  - CAT exam attendance rate
+  - CAT total applicants 2026
+  - CAT 2024 registered vs appeared
+  - CAT 2023 registered vs appeared
+  - IIM CAT competition analysis 2026
+  - CAT percentile vs marks 2026
+category: Exams
+image: /images/blog/mba-guide.webp
 faqs:
-  - question: "What is the expected total registration for CAT 2026 till now?"
-    answer: "As the CAT 2026 registration window enters its final stretch in September 2026, total registrations are projected to reach between 3.15 Lakh and 3.30 Lakh candidates, tracking closely with the historic highs set during CAT 2023 (3.28 lakh) and CAT 2024 (3.29 lakh)."
-  - question: "How many candidates actually appeared for CAT in the last 5 years?"
-    answer: "In CAT 2024, 2.93 lakh candidates appeared out of 3.29 lakh registered (89.06% attendance). In CAT 2023, 2.88 lakh appeared out of 3.28 lakh registered (87.80%). In CAT 2022, 2.22 lakh appeared out of 2.55 lakh registered (86.96%). In CAT 2021, 1.92 lakh appeared out of 2.30 lakh registered (83.34%). In CAT 2020, 1.90 lakh appeared out of 2.28 lakh registered (83.46%)."
-  - question: "What is the average attendance rate in the CAT exam?"
-    answer: "On average, the attendance rate for the CAT exam hovers between 83% and 89%. This indicates that approximately 35,000 to 42,000 registered candidates skip the exam on test day each year."
-  - question: "Has female candidate participation increased in CAT registrations?"
-    answer: "Yes, female candidate registrations have grown significantly from 75,000 (~33%) in 2020 to over 1.19 lakh (~36.2%) in CAT 2024. Increased gender diversity points awarded during IIM shortlisting have encouraged more women graduates to take the test."
-  - question: "What raw score is needed for a 99 percentile in CAT with 2.9 lakh candidates appearing?"
-    answer: "In the standard 66-question (198-mark) format, a net raw score of 76 to 82 marks typically guarantees a 99+ percentile, which translates to correctly solving around 27 to 30 questions with 90%+ accuracy."
+  - question: What is the expected total registration for CAT 2026 till now?
+    answer: >-
+      As the CAT 2026 registration window enters its final stretch in September
+      2026, total registrations are projected to reach between 3.15 Lakh and
+      3.30 Lakh candidates, tracking closely with the historic highs set during
+      CAT 2023 (3.28 lakh) and CAT 2024 (3.29 lakh).
+  - question: How many candidates actually appeared for CAT in the last 5 years?
+    answer: >-
+      In CAT 2024, 2.93 lakh candidates appeared out of 3.29 lakh registered
+      (89.06% attendance). In CAT 2023, 2.88 lakh appeared out of 3.28 lakh
+      registered (87.80%). In CAT 2022, 2.22 lakh appeared out of 2.55 lakh
+      registered (86.96%). In CAT 2021, 1.92 lakh appeared out of 2.30 lakh
+      registered (83.34%). In CAT 2020, 1.90 lakh appeared out of 2.28 lakh
+      registered (83.46%).
+  - question: What is the average attendance rate in the CAT exam?
+    answer: >-
+      On average, the attendance rate for the CAT exam hovers between 83% and
+      89%. This indicates that approximately 35,000 to 42,000 registered
+      candidates skip the exam on test day each year.
+  - question: Has female candidate participation increased in CAT registrations?
+    answer: >-
+      Yes, female candidate registrations have grown significantly from 75,000
+      (~33%) in 2020 to over 1.19 lakh (~36.2%) in CAT 2024. Increased gender
+      diversity points awarded during IIM shortlisting have encouraged more
+      women graduates to take the test.
+  - question: >-
+      What raw score is needed for a 99 percentile in CAT with 2.9 lakh
+      candidates appearing?
+    answer: >-
+      In the standard 66-question (198-mark) format, a net raw score of 76 to 82
+      marks typically guarantees a 99+ percentile, which translates to correctly
+      solving around 27 to 30 questions with 90%+ accuracy.
 ---
 
 # CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics

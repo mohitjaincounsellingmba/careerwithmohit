@@ -3,7 +3,7 @@ title: >-
   Sparsh Global Business School (SGBS) Review 2026: Fees, Placements, Cutoffs &
   ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Sparsh Global
   Business School (SGBS) Review 2026: Fees, Placements, Cutoffs & ROI Analysis.
@@ -44,7 +44,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Sparsh Global
       Business School (SGBS) is approximately ₹10.50 Lakhs (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

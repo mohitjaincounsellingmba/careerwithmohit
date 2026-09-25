@@ -28,6 +28,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: Study Abroad
 ---
 Sweden — the land of **IKEA, Spotify, Ericsson, and Volvo** — is one of Scandinavia's most exciting study destinations for Indian students. With a strong startup ecosystem, world-class research universities, English-taught master's programs, and a post-study residence permit, Sweden offers Indian students an exceptional combination of quality, innovation, and career opportunity in 2026.
 

@@ -42,8 +42,9 @@ faqs:
     answer: >-
       FIIB typically accepts candidates with 60–75 percentile in CAT/XAT, along
       with MAT, CMAT, ATMA, and GMAT scores.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
 
 When MBA aspirants in Delhi search for a PGDM college that balances **global accreditation, industry relevance, and strong placements**, FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)) consistently makes the shortlist. But what actually sets FIIB apart from the dozens of AICTE-approved B-schools competing in the same bracket?

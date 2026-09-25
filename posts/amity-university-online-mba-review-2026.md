@@ -3,7 +3,7 @@ title: >-
   Amity University Online MBA Review 2026: Fees, Specializations & Placement
   Reality
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 image: /blog/amity-university-online-mba-review-2026.png
 description: >-
   Honest review of [Amity University](/colleges/amity-noida) Online MBA 2026.
@@ -48,7 +48,7 @@ faqs:
       The Online MBA uses a live LMS with real-time classes, while Distance MBA
       was an older correspondence model. Amity has now primarily shifted to
       online mode.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

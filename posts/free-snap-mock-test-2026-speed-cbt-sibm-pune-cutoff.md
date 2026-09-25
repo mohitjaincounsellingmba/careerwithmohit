@@ -3,7 +3,7 @@ title: >-
   Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with SIBM Pune
   Cutoff Predictor
 date: '2026-08-22'
-category: MBA
+category: Exams
 description: >-
   Take the 100% free full-length SNAP 2026 Speed Mock Test online. 60 questions
   in 60 minutes covering General English (15), Quant & DI (20), and Analytical

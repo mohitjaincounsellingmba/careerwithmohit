@@ -1,7 +1,7 @@
 ---
 name: K J Somaiya Institute of Management
 logo: /logo.webp
-location: 'Vidyavihar, Mumbai, Maharashtra'
+location: Mumbai
 category: Management
 type: Institute
 courses:
@@ -55,6 +55,13 @@ keywords:
   - K J Somaiya Institute of Management PGDM placement
   - K J Somaiya Institute of Management MBA admission 2027
   - 'MBA colleges Vidyavihar, Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+state: Maharashtra
 ---
 
 ### About K J Somaiya Institute of Management

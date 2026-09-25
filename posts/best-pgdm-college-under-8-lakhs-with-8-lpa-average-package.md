@@ -5,8 +5,9 @@ title: >-
 date: '2026-09-12'
 description: >-
   Discover top PGDM and MBA colleges in India offering 1:1 Fee-to-Placement ROI.
-  Total fees under 8 Lakhs with verified 8+ LPA average salary packages.
-category: MBA Admissions
+  Total fees under 8 Lakhs with verified 8+ LPA average salary packages for
+  2026-2027 admissions & career guidance.
+category: Jobs & Careers
 keywords:
   - best pgdm college under 8 lakhs with 8 lpa average package
   - low fees high return mba colleges india
@@ -22,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which MBA college has the highest ROI under 8 lakhs fees?
     answer: >-
@@ -47,8 +52,8 @@ faqs:
       Absolutely. Freshers with strong communication, analytical abilities, and
       internship credentials routinely secure ₹8–10 LPA roles in market
       research, business development, financial analysis, and tech sales.
-location: Delhi
-state: Pan India
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 With MBA and PGDM tuition fees at tier-1 business schools soaring past ₹20 to ₹30 Lakhs, educational debt has become a severe burden for fresh graduates. As a result, savvy management aspirants are seeking **high-ROI business schools with a 1:1 fee-to-placement ratio**—institutions where the **total course fee is under ₹8 Lakhs and the average annual placement package is ₹8 LPA or higher**.

@@ -3,8 +3,9 @@ title: 'Free Free Mock Test Mock Test 2026: Full CBT Practice Paper with Solutio
 date: '2026-08-22'
 description: >-
   Take free online MBA mock tests with official sectional timers and instant AI
-  percentile prediction. Full CBT simulation for CAT, XAT, SNAP, NMAT, and CMAT.
-category: Mock Tests
+  percentile prediction. Full CBT simulation for CAT, XAT, SNAP, NMAT, and CMAT
+  for 2026-2027 admissions & career guidance.
+category: Online Degrees
 keywords:
   - free mba mock test with sectional timer and percentile
   - free cat mock test with timer

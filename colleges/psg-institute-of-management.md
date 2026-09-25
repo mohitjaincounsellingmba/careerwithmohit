@@ -1,7 +1,7 @@
 ---
 name: PSG Institute of Management (PSGIM)
 logo: /logo.webp
-location: 'Coimbatore, Tamil Nadu'
+location: Chennai
 category: Management
 type: Institute
 courses:
@@ -51,6 +51,13 @@ keywords:
   - PSG Institute of Management (PSGIM) PGDM placement
   - PSG Institute of Management (PSGIM) MBA admission 2027
   - 'MBA colleges Coimbatore, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+state: Tamil Nadu
 ---
 
 ### About PSG Institute of Management (PSGIM)

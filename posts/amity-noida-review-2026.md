@@ -3,7 +3,7 @@ title: >-
   Amity University (Noida Campus) Review 2026: Fees, Placements, Cutoffs & ROI
   Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of Amity University (Noida Campus) covering MBA/PGDM
   fee structures, highest and average placements (₹6.5 LPA), entrance exam
@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Amity
       University (Noida Campus) is approximately ₹16.80 Lakhs (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

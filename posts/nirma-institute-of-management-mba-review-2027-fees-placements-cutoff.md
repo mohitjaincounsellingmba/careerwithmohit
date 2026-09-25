@@ -1,35 +1,63 @@
 ---
-title: 'Institute of Management, Nirma University (IMNU) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Institute of Management, Nirma University (IMNU) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive Institute of Management, Nirma University (IMNU) (Ahmedabad, Gujarat) review for 2027 admissions. Explore audited fee structure (₹12.50 Lakhs (Total)), latest placement packages (Avg: ₹11.20 LPA, Highest: ₹30.00 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive Institute of Management, Nirma University (IMNU) (Ahmedabad,
+  Gujarat) review for 2027 admissions. Explore audited fee structure (₹12.50
+  Lakhs (Total)), latest placement packages (Avg: ₹11.20 LPA, Highest: ₹30.00
+  LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
-  - institute of management, nirma university (imnu) review 2027
-  - institute of management, nirma university (imnu) mba fees
-  - institute of management, nirma university (imnu) placements 2026 2027
-  - institute of management, nirma university (imnu) average package
-  - institute of management, nirma university (imnu) highest package
-  - institute of management, nirma university (imnu) cutoff cat
-  - institute of management, nirma university (imnu) admission process 2027
-  - institute of management, nirma university (imnu) ranking
+  - 'institute of management, nirma university (imnu) review 2027'
+  - 'institute of management, nirma university (imnu) mba fees'
+  - 'institute of management, nirma university (imnu) placements 2026 2027'
+  - 'institute of management, nirma university (imnu) average package'
+  - 'institute of management, nirma university (imnu) highest package'
+  - 'institute of management, nirma university (imnu) cutoff cat'
+  - 'institute of management, nirma university (imnu) admission process 2027'
+  - 'institute of management, nirma university (imnu) ranking'
   - Ahmedabad MBA colleges 2027
   - best MBA colleges in Gujarat
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: What is the average package at Institute of Management, Nirma University (IMNU) in recent placement drives?
+  - question: >-
+      What is the average package at Institute of Management, Nirma University
+      (IMNU) in recent placement drives?
     answer: >-
-      The overall average placement package at Institute of Management, Nirma University (IMNU) stands at approximately ₹11.20 LPA, with the median package around ₹7.50 LPA and top offers reaching ₹30.00 LPA.
-  - question: What entrance exams are accepted for admission to Institute of Management, Nirma University (IMNU)?
+      The overall average placement package at Institute of Management, Nirma
+      University (IMNU) stands at approximately ₹11.20 LPA, with the median
+      package around ₹7.50 LPA and top offers reaching ₹30.00 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Institute of Management,
+      Nirma University (IMNU)?
     answer: >-
-      Institute of Management, Nirma University (IMNU) accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Institute of Management, Nirma University (IMNU) for the 2-year MBA / PGDM program?
+      Institute of Management, Nirma University (IMNU) accepts scores from CAT
+      for shortlisting eligible candidates, followed by profile evaluation and
+      personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Institute of Management, Nirma University
+      (IMNU) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹12.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Institute of Management, Nirma University (IMNU) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹12.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Institute of Management, Nirma University (IMNU) offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Institute of Management, Nirma University (IMNU) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Institute of Management, Nirma University (IMNU) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Ahmedabad
 state: Gujarat
 ---

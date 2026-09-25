@@ -57,6 +57,7 @@ faqs:
       seats**, which requires significantly higher percentiles.
 location: Mumbai
 state: Maharashtra
+category: Online Degrees
 ---
 
 **Breaking:** The **Maharashtra MBA CET 2026 Result** has been officially declared on **May 30, 2026** by the State Common Entrance Test Cell, Maharashtra. All candidates who appeared in the MAH MBA/MMS CET 2026 (Phase 1 and Phase 2) can now download their scorecards from the official portal.

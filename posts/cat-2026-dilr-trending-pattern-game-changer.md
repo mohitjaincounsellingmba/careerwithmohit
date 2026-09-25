@@ -26,7 +26,13 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 The Common Admission Test (CAT) is legendary for its unpredictable nature, but if there is one section that consistently keeps aspirants awake at night, it is **Data Interpretation & Logical Reasoning (DILR)**. Over the last few seasons of the [CAT exam](/blog/all-about-cat-exam), DILR has transitioned from being a test of standard calculation to the ultimate differentiator between a 95 percentile and a 99+ percentile.
 
 In this guide, we will dissect why DILR has earned the reputation of being the game-changer for CAT 2026, analyze recent trend lines, examine the highest-frequency set types, and lay out an actionable 90-day strategy to master this section.

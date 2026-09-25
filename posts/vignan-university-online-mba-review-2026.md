@@ -3,7 +3,7 @@ title: >-
   Vignan University Online MBA Review 2026: Fees ₹90,000–₹1,10,000 | NAAC A+ |
   South India
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Vignan
   University Online MBA Review 2026: Fees ₹90,000–₹1,10,000 | NAAC A+ | South
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does Vignan offer dual specialization in online MBA?
     answer: >-
@@ -41,7 +45,7 @@ faqs:
     answer: >-
       Budget for an annual examination fee of ~₹4,000 and a one-time
       registration fee of ~₹1,000 in addition to the tuition fees.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

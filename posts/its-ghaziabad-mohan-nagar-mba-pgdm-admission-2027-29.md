@@ -3,7 +3,7 @@ title: >-
   Institute of Technology & Science (ITS Ghaziabad) MBA / PGDM Admission
   2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
   Complete 2027-29 admission guide for Institute of Technology & Science (ITS
   Ghaziabad) (ITS Ghaziabad). Verified fee structure (₹6.95 Lakhs for PGDM /
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at ITS Ghaziabad?
     answer: >-
@@ -71,8 +75,8 @@ faqs:
       directly with senior career counselor Mohit Jain (+91 9560020771) for
       profile evaluation, GD-PI tips, scholarship calculation, and admission
       guidance.
-location: Ghaziabad
-state: Pan India
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Institute of Technology & Science (ITS Ghaziabad) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

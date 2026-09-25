@@ -3,7 +3,7 @@ title: >-
   Uttaranchal University Online MBA Review 2026: Fees ₹94,000–₹1,40,000 | NAAC
   A+
 date: '2026-05-10'
-category: Online MBA
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Uttaranchal
   University Online MBA Review 2026: Fees ₹94,000–₹1,40,000 | NAAC A+. Check
@@ -25,6 +25,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is Uttaranchal better than Kalinga for an online MBA?
     answer: >-
@@ -38,7 +42,7 @@ faqs:
       strength. Choose based on geography and employer network fit.
   - question: Can I pursue Uttaranchal Online MBA from outside Uttarakhand?
     answer: Yes. The program is 100% online and accessible from any location in India.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

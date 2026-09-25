@@ -31,7 +31,13 @@ faqs:
     answer: The highest package recorded for the recent batch was ₹44 LPA.
 location: Dehradun
 state: Uttarakhand
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **COER University** (formerly known as the College of Engineering Roorkee - CORE), established in 1998, is one of the oldest and most respected private engineering colleges in Uttarakhand. Located near Roorkee (the hub of world-class technical education), COER is known for its academic heritage and strong placement record.
 

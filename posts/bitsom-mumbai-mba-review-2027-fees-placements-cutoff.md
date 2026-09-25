@@ -1,9 +1,16 @@
 ---
-title: 'BITS School of Management (BITSoM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  BITS School of Management (BITSoM) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth BITS School of Management (BITSoM) (Kalyan / Powai Campus) review for 2027 admissions. Explore verified fee structure (₹27.00 – ₹28.50 Lakhs (Complete 2-Year Residential MBA including hostel & meals)), latest placements (avg ₹23.50 – ₹24.00 LPA, highest ₹50.00 LPA), cutoffs (CAT: 90–94+ %ile; GMAT: 680+ (Focus 635+); GRE: 318+ (Holistic evaluation)), and student verdict.
+  In-depth BITS School of Management (BITSoM) (Kalyan / Powai Campus) review for
+  2027 admissions. Explore verified fee structure (₹27.00 – ₹28.50 Lakhs
+  (Complete 2-Year Residential MBA including hostel & meals)), latest placements
+  (avg ₹23.50 – ₹24.00 LPA, highest ₹50.00 LPA), cutoffs (CAT: 90–94+ %ile;
+  GMAT: 680+ (Focus 635+); GRE: 318+ (Holistic evaluation)), and student
+  verdict.
 keywords:
   - bits school of management (bitsom) review 2027
   - bits school of management (bitsom) fees
@@ -13,23 +20,39 @@ keywords:
   - bits school of management (bitsom) cutoff cat xat gmat
   - bits school of management (bitsom) admission process 2027
   - bits school of management (bitsom) ranking
-  - Mumbai, Maharashtra MBA colleges
+  - 'Mumbai, Maharashtra MBA colleges'
   - best MBA colleges in Maharashtra
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What degree does BITSoM award upon graduation?
     answer: >-
-      Graduates receive a formal Master of Business Administration (MBA) degree awarded directly by Birla Institute of Technology and Science (BITS) Pilani, which holds the government-designated "Institution of Eminence" status.
+      Graduates receive a formal Master of Business Administration (MBA) degree
+      awarded directly by Birla Institute of Technology and Science (BITS)
+      Pilani, which holds the government-designated "Institution of Eminence"
+      status.
   - question: What is the CAT cutoff for BITSoM Mumbai?
     answer: >-
-      BITSoM does not enforce a rigid cut-off score. It uses holistic evaluation; however, competitive admitted candidates typically possess CAT scores between 90 and 95 percentile, GMAT scores of 680–740, or GRE scores of 318–330.
+      BITSoM does not enforce a rigid cut-off score. It uses holistic
+      evaluation; however, competitive admitted candidates typically possess CAT
+      scores between 90 and 95 percentile, GMAT scores of 680–740, or GRE scores
+      of 318–330.
   - question: What is the average package at BITSoM Mumbai?
     answer: >-
-      BITSoM has delivered remarkable placement outcomes with an average package of ₹23.50 to ₹24.00 LPA, a median package of ₹22.50 LPA, and the top 30% of the cohort securing over ₹28.00 LPA.
+      BITSoM has delivered remarkable placement outcomes with an average package
+      of ₹23.50 to ₹24.00 LPA, a median package of ₹22.50 LPA, and the top 30%
+      of the cohort securing over ₹28.00 LPA.
   - question: Who teaches at BITSoM Mumbai?
     answer: >-
-      The faculty comprises leading global professors from institutions like Kellogg School of Management, Wharton, NYU Stern, London Business School, and Texas A&M, bringing international pedagogy directly to Mumbai.
+      The faculty comprises leading global professors from institutions like
+      Kellogg School of Management, Wharton, NYU Stern, London Business School,
+      and Texas A&M, bringing international pedagogy directly to Mumbai.
 location: Mumbai
 state: Maharashtra
 ---

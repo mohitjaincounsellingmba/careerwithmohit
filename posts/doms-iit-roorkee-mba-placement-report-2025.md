@@ -36,7 +36,13 @@ faqs:
       Bank, Tata Steel, and Infosys.
 location: Dehradun
 state: Uttarakhand
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹17.91 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **Department of Management Studies (DoMS) at IIT Roorkee** is one of India's top-tier technological business schools, renowned for its strong industry integration, research culture, and executive training.
 

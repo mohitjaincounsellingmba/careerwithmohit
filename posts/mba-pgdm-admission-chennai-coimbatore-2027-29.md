@@ -3,7 +3,7 @@ title: >-
   MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees
   & Eligibility
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Complete guide to MBA and PGDM admissions in Chennai and Coimbatore for
   2027-29. Check TANCET/MAT cutoffs, total fees, placement stats, and selection

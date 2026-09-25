@@ -1,8 +1,8 @@
 ---
 name: 'J.C. Bose UST, YMCA Faridabad'
 logo: ''
-location: 'Faridabad, Haryana'
-state: Haryana
+location: Delhi NCR
+state: Delhi NCR
 category: Engineering
 type: State Govt. University
 courses:
@@ -54,6 +54,12 @@ keywords:
   - 'J.C. Bose UST, YMCA Faridabad CSE placement'
   - 'J.C. Bose UST, YMCA Faridabad B.Tech admission 2027'
   - 'engineering colleges Faridabad, Haryana'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 ---
 
 ### About J.C. Bose UST, YMCA Faridabad

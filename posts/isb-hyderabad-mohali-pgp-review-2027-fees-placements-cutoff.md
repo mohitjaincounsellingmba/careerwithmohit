@@ -1,9 +1,15 @@
 ---
-title: 'Indian School of Business (ISB) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Indian School of Business (ISB) Review 2027: Fees, Placements, Cutoff, Ranking
+  & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth Indian School of Business (ISB) (Hyderabad & Mohali) review for 2027 admissions. Explore verified fee structure (₹41.50 – ₹44.00 Lakhs (inclusive of tuition, accommodation & GST)), latest placements (avg ₹33.25 – ₹34.21 LPA, highest ₹66.00 – ₹72.00 LPA), cutoffs (GMAT: 710+ (Classic) / 655+ (Focus Edition); GRE: 325+ (No CAT/XAT)), and student verdict.
+  In-depth Indian School of Business (ISB) (Hyderabad & Mohali) review for 2027
+  admissions. Explore verified fee structure (₹41.50 – ₹44.00 Lakhs (inclusive
+  of tuition, accommodation & GST)), latest placements (avg ₹33.25 – ₹34.21 LPA,
+  highest ₹66.00 – ₹72.00 LPA), cutoffs (GMAT: 710+ (Classic) / 655+ (Focus
+  Edition); GRE: 325+ (No CAT/XAT)), and student verdict.
 keywords:
   - indian school of business (isb) review 2027
   - indian school of business (isb) fees
@@ -13,23 +19,38 @@ keywords:
   - indian school of business (isb) cutoff cat xat gmat
   - indian school of business (isb) admission process 2027
   - indian school of business (isb) ranking
-  - Hyderabad, Telangana / Mohali, Punjab MBA colleges
+  - 'Hyderabad, Telangana / Mohali, Punjab MBA colleges'
   - best MBA colleges in Telangana
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
   - question: Does ISB accept CAT or XAT scores for PGP admission?
     answer: >-
-      No. ISB accepts only GMAT and GRE scores for admission into its flagship PGP. CAT, XAT, MAT, or CMAT scores are strictly not eligible.
+      No. ISB accepts only GMAT and GRE scores for admission into its flagship
+      PGP. CAT, XAT, MAT, or CMAT scores are strictly not eligible.
   - question: What is the minimum work experience needed for ISB PGP?
     answer: >-
-      Candidates applying for the direct Post Graduate Programme (PGP) must have at least 24 months (2 years) of full-time work experience as of the program start date. Candidates in college or with under 2 years experience can apply via the Young Leaders Programme (YLP) or Early Entry Option (EEO).
+      Candidates applying for the direct Post Graduate Programme (PGP) must have
+      at least 24 months (2 years) of full-time work experience as of the
+      program start date. Candidates in college or with under 2 years experience
+      can apply via the Young Leaders Programme (YLP) or Early Entry Option
+      (EEO).
   - question: What is the average placement package at ISB Hyderabad and Mohali?
     answer: >-
-      The average CTC at ISB stands between ₹33.25 LPA and ₹34.21 LPA, with the median salary at ₹32.00 LPA and the highest domestic offers exceeding ₹66.00 to ₹72.00 LPA.
+      The average CTC at ISB stands between ₹33.25 LPA and ₹34.21 LPA, with the
+      median salary at ₹32.00 LPA and the highest domestic offers exceeding
+      ₹66.00 to ₹72.00 LPA.
   - question: What is the total fee for ISB PGP 2027–2028?
     answer: >-
-      The total fee for the 1-year residential PGP at ISB is approximately ₹41.50 to ₹44.00 Lakhs, covering tuition, shared/individual studio accommodation, academic courseware, and applicable GST.
+      The total fee for the 1-year residential PGP at ISB is approximately
+      ₹41.50 to ₹44.00 Lakhs, covering tuition, shared/individual studio
+      accommodation, academic courseware, and applicable GST.
 location: Hyderabad
 state: Telangana
 ---

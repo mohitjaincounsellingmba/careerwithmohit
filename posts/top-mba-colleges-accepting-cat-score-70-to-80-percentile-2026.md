@@ -1,7 +1,7 @@
 ---
 title: Top MBA Colleges for CAT 70-80 Percentile 2026 — Placements & Fees
 date: '2026-04-21'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
   Colleges for CAT 70-80 Percentile 2026 — Placements & Fees. Check updated
@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Are placements good in 70-80 percentile colleges?
     answer: >-
@@ -40,9 +44,14 @@ faqs:
     answer: >-
       Most close by **mid-January**. It is better to apply *before* the CAT
       result is out if you are reasonably confident of your score.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 Scoring between a **70 and 80 percentile in CAT** can feel like being in a "no man's land." You are far above the average, but still just short of the 95+ percentile needed for IIMs. 
 

@@ -3,7 +3,7 @@ title: >-
   St. Wilfred’s Institute of Management PGDM Admission Review 2026: Placements,
   Fees & Cutoff
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Looking for admission to St. Wilfred’s Institute of Management? Read our
   comprehensive PGDM review for 2026 covering total fees, average and highest

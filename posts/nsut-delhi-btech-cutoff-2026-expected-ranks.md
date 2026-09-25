@@ -39,9 +39,15 @@ faqs:
     answer: >-
       Cutoffs for reserved categories are much higher (relaxed). For example, SC
       candidates from Delhi often get branches under 1.5 Lakh rank.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**, formerly known as NSIT, is one of the most prestigious engineering institutions in India. Located in Dwarka, New Delhi, NSUT is renowned for its exceptional placement records, especially in the tech and software sectors. Along with DTU and IIIT Delhi, it forms the "Golden Triangle" of engineering education in the national capital.
 

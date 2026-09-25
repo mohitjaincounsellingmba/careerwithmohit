@@ -33,6 +33,7 @@ faqs:
     answer: "The university operates on a **365-day model** with strict attendance and professional grooming standards to make students corporate-ready.\n\n[\U0001F449 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry)"
 location: Pune
 state: Maharashtra
+category: Online Degrees
 ---
 
 Sri Balaji University, Pune (SBUP) is legendary in the management education circuit for its military-like discipline and rigorous training. Its flagship institute, **BIMM (Balaji Institute of Modern Management)**, is consistently ranked among the top private B-schools in India.

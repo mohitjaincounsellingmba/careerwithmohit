@@ -1,19 +1,45 @@
 ---
-title: "MBA & PGDM Admission 2027–2029 Complete Guide: Eligibility, Dates, Fees & Top Colleges"
-date: "2026-09-06"
-description: "Comprehensive 2027–2029 MBA and PGDM admission guide. Explore eligibility criteria, entrance exam timelines (CAT, XAT, CMAT, MAT, SNAP, NMAT), fee structures, ROI, and top B-schools across India."
-keywords: ["MBA Admission 2027-2029", "PGDM Admissions 2027-29", "CAT 2026 for 2027 MBA", "Top MBA Colleges India 2027", "Direct MBA Admission 2027", "MBA Fees and Placement 2027", "MBA Eligibility 2027-29", "Best PGDM Colleges in India"]
-category: "MBA"
-image: "/images/blog/mba-guide.webp"
+title: >-
+  MBA & PGDM Admission 2027–2029 Complete Guide: Eligibility, Dates, Fees & Top
+  Colleges
+date: '2026-09-06'
+description: >-
+  Comprehensive 2027–2029 MBA and PGDM admission guide. Explore eligibility
+  criteria, entrance exam timelines (CAT, XAT, CMAT, MAT, SNAP, NMAT), fee
+  structures, ROI, and top B-schools across India.
+keywords:
+  - MBA Admission 2027-2029
+  - PGDM Admissions 2027-29
+  - CAT 2026 for 2027 MBA
+  - Top MBA Colleges India 2027
+  - Direct MBA Admission 2027
+  - MBA Fees and Placement 2027
+  - MBA Eligibility 2027-29
+  - Best PGDM Colleges in India
+category: Exams
+image: /images/blog/mba-guide.webp
 faqs:
-  - question: "When do admissions for MBA/PGDM batch 2027–2029 start?"
-    answer: "Admissions for the 2027–2029 batch begin in August–September 2026 with entrance exam registrations (CAT, NMAT, SNAP, XAT), followed by GD-PI rounds between January and April 2027. Classes commence in June–July 2027."
-  - question: "What is the minimum eligibility criteria for MBA/PGDM 2027–2029?"
-    answer: "Candidates must possess a Bachelor's degree in any discipline with a minimum of 50% aggregate marks (45% for SC/ST/PwD) from a recognized university. Final year graduation students are also eligible to apply conditionally."
-  - question: "Which entrance exams are accepted for MBA/PGDM 2027–2029 admissions?"
-    answer: "The primary national-level entrance exams are CAT 2026, XAT 2027, CMAT 2027, MAT 2026-2027, NMAT 2026, SNAP 2026, and ATMA 2027. State level exams like MAH-MBA-CET are also widely accepted."
-  - question: "Can I get direct admission into top PGDM colleges without CAT?"
-    answer: "Yes, premier AICTE-approved institutions offer admission based on MAT, CMAT, ATMA, or institutional profile-evaluation rounds along with academic records and Personal Interview scores."
+  - question: When do admissions for MBA/PGDM batch 2027–2029 start?
+    answer: >-
+      Admissions for the 2027–2029 batch begin in August–September 2026 with
+      entrance exam registrations (CAT, NMAT, SNAP, XAT), followed by GD-PI
+      rounds between January and April 2027. Classes commence in June–July 2027.
+  - question: What is the minimum eligibility criteria for MBA/PGDM 2027–2029?
+    answer: >-
+      Candidates must possess a Bachelor's degree in any discipline with a
+      minimum of 50% aggregate marks (45% for SC/ST/PwD) from a recognized
+      university. Final year graduation students are also eligible to apply
+      conditionally.
+  - question: Which entrance exams are accepted for MBA/PGDM 2027–2029 admissions?
+    answer: >-
+      The primary national-level entrance exams are CAT 2026, XAT 2027, CMAT
+      2027, MAT 2026-2027, NMAT 2026, SNAP 2026, and ATMA 2027. State level
+      exams like MAH-MBA-CET are also widely accepted.
+  - question: Can I get direct admission into top PGDM colleges without CAT?
+    answer: >-
+      Yes, premier AICTE-approved institutions offer admission based on MAT,
+      CMAT, ATMA, or institutional profile-evaluation rounds along with academic
+      records and Personal Interview scores.
 ---
 
 # MBA & PGDM Admission 2027–2029 Complete Guide: Eligibility, Dates, Fees & Top Colleges

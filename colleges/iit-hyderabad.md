@@ -1,7 +1,7 @@
 ---
 name: IIT Hyderabad (Indian Institute of Technology Hyderabad)
 logo: ''
-location: 'Sangareddy, Telangana'
+location: Hyderabad
 state: Telangana
 category: Engineering
 type: Institute of National Importance
@@ -61,6 +61,12 @@ keywords:
     IIT Hyderabad (Indian Institute of Technology Hyderabad) B.Tech admission
     2027
   - 'engineering colleges Sangareddy, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 ---
 
 ### About IIT Hyderabad (Indian Institute of Technology Hyderabad)

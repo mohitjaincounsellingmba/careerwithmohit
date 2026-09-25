@@ -3,7 +3,7 @@ title: >-
   Best PGDM Colleges in Mumbai & Pune (2027-29): Fees Structure, Average Package
   & Direct Admissions
 date: '2026-08-22'
-category: MBA & PGDM
+category: Exams
 description: >-
   Compare top PGDM colleges in Mumbai and Pune for 2027-29. Check fee
   structures, average packages, direct admission options, and entrance cutoffs

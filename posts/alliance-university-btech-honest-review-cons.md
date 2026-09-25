@@ -1,11 +1,12 @@
 ---
 title: 'Alliance University B.Tech Review: 5 Honest Cons You Should Know'
 date: '2026-04-15'
-category: BTech Admissions
+category: B.Tech
 description: >-
   Is [Alliance University Bangalore](/colleges/alliance-university-bangalore)
   good for B.Tech? Read this honest review highlighting the negative points,
-  placement realities, and high fee structure before you take admission.
+  placement realities, and high fee structure before you take admission for
+  2026-2027 admissions & career guidance.
 keywords:
   - alliance university btech review
   - alliance university negative points
@@ -36,6 +37,11 @@ faqs:
 location: Bangalore
 state: Karnataka
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 **Alliance University, Bangalore**, is often ranked among the top private universities in South India. Known for its beautiful "green" campus and strong marketing, it attracts thousands of B.Tech aspirants every year. 
 
 However, like any other institution, it has its own set of "ground realities" that don't always make it to the glossy brochures. If you are considering joining Alliance for your engineering journey, here are **5 honest negative points (cons)** you must consider.

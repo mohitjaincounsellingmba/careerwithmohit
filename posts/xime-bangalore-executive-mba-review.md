@@ -7,7 +7,7 @@ description: >-
   Read an honest review of the Executive MBA / PGDM program at Xavier Institute
   of Management and Entrepreneurship (XIME), Bangalore. Learn about total fees,
   eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts.
+  verdicts for 2026-2027 admissions & career guidance.
 keywords:
   - >-
     Xavier Institute of Management and Entrepreneurship (XIME), Bangalore
@@ -29,7 +29,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Is the Executive PGDM at XIME Bangalore AICTE approved?
     answer: 'Yes, it is fully approved by AICTE as an executive PGDM program.'
@@ -44,6 +44,11 @@ faqs:
 location: Bangalore
 state: Karnataka
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 Running a career upgrade requires choosing the right management program. For working professionals in Bangalore, the Executive MBA / Executive PGDM offered by [Xavier Institute of Management and Entrepreneurship (XIME), Bangalore](/colleges/xime-bangalore) represents a powerful gateway to higher senior leadership positions.
 

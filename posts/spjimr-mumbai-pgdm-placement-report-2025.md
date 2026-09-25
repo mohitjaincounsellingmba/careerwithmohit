@@ -38,7 +38,13 @@ faqs:
       Operations & Supply Chain, and Information Management (IM).
 location: Mumbai
 state: Maharashtra
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹32.00 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio ([IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta).
 

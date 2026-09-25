@@ -1,35 +1,65 @@
 ---
-title: 'Woxsen School of Business, Woxsen University Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Woxsen School of Business, Woxsen University Review 2027: Fees, Placements,
+  Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive Woxsen School of Business, Woxsen University (Hyderabad, Telangana) review for 2027 admissions. Explore audited fee structure (₹15.20 Lakhs (Total)), latest placement packages (Avg: ₹9.04 LPA, Highest: ₹17.00 LPA), entrance exam cutoffs (CAT, XAT, NMAT, GMAT, WAT (Woxsen Aptitude Test)), NIRF ranking, and student verdict.
+  Comprehensive Woxsen School of Business, Woxsen University (Hyderabad,
+  Telangana) review for 2027 admissions. Explore audited fee structure (₹15.20
+  Lakhs (Total)), latest placement packages (Avg: ₹9.04 LPA, Highest: ₹17.00
+  LPA), entrance exam cutoffs (CAT, XAT, NMAT, GMAT, WAT (Woxsen Aptitude
+  Test)), NIRF ranking, and student verdict.
 keywords:
-  - woxsen school of business, woxsen university review 2027
-  - woxsen school of business, woxsen university mba fees
-  - woxsen school of business, woxsen university placements 2026 2027
-  - woxsen school of business, woxsen university average package
-  - woxsen school of business, woxsen university highest package
-  - woxsen school of business, woxsen university cutoff cat xat
-  - woxsen school of business, woxsen university admission process 2027
-  - woxsen school of business, woxsen university ranking
+  - 'woxsen school of business, woxsen university review 2027'
+  - 'woxsen school of business, woxsen university mba fees'
+  - 'woxsen school of business, woxsen university placements 2026 2027'
+  - 'woxsen school of business, woxsen university average package'
+  - 'woxsen school of business, woxsen university highest package'
+  - 'woxsen school of business, woxsen university cutoff cat xat'
+  - 'woxsen school of business, woxsen university admission process 2027'
+  - 'woxsen school of business, woxsen university ranking'
   - Hyderabad MBA colleges 2027
   - best MBA colleges in Telangana
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 faqs:
-  - question: What is the average package at Woxsen School of Business, Woxsen University in recent placement drives?
+  - question: >-
+      What is the average package at Woxsen School of Business, Woxsen
+      University in recent placement drives?
     answer: >-
-      The overall average placement package at Woxsen School of Business, Woxsen University stands at approximately ₹9.04 LPA, with the median package around ₹6.50 LPA and top offers reaching ₹17.00 LPA.
-  - question: What entrance exams are accepted for admission to Woxsen School of Business, Woxsen University?
+      The overall average placement package at Woxsen School of Business, Woxsen
+      University stands at approximately ₹9.04 LPA, with the median package
+      around ₹6.50 LPA and top offers reaching ₹17.00 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Woxsen School of
+      Business, Woxsen University?
     answer: >-
-      Woxsen School of Business, Woxsen University accepts scores from CAT, XAT, NMAT, GMAT, WAT (Woxsen Aptitude Test) for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Woxsen School of Business, Woxsen University for the 2-year MBA / PGDM program?
+      Woxsen School of Business, Woxsen University accepts scores from CAT, XAT,
+      NMAT, GMAT, WAT (Woxsen Aptitude Test) for shortlisting eligible
+      candidates, followed by profile evaluation and personal interviews (PI /
+      WAT).
+  - question: >-
+      What is the total course fee at Woxsen School of Business, Woxsen
+      University for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹15.20 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Woxsen School of Business, Woxsen University offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹15.20 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Woxsen School of Business, Woxsen University offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Woxsen School of Business, Woxsen University provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Woxsen School of Business, Woxsen University provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Hyderabad
 state: Telangana
 ---

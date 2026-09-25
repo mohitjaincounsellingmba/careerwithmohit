@@ -1,7 +1,7 @@
 ---
 name: Chaitanya Bharathi Institute of Technology (CBIT)
 logo: ''
-location: 'Gandipet, Hyderabad, Telangana'
+location: Hyderabad
 state: Telangana
 category: Engineering
 type: Private Autonomous College
@@ -56,6 +56,12 @@ keywords:
   - Chaitanya Bharathi Institute of Technology (CBIT) CSE placement
   - Chaitanya Bharathi Institute of Technology (CBIT) B.Tech admission 2027
   - 'engineering colleges Gandipet, Hyderabad, Telangana'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 ---
 
 ### About Chaitanya Bharathi Institute of Technology (CBIT)

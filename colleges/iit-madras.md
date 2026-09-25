@@ -1,7 +1,7 @@
 ---
 name: IIT Madras (Indian Institute of Technology Madras)
 logo: ''
-location: 'Chennai, Tamil Nadu'
+location: Chennai
 state: Tamil Nadu
 category: Engineering
 type: Institute of National Importance
@@ -58,6 +58,12 @@ keywords:
   - IIT Madras (Indian Institute of Technology Madras) CSE placement
   - IIT Madras (Indian Institute of Technology Madras) B.Tech admission 2027
   - 'engineering colleges Chennai, Tamil Nadu'
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 ---
 
 ### About IIT Madras (Indian Institute of Technology Madras)

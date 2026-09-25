@@ -4,7 +4,8 @@ date: '2026-03-13'
 description: >-
   The ultimate guide to the Faculty of Management Studies (FMS), Delhi
   University. Discover MBA fees, CAT cutoffs, staggering placement packages, and
-  what makes FMS the highest ROI B-School in India.
+  what makes FMS the highest ROI B-School in India for 2026-2027 admissions &
+  career guidance.
 keywords:
   - '[FMS Delhi](/colleges/fms-delhi) review'
   - '[FMS Delhi](/colleges/fms-delhi) placements 2026'
@@ -41,9 +42,15 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹2.00 Lakhs | Audited placement: average package of ₹34 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.
 
 If you are an elite CAT scorer, here is why [FMS Delhi](/colleges/fms-delhi) is often chosen over top IIMs:

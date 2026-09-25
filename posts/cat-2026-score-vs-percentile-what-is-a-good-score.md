@@ -3,7 +3,7 @@ title: >-
   CAT 2026 Score vs Percentile: What is a Good Score? Complete Sectional
   Analysis
 date: '2026-08-14'
-category: MBA Admissions
+category: Exams
 description: >-
   Understand CAT 2026 Score vs Percentile mapping with section-wise marks for
   VARC, DILR, QA. Learn what is a good raw score for 99+, 95+, and 90 percentile
@@ -27,7 +27,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-location: Noida
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+location: Delhi NCR
 faqs:
   - question: What raw score is needed for a 99 percentile in CAT 2026?
     answer: >-

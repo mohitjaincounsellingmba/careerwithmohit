@@ -18,6 +18,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Is JIMS Rohini good for PGDM?
     answer: >-
@@ -33,9 +37,15 @@ faqs:
     answer: >-
       The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS
       Rohini is approximately **₹9.25 Lakhs**.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: JIMS Rohini**
 *   **Academic Excellence**: Long-standing reputation for being one of the most disciplined and result-oriented B-schools in Delhi.

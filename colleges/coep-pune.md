@@ -1,7 +1,7 @@
 ---
 name: COEP Technological University (College of Engineering Pune)
 logo: ''
-location: 'Pune, Maharashtra'
+location: Pune
 state: Maharashtra
 category: Engineering
 type: Unitary State University
@@ -67,6 +67,12 @@ keywords:
     COEP Technological University (College of Engineering Pune) B.Tech admission
     2027
   - 'engineering colleges Pune, Maharashtra'
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 ---
 
 ### About COEP Technological University (College of Engineering Pune)

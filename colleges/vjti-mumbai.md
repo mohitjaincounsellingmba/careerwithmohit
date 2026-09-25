@@ -1,7 +1,7 @@
 ---
 name: Veermata Jijabai Technological Institute (VJTI Mumbai)
 logo: ''
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 state: Maharashtra
 category: Engineering
 type: State Govt. Autonomous Institute
@@ -55,6 +55,12 @@ keywords:
   - Veermata Jijabai Technological Institute (VJTI Mumbai) CSE placement
   - Veermata Jijabai Technological Institute (VJTI Mumbai) B.Tech admission 2027
   - 'engineering colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 ---
 
 ### About Veermata Jijabai Technological Institute (VJTI Mumbai)

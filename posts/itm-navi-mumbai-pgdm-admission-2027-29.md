@@ -1,9 +1,14 @@
 ---
-title: 'ITM Business School MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  ITM Business School MBA / PGDM Admission 2027-29: Fees, Approvals, Placements,
+  PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for ITM Business School (ITM Navi Mumbai). Verified fee structure (₹12.45 Lakhs (Total)), PGDM approvals, audited placements (Avg ₹10.50 LPA, Highest ₹25.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for ITM Business School (ITM Navi Mumbai).
+  Verified fee structure (₹12.45 Lakhs (Total)), PGDM approvals, audited
+  placements (Avg ₹10.50 LPA, Highest ₹25.00 LPA), PPO stats, certifications,
+  awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - ITM Business School admission 2027-29
   - ITM Navi Mumbai fees 2027
@@ -17,27 +22,56 @@ keywords:
   - best MBA PGDM colleges in Navi Mumbai
   - direct admission in ITM Navi Mumbai
   - MBA Career Counselling Mohit Jain
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at ITM Navi Mumbai?
     answer: >-
-      The total course fee for the 2-year PGDM program at ITM Business School for the 2027–29 batch is ₹12.45 Lakhs (Total) (₹6.22 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at ITM Business School
+      for the 2027–29 batch is ₹12.45 Lakhs (Total) (₹6.22 Lakhs per Year).
+      Various merit and category scholarships are available for deserving
+      candidates.
   - question: Which statutory approvals and accreditations does ITM Navi Mumbai hold?
     answer: >-
-      ITM Business School holds AICTE Approved · NBA Accredited · NAAC Grade A · AIU MBA Equivalent, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at ITM Navi Mumbai?
+      ITM Business School holds AICTE Approved · NBA Accredited · NAAC Grade A ·
+      AIU MBA Equivalent, ensuring valid degree equivalence, eligibility for
+      government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at ITM Navi
+      Mumbai?
     answer: >-
-      For recent placement drives, ITM Navi Mumbai recorded an average salary package of ₹10.50 LPA (Top 25% averaging ₹14.00 LPA) and a peak highest CTC of ₹25.00 LPA, with leading recruiters including Amazon, Deloitte, KPMG, EY.
-  - question: Does ITM Navi Mumbai offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, ITM Navi Mumbai recorded an average salary
+      package of ₹10.50 LPA (Top 25% averaging ₹14.00 LPA) and a peak highest
+      CTC of ₹25.00 LPA, with leading recruiters including Amazon, Deloitte,
+      KPMG, EY.
+  - question: >-
+      Does ITM Navi Mumbai offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 35% of students convert PPOs through the intensive 5-month full-time paid internship (iConnect).
-  - question: What value-added certifications are provided to students at ITM Navi Mumbai?
+      Yes, 35% of students convert PPOs through the intensive 5-month full-time
+      paid internship (iConnect).
+  - question: >-
+      What value-added certifications are provided to students at ITM Navi
+      Mumbai?
     answer: >-
-      Students receive embedded industry certifications including 5-Month Intensive Paid Internship (iConnect), Advanced Financial Analytics & Valuation, Digital Marketing & Media Strategy, Retail Lab & Consumer Insights.
-  - question: How can students apply for admission or get counseling for ITM Navi Mumbai for 2027–29?
+      Students receive embedded industry certifications including 5-Month
+      Intensive Paid Internship (iConnect), Advanced Financial Analytics &
+      Valuation, Digital Marketing & Media Strategy, Retail Lab & Consumer
+      Insights.
+  - question: >-
+      How can students apply for admission or get counseling for ITM Navi Mumbai
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Navi Mumbai
-state: Pan India
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Mumbai
+state: Maharashtra
 ---
 
 # ITM Business School Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

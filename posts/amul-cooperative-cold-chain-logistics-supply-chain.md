@@ -4,7 +4,7 @@ date: '2026-05-28'
 description: >-
   Explore the Amul Cooperative model. Understand its three-tier structure,
   robust cold-chain logistics, and efficient reverse supply chain that empowered
-  millions of dairy farmers.
+  millions of dairy farmers for 2026-2027 admissions & career guidance.
 keywords:
   - Amul cooperative business model
   - Amul cold chain logistics
@@ -26,6 +26,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: Certifications & Skills
 ---
 In the operations and logistics world, managing a highly perishable product with a shelf-life of less than 24 hours is considered one of the ultimate supply chain challenges. Doing so in a country with extreme summer temperatures, poor rural road infrastructure, and a highly fragmented supplier base of over **3.6 million small farmers** is almost impossible. 
 

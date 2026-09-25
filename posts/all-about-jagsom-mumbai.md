@@ -1,7 +1,7 @@
 ---
 title: 'JAGSoM (Jagdish Sheth) PGDM Admission Review 2026: Placements, Fees & Cutoff'
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Looking for admission to JAGSoM (Jagdish Sheth)? Read our comprehensive PGDM
   review for 2026 covering total fees, average and highest placement packages,

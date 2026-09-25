@@ -3,7 +3,7 @@ title: >-
   ITS Ghaziabad (Mohan Nagar) Review 2026: Fees, Placements, Cutoffs & ROI
   Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of ITS Ghaziabad (Mohan Nagar) covering MBA/PGDM fee
   structures, highest and average placements (₹6.50 LPA), entrance exam cutoffs,
@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at ITS Ghaziabad
       (Mohan Nagar) is approximately ₹6.0 Lakhs (Total).
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
 ---
 

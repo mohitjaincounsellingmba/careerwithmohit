@@ -39,6 +39,7 @@ faqs:
       ₹4,000, while it is ₹3,500 for SC/ST/BPL candidates.
 location: Bangalore
 state: Karnataka
+category: Law
 ---
 The Consortium of National Law Universities (NLUs) has officially opened the registration for the **Common Law Admission Test (CLAT) 2027**. Law aspirants looking to secure admission into the prestigious 5-year integrated BA LLB (UG) or LLM (PG) programs across 24 participating NLUs can now fill out the application form.
 

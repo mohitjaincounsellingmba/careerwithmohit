@@ -9,7 +9,7 @@ excerpt: >-
   fees, placements, and CAT/CUET cutoffs.
 coverImage: /images/blog/du-mba-colleges.jpg
 author: Mohit Jain
-category: Colleges
+category: Online Degrees
 tags:
   - Delhi University
   - MBA
@@ -22,7 +22,7 @@ tags:
 description: >-
   Delhi University (DU) isn't just famous for its undergraduate programs; it is
   also home to some of the highest ROI (Return on Investment) MBA programs in
-  t...
+  t.. for 2026-2027 admissions & career guidance.
 keywords:
   - career counselling
   - admissions 2026
@@ -54,7 +54,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Delhi University (DU) isn't just famous for its undergraduate programs; it is also home to some of the highest ROI (Return on Investment) MBA programs in the entire country. 

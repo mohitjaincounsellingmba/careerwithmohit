@@ -1,9 +1,16 @@
 ---
-title: 'K.J. Somaiya Institute of Management Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  K.J. Somaiya Institute of Management Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
-  In-depth K.J. Somaiya Institute of Management (Somaiya Vidyavihar Campus, Ghatkopar / Vidyavihar) review for 2027 admissions. Explore verified fee structure (₹21.00 – ₹22.50 Lakhs (2 Years Full-Time MBA)), latest placements (avg ₹12.50 – ₹13.00 LPA, highest ₹28.00 – ₹30.00 LPA), cutoffs (CAT: 83–86 Percentile; XAT: 83–86 Percentile; NMAT: 222+ Score; CMAT: 95%+; GMAT: 600+), and student verdict.
+  In-depth K.J. Somaiya Institute of Management (Somaiya Vidyavihar Campus,
+  Ghatkopar / Vidyavihar) review for 2027 admissions. Explore verified fee
+  structure (₹21.00 – ₹22.50 Lakhs (2 Years Full-Time MBA)), latest placements
+  (avg ₹12.50 – ₹13.00 LPA, highest ₹28.00 – ₹30.00 LPA), cutoffs (CAT: 83–86
+  Percentile; XAT: 83–86 Percentile; NMAT: 222+ Score; CMAT: 95%+; GMAT: 600+),
+  and student verdict.
 keywords:
   - k.j. somaiya institute of management review 2027
   - k.j. somaiya institute of management fees
@@ -13,23 +20,34 @@ keywords:
   - k.j. somaiya institute of management cutoff cat xat gmat
   - k.j. somaiya institute of management admission process 2027
   - k.j. somaiya institute of management ranking
-  - Mumbai, Maharashtra MBA colleges
+  - 'Mumbai, Maharashtra MBA colleges'
   - best MBA colleges in Maharashtra
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: Does KJ Somaiya accept NMAT scores for MBA admission?
     answer: >-
-      Yes, KJ Somaiya accepts NMAT scores (typically requiring a score of 222+), alongside CAT (83–86%ile), XAT (83–86%ile), and CMAT (95%+).
+      Yes, KJ Somaiya accepts NMAT scores (typically requiring a score of 222+),
+      alongside CAT (83–86%ile), XAT (83–86%ile), and CMAT (95%+).
   - question: What degree does KJ Somaiya award?
     answer: >-
-      KJ Somaiya awards a formal Master of Business Administration (MBA) degree under the aegis of Somaiya Vidyavihar University.
+      KJ Somaiya awards a formal Master of Business Administration (MBA) degree
+      under the aegis of Somaiya Vidyavihar University.
   - question: What is the average package at KJ Somaiya Institute of Management?
     answer: >-
-      The average package at KJ Somaiya is ₹12.50 to ₹13.00 LPA, with the highest package reaching ₹28.00 to ₹30.00 LPA.
+      The average package at KJ Somaiya is ₹12.50 to ₹13.00 LPA, with the
+      highest package reaching ₹28.00 to ₹30.00 LPA.
   - question: How is the campus infrastructure at Somaiya Vidyavihar?
     answer: >-
-      The campus spans 60 lush green acres in Vidyavihar, Mumbai, boasting synthetic running tracks, football grounds, indoor badminton courts, high-tech Bloomberg finance labs, and multi-cuisine food courts.
+      The campus spans 60 lush green acres in Vidyavihar, Mumbai, boasting
+      synthetic running tracks, football grounds, indoor badminton courts,
+      high-tech Bloomberg finance labs, and multi-cuisine food courts.
 location: Mumbai
 state: Maharashtra
 ---

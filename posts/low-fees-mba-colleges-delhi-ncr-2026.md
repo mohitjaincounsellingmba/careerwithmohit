@@ -1,7 +1,7 @@
 ---
 title: 'Low Fees MBA Colleges in Delhi NCR 2026: Top High-ROI Options'
 date: '2026-05-23'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options? Check out our list of the best low fees
   MBA colleges in Delhi NCR for 2026, comparing tuition fees and placement
@@ -38,7 +38,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Pursuing a Master of Business Administration (MBA) is a major financial investment. With tuition fees at premium private institutions reaching ₹20 Lakhs to ₹28 Lakhs, educational debt can become a heavy burden for starting graduates. However, several top-tier universities and government institutions in the Delhi National Capital Region (NCR) offer world-class management education at an extremely low fee structure.

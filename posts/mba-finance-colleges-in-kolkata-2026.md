@@ -1,7 +1,7 @@
 ---
 title: Top MBA Finance Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-16'
-category: MBA Admissions
+category: MBA
 description: >-
   Looking for top MBA Finance colleges in Kolkata? Review 2026 guide comparing
   IIM Calcutta, IMI Kolkata, and IISWBM placements and fees.
@@ -34,6 +34,11 @@ faqs:
 location: Kolkata
 state: West Bengal
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹24.5 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Selecting the right B-school is critical if you are targeting a career in investment banking, corporate finance, asset management, or fintech. While general MBA rankings give a broad overview, finance recruiters tend to visit campuses that have a strong quantitative tradition, specialized finance faculty, and proximity to major corporate centers.
 

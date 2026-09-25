@@ -3,7 +3,7 @@ title: >-
   FOSTIIMA Business School Review 2027–2029: PGDM Fees, Placements, Cutoffs &
   Honest Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive FOSTIIMA Business School Delhi review for the 2027–2029 session.
   Explore verified PGDM fee structure (₹11.50 Lakhs), 2025–2026 placements (avg
@@ -32,6 +32,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the total fee structure for the PGDM program at FOSTIIMA Business
@@ -67,7 +71,7 @@ faqs:
       Yes, FOSTIIMA Business School is approved by the All India Council for
       Technical Education (AICTE), Ministry of Education, Government of India,
       for its 2-year full-time PGDM program.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

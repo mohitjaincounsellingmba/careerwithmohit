@@ -41,9 +41,15 @@ faqs:
     answer: >-
       The CAT and XAT cutoffs for IMI New Delhi generally hover around 88 to 92
       percentile for General category applicants.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹18.28 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Located in the heart of South Delhi’s institutional area, the **International Management Institute (IMI), New Delhi** is India’s first corporate-sponsored business school and holds coveted international accreditations from AMBA, AACSB, and SAQS.
 

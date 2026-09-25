@@ -28,6 +28,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+category: Study Abroad
 ---
 The **United Kingdom** is home to some of the world's oldest and most prestigious universities. For Indian students, the UK offers a highly valuable combination: globally recognized degrees, a 2-year Post-Study Work Visa (Graduate Route), and proximity to Europe's job market. With over 105 listed institutions in our database, here is the **complete guide** to studying in the UK in 2026.
 

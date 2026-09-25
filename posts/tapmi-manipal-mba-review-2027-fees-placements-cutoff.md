@@ -1,9 +1,15 @@
 ---
-title: 'T.A. Pai Management Institute (TAPMI) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  T.A. Pai Management Institute (TAPMI) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
-  In-depth T.A. Pai Management Institute (TAPMI) (Manipal Campus) review for 2027 admissions. Explore verified fee structure (₹18.50 – ₹19.50 Lakhs (Complete 2-Year Residential MBA)), latest placements (avg ₹14.00 – ₹14.60 LPA, highest ₹32.00 LPA), cutoffs (CAT: 80–85 Percentile; XAT: 80–85 Percentile; NMAT: 220+ Score; GMAT: 630+), and student verdict.
+  In-depth T.A. Pai Management Institute (TAPMI) (Manipal Campus) review for
+  2027 admissions. Explore verified fee structure (₹18.50 – ₹19.50 Lakhs
+  (Complete 2-Year Residential MBA)), latest placements (avg ₹14.00 – ₹14.60
+  LPA, highest ₹32.00 LPA), cutoffs (CAT: 80–85 Percentile; XAT: 80–85
+  Percentile; NMAT: 220+ Score; GMAT: 630+), and student verdict.
 keywords:
   - t.a. pai management institute (tapmi) review 2027
   - t.a. pai management institute (tapmi) fees
@@ -13,23 +19,30 @@ keywords:
   - t.a. pai management institute (tapmi) cutoff cat xat gmat
   - t.a. pai management institute (tapmi) admission process 2027
   - t.a. pai management institute (tapmi) ranking
-  - Manipal, Udupi, Karnataka MBA colleges
+  - 'Manipal, Udupi, Karnataka MBA colleges'
   - best MBA colleges in Karnataka
   - top private MBA colleges in India 2027
   - MBA direct admission 2027
 faqs:
   - question: Does TAPMI Manipal award an MBA or PGDM?
     answer: >-
-      TAPMI awards a formal Master of Business Administration (MBA) degree, as it is a constituent management institute of the Manipal Academy of Higher Education (MAHE), an Institution of Eminence deemed university.
+      TAPMI awards a formal Master of Business Administration (MBA) degree, as
+      it is a constituent management institute of the Manipal Academy of Higher
+      Education (MAHE), an Institution of Eminence deemed university.
   - question: What is the cutoff for TAPMI Manipal through NMAT and CAT?
     answer: >-
-      TAPMI accepts NMAT scores with a cutoff around 220+, while the CAT and XAT cutoffs generally stay between 80 and 85 percentile.
+      TAPMI accepts NMAT scores with a cutoff around 220+, while the CAT and XAT
+      cutoffs generally stay between 80 and 85 percentile.
   - question: What is the Bloomberg Lab at TAPMI?
     answer: >-
-      TAPMI houses one of India’s largest academic Bloomberg Labs, equipped with 16 Bloomberg terminals, enabling students to manage real-time portfolios, execute simulated financial trades, and analyze market data.
+      TAPMI houses one of India’s largest academic Bloomberg Labs, equipped with
+      16 Bloomberg terminals, enabling students to manage real-time portfolios,
+      execute simulated financial trades, and analyze market data.
   - question: What is the average placement package at TAPMI Manipal?
     answer: >-
-      The average CTC at TAPMI is ₹14.00 to ₹14.60 LPA, with top recruiters like J.P. Morgan Chase, Morgan Stanley, Deloitte, and Citi offering packages up to ₹32.00 LPA.
+      The average CTC at TAPMI is ₹14.00 to ₹14.60 LPA, with top recruiters like
+      J.P. Morgan Chase, Morgan Stanley, Deloitte, and Citi offering packages up
+      to ₹32.00 LPA.
 location: Manipal
 state: Karnataka
 ---

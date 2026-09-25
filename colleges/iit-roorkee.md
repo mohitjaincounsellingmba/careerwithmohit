@@ -1,7 +1,7 @@
 ---
 name: IIT Roorkee (Indian Institute of Technology Roorkee)
 logo: ''
-location: 'Roorkee, Uttarakhand'
+location: Dehradun
 state: Uttarakhand
 category: Engineering
 type: Institute of National Importance
@@ -58,6 +58,12 @@ keywords:
   - IIT Roorkee (Indian Institute of Technology Roorkee) CSE placement
   - IIT Roorkee (Indian Institute of Technology Roorkee) B.Tech admission 2027
   - 'engineering colleges Roorkee, Uttarakhand'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 ---
 
 ### About IIT Roorkee (Indian Institute of Technology Roorkee)

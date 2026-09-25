@@ -3,7 +3,7 @@ title: >-
   Christ University Bangalore (SBM) MBA Admission 2027–2029: Fees, Cutoff &
   Placements
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Looking for admission to Christ University - School of Business and
   Management? Read our comprehensive PGDM review for 2026 covering total fees,

@@ -28,7 +28,13 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 **Pandit Deendayal Energy University (PDEU)**, formerly known as **PDPU**, is a world-class institution located in the capital city of Gujarat, Gandhinagar. Recognized as a "Centre of Excellence" by the Government of Gujarat and accredited with an **NAAC A++ grade**, it is one of the top choices for students interested in Energy, Petroleum, and Information Technology.
 
 If you are aiming for the **PDEU B.Tech 2026 batch**, here is the complete breakdown of the admission process, expected cutoffs, and fees.

@@ -3,7 +3,7 @@ title: >-
   SIMSREE Mumbai (Sydenham Institute of Management Studies) Review 2026: Fees,
   Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for SIMSREE Mumbai
   (Sydenham Institute of Management Studies) Review 2026: Fees, Placements,
@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at SIMSREE Mumbai (Sydenham Institute of
@@ -45,7 +49,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at SIMSREE Mumbai
       (Sydenham Institute of Management Studies) is approximately ₹1.36 Lakhs
       (Total).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

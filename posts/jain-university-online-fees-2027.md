@@ -38,6 +38,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Bangalore
 state: Karnataka
+category: Online Degrees
 ---
 # [Jain University](/colleges/jain-university) Online Fee Structure (2027): Complete Program Breakdown & EMI Plans
 

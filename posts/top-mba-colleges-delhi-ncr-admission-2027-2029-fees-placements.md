@@ -24,7 +24,11 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
-category: MBA
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+category: Exams
 image: /images/blog/delhi-ncr-mba.webp
 faqs:
   - question: Which is the best ROI MBA college in Delhi NCR?
@@ -47,7 +51,8 @@ faqs:
       Yes, reputed AICTE-approved colleges like NDIM, FOSTIIMA, FIIB, JIMS, GL
       Bajaj, and GIMS Greater Noida actively accept 60-75 percentile in MAT,
       CMAT, ATMA, and CAT.
-location: Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # Top MBA & PGDM Colleges in Delhi NCR 2027–2029: Fees, Cutoffs, Placements & Admission Process

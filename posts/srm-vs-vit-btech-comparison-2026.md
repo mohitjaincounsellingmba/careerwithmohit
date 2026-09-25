@@ -1,7 +1,7 @@
 ---
 title: 'SRM vs VIT for B.Tech 2026: Fees, Placements, Rankings & Honest Verdict'
 date: '2026-04-27'
-category: Colleges
+category: B.Tech
 description: >-
   SRM vs VIT – which is better for B.Tech in 2026? Compare fees, NIRF rankings,
   CSE placements, average packages, campus life, and get an honest verdict to

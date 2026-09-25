@@ -7,7 +7,7 @@ description: >-
   Read an honest review of the Executive MBA / PGDM program at Department of
   Management Sciences (PUMBA), Savitribai Phule Pune University. Learn about
   total fees, eligibility, accepted entrance exams, average packages, pros,
-  cons, and expert verdicts.
+  cons, and expert verdicts for 2026-2027 admissions & career guidance.
 keywords:
   - >-
     Department of Management Sciences (PUMBA), Savitribai Phule Pune University
@@ -44,6 +44,11 @@ faqs:
 location: Pune
 state: Maharashtra
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹1.50 Lakhs.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Running a career upgrade requires choosing the right management program. For working professionals in Pune, the Executive MBA / Executive PGDM offered by [Department of Management Sciences (PUMBA), Savitribai Phule Pune University](/colleges/pumba-pune) represents a powerful gateway to higher senior leadership positions.
 

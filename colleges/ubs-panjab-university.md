@@ -51,6 +51,13 @@ keywords:
   - 'University Business School (UBS), Panjab University PGDM placement'
   - 'University Business School (UBS), Panjab University MBA admission 2027'
   - MBA colleges Chandigarh
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### About University Business School (UBS), Panjab University

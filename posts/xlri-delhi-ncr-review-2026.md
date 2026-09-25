@@ -1,7 +1,7 @@
 ---
 title: 'XLRI Delhi NCR Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of XLRI Delhi NCR covering MBA/PGDM fee structures,
   highest and average placements (₹30.00 LPA), entrance exam cutoffs, ROI
@@ -37,7 +37,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at XLRI Delhi NCR
       is approximately ₹25.0 Lakhs (Total).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

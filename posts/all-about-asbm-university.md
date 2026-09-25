@@ -1,23 +1,30 @@
 ---
-title: "ASBM University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to ASBM University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'ASBM University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: Online Degrees
+description: >-
+  Looking for admission to ASBM University? Read our comprehensive PGDM review
+  for 2026 covering total fees, average and highest placement packages, accepted
+  entrance exams, and cutoffs.
 keywords:
-  - "asbm university review 2026"
-  - "asbm university pgdm placements"
-  - "asbm university admission cutoff"
-  - "asbm university fees"
+  - asbm university review 2026
+  - asbm university pgdm placements
+  - asbm university admission cutoff
+  - asbm university fees
 faqs:
-  - question: "Is ASBM University a good option for PGDM/MBA?"
+  - question: Is ASBM University a good option for PGDM/MBA?
     answer: >-
-      Yes, ASBM University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at ASBM University?"
+      Yes, ASBM University is a highly respected institution known for its solid
+      academic foundation, industry-aligned curriculum, and good placement track
+      record.
+  - question: What is the average package offered at ASBM University?
     answer: >-
-      The average placement package at ASBM University is approximately ₹5 LPA, with the highest package reaching up to ₹3.5 LPA.
-  - question: "What entrance exams are accepted by ASBM University?"
+      The average placement package at ASBM University is approximately ₹5 LPA,
+      with the highest package reaching up to ₹3.5 LPA.
+  - question: What entrance exams are accepted by ASBM University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
 ### **College Review: [ASBM University](/colleges/asbm-university)**

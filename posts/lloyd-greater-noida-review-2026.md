@@ -1,7 +1,7 @@
 ---
 title: 'Lloyd Business School Review 2026: Fees, Placements, Cutoffs & ROI Analysis'
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Lloyd Business
   School Review 2026: Fees, Placements, Cutoffs & ROI Analysis. Check updated
@@ -38,7 +38,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at Lloyd Business
       School is approximately ₹2.90L - ₹8.25L (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

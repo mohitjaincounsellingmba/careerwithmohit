@@ -37,7 +37,13 @@ faqs:
       of extracurriculars, leadership potential, and essays.
 location: Mumbai
 state: Maharashtra
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹21.00 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 Backed by the 60-year legacy of [BITS Pilani](/colleges/bits-pilani) and the Aditya Birla Group, the **BITS School of Management (BITSoM), Mumbai** has rapidly emerged as India's most successful new-age business school.
 

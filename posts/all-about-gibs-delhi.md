@@ -3,7 +3,7 @@ title: >-
   Gitarattan International Business School (GIBS) PGDM Admission Review 2026:
   Placements, Fees & Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Gitarattan
   International Business School (GIBS) PGDM Admission Review 2026: Placements,
@@ -47,9 +47,14 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including IPU CET, CAT, CMAT for the PGDM and MBA admissions.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: [Gitarattan International Business School (GIBS)](/colleges/gibs-delhi)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.

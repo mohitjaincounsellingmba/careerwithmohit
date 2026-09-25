@@ -1,7 +1,7 @@
 ---
 title: 'CAT 2026 Preparation Strategy — Syllabus, Dates & 6-Month Roadmap'
 date: '2026-04-21'
-category: MBA Admissions
+category: Exams
 description: >-
   Planning to crack CAT 2026? Follow our ultimate 6-month preparation roadmap.
   Get section-wise tips for VARC, DILR, and Quant, plus the latest syllabus and
@@ -34,6 +34,11 @@ faqs:
       Yes. Dedicate 2 hours daily and 6-8 hours on weekends. Many toppers are
       working professionals.
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **Common Admission Test (CAT)** is the gateway to the elite IIMs and hundreds of top B-schools in India. But with over 3 Lakh applicants fighting for a few thousand seats, "hard work" isn't enough—you need a **Strategic Framework.**
 

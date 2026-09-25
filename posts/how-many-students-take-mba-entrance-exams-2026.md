@@ -24,6 +24,7 @@ faqs:
       very high (systematically filtered).
   - question: Does every student who registers appear for the exam?
     answer: "No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparation gaps or distance to the center often lead to a 10-15% dropout on the exam day.\n\n[\U0001F449 Use our Score-to-College Predictor!](/tools/mat-college-predictor)\n\n**Don't Let the Numbers Scare You.**\nAt **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 Lakh other people. In a competition of millions, only those with a strategy survive.\n\n[\U0001F449 Book Your CAT/XAT Preparation Strategy Session!](/inquiry)"
+category: Online Degrees
 ---
 
 If you’re preparing for an MBA in 2026, the question "Who am I competing against?" is likely on your mind. Management education in India has seen a massive surge in interest, with registration numbers hitting record highs in recent years.

@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url';
 
 // --- CONFIGURATION ---
 const NICHE_WEBSITE_URL = '/mock-tests'; 
-const ANCHOR_TEXT = 'Explore Our Premium MBA Mock Test Series 2026';
-const SECTION_TITLE = '🚀 Boost Your Preparation';
+const ANCHOR_TEXT = 'Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027';
+const SECTION_TITLE = '🚀 Boost Your Preparation & Test Analytics';
 // ---------------------
 
 const __filename = fileURLToPath(import.meta.url);

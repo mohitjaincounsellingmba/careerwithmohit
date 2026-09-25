@@ -1,8 +1,11 @@
 ---
 title: 'Top MBA Colleges in Kolkata 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-25'
-category: MBA
-description: 'Complete guide to top MBA & PGDM colleges in Kolkata for 2027. Compare IIM Calcutta, VGSoM IIT Kharagpur, IMI Kolkata, IISWBM, and Praxis with updated fees and packages.'
+category: Jobs & Careers
+description: >-
+  Complete guide to top MBA & PGDM colleges in Kolkata for 2027. Compare IIM
+  Calcutta, VGSoM IIT Kharagpur, IMI Kolkata, IISWBM, and Praxis with updated
+  fees and packages.
 keywords:
   - top mba college in kolkata
   - top mba colleges in kolkata 2027
@@ -12,15 +15,33 @@ keywords:
   - iiswbm kolkata mba admission fees
   - imi kolkata pgdm placement report
   - praxis business school kolkata review
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: 'Which is the top-ranked MBA college in Kolkata?'
-    answer: 'IIM Calcutta (Joka, Kolkata) is the top-ranked B-school in Kolkata and ranked among the Top 3 IIMs (IIM ABC) globally with an average domestic CTC exceeding ₹34.80 LPA.'
-  - question: 'What is the fee and cutoff for IISWBM Kolkata?'
-    answer: 'IISWBM (India’s first management institute, established 1953) charges an affordable total fee of approx ₹6.00 to ₹7.50 Lakhs and accepts CAT (70–75+ percentile) and MAT with an average placement of ₹7.50 LPA.'
-  - question: 'What makes IIM Calcutta the Finance Capital of India?'
-    answer: 'IIM Calcutta is globally recognized for its quantitative finance, algorithmic trading, and investment banking recruitment, attracting global desks from Goldman Sachs, Morgan Stanley, Avendus, and Bank of America.'
-  - question: 'How is Praxis Business School for Data Science and Analytics?'
-    answer: 'Praxis Business School Kolkata is pioneering for its flagship Data Science and Business Analytics programs with strong tech hiring and average salaries of ₹9.50 LPA.'
+  - question: Which is the top-ranked MBA college in Kolkata?
+    answer: >-
+      IIM Calcutta (Joka, Kolkata) is the top-ranked B-school in Kolkata and
+      ranked among the Top 3 IIMs (IIM ABC) globally with an average domestic
+      CTC exceeding ₹34.80 LPA.
+  - question: What is the fee and cutoff for IISWBM Kolkata?
+    answer: >-
+      IISWBM (India’s first management institute, established 1953) charges an
+      affordable total fee of approx ₹6.00 to ₹7.50 Lakhs and accepts CAT
+      (70–75+ percentile) and MAT with an average placement of ₹7.50 LPA.
+  - question: What makes IIM Calcutta the Finance Capital of India?
+    answer: >-
+      IIM Calcutta is globally recognized for its quantitative finance,
+      algorithmic trading, and investment banking recruitment, attracting global
+      desks from Goldman Sachs, Morgan Stanley, Avendus, and Bank of America.
+  - question: How is Praxis Business School for Data Science and Analytics?
+    answer: >-
+      Praxis Business School Kolkata is pioneering for its flagship Data Science
+      and Business Analytics programs with strong tech hiring and average
+      salaries of ₹9.50 LPA.
 location: Kolkata
 state: West Bengal
 ---
@@ -97,3 +118,11 @@ JEMAT (Joint Entrance Management Aptitude Test) is the state-level entrance exam
 ---
 
 ### [InquiryCard title="Planning Your Kolkata MBA Admissions?" description="Get your profile evaluated for IIM Calcutta, VGSoM, IMI Kolkata, IISWBM, and Praxis. Connect with Mohit Jain." cta="Book Free Strategy Session" type="admission"]
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

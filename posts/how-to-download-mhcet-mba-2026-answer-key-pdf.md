@@ -39,6 +39,7 @@ faqs:
       exam.
 location: Mumbai
 state: Maharashtra
+category: MBA
 ---
 
 The **MHCET MBA 2026 Phase 1** exams (conducted on April 6, 7, and 8) are now over. While candidates are already shifting focus to Phase 2 (scheduled for May 9), there is a massive surge in searches for the **MHCET MBA 2026 Answer Key**.

@@ -1,8 +1,13 @@
 ---
-title: 'CAT 2026 Syllabus PDF Download: Section-Wise Weightage, Exam Pattern & Topic Breakdown'
+title: >-
+  CAT 2026 Syllabus PDF Download: Section-Wise Weightage, Exam Pattern & Topic
+  Breakdown
 date: '2026-09-12'
-description: 'Download CAT 2026 syllabus PDF with official section-wise weightage. Complete breakdown of VARC, DILR, and Quantitative Aptitude with past 5-year question trends.'
-category: 'Entrance Exams'
+description: >-
+  Download CAT 2026 syllabus PDF with official section-wise weightage. Complete
+  breakdown of VARC, DILR, and Quantitative Aptitude with past 5-year question
+  trends.
+category: Exams
 keywords:
   - cat 2026 syllabus pdf download section wise weightage
   - cat syllabus 2026 section wise weightage
@@ -10,17 +15,39 @@ keywords:
   - cat quantitative aptitude topic weightage
   - cat dilr syllabus 2026 pdf
   - cat varc question breakdown
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM release an official CAT syllabus PDF?
-    answer: "No, the conducting IIM never releases a rigid official topic-by-topic syllabus. However, based on the last 15 years of actual CAT exam papers, the syllabus is clearly established across three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA)."
+    answer: >-
+      No, the conducting IIM never releases a rigid official topic-by-topic
+      syllabus. However, based on the last 15 years of actual CAT exam papers,
+      the syllabus is clearly established across three sections: Verbal Ability
+      & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning
+      (DILR), and Quantitative Aptitude (QA).
   - question: What is the total duration and question count in CAT 2026?
-    answer: "CAT 2026 is a 120-minute (2-hour) computer-based test consisting of 66 questions carrying a total of 198 marks. Each section has a strict 40-minute sectional countdown with no switching permitted between sections."
+    answer: >-
+      CAT 2026 is a 120-minute (2-hour) computer-based test consisting of 66
+      questions carrying a total of 198 marks. Each section has a strict
+      40-minute sectional countdown with no switching permitted between
+      sections.
   - question: Which topics carry the highest weightage in CAT Quantitative Aptitude?
-    answer: "Arithmetic and Algebra collectively account for 70% to 75% of the QA section (15 to 17 questions out of 22). Core topics include Time-Speed-Distance, Time & Work, Percentages, Profit & Loss, Linear & Quadratic Equations, and Functions."
+    answer: >-
+      Arithmetic and Algebra collectively account for 70% to 75% of the QA
+      section (15 to 17 questions out of 22). Core topics include
+      Time-Speed-Distance, Time & Work, Percentages, Profit & Loss, Linear &
+      Quadratic Equations, and Functions.
   - question: What is the marking scheme for CAT 2026?
-    answer: "Each correct answer awards +3 marks. Each incorrect answer in Multiple Choice Questions (MCQs) deducts -1 mark. Non-MCQ questions (Type In The Answer / TITA) carry zero negative marking."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Each correct answer awards +3 marks. Each incorrect answer in Multiple
+      Choice Questions (MCQs) deducts -1 mark. Non-MCQ questions (Type In The
+      Answer / TITA) carry zero negative marking.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 The **Common Admission Test (CAT 2026)** is India's most prestigious entrance examination for securing admission into the 21 Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and other elite business schools.

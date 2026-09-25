@@ -1,9 +1,15 @@
 ---
-title: 'KIIT School of Management (KSOM) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  KIIT School of Management (KSOM) Review 2027: Fees, Placements, Cutoff,
+  Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive KIIT School of Management (KSOM) (Bhubaneswar, Odisha) review for 2027 admissions. Explore audited fee structure (₹14.90 Lakhs (Total)), latest placement packages (Avg: ₹9.00 LPA, Highest: ₹22.75 LPA), entrance exam cutoffs (KIITEE Management, CAT, XAT, MAT, CMAT), NIRF ranking, and student verdict.
+  Comprehensive KIIT School of Management (KSOM) (Bhubaneswar, Odisha) review
+  for 2027 admissions. Explore audited fee structure (₹14.90 Lakhs (Total)),
+  latest placement packages (Avg: ₹9.00 LPA, Highest: ₹22.75 LPA), entrance exam
+  cutoffs (KIITEE Management, CAT, XAT, MAT, CMAT), NIRF ranking, and student
+  verdict.
 keywords:
   - kiit school of management (ksom) review 2027
   - kiit school of management (ksom) mba fees
@@ -18,18 +24,34 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at KIIT School of Management (KSOM) in recent placement drives?
+  - question: >-
+      What is the average package at KIIT School of Management (KSOM) in recent
+      placement drives?
     answer: >-
-      The overall average placement package at KIIT School of Management (KSOM) stands at approximately ₹9.00 LPA, with the median package around ₹6.00 LPA and top offers reaching ₹22.75 LPA.
-  - question: What entrance exams are accepted for admission to KIIT School of Management (KSOM)?
+      The overall average placement package at KIIT School of Management (KSOM)
+      stands at approximately ₹9.00 LPA, with the median package around ₹6.00
+      LPA and top offers reaching ₹22.75 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to KIIT School of
+      Management (KSOM)?
     answer: >-
-      KIIT School of Management (KSOM) accepts scores from KIITEE Management, CAT, XAT, MAT, CMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at KIIT School of Management (KSOM) for the 2-year MBA / PGDM program?
+      KIIT School of Management (KSOM) accepts scores from KIITEE Management,
+      CAT, XAT, MAT, CMAT for shortlisting eligible candidates, followed by
+      profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at KIIT School of Management (KSOM) for the
+      2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹14.90 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does KIIT School of Management (KSOM) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹14.90 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does KIIT School of Management (KSOM) offer merit-based scholarships or
+      financial assistance?
     answer: >-
-      Yes, KIIT School of Management (KSOM) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, KIIT School of Management (KSOM) provides merit scholarships to high
+      scorers in entrance tests, tuition fee waivers for economically weaker
+      candidates, and assistance for collateral-free bank loans.
 location: Bhubaneswar
 state: Odisha
 ---

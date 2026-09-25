@@ -45,8 +45,9 @@ faqs:
       Yes. Once CAT 2026 percentiles are declared, colleges conduct
       profile-based evaluations including Group Discussions,
       Micro-presentations, and Personal Interviews.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: Exams
 ---
 # CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore
 
@@ -86,15 +87,15 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ## Detailed Hub Analysis
 
 ### 1. Delhi NCR Hub (60–75 Percentile Options)
-* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/posts/all-about-ndim-delhi) and [All About FOSTIIMA Delhi](/posts/all-about-fostiima-delhi).
-* **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/posts/all-about-fiib-delhi) and [All About JIMS Kalkaji](/posts/all-about-jims-kalkaji).
+* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/blog/all-about-ndim-delhi) and [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
+* **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/all-about-fiib-delhi) and [All About JIMS Kalkaji](/blog/all-about-jims-kalkaji).
 
 ### 2. Pune Hub (50–70 Percentile Options)
-* **PIBM Pune & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/posts/all-about-pibm-pune) and [All About Lexicon MILE](/posts/all-about-lexicon-management-institute-of-leadership-excellence).
-* **RIIM Pune:** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/posts/all-about-riim-pune).
+* **PIBM Pune & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/blog/all-about-pibm-pune) and [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence).
+* **RIIM Pune:** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune).
 
 ### 3. Greater Noida Hub (50–65 Percentile Options)
-* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/posts/all-about-gl-bajaj-greater-noida) and [All About GNIOT GIMS](/posts/all-about-gniot-institute-of-management-studies-gims).
+* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida) and [All About GNIOT GIMS](/blog/all-about-gniot-institute-of-management-studies-gims).
 
 ---
 
@@ -107,9 +108,9 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ---
 
 ## Related Reads
-- [All About CAT Exam](/posts/all-about-cat-exam)
-- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/posts/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
-- [Top PGDM Colleges in Pune Admission 2027](/posts/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam)
+- [All About CAT Exam](/blog/all-about-cat-exam)
+- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
+- [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam)
 
 ---
 

@@ -1,9 +1,15 @@
 ---
-title: 'Taxila Business School (TBS) MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Taxila Business School (TBS) MBA / PGDM Admission 2027-29: Fees, Approvals,
+  Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Taxila Business School (TBS) (Taxila Jaipur). Verified fee structure (₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs (Lump Sum Plan)), PGDM approvals, audited placements (Avg ₹11.80 LPA, Highest ₹28.60 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Taxila Business School (TBS) (Taxila
+  Jaipur). Verified fee structure (₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs
+  (Lump Sum Plan)), PGDM approvals, audited placements (Avg ₹11.80 LPA, Highest
+  ₹28.60 LPA), PPO stats, certifications, awards, alumni network, faculty
+  profiles, and Why Join review.
 keywords:
   - Taxila Business School (TBS) admission 2027-29
   - Taxila Jaipur fees 2027
@@ -17,27 +23,53 @@ keywords:
   - best MBA PGDM colleges in Jaipur
   - direct admission in Taxila Jaipur
   - MBA Career Counselling Mohit Jain
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at Taxila Jaipur?
     answer: >-
-      The total course fee for the 2-year PGDM program at Taxila Business School (TBS) for the 2027–29 batch is ₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs (Lump Sum Plan) (₹5.25 Lakhs per Year (Installment Mode)). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year PGDM program at Taxila Business School
+      (TBS) for the 2027–29 batch is ₹10.50 Lakhs (Installment Plan) / ₹9.80
+      Lakhs (Lump Sum Plan) (₹5.25 Lakhs per Year (Installment Mode)). Various
+      merit and category scholarships are available for deserving candidates.
   - question: Which statutory approvals and accreditations does Taxila Jaipur hold?
     answer: >-
-      Taxila Business School (TBS) holds AICTE Approved, Ministry of Education, Govt. of India, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Taxila Jaipur?
+      Taxila Business School (TBS) holds AICTE Approved, Ministry of Education,
+      Govt. of India, ensuring valid degree equivalence, eligibility for
+      government jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Taxila
+      Jaipur?
     answer: >-
-      For recent placement drives, Taxila Jaipur recorded an average salary package of ₹11.80 LPA (Top 25% averaging ₹15.50 LPA) and a peak highest CTC of ₹28.60 LPA, with leading recruiters including SAP Ecosystem Partners, Deloitte, PwC, EY.
-  - question: Does Taxila Jaipur offer Pre-Placement Offers (PPOs) and paid summer internships?
+      For recent placement drives, Taxila Jaipur recorded an average salary
+      package of ₹11.80 LPA (Top 25% averaging ₹15.50 LPA) and a peak highest
+      CTC of ₹28.60 LPA, with leading recruiters including SAP Ecosystem
+      Partners, Deloitte, PwC, EY.
+  - question: >-
+      Does Taxila Jaipur offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
     answer: >-
-      Yes, 100% placement track with 35% PPO conversion in SAP consulting and analytics firms.
+      Yes, 100% placement track with 35% PPO conversion in SAP consulting and
+      analytics firms.
   - question: What value-added certifications are provided to students at Taxila Jaipur?
     answer: >-
-      Students receive embedded industry certifications including Official SAP S/4HANA (FI & CO Modules) Training, Business Analytics using Python, Power BI Dashboarding, Advanced Financial Valuation.
-  - question: How can students apply for admission or get counseling for Taxila Jaipur for 2027–29?
+      Students receive embedded industry certifications including Official SAP
+      S/4HANA (FI & CO Modules) Training, Business Analytics using Python, Power
+      BI Dashboarding, Advanced Financial Valuation.
+  - question: >-
+      How can students apply for admission or get counseling for Taxila Jaipur
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
 location: Jaipur
-state: Pan India
+state: Rajasthan
 ---
 
 # [Taxila Business School](/colleges/taxila-jaipur) (TBS) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

@@ -40,9 +40,15 @@ faqs:
     answer: >-
       MSIT maintains a decent academic environment, and while there isn't a
       strict uniform, students are expected to follow basic campus decorum.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **Maharaja Surajmal Institute of Technology (MSIT)** is a top-ranked engineering college in Delhi, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Located in Janakpuri (West Delhi), MSIT is known for its academic discipline, high faculty standards, and excellent connectivity to the Delhi Metro.
 

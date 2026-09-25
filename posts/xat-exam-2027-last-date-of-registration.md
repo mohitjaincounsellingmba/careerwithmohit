@@ -1,10 +1,13 @@
 ---
-title: 'XAT Exam 2027 Last Date of Registration: Official Deadline, Fees, Schedule & How to Apply'
+title: >-
+  XAT Exam 2027 Last Date of Registration: Official Deadline, Fees, Schedule &
+  How to Apply
 date: '2026-09-10'
-category: MBA
+category: Exams
 description: >-
-  Discover XAT exam 2027 last date of registration, official application deadline,
-  registration fee, XLRI program fees, eligibility, and step-by-step application guide.
+  Discover XAT exam 2027 last date of registration, official application
+  deadline, registration fee, XLRI program fees, eligibility, and step-by-step
+  application guide.
 keywords:
   - xat exam 2027 last date of registration
   - xat 2027 registration deadline
@@ -14,31 +17,40 @@ keywords:
   - xat 2027 exam date
   - xat application fee 2027
   - how to apply for xat 2027
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the XAT exam 2027 last date of registration?
     answer: >-
-      The official last date for XAT 2027 registration is expected to be in the first week
-      of December 2026 (around November 30 to December 5, 2026, by 11:59 PM). XLRI Jamshedpur
-      traditionally extends the application window by a few days to second week of December.
+      The official last date for XAT 2027 registration is expected to be in the
+      first week of December 2026 (around November 30 to December 5, 2026, by
+      11:59 PM). XLRI Jamshedpur traditionally extends the application window by
+      a few days to second week of December.
   - question: When does XAT 2027 registration start?
     answer: >-
-      Online registration for XAT 2027 opens in the third week of July or first week of August 2026
-      on the official website `xatonline.in`.
+      Online registration for XAT 2027 opens in the third week of July or first
+      week of August 2026 on the official website `xatonline.in`.
   - question: What is the registration fee for XAT 2027?
     answer: >-
-      The standard registration fee for XAT 2027 is ₹2,200. Candidates wishing to apply for XLRI
-      programmes (Business Management or Human Resource Management) must pay an additional ₹200
-      per program.
+      The standard registration fee for XAT 2027 is ₹2,200. Candidates wishing
+      to apply for XLRI programmes (Business Management or Human Resource
+      Management) must pay an additional ₹200 per program.
   - question: When will the XAT 2027 exam be conducted?
     answer: >-
-      XAT 2027 will be conducted on the first Sunday of January 2027 (January 3, 2027) in a single
-      afternoon shift (2:00 PM to 5:30 PM) across more than 100 cities nationwide.
+      XAT 2027 will be conducted on the first Sunday of January 2027 (January 3,
+      2027) in a single afternoon shift (2:00 PM to 5:30 PM) across more than
+      100 cities nationwide.
   - question: What is the eligibility criteria for XAT 2027?
     answer: >-
-      Candidates must hold a recognized Bachelor's degree of minimum three years' duration in any
-      discipline. Final-year students completing their degree by June 2027 are also fully eligible to apply.
-location: All India
-state: India
+      Candidates must hold a recognized Bachelor's degree of minimum three
+      years' duration in any discipline. Final-year students completing their
+      degree by June 2027 are also fully eligible to apply.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # XAT Exam 2027 Last Date of Registration: Schedule, XLRI Fees & Step-by-Step Guide

@@ -1,23 +1,30 @@
 ---
-title: "Jagannath University PGDM Admission Review 2026: Placements, Fees & Cutoff"
-date: "2026-06-25"
-category: "MBA"
-description: "Looking for admission to Jagannath University? Read our comprehensive PGDM review for 2026 covering total fees, average and highest placement packages, accepted entrance exams, and cutoffs."
+title: 'Jagannath University PGDM Admission Review 2026: Placements, Fees & Cutoff'
+date: '2026-06-25'
+category: Online Degrees
+description: >-
+  Looking for admission to Jagannath University? Read our comprehensive PGDM
+  review for 2026 covering total fees, average and highest placement packages,
+  accepted entrance exams, and cutoffs.
 keywords:
-  - "jagannath university review 2026"
-  - "jagannath university pgdm placements"
-  - "jagannath university admission cutoff"
-  - "jagannath university fees"
+  - jagannath university review 2026
+  - jagannath university pgdm placements
+  - jagannath university admission cutoff
+  - jagannath university fees
 faqs:
-  - question: "Is Jagannath University a good option for PGDM/MBA?"
+  - question: Is Jagannath University a good option for PGDM/MBA?
     answer: >-
-      Yes, Jagannath University is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
-  - question: "What is the average package offered at Jagannath University?"
+      Yes, Jagannath University is a highly respected institution known for its
+      solid academic foundation, industry-aligned curriculum, and good placement
+      track record.
+  - question: What is the average package offered at Jagannath University?
     answer: >-
-      The average placement package at Jagannath University is approximately ₹3 LPA, with the highest package reaching up to ₹5 LPA.
-  - question: "What entrance exams are accepted by Jagannath University?"
+      The average placement package at Jagannath University is approximately ₹3
+      LPA, with the highest package reaching up to ₹5 LPA.
+  - question: What entrance exams are accepted by Jagannath University?
     answer: >-
-      The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
+      The college accepts scores from national level entrance examinations
+      including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
 ### **College Review: [Jagannath University](/colleges/jagannath-university)**

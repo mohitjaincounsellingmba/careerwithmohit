@@ -1,8 +1,8 @@
 ---
 name: IIIT Sri City (Indian Institute of Information Technology Sri City)
 logo: ''
-location: 'Sri City, Tirupati District, Andhra Pradesh'
-state: Andhra Pradesh
+location: Hyderabad
+state: Telangana
 category: Engineering
 type: Institute of National Importance (PPP)
 courses:
@@ -80,6 +80,12 @@ keywords:
     IIIT Sri City (Indian Institute of Information Technology Sri City) B.Tech
     admission 2027
   - 'engineering colleges Sri City, Tirupati District, Andhra Pradesh'
+  - Hyderabad Colleges
+  - Best Colleges in Hyderabad
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
+  - Colleges in Telangana
+  - Hyderabad Career Counselling
 ---
 
 ### About IIIT Sri City (Indian Institute of Information Technology Sri City)

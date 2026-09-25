@@ -1,7 +1,7 @@
 ---
 name: 'Department of Management Studies (DoMS), IIT Roorkee'
 logo: /logo.webp
-location: 'Roorkee, Uttarakhand'
+location: Dehradun
 category: Management
 type: Institute
 courses:
@@ -49,6 +49,13 @@ keywords:
   - 'Department of Management Studies (DoMS), IIT Roorkee PGDM placement'
   - 'Department of Management Studies (DoMS), IIT Roorkee MBA admission 2027'
   - 'MBA colleges Roorkee, Uttarakhand'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+state: Uttarakhand
 ---
 
 ### About Department of Management Studies (DoMS), IIT Roorkee

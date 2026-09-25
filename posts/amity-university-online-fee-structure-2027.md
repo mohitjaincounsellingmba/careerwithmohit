@@ -15,6 +15,12 @@ keywords:
   - amity online mca fees
   - amity online emi options
   - amity university online review
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -33,6 +39,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
+category: Online Degrees
 ---
 # [Amity University](/colleges/amity-noida) Online Fee Structure (2027): Complete Semester Breakdown & EMI Plans
 

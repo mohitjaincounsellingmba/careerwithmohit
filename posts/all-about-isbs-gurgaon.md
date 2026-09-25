@@ -1,7 +1,7 @@
 ---
 title: 'ISBS Gurgaon (ISB&M) PGDM Admission Review 2026: Placements, Fees & Cutoff'
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to ISBS Gurgaon (ISB&M)? Read our comprehensive PGDM
   review for 2026 covering total fees, average and highest placement packages,
@@ -37,9 +37,14 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, XAT, CMAT for the PGDM and MBA admissions.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 ### **College Review: [ISBS Gurgaon (ISB&M)](/colleges/isbs-gurgaon)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.

@@ -3,7 +3,7 @@ title: >-
   IILM University Greater Noida PGDM Admission Review 2026: Placements, Fees &
   Cutoff
 date: '2026-06-25'
-category: MBA
+category: Online Degrees
 description: >-
   Looking for admission to IILM University Greater Noida? Read our comprehensive
   PGDM review for 2026 covering total fees, average and highest placement
@@ -39,7 +39,7 @@ faqs:
     answer: >-
       The college accepts scores from national level entrance examinations
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Institute of Chemical Technology (ICT Mumbai)
 logo: ''
-location: 'Mumbai, Maharashtra'
+location: Mumbai
 state: Maharashtra
 category: Engineering
 type: Deemed University (Govt. of Maharashtra)
@@ -55,6 +55,12 @@ keywords:
   - Institute of Chemical Technology (ICT Mumbai) CSE placement
   - Institute of Chemical Technology (ICT Mumbai) B.Tech admission 2027
   - 'engineering colleges Mumbai, Maharashtra'
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 ---
 
 ### About Institute of Chemical Technology (ICT Mumbai)

@@ -42,6 +42,7 @@ faqs:
       region.
 location: Chandigarh
 state: Punjab
+category: Exams
 ---
 # Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs & Placement Reports
 
@@ -76,7 +77,7 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 * **Highlights:** AACSB member institution offering experiential management learning and global dual degree tracks with universities in USA, Netherlands, and France.
 
 ### 3. Chitkara Business School, Chandigarh
-* **Highlights:** Renowned for modern digital curriculum, retail marketing, and supply chain management with top tier hiring. Read [All About Chitkara University](/posts/all-about-chitkara-university).
+* **Highlights:** Renowned for modern digital curriculum, retail marketing, and supply chain management with top tier hiring. Read [All About Chitkara University](/blog/all-about-chitkara-university).
 
 ---
 
@@ -89,9 +90,9 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 ---
 
 ## Related Reads
-- [All About CAT Exam](/posts/all-about-cat-exam)
-- [All About XAT Exam](/posts/all-about-xat-exam)
-- [All About Chitkara University](/posts/all-about-chitkara-university)
+- [All About CAT Exam](/blog/all-about-cat-exam)
+- [All About XAT Exam](/blog/all-about-xat-exam)
+- [All About Chitkara University](/blog/all-about-chitkara-university)
 
 ---
 

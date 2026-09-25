@@ -3,7 +3,7 @@ title: >-
   NDIM Delhi Review 2026–2027: PGDM Fees, Placements, Cutoffs, Direct Admission
   & Honest Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: Exams
 description: >-
   Updated NDIM Delhi review for 2026–2027 admissions. Discover verified PGDM fee
   structure (₹13.75 Lakhs), latest 2025–2026 placement packages (avg ₹10.00 LPA,
@@ -80,7 +80,7 @@ faqs:
       programs. The institute has instituted a dedicated ₹2.5 Crore scholarship
       corpus for the 2026–2028 batch for meritorious candidates based on
       entrance scores and academic performance.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 

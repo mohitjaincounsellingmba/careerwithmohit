@@ -1,9 +1,12 @@
 ---
 title: >-
-  XIM University (XIMB) Bhubaneswar MBA Placement Report 2025: Average CTC ₹18.25 LPA, Highest ₹32.80 LPA
+  XIM University (XIMB) Bhubaneswar MBA Placement Report 2025: Average CTC
+  ₹18.25 LPA, Highest ₹32.80 LPA
 date: '2026-08-15'
 description: >-
-  Complete XIMB Bhubaneswar MBA (BM & HRM) Placement Report 2025. Explore average package of ₹18.25 LPA, highest CTC of ₹32.80 LPA, top BFSI & consulting recruiters.
+  Complete XIMB Bhubaneswar MBA (BM & HRM) Placement Report 2025. Explore
+  average package of ₹18.25 LPA, highest CTC of ₹32.80 LPA, top BFSI &
+  consulting recruiters.
 keywords:
   - ximb bhubaneswar mba placement report 2025
   - ximb average package 2025
@@ -14,14 +17,24 @@ keywords:
 faqs:
   - question: What was the average and highest CTC at XIMB in 2025?
     answer: >-
-      In the 2025 placement season, Xavier Institute of Management (XIMB), XIM University recorded an average package of INR 18.25 LPA, a median CTC of INR 17.50 LPA, and a highest package of INR 32.80 LPA.
+      In the 2025 placement season, Xavier Institute of Management (XIMB), XIM
+      University recorded an average package of INR 18.25 LPA, a median CTC of
+      INR 17.50 LPA, and a highest package of INR 32.80 LPA.
   - question: What entrance exams does XIMB accept?
     answer: >-
-      XIMB accepts CAT, XAT, GMAT, and its own university entrance test—X-GMT (Xavier General Management Test).
+      XIMB accepts CAT, XAT, GMAT, and its own university entrance test—X-GMT
+      (Xavier General Management Test).
   - question: What are the primary recruiting sectors at XIMB?
     answer: >-
-      BFSI (32%), Consulting (28%), IT/ITES (22%), and Marketing/Manufacturing (18%) represent the primary hiring sectors at XIMB.
+      BFSI (32%), Consulting (28%), IT/ITES (22%), and Marketing/Manufacturing
+      (18%) represent the primary hiring sectors at XIMB.
+category: Certifications & Skills
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.
+> - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
+> - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
+
 
 The **Xavier Institute of Management, Bhubaneswar (XIMB)** under **XIM University** is recognized as one of Eastern India's most prestigious business schools, boasting over 35 years of executive education excellence.
 

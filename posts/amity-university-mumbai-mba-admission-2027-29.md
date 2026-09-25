@@ -1,9 +1,14 @@
 ---
-title: 'Amity University Mumbai MBA / PGDM Admission 2027-29: Fees, Approvals, Placements, PPO, Certifications & Faculty Review'
+title: >-
+  Amity University Mumbai MBA / PGDM Admission 2027-29: Fees, Approvals,
+  Placements, PPO, Certifications & Faculty Review
 date: '2026-09-18'
-category: MBA Admissions
+category: Exams
 description: >-
-  Complete 2027-29 admission guide for Amity University Mumbai (Amity Mumbai). Verified fee structure (₹10.25 Lakhs (Total)), MBA approvals, audited placements (Avg ₹7.00 LPA, Highest ₹15.00 LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Complete 2027-29 admission guide for Amity University Mumbai (Amity Mumbai).
+  Verified fee structure (₹10.25 Lakhs (Total)), MBA approvals, audited
+  placements (Avg ₹7.00 LPA, Highest ₹15.00 LPA), PPO stats, certifications,
+  awards, alumni network, faculty profiles, and Why Join review.
 keywords:
   - Amity University Mumbai admission 2027-29
   - Amity Mumbai fees 2027
@@ -17,27 +22,51 @@ keywords:
   - best MBA PGDM colleges in Mumbai
   - direct admission in Amity Mumbai
   - MBA Career Counselling Mohit Jain
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Amity Mumbai?
     answer: >-
-      The total course fee for the 2-year MBA program at Amity University Mumbai for the 2027–29 batch is ₹10.25 Lakhs (Total) (₹5.12 Lakhs per Year). Various merit and category scholarships are available for deserving candidates.
+      The total course fee for the 2-year MBA program at Amity University Mumbai
+      for the 2027–29 batch is ₹10.25 Lakhs (Total) (₹5.12 Lakhs per Year).
+      Various merit and category scholarships are available for deserving
+      candidates.
   - question: Which statutory approvals and accreditations does Amity Mumbai hold?
     answer: >-
-      Amity University Mumbai holds UGC Approved · WES Approved · NAAC Accredited, ensuring valid degree equivalence, eligibility for government jobs, and global corporate recognition.
-  - question: What are the placement statistics (Average and Highest CTC) at Amity Mumbai?
+      Amity University Mumbai holds UGC Approved · WES Approved · NAAC
+      Accredited, ensuring valid degree equivalence, eligibility for government
+      jobs, and global corporate recognition.
+  - question: >-
+      What are the placement statistics (Average and Highest CTC) at Amity
+      Mumbai?
     answer: >-
-      For recent placement drives, Amity Mumbai recorded an average salary package of ₹7.00 LPA (Top 25% averaging ₹9.50 LPA) and a peak highest CTC of ₹15.00 LPA, with leading recruiters including Accenture, Amazon, EY, Infosys.
-  - question: Does Amity Mumbai offer Pre-Placement Offers (PPOs) and paid summer internships?
-    answer: >-
-      Yes, 20% PPO conversion through centralized corporate placement drives.
+      For recent placement drives, Amity Mumbai recorded an average salary
+      package of ₹7.00 LPA (Top 25% averaging ₹9.50 LPA) and a peak highest CTC
+      of ₹15.00 LPA, with leading recruiters including Accenture, Amazon, EY,
+      Infosys.
+  - question: >-
+      Does Amity Mumbai offer Pre-Placement Offers (PPOs) and paid summer
+      internships?
+    answer: 'Yes, 20% PPO conversion through centralized corporate placement drives.'
   - question: What value-added certifications are provided to students at Amity Mumbai?
     answer: >-
-      Students receive embedded industry certifications including IBM Analytics Badge, Foreign Language Certification, Digital Business Strategy, Six Sigma Green Belt.
-  - question: How can students apply for admission or get counseling for Amity Mumbai for 2027–29?
+      Students receive embedded industry certifications including IBM Analytics
+      Badge, Foreign Language Certification, Digital Business Strategy, Six
+      Sigma Green Belt.
+  - question: >-
+      How can students apply for admission or get counseling for Amity Mumbai
+      for 2027–29?
     answer: >-
-      Aspirants can apply through the official admissions portal or connect directly with senior career counselor Mohit Jain (+91 9560020771) for profile evaluation, GD-PI tips, scholarship calculation, and admission guidance.
-location: Mumbai
-state: Pan India
+      Aspirants can apply through the official admissions portal or connect
+      directly with senior career counselor Mohit Jain (+91 9560020771) for
+      profile evaluation, GD-PI tips, scholarship calculation, and admission
+      guidance.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [Amity University Mumbai](/colleges/amity-mumbai) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review

@@ -1,9 +1,11 @@
 ---
 title: >-
-  SJMSOM, IIT Bombay MBA Placement Report 2025: Average CTC ₹25.82 LPA, Highest ₹53.80 LPA & Top Recruiters
+  SJMSOM, IIT Bombay MBA Placement Report 2025: Average CTC ₹25.82 LPA, Highest
+  ₹53.80 LPA & Top Recruiters
 date: '2026-08-15'
 description: >-
-  Detailed SJMSOM IIT Bombay MBA Placement Report 2025. Discover average CTC of ₹25.82 LPA, highest package of ₹53.80 LPA, domain-wise hiring, fees & ROI.
+  Detailed SJMSOM IIT Bombay MBA Placement Report 2025. Discover average CTC of
+  ₹25.82 LPA, highest package of ₹53.80 LPA, domain-wise hiring, fees & ROI.
 keywords:
   - sjmsom iit bombay mba placement report 2025
   - sjmsom iit bombay average package 2025
@@ -15,14 +17,27 @@ keywords:
 faqs:
   - question: What was the average and highest package at SJMSOM IIT Bombay in 2025?
     answer: >-
-      In the 2025 placement season, SJMSOM IIT Bombay recorded an average CTC of INR 25.82 LPA, a median CTC of INR 24.50 LPA, and a highest package of INR 53.80 LPA, with 100% placement for the graduating batch.
+      In the 2025 placement season, SJMSOM IIT Bombay recorded an average CTC of
+      INR 25.82 LPA, a median CTC of INR 24.50 LPA, and a highest package of INR
+      53.80 LPA, with 100% placement for the graduating batch.
   - question: Which domains recruited the most from SJMSOM IIT Bombay in 2025?
     answer: >-
-      Strategy & Management Consulting (34%) and BFSI/Investment Banking (26%) were the dominant recruiting domains, followed closely by Supply Chain & Operations (22%) and Product Management/IT (18%).
+      Strategy & Management Consulting (34%) and BFSI/Investment Banking (26%)
+      were the dominant recruiting domains, followed closely by Supply Chain &
+      Operations (22%) and Product Management/IT (18%).
   - question: What is the ROI of doing an MBA from SJMSOM IIT Bombay?
     answer: >-
-      With a total 2-year tuition fee of approximately INR 14.5 Lakhs and an average starting salary of INR 25.82 LPA, SJMSOM IIT Bombay delivers an exceptional return on investment (ROI) with a payback period under 8 to 10 months.
+      With a total 2-year tuition fee of approximately INR 14.5 Lakhs and an
+      average starting salary of INR 25.82 LPA, SJMSOM IIT Bombay delivers an
+      exceptional return on investment (ROI) with a payback period under 8 to 10
+      months.
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹25.82 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
 

@@ -1,9 +1,15 @@
 ---
-title: 'Rajagiri Centre for Business Studies (RCBS Kochi) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Rajagiri Centre for Business Studies (RCBS Kochi) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive Rajagiri Centre for Business Studies (RCBS Kochi) (Kochi, Kerala) review for 2027 admissions. Explore audited fee structure (₹7.50 Lakhs (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹16.50 LPA), entrance exam cutoffs (CAT, CMAT, KMAT Kerala, MAT), NIRF ranking, and student verdict.
+  Comprehensive Rajagiri Centre for Business Studies (RCBS Kochi) (Kochi,
+  Kerala) review for 2027 admissions. Explore audited fee structure (₹7.50 Lakhs
+  (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹16.50 LPA),
+  entrance exam cutoffs (CAT, CMAT, KMAT Kerala, MAT), NIRF ranking, and student
+  verdict.
 keywords:
   - rajagiri centre for business studies (rcbs kochi) review 2027
   - rajagiri centre for business studies (rcbs kochi) mba fees
@@ -18,18 +24,35 @@ keywords:
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at Rajagiri Centre for Business Studies (RCBS Kochi) in recent placement drives?
+  - question: >-
+      What is the average package at Rajagiri Centre for Business Studies (RCBS
+      Kochi) in recent placement drives?
     answer: >-
-      The overall average placement package at Rajagiri Centre for Business Studies (RCBS Kochi) stands at approximately ₹7.80 LPA, with the median package around ₹5.00 LPA and top offers reaching ₹16.50 LPA.
-  - question: What entrance exams are accepted for admission to Rajagiri Centre for Business Studies (RCBS Kochi)?
+      The overall average placement package at Rajagiri Centre for Business
+      Studies (RCBS Kochi) stands at approximately ₹7.80 LPA, with the median
+      package around ₹5.00 LPA and top offers reaching ₹16.50 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Rajagiri Centre for
+      Business Studies (RCBS Kochi)?
     answer: >-
-      Rajagiri Centre for Business Studies (RCBS Kochi) accepts scores from CAT, CMAT, KMAT Kerala, MAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Rajagiri Centre for Business Studies (RCBS Kochi) for the 2-year MBA / PGDM program?
+      Rajagiri Centre for Business Studies (RCBS Kochi) accepts scores from CAT,
+      CMAT, KMAT Kerala, MAT for shortlisting eligible candidates, followed by
+      profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Rajagiri Centre for Business Studies (RCBS
+      Kochi) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹7.50 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Rajagiri Centre for Business Studies (RCBS Kochi) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹7.50 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Rajagiri Centre for Business Studies (RCBS Kochi) offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Rajagiri Centre for Business Studies (RCBS Kochi) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Rajagiri Centre for Business Studies (RCBS Kochi) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Kochi
 state: Kerala
 ---

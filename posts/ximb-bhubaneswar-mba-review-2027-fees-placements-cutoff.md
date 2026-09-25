@@ -1,35 +1,58 @@
 ---
-title: 'Xavier Institute of Management, XIM University (XIMB) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Xavier Institute of Management, XIM University (XIMB) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive Xavier Institute of Management, XIM University (XIMB) (Bhubaneswar, Odisha) review for 2027 admissions. Explore audited fee structure (₹22.00 Lakhs (Total)), latest placement packages (Avg: ₹19.53 LPA, Highest: ₹71.50 LPA), entrance exam cutoffs (XAT, CAT, GMAT, X-GMT), NIRF ranking, and student verdict.
+  Comprehensive Xavier Institute of Management, XIM University (XIMB)
+  (Bhubaneswar, Odisha) review for 2027 admissions. Explore audited fee
+  structure (₹22.00 Lakhs (Total)), latest placement packages (Avg: ₹19.53 LPA,
+  Highest: ₹71.50 LPA), entrance exam cutoffs (XAT, CAT, GMAT, X-GMT), NIRF
+  ranking, and student verdict.
 keywords:
-  - xavier institute of management, xim university (ximb) review 2027
-  - xavier institute of management, xim university (ximb) mba fees
-  - xavier institute of management, xim university (ximb) placements 2026 2027
-  - xavier institute of management, xim university (ximb) average package
-  - xavier institute of management, xim university (ximb) highest package
-  - xavier institute of management, xim university (ximb) cutoff xat cat
-  - xavier institute of management, xim university (ximb) admission process 2027
-  - xavier institute of management, xim university (ximb) ranking
+  - 'xavier institute of management, xim university (ximb) review 2027'
+  - 'xavier institute of management, xim university (ximb) mba fees'
+  - 'xavier institute of management, xim university (ximb) placements 2026 2027'
+  - 'xavier institute of management, xim university (ximb) average package'
+  - 'xavier institute of management, xim university (ximb) highest package'
+  - 'xavier institute of management, xim university (ximb) cutoff xat cat'
+  - 'xavier institute of management, xim university (ximb) admission process 2027'
+  - 'xavier institute of management, xim university (ximb) ranking'
   - Bhubaneswar MBA colleges 2027
   - best MBA colleges in Odisha
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at Xavier Institute of Management, XIM University (XIMB) in recent placement drives?
+  - question: >-
+      What is the average package at Xavier Institute of Management, XIM
+      University (XIMB) in recent placement drives?
     answer: >-
-      The overall average placement package at Xavier Institute of Management, XIM University (XIMB) stands at approximately ₹19.53 LPA, with the median package around ₹12.00 LPA and top offers reaching ₹71.50 LPA.
-  - question: What entrance exams are accepted for admission to Xavier Institute of Management, XIM University (XIMB)?
+      The overall average placement package at Xavier Institute of Management,
+      XIM University (XIMB) stands at approximately ₹19.53 LPA, with the median
+      package around ₹12.00 LPA and top offers reaching ₹71.50 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Xavier Institute of
+      Management, XIM University (XIMB)?
     answer: >-
-      Xavier Institute of Management, XIM University (XIMB) accepts scores from XAT, CAT, GMAT, X-GMT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Xavier Institute of Management, XIM University (XIMB) for the 2-year MBA / PGDM program?
+      Xavier Institute of Management, XIM University (XIMB) accepts scores from
+      XAT, CAT, GMAT, X-GMT for shortlisting eligible candidates, followed by
+      profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Xavier Institute of Management, XIM
+      University (XIMB) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹22.00 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Xavier Institute of Management, XIM University (XIMB) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹22.00 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Xavier Institute of Management, XIM University (XIMB) offer
+      merit-based scholarships or financial assistance?
     answer: >-
-      Yes, Xavier Institute of Management, XIM University (XIMB) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Xavier Institute of Management, XIM University (XIMB) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Bhubaneswar
 state: Odisha
 ---

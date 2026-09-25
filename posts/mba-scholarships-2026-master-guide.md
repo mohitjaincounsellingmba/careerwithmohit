@@ -29,6 +29,7 @@ faqs:
       While merit-based scholarships like Aditya Birla require a high entrance
       rank, several need-based rewards (like IDFC) focus more on your family
       income and academic consistency.
+category: MBA
 ---
 
 Pursuing an MBA from a premier institute is a significant investment, often costing between ₹15L to ₹30L. However, several corporate giants and trusts offer generous scholarships to support meritorious and financially deserving students. 

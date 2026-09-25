@@ -39,9 +39,15 @@ faqs:
     answer: >-
       Yes, being an AKTU affiliate, JSS follows the 75% attendance rule
       strictly.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 **[JSS Academy of Technical Education (JSSATE)](/colleges/jssate-noida)** in Noida is widely considered the #1 engineering college affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU). Located in Sector 62, Noida, JSS is a premium destination for AKTU aspirants, known for its academic heritage, high-quality faculty, and spectacular results in the university rank lists.
 

@@ -43,6 +43,7 @@ faqs:
       2026, XAT, GMAT, and MAT scores for its PGDM admissions.
 location: Bangalore
 state: Karnataka
+category: Exams
 ---
 # Top PGDM Colleges in Bangalore Admission 2027: Fees, Cutoffs, NMAT Exam, CAT 2026 & XAT Scores
 
@@ -75,19 +76,19 @@ state: Karnataka
 
 ### 1. JagSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))
 * **Accreditation:** Globally AACSB accredited.
-* **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/posts/all-about-jagsom-bangalore).
+* **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
 
 ### 2. XIME Bangalore
 * **Location:** Located in Electronic City Phase 1 right beside Infosys and HP campuses.
-* **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/posts/all-about-xime-bangalore).
+* **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/blog/all-about-xime-bangalore).
 
 ### 3. [ISBR Business School](/colleges/isbr-business-school) & GIBS Bangalore
-* **[ISBR Business School](/colleges/isbr-bangalore):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/posts/all-about-isbr-bangalore).
-* **[GIBS Business School](/colleges/gibs-bangalore):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/posts/all-about-gibs-bangalore).
+* **[ISBR Business School](/colleges/isbr-bangalore):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/blog/all-about-isbr-bangalore).
+* **[GIBS Business School](/colleges/gibs-bangalore):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/blog/all-about-gibs-bangalore).
 
 ### 4. [Indus Business Academy](/colleges/indus-business-academy) (IBA) & ISME
-* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/posts/all-about-indus-business-academy).
-* **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/posts/all-about-isme-bangalore).
+* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/blog/all-about-indus-business-academy).
+* **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/blog/all-about-isme-bangalore).
 
 ---
 
@@ -100,9 +101,9 @@ state: Karnataka
 ---
 
 ## Related Reads
-- [Top Ranked MBA/PGDM Institutes in Bangalore (2027-29)](/posts/top-mba-pgdm-institutes-bangalore-2027-29)
-- [All About NMAT Exam](/posts/all-about-nmat-exam)
-- [All About XAT Exam](/posts/all-about-xat-exam)
+- [Top Ranked MBA/PGDM Institutes in Bangalore (2027-29)](/blog/top-mba-pgdm-institutes-bangalore-2027-29)
+- [All About NMAT Exam](/blog/all-about-nmat-exam)
+- [All About XAT Exam](/blog/all-about-xat-exam)
 
 ---
 

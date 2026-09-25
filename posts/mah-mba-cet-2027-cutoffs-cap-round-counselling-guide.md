@@ -1,7 +1,7 @@
 ---
 title: 'MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA'
 date: '2026-08-26'
-category: Exam Guide
+category: Exams
 description: >-
   Complete guide to MAH MBA CET 2027 cutoffs, score vs percentile mapping, CAP
   round registration process, Option Form strategy, and OMS quota rules for
@@ -44,6 +44,11 @@ faqs:
 location: Mumbai
 state: Maharashtra
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
+> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
+> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
 
 The **MAH MBA/MMS CET** (Maharashtra Master of Business Administration Common Entrance Test) is one of the most competitive state-level entrance examinations in India. Conducted annually by the State CET Cell, Maharashtra, it serves as the gateway to over 330 management institutes across Maharashtra, offering prestigious Master of Management Studies (MMS) and MBA degrees.
 

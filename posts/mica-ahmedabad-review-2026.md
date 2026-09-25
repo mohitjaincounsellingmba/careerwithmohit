@@ -1,7 +1,7 @@
 ---
 title: 'MICA Ahmedabad Review 2026: Placements, Fees, MICAT Cutoffs & ROI Analysis'
 date: '2026-09-04'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive MICA Ahmedabad review for 2026: Check latest PGDM & PGDM-C
   placement stats (₹19.22–₹20.46 LPA avg package), ₹28 Lakhs fee structure,

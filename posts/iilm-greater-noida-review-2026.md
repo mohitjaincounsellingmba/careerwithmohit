@@ -3,7 +3,7 @@ title: >-
   IILM Greater Noida (IILM University) Review 2026: Fees, Placements, Cutoffs &
   ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of IILM Greater Noida (IILM University) covering
   MBA/PGDM fee structures, highest and average placements (₹5.9 LPA), entrance
@@ -43,7 +43,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at IILM Greater
       Noida (IILM University) is approximately ₹12.40 Lakhs (Total).
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 

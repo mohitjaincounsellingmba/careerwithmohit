@@ -3,7 +3,7 @@ title: >-
   Akemi Business School Pune Review 2026: Why it's a Top Choice for MBA in
   Digital Marketing
 date: '2026-03-28'
-category: College Comparison
+category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Akemi Business
   School Pune Review 2026: Why it's a Top Choice for MBA in Digital Marketing.
@@ -24,6 +24,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -39,7 +43,7 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 Choosing the right MBA college in Pune can be overwhelming. With powerhouses like **ISMS** and **RIIM** frequently hitting the headlines, another rising star is capturing the attention of smart aspirants: **Akemi Business School (Pune)**.

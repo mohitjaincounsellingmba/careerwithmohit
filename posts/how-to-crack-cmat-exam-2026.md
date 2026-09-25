@@ -1,7 +1,7 @@
 ---
 title: 'How to Crack CMAT Exam 2026: Strategy, Syllabus & Cutoffs'
 date: '2026-06-04'
-category: MBA
+category: Exams
 description: >-
   Planning to crack CMAT 2026? Learn how to tackle the Innovation &
   Entrepreneurship section, score 340+ marks, and secure admission into [JBIMS

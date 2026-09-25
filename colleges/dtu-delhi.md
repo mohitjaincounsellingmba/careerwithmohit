@@ -1,7 +1,7 @@
 ---
 name: 'Delhi Technological University (DTU, formerly DCE)'
 logo: ''
-location: 'Rohini, Delhi'
+location: Delhi NCR
 state: Delhi NCR
 category: Engineering
 type: State Technical University
@@ -57,6 +57,12 @@ keywords:
   - 'Delhi Technological University (DTU, formerly DCE) CSE placement'
   - 'Delhi Technological University (DTU, formerly DCE) B.Tech admission 2027'
   - 'engineering colleges Rohini, Delhi'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 ---
 
 ### About Delhi Technological University (DTU, formerly DCE)

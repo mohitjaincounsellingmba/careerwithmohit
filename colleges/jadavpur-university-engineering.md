@@ -1,7 +1,7 @@
 ---
 name: Jadavpur University - Faculty of Engineering & Technology (JU Kolkata)
 logo: ''
-location: 'Kolkata, West Bengal'
+location: Kolkata
 state: West Bengal
 category: Engineering
 type: Public State University
@@ -88,6 +88,12 @@ keywords:
     Jadavpur University - Faculty of Engineering & Technology (JU Kolkata)
     B.Tech admission 2027
   - 'engineering colleges Kolkata, West Bengal'
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 ---
 
 ### About Jadavpur University - Faculty of Engineering & Technology (JU Kolkata)

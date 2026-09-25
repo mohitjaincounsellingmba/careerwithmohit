@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges Under 5 Lakhs in Gaya 2026: Fees & Placements'
 date: '2026-06-05'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for affordable MBA options in Gaya? Check our list of the best MBA
   colleges under 5 lakhs in Gaya for 2026, comparing fees, entrance exams, and

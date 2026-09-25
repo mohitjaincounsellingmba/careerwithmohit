@@ -1,7 +1,7 @@
 ---
 name: 'Institute of Management, Nirma University (IMNU)'
 logo: /logo.webp
-location: 'Ahmedabad, Gujarat'
+location: Ahmedabad
 category: Management
 type: University
 courses:
@@ -50,6 +50,13 @@ keywords:
   - 'Institute of Management, Nirma University (IMNU) PGDM placement'
   - 'Institute of Management, Nirma University (IMNU) MBA admission 2027'
   - 'MBA colleges Ahmedabad, Gujarat'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+state: Gujarat
 ---
 
 ### About Institute of Management, Nirma University (IMNU)

@@ -1,7 +1,7 @@
 ---
 name: IIM Rohtak
 logo: /logo.webp
-location: 'Sunaria, Rohtak, Haryana'
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -51,6 +51,13 @@ keywords:
   - IIM Rohtak PGDM placement
   - IIM Rohtak MBA admission 2027
   - 'MBA colleges Sunaria, Rohtak, Haryana'
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### About IIM Rohtak

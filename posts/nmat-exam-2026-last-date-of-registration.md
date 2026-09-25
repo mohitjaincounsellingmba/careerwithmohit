@@ -1,10 +1,13 @@
 ---
-title: 'NMAT Exam 2026 Last Date of Registration: Deadline, Retake Window, Fees & How to Apply'
+title: >-
+  NMAT Exam 2026 Last Date of Registration: Deadline, Retake Window, Fees & How
+  to Apply
 date: '2026-09-10'
-category: MBA
+category: Exams
 description: >-
-  Check NMAT exam 2026 last date of registration, application deadline, registration fee,
-  retake dates, NMIMS cutoff requirements, and step-by-step form fill-up guide.
+  Check NMAT exam 2026 last date of registration, application deadline,
+  registration fee, retake dates, NMIMS cutoff requirements, and step-by-step
+  form fill-up guide.
 keywords:
   - nmat exam 2026 last date of registration
   - nmat 2026 registration deadline
@@ -14,32 +17,42 @@ keywords:
   - nmat registration fee 2026
   - nmims registration last date 2026
   - how to apply for nmat 2026
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
   - question: What is the NMAT exam 2026 last date of registration?
     answer: >-
-      The regular registration window for NMAT by GMAC 2026 closes in the second week of
-      October 2026 (expected October 10 to October 13, 2026, at 11:59 PM). Retake registrations
-      remain open until mid-December 2026.
+      The regular registration window for NMAT by GMAC 2026 closes in the second
+      week of October 2026 (expected October 10 to October 13, 2026, at 11:59
+      PM). Retake registrations remain open until mid-December 2026.
   - question: What is the registration fee for NMAT 2026?
     answer: >-
-      The registration fee for the main exam is ₹3,000 + applicable taxes (18% GST). The retake fee
-      is also ₹3,000 + taxes per attempt, and exam rescheduling charges are ₹1,200 + taxes.
+      The registration fee for the main exam is ₹3,000 + applicable taxes (18%
+      GST). The retake fee is also ₹3,000 + taxes per attempt, and exam
+      rescheduling charges are ₹1,200 + taxes.
   - question: Can I take NMAT multiple times in 2026?
     answer: >-
-      Yes, candidates are permitted up to three attempts (1 main attempt + 2 retakes) within
-      the testing window. However, please note that NMIMS Mumbai considers only the first (main) attempt
-      score for its flagship MBA programs.
+      Yes, candidates are permitted up to three attempts (1 main attempt + 2
+      retakes) within the testing window. However, please note that NMIMS Mumbai
+      considers only the first (main) attempt score for its flagship MBA
+      programs.
   - question: Do I need to apply separately for NMIMS Mumbai?
     answer: >-
-      Yes! Registering on the NMAT by GMAC portal only enters you for the exam. You must separately
-      fill out the NMIMS MBA application form on `nmims.edu` before its deadline (typically the same
-      date as NMAT regular registration).
+      Yes! Registering on the NMAT by GMAC portal only enters you for the exam.
+      You must separately fill out the NMIMS MBA application form on `nmims.edu`
+      before its deadline (typically the same date as NMAT regular
+      registration).
   - question: What is the exam pattern for NMAT 2026?
     answer: >-
-      NMAT is a computer-adaptive test with 108 questions across three sections (Language Skills,
-      Quantitative Skills, and Logical Reasoning) to be completed in 120 minutes. There is no negative marking.
-location: All India
-state: India
+      NMAT is a computer-adaptive test with 108 questions across three sections
+      (Language Skills, Quantitative Skills, and Logical Reasoning) to be
+      completed in 120 minutes. There is no negative marking.
+location: Mumbai
+state: Maharashtra
 ---
 
 # NMAT Exam 2026 Last Date of Registration: Deadline, Fees & NMIMS Application Guide

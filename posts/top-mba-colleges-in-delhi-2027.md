@@ -23,6 +23,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Which is the top-ranked MBA college in Delhi with low fees?
     answer: >-
@@ -44,7 +48,7 @@ faqs:
       Yes, DMS IIT Delhi admits candidates with a Bachelor’s degree in any
       discipline (including commerce, arts, sciences, and engineering) with
       minimum 60% marks and a valid CAT score (usually 98+ percentile).
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 
@@ -134,3 +138,11 @@ Top-tier colleges (FMS, IIT, IIFT, IMI, FORE, LBSIM) strictly admit students via
 ---
 
 ### [InquiryCard title="Planning Your Delhi B-School Admissions?" description="Get your profile evaluated for Delhi University, DMS IIT Delhi, IMI, FORE, and LBSIM. Talk to Mohit Jain today." cta="Book Free Delhi Counselling" type="admission"]
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

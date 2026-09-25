@@ -1,7 +1,7 @@
 ---
 name: 'Institute of Technology, Nirma University'
 logo: ''
-location: 'Ahmedabad, Gujarat'
+location: Ahmedabad
 state: Gujarat
 category: Engineering
 type: Private University Institute
@@ -56,6 +56,12 @@ keywords:
   - 'Institute of Technology, Nirma University CSE placement'
   - 'Institute of Technology, Nirma University B.Tech admission 2027'
   - 'engineering colleges Ahmedabad, Gujarat'
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 ---
 
 ### About Institute of Technology, Nirma University

@@ -40,9 +40,15 @@ faqs:
     answer: >-
       Yes — JKBS offers hostel accommodation for outstation students on its
       10-acre residential campus.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
+category: MBA
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee & Placement Benchmarks**: Estimated fee: ₹9 Lakhs | Audited placement: highest package of ₹24 LPA.
+> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
+
 
 **[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** is one of the most practical choices for MBA aspirants who want a **PGDM from Gurgaon's corporate belt at under ₹9 Lakhs** — without compromising on placement quality or campus experience.
 

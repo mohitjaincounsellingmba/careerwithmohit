@@ -29,7 +29,13 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
+category: Online Degrees
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
+> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
+> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
+
 [Visva-Bharati University](/colleges/visva-bharati-santiniketan), located in Santiniketan, West Bengal, is an institution of national importance founded by Rabindranath Tagore. It offers a unique blend of traditional values and modern academics.
 
 ## 📊 Visva-Bharati 2026 Overview: Fees, Placements & Cutoffs

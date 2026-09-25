@@ -1,9 +1,14 @@
 ---
-title: 'IIM Kashipur Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  IIM Kashipur Review 2027: Fees, Placements, Cutoff, Ranking & Admission
+  Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: MBA
 description: >-
-  Comprehensive IIM Kashipur (Kundeshwari, Kashipur, Uttarakhand) review for 2027 admissions. Explore audited fee structure (₹17.30 Lakhs (Total)), latest placement packages (Avg: ₹18.11 LPA, Highest: ₹37.00 LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Comprehensive IIM Kashipur (Kundeshwari, Kashipur, Uttarakhand) review for
+  2027 admissions. Explore audited fee structure (₹17.30 Lakhs (Total)), latest
+  placement packages (Avg: ₹18.11 LPA, Highest: ₹37.00 LPA), entrance exam
+  cutoffs (CAT), NIRF ranking, and student verdict.
 keywords:
   - iim kashipur review 2027
   - iim kashipur mba fees
@@ -20,16 +25,25 @@ keywords:
 faqs:
   - question: What is the average package at IIM Kashipur in recent placement drives?
     answer: >-
-      The overall average placement package at IIM Kashipur stands at approximately ₹18.11 LPA, with the median package around ₹11.50 LPA and top offers reaching ₹37.00 LPA.
+      The overall average placement package at IIM Kashipur stands at
+      approximately ₹18.11 LPA, with the median package around ₹11.50 LPA and
+      top offers reaching ₹37.00 LPA.
   - question: What entrance exams are accepted for admission to IIM Kashipur?
     answer: >-
-      IIM Kashipur accepts scores from CAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at IIM Kashipur for the 2-year MBA / PGDM program?
+      IIM Kashipur accepts scores from CAT for shortlisting eligible candidates,
+      followed by profile evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at IIM Kashipur for the 2-year MBA / PGDM
+      program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹17.30 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
+      The total tuition and academic fee structure is approximately ₹17.30 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
   - question: Does IIM Kashipur offer merit-based scholarships or financial assistance?
     answer: >-
-      Yes, IIM Kashipur provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, IIM Kashipur provides merit scholarships to high scorers in entrance
+      tests, tuition fee waivers for economically weaker candidates, and
+      assistance for collateral-free bank loans.
 location: Kundeshwari
 state: Kashipur
 ---

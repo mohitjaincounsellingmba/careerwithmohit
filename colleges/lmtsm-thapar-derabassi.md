@@ -1,7 +1,7 @@
 ---
 name: LM Thapar School of Management (LMTSM)
 logo: /logo.webp
-location: 'Dera Bassi, Mohali, Punjab'
+location: Chandigarh
 category: Management
 type: University
 courses:
@@ -54,6 +54,13 @@ keywords:
   - LM Thapar School of Management (LMTSM) PGDM placement
   - LM Thapar School of Management (LMTSM) MBA admission 2027
   - 'MBA colleges Dera Bassi, Mohali, Punjab'
+  - Chandigarh Colleges
+  - Best Colleges in Chandigarh
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
+state: Punjab
 ---
 
 ### About LM Thapar School of Management (LMTSM)

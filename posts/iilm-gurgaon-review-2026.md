@@ -3,7 +3,7 @@ title: >-
   IILM University (Gurugram Campus) Review 2026: Fees, Placements, Cutoffs & ROI
   Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Comprehensive 2026 review of IILM University (Gurugram Campus) covering
   MBA/PGDM fee structures, highest and average placements (₹8.6 LPA), entrance
@@ -40,7 +40,7 @@ faqs:
     answer: >-
       The total fee for the 2-year full-time MBA/PGDM program at IILM University
       (Gurugram Campus) is approximately ₹11.50 Lakhs (Total).
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

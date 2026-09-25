@@ -3,11 +3,11 @@ title: >-
   St. Andrews Institute of Technology & Management (SAITM) Review 2026: Fees,
   Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
-category: MBA Admissions
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva
+  and priva for 2026-2027 admissions & career guidance.
 keywords:
   - St. Andrews Institute of Technology & Management (SAITM) review 2026
   - St. Andrews Institute of Technology & Management (SAITM) mba fees
@@ -48,7 +48,7 @@ faqs:
       The total fee for the 2-year full-time MBA/PGDM program at St. Andrews
       Institute of Technology & Management (SAITM) is approximately ₹3.25 Lakhs
       (Total).
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

@@ -3,7 +3,7 @@ title: >-
   Institute of Management Technology (IMT) Review 2027: Fees, Placements,
   Cutoff, Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
   In-depth Institute of Management Technology (IMT) (Raj Nagar Campus) review
   for 2027 admissions. Explore verified fee structure (₹21.50 – ₹22.50 Lakhs (2
@@ -32,6 +32,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT and XAT cutoff for IMT Ghaziabad PGDM?
     answer: >-
@@ -52,7 +56,7 @@ faqs:
       While IMT is globally known for Marketing, its PGDM (Financial Management)
       and PGDM (Banking & Financial Services) have grown rapidly, drawing elite
       BFSI recruiters like Goldman Sachs, Barclays, Morgan Stanley, and CRISIL.
-location: Ghaziabad
+location: Delhi NCR
 state: Delhi NCR
 ---
 

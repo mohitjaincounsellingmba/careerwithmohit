@@ -1,8 +1,13 @@
 ---
-title: 'Profile Evaluation for IIM Calls at CAT 85 Percentile: Composite Score, Cutoffs & B-School Matrix'
+title: >-
+  Profile Evaluation for IIM Calls at CAT 85 Percentile: Composite Score,
+  Cutoffs & B-School Matrix
 date: '2026-09-12'
-description: 'Can you get IIM calls with an 85 percentile in CAT? In-depth profile evaluation covering academic diversity, gender diversity, category cutoffs, and top non-IIM alternatives.'
-category: 'MBA Admissions'
+description: >-
+  Can you get IIM calls with an 85 percentile in CAT? In-depth profile
+  evaluation covering academic diversity, gender diversity, category cutoffs,
+  and top non-IIM alternatives for 2026-2027 admissions & career guidance.
+category: MBA
 keywords:
   - profile evaluation for iim calls cat 85 percentile
   - iim calls at 85 percentile in cat
@@ -12,15 +17,32 @@ keywords:
   - best mba colleges for 85 percentile in cat
 faqs:
   - question: Can a General Engineer Male (GEM) get IIM calls at 85 percentile?
-    answer: "It is virtually impossible for a General Engineer Male (GEM) to receive a call from Old IIMs (BLACKI) or New IIMs at 85 percentile because minimum qualifying criteria require 97–99+ percentile. However, GEM candidates can convert premier tier-2 institutions like GIM, FORE, TAPMI, BIMTECH, and LBSIM."
+    answer: >-
+      It is virtually impossible for a General Engineer Male (GEM) to receive a
+      call from Old IIMs (BLACKI) or New IIMs at 85 percentile because minimum
+      qualifying criteria require 97–99+ percentile. However, GEM candidates can
+      convert premier tier-2 institutions like GIM, FORE, TAPMI, BIMTECH, and
+      LBSIM.
   - question: Which categories can get IIM calls at 85 percentile?
-    answer: "Candidates from NC-OBC, EWS, SC, ST, and PwD categories stand a very high chance of receiving calls from New and Baby IIMs (like IIM Bodh Gaya, IIM Jammu, IIM Sirmaur, and IIM Sambalpur) at 85 percentile, provided sectional minimum cutoffs are cleared."
+    answer: >-
+      Candidates from NC-OBC, EWS, SC, ST, and PwD categories stand a very high
+      chance of receiving calls from New and Baby IIMs (like IIM Bodh Gaya, IIM
+      Jammu, IIM Sirmaur, and IIM Sambalpur) at 85 percentile, provided
+      sectional minimum cutoffs are cleared.
   - question: How much do academic and gender diversity impact IIM shortlisting?
-    answer: "Academic diversity (arts, commerce, medicine, humanities) and gender diversity (female/transgender candidates) award 5 to 10 bonus points out of 100 in the composite score calculation at institutes like IIM Kozhikode, IIM Rohtak, and IIM Amritsar."
+    answer: >-
+      Academic diversity (arts, commerce, medicine, humanities) and gender
+      diversity (female/transgender candidates) award 5 to 10 bonus points out
+      of 100 in the composite score calculation at institutes like IIM
+      Kozhikode, IIM Rohtak, and IIM Amritsar.
   - question: Which top non-IIM colleges accept 85 percentile in CAT?
-    answer: "Premier non-IIM B-schools accepting 80–88 percentile include Goa Institute of Management (GIM), FORE School of Management, TAPMI Manipal, Great Lakes Gurgaon, BIMTECH Greater Noida, and Lal Bahadur Shastri Institute of Management (LBSIM)."
-location: 'Pan India'
-state: 'Pan India'
+    answer: >-
+      Premier non-IIM B-schools accepting 80–88 percentile include Goa Institute
+      of Management (GIM), FORE School of Management, TAPMI Manipal, Great Lakes
+      Gurgaon, BIMTECH Greater Noida, and Lal Bahadur Shastri Institute of
+      Management (LBSIM).
+location: Pan India
+state: Pan India
 ---
 
 Scoring an **85 percentile in the CAT exam** places you ahead of over 2,50,000 aspirants across India. Yet, the prevailing anxiety among students is whether an 85 percentile is enough to receive an elusive interview call from the prestigious **Indian Institutes of Management (IIMs)**.

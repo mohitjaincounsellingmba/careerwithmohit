@@ -3,7 +3,7 @@ title: >-
   Management Development Institute (MDI) Review 2027: Fees, Placements, Cutoff,
   Ranking & Admission Verdict
 date: '2026-09-10'
-category: MBA Admissions
+category: MBA
 description: >-
   In-depth Management Development Institute (MDI) (Sukhrali Campus, Sector 17)
   review for 2027 admissions. Explore verified fee structure (₹25.00 – ₹26.50
@@ -31,6 +31,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: What is the CAT cutoff for MDI Gurgaon PGDM?
     answer: >-
@@ -54,7 +58,7 @@ faqs:
       Yes, MDI Gurgaon consistently ranks alongside IIM Indore, IIM Kozhikode,
       and SPJIMR in placement quality, recruiter trust, and corporate alumni
       footprint.
-location: Gurgaon
+location: Delhi NCR
 state: Delhi NCR
 ---
 

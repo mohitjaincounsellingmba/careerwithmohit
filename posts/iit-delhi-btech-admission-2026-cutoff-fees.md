@@ -39,9 +39,15 @@ faqs:
       The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC
       students, with full waivers for SC/ST and income-based concessions for
       others.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: B.Tech
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
+> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
+> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
 
 The **Indian Institute of Technology (IIT) Delhi** is consistently ranked as the #2 engineering institute in India (NIRF 2025). Located in the heart of South Delhi (Hauz Khas), it is the ultimate dream for millions of JEE aspirants. Known for its rigorous academics, world-class research, and a billionaire-producing alumni network, IIT Delhi is the pinnacle of engineering education in India.
 

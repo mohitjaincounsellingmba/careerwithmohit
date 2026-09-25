@@ -22,6 +22,10 @@ keywords:
   - Best Colleges in Delhi NCR
   - Direct Admission Delhi NCR
   - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can non-Karnataka students apply for St. John's Medical College?
     answer: >-
@@ -31,9 +35,15 @@ faqs:
     answer: 'Yes, St. John''s has a mandatory 2-year rural service bond post MBBS.'
   - question: What is the MBBS fee at St. John's Bengaluru?
     answer: The tuition fee is approximately ₹7.3 Lakhs per year.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
+category: Medical/MBBS
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Global & National Recognition**: NMC/WHO/UGC recognized universities with clinical training and modern campus facilities.
+> - **Admission & Visa Process**: Step-by-step documentation, eligibility scores (NEET/IELTS/DET), and transparent fee schedules.
+> - **Licensing & Career Opportunities**: Preparation pathways for NEXT/FMGE and international residency or practice licenses.
+
 
 Planning your medical career and targeting **St. John’s Medical College, Bengaluru** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, St. John's Medical College offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
 

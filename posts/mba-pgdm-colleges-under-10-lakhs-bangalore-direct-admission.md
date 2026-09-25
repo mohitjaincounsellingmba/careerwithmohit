@@ -27,6 +27,7 @@ faqs:
     answer: "Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 Lakhs per year depending on the location and facilities.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [\U0001F449 Overwhelmed with options? Book an Admission Audit Today!](/inquiry)\n\n*At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*"
 location: Bangalore
 state: Karnataka
+category: Online Degrees
 ---
 
 Bangalore, India's Silicon Valley, is unequivocally the best place to pursue an MBA if you want to enter the tech, consulting, e-commerce, or analytics sectors. While premium institutions charge heaven-high fees, Bangalore is densely populated with fantastic Tier-2 B-Schools. 

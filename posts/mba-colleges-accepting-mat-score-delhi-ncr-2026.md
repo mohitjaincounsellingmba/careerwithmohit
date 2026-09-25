@@ -1,7 +1,7 @@
 ---
 title: 'MBA Colleges Accepting MAT Score in Delhi NCR 2026: Ranks & Fees'
 date: '2026-05-23'
-category: MBA Admissions
+category: Online Degrees
 description: >-
   Looking for B-schools accepting MAT scores? Check out the best MBA/PGDM
   colleges accepting MAT in Delhi NCR for 2026, with cutoffs, fees, and
@@ -39,7 +39,7 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Noida
+location: Delhi NCR
 state: Delhi NCR
 ---
 The Management Aptitude Test (MAT) is one of the most popular national management entrance exams in India. Conducted four times a year (February, May, September, and December) by AIMA, MAT offers a highly accessible and flexible pathway for students aiming for PGDM or MBA courses. 

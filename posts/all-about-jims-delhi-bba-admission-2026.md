@@ -1,7 +1,7 @@
 ---
 title: 'JIMS Delhi BBA Admission 2026: Rohini & Kalkaji Campuses Guide'
 date: '2026-05-15'
-category: BBA Admissions
+category: BBA
 description: >-
   Everything about BBA at Jagan Institute of Management Studies (JIMS) Delhi for
   2026. Get latest on IPU CET, fees, placements, and campus reviews.
@@ -33,9 +33,14 @@ faqs:
     answer: >-
       JIMS provides assistance and tie-ups for hostel and PG accommodations for
       outstation students near its campuses.
-location: Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
 
 [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
 

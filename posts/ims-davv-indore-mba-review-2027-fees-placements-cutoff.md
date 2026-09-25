@@ -1,35 +1,58 @@
 ---
-title: 'Institute of Management Studies, DAVV (IMS DAVV) Review 2027: Fees, Placements, Cutoff, Ranking & Admission Verdict'
+title: >-
+  Institute of Management Studies, DAVV (IMS DAVV) Review 2027: Fees,
+  Placements, Cutoff, Ranking & Admission Verdict
 date: '2026-09-15'
-category: MBA Admissions
+category: Exams
 description: >-
-  Comprehensive Institute of Management Studies, DAVV (IMS DAVV) (Indore, Madhya Pradesh) review for 2027 admissions. Explore audited fee structure (₹1.60 Lakhs (Total)), latest placement packages (Avg: ₹6.50 LPA, Highest: ₹18.00 LPA), entrance exam cutoffs (CUET-PG, CMAT), NIRF ranking, and student verdict.
+  Comprehensive Institute of Management Studies, DAVV (IMS DAVV) (Indore, Madhya
+  Pradesh) review for 2027 admissions. Explore audited fee structure (₹1.60
+  Lakhs (Total)), latest placement packages (Avg: ₹6.50 LPA, Highest: ₹18.00
+  LPA), entrance exam cutoffs (CUET-PG, CMAT), NIRF ranking, and student
+  verdict.
 keywords:
-  - institute of management studies, davv (ims davv) review 2027
-  - institute of management studies, davv (ims davv) mba fees
-  - institute of management studies, davv (ims davv) placements 2026 2027
-  - institute of management studies, davv (ims davv) average package
-  - institute of management studies, davv (ims davv) highest package
-  - institute of management studies, davv (ims davv) cutoff cuet-pg cmat
-  - institute of management studies, davv (ims davv) admission process 2027
-  - institute of management studies, davv (ims davv) ranking
+  - 'institute of management studies, davv (ims davv) review 2027'
+  - 'institute of management studies, davv (ims davv) mba fees'
+  - 'institute of management studies, davv (ims davv) placements 2026 2027'
+  - 'institute of management studies, davv (ims davv) average package'
+  - 'institute of management studies, davv (ims davv) highest package'
+  - 'institute of management studies, davv (ims davv) cutoff cuet-pg cmat'
+  - 'institute of management studies, davv (ims davv) admission process 2027'
+  - 'institute of management studies, davv (ims davv) ranking'
   - Indore MBA colleges 2027
   - best MBA colleges in Madhya Pradesh
   - top MBA colleges in India 2027
   - direct MBA admission guidance 2027
 faqs:
-  - question: What is the average package at Institute of Management Studies, DAVV (IMS DAVV) in recent placement drives?
+  - question: >-
+      What is the average package at Institute of Management Studies, DAVV (IMS
+      DAVV) in recent placement drives?
     answer: >-
-      The overall average placement package at Institute of Management Studies, DAVV (IMS DAVV) stands at approximately ₹6.50 LPA, with the median package around ₹4.00 LPA and top offers reaching ₹18.00 LPA.
-  - question: What entrance exams are accepted for admission to Institute of Management Studies, DAVV (IMS DAVV)?
+      The overall average placement package at Institute of Management Studies,
+      DAVV (IMS DAVV) stands at approximately ₹6.50 LPA, with the median package
+      around ₹4.00 LPA and top offers reaching ₹18.00 LPA.
+  - question: >-
+      What entrance exams are accepted for admission to Institute of Management
+      Studies, DAVV (IMS DAVV)?
     answer: >-
-      Institute of Management Studies, DAVV (IMS DAVV) accepts scores from CUET-PG, CMAT for shortlisting eligible candidates, followed by profile evaluation and personal interviews (PI / WAT).
-  - question: What is the total course fee at Institute of Management Studies, DAVV (IMS DAVV) for the 2-year MBA / PGDM program?
+      Institute of Management Studies, DAVV (IMS DAVV) accepts scores from
+      CUET-PG, CMAT for shortlisting eligible candidates, followed by profile
+      evaluation and personal interviews (PI / WAT).
+  - question: >-
+      What is the total course fee at Institute of Management Studies, DAVV (IMS
+      DAVV) for the 2-year MBA / PGDM program?
     answer: >-
-      The total tuition and academic fee structure is approximately ₹1.60 Lakhs (Total), with education loan tie-ups available across premier public and private commercial banks.
-  - question: Does Institute of Management Studies, DAVV (IMS DAVV) offer merit-based scholarships or financial assistance?
+      The total tuition and academic fee structure is approximately ₹1.60 Lakhs
+      (Total), with education loan tie-ups available across premier public and
+      private commercial banks.
+  - question: >-
+      Does Institute of Management Studies, DAVV (IMS DAVV) offer merit-based
+      scholarships or financial assistance?
     answer: >-
-      Yes, Institute of Management Studies, DAVV (IMS DAVV) provides merit scholarships to high scorers in entrance tests, tuition fee waivers for economically weaker candidates, and assistance for collateral-free bank loans.
+      Yes, Institute of Management Studies, DAVV (IMS DAVV) provides merit
+      scholarships to high scorers in entrance tests, tuition fee waivers for
+      economically weaker candidates, and assistance for collateral-free bank
+      loans.
 location: Indore
 state: Madhya Pradesh
 ---
