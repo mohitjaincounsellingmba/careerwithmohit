@@ -91,6 +91,13 @@ export function Header() {
 
   const collegeLinks = [
     {
+      title: 'MBA/PGDM DIRECT ADMISSION COLLEGES',
+      desc: 'Top 55+ targeted Delhi NCR, Pune, Blr & Mumbai B-Schools',
+      href: '/mba-pgdm-admission-2027',
+      icon: GraduationCap,
+      iconColor: 'text-amber-600 bg-amber-50',
+    },
+    {
       title: '770+ Colleges Directory',
       desc: 'All-India verified MBA, B.Tech & BBA institutes',
       href: '/colleges',
@@ -129,6 +136,15 @@ export function Header() {
 
   const admissionLinks = [
     {
+      title: 'MBA/PGDM DIRECT ADMISSION COLLEGES',
+      desc: 'Top 55+ targeted colleges, fees, cutoffs & direct entry',
+      href: '/mba-pgdm-admission-2027',
+      badge: '2027-29',
+      badgeColor: 'text-amber-700 bg-amber-100 font-bold',
+      icon: GraduationCap,
+      iconColor: 'text-amber-600 bg-amber-50',
+    },
+    {
       title: 'MBA Form Combo Discounts',
       desc: 'Save up to ₹5,000+ across 55+ top B-Schools',
       href: '/mba-application-form-discount',
@@ -143,13 +159,6 @@ export function Header() {
       href: '/admissions',
       icon: Sparkles,
       iconColor: 'text-blue-600 bg-blue-50',
-    },
-    {
-      title: 'MBA & PGDM 2027 Roadmap',
-      desc: 'B-School shortlist criteria & GD-PI prep',
-      href: '/mba-pgdm-admission-2027',
-      icon: GraduationCap,
-      iconColor: 'text-amber-600 bg-amber-50',
     },
     {
       title: 'Abroad Education Advisory',
