@@ -302,8 +302,25 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function() {
+                try {
+                  var saved = localStorage.getItem('cwm_theme');
+                  var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                  if (saved === 'dark' || (!saved && prefersDark)) {
+                    document.documentElement.classList.add('dark');
+                  } else {
+                    document.documentElement.classList.remove('dark');
+                  }
+                } catch (e) {}
+              })();
+            `,
+          }}
+        />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
@@ -317,7 +334,7 @@ export default function RootLayout({
         <JsonLd data={speakableData} />
       </head>
       <body
-        className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
+        className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground transition-colors duration-200`}
       >
         <AnalyticsTracker />
         <DeferredAnalytics />

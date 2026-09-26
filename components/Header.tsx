@@ -25,12 +25,28 @@ import {
   BookOpen,
   MapPin,
   Search,
+  Palette,
+  Scale,
+  Star,
+  Zap,
 } from "lucide-react";
 import { SearchInput } from "./SearchInput";
 import { Logo } from "./Logo";
 import { EducationTicker } from "./EducationTicker";
 import { MegaMenuDropdown } from "./MegaMenuDropdown";
+import { ThemeToggle } from "./ThemeToggle";
 import { MEGA_MENU_DATA, MegaMenuItem } from "@/data/megaMenuData";
+
+// Course icon mapping for navigation ribbon
+const COURSE_ICONS: Record<string, any> = {
+  mba: GraduationCap,
+  engineering: Zap,
+  design: Palette,
+  law: Scale,
+  "online-degrees": Laptop,
+  "abroad-education": Globe,
+  "college-reviews": Star,
+};
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -95,7 +111,7 @@ export function Header() {
     }
     timeoutRef.current = setTimeout(() => {
       setActiveMegaMenuId(null);
-    }, 150);
+    }, 160);
   };
 
   const activeMegaMenuItem = MEGA_MENU_DATA.find((item) => item.id === activeMegaMenuId);
@@ -108,11 +124,11 @@ export function Header() {
       {/* 2. Main Navigation Header Container */}
       <header
         ref={headerRef}
-        className="sticky top-0 z-40 w-full bg-white border-b border-slate-200 shadow-xs transition-all"
+        className="sticky top-0 z-40 w-full bg-white dark:bg-[#0b1120] border-b border-slate-200 dark:border-slate-800/80 shadow-xs transition-colors duration-200"
         role="banner"
       >
-        {/* Tier 1: Brand Logo + Shiksha Style Global Search Bar + CTAs */}
-        <div className="border-b border-slate-100 bg-white">
+        {/* Tier 1: Brand Logo + Education Portal Search Bar + CTAs & Theme Toggle */}
+        <div className="border-b border-slate-100 dark:border-slate-800/60 bg-white dark:bg-[#0b1120] transition-colors duration-200">
           <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8 gap-3 sm:gap-6">
             
             {/* Left: Brand Logo */}
@@ -120,22 +136,23 @@ export function Header() {
               <Logo variant="header" size="md" />
             </div>
 
-            {/* Center: Prominent Shiksha-Style Global Search Bar */}
-            <div className="hidden md:flex flex-1 max-w-2xl mx-auto items-center">
-              <div className="w-full">
-                <SearchInput isMobile={false} />
-              </div>
+            {/* Center: Prominent Education Portal Search Bar */}
+            <div className="hidden md:flex flex-1 max-w-2xl xl:max-w-3xl mx-auto items-center justify-center">
+              <SearchInput isMobile={false} />
             </div>
 
-            {/* Right Action Group: WhatsApp + Book Meet + Mobile Menu Button */}
+            {/* Right Action Group: Theme Toggle + WhatsApp + Book Meet + Mobile Menu Button */}
             <div className="flex items-center gap-2 sm:gap-3 shrink-0">
               
+              {/* Dark / Light Theme Toggle Button */}
+              <ThemeToggle />
+
               {/* WhatsApp Direct Chat */}
               <a
                 href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0"
+                className="w-9 h-9 rounded-xl bg-emerald-50 hover:bg-emerald-100 dark:bg-emerald-950/50 dark:hover:bg-emerald-900/60 border border-emerald-200 dark:border-emerald-800/60 text-emerald-600 dark:text-emerald-400 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 shadow-2xs"
                 title="Chat directly on WhatsApp (+91 95600 20771)"
                 aria-label="Chat on WhatsApp"
               >
@@ -158,7 +175,7 @@ export function Header() {
               {/* Mobile Menu Toggle Button */}
               <button
                 type="button"
-                className="lg:hidden flex items-center justify-center w-9 h-9 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
+                className="lg:hidden flex items-center justify-center w-9 h-9 text-slate-700 dark:text-slate-200 hover:text-blue-600 dark:hover:text-blue-400 transition-colors bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-700 rounded-xl cursor-pointer shrink-0"
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
                 aria-label="Toggle mobile menu"
                 aria-expanded={isMobileMenuOpen}
@@ -173,17 +190,18 @@ export function Header() {
           </div>
         </div>
 
-        {/* Tier 2: Shiksha-Style Course Navigation Bar (MBA | ENGINEERING | DESIGN | LAW | ONLINE DEGREES | ABROAD EDUCATION | COLLEGE REVIEWS) */}
-        <div className="hidden lg:block bg-slate-900 text-white shadow-inner relative">
+        {/* Tier 2: ULTRA-PREMIUM COURSE NAVIGATION BAR RIBBON */}
+        <div className="hidden lg:block bg-gradient-to-r from-slate-950 via-[#0B1528] to-slate-950 text-white border-t border-blue-500/25 border-b border-slate-800/80 shadow-md relative">
           <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8">
             <nav
-              className="flex items-center justify-between text-[13px] font-bold tracking-wide"
+              className="flex items-center justify-between h-11 text-[12.5px] font-extrabold tracking-wider uppercase"
               aria-label="Main Course Navigation"
             >
-              {/* Primary Course Items with Mega Menu Trigger */}
+              {/* Primary Course Items with Rich Mega Menu Trigger */}
               <div className="flex items-center gap-1 xl:gap-2">
                 {MEGA_MENU_DATA.map((course) => {
                   const isOpen = activeMegaMenuId === course.id;
+                  const Icon = COURSE_ICONS[course.id] || Sparkles;
                   const isCurrentRoute =
                     (course.id === "mba" && (pathname?.includes("mba") || pathname?.startsWith("/colleges"))) ||
                     (course.id === "engineering" && pathname?.includes("btech")) ||
@@ -194,7 +212,7 @@ export function Header() {
                   return (
                     <div
                       key={course.id}
-                      className="relative py-2.5"
+                      className="relative h-11 flex items-center"
                       onMouseEnter={() => handleMouseEnter(course.id)}
                       onMouseLeave={handleMouseLeave}
                     >
@@ -203,18 +221,32 @@ export function Header() {
                         onClick={() =>
                           setActiveMegaMenuId((prev) => (prev === course.id ? null : course.id))
                         }
-                        className={`px-3 py-1.5 rounded-lg flex items-center gap-1.5 transition-all outline-none cursor-pointer uppercase ${
+                        className={`h-8 px-2.5 xl:px-3 rounded-lg flex items-center gap-1.5 transition-all outline-none cursor-pointer group ${
                           isOpen || isCurrentRoute
-                            ? "bg-blue-600 text-white font-extrabold shadow-xs"
-                            : "text-slate-200 hover:text-white hover:bg-slate-800"
+                            ? "bg-blue-600 text-white font-black shadow-md shadow-blue-500/30 ring-1 ring-white/30"
+                            : "text-slate-300 hover:text-white hover:bg-white/10 hover:shadow-2xs"
                         }`}
                         aria-expanded={isOpen}
                         aria-haspopup="true"
                       >
-                        <span>{course.label}</span>
+                        <Icon
+                          className={`w-3.5 h-3.5 shrink-0 transition-colors ${
+                            isOpen || isCurrentRoute
+                              ? "text-white"
+                              : "text-slate-400 group-hover:text-blue-400"
+                          }`}
+                        />
+                        <span className="tracking-wide">{course.label}</span>
+
+                        {course.badge && !isOpen && (
+                          <span className="hidden 2xl:inline-block text-[8.5px] font-black uppercase px-1 py-0.2 rounded bg-amber-400/20 text-amber-300 border border-amber-400/30">
+                            {course.badge.split(" ")[0]}
+                          </span>
+                        )}
+
                         <ChevronDown
-                          className={`w-3.5 h-3.5 transition-transform duration-200 ${
-                            isOpen ? "-rotate-180 text-white" : "text-slate-400"
+                          className={`w-3.5 h-3.5 shrink-0 transition-transform duration-200 ${
+                            isOpen ? "-rotate-180 text-white" : "text-slate-400 group-hover:text-slate-200"
                           }`}
                         />
                       </button>
@@ -223,27 +255,27 @@ export function Header() {
                 })}
               </div>
 
-              {/* Fast Direct Secondary Links (Right aligned inside nav bar) */}
-              <div className="flex items-center gap-2 pl-4 border-l border-slate-800 text-xs">
+              {/* Fast Direct Secondary Links (Right aligned inside nav bar ribbon) */}
+              <div className="flex items-center gap-2 pl-3 border-l border-slate-700/80">
                 <Link
                   href="/mock-tests"
-                  className="px-2.5 py-1 rounded-md text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-1 transition-colors"
+                  className="h-8 px-2.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 flex items-center gap-1.5 transition-all group"
                 >
-                  <Target className="w-3.5 h-3.5 text-rose-400" />
-                  <span>Free Mock Tests</span>
-                  <span className="px-1 py-0.2 rounded text-[9px] bg-rose-500/20 text-rose-300 font-bold">
-                    CBT
+                  <Target className="w-3.5 h-3.5 text-rose-400 group-hover:scale-110 transition-transform" />
+                  <span className="text-xs font-bold capitalize tracking-normal">Free Mock Tests</span>
+                  <span className="px-1.5 py-0.2 rounded-full text-[9px] bg-rose-500/20 text-rose-300 border border-rose-500/30 font-black">
+                    CBT 50+
                   </span>
                 </Link>
 
                 <Link
                   href="/mba-application-form-discount"
-                  className="px-2.5 py-1 rounded-md text-slate-300 hover:text-white hover:bg-slate-800 flex items-center gap-1 transition-colors"
+                  className="h-8 px-2.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 flex items-center gap-1.5 transition-all group"
                 >
-                  <Percent className="w-3.5 h-3.5 text-emerald-400" />
-                  <span>Form Discounts</span>
-                  <span className="px-1 py-0.2 rounded text-[9px] bg-emerald-500/20 text-emerald-300 font-bold">
-                    Save ₹5k
+                  <Percent className="w-3.5 h-3.5 text-emerald-400 group-hover:scale-110 transition-transform" />
+                  <span className="text-xs font-bold capitalize tracking-normal">Form Discounts</span>
+                  <span className="px-1.5 py-0.2 rounded-full text-[9px] bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-black">
+                    Save ₹5k+
                   </span>
                 </Link>
               </div>
@@ -270,15 +302,18 @@ export function Header() {
       {/* 3. Mobile Navigation Full Viewport Drawer */}
       {isMobileMenuOpen && (
         <div
-          className="lg:hidden fixed inset-x-0 top-16 bottom-0 z-[999] bg-white overflow-y-auto flex flex-col justify-between shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200"
+          className="lg:hidden fixed inset-x-0 top-16 bottom-0 z-[999] bg-white dark:bg-[#0b1120] text-slate-900 dark:text-slate-100 overflow-y-auto flex flex-col justify-between shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200"
           role="dialog"
           aria-modal="true"
         >
-          <nav className="flex flex-col px-4 py-5 gap-4 text-sm font-semibold text-slate-800 text-left">
+          <nav className="flex flex-col px-4 py-5 gap-4 text-sm font-semibold text-left">
             
-            {/* Mobile Search Bar */}
-            <div className="mb-2 block">
-              <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
+            {/* Mobile Search Bar + Theme Toggle Row */}
+            <div className="flex items-center gap-2">
+              <div className="flex-1">
+                <SearchInput isMobile={true} onSearch={() => setIsMobileMenuOpen(false)} />
+              </div>
+              <ThemeToggle />
             </div>
 
             {/* High-Impact Mobile Booking Card */}
@@ -309,17 +344,18 @@ export function Header() {
 
             {/* Course Accordions (MBA, Engineering, Design, Law, Online, Abroad, Reviews) */}
             <div className="flex flex-col gap-1.5">
-              <div className="px-2 text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">
-                Explore Courses & Colleges
+              <div className="px-2 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-1">
+                Explore Courses &amp; Colleges
               </div>
 
               {MEGA_MENU_DATA.map((course) => {
                 const isExpanded = mobileExpandedId === course.id;
+                const Icon = COURSE_ICONS[course.id] || Sparkles;
 
                 return (
                   <div
                     key={course.id}
-                    className="border border-slate-200/80 rounded-2xl overflow-hidden bg-slate-50/50"
+                    className="border border-slate-200/80 dark:border-slate-800 rounded-2xl overflow-hidden bg-slate-50/50 dark:bg-slate-900/50"
                   >
                     <button
                       type="button"
@@ -327,15 +363,18 @@ export function Header() {
                         setMobileExpandedId((prev) => (prev === course.id ? null : course.id))
                       }
                       className={`w-full px-3.5 py-3 flex items-center justify-between transition-colors text-left ${
-                        isExpanded ? "bg-blue-50/80 text-blue-700 font-bold" : "text-slate-800"
+                        isExpanded
+                          ? "bg-blue-50/80 dark:bg-blue-950/50 text-blue-700 dark:text-blue-400 font-bold"
+                          : "text-slate-800 dark:text-slate-200"
                       }`}
                     >
-                      <div className="flex items-center gap-2">
+                      <div className="flex items-center gap-2.5">
+                        <Icon className="w-4 h-4 text-blue-600 dark:text-blue-400" />
                         <span className="font-bold text-sm tracking-wide">{course.label}</span>
                         {course.badge && (
                           <span
                             className={`text-[9px] font-bold px-1.5 py-0.2 rounded uppercase ${
-                              course.badgeColor || "bg-blue-100 text-blue-800"
+                              course.badgeColor || "bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200"
                             }`}
                           >
                             {course.badge}
@@ -344,28 +383,28 @@ export function Header() {
                       </div>
                       <ChevronDown
                         className={`w-4 h-4 text-slate-400 transition-transform duration-200 ${
-                          isExpanded ? "-rotate-180 text-blue-600" : ""
+                          isExpanded ? "-rotate-180 text-blue-600 dark:text-blue-400" : ""
                         }`}
                       />
                     </button>
 
                     {/* Accordion Content */}
                     {isExpanded && (
-                      <div className="p-3 bg-white border-t border-slate-100 flex flex-col gap-3">
+                      <div className="p-3 bg-white dark:bg-slate-900 border-t border-slate-100 dark:border-slate-800 flex flex-col gap-3">
                         {/* Key Category Links */}
                         <div className="flex flex-col gap-1">
-                          <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider px-1">
-                            Popular Links & Cities
+                          <span className="text-[11px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider px-1">
+                            Popular Links &amp; Cities
                           </span>
                           {course.categories[0]?.links.map((link) => (
                             <Link
                               key={link.title}
                               href={link.href}
                               onClick={() => setIsMobileMenuOpen(false)}
-                              className="px-2 py-1.5 rounded-lg hover:bg-blue-50 text-slate-700 hover:text-blue-700 text-xs flex items-center justify-between"
+                              className="px-2 py-1.5 rounded-lg hover:bg-blue-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-300 hover:text-blue-700 dark:hover:text-blue-400 text-xs flex items-center justify-between"
                             >
                               <span>{link.title}</span>
-                              <ChevronRight className="w-3 h-3 text-slate-300" />
+                              <ChevronRight className="w-3 h-3 text-slate-300 dark:text-slate-600" />
                             </Link>
                           ))}
                         </div>
@@ -374,7 +413,7 @@ export function Header() {
                         <Link
                           href={course.href}
                           onClick={() => setIsMobileMenuOpen(false)}
-                          className="w-full py-2 px-3 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs text-center flex items-center justify-center gap-1.5"
+                          className="w-full py-2 px-3 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs text-center flex items-center justify-center gap-1.5 shadow-xs"
                         >
                           <span>Explore All {course.label}</span>
                           <ArrowRight className="w-3.5 h-3.5" />
@@ -387,9 +426,9 @@ export function Header() {
             </div>
 
             {/* Quick Tools & Calculators */}
-            <div className="pt-2 border-t border-slate-100 flex flex-col gap-1">
-              <div className="px-2 text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">
-                Quick Tools & Admissions
+            <div className="pt-2 border-t border-slate-100 dark:border-slate-800 flex flex-col gap-1">
+              <div className="px-2 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-1">
+                Quick Tools &amp; Admissions
               </div>
               {[
                 { name: "CAT / Percentile Calculator", href: "/tools/cat-score-calculator", icon: Calculator },
@@ -405,9 +444,9 @@ export function Header() {
                     key={tool.href}
                     href={tool.href}
                     onClick={() => setIsMobileMenuOpen(false)}
-                    className="flex items-center gap-2.5 px-3 py-2 rounded-xl text-xs font-medium text-slate-700 hover:bg-blue-50 hover:text-blue-700 transition-colors"
+                    className="flex items-center gap-2.5 px-3 py-2 rounded-xl text-xs font-medium text-slate-700 dark:text-slate-300 hover:bg-blue-50 dark:hover:bg-slate-800 hover:text-blue-700 dark:hover:text-blue-400 transition-colors"
                   >
-                    <Icon className="w-4 h-4 text-blue-600" />
+                    <Icon className="w-4 h-4 text-blue-600 dark:text-blue-400" />
                     <span>{tool.name}</span>
                   </Link>
                 );
@@ -416,7 +455,7 @@ export function Header() {
           </nav>
 
           {/* Mobile Bottom Conversion CTA Bar */}
-          <div className="p-4 border-t border-slate-100 bg-slate-50/90 flex flex-col gap-2">
+          <div className="p-4 border-t border-slate-100 dark:border-slate-800 bg-slate-50/90 dark:bg-slate-900/90 flex flex-col gap-2">
             <a
               href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance"
               target="_blank"

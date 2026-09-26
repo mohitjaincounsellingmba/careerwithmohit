@@ -2,13 +2,28 @@
 
 :root {
   --background: #FFFFFF; /* Pure White */
-  --foreground: #111827; /* Gray 900 */
-  --primary: #3B82F6; /* Blue 500 */
-  --secondary: #10B981; /* Emerald 500 */
-  --accent: #F59E0B; /* Amber 500 */
-  --muted: #F3F4F6; /* Gray 100 */
-  --border: #E5E7EB; /* Gray 200 */
-  --primary-brand: #F47062; /* Coral red brand color from KollegeApply */
+  --foreground: #0f172a; /* Gray 900 */
+  --primary: #2563eb; /* Blue 600 */
+  --secondary: #10b981; /* Emerald 500 */
+  --accent: #f59e0b; /* Amber 500 */
+  --muted: #f8fafc; /* Gray 50 */
+  --border: #e2e8f0; /* Gray 200 */
+  --card-bg: #ffffff;
+  --header-bg: #ffffff;
+  --primary-brand: #f47062;
+}
+
+html.dark {
+  --background: #090e17; /* Deep Obsidian Slate */
+  --foreground: #f8fafc; /* Slate 50 */
+  --primary: #3b82f6; /* Blue 500 */
+  --secondary: #10b981; /* Emerald 500 */
+  --accent: #fbbf24; /* Amber 400 */
+  --muted: #0f172a; /* Slate 900 */
+  --border: #1e293b; /* Slate 800 */
+  --card-bg: #0f172a;
+  --header-bg: #0b1120;
+  --primary-brand: #f87171;
 }
 
 @theme inline {
@@ -29,6 +44,11 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   touch-action: manipulation;
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
 }
 
 button, a, input, select, textarea {
@@ -39,13 +59,78 @@ body {
   background-color: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-body);
-  /* Pure flat background - NO gradients */
-  background-image: none;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-/* Base typography for markdown content - Flat Design */
+/* Dark Mode Global Overrides */
+.dark body {
+  background-color: #090e17;
+  color: #f8fafc;
+}
+
+.dark header {
+  background-color: #0b1120 !important;
+  border-color: #1e293b !important;
+}
+
+.dark .bg-white {
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.dark .bg-slate-50 {
+  background-color: #0b1120;
+}
+
+.dark .bg-slate-100 {
+  background-color: #1e293b;
+  color: #f1f5f9;
+}
+
+.dark .border-slate-100,
+.dark .border-slate-200,
+.dark .border-slate-200\/80,
+.dark .border-slate-200\/90 {
+  border-color: #1e293b;
+}
+
+.dark .text-slate-900,
+.dark .text-slate-800 {
+  color: #f8fafc;
+}
+
+.dark .text-slate-700 {
+  color: #cbd5e1;
+}
+
+.dark .text-slate-600,
+.dark .text-slate-500 {
+  color: #94a3b8;
+}
+
+.dark .hover\:bg-slate-50:hover {
+  background-color: #1e293b;
+}
+
+.dark .hover\:bg-slate-100:hover {
+  background-color: #334155;
+}
+
+.dark .shadow-xs,
+.dark .shadow-sm,
+.dark .shadow-md,
+.dark .shadow-lg,
+.dark .shadow-xl,
+.dark .shadow-2xl {
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+}
+
+/* Base typography for markdown content */
 .prose {
   @apply max-w-none text-lg text-foreground bg-white p-6 md:p-12;
+}
+.dark .prose {
+  @apply bg-slate-900 text-slate-100;
 }
 .prose h1, .prose h2, .prose h3, .prose h4 {
   @apply font-display font-bold tracking-tight text-foreground;
@@ -62,15 +147,12 @@ body {
 .prose p {
   @apply mb-6 leading-relaxed;
 }
-.prose blockquote:not(.ai-summary-card):not(.blog-quote) {
-  @apply border-l-8 border-primary pl-6 py-4 my-10 text-2xl font-display font-bold text-foreground bg-muted;
-}
 
-/* Direct AI Answer Summary Card (GEO Rule 1) - Guaranteed high-contrast Dark & Amber styling */
+/* Direct AI Answer Summary Card (GEO Rule 1) */
 .prose blockquote.ai-summary-card {
-  background-color: #0f172a !important; /* Deep Slate 900 */
-  color: #f8fafc !important; /* Slate 50 */
-  border: 4px solid #f59e0b !important; /* Amber 500 */
+  background-color: #0f172a !important;
+  color: #f8fafc !important;
+  border: 4px solid #f59e0b !important;
   border-radius: 1rem !important;
   padding: 1.75rem !important;
   margin: 2.5rem 0 !important;
@@ -101,7 +183,7 @@ body {
 .prose blockquote.ai-summary-card ul li {
   position: relative !important;
   padding-left: 1.75rem !important;
-  color: #f1f5f9 !important; /* Crisp off-white text, 100% visible */
+  color: #f1f5f9 !important;
   font-size: 1.05rem !important;
   line-height: 1.65 !important;
   font-weight: 500 !important;
@@ -117,7 +199,7 @@ body {
 }
 
 .prose blockquote.ai-summary-card strong {
-  color: #fde047 !important; /* High-contrast golden yellow */
+  color: #fde047 !important;
   background-color: transparent !important;
   font-weight: 800 !important;
   padding: 0 !important;
@@ -129,61 +211,13 @@ body {
   background-color: transparent !important;
 }
 
-/* Regular Blog Quotes */
-.prose blockquote.blog-quote {
-  background-color: #eff6ff !important; /* blue-50 */
-  border-left: 12px solid #3B82F6 !important;
-  border-top: none !important;
-  border-right: none !important;
-  border-bottom: none !important;
-  color: #1d4ed8 !important;
-  border-radius: 0 0.75rem 0.75rem 0 !important;
-  padding: 2rem !important;
-  margin: 3rem 0 !important;
-}
-
-.prose blockquote.blog-quote p {
-  color: #1d4ed8 !important;
-  margin-bottom: 0 !important;
-}
-.prose a {
-  @apply font-bold text-primary hover:text-white hover:bg-primary transition-colors p-1 -m-1 inline-block;
-}
-.prose ul, .prose ol {
-  @apply pl-6 mb-8 space-y-3;
-}
-.prose ul {
-  @apply list-none;
-}
-.prose ul li {
-  @apply relative pl-6;
-}
-.prose ul li::before {
-  content: "■";
-  @apply text-accent absolute left-0 text-sm top-1.5;
-}
-.prose ol {
-  @apply list-decimal font-bold text-foreground;
-}
-.prose li {
-  @apply pl-2 font-normal;
-}
-.prose strong {
-  @apply font-extrabold text-foreground;
-}
-
-/* Flat design utilities */
-* {
-  @apply shadow-none;
-}
-
 /* Custom scrollbar and no-scrollbar utilities */
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
 .no-scrollbar {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 .custom-scrollbar::-webkit-scrollbar {
@@ -201,13 +235,20 @@ body {
   background: #94a3b8;
 }
 
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
 /* Performance: defer off-screen rendering of heavy sections */
 .content-auto {
   content-visibility: auto;
   contain-intrinsic-size: 1px 500px;
 }
 
-/* GPU hardware acceleration for background glow effects to prevent mobile paint jank */
+/* GPU hardware acceleration for background glow effects */
 .blur-glow {
   transform: translateZ(0);
   backface-visibility: hidden;
