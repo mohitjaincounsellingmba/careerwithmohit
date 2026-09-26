@@ -623,59 +623,15 @@ function CompareModal({
 }
 
 function getReviewSlug(name: string): string | null {
-  const n = name.toLowerCase();
-  if (n.includes('new delhi institute of management') || n.includes('ndim')) return 'ndim-delhi-review-2026';
-  if (n.includes('fostiima')) return 'fostiima-business-school-review-2026';
-  if (n.includes('fortune institute of international business') || n.includes('fiib')) return 'fiib-delhi-review-2027';
-  if (n.includes('lodhi road') || (n.includes('iilm') && n.includes('lodhi'))) return 'all-about-iilm-lodhi-road-delhi';
-  if (n.includes('jims kalkaji')) return 'jims-kalkaji-review-2026';
-  if (n.includes('management education & research institute') || n.includes('meri')) return 'all-about-meri-delhi';
-  if (n.includes('delhi school of business')) return 'all-about-dsb-delhi';
-  if (n.includes('empi')) return 'all-about-empi-delhi';
-  if (n.includes('institute of marketing & management') || n.includes('imm')) return 'all-about-imm-delhi';
-  if (n.includes('apeejay') || n.includes('asm apeejay')) return 'all-about-asm-apeejay-delhi';
-  if (n.includes('jaipuria school of business') || (n.includes('jaipuria') && n.includes('ghaziabad'))) return 'all-about-jaipuria-school-of-business-ghaziabad';
-  if (n.includes('its ghaziabad') || n.includes('i.t.s')) return 'all-about-its-ghaziabad';
-  if (n.includes('jaipuria noida') || (n.includes('jaipuria') && n.includes('noida'))) return 'jaipuria-noida-review-2027';
-  if (n.includes('hierank')) return 'all-about-hierank-noida';
-  if (n.includes('gniot')) return 'all-about-gniot-greater-noida';
-  if (n.includes('gl bajaj') || n.includes('g.l. bajaj')) return 'all-about-gl-bajaj-greater-noida';
-  if (n.includes('accurate')) return 'all-about-accurate-greater-noida';
-  if (n.includes('niet')) return 'all-about-niet-greater-noida';
-  if (n.includes('i business institute') || n.includes('ibi')) return 'all-about-ibi-greater-noida';
-  if (n.includes('lloyd')) return 'all-about-lloyd-business-school-greater-noida';
-  if (n.includes('iilm greater noida')) return 'all-about-iilm-greater-noida';
-  if (n.includes('bennett')) return 'all-about-bennett-university';
-  if (n.includes('mangalmay')) return 'all-about-mangalmay-greater-noida';
-  if (n.includes('sparsh')) return 'all-about-sparsh-global-greater-noida';
-  if (n.includes('jk business') || n.includes('jkbs')) return 'all-about-jk-business-school-gurugram';
-  if (n.includes('ibmr')) return 'all-about-ibmr-gurgaon';
-  if (n.includes('isbs') || n.includes('isb&m')) return 'all-about-isbs-gurgaon';
-  if (n.includes('bml munjal') || n.includes('bmu')) return 'all-about-bml-munjal-university';
-  if (n.includes('soil')) return 'all-about-soil-gurgaon';
-  if (n.includes('iilm gurugram') || n.includes('iilm gurgaon') || n.includes('iilm university')) return 'all-about-iilm-gurgaon';
-  if (n.includes('st. andrews') || n.includes('saitm') || n.includes('st. andrew')) return 'all-about-st-andrews-gurgaon';
-  if (n.includes('pibm') || n.includes('pune institute of business')) return 'all-about-pibm-pune';
-  if (n.includes('lexicon') || n.includes('mile')) return 'all-about-lexicon-management-institute-of-leadership-excellence';
-  if (n.includes('riim')) return 'all-about-riim-pune';
-  if (n.includes('asm institute') || n.includes('asm ibmr')) return 'all-about-asm-ibmr';
-  if (n.includes('d.y. patil') || n.includes('dy patil')) return 'all-about-dy-patil-b-school';
-  if (n.includes('iiebm') || n.includes('indus')) return 'all-about-iiebm-pune';
-  if (n.includes('akemi')) return 'all-about-akemi-business-school';
-  if (n.includes('isms')) return 'all-about-isms-pune';
-  if (n.includes('atlas')) return 'all-about-atlas-skilltech-mumbai';
-  if (n.includes('ubs') || n.includes('universal')) return 'all-about-universal-ai-mumbai';
-  if (n.includes('itm')) return 'all-about-itm-mumbai';
-  if (n.includes('kothari')) return 'all-about-js-kothari-mumbai';
-  if (n.includes('amity mumbai')) return 'all-about-amity-mumbai';
-  if (n.includes('jagsom mumbai') || (n.includes('jagsom') && n.includes('karjat'))) return 'all-about-jagsom-mumbai';
-  if (n.includes('isbr')) return 'all-about-isbr-bangalore';
-  if (n.includes('iibs')) return 'all-about-iibs-bangalore';
-  if (n.includes('gibs')) return 'all-about-gibs-bangalore';
-  if (n.includes('alliance')) return 'all-about-alliance-university-bangalore';
-  if (n.includes('isme')) return 'all-about-isme-bangalore';
-  if (n.includes('indus business academy') || n.includes('iba bangalore')) return 'all-about-indus-business-academy';
-  if (n.includes('jagsom bangalore') || (n.includes('jagsom') && n.includes('electronic city'))) return 'all-about-jagsom-bangalore';
+  const c = MBA_PGDM_COLLEGES_2027.find(
+    (col) =>
+      col.name.toLowerCase() === name.toLowerCase() ||
+      name.toLowerCase().includes(col.name.toLowerCase()) ||
+      col.name.toLowerCase().includes(name.toLowerCase())
+  );
+  if (c) {
+    return `${c.universitySlug}-mba-pgdm-review-2027-fees-placements-cutoff`;
+  }
   return null;
 }
 
