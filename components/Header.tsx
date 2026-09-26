@@ -462,7 +462,7 @@ export function Header() {
               </div>
             </div>
 
-            {/* Articles / Blog */}
+            {/* Colleges Reviews / Blog */}
             <Link
               href="/blog"
               prefetch={false}
@@ -470,7 +470,7 @@ export function Header() {
                 pathname?.startsWith('/blog') ? 'text-blue-600 font-bold' : 'hover:text-blue-600 text-slate-700'
               }`}
             >
-              <span>Articles</span>
+              <span>Colleges Reviews</span>
             </Link>
           </nav>
 
@@ -575,7 +575,7 @@ export function Header() {
                 { name: 'UGC Online Degrees Hub', href: '/online-degree-certification', badge: '40+ Univs', icon: Laptop },
                 { name: 'CAT / Score Calculators', href: '/tools/cat-score-calculator', badge: 'AI Tool', icon: Calculator },
                 { name: 'Student Community', href: '/community', badge: 'Free', icon: Sparkles },
-                { name: 'Articles & Guides', href: '/blog', badge: null, icon: BookOpen },
+                { name: 'Colleges Reviews', href: '/blog', badge: null, icon: BookOpen },
               ].map((item) => {
                 const Icon = item.icon;
                 const isActive = pathname === item.href;
