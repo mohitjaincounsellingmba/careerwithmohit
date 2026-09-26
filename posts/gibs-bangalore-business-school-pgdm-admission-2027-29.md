@@ -95,7 +95,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Global Institute of Business Studies (GIBS Business School)** (GIBS Bangalore) |
+| **Institution Name** | **Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore))** (GIBS Bangalore) |
 | **Campus Location** | Bannerghatta Road, Bangalore, Karnataka |
 | **Program Offered** | **PGDM (AICTE Approved) & BBA/MBA programs** |
 | **Degree / Diploma Type** | **PGDM** |

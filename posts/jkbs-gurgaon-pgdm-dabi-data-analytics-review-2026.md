@@ -1,7 +1,7 @@
 ---
 title: 'JKBS Gurgaon PGDM DABI Review 2026: Fees, Placements & Business Analytics USPs'
 date: '2026-06-15'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   An in-depth, honest review of the PGDM in Data Analytics and Business
   Intelligence (DABI) program at JK Business School (JKBS) Gurgaon for the

@@ -73,7 +73,7 @@ Whether you are targeting the high-prestige [IIM Lucknow](/colleges/iim-lucknow)
 
 ## 🏛️ The Lucknow Powerhouses
 
-### 1. IIM Lucknow (IPM Ecosystem)
+### 1. [IIM Lucknow](/colleges/iim-lucknow) (IPM Ecosystem)
 IIM Lucknow is one of the top 4 IIMs in India. While they don't have a traditional 3-year BBA, they have launched specialized **Integrated Programmes** and Executive foundations that are highly sought after by toppers.
 - **Top Choice:** For students who want an elite Ivy-league equivalent brand name.
 - **Selection:** High competition via **IPMAT (Indore)** scores.

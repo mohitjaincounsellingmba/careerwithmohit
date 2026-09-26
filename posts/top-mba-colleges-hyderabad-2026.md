@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges in Hyderabad 2026 — Fees, Placements & ROI'
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
   Colleges in Hyderabad 2026 — Fees, Placements & ROI. Check updated fees,

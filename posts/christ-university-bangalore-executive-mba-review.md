@@ -19,7 +19,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: What is the schedule of classes for the Christ Executive MBA?
     answer: >-

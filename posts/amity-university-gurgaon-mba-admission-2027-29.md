@@ -95,7 +95,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Amity University Gurugram (Manesar)** (Amity Gurgaon) |
+| **Institution Name** | **[Amity University](/colleges/amity-noida) Gurugram (Manesar)** (Amity Gurgaon) |
 | **Campus Location** | Amity Education Valley, Manesar, Gurugram |
 | **Program Offered** | **2-Year Full-Time MBA (General, Banking & Finance, Business Analytics, HR)** |
 | **Degree / Diploma Type** | **MBA** |

@@ -50,12 +50,12 @@ faqs:
       ICR, MS, DA).
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for How to Check MAT May 2026 PBT Score – Scorecar...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across multiple test centres in India. If you appeared for the PBT mode, you are now eagerly waiting for your official scorecard. This guide covers everything — the result date, how to check and download your PBT scorecard, and how to make sense of your score.

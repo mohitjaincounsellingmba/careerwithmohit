@@ -36,14 +36,14 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-category: Career Advisory
+category: Jobs & Careers
 location: Delhi NCR
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Waiting for Bihar Board BSEB Class 12 Inter Result 2026? Get the latest expected date and time, official list ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Bihar School Examination Board (BSEB) has concluded the evaluation of answer sheets, and the wait for over 13 lakh students is about to end. As one of the fastest boards in India to declare results, BSEB is set to release the Class 12 (Intermediate) results for Arts, Science, and Commerce streams very soon.
 

@@ -3,7 +3,7 @@ title: >-
   CAT Answer Key & Response Sheet Analysis: Download Link, Score Calculator &
   Objection Guide
 date: '2026-08-14'
-category: MBA
+category: Exams
 description: >-
   Complete guide to CAT Answer Key & Candidate Response Sheet analysis. Learn
   how to calculate raw score, raise official objections, predict percentile, and

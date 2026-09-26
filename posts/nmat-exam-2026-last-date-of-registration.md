@@ -111,7 +111,7 @@ GMAC charges fixed fees for testing, retakes, and rescheduling. All payments are
 * **Graduation Degree:** Minimum 3-year bachelor’s degree in any discipline from a recognized university.
 * **Minimum Aggregate Marks:** At least **50% aggregate marks** in graduation (or equivalent CGPA).
 * **Final Year Candidates:** Final-year undergraduate students are eligible to apply, provided they submit proof of passing with 50%+ marks at the time of final admission.
-* **NMIMS Specific Criteria:** For NMIMS Mumbai Flagship MBA (Core / HR), 50% in graduation with mathematics/statistics at 10+2 or graduation level is preferred.
+* **NMIMS Specific Criteria:** For [NMIMS Mumbai](/colleges/nmims-mumbai) Flagship MBA (Core / HR), 50% in graduation with mathematics/statistics at 10+2 or graduation level is preferred.
 
 ---
 

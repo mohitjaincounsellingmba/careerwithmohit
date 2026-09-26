@@ -314,7 +314,7 @@ Located on the Noida Expressway, **[ABS Noida](/colleges/asian-business-school-n
 
 ---
 
-### 15. [GNIOT Institute of Management Studies (GIMS), Greater Noida](/colleges/gniot-greater-noida)
+### 15. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS), Greater Noida](/colleges/gniot-greater-noida)
 **[GNIOT GIMS](/colleges/gniot-greater-noida)** in Knowledge Park II provides a modern tech-driven PGDM program featuring practical industry bootcamps.
 
 *   **Total Program Fee (2 Years):** ₹6.90 Lakhs
@@ -389,7 +389,7 @@ Yes, PGDM programs offered by AICTE-approved institutions that hold AIU (Associa
 Yes, institutions like NDIM, [Jaipuria Noida](/colleges/jaipuria-noida), FIIB, FOSTIIMA, and JIMS actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85 percentile in MAT is treated on par with a 70-75 percentile in CAT for GD-PI shortlisting.
 
 ### What is the total fee range for top 70-80 percentile PGDM B-schools in Delhi NCR?
-The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium tier like Jaipuria Noida and NDIM New Delhi).
+The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium tier like [Jaipuria Noida](/colleges/jaipuria-noida) and NDIM New Delhi).
 
 ---
 

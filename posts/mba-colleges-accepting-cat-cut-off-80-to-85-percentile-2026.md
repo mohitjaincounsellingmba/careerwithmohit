@@ -223,7 +223,7 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
 ### Best for Business Analytics, AI & Digital Transformation
 1. **Great Lakes (Chennai):** Integrated analytical labs, predictive analytics modeling, and high tech consulting hiring.
 2. **Goa Institute of Management (GIM BDA):** Specialized big-data architecture program boasting independent placement drives with Fortune 500 tech firms.
-3. **BITS Pilani (MBA in Business Analytics):** Blends world-renowned engineering faculty with advanced enterprise decision science.
+3. **[BITS Pilani](/colleges/bits-pilani) (MBA in Business Analytics):** Blends world-renowned engineering faculty with advanced enterprise decision science.
 
 ---
 
@@ -263,7 +263,7 @@ DoMS IIT ISM Dhanbad offers the lowest fees in this tier, charging approximately
 ### Is an 80 percentile in CAT enough for non-engineers to get into top B-schools?
 Yes. Many institutes like TAPMI, FORE, LBSIM, and GIM provide 3% to 5% academic diversity weightage to non-engineers (graduates from Commerce, Humanities, Science, and Law). A non-engineer with an 81–83 percentile and consistent 80%+ marks in Class 10 and 12 stands a very strong chance of converting their interview call.
 
-### How does FORE School of Management compare with TAPMI Manipal?
+### How does [FORE School of Management](/colleges/fore-school-delhi) compare with TAPMI Manipal?
 Both are prestigious institutions with similar CAT cutoffs (82–85 percentile). FORE School of Management holds a distinct advantage in consulting, corporate proximity, and Delhi-NCR industry engagement, with an average CTC of ~₹16.01 LPA. TAPMI Manipal offers global AACSB & AMBA accreditations, an immersive residential campus culture, and industry-leading specialized programs in Banking & Finance (BKFS) and HRM.
 
 ### Can I get an IIM call with an 80 to 85 percentile in CAT?

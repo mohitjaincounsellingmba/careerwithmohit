@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Bangalore 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA Business Analytics colleges in Bangalore? Discover 2026
   fees, packages, and cutoffs for IIM Bangalore, Christ University, and

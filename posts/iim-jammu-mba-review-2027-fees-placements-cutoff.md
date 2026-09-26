@@ -1,28 +1,42 @@
 ---
 title: 'IIM Jammu MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Jammu (Jammu, J&K). Check audited fees (₹17.20 Lakhs (Total)), average placement (₹16.43 LPA), entrance cutoffs (88.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Jammu (Jammu, J&K). Check audited fees
+  (₹17.20 Lakhs (Total)), average placement (₹16.43 LPA), entrance cutoffs
+  (88.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim jammu mba admission 2027'
-  - 'iim jammu fees structure 2027'
-  - 'iim jammu average placement package'
-  - 'iim jammu cutoff 2026 2027'
-  - 'iim-jammu review 2027'
-  - 'top mba colleges in jammu'
-  - 'best mba colleges in j&k'
-  - 'direct admission in iim jammu'
+  - iim jammu mba admission 2027
+  - iim jammu fees structure 2027
+  - iim jammu average placement package
+  - iim jammu cutoff 2026 2027
+  - iim-jammu review 2027
+  - top mba colleges in jammu
+  - best mba colleges in j&k
+  - direct admission in iim jammu
 faqs:
-  - question: 'What is the average placement package at IIM Jammu in 2026-2027?'
-    answer: 'The verified average placement package at IIM Jammu stands at ₹16.43 LPA, with the median package benchmark at ₹15.25 LPA and highest domestic offers reaching ₹64.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Jammu?'
-    answer: 'IIM Jammu accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Jammu?'
-    answer: 'The total course tuition fee is approximately ₹17.20 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Jammu?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 88.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Jammu'
-state: 'J&K'
+  - question: What is the average placement package at IIM Jammu in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Jammu stands at ₹16.43 LPA,
+      with the median package benchmark at ₹15.25 LPA and highest domestic
+      offers reaching ₹64.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Jammu?
+    answer: >-
+      IIM Jammu accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Jammu?
+    answer: >-
+      The total course tuition fee is approximately ₹17.20 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Jammu?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 88.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Jammu
+state: J&K
 ---
 
 # [IIM Jammu](/colleges/iim-jammu/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Jammu](/colleges/iim-jammu/)** reflect continuous corporate
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Jammu** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Jammu](/colleges/iim-jammu)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

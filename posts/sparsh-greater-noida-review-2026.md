@@ -129,7 +129,7 @@ Admission to **[Sparsh Global Business School (SGBS)](/colleges/sparsh-global-gr
 
 ---
 
-## 5. Why Choose Sparsh Global Business School (SGBS)? (Pros & Cons)
+## 5. Why Choose [Sparsh Global Business School (SGBS)](/colleges/sparsh-global-greater-noida)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Greater Noida and across major commercial hubs in India.

@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Delhi NCR 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for the best MBA Business Analytics colleges in Delhi NCR? Read our
   2026 guide comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes,

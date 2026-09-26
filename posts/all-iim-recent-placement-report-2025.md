@@ -147,11 +147,11 @@ The top tier of Indian management education demonstrated immense placement power
    - **Highest International Package**: **₹1.45 Crore per annum**
    - **Key Highlights**: Retained its undisputed reputation as the **Finance Capital of Indian B-Schools**. Over 32% of offers came from bulge-bracket investment banks, private equity, and hedge funds including Avendus Capital, Barclays, Citi, Goldman Sachs, and JP Morgan Chase.
 4. **[IIM Lucknow](/colleges/iim-lucknow) & IIM Mumbai**:
-   - **IIM Lucknow** averaged **₹32.30 LPA**, with top 25% students averaging **₹44+ LPA**.
+   - **[IIM Lucknow](/colleges/iim-lucknow)** averaged **₹32.30 LPA**, with top 25% students averaging **₹44+ LPA**.
    - **IIM Mumbai (NITIE)** achieved an average of **₹34.50 LPA** for its top 50% students and ₹31.00 LPA overall, solidifying its spot as the #1 destination for Supply Chain, Industrial Management, and Technology leadership.
 5. **[IIM Indore](/colleges/iim-indore) & IIM Kozhikode**:
    - **IIM Kozhikode** reached **₹28.18 LPA** with a highest package of ₹81.00 LPA, supported by leading FMCG and consulting recruiters.
-   - **IIM Indore** averaged **₹29.75 LPA**, with 150+ recruiters extending offers across BFSI, IT, and Brand Management.
+   - **[IIM Indore](/colleges/iim-indore)** averaged **₹29.75 LPA**, with 150+ recruiters extending offers across BFSI, IT, and Brand Management.
 
 ---
 
@@ -162,7 +162,7 @@ Established between 2007 and 2011, New IIMs have achieved campus maturity and de
 *   **IIM Shillong**: The clear outlier among second-generation IIMs, recording an outstanding average package of **₹27.03 LPA** and a highest package of **₹71.50 LPA**. Its strategic location and international partnerships have driven immense recruiter preference.
 *   **[IIM Rohtak](/colleges/iim-rohtak)**: Recorded an average of **₹20.03 LPA** with a 100% placement record across its 400+ student cohort.
 *   **[IIM Ranchi](/colleges/iim-ranchi) & IIM Trichy**: Recorded solid average CTCs of **₹19.29 LPA** and **₹19.27 LPA** respectively, with heavy recruitment from ICICI Bank, KPMG, Deloitte, HSBC, and Wells Fargo.
-*   **[IIM Raipur](/colleges/iim-raipur) & IIM Udaipur**: Maintained steady averages of **₹18.80 LPA** and **₹17.58 LPA**, with Udaipur being praised for its strictly audited transparent IPRS placement reports.
+*   **[IIM Raipur](/colleges/iim-raipur) & [IIM Udaipur](/colleges/iim-udaipur)**: Maintained steady averages of **₹18.80 LPA** and **₹17.58 LPA**, with Udaipur being praised for its strictly audited transparent IPRS placement reports.
 
 ---
 
@@ -227,7 +227,7 @@ When selecting an IIM, comparing the total 2-year investment against the post-MB
 ## 5. What This Means for CAT Aspirants
 
 1. **Brand Resilience**: Even during economic slowdowns, IIM average packages did not drop drastically, demonstrating strong recruiter retention.
-2. **Growth in Baby IIMs**: Campuses like **IIM Amritsar** and **IIM Nagpur** are now directly competing with and outperforming several older tier-2 private B-schools in both salary averages and recruiter diversity.
+2. **Growth in Baby IIMs**: Campuses like **[IIM Amritsar](/colleges/iim-amritsar)** and **[IIM Nagpur](/colleges/iim-nagpur)** are now directly competing with and outperforming several older tier-2 private B-schools in both salary averages and recruiter diversity.
 3. **Specialization Demand**: Operations, Analytics, and FinTech domains saw increased hiring, giving candidates with technical or domain-specific backgrounds a distinct edge.
 4. **Targeting the Right CAT Percentile**: Aspirants should target **99+ percentile** for Old IIMs, **95-98 percentile** for New IIMs, and **91-95 percentile** for Baby IIMs to maximize their conversion chances.
 

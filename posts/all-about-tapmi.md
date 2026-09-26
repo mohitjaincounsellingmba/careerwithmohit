@@ -1,7 +1,7 @@
 ---
 title: 'TAPMI Manipal: Programs, Fees, Cutoffs, and Placements (2026-2027)'
 date: '2026-03-13'
-category: MBA
+category: Exams
 description: >-
   A complete guide to T.A. Pai Management Institute (TAPMI), Manipal. Explore
   their PGDM/MBA programs, fee structure, cut-offs, top recruiters, and verified

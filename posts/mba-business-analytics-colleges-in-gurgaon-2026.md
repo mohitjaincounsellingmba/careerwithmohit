@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Gurgaon 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Compare the best MBA Business Analytics colleges in Gurgaon. Explore fees,
   placements, and eligibility details for MDI Gurgaon, Great Lakes, SOIL, and

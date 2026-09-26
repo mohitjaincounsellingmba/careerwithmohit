@@ -1,7 +1,7 @@
 ---
 title: Stock Market for Beginners 2026 — How to Start Investing Safely
 date: '2026-04-21'
-category: Career Advisory
+category: Jobs & Careers
 description: >-
   New to the stock market? Learn how to start investing in 2026. Discover Demat
   accounts, basic stock picking tips, Mutual Funds vs Direct Stocks, and how to
@@ -43,7 +43,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: New to the stock market? Learn how to start investing in 2026. Discover Demat accounts, basic stock picking ti...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The Indian stock market has seen a record-breaking surge in retail participation. In 2026, with inflation-beating returns being a necessity, entering the equity market is no longer a choice—it is a mandatory life skill. However, for a student or a young professional, the "noise" of social media can make the stock market look like a casino. 

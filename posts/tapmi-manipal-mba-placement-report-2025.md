@@ -30,7 +30,7 @@ faqs:
     answer: >-
       TAPMI accepts CAT, XAT, GMAT, and NMAT scores for its various MBA
       specialist programs.
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

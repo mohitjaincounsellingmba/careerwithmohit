@@ -80,7 +80,7 @@ IPMAT VA is not just about grammar; it's about reading comprehension and logical
 *   **Strategy:** Read high-quality editorials (The Hindu, Aeon Essays) daily. 
 *   **Pro Tip:** Focus on Para Jumbles and Sentence Completion as they are high-scoring areas if your vocabulary is strong.
 
-### 3. Logical Reasoning (LR) - Specifically for IIM Rohtak & JIPMAT
+### 3. Logical Reasoning (LR) - Specifically for [IIM Rohtak](/colleges/iim-rohtak) & JIPMAT
 Unlike Indore, Rohtak and JIPMAT have dedicated LR sections.
 *   **Strategy:** Practice puzzles, coding-decoding, and family trees daily.
 *   **Pro Tip:** Speed is the determining factor here. Aim to solve 30 questions in 25 minutes.
@@ -111,7 +111,7 @@ Unlike Indore, Rohtak and JIPMAT have dedicated LR sections.
 ---
 
 ## 📞 Get Expert IPMAT Mentorship
-Confused between **IIM Indore vs Rohtak**? Or struggling with **higher math**? Our mentors are IIM graduates who have walked this path and can guide you to success.
+Confused between **[IIM Indore](/colleges/iim-indore) vs Rohtak**? Or struggling with **higher math**? Our mentors are IIM graduates who have walked this path and can guide you to success.
 
 [👉 Book a Free IPMAT Strategy Call](/inquiry) | [💬 WhatsApp our Expert](https://wa.me/919560020771)
 

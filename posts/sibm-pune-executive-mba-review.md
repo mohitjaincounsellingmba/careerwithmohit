@@ -21,7 +21,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Do executive students get campus hostel facilities?
     answer: >-

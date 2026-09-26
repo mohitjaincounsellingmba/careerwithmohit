@@ -43,7 +43,7 @@ faqs:
     answer: 'PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lakhs.'
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

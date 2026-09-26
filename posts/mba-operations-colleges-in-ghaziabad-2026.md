@@ -1,7 +1,7 @@
 ---
 title: Top MBA Operations Colleges in Ghaziabad 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Check out the top MBA Operations colleges in Ghaziabad. Read details on IMT
   Ghaziabad, ITS Mohan Nagar, and Jaipuria School of Business fees & placements

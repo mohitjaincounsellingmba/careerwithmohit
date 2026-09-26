@@ -225,7 +225,7 @@ graph TD
 The verified total course fee for the 2-year MBA program is **₹10.25 Lakhs (Total)** (**₹5.12 Lakhs per Year**).
 
 ### Q2. Is Amity Mumbai approved by AICTE/UGC?
-Yes, Amity University Mumbai is UGC Approved · WES Approved · NAAC Accredited.
+Yes, [Amity University Mumbai](/colleges/amity-mumbai) is UGC Approved · WES Approved · NAAC Accredited.
 
 ### Q3. What is the average and highest placement package at Amity Mumbai?
 The average CTC stands at **₹7.00 LPA** (with top 25% averaging **₹9.50 LPA**), while the highest package has reached **₹15.00 LPA**.

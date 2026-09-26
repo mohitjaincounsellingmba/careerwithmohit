@@ -96,7 +96,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Jaipuria School of Business (JSB)** (Jaipuria Ghaziabad) |
+| **Institution Name** | **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB)** (Jaipuria Ghaziabad) |
 | **Campus Location** | Indirapuram, Ghaziabad |
 | **Program Offered** | **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics, Operations)** |
 | **Degree / Diploma Type** | **PGDM** |

@@ -3,7 +3,7 @@ title: >-
   Top 9 Budget MBA/PGDM Colleges in Pune 2026 — Fees, Placements & Honest
   Comparison
 date: '2026-05-04'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top 9 Budget
   MBA/PGDM Colleges in Pune 2026 — Fees, Placements & Honest Comparison. Check

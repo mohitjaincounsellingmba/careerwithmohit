@@ -106,7 +106,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[KIIT School of Managemen
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **KIIT School of Management (KSOM)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (KIITEE Management / CAT / XAT / MAT / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

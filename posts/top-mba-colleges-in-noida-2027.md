@@ -88,7 +88,7 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
          ▼                                                         ▼
 [Institutional Hub: Sector 62]                           [Expressway Hub: Sector 125/126]
 - [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)                       - Amity Business School
-- IMS Noida                                              - Asian Business School (ABS)
+- IMS Noida                                              - [Asian Business School (ABS)](/colleges/asian-business-school-noida)
 - [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)                        - Marwah Studios / Media B-Schools
 ```
 

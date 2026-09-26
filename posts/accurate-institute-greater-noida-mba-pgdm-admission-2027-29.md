@@ -100,7 +100,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Accurate Institute of Management & Technology (AIMT)** (Accurate Greater Noida) |
+| **Institution Name** | **[Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology (AIMT)** (Accurate Greater Noida) |
 | **Campus Location** | Knowledge Park III, Greater Noida |
 | **Program Offered** | **PGDM (AICTE Approved) & MBA (AKTU Affiliated)** |
 | **Degree / Diploma Type** | **MBA / PGDM** |

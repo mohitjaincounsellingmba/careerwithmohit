@@ -50,7 +50,7 @@ The IPM program is designed for high-potential students who want to build a stro
 - **Dual Degree:** After 5 years, students receive a BA (Foundations of Management) and an MBA.
 
 ## 💰 Latest Fee Structure (2026)
-The fee structure at IIM Indore for the IPM program is divided into two phases:
+The fee structure at [IIM Indore](/colleges/iim-indore) for the IPM program is divided into two phases:
 - **First 3 Years (UG Phase):** Approximately ₹5,50,000 to ₹6,00,000 per year.
 - **Final 2 Years (PG Phase):** At par with the prevailing PGP (MBA) fees, currently around ₹10,00,000 to ₹12,00,000 per year.
 - **Total Investment:** Approx. ₹38 – 42 Lakhs (inclusive of residential charges).

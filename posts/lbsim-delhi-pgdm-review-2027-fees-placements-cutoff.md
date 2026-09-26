@@ -1,28 +1,48 @@
 ---
 title: 'LBSIM Delhi MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for LBSIM Delhi (Dwarka, New Delhi, Delhi NCR). Check audited fees (₹15.50 Lakhs (Total)), average placement (₹12.40 LPA), entrance cutoffs (80.0+ XAT / CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for LBSIM Delhi (Dwarka, New Delhi, Delhi NCR). Check
+  audited fees (₹15.50 Lakhs (Total)), average placement (₹12.40 LPA), entrance
+  cutoffs (80.0+ XAT / CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'lbsim delhi mba admission 2027'
-  - 'lbsim delhi fees structure 2027'
-  - 'lbsim delhi average placement package'
-  - 'lbsim delhi cutoff 2026 2027'
-  - 'lbsim delhi review 2027'
+  - lbsim delhi mba admission 2027
+  - lbsim delhi fees structure 2027
+  - lbsim delhi average placement package
+  - lbsim delhi cutoff 2026 2027
+  - lbsim delhi review 2027
   - 'top mba colleges in dwarka, new delhi'
-  - 'best mba colleges in delhi ncr'
-  - 'direct admission in lbsim delhi'
+  - best mba colleges in delhi ncr
+  - direct admission in lbsim delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: 'What is the average placement package at LBSIM Delhi in 2026-2027?'
-    answer: 'The verified average placement package at LBSIM Delhi stands at ₹12.40 LPA, with the median package benchmark at ₹11.80 LPA and highest domestic offers reaching ₹25.90 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at LBSIM Delhi?'
-    answer: 'LBSIM Delhi accepts valid scores from CAT, XAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at LBSIM Delhi?'
-    answer: 'The total course tuition fee is approximately ₹15.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for LBSIM Delhi?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 80.0+ XAT / CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Dwarka, New Delhi'
-state: 'Delhi NCR'
+  - question: What is the average placement package at LBSIM Delhi in 2026-2027?
+    answer: >-
+      The verified average placement package at LBSIM Delhi stands at ₹12.40
+      LPA, with the median package benchmark at ₹11.80 LPA and highest domestic
+      offers reaching ₹25.90 LPA.
+  - question: What entrance exams are accepted for 2027 admission at LBSIM Delhi?
+    answer: >-
+      LBSIM Delhi accepts valid scores from CAT, XAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at LBSIM Delhi?
+    answer: >-
+      The total course tuition fee is approximately ₹15.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for LBSIM Delhi?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 80.0+
+      XAT / CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [LBSIM Delhi](/colleges/lbsim-delhi/) Review 2027: Fees, Cutoff, Placements & Admission ROI

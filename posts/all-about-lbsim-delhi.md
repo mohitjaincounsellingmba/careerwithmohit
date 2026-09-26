@@ -3,7 +3,7 @@ title: >-
   LBSIM Delhi (Lal Bahadur Shastri Institute of Management) PGDM Admission
   Review 2026: Placements, Fees & Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to LBSIM Delhi (Lal Bahadur Shastri Institute of
   Management)? Read our comprehensive PGDM review for 2026 covering total fees,

@@ -39,14 +39,14 @@ faqs:
       interest-based lending (Riba) and have specific debt-to-equity ratios. The
       BSE Saatvik 100 allows financial services and banks (which make up its
       largest sector at over 37%).
-category: Career Advisory
+category: Jobs & Careers
 location: Delhi NCR
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical index, the BSE Saatvik 100, its sect...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The Indian investment landscape is undergoing a massive shift. Beyond traditional metrics like P/E ratios and dividend yields, a new wave of value-based and ethical investing is gaining traction. The launch of the **BSE Saatvik 100 Index** (often searched by investors as the **BSE Satwik 100 Fund**) in June 2026 marks a milestone in this journey. 

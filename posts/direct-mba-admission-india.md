@@ -42,7 +42,7 @@ faqs:
     answer: "Yes, once you are admitted, there is **no difference** between regular and management quota students in terms of curriculum, faculty, or placements.\n\n**Confused about which college is right for your profile?**\nOur experts help you navigate the management quota process with 100% transparency.\n\n[\U0001F449 Get Free Counselling](/inquiry) | [\U0001F4AC Book Private Session](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
-category: Certifications & Skills
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.

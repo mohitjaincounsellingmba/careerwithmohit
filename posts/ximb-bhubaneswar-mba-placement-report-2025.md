@@ -28,7 +28,7 @@ faqs:
     answer: >-
       BFSI (32%), Consulting (28%), IT/ITES (22%), and Marketing/Manufacturing
       (18%) represent the primary hiring sectors at XIMB.
-category: Certifications & Skills
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.

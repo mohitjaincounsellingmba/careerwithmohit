@@ -22,7 +22,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
-category: MBA
+category: Exams
 location: Chennai
 faqs:
   - question: >-

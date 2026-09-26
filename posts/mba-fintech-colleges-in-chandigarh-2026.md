@@ -1,7 +1,7 @@
 ---
 title: Top MBA FinTech Colleges in Chandigarh 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Find the best MBA FinTech colleges in Chandigarh. Check program fees,
   placements, and cutoffs for UBS, Chandigarh University, and Chitkara in 2026.

@@ -23,7 +23,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
-category: MBA
+category: Exams
 location: Chennai
 faqs:
   - question: >-
@@ -161,7 +161,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-### 1. Is Karunya Institute of Technology and Sciences, Coimbatore a good choice for higher education in 2026?
+### 1. Is [Karunya Institute of Technology and Sciences](/colleges/karunya-institute-of-technology-and-sciences), Coimbatore a good choice for higher education in 2026?
 Yes, Karunya Institute of Technology and Sciences, Coimbatore is a highly reputed institution in Coimbatore, South India (UGC, NAAC A++ Grade, NBA Accredited Programs, AICTE, NIRF Ranked). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹5.80 LPA - ₹7.20 LPA.
 
 ### 2. What is the annual fee structure at Karunya Institute of Technology and Sciences, Coimbatore?

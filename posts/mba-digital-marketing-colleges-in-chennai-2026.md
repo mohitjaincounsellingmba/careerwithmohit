@@ -1,7 +1,7 @@
 ---
 title: Top MBA Digital Marketing Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Compare the best B-schools for MBA Digital Marketing in Chennai. Get details
   on fees, placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA

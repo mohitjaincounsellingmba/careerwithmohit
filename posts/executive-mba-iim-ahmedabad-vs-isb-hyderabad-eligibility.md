@@ -68,7 +68,7 @@ However, significant differences exist regarding **eligibility thresholds, work 
 
 ## 1. Eligibility Criteria Comparison: Head-to-Head
 
-| Parameter | IIM Ahmedabad PGPX | ISB Hyderabad & Mohali PGP |
+| Parameter | [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX | ISB Hyderabad & Mohali PGP |
 | :--- | :--- | :--- |
 | **Minimum Work Experience** | **4 Years (48 Months)** full-time post-graduation | **2 Years (24 Months)** full-time post-graduation |
 | **Average Batch Experience** | **7.5 to 8.5 Years** | **4.2 to 5.0 Years** |

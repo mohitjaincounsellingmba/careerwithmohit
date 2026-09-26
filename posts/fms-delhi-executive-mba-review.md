@@ -29,7 +29,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Are there placements for the FMS Delhi Executive MBA program?
     answer: >-

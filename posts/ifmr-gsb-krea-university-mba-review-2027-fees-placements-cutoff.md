@@ -1,28 +1,52 @@
 ---
 title: 'IFMR GSB MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IFMR Graduate School of Business (Krea University) (Sri City, Andhra Pradesh). Check audited fees (₹14.50 Lakhs (Total)), average placement (₹13.50 LPA), entrance cutoffs (200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT), and admission tips by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 MBA review for IFMR Graduate School of Business (Krea
+  University) (Sri City, Andhra Pradesh). Check audited fees (₹14.50 Lakhs
+  (Total)), average placement (₹13.50 LPA), entrance cutoffs (200+ NMAT / 80+
+  CAT %ile / 80+ XAT %ile / 85+ CMAT), and admission tips by Mohit Jain.
 keywords:
-  - 'ifmr graduate school of business (krea university) mba admission 2027'
-  - 'ifmr graduate school of business (krea university) fees structure 2027'
-  - 'ifmr graduate school of business (krea university) average placement package'
-  - 'ifmr graduate school of business (krea university) cutoff 2026 2027'
-  - 'ifmr gsb review 2027'
-  - 'top mba colleges in sri city'
-  - 'best mba colleges in andhra pradesh'
-  - 'direct admission in ifmr graduate school of business (krea university)'
+  - ifmr graduate school of business (krea university) mba admission 2027
+  - ifmr graduate school of business (krea university) fees structure 2027
+  - ifmr graduate school of business (krea university) average placement package
+  - ifmr graduate school of business (krea university) cutoff 2026 2027
+  - ifmr gsb review 2027
+  - top mba colleges in sri city
+  - best mba colleges in andhra pradesh
+  - direct admission in ifmr graduate school of business (krea university)
 faqs:
-  - question: 'What is the average placement package at IFMR Graduate School of Business (Krea University) in 2026-2027?'
-    answer: 'The verified average placement package at IFMR Graduate School of Business (Krea University) stands at ₹13.50 LPA, with the median package benchmark at ₹13.00 LPA and highest domestic offers reaching ₹22.90 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IFMR Graduate School of Business (Krea University)?'
-    answer: 'IFMR Graduate School of Business (Krea University) accepts valid scores from CAT, XAT, NMAT, CMAT, GMAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IFMR Graduate School of Business (Krea University)?'
-    answer: 'The total course tuition fee is approximately ₹14.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IFMR Graduate School of Business (Krea University)?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Sri City'
-state: 'Andhra Pradesh'
+  - question: >-
+      What is the average placement package at IFMR Graduate School of Business
+      (Krea University) in 2026-2027?
+    answer: >-
+      The verified average placement package at IFMR Graduate School of Business
+      (Krea University) stands at ₹13.50 LPA, with the median package benchmark
+      at ₹13.00 LPA and highest domestic offers reaching ₹22.90 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at IFMR Graduate
+      School of Business (Krea University)?
+    answer: >-
+      IFMR Graduate School of Business (Krea University) accepts valid scores
+      from CAT, XAT, NMAT, CMAT, GMAT followed by institutional profile
+      evaluation and personal interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at IFMR Graduate
+      School of Business (Krea University)?
+    answer: >-
+      The total course tuition fee is approximately ₹14.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      What is the expected entrance cutoff for IFMR Graduate School of Business
+      (Krea University)?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 200+
+      NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT. Profile diversity and
+      corporate work experience may offer relaxed considerations.
+location: Sri City
+state: Andhra Pradesh
 ---
 
 # [IFMR Graduate School of Business (Krea University)](/colleges/ifmr-gsb-sri-city/) Review 2027: Fees, Cutoff, Placements & Admission ROI

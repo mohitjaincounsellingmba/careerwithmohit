@@ -27,7 +27,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: What is the class schedule for the MMS-WP at JBIMS?
     answer: >-

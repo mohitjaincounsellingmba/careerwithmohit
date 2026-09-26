@@ -100,7 +100,7 @@ The **Online BBA** and **Online BCA** are 3-year (6-semester) undergraduate prog
 
 ## Hidden Costs Audit: Are There Extra Exam or Re-Evaluation Fees?
 
-Unlike distance learning centers that charge extra for exam hall tickets, **Amity University Online does NOT charge hidden exam fees**. The semester tuition fee includes:
+Unlike distance learning centers that charge extra for exam hall tickets, **[Amity University](/colleges/amity-noida) Online does NOT charge hidden exam fees**. The semester tuition fee includes:
 * Access to 24/7 Learning Management System (LMS) e-books & recorded webinars
 * Live weekend masterclasses by industry experts
 * Online proctored semester examinations

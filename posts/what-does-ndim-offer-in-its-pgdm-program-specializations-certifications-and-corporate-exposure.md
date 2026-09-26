@@ -313,7 +313,7 @@ NDIM maintains a comprehensive scholarship framework to support deserving and di
 
 ## 📌 Verdict: Is NDIM Delhi the Right Choice for You?
 
-**New Delhi Institute of Management (NDIM)** offers one of the most balanced, practical, and industry-embedded PGDM programs in Delhi NCR. With its AICTE-CII rated corporate interface, True Dual Specialization structure, unique **Japan & Korea Centres of Excellence**, embedded Industry 4.0 certifications, and proactive SIP-to-PPO conversion pipeline, NDIM represents a solid, high-ROI launchpad for domestic and global management careers.
+**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** offers one of the most balanced, practical, and industry-embedded PGDM programs in Delhi NCR. With its AICTE-CII rated corporate interface, True Dual Specialization structure, unique **Japan & Korea Centres of Excellence**, embedded Industry 4.0 certifications, and proactive SIP-to-PPO conversion pipeline, NDIM represents a solid, high-ROI launchpad for domestic and global management careers.
 
 If you have a CAT/XAT/MAT/CMAT score in the 60–80 percentile range and value hands-on corporate immersion in South Delhi alongside international learning pathways, NDIM should feature prominently on your MBA/PGDM application shortlist.
 

@@ -105,7 +105,7 @@ Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-deg
 
 ### 3. [Uttaranchal University](/colleges/uttaranchal-university) Online MBA (₹98,000 Total Fee)
 - **Status**: NAAC A+ Accredited University (Dehradun)
-- **Why Choose It**: Known for its structured Learning Management System (LMS), mobile app access, and interactive doubt-clearing sessions, Uttaranchal University delivers top-tier private university infrastructure under the ₹1 Lakh threshold.
+- **Why Choose It**: Known for its structured Learning Management System (LMS), mobile app access, and interactive doubt-clearing sessions, [Uttaranchal University](/colleges/uttaranchal-university) delivers top-tier private university infrastructure under the ₹1 Lakh threshold.
 
 ### 4. SCDL Symbiosis (Symbiosis Centre for Distance Learning) (₹74,000 Total Fee)
 - **Status**: AICTE Approved Management Diploma (PGDBA)

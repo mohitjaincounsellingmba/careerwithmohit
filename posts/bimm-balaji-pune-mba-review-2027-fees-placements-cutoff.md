@@ -113,7 +113,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Balaji Institute of Mode
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Balaji Institute of Modern Management (BIMM Pune)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Balaji Institute of Modern Management (BIMM Pune)](/colleges/bimm-balaji-pune)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / MAT / XAT / CMAT / MAH CET). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

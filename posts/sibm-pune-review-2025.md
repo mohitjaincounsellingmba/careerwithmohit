@@ -36,7 +36,7 @@ faqs:
     answer: "Yes, [SIBM Pune](/colleges/sibm-pune) consistently achieves **100% placements** with top-tier companies across consulting, finance, and FMCG.\n\n[\U0001F449 Check your [SIBM Pune](/colleges/sibm-pune) admission chances based on SNAP score!](/inquiry)"
 location: Pune
 state: Maharashtra
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

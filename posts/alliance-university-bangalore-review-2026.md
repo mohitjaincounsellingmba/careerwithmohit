@@ -21,7 +21,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
-category: MBA
+category: Exams
 location: Bangalore
 faqs:
   - question: >-

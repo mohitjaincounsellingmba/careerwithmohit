@@ -94,7 +94,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Lexicon Management Institute of Leadership & Excellence (Lexicon MILE)** (Lexicon MILE Pune) |
+| **Institution Name** | **[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE)** (Lexicon MILE Pune) |
 | **Campus Location** | Wagholi, Pune, Maharashtra |
 | **Program Offered** | **PGDM & Global MBA (with UK/US University degree options)** |
 | **Degree / Diploma Type** | **PGDM** |

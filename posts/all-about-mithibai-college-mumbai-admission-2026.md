@@ -3,7 +3,7 @@ title: >-
   Mithibai College Mumbai Admission 2026: Courses, Selection Process, Cutoff &
   Review
 date: '2026-06-19'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Mithibai
   College Mumbai Admission 2026: Courses, Selection Process, Cutoff & Review.

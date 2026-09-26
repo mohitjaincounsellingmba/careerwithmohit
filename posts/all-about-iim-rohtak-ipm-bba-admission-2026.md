@@ -44,7 +44,7 @@ state: Delhi NCR
 [IIM Rohtak](/colleges/iim-rohtak) is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.
 
 ## 🏛️ Why Choose [IIM Rohtak](/colleges/iim-rohtak) IPM in 2026?
-The IPM program at IIM Rohtak focuses on developing leadership skills through a blend of academic rigor and practical exposure.
+The IPM program at [IIM Rohtak](/colleges/iim-rohtak) focuses on developing leadership skills through a blend of academic rigor and practical exposure.
 - **Strategic Location:** NCR proximity means more guest lectures and internship opportunities from top MNCs.
 - **All-Round Growth:** Curriculum includes courses in humanities, languages, and social sciences.
 - **IIM Brand:** A globally recognized brand that opens doors to elite career paths.

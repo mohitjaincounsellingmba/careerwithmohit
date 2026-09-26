@@ -126,7 +126,7 @@ Admission to **[J.S. Kothari Business School](/colleges/js-kothari-mumbai)** fol
 
 ---
 
-## 5. Why Choose J.S. Kothari Business School? (Pros & Cons)
+## 5. Why Choose [J.S. Kothari Business School](/colleges/js-kothari-mumbai)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Mumbai Metropolis and across major commercial hubs in India.

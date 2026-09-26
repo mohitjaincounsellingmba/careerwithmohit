@@ -65,7 +65,7 @@ Historically, elite management education in India has been restricted to student
 | **Language** | Bilingual (Hindi-first instruction, English content available) |
 | **Admission Basis** | Class 12th completion & merit (No entrance exam like JIPMAT/IPMAT) |
 | **Total Academic Fees** | ₹5,00,000 (Complete 4-Year Honours degree) |
-| **Degree Awarded** | Bachelor of Business Administration (Honours) by IIM Udaipur |
+| **Degree Awarded** | Bachelor of Business Administration (Honours) by [IIM Udaipur](/colleges/iim-udaipur) |
 
 ---
 

@@ -111,7 +111,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Department of Business A
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Department of Business Administration, Tezpur University** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Department of Business Administration, Tezpur University](/colleges/tezpur-university-management)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / MAT / XAT / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

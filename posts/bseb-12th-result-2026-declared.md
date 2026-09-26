@@ -37,14 +37,14 @@ faqs:
       Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25).
       Candidates should avoid guessing to maintain accuracy and prevent score
       drops.
-category: Career Advisory
+category: Jobs & Careers
 location: Delhi NCR
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Bihar Board (BSEB) has declared the Class 12th (Intermediate) result 2026. Check your Stream-wise (Science, Ar...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Bihar School Examination Board (BSEB) officially declared the **Bihar Board Class 12 (Intermediate) Result 2026 on March 23, 2026**. Students across the Science, Arts, and Commerce streams can now check their scores and download their provisional marksheets from the official portal.
 

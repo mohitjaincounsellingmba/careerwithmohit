@@ -21,7 +21,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Is the SIMS Executive MBA open to civilians?
     answer: >-

@@ -102,7 +102,7 @@ BIMTECH (Knowledge Park II)                                  GL Bajaj (GLBIMR), 
 - **Specialization Strengths**: Pioneering programs in International Business (IB), Insurance Business Management (IBM), and Retail Management (RM).
 - **Top Recruiters**: Marsh India, Swiss Re, KPMG, EY, Infosys, Reliance Retail, Aditya Birla Group, Titan, ICICI Lombard.
 
-### 2. Bennett University (The Times Group)
+### 2. [Bennett University](/colleges/bennett-greater-noida) (The Times Group)
 - **Media & Technology Backing**: Leveraging the formidable corporate ecosystem of the Times of India Group, students learn directly from global editors, CXOs, and industry leaders.
 - **Modern Infrastructure**: World-class 68-acre residential campus with cutting-edge analytics labs (IBM, NVIDIA, Dell) and seed funding support via Bennett Hatchery.
 

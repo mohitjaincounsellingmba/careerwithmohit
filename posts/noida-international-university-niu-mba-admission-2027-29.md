@@ -94,7 +94,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Noida International University (NIU)** (NIU Greater Noida) |
+| **Institution Name** | **[Noida International University (NIU)](/colleges/niu-greater-noida)** (NIU Greater Noida) |
 | **Campus Location** | Yamuna Expressway, Greater Noida |
 | **Program Offered** | **2-Year Full-Time MBA (Marketing, Finance, HR, Hospital Management, Supply Chain)** |
 | **Degree / Diploma Type** | **MBA** |

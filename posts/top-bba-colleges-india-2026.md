@@ -112,7 +112,7 @@ If you miss the entrance exam cutoffs, several universities like **[Jain Univers
 **Q1. Is BBA better than B.Com?**
 If you target a **Corporate/Management career**, BBA is better because of its professional curriculum. If you target **CA/Audit/Accounting**, B.Com remains the standard choice.
 
-**Q2. does IIM Indore give BBA degree?**
+**Q2. does [IIM Indore](/colleges/iim-indore) give BBA degree?**
 In the IPM program, you get a **BA (Foundations of Management)** after 3 years and an **MBA** after 5 years. However, socially and professionally, it is treated as an integrated BBA+MBA pathway.
 
 **Q3. What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai)?**

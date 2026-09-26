@@ -47,12 +47,12 @@ faqs:
       focus more on theoretical concepts and foundation sciences.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for JEE Advanced 2026 Result Declared: Check Rank ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The wait is finally over! **IIT Roorkee** has officially declared the **JEE Advanced 2026 results** on **May 31, 2026** — a day ahead of the originally scheduled date of June 1. Over 1.8 lakh students who appeared for the exam on **May 17, 2026** can now access their scorecards, All India Rank (AIR), and category-wise ranks on the official portal.
 

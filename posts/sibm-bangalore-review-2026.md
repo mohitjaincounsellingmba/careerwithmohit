@@ -122,7 +122,7 @@ Admission to **[SIBM Bangalore](/colleges/sibm-bangalore)** follows a holistic s
 
 ---
 
-## 5. Why Choose SIBM Bangalore? (Pros & Cons)
+## 5. Why Choose [SIBM Bangalore](/colleges/sibm-bangalore)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Bangalore and across major commercial hubs in India.

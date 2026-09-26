@@ -96,7 +96,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **GD Goenka University (School of Management)** (GD Goenka Gurgaon) |
+| **Institution Name** | **[GD Goenka University](/colleges/gd-goenka-university) (School of Management)** (GD Goenka Gurgaon) |
 | **Campus Location** | Sohna Road, Gurugram NCR |
 | **Program Offered** | **2-Year Full-Time MBA (Marketing, Finance, HR, Business Analytics, Supply Chain)** |
 | **Degree / Diploma Type** | **MBA** |

@@ -1,7 +1,7 @@
 ---
 title: Top MBA Finance Colleges in Delhi NCR 2026 — Placements & Fees
 date: '2026-07-16'
-category: MBA
+category: Exams
 description: >-
   Looking for the best MBA Finance colleges in Delhi NCR? Read our 2026 guide
   comparing top institutions like FMS, DFS, MDI, and LBSIM, including fees and

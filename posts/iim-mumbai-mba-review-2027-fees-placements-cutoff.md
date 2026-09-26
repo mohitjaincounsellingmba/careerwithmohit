@@ -111,7 +111,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[IIM Mumbai (Formerly NIT
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **IIM Mumbai (Formerly NITIE Mumbai)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

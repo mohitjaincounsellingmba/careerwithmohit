@@ -96,7 +96,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Jagannath International Management School (JIMS Kalkaji)** (JIMS Kalkaji) |
+| **Institution Name** | **[Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS Kalkaji)** (JIMS Kalkaji) |
 | **Campus Location** | Kalkaji, South Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM & PGDM (International Business)** |
 | **Degree / Diploma Type** | **PGDM** |

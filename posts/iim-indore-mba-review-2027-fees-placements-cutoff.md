@@ -1,28 +1,42 @@
 ---
 title: 'IIM Indore MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Indore (Indore, Madhya Pradesh). Check audited fees (₹21.00 Lakhs (Total)), average placement (₹30.21 LPA), entrance cutoffs (97.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Indore (Indore, Madhya Pradesh). Check
+  audited fees (₹21.00 Lakhs (Total)), average placement (₹30.21 LPA), entrance
+  cutoffs (97.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim indore mba admission 2027'
-  - 'iim indore fees structure 2027'
-  - 'iim indore average placement package'
-  - 'iim indore cutoff 2026 2027'
-  - 'iimi review 2027'
-  - 'top mba colleges in indore'
-  - 'best mba colleges in madhya pradesh'
-  - 'direct admission in iim indore'
+  - iim indore mba admission 2027
+  - iim indore fees structure 2027
+  - iim indore average placement package
+  - iim indore cutoff 2026 2027
+  - iimi review 2027
+  - top mba colleges in indore
+  - best mba colleges in madhya pradesh
+  - direct admission in iim indore
 faqs:
-  - question: 'What is the average placement package at IIM Indore in 2026-2027?'
-    answer: 'The verified average placement package at IIM Indore stands at ₹30.21 LPA, with the median package benchmark at ₹27.20 LPA and highest domestic offers reaching ₹1.14 Crore.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Indore?'
-    answer: 'IIM Indore accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Indore?'
-    answer: 'The total course tuition fee is approximately ₹21.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Indore?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 97.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Indore'
-state: 'Madhya Pradesh'
+  - question: What is the average placement package at IIM Indore in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Indore stands at ₹30.21 LPA,
+      with the median package benchmark at ₹27.20 LPA and highest domestic
+      offers reaching ₹1.14 Crore.
+  - question: What entrance exams are accepted for 2027 admission at IIM Indore?
+    answer: >-
+      IIM Indore accepts valid scores from CAT followed by institutional profile
+      evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Indore?
+    answer: >-
+      The total course tuition fee is approximately ₹21.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Indore?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 97.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Indore
+state: Madhya Pradesh
 ---
 
 # [IIM Indore](/colleges/iim-indore/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Indore](/colleges/iim-indore/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Indore** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Indore](/colleges/iim-indore)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT**) and achieve the minimum qualifying percentile/score.

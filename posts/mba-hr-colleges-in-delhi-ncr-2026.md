@@ -1,7 +1,7 @@
 ---
 title: Top MBA HR Colleges in Delhi NCR 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for the best MBA HR colleges in Delhi NCR? Read our 2026 guide
   comparing top institutions like FMS, MDI Gurgaon, IMI Delhi, and IMT

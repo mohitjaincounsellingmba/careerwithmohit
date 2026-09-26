@@ -125,7 +125,7 @@ Admission to **[BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)** fol
 
 ---
 
-## 5. Why Choose BML Munjal University (BMU)? (Pros & Cons)
+## 5. Why Choose [BML Munjal University](/colleges/bml-munjal-gurgaon) (BMU)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in NH-8 and across major commercial hubs in India.

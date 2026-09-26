@@ -94,7 +94,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Fortune Institute of International Business (FIIB)** (FIIB Delhi) |
+| **Institution Name** | **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)** (FIIB Delhi) |
 | **Campus Location** | Vasant Vihar, South Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM & PGDM (Financial Management)** |
 | **Degree / Diploma Type** | **PGDM** |

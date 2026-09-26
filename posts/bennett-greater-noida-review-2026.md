@@ -124,7 +124,7 @@ Admission to **[Bennett University](/colleges/bennett-greater-noida)** follows a
 
 ---
 
-## 5. Why Choose Bennett University? (Pros & Cons)
+## 5. Why Choose [Bennett University](/colleges/bennett-greater-noida)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Greater Noida and across major commercial hubs in India.

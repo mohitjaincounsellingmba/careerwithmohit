@@ -47,7 +47,7 @@ faqs:
       placement packages (₹6-8 LPA).
 location: Delhi NCR
 state: Delhi NCR
-category: Certifications & Skills
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.

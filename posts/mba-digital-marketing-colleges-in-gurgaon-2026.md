@@ -1,7 +1,7 @@
 ---
 title: Top MBA Digital Marketing Colleges in Gurgaon 2026 — Placements & Fees
 date: '2026-07-17'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Compare the best MBA Digital Marketing colleges in Gurgaon. Explore fees,
   placements, and eligibility details for MDI Gurgaon, Great Lakes, SOIL, and

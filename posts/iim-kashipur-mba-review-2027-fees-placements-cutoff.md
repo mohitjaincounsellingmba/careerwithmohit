@@ -1,28 +1,42 @@
 ---
 title: 'IIM-Kashipur MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Kashipur (Kashipur, Uttarakhand). Check audited fees (₹18.50 Lakhs (Total)), average placement (₹18.11 LPA), entrance cutoffs (92.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Kashipur (Kashipur, Uttarakhand). Check
+  audited fees (₹18.50 Lakhs (Total)), average placement (₹18.11 LPA), entrance
+  cutoffs (92.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim kashipur mba admission 2027'
-  - 'iim kashipur fees structure 2027'
-  - 'iim kashipur average placement package'
-  - 'iim kashipur cutoff 2026 2027'
-  - 'iim-kashipur review 2027'
-  - 'top mba colleges in kashipur'
-  - 'best mba colleges in uttarakhand'
-  - 'direct admission in iim kashipur'
+  - iim kashipur mba admission 2027
+  - iim kashipur fees structure 2027
+  - iim kashipur average placement package
+  - iim kashipur cutoff 2026 2027
+  - iim-kashipur review 2027
+  - top mba colleges in kashipur
+  - best mba colleges in uttarakhand
+  - direct admission in iim kashipur
 faqs:
-  - question: 'What is the average placement package at IIM Kashipur in 2026-2027?'
-    answer: 'The verified average placement package at IIM Kashipur stands at ₹18.11 LPA, with the median package benchmark at ₹17.20 LPA and highest domestic offers reaching ₹37.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Kashipur?'
-    answer: 'IIM Kashipur accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Kashipur?'
-    answer: 'The total course tuition fee is approximately ₹18.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Kashipur?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 92.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Kashipur'
-state: 'Uttarakhand'
+  - question: What is the average placement package at IIM Kashipur in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Kashipur stands at ₹18.11
+      LPA, with the median package benchmark at ₹17.20 LPA and highest domestic
+      offers reaching ₹37.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Kashipur?
+    answer: >-
+      IIM Kashipur accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Kashipur?
+    answer: >-
+      The total course tuition fee is approximately ₹18.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Kashipur?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 92.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Kashipur
+state: Uttarakhand
 ---
 
 # [IIM Kashipur](/colleges/iim-kashipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Kashipur](/colleges/iim-kashipur/)** reflect continuous cor
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Kashipur** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Kashipur](/colleges/iim-kashipur)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

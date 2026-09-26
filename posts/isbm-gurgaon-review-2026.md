@@ -133,7 +133,7 @@ Admission to **ISB&M Gurgaon ([International School of Business & Media](/colleg
 
 ---
 
-## 5. Why Choose ISB&M Gurgaon (International School of Business & Media)? (Pros & Cons)
+## 5. Why Choose ISB&M Gurgaon ([International School of Business & Media](/colleges/international-school-of-business-media))? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Sector 112 and across major commercial hubs in India.

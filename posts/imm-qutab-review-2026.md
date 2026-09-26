@@ -133,7 +133,7 @@ Admission to **[Institute of Marketing & Management (IMM)](/colleges/imm-delhi)*
 
 ---
 
-## 5. Why Choose Institute of Marketing & Management (IMM)? (Pros & Cons)
+## 5. Why Choose [Institute of Marketing & Management (IMM)](/colleges/imm-delhi)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Qutab Institutional Area and across major commercial hubs in India.

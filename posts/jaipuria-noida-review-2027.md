@@ -164,7 +164,7 @@ Jaipuria’s most formidable asset is its **Unified Centralized Placement Proces
 
 ## 4. Academic Rigor: Centralized Model & Specialization Tracks
 
-Jaipuria Noida offers three distinct AICTE-approved programs across its **300 seats**:
+[Jaipuria Noida](/colleges/jaipuria-noida) offers three distinct AICTE-approved programs across its **300 seats**:
 
 1.  **PGDM (Flagship General - Dual Specialization):** Core tracks in Finance, Marketing, HR, Operations, and Business Analytics.
 2.  **PGDM (Marketing):** Tailored for careers in digital brand strategy, e-commerce merchandising, and customer experience management.

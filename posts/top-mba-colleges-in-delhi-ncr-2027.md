@@ -56,9 +56,9 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Delhi NCR Corporate Capital**: Spanning Delhi, Gurugram, Noida, Greater Noida, and Ghaziabad, Delhi NCR hosts over 250+ Fortune 500 regional headquarters and India’s densest management cluster.
 > - **Top-Ranked B-Schools**: [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), [IIFT Delhi](/colleges/iift-delhi), IMT Ghaziabad, [IIM Rohtak](/colleges/iim-rohtak), BIMTECH Greater Noida, and Masters’ Union lead the regional rankings.
-> - **Fee and Placement Highlights**: Course fees range from ₹2.32 Lakhs (FMS Delhi) to ₹25–30 Lakhs (MDI / Masters' Union), with top average salary packages touching ₹18 LPA to ₹30.7 LPA.
+> - **Fee and Placement Highlights**: Course fees range from ₹2.32 Lakhs ([FMS Delhi](/colleges/fms-delhi)) to ₹25–30 Lakhs (MDI / Masters' Union), with top average salary packages touching ₹18 LPA to ₹30.7 LPA.
 
-### [InquiryCard title="Targeting Delhi NCR Management Colleges?" description="Compare MDI Gurgaon, IMT Ghaziabad, BIMTECH, IMI, FORE, and Jaipuria. Get your profile evaluated by Mohit Jain." cta="Book Delhi NCR Profile Review" type="admission"]
+### [InquiryCard title="Targeting Delhi NCR Management Colleges?" description="Compare [MDI Gurgaon](/colleges/mdi-gurgaon), IMT Ghaziabad, BIMTECH, IMI, FORE, and Jaipuria. Get your profile evaluated by Mohit Jain." cta="Book Delhi NCR Profile Review" type="admission"]
 
 The Delhi National Capital Region (NCR) is the undisputed powerhouse of management education in North India. By combining the policy and diplomatic prominence of New Delhi with the high-octane MNC hubs of Gurugram (Cyber City, Golf Course Road) and Noida-Greater Noida’s manufacturing and IT corridors, Delhi NCR offers students unbeatable corporate recruitment density.
 
@@ -114,10 +114,10 @@ Ghaziabad is home to **IMT Ghaziabad**, the legendary FMCG sales and marketing c
 ## Admissions & Cutoff Playbook for Delhi NCR
 
 Candidates targeting Delhi NCR should segment their applications strategically:
-- **CAT/XAT 95+ Percentile**: Apply for FMS Delhi, MDI Gurgaon, IIFT, and IIM Rohtak.
+- **CAT/XAT 95+ Percentile**: Apply for FMS Delhi, MDI Gurgaon, IIFT, and [IIM Rohtak](/colleges/iim-rohtak).
 - **CAT/XAT 80–92 Percentile**: Target IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi), IMT Ghaziabad, and LBSIM.
-- **CAT/XAT/CMAT/MAT 70–80 Percentile**: Target BIMTECH Greater Noida, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon), Jaipuria Noida, and SOIL Gurgaon.
-- **Alternative / Profile-Based / Direct Entry**: Candidates with strong extracurriculars or graduation marks can explore Bennett University, Amity University, and institutional seats in approved private colleges.
+- **CAT/XAT/CMAT/MAT 70–80 Percentile**: Target BIMTECH Greater Noida, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon), [Jaipuria Noida](/colleges/jaipuria-noida), and SOIL Gurgaon.
+- **Alternative / Profile-Based / Direct Entry**: Candidates with strong extracurriculars or graduation marks can explore [Bennett University](/colleges/bennett-greater-noida), [Amity University](/colleges/amity-noida), and institutional seats in approved private colleges.
 
 ---
 

@@ -1,28 +1,48 @@
 ---
 title: 'SIDTM Pune MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for SIDTM Pune (Pune, Maharashtra). Check audited fees (₹18.00 Lakhs (Total)), average placement (₹12.78 LPA), entrance cutoffs (83.0+ SNAP %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for SIDTM Pune (Pune, Maharashtra). Check audited
+  fees (₹18.00 Lakhs (Total)), average placement (₹12.78 LPA), entrance cutoffs
+  (83.0+ SNAP %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'sidtm pune mba admission 2027'
-  - 'sidtm pune fees structure 2027'
-  - 'sidtm pune average placement package'
-  - 'sidtm pune cutoff 2026 2027'
-  - 'sidtm pune review 2027'
-  - 'top mba colleges in pune'
-  - 'best mba colleges in maharashtra'
-  - 'direct admission in sidtm pune'
+  - sidtm pune mba admission 2027
+  - sidtm pune fees structure 2027
+  - sidtm pune average placement package
+  - sidtm pune cutoff 2026 2027
+  - sidtm pune review 2027
+  - top mba colleges in pune
+  - best mba colleges in maharashtra
+  - direct admission in sidtm pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: 'What is the average placement package at SIDTM Pune in 2026-2027?'
-    answer: 'The verified average placement package at SIDTM Pune stands at ₹12.78 LPA, with the median package benchmark at ₹12.20 LPA and highest domestic offers reaching ₹27.83 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at SIDTM Pune?'
-    answer: 'SIDTM Pune accepts valid scores from SNAP followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at SIDTM Pune?'
-    answer: 'The total course tuition fee is approximately ₹18.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for SIDTM Pune?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 83.0+ SNAP %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Pune'
-state: 'Maharashtra'
+  - question: What is the average placement package at SIDTM Pune in 2026-2027?
+    answer: >-
+      The verified average placement package at SIDTM Pune stands at ₹12.78 LPA,
+      with the median package benchmark at ₹12.20 LPA and highest domestic
+      offers reaching ₹27.83 LPA.
+  - question: What entrance exams are accepted for 2027 admission at SIDTM Pune?
+    answer: >-
+      SIDTM Pune accepts valid scores from SNAP followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at SIDTM Pune?
+    answer: >-
+      The total course tuition fee is approximately ₹18.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for SIDTM Pune?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 83.0+
+      SNAP %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Pune
+state: Maharashtra
 ---
 
 # [SIDTM Pune](/colleges/sidtm-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI

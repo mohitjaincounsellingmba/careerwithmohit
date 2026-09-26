@@ -126,7 +126,7 @@ Admission to **[Amity University](/colleges/amity-noida) (Mumbai Campus)** follo
 
 ---
 
-## 5. Why Choose Amity University (Mumbai Campus)? (Pros & Cons)
+## 5. Why Choose [Amity University](/colleges/amity-noida) (Mumbai Campus)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Panvel and across major commercial hubs in India.

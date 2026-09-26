@@ -50,7 +50,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -95,13 +95,13 @@ The 21 IIMs in India are broadly divided into three generations:
 
 ### **Detailed Review of Each Baby IIM**
 
-#### **1. IIM Amritsar**
+#### **1. [IIM Amritsar](/colleges/iim-amritsar)**
 - **Established**: 2015 | **Batch Size**: ~200
 - **Programs**: MBA, MBA-BA, MBA-HR
 - **Average Package**: ₹16.5 LPA | **Highest**: ~₹35+ LPA
 - **CAT Cutoff**: 92+ Percentile (General) | **Admission**: Personal Interview (PI)
 - **Campus**: Moving to permanent campus; transitional phase ongoing
-- **Mentor**: IIM Lucknow — strong academic curriculum foundation
+- **Mentor**: [IIM Lucknow](/colleges/iim-lucknow) — strong academic curriculum foundation
 - **Verdict**: Among the stronger Baby IIMs, with HR and Business Analytics specialisations adding value. Punjab location helps with access to North India recruiters.
 
 ---
@@ -148,7 +148,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **CAT Cutoff**: 92+ Percentile | **Admission**: CAP Interview
 - **Campus**: Transitioning to permanent campus in Sambalpur, Odisha
 - **Mentor**: [IIM Indore](/colleges/iim-indore)
-- **Verdict**: Decent placements for its age. Odisha location means limited campus recruiter access, but growing. IIM Indore mentorship is solid.
+- **Verdict**: Decent placements for its age. Odisha location means limited campus recruiter access, but growing. [IIM Indore](/colleges/iim-indore) mentorship is solid.
 
 ---
 
@@ -184,7 +184,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 - CAP interviews are typically held in 5–6 cities across India (Delhi, Mumbai, Kolkata, Chennai, Bangalore, Hyderabad).
 - Each IIM then uses your CAP interview performance, CAT score, academics, and diversity parameters to create its own final merit list.
 
-*IIM Nagpur and IIM Visakhapatnam typically run their own separate PI processes outside CAP.*
+*[IIM Nagpur](/colleges/iim-nagpur) and IIM Visakhapatnam typically run their own separate PI processes outside CAP.*
 
 ---
 
@@ -212,7 +212,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 - **CAP process** — single interview for multiple IIM calls = low effort, high potential
 
 **❌ Cons:**
-- **Location disadvantage** — IIM Sirmaur, Bodh Gaya are in low-corporate-density areas, limiting recruiter footfall
+- **Location disadvantage** — [IIM Sirmaur](/colleges/iim-sirmaur), Bodh Gaya are in low-corporate-density areas, limiting recruiter footfall
 - **Infrastructure still developing** — some campuses still on temporary/transit campuses
 - **Alumni clout gap** — can't match decades of OLD IIM alumni network yet
 - **Placement volatility** — small batch sizes mean one bad year can skew averages significantly
@@ -240,7 +240,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 
 1. **Check mentor IIM** — IIM-A mentored (Nagpur) and IIM-B mentored (Vizag) are top picks.
 2. **Location matters** — pick metros or growing industrial cities for better recruiter access.
-3. **Specialisation value** — IIM Amritsar (HR/BA), IIM Bodh Gaya (IPM), IIM Sirmaur (Tourism) have niche offerings worth evaluating.
+3. **Specialisation value** — IIM Amritsar (HR/BA), [IIM Bodh Gaya](/colleges/iim-bodh-gaya) (IPM), IIM Sirmaur (Tourism) have niche offerings worth evaluating.
 4. **Read the latest placement report** — always download the official annual report, not third-party summaries.
 5. **Attend GDPI prep seriously** — with CAT cutoffs at 90–94%, the WAT-PI round often differentiates the final selection.
 

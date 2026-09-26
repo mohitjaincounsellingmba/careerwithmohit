@@ -37,7 +37,7 @@ faqs:
     answer: '₹16.50 Lakhs for 2027–29, with scholarships up to ₹5 Lakhs available.'
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

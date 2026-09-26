@@ -64,7 +64,7 @@ state: Delhi NCR
 
 The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** on behalf of the Xavier Association of Management Institutes (XAMI), is one of the most intellectually rigorous and respected national management entrance tests in India. 
 
-Securing a competitive percentile in XAT opens doors to premier institutions including **XLRI Jamshedpur, XLRI Delhi-NCR, XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes**.
+Securing a competitive percentile in XAT opens doors to premier institutions including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes**.
 
 Understanding the **XAT exam 2027 last date of registration** is essential for all 2027–2029 PGDM/MBA aspirants to complete documentation, choose XLRI specializations, and book preferred test cities before slots fill up.
 

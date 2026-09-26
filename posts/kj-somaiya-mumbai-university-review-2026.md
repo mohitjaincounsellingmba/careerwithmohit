@@ -29,7 +29,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-category: MBA
+category: Exams
 location: Delhi NCR
 faqs:
   - question: >-
@@ -74,7 +74,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ K J Somaiya Mumbai: University Overview & Accreditation
 
-Somaiya Vidyavihar University, sprawling across a breathtaking 50-acre green campus in Vidyavihar, East Mumbai, is one of Maharashtra's most iconic educational ecosystems. Its flagship business school, K J Somaiya Institute of Management (KJSIM), is an AACSB-accredited premier B-school known for its rich alumni heritage, holistic education, and average MBA salaries crossing ₹12.5 LPA.
+Somaiya Vidyavihar University, sprawling across a breathtaking 50-acre green campus in Vidyavihar, East Mumbai, is one of Maharashtra's most iconic educational ecosystems. Its flagship business school, [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) (KJSIM), is an AACSB-accredited premier B-school known for its rich alumni heritage, holistic education, and average MBA salaries crossing ₹12.5 LPA.
 
 ### Key Institutional Highlights (2026)
 

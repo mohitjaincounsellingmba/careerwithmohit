@@ -41,12 +41,12 @@ faqs:
       Program (PGP) which is valued by global industry leaders and top startups.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Secure your PGP seat at Masters Union Gurgaon for 2026. Learn about direct admission via profile assessment, M...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Masters Union, located in the Cyber Park hub of Gurgaon, is disrupting management education with its "un-business school" model. Led by CXOs and industry veterans rather than traditional professors, it has become a top choice for students eyeing a career in startups and tech. For the 2026-28 batch, **Direct Admission in Masters Union** is centered around profile quality and entrepreneurship potential.

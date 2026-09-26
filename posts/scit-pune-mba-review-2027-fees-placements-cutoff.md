@@ -1,28 +1,48 @@
 ---
 title: 'SCIT Pune MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for SCIT Pune (Pune, Maharashtra). Check audited fees (₹16.50 Lakhs (Total)), average placement (₹11.20 LPA), entrance cutoffs (76.0+ SNAP %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for SCIT Pune (Pune, Maharashtra). Check audited fees
+  (₹16.50 Lakhs (Total)), average placement (₹11.20 LPA), entrance cutoffs
+  (76.0+ SNAP %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'scit pune mba admission 2027'
-  - 'scit pune fees structure 2027'
-  - 'scit pune average placement package'
-  - 'scit pune cutoff 2026 2027'
-  - 'scit pune review 2027'
-  - 'top mba colleges in pune'
-  - 'best mba colleges in maharashtra'
-  - 'direct admission in scit pune'
+  - scit pune mba admission 2027
+  - scit pune fees structure 2027
+  - scit pune average placement package
+  - scit pune cutoff 2026 2027
+  - scit pune review 2027
+  - top mba colleges in pune
+  - best mba colleges in maharashtra
+  - direct admission in scit pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 faqs:
-  - question: 'What is the average placement package at SCIT Pune in 2026-2027?'
-    answer: 'The verified average placement package at SCIT Pune stands at ₹11.20 LPA, with the median package benchmark at ₹10.50 LPA and highest domestic offers reaching ₹30.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at SCIT Pune?'
-    answer: 'SCIT Pune accepts valid scores from SNAP followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at SCIT Pune?'
-    answer: 'The total course tuition fee is approximately ₹16.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for SCIT Pune?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 76.0+ SNAP %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Pune'
-state: 'Maharashtra'
+  - question: What is the average placement package at SCIT Pune in 2026-2027?
+    answer: >-
+      The verified average placement package at SCIT Pune stands at ₹11.20 LPA,
+      with the median package benchmark at ₹10.50 LPA and highest domestic
+      offers reaching ₹30.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at SCIT Pune?
+    answer: >-
+      SCIT Pune accepts valid scores from SNAP followed by institutional profile
+      evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at SCIT Pune?
+    answer: >-
+      The total course tuition fee is approximately ₹16.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for SCIT Pune?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 76.0+
+      SNAP %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Pune
+state: Maharashtra
 ---
 
 # [SCIT Pune](/colleges/scit-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI

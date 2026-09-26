@@ -1,28 +1,43 @@
 ---
 title: 'IIMBG MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Bodh Gaya (Bodh Gaya, Bihar). Check audited fees (₹17.00 Lakhs (Total)), average placement (₹16.00 LPA), entrance cutoffs (88.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Bodh Gaya (Bodh Gaya, Bihar). Check audited
+  fees (₹17.00 Lakhs (Total)), average placement (₹16.00 LPA), entrance cutoffs
+  (88.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim bodh gaya mba admission 2027'
-  - 'iim bodh gaya fees structure 2027'
-  - 'iim bodh gaya average placement package'
-  - 'iim bodh gaya cutoff 2026 2027'
-  - 'iimbg review 2027'
-  - 'top mba colleges in bodh gaya'
-  - 'best mba colleges in bihar'
-  - 'direct admission in iim bodh gaya'
+  - iim bodh gaya mba admission 2027
+  - iim bodh gaya fees structure 2027
+  - iim bodh gaya average placement package
+  - iim bodh gaya cutoff 2026 2027
+  - iimbg review 2027
+  - top mba colleges in bodh gaya
+  - best mba colleges in bihar
+  - direct admission in iim bodh gaya
 faqs:
-  - question: 'What is the average placement package at IIM Bodh Gaya in 2026-2027?'
-    answer: 'The verified average placement package at IIM Bodh Gaya stands at ₹16.00 LPA, with the median package benchmark at ₹15.00 LPA and highest domestic offers reaching ₹48.58 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Bodh Gaya?'
-    answer: 'IIM Bodh Gaya accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Bodh Gaya?'
-    answer: 'The total course tuition fee is approximately ₹17.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Bodh Gaya?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 88.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Bodh Gaya'
-state: 'Bihar'
+  - question: What is the average placement package at IIM Bodh Gaya in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Bodh Gaya stands at ₹16.00
+      LPA, with the median package benchmark at ₹15.00 LPA and highest domestic
+      offers reaching ₹48.58 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Bodh Gaya?
+    answer: >-
+      IIM Bodh Gaya accepts valid scores from CAT (CAP) followed by
+      institutional profile evaluation and personal interview rounds (GD-PI /
+      WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Bodh Gaya?
+    answer: >-
+      The total course tuition fee is approximately ₹17.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Bodh Gaya?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 88.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Bodh Gaya
+state: Bihar
 ---
 
 # [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +116,7 @@ Placements at **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/)** reflect continuous c
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Bodh Gaya** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

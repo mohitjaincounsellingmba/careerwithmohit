@@ -45,7 +45,7 @@ state: Delhi NCR
 [IIM Jammu](/colleges/iim-jammu), located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
 
 ## 🏛️ Why Choose [IIM Jammu](/colleges/iim-jammu) IPM in 2026?
-IIM Jammu's IPM program focuses on creating globally competitive management professionals with a strong ethical foundation.
+[IIM Jammu](/colleges/iim-jammu)'s IPM program focuses on creating globally competitive management professionals with a strong ethical foundation.
 - **Growing Infrastructure:** A modern campus with cutting-edge academic and residential facilities.
 - **Global Reach:** Increasing focus on international collaborations and exchange opportunities.
 - **IIM Brand Advantage:** Direct entry into the IIM ecosystem right after school.

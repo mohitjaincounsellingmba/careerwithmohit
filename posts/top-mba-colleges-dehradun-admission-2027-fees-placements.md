@@ -67,7 +67,7 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 ## In-Depth College Highlights
 
-### 1. Doon Business School (DBS), Selaqui Dehradun
+### 1. [Doon Business School](/colleges/doon-business-school) (DBS), Selaqui Dehradun
 * **Accreditation:** AICTE approved PGDM and UGC recognized MBA programs.
 * **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/blog/all-about-doon-business-school).
 

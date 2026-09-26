@@ -42,7 +42,7 @@ faqs:
     answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

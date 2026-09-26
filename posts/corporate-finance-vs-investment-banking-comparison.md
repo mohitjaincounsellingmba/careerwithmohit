@@ -1,7 +1,7 @@
 ---
 title: Corporate Finance vs. Investment Banking 2026 — Which Career is Best?
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Choosing between a career in Corporate Finance or Investment Banking? Discover
   the key differences in 2026, including work-life balance, salary, and job

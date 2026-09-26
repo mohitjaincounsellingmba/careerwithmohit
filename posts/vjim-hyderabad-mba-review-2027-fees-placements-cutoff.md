@@ -151,7 +151,7 @@ Graduates regularly secure roles in strategy, financial analysis, product manage
 
 ## 5. Key Programs & Curriculum Specializations
 
-The academic structure at **Vignana Jyothi Institute of Management (VJIM Hyderabad)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+The academic structure at **[Vignana Jyothi Institute of Management (VJIM Hyderabad)](/colleges/vjim-hyderabad)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
 
 ### Popular Specialization Tracks:
 - **PGDM (General)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
@@ -165,7 +165,7 @@ The academic structure at **Vignana Jyothi Institute of Management (VJIM Hyderab
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **Vignana Jyothi Institute of Management (VJIM Hyderabad)** compares against peer business schools in its category:
+Here is how **[Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM Hyderabad)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

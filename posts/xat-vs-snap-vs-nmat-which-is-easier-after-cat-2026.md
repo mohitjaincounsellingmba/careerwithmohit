@@ -21,7 +21,7 @@ ab_test:
       description: >-
         Didn't score high in CAT 2026? Learn how XAT, SNAP, and NMAT offer
         second chances for top-tier B-schools with cutoffs and strategies.
-category: MBA
+category: Exams
 description: >-
   Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,
   difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and

@@ -3,7 +3,7 @@ title: >-
   Data Analytics Scope After PGDM: Why JKBS Gurgaon's DABI Program is a Game
   Changer
 date: '2026-05-28'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Explore the massive scope of data analytics after PGDM. Learn why the DABI
   (Data Analytics and Business Intelligence) program at JKBS Gurgaon is the best

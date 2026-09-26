@@ -183,9 +183,9 @@ When competing against 3 lakh aspirants, having a clear view of your target inst
 | College Name | Total Fees (2-Year) | Avg Placement Package | ROI & Admission Eligibility / Expected Cutoff |
 | :--- | :--- | :--- | :--- |
 | **[FMS Delhi](/colleges/fms-delhi) (University of Delhi)** | ₹2.40 Lakhs | ₹34.10 LPA | Highest ROI in Asia · CAT 99.2+ %ile · Selection based heavily on VARC |
-| **IIM Ahmedabad (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
-| **IIM Bangalore (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
-| **IIM Calcutta (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
+| **[IIM Bangalore](/colleges/iim-bangalore) (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
+| **[IIM Calcutta](/colleges/iim-calcutta) (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai) (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon) (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
 | **[IIT Bombay](/colleges/iit-bombay) (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |

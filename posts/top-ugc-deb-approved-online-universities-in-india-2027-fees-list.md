@@ -147,7 +147,7 @@ Yes, absolutely. According to the UGC Gazette Notification 2020, degrees obtaine
 Yes. Online degrees are specifically designed for working professionals, featuring weekend live masterclasses, self-paced recorded lecture archives, and home-proctored online semester exams.
 
 ### Which online universities have WES approval for Canada PR?
-Amity University Online, Jain University Online, LPU Online, [Manipal University Jaipur](/colleges/manipal-university-jaipur), and D.Y. Patil University hold recognized credential equivalence with World Education Services (WES).
+[Amity University](/colleges/amity-noida) Online, [Jain University](/colleges/jain-university) Online, LPU Online, [Manipal University Jaipur](/colleges/manipal-university-jaipur), and D.Y. Patil University hold recognized credential equivalence with World Education Services (WES).
 
 ---
 

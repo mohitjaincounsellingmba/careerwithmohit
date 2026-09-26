@@ -30,7 +30,7 @@ faqs:
       Communication skills, problem-solving, team collaboration, adaptability,
       and emotional intelligence are highly valued soft skills across all
       industries.
-category: Certifications & Skills
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.

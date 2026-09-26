@@ -42,12 +42,12 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CUET UG 2026 Score Calculator: Marks vs Percen...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **Common University Entrance Test Undergraduate (CUET UG) 2026** is the single window for admission to all Central Universities in India, including **Delhi University (DU)**, **BHU**, and **JNU**. With millions of students competing across multiple shifts, understanding your raw score and expected percentile is the first step toward securing your seat.
 

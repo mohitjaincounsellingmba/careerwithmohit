@@ -112,7 +112,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[LM Thapar School of Mana
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **LM Thapar School of Management (LMTSM)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / MAT / CMAT / NMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

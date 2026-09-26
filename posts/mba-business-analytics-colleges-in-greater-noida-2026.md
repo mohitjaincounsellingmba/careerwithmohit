@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Greater Noida 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Compare the best MBA Business Analytics colleges in Greater Noida. Get details
   on fees, placements, and programs for BIMTECH, Sharda, GNIOT, and GL Bajaj for

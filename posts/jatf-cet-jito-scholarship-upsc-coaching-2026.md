@@ -43,12 +43,12 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for JATF CET 2026: JITO Scholarship & Free UPSC Co...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Preparing for the UPSC Civil Services Examination (IAS, IPS, IRS) or State Public Service Commissions (SPSC) is a rigorous and expensive journey. Recognizing this, the **Jain International Trade Organisation (JITO)**, through its **JATF (JITO Administrative Training Foundation)** wing, offers an incredible scholarship and coaching program to empower students from the Jain community.
 

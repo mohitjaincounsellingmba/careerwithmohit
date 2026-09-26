@@ -53,7 +53,7 @@ state: Delhi NCR
 > - **Top Ranked B-Schools**: **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Jaipur**, **[IIHMR University](/colleges/iihmr-university) (Healthcare Leader)**, **[MNIT Jaipur](/colleges/mnit-jaipur) (DMS)**, **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)**, and **JKLU**.
 > - **Fee & Placement Profile**: Total course fees range from ₹2.5 Lakhs (MNIT) to ₹12.5 Lakhs (Jaipuria / Manipal), with average domestic CTCs ranging between ₹7.0 LPA and ₹11.2 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Jaipur?" description="Compare [Jaipuria Jaipur](/colleges/jaipuria-jaipur), IIHMR University, MNIT, Manipal, and JKLU. Get 1-on-1 profile evaluation & admission support from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Jaipur?" description="Compare [Jaipuria Jaipur](/colleges/jaipuria-jaipur), [IIHMR University](/colleges/iihmr-university), MNIT, Manipal, and JKLU. Get 1-on-1 profile evaluation & admission support from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
 
 Jaipur, the capital of Rajasthan, has transformed into a dynamic commercial, tourism, and IT/BPO hub. With the rapid expansion of the Mahindra World City Multi-Product SEZ, Sitapura Industrial Area, and high-speed expressway connectivity to Delhi NCR, studying management in Jaipur combines lower living costs with high corporate placement access.
 
@@ -84,7 +84,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [General PGDM Leader]       [Healthcare & Hospital Icon]    [High-ROI Government]
-  Jaipuria Institute Jaipur   IIHMR University Jaipur         MNIT Jaipur (DMS)
+  Jaipuria Institute Jaipur   IIHMR University Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur) (DMS)
   - ₹11.2 LPA Avg Domestic    - India's #1 Hospital MBA       - ₹2.8L Total Fee
 ```
 
@@ -106,7 +106,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 ### What is the placement scenario for MBA Hospital Management at IIHMR Jaipur?
 IIHMR University records virtually 100% placement with average packages hovering around ₹9.80 LPA and top packages touching ₹18 LPA in hospital chains, pharmaceutical multinationals, and global health research organizations.
 
-### Can I get admission in Jaipuria Jaipur with MAT score?
+### Can I get admission in [Jaipuria Jaipur](/colleges/jaipuria-jaipur) with MAT score?
 Yes, Jaipuria Jaipur accepts MAT scores with a minimum threshold of **75 to 80 percentile**, followed by Extempore/Case Discussion and Personal Interview rounds.
 
 ### What are the best affordable MBA colleges in Jaipur?
@@ -114,7 +114,7 @@ Yes, Jaipuria Jaipur accepts MAT scores with a minimum threshold of **75 to 80 p
 
 ---
 
-### [InquiryCard title="Planning Your Jaipur MBA Admissions?" description="Get unbiased counseling for Jaipuria Jaipur, IIHMR, MNIT, and Manipal University Jaipur from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
+### [InquiryCard title="Planning Your Jaipur MBA Admissions?" description="Get unbiased counseling for Jaipuria Jaipur, IIHMR, MNIT, and [Manipal University Jaipur](/colleges/manipal-university-jaipur) from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
 
 ---
 

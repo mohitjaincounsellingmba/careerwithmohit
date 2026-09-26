@@ -149,7 +149,7 @@ Graduates regularly secure roles in strategy, financial analysis, product manage
 
 ## 5. Key Programs & Curriculum Specializations
 
-The academic structure at **Institute of Public Enterprise (IPE Hyderabad)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+The academic structure at **[Institute of Public Enterprise (IPE Hyderabad)](/colleges/ipe-hyderabad)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
 
 ### Popular Specialization Tracks:
 - **PGDM (General)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
@@ -165,7 +165,7 @@ The academic structure at **Institute of Public Enterprise (IPE Hyderabad)** ble
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **Institute of Public Enterprise (IPE Hyderabad)** compares against peer business schools in its category:
+Here is how **[Institute of Public Enterprise](/colleges/institute-of-public-enterprise) (IPE Hyderabad)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

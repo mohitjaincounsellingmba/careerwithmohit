@@ -123,7 +123,7 @@ Admission to **[IIM Ahmedabad](/colleges/iim-ahmedabad)** follows a holistic sel
 
 ---
 
-## 5. Why Choose IIM Ahmedabad? (Pros & Cons)
+## 5. Why Choose [IIM Ahmedabad](/colleges/iim-ahmedabad)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Ahmedabad and across major commercial hubs in India.

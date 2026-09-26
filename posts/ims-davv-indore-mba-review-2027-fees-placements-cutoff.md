@@ -143,7 +143,7 @@ Graduates regularly secure roles in strategy, financial analysis, product manage
 
 ## 5. Key Programs & Curriculum Specializations
 
-The academic structure at **Institute of Management Studies, DAVV (IMS DAVV)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+The academic structure at **[Institute of Management Studies, DAVV (IMS DAVV)](/colleges/ims-davv-indore)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
 
 ### Popular Specialization Tracks:
 - **MBA Financial Administration**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
@@ -159,7 +159,7 @@ The academic structure at **Institute of Management Studies, DAVV (IMS DAVV)** b
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **Institute of Management Studies, DAVV (IMS DAVV)** compares against peer business schools in its category:
+Here is how **[Institute of Management Studies](/colleges/institute-of-management-studies), DAVV (IMS DAVV)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

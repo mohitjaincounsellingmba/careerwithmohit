@@ -95,7 +95,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **New Delhi Institute of Management (NDIM)** (NDIM Delhi) |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** (NDIM Delhi) |
 | **Campus Location** | Tughlakabad Institutional Area, South Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM (Dual Specialization: Marketing, Finance, HR, FinTech, Business Analytics, Supply Chain)** |
 | **Degree / Diploma Type** | **PGDM** |

@@ -1,7 +1,7 @@
 ---
 title: Top MBA Marketing Colleges in Chennai 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Compare the best MBA Marketing colleges in Chennai. Get details on fees,
   placements, and cutoffs for Great Lakes, DoMS IIT Madras, LIBA, and XIME

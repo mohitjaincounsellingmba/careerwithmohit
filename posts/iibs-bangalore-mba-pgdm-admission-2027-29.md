@@ -234,7 +234,7 @@ graph TD
 The verified total course fee for the 2-year MBA / PGDM program is **₹8.95 Lakhs for PGDM / ₹5.25 Lakhs for MBA** (**₹4.47 Lakhs / Year (PGDM)**).
 
 ### Q2. Is IIBS Bangalore approved by AICTE/UGC?
-Yes, International Institute of Business Studies (IIBS) is AICTE Approved · Affiliated to Bangalore University · Govt. of Karnataka.
+Yes, [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore) is AICTE Approved · Affiliated to Bangalore University · Govt. of Karnataka.
 
 ### Q3. What is the average and highest placement package at IIBS Bangalore?
 The average CTC stands at **₹8.20 LPA** (with top 25% averaging **₹11.00 LPA**), while the highest package has reached **₹48.00 LPA (International / Peak)**.

@@ -1,7 +1,7 @@
 ---
 title: Top MBA Marketing Colleges in Pune 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top B-schools for Marketing in Pune? Compare fees, SNAP, MAH CET
   cutoffs, and placements for SIBM, PUMBA, IMED, and PIBM Pune in this 2026

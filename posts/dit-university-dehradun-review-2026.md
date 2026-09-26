@@ -19,7 +19,7 @@ keywords:
   - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
-category: Certifications & Skills
+category: Jobs & Careers
 location: Dehradun
 faqs:
   - question: 'Is DIT University, Dehradun a good choice for higher education in 2026?'

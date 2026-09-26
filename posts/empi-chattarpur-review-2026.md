@@ -123,7 +123,7 @@ Admission to **[EMPI Business School](/colleges/empi-delhi)** follows a holistic
 
 ---
 
-## 5. Why Choose EMPI Business School? (Pros & Cons)
+## 5. Why Choose [EMPI Business School](/colleges/empi-delhi)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Chattarpur and across major commercial hubs in India.

@@ -124,7 +124,7 @@ Admission to **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** follows a holistic
 
 ---
 
-## 5. Why Choose XLRI Jamshedpur? (Pros & Cons)
+## 5. Why Choose [XLRI Jamshedpur](/colleges/xlri-jamshedpur)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Jamshedpur and across major commercial hubs in India.

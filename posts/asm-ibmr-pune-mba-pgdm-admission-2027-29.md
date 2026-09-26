@@ -90,7 +90,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **ASM’s Institute of Business Management & Research (IBMR)** (ASM IBMR Pune) |
+| **Institution Name** | **ASM’s Institute of Business Management & Research (IBMR)** ([ASM IBMR](/colleges/asm-ibmr) Pune) |
 | **Campus Location** | Chinchwad, Pune, Maharashtra |
 | **Program Offered** | **MBA (Affiliated to SPPU) & Autonomous PGDM** |
 | **Degree / Diploma Type** | **MBA / PGDM** |

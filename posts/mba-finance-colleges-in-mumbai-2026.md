@@ -1,7 +1,7 @@
 ---
 title: Top MBA Finance Colleges in Mumbai 2026 — Placements & Fees
 date: '2026-07-16'
-category: MBA
+category: Exams
 description: >-
   Dreaming of Investment Banking? Explore the best MBA Finance colleges in
   Mumbai. Compare JBIMS, SPJIMR, NMIMS, and SIMSREE fees and placements for

@@ -44,7 +44,7 @@ faqs:
       physical copies will be sent by post.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 
 The Common University Entrance Test (CUET) PG 2026 has concluded, and the wait for the results is often the most stressful period for students. Whether you are aiming for Delhi University, BHU, or TISS, your CUET PG scorecard will determine your seat in the 2026 academic session.

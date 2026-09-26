@@ -1,7 +1,7 @@
 ---
 title: 'How to Crack XAT Exam 2026: Preparation Strategy & Decision Making Tips'
 date: '2026-06-04'
-category: MBA
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,

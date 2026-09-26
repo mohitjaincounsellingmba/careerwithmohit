@@ -78,7 +78,7 @@ category: Exams
 * **Accreditation:** Globally AACSB accredited.
 * **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
 
-### 2. XIME Bangalore
+### 2. [XIME Bangalore](/colleges/xime-bangalore)
 * **Location:** Located in Electronic City Phase 1 right beside Infosys and HP campuses.
 * **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/blog/all-about-xime-bangalore).
 

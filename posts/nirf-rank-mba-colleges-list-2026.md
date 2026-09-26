@@ -141,14 +141,14 @@ Evaluating an MBA program solely on ranking can be misleading without factoring 
 | College Name | Total Fees (2 Years) | Avg Placement Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **FMS New Delhi** | ₹2.00 – ₹2.50 Lakhs | **₹34.10 LPA** | **Highest ROI in India**; CAT 99.3%+; 100% Placements |
-| **IIM Ahmedabad** | ₹25.00 – ₹26.50 Lakhs | **₹34.36 LPA** | Elite Brand Value; CAT 99.6%+ & Academic Diversity |
-| **IIM Bangalore** | ₹24.50 – ₹26.00 Lakhs | **₹35.92 LPA** | Top Consulting & Tech Hub; CAT 99.4%+ / GMAT |
-| **IIM Calcutta** | ₹25.00 – ₹27.00 Lakhs | **₹35.07 LPA** | India's Premier Finance B-School; CAT 99.5%+ |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹25.00 – ₹26.50 Lakhs | **₹34.36 LPA** | Elite Brand Value; CAT 99.6%+ & Academic Diversity |
+| **[IIM Bangalore](/colleges/iim-bangalore)** | ₹24.50 – ₹26.00 Lakhs | **₹35.92 LPA** | Top Consulting & Tech Hub; CAT 99.4%+ / GMAT |
+| **[IIM Calcutta](/colleges/iim-calcutta)** | ₹25.00 – ₹27.00 Lakhs | **₹35.07 LPA** | India's Premier Finance B-School; CAT 99.5%+ |
 | **IIT Delhi (DMS)** | ₹12.00 – ₹13.50 Lakhs | **₹25.82 LPA** | High ROI; CAT 98%+ (Engineering / Science stream) |
-| **IIM Lucknow** | ₹20.50 – ₹22.00 Lakhs | **₹30.00 LPA** | Consulting & FMCG Powerhouse; CAT 98.8%+ |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | ₹20.50 – ₹22.00 Lakhs | **₹30.00 LPA** | Consulting & FMCG Powerhouse; CAT 98.8%+ |
 | **IIM Mumbai** *(NITIE)* | ₹15.00 – ₹16.50 Lakhs | **₹29.70 LPA** | Supply Chain & Operations Capital; CAT 98%+ |
 | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | ₹26.00 – ₹28.00 Lakhs | **₹29.89 LPA** | #1 HR & General Management; XAT 96%+ / GMAT |
-| **IIT Bombay (SJMSOM)** | ₹14.00 – ₹15.50 Lakhs | **₹28.88 LPA** | Exceptional ROI & Tech Placement; CAT 98.5%+ |
+| **[IIT Bombay](/colleges/iit-bombay) (SJMSOM)** | ₹14.00 – ₹15.50 Lakhs | **₹28.88 LPA** | Exceptional ROI & Tech Placement; CAT 98.5%+ |
 | **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 – ₹24.00 Lakhs | **₹33.00 LPA** | Top Tier Placements & Autumn Internships; CAT/XAT 85%+ Profile |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹24.00 – ₹25.50 Lakhs | **₹25.50 LPA** | Top NCR Corporate Network; CAT 95%+ |
 | **[SIBM Pune](/colleges/sibm-pune)** | ₹24.00 – ₹26.00 Lakhs | **₹28.16 LPA** | Premier Symbiosis Campus; SNAP 98.5%+ |
@@ -170,7 +170,7 @@ The **Indian Institutes of Management (IIMs)** continue their dominance over the
          ┌─────────────────────────┼─────────────────────────┐
          ▼                         ▼                         ▼
   Generation 1 (BLACKI)     Generation 2 (New IIMs)   Generation 3 (Baby IIMs)
-  • IIM Ahmedabad (#1)      • IIM Udaipur (#18)       • [IIM Nagpur](/colleges/iim-nagpur) (#40)
+  • IIM Ahmedabad (#1)      • [IIM Udaipur](/colleges/iim-udaipur) (#18)       • [IIM Nagpur](/colleges/iim-nagpur) (#40)
   • IIM Bangalore (#2)      • [IIM Raipur](/colleges/iim-raipur) (#15)        • IIM Visakhapatnam (#39)
   • IIM Kozhikode (#3)      • [IIM Rohtak](/colleges/iim-rohtak) (#16)        • [IIM Amritsar](/colleges/iim-amritsar) (#43)
   • IIM Lucknow (#5)        • [IIM Ranchi](/colleges/iim-ranchi) (#23)        • [IIM Bodh Gaya](/colleges/iim-bodh-gaya) (#41)
@@ -202,7 +202,7 @@ For candidates exploring non-IIM avenues through **XAT, SNAP, NMAT, or CMAT**, p
 * **[XLRI Jamshedpur](/blog/all-about-xlri-jamshedpur)** (NIRF #9): Renowned as the oldest and most prestigious institution for Human Resource Management (HRM) and Business Management (BM) in South Asia.
 * **[MDI Gurgaon](/blog/all-about-mdi-gurgaon)** (NIRF #11): Located in the heart of Delhi NCR’s corporate hub, leading in Strategy, Marketing, and BFSI placements.
 * **[SPJIMR Mumbai](/blog/all-about-spjimr-mumbai)** (NIRF #17): Celebrated for its unique Autumn Internship model, non-classroom learning initiatives (DOCC, Abhyudaya), and top consulting recruitment.
-* **SIBM Pune** (NIRF #19): The flagship institution under Symbiosis International University, known for FMCG Marketing, HR, and Corporate Finance.
+* **[SIBM Pune](/colleges/sibm-pune)** (NIRF #19): The flagship institution under Symbiosis International University, known for FMCG Marketing, HR, and Corporate Finance.
 * **[MICA Ahmedabad](/blog/mica-ahmedabad-review-2026)** (NIRF #47): The premier destination for Brand Management, Strategic Advertising, and Digital Marketing leadership.
 
 ---
@@ -243,12 +243,12 @@ NIRF evaluates institutions across **5 core pillars** with pre-defined percentag
 Securing admission into the top 50 NIRF management institutes requires planning across national MBA entrance exams. Below are the key entrance exams and their expected percentile benchmarks:
 
 ### 1. CAT (Common Admission Test)
-* **Target Institutes**: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, IIM Mumbai, FMS Delhi, IIT Delhi, IIT Bombay, SPJIMR.
+* **Target Institutes**: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, IIM Mumbai, [FMS Delhi](/colleges/fms-delhi), IIT Delhi, IIT Bombay, SPJIMR.
 * **Expected Cutoffs**: 98.5% to 99.8%+ for Top 10; 92% to 96% for New/Baby IIMs.
 * **Preparation Guide**: Explore our complete [CAT Exam Strategy & Syllabus Guide](/blog/all-about-cat-exam).
 
 ### 2. XAT (Xavier Aptitude Test)
-* **Target Institutes**: XLRI Jamshedpur, XLRI Delhi-NCR, XIMB Bhubaneswar, IMT Ghaziabad, TAPMI, GIM Goa, [FORE School of Management](/colleges/fore-school-delhi).
+* **Target Institutes**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIMB Bhubaneswar, IMT Ghaziabad, TAPMI, GIM Goa, [FORE School of Management](/colleges/fore-school-delhi).
 * **Expected Cutoffs**: 93% to 96%+ for XLRI; 85% to 90% for XIMB, IMT, and GIM.
 * **Preparation Guide**: Check our detailed [XAT Exam Comprehensive Overview](/blog/all-about-xat-exam).
 
@@ -258,7 +258,7 @@ Securing admission into the top 50 NIRF management institutes requires planning 
 
 ### 4. NMAT by GMAC
 * **Target Institutes**: [NMIMS Mumbai](/colleges/nmims-mumbai), TAPMI, K J Somaiya, SDA Bocconi Asia Center, XIM University.
-* **Expected Score Cutoffs**: 232–248+ for NMIMS Mumbai Core MBA.
+* **Expected Score Cutoffs**: 232–248+ for [NMIMS Mumbai](/colleges/nmims-mumbai) Core MBA.
 
 ---
 

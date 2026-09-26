@@ -1,7 +1,7 @@
 ---
 title: Top MBA HR Colleges in Pune 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Compare the best B-schools for MBA HR in Pune. Discover fees, SNAP cutoffs,
   and placements for SCMHRD, SIBM, PUMBA, and PIBM Pune in this 2026 guide.

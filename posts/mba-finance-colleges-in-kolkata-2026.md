@@ -1,7 +1,7 @@
 ---
 title: Top MBA Finance Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-16'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA Finance colleges in Kolkata? Review 2026 guide comparing
   IIM Calcutta, IMI Kolkata, and IISWBM placements and fees.

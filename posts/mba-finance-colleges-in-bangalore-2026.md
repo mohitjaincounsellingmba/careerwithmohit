@@ -1,7 +1,7 @@
 ---
 title: Top MBA Finance Colleges in Bangalore 2026 — Placements & Fees
 date: '2026-07-16'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA Finance colleges in Bangalore? Discover 2026 fees,
   packages, and cutoffs for IIM Bangalore, SIBM, Christ, and XIME Bangalore.

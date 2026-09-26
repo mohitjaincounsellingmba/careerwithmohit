@@ -3,7 +3,7 @@ title: >-
   Latest WAT/GD Topics for MBA Admissions [2026] — Current Affairs, Business,
   Tech & Abstract
 date: '2026-08-14'
-category: MBA
+category: Exams
 description: >-
   Master 50+ latest WAT and GD topics for MBA admissions 2027–2029 at IIMs,
   XLRI, FMS, Symbiosis, and top B-schools. Includes frameworks, sample essays,

@@ -53,7 +53,7 @@ state: Karnataka
 > - **Top-Ranked B-Schools**: **[IIM Bangalore](/colleges/iim-bangalore)** (Top 2 National), **SIBM Bengaluru**, **JAGSoM (IFIM)**, **[XIME Bangalore](/colleges/xime-bangalore)**, **Christ University**, and **[TAPMI Bengaluru](/colleges/tapmi-bangalore)**.
 > - **Fee & Placement Snapshot**: Program fees range from ₹8.5 Lakhs to ₹25 Lakhs, with average salary packages touching ₹8.5 LPA to ₹33.8 LPA.
 
-### [InquiryCard title="Targeting Top Bangalore Management Colleges?" description="Compare IIM Bangalore, SIBM Bengaluru, JAGSoM, XIME, Christ, and Alliance. Get verified placement insights & cut-off guidance from Mohit Jain." cta="Book Free Bangalore Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Bangalore Management Colleges?" description="Compare [IIM Bangalore](/colleges/iim-bangalore), SIBM Bengaluru, JAGSoM, XIME, Christ, and Alliance. Get verified placement insights & cut-off guidance from Mohit Jain." cta="Book Free Bangalore Consultation" type="admission"]
 
 Bangalore is India's tech and venture capital capital. As the headquarters for Infosys, Wipro, Flipkart, Swiggy, Zerodha, and thousands of tech unicorns and global capability centres (GCCs), business graduates in Bangalore enjoy unrivaled opportunities in **Product Management, Technology Consulting, Growth Marketing, and FinTech Analytics**.
 
@@ -99,7 +99,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 ### 2. The Electronic City Corporate Hub (SIBM, JAGSoM, XIME, WeSchool)
 - **SIBM Bengaluru**: Symbiosis’s southern crown jewel, excelling in Business Analytics and Quantitative Finance.
 - **JAGSoM (AACSB Accredited)**: Pioneer in domain-specific specialization pathways (MarTech, FinTech, Service Operations) with strong domestic and global alumni support.
-- **XIME Bangalore**: Founded by Prof. J. Philip (former Director, IIM Bangalore). High academic discipline, ethical leadership training, and 100% placement record.
+- **[XIME Bangalore](/colleges/xime-bangalore)**: Founded by Prof. J. Philip (former Director, IIM Bangalore). High academic discipline, ethical leadership training, and 100% placement record.
 
 ### 3. Christ University (School of Business and Management)
 - **Brand Reputation & Discipline**: Highly respected across South India for academic rigor, ethical grooming, and consistent campus placements with 300+ visiting corporate recruiters.

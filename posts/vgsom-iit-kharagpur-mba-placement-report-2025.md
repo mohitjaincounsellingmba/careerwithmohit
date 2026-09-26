@@ -28,7 +28,7 @@ faqs:
       Candidates require a 4-year Bachelor's degree in engineering/technology or
       Master's in Science/Economics. The CAT cutoff for General category
       typically hovers between 95+ and 97+ percentile.
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

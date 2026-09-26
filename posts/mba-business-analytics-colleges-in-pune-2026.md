@@ -1,7 +1,7 @@
 ---
 title: Top MBA Business Analytics Colleges in Pune 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Compare the best B-schools for MBA Business Analytics in Pune. Get details on
   SNAP cutoffs, fees, and placement packages for SCMHRD, SIBM, and PUMBA in

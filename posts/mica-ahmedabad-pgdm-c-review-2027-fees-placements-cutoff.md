@@ -1,28 +1,51 @@
 ---
 title: 'MICA Ahmedabad MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for MICA Ahmedabad (Ahmedabad, Gujarat). Check audited fees (₹23.00 Lakhs (Total)), average placement (₹20.09 LPA), entrance cutoffs (80.0+ CAT / XAT + MICAT Entrance), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for MICA Ahmedabad (Ahmedabad, Gujarat). Check
+  audited fees (₹23.00 Lakhs (Total)), average placement (₹20.09 LPA), entrance
+  cutoffs (80.0+ CAT / XAT + MICAT Entrance), and admission tips by Mohit Jain.
 keywords:
-  - 'mica ahmedabad mba admission 2027'
-  - 'mica ahmedabad fees structure 2027'
-  - 'mica ahmedabad average placement package'
-  - 'mica ahmedabad cutoff 2026 2027'
-  - 'mica ahmedabad review 2027'
-  - 'top mba colleges in ahmedabad'
-  - 'best mba colleges in gujarat'
-  - 'direct admission in mica ahmedabad'
+  - mica ahmedabad mba admission 2027
+  - mica ahmedabad fees structure 2027
+  - mica ahmedabad average placement package
+  - mica ahmedabad cutoff 2026 2027
+  - mica ahmedabad review 2027
+  - top mba colleges in ahmedabad
+  - best mba colleges in gujarat
+  - direct admission in mica ahmedabad
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: 'What is the average placement package at MICA Ahmedabad in 2026-2027?'
-    answer: 'The verified average placement package at MICA Ahmedabad stands at ₹20.09 LPA, with the median package benchmark at ₹19.00 LPA and highest domestic offers reaching ₹36.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at MICA Ahmedabad?'
-    answer: 'MICA Ahmedabad accepts valid scores from XAT, CAT, GMAT + MICAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at MICA Ahmedabad?'
-    answer: 'The total course tuition fee is approximately ₹23.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for MICA Ahmedabad?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 80.0+ CAT / XAT + MICAT Entrance. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Ahmedabad'
-state: 'Gujarat'
+  - question: What is the average placement package at MICA Ahmedabad in 2026-2027?
+    answer: >-
+      The verified average placement package at MICA Ahmedabad stands at ₹20.09
+      LPA, with the median package benchmark at ₹19.00 LPA and highest domestic
+      offers reaching ₹36.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at MICA Ahmedabad?
+    answer: >-
+      MICA Ahmedabad accepts valid scores from XAT, CAT, GMAT + MICAT followed
+      by institutional profile evaluation and personal interview rounds (GD-PI /
+      WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at MICA
+      Ahmedabad?
+    answer: >-
+      The total course tuition fee is approximately ₹23.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for MICA Ahmedabad?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 80.0+
+      CAT / XAT + MICAT Entrance. Profile diversity and corporate work
+      experience may offer relaxed considerations.
+location: Ahmedabad
+state: Gujarat
 ---
 
 # [MICA Ahmedabad](/colleges/mica-ahmedabad/) Review 2027: Fees, Cutoff, Placements & Admission ROI

@@ -42,7 +42,7 @@ faqs:
       cancellation with a full refund (minus a processing charge of up to INR
       1,000) was June 23, 2026, which is exactly one week before the final
       admission date of June 30, 2026.
-category: MBA
+category: Exams
 location: Delhi NCR
 state: Delhi NCR
 ---

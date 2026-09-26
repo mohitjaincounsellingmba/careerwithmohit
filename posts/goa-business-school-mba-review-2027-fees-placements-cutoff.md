@@ -105,7 +105,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Goa Business School, Goa
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Goa Business School, Goa University** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Goa Business School, Goa University](/colleges/goa-business-school)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / CMAT / ATMA). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

@@ -38,7 +38,7 @@ faqs:
       Operations & Supply Chain, and Information Management (IM).
 location: Mumbai
 state: Maharashtra
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

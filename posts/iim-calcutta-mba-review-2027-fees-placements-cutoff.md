@@ -1,28 +1,48 @@
 ---
 title: 'IIMC MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Calcutta (Kolkata, West Bengal). Check audited fees (₹27.00 Lakhs (Total)), average placement (₹35.07 LPA), entrance cutoffs (99.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Calcutta (Kolkata, West Bengal). Check
+  audited fees (₹27.00 Lakhs (Total)), average placement (₹35.07 LPA), entrance
+  cutoffs (99.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim calcutta mba admission 2027'
-  - 'iim calcutta fees structure 2027'
-  - 'iim calcutta average placement package'
-  - 'iim calcutta cutoff 2026 2027'
-  - 'iimc review 2027'
-  - 'top mba colleges in kolkata'
-  - 'best mba colleges in west bengal'
-  - 'direct admission in iim calcutta'
+  - iim calcutta mba admission 2027
+  - iim calcutta fees structure 2027
+  - iim calcutta average placement package
+  - iim calcutta cutoff 2026 2027
+  - iimc review 2027
+  - top mba colleges in kolkata
+  - best mba colleges in west bengal
+  - direct admission in iim calcutta
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 faqs:
-  - question: 'What is the average placement package at IIM Calcutta in 2026-2027?'
-    answer: 'The verified average placement package at IIM Calcutta stands at ₹35.07 LPA, with the median package benchmark at ₹33.60 LPA and highest domestic offers reaching ₹1.20 Crore.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Calcutta?'
-    answer: 'IIM Calcutta accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Calcutta?'
-    answer: 'The total course tuition fee is approximately ₹27.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Calcutta?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 99.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Kolkata'
-state: 'West Bengal'
+  - question: What is the average placement package at IIM Calcutta in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Calcutta stands at ₹35.07
+      LPA, with the median package benchmark at ₹33.60 LPA and highest domestic
+      offers reaching ₹1.20 Crore.
+  - question: What entrance exams are accepted for 2027 admission at IIM Calcutta?
+    answer: >-
+      IIM Calcutta accepts valid scores from CAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Calcutta?
+    answer: >-
+      The total course tuition fee is approximately ₹27.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Calcutta?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 99.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Kolkata
+state: West Bengal
 ---
 
 # [IIM Calcutta](/colleges/iim-calcutta/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +121,7 @@ Placements at **[IIM Calcutta](/colleges/iim-calcutta/)** reflect continuous cor
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Calcutta** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Calcutta](/colleges/iim-calcutta)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT**) and achieve the minimum qualifying percentile/score.

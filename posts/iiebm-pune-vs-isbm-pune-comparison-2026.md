@@ -1,7 +1,7 @@
 ---
 title: 'IIEBM Pune vs ISB&M Pune: Which is Better for SAP ERP Specialization? (2026)'
 date: '2026-04-22'
-category: MBA
+category: Exams
 description: >-
   A detailed comparison between IIEBM Pune and ISB&M Pune. Learn why IIEBM Indus
   Business School is the winner for SAP ERP specialization and techno-functional

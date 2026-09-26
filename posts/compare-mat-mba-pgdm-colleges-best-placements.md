@@ -1,7 +1,7 @@
 ---
 title: 'Compare MAT MBA / PGDM Colleges: Best Placements & Fees 2026'
 date: '2026-06-24'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Compare MAT
   MBA / PGDM Colleges: Best Placements & Fees 2026. Check updated fees,

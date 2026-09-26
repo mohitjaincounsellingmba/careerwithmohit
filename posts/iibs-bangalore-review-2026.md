@@ -175,8 +175,8 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 ### Q1. What is the average salary package at [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore) in 2026?
 The average package offered during campus placements at **[International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS)** is approximately **₹8.2 LPA**, with top quartile students securing significantly higher packages up to **₹48.0 LPA**.
 
-### Q2. Which entrance exams are accepted for MBA/PGDM admission at International Institute of Business Studies (IIBS)?
-**International Institute of Business Studies (IIBS)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
+### Q2. Which entrance exams are accepted for MBA/PGDM admission at [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)?
+**[International Institute of Business Studies](/colleges/international-institute-of-business-studies) (IIBS)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
 
 ### Q3. What is the total fee for the MBA program at International Institute of Business Studies (IIBS)?
 The total tuition fee for the complete 2-year program is **₹5.25L - ₹8.95L (Total)**. Additional charges apply for hostel accommodations and mess facilities.

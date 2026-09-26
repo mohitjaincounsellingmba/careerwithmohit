@@ -1,7 +1,7 @@
 ---
 title: 'JIMS Rohini vs FIIB Delhi: Which is Better for PGDM? (2026)'
 date: '2026-03-26'
-category: MBA
+category: Exams
 description: >-
   A detailed comparison between JIMS Rohini and FIIB Delhi. Compare their fees,
   placements, location advantage, and ROI to find out why FIIB has a strong edge

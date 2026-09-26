@@ -112,7 +112,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[PSG Institute of Managem
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **PSG Institute of Management (PSGIM)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[PSG Institute of Management (PSGIM)](/colleges/psg-institute-of-management)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / MAT / TANCET / ATMA). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

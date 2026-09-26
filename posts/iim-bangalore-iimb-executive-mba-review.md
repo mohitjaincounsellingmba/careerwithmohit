@@ -19,7 +19,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: What is the eligibility for EPGP at IIM Bangalore?
     answer: >-

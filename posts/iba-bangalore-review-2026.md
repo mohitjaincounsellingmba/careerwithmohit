@@ -131,7 +131,7 @@ Admission to **[Indus Business Academy](/colleges/indus-business-academy) (IBA B
 
 ---
 
-## 5. Why Choose Indus Business Academy (IBA Bangalore)? (Pros & Cons)
+## 5. Why Choose [Indus Business Academy](/colleges/indus-business-academy) (IBA Bangalore)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Kanakapura Road and across major commercial hubs in India.

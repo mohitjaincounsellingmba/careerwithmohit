@@ -39,7 +39,7 @@ faqs:
     answer: "Yes. NDIM has unique collaborations, including the \"Japan-India Institute for Manufacturing\" (JIM), offering students international perspectives and specialized technical-management training.\n\n[\U0001F449 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison)\n\n**Make the Legacy Move.**\nAt **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.\n\n[\U0001F449 Get Expert Admission Help for NDIM!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

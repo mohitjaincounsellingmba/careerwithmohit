@@ -125,7 +125,7 @@ Admission to **[FORE School of Management](/colleges/fore-school-delhi) Delhi** 
 
 ---
 
-## 5. Why Choose FORE School of Management Delhi? (Pros & Cons)
+## 5. Why Choose [FORE School of Management](/colleges/fore-school-delhi) Delhi? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in New Delhi and across major commercial hubs in India.

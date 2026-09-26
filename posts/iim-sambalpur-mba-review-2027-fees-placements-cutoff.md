@@ -1,28 +1,43 @@
 ---
 title: 'IIM-Sambalpur MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Sambalpur (Sambalpur, Odisha). Check audited fees (₹15.10 Lakhs (Total)), average placement (₹16.64 LPA), entrance cutoffs (88.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Sambalpur (Sambalpur, Odisha). Check audited
+  fees (₹15.10 Lakhs (Total)), average placement (₹16.64 LPA), entrance cutoffs
+  (88.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim sambalpur mba admission 2027'
-  - 'iim sambalpur fees structure 2027'
-  - 'iim sambalpur average placement package'
-  - 'iim sambalpur cutoff 2026 2027'
-  - 'iim-sambalpur review 2027'
-  - 'top mba colleges in sambalpur'
-  - 'best mba colleges in odisha'
-  - 'direct admission in iim sambalpur'
+  - iim sambalpur mba admission 2027
+  - iim sambalpur fees structure 2027
+  - iim sambalpur average placement package
+  - iim sambalpur cutoff 2026 2027
+  - iim-sambalpur review 2027
+  - top mba colleges in sambalpur
+  - best mba colleges in odisha
+  - direct admission in iim sambalpur
 faqs:
-  - question: 'What is the average placement package at IIM Sambalpur in 2026-2027?'
-    answer: 'The verified average placement package at IIM Sambalpur stands at ₹16.64 LPA, with the median package benchmark at ₹15.00 LPA and highest domestic offers reaching ₹64.60 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Sambalpur?'
-    answer: 'IIM Sambalpur accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Sambalpur?'
-    answer: 'The total course tuition fee is approximately ₹15.10 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Sambalpur?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 88.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Sambalpur'
-state: 'Odisha'
+  - question: What is the average placement package at IIM Sambalpur in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Sambalpur stands at ₹16.64
+      LPA, with the median package benchmark at ₹15.00 LPA and highest domestic
+      offers reaching ₹64.60 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Sambalpur?
+    answer: >-
+      IIM Sambalpur accepts valid scores from CAT (CAP) followed by
+      institutional profile evaluation and personal interview rounds (GD-PI /
+      WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Sambalpur?
+    answer: >-
+      The total course tuition fee is approximately ₹15.10 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Sambalpur?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 88.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Sambalpur
+state: Odisha
 ---
 
 # [IIM Sambalpur](/colleges/iim-sambalpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +116,7 @@ Placements at **[IIM Sambalpur](/colleges/iim-sambalpur/)** reflect continuous c
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Sambalpur** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Sambalpur](/colleges/iim-sambalpur)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

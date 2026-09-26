@@ -9,7 +9,7 @@ excerpt: >-
   cutoffs for 2025-2026.
 coverImage: /images/blog/ibs-campuses.jpg
 author: Mohit Jain
-category: Certifications & Skills
+category: Jobs & Careers
 tags:
   - IBS
   - MBA

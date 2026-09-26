@@ -29,7 +29,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: What is the timing of classes at PUMBA?
     answer: >-

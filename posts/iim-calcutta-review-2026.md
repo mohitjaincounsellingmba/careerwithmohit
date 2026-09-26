@@ -123,7 +123,7 @@ Admission to **[IIM Calcutta](/colleges/iim-calcutta)** follows a holistic selec
 
 ---
 
-## 5. Why Choose IIM Calcutta? (Pros & Cons)
+## 5. Why Choose [IIM Calcutta](/colleges/iim-calcutta)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Kolkata and across major commercial hubs in India.

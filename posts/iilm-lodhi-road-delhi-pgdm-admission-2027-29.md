@@ -236,7 +236,7 @@ graph TD
 The verified total course fee for the 2-year PGDM program is **₹12.90 Lakhs (Total)** (**₹6.45 Lakhs per Year**).
 
 ### Q2. Is IILM Lodhi Road approved by AICTE/UGC?
-Yes, IILM Institute for Higher Education is AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.
+Yes, [IILM Institute for Higher Education](/colleges/iilm-delhi) is AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.
 
 ### Q3. What is the average and highest placement package at IILM Lodhi Road?
 The average CTC stands at **₹8.60 LPA** (with top 25% averaging **₹12.00 LPA**), while the highest package has reached **₹20.00 LPA**.

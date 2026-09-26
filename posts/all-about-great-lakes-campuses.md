@@ -9,7 +9,7 @@ excerpt: >-
   packages, and CAT/XAT/GMAT cutoffs.
 coverImage: /images/blog/great-lakes-campuses.jpg
 author: Mohit Jain
-category: Certifications & Skills
+category: Jobs & Careers
 tags:
   - Great Lakes
   - GLIM

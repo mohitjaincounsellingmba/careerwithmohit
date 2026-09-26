@@ -23,7 +23,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
-category: MBA
+category: Exams
 location: Chennai
 faqs:
   - question: >-
@@ -134,7 +134,7 @@ Life at **Amrita University Coimbatore (ASB)** extends far beyond traditional cl
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore for the 2027–2029 intake follows a structured and merit-oriented process:
+Securing admission to Amrita Vishwa Vidyapeetham ([Amrita School of Business](/colleges/amrita-school-of-business)), Coimbatore for the 2027–2029 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**AEEE (B.Tech), CAT, XAT, MAT, CMAT, NMAT, ACAT (MBA)**) or appear for the university's entrance test.

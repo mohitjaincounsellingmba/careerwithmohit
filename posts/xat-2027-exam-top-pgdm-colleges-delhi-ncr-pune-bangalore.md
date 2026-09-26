@@ -67,7 +67,7 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 
 | College Name | City Hub | Expected XAT 2027 Cutoff | Total Fees (Approx) | Average Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **XLRI Jamshedpur / Delhi NCR** | Jamshedpur / Jhajjar | 95+ Percentile | ₹28.00 Lakhs | ₹32.70 LPA |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) / Delhi NCR** | Jamshedpur / Jhajjar | 95+ Percentile | ₹28.00 Lakhs | ₹32.70 LPA |
 | **IMT Ghaziabad** | Delhi NCR (Ghaziabad) | 90+ Percentile | ₹21.50 Lakhs | ₹17.35 LPA |
 | **GIM Goa (Goa Inst. of Mgmt)** | Goa | 85+ Percentile | ₹19.50 Lakhs | ₹15.00 LPA |
 | **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi | 85+ Percentile | ₹16.98 Lakhs | ₹14.50 LPA |
@@ -87,7 +87,7 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 * **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida).
 
 ### 2. Pune & Maharashtra Hub
-* **Lexicon MILE & PIBM Pune:** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence) and [All About PIBM Pune](/blog/all-about-pibm-pune).
+* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence) and [All About PIBM Pune](/blog/all-about-pibm-pune).
 
 ### 3. Bangalore Hub
 * **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/blog/all-about-xime-bangalore) and [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).

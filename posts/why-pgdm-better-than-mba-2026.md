@@ -1,7 +1,7 @@
 ---
 title: Why PGDM is Better Than MBA in India 2026? – 5 Reasons You Should Know
 date: '2026-05-03'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Why PGDM is
   Better Than MBA in India 2026? – 5 Reasons You Should Know. Check updated

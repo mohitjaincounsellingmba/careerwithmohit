@@ -75,7 +75,7 @@ Here is a quick look at the historical timeline of CAT conducting bodies:
 
 | Year | Conducting IIM | Convenor (If Applicable) |
 | :--- | :--- | :--- |
-| **2026** | **IIM Indore** | To be announced |
+| **2026** | **[IIM Indore](/colleges/iim-indore)** | To be announced |
 | **2025** | IIM Kozhikode | Prof. Rajesh S. Upadhyayula |
 | **2024** | [IIM Calcutta](/colleges/iim-calcutta) | Prof. Sanjeet Singh |
 | **2023** | [IIM Lucknow](/colleges/iim-lucknow) | Prof. Sanjeet Singh / Prof. Pradyumna Dash |

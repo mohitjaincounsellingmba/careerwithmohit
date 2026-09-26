@@ -1,28 +1,50 @@
 ---
 title: 'XLRI Delhi MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for XLRI Delhi NCR (Jhajjar / Delhi NCR, Haryana). Check audited fees (₹25.00 Lakhs (Total)), average placement (₹30.00 LPA), entrance cutoffs (93.0+ XAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for XLRI Delhi NCR (Jhajjar / Delhi NCR, Haryana).
+  Check audited fees (₹25.00 Lakhs (Total)), average placement (₹30.00 LPA),
+  entrance cutoffs (93.0+ XAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'xlri delhi ncr mba admission 2027'
-  - 'xlri delhi ncr fees structure 2027'
-  - 'xlri delhi ncr average placement package'
-  - 'xlri delhi ncr cutoff 2026 2027'
-  - 'xlri delhi review 2027'
-  - 'top mba colleges in jhajjar / delhi ncr'
-  - 'best mba colleges in haryana'
-  - 'direct admission in xlri delhi ncr'
+  - xlri delhi ncr mba admission 2027
+  - xlri delhi ncr fees structure 2027
+  - xlri delhi ncr average placement package
+  - xlri delhi ncr cutoff 2026 2027
+  - xlri delhi review 2027
+  - top mba colleges in jhajjar / delhi ncr
+  - best mba colleges in haryana
+  - direct admission in xlri delhi ncr
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: 'What is the average placement package at XLRI Delhi NCR in 2026-2027?'
-    answer: 'The verified average placement package at XLRI Delhi NCR stands at ₹30.00 LPA, with the median package benchmark at ₹28.50 LPA and highest domestic offers reaching ₹75.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at XLRI Delhi NCR?'
-    answer: 'XLRI Delhi NCR accepts valid scores from XAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at XLRI Delhi NCR?'
-    answer: 'The total course tuition fee is approximately ₹25.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for XLRI Delhi NCR?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 93.0+ XAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Jhajjar / Delhi NCR'
-state: 'Haryana'
+  - question: What is the average placement package at XLRI Delhi NCR in 2026-2027?
+    answer: >-
+      The verified average placement package at XLRI Delhi NCR stands at ₹30.00
+      LPA, with the median package benchmark at ₹28.50 LPA and highest domestic
+      offers reaching ₹75.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at XLRI Delhi NCR?
+    answer: >-
+      XLRI Delhi NCR accepts valid scores from XAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at XLRI Delhi
+      NCR?
+    answer: >-
+      The total course tuition fee is approximately ₹25.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for XLRI Delhi NCR?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 93.0+
+      XAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [XLRI Delhi NCR](/colleges/xlri-delhi-ncr/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -140,7 +162,7 @@ Here is how **[XLRI Delhi NCR](/colleges/xlri-delhi-ncr/)** stands when compared
 ## 8. Mohit Jain's Expert Verdict: Should You Join XLRI Delhi?
 
 ### Key Strengths (Pros)
-*   **Centralized pooled placements with XLRI Jamshedpur campus (Equal corporate opportunities)**
+*   **Centralized pooled placements with [XLRI Jamshedpur](/colleges/xlri-jamshedpur) campus (Equal corporate opportunities)**
 *   **Proximity to Delhi NCR corporate headquarters and consulting firms**
 *   **Ultra-modern smart eco-campus with elite infrastructure**
 

@@ -1,28 +1,42 @@
 ---
 title: 'IIM Trichy MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Trichy (Tiruchirappalli, Tamil Nadu). Check audited fees (₹19.50 Lakhs (Total)), average placement (₹20.55 LPA), entrance cutoffs (94.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Trichy (Tiruchirappalli, Tamil Nadu). Check
+  audited fees (₹19.50 Lakhs (Total)), average placement (₹20.55 LPA), entrance
+  cutoffs (94.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim trichy mba admission 2027'
-  - 'iim trichy fees structure 2027'
-  - 'iim trichy average placement package'
-  - 'iim trichy cutoff 2026 2027'
-  - 'iimt review 2027'
-  - 'top mba colleges in tiruchirappalli'
-  - 'best mba colleges in tamil nadu'
-  - 'direct admission in iim trichy'
+  - iim trichy mba admission 2027
+  - iim trichy fees structure 2027
+  - iim trichy average placement package
+  - iim trichy cutoff 2026 2027
+  - iimt review 2027
+  - top mba colleges in tiruchirappalli
+  - best mba colleges in tamil nadu
+  - direct admission in iim trichy
 faqs:
-  - question: 'What is the average placement package at IIM Trichy in 2026-2027?'
-    answer: 'The verified average placement package at IIM Trichy stands at ₹20.55 LPA, with the median package benchmark at ₹19.50 LPA and highest domestic offers reaching ₹41.60 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Trichy?'
-    answer: 'IIM Trichy accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Trichy?'
-    answer: 'The total course tuition fee is approximately ₹19.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Trichy?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 94.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Tiruchirappalli'
-state: 'Tamil Nadu'
+  - question: What is the average placement package at IIM Trichy in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Trichy stands at ₹20.55 LPA,
+      with the median package benchmark at ₹19.50 LPA and highest domestic
+      offers reaching ₹41.60 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Trichy?
+    answer: >-
+      IIM Trichy accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Trichy?
+    answer: >-
+      The total course tuition fee is approximately ₹19.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Trichy?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 94.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Tiruchirappalli
+state: Tamil Nadu
 ---
 
 # [IIM Trichy](/colleges/iim-trichy/) Review 2027: Fees, Cutoff, Placements & Admission ROI

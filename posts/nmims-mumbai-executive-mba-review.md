@@ -19,7 +19,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Is the NMIMS Executive MBA AACSB accredited?
     answer: >-

@@ -245,7 +245,7 @@ IIMs do not select candidates based on CAT score alone. They prepare a **Final M
 | **Academic / Gender Diversity** | **5% – 10%** | Bonus points for Non-Engineers (Arts, Commerce, Medicine) and Female candidates. |
 
 > [!IMPORTANT]
-> **Why 10th & 12th Marks Matter**: Top campuses like **[IIM Bangalore](/colleges/iim-bangalore)** and **IIM Indore** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
+> **Why 10th & 12th Marks Matter**: Top campuses like **[IIM Bangalore](/colleges/iim-bangalore)** and **[IIM Indore](/colleges/iim-indore)** give significant weightage (**up to 35-40% in initial shortlists**) to Class 10th and 12th academic records. A candidate with 99.5%ile in CAT but 70% in school boards may miss an IIM-B or IIM-I call, whereas an applicant with 98.8%ile and 95%+ throughout school exams has a very high chance of shortlisting.
 
 ---
 
@@ -255,7 +255,7 @@ Choosing the right IIM comes down to aligning your CAT percentile, profile stren
 
 *   **If you score 98.5 to 100 Percentile**: Focus your energies on **IIM BLACKI and IIM Mumbai**. These campuses offer the highest domestic and international packages, elite consulting/finance roles, and the strongest brand equity in Asia.
 *   **If you score 94 to 98 Percentile**: Target **New IIMs** like **IIM Shillong, Udaipur, Trichy, Raipur, and Ranchi**. With average salaries approaching **₹20–26 LPA** and excellent infrastructure, they provide a premium career trajectory.
-*   **If you score 91 to 94 Percentile**: Do not hesitate to join **Baby IIMs** such as **IIM Nagpur, IIM Visakhapatnam, or IIM Amritsar**. They outperform almost all non-IIM private B-schools in their fee bracket and give you the lifelong power of the IIM emblem.
+*   **If you score 91 to 94 Percentile**: Do not hesitate to join **Baby IIMs** such as **[IIM Nagpur](/colleges/iim-nagpur), IIM Visakhapatnam, or [IIM Amritsar](/colleges/iim-amritsar)**. They outperform almost all non-IIM private B-schools in their fee bracket and give you the lifelong power of the IIM emblem.
 
 Whatever your score, thorough preparation for both the CAT written test and the WAT/PI interview rounds is the key to entering these elite institutions.
 

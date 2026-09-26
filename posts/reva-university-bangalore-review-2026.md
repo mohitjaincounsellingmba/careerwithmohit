@@ -19,7 +19,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
-category: Certifications & Skills
+category: Jobs & Careers
 location: Bangalore
 faqs:
   - question: 'Is REVA University, Bangalore a good choice for higher education in 2026?'

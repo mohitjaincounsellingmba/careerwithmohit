@@ -227,7 +227,7 @@ graph TD
 The verified total course fee for the 2-year PGDM program is **₹7.00 Lakhs (Total)** (**₹3.50 Lakhs per Year**).
 
 ### Q2. Is IILM Jaipur approved by AICTE/UGC?
-Yes, IILM Academy of Higher Learning is AICTE Approved, Ministry of Education, Govt. of India.
+Yes, [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning) is AICTE Approved, Ministry of Education, Govt. of India.
 
 ### Q3. What is the average and highest placement package at IILM Jaipur?
 The average CTC stands at **₹8.60 LPA** (with top 25% averaging **₹11.00 LPA**), while the highest package has reached **₹14.00 LPA**.

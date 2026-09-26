@@ -1,7 +1,7 @@
 ---
 title: Top MBA HR Colleges in Bangalore 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA HR colleges in Bangalore? Discover 2026 fees, placements,
   and eligibility details for IIM Bangalore, Christ University, SIBM, and XIME

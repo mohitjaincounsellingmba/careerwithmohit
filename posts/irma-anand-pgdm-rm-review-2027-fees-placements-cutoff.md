@@ -1,28 +1,58 @@
 ---
 title: 'IRMA Anand MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for Institute of Rural Management Anand (IRMA) (Anand, Gujarat). Check audited fees (₹16.80 Lakhs (Total)), average placement (₹15.50 LPA), entrance cutoffs (80.0+ XAT / CAT %ile), and admission tips by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 MBA review for Institute of Rural Management Anand (IRMA)
+  (Anand, Gujarat). Check audited fees (₹16.80 Lakhs (Total)), average placement
+  (₹15.50 LPA), entrance cutoffs (80.0+ XAT / CAT %ile), and admission tips by
+  Mohit Jain.
 keywords:
-  - 'institute of rural management anand (irma) mba admission 2027'
-  - 'institute of rural management anand (irma) fees structure 2027'
-  - 'institute of rural management anand (irma) average placement package'
-  - 'institute of rural management anand (irma) cutoff 2026 2027'
-  - 'irma anand review 2027'
-  - 'top mba colleges in anand'
-  - 'best mba colleges in gujarat'
-  - 'direct admission in institute of rural management anand (irma)'
+  - institute of rural management anand (irma) mba admission 2027
+  - institute of rural management anand (irma) fees structure 2027
+  - institute of rural management anand (irma) average placement package
+  - institute of rural management anand (irma) cutoff 2026 2027
+  - irma anand review 2027
+  - top mba colleges in anand
+  - best mba colleges in gujarat
+  - direct admission in institute of rural management anand (irma)
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: 'What is the average placement package at Institute of Rural Management Anand (IRMA) in 2026-2027?'
-    answer: 'The verified average placement package at Institute of Rural Management Anand (IRMA) stands at ₹15.50 LPA, with the median package benchmark at ₹14.80 LPA and highest domestic offers reaching ₹31.16 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Institute of Rural Management Anand (IRMA)?'
-    answer: 'Institute of Rural Management Anand (IRMA) accepts valid scores from CAT, XAT, CMAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at Institute of Rural Management Anand (IRMA)?'
-    answer: 'The total course tuition fee is approximately ₹16.80 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for Institute of Rural Management Anand (IRMA)?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 80.0+ XAT / CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Anand'
-state: 'Gujarat'
+  - question: >-
+      What is the average placement package at Institute of Rural Management
+      Anand (IRMA) in 2026-2027?
+    answer: >-
+      The verified average placement package at Institute of Rural Management
+      Anand (IRMA) stands at ₹15.50 LPA, with the median package benchmark at
+      ₹14.80 LPA and highest domestic offers reaching ₹31.16 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Institute of Rural
+      Management Anand (IRMA)?
+    answer: >-
+      Institute of Rural Management Anand (IRMA) accepts valid scores from CAT,
+      XAT, CMAT followed by institutional profile evaluation and personal
+      interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at Institute of
+      Rural Management Anand (IRMA)?
+    answer: >-
+      The total course tuition fee is approximately ₹16.80 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      What is the expected entrance cutoff for Institute of Rural Management
+      Anand (IRMA)?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 80.0+
+      XAT / CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Ahmedabad
+state: Gujarat
 ---
 
 # [Institute of Rural Management Anand (IRMA)](/colleges/irma-anand/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +131,7 @@ Placements at **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anan
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **Institute of Rural Management Anand (IRMA)** is conducted through a multi-stage evaluation process:
+Admission to **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anand)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT, XAT, CMAT**) and achieve the minimum qualifying percentile/score.
@@ -158,7 +188,7 @@ Candidates who are not open to rural market immersion and supply chain fieldwork
 
 ## 9. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average salary package at Institute of Rural Management Anand (IRMA)?
+### Q1. What is the average salary package at [Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA)?
 The verified average placement package at **Institute of Rural Management Anand (IRMA)** is **₹15.50 LPA**, with top quartile students securing offers up to **₹31.16 LPA**.
 
 ### Q2. Which entrance exams are accepted for 2027 admission?

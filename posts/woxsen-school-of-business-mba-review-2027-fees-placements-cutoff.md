@@ -114,7 +114,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Woxsen School of Busines
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Woxsen School of Business, Woxsen University** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Woxsen School of Business, Woxsen University](/colleges/woxsen-school-of-business)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / NMAT / GMAT / WAT (Woxsen Aptitude Test)). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

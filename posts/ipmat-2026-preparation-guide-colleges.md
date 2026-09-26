@@ -76,7 +76,7 @@ This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking
 
 ## 📊 IPMAT 2026 Exam Pattern (Indore)
 
-IIM Indore's exam is the gold standard and follows a unique three-section format:
+[IIM Indore](/colleges/iim-indore)'s exam is the gold standard and follows a unique three-section format:
 
 | Section | Question Type | Duration | Marking |
 |---|---|---|---|
@@ -124,7 +124,7 @@ No. JEE is purely science-based. IPMAT is an **Aptitude Test**. While the Quant 
 While cutoffs change every year, a safe target is usually **180-200+ marks** out of 400 for a General category student to ensure an interview call.
 
 **Q4. does [IIM Ranchi](/colleges/iim-ranchi) have a separate exam?**
-No. IIM Ranchi uses the **IPMAT Indore scores** for its first-round selection.
+No. [IIM Ranchi](/colleges/iim-ranchi) uses the **IPMAT Indore scores** for its first-round selection.
 
 **Q5. When is IPMAT 2026 scheduled?**
 Typically held in **May 2026**, soon after the 12th standard board exams are over.

@@ -62,7 +62,7 @@ state: Delhi NCR
 > - **Top-Ranked B-Schools**: **[MDI Gurgaon](/colleges/mdi-gurgaon)** (India Top 10), **Masters’ Union** (New-Age Tech & VC), **Great Lakes Institute of Management Gurgaon**, **SOIL Institute of Management**, and **[BML Munjal University](/colleges/bml-munjal-gurgaon)**.
 > - **Fee & Placement Benchmark**: Tuition fees range from ₹13.5 Lakhs to ₹30 Lakhs, with average domestic packages spanning ₹11.5 LPA to ₹30.7 LPA.
 
-### [InquiryCard title="Targeting Top Gurgaon B-Schools?" description="Compare MDI Gurgaon, Masters' Union, Great Lakes, SOIL, and BML Munjal. Get 1-on-1 profile evaluation & shortlisting from Mohit Jain." cta="Book Free Gurgaon Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Gurgaon B-Schools?" description="Compare [MDI Gurgaon](/colleges/mdi-gurgaon), Masters' Union, Great Lakes, SOIL, and BML Munjal. Get 1-on-1 profile evaluation & shortlisting from Mohit Jain." cta="Book Free Gurgaon Consultation" type="admission"]
 
 Gurugram is India’s premier hub for global consulting, corporate finance, private equity, and enterprise technology. With global leaders like Google, Microsoft, McKinsey, Bain, BCG, American Express, Deloitte, and Zomato operating massive headquarters here, business students in Gurgaon benefit from unmatched networking, CXO mentorship, and high-paying placement opportunities.
 

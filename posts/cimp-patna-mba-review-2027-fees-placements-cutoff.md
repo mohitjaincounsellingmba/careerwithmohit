@@ -143,7 +143,7 @@ Graduates regularly secure roles in strategy, financial analysis, product manage
 
 ## 5. Key Programs & Curriculum Specializations
 
-The academic structure at **Chandragupt Institute of Management Patna (CIMP)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+The academic structure at **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
 
 ### Popular Specialization Tracks:
 - **PGDM (AICTE Approved)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
@@ -157,7 +157,7 @@ The academic structure at **Chandragupt Institute of Management Patna (CIMP)** b
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **Chandragupt Institute of Management Patna (CIMP)** compares against peer business schools in its category:
+Here is how **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

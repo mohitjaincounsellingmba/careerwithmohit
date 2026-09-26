@@ -155,7 +155,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 [XLRI Jamshedpur](/colleges/xlri-jamshedpur) (via XAT), [SIBM Pune](/colleges/sibm-pune) and SCMHRD (via SNAP), [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT), and [JBIMS Mumbai](/colleges/jbims-mumbai) (via MAH MBA CET) are among India's top B-schools that do not require CAT.
 
 ### Which top MBA colleges accept XAT scores?
-Apart from XLRI Jamshedpur & Delhi NCR, institutes like [SPJIMR Mumbai](/colleges/spjimr-mumbai), XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes accept XAT.
+Apart from [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & Delhi NCR, institutes like [SPJIMR Mumbai](/colleges/spjimr-mumbai), XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes accept XAT.
 
 ### Can I get admission in good colleges through CMAT or MAT?
 Yes, prominent institutions like Great Lakes Chennai, GIM Goa, BIMTECH Greater Noida, Welingkar Mumbai, KJ Somaiya, [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), and NDIM Delhi accept CMAT and MAT scores.

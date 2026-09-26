@@ -1,7 +1,7 @@
 ---
 title: Top MBA Digital Marketing Colleges in Chandigarh 2026 — Placements & Fees
 date: '2026-07-17'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Find the best MBA Digital Marketing colleges in Chandigarh. Check program
   fees, placements, and cutoffs for UBS, Chandigarh University, and Chitkara in

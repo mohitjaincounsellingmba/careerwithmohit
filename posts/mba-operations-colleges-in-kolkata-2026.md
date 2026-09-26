@@ -1,7 +1,7 @@
 ---
 title: Top MBA Operations Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA Operations colleges in Kolkata? Review our 2026 guide
   comparing IIM Calcutta, Praxis, and IMI Kolkata placements and fees.

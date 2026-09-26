@@ -89,7 +89,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Taxila Business School (TBS)** (Taxila Jaipur) |
+| **Institution Name** | **[Taxila Business School](/colleges/taxila-jaipur) (TBS)** (Taxila Jaipur) |
 | **Campus Location** | Mansarovar, Jaipur, Rajasthan |
 | **Program Offered** | **2-Year Full-Time PGDM (Dual Specialization with SAP S/4HANA & Business Analytics)** |
 | **Degree / Diploma Type** | **PGDM** |

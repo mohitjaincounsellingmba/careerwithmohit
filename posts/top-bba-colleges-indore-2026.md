@@ -67,7 +67,7 @@ Whether you are targeting the national prestige of [IIM Indore](/colleges/iim-in
 
 ## 🏛️ The Indore Powerhouses
 
-### 1. IIM Indore (IPM)
+### 1. [IIM Indore](/colleges/iim-indore) (IPM)
 The pioneer of the five-year integrated management program in India. Every BBA aspirant in India catalogs this as their "Dream College."
 - **Top Choice:** For students who want an elite IIM brand name right after the 12th.
 - **Selection:** Extremely competitive through **IPMAT Indore**.

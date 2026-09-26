@@ -1,34 +1,54 @@
 ---
 title: 'IIM Nagpur MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Nagpur (Nagpur, Maharashtra). Check audited fees (₹18.90 Lakhs (Total)), average placement (₹16.74 LPA), entrance cutoffs (88.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Nagpur (Nagpur, Maharashtra). Check audited
+  fees (₹18.90 Lakhs (Total)), average placement (₹16.74 LPA), entrance cutoffs
+  (88.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim nagpur mba admission 2027'
-  - 'iim nagpur fees structure 2027'
-  - 'iim nagpur average placement package'
-  - 'iim nagpur cutoff 2026 2027'
-  - 'iimn review 2027'
-  - 'top mba colleges in nagpur'
-  - 'best mba colleges in maharashtra'
-  - 'direct admission in iim nagpur'
+  - iim nagpur mba admission 2027
+  - iim nagpur fees structure 2027
+  - iim nagpur average placement package
+  - iim nagpur cutoff 2026 2027
+  - iimn review 2027
+  - top mba colleges in nagpur
+  - best mba colleges in maharashtra
+  - direct admission in iim nagpur
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
 faqs:
-  - question: 'What is the average placement package at IIM Nagpur in 2026-2027?'
-    answer: 'The verified average placement package at IIM Nagpur stands at ₹16.74 LPA, with the median package benchmark at ₹16.00 LPA and highest domestic offers reaching ₹64.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Nagpur?'
-    answer: 'IIM Nagpur accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Nagpur?'
-    answer: 'The total course tuition fee is approximately ₹18.90 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Nagpur?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 88.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Nagpur'
-state: 'Maharashtra'
+  - question: What is the average placement package at IIM Nagpur in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Nagpur stands at ₹16.74 LPA,
+      with the median package benchmark at ₹16.00 LPA and highest domestic
+      offers reaching ₹64.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Nagpur?
+    answer: >-
+      IIM Nagpur accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Nagpur?
+    answer: >-
+      The total course tuition fee is approximately ₹18.90 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Nagpur?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 88.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Ahmedabad
+state: Gujarat
 ---
 
 # [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Nagpur, Maharashtra** recognized for academic rigor (NIRF Rank #43 · Mentored originally by IIM Ahmedabad) and industry-aligned specializations in **MBA**.
+> - **Core USP & Focus**: Premier management destination in **Nagpur, Maharashtra** recognized for academic rigor (NIRF Rank #43 · Mentored originally by [IIM Ahmedabad](/colleges/iim-ahmedabad)) and industry-aligned specializations in **MBA**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹18.90 Lakhs (Total)** against an audited average domestic CTC of **₹16.74 LPA** (Median: **₹16.00 LPA**, Highest: **₹64.00 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT (CAP)** score (**88.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
 
@@ -101,7 +121,7 @@ Placements at **[IIM Nagpur](/colleges/iim-nagpur/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Nagpur** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Nagpur](/colleges/iim-nagpur)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

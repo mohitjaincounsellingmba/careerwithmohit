@@ -1,28 +1,49 @@
 ---
 title: 'IMT Ghaziabad MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IMT Ghaziabad (Ghaziabad, Uttar Pradesh). Check audited fees (₹21.50 Lakhs (Total)), average placement (₹17.35 LPA), entrance cutoffs (90.0+ XAT / CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IMT Ghaziabad (Ghaziabad, Uttar Pradesh). Check
+  audited fees (₹21.50 Lakhs (Total)), average placement (₹17.35 LPA), entrance
+  cutoffs (90.0+ XAT / CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'imt ghaziabad mba admission 2027'
-  - 'imt ghaziabad fees structure 2027'
-  - 'imt ghaziabad average placement package'
-  - 'imt ghaziabad cutoff 2026 2027'
-  - 'imt ghaziabad review 2027'
-  - 'top mba colleges in ghaziabad'
-  - 'best mba colleges in uttar pradesh'
-  - 'direct admission in imt ghaziabad'
+  - imt ghaziabad mba admission 2027
+  - imt ghaziabad fees structure 2027
+  - imt ghaziabad average placement package
+  - imt ghaziabad cutoff 2026 2027
+  - imt ghaziabad review 2027
+  - top mba colleges in ghaziabad
+  - best mba colleges in uttar pradesh
+  - direct admission in imt ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: 'What is the average placement package at IMT Ghaziabad in 2026-2027?'
-    answer: 'The verified average placement package at IMT Ghaziabad stands at ₹17.35 LPA, with the median package benchmark at ₹16.00 LPA and highest domestic offers reaching ₹65.60 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IMT Ghaziabad?'
-    answer: 'IMT Ghaziabad accepts valid scores from CAT, XAT, GMAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IMT Ghaziabad?'
-    answer: 'The total course tuition fee is approximately ₹21.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IMT Ghaziabad?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 90.0+ XAT / CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Ghaziabad'
-state: 'Uttar Pradesh'
+  - question: What is the average placement package at IMT Ghaziabad in 2026-2027?
+    answer: >-
+      The verified average placement package at IMT Ghaziabad stands at ₹17.35
+      LPA, with the median package benchmark at ₹16.00 LPA and highest domestic
+      offers reaching ₹65.60 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IMT Ghaziabad?
+    answer: >-
+      IMT Ghaziabad accepts valid scores from CAT, XAT, GMAT followed by
+      institutional profile evaluation and personal interview rounds (GD-PI /
+      WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IMT Ghaziabad?
+    answer: >-
+      The total course tuition fee is approximately ₹21.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IMT Ghaziabad?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 90.0+
+      XAT / CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [IMT Ghaziabad](/colleges/imt-ghaziabad/) Review 2027: Fees, Cutoff, Placements & Admission ROI

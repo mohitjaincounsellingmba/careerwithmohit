@@ -90,7 +90,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Amity University Bengaluru** (Amity Bangalore) |
+| **Institution Name** | **[Amity University](/colleges/amity-noida) Bengaluru** (Amity Bangalore) |
 | **Campus Location** | Devanahalli, Bangalore, Karnataka |
 | **Program Offered** | **2-Year Full-Time MBA (General, Finance, Marketing, HR, Business Analytics)** |
 | **Degree / Diploma Type** | **MBA** |

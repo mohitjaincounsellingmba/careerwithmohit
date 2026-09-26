@@ -134,7 +134,7 @@ Admission to **JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/
 
 ---
 
-## 5. Why Choose JAGSoM Bangalore (Jagdish Sheth School of Management)? (Pros & Cons)
+## 5. Why Choose JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Electronic City and across major commercial hubs in India.

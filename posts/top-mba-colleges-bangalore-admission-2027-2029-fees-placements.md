@@ -77,7 +77,7 @@ state: Karnataka
 ## Frequently Asked Questions
 
 ### Which Bangalore college is best for MBA in Business Analytics?
-ISBR Bangalore, Welingkar Bengaluru, and SIBM Bangalore offer highly rated specialized analytics and tech management curricula with strong corporate hiring from Microsoft, Amazon, Infosys, and Deloitte.
+ISBR Bangalore, Welingkar Bengaluru, and [SIBM Bangalore](/colleges/sibm-bangalore) offer highly rated specialized analytics and tech management curricula with strong corporate hiring from Microsoft, Amazon, Infosys, and Deloitte.
 
 ### Is KMAT Karnataka mandatory for PGDM in Bangalore?
 No, KMAT is an optional state exam. National entrance tests including MAT, CAT, XAT, CMAT, and ATMA are fully recognized by AICTE-approved PGDM colleges in Bangalore.

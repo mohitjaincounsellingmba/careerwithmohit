@@ -1,28 +1,52 @@
 ---
 title: 'XIMB MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for Xavier Institute of Management (XIMB) (Bhubaneswar, Odisha). Check audited fees (₹22.00 Lakhs (Total)), average placement (₹20.03 LPA), entrance cutoffs (220+ NMAT / 91+ XAT %ile / 91+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for Xavier Institute of Management (XIMB)
+  (Bhubaneswar, Odisha). Check audited fees (₹22.00 Lakhs (Total)), average
+  placement (₹20.03 LPA), entrance cutoffs (220+ NMAT / 91+ XAT %ile / 91+ CAT
+  %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'xavier institute of management (ximb) mba admission 2027'
-  - 'xavier institute of management (ximb) fees structure 2027'
-  - 'xavier institute of management (ximb) average placement package'
-  - 'xavier institute of management (ximb) cutoff 2026 2027'
-  - 'ximb review 2027'
-  - 'top mba colleges in bhubaneswar'
-  - 'best mba colleges in odisha'
-  - 'direct admission in xavier institute of management (ximb)'
+  - xavier institute of management (ximb) mba admission 2027
+  - xavier institute of management (ximb) fees structure 2027
+  - xavier institute of management (ximb) average placement package
+  - xavier institute of management (ximb) cutoff 2026 2027
+  - ximb review 2027
+  - top mba colleges in bhubaneswar
+  - best mba colleges in odisha
+  - direct admission in xavier institute of management (ximb)
 faqs:
-  - question: 'What is the average placement package at Xavier Institute of Management (XIMB) in 2026-2027?'
-    answer: 'The verified average placement package at Xavier Institute of Management (XIMB) stands at ₹20.03 LPA, with the median package benchmark at ₹19.20 LPA and highest domestic offers reaching ₹71.50 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Xavier Institute of Management (XIMB)?'
-    answer: 'Xavier Institute of Management (XIMB) accepts valid scores from XAT, CAT, NMAT, X-GMT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at Xavier Institute of Management (XIMB)?'
-    answer: 'The total course tuition fee is approximately ₹22.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for Xavier Institute of Management (XIMB)?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 220+ NMAT / 91+ XAT %ile / 91+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Bhubaneswar'
-state: 'Odisha'
+  - question: >-
+      What is the average placement package at Xavier Institute of Management
+      (XIMB) in 2026-2027?
+    answer: >-
+      The verified average placement package at Xavier Institute of Management
+      (XIMB) stands at ₹20.03 LPA, with the median package benchmark at ₹19.20
+      LPA and highest domestic offers reaching ₹71.50 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Xavier Institute of
+      Management (XIMB)?
+    answer: >-
+      Xavier Institute of Management (XIMB) accepts valid scores from XAT, CAT,
+      NMAT, X-GMT followed by institutional profile evaluation and personal
+      interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at Xavier
+      Institute of Management (XIMB)?
+    answer: >-
+      The total course tuition fee is approximately ₹22.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      What is the expected entrance cutoff for Xavier Institute of Management
+      (XIMB)?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 220+
+      NMAT / 91+ XAT %ile / 91+ CAT %ile. Profile diversity and corporate work
+      experience may offer relaxed considerations.
+location: Bhubaneswar
+state: Odisha
 ---
 
 # [Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/) Review 2027: Fees, Cutoff, Placements & Admission ROI

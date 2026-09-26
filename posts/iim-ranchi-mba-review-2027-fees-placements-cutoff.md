@@ -1,28 +1,42 @@
 ---
 title: 'IIM Ranchi MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Ranchi (Ranchi, Jharkhand). Check audited fees (₹17.50 Lakhs (Total)), average placement (₹17.30 LPA), entrance cutoffs (94.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Ranchi (Ranchi, Jharkhand). Check audited
+  fees (₹17.50 Lakhs (Total)), average placement (₹17.30 LPA), entrance cutoffs
+  (94.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim ranchi mba admission 2027'
-  - 'iim ranchi fees structure 2027'
-  - 'iim ranchi average placement package'
-  - 'iim ranchi cutoff 2026 2027'
-  - 'iim-ranchi review 2027'
-  - 'top mba colleges in ranchi'
-  - 'best mba colleges in jharkhand'
-  - 'direct admission in iim ranchi'
+  - iim ranchi mba admission 2027
+  - iim ranchi fees structure 2027
+  - iim ranchi average placement package
+  - iim ranchi cutoff 2026 2027
+  - iim-ranchi review 2027
+  - top mba colleges in ranchi
+  - best mba colleges in jharkhand
+  - direct admission in iim ranchi
 faqs:
-  - question: 'What is the average placement package at IIM Ranchi in 2026-2027?'
-    answer: 'The verified average placement package at IIM Ranchi stands at ₹17.30 LPA, with the median package benchmark at ₹16.50 LPA and highest domestic offers reaching ₹35.50 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Ranchi?'
-    answer: 'IIM Ranchi accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Ranchi?'
-    answer: 'The total course tuition fee is approximately ₹17.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Ranchi?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 94.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Ranchi'
-state: 'Jharkhand'
+  - question: What is the average placement package at IIM Ranchi in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Ranchi stands at ₹17.30 LPA,
+      with the median package benchmark at ₹16.50 LPA and highest domestic
+      offers reaching ₹35.50 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Ranchi?
+    answer: >-
+      IIM Ranchi accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Ranchi?
+    answer: >-
+      The total course tuition fee is approximately ₹17.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Ranchi?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 94.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Ranchi
+state: Jharkhand
 ---
 
 # [IIM Ranchi](/colleges/iim-ranchi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Ranchi](/colleges/iim-ranchi/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Ranchi** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Ranchi](/colleges/iim-ranchi)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

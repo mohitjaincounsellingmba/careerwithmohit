@@ -1,7 +1,7 @@
 ---
 title: 'Best MBA Colleges with Low Fees & High ROI 2026 — FMS, JBIMS, TISS & More'
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Looking for an MBA that won't break the bank? Discover the top low-fee,
   high-ROI MBA colleges in India. Compare [FMS Delhi](/colleges/fms-delhi),

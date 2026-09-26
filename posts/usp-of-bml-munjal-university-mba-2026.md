@@ -95,7 +95,7 @@ If you are shortlisting management colleges for the **2027–2029 MBA admissions
 
 ## Fee vs Average Package ROI Matrix: BMU vs Peer Delhi-NCR B-Schools
 
-To assess BML Munjal University’s return on investment (ROI) objectively, here is a comparative breakdown of fees, average compensation, and shortlisting metrics against top peer institutions in Delhi-NCR:
+To assess [BML Munjal University](/colleges/bml-munjal-gurgaon)’s return on investment (ROI) objectively, here is a comparative breakdown of fees, average compensation, and shortlisting metrics against top peer institutions in Delhi-NCR:
 
 | College Name | Total Fees (2-Year MBA/PGDM) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |

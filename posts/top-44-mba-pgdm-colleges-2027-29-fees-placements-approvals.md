@@ -271,7 +271,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Governed by the GD Goenka Group leadership and senior corporate executives.
 *   **Why Join**: 60-acre state-of-the-art campus, international collaborations, robust corporate placement cell.
 
-### 9. Amity University Gurugram (Amity Gurgaon) – Manesar, Gurgaon
+### 9. [Amity University](/colleges/amity-noida) Gurugram (Amity Gurgaon) – Manesar, Gurgaon
 *   **Program**: 2-Year Full-Time MBA (General, Banking, Business Analytics).
 *   **Approvals & Accreditations**: UGC Approved, NAAC Grade A+ Accredited, IACBE (USA), WES Approved.
 *   **Fee Structure (2027–29)**: **₹9.80 Lakhs** total.
@@ -791,7 +791,7 @@ Navigating through 44 colleges across different cities with varying fee budgets 
 ## 10. Frequently Asked Questions (FAQs)
 
 ### Q1. Which college among the 44 has the best placement ROI for low budget?
-Colleges like **MERI New Delhi (₹5.95L fee, ₹7.5 LPA avg)**, **RIIM Pune (₹7.20L fee, ₹7.84 LPA avg)**, **GL Bajaj Greater Noida (₹7.95L fee, ₹6.8 LPA avg)**, **Akemi Pune (₹3.15L fee, ₹4.8 LPA avg)**, and **Mangalmay Greater Noida (₹3.25L fee, ₹5.5 LPA avg)** provide the highest salary-to-fee ROI in India.
+Colleges like **MERI New Delhi (₹5.95L fee, ₹7.5 LPA avg)**, **[RIIM Pune](/colleges/riim-pune) (₹7.20L fee, ₹7.84 LPA avg)**, **GL Bajaj Greater Noida (₹7.95L fee, ₹6.8 LPA avg)**, **Akemi Pune (₹3.15L fee, ₹4.8 LPA avg)**, and **Mangalmay Greater Noida (₹3.25L fee, ₹5.5 LPA avg)** provide the highest salary-to-fee ROI in India.
 
 ### Q2. Is AIU Equivalence necessary for PGDM colleges?
 Yes. If you plan to pursue government jobs, public sector enterprise roles (PSUs), a Ph.D. in India, or apply for immigration/visas abroad (WES evaluation), ensuring the B-School has AICTE approval, NBA accreditation, and AIU MBA equivalence is vital.

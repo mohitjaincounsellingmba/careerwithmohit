@@ -31,7 +31,7 @@ faqs:
       average starting salary of INR 25.82 LPA, SJMSOM IIT Bombay delivers an
       exceptional return on investment (ROI) with a payback period under 8 to 10
       months.
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -69,7 +69,7 @@ Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bomba
 ## 2. Sector-Wise Placement Breakdown
 
 ```mermaid
-pie title SJMSOM IIT Bombay Sector Hiring 2025
+pie title SJMSOM [IIT Bombay](/colleges/iit-bombay) Sector Hiring 2025
     "Strategy & Consulting" : 34
     "BFSI & Investment Banking" : 26
     "Supply Chain & Operations" : 22

@@ -43,12 +43,12 @@ faqs:
       industries.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: A comprehensive guide to the GATE 2026 exam. Learn about eligibility criteria, paper pattern, syllabus, M.Tech...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **Graduate Aptitude Test in Engineering (GATE)** is one of the most competitive and widely recognized examinations in India. Primarily taken by engineering, architecture, and science graduates, GATE is your golden ticket to pursuing a Master’s degree (M.Tech/Ph.D.) at top institutes or securing a highly coveted job in Public Sector Undertakings (PSUs).
 

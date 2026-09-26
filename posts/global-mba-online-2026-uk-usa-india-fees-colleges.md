@@ -163,7 +163,7 @@ OP Jindal Global University, powered by upGrad, offers the **most affordable glo
 | **Mode** | Online |
 | **Best For** | Professionals who want an IIM brand at a fraction of full-time IIM costs |
 
-[👉 Apply to IIM Sirmaur Global MBA – Get 15% Discount](https://cvadm.com/nzwJCm)
+[👉 Apply to [IIM Sirmaur](/colleges/iim-sirmaur) Global MBA – Get 15% Discount](https://cvadm.com/nzwJCm)
 
 ---
 

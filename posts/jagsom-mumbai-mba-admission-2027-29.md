@@ -89,7 +89,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **JAGSoM (Jagdish Sheth School of Management)** (JAGSoM Mumbai) |
+| **Institution Name** | **JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))** (JAGSoM Mumbai) |
 | **Campus Location** | Karjat, Greater Mumbai, Maharashtra |
 | **Program Offered** | **2-Year Full-Time MBA (Domain-Led Specialist Curriculum)** |
 | **Degree / Diploma Type** | **MBA** |

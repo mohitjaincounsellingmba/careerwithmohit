@@ -44,7 +44,7 @@ faqs:
       work experience, offering a diverse learning environment.
 location: Delhi NCR
 state: Delhi NCR
-category: Certifications & Skills
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.

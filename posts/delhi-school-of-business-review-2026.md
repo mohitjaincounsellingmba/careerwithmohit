@@ -126,7 +126,7 @@ Admission to **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-bu
 
 ---
 
-## 5. Why Choose Delhi School of Business (VIPS-TC)? (Pros & Cons)
+## 5. Why Choose [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Pitampura and across major commercial hubs in India.

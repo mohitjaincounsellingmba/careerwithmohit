@@ -1,7 +1,7 @@
 ---
 title: 'Investment Banking Career Path 2026 — Salary, Skills & Entry Guide'
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Dreaming of Wall Street or Dalal Street? Explore the Investment Banking career
   path for 2026. Discover the skills required, salary expectations, and how to

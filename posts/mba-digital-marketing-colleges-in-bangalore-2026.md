@@ -1,7 +1,7 @@
 ---
 title: Top MBA Digital Marketing Colleges in Bangalore 2026 — Placements & Fees
 date: '2026-07-17'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Looking for top MBA Digital Marketing colleges in Bangalore? Discover 2026
   fees, packages, and cutoffs for IIM Bangalore, SIBM, Christ, and Welingkar in

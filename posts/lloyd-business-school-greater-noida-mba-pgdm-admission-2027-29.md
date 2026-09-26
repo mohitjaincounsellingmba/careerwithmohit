@@ -101,7 +101,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Lloyd Business School** (Lloyd Greater Noida) |
+| **Institution Name** | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** (Lloyd Greater Noida) |
 | **Campus Location** | Knowledge Park II, Greater Noida |
 | **Program Offered** | **PGDM (IBM Partnered: Business Analytics, Supply Chain) & MBA (AKTU)** |
 | **Degree / Diploma Type** | **MBA / PGDM** |

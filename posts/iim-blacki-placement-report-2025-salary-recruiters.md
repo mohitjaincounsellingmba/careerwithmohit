@@ -117,7 +117,7 @@ graph LR
 *   **Average Salary**: ₹32.30 LPA | **Top 25% Average**: ₹44.00 LPA
 *   **Key Trends**: Consulting roles captured 35% of total offers, followed closely by BFSI (25%) and General Management (18%).
 
-### 6. IIM Kozhikode & IIM Indore
+### 6. IIM Kozhikode & [IIM Indore](/colleges/iim-indore)
 *   **IIM Kozhikode**: Recorded an average of ₹28.18 LPA with 100% placement completion, driven by strong recruiter confidence in its highly diverse and gender-balanced cohort.
 *   **IIM Indore**: Clocked ₹29.75 LPA average, supported by over 150 marquee recruiters including AB InBev, Dabur, Marico, Kotak Mahindra, and Samsung.
 

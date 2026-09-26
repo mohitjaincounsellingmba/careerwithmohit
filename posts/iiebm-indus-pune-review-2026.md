@@ -126,7 +126,7 @@ Admission to **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** follows a
 
 ---
 
-## 5. Why Choose IIEBM (Indus Business School)? (Pros & Cons)
+## 5. Why Choose [IIEBM (Indus Business School)](/colleges/iiebm-pune)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Wakad and across major commercial hubs in India.

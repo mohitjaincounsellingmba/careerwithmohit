@@ -1,7 +1,7 @@
 ---
 title: 'MBA in Finance vs. MBA in FinTech: Which is Best for Your Career in 2026?'
 date: '2026-06-13'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for MBA in Finance
   vs. MBA in FinTech: Which is Best for Your Career in 2026?. Check updated

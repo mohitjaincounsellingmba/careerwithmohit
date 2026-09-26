@@ -1,7 +1,7 @@
 ---
 title: Top MBA Digital Marketing Colleges in Ghaziabad 2026 — Placements & Fees
 date: '2026-07-17'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Check out the top MBA Digital Marketing colleges in Ghaziabad. Read details on
   IMT Ghaziabad, ITS Mohan Nagar, and Jaipuria School of Business fees &

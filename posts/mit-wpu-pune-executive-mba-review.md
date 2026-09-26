@@ -19,7 +19,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
-category: MBA
+category: Exams
 faqs:
   - question: Is the MIT-WPU Executive MBA UGC approved?
     answer: >-

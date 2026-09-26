@@ -57,7 +57,7 @@ faqs:
       status and comparable placement benchmarks.
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -104,7 +104,7 @@ While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-revi
 
 ### 4. [IIM Lucknow](/colleges/iim-lucknow) (L) — The Marketing & Consulting Powerhouse
 *   **Core Strength:** Marketing, Sales, Operations, and Consulting.
-*   **Why It Stands Out:** Being the fourth IIM established in India, IIM Lucknow is famous for its intensive curriculum and massive 200-acre lush green campus. It also operates a dedicated satellite campus in Noida for executive education, providing strong corporate connectivity in **Delhi NCR**.
+*   **Why It Stands Out:** Being the fourth IIM established in India, [IIM Lucknow](/colleges/iim-lucknow) is famous for its intensive curriculum and massive 200-acre lush green campus. It also operates a dedicated satellite campus in Noida for executive education, providing strong corporate connectivity in **Delhi NCR**.
 
 ### 5. IIM Kozhikode (K) — The Trailblazer in Diversity & Growth
 *   **Core Strength:** Consulting, Product Management, and General Management.
@@ -112,7 +112,7 @@ While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-revi
 
 ### 6. [IIM Indore](/colleges/iim-indore) (I) — The Pioneer of Integrated Management
 *   **Core Strength:** Sales & Marketing, General Management, and Finance.
-*   **Why It Stands Out:** IIM Indore revolutionized Indian management education by launching the **Integrated Programme in Management (IPM)**—a 5-year BBA+MBA course after Class 12. Its flagship PGP program has one of the largest batch sizes among top B-schools and attracts elite recruiters across all sectors.
+*   **Why It Stands Out:** [IIM Indore](/colleges/iim-indore) revolutionized Indian management education by launching the **Integrated Programme in Management (IPM)**—a 5-year BBA+MBA course after Class 12. Its flagship PGP program has one of the largest batch sizes among top B-schools and attracts elite recruiters across all sectors.
 
 ---
 

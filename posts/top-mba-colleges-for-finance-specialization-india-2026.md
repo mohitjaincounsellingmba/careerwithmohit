@@ -1,7 +1,7 @@
 ---
 title: Top MBA Colleges for Finance in India 2026 — Placements & Fees
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
   Colleges for Finance in India 2026 — Placements & Fees. Check updated fees,

@@ -1,7 +1,7 @@
 ---
 title: 'Top MBA Colleges in Chennai 2026 — Fees, Placements & ROI'
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Confused about an MBA in Chennai? Explore the best B-schools like IIT Madras,
   Great Lakes, LIBA, and IFMR. Compare 2026 fees, CAT/XAT/TANCET cutoffs, and

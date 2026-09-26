@@ -3,7 +3,7 @@ title: >-
   Eastern Institute for Integrated Learning in Management (EIILM) PGDM Admission
   Review 2026: Placements, Fees & Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to Eastern Institute for Integrated Learning in
   Management (EIILM)? Read our comprehensive PGDM review for 2026 covering total

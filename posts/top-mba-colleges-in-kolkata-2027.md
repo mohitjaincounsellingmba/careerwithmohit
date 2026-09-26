@@ -51,9 +51,9 @@ state: West Bengal
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Eastern India's Management Gateway**: Kolkata blends deep academic heritage with rapid tech expansion across Salt Lake Sector V and Rajarhat New Town.
 > - **Top-Ranked B-Schools**: **[IIM Calcutta](/colleges/iim-calcutta) (Joka)**, **VGSoM IIT Kharagpur**, **IIFT Kolkata**, **[IMI Kolkata](/colleges/imi-kolkata)**, **IISWBM (India's First Management Institute)**, and **[Praxis Business School](/colleges/praxis-kolkata)**.
-> - **Fee & Placement Spectrum**: Tuition fees range from ₹6.0 Lakhs (IISWBM) to ₹27.0 Lakhs (IIM Calcutta), with average salary packages touching ₹7.5 LPA to ₹34.8 LPA.
+> - **Fee & Placement Spectrum**: Tuition fees range from ₹6.0 Lakhs (IISWBM) to ₹27.0 Lakhs ([IIM Calcutta](/colleges/iim-calcutta)), with average salary packages touching ₹7.5 LPA to ₹34.8 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Kolkata?" description="Compare IIM Calcutta, VGSoM, IMI Kolkata, IISWBM, Praxis, and Globsyn. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Kolkata Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Kolkata?" description="Compare IIM Calcutta, VGSoM, [IMI Kolkata](/colleges/imi-kolkata), IISWBM, Praxis, and Globsyn. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Kolkata Consultation" type="admission"]
 
 Kolkata, the cultural and economic capital of Eastern India, holds a distinguished position in the history of Indian business education. Home to both India’s first IIM (IIM Calcutta, 1961) and India’s first management institute (IISWBM, 1953), Kolkata offers profound academic rigor, deep alumni roots across FMCG and consulting, and emerging technology analytics hubs in Salt Lake and New Town.
 
@@ -99,7 +99,7 @@ In this 2027 guide, senior admission consultant **Mohit Jain** evaluates the pre
 ### 3. IISWBM Kolkata (India's First B-School)
 - **Historic Legacy**: Founded in 1953 by Dr. B.C. Roy and Pt. Jawaharlal Nehru. Affiliated with Calcutta University, offering rock-bottom tuition fees, stable PSU/Banking hiring, and central Kolkata connectivity.
 
-### 4. Praxis Business School (Data & Tech Analytics)
+### 4. [Praxis Business School](/colleges/praxis-kolkata) (Data & Tech Analytics)
 - **Pioneering Digital Curriculum**: Ranked consistently among India's top programs for Data Science and Business Analytics, producing corporate data analysts and business intelligence consultants.
 
 ---

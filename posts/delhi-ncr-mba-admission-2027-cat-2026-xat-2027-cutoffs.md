@@ -83,15 +83,15 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ## Top B-School Selection Insights
 
-### 1. Faculty of Management Studies (FMS Delhi)
+### 1. Faculty of Management Studies ([FMS Delhi](/colleges/fms-delhi))
 * Known as the **"Red Building of Dreams"**, FMS offers the highest ROI in management education globally.
 * Shortlisting for MBA 2027 will rely on weighted CAT 2026 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/blog/all-about-fms-delhi).
 
-### 2. MDI Gurgaon
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
 * Accredited by AACSB, AMBA, and SAQS.
 * Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/blog/all-about-mdi-gurgaon).
 
-### 3. FORE School of Management & LBSIM Delhi
+### 3. [FORE School of Management](/colleges/fore-school-delhi) & LBSIM Delhi
 * **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/blog/all-about-fore-school-delhi).
 * **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
 

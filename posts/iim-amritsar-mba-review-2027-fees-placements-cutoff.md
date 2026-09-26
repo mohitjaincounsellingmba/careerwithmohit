@@ -1,28 +1,42 @@
 ---
 title: 'IIM-Amritsar MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Amritsar (Amritsar, Punjab). Check audited fees (₹16.00 Lakhs (Total)), average placement (₹16.51 LPA), entrance cutoffs (88.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Amritsar (Amritsar, Punjab). Check audited
+  fees (₹16.00 Lakhs (Total)), average placement (₹16.51 LPA), entrance cutoffs
+  (88.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim amritsar mba admission 2027'
-  - 'iim amritsar fees structure 2027'
-  - 'iim amritsar average placement package'
-  - 'iim amritsar cutoff 2026 2027'
-  - 'iim-amritsar review 2027'
-  - 'top mba colleges in amritsar'
-  - 'best mba colleges in punjab'
-  - 'direct admission in iim amritsar'
+  - iim amritsar mba admission 2027
+  - iim amritsar fees structure 2027
+  - iim amritsar average placement package
+  - iim amritsar cutoff 2026 2027
+  - iim-amritsar review 2027
+  - top mba colleges in amritsar
+  - best mba colleges in punjab
+  - direct admission in iim amritsar
 faqs:
-  - question: 'What is the average placement package at IIM Amritsar in 2026-2027?'
-    answer: 'The verified average placement package at IIM Amritsar stands at ₹16.51 LPA, with the median package benchmark at ₹16.00 LPA and highest domestic offers reaching ₹36.25 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Amritsar?'
-    answer: 'IIM Amritsar accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Amritsar?'
-    answer: 'The total course tuition fee is approximately ₹16.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Amritsar?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 88.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Amritsar'
-state: 'Punjab'
+  - question: What is the average placement package at IIM Amritsar in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Amritsar stands at ₹16.51
+      LPA, with the median package benchmark at ₹16.00 LPA and highest domestic
+      offers reaching ₹36.25 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Amritsar?
+    answer: >-
+      IIM Amritsar accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Amritsar?
+    answer: >-
+      The total course tuition fee is approximately ₹16.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Amritsar?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 88.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Amritsar
+state: Punjab
 ---
 
 # [IIM Amritsar](/colleges/iim-amritsar/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Amritsar](/colleges/iim-amritsar/)** reflect continuous cor
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Amritsar** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Amritsar](/colleges/iim-amritsar)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

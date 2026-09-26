@@ -126,7 +126,7 @@ Admission to **[ASM Apeejay School of Management](/colleges/asm-apeejay-delhi)**
 
 ---
 
-## 5. Why Choose ASM Apeejay School of Management? (Pros & Cons)
+## 5. Why Choose [ASM Apeejay School of Management](/colleges/asm-apeejay-delhi)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Dwarka and across major commercial hubs in India.

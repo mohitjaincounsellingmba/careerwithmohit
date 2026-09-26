@@ -134,7 +134,7 @@ Admission to **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colle
 
 ---
 
-## 5. Why Choose SIMSREE Mumbai (Sydenham Institute of Management Studies)? (Pros & Cons)
+## 5. Why Choose SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Mumbai and across major commercial hubs in India.

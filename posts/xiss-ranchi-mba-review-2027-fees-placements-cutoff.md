@@ -107,7 +107,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Xavier Institute of Soci
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Xavier Institute of Social Service (XISS Ranchi)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Xavier Institute of Social Service (XISS Ranchi)](/colleges/xiss-ranchi)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

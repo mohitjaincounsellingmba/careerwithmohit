@@ -43,7 +43,7 @@ faqs:
       candidates.
 location: Delhi NCR
 state: Delhi NCR
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -91,7 +91,7 @@ Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Repor
 ## 3. Sector-Wise Placement Split 2025
 
 ```mermaid
-pie title MDI Gurgaon Domain Split 2025
+pie title [MDI Gurgaon](/colleges/mdi-gurgaon) Domain Split 2025
     "BFSI & Financial Services" : 32
     "Management Consulting & Strategy" : 28
     "Technology, E-Commerce & Media" : 20

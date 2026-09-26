@@ -1,7 +1,7 @@
 ---
 title: Top MBA HR Colleges in Mumbai 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA HR
   Colleges in Mumbai 2026 — Placements & Fees. Check updated fees, placement

@@ -73,7 +73,7 @@ state: Gujarat
 
 When evaluating premier business schools and universities for management education in India, **[Institute of Management, [Nirma University](/colleges/nirma-university) (IMNU)](/colleges/nirma-institute-of-management)** consistently stands out as a high-value institution in **Ahmedabad, Gujarat**. With established corporate credentials, a strong alumni base, and distinguished accreditation (Top 30 Private B-Schools India · SAQS Accredited), the institution attracts ambitious management aspirants from across the country.
 
-Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
+Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Institute of Management, [Nirma University](/colleges/nirma-university) (IMNU)](/colleges/nirma-institute-of-management) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
 
 ---
 
@@ -112,7 +112,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Institute of Management,
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Institute of Management, Nirma University (IMNU)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

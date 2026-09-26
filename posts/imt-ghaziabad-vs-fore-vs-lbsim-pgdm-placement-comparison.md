@@ -66,7 +66,7 @@ Each of these three institutions enjoys distinct academic reputations, specializ
 
 ## 1. Quick Head-to-Head Overview
 
-| Parameter | IMT Ghaziabad | FORE School of Management | LBSIM New Delhi |
+| Parameter | IMT Ghaziabad | [FORE School of Management](/colleges/fore-school-delhi) | LBSIM New Delhi |
 | :--- | :--- | :--- | :--- |
 | **Location** | Raj Nagar, Ghaziabad | Qutub Institutional Area, New Delhi | Sector 11, Dwarka, New Delhi |
 | **Establishment Year** | 1980 | 1992 | 1995 |

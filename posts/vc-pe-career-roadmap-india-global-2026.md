@@ -1,7 +1,7 @@
 ---
 title: Venture Capital & Private Equity Career Roadmap 2026 — How to Get In
 date: '2026-04-21'
-category: MBA
+category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Venture
   Capital & Private Equity Career Roadmap 2026 — How to Get In. Check updated

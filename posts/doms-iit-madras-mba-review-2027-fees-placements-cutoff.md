@@ -112,7 +112,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Department of Management
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Department of Management Studies (DoMS), IIT Madras** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Department of Management Studies (DoMS), IIT Madras](/colleges/doms-iit-madras)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

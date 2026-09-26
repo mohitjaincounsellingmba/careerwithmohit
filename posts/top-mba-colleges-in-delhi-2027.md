@@ -98,13 +98,13 @@ In this 2027 guide, senior admission consultant **Mohit Jain** presents an hones
 ```
 
 ### 1. Tier 1: The National Powerhouses
-- **FMS Delhi**: Operating out of North Campus, FMS holds a legendary student-run culture. Top management consulting firms (McKinsey, BCG, Kearney) and FMCG giants (HUL, ITC, Nestlé) make it their priority hiring ground.
+- **[FMS Delhi](/colleges/fms-delhi)**: Operating out of North Campus, FMS holds a legendary student-run culture. Top management consulting firms (McKinsey, BCG, Kearney) and FMCG giants (HUL, ITC, Nestlé) make it their priority hiring ground.
 - **DMS IIT Delhi**: Ranking among India's top management faculties, DMS offers world-class faculty in Operations, Analytics, and FinTech. With high tech-management convergence, graduates secure senior product management and consulting roles.
-- **IIFT Delhi (Qutab Institutional Area)**: The benchmark for global supply chain, international trade finance, and commodity trading.
+- **[IIFT Delhi](/colleges/iift-delhi) (Qutab Institutional Area)**: The benchmark for global supply chain, international trade finance, and commodity trading.
 
 ### 2. Tier 2: Premier Private & Delhi University High-ROI Programs
 - **IMI New Delhi (Qutab Institutional Area)**: Corporate-sponsored campus with deep banking relationships (Standard Chartered, HSBC, ICICI Bank, CRISIL).
-- **FORE School of Management (Qutab Area)**: Known for strong marketing and business analytics curricula and an active 7,000+ strong alumni base across Fortune 500 corporations.
+- **[FORE School of Management](/colleges/fore-school-delhi) (Qutab Area)**: Known for strong marketing and business analytics curricula and an active 7,000+ strong alumni base across Fortune 500 corporations.
 - **LBSIM (Dwarka)**: Lal Bahadur Shastri Institute of Management is deeply respected for value-based education, quantitative finance, and cost-effective tuition compared to other private peers.
 - **DSE, DFS & DBE (University of Delhi)**: Unbeatable value-for-money. DFS is famously called the "Wall Street of North Campus" for placing corporate finance and treasury analysts with near-zero student debt.
 
@@ -130,7 +130,7 @@ Studying in Delhi provides a distinct locational advantage:
 For FMS Delhi, general category cutoff stands at 99.7+ percentile. For DSE and DFS, safe composite scores are achieved at 93 to 95 percentile in CAT.
 
 ### Which is better: [IMI Delhi](/colleges/imi-delhi) or FORE School of Management?
-Both are situated in the Qutab Institutional Area with strong recruiter networks. IMI Delhi leads slightly in Finance and Consulting roles with a higher average CTC (₹17.9 LPA), whereas FORE School of Management offers great marketing & IT consulting tracks with competitive fees.
+Both are situated in the Qutab Institutional Area with strong recruiter networks. [IMI Delhi](/colleges/imi-delhi) leads slightly in Finance and Consulting roles with a higher average CTC (₹17.9 LPA), whereas FORE School of Management offers great marketing & IT consulting tracks with competitive fees.
 
 ### Does Delhi have direct admission for MBA without entrance exams?
 Top-tier colleges (FMS, IIT, IIFT, IMI, FORE, LBSIM) strictly admit students via national entrance exams and merit. However, select private universities and approved institutions offer direct profile-based admissions against management seats.

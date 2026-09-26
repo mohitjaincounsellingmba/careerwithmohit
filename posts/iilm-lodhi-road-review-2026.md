@@ -170,8 +170,8 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 ### Q1. What is the average salary package at [IILM Institute for Higher Education](/colleges/iilm-delhi) in 2026?
 The average package offered during campus placements at **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** is approximately **₹8.6 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
 
-### Q2. Which entrance exams are accepted for MBA/PGDM admission at IILM Institute for Higher Education?
-**IILM Institute for Higher Education** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
+### Q2. Which entrance exams are accepted for MBA/PGDM admission at [IILM Institute for Higher Education](/colleges/iilm-delhi)?
+**[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
 
 ### Q3. What is the total fee for the MBA program at IILM Institute for Higher Education?
 The total tuition fee for the complete 2-year program is **₹12.90 Lakhs (Total)**. Additional charges apply for hostel accommodations and mess facilities.

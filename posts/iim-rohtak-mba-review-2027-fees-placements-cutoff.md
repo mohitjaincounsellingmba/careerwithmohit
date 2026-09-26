@@ -1,28 +1,48 @@
 ---
 title: 'IIM Rohtak MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Rohtak (Rohtak, Haryana). Check audited fees (₹17.90 Lakhs (Total)), average placement (₹18.73 LPA), entrance cutoffs (95.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Rohtak (Rohtak, Haryana). Check audited fees
+  (₹17.90 Lakhs (Total)), average placement (₹18.73 LPA), entrance cutoffs
+  (95.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim rohtak mba admission 2027'
-  - 'iim rohtak fees structure 2027'
-  - 'iim rohtak average placement package'
-  - 'iim rohtak cutoff 2026 2027'
-  - 'iimr review 2027'
-  - 'top mba colleges in rohtak'
-  - 'best mba colleges in haryana'
-  - 'direct admission in iim rohtak'
+  - iim rohtak mba admission 2027
+  - iim rohtak fees structure 2027
+  - iim rohtak average placement package
+  - iim rohtak cutoff 2026 2027
+  - iimr review 2027
+  - top mba colleges in rohtak
+  - best mba colleges in haryana
+  - direct admission in iim rohtak
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
-  - question: 'What is the average placement package at IIM Rohtak in 2026-2027?'
-    answer: 'The verified average placement package at IIM Rohtak stands at ₹18.73 LPA, with the median package benchmark at ₹17.00 LPA and highest domestic offers reaching ₹48.20 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Rohtak?'
-    answer: 'IIM Rohtak accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Rohtak?'
-    answer: 'The total course tuition fee is approximately ₹17.90 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Rohtak?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 95.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Rohtak'
-state: 'Haryana'
+  - question: What is the average placement package at IIM Rohtak in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Rohtak stands at ₹18.73 LPA,
+      with the median package benchmark at ₹17.00 LPA and highest domestic
+      offers reaching ₹48.20 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Rohtak?
+    answer: >-
+      IIM Rohtak accepts valid scores from CAT followed by institutional profile
+      evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Rohtak?
+    answer: >-
+      The total course tuition fee is approximately ₹17.90 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Rohtak?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 95.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 # [IIM Rohtak](/colleges/iim-rohtak/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +121,7 @@ Placements at **[IIM Rohtak](/colleges/iim-rohtak/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Rohtak** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Rohtak](/colleges/iim-rohtak)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT**) and achieve the minimum qualifying percentile/score.

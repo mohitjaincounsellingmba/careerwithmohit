@@ -26,7 +26,7 @@ faqs:
     answer: >-
       No, it is a profile-linked merit process conducted through the
       institutional quota, which is transparent and AICTE-compliant.
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

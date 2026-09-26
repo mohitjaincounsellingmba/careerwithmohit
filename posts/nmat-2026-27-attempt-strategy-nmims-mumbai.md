@@ -179,7 +179,7 @@ Option B (Speed-Build Starter):  [Language Skills] ➔ [Logical Reasoning] ➔ [
 
 ## [NMIMS Mumbai](/colleges/nmims-mumbai) Score Targets & Cutoff Breakdown (2026-27)
 
-To secure a call for the Stage 2 CD/PI round at NMIMS Mumbai, candidates must clear both **overall scaled score cutoffs** and **individual sectional cutoffs**.
+To secure a call for the Stage 2 CD/PI round at [NMIMS Mumbai](/colleges/nmims-mumbai), candidates must clear both **overall scaled score cutoffs** and **individual sectional cutoffs**.
 
 Here are the expected cutoff benchmarks based on historical NMAT scoring trends:
 

@@ -1,7 +1,7 @@
 ---
 title: 'Welingkar vs TAPMI: Which is Better for MBA/PGDM? (2026-2027)'
 date: '2026-03-25'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   A detailed comparison between Welingkar (WeSchool) and TAPMI Manipal. Compare
   fees, placements, cutoffs, admission process, and ROI to decide which is

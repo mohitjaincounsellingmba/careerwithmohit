@@ -1,7 +1,7 @@
 ---
 title: 'MBA in Digital Marketing 2026: Direct Admission Colleges, Fees, and Locations'
 date: '2026-03-27'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for MBA in Digital
   Marketing 2026: Direct Admission Colleges, Fees, and Locations. Check updated

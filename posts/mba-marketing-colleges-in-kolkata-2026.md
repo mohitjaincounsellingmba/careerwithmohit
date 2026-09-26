@@ -1,7 +1,7 @@
 ---
 title: Top MBA Marketing Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA Marketing colleges in Kolkata? Review 2026 guide comparing
   IIM Calcutta, IMI Kolkata, and IISWBM placements and fees.

@@ -100,7 +100,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Management Education & Research Institute (MERI)** (MERI Janakpuri) |
+| **Institution Name** | **[Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri)** (MERI Janakpuri) |
 | **Campus Location** | Janakpuri, West Delhi |
 | **Program Offered** | **PGDM (AICTE Approved) & MBA (GGSIPU Affiliated)** |
 | **Degree / Diploma Type** | **MBA / PGDM** |

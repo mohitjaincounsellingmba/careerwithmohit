@@ -21,7 +21,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
-category: Certifications & Skills
+category: Jobs & Careers
 location: Pune
 faqs:
   - question: >-

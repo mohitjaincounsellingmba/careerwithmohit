@@ -58,7 +58,7 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Ranked Institutions**: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta) (IIM ABC), [FMS Delhi](/colleges/fms-delhi), [XLRI Jamshedpur](/colleges/xlri-jamshedpur), ISB, and [SPJIMR Mumbai](/colleges/spjimr-mumbai) dominate national management education rankings.
-> - **Fee vs Placement ROI**: Program fees range from ₹2.32 Lakhs (FMS Delhi - Highest ROI) to ₹25–32 Lakhs (IIMs / ISB / XLRI), with average graduating domestic CTCs ranging between ₹22.5 LPA and ₹34.5 LPA.
+> - **Fee vs Placement ROI**: Program fees range from ₹2.32 Lakhs ([FMS Delhi](/colleges/fms-delhi) - Highest ROI) to ₹25–32 Lakhs (IIMs / ISB / XLRI), with average graduating domestic CTCs ranging between ₹22.5 LPA and ₹34.5 LPA.
 > - **Eligibility & Entrance Exams**: Bachelor's degree with 50% minimum aggregate; selection based on CAT, XAT, GMAT, NMAT, or SNAP followed by rigorous Analytical Writing Assessment (AWA), Group Discussions (GD), and Personal Interviews (PI).
 
 ### [InquiryCard title="Targeting Top Indian B-Schools for 2027?" description="Confused between IIMs, XLRI, FMS, SPJIMR, or Top Private B-Schools? Get 1-on-1 profile evaluation & percentile targeting with Mohit Jain." cta="Book Free Profile Evaluation" type="admission"]
@@ -106,10 +106,10 @@ In this verified 2027 admission guide, senior education consultant **Mohit Jain*
 ### 1. Tier 1: The National Titans (Average CTC: ₹26 LPA – ₹35 LPA)
 These institutes attract the world's most selective management consulting firms (*McKinsey, BCG, Bain*), bulge-bracket investment banks (*Goldman Sachs, Morgan Stanley, J.P. Morgan*), and global tech product giants (*Google, Microsoft, Amazon*).
 
-- **IIM Ahmedabad, Bangalore, Calcutta (IIM ABC)**: Undisputed leaders in brand equity, global alumni strength, and boardroom representation.
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta (IIM ABC)**: Undisputed leaders in brand equity, global alumni strength, and boardroom representation.
 - **FMS Delhi**: The highest return-on-investment institution across Asia, leveraging Delhi University’s subsidized fee structure and historic corporate ties.
-- **XLRI Jamshedpur**: Globally revered for Human Resource Management (HRM) and General Business Management (BM).
-- **SPJIMR Mumbai**: Pioneer in profile-based shortlisting and value-based management education situated in the financial capital.
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**: Globally revered for Human Resource Management (HRM) and General Business Management (BM).
+- **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: Pioneer in profile-based shortlisting and value-based management education situated in the financial capital.
 - **[JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)**: Exceptional ROI with Mumbai corporate immersion via Maharashtra State CAP round and All-India seats.
 
 ### 2. Tier 1.5: Super-Specialized & Corporate Hub Giants (Average CTC: ₹22 LPA – ₹28 LPA)
@@ -137,9 +137,9 @@ When evaluating top MBA colleges in India, candidates frequently confuse **Cost 
   Institution      │ Investment (Fee + Hostel) │ 1st Year In-Hand Net
   ─────────────────┼───────────────────────────┼─────────────────────
   FMS Delhi        │ ₹ 2.5 Lakhs               │ ₹ 1.70 - ₹ 1.90 Lakhs/mo
-  JBIMS Mumbai     │ ₹ 6.5 Lakhs               │ ₹ 1.55 - ₹ 1.75 Lakhs/mo
+  [JBIMS Mumbai](/colleges/jbims-mumbai)     │ ₹ 6.5 Lakhs               │ ₹ 1.55 - ₹ 1.75 Lakhs/mo
   IIM Ahmedabad    │ ₹ 28.0 Lakhs              │ ₹ 1.95 - ₹ 2.30 Lakhs/mo
-  MDI Gurgaon      │ ₹ 27.0 Lakhs              │ ₹ 1.50 - ₹ 1.70 Lakhs/mo
+  [MDI Gurgaon](/colleges/mdi-gurgaon)      │ ₹ 27.0 Lakhs              │ ₹ 1.50 - ₹ 1.70 Lakhs/mo
   Tier-2 Pvt B-Sch │ ₹ 18.0 - ₹ 22.0 Lakhs     │ ₹ 85,000 - ₹ 1.15 Lakhs/mo
 ```
 
@@ -154,8 +154,8 @@ To maximize your chances of getting into a top-tier Indian MBA program, do not p
 1. **National Standard Exam**: **CAT 2026** (Target: IIMs, FMS, MDI, SPJIMR, IITs, IMI).
 2. **Decision-Making & Critical Thinking**: **XAT 2027** (Target: XLRI, XIMB, IMT, TAPMI, GIM).
 3. **Speed & Accuracy Exams**:
-   - **NMAT by GMAC** (Target: NMIMS Mumbai, Bangalore, Hyderabad, TAPMI).
-   - **SNAP** (Target: SIBM Pune, SCMHRD, SIOM).
+   - **NMAT by GMAC** (Target: [NMIMS Mumbai](/colleges/nmims-mumbai), Bangalore, Hyderabad, TAPMI).
+   - **SNAP** (Target: [SIBM Pune](/colleges/sibm-pune), SCMHRD, SIOM).
    - **MAH-MBA CET** (Target: JBIMS, SIMSREE, PUMBA, Welingkar).
 4. **Alternative & Global Pathways**: **GMAT Focus Edition / GRE** (Target: ISB, SPJIMR, IIM Executive PGP).
 

@@ -112,7 +112,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Prestige Institute of Ma
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Prestige Institute of Management and Research (PIMR Indore)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Prestige Institute of Management and Research (PIMR Indore)](/colleges/pimr-indore)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CMAT / CAT / MAT / MP DTE Counselling). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

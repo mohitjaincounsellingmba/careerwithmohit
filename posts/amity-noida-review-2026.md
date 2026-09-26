@@ -125,7 +125,7 @@ Admission to **[Amity University](/colleges/amity-noida) (Noida Campus)** follow
 
 ---
 
-## 5. Why Choose Amity University (Noida Campus)? (Pros & Cons)
+## 5. Why Choose [Amity University](/colleges/amity-noida) (Noida Campus)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Sector 125 and across major commercial hubs in India.

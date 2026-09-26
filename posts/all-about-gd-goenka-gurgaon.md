@@ -3,7 +3,7 @@ title: >-
   GD Goenka University, Gurgaon PGDM Admission Review 2026: Placements, Fees &
   Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to GD Goenka University, Gurgaon? Read our comprehensive
   PGDM review for 2026 covering total fees, average and highest placement

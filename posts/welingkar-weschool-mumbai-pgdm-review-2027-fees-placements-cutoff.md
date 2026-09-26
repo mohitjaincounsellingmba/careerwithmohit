@@ -1,28 +1,58 @@
 ---
 title: 'WeSchool Mumbai MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for Welingkar Institute of Management (WeSchool) (Mumbai, Maharashtra). Check audited fees (₹14.00 Lakhs (Total)), average placement (₹12.50 LPA), entrance cutoffs (200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT), and admission tips by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 MBA review for Welingkar Institute of Management (WeSchool)
+  (Mumbai, Maharashtra). Check audited fees (₹14.00 Lakhs (Total)), average
+  placement (₹12.50 LPA), entrance cutoffs (200+ NMAT / 80+ CAT %ile / 80+ XAT
+  %ile / 85+ CMAT), and admission tips by Mohit Jain.
 keywords:
-  - 'welingkar institute of management (weschool) mba admission 2027'
-  - 'welingkar institute of management (weschool) fees structure 2027'
-  - 'welingkar institute of management (weschool) average placement package'
-  - 'welingkar institute of management (weschool) cutoff 2026 2027'
-  - 'weschool mumbai review 2027'
-  - 'top mba colleges in mumbai'
-  - 'best mba colleges in maharashtra'
-  - 'direct admission in welingkar institute of management (weschool)'
+  - welingkar institute of management (weschool) mba admission 2027
+  - welingkar institute of management (weschool) fees structure 2027
+  - welingkar institute of management (weschool) average placement package
+  - welingkar institute of management (weschool) cutoff 2026 2027
+  - weschool mumbai review 2027
+  - top mba colleges in mumbai
+  - best mba colleges in maharashtra
+  - direct admission in welingkar institute of management (weschool)
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: 'What is the average placement package at Welingkar Institute of Management (WeSchool) in 2026-2027?'
-    answer: 'The verified average placement package at Welingkar Institute of Management (WeSchool) stands at ₹12.50 LPA, with the median package benchmark at ₹11.80 LPA and highest domestic offers reaching ₹24.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Welingkar Institute of Management (WeSchool)?'
-    answer: 'Welingkar Institute of Management (WeSchool) accepts valid scores from CAT, XAT, NMAT, CMAT, ATMA followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at Welingkar Institute of Management (WeSchool)?'
-    answer: 'The total course tuition fee is approximately ₹14.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for Welingkar Institute of Management (WeSchool)?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Mumbai'
-state: 'Maharashtra'
+  - question: >-
+      What is the average placement package at Welingkar Institute of Management
+      (WeSchool) in 2026-2027?
+    answer: >-
+      The verified average placement package at Welingkar Institute of
+      Management (WeSchool) stands at ₹12.50 LPA, with the median package
+      benchmark at ₹11.80 LPA and highest domestic offers reaching ₹24.00 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Welingkar Institute
+      of Management (WeSchool)?
+    answer: >-
+      Welingkar Institute of Management (WeSchool) accepts valid scores from
+      CAT, XAT, NMAT, CMAT, ATMA followed by institutional profile evaluation
+      and personal interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at Welingkar
+      Institute of Management (WeSchool)?
+    answer: >-
+      The total course tuition fee is approximately ₹14.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      What is the expected entrance cutoff for Welingkar Institute of Management
+      (WeSchool)?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 200+
+      NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT. Profile diversity and
+      corporate work experience may offer relaxed considerations.
+location: Mumbai
+state: Maharashtra
 ---
 
 # [Welingkar Institute of Management (WeSchool)](/colleges/welingkar-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI

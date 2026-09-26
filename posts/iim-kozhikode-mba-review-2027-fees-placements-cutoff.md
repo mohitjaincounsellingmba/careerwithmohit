@@ -1,28 +1,42 @@
 ---
 title: 'IIMK MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Kozhikode (Kozhikode, Kerala). Check audited fees (₹20.50 Lakhs (Total)), average placement (₹31.02 LPA), entrance cutoffs (97.5+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Kozhikode (Kozhikode, Kerala). Check audited
+  fees (₹20.50 Lakhs (Total)), average placement (₹31.02 LPA), entrance cutoffs
+  (97.5+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim kozhikode mba admission 2027'
-  - 'iim kozhikode fees structure 2027'
-  - 'iim kozhikode average placement package'
-  - 'iim kozhikode cutoff 2026 2027'
-  - 'iimk review 2027'
-  - 'top mba colleges in kozhikode'
-  - 'best mba colleges in kerala'
-  - 'direct admission in iim kozhikode'
+  - iim kozhikode mba admission 2027
+  - iim kozhikode fees structure 2027
+  - iim kozhikode average placement package
+  - iim kozhikode cutoff 2026 2027
+  - iimk review 2027
+  - top mba colleges in kozhikode
+  - best mba colleges in kerala
+  - direct admission in iim kozhikode
 faqs:
-  - question: 'What is the average placement package at IIM Kozhikode in 2026-2027?'
-    answer: 'The verified average placement package at IIM Kozhikode stands at ₹31.02 LPA, with the median package benchmark at ₹27.00 LPA and highest domestic offers reaching ₹67.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Kozhikode?'
-    answer: 'IIM Kozhikode accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Kozhikode?'
-    answer: 'The total course tuition fee is approximately ₹20.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Kozhikode?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 97.5+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Kozhikode'
-state: 'Kerala'
+  - question: What is the average placement package at IIM Kozhikode in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Kozhikode stands at ₹31.02
+      LPA, with the median package benchmark at ₹27.00 LPA and highest domestic
+      offers reaching ₹67.00 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Kozhikode?
+    answer: >-
+      IIM Kozhikode accepts valid scores from CAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Kozhikode?
+    answer: >-
+      The total course tuition fee is approximately ₹20.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Kozhikode?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 97.5+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Kozhikode
+state: Kerala
 ---
 
 # [IIM Kozhikode](/colleges/iim-kozhikode/) Review 2027: Fees, Cutoff, Placements & Admission ROI

@@ -1,7 +1,7 @@
 ---
 title: Top MBA HR Colleges in Kolkata 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA HR colleges in Kolkata? Review 2026 guide comparing IIM
   Calcutta, IISWBM, and IMI Kolkata placements and program fees.

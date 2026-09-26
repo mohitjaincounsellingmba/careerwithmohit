@@ -62,7 +62,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **Goa Institute of Management (GIM Goa)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[Goa Institute of Management (GIM Goa)](/colleges/gim-goa)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

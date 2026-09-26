@@ -1,7 +1,7 @@
 ---
 title: Automating Coaching Fees & GST Invoicing — 2026 Operations Guide
 date: '2026-04-21'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Automating
   Coaching Fees & GST Invoicing — 2026 Operations Guide. Check updated fees,

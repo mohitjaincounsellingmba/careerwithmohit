@@ -107,7 +107,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Rajagiri Centre for Busi
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Rajagiri Centre for Business Studies (RCBS Kochi)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / CMAT / KMAT Kerala / MAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

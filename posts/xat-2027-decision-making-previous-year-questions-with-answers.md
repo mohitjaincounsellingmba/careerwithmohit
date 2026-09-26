@@ -55,7 +55,7 @@ The **Xavier Aptitude Test (XAT)**, conducted annually by [XLRI Jamshedpur](/col
 
 Carrying 21 to 22 questions, the DM section accounts for a standalone sectional cutoff at [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIMB Bhubaneswar, and IMT Ghaziabad. Many students with 99 percentile in Quantitative Aptitude and Verbal Ability fail to convert XLRI calls simply because they stumble below the **75th percentile threshold in Decision Making**.
 
-[InquiryCard title="Targeting XLRI Jamshedpur via XAT 2027?" description="Get specialized Decision Making and Essay Writing prep strategies directly from mentor Mohit Jain." cta="Book XAT Mentorship Session" type="counselling"]
+[InquiryCard title="Targeting [XLRI Jamshedpur](/colleges/xlri-jamshedpur) via XAT 2027?" description="Get specialized Decision Making and Essay Writing prep strategies directly from mentor Mohit Jain." cta="Book XAT Mentorship Session" type="counselling"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Core Dilemma**: Decision Making tests balanced managerial judgment across business viability, human empathy, and legal ethics.

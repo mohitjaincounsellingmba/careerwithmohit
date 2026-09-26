@@ -3,7 +3,7 @@ title: >-
   SOIL Institute of Management PGDM Admission Review 2026: Placements, Fees &
   Cutoff
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,

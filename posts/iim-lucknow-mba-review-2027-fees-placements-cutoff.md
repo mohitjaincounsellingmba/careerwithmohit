@@ -1,28 +1,42 @@
 ---
 title: 'IIML MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Lucknow (Lucknow, Uttar Pradesh). Check audited fees (₹20.75 Lakhs (Total)), average placement (₹32.20 LPA), entrance cutoffs (98.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Lucknow (Lucknow, Uttar Pradesh). Check
+  audited fees (₹20.75 Lakhs (Total)), average placement (₹32.20 LPA), entrance
+  cutoffs (98.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim lucknow mba admission 2027'
-  - 'iim lucknow fees structure 2027'
-  - 'iim lucknow average placement package'
-  - 'iim lucknow cutoff 2026 2027'
-  - 'iiml review 2027'
-  - 'top mba colleges in lucknow'
-  - 'best mba colleges in uttar pradesh'
-  - 'direct admission in iim lucknow'
+  - iim lucknow mba admission 2027
+  - iim lucknow fees structure 2027
+  - iim lucknow average placement package
+  - iim lucknow cutoff 2026 2027
+  - iiml review 2027
+  - top mba colleges in lucknow
+  - best mba colleges in uttar pradesh
+  - direct admission in iim lucknow
 faqs:
-  - question: 'What is the average placement package at IIM Lucknow in 2026-2027?'
-    answer: 'The verified average placement package at IIM Lucknow stands at ₹32.20 LPA, with the median package benchmark at ₹30.00 LPA and highest domestic offers reaching ₹1.00 Crore.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Lucknow?'
-    answer: 'IIM Lucknow accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Lucknow?'
-    answer: 'The total course tuition fee is approximately ₹20.75 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Lucknow?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 98.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Lucknow'
-state: 'Uttar Pradesh'
+  - question: What is the average placement package at IIM Lucknow in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Lucknow stands at ₹32.20
+      LPA, with the median package benchmark at ₹30.00 LPA and highest domestic
+      offers reaching ₹1.00 Crore.
+  - question: What entrance exams are accepted for 2027 admission at IIM Lucknow?
+    answer: >-
+      IIM Lucknow accepts valid scores from CAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Lucknow?
+    answer: >-
+      The total course tuition fee is approximately ₹20.75 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Lucknow?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 98.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Lucknow
+state: Uttar Pradesh
 ---
 
 # [IIM Lucknow](/colleges/iim-lucknow/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Lucknow](/colleges/iim-lucknow/)** reflect continuous corpo
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Lucknow** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Lucknow](/colleges/iim-lucknow)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT**) and achieve the minimum qualifying percentile/score.

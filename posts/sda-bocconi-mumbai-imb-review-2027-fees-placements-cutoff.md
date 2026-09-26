@@ -1,28 +1,56 @@
 ---
 title: 'SDA Bocconi Mumbai MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for SDA Bocconi Asia Center (Mumbai, Maharashtra). Check audited fees (₹19.40 Lakhs (Total)), average placement (₹14.30 LPA), entrance cutoffs (200+ NMAT / Bocconi Test / 80+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for SDA Bocconi Asia Center (Mumbai, Maharashtra).
+  Check audited fees (₹19.40 Lakhs (Total)), average placement (₹14.30 LPA),
+  entrance cutoffs (200+ NMAT / Bocconi Test / 80+ CAT %ile), and admission tips
+  by Mohit Jain.
 keywords:
-  - 'sda bocconi asia center mba admission 2027'
-  - 'sda bocconi asia center fees structure 2027'
-  - 'sda bocconi asia center average placement package'
-  - 'sda bocconi asia center cutoff 2026 2027'
-  - 'sda bocconi mumbai review 2027'
-  - 'top mba colleges in mumbai'
-  - 'best mba colleges in maharashtra'
-  - 'direct admission in sda bocconi asia center'
+  - sda bocconi asia center mba admission 2027
+  - sda bocconi asia center fees structure 2027
+  - sda bocconi asia center average placement package
+  - sda bocconi asia center cutoff 2026 2027
+  - sda bocconi mumbai review 2027
+  - top mba colleges in mumbai
+  - best mba colleges in maharashtra
+  - direct admission in sda bocconi asia center
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 faqs:
-  - question: 'What is the average placement package at SDA Bocconi Asia Center in 2026-2027?'
-    answer: 'The verified average placement package at SDA Bocconi Asia Center stands at ₹14.30 LPA, with the median package benchmark at ₹13.50 LPA and highest domestic offers reaching ₹36.28 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at SDA Bocconi Asia Center?'
-    answer: 'SDA Bocconi Asia Center accepts valid scores from NMAT, CAT, GMAT, GRE, Bocconi Test followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at SDA Bocconi Asia Center?'
-    answer: 'The total course tuition fee is approximately ₹19.40 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for SDA Bocconi Asia Center?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 200+ NMAT / Bocconi Test / 80+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Mumbai'
-state: 'Maharashtra'
+  - question: >-
+      What is the average placement package at SDA Bocconi Asia Center in
+      2026-2027?
+    answer: >-
+      The verified average placement package at SDA Bocconi Asia Center stands
+      at ₹14.30 LPA, with the median package benchmark at ₹13.50 LPA and highest
+      domestic offers reaching ₹36.28 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at SDA Bocconi Asia
+      Center?
+    answer: >-
+      SDA Bocconi Asia Center accepts valid scores from NMAT, CAT, GMAT, GRE,
+      Bocconi Test followed by institutional profile evaluation and personal
+      interview rounds (GD-PI / WAT).
+  - question: >-
+      What is the total fee structure for the MBA/PGDM program at SDA Bocconi
+      Asia Center?
+    answer: >-
+      The total course tuition fee is approximately ₹19.40 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for SDA Bocconi Asia Center?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 200+
+      NMAT / Bocconi Test / 80+ CAT %ile. Profile diversity and corporate work
+      experience may offer relaxed considerations.
+location: Mumbai
+state: Maharashtra
 ---
 
 # [SDA Bocconi Asia Center](/colleges/sda-bocconi-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI

@@ -95,7 +95,7 @@ In this comprehensive, data-driven **FOSTIIMA Business School review 2027–2029
 | Parameter | Official Institutional Details |
 | :--- | :--- |
 | **Institution Name** | **FOSTIIMA Business School** |
-| **Founding Body** | Alumni of IIM Ahmedabad (1973 Batch) |
+| **Founding Body** | Alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad) (1973 Batch) |
 | **Campus Location** | Plot No. HAF-1, Sector 9, Dwarka, New Delhi - 110077 |
 | **Approvals** | AICTE Approved, Ministry of Education, Govt. of India |
 | **Flagship Offering** | Post Graduate Diploma in Management (PGDM - 2 Years Full-Time) |

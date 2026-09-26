@@ -107,7 +107,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Faculty of Management Sc
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **Faculty of Management Sciences, Shoolini University** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Faculty of Management Sciences, Shoolini University](/colleges/shoolini-university-solan)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / MAT / GMAT / HP-CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.

@@ -90,7 +90,7 @@ In this 2027 admission review, senior educational advisor **Mohit Jain** deliver
          ▼                                                   ▼
   [Tier-1: National Premier]                 [Tier-2: Affordable Corporate]
   IMT Ghaziabad (Raj Nagar)                  IMS Ghaziabad (Lal Quan)
-  - Avg CTC: ₹18.9 LPA                       Jaipuria School of Business (JSB)
+  - Avg CTC: ₹18.9 LPA                       [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB)
   - CAT/XAT 90+ %ile                         ITS Mohan Nagar (PGDM/MBA)
 ```
 

@@ -88,12 +88,12 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [Tier-1: National Titans]    [High-ROI Government Icons]   [Corporate Giants]
-  SPJIMR, SJMSOM IIT Bombay,   JBIMS (₹6.1L Fee)             NMIMS Mumbai, BITSOM,
+  SPJIMR, SJMSOM [IIT Bombay](/colleges/iit-bombay),   JBIMS (₹6.1L Fee)             [NMIMS Mumbai](/colleges/nmims-mumbai), BITSOM,
   TISS Mumbai (MA-HRM)         SIMSREE (₹1.36L Fee)          Welingkar, KJ Somaiya
 ```
 
 ### 1. The Super-Elite Tier (SPJIMR, JBIMS, SJMSOM, TISS)
-- **SPJIMR Mumbai**: Recognized worldwide for non-classroom learning (Abhyudaya, DOCC, Autumn Internships) and specialized tracks in Marketing, Finance, Operations, and Information Management.
+- **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: Recognized worldwide for non-classroom learning (Abhyudaya, DOCC, Autumn Internships) and specialized tracks in Marketing, Finance, Operations, and Information Management.
 - **[JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)**: Unmatched Mumbai alumni network leading top private banks, NBFCs, and conglomerates (including Chanda Kochhar, Uday Kotak, Ajay Piramal).
 - **SJMSOM IIT Bombay**: Outstanding analytics and supply chain placements with strong engineering rigor.
 - **TISS Mumbai**: The gold standard across Asia for Human Resource Management and Industrial Relations.
@@ -115,7 +115,7 @@ If you are targeting a career in **Investment Banking, Private Equity, Equity Re
 
 ## Frequently Asked Questions (FAQs)
 
-### How can I get into JBIMS Mumbai through MAH-CET?
+### How can I get into [JBIMS Mumbai](/colleges/jbims-mumbai) through MAH-CET?
 Admission to JBIMS MMS program is conducted strictly via the Maharashtra State Common Entrance Test (MAH-MBA CET) through Centralized Admission Process (CAP) rounds. General category Maharashtra domicile cutoffs are typically **99.90 to 99.95+ percentile**, while All-India quota cutoffs require **99.99 percentile**.
 
 ### What is the difference between SPJIMR profile-based and score-based calls?

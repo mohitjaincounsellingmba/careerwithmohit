@@ -56,7 +56,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **IIM Bodh Gaya** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |

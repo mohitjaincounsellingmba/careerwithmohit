@@ -100,7 +100,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **Bennett University** (Bennett Greater Noida) |
+| **Institution Name** | **[Bennett University](/colleges/bennett-greater-noida)** (Bennett Greater Noida) |
 | **Campus Location** | Greater Noida Tech Corridor, UP |
 | **Program Offered** | **2-Year Full-Time MBA (Marketing, Finance & FinTech, HR, Business Analytics, Media & Entertainment)** |
 | **Degree / Diploma Type** | **MBA** |

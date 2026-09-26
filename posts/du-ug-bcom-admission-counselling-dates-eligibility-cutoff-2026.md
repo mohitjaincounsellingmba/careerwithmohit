@@ -41,14 +41,14 @@ faqs:
       For general category students, a safe CUET UG score for SRCC is 780-800+,
       and for Hindu College, it is 760-790+. These are estimated based on past
       merit trends.
-category: Career Advisory
+category: Jobs & Careers
 location: Delhi NCR
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Looking for Delhi University DU BCom and UG admission updates? Get the complete breakdown of DU CSAS 2026 coun...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Delhi University (DU) is the dream destination for millions of high school graduates across India. Specifically, programs like **B.Com (Hons.)** and **B.Com (Programme)** offered by top colleges such as SRCC, Hindu College, Hansraj College, and Lady Shri Ram (LSR) witness intense competition every year. 
 

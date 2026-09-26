@@ -53,7 +53,7 @@ For students planning to enroll in the 2027 academic session, understanding the 
 
 ---
 
-## Key Highlights of Jain University Online Fees (2027)
+## Key Highlights of [Jain University](/colleges/jain-university) Online Fees (2027)
 
 * **Accreditation**: NAAC A++ | UGC-DEB | AICTE | NIRF | WES Approved
 * **Online MBA Total Fee**: ₹1,96,000 total course fee (₹49,000 per semester)

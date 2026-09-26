@@ -3,7 +3,7 @@ title: >-
   MBA in Business Analytics vs. MBA in Data Analytics: Which is Best for Your
   Career in 2026?
 date: '2026-06-16'
-category: MBA
+category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
   colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,

@@ -86,7 +86,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ## Detailed College Review by Region
 
 ### Mumbai Region NMAT Colleges
-* **NMIMS Mumbai:** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
+* **[NMIMS Mumbai](/colleges/nmims-mumbai):** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
 * **SDA Bocconi Asia Center:** European pedagogy with international faculty from Milan, Italy.
 * **K J Somaiya:** Excellent finance and data science placement tracks.
 

@@ -1,7 +1,7 @@
 ---
 title: 'GST Basics for Beginners 2026 — Filing, Rates & SAC Codes Guide'
 date: '2026-04-21'
-category: Career Advisory
+category: Jobs & Careers
 description: >-
   New to the world of GST? Discover the basics of Goods and Services Tax in
   2026. Learn about CGST, SGST, IGST, HSN codes, and the step-by-step GST return
@@ -44,7 +44,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: New to the world of GST? Discover the basics of Goods and Services Tax in 2026. Learn about CGST, SGST, IGST, ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The implementation of the Goods and Services Tax (GST) has consolidated India into a "One Nation, One Tax" economy. However, for a student, a freelancer, or a new business owner in 2026, the technicalities of GST can still be confusing. Understanding HSN codes, Input Tax Credit (ITC), and the nuances between IGST and CGST is essential to stay compliant and avoid heavy penalties.

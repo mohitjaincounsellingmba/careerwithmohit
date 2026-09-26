@@ -91,8 +91,8 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 * **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/all-about-fiib-delhi) and [All About JIMS Kalkaji](/blog/all-about-jims-kalkaji).
 
 ### 2. Pune Hub (50–70 Percentile Options)
-* **PIBM Pune & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/blog/all-about-pibm-pune) and [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence).
-* **RIIM Pune:** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune).
+* **[PIBM Pune](/colleges/pibm-pune) & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/blog/all-about-pibm-pune) and [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence).
+* **[RIIM Pune](/colleges/riim-pune):** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune).
 
 ### 3. Greater Noida Hub (50–65 Percentile Options)
 * **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida) and [All About GNIOT GIMS](/blog/all-about-gniot-institute-of-management-studies-gims).

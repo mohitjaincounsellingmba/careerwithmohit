@@ -86,7 +86,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **IIEBM (Indus Business School)** (IIEBM Pune) |
+| **Institution Name** | **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** (IIEBM Pune) |
 | **Campus Location** | Wakad, Pune, Maharashtra |
 | **Program Offered** | **2-Year Full-Time PGDM & PGPERP (SAP Integrated)** |
 | **Degree / Diploma Type** | **PGDM** |

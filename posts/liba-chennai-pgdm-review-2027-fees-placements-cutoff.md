@@ -1,28 +1,48 @@
 ---
 title: 'LIBA Chennai MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for LIBA Chennai (Chennai, Tamil Nadu). Check audited fees (₹17.00 Lakhs (Total)), average placement (₹11.50 LPA), entrance cutoffs (80.0+ XAT / CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for LIBA Chennai (Chennai, Tamil Nadu). Check audited
+  fees (₹17.00 Lakhs (Total)), average placement (₹11.50 LPA), entrance cutoffs
+  (80.0+ XAT / CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'liba chennai mba admission 2027'
-  - 'liba chennai fees structure 2027'
-  - 'liba chennai average placement package'
-  - 'liba chennai cutoff 2026 2027'
-  - 'liba chennai review 2027'
-  - 'top mba colleges in chennai'
-  - 'best mba colleges in tamil nadu'
-  - 'direct admission in liba chennai'
+  - liba chennai mba admission 2027
+  - liba chennai fees structure 2027
+  - liba chennai average placement package
+  - liba chennai cutoff 2026 2027
+  - liba chennai review 2027
+  - top mba colleges in chennai
+  - best mba colleges in tamil nadu
+  - direct admission in liba chennai
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
 faqs:
-  - question: 'What is the average placement package at LIBA Chennai in 2026-2027?'
-    answer: 'The verified average placement package at LIBA Chennai stands at ₹11.50 LPA, with the median package benchmark at ₹11.00 LPA and highest domestic offers reaching ₹20.50 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at LIBA Chennai?'
-    answer: 'LIBA Chennai accepts valid scores from CAT, XAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at LIBA Chennai?'
-    answer: 'The total course tuition fee is approximately ₹17.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for LIBA Chennai?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 80.0+ XAT / CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Chennai'
-state: 'Tamil Nadu'
+  - question: What is the average placement package at LIBA Chennai in 2026-2027?
+    answer: >-
+      The verified average placement package at LIBA Chennai stands at ₹11.50
+      LPA, with the median package benchmark at ₹11.00 LPA and highest domestic
+      offers reaching ₹20.50 LPA.
+  - question: What entrance exams are accepted for 2027 admission at LIBA Chennai?
+    answer: >-
+      LIBA Chennai accepts valid scores from CAT, XAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at LIBA Chennai?
+    answer: >-
+      The total course tuition fee is approximately ₹17.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for LIBA Chennai?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 80.0+
+      XAT / CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Chennai
+state: Tamil Nadu
 ---
 
 # [LIBA Chennai](/colleges/liba-chennai/) Review 2027: Fees, Cutoff, Placements & Admission ROI

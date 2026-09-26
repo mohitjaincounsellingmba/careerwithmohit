@@ -21,7 +21,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-category: MBA
+category: Exams
 location: Mumbai
 faqs:
   - question: >-
@@ -99,7 +99,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Atlas SkillTech University, Mumbai maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai), Mumbai maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

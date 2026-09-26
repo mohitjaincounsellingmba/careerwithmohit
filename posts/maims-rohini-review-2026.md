@@ -134,7 +134,7 @@ Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/inst
 
 ---
 
-## 5. Why Choose Maharaja Agrasen Institute of Management Studies (MAIMS)? (Pros & Cons)
+## 5. Why Choose Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Rohini and across major commercial hubs in India.

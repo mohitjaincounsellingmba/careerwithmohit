@@ -37,7 +37,7 @@ faqs:
       The base salary floor at Baby IIMs in 2025 was recorded between INR 10.5
       LPA and INR 12.5 LPA, ensuring strong downside protection even during
       conservative economic cycles.
-category: MBA
+category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -83,12 +83,12 @@ graph TD
     A --> E[IIM Sambalpur, Bodh Gaya & Sirmaur: High Value Growth]
 ```
 
-### 1. IIM Amritsar: The Outperformer
+### 1. [IIM Amritsar](/colleges/iim-amritsar): The Outperformer
 *   **Average Salary**: ₹19.73 LPA | **Highest International Package**: ₹58.52 LPA
 *   **Performance Surge**: IIM Amritsar recorded strong recruitment across both its General MBA and specialized MBA in Business Analytics (MBA-BA) & MBA-HR programs.
 *   **Key Recruiters**: Accenture, Amazon, BNY Mellon, Deloitte, ICICI Bank, Infosys, Kotak Mahindra, and PwC.
 
-### 2. IIM Nagpur: The MIHAN Advantage
+### 2. [IIM Nagpur](/colleges/iim-nagpur): The MIHAN Advantage
 *   **Average Salary**: ₹18.07 LPA (significant increase from ₹16.29 LPA in 2024)
 *   **Highest Salary**: ₹69.57 LPA (4 international offers)
 *   **Strategic Location**: Situated within the MIHAN SEZ multi-modal industrial hub, IIM Nagpur leveraged strong regional corporate integration for high-paying strategy and supply chain roles.
@@ -97,10 +97,10 @@ graph TD
 *   **Average Salary**: ₹16.40 LPA | **Median Salary**: ₹15.50 LPA
 *   **Highlights**: Located on its world-class permanent Gambheeram campus, IIM Vizag witnessed heavy recruitment in IT/ITES (33%), BFSI (28%), and Consulting (21%).
 
-### 4. IIM Jammu, Sambalpur, Bodh Gaya & Sirmaur
+### 4. [IIM Jammu](/colleges/iim-jammu), Sambalpur, Bodh Gaya & Sirmaur
 *   **IIM Jammu**: Recorded average compensation exceeding ₹16.00 LPA, with its newly expanded permanent campus attracting over 120 recruiters.
-*   **IIM Sambalpur**: Achieved a high offer of ₹48.60 LPA and an average of ₹15.65 LPA, championing digital innovation and sustainability consulting.
-*   **IIM Bodh Gaya & Sirmaur**: Delivered steady salary floors with median CTCs around ₹13.00 LPA and lowest package protection around ₹10.5–11.5 LPA.
+*   **[IIM Sambalpur](/colleges/iim-sambalpur)**: Achieved a high offer of ₹48.60 LPA and an average of ₹15.65 LPA, championing digital innovation and sustainability consulting.
+*   **[IIM Bodh Gaya](/colleges/iim-bodh-gaya) & Sirmaur**: Delivered steady salary floors with median CTCs around ₹13.00 LPA and lowest package protection around ₹10.5–11.5 LPA.
 
 ---
 

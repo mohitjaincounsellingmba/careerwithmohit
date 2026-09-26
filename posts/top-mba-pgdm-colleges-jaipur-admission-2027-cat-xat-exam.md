@@ -77,13 +77,13 @@ category: Exams
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
 * **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-jaipur).
 
-### 2. IIHMR University Jaipur
+### 2. [IIHMR University](/colleges/iihmr-university) Jaipur
 * **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/blog/all-about-iihmr-university).
 
 ### 3. FMS-IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management))
 * **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/blog/all-about-fms-irm-jaipur).
 
-### 4. Taxila Business School
+### 4. [Taxila Business School](/colleges/taxila-jaipur)
 * **Focus:** Known for intensive Business Analytics, SAP, and Digital Strategy with personal career coaching. Read [All About Taxila Jaipur](/blog/all-about-taxila-jaipur).
 
 ---

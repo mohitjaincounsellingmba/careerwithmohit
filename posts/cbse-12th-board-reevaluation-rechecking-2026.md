@@ -44,12 +44,12 @@ faqs:
       reliable benchmark for students.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CBSE 12th Board Reevaluation & Rechecking 2026...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **CBSE Class 12 Results 2026** were recently declared, and while many students have celebrated their success, some may feel that their marks do not reflect their true performance. If you are unsatisfied with your results, the Central Board of Secondary Education (CBSE) provides a formal mechanism for **Verification of Marks, Obtaining Photocopies, and Re-evaluation.**
 

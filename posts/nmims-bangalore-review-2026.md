@@ -122,7 +122,7 @@ Admission to **[NMIMS Bangalore](/colleges/nmims-bangalore)** follows a holistic
 
 ---
 
-## 5. Why Choose NMIMS Bangalore? (Pros & Cons)
+## 5. Why Choose [NMIMS Bangalore](/colleges/nmims-bangalore)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Bangalore and across major commercial hubs in India.

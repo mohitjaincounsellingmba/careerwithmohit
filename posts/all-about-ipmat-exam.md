@@ -87,7 +87,7 @@ There are three main entrance exams under the IPM umbrella:
 | **Total Questions** | 90 Questions | 120 Questions |
 | **Total Marks** | 360 Marks | 480 Marks |
 | **Marking Scheme** | +4 for correct, -1 for incorrect MCQs (0 negative for SA) | +4 for correct, -1 for incorrect |
-| **Accepting Colleges** | IIM Indore, [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, TAPMI, Nirma | IIM Rohtak |
+| **Accepting Colleges** | [IIM Indore](/colleges/iim-indore), [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, TAPMI, Nirma | [IIM Rohtak](/colleges/iim-rohtak) |
 
 ---
 
@@ -221,7 +221,7 @@ IIM Rohtak incorporates past academic record (Class 10 and 12 percentages) along
 | **Past Academics (Class 12 Percentage)** | **20%** |
 | **Total Composite Score** | **100%** |
 
-### C. IIM Ranchi IPM Final Selection Criteria
+### C. [IIM Ranchi](/colleges/iim-ranchi) IPM Final Selection Criteria
 IIM Ranchi uses IPMAT Indore scores for shortlisting and computes the final composite score as follows:
 * **IPMAT Indore Score:** 50%
 * **Personal Interview (PI):** 30%

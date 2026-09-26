@@ -91,7 +91,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **International School of Management Excellence (ISME)** (ISME Bangalore) |
+| **Institution Name** | **International School of Management Excellence (ISME)** ([ISME Bangalore](/colleges/isme-bangalore)) |
 | **Campus Location** | Sarjapur Road, Bangalore, Karnataka |
 | **Program Offered** | **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics, Logistics)** |
 | **Degree / Diploma Type** | **PGDM** |

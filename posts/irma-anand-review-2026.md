@@ -134,7 +134,7 @@ Admission to **IRMA Anand ([Institute of Rural Management](/colleges/institute-o
 
 ---
 
-## 5. Why Choose IRMA Anand (Institute of Rural Management Anand)? (Pros & Cons)
+## 5. Why Choose IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management) Anand)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Anand and across major commercial hubs in India.

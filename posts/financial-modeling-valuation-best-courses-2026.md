@@ -1,7 +1,7 @@
 ---
 title: Financial Modeling & Valuation 2026 — Best Courses & Essential Skills
 date: '2026-04-21'
-category: Certifications & Skills
+category: Jobs & Careers
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Financial
   Modeling & Valuation 2026 — Best Courses & Essential Skills. Check updated

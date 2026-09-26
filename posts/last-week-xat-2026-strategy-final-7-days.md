@@ -41,12 +41,12 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for Last‑Week XAT 2026 Strategy: What to Do in the...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The final week leading up to the Xavier Aptitude Test (XAT) is often filled with anxiety. Unlike CAT, which is held in November, XAT takes place in early January. This gives candidates an extra month of preparation, but it also increases the pressure to perform, as XAT is often the final opportunity to secure a seat at a premier Tier-1 business school like [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
 

@@ -44,12 +44,12 @@ faqs:
       reliable benchmark for students.
 location: Delhi NCR
 state: Delhi NCR
-category: Career Advisory
+category: Jobs & Careers
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for How to Make Viral ‘Bachcha Hai Tu Mera’ Memes ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & FMS Delhi certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 If you have been scrolling through Instagram or X (Twitter) lately, you must have seen the iconic **Jameel Jamali** (played by Rakesh Bedi) pointing at something and saying, **“Bachcha Hai Tu Mera.”** This trend from the movie *Dhurandhar 2* has taken the internet by storm, with everyone from local shops to global brands joining the viral wave.
 

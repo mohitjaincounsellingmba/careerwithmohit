@@ -1,7 +1,7 @@
 ---
 title: Top MBA FinTech Colleges in Bangalore 2026 — Placements & Fees
 date: '2026-07-17'
-category: MBA
+category: Exams
 description: >-
   Looking for top MBA FinTech colleges in Bangalore? Discover 2026 fees,
   packages, and cutoffs for IIM Bangalore, SIBM, Christ, and Welingkar in this

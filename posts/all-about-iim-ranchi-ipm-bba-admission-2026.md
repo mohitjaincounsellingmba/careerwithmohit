@@ -44,7 +44,7 @@ state: Delhi NCR
 
 [IIM Ranchi](/colleges/iim-ranchi) is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, [IIM Ranchi](/colleges/iim-ranchi) has become a top choice for students who want an IIM brand right after school in 2026.
 
-## 🏛️ Why Choose IIM Ranchi IPM in 2026?
+## 🏛️ Why Choose [IIM Ranchi](/colleges/iim-ranchi) IPM in 2026?
 The IPM program at IIM Ranchi is designed to provide a solid foundation in management with a multi-disciplinary approach.
 - **Academic Rigor:** Curriculum curated by top IIM faculty.
 - **Industry Connect:** Jharkhand's industrial hub provides ample opportunities for field projects and internships.

@@ -1,28 +1,42 @@
 ---
 title: 'IIM Raipur MBA Admission 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Raipur (Raipur, Chhattisgarh). Check audited fees (₹18.00 Lakhs (Total)), average placement (₹21.04 LPA), entrance cutoffs (94.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Raipur (Raipur, Chhattisgarh). Check audited
+  fees (₹18.00 Lakhs (Total)), average placement (₹21.04 LPA), entrance cutoffs
+  (94.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim raipur mba admission 2027'
-  - 'iim raipur fees structure 2027'
-  - 'iim raipur average placement package'
-  - 'iim raipur cutoff 2026 2027'
-  - 'iim-raipur review 2027'
-  - 'top mba colleges in raipur'
-  - 'best mba colleges in chhattisgarh'
-  - 'direct admission in iim raipur'
+  - iim raipur mba admission 2027
+  - iim raipur fees structure 2027
+  - iim raipur average placement package
+  - iim raipur cutoff 2026 2027
+  - iim-raipur review 2027
+  - top mba colleges in raipur
+  - best mba colleges in chhattisgarh
+  - direct admission in iim raipur
 faqs:
-  - question: 'What is the average placement package at IIM Raipur in 2026-2027?'
-    answer: 'The verified average placement package at IIM Raipur stands at ₹21.04 LPA, with the median package benchmark at ₹20.00 LPA and highest domestic offers reaching ₹67.60 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Raipur?'
-    answer: 'IIM Raipur accepts valid scores from CAT (CAP) followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Raipur?'
-    answer: 'The total course tuition fee is approximately ₹18.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Raipur?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 94.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Raipur'
-state: 'Chhattisgarh'
+  - question: What is the average placement package at IIM Raipur in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Raipur stands at ₹21.04 LPA,
+      with the median package benchmark at ₹20.00 LPA and highest domestic
+      offers reaching ₹67.60 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Raipur?
+    answer: >-
+      IIM Raipur accepts valid scores from CAT (CAP) followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Raipur?
+    answer: >-
+      The total course tuition fee is approximately ₹18.00 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Raipur?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 94.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Raipur
+state: Chhattisgarh
 ---
 
 # [IIM Raipur](/colleges/iim-raipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -101,7 +115,7 @@ Placements at **[IIM Raipur](/colleges/iim-raipur/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **IIM Raipur** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Raipur](/colleges/iim-raipur)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.

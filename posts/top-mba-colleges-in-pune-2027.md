@@ -87,13 +87,13 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [Symbiosis Flagships]        [Super-Specialized Leaders]     [High-ROI & Corporate]
-  SIBM Pune & SCMHRD           NIBM (Banking) & NIA (Insur.)   PUMBA, Balaji (BIMM),
+  [SIBM Pune](/colleges/sibm-pune) & SCMHRD           NIBM (Banking) & NIA (Insur.)   PUMBA, Balaji (BIMM),
   - ₹23.7 to ₹26.7 LPA CTC     - ₹12.8 to ₹15.2 LPA CTC        Indira (IIMP), ISB&M
 ```
 
 ### 1. Symbiosis Flagship Institutes (SIBM & SCMHRD)
 - **SIBM Pune (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
-- **SCMHRD Pune (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
+- **[SCMHRD Pune](/colleges/scmhrd-pune) (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
 
 ### 2. Super-Specialized National BFSI Leaders (NIBM & NIA)
 - **NIBM Pune**: Established by RBI and commercial banks. Recruits senior treasury officers, credit underwriters, and investment bankers directly into national and international banking institutions.

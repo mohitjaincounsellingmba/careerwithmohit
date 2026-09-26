@@ -37,7 +37,7 @@ state: Delhi NCR
 [IIM Bodh Gaya](/colleges/iim-bodh-gaya), located in the land of enlightenment, is one of the third-generation IIMs to offer the 5-Year Integrated Programme in Management (IPM). With its modern campus and growing reputation, it is a significant player in the undergraduate management space in 2026.
 
 ## 🏛️ Why Choose [IIM Bodh Gaya](/colleges/iim-bodh-gaya) IPM in 2026?
-The IPM program at IIM Bodh Gaya is designed to nurture socially responsible and mindful business leaders.
+The IPM program at [IIM Bodh Gaya](/colleges/iim-bodh-gaya) is designed to nurture socially responsible and mindful business leaders.
 - **State-of-the-Art Campus:** A new, expansive campus with world-class residential and academic facilities.
 - **Diverse Curriculum:** Combines foundational courses in social sciences with advanced management subjects.
 - **IIM Brand Value:** Provides an excellent opportunity to join the IIM ecosystem early.

@@ -134,7 +134,7 @@ Admission to **[ISME Bangalore](/colleges/isme-bangalore) (School of Management 
 
 ---
 
-## 5. Why Choose ISME Bangalore (School of Management Excellence)? (Pros & Cons)
+## 5. Why Choose [ISME Bangalore](/colleges/isme-bangalore) (School of Management Excellence)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Sarjapur Road and across major commercial hubs in India.

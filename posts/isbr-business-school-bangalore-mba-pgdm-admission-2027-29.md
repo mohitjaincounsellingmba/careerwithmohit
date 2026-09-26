@@ -232,7 +232,7 @@ graph TD
 The verified total course fee for the 2-year MBA / PGDM program is **₹11.00 Lakhs for PGDM / ₹8.50 Lakhs for MBA** (**₹5.50 Lakhs / Year (PGDM)**).
 
 ### Q2. Is ISBR Bangalore approved by AICTE/UGC?
-Yes, ISBR Business School is AICTE Approved · NBA Accredited · Affiliated to Bangalore University.
+Yes, [ISBR Business School](/colleges/isbr-bangalore) is AICTE Approved · NBA Accredited · Affiliated to Bangalore University.
 
 ### Q3. What is the average and highest placement package at ISBR Bangalore?
 The average CTC stands at **₹9.00 LPA** (with top 25% averaging **₹12.50 LPA**), while the highest package has reached **₹20.00 LPA**.

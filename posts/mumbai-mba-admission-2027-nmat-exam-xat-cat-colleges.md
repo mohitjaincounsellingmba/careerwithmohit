@@ -77,7 +77,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ## Key Mumbai B-Schools In Focus
 
-### 1. NMIMS Mumbai (School of Business Management)
+### 1. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
 * Flagship MBA program admissions are conducted strictly via the **NMAT exam**.
 * Over 180+ companies participate in placements with highest domestic packages exceeding ₹67 LPA. Check [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
 

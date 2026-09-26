@@ -1,7 +1,7 @@
 ---
 title: 'BMSCE Bangalore PGDM Admission Review 2026: Placements, Fees & Cutoff'
 date: '2026-06-25'
-category: MBA
+category: Exams
 description: >-
   Looking for admission to BMSCE Bangalore? Read our comprehensive PGDM review
   for 2026 covering total fees, average and highest placement packages, accepted

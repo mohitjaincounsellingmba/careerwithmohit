@@ -1,28 +1,42 @@
 ---
 title: 'IIMS MBA Admission 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
-category: MBA Admissions
-description: 'Verified 2027 MBA review for IIM Shillong (Shillong, Meghalaya). Check audited fees (₹19.10 Lakhs (Total)), average placement (₹26.96 LPA), entrance cutoffs (95.0+ CAT %ile), and admission tips by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 MBA review for IIM Shillong (Shillong, Meghalaya). Check audited
+  fees (₹19.10 Lakhs (Total)), average placement (₹26.96 LPA), entrance cutoffs
+  (95.0+ CAT %ile), and admission tips by Mohit Jain.
 keywords:
-  - 'iim shillong mba admission 2027'
-  - 'iim shillong fees structure 2027'
-  - 'iim shillong average placement package'
-  - 'iim shillong cutoff 2026 2027'
-  - 'iims review 2027'
-  - 'top mba colleges in shillong'
-  - 'best mba colleges in meghalaya'
-  - 'direct admission in iim shillong'
+  - iim shillong mba admission 2027
+  - iim shillong fees structure 2027
+  - iim shillong average placement package
+  - iim shillong cutoff 2026 2027
+  - iims review 2027
+  - top mba colleges in shillong
+  - best mba colleges in meghalaya
+  - direct admission in iim shillong
 faqs:
-  - question: 'What is the average placement package at IIM Shillong in 2026-2027?'
-    answer: 'The verified average placement package at IIM Shillong stands at ₹26.96 LPA, with the median package benchmark at ₹25.00 LPA and highest domestic offers reaching ₹71.30 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IIM Shillong?'
-    answer: 'IIM Shillong accepts valid scores from CAT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
-  - question: 'What is the total fee structure for the MBA/PGDM program at IIM Shillong?'
-    answer: 'The total course tuition fee is approximately ₹19.10 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'What is the expected entrance cutoff for IIM Shillong?'
-    answer: 'The safe cutoff threshold for initial shortlisting is approximately 95.0+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
-location: 'Shillong'
-state: 'Meghalaya'
+  - question: What is the average placement package at IIM Shillong in 2026-2027?
+    answer: >-
+      The verified average placement package at IIM Shillong stands at ₹26.96
+      LPA, with the median package benchmark at ₹25.00 LPA and highest domestic
+      offers reaching ₹71.30 LPA.
+  - question: What entrance exams are accepted for 2027 admission at IIM Shillong?
+    answer: >-
+      IIM Shillong accepts valid scores from CAT followed by institutional
+      profile evaluation and personal interview rounds (GD-PI / WAT).
+  - question: What is the total fee structure for the MBA/PGDM program at IIM Shillong?
+    answer: >-
+      The total course tuition fee is approximately ₹19.10 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: What is the expected entrance cutoff for IIM Shillong?
+    answer: >-
+      The safe cutoff threshold for initial shortlisting is approximately 95.0+
+      CAT %ile. Profile diversity and corporate work experience may offer
+      relaxed considerations.
+location: Shillong
+state: Meghalaya
 ---
 
 # [IIM Shillong](/colleges/iim-shillong/) Review 2027: Fees, Cutoff, Placements & Admission ROI
