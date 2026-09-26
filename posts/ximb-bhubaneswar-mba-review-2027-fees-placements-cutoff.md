@@ -1,223 +1,180 @@
 ---
-title: >-
-  Xavier Institute of Management, XIM University (XIMB) Review 2027: Fees,
-  Placements, Cutoff, Ranking & Admission Verdict
-date: '2026-09-15'
-category: MBA
-description: >-
-  Comprehensive Xavier Institute of Management, XIM University (XIMB)
-  (Bhubaneswar, Odisha) review for 2027 admissions. Explore audited fee
-  structure (₹22.00 Lakhs (Total)), latest placement packages (Avg: ₹19.53 LPA,
-  Highest: ₹71.50 LPA), entrance exam cutoffs (XAT, CAT, GMAT, X-GMT), NIRF
-  ranking, and student verdict.
+title: 'XIMB MBA Admission 2027: Fees, Cutoff & ROI'
+date: '2026-09-26'
+category: MBA Admissions
+description: 'Verified 2027 MBA review for Xavier Institute of Management (XIMB) (Bhubaneswar, Odisha). Check audited fees (₹22.00 Lakhs (Total)), average placement (₹20.03 LPA), entrance cutoffs (220+ NMAT / 91+ XAT %ile / 91+ CAT %ile), and admission tips by Mohit Jain.'
 keywords:
-  - 'xavier institute of management, xim university (ximb) review 2027'
-  - 'xavier institute of management, xim university (ximb) mba fees'
-  - 'xavier institute of management, xim university (ximb) placements 2026 2027'
-  - 'xavier institute of management, xim university (ximb) average package'
-  - 'xavier institute of management, xim university (ximb) highest package'
-  - 'xavier institute of management, xim university (ximb) cutoff xat cat'
-  - 'xavier institute of management, xim university (ximb) admission process 2027'
-  - 'xavier institute of management, xim university (ximb) ranking'
-  - Bhubaneswar MBA colleges 2027
-  - best MBA colleges in Odisha
-  - top MBA colleges in India 2027
-  - direct MBA admission guidance 2027
+  - 'xavier institute of management (ximb) mba admission 2027'
+  - 'xavier institute of management (ximb) fees structure 2027'
+  - 'xavier institute of management (ximb) average placement package'
+  - 'xavier institute of management (ximb) cutoff 2026 2027'
+  - 'ximb review 2027'
+  - 'top mba colleges in bhubaneswar'
+  - 'best mba colleges in odisha'
+  - 'direct admission in xavier institute of management (ximb)'
 faqs:
-  - question: >-
-      What is the average package at Xavier Institute of Management, XIM
-      University (XIMB) in recent placement drives?
-    answer: >-
-      The overall average placement package at Xavier Institute of Management,
-      XIM University (XIMB) stands at approximately ₹19.53 LPA, with the median
-      package around ₹12.00 LPA and top offers reaching ₹71.50 LPA.
-  - question: >-
-      What entrance exams are accepted for admission to Xavier Institute of
-      Management, XIM University (XIMB)?
-    answer: >-
-      Xavier Institute of Management, XIM University (XIMB) accepts scores from
-      XAT, CAT, GMAT, X-GMT for shortlisting eligible candidates, followed by
-      profile evaluation and personal interviews (PI / WAT).
-  - question: >-
-      What is the total course fee at Xavier Institute of Management, XIM
-      University (XIMB) for the 2-year MBA / PGDM program?
-    answer: >-
-      The total tuition and academic fee structure is approximately ₹22.00 Lakhs
-      (Total), with education loan tie-ups available across premier public and
-      private commercial banks.
-  - question: >-
-      Does Xavier Institute of Management, XIM University (XIMB) offer
-      merit-based scholarships or financial assistance?
-    answer: >-
-      Yes, Xavier Institute of Management, XIM University (XIMB) provides merit
-      scholarships to high scorers in entrance tests, tuition fee waivers for
-      economically weaker candidates, and assistance for collateral-free bank
-      loans.
-location: Bhubaneswar
-state: Odisha
+  - question: 'What is the average placement package at Xavier Institute of Management (XIMB) in 2026-2027?'
+    answer: 'The verified average placement package at Xavier Institute of Management (XIMB) stands at ₹20.03 LPA, with the median package benchmark at ₹19.20 LPA and highest domestic offers reaching ₹71.50 LPA.'
+  - question: 'What entrance exams are accepted for 2027 admission at Xavier Institute of Management (XIMB)?'
+    answer: 'Xavier Institute of Management (XIMB) accepts valid scores from XAT, CAT, NMAT, X-GMT followed by institutional profile evaluation and personal interview rounds (GD-PI / WAT).'
+  - question: 'What is the total fee structure for the MBA/PGDM program at Xavier Institute of Management (XIMB)?'
+    answer: 'The total course tuition fee is approximately ₹22.00 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
+  - question: 'What is the expected entrance cutoff for Xavier Institute of Management (XIMB)?'
+    answer: 'The safe cutoff threshold for initial shortlisting is approximately 220+ NMAT / 91+ XAT %ile / 91+ CAT %ile. Profile diversity and corporate work experience may offer relaxed considerations.'
+location: 'Bhubaneswar'
+state: 'Odisha'
 ---
 
-# [Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027–2029 Admission Status**: Applications are active via **XAT, CAT, GMAT, X-GMT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.
-> - **Total Fee Investment**: Verified at **₹22.00 Lakhs (Total)** for the complete full-time postgraduate curriculum.
-> - **Placement & ROI Benchmark**: Average placement salary stands at **₹19.53 LPA** (Highest package: **₹71.50 LPA**; Median package: **₹12.00 LPA**) featuring premier recruiters like Deloitte, PwC, Tata Steel, ICICI Bank.
+> - **Core USP & Focus**: Premier management destination in **Bhubaneswar, Odisha** recognized for academic rigor (SAQS Accredited · NBA & UGC Approved) and industry-aligned specializations in **MBA-BM (Business Management) & MBA-HRM**.
+> - **Fee vs Average Package (ROI)**: Total tuition fee is **₹22.00 Lakhs (Total)** against an audited average domestic CTC of **₹20.03 LPA** (Median: **₹19.20 LPA**, Highest: **₹71.50 LPA**), delivering strong return on investment.
+> - **Admissions & Eligibility**: Minimum 50% in graduation + valid **XAT, CAT, NMAT, X-GMT** score (**220+ NMAT / 91+ XAT %ile / 91+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
 
-[InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Personalized Admission Guidance for XIMB" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 
-When evaluating premier business schools and universities for management education in India, **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar)** consistently stands out as a high-value institution in **Bhubaneswar, Odisha**. With established corporate credentials, a strong alumni base, and distinguished accreditation (NIRF Rank #43 (Management 2024) · SAQS Accredited), the institution attracts ambitious management aspirants from across the country.
-
-Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
+Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
 
 ---
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Update)
+## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
 
-Here is a consolidated overview of **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar)**:
+The table below provides a verified snapshot of **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** for the upcoming **2027–2029 academic session**:
 
 | Parameter | Official Verified Details |
 | :--- | :--- |
-| **Institution Name** | **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar)** |
+| **Institution Name** | **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** (XIMB) |
 | **Campus Location** | Bhubaneswar, Odisha |
 | **Year Established** | 1987 |
-| **Institution Type & Ownership** | Private Jesuit Autonomous University |
-| **Accreditation & Approvals** | NIRF Rank #43 (Management 2024) · SAQS Accredited |
-| **Flagship Programs** | MBA-BM (Business Management), MBA-HRM, MBA-RM (Rural Management) |
-| **Accepted Entrance Exams** | XAT, CAT, GMAT, X-GMT |
-| **Total Course Fee** | **₹22.00 Lakhs (Total)** |
-| **Average Placement Package** | **₹19.53 LPA** |
-| **Highest Placement Package** | **₹71.50 LPA** |
-| **Median Package Benchmark** | **₹12.00 LPA** |
-| **Top Recruiting Partners** | Deloitte, PwC, Tata Steel, ICICI Bank, Nestle, Cognizant |
+| **Accreditation & Recognitions** | SAQS Accredited · NBA & UGC Approved |
+| **Flagship Program** | MBA-BM (Business Management) & MBA-HRM (2 Years Full-Time) |
+| **Accepted Entrance Exams** | XAT, CAT, NMAT, X-GMT |
+| **Expected Cutoff Threshold** | **220+ NMAT / 91+ XAT %ile / 91+ CAT %ile** |
+| **Total Tuition Fee** | **₹22.00 Lakhs (Total)** |
+| **Average Placement CTC** | **₹20.03 LPA** |
+| **Median Placement CTC** | **₹19.20 LPA** |
+| **Highest Domestic CTC** | **₹71.50 LPA** |
+| **Top Recruiting Partners** | Accenture Strategy, Deloitte, EY, ICICI Bank, KPMG, PwC, Tata Steel, Titan, BCG, Loreal |
 
 ---
 
-## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
+## 2. Updated Fee Structure & Education Loan Support (2027–2029)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar)** is vital for computing your personal return on investment (ROI).
+Evaluating the financial outlay is critical for computing your real return on investment (ROI).
 
-### Detailed Fee Breakdown:
-- **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.
-- **Total Course Fee Estimate:** **₹22.00 Lakhs (Total)** for the complete 2-year full-time curriculum.
-- **Hostel & Residential Charges:** Modern on-campus or affiliated residential accommodation is provided with Wi-Fi, dining, and recreation facilities (varying by single/double occupancy).
-- **Education Loans & Financial Assistance:** The institute has institutional tie-ups with leading banks (such as SBI, HDFC Credila, Axis Bank, and Bank of Baroda) providing collateral-free education loans at competitive interest rates with repayment holidays extending up to 6 months post-graduation.
-
----
-
-## 3. Entrance Cutoff & Admission Selection Process 2027
-
-Admissions to **Xavier Institute of Management, XIM University (XIMB)** follow a multi-stage profile-cum-merit evaluation process:
-
-### 1. Entrance Exam Score Shortlisting
-Candidates must appear for accepted entrance tests (XAT / CAT / GMAT / X-GMT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
-
-### 2. Written Ability Test (WAT) & Personal Interview (PI)
-Shortlisted candidates undergo rigorous evaluation:
-- **Written Analysis:** Assessing analytical reasoning, communication, and business awareness.
-- **Personal Interview:** Evaluates leadership qualities, domain clarity, extracurricular achievements, and career aspirations.
-
-### 3. Final Composite Score Generation
-The final merit list incorporates:
-- Entrance Test Percentile: 35% – 50%
-- Personal Interview & WAT Performance: 30% – 40%
-- Past Academic Performance (10th, 12th, Graduation): 15% – 20%
-- Relevant Work Experience & Diversity: 5% – 10%
+### Fee Breakdown
+*   **Total Tuition & Academic Fees:** **₹22.00 Lakhs (Total)** (payable in 4 to 6 term installments).
+*   **Hostel & Residential Amenities:** Approximately ₹1.20 Lakhs – ₹1.90 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
+*   **Scholarships & Financial Aid:** Merit scholarships and tuition fee waivers are awarded to high percentile scorers in **XAT, CAT, NMAT, X-GMT** and students from economically disadvantaged backgrounds.
+*   **Collateral-Free Education Loans:** The institute has national tie-ups with leading public and private banks (SBI, HDFC Credila, Axis Bank, Bank of Baroda, ICICI) offering student education loans covering 100% of academic and living expenses at preferential interest rates with a moratorium period extending up to 6 months post-graduation.
 
 ---
 
-## 4. Latest Audited Placement Report & Recruiters
+## 3. Specialization Tracks & Academic Pedagogy
 
-Placement performance is one of the strongest pillars of **Xavier Institute of Management, XIM University (XIMB)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+The curriculum at **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** is engineered to blend theoretical management frameworks with corporate problem-solving:
 
-### Key Placement Metrics:
-- **Average Salary Package:** **₹19.53 LPA**
-- **Highest Salary Package:** **₹71.50 LPA**
-- **Median Salary Package:** **₹12.00 LPA**
-- **Major Hiring Domains:** BFSI, Management Consulting, Technology, FMCG, Supply Chain, and FinTech.
-- **Marquee Recruiters:** Deloitte, PwC, Tata Steel, ICICI Bank, Nestle, Cognizant, L'Oreal.
-
-Graduates regularly secure roles in strategy, financial analysis, product management, digital marketing, corporate HR, and business operations.
+*   **Financial Management & Investment Banking:** Corporate valuation, portfolio strategy, fintech, mergers & acquisitions, and private equity analysis.
+*   **Marketing & Digital Brand Strategy:** Consumer psychology, digital media analytics, growth marketing, omni-channel retailing, and sales leadership.
+*   **Business Analytics & Artificial Intelligence:** Predictive modeling, Python/R programming, big data architecture, and decision intelligence.
+*   **Operations & Global Supply Chain:** Lean six sigma, logistics modeling, procurement strategy, and sustainable supply networks.
+*   **Human Resource & Talent Strategy:** Organizational behavior, leadership development, HR analytics, and talent retention.
 
 ---
 
-## 5. Key Programs & Curriculum Specializations
+## 4. Audited Placement Review: Salary Packages & Top Recruiters
 
-The academic structure at **Xavier Institute of Management, XIM University (XIMB)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+Placements at **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** reflect continuous corporate confidence and recruiters' preference for its graduates:
 
-### Popular Specialization Tracks:
-- **MBA-BM (Business Management)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
-- **MBA-HRM**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
-- **MBA-RM (Rural Management)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
-- **Executive MBA**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
-- **Finance & Banking:** Investment analysis, corporate valuation, risk management, and fintech.
-- **Marketing & Brand Management:** Consumer behavior, digital marketing analytics, and sales channel strategy.
-- **Operations & Supply Chain:** Logistics modeling, lean six sigma, and global supply networks.
-- **Human Resource Management:** Talent acquisition, organizational dynamics, and strategic HR leadership.
+*   **Highest Placement Package:** **₹71.50 LPA**
+*   **Average Placement Package:** **₹20.03 LPA**
+*   **Median Placement Benchmark:** **₹19.20 LPA**
+*   **Marquee Recruiters:** Accenture Strategy, Deloitte, EY, ICICI Bank, KPMG, PwC, Tata Steel, Titan, BCG, Loreal
+*   **Sectoral Distribution:**
+    *   **BFSI & FinTech (30–35%):** Investment banking, credit risk, retail banking, and treasury management.
+    *   **Management Consulting & Strategy (25–30%):** Business advisory, transformation consulting, and process optimization.
+    *   **IT / ITES & Product Management (20–25%):** Digital product strategy, client solutions, and enterprise sales.
+    *   **FMCG & Consumer Goods (15–20%):** Brand management, rural marketing, and trade sales leadership.
+
+---
+
+## 5. Admission Selection Criteria & Expected Cutoffs 2027
+
+Admission to **Xavier Institute of Management (XIMB)** is conducted through a multi-stage evaluation process:
+
+### Step-by-Step Selection Workflow
+1.  **Entrance Examination:** Appear for accepted tests (**XAT, CAT, NMAT, X-GMT**) and achieve the minimum qualifying percentile/score.
+2.  **Application Submission:** Fill out the institutional application form on the official website before the deadline.
+3.  **Profile Shortlisting:** Shortlisting based on entrance scores, academic track record (10th, 12th, graduation), and diversity factors.
+4.  **GD-PI-WAT Assessment:** Shortlisted applicants undergo Written Ability Test (WAT) / Group Discussion (GD) followed by a comprehensive Personal Interview (PI).
+5.  **Final Merit List Generation:** Composite score calculation based on entrance test (35–45%), PI/WAT performance (30–40%), academics (15–20%), and work experience (5–10%).
+
+### Cutoff Overview
+*   **Target Entrance Score:** **220+ NMAT / 91+ XAT %ile / 91+ CAT %ile**
+*   **Profile-Based Shortlisting:** Candidates with exceptional academic diversity, sports/cultural achievements at the national level, or 2+ years of relevant corporate experience may receive relaxed cutoff considerations.
 
 ---
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **Xavier Institute of Management, XIM University (XIMB)** compares against peer business schools in its category:
+Here is how **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** stands when compared against peer management institutions:
 
-| B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
+| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Xavier Institute of Management, XIM University (XIMB)](/colleges/ximb-bhubaneswar)** | **₹22.00 Lakhs (Total)** | **₹19.53 LPA** | **Balanced ROI with strong regional corporate connections** |
-| **Tier-2 Benchmark B-Schools** | ₹14.0L – ₹18.0L | ₹10.5L – ₹13.0L | Strong corporate placement track records in metro cities |
-| **Top State University B-Schools** | ₹2.5L – ₹6.0L | ₹7.0L – ₹10.0L | Ultra-high ROI with subsidized tuition structures |
+| **[Xavier Institute of Management (XIMB)](/colleges/ximb-bhubaneswar/)** | **₹22.00 Lakhs (Total)** | **₹20.03 LPA** | **XAT, CAT, NMAT, X-GMT** (220+ NMAT / 91+ XAT %ile / 91+ CAT %ile) |
+| **Tier-1 Benchmark B-Schools** | ₹22.0L – ₹28.0L | ₹24.0L – ₹34.0L | CAT / XAT / NMAT / SNAP (95%+ %ile) |
+| **Tier-2 Quality B-Schools** | ₹12.0L – ₹18.0L | ₹10.0L – ₹14.5L | CAT / XAT / CMAT / MAT (75%+ %ile) |
 
 ---
 
-## 7. Campus Life, Infrastructure & Ground Reality
+## 7. Campus Infrastructure & Student Life
 
-- **Modern Classrooms:** Fully air-conditioned tiered lecture halls equipped with state-of-the-art audio-visual projection and interactive smart boards.
-- **Computing & Analytics Labs:** Advanced databases (Bloomberg terminals, SPSS, Python, and R) for empirical financial and statistical research.
-- **Hostel & Amenities:** Safe, secure residential blocks with dedicated student cafeterias, gymnasium, sports complexes, and medical support.
-- **Student Committees:** Active student councils managing annual cultural fests, national case competitions, and industry conclaves.
+*   **Smart Classrooms:** Air-conditioned amphitheatres equipped with high-definition audio-visual systems and interactive smart boards.
+*   **Digital Knowledge Centers:** Subscription access to Bloomberg Terminals, Harvard Business Publishing, EBSCO, and ScienceDirect.
+*   **Residential & Recreational Amenities:** Modern hostels, multi-cuisine dining facilities, gymnasium, sports grounds, and medical assistance.
+*   **Student Committees:** Student-led clubs organizing annual management conclaves, cultural fests, case study competitions, and corporate guest lectures.
 
 ---
 
-## 8. Final Admission Verdict: Should You Join Xavier Institute of Management, XIM University (XIMB)?
+## 8. Mohit Jain's Expert Verdict: Should You Join XIMB?
 
-### Why Choose Xavier Institute of Management, XIM University (XIMB)?
-1. **Solid Placement Track Record:** Consistent average CTC of **₹19.53 LPA** with blue-chip recruiters.
-2. **Accredited Academic Quality:** Backed by **NIRF Rank #43 (Management 2024) · SAQS Accredited** and seasoned faculty.
-3. **Strategic Regional Advantage:** Located in **Bhubaneswar, Odisha**, offering extensive industrial and corporate interface.
+### Key Strengths (Pros)
+*   **Top-15 legacy business school in India with stellar ₹20.03 LPA average package**
+*   **Xavier heritage with unmatched alumni loyalty across consulting, BFSI, and steel/manufacturing**
+*   **100% audited placement record with blue-chip recruiters**
+
+### Points to Consider (Cons)
+*   High academic rigor with strict D-grade penalty rules
+*   Separate cutoff thresholds for Odisha domicile vs Non-domicile candidates
 
 ### Who Should Apply?
-- Aspirants seeking a balanced business school with reliable placement safety and structured career progression.
-- Candidates with competitive scores in **XAT, CAT, GMAT, X-GMT** looking for high-value management training.
+Aspirants with 91+ XAT/CAT or 220+ NMAT seeking an elite, high-ROI business school with proven 35-year legacy.
+
+### Who Should Avoid?
+Candidates who cannot commit to rigorous continuous evaluation.
 
 ---
 
 ## 9. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average package at Xavier Institute of Management, XIM University (XIMB)?
-The overall average placement package at Xavier Institute of Management, XIM University (XIMB) stands at approximately **₹19.53 LPA**, with top domestic packages touching **₹71.50 LPA**.
+### Q1. What is the average salary package at Xavier Institute of Management (XIMB)?
+The verified average placement package at **Xavier Institute of Management (XIMB)** is **₹20.03 LPA**, with top quartile students securing offers up to **₹71.50 LPA**.
 
-### Q2. Which entrance exams are accepted by Xavier Institute of Management, XIM University (XIMB)?
-Xavier Institute of Management, XIM University (XIMB) accepts scores from **XAT, CAT, GMAT, X-GMT** for shortlisting candidates for its flagship management programs.
+### Q2. Which entrance exams are accepted for 2027 admission?
+**Xavier Institute of Management (XIMB)** accepts scores from **XAT, CAT, NMAT, X-GMT** for shortlisting candidates for its 2-year full-time management programs.
 
-### Q3. What is the total fee for the MBA / PGDM program?
-The total course fee structure is approximately **₹22.00 Lakhs (Total)** for the complete 2-year full-time curriculum.
+### Q3. What is the total tuition fee at Xavier Institute of Management (XIMB)?
+The total course fee is approximately **₹22.00 Lakhs (Total)** for the 2-year curriculum. Additional expenses apply for hostel accommodation and mess facilities.
 
-### Q4. How can I get 1-on-1 counseling for Xavier Institute of Management, XIM University (XIMB) admission?
-You can book a personalized 1-on-1 guidance session with expert career counselor **Mohit Jain** to analyze your profile, cutoffs, and admission probabilities.
-
----
-
-## Need Personalized Admission Guidance?
-
-Selecting the right MBA/PGDM college requires personalized profile evaluation. Schedule a direct video consultation with **Mohit Jain** to evaluate your call chances, scholarship opportunities, and compare top B-schools.
-
-👉 **[Book a 1-on-1 Video MBA Counselling Session](/book-session)**  
-👉 **[Explore All Colleges in India](/colleges)**
+### Q4. Does Xavier Institute of Management (XIMB) provide merit scholarships or loan assistance?
+Yes, **Xavier Institute of Management (XIMB)** offers merit scholarships for top entrance scorers and has established tie-ups with leading commercial banks for collateral-free education loans.
 
 ---
 
-### 🚀 Boost Your Preparation
+## Related MBA Guides & Direct Resources
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)

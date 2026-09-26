@@ -12,7 +12,7 @@ export interface TopTierMbaCollege {
 }
 
 export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
-  // ==================== IIMs ====================
+  // ==================== 20 IIMs ====================
   {
     name: "IIM Ahmedabad",
     location: "Ahmedabad, Gujarat",
@@ -23,7 +23,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iima.ac.in",
-    slug: "colleges/iim-ahmedabad"
+    slug: "blog/iim-ahmedabad-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Bangalore",
@@ -35,7 +35,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimb.ac.in",
-    slug: "colleges/iim-bangalore"
+    slug: "blog/iim-bangalore-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Calcutta",
@@ -47,7 +47,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimcal.ac.in",
-    slug: "colleges/iim-calcutta"
+    slug: "blog/iim-calcutta-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Lucknow",
@@ -58,7 +58,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹65.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iiml.ac.in"
+    website: "https://www.iiml.ac.in",
+    slug: "blog/iim-lucknow-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Kozhikode",
@@ -69,7 +70,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹67.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimk.ac.in"
+    website: "https://www.iimk.ac.in",
+    slug: "blog/iim-kozhikode-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Indore",
@@ -80,7 +82,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹1.14 Crore",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimidr.ac.in"
+    website: "https://www.iimidr.ac.in",
+    slug: "blog/iim-indore-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Shillong",
@@ -92,7 +95,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimshillong.ac.in",
-    slug: "blog/baby-iims-review-2026-honest-analysis"
+    slug: "blog/iim-shillong-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Rohtak",
@@ -103,7 +106,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹48.2 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimrohtak.ac.in"
+    website: "https://www.iimrohtak.ac.in",
+    slug: "blog/iim-rohtak-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Raipur",
@@ -115,7 +119,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimraipur.ac.in",
-    slug: "blog/baby-iims-review-2026-honest-analysis"
+    slug: "blog/iim-raipur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Ranchi",
@@ -127,7 +131,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimranchi.ac.in",
-    slug: "blog/baby-iims-review-2026-honest-analysis"
+    slug: "blog/iim-ranchi-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Trichy",
@@ -139,7 +143,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["CAT"],
     isIim: true,
     website: "https://www.iimtrichy.ac.in",
-    slug: "blog/baby-iims-review-2026-honest-analysis"
+    slug: "blog/iim-trichy-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Udaipur",
@@ -150,7 +154,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹47.3 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimu.ac.in"
+    website: "https://www.iimu.ac.in",
+    slug: "blog/iim-udaipur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Kashipur",
@@ -161,7 +166,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹37.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimkashipur.ac.in"
+    website: "https://www.iimkashipur.ac.in",
+    slug: "blog/iim-kashipur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Amritsar",
@@ -172,7 +178,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹36.25 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimamritsar.ac.in"
+    website: "https://www.iimamritsar.ac.in",
+    slug: "blog/iim-amritsar-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Visakhapatnam",
@@ -183,7 +190,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹32.65 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimv.ac.in"
+    website: "https://www.iimv.ac.in",
+    slug: "blog/iim-visakhapatnam-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Jammu",
@@ -194,7 +202,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹64.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimj.ac.in"
+    website: "https://www.iimj.ac.in",
+    slug: "blog/iim-jammu-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Nagpur",
@@ -205,7 +214,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹64.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimnagpur.ac.in"
+    website: "https://www.iimnagpur.ac.in",
+    slug: "blog/iim-nagpur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Sambalpur",
@@ -216,7 +226,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹64.6 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimsambalpur.ac.in"
+    website: "https://www.iimsambalpur.ac.in",
+    slug: "blog/iim-sambalpur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Sirmaur",
@@ -227,7 +238,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹64.0 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimsirmaur.ac.in"
+    website: "https://www.iimsirmaur.ac.in",
+    slug: "blog/iim-sirmaur-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "IIM Bodh Gaya",
@@ -238,7 +250,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹48.58 LPA",
     exams: ["CAT"],
     isIim: true,
-    website: "https://www.iimbg.ac.in"
+    website: "https://www.iimbg.ac.in",
+    slug: "blog/iim-bodh-gaya-mba-review-2027-fees-placements-cutoff"
   },
 
   // ==================== NMAT Accepting Colleges ====================
@@ -252,7 +265,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["NMAT"],
     isIim: false,
     website: "https://sbm.nmims.edu",
-    slug: "colleges/nmims-mumbai"
+    slug: "blog/nmims-mumbai-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "NMIMS Bangalore",
@@ -264,7 +277,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["NMAT"],
     isIim: false,
     website: "https://www.nmimsbangalore.org",
-    slug: "colleges/nmims-bangalore"
+    slug: "blog/nmims-bangalore-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "NMIMS Navi Mumbai",
@@ -275,7 +288,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹25.0 LPA",
     exams: ["NMAT"],
     isIim: false,
-    website: "https://www.nmimsnavimumbai.org"
+    website: "https://www.nmimsnavimumbai.org",
+    slug: "blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "NMIMS Hyderabad",
@@ -286,7 +300,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹28.0 LPA",
     exams: ["NMAT"],
     isIim: false,
-    website: "https://www.nmimshyderabad.org"
+    website: "https://www.nmimshyderabad.org",
+    slug: "blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "NMIMS Indore",
@@ -297,7 +312,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹21.1 LPA",
     exams: ["NMAT"],
     isIim: false,
-    website: "https://www.nmimsindore.org"
+    website: "https://www.nmimsindore.org",
+    slug: "blog/nmims-indore-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "K J Somaiya Institute of Management",
@@ -308,7 +324,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹25.96 LPA",
     exams: ["NMAT", "CAT", "XAT", "CMAT"],
     isIim: false,
-    website: "https://simsr.somaiya.edu"
+    website: "https://simsr.somaiya.edu",
+    slug: "blog/kj-somaiya-mumbai-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "Xavier Institute of Management (XIMB)",
@@ -320,7 +337,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["NMAT", "XAT", "CAT", "GMAT"],
     isIim: false,
     website: "https://ximb.edu.in",
-    slug: "colleges/xlri-jamshedpur" // Related elite east B-school link
+    slug: "blog/ximb-bhubaneswar-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SDA Bocconi Asia Center",
@@ -331,7 +348,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹36.28 LPA",
     exams: ["NMAT", "CAT", "GMAT", "Bocconi Test"],
     isIim: false,
-    website: "https://www.sdabocconiasiacenter.com"
+    website: "https://www.sdabocconiasiacenter.com",
+    slug: "blog/sda-bocconi-mumbai-imb-review-2027-fees-placements-cutoff"
   },
   {
     name: "TAPMI Manipal",
@@ -343,7 +361,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["NMAT", "CAT", "XAT", "GMAT"],
     isIim: false,
     website: "https://www.tapmi.edu.in",
-    slug: "colleges/tapmi-bangalore"
+    slug: "blog/tapmi-manipal-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "Welingkar Institute of Management (WeSchool)",
@@ -355,7 +373,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["NMAT", "CAT", "XAT", "CMAT", "ATMA"],
     isIim: false,
     website: "https://www.welingkar.org",
-    slug: "colleges/welingkar-bangalore"
+    slug: "blog/welingkar-weschool-mumbai-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "IFMR Graduate School of Business",
@@ -366,7 +384,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹22.9 LPA",
     exams: ["NMAT", "CAT", "XAT", "CMAT", "GMAT"],
     isIim: false,
-    website: "https://krea.edu.in/ifmrgsb/"
+    website: "https://krea.edu.in/ifmrgsb/",
+    slug: "blog/ifmr-gsb-krea-university-mba-review-2027-fees-placements-cutoff"
   },
 
   // ==================== SNAP Accepting Colleges ====================
@@ -380,7 +399,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["SNAP"],
     isIim: false,
     website: "https://www.sibmpune.edu.in",
-    slug: "colleges/sibm-pune"
+    slug: "blog/sibm-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SCMHRD Pune",
@@ -392,7 +411,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["SNAP"],
     isIim: false,
     website: "https://www.scmhrd.edu",
-    slug: "colleges/scmhrd-pune"
+    slug: "blog/scmhrd-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIBM Bangalore",
@@ -404,7 +423,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["SNAP"],
     isIim: false,
     website: "https://www.sibmbangalore.edu.in",
-    slug: "colleges/sibm-bangalore"
+    slug: "blog/sibm-bangalore-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIIB Pune",
@@ -415,7 +434,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹39.0 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.siib.ac.in"
+    website: "https://www.siib.ac.in",
+    slug: "blog/siib-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIBM Noida",
@@ -426,7 +446,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹22.0 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.sibmnoida.edu.in"
+    website: "https://www.sibmnoida.edu.in",
+    slug: "blog/sibm-noida-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIDTM Pune",
@@ -437,7 +458,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹27.83 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.sidtm.edu.in"
+    website: "https://www.sidtm.edu.in",
+    slug: "blog/sidtm-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SCIT Pune",
@@ -448,7 +470,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹30.0 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.scit.edu"
+    website: "https://www.scit.edu",
+    slug: "blog/scit-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIMS Pune",
@@ -459,7 +482,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹21.5 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.sims.edu"
+    website: "https://www.sims.edu",
+    slug: "blog/sims-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SSBF Pune",
@@ -470,7 +494,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹19.6 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.ssbf.edu.in"
+    website: "https://www.ssbf.edu.in",
+    slug: "blog/ssbf-pune-mba-review-2027-fees-placements-cutoff"
   },
   {
     name: "SIBM Hyderabad",
@@ -481,7 +506,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹15.0 LPA",
     exams: ["SNAP"],
     isIim: false,
-    website: "https://www.sibmhyderabad.edu.in"
+    website: "https://www.sibmhyderabad.edu.in",
+    slug: "blog/sibm-hyderabad-mba-review-2027-fees-placements-cutoff"
   },
 
   // ==================== XAT Accepting Colleges ====================
@@ -495,7 +521,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["XAT"],
     isIim: false,
     website: "https://www.xlri.ac.in",
-    slug: "colleges/xlri-jamshedpur"
+    slug: "blog/xlri-jamshedpur-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "XLRI Delhi NCR",
@@ -506,7 +532,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹75.0 LPA",
     exams: ["XAT"],
     isIim: false,
-    website: "https://xlridelhi.ac.in"
+    website: "https://xlridelhi.ac.in",
+    slug: "blog/xlri-delhi-ncr-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "SPJIMR Mumbai",
@@ -518,7 +545,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["XAT", "CAT", "GMAT"],
     isIim: false,
     website: "https://www.spjimr.org",
-    slug: "colleges/spjimr-mumbai"
+    slug: "blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "IMT Ghaziabad",
@@ -529,7 +556,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹65.6 LPA",
     exams: ["XAT", "CAT", "GMAT"],
     isIim: false,
-    website: "https://www.imt.edu"
+    website: "https://www.imt.edu",
+    slug: "blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "Goa Institute of Management (GIM)",
@@ -540,7 +568,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹55.0 LPA",
     exams: ["XAT", "CAT", "CMAT", "GMAT"],
     isIim: false,
-    website: "https://www.gim.ac.in"
+    website: "https://www.gim.ac.in",
+    slug: "blog/gim-goa-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "FORE School of Management",
@@ -552,7 +581,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["XAT", "CAT", "GMAT"],
     isIim: false,
     website: "https://www.fsm.ac.in",
-    slug: "colleges/fore-school-delhi"
+    slug: "blog/fore-school-delhi-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "LBSIM Delhi",
@@ -564,7 +593,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["XAT", "CAT"],
     isIim: false,
     website: "https://www.lbsim.ac.in",
-    slug: "colleges/lbsim-delhi"
+    slug: "blog/lbsim-delhi-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "LIBA Chennai",
@@ -575,7 +604,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹20.5 LPA",
     exams: ["XAT", "CAT"],
     isIim: false,
-    website: "https://liba.edu"
+    website: "https://liba.edu",
+    slug: "blog/liba-chennai-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "BIMTECH Greater Noida",
@@ -587,7 +617,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     exams: ["XAT", "CAT", "CMAT", "MAT"],
     isIim: false,
     website: "https://www.bimtech.ac.in",
-    slug: "colleges/bimtech-greater-noida"
+    slug: "blog/bimtech-greater-noida-pgdm-review-2027-fees-placements-cutoff"
   },
   {
     name: "Institute of Rural Management Anand (IRMA)",
@@ -598,7 +628,8 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹31.16 LPA",
     exams: ["XAT", "CAT"],
     isIim: false,
-    website: "https://www.irma.ac.in"
+    website: "https://www.irma.ac.in",
+    slug: "blog/irma-anand-pgdm-rm-review-2027-fees-placements-cutoff"
   },
   {
     name: "MICA Ahmedabad",
@@ -609,6 +640,7 @@ export const TOP_TIER_MBA_COLLEGES: TopTierMbaCollege[] = [
     highest_placement: "₹36.00 LPA",
     exams: ["XAT", "CAT", "GMAT"],
     isIim: false,
-    website: "https://www.mica.ac.in"
+    website: "https://www.mica.ac.in",
+    slug: "blog/mica-ahmedabad-pgdm-c-review-2027-fees-placements-cutoff"
   }
 ];
