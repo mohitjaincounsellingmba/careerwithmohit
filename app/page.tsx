@@ -39,6 +39,22 @@ import { PortalQuickTools } from '@/components/PortalQuickTools';
 import StudentCommunitySection from '@/components/StudentCommunitySection';
 import { JsonLd } from '@/components/JsonLd';
 
+const ShikshaCollegeExplorer = dynamic(
+  () => import('@/components/ShikshaCollegeExplorer').then((mod) => mod.ShikshaCollegeExplorer),
+  {
+    loading: () => (
+      <div className="mx-auto max-w-7xl px-6 py-12 animate-pulse">
+        <div className="h-8 w-64 bg-slate-800 rounded-xl mb-4" />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {[...Array(4)].map((_, i) => (
+            <div key={i} className="h-28 bg-slate-800 rounded-2xl" />
+          ))}
+        </div>
+      </div>
+    ),
+  }
+);
+
 const HomeCollegeExplorer = dynamic(
   () => import('@/components/HomeCollegeExplorer').then((mod) => mod.HomeCollegeExplorer),
   {
@@ -377,7 +393,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── 2. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
+      {/* ── 2. SHIKSHA-STYLE DISCOVER COLLEGES BY STREAM & CITY EXPLORER ── */}
+      <ShikshaCollegeExplorer />
+
+      {/* ── 3. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
       <HomeCollegeExplorer />
 
       {/* ── 3. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
