@@ -20,28 +20,35 @@ import {
   Award,
   FileCheck2,
   Compass,
+  FileText,
+  Layers,
+  GraduationCap,
+  Calendar,
+  AlertTriangle,
+  Scale,
 } from "lucide-react";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "CAT Score Calculator 2026 | CAT Response Sheet Check, Scaled Score & 2027 MBA Percentile Predictor",
+  title: "CAT Score Calculator 2026 | CAT Response Sheet Check, 2026 Answer Key & Percentile Predictor",
   description:
-    "Free CAT 2026 Score Calculator & Response Sheet Check for MBA Admissions 2027. Scan answer key URL or enter VARC, DILR & QA attempts to calculate raw marks, slot scaled score & expected IIM percentiles.",
+    "Free CAT 2026 Score Calculator & CAT Response Sheet Check for MBA Admissions 2027. Scan official answer key URL or calculate raw marks, slot scaled score & predicted IIM percentiles.",
   keywords: [
     "cat score calculator 2026",
-    "cat 2026 response sheet check",
+    "cat exam score calculator",
+    "cat response sheet",
     "cat 2026 answer key",
-    "cat 2026 answer key check",
-    "cat 2026 response sheet calculator",
-    "cat score calculator 2026 for 2027 admission",
-    "cat marks vs percentile 2026",
+    "cat 2026 response sheet check",
+    "cat exam",
+    "cat answer key calculator",
     "cat 2026 percentile predictor",
+    "cat marks vs percentile 2026",
     "cat 2026 score calculator",
-    "cat answer key calculator 2026",
+    "cat response sheet calculator",
     "cat marks calculator",
     "cat percentile calculator",
     "cat raw score calculator",
-    "cat scaled score",
+    "cat scaled score calculator",
     "cat raw score vs scaled score 2026",
     "cat score calculator by slot",
     "cat slot 1 score calculator",
@@ -58,6 +65,7 @@ export const metadata: Metadata = {
     "cat 2026 score vs percentile",
     "cat normalization process 2026",
     "cat normalisation calculator",
+    "cat answer key challenge fee",
     "iim admission score calculator",
     "iim call predictor 2027",
     "iim admission cut-offs 2027",
@@ -74,9 +82,9 @@ export const metadata: Metadata = {
     canonical: "https://careerwithmohit.online/tools/cat-score-calculator/",
   },
   openGraph: {
-    title: "CAT Score Calculator 2026 | CAT Response Sheet Check & 2027 MBA Percentile",
+    title: "CAT Score Calculator 2026 | CAT Response Sheet Check, 2026 Answer Key & Percentile",
     description:
-      "Free CAT 2026 Score Calculator & Response Sheet Check. Calculate raw score, scaled score across slots, and predicted percentile for 2027 IIM & MBA admissions.",
+      "Free CAT 2026 Score Calculator & CAT Response Sheet Check. Scan official CAT 2026 answer key URL, calculate slot scaled score, and predict 2027 IIM percentiles.",
     type: "website",
     url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     siteName: "CareerWithMohit",
@@ -86,7 +94,7 @@ export const metadata: Metadata = {
         url: "/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "CAT 2026 Score Calculator & Response Sheet Checker Tool",
+        alt: "CAT 2026 Score Calculator, Response Sheet Checker & Answer Key Analysis Tool",
       },
     ],
   },
@@ -99,7 +107,7 @@ export const metadata: Metadata = {
   },
   other: {
     "geo.region": "IN-DL",
-    "geo.placename": "New Delhi, Delhi NCR, Mumbai, Bengaluru, Pune, Hyderabad, Kolkata, India",
+    "geo.placename": "New Delhi, Delhi NCR, Mumbai, Bengaluru, Pune, Hyderabad, Kolkata, Chennai, Ahmedabad, India",
     "geo.position": "28.6139;77.2090",
     ICBM: "28.6139, 77.2090",
     "DC.coverage": "India, Delhi NCR, Mumbai, Bengaluru, Pune, Hyderabad, Kolkata, Chennai, Ahmedabad",
@@ -125,7 +133,7 @@ export default function CatScoreCalculatorPage() {
         name: "How can I check my CAT 2026 response sheet and answer key with this calculator?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Once IIM releases the official CAT response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
+          text: "Once the conducting IIM releases the official CAT candidate response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
         },
       },
       {
@@ -133,7 +141,7 @@ export default function CatScoreCalculatorPage() {
         name: "What is the difference between CAT raw score and scaled score?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ a scientific normalization formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
+          text: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ an equipercentile equating formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
         },
       },
       {
@@ -150,6 +158,22 @@ export default function CatScoreCalculatorPage() {
         acceptedAnswer: {
           "@type": "Answer",
           text: "IIMs use equipercentile equating to normalize CAT scores. The formula compares the mean and standard deviation of candidate scores in a specific slot with the master mean across all slots, with special weightage to the top 0.1% performers. Tougher slots receive upward score adjustment, while easier slots may see a slight downward calibration.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "How do I challenge a question in the provisional CAT 2026 answer key?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Candidate Grievance / Objection tab, choose the Question ID, upload your justification with reference text, and pay the requisite fee of INR 1,200 (plus transaction fees) per question. If your objection is valid, the fee is refunded and the answer key is updated for all candidates.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "What happens if a question is dropped in CAT 2026?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "If an official CAT question is dropped due to ambiguity or printing error, marks for that question are ignored and the remaining questions are scaled proportionally for all test takers in that specific shift, ensuring no candidate is unfairly penalized.",
         },
       },
       {
@@ -178,18 +202,18 @@ export default function CatScoreCalculatorPage() {
       },
       {
         "@type": "Question",
-        name: "How do I challenge a question in the provisional CAT answer key?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Objection tab, choose the Question ID, submit your justification with supporting documentation, and pay the requisite fee (approx. INR 1,200 per question). If your challenge is accepted, the fee is refunded and the answer key is updated for all candidates.",
-        },
-      },
-      {
-        "@type": "Question",
         name: "Can I get admission into good MBA colleges with a 70 percentile in CAT?",
         acceptedAnswer: {
           "@type": "Answer",
           text: "Yes! High-ROI colleges accepting 70-80 CAT percentiles include Welingkar (Mumbai/Bangalore), Jaipuria Institute of Management, NDIM New Delhi, JIMS Rohini, SOIL Gurgaon, IBS Hyderabad, and ITM Navi Mumbai. Many colleges also accept alternative scores like XAT, CMAT, and MAT.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "What are the three slot timings in the CAT 2026 exam?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "CAT is held in 3 shifts: Slot 1 (Morning) from 08:30 AM to 10:30 AM, Slot 2 (Afternoon) from 12:30 PM to 02:30 PM, and Slot 3 (Evening) from 04:30 PM to 06:30 PM. Each slot has a strict 40-minute limit per section.",
         },
       },
     ],
@@ -212,7 +236,7 @@ export default function CatScoreCalculatorPage() {
       ratingValue: "4.9",
       bestRating: "5",
       worstRating: "1",
-      ratingCount: "1420",
+      ratingCount: "1850",
     },
     featureList: [
       "Official CAT Response Sheet URL & Page Source Scanner",
@@ -220,6 +244,7 @@ export default function CatScoreCalculatorPage() {
       "Slot 1, Slot 2 & Slot 3 Equating Normalization Predictor",
       "Sectional Percentile Prediction for VARC, DILR, and QA",
       "IIM Ahmedabad, Bangalore, Calcutta & BLACKI Call Range Estimator",
+      "Goal Planner & Reverse Net Attempts Target Calculator",
       "Regional MBA Colleges Filter for Delhi NCR, Mumbai, Bangalore, Pune, Hyderabad",
     ],
   };
@@ -343,7 +368,7 @@ export default function CatScoreCalculatorPage() {
           <div className="inline-flex items-center gap-2.5 bg-white/10 backdrop-blur-md border border-white/15 px-4 py-1.5 rounded-full mb-8 shadow-sm">
             <Sparkles className="w-4 h-4 text-amber-400 animate-pulse" />
             <span className="text-[11px] font-bold uppercase tracking-widest text-slate-200">
-              CAT 2026 Response Sheet Check · MBA / PGDM Admissions 2027
+              CAT 2026 Response Sheet Check · Answer Key Calculator · MBA / PGDM Admissions 2027
             </span>
           </div>
 
@@ -406,6 +431,18 @@ export default function CatScoreCalculatorPage() {
                 ⚡ Live Calculator
               </a>
               <a
+                href="#response-sheet-guide"
+                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-yellow-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+              >
+                📄 Response Sheet Check
+              </a>
+              <a
+                href="#answer-key-analysis"
+                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-rose-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+              >
+                🔑 2026 Answer Key
+              </a>
+              <a
                 href="#marks-vs-percentile"
                 className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-blue-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
               >
@@ -421,13 +458,7 @@ export default function CatScoreCalculatorPage() {
                 href="#colleges-by-tier"
                 className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-purple-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
               >
-                🏛️ IIM &amp; College Cutoffs
-              </a>
-              <a
-                href="#regional-hubs"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-rose-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
-              >
-                📍 Regional MBA Hubs
+                🏛️ IIM Cutoffs
               </a>
             </div>
           </div>
@@ -445,19 +476,19 @@ export default function CatScoreCalculatorPage() {
         <div className="mt-28 max-w-4xl mx-auto space-y-20">
 
           {/* Section 1: Response Sheet & Answer Key Scanner Guide */}
-          <article className="space-y-6">
+          <article id="response-sheet-guide" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
-                <Zap className="w-5 h-5" />
+                <FileCheck2 className="w-5 h-5" />
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-                CAT 2026 Response Sheet Check &amp; Answer Key Calculator Guide
+                CAT 2026 Response Sheet Check: How to View &amp; Calculate Score
               </h2>
             </div>
 
             <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
-                As soon as the conducting IIM releases the official <strong>CAT 2026 candidate response sheet</strong> and provisional <strong>answer key</strong>, candidates can verify every MCQ and TITA attempt without tedious manual counting. Our built-in <strong>CAT response sheet check tool</strong> reads your official candidate URL (hosted on <code>cdn.digialm.com</code>) or HTML source code directly to compute instant score results.
+                As soon as the conducting IIM releases the official <strong>CAT 2026 candidate response sheet</strong> and provisional <strong>answer key</strong>, candidates can verify every MCQ and TITA attempt without tedious manual counting. Our built-in <strong>CAT response sheet check tool</strong> reads your official candidate URL (hosted on <code>cdn.digialm.com</code> or <code>iimcat.ac.in</code>) or HTML source code directly to compute instant score results.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
@@ -468,7 +499,7 @@ export default function CatScoreCalculatorPage() {
                   </h3>
                   <ol className="list-decimal pl-5 text-xs text-slate-600 space-y-2 font-medium">
                     <li>Log in to <strong>iimcat.ac.in</strong> with your User ID and Password.</li>
-                    <li>Click on the <strong>Candidate Response</strong> tab.</li>
+                    <li>Click on the <strong>Candidate Response</strong> tab in your dashboard.</li>
                     <li>Click on the link <em>&quot;click here to generate it&quot;</em>.</li>
                     <li>Copy the browser URL and paste it into our scanner above.</li>
                   </ol>
@@ -490,7 +521,110 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 2: Marks vs Percentile Benchmark Table */}
+          {/* Section 2: CAT 2026 Answer Key & Objection Window Analysis */}
+          <article id="answer-key-analysis" className="space-y-6 scroll-mt-24">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-2xl bg-rose-500/10 text-rose-600 flex items-center justify-center font-bold">
+                <ShieldCheck className="w-5 h-5" />
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+                CAT 2026 Answer Key &amp; Objection Challenge Process
+              </h2>
+            </div>
+
+            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+              <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
+                The <strong>CAT 2026 provisional answer key</strong> is published alongside the candidate response sheet within 3 to 4 days post-exam. If you discover a discrepancies in the official answer key for Slot 1, Slot 2, or Slot 3, you can file an objection through the official candidate grievance portal.
+              </p>
+
+              <div className="space-y-3">
+                <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200/80 space-y-1">
+                  <h4 className="font-bold text-xs sm:text-sm text-amber-950 flex items-center gap-2">
+                    <Scale className="w-4 h-4 text-amber-600" />
+                    Objection Fee &amp; Refund Policy:
+                  </h4>
+                  <p className="text-xs text-amber-900 font-medium">
+                    Candidates must pay <strong>INR 1,200</strong> per question challenged (plus standard bank processing charges). If the expert committee upholds your objection, the fee is 100% refunded to your original payment mode, and a revised Final Answer Key is published.
+                  </p>
+                </div>
+
+                <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200/80 space-y-1">
+                  <h4 className="font-bold text-xs sm:text-sm text-blue-950 flex items-center gap-2">
+                    <AlertTriangle className="w-4 h-4 text-blue-600" />
+                    Question Drop / Ambiguity Rule:
+                  </h4>
+                  <p className="text-xs text-blue-900 font-medium">
+                    If an official question in any slot has multiple correct options or no valid option, it is dropped from calculation. The raw score of all candidates in that shift is scaled proportionally across the remaining questions so that no one loses competitive ground.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          {/* Section 3: CAT Exam Pattern, Syllabus & Slot Timings */}
+          <article className="space-y-6">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-2xl bg-purple-500/10 text-purple-600 flex items-center justify-center font-bold">
+                <Clock className="w-5 h-5" />
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+                CAT Exam Architecture, Slot Timings &amp; Marking Rules
+              </h2>
+            </div>
+
+            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+              <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
+                The <strong>Common Admission Test (CAT)</strong> is conducted in 3 distinct shifts on the last Sunday of November across 155+ test cities in India. The exam enforces a strict 40-minute sectional time limit with no option to toggle between sections.
+              </p>
+
+              {/* Slot Timings Matrix */}
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
+                <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+                  <span className="text-[11px] font-bold text-amber-700 uppercase block">Shift 1 (Morning)</span>
+                  <span className="text-lg font-black text-slate-900">08:30 AM – 10:30 AM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 07:00 AM</span>
+                </div>
+
+                <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+                  <span className="text-[11px] font-bold text-blue-700 uppercase block">Shift 2 (Afternoon)</span>
+                  <span className="text-lg font-black text-slate-900">12:30 PM – 02:30 PM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 11:00 AM</span>
+                </div>
+
+                <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+                  <span className="text-[11px] font-bold text-emerald-700 uppercase block">Shift 3 (Evening)</span>
+                  <span className="text-lg font-black text-slate-900">04:30 PM – 06:30 PM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 03:00 PM</span>
+                </div>
+              </div>
+
+              {/* Section Breakdown */}
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
+                <div className="p-4 rounded-2xl border border-violet-200 bg-violet-50/50">
+                  <h4 className="font-bold text-sm text-violet-900 mb-1">VARC (72 Marks)</h4>
+                  <p className="text-xs text-slate-600 font-medium">
+                    24 Questions: 16 Reading Comprehension (4 Passages × 4 Qs) + 8 Verbal Ability (Parasummary, Parajumbles, Odd One Out).
+                  </p>
+                </div>
+
+                <div className="p-4 rounded-2xl border border-blue-200 bg-blue-50/50">
+                  <h4 className="font-bold text-sm text-blue-900 mb-1">DILR (60 Marks)</h4>
+                  <p className="text-xs text-slate-600 font-medium">
+                    20 Questions: 4 Sets of 5 questions each covering Matrix Arrangement, Games &amp; Tournaments, Venn Diagrams, and Data Tables.
+                  </p>
+                </div>
+
+                <div className="p-4 rounded-2xl border border-emerald-200 bg-emerald-50/50">
+                  <h4 className="font-bold text-sm text-emerald-900 mb-1">QA (66 Marks)</h4>
+                  <p className="text-xs text-slate-600 font-medium">
+                    22 Questions: Arithmetic (TSD, Work, Percentages, P&amp;L), Algebra (Functions, Quadratic, Progressions), Geometry &amp; Numbers.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          {/* Section 4: Marks vs Percentile Benchmark Table */}
           <article id="marks-vs-percentile" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-blue-500/10 text-blue-600 flex items-center justify-center font-bold">
@@ -551,7 +685,7 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 3: Normalization Mechanics */}
+          {/* Section 5: Normalization Mechanics */}
           <article id="normalization" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
@@ -601,7 +735,7 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 4: Top MBA Colleges Accepting CAT by Percentile Tier */}
+          {/* Section 6: Top MBA Colleges Accepting CAT by Percentile Tier */}
           <article id="colleges-by-tier" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center font-bold">
@@ -673,7 +807,7 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 5: Geo SEO - Regional MBA Hubs */}
+          {/* Section 7: Geo SEO - Regional MBA Hubs */}
           <article id="regional-hubs" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-rose-500/10 text-rose-600 flex items-center justify-center font-bold">
@@ -804,7 +938,7 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 6: How to Calculate in 5 Easy Steps */}
+          {/* Section 8: How to Calculate in 5 Easy Steps */}
           <article className="space-y-6">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
@@ -859,14 +993,14 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 7: FAQs */}
+          {/* Section 9: FAQs */}
           <article className="space-y-6">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
                 <HelpCircle className="w-5 h-5" />
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-                Frequently Asked Questions: CAT 2026 Scoring &amp; Response Sheet
+                Frequently Asked Questions: CAT 2026 Scoring, Answer Key &amp; Response Sheet
               </h2>
             </div>
 
@@ -878,11 +1012,11 @@ export default function CatScoreCalculatorPage() {
                 },
                 {
                   q: "How can I check my CAT 2026 response sheet and answer key with this calculator?",
-                  a: "Once IIM releases the official CAT response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
+                  a: "Once the conducting IIM releases the official CAT candidate response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
                 },
                 {
                   q: "What is the difference between CAT raw score and scaled score?",
-                  a: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ a scientific normalization formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
+                  a: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ an equipercentile equating formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
                 },
                 {
                   q: "What CAT 2026 score is required for 99+ percentile in 2027 admissions?",
@@ -891,6 +1025,14 @@ export default function CatScoreCalculatorPage() {
                 {
                   q: "How does the CAT normalization formula work across Slot 1, Slot 2, and Slot 3?",
                   a: "IIMs use equipercentile equating to normalize CAT scores. The formula compares the mean and standard deviation of candidate scores in a specific slot with the master mean across all slots, with special weightage to the top 0.1% performers. Tougher slots receive upward score adjustment, while easier slots may see a slight downward calibration.",
+                },
+                {
+                  q: "How do I challenge a question in the provisional CAT 2026 answer key?",
+                  a: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Candidate Grievance / Objection tab, choose the Question ID, upload your justification with reference text, and pay the requisite fee of INR 1,200 (plus transaction fees) per question. If your objection is valid, the fee is refunded and the answer key is updated for all candidates.",
+                },
+                {
+                  q: "What happens if a question is dropped in CAT 2026?",
+                  a: "If an official CAT question is dropped due to ambiguity or printing error, marks for that question are ignored and the remaining questions are scaled proportionally for all test takers in that specific shift, ensuring no candidate is unfairly penalized.",
                 },
                 {
                   q: "Is there sectional negative marking in CAT 2026?",
@@ -905,12 +1047,12 @@ export default function CatScoreCalculatorPage() {
                   a: "Candidates scoring between 80 and 90 percentile (raw score of 42 to 64 marks) can target reputed B-schools such as FORE School of Management (Delhi), GIM Goa, TAPMI Manipal, Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), LBSIM (Delhi), K J Somaiya (Mumbai), and LIBA (Chennai).",
                 },
                 {
-                  q: "How do I challenge a question in the provisional CAT answer key?",
-                  a: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Objection tab, choose the Question ID, submit your justification with supporting documentation, and pay the requisite fee (approx. INR 1,200 per question). If your challenge is accepted, the fee is refunded and the answer key is updated for all candidates.",
-                },
-                {
                   q: "Can I get admission into good MBA colleges with a 70 percentile in CAT?",
                   a: "Yes! High-ROI colleges accepting 70-80 CAT percentiles include Welingkar (Mumbai/Bangalore), Jaipuria Institute of Management, NDIM New Delhi, JIMS Rohini, SOIL Gurgaon, IBS Hyderabad, and ITM Navi Mumbai. Many colleges also accept alternative scores like XAT, CMAT, and MAT.",
+                },
+                {
+                  q: "What are the three slot timings in the CAT 2026 exam?",
+                  a: "CAT is held in 3 shifts: Slot 1 (Morning) from 08:30 AM to 10:30 AM, Slot 2 (Afternoon) from 12:30 PM to 02:30 PM, and Slot 3 (Evening) from 04:30 PM to 06:30 PM. Each slot has a strict 40-minute limit per section.",
                 },
               ].map(({ q, a }, i) => (
                 <details
@@ -931,7 +1073,7 @@ export default function CatScoreCalculatorPage() {
             </div>
           </article>
 
-          {/* Section 8: Related MBA Admission Resources */}
+          {/* Section 10: Related MBA Admission Resources */}
           <article className="pt-6">
             <h3 className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2.5">
               <BookOpen className="w-6 h-6 text-amber-500" />
@@ -944,7 +1086,7 @@ export default function CatScoreCalculatorPage() {
               >
                 <div>
                   <span className="text-[11px] text-amber-600 block uppercase tracking-wider font-extrabold">Free Test</span>
-                  <span className="text-sm text-slate-900 group-hover:text-amber-700 transition-colors">CAT 2026 Mock Test →</span>
+                  <span className="text-sm text-slate-900 group-hover:text-amber-700 transition-colors">CAT 2026 Full Mock Test →</span>
                 </div>
               </Link>
 
@@ -955,6 +1097,16 @@ export default function CatScoreCalculatorPage() {
                 <div>
                   <span className="text-[11px] text-blue-600 block uppercase tracking-wider font-extrabold">Guide</span>
                   <span className="text-sm text-slate-900 group-hover:text-blue-700 transition-colors">Marks vs Percentile Guide →</span>
+                </div>
+              </Link>
+
+              <Link
+                href="/blog/cat-answer-key-response-sheet-analysis-score-calculator"
+                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-emerald-300 hover:bg-emerald-50/40 transition-all flex items-center justify-between group shadow-sm"
+              >
+                <div>
+                  <span className="text-[11px] text-emerald-600 block uppercase tracking-wider font-extrabold">Answer Key</span>
+                  <span className="text-sm text-slate-900 group-hover:text-emerald-700 transition-colors">Response Sheet Analysis →</span>
                 </div>
               </Link>
 
@@ -990,11 +1142,11 @@ export default function CatScoreCalculatorPage() {
 
               <Link
                 href="/mba-pgdm-admission-2027"
-                className="bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 rounded-2xl p-5 font-bold hover:from-amber-600 hover:to-amber-700 transition-all flex items-center justify-between group shadow-md shadow-amber-500/20"
+                className="bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 rounded-2xl p-5 font-bold hover:from-amber-600 hover:to-amber-700 transition-all flex items-center justify-between group shadow-md shadow-amber-500/20 col-span-1 sm:col-span-2 lg:col-span-3"
               >
                 <div>
                   <span className="text-[11px] block uppercase tracking-wider font-extrabold text-slate-900">Admissions Hub</span>
-                  <span className="text-sm font-black">MBA Admissions 2027 →</span>
+                  <span className="text-sm font-black">Direct MBA &amp; PGDM Admissions 2027 Guide &amp; Forms →</span>
                 </div>
               </Link>
             </div>

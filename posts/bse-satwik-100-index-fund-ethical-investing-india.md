@@ -13,12 +13,6 @@ keywords:
   - BSE Saatvik 100 ETF
   - value based investing India
   - BSE Saatvik index holdings
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the BSE Saatvik 100 Index?
     answer: >-

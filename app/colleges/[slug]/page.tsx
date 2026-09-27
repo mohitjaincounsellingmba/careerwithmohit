@@ -138,14 +138,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let description: string;
 
   if (college.category === "Management") {
-    title = `${college.name} MBA Fees, Cutoff & Placement 2027`.slice(0, 58);
-    description = `${college.name} (${college.location}): MBA/PGDM fees ${college.fees}, avg package ${college.avg_placement}, NIRF rank ${college.ranking}, cutoffs & 2027 admission guide.`.slice(0, 160);
+    title = `${college.name} MBA Fees, Cutoff & Placement 2027`;
+    description = `${college.name} (${college.location}): MBA/PGDM fees ${college.fees}, avg package ${college.avg_placement}, NIRF rank ${college.ranking}, cutoffs & 2027 admission guide.`;
   } else if (college.category === "Engineering") {
-    title = `${college.name} B.Tech Fees, Cutoff & Placement 2027`.slice(0, 58);
-    description = `${college.name} (${college.location}): B.Tech fees ${college.fees}, avg package ${college.avg_placement}, JEE cutoffs, rankings & 2027 admission guide.`.slice(0, 160);
+    title = `${college.name} B.Tech Fees, Cutoff & Placement 2027`;
+    description = `${college.name} (${college.location}): B.Tech fees ${college.fees}, avg package ${college.avg_placement}, JEE cutoffs, rankings & 2027 admission guide.`;
   } else {
-    title = `${college.name} Fees, Placement & Admission 2027`.slice(0, 58);
-    description = `${college.name} (${college.location}): Fees ${college.fees}, avg package ${college.avg_placement}, courses, entrance exams & 2027 admission guide.`.slice(0, 160);
+    title = `${college.name} Fees, Placement & Admission 2027`;
+    description = `${college.name} (${college.location}): Fees ${college.fees}, avg package ${college.avg_placement}, courses, entrance exams & 2027 admission guide.`;
   }
 
   const keywords = getCategoryKeywords(college);

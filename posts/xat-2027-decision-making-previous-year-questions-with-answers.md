@@ -15,12 +15,6 @@ keywords:
   - xlri decision making cutoff 2027
   - xat dm caselets with answers and explanation
   - decision making tips for xat
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the Decision Making (DM) section in XAT?
     answer: >-

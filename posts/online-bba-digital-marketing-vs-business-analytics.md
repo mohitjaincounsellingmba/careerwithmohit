@@ -14,12 +14,6 @@ keywords:
   - BBA business analytics salary
   - digital marketing scope BBA
   - highest paying BBA specialization India
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Which is harder to study: BBA in Digital Marketing or BBA in Business

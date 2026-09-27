@@ -231,7 +231,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!postData) return {};
 
   const cleanedTitle = cleanMarkdown(postData.title);
-  const postTitle = cleanedTitle.length > 50 ? cleanedTitle.slice(0, 58) : `${cleanedTitle} | Expert Guide 2027`;
+  const postTitle = cleanedTitle;
   
   // Fallback description from content if frontmatter description is missing
   let postDescription = postData.description ? cleanMarkdown(postData.description) : "";

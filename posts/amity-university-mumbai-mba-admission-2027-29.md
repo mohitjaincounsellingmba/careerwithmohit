@@ -22,12 +22,6 @@ keywords:
   - best MBA PGDM colleges in Mumbai
   - direct admission in Amity Mumbai
   - MBA Career Counselling Mohit Jain
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Amity Mumbai?
     answer: >-

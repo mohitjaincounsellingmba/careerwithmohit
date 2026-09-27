@@ -14,12 +14,6 @@ keywords:
   - student acquisition funnel 2026
   - how to scale digital coaching business
   - coaching app conversion hacks
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: 'How long does it take to reach 1,000 students?'
     answer: >-

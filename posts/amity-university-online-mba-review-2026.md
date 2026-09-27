@@ -17,18 +17,9 @@ keywords:
   - Amity online MBA placement review
   - amityonline.com MBA admission 2027–2029
   - is Amity online MBA worth it
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Does Amity Online MBA require CAT or any entrance exam?
     answer: >-

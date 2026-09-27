@@ -14,12 +14,6 @@ keywords:
   - hsn vs sac codes guide
   - input tax credit gst explained
   - how to register for gst 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: does a freelancer need GST?
     answer: >-

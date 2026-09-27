@@ -15,12 +15,6 @@ keywords:
   - bba admission in indore without entrance
   - iim indore ipmat cutoff 2026
   - indore bba placements report
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: When is the IPMAT Indore 2026 held?
     answer: Usually held in **May 2026**. Registrations open in February/March.

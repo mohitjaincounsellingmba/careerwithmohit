@@ -16,17 +16,6 @@ keywords:
   - top private engineering colleges india
   - engineering college india fees placement
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: 'Which is the #1 engineering college in India 2026?'
     answer: >-

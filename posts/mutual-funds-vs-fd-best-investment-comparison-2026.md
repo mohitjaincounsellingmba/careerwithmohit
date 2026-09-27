@@ -13,12 +13,6 @@ keywords:
   - tax efficiency of debt mutual funds 2026
   - mutual fund vs bank fd safety
   - how to choose between fd and mf
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the current tax on Debt Mutual Funds?
     answer: >-

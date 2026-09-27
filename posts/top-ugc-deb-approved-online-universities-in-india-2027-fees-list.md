@@ -17,12 +17,6 @@ keywords:
   - wes approved online universities india
   - is online degree valid in india
   - mohit jain career counsellor
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 image: /og-image.webp
 faqs:
   - question: How do I verify if an online university is UGC-DEB approved in 2027?

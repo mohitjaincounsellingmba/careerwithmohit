@@ -146,10 +146,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ].map((route) => ({
     url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
     lastModified: buildDate,
-    changeFrequency: 'weekly' as const,
+    changeFrequency: route === '/tools/cat-score-calculator' ? ('daily' as const) : ('weekly' as const),
     priority:
-      route === ''
-        ? 1
+      route === '' || route === '/tools/cat-score-calculator'
+        ? 1.0
         : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
         ? 0.95
         : route.includes('/tools/') || route.includes('/calculator/')

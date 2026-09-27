@@ -21,18 +21,7 @@ keywords:
   - direct admission NDIM Delhi
   - NDIM Delhi cut off 2027
   - MBA Career Counselling Mohit Jain
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is the NDIM Delhi PGDM application form open for the 2027–29 batch?
     answer: >-

@@ -12,12 +12,6 @@ keywords:
   - Railway RRB Group D ALP recruitment 2026
   - UPSC 2026 prelims date
   - latest govt job vacancy in India
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-

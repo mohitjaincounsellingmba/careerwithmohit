@@ -19,18 +19,7 @@ keywords:
   - great lakes cat cutoff 2026
   - cat 85 percentile mba colleges average package
   - mba admission 80 percentile cat
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 category: MBA
 image: /images/blog/mba-guide.webp
 faqs:

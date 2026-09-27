@@ -17,18 +17,9 @@ keywords:
   - uttaranchal university online mba 2027
   - online mba under 100000
   - mohit jain career counsellor
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 image: /og-image.webp
 faqs:
   - question: Which is the cheapest UGC-DEB approved Online MBA in India in 2027?

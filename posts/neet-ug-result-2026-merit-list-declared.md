@@ -15,17 +15,6 @@ keywords:
   - how to check neet result 2026
   - neet qualifying marks
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-

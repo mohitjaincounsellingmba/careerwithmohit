@@ -21,12 +21,6 @@ keywords:
   - Ahmedabad Direct Admission 2026
   - Colleges in Gujarat
   - Ahmedabad Career Counselling
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: When is the Ahmedabad University admission 2026 starting?
     answer: Admissions usually open in **January/February** for the "Early Round."

@@ -15,18 +15,7 @@ keywords:
   - pgdm under 8 lakhs fees
   - best mba colleges under 10 lakhs in india
   - high roi mba colleges delhi pune bangalore
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
   - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Which MBA college has the highest ROI under 8 lakhs fees?
     answer: >-

@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${college.name} Fees & Admission 2027`.slice(0, 60),
+    title: `${college.name} Fees & Admission 2027`,
     alternates: {
       canonical: `/abroad-education/${slug}/`,
     },

@@ -24,6 +24,11 @@ import {
   Sliders,
   Award,
   HelpCircle,
+  Share2,
+  Copy,
+  Check,
+  Flame,
+  Lightbulb,
 } from "lucide-react";
 import { InquiryForm } from "@/components/InquiryForm";
 import Link from "next/link";
@@ -83,6 +88,100 @@ const defaultSection: SectionInput = {
   wrongMcq: "",
   correctTita: "",
 };
+
+// Target Percentile Blueprint for Goal Planner
+const TARGET_PERCENTILE_PLANS = [
+  {
+    percentile: "99.9+ %ile",
+    rawScoreNeeded: "110 – 125+ Marks",
+    netCorrect: "38 – 42+ Net Qs",
+    varcTarget: "15 Qs (45M)",
+    dilrTarget: "12 Qs (36M)",
+    qaTarget: "13 Qs (39M)",
+    iimCall: "IIM Ahmedabad, Bangalore, Calcutta (BLACKI)",
+    desc: "Elite Tier. Target for Top 3 IIMs, FMS Delhi & SPJIMR Mumbai.",
+  },
+  {
+    percentile: "99.5+ %ile",
+    rawScoreNeeded: "95 – 109 Marks",
+    netCorrect: "33 – 37 Net Qs",
+    varcTarget: "14 Qs (42M)",
+    dilrTarget: "10 Qs (30M)",
+    qaTarget: "11 Qs (33M)",
+    iimCall: "IIM Lucknow, Kozhikode, Indore, MDI Gurgaon",
+    desc: "Calls from almost all Old IIMs with decent academic profile.",
+  },
+  {
+    percentile: "99.0+ %ile",
+    rawScoreNeeded: "82 – 94 Marks",
+    netCorrect: "29 – 32 Net Qs",
+    varcTarget: "12 Qs (36M)",
+    dilrTarget: "9 Qs (27M)",
+    qaTarget: "9 Qs (27M)",
+    iimCall: "IIM Shillong, IIT Delhi, IIT Bombay, IIFT Delhi",
+    desc: "Qualifies for all New IIMs, top IIT DMS, and premier private B-schools.",
+  },
+  {
+    percentile: "98.0+ %ile",
+    rawScoreNeeded: "75 – 81 Marks",
+    netCorrect: "26 – 28 Net Qs",
+    varcTarget: "11 Qs (33M)",
+    dilrTarget: "8 Qs (24M)",
+    qaTarget: "8 Qs (24M)",
+    iimCall: "New IIMs (Udaipur, Trichy, Ranchi, Raipur)",
+    desc: "Strong call probability for New IIM CAP round and IIT Kharagpur/Madras.",
+  },
+  {
+    percentile: "95.0+ %ile",
+    rawScoreNeeded: "60 – 74 Marks",
+    netCorrect: "21 – 25 Net Qs",
+    varcTarget: "9 Qs (27M)",
+    dilrTarget: "6 Qs (18M)",
+    qaTarget: "7 Qs (21M)",
+    iimCall: "IMT Ghaziabad, IMI New Delhi, IIM Rohtak",
+    desc: "Premier high-ROI management institutes with average package ₹16-20 LPA.",
+  },
+  {
+    percentile: "90.0+ %ile",
+    rawScoreNeeded: "48 – 59 Marks",
+    netCorrect: "17 – 20 Net Qs",
+    varcTarget: "8 Qs (24M)",
+    dilrTarget: "5 Qs (15M)",
+    qaTarget: "5 Qs (15M)",
+    iimCall: "Baby IIMs (Nagpur, Vizag, Amritsar, Bodh Gaya), FORE, GIM Goa",
+    desc: "Baby IIMs CAP cutoff and top private PGDM institutions.",
+  },
+  {
+    percentile: "85.0+ %ile",
+    rawScoreNeeded: "38 – 47 Marks",
+    netCorrect: "14 – 16 Net Qs",
+    varcTarget: "6 Qs (18M)",
+    dilrTarget: "4 Qs (12M)",
+    qaTarget: "4 Qs (12M)",
+    iimCall: "TAPMI, Great Lakes Chennai, BIMTECH, LBSIM Delhi",
+    desc: "Established PGDM colleges with strong metro alumni networks.",
+  },
+  {
+    percentile: "80.0+ %ile",
+    rawScoreNeeded: "32 – 37 Marks",
+    netCorrect: "11 – 13 Net Qs",
+    varcTarget: "5 Qs (15M)",
+    dilrTarget: "3 Qs (9M)",
+    qaTarget: "4 Qs (12M)",
+    iimCall: "K J Somaiya Mumbai, Welingkar, LIBA Chennai",
+    desc: "Quality metro B-schools offering specialized marketing & finance programs.",
+  },
+  {
+    percentile: "70.0+ %ile",
+    rawScoreNeeded: "22 – 31 Marks",
+    netCorrect: "8 – 10 Net Qs",
+    varcTarget: "4 Qs (12M)",
+    dilrTarget: "2 Qs (6M)",
+    qaTarget: "3 Qs (9M)",
+    iimCall: "Jaipuria, NDIM New Delhi, JIMS Rohini, SOIL, IBS Hyderabad",
+    desc: "Direct & merit admissions in metro PGDM hubs.",
+  },
+];
 
 // Precise Percentile lookup based on official 66-question CAT score distributions (198 max marks)
 function estimatePercentile(rawScore: number, slot: SlotKey = "general"): number {
@@ -226,7 +325,9 @@ export function CatScoreCalculator() {
   });
   const [showInquiry, setShowInquiry] = useState(false);
   const [activeTab, setActiveTab] = useState<SectionKey>("varc");
-  const [inputMode, setInputMode] = useState<"url" | "source" | "manual">("url");
+  const [inputMode, setInputMode] = useState<"url" | "source" | "manual" | "target">("url");
+  const [selectedTargetIndex, setSelectedTargetIndex] = useState(2); // Default 99.0%ile
+  const [copied, setCopied] = useState(false);
 
   // Link & Page Source parsing state
   const [responseSheetUrl, setResponseSheetUrl] = useState("");
@@ -238,7 +339,7 @@ export function CatScoreCalculator() {
 
   const handleAnalyzeUrl = async () => {
     if (!responseSheetUrl.trim()) {
-      setParseError("Please enter your official CAT response sheet URL.");
+      setParseError("Please enter your official CAT candidate response sheet URL.");
       return;
     }
 
@@ -256,18 +357,44 @@ export function CatScoreCalculator() {
       const result = await res.json();
       if (!res.ok) throw new Error(result.error || "Analysis failed");
 
-      setAnalysisResult(result.data);
+      const data = result.data;
+      setAnalysisResult(data);
+
+      // Auto pre-populate section inputs if parsed
+      if (data.sections) {
+        setInputs({
+          varc: {
+            correctMcq: data.sections.varc.correctMcq,
+            wrongMcq: data.sections.varc.wrongMcq,
+            correctTita: data.sections.varc.correctTita,
+          },
+          dilr: {
+            correctMcq: data.sections.dilr.correctMcq,
+            wrongMcq: data.sections.dilr.wrongMcq,
+            correctTita: data.sections.dilr.correctTita,
+          },
+          qa: {
+            correctMcq: data.sections.qa.correctMcq,
+            wrongMcq: data.sections.qa.wrongMcq,
+            correctTita: data.sections.qa.correctTita,
+          },
+        });
+
+        if (data.detectedSlot && data.detectedSlot !== "general") {
+          setSelectedSlot(data.detectedSlot);
+        }
+      }
     } catch (err: any) {
       setParseError(
         err.message ||
-          "Could not directly fetch response sheet from this network. You can paste your Page Source below or enter section attempts manually!"
+          "Could not directly fetch response sheet from this network. You can paste your Page Source in the 'HTML Source' tab or enter section attempts manually!"
       );
     } finally {
       setIsAnalyzing(false);
     }
   };
 
-  const handleParseSource = () => {
+  const handleParseSource = async () => {
     if (!pageSource.trim()) {
       setParseError("Please paste the page source code first.");
       return;
@@ -277,21 +404,43 @@ export function CatScoreCalculator() {
     setParseError("");
 
     try {
-      const answeredCount = (pageSource.match(/Answered/g) || []).length;
-      const totalFetched = (pageSource.match(/Question ID/g) || []).length;
-
-      if (answeredCount === 0 && totalFetched === 0) {
-        throw new Error(
-          "Could not find 'Answered' or 'Question ID' in the pasted HTML. Please ensure you copied the entire page source from your response sheet."
-        );
-      }
-
-      setAnalysisResult({
-        totalFetched: totalFetched || 66,
-        answeredCount: answeredCount,
+      const res = await fetch("/api/analyze-link", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ html: pageSource }),
       });
+
+      const result = await res.json();
+      if (!res.ok) throw new Error(result.error || "Failed to parse page source");
+
+      const data = result.data;
+      setAnalysisResult(data);
+
+      if (data.sections) {
+        setInputs({
+          varc: {
+            correctMcq: data.sections.varc.correctMcq,
+            wrongMcq: data.sections.varc.wrongMcq,
+            correctTita: data.sections.varc.correctTita,
+          },
+          dilr: {
+            correctMcq: data.sections.dilr.correctMcq,
+            wrongMcq: data.sections.dilr.wrongMcq,
+            correctTita: data.sections.dilr.correctTita,
+          },
+          qa: {
+            correctMcq: data.sections.qa.correctMcq,
+            wrongMcq: data.sections.qa.wrongMcq,
+            correctTita: data.sections.qa.correctTita,
+          },
+        });
+
+        if (data.detectedSlot && data.detectedSlot !== "general") {
+          setSelectedSlot(data.detectedSlot);
+        }
+      }
     } catch (err: any) {
-      setParseError(err.message);
+      setParseError(err.message || "Failed to extract data from HTML source.");
     } finally {
       setIsParsing(false);
     }
@@ -371,9 +520,9 @@ export function CatScoreCalculator() {
           slot: selectedSlot,
           rawScore: stats.totalRaw,
           percentile: stats.overallPercentile,
-          varcScore: stats.sections.find(s => s.key === 'varc')?.raw,
-          dilrScore: stats.sections.find(s => s.key === 'dilr')?.raw,
-          qaScore: stats.sections.find(s => s.key === 'qa')?.raw,
+          varcScore: stats.sections.find((s) => s.key === "varc")?.raw,
+          dilrScore: stats.sections.find((s) => s.key === "dilr")?.raw,
+          qaScore: stats.sections.find((s) => s.key === "qa")?.raw,
         },
         timestamp: new Date().toISOString(),
       });
@@ -385,6 +534,25 @@ export function CatScoreCalculator() {
     }
   };
 
+  const handleCopyResults = () => {
+    const varc = stats.sections.find((s) => s.key === "varc")?.raw || 0;
+    const dilr = stats.sections.find((s) => s.key === "dilr")?.raw || 0;
+    const qa = stats.sections.find((s) => s.key === "qa")?.raw || 0;
+
+    const summaryText = `📊 My Predicted CAT 2026 Score Breakdown:
+• Raw Score: ${stats.totalRaw} / 198 Marks
+• Predicted Percentile: ~${stats.overallPercentile}+ %ile
+• Sectional Scores: VARC: ${varc}M | DILR: ${dilr}M | QA: ${qa}M
+• Slot Equated: ${selectedSlot.toUpperCase()}
+• Eligible B-Schools: ${stats.recommendedColleges.tier}
+
+Calculate your score here: https://careerwithmohit.online/tools/cat-score-calculator/`;
+
+    navigator.clipboard.writeText(summaryText);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 3000);
+  };
+
   const currentSection = SECTIONS.find((s) => s.key === activeTab)!;
   const currentInput = inputs[activeTab];
   const currentStats = stats.sections.find((s) => s.key === activeTab)!;
@@ -393,6 +561,8 @@ export function CatScoreCalculator() {
     const inp = inputs[s.key as SectionKey];
     return inp.correctMcq !== "" || inp.wrongMcq !== "" || inp.correctTita !== "";
   });
+
+  const activeTargetPlan = TARGET_PERCENTILE_PLANS[selectedTargetIndex];
 
   return (
     <div className="w-full max-w-5xl mx-auto" id="cat-calculator-app">
@@ -418,20 +588,20 @@ export function CatScoreCalculator() {
                     CAT 2026 Engine
                   </span>
                   <span className="text-slate-400 text-xs font-semibold">
-                    66 Qs · 198 Max Marks
+                    66 Qs · 198 Max Marks · Slot 1, 2 &amp; 3 Equated
                   </span>
                 </div>
                 <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-white leading-tight">
-                  CAT Score &amp; Percentile Calculator
+                  CAT Exam Score Calculator &amp; Percentile Predictor
                 </h2>
                 <p className="text-slate-300 text-xs sm:text-sm mt-1 max-w-xl font-medium">
-                  Official +3 / −1 marking scheme with Slot Equating Normalization &amp; 2027 IIM call forecasting.
+                  Official +3 / −1 marking scheme with Slot Equating Normalization, candidate response sheet scan &amp; 2027 IIM call forecasting.
                 </p>
               </div>
             </div>
 
             {/* Exam Slot Selector Pill Group */}
-            <div className="bg-white/10 backdrop-blur-md p-3 rounded-2xl border border-white/15 shrink-0">
+            <div className="bg-white/10 backdrop-blur-md p-3.5 rounded-2xl border border-white/15 shrink-0">
               <label
                 htmlFor="slot-select"
                 className="block text-[11px] font-bold uppercase tracking-wider text-amber-300 mb-2 flex items-center gap-1.5"
@@ -441,9 +611,9 @@ export function CatScoreCalculator() {
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5">
                 {[
                   { key: "general", label: "General" },
-                  { key: "slot1", label: "Slot 1" },
-                  { key: "slot2", label: "Slot 2" },
-                  { key: "slot3", label: "Slot 3" },
+                  { key: "slot1", label: "Slot 1 (Morning)" },
+                  { key: "slot2", label: "Slot 2 (Afternoon)" },
+                  { key: "slot3", label: "Slot 3 (Evening)" },
                 ].map((s) => (
                   <button
                     key={s.key}
@@ -465,16 +635,16 @@ export function CatScoreCalculator() {
           {/* Marking Rules Micro-Strip */}
           <div className="relative z-10 flex flex-wrap items-center gap-2 mt-6 pt-5 border-t border-white/10">
             <span className="inline-flex items-center gap-1.5 bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" /> Correct MCQ: +3
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" /> Correct MCQ: +3 Marks
             </span>
             <span className="inline-flex items-center gap-1.5 bg-rose-500/20 text-rose-300 border border-rose-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <X className="w-3.5 h-3.5 text-rose-400" /> Wrong MCQ: −1
+              <X className="w-3.5 h-3.5 text-rose-400" /> Wrong MCQ: −1 Mark Penalty
             </span>
             <span className="inline-flex items-center gap-1.5 bg-amber-500/20 text-amber-300 border border-amber-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <Sparkles className="w-3.5 h-3.5 text-amber-400" /> TITA Correct: +3
+              <Sparkles className="w-3.5 h-3.5 text-amber-400" /> TITA Correct: +3 Marks
             </span>
             <span className="inline-flex items-center gap-1.5 bg-slate-700/50 text-slate-300 border border-white/10 px-3 py-1 rounded-full text-xs font-semibold">
-              🛡️ Wrong TITA: 0 (No Penalty)
+              🛡️ Wrong TITA: 0 (Zero Negative Marking)
             </span>
           </div>
         </div>
@@ -482,7 +652,7 @@ export function CatScoreCalculator() {
         {/* Calculator Body */}
         <div className="p-6 sm:p-8 md:p-10 space-y-10">
 
-          {/* STEP 1: Response Sheet Scan or Manual Input Method Tabs */}
+          {/* STEP 1: Response Sheet Scan, Manual Input or Goal Planner Tabs */}
           <div className="bg-slate-50/80 rounded-2xl p-5 sm:p-7 border border-slate-200/80">
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
               <div className="flex items-center gap-2.5">
@@ -491,18 +661,19 @@ export function CatScoreCalculator() {
                 </div>
                 <div>
                   <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                    Check Response Sheet or Enter Attempts
+                    Check Response Sheet URL, Page Source or Key Attempts
                   </h3>
                   <p className="text-xs text-slate-500">
-                    Choose your preferred calculation method
+                    Choose your calculation or target simulation mode
                   </p>
                 </div>
               </div>
 
               {/* Input Mode Selector */}
-              <div className="flex bg-white rounded-xl p-1 border border-slate-200 shadow-sm">
+              <div className="flex flex-wrap bg-white rounded-xl p-1 border border-slate-200 shadow-sm gap-1">
                 <button
                   type="button"
+                  id="tab-url-mode"
                   onClick={() => setInputMode("url")}
                   className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "url"
@@ -514,6 +685,7 @@ export function CatScoreCalculator() {
                 </button>
                 <button
                   type="button"
+                  id="tab-source-mode"
                   onClick={() => setInputMode("source")}
                   className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "source"
@@ -525,6 +697,7 @@ export function CatScoreCalculator() {
                 </button>
                 <button
                   type="button"
+                  id="tab-manual-mode"
                   onClick={() => setInputMode("manual")}
                   className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "manual"
@@ -533,6 +706,18 @@ export function CatScoreCalculator() {
                   }`}
                 >
                   ✏️ Manual Marks
+                </button>
+                <button
+                  type="button"
+                  id="tab-target-mode"
+                  onClick={() => setInputMode("target")}
+                  className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                    inputMode === "target"
+                      ? "bg-amber-500 text-slate-950 font-black shadow-sm"
+                      : "text-amber-800 bg-amber-50 hover:bg-amber-100"
+                  }`}
+                >
+                  🎯 %ile Goal Planner
                 </button>
               </div>
             </div>
@@ -544,7 +729,7 @@ export function CatScoreCalculator() {
                   htmlFor="response-sheet-input"
                   className="block text-xs font-semibold text-slate-700"
                 >
-                  Paste Candidate Response Sheet Link (from{" "}
+                  Paste Candidate Response Sheet Link (hosted on{" "}
                   <code className="bg-slate-200 text-slate-800 px-1 py-0.5 rounded text-[11px]">
                     cdn.digialm.com
                   </code>{" "}
@@ -571,7 +756,7 @@ export function CatScoreCalculator() {
                   >
                     {isAnalyzing ? (
                       <>
-                        <RefreshCw className="w-4 h-4 animate-spin" /> Scanning...
+                        <RefreshCw className="w-4 h-4 animate-spin" /> Scanning Response Sheet...
                       </>
                     ) : (
                       <>
@@ -594,7 +779,7 @@ export function CatScoreCalculator() {
                   <kbd className="bg-slate-200 text-slate-800 px-1.5 py-0.5 rounded text-[11px]">
                     Ctrl+U
                   </kbd>{" "}
-                  or Right-Click → View Page Source, then Copy All)
+                  or Right-Click → View Page Source on your answer key, then Copy All)
                 </label>
                 <textarea
                   id="page-source-input"
@@ -625,6 +810,78 @@ export function CatScoreCalculator() {
               </div>
             )}
 
+            {/* Method D: Percentile Target Reverse Planner */}
+            {inputMode === "target" && (
+              <div className="space-y-4 animate-in fade-in duration-300">
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-bold text-slate-700 uppercase">
+                    Select Your Dream Percentile Target:
+                  </span>
+                  <span className="text-xs font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full">
+                    {activeTargetPlan.percentile} Goal
+                  </span>
+                </div>
+
+                {/* Target Pills */}
+                <div className="grid grid-cols-3 sm:grid-cols-5 gap-2">
+                  {TARGET_PERCENTILE_PLANS.map((plan, idx) => (
+                    <button
+                      key={plan.percentile}
+                      type="button"
+                      onClick={() => setSelectedTargetIndex(idx)}
+                      className={`p-2 rounded-xl text-xs font-bold transition-all text-center cursor-pointer border ${
+                        selectedTargetIndex === idx
+                          ? "bg-slate-900 text-amber-300 border-slate-900 shadow-sm"
+                          : "bg-white text-slate-700 border-slate-200 hover:bg-slate-100"
+                      }`}
+                    >
+                      {plan.percentile}
+                    </button>
+                  ))}
+                </div>
+
+                {/* Target Strategy Card */}
+                <div className="p-5 rounded-2xl bg-white border border-amber-300 shadow-sm space-y-3">
+                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-100 pb-3">
+                    <div>
+                      <span className="text-base font-black text-slate-900">
+                        Target Raw Score Needed: {activeTargetPlan.rawScoreNeeded}
+                      </span>
+                      <p className="text-xs text-slate-600 font-medium">{activeTargetPlan.desc}</p>
+                    </div>
+                    <span className="text-xs font-bold px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 shrink-0 self-start sm:self-auto">
+                      {activeTargetPlan.netCorrect}
+                    </span>
+                  </div>
+
+                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
+                    <div className="bg-violet-50/70 p-3 rounded-xl border border-violet-200">
+                      <span className="text-[11px] font-bold text-violet-700 uppercase block">VARC Attempt Strategy</span>
+                      <span className="text-base font-black text-violet-900">{activeTargetPlan.varcTarget}</span>
+                      <span className="text-[10px] text-slate-500 block mt-0.5">3 RCs + 4-5 VA Qs</span>
+                    </div>
+
+                    <div className="bg-blue-50/70 p-3 rounded-xl border border-blue-200">
+                      <span className="text-[11px] font-bold text-blue-700 uppercase block">DILR Attempt Strategy</span>
+                      <span className="text-base font-black text-blue-900">{activeTargetPlan.dilrTarget}</span>
+                      <span className="text-[10px] text-slate-500 block mt-0.5">2 Full Sets with 100% Accuracy</span>
+                    </div>
+
+                    <div className="bg-emerald-50/70 p-3 rounded-xl border border-emerald-200">
+                      <span className="text-[11px] font-bold text-emerald-700 uppercase block">QA Attempt Strategy</span>
+                      <span className="text-base font-black text-emerald-900">{activeTargetPlan.qaTarget}</span>
+                      <span className="text-[10px] text-slate-500 block mt-0.5">Arithmetic + Algebra Core</span>
+                    </div>
+                  </div>
+
+                  <div className="text-xs font-bold text-slate-800 pt-2 flex items-center gap-1.5">
+                    <Building2 className="w-4 h-4 text-amber-600 shrink-0" />
+                    <span>Expected Shortlists: <span className="text-amber-800">{activeTargetPlan.iimCall}</span></span>
+                  </div>
+                </div>
+              </div>
+            )}
+
             {/* Error Message */}
             {parseError && (
               <div className="mt-4 p-3.5 bg-rose-50 border border-rose-200 rounded-xl text-xs font-semibold text-rose-700 flex items-start gap-2 animate-in fade-in">
@@ -636,11 +893,18 @@ export function CatScoreCalculator() {
             {/* Successful Parse Result Summary */}
             {analysisResult && (
               <div className="mt-5 p-4 sm:p-5 bg-emerald-50/80 border border-emerald-200 rounded-2xl animate-in slide-in-from-top-3 duration-300">
-                <div className="flex items-center gap-2 text-emerald-800 font-bold text-xs uppercase tracking-wider mb-3">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                  Answer Key Successfully Identified!
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-3">
+                  <div className="flex items-center gap-2 text-emerald-800 font-bold text-xs uppercase tracking-wider">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                    Candidate Response Sheet Successfully Parsed!
+                  </div>
+                  {analysisResult.candidateName && analysisResult.candidateName !== "Candidate" && (
+                    <span className="text-xs font-bold text-slate-700 bg-white px-2.5 py-0.5 rounded-full border border-emerald-200">
+                      Candidate: {analysisResult.candidateName}
+                    </span>
+                  )}
                 </div>
-                <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
                   <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
                     <span className="text-[10px] font-bold text-slate-500 uppercase block">Total Questions</span>
                     <span className="text-xl font-black text-slate-900">{analysisResult.totalFetched || 66}</span>
@@ -649,13 +913,17 @@ export function CatScoreCalculator() {
                     <span className="text-[10px] font-bold text-emerald-700 uppercase block">Answered Qs</span>
                     <span className="text-xl font-black text-emerald-700">{analysisResult.answeredCount}</span>
                   </div>
-                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm col-span-2 sm:col-span-1">
-                    <span className="text-[10px] font-bold text-amber-700 uppercase block">Maximum Marks</span>
-                    <span className="text-xl font-black text-amber-700">198</span>
+                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-bold text-blue-700 uppercase block">Calculated Raw Score</span>
+                    <span className="text-xl font-black text-blue-700">{stats.totalRaw} / 198</span>
+                  </div>
+                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-bold text-amber-700 uppercase block">Est. Percentile</span>
+                    <span className="text-xl font-black text-amber-700">~{stats.overallPercentile}+ %ile</span>
                   </div>
                 </div>
                 <p className="text-[11px] font-medium text-slate-600 mt-3">
-                  Now verify your section-wise right and wrong counts below to compute your normalized percentile and IIM call ranges.
+                  Attempts have been automatically mapped below. Verify your sectional VARC, DILR &amp; QA numbers or make adjustments.
                 </p>
               </div>
             )}
@@ -959,9 +1227,26 @@ export function CatScoreCalculator() {
                 </div>
 
                 <div className="relative z-10">
-                  <div className="flex items-center gap-2 text-amber-300 text-xs font-bold uppercase tracking-widest mb-3">
-                    <Sparkles className="w-4 h-4" />
-                    Overall Predicted CAT 2026 Result
+                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
+                    <div className="flex items-center gap-2 text-amber-300 text-xs font-bold uppercase tracking-widest">
+                      <Sparkles className="w-4 h-4" />
+                      Predicted CAT Result (MBA 2027 Batch)
+                    </div>
+                    <button
+                      type="button"
+                      onClick={handleCopyResults}
+                      className="inline-flex items-center gap-1.5 bg-white/10 hover:bg-white/20 border border-white/15 px-3 py-1.5 rounded-xl text-xs font-bold text-white transition-all self-start sm:self-auto cursor-pointer"
+                    >
+                      {copied ? (
+                        <>
+                          <Check className="w-3.5 h-3.5 text-emerald-400" /> Copied Summary!
+                        </>
+                      ) : (
+                        <>
+                          <Copy className="w-3.5 h-3.5 text-amber-300" /> Copy Scorecard Summary
+                        </>
+                      )}
+                    </button>
                   </div>
 
                   <div className="flex flex-wrap items-baseline gap-4 mb-8">
@@ -1123,7 +1408,7 @@ export function CatScoreCalculator() {
           )}
 
           {/* Placeholder when nothing entered yet */}
-          {!hasAnyInput && !isUnlocked && (
+          {!hasAnyInput && !isUnlocked && inputMode !== "target" && (
             <div className="rounded-2xl border-2 border-dashed border-slate-200 p-8 sm:p-12 text-center">
               <BarChart3 className="w-12 h-12 text-slate-300 mx-auto mb-3" />
               <p className="text-xs font-bold uppercase tracking-wider text-slate-400">

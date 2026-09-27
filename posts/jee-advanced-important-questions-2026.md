@@ -13,12 +13,6 @@ keywords:
   - IIT JEE study material 2026
   - JEE Advanced subject wise weightage
   - JEE Advanced 2026 preparation
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

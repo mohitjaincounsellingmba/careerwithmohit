@@ -12,12 +12,6 @@ keywords:
   - how to check CUET PG 2026 response sheet
   - CUET PG answer key challenge window
   - CUET PG 2026 raw marks calculator
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-

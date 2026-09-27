@@ -20,17 +20,6 @@ keywords:
   - free mock test score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-

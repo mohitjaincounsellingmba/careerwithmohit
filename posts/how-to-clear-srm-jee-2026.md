@@ -15,17 +15,6 @@ keywords:
   - SRMJEEE subject wise preparation
   - SRM JEE marking scheme
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

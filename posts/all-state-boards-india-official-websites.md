@@ -15,12 +15,6 @@ keywords:
   - BSEB official site
   - UPMSP official website
   - all India school boards list
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: How do I check my exam results online?
     answer: >-

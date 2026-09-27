@@ -15,17 +15,6 @@ keywords:
   - 3 year llb career scope
   - 5 year llb vs 3 year llb salary
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Are both degrees valid for practice in Indian courts?
     answer: >-

@@ -13,18 +13,9 @@ keywords:
   - ABS Noida placements 2025
   - Asian Business School infrastructure
   - Best PGDM in Noida
-  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-

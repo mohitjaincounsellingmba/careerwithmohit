@@ -13,12 +13,6 @@ keywords:
   - Management Quota MBA Admission 2027
   - Low Percentile MBA Colleges 2027-29
   - Profile Based MBA Admission India
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 category: Exams
 image: /images/blog/direct-mba.webp
 faqs:

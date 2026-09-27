@@ -19,12 +19,6 @@ keywords:
   - CAT 2026 daily quiz telegram
   - B-school cutoffs alerts telegram
   - MBA GD PI interview transcripts group
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       Is joining the CareerWithMohit Telegram channel and WhatsApp group 100%

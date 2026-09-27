@@ -15,17 +15,6 @@ keywords:
   - 'PSG Institute of Medical Sciences & Research, Coimbatore MBBS process'
   - MBBS fees private medical college
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the fee for PSG Medical College Management Quota?
     answer: The management quota annual tuition fee is around ₹13.5 Lakhs.

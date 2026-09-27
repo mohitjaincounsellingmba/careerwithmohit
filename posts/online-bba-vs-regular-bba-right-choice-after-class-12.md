@@ -12,12 +12,6 @@ keywords:
   - online BBA fees India
   - is online BBA valid
   - best career options after BBA
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online BBA degree legally valid in India?
     answer: >-

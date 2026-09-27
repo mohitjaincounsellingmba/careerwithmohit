@@ -18,12 +18,6 @@ keywords:
   - clat 2026 score vs percentile
   - free mock test series 2026
   - online exam preparation 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Are these mock tests free to attempt?
     answer: >-

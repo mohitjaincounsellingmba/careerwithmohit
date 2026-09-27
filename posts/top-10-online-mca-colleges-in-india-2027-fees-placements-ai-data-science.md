@@ -18,12 +18,6 @@ keywords:
   - lpu online mca review
   - jain online mca data analytics
   - mohit jain career counsellor
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 image: /og-image.webp
 faqs:
   - question: Can non-computer science graduates apply for an Online MCA in 2027?

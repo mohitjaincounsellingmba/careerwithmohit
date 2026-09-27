@@ -12,12 +12,6 @@ keywords:
   - jipmat 2026 strategy
   - iim bodh gaya integrated mba
   - best bba program in india
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM Bodh Gaya accept IPMAT Indore scores?
     answer: >-

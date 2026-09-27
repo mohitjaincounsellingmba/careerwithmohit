@@ -17,12 +17,6 @@ keywords:
   - xat 2027 exam date
   - xat application fee 2027
   - how to apply for xat 2027
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: What is the XAT exam 2027 last date of registration?
     answer: >-

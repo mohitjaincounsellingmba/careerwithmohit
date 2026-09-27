@@ -14,12 +14,6 @@ keywords:
   - freelance gigs for college students India
   - online BBA internships work from home
   - resume builder BBA students
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Can I do a full-time internship while doing an online BBA?
     answer: >-

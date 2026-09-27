@@ -21,14 +21,6 @@ keywords:
   - Best Colleges in Faridabad
   - Faridabad Admissions 2026
   - Direct Admission in Faridabad
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-

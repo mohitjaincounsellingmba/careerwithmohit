@@ -15,12 +15,6 @@ keywords:
   - cat quantitative aptitude topic weightage
   - cat dilr syllabus 2026 pdf
   - cat varc question breakdown
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Does IIM release an official CAT syllabus PDF?
     answer: >-

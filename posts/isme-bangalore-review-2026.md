@@ -16,17 +16,6 @@ keywords:
   - ISME Bangalore (School of Management Excellence) admission cutoffs
   - top mba colleges in Sarjapur Road
   - Direct Admission in Delhi
-  - Delhi Colleges
-  - Best Colleges in Delhi
-  - Delhi Admissions 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Direct Admission Delhi NCR
-  - Delhi NCR College Counselling
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: >-
       What is the average package at ISME Bangalore (School of Management

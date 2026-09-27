@@ -534,7 +534,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const collegeB = findCollegeBySlugPart(partB);
 
     if (collegeA && collegeB) {
-      const title = `${collegeA.name} vs ${collegeB.name}: Compare Fees 2027`.slice(0, 60);
+      const title = `${collegeA.name} vs ${collegeB.name}: Compare Fees 2027`;
       const desc = `Detailed side-by-side comparison of ${collegeA.name} and ${collegeB.name}. Compare tuition fees, NAAC grades, accreditations, and placement support. Get free counseling.`;
 
       return {
@@ -562,7 +562,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // 3. University Metadata (Case C)
   const college = COLLEGES.find((c) => c.universitySlug === slug);
   if (college) {
-    const title = `${college.name} Online Admission & Fees 2027`.slice(0, 60);
+    const title = `${college.name} Online Admission & Fees 2027`;
     const desc = `Explore online programs at ${college.name}. Check detailed fee structures, NAAC grade (${college.grade}), UGC approvals, and admission criteria for 2027.`;
 
     return {

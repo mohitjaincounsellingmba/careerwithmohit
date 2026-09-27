@@ -22,12 +22,6 @@ keywords:
   - best mba career counsellor in india
   - free career counselling session
   - MBA Admissions 2027
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
 faqs:
   - question: Is this 1-on-1 MBA counselling call really 100% free?
     answer: >-
