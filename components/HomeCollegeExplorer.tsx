@@ -228,7 +228,7 @@ export function HomeCollegeExplorer() {
         </div>
 
         {/* ── 1. STREAM & CATEGORY TABS ── */}
-        <div className="flex items-center gap-2 overflow-x-auto pb-3 mb-6 no-scrollbar">
+        <div className="flex items-center gap-2 overflow-x-auto pb-2 mb-4 no-scrollbar">
           {[
             { id: 'all', label: '🌐 All Streams', badge: `${FEATURED_DIRECTORY_COLLEGES.length}+ Campuses` },
             { id: 'mba', label: '🎓 MBA & PGDM', badge: 'Tier-1 & AICTE' },
@@ -263,6 +263,44 @@ export function HomeCollegeExplorer() {
                 >
                   {tab.badge}
                 </span>
+              </button>
+            );
+          })}
+        </div>
+
+        {/* ── 1.5 POPULAR CITY HUBS QUICK SELECTOR ── */}
+        <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto no-scrollbar pb-3 mb-6">
+          <span className="text-xs font-bold text-slate-400 uppercase tracking-wider mr-1 flex items-center gap-1 shrink-0">
+            <MapPin className="w-3.5 h-3.5 text-blue-600" />
+            <span>Top Cities:</span>
+          </span>
+          {[
+            { label: 'All Cities', value: 'all' },
+            { label: 'Delhi NCR', value: 'delhi' },
+            { label: 'Mumbai & Pune', value: 'maharashtra' },
+            { label: 'Bangalore', value: 'karnataka' },
+            { label: 'Hyderabad', value: 'telangana' },
+            { label: 'Chennai', value: 'tamil' },
+            { label: 'Ahmedabad', value: 'gujarat' },
+            { label: 'Kolkata', value: 'west bengal' },
+            { label: 'Jaipur', value: 'rajasthan' },
+          ].map((city) => {
+            const isSelected = selectedLocation === city.value;
+            return (
+              <button
+                key={city.value}
+                type="button"
+                onClick={() => {
+                  setSelectedLocation(city.value);
+                  setDisplayCount(8);
+                }}
+                className={`px-3 py-1 rounded-full text-xs font-semibold transition-all shrink-0 cursor-pointer ${
+                  isSelected
+                    ? 'bg-slate-900 text-white font-bold shadow-xs'
+                    : 'bg-white text-slate-700 hover:bg-blue-50 hover:text-blue-700 border border-slate-200'
+                }`}
+              >
+                {city.label}
               </button>
             );
           })}

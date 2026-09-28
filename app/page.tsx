@@ -39,22 +39,6 @@ import { PortalQuickTools } from '@/components/PortalQuickTools';
 import StudentCommunitySection from '@/components/StudentCommunitySection';
 import { JsonLd } from '@/components/JsonLd';
 
-const ShikshaCollegeExplorer = dynamic(
-  () => import('@/components/ShikshaCollegeExplorer').then((mod) => mod.ShikshaCollegeExplorer),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-7xl px-6 py-12 animate-pulse">
-        <div className="h-8 w-64 bg-slate-800 rounded-xl mb-4" />
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {[...Array(4)].map((_, i) => (
-            <div key={i} className="h-28 bg-slate-800 rounded-2xl" />
-          ))}
-        </div>
-      </div>
-    ),
-  }
-);
-
 const HomeCollegeExplorer = dynamic(
   () => import('@/components/HomeCollegeExplorer').then((mod) => mod.HomeCollegeExplorer),
   {
@@ -393,26 +377,23 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── 2. SHIKSHA-STYLE DISCOVER COLLEGES BY STREAM & CITY EXPLORER ── */}
-      <ShikshaCollegeExplorer />
-
-      {/* ── 3. INTERACTIVE FEATURED COLLEGE SEARCH & EXPLORER PORTAL ── */}
+      {/* ── 2. UNIFIED PAN-INDIA COLLEGES & B-SCHOOLS DISCOVERY HUB ── */}
       <HomeCollegeExplorer />
 
-      {/* ── 3. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
-      <HomeInquirySection />
-
-      {/* ── 4. FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
+      {/* ── 3. FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
       <PortalQuickTools />
 
-      {/* ── 5. NATIONAL ENTRANCE EXAM RADAR & DEADLINE TRACKER ── */}
-      <ExamTrackerSection />
-
-      {/* ── 6. LIVE INTERACTIVE MBA ROI & FINANCIAL PAYBACK CALCULATOR ── */}
+      {/* ── 4. LIVE INTERACTIVE MBA ROI & FINANCIAL PAYBACK CALCULATOR ── */}
       <InteractiveRoiCalculator />
 
-      {/* ── 7. FREE FULL-LENGTH CBT MOCK TESTS SLIDER BANNER ── */}
+      {/* ── 5. FREE FULL-LENGTH CBT MOCK TESTS SLIDER BANNER ── */}
       <HomeMockTestSlider />
+
+      {/* ── 6. NATIONAL ENTRANCE EXAM RADAR & DEADLINE TRACKER ── */}
+      <ExamTrackerSection />
+
+      {/* ── 7. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
+      <HomeInquirySection />
 
       {/* ── 8. UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES SHOWCASE ── */}
       <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-16 sm:py-24 sm:px-12 relative overflow-hidden border-b border-blue-900/50 content-auto">
@@ -729,106 +710,105 @@ export default function Home() {
       {/* ── 11. STUDENT COMMUNITY - WHATSAPP & TELEGRAM ── */}
       <StudentCommunitySection />
 
-      {/* ── 12. REAL-TIME ADMISSION NEWS UPDATES ── */}
-      <section id="news" className="bg-white px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
+      {/* ── 12. UNIFIED ADMISSION NEWS & EXPERT ANALYSIS ── */}
+      <section id="news-intel" className="bg-white px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
             <div className="max-w-2xl">
               <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
-                Real-Time Updates
+                Live Radar &amp; Editorial Intel
               </span>
               <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-slate-900 flex items-center gap-3">
                 <Bell className="h-8 w-8 text-blue-600" strokeWidth={2.5} />
-                Admission Flash News
+                Admission Updates &amp; Analysis
               </h2>
               <p className="mt-3 text-base sm:text-lg font-normal text-slate-600">
-                Flash updates on MBA admissions, entrance exams, and college deadlines.
+                Real-time flash updates on deadlines, entrance exams, and comprehensive MBA strategy breakdowns.
               </p>
             </div>
-            <Link href="/news" prefetch={false} className="inline-flex h-12 items-center justify-center rounded-xl bg-slate-900 px-6 py-2.5 text-sm font-bold text-white transition-all hover:bg-blue-600 whitespace-nowrap shadow-sm">
-              All News Updates &rarr;
-            </Link>
-          </div>
-
-          <div className="grid gap-6 lg:grid-cols-2">
-            {NEWS_ITEMS.slice(0, 4).map((item) => (
-              <div
-                key={item.id}
-                className="group relative overflow-hidden rounded-2xl border border-slate-200 bg-white p-7 transition-all duration-200 hover:shadow-lg hover:-translate-y-1 shadow-sm"
-              >
-                <div className="flex items-center gap-3 mb-3">
-                  <span className="bg-blue-50 text-blue-700 rounded-md px-2.5 py-1 text-xs font-bold uppercase tracking-wider">
-                    {item.category}
-                  </span>
-                  <span className="text-slate-400 font-medium text-xs">
-                    {item.date}
-                  </span>
-                </div>
-                <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
-                  {item.title}
-                </h3>
-                <p className="text-slate-600 font-normal text-sm leading-relaxed mb-5 line-clamp-2">
-                  {item.excerpt}
-                </p>
-                <Link
-                  href={item.link}
-                  prefetch={false}
-                  className="inline-flex items-center text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors group-hover:translate-x-1 transition-transform"
-                >
-                  Read Update <ArrowRight className="ml-1.5 h-4 w-4" />
-                </Link>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── 13. ARTICLES & ANALYSIS SECTION ── */}
-      <section id="articles" className="bg-slate-50 px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
-        <div className="mx-auto max-w-7xl">
-          <div className="mb-12 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
-            <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-slate-900 flex flex-wrap items-center gap-3">
-              Latest Intel &amp; Analysis
-              <span className="text-xs sm:text-sm font-bold bg-blue-100 text-blue-800 px-3 py-1 rounded-full uppercase tracking-wider">
-                {allPostsData.length} Articles
-              </span>
-            </h2>
-            <Link href="/blog" prefetch={false} className="inline-flex h-12 items-center justify-center rounded-xl bg-slate-900 px-6 py-2.5 text-sm font-bold text-white transition-all hover:bg-blue-600 whitespace-nowrap shadow-sm">
-              View All Articles &rarr;
-            </Link>
-          </div>
-
-          <div className="grid gap-8 lg:grid-cols-3">
-            {allPostsData.slice(0, 3).map(({ slug, title, date, description }) => (
-              <Link
-                key={slug}
-                href={`/blog/${slug}`}
-                prefetch={false}
-                className="group flex flex-col rounded-2xl border border-slate-200 bg-white p-7 transition-all duration-300 hover:shadow-xl hover:-translate-y-1.5 h-full shadow-sm hover:border-blue-300"
-              >
-                <div className="mb-4 inline-block rounded-md bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-600 self-start">
-                  {new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-                </div>
-                <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug">
-                  {title}
-                </h3>
-                {description && (
-                  <p className="text-slate-600 text-sm font-normal leading-relaxed mb-6 line-clamp-3">
-                    {description}
-                  </p>
-                )}
-                <div className="mt-auto flex items-center font-bold text-blue-600 group-hover:text-blue-800 text-sm transition-colors pt-4 border-t border-slate-100">
-                  Read Article
-                  <span className="ml-1.5 inline-block transition-transform duration-200 group-hover:translate-x-1.5">&rarr;</span>
-                </div>
+            <div className="flex items-center gap-3">
+              <Link href="/news" prefetch={false} className="inline-flex h-11 items-center justify-center rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 px-4 py-2 text-xs font-bold transition-all whitespace-nowrap border border-slate-200">
+                All News &rarr;
               </Link>
-            ))}
+              <Link href="/blog" prefetch={false} className="inline-flex h-11 items-center justify-center rounded-xl bg-slate-900 px-5 py-2 text-xs font-bold text-white transition-all hover:bg-blue-600 whitespace-nowrap shadow-sm">
+                All {allPostsData.length} Articles &rarr;
+              </Link>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+            {/* Left Column: Flash Admission Alerts (5 cols) */}
+            <div className="lg:col-span-5 space-y-4">
+              <h3 className="font-display text-base font-bold text-slate-900 flex items-center gap-2 pb-2 border-b border-slate-100">
+                <span className="w-2.5 h-2.5 rounded-full bg-red-500 animate-ping" />
+                <span>Live Flash Alerts</span>
+              </h3>
+              <div className="space-y-3">
+                {NEWS_ITEMS.slice(0, 3).map((item) => (
+                  <Link
+                    key={item.id}
+                    href={item.link}
+                    prefetch={false}
+                    className="group block p-4 rounded-2xl bg-slate-50/70 hover:bg-blue-50/60 border border-slate-200/80 hover:border-blue-300 transition-all shadow-2xs"
+                  >
+                    <div className="flex items-center justify-between text-[11px] mb-1.5">
+                      <span className="bg-blue-100 text-blue-800 font-extrabold px-2 py-0.5 rounded-md uppercase tracking-wider">
+                        {item.category}
+                      </span>
+                      <span className="text-slate-400 font-medium">{item.date}</span>
+                    </div>
+                    <h4 className="font-display text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
+                      {item.title}
+                    </h4>
+                    <p className="text-xs text-slate-500 line-clamp-1 mt-1">
+                      {item.excerpt}
+                    </p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+
+            {/* Right Column: In-Depth Strategic Analysis & Articles (7 cols) */}
+            <div className="lg:col-span-7 space-y-4">
+              <h3 className="font-display text-base font-bold text-slate-900 flex items-center gap-2 pb-2 border-b border-slate-100">
+                <FileText className="w-4 h-4 text-blue-600" />
+                <span>Featured Strategic Analysis</span>
+              </h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {allPostsData.slice(0, 2).map(({ slug, title, date, description }) => (
+                  <Link
+                    key={slug}
+                    href={`/blog/${slug}`}
+                    prefetch={false}
+                    className="group flex flex-col justify-between p-5 rounded-2xl bg-slate-50/60 hover:bg-white border border-slate-200 hover:border-blue-300 hover:shadow-lg transition-all h-full"
+                  >
+                    <div>
+                      <span className="inline-block px-2 py-0.5 rounded text-[10px] font-bold bg-slate-200/70 text-slate-700 mb-2">
+                        {new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                      </span>
+                      <h4 className="font-display text-sm font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2 mb-2">
+                        {title}
+                      </h4>
+                      {description && (
+                        <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed mb-4">
+                          {description}
+                        </p>
+                      )}
+                    </div>
+                    <div className="pt-3 border-t border-slate-100 flex items-center text-xs font-bold text-blue-600 group-hover:text-blue-800 mt-auto">
+                      <span>Read Full Guide</span>
+                      <ArrowRight className="w-3.5 h-3.5 ml-1 group-hover:translate-x-1 transition-transform" />
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* ── 14. AI KNOWLEDGE & FAQ SECTION ── */}
-      <section id="ai-fast-facts" className="bg-white px-6 py-16 sm:py-24 sm:px-12 content-auto">
+      {/* ── 13. AI KNOWLEDGE & FAQ SECTION ── */}
+      <section id="ai-fast-facts" className="bg-slate-50 px-6 py-16 sm:py-24 sm:px-12 content-auto">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 border-b border-slate-200 pb-8">
             <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
@@ -847,7 +827,7 @@ export default function Home() {
             {HOME_FAQS.map((faq, idx) => (
               <div
                 key={idx}
-                className="rounded-2xl border border-slate-200 bg-slate-50/50 p-6 sm:p-7 transition-all hover:bg-white hover:shadow-md hover:border-blue-200 shadow-sm"
+                className="rounded-2xl border border-slate-200 bg-white p-6 sm:p-7 transition-all hover:shadow-md hover:border-blue-200 shadow-sm"
               >
                 <h3 className="font-display text-lg sm:text-xl font-bold text-slate-900 mb-2.5 flex items-start gap-3">
                   <span className="flex-shrink-0 flex items-center justify-center h-7 w-7 rounded-lg bg-blue-600 text-white text-xs font-bold mt-0.5">
