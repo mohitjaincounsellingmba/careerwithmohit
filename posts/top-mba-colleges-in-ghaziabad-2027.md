@@ -71,13 +71,13 @@ In this 2027 admission review, senior educational advisor **Mohit Jain** deliver
 
 | College / Program | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
-| **[IMT Ghaziabad](/colleges/jaipuria-ghaziabad)** (PGDM Core/Mktg/BFS/Dual) | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90+ %ile) / GMAT |
-| **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/colleges/jaipuria-ghaziabad)** (PGDM) | ₹9.50 Lakhs | ₹8.25 LPA | CAT / XAT / CMAT / MAT (65+ %ile) |
-| **[Jaipuria School of Business (JSB, Indirapuram)](/colleges/jaipuria-ghaziabad)** (PGDM) | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
-| **[ITS - School of Management (Mohan Nagar)](/colleges/all-about-i-t-s-school-of-management)** (PGDM/MBA) | ₹6.50 – ₹8.20 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
-| **[KIET School of Management (Muradnagar)](/colleges/all-about-ghaziabad-institute-of-management)** (MBA) | ₹3.50 Lakhs | ₹5.50 LPA | CUET-PG / UPTAC / Direct |
-| **[ABES Engineering College - Dept of Management](/colleges/all-about-ghaziabad-graduate-school-of-management)** (MBA) | ₹3.20 Lakhs | ₹5.20 LPA | CUET-PG / Direct Merit |
-| **[RKGIT Ghaziabad - Management Studies](/colleges/all-about-ghaziabad-institute-of-management)** (MBA) | ₹2.90 Lakhs | ₹4.80 LPA | CUET-PG / Direct Merit |
+| **[IMT Ghaziabad](/blog/all-about-jaipuria-ghaziabad)** (PGDM Core/Mktg/BFS/Dual) | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90+ %ile) / GMAT |
+| **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/blog/all-about-jaipuria-ghaziabad)** (PGDM) | ₹9.50 Lakhs | ₹8.25 LPA | CAT / XAT / CMAT / MAT (65+ %ile) |
+| **[Jaipuria School of Business (JSB, Indirapuram)](/blog/all-about-jaipuria-ghaziabad)** (PGDM) | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[ITS - School of Management (Mohan Nagar)](/blog/all-about-i-t-s-school-of-management)** (PGDM/MBA) | ₹6.50 – ₹8.20 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[KIET School of Management (Muradnagar)](/blog/all-about-ghaziabad-institute-of-management)** (MBA) | ₹3.50 Lakhs | ₹5.50 LPA | CUET-PG / UPTAC / Direct |
+| **[ABES Engineering College - Dept of Management](/blog/all-about-ghaziabad-graduate-school-of-management)** (MBA) | ₹3.20 Lakhs | ₹5.20 LPA | CUET-PG / Direct Merit |
+| **[RKGIT Ghaziabad - Management Studies](/blog/all-about-ghaziabad-institute-of-management)** (MBA) | ₹2.90 Lakhs | ₹4.80 LPA | CUET-PG / Direct Merit |
 
 ---
 

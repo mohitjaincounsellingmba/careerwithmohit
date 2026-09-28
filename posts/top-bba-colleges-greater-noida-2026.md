@@ -90,7 +90,7 @@ Here are the **Top BBA Colleges in Greater Noida for 2026**.
 
 ## 🔗 Related Resources
 - [Top BBA Colleges in Noida 2026](/blog/top-bba-colleges-noida-2026)
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
 - [Admission Guide 2026](/blog/career-roadmaps-2026)
 
 ---

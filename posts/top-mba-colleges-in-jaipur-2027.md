@@ -60,13 +60,13 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** (PGDM Core/SM) | Pratap Nagar | ₹12.50 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[IIHMR University](/colleges/all-about-iihmr-university)** (MBA Hospital/Health/Pharma) | Sanganer | ₹10.50 Lakhs | ₹9.80 LPA | CAT / XAT / MAT / CMAT / GPAT / IIHMR-U |
-| **[MNIT Jaipur (Dept. of Mgmt Studies)](/colleges/all-about-mnit-jaipur)** (MBA) | JLN Marg, Malviya Nagar | ₹2.80 Lakhs | ₹8.50 LPA | CAT / CMAT (75+ %ile) |
-| **[Manipal University Jaipur (MUJ)](/colleges/direct-admission-manipal-university-jaipur-btech-2026)** (MBA) | Dehmi Kalan, Ajmer Rd | ₹11.20 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / MUJ Test |
-| **[JK Lakshmipat University (JKLU - HSSB)](/colleges/all-about-hari-shankar-singhania-school-of-business-jk-lakshmipat-university)** | Near Mahindra SEZ | ₹9.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / Direct |
-| **[Amity University Jaipur](/colleges/amity-university-jaipur-review-2026)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
-| **[Poddar Mgmt and Tech Campus](/colleges/all-about-poddar-jaipur)** (PGDM/MBA) | Mansarovar | ₹4.50 – ₹6.20 Lakhs | ₹6.00 LPA | CMAT / MAT / CAT / Direct |
-| **[JECRC University (School of Mgmt)](/colleges/all-about-jecrc-jaipur)** (MBA) | Sitapura | ₹4.80 Lakhs | ₹5.80 LPA | CAT / MAT / Direct Merit |
+| **[IIHMR University](/blog/all-about-iihmr-university)** (MBA Hospital/Health/Pharma) | Sanganer | ₹10.50 Lakhs | ₹9.80 LPA | CAT / XAT / MAT / CMAT / GPAT / IIHMR-U |
+| **[MNIT Jaipur (Dept. of Mgmt Studies)](/blog/all-about-mnit-jaipur)** (MBA) | JLN Marg, Malviya Nagar | ₹2.80 Lakhs | ₹8.50 LPA | CAT / CMAT (75+ %ile) |
+| **[Manipal University Jaipur (MUJ)](/blog/direct-admission-manipal-university-jaipur-btech-2026)** (MBA) | Dehmi Kalan, Ajmer Rd | ₹11.20 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / MUJ Test |
+| **[JK Lakshmipat University (JKLU - HSSB)](/blog/all-about-hari-shankar-singhania-school-of-business-jk-lakshmipat-university)** | Near Mahindra SEZ | ₹9.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / Direct |
+| **[Amity University Jaipur](/blog/amity-university-jaipur-review-2026)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
+| **[Poddar Mgmt and Tech Campus](/blog/all-about-poddar-jaipur)** (PGDM/MBA) | Mansarovar | ₹4.50 – ₹6.20 Lakhs | ₹6.00 LPA | CMAT / MAT / CAT / Direct |
+| **[JECRC University (School of Mgmt)](/blog/all-about-jecrc-jaipur)** (MBA) | Sitapura | ₹4.80 Lakhs | ₹5.80 LPA | CAT / MAT / Direct Merit |
 
 ---
 

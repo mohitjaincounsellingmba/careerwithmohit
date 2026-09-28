@@ -96,7 +96,7 @@ Pay the fee using a Credit/Debit Card, Net Banking, or UPI.
 After payment, download the **Confirmation Page**. You will need this for future reference during counseling.
 
 ## Why the May MAT is Your Last Strategic Move
-Most top-tier PGDM colleges like **[Jaipuria Institute](/blog/all-about-jaipuria-institute-of-management)**, **[BIMTECH](/blog/bimtech-greater-noida-placement-review-2025)**, and **[NDIM](/blog/all-about-ndim-delhi)** finalize their admissions by June-July. 
+Most top-tier PGDM colleges like **[Jaipuria Institute](/blog/all-about-jaipuria-institute-of-management)**, **[BIMTECH](/blog/bimtech-greater-noida-placement-review-2025)**, and **[NDIM](/blog/ndim-delhi-review-2026)** finalize their admissions by June-July. 
 
 The May MAT session is typically the last national-level exam scores these institutes accept for the upcoming session. If you are aiming for a high ROI, check our latest review on **[Low Fees High Placement MBA Colleges in 2026](/blog/low-fees-high-placement-mba-colleges-2026)**.
 

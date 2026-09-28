@@ -192,7 +192,7 @@ Most "New" and "Baby" IIMs conduct a synchronized admission round called **CAP**
 ### Need Help with IIM Admission?
 Cracking IIM is about strategy, not just score. At **CareerWithMohit**, we provide personalized mentoring for WAT/GD/PI rounds and help you build a profile that stands out.
 
-[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/posts)
+[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/blog)
 
 ---
 

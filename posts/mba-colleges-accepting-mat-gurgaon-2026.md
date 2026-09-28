@@ -67,7 +67,7 @@ Offers a highly intensive PGPM (1 Year) and PGDM (2 Years) with prime tech and a
 - **Approx Tuition Fees (2 Years):** ₹19.8 Lakhs
 - **Average Placement Package:** ₹17.5 LPA
 
-### 2. [SOIL Institute of Management](/colleges/soil-institute-gurgaon)
+### 2. [SOIL Institute of Management](/colleges/soil-gurgaon)
 Known for design thinking, leadership-focused education, and excellent placement statistics.
 - **MAT Cutoff Percentile:** 70+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹15.5 Lakhs
@@ -98,7 +98,7 @@ Founded by the Hero Group, offering excellent campus facilities and strong place
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
 | **Great Lakes Institute of Management** | 75+ Percentile | ₹19.8 Lakhs | **₹17.5 LPA** |
-| **[SOIL Institute of Management](/colleges/soil-institute-gurgaon)** | 70+ Percentile | ₹15.5 Lakhs | **₹11.5 LPA** |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | 70+ Percentile | ₹15.5 Lakhs | **₹11.5 LPA** |
 | **IBMR Group of Institutions** | 60+ Percentile | ₹7.50 Lakhs | **₹6.50 LPA** |
 | **JK Business School (JKBS)** | 65+ Percentile | ₹8.00 Lakhs | **₹9.00 LPA** |
 | **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | 65+ Percentile | ₹13.5 Lakhs | **₹9.40 LPA** |

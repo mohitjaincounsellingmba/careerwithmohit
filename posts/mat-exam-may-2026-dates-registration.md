@@ -99,7 +99,7 @@ Some of the most prominent colleges you can apply to using your MAT May 2026 sco
 - **Christ University, Bengaluru**
 - **[Jaipuria Institute of Management (Lucknow, Noida, Jaipur, Indore)](/blog/all-about-jaipuria-institute-of-management)**
 - **[JIMS Rohini, Delhi](/blog/all-about-jims-rohini)**
-- **[NDIM New Delhi](/blog/all-about-ndim-delhi)**
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2026)**
 - **[Lexicon MILE, Pune](/blog/lexicon-mile-pune-review-2025)**
 
 *Wondering exactly which college accepts your projected percentile? Try our free **[MAT College Predictor 2026](/tools/mat-college-predictor)** to get a personalized list instantly.*

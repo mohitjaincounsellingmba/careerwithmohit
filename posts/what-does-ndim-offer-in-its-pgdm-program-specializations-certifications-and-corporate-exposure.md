@@ -319,7 +319,7 @@ Get personalized, unbiased guidance from experienced MBA mentor **Mohit Jain**:
 * Scholarship & Education Loan Guidance
 * GD-PI Preparation Strategy
 
-👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/blog/all-about-ndim-delhi) to finalize your B-School shortlist.
+👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/blog/ndim-delhi-review-2026) to finalize your B-School shortlist.
 
 ---
 

@@ -124,7 +124,7 @@ Usually in **May/June**, immediately after the WBHSE and CBSE Board results are 
 ### Useful Links:
 - [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
 - [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
-- [BCA vs B.Tech — The Ultimate Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
+- [BCA vs B.Tech — The Ultimate Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 
 ---
 

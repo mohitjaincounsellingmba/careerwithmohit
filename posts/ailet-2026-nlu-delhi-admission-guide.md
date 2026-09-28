@@ -135,7 +135,7 @@ Ideally, you should start along with CLAT prep (around **12 months before exam**
 ### Useful Links:
 - [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
 - [CLAT 2026 Prep Strategy](/blog/clat-2026-exam-strategy-guide)
-- [BA LLB vs BBA LLB Comparison](/blog/5-year-llb-vs-3-year-llb-which-is-better)
+- [BA LLB vs BBA LLB Comparison](/blog)
 
 ---
 

@@ -87,7 +87,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ## Detailed Hub Analysis
 
 ### 1. Delhi NCR Hub (60–75 Percentile Options)
-* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/blog/all-about-ndim-delhi) and [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
+* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/blog/ndim-delhi-review-2026) and [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 * **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/all-about-fiib-delhi) and [All About JIMS Kalkaji](/blog/all-about-jims-kalkaji).
 
 ### 2. Pune Hub (50–70 Percentile Options)

@@ -126,7 +126,7 @@ Usually held in **March/April**. Registrations typically open in January/Februar
 ### Useful Links:
 - [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
 - [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [BCA Colleges in Pune 2026](/blog/top-bca-colleges-pune)
+- [BCA Colleges in Pune 2026](/blog/top-bca-colleges-pune-2026)
 
 ---
 

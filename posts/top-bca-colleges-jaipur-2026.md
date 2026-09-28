@@ -117,8 +117,8 @@ Usually in **June/July**, following the RBSE and CBSE board result declarations.
 
 ### Useful Links:
 - [Top B.Tech Colleges in Jaipur 2026](/blog/top-btech-colleges-jaipur-2026)
-- [BCA vs B.Tech — Career Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
-- [Top MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
+- [BCA vs B.Tech — Career Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [Top MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
 
 ---
 

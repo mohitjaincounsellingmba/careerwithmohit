@@ -117,7 +117,7 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Rankings](/colleges/mba-colleges-delhi-ncr)
 - [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026)
 - [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026)
 - [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2026)

@@ -118,8 +118,8 @@ CLAT is usually held on the **first Sunday of December** (e.g., Dec 2025 for the
 
 ### Useful Links:
 - [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
-- [BA LLB vs BBA LLB — Career & Salary Guide](/blog/5-year-llb-vs-3-year-llb-which-is-better)
-- [Top MBA Colleges in India 2026](/blog/top-mba-colleges-india-nirf-ranking-2026)
+- [BA LLB vs BBA LLB — Career & Salary Guide](/blog)
+- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 
 ---
 

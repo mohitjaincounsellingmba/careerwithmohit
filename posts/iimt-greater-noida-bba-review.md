@@ -55,7 +55,7 @@ category: BBA
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIMT Group of Colleges](/colleges/iimt-greater-noida), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.
+[IIMT Group of Colleges](/blog/iimt-greater-noida-bba-review), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.
 
 In this **IIMT Greater Noida BBA Review**, we break down the course structure, fee details, placements, and overall ROI to help you decide if IIMT is the right college for your undergraduate management journey.
 

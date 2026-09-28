@@ -110,7 +110,7 @@ Corporate Finance. Every company needs a finance team. Only a few top banks and 
 ### Useful Links:
 - [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026)
 - [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2026)
-- [Top MBA Colleges in India 2026](/blog/top-mba-colleges-india-2026)
+- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 
 ---
 

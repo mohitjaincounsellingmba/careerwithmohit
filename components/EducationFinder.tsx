@@ -592,16 +592,16 @@ export function EducationFinder() {
 
             <div className="flex flex-wrap items-center gap-2 text-xs">
               <span className="text-slate-400 font-bold">Exam Engines:</span>
-              <Link href="/mock-tests/cat-2026-free-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
-                🎯 CAT 2026 Mock
+              <Link href="/cat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+                🎯 CAT Mock
               </Link>
-              <Link href="/mock-tests/xat-2027-free-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
-                ⚡ XAT 2027 Mock
+              <Link href="/xat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+                ⚡ XAT Mock
               </Link>
-              <Link href="/mock-tests/nmat-2026-free-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
-                📈 NMAT Practice Test
+              <Link href="/nmat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+                📈 NMAT Practice
               </Link>
-              <Link href="/mock-tests/snap-2026-free-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+              <Link href="/snap-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
                 ⏱️ SNAP Speed Test
               </Link>
             </div>
@@ -640,11 +640,11 @@ export function EducationFinder() {
               <Link href="/tools/cat-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
                 🧮 CAT Score to %ile
               </Link>
-              <Link href="/tools/xat-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
-                🎯 XAT Call Predictor
+              <Link href="/tools/xat-score-calculator-2027" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
+                🎯 XAT Score Calculator
               </Link>
-              <Link href="/tools/nmat-scaled-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
-                📊 NMAT Scaled Score
+              <Link href="/tools/mat-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
+                📊 MAT Score Calculator
               </Link>
             </div>
           </div>

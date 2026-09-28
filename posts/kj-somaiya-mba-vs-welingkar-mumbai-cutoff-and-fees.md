@@ -96,9 +96,9 @@ The entrance exam cutoff benchmarks differ noticeably between the two campuses:
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[Welingkar Mumbai (PGDM)](/colleges/welingkar)** | ₹14.5 – 15.5 Lakhs | ₹12.2 – 12.6 LPA | **Higher ROI**: Affordable fees; CAT 75–80%ile, CMAT 85%ile, Profile GD-PI |
+| **[Welingkar Mumbai (PGDM)](/colleges/welingkar-bangalore)** | ₹14.5 – 15.5 Lakhs | ₹12.2 – 12.6 LPA | **Higher ROI**: Affordable fees; CAT 75–80%ile, CMAT 85%ile, Profile GD-PI |
 | **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai)** | ₹20.8 – 21.5 Lakhs | ₹12.5 – 13.0 LPA | **Established Brand**: 60-acre lush campus; CAT 84%ile, NMAT 225+, Case PI |
-| **[Welingkar Mumbai (MMS via CET)](/colleges/welingkar)** | ₹7.0 – 7.5 Lakhs | ₹12.2 – 12.6 LPA | **Exceptional ROI**: Maharashtra CAP quota; MAH CET 99.1+ %ile |
+| **[Welingkar Mumbai (MMS via CET)](/colleges/welingkar-bangalore)** | ₹7.0 – 7.5 Lakhs | ₹12.2 – 12.6 LPA | **Exceptional ROI**: Maharashtra CAP quota; MAH CET 99.1+ %ile |
 
 ---
 

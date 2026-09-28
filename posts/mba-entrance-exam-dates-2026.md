@@ -120,9 +120,9 @@ Preparing for an MBA? Knowing the exact dates of the major entrance exams is the
 ---
 
 ## Internal Links (SEO Boost)
-- Learn how to **[Create a Winning CAT Preparation Strategy (2026)](file:///Users/mohitjain/Desktop/my%20portfolio/careerwithmohit/posts/cat-2026-preparation-strategy-syllabus-dates.md)**.
-- Compare **[XAT vs CAT: Which Is Right for You?](file:///Users/mohitjain/Desktop/my%20portfolio/careerwithmohit/posts/xat-vs-cat-comparison.md)**.
-- Get tips for **[SNAP Exam Success (2026)](file:///Users/mohitjain/Desktop/my%20portfolio/careerwithmohit/posts/snap-2026-strategy.md)**.
+- Learn how to **[Create a Winning CAT Preparation Strategy (2026)](/blog/cat-2026-preparation-strategy-syllabus-dates)**.
+- Compare **[XAT vs CAT: Which Is Right for You?](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)**.
+- Get tips for **[SNAP Exam Success (2026)](/blog/1-year-online-mba-colleges-india-2026)**.
 
 ---
 

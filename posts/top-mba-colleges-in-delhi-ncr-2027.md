@@ -74,7 +74,7 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** (PGDM Core/HRM/IB) | Gurugram | ₹25.00 Lakhs | ₹27.60 LPA | CAT (95.0+ %ile) / GMAT |
 | **[Masters’ Union](/colleges/masters-union-gurgaon)** (PGP-TBM) | DLF Cyber City, GGN | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / MU-BAAT |
 | **[IIFT Delhi](/colleges/iift-delhi)** (MBA-IB) | South Delhi | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
-| **[IMT Ghaziabad](/colleges/jaipuria-ghaziabad)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
+| **[IMT Ghaziabad](/blog/all-about-jaipuria-ghaziabad)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
 | **[IIM Rohtak](/colleges/iim-rohtak)** (PGP) | Rohtak (NCR) | ₹20.00 Lakhs | ₹18.70 LPA | CAT (95.0+ %ile) |
 | **[IMI New Delhi](/colleges/imi-delhi)** (PGDM) | South Delhi | ₹23.50 Lakhs | ₹17.90 LPA | CAT / XAT (88.0+ %ile) |
 | **[FORE School of Management](/colleges/fore-school-delhi)** (PGDM) | South Delhi | ₹20.70 Lakhs | ₹16.40 LPA | CAT / XAT (85.0+ %ile) |
@@ -83,8 +83,8 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** (PGPM / PGDM) | Gurugram | ₹17.20 Lakhs | ₹15.80 LPA | CAT / XAT / CMAT / GMAT |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | Noida (Sec-62) | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
 | **[SOIL Institute of Management](/colleges/soil-gurgaon)** (1-Yr / 2-Yr) | Gurugram | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
-| **[Amity Business School](/colleges/amity-noida-review-2026)** (MBA) | Noida (Sec-125) | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / Amity Test / Direct |
-| **[JIMS Rohini](/colleges/all-about-jims-rohini)** (PGDM) | North-West Delhi | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
+| **[Amity Business School](/blog/amity-noida-review-2026)** (MBA) | Noida (Sec-125) | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / Amity Test / Direct |
+| **[JIMS Rohini](/blog/all-about-jims-rohini)** (PGDM) | North-West Delhi | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
 
 ---
 

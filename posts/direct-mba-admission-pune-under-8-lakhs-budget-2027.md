@@ -66,7 +66,7 @@ In this comprehensive 2027 guide, we detail the top MBA/PGDM colleges in Pune un
 
 > 🎓 **Need Personalized Guidance for Direct MBA Admission in Pune (2027 Batch)?**
 >
-> [👉 Connect with Expert Counsellor Mohit Jain for Direct Seat Matrix & Fee Discount](/direct-admission)
+> [👉 Connect with Expert Counsellor Mohit Jain for Direct Seat Matrix & Fee Discount](/blog/best-bba-colleges-jaipur-direct-admission-2026)
 
 ---
 
@@ -249,7 +249,7 @@ Getting a high-ROI MBA in Pune under an **₹8 Lakhs budget** is entirely achiev
 Have questions about seat availability, management quota fee structures, or campus selection?
 
 * 📞 **Direct Counselling Hotline:** Speak with Lead Education Advisor **Mohit Jain** for personalized b-school matching.
-* 📋 **[Fill out the Free Pune Admission Guidance Form](/direct-admission)** to get instant fee structures and placement brochures.
+* 📋 **[Fill out the Free Pune Admission Guidance Form](/blog/best-bba-colleges-jaipur-direct-admission-2026)** to get instant fee structures and placement brochures.
 
 ---
 

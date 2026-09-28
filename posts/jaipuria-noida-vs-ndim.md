@@ -90,7 +90,7 @@ Location plays a massive role in MBA networking. Being situated in Tughlakabad, 
 #### **3. Unmatched Industry Integration**
 NDIM is famously backed by a board of seasoned industry professionals and former bureaucrats. The curriculum is heavily case-based, ensuring students don't just learn theory but actually solve real-world problems. The result? Recruiters from Deloitte, BlackRock, PwC, and KPMG actively prefer NDIM graduates for core roles in Finance and Marketing.
 
-*(Read our full [NDIM Delhi Review](/blog/all-about-ndim-delhi))*
+*(Read our full [NDIM Delhi Review](/blog/ndim-delhi-review-2026))*
 
 ---
 

@@ -160,7 +160,7 @@ Here is your **action plan** after checking your Maharashtra MBA CET 2026 result
 ### ✅ If Your Score is Between 90–99 Percentile:
 - Target Tier-2 and Tier-3 Mumbai/Pune colleges through CAP.
 - Also apply to colleges via **CMAT, MAT, or ATMA scores** as backup.
-- Consider [Direct Admission in MBA Colleges in Pune](/blog/direct-mba-admission-pune-2026) or Mumbai.
+- Consider [Direct Admission in MBA Colleges in Pune](/blog/1-year-online-mba-colleges-india-2026) or Mumbai.
 
 ### ✅ If Your Score is Below 90 Percentile:
 - Don't panic. Use your CMAT, ATMA, or MAT score to apply to private colleges.

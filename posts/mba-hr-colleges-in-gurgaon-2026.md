@@ -58,7 +58,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | :--- | :--- | :--- | :--- |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
-| **[SOIL Institute of Management](/colleges/soil-institute-gurgaon)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
 | **JK Business School (JKBS)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹7.00 LPA** |
 
 ---
@@ -92,7 +92,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹11.60 LPA**
 - **Key Highlight:** Corporate-centric B-school with modern curriculum blending technology and human capital strategies.
 
-### 3. [SOIL Institute of Management](/colleges/soil-institute-gurgaon)
+### 3. [SOIL Institute of Management](/colleges/soil-gurgaon)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** STAT / CAT / MAT / CMAT
 - **Average Placement Package:** **₹10.30 LPA**

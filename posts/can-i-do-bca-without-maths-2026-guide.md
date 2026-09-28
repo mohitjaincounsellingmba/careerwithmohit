@@ -113,7 +113,7 @@ Yes, but you will need to take the **NIMCET** or other state exams, which typica
 ### Useful Links:
 - [Top BCA Colleges in Jaipur 2026](/blog/top-bca-colleges-jaipur-2026)
 - [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide)
 
 ---
 

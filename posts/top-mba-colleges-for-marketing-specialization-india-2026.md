@@ -119,8 +119,8 @@ In a Tier-2 college, expect ₹6L to ₹9L. In Tier-1 (IIM/MDI/XLRI), freshers s
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Delhi NCR 2026](/blog/top-mba-colleges-delhi-ncr-2026)
-- [Top MBA Colleges in Pune 2026 Guide](/blog/top-mba-colleges-pune)
+- [Top MBA Colleges in Delhi NCR 2026](/colleges/mba-colleges-delhi-ncr)
+- [Top MBA Colleges in Pune 2026 Guide](/colleges/mba-colleges-pune)
 - [How to Prepare for MICAT 2026](/blog/top-mba-entrance-exams-2026-guide)
 
 ---

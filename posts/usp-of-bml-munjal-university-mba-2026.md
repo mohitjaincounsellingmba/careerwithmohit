@@ -291,7 +291,7 @@ Planning your MBA journey requires matching your entrance percentiles, career am
 * 📞 **Direct WhatsApp / Call**: [+91 8851231268](https://wa.me/918851231268?text=Hi%20Mohit,%20I%20want%20to%20know%20about%20BML%20Munjal%20MBA%20Admission)
 * 📋 **Apply & Get Profile Review**: [Submit Free MBA Inquiry Form](/inquiry)
 * 📖 **Related Delhi-NCR College Guides**:
-  * [Top MBA/PGDM Colleges in Gurgaon (Fees, Cutoffs & Placements)](/blog/top-mba-colleges-gurgaon-2026)
+  * [Top MBA/PGDM Colleges in Gurgaon (Fees, Cutoffs & Placements)](/blog/1-year-online-mba-colleges-india-2026)
   * [USPs of SOIL Gurgaon PGDM 2026](/blog/usp-of-soil-gurgaon-pgdm-2026)
   * [USPs of JKBS Gurgaon PGDM 2026](/blog/usp-of-jkbs-gurgaon-pgdm-2026)
   * [MBA/PGDM Complete Admission Roadmap 2027–2029](/blog/mba-pgdm-admission-2027-2029-complete-guide)

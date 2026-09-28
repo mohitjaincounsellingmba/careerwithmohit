@@ -134,7 +134,7 @@ Tier-1 closes by December/January. State colleges through JEMAT continue their p
 
 ### Useful Links:
 - [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Top MBA Colleges in Delhi NCR 2026 Guide](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Guide](/colleges/mba-colleges-delhi-ncr)
 - [B.Tech Colleges in Kolkata 2026 Guide](/blog/top-btech-colleges-kolkata-2026)
 
 ---

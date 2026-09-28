@@ -116,7 +116,7 @@ Usually held in **March**. Registrations typically open in January/February.
 ### Useful Links:
 - [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
 - [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
-- [BCA Colleges in Chennai 2026](/blog/top-bca-colleges-chennai-2026)
+- [BCA Colleges in Chennai 2026](/blog/1-year-online-mba-colleges-india-2026)
 
 ---
 

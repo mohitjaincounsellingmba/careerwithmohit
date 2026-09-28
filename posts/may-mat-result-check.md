@@ -146,8 +146,8 @@ Different colleges have varying cutoffs and specializations. Here are some of th
 
 1. **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026):** Premium institute offering multiple PGDM specializations with robust placement records.
 2. **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management):** Popular for high ROI and nationwide corporate ties across its campuses.
-3. **[NDIM Delhi](/blog/all-about-ndim-delhi):** Excellent industry exposure located in the national capital.
-4. **[NIBM Pune](/blog/all-about-nibm-pune):** Specialised banking and finance program that acts as a premier sector gateway.
+3. **[NDIM Delhi](/blog/ndim-delhi-review-2026):** Excellent industry exposure located in the national capital.
+4. **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026):** Specialised banking and finance program that acts as a premier sector gateway.
 5. **[JIMS Rohini](/blog/all-about-jims-rohini):** Value-for-money option offering stellar corporate mentoring.
 
 For a full breakdown of regional cutoffs, explore **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**.

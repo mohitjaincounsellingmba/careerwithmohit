@@ -65,15 +65,15 @@ In this 2027 guide, senior admission consultant **Mohit Jain** evaluates the pre
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta](/colleges/iim-colleges-placements-fees-selection-2026)** (MBA) | Diamond Harbour Rd, Joka | ₹27.00 Lakhs | ₹34.80 LPA | CAT (99.4+ %ile) |
-| **[VGSoM IIT Kharagpur](/colleges/all-about-iit-colleges-review)** (MBA) | Kharagpur (Kolkata Region) | ₹12.50 Lakhs | ₹22.13 LPA | CAT (95.0+ %ile) |
+| **[IIM Calcutta](/blog/all-about-iim-colleges-placements-fees-selection-2026)** (MBA) | Diamond Harbour Rd, Joka | ₹27.00 Lakhs | ₹34.80 LPA | CAT (99.4+ %ile) |
+| **[VGSoM IIT Kharagpur](/blog/all-about-iit-colleges-review)** (MBA) | Kharagpur (Kolkata Region) | ₹12.50 Lakhs | ₹22.13 LPA | CAT (95.0+ %ile) |
 | **[IIFT Kolkata Campus](/colleges/iift-delhi)** (MBA-IB) | Madurdaha, Chowbaga Rd | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
-| **[IMI Kolkata](/colleges/all-about-imi-kolkata)** (PGDM Core) | Judges Court Rd, Alipore | ₹14.50 Lakhs | ₹10.60 LPA | CAT / XAT / CMAT / GMAT (70+ %ile) |
-| **[IISWBM Kolkata](/colleges/all-about-indian-institute-of-social-welfare-and-business-management)** (MBA Day/Evening) | College Square, Kolkata | ₹6.50 Lakhs | ₹7.80 LPA | CAT (70+ %ile) / MAT (80+ %ile) |
-| **[Praxis Business School](/colleges/all-about-praxis-kolkata)** (PGDM / Data Science) | Bakrahat Road, Kolkata | ₹10.50 Lakhs | ₹9.50 LPA | CAT / XAT / CMAT / MAT / GMAT |
-| **[Globsyn Business School (GBS)](/colleges/all-about-globsyn-kolkata)** (PGDM Core/BA) | Amtala, Kolkata | ₹8.90 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT / JEMAT |
-| **[BIBS Kolkata (Bengal Institute)](/colleges/all-about-bibs-kolkata)** (MBA) | Lake View Road | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CAT / CMAT / Direct |
-| **[IEM Kolkata (Inst. of Engg. & Mgmt)](/colleges/all-about-iem-kolkata)** | Salt Lake Sector V | ₹6.20 Lakhs | ₹6.50 LPA | CAT / MAT / JEMAT / Direct |
+| **[IMI Kolkata](/blog/all-about-imi-kolkata)** (PGDM Core) | Judges Court Rd, Alipore | ₹14.50 Lakhs | ₹10.60 LPA | CAT / XAT / CMAT / GMAT (70+ %ile) |
+| **[IISWBM Kolkata](/blog/all-about-indian-institute-of-social-welfare-and-business-management)** (MBA Day/Evening) | College Square, Kolkata | ₹6.50 Lakhs | ₹7.80 LPA | CAT (70+ %ile) / MAT (80+ %ile) |
+| **[Praxis Business School](/blog/all-about-praxis-kolkata)** (PGDM / Data Science) | Bakrahat Road, Kolkata | ₹10.50 Lakhs | ₹9.50 LPA | CAT / XAT / CMAT / MAT / GMAT |
+| **[Globsyn Business School (GBS)](/blog/all-about-globsyn-kolkata)** (PGDM Core/BA) | Amtala, Kolkata | ₹8.90 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT / JEMAT |
+| **[BIBS Kolkata (Bengal Institute)](/blog/all-about-bibs-kolkata)** (MBA) | Lake View Road | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CAT / CMAT / Direct |
+| **[IEM Kolkata (Inst. of Engg. & Mgmt)](/blog/all-about-iem-kolkata)** | Salt Lake Sector V | ₹6.20 Lakhs | ₹6.50 LPA | CAT / MAT / JEMAT / Direct |
 
 ---
 

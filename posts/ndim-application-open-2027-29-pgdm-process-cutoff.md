@@ -304,7 +304,7 @@ NDIM maintains an enviable **100% placement track record** with marquee corporat
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalence · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni |
 | **[Jaipuria Institute of Management (Noida)](/colleges/jaipuria-noida)** | ₹14.75 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · NAAC A+ |
 | **[FIIB South Delhi](/colleges/fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
 | **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji)** | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · NBA Accredited, AIU Equivalence |

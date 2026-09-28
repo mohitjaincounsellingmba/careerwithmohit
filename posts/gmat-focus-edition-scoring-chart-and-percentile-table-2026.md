@@ -126,7 +126,7 @@ One of the most praised innovations in the GMAT Focus Edition is the **Question 
 
 | Business School & Program | Target GMAT Focus Score | Equivalent Legacy Score | Key Program Strengths |
 | :--- | :--- | :--- | :--- |
-| **[ISB Hyderabad / Mohali (PGP)](/colleges/isb-hyderabad)** | **655 – 685+** | 710 – 740 | Premier Global Consulting & Product Management hub |
+| **[ISB Hyderabad / Mohali (PGP)](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility)** | **655 – 685+** | 710 – 740 | Premier Global Consulting & Product Management hub |
 | **[IIM Ahmedabad (PGPX)](/colleges/iim-ahmedabad)** | **645 – 675+** | 700 – 730 | Senior Leadership, VP/Director corporate transitions |
 | **[IIM Bangalore (EPGP)](/colleges/iim-bangalore)** | **655 – 685+** | 710 – 740 | Tech, Strategy, and Digital Transformation leadership |
 | **[SPJIMR Mumbai (PGPM / Global)](/colleges/spjimr-mumbai)** | **645 – 665+** | 700 – 720 | Values-based leadership and high marketing/supply chain ROI |

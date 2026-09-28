@@ -204,7 +204,7 @@ The tuition fee ranges from ₹2.5 Lakhs to ₹6.0 Lakhs for online/distance pro
 ## 🔗 Related Resources & Further Reading
 - [AIU Approved PGDM Colleges in India 2026: Equivalence, Rankings & Fees](/blog/aiu-approved-pgdm-colleges-india-2026)
 - [Direct MBA Admission Without Entrance Exam 2026 — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [Top MBA Colleges in Pune 2026 Guide](/blog/top-mba-colleges-pune)
+- [Top MBA Colleges in Pune 2026 Guide](/colleges/mba-colleges-pune)
 
 ---
 

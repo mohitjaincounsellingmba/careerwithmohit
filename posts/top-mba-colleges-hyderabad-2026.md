@@ -124,7 +124,7 @@ The Telangana Integrated Common Entrance Test (TS ICET) usually happens in May. 
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Delhi NCR 2026](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026](/colleges/mba-colleges-delhi-ncr)
 - [Top BBA Colleges in Hyderabad 2026](/blog/top-bba-colleges-hyderabad-2026)
 - [MBA Colleges Under 10 Lakhs India Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
 

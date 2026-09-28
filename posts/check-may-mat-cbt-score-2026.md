@@ -196,9 +196,9 @@ All colleges accepting MAT accept your CBT score equally. Apply to these as soon
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** — Composite 500+ preferred
 - **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/all-about-jaipuria-institute-of-management)** — MAT-friendly process
-- **[NDIM New Delhi](/blog/all-about-ndim-delhi)** — Direct PGDM with MAT
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2026)** — Direct PGDM with MAT
 - **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** — AICTE-approved PGDM
-- **[NIBM Pune](/blog/all-about-nibm-pune)** — Banking & Finance MBA
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** — Banking & Finance MBA
 - **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** — Top Delhi PGDM with MAT
 - **[Great Lakes Gurgaon](/blog/direct-admission-great-lakes-gurgaon-2026)** — Requires strong MAT score
 

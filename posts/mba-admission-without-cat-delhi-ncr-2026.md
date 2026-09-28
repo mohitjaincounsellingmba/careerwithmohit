@@ -68,7 +68,7 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 - **Difficulty:** Comparable to CAT, testing quantitative ability, decision making, and language skills.
 
 ### 2. NMAT by GMAC
-- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-institute-gurgaon), and [Bennett University](/colleges/bennett-greater-noida).
+- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-gurgaon), and [Bennett University](/colleges/bennett-greater-noida).
 - **USP:** Speed-based adaptive test allowing up to three attempts.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
@@ -90,7 +90,7 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 | **[FORE School of Management](/colleges/fore-school-delhi)** | XAT / GMAT | ₹17.5 Lakhs | ₹14.50 LPA |
 | **[LBSIM Delhi](/colleges/lbsim-delhi)** | XAT / GMAT | ₹14.5 Lakhs | ₹12.42 LPA |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | XAT / CMAT / MAT / GMAT | ₹16.0 Lakhs | ₹11.20 LPA |
-| **[SOIL Gurgaon](/colleges/soil-institute-gurgaon)** | NMAT / GMAT / MAT / CMAT | ₹15.5 Lakhs | ₹10.50 LPA |
+| **[SOIL Gurgaon](/colleges/soil-gurgaon)** | NMAT / GMAT / MAT / CMAT | ₹15.5 Lakhs | ₹10.50 LPA |
 | **[NDIM Delhi](/colleges/ndim-delhi)** | XAT / CMAT / MAT / GMAT | ₹11.5 Lakhs | ₹8.20 LPA |
 
 ---
@@ -114,7 +114,7 @@ For students looking for merit-based direct admissions without preparing for com
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Rankings](/colleges/mba-colleges-delhi-ncr)
 - [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)
 - [Direct MBA Admission in Delhi NCR: Guide](/blog/direct-mba-admission-delhi-ncr-2026)
 - [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026)

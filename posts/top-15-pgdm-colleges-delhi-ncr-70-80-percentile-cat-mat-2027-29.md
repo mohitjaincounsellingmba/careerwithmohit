@@ -101,7 +101,7 @@ state: Delhi NCR
 
 # Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT (2027-29)
 
-Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi) or [IIT Delhi DMS](/colleges/iit-colleges-review) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
+Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi) or [IIT Delhi DMS](/blog/all-about-iiit-colleges-review) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
 
 These institutions provide state-of-the-art infrastructure, dual-specialization flexibility (such as FinTech, AI & Business Analytics, Digital Marketing, and Supply Chain Logistics), and direct access to over 250 Fortune 500 corporate headquarters across Cyber City, Noida Expressway, and South Delhi. With average placement packages spanning **₹6.50 LPA to ₹12.30 LPA**, they offer exceptional **Return on Investment (ROI)** for pragmatic management candidates.
 

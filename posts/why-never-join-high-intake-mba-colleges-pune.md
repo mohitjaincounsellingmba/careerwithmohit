@@ -101,7 +101,7 @@ As I explained in our [Pool Placement Warning Guide](/blog/why-never-join-pool-p
 
 ### **What Should You Do?**
 
-If you don't have a 95+ percentile to get into [Top MBA Colleges in Pune](/blog/top-mba-colleges-pune) like SIBM or PUMBA (which have disciplined intakes), look for:
+If you don't have a 95+ percentile to get into [Top MBA Colleges in Pune](/colleges/mba-colleges-pune) like SIBM or PUMBA (which have disciplined intakes), look for:
 
 1.  **Niche B-Schools:** Colleges that maintain a strict intake of 120–180 students.
 2.  **Specialization-Specific ROI:** Look for colleges where the intake for *your* specialization (like Finance or Business Analytics) is small.

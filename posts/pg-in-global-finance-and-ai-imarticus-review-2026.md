@@ -218,7 +218,7 @@ Looking to explore more about postgraduate finance programs, management entrance
 *   **[All About CAT Exam 2026: Pattern, Syllabus & Top Cut-offs](/blog/all-about-cat-exam)**
 *   **[All About GMAT Exam 2026: Colleges, Cut-offs & Preparation Guide](/blog/all-about-gmat-exam-colleges-cutoffs)**
 *   **[Top MBA Fintech & Finance Colleges in India 2026](/blog/mba-fintech-colleges-in-jaipur-2026)**
-*   **[All IIM Cut-offs 2027–29 Batch: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
+*   **[All IIM Cut-offs 2027–29 Batch: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
 
 ---
 

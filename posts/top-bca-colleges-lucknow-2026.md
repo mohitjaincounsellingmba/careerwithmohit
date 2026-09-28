@@ -122,7 +122,7 @@ Registrations usually start in **April/May**. The entrance test (LUVET) is typic
 ### Useful Links:
 - [Top B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
 - [BBA Colleges in Lucknow 2026](/blog/top-bba-colleges-lucknow-2026)
-- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
+- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 
 ---
 

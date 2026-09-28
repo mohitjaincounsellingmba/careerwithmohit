@@ -119,7 +119,7 @@ Most exams (IPMAT, NPAT, SET) are held in **May/June 2026**.
 
 ### Useful Links:
 - [IPMAT 2026 — Preparation Guide & Strategy](/blog/ipmat-2026-preparation-guide-colleges)
-- [Top MBA Colleges in India 2026](/blog/top-mba-colleges-india-2026)
+- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 - [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
 
 ---

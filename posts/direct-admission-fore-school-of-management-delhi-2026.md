@@ -104,7 +104,7 @@ Yes, FORE has a balanced mix of freshers and students with professional work exp
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [MBA PGDM Admission Timelines 2027–29](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
+- [MBA PGDM Admission Timelines 2027–29](/blog/acca-benefits-with-mba-career-guide-2026)
 - [Direct MBA Admission India 2026 FAQs](/blog/direct-mba-admission-india)
 
 [👉 Want to be a part of FORE Delhi's 2026 batch? Chat with our experts for admission tips!](/inquiry)

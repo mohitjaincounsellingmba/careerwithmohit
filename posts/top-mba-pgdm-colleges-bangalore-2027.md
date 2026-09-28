@@ -43,7 +43,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
 
 ### 🚀 Premier Bangalore B-Schools (2027)
 
-#### 1. [ISBR Business School (Bangalore)](/blog/isbr-bangalore)
+#### 1. [ISBR Business School (Bangalore)](/colleges/isbr-bangalore)
 - **Accreditation:** AICTE Approved · NBA Accredited
 - **Fee:** ₹11.00 Lakhs (Total)
 - **USP:** [ISBR Business School](/colleges/isbr-bangalore) is located in the primary technology zone of Electronic City, Bangalore. ISBR offers PGDM and university MBA programs co-designed with global business bodies, showcasing strong placement ratios and global study exchanges.
@@ -53,7 +53,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * NBA Accredited flagship PGDM program
   * Strong corporate networking opportunities
 
-#### 2. [International Institute of Business Studies (IIBS)](/blog/iibs-bangalore)
+#### 2. [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)
 - **Accreditation:** AICTE Approved · Bangalore University Affiliated
 - **Fee:** ₹5.25L - ₹8.95L (Total)
 - **USP:** IIBS Bangalore is an established management institute located near the Bangalore International Airport zone. Supplying affordable MBA and premium PGDM programs, IIBS features modern smart classrooms and extensive corporate placements.
@@ -63,7 +63,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Intensive live projects and industry attachments
   * Dedicated student tutoring and grooming cell
 
-#### 3. [GIBS Business School](/blog/gibs-bangalore)
+#### 3. [GIBS Business School](/colleges/gibs-bangalore)
 - **Accreditation:** AICTE Approved · Global Innovation B-School
 - **Fee:** ₹11.25 Lakhs (Total)
 - **USP:** [GIBS Business School](/colleges/gibs-bangalore) (Global Institute of Business Studies) is highly regarded for its action-oriented, practical curriculum. Located on Bannerghatta Road, GIBS features dynamic corporate mentoring, entrepreneurship support, and dual specializations.
@@ -73,7 +73,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Frequent speaker series and industrial panels
   * 100% placement support in tier-1 MNCs
 
-#### 4. [Alliance University (Alliance School of Business)](/blog/alliance-university-bangalore)
+#### 4. [Alliance University (Alliance School of Business)](/colleges/alliance-university-bangalore)
 - **Accreditation:** UGC Approved · AACSB Member
 - **Fee:** ₹15.00L - ₹18.00L (Total)
 - **USP:** Alliance School of Business is one of South India's premier private management brands. Supplying an elite MBA program with a massive residential green campus, global university links, and AACSB membership, it is a top corporate recruitment hub.
@@ -83,7 +83,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Elite placement packages in global consultancies & banks
   * Mentorship and leadership tracks co-designed with corporate veterans
 
-#### 5. [ISME Bangalore (School of Management Excellence)](/blog/isme-bangalore)
+#### 5. [ISME Bangalore (School of Management Excellence)](/colleges/isme-bangalore)
 - **Accreditation:** AICTE Approved · Global Academic Collaborations
 - **Fee:** ₹9.90L - ₹10.95L (Total)
 - **USP:** [ISME Bangalore](/colleges/isme-bangalore) is highly recognized for its global academic standards. Supplying autonomous PGDM courses in its Sarjapur campus, it features collaborations with London School of Economics (LSE) modules and Canadian universities.
@@ -93,7 +93,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Excellent placements in tech consulting & analytics firms
   * Strong domain specialization options
 
-#### 6. [Indus Business Academy (IBA Bangalore)](/blog/indus-business-academy)
+#### 6. [Indus Business Academy (IBA Bangalore)](/colleges/indus-business-academy)
 - **Accreditation:** AICTE Approved · IACBE (USA) Accredited B-School
 - **Fee:** ₹10.25 Lakhs (Total)
 - **USP:** [Indus Business Academy (IBA)](/colleges/iba-bangalore) Kanakapura Road is a premium management institution carrying international IACBE (USA) accreditation. IBA features a large residential green campus and stellar placement pathways.
@@ -120,12 +120,12 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
 
 | College Name | Fee Range | Key Badge | Location |
 | :--- | :--- | :--- | :--- |
-| **[ISBR Business School (Bangalore)](/blog/isbr-bangalore)** | ₹11.00 Lakhs (Total) | Electronic City Hub | Electronic City, Bangalore |
-| **[International Institute of Business Studies (IIBS)](/blog/iibs-bangalore)** | ₹5.25L - ₹8.95L (Total) | High ROI B-School | Airport Road, Bangalore |
-| **[GIBS Business School](/blog/gibs-bangalore)** | ₹11.25 Lakhs (Total) | Bannerghatta Campus | Bannerghatta Road, Bangalore |
-| **[Alliance University (Alliance School of Business)](/blog/alliance-university-bangalore)** | ₹15.00L - ₹18.00L (Total) | Elite Private University | Anekal Campus, Bangalore |
-| **[ISME Bangalore (School of Management Excellence)](/blog/isme-bangalore)** | ₹9.90L - ₹10.95L (Total) | Global Academic Tie-Ups | Sarjapur Road, Bangalore |
-| **[Indus Business Academy (IBA Bangalore)](/blog/indus-business-academy)** | ₹10.25 Lakhs (Total) | IACBE USA Accredited | Kanakapura Road, Bangalore |
+| **[ISBR Business School (Bangalore)](/colleges/isbr-bangalore)** | ₹11.00 Lakhs (Total) | Electronic City Hub | Electronic City, Bangalore |
+| **[International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore)** | ₹5.25L - ₹8.95L (Total) | High ROI B-School | Airport Road, Bangalore |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | ₹11.25 Lakhs (Total) | Bannerghatta Campus | Bannerghatta Road, Bangalore |
+| **[Alliance University (Alliance School of Business)](/colleges/alliance-university-bangalore)** | ₹15.00L - ₹18.00L (Total) | Elite Private University | Anekal Campus, Bangalore |
+| **[ISME Bangalore (School of Management Excellence)](/colleges/isme-bangalore)** | ₹9.90L - ₹10.95L (Total) | Global Academic Tie-Ups | Sarjapur Road, Bangalore |
+| **[Indus Business Academy (IBA Bangalore)](/colleges/indus-business-academy)** | ₹10.25 Lakhs (Total) | IACBE USA Accredited | Kanakapura Road, Bangalore |
 | **[JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-bangalore)** | ₹17.50 Lakhs (Total) | AACSB Accredited (Top 5%) | Electronic City, Bangalore |
 
 ---

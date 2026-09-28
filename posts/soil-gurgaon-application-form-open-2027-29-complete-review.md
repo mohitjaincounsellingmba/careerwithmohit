@@ -71,7 +71,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
 
-The **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has officially released its application forms for the **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
+The **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has officially released its application forms for the **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
 
 Situated in India's corporate capital—**Gurgaon (Delhi-NCR)**—SOIL has carved a distinctive identity among modern B-schools. Co-created by a consortium of **32 multinational corporations**, SOIL combines cutting-edge **Design Thinking**, **Mindful Leadership**, and **Business Analytics** with deep corporate immersion.
 
@@ -83,7 +83,7 @@ If you are aiming for management admissions in Delhi-NCR for the upcoming batch,
 
 | Parameter | Details & Key Metrics |
 | :--- | :--- |
-| **Institute Name** | **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (School of Inspired Leadership)** |
+| **Institute Name** | **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership)** |
 | **Campuses** | Sushant Lok (Gurgaon) & Manesar Campus |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Programs** | **PGDM (2-Year Full-Time)**, **PGPM (1-Year)**, **PGPM-HR (1-Year)** |

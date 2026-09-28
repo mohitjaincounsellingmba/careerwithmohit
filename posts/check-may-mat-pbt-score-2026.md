@@ -185,9 +185,9 @@ Once you have your scorecard, immediately begin applying to relevant colleges:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** – 500+ composite preferred
 - **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** – MAT-friendly admission process
-- **[NDIM New Delhi](/blog/all-about-ndim-delhi)** – Direct PGDM admissions with MAT
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2026)** – Direct PGDM admissions with MAT
 - **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** – Top Delhi PGDM institute accepting MAT
-- **[NIBM Pune](/blog/all-about-nibm-pune)** – Banking & Finance MBA accepting MAT
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** – Banking & Finance MBA accepting MAT
 - **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** – AICTE-approved PGDM with MAT intake
 
 👉 Read full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**

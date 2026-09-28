@@ -156,7 +156,7 @@ A "good score" in CAT depends entirely on your academic profile, category (Gener
 *   **Profile Fit:** Essential for General Engineering Male (GEM) candidates to stand a strong chance of receiving PI interview calls.
 
 ### 2. Upper Tier (90 to 97 Percentile | 46–68 Marks)
-*   **Institutions:** New IIMs ([IIM Udaipur](/colleges/iim-udaipur), Ranchi, Raipur, Trichy, Kashipur), Baby IIMs ([IIM Nagpur](/colleges/iim-nagpur), Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur), IIT Roorkee, IIT Kanpur, DSE Delhi, DFS Delhi, IMT Ghaziabad (flagship), [FORE School of Management](/colleges/fore-school-delhi), [Goa Institute of Management (GIM)](/colleges/goa-institute-of-management).
+*   **Institutions:** New IIMs ([IIM Udaipur](/colleges/iim-udaipur), Ranchi, Raipur, Trichy, Kashipur), Baby IIMs ([IIM Nagpur](/colleges/iim-nagpur), Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur), IIT Roorkee, IIT Kanpur, DSE Delhi, DFS Delhi, IMT Ghaziabad (flagship), [FORE School of Management](/colleges/fore-school-delhi), [Goa Institute of Management (GIM)](/colleges).
 
 ### 3. Mid Tier (75 to 89 Percentile | 28–45 Marks)
 *   **Institutions:** [BIMTECH Greater Noida](/colleges/bimtech-greater-noida), [LBSIM Delhi](/colleges/lbsim-delhi), TAPMI Manipal, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon), [XIME Bangalore](/colleges/xime-bangalore), [SOIL Institute of Management](/colleges/soil-gurgaon), [Jaipuria Institute of Management](/colleges/jaipuria-noida).

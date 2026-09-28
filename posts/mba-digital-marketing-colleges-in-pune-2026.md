@@ -56,7 +56,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | **[SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune)** | SNAP | ₹23.7 Lakhs (Total) | **₹23.71 LPA** |
 | **[PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
 | **[PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
-| **[Indira School of Business Studies (ISBS)](/colleges/isbs-pune)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
+| **[Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -101,7 +101,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹7.50 LPA**
 - **Key Highlight:** Features highly practical corporate training in SEO, PPC, social media ads, and digital analytics.
 
-### 5. [Indira School of Business Studies (ISBS)](/colleges/isbs-pune)
+### 5. [Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)
 - **Approximate Fees:** ₹7.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CMAT / CAT
 - **Average Placement Package:** **₹6.80 LPA**

@@ -120,7 +120,7 @@ Return on Investment (ROI) is calculated by comparing the total 2-year tuition f
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2026 Rankings](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026 Rankings](/colleges/mba-colleges-delhi-ncr)
 - [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2026)
 - [Best MBA Colleges with Placement in Delhi NCR](/blog/best-mba-colleges-placement-delhi-ncr-2026)
 - [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2026)

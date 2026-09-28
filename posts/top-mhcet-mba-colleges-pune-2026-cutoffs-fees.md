@@ -109,8 +109,8 @@ Even with a moderate CET score, you can get into reputable private B-schools tha
 
 ---
 
-[👉 Get the Complete Guide to MAH MBA CET Scholarship 2026](/mah-mba-cet-scholarship-2026-eligibility-application-process)
-[👉 View Top MBA Colleges in Mumbai accepting CET](/best-mba-colleges-in-mumbai-2026)
+[👉 Get the Complete Guide to MAH MBA CET Scholarship 2026](/tools/mhcet-mock-test)
+[👉 View Top MBA Colleges in Mumbai accepting CET](/blog/best-mba-colleges-in-mumbai-2026)
 
 **Confused about your percentile vs college chances? Book a free 1-on-1 counseling session with Mohit Jain today!**
 

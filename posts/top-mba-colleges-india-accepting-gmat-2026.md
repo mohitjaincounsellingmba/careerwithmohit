@@ -119,7 +119,7 @@ If you are looking for an accelerated career path, these colleges are excellent 
 
 1.  **Great Lakes Institute of Management (Chennai & Gurgaon):** Their PGPM program is highly rated for candidates with 2-8 years of experience.
 2.  **Masters' Union (Gurgaon):** A new-age business school focusing on technology and leadership, accepting GMAT for its PGP TBM.
-3.  **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (Gurgaon):** Focuses on leadership and social responsibility.
+3.  **[SOIL Institute of Management](/colleges/soil-gurgaon) (Gurgaon):** Focuses on leadership and social responsibility.
 
 ---
 

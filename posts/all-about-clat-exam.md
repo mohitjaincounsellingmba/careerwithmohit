@@ -108,7 +108,7 @@ Based on NIRF rankings and placement records, here are the top NLUs you should a
 ---
 
 ## 🔗 Related Resources
-- [Top Law Colleges in Delhi NCR 2026](/blog/top-law-colleges-delhi-ncr)
+- [Top Law Colleges in Delhi NCR 2026](/blog)
 - [Admission Guide for 2026 Admissions](/blog/career-roadmaps-2026)
 - [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 

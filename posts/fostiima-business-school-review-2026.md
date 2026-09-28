@@ -64,7 +64,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [FOSTIIMA Business School Delhi Review 2027–2029](/colleges/fostiima-business-school): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+# [FOSTIIMA Business School Delhi Review 2027–2029](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and early profile-evaluation rounds for an approved intake of 360–420 seats.
@@ -228,7 +228,7 @@ The defining characteristic that sets FOSTIIMA apart from standard private busin
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | **₹11.50 Lakhs** | **₹11.15 LPA** | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | **₹11.50 Lakhs** | **₹11.15 LPA** | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
 | **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
 | **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |

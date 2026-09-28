@@ -126,8 +126,8 @@ Different B-schools have varied cutoff scores. Here is a curated list of excelle
 
 1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026):** Known for its rich PGDM culture and strong placements.
 2.  **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management):** Excellent multi-campus network with customized career tracks.
-3.  **[NDIM New Delhi](/blog/all-about-ndim-delhi):** Located in the heart of Delhi, offering high corporate exposure.
-4.  **[NIBM Pune](/blog/all-about-nibm-pune):** The absolute gold standard for careers in banking, financial services, and insurance.
+3.  **[NDIM New Delhi](/blog/ndim-delhi-review-2026):** Located in the heart of Delhi, offering high corporate exposure.
+4.  **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026):** The absolute gold standard for careers in banking, financial services, and insurance.
 5.  **[JIMS Rohini](/blog/all-about-jims-rohini):** Extremely cost-effective PGDM program with consistent ROI.
 
 👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**

@@ -86,8 +86,8 @@ Both examinations lead to prestigious colleges. Below is the side-by-side ROI an
 | **[SIBM Pune (SNAP)](/colleges/sibm-pune)** | ₹24.5 Lakhs | **₹28.16 LPA** | 98.5+ %ile (~42–44 / 60 marks) |
 | **[SCMHRD Pune (SNAP)](/colleges/scmhrd-pune)** | ₹23.8 Lakhs | **₹23.71 LPA** | 97.0+ %ile (~40–42 / 60 marks) |
 | **[NMIMS Mumbai (NMAT)](/colleges/nmims-mumbai)** | ₹26.5 Lakhs | **₹26.63 LPA** | 235 – 245+ Scaled Score |
-| **[SIIB Pune (SNAP)](/colleges/siib-pune)** | ₹19.5 Lakhs | **₹15.20 LPA** | 93.0+ %ile (~36–38 / 60 marks) |
-| **[TAPMI Manipal (NMAT)](/colleges/tapmi)** | ₹18.5 Lakhs | **₹14.80 LPA** | 220 – 225+ Scaled Score |
+| **[SIIB Pune (SNAP)](/blog/siib-pune-mba-review-2027-fees-placements-cutoff)** | ₹19.5 Lakhs | **₹15.20 LPA** | 93.0+ %ile (~36–38 / 60 marks) |
+| **[TAPMI Manipal (NMAT)](/colleges/tapmi-bangalore)** | ₹18.5 Lakhs | **₹14.80 LPA** | 220 – 225+ Scaled Score |
 | **[K J Somaiya, Mumbai (NMAT)](/colleges/kj-somaiya-mumbai)** | ₹21.5 Lakhs | **₹12.80 LPA** | 222 – 225+ Scaled Score |
 | **[SIBM Bangalore (SNAP)](/colleges/sibm-bangalore)** | ₹19.8 Lakhs | **₹14.40 LPA** | 90.0+ %ile (~34–36 / 60 marks) |
 

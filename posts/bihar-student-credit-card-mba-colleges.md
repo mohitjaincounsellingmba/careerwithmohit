@@ -94,7 +94,7 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 
 ### 🌿 Pune & Mumbai (The Finance/IT Hub)
 - **[ITM Navi Mumbai](/colleges/itm-mumbai)** — Specialised in Fintech and Digital Marketing.
-- **[ISBM Pune](/colleges/isbm-pune)** — Good and affordable choice for DRCC students.
+- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2026)** — Good and affordable choice for DRCC students.
 - **ASM's IBMR** — Chinchwad, Pune.
 - **Indira Group (ISBS/IIMP)** — Pune's favorite for centralized placements.
 
@@ -139,7 +139,7 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 ---
 
-[**Get Your DRCC College List & Free Counselling**](/inquiry) | [**Book a Session with Mohit Jain**](/whatsapp)
+[**Get Your DRCC College List & Free Counselling**](/inquiry) | [**Book a Session with Mohit Jain**](/blog/join-mba-student-community-whatsapp-telegram-groups-2027)
 
 <script type="application/ld+json">
 {

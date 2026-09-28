@@ -122,7 +122,7 @@ Usually starts late **June/July** after the NEET results.
 ### Useful Links:
 - [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
 - [B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
-- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026)
+- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026-process-fees)
 
 ---
 

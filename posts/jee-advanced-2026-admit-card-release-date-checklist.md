@@ -79,7 +79,7 @@ With the exam just around the corner, avoid starting any new topics. Focus on:
 - **Mock Tests:** Take at least 2 full-length mocks in the actual exam timings (9-12 and 2:30-5:30) to build stamina.
 - **Error Analysis:** Review your previous mock test errors to avoid repeating them on the final day.
 - **[How to Crack JEE Advanced 2026: Expert Tips](/blog/how-to-crack-jee-advanced-2026)**
-- **[Top Engineering Colleges in India 2026](/blog/top-engineering-colleges-india-2026)**
+- **[Top Engineering Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)**
 
 ## 5. What After JEE Advanced?
 After the exam, the focus will shift to **JoSAA Counselling** for admissions into the 23 IITs across India. Keep your rank in mind and start researching the best branches for your career goals.

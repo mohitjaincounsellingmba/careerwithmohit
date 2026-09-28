@@ -126,8 +126,8 @@ Admissions usually start in **May/June** after the 12th Board results are declar
 
 ### Useful Links:
 - [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
-- [BCA vs B.Tech CSE — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career)
+- [MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
+- [BCA vs B.Tech CSE — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 
 ---
 

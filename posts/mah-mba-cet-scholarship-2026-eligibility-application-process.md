@@ -126,7 +126,7 @@ Usually, the scholarship is discontinued if you fail. However, if you are promot
 
 ---
 
-[👉 Check out the Top MBA Colleges in Mumbai & Pune accepting CET scores](/mah-mba-cet-colleges-mumbai-pune)
+[👉 Check out the Top MBA Colleges in Mumbai & Pune accepting CET scores](/blog/mah-mba-cet-colleges-mumbai-pune)
 [👉 Get help with your Maharashtra Scholarship Documentation](/inquiry)
 
 **Need more clarity on your eligibility? Leave a comment below or book a consultation call!**

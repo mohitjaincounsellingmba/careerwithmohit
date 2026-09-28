@@ -69,7 +69,7 @@ There are approximately 150 seats available for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
 - [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [Top 10 BBA Colleges in India 2026](/blog/top-10-bba-colleges-india-2026)
+- [Top 10 BBA Colleges in India 2026](/blog/top-bba-colleges-delhi-ncr-2026)
 - [IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)
 
 ---

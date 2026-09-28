@@ -119,7 +119,7 @@ The starting salary for a full Charterholder (Level 3 + Experience) in India ran
 ### Useful Links:
 - [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026)
 - [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2026)
-- [Top MBA Colleges in India 2026](/blog/top-mba-colleges-india-2026)
+- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 
 ---
 

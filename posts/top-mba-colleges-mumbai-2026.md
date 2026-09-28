@@ -131,7 +131,7 @@ Most Mumbai B-schools have limited hostels. Use areas like Kurla, Santacruz, or 
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
+- [Top MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
 - [How to Crack MAH MBA CET 2026](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
 - [Unive Under 10 Lakhs MBA Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
 

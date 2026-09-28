@@ -126,11 +126,11 @@ While both institutions check the boxes for a solid management education under 1
 * It offers a **better ROI** (lower fees + higher average placements).
 * You get the unbeatable **South Delhi location advantage**, keeping you closer to corporate hubs.
 * The curriculum provides a stronger, more modern **global corporate outlook**, which aligns perfectly with what top MNC recruiters seek today.
-* 👉 [Read our full, detailed review of FIIB Delhi here](/all-about-fiib)
+* 👉 [Read our full, detailed review of FIIB Delhi here](/blog/all-about-abbs-school-of-management)
 
 **Choose JIMS Rohini only if:**
 * Location in North Delhi is a strict personal preference or constraint for you.
-* 👉 [Read our full, detailed review of JIMS Rohini here](/all-about-jims-rohini)
+* 👉 [Read our full, detailed review of JIMS Rohini here](/blog/all-about-jims-rohini)
 
 ---
 

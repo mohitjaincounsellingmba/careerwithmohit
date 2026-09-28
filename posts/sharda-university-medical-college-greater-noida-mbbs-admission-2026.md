@@ -114,7 +114,7 @@ Admission to Sharda Medical College Greater Noida is strictly merit-based, deter
 | **Minority / Management Quota** | NRI / Management Seats: Score 200+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-sharda-university) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-abbs-school-of-management) for rank prediction strategies.
 
 ---
 

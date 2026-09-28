@@ -130,7 +130,7 @@ While these colleges are great for starting your career, here is what you need t
 ---
 
 ## 🔗 Useful Links for Your Research
-- [Top MBA Colleges in Pune 2026 (SIBM, SCMHRD, PUMBA)](/blog/top-mba-colleges-pune)
+- [Top MBA Colleges in Pune 2026 (SIBM, SCMHRD, PUMBA)](/colleges/mba-colleges-pune)
 - [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
 - [Direct MBA Admission in Pune — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
 

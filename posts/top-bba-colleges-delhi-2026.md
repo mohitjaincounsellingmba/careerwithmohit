@@ -94,9 +94,9 @@ If you can clear the **CUET** with a high score, **SSCBS** is the best decision 
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
 - [Admission Guide for 2026](/blog/career-roadmaps-2026)
-- [Top Law Colleges in Delhi 2026](/blog/top-law-colleges-delhi-ncr)
+- [Top Law Colleges in Delhi 2026](/blog)
 
 ---
 

@@ -64,18 +64,18 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/colleges/all-about-symbiosis-mba-institutes)** (MBA Core/I&E) | Lavale, Pune | ₹26.80 Lakhs | ₹26.70 LPA | SNAP (98.5+ %ile) |
-| **[SCMHRD Pune](/colleges/all-about-symbiosis-mba-institutes)** (MBA Core/BA/IDM) | Hinjewadi Phase 1 | ₹25.20 Lakhs | ₹23.70 LPA | SNAP (97.0+ %ile) |
-| **[PUMBA (Pune University)](/colleges/direct-admission-pumba-pune-university-seats-2026)** (MBA) | Ganeshkhind | ₹1.30 Lakhs | ₹8.80 LPA | MAH-CET (99.0+ %ile) / CAT (88+ %ile) |
-| **[NIBM Pune](/colleges/direct-admission-nibm-pune-banking-finance-2026)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
-| **[NIA Pune](/colleges/all-about-institute-of-insurance-and-risk-management)** (PGDM - Insurance) | Baner Road | ₹12.50 Lakhs | ₹12.80 LPA | CAT / CMAT (75+ %ile) |
-| **[Sri Balaji University (SBUP - BIMM)](/colleges/bimm-balaji-pune-mba-review-2027-fees-placements-cutoff)** | Tathawade | ₹12.90 Lakhs | ₹9.20 LPA | CAT / MAT / CMAT / XAT / SBUP Test |
-| **[Indira Group (IIMP / ISBS Pune)](/colleges/all-about-isbs-pune)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
-| **[ISB&M Pune (International School)](/colleges/all-about-international-school-of-business-media-pune)** | Nande, Pune | ₹13.20 Lakhs | ₹10.80 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
-| **[PIBM Pune (Praxis / Business Mgmt)](/colleges/all-about-institute-of-business-management-and-research)** | Pirangut | ₹8.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
-| **[MIT-WPU (School of Business)](/colleges/all-about-symbiosis-mba-institutes)** (MBA) | Kothrud | ₹9.50 Lakhs | ₹7.20 LPA | CAT / XAT / NMAT / MAH-CET |
-| **[Lexicon MILE Pune](/colleges/aissms-lexicon-management-institute-pune-review-2026)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
-| **[RIIM Pune (Ramachandran Institute)](/colleges/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
+| **[SIBM Pune](/blog/all-about-symbiosis-mba-institutes)** (MBA Core/I&E) | Lavale, Pune | ₹26.80 Lakhs | ₹26.70 LPA | SNAP (98.5+ %ile) |
+| **[SCMHRD Pune](/blog/all-about-symbiosis-mba-institutes)** (MBA Core/BA/IDM) | Hinjewadi Phase 1 | ₹25.20 Lakhs | ₹23.70 LPA | SNAP (97.0+ %ile) |
+| **[PUMBA (Pune University)](/blog/direct-admission-pumba-pune-university-seats-2026)** (MBA) | Ganeshkhind | ₹1.30 Lakhs | ₹8.80 LPA | MAH-CET (99.0+ %ile) / CAT (88+ %ile) |
+| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
+| **[NIA Pune](/blog/all-about-institute-of-insurance-and-risk-management)** (PGDM - Insurance) | Baner Road | ₹12.50 Lakhs | ₹12.80 LPA | CAT / CMAT (75+ %ile) |
+| **[Sri Balaji University (SBUP - BIMM)](/blog/bimm-balaji-pune-mba-review-2027-fees-placements-cutoff)** | Tathawade | ₹12.90 Lakhs | ₹9.20 LPA | CAT / MAT / CMAT / XAT / SBUP Test |
+| **[Indira Group (IIMP / ISBS Pune)](/blog/all-about-isbs-pune)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
+| **[ISB&M Pune (International School)](/blog/all-about-international-school-of-business-media-pune)** | Nande, Pune | ₹13.20 Lakhs | ₹10.80 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
+| **[PIBM Pune (Praxis / Business Mgmt)](/blog/all-about-institute-of-business-management-and-research)** | Pirangut | ₹8.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
+| **[MIT-WPU (School of Business)](/blog/all-about-symbiosis-mba-institutes)** (MBA) | Kothrud | ₹9.50 Lakhs | ₹7.20 LPA | CAT / XAT / NMAT / MAH-CET |
+| **[Lexicon MILE Pune](/blog/aissms-lexicon-management-institute-pune-review-2026)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
+| **[RIIM Pune (Ramachandran Institute)](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
 
 ---
 

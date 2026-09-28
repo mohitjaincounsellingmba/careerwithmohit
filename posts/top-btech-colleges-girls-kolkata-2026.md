@@ -108,7 +108,7 @@ Usually held in **April/May**. Result and counselling follow in June.
 
 ### Useful Links:
 - [Top B.Tech Colleges in Kolkata 2026 — General List](/blog/top-btech-colleges-kolkata-2026)
-- [How to Crack WBJEE 2026 in 4 Months](/blog/wbjee-preparation-strategy-2026)
+- [How to Crack WBJEE 2026 in 4 Months](/blog/1-year-online-mba-colleges-india-2026)
 - [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
 
 ---

@@ -81,7 +81,7 @@ UPES has a dedicated placement cell with nearly 100 recruiters visiting the camp
 Plan your admissions with our other North India guides:
 *   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
 *   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review)
-*   [Doon University: Academic Insights](/blog/doon-university-btech-admission-2026-fees-review)
+*   [Doon University: Academic Insights](/blog/1-year-online-mba-colleges-india-2026)
 *   [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)
 
 **Confused Between UPES and an NIT?**

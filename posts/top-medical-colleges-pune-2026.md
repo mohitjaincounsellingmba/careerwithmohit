@@ -123,7 +123,7 @@ Counselling registrations typically open in **July** after the NEET results.
 ### Useful Links:
 - [Top MBBS Colleges in Mumbai 2026](/blog/top-medical-colleges-mumbai-2026)
 - [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
+- [MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
 
 ---
 

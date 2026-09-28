@@ -192,7 +192,7 @@ To ensure a smooth admission journey through MAH MBA CET 2027:
 ### Need CAP Round Choice Code & Option Form Assistance?
 
 * 📞 **Counselling Helpline:** Get expert Option Form review from **Mohit Jain**.
-* 📋 **[Request Free CAP Round 2027 Choice Code List](/direct-admission)** customized to your score and target location.
+* 📋 **[Request Free CAP Round 2027 Choice Code List](/blog/best-bba-colleges-jaipur-direct-admission-2026)** customized to your score and target location.
 
 ---
 

@@ -72,13 +72,13 @@ Here is the definitive guide by career mentor **Mohit Jain** on the **Top MBA Co
 | **[ITS Mohan Nagar](/colleges/its-ghaziabad)** | Ghaziabad, NCR | 50 – 55 %ile | ₹6.24 Lakhs | ₹7.20 LPA | ₹16.00 LPA |
 | **[FIIB (Fortune Institute)](/colleges/fiib-delhi)** | New Delhi | 55 – 60 %ile | ₹9.90 Lakhs | ₹8.50 LPA | ₹25.00 LPA |
 | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.50 Lakhs | ₹6.80 LPA | ₹15.50 LPA |
-| **[Accurate Institute of Management](/colleges/accurate-greater-noida-review-2026)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.25 Lakhs | ₹6.50 LPA | ₹14.00 LPA |
+| **[Accurate Institute of Management](/blog/accurate-greater-noida-review-2026)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.25 Lakhs | ₹6.50 LPA | ₹14.00 LPA |
 | **[IILM University](/colleges/iilm-university-greater-noida)** | Greater Noida / Gurgaon | 55 – 60 %ile | ₹11.50 Lakhs | ₹8.60 LPA | ₹18.50 LPA |
 | **[EMPI Business School](/colleges/empi-delhi)** | New Delhi | 50 – 55 %ile | ₹8.50 Lakhs | ₹7.20 LPA | ₹16.50 LPA |
 | **[Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence)** | Pune, Maharashtra | 55 – 60 %ile | ₹9.50 Lakhs | ₹8.20 LPA | ₹18.00 LPA |
 | **[RIIM Pune](/colleges/riim-pune)** | Pune, Maharashtra | 50 – 55 %ile | ₹6.30 Lakhs | ₹6.90 LPA | ₹16.00 LPA |
 | **[ISBR Business School](/colleges/isbr-bangalore)** | Bengaluru, Karnataka | 55 – 60 %ile | ₹9.80 Lakhs | ₹8.00 LPA | ₹15.00 LPA |
-| **[Amity University](/colleges/amity-noida-review-2026)** | Noida / Gurgaon | 50 – 60 %ile | ₹14.00 Lakhs | ₹8.00 LPA | ₹25.00 LPA |
+| **[Amity University](/blog/amity-noida-review-2026)** | Noida / Gurgaon | 50 – 60 %ile | ₹14.00 Lakhs | ₹8.00 LPA | ₹25.00 LPA |
 | **[Galgotias University](/colleges/galgotias-university)** | Greater Noida, NCR | 50 – 55 %ile | ₹5.50 Lakhs | ₹6.20 LPA | ₹12.40 LPA |
 
 ---

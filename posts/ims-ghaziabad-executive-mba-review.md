@@ -48,7 +48,7 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [IMS Ghaziabad](/colleges/ims-ghaziabad) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Ghaziabad, the Executive MBA / Executive PGDM offered by [IMS Ghaziabad](/blog/ims-ghaziabad-executive-mba-review) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -92,7 +92,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [IMS Ghaziabad](/colleges/ims-ghaziabad) is highly recommended for professionals based in Ghaziabad who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [IMS Ghaziabad](/blog/ims-ghaziabad-executive-mba-review) is highly recommended for professionals based in Ghaziabad who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 

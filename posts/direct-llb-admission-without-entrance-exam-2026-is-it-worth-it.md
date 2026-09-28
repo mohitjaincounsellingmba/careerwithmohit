@@ -116,7 +116,7 @@ The "Golden Window" is **April to May** (after board exams). By July, even manag
 ### Useful Links:
 - [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
 - [How to Prepare for CLAT 2026](/blog/clat-2026-exam-strategy-guide)
-- [BA LLB vs BBA LLB — Career guide](/blog/5-year-llb-vs-3-year-llb-which-is-better)
+- [BA LLB vs BBA LLB — Career guide](/blog)
 
 ---
 

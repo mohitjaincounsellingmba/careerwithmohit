@@ -215,9 +215,9 @@ All MAT-accepting colleges treat IBT scores equally with PBT and CBT. Apply to t
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** — Composite 500+ preferred
 - **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** — Strong MAT intake across campuses
-- **[NDIM New Delhi](/blog/all-about-ndim-delhi)** — Direct PGDM admissions
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2026)** — Direct PGDM admissions
 - **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** — Top Delhi PGDM institute
-- **[NIBM Pune](/blog/all-about-nibm-pune)** — Banking & Finance specialisation
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** — Banking & Finance specialisation
 - **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** — AICTE-approved PGDM
 - **[TAPMI Manipal](/blog/all-about-tapmi)** — Top B-School for high IBT scores
 - **[Lexicon MILE Pune](/blog/lexicon-mile-pune-review-2025)** — MAT-accepting Pune institute

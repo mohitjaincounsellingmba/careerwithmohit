@@ -99,7 +99,7 @@ However, significant differences exist regarding **eligibility thresholds, work 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[IIM Ahmedabad PGPX](/colleges/iim-ahmedabad)** | ₹33.5 – 35.0 Lakhs | ₹34.5 – 36.5 LPA | **Top Senior Leadership ROI**: Min 4 yrs work-ex; GMAT Focus 650+; IIM brand |
-| **[ISB Hyderabad / Mohali PGP](/colleges/isb-hyderabad)** | ₹41.5 – 44.5 Lakhs | ₹33.5 – 34.8 LPA | **Global Consulting Powerhouse**: Min 2 yrs work-ex; GMAT Focus 665+; MBB hub |
+| **[ISB Hyderabad / Mohali PGP](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility)** | ₹41.5 – 44.5 Lakhs | ₹33.5 – 34.8 LPA | **Global Consulting Powerhouse**: Min 2 yrs work-ex; GMAT Focus 665+; MBB hub |
 
 ---
 

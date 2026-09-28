@@ -96,7 +96,7 @@ JEE Advanced is known for its complex, multi-concept problems. To help you prepa
 
 Since JEE Advanced involves deep derivations, we recommend practicing these 60 questions on paper first. 
 
-[👉 Download Full 60 Questions + Detailed Steps PDF](/resources/jee-advanced-important-questions-2026.pdf)
+[👉 Download Full 60 Questions + Detailed Steps PDF](/blog/jee-advanced-important-questions-2026)
 
 ---
 

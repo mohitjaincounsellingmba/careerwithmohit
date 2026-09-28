@@ -201,7 +201,7 @@ Because IIMs are Institutes of National Importance, every major bank in India (S
 
 ## 4. Complete IIM Selection Criteria (2027–29 Batch)
 
-Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm).
+Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm).
 
 ### Stage 1: CAT Entrance Exam & Sectional Cutoffs
 *   You must first appear for the **Common Admission Test (CAT)**.

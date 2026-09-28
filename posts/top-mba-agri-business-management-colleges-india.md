@@ -197,7 +197,7 @@ Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies (UPL, B
 ### Need Help Choosing the Right ABM College?
 Choosing between a premium IIM or a specialized institute like MANAGE depends on your background and career goals. At **CareerWithMohit**, we help you navigate entrances like CAT, CMAT, and CUET-PG to secure your seat.
 
-[**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Career Guides**](/posts)
+[**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Career Guides**](/blog)
 
 
 

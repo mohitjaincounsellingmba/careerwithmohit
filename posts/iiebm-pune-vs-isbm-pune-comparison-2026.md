@@ -79,7 +79,7 @@ The biggest differentiator is the **PGDM + PGPERP (SAP)** program. While ISB&M f
 *   **ISB&M Nande** has slightly higher *average* placement figures (approx. ₹11.4 LPA) because of its strong FMCG and Marketing placements.
 *   **IIEBM Pune**, however, offers a much higher *ceiling* for tech-savvy management students. The **Highest Package of ₹30-34 LPA** is frequently recorded in their SAP track, as SAP consultants are among the highest-paid professionals in the IT and consulting industry.
 
-If you are aiming for a career in **Digital Transformation or Business Consulting**, the [Importance of SAP in MBA/PGDM Careers](/importance-of-sap-in-mba-pgdm-career-2026) cannot be ignored.
+If you are aiming for a career in **Digital Transformation or Business Consulting**, the [Importance of SAP in MBA/PGDM Careers](/blog/importance-of-sap-in-mba-pgdm-career-2026) cannot be ignored.
 
 ---
 
@@ -104,24 +104,24 @@ ISB&M Nande is more scenic and "campus-like," but slightly further from the main
 *   You want a career in **SAP Consulting or IT Management**.
 *   You are looking for a **Higher ROI** (Lower fees vs solid tech placements).
 *   You prefer a disciplined, "corporate-ready" grooming environment.
-*   Read more: [All About IIEBM Pune](/all-about-iiebm-pune).
+*   Read more: [All About IIEBM Pune](/colleges/iiebm-pune).
 
 #### **Choose ISB&M Pune If:**
 *   You want a career in **Brand Marketing, Media, or Core Finance**.
 *   You enjoy a "free" student-driven campus culture with more extracurricular autonomy.
 *   You have a higher budget (₹14L+) and want a premium lifestyle-based learning experience.
-*   Read more: [ISB&M Nande Review 2026](/isbm-nande-pune-pgdm-review-2026).
+*   Read more: [ISB&M Nande Review 2026](/blog/isbm-nande-pune-pgdm-review-2026).
 
 ---
 
 **Confused about your MBA journey?** 
 Don't make a decision based only on brochures. Get a personalized roadmap for your career!
 
-[👉 Book Free Counselling with Mohit Jain](/inquiry) | [📊 Try our MBA College Predictor](/cuet-pg-predictor-2026-mba-colleges)
+[👉 Book Free Counselling with Mohit Jain](/inquiry) | [📊 Try our MBA College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges)
 
 **Related Articles:**
 *   [Best MBA Colleges in Pune 2026](/best-mba-colleges-in-pune-2026)
-*   [Why Never Join High Intake MBA Colleges in Pune](/why-never-join-high-intake-mba-colleges-pune)
+*   [Why Never Join High Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
 
 ---
 

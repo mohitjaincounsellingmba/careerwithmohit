@@ -7,7 +7,7 @@ description: >-
   Cutoff. Check updated fees, placement records, real cutoffs, and selection
   tips by Mohit Jain.
 keywords:
-  - '[Tezpur University](/colleges/tezpur-university) admissions 2026'
+  - '[Tezpur University](/colleges/tezpur-university-management) admissions 2026'
   - Tezpur University placements
   - Tezpur University CUET cutoff
   - Tezpur University fees
@@ -37,7 +37,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-[Tezpur University](/colleges/tezpur-university), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.
+[Tezpur University](/colleges/tezpur-university-management), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.
 
 ## 📊 Tezpur University 2026 Overview: Fees, Placements & Cutoffs
 

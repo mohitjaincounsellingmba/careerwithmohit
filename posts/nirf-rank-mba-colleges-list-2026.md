@@ -193,9 +193,9 @@ A noteworthy trend in recent NIRF management lists is the aggressive climb of **
 
 For candidates exploring non-IIM avenues through **XAT, SNAP, NMAT, or CMAT**, premier private business schools offer comparable corporate prestige, international exchange partnerships, and high-paying roles:
 
-* **[XLRI Jamshedpur](/blog/all-about-xlri-jamshedpur)** (NIRF #9): Renowned as the oldest and most prestigious institution for Human Resource Management (HRM) and Business Management (BM) in South Asia.
-* **[MDI Gurgaon](/blog/all-about-mdi-gurgaon)** (NIRF #11): Located in the heart of Delhi NCR’s corporate hub, leading in Strategy, Marketing, and BFSI placements.
-* **[SPJIMR Mumbai](/blog/all-about-spjimr-mumbai)** (NIRF #17): Celebrated for its unique Autumn Internship model, non-classroom learning initiatives (DOCC, Abhyudaya), and top consulting recruitment.
+* **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** (NIRF #9): Renowned as the oldest and most prestigious institution for Human Resource Management (HRM) and Business Management (BM) in South Asia.
+* **[MDI Gurgaon](/colleges/mdi-gurgaon)** (NIRF #11): Located in the heart of Delhi NCR’s corporate hub, leading in Strategy, Marketing, and BFSI placements.
+* **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** (NIRF #17): Celebrated for its unique Autumn Internship model, non-classroom learning initiatives (DOCC, Abhyudaya), and top consulting recruitment.
 * **[SIBM Pune](/colleges/sibm-pune)** (NIRF #19): The flagship institution under Symbiosis International University, known for FMCG Marketing, HR, and Corporate Finance.
 * **[MICA Ahmedabad](/blog/mica-ahmedabad-review-2026)** (NIRF #47): The premier destination for Brand Management, Strategic Advertising, and Digital Marketing leadership.
 

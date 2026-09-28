@@ -82,7 +82,7 @@ To sit for the JEE Advanced exam (May 2026), students must finish in the top 2.5
 ## 🔗 Related Resources
 - [JEE Main 2026 Score Calculator & Verification Tool](/calculator/jee-main-2026)
 - [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
-- [JAC Delhi Counselling: A Step-by-Step Guide](/blog/jac-delhi-counselling-2026)
+- [JAC Delhi Counselling: A Step-by-Step Guide](/blog/1-year-online-mba-colleges-india-2026)
 
 ---
 

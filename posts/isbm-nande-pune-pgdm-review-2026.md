@@ -113,7 +113,7 @@ The placements at ISB&M Nande are exceptionally strong for Marketing, Finance, a
 
 For MBA aspirants looking for a modernized, freedom-oriented education with strong salary outcomes, excellent industry exposure, and a vibrant campus life, ISB&M Nande Pune is an outstanding choice for 2026.
 
-[👉 Check your chances of getting into ISB&M Nande Pune! Use our free MBA College Predictor.](/cuet-pg-predictor-2026-mba-colleges)
+[👉 Check your chances of getting into ISB&M Nande Pune! Use our free MBA College Predictor.](/blog/cuet-pg-predictor-2026-mba-colleges)
 
 Want alternatives? Read our guide on the [Best MBA Colleges in Pune 2026](/best-mba-colleges-in-pune-2026).
 

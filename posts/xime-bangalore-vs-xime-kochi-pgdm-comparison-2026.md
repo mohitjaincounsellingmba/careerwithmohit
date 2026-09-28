@@ -183,7 +183,7 @@ Both are excellent B-schools. Your decision should come down to your specific ci
 - You are interested in the **PGDM-Business Analytics** program.
 - You don't mind paying slightly more for a **stronger alumni network** and a **higher placement ceiling**.
 - You thrive in an urban, fast-paced environment.
-- 👉 [Explore more top MBA colleges in Bangalore](/best-mba-colleges-in-bangalore-2026)
+- 👉 [Explore more top MBA colleges in Bangalore](/blog/best-mba-colleges-in-bangalore-2026)
 
 **Choose XIME Kochi If:**
 - **Budget is a key constraint** — ₹3 Lakhs savings matters for your loan repayment.
@@ -191,7 +191,7 @@ Both are excellent B-schools. Your decision should come down to your specific ci
 - You are interested in **BFSI, Gulf-facing industries, or Kerala's growing IT sector**.
 - You value the newly earned **EFMD (European) accreditation** for international recognition.
 - You prefer a **calmer, more focused campus** environment with a tight-knit cohort.
-- 👉 [Explore more top MBA colleges in Bangalore for context](/best-mba-colleges-in-bangalore-2026)
+- 👉 [Explore more top MBA colleges in Bangalore for context](/blog/best-mba-colleges-in-bangalore-2026)
 
 ---
 
@@ -212,10 +212,10 @@ For students with **70+ percentile in CAT/CMAT** who want a genuine PGDM from an
 ---
 
 *Related Reads:*
-- [Best MBA Colleges in Bangalore 2026](/best-mba-colleges-in-bangalore-2026)
-- [Welingkar vs TAPMI: Full Comparison](/welingkar-vs-tapmi-mba-comparison)
-- [All About ISBR Bangalore](/all-about-isbr-bangalore)
-- [MBA vs PGDM — What's the Real Difference?](/mba-vs-pgdm-difference)
+- [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
+- [Welingkar vs TAPMI: Full Comparison](/blog/welingkar-vs-tapmi-mba-comparison)
+- [All About ISBR Bangalore](/colleges/isbr-bangalore)
+- [MBA vs PGDM — What's the Real Difference?](/blog/mba-vs-pgdm-difference)
 
 ---
 

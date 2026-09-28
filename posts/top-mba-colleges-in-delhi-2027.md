@@ -72,17 +72,17 @@ In this 2027 guide, senior admission consultant **Mohit Jain** presents an hones
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
 | **[FMS Delhi](/colleges/fms-delhi)** (MBA Core) | ₹2.32 Lakhs | ₹30.10 LPA | CAT (99.7+ %ile) |
-| **[DMS IIT Delhi](/colleges/all-about-iit-colleges-review)** (MBA / MBA Telecom) | ₹14.00 Lakhs | ₹22.53 LPA | CAT (98.0+ %ile) |
+| **[DMS IIT Delhi](/blog/all-about-iit-colleges-review)** (MBA / MBA Telecom) | ₹14.00 Lakhs | ₹22.53 LPA | CAT (98.0+ %ile) |
 | **[IIFT Delhi](/colleges/iift-delhi)** (MBA - International Business) | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
 | **[IMI New Delhi](/colleges/imi-delhi)** (PGDM Core/HRM/BFS) | ₹23.50 Lakhs | ₹17.90 LPA | CAT / XAT (88+ %ile) |
 | **[FORE School of Management](/colleges/fore-school-delhi)** (PGDM) | ₹20.70 Lakhs | ₹16.40 LPA | CAT / XAT (85+ %ile) |
 | **[LBSIM Delhi](/colleges/lbsim-delhi)** (PGDM Core/Fintech) | ₹17.50 Lakhs | ₹13.80 LPA | CAT / XAT (83+ %ile) |
-| **[Delhi School of Economics (DSE)](/colleges/all-about-fms-delhi)** (MBA HRD / IB) | ₹48,000 | ₹14.50 LPA | CAT (93+ %ile) |
-| **[Dept. of Financial Studies (DFS)](/colleges/all-about-fms-delhi)** (MBA Finance) | ₹48,000 | ₹15.80 LPA | CAT (94+ %ile) |
-| **[SRCC GBO Delhi](/colleges/all-about-srcc-gbo-exam)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
-| **[Delhi School of Business (DSB)](/colleges/delhi-school-of-business-dsb-pgdm-admission-2027-29)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[JIMS Rohini (Sector 5)](/colleges/all-about-jims-rohini)** (PGDM) | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
-| **[NDIM New Delhi](/colleges/ndim-delhi-review-2026)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
+| **[Delhi School of Economics (DSE)](/blog/all-about-fms-delhi)** (MBA HRD / IB) | ₹48,000 | ₹14.50 LPA | CAT (93+ %ile) |
+| **[Dept. of Financial Studies (DFS)](/blog/all-about-fms-delhi)** (MBA Finance) | ₹48,000 | ₹15.80 LPA | CAT (94+ %ile) |
+| **[SRCC GBO Delhi](/blog/all-about-srcc-gbo-exam)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
+| **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-dsb-pgdm-admission-2027-29)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[JIMS Rohini (Sector 5)](/blog/all-about-jims-rohini)** (PGDM) | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
+| **[NDIM New Delhi](/blog/ndim-delhi-review-2026)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
 
 ---
 

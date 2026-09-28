@@ -131,7 +131,7 @@ Usually in **June**, immediately after the Maharashtra Board (HSC) and CBSE resu
 ### Useful Links:
 - [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
 - [MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide)
 
 ---
 

@@ -79,7 +79,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
 
-Planning for management education requires a clear understanding of the complete financial commitment. The **[SOIL Institute of Management](/colleges/soil-institute-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has established a transparent, structured fee schedule for its **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
+Planning for management education requires a clear understanding of the complete financial commitment. The **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has established a transparent, structured fee schedule for its **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
 
 Located in Gurgaon (Delhi-NCR)—surrounded by top multinational corporate headquarters—SOIL offers a unique, industry-integrated curriculum co-created by **32 leading corporations**. 
 
@@ -244,7 +244,7 @@ Here is how SOIL's fee structure compares with leading private and autonomous ma
 
 | Business School | Total 2-Year Program Fee | Average Placement (CTC) | Key Program Differentiator |
 | :--- | :--- | :--- | :--- |
-| **[SOIL Gurgaon](/colleges/soil-institute-gurgaon)** | **₹17.17 Lakhs** | **₹11.17 LPA** | MNC Co-Created, Design Thinking & Social Innovation |
+| **[SOIL Gurgaon](/colleges/soil-gurgaon)** | **₹17.17 Lakhs** | **₹11.17 LPA** | MNC Co-Created, Design Thinking & Social Innovation |
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | ₹18.75 Lakhs – ₹19.90 Lakhs | ₹11.60 LPA | Analytics & Marketing focus |
 | **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | ₹15.10 Lakhs – ₹16.50 Lakhs | ₹10.44 LPA | Hero Group heritage, Imperial College London link |
 | **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.25 Lakhs – ₹19.50 Lakhs | ₹14.50 LPA | South Delhi campus, Finance & International Business |
@@ -268,7 +268,7 @@ When planning your management budget at SOIL, keep these non-tuition expenses in
 ## 10. How to Pay Admission Fees & Cancellation Policy
 
 1.  **Online Payment Gateways:** Accepted via Net Banking, NEFT/RTGS, Credit/Debit Cards, or UPI on the official SOIL admission portal.
-2.  **Demand Draft (DD):** Payable in favor of *"[SOIL Institute of Management](/colleges/soil-institute-gurgaon)"* payable at Gurgaon/New Delhi.
+2.  **Demand Draft (DD):** Payable in favor of *"[SOIL Institute of Management](/colleges/soil-gurgaon)"* payable at Gurgaon/New Delhi.
 3.  **Refund & Withdrawal Guidelines:** SOIL adheres strictly to **AICTE fee refund norms**. If a candidate withdraws their admission before the official orientation/closure date, the initial deposit is refunded after a standard administrative processing deduction of ₹1,000.
 
 ---

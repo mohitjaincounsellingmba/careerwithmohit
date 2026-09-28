@@ -73,7 +73,7 @@ Offered by the prestigious ISI (Indian Statistical Institute), B.Stat is an elit
 Mathematics is the foundation of structural design and stability.
 *   **Entrance Exams:** NATA or JEE Main Paper 2.
 *   **Future Roles:** Urban Planner, Structural Designer, Sustainable Building Consultant.
-*   **Internal Link:** Check out the [JEE Main Predictor](/tools/jee-main-predictor) for B.Arch college options.
+*   **Internal Link:** Check out the [JEE Main Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) for B.Arch college options.
 
 ---
 

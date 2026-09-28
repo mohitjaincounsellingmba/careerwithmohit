@@ -89,14 +89,14 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
 * Accredited by AACSB, AMBA, and SAQS.
-* Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/blog/all-about-mdi-gurgaon).
+* Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/colleges/mdi-gurgaon).
 
 ### 3. [FORE School of Management](/colleges/fore-school-delhi) & LBSIM Delhi
 * **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/blog/all-about-fore-school-delhi).
 * **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
 
 ### 4. NDIM & FOSTIIMA: The 60-75 CAT/XAT Percentile Leaders
-* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/all-about-ndim-delhi).
+* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/ndim-delhi-review-2026).
 * **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 
 ---

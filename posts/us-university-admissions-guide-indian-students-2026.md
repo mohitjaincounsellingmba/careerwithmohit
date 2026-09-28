@@ -103,7 +103,7 @@ Ohio University offers a quintessential American college experience with a lower
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top MBA Colleges in India 2026](/blog/top-mba-colleges-india-2026)
+*   [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
 *   [BBA vs BCom vs BMS: Global Career Options](/blog/bba-vs-bcom-vs-bms-career-comparison)
 *   [Direct Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota)
 

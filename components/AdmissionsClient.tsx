@@ -354,7 +354,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
               { label: 'Pune Tier-1 PGDM', href: '/colleges?search=Pune' },
               { label: 'Budget < ₹10L', href: '/colleges' },
               { label: 'Direct Admissions', href: '/inquiry' },
-              { label: 'Online MBA 2027', href: '/online-degrees' },
+              { label: 'Online MBA 2027', href: '/online-degree-certification' },
             ].map((chip) => (
               <Link
                 key={chip.label}
@@ -474,7 +474,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
 
           {/* Online & Distance */}
           <Link
-            href="/online-degrees"
+            href="/online-degree-certification"
             className="group bg-white rounded-2xl p-5 border border-slate-200/90 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all flex flex-col justify-between"
           >
             <div>

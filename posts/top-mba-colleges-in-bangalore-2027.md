@@ -66,17 +66,17 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[IIM Bangalore](/colleges/iim-bangalore)** (PGP) | Bannerghatta Road | ₹25.00 Lakhs | ₹33.80 LPA | CAT (99.3+ %ile) |
-| **[SIBM Bengaluru](/colleges/all-about-symbiosis-mba-institutes)** (MBA Core/BA/QF) | Electronic City Phase 1 | ₹20.50 Lakhs | ₹14.50 LPA | SNAP (90.0+ %ile) |
-| **[JAGSoM (Jagdish Sheth School)](/colleges/all-about-jagdish-sheth-school-of-management)** (PGDM) | Electronic City Phase 1 | ₹15.95 Lakhs | ₹13.30 LPA | CAT / XAT / GMAT / MAT (75+ %ile) |
-| **[XIME Bangalore](/colleges/all-about-international-school-of-business-media-bangalore)** (PGDM) | Electronic City Phase 2 | ₹12.50 Lakhs | ₹10.30 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[Christ University (School of Business)](/colleges/christ-university-central-campus-mba-admission-2026-fees-review)** | Hosur Rd / Kengeri / BGR | ₹8.80 – ₹9.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / Christ Test |
-| **[TAPMI Bengaluru Campus](/colleges/all-about-tapmi-bangalore)** (MBA Tech) | Yelahanka | ₹17.50 Lakhs | ₹12.80 LPA | CAT / XAT / GMAT / NMAT (85+ %ile) |
-| **[Welingkar Bengaluru (WeSchool)](/colleges/all-about-welingkar)** (PGDM) | Electronic City Phase 1 | ₹14.00 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / ATMA (75+ %ile) |
-| **[Alliance University (Alliance School of Bus.)](/colleges/alliance-university-bangalore-mba-admission-2027-29)** | Anekal / Chandapura | ₹15.00 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / AMAT / Direct |
-| **[Ramaiah Inst. of Mgmt (MSRIM)](/colleges/all-about-msrim-bangalore)** (PGDM) | Mathikere | ₹9.00 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT / KMAT |
-| **[ISBR Business School](/colleges/all-about-isbr-business-school)** (PGDM) | Electronic City Phase 1 | ₹9.50 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
-| **[Acharya Bangalore B-School (ABBS)](/colleges/all-about-abbs-school-of-management)** | Magadi Road | ₹8.90 Lakhs | ₹7.20 LPA | MAT / CMAT / KMAT / Direct |
-| **[AIMS Institutes](/colleges/all-about-aims-bangalore)** (MBA/PGDM) | Peenya | ₹9.25 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / PGCET |
+| **[SIBM Bengaluru](/blog/all-about-symbiosis-mba-institutes)** (MBA Core/BA/QF) | Electronic City Phase 1 | ₹20.50 Lakhs | ₹14.50 LPA | SNAP (90.0+ %ile) |
+| **[JAGSoM (Jagdish Sheth School)](/blog/all-about-jagdish-sheth-school-of-management)** (PGDM) | Electronic City Phase 1 | ₹15.95 Lakhs | ₹13.30 LPA | CAT / XAT / GMAT / MAT (75+ %ile) |
+| **[XIME Bangalore](/blog/all-about-international-school-of-business-media-bangalore)** (PGDM) | Electronic City Phase 2 | ₹12.50 Lakhs | ₹10.30 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[Christ University (School of Business)](/blog/christ-university-central-campus-mba-admission-2026-fees-review)** | Hosur Rd / Kengeri / BGR | ₹8.80 – ₹9.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / Christ Test |
+| **[TAPMI Bengaluru Campus](/blog/all-about-tapmi-bangalore)** (MBA Tech) | Yelahanka | ₹17.50 Lakhs | ₹12.80 LPA | CAT / XAT / GMAT / NMAT (85+ %ile) |
+| **[Welingkar Bengaluru (WeSchool)](/blog/all-about-welingkar)** (PGDM) | Electronic City Phase 1 | ₹14.00 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / ATMA (75+ %ile) |
+| **[Alliance University (Alliance School of Bus.)](/blog/alliance-university-bangalore-mba-admission-2027-29)** | Anekal / Chandapura | ₹15.00 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / AMAT / Direct |
+| **[Ramaiah Inst. of Mgmt (MSRIM)](/blog/all-about-msrim-bangalore)** (PGDM) | Mathikere | ₹9.00 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT / KMAT |
+| **[ISBR Business School](/blog/all-about-isbr-business-school)** (PGDM) | Electronic City Phase 1 | ₹9.50 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
+| **[Acharya Bangalore B-School (ABBS)](/blog/all-about-abbs-school-of-management)** | Magadi Road | ₹8.90 Lakhs | ₹7.20 LPA | MAT / CMAT / KMAT / Direct |
+| **[AIMS Institutes](/blog/all-about-aims-bangalore)** (MBA/PGDM) | Peenya | ₹9.25 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / PGCET |
 
 ---
 

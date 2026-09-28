@@ -218,8 +218,8 @@ Mumbai offers unparalleled corporate access to multinational investment banks, m
   - [SPJIMR Mumbai](/colleges/spjimr-mumbai) (S.P. Jain Institute of Management and Research)
   - [NMIMS School of Business Management (SBM Mumbai)](/blog/nmims-mumbai-university-review-2026)
   - SIMSREE (Sydenham Institute)
-  - [Welingkar Institute of Management (WeSchool Mumbai)](/colleges/welingkar)
-  - [K J Somaiya Institute of Management](/colleges/k-j-somaiya)
+  - [Welingkar Institute of Management (WeSchool Mumbai)](/colleges/welingkar-bangalore)
+  - [K J Somaiya Institute of Management](/blog/kj-somaiya-btech-review-2026)
   - [NL Dalmia Institute of Management Studies](/blog/all-about-nl-dalmia-admission-2026)
   - [Universal AI University (Karjat/Mumbai)](/colleges/universal-ai-mumbai), [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai)
 * **Top Engineering & Undergraduate Colleges**:
@@ -240,9 +240,9 @@ Delhi NCR houses the highest concentration of corporate headquarters, consulting
   - [LBSIM Delhi](/colleges/lbsim-delhi) (Lal Bahadur Shastri Institute of Management)
   - Masters' Union (Gurgaon - New-Age Tech & Business School)
   - [Great Lakes Institute of Management (Gurgaon Campus)](/colleges/great-lakes-gurgaon)
-  - [BML Munjal University](/colleges/bml-munjal-university), [Bennett University](/colleges/bennett-university), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2026)
+  - [BML Munjal University](/blog/all-about-bml-munjal-university), [Bennett University](/blog/all-about-bennett-university), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2026)
 * **Top Engineering & BBA Colleges in Delhi NCR**:
-  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi](/colleges/all-about-sscbs-delhi-bba-admission-2026).
+  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi](/blog/all-about-sscbs-delhi-bba-admission-2026).
 * **Admission Consultant Advantage in Delhi NCR**:
   - Comprehensive counselling for IPU CET, JAC Delhi, CAT/XAT score-based cutoffs, and scholarship evaluations for private universities.
 
@@ -272,7 +272,7 @@ Ghaziabad offers strategic proximity to East Delhi and Noida with long-establish
   - [IMT Ghaziabad](/colleges/imt-ghaziabad) (India's premier marketing B-school)
   - [Jaipuria School of Business (JSB Ghaziabad)](/colleges/jaipuria-school-of-business-ghaziabad)
   - [ITS Mohan Nagar (Institute of Technology & Science)](/colleges/its-ghaziabad)
-  - [IMS Ghaziabad](/colleges/ims-ghaziabad)
+  - [IMS Ghaziabad](/blog/ims-ghaziabad-executive-mba-review)
   - [ABES Engineering College](/colleges/abes-ghaziabad), [KIET Group of Institutions](/blog/kiet-ghaziabad-btech-admission-2026-fees-cutoff), RKGIT Ghaziabad.
 * **Admission Consultant Advantage in Ghaziabad**:
   - UPTAC counselling assistance, direct entry for top B.Tech CS specializations, and fee-concession scholarship mapping.
@@ -285,7 +285,7 @@ Jaipur combines affordable living, exceptional campus life, and nationally accla
 * **Top Institutions in Jaipur**:
   - [Jaipuria Institute of Management Jaipur](/colleges/jaipuria-institute-of-management-jaipur)
   - [Taxila Business School Jaipur](/colleges/taxila-jaipur)
-  - [Manipal University Jaipur (MUJ)](/colleges/manipal-university-btech-campuses)
+  - [Manipal University Jaipur (MUJ)](/blog/all-about-manipal-university-btech-campuses)
   - [JK Lakshmipat University (JKLU Jaipur)](/blog/jk-lakshmipat-university-jklu-jaipur-review-2026)
   - [JECRC University](/colleges/jecrc-jaipur), [Poornima University](/blog/poornima-university-jaipur-review-2026)
   - [IIHMR University Jaipur](/colleges/iihmr-university) (Healthcare & Hospital Management)
@@ -306,7 +306,7 @@ Bangalore provides unmatched exposure to global tech giants (Google, Microsoft, 
   - [ISBR Business School](/colleges/isbr-bangalore), [AIMS Institutes](/colleges/aims-bangalore), [Welingkar Bangalore](/colleges/welingkar-bangalore)
   - [Christ University (School of Business and Management)](/blog/christ-university-bangalore-review-2026)
 * **Top Engineering & BBA Colleges in Bangalore**:
-  - RVCE (RV College of Engineering), BMSCE, MSRIT (Ramaiah Institute of Technology), [PES University](/colleges/all-about-pes-university), [Dayananda Sagar College of Engineering](/blog/dayananda-sagar-university-dsu-bangalore-review-2026).
+  - RVCE (RV College of Engineering), BMSCE, MSRIT (Ramaiah Institute of Technology), [PES University](/blog/all-about-pes-university), [Dayananda Sagar College of Engineering](/blog/dayananda-sagar-university-dsu-bangalore-review-2026).
 * **Admission Consultant Advantage in Bangalore**:
   - COMEDK rank counselling, management quota transparency in top VTU/Autonomous engineering colleges, and BBA/MBA startup cohort admissions.
 

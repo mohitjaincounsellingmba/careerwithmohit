@@ -102,7 +102,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 
 ### 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), South Delhi
 * **Highlights**: UGC & AIU declared PGDM as MBA Equivalent. AICTE approved dual specialization options in FinTech, Business Analytics, Digital Marketing, and Supply Chain.
-* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/all-about-ndim-delhi).
+* **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/ndim-delhi-review-2026).
 * **Placements**: Average package of ₹9.50 LPA with highest international offers reaching ₹24 LPA.
 
 ### 4. FOSTIIMA Business School, Delhi

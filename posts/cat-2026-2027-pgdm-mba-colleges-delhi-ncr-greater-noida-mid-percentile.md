@@ -111,7 +111,7 @@ To avoid wasting application fees and missing critical deadlines, candidates mus
 | Tier Classification | CAT Percentile Range | Target Business Schools in Delhi NCR / Greater Noida | Primary Admission Parameters |
 | :--- | :--- | :--- | :--- |
 | **Tier-2 Premium** | **80 – 85+ %ile** | [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [LBSIM Delhi](/blog/all-about-lbsim-delhi), [FORE School of Management](/blog/all-about-fore-school-delhi), [IMI Delhi (Specialized)](/blog/all-about-imi-delhi) | High CAT weightage (50%), strict academic cutoffs (60%+ in 10th/12th/Grad), WAT-PI rigor |
-| **Tier-2 Core** | **70 – 80 %ile** | [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini (PGDM)](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM New Delhi](/blog/all-about-ndim-delhi) | Balanced Composite Score: CAT (35-40%), GD-PI (35%), Academics & Work Ex (25%) |
+| **Tier-2 Core** | **70 – 80 %ile** | [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini (PGDM)](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM New Delhi](/blog/ndim-delhi-review-2026) | Balanced Composite Score: CAT (35-40%), GD-PI (35%), Academics & Work Ex (25%) |
 | **Tier-3 High ROI** | **65 – 70 %ile** | [GL Bajaj Greater Noida (GLBIMR)](/blog/all-about-gl-bajaj-greater-noida), [GIMS / GNIOT Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims), [JIMS Kalkaji](/blog/all-about-jims-kalkaji), [Lloyd Business School](/blog/all-about-lloyd-business-school-greater-noida), [Accurate Greater Noida](/blog/accurate-greater-noida-review-2026), [IMS Ghaziabad](/blog/all-about-institute-of-management-studies) | High focus on Extempore/PI, Communication readiness, Aptitude test versatility ([CAT](/blog/all-about-cat-exam)/[XAT](/blog/all-about-xat-exam)/[MAT](/blog/all-about-mat-exam)/[CMAT](/blog/all-about-cmat-exam)) |
 
 ---
@@ -165,7 +165,7 @@ Choosing the right specialization dictates 80% of your initial campus placement 
 * **Top Recruiters:** Goldman Sachs, Moody's Analytics, TresVista, HDFC Bank, ICICI Securities, EY, Grant Thornton.
 
 ### 2. Marketing & Digital E-Commerce
-* **Best Colleges in NCR:** [Jaipuria Noida](/blog/all-about-jaipuria-noida), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [NDIM Delhi](/blog/all-about-ndim-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi).
+* **Best Colleges in NCR:** [Jaipuria Noida](/blog/all-about-jaipuria-noida), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [NDIM Delhi](/blog/ndim-delhi-review-2026), [FIIB Delhi](/blog/all-about-fiib-delhi).
 * **Key Roles:** Brand Strategist, Area Sales Manager (ASM), Digital Marketing Lead, Category Specialist, Client Servicing.
 * **Top Recruiters:** Hindustan Unilever, ITC, Nestle, Amazon, Flipkart, Dabur, Asian Paints, Marico.
 
@@ -221,7 +221,7 @@ If you scored between 60–85%ile or missed the CAT sectional cutoff, several to
 ## 7. Frequently Asked Questions (FAQs) for CAT 2026-2027 Candidates
 
 ### Q1. Can I get admission in a top Delhi NCR PGDM college with a 70 percentile in CAT 2026?
-**Yes.** Colleges like [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM Delhi](/blog/all-about-ndim-delhi), and [GIMS Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims) actively interview candidates in the 65–75 percentile range, provided they clear the GD-PI rounds.
+**Yes.** Colleges like [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM Delhi](/blog/ndim-delhi-review-2026), and [GIMS Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims) actively interview candidates in the 65–75 percentile range, provided they clear the GD-PI rounds.
 
 ### Q2. Is PGDM from Greater Noida colleges recognized for PSU jobs and PhD admissions?
 **Yes, provided the program has AIU (Association of Indian Universities) Equivalence and AICTE approval.** Most established colleges in Greater Noida like [BIMTECH](/blog/all-about-bimtech-greater-noida) and [GL Bajaj](/blog/all-about-gl-bajaj-greater-noida) hold AIU equivalence, making the PGDM legally identical to an MBA degree.

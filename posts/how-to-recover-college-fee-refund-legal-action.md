@@ -95,7 +95,7 @@ If the college is also holding your **Original Certificates** and refusing to re
 **Don't let them keep your hard-earned money.**
 The law is on your side. If you are being harassed, act today.
 
-[👉 Download the Latest UGC Refund Circular 2026](/resources/ugc-circular.pdf)
+[👉 Download the Latest UGC Refund Circular 2026](/blog)
 [👉 Need help drafting a legal notice? Talk to our experts](/inquiry)
 
 **Not sure if your college is actually approved?**

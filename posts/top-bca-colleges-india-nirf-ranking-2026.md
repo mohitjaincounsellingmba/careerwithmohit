@@ -121,7 +121,7 @@ In about 70-80% of top-tier colleges, Mathematics at 10+2 is a mandatory require
 ### Useful Links:
 - [BCA vs B.Tech — Which is Better?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 - [Top BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2026)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide)
 
 ---
 

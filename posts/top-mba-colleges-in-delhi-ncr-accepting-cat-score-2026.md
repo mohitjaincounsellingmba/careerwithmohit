@@ -97,7 +97,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[FMS Delhi (Faculty of Management Studies)](/colleges/fms-delhi)** | New Delhi | 99.3+ %ile | ₹2.00 Lakhs | ₹34.10 LPA | ₹1.23 Crore |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurgaon, NCR | 94 – 96 %ile | ₹26.00 Lakhs | ₹26.70 LPA | ₹60.00 LPA |
-| **[IIT Delhi (DMS)](/colleges/iit-colleges-review)** | New Delhi | 97 – 98 %ile | ₹12.00 Lakhs | ₹25.82 LPA | ₹41.13 LPA |
+| **[IIT Delhi (DMS)](/blog/all-about-iiit-colleges-review)** | New Delhi | 97 – 98 %ile | ₹12.00 Lakhs | ₹25.82 LPA | ₹41.13 LPA |
 | **[IIFT Delhi](/colleges/iift-delhi)** | New Delhi | 96 – 98 %ile | ₹21.75 Lakhs | ₹29.10 LPA | ₹85.40 LPA |
 | **[IMI New Delhi](/colleges/imi-delhi)** | New Delhi | 88 – 90 %ile | ₹21.00 Lakhs | ₹17.01 LPA | ₹50.00 LPA |
 | **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.80 LPA | ₹30.00 LPA |

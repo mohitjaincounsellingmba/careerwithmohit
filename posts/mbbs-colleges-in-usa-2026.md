@@ -68,7 +68,7 @@ Unlike India, the US medical system requires an **8-year pathway**:
 
 ## 🔗 Related Resources
 
-* [SAT, IELTS & TOEFL Exams Guide 2026](/blog/sat-ielts-toefl-gre-exams-guide-2026)
+* [SAT, IELTS & TOEFL Exams Guide 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
 * [MBBS Abroad 2026 Guide](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
 ---
 

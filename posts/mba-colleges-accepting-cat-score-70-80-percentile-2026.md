@@ -71,12 +71,12 @@ In this guide, expert education counselor **Mohit Jain** provides an authoritati
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | New Delhi | 70 – 75 %ile | ₹11.50 Lakhs | ₹10.20 LPA | ₹19.50 LPA |
 | **[JIMS Rohini](/colleges/jims-rohini)** | New Delhi | 72 – 75 %ile | ₹9.75 Lakhs | ₹9.20 LPA | ₹22.00 LPA |
 | **[XIME Bangalore](/colleges/xime-bangalore) / Chennai** | Bengaluru / Chennai | 70 – 75 %ile | ₹12.50 Lakhs | ₹10.30 LPA | ₹18.00 LPA |
-| **[Welingkar Institute of Management (WeSchool)](/colleges/welingkar)** | Mumbai / Bengaluru | 75 – 80 %ile (Profile) | ₹15.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA |
+| **[Welingkar Institute of Management (WeSchool)](/colleges/welingkar-bangalore)** | Mumbai / Bengaluru | 75 – 80 %ile (Profile) | ₹15.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA |
 | **[Christ University School of Business](/colleges/christ-university-bangalore)** | Bengaluru, Karnataka | 70 – 75 %ile | ₹10.50 Lakhs | ₹9.50 LPA | ₹21.46 LPA |
-| **[SIES College of Management Studies](/colleges/sies-mumbai)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
-| **[IBS Hyderabad (ICFAI)](/colleges/ibs-campuses)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
+| **[SIES College of Management Studies](/blog/all-about-itm-mumbai)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
+| **[IBS Hyderabad (ICFAI)](/blog/all-about-ibs-campuses)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
 | **[ITM Business School](/colleges/itm-mumbai)** | Navi Mumbai / Chennai | 70 – 75 %ile | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA |
-| **[Chetana's R.K. Institute (CRKIMSR)](/colleges/chetana-mumbai)** | Mumbai | 75 – 80 %ile | ₹9.50 Lakhs | ₹9.10 LPA | ₹17.50 LPA |
+| **[Chetana's R.K. Institute (CRKIMSR)](/blog/chetana-mumbai-review-2026)** | Mumbai | 75 – 80 %ile | ₹9.50 Lakhs | ₹9.10 LPA | ₹17.50 LPA |
 
 ---
 
@@ -90,7 +90,7 @@ In this guide, expert education counselor **Mohit Jain** provides an authoritati
 While BIMTECH's core PGDM requires an 80+ percentile, its nationally recognized specialized programs — **PGDM in Insurance Business Management (IBM)** and **PGDM in Retail Management (RM)** — actively shortlist candidates in the **70 to 75 percentile bracket**.
 *   **Key Advantage:** IBM students enjoy near 100% placement with marquee insurers, brokers, and consultancies (Swiss Re, Marsh, Bajaj Allianz, HDFC ERGO).
 
-### 2. [SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon
+### 2. [SOIL Institute of Management](/colleges/soil-gurgaon), Gurgaon
 Located right in the cyber hub of Gurgaon, SOIL focuses heavily on leadership, design thinking, and analytics.
 *   **Key Advantage:** Excellent recruiter access across Gurgaon IT and consulting corridors (Cognizant, Infosys, Schneider Electric, HCL Tech).
 

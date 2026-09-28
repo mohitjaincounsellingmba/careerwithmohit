@@ -794,9 +794,9 @@ In almost all private B-schools, hostel and mess charges are separate, typically
 ---
 
 *Explore related MBA admission guides on CareerWithMohit:*
-- [NDIM Delhi PGDM / MBA Admission 2027-29 Full Guide](file:///posts/ndim-delhi-pgdm-mba-2027-29-fee-admission-process.md)
-- [Top UGC-DEB Approved Online Universities in India 2027](file:///posts/top-ugc-deb-approved-online-universities-in-india-2027-fees-list.md)
-- [Online MBA vs Distance MBA vs Executive MBA Comparison](file:///posts/online-mba-vs-distance-mba-vs-executive-mba-which-is-best-2027.md)
+- [NDIM Delhi PGDM / MBA Admission 2027-29 Full Guide](/colleges/ndim-delhi)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Online MBA vs Distance MBA vs Executive MBA Comparison](/blog/online-mba-vs-distance-mba-vs-executive-mba-which-is-best-2027)
 
 ---
 

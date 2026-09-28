@@ -103,7 +103,7 @@ The **MMS** is a 2-year professional master’s degree awarded by state universi
 
 ### Placements and Fees
 *   **The ROI King**: [JBIMS Mumbai](/colleges/jbims-mumbai) (Fees: ~₹6.0 Lakhs for 2 years | Avg Package: ~₹28.0 LPA).
-*   **High Value**: [SIMSREE Mumbai](/colleges/simsree-mumbai) (Fees: ~₹1.36 Lakhs for 2 years | Avg Package: ~₹15.1 LPA).
+*   **High Value**: [SIMSREE Mumbai](/blog/direct-admission-simsree-mumbai-mms-pgdm-2026) (Fees: ~₹1.36 Lakhs for 2 years | Avg Package: ~₹15.1 LPA).
 *   **Top University Department**: [PUMBA Pune](/colleges/pumba-pune) (Fees: ~₹1.3 Lakhs for 2 years | Avg Package: ~₹8.1 LPA).
 
 ---

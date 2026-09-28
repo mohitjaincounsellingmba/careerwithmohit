@@ -122,7 +122,7 @@ Most universities have their primary intake in **September/October**. Some also 
 ### Useful Links:
 - [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
 - [UP NEET Counselling 2026 — Process & Fees](/blog/up-neet-counselling-2026-guide)
-- [How to Prepare for NEXT Exam 2026](/blog/next-exam-preparation-guide)
+- [How to Prepare for NEXT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
 
 ---
 

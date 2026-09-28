@@ -66,14 +66,14 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-colleges-placements-fees-selection-2026)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
-| **[MICA Ahmedabad](/colleges/all-about-nmims-campuses)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
-| **[Institute of Management, Nirma Univ (IMNU)](/colleges/all-about-nmims-campuses)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
-| **[EDII Ahmedabad](/colleges/all-about-entrepreneurship-development-institute-of-india)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |
-| **[SPM - PDEU Gandhinagar](/colleges/all-about-symbiosis-mba-institutes)** (MBA Energy/General) | Raysan, Gandhinagar | ₹9.50 Lakhs | ₹9.40 LPA | CAT / XAT / NMAT (75+ %ile) |
-| **[Amrut Mody School of Mgmt (AU)](/colleges/all-about-ahmedabad-university)** (MBA) | Navrangpura | ₹10.00 Lakhs | ₹8.20 LPA | CAT / XAT / CMAT / MAT / AU Test |
-| **[Shanti Business School (SBS)](/colleges/all-about-shanti-business-school)** (PGDM) | Shela, Bopal | ₹7.85 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / ATMA (60+ %ile) |
-| **[BK School of Mgmt Studies](/colleges/all-about-ahmedabad-university)** (Gujarat Univ) | Navrangpura | ₹50,000 | ₹6.50 LPA | CMAT (90+ %ile) / ACPC Merit |
+| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2026)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
+| **[MICA Ahmedabad](/blog/all-about-nmims-campuses)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
+| **[Institute of Management, Nirma Univ (IMNU)](/blog/all-about-nmims-campuses)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
+| **[EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |
+| **[SPM - PDEU Gandhinagar](/blog/all-about-symbiosis-mba-institutes)** (MBA Energy/General) | Raysan, Gandhinagar | ₹9.50 Lakhs | ₹9.40 LPA | CAT / XAT / NMAT (75+ %ile) |
+| **[Amrut Mody School of Mgmt (AU)](/blog/all-about-abbs-school-of-management)** (MBA) | Navrangpura | ₹10.00 Lakhs | ₹8.20 LPA | CAT / XAT / CMAT / MAT / AU Test |
+| **[Shanti Business School (SBS)](/blog/all-about-shanti-business-school)** (PGDM) | Shela, Bopal | ₹7.85 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / ATMA (60+ %ile) |
+| **[BK School of Mgmt Studies](/blog/all-about-abbs-school-of-management)** (Gujarat Univ) | Navrangpura | ₹50,000 | ₹6.50 LPA | CMAT (90+ %ile) / ACPC Merit |
 
 ---
 

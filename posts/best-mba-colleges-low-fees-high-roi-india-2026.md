@@ -129,7 +129,7 @@ NO. Government ROI colleges (FMS, JBIMS, PUMBA) have no management quota. Admiss
 
 ### Useful Links:
 - [Top MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026)
-- [Top MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
+- [Top MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
 - [Unive Under 10 Lakhs MBA Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
 
 ---

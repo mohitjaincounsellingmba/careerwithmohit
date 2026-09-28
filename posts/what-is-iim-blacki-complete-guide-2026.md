@@ -172,7 +172,7 @@ Scoring a 99.8 percentile in CAT does not automatically guarantee admission to a
 If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like [IIM Udaipur](/colleges/iim-udaipur), IIM Trichy, [IIM Ranchi](/colleges/iim-ranchi)) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)** (like [IIM Nagpur](/colleges/iim-nagpur), [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Amritsar](/colleges/iim-amritsar)) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
 
 To make an informed choice across the entire IIM hierarchy, explore our detailed comparative guides:
-*   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
+*   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
 *   [Baby IIMs Review 2026: Complete Honest Analysis of Fees, Placements & ROI](/blog/baby-iims-review-2026-honest-analysis)
 
 ---

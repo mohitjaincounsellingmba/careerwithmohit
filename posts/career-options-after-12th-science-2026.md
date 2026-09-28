@@ -46,7 +46,7 @@ This guide breaks down the best career paths for science students based on their
 Engineering continues to be the most popular choice. However, the focus has shifted toward specialized branches.
 *   **Top Specializations:** AI & Machine Learning, Cybersecurity, Robotics, Data Science, and Renewable Energy.
 *   **Starting Salary:** ₹5 LPA to ₹12 LPA (Top IIT/NIT graduates can cross ₹40 LPA).
-*   **Internal Link:** Estimate your college with the [JEE Main College Predictor 2026](/tools/jee-main-predictor).
+*   **Internal Link:** Estimate your college with the [JEE Main College Predictor 2026](/blog/cuet-pg-predictor-2026-mba-colleges).
 
 #### **Architecture (B.Arch)**
 For those who blend creativity with technical precision.

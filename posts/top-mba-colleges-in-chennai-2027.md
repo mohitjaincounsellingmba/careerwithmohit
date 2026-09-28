@@ -67,14 +67,14 @@ In this 2027 verified admission review, senior education consultant **Mohit Jain
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Great Lakes Chennai (GLIM)](/colleges/all-about-great-lakes-campuses)** (1-Yr PGPM / 2-Yr PGDM) | ECR, Manamai | ₹18.50 – ₹21.50 Lakhs | ₹17.80 LPA | CAT / XAT / CMAT / GMAT (85+ %ile) |
-| **[DoMS IIT Madras](/colleges/doms-iit-madras-mba-review-2027-fees-placements-cutoff)** (MBA) | Sardar Patel Rd, Guindy | ₹12.50 Lakhs | ₹16.90 LPA | CAT (96.0+ %ile) |
-| **[LIBA Chennai (Loyola)](/colleges/all-about-loyola-college-chennai-bba-admission-2026)** (PGDM) | Nungambakkam | ₹17.50 Lakhs | ₹11.20 LPA | CAT / XAT (80.0+ %ile) |
-| **[IFMR GSB (Krea University)](/colleges/all-about-institute-of-insurance-and-risk-management)** (MBA) | Sri City (Chennai Belt) | ₹16.00 Lakhs | ₹13.50 LPA | CAT / XAT / CMAT / NMAT / GRE / GMAT |
-| **[SSN School of Management](/colleges/all-about-ssn-school-of-management)** (MBA) | Kalavakkam, OMR | ₹7.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / TANCET |
-| **[SRM School of Management](/colleges/all-about-srm-university-campuses)** (MBA) | Kattankulathur | ₹9.50 Lakhs | ₹7.50 LPA | SRMJEEM / CAT / MAT / CMAT / Direct |
-| **[Rajalakshmi School of Business](/colleges/all-about-rajalakshmi-school-of-business)** (PGDM) | Chembarambakkam | ₹7.80 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT |
-| **[Crescent School of Business](/colleges/all-about-crescent-school-of-business)** (MBA) | Vandalur | ₹7.00 Lakhs | ₹6.50 LPA | MAT / CMAT / TANCET / Direct |
+| **[Great Lakes Chennai (GLIM)](/blog/all-about-great-lakes-campuses)** (1-Yr PGPM / 2-Yr PGDM) | ECR, Manamai | ₹18.50 – ₹21.50 Lakhs | ₹17.80 LPA | CAT / XAT / CMAT / GMAT (85+ %ile) |
+| **[DoMS IIT Madras](/blog/doms-iit-madras-mba-review-2027-fees-placements-cutoff)** (MBA) | Sardar Patel Rd, Guindy | ₹12.50 Lakhs | ₹16.90 LPA | CAT (96.0+ %ile) |
+| **[LIBA Chennai (Loyola)](/blog/all-about-loyola-college-chennai-bba-admission-2026)** (PGDM) | Nungambakkam | ₹17.50 Lakhs | ₹11.20 LPA | CAT / XAT (80.0+ %ile) |
+| **[IFMR GSB (Krea University)](/blog/all-about-institute-of-insurance-and-risk-management)** (MBA) | Sri City (Chennai Belt) | ₹16.00 Lakhs | ₹13.50 LPA | CAT / XAT / CMAT / NMAT / GRE / GMAT |
+| **[SSN School of Management](/blog/all-about-ssn-school-of-management)** (MBA) | Kalavakkam, OMR | ₹7.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / TANCET |
+| **[SRM School of Management](/blog/all-about-srm-university-campuses)** (MBA) | Kattankulathur | ₹9.50 Lakhs | ₹7.50 LPA | SRMJEEM / CAT / MAT / CMAT / Direct |
+| **[Rajalakshmi School of Business](/blog/all-about-rajalakshmi-school-of-business)** (PGDM) | Chembarambakkam | ₹7.80 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT |
+| **[Crescent School of Business](/blog/all-about-crescent-school-of-business)** (MBA) | Vandalur | ₹7.00 Lakhs | ₹6.50 LPA | MAT / CMAT / TANCET / Direct |
 
 ---
 

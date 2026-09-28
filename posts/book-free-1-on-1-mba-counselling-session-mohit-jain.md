@@ -148,7 +148,7 @@ Here is a sample of the ROI matrix examined during the 1-on-1 video session:
 | **[SIBM Pune](/colleges/sibm-pune)** | MBA (General) | ₹25.0 Lakhs | ₹24.0 LPA | SNAP Exam (98.5+ percentile); excellent FMCG/BFSI placements |
 | **[NMIMS Mumbai](/colleges/nmims-mumbai)** | MBA Core | ₹26.0 Lakhs | ₹19.5 LPA | NMAT Exam (235+ score); premier Mumbai finance hub |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | PGDM | ₹14.5 Lakhs | ₹11.2 LPA | CAT/XAT/CMAT (75-80 percentile); strong insurance & analytics |
-| **[FORE School of Management](/colleges/fore-school-of-management)** | PGDM | ₹18.0 Lakhs | ₹14.5 LPA | Delhi corporate location; 85+ CAT/XAT percentile |
+| **[FORE School of Management](/blog/direct-admission-fore-school-of-management-delhi-2026)** | PGDM | ₹18.0 Lakhs | ₹14.5 LPA | Delhi corporate location; 85+ CAT/XAT percentile |
 | **[Direct/Institutional Options](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026)** | MBA / PGDM | ₹4.5 – 9.0 Lakhs | ₹6.5 – 8.5 LPA | Direct merit & institutional rounds; budget-friendly ROI |
 
 ---

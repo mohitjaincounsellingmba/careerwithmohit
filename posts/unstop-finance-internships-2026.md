@@ -175,7 +175,7 @@ Applying for finance internships on Unstop is simple, intuitive, and completely 
 ### **Related Career & Educational Resources**
 - [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026)
 - [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [Top MBA Colleges in Delhi NCR 2026: Rankings, Fees & Placement Reports](/blog/top-mba-colleges-delhi-ncr-2026)
+- [Top MBA Colleges in Delhi NCR 2026: Rankings, Fees & Placement Reports](/colleges/mba-colleges-delhi-ncr)
 - [GDPI Interview Topics and Solutions for MBA Admissions 2027–2029](/blog/gdpi-interview-topics-solutions-mba)
 - [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2026)
 

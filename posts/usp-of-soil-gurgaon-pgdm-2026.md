@@ -51,11 +51,11 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** keeps appearing on "most unique" and "hidden gem" lists — this post explains exactly why.
+If you've been shortlisting B-schools in Delhi-NCR and wondering why **[SOIL Institute of Management](/colleges/soil-gurgaon), Gurgaon** keeps appearing on "most unique" and "hidden gem" lists — this post explains exactly why.
 
 SOIL doesn't compete on the traditional B-school metrics of CAT cutoffs and campus size. It competes on **the kind of leader it produces** — and that's a distinction very few institutes in India can claim.
 
-Here are the **10 real USPs of [SOIL Institute of Management](/colleges/soil-institute-gurgaon), Gurgaon** for the 2027–29 batch.
+Here are the **10 real USPs of [SOIL Institute of Management](/colleges/soil-gurgaon), Gurgaon** for the 2027–29 batch.
 
 ---
 

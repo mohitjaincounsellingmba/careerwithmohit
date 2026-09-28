@@ -217,7 +217,7 @@ Kolkata is a historic center of learning with premier institutes like [IIM Calcu
 
 ### D. Pune (Maharashtra)
 
-Pune, celebrated as the "Oxford of the East," is a premier destination for management studies with powerhouse institutions like [SIBM Pune](/blog/all-about-sibm-pune), [SCMHRD Pune](/blog/all-about-scmhrd-pune), [PUMBA](/blog/all-about-pumba-pune), and [NIBM Pune](/blog/all-about-nibm-pune).
+Pune, celebrated as the "Oxford of the East," is a premier destination for management studies with powerhouse institutions like [SIBM Pune](/blog/all-about-sibm-pune), [SCMHRD Pune](/blog/all-about-scmhrd-pune), [PUMBA](/colleges/pumba-pune), and [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026).
 
 #### Key Risks in Pune:
 1. **Unapproved Autonomous PGDM Institutes in Hinjewadi & Wakad:** Mushrooming private academies offering "Corporate Industry-Ready PGDM" without obtaining AICTE sanction or Savitribai Phule Pune University (SPPU) affiliation.
@@ -228,7 +228,7 @@ Pune, celebrated as the "Oxford of the East," is a premier destination for manag
 
 ### E. Mumbai (Maharashtra)
 
-Mumbai boasts top-tier institutions including [JBIMS Mumbai](/blog/all-about-jbims-mumbai), [SPJIMR Mumbai](/blog/all-about-spjimr-mumbai), [NMIMS Mumbai](/blog/all-about-nmims-mumbai), and [Welingkar Mumbai](/blog/all-about-welingkar).
+Mumbai boasts top-tier institutions including [JBIMS Mumbai](/blog/all-about-jbims-mumbai), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [NMIMS Mumbai](/blog/all-about-nmims-mumbai), and [Welingkar Mumbai](/blog/all-about-welingkar).
 
 #### Key Risks in Mumbai & Navi Mumbai:
 * **Navi Mumbai & Thane Unapproved Management Trusts:** Private coaching setups in Vashi, Belapur, and Thane that promise "Distance MBA in 6 Months" or "Fast-Track Executive MBA" with backdated degree certificates.

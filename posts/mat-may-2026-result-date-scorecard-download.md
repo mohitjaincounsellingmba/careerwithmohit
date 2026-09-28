@@ -127,8 +127,8 @@ Once you receive your score, these are the top MBA institutes accepting MAT acro
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** – Composite score 500+ preferred
 - **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** – Strong MAT-accepting B-School
-- **[NDIM Delhi](/blog/all-about-ndim-delhi)** – Direct admissions with MAT score
-- **[NIBM Pune](/blog/all-about-nibm-pune)** – Banking & Finance MBA accepting MAT
+- **[NDIM Delhi](/blog/ndim-delhi-review-2026)** – Direct admissions with MAT score
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** – Banking & Finance MBA accepting MAT
 - **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** – Top PGDM college accepting MAT
 
 For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**

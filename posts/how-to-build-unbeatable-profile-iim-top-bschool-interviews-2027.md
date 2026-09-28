@@ -62,7 +62,7 @@ Whether you are a college fresher aiming for 2027 admissions or a working profes
 
 > 📝 **Want Your Profile Evaluated by IIM Alumni Mentors?**
 >
-> [👉 Get a Free 1-on-1 Profile Audit & SOP Review with Mohit Jain](/direct-admission)
+> [👉 Get a Free 1-on-1 Profile Audit & SOP Review with Mohit Jain](/blog/best-bba-colleges-jaipur-direct-admission-2026)
 
 ---
 
@@ -210,7 +210,7 @@ Follow this battle-tested 5-paragraph template:
 ### Get Your Profile Audited Today!
 
 * 📞 **Profile Evaluation Desk:** Direct one-on-one session with **Mohit Jain**.
-* 📋 **[Submit Your Resume for Free SOP Review](/direct-admission)** to receive detailed feedback before applying to top b-schools.
+* 📋 **[Submit Your Resume for Free SOP Review](/blog/best-bba-colleges-jaipur-direct-admission-2026)** to receive detailed feedback before applying to top b-schools.
 
 ---
 

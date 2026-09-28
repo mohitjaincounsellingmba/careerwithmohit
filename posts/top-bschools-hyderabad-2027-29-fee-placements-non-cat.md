@@ -85,7 +85,7 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 
 ### 3. [Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM), Hyderabad
 * **Highlights**: AICTE approved and NBA accredited autonomous institute established in 1993.
-* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/blog/all-about-vigna-jyothi-institute-of-management).
+* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/blog/all-about-abbs-school-of-management).
 
 ### 4. [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) (SSIM), Hyderabad
 * **Highlights**: Over 30 years of academic legacy in management education in Secunderabad/Hyderabad.

@@ -99,7 +99,7 @@ The admission cycle typically begins in **December/January** for the July intake
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Bangalore 2026](/blog/best-mba-colleges-in-bangalore-2026)
-- [MBA Admission Guide 2027–29](/blog/mba-pgdm-admissions-2027–2029-complete-guide)
+- [MBA Admission Guide 2027–29](/blog/acca-benefits-with-mba-career-guide-2026)
 - [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india)
 
 [👉 Get expert help for your Christ University application today!](/inquiry)

@@ -247,7 +247,7 @@ FIIB structures its learning models around future-facing business needs:
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[FIIB South Delhi](/colleges/fiib-delhi)** | **₹12.85 Lakhs** | **₹8.50 – ₹9.00 LPA** | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
-| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
 | **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
 | **[JIMS Kalkaji](/blog/all-about-jims-kalkaji)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |
