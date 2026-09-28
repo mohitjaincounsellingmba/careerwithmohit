@@ -221,6 +221,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  // Dynamic abroad education country destination hubs
+  const { ABROAD_DESTINATIONS } = require('@/data/abroadDestinations');
+  const abroadCountryRoutes = Object.keys(ABROAD_DESTINATIONS).map((slug) => ({
+    url: `${baseUrl}/abroad-education/${slug}/`,
+    lastModified: buildDate,
+    changeFrequency: 'weekly' as const,
+    priority: 0.9,
+  }));
+
   // Dynamic abroad education college routes
   const abroadRoutes = ABROAD_COLLEGES.map((college) => ({
     url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}/`,
@@ -243,6 +252,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...collegeRoutes,
     ...examRoutes,
     ...resourceRoutes,
+    ...abroadCountryRoutes,
     ...abroadRoutes,
     ...onlineUniversityRoutes,
   ];

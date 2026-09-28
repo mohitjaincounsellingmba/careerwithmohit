@@ -1,9 +1,11 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { ABROAD_COLLEGES } from '@/data/abroadColleges';
+import { ABROAD_DESTINATIONS } from '@/data/abroadDestinations';
 import { generateCollegeSlug } from '@/lib/slugify';
 import { MapPin, Award, CheckCircle2, DollarSign, Clock, BookOpen, Building2 } from 'lucide-react';
 import { JsonLd } from '@/components/JsonLd';
+import CountryStudyAbroadClient from '@/components/CountryStudyAbroadClient';
 import Link from 'next/link';
 
 interface Props {
@@ -13,13 +15,49 @@ interface Props {
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  return ABROAD_COLLEGES.map((college) => ({
+  const destinationSlugs = Object.keys(ABROAD_DESTINATIONS).map((slug) => ({
+    slug,
+  }));
+
+  const collegeSlugs = ABROAD_COLLEGES.map((college) => ({
     slug: generateCollegeSlug(college.name, college.location),
   }));
+
+  return [...destinationSlugs, ...collegeSlugs];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+
+  // 1. Check if slug is a Country Study Abroad Destination Hub
+  if (ABROAD_DESTINATIONS[slug]) {
+    const dest = ABROAD_DESTINATIONS[slug];
+    return {
+      title: dest.title,
+      description: dest.description,
+      alternates: {
+        canonical: `https://careerwithmohit.online/abroad-education/${slug}/`,
+      },
+      keywords: [
+        `study in ${dest.country}`,
+        `study in ${dest.country} 2027`,
+        `${dest.country} universities fees`,
+        `${dest.country} post study work visa`,
+        `${dest.country} scholarships for indian students`,
+        `MS in ${dest.country}`,
+        `MBA in ${dest.country}`,
+        `study abroad ${dest.country} admissions`
+      ],
+      openGraph: {
+        title: dest.h1,
+        description: dest.description,
+        url: `https://careerwithmohit.online/abroad-education/${slug}/`,
+        images: ['https://careerwithmohit.online/og-abroad-education.png'],
+      },
+    };
+  }
+
+  // 2. Check if slug is an individual college
   const college = ABROAD_COLLEGES.find(
     (c) => generateCollegeSlug(c.name, c.location) === slug
   );
@@ -31,7 +69,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${college.name} Fees & Admission 2027`,
     alternates: {
-      canonical: `/abroad-education/${slug}/`,
+      canonical: `https://careerwithmohit.online/abroad-education/${slug}/`,
     },
     description: `Explore admissions, fees (${college.fee}), programs, and accreditations (${college.accreditation}) for ${college.name} located in ${college.location}. Get expert admission assistance for 2027.`,
     keywords: [
@@ -53,6 +91,50 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function CollegePage({ params }: Props) {
   const { slug } = await params;
+
+  // 1. Render Country Study Destination Hub
+  if (ABROAD_DESTINATIONS[slug]) {
+    const dest = ABROAD_DESTINATIONS[slug];
+    
+    const countryJsonLd = {
+      '@context': 'https://schema.org',
+      '@type': 'WebPage',
+      name: dest.h1,
+      description: dest.description,
+      url: `https://careerwithmohit.online/abroad-education/${slug}/`,
+      breadcrumb: {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://careerwithmohit.online/' },
+          { '@type': 'ListItem', position: 2, name: 'Abroad Education', item: 'https://careerwithmohit.online/abroad-education/' },
+          { '@type': 'ListItem', position: 3, name: dest.country, item: `https://careerwithmohit.online/abroad-education/${slug}/` }
+        ]
+      }
+    };
+
+    const faqJsonLd = {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: dest.faqs.map(faq => ({
+        '@type': 'Question',
+        name: faq.q,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: faq.a
+        }
+      }))
+    };
+
+    return (
+      <>
+        <JsonLd data={countryJsonLd} />
+        <JsonLd data={faqJsonLd} />
+        <CountryStudyAbroadClient destination={dest} />
+      </>
+    );
+  }
+
+  // 2. Render Individual University Page
   const college = ABROAD_COLLEGES.find(
     (c) => generateCollegeSlug(c.name, c.location) === slug
   );

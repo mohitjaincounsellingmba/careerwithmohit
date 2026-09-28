@@ -70,7 +70,6 @@ if (fs.existsSync(COLLEGES_DIR)) {
 // 1d. Abroad education dynamic routes
 try {
   const abroadCollegesContent = fs.readFileSync(path.join(DATA_DIR, 'abroadColleges.ts'), 'utf8');
-  // Simple regex extraction of abroad colleges or use static params
   const nameLocMatches = [...abroadCollegesContent.matchAll(/name:\s*['"]([^'"]+)['"],\s*location:\s*['"]([^'"]+)['"]/g)];
   nameLocMatches.forEach(m => {
     const name = m[1];
@@ -78,8 +77,14 @@ try {
     const slug = `${name}-${loc}`.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
     validRoutes.add(normalizeRoute(`/abroad-education/${slug}`));
   });
+
+  const abroadDestContent = fs.readFileSync(path.join(DATA_DIR, 'abroadDestinations.ts'), 'utf8');
+  const destSlugs = [...abroadDestContent.matchAll(/'(study-in-[a-z0-9\-]+)':\s*{/g)].map(m => m[1]);
+  destSlugs.forEach(slug => {
+    validRoutes.add(normalizeRoute(`/abroad-education/${slug}`));
+  });
 } catch (e) {
-  console.log('Abroad colleges parse note:', e.message);
+  console.log('Abroad destinations parse note:', e.message);
 }
 
 // 1e. Online degree certification dynamic routes
