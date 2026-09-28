@@ -51,6 +51,7 @@ export const metadata: Metadata = {
     google: process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION || "fE7d3H-B_zJ8-nS9u2G5v-Xk4m-L0p3Q1W2E4R5T6Y7",
     other: {
       "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION || "B6D0F55359D960CA2DE85C38481A08D1",
+      "p:domain_verify": "4c9220342f1f166f04405394b2d6335e",
     }
   },
   openGraph: {
@@ -88,6 +89,7 @@ export const metadata: Metadata = {
     },
   },
   other: {
+    "p:domain_verify": "4c9220342f1f166f04405394b2d6335e",
     "google-adsense-account": "ca-pub-4699585931687069",
     "geo.region": "IN-DL",
     "geo.placename": "Delhi NCR, India",
