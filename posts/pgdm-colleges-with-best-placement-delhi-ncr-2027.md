@@ -149,7 +149,7 @@ Here are the PGDM colleges in Delhi NCR with the best placement records for 2027
 | B-School Name | Location | 2-Yr Fee | Placement Badge |
 | :--- | :--- | :--- | :--- |
 | **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi)** | Tughlakabad | ₹11.50L - ₹13.75L (Total) | 100% Placements |
-| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka | ₹11.50 Lakhs (Total) | IIM Alumni Legacy |
+| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka | ₹11.95 Lakhs (Total) | IIM Alumni Legacy |
 | **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi)** | Vasant Vihar | ₹12.85 Lakhs (Total) | AACSB Member |
 | **[IILM Institute for Higher Education](/colleges/iilm-delhi)** | Lodhi Road | ₹12.90 Lakhs (Total) | Central Delhi |
 | **[JIMS Kalkaji (Jagannath International)](/colleges/jims-kalkaji)** | Kalkaji | ₹10.75 Lakhs (Total) | High ROI B-School |
@@ -192,7 +192,7 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |

@@ -70,7 +70,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 | **70 – 80 %ile** | **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore | ₹12.00 Lakhs | ₹10.75 LPA |
 | **70 – 80 %ile** | **JagSoM (IFIM)** | Bangalore | ₹15.90 Lakhs | ₹13.30 LPA |
 | **70 – 80 %ile** | **N L Dalmia** | Mumbai | ₹14.75 Lakhs | ₹10.50 LPA |
-| **60 – 70 %ile** | **FOSTIIMA Business School** | New Delhi | ₹11.50 Lakhs | ₹11.15 LPA |
+| **60 – 70 %ile** | **FOSTIIMA Business School** | New Delhi | ₹11.95 Lakhs | ₹11.15 LPA |
 | **60 – 70 %ile** | **NDIM New Delhi** | New Delhi | ₹11.50 Lakhs | ₹9.50 LPA |
 | **60 – 70 %ile** | **FIIB New Delhi** | New Delhi | ₹12.85 Lakhs | ₹8.50 LPA |
 | **60 – 70 %ile** | **[PIBM Pune](/colleges/pibm-pune)** | Pune | ₹10.25 Lakhs | ₹7.80 LPA |

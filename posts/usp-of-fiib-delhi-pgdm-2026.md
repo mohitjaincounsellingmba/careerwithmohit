@@ -224,7 +224,7 @@ FIIB may **not be ideal** if:
 | :--- | :--- | :--- | :--- |
 | **FIIB Delhi** | ₹12.90 L | ₹8.5 LPA | AACSB + Harvard Cases |
 | NDIM Delhi | ₹13.75 L | ₹10 LPA | Industry-Linked, Dual Spec |
-| FOSTIIMA | ₹11.50 L | ₹11.15 LPA | IIM-A Alumni Led |
+| FOSTIIMA | ₹11.95 L | ₹11.15 LPA | IIM-A Alumni Led |
 | DSB VIPS | ₹10.95 L | ₹9.2 LPA | NBA + FinTech Focus |
 | JKBS Gurgaon | ₹8.95 L | ₹9 LPA | Budget, 10-Acre Campus |
 

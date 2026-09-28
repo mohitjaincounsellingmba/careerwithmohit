@@ -116,7 +116,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 | # | College Name | Location | Program | Total Fees (2027–29) | Avg. CTC | Highest CTC | Approvals & Accreditations |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **NDIM Delhi** | New Delhi | PGDM | ₹14.00 Lakhs | ₹10.00 LPA | ₹24.00 LPA | AICTE · NBA · AIU Eq. · ASIC (UK) |
-| 2 | **FOSTIIMA Business School** | New Delhi | PGDM | ₹11.50 Lakhs | ₹11.15 LPA | ₹30.00 LPA | AICTE · IIMA Alumni Initiative |
+| 2 | **FOSTIIMA Business School** | New Delhi | PGDM | ₹11.95 Lakhs | ₹11.15 LPA | ₹30.00 LPA | AICTE · IIMA Alumni Initiative |
 | 3 | **FIIB Delhi** | New Delhi | PGDM | ₹12.85 Lakhs | ₹8.50 LPA | ₹25.92 LPA | AICTE · NBA · AIU Eq. · AACSB Member |
 | 4 | **Delhi School of Business (DSB)** | Pitampura, Delhi | PGDM | ₹11.50 Lakhs | ₹10.50 LPA | ₹23.90 LPA | AICTE · NBA · AIU Eq. |
 | 5 | **IILM Lodhi Road** | New Delhi | PGDM | ₹12.90 Lakhs | ₹8.60 LPA | ₹20.00 LPA | AICTE · NBA · AIU Eq. · SAQS |

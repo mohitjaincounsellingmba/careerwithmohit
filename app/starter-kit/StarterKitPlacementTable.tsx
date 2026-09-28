@@ -588,7 +588,7 @@ export const PLACEMENT_DATA_BY_PERCENTILE: PercentileTier[] = [
       {
         name: "FOSTIIMA Business School",
         location: "New Delhi, Delhi",
-        fees: "₹11.5 Lakhs (Total)",
+        fees: "₹11.95 Lakhs (Total)",
         cutoff: "50 - 65 CAT / MAT",
         avg_placement: "₹9.20 LPA",
         highest_placement: "₹25.0 LPA",

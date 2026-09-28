@@ -345,7 +345,7 @@ export const COLLEGES_DATA = [
     "name": "Fostiima Business School, Delhi",
     "avg": "₹11.15 LPA",
     "highest": "₹30.0 LPA",
-    "fees": "₹10.95 Lakhs"
+    "fees": "₹11.95 Lakhs"
   },
   {
     "name": "FUEL Business School",

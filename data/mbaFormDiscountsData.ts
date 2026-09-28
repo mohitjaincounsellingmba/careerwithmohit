@@ -89,7 +89,7 @@ export const MBA_FORM_COLLEGES: MbaFormCollege[] = [
     grade: 'A Rated',
     gradeColor: 'from-amber-500 to-orange-700',
     highlight: 'Faculty from IIM Ahmedabad pool with top corporate placement track.',
-    totalCourseFee: '₹11.50 Lakhs',
+    totalCourseFee: '₹11.95 Lakhs',
     topRecruiters: ['Deloitte', 'KPMG', 'Axis Bank', 'ICICI Bank', 'HDFC'],
     specializations: ['Marketing Management', 'Financial Management', 'HRM', 'Operations & Analytics'],
     popular: true

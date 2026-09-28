@@ -297,7 +297,7 @@ Admission to NDIM is conducted through a multi-stage evaluation assessing entran
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹13.75 Lakhs** | **₹10.00 LPA** | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
-| **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body · Prime Dwarka Campus |
+| **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body · Prime Dwarka Campus |
 | **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Hub |
 | **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹14.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
 | **[JIMS Rohini / Kalkaji](/blog/all-about-jims-kalkaji)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong NCR Corporate Network & Moderate Fees |

@@ -111,7 +111,7 @@ Here is a catalog of top-rated, fully approved PGDM colleges in India for the 20
 | College Name | Location | Fees | Highlight Badge |
 | :--- | :--- | :--- | :--- |
 | **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi)** | Tughlakabad, South Delhi | ₹11.50L - ₹13.75L (Total) | 100% Placements |
-| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka, West Delhi | ₹11.50 Lakhs (Total) | IIM Alumni Legacy |
+| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka, West Delhi | ₹11.95 Lakhs (Total) | IIM Alumni Legacy |
 | **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi)** | Vasant Vihar, South Delhi | ₹12.85 Lakhs (Total) | AACSB Member |
 | **[IILM Institute for Higher Education](/colleges/iilm-delhi)** | Lodhi Road, Central Delhi | ₹12.90 Lakhs (Total) | Central Delhi |
 | **[JIMS Kalkaji (Jagannath International)](/colleges/jims-kalkaji)** | Kalkaji, South Delhi | ₹10.75 Lakhs (Total) | High ROI B-School |

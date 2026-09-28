@@ -256,7 +256,7 @@ NDIM may **not be ideal** if:
 | College | Fees | Avg Package | NIRF Rank | Key USP |
 | :--- | :--- | :--- | :--- | :--- |
 | **NDIM Delhi** | ₹13.75 L | ₹10 LPA | #86 | Industry-linked, Dual Spec |
-| FOSTIIMA | ₹11.50 L | ₹11.15 LPA | Unranked | IIM-A Alumni Led |
+| FOSTIIMA | ₹11.95 L | ₹11.15 LPA | Unranked | IIM-A Alumni Led |
 | JIMS Rohini | ₹8.20 L | ₹7.5 LPA | Unranked | Budget-friendly |
 | Delhi School of Business | ₹12.00 L | ₹8.5 LPA | Unranked | VIPS Group |
 | FIIB Delhi | ₹11.50 L | ₹8.5 LPA | Unranked | Entrepreneurship Focus |

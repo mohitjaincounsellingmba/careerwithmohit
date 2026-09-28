@@ -171,7 +171,7 @@ Here is a curated list of top AICTE approved PGDM B-Schools in Delhi NCR for 202
 | College Name | Location | Fee Structure | Highlight |
 | :--- | :--- | :--- | :--- |
 | **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi)** | Tughlakabad | ₹11.50L - ₹13.75L (Total) | 100% Placements |
-| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka | ₹11.50 Lakhs (Total) | IIM Alumni Legacy |
+| **[FOSTIIMA Business School](/colleges/fostiima-delhi)** | Dwarka | ₹11.95 Lakhs (Total) | IIM Alumni Legacy |
 | **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi)** | Vasant Vihar | ₹12.85 Lakhs (Total) | AACSB Member |
 | **[IILM Institute for Higher Education](/colleges/iilm-delhi)** | Lodhi Road | ₹12.90 Lakhs (Total) | Central Delhi |
 | **[JIMS Kalkaji (Jagannath International)](/colleges/jims-kalkaji)** | Kalkaji | ₹10.75 Lakhs (Total) | High ROI B-School |

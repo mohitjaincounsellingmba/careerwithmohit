@@ -291,7 +291,7 @@ NDIM maintains a comprehensive scholarship framework to support deserving and di
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L – ₹13.75L | ₹9.50 – ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AICTE-CII Best Industry Connect · 420 Seats |
-| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body & South Delhi Corporate Hub |
+| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body & South Delhi Corporate Hub |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L – ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member, Triple Accreditations |
 | **JIMS Rohini / Kalkaji** | ₹9.50L – ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong Delhi NCR Corporate ROI |

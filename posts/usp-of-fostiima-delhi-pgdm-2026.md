@@ -36,7 +36,7 @@ faqs:
       FOSTIIMA stands for "Friends Of Seventy-Three [IIM
       Ahmedabad](/colleges/iim-ahmedabad)."
   - question: What is the total fee?
-    answer: ₹11.5 Lakhs for the 2027–29 PGDM batch.
+    answer: ₹11.95 Lakhs for the 2027–29 PGDM batch.
 location: Delhi NCR
 state: Delhi NCR
 category: MBA
@@ -53,7 +53,7 @@ Here are the **10 real USPs of FOSTIIMA Delhi** for the 2027–29 batch.
 | Parameter | Details |
 | :--- | :--- |
 | **Program** | PGDM (AICTE-approved, AIU MBA equivalent) |
-| **Total Fees** | ₹11.50 Lakhs |
+| **Total Fees** | ₹11.95 Lakhs |
 | **CAT/XAT Cutoff** | 60–75 Percentile |
 | **Average Package** | ₹11.15 LPA |
 | **Highest Package** | ₹30 LPA |
@@ -72,7 +72,7 @@ Here are the **10 real USPs of FOSTIIMA Delhi** for the 2027–29 batch.
 
 ### 2. 📈 ₹11.15 LPA Average Package — Best in Its Fee Band
 
-At a total fee of ₹11.5 Lakhs, FOSTIIMA delivers an average of **₹11.15 LPA** — the best ROI among private Delhi B-schools in this fee range:
+At a total fee of ₹11.95 Lakhs, FOSTIIMA delivers an average of **₹11.15 LPA** — the best ROI among private Delhi B-schools in this fee range:
 
 | Metric | Data |
 | :--- | :--- |
@@ -106,7 +106,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 
 | College | Fees | Avg Package | Payback |
 | :--- | :--- | :--- | :--- |
-| **FOSTIIMA** | ₹11.5 L | ₹11.15 LPA | ~13 months |
+| **FOSTIIMA** | ₹11.95 L | ₹11.15 LPA | ~13 months |
 | NDIM Delhi | ₹13.75 L | ₹10 LPA | ~17 months |
 | FIIB Delhi | ₹12.90 L | ₹8.5 LPA | ~18 months |
 
@@ -174,7 +174,7 @@ Students connect with senior professionals from all 20 IIMs and multiple IITs th
 Yes — by the 1973 batch of [IIM Ahmedabad](/colleges/iim-ahmedabad). FOSTIIMA stands for "Friends Of Seventy-Three [IIM Ahmedabad](/colleges/iim-ahmedabad)."
 
 **Q3. What is the total fee?**
-₹11.5 Lakhs for the 2027–29 PGDM batch.
+₹11.95 Lakhs for the 2027–29 PGDM batch.
 
 ---
 

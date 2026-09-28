@@ -166,7 +166,7 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 | **LBSIM Delhi (Dwarka)** | ₹15.50 Lakhs | ₹12.40 LPA | CAT 2026 / XAT 2027 (80-84 %ile) |
 | **SOIL Institute of Management, Gurgaon** | ₹15.30 Lakhs | ₹10.30 LPA | CAT 2026 / XAT 2027 / NMAT / GMAT |
 | **NDIM New Delhi (South Delhi)** | ₹11.50 Lakhs | ₹9.50 LPA | CAT 2026 / MAT / CMAT / XAT (60+ %ile) |
-| **FOSTIIMA Business School, Delhi** | ₹11.50 Lakhs | ₹11.15 LPA | CAT 2026 / MAT / XAT (60+ %ile) |
+| **FOSTIIMA Business School, Delhi** | ₹11.95 Lakhs | ₹11.15 LPA | CAT 2026 / MAT / XAT (60+ %ile) |
 | **FIIB New Delhi (Vasant Vihar)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
 | **JIMS Kalkaji, South Delhi** | ₹9.30 Lakhs | ₹8.10 LPA | CAT 2026 / MAT / CMAT (60+ %ile) |
 | **JIMS Rohini (Sector 5)** | ₹9.25 Lakhs | ₹8.00 LPA | CAT 2026 / MAT / CMAT / ATMA (60+ %ile) |
@@ -968,7 +968,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 | **70 – 80 %ile** | **XIME Bangalore** | Bangalore | ₹12.00 Lakhs | ₹10.75 LPA |
 | **70 – 80 %ile** | **JagSoM (IFIM)** | Bangalore | ₹15.90 Lakhs | ₹13.30 LPA |
 | **70 – 80 %ile** | **N L Dalmia** | Mumbai | ₹14.75 Lakhs | ₹10.50 LPA |
-| **60 – 70 %ile** | **FOSTIIMA Business School** | New Delhi | ₹11.50 Lakhs | ₹11.15 LPA |
+| **60 – 70 %ile** | **FOSTIIMA Business School** | New Delhi | ₹11.95 Lakhs | ₹11.15 LPA |
 | **60 – 70 %ile** | **NDIM New Delhi** | New Delhi | ₹11.50 Lakhs | ₹9.50 LPA |
 | **60 – 70 %ile** | **FIIB New Delhi** | New Delhi | ₹12.85 Lakhs | ₹8.50 LPA |
 | **60 – 70 %ile** | **PIBM Pune** | Pune | ₹10.25 Lakhs | ₹7.80 LPA |

@@ -19,7 +19,7 @@ const customColleges = {
     { name: "JIMS Rohini (Jagannath Institute of Management Studies)", fees: "₹8.7 Lakhs (Total)", exams: "CAT / MAT / CMAT", avgSalary: "₹7.5 LPA", highlight: "AICTE approved private PGDM program with premium corporate link-ups in North Delhi." },
     { name: "Fortune Institute of International Business (FIIB)", fees: "₹8.9 Lakhs (Total)", exams: "CAT / MAT / CMAT", avgSalary: "₹7.4 LPA", highlight: "Superb private business school focused on marketing, finance, and business analytics." },
     { name: "JIMS Kalkaji (Jagannath International Management School)", fees: "₹8.7 Lakhs (Total)", exams: "CAT / MAT / CMAT / XAT", avgSalary: "₹7.2 LPA", highlight: "Highly ranked private management school with active alumni and placement cells." },
-    { name: "FOSTIIMA Business School", fees: "₹9.0 Lakhs (Total)", exams: "CAT / MAT / CMAT / XAT", avgSalary: "₹8.0 LPA", highlight: "Founded by IIMA alumni, specializing in corporate readiness and placement support." },
+    { name: "FOSTIIMA Business School", fees: "₹11.95 Lakhs (Total)", exams: "CAT / MAT / CMAT / XAT", avgSalary: "₹11.15 LPA", highlight: "Founded by IIMA alumni, specializing in corporate readiness and placement support." },
     { name: "Asia-Pacific Institute of Management (APIM Delhi)", fees: "₹9.5 Lakhs (Total)", exams: "CAT / CMAT / MAT / GMAT", avgSalary: "₹7.5 LPA", highlight: "A highly established private B-school offering dual PGDM specializations." }
   ],
   "Noida": [

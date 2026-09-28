@@ -211,7 +211,7 @@ This triple credential at under ₹11 Lakhs makes DSB genuinely exceptional valu
 | College | Fees | Avg Package | Key USP |
 | :--- | :--- | :--- | :--- |
 | **DSB VIPS** | ₹10.95 L | ₹9.2 LPA | NBA + FinTech PGDM |
-| FOSTIIMA | ₹11.50 L | ₹11.15 LPA | IIM-A Alumni |
+| FOSTIIMA | ₹11.95 L | ₹11.15 LPA | IIM-A Alumni |
 | FIIB Delhi | ₹12.90 L | ₹8.5 LPA | AACSB accreditation |
 | JKBS Gurgaon | ₹8.95 L | ₹9 LPA | Budget, 10-acre campus |
 

@@ -41,7 +41,7 @@ faqs:
       budget?
     answer: >-
       Leading Tier-2 B-schools include NDIM Delhi (₹11.5L-₹13.75L, avg ₹9.5
-      LPA), FOSTIIMA Delhi (₹11.5L, avg ₹11.15 LPA), FIIB South Delhi (₹12.85L,
+      LPA), FOSTIIMA Delhi (₹11.95L, avg ₹11.15 LPA), FIIB South Delhi (₹12.85L,
       avg ₹8.5 LPA), Jaipuria Noida (₹15.5L, avg ₹11.29 LPA), and JIMS
       Rohini/Kalkaji (₹9.5L-₹9.75L, avg ₹8.1 LPA).
   - question: >-
@@ -76,7 +76,7 @@ Delhi NCR is India's most vibrant corporate hub for MBA and PGDM graduates. For 
 | **[FORE School of Management](/colleges/fore-school-delhi)** | Qutab Institutional Area | ₹18.25 Lakhs | ₹14.50 LPA | CAT / XAT / GMAT (85+ %ile) |
 | **LBSIM Delhi** | Dwarka, New Delhi | ₹16.50 Lakhs | ₹12.24 LPA | CAT / XAT (82+ %ile) |
 | **NDIM New Delhi** | Tughlakabad, South Delhi | ₹11.50L – ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) |
-| **FOSTIIMA Business School** | Dwarka, New Delhi | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) |
+| **FOSTIIMA Business School** | Dwarka, New Delhi | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) |
 | **FIIB Delhi** | Vasant Vihar, South Delhi | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** | Sector 62, Noida | ₹15.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) |
 | **JIMS Rohini (Sector 5)** | Rohini, North Delhi | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/XAT/CMAT (75%+ %ile) |

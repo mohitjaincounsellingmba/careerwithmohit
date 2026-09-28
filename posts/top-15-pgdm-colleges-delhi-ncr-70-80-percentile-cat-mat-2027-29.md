@@ -148,7 +148,7 @@ The structured comparison table below outlines the 2-year total tuition fees, av
 | :--- | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida)** | ₹14.75 Lakhs | **₹11.29 LPA** (Highest: ₹22.0 LPA) | ⭐⭐⭐⭐⭐ (Triple NBA Accredited, AIU Equivalent, Centralized Placements) | CAT: 75–80% \| MAT: 80–85% |
 | **[New Delhi Institute of Management (NDIM), New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | **₹10.20 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐⭐ (34-Yr Legacy, AICTE-CII Best Industry Linked B-School) | CAT: 75–80% \| MAT: 80–85% |
-| **[FOSTIIMA Business School, New Delhi](/colleges/fostiima-delhi)** | ₹10.75 Lakhs | **₹9.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐⭐ (Founded by IIM-A Alumni, High ROI, South-West Delhi Hub) | CAT: 70–75% \| MAT: 75–80% |
+| **[FOSTIIMA Business School, New Delhi](/colleges/fostiima-delhi)** | ₹11.95 Lakhs | **₹9.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐⭐ (Founded by IIM-A Alumni, High ROI, South-West Delhi Hub) | CAT: 70–75% \| MAT: 75–80% |
 | **[Fortune Institute of International Business (FIIB), Delhi](/colleges/fiib-delhi)** | ₹10.85 Lakhs | **₹8.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐ (Vasant Vihar Location, Heavy Analytics & FinTech Integration) | CAT: 70–75% \| MAT: 75–80% |
 | **[IILM Institute for Higher Education / IILM Gurgaon](/colleges/iilm-gurgaon)** | ₹11.50 Lakhs | **₹8.90 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐ (Prime Cyber City Corporate Access, Global Mentorship) | CAT: 70–75% \| MAT: 75–80% |
 | **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/colleges/its-ghaziabad)** | ₹9.50 Lakhs | **₹8.50 LPA** (Highest: ₹28.0 LPA) | ⭐⭐⭐⭐ (NAAC A++ Grade, 34-Yr Legacy, Strong FMCG Recruiter Base) | CAT: 70–75% \| MAT: 75–80% |

@@ -74,7 +74,7 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 | **LBSIM Delhi (Dwarka)** | ₹15.50 Lakhs | ₹12.40 LPA | CAT 2026 / XAT 2027 (80-84 %ile) |
 | **SOIL Institute of Management, Gurgaon** | ₹15.30 Lakhs | ₹10.30 LPA | CAT 2026 / XAT 2027 / NMAT / GMAT |
 | **NDIM New Delhi (South Delhi)** | ₹11.50 Lakhs | ₹9.50 LPA | CAT 2026 / MAT / CMAT / XAT (60+ %ile) |
-| **FOSTIIMA Business School, Delhi** | ₹11.50 Lakhs | ₹11.15 LPA | CAT 2026 / MAT / XAT (60+ %ile) |
+| **FOSTIIMA Business School, Delhi** | ₹11.95 Lakhs | ₹11.15 LPA | CAT 2026 / MAT / XAT (60+ %ile) |
 | **FIIB New Delhi (Vasant Vihar)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
 | **JIMS Kalkaji, South Delhi** | ₹9.30 Lakhs | ₹8.10 LPA | CAT 2026 / MAT / CMAT (60+ %ile) |
 | **JIMS Rohini (Sector 5)** | ₹9.25 Lakhs | ₹8.00 LPA | CAT 2026 / MAT / CMAT / ATMA (60+ %ile) |
