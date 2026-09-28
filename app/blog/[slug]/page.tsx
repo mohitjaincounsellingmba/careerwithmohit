@@ -15,6 +15,7 @@ import { OnlineDegreeLeadBox } from "@/components/OnlineDegreeLeadBox";
 import { AdUnit } from "@/components/AdUnit";
 import { BlogViewCounter } from "@/components/BlogViewCounter";
 import { BlogPostABHeader } from "@/components/BlogPostABHeader";
+import { SocialShareButtons } from "@/components/SocialShareButtons";
 
 
 function cleanMarkdown(text: string | undefined): string {
@@ -690,6 +691,14 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             {postData.content || ''}
           </ReactMarkdown>
         </div>
+
+        {/* SOCIAL SHARE & PINTEREST PIN WIDGET */}
+        <SocialShareButtons
+          url={`https://careerwithmohit.online/blog/${slug}/`}
+          title={cleanedTitle}
+          imageUrl={postData.image ? (postData.image.startsWith('http') ? postData.image : `https://careerwithmohit.online${postData.image}`) : "https://careerwithmohit.online/og-image.webp"}
+          description={postData.description || `Expert MBA & Career Guidance by Mohit Jain for ${cleanedTitle}`}
+        />
 
         {/* HIGH CONVERTING ONLINE DEGREE & ALL BLOGS LEAD GENERATION FORM */}
         <OnlineDegreeLeadBox courseName={cleanedTitle} />
