@@ -333,8 +333,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "dateModified": postData.date,
     "author": {
       "@type": "Person",
+      "@id": "https://careerwithmohit.online/#person-mohit-jain",
       "name": "Mohit Jain",
-      "url": "https://careerwithmohit.online/about/"
+      "jobTitle": "Founder & Chief MBA Admissions Strategist",
+      "url": "https://careerwithmohit.online/about/",
+      "sameAs": [
+        "https://www.linkedin.com/in/mohitjaincounselling/",
+        "https://www.youtube.com/@careerwithmohit",
+        "https://www.instagram.com/careerwithmohit"
+      ]
     },
     "publisher": {
       "@type": "Organization",
@@ -347,7 +354,14 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "inLanguage": "en-IN",
     "speakable": {
       "@type": "SpeakableSpecification",
-      "cssSelector": ["h1", "header p", ".prose p:first-of-type"]
+      "cssSelector": [
+        "h1",
+        "header p",
+        ".ai-summary-card",
+        ".prose p:first-of-type",
+        ".prose h2 + p",
+        ".prose h3 + p"
+      ]
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -406,6 +420,19 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }))
   } : null;
 
+  const howToSchema = (postData as any).how_to && (postData as any).how_to.steps?.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": (postData as any).how_to.name || cleanedTitle,
+    "description": (postData as any).how_to.description || cleanMarkdown(postData.description || postData.content?.substring(0, 160)),
+    "step": (postData as any).how_to.steps.map((s: any, idx: number) => ({
+      "@type": "HowToStep",
+      "position": idx + 1,
+      "name": s.name || `Step ${idx + 1}`,
+      "text": s.text || s
+    }))
+  } : null;
+
   const isMockTest = slug.includes('mock-test') || slug.includes('mock') || (postData.title || '').toLowerCase().includes('mock test');
   const quizSchema = isMockTest ? {
     "@context": "https://schema.org",
@@ -441,6 +468,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       <JsonLd data={articleData} />
       <JsonLd data={breadcrumbSchema} />
       {faqData && <JsonLd data={faqData} />}
+      {howToSchema && <JsonLd data={howToSchema} />}
       {quizSchema && <JsonLd data={quizSchema} />}
 
       {/* HEADER SECTION - ULTRA PREMIUM */}

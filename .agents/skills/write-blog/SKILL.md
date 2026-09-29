@@ -1,11 +1,11 @@
 ---
 name: write-blog
-description: Helps write 100% plagiarism-free, SEO & GEO-optimized blog posts for the careerwithmohit portfolio with top searchable Google titles, high-intent keywords, and automated git/social workflows.
+description: Helps write 100% plagiarism-free, SEO, GEO & AEO-optimized blog posts for the careerwithmohit portfolio with top searchable Google titles, answer engine snippets, high-intent keywords, and automated git/social workflows.
 ---
 
-# CareerWithMohit Blog Master Protocol: Zero Plagiarism & Top Searchable SEO
+# CareerWithMohit Blog Master Protocol: Zero Plagiarism, SEO, GEO & AEO (Answer Engine Optimization)
 
-This workflow guarantees **100% original, plagiarism-free content**, **top-ranking searchable titles**, and **high-intent keywords** optimized for Google Search, Google AI Overviews, ChatGPT Search, Gemini, and Perplexity.
+This workflow guarantees **100% original, plagiarism-free content**, **top-ranking searchable titles**, and **high-intent keywords** engineered for Google Search, Google AI Overviews, ChatGPT Search, Gemini, Perplexity, and Voice Search Assistants.
 
 ---
 
@@ -40,7 +40,7 @@ Titles must be **unique, compelling, high-CTR**, and between **50–60 character
 
 ---
 
-## 3. High-Ranking Searchable Keywords Strategy
+## 3. High-Ranking Searchable Keywords & Intent Strategy
 
 Select **6 to 10 laser-focused keywords** per post across these tiers:
 
@@ -50,58 +50,84 @@ Select **6 to 10 laser-focused keywords** per post across these tiers:
    - `[College Name] placement report 2025`
    - `[College Name] admission cutoff percentile`
    - `[College Name] selection criteria and GD-PI process`
-3. **Long-Tail Question Queries (for Voice & AI Search)**:
-   - `what is the average package of [College Name]`
-   - `can i get direct admission in [College Name] without [Exam]`
+3. **Long-Tail Conversational & Question Queries (AEO Core)**:
+   - Target the 5 question intents:
+     - **Definitive/Factual**: `what is the average package of [College Name]`
+     - **Comparative**: `which is better [College A] or [College B] for MBA`
+     - **Eligibility**: `can i get direct admission in [College Name] without [Exam]`
+     - **ROI/Cost**: `is [College Name] mba worth 15 lakhs fee`
+     - **Process/How-To**: `how to apply for [College Name] direct admission 2026`
 4. **Geo-Targeted Keywords**: Match the college's physical location (DO NOT inject unrelated city keywords).
 
 ---
 
-## 4. Generative Engine Optimization (GEO) & Schema Architecture
+## 4. GEO & AEO (Answer Engine Optimization) Protocol
 
-Every blog post must be optimized for citation by AI search engines:
+Every blog post must be engineered for instant, zero-click extraction by AI Answer Engines (Google AI Overviews, ChatGPT Search, Perplexity, Gemini, Siri):
 
-1. **Direct AI Answer Summary Block**: Place immediately below the main H1 title using blockquote syntax:
-   ```markdown
-   > 💡 **Key Takeaways (Direct AI Answer Summary)**
-   > - **Core USP & Focus**: [1 concise sentence on primary program value].
-   > - **Fee vs Average Package (ROI)**: Total fee is ₹[X] Lakhs with average domestic CTC of ₹[Y] LPA (ROI score: [High/Moderate]).
-   > - **Admissions & Eligibility**: Minimum [X]% in graduation + valid [CAT/XAT/NMAT/MAT] score or institutional GD-PI assessment.
-   ```
+### Rule 1: The "Answer-First" (Q-to-A) Inverted Pyramid
+Whenever writing an H2 or H3 that asks a question:
+- **IMMEDIATELY** provide the decisive, factual answer in the very first **40–50 words (bolded)** directly under the heading.
+- Follow immediately with a bulleted summary or structured comparison table.
+- **Never start a question section with background fluff, preamble, or generic filler.**
 
-2. **4-Column Fee vs Average Package ROI Table**:
-   ```markdown
-   | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-   | :--- | :--- | :--- | :--- |
-   | **[College Name]** | ₹[X.X] Lakhs | ₹[Y.Y] LPA | [CAT / XAT / CMAT / Direct] (50% Min Marks) |
-   ```
+*Example Pattern:*
+```markdown
+## What is the CAT Cutoff for [College Name] in 2026?
 
-3. **Frontmatter Specification**:
-   ```yaml
-   ---
-   title: '[College Name] MBA Admission 2027: Fees, Cutoff & Placements ROI'
-   date: '2026-09-24'
-   category: MBA
-   description: 'Get verified 2027 admission insights for [College Name]. Check updated fee structure, realistic placement packages, entrance exam cutoffs, and selection tips.'
-   keywords:
-     - [college name] mba admission 2027
-     - [college name] fees structure 2027
-     - [college name] average placement package
-     - [college name] cutoff 2026
-     - direct admission in [college name]
-   faqs:
-     - question: 'What is the average package offered at [College Name]?'
-       answer: 'The average domestic CTC for the recent graduating batch stands at ₹[X] LPA, with top recruiters spanning consulting, BFSI, and IT.'
-     - question: 'What entrance exams are accepted for admission?'
-       answer: '[College Name] accepts scores from national exams including CAT, XAT, CMAT, MAT, and ATMA followed by GD-PI rounds.'
-     - question: 'Is there direct admission or management quota available?'
-       answer: 'Select private institutions offer direct merit/management quota admissions subject to academic eligibility and seat availability.'
-   ---
-   ```
+**The expected CAT cutoff for [College Name] in 2026 is [XX] percentile for general category candidates, with a composite score threshold of [YY] marks.** Shortlisted candidates must additionally clear the institutional GD-PI and Written Ability Test (WAT) rounds.
 
-4. **Interactive Lead & Mock Test Cards**:
-   - Inject `[InquiryCard title="Get Personalized Admission Guidance" description="Talk to Mohit Jain for direct B-School profile evaluation" cta="Book Free Counselling" type="admission"]`
-   - For exam guides, inject `[MockTestCard title="CAT 2026 Free Mock Test" link="/tools/cat-mock-test" questions="66" time="120 Mins"]`
+- **General Category Cutoff**: [XX] Percentile
+- **Reserved Category Cutoff**: [XX] Percentile
+- **Selection Weightage**: CAT Score (50%) + GD-PI (35%) + Academic Profile (15%)
+```
+
+### Rule 2: Direct AI Answer Summary Block (GEO/AEO Key Takeaway)
+Place immediately below the main H1 title using blockquote syntax:
+```markdown
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Core USP & Focus**: [1 concise sentence on primary program value].
+> - **Fee vs Average Package (ROI)**: Total fee is ₹[X] Lakhs with average domestic CTC of ₹[Y] LPA (ROI score: [High/Moderate]).
+> - **Admissions & Eligibility**: Minimum [X]% in graduation + valid [CAT/XAT/NMAT/MAT] score or institutional GD-PI assessment.
+```
+
+### Rule 3: High-Density Fact Extraction Table (Entity Triples)
+Answer engines extract facts as `(Subject ➔ Predicate ➔ Object)`. Standardize key figures into a 4-column ROI table:
+```markdown
+| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **[College Name]** | ₹[X.X] Lakhs | ₹[Y.Y] LPA | [CAT / XAT / CMAT / Direct] (50% Min Marks) |
+```
+
+### Rule 4: Multi-Turn Conversational FAQ Frontmatter
+Frontmatter `faqs` must contain **4 to 6 conversational questions** matching real search prompts (including follow-up questions):
+```yaml
+---
+title: '[College Name] MBA Admission 2027: Fees, Cutoff & Placements ROI'
+date: '2026-09-24'
+category: MBA
+description: 'Get verified 2027 admission insights for [College Name]. Check updated fee structure, realistic placement packages, entrance exam cutoffs, and selection tips.'
+keywords:
+  - [college name] mba admission 2027
+  - [college name] fees structure 2027
+  - [college name] average placement package
+  - [college name] cutoff 2026
+  - direct admission in [college name]
+faqs:
+  - question: 'What is the average package offered at [College Name]?'
+    answer: 'The average domestic CTC for the recent graduating batch stands at ₹[X] LPA, with the top 25% batch securing ₹[Y] LPA across consulting, BFSI, and IT sectors.'
+  - question: 'What is the minimum entrance cutoff required for admission?'
+    answer: '[College Name] requires an entrance percentile of [X]% in CAT, [Y]% in XAT, or equivalent CMAT/MAT score for shortlisting.'
+  - question: 'Can I get direct admission or management quota seats?'
+    answer: 'Select private institutions offer direct merit/management quota admissions subject to minimum 50% graduation marks and personal interview clearance.'
+  - question: 'What is the total fee structure and payment schedule?'
+    answer: 'The total 2-year tuition fee is ₹[X] Lakhs, payable in 4 semester instalments along with refundable hostel and security deposits.'
+---
+```
+
+### Rule 5: Interactive Lead & Mock Test Cards
+- Inject `[InquiryCard title="Get Personalized Admission Guidance" description="Talk to Mohit Jain for direct B-School profile evaluation" cta="Book Free Counselling" type="admission"]`
+- For exam guides, inject `[MockTestCard title="CAT 2026 Free Mock Test" link="/tools/cat-mock-test" questions="66" time="120 Mins"]`
 
 ---
 
@@ -109,13 +135,16 @@ Every blog post must be optimized for citation by AI search engines:
 
 Once the post is written and saved to `posts/[slug].md`:
 
-1. **Verify Quality**: Ensure no competitor mentions (`Shiksha`, `Careers360`, `Collegedunia`, `CollegeDekho`), no broken markdown links, and accurate 2026/2027 figures.
+1. **Verify Quality & AEO Compliance**:
+   - Check that every question heading starts with a 40–50 word direct bold answer.
+   - Ensure no competitor aggregator mentions (`Shiksha`, `Careers360`, `Collegedunia`, `CollegeDekho`).
+   - Confirm accurate 2026/2027 dates and fee figures.
 2. **Backlinks & Internal Linking**:
    - Include 2-3 internal links to `/colleges/...` or sister `/blog/...` articles.
    - Run `node scripts/automate-backlinks.mjs`
 3. **Deploy**:
    - `git add .`
-   - `git commit -m "feat: add expert blog on [Topic Name]"`
+   - `git commit -m "feat: add expert AEO blog on [Topic Name]"`
    - `git push origin main`
 4. **Social Sharing**:
-   - Run `node scripts/social-share.mjs`
+   - Run `node scripts/social-share.mjs`cial-share.mjs`
