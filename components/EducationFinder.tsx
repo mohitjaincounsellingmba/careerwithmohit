@@ -240,7 +240,7 @@ export function EducationFinder() {
   };
 
   return (
-    <div className="w-full max-w-5xl mx-auto rounded-3xl bg-slate-900/95 backdrop-blur-2xl border border-white/25 p-4 sm:p-7 shadow-2xl shadow-blue-950/80 text-white transition-all ring-1 ring-white/10">
+    <div className="w-full max-w-5xl mx-auto rounded-3xl bg-slate-900/95 sm:backdrop-blur-xl border border-white/25 p-4 sm:p-7 shadow-2xl shadow-blue-950/80 text-white transition-all ring-1 ring-white/10">
       
       {/* ── TOP STREAM TABS CAROUSEL / GRID ── */}
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 sm:gap-2.5 pb-5 border-b border-white/15">

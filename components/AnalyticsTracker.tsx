@@ -51,73 +51,36 @@ export function AnalyticsTracker() {
       }
 
       // 2. Ping Telemetry & Register Active Session
-      const sendPing = (type = "pageview") => {
-        const now = Date.now();
-        const payload = {
-          sessionId,
-          type,
-          path: pathname,
-          blogSlug,
-          title,
-          timestamp: new Date().toISOString(),
-        };
-
-        // Register local session heartbeat for real-time active user counting
-        try {
-          const raw = localStorage.getItem("cwm_active_sessions_v1");
-          let sessions: Record<string, { path: string; title: string; lastSeen: number }> = {};
-          if (raw) {
-            try { sessions = JSON.parse(raw); } catch (e) {}
+      const now = Date.now();
+      try {
+        const raw = localStorage.getItem("cwm_active_sessions_v1");
+        let sessions: Record<string, { path: string; title: string; lastSeen: number }> = {};
+        if (raw) {
+          try { sessions = JSON.parse(raw); } catch (e) {}
+        }
+        // Prune sessions older than 45 seconds
+        for (const [id, s] of Object.entries(sessions)) {
+          if (s.lastSeen < now - 45000) {
+            delete sessions[id];
           }
-          // Prune sessions older than 45 seconds
-          for (const [id, s] of Object.entries(sessions)) {
-            if (s.lastSeen < now - 45000) {
-              delete sessions[id];
-            }
-          }
-          sessions[sessionId] = { path: pathname, title, lastSeen: now };
-          localStorage.setItem("cwm_active_sessions_v1", JSON.stringify(sessions));
+        }
+        sessions[sessionId] = { path: pathname, title, lastSeen: now };
+        localStorage.setItem("cwm_active_sessions_v1", JSON.stringify(sessions));
 
-          if (typeof BroadcastChannel !== "undefined") {
-            const bc = new BroadcastChannel("cwm_telemetry_channel");
-            bc.postMessage({ type, sessionId, path: pathname, title, timestamp: now });
-            bc.close();
-          }
-        } catch (e) {}
-
-        try {
-          if (typeof navigator !== "undefined" && navigator.sendBeacon && type === "pageview") {
-            const blob = new Blob([JSON.stringify(payload)], { type: "application/json" });
-            navigator.sendBeacon("/api/track", blob);
-          } else {
-            fetch("/api/track", {
-              method: "POST",
-              headers: { "Content-Type": "application/json" },
-              body: JSON.stringify(payload),
-              keepalive: true,
-            }).catch(() => {});
-          }
-        } catch (e) {}
-      };
-
-      sendPing("pageview");
-
-      // Send heartbeat every 20 seconds while user is active on the page
-      interval = setInterval(() => {
-        sendPing("heartbeat");
-      }, 20000);
+        if (typeof BroadcastChannel !== "undefined") {
+          const bc = new BroadcastChannel("cwm_telemetry_channel");
+          bc.postMessage({ type: "pageview", sessionId, path: pathname, title, timestamp: now });
+          bc.close();
+        }
+      } catch (e) {}
     };
 
     // Run when browser is idle after initial frame
     if ("requestIdleCallback" in window) {
-      (window as any).requestIdleCallback(runTracker, { timeout: 2500 });
+      (window as any).requestIdleCallback(runTracker, { timeout: 3500 });
     } else {
-      setTimeout(runTracker, 1000);
+      setTimeout(runTracker, 2000);
     }
-
-    return () => {
-      if (interval) clearInterval(interval);
-    };
   }, [pathname]);
 
   // Track CTA clicks (Book Counselling, Inquiry Popup, Calculator, WhatsApp Chat)

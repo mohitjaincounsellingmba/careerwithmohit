@@ -292,10 +292,10 @@ export default function Home() {
       
       {/* ── 1. HERO SECTION: MODERN EDUCATION DISCOVERY & SEARCH PORTAL ── */}
       <section className="relative overflow-hidden bg-gradient-to-b from-[#050D1A] via-[#091A33] to-[#0E284D] text-white px-4 pt-16 pb-20 sm:px-8 sm:pt-24 sm:pb-28 lg:pt-28 lg:pb-32 border-b border-blue-900/40">
-        {/* Soft Ambient Background Glows */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[450px] bg-blue-500/15 blur-[140px] pointer-events-none rounded-full" />
-        <div className="absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[110px] pointer-events-none rounded-full" />
-        <div className="absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[100px] pointer-events-none rounded-full" />
+        {/* Soft Ambient Background Glows (Hardware-accelerated and hidden on ultra-small mobile to maximize LCP) */}
+        <div className="hidden sm:block absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[450px] bg-blue-500/15 blur-[140px] blur-glow pointer-events-none rounded-full" />
+        <div className="hidden sm:block absolute -bottom-24 -right-24 w-96 h-96 bg-indigo-500/15 blur-[110px] blur-glow pointer-events-none rounded-full" />
+        <div className="hidden sm:block absolute -top-24 -left-24 w-80 h-80 bg-cyan-500/10 blur-[100px] blur-glow pointer-events-none rounded-full" />
 
         <div className="relative mx-auto max-w-7xl text-center z-10">
           {/* Glowing Status Pill */}
@@ -381,24 +381,34 @@ export default function Home() {
       <HomeCollegeExplorer />
 
       {/* ── 3. FLAGSHIP EDUCATION PORTAL PILLARS (BENTO GRID) ── */}
-      <PortalQuickTools />
+      <div className="section-deferred">
+        <PortalQuickTools />
+      </div>
 
       {/* ── 4. LIVE INTERACTIVE MBA ROI & FINANCIAL PAYBACK CALCULATOR ── */}
-      <InteractiveRoiCalculator />
+      <div className="section-deferred">
+        <InteractiveRoiCalculator />
+      </div>
 
       {/* ── 5. FREE FULL-LENGTH CBT MOCK TESTS SLIDER BANNER ── */}
-      <HomeMockTestSlider />
+      <div className="section-deferred">
+        <HomeMockTestSlider />
+      </div>
 
       {/* ── 6. NATIONAL ENTRANCE EXAM RADAR & DEADLINE TRACKER ── */}
-      <ExamTrackerSection />
+      <div className="section-deferred">
+        <ExamTrackerSection />
+      </div>
 
       {/* ── 7. DEDICATED STUDENT INQUIRY & PROFILE ASSESSMENT SECTION ── */}
-      <HomeInquirySection />
+      <div className="section-deferred">
+        <HomeInquirySection />
+      </div>
 
       {/* ── 8. UGC-DEB APPROVED ONLINE DEGREES & UNIVERSITIES SHOWCASE ── */}
-      <section id="online-degrees" className="bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-16 sm:py-24 sm:px-12 relative overflow-hidden border-b border-blue-900/50 content-auto">
-        <div className="absolute top-0 right-1/4 w-96 h-96 bg-blue-500/10 blur-[130px] pointer-events-none rounded-full" />
-        <div className="absolute bottom-0 left-1/4 w-96 h-96 bg-indigo-500/10 blur-[130px] pointer-events-none rounded-full" />
+      <section id="online-degrees" className="section-deferred bg-gradient-to-b from-slate-900 via-[#0C1A30] to-slate-900 text-white px-6 py-16 sm:py-24 sm:px-12 relative overflow-hidden border-b border-blue-900/50">
+        <div className="hidden sm:block absolute top-0 right-1/4 w-96 h-96 bg-blue-500/10 blur-[130px] blur-glow pointer-events-none rounded-full" />
+        <div className="hidden sm:block absolute bottom-0 left-1/4 w-96 h-96 bg-indigo-500/10 blur-[130px] blur-glow pointer-events-none rounded-full" />
 
         <div className="mx-auto max-w-7xl relative z-10">
           <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-white/10 pb-8 gap-6">
@@ -547,7 +557,7 @@ export default function Home() {
       </section>
 
       {/* ── 9. VERIFIED STUDENT SUCCESS & WALL OF FAME ── */}
-      <section className="bg-white py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200 content-auto">
+      <section className="section-deferred bg-white py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-slate-200 pb-8 gap-4">
             <div className="max-w-2xl">
@@ -614,7 +624,7 @@ export default function Home() {
       </section>
 
       {/* ── 10. RESOURCE DOWNLOAD & PREVIOUS YEAR PAPERS HUB ── */}
-      <section className="bg-slate-50 py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200 content-auto">
+      <section className="section-deferred bg-slate-50 py-16 sm:py-24 px-6 sm:px-12 border-b border-slate-200">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between border-b border-slate-200 pb-8 gap-4">
             <div className="max-w-2xl">
@@ -708,10 +718,12 @@ export default function Home() {
       </section>
 
       {/* ── 11. STUDENT COMMUNITY - WHATSAPP & TELEGRAM ── */}
-      <StudentCommunitySection />
+      <div className="section-deferred">
+        <StudentCommunitySection />
+      </div>
 
       {/* ── 12. UNIFIED ADMISSION NEWS & EXPERT ANALYSIS ── */}
-      <section id="news-intel" className="bg-white px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200 content-auto">
+      <section id="news-intel" className="section-deferred bg-white px-6 py-16 sm:py-24 sm:px-12 border-b border-slate-200">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 flex flex-col sm:flex-row sm:items-end justify-between border-b border-slate-200 pb-8 gap-6">
             <div className="max-w-2xl">
@@ -808,7 +820,7 @@ export default function Home() {
       </section>
 
       {/* ── 13. AI KNOWLEDGE & FAQ SECTION ── */}
-      <section id="ai-fast-facts" className="bg-slate-50 px-6 py-16 sm:py-24 sm:px-12 content-auto">
+      <section id="ai-fast-facts" className="section-deferred bg-slate-50 px-6 py-16 sm:py-24 sm:px-12">
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 border-b border-slate-200 pb-8">
             <span className="inline-block px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
