@@ -16,53 +16,53 @@ const WHY_ITEMS: WhyItem[] = [
     title: "A shortlist you can defend",
     desc: "Built from verified placement rates, median salary audits, and realistic cutoff percentiles — not from whoever spends the most on ads.",
     icon: CheckCircle2,
-    accent: "#6B2CF5",
-    accentBg: "rgba(107, 44, 245, 0.12)",
+    accent: "#2563EB",
+    accentBg: "rgba(37, 99, 235, 0.12)",
   },
   {
     title: "The deadline you almost missed",
     desc: "We actively track 26+ entrance exam cycles (CAT, XAT, NMAT, SNAP, MAT, ATMA) and institute application closing dates so you never lose a cycle.",
     icon: Clock,
-    accent: "#FF6B35",
-    accentBg: "rgba(255, 107, 53, 0.12)",
+    accent: "#EA580C",
+    accentBg: "rgba(234, 88, 12, 0.12)",
   },
   {
     title: "Fees & ROI you can plan for",
     desc: "Real-world course fee audits across 770+ colleges with integrated payback period calculations before you pay a single application fee.",
     icon: Calculator,
-    accent: "#00C795",
-    accentBg: "rgba(0, 199, 149, 0.12)",
+    accent: "#10B981",
+    accentBg: "rgba(16, 185, 129, 0.12)",
   },
   {
     title: "Direct 1-on-1 on Google Meet",
     desc: "Stuck between three offers? A generic spreadsheet won't solve it. Talk 1-on-1 with Mohit Jain (IIM Bangalore & FMS Delhi credentials).",
     icon: PhoneCall,
-    accent: "#1FA8F5",
-    accentBg: "rgba(31, 168, 245, 0.12)",
+    accent: "#0EA5E9",
+    accentBg: "rgba(14, 165, 233, 0.12)",
   },
 ];
 
 export function College4SureWhyGrid() {
   return (
-    <section className="py-16 sm:py-24 bg-[#F4F2FF]/60 border-b border-[#14103A]/10">
+    <section className="py-16 sm:py-24 bg-[#F1F5F9]/80 border-b border-[#061124]/10">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-12">
           <div>
-            <span className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#00C795] flex items-center gap-2 mb-2">
-              <span className="w-5 h-0.5 rounded-full bg-[#00C795]" />
+            <span className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#10B981] flex items-center gap-2 mb-2">
+              <span className="w-5 h-0.5 rounded-full bg-[#10B981]" />
               Before you apply
             </span>
-            <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#14103A] tracking-tight">
+            <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#061124] tracking-tight">
               Why students talk to us first
             </h2>
-            <p className="mt-2 text-sm sm:text-base text-[#575086] max-w-2xl">
+            <p className="mt-2 text-sm sm:text-base text-[#475569] max-w-2xl">
               Every college application costs non-refundable money and a crucial admissions window you cannot recover.
             </p>
           </div>
           <Link
             href="/book-session"
-            className="inline-flex items-center gap-2 px-6 py-3.5 rounded-full bg-[#6B2CF5] hover:bg-[#6B2CF5]/90 text-white font-display font-extrabold text-sm transition-all shadow-[0_12px_26px_-12px_rgba(107,44,245,0.85)] hover:-translate-y-0.5 self-start sm:self-auto"
+            className="inline-flex items-center gap-2 px-6 py-3.5 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-display font-extrabold text-sm transition-all shadow-[0_12px_26px_-12px_rgba(37,99,235,0.85)] hover:-translate-y-0.5 self-start sm:self-auto"
           >
             <span>Book a free strategy call</span>
             <ArrowRight className="w-4 h-4" />
@@ -76,7 +76,7 @@ export function College4SureWhyGrid() {
             return (
               <div
                 key={idx}
-                className="group relative rounded-[28px] bg-white border-[1.5px] border-[#14103A]/10 p-6 sm:p-7 shadow-[0_18px_44px_-22px_rgba(20,16,58,0.2)] hover:shadow-[0_34px_70px_-30px_rgba(20,16,58,0.35)] hover:-translate-y-2 transition-all duration-300 overflow-hidden flex flex-col justify-between"
+                className="group relative rounded-[28px] bg-white border-[1.5px] border-[#061124]/10 p-6 sm:p-7 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] hover:shadow-[0_34px_70px_-30px_rgba(6,17,36,0.25)] hover:-translate-y-2 transition-all duration-300 overflow-hidden flex flex-col justify-between"
               >
                 {/* Colored Top Border Sweep */}
                 <div
@@ -92,16 +92,16 @@ export function College4SureWhyGrid() {
                     <Icon className="w-6 h-6" />
                   </div>
 
-                  <h3 className="font-display font-extrabold text-lg sm:text-xl text-[#14103A] leading-snug">
+                  <h3 className="font-display font-extrabold text-lg sm:text-xl text-[#061124] leading-snug">
                     {item.title}
                   </h3>
 
-                  <p className="mt-3 text-sm text-[#575086] leading-relaxed">
+                  <p className="mt-3 text-sm text-[#475569] leading-relaxed">
                     {item.desc}
                   </p>
                 </div>
 
-                <div className="mt-6 pt-4 border-t border-[#14103A]/8 flex items-center gap-1.5 text-xs font-bold font-mono uppercase tracking-wider" style={{ color: item.accent }}>
+                <div className="mt-6 pt-4 border-t border-[#061124]/8 flex items-center gap-1.5 text-xs font-bold font-mono uppercase tracking-wider" style={{ color: item.accent }}>
                   <span>Verified insight</span>
                   <span className="text-base leading-none">→</span>
                 </div>

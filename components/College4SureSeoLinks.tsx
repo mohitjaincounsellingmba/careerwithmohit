@@ -30,7 +30,7 @@ export function College4SureSeoLinks() {
   ];
 
   return (
-    <section className="bg-[#14103A] text-white/70 py-12 border-t border-white/10 text-xs">
+    <section className="bg-[#061124] text-white/70 py-12 border-t border-white/10 text-xs">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div>
           <h4 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
@@ -41,7 +41,7 @@ export function College4SureSeoLinks() {
               <Link
                 key={idx}
                 href={link.href}
-                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#FFD426] border border-white/10 transition-colors"
+                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#F59E0B] border border-white/10 transition-colors"
               >
                 {link.name}
               </Link>
@@ -58,7 +58,7 @@ export function College4SureSeoLinks() {
               <Link
                 key={idx}
                 href={link.href}
-                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#00C795] border border-white/10 transition-colors"
+                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#10B981] border border-white/10 transition-colors"
               >
                 {link.name}
               </Link>

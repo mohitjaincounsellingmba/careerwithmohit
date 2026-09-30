@@ -154,7 +154,7 @@ export default function Home() {
   };
 
   return (
-    <div className="w-full bg-[#F4F2FF] text-[#14103A] selection:bg-[#FFD426] selection:text-[#14103A]">
+    <div className="w-full bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
       <JsonLd data={faqSchema} />
 
       {/* Top Multi-Color Gradient Scroll Progress & Back to Top */}
@@ -176,7 +176,7 @@ export default function Home() {
       <College4SureCollegeGrid />
 
       {/* 6. Unified Pan-India Colleges & B-Schools Discovery Hub */}
-      <div className="bg-white py-12 border-b border-[#14103A]/10">
+      <div className="bg-white py-12 border-b border-[#061124]/10">
         <HomeCollegeExplorer />
       </div>
 
@@ -184,17 +184,17 @@ export default function Home() {
       <College4SureWhyGrid />
 
       {/* 8. Live Interactive MBA ROI & Financial Payback Calculator */}
-      <div className="section-deferred bg-[#14103A] text-white py-16 border-b border-white/10">
+      <div className="section-deferred bg-[#061124] text-white py-16 border-b border-white/10">
         <InteractiveRoiCalculator />
       </div>
 
       {/* 9. Free Full-Length CBT Mock Tests Radar */}
-      <div className="section-deferred bg-white py-14 border-b border-[#14103A]/10">
+      <div className="section-deferred bg-white py-14 border-b border-[#061124]/10">
         <HomeMockTestSlider />
       </div>
 
       {/* 10. National Entrance Exam Radar & Deadline Tracker */}
-      <div className="section-deferred bg-[#F4F2FF]/60 py-14 border-b border-[#14103A]/10">
+      <div className="section-deferred bg-[#F1F5F9]/80 py-14 border-b border-[#061124]/10">
         <ExamTrackerSection />
       </div>
 
@@ -205,7 +205,7 @@ export default function Home() {
       <College4SureReviewsMarquee />
 
       {/* 13. Dedicated Student Inquiry & Profile Assessment Form */}
-      <div id="inquiry-section" className="section-deferred bg-white py-16 border-b border-[#14103A]/10">
+      <div id="inquiry-section" className="section-deferred bg-white py-16 border-b border-[#061124]/10">
         <HomeInquirySection />
       </div>
 

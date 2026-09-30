@@ -14,7 +14,7 @@ export function College4SureTicker() {
   ];
 
   return (
-    <div className="bg-[#14103A] text-white border-b border-white/10 overflow-hidden relative z-40">
+    <div className="bg-[#061124] text-white border-b border-white/10 overflow-hidden relative z-40">
       <div className="flex w-max animate-ticker py-2 text-xs font-mono tracking-wider">
         {/* First track */}
         <div className="flex items-center gap-8 shrink-0 pr-8">
@@ -22,7 +22,7 @@ export function College4SureTicker() {
             <Link
               key={`a-${idx}`}
               href={item.href}
-              className="inline-flex items-center gap-2 text-white/80 hover:text-[#FFD426] transition-colors whitespace-nowrap"
+              className="inline-flex items-center gap-2 text-white/80 hover:text-[#F59E0B] transition-colors whitespace-nowrap"
             >
               <span className="dotlive" />
               <span>{item.title}</span>
@@ -30,7 +30,7 @@ export function College4SureTicker() {
           ))}
           <a
             href="tel:+919560020771"
-            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#6B2CF5] hover:bg-[#FF3D8B] text-white font-bold transition-colors whitespace-nowrap"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#2563EB] hover:bg-[#10B981] text-white font-bold transition-colors whitespace-nowrap"
           >
             <Phone className="w-3 h-3" />
             <span>Admissions Helpline +91 95600 20771</span>
@@ -43,7 +43,7 @@ export function College4SureTicker() {
             <Link
               key={`b-${idx}`}
               href={item.href}
-              className="inline-flex items-center gap-2 text-white/80 hover:text-[#FFD426] transition-colors whitespace-nowrap"
+              className="inline-flex items-center gap-2 text-white/80 hover:text-[#F59E0B] transition-colors whitespace-nowrap"
             >
               <span className="dotlive" />
               <span>{item.title}</span>
@@ -51,7 +51,7 @@ export function College4SureTicker() {
           ))}
           <a
             href="tel:+919560020771"
-            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#6B2CF5] hover:bg-[#FF3D8B] text-white font-bold transition-colors whitespace-nowrap"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#2563EB] hover:bg-[#10B981] text-white font-bold transition-colors whitespace-nowrap"
           >
             <Phone className="w-3 h-3" />
             <span>Admissions Helpline +91 95600 20771</span>

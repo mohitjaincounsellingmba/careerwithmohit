@@ -2,32 +2,32 @@
 
 :root {
   --background: #FFFFFF;
-  --foreground: #14103A;
-  --primary: #6B2CF5;
-  --secondary: #00C795;
-  --accent: #FFD426;
-  --muted: #F4F2FF;
-  --border: rgba(20, 16, 58, 0.10);
+  --foreground: #061124;
+  --primary: #2563EB;
+  --secondary: #10B981;
+  --accent: #F59E0B;
+  --muted: #F8FAFC;
+  --border: rgba(6, 17, 36, 0.09);
   --card-bg: #ffffff;
   --header-bg: #ffffff;
-  --primary-brand: #6B2CF5;
+  --primary-brand: #2563EB;
 
-  /* College4Sure Notebook Neon Design Tokens */
-  --ink: #14103A;
-  --ink-2: #575086;
-  --paper: #F4F2FF;
+  /* CareerWithMohit Executive Royal Sapphire & Amber Gold Palette */
+  --ink: #061124;
+  --ink-2: #475569;
+  --paper: #F8FAFC;
   --card: #FFFFFF;
-  --line: rgba(20, 16, 58, 0.10);
-  --line-2: rgba(20, 16, 58, 0.06);
-  --shadow: 0 18px 44px -22px rgba(20, 16, 58, 0.34);
-  --shadow-lg: 0 34px 70px -30px rgba(20, 16, 58, 0.42);
+  --line: rgba(6, 17, 36, 0.09);
+  --line-2: rgba(6, 17, 36, 0.05);
+  --shadow: 0 18px 44px -22px rgba(6, 17, 36, 0.18);
+  --shadow-lg: 0 34px 70px -30px rgba(6, 17, 36, 0.28);
 
-  --violet: #6B2CF5;
-  --pink: #FF3D8B;
-  --yellow: #FFD426;
-  --mint: #00C795;
-  --sky: #1FA8F5;
-  --coral: #FF6B35;
+  --violet: #2563EB; /* Royal Sapphire Blue */
+  --pink: #E11D48;   /* Crimson Ruby */
+  --yellow: #F59E0B; /* Radiant Amber Gold */
+  --mint: #10B981;   /* Emerald Jade */
+  --sky: #0EA5E9;    /* Electric Cyan Teal */
+  --coral: #EA580C;  /* Warm Sunset Orange */
 
   --r-s: 12px;
   --r-m: 18px;

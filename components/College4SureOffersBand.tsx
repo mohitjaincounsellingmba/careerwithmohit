@@ -51,24 +51,24 @@ const LIVE_OFFERS: OfferItem[] = [
 
 export function College4SureOffersBand() {
   return (
-    <section className="py-14 sm:py-18 bg-[#F4F2FF]/60 border-b border-[#14103A]/10">
+    <section className="py-14 sm:py-18 bg-[#F1F5F9]/80 border-b border-[#061124]/10">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="relative rounded-[28px] sm:rounded-[40px] bg-[#14103A] text-white p-7 sm:p-12 overflow-hidden shadow-[0_34px_70px_-30px_rgba(20,16,58,0.7)] border border-white/10">
-          {/* Glowing Pink/Violet Radial Blob */}
-          <div className="absolute top-[-140px] right-[-100px] w-96 h-96 rounded-full bg-[#FF3D8B]/30 blur-[90px] pointer-events-none" />
-          <div className="absolute bottom-[-140px] left-[-80px] w-80 h-80 rounded-full bg-[#6B2CF5]/30 blur-[90px] pointer-events-none" />
+        <div className="relative rounded-[28px] sm:rounded-[40px] bg-[#061124] text-white p-7 sm:p-12 overflow-hidden shadow-[0_34px_70px_-30px_rgba(6,17,36,0.6)] border border-white/10">
+          {/* Glowing Amber/Cyan Halos */}
+          <div className="absolute top-[-140px] right-[-100px] w-96 h-96 rounded-full bg-[#0EA5E9]/25 blur-[90px] pointer-events-none" />
+          <div className="absolute bottom-[-140px] left-[-80px] w-80 h-80 rounded-full bg-[#F59E0B]/20 blur-[90px] pointer-events-none" />
 
           <div className="relative z-10 grid grid-cols-1 lg:grid-cols-[1fr_1.2fr] gap-8 lg:gap-12 items-center">
             {/* Left Column: Heading & CTAs */}
             <div>
-              <span className="font-mono text-xs uppercase tracking-[0.15em] font-bold text-[#FFD426] flex items-center gap-2 mb-3">
-                <Flame className="w-4 h-4 text-[#FFD426]" />
+              <span className="font-mono text-xs uppercase tracking-[0.15em] font-bold text-[#F59E0B] flex items-center gap-2 mb-3">
+                <Flame className="w-4 h-4 text-[#F59E0B]" />
                 Application Fee Discounts
               </span>
 
               <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-[1.08] tracking-tight">
                 Up to 100% off<br />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FFD426] via-[#00C795] to-[#1FA8F5]">
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#F59E0B] via-[#10B981] to-[#0EA5E9]">
                   application form fees
                 </span>
               </h2>
@@ -80,7 +80,7 @@ export function College4SureOffersBand() {
               <div className="mt-8 flex flex-wrap gap-3.5">
                 <Link
                   href="/mba-application-form-discount"
-                  className="px-6 py-3.5 rounded-full bg-white hover:bg-[#FFD426] text-[#14103A] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group"
+                  className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#F59E0B]/90 text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group hover:-translate-y-0.5"
                 >
                   <span>See all 55+ fee offers</span>
                   <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
@@ -113,10 +113,10 @@ export function College4SureOffersBand() {
                   <span
                     className={`font-mono text-[11px] font-extrabold px-3 py-1 rounded-full uppercase tracking-wider shrink-0 transition-transform group-hover:scale-105 ${
                       offer.badgeType === "hot"
-                        ? "bg-[#00C795] text-[#14103A] shadow-sm animate-pulse"
+                        ? "bg-[#10B981] text-white shadow-sm animate-pulse"
                         : offer.badgeType === "save"
-                        ? "bg-[#FF3D8B] text-white"
-                        : "bg-[#FFD426] text-[#14103A]"
+                        ? "bg-[#E11D48] text-white"
+                        : "bg-[#F59E0B] text-[#061124]"
                     }`}
                   >
                     {offer.badge}
