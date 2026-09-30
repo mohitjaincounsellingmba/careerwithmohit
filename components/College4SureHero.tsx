@@ -1,14 +1,44 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { Search, Sparkles, Building2, BookOpen, GraduationCap, Users } from "lucide-react";
+import { Search, Sparkles, MapPin, ArrowRight } from "lucide-react";
 import { College4SureLiveCompare } from "./College4SureLiveCompare";
+
+const CITIES = [
+  { name: "Delhi NCR", href: "/mba-admissions-by-region/delhi-ncr" },
+  { name: "Pune", href: "/mba-admissions-by-region/pune" },
+  { name: "Mumbai", href: "/mba-admissions-by-region/mumbai" },
+  { name: "Bangalore", href: "/mba-admissions-by-region/bangalore" },
+  { name: "Kolkata", href: "/mba-admissions-by-region/kolkata" },
+  { name: "Jaipur", href: "/mba-admissions-by-region/jaipur" },
+  { name: "Greater Noida", href: "/colleges?location=Greater+Noida" },
+  { name: "Faridabad", href: "/colleges?location=Faridabad" },
+  { name: "Gurgaon", href: "/colleges?location=Gurgaon" },
+  { name: "Dehradun", href: "/colleges?location=Dehradun" },
+  { name: "Chandigarh", href: "/colleges?location=Chandigarh" },
+];
 
 export function College4SureHero() {
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState("");
+  const [cityIndex, setCityIndex] = useState(0);
+  const [fadeState, setFadeState] = useState<"in" | "out">("in");
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setFadeState("out");
+      setTimeout(() => {
+        setCityIndex((prev) => (prev + 1) % CITIES.length);
+        setFadeState("in");
+      }, 240);
+    }, 2600);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  const currentCity = CITIES[cityIndex];
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -27,25 +57,37 @@ export function College4SureHero() {
       <span className="blob b3" />
 
       <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-10 lg:gap-14 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-[1.15fr_0.85fr] gap-10 lg:gap-12 items-center">
           {/* Left Column: Hero Text & Search */}
           <div>
             {/* Eyebrow Pill */}
             <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white border-[1.5px] border-[#061124]/10 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.15)] font-mono text-xs font-semibold uppercase tracking-wider mb-6 text-[#061124]">
               <span className="dotlive" />
-              <span>770+ colleges · Checked by IIM/FMS mentors, not scraped</span>
+              <span>770+ colleges · Verified by IIM &amp; FMS Alumni</span>
             </div>
 
-            {/* Main Display Headline with Marker Angle Highlighter Swipe */}
-            <h1 className="font-display text-4xl sm:text-6xl lg:text-[68px] font-extrabold text-[#061124] leading-[1.04] tracking-tight">
-              Choose your college<br />
-              with the <span className="hl">numbers</span><br />
-              in front of you.
+            {/* Main Display Headline with Dynamic Rotating City */}
+            <h1 className="font-display text-4xl sm:text-6xl lg:text-[62px] font-extrabold text-[#061124] leading-[1.08] tracking-tight">
+              Find Top MBA Colleges in<br />
+              <span className="inline-block relative min-h-[1.25em] mt-1">
+                <Link
+                  href={currentCity.href}
+                  className={`inline-flex items-center gap-2 hl text-[#061124] transition-all duration-300 transform ${
+                    fadeState === "in"
+                      ? "opacity-100 translate-y-0 scale-100"
+                      : "opacity-0 -translate-y-2 scale-95"
+                  }`}
+                  title={`View top MBA colleges in ${currentCity.name}`}
+                >
+                  <MapPin className="w-6 h-6 sm:w-8 sm:h-8 text-[#061124] stroke-[2.5] shrink-0" />
+                  <span>{currentCity.name}</span>
+                </Link>
+              </span>
             </h1>
 
             {/* Lede paragraph */}
             <p className="mt-5 text-base sm:text-lg text-[#475569] max-w-xl leading-relaxed font-normal">
-              Fees, verified placement rates, ROI break-even analysis, and accepted entrance exam percentiles — maintained by senior mentors who pick up the phone.
+              Compare verified placement averages, 2-year course fees, entrance cut-offs, and ROI break-even analysis with 1-on-1 mentorship by Mohit Jain.
             </p>
 
             {/* Search Bar */}
@@ -60,7 +102,7 @@ export function College4SureHero() {
                 type="search"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search a college, MBA specialization, exam or city…"
+                placeholder={`Search colleges in ${currentCity.name}, fees, CAT cutoffs…`}
                 className="w-full bg-transparent px-3 py-2.5 outline-none font-body text-sm sm:text-base text-[#061124] placeholder-[#475569]/70 min-w-0 font-medium"
               />
               <button
@@ -71,32 +113,27 @@ export function College4SureHero() {
               </button>
             </form>
 
-            {/* Popular Search Chips */}
+            {/* Popular City & Category Quick Chips */}
             <div className="mt-4 flex flex-wrap items-center gap-2">
               <span className="font-mono text-[11px] font-bold uppercase tracking-widest text-[#475569] mr-1">
-                Popular
+                Top Hubs:
               </span>
-              <Link
-                href="/colleges?stream=Management"
-                className="px-3.5 py-1 rounded-full bg-white hover:bg-[#2563EB] text-[#061124] hover:text-white border border-[#061124]/10 font-semibold text-xs transition-all hover:-translate-y-0.5"
-              >
-                Management
-              </Link>
-              <Link
-                href="/colleges?stream=Engineering"
-                className="px-3.5 py-1 rounded-full bg-white hover:bg-[#0EA5E9] text-[#061124] hover:text-white border border-[#061124]/10 font-semibold text-xs transition-all hover:-translate-y-0.5"
-              >
-                Engineering
-              </Link>
-              <Link
-                href="/online-degree-certification"
-                className="px-3.5 py-1 rounded-full bg-white hover:bg-[#10B981] text-[#061124] hover:text-white border border-[#061124]/10 font-semibold text-xs transition-all hover:-translate-y-0.5"
-              >
-                Online UGC
-              </Link>
+              {CITIES.slice(0, 6).map((city, idx) => (
+                <Link
+                  key={city.name}
+                  href={city.href}
+                  className={`px-3 py-1 rounded-full text-xs font-semibold transition-all hover:-translate-y-0.5 ${
+                    cityIndex === idx
+                      ? "bg-[#061124] text-white shadow-sm"
+                      : "bg-white text-[#061124] hover:bg-[#2563EB] hover:text-white border border-[#061124]/10"
+                  }`}
+                >
+                  {city.name}
+                </Link>
+              ))}
               <Link
                 href="/mba-application-form-discount"
-                className="px-3.5 py-1 rounded-full bg-white hover:bg-[#F59E0B] text-[#061124] hover:text-[#061124] border border-[#061124]/10 font-semibold text-xs transition-all hover:-translate-y-0.5"
+                className="px-3 py-1 rounded-full bg-[#F59E0B]/15 text-[#B45309] hover:bg-[#F59E0B] hover:text-[#061124] border border-[#F59E0B]/30 font-bold text-xs transition-all hover:-translate-y-0.5"
               >
                 Form Discounts
               </Link>
