@@ -3,21 +3,21 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { Search, MapPin, Sparkles, ArrowRight, Zap } from "lucide-react";
+import { Search, Sparkles, ArrowRight, Zap } from "lucide-react";
 import { College4SureLiveCompare } from "./College4SureLiveCompare";
 
 const CITIES = [
-  { name: "Delhi NCR", href: "/mba-admissions-by-region/delhi-ncr" },
-  { name: "Pune", href: "/mba-admissions-by-region/pune" },
-  { name: "Mumbai", href: "/mba-admissions-by-region/mumbai" },
-  { name: "Bangalore", href: "/mba-admissions-by-region/bangalore" },
-  { name: "Kolkata", href: "/mba-admissions-by-region/kolkata" },
-  { name: "Jaipur", href: "/mba-admissions-by-region/jaipur" },
-  { name: "Greater Noida", href: "/colleges?location=Greater+Noida" },
-  { name: "Faridabad", href: "/colleges?location=Faridabad" },
-  { name: "Gurgaon", href: "/colleges?location=Gurgaon" },
-  { name: "Dehradun", href: "/colleges?location=Dehradun" },
-  { name: "Chandigarh", href: "/colleges?location=Chandigarh" },
+  { name: "Delhi NCR", symbol: "🏛️", landmark: "India Gate", href: "/mba-admissions-by-region/delhi-ncr" },
+  { name: "Pune", symbol: "🏰", landmark: "Shaniwar Wada", href: "/mba-admissions-by-region/pune" },
+  { name: "Mumbai", symbol: "🌊", landmark: "Gateway of India", href: "/mba-admissions-by-region/mumbai" },
+  { name: "Bangalore", symbol: "💻", landmark: "Silicon Valley", href: "/mba-admissions-by-region/bangalore" },
+  { name: "Kolkata", symbol: "🌉", landmark: "Howrah Bridge", href: "/mba-admissions-by-region/kolkata" },
+  { name: "Jaipur", symbol: "👑", landmark: "Hawa Mahal", href: "/mba-admissions-by-region/jaipur" },
+  { name: "Greater Noida", symbol: "🏎️", landmark: "Buddh Circuit", href: "/colleges?location=Greater+Noida" },
+  { name: "Faridabad", symbol: "🏭", landmark: "Surajkund Hub", href: "/colleges?location=Faridabad" },
+  { name: "Gurgaon", symbol: "🏙️", landmark: "Cyber Hub", href: "/colleges?location=Gurgaon" },
+  { name: "Dehradun", symbol: "🏔️", landmark: "Doon Valley", href: "/colleges?location=Dehradun" },
+  { name: "Chandigarh", symbol: "✋", landmark: "The Open Hand", href: "/colleges?location=Chandigarh" },
 ];
 
 export function College4SureHero() {
@@ -69,21 +69,31 @@ export function College4SureHero() {
               <span>770+ colleges · Verified by IIM &amp; FMS Alumni</span>
             </div>
 
-            {/* Main Display Headline with Gen Z Holographic Neon Gradient Badge */}
+            {/* Main Display Headline with Landmark Symbol and Holographic City Badge */}
             <h1 className="font-display text-4xl sm:text-6xl lg:text-[62px] font-black text-white leading-[1.1] tracking-tight">
               Find Top MBA Colleges in<br />
-              <span className="inline-block relative min-h-[1.3em] mt-2">
+              <span className="inline-block relative min-h-[1.35em] mt-2">
                 <Link
                   href={currentCity.href}
-                  className={`inline-flex items-center gap-2.5 px-4 sm:px-5 py-1.5 rounded-2xl bg-gradient-to-r from-[#FF007A] via-[#8B5CF6] to-[#00F0FF] text-white shadow-[0_0_35px_rgba(255,0,122,0.45)] border border-white/30 backdrop-blur-md transition-all duration-300 transform cursor-pointer hover:scale-105 active:scale-95 ${
+                  className={`inline-flex items-center gap-2.5 sm:gap-3 px-4 sm:px-5 py-1.5 sm:py-2 rounded-2xl bg-gradient-to-r from-[#FF007A] via-[#8B5CF6] to-[#00F0FF] text-white shadow-[0_0_35px_rgba(255,0,122,0.5)] border border-white/30 backdrop-blur-md transition-all duration-300 transform cursor-pointer hover:scale-105 active:scale-95 ${
                     fadeState === "in"
                       ? "opacity-100 translate-y-0 scale-100"
                       : "opacity-0 -translate-y-2 scale-95"
                   }`}
-                  title={`View top MBA colleges in ${currentCity.name}`}
+                  title={`View top MBA colleges in ${currentCity.name} (${currentCity.landmark})`}
                 >
-                  <MapPin className="w-6 h-6 sm:w-8 sm:h-8 text-white stroke-[2.5] shrink-0 animate-bounce" />
-                  <span className="drop-shadow-md">{currentCity.name}</span>
+                  {/* Landmark Special Symbol */}
+                  <span className="text-2xl sm:text-3xl filter drop-shadow-[0_2px_8px_rgba(0,0,0,0.4)] animate-bounce shrink-0" role="img" aria-label={currentCity.landmark}>
+                    {currentCity.symbol}
+                  </span>
+                  
+                  {/* City Name */}
+                  <span className="drop-shadow-md font-black">{currentCity.name}</span>
+                  
+                  {/* Landmark Tag Badge */}
+                  <span className="hidden sm:inline-flex items-center text-[11px] font-mono font-extrabold uppercase tracking-wider bg-black/40 backdrop-blur-md px-2.5 py-0.5 rounded-full border border-white/20 text-cyan-200">
+                    {currentCity.landmark}
+                  </span>
                 </Link>
               </span>
             </h1>
@@ -105,7 +115,7 @@ export function College4SureHero() {
                 type="search"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder={`Search colleges in ${currentCity.name}, fees, CAT cutoffs…`}
+                placeholder={`Search colleges in ${currentCity.name} (${currentCity.landmark}), fees, CAT cutoffs…`}
                 className="w-full bg-transparent px-3 py-2.5 outline-none font-body text-sm sm:text-base text-white placeholder-slate-400 min-w-0 font-medium"
               />
               <button
@@ -116,23 +126,25 @@ export function College4SureHero() {
               </button>
             </form>
 
-            {/* Popular City & Category Quick Chips */}
+            {/* Popular City Quick Chips with Landmark Icons */}
             <div className="mt-4 flex flex-wrap items-center gap-2">
               <span className="font-mono text-[11px] font-bold uppercase tracking-widest text-slate-400 mr-1 flex items-center gap-1">
                 <Zap className="w-3.5 h-3.5 text-yellow-400" />
                 Top Hubs:
               </span>
-              {CITIES.slice(0, 6).map((city, idx) => (
+              {CITIES.slice(0, 7).map((city, idx) => (
                 <Link
                   key={city.name}
                   href={city.href}
-                  className={`px-3 py-1 rounded-full text-xs font-bold transition-all hover:-translate-y-0.5 ${
+                  className={`inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold transition-all hover:-translate-y-0.5 ${
                     cityIndex === idx
                       ? "bg-gradient-to-r from-[#00F0FF] to-[#6366F1] text-slate-950 shadow-[0_0_15px_rgba(0,240,255,0.4)]"
                       : "bg-white/[0.07] backdrop-blur-md text-slate-200 hover:text-white hover:bg-white/[0.15] border border-white/10 hover:border-cyan-400/50"
                   }`}
+                  title={`${city.name} - ${city.landmark}`}
                 >
-                  {city.name}
+                  <span className="text-sm">{city.symbol}</span>
+                  <span>{city.name}</span>
                 </Link>
               ))}
               <Link
