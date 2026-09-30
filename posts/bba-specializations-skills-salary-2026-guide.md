@@ -123,7 +123,7 @@ Your salary as a BBA fresher depends heavily on two factors: your **college tier
 If you are certain about a career in management, the **IPM (Integrated Program in Management)** offered by IIMs is the premium choice. However, if you want to explore different career paths or do an MBA later from a different institution (like ISB or a global B-school), a **3-year BBA** is more flexible.
 
 ### Useful Resources:
-*   [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2026)
+*   [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29)
 *   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech)
 *   [Top BBA Colleges in Pune (2026)](/blog/top-bba-colleges-pune-2026)
 

@@ -81,7 +81,7 @@ JIMS provides assistance and tie-ups for hostel and PG accommodations for outsta
 ## 🔗 Useful Links:
 - [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026)
 - [MSI Delhi BBA Admission Guide 2026](/blog/all-about-msi-delhi-bba-admission-2026)
-- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026)
+- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2027-29)
 
 ---
 

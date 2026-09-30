@@ -7,7 +7,7 @@ keywords:
   - 'management education & research institute (meri) pgdm admission 2027'
   - 'management education & research institute (meri) mba fees 2027'
   - 'management education & research institute (meri) average placement package'
-  - 'management education & research institute (meri) cutoff 2026 2027'
+  - 'management education & research institute (meri) cutoff 2027–29 2027'
   - 'meri review 2027'
   - 'direct admission in management education & research institute (meri)'
   - 'top pgdm colleges in janakpuri'

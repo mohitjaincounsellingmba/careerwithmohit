@@ -41,8 +41,7 @@ keywords:
   - Delhi NCR College Counselling
 faqs:
   - question: >-
-      Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT
-      2026?
+      Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT 2027–29?
     answer: >-
       Yes, aspirants scoring between 65-75 percentile in CAT 2026 have strong
       options in Delhi NCR & Greater Noida such as GL Bajaj, JIMS
@@ -65,8 +64,7 @@ faqs:
       experience carry 40% to 50% composite weightage, allowing strong profiles
       to beat higher percentile test-takers.
   - question: >-
-      Which MBA specialization offers the highest ROI in Delhi NCR for the
-      2026-2027 batch?
+      Which MBA specialization offers the highest ROI in Delhi NCR for the 2027–29-2027 batch?
     answer: >-
       Business Analytics & AI, Fintech / Banking & Corporate Finance, and
       Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with
@@ -80,13 +78,13 @@ state: Delhi NCR
 Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain.
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Realistic Target Percentiles:** Aspirants scoring in the 65–85%ile bracket in CAT 2026-2027 can target top AICTE-approved PGDM/MBA institutions in Delhi NCR and Greater Noida including [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [FORE School of Management](/blog/all-about-fore-school-delhi), [LBSIM Delhi](/blog/all-about-lbsim-delhi), [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Business School](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), and [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
+> - **Realistic Target Percentiles:** Aspirants scoring in the 65–85%ile bracket in CAT 2026-2027 can target top AICTE-approved PGDM/MBA institutions in Delhi NCR and Greater Noida including [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [FORE School of Management](/colleges/fore-school-delhi), [LBSIM Delhi](/blog/all-about-lbsim-delhi), [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Business School](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), and [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
 > - **Budget & ROI Sweet Spot:** Total 2-year course fees range comfortably between ₹7.50 Lakhs and ₹15.00 Lakhs, yielding solid average placement packages from ₹7.80 LPA to ₹12.50 LPA (recovering 90–120% of investment within 12–18 months).
 > - **Profile-Based Selection Edge:** In this percentile tier, GD-PI-WAT performance, academic consistency, work experience, and gender diversity make up 45–50% of the selection composite score, allowing students to overcome modest test percentiles.
 
 ---
 
-[InquiryCard title="Get Expert Profile Evaluation for Delhi NCR PGDM / MBA Admissions" description="Speak directly with Senior MBA Consultant Mohit Jain to identify best-fit colleges under ₹8L - ₹15L, calculate cutoffs, and secure merit scholarships for 2026-2027." cta="Book Free Profile Call" type="admission"]
+[InquiryCard title="Get Expert Profile Evaluation for Delhi NCR PGDM / MBA Admissions" description="Speak directly with Senior MBA Consultant Mohit Jain to identify best-fit colleges under ₹8L - ₹15L, calculate cutoffs, and secure merit scholarships for 2027–29-2027." cta="Book Free Profile Call" type="admission"]
 
 ---
 
@@ -110,9 +108,9 @@ To avoid wasting application fees and missing critical deadlines, candidates mus
 
 | Tier Classification | CAT Percentile Range | Target Business Schools in Delhi NCR / Greater Noida | Primary Admission Parameters |
 | :--- | :--- | :--- | :--- |
-| **Tier-2 Premium** | **80 – 85+ %ile** | [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [LBSIM Delhi](/blog/all-about-lbsim-delhi), [FORE School of Management](/blog/all-about-fore-school-delhi), [IMI Delhi (Specialized)](/blog/all-about-imi-delhi) | High CAT weightage (50%), strict academic cutoffs (60%+ in 10th/12th/Grad), WAT-PI rigor |
-| **Tier-2 Core** | **70 – 80 %ile** | [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini (PGDM)](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM New Delhi](/blog/ndim-delhi-review-2026) | Balanced Composite Score: CAT (35-40%), GD-PI (35%), Academics & Work Ex (25%) |
-| **Tier-3 High ROI** | **65 – 70 %ile** | [GL Bajaj Greater Noida (GLBIMR)](/blog/all-about-gl-bajaj-greater-noida), [GIMS / GNIOT Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims), [JIMS Kalkaji](/blog/all-about-jims-kalkaji), [Lloyd Business School](/blog/all-about-lloyd-business-school-greater-noida), [Accurate Greater Noida](/blog/accurate-greater-noida-review-2026), [IMS Ghaziabad](/blog/all-about-institute-of-management-studies) | High focus on Extempore/PI, Communication readiness, Aptitude test versatility ([CAT](/blog/all-about-cat-exam)/[XAT](/blog/all-about-xat-exam)/[MAT](/blog/all-about-mat-exam)/[CMAT](/blog/all-about-cmat-exam)) |
+| **Tier-2 Premium** | **80 – 85+ %ile** | [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [LBSIM Delhi](/blog/all-about-lbsim-delhi), [FORE School of Management](/colleges/fore-school-delhi), [IMI Delhi (Specialized)](/blog/all-about-imi-delhi) | High CAT weightage (50%), strict academic cutoffs (60%+ in 10th/12th/Grad), WAT-PI rigor |
+| **Tier-2 Core** | **70 – 80 %ile** | [Jaipuria Noida](/blog/all-about-jaipuria-noida), [JIMS Rohini (PGDM)](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM New Delhi](/blog/ndim-delhi-review-2027-29) | Balanced Composite Score: CAT (35-40%), GD-PI (35%), Academics & Work Ex (25%) |
+| **Tier-3 High ROI** | **65 – 70 %ile** | [GL Bajaj Greater Noida (GLBIMR)](/blog/all-about-gl-bajaj-greater-noida), [GIMS / GNIOT Greater Noida](/colleges/gniot-institute-of-management-studies-gims), [JIMS Kalkaji](/colleges/jims-kalkaji), [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), [Accurate Greater Noida](/blog/accurate-greater-noida-review-2027-29), [IMS Ghaziabad](/blog/all-about-institute-of-management-studies) | High focus on Extempore/PI, Communication readiness, Aptitude test versatility ([CAT](/blog/all-about-cat-exam)/[XAT](/blog/all-about-xat-exam)/[MAT](/blog/all-about-mat-exam)/[CMAT](/blog/all-about-cmat-exam)) |
 
 ---
 
@@ -132,9 +130,9 @@ Here is the comprehensive, data-backed ROI comparison table for the best PGDM / 
 | **[FIIB Delhi (Fortune Institute)](/blog/all-about-fiib-delhi)** | ₹10.10 L | ₹8.80 L – ₹9.40 L | **ROI: High** \| CAT 65–75%ile, MAT 75%ile, CMAT 70%ile \| Leader in Business Analytics & Operations |
 | **[NDIM Delhi ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))](/blog/all-about-ndim-delhi)** | ₹11.50 L | ₹8.50 L – ₹9.00 L | **ROI: Moderate-High** \| CAT 65–75%ile, CMAT 70%ile \| AICTE Approved; extensive dual specialization options |
 | **[GL Bajaj Institute of Management & Research (GLBIMR), Greater Noida](/blog/all-about-gl-bajaj-greater-noida)** | ₹7.95 L | ₹7.80 L – ₹8.50 L | **ROI: Outstanding (100%+ 1-Year Recovery)** \| CAT 65–75%ile, MAT 70%ile \| High campus placement volume in IT/ITES & BFSI |
-| **[GIMS / GNIOT Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims)** | ₹7.25 L – ₹8.20 L | ₹7.20 L – ₹8.00 L | **ROI: Outstanding** \| CAT 60–70%ile, MAT 65%ile, CMAT 65%ile \| Fast-growing placement stats & global immersion |
-| **[Lloyd Business School, Greater Noida](/blog/all-about-lloyd-business-school-greater-noida)** | ₹6.50 L – ₹7.80 L | ₹6.80 L – ₹7.50 L | **ROI: High** \| CAT 60–70%ile \| Industry co-designed programs in Supply Chain & Business Analytics |
-| **[Accurate Institute of Management & Technology, Greater Noida](/blog/accurate-greater-noida-review-2026)** | ₹6.80 L – ₹7.50 L | ₹6.50 L – ₹7.20 L | **ROI: High** \| CAT 60–70%ile, MAT 65%ile \| Affordable fees, 100% placement track record |
+| **[GIMS / GNIOT Greater Noida](/colleges/gniot-institute-of-management-studies-gims)** | ₹7.25 L – ₹8.20 L | ₹7.20 L – ₹8.00 L | **ROI: Outstanding** \| CAT 60–70%ile, MAT 65%ile, CMAT 65%ile \| Fast-growing placement stats & global immersion |
+| **[Lloyd Business School, Greater Noida](/colleges/lloyd-business-school-greater-noida)** | ₹6.50 L – ₹7.80 L | ₹6.80 L – ₹7.50 L | **ROI: High** \| CAT 60–70%ile \| Industry co-designed programs in Supply Chain & Business Analytics |
+| **[Accurate Institute of Management & Technology, Greater Noida](/blog/accurate-greater-noida-review-2027-29)** | ₹6.80 L – ₹7.50 L | ₹6.50 L – ₹7.20 L | **ROI: High** \| CAT 60–70%ile, MAT 65%ile \| Affordable fees, 100% placement track record |
 
 ---
 
@@ -165,12 +163,12 @@ Choosing the right specialization dictates 80% of your initial campus placement 
 * **Top Recruiters:** Goldman Sachs, Moody's Analytics, TresVista, HDFC Bank, ICICI Securities, EY, Grant Thornton.
 
 ### 2. Marketing & Digital E-Commerce
-* **Best Colleges in NCR:** [Jaipuria Noida](/blog/all-about-jaipuria-noida), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [NDIM Delhi](/blog/ndim-delhi-review-2026), [FIIB Delhi](/blog/all-about-fiib-delhi).
+* **Best Colleges in NCR:** [Jaipuria Noida](/blog/all-about-jaipuria-noida), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [NDIM Delhi](/blog/ndim-delhi-review-2027-29), [FIIB Delhi](/blog/all-about-fiib-delhi).
 * **Key Roles:** Brand Strategist, Area Sales Manager (ASM), Digital Marketing Lead, Category Specialist, Client Servicing.
 * **Top Recruiters:** Hindustan Unilever, ITC, Nestle, Amazon, Flipkart, Dabur, Asian Paints, Marico.
 
 ### 3. Business Analytics, AI & Operations
-* **Best Colleges in NCR:** [FIIB Delhi](/blog/all-about-fiib-delhi), [Lloyd Business School](/blog/all-about-lloyd-business-school-greater-noida), [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [GIMS Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims).
+* **Best Colleges in NCR:** [FIIB Delhi](/blog/all-about-fiib-delhi), [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), [BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida), [GIMS Greater Noida](/colleges/gniot-institute-of-management-studies-gims).
 * **Key Roles:** Business Analyst, Analytics Consultant, Supply Chain Manager, CRM / Operations Consultant.
 * **Top Recruiters:** Genpact, Accenture, KPMG Analytics, Wipro, Tata 1mg, DHL Supply Chain.
 
@@ -220,8 +218,8 @@ If you scored between 60–85%ile or missed the CAT sectional cutoff, several to
 
 ## 7. Frequently Asked Questions (FAQs) for CAT 2026-2027 Candidates
 
-### Q1. Can I get admission in a top Delhi NCR PGDM college with a 70 percentile in CAT 2026?
-**Yes.** Colleges like [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM Delhi](/blog/ndim-delhi-review-2026), and [GIMS Greater Noida](/blog/all-about-gniot-institute-of-management-studies-gims) actively interview candidates in the 65–75 percentile range, provided they clear the GD-PI rounds.
+### Q1. Can I get admission in a top Delhi NCR PGDM college with a 70 percentile in CAT 2027–29?
+**Yes.** Colleges like [JIMS Rohini](/blog/all-about-jims-rohini), [FOSTIIMA Delhi](/blog/all-about-fostiima-delhi), [GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida), [FIIB Delhi](/blog/all-about-fiib-delhi), [NDIM Delhi](/blog/ndim-delhi-review-2027-29), and [GIMS Greater Noida](/colleges/gniot-institute-of-management-studies-gims) actively interview candidates in the 65–75 percentile range, provided they clear the GD-PI rounds.
 
 ### Q2. Is PGDM from Greater Noida colleges recognized for PSU jobs and PhD admissions?
 **Yes, provided the program has AIU (Association of Indian Universities) Equivalence and AICTE approval.** Most established colleges in Greater Noida like [BIMTECH](/blog/all-about-bimtech-greater-noida) and [GL Bajaj](/blog/all-about-gl-bajaj-greater-noida) hold AIU equivalence, making the PGDM legally identical to an MBA degree.
@@ -244,7 +242,7 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 
 ### Related Reading & MBA Guides
 * [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
-* [Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)
+* [Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
 * [MBA vs PGDM: Which is Better for Your Career?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 * [All About BIMTECH Greater Noida: Cutoffs, Fees & Placements](/blog/all-about-bimtech-greater-noida)
 * [All About GL Bajaj Greater Noida: Review, Placements & Admission](/blog/all-about-gl-bajaj-greater-noida)

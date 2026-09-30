@@ -10,7 +10,7 @@ keywords:
   - iim udaipur mba admission 2027
   - iim udaipur fees structure 2027
   - iim udaipur average placement package
-  - iim udaipur cutoff 2026 2027
+  - iim udaipur cutoff 2027–29 2027
   - iimu review 2027
   - top mba colleges in udaipur
   - best mba colleges in rajasthan

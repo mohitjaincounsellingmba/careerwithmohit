@@ -11,7 +11,7 @@ keywords:
   - CAT 2026 registration date
   - CAT 2026 notification
   - IIM CAT 2026 dates
-  - MBA entrance exam dates 2026
+  - MBA entrance exam dates 2027–29
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
@@ -100,7 +100,7 @@ Apart from the 21 IIMs, several other institutes accept CAT scores:
 *   **IITs (DoMS)**
 *   **IMT Ghaziabad**
 
-[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)
+[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
 
 ---
 
@@ -112,7 +112,7 @@ Apart from the 21 IIMs, several other institutes accept CAT scores:
 
 *Related Posts:*
 * [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)
-* [Top 10 MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
+* [Top 10 MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
 * [CAT vs CMAT vs NMAT: Which Exam is Easier?](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body)
 
 ---
@@ -135,6 +135,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

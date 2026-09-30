@@ -35,10 +35,10 @@ export const metadata: Metadata = {
     "MAT section wise score calculator",
     "MAT MBA college predictor",
     "MAT LC MS DA ICR score",
-    "mba admission 2026",
-    "pgdm admission 2026",
+    "mba admission 2027-29",
+    "pgdm admission 2027-29",
     "mba admission 2027",
-    "degree admission"
+    "degree admission 2027"
   ],
   openGraph: {
     title: "Sept MAT Score Calculator & Checker | Composite Score & Percentile Predictor",
@@ -366,7 +366,7 @@ export default function MatScoreCalculatorPage() {
               <span>MAT Result Date & Download Guide →</span>
             </Link>
             <Link
-              href="/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026"
+              href="/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>MBA Colleges Accepting MAT Score →</span>

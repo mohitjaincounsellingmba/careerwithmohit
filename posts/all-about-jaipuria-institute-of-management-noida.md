@@ -10,7 +10,7 @@ description: >-
   Placements. Check updated fees, placement records, real cutoffs, and selection
   tips by Mohit Jain.
 keywords:
-  - jaipuria institute of management review 2026
+  - jaipuria institute of management review 2027–29
   - jaipuria institute of management pgdm placements
   - jaipuria institute of management admission cutoff
   - jaipuria institute of management fees
@@ -102,7 +102,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

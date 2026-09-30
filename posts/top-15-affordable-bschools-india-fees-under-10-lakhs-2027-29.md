@@ -87,10 +87,10 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 * India's first management institute. Offering MBA in Finance, Human Resources, Marketing, and Systems for under ₹4 Lakhs total fee.
 
 ### 3. GNIOT GIMS & GL Bajaj Greater Noida
-* Situated in Greater Noida Knowledge Park, these AICTE-approved PGDM colleges charge under ₹7 Lakhs total fee and deliver 100% campus placement support. Read [All About GNIOT GIMS](/blog/all-about-gniot-institute-of-management-studies-gims) and [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
+* Situated in Greater Noida Knowledge Park, these AICTE-approved PGDM colleges charge under ₹7 Lakhs total fee and deliver 100% campus placement support. Read [All About GNIOT GIMS](/colleges/gniot-institute-of-management-studies-gims) and [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
 
 ### 4. [RIIM Pune](/colleges/riim-pune) & GIBS Bangalore
-* Premier autonomous PGDM institutes providing practical industry exposure, dual specializations, and living assistance under ₹9 Lakhs total investment. Read [All About RIIM Pune](/blog/all-about-riim-pune) and [All About GIBS Bangalore](/blog/all-about-gibs-bangalore).
+* Premier autonomous PGDM institutes providing practical industry exposure, dual specializations, and living assistance under ₹9 Lakhs total investment. Read [All About RIIM Pune](/blog/all-about-riim-pune) and [All About GIBS Bangalore](/colleges/gibs-bangalore).
 
 ---
 
@@ -103,6 +103,6 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

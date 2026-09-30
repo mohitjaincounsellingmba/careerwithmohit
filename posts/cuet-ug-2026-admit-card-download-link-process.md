@@ -94,7 +94,7 @@ Candidates will not be allowed to enter the exam hall without these:
 ## 5. What After CUET UG 2026?
 After the exams, the focus will shift to university preferences and counseling. Colleges like Delhi University, BHU, and JNU will start their own CSAS portals for seat allocation.
 
-[👉 View Full List of CUET UG 2026 Accepting Colleges](/blog/cuet-ug-accepting-colleges-india-2026)
+[👉 View Full List of CUET UG 2026 Accepting Colleges](/blog/cuet-ug-accepting-colleges-india-2027-29)
 
 [👉 Top CUET UG Colleges in Delhi NCR: Fees and Placements](/blog/top-cuet-ug-colleges-delhi-ncr)
 
@@ -131,6 +131,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

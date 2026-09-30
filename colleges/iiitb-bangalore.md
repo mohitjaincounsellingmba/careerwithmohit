@@ -69,8 +69,8 @@ keywords:
   - 'engineering colleges Electronic City, Bangalore'
   - Bangalore Colleges
   - Best Colleges in Bangalore
-  - Top Colleges in Bangalore 2026
-  - Bangalore Direct Admission 2026
+  - Top Colleges in Bangalore 2027-29
+  - Bangalore Direct Admission 2027-29
   - Colleges in Karnataka
   - Bangalore Career Counselling
 state: Karnataka

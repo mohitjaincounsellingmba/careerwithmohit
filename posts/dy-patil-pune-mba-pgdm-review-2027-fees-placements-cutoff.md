@@ -7,7 +7,7 @@ keywords:
   - 'dr. d.y. patil institute of management & research pgdm admission 2027'
   - 'dr. d.y. patil institute of management & research mba fees 2027'
   - 'dr. d.y. patil institute of management & research average placement package'
-  - 'dr. d.y. patil institute of management & research cutoff 2026 2027'
+  - 'dr. d.y. patil institute of management & research cutoff 2027–29 2027'
   - 'dr. d.y. patil institute of management & research review 2027'
   - 'direct admission in dr. d.y. patil institute of management & research'
   - 'top pgdm colleges in pimpri'

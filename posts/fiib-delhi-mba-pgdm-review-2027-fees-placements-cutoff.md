@@ -7,7 +7,7 @@ keywords:
   - 'fortune institute of international business (fiib) pgdm admission 2027'
   - 'fortune institute of international business (fiib) mba fees 2027'
   - 'fortune institute of international business (fiib) average placement package'
-  - 'fortune institute of international business (fiib) cutoff 2026 2027'
+  - 'fortune institute of international business (fiib) cutoff 2027–29 2027'
   - 'fiib review 2027'
   - 'direct admission in fortune institute of international business (fiib)'
   - 'top pgdm colleges in vasant vihar'

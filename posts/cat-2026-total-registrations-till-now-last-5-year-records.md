@@ -63,7 +63,7 @@ faqs:
 
 The **Common Admission Test (CAT)** remains the definitive, high-stakes proving ground for graduate business education in India. Conducted annually by the Indian Institutes of Management (IIMs) on a rotational basis, CAT is the gateway to the 21 prestigious IIMs and over 1,200 premier autonomous and university B-Schools, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and the IIT management departments.
 
-For any MBA aspirant aiming for the upcoming **CAT 2026** exam, understanding candidate application statistics is not merely academic trivia—it is a critical intelligence metric. The total volume of registrations and the actual number of candidates who appear dictate the percentile calculation curve, the sectional normalization formula, and the intense cut-throat race for an IIM interview call.
+For any MBA aspirant aiming for the upcoming **CAT 2027–29** exam, understanding candidate application statistics is not merely academic trivia—it is a critical intelligence metric. The total volume of registrations and the actual number of candidates who appear dictate the percentile calculation curve, the sectional normalization formula, and the intense cut-throat race for an IIM interview call.
 
 Here is a deep-dive analysis of the **CAT 2026 registration status till now**, paired with official **last 5-year records of total registered vs appeared candidates**, gender distributions, category dynamics, and what these numbers mean for your preparation.
 
@@ -206,10 +206,10 @@ With total applications tracking in the 3.2 Lakh bracket, casual preparation wil
 ## Related Reading & Essential Guides
 
 To strengthen your 2026–2027 admission roadmap, explore our expert resources:
-* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2026)**
+* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2027-29)**
 * **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/all-about-cat-exam)**
-* **[All IIM Cut-Offs 2026–2028: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
-* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2026)**
+* **[All IIM Cut-Offs 2027–2029: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)**
+* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)**
 * **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide)**
 
 ---
@@ -224,6 +224,6 @@ To strengthen your 2026–2027 admission roadmap, explore our expert resources:
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

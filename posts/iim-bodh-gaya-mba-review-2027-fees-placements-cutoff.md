@@ -10,7 +10,7 @@ keywords:
   - iim bodh gaya mba admission 2027
   - iim bodh gaya fees structure 2027
   - iim bodh gaya average placement package
-  - iim bodh gaya cutoff 2026 2027
+  - iim bodh gaya cutoff 2027–29 2027
   - iimbg review 2027
   - top mba colleges in bodh gaya
   - best mba colleges in bihar

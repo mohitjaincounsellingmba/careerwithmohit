@@ -10,7 +10,7 @@ keywords:
   - iim nagpur mba admission 2027
   - iim nagpur fees structure 2027
   - iim nagpur average placement package
-  - iim nagpur cutoff 2026 2027
+  - iim nagpur cutoff 2027–29 2027
   - iimn review 2027
   - top mba colleges in nagpur
   - best mba colleges in maharashtra

@@ -7,7 +7,7 @@ keywords:
   - 'new delhi institute of info tech & management (ndiit) pgdm admission 2027'
   - 'new delhi institute of info tech & management (ndiit) mba fees 2027'
   - 'new delhi institute of info tech & management (ndiit) average placement package'
-  - 'new delhi institute of info tech & management (ndiit) cutoff 2026 2027'
+  - 'new delhi institute of info tech & management (ndiit) cutoff 2027–29 2027'
   - 'ndiit review 2027'
   - 'direct admission in new delhi institute of info tech & management (ndiit)'
   - 'top pgdm colleges in kalkaji'

@@ -50,7 +50,7 @@ state: Karnataka
 # Free GMAT Focus Edition Mock Test: Full 64-Question CBT with Scaled Score (205–805) & ISB Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 

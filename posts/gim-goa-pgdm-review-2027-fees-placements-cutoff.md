@@ -11,7 +11,7 @@ keywords:
   - goa institute of management (gim goa) mba admission 2027
   - goa institute of management (gim goa) fees structure 2027
   - goa institute of management (gim goa) average placement package
-  - goa institute of management (gim goa) cutoff 2026 2027
+  - goa institute of management (gim goa) cutoff 2027–29 2027
   - gim goa review 2027
   - top mba colleges in sanquelim
   - best mba colleges in goa

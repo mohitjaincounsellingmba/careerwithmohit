@@ -8,7 +8,7 @@ description: >-
 keywords:
   - Christ University Pune Lavasa MBA admission 2027–2029
   - Christ University Pune Lavasa MBA fees
-  - Christ University Pune Lavasa MBA cutoff 2025
+  - Christ University Pune Lavasa MBA cutoff 2027–29
   - Christ Pune placement review
   - MBA in Pune Lavasa campus
   - Christ vs Other MBA in Pune
@@ -32,7 +32,7 @@ category: Online Degrees
 
 The **Pune Lavasa Campus** of Christ (Deemed to be University) is a unique "Hill Campus" focusing on specialized MBA and PhD programs, particularly in Business Analytics, HR, and Marketing. Known as a "Hub of Analytics," this campus offers the rigorous academic training of Christ in the scenic landscape of Lavasa City.
 
-### **Christ Pune Lavasa MBA Admission Process 2026**
+### **Christ Pune Lavasa MBA Admission Process 2027–29**
 1.  **Entrance Route**: Scores in **MAT (Composite score 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Assessment Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
@@ -42,7 +42,7 @@ The **Pune Lavasa Campus** of Christ (Deemed to be University) is a unique "Hill
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -56,7 +56,7 @@ Cutoffs for Pune Lavasa are generally slightly more accessible than the Bangalor
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **Christ University Pune Lavasa MBA Fee Structure 2026**
+### **Christ University Pune Lavasa MBA Fee Structure 2027–29**
 The costs here are slightly lower than the main Bangalore campuses, making it an attractive high-value option for management aspirants.
 *   **Annual Tuition Fee**: approx. ₹4.1 Lakhs - ₹4.5 Lakhs.
 *   **Total 2-Year Fees**: **₹8.2 Lakhs - ₹9.0 Lakhs**.
@@ -100,7 +100,7 @@ While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

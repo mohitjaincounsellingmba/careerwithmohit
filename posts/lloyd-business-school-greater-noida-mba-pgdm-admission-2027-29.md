@@ -13,7 +13,7 @@ description: >-
 keywords:
   - Lloyd Business School admission 2027-29
   - Lloyd Greater Noida fees 2027
-  - Lloyd Greater Noida placements 2026
+  - Lloyd Greater Noida placements 2027–29
   - Lloyd Greater Noida PGDM MBA fee structure 2027-29
   - Lloyd Greater Noida cutoff CAT MAT CMAT
   - Lloyd Greater Noida highest package
@@ -133,7 +133,7 @@ For the **2027–29 academic session**, Lloyd Greater Noida provides structured 
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹4.12 Lakhs / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹4.12 Lakhs / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹4.12 Lakhs / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA** | Full Course Aggregate |
 
@@ -259,6 +259,6 @@ Lloyd Greater Noida accepts valid percentiles from national entrance exams inclu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

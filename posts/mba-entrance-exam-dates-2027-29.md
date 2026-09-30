@@ -1,0 +1,158 @@
+---
+title: 'MBA Entrance Exam Dates 2027–29: CAT, XAT, SNAP, NMAT, CMAT & IIFT Schedule'
+date: 2026-05-22T00:00:00.000Z
+tags:
+  - MBA
+  - entrance-exam
+  - CAT
+  - XAT
+  - SNAP
+  - NMAT
+  - CMAT
+  - IIFT
+metaDescription: >-
+  Complete schedule of 2026 MBA entrance exams – CAT, XAT, SNAP, NMAT, CMAT, and
+  IIFT. Find dates, registration windows, and exam details to plan your MBA
+  admission strategy.
+description: >-
+  Comprehensive expert analysis and 2026-2027 admission guide for MBA Entrance
+  Exam Dates 2026: CAT, XAT, SNAP, NMAT, CMAT & IIFT Schedule. Check updated
+  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+keywords:
+  - MBA admission 2027–2029
+  - best MBA colleges
+  - MBA placements
+  - CAT preparation
+  - Direct Admission in Delhi
+faqs:
+  - question: What is the typical fee structure for MBA programs in India?
+    answer: >-
+      The fee structure varies widely. Government-aided institutes like FMS
+      Delhi have low fees (around INR 2 Lakhs), while top-tier private
+      institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+  - question: Is it possible to pursue an MBA without clearing CAT?
+    answer: >-
+      Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT,
+      or CMAT. Additionally, direct admission options under management quota are
+      available in several private B-schools.
+  - question: What is the difference between an MBA and a PGDM?
+    answer: >-
+      An MBA is a degree awarded by universities affiliated with UGC, whereas a
+      PGDM is a post-graduate diploma offered by autonomous institutes approved
+      by AICTE. Both are highly valued in the job market.
+location: Delhi NCR
+state: Delhi NCR
+category: Exams
+---
+# MBA Entrance Exam Dates 2027–29
+
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
+> - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
+Preparing for an MBA? Knowing the exact dates of the major entrance exams is the first step to a successful admission strategy. Below is a concise, up‑to‑date schedule for the **2026 MBA entrance exams** – **CAT, XAT, SNAP, NMAT, CMAT** and **IIFT**.
+
+## 📅 Exam Schedule Overview
+
+| Exam | Exam Date(s) | Registration Window | Status |
+|------|--------------|----------------------|--------|
+| **CAT (Common Admission Test)** | **29 Nov 2026** (expected) | Aug 2026 – Sep 2026 | Upcoming |
+| **XAT (Xavier Aptitude Test)** | **4 Jan 2026** | Oct 2025 – Dec 2025 | Concluded |
+| **SNAP (Symbiosis National Aptitude Test)** | **6, 14 & 20 Dec 2026** | Aug 2026 – Sep 2026 | Upcoming |
+| **NMAT (NMAT by GMAC)** | **Nov – Dec 2026** (exam window) | Aug 2026 – Oct 2026 | Upcoming |
+| **CMAT (Common Management Admission Test)** | **25 Jan 2026** | Oct 2025 – Dec 2025 | Concluded |
+| **IIFT (Indian Institute of Foreign Trade)** | *Uses CAT 2025 scores* (no separate exam) | – | Concluded |
+
+> **Tip:** Register early. Most exams close registration 2–4 weeks before the test date, and late applications are rarely accepted.
+
+---
+
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## Individual Exam Highlights
+
+### 1. CAT 2026
+- **Conducted by:** IIMs (IIT Madras, IISc Bangalore, ISI Kolkata)
+- **Eligibility:** Any graduate (or final‑year undergrad) with a minimum of 50 % marks (45 % for SC/ST/PwD).
+- **Test Pattern:** 3 sections – Verbal Ability & Reading Comprehension, Data Interpretation & Logical Reasoning, and Quantitative Ability.
+- **Why it matters:** Used by 115+ B‑schools across India.
+
+### 2. XAT 2026
+- **Conducted by:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
+- **Sections:** Verbal & Logical Ability, Decision Making, Quantitative Ability, and General Knowledge.
+- **Unique:** Decision‑Making section distinguishes XAT from other exams.
+
+### 3. SNAP 2026
+- **Conducted by:** Symbiosis International (Deemed University).
+- **Features:** Three slots allow candidates to attempt the test up to three times in a single year.
+- **Focus:** Emphasises quantitative & analytical reasoning.
+
+### 4. NMAT 2026
+- **Conducted by:** GMAC (global test‑provider).
+- **Flexibility:** Multiple test dates across the exam window; you can choose the most convenient day.
+- **Used By:** NMIMS, SP Jain, and several private B‑schools.
+
+### 5. CMAT 2026
+- **Conducted by:** NITs (Surat, Calicut, Allahabad) on behalf of AICTE.
+- **Typical Date:** Late January – early February.
+- **Benefit:** Simple registration and quick results.
+
+### 6. IIFT – No Separate Exam
+- **Process:** IIFT shortlists candidates based on **CAT 2025** scores, then conducts a **Writing Ability Test (WAT)** and **Personal Interview (PI)**.
+- **Takeaway:** Keep your CAT score strong if you aim for IIFT.
+
+---
+
+## 📌 How to Use This Schedule
+1. **Mark your calendar** – add these dates to a digital calendar with reminders a month before each registration deadline.
+2. **Prepare a study plan** – allocate more time to sections you find challenging (e.g., Quant for CAT, Decision‑Making for XAT).
+3. **Check official sites** – exam authorities occasionally adjust dates. Bookmark the official portals:
+   - [CAT Official Site](https://iimcat.ac.in)
+   - [XAT Official Site](https://xat.mahaportal.com)
+   - [SNAP Official Site](https://snaptest.org)
+   - [NMAT Official Site](https://nmat.org)
+   - [CMAT Official Site](https://councilofmanagers.org/cmat)
+4. **Practice with mock tests** – aim for at least three full‑length mocks per exam.
+
+---
+
+## Internal Links (SEO Boost)
+- Learn how to **[Create a Winning CAT Preparation Strategy (2026)](/blog/cat-2026-preparation-strategy-syllabus-dates)**.
+- Compare **[XAT vs CAT: Which Is Right for You?](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29)**.
+- Get tips for **[SNAP Exam Success (2026)](/blog/1-year-online-mba-colleges-india-2027-29)**.
+
+---
+
+## Call to Action
+Ready to ace your MBA entrance exams? **Subscribe** to our newsletter for weekly study plans, mock test links, and insider tips. Follow us on **Instagram**, **LinkedIn**, and **Facebook** for the latest updates on exam dates and admission deadlines.
+
+---
+
+*Disclaimer: All dates are based on the latest official announcements and are subject to change. Always verify with the respective exam authority’s website.*
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is the typical fee structure for MBA programs in India?
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+
+### Is it possible to pursue an MBA without clearing CAT?
+Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
+
+### What is the difference between an MBA and a PGDM?
+An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM is a post-graduate diploma offered by autonomous institutes approved by AICTE. Both are highly valued in the job market.
+
+
+
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

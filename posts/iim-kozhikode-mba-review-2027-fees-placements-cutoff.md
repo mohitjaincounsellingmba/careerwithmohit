@@ -10,7 +10,7 @@ keywords:
   - iim kozhikode mba admission 2027
   - iim kozhikode fees structure 2027
   - iim kozhikode average placement package
-  - iim kozhikode cutoff 2026 2027
+  - iim kozhikode cutoff 2027–29 2027
   - iimk review 2027
   - top mba colleges in kozhikode
   - best mba colleges in kerala

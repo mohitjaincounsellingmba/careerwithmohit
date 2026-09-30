@@ -1,5 +1,5 @@
 ---
-title: Top MBA & PGDM Colleges Under 10 Lakhs in Pune (Direct Admission 2026)
+title: Top MBA & PGDM Colleges Under 10 Lakhs in Pune (Direct Admission 2027–29)
 date: '2026-03-26'
 description: >-
   Discover Pune's best MBA and PGDM colleges under 10 Lakhs fees. Get details on
@@ -7,7 +7,7 @@ description: >-
   intake.
 keywords:
   - MBA colleges under 10 lakhs in Pune
-  - PGDM direct admission Pune 2026
+  - PGDM direct admission Pune 2027–29
   - '[RIIM Pune](/colleges/riim-pune) placement'
   - Indira Institute of Management fees
   - PIBM direct admission
@@ -35,7 +35,7 @@ Pune, famously known as the "Oxford of the East," is one of the most preferred d
 
 If you don't have a top score in CAT or MAH-MBA CET, there are still excellent B-Schools offering direct admission (profile-based or management quota) with a total fee of under ₹10 Lakhs. 
 
-Here are the **top MBA/PGDM colleges in Pune under ₹10 Lakhs** for the 2026 admission cycle.
+Here are the **top MBA/PGDM colleges in Pune under ₹10 Lakhs** for the 2027–29 admission cycle.
 
 ### **1. RIIM (Ramachandran International Institute of Management)**
 [RIIM Pune](/colleges/riim-pune) is widely popular among students looking for highly affordable MBA + Employability programs.
@@ -100,7 +100,7 @@ Absolutely not. Companies recruit based on skills, communication, and aptitude. 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

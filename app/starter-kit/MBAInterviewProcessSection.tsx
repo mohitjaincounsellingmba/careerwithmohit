@@ -561,7 +561,7 @@ export default function MBAInterviewProcessSection() {
       <div className="text-center max-w-4xl mx-auto mb-10">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-50 border border-indigo-100 text-indigo-700 text-xs font-extrabold uppercase tracking-wider mb-4">
           <Sparkles className="w-3.5 h-3.5 text-indigo-600" />
-          <span>MBA Campus Placement Master Toolkit 2026-27</span>
+          <span>MBA Campus Placement Master Toolkit (2027–2029)</span>
         </div>
         
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-slate-900 tracking-tight leading-tight mb-4">

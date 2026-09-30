@@ -31,7 +31,7 @@ faqs:
       Many universities remain "Test Optional," but we strongly recommend taking
       the GRE to strengthen your application, especially for scholarship
       eligibility. See our [US Admissions
-      Guide](/blog/us-university-admissions-guide-indian-students-2026) for more
+      Guide](/blog/us-university-admissions-guide-indian-students-2027-29) for more
       details.
   - question: What is the validity of these scores?
     answer: >-
@@ -113,7 +113,7 @@ The Duolingo English Test is the fastest-growing English proficiency test, known
 This depends on your comfort level. IELTS uses a human examiner for the Speaking section, while TOEFL is entirely computer-based. IELTS is often preferred for UK/Canada, while TOEFL is the gold standard for the USA.
 
 ### 2. Can I skip the GRE for MS in USA in 2026?
-Many universities remain "Test Optional," but we strongly recommend taking the GRE to strengthen your application, especially for scholarship eligibility. See our [US Admissions Guide](/blog/us-university-admissions-guide-indian-students-2026) for more details.
+Many universities remain "Test Optional," but we strongly recommend taking the GRE to strengthen your application, especially for scholarship eligibility. See our [US Admissions Guide](/blog/us-university-admissions-guide-indian-students-2027-29) for more details.
 
 ### 3. What is the validity of these scores?
 *   **SAT, GRE, TOEFL:** 5 Years (though some universities prefer scores within 2 years).
@@ -129,7 +129,7 @@ Don't let the complex admission process overwhelm you. Whether it is choosing th
 ---
 
 ### 📚 More Resources for You
-*   [US Admissions Guide for Indian Students](/blog/us-university-admissions-guide-indian-students-2026)
+*   [US Admissions Guide for Indian Students](/blog/us-university-admissions-guide-indian-students-2027-29)
 *   [Top MBA Colleges in India accepting GMAT](/blog/all-about-gmat-exam-colleges-cutoffs)
 *   [Best BTech Colleges with Global Tie-ups](/blog/best-btech-colleges-india-2026)
 

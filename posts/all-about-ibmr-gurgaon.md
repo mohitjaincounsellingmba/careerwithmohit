@@ -1,12 +1,12 @@
 ---
-title: 'IBMR Gurgaon Review 2026: Placements & Infrastructure Highlights'
+title: 'IBMR Gurgaon Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of IBMR Gurgaon. Check the 2024 placement packages, state-of-the-art
   3-acre campus, and faculty reputation for 2026-2027 admissions & career
   guidance.
 keywords:
-  - IBMR Gurgaon review 2026
+  - IBMR Gurgaon review 2027–29
   - IBMR MBA placements 2024
   - IBMR Gurgaon faculty
   - MBA colleges in Gurgaon
@@ -94,7 +94,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

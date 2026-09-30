@@ -113,7 +113,7 @@ A BBA gives you the *theoretical* tools; the skills above are the *practical* we
 
 ---
 ### 🚀 Ready to Accelerate Your Startup?
-Explore our **[Free MBA Mock Test Series 2026](/mock-tests)** to sharpen your business acumen, or book a free 30‑minute consultation with Mohit Jain for personalized guidance.
+Explore our **[Free MBA Mock Test Series 2027–29](/mock-tests)** to sharpen your business acumen, or book a free 30‑minute consultation with Mohit Jain for personalized guidance.
 ---
 
 ## Frequently Asked Questions (FAQ)

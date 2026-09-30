@@ -119,7 +119,7 @@ The deadline for individual taxpayers whose accounts don't need to be audited is
 ---
 
 ### Useful Links:
-- [How to Save Tax Under 80C & 80D Guide](/blog/save-income-tax-india-80c-80d-guide-2026)
+- [How to Save Tax Under 80C & 80D Guide](/blog/save-income-tax-india-80c-80d-guide-2027-29)
 - [Career in Finance after MBA](/blog/career-in-finance-course)
 - [US Income Tax Return Filing Guide 2026](/blog/us-income-tax-return-filing-guide-2026)
 
@@ -136,6 +136,6 @@ Taxation is not just about payments; it's about optimizing your disposable incom
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

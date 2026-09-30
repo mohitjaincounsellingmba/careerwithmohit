@@ -12,7 +12,7 @@ description: >-
 keywords:
   - Jaipuria School of Business (JSB) admission 2027-29
   - Jaipuria Ghaziabad fees 2027
-  - Jaipuria Ghaziabad placements 2026
+  - Jaipuria Ghaziabad placements 2027–29
   - Jaipuria Ghaziabad PGDM MBA fee structure 2027-29
   - Jaipuria Ghaziabad cutoff CAT MAT CMAT
   - Jaipuria Ghaziabad highest package
@@ -128,7 +128,7 @@ For the **2027–29 academic session**, Jaipuria Ghaziabad provides structured i
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹4.25 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹4.25 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹4.25 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹8.50 Lakhs (Total)** | Full Course Aggregate |
 
@@ -254,6 +254,6 @@ Jaipuria Ghaziabad accepts valid percentiles from national entrance exams includ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -83,7 +83,7 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** (PGPM / PGDM) | Gurugram | ₹17.20 Lakhs | ₹15.80 LPA | CAT / XAT / CMAT / GMAT |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | Noida (Sec-62) | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
 | **[SOIL Institute of Management](/colleges/soil-gurgaon)** (1-Yr / 2-Yr) | Gurugram | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
-| **[Amity Business School](/blog/amity-noida-review-2026)** (MBA) | Noida (Sec-125) | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / Amity Test / Direct |
+| **[Amity Business School](/blog/amity-noida-review-2027-29)** (MBA) | Noida (Sec-125) | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / Amity Test / Direct |
 | **[JIMS Rohini](/blog/all-about-jims-rohini)** (PGDM) | North-West Delhi | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
 
 ---

@@ -13,7 +13,7 @@ description: >-
 keywords:
   - psg institute of management (psgim) review 2027
   - psg institute of management (psgim) mba fees
-  - psg institute of management (psgim) placements 2026 2027
+  - psg institute of management (psgim) placements 2027–29 2027
   - psg institute of management (psgim) average package
   - psg institute of management (psgim) highest package
   - psg institute of management (psgim) cutoff cat mat
@@ -221,6 +221,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

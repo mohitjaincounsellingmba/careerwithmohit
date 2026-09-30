@@ -107,7 +107,7 @@ The NTA’s role is limited to conducting the exam, releasing answer keys, and d
 ## 🔗 Related Resources for Aspirants
 *   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
 *   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2026)
+*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29)
 *   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026)
 
 ---
@@ -137,6 +137,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

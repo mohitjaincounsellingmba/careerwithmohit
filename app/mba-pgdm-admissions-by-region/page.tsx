@@ -9,39 +9,39 @@ const PAGE_PATH = '/mba-pgdm-admissions-by-region/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Explore MBA & PGDM Admissions by Region 2027: Top Hubs, Cutoffs & Fees | CareerWithMohit',
+  title: 'Explore MBA & PGDM Admissions by Region (2027–2029): Top 8 Hubs, Cutoffs & Fees | CareerWithMohit',
   description:
-    'Compare top MBA & PGDM colleges across Delhi NCR, Mumbai, Bangalore, Pune, Hyderabad, Kolkata, Ahmedabad & Jaipur for 2027. Review fees, average placements, and regional cutoffs.',
+    'Compare top MBA & PGDM colleges across Delhi NCR, Mumbai, Bangalore, Pune, Hyderabad, Kolkata, Ahmedabad & Jaipur for the 2027–2029 batch. Review fees, average placements, and regional cutoffs.',
   keywords: [
-    'Explore MBA PGDM Admissions by Region',
+    'Explore MBA PGDM Admissions by Region 2027-29',
     'MBA admission by region India',
-    'top MBA colleges Delhi NCR 2027',
-    'MBA admission Bangalore 2027',
-    'MBA admission Mumbai 2027',
-    'MBA admission Pune 2027',
-    'MBA admission Hyderabad 2027',
-    'MBA admission Kolkata 2027',
-    'MBA admission Ahmedabad 2027',
-    'MBA admission Jaipur 2027',
-    'best regional MBA colleges India',
+    'top MBA colleges Delhi NCR 2027-29',
+    'MBA admission Bangalore 2027-29',
+    'MBA admission Mumbai 2027-29',
+    'MBA admission Pune 2027-29',
+    'MBA admission Hyderabad 2027-29',
+    'MBA admission Kolkata 2027-29',
+    'MBA admission Ahmedabad 2027-29',
+    'MBA admission Jaipur 2027-29',
+    'best regional MBA colleges India 2027-29',
     'regional MBA cutoffs CAT XAT CMAT'
   ],
   alternates: {
     canonical: PAGE_URL,
   },
   openGraph: {
-    title: 'Explore MBA & PGDM Admissions by Region 2027 | CareerWithMohit',
+    title: 'Explore MBA & PGDM Admissions by Region (2027–2029) | CareerWithMohit',
     description:
-      'Compare India\'s 8 major MBA business hubs. Get fee structures, placement comparisons, and 1-on-1 admission counseling with Mohit Jain.',
+      'Compare India\'s 8 major MBA business hubs for 2027–2029 batch. Get fee structures, placement comparisons, and 1-on-1 admission counseling with Mohit Jain.',
     url: PAGE_URL,
     siteName: 'CareerWithMohit',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Explore MBA & PGDM Admissions by Region 2027',
+    title: 'Explore MBA & PGDM Admissions by Region (2027–2029)',
     description:
-      'Compare premier PGDM/MBA institutes across major Indian cities: Delhi NCR, Mumbai, Bangalore, Pune, and more.',
+      'Compare premier PGDM/MBA institutes across major Indian cities for 2027–2029: Delhi NCR, Mumbai, Bangalore, Pune, and more.',
   },
   robots: {
     index: true,

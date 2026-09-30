@@ -84,8 +84,8 @@ keywords:
   - 'engineering colleges Surat, Gujarat'
   - Ahmedabad Colleges
   - Best Colleges in Ahmedabad
-  - Top Colleges in Ahmedabad 2026
-  - Ahmedabad Direct Admission 2026
+  - Top Colleges in Ahmedabad 2027-29
+  - Ahmedabad Direct Admission 2027-29
   - Colleges in Gujarat
   - Ahmedabad Career Counselling
 ---

@@ -10,7 +10,7 @@ keywords:
   - iim visakhapatnam mba admission 2027
   - iim visakhapatnam fees structure 2027
   - iim visakhapatnam average placement package
-  - iim visakhapatnam cutoff 2026 2027
+  - iim visakhapatnam cutoff 2027–29 2027
   - iimv review 2027
   - top mba colleges in visakhapatnam
   - best mba colleges in andhra pradesh

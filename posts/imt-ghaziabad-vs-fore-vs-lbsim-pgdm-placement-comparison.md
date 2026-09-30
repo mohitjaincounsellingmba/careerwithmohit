@@ -1,5 +1,5 @@
 ---
-title: 'IMT Ghaziabad vs FORE vs LBSIM: PGDM Placement Comparison, Fees & Cutoffs 2026'
+title: 'IMT Ghaziabad vs FORE vs LBSIM: PGDM Placement Comparison, Fees & Cutoffs 2027–29'
 date: '2026-09-12'
 description: >-
   In-depth comparison of Delhi NCR premier B-schools: IMT Ghaziabad vs FORE
@@ -135,6 +135,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

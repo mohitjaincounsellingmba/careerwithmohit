@@ -1,12 +1,12 @@
 ---
-title: 'JIMS Rohini Review 2026: Placements & Infrastructure Highlights'
+title: 'JIMS Rohini Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for JIMS Rohini
-  Review 2026: Placements & Infrastructure Highlights. Check updated fees,
+  Review 2027–29: Placements & Infrastructure Highlights. Check updated fees,
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - JIMS Rohini review 2026
+  - JIMS Rohini review 2027–29
   - JIMS Rohini placement 2024
   - JIMS Rohini infrastructure
   - best B-schools in North Delhi
@@ -22,7 +22,7 @@ faqs:
       JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores
       followed by GD/PI. For guidance on institutional categories or vacant
       seats, you can contact our expert counsellors.
-  - question: What is the fee structure for JIMS Rohini PGDM 2026?
+  - question: What is the fee structure for JIMS Rohini PGDM 2027–29?
     answer: >-
       The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS
       Rohini is approximately **₹9.25 Lakhs**.
@@ -77,7 +77,7 @@ Yes, JIMS Rohini is one of the most respected private B-schools in North Delhi. 
 ### 2. Can I get direct admission in JIMS Rohini?
 JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores followed by GD/PI. For guidance on institutional categories or vacant seats, you can contact our expert counsellors.
 
-### 3. What is the fee structure for JIMS Rohini PGDM 2026?
+### 3. What is the fee structure for JIMS Rohini PGDM 2027–29?
 The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS Rohini is approximately **₹9.25 Lakhs**.
 
 ---
@@ -92,7 +92,7 @@ The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS Roh
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

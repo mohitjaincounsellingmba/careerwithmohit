@@ -13,7 +13,7 @@ description: >-
 keywords:
   - vignana jyothi institute of management (vjim hyderabad) review 2027
   - vignana jyothi institute of management (vjim hyderabad) mba fees
-  - vignana jyothi institute of management (vjim hyderabad) placements 2026 2027
+  - vignana jyothi institute of management (vjim hyderabad) placements 2027–29 2027
   - vignana jyothi institute of management (vjim hyderabad) average package
   - vignana jyothi institute of management (vjim hyderabad) highest package
   - vignana jyothi institute of management (vjim hyderabad) cutoff cat mat
@@ -224,6 +224,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

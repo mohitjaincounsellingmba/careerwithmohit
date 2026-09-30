@@ -10,7 +10,7 @@ keywords:
   - JEE Main 2026
   - JEE Advanced 2026
   - IIT admission 2026
-  - NIT cutoff 2026
+  - NIT cutoff 2027–29
   - JEE pattern 2026
   - JEE syllabus PDF
   - Direct Admission in Delhi
@@ -104,6 +104,6 @@ Candidates can attempt JEE Advanced a maximum of **two times in two consecutive 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1,13 +1,12 @@
 ---
-title: 'IIFT Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff'
+title: 'IIFT Delhi PGDM Admission Review 2027–29: Placements, Fees & Cutoff'
 date: '2026-06-25'
 category: Exams
 description: >-
-  Looking for admission to IIFT Delhi? Read our comprehensive PGDM review for
-  2026 covering total fees, average and highest placement packages, accepted
+  Looking for admission to IIFT Delhi? Read our comprehensive PGDM review for 2027–29 covering total fees, average and highest placement packages, accepted
   entrance exams, and cutoffs.
 keywords:
-  - iift delhi review 2026
+  - iift delhi review 2027–29
   - iift delhi pgdm placements
   - iift delhi admission cutoff
   - iift delhi fees
@@ -99,7 +98,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

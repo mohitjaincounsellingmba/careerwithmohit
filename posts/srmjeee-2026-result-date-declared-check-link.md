@@ -133,7 +133,7 @@ Use this as a general guide (based on previous years):
 A: No. The SRMJEEE rank card is only available on the official SRMIST portal.
 
 **Q: Can I join SRM without SRMJEEE?**
-A: Yes. SRM accepts JEE Main scores and also offers direct admission through its management quota. [Read about Direct Admission at SRM →](/blog/direct-admission-srm-university-2026)
+A: Yes. SRM accepts JEE Main scores and also offers direct admission through its management quota. [Read about Direct Admission at SRM →](/blog/direct-admission-srm-university-2027-29)
 
 **Q: What if I missed the SRMJEEE exam?**
 A: You can appear in Phase 2. Alternatively, apply under the direct admission route which doesn't require an entrance exam score.
@@ -147,13 +147,13 @@ A: SRM Kattankulathur alone has 10,000+ seats across all branches, making it one
 
 👉 [Free SRMJEEE 2026 Mock Test — Practice Now](/tools/mock-test/srmjee)
 
-👉 [How to Clear SRM JEE 2026 — Full Strategy Guide](/blog/how-to-clear-srm-jee-2026)
+👉 [How to Clear SRM JEE 2026 — Full Strategy Guide](/blog/how-to-clear-srm-jee-2027-29)
 
 👉 [All About SRM University Campuses](/blog/all-about-srm-university-campuses)
 
 👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026)
 
-👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2026)
+👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29)
 
 ---
 
@@ -186,6 +186,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

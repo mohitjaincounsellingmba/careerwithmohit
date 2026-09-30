@@ -1,5 +1,5 @@
 ---
-title: 'Pearl Academy, Delhi PGDM Admission Review 2026: Placements, Fees & Cutoff'
+title: 'Pearl Academy, Delhi PGDM Admission Review 2027–29: Placements, Fees & Cutoff'
 date: '2026-06-25'
 category: Exams
 description: >-
@@ -7,7 +7,7 @@ description: >-
   review for 2026 covering total fees, average and highest placement packages,
   accepted entrance exams, and cutoffs.
 keywords:
-  - 'pearl academy, delhi review 2026'
+  - 'pearl academy, delhi review 2027–29'
   - 'pearl academy, delhi pgdm placements'
   - 'pearl academy, delhi admission cutoff'
   - 'pearl academy, delhi fees'
@@ -100,7 +100,7 @@ The college accepts scores from national level entrance examinations including E
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

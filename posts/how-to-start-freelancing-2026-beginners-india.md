@@ -74,7 +74,7 @@ Freelancing is effectively running a one-person company.
 
 ### **Accelerate Your Professional Growth:**
 Freelancing is another form of a career. If you eventually want to switch back to a corporate role or scale your business, check out these resources:
-*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2026)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29)
 *   [Verified High-Paying Job Roles for 2026](/jobs)
 *   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
 *   [List of All State Education Boards in India](/blog/all-state-boards-india-official-websites)
@@ -104,6 +104,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

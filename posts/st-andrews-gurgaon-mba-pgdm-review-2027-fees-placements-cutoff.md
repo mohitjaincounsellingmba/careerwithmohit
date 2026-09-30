@@ -7,7 +7,7 @@ keywords:
   - 'st. andrews institute of technology & management (saitm) pgdm admission 2027'
   - 'st. andrews institute of technology & management (saitm) mba fees 2027'
   - 'st. andrews institute of technology & management (saitm) average placement package'
-  - 'st. andrews institute of technology & management (saitm) cutoff 2026 2027'
+  - 'st. andrews institute of technology & management (saitm) cutoff 2027–29 2027'
   - 'saitm review 2027'
   - 'direct admission in st. andrews institute of technology & management (saitm)'
   - 'top pgdm colleges in sector 109'

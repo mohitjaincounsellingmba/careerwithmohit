@@ -10,7 +10,7 @@ keywords:
   - iim shillong mba admission 2027
   - iim shillong fees structure 2027
   - iim shillong average placement package
-  - iim shillong cutoff 2026 2027
+  - iim shillong cutoff 2027–29 2027
   - iims review 2027
   - top mba colleges in shillong
   - best mba colleges in meghalaya

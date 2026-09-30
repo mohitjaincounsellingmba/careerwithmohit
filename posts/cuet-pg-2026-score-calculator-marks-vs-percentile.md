@@ -90,9 +90,9 @@ Unlike other exams, CUET PG has a high "penalty" for wrong guesses. For every in
 ---
 
 ## 💡 Related Reading for CUET PG Aspirants:
-- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
+- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg)
 - [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [CUET PG MBA College Predictor 2026](/tools/cuet-pg-mba-predictor)
+- [CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor)
 
 **Calculate your score now!**
 [📊 Open the CUET PG 2026 Score Calculator](/calculator/cuet-pg-2026)
@@ -107,6 +107,6 @@ Unlike other exams, CUET PG has a high "penalty" for wrong guesses. For every in
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1,12 +1,12 @@
 ---
-title: Top MBA & PGDM Colleges Under 10 Lakhs in Bangalore (Direct Admission 2026)
+title: Top MBA & PGDM Colleges Under 10 Lakhs in Bangalore (Direct Admission 2027–29)
 date: '2026-03-26'
 description: >-
   Explore Bangalore's high ROI MBA and PGDM colleges under ₹10 Lakhs. Learn
   about direct admission opportunities in AIMS, ISBR, IBA, and RVIM for 2026.
 keywords:
   - MBA colleges under 10 lakhs in Bangalore
-  - PGDM direct admission Bangalore 2026
+  - PGDM direct admission Bangalore 2027–29
   - AIMS Institute Bangalore fees
   - ISBR direct admission
   - management quota MBA Bangalore
@@ -95,7 +95,7 @@ Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 La
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

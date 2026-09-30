@@ -139,8 +139,8 @@ Ireland is one of Europe's **fastest-growing economies** and a major hub for glo
 ### 🔗 Related Reads
 
 - [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Global MBA Online 2026: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [Cambridge Judge MBA Review 2026](/blog/cambridge-judge-mba-review-2026)
+- [Global MBA Online 2027–29: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [Cambridge Judge MBA Review 2027–29](/blog/cambridge-judge-mba-review-2027-29)
 
 ---
 
@@ -162,6 +162,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

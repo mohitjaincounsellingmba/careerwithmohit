@@ -22,7 +22,7 @@ description: >-
 keywords:
   - career counselling
   - admissions 2026
-  - placements 2025
+  - placements 2027–29
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
@@ -48,7 +48,7 @@ Symbiosis International (Deemed University) is one of India’s most prestigious
 
 Admission to all Symbiosis MBA programs is conducted exclusively through the **Symbiosis National Aptitude Test (SNAP)**. 
 
-In this comprehensive guide, we break down all 16 Symbiosis MBA institutes, detailing their fees, average placement packages, highest packages, and expected SNAP cutoffs for the 2025-2026 academic cycle.
+In this comprehensive guide, we break down all 16 Symbiosis MBA institutes, detailing their fees, average placement packages, highest packages, and expected SNAP cutoffs for the 2027–29-2026 academic cycle.
 
 ---
 
@@ -61,7 +61,7 @@ These three institutes are the crown jewels of Symbiosis, commanding the highest
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -242,7 +242,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

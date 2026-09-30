@@ -12,8 +12,8 @@ keywords:
   - >-
     [Christ University Bangalore](/colleges/christ-university-bangalore) MBA
     admission 2027–2029
-  - Christ University MBA fees 2026
-  - Christ University MBA cutoff 2025
+  - Christ University MBA fees 2027–29
+  - Christ University MBA cutoff 2027–29
   - Christ University MBA placement review
   - MBA at Christ Central Campus
   - MAT score for Christ University MBA
@@ -36,7 +36,7 @@ category: Online Degrees
 
 **Christ (Deemed to be University)**, particularly its Central Campus on Hosur Road, Bangalore, is a top-tier destination for MBA aspirants in India. Known for its strict discipline, industry-oriented curriculum, and high-tech urban campus, the **School of Business and Management (SBM)** at Christ is consistently ranked among the top private B-schools.
 
-### **Christ University MBA Admission Process 2026**
+### **Christ University MBA Admission Process 2027–29**
 The admission cycle for the 2027–2029 intake is already underway.
 1.  **Selection Criteria**: Based on valid scores in **MAT (Composite score 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Selection Process**: Includes a **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
@@ -47,7 +47,7 @@ The admission cycle for the 2027–2029 intake is already underway.
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -61,7 +61,7 @@ Christ University looks for a holistic profile, but a baseline entrance score is
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **MBA Fee Structure 2026**
+### **MBA Fee Structure 2027–29**
 The Central Campus offers a premium experience with a fee structure that reflects its high ROI and location.
 *   **Total Academic Fee (2 Years)**: **₹11.4 Lakhs - ₹11.6 Lakhs**.
 *   **Registration Fee**: ₹8,000 (non-refundable).
@@ -105,7 +105,7 @@ While Central Campus is the urban heart, Kengeri offers a lush, sprawling enviro
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

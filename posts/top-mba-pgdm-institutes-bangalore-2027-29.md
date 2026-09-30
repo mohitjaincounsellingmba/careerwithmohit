@@ -80,27 +80,27 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 ### 1. [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)
 * **Accreditation**: AICTE Approved, NBA Accredited, ACBSP International Accreditation.
 * **Specializations**: Marketing, Finance, HR, Analytics, Operations.
-* **Why Choose XIME**: Strong alumni network across South Asia, mandatory winter internship, and consistent ₹10.75+ LPA average placements. Check detailed analysis at [All About XIME Bangalore](/blog/all-about-xime-bangalore).
+* **Why Choose XIME**: Strong alumni network across South Asia, mandatory winter internship, and consistent ₹10.75+ LPA average placements. Check detailed analysis at [All About XIME Bangalore](/colleges/xime-bangalore).
 
 ### 2. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))
 * **Highlights**: Globally AACSB accredited B-school. Renowned for its Industry Internship Program (IIP) and Business Analytics track.
-* **Placement Highlight**: Over 70+ corporate recruiters offering roles in MarTech, FinTech, and Management Consulting. Learn more at [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
+* **Placement Highlight**: Over 70+ corporate recruiters offering roles in MarTech, FinTech, and Management Consulting. Learn more at [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
 
 ### 3. [ISBR Business School](/colleges/isbr-business-school), Electronic City
 * **Highlights**: Located right in Electronic City Phase 1 next to Infosys & Wipro campus.
 * **Course Options**: PGDM (Dual Specialization), PGDM Business Analytics, PGDM One-Year.
-* **Placements**: Average package ₹8.50 LPA. Read our detailed review at [All About ISBR Bangalore](/blog/all-about-isbr-bangalore).
+* **Placements**: Average package ₹8.50 LPA. Read our detailed review at [All About ISBR Bangalore](/colleges/isbr-bangalore).
 
 ### 4. [GIBS Business School](/colleges/gibs-bangalore), Bannerghatta Road
 * **Highlights**: Known for its Innovation, Entrepreneurship & Personal Masterclass series.
-* **Key Features**: 100% placement track record, global immersion program, and budget-friendly fee structure. Explore [All About GIBS Bangalore](/blog/all-about-gibs-bangalore).
+* **Key Features**: 100% placement track record, global immersion program, and budget-friendly fee structure. Explore [All About GIBS Bangalore](/colleges/gibs-bangalore).
 
 ### 5. IBA ([Indus Business Academy](/colleges/indus-business-academy)), Kanakapura Road
 * **Highlights**: Single-program focused institute dedicated exclusively to PGDM.
 * **Infrastructure**: 8.5-acre dedicated residential campus with dual degree certification options. Read complete details at [All About IBA Bangalore](/blog/all-about-indus-business-academy).
 
 ### 6. [ISME Bangalore](/colleges/isme-bangalore) (International School of Management Excellence)
-* **Highlights**: Known for global academic linkages, international study tours to Singapore, and robust corporate placements. Visit [All About ISME Bangalore](/blog/all-about-isme-bangalore).
+* **Highlights**: Known for global academic linkages, international study tours to Singapore, and robust corporate placements. Visit [All About ISME Bangalore](/colleges/isme-bangalore).
 
 ---
 
@@ -126,6 +126,6 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

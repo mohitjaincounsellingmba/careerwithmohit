@@ -136,15 +136,15 @@ The IPMAT exam is no longer restricted to a single institution. Several premier 
 
 | College / University | Program Offered | Score Accepted | Approx. Fees (5 Years) | Average Package (MBA) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Indore](/blog/all-about-iim-indore-ipm-bba-admission-2026)** | 5-Year IPM (BA + MBA) | IPMAT Indore | ₹38 – 40 Lakhs | ₹25.68 LPA |
-| **[IIM Ranchi](/blog/all-about-iim-ranchi-ipm-bba-admission-2026)** | 5-Year IPM (BBA + MBA) | IPMAT Indore | ₹33 – 35 Lakhs | ₹18.69 LPA |
-| **[IIM Rohtak](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)** | 5-Year IPM (BBA + MBA) | IPMAT Rohtak | ₹34 – 36 Lakhs | ₹19.27 LPA |
+| **[IIM Indore](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)** | 5-Year IPM (BA + MBA) | IPMAT Indore | ₹38 – 40 Lakhs | ₹25.68 LPA |
+| **[IIM Ranchi](/blog/all-about-iim-ranchi-ipm-bba-admission-2027-29)** | 5-Year IPM (BBA + MBA) | IPMAT Indore | ₹33 – 35 Lakhs | ₹18.69 LPA |
+| **[IIM Rohtak](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)** | 5-Year IPM (BBA + MBA) | IPMAT Rohtak | ₹34 – 36 Lakhs | ₹19.27 LPA |
 | **IIFT Kakinada** | 5-Year Integrated Program | IPMAT Indore | ₹30 – 32 Lakhs | ₹29.10 LPA (Flagship) |
 | **NALSAR University, Hyderabad** | 5-Year IPM | IPMAT Indore | ₹20 – 24 Lakhs | ₹12 – 14 LPA |
 | **[TAPMI Bengaluru](/colleges/tapmi-bangalore)** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
 | **[Nirma University](/colleges/nirma-university), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
 
-*(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2026) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2026) accept JIPMAT scores conducted by NTA.)*
+*(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29) accept JIPMAT scores conducted by NTA.)*
 
 ---
 
@@ -264,11 +264,11 @@ Yes! A large percentage of students selected at IIM Indore and IIM Rohtak come f
 ---
 
 ### Useful Resources for After-12th Aspirants:
-* **[Top IIMs Offering BBA & IPM Programs 2026](/blog/top-iims-offering-bba-ipm-2026)**
-* **[IIM Indore IPM Admission Guide 2026](/blog/all-about-iim-indore-ipm-bba-admission-2026)**
-* **[IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)**
+* **[Top IIMs Offering BBA & IPM Programs 2026](/blog/top-iims-offering-bba-ipm-2027-29)**
+* **[IIM Indore IPM Admission Guide 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)**
+* **[IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)**
 * **[IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-best-colleges)**
-* **[Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026)**
+* **[Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29)**
 
 ---
 
@@ -279,6 +279,6 @@ Confused between IPMAT, CUET, and other BBA entrance exams? **[Speak to our Expe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

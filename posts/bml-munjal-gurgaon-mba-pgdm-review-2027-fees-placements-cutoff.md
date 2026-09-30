@@ -7,7 +7,7 @@ keywords:
   - 'bml munjal university (bmu) pgdm admission 2027'
   - 'bml munjal university (bmu) mba fees 2027'
   - 'bml munjal university (bmu) average placement package'
-  - 'bml munjal university (bmu) cutoff 2026 2027'
+  - 'bml munjal university (bmu) cutoff 2027–29 2027'
   - 'bml munjal university review 2027'
   - 'direct admission in bml munjal university (bmu)'
   - 'top pgdm colleges in nh-8'

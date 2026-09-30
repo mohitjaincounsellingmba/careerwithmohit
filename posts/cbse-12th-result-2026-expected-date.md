@@ -90,9 +90,9 @@ The moment the results are out, admission portals for various universities will 
 
 - **Science Students:** Be aware of the **[NEET UG 2026 Cancellation & Re-Test Updates](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates)** which might affect your medical admission timeline.
 - **Career Guides:** 
-    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2026)
-    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2026)
-    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2026)
+    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2027-29)
+    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29)
+    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2027-29)
 
 ---
 
@@ -131,6 +131,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

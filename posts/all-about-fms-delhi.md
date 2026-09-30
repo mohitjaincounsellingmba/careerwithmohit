@@ -1,5 +1,5 @@
 ---
-title: 'FMS Delhi: Fees, Placements, Cutoff & True ROI Review 2026'
+title: 'FMS Delhi: Fees, Placements, Cutoff & True ROI Review 2027–29'
 date: '2026-03-13'
 description: >-
   The ultimate guide to the Faculty of Management Studies (FMS), Delhi
@@ -8,7 +8,7 @@ description: >-
   career guidance.
 keywords:
   - '[FMS Delhi](/colleges/fms-delhi) review'
-  - '[FMS Delhi](/colleges/fms-delhi) placements 2026'
+  - '[FMS Delhi](/colleges/fms-delhi) placements 2027–29'
   - FMS MBA fees
   - FMS cutoff CAT
   - Faculty of Management Studies Delhi University
@@ -121,7 +121,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

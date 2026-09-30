@@ -48,7 +48,7 @@ state: Maharashtra
 
 The NMAT by GMAC (NMIMS Management Aptitude Test) is one of the most popular candidate-friendly MBA entrance exams in India. Conducted by the Graduate Management Admission Council (GMAC), NMAT scores are the sole path to NMIMS University campuses (Mumbai, Bengaluru, Hyderabad, Navi Mumbai, Indore, Shirpur) and are accepted by other prestigious business schools like K J Somaiya, XIMB, SDA Bocconi, and VIT University.
 
-Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting [NMIMS Mumbai](/colleges/nmims-mumbai) or other leading institutes for the 2027 batch, staying on top of the **NMAT 2026 application form open date** is critical.
+Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting [NMIMS Mumbai](/colleges/nmims-mumbai) or other leading institutes for the 2027 batch, staying on top of the **NMAT 2027–29 application form open date** is critical.
 
 ---
 
@@ -129,7 +129,7 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 * **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/all-about-nmat-exam)**
 * **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/all-about-nmims-campuses)**
-* **[Other Major MBA Entrance Exams for 2026 Admissions](/blog/all-about-omets-mba-entrance-exams-2026)**
+* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/all-about-omets-mba-entrance-exams-2027-29)**
 * **[Best MBA Colleges Acceptable with 200+ NMAT Score](/blog/baby-iims-review-2026-honest-analysis)**
 
 *Source: Official guidelines on the GMAC website.*
@@ -138,6 +138,6 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

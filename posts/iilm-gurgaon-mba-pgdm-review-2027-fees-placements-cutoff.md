@@ -7,7 +7,7 @@ keywords:
   - 'iilm university (gurugram campus) pgdm admission 2027'
   - 'iilm university (gurugram campus) mba fees 2027'
   - 'iilm university (gurugram campus) average placement package'
-  - 'iilm university (gurugram campus) cutoff 2026 2027'
+  - 'iilm university (gurugram campus) cutoff 2027–29 2027'
   - 'iilm university review 2027'
   - 'direct admission in iilm university (gurugram campus)'
   - 'top pgdm colleges in sector 53'

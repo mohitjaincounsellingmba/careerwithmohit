@@ -1,5 +1,5 @@
 ---
-title: 'Jai Minesh Adivasi University (JMAU) MBA: Review 2026'
+title: 'Jai Minesh Adivasi University (JMAU) MBA: Review 2027–29'
 date: '2026-03-18'
 description: >-
   Deep-dive review of Jai Minesh Adivasi University (JMAU) Kota MBA. Explore the
@@ -43,7 +43,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-### 📊 JMAU Kota MBA 2026 Snapshot
+### 📊 JMAU Kota MBA 2027–29 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -89,7 +89,7 @@ The university has strong links in the **Service and Hospitality sectors**, with
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

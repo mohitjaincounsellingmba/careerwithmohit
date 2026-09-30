@@ -14,7 +14,7 @@ keywords:
   - prestige institute of management and research (pimr indore) review 2027
   - prestige institute of management and research (pimr indore) mba fees
   - >-
-    prestige institute of management and research (pimr indore) placements 2026
+    prestige institute of management and research (pimr indore) placements 2027–29
     2027
   - prestige institute of management and research (pimr indore) average package
   - prestige institute of management and research (pimr indore) highest package
@@ -223,6 +223,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

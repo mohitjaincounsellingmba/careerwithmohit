@@ -1,11 +1,11 @@
 ---
-title: 'IILM Lodhi Road Delhi Review 2026: Placements & Infrastructure Highlights'
+title: 'IILM Lodhi Road Delhi Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of IILM Lodhi Road (New Delhi). Explore the premium placement stats,
   heritage campus, and elite faculty for 2026-2027 admissions & career guidance.
 keywords:
-  - IILM Lodhi Road review 2026
+  - IILM Lodhi Road review 2027–29
   - IILM Delhi placement
   - IILM Lodhi Road vs Gurugram
   - MBA in South Delhi
@@ -93,7 +93,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

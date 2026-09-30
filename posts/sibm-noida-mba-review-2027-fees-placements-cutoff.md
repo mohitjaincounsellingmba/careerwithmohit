@@ -10,7 +10,7 @@ keywords:
   - sibm noida mba admission 2027
   - sibm noida fees structure 2027
   - sibm noida average placement package
-  - sibm noida cutoff 2026 2027
+  - sibm noida cutoff 2027–29 2027
   - sibm noida review 2027
   - top mba colleges in noida
   - best mba colleges in uttar pradesh

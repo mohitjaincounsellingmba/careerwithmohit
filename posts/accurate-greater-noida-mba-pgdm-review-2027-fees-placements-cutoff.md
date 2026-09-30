@@ -7,7 +7,7 @@ keywords:
   - 'accurate institute of management & technology pgdm admission 2027'
   - 'accurate institute of management & technology mba fees 2027'
   - 'accurate institute of management & technology average placement package'
-  - 'accurate institute of management & technology cutoff 2026 2027'
+  - 'accurate institute of management & technology cutoff 2027–29 2027'
   - 'accurate institute of management & technology review 2027'
   - 'direct admission in accurate institute of management & technology'
   - 'top pgdm colleges in knowledge park iii'

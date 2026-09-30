@@ -125,7 +125,7 @@ Government colleges (IITs/NITs) cost around ₹8L - ₹12L for 4 years. Private 
 ### Useful Links:
 - [JEE Main 2026 College Predictor](/blog/jee-main-2026-college-predictor-rank-vs-college)
 - [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026)
-- [Best MCA vs B.Tech — Career Comparison](/blog/mca-vs-mba-career-comparison-2026)
+- [Best MCA vs B.Tech — Career Comparison](/blog/mca-vs-mba-career-comparison-2027-29)
 
 ---
 

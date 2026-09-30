@@ -1,12 +1,12 @@
 ---
-title: 'FOSTIIMA Delhi Review 2026: Placements & Infrastructure Highlights'
+title: 'FOSTIIMA Delhi Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of FOSTIIMA Business School, Delhi. Learn about its 100% placement
   record, IIM-alumni faculty, and modern Dwarka campus for 2026-2027 admissions
   & career guidance.
 keywords:
-  - FOSTIIMA Delhi review 2026
+  - FOSTIIMA Delhi review 2027–29
   - FOSTIIMA placement 2025
   - FOSTIIMA faculty review
   - MBA in Dwarka Delhi
@@ -96,7 +96,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

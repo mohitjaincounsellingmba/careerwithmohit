@@ -1,0 +1,150 @@
+---
+title: 'GD Goenka Law Review 2027–29: Fees, Placements & Admission Process'
+date: '2026-03-30'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva for 2026-2027 admissions & career guidance.
+keywords:
+  - GD Goenka Law Review 2027–29
+  - GD Goenka BA LLB Fees
+  - GD Goenka BBA LLB Fees
+  - Law placements in Gurgaon 2026
+  - CLAT 2026 admission GD Goenka
+  - best law schools in Gurgaon
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+faqs:
+  - question: What are the career options after BBA?
+    answer: >-
+      BBA graduates can enter fields like digital marketing, sales, business
+      analysis, operations, human resource management, or opt for higher studies
+      like an MBA.
+  - question: Is mathematics compulsory for BBA admissions?
+    answer: >-
+      No, many universities and colleges offer BBA admissions to students from
+      non-maths backgrounds, though some premier institutes like SSCBS Delhi
+      might require maths or applied maths.
+  - question: Which BBA specialization has the scope in 2026?
+    answer: >-
+      Specializations in Business Analytics, Digital Marketing, Finance, and
+      International Business are highly in demand and offer strong career
+      progression.
+location: Delhi NCR
+state: Delhi NCR
+category: BBA
+---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
+> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
+> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
+
+[GD Goenka University](/colleges/gd-goenka-university)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
+
+In this **GD Goenka Law Review 2027–29**, we break down the costs, placement success, and the practical training environment provided to budding lawyers.
+
+---
+
+## ⚖️ GD Goenka School of Law: Overview
+Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-university) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
+
+### **Key Highlights**
+*   **Infrastructure:** A dedicated School of Law building with its own specialized law library and state-of-the-art Moot Courtrooms.
+*   **Practical Training:** MANDATORY internships every semester at leading law firms, NGOs, and corporate legal departments.
+*   **International MOUs:** Collaboration with foreign universities for exchange programs and global legal conferences.
+
+---
+
+## 💰 GD Goenka Law Fees 2027–29
+Legal education at GD Goenka is an investment in your career, with fees reflecting the premium facilities and industry-linked curriculum.
+
+| Program | Duration | Approx. Annual Fee |
+| :--- | :--- | :--- |
+| **BA LLB (Hons) / BBA LLB (Hons)** | 5 Years | ~₹2.80 - 3.20 Lakhs |
+| **LLB (Hons)** | 3 Years | ~₹1.70 - 2.10 Lakhs |
+| **LLM** | 1 Year | ~₹1.25 - 1.50 Lakhs |
+
+*Note: Total cost for the 5-year integrated program is approximately **₹14 Lakhs to ₹15.5 Lakhs**. Hostel fees are extra, starting at **₹1.95 Lakhs/year**.*
+
+---
+
+## 🎯 Law Paths 2026
+Students can choose their track based on their undergraduate interests:
+*   **BA LLB (Hons):** Ideal for those interested in a mix of social sciences and law (Litigation, Civil Services).
+*   **BBA LLB (Hons):** Best for corporate law aspirants, focusing on business management and legal frameworks.
+*   **LLB (Hons):** A 3-year track for those who have already completed their graduation and want to pivot to Law.
+
+---
+
+## 📈 Placement & Internship Review (2025-26)
+While the brochure mentions high packages, the strength of GD Goenka Law lies in its **Internship and Placement Cell (IPC)**.
+
+*   **Average Package (Law):** **₹4.0 - ₹6.5 LPA** (varies based on the firm type).
+*   **Highest Packages:** Reported up to **₹12 - 15 LPA** for top-tier corporate legal roles.
+*   **Recruiters:** P&A Law Offices, Khaitan & Co (via internships), Trilegal (via internships), L&L Partners, and various corporate legal teams of Gurgaon MNCs.
+*   **Moot Court Excellence:** The university's strong mooting culture helps students gain practical skills that translate well in legal interviews.
+
+---
+
+## 📝 Admission Process 2026
+Selection is competitive and relies on national and internal assessment:
+
+1.  **Eligibility:** 10+2 with minimum 50% marks (for integrated programs).
+2.  **Entrance Exam:**
+    *   **CLAT:** National Law Admission Test scores are highly valued.
+    *   **LSAT-India:** Accepted for admission and scholarships.
+    *   **GATA (Goenka Aptitude Test):** The university’s mandatory entrance exam for those without national scores.
+3.  **Personal Interview:** To assess the candidate's logical reasoning and legal aptitude.
+
+---
+
+## ✅ Pros and Cons
+**Pros:**
+*   **State-of-the-Art Moot Courts:** provides the closest simulation to real-world legal environments.
+*   **Gurgaon Location:** Best for corporate law internships in Cyber City MNCs.
+*   **Holistic Growth:** Focus on research papers, seminars, and networking.
+
+**Cons:**
+*   **Pricey Tuition:** One of the more expensive private law options in the Delhi NCR region.
+*   **Competitive Peers:** Students must be extremely proactive in mooting and research to stand out for top-tier firm placements.
+
+---
+
+## 🔗 Related Resources
+*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026)
+*   [GD Goenka BBA Review 2027–29](/blog/gd-goenka-bba-review-2026)
+*   [Top Law Colleges in Delhi NCR 2026](/blog)
+
+---
+
+## ❓ Comparison: GD Goenka vs. Amity vs. Bennett (Law)
+*   **GD Goenka vs. Amity:** Amity has a larger brand, but Goenka offers a more specialized, personalized student-to-faculty ratio in its School of Law.
+*   **GD Goenka vs. Bennett:** Both are premium; Bennett is stronger for "modern digital" law, while Goenka is great for core corporate and civil legal training.
+
+[👉 Apply to GD Goenka Law 2026](/inquiry) | [💬 Chat with an Expert for Law Admissions](/inquiry)
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What are the career options after BBA?
+BBA graduates can enter fields like digital marketing, sales, business analysis, operations, human resource management, or opt for higher studies like an MBA.
+
+### Is mathematics compulsory for BBA admissions?
+No, many universities and colleges offer BBA admissions to students from non-maths backgrounds, though some premier institutes like SSCBS Delhi might require maths or applied maths.
+
+### Which BBA specialization has the scope in 2026?
+Specializations in Business Analytics, Digital Marketing, Finance, and International Business are highly in demand and offer strong career progression.
+
+
+
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

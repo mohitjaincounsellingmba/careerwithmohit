@@ -10,7 +10,7 @@ keywords:
   - iim kashipur mba admission 2027
   - iim kashipur fees structure 2027
   - iim kashipur average placement package
-  - iim kashipur cutoff 2026 2027
+  - iim kashipur cutoff 2027–29 2027
   - iim-kashipur review 2027
   - top mba colleges in kashipur
   - best mba colleges in uttarakhand

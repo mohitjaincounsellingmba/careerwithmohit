@@ -81,7 +81,7 @@ The declaration of the Matric result is the first major milestone in your academ
 
 For students in Bihar, planning ahead for higher education and professional degrees is crucial. Check out our resources for the next steps:
 *   [Bihar Board 12th Result 2026: What to Expect Next](/blog/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/blog/career-roadmaps-2026)
+*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/blog/career-roadmaps-2027-29)
 *   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
 *   [Bihar Student Credit Card (BSCC) Scheme: A Complete Guide](/blog/bihar-student-credit-card-mba-colleges)
 
@@ -119,6 +119,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

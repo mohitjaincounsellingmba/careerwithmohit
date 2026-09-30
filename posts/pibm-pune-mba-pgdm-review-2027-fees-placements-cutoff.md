@@ -7,7 +7,7 @@ keywords:
   - 'pune institute of business management (pibm) pgdm admission 2027'
   - 'pune institute of business management (pibm) mba fees 2027'
   - 'pune institute of business management (pibm) average placement package'
-  - 'pune institute of business management (pibm) cutoff 2026 2027'
+  - 'pune institute of business management (pibm) cutoff 2027–29 2027'
   - 'pibm review 2027'
   - 'direct admission in pune institute of business management (pibm)'
   - 'top pgdm colleges in bhugaon'

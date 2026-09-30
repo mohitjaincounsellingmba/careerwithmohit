@@ -1,12 +1,11 @@
 ---
-title: 'MAH MBA CET 2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs'
+title: 'MAH MBA CET 2027–29: Exam Dates, Syllabus, Pattern & Predicted Cutoffs'
 date: '2026-03-17'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MAH MBA CET
-  2026: Exam Dates, Syllabus, Pattern & Predicted Cutoffs. Check updated fees,
+  Comprehensive expert analysis and 2026-2027 admission guide for MAH MBA CET 2027–29: Exam Dates, Syllabus, Pattern & Predicted Cutoffs. Check updated fees,
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - MAH MBA CET 2026
+  - MAH MBA CET 2027–29
   - MAH CET syllabus 2026
   - MBA CET exam pattern
   - MHCET cutoff for JBIMS
@@ -14,9 +13,9 @@ keywords:
   - MAH CET mock test free
   - Direct Admission in Delhi
 faqs:
-  - question: When will MAH MBA CET 2026 registration start?
+  - question: When will MAH MBA CET 2027–29 registration start?
     answer: >-
-      MAH MBA CET 2026 registration is expected to begin in **January 2026**,
+      MAH MBA CET 2027–29 registration is expected to begin in **January 2026**,
       with the exam likely taking place in **March 2026**.
   - question: Is there negative marking in MAH CET?
     answer: >-
@@ -32,7 +31,7 @@ faqs:
       COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs
       here.](/colleges/mba-colleges-pune)
   - question: Can I get a scholarship for MBA via MAH CET?
-    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2026](/tools/mhcet-mock-test)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
+    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -45,7 +44,7 @@ category: Online Degrees
 
 The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
 
-Here is the complete overview of the MAH MBA CET exam for 2026 admissions:
+Here is the complete overview of the MAH MBA CET exam for 2027–29 admissions:
 
 ## Exam Overview & Conducting Body
 
@@ -121,8 +120,8 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 
 ## Frequently Asked Questions (FAQ)
 
-### 1. When will MAH MBA CET 2026 registration start?
-MAH MBA CET 2026 registration is expected to begin in **January 2026**, with the exam likely taking place in **March 2026**.
+### 1. When will MAH MBA CET 2027–29 registration start?
+MAH MBA CET 2027–29 registration is expected to begin in **January 2026**, with the exam likely taking place in **March 2026**.
 
 ### 2. Is there negative marking in MAH CET?
 No, there is **no negative marking** in MAH MBA CET. Students are encouraged to attempt all 200 questions.
@@ -136,7 +135,7 @@ Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**
 ### 5. Can I get a scholarship for MBA via MAH CET?
 Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.
 
-[👉 Read our detailed MAH MBA CET Scholarship Guide 2026](/tools/mhcet-mock-test)
+[👉 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test)
 
 [👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)
 
@@ -146,6 +145,6 @@ Yes! Maharashtra domicile students admitted through CAP rounds can apply for **E
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

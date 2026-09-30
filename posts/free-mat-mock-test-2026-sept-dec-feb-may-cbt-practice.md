@@ -17,7 +17,7 @@ keywords:
   - may mat mock test 2027
   - mat 150 questions practice paper free
   - mat score vs percentile calculator
-  - pumba welingkar mat cutoff 2026
+  - pumba welingkar mat cutoff 2027–29
   - free mock test 2026
   - online exam preparation
   - practice paper online

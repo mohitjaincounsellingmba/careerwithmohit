@@ -10,7 +10,7 @@ keywords:
   - iim ranchi mba admission 2027
   - iim ranchi fees structure 2027
   - iim ranchi average placement package
-  - iim ranchi cutoff 2026 2027
+  - iim ranchi cutoff 2027–29 2027
   - iim-ranchi review 2027
   - top mba colleges in ranchi
   - best mba colleges in jharkhand

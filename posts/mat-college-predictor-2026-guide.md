@@ -9,7 +9,7 @@ keywords:
   - MAT college predictor 2026
   - MAT score vs percentile 2026
   - MBA colleges accepting MAT
-  - MAT cutoff 2026
+  - MAT cutoff 2027–29
   - BIMTECH MAT cutoff
   - '[XIME Bangalore](/colleges/xime-bangalore) admission'
   - MAT percentile predictor
@@ -93,9 +93,9 @@ AIMA divides participating institutes into four zones. Our predictor allows you 
 - **SEO Optimized**: We provide direct links to fee structures and placement reports for top colleges.
 
 ### Related Reading:
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
 - [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
-- [MBA after B.Tech: Benefits 2026](/blog/mba-after-btech-benefits-2026)
+- [MBA after B.Tech: Benefits 2027–29](/blog/mba-after-btech-benefits-2027-29)
 
 ---
 
@@ -125,7 +125,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

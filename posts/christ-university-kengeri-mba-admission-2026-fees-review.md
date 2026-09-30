@@ -11,7 +11,7 @@ description: >-
 keywords:
   - Christ University Kengeri MBA admission 2027–2029
   - Christ University Kengeri MBA fees
-  - Christ University Kengeri MBA cutoff 2025
+  - Christ University Kengeri MBA cutoff 2027–29
   - Christ Kengeri MBA placement
   - MBA in Kengeri campus
   - Christ University vs Other MBA
@@ -35,7 +35,7 @@ category: Online Degrees
 
 The **Kengeri Campus** of Christ (Deemed to be University) in Bangalore is a beautiful, green 75-acre campus known for its serene learning environment. While slightly away from the urban chaos of the main campus, Kengeri houses some of the most specialized MBA tracks and executive programs, sharing a common centralized placement pool with the Central Campus.
 
-### **Christ Kengeri MBA Admission Process 2026**
+### **Christ Kengeri MBA Admission Process 2027–29**
 1.  **Entrance Exam**: Valid scores in **MAT (Composite 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Selection Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
@@ -45,7 +45,7 @@ The **Kengeri Campus** of Christ (Deemed to be University) in Bangalore is a bea
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -59,7 +59,7 @@ Kengeri shares its cutoff pool with the central campus.
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **Christ University Kengeri MBA Fee Structure 2026**
+### **Christ University Kengeri MBA Fee Structure 2027–29**
 Fees for the Kengeri campus are comparable to the main campus, providing a high-value residential experience.
 *   **Annual Tuition Fee**: approx. ₹5.7 Lakhs - ₹5.9 Lakhs.
 *   **Total 2-Year Fees**: **₹11.4 Lakhs - ₹11.8 Lakhs**.
@@ -104,7 +104,7 @@ While Kengeri is further from the city hub, it is well-connected by the Bangalor
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

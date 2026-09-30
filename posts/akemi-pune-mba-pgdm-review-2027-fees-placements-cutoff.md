@@ -7,7 +7,7 @@ keywords:
   - 'akemi business school pgdm admission 2027'
   - 'akemi business school mba fees 2027'
   - 'akemi business school average placement package'
-  - 'akemi business school cutoff 2026 2027'
+  - 'akemi business school cutoff 2027–29 2027'
   - 'akemi business school review 2027'
   - 'direct admission in akemi business school'
   - 'top pgdm colleges in tathawade'

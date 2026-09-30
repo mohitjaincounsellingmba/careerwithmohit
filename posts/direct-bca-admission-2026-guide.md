@@ -115,8 +115,8 @@ The "Golden Window" is between **April and May** (after board exams). By June/Ju
 ---
 
 ### Useful Links:
-- [Top BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2026)
-- [BCA Colleges Under 5 Lakhs NCR Guide](/blog/top-bca-colleges-delhi-ncr-2026)
+- [Top BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2027-29)
+- [BCA Colleges Under 5 Lakhs NCR Guide](/blog/top-bca-colleges-delhi-ncr-2027-29)
 - [BCA vs B.Tech CSE Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 
 ---
@@ -132,6 +132,6 @@ Don't guess with your future. Mohit Jain provides a **Safe Seat Audit**—verify
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

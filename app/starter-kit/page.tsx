@@ -6,14 +6,14 @@ import MBAInterviewProcessSection from './MBAInterviewProcessSection';
 import { BookOpen, Target, GraduationCap, FileText, CheckCircle2, Download, Sparkles, Building2, ShieldCheck, Users, Briefcase } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
-  description: 'Download 100% Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27. Includes CAT, NMAT, XAT syllabuses, percentile cutoffs, Big 4 & BFSI interview Q&A, and GDPI strategies.',
+  title: 'Free MBA Preparation Kit & Campus Placement Interview Guide (2027–2029) | Download PDF',
+  description: 'Download 100% Free MBA Preparation Kit & Campus Placement Selection Guide for 2027–2029 admissions. Includes CAT, NMAT, XAT syllabuses, percentile cutoffs, Big 4 & BFSI interview Q&A, and GDPI strategies.',
   keywords: [
     'mba campus placement interview questions and answers',
     'mba placement selection process guide pdf',
-    'free mba preparation kit',
+    'free mba preparation kit 2027-29',
     'free mba study material pdf download',
-    'cat exam starter kit 2026',
+    'cat exam starter kit 2027',
     'ey deloitte consulting interview questions mba',
     'jp morgan icici bank mba interview questions',
     'cat syllabus pdf download',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     canonical: 'https://careerwithmohit.online/starter-kit/',
   },
   openGraph: {
-    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
+    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide (2027–2029) | Download PDF',
     description: 'Get free instant PDF access to MBA entrance exam syllabuses, percentile cutoffs, Big 4/BFSI placement selection rounds & real interview questions.',
     url: 'https://careerwithmohit.online/starter-kit',
     siteName: 'CareerWithMohit',
@@ -35,14 +35,14 @@ export const metadata: Metadata = {
         url: 'https://careerwithmohit.online/og-image.webp',
         width: 1200,
         height: 630,
-        alt: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27',
+        alt: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2027–2029',
       },
     ],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide 2026-27 | Download PDF',
+    title: 'Free MBA Preparation Kit & Campus Placement Interview Guide (2027–2029) | Download PDF',
     description: 'Instant PDF downloads: CAT/XAT/NMAT syllabus, percentile cutoffs, Big 4/BFSI placement selection rounds & interview questions.',
   },
 };
@@ -51,7 +51,7 @@ export default function StarterKitPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Course',
-    name: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2026-27',
+    name: 'Free MBA Preparation Kit & Campus Placement Selection Guide 2027–2029',
     description: 'Comprehensive MBA entrance exam preparation starter kit and campus placement selection process & interview questions guide for CAT, XAT, NMAT, SNAP, CMAT & MAT aspirants.',
     provider: {
       '@type': 'Organization',

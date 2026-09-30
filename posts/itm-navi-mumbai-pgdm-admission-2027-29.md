@@ -12,7 +12,7 @@ description: >-
 keywords:
   - ITM Business School admission 2027-29
   - ITM Navi Mumbai fees 2027
-  - ITM Navi Mumbai placements 2026
+  - ITM Navi Mumbai placements 2027–29
   - ITM Navi Mumbai PGDM MBA fee structure 2027-29
   - ITM Navi Mumbai cutoff CAT MAT CMAT
   - ITM Navi Mumbai highest package
@@ -123,7 +123,7 @@ For the **2027–29 academic session**, ITM Navi Mumbai provides structured inst
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹6.22 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹6.22 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹6.22 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹12.45 Lakhs (Total)** | Full Course Aggregate |
 
@@ -250,6 +250,6 @@ ITM Navi Mumbai accepts valid percentiles from national entrance exams including
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

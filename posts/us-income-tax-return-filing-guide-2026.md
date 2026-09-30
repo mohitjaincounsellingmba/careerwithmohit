@@ -39,7 +39,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-Navigating the United States tax system can seem daunting, especially if you are newly employed after an [MBA or advanced degree](/blog/mba-after-btech-benefits-2026) or planning to work stateside. Unlike some countries with a centralized tax system, the US system involves both **Federal taxes** collected by the Internal Revenue Service (IRS) and **State taxes** collected by individual states.
+Navigating the United States tax system can seem daunting, especially if you are newly employed after an [MBA or advanced degree](/blog/mba-after-btech-benefits-2027-29) or planning to work stateside. Unlike some countries with a centralized tax system, the US system involves both **Federal taxes** collected by the Internal Revenue Service (IRS) and **State taxes** collected by individual states.
 
 Here is an in-depth look at how the US tax return process works, the common IRS forms you’ll encounter, and the federal income tax brackets.
 

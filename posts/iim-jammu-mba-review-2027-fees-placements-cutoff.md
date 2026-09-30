@@ -10,7 +10,7 @@ keywords:
   - iim jammu mba admission 2027
   - iim jammu fees structure 2027
   - iim jammu average placement package
-  - iim jammu cutoff 2026 2027
+  - iim jammu cutoff 2027–29 2027
   - iim-jammu review 2027
   - top mba colleges in jammu
   - best mba colleges in j&k

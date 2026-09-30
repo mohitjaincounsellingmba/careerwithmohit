@@ -7,7 +7,7 @@ keywords:
   - 'lloyd business school pgdm admission 2027'
   - 'lloyd business school mba fees 2027'
   - 'lloyd business school average placement package'
-  - 'lloyd business school cutoff 2026 2027'
+  - 'lloyd business school cutoff 2027–29 2027'
   - 'lloyd business school review 2027'
   - 'direct admission in lloyd business school'
   - 'top pgdm colleges in knowledge park ii'

@@ -12,7 +12,7 @@ description: >-
 keywords:
   - 'department of management studies (doms), iit madras review 2027'
   - 'department of management studies (doms), iit madras mba fees'
-  - 'department of management studies (doms), iit madras placements 2026 2027'
+  - 'department of management studies (doms), iit madras placements 2027–29 2027'
   - 'department of management studies (doms), iit madras average package'
   - 'department of management studies (doms), iit madras highest package'
   - 'department of management studies (doms), iit madras cutoff cat'
@@ -222,6 +222,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

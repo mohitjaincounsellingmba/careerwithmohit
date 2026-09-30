@@ -1,15 +1,15 @@
 ---
 title: >-
-  Noida Institute of Management & Technology PGDM Admission Review 2026:
+  Noida Institute of Management & Technology PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Noida Institute of Management & Technology? Read our
-  comprehensive PGDM review for 2026 covering total fees, average and highest
+  comprehensive PGDM review for 2027–29 covering total fees, average and highest
   placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - noida institute of management & technology review 2026
+  - noida institute of management & technology review 2027–29
   - noida institute of management & technology pgdm placements
   - noida institute of management & technology admission cutoff
   - noida institute of management & technology fees
@@ -106,7 +106,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

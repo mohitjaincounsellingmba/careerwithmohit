@@ -11,7 +11,7 @@ keywords:
   - bimtech greater noida mba admission 2027
   - bimtech greater noida fees structure 2027
   - bimtech greater noida average placement package
-  - bimtech greater noida cutoff 2026 2027
+  - bimtech greater noida cutoff 2027–29 2027
   - bimtech review 2027
   - top mba colleges in greater noida
   - best mba colleges in uttar pradesh

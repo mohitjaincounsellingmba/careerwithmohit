@@ -90,8 +90,8 @@ keywords:
   - 'engineering colleges Kolkata, West Bengal'
   - Kolkata Colleges
   - Best Colleges in Kolkata
-  - Top Colleges in Kolkata 2026
-  - Kolkata Direct Admission 2026
+  - Top Colleges in Kolkata 2027-29
+  - Kolkata Direct Admission 2027-29
   - Colleges in West Bengal
   - Kolkata Career Counselling
 ---

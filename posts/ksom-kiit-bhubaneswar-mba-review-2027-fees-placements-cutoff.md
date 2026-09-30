@@ -13,7 +13,7 @@ description: >-
 keywords:
   - kiit school of management (ksom) review 2027
   - kiit school of management (ksom) mba fees
-  - kiit school of management (ksom) placements 2026 2027
+  - kiit school of management (ksom) placements 2027–29 2027
   - kiit school of management (ksom) average package
   - kiit school of management (ksom) highest package
   - kiit school of management (ksom) cutoff kiitee management cat
@@ -216,6 +216,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

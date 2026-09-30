@@ -7,7 +7,7 @@ keywords:
   - 'asm institute of business management & research (ibmr) pgdm admission 2027'
   - 'asm institute of business management & research (ibmr) mba fees 2027'
   - 'asm institute of business management & research (ibmr) average placement package'
-  - 'asm institute of business management & research (ibmr) cutoff 2026 2027'
+  - 'asm institute of business management & research (ibmr) cutoff 2027–29 2027'
   - 'ibmr review 2027'
   - 'direct admission in asm institute of business management & research (ibmr)'
   - 'top pgdm colleges in chinchwad'

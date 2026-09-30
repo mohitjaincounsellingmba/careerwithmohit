@@ -1,19 +1,19 @@
 ---
 title: >-
-  MHCET MBA 2026 Answer Key Out: Check Phase 1 Response Sheet Link & Objection
+  MHCET MBA 2027–29 Answer Key Out: Check Phase 1 Response Sheet Link & Objection
   Window
 date: '2026-05-02'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MHCET MBA 2026
+  Comprehensive expert analysis and 2026-2027 admission guide for MHCET MBA 2027–29
   Answer Key Out: Check Phase 1 Response Sheet Link & Objection Window. Check
   updated fees, placement records, real cutoffs, and selection tips by Mohit
   Jain.
 keywords:
-  - MHCET MBA 2026 answer key out
-  - MAH MBA CET 2026 response sheet link
-  - MHCET MBA objection window 2026
+  - MHCET MBA 2027–29 answer key out
+  - MAH MBA CET 2027–29 response sheet link
+  - MHCET MBA objection window 2027–29
   - MBA CET marks vs percentile
-  - JBIMS cutoff 2026
+  - JBIMS cutoff 2027–29
   - CET Cell Maharashtra login
   - Direct Admission in Delhi
 faqs:
@@ -41,20 +41,20 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-The State Common Entrance Test Cell, Maharashtra, has officially released the **MHCET MBA 2026 Answer Key** and Candidate Response Sheets for the Phase 1 exams conducted on April 6, 7, and 8, 2026. Aspirants can now login to the official portal to check their correct answers and calculate their raw scores.
+The State Common Entrance Test Cell, Maharashtra, has officially released the **MHCET MBA 2027–29 Answer Key** and Candidate Response Sheets for the Phase 1 exams conducted on April 6, 7, and 8, 2026. Aspirants can now login to the official portal to check their correct answers and calculate their raw scores.
 
-The release of the answer key is a crucial step before the **MAH MBA CET 2026 Phase 2** exam, which is scheduled for **May 9, 2026**.
+The release of the answer key is a crucial step before the **MAH MBA CET 2027–29 Phase 2** exam, which is scheduled for **May 9, 2026**.
 
-## MHCET MBA 2026 Answer Key: Important Dates
+## MHCET MBA 2027–29 Answer Key: Important Dates
 
 The CET Cell has provided a very short window for candidates to review their responses and raise objections if they find any discrepancies in the official answer key.
 
 | Event | Date |
 |-------|------|
-| MHCET MBA Phase 1 Exam | April 6, 7, 8, 2026 |
+| MHCET MBA Phase 1 Exam | April 6, 7, 8, 2027–29 |
 | **Answer Key Release Date** | **May 2, 2026** |
 | **Objection Filing Window** | **May 2 to May 4, 2026** |
-| MHCET MBA Phase 2 Exam | May 9, 2026 |
+| MHCET MBA Phase 2 Exam | May 9, 2027–29 |
 | Final Result Declaration | June 2026 (Expected) |
 
 ---
@@ -63,12 +63,12 @@ The CET Cell has provided a very short window for candidates to review their res
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## How to Download MHCET MBA 2026 Response Sheet?
+## How to Download MHCET MBA 2027–29 Response Sheet?
 
 Follow these steps to access your individual response sheet and official answer key:
 
 1.  Visit the official website: [cetcell.mahacet.org](https://cetcell.mahacet.org).
-2.  Navigate to the **'Candidate Registration A.Y. 2026-27'** or the dedicated **'MAH-MBA/MMS-CET 2026'** portal.
+2.  Navigate to the **'Candidate Registration A.Y. 2026-27'** or the dedicated **'MAH-MBA/MMS-CET 2027–29'** portal.
 3.  Login using your **Registered Email ID** and **Password**.
 4.  Once logged in, look for the **'Objection Tracking'** or **'Response Sheet'** link.
 5.  Click on 'Question Paper & Response' to download the PDF.
@@ -98,11 +98,11 @@ Since MHCET 2026 Phase 1 was reported to be of moderate difficulty, the cutoffs 
 | **Welingkar, Mumbai** | 99.40+ | 132+ |
 | **COEP, Pune** | 99.20+ | 128+ |
 
-[👉 Check Now: MHCET MBA 2026 Marks vs Percentile Calculator](/calculator/mhcet-mba-2026)
+[👉 Check Now: MHCET MBA 2027–29 Marks vs Percentile Calculator](/calculator/mhcet-mba-2026)
 
 ---
 
-## MHCET MBA 2026 Phase 2 Aspirants: What to Learn?
+## MHCET MBA 2027–29 Phase 2 Aspirants: What to Learn?
 
 If you are appearing for Phase 2 on May 9, analyzing the Phase 1 answer key is vital. It gives you a clear idea of:
 - The exact difficulty level of Logical Reasoning and Abstract Reasoning.
@@ -119,10 +119,10 @@ If you are appearing for Phase 2 on May 9, analyzing the Phase 1 answer key is v
 If your raw score is looking low (below 100), don't lose hope. There are several high-ROI colleges in Pune and Mumbai that accept CMAT, ATMA, or offer Management Quota seats.
 
 **Related Articles:**
-- [Top MHCET MBA Colleges in Mumbai & Pune](/blog/top-mhcet-mba-colleges-mumbai-pune-2025)
+- [Top MHCET MBA Colleges in Mumbai & Pune](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29)
 - [How to Download MHCET MBA Answer Key PDF Step-by-Step](/blog/how-to-download-mhcet-mba-2026-answer-key-pdf)
-- [Direct MBA Admission in Pune 2026](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2026)
-- [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2026)
+- [Direct MBA Admission in Pune 2027–29](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2027-29)
+- [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2027-29)
 
 For personalized counselling and college selection, fill out the [Admission Inquiry Form](/inquiry) and we will guide you through the CAP rounds.
 
@@ -146,6 +146,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

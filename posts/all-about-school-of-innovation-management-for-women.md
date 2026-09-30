@@ -1,15 +1,15 @@
 ---
 title: >-
-  School of Innovation & Management (for Women) PGDM Admission Review 2026:
+  School of Innovation & Management (for Women) PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to School of Innovation & Management (for Women)? Read
-  our comprehensive PGDM review for 2026 covering total fees, average and
+  our comprehensive PGDM review for 2027–29 covering total fees, average and
   highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - school of innovation & management (for women) review 2026
+  - school of innovation & management (for women) review 2027–29
   - school of innovation & management (for women) pgdm placements
   - school of innovation & management (for women) admission cutoff
   - school of innovation & management (for women) fees
@@ -102,7 +102,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

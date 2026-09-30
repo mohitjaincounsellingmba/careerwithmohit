@@ -1,15 +1,14 @@
 ---
 title: >-
-  International Management and Analytics School Kolkata PGDM Admission Review
-  2026: Placements, Fees & Cutoff
+  International Management and Analytics School Kolkata PGDM Admission Review 2027–29: Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to International Management and Analytics School
-  Kolkata? Read our comprehensive PGDM review for 2026 covering total fees,
+  Kolkata? Read our comprehensive PGDM review for 2027–29 covering total fees,
   average and highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - international management and analytics school kolkata review 2026
+  - international management and analytics school kolkata review 2027–29
   - international management and analytics school kolkata pgdm placements
   - international management and analytics school kolkata admission cutoff
   - international management and analytics school kolkata fees
@@ -102,7 +101,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

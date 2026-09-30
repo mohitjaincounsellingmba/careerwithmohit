@@ -129,7 +129,7 @@ Ideally, from **January 2026**. This gives you 4 months to fine-tune your speed 
 
 ### Useful Links:
 - [Top MBBS Colleges in India 2026 — AIIMS Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [How to Prepare for Physics in NEET](/blog/10-tips-to-crack-cat-exam-2026)
+- [How to Prepare for Physics in NEET](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [MBBS vs BDS — Career Comparison](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
 
 ---

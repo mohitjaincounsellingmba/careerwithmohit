@@ -11,7 +11,7 @@ keywords:
   - xavier institute of management (ximb) mba admission 2027
   - xavier institute of management (ximb) fees structure 2027
   - xavier institute of management (ximb) average placement package
-  - xavier institute of management (ximb) cutoff 2026 2027
+  - xavier institute of management (ximb) cutoff 2027–29 2027
   - ximb review 2027
   - top mba colleges in bhubaneswar
   - best mba colleges in odisha

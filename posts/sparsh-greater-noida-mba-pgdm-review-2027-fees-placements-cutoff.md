@@ -7,7 +7,7 @@ keywords:
   - 'sparsh global business school (sgbs) pgdm admission 2027'
   - 'sparsh global business school (sgbs) mba fees 2027'
   - 'sparsh global business school (sgbs) average placement package'
-  - 'sparsh global business school (sgbs) cutoff 2026 2027'
+  - 'sparsh global business school (sgbs) cutoff 2027–29 2027'
   - 'sgbs review 2027'
   - 'direct admission in sparsh global business school (sgbs)'
   - 'top pgdm colleges in greater noida'

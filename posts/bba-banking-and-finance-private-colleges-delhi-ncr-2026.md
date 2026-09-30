@@ -123,7 +123,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
   - State-of-the-art **Bloomberg Finance Lab** for real-time market trading and financial modeling.
   - Dedicated training in corporate banking credit analysis, risk management, and regulatory frameworks.
   - Strong corporate interface with leading private banks (HDFC Bank, Axis Bank, Kotak Mahindra) and consulting firms.
-- **Related Read**: [Amity University Noida BBA Admission 2026 & Review](/blog/all-about-amity-university-noida-bba-admission-2026)
+- **Related Read**: [Amity University Noida BBA Admission 2026 & Review](/colleges/amity-university-noida)
 
 ---
 
@@ -239,7 +239,7 @@ To help students choose an institution that matches their family budget, here is
    - **University-Specific Aptitude Tests**: Amity (Video Interview / English test), GD Goenka Aptitude Test, Sharda SUAT, Galgotias GEEE.
 3. **Direct Admission / Merit Counselling**:
    - Many private universities in Delhi NCR offer merit-based direct admissions or scholarships based on Class 12 board percentage.
-   - For guidance on management quota and direct admissions, check out our guide on [Direct Admission in Delhi NCR Colleges](/blog/best-mba-colleges-in-delhi-2026).
+   - For guidance on management quota and direct admissions, check out our guide on [Direct Admission in Delhi NCR Colleges](/blog/best-mba-colleges-in-delhi-2027-29).
 
 ---
 

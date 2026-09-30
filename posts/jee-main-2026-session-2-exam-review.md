@@ -93,7 +93,7 @@ To qualify for **JEE Advanced 2026**, the expected general category cutoff perce
 If your exam went well, you should immediately pivot your focus toward JEE Advanced. However, if you are unsure about your score or looking for backup plans, now is the perfect time to explore top private engineering colleges that accept JEE Main scores or offer direct admission.
 
 *   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2026)
+*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2027-29)
 *   [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
 *   [Direct Admission in [JECRC University](/colleges/jecrc-jaipur) B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
 
@@ -122,6 +122,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

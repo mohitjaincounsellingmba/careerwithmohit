@@ -7,7 +7,7 @@ keywords:
   - 'jagsom bangalore (jagdish sheth school of management) pgdm admission 2027'
   - 'jagsom bangalore (jagdish sheth school of management) mba fees 2027'
   - 'jagsom bangalore (jagdish sheth school of management) average placement package'
-  - 'jagsom bangalore (jagdish sheth school of management) cutoff 2026 2027'
+  - 'jagsom bangalore (jagdish sheth school of management) cutoff 2027–29 2027'
   - 'jagsom bangalore review 2027'
   - 'direct admission in jagsom bangalore (jagdish sheth school of management)'
   - 'top pgdm colleges in electronic city'

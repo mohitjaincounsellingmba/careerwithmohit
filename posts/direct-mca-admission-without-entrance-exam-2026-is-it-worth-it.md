@@ -119,7 +119,7 @@ The "Golden Window" is **May to June** (after your final semester exams). By Aug
 ### Useful Links:
 - [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026)
 - [NIMCET 2026 Strategy Guide](/blog/nimcet-2026-exam-strategy-guide)
-- [MCA vs MBA — Career guide](/blog/mca-vs-mba-career-comparison-2026)
+- [MCA vs MBA — Career guide](/blog/mca-vs-mba-career-comparison-2027-29)
 
 ---
 

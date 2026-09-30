@@ -51,7 +51,7 @@ category: Exams
 > - **Top Private Institutions:** LM Thapar School of Management, Chitkara Business School, Chandigarh University, and LPU.
 > - **Exam Acceptance:** CAT 2026, XAT 2027, MAT, CMAT, and NMAT.
 
-The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surrounding Punjab/Haryana belts represent a thriving educational and entrepreneurial hub. For candidates pursuing **MBA admission 2027** and preparing for **CAT 2026** or **XAT 2027**, Tricity institutions offer world-class infrastructure and robust campus hiring.
+The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surrounding Punjab/Haryana belts represent a thriving educational and entrepreneurial hub. For candidates pursuing **MBA admission 2027** and preparing for **CAT 2027–29** or **XAT 2027**, Tricity institutions offer world-class infrastructure and robust campus hiring.
 
 ---
 
@@ -98,6 +98,6 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

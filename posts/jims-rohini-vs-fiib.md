@@ -10,7 +10,7 @@ keywords:
   - JIMS Rohini vs FIIB
   - FIIB Delhi vs JIMS Rohini
   - best PGDM colleges in Delhi
-  - FIIB placements 2026
+  - FIIB placements 2027–29
   - JIMS Rohini average package
   - PGDM fees under 10 lakhs
   - Noida Colleges
@@ -156,6 +156,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

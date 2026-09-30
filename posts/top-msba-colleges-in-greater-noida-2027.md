@@ -54,7 +54,7 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** (PGDM Analytics Track) | ₹14.50 Lakhs | ₹11.25 LPA - ₹12.00 LPA | CAT / XAT / CMAT / GMAT (75%+ %ile) |
 | **Lloyd Business School** (PGDM Business Analytics - IBM) | ₹7.25L - ₹8.25L | ₹6.80 LPA - ₹8.50 LPA | CAT / MAT / XAT / CMAT / ATMA / LMET |
 | **Shiv Nadar University (SNU)** (MBA Analytics Track) | ₹11.50L - ₹14.50L | ₹10.80 LPA - ₹11.50 LPA | SMAT / CAT / XAT / NMAT / GMAT |
-| **[IILM University Greater Noida](/colleges/iilm-university)** (MBA Analytics & AI) | ₹11.50 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / MAT / XAT / CMAT / NMAT |
+| **[IILM University Greater Noida](/colleges/iilm-university-greater-noida)** (MBA Analytics & AI) | ₹11.50 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / MAT / XAT / CMAT / NMAT |
 | **[Galgotias University](/colleges/galgotias-university)** (MBA Business Analytics) | ₹4.80L - ₹6.50L | ₹5.50 LPA - ₹6.80 LPA | MAT / CAT / CMAT / NMAT / GMAT |
 | **GNIOT Greater Noida** (MBA Business Analytics) | ₹3.80L - ₹5.50L | ₹5.80 LPA - ₹6.50 LPA | CUET-PG / UPSEE / CAT / MAT / CMAT |
 | **IIMT Group of Colleges** (MBA Business Analytics) | ₹3.20L - ₹4.50L | ₹4.80 LPA - ₹5.50 LPA | UPSEE / CUET-PG / Direct Merit (50% Min) |
@@ -96,7 +96,7 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 
 ---
 
-### 4. [IILM University, Greater Noida](/colleges/iilm-university), Knowledge Park
+### 4. [IILM University, Greater Noida](/colleges/iilm-university-greater-noida), Knowledge Park
 - **Flagship Offering**: MBA in Business Analytics & Artificial Intelligence
 - **Total Tuition Fee**: ₹11.50 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹18.00 LPA
@@ -151,6 +151,6 @@ Yes, colleges like Lloyd, GNIOT, Galgotias, and IIMT offer institutional profile
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
 - **[Read: All About BIMTECH Greater Noida Review & Cutoffs](/blog/all-about-bimtech-greater-noida)**
-- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2026)**
+- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29)**

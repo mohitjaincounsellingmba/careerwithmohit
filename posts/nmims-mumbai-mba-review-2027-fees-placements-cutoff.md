@@ -11,7 +11,7 @@ keywords:
   - nmims school of business management (sbm mumbai) mba admission 2027
   - nmims school of business management (sbm mumbai) fees structure 2027
   - nmims school of business management (sbm mumbai) average placement package
-  - nmims school of business management (sbm mumbai) cutoff 2026 2027
+  - nmims school of business management (sbm mumbai) cutoff 2027–29 2027
   - nmims mumbai review 2027
   - top mba colleges in mumbai
   - best mba colleges in maharashtra

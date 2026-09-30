@@ -1,12 +1,12 @@
 ---
-title: 'IPU CET MBA 2026 (IPCET): Cutoffs, Pattern, Marks & Top Colleges in Delhi'
+title: 'IPU CET MBA 2027–29 (IPCET): Cutoffs, Pattern, Marks & Top Colleges in Delhi'
 date: '2026-03-13'
 description: >-
   Your complete guide to Guru Gobind Singh Indraprastha University (GGSIPU) CET
   for MBA admissions. Find out the exam pattern, total marks, conducting body,
   and top Delhi colleges for 2026-2027 admissions & career guidance.
 keywords:
-  - IPU CET MBA 2026
+  - IPU CET MBA 2027–29
   - IPCET exam pattern
   - IP university MBA total marks
   - IPU CET cutoff MAIMS
@@ -53,7 +53,7 @@ The Guru Gobind Singh Indraprastha University (GGSIPU) CET, commonly referred to
 
 If you are a resident of Delhi NCR seeking an affordable, highly-recognized state university degree, IPU CET is a must-take exam.
 
-Here is the complete overview of the IPU CET MBA exam for 2026 admissions:
+Here is the complete overview of the IPU CET MBA exam for 2027–29 admissions:
 
 ## Exam Overview & Conducting Body
 
@@ -129,7 +129,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

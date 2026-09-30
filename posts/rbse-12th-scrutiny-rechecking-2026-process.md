@@ -66,7 +66,7 @@ The window for scrutiny applications opens immediately after the result declarat
 
 ---
 
-### **RBSE 12th Scrutiny Fees 2026**
+### **RBSE 12th Scrutiny Fees 2027–29**
 To apply for rechecking, students must pay a prescribed fee per subject:
 
 *   **Normal Fee**: ~INR 300 per subject (if applied within the first 10 days).
@@ -96,9 +96,9 @@ The application process is entirely digital. Follow these steps to submit your f
 
 ### **Plan Your Career Path**
 While waiting for the scrutiny results, start exploring your future options:
-- **Science Students**: [Career Options After 12th Science](/blog/career-options-after-12th-science-2026)
+- **Science Students**: [Career Options After 12th Science](/blog/career-options-after-12th-science-2027-29)
 - **Commerce Students**: [Top BBA Colleges in Jaipur](/blog/top-bba-colleges-jaipur-2026)
-- **Arts Students**: [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2026)
+- **Arts Students**: [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2027-29)
 
 **Confused about which college to pick?**
 Competition is high, but with the right guidance, you can land in your dream college. At **CareerWithMohit**, we help students with admissions into top B.Tech, BBA, and MBA programs.
@@ -125,6 +125,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

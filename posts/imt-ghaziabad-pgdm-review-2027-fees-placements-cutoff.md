@@ -10,7 +10,7 @@ keywords:
   - imt ghaziabad mba admission 2027
   - imt ghaziabad fees structure 2027
   - imt ghaziabad average placement package
-  - imt ghaziabad cutoff 2026 2027
+  - imt ghaziabad cutoff 2027–29 2027
   - imt ghaziabad review 2027
   - top mba colleges in ghaziabad
   - best mba colleges in uttar pradesh

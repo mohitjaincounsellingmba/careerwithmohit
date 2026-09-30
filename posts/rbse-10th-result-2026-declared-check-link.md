@@ -80,8 +80,8 @@ The declaration of the 10th result marks the beginning of a crucial phase in a s
 If you are planning your future academic journey, check out our expert resources:
 *   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
 *   [Bihar Board 12th Result 2026: Expected Dates & Links](/blog/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Success Blueprint for Students](/blog/career-roadmaps-2026)
-*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/blog/best-mba-colleges-in-jaipur-2026)
+*   [Career Roadmaps 2026: Success Blueprint for Students](/blog/career-roadmaps-2027-29)
+*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/blog/best-mba-colleges-in-jaipur-2027-29)
 
 ### **Details Mentioned on RBSE 10th Marksheet**
 Ensure you verify the following details on your provisional scorecard:
@@ -116,6 +116,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

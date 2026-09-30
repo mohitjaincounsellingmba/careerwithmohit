@@ -71,7 +71,7 @@ After the Bihar Board results, students often face the dilemma of choosing the r
 
 Check out our specialized guides for your next steps:
 *   [CBSE 12th Result 2026: Comparison & Dates](/blog/cbse-12th-result-2026-expected-date)
-*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2026)
+*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2027-29)
 *   [Top B.Tech Colleges in Pune: Admissions & Fees](/blog/top-btech-colleges-pune)
 *   [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
 
@@ -107,6 +107,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

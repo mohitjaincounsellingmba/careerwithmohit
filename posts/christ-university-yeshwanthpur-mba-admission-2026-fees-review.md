@@ -9,7 +9,7 @@ description: >-
 keywords:
   - Christ University Yeshwanthpur MBA admission 2027–2029
   - Christ University Yeshwanthpur MBA fees
-  - Christ University Yeshwanthpur MBA cutoff 2025
+  - Christ University Yeshwanthpur MBA cutoff 2027–29
   - Christ Yeshwanthpur MBA placement
   - MBA in Yeshwanthpur Bangalore
   - Direct Admission in Delhi
@@ -23,7 +23,7 @@ faqs:
       Yes, since all Christ Bangalore campuses participate in the same
       centralized placement pool.
   - question: What is the dress code?
-    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2027–29 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -31,7 +31,7 @@ category: Online Degrees
 
 The **Yeshwanthpur Campus** is one of the newest additions to Christ (Deemed to be University) in Bangalore. Situated in the bustling northern part of the city, this campus is known for its ultra-modern infrastructure, tech-integrated learning spaces, and its proximity to major industrial hubs like Peenya and several tech parks.
 
-### **Christ Yeshwanthpur MBA Admission Process 2026**
+### **Christ Yeshwanthpur MBA Admission Process 2027–29**
 1.  **Selection Criteria**: Valid scores in **MAT (Composite score 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Assessment Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
@@ -41,7 +41,7 @@ The **Yeshwanthpur Campus** is one of the newest additions to Christ (Deemed to 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -55,7 +55,7 @@ Yeshwanthpur shares its admission pool with the centralized system.
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **Christ University Yeshwanthpur MBA Fee Structure 2026**
+### **Christ University Yeshwanthpur MBA Fee Structure 2027–29**
 Enjoy the same standardized high-value experience with consistent fee structures across Christ Bangalore campuses.
 *   **Total Academic Fee (2 Years)**: **₹11.4 Lakhs - ₹11.8 Lakhs**.
 *   **Registration Fee**: ₹8,000 (non-refundable).
@@ -99,7 +99,7 @@ While all offer the same degree and common placements, each has a different vibe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

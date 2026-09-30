@@ -152,6 +152,6 @@ Yes, universities like JECRC, Manipal Jaipur, Apex, and JNU offer direct institu
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)**
-- **[Read: Best MBA Colleges in Jaipur 2026 Fees & Placements](/blog/best-mba-colleges-in-jaipur-2026)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
+- **[Read: Best MBA Colleges in Jaipur 2027–29 Fees & Placements](/blog/best-mba-colleges-in-jaipur-2027-29)**
 - **[Read: All About Jaipuria Institute of Management Jaipur Review](/blog/all-about-jaipuria-institute-of-management-jaipur)**

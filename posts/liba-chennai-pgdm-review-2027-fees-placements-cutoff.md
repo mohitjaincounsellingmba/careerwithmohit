@@ -10,7 +10,7 @@ keywords:
   - liba chennai mba admission 2027
   - liba chennai fees structure 2027
   - liba chennai average placement package
-  - liba chennai cutoff 2026 2027
+  - liba chennai cutoff 2027–29 2027
   - liba chennai review 2027
   - top mba colleges in chennai
   - best mba colleges in tamil nadu

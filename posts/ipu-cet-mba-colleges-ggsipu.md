@@ -1,6 +1,6 @@
 ---
 title: >-
-  Top 14+ GGSIPU MBA Colleges in Delhi NCR: Fees, Placements & IPU CET 2026
+  Top 14+ GGSIPU MBA Colleges in Delhi NCR: Fees, Placements & IPU CET 2027–29
   Guide
 date: '2026-03-12'
 description: >-
@@ -8,17 +8,17 @@ description: >-
   Greater Noida. Detailed comparison of fees, placements, and recruiters for
   USMS, MAIT, JIMS, AIMT, and more for 2026-2027 admissions & career guidance.
 keywords:
-  - IPU CET MBA colleges 2026
+  - IPU CET MBA colleges 2027–29
   - GGSIPU MBA fees
   - MBA in Greater Noida IPU
   - Top IPU MBA colleges Delhi
-  - GGSIPU MBA placement 2026
+  - GGSIPU MBA placement 2027–29
   - Army Institute of Management Greater Noida fees
   - MBA colleges in Noida under GGSIPU
   - USMS MBA Delhi fees
   - MAIT MBA Delhi
   - JIMS Rohini IPU MBA
-  - IPU CET cutoff 2026
+  - IPU CET cutoff 2027–29
   - GGSIPU affiliate MBA colleges list
   - Noida Colleges
   - Best Colleges in Noida
@@ -210,7 +210,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

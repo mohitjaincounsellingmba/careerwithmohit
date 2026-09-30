@@ -290,15 +290,15 @@ export default function MhcetMockTestPage() {
               <ul className="space-y-4">
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
-                  <a href="/blog/direct-admission-jbims-mumbai-institute-level-seats-2026" className="underline hover:text-primary">JBIMS Mumbai (The CEO Factory)</a>
+                  <a href="/blog/direct-admission-jbims-mumbai-institute-level-seats-2027-29" className="underline hover:text-primary">JBIMS Mumbai (The CEO Factory)</a>
                 </li>
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
-                  <a href="/blog/direct-admission-simsree-mumbai-mms-pgdm-2026" className="underline hover:text-primary">SIMSREE Mumbai (Best ROI in India)</a>
+                  <a href="/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29" className="underline hover:text-primary">SIMSREE Mumbai (Best ROI in India)</a>
                 </li>
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
-                  <a href="/blog/direct-admission-pumba-pune-university-seats-2026" className="underline hover:text-primary">PUMBA Pune (Global Exposure)</a>
+                  <a href="/blog/direct-admission-pumba-pune-university-seats-2027-29" className="underline hover:text-primary">PUMBA Pune (Global Exposure)</a>
                 </li>
               </ul>
             </div>

@@ -7,7 +7,7 @@ keywords:
   - 'amity university (mumbai campus) pgdm admission 2027'
   - 'amity university (mumbai campus) mba fees 2027'
   - 'amity university (mumbai campus) average placement package'
-  - 'amity university (mumbai campus) cutoff 2026 2027'
+  - 'amity university (mumbai campus) cutoff 2027–29 2027'
   - 'amity university review 2027'
   - 'direct admission in amity university (mumbai campus)'
   - 'top pgdm colleges in panvel'

@@ -1,5 +1,5 @@
 ---
-title: 'Direct MBA Admission in India 2026: Top Colleges, Management Quota & Fees'
+title: 'Direct MBA Admission in India 2027–29: Top Colleges, Management Quota & Fees'
 date: '2026-03-17'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Direct MBA
@@ -162,6 +162,6 @@ Our experts help you navigate the management quota process with 100% transparenc
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

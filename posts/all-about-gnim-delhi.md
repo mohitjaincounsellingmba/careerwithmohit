@@ -1,12 +1,12 @@
 ---
-title: 'GNIM Delhi Review 2026: Placements & Infrastructure Highlights'
+title: 'GNIM Delhi Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of [Guru Nanak Institute of Management (GNIM)](/colleges/gnim-delhi).
   Explore 2024 placement data, Punjabi Bagh campus, and faculty expertise for
   2026-2027 admissions & career guidance.
 keywords:
-  - GNIM Delhi review 2026
+  - GNIM Delhi review 2027–29
   - GNIM placement 2024
   - GNIM Delhi infrastructure
   - IPU MBA colleges Delhi
@@ -95,7 +95,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

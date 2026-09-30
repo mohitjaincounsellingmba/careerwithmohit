@@ -10,7 +10,7 @@ keywords:
   - iim trichy mba admission 2027
   - iim trichy fees structure 2027
   - iim trichy average placement package
-  - iim trichy cutoff 2026 2027
+  - iim trichy cutoff 2027–29 2027
   - iimt review 2027
   - top mba colleges in tiruchirappalli
   - best mba colleges in tamil nadu

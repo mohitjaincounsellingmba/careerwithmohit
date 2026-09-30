@@ -9,7 +9,7 @@ keywords:
   - NMAT backup exam
   - CAT vs NMAT
   - '[NMIMS Mumbai](/colleges/nmims-mumbai) placements'
-  - MBA entrance exams 2026
+  - MBA entrance exams 2027–29
   - admission backup plan
   - Direct Admission in Delhi
 faqs:
@@ -98,7 +98,7 @@ To integrate NMAT with your CAT and XAT prep:
 - **Schedule Attempt 1 in Late October:** This acts as a real-world test before CAT (held in late November). If you secure a 235+ score here, you enter the CAT exam hall with zero pressure, knowing you already have a top-tier admission backup in the bank.
 - **Schedule Attempt 2 in Mid-December:** If your October score was low, take your second attempt in December, shortly after the CAT exam when your preparation level is at its peak.
 
-To get started, take our [Free NMAT Mock Test 2026](/blog/free-nmat-mock-test-2026-nmims-prep) or learn more about other [MBA Entrance Exams 2026](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
+To get started, take our [Free NMAT Mock Test 2026](/blog/free-nmat-mock-test-2026-nmims-prep) or learn more about other [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
 
 [👉 Unsure how to balance NMAT speed prep with CAT accuracy prep? Talk to our mentors today!](/inquiry)
 
@@ -122,6 +122,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -7,7 +7,7 @@ keywords:
   - 'jaipuria institute of management pgdm admission 2027'
   - 'jaipuria institute of management mba fees 2027'
   - 'jaipuria institute of management average placement package'
-  - 'jaipuria institute of management cutoff 2026 2027'
+  - 'jaipuria institute of management cutoff 2027–29 2027'
   - 'jaipuria institute of management review 2027'
   - 'direct admission in jaipuria institute of management'
   - 'top pgdm colleges in sector 62'

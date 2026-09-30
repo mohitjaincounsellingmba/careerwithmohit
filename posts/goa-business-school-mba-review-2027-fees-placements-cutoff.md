@@ -12,7 +12,7 @@ description: >-
 keywords:
   - 'goa business school, goa university review 2027'
   - 'goa business school, goa university mba fees'
-  - 'goa business school, goa university placements 2026 2027'
+  - 'goa business school, goa university placements 2027–29 2027'
   - 'goa business school, goa university average package'
   - 'goa business school, goa university highest package'
   - 'goa business school, goa university cutoff cat xat'
@@ -214,6 +214,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

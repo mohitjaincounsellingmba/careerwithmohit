@@ -7,7 +7,7 @@ keywords:
   - 'gibs business school pgdm admission 2027'
   - 'gibs business school mba fees 2027'
   - 'gibs business school average placement package'
-  - 'gibs business school cutoff 2026 2027'
+  - 'gibs business school cutoff 2027–29 2027'
   - 'gibs business school review 2027'
   - 'direct admission in gibs business school'
   - 'top pgdm colleges in bannerghatta road'

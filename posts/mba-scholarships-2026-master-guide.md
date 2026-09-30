@@ -1,18 +1,18 @@
 ---
-title: 'Top MBA Scholarships in India 2026: Eligibility, Links & How to Apply'
+title: 'Top MBA Scholarships in India 2027–29: Eligibility, Links & How to Apply'
 date: '2026-03-15'
 description: >-
   Unlock financial aid for your management studies. A comprehensive guide to the
-  best MBA scholarships in 2026, including eligibility, direct links, and
+  best MBA scholarships in 2027–29, including eligibility, direct links, and
   step-by-step application processes.
 keywords:
-  - MBA scholarships 2026 India
+  - MBA scholarships 2027–29 India
   - IDFC First Bank MBA scholarship eligibility
   - Aditya Birla scholarship MBA
   - Reliance Foundation postgraduate scholarship
   - OPJEMS scholarship for MBA
   - MBA financial aid India
-  - how to get MBA scholarship 2026
+  - how to get MBA scholarship 2027–29
 faqs:
   - question: Can I apply for multiple MBA scholarships?
     answer: >-
@@ -34,7 +34,7 @@ category: MBA
 
 Pursuing an MBA from a premier institute is a significant investment, often costing between ₹15L to ₹30L. However, several corporate giants and trusts offer generous scholarships to support meritorious and financially deserving students. 
 
-Here is your master list of **MBA Scholarships for the 2026-2027 academic session**.
+Here is your master list of **MBA Scholarships for the 2027–29-2027 academic session**.
 
 ---
 
@@ -60,7 +60,7 @@ This is one of the most popular need-based scholarships for students from financ
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -131,7 +131,7 @@ For those looking to pursue their **MBA overseas** (International B-schools).
 ### **6. Maharashtra State Scholarships (MAH MBA CET)**
 If you are appearing for MAH CET and seeking admission in Maharashtra, you might be eligible for state-specific fee reimbursements (EBC, SC/ST/OBC schemes) via the MahaDBT portal.
 
-[👉 View Detail Guide: MAH MBA CET Scholarship 2026 Eligibility & Process](/tools/mhcet-mock-test)
+[👉 View Detail Guide: MAH MBA CET Scholarship 2027–29 Eligibility & Process](/tools/mhcet-mock-test)
 
 ---
 
@@ -164,7 +164,7 @@ While merit-based scholarships like Aditya Birla require a high entrance rank, s
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

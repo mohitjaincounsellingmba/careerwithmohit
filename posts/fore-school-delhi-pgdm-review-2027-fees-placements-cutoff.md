@@ -11,7 +11,7 @@ keywords:
   - fore school of management mba admission 2027
   - fore school of management fees structure 2027
   - fore school of management average placement package
-  - fore school of management cutoff 2026 2027
+  - fore school of management cutoff 2027–29 2027
   - fore delhi review 2027
   - top mba colleges in new delhi
   - best mba colleges in delhi ncr

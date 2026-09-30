@@ -10,7 +10,7 @@ keywords:
   - iim amritsar mba admission 2027
   - iim amritsar fees structure 2027
   - iim amritsar average placement package
-  - iim amritsar cutoff 2026 2027
+  - iim amritsar cutoff 2027–29 2027
   - iim-amritsar review 2027
   - top mba colleges in amritsar
   - best mba colleges in punjab

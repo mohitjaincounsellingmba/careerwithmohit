@@ -107,8 +107,8 @@ Because the DABI program equips students with exactly what top recruiters are lo
 Absolutely. If you want to future-proof your management career, choosing a PGDM with a strong focus on analytics is one of the best decisions you can make. The **DABI program at JKBS Gurgaon** perfectly bridges the gap between core management principles and advanced technical data skills. 
 
 ### 🔗 Related Resources
-- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
-- [How to Choose the Right MBA Specialization](/blog/1-year-online-mba-colleges-india-2026)
+- [Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
+- [How to Choose the Right MBA Specialization](/blog/1-year-online-mba-colleges-india-2027-29)
 - [PGDM vs MBA: Which is Better for Your Career?](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff)
 
 ---
@@ -132,6 +132,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

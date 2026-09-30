@@ -1,6 +1,6 @@
 ---
 title: >-
-  Asian Business School (ABS) Review 2026: Placements & Infrastructure
+  Asian Business School (ABS) Review 2027–29: Placements & Infrastructure
   Highlights
 date: '2026-03-15'
 description: >-
@@ -9,8 +9,8 @@ description: >-
   placement record, state-of-the-art infra, and faculty review for 2026-2027
   admissions & career guidance.
 keywords:
-  - Asian Business School review 2026
-  - ABS Noida placements 2025
+  - Asian Business School review 2027–29
+  - ABS Noida placements 2027–29
   - Asian Business School infrastructure
   - Best PGDM in Noida
   - Best Colleges in Noida
@@ -89,7 +89,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -12,7 +12,7 @@ description: >-
 keywords:
   - IIEBM (Indus Business School) admission 2027-29
   - IIEBM Pune fees 2027
-  - IIEBM Pune placements 2026
+  - IIEBM Pune placements 2027–29
   - IIEBM Pune PGDM MBA fee structure 2027-29
   - IIEBM Pune cutoff CAT MAT CMAT
   - IIEBM Pune highest package
@@ -118,7 +118,7 @@ For the **2027–29 academic session**, IIEBM Pune provides structured installme
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹4.12 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹4.12 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹4.12 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹8.25 Lakhs (Total)** | Full Course Aggregate |
 
@@ -244,6 +244,6 @@ IIEBM Pune accepts valid percentiles from national entrance exams including CAT,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

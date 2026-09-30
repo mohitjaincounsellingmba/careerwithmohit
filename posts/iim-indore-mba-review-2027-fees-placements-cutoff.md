@@ -10,7 +10,7 @@ keywords:
   - iim indore mba admission 2027
   - iim indore fees structure 2027
   - iim indore average placement package
-  - iim indore cutoff 2026 2027
+  - iim indore cutoff 2027–29 2027
   - iimi review 2027
   - top mba colleges in indore
   - best mba colleges in madhya pradesh

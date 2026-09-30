@@ -1,16 +1,16 @@
 ---
 title: >-
   Eastern Institute for Integrated Learning in Management (EIILM) PGDM Admission
-  Review 2026: Placements, Fees & Cutoff
+  Review 2027–29: Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Eastern Institute for Integrated Learning in
-  Management (EIILM)? Read our comprehensive PGDM review for 2026 covering total
+  Management (EIILM)? Read our comprehensive PGDM review for 2027–29 covering total
   fees, average and highest placement packages, accepted entrance exams, and
   cutoffs.
 keywords:
-  - eastern institute for integrated learning in management (eiilm) review 2026
+  - eastern institute for integrated learning in management (eiilm) review 2027–29
   - >-
     eastern institute for integrated learning in management (eiilm) pgdm
     placements
@@ -107,7 +107,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

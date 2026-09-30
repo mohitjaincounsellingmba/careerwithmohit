@@ -1,12 +1,12 @@
 ---
-title: 'RMS Gurgaon Review 2026: Placements & Infrastructure Highlights'
+title: 'RMS Gurgaon Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Detailed review of RMS Business School Gurgaon. Explore the stellar placement
   claims, modern infra, and industry-led faculty for 2026-2027 admissions &
   career guidance.
 keywords:
-  - RMS Business School review 2026
+  - RMS Business School review 2027–29
   - RMS Gurgaon placements
   - RMS Business School faculty
   - best PGDM in Gurgaon
@@ -95,7 +95,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -86,9 +86,9 @@ The Rajasthan Board has released the merit list for 2026. Here are some of the s
 ### **What Next After RBSE 12th Result?**
 Now that the results are out, it's time to plan your career path. Depending on your stream and interest, you can explore various undergraduate programs:
 
-*   **For Science Students**: Explore [Career Options After 12th Science](/blog/career-options-after-12th-science-2026) or check out the [Best B.Tech Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
-*   **For Commerce Students**: Check the [Top BBA Colleges in Jaipur](/blog/top-bba-colleges-jaipur-2026) or read about [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2026).
-*   **For Arts Students**: Explore [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2026) and top law programs.
+*   **For Science Students**: Explore [Career Options After 12th Science](/blog/career-options-after-12th-science-2027-29) or check out the [Best B.Tech Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
+*   **For Commerce Students**: Check the [Top BBA Colleges in Jaipur](/blog/top-bba-colleges-jaipur-2026) or read about [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29).
+*   **For Arts Students**: Explore [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2027-29) and top law programs.
 
 ---
 
@@ -129,6 +129,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

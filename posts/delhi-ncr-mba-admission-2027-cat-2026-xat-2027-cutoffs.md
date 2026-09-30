@@ -32,7 +32,7 @@ keywords:
   - Delhi NCR College Counselling
 faqs:
   - question: >-
-      Which are the best non-IIM MBA colleges in Delhi NCR accepting CAT 2026
+      Which are the best non-IIM MBA colleges in Delhi NCR accepting CAT 2027–29
       and XAT 2027?
     answer: >-
       Top tier non-IIM institutions in Delhi NCR include FMS Delhi, MDI Gurgaon,
@@ -53,14 +53,14 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2026 / XAT 2027
+# MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2027–29 / XAT 2027
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Premier Non-IIM Options:** [FMS Delhi](/colleges/fms-delhi) (₹2 Lakhs fee, ₹34 LPA avg), [MDI Gurgaon](/colleges/mdi-gurgaon) (₹24 Lakhs fee, ₹26.7 LPA avg), and [FORE School of Management](/colleges/fore-school-delhi).
 > - **Mid-Percentile Growth Hubs (60-75 %ile):** NDIM Delhi, FIIB, FOSTIIMA, JIMS Kalkaji, and SOIL Institute Gurgaon.
 > - **Exam Acceptance:** Standardized acceptance of CAT 2026, XAT 2027, and CMAT across autonomous AICTE b-schools.
 
-The **Delhi NCR region** represents the economic and corporate powerhouse of India. For aspirants eyeing **MBA admission 2027** and preparing for **CAT 2026** and **XAT 2027**, the National Capital Region offers unparalleled diversity in tier rankings, specialization tracks, and return on investment.
+The **Delhi NCR region** represents the economic and corporate powerhouse of India. For aspirants eyeing **MBA admission 2027** and preparing for **CAT 2027–29** and **XAT 2027**, the National Capital Region offers unparalleled diversity in tier rankings, specialization tracks, and return on investment.
 
 ---
 
@@ -85,18 +85,18 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 1. Faculty of Management Studies ([FMS Delhi](/colleges/fms-delhi))
 * Known as the **"Red Building of Dreams"**, FMS offers the highest ROI in management education globally.
-* Shortlisting for MBA 2027 will rely on weighted CAT 2026 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/blog/all-about-fms-delhi).
+* Shortlisting for MBA 2027 will rely on weighted CAT 2027–29 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/blog/all-about-fms-delhi).
 
 ### 2. [MDI Gurgaon](/colleges/mdi-gurgaon)
 * Accredited by AACSB, AMBA, and SAQS.
 * Offers specialized PGDM in Human Resource Management (HRM) and International Business (IB). Read [All About MDI Gurgaon](/colleges/mdi-gurgaon).
 
 ### 3. [FORE School of Management](/colleges/fore-school-delhi) & LBSIM Delhi
-* **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/blog/all-about-fore-school-delhi).
+* **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/colleges/fore-school-delhi).
 * **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
 
 ### 4. NDIM & FOSTIIMA: The 60-75 CAT/XAT Percentile Leaders
-* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/ndim-delhi-review-2026).
+* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/ndim-delhi-review-2027-29).
 * **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 
 ---
@@ -120,6 +120,6 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

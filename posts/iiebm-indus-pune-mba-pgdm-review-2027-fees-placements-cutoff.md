@@ -7,7 +7,7 @@ keywords:
   - 'iiebm (indus business school) pgdm admission 2027'
   - 'iiebm (indus business school) mba fees 2027'
   - 'iiebm (indus business school) average placement package'
-  - 'iiebm (indus business school) cutoff 2026 2027'
+  - 'iiebm (indus business school) cutoff 2027–29 2027'
   - 'iiebm review 2027'
   - 'direct admission in iiebm (indus business school)'
   - 'top pgdm colleges in wakad'

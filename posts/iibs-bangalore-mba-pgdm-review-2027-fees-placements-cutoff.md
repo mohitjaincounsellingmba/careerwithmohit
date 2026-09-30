@@ -7,7 +7,7 @@ keywords:
   - 'international institute of business studies (iibs) pgdm admission 2027'
   - 'international institute of business studies (iibs) mba fees 2027'
   - 'international institute of business studies (iibs) average placement package'
-  - 'international institute of business studies (iibs) cutoff 2026 2027'
+  - 'international institute of business studies (iibs) cutoff 2027–29 2027'
   - 'iibs review 2027'
   - 'direct admission in international institute of business studies (iibs)'
   - 'top pgdm colleges in airport road'

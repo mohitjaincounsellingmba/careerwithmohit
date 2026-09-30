@@ -10,7 +10,7 @@ keywords:
   - iim ahmedabad mba admission 2027
   - iim ahmedabad fees structure 2027
   - iim ahmedabad average placement package
-  - iim ahmedabad cutoff 2026 2027
+  - iim ahmedabad cutoff 2027–29 2027
   - iima review 2027
   - top mba colleges in ahmedabad
   - best mba colleges in gujarat

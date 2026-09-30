@@ -713,7 +713,7 @@ export default function StarterKitPlacementTable() {
       <div className="text-center mb-10">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-50 border border-indigo-100 text-indigo-700 text-xs font-bold uppercase tracking-wider mb-4">
           <Sparkles className="w-3.5 h-3.5" />
-          <span>MBA Placement Benchmark 2026-27</span>
+          <span>MBA Placement Benchmark (2027–2029)</span>
         </div>
         <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 tracking-tight">
           Placement Data by <span className="text-transparent bg-clip-text bg-linear-to-r from-indigo-600 to-purple-600">Percentile Category</span>

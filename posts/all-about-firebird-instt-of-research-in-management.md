@@ -1,15 +1,15 @@
 ---
 title: >-
-  Firebird Instt of Research in Management PGDM Admission Review 2026:
+  Firebird Instt of Research in Management PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Firebird Instt of Research in Management? Read our
-  comprehensive PGDM review for 2026 covering total fees, average and highest
+  comprehensive PGDM review for 2027–29 covering total fees, average and highest
   placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - firebird instt of research in management review 2026
+  - firebird instt of research in management review 2027–29
   - firebird instt of research in management pgdm placements
   - firebird instt of research in management admission cutoff
   - firebird instt of research in management fees
@@ -99,7 +99,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

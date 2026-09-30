@@ -10,7 +10,7 @@ keywords:
   - iim sambalpur mba admission 2027
   - iim sambalpur fees structure 2027
   - iim sambalpur average placement package
-  - iim sambalpur cutoff 2026 2027
+  - iim sambalpur cutoff 2027–29 2027
   - iim-sambalpur review 2027
   - top mba colleges in sambalpur
   - best mba colleges in odisha

@@ -7,7 +7,7 @@ keywords:
   - 'its ghaziabad (mohan nagar) pgdm admission 2027'
   - 'its ghaziabad (mohan nagar) mba fees 2027'
   - 'its ghaziabad (mohan nagar) average placement package'
-  - 'its ghaziabad (mohan nagar) cutoff 2026 2027'
+  - 'its ghaziabad (mohan nagar) cutoff 2027–29 2027'
   - 'its ghaziabad review 2027'
   - 'direct admission in its ghaziabad (mohan nagar)'
   - 'top pgdm colleges in mohan nagar'

@@ -14,7 +14,7 @@ keywords:
   - 'department of business administration, tezpur university review 2027'
   - 'department of business administration, tezpur university mba fees'
   - >-
-    department of business administration, tezpur university placements 2026
+    department of business administration, tezpur university placements 2027–29
     2027
   - 'department of business administration, tezpur university average package'
   - 'department of business administration, tezpur university highest package'
@@ -220,6 +220,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

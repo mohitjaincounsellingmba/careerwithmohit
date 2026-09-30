@@ -13,7 +13,7 @@ description: >-
 keywords:
   - Mangalmay Institute of Management and Technology admission 2027-29
   - Mangalmay Greater Noida fees 2027
-  - Mangalmay Greater Noida placements 2026
+  - Mangalmay Greater Noida placements 2027–29
   - Mangalmay Greater Noida PGDM MBA fee structure 2027-29
   - Mangalmay Greater Noida cutoff CAT MAT CMAT
   - Mangalmay Greater Noida highest package
@@ -133,7 +133,7 @@ For the **2027–29 academic session**, Mangalmay Greater Noida provides structu
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹1.62 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹1.62 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹1.62 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹3.25 Lakhs (Total)** | Full Course Aggregate |
 
@@ -258,6 +258,6 @@ Mangalmay Greater Noida accepts valid percentiles from national entrance exams i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

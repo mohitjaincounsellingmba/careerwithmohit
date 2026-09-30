@@ -1,14 +1,14 @@
 ---
-title: 'Poddar Business School PGDM Admission Review 2026: Placements, Fees & Cutoff'
+title: 'Poddar Business School PGDM Admission Review 2027–29: Placements, Fees & Cutoff'
 date: '2026-06-25'
 category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Poddar
-  Business School PGDM Admission Review 2026: Placements, Fees & Cutoff. Check
+  Business School PGDM Admission Review 2027–29: Placements, Fees & Cutoff. Check
   updated fees, placement records, real cutoffs, and selection tips by Mohit
   Jain.
 keywords:
-  - poddar business school review 2026
+  - poddar business school review 2027–29
   - poddar business school pgdm placements
   - poddar business school admission cutoff
   - poddar business school fees
@@ -89,7 +89,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

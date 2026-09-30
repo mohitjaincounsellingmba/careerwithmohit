@@ -105,7 +105,7 @@ Once the [CBSE 12th Result 2026 expected date](/blog/cbse-12th-result-2026-expec
 The declaration of results is just the beginning. Whether you are planning to pursue Engineering, Management, or Law, choosing the right path is crucial.
 
 Explore our resources to plan your career:
-*   [Career Roadmaps for 2026: B.Tech, MBA, and More](/blog/career-roadmaps-2026)
+*   [Career Roadmaps for 2026: B.Tech, MBA, and More](/blog/career-roadmaps-2027-29)
 *   [Top B.Tech Colleges with Direct Admission 2026](/blog/btech-admission-without-jee-2026-all-options)
 *   [CUET UG 2026 Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
 
@@ -134,6 +134,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

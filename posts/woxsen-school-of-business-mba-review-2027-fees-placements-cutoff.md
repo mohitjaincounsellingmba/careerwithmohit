@@ -13,7 +13,7 @@ description: >-
 keywords:
   - 'woxsen school of business, woxsen university review 2027'
   - 'woxsen school of business, woxsen university mba fees'
-  - 'woxsen school of business, woxsen university placements 2026 2027'
+  - 'woxsen school of business, woxsen university placements 2027–29 2027'
   - 'woxsen school of business, woxsen university average package'
   - 'woxsen school of business, woxsen university highest package'
   - 'woxsen school of business, woxsen university cutoff cat xat'
@@ -224,6 +224,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

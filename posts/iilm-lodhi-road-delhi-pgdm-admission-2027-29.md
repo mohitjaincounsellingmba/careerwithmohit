@@ -12,7 +12,7 @@ description: >-
 keywords:
   - IILM Institute for Higher Education admission 2027-29
   - IILM Lodhi Road fees 2027
-  - IILM Lodhi Road placements 2026
+  - IILM Lodhi Road placements 2027–29
   - IILM Lodhi Road PGDM MBA fee structure 2027-29
   - IILM Lodhi Road cutoff CAT MAT CMAT
   - IILM Lodhi Road highest package
@@ -127,7 +127,7 @@ For the **2027–29 academic session**, IILM Lodhi Road provides structured inst
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹6.45 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹6.45 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹6.45 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹12.90 Lakhs (Total)** | Full Course Aggregate |
 
@@ -254,6 +254,6 @@ IILM Lodhi Road accepts valid percentiles from national entrance exams including
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -145,7 +145,7 @@ const collegesData = [
     cutoffMinority: "NRI Seats: Score 200+",
     highlights: "NABH and NABL accredited super-specialty hospital with robotic surgery centers, organ transplant units, and high patient flow in Kerala.",
     internalLinks: [
-      { text: "Amrita University Online Review", url: "/blog/amrita-university-online-review-2026" },
+      { text: "Amrita University Online Review", url: "/blog/amrita-university-online-review-2027-29" },
       { text: "NEET UG 2026 Syllabus & Dates", url: "/blog/all-about-neet-exam" }
     ],
     faqs: [
@@ -470,7 +470,7 @@ const collegesData = [
     cutoffMinority: "NRI Quota: Score 150+",
     highlights: "Well-established campus in Pune city, state-of-the-art diagnostic facilities, active clinical research programs, and high patient exposure.",
     internalLinks: [
-      { text: "Bharati Vidyapeeth Courses & Overview", url: "/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2026" },
+      { text: "Bharati Vidyapeeth Courses & Overview", url: "/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29" },
       { text: "NEET UG 2026 Exam Pattern & Cutoffs", url: "/blog/all-about-neet-exam" }
     ],
     faqs: [

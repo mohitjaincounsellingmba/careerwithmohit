@@ -7,7 +7,7 @@ keywords:
   - 'mangalmay institute of management and technology pgdm admission 2027'
   - 'mangalmay institute of management and technology mba fees 2027'
   - 'mangalmay institute of management and technology average placement package'
-  - 'mangalmay institute of management and technology cutoff 2026 2027'
+  - 'mangalmay institute of management and technology cutoff 2027–29 2027'
   - 'mangalmay institute of management and technology review 2027'
   - 'direct admission in mangalmay institute of management and technology'
   - 'top pgdm colleges in knowledge park ii'

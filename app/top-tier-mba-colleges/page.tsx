@@ -6,17 +6,18 @@ import { TOP_TIER_MBA_COLLEGES } from "@/data/topTierMbaColleges";
 import { Award, ShieldCheck, TrendingUp, Zap, Sparkles, CheckCircle2, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Top Tier MBA Colleges in India 2027-28: IIMs, NMAT, SNAP & XAT accepting colleges",
-  description: "Compare India's top tier MBA colleges for 2027-28. Explore complete cutoffs, fee structures, and latest audited placement reports for all 20 IIMs, SNAP (SIBM), NMAT (NMIMS), and XAT (XLRI) accepting colleges. Get profile strategy from Mohit Jain.",
+  title: "Top Tier MBA Colleges in India (2027–2029): Top 20 IIMs, NMAT, SNAP & XAT Colleges | CareerWithMohit",
+  description: "Compare India's top tier MBA colleges for 2027–2029 batch. Explore complete cutoffs, fee structures, and latest audited placement reports for all 20 IIMs, SNAP (SIBM), NMAT (NMIMS), and XAT (XLRI) accepting colleges. Get profile strategy from Mohit Jain.",
   keywords: [
+    "top tier mba colleges in india 2027-29",
     "top tier mba colleges in india 2027",
-    "mba admission 2027",
-    "pgdm admission 2027",
-    "all iim fees cut off placement 2027",
+    "mba admission 2027-29",
+    "pgdm admission 2027-29",
+    "all iim fees cut off placement 2027-29",
     "nmat colleges fees and cutoff 2027",
     "snap colleges list and placements 2027",
     "xat accepting colleges list 2027",
-    "best business schools india 2027",
+    "best business schools india 2027-29",
     "mba career counselling 2027",
     "degree admission 2027"
   ],
@@ -24,8 +25,8 @@ export const metadata: Metadata = {
     canonical: "/top-tier-mba-colleges/"
   },
   openGraph: {
-    title: "Top Tier MBA Colleges in India 2027-28: IIMs, NMAT, SNAP & XAT",
-    description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India for 2027-28.",
+    title: "Top Tier MBA Colleges in India (2027–2029): IIMs, NMAT, SNAP & XAT",
+    description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India for 2027–2029.",
     type: "website",
     url: "https://careerwithmohit.online/top-tier-mba-colleges/"
   }
@@ -35,8 +36,8 @@ export default function TopTierMbaPage() {
   const listSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "Top Tier MBA Colleges in India 2027-28",
-    "description": "Comprehensive list of all 20 IIMs and premier business schools accepting NMAT, SNAP, and XAT with validated fees and placements.",
+    "name": "Top Tier MBA Colleges in India (2027–2029)",
+    "description": "Comprehensive list of all 20 IIMs and premier business schools accepting NMAT, SNAP, and XAT with validated fees and placements for 2027–2029.",
     "itemListElement": TOP_TIER_MBA_COLLEGES.map((college, index) => ({
       "@type": "ListItem",
       "position": index + 1,
@@ -70,7 +71,7 @@ export default function TopTierMbaPage() {
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Which are the top MBA colleges in India for 2027-28 admission?",
+        "name": "Which are the top MBA colleges in India for 2027–2029 admission?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "The Tier-1 MBA institutions in India include the top IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Indore), along with premier private and university institutions such as XLRI Jamshedpur, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, SIBM Pune, and NMIMS Mumbai. Admission cutoffs range from 95 to 99.5+ percentile in CAT, XAT, NMAT, or SNAP."
@@ -157,7 +158,7 @@ export default function TopTierMbaPage() {
           <div className="inline-flex items-center gap-2.5 bg-white/10 backdrop-blur-md border border-white/15 px-4 py-1.5 rounded-full mb-8 shadow-sm">
             <Sparkles className="w-4 h-4 text-amber-400 animate-pulse" />
             <span className="text-[11px] font-bold uppercase tracking-widest text-slate-200">
-              India&apos;s Elite B-School Directory • 2027-28 Intake
+              India&apos;s Elite B-School Directory • 2027–2029 Intake
             </span>
           </div>
 

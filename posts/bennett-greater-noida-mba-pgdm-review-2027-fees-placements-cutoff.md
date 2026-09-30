@@ -7,7 +7,7 @@ keywords:
   - 'bennett university pgdm admission 2027'
   - 'bennett university mba fees 2027'
   - 'bennett university average placement package'
-  - 'bennett university cutoff 2026 2027'
+  - 'bennett university cutoff 2027–29 2027'
   - 'bennett university review 2027'
   - 'direct admission in bennett university'
   - 'top pgdm colleges in greater noida'

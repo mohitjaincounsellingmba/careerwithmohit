@@ -100,7 +100,7 @@ For comprehensive reviews of Mumbai's growing AI and management hub, visit [All 
 Explore in-depth reviews of top Pune institutes:
 * [All About PIBM Pune](/blog/all-about-pibm-pune)
 * [All About RIIM Pune](/blog/all-about-riim-pune)
-* [All About Lexicon MILE Pune](/blog/all-about-lexicon-management-institute-of-leadership-excellence)
+* [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence)
 * [All About ISBS Pune](/blog/all-about-isbs-pune)
 * [All About DY Patil B-School](/colleges/dy-patil-b-school)
 
@@ -133,6 +133,6 @@ Many autonomous AICTE-approved B-schools in Pune and Mumbai offer direct admissi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -10,7 +10,7 @@ keywords:
   - scit pune mba admission 2027
   - scit pune fees structure 2027
   - scit pune average placement package
-  - scit pune cutoff 2026 2027
+  - scit pune cutoff 2027–29 2027
   - scit pune review 2027
   - top mba colleges in pune
   - best mba colleges in maharashtra

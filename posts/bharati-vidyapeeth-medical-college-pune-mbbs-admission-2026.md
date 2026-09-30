@@ -95,7 +95,7 @@ Admission to Bharati Vidyapeeth Medical College Pune is strictly merit-based, de
 | **Minority / Management Quota** | NRI Quota: Score 150+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2026) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29) for rank prediction strategies.
 
 ---
 

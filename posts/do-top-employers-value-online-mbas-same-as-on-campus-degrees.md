@@ -103,7 +103,7 @@ If you are pursuing an online MBA, use these strategies to match the corporate v
 ---
 
 *Related Articles:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
 - [Calculating Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs](/blog/calculating-online-mba-roi-salary-hikes-vs-tuition-costs)
 - [MBA vs PGDM: The Ultimate Comparison](/blog/mba-vs-pgdm-2026-ultimate-guide)
 
@@ -114,7 +114,7 @@ If you are pursuing an online MBA, use these strategies to match the corporate v
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

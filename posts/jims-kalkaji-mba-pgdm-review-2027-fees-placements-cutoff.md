@@ -7,7 +7,7 @@ keywords:
   - 'jims kalkaji (jagannath international) pgdm admission 2027'
   - 'jims kalkaji (jagannath international) mba fees 2027'
   - 'jims kalkaji (jagannath international) average placement package'
-  - 'jims kalkaji (jagannath international) cutoff 2026 2027'
+  - 'jims kalkaji (jagannath international) cutoff 2027–29 2027'
   - 'jims kalkaji review 2027'
   - 'direct admission in jims kalkaji (jagannath international)'
   - 'top pgdm colleges in kalkaji'

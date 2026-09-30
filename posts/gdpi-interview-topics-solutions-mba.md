@@ -9,8 +9,8 @@ description: >-
   updated fees, placement records, real cutoffs, and selection tips by Mohit
   Jain.
 keywords:
-  - GD topics for MBA 2026 with solutions
-  - MBA interview questions 2026
+  - GD topics for MBA 2027–29 with solutions
+  - MBA interview questions 2027–29
   - 20 trending GD topics 2026
   - IIM interview rounds preparation
   - GD strategies for MBA
@@ -41,7 +41,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
 ---
-Success in MBA/PGDM selection 2026 depends on acing the **Group Discussion (GD)**, **Written Ability Test (WAT)**, and the **Personal Interview (PI)**. While exams like CAT/XAT/CMAT test your logic, GDPI evaluates your leadership, communication, and emotional intelligence.
+Success in MBA/PGDM selection 2027–29 depends on acing the **Group Discussion (GD)**, **Written Ability Test (WAT)**, and the **Personal Interview (PI)**. While exams like CAT/XAT/CMAT test your logic, GDPI evaluates your leadership, communication, and emotional intelligence.
 
 In this expanded guide, we provide **20 trending GD topics for 2026** with structured solutions, followed by high-impact interview tips.
 
@@ -54,7 +54,7 @@ In this expanded guide, we provide **20 trending GD topics for 2026** with struc
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -213,6 +213,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

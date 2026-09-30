@@ -86,7 +86,7 @@ Plan your career with our expert resources:
 *   [BSEB 10th Result 2026 Declared: Check Now](/blog/bseb-10th-result-2026-declared)
 *   [Bihar Student Credit Card (BSCC) Scheme: Funding Your Higher Education](/blog/bihar-student-credit-card-mba-colleges)
 *   [Top MBA Colleges in India: Planning Your Postgraduate Journey](/blog/iims-list-courses-placements-cutoffs-admission)
-*   [Career Options After 12th Science, Commerce, and Arts](/blog/career-options-after-12th-science-2026)
+*   [Career Options After 12th Science, Commerce, and Arts](/blog/career-options-after-12th-science-2027-29)
 
 ### **Details to Verify on Your 12th Marksheet**
 Check the following details carefully on your provisional certificate:
@@ -121,6 +121,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

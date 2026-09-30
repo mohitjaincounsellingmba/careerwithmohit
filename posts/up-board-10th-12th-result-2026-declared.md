@@ -90,7 +90,7 @@ You can also fetch your verified digital marksheet from the **DigiLocker** app b
 Congratulations on clearing your boards! Now is the time to make the most important decision for your career. Whether you are aiming for Engineering, Management, or Law, we are here to help.
 
 **Recommended Resources for 12th Students:**
-*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2026)
+*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2027-29)
 *   [Top B.Tech Colleges in Delhi NCR: Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
 *   [BBA vs B.Com vs BMS: Which is Better for Your Career?](/blog/bba-vs-bcom-vs-bms-career-comparison)
 *   [Direct Admission in Top MBA/BBA Colleges 2026](/blog/direct-bba-admission-2026-management-quota)

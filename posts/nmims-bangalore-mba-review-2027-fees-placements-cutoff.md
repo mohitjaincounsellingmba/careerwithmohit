@@ -10,7 +10,7 @@ keywords:
   - nmims bangalore mba admission 2027
   - nmims bangalore fees structure 2027
   - nmims bangalore average placement package
-  - nmims bangalore cutoff 2026 2027
+  - nmims bangalore cutoff 2027–29 2027
   - nmims bangalore review 2027
   - top mba colleges in bangalore
   - best mba colleges in karnataka

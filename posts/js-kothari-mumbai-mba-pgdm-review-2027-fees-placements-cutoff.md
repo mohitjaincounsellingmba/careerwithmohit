@@ -7,7 +7,7 @@ keywords:
   - 'j.s. kothari business school pgdm admission 2027'
   - 'j.s. kothari business school mba fees 2027'
   - 'j.s. kothari business school average placement package'
-  - 'j.s. kothari business school cutoff 2026 2027'
+  - 'j.s. kothari business school cutoff 2027–29 2027'
   - 'j.s. kothari business school review 2027'
   - 'direct admission in j.s. kothari business school'
   - 'top pgdm colleges in mumbai metropolis'

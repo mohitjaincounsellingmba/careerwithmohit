@@ -13,7 +13,7 @@ description: >-
 keywords:
   - Bennett University admission 2027-29
   - Bennett Greater Noida fees 2027
-  - Bennett Greater Noida placements 2026
+  - Bennett Greater Noida placements 2027–29
   - Bennett Greater Noida PGDM MBA fee structure 2027-29
   - Bennett Greater Noida cutoff CAT MAT CMAT
   - Bennett Greater Noida highest package
@@ -132,7 +132,7 @@ For the **2027–29 academic session**, Bennett Greater Noida provides structure
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹5.97 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹5.97 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹5.97 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹11.95 Lakhs (Total)** | Full Course Aggregate |
 
@@ -258,6 +258,6 @@ Bennett Greater Noida accepts valid percentiles from national entrance exams inc
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -8,7 +8,7 @@ description: >-
   updated fees, placement records, real cutoffs, and selection tips by Mohit
   Jain.
 keywords:
-  - iilm academy of higher learning review 2026
+  - iilm academy of higher learning review 2027–29
   - iilm academy of higher learning pgdm placements
   - iilm academy of higher learning admission cutoff
   - iilm academy of higher learning fees
@@ -89,7 +89,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

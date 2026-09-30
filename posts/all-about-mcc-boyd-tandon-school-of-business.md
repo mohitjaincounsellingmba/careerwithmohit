@@ -1,15 +1,15 @@
 ---
 title: >-
-  MCC Boyd Tandon School of Business PGDM Admission Review 2026: Placements,
+  MCC Boyd Tandon School of Business PGDM Admission Review 2027–29: Placements,
   Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to MCC Boyd Tandon School of Business? Read our
-  comprehensive PGDM review for 2026 covering total fees, average and highest
+  comprehensive PGDM review for 2027–29 covering total fees, average and highest
   placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - mcc boyd tandon school of business review 2026
+  - mcc boyd tandon school of business review 2027–29
   - mcc boyd tandon school of business pgdm placements
   - mcc boyd tandon school of business admission cutoff
   - mcc boyd tandon school of business fees
@@ -95,7 +95,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

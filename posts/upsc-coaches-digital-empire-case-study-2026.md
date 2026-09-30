@@ -97,8 +97,8 @@ Most use a combination of **AI-driven Doubt Desks** and junior mentors who answe
 
 ### Useful Links:
 - [Launch Your Own Branded Academy App](/inquiry)
-- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2026)
-- [Marketing Strategies for Educators](/blog/how-to-market-coaching-app-student-growth-strategy-2026)
+- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2027-29)
+- [Marketing Strategies for Educators](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29)
 
 ---
 

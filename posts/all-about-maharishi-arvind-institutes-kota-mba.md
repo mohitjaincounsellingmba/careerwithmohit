@@ -1,12 +1,12 @@
 ---
-title: 'Maharishi Arvind (MAIIT/MACET) Kota MBA: Reviews & Fees 2026'
+title: 'Maharishi Arvind (MAIIT/MACET) Kota MBA: Reviews & Fees 2027–29'
 date: '2026-03-18'
 description: >-
   Review of Maharishi Arvind Institutes in Kota (MAIIT & MACET) for MBA. Explore
   the ₹1.28 Lakhs fees, 2026 admission process, and placement support.
 keywords:
   - Maharishi Arvind Kota MBA review
-  - MAIIT Kota fees 2026
+  - MAIIT Kota fees 2027–29
   - MACET Kota placement
   - MBA in Kota Rajasthan
   - Maharishi Arvind admission
@@ -23,7 +23,7 @@ faqs:
       more on management and international trends, while **MACET** is a combined
       engineering and management campus. Both offer the same RTU-affiliated
       degree.
-  - question: What is the MBA fee at Maharishi Arvind Kota for 2026?
+  - question: What is the MBA fee at Maharishi Arvind Kota for 2027–29?
     answer: >-
       The total fees for the two-year program is approximately **₹1.28 Lakhs**,
       which is in line with other top private B-schools in the Kota region.
@@ -70,7 +70,7 @@ The Maharishi Arvind Group is a massive name in Rajasthan's education sector, an
 ### 1. What is the difference between MAIIT and MACET for MBA?
 Both are part of the Maharishi Arvind Group. **MAIIT** focus is slightly more on management and international trends, while **MACET** is a combined engineering and management campus. Both offer the same RTU-affiliated degree.
 
-### 2. What is the MBA fee at Maharishi Arvind Kota for 2026?
+### 2. What is the MBA fee at Maharishi Arvind Kota for 2027–29?
 The total fees for the two-year program is approximately **₹1.28 Lakhs**, which is in line with other top private B-schools in the Kota region.
 
 ### 3. Does Maharishi Arvind provide placement support?
@@ -88,7 +88,7 @@ Yes, the group has a centralized placement cell that works with local industries
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

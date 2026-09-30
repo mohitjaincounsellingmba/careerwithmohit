@@ -10,7 +10,7 @@ keywords:
   - sibm pune mba admission 2027
   - sibm pune fees structure 2027
   - sibm pune average placement package
-  - sibm pune cutoff 2026 2027
+  - sibm pune cutoff 2027–29 2027
   - sibm pune review 2027
   - top mba colleges in pune
   - best mba colleges in maharashtra

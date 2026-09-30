@@ -98,9 +98,9 @@ Your audience is already waiting for a more structured way to learn from you. St
 ---
 
 *Explore more ways to grow your digital business:*
-*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2026)
-*   [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2026)
-*   [Top Online Coaching for MBA 2026](/blog/best-mba-coaching-online-2026)
+*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2027-29)
+*   [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
+*   [Top Online Coaching for MBA 2026](/blog/best-mba-coaching-online-2027-29)
 
 ---
 

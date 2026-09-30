@@ -7,8 +7,8 @@ description: >-
   their PGDM/MBA programs, fee structure, cut-offs, top recruiters, and verified
   student reviews for 2026-2027 admissions & career guidance.
 keywords:
-  - TAPMI Manipal placements 2025
-  - TAPMI fees 2026
+  - TAPMI Manipal placements 2027–29
+  - TAPMI fees 2027–29
   - TAPMI CAT cutoff percentile
   - best MBA colleges in India AACSB
   - T.A. Pai Management Institute admission
@@ -16,7 +16,7 @@ keywords:
   - TAPMI vs IIM
   - TAPMI average package 2025
   - TAPMI AMBA accredited MBA India
-  - top 20 MBA colleges India 2026
+  - top 20 MBA colleges India 2027–29
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -146,7 +146,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

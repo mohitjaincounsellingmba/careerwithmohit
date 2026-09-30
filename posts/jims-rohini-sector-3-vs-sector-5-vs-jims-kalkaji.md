@@ -10,7 +10,7 @@ keywords:
   - JIMS Kalkaji vs JIMS Rohini 2026
   - JIMS Sector 3 courses
   - best JIMS campus for BBA
-  - JIMS PGDM fees 2026
+  - JIMS PGDM fees 2027–29
   - Jagan Institute of Management Studies comparison
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
@@ -93,7 +93,7 @@ This is where most students get confused. Sector 3 is primarily **Jagannath Comm
 
 #### **For PGDM/MBA Aspirants:**
 *   **Targeting North Delhi?** Go for **Sector 5**. It has the strongest brand name for PGDM and a very high corporate trust. (Read our [JIMS Rohini vs FIIB](/blog/jims-rohini-vs-fiib) comparison for more).
-*   **Targeting International Business or South Delhi exposure?** **JIMS Kalkaji** wins. The location advantage for placements in Gurgaon-based firms is a massive plus. Check [JIMS Rohini vs JIMS Kalkaji](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026) for a deeper dive.
+*   **Targeting International Business or South Delhi exposure?** **JIMS Kalkaji** wins. The location advantage for placements in Gurgaon-based firms is a massive plus. Check [JIMS Rohini vs JIMS Kalkaji](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2027-29) for a deeper dive.
 
 #### **For Undergraduate (BBA/BCA) Aspirants:**
 *   **Sector 5 (Sec 5)** is affiliated with **GGSIPU (IP University)**. Choose this if you want an IPU degree and a more academic environment. 
@@ -110,7 +110,7 @@ Don't be fooled by the shared logo.
 **Still confused about the admission process?** 
 Navigating the cutoffs for MAT/CAT or IPU-CET can be tricky. At **CareerWithMohit**, we help you choose the campus that actually aligns with your career goals, not just the brand name.
 
-[👉 Get Free Admission Guidance!](/inquiry) | [👉 Explore Top MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+[👉 Get Free Admission Guidance!](/inquiry) | [👉 Explore Top MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
 
 ---
 *Note: Placement data is based on 2025-26 projections and may vary based on specialization.*
@@ -135,6 +135,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

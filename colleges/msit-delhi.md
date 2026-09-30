@@ -46,8 +46,8 @@ keywords:
   - 'engineering colleges Janakpuri, Delhi'
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
+  - Top Colleges in Delhi NCR 2027-29
+  - Delhi NCR Direct Admission 2027-29
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 state: Delhi NCR

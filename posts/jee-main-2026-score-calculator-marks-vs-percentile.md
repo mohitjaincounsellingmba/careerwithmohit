@@ -99,7 +99,7 @@ Calculating your score is just the first step. Depending on your results, you sh
 **Recommended Read:**
 *   [JEE Main College Predictor 2026: NIT/IIIT Admission Guide](/blog/jee-main-college-predictor-2026-btech-top-colleges)
 *   [Total Seats in NITs 2026: Subject-wise Seat Matrix](/blog/total-seats-in-nits-2026-seat-matrix)
-*   [How to Crack JEE Advanced 2026: Strategy for Top 500 AIR](/blog/how-to-crack-jee-advanced-2026)
+*   [How to Crack JEE Advanced 2026: Strategy for Top 500 AIR](/blog/how-to-crack-jee-advanced-2027-29)
 
 ---
 
@@ -116,6 +116,6 @@ Choosing the right engineering branch (CSE, AIML, ECE) is as important as choosi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

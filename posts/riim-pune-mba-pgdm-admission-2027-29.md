@@ -16,7 +16,7 @@ keywords:
     Ramachandran International Institute of Management (RIIM Pune) admission
     2027-29
   - RIIM Pune fees 2027
-  - RIIM Pune placements 2026
+  - RIIM Pune placements 2027–29
   - RIIM Pune PGDM MBA fee structure 2027-29
   - RIIM Pune cutoff CAT MAT CMAT
   - RIIM Pune highest package
@@ -124,7 +124,7 @@ For the **2027–29 academic session**, RIIM Pune provides structured installmen
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.60L - ₹4.30L / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.60L - ₹4.30L / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.60L - ₹4.30L / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹7.20 Lakhs to ₹8.60 Lakhs (Total)** | Full Course Aggregate |
 
@@ -252,6 +252,6 @@ RIIM Pune accepts valid percentiles from national entrance exams including CAT, 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

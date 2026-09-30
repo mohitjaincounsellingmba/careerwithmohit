@@ -66,7 +66,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2026)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
+| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
 | **[MICA Ahmedabad](/blog/all-about-nmims-campuses)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
 | **[Institute of Management, Nirma Univ (IMNU)](/blog/all-about-nmims-campuses)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
 | **[EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |

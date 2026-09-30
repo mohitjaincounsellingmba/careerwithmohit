@@ -77,7 +77,7 @@ As centrally funded premier technical and management institutes, all 21 IIMs str
 
 #
 
-[InquiryCard title="Get Free MBA & B-School Admission Guidance 2026" description="Compare top IIMs, IITs, and private B-schools (fees, placement ROI, CAT/XAT cutoffs) with expert career counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free MBA & B-School Admission Guidance 2027–29" description="Compare top IIMs, IITs, and private B-schools (fees, placement ROI, CAT/XAT cutoffs) with expert career counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
@@ -149,10 +149,10 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 ---
 
 ### **Related Reading**
-*   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
-*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2026)
+*   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
+*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
 *   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
-*   [MBA vs PGDM: Which is Better for Your Career in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+*   [MBA vs PGDM: Which is Better for Your Career in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 
 ---
 
@@ -175,4 +175,4 @@ Following the IIM Act of 2017, Indian Institutes of Management now award Master 
 
 ### 🚀 Boost Your MBA Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.

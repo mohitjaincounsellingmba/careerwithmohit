@@ -16,7 +16,7 @@ keywords:
   - NDIM international immersion
   - NDIM Japan Centre of Excellence
   - NDIM foreign languages Japanese Korean
-  - NDIM Delhi review 2026
+  - NDIM Delhi review 2027–29
   - NDIM dual specialization
   - NDIM summer internship and PPO
   - NDIM Delhi fees and placements
@@ -82,7 +82,7 @@ In this official program breakdown—sourced directly from [ndimdelhi.org](https
 
 ---
 
-## 🏛️ NDIM Delhi PGDM Program: 2026 Quick Snapshot
+## 🏛️ NDIM Delhi PGDM Program: 2027–29 Quick Snapshot
 
 | Parameter | Official Details ([ndimdelhi.org](https://www.ndimdelhi.org/)) |
 | :--- | :--- |
@@ -319,7 +319,7 @@ Get personalized, unbiased guidance from experienced MBA mentor **Mohit Jain**:
 * Scholarship & Education Loan Guidance
 * GD-PI Preparation Strategy
 
-👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/blog/ndim-delhi-review-2026) to finalize your B-School shortlist.
+👉 **[Book Your Free 1-on-1 Counseling Session with Mohit Jain](/book-session)** or check our detailed [NDIM Delhi Review & Cutoff Guide](/blog/ndim-delhi-review-2027-29) to finalize your B-School shortlist.
 
 ---
 
@@ -347,6 +347,6 @@ Yes, NDIM's 2-Year Full-Time PGDM is approved by AICTE, accredited by NBA, and g
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

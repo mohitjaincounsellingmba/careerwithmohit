@@ -10,7 +10,7 @@ keywords:
   - mica ahmedabad mba admission 2027
   - mica ahmedabad fees structure 2027
   - mica ahmedabad average placement package
-  - mica ahmedabad cutoff 2026 2027
+  - mica ahmedabad cutoff 2027–29 2027
   - mica ahmedabad review 2027
   - top mba colleges in ahmedabad
   - best mba colleges in gujarat

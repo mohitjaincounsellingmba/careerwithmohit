@@ -7,7 +7,7 @@ keywords:
   - 'soil institute of management (soil) pgdm admission 2027'
   - 'soil institute of management (soil) mba fees 2027'
   - 'soil institute of management (soil) average placement package'
-  - 'soil institute of management (soil) cutoff 2026 2027'
+  - 'soil institute of management (soil) cutoff 2027–29 2027'
   - 'soil review 2027'
   - 'direct admission in soil institute of management (soil)'
   - 'top pgdm colleges in sector 44'

@@ -10,7 +10,7 @@ keywords:
   - nmims navi mumbai mba admission 2027
   - nmims navi mumbai fees structure 2027
   - nmims navi mumbai average placement package
-  - nmims navi mumbai cutoff 2026 2027
+  - nmims navi mumbai cutoff 2027–29 2027
   - nmims navi mumbai review 2027
   - top mba colleges in navi mumbai
   - best mba colleges in maharashtra

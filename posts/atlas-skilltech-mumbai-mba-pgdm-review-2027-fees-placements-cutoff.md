@@ -7,7 +7,7 @@ keywords:
   - 'atlas skilltech university pgdm admission 2027'
   - 'atlas skilltech university mba fees 2027'
   - 'atlas skilltech university average placement package'
-  - 'atlas skilltech university cutoff 2026 2027'
+  - 'atlas skilltech university cutoff 2027–29 2027'
   - 'atlas skilltech university review 2027'
   - 'direct admission in atlas skilltech university'
   - 'top pgdm colleges in kurla (bkc zone)'

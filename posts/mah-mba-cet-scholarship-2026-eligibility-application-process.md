@@ -1,17 +1,17 @@
 ---
-title: 'MAH MBA CET Scholarship 2026: Eligibility, MahaDBT Portal & How to Apply'
+title: 'MAH MBA CET Scholarship 2027–29: Eligibility, MahaDBT Portal & How to Apply'
 date: '2026-04-05'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for MAH MBA CET
   Scholarship 2026: Eligibility, MahaDBT Portal & How to Apply. Check updated
   fees, placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - MAH CET MBA scholarship 2026
+  - MAH CET MBA scholarship 2027–29
   - MahaDBT portal MBA scholarship
   - EBC scholarship for MBA Maharashtra eligibility
   - SC ST OBC scholarship MBA CET
   - Maharashtra MBA fee reimbursement
-  - Rajarshi Shahu Maharaj scholarship MBA 2026
+  - Rajarshi Shahu Maharaj scholarship MBA 2027–29
   - Direct Admission in Delhi
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
@@ -40,7 +40,7 @@ category: Online Degrees
 
 For many MBA aspirants in Maharashtra, the high fees of top B-schools like JBIMS, SIMSREE, and PUMBA can be a concern. However, if you are a domicile of Maharashtra and have secured admission through the **Centralized Admission Process (CAP)**, you are eligible for significant government scholarships that can cover up to 50% to 100% of your tuition fees.
 
-In this guide, we break down everything you need to know about the **MAH MBA CET scholarships for the 2026-27 academic session**.
+In this guide, we break down everything you need to know about the **MAH MBA CET scholarships for the 2027–29-27 academic session**.
 
 ---
 
@@ -152,6 +152,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -51,12 +51,12 @@ For students targeting a **Master of Science in Business Analytics (MSBA)**, **M
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Delhi School of Economics (DSE)](/colleges/dse-delhi)** (MBA BA) | ₹48,000 (Total) | ₹14.50 LPA (Unbeatable ROI) | CAT (95+ %ile) + Math/Stats in 10+2/Grad |
+| **[Delhi School of Economics (DSE)](/blog/ailet-2026-nlu-delhi-admission-guide)** (MBA BA) | ₹48,000 (Total) | ₹14.50 LPA (Unbeatable ROI) | CAT (95+ %ile) + Math/Stats in 10+2/Grad |
 | **[IMI New Delhi](/colleges/imi-delhi)** (PGDM Business Analytics) | ₹20.50 Lakhs | ₹17.01 LPA - ₹18.00 LPA | CAT / XAT (90+ %ile) / GMAT |
-| **[FORE School of Management](/colleges/fore-school)** (PGDM Big Data Analytics) | ₹18.50 Lakhs | ₹14.80 LPA - ₹15.50 LPA | CAT / XAT (85+ %ile) / GMAT |
+| **[FORE School of Management](/colleges/fore-school-delhi)** (PGDM Big Data Analytics) | ₹18.50 Lakhs | ₹14.80 LPA - ₹15.50 LPA | CAT / XAT (85+ %ile) / GMAT |
 | **[LBSIM Delhi](/colleges/lbsim-delhi)** (PGDM Research & Business Analytics) | ₹16.50 Lakhs | ₹12.40 LPA - ₹13.00 LPA | CAT / XAT (85+ %ile) / GMAT |
 | **JIIT Noida** (M.Sc Data & Business Analytics / MBA BA) | ₹3.50L - ₹8.50L | ₹7.50 LPA - ₹9.00 LPA | PGET / CAT / MAT / CMAT / Graduation Merit |
-| **[Christ University Delhi NCR](/colleges/christ-university)** (M.Sc Finance & Analytics) | ₹8.50L - ₹10.50L | ₹7.80 LPA - ₹8.50 LPA | CUET / CAT / MAT / XAT / CMAT |
+| **[Christ University Delhi NCR](/colleges/christ-university-bangalore)** (M.Sc Finance & Analytics) | ₹8.50L - ₹10.50L | ₹7.80 LPA - ₹8.50 LPA | CUET / CAT / MAT / XAT / CMAT |
 | **[JIMS Rohini (Sector 5)](/colleges/jims-rohini)** (PGDM Business Analytics) | ₹9.50 Lakhs | ₹8.10 LPA - ₹8.60 LPA | CAT / MAT / XAT / CMAT / ATMA (75%+ %ile) |
 | **[Amity Business School, Noida](/colleges/amity-noida)** (MBA Business Analytics) | ₹14.50 Lakhs | ₹7.50 LPA - ₹8.50 LPA | CAT / MAT / XAT / NMAT / Amity Test |
 
@@ -64,7 +64,7 @@ For students targeting a **Master of Science in Business Analytics (MSBA)**, **M
 
 ## 🏛️ In-Depth Review: Top Business Analytics Colleges in Delhi NCR
 
-### 1. [Delhi School of Economics (DSE), University of Delhi](/colleges/dse-delhi) – North Campus
+### 1. [Delhi School of Economics (DSE), University of Delhi](/blog/ailet-2026-nlu-delhi-admission-guide) – North Campus
 - **Flagship Offering**: MBA in Business Analytics (MBA BA)
 - **Total Tuition Fee**: ₹48,000 for the entire 2-year program (Supreme ROI)
 - **Placement Performance**: Average CTC ₹14.50 LPA | Highest Domestic CTC ₹32.00 LPA
@@ -87,7 +87,7 @@ For students targeting a **Master of Science in Business Analytics (MSBA)**, **M
 
 ---
 
-### 3. [FORE School of Management](/colleges/fore-school), New Delhi
+### 3. [FORE School of Management](/colleges/fore-school-delhi), New Delhi
 - **Flagship Offering**: PGDM in Big Data Analytics (BDA)
 - **Total Tuition Fee**: ₹18.50 Lakhs
 - **Placement Performance**: Average CTC ₹14.80 LPA – ₹15.50 LPA | Highest Domestic CTC ₹30.00 LPA
@@ -160,6 +160,6 @@ Top institutions like DSE, IMI, FORE, and LBSIM admit solely on CAT/XAT/GMAT mer
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)**
-- **[Read: Best MBA Colleges in Delhi 2026 Fees & Placements](/blog/best-mba-colleges-in-delhi-2026)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
+- **[Read: Best MBA Colleges in Delhi 2027–29 Fees & Placements](/blog/best-mba-colleges-in-delhi-2027-29)**
 - **[Read: All About IMI Delhi Admission & Cutoffs](/blog/all-about-imi-delhi)**

@@ -14,7 +14,7 @@ description: >-
 keywords:
   - Dr. D.Y. Patil Institute of Management & Research (DYPIMR) admission 2027-29
   - DY Patil Pune fees 2027
-  - DY Patil Pune placements 2026
+  - DY Patil Pune placements 2027–29
   - DY Patil Pune PGDM MBA fee structure 2027-29
   - DY Patil Pune cutoff CAT MAT CMAT
   - DY Patil Pune highest package
@@ -123,7 +123,7 @@ For the **2027–29 academic session**, DY Patil Pune provides structured instal
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.25 Lakhs / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.25 Lakhs / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.25 Lakhs / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹6.50 Lakhs for PGDM / ₹3.50 Lakhs for MBA** | Full Course Aggregate |
 
@@ -249,6 +249,6 @@ DY Patil Pune accepts valid percentiles from national entrance exams including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

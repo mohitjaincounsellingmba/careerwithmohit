@@ -176,7 +176,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 font-medium">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-              2026-2027 Admissions Open
+              2027–2029 Admissions Open
             </span>
             <a
               href="https://wa.me/919560020771?text=Hi%20Mohit,%20I%20am%20looking%20for%20MBA/PGDM%20colleges%20in%20"
@@ -229,7 +229,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                 Average CTC
               </div>
               <div className="mt-1.5 text-xl font-bold text-emerald-400 tracking-tight">{hub.stats.avgPlacement}</div>
-              <div className="text-[11px] text-slate-400 mt-0.5">2025-2026 Batch</div>
+              <div className="text-[11px] text-slate-400 mt-0.5">2027–2029 Batch</div>
             </div>
 
             <div className="p-4 rounded-xl bg-slate-900/90 border border-slate-800/90 shadow-md">
@@ -564,7 +564,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
             <div className="p-6 rounded-2xl bg-slate-900 border border-slate-800">
               <h2 className="text-xl font-bold text-white flex items-center gap-2">
                 <FileSpreadsheet className="w-5 h-5 text-amber-400" />
-                {hub.cityName} MBA & PGDM Cutoff Matrix (2026-2027)
+                {hub.cityName} MBA & PGDM Cutoff Matrix (2027–2029)
               </h2>
               <p className="text-sm text-slate-300 mt-1">
                 Expected cutoff percentiles across national & state entrance exams for premier business schools in {hub.cityName}.

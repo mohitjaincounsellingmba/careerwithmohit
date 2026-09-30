@@ -13,7 +13,7 @@ description: >-
 keywords:
   - Institute of Technology & Science (ITS Ghaziabad) admission 2027-29
   - ITS Ghaziabad fees 2027
-  - ITS Ghaziabad placements 2026
+  - ITS Ghaziabad placements 2027–29
   - ITS Ghaziabad PGDM MBA fee structure 2027-29
   - ITS Ghaziabad cutoff CAT MAT CMAT
   - ITS Ghaziabad highest package
@@ -128,7 +128,7 @@ For the **2027–29 academic session**, ITS Ghaziabad provides structured instal
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.47 Lakhs / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹6.95 Lakhs for PGDM / ₹3.15 Lakhs for MBA** | Full Course Aggregate |
 
@@ -254,6 +254,6 @@ ITS Ghaziabad accepts valid percentiles from national entrance exams including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -7,7 +7,7 @@ keywords:
   - 'isms pune (international school of management studies) pgdm admission 2027'
   - 'isms pune (international school of management studies) mba fees 2027'
   - 'isms pune (international school of management studies) average placement package'
-  - 'isms pune (international school of management studies) cutoff 2026 2027'
+  - 'isms pune (international school of management studies) cutoff 2027–29 2027'
   - 'isms pune review 2027'
   - 'direct admission in isms pune (international school of management studies)'
   - 'top pgdm colleges in hinjawadi'

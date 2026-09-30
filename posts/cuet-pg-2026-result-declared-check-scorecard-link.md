@@ -15,7 +15,7 @@ keywords:
   - CUET PG cut off 2026
   - how to check CUET PG result
   - CUET PG official website link
-  - MBA admission via CUET PG 2026
+  - MBA admission via CUET PG 2027–29
   - Direct Admission in Delhi
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
@@ -86,13 +86,13 @@ The NTA's role ends with the declaration of results. The next steps involve:
 *   **Counseling Registration**: You must register separately on the admission portals of your preferred universities.
 *   **Document Verification**: Ensure you have your CUET PG scorecard, admit card, and academic certificates ready.
 
-### **MBA Admissions via CUET PG 2026**
+### **MBA Admissions via CUET PG 2027–29**
 If you are aiming for MBA programs, many top universities and private B-schools accept CUET PG scores. 
 
 **Recommended Resources for CUET PG Aspirants:**
-*   [Top MBA Colleges Accepting CUET PG Scores 2026](/blog/top-mba-colleges-cuet-pg)
+*   [Top MBA Colleges Accepting CUET PG Scores 2027–29](/blog/top-mba-colleges-cuet-pg)
 *   [CUET PG Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
-*   [Direct Admission in CUET MBA Colleges (Delhi NCR)](/blog/direct-admission-cuet-mba-colleges-delhi-ncr-2026)
+*   [Direct Admission in CUET MBA Colleges (Delhi NCR)](/blog/direct-admission-cuet-mba-colleges-delhi-ncr-2027-29)
 *   [CUET PG Predictor: Which MBA College Can You Get?](/blog/cuet-pg-predictor-2026-mba-colleges)
 
 **Need help with PG Admissions?**
@@ -120,6 +120,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

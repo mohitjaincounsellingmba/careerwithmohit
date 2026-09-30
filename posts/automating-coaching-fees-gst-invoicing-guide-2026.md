@@ -117,8 +117,8 @@ Absolutely. Your dashboard should allow you to download a monthly CSV/Excel file
 
 ### Useful Links:
 - [Launch Your Branded Academy with Automated Payments](/inquiry)
-- [How to Market Your Coaching App 2026](/blog/how-to-market-coaching-app-student-growth-strategy-2026)
-- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2026)
+- [How to Market Your Coaching App 2026](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29)
+- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2027-29)
 
 ---
 

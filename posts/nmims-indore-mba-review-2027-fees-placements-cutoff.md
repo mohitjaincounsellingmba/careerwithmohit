@@ -10,7 +10,7 @@ keywords:
   - nmims indore mba admission 2027
   - nmims indore fees structure 2027
   - nmims indore average placement package
-  - nmims indore cutoff 2026 2027
+  - nmims indore cutoff 2027–29 2027
   - nmims indore review 2027
   - top mba colleges in indore
   - best mba colleges in madhya pradesh

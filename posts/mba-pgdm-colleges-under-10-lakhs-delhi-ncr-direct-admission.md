@@ -1,5 +1,5 @@
 ---
-title: Top MBA & PGDM Colleges Under 10 Lakhs in Delhi NCR (Direct Admission 2026)
+title: Top MBA & PGDM Colleges Under 10 Lakhs in Delhi NCR (Direct Admission 2027–29)
 date: '2026-03-26'
 description: >-
   Looking for direct admission in Delhi NCR? Explore the top MBA and PGDM
@@ -8,7 +8,7 @@ description: >-
   guidance.
 keywords:
   - MBA colleges under 10 lakhs in Delhi NCR
-  - PGDM direct admission Delhi 2026
+  - PGDM direct admission Delhi 2027–29
   - management quota MBA Delhi
   - IMS Ghaziabad fees structure
   - GL Bajaj MBA placement
@@ -106,7 +106,7 @@ Yes. Once you are part of the program, placements are entirely driven by your sk
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

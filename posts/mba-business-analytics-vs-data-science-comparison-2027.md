@@ -301,12 +301,12 @@ Basic coding in SQL, R, or Python is taught during the program, but deep softwar
 
 Both **MBA in Business Analytics** and **Data Science** represent future-proof career paths in 2027. If your strength lies in business acumen, communication, and executive decision-making, an MBA in Business Analytics offers an unbeatable launchpad into corporate leadership. If your passion lies in coding, advanced mathematics, and building AI models, Data Science is the ideal technical domain.
 
-To explore top management programs, check out our comprehensive guides on [Top MBA Colleges in India](/blog/best-mba-colleges-india-2026), [All About CAT Exam](/blog/all-about-cat-exam), and [IIM Placement & Selection Reports](/blog/all-about-iim-colleges-placements-fees-selection-2026).
+To explore top management programs, check out our comprehensive guides on [Top MBA Colleges in India](/blog/best-mba-colleges-india-2027-29), [All About CAT Exam](/blog/all-about-cat-exam), and [IIM Placement & Selection Reports](/blog/all-about-iim-colleges-placements-fees-selection-2027-29).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

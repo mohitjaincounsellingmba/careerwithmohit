@@ -7,7 +7,7 @@ keywords:
   - 'fostiima business school pgdm admission 2027'
   - 'fostiima business school mba fees 2027'
   - 'fostiima business school average placement package'
-  - 'fostiima business school cutoff 2026 2027'
+  - 'fostiima business school cutoff 2027–29 2027'
   - 'fostiima business school review 2027'
   - 'direct admission in fostiima business school'
   - 'top pgdm colleges in dwarka'

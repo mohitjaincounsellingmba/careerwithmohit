@@ -119,7 +119,7 @@ For Tier-1 colleges (COEP, PICT), the average package ranges from ₹12L to ₹1
 
 ### Useful Links:
 - [JEE Main 2026 College Predictor](/blog/jee-main-2026-college-predictor-rank-vs-college)
-- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
+- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
 - [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
 
 ---

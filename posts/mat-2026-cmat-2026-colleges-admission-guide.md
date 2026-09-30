@@ -10,11 +10,11 @@ keywords:
   - mat 2026 colleges
   - cmat 2026 colleges
   - best mba colleges accepting mat score
-  - jbims cmat cutoff 2026
+  - jbims cmat cutoff 2027–29
   - pumba cmat cutoff
   - mat exam dates 2026
   - cmat preparation strategy
-  - mba admission via mat 2026
+  - mba admission via mat 2027–29
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
@@ -43,7 +43,7 @@ state: Delhi NCR
 
 While CAT gets all the spotlight, **MAT (Management Aptitude Test)** and **CMAT (Common Management Admission Test)** are the silent career-makers for over 1 Lakh MBA aspirants every year. These exams are generally easier than CAT and are the gateway to some of India's best high-ROI and private B-schools.
 
-If you want an MBA but don't want to deal with the extreme difficulty of CAT, this **MAT & CMAT 2026 guide** is for you.
+If you want an MBA but don't want to deal with the extreme difficulty of CAT, this **MAT & CMAT 2027–29 guide** is for you.
 
 ---
 
@@ -106,9 +106,9 @@ Registration usually starts in **late December or early January**.
 ---
 
 ### Useful Links:
-- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026)
-- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [Direct MBA Admission Guide 2026](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
+- [Direct MBA Admission Guide 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
 
 ---
 
@@ -123,7 +123,7 @@ MAT and CMAT are the smart student's bypass. Many students Mohit Jain has counse
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

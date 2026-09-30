@@ -197,13 +197,13 @@ Yes, you can reschedule your exam date or test centre up to 72 hours prior to yo
 * [All About NMAT Exam: Pattern, Syllabus & NMIMS Cutoffs](/blog/all-about-nmat-exam)
 * [All About NMIMS Campuses: Fees, Cutoffs & Placement Reports](/blog/all-about-nmims-campuses)
 * [CAT Exam 2026 Last Date of Registration & Timeline](/blog/cat-exam-2026-last-date-of-registration)
-* [Top MBA Entrance Exams 2026 Comprehensive Guide](/blog/all-about-omets-mba-entrance-exams-2026)
+* [Top MBA Entrance Exams 2027–29 Comprehensive Guide](/blog/all-about-omets-mba-entrance-exams-2027-29)
 * [Free MBA Preparation & Counselling Consultation](/inquiry)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

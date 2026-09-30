@@ -55,7 +55,7 @@ faqs:
 state: Delhi NCR
 ---
 
-Every MBA aspirant preparing for or analyzing the **Common Admission Test (CAT 2026)** asks one fundamental question: *"How many marks do I need to score to get a 99, 95, or 90 percentile?"*
+Every MBA aspirant preparing for or analyzing the **Common Admission Test (CAT 2027–29)** asks one fundamental question: *"How many marks do I need to score to get a 99, 95, or 90 percentile?"*
 
 Understanding the distinction between **CAT Raw Score**, **Scaled Score**, and **Final Percentile** is critical for setting your exam day strategy, managing negative marking, and shortlisting MBA colleges.
 
@@ -81,7 +81,7 @@ The CAT exam comprises 66 questions with a total duration of 120 minutes (40 min
 
 ---
 
-[InquiryCard title="Get Free MBA Admission & Profile Evaluation Guidance 2026" description="Connect with expert MBA counselor Mohit Jain to evaluate your CAT score, shortlist best-fit B-schools, and get interview preparation support." cta="Book Free 1-on-1 Counselling" type="admission"]
+[InquiryCard title="Get Free MBA Admission & Profile Evaluation Guidance 2027–29" description="Connect with expert MBA counselor Mohit Jain to evaluate your CAT score, shortlist best-fit B-schools, and get interview preparation support." cta="Book Free 1-on-1 Counselling" type="admission"]
 
 ---
 
@@ -191,9 +191,9 @@ IIMs use a standard statistical normalization procedure:
 
 ## 🔗 Related Resources
 *   [CAT Answer Key & Response Sheet Analysis](/blog/cat-answer-key-response-sheet-analysis-score-calculator)
-*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026)
-*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2026)
+*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2027-29)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
+*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2027-29)
 
 ---
 
@@ -218,6 +218,6 @@ Yes, prominent private B-schools like BIMTECH Greater Noida, LBSIM Delhi, [FORE 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

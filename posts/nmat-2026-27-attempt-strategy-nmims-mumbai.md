@@ -33,7 +33,7 @@ faqs:
       question adapts based on your previous answers. Scoring well on early
       questions raises your difficulty pool, unlocking higher potential scaled
       scores (up to 360).
-  - question: What is a safe NMAT score for NMIMS Mumbai Flagship MBA in 2026-27?
+  - question: What is a safe NMAT score for NMIMS Mumbai Flagship MBA in 2027–29-27?
     answer: >-
       A safe scaled score for NMIMS Mumbai Flagship MBA (Core MBA / MBA HR) is
       235 - 245+ with sectional cutoffs of 76+ in Language Skills, 74+ in
@@ -265,7 +265,7 @@ No. NMIMS Mumbai and all NMIMS campuses accept **ONLY your FIRST ATTEMPT score**
 ### How does GMAC's adaptive algorithm affect NMAT scoring?
 NMAT uses a Computer Adaptive Test (CAT) model. The difficulty of each question adapts based on your previous answers. Scoring well on early questions raises your difficulty pool, unlocking higher potential scaled scores (up to 360).
 
-### What is a safe NMAT score for NMIMS Mumbai Flagship MBA in 2026-27?
+### What is a safe NMAT score for NMIMS Mumbai Flagship MBA in 2027–29-27?
 A safe scaled score for NMIMS Mumbai Flagship MBA (Core MBA / MBA HR) is **235 – 245+** with sectional cutoffs of 76+ in Language Skills, 74+ in Quantitative Skills, and 75+ in Logical Reasoning.
 
 ### What happens if I leave questions unanswered in NMAT?
@@ -277,12 +277,12 @@ Leaving questions unattempted carries a heavy penalty in GMAC's adaptive scaling
 
 Succeeding in NMAT requires combining speed, accuracy, and smart attempt strategy. Focus your preparation on hitting your peak score in **Attempt 1** to secure your seat at [NMIMS Mumbai](/colleges/nmims-mumbai), while keeping Attempts 2 and 3 ready as strategic backups for top-tier B-schools across India.
 
-For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2026](/blog/all-about-nmat-exam), [NMIMS Campuses Review](/blog/all-about-nmims-campuses), and [CAT Exam Preparation Strategy](/blog/all-about-cat-exam).
+For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2027–29](/blog/all-about-nmat-exam), [NMIMS Campuses Review](/blog/all-about-nmims-campuses), and [CAT Exam Preparation Strategy](/blog/all-about-cat-exam).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

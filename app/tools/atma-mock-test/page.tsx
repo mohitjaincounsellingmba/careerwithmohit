@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     'ATMA analytical reasoning questions', 'ATMA verbal skills practice', 'ATMA quantitative skills mock',
     'AIMS ATMA 2026 exam pattern', 'ATMA score vs percentile', 'JBIMS ATMA cutoff 2026',
     'best mock test for ATMA 2026', 'free ATMA practice paper with solutions', 'AIMS MBA entrance preparation',
-    'mba admission 2026', 'pgdm admission 2026'
+    'mba admission 2027-29', 'pgdm admission 2027-29'
   ],
   alternates: {
     canonical: '/tools/atma-mock-test/',

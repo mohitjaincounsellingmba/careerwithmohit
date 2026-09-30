@@ -276,10 +276,10 @@ When planning your management budget at SOIL, keep these non-tuition expenses in
 ## 11. Related MBA Admissions & Delhi-NCR Resources
 
 *   [SOIL Gurgaon Application Form Open 2027–29: Complete Review & Cutoffs](/blog/soil-gurgaon-application-form-open-2027-29-complete-review)
-*   [USP of SOIL Institute of Management: 10 Reasons Why It Stands Out](/blog/usp-of-soil-gurgaon-pgdm-2026)
-*   [Top Tier MBA Colleges 2026–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
+*   [USP of SOIL Institute of Management: 10 Reasons Why It Stands Out](/blog/usp-of-soil-gurgaon-pgdm-2027-29)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
 
 [InquiryCard title="Get Fee Assistance & Scholarship Counseling for SOIL Gurgaon" subtitle="Verify your scholarship eligibility, calculate exact fee installments, and get connected with banking loan officers." ctaText="Check Scholarship Eligibility / Apply Now"]
 
@@ -306,6 +306,6 @@ The 1-Year PGPM (Business Leadership) fee is approximately **₹15.33 Lakhs to �
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

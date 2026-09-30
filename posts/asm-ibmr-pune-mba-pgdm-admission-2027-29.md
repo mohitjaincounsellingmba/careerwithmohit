@@ -13,7 +13,7 @@ description: >-
 keywords:
   - ASM’s Institute of Business Management & Research (IBMR) admission 2027-29
   - ASM IBMR Pune fees 2027
-  - ASM IBMR Pune placements 2026
+  - ASM IBMR Pune placements 2027–29
   - ASM IBMR Pune PGDM MBA fee structure 2027-29
   - ASM IBMR Pune cutoff CAT MAT CMAT
   - ASM IBMR Pune highest package
@@ -122,7 +122,7 @@ For the **2027–29 academic session**, ASM IBMR Pune provides structured instal
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.47 Lakhs / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹6.95 Lakhs for PGDM / ₹3.75 Lakhs for MBA** | Full Course Aggregate |
 
@@ -248,6 +248,6 @@ ASM IBMR Pune accepts valid percentiles from national entrance exams including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

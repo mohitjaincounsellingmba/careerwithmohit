@@ -1,12 +1,12 @@
 ---
-title: 'MABS Delhi Review 2026: Placements & Infrastructure Highlights'
+title: 'MABS Delhi Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of [Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi).
   Explore the 1.13 Cr highest package claim, modern infra, and faculty review
   for 2026-2027 admissions & career guidance.
 keywords:
-  - MABS Delhi review 2026
+  - MABS Delhi review 2027–29
   - Maharaja Agrasen Business School placements
   - MABS faculty review
   - best MBA in Delhi ROI
@@ -95,7 +95,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

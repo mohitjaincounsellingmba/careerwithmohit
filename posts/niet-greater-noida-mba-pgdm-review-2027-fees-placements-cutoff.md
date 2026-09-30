@@ -7,7 +7,7 @@ keywords:
   - 'noida institute of engineering & technology (niet) pgdm admission 2027'
   - 'noida institute of engineering & technology (niet) mba fees 2027'
   - 'noida institute of engineering & technology (niet) average placement package'
-  - 'noida institute of engineering & technology (niet) cutoff 2026 2027'
+  - 'noida institute of engineering & technology (niet) cutoff 2027–29 2027'
   - 'niet review 2027'
   - 'direct admission in noida institute of engineering & technology (niet)'
   - 'top pgdm colleges in knowledge park ii'

@@ -130,7 +130,7 @@ If you are looking to boost your DILR score, follow this structured 90-day routi
 - **Ignoring Clues:** Read every word in the set description. A small word like "distinct," "adjacent," or "only" can completely alter the logic.
 - **Neglecting Rough Sheets:** Keep your rough work clean and structured. Messy tables lead to calculation errors and confusion.
 
-To test your readiness, check out our [Free CAT Mock Test 2026](/blog/free-cat-mock-test-2026), compute your estimated percentile using our [CAT Score Calculator 2026](/tools/cat-score-calculator), and practice real CAT-level DILR sets under timed conditions.
+To test your readiness, check out our [Free CAT Mock Test 2026](/blog/free-cat-mock-test-2027-29), compute your estimated percentile using our [CAT Score Calculator 2026](/tools/cat-score-calculator), and practice real CAT-level DILR sets under timed conditions.
 
 [👉 Need personalized mentoring for CAT 2026? Speak to our admission counselling experts today!](/inquiry)
 
@@ -154,7 +154,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

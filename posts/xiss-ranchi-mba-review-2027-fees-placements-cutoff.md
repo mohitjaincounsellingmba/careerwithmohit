@@ -13,7 +13,7 @@ description: >-
 keywords:
   - xavier institute of social service (xiss ranchi) review 2027
   - xavier institute of social service (xiss ranchi) mba fees
-  - xavier institute of social service (xiss ranchi) placements 2026 2027
+  - xavier institute of social service (xiss ranchi) placements 2027–29 2027
   - xavier institute of social service (xiss ranchi) average package
   - xavier institute of social service (xiss ranchi) highest package
   - xavier institute of social service (xiss ranchi) cutoff cat xat
@@ -218,6 +218,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'University of Kota (UOK) MBA: Extremely Affordable ROI 2026'
+title: 'University of Kota (UOK) MBA: Extremely Affordable ROI 2027–29'
 date: '2026-03-18'
 description: >-
   Detailed review of University of Kota (UOK) MBA program. Explore the lowest
@@ -89,7 +89,7 @@ Yes, UOK is a UGC-recognized state university. Its MBA degree is fully valid for
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -82,7 +82,7 @@ In this 2027 guide, senior admission consultant **Mohit Jain** presents an hones
 | **[SRCC GBO Delhi](/blog/all-about-srcc-gbo-exam)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
 | **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-dsb-pgdm-admission-2027-29)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[JIMS Rohini (Sector 5)](/blog/all-about-jims-rohini)** (PGDM) | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
-| **[NDIM New Delhi](/blog/ndim-delhi-review-2026)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
+| **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
 
 ---
 

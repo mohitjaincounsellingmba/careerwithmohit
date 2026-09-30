@@ -191,9 +191,9 @@ A **2-year postgraduate engineering program** in hybrid format — online live s
 
 *Related Posts:*
 - [Best B.Tech Colleges India – Placements 2026](/blog/best-btech-colleges-placements-india-2026)
-- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2026)
-- [MBA after B.Tech – Benefits 2026](/blog/mba-after-btech-benefits-2026)
-- [Online MBA in India 2026](/blog/online-mba-india-2026)
+- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2027-29)
+- [MBA after B.Tech – Benefits 2026](/blog/mba-after-btech-benefits-2027-29)
+- [Online MBA in India 2026](/blog/online-mba-india-2027-29)
 
 ---
 

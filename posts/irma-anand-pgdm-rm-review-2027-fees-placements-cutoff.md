@@ -11,7 +11,7 @@ keywords:
   - institute of rural management anand (irma) mba admission 2027
   - institute of rural management anand (irma) fees structure 2027
   - institute of rural management anand (irma) average placement package
-  - institute of rural management anand (irma) cutoff 2026 2027
+  - institute of rural management anand (irma) cutoff 2027–29 2027
   - irma anand review 2027
   - top mba colleges in anand
   - best mba colleges in gujarat

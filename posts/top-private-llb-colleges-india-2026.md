@@ -111,7 +111,7 @@ Symbiosis (SLAT) applications usually close by **mid-April**. Always check the o
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
 - [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
 - [Direct Law Admission 2026 Guide](/blog/direct-llb-admission-without-entrance-exam-2026-is-it-worth-it)
 

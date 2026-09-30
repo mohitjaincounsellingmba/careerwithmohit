@@ -12,7 +12,7 @@ description: >-
 keywords:
   - IILM Academy of Higher Learning admission 2027-29
   - IILM Jaipur fees 2027
-  - IILM Jaipur placements 2026
+  - IILM Jaipur placements 2027–29
   - IILM Jaipur PGDM MBA fee structure 2027-29
   - IILM Jaipur cutoff CAT MAT CMAT
   - IILM Jaipur highest package
@@ -118,7 +118,7 @@ For the **2027–29 academic session**, IILM Jaipur provides structured installm
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.50 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.50 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.50 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹7.00 Lakhs (Total)** | Full Course Aggregate |
 
@@ -245,6 +245,6 @@ IILM Jaipur accepts valid percentiles from national entrance exams including CAT
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

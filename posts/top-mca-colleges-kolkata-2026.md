@@ -118,7 +118,7 @@ Usually held in **July**. Registrations typically open in May.
 ### Useful Links:
 - [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
 - [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
-- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2026)
+- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2027-29)
 
 ---
 

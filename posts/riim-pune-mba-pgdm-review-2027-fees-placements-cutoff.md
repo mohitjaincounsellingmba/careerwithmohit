@@ -7,7 +7,7 @@ keywords:
   - 'riim pune (ramachandran international) pgdm admission 2027'
   - 'riim pune (ramachandran international) mba fees 2027'
   - 'riim pune (ramachandran international) average placement package'
-  - 'riim pune (ramachandran international) cutoff 2026 2027'
+  - 'riim pune (ramachandran international) cutoff 2027–29 2027'
   - 'riim pune review 2027'
   - 'direct admission in riim pune (ramachandran international)'
   - 'top pgdm colleges in bawdhan'

@@ -1,5 +1,5 @@
 ---
-title: Top MBA & PGDM Colleges Under 10 Lakhs in Mumbai (Direct Admission 2026)
+title: Top MBA & PGDM Colleges Under 10 Lakhs in Mumbai (Direct Admission 2027–29)
 date: '2026-03-26'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Top MBA & PGDM
@@ -7,7 +7,7 @@ description: >-
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - MBA colleges under 10 lakhs in Mumbai
-  - PGDM direct admission Mumbai 2026
+  - PGDM direct admission Mumbai 2027–29
   - management quota MBA Mumbai
   - SIES Navi Mumbai fees
   - Chetana's direct admission
@@ -46,7 +46,7 @@ SIES stands as one of the most respected management institutes in the state, off
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -95,7 +95,7 @@ Finance and Marketing reign supreme in Mumbai due to the sheer concentration of 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

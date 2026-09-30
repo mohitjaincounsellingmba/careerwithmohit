@@ -170,7 +170,7 @@ function EligibilityModal({ college, onClose }: { college: TopTierMbaCollege; on
               <span className="bg-primary/10 text-primary border border-primary/20 text-[10px] font-bold uppercase tracking-widest px-2.5 py-1 rounded-full">
                 Admission Odds Evaluator
               </span>
-              <span className="text-xs font-semibold text-slate-500">2027-28 Intake</span>
+              <span className="text-xs font-semibold text-slate-500">2027–2029 Intake</span>
             </div>
             <h3 className="text-2xl font-extrabold tracking-tight text-slate-900 mb-1">
               Check Odds For {college.name}
@@ -305,7 +305,7 @@ function CompareModal({
             </div>
             <div>
               <span className="text-[10px] font-bold uppercase tracking-widest text-amber-400 block">
-                B-School Comparison Matrix 2027-28
+                B-School Comparison Matrix 2027–2029
               </span>
               <h3 className="text-xl md:text-2xl font-extrabold tracking-tight">
                 Side-by-Side Analysis ({colleges.length} Colleges)
@@ -505,7 +505,7 @@ function FaqAccordion() {
 
   const faqs = [
     {
-      question: "Which are the top MBA colleges in India for 2027-28 admission?",
+      question: "Which are the top MBA colleges in India for 2027–2029 admission?",
       answer: "The Tier-1 MBA institutions in India include the top IIMs (IIM Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, and Indore), along with premier private and university institutions such as XLRI Jamshedpur, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, SIBM Pune, and NMIMS Mumbai. Admission cutoffs range from 95 to 99.5+ percentile in CAT, XAT, NMAT, or SNAP."
     },
     {
@@ -542,7 +542,7 @@ function FaqAccordion() {
     <section className="mt-20 bg-slate-50/70 rounded-3xl border border-slate-200/80 p-6 md:p-12 shadow-sm">
       <div className="flex items-center gap-3 mb-3">
         <span className="bg-amber-500/10 text-amber-900 border border-amber-300/80 px-3.5 py-1 rounded-full font-bold text-xs uppercase tracking-wider">
-          Knowledge Base 2027-28
+          Knowledge Base 2027–2029
         </span>
         <span className="text-xs font-semibold text-slate-500">Expert Answers by Mohit Jain</span>
       </div>
@@ -683,7 +683,7 @@ export function TopTierMbaClient() {
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <span className="bg-white/10 text-amber-300 border border-white/15 px-3.5 py-1 rounded-full font-bold text-xs uppercase tracking-wider">
-              Live NIRF 2027-28 Audit
+              Live NIRF 2027–2029 Audit
             </span>
             <span className="text-sm font-medium text-slate-300 hidden sm:inline">
               Compare India&apos;s Tier 1 &amp; Premier B-Schools • Updated Cutoffs &amp; Placements
@@ -1111,7 +1111,7 @@ export function TopTierMbaClient() {
                 <div className="flex items-center gap-2 mb-3">
                   <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping" />
                   <span className="text-[11px] font-bold uppercase tracking-widest text-amber-400">
-                    Admission Strategy 2027-28
+                    Admission Strategy 2027–2029
                   </span>
                 </div>
                 <h3 className="text-xl md:text-2xl font-extrabold leading-tight mb-2">
@@ -1137,7 +1137,7 @@ export function TopTierMbaClient() {
                 </div>
 
                 <a
-                  href="https://wa.me/919811559190?text=Hi%20Mohit,%20I%20am%20exploring%20Top%20Tier%20MBA%20colleges%20for%202027-28.%20Please%20help%20me%20with%20counselling!"
+                  href="https://wa.me/919560020771?text=Hi%20Mohit,%20I%20am%20exploring%20Top%20Tier%20MBA%20colleges%20for%202027-29.%20Please%20help%20me%20with%20counselling!"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white font-bold py-3.5 px-4 text-xs uppercase tracking-wider rounded-xl shadow-lg shadow-emerald-500/25 flex items-center justify-center gap-2 transition-all block text-center"

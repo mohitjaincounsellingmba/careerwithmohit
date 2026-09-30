@@ -1,12 +1,12 @@
 ---
-title: 'SOIL Gurgaon Review 2026: Placements & Infrastructure Highlights'
+title: 'SOIL Gurgaon Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   In-depth review of School of Inspired Leadership (SOIL) Gurgaon. Explore the
   stellar 2025 placement stats, elite campus, and industry-led faculty.
 keywords:
-  - SOIL Gurgaon review 2026
-  - SOIL PGDM placements 2025
+  - SOIL Gurgaon review 2027–29
+  - SOIL PGDM placements 2027–29
   - SOIL elite infrastructure
   - SOIL business school faculty
   - Gurgaon Colleges
@@ -93,7 +93,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

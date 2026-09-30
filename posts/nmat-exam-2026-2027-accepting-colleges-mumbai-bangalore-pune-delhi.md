@@ -92,7 +92,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 
 ### Bangalore Region NMAT Colleges
 * **[TAPMI Bengaluru](/colleges/tapmi-bangalore):** Modern urban campus focused on FinTech and Digital Transformation.
-* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
+* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
 
 ### Delhi NCR Region NMAT Colleges
 * **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/blog/all-about-soil-gurgaon).
@@ -117,6 +117,6 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

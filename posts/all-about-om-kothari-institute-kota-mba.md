@@ -1,13 +1,13 @@
 ---
-title: 'Om Kothari Institute (OKIMR) Kota MBA: Placements & Reviews 2026'
+title: 'Om Kothari Institute (OKIMR) Kota MBA: Placements & Reviews 2027–29'
 date: '2026-03-18'
 description: >-
   Detailed review of Om Kothari Institute of Management and Research (OKIMR)
-  Kota MBA. Explore the ₹1.2 Lakhs fees and 100% placement support for 2026-2027
+  Kota MBA. Explore the ₹1.2 Lakhs fees and 100% placement support for 2027–29-2027
   admissions & career guidance.
 keywords:
   - Om Kothari Institute Kota MBA review
-  - OKIMR Kota fees 2026
+  - OKIMR Kota fees 2027–29
   - OKIMR placement records
   - best B-school in Kota
   - Om Kothari MBA admission
@@ -28,7 +28,7 @@ faqs:
       Yes, OKIMR is usually affiliated with Rajasthan Technical University
       (RTU), Kota, providing a degree that is recognized across India and by
       government bodies.
-  - question: What is the total fee for MBA at Om Kothari in 2026?
+  - question: What is the total fee for MBA at Om Kothari in 2027–29?
     answer: >-
       The tuition fee is approximately **₹60,000 per year**, totaling around
       **₹1.2 Lakhs** for the entire program.
@@ -74,7 +74,7 @@ Placements are highly focused on the **Banking and Service sector**. Axis Bank, 
 ### 2. Is OKIMR affiliated with RTU?
 Yes, OKIMR is usually affiliated with Rajasthan Technical University (RTU), Kota, providing a degree that is recognized across India and by government bodies.
 
-### 3. What is the total fee for MBA at Om Kothari in 2026?
+### 3. What is the total fee for MBA at Om Kothari in 2027–29?
 The tuition fee is approximately **₹60,000 per year**, totaling around **₹1.2 Lakhs** for the entire program.
 
 ---
@@ -89,7 +89,7 @@ The tuition fee is approximately **₹60,000 per year**, totaling around **₹1.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

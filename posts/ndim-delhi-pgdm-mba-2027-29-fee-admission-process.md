@@ -15,7 +15,7 @@ keywords:
   - NDIM Delhi 32nd batch PGDM fees
   - NDIM Delhi selection process
   - NDIM Delhi cutoff CAT MAT CMAT
-  - NDIM Delhi placements 2026
+  - NDIM Delhi placements 2027–29
   - New Delhi Institute of Management review
   - best PGDM colleges in Delhi NCR
   - Delhi Colleges
@@ -315,8 +315,8 @@ For aspirants targeting NDIM’s 32nd Batch (2027–29), applying in early round
 
 Explore related MBA resources:
 *   [Top Tier MBA Colleges in India: Compare Fees & Placements](/top-tier-mba-colleges)
-*   [Top 10 MBA Colleges in Delhi NCR 2026](/blog/top-10-mba-colleges-delhi-ncr-2026)
-*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/ndim-delhi-review-2026)
+*   [Top 10 MBA Colleges in Delhi NCR 2027–29](/blog/top-10-mba-colleges-delhi-ncr-2027-29)
+*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/ndim-delhi-review-2027-29)
 *   [MBA & PGDM Direct Admission Complete Guide 2027](/mba-pgdm-admission-2027)
 *   [Explore 200+ Top Business Schools in India](/colleges)
 
@@ -348,6 +348,6 @@ NDIM accepts scores from **CAT, XAT, MAT, CMAT, ATMA, and GMAT**. Candidates sco
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

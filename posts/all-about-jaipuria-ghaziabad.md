@@ -1,11 +1,11 @@
 ---
-title: 'Jaipuria Ghaziabad Review 2026: Placements & Infrastructure Highlights'
+title: 'Jaipuria Ghaziabad Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Review of Jaipuria Institute of Management, Ghaziabad (Indirapuram). Explore
   2025 placement stats, modern infra, and expert faculty.
 keywords:
-  - Jaipuria Ghaziabad review 2026
+  - Jaipuria Ghaziabad review 2027–29
   - Jaipuria Indirapuram placements
   - MBA in Ghaziabad Jaipuria
   - best PGDM in Ghaziabad
@@ -94,7 +94,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

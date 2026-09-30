@@ -10,7 +10,7 @@ keywords:
   - iim sirmaur mba admission 2027
   - iim sirmaur fees structure 2027
   - iim sirmaur average placement package
-  - iim sirmaur cutoff 2026 2027
+  - iim sirmaur cutoff 2027–29 2027
   - iims-sirmaur review 2027
   - top mba colleges in sirmaur / paonta sahib
   - best mba colleges in himachal pradesh

@@ -117,7 +117,7 @@ The annual tuition fee is approximately **₹1.2 Lakhs to ₹1.5 Lakhs**, making
 ### Useful Links:
 - [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
 - [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Admission in Symbiosis Pune — SET Guide](/blog/1-year-online-mba-colleges-india-2026)
+- [Admission in Symbiosis Pune — SET Guide](/blog/1-year-online-mba-colleges-india-2027-29)
 
 ---
 

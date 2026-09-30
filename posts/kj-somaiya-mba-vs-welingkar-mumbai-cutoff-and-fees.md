@@ -1,7 +1,6 @@
 ---
 title: >-
-  KJ Somaiya MBA vs Welingkar Mumbai: Cutoff, Fees, Placements & ROI Comparison
-  2026
+  KJ Somaiya MBA vs Welingkar Mumbai: Cutoff, Fees, Placements & ROI Comparison 2027–29
 date: '2026-09-12'
 description: >-
   Comparing Mumbai top private B-schools: K J Somaiya Institute of Management vs
@@ -11,7 +10,7 @@ category: Exams
 keywords:
   - kj somaiya mba vs welingkar mumbai cutoff and fees
   - kj somaiya vs welingkar mumbai
-  - kj somaiya mba fees 2026
+  - kj somaiya mba fees 2027–29
   - welingkar mumbai cutoff cat cmat cet
   - kj somaiya average package 2025
   - weschool mumbai placement report
@@ -129,6 +128,6 @@ The entrance exam cutoff benchmarks differ noticeably between the two campuses:
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -113,8 +113,8 @@ Non-disclosure of VDA can lead to a penalty of **up to 300%** of the tax evaded,
 
 ### Useful Links:
 - [India Income Tax Slabs 2026-27 Guide](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2026)
-- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2026)
+- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2027-29)
+- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2027-29)
 
 ---
 
@@ -129,6 +129,6 @@ Crypto is the future, but tax compliance is the present reality. Don't risk your
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

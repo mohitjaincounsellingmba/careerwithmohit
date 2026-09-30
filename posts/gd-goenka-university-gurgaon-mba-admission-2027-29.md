@@ -13,7 +13,7 @@ description: >-
 keywords:
   - GD Goenka University (School of Management) admission 2027-29
   - GD Goenka Gurgaon fees 2027
-  - GD Goenka Gurgaon placements 2026
+  - GD Goenka Gurgaon placements 2027–29
   - GD Goenka Gurgaon PGDM MBA fee structure 2027-29
   - GD Goenka Gurgaon cutoff CAT MAT CMAT
   - GD Goenka Gurgaon highest package
@@ -128,7 +128,7 @@ For the **2027–29 academic session**, GD Goenka Gurgaon provides structured in
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹4.25 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹4.25 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹4.25 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹8.50 Lakhs (Total)** | Full Course Aggregate |
 
@@ -254,6 +254,6 @@ GD Goenka Gurgaon accepts valid percentiles from national entrance exams includi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

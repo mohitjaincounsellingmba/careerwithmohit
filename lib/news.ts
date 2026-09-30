@@ -134,7 +134,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     category: "MBA Admission",
     date: "September 2, 2026",
     excerpt: "Comprehensive review of 1-year Executive MBA and 2-year weekend PGPEM programs for experienced working professionals, highlighting minimum work-ex criteria, GMAT/GRE/CAT requirements, and corporate sponsorships.",
-    link: "/blog/all-about-iim-colleges-placements-fees-selection-2026"
+    link: "/blog/all-about-iim-colleges-placements-fees-selection-2027-29"
   },
   {
     id: 17,
@@ -158,7 +158,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     category: "Career Counselling",
     date: "August 28, 2026",
     excerpt: "Corporate placement reports indicate a significant rise in premium campus recruitments for techno-commercial MBA graduates specializing in Generative AI for Business, FinTech Risk, and Business Analytics.",
-    link: "/blog/mba-business-analytics-colleges-in-chandigarh-2026"
+    link: "/blog/mba-business-analytics-colleges-in-chandigarh-2027-29"
   },
   {
     id: 20,
@@ -190,7 +190,7 @@ export const NEWS_ITEMS: NewsItem[] = [
     category: "MBA Admission",
     date: "August 20, 2026",
     excerpt: "Association of Indian Universities (AIU) approved PGDM institutions enable graduates to pursue PhD programs, public sector employment (PSUs), and global master's equivalence.",
-    link: "/blog/aiu-approved-pgdm-colleges-india-2026"
+    link: "/blog/aiu-approved-pgdm-colleges-india-2027-29"
   },
   {
     id: 24,
@@ -198,6 +198,6 @@ export const NEWS_ITEMS: NewsItem[] = [
     category: "Career Counselling",
     date: "August 18, 2026",
     excerpt: "Analysis of top NIRF-ranked UGC-DEB accredited online MBA programs offering live weekend masterclasses, LMS access, industry mentorship, and recognized digital diplomas.",
-    link: "/blog/1-year-online-mba-colleges-india-2026"
+    link: "/blog/1-year-online-mba-colleges-india-2027-29"
   }
 ];

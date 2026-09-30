@@ -134,7 +134,7 @@ While expensive, Mumbai remains a top choice for **Chemical Engineering and Tech
 *   **Cons:** Extremely high rent and very small living spaces for students.
 *   **Average Salary (Top Colleges):** ₹15 - ₹30+ LPA.
 
-📍 [Explore Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
+📍 [Explore Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
 
 ---
 

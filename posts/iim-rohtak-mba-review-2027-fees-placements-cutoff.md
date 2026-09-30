@@ -10,7 +10,7 @@ keywords:
   - iim rohtak mba admission 2027
   - iim rohtak fees structure 2027
   - iim rohtak average placement package
-  - iim rohtak cutoff 2026 2027
+  - iim rohtak cutoff 2027–29 2027
   - iimr review 2027
   - top mba colleges in rohtak
   - best mba colleges in haryana

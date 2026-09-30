@@ -108,7 +108,7 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
 - [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 - [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide)
 
@@ -125,6 +125,6 @@ India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks o
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

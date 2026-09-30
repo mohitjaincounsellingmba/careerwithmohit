@@ -13,7 +13,7 @@ description: >-
 keywords:
   - 'institute of management studies, davv (ims davv) review 2027'
   - 'institute of management studies, davv (ims davv) mba fees'
-  - 'institute of management studies, davv (ims davv) placements 2026 2027'
+  - 'institute of management studies, davv (ims davv) placements 2027–29 2027'
   - 'institute of management studies, davv (ims davv) average package'
   - 'institute of management studies, davv (ims davv) highest package'
   - 'institute of management studies, davv (ims davv) cutoff cuet-pg cmat'
@@ -218,6 +218,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

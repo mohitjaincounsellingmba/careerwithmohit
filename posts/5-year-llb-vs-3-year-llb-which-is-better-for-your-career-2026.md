@@ -125,7 +125,7 @@ No. They are separate programs. You cannot "exit" a 5-year course with just a BA
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
 - [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
 - [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
 

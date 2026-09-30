@@ -10,7 +10,7 @@ keywords:
   - top mba college in india
   - top mba colleges in india 2027
   - best mba colleges in india with fees and placement
-  - mba entrance exam cutoffs 2026 2027
+  - mba entrance exam cutoffs 2027–29 2027
   - top b schools in india ranking
   - iim fees and placement roi
   - fms delhi vs iim ahmedabad
@@ -62,9 +62,9 @@ In this verified 2027 admission guide, senior education consultant **Mohit Jain*
 
 | College / Program | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2026)** (PGP) | ₹26.5 Lakhs | ₹34.3 LPA | CAT (99.5+ %ile) |
+| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)** (PGP) | ₹26.5 Lakhs | ₹34.3 LPA | CAT (99.5+ %ile) |
 | **[IIM Bangalore](/colleges/iim-bangalore)** (PGP) | ₹25.0 Lakhs | ₹33.8 LPA | CAT (99.3+ %ile) |
-| **[IIM Calcutta](/blog/all-about-iim-colleges-placements-fees-selection-2026)** (MBA) | ₹27.0 Lakhs | ₹34.8 LPA | CAT (99.4+ %ile) |
+| **[IIM Calcutta](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)** (MBA) | ₹27.0 Lakhs | ₹34.8 LPA | CAT (99.4+ %ile) |
 | **[FMS Delhi](/colleges/fms-delhi)** (MBA) | ₹2.32 Lakhs | ₹30.1 LPA | CAT (99.7+ %ile) |
 | **[XLRI Jamshedpur](/blog/all-about-xat-exam)** (PGDM BM/HRM) | ₹28.5 Lakhs | ₹29.8 LPA | XAT (96+ %ile) / GMAT |
 | **[SPJIMR Mumbai](/blog/all-about-nmims-campuses)** (PGDM) | ₹22.5 Lakhs | ₹33.0 LPA | CAT / GMAT (Profile-based 85+ / 96+) |
@@ -75,7 +75,7 @@ In this verified 2027 admission guide, senior education consultant **Mohit Jain*
 | **[SIBM Pune](/blog/all-about-symbiosis-mba-institutes)** (MBA) | ₹26.8 Lakhs | ₹26.7 LPA | SNAP (98.5+ %ile) |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai)** (MMS) | ₹6.10 Lakhs | ₹27.6 LPA | MAH-CET (99.9+ %ile) / CAT |
 | **[NMIMS Mumbai](/colleges/nmims-mumbai)** (MBA Core) | ₹24.0 Lakhs | ₹25.1 LPA | NMAT (235+ Score) |
-| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2026)** (MA-HRM & LR) | ₹2.50 Lakhs | ₹27.2 LPA | CAT / CUET-PG (98+ %ile) |
+| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29)** (MA-HRM & LR) | ₹2.50 Lakhs | ₹27.2 LPA | CAT / CUET-PG (98+ %ile) |
 | **[IMI Delhi](/colleges/imi-delhi)** (PGDM) | ₹23.5 Lakhs | ₹17.9 LPA | CAT / XAT (88+ %ile) |
 
 ---

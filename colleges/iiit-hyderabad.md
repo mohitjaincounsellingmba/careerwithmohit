@@ -86,8 +86,8 @@ keywords:
   - 'engineering colleges Gachibowli, Hyderabad, Telangana'
   - Hyderabad Colleges
   - Best Colleges in Hyderabad
-  - Top Colleges in Hyderabad 2026
-  - Hyderabad Direct Admission 2026
+  - Top Colleges in Hyderabad 2027-29
+  - Hyderabad Direct Admission 2027-29
   - Colleges in Telangana
   - Hyderabad Career Counselling
 ---

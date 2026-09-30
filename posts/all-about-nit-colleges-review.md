@@ -6,7 +6,7 @@ description: >-
   fees, JEE Main cutoffs, highest and average placement packages for Trichy,
   Surathkal, and Warangal for 2026-2027 admissions & career guidance.
 keywords:
-  - NIT review 2026
+  - NIT review 2027–29
   - NIT Trichy placements
   - NIT Surathkal BTech fees
   - JEE Main cutoff NIT Warangal
@@ -111,6 +111,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

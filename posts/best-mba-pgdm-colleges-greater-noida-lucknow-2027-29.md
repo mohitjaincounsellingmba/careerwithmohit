@@ -94,7 +94,7 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 
 ### 3. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
 * **Highlights**: Premium autonomous institute of GNIOT Group offering PGDM with dual specializations and corporate certifications.
-* **High ROI**: Fee of just ₹6.78 Lakhs delivering an average package of ₹7.25 LPA. Read review at [All About GNIOT GIMS](/blog/all-about-gniot-institute-of-management-studies-gims).
+* **High ROI**: Fee of just ₹6.78 Lakhs delivering an average package of ₹7.25 LPA. Read review at [All About GNIOT GIMS](/colleges/gniot-institute-of-management-studies-gims).
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
 * **Highlights**: Located in Knowledge Park II, known for rigorous academic discipline and corporate mentorship.
@@ -102,11 +102,11 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 
 ### 5. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology, Greater Noida
 * **Highlights**: 100% placement record guarantee, global exposure trip options, and ultra-modern campus.
-* **Read Detailed Review**: [All About Accurate Greater Noida](/blog/all-about-accurate-greater-noida).
+* **Read Detailed Review**: [All About Accurate Greater Noida](/colleges/accurate-greater-noida).
 
 ### 6. IILM University & IBI Greater Noida
 * **IILM Greater Noida**: Focused on experiential learning, entrepreneurship incubators, and dual degree tracks. Check [All About IILM Greater Noida](/blog/all-about-iilm-university-greater-noida).
-* **IBI Greater Noida**: Specialized institute with heavy focus on industry certifications (PMI, Google, Hubspot). Check [All About IBI Greater Noida](/blog/all-about-ibi-greater-noida).
+* **IBI Greater Noida**: Specialized institute with heavy focus on industry certifications (PMI, Google, Hubspot). Check [All About IBI Greater Noida](/colleges/ibi-greater-noida).
 
 ---
 
@@ -128,6 +128,6 @@ For students seeking top tier-1 accreditation in NCR, BIMTECH and Jaipuria Luckn
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

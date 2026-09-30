@@ -69,14 +69,14 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 | **[JBIMS Mumbai](/colleges/jbims-mumbai)** (MMS / MSc Finance) | Churchgate | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET (99.9+ %ile) / CAT (99.5+ %ile) |
 | **[SJMSOM IIT Bombay](/blog/all-about-iit-colleges-review)** (MBA) | Powai | ₹14.00 Lakhs | ₹28.80 LPA | CAT (98.5+ %ile) |
 | **[NMIMS Mumbai (SBM)](/colleges/nmims-mumbai)** (MBA Core/HR/BA) | Vile Parle West | ₹24.00 Lakhs | ₹25.10 LPA | NMAT by GMAC (235+ Score) |
-| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2026)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
+| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
 | **[BITSoM (BITS School of Mgmt)](/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff)** | Powai / Kalyan | ₹25.50 Lakhs | ₹23.50 LPA | CAT / GMAT / GRE (Profile-based) |
-| **[SIMSREE Mumbai (Sydenham)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2026)** (MMS/PGDM) | Churchgate | ₹1.36 Lakhs | ₹15.20 LPA | MAH-CET (99.7+ %ile) / CAT (95+ %ile) |
+| **[SIMSREE Mumbai (Sydenham)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29)** (MMS/PGDM) | Churchgate | ₹1.36 Lakhs | ₹15.20 LPA | MAH-CET (99.7+ %ile) / CAT (95+ %ile) |
 | **[KJ Somaiya Institute of Mgmt](/blog/all-about-nmims-campuses)** (MBA) | Vidyavihar | ₹20.80 Lakhs | ₹12.50 LPA | CAT / XAT / CMAT / NMAT (85+ %ile) |
 | **[Welingkar Mumbai (WeSchool)](/blog/all-about-welingkar)** (PGDM Core/E-Biz) | Matunga | ₹14.00 Lakhs | ₹12.40 LPA | CAT / XAT / CMAT / ATMA (80+ %ile) |
-| **[N.L. Dalmia Inst. of Mgmt](/blog/all-about-nl-dalmia-admission-2026)** (PGDM) | Mira Road | ₹13.20 Lakhs | ₹10.20 LPA | CAT / XAT / CMAT / MAT / MAH-CET |
+| **[N.L. Dalmia Inst. of Mgmt](/blog/all-about-nl-dalmia-admission-2027-29)** (PGDM) | Mira Road | ₹13.20 Lakhs | ₹10.20 LPA | CAT / XAT / CMAT / MAT / MAH-CET |
 | **[SIES College of Mgmt Studies](/blog/all-about-mumbai-institute-of-professional-studies)** | Nerul, Navi Mumbai | ₹9.00 Lakhs | ₹9.10 LPA | MAH-CET / CMAT / CAT / MAT |
-| **[Chetana’s RK Institute (CRKIMSR)](/blog/chetana-mumbai-review-2026)** | Bandra East | ₹5.50 Lakhs | ₹8.20 LPA | MAH-CET / CMAT / CAT |
+| **[Chetana’s RK Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29)** | Bandra East | ₹5.50 Lakhs | ₹8.20 LPA | MAH-CET / CMAT / CAT |
 
 ---
 

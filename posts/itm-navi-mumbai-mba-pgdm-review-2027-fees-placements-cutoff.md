@@ -7,7 +7,7 @@ keywords:
   - 'itm business school (navi mumbai) pgdm admission 2027'
   - 'itm business school (navi mumbai) mba fees 2027'
   - 'itm business school (navi mumbai) average placement package'
-  - 'itm business school (navi mumbai) cutoff 2026 2027'
+  - 'itm business school (navi mumbai) cutoff 2027–29 2027'
   - 'itm business school review 2027'
   - 'direct admission in itm business school (navi mumbai)'
   - 'top pgdm colleges in kharghar'

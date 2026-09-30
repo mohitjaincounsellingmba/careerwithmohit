@@ -13,7 +13,7 @@ description: >-
 keywords:
   - rajagiri centre for business studies (rcbs kochi) review 2027
   - rajagiri centre for business studies (rcbs kochi) mba fees
-  - rajagiri centre for business studies (rcbs kochi) placements 2026 2027
+  - rajagiri centre for business studies (rcbs kochi) placements 2027–29 2027
   - rajagiri centre for business studies (rcbs kochi) average package
   - rajagiri centre for business studies (rcbs kochi) highest package
   - rajagiri centre for business studies (rcbs kochi) cutoff cat cmat
@@ -217,6 +217,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1,15 +1,15 @@
 ---
 title: >-
-  IQ City United World School of Business (UWSB) PGDM Admission Review 2026:
+  IQ City United World School of Business (UWSB) PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to IQ City United World School of Business (UWSB)? Read
-  our comprehensive PGDM review for 2026 covering total fees, average and
+  our comprehensive PGDM review for 2027–29 covering total fees, average and
   highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - iq city united world school of business (uwsb) review 2026
+  - iq city united world school of business (uwsb) review 2027–29
   - iq city united world school of business (uwsb) pgdm placements
   - iq city united world school of business (uwsb) admission cutoff
   - iq city united world school of business (uwsb) fees
@@ -102,7 +102,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

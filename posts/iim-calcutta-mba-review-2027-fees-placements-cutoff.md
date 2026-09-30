@@ -10,7 +10,7 @@ keywords:
   - iim calcutta mba admission 2027
   - iim calcutta fees structure 2027
   - iim calcutta average placement package
-  - iim calcutta cutoff 2026 2027
+  - iim calcutta cutoff 2027–29 2027
   - iimc review 2027
   - top mba colleges in kolkata
   - best mba colleges in west bengal

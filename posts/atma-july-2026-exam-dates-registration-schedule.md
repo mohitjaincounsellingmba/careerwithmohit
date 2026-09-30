@@ -10,7 +10,7 @@ keywords:
   - ATMA exam dates 2026
   - ATMA registration July
   - AIMS ATMA schedule
-  - MBA entrance exams 2026
+  - MBA entrance exams 2027–29
   - ATMA July notification
   - Best Colleges in Noida
   - Noida Admissions 2026
@@ -83,7 +83,7 @@ Follow these steps to complete your registration on the official portal:
 
 ### 📚 Related Resources
 - **[All About ATMA Exam: Pattern & Syllabus](https://www.careerwithmohit.online/posts/all-about-atma-exam)**
-- **[Top MBA Colleges in India 2026](https://www.careerwithmohit.online/posts/best-mba-colleges-india-2026)**
+- **[Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)**
 - **[Top MBA Colleges in Pune Accepting ATMA](/colleges/mba-colleges-pune)**
 
 ---
@@ -110,6 +110,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -7,7 +7,7 @@ keywords:
   - 'alliance university (alliance school of business) pgdm admission 2027'
   - 'alliance university (alliance school of business) mba fees 2027'
   - 'alliance university (alliance school of business) average placement package'
-  - 'alliance university (alliance school of business) cutoff 2026 2027'
+  - 'alliance university (alliance school of business) cutoff 2027–29 2027'
   - 'alliance university review 2027'
   - 'direct admission in alliance university (alliance school of business)'
   - 'top pgdm colleges in anekal campus'

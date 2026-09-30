@@ -7,7 +7,7 @@ keywords:
   - 'gl bajaj institute of management & research (glbimr) pgdm admission 2027'
   - 'gl bajaj institute of management & research (glbimr) mba fees 2027'
   - 'gl bajaj institute of management & research (glbimr) average placement package'
-  - 'gl bajaj institute of management & research (glbimr) cutoff 2026 2027'
+  - 'gl bajaj institute of management & research (glbimr) cutoff 2027–29 2027'
   - 'glbimr review 2027'
   - 'direct admission in gl bajaj institute of management & research (glbimr)'
   - 'top pgdm colleges in knowledge park iii'

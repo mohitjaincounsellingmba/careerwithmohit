@@ -72,7 +72,7 @@ In this comprehensive guide, we provide everything you need to know about the **
 
 > ⚡ **Test Your Speed Before Registering**
 >
-> Assess your current preparation level with our [Free SNAP Mock Test 2026](/blog/free-snap-mock-test-2026) and check where you stand for top Symbiosis cutoffs.
+> Assess your current preparation level with our [Free SNAP Mock Test 2026](/blog/free-snap-mock-test-2027-29) and check where you stand for top Symbiosis cutoffs.
 
 ---
 
@@ -229,7 +229,7 @@ pie title SNAP 2026 Marks & Question Distribution
 
 ---
 
-## 🏛️ Top Symbiosis MBA Institutes Accepting SNAP 2026
+## 🏛️ Top Symbiosis MBA Institutes Accepting SNAP 2027–29
 
 Here is the tier-wise list of top Symbiosis International University colleges, along with expected SNAP cutoffs and average placement packages:
 
@@ -285,8 +285,8 @@ Yes, candidates in their final year of bachelor’s study are eligible to apply,
 * **[Comprehensive SNAP Exam Guide: Pattern, Marks & Cutoffs](/blog/all-about-snap-exam)**
 * **[SNAP 2026 Multiple Attempts Strategy: How to Maximize Your Best Score](/blog/snap-2026-multiple-attempts-maximize-best-score)**
 * **[NMAT 2026 Speed & Accuracy Trends: How 3 Attempts Are Changing Strategy](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy)**
-* **[10 Proven Tips to Crack CAT 2026 Exam](/blog/10-tips-to-crack-cat-exam-2026)**
-* **[Top MBA Entrance Exams (OMETS) in India: Complete Guide](/blog/all-about-omets-mba-entrance-exams-2026)**
+* **[10 Proven Tips to Crack CAT 2026 Exam](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[Top MBA Entrance Exams (OMETS) in India: Complete Guide](/blog/all-about-omets-mba-entrance-exams-2027-29)**
 
 ---
 
@@ -296,6 +296,6 @@ Yes, candidates in their final year of bachelor’s study are eligible to apply,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

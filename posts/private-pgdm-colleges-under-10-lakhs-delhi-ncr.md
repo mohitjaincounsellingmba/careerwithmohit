@@ -24,7 +24,7 @@ description: >-
 keywords:
   - career counselling
   - admissions 2026
-  - placements 2025
+  - placements 2027–29
   - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
@@ -174,7 +174,7 @@ When evaluating PGDM programs under ₹10 Lakhs:
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

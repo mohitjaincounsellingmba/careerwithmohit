@@ -11,7 +11,7 @@ keywords:
   - sda bocconi asia center mba admission 2027
   - sda bocconi asia center fees structure 2027
   - sda bocconi asia center average placement package
-  - sda bocconi asia center cutoff 2026 2027
+  - sda bocconi asia center cutoff 2027–29 2027
   - sda bocconi mumbai review 2027
   - top mba colleges in mumbai
   - best mba colleges in maharashtra

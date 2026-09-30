@@ -12,7 +12,7 @@ description: >-
 keywords:
   - FOSTIIMA Business School admission 2027-29
   - FOSTIIMA Delhi fees 2027
-  - FOSTIIMA Delhi placements 2026
+  - FOSTIIMA Delhi placements 2027–29
   - FOSTIIMA Delhi PGDM MBA fee structure 2027-29
   - FOSTIIMA Delhi cutoff CAT MAT CMAT
   - FOSTIIMA Delhi highest package
@@ -128,7 +128,7 @@ For the **2027–29 academic session**, FOSTIIMA Delhi provides structured insta
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹5.75 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹5.75 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹5.75 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹11.50 Lakhs (Total)** | Full Course Aggregate |
 
@@ -254,6 +254,6 @@ FOSTIIMA Delhi accepts valid percentiles from national entrance exams including 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -41,7 +41,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-The **Management Aptitude Test (MAT)**, conducted by the All India Management Association (AIMA), is one of the most popular national-level MBA/PGDM entrance exams in India. Conducted four times a year, the upcoming **May 2026 session** serves as an excellent gateway for students aiming to secure admission into premier B-Schools before the academic cycle strictly closes in July-August.
+The **Management Aptitude Test (MAT)**, conducted by the All India Management Association (AIMA), is one of the most popular national-level MBA/PGDM entrance exams in India. Conducted four times a year, the upcoming **May 2027–29 session** serves as an excellent gateway for students aiming to secure admission into premier B-Schools before the academic cycle strictly closes in July-August.
 
 If you missed the February phase or are unsatisfied with your previous scores, the MAT May session is your best bet to drastically improve your percentile.
 
@@ -99,8 +99,8 @@ Some of the most prominent colleges you can apply to using your MAT May 2026 sco
 - **Christ University, Bengaluru**
 - **[Jaipuria Institute of Management (Lucknow, Noida, Jaipur, Indore)](/blog/all-about-jaipuria-institute-of-management)**
 - **[JIMS Rohini, Delhi](/blog/all-about-jims-rohini)**
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2026)**
-- **[Lexicon MILE, Pune](/blog/lexicon-mile-pune-review-2025)**
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29)**
+- **[Lexicon MILE, Pune](/blog/lexicon-mile-pune-review-2027-29)**
 
 *Wondering exactly which college accepts your projected percentile? Try our free **[MAT College Predictor 2026](/tools/mat-college-predictor)** to get a personalized list instantly.*
 
@@ -111,7 +111,7 @@ Some of the most prominent colleges you can apply to using your MAT May 2026 sco
 3. **Double Registration Strategy:** AIMA allows candidates to opt for double testing (e.g., CBT + IBT or PBT + IBT) at a slightly higher consolidated fee compared to a single test. This gives you two distinct chances to maximize your scorecard.
 4. **Avoid the GK Trap:** Focus your preparation highly on Quant and Language. Few colleges value the "Indian & Global Environment" section during final selection. 
 
-Are you looking strictly for high ROI colleges independent of exam scores? Understand your possibilities with our review of the **[Low Fees High Placement MBA Colleges in 2026](/blog/low-fees-high-placement-mba-colleges-2026)** or navigate directly into the overarching **[All About MAT Exam Guide](/blog/all-about-mat-exam)**.
+Are you looking strictly for high ROI colleges independent of exam scores? Understand your possibilities with our review of the **[Low Fees High Placement MBA Colleges in 2027–29](/blog/low-fees-high-placement-mba-colleges-2027-29)** or navigate directly into the overarching **[All About MAT Exam Guide](/blog/all-about-mat-exam)**.
 
 ---
 
@@ -133,6 +133,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

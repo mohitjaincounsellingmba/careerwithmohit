@@ -137,8 +137,8 @@ The registration fee for XAT 2027 is **₹2,300**. If you wish to apply for XLRI
 
 * **[Complete XAT Exam Prep Guide & Syllabus](/blog/all-about-xat-exam)**
 * **[Honest Review: [XLRI Jamshedpur](/colleges/xlri-jamshedpur) Placements & Admission Process](/blog/all-about-xlri-jamshedpur)**
-* **[Comparing National Level MBA Exams: CAT vs XAT vs NMAT](/blog/all-about-omets-mba-entrance-exams-2026)**
-* **[Top PGDM & MBA Colleges in India with Best Return on Investment](/blog/aiu-approved-pgdm-colleges-india-2026)**
+* **[Comparing National Level MBA Exams: CAT vs XAT vs NMAT](/blog/all-about-omets-mba-entrance-exams-2027-29)**
+* **[Top PGDM & MBA Colleges in India with Best Return on Investment](/blog/aiu-approved-pgdm-colleges-india-2027-29)**
 
 *Source: Official notifications published on xatonline.in.*
 
@@ -146,6 +146,6 @@ The registration fee for XAT 2027 is **₹2,300**. If you wish to apply for XLRI
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

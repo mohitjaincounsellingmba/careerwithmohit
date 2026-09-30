@@ -409,8 +409,8 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2026)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
+- [Top MBA Colleges for Finance in India 2026 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
 - [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
 
 ---

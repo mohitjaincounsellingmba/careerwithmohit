@@ -1,5 +1,5 @@
 ---
-title: 'SNAP vs NMAT: Which Exam is Easier to Crack for a 15+ LPA MBA in 2026?'
+title: 'SNAP vs NMAT: Which Exam is Easier to Crack for a 15+ LPA MBA in 2027–29?'
 date: '2026-09-12'
 description: >-
   Comparing SNAP vs NMAT difficulty, exam patterns, scoring systems, and target
@@ -129,6 +129,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

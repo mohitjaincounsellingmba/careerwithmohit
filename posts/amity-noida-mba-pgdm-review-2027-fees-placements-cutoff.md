@@ -7,7 +7,7 @@ keywords:
   - 'amity university (noida campus) pgdm admission 2027'
   - 'amity university (noida campus) mba fees 2027'
   - 'amity university (noida campus) average placement package'
-  - 'amity university (noida campus) cutoff 2026 2027'
+  - 'amity university (noida campus) cutoff 2027–29 2027'
   - 'amity university review 2027'
   - 'direct admission in amity university (noida campus)'
   - 'top pgdm colleges in sector 125'

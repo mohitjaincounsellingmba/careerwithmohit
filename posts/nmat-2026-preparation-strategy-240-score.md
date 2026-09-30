@@ -92,9 +92,9 @@ NMAT LR is a mix of verbal and analytical reasoning.
 ---
 
 ## 🔗 Relevant Internal Links
-*   [How to Crack CAT 2026: Roadmap](/blog/1-year-online-mba-colleges-india-2026)
-*   [Direct MBA Admission Guide 2026](/blog/1-year-online-mba-colleges-india-2026)
-*   [Best MBA Colleges in Mumbai 2026](/blog/best-mba-colleges-in-mumbai-2026)
+*   [How to Crack CAT 2026: Roadmap](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [Direct MBA Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
 
 ---
 

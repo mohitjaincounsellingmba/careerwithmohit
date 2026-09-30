@@ -1,5 +1,5 @@
 ---
-title: 'Modi Institute (MIMT) Kota MBA: Placement Snapshot & Fees 2026'
+title: 'Modi Institute (MIMT) Kota MBA: Placement Snapshot & Fees 2027–29'
 date: '2026-03-18'
 description: >-
   Review of Modi Institute of Management and Technology (MIMT) Kota MBA. Explore
@@ -7,7 +7,7 @@ description: >-
   admissions & career guidance.
 keywords:
   - MIMT Kota MBA review
-  - Modi Institute Kota MBA fees 2026
+  - Modi Institute Kota MBA fees 2027–29
   - MIMT Kota placement
   - MBA in Kota Rajasthan
   - Modi Institute admission 2026
@@ -88,7 +88,7 @@ They primarily accept **CMAT** and **RMAP** rankings. Candidates with MAT and ot
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

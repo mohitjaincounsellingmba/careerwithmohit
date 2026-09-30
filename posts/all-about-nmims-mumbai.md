@@ -1,13 +1,12 @@
 ---
-title: 'NMIMS Mumbai PGDM Admission Review 2026: Placements, Fees & Cutoff'
+title: 'NMIMS Mumbai PGDM Admission Review 2027–29: Placements, Fees & Cutoff'
 date: '2026-06-25'
 category: Online Degrees
 description: >-
-  Looking for admission to NMIMS Mumbai? Read our comprehensive PGDM review for
-  2026 covering total fees, average and highest placement packages, accepted
+  Looking for admission to NMIMS Mumbai? Read our comprehensive PGDM review for 2027–29 covering total fees, average and highest placement packages, accepted
   entrance exams, and cutoffs.
 keywords:
-  - nmims mumbai review 2026
+  - nmims mumbai review 2027–29
   - nmims mumbai pgdm placements
   - nmims mumbai admission cutoff
   - nmims mumbai fees
@@ -97,7 +96,7 @@ The college accepts scores from national level entrance examinations including N
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -7,7 +7,7 @@ keywords:
   - 'hierank business school pgdm admission 2027'
   - 'hierank business school mba fees 2027'
   - 'hierank business school average placement package'
-  - 'hierank business school cutoff 2026 2027'
+  - 'hierank business school cutoff 2027–29 2027'
   - 'hierank business school review 2027'
   - 'direct admission in hierank business school'
   - 'top pgdm colleges in sector 62'

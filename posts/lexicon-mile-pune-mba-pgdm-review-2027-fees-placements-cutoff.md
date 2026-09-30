@@ -7,7 +7,7 @@ keywords:
   - 'lexicon mile (management institute of leadership & excellence) pgdm admission 2027'
   - 'lexicon mile (management institute of leadership & excellence) mba fees 2027'
   - 'lexicon mile (management institute of leadership & excellence) average placement package'
-  - 'lexicon mile (management institute of leadership & excellence) cutoff 2026 2027'
+  - 'lexicon mile (management institute of leadership & excellence) cutoff 2027–29 2027'
   - 'lexicon mile review 2027'
   - 'direct admission in lexicon mile (management institute of leadership & excellence)'
   - 'top pgdm colleges in wagholi'

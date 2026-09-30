@@ -10,7 +10,7 @@ keywords:
   - xlri delhi ncr mba admission 2027
   - xlri delhi ncr fees structure 2027
   - xlri delhi ncr average placement package
-  - xlri delhi ncr cutoff 2026 2027
+  - xlri delhi ncr cutoff 2027–29 2027
   - xlri delhi review 2027
   - top mba colleges in jhajjar / delhi ncr
   - best mba colleges in haryana

@@ -7,7 +7,7 @@ keywords:
   - 'isbr business school (bangalore) pgdm admission 2027'
   - 'isbr business school (bangalore) mba fees 2027'
   - 'isbr business school (bangalore) average placement package'
-  - 'isbr business school (bangalore) cutoff 2026 2027'
+  - 'isbr business school (bangalore) cutoff 2027–29 2027'
   - 'isbr business school review 2027'
   - 'direct admission in isbr business school (bangalore)'
   - 'top pgdm colleges in electronic city'

@@ -6,7 +6,7 @@ description: >-
   IITs: B.Tech Fees, Cutoffs, Placements & Legacy 2026. Check updated fees,
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - IIT review 2026
+  - IIT review 2027–29
   - '[IIT Bombay](/colleges/iit-bombay) placements'
   - ' आईआईटी IIT BTech fees'
   - JEE Advanced cutoff IIT Delhi
@@ -115,7 +115,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

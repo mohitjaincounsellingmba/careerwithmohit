@@ -10,7 +10,7 @@ keywords:
   - scmhrd pune mba admission 2027
   - scmhrd pune fees structure 2027
   - scmhrd pune average placement package
-  - scmhrd pune cutoff 2026 2027
+  - scmhrd pune cutoff 2027–29 2027
   - scmhrd review 2027
   - top mba colleges in pune
   - best mba colleges in maharashtra

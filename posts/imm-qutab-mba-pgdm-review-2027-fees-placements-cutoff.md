@@ -7,7 +7,7 @@ keywords:
   - 'institute of marketing & management (imm) pgdm admission 2027'
   - 'institute of marketing & management (imm) mba fees 2027'
   - 'institute of marketing & management (imm) average placement package'
-  - 'institute of marketing & management (imm) cutoff 2026 2027'
+  - 'institute of marketing & management (imm) cutoff 2027–29 2027'
   - 'imm review 2027'
   - 'direct admission in institute of marketing & management (imm)'
   - 'top pgdm colleges in qutab institutional area'

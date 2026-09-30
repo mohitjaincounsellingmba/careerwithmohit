@@ -39,7 +39,7 @@ state: Delhi NCR
 
 ---
 
-The **Common Admission Test (CAT 2026)** is the premier gateway for admission to 21 Indian Institutes of Management (IIMs) and over 1,200 leading business schools such as [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and [IIT Delhi DMS](/colleges/dms-iit-delhi).
+The **Common Admission Test (CAT 2026)** is the premier gateway for admission to 21 Indian Institutes of Management (IIMs) and over 1,200 leading business schools such as [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and [IIT Delhi DMS](/colleges/iit-delhi).
 
 Following the conclusion of the registration process, the CAT convening IIM activates the **CAT 2026 Application Form Correction Window**. This limited window is the final opportunity for registered applicants to rectify blurred uploads, improper background photos, illegible signatures, and inconvenient test city choices.
 
@@ -183,7 +183,7 @@ If you made an error in a locked field that cannot be edited during the correcti
   * Carry the original affidavit along with your photo ID during the exam and subsequent interview stages.
 
 ### 3. Academic Percentage / CGPA Conversion Errors
-* Non-IIM B-Schools ([FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [IITs](/colleges/dms-iit-delhi), [BIMTECH](/colleges/bimtech-greater-noida)) mandate separate institutional applications.
+* Non-IIM B-Schools ([FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [IITs](/colleges/iit-delhi), [BIMTECH](/colleges/bimtech-greater-noida)) mandate separate institutional applications.
 * When you fill individual application forms for these B-schools, you will enter your academic records afresh. Ensure that you calculate percentages using your university's exact conversion formula.
 
 ---
@@ -250,9 +250,9 @@ The photograph must be a recent color picture with a white background (30mm x 45
 
 ### Related Articles & Useful Resources
 * [CAT Exam 2026 Last Date of Registration: Timeline & Fees](/blog/cat-exam-2026-last-date-of-registration)
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)
+* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
 * [Free CAT 2026 Full-Length Online Mock Test](/tools/cat-mock-test)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
 * [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry)

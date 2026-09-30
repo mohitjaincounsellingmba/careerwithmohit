@@ -12,7 +12,7 @@ description: >-
 keywords:
   - iim mumbai (formerly nitie mumbai) review 2027
   - iim mumbai (formerly nitie mumbai) mba fees
-  - iim mumbai (formerly nitie mumbai) placements 2026 2027
+  - iim mumbai (formerly nitie mumbai) placements 2027–29 2027
   - iim mumbai (formerly nitie mumbai) average package
   - iim mumbai (formerly nitie mumbai) highest package
   - iim mumbai (formerly nitie mumbai) cutoff cat
@@ -221,6 +221,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -49,7 +49,7 @@ If your exam is scheduled for the upcoming weekend (**May 9, 10**) or next week 
 | **Last Date to Apply** | April 11, 2026 | **Closed** |
 | **IPU CET 2026 Exam Window (PG)** | **April 25 – May 17, 2026** | **Ongoing** |
 | **Admit Card Release** | Phased (Course-wise) | **Available** |
-| **MBA Admissions (CAT/CMAT)** | Counseling starts June 2026 | Upcoming |
+| **MBA Admissions (CAT/CMAT)** | Counseling starts June 2027–29 | Upcoming |
 | **Official Website** | [ipu.ac.in](https://www.ipu.ac.in) | Official |
 
 ## How to Download Your IPU CET PG Admit Card
@@ -95,7 +95,7 @@ Keep checking the official portal **ipu.ac.in** for the latest updates on counse
 Indraprastha University hosts some of the most budget-friendly yet reputable PG programs in Delhi NCR. With low tuition fees and an expansive alumni network across IT, Management, and Law, IPU colleges provide a high Return on Investment (ROI).
 
 ## Important Links & Preparation
-- **MBA Rankings:** See the [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026) including top IPU affiliates like USMS, MAIT, and VIPS.
+- **MBA Rankings:** See the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29) including top IPU affiliates like USMS, MAIT, and VIPS.
 - **Top IPU MBA Colleges:** Check our detailed list of [IPU MBA Colleges under GGSIPU](/blog/ipu-cet-mba-colleges-ggsipu).
 - **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam) for both UG and PG.
 
@@ -124,6 +124,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -13,7 +13,7 @@ description: >-
 keywords:
   - New Delhi Institute of Management (NDIM) admission 2027-29
   - NDIM Delhi fees 2027
-  - NDIM Delhi placements 2026
+  - NDIM Delhi placements 2027–29
   - NDIM Delhi PGDM MBA fee structure 2027-29
   - NDIM Delhi cutoff CAT MAT CMAT
   - NDIM Delhi highest package
@@ -127,7 +127,7 @@ For the **2027–29 academic session**, NDIM Delhi provides structured installme
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹7.00 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹7.00 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹7.00 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹14.00 Lakhs (Total)** | Full Course Aggregate |
 
@@ -256,6 +256,6 @@ NDIM Delhi accepts valid percentiles from national entrance exams including CAT,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

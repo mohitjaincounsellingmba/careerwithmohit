@@ -24,7 +24,7 @@ description: >-
 keywords:
   - career counselling
   - admissions 2026
-  - placements 2025
+  - placements 2027–29
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
@@ -163,7 +163,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

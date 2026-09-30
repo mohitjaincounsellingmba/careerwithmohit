@@ -13,7 +13,7 @@ description: >-
 keywords:
   - lm thapar school of management (lmtsm) review 2027
   - lm thapar school of management (lmtsm) mba fees
-  - lm thapar school of management (lmtsm) placements 2026 2027
+  - lm thapar school of management (lmtsm) placements 2027–29 2027
   - lm thapar school of management (lmtsm) average package
   - lm thapar school of management (lmtsm) highest package
   - lm thapar school of management (lmtsm) cutoff cat xat
@@ -222,6 +222,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -39,7 +39,7 @@ faqs:
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-For many finance students and MBA graduates in 2026, the two biggest career paths are **Corporate Finance** and **Investment Banking**. While both involve working with money and strategy, the daily grind, the stress levels, and the compensation packages are worlds apart. 
+For many finance students and MBA graduates in 2027–29, the two biggest career paths are **Corporate Finance** and **Investment Banking**. While both involve working with money and strategy, the daily grind, the stress levels, and the compensation packages are worlds apart. 
 
 Should you choose the high-adrenaline, high-payout world of Investment Banking, or the sustainable, strategic growth of Corporate Finance? This guide provides a definitive **Corporate Finance vs. Investment Banking** comparison for 2026.
 
@@ -108,9 +108,9 @@ Corporate Finance. Every company needs a finance team. Only a few top banks and 
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2026)
-- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2026)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
+- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
 
 ---
 
@@ -125,7 +125,7 @@ Choosing between these two is about lifestyle, not just money. Don't waste your 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

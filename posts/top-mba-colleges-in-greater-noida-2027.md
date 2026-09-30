@@ -79,7 +79,7 @@ In this verified 2027 admission review, senior education consultant **Mohit Jain
 | **[IILM University Greater Noida](/blog/all-about-iilm-university-greater-noida)** (MBA / PGDM) | Knowledge Park II | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT (65+ %ile) |
 | **[Galgotias University (School of Business)](/blog/all-about-galgotias-university)** (MBA) | Yamuna Expressway | ₹5.50 Lakhs | ₹6.50 LPA | CUET-PG / MAT / NMAT / Direct |
 | **[Lloyd Business School](/blog/all-about-greater-noida-business-school)** (PGDM Supply Chain/BA) | Knowledge Park II | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CAT / Direct |
-| **[Accurate Institute (AIMT)](/blog/accurate-greater-noida-review-2026)** (PGDM / MBA) | Knowledge Park III | ₹6.25 – ₹7.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[Accurate Institute (AIMT)](/blog/accurate-greater-noida-review-2027-29)** (PGDM / MBA) | Knowledge Park III | ₹6.25 – ₹7.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CUET-PG / Direct |
 | **[GNIOT Institute of Management Studies](/blog/all-about-greater-noida-institute-of-business-studies)** (PGDM) | Knowledge Park II | ₹6.75 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / ATMA |
 
 ---

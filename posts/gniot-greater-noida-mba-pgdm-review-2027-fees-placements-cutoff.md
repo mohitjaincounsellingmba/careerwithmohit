@@ -7,7 +7,7 @@ keywords:
   - 'gniot (greater noida institute of technology) pgdm admission 2027'
   - 'gniot (greater noida institute of technology) mba fees 2027'
   - 'gniot (greater noida institute of technology) average placement package'
-  - 'gniot (greater noida institute of technology) cutoff 2026 2027'
+  - 'gniot (greater noida institute of technology) cutoff 2027–29 2027'
   - 'gniot review 2027'
   - 'direct admission in gniot (greater noida institute of technology)'
   - 'top pgdm colleges in knowledge park ii'

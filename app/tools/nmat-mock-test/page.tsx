@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'NMAT 2026 exam pattern', 'scaled score NMAT', 'NMAT preparation Mumbai', 
     'adaptive mock test NMAT', 'best mock test for NMAT 2026', 'NMAT logical reasoning online practice',
     'NMAT language skills mock test', 'NMAT score vs percentile NMIMS',
-    'mba admission 2026', 'pgdm admission 2026', 'degree admission 2026'
+    'mba admission 2027-29', 'pgdm admission 2027-29', 'degree admission 2027'
   ],
   openGraph: {
     title: 'Free NMAT Mock Test 2026 | Crack NMIMS Mumbai',
@@ -272,7 +272,7 @@ export default function NmatMockTestPage() {
               </p>
               <ul className="space-y-4">
                 <li><a href="/blog/all-about-nmat-exam" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2026 Ultimate Guide</a></li>
-                <li><a href="/blog/top-mba-colleges-mumbai-2026" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
+                <li><a href="/blog/top-mba-colleges-mumbai-2027-29" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
                 <li><a href="/blog/gdpi-interview-topics-solutions-mba" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
               </ul>
             </div>

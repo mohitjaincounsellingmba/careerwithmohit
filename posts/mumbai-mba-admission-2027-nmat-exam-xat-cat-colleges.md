@@ -1,6 +1,6 @@
 ---
 title: >-
-  Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2026 Cutoffs,
+  Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs,
   Fees & Placements
 date: '2026-09-03'
 description: >-
@@ -46,7 +46,7 @@ location: Mumbai
 state: Maharashtra
 category: Exams
 ---
-# Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2026 Cutoffs, Fees & Placements
+# Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs, Fees & Placements
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT exam), Welingkar, and K J Somaiya.
@@ -55,7 +55,7 @@ category: Exams
 
 As India's financial capital, **Mumbai** is the ultimate destination for students pursuing careers in Investment Banking, Equity Research, Corporate Finance, Media Management, and Brand Marketing.
 
-For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 2026**, or **XAT 2027**, Mumbai offers a rich variety of premier university departments and autonomous PGDM institutions.
+For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 2027–29**, or **XAT 2027**, Mumbai offers a rich variety of premier university departments and autonomous PGDM institutions.
 
 ---
 
@@ -87,7 +87,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ### 3. N L Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)
 * Known as Mumbai's premier finance power-house, featuring a dedicated Bloomberg Finance Lab with 24 terminals.
-* Read our complete review at [All About NL Dalmia Admission](/blog/all-about-nl-dalmia-admission-2026).
+* Read our complete review at [All About NL Dalmia Admission](/blog/all-about-nl-dalmia-admission-2027-29).
 
 ### 4. ITM Navi Mumbai & Universal AI University
 * **ITM Kharghar:** Offers 5-month intensive internships with strong placement conversions across BFSI and Retail. Read [All About ITM Mumbai](/blog/all-about-itm-mumbai).
@@ -111,6 +111,6 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

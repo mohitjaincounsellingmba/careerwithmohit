@@ -7,7 +7,7 @@ keywords:
   - 'jk business school (jkbs) pgdm admission 2027'
   - 'jk business school (jkbs) mba fees 2027'
   - 'jk business school (jkbs) average placement package'
-  - 'jk business school (jkbs) cutoff 2026 2027'
+  - 'jk business school (jkbs) cutoff 2027–29 2027'
   - 'jk business school review 2027'
   - 'direct admission in jk business school (jkbs)'
   - 'top pgdm colleges in damdama lake road'

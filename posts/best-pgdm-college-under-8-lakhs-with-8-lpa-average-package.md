@@ -65,8 +65,8 @@ The following table presents verified data on top B-schools in India delivering 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[FMS BHU, Varanasi](/colleges)** | ₹1.5 – 2.0 Lakhs | ₹11.5 – 12.0 LPA | **600%+ Extreme ROI**: Admission via CAT score (Cutoff ~85%ile) |
-| **[SIMSREE Mumbai (MMS)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2026)** | ₹1.4 Lakhs | ₹15.2 LPA | **1000%+ Legend ROI**: Admission via MAH MBA CET (99.9+ %ile) or CAT |
-| **[UBS Chandigarh (Panjab University)](/blog/chandigarh-university-cu-mohali-review-2026)** | ₹45,000 – ₹1.5 L | ₹13.7 LPA | **900%+ Extreme ROI**: Top Panjab University flagship; CAT cutoff ~88–90%ile |
+| **[SIMSREE Mumbai (MMS)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29)** | ₹1.4 Lakhs | ₹15.2 LPA | **1000%+ Legend ROI**: Admission via MAH MBA CET (99.9+ %ile) or CAT |
+| **[UBS Chandigarh (Panjab University)](/blog/chandigarh-university-cu-mohali-review-2027-29)** | ₹45,000 – ₹1.5 L | ₹13.7 LPA | **900%+ Extreme ROI**: Top Panjab University flagship; CAT cutoff ~88–90%ile |
 | **[PUMBA Pune (DMS Pune University)](/colleges/pumba-pune)** | ₹1.3 – 2.5 Lakhs | ₹8.8 – 9.2 LPA | **400%+ High ROI**: Admission via MAH CET (98.5+ %ile) / CMAT / CAT |
 | **[USMS GGSIPU, Delhi](/colleges/ggsipu-delhi)** | ₹2.2 – 2.6 Lakhs | ₹8.5 – 9.0 LPA | **350%+ High ROI**: IP University main campus; admission via CAT/CMAT |
 | **[FOSTIIMA Business School, Delhi](/colleges/fostiima-delhi)** | ₹8.2 – 8.9 Lakhs | ₹8.8 – 9.2 LPA | **100%+ High ROI**: Private PGDM; IIM-A alumni network; CAT/MAT/Direct PI |
@@ -113,6 +113,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

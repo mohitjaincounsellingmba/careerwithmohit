@@ -54,12 +54,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Delhi NCR',
     stateName: 'Delhi / Haryana / Uttar Pradesh',
     tagline: 'Corporate & Political Capital · 500+ Fortune 500 Headquarters',
-    heroTitle: 'Top MBA & PGDM Colleges in Delhi NCR 2027: Fees, Placements & Admission',
+    heroTitle: 'Top MBA & PGDM Colleges in Delhi NCR (2027–2029): Fees, Placements & Admission',
     heroSubtitle:
-      'Compare top AICTE & AIU approved PGDM and MBA institutes across Delhi, Noida, Greater Noida, Gurugram, and Ghaziabad. Access 2025-2026 placement metrics, CAT/XAT/CMAT cutoffs, and get 1-on-1 admission counselling with Mohit Jain.',
-    metaTitle: 'Top MBA Colleges in Delhi NCR 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare top AICTE & AIU approved PGDM and MBA institutes across Delhi, Noida, Greater Noida, Gurugram, and Ghaziabad for the 2027–2029 batch. Access verified placement metrics, CAT/XAT/CMAT cutoffs, and get 1-on-1 admission counselling with Mohit Jain.',
+    metaTitle: 'Top MBA Colleges in Delhi NCR (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Explore premier MBA & PGDM colleges in Delhi NCR (Delhi, Noida, Gurgaon, Greater Noida) for 2027. Compare fees, placement reports (NDIM, FIIB, BIMTECH, JIMS, FORE, MDI), cutoffs, and get free expert counselling.',
+      'Explore premier MBA & PGDM colleges in Delhi NCR (Delhi, Noida, Gurgaon, Greater Noida) for 2027–2029 batch. Compare fees, placement reports (NDIM, FIIB, BIMTECH, JIMS, FORE, MDI), cutoffs, and get free expert counselling.',
     keywords: [
       'top MBA colleges in Delhi NCR 2027',
       'best PGDM colleges in Delhi NCR',
@@ -200,12 +200,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Mumbai & Navi Mumbai',
     stateName: 'Maharashtra',
     tagline: 'Financial Capital of India · BSE, NSE, RBI & Top Investment Banks',
-    heroTitle: 'Top MBA & PGDM Colleges in Mumbai 2027: Fees, Placements & Cutoffs',
+    heroTitle: 'Top MBA & PGDM Colleges in Mumbai (2027–2029): Fees, Placements & Cutoffs',
     heroSubtitle:
-      'Explore premier business schools in Mumbai, Navi Mumbai, and Thane. Check MAH MBA CET cutoffs, CAT/XAT eligibility, fee structures, and placement statistics for JBIMS, SPJIMR, NMIMS, Welingkar, SIES, and ITM.',
-    metaTitle: 'Top MBA Colleges in Mumbai 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Explore premier business schools in Mumbai, Navi Mumbai, and Thane for the 2027–2029 batch. Check MAH MBA CET cutoffs, CAT/XAT eligibility, fee structures, and placement statistics for JBIMS, SPJIMR, NMIMS, Welingkar, SIES, and ITM.',
+    metaTitle: 'Top MBA Colleges in Mumbai (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Compare leading MBA & PGDM colleges in Mumbai for 2027 admissions. Check MAH CET cutoffs, fee structures, ROI, and average packages for JBIMS, NMIMS, Welingkar, ITM, and SIES.',
+      'Compare leading MBA & PGDM colleges in Mumbai for 2027–2029 admissions. Check MAH CET cutoffs, fee structures, ROI, and average packages for JBIMS, NMIMS, Welingkar, ITM, and SIES.',
     keywords: [
       'top MBA colleges in Mumbai 2027',
       'best PGDM colleges in Mumbai',
@@ -324,12 +324,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Bangalore (Bengaluru)',
     stateName: 'Karnataka',
     tagline: 'Silicon Valley of India · Startups, Global Tech & Consulting Capital',
-    heroTitle: 'Top MBA & PGDM Colleges in Bangalore 2027: Fees, Placements & ROI',
+    heroTitle: 'Top MBA & PGDM Colleges in Bangalore (2027–2029): Fees, Placements & ROI',
     heroSubtitle:
-      'Compare the best management institutes in Bangalore. Review fees, average placement packages, AACSB accreditations, and CAT/XAT/MAT/KMAT cutoffs for IIMB, SIBM-B, JAGSoM, Alliance, ISBR, GIBS, IIBS, and ISME.',
-    metaTitle: 'Top MBA Colleges in Bangalore 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare the best management institutes in Bangalore for the 2027–2029 batch. Review fees, average placement packages, AACSB accreditations, and CAT/XAT/MAT/KMAT cutoffs for IIMB, SIBM-B, JAGSoM, Alliance, ISBR, GIBS, IIBS, and ISME.',
+    metaTitle: 'Top MBA Colleges in Bangalore (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Discover top MBA & PGDM colleges in Bangalore for 2027. Compare fees, 2025 placements, tech consulting opportunities, and cutoffs for IIMB, JAGSoM, Alliance, ISBR, GIBS, and IIBS.',
+      'Discover top MBA & PGDM colleges in Bangalore for 2027–2029. Compare fees, placement reports, tech consulting opportunities, and cutoffs for IIMB, JAGSoM, Alliance, ISBR, GIBS, and IIBS.',
     keywords: [
       'top MBA colleges in Bangalore 2027',
       'best PGDM colleges in Bangalore',
@@ -464,12 +464,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Pune',
     stateName: 'Maharashtra',
     tagline: 'Oxford of the East · Automotive, IT & Manufacturing Hub',
-    heroTitle: 'Top MBA & PGDM Colleges in Pune 2027: Fees, Placements & Cutoffs',
+    heroTitle: 'Top MBA & PGDM Colleges in Pune (2027–2029): Fees, Placements & Cutoffs',
     heroSubtitle:
-      'Compare premier MBA and PGDM colleges in Pune. Check 2025-2026 placement statistics, SNAP and MAH CET cutoffs, fee structures, and ROI metrics for SIBM, SCMHRD, PUMBA, Balaji, PIBM, Indira, and DY Patil.',
-    metaTitle: 'Top MBA Colleges in Pune 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare premier MBA and PGDM colleges in Pune for the 2027–2029 batch. Check latest placement statistics, SNAP and MAH CET cutoffs, fee structures, and ROI metrics for SIBM, SCMHRD, PUMBA, Balaji, PIBM, Indira, and DY Patil.',
+    metaTitle: 'Top MBA Colleges in Pune (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Find top MBA and PGDM colleges in Pune for 2027. Compare fees, placement reports (SIBM, PUMBA, SCMHRD, Indira, PIBM), cutoffs (SNAP, MAH CET, CAT), and book 1-on-1 counselling.',
+      'Find top MBA and PGDM colleges in Pune for 2027–2029 batch. Compare fees, placement reports (SIBM, PUMBA, SCMHRD, Indira, PIBM), cutoffs (SNAP, MAH CET, CAT), and book 1-on-1 counselling.',
     keywords: [
       'top MBA colleges in Pune 2027',
       'best PGDM colleges in Pune',
@@ -596,12 +596,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Hyderabad',
     stateName: 'Telangana',
     tagline: 'HITEC City & Cyberabad · Pharmaceutical, IT & FinTech Powerhouse',
-    heroTitle: 'Top MBA & PGDM Colleges in Hyderabad 2027: Fees & Placements',
+    heroTitle: 'Top MBA & PGDM Colleges in Hyderabad (2027–2029): Fees & Placements',
     heroSubtitle:
-      'Discover top MBA and PGDM colleges in Hyderabad and Secunderabad. Compare fees, TS ICET and CAT cutoffs, accreditations, and placement stats for ISB, IPE, Vignana Jyothi, Badruka, and SIBM Hyderabad.',
-    metaTitle: 'Top MBA Colleges in Hyderabad 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Discover top MBA and PGDM colleges in Hyderabad and Secunderabad for 2027–2029 batch. Compare fees, TS ICET and CAT cutoffs, accreditations, and placement stats for ISB, IPE, Vignana Jyothi, Badruka, and SIBM Hyderabad.',
+    metaTitle: 'Top MBA Colleges in Hyderabad (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Explore premier MBA & PGDM colleges in Hyderabad for 2027. Compare fees, TS ICET/CAT cutoffs, placement reports (ISB, IPE, VJIM, Badruka), and get 1-on-1 counselling.',
+      'Explore premier MBA & PGDM colleges in Hyderabad for 2027–2029. Compare fees, TS ICET/CAT cutoffs, placement reports (ISB, IPE, VJIM, Badruka), and get 1-on-1 counselling.',
     keywords: [
       'top MBA colleges in Hyderabad 2027',
       'best PGDM colleges in Hyderabad',
@@ -700,12 +700,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Kolkata',
     stateName: 'West Bengal',
     tagline: 'Commercial & Financial Capital of Eastern India · FMCG & Analytics Hub',
-    heroTitle: 'Top MBA & PGDM Colleges in Kolkata 2027: Fees, Cutoffs & Admissions',
+    heroTitle: 'Top MBA & PGDM Colleges in Kolkata (2027–2029): Fees, Cutoffs & Admissions',
     heroSubtitle:
-      'Compare leading business schools in Kolkata. Check fee structures, placement packages, and CAT/MAT/JEMAT cutoffs for IIMC, Praxis, Globsyn, Calcutta Business School, BIBS, IEM, and Techno India.',
-    metaTitle: 'Top MBA Colleges in Kolkata 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare leading business schools in Kolkata for the 2027–2029 batch. Check fee structures, placement packages, and CAT/MAT/JEMAT cutoffs for IIMC, Praxis, Globsyn, Calcutta Business School, BIBS, IEM, and Techno India.',
+    metaTitle: 'Top MBA Colleges in Kolkata (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Find top MBA & PGDM colleges in Kolkata for 2027. Compare fees, placement reports (Praxis, Globsyn, IIMC, BIBS, IEM), cutoffs, and get free admission guidance.',
+      'Find top MBA & PGDM colleges in Kolkata for 2027–2029 admissions. Compare fees, placement reports (Praxis, Globsyn, IIMC, BIBS, IEM), cutoffs, and get free admission guidance.',
     keywords: [
       'top MBA colleges in Kolkata 2027',
       'best PGDM colleges in Kolkata',
@@ -804,12 +804,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Ahmedabad & Gandhinagar',
     stateName: 'Gujarat',
     tagline: 'Entrepreneurship Capital · Chemical, Pharma & GIFT City FinTech',
-    heroTitle: 'Top MBA & PGDM Colleges in Ahmedabad 2027: Fees & Placements',
+    heroTitle: 'Top MBA & PGDM Colleges in Ahmedabad (2027–2029): Fees & Placements',
     heroSubtitle:
-      'Compare premier management colleges across Ahmedabad, Gandhinagar, and Gujarat. Review fees, CMAT and CAT cutoffs, accreditations, and placement stats for IIMA, Nirma, EDII, Shanti Business School, and St. Kabir.',
-    metaTitle: 'Top MBA Colleges in Ahmedabad 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare premier management colleges across Ahmedabad, Gandhinagar, and Gujarat for the 2027–2029 batch. Review fees, CMAT and CAT cutoffs, accreditations, and placement stats for IIMA, Nirma, EDII, Shanti Business School, and St. Kabir.',
+    metaTitle: 'Top MBA Colleges in Ahmedabad (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Compare top MBA & PGDM colleges in Ahmedabad & Gandhinagar for 2027. Check fees, Gujarat CMAT cutoffs, placement reports (Nirma, EDII, SBS, IIMA), and get direct counselling.',
+      'Compare top MBA & PGDM colleges in Ahmedabad & Gandhinagar for 2027–2029. Check fees, Gujarat CMAT cutoffs, placement reports (Nirma, EDII, SBS, IIMA), and get direct counselling.',
     keywords: [
       'top MBA colleges in Ahmedabad 2027',
       'best PGDM colleges in Gujarat',
@@ -908,12 +908,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     cityName: 'Jaipur',
     stateName: 'Rajasthan',
     tagline: 'Pink City & Emerging Education Corridor · Healthcare, FMCG & Banking',
-    heroTitle: 'Top MBA & PGDM Colleges in Jaipur 2027: Fees, Cutoffs & Admissions',
+    heroTitle: 'Top MBA & PGDM Colleges in Jaipur (2027–2029): Fees, Cutoffs & Admissions',
     heroSubtitle:
-      'Compare premier business schools in Jaipur and Rajasthan. Review fee structures, CAT/CMAT/MAT cutoffs, and placements for Jaipuria Jaipur, Taxila Business School, JK Lakshmipat, FMS IRM, and IIHMR.',
-    metaTitle: 'Top MBA Colleges in Jaipur 2027: Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare premier business schools in Jaipur and Rajasthan for the 2027–2029 batch. Review fee structures, CAT/CMAT/MAT cutoffs, and placements for Jaipuria Jaipur, Taxila Business School, JK Lakshmipat, FMS IRM, and IIHMR.',
+    metaTitle: 'Top MBA Colleges in Jaipur (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
     metaDescription:
-      'Explore top MBA & PGDM colleges in Jaipur for 2027. Compare fees, placement packages (Jaipuria, Taxila, IIHMR, JKLU), cutoffs, and get free expert counselling.',
+      'Explore top MBA & PGDM colleges in Jaipur for 2027–2029. Compare fees, placement packages (Jaipuria, Taxila, IIHMR, JKLU), cutoffs, and get free expert counselling.',
     keywords: [
       'top MBA colleges in Jaipur 2027',
       'best PGDM colleges in Jaipur',

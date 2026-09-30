@@ -13,7 +13,7 @@ description: >-
 keywords:
   - institute of public enterprise (ipe hyderabad) review 2027
   - institute of public enterprise (ipe hyderabad) mba fees
-  - institute of public enterprise (ipe hyderabad) placements 2026 2027
+  - institute of public enterprise (ipe hyderabad) placements 2027–29 2027
   - institute of public enterprise (ipe hyderabad) average package
   - institute of public enterprise (ipe hyderabad) highest package
   - institute of public enterprise (ipe hyderabad) cutoff cat xat
@@ -224,6 +224,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

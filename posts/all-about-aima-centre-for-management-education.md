@@ -1,16 +1,16 @@
 ---
 title: >-
-  AIMA-Centre for Management Education PGDM Admission Review 2026: Placements,
+  AIMA-Centre for Management Education PGDM Admission Review 2027–29: Placements,
   Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for AIMA-Centre
-  for Management Education PGDM Admission Review 2026: Placements, Fees &
+  for Management Education PGDM Admission Review 2027–29: Placements, Fees &
   Cutoff. Check updated fees, placement records, real cutoffs, and selection
   tips by Mohit Jain.
 keywords:
-  - aima-centre for management education review 2026
+  - aima-centre for management education review 2027–29
   - aima-centre for management education pgdm placements
   - aima-centre for management education admission cutoff
   - aima-centre for management education fees
@@ -93,7 +93,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

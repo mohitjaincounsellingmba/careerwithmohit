@@ -1,6 +1,6 @@
 ---
 title: >-
-  JK Business School (JKBS) Gurgaon Review 2026: Placements & Infrastructure
+  JK Business School (JKBS) Gurgaon Review 2027–29: Placements & Infrastructure
   Highlights
 date: '2026-03-15'
 description: >-
@@ -8,7 +8,7 @@ description: >-
   packages, state-of-the-art infra, and faculty expertise for 2026-2027
   admissions & career guidance.
 keywords:
-  - JKBS Gurgaon review 2026
+  - JKBS Gurgaon review 2027–29
   - JK Business School placements 2024
   - JKBS infrastructure
   - Gurgaon B-schools ranking
@@ -96,7 +96,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

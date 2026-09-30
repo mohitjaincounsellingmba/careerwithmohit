@@ -159,9 +159,9 @@ It is crucial to set realistic expectations for online MBA placements:
 ---
 
 ## 🔗 Related Resources
-- [Best Online MBA Colleges in India 2026: UGC DEB Approved](/blog/best-online-mba-colleges-india-2026)
+- [Best Online MBA Colleges in India 2026: UGC DEB Approved](/blog/best-online-mba-colleges-india-2027-29)
 - [How to Calculate Online MBA ROI: Hikes vs Costs](/blog/calculating-online-mba-roi-salary-hikes-vs-tuition-costs)
-- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2026)
+- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2027-29)
 
 ---
 

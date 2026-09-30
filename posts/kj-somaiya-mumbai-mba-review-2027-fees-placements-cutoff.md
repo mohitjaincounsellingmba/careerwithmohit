@@ -11,7 +11,7 @@ keywords:
   - k j somaiya institute of management mba admission 2027
   - k j somaiya institute of management fees structure 2027
   - k j somaiya institute of management average placement package
-  - k j somaiya institute of management cutoff 2026 2027
+  - k j somaiya institute of management cutoff 2027–29 2027
   - kj somaiya review 2027
   - top mba colleges in mumbai
   - best mba colleges in maharashtra

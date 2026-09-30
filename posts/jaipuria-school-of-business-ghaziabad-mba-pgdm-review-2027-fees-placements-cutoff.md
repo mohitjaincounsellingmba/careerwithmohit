@@ -7,7 +7,7 @@ keywords:
   - 'jaipuria school of business (jsb) pgdm admission 2027'
   - 'jaipuria school of business (jsb) mba fees 2027'
   - 'jaipuria school of business (jsb) average placement package'
-  - 'jaipuria school of business (jsb) cutoff 2026 2027'
+  - 'jaipuria school of business (jsb) cutoff 2027–29 2027'
   - 'jsb review 2027'
   - 'direct admission in jaipuria school of business (jsb)'
   - 'top pgdm colleges in indirapuram'

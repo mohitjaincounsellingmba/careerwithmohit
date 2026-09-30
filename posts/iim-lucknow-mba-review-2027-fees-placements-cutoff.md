@@ -10,7 +10,7 @@ keywords:
   - iim lucknow mba admission 2027
   - iim lucknow fees structure 2027
   - iim lucknow average placement package
-  - iim lucknow cutoff 2026 2027
+  - iim lucknow cutoff 2027–29 2027
   - iiml review 2027
   - top mba colleges in lucknow
   - best mba colleges in uttar pradesh

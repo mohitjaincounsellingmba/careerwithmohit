@@ -13,7 +13,7 @@ description: >-
 keywords:
   - Accurate Institute of Management & Technology (AIMT) admission 2027-29
   - Accurate Greater Noida fees 2027
-  - Accurate Greater Noida placements 2026
+  - Accurate Greater Noida placements 2027–29
   - Accurate Greater Noida PGDM MBA fee structure 2027-29
   - Accurate Greater Noida cutoff CAT MAT CMAT
   - Accurate Greater Noida highest package
@@ -132,7 +132,7 @@ For the **2027–29 academic session**, Accurate Greater Noida provides structur
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹3.47 Lakhs / Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹3.47 Lakhs / Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹6.95 Lakhs for PGDM / ₹3.25 Lakhs for MBA** | Full Course Aggregate |
 
@@ -258,6 +258,6 @@ Accurate Greater Noida accepts valid percentiles from national entrance exams in
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

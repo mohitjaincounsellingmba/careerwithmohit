@@ -1,15 +1,15 @@
 ---
 title: >-
-  Entrepreneurship Development Institute of India PGDM Admission Review 2026:
+  Entrepreneurship Development Institute of India PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Entrepreneurship Development Institute of India? Read
-  our comprehensive PGDM review for 2026 covering total fees, average and
+  our comprehensive PGDM review for 2027–29 covering total fees, average and
   highest placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - entrepreneurship development institute of india review 2026
+  - entrepreneurship development institute of india review 2027–29
   - entrepreneurship development institute of india pgdm placements
   - entrepreneurship development institute of india admission cutoff
   - entrepreneurship development institute of india fees
@@ -94,7 +94,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

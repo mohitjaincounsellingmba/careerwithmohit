@@ -12,7 +12,7 @@ description: >-
 keywords:
   - Amity University Gurugram (Manesar) admission 2027-29
   - Amity Gurgaon fees 2027
-  - Amity Gurgaon placements 2026
+  - Amity Gurgaon placements 2027–29
   - Amity Gurgaon PGDM MBA fee structure 2027-29
   - Amity Gurgaon cutoff CAT MAT CMAT
   - Amity Gurgaon highest package
@@ -127,7 +127,7 @@ For the **2027–29 academic session**, Amity Gurgaon provides structured instal
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |
-| **Year 1 Academic Fee (2027–28)** | **₹4.90 Lakhs per Year** | Payable at Academic Commencement |
+| **Year 1 Academic Fee (2027–29)** | **₹4.90 Lakhs per Year** | Payable at Academic Commencement |
 | **Year 2 Academic Fee (2028–29)** | **₹4.90 Lakhs per Year** | Payable at Start of Year 2 |
 | **Total 2-Year Program Fee** | **₹9.80 Lakhs (Total)** | Full Course Aggregate |
 
@@ -253,6 +253,6 @@ Amity Gurgaon accepts valid percentiles from national entrance exams including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

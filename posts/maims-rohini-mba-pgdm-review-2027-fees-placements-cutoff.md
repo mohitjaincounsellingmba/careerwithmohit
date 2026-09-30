@@ -7,7 +7,7 @@ keywords:
   - 'maharaja agrasen institute of management studies (maims) pgdm admission 2027'
   - 'maharaja agrasen institute of management studies (maims) mba fees 2027'
   - 'maharaja agrasen institute of management studies (maims) average placement package'
-  - 'maharaja agrasen institute of management studies (maims) cutoff 2026 2027'
+  - 'maharaja agrasen institute of management studies (maims) cutoff 2027–29 2027'
   - 'maims review 2027'
   - 'direct admission in maharaja agrasen institute of management studies (maims)'
   - 'top pgdm colleges in rohini'

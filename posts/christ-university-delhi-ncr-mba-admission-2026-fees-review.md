@@ -8,7 +8,7 @@ description: >-
 keywords:
   - Christ University Delhi NCR MBA admission 2027–2029
   - Christ University Delhi-NCR MBA fees
-  - Christ University Delhi-NCR MBA cutoff 2025
+  - Christ University Delhi-NCR MBA cutoff 2027–29
   - Christ Delhi placement review
   - MBA in Delhi-NCR campus
   - Christ vs Other MBA in Delhi
@@ -44,7 +44,7 @@ category: Online Degrees
 
 The **Delhi NCR Campus** of Christ (Deemed to be University) in Ghaziabad is a strategic expansion of Christ's educational excellence into North India. Located along the busy NCR industrial and corporate belt, this campus offers the rigorous academic training of Christ with a distinct location advantage for students aiming at placements in the nationwide corporate headquarters in Delhi and Gurgaon.
 
-### **Christ Delhi NCR MBA Admission Process 2026**
+### **Christ Delhi NCR MBA Admission Process 2027–29**
 1.  **Selection Base**: Valid scores in **MAT (Composite score 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Assessment Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
@@ -54,7 +54,7 @@ The **Delhi NCR Campus** of Christ (Deemed to be University) in Ghaziabad is a s
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -68,7 +68,7 @@ Delhi NCR campus cutoffs are generally more accessible than the Bangalore centra
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **Christ University Delhi-NCR MBA Fee Structure 2026**
+### **Christ University Delhi-NCR MBA Fee Structure 2027–29**
 The costs here are lower than the main Bangalore campuses, making it an attractive high-value option for management aspirants from North India.
 *   **Annual Tuition Fee**: approx. ₹4.0 Lakhs - ₹4.5 Lakhs.
 *   **Total 2-Year Fees**: **₹8.0 Lakhs - ₹9.0 Lakhs**.
@@ -112,7 +112,7 @@ Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corpo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

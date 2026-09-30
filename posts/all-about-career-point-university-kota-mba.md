@@ -1,5 +1,5 @@
 ---
-title: 'Career Point University (CPU) Kota MBA: Placements & Fees 2026'
+title: 'Career Point University (CPU) Kota MBA: Placements & Fees 2027–29'
 date: '2026-03-18'
 description: >-
   In-depth review of Career Point University (CPU) Kota MBA. Explore the ₹3
@@ -7,7 +7,7 @@ description: >-
   for 2026-2027 admissions & career guidance.
 keywords:
   - Career Point University Kota MBA review
-  - CPU Kota MBA fees 2026
+  - CPU Kota MBA fees 2027–29
   - CPU Kota placement 2024
   - best private MBA in Kota
   - Career Point MBA admission
@@ -23,7 +23,7 @@ faqs:
       Yes, for students targeting a modern, tech-focused MBA experience in Kota,
       CPU is the best private choice. It has a stellar infrastructure and a very
       active placement cell.
-  - question: What is the MBA fee at CPU Kota for 2026?
+  - question: What is the MBA fee at CPU Kota for 2027–29?
     answer: >-
       The fee ranges from **₹1 Lakh to ₹3 Lakhs** for the two-year program,
       depending on whether you choose a general or a super-specialized MBA.
@@ -41,7 +41,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-### 📊 CPU Kota MBA 2026 Snapshot
+### 📊 CPU Kota MBA 2027–29 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,7 +70,7 @@ Career Point University (CPU) brings the legacy of the Career Point coaching emp
 ### 1. Is Career Point University good for MBA?
 Yes, for students targeting a modern, tech-focused MBA experience in Kota, CPU is the best private choice. It has a stellar infrastructure and a very active placement cell.
 
-### 2. What is the MBA fee at CPU Kota for 2026?
+### 2. What is the MBA fee at CPU Kota for 2027–29?
 The fee ranges from **₹1 Lakh to ₹3 Lakhs** for the two-year program, depending on whether you choose a general or a super-specialized MBA.
 
 ### 3. Does CPU Kota accept CMAT?
@@ -88,7 +88,7 @@ Yes, CPU accepts CMAT scores, but students can also appear for the university's 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

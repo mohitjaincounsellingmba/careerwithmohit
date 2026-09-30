@@ -127,11 +127,11 @@ Once you receive your score, these are the top MBA institutes accepting MAT acro
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** – Composite score 500+ preferred
 - **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** – Strong MAT-accepting B-School
-- **[NDIM Delhi](/blog/ndim-delhi-review-2026)** – Direct admissions with MAT score
-- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2026)** – Banking & Finance MBA accepting MAT
+- **[NDIM Delhi](/blog/ndim-delhi-review-2027-29)** – Direct admissions with MAT score
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** – Banking & Finance MBA accepting MAT
 - **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** – Top PGDM college accepting MAT
 
-For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT Score in Delhi NCR 2026](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2026)**
+For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
 
 ---
 
@@ -179,7 +179,7 @@ Since AIMA does not pre-announce the result date, bookmark the official site and
 For more updates on MBA entrance exams and admissions, read:
 - **[All About MAT Exam 2026](/blog/all-about-mat-exam)**
 - **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide)**
-- **[MBA Entrance Exam Dates 2026](/blog/mba-entrance-exam-dates-2026)**
+- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29)**
 
 ---
 
@@ -189,4 +189,4 @@ For more updates on MBA entrance exams and admissions, read:
 
 ### 🚀 Boost Your Score in the Next Session
 
-Not satisfied with your result? **[Explore Our Free MBA Mock Test Series](/mock-tests)** to practice for MAT September 2026 with real exam-pattern questions and detailed analytics.
+Not satisfied with your result? **[Explore Our Free MBA Mock Test Series](/mock-tests)** to practice for MAT September 2027–29 with real exam-pattern questions and detailed analytics.

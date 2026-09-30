@@ -69,8 +69,8 @@ keywords:
   - 'engineering colleges Pune, Maharashtra'
   - Pune Colleges
   - Best Colleges in Pune
-  - Top Colleges in Pune 2026
-  - Pune Direct Admission 2026
+  - Top Colleges in Pune 2027-29
+  - Pune Direct Admission 2027-29
   - Colleges in Maharashtra
   - Pune Career Counselling
 ---

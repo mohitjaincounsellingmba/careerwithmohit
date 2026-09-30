@@ -47,8 +47,8 @@ keywords:
   - UPES Dehradun contact number
   - Dehradun Colleges
   - Best Colleges in Dehradun
-  - Top Colleges in Dehradun 2026
-  - Dehradun Direct Admission 2026
+  - Top Colleges in Dehradun 2027-29
+  - Dehradun Direct Admission 2027-29
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
 state: Uttarakhand

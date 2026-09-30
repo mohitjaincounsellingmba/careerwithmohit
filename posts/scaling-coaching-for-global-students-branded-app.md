@@ -119,8 +119,8 @@ Yes, but **Email and In-App Chat** are preferred in western markets for a more p
 
 ### Useful Links:
 - [Launch Your Global Digital Academy](/inquiry)
-- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2026)
-- [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2026)
+- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2027-29)
+- [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2027-29)
 
 ---
 

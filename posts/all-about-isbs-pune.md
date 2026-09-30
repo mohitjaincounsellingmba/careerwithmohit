@@ -1,13 +1,13 @@
 ---
-title: 'ISBS Pune Review 2026: Placements & Infrastructure Highlights'
+title: 'ISBS Pune Review 2027–29: Placements & Infrastructure Highlights'
 date: '2026-03-15'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for ISBS Pune
-  Review 2026: Placements & Infrastructure Highlights. Check updated fees,
+  Review 2027–29: Placements & Infrastructure Highlights. Check updated fees,
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - ISBS Pune review 2026
-  - Indira School placements 2025
+  - ISBS Pune review 2027–29
+  - Indira School placements 2027–29
   - ISBS Pune infrastructure
   - best MBA in Pune for finance
   - Direct Admission in Delhi
@@ -83,7 +83,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -364,13 +364,13 @@ Step 4: Education Loan & Financial Clearance
 ---
 
 ## 🔗 Related Resources & Internal Links
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2026-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026)
-*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2026)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
+*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2027-29)
 *   [All About NDIM New Delhi: Reviews, Fees & Placements](/colleges/ndim-delhi)
 *   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Noida](/colleges/jaipuria-noida)
 *   [All About FIIB New Delhi: Admissions & Selection Criteria](/colleges/fiib-delhi)
 *   [All About JIMS Kalkaji / Rohini Reviews](/colleges/jims-kalkaji)
-*   [Latest WAT/GD Topics for MBA Admissions 2027](/blog/latest-wat-gd-topics-for-mba-admissions-2026)
+*   [Latest WAT/GD Topics for MBA Admissions 2027](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29)
 
 ---
 
@@ -395,6 +395,6 @@ The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 La
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

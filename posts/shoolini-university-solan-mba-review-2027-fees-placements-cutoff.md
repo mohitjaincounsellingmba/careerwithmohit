@@ -13,7 +13,7 @@ description: >-
 keywords:
   - 'faculty of management sciences, shoolini university review 2027'
   - 'faculty of management sciences, shoolini university mba fees'
-  - 'faculty of management sciences, shoolini university placements 2026 2027'
+  - 'faculty of management sciences, shoolini university placements 2027–29 2027'
   - 'faculty of management sciences, shoolini university average package'
   - 'faculty of management sciences, shoolini university highest package'
   - 'faculty of management sciences, shoolini university cutoff cat mat'
@@ -217,6 +217,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

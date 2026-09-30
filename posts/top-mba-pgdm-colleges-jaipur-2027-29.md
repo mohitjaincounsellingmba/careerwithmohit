@@ -79,7 +79,7 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 * **Placements**: 100% campus placement with top hospital chains, WHO, and pharma multinationals.
 
 ### 3. FMS-IRM (Faculty of Management Studies - [Institute of Rural Management](/colleges/institute-of-rural-management))
-* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/blog/all-about-fms-irm-jaipur).
+* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/colleges/fms-irm-jaipur).
 
 ### 4. [Taxila Business School](/colleges/taxila-jaipur), Jaipur
 * **Highlights**: Known for PGDM with SAP and Business Analytics certifications.
@@ -108,6 +108,6 @@ Most top colleges in Jaipur provide lucrative fee waivers to encourage meritorio
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

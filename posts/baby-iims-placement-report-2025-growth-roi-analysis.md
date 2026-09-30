@@ -126,14 +126,14 @@ A critical dilemma for CAT test-takers with 90–96 percentiles is whether to ch
 
 1. **Aim for 92–95 Percentile**: To secure calls from Baby IIMs through the Common Admission Process (CAP), target an overall CAT percentile above 92, with balanced 75+ sectional percentiles.
 2. **Explore Specialized Tracks**: Programs like MBA-BA at IIM Amritsar or MBA-Analytics at [IIM Kashipur](/colleges/iim-kashipur) often see higher median starting salaries.
-3. **Check the Complete 21 IIMs Report**: Read our **[All IIM Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2025)** for the national benchmark.
-4. **Evaluate Cutoffs**: Read our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)** to plan your prep.
+3. **Check the Complete 21 IIMs Report**: Read our **[All IIM Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)** for the national benchmark.
+4. **Evaluate Cutoffs**: Read our **[All IIM Cut Off 2027–29 Analysis](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)** to plan your prep.
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

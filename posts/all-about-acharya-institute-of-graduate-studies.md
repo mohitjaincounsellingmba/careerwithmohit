@@ -1,15 +1,15 @@
 ---
 title: >-
-  Acharya Institute of Graduate Studies PGDM Admission Review 2026: Placements,
+  Acharya Institute of Graduate Studies PGDM Admission Review 2027–29: Placements,
   Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Acharya Institute of Graduate Studies? Read our
-  comprehensive PGDM review for 2026 covering total fees, average and highest
+  comprehensive PGDM review for 2027–29 covering total fees, average and highest
   placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - acharya institute of graduate studies review 2026
+  - acharya institute of graduate studies review 2027–29
   - acharya institute of graduate studies pgdm placements
   - acharya institute of graduate studies admission cutoff
   - acharya institute of graduate studies fees
@@ -97,7 +97,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -141,7 +141,7 @@ Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges
 * **[CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)**
 * **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)**
 * **[CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)**
-* **[Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)**
+* **[Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide)**
 
 
 
@@ -149,6 +149,6 @@ Yes, colleges like **GIM Goa, BIMTECH, and [FORE School of Management](/colleges
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

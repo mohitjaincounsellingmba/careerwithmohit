@@ -152,6 +152,6 @@ Institutions like Globsyn, Praxis, and Sister Nivedita University offer profile-
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
 - **[Read: All About IMI Kolkata Admission & Cutoffs](/blog/all-about-imi-kolkata)**
-- **[Read: Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)**
+- **[Read: Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)**

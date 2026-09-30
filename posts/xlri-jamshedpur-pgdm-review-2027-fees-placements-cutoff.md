@@ -10,7 +10,7 @@ keywords:
   - xlri jamshedpur mba admission 2027
   - xlri jamshedpur fees structure 2027
   - xlri jamshedpur average placement package
-  - xlri jamshedpur cutoff 2026 2027
+  - xlri jamshedpur cutoff 2027–29 2027
   - xlri jamshedpur review 2027
   - top mba colleges in jamshedpur
   - best mba colleges in jharkhand

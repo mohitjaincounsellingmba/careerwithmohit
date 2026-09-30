@@ -10,7 +10,7 @@ keywords:
   - nmims hyderabad mba admission 2027
   - nmims hyderabad fees structure 2027
   - nmims hyderabad average placement package
-  - nmims hyderabad cutoff 2026 2027
+  - nmims hyderabad cutoff 2027–29 2027
   - nmims hyderabad review 2027
   - top mba colleges in hyderabad
   - best mba colleges in telangana

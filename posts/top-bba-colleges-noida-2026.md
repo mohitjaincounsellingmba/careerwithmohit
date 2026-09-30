@@ -93,8 +93,8 @@ If you want the best campus life and global brand, **Amity** is unbeatable. Howe
 
 ## 🔗 Related Resources
 - [Top BBA Colleges in Greater Noida 2026](/blog/top-bba-colleges-greater-noida-2026)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
-- [Admission Guide 2026](/blog/career-roadmaps-2026)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
 
 ---
 

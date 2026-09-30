@@ -10,7 +10,7 @@ keywords:
   - lbsim delhi mba admission 2027
   - lbsim delhi fees structure 2027
   - lbsim delhi average placement package
-  - lbsim delhi cutoff 2026 2027
+  - lbsim delhi cutoff 2027–29 2027
   - lbsim delhi review 2027
   - 'top mba colleges in dwarka, new delhi'
   - best mba colleges in delhi ncr

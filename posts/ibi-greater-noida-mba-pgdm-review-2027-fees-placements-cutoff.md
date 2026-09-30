@@ -7,7 +7,7 @@ keywords:
   - 'i business institute (ibi) pgdm admission 2027'
   - 'i business institute (ibi) mba fees 2027'
   - 'i business institute (ibi) average placement package'
-  - 'i business institute (ibi) cutoff 2026 2027'
+  - 'i business institute (ibi) cutoff 2027–29 2027'
   - 'i business institute review 2027'
   - 'direct admission in i business institute (ibi)'
   - 'top pgdm colleges in knowledge park ii'

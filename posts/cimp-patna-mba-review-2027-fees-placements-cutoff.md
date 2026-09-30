@@ -13,7 +13,7 @@ description: >-
 keywords:
   - chandragupt institute of management patna (cimp) review 2027
   - chandragupt institute of management patna (cimp) mba fees
-  - chandragupt institute of management patna (cimp) placements 2026 2027
+  - chandragupt institute of management patna (cimp) placements 2027–29 2027
   - chandragupt institute of management patna (cimp) average package
   - chandragupt institute of management patna (cimp) highest package
   - chandragupt institute of management patna (cimp) cutoff cat xat
@@ -216,6 +216,6 @@ Selecting the right MBA/PGDM college requires personalized profile evaluation. S
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

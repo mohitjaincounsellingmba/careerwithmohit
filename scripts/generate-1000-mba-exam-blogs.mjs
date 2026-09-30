@@ -144,9 +144,9 @@ For students and working professionals in ${city}, two primary options exist:
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Coaching Online 2026: Compare Top Courses](/blog/best-mba-coaching-online-2026)
-- [How to Crack CAT Exam 2026: 10 Success Strategies](/blog/10-tips-to-crack-cat-exam-2026)
-- [List of All IIM Cut-offs for 2027-28 Admission](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)
+- [Best MBA Coaching Online 2026: Compare Top Courses](/blog/best-mba-coaching-online-2027-29)
+- [How to Crack CAT Exam 2026: 10 Success Strategies](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [List of All IIM Cut-offs for 2027-28 Admission](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
 
 ---
 
@@ -268,7 +268,7 @@ Your NMAT score can unlock admissions to several premium private business school
 ## 🔗 Related Resources
 - [All About NMAT Exam: Syllabus, Fee, Pattern](/blog/all-about-nmat-exam)
 - [All About NMIMS Campuses: Fees, Placements & Cut-offs](/blog/all-about-nmims-campuses)
-- [Overview of OMETs MBA Entrance Exams 2026](/blog/all-about-omets-mba-entrance-exams-2026)
+- [Overview of OMETs MBA Entrance Exams 2026](/blog/all-about-omets-mba-entrance-exams-2027-29)
 
 ---
 
@@ -398,7 +398,7 @@ For XLRI Jamshedpur (Business Management - BM, and Human Resource Management - H
 ## 🔗 Related Resources
 - [All About XAT Exam: Cut-offs, syllabus, registrations](/blog/all-about-xat-exam)
 - [How to Compare Top PGDM Programs in India 2027](/blog/alternate-masters-to-mba-pgdm-mms-pgp)
-- [MBA Placement Statistics and NIRF Rankings 2026](/blog/best-mba-colleges-placement-delhi-ncr-2026)
+- [MBA Placement Statistics and NIRF Rankings 2026](/blog/best-mba-colleges-placement-delhi-ncr-2027-29)
 
 ---
 

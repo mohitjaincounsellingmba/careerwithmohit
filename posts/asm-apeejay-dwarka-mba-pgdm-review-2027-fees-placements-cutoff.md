@@ -7,7 +7,7 @@ keywords:
   - 'asm apeejay school of management pgdm admission 2027'
   - 'asm apeejay school of management mba fees 2027'
   - 'asm apeejay school of management average placement package'
-  - 'asm apeejay school of management cutoff 2026 2027'
+  - 'asm apeejay school of management cutoff 2027–29 2027'
   - 'asm apeejay school of management review 2027'
   - 'direct admission in asm apeejay school of management'
   - 'top pgdm colleges in dwarka'

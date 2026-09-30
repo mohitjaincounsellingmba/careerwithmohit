@@ -12,7 +12,7 @@ description: >-
 keywords:
   - free atma mock test 2026
   - atma 2026 online practice paper
-  - jbims atma cutoff 2026
+  - jbims atma cutoff 2027–29
   - pumba pune atma mock test
   - atma 180 questions test series free
   - best mock test for atma 2026
@@ -51,7 +51,7 @@ state: Maharashtra
 # Free ATMA Mock Test 2026: Official 180-Question CBT with JBIMS & PUMBA Cutoff Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 

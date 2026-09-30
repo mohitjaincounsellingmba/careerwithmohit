@@ -191,7 +191,7 @@ To protect aspirants from spam, aggressive telemarketers, and unauthorized promo
 
 ## Related Guides & Preparation Resources
 
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [All About the CAT Exam: Pattern, Syllabus & Eligibility](/blog/all-about-cat-exam)
 * [Comprehensive MBA & PGDM Admissions Guide 2027](/mba-pgdm-admission-2027)
 * [Top Tier MBA Colleges in India: Fees, Placements & Cutoffs](/top-tier-mba-colleges)
@@ -218,6 +218,6 @@ Yes! Mohit Jain frequently reviews profile queries in the group. You can also me
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

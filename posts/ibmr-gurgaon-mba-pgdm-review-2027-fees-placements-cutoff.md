@@ -7,7 +7,7 @@ keywords:
   - 'ibmr group of institutions (ibmr gurgaon) pgdm admission 2027'
   - 'ibmr group of institutions (ibmr gurgaon) mba fees 2027'
   - 'ibmr group of institutions (ibmr gurgaon) average placement package'
-  - 'ibmr group of institutions (ibmr gurgaon) cutoff 2026 2027'
+  - 'ibmr group of institutions (ibmr gurgaon) cutoff 2027–29 2027'
   - 'ibmr gurgaon review 2027'
   - 'direct admission in ibmr group of institutions (ibmr gurgaon)'
   - 'top pgdm colleges in sector 14'

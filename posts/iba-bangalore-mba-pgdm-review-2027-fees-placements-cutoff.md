@@ -7,7 +7,7 @@ keywords:
   - 'indus business academy (iba bangalore) pgdm admission 2027'
   - 'indus business academy (iba bangalore) mba fees 2027'
   - 'indus business academy (iba bangalore) average placement package'
-  - 'indus business academy (iba bangalore) cutoff 2026 2027'
+  - 'indus business academy (iba bangalore) cutoff 2027–29 2027'
   - 'indus business academy review 2027'
   - 'direct admission in indus business academy (iba bangalore)'
   - 'top pgdm colleges in kanakapura road'

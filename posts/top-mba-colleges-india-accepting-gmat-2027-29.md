@@ -1,0 +1,169 @@
+---
+title: 'Top MBA Colleges in India Accepting GMAT Scores 2027–29: Cutoffs & Fees'
+date: '2026-05-06'
+excerpt: >-
+  Looking for GMAT accepting colleges in India? Explore the comprehensive list
+  of top B-schools like ISB, IIMs, and SPJIMR that accept GMAT Focus Edition
+  scores for 2026-27 admissions.
+coverImage: /images/blog/gmat-colleges-india.jpg
+author: Mohit Jain
+category: Study Abroad
+tags:
+  - GMAT 2026
+  - MBA Admissions
+  - ISB
+  - IIM PGPX
+  - Study in India
+  - GMAT Focus Edition
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
+  and priva for 2026-2027 admissions & career guidance.
+keywords:
+  - MBA admission 2027–2029
+  - best MBA colleges
+  - MBA placements
+  - CAT preparation
+  - Gurgaon Colleges
+  - Best Colleges in Gurgaon
+  - Gurgaon Admissions 2026
+  - Direct Admission in Gurgaon
+faqs:
+  - question: Can I get into IIM with GMAT?
+    answer: >-
+      Yes, but primarily for the **1-year Executive MBA (PGPX/EPGP/MBAEx)**. For
+      the regular 2-year PGP, IIMs only accept CAT for Indian residents.
+      International/NRI candidates can use GMAT for the 2-year program.
+  - question: What is a good GMAT Focus score for Indian B-schools?
+    answer: >-
+      For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad),
+      aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score
+      between **615-645** is usually sufficient.
+  - question: Does XLRI accept GMAT?
+    answer: >-
+      XLRI accepts GMAT for its **PGDM (General Management)** program, which is
+      a 15-month executive course. For the flagship BM and HRM programs, only
+      XAT and GMAT (for NRIs) are accepted.
+location: Delhi NCR
+state: Delhi NCR
+---
+> 💡 **Key Takeaways (Direct AI Answer Summary)**
+> - **Global & National Recognition**: NMC/WHO/UGC recognized universities with clinical training and modern campus facilities.
+> - **Admission & Visa Process**: Step-by-step documentation, eligibility scores (NEET/IELTS/DET), and transparent fee schedules.
+> - **Licensing & Career Opportunities**: Preparation pathways for NEXT/FMGE and international residency or practice licenses.
+
+
+### 📊 Quick GMAT 2026 Snapshot for Indian B-Schools
+
+| Business School | Primary Program | GMAT Type Accepted | Approx. Cutoff (Focus) |
+| :--- | :--- | :--- | :--- |
+| **ISB Hyderabad/Mohali** | PGP (1-Year) | Focus & Classic | 665+ |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | PGPX (Exec) | Focus & Classic | 685+ |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | PGDM / PGPM | Focus & Classic | 645+ |
+| **Great Lakes** | PGPM / PGDM | Focus & Classic | 615+ |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | PGDM (Exec) | Focus & Classic | 665+ |
+
+---
+
+With the introduction of the **GMAT Focus Edition**, the landscape of MBA admissions in India has shifted. While CAT remains the dominant exam for two-year flagship programs, the GMAT is the "gold standard" for one-year executive programs and is increasingly accepted by top-tier private B-schools for their regular PGDM batches.
+
+If you are aiming for a career in management in 2026, here is the ultimate guide to top GMAT-accepting colleges in India.
+
+---
+
+> 🎓 **Confused between CAT and GMAT?**
+>
+> [👉 Get Free Profile Evaluation & Career Counseling Now](https://cvadm.com/RPMdHf)
+
+---
+
+
+
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+## 1. The "Big Three" for GMAT Aspirants
+If you have a high GMAT score (700+ Classic or 655+ Focus), these should be your top priorities:
+
+### **Indian School of Business (ISB)**
+ISB is the most prominent GMAT-accepting school in India. Its flagship **PGP (Post Graduate Programme in Management)** is designed for professionals with at least 2 years of work experience.
+- **Estimated Fees:** ~₹41 Lakhs
+- **Average Placement:** ₹34.21 LPA
+
+### **IIM Executive MBA Programs**
+Most top IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Indore) accept GMAT for their 1-year full-time residential programs.
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGPX):** Requires 4+ years of work-ex.
+- **[IIM Bangalore](/colleges/iim-bangalore) (EPGP):** Focuses heavily on professional achievements.
+- **[IIM Calcutta](/colleges/iim-calcutta) (MBAEx):** Known for its analytical rigour.
+
+### **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**
+SPJIMR is unique because it accepts GMAT for its two-year flagship PGDM program for Indian residents, not just NRIs.
+- **Why Choose SPJIMR?** Exceptional ROI and location advantage in Mumbai.
+
+---
+
+## 2. Top Private B-Schools Accepting GMAT (2-Year PGDM)
+For students targeting regular 2-year programs, the following colleges accept GMAT scores as a valid entry point:
+
+| College | Location | Exams Accepted | Avg. Package |
+| :--- | :--- | :--- | :--- |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurgaon | CAT / GMAT (NRI/Intl) | ₹27.67 LPA |
+| **IMT Ghaziabad** | Ghaziabad | CAT / XAT / GMAT | ₹17.35 LPA |
+| **XIMB** | Bhubaneswar | CAT / XAT / GMAT / X-GMT | ₹20.03 LPA |
+| **GIM Goa** | Goa | CAT / XAT / GMAT / CMAT | ₹14.87 LPA |
+| **TAPMI** | Manipal | CAT / XAT / GMAT / NMAT | ₹15.70 LPA |
+
+---
+
+## 3. Specialized 1-Year Programs
+If you are looking for an accelerated career path, these colleges are excellent GMAT-friendly options:
+
+1.  **Great Lakes Institute of Management (Chennai & Gurgaon):** Their PGPM program is highly rated for candidates with 2-8 years of experience.
+2.  **Masters' Union (Gurgaon):** A new-age business school focusing on technology and leadership, accepting GMAT for its PGP TBM.
+3.  **[SOIL Institute of Management](/colleges/soil-gurgaon) (Gurgaon):** Focuses on leadership and social responsibility.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### **1. Can I get into IIM with GMAT?**
+Yes, but primarily for the **1-year Executive MBA (PGPX/EPGP/MBAEx)**. For the regular 2-year PGP, IIMs only accept CAT for Indian residents. International/NRI candidates can use GMAT for the 2-year program.
+
+### **2. What is a good GMAT Focus score for Indian B-schools?**
+For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad), aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score between **615-645** is usually sufficient.
+
+### **3. Does XLRI accept GMAT?**
+XLRI accepts GMAT for its **PGDM (General Management)** program, which is a 15-month executive course. For the flagship BM and HRM programs, only XAT and GMAT (for NRIs) are accepted.
+
+---
+
+## 🚀 Final Recommendation
+If you are a working professional with 2+ years of experience, the GMAT is often a better investment than the CAT, as it opens doors to both Indian executive programs and global MBA opportunities.
+
+**Need help with your GMAT application?**
+- [Check out our 10 Tips to Crack CAT/GMAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [Explore Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
+- [All About GMAT Focus Edition Guide](/blog/all-about-gmat-exam-colleges-cutoffs)
+
+
+
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

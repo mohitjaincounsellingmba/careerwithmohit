@@ -67,7 +67,7 @@ Both DSM and USME offer rigorous two-year, full-time MBA programs. While DSM foc
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## 2. DTU MBA Admission Process 2026
+## 2. DTU MBA Admission Process 2027–29
 
 The admission process for DTU’s MBA program is managed through a centralized counseling system known as **CMAC (Common Management Admission Committee)**, which often conducts combined admissions for DTU, NSUT, and IGDTUW.
 
@@ -80,9 +80,9 @@ The admission process for DTU’s MBA program is managed through a centralized c
 2. **Personal Interview (PI) & Group Discussion (GD):** Shortlisted candidates must participate in the GD/PI rounds.
 3. **Final Merit List:** The final selection is based on a composite score comprising the entrance exam score, performance in GD/PI, past academic record, and relevant work experience.
 
-*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026).*
+*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29).*
 
-## 3. DTU MBA Cutoff 2026 (Expected)
+## 3. DTU MBA Cutoff 2027–29 (Expected)
 
 Because DTU provides excellent placement outcomes at a fraction of the cost of private B-Schools, the competition is fierce. 
 
@@ -95,7 +95,7 @@ While official cutoffs depend strictly on the applicant pool and seat matrix, th
 
 *Note: Having a strong academic background and solid performance in the GD/PI rounds can compensate for borderline CAT percentiles.*
 
-## 4. DTU MBA Fee Structure 2026
+## 4. DTU MBA Fee Structure 2027–29
 
 One of the biggest advantages of pursuing an MBA from Delhi Technological University is the highly affordable fee structure compared to massive private institution fees.
 
@@ -140,6 +140,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

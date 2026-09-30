@@ -7,7 +7,7 @@ keywords:
   - 'isb&m gurgaon (international school of business & media) pgdm admission 2027'
   - 'isb&m gurgaon (international school of business & media) mba fees 2027'
   - 'isb&m gurgaon (international school of business & media) average placement package'
-  - 'isb&m gurgaon (international school of business & media) cutoff 2026 2027'
+  - 'isb&m gurgaon (international school of business & media) cutoff 2027–29 2027'
   - 'isb&m gurgaon review 2027'
   - 'direct admission in isb&m gurgaon (international school of business & media)'
   - 'top pgdm colleges in sector 112'

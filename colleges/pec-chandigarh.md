@@ -56,8 +56,8 @@ keywords:
   - 'engineering colleges Sector 12, Chandigarh'
   - Chandigarh Colleges
   - Best Colleges in Chandigarh
-  - Top Colleges in Chandigarh 2026
-  - Chandigarh Direct Admission 2026
+  - Top Colleges in Chandigarh 2027-29
+  - Chandigarh Direct Admission 2027-29
   - Colleges in Punjab
   - Chandigarh Career Counselling
 ---

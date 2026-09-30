@@ -7,7 +7,7 @@ keywords:
   - 'isme bangalore (school of management excellence) pgdm admission 2027'
   - 'isme bangalore (school of management excellence) mba fees 2027'
   - 'isme bangalore (school of management excellence) average placement package'
-  - 'isme bangalore (school of management excellence) cutoff 2026 2027'
+  - 'isme bangalore (school of management excellence) cutoff 2027–29 2027'
   - 'isme bangalore review 2027'
   - 'direct admission in isme bangalore (school of management excellence)'
   - 'top pgdm colleges in sarjapur road'

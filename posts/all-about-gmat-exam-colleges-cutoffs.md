@@ -21,7 +21,7 @@ description: >-
 keywords:
   - career counselling
   - admissions 2026
-  - placements 2025
+  - placements 2027–29
   - Direct Admission in Delhi
 faqs:
   - question: What is a good GMAT Focus score for ISB in 2026?
@@ -84,7 +84,7 @@ The GMAT Focus Edition comprises three equally weighted sections, each lasting 4
 
 ---
 
-### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2026](/blog/top-mba-colleges-india-accepting-gmat-2026)
+### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2027–29](/blog/top-mba-colleges-india-accepting-gmat-2027-29)
 
 ---
 
@@ -111,7 +111,7 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

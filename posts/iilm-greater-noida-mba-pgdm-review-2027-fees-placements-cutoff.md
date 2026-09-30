@@ -7,7 +7,7 @@ keywords:
   - 'iilm greater noida (iilm university) pgdm admission 2027'
   - 'iilm greater noida (iilm university) mba fees 2027'
   - 'iilm greater noida (iilm university) average placement package'
-  - 'iilm greater noida (iilm university) cutoff 2026 2027'
+  - 'iilm greater noida (iilm university) cutoff 2027–29 2027'
   - 'iilm greater noida review 2027'
   - 'direct admission in iilm greater noida (iilm university)'
   - 'top pgdm colleges in knowledge park ii'

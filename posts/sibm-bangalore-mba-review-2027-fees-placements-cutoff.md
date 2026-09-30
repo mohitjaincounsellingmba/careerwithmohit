@@ -10,7 +10,7 @@ keywords:
   - sibm bangalore mba admission 2027
   - sibm bangalore fees structure 2027
   - sibm bangalore average placement package
-  - sibm bangalore cutoff 2026 2027
+  - sibm bangalore cutoff 2027–29 2027
   - sibm bangalore review 2027
   - top mba colleges in bangalore
   - best mba colleges in karnataka

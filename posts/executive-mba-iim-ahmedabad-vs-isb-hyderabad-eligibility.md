@@ -1,7 +1,7 @@
 ---
 title: >-
   Executive MBA: IIM Ahmedabad PGPX vs ISB Hyderabad PGP Eligibility, Fees &
-  Placements 2026
+  Placements 2027–29
 date: '2026-09-12'
 description: >-
   Comparing India top 1-year executive MBA programs: IIM Ahmedabad PGPX vs ISB
@@ -137,6 +137,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

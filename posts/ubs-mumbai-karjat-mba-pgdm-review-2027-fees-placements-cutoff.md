@@ -7,7 +7,7 @@ keywords:
   - 'universal business school (ubs mumbai) / universal ai university pgdm admission 2027'
   - 'universal business school (ubs mumbai) / universal ai university mba fees 2027'
   - 'universal business school (ubs mumbai) / universal ai university average placement package'
-  - 'universal business school (ubs mumbai) / universal ai university cutoff 2026 2027'
+  - 'universal business school (ubs mumbai) / universal ai university cutoff 2027–29 2027'
   - 'ubs mumbai review 2027'
   - 'direct admission in universal business school (ubs mumbai) / universal ai university'
   - 'top pgdm colleges in karjat'

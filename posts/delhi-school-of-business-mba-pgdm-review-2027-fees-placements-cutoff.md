@@ -7,7 +7,7 @@ keywords:
   - 'delhi school of business (vips-tc) pgdm admission 2027'
   - 'delhi school of business (vips-tc) mba fees 2027'
   - 'delhi school of business (vips-tc) average placement package'
-  - 'delhi school of business (vips-tc) cutoff 2026 2027'
+  - 'delhi school of business (vips-tc) cutoff 2027–29 2027'
   - 'delhi school of business review 2027'
   - 'direct admission in delhi school of business (vips-tc)'
   - 'top pgdm colleges in pitampura'

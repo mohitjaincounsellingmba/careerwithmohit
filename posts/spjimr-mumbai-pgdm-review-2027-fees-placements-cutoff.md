@@ -11,7 +11,7 @@ keywords:
   - spjimr mumbai mba admission 2027
   - spjimr mumbai fees structure 2027
   - spjimr mumbai average placement package
-  - spjimr mumbai cutoff 2026 2027
+  - spjimr mumbai cutoff 2027–29 2027
   - spjimr review 2027
   - top mba colleges in mumbai
   - best mba colleges in maharashtra

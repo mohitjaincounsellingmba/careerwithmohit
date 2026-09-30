@@ -7,7 +7,7 @@ description: >-
   and priva for 2026-2027 admissions & career guidance.
 keywords:
   - Masters Union review
-  - Masters Union placements 2026
+  - Masters Union placements 2027–29
   - Masters Union fees
   - MU-BAAT exam cutoff
   - PGP TBM Masters Union
@@ -131,7 +131,7 @@ MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

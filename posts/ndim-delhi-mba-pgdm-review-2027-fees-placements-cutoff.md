@@ -7,7 +7,7 @@ keywords:
   - 'new delhi institute of management (ndim) pgdm admission 2027'
   - 'new delhi institute of management (ndim) mba fees 2027'
   - 'new delhi institute of management (ndim) average placement package'
-  - 'new delhi institute of management (ndim) cutoff 2026 2027'
+  - 'new delhi institute of management (ndim) cutoff 2027–29 2027'
   - 'ndim review 2027'
   - 'direct admission in new delhi institute of management (ndim)'
   - 'top pgdm colleges in tughlakabad'

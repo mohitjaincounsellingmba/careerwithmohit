@@ -1,15 +1,15 @@
 ---
 title: >-
-  Bengal Institute of Business Studies (BIBS) PGDM Admission Review 2026:
+  Bengal Institute of Business Studies (BIBS) PGDM Admission Review 2027–29:
   Placements, Fees & Cutoff
 date: '2026-06-25'
 category: Exams
 description: >-
   Looking for admission to Bengal Institute of Business Studies (BIBS)? Read our
-  comprehensive PGDM review for 2026 covering total fees, average and highest
+  comprehensive PGDM review for 2027–29 covering total fees, average and highest
   placement packages, accepted entrance exams, and cutoffs.
 keywords:
-  - bengal institute of business studies (bibs) review 2026
+  - bengal institute of business studies (bibs) review 2027–29
   - bengal institute of business studies (bibs) pgdm placements
   - bengal institute of business studies (bibs) admission cutoff
   - bengal institute of business studies (bibs) fees
@@ -100,7 +100,7 @@ The college accepts scores from national level entrance examinations including C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

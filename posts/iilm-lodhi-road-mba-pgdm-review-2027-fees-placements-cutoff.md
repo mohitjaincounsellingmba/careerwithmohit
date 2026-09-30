@@ -7,7 +7,7 @@ keywords:
   - 'iilm institute for higher education pgdm admission 2027'
   - 'iilm institute for higher education mba fees 2027'
   - 'iilm institute for higher education average placement package'
-  - 'iilm institute for higher education cutoff 2026 2027'
+  - 'iilm institute for higher education cutoff 2027–29 2027'
   - 'iilm institute for higher education review 2027'
   - 'direct admission in iilm institute for higher education'
   - 'top pgdm colleges in lodhi road'

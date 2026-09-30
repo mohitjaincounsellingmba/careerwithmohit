@@ -129,9 +129,9 @@ Spain is rapidly emerging as a **top European study destination** for Indian stu
 
 ### 🔗 Related Reads
 
-- [IESE Business School MBA Review 2026](/blog/iese-business-school-mba-review-2026)
-- [How to Learn Italian Language 2026](/blog/how-to-learn-italian-language-2026)
-- [Global MBA Online 2026](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [IESE Business School MBA Review 2027–29](/blog/iese-business-school-mba-review-2027-29)
+- [How to Learn Italian Language 2026](/blog/how-to-learn-italian-language-2027-29)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
 
 ---
 
@@ -153,7 +153,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

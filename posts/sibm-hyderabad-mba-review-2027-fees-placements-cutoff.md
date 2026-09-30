@@ -10,7 +10,7 @@ keywords:
   - sibm hyderabad mba admission 2027
   - sibm hyderabad fees structure 2027
   - sibm hyderabad average placement package
-  - sibm hyderabad cutoff 2026 2027
+  - sibm hyderabad cutoff 2027–29 2027
   - sibm hyderabad review 2027
   - top mba colleges in hyderabad
   - best mba colleges in telangana

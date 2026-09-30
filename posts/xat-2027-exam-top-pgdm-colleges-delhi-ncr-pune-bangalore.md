@@ -83,14 +83,14 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 ## City-Wise XAT 2027 Recommendations
 
 ### 1. Delhi NCR & Greater Noida Hub
-* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/blog/all-about-fore-school-delhi) and [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
+* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/colleges/fore-school-delhi) and [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
 * **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida).
 
 ### 2. Pune & Maharashtra Hub
-* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/blog/all-about-lexicon-management-institute-of-leadership-excellence) and [All About PIBM Pune](/blog/all-about-pibm-pune).
+* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence) and [All About PIBM Pune](/blog/all-about-pibm-pune).
 
 ### 3. Bangalore Hub
-* **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/blog/all-about-xime-bangalore) and [All About JAGSoM Bangalore](/blog/all-about-jagsom-bangalore).
+* **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/colleges/xime-bangalore) and [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
 
 ---
 
@@ -111,6 +111,6 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
