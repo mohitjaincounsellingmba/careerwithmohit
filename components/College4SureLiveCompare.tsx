@@ -189,25 +189,25 @@ export function College4SureLiveCompare() {
 
   return (
     <div
-      className="relative rounded-[28px] sm:rounded-[40px] bg-white border-[1.5px] border-[#061124]/10 p-5 sm:p-7 shadow-[0_34px_70px_-30px_rgba(6,17,36,0.3)] animate-floaty transition-all hover:shadow-[0_40px_80px_-25px_rgba(37,99,235,0.35)]"
+      className="relative rounded-[28px] sm:rounded-[40px] bg-[#0C1222]/95 backdrop-blur-2xl border-[1.5px] border-white/15 p-5 sm:p-7 shadow-[0_30px_70px_-20px_rgba(0,240,255,0.25)] animate-floaty transition-all hover:shadow-[0_35px_80px_-15px_rgba(255,0,122,0.3)] hover:border-white/30"
       onMouseEnter={() => setIsPaused(true)}
       onMouseLeave={() => setIsPaused(false)}
     >
-      {/* Playful Marker Stickers */}
-      <span className="absolute -top-3.5 -left-3.5 z-20 px-3.5 py-1.5 rounded-full bg-[#F59E0B] text-[#061124] font-mono text-[11px] font-extrabold uppercase tracking-wider shadow-md -rotate-6 animate-wig border border-[#061124]/15">
-        ⚡ LIVE COMPARE
+      {/* Playful Gen Z Neon Marker Stickers */}
+      <span className="absolute -top-3.5 -left-3.5 z-20 px-3.5 py-1.5 rounded-full bg-[#FFD600] text-slate-950 font-mono text-[11px] font-black uppercase tracking-wider shadow-[0_0_20px_rgba(255,214,0,0.6)] -rotate-6 animate-wig border border-black/20">
+        ⚡ LIVE RADAR
       </span>
-      <span className="absolute -bottom-3 -right-2.5 z-20 px-3.5 py-1.5 rounded-full bg-[#10B981] text-white font-mono text-[11px] font-extrabold uppercase tracking-wider shadow-md rotate-6 animate-wig border border-[#061124]/15">
+      <span className="absolute -bottom-3 -right-2.5 z-20 px-3.5 py-1.5 rounded-full bg-[#00FF88] text-slate-950 font-mono text-[11px] font-black uppercase tracking-wider shadow-[0_0_20px_rgba(0,255,136,0.6)] rotate-6 animate-wig border border-black/20">
         FREE 1-ON-1 →
       </span>
 
       {/* Header bar */}
-      <div className="flex items-center justify-between gap-2 mb-4 pb-3 border-b border-[#061124]/10">
-        <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-[#475569] font-semibold flex items-center gap-1.5">
-          <span className="w-2 h-2 rounded-full bg-[#2563EB] animate-pulse" />
-          Side by side
+      <div className="flex items-center justify-between gap-2 mb-4 pb-3 border-b border-white/10">
+        <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-cyan-300 font-bold flex items-center gap-2">
+          <span className="w-2.5 h-2.5 rounded-full bg-[#00F0FF] shadow-[0_0_8px_#00F0FF] animate-pulse" />
+          Side by side HUD
         </span>
-        <span className="font-mono text-[11px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full bg-[#EFF6FF] text-[#2563EB] border border-[#2563EB]/20">
+        <span className="font-mono text-[11px] font-black uppercase tracking-wider px-3 py-1 rounded-full bg-white/[0.08] text-[#00F0FF] border border-[#00F0FF]/30 shadow-[0_0_12px_rgba(0,240,255,0.2)]">
           {current.stream}
         </span>
       </div>
@@ -221,24 +221,24 @@ export function College4SureLiveCompare() {
         {/* College VS Row */}
         <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-2 sm:gap-3 mb-5">
           <div className="min-w-0">
-            <h4 className="font-display font-extrabold text-sm sm:text-base text-[#061124] leading-tight line-clamp-2">
+            <h4 className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
               {current.collegeA.name}
             </h4>
-            <div className="font-mono text-[10px] text-[#475569] mt-1 line-clamp-1">
+            <div className="font-mono text-[10px] text-slate-400 mt-1 line-clamp-1">
               {current.collegeA.meta}
             </div>
           </div>
 
-          {/* Rotating VS Badge */}
-          <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-[#061124] text-[#F8FAFC] flex items-center justify-center font-display font-extrabold text-xs shadow-md border-2 border-white animate-spinv shrink-0">
+          {/* Rotating VS Badge with Holographic Neon Gradient */}
+          <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-gradient-to-tr from-[#FF007A] to-[#00F0FF] text-white flex items-center justify-center font-display font-black text-xs shadow-[0_0_20px_rgba(255,0,122,0.6)] border-2 border-white/40 animate-spinv shrink-0">
             VS
           </div>
 
           <div className="min-w-0 text-right">
-            <h4 className="font-display font-extrabold text-sm sm:text-base text-[#061124] leading-tight line-clamp-2">
+            <h4 className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
               {current.collegeB.name}
             </h4>
-            <div className="font-mono text-[10px] text-[#475569] mt-1 line-clamp-1">
+            <div className="font-mono text-[10px] text-slate-400 mt-1 line-clamp-1">
               {current.collegeB.meta}
             </div>
           </div>
@@ -248,18 +248,18 @@ export function College4SureLiveCompare() {
         <div className="space-y-3.5 mb-5">
           {/* 1. Placement Rate */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-[#475569] mb-1.5">
-              <span className="font-bold text-[#061124]">{current.collegeA.placementRate}</span>
-              <span className="text-[10px] text-[#475569]/90 font-medium">Placement rate</span>
-              <span className="font-bold text-[#061124]">{current.collegeB.placementRate}</span>
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+              <span className="font-black text-[#00F0FF]">{current.collegeA.placementRate}</span>
+              <span className="text-[10px] text-slate-400 font-medium">Placement rate</span>
+              <span className="font-black text-[#00FF88]">{current.collegeB.placementRate}</span>
             </div>
-            <div className="h-2.5 rounded-full bg-[#061124]/6 flex overflow-hidden gap-0.5 p-0.5">
+            <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#2563EB] to-[#0EA5E9] transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00F0FF] to-[#3B82F6] shadow-[0_0_10px_rgba(0,240,255,0.5)] transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeA.placementPct / 2}%` }}
               />
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#10B981] to-[#F59E0B] ml-auto transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00FF88] to-[#FFD600] shadow-[0_0_10px_rgba(0,255,136,0.5)] ml-auto transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeB.placementPct / 2}%` }}
               />
             </div>
@@ -267,18 +267,18 @@ export function College4SureLiveCompare() {
 
           {/* 2. Highest Package */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-[#475569] mb-1.5">
-              <span className="font-bold text-[#061124]">{current.collegeA.highestPackage}</span>
-              <span className="text-[10px] text-[#475569]/90 font-medium">Highest package</span>
-              <span className="font-bold text-[#061124]">{current.collegeB.highestPackage}</span>
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+              <span className="font-black text-[#00F0FF]">{current.collegeA.highestPackage}</span>
+              <span className="text-[10px] text-slate-400 font-medium">Highest package</span>
+              <span className="font-black text-[#00FF88]">{current.collegeB.highestPackage}</span>
             </div>
-            <div className="h-2.5 rounded-full bg-[#061124]/6 flex overflow-hidden gap-0.5 p-0.5">
+            <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#2563EB] to-[#0EA5E9] transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00F0FF] to-[#3B82F6] shadow-[0_0_10px_rgba(0,240,255,0.5)] transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeA.highestPct / 2}%` }}
               />
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#10B981] to-[#F59E0B] ml-auto transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00FF88] to-[#FFD600] shadow-[0_0_10px_rgba(0,255,136,0.5)] ml-auto transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeB.highestPct / 2}%` }}
               />
             </div>
@@ -286,18 +286,18 @@ export function College4SureLiveCompare() {
 
           {/* 3. Total Fees */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-[#475569] mb-1.5">
-              <span className="font-bold text-[#061124]">{current.collegeA.totalFees}</span>
-              <span className="text-[10px] text-[#475569]/90 font-medium">Total fees</span>
-              <span className="font-bold text-[#061124]">{current.collegeB.totalFees}</span>
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+              <span className="font-black text-[#00F0FF]">{current.collegeA.totalFees}</span>
+              <span className="text-[10px] text-slate-400 font-medium">Total fees</span>
+              <span className="font-black text-[#00FF88]">{current.collegeB.totalFees}</span>
             </div>
-            <div className="h-2.5 rounded-full bg-[#061124]/6 flex overflow-hidden gap-0.5 p-0.5">
+            <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#2563EB] to-[#0EA5E9] transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00F0FF] to-[#3B82F6] shadow-[0_0_10px_rgba(0,240,255,0.5)] transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeA.feesPct / 2}%` }}
               />
               <div
-                className="h-full rounded-full bg-gradient-to-r from-[#10B981] to-[#F59E0B] ml-auto transition-all duration-700 ease-out"
+                className="h-full rounded-full bg-gradient-to-r from-[#00FF88] to-[#FFD600] shadow-[0_0_10px_rgba(0,255,136,0.5)] ml-auto transition-all duration-700 ease-out"
                 style={{ width: `${current.collegeB.feesPct / 2}%` }}
               />
             </div>
@@ -306,10 +306,10 @@ export function College4SureLiveCompare() {
       </div>
 
       {/* Footer bar with Stream Pips and Compare Link */}
-      <div className="flex items-center justify-between gap-3 pt-3.5 border-t border-dashed border-[#061124]/15">
+      <div className="flex items-center justify-between gap-3 pt-3.5 border-t border-dashed border-white/15">
         <Link
           href="/colleges"
-          className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-[#061124] hover:text-[#2563EB] transition-colors py-1 px-3 rounded-full border border-[#061124]/15 hover:border-[#2563EB] bg-[#F8FAFC]"
+          className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-white hover:text-slate-950 transition-all py-1.5 px-3.5 rounded-full border border-white/20 hover:border-transparent bg-white/[0.08] hover:bg-gradient-to-r hover:from-[#00F0FF] hover:to-[#00FF88] shadow-sm hover:shadow-[0_0_15px_rgba(0,240,255,0.5)]"
         >
           <span>Compare any two</span>
           <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
@@ -323,10 +323,10 @@ export function College4SureLiveCompare() {
               type="button"
               onClick={() => handleSelectStream(idx)}
               aria-label={`Show ${pair.stream}`}
-              className={`h-2 rounded-full transition-all ${
+              className={`h-2 rounded-full transition-all cursor-pointer ${
                 idx === currentIndex
-                  ? "w-6 bg-[#2563EB]"
-                  : "w-2 bg-[#061124]/20 hover:bg-[#061124]/40"
+                  ? "w-6 bg-[#00F0FF] shadow-[0_0_10px_#00F0FF]"
+                  : "w-2 bg-white/20 hover:bg-white/40"
               }`}
             />
           ))}

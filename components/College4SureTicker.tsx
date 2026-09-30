@@ -14,7 +14,7 @@ export function College4SureTicker() {
   ];
 
   return (
-    <div className="bg-[#061124] text-white border-b border-white/10 overflow-hidden relative z-40">
+    <div className="bg-[#050811] text-white border-b border-white/10 overflow-hidden relative z-40">
       <div className="flex w-max animate-ticker py-2 text-xs font-mono tracking-wider">
         {/* First track */}
         <div className="flex items-center gap-8 shrink-0 pr-8">
@@ -22,15 +22,15 @@ export function College4SureTicker() {
             <Link
               key={`a-${idx}`}
               href={item.href}
-              className="inline-flex items-center gap-2 text-white/80 hover:text-[#F59E0B] transition-colors whitespace-nowrap"
+              className="inline-flex items-center gap-2 text-slate-300 hover:text-[#00F0FF] transition-colors whitespace-nowrap"
             >
-              <span className="dotlive" />
+              <span className="w-2 h-2 rounded-full bg-[#00FF88] shadow-[0_0_8px_#00FF88]" />
               <span>{item.title}</span>
             </Link>
           ))}
           <a
             href="tel:+919560020771"
-            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#2563EB] hover:bg-[#10B981] text-white font-bold transition-colors whitespace-nowrap"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-gradient-to-r from-[#00F0FF] to-[#6366F1] hover:from-[#00FF88] hover:to-[#00F0FF] text-slate-950 font-black shadow-[0_0_12px_rgba(0,240,255,0.4)] transition-all whitespace-nowrap"
           >
             <Phone className="w-3 h-3" />
             <span>Admissions Helpline +91 95600 20771</span>
@@ -43,15 +43,15 @@ export function College4SureTicker() {
             <Link
               key={`b-${idx}`}
               href={item.href}
-              className="inline-flex items-center gap-2 text-white/80 hover:text-[#F59E0B] transition-colors whitespace-nowrap"
+              className="inline-flex items-center gap-2 text-slate-300 hover:text-[#00F0FF] transition-colors whitespace-nowrap"
             >
-              <span className="dotlive" />
+              <span className="w-2 h-2 rounded-full bg-[#00FF88] shadow-[0_0_8px_#00FF88]" />
               <span>{item.title}</span>
             </Link>
           ))}
           <a
             href="tel:+919560020771"
-            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#2563EB] hover:bg-[#10B981] text-white font-bold transition-colors whitespace-nowrap"
+            className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-gradient-to-r from-[#00F0FF] to-[#6366F1] hover:from-[#00FF88] hover:to-[#00F0FF] text-slate-950 font-black shadow-[0_0_12px_rgba(0,240,255,0.4)] transition-all whitespace-nowrap"
           >
             <Phone className="w-3 h-3" />
             <span>Admissions Helpline +91 95600 20771</span>

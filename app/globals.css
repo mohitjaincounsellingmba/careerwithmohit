@@ -1,33 +1,33 @@
 @import "tailwindcss";
 
 :root {
-  --background: #FFFFFF;
-  --foreground: #061124;
-  --primary: #2563EB;
-  --secondary: #10B981;
-  --accent: #F59E0B;
-  --muted: #F8FAFC;
-  --border: rgba(6, 17, 36, 0.09);
-  --card-bg: #ffffff;
+  --background: #070A14;
+  --foreground: #F8FAFC;
+  --primary: #00F0FF;
+  --secondary: #00FF88;
+  --accent: #FF007A;
+  --muted: #0D1326;
+  --border: rgba(255, 255, 255, 0.12);
+  --card-bg: #0C1222;
   --header-bg: #ffffff;
-  --primary-brand: #2563EB;
+  --primary-brand: #6366F1;
 
-  /* CareerWithMohit Executive Royal Sapphire & Amber Gold Palette */
-  --ink: #061124;
-  --ink-2: #475569;
-  --paper: #F8FAFC;
-  --card: #FFFFFF;
-  --line: rgba(6, 17, 36, 0.09);
-  --line-2: rgba(6, 17, 36, 0.05);
-  --shadow: 0 18px 44px -22px rgba(6, 17, 36, 0.18);
-  --shadow-lg: 0 34px 70px -30px rgba(6, 17, 36, 0.28);
+  /* CareerWithMohit Gen Z Cyber-Dopamine & Dark Noir Neon Palette */
+  --ink: #FFFFFF;
+  --ink-2: #94A3B8;
+  --paper: #070A14;
+  --card: #0D1326;
+  --line: rgba(255, 255, 255, 0.12);
+  --line-2: rgba(255, 255, 255, 0.06);
+  --shadow: 0 18px 44px -22px rgba(0, 240, 255, 0.25);
+  --shadow-lg: 0 34px 70px -30px rgba(255, 0, 122, 0.35);
 
-  --violet: #2563EB; /* Royal Sapphire Blue */
-  --pink: #E11D48;   /* Crimson Ruby */
-  --yellow: #F59E0B; /* Radiant Amber Gold */
-  --mint: #10B981;   /* Emerald Jade */
-  --sky: #0EA5E9;    /* Electric Cyan Teal */
-  --coral: #EA580C;  /* Warm Sunset Orange */
+  --violet: #8B5CF6; /* Ultraviolet */
+  --pink: #FF007A;   /* Neon Magenta / Hot Punch */
+  --yellow: #FFD600; /* Electric Lemon / Neon Gold */
+  --mint: #00FF88;   /* Acid Lime / Neon Mint */
+  --sky: #00F0FF;    /* Cyber Cyan */
+  --coral: #FF5E3A;  /* Electric Sunset */
 
   --r-s: 12px;
   --r-m: 18px;
