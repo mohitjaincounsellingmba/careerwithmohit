@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Outfit } from "next/font/google";
+import { Outfit, Bricolage_Grotesque, DM_Sans, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -15,6 +15,29 @@ const outfit = Outfit({
   preload: true,
   fallback: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "sans-serif"],
   adjustFontFallback: true,
+});
+
+const bricolage = Bricolage_Grotesque({
+  variable: "--font-bricolage",
+  subsets: ["latin"],
+  display: "swap",
+  preload: true,
+  fallback: ["system-ui", "sans-serif"],
+});
+
+const dmSans = DM_Sans({
+  variable: "--font-dm-sans",
+  subsets: ["latin"],
+  display: "swap",
+  preload: true,
+  fallback: ["system-ui", "sans-serif"],
+});
+
+const jetbrainsMono = JetBrains_Mono({
+  variable: "--font-jetbrains-mono",
+  subsets: ["latin"],
+  display: "swap",
+  fallback: ["monospace"],
 });
 
 export const viewport: Viewport = {
@@ -319,7 +342,7 @@ export default function RootLayout({
         <JsonLd data={speakableData} />
       </head>
       <body
-        className={`${outfit.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
+        className={`${outfit.variable} ${bricolage.variable} ${dmSans.variable} ${jetbrainsMono.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
         <AnalyticsTracker />
         <DeferredAnalytics />
