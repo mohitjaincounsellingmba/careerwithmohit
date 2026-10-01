@@ -1,14 +1,10 @@
 "use client";
 
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import {
   MBA_FORM_COLLEGES,
-  CURATED_COMBOS,
-  PROMO_CODES,
-  MbaFormCollege,
-  CuratedCombo,
-  PromoCode
+  MbaFormCollege
 } from '@/data/mbaFormDiscountsData';
 import {
   Sparkles,
@@ -31,37 +27,34 @@ import {
   SlidersHorizontal,
   Flame,
   GraduationCap,
-  Layers,
-  TrendingDown,
+  Percent,
   ExternalLink,
-  Info
+  Info,
+  Copy,
+  CheckCheck,
+  Ticket,
+  LayoutGrid,
+  ListFilter
 } from 'lucide-react';
 
 export default function MbaFormDiscountCalculator() {
-  // Selected colleges state (by ID)
-  const [selectedIds, setSelectedIds] = useState<string[]>([
-    'ndim-delhi',
-    'fostiima-business-school',
-    'fiib-delhi'
-  ]);
+  // Active target college for "Get Coupon Code" modal trigger
+  const [targetCollege, setTargetCollege] = useState<MbaFormCollege | null>(null);
 
   // Filter & Search states
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedRegion, setSelectedRegion] = useState<string>('All');
   const [selectedCity, setSelectedCity] = useState<string>('All');
-  const [sortBy, setSortBy] = useState<string>('discount'); // 'discount', 'fee-low', 'savings', 'alpha'
-  const [filterWaiverOnly, setFilterWaiverOnly] = useState<boolean>(false);
-
-  // Promo code state
-  const [promoInput, setPromoInput] = useState('');
-  const [appliedPromo, setAppliedPromo] = useState<PromoCode | null>(null);
-  const [promoError, setPromoError] = useState('');
-  const [promoSuccess, setPromoSuccess] = useState('');
+  const [sortBy, setSortBy] = useState<string>('discount'); // 'discount', 'fee-low', 'savings', 'placement', 'alpha'
+  const [quickFilter, setQuickFilter] = useState<'all' | 'popular' | 'high-discount' | 'budget' | 'top-placement'>('all');
+  const [viewMode, setViewMode] = useState<'grid' | 'table'>('grid');
 
   // Modal & Lead state
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [copiedCode, setCopiedCode] = useState<string | null>(null);
+
   const [formData, setFormData] = useState({
     name: '',
     phone: '',
@@ -72,13 +65,10 @@ export default function MbaFormDiscountCalculator() {
     intake: '2027-2029'
   });
 
-  // Mobile drawer collapse state
-  const [isDrawerExpanded, setIsDrawerExpanded] = useState(false);
-
   // Active FAQ accordion state
   const [openFaq, setOpenFaq] = useState<number | null>(0);
 
-  // Filtered colleges calculation
+  // Filtered colleges calculation across all 55 colleges
   const filteredColleges = useMemo(() => {
     return MBA_FORM_COLLEGES.filter((college) => {
       // Region filter
@@ -89,10 +79,21 @@ export default function MbaFormDiscountCalculator() {
       if (selectedCity !== 'All' && college.city !== selectedCity) {
         return false;
       }
-      // Waiver filter (colleges offering >45% discount)
-      if (filterWaiverOnly && college.discountPercent < 45) {
+      // Quick filters
+      if (quickFilter === 'popular' && !college.popular) {
         return false;
       }
+      if (quickFilter === 'high-discount' && college.discountPercent < 55) {
+        return false;
+      }
+      if (quickFilter === 'budget' && college.discountedFee > 500) {
+        return false;
+      }
+      if (quickFilter === 'top-placement') {
+        const avgNum = parseFloat(college.avgPlacement.replace(/[^0-9.]/g, '')) || 0;
+        if (avgNum < 9.0) return false;
+      }
+
       // Search query
       if (searchQuery.trim() !== '') {
         const q = searchQuery.toLowerCase();
@@ -102,7 +103,8 @@ export default function MbaFormDiscountCalculator() {
         const matchesCity = college.city.toLowerCase().includes(q);
         const matchesPrograms = college.programs.some(p => p.toLowerCase().includes(q));
         const matchesRecruiters = college.topRecruiters?.some(r => r.toLowerCase().includes(q)) || false;
-        if (!matchesName && !matchesShort && !matchesLoc && !matchesCity && !matchesPrograms && !matchesRecruiters) {
+        const matchesAccreditation = college.accreditation.toLowerCase().includes(q);
+        if (!matchesName && !matchesShort && !matchesLoc && !matchesCity && !matchesPrograms && !matchesRecruiters && !matchesAccreditation) {
           return false;
         }
       }
@@ -126,141 +128,68 @@ export default function MbaFormDiscountCalculator() {
       }
       return 0;
     });
-  }, [searchQuery, selectedRegion, selectedCity, sortBy, filterWaiverOnly]);
+  }, [searchQuery, selectedRegion, selectedCity, quickFilter, sortBy]);
 
-  // Selected colleges objects
-  const selectedColleges = useMemo(() => {
-    return MBA_FORM_COLLEGES.filter(c => selectedIds.includes(c.id));
-  }, [selectedIds]);
-
-  // Cost calculation
-  const calculation = useMemo(() => {
-    const totalOfficial = selectedColleges.reduce((sum, c) => sum + c.officialFee, 0);
-    const totalBaseDiscounted = selectedColleges.reduce((sum, c) => sum + c.discountedFee, 0);
-    let totalDiscounted = totalBaseDiscounted;
-    let extraDiscount = 0;
-
-    // Apply promo code if valid
-    if (appliedPromo && selectedColleges.length >= appliedPromo.minColleges) {
-      if (appliedPromo.discountAmount) {
-        extraDiscount += appliedPromo.discountAmount;
-      }
-      if (appliedPromo.discountPercent) {
-        extraDiscount += Math.round((totalBaseDiscounted * appliedPromo.discountPercent) / 100);
-      }
-      totalDiscounted = Math.max(0, totalBaseDiscounted - extraDiscount);
-    }
-
-    const totalSavings = totalOfficial - totalDiscounted;
-    const overallSavingsPercent = totalOfficial > 0 ? Math.round((totalSavings / totalOfficial) * 100) : 0;
-
-    return {
-      count: selectedColleges.length,
-      totalOfficial,
-      totalDiscounted,
-      totalSavings,
-      overallSavingsPercent,
-      extraDiscount
-    };
-  }, [selectedColleges, appliedPromo]);
-
-  // Toggle college selection
-  const toggleCollege = (id: string) => {
-    setSelectedIds((prev) => {
-      if (prev.includes(id)) {
-        return prev.filter(item => item !== id);
-      } else {
-        return [...prev, id];
-      }
-    });
+  // Helper to generate college voucher code
+  const getCollegeCode = (college: MbaFormCollege) => {
+    if (college.code) return college.code;
+    const clean = college.shortName.replace(/[^A-Z0-9]/gi, '').toUpperCase().slice(0, 7);
+    return `CWM-${clean}${college.discountPercent || 50}`;
   };
 
-  // Load curated combo
-  const loadCombo = (combo: CuratedCombo) => {
-    setSelectedIds(combo.collegeIds);
-    // Smooth scroll to builder
-    const el = document.getElementById('combo-builder-grid');
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // Open modal for specific college
+  const handleOpenGetCodeModal = (college: MbaFormCollege) => {
+    setTargetCollege(college);
+    setIsSubmitted(false);
+    setCopiedCode(null);
+    setIsModalOpen(true);
+  };
+
+  // Copy code to clipboard
+  const handleCopyCode = (code: string) => {
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(code);
+      setCopiedCode(code);
+      setTimeout(() => setCopiedCode(null), 3000);
     }
   };
 
-  // Select all currently filtered colleges
-  const selectAllFiltered = () => {
-    const filteredIds = filteredColleges.map(c => c.id);
-    setSelectedIds(Array.from(new Set([...selectedIds, ...filteredIds])));
-  };
-
-  // Clear all selections
-  const clearSelection = () => {
-    setSelectedIds([]);
-  };
-
-  // Apply promo code handler
-  const handleApplyPromo = (e: React.FormEvent) => {
-    e.preventDefault();
-    setPromoError('');
-    setPromoSuccess('');
-
-    const cleanCode = promoInput.trim().toUpperCase();
-    if (!cleanCode) return;
-
-    const found = PROMO_CODES.find(p => p.code === cleanCode);
-    if (!found) {
-      setPromoError('Invalid coupon code. Try MOHIT2027, EARLYBIRD, or COMBO500.');
-      return;
-    }
-
-    if (selectedColleges.length < found.minColleges) {
-      setPromoError(`Code ${found.code} requires at least ${found.minColleges} colleges in your combo.`);
-      return;
-    }
-
-    setAppliedPromo(found);
-    setPromoSuccess(`🎉 Promo applied! ${found.description}`);
-  };
-
-  // Remove applied promo
-  const removePromo = () => {
-    setAppliedPromo(null);
-    setPromoSuccess('');
-    setPromoError('');
-    setPromoInput('');
-  };
-
-  // WhatsApp Message Generator
-  const generateWhatsAppUrl = () => {
-    const collegeNames = selectedColleges.map((c, i) => `${i + 1}. ${c.shortName} (Fee: ₹${c.discountedFee})`).join('%0A');
-    const msg = `Hi Mohit Sir, I have created my MBA/PGDM 2027 Application Form Combo on CareerWithMohit:%0A%0A*Selected Colleges (${calculation.count}):*%0A${collegeNames}%0A%0A*Total Official Fee:* ₹${calculation.totalOfficial}%0A*Discounted Combo Fee:* ₹${calculation.totalDiscounted}%0A*My Total Savings:* ₹${calculation.totalSavings} (${calculation.overallSavingsPercent}%25 OFF)%0A${appliedPromo ? `*Applied Code:* ${appliedPromo.code}%0A` : ''}%0APlease share the official discounted application form links and voucher codes for these colleges.`;
+  // Generate WhatsApp message URL for the specific college
+  const generateWhatsAppUrl = (college: MbaFormCollege) => {
+    const code = getCollegeCode(college);
+    const msg = `Hi Mohit Sir, I want to apply for *${college.name}* with the discounted application fee voucher:%0A%0A*Applicant Name:* ${formData.name || 'Candidate'}%0A*WhatsApp:* ${formData.phone || 'N/A'}%0A*City:* ${formData.city || 'N/A'}%0A*Target Exam / %ile:* ${formData.score || formData.exam}%0A%0A*College:* ${college.name}%0A*Official Fee:* ₹${college.officialFee}%0A*Discounted Fee:* ₹${college.discountedFee}%0A*Instant Savings:* ₹${college.savings} (${college.discountPercent}%25 OFF)%0A*Voucher Code:* ${code}%0A%0APlease verify my code and share the direct application portal link.`;
     return `https://wa.me/919560020771?text=${msg}`;
   };
 
   // Handle lead submission
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!formData.name || !formData.phone) return;
+    if (!formData.name || !formData.phone || !targetCollege) return;
 
     setIsSubmitting(true);
     try {
+      const code = getCollegeCode(targetCollege);
+
       const payload = {
         name: formData.name,
         phone: formData.phone,
+        number: formData.phone,
         email: formData.email,
         city: formData.city,
-        category: 'mba-form-discount-combo',
-        source: 'MBA Form Combo Discount Page',
-        program: `MBA/PGDM Form Bundle (${calculation.count} Colleges)`,
-        college: selectedColleges.map(c => c.shortName).join(', '),
+        location: formData.city || 'Online',
+        category: 'mba-application-form-discount',
+        source: `Discount Code Request - ${targetCollege.name}`,
+        program: 'MBA / PGDM Admission 2027',
+        course: 'MBA / PGDM',
+        college: targetCollege.name,
+        message: `Candidate requested discount code for ${targetCollege.name}. Official fee: ₹${targetCollege.officialFee}, discounted fee: ₹${targetCollege.discountedFee}, savings: ₹${targetCollege.savings} (${targetCollege.discountPercent}% OFF), code: ${code}.`,
         details: {
-          colleges: selectedColleges.map(c => ({
-            name: c.name,
-            officialFee: c.officialFee,
-            discountedFee: c.discountedFee
-          })),
-          totalOfficial: calculation.totalOfficial,
-          totalDiscounted: calculation.totalDiscounted,
-          totalSavings: calculation.totalSavings,
-          promoCode: appliedPromo?.code || 'NONE',
+          college: targetCollege.name,
+          officialFee: targetCollege.officialFee,
+          discountedFee: targetCollege.discountedFee,
+          savings: targetCollege.savings,
+          discountPercent: targetCollege.discountPercent,
+          code,
           exam: formData.exam,
           score: formData.score,
           intake: formData.intake
@@ -276,142 +205,36 @@ export default function MbaFormDiscountCalculator() {
       setIsSubmitted(true);
     } catch (err) {
       console.error('Lead submission failed', err);
-      setIsSubmitted(true); // Still allow user to proceed to WhatsApp
+      setIsSubmitted(true); // Still reveal code to candidate
     } finally {
       setIsSubmitting(false);
     }
   };
 
   return (
-    <div className="w-full text-slate-100">
+    <div className="w-full text-white">
       
-      {/* ── 1. POPULAR CURATED COMBOS CAROUSEL ── */}
-      <section className="mb-14">
-        <div className="flex flex-col md:flex-row items-start md:items-end justify-between gap-4 mb-6">
-          <div>
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold uppercase tracking-wider mb-2">
-              <Flame className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />
-              1-Click Fast Bundles
-            </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-              Popular High-ROI Curated Combos
-            </h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">
-              Select pre-designed high-converting B-school combinations tailored by expert mentor Mohit Jain.
-            </p>
-          </div>
-          <span className="text-xs text-slate-400 bg-slate-800/80 px-3 py-1.5 rounded-lg border border-slate-700/60 shrink-0">
-            Click any combo to auto-load in builder
-          </span>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-          {CURATED_COMBOS.map((combo) => {
-            const comboColleges = MBA_FORM_COLLEGES.filter(c => combo.collegeIds.includes(c.id));
-            const officialSum = comboColleges.reduce((s, c) => s + c.officialFee, 0);
-            const discountedSum = comboColleges.reduce((s, c) => s + c.discountedFee, 0);
-            const savingsSum = officialSum - discountedSum;
-            const savingsPct = Math.round((savingsSum / officialSum) * 100);
-            const isCurrentActive = combo.collegeIds.every(id => selectedIds.includes(id)) && selectedIds.length === combo.collegeIds.length;
-
-            return (
-              <div
-                key={combo.id}
-                onClick={() => loadCombo(combo)}
-                className={`group cursor-pointer relative rounded-2xl p-5 border transition-all duration-300 flex flex-col justify-between ${
-                  isCurrentActive
-                    ? 'bg-gradient-to-b from-blue-900/60 to-indigo-950/80 border-blue-400 shadow-xl shadow-blue-950/50 scale-[1.02]'
-                    : 'bg-slate-900/80 hover:bg-slate-800/90 border-slate-800 hover:border-slate-600 hover:shadow-lg'
-                }`}
-              >
-                <div>
-                  <div className="flex items-center justify-between gap-2 mb-3">
-                    <span className="text-[11px] font-bold text-amber-300 bg-amber-500/15 border border-amber-500/30 px-2.5 py-0.5 rounded-md">
-                      {combo.tag}
-                    </span>
-                    <span className="text-[11px] text-slate-400 font-medium bg-slate-800 px-2 py-0.5 rounded">
-                      {combo.region}
-                    </span>
-                  </div>
-
-                  <h3 className="text-base font-bold text-white group-hover:text-blue-300 transition-colors">
-                    {combo.title}
-                  </h3>
-                  <p className="text-xs text-slate-300 font-semibold mt-1 line-clamp-2">
-                    {combo.subtitle}
-                  </p>
-
-                  <div className="mt-4 pt-3 border-t border-slate-800/80 flex items-center justify-between">
-                    <div>
-                      <div className="text-[11px] text-slate-400 line-through">
-                        Official: ₹{officialSum.toLocaleString()}
-                      </div>
-                      <div className="text-lg font-black text-emerald-400">
-                        ₹{discountedSum.toLocaleString()}
-                      </div>
-                    </div>
-                    <div className="text-right">
-                      <span className="inline-block bg-emerald-500/15 border border-emerald-500/30 text-emerald-300 text-xs font-bold px-2 py-1 rounded-md">
-                        Save ₹{savingsSum.toLocaleString()} ({savingsPct}%)
-                      </span>
-                    </div>
-                  </div>
-
-                  <div className="mt-3 text-[11px] text-blue-200/90 bg-blue-950/60 p-2 rounded-lg border border-blue-800/40 flex items-start gap-1.5">
-                    <Gift className="w-3.5 h-3.5 text-amber-300 shrink-0 mt-0.5" />
-                    <span>{combo.bonusPerk}</span>
-                  </div>
-                </div>
-
-                <div className="mt-4 pt-3">
-                  <button
-                    type="button"
-                    className={`w-full py-2 px-3 rounded-xl text-xs font-bold flex items-center justify-center gap-1.5 transition-all ${
-                      isCurrentActive
-                        ? 'bg-emerald-500 text-white shadow-md'
-                        : 'bg-blue-600/20 text-blue-300 group-hover:bg-blue-600 group-hover:text-white'
-                    }`}
-                  >
-                    {isCurrentActive ? (
-                      <>
-                        <Check className="w-3.5 h-3.5" />
-                        <span>Combo Applied</span>
-                      </>
-                    ) : (
-                      <>
-                        <span>Apply This Combo</span>
-                        <ArrowRight className="w-3.5 h-3.5" />
-                      </>
-                    )}
-                  </button>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      </section>
-
-      {/* ── 2. INTERACTIVE BUILDER CONTROLS & SEARCH ── */}
-      <section id="combo-builder-grid" className="scroll-mt-24 mb-8">
-        <div className="bg-slate-900/90 border border-slate-800 rounded-2xl p-4 sm:p-6 backdrop-blur-xl shadow-xl space-y-5">
+      {/* ── 1. SEARCH, FILTER & LOCATION SELECTOR ── */}
+      <section id="colleges-catalogue" className="scroll-mt-24 mb-10">
+        <div className="bg-[#061124]/90 border border-white/15 rounded-[28px] sm:rounded-[36px] p-5 sm:p-7 backdrop-blur-2xl shadow-[0_34px_70px_-30px_rgba(6,17,36,0.7)] space-y-6">
           
-          {/* Top Bar: Search + Region Filter Pills */}
+          {/* Search Input + Region Selection */}
           <div className="flex flex-col lg:flex-row gap-4 items-stretch lg:items-center justify-between">
             
             {/* Search Input */}
             <div className="relative flex-1">
-              <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
               <input
                 type="text"
-                placeholder="Search from 55+ colleges by name, city, recruiter (e.g. NDIM, FOSTIIMA, FIIB, Pune, Bangalore)..."
+                placeholder="Search by college name, city, recruiter (e.g. NDIM, FOSTIIMA, FIIB, JIMS, Pune, Bangalore)..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-10 pr-10 py-3 bg-slate-950/80 border border-slate-700/80 rounded-xl text-sm text-white placeholder-slate-400 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all"
+                className="w-full pl-11 pr-10 py-3.5 bg-white/[0.05] border border-white/15 rounded-2xl text-sm text-white placeholder-slate-400 focus:outline-none focus:border-[#00FF88] focus:ring-2 focus:ring-[#00FF88]/20 transition-all shadow-inner"
               />
               {searchQuery && (
                 <button
                   onClick={() => setSearchQuery('')}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white p-1"
+                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white p-1"
                   aria-label="Clear search"
                 >
                   <X className="w-4 h-4" />
@@ -428,25 +251,51 @@ export default function MbaFormDiscountCalculator() {
                     setSelectedRegion(region);
                     setSelectedCity('All');
                   }}
-                  className={`px-3.5 py-2 rounded-xl text-xs font-bold shrink-0 transition-all ${
+                  className={`px-4 py-2.5 rounded-full font-mono text-xs font-bold shrink-0 transition-all cursor-pointer ${
                     selectedRegion === region
-                      ? 'bg-blue-600 text-white shadow-md shadow-blue-900/40'
-                      : 'bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white'
+                      ? 'bg-gradient-to-r from-[#00FF88] to-[#00F0FF] text-black shadow-[0_0_20px_rgba(0,255,136,0.3)]'
+                      : 'bg-white/[0.06] text-white/80 hover:bg-white/15 hover:text-white'
                   }`}
                 >
-                  {region} {region === 'All' ? `(55)` : ''}
+                  {region} {region === 'All' ? `(55)` : region === 'Delhi NCR' ? `(34)` : region === 'Pune' ? `(8)` : region === 'Mumbai' ? `(6)` : `(7)`}
                 </button>
               ))}
             </div>
           </div>
 
-          {/* Secondary Controls: City, Sorting, Quick Actions */}
-          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-slate-800/80 text-xs">
+          {/* Quick Filters Pill Bar */}
+          <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none text-xs">
+            <span className="font-mono text-slate-400 font-semibold text-[11px] uppercase tracking-wider shrink-0 flex items-center gap-1">
+              <Zap className="w-3.5 h-3.5 text-[#F59E0B]" /> Filter:
+            </span>
+            {[
+              { id: 'all', label: 'All 55 Colleges' },
+              { id: 'popular', label: '⭐ Most Popular' },
+              { id: 'high-discount', label: '🔥 50%+ Discount' },
+              { id: 'budget', label: '💰 Under ₹500 Fee' },
+              { id: 'top-placement', label: '🚀 Top Placement (>₹9 LPA)' }
+            ].map((f) => (
+              <button
+                key={f.id}
+                onClick={() => setQuickFilter(f.id as any)}
+                className={`px-3.5 py-1.5 rounded-full font-mono text-xs font-bold shrink-0 transition-all cursor-pointer ${
+                  quickFilter === f.id
+                    ? 'bg-[#F59E0B] text-[#061124] shadow-md shadow-amber-500/20'
+                    : 'bg-white/[0.04] border border-white/10 text-white/80 hover:border-white/20'
+                }`}
+              >
+                {f.label}
+              </button>
+            ))}
+          </div>
+
+          {/* Secondary Controls: City, Sorting, View Toggle */}
+          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-white/10 text-xs">
             
-            {/* City Sub-filters (if Delhi NCR or All) */}
+            {/* City Sub-filters */}
             <div className="flex items-center gap-2 flex-wrap">
-              <span className="text-slate-400 font-semibold flex items-center gap-1">
-                <MapPin className="w-3.5 h-3.5 text-blue-400" /> City:
+              <span className="text-slate-400 font-semibold flex items-center gap-1 font-mono">
+                <MapPin className="w-3.5 h-3.5 text-[#00F0FF]" /> City:
               </span>
               {['All', 'New Delhi', 'Greater Noida', 'Gurugram', 'Ghaziabad', 'Pune', 'Mumbai', 'Bangalore']
                 .filter(c => selectedRegion === 'All' || (selectedRegion === 'Delhi NCR' ? ['All', 'New Delhi', 'Greater Noida', 'Gurugram', 'Ghaziabad'].includes(c) : [selectedRegion, 'All'].includes(c)))
@@ -454,10 +303,10 @@ export default function MbaFormDiscountCalculator() {
                   <button
                     key={city}
                     onClick={() => setSelectedCity(city)}
-                    className={`px-2.5 py-1 rounded-lg transition-colors font-medium ${
+                    className={`px-2.5 py-1 rounded-lg transition-colors font-medium cursor-pointer ${
                       selectedCity === city
-                        ? 'bg-indigo-600 text-white'
-                        : 'bg-slate-800/60 text-slate-400 hover:bg-slate-700 hover:text-slate-200'
+                        ? 'bg-[#8B5CF6] text-white shadow-sm'
+                        : 'bg-white/[0.05] text-slate-300 hover:bg-white/10 hover:text-white'
                     }`}
                   >
                     {city}
@@ -465,40 +314,51 @@ export default function MbaFormDiscountCalculator() {
                 ))}
             </div>
 
-            {/* Sort & Quick Select Actions */}
+            {/* Sort & View Mode Actions */}
             <div className="flex items-center gap-3 ml-auto flex-wrap">
+              
+              {/* Sort Dropdown */}
               <div className="flex items-center gap-1.5">
                 <SlidersHorizontal className="w-3.5 h-3.5 text-slate-400" />
-                <label htmlFor="sort-dropdown" className="sr-only">Sort colleges</label>
                 <select
-                  id="sort-dropdown"
+                  aria-label="Sort colleges"
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value)}
-                  className="bg-slate-950 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500"
+                  className="bg-[#070A14] border border-white/15 rounded-xl px-2.5 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-[#00FF88] cursor-pointer"
                 >
                   <option value="discount">Sort: Highest Discount %</option>
                   <option value="savings">Sort: Maximum Rupee Savings</option>
                   <option value="fee-low">Sort: Lowest Discounted Fee</option>
-                  <option value="placement">Sort: Avg Placement Package</option>
+                  <option value="placement">Sort: Highest Avg Placement</option>
                   <option value="alpha">Sort: Alphabetical (A-Z)</option>
                 </select>
               </div>
 
-              <button
-                onClick={selectAllFiltered}
-                className="text-blue-400 hover:text-blue-300 font-semibold hover:underline"
-              >
-                + Select All Filtered ({filteredColleges.length})
-              </button>
-
-              {selectedIds.length > 0 && (
+              {/* View Toggle */}
+              <div className="flex items-center bg-white/[0.05] p-0.5 rounded-lg border border-white/15">
                 <button
-                  onClick={clearSelection}
-                  className="text-rose-400 hover:text-rose-300 font-semibold hover:underline"
+                  onClick={() => setViewMode('grid')}
+                  className={`p-1.5 rounded-md transition-colors ${
+                    viewMode === 'grid' ? 'bg-[#00F0FF] text-black font-bold' : 'text-slate-400 hover:text-white'
+                  }`}
+                  title="Grid View"
                 >
-                  Clear All
+                  <LayoutGrid className="w-3.5 h-3.5" />
                 </button>
-              )}
+                <button
+                  onClick={() => setViewMode('table')}
+                  className={`p-1.5 rounded-md transition-colors ${
+                    viewMode === 'table' ? 'bg-[#00F0FF] text-black font-bold' : 'text-slate-400 hover:text-white'
+                  }`}
+                  title="Table View"
+                >
+                  <ListFilter className="w-3.5 h-3.5" />
+                </button>
+              </div>
+
+              <span className="font-mono text-slate-400 text-xs">
+                Showing <strong className="text-white">{filteredColleges.length}</strong> colleges
+              </span>
             </div>
 
           </div>
@@ -506,430 +366,253 @@ export default function MbaFormDiscountCalculator() {
         </div>
       </section>
 
-      {/* ── 3. MAIN GRID & STICKY CART LAYOUT ── */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start mb-16">
-        
-        {/* Left Column: 55 Colleges Cards Grid (8 cols on desktop) */}
-        <div className="lg:col-span-8 space-y-4">
-          <div className="flex items-center justify-between text-xs text-slate-400 font-medium px-1">
-            <span>Showing <strong className="text-white">{filteredColleges.length}</strong> colleges</span>
-            <span><strong className="text-emerald-400">{selectedIds.length}</strong> selected in your custom combo</span>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {/* ── 2. MAIN 55 COLLEGES GRID / DIRECTORY ── */}
+      <section className="mb-16">
+        {viewMode === 'grid' ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredColleges.map((college) => {
-              const isSelected = selectedIds.includes(college.id);
+              const voucherCode = getCollegeCode(college);
 
               return (
                 <div
                   key={college.id}
-                  onClick={() => toggleCollege(college.id)}
-                  className={`relative rounded-2xl p-5 border transition-all duration-200 cursor-pointer flex flex-col justify-between group ${
-                    isSelected
-                      ? 'bg-gradient-to-b from-[#0f244a] to-[#0a1832] border-blue-400 shadow-lg shadow-blue-950/40 ring-1 ring-blue-400'
-                      : 'bg-slate-900/70 hover:bg-slate-800/80 border-slate-800 hover:border-slate-700'
-                  }`}
+                  className="relative rounded-[28px] p-6 border border-white/10 bg-white/[0.04] hover:bg-white/[0.07] hover:border-[#00FF88]/50 transition-all duration-300 flex flex-col justify-between group overflow-hidden backdrop-blur-xl shadow-xl hover:shadow-[0_0_35px_rgba(0,255,136,0.15)]"
                 >
-                  {/* Top Row: Location + Selection Checkbox */}
+                  
+                  {/* Top Notch: Discount Ribbon + Badges */}
                   <div>
-                    <div className="flex items-start justify-between gap-2 mb-2.5">
-                      <div className="flex items-center gap-1.5 text-xs text-slate-400 font-medium">
-                        <MapPin className="w-3.5 h-3.5 text-blue-400 shrink-0" />
-                        <span className="truncate max-w-[180px]">{college.location}</span>
+                    <div className="flex items-center justify-between gap-2 mb-3.5">
+                      {/* Luminous Discount Badge */}
+                      <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-black tracking-wide shadow-sm">
+                        <Percent className="w-3.5 h-3.5 text-[#00FF88] stroke-[3]" />
+                        <span>{college.discountPercent}% OFF</span>
                       </div>
-                      
-                      {/* Checkbox button */}
-                      <div
-                        className={`w-6 h-6 rounded-lg flex items-center justify-center transition-all shrink-0 ${
-                          isSelected
-                            ? 'bg-blue-600 text-white ring-2 ring-blue-400/40'
-                            : 'border-2 border-slate-600 bg-slate-950/50 group-hover:border-slate-400'
-                        }`}
-                      >
-                        {isSelected && <Check className="w-4 h-4 stroke-[3]" />}
-                      </div>
-                    </div>
 
-                    {/* College Title */}
-                    <h3 className="text-base font-bold text-white group-hover:text-blue-200 transition-colors leading-snug">
-                      {college.name}
-                    </h3>
-
-                    {/* Accreditation Badge & Tags */}
-                    <div className="flex flex-wrap gap-1.5 mt-2">
-                      <span className="text-[10px] font-semibold text-blue-300 bg-blue-500/10 border border-blue-500/20 px-2 py-0.5 rounded">
-                        {college.accreditation.split('·')[0].trim()}
-                      </span>
                       {college.badge && (
-                        <span className="text-[10px] font-bold text-amber-300 bg-amber-500/10 border border-amber-500/20 px-2 py-0.5 rounded">
+                        <span className="font-mono text-[10px] font-bold text-[#F59E0B] bg-[#F59E0B]/15 border border-[#F59E0B]/30 px-2.5 py-0.5 rounded-full">
                           {college.badge}
                         </span>
                       )}
                     </div>
 
-                    {/* Key Highlight */}
-                    <p className="text-xs text-slate-400 mt-2.5 line-clamp-2 leading-relaxed">
+                    {/* City Location */}
+                    <div className="flex items-center gap-1.5 text-xs text-slate-400 font-medium mb-1.5 font-mono">
+                      <MapPin className="w-3.5 h-3.5 text-[#00F0FF] shrink-0" />
+                      <span className="truncate">{college.location}</span>
+                    </div>
+
+                    {/* College Name */}
+                    <h3 className="font-display text-lg font-extrabold text-white group-hover:text-cyan-200 transition-colors leading-snug">
+                      {college.name}
+                    </h3>
+
+                    {/* Accreditation Tag */}
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="font-mono text-[10px] font-semibold text-cyan-300 bg-cyan-500/10 border border-cyan-500/20 px-2 py-0.5 rounded-md">
+                        {college.accreditation.split('·')[0].trim()}
+                      </span>
+                      {college.grade && (
+                        <span className="font-mono text-[10px] font-semibold text-purple-300 bg-purple-500/10 border border-purple-500/20 px-2 py-0.5 rounded-md">
+                          {college.grade}
+                        </span>
+                      )}
+                    </div>
+
+                    {/* Highlight */}
+                    <p className="text-xs text-slate-300 mt-2.5 line-clamp-2 leading-relaxed">
                       {college.highlight}
                     </p>
 
                     {/* Placement Metrics */}
-                    <div className="mt-3.5 grid grid-cols-2 gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-slate-800/80 text-xs">
+                    <div className="mt-4 grid grid-cols-2 gap-2 bg-black/40 p-3 rounded-2xl border border-white/10 text-xs">
                       <div>
-                        <span className="text-[10px] uppercase tracking-wider text-slate-500 block font-semibold">Avg Placement</span>
-                        <span className="text-slate-200 font-bold">{college.avgPlacement}</span>
+                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-400 block font-semibold">Avg CTC</span>
+                        <span className="text-slate-100 font-bold">{college.avgPlacement}</span>
                       </div>
                       <div>
-                        <span className="text-[10px] uppercase tracking-wider text-slate-500 block font-semibold">Highest Package</span>
-                        <span className="text-emerald-400 font-bold">{college.highestPlacement}</span>
+                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-400 block font-semibold">Highest Package</span>
+                        <span className="text-[#00FF88] font-bold">{college.highestPlacement}</span>
                       </div>
                     </div>
                   </div>
 
-                  {/* Bottom Row: Pricing Breakdown & Selection CTA */}
-                  <div className="mt-4 pt-3.5 border-t border-slate-800/80 flex items-center justify-between">
-                    <div>
-                      <div className="text-xs text-slate-400 flex items-center gap-1.5">
-                        <span className="line-through">₹{college.officialFee.toLocaleString()}</span>
-                        <span className="text-[10px] font-bold text-rose-400 bg-rose-500/10 px-1.5 py-0.2 rounded">
-                          {college.discountPercent}% OFF
+                  {/* Pricing Ticket Cutout & Action Button */}
+                  <div className="mt-5 pt-4 border-t border-dashed border-white/15 space-y-3.5">
+                    
+                    {/* Cost Breakdown */}
+                    <div className="flex items-center justify-between">
+                      <div>
+                        <div className="text-[11px] text-slate-400 flex items-center gap-1.5 font-mono">
+                          <span className="line-through text-slate-400">Official: ₹{college.officialFee.toLocaleString()}</span>
+                          <span className="text-[#00FF88] font-bold bg-[#00FF88]/10 px-1.5 py-0.5 rounded text-[10px]">
+                            Save ₹{college.savings.toLocaleString()}
+                          </span>
+                        </div>
+                        <div className="font-display text-xl font-black text-white flex items-baseline gap-1 mt-0.5">
+                          <span className="text-[#00FF88]">₹{college.discountedFee.toLocaleString()}</span>
+                          <span className="text-[10px] text-slate-400 font-normal">application fee</span>
+                        </div>
+                      </div>
+
+                      <div className="text-right">
+                        <span className="font-mono text-[10px] text-slate-400 uppercase tracking-wider block">Voucher Code</span>
+                        <span className="font-mono text-[11px] font-bold text-[#00FF88] bg-[#00FF88]/10 px-2 py-0.5 rounded border border-[#00FF88]/25 inline-flex items-center gap-1">
+                          🔒 Locked Code
                         </span>
                       </div>
-                      <div className="text-lg font-extrabold text-white flex items-baseline gap-1">
-                        <span className="text-emerald-400">₹{college.discountedFee.toLocaleString()}</span>
-                        <span className="text-[10px] text-slate-400 font-normal">combo rate</span>
-                      </div>
                     </div>
 
+                    {/* Primary Button: GET COUPON CODE */}
                     <button
                       type="button"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        toggleCollege(college.id);
-                      }}
-                      className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all flex items-center gap-1.5 ${
-                        isSelected
-                          ? 'bg-emerald-500 hover:bg-emerald-600 text-white shadow-md shadow-emerald-950/30'
-                          : 'bg-blue-600 hover:bg-blue-500 text-white'
-                      }`}
+                      onClick={() => handleOpenGetCodeModal(college)}
+                      className="w-full py-3 px-4 rounded-xl bg-gradient-to-r from-[#00FF88] via-[#00F0FF] to-[#00FF88] hover:brightness-110 active:scale-[0.98] text-black font-display font-black text-xs sm:text-sm transition-all shadow-[0_0_20px_rgba(0,255,136,0.3)] flex items-center justify-center gap-2 cursor-pointer"
                     >
-                      {isSelected ? (
-                        <>
-                          <Check className="w-3.5 h-3.5" />
-                          <span>Added</span>
-                        </>
-                      ) : (
-                        <>
-                          <span>+ Add to Combo</span>
-                        </>
-                      )}
+                      <Ticket className="w-4 h-4 text-black" />
+                      <span>Get Coupon Code (Save ₹{college.savings.toLocaleString()})</span>
+                      <ArrowRight className="w-4 h-4 text-black" />
                     </button>
+
                   </div>
+
                 </div>
               );
             })}
           </div>
-
-          {filteredColleges.length === 0 && (
-            <div className="text-center py-16 bg-slate-900/40 rounded-2xl border border-slate-800 p-8">
-              <Search className="w-10 h-10 text-slate-600 mx-auto mb-3" />
-              <h3 className="text-lg font-bold text-slate-300">No colleges matched your filters</h3>
-              <p className="text-sm text-slate-500 mt-1">Try searching a different city or clearing search keyword.</p>
-              <button
-                onClick={() => {
-                  setSearchQuery('');
-                  setSelectedRegion('All');
-                  setSelectedCity('All');
-                }}
-                className="mt-4 px-4 py-2 bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold rounded-xl"
-              >
-                Reset All Filters
-              </button>
+        ) : (
+          /* TABLE DIRECTORY VIEW */
+          <div className="bg-[#061124] border border-white/15 rounded-[28px] overflow-hidden shadow-2xl">
+            <div className="overflow-x-auto">
+              <table className="w-full text-left text-xs text-slate-300">
+                <thead className="bg-black/40 font-mono text-[11px] uppercase tracking-wider text-slate-400 border-b border-white/10">
+                  <tr>
+                    <th className="py-4 px-5">College Name</th>
+                    <th className="py-4 px-3">City</th>
+                    <th className="py-4 px-3">Avg CTC</th>
+                    <th className="py-4 px-3">Official Fee</th>
+                    <th className="py-4 px-3">Discounted Fee</th>
+                    <th className="py-4 px-3">Savings</th>
+                    <th className="py-4 px-5 text-right">Get Code</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {filteredColleges.map((college) => (
+                    <tr key={college.id} className="hover:bg-white/[0.04] transition-colors">
+                      <td className="py-4 px-5 font-bold text-white">
+                        <div className="flex items-center gap-2">
+                          <span className="font-display">{college.name}</span>
+                          {college.badge && (
+                            <span className="font-mono text-[9px] bg-[#F59E0B]/20 text-[#F59E0B] px-2 py-0.5 rounded-full">
+                              {college.badge}
+                            </span>
+                          )}
+                        </div>
+                      </td>
+                      <td className="py-4 px-3 text-slate-400">{college.city}</td>
+                      <td className="py-4 px-3 font-semibold text-[#00FF88]">{college.avgPlacement}</td>
+                      <td className="py-4 px-3 line-through text-slate-400 font-mono">₹{college.officialFee}</td>
+                      <td className="py-4 px-3 font-bold text-white text-sm font-mono">₹{college.discountedFee}</td>
+                      <td className="py-4 px-3">
+                        <span className="font-mono bg-[#00FF88]/10 text-[#00FF88] px-2.5 py-1 rounded-lg font-bold">
+                          {college.discountPercent}% OFF
+                        </span>
+                      </td>
+                      <td className="py-4 px-5 text-right">
+                        <button
+                          onClick={() => handleOpenGetCodeModal(college)}
+                          className="px-4 py-2 bg-[#00FF88] hover:bg-[#00e67a] text-black font-display font-extrabold rounded-xl text-xs transition-colors cursor-pointer shadow-md inline-flex items-center gap-1.5"
+                        >
+                          <Ticket className="w-3.5 h-3.5" />
+                          <span>Get Code</span>
+                        </button>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
-          )}
-        </div>
-
-        {/* Right Column: Sticky Combo Summary Cart (4 cols on desktop) */}
-        <div className="lg:col-span-4 lg:sticky lg:top-24 space-y-4">
-          
-          <div className="bg-gradient-to-b from-slate-900 via-[#0a1832] to-slate-950 border-2 border-blue-500/40 rounded-3xl p-6 shadow-2xl backdrop-blur-xl relative overflow-hidden">
-            
-            {/* Ambient Background Accent */}
-            <div className="absolute top-0 right-0 w-36 h-36 bg-blue-500/10 blur-3xl pointer-events-none rounded-full" />
-
-            {/* Header */}
-            <div className="flex items-center justify-between border-b border-slate-800 pb-4 mb-4">
-              <div>
-                <div className="text-[11px] font-bold text-blue-400 uppercase tracking-wider flex items-center gap-1.5">
-                  <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-                  Your Custom Combo
-                </div>
-                <h3 className="text-xl font-extrabold text-white mt-0.5">
-                  Form Cost Breakdown
-                </h3>
-              </div>
-              <span className="bg-blue-600 text-white text-xs font-black px-2.5 py-1 rounded-full">
-                {calculation.count} {calculation.count === 1 ? 'College' : 'Colleges'}
-              </span>
-            </div>
-
-            {/* Selected Colleges Pill List */}
-            {selectedColleges.length > 0 ? (
-              <div className="space-y-2 max-h-48 overflow-y-auto pr-1 scrollbar-thin scrollbar-thumb-slate-700">
-                {selectedColleges.map((c) => (
-                  <div
-                    key={c.id}
-                    className="flex items-center justify-between gap-2 bg-slate-950/70 p-2.5 rounded-xl border border-slate-800/80 text-xs"
-                  >
-                    <div className="min-w-0 flex-1">
-                      <div className="font-bold text-slate-200 truncate">{c.shortName}</div>
-                      <div className="text-[10px] text-slate-400 flex items-center gap-2">
-                        <span className="line-through">₹{c.officialFee}</span>
-                        <span className="text-emerald-400 font-semibold">₹{c.discountedFee}</span>
-                      </div>
-                    </div>
-                    <button
-                      onClick={() => toggleCollege(c.id)}
-                      className="text-slate-500 hover:text-rose-400 p-1 rounded-md transition-colors"
-                      title="Remove from combo"
-                    >
-                      <X className="w-3.5 h-3.5" />
-                    </button>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="text-center py-6 bg-slate-950/40 rounded-xl border border-dashed border-slate-800 text-xs text-slate-400">
-                No colleges selected yet. Click "+ Add to Combo" on any college card to build your bundle.
-              </div>
-            )}
-
-            {/* Tiered Combo Milestone Bonus Progress */}
-            <div className="mt-4 pt-4 border-t border-slate-800/80">
-              <div className="text-xs font-bold text-slate-300 flex items-center justify-between mb-1.5">
-                <span className="flex items-center gap-1.5">
-                  <Gift className="w-3.5 h-3.5 text-amber-400" /> Combo Tier Bonus
-                </span>
-                <span className="text-[11px] text-amber-300 font-extrabold">
-                  {selectedColleges.length < 2 && '1/3 to Unlock Bonus'}
-                  {selectedColleges.length === 2 && 'Tier 1 Active (10% Extra)'}
-                  {selectedColleges.length >= 3 && selectedColleges.length < 5 && 'Tier 2 Active (GD-PI Free)'}
-                  {selectedColleges.length >= 5 && '👑 VIP Platinum Active'}
-                </span>
-              </div>
-
-              {/* Progress bar */}
-              <div className="w-full h-2 bg-slate-800 rounded-full overflow-hidden mb-2">
-                <div
-                  className="h-full bg-gradient-to-r from-blue-500 via-indigo-400 to-emerald-400 transition-all duration-500"
-                  style={{
-                    width: `${Math.min(100, Math.max(15, (selectedColleges.length / 5) * 100))}%`
-                  }}
-                />
-              </div>
-
-              <div className="text-[11px] bg-blue-950/40 border border-blue-900/50 rounded-xl p-2.5 text-blue-200 leading-snug">
-                {selectedColleges.length < 2 && (
-                  <span>💡 Add 1 more college to activate combo rate vouchers and extra bonus coupons.</span>
-                )}
-                {selectedColleges.length === 2 && (
-                  <span>🎉 <strong>Tier 1 Active:</strong> Add 1 more college to unlock <strong>Free GD-PI Masterclass worth ₹2,999</strong>!</span>
-                )}
-                {selectedColleges.length >= 3 && selectedColleges.length < 5 && (
-                  <span>🔥 <strong>Tier 2 Unlocked:</strong> Free GD-PI Masterclass + 1-on-1 Profile Strategy Call with Mohit Jain!</span>
-                )}
-                {selectedColleges.length >= 5 && (
-                  <span>👑 <strong>VIP Platinum:</strong> 100% Free Resume Review + VIP Admissions Desk Fast-Track Application Code!</span>
-                )}
-              </div>
-            </div>
-
-            {/* Promo Code Form */}
-            <form onSubmit={handleApplyPromo} className="mt-4 pt-3 border-t border-slate-800/80">
-              <div className="flex gap-2">
-                <input
-                  type="text"
-                  placeholder="Coupon code (e.g. MOHIT2027)"
-                  value={promoInput}
-                  onChange={(e) => setPromoInput(e.target.value)}
-                  className="flex-1 px-3 py-2 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white uppercase placeholder:normal-case placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
-                />
-                <button
-                  type="submit"
-                  className="px-3 py-2 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-bold rounded-xl transition-colors shrink-0"
-                >
-                  Apply
-                </button>
-              </div>
-
-              {promoError && (
-                <div className="text-[11px] text-rose-400 mt-1.5 flex items-center gap-1">
-                  <X className="w-3 h-3 shrink-0" />
-                  <span>{promoError}</span>
-                </div>
-              )}
-
-              {appliedPromo && promoSuccess && (
-                <div className="text-[11px] text-emerald-400 mt-1.5 flex items-center justify-between gap-1 bg-emerald-500/10 p-1.5 rounded-lg border border-emerald-500/20">
-                  <span className="font-semibold">{promoSuccess}</span>
-                  <button type="button" onClick={removePromo} className="text-slate-400 hover:text-white">
-                    <X className="w-3 h-3" />
-                  </button>
-                </div>
-              )}
-            </form>
-
-            {/* Summary Price Math */}
-            <div className="mt-5 pt-4 border-t border-slate-800 space-y-2 text-xs">
-              <div className="flex items-center justify-between text-slate-400">
-                <span>Official Form Fee Total:</span>
-                <span className="line-through text-slate-300 font-medium">₹{calculation.totalOfficial.toLocaleString()}</span>
-              </div>
-
-              {calculation.extraDiscount > 0 && (
-                <div className="flex items-center justify-between text-emerald-400 font-medium">
-                  <span>Promo Code Discount:</span>
-                  <span>- ₹{calculation.extraDiscount.toLocaleString()}</span>
-                </div>
-              )}
-
-              <div className="flex items-center justify-between pt-2 border-t border-slate-800 text-sm">
-                <span className="font-bold text-white">Your Discounted Combo Price:</span>
-                <span className="text-xl font-black text-emerald-400">₹{calculation.totalDiscounted.toLocaleString()}</span>
-              </div>
-
-              {calculation.totalSavings > 0 && (
-                <div className="bg-emerald-500/15 border border-emerald-500/30 rounded-xl p-2.5 text-center text-emerald-300 font-extrabold text-xs">
-                  🎉 Total Instant Savings: ₹{calculation.totalSavings.toLocaleString()} ({calculation.overallSavingsPercent}% OFF)
-                </div>
-              )}
-            </div>
-
-            {/* Action Buttons */}
-            <div className="mt-5 space-y-2.5">
-              <button
-                type="button"
-                disabled={selectedColleges.length === 0}
-                onClick={() => setIsModalOpen(true)}
-                className={`w-full py-3.5 px-4 rounded-xl font-extrabold text-sm transition-all flex items-center justify-center gap-2 ${
-                  selectedColleges.length > 0
-                    ? 'bg-gradient-to-r from-amber-400 via-amber-300 to-amber-400 hover:brightness-110 active:scale-[0.98] text-slate-950 shadow-xl shadow-amber-500/20 cursor-pointer'
-                    : 'bg-slate-800 text-slate-500 cursor-not-allowed'
-                }`}
-              >
-                <Sparkles className="w-4 h-4 text-slate-950" />
-                <span>Get Application Vouchers Now</span>
-                <ArrowRight className="w-4 h-4 text-slate-950" />
-              </button>
-
-              <a
-                href={selectedColleges.length > 0 ? generateWhatsAppUrl() : '#'}
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={(e) => {
-                  if (selectedColleges.length === 0) {
-                    e.preventDefault();
-                    alert('Please select at least 1 college to generate WhatsApp vouchers.');
-                  }
-                }}
-                className={`w-full py-2.5 px-4 rounded-xl font-bold text-xs transition-all flex items-center justify-center gap-2 border ${
-                  selectedColleges.length > 0
-                    ? 'bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border-emerald-500/40'
-                    : 'bg-slate-900 text-slate-600 border-slate-800 cursor-not-allowed'
-                }`}
-              >
-                <MessageCircle className="w-4 h-4 text-emerald-400" />
-                <span>Instant WhatsApp Dispatch</span>
-              </a>
-            </div>
-
-            <div className="mt-4 text-[10px] text-slate-400 text-center flex items-center justify-center gap-1">
-              <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>100% Authentic College Admission Cell Vouchers</span>
-            </div>
-
           </div>
+        )}
 
-          {/* Quick Support Badge */}
-          <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 flex items-center justify-between gap-3 text-xs">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-blue-600/20 border border-blue-500/40 flex items-center justify-center shrink-0">
-                <GraduationCap className="w-5 h-5 text-blue-400" />
-              </div>
-              <div>
-                <div className="font-bold text-white">Need Profile Matching Help?</div>
-                <div className="text-slate-400 text-[11px]">Talk directly to Mohit Jain</div>
-              </div>
-            </div>
-            <a
-              href="tel:+919560020771"
-              className="bg-blue-600 hover:bg-blue-500 text-white font-bold p-2.5 rounded-xl shrink-0 transition-colors"
-              title="Call Helpline"
+        {filteredColleges.length === 0 && (
+          <div className="text-center py-16 bg-white/[0.03] rounded-[32px] border border-white/10 p-8">
+            <Search className="w-10 h-10 text-slate-600 mx-auto mb-3" />
+            <h3 className="text-lg font-bold text-slate-300">No colleges matched your filters</h3>
+            <p className="text-sm text-slate-400 mt-1">Try searching a different city or clearing the search keyword.</p>
+            <button
+              onClick={() => {
+                setSearchQuery('');
+                setSelectedRegion('All');
+                setSelectedCity('All');
+                setQuickFilter('all');
+              }}
+              className="mt-4 px-5 py-2.5 bg-[#00FF88] hover:bg-[#00e67a] text-black font-display font-extrabold text-xs rounded-full cursor-pointer"
             >
-              <Phone className="w-4 h-4" />
-            </a>
+              Reset All Filters
+            </button>
           </div>
+        )}
+      </section>
 
-        </div>
-
-      </div>
-
-      {/* ── 4. HOW IT WORKS / TRANSPARENCY SECTION ── */}
-      <section className="mb-16 bg-gradient-to-r from-slate-900 via-[#0A1A36] to-slate-900 rounded-3xl p-6 sm:p-10 border border-blue-900/40 shadow-2xl">
-        <div className="text-center max-w-3xl mx-auto mb-10">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-300 text-xs font-bold uppercase tracking-wider mb-2">
-            <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
+      {/* ── 3. HOW TO USE DISCOUNT CODES SECTION ── */}
+      <section className="mb-16 bg-[#061124] rounded-[32px] sm:rounded-[40px] p-7 sm:p-12 border border-white/15 shadow-2xl relative overflow-hidden">
+        <div className="absolute top-[-100px] right-[-100px] w-80 h-80 rounded-full bg-[#00F0FF]/15 blur-[80px] pointer-events-none" />
+        
+        <div className="text-center max-w-3xl mx-auto mb-10 relative z-10">
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold uppercase tracking-wider mb-3">
+            <ShieldCheck className="w-3.5 h-3.5 text-[#00FF88]" />
             Zero Hidden Charges · 100% Official
           </div>
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight">
-            How Do College Application Form Discounts Work?
+          <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-black text-white tracking-tight">
+            How to Get &amp; Use Your College Application Discount Code
           </h2>
-          <p className="text-slate-300 text-sm sm:text-base mt-2 leading-relaxed">
+          <p className="text-white/75 text-sm sm:text-base mt-2 leading-relaxed">
             As an authorized institutional advisory portal, CareerWithMohit partners with premier AICTE/AIU approved management institutions to sponsor fee concessions and profile evaluation waivers for students.
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 relative z-10">
           {[
             {
               step: '01',
-              title: 'Build Your Combo',
-              desc: 'Select 2 to 5+ colleges based on your location preference, budget, and percentile targets.'
+              title: 'Click "Get Code"',
+              desc: 'Select your target business school from 55+ AICTE approved institutions in Delhi NCR, Pune, Mumbai & Bangalore.'
             },
             {
               step: '02',
-              title: 'Get Discount Codes',
-              desc: 'Receive official discounted application links & fee waiver promo codes directly on WhatsApp & Email.'
+              title: 'Fill Quick Inquiry',
+              desc: 'Enter your basic details to verify your profile and instantly unlock the official fee concession voucher code.'
             },
             {
               step: '03',
-              title: 'Fill Official Forms',
-              desc: 'Apply on the official college portals with discounted fees. Your form is received directly by the college admissions desk.'
+              title: 'Copy & Apply on Portal',
+              desc: 'Copy your unique coupon code and apply directly on the official college registration page with the discounted fee.'
             },
             {
               step: '04',
               title: 'Free GD-PI Mentorship',
-              desc: 'Unlock complementary interview prep kits, mock GD-PI practice, and 1-on-1 strategy with Mohit Jain.'
+              desc: 'Get complementary interview kits, mock GD-PI practice sessions, and 1-on-1 strategy with mentor Mohit Jain.'
             }
           ].map((item, idx) => (
-            <div key={idx} className="bg-slate-950/60 border border-slate-800 p-5 rounded-2xl relative group hover:border-blue-500/50 transition-all">
-              <div className="text-3xl font-black text-blue-500/30 group-hover:text-blue-400/60 transition-colors mb-2">
+            <div key={idx} className="bg-black/40 border border-white/10 p-5 rounded-2xl relative group hover:border-[#00FF88]/50 transition-all">
+              <div className="font-display text-3xl font-black text-white/20 group-hover:text-[#00FF88] transition-colors mb-2">
                 {item.step}
               </div>
-              <h3 className="text-base font-bold text-white mb-1.5">{item.title}</h3>
-              <p className="text-xs text-slate-400 leading-relaxed">{item.desc}</p>
+              <h3 className="font-display text-base font-bold text-white mb-1.5">{item.title}</h3>
+              <p className="text-xs text-slate-300 leading-relaxed">{item.desc}</p>
             </div>
           ))}
         </div>
       </section>
 
-      {/* ── 5. FREQUENTLY ASKED QUESTIONS (FAQ) ── */}
+      {/* ── 4. FREQUENTLY ASKED QUESTIONS (FAQ) ── */}
       <section className="mb-16 max-w-4xl mx-auto">
         <div className="text-center mb-8">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-800 text-slate-300 text-xs font-bold uppercase tracking-wider mb-2">
-            <HelpCircle className="w-3.5 h-3.5 text-amber-400" />
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/10 text-slate-200 font-mono text-xs font-bold uppercase tracking-wider mb-2">
+            <HelpCircle className="w-3.5 h-3.5 text-[#F59E0B]" />
             Everything You Need To Know
           </div>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+          <h2 className="font-display text-2xl sm:text-3xl font-black text-white">
             Frequently Asked Questions
           </h2>
         </div>
@@ -937,20 +620,16 @@ export default function MbaFormDiscountCalculator() {
         <div className="space-y-3">
           {[
             {
-              q: 'Are these application forms authentic and official?',
-              a: 'Yes, 100%. All application forms and discount vouchers are issued in direct collaboration with the official admissions directorates of the respective institutions (NDIM, FOSTIIMA, FIIB, JIMS, PIBM, SOIL, etc.). You fill out the official college portal form directly.'
+              q: 'Are these application form discount coupon codes official?',
+              a: 'Yes, 100%. All application forms and discount vouchers are issued in direct collaboration with the official admissions directorates of the respective institutions (NDIM, FOSTIIMA, FIIB, JIMS, PIBM, SOIL, etc.). You fill out and submit the official college portal form directly.'
             },
             {
-              q: 'How do I pay the discounted fee for the colleges?',
-              a: 'Once you submit your selected combination, our team generates a customized institutional voucher link or waiver code. When you apply on the college’s official registration page, the fee is automatically reduced to the discounted rate shown here.'
+              q: 'How do I use the discount code on the college portal?',
+              a: 'When you click "Get Code" and fill the quick inquiry form, your voucher code is revealed along with a direct application link. During registration or payment on the college portal, enter this code in the "Coupon Code / Promo Code / Referral Code" field to instantly reduce the fee.'
             },
             {
-              q: 'Can I add colleges from different cities in one combo?',
-              a: 'Absolutely! You can mix colleges across Delhi NCR, Pune, Mumbai, and Bangalore in a single bundle (e.g., NDIM Delhi + PIBM Pune + JAGSoM Bangalore). Your combo discount and bonus perks apply seamlessly.'
-            },
-            {
-              q: 'What is the Free GD-PI Masterclass included with 3+ colleges?',
-              a: 'Students who choose 3 or more colleges unlock access to CareerWithMohit’s Masterclass Series covering Group Discussion tactics, Personal Interview questions, Case-study analysis, and 1-on-1 Profile Strategy calls.'
+              q: 'Can I get discount codes for multiple colleges?',
+              a: 'Yes! You can click "Get Code" on any number of colleges to receive individual discount vouchers and direct links for each business school.'
             },
             {
               q: 'What if I already started filling a form on a college website?',
@@ -961,18 +640,18 @@ export default function MbaFormDiscountCalculator() {
             return (
               <div
                 key={idx}
-                className="bg-slate-900/80 border border-slate-800 rounded-2xl overflow-hidden transition-all"
+                className="bg-[#061124] border border-white/10 rounded-2xl overflow-hidden transition-all"
               >
                 <button
                   type="button"
                   onClick={() => setOpenFaq(isOpen ? null : idx)}
-                  className="w-full p-5 text-left font-bold text-sm sm:text-base text-white flex items-center justify-between gap-4 hover:text-blue-300 transition-colors"
+                  className="w-full p-5 text-left font-bold text-sm sm:text-base text-white flex items-center justify-between gap-4 hover:text-[#00FF88] transition-colors cursor-pointer"
                 >
                   <span>{faq.q}</span>
-                  {isOpen ? <ChevronUp className="w-4 h-4 text-blue-400 shrink-0" /> : <ChevronDown className="w-4 h-4 text-slate-400 shrink-0" />}
+                  {isOpen ? <ChevronUp className="w-4 h-4 text-[#00F0FF] shrink-0" /> : <ChevronDown className="w-4 h-4 text-slate-400 shrink-0" />}
                 </button>
                 {isOpen && (
-                  <div className="px-5 pb-5 text-xs sm:text-sm text-slate-300 leading-relaxed border-t border-slate-800/60 pt-3">
+                  <div className="px-5 pb-5 text-xs sm:text-sm text-slate-300 leading-relaxed border-t border-white/10 pt-3">
                     {faq.a}
                   </div>
                 )}
@@ -982,82 +661,65 @@ export default function MbaFormDiscountCalculator() {
         </div>
       </section>
 
-      {/* ── 6. FLOATING MOBILE DRAWER / SUMMARY BAR ── */}
-      <div className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-slate-950/95 border-t border-slate-800 backdrop-blur-xl px-4 py-3 shadow-2xl">
-        <div className="flex items-center justify-between gap-3">
-          <div>
-            <div className="text-[10px] text-slate-400">
-              {calculation.count} Colleges • <span className="line-through">₹{calculation.totalOfficial}</span>
-            </div>
-            <div className="text-base font-black text-emerald-400">
-              ₹{calculation.totalDiscounted.toLocaleString()}
-              <span className="text-[10px] font-bold text-amber-300 bg-amber-500/20 px-1.5 py-0.5 rounded ml-1.5">
-                Save ₹{calculation.totalSavings}
-              </span>
-            </div>
-          </div>
-
-          <button
-            type="button"
-            disabled={selectedColleges.length === 0}
-            onClick={() => setIsModalOpen(true)}
-            className={`py-2.5 px-4 rounded-xl font-bold text-xs transition-all flex items-center gap-1.5 ${
-              selectedColleges.length > 0
-                ? 'bg-amber-400 text-slate-950 shadow-lg shadow-amber-500/20'
-                : 'bg-slate-800 text-slate-500'
-            }`}
-          >
-            <span>Get Vouchers</span>
-            <ArrowRight className="w-3.5 h-3.5" />
-          </button>
-        </div>
-      </div>
-
-      {/* ── 7. APPLICATION / VOUCHER DISPATCH MODAL ── */}
-      {isModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md overflow-y-auto">
-          <div className="bg-slate-900 border border-slate-700 rounded-3xl p-6 sm:p-8 max-w-lg w-full shadow-2xl relative my-8 text-left">
+      {/* ── 5. INQUIRY MODAL / UNLOCK DISCOUNT CODE POPUP ── */}
+      {isModalOpen && targetCollege && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/85 backdrop-blur-md overflow-y-auto">
+          <div className="bg-[#070A14] border border-white/20 rounded-[32px] p-6 sm:p-8 max-w-lg w-full shadow-[0_0_80px_rgba(0,240,255,0.15)] relative my-8 text-left max-h-[90vh] overflow-y-auto">
             
             {/* Close Button */}
             <button
               onClick={() => {
                 setIsModalOpen(false);
                 setIsSubmitted(false);
+                setTargetCollege(null);
               }}
-              className="absolute top-5 right-5 text-slate-400 hover:text-white p-1.5 rounded-full hover:bg-slate-800 transition-colors"
+              className="absolute top-5 right-5 text-slate-400 hover:text-white p-1.5 rounded-full hover:bg-white/10 transition-colors cursor-pointer"
             >
               <X className="w-5 h-5" />
             </button>
 
             {!isSubmitted ? (
               <div>
-                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 text-xs font-bold mb-2">
-                  <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-                  Instant Discount Voucher Dispatch
+                {/* Modal Top Header */}
+                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
+                  <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
+                  Instant Discount Code Request
                 </div>
-                <h3 className="text-xl sm:text-2xl font-black text-white">
-                  Get Your Combo Form Links
+
+                <h3 className="font-display text-xl sm:text-2xl font-black text-white">
+                  Get Coupon Code: {targetCollege.shortName}
                 </h3>
                 <p className="text-xs text-slate-300 mt-1">
-                  Enter your contact details to receive official application form URLs with discounted pricing directly on WhatsApp & Email.
+                  Fill in your candidate details below to instantly unveil the official fee waiver coupon code &amp; direct portal link.
                 </p>
 
-                {/* Selected Summary In Modal */}
-                <div className="mt-4 bg-slate-950/80 p-3.5 rounded-2xl border border-slate-800 text-xs space-y-1.5">
-                  <div className="font-bold text-slate-300 flex items-center justify-between">
-                    <span>Selected ({calculation.count} Colleges):</span>
-                    <span className="text-emerald-400 font-extrabold text-sm">₹{calculation.totalDiscounted.toLocaleString()}</span>
+                {/* College Voucher Card inside Modal */}
+                <div className="mt-4 bg-[#061124] p-4 rounded-2xl border border-cyan-400/30 text-xs space-y-2 shadow-inner">
+                  <div className="flex items-center justify-between">
+                    <span className="font-display font-extrabold text-sm text-white">{targetCollege.name}</span>
+                    <span className="font-mono bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-black text-[11px]">
+                      {targetCollege.discountPercent}% OFF
+                    </span>
                   </div>
-                  <div className="text-[11px] text-slate-400 truncate">
-                    {selectedColleges.map(c => c.shortName).join(' • ')}
-                  </div>
-                  <div className="text-[10px] text-emerald-400 font-semibold">
-                    Instant Rupee Savings: ₹{calculation.totalSavings.toLocaleString()} ({calculation.overallSavingsPercent}% OFF)
+                  <div className="text-[11px] text-slate-400 mt-0.5 font-mono">{targetCollege.location}</div>
+                  
+                  <div className="mt-2.5 pt-2 border-t border-white/10 flex items-center justify-between">
+                    <div>
+                      <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
+                      <div className="font-display text-base font-black text-[#00FF88]">
+                        Discounted Fee: ₹{targetCollege.discountedFee}
+                      </div>
+                    </div>
+                    <div className="text-right">
+                      <span className="font-mono text-[11px] text-[#00FF88] bg-[#00FF88]/10 px-2.5 py-1 rounded-lg font-bold">
+                        You Save ₹{targetCollege.savings}
+                      </span>
+                    </div>
                   </div>
                 </div>
 
-                {/* Lead Form */}
-                <form onSubmit={handleLeadSubmit} className="mt-5 space-y-3">
+                {/* Inquiry Lead Form */}
+                <form onSubmit={handleLeadSubmit} className="mt-5 space-y-3.5">
                   <div>
                     <label className="block text-xs font-bold text-slate-300 mb-1">
                       Candidate Full Name *
@@ -1068,7 +730,7 @@ export default function MbaFormDiscountCalculator() {
                       placeholder="e.g. Rahul Sharma"
                       value={formData.name}
                       onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                      className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
+                      className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
                     />
                   </div>
 
@@ -1083,7 +745,7 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="10-digit mobile"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
+                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
                       />
                     </div>
                     <div>
@@ -1095,7 +757,7 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="name@gmail.com"
                         value={formData.email}
                         onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
+                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
                       />
                     </div>
                   </div>
@@ -1103,26 +765,27 @@ export default function MbaFormDiscountCalculator() {
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <div>
                       <label className="block text-xs font-bold text-slate-300 mb-1">
-                        Current City
+                        Current City *
                       </label>
                       <input
                         type="text"
-                        placeholder="e.g. Delhi, Lucknow, Patna"
+                        required
+                        placeholder="e.g. Delhi, Pune, Patna"
                         value={formData.city}
                         onChange={(e) => setFormData({ ...formData, city: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
+                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
                       />
                     </div>
                     <div>
                       <label className="block text-xs font-bold text-slate-300 mb-1">
-                        Target Exam / Percentile
+                        Target Exam / %ile
                       </label>
                       <input
                         type="text"
-                        placeholder="e.g. CAT 75%ile / MAT / CMAT"
+                        placeholder="e.g. CAT 75% / MAT / CMAT"
                         value={formData.score}
                         onChange={(e) => setFormData({ ...formData, score: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-blue-500"
+                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
                       />
                     </div>
                   </div>
@@ -1130,13 +793,14 @@ export default function MbaFormDiscountCalculator() {
                   <button
                     type="submit"
                     disabled={isSubmitting}
-                    className="w-full mt-4 py-3.5 bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-white font-extrabold text-sm rounded-xl shadow-lg shadow-emerald-950/40 transition-all flex items-center justify-center gap-2"
+                    className="w-full mt-4 py-3.5 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 text-black font-display font-black text-sm rounded-xl shadow-[0_0_20px_rgba(0,255,136,0.3)] transition-all flex items-center justify-center gap-2 cursor-pointer"
                   >
                     {isSubmitting ? (
-                      <span>Generating Official Vouchers...</span>
+                      <span>Unlocking Coupon Code...</span>
                     ) : (
                       <>
-                        <span>Submit &amp; Open WhatsApp Voucher Links</span>
+                        <Ticket className="w-4 h-4" />
+                        <span>Unlock Coupon Code &amp; Direct Apply Link</span>
                         <ArrowRight className="w-4 h-4" />
                       </>
                     )}
@@ -1144,37 +808,121 @@ export default function MbaFormDiscountCalculator() {
                 </form>
               </div>
             ) : (
-              /* Success View */
-              <div className="text-center py-4 space-y-4">
-                <div className="w-14 h-14 rounded-full bg-emerald-500/20 border-2 border-emerald-400 flex items-center justify-center mx-auto text-emerald-400">
-                  <Check className="w-8 h-8 stroke-[3]" />
+              /* Success / Unveiled Code View */
+              <div className="text-center py-2 space-y-4">
+                <div className="w-16 h-16 rounded-full bg-[#00FF88]/20 border-2 border-[#00FF88] flex items-center justify-center mx-auto text-[#00FF88] shadow-[0_0_30px_rgba(0,255,136,0.35)] animate-pulse">
+                  <CheckCheck className="w-9 h-9 stroke-[3]" />
                 </div>
 
-                <h3 className="text-2xl font-black text-white">
-                  Application Combo Confirmed!
-                </h3>
-                <p className="text-xs text-slate-300 leading-relaxed max-w-sm mx-auto">
-                  Your combo request for <strong className="text-white">{calculation.count} colleges</strong> has been logged. Total discounted amount is <strong className="text-emerald-400">₹{calculation.totalDiscounted.toLocaleString()}</strong> (You save ₹{calculation.totalSavings.toLocaleString()}).
-                </p>
+                <div>
+                  <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
+                    <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
+                    Code Unlocked Successfully!
+                  </div>
+                  <h3 className="font-display text-2xl sm:text-3xl font-black text-white">
+                    Here is your Discount Code
+                  </h3>
+                  <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-sm mx-auto">
+                    Use this official institutional code on the <strong className="text-white">{targetCollege.name}</strong> portal.
+                  </p>
+                </div>
 
-                <div className="pt-2">
+                {/* Single Code Revealed Box */}
+                <div className="bg-[#061124] border-2 border-[#00FF88]/60 rounded-2xl p-4 sm:p-5 text-center space-y-3 shadow-[0_0_35px_rgba(0,255,136,0.2)] relative overflow-hidden">
+                  <div className="font-mono text-[11px] text-[#00FF88] uppercase tracking-widest font-bold flex items-center justify-center gap-1.5">
+                    <Tag className="w-3.5 h-3.5 text-[#00FF88]" /> Official Application Voucher Code
+                  </div>
+                  
+                  <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+                    <span className="text-2xl sm:text-3xl font-mono font-black text-[#00FF88] tracking-widest bg-black/70 px-5 py-2.5 rounded-xl border border-[#00FF88]/40 shadow-inner select-all w-full sm:w-auto">
+                      {getCollegeCode(targetCollege)}
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => handleCopyCode(getCollegeCode(targetCollege))}
+                      className="w-full sm:w-auto px-5 py-3 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 active:scale-95 text-black font-display font-black rounded-xl text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer shadow-lg"
+                    >
+                      {copiedCode === getCollegeCode(targetCollege) ? (
+                        <>
+                          <Check className="w-4 h-4 stroke-[3]" />
+                          <span>Copied to Clipboard!</span>
+                        </>
+                      ) : (
+                        <>
+                          <Copy className="w-4 h-4" />
+                          <span>Copy Code</span>
+                        </>
+                      )}
+                    </button>
+                  </div>
+
+                  <div className="pt-1 flex items-center justify-center gap-2 flex-wrap font-mono text-xs">
+                    <span className="text-slate-400">Official Fee: <span className="line-through">₹{targetCollege.officialFee.toLocaleString()}</span></span>
+                    <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
+                    <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                      Saved ₹{targetCollege.savings.toLocaleString()} ({targetCollege.discountPercent}% OFF)
+                    </span>
+                  </div>
+                </div>
+
+                {/* How to Apply Instructions */}
+                <div className="bg-cyan-950/30 border border-cyan-800/30 p-3.5 rounded-2xl text-left text-xs text-cyan-200 space-y-1.5">
+                  <div className="font-bold text-white flex items-center gap-1.5 font-mono text-xs">
+                    <Info className="w-4 h-4 text-[#00F0FF]" /> 3 Simple Steps to Apply:
+                  </div>
+                  <ol className="list-decimal list-inside text-xs text-slate-300 space-y-1 leading-relaxed">
+                    <li>Copy your discount code: <strong className="text-[#00FF88] font-mono">{getCollegeCode(targetCollege)}</strong></li>
+                    <li>Click the green WhatsApp button below to ask for the direct application portal link or instant verification.</li>
+                    <li>Paste the code on the college portal form to pay only ₹{targetCollege.discountedFee.toLocaleString()}.</li>
+                  </ol>
+                </div>
+
+                {/* WhatsApp & Direct Portal Actions */}
+                <div className="space-y-2.5 pt-1">
+                  {/* WhatsApp Ask Code & Apply Link CTA */}
                   <a
-                    href={generateWhatsAppUrl()}
+                    href={generateWhatsAppUrl(targetCollege)}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center gap-2 w-full py-3.5 bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-sm rounded-xl shadow-xl shadow-emerald-950/50 transition-all"
+                    className="inline-flex items-center justify-center gap-2.5 w-full py-3.5 bg-[#25D366] hover:bg-[#20bd5a] text-black font-display font-black text-sm rounded-xl shadow-[0_0_30px_rgba(37,211,102,0.35)] transition-all cursor-pointer"
                   >
-                    <MessageCircle className="w-5 h-5" />
-                    <span>Open Official Form Links in WhatsApp</span>
+                    <MessageCircle className="w-5 h-5 fill-black text-[#25D366]" />
+                    <span>Ask Coupon Code &amp; Apply Link on WhatsApp</span>
                   </a>
+
+                  {/* Direct College Portal Link if present */}
+                  {targetCollege.applyUrl && (
+                    <a
+                      href={targetCollege.applyUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center gap-2 w-full py-3 bg-white/10 hover:bg-white/20 text-white font-display font-bold text-xs rounded-xl border border-white/15 transition-all cursor-pointer"
+                    >
+                      <ExternalLink className="w-4 h-4 text-[#00F0FF]" />
+                      <span>Open Official {targetCollege.shortName} Application Portal</span>
+                    </a>
+                  )}
+
+                  {/* Close & Browse More */}
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setIsModalOpen(false);
+                      setIsSubmitted(false);
+                      setTargetCollege(null);
+                    }}
+                    className="w-full py-2.5 bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white font-medium text-xs rounded-xl transition-all cursor-pointer border border-white/10"
+                  >
+                    Get Discount Code for Another College
+                  </button>
                 </div>
 
-                <div className="pt-2">
+                <div className="pt-2 border-t border-white/10">
                   <Link
                     href="/book-session"
-                    className="inline-flex items-center justify-center gap-2 w-full py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold text-xs rounded-xl transition-all"
+                    className="inline-flex items-center justify-center gap-1.5 text-xs text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
                   >
-                    <span>Book 1-on-1 Profile Strategy Call (Free)</span>
+                    <span>Need GD-PI or College Selection Guidance? Book Free 1-on-1 Mentorship</span>
                     <ArrowRight className="w-3.5 h-3.5" />
                   </Link>
                 </div>

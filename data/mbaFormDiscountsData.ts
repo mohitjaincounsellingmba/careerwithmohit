@@ -19,6 +19,8 @@ export interface MbaFormCollege {
   gradeColor: string;
   highlight: string;
   totalCourseFee: string;
+  code?: string;
+  applyUrl?: string;
   topRecruiters?: string[];
   specializations?: string[];
   popular?: boolean;
@@ -53,14 +55,15 @@ export const MBA_FORM_COLLEGES: MbaFormCollege[] = [
     city: 'New Delhi',
     region: 'Delhi NCR',
     officialFee: 1000,
-    discountedFee: 1000,
-    savings: 0,
-    discountPercent: 0,
+    discountedFee: 500,
+    savings: 500,
+    discountPercent: 50,
+    code: 'CWM-NDIM50',
     avgPlacement: '₹9.50 LPA',
     highestPlacement: '₹24.00 LPA',
     accreditation: 'AICTE Approved · NBA Accredited · AIU Equivalent',
     programs: ['PGDM', 'PGDM Marketing', 'PGDM Finance'],
-    badge: '100% Placements',
+    badge: '50% Form Waiver',
     grade: 'AIU Eq.',
     gradeColor: 'from-blue-600 to-indigo-800',
     highlight: 'UGC-AIU MBA Equivalent, double specialization & 300+ recruiters.',
