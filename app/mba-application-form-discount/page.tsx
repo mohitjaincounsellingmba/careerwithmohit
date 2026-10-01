@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     'Delhi NCR MBA form discount',
     'Pune MBA form discount code',
     'Bangalore MBA form concession',
-    'MBA form combo discount calculator'
+    'MBA form discount calculator 2027'
   ],
   alternates: {
     canonical: PAGE_URL,
@@ -156,7 +156,7 @@ const jsonLd = {
           '@type': 'HowToStep',
           position: 1,
           name: 'Select Target Business Schools',
-          text: 'Browse 55+ AICTE approved business schools in Delhi NCR, Pune, Bangalore, or Mumbai and click Get Code or add to Combo.'
+          text: 'Browse 55+ AICTE approved business schools in Delhi NCR, Pune, Bangalore, or Mumbai and click Get Code.'
         },
         {
           '@type': 'HowToStep',
@@ -212,7 +212,7 @@ const jsonLd = {
         },
         {
           '@type': 'Question',
-          name: 'How much money can an MBA applicant save using form discount bundles?',
+          name: 'How much money can an MBA applicant save using form discount codes?',
           acceptedAnswer: {
             '@type': 'Answer',
             text: 'Applying to 4 to 6 business schools normally costs ₹6,000 to ₹10,000 in application form fees. With CareerWithMohit institutional waivers, students typically pay only ₹2,000 to ₹3,500 total, saving between ₹4,000 and ₹7,500+ per admission cycle.'
@@ -220,10 +220,10 @@ const jsonLd = {
         },
         {
           '@type': 'Question',
-          name: 'Can I apply for multiple MBA colleges through combo discount packs?',
+          name: 'Can I get discount coupon codes for multiple MBA colleges?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Yes! You can select 2 to 5 colleges in our interactive Combo Calculator to stack individual form waivers with bundle coupon codes (e.g. MOHIT2027, EARLYBIRD) for maximum total savings.'
+            text: 'Yes! You can request individual discount codes and direct application links for as many business schools as you want from our directory.'
           }
         },
         {
@@ -261,8 +261,8 @@ const FAQ_ITEMS = [
     a: 'Applying to 4 to 6 business schools normally costs ₹6,000 to ₹10,000 in application form fees alone. With CareerWithMohit institutional fee waivers (ranging from 40% to 100% off), students typically pay only ₹2,000 to ₹3,500 total, saving between ₹4,000 and ₹7,500+ per admission cycle.'
   },
   {
-    q: 'Can I apply for multiple MBA colleges through combo discount packs?',
-    a: 'Yes! You can select 2 to 5 colleges in our interactive Combo Calculator to stack individual form concessions with bundle coupon codes (e.g. MOHIT2027, EARLYBIRD, COMBO500) for maximum cumulative savings.'
+    q: 'Can I get discount coupon codes for multiple MBA colleges?',
+    a: 'Yes! You can request individual discount codes and direct application links for as many business schools as you want from our directory.'
   },
   {
     q: 'What if I have already started filling a form on a college website?',
@@ -377,7 +377,7 @@ export default function MbaApplicationFormDiscountPage() {
           </div>
         </section>
 
-        {/* ── 2. INTERACTIVE COMBO CALCULATOR & 55 COLLEGES DIRECTORY ── */}
+        {/* ── 2. INTERACTIVE 55 COLLEGES DIRECTORY ── */}
         <section className="mx-auto max-w-[1220px] px-4 sm:px-6 lg:px-8 pt-10">
           <MbaFormDiscountCalculator />
         </section>

@@ -1,14 +1,10 @@
 "use client";
 
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import {
   MBA_FORM_COLLEGES,
-  CURATED_COMBOS,
-  PROMO_CODES,
-  MbaFormCollege,
-  CuratedCombo,
-  PromoCode
+  MbaFormCollege
 } from '@/data/mbaFormDiscountsData';
 import {
   Sparkles,
@@ -39,10 +35,6 @@ import {
   Ticket,
   LayoutGrid,
   ListFilter,
-  Calculator,
-  Layers,
-  Plus,
-  Trash2,
   CheckCircle2,
   TrendingDown
 } from 'lucide-react';
@@ -50,12 +42,6 @@ import {
 export default function MbaFormDiscountCalculator() {
   // Active target college for "Get Coupon Code" modal trigger
   const [targetCollege, setTargetCollege] = useState<MbaFormCollege | null>(null);
-
-  // Multi-college combo selection state
-  const [selectedCollegeIds, setSelectedCollegeIds] = useState<string[]>(['ndim-delhi', 'fostiima-business-school', 'fiib-delhi']);
-  const [promoCodeInput, setPromoCodeInput] = useState<string>('MOHIT2027');
-  const [appliedPromo, setAppliedPromo] = useState<PromoCode | null>(PROMO_CODES[0]);
-  const [promoError, setPromoError] = useState<string>('');
 
   // Filter & Search states
   const [searchQuery, setSearchQuery] = useState('');
@@ -67,7 +53,6 @@ export default function MbaFormDiscountCalculator() {
 
   // Modal & Lead state
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [modalMode, setModalMode] = useState<'single' | 'combo'>('single');
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
@@ -82,93 +67,11 @@ export default function MbaFormDiscountCalculator() {
     intake: '2027-2029'
   });
 
-  // Active FAQ accordion state
-  const [openFaq, setOpenFaq] = useState<number | null>(0);
-
   // Helper to generate college voucher code
   const getCollegeCode = (college: MbaFormCollege) => {
     if (college.code) return college.code;
     const clean = college.shortName.replace(/[^A-Z0-9]/gi, '').toUpperCase().slice(0, 7);
     return `CWM-${clean}${college.discountPercent || 50}`;
-  };
-
-  // Combo calculations
-  const selectedColleges = useMemo(() => {
-    return MBA_FORM_COLLEGES.filter((c) => selectedCollegeIds.includes(c.id));
-  }, [selectedCollegeIds]);
-
-  const comboCalculations = useMemo(() => {
-    const totalOfficialFee = selectedColleges.reduce((acc, c) => acc + c.officialFee, 0);
-    const totalDiscountedFee = selectedColleges.reduce((acc, c) => acc + c.discountedFee, 0);
-    const baseSavings = totalOfficialFee - totalDiscountedFee;
-
-    let extraDiscount = 0;
-    if (appliedPromo && selectedColleges.length >= appliedPromo.minColleges) {
-      extraDiscount = appliedPromo.discountAmount || 0;
-      if (appliedPromo.discountPercent) {
-        extraDiscount += Math.round((totalDiscountedFee * appliedPromo.discountPercent) / 100);
-      }
-    }
-
-    const finalPayable = Math.max(0, totalDiscountedFee - extraDiscount);
-    const totalSavings = totalOfficialFee - finalPayable;
-    const savingsPercent = totalOfficialFee > 0 ? Math.round((totalSavings / totalOfficialFee) * 100) : 0;
-
-    return {
-      totalOfficialFee,
-      totalDiscountedFee,
-      extraDiscount,
-      finalPayable,
-      totalSavings,
-      savingsPercent,
-      count: selectedColleges.length
-    };
-  }, [selectedColleges, appliedPromo]);
-
-  // Toggle college in combo builder
-  const handleToggleComboCollege = (collegeId: string) => {
-    setSelectedCollegeIds((prev) => {
-      if (prev.includes(collegeId)) {
-        return prev.filter((id) => id !== collegeId);
-      } else {
-        if (prev.length >= 7) {
-          alert('You can select up to 7 colleges in one combo builder.');
-          return prev;
-        }
-        return [...prev, collegeId];
-      }
-    });
-  };
-
-  // Apply curated combo preset
-  const handleApplyCuratedCombo = (combo: CuratedCombo) => {
-    setSelectedCollegeIds(combo.collegeIds);
-    const comboSection = document.getElementById('combo-calculator-section');
-    if (comboSection) {
-      comboSection.scrollIntoView({ behavior: 'smooth' });
-    }
-  };
-
-  // Apply promo code
-  const handleApplyPromoCode = (e: React.FormEvent) => {
-    e.preventDefault();
-    setPromoError('');
-    const code = promoCodeInput.trim().toUpperCase();
-    const matched = PROMO_CODES.find((p) => p.code.toUpperCase() === code);
-
-    if (!matched) {
-      setPromoError('Invalid coupon code. Try MOHIT2027, EARLYBIRD, or COMBO500.');
-      setAppliedPromo(null);
-      return;
-    }
-
-    if (selectedColleges.length < matched.minColleges) {
-      setPromoError(`Code ${matched.code} requires selecting at least ${matched.minColleges} colleges.`);
-      setAppliedPromo(null);
-      return;
-    }
-
-    setAppliedPromo(matched);
   };
 
   // Filtered colleges calculation across all 55 colleges
@@ -239,19 +142,6 @@ export default function MbaFormDiscountCalculator() {
   // Open modal for specific college
   const handleOpenSingleModal = (college: MbaFormCollege) => {
     setTargetCollege(college);
-    setModalMode('single');
-    setIsSubmitted(false);
-    setCopiedCode(null);
-    setIsModalOpen(true);
-  };
-
-  // Open modal for combo bundle
-  const handleOpenComboModal = () => {
-    if (selectedColleges.length === 0) {
-      alert('Please select at least 1 college in the combo builder.');
-      return;
-    }
-    setModalMode('combo');
     setIsSubmitted(false);
     setCopiedCode(null);
     setIsModalOpen(true);
@@ -276,23 +166,14 @@ export default function MbaFormDiscountCalculator() {
     return `https://wa.me/919560020771?text=${msg}`;
   };
 
-  // Generate WhatsApp message URL for multi-college combo
-  const generateComboWhatsAppUrl = () => {
-    const collegeNames = selectedColleges.map((c, i) => `${i + 1}. ${c.shortName} (Official ₹${c.officialFee} ➔ Pay ₹${c.discountedFee})`).join('%0A');
-    const msg = `Hi Mohit Sir, I have created a customized *MBA Application Form Combo Pack* on CareerWithMohit:%0A%0A*Applicant Name:* ${formData.name || 'Candidate'}%0A*WhatsApp:* ${formData.phone || 'N/A'}%0A*City:* ${formData.city || 'N/A'}%0A*Target Exam:* ${formData.score || formData.exam}%0A%0A*Selected Colleges (${selectedColleges.length}):*%0A${collegeNames}%0A%0A*Total Official Fee:* ₹${comboCalculations.totalOfficialFee}%0A*Discounted Bundle Price:* ₹${comboCalculations.finalPayable}%0A*Total Cash Saved:* ₹${comboCalculations.totalSavings} (${comboCalculations.savingsPercent}%25 OFF)%0A*Applied Promo:* ${appliedPromo ? appliedPromo.code : 'None'}%0A%0APlease activate all my institutional discount codes and share direct application portal links.`;
-    return `https://wa.me/919560020771?text=${msg}`;
-  };
-
   // Handle lead submission
   const handleLeadSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!formData.name || !formData.phone) return;
+    if (!formData.name || !formData.phone || !targetCollege) return;
 
     setIsSubmitting(true);
     try {
-      const isSingle = modalMode === 'single' && targetCollege;
-      const collegeSubject = isSingle ? targetCollege.name : selectedColleges.map((c) => c.shortName).join(', ');
-      const singleCode = isSingle ? getCollegeCode(targetCollege) : 'COMBO-MULTIPLE';
+      const code = getCollegeCode(targetCollege);
 
       const payload = {
         name: formData.name,
@@ -302,19 +183,18 @@ export default function MbaFormDiscountCalculator() {
         city: formData.city,
         location: formData.city || 'Online',
         category: 'mba-application-form-discount',
-        source: isSingle ? `Discount Code - ${targetCollege.name}` : `MBA Form Combo Discount (${selectedColleges.length} Colleges)`,
+        source: `Discount Code - ${targetCollege.name}`,
         program: 'MBA / PGDM Admission 2027',
         course: 'MBA / PGDM',
-        college: collegeSubject,
-        message: isSingle
-          ? `Candidate requested discount code for ${targetCollege.name}. Official: ₹${targetCollege.officialFee}, Discounted: ₹${targetCollege.discountedFee}, Savings: ₹${targetCollege.savings} (${targetCollege.discountPercent}% OFF), Code: ${singleCode}.`
-          : `Candidate created combo of ${selectedColleges.length} colleges: [${selectedColleges.map((c) => c.name).join(', ')}]. Official Fee: ₹${comboCalculations.totalOfficialFee}, Final Payable: ₹${comboCalculations.finalPayable}, Saved: ₹${comboCalculations.totalSavings}.`,
+        college: targetCollege.name,
+        message: `Candidate requested discount code for ${targetCollege.name}. Official: ₹${targetCollege.officialFee}, Discounted: ₹${targetCollege.discountedFee}, Savings: ₹${targetCollege.savings} (${targetCollege.discountPercent}% OFF), Code: ${code}.`,
         details: {
-          mode: modalMode,
-          colleges: isSingle ? [targetCollege.name] : selectedColleges.map((c) => c.name),
-          officialFee: isSingle ? targetCollege.officialFee : comboCalculations.totalOfficialFee,
-          finalPayable: isSingle ? targetCollege.discountedFee : comboCalculations.finalPayable,
-          savings: isSingle ? targetCollege.savings : comboCalculations.totalSavings,
+          college: targetCollege.name,
+          officialFee: targetCollege.officialFee,
+          discountedFee: targetCollege.discountedFee,
+          savings: targetCollege.savings,
+          discountPercent: targetCollege.discountPercent,
+          code,
           exam: formData.exam,
           score: formData.score,
           intake: formData.intake
@@ -330,7 +210,7 @@ export default function MbaFormDiscountCalculator() {
       setIsSubmitted(true);
     } catch (err) {
       console.error('Lead submission error', err);
-      setIsSubmitted(true); // Still show unlocked codes to student
+      setIsSubmitted(true); // Still reveal code to candidate
     } finally {
       setIsSubmitting(false);
     }
@@ -339,290 +219,7 @@ export default function MbaFormDiscountCalculator() {
   return (
     <div className="w-full text-white">
 
-      {/* ── 1. DYNAMIC COMBO BUILDER & SAVINGS CALCULATOR (STICKY INTERACTIVE ENGINE) ── */}
-      <section id="combo-calculator-section" className="mb-14 scroll-mt-24">
-        <div className="relative rounded-[32px] sm:rounded-[40px] bg-gradient-to-br from-[#061124] via-[#0A1835] to-[#040C1A] border-2 border-[#00FF88]/40 p-6 sm:p-10 shadow-[0_20px_80px_rgba(0,255,136,0.15)] overflow-hidden">
-          
-          {/* Ambient Glows */}
-          <div className="absolute -top-24 -right-24 w-96 h-96 bg-[#00FF88]/15 rounded-full blur-[100px] pointer-events-none" />
-          <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-[#00F0FF]/15 rounded-full blur-[100px] pointer-events-none" />
-
-          {/* Header Banner */}
-          <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6 pb-6 border-b border-white/10 relative z-10">
-            <div className="space-y-2">
-              <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold uppercase tracking-wider">
-                <Calculator className="w-3.5 h-3.5 text-[#00FF88]" />
-                <span>Interactive MBA Form Combo Calculator 2027</span>
-              </div>
-              <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-black text-white leading-tight">
-                Bundle 2 to 5 College Forms &amp; <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00FF88] via-[#00F0FF] to-[#8B5CF6]">Save ₹5,000+ Instantly</span>
-              </h2>
-              <p className="text-slate-300 text-xs sm:text-sm max-w-2xl leading-relaxed">
-                Pick your dream and backup business schools from 55+ AICTE approved institutes. The engine automatically stacks institutional fee waivers and promo codes.
-              </p>
-            </div>
-
-            {/* Live Savings Badge */}
-            <div className="bg-black/60 border border-emerald-500/40 p-4 sm:p-5 rounded-2xl flex items-center gap-4 shrink-0 shadow-lg backdrop-blur-md">
-              <div className="w-12 h-12 rounded-xl bg-[#00FF88]/20 border border-[#00FF88] flex items-center justify-center text-[#00FF88] shrink-0">
-                <Flame className="w-7 h-7 fill-[#00FF88] text-transparent animate-pulse" />
-              </div>
-              <div>
-                <div className="text-[11px] font-mono text-slate-400 uppercase tracking-wider font-semibold">Your Total Cash Savings</div>
-                <div className="font-display text-2xl sm:text-3xl font-black text-[#00FF88] flex items-baseline gap-1.5">
-                  <span>₹{comboCalculations.totalSavings.toLocaleString()}</span>
-                  <span className="text-xs font-mono text-white/80 font-normal">({comboCalculations.savingsPercent}% OFF)</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          {/* Currently Selected Colleges Chips */}
-          <div className="pt-6 relative z-10 space-y-3">
-            <div className="flex items-center justify-between">
-              <div className="font-mono text-xs text-slate-300 font-bold uppercase tracking-wider flex items-center gap-2">
-                <Layers className="w-4 h-4 text-[#00F0FF]" />
-                <span>Selected B-Schools in Combo ({selectedColleges.length}/7):</span>
-              </div>
-              {selectedColleges.length > 0 && (
-                <button
-                  type="button"
-                  onClick={() => setSelectedCollegeIds([])}
-                  className="text-[11px] font-mono text-rose-400 hover:text-rose-300 flex items-center gap-1 transition-colors cursor-pointer"
-                >
-                  <Trash2 className="w-3 h-3" /> Clear All
-                </button>
-              )}
-            </div>
-
-            <div className="flex flex-wrap items-center gap-2">
-              {selectedColleges.map((college) => (
-                <div
-                  key={college.id}
-                  className="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-white/[0.08] border border-white/20 text-xs font-bold text-white hover:border-[#00FF88]/60 transition-all backdrop-blur-md"
-                >
-                  <Building2 className="w-3.5 h-3.5 text-[#00F0FF]" />
-                  <span className="font-display">{college.shortName}</span>
-                  <span className="font-mono text-[10px] text-[#00FF88] bg-[#00FF88]/15 px-1.5 py-0.5 rounded">
-                    Save ₹{college.savings}
-                  </span>
-                  <button
-                    type="button"
-                    onClick={() => handleToggleComboCollege(college.id)}
-                    className="text-slate-400 hover:text-rose-400 p-0.5 rounded transition-colors cursor-pointer ml-1"
-                    title="Remove from combo"
-                  >
-                    <X className="w-3.5 h-3.5" />
-                  </button>
-                </div>
-              ))}
-
-              {selectedColleges.length === 0 && (
-                <div className="text-xs text-slate-400 italic py-2">
-                  No colleges in combo yet. Pick from the 55 colleges below or select a popular combo preset!
-                </div>
-              )}
-            </div>
-          </div>
-
-          {/* Calculation Matrix & Promo Code Section */}
-          <div className="mt-6 pt-6 border-t border-white/10 grid grid-cols-1 md:grid-cols-12 gap-6 items-center relative z-10">
-            
-            {/* Promo Code Input */}
-            <div className="md:col-span-5 space-y-2">
-              <label className="block text-xs font-mono font-bold text-slate-300 uppercase tracking-wider">
-                Apply Bundle Voucher / Promo Code:
-              </label>
-              <form onSubmit={handleApplyPromoCode} className="flex gap-2">
-                <input
-                  type="text"
-                  placeholder="e.g. MOHIT2027, EARLYBIRD"
-                  value={promoCodeInput}
-                  onChange={(e) => setPromoCodeInput(e.target.value.toUpperCase())}
-                  className="flex-1 px-3.5 py-2.5 bg-black/50 border border-white/20 rounded-xl text-xs font-mono uppercase text-[#00FF88] placeholder-slate-500 focus:outline-none focus:border-[#00FF88]"
-                />
-                <button
-                  type="submit"
-                  className="px-4 py-2.5 bg-white/15 hover:bg-white/25 text-white font-mono text-xs font-bold rounded-xl transition-all border border-white/20 cursor-pointer"
-                >
-                  Apply
-                </button>
-              </form>
-              {appliedPromo && (
-                <div className="text-[11px] font-mono text-[#00FF88] flex items-center gap-1.5">
-                  <CheckCircle2 className="w-3.5 h-3.5 text-[#00FF88]" />
-                  <span>Promo <strong>{appliedPromo.code}</strong> applied! ({appliedPromo.description})</span>
-                </div>
-              )}
-              {promoError && (
-                <div className="text-[11px] font-mono text-rose-400 flex items-center gap-1">
-                  <X className="w-3.5 h-3.5 text-rose-400" />
-                  <span>{promoError}</span>
-                </div>
-              )}
-            </div>
-
-            {/* Financial Summary Breakdown */}
-            <div className="md:col-span-4 bg-black/40 border border-white/10 p-4 rounded-2xl text-xs space-y-1.5 font-mono">
-              <div className="flex justify-between text-slate-400">
-                <span>Official Form Fee Total:</span>
-                <span className="line-through">₹{comboCalculations.totalOfficialFee.toLocaleString()}</span>
-              </div>
-              <div className="flex justify-between text-slate-300">
-                <span>Institutional Concessions:</span>
-                <span className="text-[#00FF88] font-bold">- ₹{(comboCalculations.totalOfficialFee - comboCalculations.totalDiscountedFee).toLocaleString()}</span>
-              </div>
-              {comboCalculations.extraDiscount > 0 && (
-                <div className="flex justify-between text-amber-300">
-                  <span>Extra Promo Bonus:</span>
-                  <span className="font-bold">- ₹{comboCalculations.extraDiscount.toLocaleString()}</span>
-                </div>
-              )}
-              <div className="pt-2 border-t border-white/10 flex justify-between text-sm font-bold text-white font-display">
-                <span>You Pay Only:</span>
-                <span className="text-[#00FF88] font-black text-base">₹{comboCalculations.finalPayable.toLocaleString()}</span>
-              </div>
-            </div>
-
-            {/* Action CTA Buttons */}
-            <div className="md:col-span-3 flex flex-col gap-2.5">
-              <button
-                type="button"
-                onClick={handleOpenComboModal}
-                disabled={selectedColleges.length === 0}
-                className="w-full py-3.5 px-4 rounded-xl bg-gradient-to-r from-[#00FF88] via-[#00F0FF] to-[#00FF88] hover:brightness-110 active:scale-[0.98] text-black font-display font-black text-xs sm:text-sm transition-all shadow-[0_0_30px_rgba(0,255,136,0.35)] flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                <Ticket className="w-4 h-4 text-black" />
-                <span>Claim All Discount Codes</span>
-                <ArrowRight className="w-4 h-4 text-black" />
-              </button>
-
-              <a
-                href={generateComboWhatsAppUrl()}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full py-2.5 px-3 rounded-xl bg-[#25D366]/20 border border-[#25D366]/50 hover:bg-[#25D366]/30 text-[#25D366] font-display font-bold text-xs transition-all flex items-center justify-center gap-2 cursor-pointer"
-              >
-                <MessageCircle className="w-4 h-4" />
-                <span>Instant WhatsApp Claim</span>
-              </a>
-            </div>
-
-          </div>
-
-        </div>
-      </section>
-
-      {/* ── 2. CURATED POPULAR COMBO PACKS (HIGH-CTR SHORTCUTS) ── */}
-      <section className="mb-14">
-        <div className="text-center max-w-3xl mx-auto mb-8">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/10 text-slate-200 font-mono text-xs font-bold uppercase tracking-wider mb-2">
-            <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
-            Fast 1-Click Regional Packages
-          </div>
-          <h2 className="font-display text-2xl sm:text-3xl font-black text-white">
-            Curated MBA Form Combo Packs (Batch 2027–2029)
-          </h2>
-          <p className="text-slate-300 text-xs sm:text-sm mt-1.5">
-            Click any pack below to load all colleges into the savings builder and unlock free GD-PI mock interview slots.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-          {CURATED_COMBOS.map((combo) => {
-            const collegesInCombo = MBA_FORM_COLLEGES.filter((c) => combo.collegeIds.includes(c.id));
-            const officialTotal = collegesInCombo.reduce((acc, c) => acc + c.officialFee, 0);
-            const discountedTotal = collegesInCombo.reduce((acc, c) => acc + c.discountedFee, 0);
-            const totalSaved = officialTotal - discountedTotal;
-            const isSelected = combo.collegeIds.every((id) => selectedCollegeIds.includes(id)) && selectedCollegeIds.length === combo.collegeIds.length;
-
-            return (
-              <div
-                key={combo.id}
-                className={`relative rounded-3xl p-5 border transition-all duration-300 flex flex-col justify-between backdrop-blur-xl group hover:shadow-[0_0_30px_rgba(0,240,255,0.15)] ${
-                  isSelected
-                    ? 'bg-gradient-to-b from-[#0A2540] to-[#061124] border-[#00F0FF] shadow-[0_0_30px_rgba(0,240,255,0.2)]'
-                    : 'bg-white/[0.04] border-white/10 hover:border-white/25 hover:bg-white/[0.06]'
-                }`}
-              >
-                <div>
-                  {/* Tag & Region */}
-                  <div className="flex items-center justify-between gap-2 mb-3">
-                    <span className="font-mono text-[10px] font-bold text-[#F59E0B] bg-[#F59E0B]/15 border border-[#F59E0B]/30 px-2.5 py-0.5 rounded-full truncate">
-                      {combo.tag}
-                    </span>
-                    <span className="font-mono text-[10px] text-slate-400 bg-white/10 px-2 py-0.5 rounded">
-                      {combo.region}
-                    </span>
-                  </div>
-
-                  {/* Title & Subtitle */}
-                  <h3 className="font-display text-base font-extrabold text-white group-hover:text-cyan-200 transition-colors leading-snug">
-                    {combo.title}
-                  </h3>
-                  <p className="text-xs text-slate-300 font-mono mt-1 mb-3">
-                    {combo.subtitle}
-                  </p>
-
-                  {/* College Micro Pills */}
-                  <div className="space-y-1.5 mb-4">
-                    {collegesInCombo.map((c) => (
-                      <div key={c.id} className="flex items-center justify-between text-[11px] bg-black/40 px-2.5 py-1.5 rounded-lg border border-white/5 font-mono">
-                        <span className="text-slate-200 truncate">{c.shortName}</span>
-                        <span className="text-[#00FF88] font-bold">₹{c.discountedFee}</span>
-                      </div>
-                    ))}
-                  </div>
-
-                  {/* Bonus Perk Strip */}
-                  <div className="bg-amber-500/10 border border-amber-500/20 p-2.5 rounded-xl text-[11px] text-amber-300 font-medium flex items-center gap-1.5 mb-4">
-                    <Gift className="w-3.5 h-3.5 text-amber-400 shrink-0" />
-                    <span className="line-clamp-2">{combo.bonusPerk}</span>
-                  </div>
-                </div>
-
-                {/* Pricing & Apply Button */}
-                <div className="pt-3 border-t border-white/10 space-y-3">
-                  <div className="flex items-center justify-between font-mono">
-                    <div>
-                      <span className="text-[10px] text-slate-400 line-through block">₹{officialTotal.toLocaleString()}</span>
-                      <span className="text-base font-black text-white font-display">₹{discountedTotal.toLocaleString()}</span>
-                    </div>
-                    <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-1 rounded-lg text-xs">
-                      Save ₹{totalSaved.toLocaleString()}
-                    </span>
-                  </div>
-
-                  <button
-                    type="button"
-                    onClick={() => handleApplyCuratedCombo(combo)}
-                    className={`w-full py-2.5 px-3 rounded-xl font-display font-black text-xs transition-all flex items-center justify-center gap-1.5 cursor-pointer ${
-                      isSelected
-                        ? 'bg-[#00FF88] text-black shadow-md'
-                        : 'bg-white/10 hover:bg-white/20 text-white border border-white/15'
-                    }`}
-                  >
-                    {isSelected ? (
-                      <>
-                        <Check className="w-3.5 h-3.5 stroke-[3]" />
-                        <span>Loaded in Calculator</span>
-                      </>
-                    ) : (
-                      <>
-                        <Zap className="w-3.5 h-3.5 text-[#F59E0B]" />
-                        <span>Load This Combo</span>
-                      </>
-                    )}
-                  </button>
-                </div>
-
-              </div>
-            );
-          })}
-        </div>
-      </section>
-
-      {/* ── 3. SEARCH, FILTER & DIRECTORY BAR ── */}
+      {/* ── 1. SEARCH, FILTER & LOCATION SELECTOR ── */}
       <section id="colleges-catalogue" className="scroll-mt-24 mb-10">
         <div className="bg-[#061124]/90 border border-white/15 rounded-[28px] sm:rounded-[36px] p-5 sm:p-7 backdrop-blur-2xl shadow-[0_34px_70px_-30px_rgba(6,17,36,0.7)] space-y-6">
           
@@ -775,25 +372,18 @@ export default function MbaFormDiscountCalculator() {
         </div>
       </section>
 
-      {/* ── 4. MAIN 55 COLLEGES GRID / DIRECTORY ── */}
+      {/* ── 2. MAIN 55 COLLEGES GRID / DIRECTORY ── */}
       <section className="mb-16">
         {viewMode === 'grid' ? (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredColleges.map((college) => {
-              const voucherCode = getCollegeCode(college);
-              const isInCombo = selectedCollegeIds.includes(college.id);
-
               return (
                 <div
                   key={college.id}
-                  className={`relative rounded-[28px] p-6 border transition-all duration-300 flex flex-col justify-between group overflow-hidden backdrop-blur-xl shadow-xl ${
-                    isInCombo
-                      ? 'border-[#00FF88] bg-white/[0.07] shadow-[0_0_30px_rgba(0,255,136,0.2)]'
-                      : 'border-white/10 bg-white/[0.04] hover:bg-white/[0.07] hover:border-[#00FF88]/50 hover:shadow-[0_0_35px_rgba(0,255,136,0.15)]'
-                  }`}
+                  className="relative rounded-[28px] p-6 border border-white/10 bg-white/[0.04] hover:bg-white/[0.07] hover:border-[#00FF88]/50 hover:shadow-[0_0_35px_rgba(0,255,136,0.15)] transition-all duration-300 flex flex-col justify-between group overflow-hidden backdrop-blur-xl shadow-xl"
                 >
                   
-                  {/* Top Notch: Discount Ribbon + Badges + Combo Check */}
+                  {/* Top Notch: Discount Ribbon + Badges */}
                   <div>
                     <div className="flex items-center justify-between gap-2 mb-3.5">
                       {/* Luminous Discount Badge */}
@@ -802,29 +392,11 @@ export default function MbaFormDiscountCalculator() {
                         <span>{college.discountNote || `${college.discountPercent}% OFF`}</span>
                       </div>
 
-                      {/* Combo Quick Toggle Button */}
-                      <button
-                        type="button"
-                        onClick={() => handleToggleComboCollege(college.id)}
-                        className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-full font-mono text-[10px] font-bold transition-all cursor-pointer ${
-                          isInCombo
-                            ? 'bg-[#00FF88] text-black shadow-[0_0_10px_#00FF88]'
-                            : 'bg-white/10 text-slate-300 hover:bg-white/20 hover:text-white border border-white/15'
-                        }`}
-                        title={isInCombo ? 'Remove from combo builder' : 'Add to combo builder'}
-                      >
-                        {isInCombo ? (
-                          <>
-                            <Check className="w-3 h-3 stroke-[3]" />
-                            <span>In Combo</span>
-                          </>
-                        ) : (
-                          <>
-                            <Plus className="w-3 h-3" />
-                            <span>Add to Combo</span>
-                          </>
-                        )}
-                      </button>
+                      {college.badge && (
+                        <span className="font-mono text-[10px] font-bold text-[#F59E0B] bg-[#F59E0B]/15 border border-[#F59E0B]/30 px-2.5 py-0.5 rounded-full">
+                          {college.badge}
+                        </span>
+                      )}
                     </div>
 
                     {/* City Location */}
@@ -924,7 +496,6 @@ export default function MbaFormDiscountCalculator() {
               <table className="w-full text-left text-xs text-slate-300">
                 <thead className="bg-black/40 font-mono text-[11px] uppercase tracking-wider text-slate-400 border-b border-white/10">
                   <tr>
-                    <th className="py-4 px-4 text-center">Combo</th>
                     <th className="py-4 px-5">College Name</th>
                     <th className="py-4 px-3">City</th>
                     <th className="py-4 px-3">Avg CTC</th>
@@ -936,19 +507,8 @@ export default function MbaFormDiscountCalculator() {
                 </thead>
                 <tbody className="divide-y divide-white/10">
                   {filteredColleges.map((college) => {
-                    const isInCombo = selectedCollegeIds.includes(college.id);
-
                     return (
                       <tr key={college.id} className="hover:bg-white/[0.04] transition-colors">
-                        <td className="py-4 px-4 text-center">
-                          <input
-                            type="checkbox"
-                            checked={isInCombo}
-                            onChange={() => handleToggleComboCollege(college.id)}
-                            className="w-4 h-4 accent-[#00FF88] rounded cursor-pointer"
-                            title="Select for combo builder"
-                          />
-                        </td>
                         <td className="py-4 px-5 font-bold text-white">
                           <div className="flex items-center gap-2">
                             <span className="font-display">{college.name}</span>
@@ -1008,7 +568,7 @@ export default function MbaFormDiscountCalculator() {
         )}
       </section>
 
-      {/* ── 5. HOW TO USE DISCOUNT CODES SECTION ── */}
+      {/* ── 3. HOW TO USE DISCOUNT CODES SECTION ── */}
       <section className="mb-16 bg-[#061124] rounded-[32px] sm:rounded-[40px] p-7 sm:p-12 border border-white/15 shadow-2xl relative overflow-hidden">
         <div className="absolute top-[-100px] right-[-100px] w-80 h-80 rounded-full bg-[#00F0FF]/15 blur-[80px] pointer-events-none" />
         
@@ -1059,8 +619,8 @@ export default function MbaFormDiscountCalculator() {
         </div>
       </section>
 
-      {/* ── 6. INQUIRY MODAL / UNLOCK DISCOUNT CODE POPUP ── */}
-      {isModalOpen && (
+      {/* ── 4. INQUIRY MODAL / UNLOCK DISCOUNT CODE POPUP ── */}
+      {isModalOpen && targetCollege && (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/85 backdrop-blur-md overflow-y-auto">
           <div className="bg-[#070A14] border border-white/20 rounded-[32px] p-6 sm:p-8 max-w-lg w-full shadow-[0_0_80px_rgba(0,240,255,0.15)] relative my-8 text-left max-h-[90vh] overflow-y-auto">
             
@@ -1081,60 +641,40 @@ export default function MbaFormDiscountCalculator() {
                 {/* Modal Top Header */}
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
                   <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
-                  {modalMode === 'single' ? 'Instant Discount Code Request' : 'Combo Discount Pack Activation'}
+                  Instant Discount Code Request
                 </div>
 
                 <h3 className="font-display text-xl sm:text-2xl font-black text-white">
-                  {modalMode === 'single' && targetCollege
-                    ? `Get Coupon Code: ${targetCollege.shortName}`
-                    : `Unlock All Discount Codes (${selectedColleges.length} Colleges)`}
+                  Get Coupon Code: {targetCollege.shortName}
                 </h3>
                 <p className="text-xs text-slate-300 mt-1">
-                  Fill in your candidate details below to instantly unveil official institutional coupon codes &amp; direct application links.
+                  Fill in your candidate details below to instantly unveil the official fee waiver coupon code &amp; direct portal link.
                 </p>
 
-                {/* Voucher Card inside Modal */}
-                {modalMode === 'single' && targetCollege ? (
-                  <div className="mt-4 bg-[#061124] p-4 rounded-2xl border border-cyan-400/30 text-xs space-y-2 shadow-inner">
-                    <div className="flex items-center justify-between">
-                      <span className="font-display font-extrabold text-sm text-white">{targetCollege.name}</span>
-                      <span className="font-mono bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-black text-[11px]">
-                        {targetCollege.discountNote || `${targetCollege.discountPercent}% OFF`}
-                      </span>
-                    </div>
-                    <div className="text-[11px] text-slate-400 mt-0.5 font-mono">{targetCollege.location}</div>
-                    
-                    <div className="mt-2.5 pt-2 border-t border-white/10 flex items-center justify-between">
-                      <div>
-                        <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
-                        <div className="font-display text-base font-black text-[#00FF88]">
-                          {targetCollege.discountNote ? 'Discount: Depends on Profile' : `Discounted Fee: ₹${targetCollege.discountedFee}`}
-                        </div>
-                      </div>
-                      <div className="text-right">
-                        <span className="font-mono text-[11px] text-[#00FF88] bg-[#00FF88]/10 px-2.5 py-1 rounded-lg font-bold">
-                          {targetCollege.discountNote ? 'Profile Concession' : `You Save ₹${targetCollege.savings}`}
-                        </span>
+                {/* College Voucher Card inside Modal */}
+                <div className="mt-4 bg-[#061124] p-4 rounded-2xl border border-cyan-400/30 text-xs space-y-2 shadow-inner">
+                  <div className="flex items-center justify-between">
+                    <span className="font-display font-extrabold text-sm text-white">{targetCollege.name}</span>
+                    <span className="font-mono bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-black text-[11px]">
+                      {targetCollege.discountNote || `${targetCollege.discountPercent}% OFF`}
+                    </span>
+                  </div>
+                  <div className="text-[11px] text-slate-400 mt-0.5 font-mono">{targetCollege.location}</div>
+                  
+                  <div className="mt-2.5 pt-2 border-t border-white/10 flex items-center justify-between">
+                    <div>
+                      <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
+                      <div className="font-display text-base font-black text-[#00FF88]">
+                        {targetCollege.discountNote ? 'Discount: Depends on Profile' : `Discounted Fee: ₹${targetCollege.discountedFee}`}
                       </div>
                     </div>
-                  </div>
-                ) : (
-                  <div className="mt-4 bg-[#061124] p-4 rounded-2xl border border-[#00FF88]/40 text-xs space-y-2 shadow-inner">
-                    <div className="flex items-center justify-between">
-                      <span className="font-display font-extrabold text-sm text-white">{selectedColleges.length} Selected Colleges Bundle</span>
-                      <span className="font-mono bg-[#00FF88]/20 text-[#00FF88] border border-[#00FF88]/30 px-2 py-0.5 rounded-full font-black text-[11px]">
-                        Save ₹{comboCalculations.totalSavings.toLocaleString()}
+                    <div className="text-right">
+                      <span className="font-mono text-[11px] text-[#00FF88] bg-[#00FF88]/10 px-2.5 py-1 rounded-lg font-bold">
+                        {targetCollege.discountNote ? 'Profile Concession' : `You Save ₹${targetCollege.savings}`}
                       </span>
                     </div>
-                    <div className="text-[11px] text-slate-300 font-mono line-clamp-2">
-                      {selectedColleges.map((c) => c.shortName).join(' + ')}
-                    </div>
-                    <div className="mt-2 pt-2 border-t border-white/10 flex justify-between font-mono text-[11px]">
-                      <span className="text-slate-400">Total Official: <span className="line-through">₹{comboCalculations.totalOfficialFee}</span></span>
-                      <span className="text-[#00FF88] font-bold">Payable: ₹{comboCalculations.finalPayable}</span>
-                    </div>
                   </div>
-                )}
+                </div>
 
                 {/* Inquiry Lead Form */}
                 <form onSubmit={handleLeadSubmit} className="mt-5 space-y-3.5">
@@ -1214,11 +754,11 @@ export default function MbaFormDiscountCalculator() {
                     className="w-full mt-4 py-3.5 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 text-black font-display font-black text-sm rounded-xl shadow-[0_0_20px_rgba(0,255,136,0.3)] transition-all flex items-center justify-center gap-2 cursor-pointer"
                   >
                     {isSubmitting ? (
-                      <span>Unlocking Coupon Codes...</span>
+                      <span>Unlocking Coupon Code...</span>
                     ) : (
                       <>
                         <Ticket className="w-4 h-4" />
-                        <span>Unlock Coupon Codes &amp; Direct Links</span>
+                        <span>Unlock Coupon Code &amp; Direct Apply Link</span>
                         <ArrowRight className="w-4 h-4" />
                       </>
                     )}
@@ -1235,47 +775,60 @@ export default function MbaFormDiscountCalculator() {
                 <div>
                   <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
                     <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
-                    Codes Unlocked Successfully!
+                    Code Unlocked Successfully!
                   </div>
                   <h3 className="font-display text-2xl sm:text-3xl font-black text-white">
-                    Here are your Discount Voucher Codes
+                    Here is your Discount Code
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-sm mx-auto">
-                    Use these official institutional codes during registration on each respective college portal.
+                    Use this official institutional code on the <strong className="text-white">{targetCollege.name}</strong> portal.
                   </p>
                 </div>
 
-                {/* Unveiled Codes List */}
-                <div className="space-y-3 text-left max-h-60 overflow-y-auto pr-1">
-                  {(modalMode === 'single' && targetCollege ? [targetCollege] : selectedColleges).map((college) => {
-                    const code = getCollegeCode(college);
-                    const isCopied = copiedCode === code;
+                {/* Single Code Revealed Box */}
+                <div className="bg-[#061124] border-2 border-[#00FF88]/60 rounded-2xl p-4 sm:p-5 text-center space-y-3 shadow-[0_0_35px_rgba(0,255,136,0.2)] relative overflow-hidden">
+                  <div className="font-mono text-[11px] text-[#00FF88] uppercase tracking-widest font-bold flex items-center justify-center gap-1.5">
+                    <Tag className="w-3.5 h-3.5 text-[#00FF88]" /> Official Application Voucher Code
+                  </div>
+                  
+                  <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+                    <span className="text-2xl sm:text-3xl font-mono font-black text-[#00FF88] tracking-widest bg-black/70 px-5 py-2.5 rounded-xl border border-[#00FF88]/40 shadow-inner select-all w-full sm:w-auto">
+                      {getCollegeCode(targetCollege)}
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => handleCopyCode(getCollegeCode(targetCollege))}
+                      className="w-full sm:w-auto px-5 py-3 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 active:scale-95 text-black font-display font-black rounded-xl text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer shadow-lg"
+                    >
+                      {copiedCode === getCollegeCode(targetCollege) ? (
+                        <>
+                          <Check className="w-4 h-4 stroke-[3]" />
+                          <span>Copied to Clipboard!</span>
+                        </>
+                      ) : (
+                        <>
+                          <Copy className="w-4 h-4" />
+                          <span>Copy Code</span>
+                        </>
+                      )}
+                    </button>
+                  </div>
 
-                    return (
-                      <div key={college.id} className="bg-[#061124] border border-[#00FF88]/40 rounded-2xl p-3.5 flex items-center justify-between gap-3 shadow-inner">
-                        <div>
-                          <div className="font-display font-extrabold text-white text-xs sm:text-sm">{college.shortName}</div>
-                          <div className="text-[11px] text-slate-400 font-mono">
-                            Fee: <span className="line-through">₹{college.officialFee}</span> ➔ <span className="text-[#00FF88] font-bold">₹{college.discountedFee}</span>
-                          </div>
-                        </div>
-
-                        <div className="flex items-center gap-2 shrink-0">
-                          <span className="font-mono text-xs font-bold text-[#00FF88] bg-black/60 px-2.5 py-1.5 rounded-lg border border-[#00FF88]/30 select-all">
-                            {code}
-                          </span>
-                          <button
-                            type="button"
-                            onClick={() => handleCopyCode(code)}
-                            className="p-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white transition-colors cursor-pointer"
-                            title="Copy code"
-                          >
-                            {isCopied ? <Check className="w-4 h-4 text-[#00FF88]" /> : <Copy className="w-4 h-4" />}
-                          </button>
-                        </div>
-                      </div>
-                    );
-                  })}
+                  <div className="pt-1 flex items-center justify-center gap-2 flex-wrap font-mono text-xs">
+                    <span className="text-slate-400">Official Fee: <span className="line-through">₹{targetCollege.officialFee.toLocaleString()}</span></span>
+                    {targetCollege.discountNote ? (
+                      <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2.5 py-1 rounded-md text-xs">
+                        Profile Evaluation Waiver (Up to 100% OFF)
+                      </span>
+                    ) : (
+                      <>
+                        <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
+                        <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                          Saved ₹{targetCollege.savings.toLocaleString()} ({targetCollege.discountPercent}% OFF)
+                        </span>
+                      </>
+                    )}
+                  </div>
                 </div>
 
                 {/* How to Apply Instructions */}
@@ -1284,24 +837,39 @@ export default function MbaFormDiscountCalculator() {
                     <Info className="w-4 h-4 text-[#00F0FF]" /> 3 Simple Steps to Apply:
                   </div>
                   <ol className="list-decimal list-inside text-xs text-slate-300 space-y-1 leading-relaxed">
-                    <li>Copy your discount voucher code for the target institute.</li>
-                    <li>Click the green WhatsApp button below to request the direct admissions portal link and instant profile verification.</li>
-                    <li>Paste the coupon code on the official application page to instantly reduce your registration fee.</li>
+                    <li>Copy your discount code: <strong className="text-[#00FF88] font-mono">{getCollegeCode(targetCollege)}</strong></li>
+                    <li>Click the green WhatsApp button below to ask for the direct application portal link or instant verification.</li>
+                    <li>Paste the code on the college portal form to pay only ₹{targetCollege.discountedFee.toLocaleString()}.</li>
                   </ol>
                 </div>
 
-                {/* WhatsApp Action */}
+                {/* WhatsApp & Direct Portal Actions */}
                 <div className="space-y-2.5 pt-1">
+                  {/* WhatsApp Ask Code & Apply Link CTA */}
                   <a
-                    href={modalMode === 'single' && targetCollege ? generateSingleWhatsAppUrl(targetCollege) : generateComboWhatsAppUrl()}
+                    href={generateSingleWhatsAppUrl(targetCollege)}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2.5 w-full py-3.5 bg-[#25D366] hover:bg-[#20bd5a] text-black font-display font-black text-sm rounded-xl shadow-[0_0_30px_rgba(37,211,102,0.35)] transition-all cursor-pointer"
                   >
                     <MessageCircle className="w-5 h-5 fill-black text-[#25D366]" />
-                    <span>Send on WhatsApp for Direct Portal Links &amp; GD-PI Prep</span>
+                    <span>Ask Coupon Code &amp; Apply Link on WhatsApp</span>
                   </a>
 
+                  {/* Direct College Portal Link if present */}
+                  {targetCollege.applyUrl && (
+                    <a
+                      href={targetCollege.applyUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center gap-2 w-full py-3 bg-white/10 hover:bg-white/20 text-white font-display font-bold text-xs rounded-xl border border-white/15 transition-all cursor-pointer"
+                    >
+                      <ExternalLink className="w-4 h-4 text-[#00F0FF]" />
+                      <span>Open Official {targetCollege.shortName} Application Portal</span>
+                    </a>
+                  )}
+
+                  {/* Close & Browse More */}
                   <button
                     type="button"
                     onClick={() => {
@@ -1311,7 +879,7 @@ export default function MbaFormDiscountCalculator() {
                     }}
                     className="w-full py-2.5 bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white font-medium text-xs rounded-xl transition-all cursor-pointer border border-white/10"
                   >
-                    Close &amp; Browse More Colleges
+                    Get Discount Code for Another College
                   </button>
                 </div>
 
@@ -1320,7 +888,7 @@ export default function MbaFormDiscountCalculator() {
                     href="/book-session"
                     className="inline-flex items-center justify-center gap-1.5 text-xs text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
                   >
-                    <span>Need GD-PI or College Shortlisting Help? Book Free 1-on-1 Mentorship</span>
+                    <span>Need GD-PI or College Selection Guidance? Book Free 1-on-1 Mentorship</span>
                     <ArrowRight className="w-3.5 h-3.5" />
                   </Link>
                 </div>
