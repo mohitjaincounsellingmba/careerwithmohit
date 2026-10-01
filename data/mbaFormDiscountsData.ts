@@ -24,6 +24,7 @@ export interface MbaFormCollege {
   topRecruiters?: string[];
   specializations?: string[];
   popular?: boolean;
+  discountNote?: string;
 }
 
 export interface CuratedCombo {
@@ -1308,15 +1309,17 @@ export const MBA_FORM_COLLEGES: MbaFormCollege[] = [
     location: 'Anekal Campus, Bangalore',
     city: 'Bangalore',
     region: 'Bangalore',
-    officialFee: 1500,
-    discountedFee: 750,
-    savings: 750,
+    officialFee: 1000,
+    discountedFee: 500,
+    savings: 500,
     discountPercent: 50,
+    discountNote: 'Depends on Profile',
+    code: 'CWM-ALLIANCE-PROFILE',
     avgPlacement: '₹10.50 LPA',
     highestPlacement: '₹40.00 LPA',
     accreditation: 'UGC Approved · AACSB Member',
     programs: ['MBA'],
-    badge: 'Elite Private University',
+    badge: 'Depends on Profile',
     grade: 'AACSB Member',
     gradeColor: 'from-rose-500 to-red-700',
     highlight: 'Massive residential green campus with elite placement packages in consultancies & banks.',

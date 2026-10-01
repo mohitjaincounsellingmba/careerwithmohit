@@ -157,7 +157,10 @@ export default function MbaFormDiscountCalculator() {
   // Generate WhatsApp message URL for the specific college
   const generateWhatsAppUrl = (college: MbaFormCollege) => {
     const code = getCollegeCode(college);
-    const msg = `Hi Mohit Sir, I want to apply for *${college.name}* with the discounted application fee voucher:%0A%0A*Applicant Name:* ${formData.name || 'Candidate'}%0A*WhatsApp:* ${formData.phone || 'N/A'}%0A*City:* ${formData.city || 'N/A'}%0A*Target Exam / %ile:* ${formData.score || formData.exam}%0A%0A*College:* ${college.name}%0A*Official Fee:* ₹${college.officialFee}%0A*Discounted Fee:* ₹${college.discountedFee}%0A*Instant Savings:* ₹${college.savings} (${college.discountPercent}%25 OFF)%0A*Voucher Code:* ${code}%0A%0APlease verify my code and share the direct application portal link.`;
+    const discountLine = college.discountNote
+      ? `*Discount:* ${college.discountNote} (Profile Evaluation Waiver)`
+      : `*Discounted Fee:* ₹${college.discountedFee}%0A*Instant Savings:* ₹${college.savings} (${college.discountPercent}%25 OFF)`;
+    const msg = `Hi Mohit Sir, I want to apply for *${college.name}* with the application fee discount voucher:%0A%0A*Applicant Name:* ${formData.name || 'Candidate'}%0A*WhatsApp:* ${formData.phone || 'N/A'}%0A*City:* ${formData.city || 'N/A'}%0A*Target Exam / %ile:* ${formData.score || formData.exam}%0A%0A*College:* ${college.name}%0A*Official Fee:* ₹${college.officialFee}%0A${discountLine}%0A*Voucher Code:* ${code}%0A%0APlease evaluate my profile and share the direct application portal link.`;
     return `https://wa.me/919560020771?text=${msg}`;
   };
 
@@ -385,7 +388,7 @@ export default function MbaFormDiscountCalculator() {
                       {/* Luminous Discount Badge */}
                       <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-black tracking-wide shadow-sm">
                         <Percent className="w-3.5 h-3.5 text-[#00FF88] stroke-[3]" />
-                        <span>{college.discountPercent}% OFF</span>
+                        <span>{college.discountNote || `${college.discountPercent}% OFF`}</span>
                       </div>
 
                       {college.badge && (
@@ -445,12 +448,18 @@ export default function MbaFormDiscountCalculator() {
                         <div className="text-[11px] text-slate-400 flex items-center gap-1.5 font-mono">
                           <span className="line-through text-slate-400">Official: ₹{college.officialFee.toLocaleString()}</span>
                           <span className="text-[#00FF88] font-bold bg-[#00FF88]/10 px-1.5 py-0.5 rounded text-[10px]">
-                            Save ₹{college.savings.toLocaleString()}
+                            {college.discountNote ? 'Profile Waiver' : `Save ₹${college.savings.toLocaleString()}`}
                           </span>
                         </div>
                         <div className="font-display text-xl font-black text-white flex items-baseline gap-1 mt-0.5">
-                          <span className="text-[#00FF88]">₹{college.discountedFee.toLocaleString()}</span>
-                          <span className="text-[10px] text-slate-400 font-normal">application fee</span>
+                          {college.discountNote ? (
+                            <span className="text-[#00FF88] text-base sm:text-lg">Depends on Profile</span>
+                          ) : (
+                            <>
+                              <span className="text-[#00FF88]">₹{college.discountedFee.toLocaleString()}</span>
+                              <span className="text-[10px] text-slate-400 font-normal">application fee</span>
+                            </>
+                          )}
                         </div>
                       </div>
 
@@ -469,7 +478,7 @@ export default function MbaFormDiscountCalculator() {
                       className="w-full py-3 px-4 rounded-xl bg-gradient-to-r from-[#00FF88] via-[#00F0FF] to-[#00FF88] hover:brightness-110 active:scale-[0.98] text-black font-display font-black text-xs sm:text-sm transition-all shadow-[0_0_20px_rgba(0,255,136,0.3)] flex items-center justify-center gap-2 cursor-pointer"
                     >
                       <Ticket className="w-4 h-4 text-black" />
-                      <span>Get Coupon Code (Save ₹{college.savings.toLocaleString()})</span>
+                      <span>{college.discountNote ? 'Get Profile Evaluation & Code' : `Get Coupon Code (Save ₹${college.savings.toLocaleString()})`}</span>
                       <ArrowRight className="w-4 h-4 text-black" />
                     </button>
 
@@ -511,10 +520,12 @@ export default function MbaFormDiscountCalculator() {
                       <td className="py-4 px-3 text-slate-400">{college.city}</td>
                       <td className="py-4 px-3 font-semibold text-[#00FF88]">{college.avgPlacement}</td>
                       <td className="py-4 px-3 line-through text-slate-400 font-mono">₹{college.officialFee}</td>
-                      <td className="py-4 px-3 font-bold text-white text-sm font-mono">₹{college.discountedFee}</td>
+                      <td className="py-4 px-3 font-bold text-white text-sm font-mono">
+                        {college.discountNote ? <span className="text-[#00FF88] text-xs">Profile-Based</span> : `₹${college.discountedFee}`}
+                      </td>
                       <td className="py-4 px-3">
                         <span className="font-mono bg-[#00FF88]/10 text-[#00FF88] px-2.5 py-1 rounded-lg font-bold">
-                          {college.discountPercent}% OFF
+                          {college.discountNote || `${college.discountPercent}% OFF`}
                         </span>
                       </td>
                       <td className="py-4 px-5 text-right">
@@ -698,7 +709,7 @@ export default function MbaFormDiscountCalculator() {
                   <div className="flex items-center justify-between">
                     <span className="font-display font-extrabold text-sm text-white">{targetCollege.name}</span>
                     <span className="font-mono bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-black text-[11px]">
-                      {targetCollege.discountPercent}% OFF
+                      {targetCollege.discountNote || `${targetCollege.discountPercent}% OFF`}
                     </span>
                   </div>
                   <div className="text-[11px] text-slate-400 mt-0.5 font-mono">{targetCollege.location}</div>
@@ -707,12 +718,12 @@ export default function MbaFormDiscountCalculator() {
                     <div>
                       <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
                       <div className="font-display text-base font-black text-[#00FF88]">
-                        Discounted Fee: ₹{targetCollege.discountedFee}
+                        {targetCollege.discountNote ? 'Discount: Depends on Profile' : `Discounted Fee: ₹${targetCollege.discountedFee}`}
                       </div>
                     </div>
                     <div className="text-right">
                       <span className="font-mono text-[11px] text-[#00FF88] bg-[#00FF88]/10 px-2.5 py-1 rounded-lg font-bold">
-                        You Save ₹{targetCollege.savings}
+                        {targetCollege.discountNote ? 'Profile Concession' : `You Save ₹${targetCollege.savings}`}
                       </span>
                     </div>
                   </div>
@@ -858,10 +869,18 @@ export default function MbaFormDiscountCalculator() {
 
                   <div className="pt-1 flex items-center justify-center gap-2 flex-wrap font-mono text-xs">
                     <span className="text-slate-400">Official Fee: <span className="line-through">₹{targetCollege.officialFee.toLocaleString()}</span></span>
-                    <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
-                    <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
-                      Saved ₹{targetCollege.savings.toLocaleString()} ({targetCollege.discountPercent}% OFF)
-                    </span>
+                    {targetCollege.discountNote ? (
+                      <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2.5 py-1 rounded-md text-xs">
+                        Profile Evaluation Waiver (Up to 100% OFF)
+                      </span>
+                    ) : (
+                      <>
+                        <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
+                        <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                          Saved ₹{targetCollege.savings.toLocaleString()} ({targetCollege.discountPercent}% OFF)
+                        </span>
+                      </>
+                    )}
                   </div>
                 </div>
 
