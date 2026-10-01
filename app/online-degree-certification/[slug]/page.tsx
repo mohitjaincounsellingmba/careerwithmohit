@@ -1,9 +1,16 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { BadgeCheck, Phone, ChevronDown, BookOpen, MapPin, IndianRupee, Star, Award, ShieldCheck, GraduationCap } from 'lucide-react';
+import { 
+  BadgeCheck, Phone, ChevronDown, BookOpen, MapPin, IndianRupee, 
+  Star, Award, ShieldCheck, GraduationCap, Building2, ArrowRight, 
+  MessageCircle, Sparkles, CheckCircle2, Video 
+} from 'lucide-react';
 import OnlineDegreeClient from '@/components/OnlineDegreeClient';
 import OnlineDegreeLeadForm from '@/components/OnlineDegreeLeadForm';
+import { College4SureScrollProgress } from '@/components/College4SureScrollProgress';
+import { College4SureTicker } from '@/components/College4SureTicker';
+import { College4SureSeoLinks } from '@/components/College4SureSeoLinks';
 import { COLLEGES } from '@/data/onlineColleges';
 
 const BASE_URL = 'https://careerwithmohit.online';
@@ -99,70 +106,33 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     title: 'Top Online B.Sc Universities in India 2027 | UGC Approved',
     desc: 'Compare the best UGC-DEB approved online B.Sc programs. Find tuition fees, NAAC grades, and specialty details.',
     h1: 'Online B.Sc Colleges in India 2027',
-    aboutText: 'An Online B.Sc (Bachelor of Science) provides a foundational 3-year education in scientific principles, data science, IT, or aviation. Ideal for candidates looking for computer science or analytical degrees with online flexibility.',
+    aboutText: 'An Online B.Sc (Bachelor of Science) is a 3-year program with specializations in fields like Computer Science, Data Analytics, and Mathematics. Ideal for students seeking scientific analytical skills with digital flexibility.',
     faqs: [
-      { q: 'What specializations are available in online B.Sc?', a: 'Most universities offer Computer Science, Data Science, Mathematics, or Hospitality/Hotel Management.' }
+      { q: 'Are online B.Sc degrees recognized for government jobs?', a: 'Yes. As per UGC Regulations 2020, online B.Sc degrees from UGC-DEB recognized universities are fully equivalent to regular classroom degrees.' }
     ]
   },
   'online-ma': {
     name: 'Online MA',
     searchToken: 'MA',
-    title: 'Best Online MA Colleges in India 2027 | UGC Approved Fees & Specializations',
-    desc: 'Compare top UGC-DEB approved Online MA universities in India for 2027. Explore fees, eligibility, and specializations like English, Journalism, Economics, and Sociology.',
+    title: 'Top Online MA Universities in India 2027 | UGC Fees',
+    desc: 'Compare the best UGC-DEB approved online MA programs. Find fees, specializations (English, Economics, Psychology, Political Science), and NAAC ratings.',
     h1: 'Online MA Colleges in India 2027',
-    aboutText: 'An Online MA (Master of Arts) is a 2-year postgraduate humanities degree recognized by UGC-DEB. Offering 100% equivalence to regular classroom programs under UGC Regulations 2020, it is ideal for working professionals, civil services (UPSC) aspirants, and educators. Popular specializations include English Literature, Journalism & Mass Communication, Economics, Political Science, History, Sociology, Hindi, and Public Administration.',
+    aboutText: 'An Online MA (Master of Arts) provides rigorous postgraduate education across English, Economics, Sociology, History, and Public Policy. Highly popular among civil services (UPSC/PSC) aspirants and educators.',
     faqs: [
-      {
-        q: 'Is an online MA degree valid for UGC NET, PhD, and lectureship?',
-        a: 'Yes. As per UGC (ODL & Online Programmes) Regulations 2020, an Online MA from a UGC-DEB approved university is legally equivalent to a regular MA degree. Graduates are 100% eligible to appear for UGC NET/JRF, SET exams, pursue PhD admissions, and apply for assistant professor roles.',
-      },
-      {
-        q: 'What is the fee structure for an Online MA in India in 2027?',
-        a: 'Online MA fees in India start from ₹20,000 for entire 2-year programs at central universities like Jamia Millia Islamia (JMI), Aligarh Muslim University (AMU), and DU SOL. Private universities like LPU Online, Chandigarh University Online, and Amity Online charge between ₹60,000 to ₹1,20,000 with flexible semester EMIs.',
-      },
-      {
-        q: 'Which universities offer the best Online MA in English?',
-        a: 'Top universities for Online MA in English include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online (WES Approved), and IGNOU Online.',
-      },
-      {
-        q: 'Can I prepare for UPSC Civil Services while pursuing an Online MA?',
-        a: 'Absolutely. Many UPSC aspirants choose an Online MA in subjects like Political Science, History, Sociology, Public Administration, or English Literature. It provides a formal postgraduate degree without mandatory classroom attendance, leaving ample time for exam preparation.',
-      },
-      {
-        q: 'Are Online MA degrees WES approved for jobs and immigration abroad?',
-        a: 'Yes, select universities like Amity University Online, LPU Online, and Jain University Online hold World Education Services (WES) approval, making your degree valid for higher education and immigration to Canada and the USA.',
-      },
-    ],
+      { q: 'Can I appear for UGC NET after an online MA?', a: 'Yes. Degrees from UGC-DEB approved online universities are eligible for UGC NET and Assistant Professorship across India.' }
+    ]
   },
   'online-ma-english': {
     name: 'Online MA in English',
-    searchToken: 'MA',
+    searchToken: 'MA in English',
     title: 'Top Online MA in English Colleges in India 2027 | UGC Approved Fees',
-    desc: 'Find the best UGC-DEB approved universities for Online MA in English in India. Compare tuition fees, syllabus, NAAC ratings, and career scopes.',
+    desc: 'Compare 12+ UGC-DEB approved Online MA in English universities in India. Fees from ₹20,000 to ₹1.2 Lakhs. Check syllabus, NAAC grades, UGC-NET eligibility & career scope.',
     h1: 'Online MA in English Colleges in India 2027',
-    aboutText: 'An Online MA in English is a 2-year postgraduate program designed to build deep expertise in British, American, Indian, and World literature, literary criticism, linguistics, and creative writing. Offered by top universities like LPU Online, Chandigarh University Online, Vivekananda Global University Online, and Amity Online, it is 100% equivalent to regular degrees under UGC Regulations 2020. Graduates are fully eligible for UGC NET, PhD, school/college teaching, journalism, publishing, and civil services.',
+    aboutText: 'An Online MA in English Literature is one of the most flexible postgraduate humanities degrees in India. Covering British literature, American poetry, postcolonial theory, linguistics, and cultural studies, it is tailored for educators, content creators, UPSC aspirants, and communication specialists.',
     faqs: [
-      {
-        q: 'Which are the best universities for Online MA in English in India?',
-        a: 'Leading UGC-DEB approved universities offering Online MA in English include LPU Online (NAAC A++), Chandigarh University Online (QS Ranked), Vivekananda Global University Online, Shoolini University Online, Parul University Online, Sikkim Manipal University Online, Amity University Online, Jamia Millia Islamia Online, and IGNOU.',
-      },
-      {
-        q: 'What is the eligibility criteria for an Online MA in English?',
-        a: 'Candidates must hold a Bachelor’s degree (BA, B.Com, B.Sc, B.Tech, or equivalent) from any recognized university with a minimum of 45-50% aggregate marks. Most universities do not require an entrance exam for online MA admissions.',
-      },
-      {
-        q: 'Is an Online MA in English valid for government teaching jobs and UGC NET?',
-        a: 'Yes. As per UGC Notification 2020, Online MA in English degrees from UGC-DEB approved universities hold identical status to conventional degrees. You are eligible for UGC NET/JRF, PGT/TGT school teaching exams, and PhD admissions.',
-      },
-      {
-        q: 'What are the career opportunities after completing an Online MA in English?',
-        a: 'Graduates can pursue careers as Content Strategists, Technical Writers, Journalists, Copywriters, Editors, Public Relations Specialists, Academic Researchers, and Educators, or appear for civil services (UPSC) and state administrative exams.',
-      },
-      {
-        q: 'What is the total fee for an Online MA in English?',
-        a: 'Total tuition fees for a 2-year Online MA in English range from ₹20,000 (Central Universities like JMI/AMU/DU SOL) to ₹80,000–₹1,20,000 for top-ranked private universities like LPU, Chandigarh University, and Amity Online.',
-      },
-    ],
+      { q: 'Is an Online MA in English valid for UGC-NET & Assistant Professor exams?', a: 'Yes, 100%. Under UGC Regulations 2020, online MA degrees from UGC-DEB recognized institutions are identical to regular classroom degrees and valid for UGC NET, SET, and PhD admissions.' },
+      { q: 'What is the fee structure for an Online MA in English in India?', a: 'Fees range from ₹20,000 (Jamia Millia Islamia Online) up to ₹1,00,000–₹1,20,000 (Amity Online, Jain Online, LPU Online) for the complete 2-year course.' }
+    ]
   },
   'online-ba': {
     name: 'Online BA',
@@ -207,8 +177,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     aboutText: 'An Executive Online MBA is designed specifically for working professionals, project managers, and aspiring leaders seeking rapid career advancement without taking a career break. Featuring flexible weekend masterclasses, practical business case studies, and global alumni networking, these UGC-entitled programs offer maximum corporate ROI and salary progression.',
     faqs: [
       { q: 'What is the eligibility for an Executive Online MBA?', a: 'Candidates typically need a Bachelor\'s degree with 50% aggregate marks and 1 to 3 years of full-time work experience.' },
-      { q: 'How is Executive Online MBA different from regular Online MBA?', a: 'Executive Online MBAs emphasize strategic leadership, high-level business analytics, executive peer networking, and flexible pacing tailored to working managers.' },
-      { q: 'What is the average salary increase after an Executive Online MBA?', a: 'Graduates commonly report 35% to 60% salary increments and accelerated promotions into managerial, directorship, or VP roles.' }
+      { q: 'How is Executive Online MBA different from regular Online MBA?', a: 'Executive Online MBAs emphasize strategic leadership, high-level business analytics, executive peer networking, and flexible pacing tailored to working managers.' }
     ]
   },
   'online-data-science': {
@@ -220,8 +189,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     aboutText: 'Online Data Science, Artificial Intelligence, and Big Data Analytics degrees blend rigorous academic foundations with hands-on virtual laboratory training in Python, R, SQL, Tableau, TensorFlow, and Cloud computing. Offered by NAAC A++ universities like Amity Online, Jain Online, LPU Online, and Chandigarh University, these degrees prepare learners for high-growth tech careers.',
     faqs: [
       { q: 'Can non-engineers pursue an Online Data Science degree?', a: 'Yes. Most universities accept candidates from B.Com, B.Sc, BBA, and BCA backgrounds, offering foundational bridge modules in statistics and basic programming.' },
-      { q: 'What tools are taught in Online Data Science degrees?', a: 'Curriculums cover Python, R, SQL, PowerBI, Tableau, Hadoop, Spark, Scikit-Learn, Deep Learning, and Cloud AI deployment.' },
-      { q: 'What is the average starting salary for Online Data Science graduates?', a: 'Starting packages range from ₹6 LPA to ₹14 LPA for Data Analysts, ML Engineers, and Business Intelligence Consultants.' }
+      { q: 'What tools are taught in Online Data Science degrees?', a: 'Curriculums cover Python, R, SQL, PowerBI, Tableau, Hadoop, Spark, Scikit-Learn, Deep Learning, and Cloud AI deployment.' }
     ]
   },
   'cheapest-online-mba': {
@@ -232,9 +200,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     h1: 'Cheapest Online MBA Colleges in India (Under ₹1 Lakh, 2027)',
     aboutText: 'Pursuing a high-quality, UGC-DEB approved Online MBA does not need to cost ₹2 Lakhs or more. Top state universities and NAAC A+/A accredited private institutions offer complete 2-year MBA programs between ₹62,200 to ₹98,000, fully equipped with digital LMS, live weekend masterclasses, proctored exams, and 100% legal equivalence for government jobs.',
     faqs: [
-      { q: 'Which is the cheapest UGC-approved Online MBA in India?', a: 'Andhra University Online offers the most affordable UGC-DEB approved Online MBA in India at ₹62,200 total tuition fees for 2 years, followed by Kalinga University (₹80,000), Galgotias University (₹90,000), and Uttaranchal University (₹98,000).' },
-      { q: 'Are low-cost online MBA degrees valid for government jobs and MNCs?', a: 'Yes, 100%. As long as the university holds valid UGC-DEB entitlement, its fee structure does not affect legal validity. The degree is fully accepted for UPSC, Bank PO, SSC, and private sector MNCs.' },
-      { q: 'Do cheap online MBA universities offer monthly EMI options?', a: 'Yes, most universities provide zero-cost monthly EMI payment plans starting from ₹3,000 to ₹4,500 per month.' }
+      { q: 'Which is the cheapest UGC-approved Online MBA in India?', a: 'Andhra University Online offers the most affordable UGC-DEB approved Online MBA in India at ₹62,200 total tuition fees for 2 years, followed by Kalinga University (₹80,000), Galgotias University (₹90,000), and Uttaranchal University (₹98,000).' }
     ]
   },
   '1-year-online-mba': {
@@ -245,8 +211,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     h1: '1-Year Fast Track Online MBA in India (2027)',
     aboutText: '1-Year Fast Track Online MBA and Executive Post Graduate Diploma programs are engineered for experienced professionals seeking rapid credential upgrades. Designed with accelerated coursework in corporate strategy, digital leadership, financial modeling, and global marketing, these programs minimize study duration while maximizing career growth.',
     faqs: [
-      { q: 'Who is eligible for a 1-Year Online MBA?', a: 'Candidates with a Bachelor\'s degree and a minimum of 2 to 3 years of verifiable corporate work experience are typically eligible.' },
-      { q: 'Is a 1-Year MBA recognized by corporate recruiters?', a: 'Yes. Top MNCs, consulting firms, and tech corporations actively value accelerated executive MBAs when evaluating candidates for team lead, managerial, and operational director positions.' }
+      { q: 'Who is eligible for a 1-Year Online MBA?', a: 'Candidates with a Bachelor\'s degree and a minimum of 2 to 3 years of verifiable corporate work experience are typically eligible.' }
     ]
   },
   'wes-approved-online-degrees': {
@@ -257,9 +222,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     h1: 'WES Approved Online Degrees in India (2027)',
     aboutText: 'World Education Services (WES) credential evaluation is mandatory for individuals pursuing Canada Permanent Residency (Express Entry CRS points), US H1-B processing, or North American university admissions. Select Indian online universities hold recognized status where their Online MBA, MCA, and Master\'s degrees are evaluated as equivalent to 2-year Canadian and US post-graduate degrees.',
     faqs: [
-      { q: 'Which online universities in India are approved by WES?', a: 'Amity University Online, Jain University Online, Lovely Professional University (LPU Online), Manipal University Jaipur Online, and D.Y. Patil University hold recognized credential equivalence with World Education Services (WES).' },
-      { q: 'How many CRS points do I get for an Online Master\'s degree in Canada PR?', a: 'A WES-evaluated Master\'s degree awards the full Master\'s level Comprehensive Ranking System (CRS) points (up to 126–135 points depending on age and marital status), identical to a regular on-campus degree.' },
-      { q: 'How do I send my online degree transcripts to WES?', a: 'Most approved online universities have direct electronic transcript delivery agreements with WES, enabling fast digital verification within 7 to 14 business days.' }
+      { q: 'Which online universities in India are approved by WES?', a: 'Amity University Online, Jain University Online, Lovely Professional University (LPU Online), Manipal University Jaipur Online, and D.Y. Patil University hold recognized credential equivalence with World Education Services (WES).' }
     ]
   },
   'ugc-deb-approved-universities': {
@@ -270,9 +233,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     h1: 'UGC-DEB Approved Online Universities List 2027',
     aboutText: 'The University Grants Commission - Distance Education Bureau (UGC-DEB) is the statutory regulatory body governing online and distance higher education in India. Under UGC (Open and Distance Learning Programmes and Online Programmes) Regulations 2020, degrees awarded by entitled universities hold 100% parity with regular physical classroom degrees across India and internationally.',
     faqs: [
-      { q: 'How can I verify if a university has UGC-DEB approval?', a: 'Visit the official UGC-DEB portal (deb.ugc.ac.in) and check the "Entitled Higher Educational Institutions (HEIs) for Online Programmes" list for the current academic session.' },
-      { q: 'What happens if a student enrols in a non-approved online degree?', a: 'Degrees from unapproved institutions are invalid for government employment, UPSC/PSC exams, higher education admissions, and public sector promotions.' },
-      { q: 'Which online universities hold the highest NAAC A++ accreditation?', a: 'Jain University Online, LPU Online, D.Y. Patil University Online, SRM University Online, Amrita Vishwa Vidyapeetham Online, and SASTRA University Online hold the coveted NAAC A++ grade.' }
+      { q: 'How can I verify if a university has UGC-DEB approval?', a: 'Visit the official UGC-DEB portal (deb.ugc.ac.in) and check the "Entitled Higher Educational Institutions (HEIs) for Online Programmes" list for the current academic session.' }
     ]
   },
   'distance-vs-online-degree': {
@@ -283,9 +244,7 @@ const COURSE_MAP: Record<string, CourseConfig> = {
     h1: 'Online Degree vs Distance Education (ODL) in India (2027)',
     aboutText: 'While both Online Degrees (OL) and Open & Distance Learning (ODL) hold equal legal recognition from UGC-DEB, their learning delivery is fundamentally different. Online degrees are 100% digital with live interactive classes, virtual case studies, and AI-proctored home exams. Distance education relies primarily on self-study with printed books and physical exam centers.',
     faqs: [
-      { q: 'Which is better: Online Degree or Distance Degree?', a: 'Online Degrees are widely preferred today because of interactive live lectures, LMS recordings, placement support cells, and AI-proctored home examinations without traveling to test centers.' },
-      { q: 'Is there a fee difference between Online and Distance Education?', a: 'Distance education is generally cheaper (₹30,000 to ₹70,000 for 2 years), while Online degrees range from ₹62,000 to ₹2,00,000 due to advanced tech infrastructure, virtual live masterclasses, and career support.' },
-      { q: 'Do recruiters prefer Online degrees over Distance degrees?', a: 'Yes. Modern corporate recruiters view online degrees more favorably because they demonstrate digital literacy, active project submissions, and attendance in live masterclasses.' }
+      { q: 'Which is better: Online Degree or Distance Degree?', a: 'Online Degrees are widely preferred today because of interactive live lectures, LMS recordings, placement support cells, and AI-proctored home examinations without traveling to test centers.' }
     ]
   }
 };
@@ -442,14 +401,11 @@ const findCollegeBySlugPart = (part: string) => {
   return COLLEGES.find(c => c.name.toLowerCase().replace(/[^a-z0-9]/g, '').includes(normalized.replace(/[^a-z0-9]/g, '')));
 };
 
-// ── Next.js Dynamic Configuration ─────────────────────────────────────────────
-
 export async function generateStaticParams() {
   const courseSlugs = Object.keys(COURSE_MAP);
   const geoSlugs = Object.keys(GEO_MAP);
   const universitySlugs = COLLEGES.map((c) => c.universitySlug).filter(Boolean);
   
-  // Popular comparisons that are high-traffic
   const comparisonSlugs = [
     'amity-vs-jain',
     'lpu-vs-chandigarh',
@@ -483,7 +439,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const PAGE_URL = `${BASE_URL}${PARENT_PATH}/${slug}/`;
 
-  // 1. Course Metadata
   if (COURSE_MAP[slug]) {
     const config = COURSE_MAP[slug];
     return {
@@ -505,7 +460,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  // 2. Geo Metadata
   if (GEO_MAP[slug]) {
     const config = GEO_MAP[slug];
     return {
@@ -527,7 +481,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  // 2. Comparison Metadata
   if (slug.includes('-vs-')) {
     const [partA, partB] = slug.split('-vs-');
     const collegeA = findCollegeBySlugPart(partA);
@@ -559,7 +512,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     }
   }
 
-  // 3. University Metadata (Case C)
   const college = COLLEGES.find((c) => c.universitySlug === slug);
   if (college) {
     const title = `${college.name} Online Admission & Fees 2027`;
@@ -599,7 +551,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
   if (COURSE_MAP[slug]) {
     const config = COURSE_MAP[slug];
     
-    // Filter colleges for this specific program (case insensitive match)
     const matchingColleges = COLLEGES.filter(c => {
       if (!config.searchToken || config.searchToken === 'ALL') return true;
       if (config.searchToken === 'WES') return c.accreditation.includes('WES') || c.approvals.includes('WES');
@@ -609,7 +560,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
       return progMatch || specMatch;
     });
 
-    // Dynamic JSON-LD for Course Page
     const courseJsonLd = {
       '@context': 'https://schema.org',
       '@graph': [
@@ -657,124 +607,117 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     };
 
     return (
-      <div className="bg-[#f8f7f4] min-h-screen">
-        <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
-          .page-font { font-family: 'DM Sans', sans-serif; }
-          .display-font { font-family: 'Playfair Display', serif; }
-          .hero-bg {
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-            position: relative;
-            overflow: hidden;
-          }
-          .hero-bg::before {
-            content: '';
-            position: absolute;
-            inset: 0;
-            background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
-          }
-          .hero-grid {
-            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-                              linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-            background-size: 48px 48px;
-            position: absolute;
-            inset: 0;
-          }
-          .stat-card {
-            background: linear-gradient(135deg, #1e293b, #0f172a);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 16px;
-          }
-          .cta-strip {
-            background: linear-gradient(90deg, #4f46e5, #7c3aed);
-          }
-        `}</style>
+      <div className="w-full bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
+        <College4SureScrollProgress />
+        <College4SureTicker />
 
-        <div className="page-font">
-          {/* Hero */}
-          <section className="hero-bg py-20 relative">
-            <div className="hero-grid" />
-            <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-              <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
-                <BadgeCheck size={14} className="text-indigo-400" />
-                UGC-DEB Approved Universities · 2027 Edition
-              </span>
-              <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-6">
-                Best {config.h1}
-              </h1>
-              <p className="text-white/60 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-medium">
-                {config.aboutText}
-              </p>
+        {/* Hero Section */}
+        <section className="relative overflow-hidden bg-gradient-to-b from-[#F8FAFC] via-white to-[#F1F5F9]/90 text-[#061124] pt-12 pb-16 sm:pt-16 sm:pb-24 border-b border-[#061124]/10">
+          <div className="absolute top-[-100px] left-1/2 -translate-x-1/2 w-[700px] h-[350px] bg-[#2563EB]/10 blur-[100px] pointer-events-none rounded-full" />
+          
+          <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white border border-[#061124]/10 shadow-[0_4px_20px_rgba(6,17,36,0.06)] font-mono text-xs font-extrabold uppercase tracking-wider mb-6 text-[#10B981] backdrop-blur-md">
+              <span className="dotlive" />
+              <span>UGC-DEB Approved Universities · 2027 Directory</span>
+            </div>
 
-              {/* Stats */}
-              <div className="mt-10 grid grid-cols-2 gap-4 max-w-sm mx-auto">
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">{matchingColleges.length}+</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Colleges</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">
-                    {matchingColleges.length > 0 ? matchingColleges.reduce((min, c) => c.feeNum < min ? c.feeNum : min, Infinity).toLocaleString('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).replace('INR', '₹') : '₹62K'}
-                  </p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Starting Fee</p>
-                </div>
+            <h1 className="font-display text-4xl sm:text-6xl lg:text-[60px] font-black text-[#061124] leading-[1.08] tracking-tight mb-6">
+              Best {config.h1}
+            </h1>
+
+            <p className="text-[#475569] text-base sm:text-lg max-w-3xl mx-auto leading-relaxed font-normal mb-8">
+              {config.aboutText}
+            </p>
+
+            {/* Stats */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3.5 max-w-2xl mx-auto">
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] text-center">
+                <b className="font-display font-black text-2xl sm:text-3xl text-[#2563EB] block">{matchingColleges.length}+</b>
+                <span className="font-mono text-[10px] sm:text-[11px] font-bold uppercase text-[#061124] mt-1 block">Colleges</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] text-center">
+                <b className="font-display font-black text-2xl sm:text-3xl text-[#10B981] block">
+                  {matchingColleges.length > 0 ? matchingColleges.reduce((min, c) => c.feeNum < min ? c.feeNum : min, Infinity).toLocaleString('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).replace('INR', '₹') : '₹62K'}
+                </b>
+                <span className="font-mono text-[10px] sm:text-[11px] font-bold uppercase text-[#061124] mt-1 block">Starting Fee</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] text-center">
+                <b className="font-display font-black text-2xl sm:text-3xl text-[#FF007A] block">100%</b>
+                <span className="font-mono text-[10px] sm:text-[11px] font-bold uppercase text-[#061124] mt-1 block">Legal Equivalence</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] text-center">
+                <b className="font-display font-black text-2xl sm:text-3xl text-[#F59E0B] block">NAAC A+</b>
+                <span className="font-mono text-[10px] sm:text-[11px] font-bold uppercase text-[#061124] mt-1 block">Top Grades</span>
               </div>
             </div>
-          </section>
+          </div>
+        </section>
 
-          {/* CTA Strip */}
-          <div className="cta-strip py-4 text-center text-white">
+        {/* Call Strip */}
+        <div className="bg-gradient-to-r from-blue-50 via-indigo-50/70 to-blue-50 py-3.5 text-center border-b border-[#061124]/10">
+          <div className="max-w-[1220px] mx-auto px-4 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6">
+            <a href="tel:+919560020771" className="font-mono font-extrabold text-xs sm:text-sm text-[#061124] hover:text-[#2563EB] flex items-center gap-1.5">
+              <Phone size={14} className="text-[#2563EB]" /> Admissions Helpline: +91 95600 20771
+            </a>
+            <span className="hidden sm:inline text-[#061124]/20">•</span>
             <a
-              href="tel:+919560020771"
-              className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
+              href={`https://wa.me/919560020771?text=Hi%2C%20I%20need%20free%20guidance%20for%20${encodeURIComponent(config.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#10B981] hover:bg-[#059669] text-white px-4 py-1 rounded-full font-display font-extrabold text-xs uppercase tracking-wider"
             >
-              <Phone size={15} />
-              Talk to a free counsellor · Call +91 95600 20771
+              WhatsApp Advisor →
             </a>
           </div>
+        </div>
 
-          {/* Lead capture form */}
-          <section className="px-6 py-6 bg-[#f8f7f4]">
-            <OnlineDegreeLeadForm />
-          </section>
+        {/* Lead Form */}
+        <section className="py-8 px-4 sm:px-6 lg:px-8 bg-[#F8FAFC]">
+          <OnlineDegreeLeadForm />
+        </section>
 
-          {/* Course filter Client component */}
-          <OnlineDegreeClient initialCourse={config.searchToken} />
+        {/* Interactive Explorer */}
+        <OnlineDegreeClient initialCourse={config.searchToken} />
 
-          {/* Static Comparison Table for SEO */}
-          <section className="bg-white py-16 md:py-20 border-t border-gray-100">
-            <div className="max-w-5xl mx-auto px-6">
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
+        {/* Static Matrix Table */}
+        <section className="py-16 sm:py-24 bg-white border-t border-[#061124]/10">
+          <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="text-center max-w-3xl mx-auto mb-12">
+              <span className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#2563EB] flex items-center justify-center gap-2 mb-2">
+                <span className="w-5 h-0.5 rounded-full bg-[#2563EB]" />
+                Fee &amp; Accreditation Matrix
+              </span>
+              <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-[#061124] tracking-tight">
                 Top UGC-Approved {config.name} Universities Comparison (2027)
               </h2>
-              <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
-                Comprehensive fee structures, NAAC accreditations, and approvals for universities offering {config.name} in India.
-              </p>
-              <div className="overflow-x-auto border-[4px] border-[#0f172a] rounded-2xl shadow-[8px_8px_0px_0px_rgba(15,23,42,1)]">
-                <table className="w-full text-left border-collapse min-w-[700px]">
+            </div>
+
+            <div className="overflow-hidden border-[1.5px] border-[#061124]/10 rounded-[28px] shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] bg-white">
+              <div className="overflow-x-auto">
+                <table className="w-full text-left border-collapse min-w-[750px]">
                   <thead>
-                    <tr className="bg-[#0f172a] text-white font-bold text-xs uppercase tracking-widest border-b-[4px] border-[#0f172a]">
+                    <tr className="bg-[#F1F5F9] text-[#061124] font-mono text-xs uppercase tracking-wider font-extrabold border-b border-[#061124]/10">
                       <th className="px-6 py-4">University Name</th>
                       <th className="px-6 py-4 text-center">NAAC Grade</th>
-                      <th className="px-6 py-4">Approx. Fees (2-3 Years)</th>
+                      <th className="px-6 py-4">Approx. Fees</th>
                       <th className="px-6 py-4">Duration</th>
                       <th className="px-6 py-4 text-center">Recognition</th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y-2 divide-gray-100 font-medium text-gray-700 text-sm">
-                    {matchingColleges.slice(0, 10).map((univ, idx) => (
-                      <tr key={idx} className="hover:bg-gray-50 transition-colors">
-                        <td className="px-6 py-4 font-bold text-[#0f172a]">{univ.name}</td>
+                  <tbody className="divide-y divide-[#061124]/8 font-medium text-[#061124] text-sm">
+                    {matchingColleges.slice(0, 12).map((univ, idx) => (
+                      <tr key={idx} className="hover:bg-blue-50/50 transition-colors">
+                        <td className="px-6 py-4 font-display font-extrabold text-[#061124]">{univ.name}</td>
                         <td className="px-6 py-4 text-center">
-                          <span className="bg-indigo-50 text-indigo-700 px-3 py-1 rounded-full text-xs font-bold border border-indigo-100">
-                            {univ.grade} Rated
+                          <span className="font-mono bg-blue-50 text-[#2563EB] px-3 py-1 rounded-full text-xs font-bold border border-blue-200/60">
+                            {univ.grade}
                           </span>
                         </td>
-                        <td className="px-6 py-4 font-bold text-green-700">{univ.fee}</td>
-                        <td className="px-6 py-4 text-xs font-semibold text-gray-500">{univ.duration}</td>
+                        <td className="px-6 py-4 font-display font-black text-[#10B981]">{univ.fee}</td>
+                        <td className="px-6 py-4 font-mono text-xs text-[#475569]">{univ.duration}</td>
                         <td className="px-6 py-4 text-center">
-                          <span className="bg-emerald-50 text-emerald-700 px-3 py-1 rounded-full text-xs font-bold border border-emerald-100">
-                            UGC-DEB Approved
+                          <span className="font-mono bg-emerald-50 text-[#059669] px-3 py-1 rounded-full text-xs font-bold border border-emerald-200/60">
+                            UGC-DEB
                           </span>
                         </td>
                       </tr>
@@ -783,58 +726,56 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                 </table>
               </div>
             </div>
-          </section>
+          </div>
+        </section>
 
-          {/* FAQs section */}
-          <section className="bg-[#f8f7f4] py-16 md:py-20 border-t border-b border-gray-200">
-            <div className="max-w-3xl mx-auto px-6">
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
-                {config.name} Frequently Asked Questions
-              </h2>
-              <p className="text-gray-500 text-center mb-10">
-                Key questions about eligibility, accreditations, and career values for Online {config.searchToken}.
-              </p>
-              <div className="space-y-3">
-                {config.faqs.map((faq, idx) => (
-                  <details
-                    key={idx}
-                    className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden"
-                  >
-                    <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                      <span>{faq.q}</span>
-                      <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
-                    </summary>
-                    <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
-                      {faq.a}
-                    </div>
-                  </details>
-                ))}
-              </div>
+        {/* FAQs */}
+        <section className="py-16 sm:py-24 bg-[#F1F5F9]/80 border-t border-[#061124]/10">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-[#061124] text-center mb-10 tracking-tight">
+              {config.name} Frequently Asked Questions
+            </h2>
+            <div className="space-y-3.5">
+              {config.faqs.map((faq, idx) => (
+                <details key={idx} className="group rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 shadow-[0_10px_30px_-15px_rgba(6,17,36,0.06)] overflow-hidden transition-all hover:border-[#2563EB]/40">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-display font-bold text-[#061124] text-sm sm:text-base hover:text-[#2563EB] transition-colors">
+                    <span>{faq.q}</span>
+                    <ChevronDown size={18} className="text-[#2563EB] shrink-0 transition-transform group-open:rotate-180" />
+                  </summary>
+                  <div className="px-6 pb-6 text-[#475569] text-sm leading-relaxed border-t border-[#061124]/6 pt-4 font-normal">
+                    {faq.a}
+                  </div>
+                </details>
+              ))}
             </div>
-          </section>
+          </div>
+        </section>
 
-          {/* Bottom CTA Banner */}
-          <section className="bg-[#0f172a] py-16 text-center">
-            <div className="max-w-3xl mx-auto px-6">
-              <h2 className="display-font text-3xl font-black text-white mb-4">
-                Confused about online {config.name} admissions?
+        {/* CTA Banner */}
+        <section className="py-14 sm:py-20 bg-white">
+          <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="relative rounded-[32px] sm:rounded-[44px] p-8 sm:p-14 text-center text-white overflow-hidden shadow-[0_34px_70px_-30px_rgba(37,99,235,0.45)] bg-gradient-to-br from-[#061124] via-[#1E40AF] to-[#0D9488]">
+              <h2 className="font-display text-3xl sm:text-4xl font-black mb-4">
+                Confused about {config.name} admissions?
               </h2>
-              <p className="text-white/50 mb-8 text-base">
-                Get a free customized evaluation of fees, exams, and matching universities with expert guide Mohit Jain.
+              <p className="text-white/80 max-w-xl mx-auto mb-8 text-sm sm:text-base font-normal">
+                Get a free customized profile evaluation of fees, exams, and matching universities directly with Mohit Jain.
               </p>
               <a
                 href={`https://wa.me/919560020771?text=Hi%2C%20I%20want%20to%20know%20more%20about%20${encodeURIComponent(config.name)}%20options`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block bg-gradient-to-r from-indigo-500 to-violet-600 text-white font-bold text-lg px-10 py-4 rounded-2xl hover:opacity-90 transition-opacity shadow-xl shadow-indigo-900/40"
+                className="px-8 py-4 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-lg inline-flex items-center gap-2"
               >
-                Get Free Counseling →
+                <span>Get Free Counselling on WhatsApp</span>
+                <ArrowRight size={16} />
               </a>
             </div>
-          </section>
-        </div>
+          </div>
+        </section>
 
-        {/* JSON-LD Script */}
+        <College4SureSeoLinks />
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(courseJsonLd) }}
@@ -895,180 +836,134 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     };
 
     return (
-      <div className="bg-[#f8f7f4] min-h-screen">
-        <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
-          .page-font { font-family: 'DM Sans', sans-serif; }
-          .display-font { font-family: 'Playfair Display', serif; }
-          .hero-bg {
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-            position: relative;
-            overflow: hidden;
-          }
-          .hero-bg::before {
-            content: '';
-            position: absolute;
-            inset: 0;
-            background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
-          }
-          .hero-grid {
-            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-                              linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-            background-size: 48px 48px;
-            position: absolute;
-            inset: 0;
-          }
-          .stat-card {
-            background: linear-gradient(135deg, #1e293b, #0f172a);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 16px;
-          }
-          .cta-strip {
-            background: linear-gradient(90deg, #4f46e5, #7c3aed);
-          }
-        `}</style>
+      <div className="w-full bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
+        <College4SureScrollProgress />
+        <College4SureTicker />
 
-        <div className="page-font">
-          {/* Hero */}
-          <section className="hero-bg py-20 relative">
-            <div className="hero-grid" />
-            <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-              <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
-                <MapPin size={14} className="text-indigo-400" />
-                Regional Education Hub · {config.name}
-              </span>
-              <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-4">
-                {config.h1}
-              </h1>
-              <p className="text-indigo-300 text-xs md:text-sm font-bold uppercase tracking-widest mb-6">
-                {config.cities}
-              </p>
-              <p className="text-white/70 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-medium">
-                {config.aboutText}
-              </p>
+        {/* Hero */}
+        <section className="relative overflow-hidden bg-gradient-to-b from-[#F8FAFC] via-white to-[#F1F5F9]/90 text-[#061124] pt-12 pb-16 sm:pt-16 sm:pb-24 border-b border-[#061124]/10">
+          <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white border border-[#061124]/10 shadow-[0_4px_20px_rgba(6,17,36,0.06)] font-mono text-xs font-extrabold uppercase tracking-wider mb-6 text-[#2563EB] backdrop-blur-md">
+              <MapPin size={14} />
+              <span>Regional Education Hub · {config.name}</span>
+            </div>
 
-              {/* Stats */}
-              <div className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-2xl mx-auto">
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">{matchingColleges.length}+</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Universities</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">
-                    {matchingColleges.length > 0 ? matchingColleges.reduce((min, c) => c.feeNum < min ? c.feeNum : min, Infinity).toLocaleString('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).replace('INR', '₹') : '₹20K'}
-                  </p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Starting Fee</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">100%</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">UGC Equivalence</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-2xl font-black text-white">NAAC A+</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Accreditation</p>
-                </div>
+            <h1 className="font-display text-4xl sm:text-6xl font-black text-[#061124] leading-[1.08] tracking-tight mb-4">
+              {config.h1}
+            </h1>
+
+            <p className="font-mono text-xs sm:text-sm font-bold text-[#2563EB] uppercase tracking-wider mb-5">
+              {config.cities}
+            </p>
+
+            <p className="text-[#475569] text-base sm:text-lg max-w-3xl mx-auto leading-relaxed font-normal mb-8">
+              {config.aboutText}
+            </p>
+
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3.5 max-w-2xl mx-auto">
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#2563EB] block">{matchingColleges.length}+</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">Universities</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#10B981] block">
+                  {matchingColleges.length > 0 ? matchingColleges.reduce((min, c) => c.feeNum < min ? c.feeNum : min, Infinity).toLocaleString('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).replace('INR', '₹') : '₹20K'}
+                </b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">Starting Fee</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#FF007A] block">100%</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">UGC Validity</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#F59E0B] block">NAAC A+</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">Accredited</span>
               </div>
             </div>
-          </section>
-
-          {/* CTA Strip */}
-          <div className="cta-strip py-4 text-center text-white">
-            <a
-              href="tel:+919560020771"
-              className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
-            >
-              <Phone size={15} />
-              Talk to a free counsellor for {config.name} · Call +91 95600 20771
-            </a>
           </div>
+        </section>
 
-          {/* Lead capture form */}
-          <section className="px-6 py-6 bg-[#f8f7f4]">
-            <OnlineDegreeLeadForm />
-          </section>
+        {/* Lead Form */}
+        <section className="py-8 px-4 bg-[#F8FAFC]">
+          <OnlineDegreeLeadForm />
+        </section>
 
-          {/* Regional Colleges Grid */}
-          <section className="bg-white py-16 md:py-20 border-t border-gray-100">
-            <div className="max-w-6xl mx-auto px-6">
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-4 text-center">
-                UGC Approved Online Universities in {config.name}
-              </h2>
-              <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto text-sm md:text-base font-medium">
-                Verified fee schedules, NAAC grades, and course details for online universities serving learners in {config.cities}.
-              </p>
+        {/* Regional Colleges Grid */}
+        <section className="py-16 sm:py-24 bg-white border-t border-[#061124]/10">
+          <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-[#061124] mb-3 text-center tracking-tight">
+              UGC Approved Online Universities in {config.name}
+            </h2>
+            <p className="text-[#475569] text-center mb-12 max-w-2xl mx-auto text-sm sm:text-base">
+              Verified fee schedules, NAAC grades, and course details for online universities serving learners in {config.cities}.
+            </p>
 
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {matchingColleges.map((univ) => (
-                  <div key={univ.name} className="bg-[#f8f7f4] rounded-3xl p-6 border border-gray-200 shadow-xs flex flex-col justify-between hover:border-indigo-300 transition-all">
-                    <div>
-                      <div className="flex items-center justify-between gap-2 mb-3">
-                        <span className="text-xs font-black uppercase tracking-wider bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full border border-indigo-200">
-                          {univ.grade} Rated
-                        </span>
-                        <span className="text-xs font-bold text-gray-500 uppercase tracking-wider flex items-center gap-1">
-                          <MapPin size={13} className="text-indigo-500" /> {univ.location}
-                        </span>
-                      </div>
-                      <h3 className="display-font text-xl font-black text-[#0f172a] mb-2">
-                        {univ.name}
-                      </h3>
-                      <p className="text-gray-500 text-xs leading-relaxed mb-4 line-clamp-3 font-medium">
-                        {univ.about}
-                      </p>
-                      <div className="space-y-1.5 text-xs font-bold text-gray-700 mb-6">
-                        <p className="flex items-center gap-2"><ShieldCheck size={14} className="text-emerald-600" /> Approvals: {univ.approvals}</p>
-                        <p className="flex items-center gap-2"><GraduationCap size={14} className="text-indigo-600" /> Programs: {univ.programs.join(', ')}</p>
-                      </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-7">
+              {matchingColleges.map((univ) => (
+                <div key={univ.name} className="group rounded-[28px] bg-[#F8FAFC] p-6 sm:p-7 border-[1.5px] border-[#061124]/10 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] flex flex-col justify-between hover:bg-white hover:border-[#2563EB]/40 hover:shadow-xl hover:-translate-y-1.5 transition-all">
+                  <div>
+                    <div className="flex items-center justify-between gap-2 mb-3">
+                      <span className="font-mono text-[10px] font-extrabold uppercase tracking-wider bg-blue-50 text-[#2563EB] px-2.5 py-1 rounded-full border border-blue-200/60">
+                        {univ.grade} Rated
+                      </span>
+                      <span className="font-mono text-[11px] text-[#475569] font-medium flex items-center gap-1">
+                        <MapPin size={12} className="text-[#2563EB]" /> {univ.location}
+                      </span>
                     </div>
-
-                    <div className="pt-4 border-t border-gray-200/80 flex items-center justify-between">
-                      <div>
-                        <span className="text-[10px] uppercase font-bold text-gray-400 block">Total Fees</span>
-                        <span className="text-sm font-black text-emerald-700">{univ.fee}</span>
-                      </div>
-                      <Link
-                        href={`/online-degree-certification/${univ.universitySlug}`}
-                        className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs px-4 py-2 rounded-xl transition-colors shadow-sm"
-                      >
-                        View Details →
-                      </Link>
+                    <h3 className="font-display font-extrabold text-lg text-[#061124] mb-2 group-hover:text-[#2563EB] transition-colors leading-snug">
+                      {univ.name}
+                    </h3>
+                    <p className="text-[#475569] text-xs leading-relaxed mb-4 line-clamp-3 font-normal">
+                      {univ.about}
+                    </p>
+                    <div className="space-y-1.5 font-mono text-xs font-semibold text-[#061124] mb-6">
+                      <p className="flex items-center gap-2"><ShieldCheck size={14} className="text-[#10B981]" /> Approvals: {univ.approvals}</p>
+                      <p className="flex items-center gap-2 truncate"><GraduationCap size={14} className="text-[#2563EB]" /> Programs: {univ.programs.join(', ')}</p>
                     </div>
                   </div>
-                ))}
-              </div>
-            </div>
-          </section>
 
-          {/* FAQs section */}
-          <section className="bg-[#f8f7f4] py-16 md:py-20 border-t border-b border-gray-200">
-            <div className="max-w-3xl mx-auto px-6">
-              <h2 className="display-font text-3xl md:text-4xl font-black text-[#0f172a] mb-3 text-center">
-                {config.name} Frequently Asked Questions
-              </h2>
-              <p className="text-gray-500 text-center mb-10">
-                Key questions about online degree admissions and recognition in {config.name}.
-              </p>
-              <div className="space-y-3">
-                {config.faqs.map((faq, idx) => (
-                  <details
-                    key={idx}
-                    className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden"
-                  >
-                    <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                      <span>{faq.q}</span>
-                      <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
-                    </summary>
-                    <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
-                      {faq.a}
+                  <div className="pt-4 border-t border-[#061124]/8 flex items-center justify-between">
+                    <div>
+                      <span className="font-mono text-[9px] uppercase font-bold text-[#475569] block">Total Fees</span>
+                      <span className="font-display font-black text-sm text-[#10B981]">{univ.fee}</span>
                     </div>
-                  </details>
-                ))}
-              </div>
+                    <Link
+                      href={`/online-degree-certification/${univ.universitySlug}`}
+                      className="px-4 py-2 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-display font-extrabold text-xs transition-all shadow-xs"
+                    >
+                      View Details →
+                    </Link>
+                  </div>
+                </div>
+              ))}
             </div>
-          </section>
-        </div>
+          </div>
+        </section>
 
-        {/* JSON-LD Script */}
+        {/* FAQs */}
+        <section className="py-16 sm:py-24 bg-[#F1F5F9]/80 border-t border-[#061124]/10">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-[#061124] text-center mb-10 tracking-tight">
+              {config.name} Frequently Asked Questions
+            </h2>
+            <div className="space-y-3.5">
+              {config.faqs.map((faq, idx) => (
+                <details key={idx} className="group rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 shadow-sm overflow-hidden transition-all hover:border-[#2563EB]/40">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-display font-bold text-[#061124] text-sm sm:text-base hover:text-[#2563EB] transition-colors">
+                    <span>{faq.q}</span>
+                    <ChevronDown size={18} className="text-[#2563EB] shrink-0 transition-transform group-open:rotate-180" />
+                  </summary>
+                  <div className="px-6 pb-6 text-[#475569] text-sm leading-relaxed border-t border-[#061124]/6 pt-4 font-normal">
+                    {faq.a}
+                  </div>
+                </details>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <College4SureSeoLinks />
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(geoJsonLd) }}
@@ -1084,7 +979,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     const collegeB = findCollegeBySlugPart(partB);
 
     if (collegeA && collegeB) {
-      // Comparison FAQs
       const compFaqs = [
         {
           q: `Is the degree from ${collegeA.name} better or ${collegeB.name}?`,
@@ -1100,7 +994,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
         }
       ];
 
-      // Comparison JSON-LD schema
       const comparisonJsonLd = {
         '@context': 'https://schema.org',
         '@graph': [
@@ -1134,7 +1027,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
         ]
       };
 
-      // Simple winner logic
       const isFeeCheaperA = collegeA.feeNum < collegeB.feeNum;
       const isFeeCheaperB = collegeB.feeNum < collegeA.feeNum;
       
@@ -1142,251 +1034,167 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
       const isRatingBetterB = (collegeB.grade === 'A++' && collegeA.grade !== 'A++') || (collegeB.grade === 'A+' && ['A', 'B+'].includes(collegeA.grade)) || (collegeB.grade === 'A' && collegeA.grade === 'B+');
 
       return (
-        <div className="bg-[#f8f7f4] min-h-screen">
-          <style>{`
-            @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
-            .page-font { font-family: 'DM Sans', sans-serif; }
-            .display-font { font-family: 'Playfair Display', serif; }
-            .vs-bg {
-              background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-              position: relative;
-              overflow: hidden;
-            }
-            .vs-badge {
-              background: linear-gradient(135deg, #4f46e5, #7c3aed);
-            }
-          `}</style>
+        <div className="w-full bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
+          <College4SureScrollProgress />
+          <College4SureTicker />
 
-          <div className="page-font">
-            {/* Header / VS Hero */}
-            <section className="vs-bg py-16 md:py-24 relative text-center text-white px-6">
-              <div className="absolute inset-0 bg-gradient-to-b from-indigo-500/5 to-transparent pointer-events-none" />
-              <span className="inline-flex items-center gap-1.5 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-6 backdrop-blur-sm">
-                <ShieldCheck size={14} className="text-indigo-400" />
+          {/* VS Hero Header */}
+          <section className="relative overflow-hidden bg-gradient-to-b from-[#F8FAFC] via-white to-[#F1F5F9]/90 text-[#061124] pt-12 pb-16 sm:pt-16 sm:pb-24 border-b border-[#061124]/10 text-center">
+            <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+              <span className="inline-flex items-center gap-1.5 bg-white border border-[#061124]/10 text-[#2563EB] font-mono text-xs font-extrabold uppercase tracking-wider px-4 py-1.5 rounded-full mb-6 shadow-sm">
+                <ShieldCheck size={14} />
                 UGC-DEB Comparison Engine
               </span>
 
-              <h1 className="display-font text-3xl md:text-5xl font-black mb-8 text-center max-w-4xl mx-auto">
-                {collegeA.name} <span className="text-indigo-400 italic">vs</span> {collegeB.name}
+              <h1 className="font-display text-3xl sm:text-5xl lg:text-6xl font-black text-[#061124] mb-8 leading-tight tracking-tight max-w-4xl mx-auto">
+                {collegeA.name} <span className="text-[#2563EB] italic">vs</span> {collegeB.name}
               </h1>
 
-              <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-center gap-6 md:gap-10">
-                {/* College A Hero Column */}
-                <div className="flex-1">
-                  <div className={`inline-block bg-gradient-to-br ${collegeA.gradeColor} rounded-xl px-4 py-2 text-xs font-bold uppercase tracking-wider mb-3`}>
+              <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-[1fr_auto_1fr] items-center gap-6">
+                {/* College A */}
+                <div className="rounded-[28px] bg-white border-[1.5px] border-[#061124]/10 p-6 shadow-md">
+                  <span className={`inline-block bg-gradient-to-br ${collegeA.gradeColor} text-white font-mono text-xs font-bold uppercase tracking-wider px-3.5 py-1 rounded-full mb-3`}>
                     NAAC {collegeA.grade}
-                  </div>
-                  <h2 className="display-font text-2xl md:text-3xl font-black">{collegeA.name}</h2>
-                  <p className="text-white/60 text-xs mt-1 font-semibold tracking-wide uppercase"><MapPin size={12} className="inline mr-1" />{collegeA.location}</p>
+                  </span>
+                  <h2 className="font-display text-xl sm:text-2xl font-black text-[#061124]">{collegeA.name}</h2>
+                  <p className="font-mono text-xs text-[#475569] mt-1 font-semibold">{collegeA.location}</p>
                 </div>
 
                 {/* VS Badge */}
-                <div className="vs-badge w-14 h-14 rounded-full flex items-center justify-center font-black italic shadow-lg text-lg text-white border-2 border-white/10 shrink-0 select-none">
+                <div className="w-14 h-14 rounded-full bg-gradient-to-r from-[#2563EB] via-[#8B5CF6] to-[#FF007A] text-white flex items-center justify-center font-display font-black text-lg mx-auto shadow-lg">
                   VS
                 </div>
 
-                {/* College B Hero Column */}
-                <div className="flex-1">
-                  <div className={`inline-block bg-gradient-to-br ${collegeB.gradeColor} rounded-xl px-4 py-2 text-xs font-bold uppercase tracking-wider mb-3`}>
+                {/* College B */}
+                <div className="rounded-[28px] bg-white border-[1.5px] border-[#061124]/10 p-6 shadow-md">
+                  <span className={`inline-block bg-gradient-to-br ${collegeB.gradeColor} text-white font-mono text-xs font-bold uppercase tracking-wider px-3.5 py-1 rounded-full mb-3`}>
                     NAAC {collegeB.grade}
-                  </div>
-                  <h2 className="display-font text-2xl md:text-3xl font-black">{collegeB.name}</h2>
-                  <p className="text-white/60 text-xs mt-1 font-semibold tracking-wide uppercase"><MapPin size={12} className="inline mr-1" />{collegeB.location}</p>
+                  </span>
+                  <h2 className="font-display text-xl sm:text-2xl font-black text-[#061124]">{collegeB.name}</h2>
+                  <p className="font-mono text-xs text-[#475569] mt-1 font-semibold">{collegeB.location}</p>
                 </div>
               </div>
-            </section>
-
-            {/* Quick action strip */}
-            <div className="bg-indigo-600 py-3 text-center text-white text-xs font-bold uppercase tracking-wider">
-              <span>Need help deciding? Call +91 95600 20771 for free counseling comparison.</span>
             </div>
+          </section>
 
-            {/* Comparison Matrix Table Section */}
-            <section className="py-12 md:py-16 px-6">
-              <div className="max-w-5xl mx-auto">
-                <h3 className="display-font text-2xl md:text-3xl font-black text-[#0f172a] text-center mb-10">
-                  Side-By-Side Comparison Matrix
-                </h3>
+          {/* Comparison Matrix Table */}
+          <section className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
+            <div className="max-w-5xl mx-auto">
+              <h3 className="font-display text-2xl sm:text-4xl font-extrabold text-[#061124] text-center mb-10 tracking-tight">
+                Side-By-Side Comparison Matrix
+              </h3>
 
-                <div className="bg-white rounded-3xl border border-gray-100 shadow-xl overflow-hidden">
-                  <div className="divide-y divide-gray-100">
-                    {/* NAAC Rating Row */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <Award size={16} className="text-indigo-500 shrink-0" />
-                        NAAC Rating
-                      </div>
-                      <div className={`p-4 rounded-2xl mx-2 font-black ${isRatingBetterA ? 'bg-emerald-50 border border-emerald-100 text-emerald-800' : 'bg-gray-50 text-gray-700'}`}>
-                        {collegeA.grade} Rating
-                        {isRatingBetterA && <span className="block text-[8px] uppercase tracking-wider text-emerald-600 mt-1">Winner</span>}
-                      </div>
-                      <div className={`p-4 rounded-2xl mx-2 font-black ${isRatingBetterB ? 'bg-emerald-50 border border-emerald-100 text-emerald-800' : 'bg-gray-50 text-gray-700'}`}>
-                        {collegeB.grade} Rating
-                        {isRatingBetterB && <span className="block text-[8px] uppercase tracking-wider text-emerald-600 mt-1">Winner</span>}
-                      </div>
+              <div className="rounded-[28px] bg-white border-[1.5px] border-[#061124]/10 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.12)] overflow-hidden">
+                <div className="divide-y divide-[#061124]/8">
+                  {/* NAAC Rating Row */}
+                  <div className="grid grid-cols-3 p-5 sm:p-7 items-center text-center">
+                    <div className="text-left font-mono font-bold text-xs uppercase text-[#061124] flex items-center gap-1.5">
+                      <Award size={15} className="text-[#2563EB]" /> NAAC Grade
                     </div>
-
-                    {/* Fees Row */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <IndianRupee size={16} className="text-indigo-500 shrink-0" />
-                        Total Fee Structure
-                      </div>
-                      <div className={`p-4 rounded-2xl mx-2 font-black ${isFeeCheaperA ? 'bg-emerald-50 border border-emerald-100 text-emerald-800' : 'bg-gray-50 text-gray-700'}`}>
-                        {collegeA.fee}
-                        {isFeeCheaperA && <span className="block text-[8px] uppercase tracking-wider text-emerald-600 mt-1">Cheaper Option</span>}
-                      </div>
-                      <div className={`p-4 rounded-2xl mx-2 font-black ${isFeeCheaperB ? 'bg-emerald-50 border border-emerald-100 text-emerald-800' : 'bg-gray-50 text-gray-700'}`}>
-                        {collegeB.fee}
-                        {isFeeCheaperB && <span className="block text-[8px] uppercase tracking-wider text-emerald-600 mt-1">Cheaper Option</span>}
-                      </div>
+                    <div className={`p-3.5 rounded-2xl mx-1.5 font-display font-extrabold text-sm ${isRatingBetterA ? 'bg-emerald-50 text-[#059669] border border-emerald-200' : 'bg-[#F8FAFC] text-[#061124]'}`}>
+                      {collegeA.grade}
+                      {isRatingBetterA && <span className="block font-mono text-[9px] uppercase tracking-wider text-[#059669] mt-0.5">Winner</span>}
                     </div>
-
-                    {/* Accreditations Row */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <ShieldCheck size={16} className="text-indigo-500 shrink-0" />
-                        Accreditations &amp; Approvals
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-gray-700 font-bold text-xs leading-relaxed">
-                        {collegeA.approvals}
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-gray-700 font-bold text-xs leading-relaxed">
-                        {collegeB.approvals}
-                      </div>
+                    <div className={`p-3.5 rounded-2xl mx-1.5 font-display font-extrabold text-sm ${isRatingBetterB ? 'bg-emerald-50 text-[#059669] border border-emerald-200' : 'bg-[#F8FAFC] text-[#061124]'}`}>
+                      {collegeB.grade}
+                      {isRatingBetterB && <span className="block font-mono text-[9px] uppercase tracking-wider text-[#059669] mt-0.5">Winner</span>}
                     </div>
+                  </div>
 
-                    {/* Programs Row */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <GraduationCap size={16} className="text-indigo-500 shrink-0" />
-                        Programs Available
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-gray-700 font-bold text-xs leading-relaxed">
-                        {collegeA.programs.join(', ')}
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-gray-700 font-bold text-xs leading-relaxed">
-                        {collegeB.programs.join(', ')}
-                      </div>
+                  {/* Fees Row */}
+                  <div className="grid grid-cols-3 p-5 sm:p-7 items-center text-center">
+                    <div className="text-left font-mono font-bold text-xs uppercase text-[#061124] flex items-center gap-1.5">
+                      <IndianRupee size={15} className="text-[#10B981]" /> Total Fee
                     </div>
-
-                    {/* Key Highlights Row */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <Star size={16} className="text-indigo-500 shrink-0" />
-                        Highlights
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-left text-xs font-semibold text-gray-600 space-y-2">
-                        {collegeA.highlights.map((h, i) => (
-                          <div key={i} className="flex gap-1.5 items-start">
-                            <span className="text-emerald-500 shrink-0 mt-0.5">✔</span>
-                            <span>{h}</span>
-                          </div>
-                        ))}
-                      </div>
-                      <div className="p-4 rounded-2xl mx-2 bg-gray-50 text-left text-xs font-semibold text-gray-600 space-y-2">
-                        {collegeB.highlights.map((h, i) => (
-                          <div key={i} className="flex gap-1.5 items-start">
-                            <span className="text-emerald-500 shrink-0 mt-0.5">✔</span>
-                            <span>{h}</span>
-                          </div>
-                        ))}
-                      </div>
+                    <div className={`p-3.5 rounded-2xl mx-1.5 font-display font-black text-sm ${isFeeCheaperA ? 'bg-emerald-50 text-[#059669] border border-emerald-200' : 'bg-[#F8FAFC] text-[#061124]'}`}>
+                      {collegeA.fee}
+                      {isFeeCheaperA && <span className="block font-mono text-[9px] uppercase tracking-wider text-[#059669] mt-0.5">Affordable Pick</span>}
                     </div>
+                    <div className={`p-3.5 rounded-2xl mx-1.5 font-display font-black text-sm ${isFeeCheaperB ? 'bg-emerald-50 text-[#059669] border border-emerald-200' : 'bg-[#F8FAFC] text-[#061124]'}`}>
+                      {collegeB.fee}
+                      {isFeeCheaperB && <span className="block font-mono text-[9px] uppercase tracking-wider text-[#059669] mt-0.5">Affordable Pick</span>}
+                    </div>
+                  </div>
 
-                    {/* Detailed Review Links */}
-                    <div className="grid grid-cols-3 p-6 md:p-8 items-center text-center">
-                      <div className="text-left font-black text-xs md:text-sm text-gray-400 uppercase tracking-widest flex items-center gap-1.5">
-                        <BookOpen size={16} className="text-indigo-500 shrink-0" />
-                        Read Review
-                      </div>
-                      <div className="mx-2">
-                        {collegeA.slug ? (
-                          <a href={`/blog/${collegeA.slug}`} className="inline-flex items-center gap-1 bg-slate-900 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-xl hover:bg-indigo-600 transition-colors">
-                            <BookOpen size={12} /> Read review
-                          </a>
-                        ) : '—'}
-                      </div>
-                      <div className="mx-2">
-                        {collegeB.slug ? (
-                          <a href={`/blog/${collegeB.slug}`} className="inline-flex items-center gap-1 bg-slate-900 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-xl hover:bg-indigo-600 transition-colors">
-                            <BookOpen size={12} /> Read review
-                          </a>
-                        ) : '—'}
-                      </div>
+                  {/* Approvals */}
+                  <div className="grid grid-cols-3 p-5 sm:p-7 items-center text-center">
+                    <div className="text-left font-mono font-bold text-xs uppercase text-[#061124] flex items-center gap-1.5">
+                      <ShieldCheck size={15} className="text-[#2563EB]" /> Approvals
+                    </div>
+                    <div className="p-3.5 rounded-2xl mx-1.5 bg-[#F8FAFC] font-mono text-xs font-bold text-[#061124]">
+                      {collegeA.approvals}
+                    </div>
+                    <div className="p-3.5 rounded-2xl mx-1.5 bg-[#F8FAFC] font-mono text-xs font-bold text-[#061124]">
+                      {collegeB.approvals}
+                    </div>
+                  </div>
+
+                  {/* Programs */}
+                  <div className="grid grid-cols-3 p-5 sm:p-7 items-center text-center">
+                    <div className="text-left font-mono font-bold text-xs uppercase text-[#061124] flex items-center gap-1.5">
+                      <GraduationCap size={15} className="text-[#2563EB]" /> Programs
+                    </div>
+                    <div className="p-3.5 rounded-2xl mx-1.5 bg-[#F8FAFC] font-mono text-xs font-semibold text-[#475569]">
+                      {collegeA.programs.join(', ')}
+                    </div>
+                    <div className="p-3.5 rounded-2xl mx-1.5 bg-[#F8FAFC] font-mono text-xs font-semibold text-[#475569]">
+                      {collegeB.programs.join(', ')}
+                    </div>
+                  </div>
+
+                  {/* Review Links */}
+                  <div className="grid grid-cols-3 p-5 sm:p-7 items-center text-center">
+                    <div className="text-left font-mono font-bold text-xs uppercase text-[#061124] flex items-center gap-1.5">
+                      <BookOpen size={15} className="text-[#2563EB]" /> Full Review
+                    </div>
+                    <div className="mx-1.5">
+                      {collegeA.slug ? (
+                        <a href={`/blog/${collegeA.slug}`} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
+                          <BookOpen size={12} /> {collegeA.name.split(' ')[0]} Review
+                        </a>
+                      ) : '—'}
+                    </div>
+                    <div className="mx-1.5">
+                      {collegeB.slug ? (
+                        <a href={`/blog/${collegeB.slug}`} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
+                          <BookOpen size={12} /> {collegeB.name.split(' ')[0]} Review
+                        </a>
+                      ) : '—'}
                     </div>
                   </div>
                 </div>
               </div>
-            </section>
+            </div>
+          </section>
 
-            {/* Custom Lead capture section for comparing */}
-            <section className="bg-white border-t border-b border-gray-100 py-12 px-6">
-              <div className="max-w-4xl mx-auto">
-                <div className="bg-[#f8f7f4] border-[4px] border-[#0f172a] rounded-[2.5rem] p-8 md:p-12 shadow-[8px_8px_0px_0px_rgba(15,23,42,1)]">
-                  <div className="text-center mb-8">
-                    <span className="bg-indigo-100 text-indigo-700 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full border border-indigo-200">
-                      Comparison evaluation request
-                    </span>
-                    <h3 className="display-font text-3xl font-black text-[#0f172a] mt-4 mb-2">
-                      Request comparison report
-                    </h3>
-                    <p className="text-gray-500 text-xs md:text-sm font-medium">
-                      Fill out your details to receive customized fee comparisons, specializations breakdown, and discount booklets for <strong>{collegeA.name}</strong> &amp; <strong>{collegeB.name}</strong>.
-                    </p>
-                  </div>
-                  <OnlineDegreeLeadForm />
-                </div>
-              </div>
-            </section>
+          {/* Lead Form */}
+          <section className="py-8 px-4 bg-[#F8FAFC]">
+            <OnlineDegreeLeadForm />
+          </section>
 
-            {/* FAQ section comparing A and B */}
-            <section className="py-16 px-6">
-              <div className="max-w-3xl mx-auto">
-                <h4 className="display-font text-3xl font-black text-[#0f172a] text-center mb-2">
-                  Frequently Asked Questions (FAQ)
-                </h4>
-                <p className="text-gray-500 text-center mb-10">
-                  Quick answers to help you decide between {collegeA.name} and {collegeB.name}.
-                </p>
-
-                <div className="space-y-3">
-                  {compFaqs.map((faq, idx) => (
-                    <details
-                      key={idx}
-                      className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden"
-                    >
-                      <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                        <span>{faq.q}</span>
-                        <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
-                      </summary>
-                      <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
-                        {faq.a}
-                      </div>
-                    </details>
-                  ))}
-                </div>
-              </div>
-            </section>
-
-            {/* WhatsApp direct links */}
-            <section className="bg-[#0f172a] py-16 text-center text-white px-6">
-              <h4 className="display-font text-2xl font-black mb-4">
-                Still undecided?
+          {/* FAQs */}
+          <section className="py-16 sm:py-24 bg-white border-t border-[#061124]/10">
+            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+              <h4 className="font-display text-3xl font-extrabold text-[#061124] text-center mb-10 tracking-tight">
+                Frequently Asked Questions (FAQ)
               </h4>
-              <p className="text-white/50 mb-8 max-w-lg mx-auto">
-                Reach out directly on WhatsApp and ask expert Mohit Jain for a detailed profile consultation between {collegeA.name} and {collegeB.name}.
-              </p>
-              <a
-                href={`https://wa.me/919560020771?text=Hi%2C%20I%20want%20to%20compare%20${encodeURIComponent(collegeA.name)}%20vs%20${encodeURIComponent(collegeB.name)}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold text-base px-8 py-4 rounded-xl shadow-lg transition-colors"
-              >
-                <Phone size={16} /> Chat comparison on WhatsApp
-              </a>
-            </section>
-          </div>
+              <div className="space-y-3.5">
+                {compFaqs.map((faq, idx) => (
+                  <details key={idx} className="group rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 shadow-sm overflow-hidden transition-all hover:border-[#2563EB]/40">
+                    <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-display font-bold text-[#061124] text-sm sm:text-base hover:text-[#2563EB] transition-colors">
+                      <span>{faq.q}</span>
+                      <ChevronDown size={18} className="text-[#2563EB] shrink-0 transition-transform group-open:rotate-180" />
+                    </summary>
+                    <div className="px-6 pb-6 text-[#475569] text-sm leading-relaxed border-t border-[#061124]/6 pt-4 font-normal">
+                      {faq.a}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </div>
+          </section>
+
+          <College4SureSeoLinks />
 
           <script
             type="application/ld+json"
@@ -1400,7 +1208,6 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
   // ── Render Case C: University Hub Page ──
   const college = COLLEGES.find((c) => c.universitySlug === slug);
   if (college) {
-    // Find popular comparisons involving this college
     const matchingComparisons = [
       'amity-vs-jain',
       'lpu-vs-chandigarh',
@@ -1413,9 +1220,8 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
       'sastra-vs-amrita',
       'scdl-vs-nmims'
     ].filter(comp => {
-      const parts = comp.split('-vs-');
       const namePart = college.name.toLowerCase();
-      return parts.some(part => namePart.includes(part));
+      return comp.split('-vs-').some(part => namePart.includes(part));
     });
 
     const univJsonLd = {
@@ -1427,7 +1233,7 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
           "url": PAGE_URL,
           "name": college.name,
           "description": college.about,
-          "logo": `${BASE_URL}/logo.png`,
+          "logo": `${BASE_URL}/logo.webp`,
           "address": {
             "@type": "PostalAddress",
             "addressLocality": college.location
@@ -1458,257 +1264,203 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     };
 
     return (
-      <div className="bg-[#f8f7f4] min-h-screen">
-        <style>{`
-          @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600&display=swap');
-          .page-font { font-family: 'DM Sans', sans-serif; }
-          .display-font { font-family: 'Playfair Display', serif; }
-          .hero-bg {
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-            position: relative;
-            overflow: hidden;
-          }
-          .hero-bg::before {
-            content: '';
-            position: absolute;
-            inset: 0;
-            background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(99,102,241,0.18) 0%, transparent 70%);
-          }
-          .hero-grid {
-            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-                              linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-            background-size: 48px 48px;
-            position: absolute;
-            inset: 0;
-          }
-          .stat-card {
-            background: linear-gradient(135deg, #1e293b, #0f172a);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 16px;
-          }
-          .cta-strip {
-            background: linear-gradient(90deg, #4f46e5, #7c3aed);
-          }
-        `}</style>
+      <div className="w-full bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
+        <College4SureScrollProgress />
+        <College4SureTicker />
 
-        <div className="page-font">
-          {/* Hero */}
-          <section className="hero-bg py-20 relative">
-            <div className="hero-grid" />
-            <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-              <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-white/80 text-xs font-semibold uppercase tracking-widest px-4 py-2 rounded-full mb-8 backdrop-blur-sm">
-                <BadgeCheck size={14} className="text-indigo-400" />
-                UGC-DEB Recognized · 2027 Admission Profile
-              </span>
-              <h1 className="display-font text-4xl md:text-6xl font-black text-white leading-tight mb-6">
-                {college.name}
-              </h1>
-              <p className="text-white/60 text-base md:text-lg max-w-3xl mx-auto leading-relaxed font-medium">
-                {college.about}
-              </p>
-
-              {/* Stats */}
-              <div className="mt-10 grid grid-cols-3 gap-4 max-w-xl mx-auto">
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-xl md:text-2xl font-black text-white">{college.grade}</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">NAAC Grade</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-xl md:text-2xl font-black text-white">{college.fee}</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Total Fee Est.</p>
-                </div>
-                <div className="stat-card px-4 py-4">
-                  <p className="display-font text-[10px] md:text-xs font-black text-white uppercase break-all leading-tight pt-1.5">{college.location}</p>
-                  <p className="text-white/50 text-[10px] font-bold uppercase tracking-widest mt-1">Campus Location</p>
-                </div>
-              </div>
+        {/* University Profile Hero */}
+        <section className="relative overflow-hidden bg-gradient-to-b from-[#F8FAFC] via-white to-[#F1F5F9]/90 text-[#061124] pt-12 pb-16 sm:pt-16 sm:pb-24 border-b border-[#061124]/10">
+          <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white border border-[#061124]/10 shadow-[0_4px_20px_rgba(6,17,36,0.06)] font-mono text-xs font-extrabold uppercase tracking-wider mb-6 text-[#10B981] backdrop-blur-md">
+              <BadgeCheck size={14} />
+              <span>UGC-DEB Recognized · 2027 Admission Profile</span>
             </div>
-          </section>
 
-          {/* CTA Strip */}
-          <div className="cta-strip py-4 text-center text-white">
-            <a
-              href={`https://wa.me/${college.whatsapp}?text=Hi%2C%20I%20want%20to%20know%20more%20about%20admissions%20at%20${encodeURIComponent(college.name)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 font-semibold text-sm hover:underline underline-offset-2 transition-all"
-            >
-              <Phone size={15} />
-              Speak with a Counselor for {college.name} on WhatsApp
-            </a>
-          </div>
+            <h1 className="font-display text-4xl sm:text-6xl font-black text-[#061124] leading-[1.08] tracking-tight mb-6">
+              {college.name}
+            </h1>
 
-          {/* Lead Capture */}
-          <section className="px-6 py-6 bg-[#f8f7f4]">
-            <div className="max-w-4xl mx-auto">
-              <OnlineDegreeLeadForm />
-            </div>
-          </section>
-
-          {/* Detailed Info Grid */}
-          <section className="bg-white py-16">
-            <div className="max-w-4xl mx-auto px-6">
-              <h2 className="display-font text-3xl font-black text-[#0f172a] mb-6 text-center">
-                Accreditations &amp; Global Recognitions
-              </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
-                <div className="bg-[#f8f7f4] p-6 rounded-2xl border border-gray-100">
-                  <h3 className="font-black text-[#0f172a] text-lg mb-3 flex items-center gap-2">
-                    <Award size={18} className="text-indigo-500" /> Government Approvals
-                  </h3>
-                  <p className="text-gray-600 text-sm leading-relaxed mb-4">
-                    The degree is fully approved by all national higher education councils in India.
-                  </p>
-                  <div className="flex flex-wrap gap-2">
-                    {college.approvals.split(',').map((app, idx) => (
-                      <span key={idx} className="bg-emerald-50 text-emerald-800 border border-emerald-100 text-xs font-bold px-3 py-1.5 rounded-lg">
-                        {app.trim()}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="bg-[#f8f7f4] p-6 rounded-2xl border border-gray-100">
-                  <h3 className="font-black text-[#0f172a] text-lg mb-3 flex items-center gap-2">
-                    <ShieldCheck size={18} className="text-indigo-500" /> Key Highlights &amp; Benefits
-                  </h3>
-                  <ul className="space-y-2.5">
-                    {college.highlights.map((h, i) => (
-                      <li key={i} className="flex items-start gap-2 text-xs font-semibold text-gray-600">
-                        <span className="text-emerald-500 mt-0.5">✔</span>
-                        <span>{h}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
-
-              {/* Course-Specific Detailed Blocks */}
-              <h2 className="display-font text-3xl font-black text-[#0f172a] mb-8 text-center pt-8 border-t border-gray-100">
-                Online Programs &amp; Tuition Fees Breakdown
-              </h2>
-              <div className="space-y-6">
-                {college.programs.map((prog, idx) => (
-                  <div key={idx} className="bg-[#f8f7f4] border border-gray-100 rounded-2xl p-6 md:p-8 hover:shadow-md transition-shadow">
-                    <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-4">
-                      <h3 className="font-black text-xl text-[#0f172a] flex items-center gap-2">
-                        <GraduationCap size={22} className="text-indigo-500" /> Online {prog}
-                      </h3>
-                      <span className="bg-indigo-50 text-indigo-700 border border-indigo-100 text-xs font-bold px-3 py-1.5 rounded-full">
-                        {college.duration}
-                      </span>
-                    </div>
-                    <p className="text-gray-500 text-sm leading-relaxed mb-4">
-                      Pursue {prog} from {college.name} Online. It features weekend live mentoring, self-paced LMS structures, and dynamic exams.
-                    </p>
-                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 pt-2">
-                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50">
-                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Estimated Fee</p>
-                        <p className="text-base font-black text-green-700 mt-0.5">{college.fee}</p>
-                      </div>
-                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50">
-                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Eligibility</p>
-                        <p className="text-xs font-semibold text-gray-700 mt-1">{prog === 'MBA' || prog === 'MCA' || prog === 'M.Com' || prog === 'MA' ? 'Graduation (50%)' : '10+2 (45%)+'}</p>
-                      </div>
-                      <div className="bg-white p-3.5 rounded-xl border border-gray-200/50 col-span-2 sm:col-span-1">
-                        <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Accreditation</p>
-                        <p className="text-xs font-semibold text-indigo-600 mt-1">NAAC {college.grade} Rated</p>
-                      </div>
-                    </div>
-                    {college.specializations && college.specializations[prog] && (
-                      <div className="mt-5 pt-5 border-t border-gray-200/70">
-                        <p className="text-[10px] text-indigo-500 font-black uppercase tracking-wider mb-2.5">Available Specializations</p>
-                        <div className="flex flex-wrap gap-1.5">
-                          {college.specializations[prog].map((spec) => (
-                            <span key={spec} className="bg-indigo-50/70 text-indigo-800 border border-indigo-100 text-[10px] font-bold px-2.5 py-1 rounded-md transition-colors hover:bg-indigo-100">
-                              {spec}
-                            </span>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-
-              {/* Side-by-Side Comparison Suggestions */}
-              {matchingComparisons.length > 0 && (
-                <div className="mt-16 pt-12 border-t border-gray-100">
-                  <h3 className="display-font text-2xl font-black text-[#0f172a] text-center mb-6">
-                    Compare {college.name} Side-By-Side
-                  </h3>
-                  <p className="text-gray-500 text-center mb-8 text-sm">
-                    How does {college.name} compare with other top-rated UGC-approved universities? Check out these deep comparisons:
-                  </p>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {matchingComparisons.map((comp) => {
-                      const parts = comp.split('-vs-');
-                      const peerSlug = parts.find(p => !college.name.toLowerCase().includes(p));
-                      const peerName = peerSlug ? peerSlug.toUpperCase() : 'Peer';
-                      return (
-                        <a
-                          key={comp}
-                          href={`/online-degree-certification/${comp}`}
-                          className="bg-[#f8f7f4] border border-gray-100 hover:border-indigo-300 hover:bg-indigo-50/20 text-slate-800 font-bold text-sm px-6 py-4 rounded-xl flex items-center justify-between transition-all"
-                        >
-                          <span>{college.name} vs {peerName} Online</span>
-                          <span className="text-indigo-600">Compare →</span>
-                        </a>
-                      );
-                    })}
-                  </div>
-                </div>
-              )}
-            </div>
-          </section>
-
-          {/* Quick FAQ Section */}
-          <section className="bg-[#f8f7f4] py-16 border-t border-gray-100">
-            <div className="max-w-3xl mx-auto px-6">
-              <h3 className="display-font text-3xl font-black text-[#0f172a] mb-8 text-center">
-                Frequently Asked Questions
-              </h3>
-              <div className="space-y-4">
-                <details className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
-                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                    <span>Is the online degree from {college.name} equivalent to a regular degree?</span>
-                    <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
-                  </summary>
-                  <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
-                    Yes. As per UGC Regulations 2020, degrees earned through online mode from UGC-DEB approved universities like {college.name} are fully valid and equivalent to regular campus degrees for recruitments and promotions.
-                  </div>
-                </details>
-                <details className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
-                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-black text-[#0f172a] text-sm md:text-base">
-                    <span>What is the total fee structure for {college.name} Online courses?</span>
-                    <ChevronDown size={18} className="text-indigo-400 shrink-0 transition-transform group-open:rotate-180" />
-                  </summary>
-                  <div className="px-6 pb-5 text-gray-500 text-sm leading-relaxed border-t border-gray-50 pt-4">
-                    The total fee averages around {college.fee}. You can pay semester-wise or avail of interest-free EMI facilities to pay in monthly chunks of around ₹3,000–₹8,000.
-                  </div>
-                </details>
-              </div>
-            </div>
-          </section>
-
-          {/* Call to Action Direct Chat */}
-          <section className="bg-[#0f172a] py-16 text-center text-white px-6">
-            <h4 className="display-font text-2xl font-black mb-4">
-              Need detailed scholarship booklets?
-            </h4>
-            <p className="text-white/50 mb-8 max-w-lg mx-auto">
-              Get in touch directly with our admission guide Mohit Jain to check active discount structures, fee waivers, and apply directly.
+            <p className="text-[#475569] text-base sm:text-lg max-w-3xl mx-auto leading-relaxed font-normal mb-8">
+              {college.about}
             </p>
-            <a
-              href={`https://wa.me/${college.whatsapp}?text=Hi%2C%20I%20want%20to%20apply%20for%20admissions%20at%20${encodeURIComponent(college.name)}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold text-base px-8 py-4 rounded-xl shadow-lg transition-colors"
-            >
-              <Phone size={16} /> Contact Advisor on WhatsApp
-            </a>
-          </section>
-        </div>
+
+            <div className="grid grid-cols-3 gap-3.5 max-w-xl mx-auto">
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#2563EB] block">{college.grade}</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">NAAC Grade</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-2xl text-[#10B981] block">{college.fee}</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">Total Fee Est.</span>
+              </div>
+              <div className="rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 p-4 shadow-sm text-center">
+                <b className="font-display font-black text-xs sm:text-sm text-[#061124] block truncate mt-1">{college.location}</b>
+                <span className="font-mono text-[10px] uppercase font-bold text-[#061124] mt-1 block">Campus Hub</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Lead Form */}
+        <section className="py-8 px-4 bg-[#F8FAFC]">
+          <OnlineDegreeLeadForm />
+        </section>
+
+        {/* Detailed Info Grid */}
+        <section className="py-16 sm:py-24 bg-white border-t border-[#061124]/10">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-[#061124] mb-8 text-center tracking-tight">
+              Accreditations &amp; Global Recognitions
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+              <div className="rounded-[24px] bg-[#F8FAFC] p-6 border border-[#061124]/10">
+                <h3 className="font-display font-bold text-[#061124] text-lg mb-3 flex items-center gap-2">
+                  <Award size={18} className="text-[#2563EB]" /> Government Approvals
+                </h3>
+                <p className="text-[#475569] text-xs sm:text-sm leading-relaxed mb-4">
+                  The degree is fully approved by all national higher education councils in India.
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {college.approvals.split(',').map((app, idx) => (
+                    <span key={idx} className="bg-white text-[#059669] border border-emerald-200 font-mono text-xs font-bold px-3 py-1.5 rounded-full shadow-2xs">
+                      {app.trim()}
+                    </span>
+                  ))}
+                </div>
+              </div>
+
+              <div className="rounded-[24px] bg-[#F8FAFC] p-6 border border-[#061124]/10">
+                <h3 className="font-display font-bold text-[#061124] text-lg mb-3 flex items-center gap-2">
+                  <ShieldCheck size={18} className="text-[#10B981]" /> Key Highlights &amp; Benefits
+                </h3>
+                <ul className="space-y-2.5">
+                  {college.highlights.map((h, i) => (
+                    <li key={i} className="flex items-start gap-2 text-xs sm:text-sm font-medium text-[#475569]">
+                      <span className="text-[#10B981] mt-0.5">✔</span>
+                      <span>{h}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+
+            {/* Programs Breakdown */}
+            <h2 className="font-display text-3xl font-extrabold text-[#061124] mb-8 text-center pt-8 border-t border-[#061124]/10 tracking-tight">
+              Online Programs &amp; Tuition Fees Breakdown
+            </h2>
+            <div className="space-y-6">
+              {college.programs.map((prog, idx) => (
+                <div key={idx} className="rounded-[28px] bg-[#F8FAFC] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-sm hover:bg-white hover:border-[#2563EB]/40 hover:shadow-md transition-all">
+                  <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-4">
+                    <h3 className="font-display font-extrabold text-xl text-[#061124] flex items-center gap-2">
+                      <GraduationCap size={22} className="text-[#2563EB]" /> Online {prog}
+                    </h3>
+                    <span className="font-mono bg-blue-50 text-[#2563EB] border border-blue-200/60 text-xs font-bold px-3 py-1.5 rounded-full">
+                      {college.duration}
+                    </span>
+                  </div>
+                  <p className="text-[#475569] text-sm leading-relaxed mb-4 font-normal">
+                    Pursue {prog} from {college.name} Online with live interactive webinars, self-paced digital LMS content, and flexible online exams.
+                  </p>
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-3.5 pt-2">
+                    <div className="bg-white p-3.5 rounded-2xl border border-[#061124]/10">
+                      <p className="font-mono text-[10px] text-[#475569] font-bold uppercase tracking-wider">Estimated Fee</p>
+                      <p className="font-display text-base font-black text-[#10B981] mt-0.5">{college.fee}</p>
+                    </div>
+                    <div className="bg-white p-3.5 rounded-2xl border border-[#061124]/10">
+                      <p className="font-mono text-[10px] text-[#475569] font-bold uppercase tracking-wider">Eligibility</p>
+                      <p className="font-mono text-xs font-bold text-[#061124] mt-1">{prog === 'MBA' || prog === 'MCA' || prog === 'M.Com' || prog === 'MA' ? 'Graduation (50%)' : '10+2 (45%)+'}</p>
+                    </div>
+                    <div className="bg-white p-3.5 rounded-2xl border border-[#061124]/10 col-span-2 sm:col-span-1">
+                      <p className="font-mono text-[10px] text-[#475569] font-bold uppercase tracking-wider">Accreditation</p>
+                      <p className="font-mono text-xs font-bold text-[#2563EB] mt-1">NAAC {college.grade} Rated</p>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Comparisons Suggestions */}
+            {matchingComparisons.length > 0 && (
+              <div className="mt-16 pt-12 border-t border-[#061124]/10">
+                <h3 className="font-display text-2xl font-extrabold text-[#061124] text-center mb-6">
+                  Compare {college.name} Side-By-Side
+                </h3>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  {matchingComparisons.map((comp) => {
+                    const parts = comp.split('-vs-');
+                    const peerSlug = parts.find(p => !college.name.toLowerCase().includes(p));
+                    const peerName = peerSlug ? peerSlug.toUpperCase() : 'Peer';
+                    return (
+                      <a
+                        key={comp}
+                        href={`/online-degree-certification/${comp}`}
+                        className="rounded-[22px] bg-[#F8FAFC] border border-[#061124]/10 hover:border-[#2563EB] hover:bg-white text-[#061124] font-display font-extrabold text-sm px-6 py-4 flex items-center justify-between transition-all shadow-xs"
+                      >
+                        <span>{college.name.split(' ')[0]} vs {peerName} Online</span>
+                        <span className="text-[#2563EB]">Compare →</span>
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* FAQs */}
+        <section className="py-16 sm:py-24 bg-[#F1F5F9]/80 border-t border-[#061124]/10">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h3 className="font-display text-3xl font-extrabold text-[#061124] mb-8 text-center">
+              Frequently Asked Questions
+            </h3>
+            <div className="space-y-3.5">
+              <details className="group rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 shadow-sm overflow-hidden transition-all hover:border-[#2563EB]/40">
+                <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-display font-bold text-[#061124] text-sm sm:text-base hover:text-[#2563EB] transition-colors">
+                  <span>Is the online degree from {college.name} equivalent to a regular degree?</span>
+                  <ChevronDown size={18} className="text-[#2563EB] shrink-0 transition-transform group-open:rotate-180" />
+                </summary>
+                <div className="px-6 pb-6 text-[#475569] text-sm leading-relaxed border-t border-[#061124]/6 pt-4 font-normal">
+                  Yes. Under UGC Regulations 2020, degrees earned through online mode from UGC-DEB approved universities like {college.name} are fully valid and equivalent to regular campus degrees for government recruitments and corporate jobs.
+                </div>
+              </details>
+              <details className="group rounded-[22px] bg-white border-[1.5px] border-[#061124]/10 shadow-sm overflow-hidden transition-all hover:border-[#2563EB]/40">
+                <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none font-display font-bold text-[#061124] text-sm sm:text-base hover:text-[#2563EB] transition-colors">
+                  <span>What is the fee structure for {college.name} Online courses?</span>
+                  <ChevronDown size={18} className="text-[#2563EB] shrink-0 transition-transform group-open:rotate-180" />
+                </summary>
+                <div className="px-6 pb-6 text-[#475569] text-sm leading-relaxed border-t border-[#061124]/6 pt-4 font-normal">
+                  The total fee averages around {college.fee}. You can pay semester-wise or avail of interest-free EMI facilities starting from ₹3,000 to ₹7,000 per month.
+                </div>
+              </details>
+            </div>
+          </div>
+        </section>
+
+        {/* CTA Direct */}
+        <section className="py-14 sm:py-20 bg-white">
+          <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="relative rounded-[32px] sm:rounded-[44px] p-8 sm:p-14 text-center text-white overflow-hidden shadow-[0_34px_70px_-30px_rgba(37,99,235,0.45)] bg-gradient-to-br from-[#061124] via-[#1E40AF] to-[#0D9488]">
+              <h4 className="font-display text-3xl font-black mb-4">
+                Need detailed scholarship booklets for {college.name}?
+              </h4>
+              <p className="text-white/80 max-w-lg mx-auto mb-8 text-sm sm:text-base">
+                Get in touch directly with our admission guide Mohit Jain to check active discount structures, fee waivers, and eligibility.
+              </p>
+              <a
+                href={`https://wa.me/${college.whatsapp}?text=Hi%2C%20I%20want%20to%20apply%20for%20admissions%20at%20${encodeURIComponent(college.name)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-4 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-lg inline-flex items-center gap-2"
+              >
+                <Phone size={16} />
+                <span>Contact Advisor on WhatsApp</span>
+              </a>
+            </div>
+          </div>
+        </section>
+
+        <College4SureSeoLinks />
 
         <script
           type="application/ld+json"
@@ -1718,6 +1470,5 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
     );
   }
 
-  // Slugs that don't match any config or valid colleges trigger 404
   return notFound();
 }
