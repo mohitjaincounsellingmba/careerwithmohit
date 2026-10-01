@@ -84,6 +84,7 @@ export const MBA_FORM_COLLEGES: MbaFormCollege[] = [
     discountedFee: 600,
     savings: 600,
     discountPercent: 50,
+    code: 'CWM-FOSTIIMA50',
     avgPlacement: '₹11.15 LPA',
     highestPlacement: '₹30.00 LPA',
     accreditation: 'AICTE Approved · Founded by IIMA Alumni',
