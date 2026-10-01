@@ -146,9 +146,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ].map((route) => ({
     url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
     lastModified: buildDate,
-    changeFrequency: route === '/tools/cat-score-calculator' ? ('daily' as const) : ('weekly' as const),
+    changeFrequency: route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount' ? ('daily' as const) : ('weekly' as const),
     priority:
-      route === '' || route === '/tools/cat-score-calculator'
+      route === '' || route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
         ? 1.0
         : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
         ? 0.95
