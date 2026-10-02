@@ -26,7 +26,7 @@ CareerWithMohit is a premier Indian career counselling and higher education admi
 ---
 
 ## Free Entrance Exam Mock Tests (CBT Engine)
-- [CAT 2026 Free Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test): Full-length CAT simulator with sectional timer (VARC, DILR, QA) and percentile estimation.
+- [CAT 2026/27 Free Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test): Official 68-question full-length CBT practice engine (VARC 24 Qs, DILR 22 Qs, QA 22 Qs) with 40-minute sectional countdown timers, realistic on-screen calculator, raw score converter out of 198, score vs percentile calculator, and MBA/PGDM 2027 cutoffs for 21 IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore), FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, IIT Bombay (SJMSOM), and CAP IIMs.
 - [XAT 2027 Free Mock Test](https://www.careerwithmohit.online/tools/xat-mock-test): Decision Making, Verbal & Logical Ability, and Quantitative Aptitude practice.
 - [NMAT 2026 Free Mock Test](https://www.careerwithmohit.online/tools/nmat-mock-test): Adaptive practice test for NMIMS and top NMAT accepting universities.
 - [SNAP 2026 Free Mock Test](https://www.careerwithmohit.online/tools/snap-mock-test): 60-minute speed exam for SIBM Pune, SCMHRD, and Symbiosis institutes.

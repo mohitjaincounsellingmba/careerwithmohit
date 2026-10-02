@@ -19,7 +19,10 @@ import {
   ArrowRight,
   TrendingUp,
   Clock,
-  Sparkles
+  Sparkles,
+  Send,
+  Copy,
+  Share2
 } from 'lucide-react';
 import { CAT_MOCK_TEST_68, CatQuestion } from '@/data/cat_mock_test_68';
 import { UserAnswers } from './CatExamInterface';
@@ -51,6 +54,13 @@ export function checkIsAnswerCorrect(userAns: any, q: CatQuestion): boolean {
 export function CatScorecardSolutions({ student, answers, onReset }: CatScorecardSolutionsProps) {
   const [sectionFilter, setSectionFilter] = useState<'all' | 'varc' | 'dilr' | 'qa'>('all');
   const [statusFilter, setStatusFilter] = useState<'all' | 'correct' | 'incorrect' | 'skipped'>('all');
+  const [copied, setCopied] = useState(false);
+
+  const handleCopyLink = () => {
+    navigator.clipboard.writeText('https://careerwithmohit.online/tools/cat-mock-test/');
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2500);
+  };
 
   // Compute detailed scores and sectional analytics
   const analytics = useMemo(() => {
@@ -251,31 +261,70 @@ export function CatScorecardSolutions({ student, answers, onReset }: CatScorecar
           </p>
 
           {/* Social Share & Action Buttons */}
-          <div className="pt-2 flex flex-wrap justify-center gap-4">
+          <div className="pt-2 flex flex-wrap justify-center gap-3">
             <button
               onClick={() => {
-                const text = `I just scored ${analytics.totalScore}/204 (${analytics.overallPercentile}%ile) in the CAT 2026 Full Mock Test on CareerWithMohit! 🎯 Challenge yourself here: https://careerwithmohit.online/tools/cat-mock-test`;
+                const text = `🎯 I scored ${analytics.totalScore}/204 (${analytics.overallPercentile}%ile) in the CAT 2026 Full CBT Mock Test on CareerWithMohit! 🚀 Target B-School: IIM Ahmedabad / Bangalore / FMS Delhi. Can you beat my score? Take the free 68 Qs CBT test here: https://careerwithmohit.online/tools/cat-mock-test/`;
                 window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
               }}
-              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#25D366]/20 transition-all active:scale-95"
+              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#25D366]/20 transition-all active:scale-95 hover:scale-105"
             >
               <MessageCircle className="w-4 h-4 fill-white" /> Share on WhatsApp
             </button>
             <button
               onClick={() => {
-                const url = `https://careerwithmohit.online/tools/cat-mock-test`;
+                const text = `🎯 I scored ${analytics.totalScore}/204 (${analytics.overallPercentile}%ile) in the CAT 2026 Full CBT Mock Test on CareerWithMohit! Attempt free here: https://careerwithmohit.online/tools/cat-mock-test/`;
+                window.open(`https://t.me/share/url?url=https://careerwithmohit.online/tools/cat-mock-test/&text=${encodeURIComponent(text)}`, '_blank');
+              }}
+              className="bg-[#229ED9] hover:bg-[#1b8ec3] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#229ED9]/20 transition-all active:scale-95 hover:scale-105"
+            >
+              <Send className="w-4 h-4 fill-white" /> Telegram
+            </button>
+            <button
+              onClick={() => {
+                const url = `https://careerwithmohit.online/tools/cat-mock-test/`;
                 window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`, '_blank');
               }}
-              className="bg-[#0077B5] hover:bg-[#006097] text-white px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#0077B5]/20 transition-all active:scale-95"
+              className="bg-[#0077B5] hover:bg-[#006097] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#0077B5]/20 transition-all active:scale-95 hover:scale-105"
             >
-              <Linkedin className="w-4 h-4 fill-white" /> Share on LinkedIn
+              <Linkedin className="w-4 h-4 fill-white" /> LinkedIn
+            </button>
+            <button
+              onClick={handleCopyLink}
+              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
+            >
+              <Copy className="w-4 h-4" /> {copied ? 'Link Copied! ✅' : 'Copy Test Link'}
             </button>
             <button
               onClick={() => window.print()}
-              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-600 px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
+              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
             >
-              <Download className="w-4 h-4" /> Download / Print Report
+              <Download className="w-4 h-4" /> Save Scorecard (PDF)
             </button>
+          </div>
+
+          {/* Direct 1-on-1 IIM & Top B-School Profile Evaluation Callout */}
+          <div className="w-full bg-gradient-to-r from-amber-500/20 via-amber-500/10 to-amber-500/20 border-2 border-amber-400/40 rounded-2xl p-4 md:p-6 mt-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="text-left space-y-1">
+              <span className="text-[10px] font-black uppercase text-amber-400 tracking-widest flex items-center gap-1.5">
+                <Sparkles className="w-3.5 h-3.5" /> 1-on-1 IIM Profile Evaluation by Mohit Jain
+              </span>
+              <p className="text-sm font-bold text-white">
+                Wondering if your profile (10th/12th/Grad + Work-Ex) will convert IIM A/B/C, FMS, SPJIMR, or CAP IIMs?
+              </p>
+              <p className="text-xs text-slate-400">
+                Get your composite score computed against past batch statistics with GD-PI call chances.
+              </p>
+            </div>
+            <a
+              href={`https://wa.me/919560020771?text=${encodeURIComponent(`Hi Mohit Sir, I scored ${analytics.totalScore}/204 (${analytics.overallPercentile}%ile) in the CAT Mock Test. My profile is: 10th - [ ], 12th - [ ], Grad - [ ], WorkEx - [ ]. Please evaluate my IIM & Top B-School call chances.`)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider flex items-center gap-2 shadow-lg transition-transform hover:scale-105 shrink-0"
+            >
+              <MessageCircle className="w-4 h-4 fill-white" />
+              <span>Evaluate My Profile</span>
+            </a>
           </div>
         </div>
       </div>

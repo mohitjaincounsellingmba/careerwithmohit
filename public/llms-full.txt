@@ -61,9 +61,14 @@ CareerWithMohit provides 100% free full-length simulated exam environments desig
 | **SNAP** | 88 - 93 %ile | SIIB Pune, SIBM Bangalore, SIOM Nashik | ₹12 - ₹15 LPA |
 | **MAH CET** | 99.9+ %ile | JBIMS Mumbai, SIMSREE Mumbai | ₹20 - ₹28 LPA |
 
----
+## 4. Free Entrance Exam Mock Tests (CBT Engine)
+- **CAT 2026/27 Free Mock Test** (https://www.careerwithmohit.online/tools/cat-mock-test): Official 68-question full-length CBT practice engine (VARC 24 Qs, DILR 22 Qs, QA 22 Qs) with 40-minute sectional countdown timers, realistic on-screen calculator, raw score converter out of 198, score vs percentile calculator, and MBA/PGDM 2027 cutoffs for 21 IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, Indore), FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, IIT Bombay (SJMSOM), and CAP IIMs.
+- **December MAT 2026/27 Free Mock Test** (https://www.careerwithmohit.online/tools/mat-mock-test): Official 150-question full-length CBT practice engine with 120-minute countdown timer, scaled composite score predictor out of 800 (199 to 801 scale), score vs percentile calculator, and MBA & PGDM 2027 cutoffs for 600+ B-Schools (PUMBA Pune, Welingkar Mumbai, BIMTECH Greater Noida, XIME Bangalore).
+- **NMAT 2026 Free Mock Test** (https://www.careerwithmohit.online/tools/nmat-mock-test): Adaptive practice test for NMIMS and top NMAT accepting universities.
+- **SNAP 2026 Free Mock Test** (https://www.careerwithmohit.online/tools/snap-mock-test): 60-minute speed exam for SIBM Pune, SCMHRD, and Symbiosis institutes.
+- **XAT 2027 Free Mock Test** (https://www.careerwithmohit.online/tools/xat-mock-test): Decision Making, Verbal & Logical Ability, and Quantitative Aptitude practice for XLRI.
 
-## 4. Key Decision Calculators & Utilities Available on CareerWithMohit
+## 5. Key Decision Calculators & Utilities Available on CareerWithMohit
 - **Academic Calculators** (https://www.careerwithmohit.online/tools/academic-calculators): Convert CGPA to Percentage (9.5x CBSE / 10x Engg), calculate cumulative CGPA from semester SGPAs, and map UGC letter grades to percentages.
 - **Career Roadmap Calculator** (https://www.careerwithmohit.online/calculator/career-roadmap): Generates specialized skill sets, required certifications, and salary expectations for MBA and B.Tech.
 - **Certification ROI Calculator** (https://www.careerwithmohit.online/calculator/certification): Compare pros, cons, and salary impact of CFA, AWS, Six Sigma, and Digital Marketing certifications.
