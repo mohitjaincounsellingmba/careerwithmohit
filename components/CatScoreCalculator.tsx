@@ -29,8 +29,11 @@ import {
   Check,
   Flame,
   Lightbulb,
+  MessageCircle,
+  ArrowRight,
+  ExternalLink,
+  Percent,
 } from "lucide-react";
-import { InquiryForm } from "@/components/InquiryForm";
 import Link from "next/link";
 import { submitLead } from "@/lib/leads";
 
@@ -43,10 +46,10 @@ const SECTIONS = [
     totalMcq: 19,
     totalTita: 5,
     maxScore: 72,
-    badgeColor: "text-violet-700 bg-violet-50 border-violet-200",
-    accentBg: "bg-violet-500",
-    glowColor: "from-violet-500/20 to-transparent",
-    accent: "#7c3aed",
+    badgeColor: "text-[#8B5CF6] bg-[#8B5CF6]/10 border-[#8B5CF6]/30",
+    accentBg: "bg-[#8B5CF6]",
+    glowColor: "from-[#8B5CF6]/20 to-transparent",
+    accent: "#8B5CF6",
   },
   {
     key: "dilr",
@@ -55,10 +58,10 @@ const SECTIONS = [
     totalMcq: 16,
     totalTita: 4,
     maxScore: 60,
-    badgeColor: "text-blue-700 bg-blue-50 border-blue-200",
-    accentBg: "bg-blue-500",
-    glowColor: "from-blue-500/20 to-transparent",
-    accent: "#2563eb",
+    badgeColor: "text-[#00F0FF] bg-[#00F0FF]/10 border-[#00F0FF]/30",
+    accentBg: "bg-[#00F0FF]",
+    glowColor: "from-[#00F0FF]/20 to-transparent",
+    accent: "#00F0FF",
   },
   {
     key: "qa",
@@ -67,10 +70,10 @@ const SECTIONS = [
     totalMcq: 14,
     totalTita: 8,
     maxScore: 66,
-    badgeColor: "text-emerald-700 bg-emerald-50 border-emerald-200",
-    accentBg: "bg-emerald-500",
-    glowColor: "from-emerald-500/20 to-transparent",
-    accent: "#059669",
+    badgeColor: "text-[#00FF88] bg-[#00FF88]/10 border-[#00FF88]/30",
+    accentBg: "bg-[#00FF88]",
+    glowColor: "from-[#00FF88]/20 to-transparent",
+    accent: "#00FF88",
   },
 ];
 
@@ -252,6 +255,7 @@ function getTargetColleges(percentile: number) {
       colleges: ["IIM Ahmedabad", "IIM Bangalore", "IIM Calcutta", "FMS Delhi", "SPJIMR Mumbai", "SJMSOM IIT Bombay"],
       badge: "IIM A/B/C Call Range",
       color: "text-emerald-700 bg-emerald-50 border-emerald-300",
+      accentBg: "bg-emerald-500",
       avgCtc: "₹32 – 35+ LPA",
     };
   }
@@ -261,6 +265,7 @@ function getTargetColleges(percentile: number) {
       colleges: ["IIM Lucknow", "IIM Kozhikode", "IIM Indore", "IIM Shillong", "MDI Gurgaon", "DMS IIT Delhi", "IIFT Delhi"],
       badge: "BLACKI & MDI Calls Likely",
       color: "text-blue-700 bg-blue-50 border-blue-300",
+      accentBg: "bg-blue-500",
       avgCtc: "₹24 – 28 LPA",
     };
   }
@@ -270,6 +275,7 @@ function getTargetColleges(percentile: number) {
       colleges: ["New IIMs (Udaipur, Trichy, Ranchi, Raipur)", "IMT Ghaziabad", "IMI New Delhi", "VGSoM IIT Kharagpur", "DoMS IIT Madras", "GIM Goa"],
       badge: "CAP / New IIMs Strong Call",
       color: "text-amber-700 bg-amber-50 border-amber-300",
+      accentBg: "bg-amber-500",
       avgCtc: "₹16 – 20 LPA",
     };
   }
@@ -279,6 +285,7 @@ function getTargetColleges(percentile: number) {
       colleges: ["Baby IIMs (Nagpur, Vizag, Amritsar, Bodh Gaya)", "FORE School of Management", "TAPMI Manipal", "Great Lakes Chennai", "BIMTECH Greater Noida", "LBSIM Delhi"],
       badge: "Baby IIMs & Top PGDM Range",
       color: "text-indigo-700 bg-indigo-50 border-indigo-300",
+      accentBg: "bg-indigo-500",
       avgCtc: "₹12 – 15 LPA",
     };
   }
@@ -288,6 +295,7 @@ function getTargetColleges(percentile: number) {
       colleges: ["K J Somaiya Mumbai", "Welingkar Mumbai/Bangalore", "Jaipuria Institute", "NDIM Delhi", "JIMS Rohini", "SOIL Institute", "IBS Hyderabad"],
       badge: "Metro PGDM & Direct Range",
       color: "text-purple-700 bg-purple-50 border-purple-300",
+      accentBg: "bg-purple-500",
       avgCtc: "₹9 – 12 LPA",
     };
   }
@@ -296,6 +304,7 @@ function getTargetColleges(percentile: number) {
     colleges: ["ITM Navi Mumbai", "FOSTIIMA Delhi", "Regional University MBA Programs", "Alternative Exams: CMAT / MAT / CUET-PG"],
     badge: "Profile & Direct Guidance Needed",
     color: "text-slate-700 bg-slate-100 border-slate-300",
+    accentBg: "bg-slate-500",
     avgCtc: "₹7 – 10 LPA",
   };
 }
@@ -323,11 +332,11 @@ export function CatScoreCalculator() {
     email: "",
     location: "",
   });
-  const [showInquiry, setShowInquiry] = useState(false);
   const [activeTab, setActiveTab] = useState<SectionKey>("varc");
   const [inputMode, setInputMode] = useState<"url" | "source" | "manual" | "target">("url");
   const [selectedTargetIndex, setSelectedTargetIndex] = useState(2); // Default 99.0%ile
   const [copied, setCopied] = useState(false);
+  const [shared, setShared] = useState(false);
 
   // Link & Page Source parsing state
   const [responseSheetUrl, setResponseSheetUrl] = useState("");
@@ -360,7 +369,6 @@ export function CatScoreCalculator() {
       const data = result.data;
       setAnalysisResult(data);
 
-      // Auto pre-populate section inputs if parsed
       if (data.sections) {
         setInputs({
           varc: {
@@ -553,6 +561,25 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
     setTimeout(() => setCopied(false), 3000);
   };
 
+  const handleShareWhatsApp = () => {
+    const varc = stats.sections.find((s) => s.key === "varc")?.raw || 0;
+    const dilr = stats.sections.find((s) => s.key === "dilr")?.raw || 0;
+    const qa = stats.sections.find((s) => s.key === "qa")?.raw || 0;
+
+    const shareMsg = encodeURIComponent(`🔥 Check out my CAT 2026 Scorecard Prediction!
+📊 Raw Score: ${stats.totalRaw}/198 Marks
+🎯 Predicted Percentile: ~${stats.overallPercentile}+ %ile
+📈 Sectionals: VARC: ${varc}M | DILR: ${dilr}M | QA: ${qa}M
+🏛️ Shortlist Target: ${stats.recommendedColleges.tier}
+
+Calculate your score with official Digialm answer key check & slot normalization:
+👉 https://careerwithmohit.online/tools/cat-score-calculator/`);
+
+    window.open(`https://api.whatsapp.com/send?text=${shareMsg}`, "_blank");
+    setShared(true);
+    setTimeout(() => setShared(false), 3000);
+  };
+
   const currentSection = SECTIONS.find((s) => s.key === activeTab)!;
   const currentInput = inputs[activeTab];
   const currentStats = stats.sections.find((s) => s.key === activeTab)!;
@@ -566,47 +593,52 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
   return (
     <div className="w-full max-w-5xl mx-auto" id="cat-calculator-app">
-      {/* Main Glassmorphic Modern Calculator Container */}
-      <div className="bg-white rounded-3xl border border-slate-200/90 shadow-2xl shadow-slate-900/10 overflow-hidden transition-all">
+      {/* Main Glassmorphic Modern Calculator Container Matching Home Page */}
+      <div className="bg-white rounded-[32px] sm:rounded-[40px] border-[1.5px] border-[#061124]/10 shadow-[0_34px_70px_-30px_rgba(6,17,36,0.18)] overflow-hidden transition-all">
         
-        {/* Calculator Header: Sleek Deep Navy Gradient */}
-        <div className="relative bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white p-6 sm:p-8 md:p-10 overflow-hidden">
-          {/* Ambient Glow Orbs */}
-          <div className="absolute -top-16 -right-16 w-64 h-64 bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
-          <div className="absolute -bottom-16 -left-16 w-64 h-64 bg-blue-500/15 rounded-full blur-3xl pointer-events-none" />
+        {/* Calculator Header: Sleek Cyber Deep Navy Gradient */}
+        <div className="relative bg-[#070A14] text-white p-6 sm:p-8 md:p-10 overflow-hidden border-b border-white/10">
+          {/* Ambient Glowing Blobs */}
+          <div className="absolute -top-16 -right-16 w-72 h-72 bg-[#00F0FF]/15 rounded-full blur-3xl pointer-events-none" />
+          <div className="absolute -bottom-16 -left-16 w-72 h-72 bg-[#FF007A]/15 rounded-full blur-3xl pointer-events-none" />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-[#8B5CF6]/10 rounded-full blur-3xl pointer-events-none" />
+
+          {/* Cyber Grid Texture */}
+          <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:3rem_3rem] pointer-events-none" />
 
           <div className="relative z-10 flex flex-col lg:flex-row lg:items-center justify-between gap-6">
             <div className="flex items-start sm:items-center gap-4">
-              <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-amber-500 to-amber-300 p-0.5 shadow-lg shadow-amber-500/20 shrink-0">
-                <div className="w-full h-full bg-[#0A192F] rounded-[14px] flex items-center justify-center">
-                  <Calculator className="w-7 h-7 text-amber-400" />
+              <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#FF007A] via-[#8B5CF6] to-[#00F0FF] p-0.5 shadow-[0_0_25px_rgba(0,240,255,0.3)] shrink-0">
+                <div className="w-full h-full bg-[#070A14] rounded-[14px] flex items-center justify-center">
+                  <Calculator className="w-7 h-7 text-[#00F0FF]" />
                 </div>
               </div>
               <div>
                 <div className="flex flex-wrap items-center gap-2 mb-1.5">
-                  <span className="bg-amber-400/20 text-amber-300 text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full border border-amber-400/30">
+                  <span className="bg-white/10 text-[#00FF88] text-[11px] font-mono font-bold uppercase tracking-wider px-3 py-0.5 rounded-full border border-[#00FF88]/30 flex items-center gap-1.5 shadow-[0_0_12px_rgba(0,255,136,0.2)]">
+                    <span className="w-1.5 h-1.5 rounded-full bg-[#00FF88] animate-ping" />
                     CAT 2026 Engine
                   </span>
-                  <span className="text-slate-400 text-xs font-semibold">
-                    66 Qs · 198 Max Marks · Slot 1, 2 &amp; 3 Equated
+                  <span className="text-slate-400 text-xs font-mono font-semibold">
+                    66 Qs · 198 Max Marks · Equipercentile Scaling
                   </span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight text-white leading-tight">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-display font-black tracking-tight text-white leading-tight">
                   CAT Exam Score Calculator &amp; Percentile Predictor
                 </h2>
-                <p className="text-slate-300 text-xs sm:text-sm mt-1 max-w-xl font-medium">
+                <p className="text-slate-300 text-xs sm:text-sm mt-1 max-w-xl font-normal">
                   Official +3 / −1 marking scheme with Slot Equating Normalization, candidate response sheet scan &amp; 2027 IIM call forecasting.
                 </p>
               </div>
             </div>
 
             {/* Exam Slot Selector Pill Group */}
-            <div className="bg-white/10 backdrop-blur-md p-3.5 rounded-2xl border border-white/15 shrink-0">
+            <div className="bg-white/[0.08] backdrop-blur-xl p-3.5 rounded-2xl border border-white/15 shrink-0 shadow-lg">
               <label
                 htmlFor="slot-select"
-                className="block text-[11px] font-bold uppercase tracking-wider text-amber-300 mb-2 flex items-center gap-1.5"
+                className="block text-[11px] font-mono font-bold uppercase tracking-wider text-[#00F0FF] mb-2 flex items-center gap-1.5"
               >
-                <Clock className="w-3.5 h-3.5" /> Exam Slot Normalization
+                <Clock className="w-3.5 h-3.5 text-[#00F0FF]" /> Exam Slot Normalization
               </label>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5">
                 {[
@@ -621,7 +653,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     onClick={() => setSelectedSlot(s.key as SlotKey)}
                     className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all text-center cursor-pointer ${
                       selectedSlot === s.key
-                        ? "bg-amber-400 text-slate-950 shadow-md font-extrabold"
+                        ? "bg-gradient-to-r from-[#00F0FF] to-[#6366F1] text-slate-950 font-black shadow-[0_0_15px_rgba(0,240,255,0.4)]"
                         : "bg-white/5 text-slate-300 hover:bg-white/15 hover:text-white"
                     }`}
                   >
@@ -633,51 +665,51 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
           </div>
 
           {/* Marking Rules Micro-Strip */}
-          <div className="relative z-10 flex flex-wrap items-center gap-2 mt-6 pt-5 border-t border-white/10">
-            <span className="inline-flex items-center gap-1.5 bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" /> Correct MCQ: +3 Marks
+          <div className="relative z-10 flex flex-wrap items-center gap-2 mt-6 pt-5 border-t border-white/10 font-mono text-xs">
+            <span className="inline-flex items-center gap-1.5 bg-[#00FF88]/10 text-[#00FF88] border border-[#00FF88]/30 px-3 py-1 rounded-full font-semibold">
+              <CheckCircle2 className="w-3.5 h-3.5 text-[#00FF88]" /> Correct MCQ: +3 Marks
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-rose-500/20 text-rose-300 border border-rose-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <X className="w-3.5 h-3.5 text-rose-400" /> Wrong MCQ: −1 Mark Penalty
+            <span className="inline-flex items-center gap-1.5 bg-[#FF007A]/10 text-[#FF007A] border border-[#FF007A]/30 px-3 py-1 rounded-full font-semibold">
+              <X className="w-3.5 h-3.5 text-[#FF007A]" /> Wrong MCQ: −1 Mark Penalty
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-amber-500/20 text-amber-300 border border-amber-500/30 px-3 py-1 rounded-full text-xs font-semibold">
-              <Sparkles className="w-3.5 h-3.5 text-amber-400" /> TITA Correct: +3 Marks
+            <span className="inline-flex items-center gap-1.5 bg-[#FFD600]/10 text-[#FFD600] border border-[#FFD600]/30 px-3 py-1 rounded-full font-semibold">
+              <Sparkles className="w-3.5 h-3.5 text-[#FFD600]" /> TITA Correct: +3 Marks
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-slate-700/50 text-slate-300 border border-white/10 px-3 py-1 rounded-full text-xs font-semibold">
-              🛡️ Wrong TITA: 0 (Zero Negative Marking)
+            <span className="inline-flex items-center gap-1.5 bg-slate-800/80 text-slate-300 border border-white/10 px-3 py-1 rounded-full font-semibold">
+              🛡️ Wrong TITA: 0 (No Negative Marking)
             </span>
           </div>
         </div>
 
         {/* Calculator Body */}
-        <div className="p-6 sm:p-8 md:p-10 space-y-10">
+        <div className="p-6 sm:p-8 md:p-10 space-y-10 bg-slate-50/40">
 
           {/* STEP 1: Response Sheet Scan, Manual Input or Goal Planner Tabs */}
-          <div className="bg-slate-50/80 rounded-2xl p-5 sm:p-7 border border-slate-200/80">
+          <div className="bg-white rounded-3xl p-5 sm:p-7 border border-[#061124]/10 shadow-[0_12px_32px_-16px_rgba(6,17,36,0.08)]">
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
-              <div className="flex items-center gap-2.5">
-                <div className="w-8 h-8 rounded-xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold text-sm">
+              <div className="flex items-center gap-3">
+                <div className="w-9 h-9 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-black text-sm shadow-md">
                   1
                 </div>
                 <div>
-                  <h3 className="text-base sm:text-lg font-bold text-slate-900">
+                  <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
                     Check Response Sheet URL, Page Source or Key Attempts
                   </h3>
-                  <p className="text-xs text-slate-500">
+                  <p className="text-xs text-slate-500 font-medium">
                     Choose your calculation or target simulation mode
                   </p>
                 </div>
               </div>
 
               {/* Input Mode Selector */}
-              <div className="flex flex-wrap bg-white rounded-xl p-1 border border-slate-200 shadow-sm gap-1">
+              <div className="flex flex-wrap bg-slate-100/80 rounded-2xl p-1 border border-slate-200 gap-1">
                 <button
                   type="button"
                   id="tab-url-mode"
                   onClick={() => setInputMode("url")}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "url"
-                      ? "bg-slate-900 text-white shadow-sm"
+                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -687,9 +719,9 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   type="button"
                   id="tab-source-mode"
                   onClick={() => setInputMode("source")}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "source"
-                      ? "bg-slate-900 text-white shadow-sm"
+                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -699,9 +731,9 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   type="button"
                   id="tab-manual-mode"
                   onClick={() => setInputMode("manual")}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "manual"
-                      ? "bg-slate-900 text-white shadow-sm"
+                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -711,10 +743,10 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   type="button"
                   id="tab-target-mode"
                   onClick={() => setInputMode("target")}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "target"
-                      ? "bg-amber-500 text-slate-950 font-black shadow-sm"
-                      : "text-amber-800 bg-amber-50 hover:bg-amber-100"
+                      ? "bg-gradient-to-r from-[#FF007A] to-[#8B5CF6] text-white font-black shadow-sm"
+                      : "text-rose-700 bg-rose-50 hover:bg-rose-100"
                   }`}
                 >
                   🎯 %ile Goal Planner
@@ -727,14 +759,14 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               <div className="space-y-4 animate-in fade-in duration-300">
                 <label
                   htmlFor="response-sheet-input"
-                  className="block text-xs font-semibold text-slate-700"
+                  className="block text-xs font-bold text-slate-700"
                 >
                   Paste Candidate Response Sheet Link (hosted on{" "}
-                  <code className="bg-slate-200 text-slate-800 px-1 py-0.5 rounded text-[11px]">
+                  <code className="bg-slate-100 text-slate-800 px-1.5 py-0.5 rounded font-mono text-[11px] border border-slate-200">
                     cdn.digialm.com
                   </code>{" "}
                   or{" "}
-                  <code className="bg-slate-200 text-slate-800 px-1 py-0.5 rounded text-[11px]">
+                  <code className="bg-slate-100 text-slate-800 px-1.5 py-0.5 rounded font-mono text-[11px] border border-slate-200">
                     iimcat.ac.in
                   </code>
                   )
@@ -746,13 +778,13 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     value={responseSheetUrl}
                     onChange={(e) => setResponseSheetUrl(e.target.value)}
                     placeholder="https://cdn.digialm.com/.../CandidateResponseSheet.html"
-                    className="flex-1 bg-white border border-slate-300 rounded-xl px-4 py-3.5 font-medium text-sm text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500 shadow-sm transition-all"
+                    className="flex-1 bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-sm text-slate-900 focus:outline-none focus:ring-2 focus:ring-[#00F0FF] focus:border-[#00F0FF] shadow-sm transition-all"
                   />
                   <button
                     id="scan-answer-key-btn"
                     onClick={handleAnalyzeUrl}
                     disabled={isAnalyzing}
-                    className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-bold px-6 py-3.5 rounded-xl shadow-md shadow-amber-500/20 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-50"
+                    className="bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] hover:opacity-95 text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-lg shadow-cyan-500/25 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-50"
                   >
                     {isAnalyzing ? (
                       <>
@@ -773,10 +805,10 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               <div className="space-y-4 animate-in fade-in duration-300">
                 <label
                   htmlFor="page-source-input"
-                  className="block text-xs font-semibold text-slate-700"
+                  className="block text-xs font-bold text-slate-700"
                 >
                   Paste Response Sheet Page Source (Press{" "}
-                  <kbd className="bg-slate-200 text-slate-800 px-1.5 py-0.5 rounded text-[11px]">
+                  <kbd className="bg-slate-100 text-slate-800 px-1.5 py-0.5 rounded font-mono text-[11px] border border-slate-200">
                     Ctrl+U
                   </kbd>{" "}
                   or Right-Click → View Page Source on your answer key, then Copy All)
@@ -787,13 +819,13 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   onChange={(e) => setPageSource(e.target.value)}
                   placeholder="<!DOCTYPE html><html>... paste complete HTML source code here ..."
                   rows={4}
-                  className="w-full bg-white border border-slate-300 rounded-xl p-3.5 font-mono text-xs text-slate-800 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500 shadow-sm transition-all"
+                  className="w-full bg-slate-50 border border-slate-300 rounded-2xl p-3.5 font-mono text-xs text-slate-800 focus:outline-none focus:ring-2 focus:ring-[#00F0FF] focus:border-[#00F0FF] shadow-sm transition-all"
                 />
                 <button
                   id="parse-source-btn"
                   onClick={handleParseSource}
                   disabled={isParsing}
-                  className="w-full sm:w-auto bg-slate-900 hover:bg-slate-800 text-white font-bold px-6 py-3 rounded-xl shadow-md transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
+                  className="w-full sm:w-auto bg-[#061124] hover:bg-[#070A14] text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-md transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
                 >
                   {isParsing ? "Parsing Response Source..." : "Extract & Calculate from Source"}
                 </button>
@@ -802,8 +834,8 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
             {/* Method C: Manual Entry Hint */}
             {inputMode === "manual" && (
-              <div className="p-4 bg-amber-500/10 border border-amber-300/60 rounded-xl text-xs text-amber-900 font-medium flex items-center gap-2.5 animate-in fade-in duration-300">
-                <Sparkles className="w-4 h-4 text-amber-600 shrink-0" />
+              <div className="p-4 bg-cyan-50 border border-cyan-200 rounded-2xl text-xs text-cyan-900 font-medium flex items-center gap-3 animate-in fade-in duration-300">
+                <Sparkles className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>
                   Direct Section Mode active. Select each section tab below (VARC, DILR, QA) to key in your correct and incorrect attempts.
                 </span>
@@ -814,10 +846,10 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
             {inputMode === "target" && (
               <div className="space-y-4 animate-in fade-in duration-300">
                 <div className="flex items-center justify-between">
-                  <span className="text-xs font-bold text-slate-700 uppercase">
+                  <span className="text-xs font-mono font-bold text-slate-700 uppercase tracking-wider">
                     Select Your Dream Percentile Target:
                   </span>
-                  <span className="text-xs font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full">
+                  <span className="text-xs font-black text-rose-700 bg-rose-100 px-3 py-0.5 rounded-full">
                     {activeTargetPlan.percentile} Goal
                   </span>
                 </div>
@@ -829,9 +861,9 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                       key={plan.percentile}
                       type="button"
                       onClick={() => setSelectedTargetIndex(idx)}
-                      className={`p-2 rounded-xl text-xs font-bold transition-all text-center cursor-pointer border ${
+                      className={`p-2.5 rounded-2xl text-xs font-bold transition-all text-center cursor-pointer border ${
                         selectedTargetIndex === idx
-                          ? "bg-slate-900 text-amber-300 border-slate-900 shadow-sm"
+                          ? "bg-[#061124] text-[#00F0FF] border-[#061124] shadow-md font-black"
                           : "bg-white text-slate-700 border-slate-200 hover:bg-slate-100"
                       }`}
                     >
@@ -841,42 +873,42 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                 </div>
 
                 {/* Target Strategy Card */}
-                <div className="p-5 rounded-2xl bg-white border border-amber-300 shadow-sm space-y-3">
-                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-100 pb-3">
+                <div className="p-5 sm:p-6 rounded-3xl bg-slate-50 border border-slate-200/90 shadow-sm space-y-4">
+                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 pb-3">
                     <div>
-                      <span className="text-base font-black text-slate-900">
+                      <span className="text-base sm:text-lg font-display font-black text-[#061124]">
                         Target Raw Score Needed: {activeTargetPlan.rawScoreNeeded}
                       </span>
                       <p className="text-xs text-slate-600 font-medium">{activeTargetPlan.desc}</p>
                     </div>
-                    <span className="text-xs font-bold px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 shrink-0 self-start sm:self-auto">
+                    <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 shrink-0 self-start sm:self-auto">
                       {activeTargetPlan.netCorrect}
                     </span>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
-                    <div className="bg-violet-50/70 p-3 rounded-xl border border-violet-200">
-                      <span className="text-[11px] font-bold text-violet-700 uppercase block">VARC Attempt Strategy</span>
-                      <span className="text-base font-black text-violet-900">{activeTargetPlan.varcTarget}</span>
+                    <div className="bg-[#8B5CF6]/10 p-3.5 rounded-2xl border border-[#8B5CF6]/20">
+                      <span className="text-[11px] font-mono font-bold text-[#8B5CF6] uppercase block">VARC Attempt Strategy</span>
+                      <span className="text-base font-black text-slate-900">{activeTargetPlan.varcTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">3 RCs + 4-5 VA Qs</span>
                     </div>
 
-                    <div className="bg-blue-50/70 p-3 rounded-xl border border-blue-200">
-                      <span className="text-[11px] font-bold text-blue-700 uppercase block">DILR Attempt Strategy</span>
-                      <span className="text-base font-black text-blue-900">{activeTargetPlan.dilrTarget}</span>
+                    <div className="bg-[#00F0FF]/10 p-3.5 rounded-2xl border border-[#00F0FF]/20">
+                      <span className="text-[11px] font-mono font-bold text-[#0EA5E9] uppercase block">DILR Attempt Strategy</span>
+                      <span className="text-base font-black text-slate-900">{activeTargetPlan.dilrTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">2 Full Sets with 100% Accuracy</span>
                     </div>
 
-                    <div className="bg-emerald-50/70 p-3 rounded-xl border border-emerald-200">
-                      <span className="text-[11px] font-bold text-emerald-700 uppercase block">QA Attempt Strategy</span>
-                      <span className="text-base font-black text-emerald-900">{activeTargetPlan.qaTarget}</span>
+                    <div className="bg-[#00FF88]/10 p-3.5 rounded-2xl border border-[#00FF88]/20">
+                      <span className="text-[11px] font-mono font-bold text-emerald-700 uppercase block">QA Attempt Strategy</span>
+                      <span className="text-base font-black text-slate-900">{activeTargetPlan.qaTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">Arithmetic + Algebra Core</span>
                     </div>
                   </div>
 
-                  <div className="text-xs font-bold text-slate-800 pt-2 flex items-center gap-1.5">
-                    <Building2 className="w-4 h-4 text-amber-600 shrink-0" />
-                    <span>Expected Shortlists: <span className="text-amber-800">{activeTargetPlan.iimCall}</span></span>
+                  <div className="text-xs font-bold text-slate-800 pt-1 flex items-center gap-1.5">
+                    <Building2 className="w-4 h-4 text-[#F59E0B] shrink-0" />
+                    <span>Expected Shortlists: <span className="text-amber-800 font-extrabold">{activeTargetPlan.iimCall}</span></span>
                   </div>
                 </div>
               </div>
@@ -884,7 +916,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
             {/* Error Message */}
             {parseError && (
-              <div className="mt-4 p-3.5 bg-rose-50 border border-rose-200 rounded-xl text-xs font-semibold text-rose-700 flex items-start gap-2 animate-in fade-in">
+              <div className="mt-4 p-4 bg-rose-50 border border-rose-200 rounded-2xl text-xs font-semibold text-rose-700 flex items-start gap-2.5 animate-in fade-in">
                 <AlertCircle className="w-4 h-4 text-rose-600 shrink-0 mt-0.5" />
                 <span>{parseError}</span>
               </div>
@@ -892,33 +924,33 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
             {/* Successful Parse Result Summary */}
             {analysisResult && (
-              <div className="mt-5 p-4 sm:p-5 bg-emerald-50/80 border border-emerald-200 rounded-2xl animate-in slide-in-from-top-3 duration-300">
+              <div className="mt-5 p-5 bg-emerald-50/90 border border-emerald-200 rounded-3xl animate-in slide-in-from-top-3 duration-300">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-3">
-                  <div className="flex items-center gap-2 text-emerald-800 font-bold text-xs uppercase tracking-wider">
+                  <div className="flex items-center gap-2 text-emerald-800 font-mono font-bold text-xs uppercase tracking-wider">
                     <CheckCircle2 className="w-4 h-4 text-emerald-600" />
                     Candidate Response Sheet Successfully Parsed!
                   </div>
                   {analysisResult.candidateName && analysisResult.candidateName !== "Candidate" && (
-                    <span className="text-xs font-bold text-slate-700 bg-white px-2.5 py-0.5 rounded-full border border-emerald-200">
+                    <span className="text-xs font-bold text-slate-700 bg-white px-3 py-1 rounded-full border border-emerald-200">
                       Candidate: {analysisResult.candidateName}
                     </span>
                   )}
                 </div>
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
-                    <span className="text-[10px] font-bold text-slate-500 uppercase block">Total Questions</span>
+                  <div className="bg-white p-3.5 rounded-2xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-mono font-bold text-slate-500 uppercase block">Total Questions</span>
                     <span className="text-xl font-black text-slate-900">{analysisResult.totalFetched || 66}</span>
                   </div>
-                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
-                    <span className="text-[10px] font-bold text-emerald-700 uppercase block">Answered Qs</span>
+                  <div className="bg-white p-3.5 rounded-2xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-mono font-bold text-emerald-700 uppercase block">Answered Qs</span>
                     <span className="text-xl font-black text-emerald-700">{analysisResult.answeredCount}</span>
                   </div>
-                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
-                    <span className="text-[10px] font-bold text-blue-700 uppercase block">Calculated Raw Score</span>
+                  <div className="bg-white p-3.5 rounded-2xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-mono font-bold text-blue-700 uppercase block">Calculated Raw Score</span>
                     <span className="text-xl font-black text-blue-700">{stats.totalRaw} / 198</span>
                   </div>
-                  <div className="bg-white p-3 rounded-xl border border-emerald-100 shadow-sm">
-                    <span className="text-[10px] font-bold text-amber-700 uppercase block">Est. Percentile</span>
+                  <div className="bg-white p-3.5 rounded-2xl border border-emerald-100 shadow-sm">
+                    <span className="text-[10px] font-mono font-bold text-amber-700 uppercase block">Est. Percentile</span>
                     <span className="text-xl font-black text-amber-700">~{stats.overallPercentile}+ %ile</span>
                   </div>
                 </div>
@@ -931,15 +963,15 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
           {/* STEP 2: Sectional Tabs & Input Fields */}
           <div>
-            <div className="flex items-center gap-2.5 mb-5">
-              <div className="w-8 h-8 rounded-xl bg-blue-500/10 text-blue-600 flex items-center justify-center font-bold text-sm">
+            <div className="flex items-center gap-3 mb-5">
+              <div className="w-9 h-9 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-black text-sm shadow-md">
                 2
               </div>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-slate-900">
+                <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
                   Enter Section Attempts (VARC · DILR · QA)
                 </h3>
-                <p className="text-xs text-slate-500">
+                <p className="text-xs text-slate-500 font-medium">
                   Switch tabs to adjust attempts across all 3 sections
                 </p>
               </div>
@@ -956,24 +988,24 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     id={`tab-${s.key}`}
                     type="button"
                     onClick={() => setActiveTab(s.key as SectionKey)}
-                    className={`p-3 sm:p-4 rounded-2xl border text-left transition-all cursor-pointer ${
+                    className={`p-3.5 sm:p-5 rounded-3xl border text-left transition-all cursor-pointer ${
                       isActive
-                        ? "bg-slate-900 text-white border-slate-900 shadow-lg shadow-slate-900/10"
+                        ? "bg-[#061124] text-white border-[#061124] shadow-[0_18px_40px_-15px_rgba(6,17,36,0.4)]"
                         : "bg-white text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-50/50"
                     }`}
                   >
                     <div className="flex items-center justify-between">
-                      <span className={`text-xs sm:text-sm font-extrabold uppercase ${isActive ? "text-amber-300" : "text-slate-900"}`}>
+                      <span className={`text-xs sm:text-sm font-display font-black uppercase ${isActive ? "text-[#00F0FF]" : "text-slate-900"}`}>
                         {s.label}
                       </span>
-                      <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
-                        isActive ? "bg-white/20 text-white" : "bg-slate-100 text-slate-600"
+                      <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full ${
+                        isActive ? "bg-white/15 text-white border border-white/20" : "bg-slate-100 text-slate-600"
                       }`}>
                         Max {s.maxScore}M
                       </span>
                     </div>
                     <div className="mt-1 flex items-baseline gap-1">
-                      <span className={`text-lg sm:text-2xl font-black ${isActive ? "text-white" : "text-slate-800"}`}>
+                      <span className={`text-xl sm:text-3xl font-black ${isActive ? "text-white" : "text-slate-800"}`}>
                         {sRaw}
                       </span>
                       <span className={`text-[11px] font-medium ${isActive ? "text-slate-300" : "text-slate-400"}`}>
@@ -986,22 +1018,22 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
             </div>
 
             {/* Active Section Inputs Box */}
-            <div className="bg-slate-50/70 border border-slate-200/90 rounded-3xl p-5 sm:p-8">
+            <div className="bg-white border-[1.5px] border-[#061124]/10 rounded-[32px] p-5 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)]">
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6 pb-4 border-b border-slate-200">
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className={`text-xs font-bold px-2.5 py-1 rounded-full border ${currentSection.badgeColor}`}>
+                    <span className={`text-xs font-mono font-bold px-3 py-1 rounded-full border ${currentSection.badgeColor}`}>
                       {currentSection.label}
                     </span>
-                    <h4 className="text-base sm:text-lg font-bold text-slate-900">
+                    <h4 className="text-base sm:text-lg font-display font-black text-[#061124]">
                       {currentSection.fullName}
                     </h4>
                   </div>
-                  <p className="text-xs text-slate-500 mt-1">
+                  <p className="text-xs text-slate-500 mt-1 font-medium">
                     {currentSection.totalMcq + currentSection.totalTita} Questions total ({currentSection.totalMcq} MCQs + {currentSection.totalTita} TITAs)
                   </p>
                 </div>
-                <div className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-600 bg-white px-3 py-1.5 rounded-xl border border-slate-200 shadow-sm self-start sm:self-auto">
+                <div className="inline-flex items-center gap-1.5 text-xs font-mono font-bold text-slate-600 bg-slate-100 px-3.5 py-1.5 rounded-2xl border border-slate-200 shadow-sm self-start sm:self-auto">
                   <Clock className="w-3.5 h-3.5 text-slate-400" /> 40 Minutes Sectional Limit
                 </div>
               </div>
@@ -1009,15 +1041,15 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               {/* 3 Input Cards */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
                 {/* Correct MCQ */}
-                <div className="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`correct-mcq-${activeTab}`}
-                      className="text-xs font-bold uppercase text-slate-700"
+                      className="text-xs font-mono font-bold uppercase text-slate-700"
                     >
                       Correct MCQs
                     </label>
-                    <span className="text-[10px] font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full border border-emerald-200">
+                    <span className="text-[10px] font-mono font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full border border-emerald-200">
                       +3 Marks
                     </span>
                   </div>
@@ -1029,7 +1061,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     value={currentInput.correctMcq}
                     onChange={(e) => updateInput(activeTab, "correctMcq", e.target.value)}
                     placeholder="0"
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 transition-all text-center"
+                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 transition-all text-center"
                   />
                   <div className="text-[11px] text-slate-500 text-center font-medium">
                     Max: {currentSection.totalMcq} MCQs
@@ -1037,15 +1069,15 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                 </div>
 
                 {/* Wrong MCQ */}
-                <div className="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`wrong-mcq-${activeTab}`}
-                      className="text-xs font-bold uppercase text-slate-700"
+                      className="text-xs font-mono font-bold uppercase text-slate-700"
                     >
                       Wrong MCQs
                     </label>
-                    <span className="text-[10px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded-full border border-rose-200">
+                    <span className="text-[10px] font-mono font-bold text-[#FF007A] bg-rose-50 px-2 py-0.5 rounded-full border border-rose-200">
                       −1 Penalty
                     </span>
                   </div>
@@ -1057,7 +1089,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     value={currentInput.wrongMcq}
                     onChange={(e) => updateInput(activeTab, "wrongMcq", e.target.value)}
                     placeholder="0"
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-2xl font-black text-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-500/50 focus:border-rose-500 transition-all text-center"
+                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-[#FF007A] focus:outline-none focus:ring-2 focus:ring-rose-500/50 focus:border-rose-500 transition-all text-center"
                   />
                   <div className="text-[11px] text-slate-500 text-center font-medium">
                     Max: {currentSection.totalMcq} MCQs
@@ -1065,15 +1097,15 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                 </div>
 
                 {/* Correct TITA */}
-                <div className="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`correct-tita-${activeTab}`}
-                      className="text-xs font-bold uppercase text-slate-700"
+                      className="text-xs font-mono font-bold uppercase text-slate-700"
                     >
                       Correct TITA
                     </label>
-                    <span className="text-[10px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
+                    <span className="text-[10px] font-mono font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
                       +3 / 0 Neg
                     </span>
                   </div>
@@ -1085,7 +1117,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     value={currentInput.correctTita}
                     onChange={(e) => updateInput(activeTab, "correctTita", e.target.value)}
                     placeholder="0"
-                    className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500 transition-all text-center"
+                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-[#F59E0B]/50 focus:border-[#F59E0B] transition-all text-center"
                   />
                   <div className="text-[11px] text-slate-500 text-center font-medium">
                     Max: {currentSection.totalTita} Non-MCQs
@@ -1094,7 +1126,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               </div>
 
               {/* Section Score Live Pill */}
-              <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 bg-white p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-sm">
+              <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 bg-slate-50 p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-sm">
                 <div className="flex items-center gap-3">
                   <div className={`w-3 h-3 rounded-full ${currentSection.accentBg}`} />
                   <div>
@@ -1123,7 +1155,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
             <button
               onClick={reset}
               id="reset-calculator-btn"
-              className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-slate-500 hover:text-slate-900 transition-colors cursor-pointer"
+              className="inline-flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-slate-500 hover:text-slate-900 transition-colors cursor-pointer"
             >
               <RefreshCw className="w-4 h-4" /> Reset All Inputs
             </button>
@@ -1132,7 +1164,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               <button
                 id="see-results-btn"
                 onClick={() => setShowLeadForm(true)}
-                className="w-full sm:w-auto bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-black px-8 py-4 rounded-2xl shadow-xl shadow-amber-500/20 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
+                className="w-full sm:w-auto bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white font-display font-black px-8 py-4 rounded-full shadow-[0_20px_50px_-15px_rgba(0,240,255,0.4)] hover:scale-105 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
               >
                 <Lock className="w-4 h-4" /> Unlock Full Score, Percentile &amp; IIM Calls
               </button>
@@ -1141,13 +1173,13 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
           {/* Lead Gate Modal / Drawer */}
           {showLeadForm && !isUnlocked && (
-            <div className="relative bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white p-6 sm:p-8 rounded-3xl border border-white/20 shadow-2xl animate-in zoom-in-95 duration-300">
+            <div className="relative bg-[#070A14] text-white p-6 sm:p-8 rounded-[32px] border border-white/20 shadow-2xl animate-in zoom-in-95 duration-300">
               <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 rounded-xl bg-amber-400/20 flex items-center justify-center text-amber-300">
+                <div className="w-10 h-10 rounded-2xl bg-[#00FF88]/20 flex items-center justify-center text-[#00FF88]">
                   <Zap className="w-5 h-5 animate-pulse" />
                 </div>
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-white">
+                  <h3 className="font-display text-lg sm:text-xl font-black text-white">
                     Unlock Your CAT 2026 Score, Percentile &amp; IIM Call Predictor
                   </h3>
                   <p className="text-xs text-slate-300 mt-0.5">
@@ -1165,7 +1197,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     placeholder="Full Name"
                     value={leadData.name}
                     onChange={(e) => setLeadData({ ...leadData, name: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
                   />
                   <input
                     required
@@ -1174,7 +1206,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     placeholder="WhatsApp Number (for call updates)"
                     value={leadData.number}
                     onChange={(e) => setLeadData({ ...leadData, number: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
                   />
                   <input
                     required
@@ -1183,7 +1215,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     placeholder="Email Address"
                     value={leadData.email}
                     onChange={(e) => setLeadData({ ...leadData, email: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
                   />
                   <input
                     required
@@ -1192,7 +1224,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     placeholder="Current City / State (e.g. Delhi, Mumbai, Pune)"
                     value={leadData.location}
                     onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
                   />
                 </div>
 
@@ -1200,14 +1232,14 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   <button
                     type="submit"
                     id="reveal-score-btn"
-                    className="flex-1 bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-500 hover:to-amber-600 text-slate-950 font-black py-3.5 rounded-xl shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
+                    className="flex-1 bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white font-display font-black py-4 rounded-full shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
                   >
                     Reveal My Predicted CAT Score &amp; Percentile <ChevronRight className="w-4 h-4" />
                   </button>
                   <button
                     type="button"
                     onClick={() => setShowLeadForm(false)}
-                    className="text-xs font-bold text-slate-400 hover:text-white px-4 py-2 transition-colors cursor-pointer text-center"
+                    className="text-xs font-bold text-slate-400 hover:text-white px-5 py-3 transition-colors cursor-pointer text-center"
                   >
                     Cancel
                   </button>
@@ -1221,36 +1253,53 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
             <div className="space-y-8 animate-in fade-in duration-500">
               
               {/* Overall Score Master Banner */}
-              <div className="relative bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white p-6 sm:p-8 md:p-10 rounded-3xl border border-amber-400/40 shadow-2xl overflow-hidden">
+              <div className="relative bg-[#070A14] text-white p-6 sm:p-8 md:p-10 rounded-[32px] sm:rounded-[40px] border border-cyan-400/40 shadow-[0_34px_70px_-30px_rgba(0,240,255,0.3)] overflow-hidden">
                 <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none">
-                  <Trophy className="w-56 h-56 text-amber-400" />
+                  <Trophy className="w-56 h-56 text-[#00F0FF]" />
                 </div>
 
                 <div className="relative z-10">
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
-                    <div className="flex items-center gap-2 text-amber-300 text-xs font-bold uppercase tracking-widest">
-                      <Sparkles className="w-4 h-4" />
+                    <div className="flex items-center gap-2 text-[#00FF88] text-xs font-mono font-bold uppercase tracking-widest">
+                      <Sparkles className="w-4 h-4 text-[#00FF88]" />
                       Predicted CAT Result (MBA 2027 Batch)
                     </div>
-                    <button
-                      type="button"
-                      onClick={handleCopyResults}
-                      className="inline-flex items-center gap-1.5 bg-white/10 hover:bg-white/20 border border-white/15 px-3 py-1.5 rounded-xl text-xs font-bold text-white transition-all self-start sm:self-auto cursor-pointer"
-                    >
-                      {copied ? (
-                        <>
-                          <Check className="w-3.5 h-3.5 text-emerald-400" /> Copied Summary!
-                        </>
-                      ) : (
-                        <>
-                          <Copy className="w-3.5 h-3.5 text-amber-300" /> Copy Scorecard Summary
-                        </>
-                      )}
-                    </button>
+                    <div className="flex items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={handleShareWhatsApp}
+                        className="inline-flex items-center gap-1.5 bg-[#25D366] hover:bg-[#1EBE5D] text-slate-950 px-3.5 py-1.5 rounded-full text-xs font-bold transition-all cursor-pointer shadow-md"
+                      >
+                        {shared ? (
+                          <>
+                            <Check className="w-3.5 h-3.5" /> Shared!
+                          </>
+                        ) : (
+                          <>
+                            <MessageCircle className="w-3.5 h-3.5" /> Share on WhatsApp
+                          </>
+                        )}
+                      </button>
+                      <button
+                        type="button"
+                        onClick={handleCopyResults}
+                        className="inline-flex items-center gap-1.5 bg-white/10 hover:bg-white/20 border border-white/15 px-3.5 py-1.5 rounded-full text-xs font-bold text-white transition-all cursor-pointer"
+                      >
+                        {copied ? (
+                          <>
+                            <Check className="w-3.5 h-3.5 text-[#00FF88]" /> Copied!
+                          </>
+                        ) : (
+                          <>
+                            <Copy className="w-3.5 h-3.5 text-[#00F0FF]" /> Copy Summary
+                          </>
+                        )}
+                      </button>
+                    </div>
                   </div>
 
                   <div className="flex flex-wrap items-baseline gap-4 mb-8">
-                    <span className="text-6xl sm:text-8xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-100 to-amber-200">
+                    <span className="text-6xl sm:text-8xl font-display font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-100 to-cyan-300">
                       {stats.totalRaw}
                     </span>
                     <span className="text-lg sm:text-2xl font-bold text-slate-400">
@@ -1260,29 +1309,29 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
                   {/* 3 Result Metric Cards */}
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
-                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-bold uppercase tracking-wider text-amber-300 block mb-1">
+                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00FF88] block mb-1">
                         Expected Percentile
                       </span>
-                      <span className="text-2xl sm:text-3xl font-black text-white">
+                      <span className="text-2xl sm:text-3xl font-display font-black text-white">
                         ~{stats.overallPercentile}+ %ile
                       </span>
                     </div>
 
-                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-bold uppercase tracking-wider text-amber-300 block mb-1">
+                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00F0FF] block mb-1">
                         Estimated Scaled Score
                       </span>
-                      <span className="text-2xl sm:text-3xl font-black text-white">
+                      <span className="text-2xl sm:text-3xl font-display font-black text-white">
                         {stats.scaledScore} / 198
                       </span>
                     </div>
 
-                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-bold uppercase tracking-wider text-amber-300 block mb-1">
+                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#FFD600] block mb-1">
                         Slot Equated
                       </span>
-                      <span className="text-lg sm:text-xl font-black text-white uppercase">
+                      <span className="text-lg sm:text-xl font-display font-black text-white uppercase">
                         {selectedSlot === "slot1"
                           ? "Slot 1 (Morning)"
                           : selectedSlot === "slot2"
@@ -1297,12 +1346,14 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
               </div>
 
               {/* Dynamic Target College Recommendations */}
-              <div className="bg-amber-50/70 border border-amber-300/80 rounded-3xl p-6 sm:p-8">
+              <div className="bg-white border-[1.5px] border-[#061124]/10 rounded-[32px] p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.1)]">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
-                  <div className="flex items-center gap-2.5">
-                    <Building2 className="w-6 h-6 text-amber-600 shrink-0" />
+                  <div className="flex items-center gap-3">
+                    <div className="w-10 h-10 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold">
+                      <Building2 className="w-5 h-5" />
+                    </div>
                     <div>
-                      <h3 className="text-base sm:text-lg font-bold text-slate-900">
+                      <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
                         Eligible B-Schools For Your Score Band (~{stats.overallPercentile}+ %ile)
                       </h3>
                       <p className="text-xs text-slate-600 font-medium">
@@ -1310,7 +1361,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                       </p>
                     </div>
                   </div>
-                  <span className={`text-xs font-bold px-3 py-1 rounded-full border uppercase self-start sm:self-auto ${stats.recommendedColleges.color}`}>
+                  <span className={`text-xs font-mono font-bold px-3 py-1 rounded-full border uppercase self-start sm:self-auto ${stats.recommendedColleges.color}`}>
                     {stats.recommendedColleges.badge}
                   </span>
                 </div>
@@ -1319,30 +1370,30 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                   {stats.recommendedColleges.colleges.map((col, idx) => (
                     <div
                       key={idx}
-                      className="bg-white p-3 rounded-xl border border-amber-200/80 text-xs font-bold text-slate-800 flex items-center gap-2 shadow-sm"
+                      className="bg-slate-50 p-3.5 rounded-2xl border border-slate-200 text-xs font-bold text-slate-800 flex items-center gap-2 shadow-sm hover:border-cyan-400 transition-colors"
                     >
-                      <Sparkles className="w-3.5 h-3.5 text-amber-500 shrink-0" />
+                      <Sparkles className="w-3.5 h-3.5 text-[#00F0FF] shrink-0" />
                       <span className="truncate">{col}</span>
                     </div>
                   ))}
                 </div>
 
-                <div className="flex flex-wrap gap-4 pt-4 border-t border-amber-200/70 text-xs font-bold">
+                <div className="flex flex-wrap gap-4 pt-4 border-t border-slate-200 text-xs font-bold">
                   <Link
                     href="/colleges"
-                    className="text-amber-800 hover:text-amber-900 underline underline-offset-4 flex items-center gap-1"
+                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
-                    Explore Complete 650+ College Directory →
+                    Explore Complete 770+ College Directory →
                   </Link>
                   <Link
                     href="/top-tier-mba-colleges"
-                    className="text-amber-800 hover:text-amber-900 underline underline-offset-4 flex items-center gap-1"
+                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
                     View Top Tier MBA Rankings →
                   </Link>
                   <Link
                     href="/tools/college-comparison"
-                    className="text-amber-800 hover:text-amber-900 underline underline-offset-4 flex items-center gap-1"
+                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
                     Compare College Fees &amp; Placements →
                   </Link>
@@ -1351,7 +1402,7 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
 
               {/* Section-Wise Breakdown Cards */}
               <div>
-                <h4 className="text-sm font-bold uppercase tracking-wider text-slate-600 mb-3">
+                <h4 className="text-xs font-mono font-bold uppercase tracking-wider text-slate-600 mb-3">
                   Sectional Marks &amp; Predicted Percentiles
                 </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -1360,17 +1411,17 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                     return (
                       <div
                         key={s.key}
-                        className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm space-y-2"
+                        className="bg-white p-5 rounded-3xl border border-slate-200 shadow-sm space-y-2"
                       >
                         <div className="flex items-center justify-between">
-                          <span className={`text-xs font-bold uppercase ${sect.badgeColor} px-2 py-0.5 rounded-full border`}>
+                          <span className={`text-xs font-mono font-bold uppercase ${sect.badgeColor} px-2.5 py-0.5 rounded-full border`}>
                             {sect.label}
                           </span>
-                          <span className="text-xs text-slate-400 font-medium">
+                          <span className="text-xs text-slate-400 font-mono font-medium">
                             Max {s.maxRaw}M
                           </span>
                         </div>
-                        <div className="text-3xl font-black text-slate-900">
+                        <div className="text-3xl font-display font-black text-slate-900">
                           {s.raw}
                         </div>
                         <div className="flex items-center gap-1.5 text-xs font-bold text-slate-600 pt-1 border-t border-slate-100">
@@ -1383,203 +1434,41 @@ Calculate your score here: https://careerwithmohit.online/tools/cat-score-calcul
                 </div>
               </div>
 
-              {/* High-Converting CTA Banner */}
-              <div className="bg-gradient-to-r from-amber-500 via-amber-400 to-amber-500 rounded-3xl p-6 sm:p-8 text-slate-950 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl shadow-amber-500/10">
+              {/* High-Converting 1-on-1 Advisory CTA Matching Home Page */}
+              <div className="bg-gradient-to-r from-[#061124] via-[#1E40AF] to-[#0D9488] rounded-[32px] p-7 sm:p-9 text-white flex flex-col sm:flex-row items-center justify-between gap-6 shadow-[0_34px_70px_-30px_rgba(37,99,235,0.45)]">
                 <div>
-                  <span className="text-[11px] font-extrabold uppercase tracking-widest text-slate-900 bg-white/40 px-3 py-1 rounded-full inline-block mb-2">
-                    Free 1-on-1 MBA Advisory
+                  <span className="text-[11px] font-mono font-bold uppercase tracking-widest text-[#00FF88] bg-white/10 px-3 py-1 rounded-full inline-block mb-2 border border-white/15">
+                    Free 1-on-1 Profile Assessment
                   </span>
-                  <h3 className="text-xl sm:text-2xl font-black tracking-tight leading-tight">
+                  <h3 className="font-display text-xl sm:text-2xl font-black tracking-tight leading-tight">
                     Confused About Your IIM Calls &amp; College Shortlists?
                   </h3>
-                  <p className="text-xs sm:text-sm font-semibold text-slate-800 mt-1 max-w-xl">
-                    Get an unbiased profile evaluation with Mohit Jain. Know your real chances at BLACKI, New IIMs, FMS, MDI, SPJIMR, and top PGDM colleges.
+                  <p className="text-xs sm:text-sm font-normal text-white/80 mt-1 max-w-xl">
+                    Get an unbiased profile evaluation with Mohit Jain (IIM Bangalore &amp; FMS Delhi alumnus). Know your real chances at BLACKI, New IIMs, FMS, MDI, SPJIMR, and top PGDM colleges.
                   </p>
                 </div>
-                <button
-                  id="book-counselling-cta-btn"
-                  onClick={() => setShowInquiry(true)}
-                  className="bg-slate-950 hover:bg-slate-900 text-white font-bold px-7 py-4 rounded-2xl shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider shrink-0 cursor-pointer flex items-center gap-2"
-                >
-                  Book Free Consultation <ChevronRight className="w-4 h-4" />
-                </button>
+                <div className="flex flex-col sm:flex-row gap-3 shrink-0">
+                  <Link
+                    href="/book-session"
+                    className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
+                  >
+                    <span>Book Google Meet</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
+                  <a
+                    href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20checked%20my%20predicted%20CAT%20score%20and%20need%20profile%20evaluation"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-5 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/25 text-white font-bold text-xs uppercase tracking-wider transition-all text-center flex items-center justify-center gap-1.5"
+                  >
+                    <MessageCircle className="w-4 h-4 text-[#00FF88]" />
+                    <span>WhatsApp</span>
+                  </a>
+                </div>
               </div>
+
             </div>
           )}
-
-          {/* Placeholder when nothing entered yet */}
-          {!hasAnyInput && !isUnlocked && inputMode !== "target" && (
-            <div className="rounded-2xl border-2 border-dashed border-slate-200 p-8 sm:p-12 text-center">
-              <BarChart3 className="w-12 h-12 text-slate-300 mx-auto mb-3" />
-              <p className="text-xs font-bold uppercase tracking-wider text-slate-400">
-                Scan your official answer key link or enter section attempts above to calculate your score
-              </p>
-            </div>
-          )}
-
-          {/* Blurred Live Preview (Before Unlock) */}
-          {hasAnyInput && !isUnlocked && !showLeadForm && (
-            <div className="rounded-2xl bg-amber-50/70 border border-amber-200/80 p-6 text-center relative overflow-hidden">
-              <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-5">
-                <Lock className="w-40 h-40" />
-              </div>
-              <span className="text-[11px] font-bold uppercase tracking-widest text-amber-800 bg-amber-200/60 px-3 py-1 rounded-full inline-block mb-2">
-                Score Ready
-              </span>
-              <div className="text-5xl font-black text-slate-800 blur-sm select-none my-2">
-                {stats.totalRaw}
-              </div>
-              <p className="text-xs font-semibold text-amber-900 mt-2">
-                Click &quot;Unlock Full Score, Percentile &amp; IIM Calls&quot; to reveal sectional percentiles, slot normalization &amp; college matches.
-              </p>
-            </div>
-          )}
-        </div>
-      </div>
-
-      {/* Inquiry Modal */}
-      {showInquiry && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-md animate-in fade-in duration-300">
-          <div className="relative w-full max-w-3xl max-h-[90vh] overflow-y-auto bg-white rounded-3xl shadow-2xl border border-slate-200">
-            <button
-              onClick={() => setShowInquiry(false)}
-              className="absolute top-4 right-4 z-[110] bg-slate-100 hover:bg-slate-200 text-slate-700 p-2.5 rounded-full transition-colors cursor-pointer"
-              aria-label="Close Modal"
-            >
-              <X className="h-5 w-5" />
-            </button>
-
-            <div className="bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white p-8 text-center rounded-t-3xl relative overflow-hidden">
-              <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-2">
-                <Sparkles className="w-3.5 h-3.5" /> 1-on-1 Profile Assessment
-              </div>
-              <h3 className="text-2xl sm:text-3xl font-black tracking-tight">
-                MBA Admissions 2027 Guidance
-              </h3>
-              <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-lg mx-auto font-medium">
-                Direct expert counselling for IIM calls, non-IIM premier B-schools &amp; high-ROI PGDM options.
-              </p>
-            </div>
-
-            <div className="p-6 sm:p-8">
-              <InquiryForm />
-            </div>
-          </div>
-          <div className="absolute inset-0 -z-10" onClick={() => setShowInquiry(false)} />
-        </div>
-      )}
-
-      {/* Marks vs Percentile Benchmark Table */}
-      <div className="mt-16 bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-lg shadow-slate-900/5">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
-          <div>
-            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-amber-600 mb-1">
-              <BarChart3 className="w-4 h-4" /> Benchmark Matrix
-            </div>
-            <h3 className="text-xl sm:text-2xl font-black text-slate-900">
-              CAT Marks vs Percentile Target Matrix (66 Qs · 198 Marks)
-            </h3>
-          </div>
-          <span className="text-xs font-semibold text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full self-start sm:self-auto">
-            Based on 66-Question CAT Pattern
-          </span>
-        </div>
-
-        <div className="overflow-x-auto rounded-2xl border border-slate-200">
-          <table className="w-full text-left border-collapse text-xs sm:text-sm">
-            <thead className="bg-slate-900 text-white font-bold uppercase text-[11px] tracking-wider">
-              <tr>
-                <th className="p-4 border-r border-slate-800">Raw Marks (out of 198)</th>
-                <th className="p-4 border-r border-slate-800">Expected Percentile</th>
-                <th className="p-4 border-r border-slate-800">Approx. Net Correct Attempts</th>
-                <th className="p-4">Target Business Schools (2027 Admissions)</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-slate-200 font-medium">
-              {[
-                ["110 – 198", "99.90 – 99.99+", "38 – 42+ Net Correct", "IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS Delhi"],
-                ["95 – 109", "99.50 – 99.89", "33 – 37 Net Correct", "IIM Lucknow, IIM Kozhikode, IIM Indore, SPJIMR, SJMSOM IIT Bombay"],
-                ["82 – 94", "99.00 – 99.49", "29 – 32 Net Correct", "IIM Shillong, MDI Gurgaon, DMS IIT Delhi, IIFT Delhi"],
-                ["75 – 81", "98.00 – 98.99", "26 – 28 Net Correct", "New IIMs (Udaipur, Trichy, Ranchi, Raipur), VGSoM IIT Kharagpur"],
-                ["65 – 74", "95.00 – 97.99", "23 – 25 Net Correct", "IMT Ghaziabad, IMI New Delhi, DoMS IIT Madras, IIM Rohtak"],
-                ["52 – 64", "90.00 – 94.99", "18 – 22 Net Correct", "Baby IIMs (Nagpur, Vizag, Amritsar, Bodh Gaya), FORE, GIM Goa, TAPMI"],
-                ["42 – 51", "80.00 – 89.99", "15 – 17 Net Correct", "Great Lakes Chennai, BIMTECH Greater Noida, LBSIM, K J Somaiya"],
-                ["32 – 41", "70.00 – 79.99", "12 – 14 Net Correct", "Welingkar, Jaipuria, NDIM, JIMS Rohini, SOIL, IBS Hyderabad"],
-                ["20 – 31", "50.00 – 69.99", "8 – 11 Net Correct", "ITM Navi Mumbai, FOSTIIMA, Regional PGDM B-Schools"],
-              ].map(([score, perc, attempts, colleges], i) => (
-                <tr
-                  key={i}
-                  className={`hover:bg-amber-50/60 transition-colors ${
-                    i % 2 === 0 ? "bg-white" : "bg-slate-50/60"
-                  }`}
-                >
-                  <td className="p-4 font-black text-slate-900 border-r border-slate-200">{score}</td>
-                  <td className="p-4 font-black text-amber-600 border-r border-slate-200">{perc}</td>
-                  <td className="p-4 text-slate-600 border-r border-slate-200 font-semibold">{attempts}</td>
-                  <td className="p-4 text-slate-800">{colleges}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      {/* CAT Exam Pattern Overview Table */}
-      <div className="mt-12 bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-lg shadow-slate-900/5">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
-          <div>
-            <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-blue-600 mb-1">
-              <FileText className="w-4 h-4" /> Exam Architecture
-            </div>
-            <h3 className="text-xl sm:text-2xl font-black text-slate-900">
-              CAT 2026 Section-Wise Structure &amp; Marking Rules
-            </h3>
-          </div>
-          <span className="text-xs font-semibold text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full self-start sm:self-auto">
-            120 Minutes Total Duration
-          </span>
-        </div>
-
-        <div className="overflow-x-auto rounded-2xl border border-slate-200">
-          <table className="w-full text-left border-collapse text-xs sm:text-sm">
-            <thead className="bg-slate-900 text-white font-bold uppercase text-[11px] tracking-wider">
-              <tr>
-                <th className="p-4 border-r border-slate-800">Section Name</th>
-                <th className="p-4 border-r border-slate-800">Total Qs</th>
-                <th className="p-4 border-r border-slate-800">MCQs (+3 / −1)</th>
-                <th className="p-4 border-r border-slate-800">TITA (+3 / 0)</th>
-                <th className="p-4 border-r border-slate-800">Max Marks</th>
-                <th className="p-4">Time Limit</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-slate-200 font-medium">
-              {SECTIONS.map((s, i) => (
-                <tr
-                  key={s.key}
-                  className={`hover:bg-slate-50 transition-colors ${
-                    i % 2 === 0 ? "bg-white" : "bg-slate-50/60"
-                  }`}
-                >
-                  <td className="p-4 font-black text-slate-900 border-r border-slate-200">
-                    {s.label} ({s.fullName})
-                  </td>
-                  <td className="p-4 border-r border-slate-200 font-semibold">{s.totalMcq + s.totalTita}</td>
-                  <td className="p-4 border-r border-slate-200 text-emerald-700 font-semibold">{s.totalMcq}</td>
-                  <td className="p-4 border-r border-slate-200 text-amber-700 font-semibold">{s.totalTita}</td>
-                  <td className="p-4 border-r border-slate-200 font-black text-slate-900">{s.maxScore} Marks</td>
-                  <td className="p-4 text-slate-600 font-semibold">40 Minutes</td>
-                </tr>
-              ))}
-              <tr className="bg-slate-900 text-white font-bold">
-                <td className="p-4 border-r border-slate-800">Overall Total</td>
-                <td className="p-4 border-r border-slate-800">66 Questions</td>
-                <td className="p-4 border-r border-slate-800">49 MCQs</td>
-                <td className="p-4 border-r border-slate-800">17 TITAs</td>
-                <td className="p-4 border-r border-slate-800 text-amber-300">198 Marks</td>
-                <td className="p-4">120 Minutes (2 Hours)</td>
-              </tr>
-            </tbody>
-          </table>
         </div>
       </div>
     </div>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { CatScoreCalculator } from "@/components/CatScoreCalculator";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
+import { College4SureScrollProgress } from "@/components/College4SureScrollProgress";
 import {
   ShieldCheck,
   Zap,
@@ -26,6 +27,10 @@ import {
   Calendar,
   AlertTriangle,
   Scale,
+  Flame,
+  MessageCircle,
+  Video,
+  Share2,
 } from "lucide-react";
 import Link from "next/link";
 
@@ -115,108 +120,69 @@ export const metadata: Metadata = {
   },
 };
 
+const CAT_FAQS = [
+  {
+    question: "How is the CAT 2026 raw score calculated for 2027 admissions?",
+    answer: "CAT 2026 follows a 66-question format with a maximum raw score of 198 marks (24 VARC, 20 DILR, 22 QA). Multiple Choice Questions (MCQs) award +3 marks for every correct answer and deduct −1 mark for every incorrect answer. Non-MCQ / TITA (Type In The Answer) questions award +3 marks for correct answers and carry 0 negative marking for wrong or unattempted responses.",
+  },
+  {
+    question: "How can I check my CAT 2026 response sheet and answer key with this calculator?",
+    answer: "Once the conducting IIM releases the official CAT candidate response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
+  },
+  {
+    question: "What is the difference between CAT raw score and scaled score?",
+    answer: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ an equipercentile equating formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
+  },
+  {
+    question: "What CAT 2026 score is required for 99+ percentile in 2027 admissions?",
+    answer: "Based on historical trends across 66-question CAT exams, a raw score of roughly 82 to 94 marks out of 198 fetches a 99.0+ percentile. A score of 95 to 109 marks yields a 99.5+ percentile, and a score of 110+ marks generally secures a 99.9+ percentile, qualifying aspirants for top IIM Ahmedabad, Bangalore, and Calcutta interview shortlists.",
+  },
+  {
+    question: "How does the CAT normalization formula work across Slot 1, Slot 2, and Slot 3?",
+    answer: "IIMs use equipercentile equating to normalize CAT scores. The formula compares the mean and standard deviation of candidate scores in a specific slot with the master mean across all slots, with special weightage to the top 0.1% performers. Tougher slots receive upward score adjustment, while easier slots may see a slight downward calibration.",
+  },
+  {
+    question: "How do I challenge a question in the provisional CAT 2026 answer key?",
+    answer: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Candidate Grievance / Objection tab, choose the Question ID, upload your justification with reference text, and pay the requisite fee of INR 1,200 (plus transaction fees) per question. If your objection is valid, the fee is refunded and the answer key is updated for all candidates.",
+  },
+  {
+    question: "What happens if a question is dropped in CAT 2026?",
+    answer: "If an official CAT question is dropped due to ambiguity or printing error, marks for that question are ignored and the remaining questions are scaled proportionally for all test takers in that specific shift, ensuring no candidate is unfairly penalized.",
+  },
+  {
+    question: "Is there sectional negative marking in CAT 2026?",
+    answer: "Sectional marking is uniform across VARC, DILR, and QA: +3 for correct MCQs, −1 for wrong MCQs, +3 for correct TITA, and 0 for wrong TITA. Candidates must also meet individual sectional cut-offs (usually 70-85+ percentile per section) to qualify for IIM calls.",
+  },
+  {
+    question: "What are the expected CAT cut-offs for top Non-IIM B-schools like FMS, MDI, SPJIMR, and IITs?",
+    answer: "FMS Delhi typically requires 99.3+ percentile; SPJIMR Mumbai shortlists profile-cum-score candidates around 85-98 percentile; MDI Gurgaon requires 95-97 percentile; DMS IIT Delhi and SJMSOM IIT Bombay require 98-99 percentile; IMT Ghaziabad and IMI Delhi require 90-93 percentile; and Baby IIMs (CAP round) generally cutoff at 92-94 percentile.",
+  },
+  {
+    question: "Which top MBA colleges accept 80 to 90 percentile in CAT 2026?",
+    answer: "Candidates scoring between 80 and 90 percentile (raw score of 42 to 64 marks) can target reputed B-schools such as FORE School of Management (Delhi), GIM Goa, TAPMI Manipal, Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), LBSIM (Delhi), K J Somaiya (Mumbai), and LIBA (Chennai).",
+  },
+  {
+    question: "Can I get admission into good MBA colleges with a 70 percentile in CAT?",
+    answer: "Yes! High-ROI colleges accepting 70-80 CAT percentiles include Welingkar (Mumbai/Bangalore), Jaipuria Institute of Management, NDIM New Delhi, JIMS Rohini, SOIL Gurgaon, IBS Hyderabad, and ITM Navi Mumbai. Many colleges also accept alternative scores like XAT, CMAT, and MAT.",
+  },
+  {
+    question: "What are the three slot timings in the CAT 2026 exam?",
+    answer: "CAT is held in 3 shifts: Slot 1 (Morning) from 08:30 AM to 10:30 AM, Slot 2 (Afternoon) from 12:30 PM to 02:30 PM, and Slot 3 (Evening) from 04:30 PM to 06:30 PM. Each slot has a strict 40-minute limit per section.",
+  },
+];
+
 export default function CatScoreCalculatorPage() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "How is the CAT 2026 raw score calculated for 2027 admissions?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "CAT 2026 follows a 66-question format with a maximum raw score of 198 marks (24 VARC, 20 DILR, 22 QA). Multiple Choice Questions (MCQs) award +3 marks for every correct answer and deduct −1 mark for every incorrect answer. Non-MCQ / TITA (Type In The Answer) questions award +3 marks for correct answers and carry 0 negative marking for wrong or unattempted responses.",
-        },
+    mainEntity: CAT_FAQS.map((faq) => ({
+      "@type": "Question",
+      name: faq.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.answer,
       },
-      {
-        "@type": "Question",
-        name: "How can I check my CAT 2026 response sheet and answer key with this calculator?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Once the conducting IIM releases the official CAT candidate response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What is the difference between CAT raw score and scaled score?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ an equipercentile equating formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What CAT 2026 score is required for 99+ percentile in 2027 admissions?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Based on historical trends across 66-question CAT exams, a raw score of roughly 82 to 94 marks out of 198 fetches a 99.0+ percentile. A score of 95 to 109 marks yields a 99.5+ percentile, and a score of 110+ marks generally secures a 99.9+ percentile, qualifying aspirants for top IIM Ahmedabad, Bangalore, and Calcutta interview shortlists.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "How does the CAT normalization formula work across Slot 1, Slot 2, and Slot 3?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "IIMs use equipercentile equating to normalize CAT scores. The formula compares the mean and standard deviation of candidate scores in a specific slot with the master mean across all slots, with special weightage to the top 0.1% performers. Tougher slots receive upward score adjustment, while easier slots may see a slight downward calibration.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "How do I challenge a question in the provisional CAT 2026 answer key?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Candidate Grievance / Objection tab, choose the Question ID, upload your justification with reference text, and pay the requisite fee of INR 1,200 (plus transaction fees) per question. If your objection is valid, the fee is refunded and the answer key is updated for all candidates.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What happens if a question is dropped in CAT 2026?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "If an official CAT question is dropped due to ambiguity or printing error, marks for that question are ignored and the remaining questions are scaled proportionally for all test takers in that specific shift, ensuring no candidate is unfairly penalized.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Is there sectional negative marking in CAT 2026?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Sectional marking is uniform across VARC, DILR, and QA: +3 for correct MCQs, −1 for wrong MCQs, +3 for correct TITA, and 0 for wrong TITA. Candidates must also meet individual sectional cut-offs (usually 70-85+ percentile per section) to qualify for IIM calls.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What are the expected CAT cut-offs for top Non-IIM B-schools like FMS, MDI, SPJIMR, and IITs?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "FMS Delhi typically requires 99.3+ percentile; SPJIMR Mumbai shortlists profile-cum-score candidates around 85-98 percentile; MDI Gurgaon requires 95-97 percentile; DMS IIT Delhi and SJMSOM IIT Bombay require 98-99 percentile; IMT Ghaziabad and IMI Delhi require 90-93 percentile; and Baby IIMs (CAP round) generally cutoff at 92-94 percentile.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Which top MBA colleges accept 80 to 90 percentile in CAT 2026?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Candidates scoring between 80 and 90 percentile (raw score of 42 to 64 marks) can target reputed B-schools such as FORE School of Management (Delhi), GIM Goa, TAPMI Manipal, Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), LBSIM (Delhi), K J Somaiya (Mumbai), and LIBA (Chennai).",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Can I get admission into good MBA colleges with a 70 percentile in CAT?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Yes! High-ROI colleges accepting 70-80 CAT percentiles include Welingkar (Mumbai/Bangalore), Jaipuria Institute of Management, NDIM New Delhi, JIMS Rohini, SOIL Gurgaon, IBS Hyderabad, and ITM Navi Mumbai. Many colleges also accept alternative scores like XAT, CMAT, and MAT.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "What are the three slot timings in the CAT 2026 exam?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "CAT is held in 3 shifts: Slot 1 (Morning) from 08:30 AM to 10:30 AM, Slot 2 (Afternoon) from 12:30 PM to 02:30 PM, and Slot 3 (Evening) from 04:30 PM to 06:30 PM. Each slot has a strict 40-minute limit per section.",
-        },
-      },
-    ],
+    })),
   };
 
   const webAppSchema = {
@@ -344,119 +310,157 @@ export default function CatScoreCalculatorPage() {
   };
 
   return (
-    <main className="min-h-screen bg-white">
+    <main className="min-h-screen bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
       <JsonLd data={faqSchema} />
       <JsonLd data={webAppSchema} />
       <JsonLd data={howToSchema} />
       <JsonLd data={breadcrumbSchema} />
       <JsonLd data={educationalPageSchema} />
 
-      {/* ── MODERN SLEEK MIDNIGHT HERO ── */}
-      <header className="relative bg-gradient-to-br from-[#0A192F] via-[#0D2342] to-[#123058] text-white pt-12 pb-24 px-6 overflow-hidden">
-        {/* Ambient Glows & Subtle Grid */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:4rem_4rem] pointer-events-none" />
-        <div className="absolute -top-28 -right-28 w-96 h-96 bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
-        <div className="absolute -bottom-28 -left-28 w-96 h-96 bg-blue-500/20 rounded-full blur-3xl pointer-events-none" />
+      {/* Top Multi-Color Gradient Scroll Progress & Back to Top */}
+      <College4SureScrollProgress />
 
-        <div className="max-w-7xl mx-auto relative z-10">
+      {/* ── LIVE MARQUEE TICKER BAR MATCHING HOME PAGE ── */}
+      <div className="bg-[#061124] text-white py-2.5 px-4 overflow-hidden border-b border-white/10 font-mono text-xs">
+        <div className="max-w-[1220px] mx-auto flex items-center justify-between gap-4">
+          <div className="flex items-center gap-2 shrink-0">
+            <span className="w-2 h-2 rounded-full bg-[#00FF88] shadow-[0_0_8px_#00FF88] animate-ping" />
+            <span className="font-bold text-[#00FF88] uppercase tracking-wider text-[11px]">
+              LIVE RADAR
+            </span>
+          </div>
+          <div className="overflow-hidden whitespace-nowrap text-slate-300 text-xs font-medium">
+            <span className="inline-block animate-marquee">
+              🔥 CAT 2026 Official Answer Key &amp; Response Sheet Portal Active &nbsp;·&nbsp;
+              📊 Slot 1, Slot 2 &amp; Slot 3 Normalization Updated &nbsp;·&nbsp;
+              🏛️ IIM BLACKI &amp; Top Non-IIM Cutoffs 2027 Live &nbsp;·&nbsp;
+              💬 Free 1-on-1 Profile Assessment with Mohit Jain (IIM Bangalore &amp; FMS Alumni)
+            </span>
+          </div>
+          <Link
+            href="/book-session"
+            className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-bold text-[#F59E0B] hover:text-white uppercase tracking-wider shrink-0 transition-colors"
+          >
+            <span>Book 1-on-1 Meet</span>
+            <ArrowRight className="w-3 h-3" />
+          </Link>
+        </div>
+      </div>
+
+      {/* ── CYBER DARK HERO MATCHING HOME PAGE ── */}
+      <header className="relative overflow-hidden bg-[#070A14] text-white pt-10 pb-24 sm:pt-14 sm:pb-32 border-b border-white/10">
+        {/* Floating Ambient Glowing Blobs */}
+        <span className="blob b1" />
+        <span className="blob b2" />
+        <span className="blob b3" />
+
+        {/* Subtle Cyber Grid Background Texture */}
+        <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:3rem_3rem] pointer-events-none [mask-image:radial-gradient(ellipse_60%_50%_at_50%_40%,#000_70%,transparent_100%)]" />
+
+        <div className="relative z-10 max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
           {/* Breadcrumbs with light text for dark background */}
-          <div className="mb-8 [&_a]:text-slate-300 [&_a:hover]:text-amber-300 [&_span]:text-white [&_svg]:text-slate-400">
+          <div className="mb-6 [&_a]:text-slate-300 [&_a:hover]:text-[#00F0FF] [&_span]:text-white [&_svg]:text-slate-400">
             <Breadcrumbs />
           </div>
 
-          {/* Announcement Badge */}
-          <div className="inline-flex items-center gap-2.5 bg-white/10 backdrop-blur-md border border-white/15 px-4 py-1.5 rounded-full mb-8 shadow-sm">
-            <Sparkles className="w-4 h-4 text-amber-400 animate-pulse" />
-            <span className="text-[11px] font-bold uppercase tracking-widest text-slate-200">
-              CAT 2026 Response Sheet Check · Answer Key Calculator · MBA / PGDM Admissions 2027
-            </span>
+          {/* Eyebrow Pill */}
+          <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-white/[0.08] backdrop-blur-xl border border-white/15 shadow-[0_0_20px_rgba(0,255,136,0.2)] font-mono text-xs font-bold uppercase tracking-wider mb-6 text-[#00FF88]">
+            <span className="w-2 h-2 rounded-full bg-[#00FF88] shadow-[0_0_10px_#00FF88] animate-ping" />
+            <span>CAT 2026 Official Answer Key &amp; Response Sheet Checker · MBA 2027</span>
           </div>
 
           <div className="max-w-4xl">
-            <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight leading-[1.05] mb-6">
+            <h1 className="font-display text-4xl sm:text-6xl lg:text-[62px] font-black text-white leading-[1.08] tracking-tight mb-6">
               CAT 2026{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FF007A] via-[#8B5CF6] to-[#00F0FF]">
                 Score Calculator
               </span>{" "}
               &amp; Percentile Predictor
             </h1>
-            <p className="text-lg md:text-xl font-medium text-slate-300 border-l-2 border-amber-400/80 pl-5 mb-10 leading-relaxed max-w-3xl">
-              Check your official candidate response sheet and answer key instantly. Calculate raw marks out of 198, apply Slot 1, 2 &amp; 3 equating normalization, and predict your exact percentile for 2027 IIM calls and top B-school shortlists.
-            </p>
+
+            {/* DIRECT AI ANSWER CARD (GEO / AEO RULE 1) */}
+            <div className="p-5 sm:p-6 rounded-3xl bg-white/[0.08] backdrop-blur-2xl border border-white/20 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.5)] mb-8">
+              <div className="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-[#00F0FF] mb-2">
+                <Sparkles className="w-4 h-4 text-[#00F0FF]" /> Direct AI Answer Summary
+              </div>
+              <p className="text-sm sm:text-base text-slate-200 leading-relaxed font-normal">
+                The <strong>CAT 2026 raw score</strong> is calculated across 66 questions (198 max marks) with +3 for correct MCQs, −1 for wrong MCQs, and +3 for non-MCQ (TITA) with zero negative marking. Candidates can paste their official Digialm response sheet URL or page source to compute instant raw marks, apply Slot 1, Slot 2 &amp; Slot 3 equipercentile scaling, and predict 2027 IIM call ranges (BLACKI, New IIMs, Baby IIMs, and top Non-IIM B-schools).
+              </p>
+            </div>
 
             {/* Quick Metrics Cards */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mb-8">
-              <div className="bg-white/10 backdrop-blur-md border border-white/15 p-4 rounded-2xl">
-                <span className="text-[11px] font-bold uppercase tracking-wider text-amber-300 block mb-1">
+              <div className="bg-white/[0.08] backdrop-blur-xl border border-white/15 p-4 rounded-2xl">
+                <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#8B5CF6] block mb-1">
                   Questions Format
                 </span>
-                <span className="text-xl sm:text-2xl font-black text-white">66 Qs</span>
-                <span className="text-[11px] text-slate-300 block mt-0.5">24 VARC · 20 DILR · 22 QA</span>
+                <span className="text-xl sm:text-2xl font-display font-black text-white">66 Qs</span>
+                <span className="text-[11px] text-slate-300 block mt-0.5 font-mono">24 VARC · 20 DILR · 22 QA</span>
               </div>
 
-              <div className="bg-white/10 backdrop-blur-md border border-white/15 p-4 rounded-2xl">
-                <span className="text-[11px] font-bold uppercase tracking-wider text-emerald-300 block mb-1">
+              <div className="bg-white/[0.08] backdrop-blur-xl border border-white/15 p-4 rounded-2xl">
+                <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00FF88] block mb-1">
                   Maximum Marks
                 </span>
-                <span className="text-xl sm:text-2xl font-black text-white">198 Marks</span>
-                <span className="text-[11px] text-slate-300 block mt-0.5">+3 / −1 / 0 TITA</span>
+                <span className="text-xl sm:text-2xl font-display font-black text-white">198 Marks</span>
+                <span className="text-[11px] text-slate-300 block mt-0.5 font-mono">+3 / −1 / 0 TITA</span>
               </div>
 
-              <div className="bg-white/10 backdrop-blur-md border border-white/15 p-4 rounded-2xl">
-                <span className="text-[11px] font-bold uppercase tracking-wider text-blue-300 block mb-1">
+              <div className="bg-white/[0.08] backdrop-blur-xl border border-white/15 p-4 rounded-2xl">
+                <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00F0FF] block mb-1">
                   Slot Equating
                 </span>
-                <span className="text-xl sm:text-2xl font-black text-white">3 Shifts</span>
-                <span className="text-[11px] text-slate-300 block mt-0.5">Equipercentile Equating</span>
+                <span className="text-xl sm:text-2xl font-display font-black text-white">3 Shifts</span>
+                <span className="text-[11px] text-slate-300 block mt-0.5 font-mono">Equipercentile Equating</span>
               </div>
 
-              <div className="bg-white/10 backdrop-blur-md border border-white/15 p-4 rounded-2xl">
-                <span className="text-[11px] font-bold uppercase tracking-wider text-purple-300 block mb-1">
+              <div className="bg-white/[0.08] backdrop-blur-xl border border-white/15 p-4 rounded-2xl">
+                <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#FFD600] block mb-1">
                   99+ Percentile
                 </span>
-                <span className="text-xl sm:text-2xl font-black text-white">82 – 94 M</span>
-                <span className="text-[11px] text-slate-300 block mt-0.5">IIM A / B / C Target</span>
+                <span className="text-xl sm:text-2xl font-display font-black text-white">82 – 94 M</span>
+                <span className="text-[11px] text-slate-300 block mt-0.5 font-mono">IIM A / B / C Target</span>
               </div>
             </div>
 
             {/* Hero Quick Jump Pills */}
             <div className="flex flex-wrap items-center gap-2 pt-2">
-              <span className="text-xs font-bold uppercase tracking-wider text-slate-400 mr-1 flex items-center gap-1.5">
-                <Zap className="w-3.5 h-3.5 text-amber-400" /> Fast Navigation:
+              <span className="text-xs font-mono font-bold uppercase tracking-wider text-slate-400 mr-1 flex items-center gap-1.5">
+                <Zap className="w-3.5 h-3.5 text-[#FFD600]" /> Fast Navigation:
               </span>
               <a
                 href="#cat-calculator-app"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-amber-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-[#00F0FF] hover:bg-white/15 transition-colors"
               >
                 ⚡ Live Calculator
               </a>
               <a
                 href="#response-sheet-guide"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-yellow-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-[#FFD600] hover:bg-white/15 transition-colors"
               >
                 📄 Response Sheet Check
               </a>
               <a
                 href="#answer-key-analysis"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-rose-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-[#FF007A] hover:bg-white/15 transition-colors"
               >
                 🔑 2026 Answer Key
               </a>
               <a
                 href="#marks-vs-percentile"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-blue-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-cyan-300 hover:bg-white/15 transition-colors"
               >
                 📊 Marks vs %ile Matrix
               </a>
               <a
                 href="#normalization"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-emerald-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-[#00FF88] hover:bg-white/15 transition-colors"
               >
                 📈 Slot Normalization
               </a>
               <a
                 href="#colleges-by-tier"
-                className="bg-white/10 backdrop-blur-sm border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-purple-300 flex items-center gap-1.5 hover:bg-white/15 transition-colors"
+                className="bg-white/[0.08] backdrop-blur-md border border-white/15 px-3.5 py-1 rounded-full text-xs font-bold text-[#8B5CF6] hover:bg-white/15 transition-colors"
               >
                 🏛️ IIM Cutoffs
               </a>
@@ -467,7 +471,7 @@ export default function CatScoreCalculatorPage() {
 
       {/* ── MAIN INTERACTIVE CALCULATOR SECTION ── */}
       <section
-        className="max-w-7xl mx-auto px-4 sm:px-6 -mt-12 relative z-20 pb-20"
+        className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 -mt-16 sm:-mt-20 relative z-20 pb-20"
         aria-label="CAT 2026 Score Calculator Tool"
       >
         <CatScoreCalculator />
@@ -478,22 +482,22 @@ export default function CatScoreCalculatorPage() {
           {/* Section 1: Response Sheet & Answer Key Scanner Guide */}
           <article id="response-sheet-guide" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold shadow-md">
                 <FileCheck2 className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 CAT 2026 Response Sheet Check: How to View &amp; Calculate Score
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 As soon as the conducting IIM releases the official <strong>CAT 2026 candidate response sheet</strong> and provisional <strong>answer key</strong>, candidates can verify every MCQ and TITA attempt without tedious manual counting. Our built-in <strong>CAT response sheet check tool</strong> reads your official candidate URL (hosted on <code>cdn.digialm.com</code> or <code>iimcat.ac.in</code>) or HTML source code directly to compute instant score results.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
-                <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200/80 space-y-3">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
+                <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3">
+                  <h3 className="font-display font-black text-sm text-[#061124] flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
                     How to Get Your Response Sheet Link:
                   </h3>
@@ -505,8 +509,8 @@ export default function CatScoreCalculatorPage() {
                   </ol>
                 </div>
 
-                <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200/80 space-y-3">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
+                <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3">
+                  <h3 className="font-display font-black text-sm text-[#061124] flex items-center gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
                     What the Scanner Automatically Analyzes:
                   </h3>
@@ -524,22 +528,22 @@ export default function CatScoreCalculatorPage() {
           {/* Section 2: CAT 2026 Answer Key & Objection Window Analysis */}
           <article id="answer-key-analysis" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-rose-500/10 text-rose-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#FF007A] flex items-center justify-center font-bold shadow-md">
                 <ShieldCheck className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 CAT 2026 Answer Key &amp; Objection Challenge Process
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
-                The <strong>CAT 2026 provisional answer key</strong> is published alongside the candidate response sheet within 3 to 4 days post-exam. If you discover a discrepancies in the official answer key for Slot 1, Slot 2, or Slot 3, you can file an objection through the official candidate grievance portal.
+                The <strong>CAT 2026 provisional answer key</strong> is published alongside the candidate response sheet within 3 to 4 days post-exam. If you discover discrepancies in the official answer key for Slot 1, Slot 2, or Slot 3, you can file an objection through the official candidate grievance portal.
               </p>
 
               <div className="space-y-3">
                 <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200/80 space-y-1">
-                  <h4 className="font-bold text-xs sm:text-sm text-amber-950 flex items-center gap-2">
+                  <h4 className="font-display font-black text-xs sm:text-sm text-amber-950 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-amber-600" />
                     Objection Fee &amp; Refund Policy:
                   </h4>
@@ -549,7 +553,7 @@ export default function CatScoreCalculatorPage() {
                 </div>
 
                 <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200/80 space-y-1">
-                  <h4 className="font-bold text-xs sm:text-sm text-blue-950 flex items-center gap-2">
+                  <h4 className="font-display font-black text-xs sm:text-sm text-blue-950 flex items-center gap-2">
                     <AlertTriangle className="w-4 h-4 text-blue-600" />
                     Question Drop / Ambiguity Rule:
                   </h4>
@@ -564,15 +568,15 @@ export default function CatScoreCalculatorPage() {
           {/* Section 3: CAT Exam Pattern, Syllabus & Slot Timings */}
           <article className="space-y-6">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-purple-500/10 text-purple-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#8B5CF6] flex items-center justify-center font-bold shadow-md">
                 <Clock className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 CAT Exam Architecture, Slot Timings &amp; Marking Rules
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 The <strong>Common Admission Test (CAT)</strong> is conducted in 3 distinct shifts on the last Sunday of November across 155+ test cities in India. The exam enforces a strict 40-minute sectional time limit with no option to toggle between sections.
               </p>
@@ -580,42 +584,42 @@ export default function CatScoreCalculatorPage() {
               {/* Slot Timings Matrix */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
                 <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
-                  <span className="text-[11px] font-bold text-amber-700 uppercase block">Shift 1 (Morning)</span>
+                  <span className="text-[11px] font-mono font-bold text-amber-700 uppercase block">Shift 1 (Morning)</span>
                   <span className="text-lg font-black text-slate-900">08:30 AM – 10:30 AM</span>
-                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 07:00 AM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1 font-medium">Reporting Time: 07:00 AM</span>
                 </div>
 
                 <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
-                  <span className="text-[11px] font-bold text-blue-700 uppercase block">Shift 2 (Afternoon)</span>
+                  <span className="text-[11px] font-mono font-bold text-blue-700 uppercase block">Shift 2 (Afternoon)</span>
                   <span className="text-lg font-black text-slate-900">12:30 PM – 02:30 PM</span>
-                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 11:00 AM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1 font-medium">Reporting Time: 11:00 AM</span>
                 </div>
 
                 <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200">
-                  <span className="text-[11px] font-bold text-emerald-700 uppercase block">Shift 3 (Evening)</span>
+                  <span className="text-[11px] font-mono font-bold text-emerald-700 uppercase block">Shift 3 (Evening)</span>
                   <span className="text-lg font-black text-slate-900">04:30 PM – 06:30 PM</span>
-                  <span className="text-[11px] text-slate-500 block mt-1">Reporting Time: 03:00 PM</span>
+                  <span className="text-[11px] text-slate-500 block mt-1 font-medium">Reporting Time: 03:00 PM</span>
                 </div>
               </div>
 
               {/* Section Breakdown */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
                 <div className="p-4 rounded-2xl border border-violet-200 bg-violet-50/50">
-                  <h4 className="font-bold text-sm text-violet-900 mb-1">VARC (72 Marks)</h4>
+                  <h4 className="font-display font-black text-sm text-violet-900 mb-1">VARC (72 Marks)</h4>
                   <p className="text-xs text-slate-600 font-medium">
                     24 Questions: 16 Reading Comprehension (4 Passages × 4 Qs) + 8 Verbal Ability (Parasummary, Parajumbles, Odd One Out).
                   </p>
                 </div>
 
                 <div className="p-4 rounded-2xl border border-blue-200 bg-blue-50/50">
-                  <h4 className="font-bold text-sm text-blue-900 mb-1">DILR (60 Marks)</h4>
+                  <h4 className="font-display font-black text-sm text-blue-900 mb-1">DILR (60 Marks)</h4>
                   <p className="text-xs text-slate-600 font-medium">
                     20 Questions: 4 Sets of 5 questions each covering Matrix Arrangement, Games &amp; Tournaments, Venn Diagrams, and Data Tables.
                   </p>
                 </div>
 
                 <div className="p-4 rounded-2xl border border-emerald-200 bg-emerald-50/50">
-                  <h4 className="font-bold text-sm text-emerald-900 mb-1">QA (66 Marks)</h4>
+                  <h4 className="font-display font-black text-sm text-emerald-900 mb-1">QA (66 Marks)</h4>
                   <p className="text-xs text-slate-600 font-medium">
                     22 Questions: Arithmetic (TSD, Work, Percentages, P&amp;L), Algebra (Functions, Quadratic, Progressions), Geometry &amp; Numbers.
                   </p>
@@ -627,22 +631,22 @@ export default function CatScoreCalculatorPage() {
           {/* Section 4: Marks vs Percentile Benchmark Table */}
           <article id="marks-vs-percentile" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-blue-500/10 text-blue-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold shadow-md">
                 <BarChart3 className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 CAT 2026 Marks vs Percentile Target Breakdown (198 Max Marks)
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 In CAT 2026, scoring above <strong>50% raw marks (~100 marks out of 198)</strong> comfortably places an aspirant above the <strong>99.5 percentile</strong>. Because CAT tests relative performance rather than absolute accuracy, understanding raw marks vs percentile targets helps plan mock test benchmarks and target college shortlists:
               </p>
 
               <div className="overflow-x-auto rounded-2xl border border-slate-200">
                 <table className="w-full text-left border-collapse text-xs sm:text-sm">
-                  <thead className="bg-slate-900 text-white font-bold uppercase text-[11px] tracking-wider">
+                  <thead className="bg-[#061124] text-white font-mono font-bold uppercase text-[11px] tracking-wider">
                     <tr>
                       <th className="p-4 border-r border-slate-800">Target %ile</th>
                       <th className="p-4 border-r border-slate-800">Estimated Raw Marks (198M)</th>
@@ -665,11 +669,11 @@ export default function CatScoreCalculatorPage() {
                     ].map(([perc, overall, varc, dilr, qa], idx) => (
                       <tr
                         key={idx}
-                        className={`hover:bg-amber-50/50 transition-colors ${
+                        className={`hover:bg-cyan-50/50 transition-colors ${
                           idx % 2 === 0 ? "bg-white" : "bg-slate-50/60"
                         }`}
                       >
-                        <td className="p-4 border-r border-slate-200 font-black text-amber-600">{perc}</td>
+                        <td className="p-4 border-r border-slate-200 font-black text-cyan-700">{perc}</td>
                         <td className="p-4 border-r border-slate-200 font-black text-slate-900">{overall}</td>
                         <td className="p-4 border-r border-slate-200 text-slate-600 font-semibold">{varc}</td>
                         <td className="p-4 border-r border-slate-200 text-slate-600 font-semibold">{dilr}</td>
@@ -688,23 +692,23 @@ export default function CatScoreCalculatorPage() {
           {/* Section 5: Normalization Mechanics */}
           <article id="normalization" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00FF88] flex items-center justify-center font-bold shadow-md">
                 <TrendingUp className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 How CAT 2026 Normalization &amp; Slot Scaling Works (Slot 1, 2, 3)
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 Because CAT is administered in three distinct shifts across test centers in India, small variations in question paper difficulty naturally occur. To ensure complete fairness for all test takers, IIMs implement a multi-stage <strong>equipercentile equating normalization method</strong> modeled on statistical standardization.
               </p>
 
               <div className="space-y-4">
                 <div className="p-5 rounded-2xl bg-amber-50/70 border border-amber-200/80 space-y-1.5">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
-                    <span className="w-6 h-6 rounded-full bg-amber-500 text-slate-950 font-black text-xs flex items-center justify-center">1</span>
+                  <h3 className="font-display font-black text-sm text-slate-900 flex items-center gap-2">
+                    <span className="w-6 h-6 rounded-full bg-[#F59E0B] text-slate-950 font-black text-xs flex items-center justify-center">1</span>
                     Calculation of Mean &amp; Standard Deviation
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-600 font-medium pl-8">
@@ -713,8 +717,8 @@ export default function CatScoreCalculatorPage() {
                 </div>
 
                 <div className="p-5 rounded-2xl bg-blue-50/70 border border-blue-200/80 space-y-1.5">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
-                    <span className="w-6 h-6 rounded-full bg-blue-500 text-white font-black text-xs flex items-center justify-center">2</span>
+                  <h3 className="font-display font-black text-sm text-slate-900 flex items-center gap-2">
+                    <span className="w-6 h-6 rounded-full bg-[#2563EB] text-white font-black text-xs flex items-center justify-center">2</span>
                     Scaled Score Equating Formula
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-600 font-medium pl-8">
@@ -723,8 +727,8 @@ export default function CatScoreCalculatorPage() {
                 </div>
 
                 <div className="p-5 rounded-2xl bg-emerald-50/70 border border-emerald-200/80 space-y-1.5">
-                  <h3 className="font-bold text-sm text-slate-900 flex items-center gap-2">
-                    <span className="w-6 h-6 rounded-full bg-emerald-500 text-white font-black text-xs flex items-center justify-center">3</span>
+                  <h3 className="font-display font-black text-sm text-slate-900 flex items-center gap-2">
+                    <span className="w-6 h-6 rounded-full bg-[#10B981] text-white font-black text-xs flex items-center justify-center">3</span>
                     Percentile Computation Formula
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-600 font-medium pl-8">
@@ -738,10 +742,10 @@ export default function CatScoreCalculatorPage() {
           {/* Section 6: Top MBA Colleges Accepting CAT by Percentile Tier */}
           <article id="colleges-by-tier" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold shadow-md">
                 <Building2 className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 Top MBA Colleges &amp; IIM Cutoffs by CAT Percentile Tier (2027 Admissions)
               </h2>
             </div>
@@ -786,13 +790,13 @@ export default function CatScoreCalculatorPage() {
               ].map((tierItem, i) => (
                 <div
                   key={i}
-                  className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-7 shadow-sm space-y-3 hover:border-slate-300 transition-all"
+                  className="bg-white rounded-[28px] border-[1.5px] border-[#061124]/10 p-6 sm:p-7 shadow-sm space-y-3 hover:border-cyan-400 transition-all"
                 >
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
-                    <h3 className="text-base sm:text-lg font-black text-slate-900">
+                    <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
                       {tierItem.tier}
                     </h3>
-                    <span className={`text-xs font-bold px-3 py-1 rounded-full border uppercase self-start sm:self-auto ${tierItem.badgeColor}`}>
+                    <span className={`text-xs font-mono font-bold px-3 py-1 rounded-full border uppercase self-start sm:self-auto ${tierItem.badgeColor}`}>
                       Avg CTC: {tierItem.avgPkg}
                     </span>
                   </div>
@@ -810,29 +814,29 @@ export default function CatScoreCalculatorPage() {
           {/* Section 7: Geo SEO - Regional MBA Hubs */}
           <article id="regional-hubs" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-rose-500/10 text-rose-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#FF007A] flex items-center justify-center font-bold shadow-md">
                 <MapPin className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 Regional MBA Admissions by CAT Score: Top State &amp; Metro Hubs
               </h2>
             </div>
 
-            <div className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm space-y-6">
+            <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 Depending on your location preferences and career goals, exploring regional MBA hubs allows you to leverage localized corporate recruitment ecosystems in India’s leading commercial centers:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <Link
-                  href="/colleges/mba-colleges-delhi-ncr"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-amber-50/60 hover:border-amber-300 transition-all group"
+                  href="/mba-admissions-by-region/delhi-ncr"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-cyan-50/60 hover:border-cyan-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-amber-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-cyan-700 transition-colors flex items-center gap-1.5">
                       Delhi NCR MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-amber-100 text-amber-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-cyan-100 text-cyan-800 px-2.5 py-0.5 rounded-full">
                       Top Hub
                     </span>
                   </div>
@@ -842,14 +846,14 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/colleges/mba-colleges-mumbai"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
+                  href="/mba-admissions-by-region/mumbai"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-blue-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-blue-700 transition-colors flex items-center gap-1.5">
                       Mumbai MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-blue-100 text-blue-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-blue-100 text-blue-800 px-2.5 py-0.5 rounded-full">
                       Financial Hub
                     </span>
                   </div>
@@ -859,14 +863,14 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/colleges/mba-colleges-bangalore"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-emerald-50/60 hover:border-emerald-300 transition-all group"
+                  href="/mba-admissions-by-region/bangalore"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-emerald-50/60 hover:border-emerald-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-emerald-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-emerald-700 transition-colors flex items-center gap-1.5">
                       Bangalore MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-emerald-100 text-emerald-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-emerald-100 text-emerald-800 px-2.5 py-0.5 rounded-full">
                       Tech &amp; Startups
                     </span>
                   </div>
@@ -876,14 +880,14 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/colleges/mba-colleges-pune"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-purple-50/60 hover:border-purple-300 transition-all group"
+                  href="/mba-admissions-by-region/pune"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-purple-50/60 hover:border-purple-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-purple-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-purple-700 transition-colors flex items-center gap-1.5">
                       Pune MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-purple-100 text-purple-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-purple-100 text-purple-800 px-2.5 py-0.5 rounded-full">
                       Auto &amp; IT Hub
                     </span>
                   </div>
@@ -893,14 +897,14 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/colleges/mba-colleges-hyderabad"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-rose-50/60 hover:border-rose-300 transition-all group"
+                  href="/mba-admissions-by-region/hyderabad"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-rose-50/60 hover:border-rose-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-rose-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-rose-700 transition-colors flex items-center gap-1.5">
                       Hyderabad MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-rose-100 text-rose-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-rose-100 text-rose-800 px-2.5 py-0.5 rounded-full">
                       Pharma &amp; Tech
                     </span>
                   </div>
@@ -910,14 +914,14 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/colleges/mba-colleges-kolkata"
-                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50/70 hover:bg-cyan-50/60 hover:border-cyan-300 transition-all group"
+                  href="/mba-admissions-by-region/kolkata"
+                  className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-cyan-50/60 hover:border-cyan-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-bold text-sm text-slate-900 group-hover:text-cyan-700 transition-colors flex items-center gap-1.5">
+                    <h3 className="font-display font-black text-sm text-[#061124] group-hover:text-cyan-700 transition-colors flex items-center gap-1.5">
                       Kolkata &amp; East MBA Colleges <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </h3>
-                    <span className="text-[10px] font-bold uppercase bg-cyan-100 text-cyan-800 px-2.5 py-0.5 rounded-full">
+                    <span className="text-[10px] font-mono font-bold uppercase bg-cyan-100 text-cyan-800 px-2.5 py-0.5 rounded-full">
                       Eastern Capital
                     </span>
                   </div>
@@ -929,10 +933,11 @@ export default function CatScoreCalculatorPage() {
 
               <div className="pt-2 text-center">
                 <Link
-                  href="/mba-pgdm-admissions-by-region"
-                  className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs uppercase px-6 py-3.5 rounded-xl shadow-md transition-all"
+                  href="/mba-admissions-by-region"
+                  className="inline-flex items-center gap-2 bg-[#061124] hover:bg-[#070A14] text-white font-display font-black text-xs uppercase px-7 py-3.5 rounded-full shadow-md transition-all hover:scale-105"
                 >
-                  Explore All 8 Indian MBA Regions &amp; State Admissions Guide →
+                  <span>Explore All 8 Indian MBA Regions &amp; State Admissions Guide</span>
+                  <ArrowRight className="w-4 h-4" />
                 </Link>
               </div>
             </div>
@@ -941,10 +946,10 @@ export default function CatScoreCalculatorPage() {
           {/* Section 8: How to Calculate in 5 Easy Steps */}
           <article className="space-y-6">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#FFD600] flex items-center justify-center font-bold shadow-md">
                 <Target className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 How to Calculate Your CAT 2026 Score (5 Easy Steps)
               </h2>
             </div>
@@ -979,13 +984,13 @@ export default function CatScoreCalculatorPage() {
               ].map(({ step, title, desc }) => (
                 <div
                   key={step}
-                  className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 flex items-start gap-4 sm:gap-5 shadow-sm"
+                  className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 sm:p-6 flex items-start gap-4 sm:gap-5 shadow-sm hover:border-cyan-400 transition-colors"
                 >
-                  <div className="w-11 h-11 sm:w-12 sm:h-12 rounded-2xl bg-slate-900 text-amber-400 flex items-center justify-center font-black text-base sm:text-lg shrink-0 shadow-md">
+                  <div className="w-11 h-11 sm:w-12 sm:h-12 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-black text-base sm:text-lg shrink-0 shadow-md">
                     {step}
                   </div>
                   <div>
-                    <h3 className="font-bold text-sm sm:text-base text-slate-900 mb-1">{title}</h3>
+                    <h3 className="font-display font-black text-sm sm:text-base text-[#061124] mb-1">{title}</h3>
                     <p className="text-xs sm:text-sm text-slate-600 font-medium">{desc}</p>
                   </div>
                 </div>
@@ -996,77 +1001,28 @@ export default function CatScoreCalculatorPage() {
           {/* Section 9: FAQs */}
           <article className="space-y-6">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold">
+              <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold shadow-md">
                 <HelpCircle className="w-5 h-5" />
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              <h2 className="font-display text-2xl sm:text-3xl font-black text-[#061124] tracking-tight">
                 Frequently Asked Questions: CAT 2026 Scoring, Answer Key &amp; Response Sheet
               </h2>
             </div>
 
             <div className="space-y-3">
-              {[
-                {
-                  q: "How is the CAT 2026 raw score calculated for 2027 admissions?",
-                  a: "CAT 2026 follows a 66-question format with a maximum raw score of 198 marks (24 VARC, 20 DILR, 22 QA). Multiple Choice Questions (MCQs) award +3 marks for every correct answer and deduct −1 mark for every incorrect answer. Non-MCQ / TITA (Type In The Answer) questions award +3 marks for correct answers and carry 0 negative marking for wrong or unattempted responses.",
-                },
-                {
-                  q: "How can I check my CAT 2026 response sheet and answer key with this calculator?",
-                  a: "Once the conducting IIM releases the official CAT candidate response sheet on cdn.digialm.com / iimcat.ac.in, copy your candidate response sheet URL or view page source (Ctrl+U) and paste it into our scanner. The calculator automatically analyzes your MCQ/TITA attempts across VARC, DILR, and QA to compute your raw score, apply slot normalization, and forecast your 2027 MBA admission percentile.",
-                },
-                {
-                  q: "What is the difference between CAT raw score and scaled score?",
-                  a: "The raw score is the literal sum of your correct (+3) and incorrect (−1/0) marks out of 198. Because CAT is conducted across Slot 1, Slot 2, and Slot 3 with varying difficulty levels, IIMs employ an equipercentile equating formula (equating mean and standard deviation) to generate the Scaled Score. Your final percentile is calculated strictly from this scaled score.",
-                },
-                {
-                  q: "What CAT 2026 score is required for 99+ percentile in 2027 admissions?",
-                  a: "Based on historical trends across 66-question CAT exams, a raw score of roughly 82 to 94 marks out of 198 fetches a 99.0+ percentile. A score of 95 to 109 marks yields a 99.5+ percentile, and a score of 110+ marks generally secures a 99.9+ percentile, qualifying aspirants for top IIM Ahmedabad, Bangalore, and Calcutta interview shortlists.",
-                },
-                {
-                  q: "How does the CAT normalization formula work across Slot 1, Slot 2, and Slot 3?",
-                  a: "IIMs use equipercentile equating to normalize CAT scores. The formula compares the mean and standard deviation of candidate scores in a specific slot with the master mean across all slots, with special weightage to the top 0.1% performers. Tougher slots receive upward score adjustment, while easier slots may see a slight downward calibration.",
-                },
-                {
-                  q: "How do I challenge a question in the provisional CAT 2026 answer key?",
-                  a: "During the 3-day objection window post-exam, log in to iimcat.ac.in, select the Candidate Grievance / Objection tab, choose the Question ID, upload your justification with reference text, and pay the requisite fee of INR 1,200 (plus transaction fees) per question. If your objection is valid, the fee is refunded and the answer key is updated for all candidates.",
-                },
-                {
-                  q: "What happens if a question is dropped in CAT 2026?",
-                  a: "If an official CAT question is dropped due to ambiguity or printing error, marks for that question are ignored and the remaining questions are scaled proportionally for all test takers in that specific shift, ensuring no candidate is unfairly penalized.",
-                },
-                {
-                  q: "Is there sectional negative marking in CAT 2026?",
-                  a: "Sectional marking is uniform across VARC, DILR, and QA: +3 for correct MCQs, −1 for wrong MCQs, +3 for correct TITA, and 0 for wrong TITA. Candidates must also meet individual sectional cut-offs (usually 70-85+ percentile per section) to qualify for IIM calls.",
-                },
-                {
-                  q: "What are the expected CAT cut-offs for top Non-IIM B-schools like FMS, MDI, SPJIMR, and IITs?",
-                  a: "FMS Delhi typically requires 99.3+ percentile; SPJIMR Mumbai shortlists profile-cum-score candidates around 85-98 percentile; MDI Gurgaon requires 95-97 percentile; DMS IIT Delhi and SJMSOM IIT Bombay require 98-99 percentile; IMT Ghaziabad and IMI Delhi require 90-93 percentile; and Baby IIMs (CAP round) generally cutoff at 92-94 percentile.",
-                },
-                {
-                  q: "Which top MBA colleges accept 80 to 90 percentile in CAT 2026?",
-                  a: "Candidates scoring between 80 and 90 percentile (raw score of 42 to 64 marks) can target reputed B-schools such as FORE School of Management (Delhi), GIM Goa, TAPMI Manipal, Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), LBSIM (Delhi), K J Somaiya (Mumbai), and LIBA (Chennai).",
-                },
-                {
-                  q: "Can I get admission into good MBA colleges with a 70 percentile in CAT?",
-                  a: "Yes! High-ROI colleges accepting 70-80 CAT percentiles include Welingkar (Mumbai/Bangalore), Jaipuria Institute of Management, NDIM New Delhi, JIMS Rohini, SOIL Gurgaon, IBS Hyderabad, and ITM Navi Mumbai. Many colleges also accept alternative scores like XAT, CMAT, and MAT.",
-                },
-                {
-                  q: "What are the three slot timings in the CAT 2026 exam?",
-                  a: "CAT is held in 3 shifts: Slot 1 (Morning) from 08:30 AM to 10:30 AM, Slot 2 (Afternoon) from 12:30 PM to 02:30 PM, and Slot 3 (Evening) from 04:30 PM to 06:30 PM. Each slot has a strict 40-minute limit per section.",
-                },
-              ].map(({ q, a }, i) => (
+              {CAT_FAQS.map(({ question, answer }, i) => (
                 <details
                   key={i}
-                  className="bg-white rounded-2xl border border-slate-200 p-5 group cursor-pointer shadow-sm"
+                  className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 group cursor-pointer shadow-sm"
                 >
-                  <summary className="text-sm sm:text-base font-bold text-slate-900 flex justify-between items-center list-none select-none">
-                    <span>{q}</span>
-                    <span className="group-open:rotate-180 transition-transform ml-4 shrink-0 text-amber-500 font-black">
+                  <summary className="text-sm sm:text-base font-display font-black text-[#061124] flex justify-between items-center list-none select-none">
+                    <span>{question}</span>
+                    <span className="group-open:rotate-180 transition-transform ml-4 shrink-0 text-[#2563EB] font-black">
                       ▼
                     </span>
                   </summary>
                   <p className="mt-3.5 text-xs sm:text-sm text-slate-600 font-medium leading-relaxed border-t border-slate-100 pt-3.5">
-                    {a}
+                    {answer}
                   </p>
                 </details>
               ))}
@@ -1075,82 +1031,130 @@ export default function CatScoreCalculatorPage() {
 
           {/* Section 10: Related MBA Admission Resources */}
           <article className="pt-6">
-            <h3 className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2.5">
-              <BookOpen className="w-6 h-6 text-amber-500" />
+            <h3 className="font-display text-xl sm:text-2xl font-black text-[#061124] mb-6 flex items-center gap-2.5">
+              <BookOpen className="w-6 h-6 text-[#2563EB]" />
               Related CAT 2026 &amp; MBA 2027 Admission Resources
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
                 href="/tools/cat-mock-test"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-amber-300 hover:bg-amber-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-cyan-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-amber-600 block uppercase tracking-wider font-extrabold">Free Test</span>
-                  <span className="text-sm text-slate-900 group-hover:text-amber-700 transition-colors">CAT 2026 Full Mock Test →</span>
+                  <span className="text-[11px] font-mono text-[#0EA5E9] block uppercase tracking-wider font-extrabold">Free Practice</span>
+                  <span className="text-sm text-slate-900 group-hover:text-cyan-700 transition-colors">CAT 2026 Full Mock Test →</span>
                 </div>
               </Link>
 
               <Link
                 href="/blog/cat-2026-score-calculator-marks-vs-percentile"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-blue-300 hover:bg-blue-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-blue-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-blue-600 block uppercase tracking-wider font-extrabold">Guide</span>
+                  <span className="text-[11px] font-mono text-blue-600 block uppercase tracking-wider font-extrabold">Strategy Guide</span>
                   <span className="text-sm text-slate-900 group-hover:text-blue-700 transition-colors">Marks vs Percentile Guide →</span>
                 </div>
               </Link>
 
               <Link
                 href="/blog/cat-answer-key-response-sheet-analysis-score-calculator"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-emerald-300 hover:bg-emerald-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-emerald-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-emerald-600 block uppercase tracking-wider font-extrabold">Answer Key</span>
+                  <span className="text-[11px] font-mono text-emerald-600 block uppercase tracking-wider font-extrabold">Answer Key</span>
                   <span className="text-sm text-slate-900 group-hover:text-emerald-700 transition-colors">Response Sheet Analysis →</span>
                 </div>
               </Link>
 
               <Link
                 href="/tools/mat-score-calculator"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-emerald-300 hover:bg-emerald-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-emerald-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-emerald-600 block uppercase tracking-wider font-extrabold">Exam Tool</span>
+                  <span className="text-[11px] font-mono text-emerald-600 block uppercase tracking-wider font-extrabold">AIMA Exam Tool</span>
                   <span className="text-sm text-slate-900 group-hover:text-emerald-700 transition-colors">MAT Score Calculator →</span>
                 </div>
               </Link>
 
               <Link
                 href="/tools/xat-score-calculator-2027"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-rose-300 hover:bg-rose-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-rose-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-rose-600 block uppercase tracking-wider font-extrabold">XLRI Exam</span>
+                  <span className="text-[11px] font-mono text-[#FF007A] block uppercase tracking-wider font-extrabold">XLRI Exam Tool</span>
                   <span className="text-sm text-slate-900 group-hover:text-rose-700 transition-colors">XAT Score Calculator →</span>
                 </div>
               </Link>
 
               <Link
                 href="/tools/college-comparison"
-                className="bg-white rounded-2xl border border-slate-200 p-5 font-bold hover:border-purple-300 hover:bg-purple-50/40 transition-all flex items-center justify-between group shadow-sm"
+                className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-purple-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
-                  <span className="text-[11px] text-purple-600 block uppercase tracking-wider font-extrabold">Compare</span>
+                  <span className="text-[11px] font-mono text-[#8B5CF6] block uppercase tracking-wider font-extrabold">Compare Colleges</span>
                   <span className="text-sm text-slate-900 group-hover:text-purple-700 transition-colors">Compare MBA Colleges →</span>
                 </div>
               </Link>
 
               <Link
-                href="/mba-pgdm-admission-2027"
-                className="bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 rounded-2xl p-5 font-bold hover:from-amber-600 hover:to-amber-700 transition-all flex items-center justify-between group shadow-md shadow-amber-500/20 col-span-1 sm:col-span-2 lg:col-span-3"
+                href="/mba-application-form-discount"
+                className="bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white rounded-[24px] p-5 font-bold transition-all flex items-center justify-between group shadow-lg col-span-1 sm:col-span-2 lg:col-span-3 hover:scale-[1.01]"
               >
                 <div>
-                  <span className="text-[11px] block uppercase tracking-wider font-extrabold text-slate-900">Admissions Hub</span>
-                  <span className="text-sm font-black">Direct MBA &amp; PGDM Admissions 2027 Guide &amp; Forms →</span>
+                  <span className="text-[11px] font-mono block uppercase tracking-wider font-extrabold text-cyan-200">Exclusive Savings</span>
+                  <span className="text-sm font-display font-black">MBA Application Form Discounts &amp; Combo Offers (Save ₹5,000+) →</span>
                 </div>
               </Link>
             </div>
           </article>
+        </div>
+      </section>
+
+      {/* ── FINAL COSMIC CALL-TO-ACTION BANNER MATCHING HOME PAGE ── */}
+      <section className="py-14 sm:py-20 bg-white border-t border-[#061124]/10">
+        <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="relative rounded-[32px] sm:rounded-[44px] p-8 sm:p-14 lg:p-16 text-center text-white overflow-hidden shadow-[0_34px_70px_-30px_rgba(37,99,235,0.45)] bg-gradient-to-br from-[#061124] via-[#1E40AF] to-[#0D9488]">
+            {/* Dual Cosmic Rotating Dashed Rings */}
+            <div className="absolute -top-32 -left-24 w-80 h-80 rounded-full border-2 border-dashed border-white/20 animate-spinv-slow pointer-events-none" />
+            <div className="absolute -bottom-28 -right-20 w-72 h-72 rounded-full border-2 border-dashed border-white/20 animate-spinv-reverse pointer-events-none" />
+
+            <div className="relative z-10 max-w-2xl mx-auto">
+              <span className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/15 backdrop-blur-md text-white font-mono text-xs font-extrabold uppercase tracking-wider mb-5 border border-white/20">
+                <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
+                Free 1-on-1 MBA Advisory
+              </span>
+
+              <h2 className="font-display text-3xl sm:text-5xl font-black text-white leading-tight tracking-tight">
+                Not sure which colleges<br />
+                you should apply to with your score?
+              </h2>
+
+              <p className="mt-4 text-base sm:text-lg text-white/90 leading-relaxed font-normal">
+                Talk it through with Mohit Jain (certified by IIM Bangalore &amp; FMS Delhi). Free 30-minute strategic profile review on Google Meet — real insights, safe vs dream shortlists, not a sales pitch.
+              </p>
+
+              <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3.5 sm:gap-4">
+                <Link
+                  href="/book-session"
+                  className="w-full sm:w-auto px-7 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-lg hover:-translate-y-0.5 flex items-center justify-center gap-2 group cursor-pointer"
+                >
+                  <Video className="w-4 h-4 text-[#061124]" />
+                  <span>Book 1-on-1 Google Meet</span>
+                  <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+                </Link>
+
+                <a
+                  href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20need%20guidance%20for%20my%20CAT%202026%20college%20shortlisting"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full sm:w-auto px-6 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/30 text-white font-display font-bold text-sm sm:text-base transition-all backdrop-blur-sm flex items-center justify-center gap-2 cursor-pointer"
+                >
+                  <MessageCircle className="w-4 h-4 text-[#10B981]" />
+                  <span>WhatsApp Profile Review</span>
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </main>
