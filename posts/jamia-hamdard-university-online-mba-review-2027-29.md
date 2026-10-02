@@ -1,11 +1,13 @@
 ---
-title: 'Jamia Hamdard University Online MBA Review 2027–29: Delhi''s Trusted Choice'
+title: >-
+  Jamia Hamdard University Online MBA Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: Delhi's Trusted Choice
 date: '2026-03-26'
 category: Online Degrees
 description: >-
-  Looking for an honest review of [Jamia Hamdard](/colleges/jamia-hamdard-delhi/)
-  Online MBA 2027–29? Check out fees, eligibility, NAAC A ranking, and why it's a
-  top choice in Delhi NCR.
+  Looking for an honest review of [Jamia
+  Hamdard](/colleges/jamia-hamdard-delhi/) Online MBA 2027–29? Check out fees,
+  eligibility, NAAC A ranking, and why it's a top choice in Delhi NCR.
 keywords:
   - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) online MBA review'
   - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) online fees'

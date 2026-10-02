@@ -1,5 +1,7 @@
 ---
-title: 'Manav Rachna University Online Review 2027–29: MBA, MCA, BBA & BCA Fee Structure'
+title: >-
+  Manav Rachna University Online Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top

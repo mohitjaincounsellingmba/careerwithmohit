@@ -1,7 +1,7 @@
 ---
 title: >-
-  Vignan University Online MBA Review 2027–29: Fees ₹90,000–₹1,10,000 | NAAC A+ |
-  South India
+  Vignan University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Fees ₹90,000–₹1,10,000 | NAAC A+ | South India
 date: '2026-05-10'
 category: Online Degrees
 description: >-

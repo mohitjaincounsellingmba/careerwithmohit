@@ -1,5 +1,7 @@
 ---
-title: 'Jaipuria Noida Placement Review 2027–29: Highest Packages & Recruiters'
+title: >-
+  Jaipuria Noida Placement Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Highest Packages & Recruiters
 date: '2026-03-22'
 description: >-
   Looking for Jaipuria Institute of Management Noida placement reviews

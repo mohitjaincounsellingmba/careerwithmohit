@@ -1,5 +1,7 @@
 ---
-title: 'BML Munjal University MBA Placement Review 2027–29: Stats & Recruiters'
+title: >-
+  BML Munjal University MBA Placement Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: Stats & Recruiters
 date: '2026-03-22'
 description: >-
   Is BML Munjal worth it for MBA? Discover [BML Munjal
@@ -7,7 +9,9 @@ description: >-
   highest packages of ₹33.6 LPA and average packages for the top 10% of the
   batch.
 keywords:
-  - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) MBA placements 2027–29'
+  - >-
+    [BML Munjal University](/colleges/bml-munjal-gurgaon/) MBA placements
+    2027–29
   - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) average package'
   - BML Munjal MBA highest domestic package
   - 'top recruiters of [BML Munjal University](/colleges/bml-munjal-gurgaon/)'

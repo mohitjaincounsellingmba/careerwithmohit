@@ -1,13 +1,13 @@
 ---
 title: >-
-  Vivekananda Global University (VGU) Online Review 2027–29: MBA, MCA, BBA & BCA
-  Fee Structure
+  Vivekananda Global University (VGU) Online Review (2026-2027): Real
+  Placements, Fees & Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Vivekananda
-  Global University (VGU) Online Review 2027–29: MBA, MCA, BBA & BCA Fee Structure.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  Global University (VGU) Online Review 2027–29: MBA, MCA, BBA & BCA Fee
+  Structure. Check updated fees, placement records, real cutoffs, and selection
+  tips by Mohit Jain.
 keywords:
   - VGU Online review 2027–29
   - Vivekananda Global University online MBA fees

@@ -1,7 +1,7 @@
 ---
 title: >-
-  GL Bajaj Greater Noida MBA Placement Review 2027–29: Highest Packages &
-  Recruiters
+  GL Bajaj Greater Noida MBA Placement Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: Highest Packages & Recruiters
 date: '2026-03-22'
 description: >-
   Looking for GL Bajaj Greater Noida MBA placement reviews 2024-2025? Get our

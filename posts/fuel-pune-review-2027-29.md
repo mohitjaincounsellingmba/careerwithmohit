@@ -1,5 +1,7 @@
 ---
-title: 'FUEL Business School Pune Review 2027–29: Skill-Based Management'
+title: >-
+  FUEL Business School Pune Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Skill-Based Management
 date: '2026-03-14'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for FUEL Business

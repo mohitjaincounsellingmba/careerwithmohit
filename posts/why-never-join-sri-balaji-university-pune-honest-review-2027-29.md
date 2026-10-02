@@ -1,5 +1,7 @@
 ---
-title: 'Sri Balaji University Pune (SBUP) MBA Honest Review 2027–29: The Critical Reality'
+title: >-
+  Sri Balaji University Pune (SBUP) MBA Review (2026-2027): Real Placements,
+  Fees & Cutoffs–29: The Critical Reality
 date: '2026-05-02'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Sri Balaji

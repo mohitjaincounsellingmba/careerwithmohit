@@ -1,10 +1,13 @@
 ---
-title: 'OP Jindal Global University Online Review 2027–29: MBA & BBA Fee Structure'
+title: >-
+  OP Jindal Global University Online Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: MBA & BBA Fee Structure
 date: '2026-04-05'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for OP Jindal
-  Global University Online Review 2027–29: MBA & BBA Fee Structure. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  Global University Online Review 2027–29: MBA & BBA Fee Structure. Check
+  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  Jain.
 keywords:
   - OP Jindal Global University Online review 2027–29
   - Jindal online MBA fees

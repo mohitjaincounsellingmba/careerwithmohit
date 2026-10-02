@@ -1,7 +1,7 @@
 ---
 title: >-
-  Jain University Online MBA Review 2027–29: Fees, 20+ Specializations & Placement
-  Reality
+  Jain University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Fees, 20+ Specializations & Placement Reality
 date: '2026-05-10'
 category: Online Degrees
 description: >-

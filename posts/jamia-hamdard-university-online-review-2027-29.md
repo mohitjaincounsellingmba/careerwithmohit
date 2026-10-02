@@ -1,12 +1,16 @@
 ---
-title: 'Jamia Hamdard University Online Review 2027–29: MBA, MCA, BBA & BCA Fee Structure'
+title: >-
+  Jamia Hamdard University Online Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
   Is [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) Online a good choice in
   2026? Check the latest fees, UGC-DEB status, NAAC A grade, and legacy
   Delhi-based placement reviews.
 keywords:
-  - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University Online review 2027–29'
+  - >-
+    [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University Online review
+    2027–29
   - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) online MBA fees'
   - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) online MCA admission'
   - '[Jamia Hamdard](/colleges/jamia-hamdard-delhi/) online BBA BCA'

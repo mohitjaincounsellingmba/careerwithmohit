@@ -1,11 +1,14 @@
 ---
-title: 'SASTRA University Online MBA Review 2027–29: Premium South India Choice'
+title: >-
+  SASTRA University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Premium South India Choice
 date: '2026-03-26'
 category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for SASTRA
-  University Online MBA Review 2027–29: Premium South India Choice. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  University Online MBA Review 2027–29: Premium South India Choice. Check
+  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  Jain.
 keywords:
   - SASTRA University online MBA review
   - SASTRA online MBA fees

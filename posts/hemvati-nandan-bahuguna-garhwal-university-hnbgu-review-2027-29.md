@@ -1,5 +1,7 @@
 ---
-title: Hemvati Nandan Bahuguna Garhwal University (HNBGU) Review 2027–29
+title: >-
+  Hemvati Nandan Bahuguna Garhwal University (HNBGU) Review (2026-2027): Real
+  Placements, Fees & Cutoffs–29
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top

@@ -1,5 +1,7 @@
 ---
-title: 'Manipal MAHE Online MBA Review 2027–29: Fees ₹2,92,000 | AI LMS & Specializations'
+title: >-
+  Manipal MAHE Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Fees ₹2,92,000 | AI LMS & Specializations
 date: '2026-05-10'
 category: Online Degrees
 description: >-

@@ -1,13 +1,13 @@
 ---
 title: >-
-  D.Y. Patil University Online (Pune) Review 2027–29: MBA, MCA, BBA & BCA Fee
-  Structure
+  D.Y. Patil University Online (Pune) Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for D.Y. Patil
-  University Online (Pune) Review 2027–29: MBA, MCA, BBA & BCA Fee Structure. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  University Online (Pune) Review 2027–29: MBA, MCA, BBA & BCA Fee Structure.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - D.Y. Patil University Online Pune review 2027–29
   - DY Patil online MBA fees

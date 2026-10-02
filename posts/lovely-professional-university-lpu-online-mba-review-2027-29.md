@@ -1,12 +1,14 @@
 ---
-title: 'LPU Online MBA Review 2027–29: Fees ₹1,61,600 | NAAC A++ | 11 Specializations'
+title: >-
+  LPU Online MBA Review (2026-2027): Real Placements, Fees & Cutoffs–29: Fees
+  ₹1,61,600 | NAAC A++ | 11 Specializations
 date: '2026-05-10'
 category: Online Degrees
 description: >-
   Honest review of LPU ([Lovely Professional
-  University](/colleges/lovely-professional-university/)) Online MBA 2027–29. Real
-  fees (₹1,61,600 total), NAAC A++ rating, 11 specializations including Data
-  Science & Healthcare, LPU eConnect LMS, and placement reality.
+  University](/colleges/lovely-professional-university/)) Online MBA 2027–29.
+  Real fees (₹1,61,600 total), NAAC A++ rating, 11 specializations including
+  Data Science & Healthcare, LPU eConnect LMS, and placement reality.
 keywords:
   - LPU online MBA review 2027–29
   - LPU Online MBA fees 2027–29

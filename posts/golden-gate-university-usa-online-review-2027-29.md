@@ -1,13 +1,13 @@
 ---
 title: >-
-  Golden Gate University (USA) Online Review 2027–29: MBA & MS Analytics Fee
-  Structure
+  Golden Gate University (USA) Online Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: MBA & MS Analytics Fee Structure
 date: '2026-04-05'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Golden Gate
-  University (USA) Online Review 2027–29: MBA & MS Analytics Fee Structure. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  University (USA) Online Review 2027–29: MBA & MS Analytics Fee Structure.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - Golden Gate University Online review 2027–29
   - GGU online MBA fees

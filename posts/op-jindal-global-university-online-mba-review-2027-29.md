@@ -1,5 +1,7 @@
 ---
-title: 'OP Jindal Global University Online MBA Review 2027–29: A Global Standard Review'
+title: >-
+  OP Jindal Global University Online MBA Review (2026-2027): Real Placements,
+  Fees & Cutoffs–29: A Global Standard Review
 date: '2026-03-26'
 category: Online Degrees
 description: >-

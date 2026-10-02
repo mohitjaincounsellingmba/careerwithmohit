@@ -1,5 +1,7 @@
 ---
-title: 'Guru Kashi University Online MBA Review 2027–29: Underrated But Excellent'
+title: >-
+  Guru Kashi University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Underrated But Excellent
 date: '2026-03-26'
 category: Online Degrees
 description: >-

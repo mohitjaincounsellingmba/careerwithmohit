@@ -1,5 +1,7 @@
 ---
-title: 'Pune Business School (PBS) Review 2027–29: A Rising PGDM Powerhouse'
+title: >-
+  Pune Business School (PBS) Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: A Rising PGDM Powerhouse
 date: '2026-03-14'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Pune Business

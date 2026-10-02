@@ -1,11 +1,14 @@
 ---
-title: 'Mody University Online MBA Review 2027–29: Empowering Value & Quality'
+title: >-
+  Mody University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Empowering Value & Quality
 date: '2026-03-26'
 category: Online Degrees
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Mody
-  University Online MBA Review 2027–29: Empowering Value & Quality. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  University Online MBA Review 2027–29: Empowering Value & Quality. Check
+  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  Jain.
 keywords:
   - Mody University online MBA review
   - Mody University online fees

@@ -1,7 +1,7 @@
 ---
 title: >-
-  Sikkim Manipal University Online MBA Review 2027–29: Fees ₹1,00,000-₹1,20,000 |
-  SMU DDE
+  Sikkim Manipal University Online MBA Review (2026-2027): Real Placements, Fees
+  & Cutoffs–29: Fees ₹1,00,000-₹1,20,000 | SMU DDE
 date: '2026-05-10'
 category: Online Degrees
 description: >-

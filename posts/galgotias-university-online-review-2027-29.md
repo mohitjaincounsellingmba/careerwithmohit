@@ -1,5 +1,7 @@
 ---
-title: 'Galgotias University Online Review 2027–29: MBA, MCA, BBA & BCA Fee Structure'
+title: >-
+  Galgotias University Online Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
   Is Galgotias University Online a good choice in 2026? Check the latest fees,

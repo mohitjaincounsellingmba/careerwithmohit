@@ -1,7 +1,7 @@
 ---
 title: >-
-  SRM University Online MBA Review 2027–29: Fees ₹1,89,000 | Specializations &
-  Placement
+  SRM University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Fees ₹1,89,000 | Specializations & Placement
 date: '2026-05-10'
 category: Online Degrees
 description: >-

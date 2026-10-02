@@ -1,11 +1,13 @@
 ---
-title: 'Pimpri Chinchwad University (PCU) MBA Review 2027–29: Tech-Integrated Management'
+title: >-
+  Pimpri Chinchwad University (PCU) MBA Review (2026-2027): Real Placements,
+  Fees & Cutoffs–29: Tech-Integrated Management
 date: '2026-03-14'
 description: >-
   Comprehensive expert analysis and 2026-2027 admission guide for Pimpri
-  Chinchwad University (PCU) MBA Review 2027–29: Tech-Integrated Management. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  Chinchwad University (PCU) MBA Review 2027–29: Tech-Integrated Management.
+  Check updated fees, placement records, real cutoffs, and selection tips by
+  Mohit Jain.
 keywords:
   - PCU Pune review 2027–29
   - Pimpri Chinchwad University MBA placements

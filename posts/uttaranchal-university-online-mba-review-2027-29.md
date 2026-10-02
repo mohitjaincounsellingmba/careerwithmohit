@@ -1,7 +1,7 @@
 ---
 title: >-
-  Uttaranchal University Online MBA Review 2027–29: Fees ₹94,000–₹1,40,000 | NAAC
-  A+
+  Uttaranchal University Online MBA Review (2026-2027): Real Placements, Fees &
+  Cutoffs–29: Fees ₹94,000–₹1,40,000 | NAAC A+
 date: '2026-05-10'
 category: Online Degrees
 description: >-

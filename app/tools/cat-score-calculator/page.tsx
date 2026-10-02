@@ -35,9 +35,9 @@ import {
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "CAT Score Calculator 2026 | CAT Response Sheet Check, 2026 Answer Key & Percentile Predictor",
+  title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
   description:
-    "Free CAT 2026 Score Calculator & CAT Response Sheet Check for MBA Admissions 2027. Scan official answer key URL or calculate raw marks, slot scaled score & predicted IIM percentiles.",
+    "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
   keywords: [
     "cat score calculator 2026",
     "cat exam score calculator",
@@ -87,9 +87,9 @@ export const metadata: Metadata = {
     canonical: "https://careerwithmohit.online/tools/cat-score-calculator/",
   },
   openGraph: {
-    title: "CAT Score Calculator 2026 | CAT Response Sheet Check, 2026 Answer Key & Percentile",
+    title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
     description:
-      "Free CAT 2026 Score Calculator & CAT Response Sheet Check. Scan official CAT 2026 answer key URL, calculate slot scaled score, and predict 2027 IIM percentiles.",
+      "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
     type: "website",
     url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     siteName: "CareerWithMohit",
@@ -105,9 +105,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "CAT Score Calculator 2026 | Response Sheet Check & 2027 MBA Percentile",
+    title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
     description:
-      "Free CAT 2026 Score Calculator & Response Sheet Check. Calculate raw score, scaled score, and expected percentile for 2027 admissions.",
+      "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
     images: ["/og-image.webp"],
   },
   other: {
