@@ -56,7 +56,7 @@ The **Xavier School of Management (XLRI)**, with campuses in **Jamshedpur** and 
 
 The **2025 placement cycle** at XLRI maintained its legendary prestige, achieving **100% placements across both campuses** with an overall average CTC of **₹31.08 LPA** and a top international offer of **₹1.10 Crore per annum**.
 
-Here is the complete **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) & Delhi NCR Placement Report 2025**.
+Here is the complete **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) & Delhi NCR Placement Report 2025**.
 
 ---
 
@@ -106,15 +106,15 @@ pie title XLRI Domain Distribution 2025
 
 ## 4. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2027-29)**
-*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2027-29)**
-*   **[BITSoM Mumbai Placement Report 2025](/blog/bitsom-mumbai-mba-placement-report-2027-29)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2027-29/)**
+*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2027-29/)**
+*   **[BITSoM Mumbai Placement Report 2025](/blog/bitsom-mumbai-mba-placement-report-2027-29/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

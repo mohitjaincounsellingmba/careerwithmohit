@@ -100,7 +100,7 @@ Admission to CMC Vellore is strictly merit-based, determined by the **NEET UG 20
 | **Minority / Management Quota** | Score 580 - 635 (Rank 12,000 - 35,000) |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-neet-exam) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-neet-exam/) for rank prediction strategies.
 
 ---
 
@@ -133,7 +133,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-state-boards-india-official-websites)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-state-boards-india-official-websites/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.
@@ -164,7 +164,7 @@ CMC Vellore offers one of the lowest MBBS fees in India among private colleges, 
 Candidates must qualify NEET UG 2026 and register for Tamil Nadu State NEET Counselling (dme.tn.gov.in) under Management/Minority Quota seats.
 
 
-[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry)
+[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry/)
 
 ---
 
@@ -173,6 +173,6 @@ Source: Official College Prospectus & Medical Counselling Guidelines
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

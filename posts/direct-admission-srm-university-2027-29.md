@@ -98,16 +98,16 @@ Securing a management quota seat in a top university requires proper guidance to
 ---
 
 ## 🔗 Related Resources
-*   [SRM B.Tech Admission 2026: Campuses, Fees & Cutoffs](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
-*   [All About SRM University Campuses: Direct Review](/blog/all-about-srm-university-campuses)
-*   [Best B.Tech CSE Colleges in Delhi NCR Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-*   [Direct MBA Admission India 2027–29 Master List](/blog/direct-mba-admission-india)
+*   [SRM B.Tech Admission 2026: Campuses, Fees & Cutoffs](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
+*   [All About SRM University Campuses: Direct Review](/blog/all-about-srm-university-campuses/)
+*   [Best B.Tech CSE Colleges in Delhi NCR Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+*   [Direct MBA Admission India 2027–29 Master List](/blog/direct-mba-admission-india/)
 
 **Need Assistance with Direct Admission in SRM?**
 
 If you are looking to secure a seat in SRM University under the management quota, our expert counselors can guide you through the official process, provide accurate fee details, and help you choose the right campus and branch.
 
-[👉 Submit your inquiry form here for personalized admission guidance!](/inquiry)
+[👉 Submit your inquiry form here for personalized admission guidance!](/inquiry/)
 
 ---
 
@@ -129,6 +129,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

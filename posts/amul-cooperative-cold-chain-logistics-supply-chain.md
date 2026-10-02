@@ -130,11 +130,11 @@ Amul is not just a food company; it is a socio-economic lifeline for rural India
 ---
 
 ### **Related Supply Chain & Operations Case Studies:**
-*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain)
-*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization)
+*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system/)
+*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain/)
+*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization/)
 
-[👉 Preparing for a B-school Group Discussion? Master supply chain case studies with Mohit Jain!](/inquiry)
+[👉 Preparing for a B-school Group Discussion? Master supply chain case studies with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -152,6 +152,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

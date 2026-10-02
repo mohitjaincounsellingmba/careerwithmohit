@@ -6,9 +6,9 @@ description: >-
   of 21 IIMs in India 2026: Courses, Placements & Admission Guide. Check updated
   fees, placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad)'
-  - '[IIM Bangalore](/colleges/iim-bangalore)'
-  - '[IIM Calcutta](/colleges/iim-calcutta)'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/)'
+  - '[IIM Bangalore](/colleges/iim-bangalore/)'
+  - '[IIM Calcutta](/colleges/iim-calcutta/)'
   - IIM Lucknow
   - IIM Indore
   - IIM Kozhikode
@@ -54,31 +54,31 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad/) (IIMA)
 *   **Flagship Courses:** PGP (MBA), PGP-FABM (Agri-Business), PGPX (1-Year Executive).
 *   **Placements (Avg):** ₹32.7 LPA – ₹34.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Sectional 80+).
 *   **Admission Rounds:** AWT (Analytical Writing Test) & Personal Interview (PI).
 
-### 2. [IIM Bangalore](/colleges/iim-bangalore) (IIMB)
+### 2. [IIM Bangalore](/colleges/iim-bangalore/) (IIMB)
 *   **Flagship Courses:** PGP, PGP-BA (Business Analytics), EPGP.
 *   **Placements (Avg):** ₹35.3 LPA.
 *   **Expected CAT Cut-off:** 99.0+ Percentile (High weightage on academics).
 *   **Admission Rounds:** WAT (Written Ability Test) & Personal Interview (PI).
 
-### 3. [IIM Calcutta](/colleges/iim-calcutta) (IIMC)
+### 3. [IIM Calcutta](/colleges/iim-calcutta/) (IIMC)
 *   **Flagship Courses:** MBA, PGDBA (Business Analytics).
 *   **Placements (Avg):** ₹35.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Focus on Quants).
 *   **Admission Rounds:** Personal Interview (PI) only (WAT is often skipped).
 
-### 4. [IIM Lucknow](/colleges/iim-lucknow) (IIML)
+### 4. [IIM Lucknow](/colleges/iim-lucknow/) (IIML)
 *   **Flagship Courses:** PGP, PGP-ABM (Agri-Business), PGP-SM (Sustainability).
 *   **Placements (Avg):** ₹30.0 LPA – ₹32.3 LPA.
 *   **Expected CAT Cut-off:** 98.5+ Percentile.
 *   **Admission Rounds:** WAT & Personal Interview (PI).
 
-### 5. [IIM Indore](/colleges/iim-indore) (IIMI)
+### 5. [IIM Indore](/colleges/iim-indore/) (IIMI)
 *   **Flagship Courses:** PGP, PGP-HRM, IPM (5-Year Program after 12th).
 *   **Placements (Avg):** ₹29.0 LPA – ₹30.2 LPA.
 *   **Expected CAT Cut-off:** 98.0+ Percentile (Strong focus on 10th/12th marks).
@@ -104,25 +104,25 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 95+ Percentile.
 *   **Admission Rounds:** GD (Group Discussion) & Personal Interview (PI).
 
-### 9. [IIM Udaipur](/colleges/iim-udaipur)
+### 9. [IIM Udaipur](/colleges/iim-udaipur/)
 *   **Flagship Courses:** MBA, MBA (Global Supply Chain Management).
 *   **Placements (Avg):** ₹20.3 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** Common Admission Process (CAP) Interview.
 
-### 10. [IIM Rohtak](/colleges/iim-rohtak)
+### 10. [IIM Rohtak](/colleges/iim-rohtak/)
 *   **Flagship Courses:** PGP, IPM (Integrated 5-Year).
 *   **Placements (Avg):** ₹19.3 LPA.
 *   **Expected CAT Cut-off:** 95+ Percentile (Separate process for General).
 *   **Admission Rounds:** Online PI (Personal Interview).
 
-### 11. [IIM Ranchi](/colleges/iim-ranchi)
+### 11. [IIM Ranchi](/colleges/iim-ranchi/)
 *   **Flagship Courses:** MBA, MBA-HRM, MBA-BA, IPM.
 *   **Placements (Avg):** ₹18.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 12. [IIM Raipur](/colleges/iim-raipur)
+### 12. [IIM Raipur](/colleges/iim-raipur/)
 *   **Flagship Courses:** PGP.
 *   **Placements (Avg):** ₹21.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -134,7 +134,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 14. [IIM Kashipur](/colleges/iim-kashipur)
+### 14. [IIM Kashipur](/colleges/iim-kashipur/)
 *   **Flagship Courses:** PGP, PGP-BA.
 *   **Placements (Avg):** ₹18.1 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -142,7 +142,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 15. [IIM Nagpur](/colleges/iim-nagpur)
+### 15. [IIM Nagpur](/colleges/iim-nagpur/)
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.7 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
@@ -154,31 +154,31 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 17. [IIM Amritsar](/colleges/iim-amritsar)
+### 17. [IIM Amritsar](/colleges/iim-amritsar/)
 *   **Flagship Courses:** MBA, MBA-BA, MBA-HR.
 *   **Placements (Avg):** ₹16.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 18. [IIM Bodh Gaya](/colleges/iim-bodh-gaya)
+### 18. [IIM Bodh Gaya](/colleges/iim-bodh-gaya/)
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹15.8 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile (SAPS for girls).
 *   **Admission Rounds:** CAP Interview.
 
-### 19. [IIM Sambalpur](/colleges/iim-sambalpur)
+### 19. [IIM Sambalpur](/colleges/iim-sambalpur/)
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.6 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 20. [IIM Sirmaur](/colleges/iim-sirmaur)
+### 20. [IIM Sirmaur](/colleges/iim-sirmaur/)
 *   **Flagship Courses:** MBA, MBA (Tourism & Hospitality).
 *   **Placements (Avg):** ₹14.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 21. [IIM Jammu](/colleges/iim-jammu)
+### 21. [IIM Jammu](/colleges/iim-jammu/)
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹16.4 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
@@ -192,7 +192,7 @@ Most "New" and "Baby" IIMs conduct a synchronized admission round called **CAP**
 ### Need Help with IIM Admission?
 Cracking IIM is about strategy, not just score. At **CareerWithMohit**, we provide personalized mentoring for WAT/GD/PI rounds and help you build a profile that stands out.
 
-[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/blog)
+[**Inquiry Now for IIM Admission Support**](/inquiry/) | [**Explore More Career Guides**](/blog/)
 
 ---
 
@@ -214,6 +214,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -55,7 +55,7 @@ Here are the **Top BBA Colleges in Noida for 2026**.
 
 ## 🏛️ Top BBA Institutions in Noida
 
-### 1. [Amity University, Noida](/colleges/amity-noida)
+### 1. [Amity University, Noida](/colleges/amity-noida/)
 - **Rank:** #1 Private University for management in the region.
 - **Approx. Fees:** ₹2.0 - 3.5 Lakhs (Annual)
 - **Average Placement:** ₹5 - 7 LPA (Highest ₹20 LPA+)
@@ -68,7 +68,7 @@ Here are the **Top BBA Colleges in Noida for 2026**.
 - **Entrance Exam:** SET (Symbiosis Entrance Test)
 - **USP:** The Symbiosis brand name and a highly specialized curriculum focused on corporate readiness.
 
-### 3. [Institute of Management Studies (IMS), Noida](/colleges/ims-noida)
+### 3. [Institute of Management Studies (IMS), Noida](/colleges/ims-noida/)
 - **Approx. Fees:** ₹1.0 - 1.2 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA
 - **Entrance Exam:** Merit-based / JET
@@ -92,16 +92,16 @@ If you want the best campus life and global brand, **Amity** is unbeatable. Howe
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Greater Noida 2026](/blog/top-bba-colleges-greater-noida-2026)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29)
-- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
+- [Top BBA Colleges in Greater Noida 2026](/blog/top-bba-colleges-greater-noida-2026/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ## 📞 Confused About BBA in Noida?
 Noida has dozens of colleges. Let's filter the one that actually delivers on its placement promises.
 
-[👉 Build My Noida Roadmap with Mohit Jain](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My Noida Roadmap with Mohit Jain](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -123,6 +123,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

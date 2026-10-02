@@ -69,7 +69,7 @@ In the eyes of the government and global bodies:
 ## 🚀 2. Industry Perception in 2026
 
 ### The Tech Sector (IT & Software)
-Tech giants like **Google, Microsoft, and Amazon** do not differentiate between B.E. and B.Tech. They focus on your **DSA (Data Structures & Algorithms)** skills and project portfolio. Whether you graduated from [BITS Pilani](/colleges/bits-pilani) (which gives a B.E. degree) or [IIT Bombay](/colleges/iit-bombay) (which gives a B.Tech), your package will be determined by your technical round performance.
+Tech giants like **Google, Microsoft, and Amazon** do not differentiate between B.E. and B.Tech. They focus on your **DSA (Data Structures & Algorithms)** skills and project portfolio. Whether you graduated from [BITS Pilani](/colleges/bits-pilani/) (which gives a B.E. degree) or [IIT Bombay](/colleges/iit-bombay/) (which gives a B.Tech), your package will be determined by your technical round performance.
 
 ### The Core Sector (Mechanical, Civil, EEE)
 In some traditional manufacturing or R&D roles, a B.E. might be seen as having a "stronger fundamental base," while a B.Tech might be seen as "more hands-on." Again, this is a minor perception that disappears after your first 2 years of work experience.
@@ -86,14 +86,14 @@ In some traditional manufacturing or R&D roles, a B.E. might be seen as having a
 **Choose a B.E. if:**
 - You are interested in high-level research or want to pursue a **PhD**.
 - You want to understand the deep mathematical and scientific foundations of engineering.
-- The college you really want to join (like [BITS Pilani](/colleges/bits-pilani) or Jadavpur University) happen to offer a B.E.
+- The college you really want to join (like [BITS Pilani](/colleges/bits-pilani/) or Jadavpur University) happen to offer a B.E.
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is [BITS Pilani](/colleges/bits-pilani) B.E. degree less valuable than IIT B.Tech?**
-ABSOLUTELY NOT. [BITS Pilani](/colleges/bits-pilani) is one of the top 3 engineering hubs in India. Its B.E. degree is highly prestigious and globally recognized. The nomenclature "B.E." is simply a legacy of how the university was founded.
+**Q1. is [BITS Pilani](/colleges/bits-pilani/) B.E. degree less valuable than IIT B.Tech?**
+ABSOLUTELY NOT. [BITS Pilani](/colleges/bits-pilani/) is one of the top 3 engineering hubs in India. Its B.E. degree is highly prestigious and globally recognized. The nomenclature "B.E." is simply a legacy of how the university was founded.
 
 **Q2. does B.E. have more subjects than B.Tech?**
 The number of credits is usually the same. However, B.E. may have more "Pure Science" electives, while B.Tech may have more "Applied Technology" electives.
@@ -110,16 +110,16 @@ The scope is identical to B.Tech. Engineering is about **Problem Solving**. As l
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in India 2026 NIRF Ranking](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [Best B.Tech CSE Colleges India 2026](/blog/best-btech-cse-colleges-india-2026)
-- [Direct B.Tech Admission 2026 Guide](/blog/btech-admission-without-jee-2026-all-options)
+- [Top B.Tech Colleges in India 2026 NIRF Ranking](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [Best B.Tech CSE Colleges India 2026](/blog/best-btech-cse-colleges-india-2026/)
+- [Direct B.Tech Admission 2026 Guide](/blog/btech-admission-without-jee-2026-all-options/)
 
 ---
 
 **Don't Get Stuck in Nomenclature.**
 The best engineers come from the best labs, not the best degree names. Mohit Jain provides a "Degree Nomenclature Audit"—helping you focus on the college's placement record and lab quality rather than the B.E. vs B.Tech label.
 
-[👉 Book My Engineering Career Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Engineering Career Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -127,6 +127,6 @@ The best engineers come from the best labs, not the best degree names. Mohit Jai
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

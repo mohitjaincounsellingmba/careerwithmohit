@@ -52,9 +52,9 @@ These colleges offer the best salary-to-fee ratio in the country:
 
 | Institute | Total Fees (Approx) | Avg Placement (2025) | ROI Factor |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | ₹34.10 LPA | ⭐⭐⭐⭐⭐ |
-| **[PUMBA Pune](/colleges/pumba-pune)** | ₹1.3 Lakhs | ₹8.85 LPA | ⭐⭐⭐⭐⭐ |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | ₹6.0 Lakhs | ₹28.02 LPA | ⭐⭐⭐⭐⭐ |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.0 Lakhs | ₹34.10 LPA | ⭐⭐⭐⭐⭐ |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | ₹1.3 Lakhs | ₹8.85 LPA | ⭐⭐⭐⭐⭐ |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | ₹6.0 Lakhs | ₹28.02 LPA | ⭐⭐⭐⭐⭐ |
 | **SIMSREE Mumbai** | ₹1.4 Lakhs | ₹15.19 LPA | ⭐⭐⭐⭐⭐ |
 | **UBS Chandigarh** | ₹1.0 Lakhs | ₹13.70 LPA | ⭐⭐⭐⭐ |
 
@@ -92,21 +92,21 @@ To get into these low-fee institutes, you usually need a strong percentile in **
 2.  **Master the GD/PI**: Since these colleges have lower fees, they receive a high volume of applications. Your interview performance is the tie-breaker.
 
 ### Recommended Content:
-- [Best MBA Coaching Online 2027–29](/blog/best-mba-coaching-online-2027-29)
-- [MBA Scholarships 2027–29: Master Guide](/blog/mba-scholarships-2026-master-guide)
-- [Top 100 MNC Career Links India](/blog/top-100-mnc-career-links-india)
+- [Best MBA Coaching Online 2027–29](/blog/best-mba-coaching-online-2027-29/)
+- [MBA Scholarships 2027–29: Master Guide](/blog/mba-scholarships-2026-master-guide/)
+- [Top 100 MNC Career Links India](/blog/top-100-mnc-career-links-india/)
 
 ---
 
 **Struggling to find a college that fits your budget?**
-[👉 Talk to our ROI Expert](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Talk to our ROI Expert](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -121,6 +121,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

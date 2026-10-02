@@ -52,9 +52,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **NIBM Pune (National Institute of Bank Management)** | CAT / XAT / CMAT | ₹16.0 Lakhs (Total) | **₹15.20 LPA** |
-| **[SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
-| **[PUMBA Pune](/colleges/pumba-pune) (Department of Management Sciences, Pune University)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
-| **[PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
+| **[SIBM Pune](/colleges/sibm-pune/) (Symbiosis Institute of Business Management)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
+| **[PUMBA Pune](/colleges/pumba-pune/) (Department of Management Sciences, Pune University)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
+| **[PIBM Pune](/colleges/pibm-pune/) (Pune Institute of Business Management)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
 | **Indira School of Business Studies (ISBS)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
@@ -82,19 +82,19 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹15.20 LPA**
 - **Key Highlight:** Directly established by the RBI; the premier institute for banking, credit, and risk management.
 
-### 2. [SIBM Pune](/colleges/sibm-pune) (Symbiosis Institute of Business Management)
+### 2. [SIBM Pune](/colleges/sibm-pune/) (Symbiosis Institute of Business Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹28.16 LPA**
 - **Key Highlight:** Flagship Symbiosis campus in Lavale with stellar placements across top investment banks.
 
-### 3. [PUMBA Pune](/colleges/pumba-pune) (Department of Management Sciences, Pune University)
+### 3. [PUMBA Pune](/colleges/pumba-pune/) (Department of Management Sciences, Pune University)
 - **Approximate Fees:** ₹1.3 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT / CMAT
 - **Average Placement Package:** **₹8.85 LPA**
 - **Key Highlight:** Prestigious university department with highly subsidized fees and excellent regional ROI.
 
-### 4. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
+### 4. [PIBM Pune](/colleges/pibm-pune/) (Pune Institute of Business Management)
 - **Approximate Fees:** ₹8.75 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.50 LPA**
@@ -117,9 +117,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -129,7 +129,7 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Finance Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -139,14 +139,14 @@ Finding a program that fits your academic profile, budget, and placement goals c
 NIBM Pune is established by the Reserve Bank of India (RBI) and is a specialized institute focused entirely on Banking and Financial Services, making it top-tier for credit risk and treasury management.
 
 ### Which MBA college in Pune has the best placements for Finance?
-[SIBM Pune](/colleges/sibm-pune) offers the highest average package (exceeding INR 28 LPA) with top consulting firms and investment banks visiting the campus.
+[SIBM Pune](/colleges/sibm-pune/) offers the highest average package (exceeding INR 28 LPA) with top consulting firms and investment banks visiting the campus.
 
-### What is the fee structure for [PUMBA Pune](/colleges/pumba-pune)?
-[PUMBA Pune](/colleges/pumba-pune) has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates), offering one of the best ROI packages in the country.
+### What is the fee structure for [PUMBA Pune](/colleges/pumba-pune/)?
+[PUMBA Pune](/colleges/pumba-pune/) has extremely low fees (approximately INR 65,000 per year for Maharashtra candidates), offering one of the best ROI packages in the country.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -58,11 +58,11 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
+| **[MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon/)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
 | **IMT Ghaziabad (Institute of Management Technology)** | CAT / XAT / GMAT | ₹22.27 Lakhs (Total) | **₹17.30 LPA** |
-| **[FORE School of Management, Delhi](/colleges/fore-school-delhi)** | CAT / XAT / GMAT | ₹16.98 Lakhs (Total) | **₹14.50 LPA** |
-| **[LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)** | CAT / XAT / GMAT | ₹15.5 Lakhs (Total) | **₹12.40 LPA** |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
+| **[FORE School of Management, Delhi](/colleges/fore-school-delhi/)** | CAT / XAT / GMAT | ₹16.98 Lakhs (Total) | **₹14.50 LPA** |
+| **[LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi/)** | CAT / XAT / GMAT | ₹15.5 Lakhs (Total) | **₹12.40 LPA** |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
 
 ---
 
@@ -83,7 +83,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Delhi NCR
 
-### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon)
+### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon/)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
@@ -95,19 +95,19 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹17.30 LPA**
 - **Key Highlight:** Widely recognized as one of the best marketing campuses in India with strong digital branding placements.
 
-### 3. [FORE School of Management, Delhi](/colleges/fore-school-delhi)
+### 3. [FORE School of Management, Delhi](/colleges/fore-school-delhi/)
 - **Approximate Fees:** ₹16.98 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹14.50 LPA**
 - **Key Highlight:** Features specialized modules in digital marketing and social media marketing analytics.
 
-### 4. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi)
+### 4. [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi/)
 - **Approximate Fees:** ₹15.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹12.40 LPA**
 - **Key Highlight:** Rigorous general management base with specialized marketing electives focusing on digital channels.
 
-### 5. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)
+### 5. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)
 - **Approximate Fees:** ₹17.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / GMAT
 - **Average Placement Package:** **₹11.60 LPA**
@@ -124,9 +124,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -136,24 +136,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which B-school has the best placements for marketing in Delhi NCR?
-[MDI Gurgaon](/colleges/mdi-gurgaon) and [FMS Delhi](/colleges/fms-delhi) are the top B-schools for marketing placements. For specialized sales & marketing profiles, IMT Ghaziabad is also highly recommended, attracting top FMCG and digital agencies.
+[MDI Gurgaon](/colleges/mdi-gurgaon/) and [FMS Delhi](/colleges/fms-delhi/) are the top B-schools for marketing placements. For specialized sales & marketing profiles, IMT Ghaziabad is also highly recommended, attracting top FMCG and digital agencies.
 
-### Does [FORE School of Management](/colleges/fore-school-delhi) offer digital marketing specialization?
-Yes, [FORE School of Management](/colleges/fore-school-delhi) offers specialized courses in digital marketing, social media marketing, and customer relationship management within its PGDM curriculum.
+### Does [FORE School of Management](/colleges/fore-school-delhi/) offer digital marketing specialization?
+Yes, [FORE School of Management](/colleges/fore-school-delhi/) offers specialized courses in digital marketing, social media marketing, and customer relationship management within its PGDM curriculum.
 
 ### What is the average package for marketing graduates in Delhi NCR?
-Top-tier campuses like [MDI Gurgaon](/colleges/mdi-gurgaon) report average packages around INR 27 LPA. Mid-tier campuses like FORE School and LBSIM report average packages between INR 12 LPA and 15 LPA.
+Top-tier campuses like [MDI Gurgaon](/colleges/mdi-gurgaon/) report average packages around INR 27 LPA. Mid-tier campuses like FORE School and LBSIM report average packages between INR 12 LPA and 15 LPA.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

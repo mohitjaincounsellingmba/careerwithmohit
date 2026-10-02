@@ -64,7 +64,7 @@ The **MAT May 2026 Internet-Based Test (IBT)** was conducted across **multiple s
 
 <div class="calculator-cta-top">
 
-> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator)**
+> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator/)**
 >
 > Enter your answers section-wise (LC, MS, DA, ICR) and get your **estimated composite score out of 800** + **expected percentile** + **a list of MBA colleges matching your score**. Free. No login. Instant.
 
@@ -169,7 +169,7 @@ The composite score scale and college targeting is identical for all MAT modes:
 
 <div class="calculator-cta-mid">
 
-> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator)**
+> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator/)**
 >
 > ✅ Works for **IBT, PBT, and CBT** candidates equally  
 > ✅ Enter section-wise **correct + wrong answers**  
@@ -213,16 +213,16 @@ Your score is valid for 12 months. If you're targeting the 2027–29 batch but d
 
 All MAT-accepting colleges treat IBT scores equally with PBT and CBT. Apply to these:
 
-- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** — Composite 500+ preferred
-- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** — Strong MAT intake across campuses
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29)** — Direct PGDM admissions
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** — Top Delhi PGDM institute
-- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** — Banking & Finance specialisation
-- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** — AICTE-approved PGDM
-- **[TAPMI Manipal](/blog/all-about-tapmi)** — Top B-School for high IBT scores
-- **[Lexicon MILE Pune](/blog/lexicon-mile-pune-review-2027-29)** — MAT-accepting Pune institute
+- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** — Composite 500+ preferred
+- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/)** — Strong MAT intake across campuses
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/)** — Direct PGDM admissions
+- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** — Top Delhi PGDM institute
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** — Banking & Finance specialisation
+- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini/)** — AICTE-approved PGDM
+- **[TAPMI Manipal](/blog/all-about-tapmi/)** — Top B-School for high IBT scores
+- **[Lexicon MILE Pune](/blog/lexicon-mile-pune-review-2027-29/)** — MAT-accepting Pune institute
 
-👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
+👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
 ---
 
@@ -232,7 +232,7 @@ All MAT-accepting colleges treat IBT scores equally with PBT and CBT. Apply to t
 You have excellent options. Start applying to Tier-1 MAT colleges immediately — TAPMI, Great Lakes, BIMTECH, Christ University. Most are accepting applications now.
 
 ### ✅ Score 60–80 Percentile?
-Use our **[MAT College Predictor](/tools/mat-college-predictor)** to get a personalised shortlist. Apply to multiple colleges simultaneously as MAT admission windows are short.
+Use our **[MAT College Predictor](/tools/mat-college-predictor/)** to get a personalised shortlist. Apply to multiple colleges simultaneously as MAT admission windows are short.
 
 ### ✅ Score Below 60 Percentile?
 Two strategic options:
@@ -240,7 +240,7 @@ Two strategic options:
 2. Re-appear in **MAT September 2026** — the final session for 2027–29 batch
 
 ### ✅ GD/PI Preparation
-Getting shortlisted is just the beginning. Prepare for Group Discussion and Personal Interviews using our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**
+Getting shortlisted is just the beginning. Prepare for Group Discussion and Personal Interviews using our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)**
 
 ---
 
@@ -268,13 +268,13 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam)** — Complete MAT exam guide
-- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download)** — All modes combined guide
-- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29)** — PBT-specific guide
-- **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29)** — CBT-specific guide
-- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide)** — Personalised college list
-- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29)**
-- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide)**
+- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)** — Complete MAT exam guide
+- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes combined guide
+- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
+- **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29/)** — CBT-specific guide
+- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Personalised college list
+- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**
+- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)**
 
 ---
 
@@ -284,7 +284,7 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 <div class="calculator-cta-footer">
 
-> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator)**
+> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator/)**
 >
 > ✔ Designed for **IBT, PBT, and CBT** candidates  
 > ✔ Enter your section-wise answers (LC, MS, DA, ICR)  
@@ -303,6 +303,6 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

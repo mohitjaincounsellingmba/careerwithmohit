@@ -35,7 +35,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Is your college delaying or refusing a fee refund? Learn the exact legal steps to recover your money, from sen...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 You followed the rules, canceled your admission on time, and yet the college is refusing to refund your fee. This is a common but illegal practice in many Indian institutes. 
 
@@ -95,11 +95,11 @@ If the college is also holding your **Original Certificates** and refusing to re
 **Don't let them keep your hard-earned money.**
 The law is on your side. If you are being harassed, act today.
 
-[👉 Download the Latest UGC Refund Circular 2026](/blog)
-[👉 Need help drafting a legal notice? Talk to our experts](/inquiry)
+[👉 Download the Latest UGC Refund Circular 2026](/blog/)
+[👉 Need help drafting a legal notice? Talk to our experts](/inquiry/)
 
 **Not sure if your college is actually approved?**
-[👉 Verify College Accreditation Instantly](/colleges)
+[👉 Verify College Accreditation Instantly](/colleges/)
 
 ---
 
@@ -121,6 +121,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -52,7 +52,7 @@ The **Indian Institute of Information Technology, Kota (IIITK)** is the most pre
 *   **Top Branches:** CSE (Computer Science) and ECE (Electronics & Communication).
 *   **Why Choose IIIT Kota:** Exceptional brand value, high-tier placements (Avg package ₹12-15 LPA), and a strong network of Silicon Valley recruiters.
 
-[👉 Get Admission Guidance for IIIT Kota](/inquiry)
+[👉 Get Admission Guidance for IIIT Kota](/inquiry/)
 
 ---
 
@@ -63,7 +63,7 @@ The **Rajasthan Technical University (RTU)** campus in Kota is a top choice for 
 *   **Fees:** Extremely affordable compared to private universities.
 *   **Why Choose RTU:** Strong academic legacy, central location, and a focus on core engineering branches like Mechanical, Civil, and Electrical.
 
-[👉 Inquire About REAP Counseling 2026](/inquiry)
+[👉 Inquire About REAP Counseling 2026](/inquiry/)
 
 ---
 
@@ -75,7 +75,7 @@ The **Rajasthan Technical University (RTU)** campus in Kota is a top choice for 
 *   **Average Package:** ₹4 - ₹6 LPA.
 *   **Why Choose CPU:** Industry collaborations, startup incubation cell, and a dynamic campus life.
 
-[👉 Apply for Career Point University Kota](/inquiry)
+[👉 Apply for Career Point University Kota](/inquiry/)
 
 ---
 
@@ -86,7 +86,7 @@ Affiliated with RTU, **Modi Institute of Technology** is an established engineer
 *   **Fees:** Standardized as per RTU guidelines.
 *   **Why Choose MIT:** Good infrastructure, experienced faculty, and strong results in RTU examinations.
 
-[👉 Request Direct Admission Details](/inquiry)
+[👉 Request Direct Admission Details](/inquiry/)
 
 ---
 
@@ -113,14 +113,14 @@ For **RTU Kota** and private colleges like **MIT**, the primary admission route 
 
 **Still confused about which college fits your rank and budget?** Don't make a decision based on brochures alone.
 
-[👉 Connect with our Expert Career Counselors for 100% Free Guidance on Kota B.Tech Admissions!](/inquiry)
+[👉 Connect with our Expert Career Counselors for 100% Free Guidance on Kota B.Tech Admissions!](/inquiry/)
 
 ---
 
 *Related Posts:*
-* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-* [B.Tech Admissions FAQ 2026: Everything You Need to Know](/blog/btech-admissions-faq-2026)
-* [Top B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026)
+* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+* [B.Tech Admissions FAQ 2026: Everything You Need to Know](/blog/btech-admissions-faq-2026/)
+* [Top B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026/)
 
 ---
 
@@ -142,6 +142,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

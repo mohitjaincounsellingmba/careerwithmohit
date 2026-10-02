@@ -51,7 +51,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for Rajagiri Business School / Rajagiri College of...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **Rajagiri Business School / Rajagiri College of Social Sciences, Kochi**, situated in **Kochi (Kakkanad / Valley Campus)**, stands out as one of the premier destinations for undergraduate and postgraduate education in Kochi, South India.
@@ -169,10 +169,10 @@ Admissions for 2026 at Rajagiri Business School / Rajagiri College of Social Sci
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
@@ -180,12 +180,12 @@ Admissions for 2026 at Rajagiri Business School / Rajagiri College of Social Sci
 
 Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.
 
-[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
+[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry/) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
 
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 
 ## Verified 2027–2029 MBA / PGDM Comparison Matrix
@@ -197,6 +197,6 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

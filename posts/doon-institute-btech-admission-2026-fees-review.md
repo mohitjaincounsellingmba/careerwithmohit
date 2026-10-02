@@ -66,14 +66,14 @@ DIET focuses on skill development and career preparation through its dedicated p
 **Cons**: Average packages are lower than premium private universities, infrastructure for advanced research labs is basic compared to high-fee colleges.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
-*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review)
-*   [Quantum University Roorkee: Detailed Review](/blog/quantum-university-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review/)
+*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review/)
+*   [Quantum University Roorkee: Detailed Review](/blog/quantum-university-btech-admission-2026-fees-review/)
 
 **Confused About the Various 'Doon' Institutions?**
 Dehradun has multiple institutes with the 'Doon' name. At **CareerWithMohit**, we help you distinguish between the State Government's Doon University and private institutes like DIET to ensure you apply to the right one for your B.Tech goals.
 
-[👉 Get Expert Admission Guidance for Doon Institute!](/inquiry)
+[👉 Get Expert Admission Guidance for Doon Institute!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is Doon Institute affordable?**
@@ -92,6 +92,6 @@ Placements are solid for local industries, with top service companies frequently
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

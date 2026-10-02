@@ -76,14 +76,14 @@ Sushant University has a dedicated placement cell with strong ties to corporate 
 **Cons**: Higher fee structure than traditional institutes, smaller engineering intake compared to some of its NCR competitors.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review/)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review/)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review/)
 
 **Confused About the Design-Tech Integration?**
 Sushant's B.Tech programs are famous for integrating "Human-Centric Design" into the core technology curriculum. At **CareerWithMohit**, we help you decide if a design-integrated B.Tech is better for your career than a traditional engineering degree.
 
-[👉 Get Expert Admission Guidance for Sushant University!](/inquiry)
+[👉 Get Expert Admission Guidance for Sushant University!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. What is the unique selling point of Sushant University?**
@@ -102,6 +102,6 @@ It is situated at a prime location on Golf Course Road in Sector 55, Gurugram.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

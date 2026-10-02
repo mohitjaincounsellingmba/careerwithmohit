@@ -65,19 +65,19 @@ Focuses on corporate finance, portfolio management, stock markets, and financial
 
 ### 2. Marketing & Digital Branding
 Covers consumer behavior, brand management, digital advertising, SEO, and sales strategy.
-- **Top Delhi NCR Colleges:** [Amity University](/colleges/amity-noida), IMS Ghaziabad, MSI Janakpuri, Galgotias.
+- **Top Delhi NCR Colleges:** [Amity University](/colleges/amity-noida/), IMS Ghaziabad, MSI Janakpuri, Galgotias.
 - **Best for:** Creative students with strong communication skills interested in branding, media, or product growth.
 - **Top Career Profiles:** Digital Marketer, Brand Manager, Business Development Specialist.
 
 ### 3. Business Analytics & Data Science
 Focuses on data strategy, business intelligence, SQL, Python for business, and data visualization.
-- **Top Delhi NCR Colleges:** [BML Munjal University](/colleges/bml-munjal-gurgaon), GD Goenka, [Amity University](/colleges/amity-noida), [Bennett University](/colleges/bennett-greater-noida).
+- **Top Delhi NCR Colleges:** [BML Munjal University](/colleges/bml-munjal-gurgaon/), GD Goenka, [Amity University](/colleges/amity-noida/), [Bennett University](/colleges/bennett-greater-noida/).
 - **Best for:** Analytical minds interested in tech integrations, statistics, and data-driven management.
 - **Top Career Profiles:** Business Analyst, Data Strategist, Operations Analyst.
 
 ### 4. International Business (IB)
 Covers global logistics, cross-border trade, international finance, and global supply chain management.
-- **Top Delhi NCR Colleges:** SCMS Noida, [Amity University](/colleges/amity-noida), JIMS Rohini.
+- **Top Delhi NCR Colleges:** SCMS Noida, [Amity University](/colleges/amity-noida/), JIMS Rohini.
 - **Best for:** Students interested in global trade compliance, export-import industries, or foreign markets.
 - **Top Career Profiles:** International Trade Specialist, Logistics Coordinator, Export Manager.
 
@@ -110,9 +110,9 @@ Covers talent acquisition, organizational behavior, employee relations, and comp
 ---
 
 ## 🔗 Related Resources
-- [BBA Specializations Skills & Salaries: Master Guide](/blog/bba-specializations-skills-salary-2026-guide)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
-- [BBA Fees vs Placement: Complete ROI Analysis](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
+- [BBA Specializations Skills & Salaries: Master Guide](/blog/bba-specializations-skills-salary-2026-guide/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
+- [BBA Fees vs Placement: Complete ROI Analysis](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
 
 ---
 
@@ -134,6 +134,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

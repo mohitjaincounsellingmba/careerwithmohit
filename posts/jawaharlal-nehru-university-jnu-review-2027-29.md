@@ -81,10 +81,10 @@ JNU is inherently residential, but getting a hostel is competitive.
 *   **Cost:** The living cost is incredibly low. Room rent is around **₹1,200 per year**, and monthly mess bills range from ₹2,000 to ₹3,500, making it extremely affordable.
 
 ### **Check Other University Reviews:**
-*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026)
-*   [Jamia Millia Islamia (JMI) Review 2027–29](/blog/jamia-millia-islamia-jmi-review-2027-29)
+*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026/)
+*   [Jamia Millia Islamia (JMI) Review 2027–29](/blog/jamia-millia-islamia-jmi-review-2027-29/)
 
-[👉 Need guidance for JNU Admissions? Book a Consultation!](/inquiry)
+[👉 Need guidance for JNU Admissions? Book a Consultation!](/inquiry/)
 
 ---
 
@@ -104,4 +104,4 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Cracking JNU requires top percentiles. **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to secure your admission!
+Cracking JNU requires top percentiles. **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests/)** to secure your admission!

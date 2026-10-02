@@ -2,13 +2,13 @@
 title: 'Direct Admission in IMI Delhi 2026: Institutional Quota & Fees'
 date: '2026-03-17'
 description: >-
-  Planning for [IMI Delhi](/colleges/imi-delhi) 2026? Learn about direct
+  Planning for [IMI Delhi](/colleges/imi-delhi/) 2026? Learn about direct
   admission via merit-linked institutional seats, NRI quota, latest CAT/XAT
   cutoffs, and 2025 placement reports for the 2027–29 batch.
 keywords:
-  - '[IMI Delhi](/colleges/imi-delhi) direct admission'
-  - '[IMI Delhi](/colleges/imi-delhi) management quota'
-  - '[IMI Delhi](/colleges/imi-delhi) fees 2027–29'
+  - '[IMI Delhi](/colleges/imi-delhi/) direct admission'
+  - '[IMI Delhi](/colleges/imi-delhi/) management quota'
+  - '[IMI Delhi](/colleges/imi-delhi/) fees 2027–29'
   - International Management Institute Delhi admission
   - direct admission in IMI
   - Delhi Colleges
@@ -24,20 +24,20 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: 'Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?'
+  - question: 'Is there a management quota in [IMI Delhi](/colleges/imi-delhi/)?'
     answer: >-
-      Yes, [IMI Delhi](/colleges/imi-delhi) has provision for institutional
+      Yes, [IMI Delhi](/colleges/imi-delhi/) has provision for institutional
       quota seats which are filled transparently based on merit and profile
       assessment.
-  - question: 'Does [IMI Delhi](/colleges/imi-delhi) accept CMAT scores?'
+  - question: 'Does [IMI Delhi](/colleges/imi-delhi/) accept CMAT scores?'
     answer: >-
-      No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for
+      No, [IMI Delhi](/colleges/imi-delhi/) only accepts **CAT** or **XAT** for
       its flagship PGDM programs.
-  - question: 'What is the average package for [IMI Delhi](/colleges/imi-delhi)?'
+  - question: 'What is the average package for [IMI Delhi](/colleges/imi-delhi/)?'
     answer: >-
       The latest average package for the PGDM batch is approximately **₹17.1
       LPA**.
-  - question: 'Can freshers apply for [IMI Delhi](/colleges/imi-delhi)?'
+  - question: 'Can freshers apply for [IMI Delhi](/colleges/imi-delhi/)?'
     answer: >-
       Yes, IMI Delhi has a good mix of both freshers and students with work
       experience in its PGDM programs.
@@ -51,20 +51,20 @@ category: Jobs & Careers
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
 
-International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2027–29 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi)** is a merit-linked process focusing on profile diversity and the institutional category.
+International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2027–29 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi/)** is a merit-linked process focusing on profile diversity and the institutional category.
 
-## Why [IMI Delhi](/colleges/imi-delhi) is a Top Management Choice?
+## Why [IMI Delhi](/colleges/imi-delhi/) is a Top Management Choice?
 
 - **Corporate Legacy**: Strongly connected with the industry, providing excellent corporate mentorship and guest lectures.
 - **Top Programs**: PGDM, PGDM-HRM, and PGDM-B&FS (Banking & Financial Services).
 - **Placements**: The average package for the 2025 batch was approximately **₹17.1 LPA**, with top recruiters like BCG, McKinsey, and Reliance.
 
-## Understanding Direct Admission at [IMI Delhi](/colleges/imi-delhi)
+## Understanding Direct Admission at [IMI Delhi](/colleges/imi-delhi/)
 
-[IMI Delhi](/colleges/imi-delhi) is often perceived as a merit-only school, but here are the facts on how alternative seats work:
+[IMI Delhi](/colleges/imi-delhi/) is often perceived as a merit-only school, but here are the facts on how alternative seats work:
 
 ### 1. Management / Institutional Quota
-[IMI Delhi](/colleges/imi-delhi) reserves a small percentage of seats (approx. 5-10%) as institutional seats. 
+[IMI Delhi](/colleges/imi-delhi/) reserves a small percentage of seats (approx. 5-10%) as institutional seats. 
 - **The Process**: These seats are filled based on a combination of academic merit and interview performance. 
 - **Cutoff Flexibility**: While General cutoffs are high (88-90+ Percentile), institutional quota applicants with a percentile of **75-80** and a stellar academic profile are considered.
 
@@ -75,10 +75,10 @@ Candidates applying from abroad or with NRI status can secure admission via a pr
 Candidates with 2+ years of work experience can be sponsored by their organizations, providing a more direct entry pathway into the specialized PGDM programs.
 
 ## Fee Structure for 2026
-The total academic fee for the two-year program at [IMI Delhi](/colleges/imi-delhi) is approximately **₹20 Lakhs to ₹22 Lakhs**. For management quota or NRI seats, there is often a higher institutional fee structure.
+The total academic fee for the two-year program at [IMI Delhi](/colleges/imi-delhi/) is approximately **₹20 Lakhs to ₹22 Lakhs**. For management quota or NRI seats, there is often a higher institutional fee structure.
 
 ## Selection Process for 2026
-Even for the institutional category, [IMI Delhi](/colleges/imi-delhi) maintains high standards:
+Even for the institutional category, [IMI Delhi](/colleges/imi-delhi/) maintains high standards:
 1. **Entrance**: Valid CAT or XAT score.
 2. **Shortlist**: Based on academics (10th, 12th, Graduation) and entrance score.
 3. **Interview Rounds**: Comprehensive GD and PI rounds to evaluate leadership potential.
@@ -87,26 +87,26 @@ Even for the institutional category, [IMI Delhi](/colleges/imi-delhi) maintains 
 
 ### Frequently Asked Questions (FAQ)
 
-### 1. Is there a management quota in [IMI Delhi](/colleges/imi-delhi)?
-Yes, [IMI Delhi](/colleges/imi-delhi) has provision for institutional quota seats which are filled transparently based on merit and profile assessment.
+### 1. Is there a management quota in [IMI Delhi](/colleges/imi-delhi/)?
+Yes, [IMI Delhi](/colleges/imi-delhi/) has provision for institutional quota seats which are filled transparently based on merit and profile assessment.
 
-### 2. Does [IMI Delhi](/colleges/imi-delhi) accept CMAT scores?
-No, [IMI Delhi](/colleges/imi-delhi) only accepts **CAT** or **XAT** for its flagship PGDM programs.
+### 2. Does [IMI Delhi](/colleges/imi-delhi/) accept CMAT scores?
+No, [IMI Delhi](/colleges/imi-delhi/) only accepts **CAT** or **XAT** for its flagship PGDM programs.
 
-### 3. What is the average package for [IMI Delhi](/colleges/imi-delhi)?
+### 3. What is the average package for [IMI Delhi](/colleges/imi-delhi/)?
 The latest average package for the PGDM batch is approximately **₹17.1 LPA**.
 
-### 4. Can freshers apply for [IMI Delhi](/colleges/imi-delhi)?
-Yes, [IMI Delhi](/colleges/imi-delhi) has a good mix of both freshers and students with work experience in its PGDM programs.
+### 4. Can freshers apply for [IMI Delhi](/colleges/imi-delhi/)?
+Yes, [IMI Delhi](/colleges/imi-delhi/) has a good mix of both freshers and students with work experience in its PGDM programs.
 
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
-- [MBA PGDM Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-- [Direct MBA Admission India 2027–29 Profile Weights](/blog/direct-mba-admission-india)
+- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [MBA PGDM Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [Direct MBA Admission India 2027–29 Profile Weights](/blog/direct-mba-admission-india/)
 
-[👉 Want to secure your seat at [IMI Delhi](/colleges/imi-delhi)? Speak to our admission experts today!](/inquiry)
+[👉 Want to secure your seat at [IMI Delhi](/colleges/imi-delhi/)? Speak to our admission experts today!](/inquiry)
 
 
 
@@ -114,6 +114,6 @@ Yes, [IMI Delhi](/colleges/imi-delhi) has a good mix of both freshers and studen
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

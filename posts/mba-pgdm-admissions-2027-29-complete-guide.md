@@ -64,7 +64,7 @@ To enter the 2027–2029 batch, you will be taking exams conducted in late 2025 
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## CAT 2025 (Common Admission Test)
-The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, [FMS Delhi](/colleges/fms-delhi), IITs, and hundreds of top private institutes.
+The biggest and most important management exam in India, acting as the sole gateway to the prestigious 21 IIMs, [FMS Delhi](/colleges/fms-delhi/), IITs, and hundreds of top private institutes.
 *   **Notification Release:** Late July 2025
 *   **Registration Window:** August 1, 2025 – Mid-September 2025
 *   **Admit Card Release:** November 12, 2025 (Expected)
@@ -72,13 +72,13 @@ The biggest and most important management exam in India, acting as the sole gate
 *   **Results:** Mid to Late December 2025
 
 ### XAT 2026 (Xavier Aptitude Test)
-The gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), SPJIMR (Mumbai), XIMB, and IMT Ghaziabad. Often considered tougher than CAT due to its unique Decision Making section.
+The gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), SPJIMR (Mumbai), XIMB, and IMT Ghaziabad. Often considered tougher than CAT due to its unique Decision Making section.
 *   **Registration Window:** Mid-July 2025 – Early December 2025
 *   **Exam Date:** First Sunday of January 2026
 *   **Results:** Late January 2026
 
 ### SNAP 2025 (Symbiosis National Aptitude Test)
-Mandatory for all 16 institutes under the Symbiosis International University umbrella (including [SIBM Pune](/colleges/sibm-pune) and SCMHRD).
+Mandatory for all 16 institutes under the Symbiosis International University umbrella (including [SIBM Pune](/colleges/sibm-pune/) and SCMHRD).
 *   **Registration:** August 2025 – November 2025
 *   **Exam Dates:** Three testing windows in December 2025. You can take the test up to three times!
 
@@ -97,7 +97,7 @@ Required for NMIMS (Mumbai and other campuses), K J Somaiya, and XIMB (specific 
 
 *Do not wait for your CAT/XAT results to apply!* This is a massive mistake many students make.
 
-Top non-IIM institutes (like SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), NMIMS, and Symbiosis institutes) require you to submit their separate, specific application forms *before* the entrance exams even take place. 
+Top non-IIM institutes (like SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon/), NMIMS, and Symbiosis institutes) require you to submit their separate, specific application forms *before* the entrance exams even take place. 
 *   **Early Application Window:** September 2025 – November 2025. 
 *   **Post-Result Applications:** December 2025 – February 2026 (For tier-2 and tier-3 colleges, or IIT MBA programs).
 
@@ -155,6 +155,6 @@ An MBA is a heavy investment of time and money, but meticulous planning guarante
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

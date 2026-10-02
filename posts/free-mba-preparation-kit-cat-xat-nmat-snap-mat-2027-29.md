@@ -75,12 +75,12 @@ Choosing the right mix of entrance exams is the single most important strategic 
 
 | Entrance Exam | Conducting Body / Authority | Exam Window / Frequency | Duration & Total Questions | Negative Marking | Difficulty Level | Flagship Target Institutions |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CAT** | IIMs (Rotational) | Last Sunday of Nov (Once/yr) | 120 Mins · 66 Questions | -1 for MCQs (0 for TITA) | High / Conceptual | [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai) |
-| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | First Sunday of Jan (Once/yr) | 210 Mins · ~95-100 Qs | -0.25 (MCQ) & -0.10 (Unattempted) | High / Analytical | [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa |
-| **NMAT** | GMAC | Oct to Dec (Up to 3 attempts) | 120 Mins · 108 Questions | **Zero Negative Marking** | Moderate / Adaptive | [NMIMS Mumbai](/colleges/nmims-mumbai), K J Somaiya, XIMB (HRM), SDA Bocconi |
-| **SNAP** | Symbiosis International | Dec (Up to 3 test slots) | **60 Mins · 60 Questions** | -0.25 for MCQs | Moderate / High Speed | [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), SIIB, [SIBM Bangalore](/colleges/sibm-bangalore) |
+| **CAT** | IIMs (Rotational) | Last Sunday of Nov (Once/yr) | 120 Mins · 66 Questions | -1 for MCQs (0 for TITA) | High / Conceptual | [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/) |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | First Sunday of Jan (Once/yr) | 210 Mins · ~95-100 Qs | -0.25 (MCQ) & -0.10 (Unattempted) | High / Analytical | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa |
+| **NMAT** | GMAC | Oct to Dec (Up to 3 attempts) | 120 Mins · 108 Questions | **Zero Negative Marking** | Moderate / Adaptive | [NMIMS Mumbai](/colleges/nmims-mumbai/), K J Somaiya, XIMB (HRM), SDA Bocconi |
+| **SNAP** | Symbiosis International | Dec (Up to 3 test slots) | **60 Mins · 60 Questions** | -0.25 for MCQs | Moderate / High Speed | [SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), SIIB, [SIBM Bangalore](/colleges/sibm-bangalore/) |
 | **MAT** | AIMA | 4 Cycles/Yr (Feb, May, Sep, Dec) | 120 Mins · 150 Questions | -0.25 for MCQs | Moderate / Accessible | Jaipuria, BIMTECH, NDIM Delhi, Christ University, Alliance |
-| **CMAT** | NTA (AICTE) | April / May (Once/yr) | 180 Mins · 100 Questions | -1 for MCQs | Moderate / Balanced | [JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE, Great Lakes, Welingkar Mumbai |
+| **CMAT** | NTA (AICTE) | April / May (Once/yr) | 180 Mins · 100 Questions | -1 for MCQs | Moderate / Balanced | [JBIMS Mumbai](/colleges/jbims-mumbai/), SIMSREE, Great Lakes, Welingkar Mumbai |
 
 ---
 
@@ -140,7 +140,7 @@ Unlike generic ranking tables, the Starter Kit organizes B-Schools into **4 tran
 │ Top Tier 2        │ 80 - 90 CAT / XAT / SNAP   │ ₹14.0 - ₹23.7 LPA  │ IIM Shillong, SCMHRD, │
 │ (80-90% ile)      │ 215+ NMAT Score            │                    │ XIMB, IMT, IMI, TAPMI │
 ├───────────────────┼────────────────────────────┼────────────────────┼───────────────────────┤
-│ Reputed Tier 2/3  │ 70 - 80 CAT / XAT / CMAT   │ ₹11.0 - ₹16.6 LPA  │ [IIM Amritsar](/colleges/iim-amritsar), IRMA,   │
+│ Reputed Tier 2/3  │ 70 - 80 CAT / XAT / CMAT   │ ₹11.0 - ₹16.6 LPA  │ [IIM Amritsar](/colleges/iim-amritsar/), IRMA,   │
 │ (70-80% ile)      │ 200+ NMAT Score            │                    │ K J Somaiya, BIMTECH  │
 ├───────────────────┼────────────────────────────┼────────────────────┼───────────────────────┤
 │ Accessible Tier   │ <70% ile / MAT / CMAT /    │ ₹7.5 - ₹12.8 LPA   │ Jaipuria, SIDTM, SCIT,│
@@ -195,7 +195,7 @@ One of the most common questions aspirants ask is whether to choose an **MBA (Ma
 
 | Key Parameter | Master of Business Administration (MBA) | Post Graduate Diploma in Management (PGDM) |
 | :--- | :--- | :--- |
-| **Awarding Body** | Universities affiliated with UGC (e.g., FMS DU, [JBIMS Mumbai](/colleges/jbims-mumbai), PUMBA) | Autonomous B-Schools approved by AICTE (e.g., XLRI, SPJIMR, IMT, BIMTECH) |
+| **Awarding Body** | Universities affiliated with UGC (e.g., FMS DU, [JBIMS Mumbai](/colleges/jbims-mumbai/), PUMBA) | Autonomous B-Schools approved by AICTE (e.g., XLRI, SPJIMR, IMT, BIMTECH) |
 | **Curriculum Flexibility** | Updated every 3-5 years based on university academic council approval | Revised annually in consultation with corporate leaders, CXOs, and industry mentors |
 | **Pedagogy & Teaching** | Traditional academic focus with exams, theory, and research papers | Heavy case-study methodology (Harvard/Ivey cases), simulations, and corporate internships |
 | **Recruiter Perception** | Corporate recruiters treat AIU-recognized PGDM and university MBA as **100% equivalent** | Top management consulting, FMCG, and BFSI firms actively hire from premier PGDM colleges |
@@ -251,14 +251,14 @@ Getting instant access to all 6 study guides, syllabus PDFs, and placement maste
 
 To supercharge your admission journey, explore our in-depth analysis of major entrance tests and top B-schools:
 
-* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs](/blog/all-about-cat-exam)**
-* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs](/blog/all-about-xat-exam)**
-* **[All About NMAT Exam 2026: [NMIMS Mumbai](/colleges/nmims-mumbai) Cutoffs & Scoring](/blog/all-about-nmat-exam)**
-* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam)**
-* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges](/blog/all-about-mat-exam)**
-* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy](/blog/all-about-cmat-exam)**
-* **[All About OMET MBA Entrance Exams 2027–29](/blog/all-about-omets-mba-entrance-exams-2027-29)**
-* **[IIM Colleges Placements, Fees & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)**
+* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs](/blog/all-about-cat-exam/)**
+* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs](/blog/all-about-xat-exam/)**
+* **[All About NMAT Exam 2026: [NMIMS Mumbai](/colleges/nmims-mumbai/) Cutoffs & Scoring](/blog/all-about-nmat-exam)**
+* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam/)**
+* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges](/blog/all-about-mat-exam/)**
+* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy](/blog/all-about-cmat-exam/)**
+* **[All About OMET MBA Entrance Exams 2027–29](/blog/all-about-omets-mba-entrance-exams-2027-29/)**
+* **[IIM Colleges Placements, Fees & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)**
 
 ---
 
@@ -277,12 +277,12 @@ Yes, the entire MBA Preparation Kit is 100% free with no hidden paywalls. It is 
 The kit provides dedicated guides and syllabus breakdowns for all premier national and state entrance exams, including CAT, XAT, NMAT by GMAC, SNAP, MAT, CMAT, and MAH MBA CET.
 
 ### 5. Can I get direct MBA/PGDM admission without CAT?
-Yes, premier institutions like [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT), [XLRI Jamshedpur](/colleges/xlri-jamshedpur) (via XAT), [SIBM Pune](/colleges/sibm-pune) (via SNAP), and top AICTE-approved PGDM colleges (via MAT, CMAT, ATMA or profile-based evaluation) offer exceptional placement ROI without requiring CAT scores.
+Yes, premier institutions like [NMIMS Mumbai](/colleges/nmims-mumbai/) (via NMAT), [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) (via XAT), [SIBM Pune](/colleges/sibm-pune/) (via SNAP), and top AICTE-approved PGDM colleges (via MAT, CMAT, ATMA or profile-based evaluation) offer exceptional placement ROI without requiring CAT scores.
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

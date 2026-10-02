@@ -58,7 +58,7 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Knowledge Park Institutional Epicenter**: Greater Noida houses India’s largest planned education hub (Knowledge Park I, II, III), featuring residential campuses, modern infrastructure, and easy connectivity to the upcoming Noida International Airport (Jewar).
-> - **Top Ranked B-Schools**: **BIMTECH Greater Noida** (AACSB Accredited, Top Tier), **[Bennett University](/colleges/bennett-greater-noida)**, **GL Bajaj (GLBIMR)**, **IILM University**, and **[Galgotias University](/colleges/galgotias-university)**.
+> - **Top Ranked B-Schools**: **BIMTECH Greater Noida** (AACSB Accredited, Top Tier), **[Bennett University](/colleges/bennett-greater-noida/)**, **GL Bajaj (GLBIMR)**, **IILM University**, and **[Galgotias University](/colleges/galgotias-university/)**.
 > - **Fee and Placement Dynamics**: Total 2-year program costs range from ₹6.5 Lakhs to ₹14.5 Lakhs, with average domestic packages hovering between ₹7.2 LPA and ₹11.8 LPA.
 
 ### [InquiryCard title="Targeting Greater Noida PGDM / MBA?" description="Compare BIMTECH, Bennett, GL Bajaj, IILM, and Accurate. Get verified fee structures, hostel reviews, and admission support from Mohit Jain." cta="Book Free Greater Noida Consultation" type="admission"]
@@ -73,14 +73,14 @@ In this verified 2027 admission review, senior education consultant **Mohit Jain
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** (PGDM Core/IB/IBM/RM) | Knowledge Park II | ₹14.50 Lakhs | ₹11.80 LPA | CAT / XAT / CMAT (75+ %ile) / GMAT |
-| **[Bennett University](/blog/all-about-bennett-university)** (MBA Core/Tech-MBA) | Plot 8-11, TechZone II | ₹12.50 Lakhs | ₹9.50 LPA | CAT / XAT / NMAT / MAT / BUMAT |
-| **[GL Bajaj (GLBIMR)](/blog/all-about-gl-bajaj-greater-noida)** (PGDM) | Knowledge Park II | ₹8.25 Lakhs | ₹8.10 LPA | CAT / MAT / CMAT / XAT (65+ %ile) |
-| **[IILM University Greater Noida](/blog/all-about-iilm-university-greater-noida)** (MBA / PGDM) | Knowledge Park II | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT (65+ %ile) |
-| **[Galgotias University (School of Business)](/blog/all-about-galgotias-university)** (MBA) | Yamuna Expressway | ₹5.50 Lakhs | ₹6.50 LPA | CUET-PG / MAT / NMAT / Direct |
-| **[Lloyd Business School](/blog/all-about-greater-noida-business-school)** (PGDM Supply Chain/BA) | Knowledge Park II | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CAT / Direct |
-| **[Accurate Institute (AIMT)](/blog/accurate-greater-noida-review-2027-29)** (PGDM / MBA) | Knowledge Park III | ₹6.25 – ₹7.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CUET-PG / Direct |
-| **[GNIOT Institute of Management Studies](/blog/all-about-greater-noida-institute-of-business-studies)** (PGDM) | Knowledge Park II | ₹6.75 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / ATMA |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** (PGDM Core/IB/IBM/RM) | Knowledge Park II | ₹14.50 Lakhs | ₹11.80 LPA | CAT / XAT / CMAT (75+ %ile) / GMAT |
+| **[Bennett University](/blog/all-about-bennett-university/)** (MBA Core/Tech-MBA) | Plot 8-11, TechZone II | ₹12.50 Lakhs | ₹9.50 LPA | CAT / XAT / NMAT / MAT / BUMAT |
+| **[GL Bajaj (GLBIMR)](/blog/all-about-gl-bajaj-greater-noida/)** (PGDM) | Knowledge Park II | ₹8.25 Lakhs | ₹8.10 LPA | CAT / MAT / CMAT / XAT (65+ %ile) |
+| **[IILM University Greater Noida](/blog/all-about-iilm-university-greater-noida/)** (MBA / PGDM) | Knowledge Park II | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT (65+ %ile) |
+| **[Galgotias University (School of Business)](/blog/all-about-galgotias-university/)** (MBA) | Yamuna Expressway | ₹5.50 Lakhs | ₹6.50 LPA | CUET-PG / MAT / NMAT / Direct |
+| **[Lloyd Business School](/colleges/mba-colleges-delhi-ncr/)** (PGDM Supply Chain/BA) | Knowledge Park II | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CAT / Direct |
+| **[Accurate Institute (AIMT)](/blog/accurate-greater-noida-review-2027-29/)** (PGDM / MBA) | Knowledge Park III | ₹6.25 – ₹7.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[GNIOT Institute of Management Studies](/colleges/mba-colleges-delhi-ncr/)** (PGDM) | Knowledge Park II | ₹6.75 Lakhs | ₹6.80 LPA | CAT / MAT / CMAT / ATMA |
 
 ---
 
@@ -93,16 +93,16 @@ In this verified 2027 admission review, senior education consultant **Mohit Jain
          ▼                                                             ▼
 [Tier 1: Global Accreditation]                               [Tier 2: High-ROI Corporate]
 BIMTECH (Knowledge Park II)                                  GL Bajaj (GLBIMR), Bennett Univ,
-- AACSB Accredited & Top 40 NIRF                             IILM Univ, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
+- AACSB Accredited & Top 40 NIRF                             IILM Univ, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
 - Strong Insurance & Retail Leadership                       - Strong Mid-Tier Placement ROIs
 ```
 
-### 1. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
+### 1. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/))
 - **Accreditation & Heritage**: Founded in 1988 by the Basant Kumar Birla and Sarala Birla Group, BIMTECH holds prestigious **AACSB international accreditation** (awarded to less than 5% of B-schools globally).
 - **Specialization Strengths**: Pioneering programs in International Business (IB), Insurance Business Management (IBM), and Retail Management (RM).
 - **Top Recruiters**: Marsh India, Swiss Re, KPMG, EY, Infosys, Reliance Retail, Aditya Birla Group, Titan, ICICI Lombard.
 
-### 2. [Bennett University](/colleges/bennett-greater-noida) (The Times Group)
+### 2. [Bennett University](/colleges/bennett-greater-noida/) (The Times Group)
 - **Media & Technology Backing**: Leveraging the formidable corporate ecosystem of the Times of India Group, students learn directly from global editors, CXOs, and industry leaders.
 - **Modern Infrastructure**: World-class 68-acre residential campus with cutting-edge analytics labs (IBM, NVIDIA, Dell) and seed funding support via Bennett Hatchery.
 
@@ -139,6 +139,6 @@ Approved autonomous colleges maintain merit thresholds through national entrance
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

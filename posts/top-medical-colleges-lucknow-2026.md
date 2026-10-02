@@ -120,16 +120,16 @@ Usually starts late **June/July** after the NEET results.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
-- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026-process-fees)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026/)
+- [Management Quota Medical Admission Guide](/blog/mbbs-management-quota-admission-2026-process-fees/)
 
 ---
 
 **Ready to start your Medical Journey in the Heart of UP?**
 Lucknow offers clinical depth and authority. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Lucknow Medical Audit"—helping you pick the college that matches your goals for surgical practice or high-end diagnostics.
 
-[👉 Book My Lucknow Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Lucknow Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -137,6 +137,6 @@ Lucknow offers clinical depth and authority. Don't waste your score on a college
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

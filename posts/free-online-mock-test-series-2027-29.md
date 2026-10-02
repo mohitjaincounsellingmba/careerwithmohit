@@ -50,13 +50,13 @@ Success in competitive exams in 2026 is no longer about how many books you read;
 
 [MockTestCard title="Free Free Mock Test Full CBT Mock Test 2026" link="/mock-tests" questions="Full-Length" time="Timed Exam"]
 
-At CareerWithMohit, we have built the **[Ultimate Mock Test Hub 2026](/mock-tests)**, providing 100% free, full-length simulations for over 50 major exams in India.
+At CareerWithMohit, we have built the **[Ultimate Mock Test Hub 2026](/mock-tests/)**, providing 100% free, full-length simulations for over 50 major exams in India.
 
 ---
 
 > 🚀 **Simulate the Real Exam Interface Now!**
 >
-> [👉 Access the Free 2026 Mock Test Hub](/mock-tests)
+> [👉 Access the Free 2026 Mock Test Hub](/mock-tests/)
 
 ---
 
@@ -96,4 +96,4 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

@@ -68,7 +68,7 @@ India's first AI-focused university, offering beautiful green campus and global 
 - **Approx Tuition Fees (2 Years):** ₹11.80 Lakhs
 - **Average Placement Package:** ₹8.20 LPA
 
-### 4. N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida)
+### 4. N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida/)
 Highly respected for finance profiles, with state-of-the-art Bloomberg labs.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.20 Lakhs
@@ -89,7 +89,7 @@ Offers global standard business curriculum with strong marketing and analytics l
 | **Welingkar Institute of Management (WeSchool)** | 80+ Percentile | ₹14.0 Lakhs | **₹12.5 LPA** |
 | **ITM Business School (Navi Mumbai)** | 70+ Percentile | ₹11.95 Lakhs | **₹8.60 LPA** |
 | **Universal AI University** | 65+ Percentile | ₹11.80 Lakhs | **₹8.20 LPA** |
-| **N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
+| **N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida/)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
 | **JAGSoM (Vijaybhoomi University Campus)** | 70+ Percentile | ₹12.00 Lakhs | **₹8.50 LPA** |
 
 ---
@@ -108,14 +108,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -126,6 +126,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

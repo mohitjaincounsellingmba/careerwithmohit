@@ -37,7 +37,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for JATF CET 2026: JITO Scholarship & Free UPSC Co...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Preparing for the UPSC Civil Services Examination (IAS, IPS, IRS) or State Public Service Commissions (SPSC) is a rigorous and expensive journey. Recognizing this, the **Jain International Trade Organisation (JITO)**, through its **JATF (JITO Administrative Training Foundation)** wing, offers an incredible scholarship and coaching program to empower students from the Jain community.
 
@@ -86,14 +86,14 @@ The scholarship is highly competitive. The selection is strictly merit-based and
 ---
 
 ### Need Loans Instead of Coaching?
-While the CET program covers coaching, if you are looking for financial assistance to fund your regular graduation or PG degrees (like an MBA or B.Tech), JATF offers separate schemes. **Read our complete guide here:** [JITO Education Loan for Jain Students: JELP & SEED Schemes](/blog/jito-education-loan-jain-students-jelp-seed-2027-29)
+While the CET program covers coaching, if you are looking for financial assistance to fund your regular graduation or PG degrees (like an MBA or B.Tech), JATF offers separate schemes. **Read our complete guide here:** [JITO Education Loan for Jain Students: JELP & SEED Schemes](/blog/jito-education-loan-jain-students-jelp-seed-2027-29/)
 
 ### Helpful Career Resources for Aspirants
-*   [Upcoming Government Jobs Calendar in India (2026)](/blog/upcoming-govt-jobs-india-2026-calendar)
-*   [Direct Recruitment: Govt. Jobs Without Exams](/blog/govt-jobs-without-exam-india-direct-recruitment-2027-29)
-*   [Education Loan Complete Guide for Students](/blog/education-loan-guide-mba-btech)
+*   [Upcoming Government Jobs Calendar in India (2026)](/blog/upcoming-govt-jobs-india-2026-calendar/)
+*   [Direct Recruitment: Govt. Jobs Without Exams](/blog/govt-jobs-without-exam-india-direct-recruitment-2027-29/)
+*   [Education Loan Complete Guide for Students](/blog/education-loan-guide-mba-btech/)
 
-[👉 Confused about your career path? Get expert Career Counselling today!](/inquiry)
+[👉 Confused about your career path? Get expert Career Counselling today!](/inquiry/)
 
 ---
 
@@ -115,6 +115,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

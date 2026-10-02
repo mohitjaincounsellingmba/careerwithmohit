@@ -54,7 +54,7 @@ Cracking the **JEE Advanced** is not just about intelligence; it's about enduran
 
 [MockTestCard title="Free JEE Advanced 2026 Full CBT Mock Test 2026" link="/tools/jee-advanced-mock-test" questions="54 Questions" time="180 Mins"]
 
-To help you dominate the 2026 exam, we've launched a **[Free Full-Length JEE Advanced Mock Test Tool](/tools/jee-advanced-mock-test)** that simulates the exact intensity of Paper 1.
+To help you dominate the 2026 exam, we've launched a **[Free Full-Length JEE Advanced Mock Test Tool](/tools/jee-advanced-mock-test/)** that simulates the exact intensity of Paper 1.
 
 ---
 
@@ -94,4 +94,4 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

@@ -256,7 +256,7 @@ export function NewsClient({ items }: { items: NewsItem[] }) {
                 Read Full Update <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link
-                href="/inquiry"
+                href="/inquiry/"
                 className="text-[11px] font-semibold text-slate-400 hover:text-slate-700 transition-colors"
               >
                 Consult on this →

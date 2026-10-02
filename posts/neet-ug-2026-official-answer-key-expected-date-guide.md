@@ -72,17 +72,17 @@ To estimate your marks:
 - **Incorrect Answer:** -1 Mark
 - **Unattempted:** 0 Marks
 
-[👉 Check: NEET UG 2026 Detailed Paper Analysis & Difficulty Level](/blog/neet-2026-paper-analysis-review)
+[👉 Check: NEET UG 2026 Detailed Paper Analysis & Difficulty Level](/blog/neet-2026-paper-analysis-review/)
 
 ## 5. What’s Next?
 After the final answer key, the NTA will declare the **NEET UG 2026 Result** and the All India Rank (AIR). This will be followed by the MCC counseling for 15% All India Quota and respective state counseling for 85% state quota seats.
 
-[👉 Learn More: All About NEET Exam 2026 - Eligibility & Cutoffs](/blog/all-about-neet-exam)
+[👉 Learn More: All About NEET Exam 2026 - Eligibility & Cutoffs](/blog/all-about-neet-exam/)
 
 ---
 **Confused about your MBBS/BDS options based on your estimated score?** Get a personalized session with our medical admission experts to explore top private and government colleges.
 
-[👉 Book Your Career Counselling Session!](/inquiry)
+[👉 Book Your Career Counselling Session!](/inquiry/)
 
 ---
 
@@ -104,6 +104,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

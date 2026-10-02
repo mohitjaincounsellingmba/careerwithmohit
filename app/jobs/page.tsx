@@ -251,7 +251,7 @@ export default function JobsPage() {
         {/* Career Roadmap CTA */}
         <div className="mx-auto max-w-7xl mt-16 relative z-10">
           <Link 
-            href="/calculator/career-roadmap"
+            href="/calculator/career-roadmap/"
             className="group flex flex-col md:flex-row items-center justify-between gap-6 bg-yellow-300 border-4 border-[#18181b] p-8 shadow-[8px_8px_0px_0px_rgba(24,24,27,1)] hover:shadow-[12px_12px_0px_0px_rgba(79,70,229,1)] hover:-translate-y-1 transition-all"
           >
             <div className="flex items-center gap-6">
@@ -369,7 +369,7 @@ export default function JobsPage() {
           <p className="text-2xl font-bold mb-12 max-w-2xl mx-auto text-indigo-100">
             Get personalized career mentorship and access to high-impact roles through our referral network.
           </p>
-          <Link href="/inquiry" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
+          <Link href="/inquiry/" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
             Book Counselling <ExternalLink className="w-8 h-8" />
           </Link>
         </div>

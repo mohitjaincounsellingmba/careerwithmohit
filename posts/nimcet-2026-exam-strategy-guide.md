@@ -112,16 +112,16 @@ Ideally, 4 months before the exam. Don't wait to finish the syllabus. Start with
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [How to Choose Between MCA and MBA](/blog/mca-vs-mba-career-comparison-2027-29)
-- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [How to Choose Between MCA and MBA](/blog/mca-vs-mba-career-comparison-2027-29/)
+- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
 **Don't Just Study, Strategize.**
 NIMCET is a math-war. Don't get lost in English or Computers. Mohit Jain provides a "NIMCET Precision Audit"—analyzing your current math scores and helping you build the "80/20" plan to master the topics that bring 600 marks.
 
-[👉 Book My NIMCET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My NIMCET Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -129,6 +129,6 @@ NIMCET is a math-war. Don't get lost in English or Computers. Mohit Jain provide
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

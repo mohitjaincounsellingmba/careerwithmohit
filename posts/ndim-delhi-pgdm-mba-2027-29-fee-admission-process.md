@@ -79,7 +79,7 @@ state: Delhi NCR
 > - **₹2.5 Crore Scholarship & Rebate Pool**: Merit waivers for high CAT/XAT/MAT/CMAT percentiles and special category rebates (Defense wards, single parent wards, NDIM alumni siblings, J&K/NE students, SC/ST/OBC/EWS).
 > - **AIU MBA Equivalence & 100% Placements**: AICTE-approved 2-year full-time PGDM with Dual Specializations; 100% placement record with an average CTC of **₹10.00 LPA** (Top 25% at **₹12.80 LPA**) and highest package of **₹24.00 LPA**.
 
-**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)**, established in 1992 and located in the institutional hub of South Delhi (Tughlakabad), is widely recognized as one of India's leading business schools. Operating its **32nd Batch (2027–2029)**, NDIM holds premier accreditations including **AICTE Approval, NBA Accreditation, and AIU MBA Equivalence**.
+**[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)**, established in 1992 and located in the institutional hub of South Delhi (Tughlakabad), is widely recognized as one of India's leading business schools. Operating its **32nd Batch (2027–2029)**, NDIM holds premier accreditations including **AICTE Approval, NBA Accreditation, and AIU MBA Equivalence**.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in Delhi NCR, this comprehensive guide provides the latest, officially updated insights into **NDIM's 2027–2029 fee schedule, semester payment options, ₹2.5 Crore scholarship pool, admission stages, entrance cutoffs, and audited placement reports**.
 
@@ -91,7 +91,7 @@ The table below outlines key institutional metrics and admission facts for **NDI
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)** |
 | **Established Year** | 1992 (Over 3 decades of management legacy) |
 | **Batch Intake** | **32nd Batch (2027–2029 Intake)** |
 | **Campus Location** | Tughlakabad Institutional Area, South Delhi, Delhi 110062 |
@@ -291,13 +291,13 @@ NDIM Delhi continues its **100% placement legacy** driven by its strong corporat
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by IIM-A Alumni |
-| **[FIIB South Delhi](/colleges/fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
-| **[Jaipuria Institute (Noida/LKO/JAI)](/colleges/jaipuria-noida)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member, NBA |
-| **[JIMS Rohini / Kalkaji](/colleges/jims-kalkaji)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
-| **[ISBR Bangalore](/colleges/isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · ₹2.5 Cr Scholarships** |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by IIM-A Alumni |
+| **[FIIB South Delhi](/colleges/fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
+| **[Jaipuria Institute (Noida/LKO/JAI)](/colleges/jaipuria-noida/)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member, NBA |
+| **[JIMS Rohini / Kalkaji](/colleges/jims-kalkaji/)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[ISBR Bangalore](/colleges/isbr-bangalore/)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ---
 
@@ -314,11 +314,11 @@ NDIM Delhi continues its **100% placement legacy** driven by its strong corporat
 For aspirants targeting NDIM’s 32nd Batch (2027–29), applying in early rounds (October–January) offers distinct advantages in scholarship consideration, hostel allotment, and interview slot flexibility.
 
 Explore related MBA resources:
-*   [Top Tier MBA Colleges in India: Compare Fees & Placements](/top-tier-mba-colleges)
-*   [Top 10 MBA Colleges in Delhi NCR 2027–29](/blog/top-10-mba-colleges-delhi-ncr-2027-29)
-*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/ndim-delhi-review-2027-29)
-*   [MBA & PGDM Direct Admission Complete Guide 2027](/mba-pgdm-admission-2027)
-*   [Explore 200+ Top Business Schools in India](/colleges)
+*   [Top Tier MBA Colleges in India: Compare Fees & Placements](/top-tier-mba-colleges/)
+*   [Top 10 MBA Colleges in Delhi NCR 2027–29](/blog/top-10-mba-colleges-delhi-ncr-2027-29/)
+*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/ndim-delhi-review-2027-29/)
+*   [MBA & PGDM Direct Admission Complete Guide 2027](/mba-pgdm-admission-2027/)
+*   [Explore 200+ Top Business Schools in India](/colleges/)
 
 [InquiryCard title="Apply for NDIM Delhi PGDM 2027–2029" subtitle="Check scholarship eligibility from the ₹2.5 Cr pool, compare cutoffs, and get 1-on-1 expert admission guidance." ctaText="Apply Now / Request Callback"]
 
@@ -348,6 +348,6 @@ NDIM accepts scores from **CAT, XAT, MAT, CMAT, ATMA, and GMAT**. Candidates sco
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

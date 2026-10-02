@@ -45,7 +45,7 @@ state: Maharashtra
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-Located in the serene surroundings of Mira Road, Mumbai, **N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida) and Research (NLDIMSR)** is widely regarded as one of India's premier destinations for Finance-focused management education. 
+Located in the serene surroundings of Mira Road, Mumbai, **N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida/) and Research (NLDIMSR)** is widely regarded as one of India's premier destinations for Finance-focused management education. 
 
 Founded in 1995, the institute has built a reputation for academic excellence and industry-readiness, particularly through its state-of-the-art **Bloomberg Lab**. Here is everything you need to know about NL Dalmia for the 2025-2026 admission cycle.
 
@@ -116,7 +116,7 @@ The institute is a regular hunting ground for global financial giants:
 
 ---
 
-[👉 Check out other Top MBA Colleges in Mumbai](/blog/best-mba-colleges-in-mumbai-2027-29) | [💬 Get a Free Profile Evaluation from Mohit Jain](/inquiry)
+[👉 Check out other Top MBA Colleges in Mumbai](/blog/best-mba-colleges-in-mumbai-2027-29/) | [💬 Get a Free Profile Evaluation from Mohit Jain](/inquiry/)
 
 ---
 
@@ -138,7 +138,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -152,6 +152,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

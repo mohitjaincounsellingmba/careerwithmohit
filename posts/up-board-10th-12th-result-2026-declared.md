@@ -90,15 +90,15 @@ You can also fetch your verified digital marksheet from the **DigiLocker** app b
 Congratulations on clearing your boards! Now is the time to make the most important decision for your career. Whether you are aiming for Engineering, Management, or Law, we are here to help.
 
 **Recommended Resources for 12th Students:**
-*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2027-29)
-*   [Top B.Tech Colleges in Delhi NCR: Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-*   [BBA vs B.Com vs BMS: Which is Better for Your Career?](/blog/bba-vs-bcom-vs-bms-career-comparison)
-*   [Direct Admission in Top MBA/BBA Colleges 2026](/blog/direct-bba-admission-2026-management-quota)
+*   [Career Options After 12th Science: PCM & PCB Roadmap](/blog/career-options-after-12th-science-2027-29/)
+*   [Top B.Tech Colleges in Delhi NCR: Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+*   [BBA vs B.Com vs BMS: Which is Better for Your Career?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+*   [Direct Admission in Top MBA/BBA Colleges 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 **Confused About Your Marks?**
 If you are not satisfied with your results, the UP Board will soon open the portal for **Scrutiny (Re-evaluation)** and **Compartment Exams**. Stay tuned for updates on application dates.
 
-[👉 Need Career Counselling? Connect with Mohit Jain Now!](/inquiry)
+[👉 Need Career Counselling? Connect with Mohit Jain Now!](/inquiry/)
 
 ---
 
@@ -120,6 +120,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

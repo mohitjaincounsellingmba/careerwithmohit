@@ -220,19 +220,19 @@ Once you crack the exam, you'll go through **counselling and campus/branch allot
 
 **Ready to practice?**
 
-👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee)
+👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee/)
 
-👉 [Explore All SRM University Campuses & Fees](/blog/all-about-srm-university-campuses)
+👉 [Explore All SRM University Campuses & Fees](/blog/all-about-srm-university-campuses/)
 
-👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29)
+👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29/)
 
-👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026)
+👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026/)
 
 ---
 
 **Need personalised guidance on SRM admission or counselling?**
 
-[📞 Book a Free Counselling Session](/inquiry)
+[📞 Book a Free Counselling Session](/inquiry/)
 
 ---
 
@@ -259,6 +259,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

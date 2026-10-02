@@ -126,14 +126,14 @@ Yes, the NTA follows a **+4 / -1** marking scheme. Every correct answer gives yo
 ---
 
 ## 📍 Related Resources for CUET PG Aspirants:
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
-- [CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
+- [CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor/)
 
 **Confused about your application strategy?**
 Don't guess your career. Build a winning roadmap with Mohit Jain.
 
-[👉 Book My Personalised Counselling Session](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
+[👉 Book My Personalised Counselling Session](/inquiry/) | [💬 WhatsApp Support](https://wa.me/919560020771)
 
 
 
@@ -142,6 +142,6 @@ Don't guess your career. Build a winning roadmap with Mohit Jain.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

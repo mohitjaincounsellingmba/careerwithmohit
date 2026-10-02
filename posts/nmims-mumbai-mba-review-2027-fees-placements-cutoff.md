@@ -62,7 +62,7 @@ state: Maharashtra
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹28.00 Lakhs (Total)** against an audited average domestic CTC of **₹26.63 LPA** (Median: **₹24.50 LPA**, Highest: **₹67.80 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **NMAT by GMAC** score (**232+ NMAT Score**) followed by structured GD-PI / WAT evaluation rounds.
 
-[InquiryCard title="Get Personalized Admission Guidance for [NMIMS Mumbai](/colleges/nmims-mumbai)" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Get Personalized Admission Guidance for [NMIMS Mumbai](/colleges/nmims-mumbai/)" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 
 Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [NMIMS School of Business Management (SBM Mumbai)](/colleges/nmims-mumbai/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
 
@@ -204,7 +204,7 @@ Yes, **NMIMS School of Business Management (SBM Mumbai)** offers merit scholarsh
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

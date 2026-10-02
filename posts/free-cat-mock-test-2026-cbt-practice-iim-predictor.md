@@ -54,7 +54,7 @@ state: Delhi NCR
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]
 
-The **Common Admission Test (CAT 2026)** is the gateway to India's top business schools, including the prestigious **[IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [FMS Delhi](/colleges/fms-delhi), and [SPJIMR Mumbai](/colleges/spjimr-mumbai)**. Over 3.3 lakh aspirants compete each year, making test stamina, section selection, and accuracy the true differentiators between a 90%ile and a **99.5+%ile score**.
+The **Common Admission Test (CAT 2026)** is the gateway to India's top business schools, including the prestigious **[IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [FMS Delhi](/colleges/fms-delhi/), and [SPJIMR Mumbai](/colleges/spjimr-mumbai/)**. Over 3.3 lakh aspirants compete each year, making test stamina, section selection, and accuracy the true differentiators between a 90%ile and a **99.5+%ile score**.
 
 To help you benchmark your preparation under authentic exam conditions, **CareerWithMohit** provides a **100% Free, Full-Length CAT 2026 CBT Mock Test** featuring 68 authentic questions, realistic sectional timers, an on-screen calculator, instant percentile calculation, and complete step-by-step solutions.
 
@@ -92,4 +92,4 @@ A raw score of 85+ (out of 198) is typically required to secure a 99+ percentile
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

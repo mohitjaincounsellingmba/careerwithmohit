@@ -47,10 +47,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Taxila Business School](/colleges/taxila-jaipur)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
-| **[Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
+| **[Taxila Business School](/colleges/taxila-jaipur/)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
+| **[Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur/)** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
 | **Manipal University, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.50 LPA** |
-| **[IIHMR University](/colleges/iihmr-university), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
+| **[IIHMR University](/colleges/iihmr-university/), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -71,13 +71,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Jaipur
 
-### 1. [Taxila Business School](/colleges/taxila-jaipur)
+### 1. [Taxila Business School](/colleges/taxila-jaipur/)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹11.50 LPA**
 - **Key Highlight:** Rigorous curriculum featuring specialized training in SAP and business analytics modules.
 
-### 2. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)
+### 2. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur/)
 - **Approximate Fees:** ₹11.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹7.40 LPA**
@@ -89,7 +89,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** State-of-the-art campus offering solid placement opportunities in corporate analytics division.
 
-### 4. [IIHMR University](/colleges/iihmr-university), Jaipur
+### 4. [IIHMR University](/colleges/iihmr-university/), Jaipur
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -106,9 +106,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -118,17 +118,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is [Taxila Business School](/colleges/taxila-jaipur) good for Business Analytics?
+### Is [Taxila Business School](/colleges/taxila-jaipur/) good for Business Analytics?
 Yes, Taxila is known for its intense industry-oriented curriculum, offering strong training in business analytics tools, dashboarding, and SAP systems.
 
-### Does [Jaipuria Jaipur](/colleges/jaipuria-jaipur) offer specialization in Business Analytics?
-Yes, [Jaipuria Jaipur](/colleges/jaipuria-jaipur) provides specialized management electives focusing on analytics, marketing metrics, and financial modeling.
+### Does [Jaipuria Jaipur](/colleges/jaipuria-jaipur/) offer specialization in Business Analytics?
+Yes, [Jaipuria Jaipur](/colleges/jaipuria-jaipur/) provides specialized management electives focusing on analytics, marketing metrics, and financial modeling.
 
 ### What is the average placement salary for MBA in Jaipur?
 The average placement package for private management B-schools in Jaipur ranges from INR 6.5 LPA to 7.5 LPA, with some specialized programs securing higher packages.
@@ -136,6 +136,6 @@ The average placement package for private management B-schools in Jaipur ranges 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

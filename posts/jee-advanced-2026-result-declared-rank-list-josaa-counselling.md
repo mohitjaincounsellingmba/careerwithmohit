@@ -41,7 +41,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for JEE Advanced 2026 Result Declared: Check Rank ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The wait is finally over! **IIT Roorkee** has officially declared the **JEE Advanced 2026 results** on **May 31, 2026** — a day ahead of the originally scheduled date of June 1. Over 1.8 lakh students who appeared for the exam on **May 17, 2026** can now access their scorecards, All India Rank (AIR), and category-wise ranks on the official portal.
 
@@ -134,17 +134,17 @@ Don't be disheartened — this is not the end of the road. Here are your options
 | **Round 1 Seat Allotment** | June 23, 2026 |
 | **Round 2 Allotment** | June 28, 2026 |
 
-For a complete step-by-step counselling guide, check out: [JoSAA Counselling 2026: Dates, Process & Registration Guide](/blog/josaa-counselling-2026-dates-process-registration)
+For a complete step-by-step counselling guide, check out: [JoSAA Counselling 2026: Dates, Process & Registration Guide](/blog/josaa-counselling-2026-dates-process-registration/)
 
 ---
 
 ## Useful Resources for Your Next Steps
 
-- [JEE Main 2026 College Predictor: Find Your Best B.Tech College](/blog/jee-main-2026-college-predictor-rank-vs-college)
-- [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [How to Crack JEE Advanced 2026 – Preparation Strategy](/blog/how-to-crack-jee-advanced-2027-29)
-- [Free JEE Advanced Mock Test 2026](/blog/free-jee-advanced-mock-test-2026)
-- [Best B.Tech Colleges in India 2026 (NIRF Ranking)](/blog/best-btech-colleges-india-2026)
+- [JEE Main 2026 College Predictor: Find Your Best B.Tech College](/blog/jee-main-2026-college-predictor-rank-vs-college/)
+- [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [How to Crack JEE Advanced 2026 – Preparation Strategy](/blog/how-to-crack-jee-advanced-2027-29/)
+- [Free JEE Advanced Mock Test 2026](/blog/free-jee-advanced-mock-test-2026/)
+- [Best B.Tech Colleges in India 2026 (NIRF Ranking)](/blog/best-btech-colleges-india-2026/)
 
 ---
 
@@ -152,7 +152,7 @@ For a complete step-by-step counselling guide, check out: [JoSAA Counselling 202
 
 Choosing the right IIT branch or deciding between IIT, NIT, and private institutes can be overwhelming. Our expert counsellors at **CareerWithMohit** have helped thousands of students convert their JEE ranks into admissions at the best possible institutions.
 
-[👉 Book a Free Counselling Session Today!](/inquiry)
+[👉 Book a Free Counselling Session Today!](/inquiry/)
 
 ---
 
@@ -175,6 +175,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

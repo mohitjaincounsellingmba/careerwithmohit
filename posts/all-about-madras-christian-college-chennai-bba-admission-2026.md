@@ -75,16 +75,16 @@ Yes, MCC has legendary "Halls of Residence" (hostels), but competition for seats
 No, Madras Christian College is a co-educational institution for all its undergraduate and postgraduate programs.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026)
-- [Loyola College Chennai BBA Admission Guide 2026](/blog/all-about-loyola-college-chennai-bba-admission-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026/)
+- [Loyola College Chennai BBA Admission Guide 2026](/blog/all-about-loyola-college-chennai-bba-admission-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Love nature and management?**
 MCC is the only college in India with a scrub jungle on campus. Mohit Jain’s "Chennai College Audit" helps you compare MCC with Loyola to see which environment suits your learning style better.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -94,6 +94,6 @@ MCC is the only college in India with a scrub jungle on campus. Mohit Jain’s "
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -66,12 +66,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 5. [Techno India University](/colleges/techno-india-university-kolkata)
+### 5. [Techno India University](/colleges/techno-india-university-kolkata/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. [Amity University](/colleges/amity-noida) Kolkata
+### 6. [Amity University](/colleges/amity-noida/) Kolkata
 - **Approximate Annual Fees:** ₹2.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -81,7 +81,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 8. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)
+### 8. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/)
 - **Approximate Annual Fees:** ₹1.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -91,7 +91,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 10. [Adamas University](/colleges/adamas-university)
+### 10. [Adamas University](/colleges/adamas-university/)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -106,12 +106,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Kolkata for 2026** to hel
 | **2** | **J.D. Birla Institute** | Merit | ₹1.0 Lakhs |
 | **3** | **Bhawanipur Education Society** | Merit | ₹60,000 |
 | **4** | **Scottish Church College** | Merit | ₹50,000 |
-| **5** | **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit | ₹1.2 Lakhs |
-| **6** | **[Amity University](/colleges/amity-noida) Kolkata** | Merit | ₹2.0 Lakhs |
+| **5** | **[Techno India University](/colleges/techno-india-university-kolkata/)** | Merit | ₹1.2 Lakhs |
+| **6** | **[Amity University](/colleges/amity-noida/) Kolkata** | Merit | ₹2.0 Lakhs |
 | **7** | **UEM Kolkata** | Merit | ₹1.1 Lakhs |
-| **8** | **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)** | Merit | ₹1.0 Lakhs |
+| **8** | **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/)** | Merit | ₹1.0 Lakhs |
 | **9** | **Brainware University** | Merit | ₹90,000 |
-| **10** | **[Adamas University](/colleges/adamas-university)** | Merit | ₹1.1 Lakhs |
+| **10** | **[Adamas University](/colleges/adamas-university/)** | Merit | ₹1.1 Lakhs |
 
 
 ---
@@ -122,16 +122,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Kolkata?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -149,6 +149,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

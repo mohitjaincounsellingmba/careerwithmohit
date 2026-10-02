@@ -44,7 +44,7 @@ Succeeding in the **NMAT 2026 (For Admission 2027)** entrance exam demands not j
 
 [MockTestCard title="Free NMAT 2026 Full CBT Mock Test 2026" link="/nmat-mock-test" questions="108 Questions" time="120 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free NMAT 2026 (For Admission 2027) Mock Test](/tools/nmat-mock-test)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free NMAT 2026 (For Admission 2027) Mock Test](/tools/nmat-mock-test/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -84,4 +84,4 @@ The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top colleges 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

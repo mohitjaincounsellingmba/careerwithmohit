@@ -85,10 +85,10 @@ While DU provides hostel facilities, availability is quite limited compared to t
 *   **Merit-Based:** Allotment is highly merit-based, factoring in CUET scores and sometimes personal interviews.
 
 ### **Check Other University Reviews:**
-*   [Banaras Hindu University (BHU) Review 2026](/blog/banaras-hindu-university-bhu-review-2027-29)
-*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2027-29)
+*   [Banaras Hindu University (BHU) Review 2026](/blog/banaras-hindu-university-bhu-review-2027-29/)
+*   [Jamia Millia Islamia (JMI) Review 2026](/blog/jamia-millia-islamia-jmi-review-2027-29/)
 
-[👉 Need guidance for DU Admissions? Book a Consultation!](/inquiry)
+[👉 Need guidance for DU Admissions? Book a Consultation!](/inquiry/)
 
 ---
 
@@ -108,4 +108,4 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Aiming for top DU colleges? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to get real-time exam experience and maximize your scores.
+Aiming for top DU colleges? **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and maximize your scores.

@@ -40,7 +40,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for BSEB 10th Result 2026 Declared: Check Bihar Bo...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Bihar School Examination Board (BSEB) has officially announced the **Bihar Board Class 10 Result 2026 today, March 29, 2026, at 1:15 PM**. Over 16 lakh students who appeared for the Matric examinations held in February can now access their marks and download the provisional marksheet online.
 
@@ -80,10 +80,10 @@ Students can follow these simple steps to access their results:
 The declaration of the Matric result is the first major milestone in your academic journey. Now is the time to decide which stream—Science (PCM/PCB), Commerce, or Arts—best suits your career goals. 
 
 For students in Bihar, planning ahead for higher education and professional degrees is crucial. Check out our resources for the next steps:
-*   [Bihar Board 12th Result 2026: What to Expect Next](/blog/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/blog/career-roadmaps-2027-29)
-*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
-*   [Bihar Student Credit Card (BSCC) Scheme: A Complete Guide](/blog/bihar-student-credit-card-mba-colleges)
+*   [Bihar Board 12th Result 2026: What to Expect Next](/blog/bihar-board-12th-result-2026-expected-date/)
+*   [Career Roadmaps 2026: Planning Your Future After Board Exams](/blog/career-roadmaps-2027-29/)
+*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites/)
+*   [Bihar Student Credit Card (BSCC) Scheme: A Complete Guide](/blog/bihar-student-credit-card-mba-colleges/)
 
 ### **Details to Verify on BSEB 10th Marksheet**
 Ensure that the following details on your provisional result are correct. If you find any discrepancies, contact your school or the BSEB helpdesk immediately:
@@ -97,7 +97,7 @@ Ensure that the following details on your provisional result are correct. If you
 **Looking for Career Guidance?**
 Choosing between Science, Commerce, and Arts after 10th can be overwhelming. At **CareerWithMohit**, we help students identify their strengths and map out a successful path towards rewarding careers in MBA, B.Tech, or Government jobs.
 
-[👉 Connect with our expert counselors for free guidance!](/inquiry)
+[👉 Connect with our expert counselors for free guidance!](/inquiry/)
 
 ---
 
@@ -119,6 +119,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

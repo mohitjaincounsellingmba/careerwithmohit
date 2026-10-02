@@ -712,7 +712,7 @@ export default function OnlineDegreePage() {
               </p>
             </div>
             <Link
-              href="/online-degree-certification/online-mba"
+              href="/online-degree-certification/online-mba/"
               className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-display font-extrabold text-sm transition-all shadow-[0_12px_26px_-12px_rgba(37,99,235,0.85)] hover:-translate-y-0.5 self-start sm:self-auto"
             >
               <span>Explore Online MBA Hub</span>
@@ -742,10 +742,10 @@ export default function OnlineDegreePage() {
                 </div>
               </div>
               <div className="pt-4 border-t border-[#061124]/8 flex items-center justify-between">
-                <Link href="/online-degree-certification/online-mba" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
+                <Link href="/online-degree-certification/online-mba/" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
                   Explore MBA Hub <ArrowRight size={13} />
                 </Link>
-                <Link href="/online-degree-certification/online-pgdm" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
+                <Link href="/online-degree-certification/online-pgdm/" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
                   PGDM Hub →
                 </Link>
               </div>
@@ -772,10 +772,10 @@ export default function OnlineDegreePage() {
                 </div>
               </div>
               <div className="pt-4 border-t border-[#061124]/8 flex items-center justify-between">
-                <Link href="/online-degree-certification/online-mca" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
+                <Link href="/online-degree-certification/online-mca/" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
                   Explore Online MCA <ArrowRight size={13} />
                 </Link>
-                <Link href="/online-degree-certification/online-bca" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
+                <Link href="/online-degree-certification/online-bca/" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
                   BCA Hub →
                 </Link>
               </div>
@@ -802,10 +802,10 @@ export default function OnlineDegreePage() {
                 </div>
               </div>
               <div className="pt-4 border-t border-[#061124]/8 flex items-center justify-between">
-                <Link href="/online-degree-certification/online-ma-english" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
+                <Link href="/online-degree-certification/online-ma-english/" className="font-mono text-xs font-extrabold text-[#2563EB] hover:underline flex items-center gap-1">
                   MA English Guide <ArrowRight size={13} />
                 </Link>
-                <Link href="/online-degree-certification/online-bcom" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
+                <Link href="/online-degree-certification/online-bcom/" className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB]">
                   B.Com Hub →
                 </Link>
               </div>
@@ -1069,7 +1069,7 @@ export default function OnlineDegreePage() {
                 <a href="tel:+919560020771" className="font-mono text-xs font-bold text-[#061124] bg-white border border-[#061124]/15 px-4 py-2 rounded-full hover:bg-slate-50 flex items-center gap-1.5 shadow-2xs">
                   <Phone size={13} className="text-[#2563EB]" /> +91 95600 20771
                 </a>
-                <Link href="/about" className="font-mono text-xs font-bold text-[#2563EB] hover:underline py-2 flex items-center gap-1">
+                <Link href="/about/" className="font-mono text-xs font-bold text-[#2563EB] hover:underline py-2 flex items-center gap-1">
                   About Mohit Jain →
                 </Link>
               </div>

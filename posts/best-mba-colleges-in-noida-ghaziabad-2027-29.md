@@ -11,7 +11,7 @@ keywords:
   - MBA colleges in Noida fees
   - IMT Ghaziabad placements
   - BIMTECH Greater Noida fees
-  - '[Jaipuria Noida](/colleges/jaipuria-noida) average package'
+  - '[Jaipuria Noida](/colleges/jaipuria-noida/) average package'
   - MBA admission Noida 2027–29
   - Noida Colleges
   - Best Colleges in Noida
@@ -70,7 +70,7 @@ These institutes are nationally ranked and are the primary choice for students s
 - **Entrance Exam:** CAT, XAT, GMAT
 - **USP:** Known as the "Marketing Hub" of North India with an unparalleled alumni network.
 
-### 2. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
+### 2. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/))
 - **Status:** A premier institute backed by the Birla legacy.
 - **Fees:** ₹14.0 Lakhs
 - **Average Placement:** ₹10.5 LPA (International ₹24.4 LPA)
@@ -82,7 +82,7 @@ These institutes are nationally ranked and are the primary choice for students s
 ## Tier 2: Strong Industrial Interface
 These colleges offer a great balance of academic rigor and corporate connectivity.
 
-### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida
+### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Noida
 - **Fees:** ₹15.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **Entrance Exam:** CAT, XAT, MAT, CMAT
@@ -111,12 +111,12 @@ Ideal for students looking for decent placements with moderate entrance scores.
 - **Average Placement:** ₹8.5 - ₹10.5 LPA
 - **USP:** High ROI and strong placements in the BFSI and IT sectors.
 
-### 7. [Sharda University](/colleges/sharda-greater-noida), Greater Noida
+### 7. [Sharda University](/colleges/sharda-greater-noida/), Greater Noida
 - **Fees:** ₹8.6 Lakhs
 - **Average Placement:** ₹10.0 LPA
 - **USP:** A global university with diverse peer groups and interdisciplinary learning opportunities.
 
-### 8. [Galgotias University](/colleges/galgotias-university), Greater Noida
+### 8. [Galgotias University](/colleges/galgotias-university/), Greater Noida
 - **Fees:** ₹3.5 Lakhs (MBA)
 - **Average Placement:** ₹5.25 LPA
 - **USP:** Modern pedagogy and strong focus on technology-driven management roles.
@@ -134,14 +134,14 @@ Ideal for students looking for decent placements with moderate entrance scores.
 - **If you want Insurance or Retail:** **BIMTECH** is the clear leader.
 - **If you want the best ROI:** **IMS Ghaziabad or G.L. Bajaj** offer excellent value for money.
 
-[👉 Still confused about which college fits your percentile? Get a free profile evaluation from Mohit Jain!](/inquiry)
+[👉 Still confused about which college fits your percentile? Get a free profile evaluation from Mohit Jain!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -156,7 +156,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -170,6 +170,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

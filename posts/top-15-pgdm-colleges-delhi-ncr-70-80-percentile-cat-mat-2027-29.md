@@ -101,7 +101,7 @@ state: Delhi NCR
 
 # Top 15 PGDM Colleges in Delhi NCR Accepting 70-80 Percentile in CAT / MAT (2027-29)
 
-Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi) or [IIT Delhi DMS](/blog/all-about-iiit-colleges-review) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
+Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi/) or [IIT Delhi DMS](/blog/all-about-iiit-colleges-review/) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
 
 These institutions provide state-of-the-art infrastructure, dual-specialization flexibility (such as FinTech, AI & Business Analytics, Digital Marketing, and Supply Chain Logistics), and direct access to over 250 Fortune 500 corporate headquarters across Cyber City, Noida Expressway, and South Delhi. With average placement packages spanning **₹6.50 LPA to ₹12.30 LPA**, they offer exceptional **Return on Investment (ROI)** for pragmatic management candidates.
 
@@ -111,7 +111,7 @@ In this comprehensive **1800+ word master guide by career counselor Mohit Jain**
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > * **High ROI & Solid Packages (₹6–12 LPA):** Delhi NCR institutions in the 70–80 percentile bracket deliver average placement salaries between ₹6.5 LPA and ₹12.3 LPA, with top tier recruiters like Deloitte, EY, Amazon, ICICI, and Dabur visiting annually.
-> * **AICTE Approved & AIU MBA Equivalence:** Flagship colleges like NDIM New Delhi, [Jaipuria Noida](/colleges/jaipuria-noida), JIMS Rohini, FIIB Delhi, and ASM Dwarka hold AIU accreditation, making their PGDM equivalent to an MBA degree for global recognition and higher studies.
+> * **AICTE Approved & AIU MBA Equivalence:** Flagship colleges like NDIM New Delhi, [Jaipuria Noida](/colleges/jaipuria-noida/), JIMS Rohini, FIIB Delhi, and ASM Dwarka hold AIU accreditation, making their PGDM equivalent to an MBA degree for global recognition and higher studies.
 > * **Strategic Application Advantage:** Most 70–80 percentile B-schools offer multi-round admissions. Applying in Round 1 (October–January) unlocks maximum merit scholarships (up to ₹1.5 Lakhs) and preferential specialization choices.
 
 ---
@@ -127,11 +127,11 @@ In this comprehensive **1800+ word master guide by career counselor Mohit Jain**
     ▼                               ▼                               ▼
 Tier 2A: Flagship Leaders       Tier 2B: Balanced ROI           Tier 2C: High-Value Budget
 (CAT 75-80% | Avg ₹9-12.3 LPA)  (CAT 70-75% | Avg ₹7.8-9 LPA)   (CAT 65-70% | Avg ₹6.2-7.5 LPA)
-• [Jaipuria Noida](/colleges/jaipuria-noida)           • [FIIB Delhi](/colleges/fiib-delhi)                 • [ITS Ghaziabad](/colleges/its-ghaziabad)
-• [NDIM New Delhi](/colleges/ndim-delhi)           • [DSB New Delhi](/colleges/dsb-delhi)              • [GL Bajaj Gr. Noida](/colleges/gl-bajaj-greater-noida)
-• [FOSTIIMA Delhi](/colleges/fostiima-delhi)           • [JIMS Rohini / Kalkaji](/colleges/jims-kalkaji)      • [GNIOT GIMS](/colleges/gniot-greater-noida)
-• [IILM Gurgaon / Lodhi Rd](/colleges/iilm-gurgaon)    • [ASM Dwarka](/colleges/asm-apeejay-delhi)             • [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
-• [IMS Ghaziabad](/colleges/its-ghaziabad)             • [EMPI New Delhi](/colleges/empi-delhi)            • [Accurate Gr. Noida](/colleges/accurate-greater-noida)
+• [Jaipuria Noida](/colleges/jaipuria-noida/)           • [FIIB Delhi](/colleges/fiib-delhi/)                 • [ITS Ghaziabad](/colleges/its-ghaziabad/)
+• [NDIM New Delhi](/colleges/ndim-delhi/)           • [DSB New Delhi](/colleges/dsb-delhi/)              • [GL Bajaj Gr. Noida](/colleges/gl-bajaj-greater-noida/)
+• [FOSTIIMA Delhi](/colleges/fostiima-delhi/)           • [JIMS Rohini / Kalkaji](/colleges/jims-kalkaji/)      • [GNIOT GIMS](/colleges/gniot-greater-noida/)
+• [IILM Gurgaon / Lodhi Rd](/colleges/iilm-gurgaon/)    • [ASM Dwarka](/colleges/asm-apeejay-delhi/)             • [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
+• [IMS Ghaziabad](/colleges/its-ghaziabad/)             • [EMPI New Delhi](/colleges/empi-delhi/)            • [Accurate Gr. Noida](/colleges/accurate-greater-noida/)
 ```
 
 ---
@@ -146,21 +146,21 @@ The structured comparison table below outlines the 2-year total tuition fees, av
 
 | College Name & Location | Total Program Fees (2 Years) | Average Package (Audited) | ROI & Admission Eligibility | Expected CAT / MAT Cutoffs |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida)** | ₹14.75 Lakhs | **₹11.29 LPA** (Highest: ₹22.0 LPA) | ⭐⭐⭐⭐⭐ (Triple NBA Accredited, AIU Equivalent, Centralized Placements) | CAT: 75–80% \| MAT: 80–85% |
-| **[New Delhi Institute of Management (NDIM), New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | **₹10.20 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐⭐ (34-Yr Legacy, AICTE-CII Best Industry Linked B-School) | CAT: 75–80% \| MAT: 80–85% |
-| **[FOSTIIMA Business School, New Delhi](/colleges/fostiima-delhi)** | ₹11.95 Lakhs | **₹9.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐⭐ (Founded by IIM-A Alumni, High ROI, South-West Delhi Hub) | CAT: 70–75% \| MAT: 75–80% |
-| **[Fortune Institute of International Business (FIIB), Delhi](/colleges/fiib-delhi)** | ₹10.85 Lakhs | **₹8.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐ (Vasant Vihar Location, Heavy Analytics & FinTech Integration) | CAT: 70–75% \| MAT: 75–80% |
-| **[IILM Institute for Higher Education / IILM Gurgaon](/colleges/iilm-gurgaon)** | ₹11.50 Lakhs | **₹8.90 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐ (Prime Cyber City Corporate Access, Global Mentorship) | CAT: 70–75% \| MAT: 75–80% |
-| **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/colleges/its-ghaziabad)** | ₹9.50 Lakhs | **₹8.50 LPA** (Highest: ₹28.0 LPA) | ⭐⭐⭐⭐ (NAAC A++ Grade, 34-Yr Legacy, Strong FMCG Recruiter Base) | CAT: 70–75% \| MAT: 75–80% |
-| **[JIMS Rohini (Sector 5), New Delhi](/colleges/jims-kalkaji)** | ₹9.70 Lakhs | **₹8.30 LPA** (Highest: ₹22.0 LPA) | ⭐⭐⭐⭐ (NBA, NAAC Accredited, AIU Equivalent, Strong North Delhi Brand) | CAT: 75–80% \| MAT: 80+ % |
-| **[Delhi School of Business (DSB / VIPS), New Delhi](/colleges/dsb-delhi)** | ₹10.25 Lakhs | **₹8.50 LPA** (Highest: ₹19.5 LPA) | ⭐⭐⭐⭐ (VIPS Institutional Backing, Bloomberg Finance Lab Setup) | CAT: 70–75% \| MAT: 75–80% |
-| **[Apeejay School of Management (ASM Dwarka), New Delhi](/colleges/asm-apeejay-delhi)** | ₹9.80 Lakhs | **₹8.40 LPA** (Highest: ₹17.5 LPA) | ⭐⭐⭐⭐ (ACBSP USA Accredited, AIU Equivalent, FMCG & Retail Focus) | CAT: 70–75% \| MAT: 75–80% |
-| **[JIMS Kalkaji, South Delhi](/colleges/jims-kalkaji)** | ₹9.30 Lakhs | **₹8.15 LPA** (Highest: ₹18.5 LPA) | ⭐⭐⭐⭐ (Prime South Delhi Corporate Belt, Strong Finance Placements) | CAT: 70–75% \| MAT: 75–80% |
-| **[GL Bajaj Institute of Management and Research, Gr. Noida](/colleges/gl-bajaj-greater-noida)** | ₹7.50 Lakhs | **₹7.50 LPA** (Highest: ₹16.0 LPA) | ⭐⭐⭐⭐⭐ (1:1 Fee-to-Salary ROI, High Tech & Analytics Focus) | CAT: 65–70% \| MAT: 75–80% |
-| **[ITS School of Management, Mohan Nagar, Ghaziabad](/colleges/its-ghaziabad)** | ₹7.50 Lakhs | **₹7.20 LPA** (Highest: ₹16.0 LPA) | ⭐⭐⭐⭐⭐ (Low Financial Risk, 300+ Annual Placement Drives) | CAT: 65–70% \| MAT: 70–75% |
-| **[EMPI Business School, Chattarpur, New Delhi](/colleges/empi-delhi)** | ₹8.75 Lakhs | **₹7.80 LPA** (Highest: ₹20.0 LPA) | ⭐⭐⭐ (Residential Green Campus, AI & Futuristic Tech Specializations) | CAT: 68–72% \| MAT: 70–75% |
-| **[Asian Business School (ABS), Sector 125, Noida](/colleges/asian-business-school-noida)** | ₹8.65 Lakhs | **₹7.50 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐ (Oxford Business College UK Diploma Module Included) | CAT: 65–70% \| MAT: 70–75% |
-| **[GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS), Gr. Noida](/colleges/gniot-greater-noida)** | ₹6.90 Lakhs | **₹6.80 LPA** (Highest: ₹15.5 LPA) | ⭐⭐⭐⭐ (Affordable ₹6.9L Fee, Chanakya Leadership Bootcamp) | CAT: 65–70% \| MAT: 70–75% |
+| **[Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida/)** | ₹14.75 Lakhs | **₹11.29 LPA** (Highest: ₹22.0 LPA) | ⭐⭐⭐⭐⭐ (Triple NBA Accredited, AIU Equivalent, Centralized Placements) | CAT: 75–80% \| MAT: 80–85% |
+| **[New Delhi Institute of Management (NDIM), New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | **₹10.20 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐⭐ (34-Yr Legacy, AICTE-CII Best Industry Linked B-School) | CAT: 75–80% \| MAT: 80–85% |
+| **[FOSTIIMA Business School, New Delhi](/colleges/fostiima-delhi/)** | ₹11.95 Lakhs | **₹9.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐⭐ (Founded by IIM-A Alumni, High ROI, South-West Delhi Hub) | CAT: 70–75% \| MAT: 75–80% |
+| **[Fortune Institute of International Business (FIIB), Delhi](/colleges/fiib-delhi/)** | ₹10.85 Lakhs | **₹8.80 LPA** (Highest: ₹25.0 LPA) | ⭐⭐⭐⭐ (Vasant Vihar Location, Heavy Analytics & FinTech Integration) | CAT: 70–75% \| MAT: 75–80% |
+| **[IILM Institute for Higher Education / IILM Gurgaon](/colleges/iilm-gurgaon/)** | ₹11.50 Lakhs | **₹8.90 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐⭐ (Prime Cyber City Corporate Access, Global Mentorship) | CAT: 70–75% \| MAT: 75–80% |
+| **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/colleges/its-ghaziabad/)** | ₹9.50 Lakhs | **₹8.50 LPA** (Highest: ₹28.0 LPA) | ⭐⭐⭐⭐ (NAAC A++ Grade, 34-Yr Legacy, Strong FMCG Recruiter Base) | CAT: 70–75% \| MAT: 75–80% |
+| **[JIMS Rohini (Sector 5), New Delhi](/colleges/jims-kalkaji/)** | ₹9.70 Lakhs | **₹8.30 LPA** (Highest: ₹22.0 LPA) | ⭐⭐⭐⭐ (NBA, NAAC Accredited, AIU Equivalent, Strong North Delhi Brand) | CAT: 75–80% \| MAT: 80+ % |
+| **[Delhi School of Business (DSB / VIPS), New Delhi](/colleges/dsb-delhi/)** | ₹10.25 Lakhs | **₹8.50 LPA** (Highest: ₹19.5 LPA) | ⭐⭐⭐⭐ (VIPS Institutional Backing, Bloomberg Finance Lab Setup) | CAT: 70–75% \| MAT: 75–80% |
+| **[Apeejay School of Management (ASM Dwarka), New Delhi](/colleges/asm-apeejay-delhi/)** | ₹9.80 Lakhs | **₹8.40 LPA** (Highest: ₹17.5 LPA) | ⭐⭐⭐⭐ (ACBSP USA Accredited, AIU Equivalent, FMCG & Retail Focus) | CAT: 70–75% \| MAT: 75–80% |
+| **[JIMS Kalkaji, South Delhi](/colleges/jims-kalkaji/)** | ₹9.30 Lakhs | **₹8.15 LPA** (Highest: ₹18.5 LPA) | ⭐⭐⭐⭐ (Prime South Delhi Corporate Belt, Strong Finance Placements) | CAT: 70–75% \| MAT: 75–80% |
+| **[GL Bajaj Institute of Management and Research, Gr. Noida](/colleges/gl-bajaj-greater-noida/)** | ₹7.50 Lakhs | **₹7.50 LPA** (Highest: ₹16.0 LPA) | ⭐⭐⭐⭐⭐ (1:1 Fee-to-Salary ROI, High Tech & Analytics Focus) | CAT: 65–70% \| MAT: 75–80% |
+| **[ITS School of Management, Mohan Nagar, Ghaziabad](/colleges/its-ghaziabad/)** | ₹7.50 Lakhs | **₹7.20 LPA** (Highest: ₹16.0 LPA) | ⭐⭐⭐⭐⭐ (Low Financial Risk, 300+ Annual Placement Drives) | CAT: 65–70% \| MAT: 70–75% |
+| **[EMPI Business School, Chattarpur, New Delhi](/colleges/empi-delhi/)** | ₹8.75 Lakhs | **₹7.80 LPA** (Highest: ₹20.0 LPA) | ⭐⭐⭐ (Residential Green Campus, AI & Futuristic Tech Specializations) | CAT: 68–72% \| MAT: 70–75% |
+| **[Asian Business School (ABS), Sector 125, Noida](/colleges/asian-business-school-noida/)** | ₹8.65 Lakhs | **₹7.50 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐ (Oxford Business College UK Diploma Module Included) | CAT: 65–70% \| MAT: 70–75% |
+| **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Gr. Noida](/colleges/gniot-greater-noida)** | ₹6.90 Lakhs | **₹6.80 LPA** (Highest: ₹15.5 LPA) | ⭐⭐⭐⭐ (Affordable ₹6.9L Fee, Chanakya Leadership Bootcamp) | CAT: 65–70% \| MAT: 70–75% |
 
 ---
 
@@ -168,8 +168,8 @@ The structured comparison table below outlines the 2-year total tuition fees, av
 
 ---
 
-### 1. [Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida)
-**[Jaipuria Institute of Management Noida](/colleges/jaipuria-noida)** is widely recognized as the premier private B-school in Noida's Sector 62 corporate zone. With NBA accreditation and AIU MBA equivalence, Jaipuria offers a modern learning environment with cutting-edge business simulations.
+### 1. [Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida/)
+**[Jaipuria Institute of Management Noida](/colleges/jaipuria-noida/)** is widely recognized as the premier private B-school in Noida's Sector 62 corporate zone. With NBA accreditation and AIU MBA equivalence, Jaipuria offers a modern learning environment with cutting-edge business simulations.
 
 *   **Total Program Fee (2 Years):** ₹14.75 Lakhs
 *   **Average Placement Package:** **₹11.29 LPA** (Median: ₹10.50 LPA | Highest: ₹22.0 LPA)
@@ -179,8 +179,8 @@ The structured comparison table below outlines the 2-year total tuition fees, av
 
 ---
 
-### 2. [New Delhi Institute of Management (NDIM), New Delhi](/colleges/ndim-delhi)
-Located in Tughlakabad Institutional Area in South Delhi, **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi)** has completed 34+ years of academic excellence. It has been rated as the **"Best Industry-Linked Management Institute in India"** by AICTE-CII for over three consecutive cycles.
+### 2. [New Delhi Institute of Management (NDIM), New Delhi](/colleges/ndim-delhi/)
+Located in Tughlakabad Institutional Area in South Delhi, **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi/)** has completed 34+ years of academic excellence. It has been rated as the **"Best Industry-Linked Management Institute in India"** by AICTE-CII for over three consecutive cycles.
 
 *   **Total Program Fee (2 Years):** ₹13.75 Lakhs
 *   **Average Placement Package:** **₹10.20 LPA** (Highest: ₹18.0 LPA)
@@ -190,8 +190,8 @@ Located in Tughlakabad Institutional Area in South Delhi, **[New Delhi Institute
 
 ---
 
-### 3. [FOSTIIMA Business School, Dwarka, New Delhi](/colleges/fostiima-delhi)
-Founded by a distinguished group of **[IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni**, **[FOSTIIMA Business School](/colleges/fostiima-delhi)** is designed to replicate the rigorous case-study pedagogy of premier IIMs at a competitive fee structure in West Delhi.
+### 3. [FOSTIIMA Business School, Dwarka, New Delhi](/colleges/fostiima-delhi/)
+Founded by a distinguished group of **[IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni**, **[FOSTIIMA Business School](/colleges/fostiima-delhi/)** is designed to replicate the rigorous case-study pedagogy of premier IIMs at a competitive fee structure in West Delhi.
 
 *   **Total Program Fee (2 Years):** ₹10.75 Lakhs
 *   **Average Placement Package:** **₹9.80 LPA** (Top 25%: ₹14.50 LPA | Highest: ₹25.0 LPA)
@@ -201,8 +201,8 @@ Founded by a distinguished group of **[IIM Ahmedabad](/colleges/iim-ahmedabad) A
 
 ---
 
-### 4. [Fortune Institute of International Business (FIIB), Vasant Vihar, New Delhi](/colleges/fiib-delhi)
-Established in 1995 in South Delhi's diplomatic zone, **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi)** has established itself as an analytics-first, research-driven management school.
+### 4. [Fortune Institute of International Business (FIIB), Vasant Vihar, New Delhi](/colleges/fiib-delhi/)
+Established in 1995 in South Delhi's diplomatic zone, **[Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi/)** has established itself as an analytics-first, research-driven management school.
 
 *   **Total Program Fee (2 Years):** ₹10.85 Lakhs
 *   **Average Placement Package:** **₹8.80 LPA** (Highest: ₹25.0 LPA International)
@@ -212,8 +212,8 @@ Established in 1995 in South Delhi's diplomatic zone, **[Fortune Institute of In
 
 ---
 
-### 5. [IILM Institute for Higher Education / IILM Gurgaon](/colleges/iilm-gurgaon)
-Situated strategically in the heart of Gurgaon's corporate belt on Golf Course Road, **[IILM Gurgaon](/colleges/iilm-gurgaon)** gives students unrivaled physical proximity to multinational consulting and tech corporations.
+### 5. [IILM Institute for Higher Education / IILM Gurgaon](/colleges/iilm-gurgaon/)
+Situated strategically in the heart of Gurgaon's corporate belt on Golf Course Road, **[IILM Gurgaon](/colleges/iilm-gurgaon/)** gives students unrivaled physical proximity to multinational consulting and tech corporations.
 
 *   **Total Program Fee (2 Years):** ₹11.50 Lakhs
 *   **Average Placement Package:** **₹8.90 LPA** (Highest: ₹18.0 LPA)
@@ -223,8 +223,8 @@ Situated strategically in the heart of Gurgaon's corporate belt on Golf Course R
 
 ---
 
-### 6. [IMS Ghaziabad ([Institute of Management Studies](/colleges/ims-noida))](/colleges/its-ghaziabad)
-With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad)** holds a coveted **NAAC A++ Grade** and NBA accreditation, functioning from an expansive green campus in Lal Quan.
+### 6. [IMS Ghaziabad ([Institute of Management Studies](/colleges/ims-noida/))](/colleges/its-ghaziabad)
+With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad/)** holds a coveted **NAAC A++ Grade** and NBA accreditation, functioning from an expansive green campus in Lal Quan.
 
 *   **Total Program Fee (2 Years):** ₹9.50 Lakhs
 *   **Average Placement Package:** **₹8.50 LPA** (Highest: ₹28.0 LPA)
@@ -234,8 +234,8 @@ With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad)*
 
 ---
 
-### 7. [JIMS Rohini (Sector 5), New Delhi](/colleges/jims-kalkaji)
-**[JIMS Rohini](/colleges/jims-kalkaji)** is one of Delhi's most established management brands, holding NBA accreditation, NAAC accreditation, and AIU MBA equivalence.
+### 7. [JIMS Rohini (Sector 5), New Delhi](/colleges/jims-kalkaji/)
+**[JIMS Rohini](/colleges/jims-kalkaji/)** is one of Delhi's most established management brands, holding NBA accreditation, NAAC accreditation, and AIU MBA equivalence.
 
 *   **Total Program Fee (2 Years):** ₹9.70 Lakhs
 *   **Average Placement Package:** **₹8.30 LPA** (Highest: ₹22.0 LPA)
@@ -245,8 +245,8 @@ With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad)*
 
 ---
 
-### 8. [Delhi School of Business (DSB / VIPS-TC), Pitampura, New Delhi](/colleges/dsb-delhi)
-Operating under the prominent umbrella of **VIPS (Vivekananda Institute of Professional Studies)**, **[Delhi School of Business (DSB)](/colleges/dsb-delhi)** is a premier modern B-school in North-West Delhi.
+### 8. [Delhi School of Business (DSB / VIPS-TC), Pitampura, New Delhi](/colleges/dsb-delhi/)
+Operating under the prominent umbrella of **VIPS (Vivekananda Institute of Professional Studies)**, **[Delhi School of Business (DSB)](/colleges/dsb-delhi/)** is a premier modern B-school in North-West Delhi.
 
 *   **Total Program Fee (2 Years):** ₹10.25 Lakhs
 *   **Average Placement Package:** **₹8.50 LPA** (Highest: ₹19.5 LPA)
@@ -256,8 +256,8 @@ Operating under the prominent umbrella of **VIPS (Vivekananda Institute of Profe
 
 ---
 
-### 9. [Apeejay School of Management (ASM), Dwarka, New Delhi](/colleges/asm-apeejay-delhi)
-Backed by the historic Apeejay Education Society, **[ASM Dwarka](/colleges/asm-apeejay-delhi)** holds prestigious international accreditation from **ACBSP (USA)** alongside AIU MBA equivalence.
+### 9. [Apeejay School of Management (ASM), Dwarka, New Delhi](/colleges/asm-apeejay-delhi/)
+Backed by the historic Apeejay Education Society, **[ASM Dwarka](/colleges/asm-apeejay-delhi/)** holds prestigious international accreditation from **ACBSP (USA)** alongside AIU MBA equivalence.
 
 *   **Total Program Fee (2 Years):** ₹9.80 Lakhs
 *   **Average Placement Package:** **₹8.40 LPA** (Highest: ₹17.5 LPA)
@@ -266,8 +266,8 @@ Backed by the historic Apeejay Education Society, **[ASM Dwarka](/colleges/asm-a
 
 ---
 
-### 10. [JIMS Kalkaji, South Delhi](/colleges/jims-kalkaji)
-Positioned near Nehru Place and Okhla corporate belt, **[JIMS Kalkaji](/colleges/jims-kalkaji)** is known for finance and marketing specializations.
+### 10. [JIMS Kalkaji, South Delhi](/colleges/jims-kalkaji/)
+Positioned near Nehru Place and Okhla corporate belt, **[JIMS Kalkaji](/colleges/jims-kalkaji/)** is known for finance and marketing specializations.
 
 *   **Total Program Fee (2 Years):** ₹9.30 Lakhs
 *   **Average Placement Package:** **₹8.15 LPA** (Highest: ₹18.5 LPA)
@@ -276,8 +276,8 @@ Positioned near Nehru Place and Okhla corporate belt, **[JIMS Kalkaji](/colleges
 
 ---
 
-### 11. [GL Bajaj Institute of Management & Research (GLBIMR), Greater Noida](/colleges/gl-bajaj-greater-noida)
-Located in Knowledge Park II, **[GL Bajaj Institute of Management](/colleges/gl-bajaj-greater-noida)** delivers one of the highest 1:1 ROI ratios in North India with a fee of just ₹7.50 Lakhs.
+### 11. [GL Bajaj Institute of Management & Research (GLBIMR), Greater Noida](/colleges/gl-bajaj-greater-noida/)
+Located in Knowledge Park II, **[GL Bajaj Institute of Management](/colleges/gl-bajaj-greater-noida/)** delivers one of the highest 1:1 ROI ratios in North India with a fee of just ₹7.50 Lakhs.
 
 *   **Total Program Fee (2 Years):** ₹7.50 Lakhs
 *   **Average Placement Package:** **₹7.50 LPA** (Highest: ₹16.0 LPA)
@@ -286,8 +286,8 @@ Located in Knowledge Park II, **[GL Bajaj Institute of Management](/colleges/gl-
 
 ---
 
-### 12. [ITS School of Management, Mohan Nagar, Ghaziabad](/colleges/its-ghaziabad)
-**[ITS Ghaziabad](/colleges/its-ghaziabad)** is a 28-year-old landmark management institution offering accessible management education with strong corporate recruiter relationships.
+### 12. [ITS School of Management, Mohan Nagar, Ghaziabad](/colleges/its-ghaziabad/)
+**[ITS Ghaziabad](/colleges/its-ghaziabad/)** is a 28-year-old landmark management institution offering accessible management education with strong corporate recruiter relationships.
 
 *   **Total Program Fee (2 Years):** ₹7.50 Lakhs
 *   **Average Placement Package:** **₹7.20 LPA** (Highest: ₹16.0 LPA)
@@ -296,8 +296,8 @@ Located in Knowledge Park II, **[GL Bajaj Institute of Management](/colleges/gl-
 
 ---
 
-### 13. [EMPI Business School, Chattarpur, New Delhi](/colleges/empi-delhi)
-**[EMPI Business School](/colleges/empi-delhi)** is a fully residential institution in South Delhi offering industry-collaborated programs in Artificial Intelligence, Business Futures, and Advertising.
+### 13. [EMPI Business School, Chattarpur, New Delhi](/colleges/empi-delhi/)
+**[EMPI Business School](/colleges/empi-delhi/)** is a fully residential institution in South Delhi offering industry-collaborated programs in Artificial Intelligence, Business Futures, and Advertising.
 
 *   **Total Program Fee (2 Years):** ₹8.75 Lakhs
 *   **Average Placement Package:** **₹7.80 LPA** (Highest: ₹20.0 LPA)
@@ -305,8 +305,8 @@ Located in Knowledge Park II, **[GL Bajaj Institute of Management](/colleges/gl-
 
 ---
 
-### 14. [Asian Business School (ABS), Sector 125, Noida](/colleges/asian-business-school-noida)
-Located on the Noida Expressway, **[ABS Noida](/colleges/asian-business-school-noida)** integrates an **Executive Diploma in Media & Communication from Oxford Business College (UK)** into its core PGDM curriculum.
+### 14. [Asian Business School (ABS), Sector 125, Noida](/colleges/asian-business-school-noida/)
+Located on the Noida Expressway, **[ABS Noida](/colleges/asian-business-school-noida/)** integrates an **Executive Diploma in Media & Communication from Oxford Business College (UK)** into its core PGDM curriculum.
 
 *   **Total Program Fee (2 Years):** ₹8.65 Lakhs
 *   **Average Placement Package:** **₹7.50 LPA** (Highest: ₹18.0 LPA)
@@ -314,8 +314,8 @@ Located on the Noida Expressway, **[ABS Noida](/colleges/asian-business-school-n
 
 ---
 
-### 15. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS), Greater Noida](/colleges/gniot-greater-noida)
-**[GNIOT GIMS](/colleges/gniot-greater-noida)** in Knowledge Park II provides a modern tech-driven PGDM program featuring practical industry bootcamps.
+### 15. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Greater Noida](/colleges/gniot-greater-noida)
+**[GNIOT GIMS](/colleges/gniot-greater-noida/)** in Knowledge Park II provides a modern tech-driven PGDM program featuring practical industry bootcamps.
 
 *   **Total Program Fee (2 Years):** ₹6.90 Lakhs
 *   **Average Placement Package:** **₹6.80 LPA** (Highest: ₹15.5 LPA)
@@ -364,20 +364,20 @@ Step 4: Education Loan & Financial Clearance
 ---
 
 ## 🔗 Related Resources & Internal Links
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2027-29)
-*   [All About NDIM New Delhi: Reviews, Fees & Placements](/colleges/ndim-delhi)
-*   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Noida](/colleges/jaipuria-noida)
-*   [All About FIIB New Delhi: Admissions & Selection Criteria](/colleges/fiib-delhi)
-*   [All About JIMS Kalkaji / Rohini Reviews](/colleges/jims-kalkaji)
-*   [Latest WAT/GD Topics for MBA Admissions 2027](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2027-29/)
+*   [All About NDIM New Delhi: Reviews, Fees & Placements](/colleges/ndim-delhi/)
+*   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Noida](/colleges/jaipuria-noida)
+*   [All About FIIB New Delhi: Admissions & Selection Criteria](/colleges/fiib-delhi/)
+*   [All About JIMS Kalkaji / Rohini Reviews](/colleges/jims-kalkaji/)
+*   [Latest WAT/GD Topics for MBA Admissions 2027](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which top PGDM colleges in Delhi NCR accept 70-80 percentile in CAT and MAT?
-Top AICTE-approved B-schools in Delhi NCR accepting 70-80 percentile include [New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi), [Jaipuria Institute of Management Noida](/colleges/jaipuria-noida), [Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi), [FOSTIIMA Business School](/colleges/fostiima-delhi), [JIMS Rohini](/colleges/jims-kalkaji), [JIMS Kalkaji](/colleges/jims-kalkaji), [IILM Gurgaon](/colleges/iilm-gurgaon), [Delhi School of Business (DSB)](/colleges/dsb-delhi), [Apeejay School of Management (ASM Dwarka)](/colleges/asm-apeejay-delhi), and [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida).
+Top AICTE-approved B-schools in Delhi NCR accepting 70-80 percentile include [New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi/), [Jaipuria Institute of Management Noida](/colleges/jaipuria-noida/), [Fortune Institute of International Business (FIIB)](/colleges/fiib-delhi/), [FOSTIIMA Business School](/colleges/fostiima-delhi/), [JIMS Rohini](/colleges/jims-kalkaji/), [JIMS Kalkaji](/colleges/jims-kalkaji/), [IILM Gurgaon](/colleges/iilm-gurgaon/), [Delhi School of Business (DSB)](/colleges/dsb-delhi/), [Apeejay School of Management (ASM Dwarka)](/colleges/asm-apeejay-delhi/), and [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/).
 
 ### What is the average placement package for PGDM colleges accepting 70-80 percentile?
 PGDM colleges in the 70-80 percentile category offer average placement packages ranging between ₹6.5 LPA and ₹12.3 LPA, with top 20% performers securing packages between ₹15.0 LPA and ₹22.0 LPA in marketing, analytics, consulting, and fintech domains.
@@ -386,15 +386,15 @@ PGDM colleges in the 70-80 percentile category offer average placement packages 
 Yes, PGDM programs offered by AICTE-approved institutions that hold AIU (Association of Indian Universities) equivalence are legally recognized as equivalent to an MBA degree for government recruitment, public sector undertakings (PSUs), higher education, and PhD/FPM admissions.
 
 ### Can I get direct admission in top PGDM colleges in Delhi NCR with a MAT score?
-Yes, institutions like NDIM, [Jaipuria Noida](/colleges/jaipuria-noida), FIIB, FOSTIIMA, and JIMS actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85 percentile in MAT is treated on par with a 70-75 percentile in CAT for GD-PI shortlisting.
+Yes, institutions like NDIM, [Jaipuria Noida](/colleges/jaipuria-noida/), FIIB, FOSTIIMA, and JIMS actively accept MAT, CMAT, and XAT scores alongside CAT. A 75-85 percentile in MAT is treated on par with a 70-75 percentile in CAT for GD-PI shortlisting.
 
 ### What is the total fee range for top 70-80 percentile PGDM B-schools in Delhi NCR?
-The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium tier like [Jaipuria Noida](/colleges/jaipuria-noida) and NDIM New Delhi).
+The 2-year total tuition fee across these 15 institutions ranges from ₹6.50 Lakhs (high ROI segment like Lloyd, GNIOT, ITS) to ₹14.50 Lakhs (premium tier like [Jaipuria Noida](/colleges/jaipuria-noida/) and NDIM New Delhi).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -71,8 +71,8 @@ DSU is highly regarded for its management and technical departments in Bangalore
 
 ### **5. Other Private Universities in Bangalore**
 Many growing private universities in the city use CUET PG to diversify their student intake.
-*   **[Presidency University](/colleges/presidency-university) (Bangalore)**
-*   **[Reva University](/colleges/reva-university-bangalore) (Bangalore)**
+*   **[Presidency University](/colleges/presidency-university/) (Bangalore)**
+*   **[Reva University](/colleges/reva-university-bangalore/) (Bangalore)**
 
 ---
 
@@ -84,14 +84,14 @@ Many growing private universities in the city use CUET PG to diversify their stu
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2027-29)
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
+- [Top MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2027-29/)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks/)
 
 **Confused between Alliance vs. RV University?**
 Choosing the right Bangalore college requires balancing your career specialization with the campus culture. Get expert advice today!
 
-[👉 Get Bangalore Admission Counseling Now!](/inquiry)
+[👉 Get Bangalore Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -113,6 +113,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -48,14 +48,14 @@ state: West Bengal
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata)**
+### **College Review: [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) 2026 Snapshot
+### 📊 [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -83,25 +83,25 @@ state: West Bengal
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) a good option for PGDM/MBA?
-Yes, [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/) a good option for PGDM/MBA?
+Yes, [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata)?
-The average placement package at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is approximately ₹16.40 LPA, with the highest package reaching up to ₹30 LPA.
+### 2. What is the average package offered at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/)?
+The average placement package at [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/) is approximately ₹16.40 LPA, with the highest package reaching up to ₹30 LPA.
 
-### 3. What entrance exams are accepted by [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata)?
+### 3. What entrance exams are accepted by [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [International Management and Analytics School Kolkata](/colleges/international-management-and-analytics-school-kolkata/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to International Management and Analytics School Kolkata](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to International Management and Analytics School Kolkata](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -115,6 +115,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

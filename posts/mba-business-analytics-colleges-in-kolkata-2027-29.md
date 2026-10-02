@@ -52,10 +52,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)** | PGDBA Admission Test | ₹24.0 Lakhs (Total) | **₹31.05 LPA** |
-| **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
-| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
-| **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
+| **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta/)** | PGDBA Admission Test | ₹24.0 Lakhs (Total) | **₹31.05 LPA** |
+| **[Praxis Business School](/colleges/praxis-kolkata/)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
+| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata/)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
 
 ---
 
@@ -76,25 +76,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. [IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)
+### 1. [IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta/)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** PGDBA Admission Test
 - **Average Placement Package:** **₹31.05 LPA**
 - **Key Highlight:** Jointly offers the PGDBA program with IIT Kharagpur and ISI Kolkata, ranked as India's premier analytics program.
 
-### 2. [Praxis Business School](/colleges/praxis-kolkata)
+### 2. [Praxis Business School](/colleges/praxis-kolkata/)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹13.50 LPA**
 - **Key Highlight:** Legendary analytics and data science program with stellar recruitment records in analyst profiles.
 
-### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)
+### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))](/colleges/indian-institute-of-social-welfare-and-business-management)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first B-school, offering a highly respected MBA with analytics tracks.
 
-### 4. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)
+### 4. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata/)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
@@ -111,9 +111,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -123,17 +123,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the PGDBA program at [IIM Calcutta](/colleges/iim-calcutta)?
-The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by [IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
+### What is the PGDBA program at [IIM Calcutta](/colleges/iim-calcutta/)?
+The Post Graduate Diploma in Business Analytics (PGDBA) is a unique, highly prestigious joint program offered by [IIM Calcutta](/colleges/iim-calcutta/), IIT Kharagpur, and ISI Kolkata, providing unmatched placements in core data science.
 
-### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for Analytics?
-[Praxis Business School](/colleges/praxis-kolkata) is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+### Why is [Praxis Business School](/colleges/praxis-kolkata/) highly recommended for Analytics?
+[Praxis Business School](/colleges/praxis-kolkata/) is a pioneer in analytics education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?
 IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
@@ -141,6 +141,6 @@ IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and hi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

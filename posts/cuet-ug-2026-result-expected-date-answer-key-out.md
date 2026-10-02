@@ -41,7 +41,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CUET UG 2026 Result Update: Answer Key Out, Ex...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **National Testing Agency (NTA)** has officially released the **CUET UG 2026 Provisional Answer Key today, June 9, 2026**. Candidates who appeared for the Common University Entrance Test (Undergraduate) can now download their response sheets and provisional answer keys from the official website.
 
@@ -105,10 +105,10 @@ The NTA’s role is limited to conducting the exam, releasing answer keys, and d
 ---
 
 ## 🔗 Related Resources for Aspirants
-*   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
-*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29)
-*   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026)
+*   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
+*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29/)
+*   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
 
 ---
 
@@ -116,7 +116,7 @@ The NTA’s role is limited to conducting the exam, releasing answer keys, and d
 
 Are you confused about choosing the right college based on your CUET scores? Filling out preference sheets for DU, BHU, or IP University can be stressful. Let experts handle the strategy for you.
 
-[👉 Get Expert Admission Guidance - Connect with Mohit Jain!](/inquiry)
+[👉 Get Expert Admission Guidance - Connect with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -137,6 +137,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -71,7 +71,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
 
-The **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has officially released its application forms for the **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
+The **[SOIL Institute of Management](/colleges/soil-gurgaon/) (School of Inspired Leadership / School of Business Design, Gurgaon)** has officially released its application forms for the **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
 
 Situated in India's corporate capital—**Gurgaon (Delhi-NCR)**—SOIL has carved a distinctive identity among modern B-schools. Co-created by a consortium of **32 multinational corporations**, SOIL combines cutting-edge **Design Thinking**, **Mindful Leadership**, and **Business Analytics** with deep corporate immersion.
 
@@ -83,7 +83,7 @@ If you are aiming for management admissions in Delhi-NCR for the upcoming batch,
 
 | Parameter | Details & Key Metrics |
 | :--- | :--- |
-| **Institute Name** | **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership)** |
+| **Institute Name** | **[SOIL Institute of Management](/colleges/soil-gurgaon/) (School of Inspired Leadership)** |
 | **Campuses** | Sushant Lok (Gurgaon) & Manesar Campus |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Programs** | **PGDM (2-Year Full-Time)**, **PGPM (1-Year)**, **PGPM-HR (1-Year)** |
@@ -282,11 +282,11 @@ SOIL evaluates composite profile strength, meaning high academic consistency or 
 
 Explore related guides and comparison reviews to plan your 2027 admission strategy:
 
-*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-*   [USP of SOIL Institute of Management Gurgaon: In-Depth Analysis](/blog/usp-of-soil-gurgaon-pgdm-2027-29)
-*   [Explore & Compare 200+ Top Business Schools in India](/colleges)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [USP of SOIL Institute of Management Gurgaon: In-Depth Analysis](/blog/usp-of-soil-gurgaon-pgdm-2027-29/)
+*   [Explore & Compare 200+ Top Business Schools in India](/colleges/)
 
 [InquiryCard title="Get Direct Admission Counseling for SOIL Gurgaon 2027–29" subtitle="Check your profile eligibility, expected cutoffs, scholarship opportunities, and schedule a 1-on-1 counseling session." ctaText="Apply Now / Check Eligibility"]
 
@@ -316,7 +316,7 @@ Instead of a conventional debate-oriented Group Discussion, SOIL conducts a hand
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -330,6 +330,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

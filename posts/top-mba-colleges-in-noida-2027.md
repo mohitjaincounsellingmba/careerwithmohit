@@ -54,10 +54,10 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Noida’s Tech & Corporate Ecosystem**: Situated adjacent to South Delhi with corporate hubs across Sector 62, Sector 125, and the Noida-Greater Noida Expressway, housing tech giants like Samsung, Adobe, HCL, Microsoft, and Paytm.
-> - **Top-Ranked Institutions**: **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Sector 62)**, **Amity Business School (Sector 125)**, **[Asian Business School (ABS)](/colleges/asian-business-school-noida)**, and **IMS Noida**.
+> - **Top-Ranked Institutions**: **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) (Sector 62)**, **Amity Business School (Sector 125)**, **[Asian Business School (ABS)](/colleges/asian-business-school-noida/)**, and **IMS Noida**.
 > - **Fee & Placement Snapshot**: PGDM/MBA fees range from ₹6.5 Lakhs to ₹16.8 Lakhs, with average packages ranging between ₹7.5 LPA and ₹11.5 LPA.
 
-### [InquiryCard title="Targeting Top MBA/PGDM in Noida?" description="Confused between [Jaipuria Noida](/colleges/jaipuria-noida), Amity, Asian Business School, or IMS? Get personalized merit profile assessment from Mohit Jain." cta="Book Free Noida Counselling" type="admission"]
+### [InquiryCard title="Targeting Top MBA/PGDM in Noida?" description="Confused between [Jaipuria Noida](/colleges/jaipuria-noida/), Amity, Asian Business School, or IMS? Get personalized merit profile assessment from Mohit Jain." cta="Book Free Noida Counselling" type="admission"]
 
 Noida (New Okhla Industrial Development Authority) has rapidly evolved into North India’s premier information technology, media, fin-tech, and e-commerce capital. With ultra-modern metro networks, wide expressways, and proximity to major IT corridors, studying management in Noida offers direct day-to-day exposure to leading Fortune 500 tech companies and corporate consulting firms.
 
@@ -69,13 +69,13 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** (PGDM Core/SM/BA) | Sector 62, Noida | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[Amity Business School](/blog/amity-noida-review-2027-29)** (MBA Core/IB/M&S) | Sector 125, Noida | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / NMAT / Amity Test |
-| **[Asian Business School (ABS)](/blog/all-about-asian-business-school-noida)** (PGDM) | Sector 125, Noida | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / XAT / CMAT (60+ %ile) |
-| **[IMS Noida](/blog/all-about-institute-of-management-studies)** (PGDM / MBA) | Sector 62, Noida | ₹6.50 – ₹8.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
-| **[IILM Academy of Higher Learning](/blog/all-about-iilm-delhi)** (PGDM) | Sector 62, Noida | ₹8.25 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
-| **[JSS Academy of Technical Education](/blog/all-about-noida-institute-of-management-technology)** (MBA) | Sector 62, Noida | ₹3.10 Lakhs | ₹5.20 LPA | CUET-PG / UPTAC Merit |
-| **[Symbiosis Centre for Management Studies (SCMS Noida)](/blog/all-about-symbiosis-mba-institutes)** | Sector 62, Noida | ₹10.50 Lakhs | ₹7.50 LPA | SET / SNAP / Institutional |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** (PGDM Core/SM/BA) | Sector 62, Noida | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[Amity Business School](/blog/amity-noida-review-2027-29/)** (MBA Core/IB/M&S) | Sector 125, Noida | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / NMAT / Amity Test |
+| **[Asian Business School (ABS)](/blog/all-about-asian-business-school-noida/)** (PGDM) | Sector 125, Noida | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / XAT / CMAT (60+ %ile) |
+| **[IMS Noida](/blog/all-about-institute-of-management-studies/)** (PGDM / MBA) | Sector 62, Noida | ₹6.50 – ₹8.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[IILM Academy of Higher Learning](/blog/all-about-iilm-delhi/)** (PGDM) | Sector 62, Noida | ₹8.25 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[JSS Academy of Technical Education](/colleges/mba-colleges-delhi-ncr/)** (MBA) | Sector 62, Noida | ₹3.10 Lakhs | ₹5.20 LPA | CUET-PG / UPTAC Merit |
+| **[Symbiosis Centre for Management Studies (SCMS Noida)](/blog/all-about-symbiosis-mba-institutes/)** | Sector 62, Noida | ₹10.50 Lakhs | ₹7.50 LPA | SET / SNAP / Institutional |
 
 ---
 
@@ -87,12 +87,12 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
          ┌────────────────────────────┴────────────────────────────┐
          ▼                                                         ▼
 [Institutional Hub: Sector 62]                           [Expressway Hub: Sector 125/126]
-- [Jaipuria Institute of Management](/colleges/jaipuria-jaipur)                       - Amity Business School
-- IMS Noida                                              - [Asian Business School (ABS)](/colleges/asian-business-school-noida)
-- [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)                        - Marwah Studios / Media B-Schools
+- [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/)                       - Amity Business School
+- IMS Noida                                              - [Asian Business School (ABS)](/colleges/asian-business-school-noida/)
+- [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning/)                        - Marwah Studios / Media B-Schools
 ```
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow), Noida (Sector 62)
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow/), Noida (Sector 62)
 - **NIRF Ranking & Accreditation**: Consistently ranked among the top 50 B-schools nationally by NIRF with NBA accreditation and AIU MBA-equivalence.
 - **Academic Ecosystem**: Offers a centralized pool placement system across 4 campuses (Noida, Lucknow, Jaipur, Indore), opening up top tier MNCs to all students.
 - **Top Recruiters**: Deloitte, Amazon, EY, HCL Technologies, Dabur, Genpact, ICICI Bank, Protiviti.
@@ -119,7 +119,7 @@ Noida is uniquely positioned for distinct management specializations:
 
 ## Frequently Asked Questions (FAQs)
 
-### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-noida) Noida?
+### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-noida/) Noida?
 For the PGDM Core and specialized programs, the CAT cutoff is typically **70 to 75 percentile**. Jaipuria also considers MAT (80+ percentile), CMAT (75+ percentile), and XAT scores.
 
 ### Is Asian Business School (ABS) Noida AICTE approved?
@@ -136,6 +136,6 @@ For candidates seeking low-cost MBA programs, AKTU-affiliated institutions like 
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

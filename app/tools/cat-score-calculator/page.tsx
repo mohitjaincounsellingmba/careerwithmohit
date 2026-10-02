@@ -338,7 +338,7 @@ export default function CatScoreCalculatorPage() {
             </span>
           </div>
           <Link
-            href="/book-session"
+            href="/book-session/"
             className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-bold text-[#F59E0B] hover:text-white uppercase tracking-wider shrink-0 transition-colors"
           >
             <span>Book 1-on-1 Meet</span>
@@ -829,7 +829,7 @@ export default function CatScoreCalculatorPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <Link
-                  href="/mba-admissions-by-region/delhi-ncr"
+                  href="/mba-admissions-by-region/delhi-ncr/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-cyan-50/60 hover:border-cyan-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -846,7 +846,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/mumbai"
+                  href="/mba-admissions-by-region/mumbai/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -863,7 +863,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/bangalore"
+                  href="/mba-admissions-by-region/bangalore/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-emerald-50/60 hover:border-emerald-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -880,7 +880,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/pune"
+                  href="/mba-admissions-by-region/pune/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-purple-50/60 hover:border-purple-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -897,7 +897,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/hyderabad"
+                  href="/mba-admissions-by-region/hyderabad/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-rose-50/60 hover:border-rose-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -914,7 +914,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/kolkata"
+                  href="/mba-admissions-by-region/kolkata/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-cyan-50/60 hover:border-cyan-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -933,7 +933,7 @@ export default function CatScoreCalculatorPage() {
 
               <div className="pt-2 text-center">
                 <Link
-                  href="/mba-admissions-by-region"
+                  href="/mba-admissions-by-region/"
                   className="inline-flex items-center gap-2 bg-[#061124] hover:bg-[#070A14] text-white font-display font-black text-xs uppercase px-7 py-3.5 rounded-full shadow-md transition-all hover:scale-105"
                 >
                   <span>Explore All 8 Indian MBA Regions &amp; State Admissions Guide</span>
@@ -1037,7 +1037,7 @@ export default function CatScoreCalculatorPage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/tools/cat-mock-test"
+                href="/tools/cat-mock-test/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-cyan-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1047,7 +1047,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/blog/cat-2026-score-calculator-marks-vs-percentile"
+                href="/blog/cat-2026-score-calculator-marks-vs-percentile/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-blue-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1057,7 +1057,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/blog/cat-answer-key-response-sheet-analysis-score-calculator"
+                href="/blog/cat-answer-key-response-sheet-analysis-score-calculator/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-emerald-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1067,7 +1067,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/tools/mat-score-calculator"
+                href="/tools/mat-score-calculator/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-emerald-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1077,7 +1077,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/tools/xat-score-calculator-2027"
+                href="/tools/xat-score-calculator-2027/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-rose-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1087,7 +1087,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/tools/college-comparison"
+                href="/tools/college-comparison/"
                 className="bg-white rounded-[24px] border-[1.5px] border-[#061124]/10 p-5 font-bold hover:border-purple-400 transition-all flex items-center justify-between group shadow-sm"
               >
                 <div>
@@ -1097,7 +1097,7 @@ export default function CatScoreCalculatorPage() {
               </Link>
 
               <Link
-                href="/mba-application-form-discount"
+                href="/mba-application-form-discount/"
                 className="bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white rounded-[24px] p-5 font-bold transition-all flex items-center justify-between group shadow-lg col-span-1 sm:col-span-2 lg:col-span-3 hover:scale-[1.01]"
               >
                 <div>
@@ -1135,7 +1135,7 @@ export default function CatScoreCalculatorPage() {
 
               <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3.5 sm:gap-4">
                 <Link
-                  href="/book-session"
+                  href="/book-session/"
                   className="w-full sm:w-auto px-7 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-lg hover:-translate-y-0.5 flex items-center justify-center gap-2 group cursor-pointer"
                 >
                   <Video className="w-4 h-4 text-[#061124]" />

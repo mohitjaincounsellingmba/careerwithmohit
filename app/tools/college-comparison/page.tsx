@@ -177,19 +177,19 @@ export default function CollegeComparisonPage() {
                         Explore Top Colleges
                     </h2>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-                        <Link href="/colleges" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
+                        <Link href="/colleges/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Directory of Top B-Schools</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>
-                        <Link href="/blog/best-mba-colleges-in-mumbai-2027-29" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
+                        <Link href="/blog/best-mba-colleges-in-mumbai-2027-29/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Top MBA Colleges in Mumbai</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>
-                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
+                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Top MBA Colleges in Delhi NCR</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>
-                        <Link href="/blog/mba-vs-pgdm-difference" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
+                        <Link href="/blog/mba-vs-pgdm-difference/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">MBA vs PGDM: What's the Difference?</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>

@@ -100,11 +100,11 @@ Minimum 50% in graduation and a valid score in ALNAT or any national entrance ex
 ---
 
 ## 🔗 Related Resources
-- [All About Altera Institute Review](/blog/all-about-altera-institute)
-- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
-- [Direct MBA Admission India 2027–29](/blog/direct-mba-admission-india)
+- [All About Altera Institute Review](/blog/all-about-altera-institute/)
+- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Direct MBA Admission India 2027–29](/blog/direct-mba-admission-india/)
 
-[👉 Take the next step in your career at Altera! Get started today.](/inquiry)
+[👉 Take the next step in your career at Altera! Get started today.](/inquiry/)
 
 
 
@@ -112,6 +112,6 @@ Minimum 50% in graduation and a valid score in ALNAT or any national entrance ex
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

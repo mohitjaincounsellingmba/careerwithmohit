@@ -129,16 +129,16 @@ It usually starts in **September/October**, following the completion of the main
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [NEET 2026 Exam Strategy Guide](/blog/neet-2026-exam-strategy-guide)
-- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [NEET 2026 Exam Strategy Guide](/blog/neet-2026-exam-strategy-guide/)
+- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide/)
 
 ---
 
 **Is Alternative Medicine Your Calling?**
 Ayurveda and Homeopathy are the future of personalized medicine. Don't waste your score on a lower-tier MBBS if you can be a topper in a prestigious BAMS institute. Mohit Jain provides an **"AYUSH Career Audit"**—helping you choose between BAMS and BHMS based on your patient-care philosophy.
 
-[👉 Book My AYUSH Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My AYUSH Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -146,6 +146,6 @@ Ayurveda and Homeopathy are the future of personalized medicine. Don't waste you
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

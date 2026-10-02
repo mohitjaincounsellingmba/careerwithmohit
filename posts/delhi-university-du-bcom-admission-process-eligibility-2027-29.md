@@ -55,7 +55,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Delhi University (DU) is considered the pinnacle for commerce students across India. Thousands of students dre...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Delhi University (DU) is considered the pinnacle for commerce students across India. Thousands of students dream of securing a seat in B.Com or B.Com (Hons.) at elite DU colleges like SRCC, Hindu, and Hansraj. But with the introduction of the Common University Entrance Test (CUET) UG, the admission dynamics have changed. 
 
@@ -70,7 +70,7 @@ Pursuing a Bachelor of Commerce degree from Delhi University comes with massive 
 - **Top-Tier Placements:** Colleges like SRCC see average packages crossing ₹10-12 LPA for undergraduates.
 - **Vibrant Campus Life:** Connecting with some of the brightest minds in North Campus and South Campus.
 
-If you are exploring alternative undergraduate options, don't forget to check our guide on [Career Options After 12th Commerce in 2026](/blog/career-options-after-12th-commerce-2027-29).
+If you are exploring alternative undergraduate options, don't forget to check our guide on [Career Options After 12th Commerce in 2026](/blog/career-options-after-12th-commerce-2027-29/).
 
 ---
 
@@ -117,7 +117,7 @@ Once your CUET results are out, you must separately register on the Delhi Univer
 
 ### Step 3: Fill Your Preferences (Most Important Step)
 On the CSAS portal, you’ll be asked to list the specific programs and colleges you wish to apply for, in order of preference. 
-*Pro Tip: Always put your dream colleges (like SRCC and Hindu) at the top, regardless of what you think your CUET score will get you.* For a strategic list, explore our ranking of the [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr).
+*Pro Tip: Always put your dream colleges (like SRCC and Hindu) at the top, regardless of what you think your CUET score will get you.* For a strategic list, explore our ranking of the [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr/).
 
 ### Step 4: Seat Allocation
 DU will release multiple merit lists based on your CUET scores, category, and the preference list you submitted. 
@@ -136,7 +136,7 @@ Aiming high? These are the undisputed champions for B.Com in the DU ecosystem:
 4. **Hansraj College**
 5. **Kirori Mal College (KMC)**
 
-*(Looking ahead to post-graduation? Read about the [Ultimate Guide to Delhi University MBA Colleges](/blog/delhi-university-mba-colleges) to see how B.Com grads excel in FMS and DSE).*
+*(Looking ahead to post-graduation? Read about the [Ultimate Guide to Delhi University MBA Colleges](/blog/delhi-university-mba-colleges/) to see how B.Com grads excel in FMS and DSE).*
 
 ---
 
@@ -166,6 +166,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -52,7 +52,7 @@ state: Delhi NCR
 category: MBA
 ---
 
-Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges) for detailed local options.
+Looking for a specific city? Check out our [**City-Wise List of BSCC MBA Colleges**](/blog/bihar-student-credit-card-mba-colleges/) for detailed local options.
 
 For MBA aspirants from Bihar, the **District Registration and Counseling Centre (DRCC)**—under the **Bihar Student Credit Card (MNSSBY) Scheme**—is a lifeline. It provides collateral-free education loans up to ₹4 Lakhs for higher studies, making premier management education accessible to thousands of students.
 
@@ -76,18 +76,18 @@ Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, o
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## Top DRCC Approved Colleges in NCR:
-*   **BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))** – Greater Noida
-*   **NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi))** – Delhi
-*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** – Noida & Ghaziabad campuses
+*   **BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/))** – Greater Noida
+*   **NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi/))** – Delhi
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** – Noida & Ghaziabad campuses
 *   **IMS Ghaziabad** (University Courses & PGDM)
 *   **IILM University / Graduate School of Management** – Greater Noida
-*   **[Galgotias University](/colleges/galgotias-university)** – Greater Noida
-*   **[Sharda University](/colleges/sharda-greater-noida) (School of Business Studies)** – Greater Noida
+*   **[Galgotias University](/colleges/galgotias-university/)** – Greater Noida
+*   **[Sharda University](/colleges/sharda-greater-noida/) (School of Business Studies)** – Greater Noida
 *   **GL Bajaj Institute of Management & Technology** – Greater Noida
-*   **[GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida)** – Greater Noida
+*   **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida)** – Greater Noida
 *   **Noida Institute of Engineering & Technology (NIET)** – Greater Noida
-*   **[Bennett University](/colleges/bennett-greater-noida)** – Greater Noida
-*   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** – Greater Noida
+*   **[Bennett University](/colleges/bennett-greater-noida/)** – Greater Noida
+*   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** – Greater Noida
 
 ---
 
@@ -107,7 +107,7 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 *   **Lexicon MILE (Management Institute of Leadership & Excellence)** – Pune
 *   **ITM Business School** – Navi Mumbai
 *   **Dr. D.Y. Patil Vidyapeeth** – Pune
-*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)** – Pune
+*   **[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)** – Pune
 
 ---
 
@@ -116,12 +116,12 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 Jaipur has quietly emerged as an excellent hub for management studies, offering stellar infrastructure and strong regional placements at comparatively lower living costs.
 
 ### Top DRCC Approved Colleges in Rajasthan:
-*   **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** – Jaipur
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur/)** – Jaipur
 *   **MNIT (Malaviya National Institute of Technology)** – Jaipur *(While primarily an NIT, its management department is highly sought after)*
 *   **Vivekananda Global University (VGU)** – Jaipur
 *   **Suresh Gyan Vihar University (SGVU)** – Jaipur
 *   **Jagan Nath University** – Jaipur
-*   **[Poornima University](/colleges/poornima-jaipur)** – Jaipur
+*   **[Poornima University](/colleges/poornima-jaipur/)** – Jaipur
 
 ---
 
@@ -131,10 +131,10 @@ For students seeking a serene, distraction-free environment without compromising
 
 ### Top DRCC Approved Colleges in Dehradun:
 *   **UPES (University of Petroleum and Energy Studies)** – Dehradun
-*   **[Doon Business School](/colleges/doon-business-school) (DBS)** – Dehradun
+*   **[Doon Business School](/colleges/doon-business-school/) (DBS)** – Dehradun
 *   **Graphic Era University** – Dehradun
 *   **Tulas Institute** – Dehradun
-*   **[Uttaranchal University](/colleges/uttaranchal-university)** – Dehradun
+*   **[Uttaranchal University](/colleges/uttaranchal-university/)** – Dehradun
 
 ---
 
@@ -146,10 +146,10 @@ Bangalore's unmatched IT and startup ecosystem makes it a highly desirable desti
 *   **XIME (Xavier Institute of Management and Entrepreneurship)** – Bangalore
 *   **SIBM Bengaluru** – Electronic City
 *   **Alliance University** – Bangalore
-*   **[ISBR Business School](/colleges/isbr-bangalore)** – Bangalore
-*   **LPU ([Lovely Professional University](/colleges/lovely-professional-university))** – Jalandhar, Punjab
+*   **[ISBR Business School](/colleges/isbr-bangalore/)** – Bangalore
+*   **LPU ([Lovely Professional University](/colleges/lovely-professional-university/))** – Jalandhar, Punjab
 *   **Chandigarh University** – Mohali, Punjab
-*   **[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar)** – Bhubaneswar, Odisha
+*   **[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar/)** – Bhubaneswar, Odisha
 
 ---
 
@@ -164,7 +164,7 @@ Bangalore's unmatched IT and startup ecosystem makes it a highly desirable desti
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ) about DRCC MBA Admissions
@@ -189,6 +189,6 @@ No reputable, top-tier B-school will charge extra for processing DRCC applicatio
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

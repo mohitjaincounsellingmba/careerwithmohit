@@ -74,16 +74,16 @@ The college provides hostel facilities for both boys and girls through affiliate
 While the General BBA is the most popular, 'BBA in Business Analytics' and 'BBA in Aviation Management' are seeing high demand in the 2026 job market.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
-- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026)
-- [Mount Carmel College Bengaluru BBA Admission Guide 2026](/blog/all-about-mount-carmel-college-bengaluru-bba-admission-2026)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
+- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026/)
+- [Mount Carmel College Bengaluru BBA Admission Guide 2026](/blog/all-about-mount-carmel-college-bengaluru-bba-admission-2026/)
 
 ---
 
 **Nervous about the Kristu Jayanti Interview?**
 The panel at KJC focuses on your values and communication skills. Mohit Jain’s "BBA Interview Prep" helps you align your personal story with the college’s mission of 'Light and Prosperity.'
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -93,6 +93,6 @@ The panel at KJC focuses on your values and communication skills. Mohit Jain’s
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

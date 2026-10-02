@@ -9,7 +9,7 @@ description: >-
 keywords:
   - Manipal University campuses
   - MIT Manipal BTech
-  - '[Manipal University Jaipur](/colleges/manipal-university-jaipur) review'
+  - '[Manipal University Jaipur](/colleges/manipal-university-jaipur/) review'
   - MIT Bengaluru fee
   - SMIT Sikkim admission
   - MET 2026 cutoff
@@ -65,14 +65,14 @@ The Bengaluru campus is the newest major addition to the MAHE umbrella, specific
 - **Fees:** Very similar to the Manipal main campus, standing at approximately **₹18 - ₹20 Lakhs** for engineering tuition.
 - **Placements:** Being located in Yelahanka, Bengaluru, provides immense internship opportunities. Placements are typically pooled with the main campus, giving students an identical platform to secure tier-1 IT jobs.
 
-## 3. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)
+## 3. [Manipal University Jaipur](/colleges/manipal-university-jaipur/) (MUJ)
 Located in Dehmi Kalan, Jaipur, **MUJ** operates as a separate state university but carries the profound Manipal legacy. It features one of India's most breathtaking, modern campus infrastructures and an elite socio-cultural student life.
 
 - **Admission Process:** Admissions occur via **MET**, direct board marks evaluation (for select branches), and Management Quota. 
 - **Top Courses:** CSE (AI & ML), CSE (Data Science), Information Technology.
 - **Fees:** The total B.Tech tuition fee costs around **₹16 - ₹18 Lakhs**, with luxury hostel options pushing total expenses up.
 - **Placements:** Growing exceptionally fast. Top coders secure packages above **₹40 LPA** with Amazon, Microsoft, and Dell. Average CSE placements sit comfortably at **₹8 - ₹10 LPA**.
-- **Direct Admission Info:** Since MUJ operates slightly differently, students with lower MET scores often seek premium branch entries here. Read our extensive guide on [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026) for exact protocols.
+- **Direct Admission Info:** Since MUJ operates slightly differently, students with lower MET scores often seek premium branch entries here. Read our extensive guide on [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur/) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026) for exact protocols.
 
 ## 4. Sikkim Manipal Institute of Technology (SMIT)
 Situated on the serene banks of the river Teesta in Majitar, Sikkim, **SMIT** is the oldest off-campus institute of the Manipal group. It provides a peaceful, pollution-free, and highly disciplined academic environment.
@@ -87,10 +87,10 @@ Situated on the serene banks of the river Teesta in Majitar, Sikkim, **SMIT** is
 
 1. **Choose MIT Manipal** if you secure a top rank in MET and desire a purely historic, competitive, and legendary alumni network (Satya Nadella is a notable alumnus).
 2. **Choose MIT Bengaluru** if you specifically want to leverage start-up and local IT internships in India's leading tech city.
-3. **Choose MUJ (Jaipur)** if you missed the main campus cutoff for CSE, want spectacular infrastructure, or are looking for management/[direct admissions to B.Tech Colleges in India](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
+3. **Choose MUJ (Jaipur)** if you missed the main campus cutoff for CSE, want spectacular infrastructure, or are looking for management/[direct admissions to B.Tech Colleges in India](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/).
 4. **Choose SMIT Sikkim** if you're seeking a budget-friendly Manipal tag with gorgeous terrain and a calm atmosphere away from city distractions.
 
-Are you still confused about where to secure your B.Tech seat? Familiarize yourself with the various [B.Tech Specializations Available in 2026](/blog/btech-specializations-skills-salary-2026-guide) or test your engineering preparation levels completely free using our [Online JEE Main Mock Test Evaluator](/tools/jee-main-mock-test).
+Are you still confused about where to secure your B.Tech seat? Familiarize yourself with the various [B.Tech Specializations Available in 2026](/blog/btech-specializations-skills-salary-2026-guide/) or test your engineering preparation levels completely free using our [Online JEE Main Mock Test Evaluator](/tools/jee-main-mock-test/).
 
 ---
 
@@ -112,6 +112,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

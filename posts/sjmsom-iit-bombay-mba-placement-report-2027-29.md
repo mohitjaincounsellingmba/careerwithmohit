@@ -39,19 +39,19 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
+The **Shailesh J. Mehta School of Management (SJMSOM)** at **[IIT Bombay](/colleges/iit-bombay/)** stands as one of India's most prestigious management schools, consistently challenging older IIMs in placement figures, corporate reputation, and return on investment.
 
 The **2025 MBA placement season** at SJMSOM was marked by outstanding recruiter confidence, achieving **100% placements** with strong participation across consulting, investment banking, operations, and product management.
 
-Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bombay) MBA Placement Report 2027–29**.
+Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bombay/) MBA Placement Report 2027–29**.
 
 ---
 
-[InquiryCard title="Aiming for SJMSOM [IIT Bombay](/colleges/iit-bombay) or Top IIT MBA Programs?" description="Get your CAT percentile and engineering profile mapped to top MBA options with expert counsellor Mohit Jain." cta="Get Free Profile Evaluation" type="admission"]
+[InquiryCard title="Aiming for SJMSOM [IIT Bombay](/colleges/iit-bombay/) or Top IIT MBA Programs?" description="Get your CAT percentile and engineering profile mapped to top MBA options with expert counsellor Mohit Jain." cta="Get Free Profile Evaluation" type="admission"]
 
 ---
 
-## 1. SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement 2025: Key Highlights
+## 1. SJMSOM [IIT Bombay](/colleges/iit-bombay/) Placement 2025: Key Highlights
 
 | Metric | Placement Statistics (2025 Batch) |
 | :--- | :--- |
@@ -69,7 +69,7 @@ Here is the exhaustive analysis of the **SJMSOM [IIT Bombay](/colleges/iit-bomba
 ## 2. Sector-Wise Placement Breakdown
 
 ```mermaid
-pie title SJMSOM [IIT Bombay](/colleges/iit-bombay) Sector Hiring 2025
+pie title SJMSOM [IIT Bombay](/colleges/iit-bombay/) Sector Hiring 2025
     "Strategy & Consulting" : 34
     "BFSI & Investment Banking" : 26
     "Supply Chain & Operations" : 22
@@ -98,9 +98,9 @@ Capitalizing on IIT Bombay’s deep engineering strengths, global supply chain g
 | Institute | Total 2-Year Tuition Fees | Average Starting CTC (2025) | Payback Period |
 | :--- | :--- | :--- | :--- |
 | **SJMSOM IIT Bombay** | **₹14.5 Lakhs** | **₹25.82 LPA** | **~7-8 Months** |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹28.0 Lakhs | ₹34.45 LPA | ~10-12 Months |
-| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2027-29)** | ₹24.0 Lakhs | ₹32.00 LPA | ~9-11 Months |
-| **[MDI Gurgaon](/blog/mdi-gurgaon-pgdm-placement-report-2027-29)** | ₹25.5 Lakhs | ₹25.60 LPA | ~12-14 Months |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | ₹28.0 Lakhs | ₹34.45 LPA | ~10-12 Months |
+| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2027-29/)** | ₹24.0 Lakhs | ₹32.00 LPA | ~9-11 Months |
+| **[MDI Gurgaon](/blog/mdi-gurgaon-pgdm-placement-report-2027-29/)** | ₹25.5 Lakhs | ₹25.60 LPA | ~12-14 Months |
 
 ---
 
@@ -108,13 +108,13 @@ Capitalizing on IIT Bombay’s deep engineering strengths, global supply chain g
 
 *   **CAT Cutoff**: SJMSOM requires a minimum overall CAT percentile of **98.5+ to 99+ percentile** for General category candidates.
 *   **Eligibility**: 4-year Bachelor’s degree in Engineering/Technology or Master’s in Science.
-*   For the complete national benchmark, read our **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**.
+*   For the complete national benchmark, read our **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**.
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

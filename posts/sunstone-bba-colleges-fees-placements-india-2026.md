@@ -64,8 +64,8 @@ This edge includes:
 Sunstone has a wide network of partner colleges across major educational hubs in India. Here are some of the prominent partner campuses for the BBA program:
 
 ### **North India (Delhi NCR, Jaipur, Punjab/Haryana)**
-*   **Delhi NCR:** [GD Goenka University](/colleges/gd-goenka-gurgaon) (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
-*   **Jaipur:** [JECRC University](/colleges/jecrc-jaipur), Vivekananda Global University (VGU), Jaipur National University
+*   **Delhi NCR:** [GD Goenka University](/colleges/gd-goenka-gurgaon/) (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
+*   **Jaipur:** [JECRC University](/colleges/jecrc-jaipur/), Vivekananda Global University (VGU), Jaipur National University
 *   **Punjab/Chandigarh:** Rayat-Bahra University (Mohali)
 *   **Lucknow:** Shri Ramswaroop Memorial University
 
@@ -130,16 +130,16 @@ Always verify the specific details for the campus you choose, as infrastructure,
 ---
 
 ## 🔗 Related Resources
-*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-*   [BBA Specializations, Skills & Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide)
-*   [Best Direct Admission ROI MBA Colleges in Delhi NCR](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29)
+*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+*   [BBA Specializations, Skills & Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+*   [Best Direct Admission ROI MBA Colleges in Delhi NCR](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29/)
 
 ---
 
 ## 📞 Get Personalized Counselling
 Are you confused about which Sunstone partner college is best for you? Let our expert counsellors guide you.
 
-[👉 Get Free BBA Counselling](/inquiry) | [💬 Book a Session with Mohit Jain](/inquiry)
+[👉 Get Free BBA Counselling](/inquiry/) | [💬 Book a Session with Mohit Jain](/inquiry/)
 
 ---
 
@@ -161,6 +161,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

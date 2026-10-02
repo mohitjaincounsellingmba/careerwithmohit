@@ -56,14 +56,14 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 | College Name | Accepted Exams | Total Fees (Approx) | Average Package | Highest Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹35.07 LPA | ₹1.15 CPA |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹35.07 LPA | ₹1.15 CPA |
 | **VGSOM IIT Kharagpur** | CAT (95+ %ile) | ₹11.50 Lakhs | ₹22.13 LPA | ₹43.37 LPA |
 | **IISWBM Kolkata** | CAT / MAT (75+ %ile) | ₹3.85 Lakhs | ₹8.50 LPA | ₹18.00 LPA |
-| **[IMI Kolkata](/colleges/imi-kolkata)** | CAT / XAT / CMAT (70+ %ile) | ₹13.20 Lakhs | ₹10.65 LPA | ₹20.70 LPA |
-| **[Globsyn Business School](/colleges/globsyn-kolkata)** | CAT / MAT / CMAT / XAT | ₹8.70 Lakhs | ₹7.50 LPA | ₹23.34 LPA |
-| **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹9.50 Lakhs | ₹9.46 LPA | ₹16.00 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata/)** | CAT / XAT / CMAT (70+ %ile) | ₹13.20 Lakhs | ₹10.65 LPA | ₹20.70 LPA |
+| **[Globsyn Business School](/colleges/globsyn-kolkata/)** | CAT / MAT / CMAT / XAT | ₹8.70 Lakhs | ₹7.50 LPA | ₹23.34 LPA |
+| **[Praxis Business School](/colleges/praxis-kolkata/)** | CAT / XAT / CMAT / MAT | ₹9.50 Lakhs | ₹9.46 LPA | ₹16.00 LPA |
 | **IEM Kolkata (Inst of Engg & Mgmt)** | CAT / MAT / CMAT / WBJEMAT | ₹6.50 Lakhs | ₹6.80 LPA | ₹15.00 LPA |
-| **[Heritage Business School](/colleges/heritage-business-school)** | MAT / CMAT / WBJEMAT | ₹5.85 Lakhs | ₹5.50 LPA | ₹12.00 LPA |
+| **[Heritage Business School](/colleges/heritage-business-school/)** | MAT / CMAT / WBJEMAT | ₹5.85 Lakhs | ₹5.50 LPA | ₹12.00 LPA |
 
 ---
 
@@ -74,20 +74,20 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 * **Why Highest ROI**: 2-year fee of just ₹3.85 Lakhs with average placements of ₹8.50 LPA.
 * **Key Recruiters**: PwC, EY, Deloitte, ICICI Bank, Tata Steel, ITC.
 
-### 2. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
+### 2. [IMI Kolkata](/colleges/imi-kolkata/) (International Management Institute)
 * **Highlights**: Sponsored by RP-Sanjiv Goenka Group. Located in Alipore campus, NBA accredited.
 * **Placement Highlight**: Average package of ₹10.65 LPA with strong hiring in Analytics and BFSI.
 
-### 3. [Globsyn Business School](/colleges/globsyn-kolkata) (GBS), Kolkata
+### 3. [Globsyn Business School](/colleges/globsyn-kolkata/) (GBS), Kolkata
 * **Highlights**: Known for its 'Beyond Education' pedagogy, corporate board mentorship, and AICTE PGDM program.
-* **Placements**: Average salary ₹7.50 LPA. Read full detailed review at [All About Globsyn Kolkata](/blog/all-about-globsyn-kolkata).
+* **Placements**: Average salary ₹7.50 LPA. Read full detailed review at [All About Globsyn Kolkata](/blog/all-about-globsyn-kolkata/).
 
-### 4. [Praxis Business School](/colleges/praxis-kolkata), Kolkata
+### 4. [Praxis Business School](/colleges/praxis-kolkata/), Kolkata
 * **Highlights**: Premier institute for Business Analytics, Data Science, and Financial Engineering.
 * **Placements**: Median package ₹9.46 LPA in top tech analytics companies.
 
 ### 5. IEM Kolkata (Institute of Engineering & Management)
-* **Highlights**: Located in Salt Lake Sector V (Kolkata IT Hub), offering excellent industrial connectivity. Read [All About IEM Kolkata](/blog/all-about-iem-kolkata).
+* **Highlights**: Located in Salt Lake Sector V (Kolkata IT Hub), offering excellent industrial connectivity. Read [All About IEM Kolkata](/blog/all-about-iem-kolkata/).
 
 ---
 
@@ -95,9 +95,9 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 | Entrance Exam | Composite Score / Percentile | Eligible Institutes |
 | :--- | :--- | :--- |
-| **CAT / XAT 2026/2027** | 75+ Percentile | [IMI Kolkata](/colleges/imi-kolkata), IISWBM |
+| **CAT / XAT 2026/2027** | 75+ Percentile | [IMI Kolkata](/colleges/imi-kolkata/), IISWBM |
 | **MAT 2026/2027** | 600+ Composite Score (60-80 %ile) | Globsyn, Praxis, IEM, Heritage |
-| **CMAT 2027** | 65 - 85 Percentile | [IMI Kolkata](/colleges/imi-kolkata), Globsyn, Praxis, IEM |
+| **CMAT 2027** | 65 - 85 Percentile | [IMI Kolkata](/colleges/imi-kolkata/), Globsyn, Praxis, IEM |
 | **JEMAT 2027** | State rank within top 1000 | IISWBM, IEM, Heritage |
 
 ---
@@ -112,6 +112,6 @@ For management aspirants planning **2027-29 admissions in Eastern India**, Kolka
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

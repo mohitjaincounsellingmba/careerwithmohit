@@ -36,7 +36,7 @@ faqs:
       **₹9.5 Lakhs to ₹12.5 Lakhs**, with top performers frequently exceeding
       ₹18 Lakhs.
   - question: Does NDIM have foreign tie-ups?
-    answer: "Yes. NDIM has unique collaborations, including the \"Japan-India Institute for Manufacturing\" (JIM), offering students international perspectives and specialized technical-management training.\n\n[\U0001F449 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison)\n\n**Make the Legacy Move.**\nAt **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.\n\n[\U0001F449 Get Expert Admission Help for NDIM!](/inquiry)"
+    answer: "Yes. NDIM has unique collaborations, including the \"Japan-India Institute for Manufacturing\" (JIM), offering students international perspectives and specialized technical-management training.\n\n[\U0001F449 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison/)\n\n**Make the Legacy Move.**\nAt **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.\n\n[\U0001F449 Get Expert Admission Help for NDIM!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
@@ -47,13 +47,13 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-When it comes to choosing the right PGDM program in the national capital, two names often come up: **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** and **Delhi School of Business (DSB)**. 
+When it comes to choosing the right PGDM program in the national capital, two names often come up: **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)** and **Delhi School of Business (DSB)**. 
 
 While both offer good infrastructure and corporate locations, at **CareerWithMohit**, we’ve analyzed the data for the **2026 admission cycle**, and the conclusion is clear: **The NDIM Legacy is the safer and more profitable investment for your career.**
 
 ### **Quick Comparison: 2026 Projections**
 
-| Feature | [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) | Delhi School of Business (DSB/VIPS) |
+| Feature | [New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) | Delhi School of Business (DSB/VIPS) |
 | :--- | :--- | :--- |
 | **Legacy & Brand** | **34 Years (Est. 1992)** | ~12 Years (Est. 2012) |
 | **National Ranking** | **Best B-School (ASSOCHAM 3 Years Row)** | Emerging Tier-2 |
@@ -88,7 +88,7 @@ DSB is a good college, especially since it is part of the **VIPS (Vivekananda In
 
 ### **Which One Should You Choose?**
 
-#### **Join [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) IF:**
+#### **Join [New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) IF:**
 - You want the **proven brand power** and premium corporate access of a 34-year-old legacy.
 - You are targeting **Double Specializations** to match 2026 tech trends.
 - You want the highest possible starting package (₹12 LPA+) and a global alumni reach.
@@ -110,12 +110,12 @@ The average package for the 2027–29 batch is projected to range from **₹9.5 
 **3. Does NDIM have foreign tie-ups?**
 Yes. NDIM has unique collaborations, including the "Japan-India Institute for Manufacturing" (JIM), offering students international perspectives and specialized technical-management training.
 
-[👉 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison)
+[👉 Compare NDIM with FOSTIIMA and IMI!](/tools/college-comparison/)
 
 **Make the Legacy Move.**
 At **CareerWithMohit**, we help you navigate the noisy MBA market to find an institution that actually builds your future brand.
 
-[👉 Get Expert Admission Help for NDIM!](/inquiry)
+[👉 Get Expert Admission Help for NDIM!](/inquiry/)
 
 
 
@@ -123,6 +123,6 @@ At **CareerWithMohit**, we help you navigate the noisy MBA market to find an ins
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

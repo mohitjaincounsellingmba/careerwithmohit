@@ -182,7 +182,7 @@ export default function EngineeringCollegesDelhiPage() {
                                     </div>
                                 </div>
                             </div>
-                            <Link href="/inquiry" className="block text-center border-2 border-foreground py-2 text-xs font-black uppercase bg-accent text-foreground hover:bg-primary hover:text-white transition-colors">
+                            <Link href="/inquiry/" className="block text-center border-2 border-foreground py-2 text-xs font-black uppercase bg-accent text-foreground hover:bg-primary hover:text-white transition-colors">
                                 Get Cutoff & Admission Help
                             </Link>
                         </div>

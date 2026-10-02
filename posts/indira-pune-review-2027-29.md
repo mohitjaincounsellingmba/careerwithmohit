@@ -62,7 +62,7 @@ The Indira Group of Institutes (IGI) is a household name in Pune's management ed
 ### **Fee Structure:**
 The total tuition fee for the MBA program is approximately **₹3.4 - ₹5.0 Lakhs** (for Govt Seats) and up to **₹9.0 Lakhs** for PGDM/Private seats. It is an excellent mid-tier choice for students with a 70-90 percentile range.
 
-[👉 Check the latest Indira Pune cut-offs and seat availability!](/inquiry)
+[👉 Check the latest Indira Pune cut-offs and seat availability!](/inquiry/)
 
 ---
 
@@ -84,7 +84,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -98,6 +98,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

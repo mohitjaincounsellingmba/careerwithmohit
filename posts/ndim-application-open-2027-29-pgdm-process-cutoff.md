@@ -80,7 +80,7 @@ state: Delhi NCR
 
 ---
 
-**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
+**[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
 
 Recognized consecutively by **AICTE-CII as the #1 B-School in India for Industry Linkages for 3 years**, NDIM offers a future-ready PGDM curriculum designed in consultation with corporate titans from Big 4 consulting firms, multinational financial conglomerates, and fast-growing tech enterprises.
 
@@ -92,7 +92,7 @@ If you are planning to target top-tier PGDM institutions in Delhi NCR with stron
 
 | Admission Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institute Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** |
+| **Institute Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)** |
 | **Admission Intake** | **32nd Batch (2027–2029 Academic Session)** |
 | **Application Status** | **Applications OPEN (Early Admissions Round)** |
 | **Flagship Program** | **2-Year Full-Time PGDM (Dual Specialization)** |
@@ -149,7 +149,7 @@ NDIM follows a **holistic profile-based evaluation system**. While high entrance
 | Entrance Exam | General Merit Cutoff | Profile-Based Call Cutoff | Test Validity & Scope |
 | :--- | :--- | :--- | :--- |
 | **CAT 2026** | **60 – 70 Percentile** | **55+ Percentile** | National IIMs Exam |
-| **XAT 2027** | **60 – 70 Percentile** | **55+ Percentile** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) Test |
+| **XAT 2027** | **60 – 70 Percentile** | **55+ Percentile** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) Test |
 | **CMAT 2027** | **70 – 80 Percentile** | **65+ Percentile** | NTA National Test |
 | **MAT (2026–2027)** | **70 – 80 Percentile** (550+ Composite) | **65+ Percentile** | AIMA Multi-Session Test |
 | **ATMA 2027** | **70 – 75 Percentile** | **65+ Percentile** | AIMS National Test |
@@ -303,13 +303,13 @@ NDIM maintains an enviable **100% placement track record** with marquee corporat
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalence · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni |
-| **[Jaipuria Institute of Management (Noida)](/colleges/jaipuria-noida)** | ₹14.75 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · NAAC A+ |
-| **[FIIB South Delhi](/colleges/fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
-| **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji)** | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · NBA Accredited, AIU Equivalence |
-| **[IILM Lodhi Road Delhi](/colleges/iilm-delhi)** | ₹12.50 Lakhs | ₹8.60 LPA | CAT/MAT/XAT (60%+ %ile) · Prime Central Delhi Location |
-| **[MERI Janakpuri Delhi](/colleges/meri-delhi)** | ₹5.95 Lakhs | ₹7.50 LPA | CAT/MAT/CMAT (55%+ %ile) · High West Delhi ROI |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalence · ₹2.5 Cr Scholarships** |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni |
+| **[Jaipuria Institute of Management (Noida)](/colleges/jaipuria-noida/)** | ₹14.75 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · NAAC A+ |
+| **[FIIB South Delhi](/colleges/fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
+| **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji/)** | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · NBA Accredited, AIU Equivalence |
+| **[IILM Lodhi Road Delhi](/colleges/iilm-delhi/)** | ₹12.50 Lakhs | ₹8.60 LPA | CAT/MAT/XAT (60%+ %ile) · Prime Central Delhi Location |
+| **[MERI Janakpuri Delhi](/colleges/meri-delhi/)** | ₹5.95 Lakhs | ₹7.50 LPA | CAT/MAT/CMAT (55%+ %ile) · High West Delhi ROI |
 
 ---
 
@@ -330,7 +330,7 @@ Applying early during the **first admission cycle (October–January)** provides
 ## 13. Frequently Asked Questions (FAQs)
 
 ### Q1. Is the NDIM Delhi PGDM application form open for the 2027–29 batch?
-Yes, [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) has officially opened online applications for its flagship 2-year full-time PGDM program for the 2027–2029 academic session (32nd Batch). Candidates can apply online through the official admission portal.
+Yes, [New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) has officially opened online applications for its flagship 2-year full-time PGDM program for the 2027–2029 academic session (32nd Batch). Candidates can apply online through the official admission portal.
 
 ### Q2. What are the entrance exam cutoffs for NDIM Delhi PGDM admission 2027?
 NDIM accepts CAT (60–70 percentile), XAT (60–70 percentile), CMAT (70–80 percentile), MAT (70–80 percentile / Composite 550+), ATMA (70–75 percentile), and GMAT (500+ score). Candidates with strong academic profiles and extracurricular achievements can also qualify under profile-based shortlisting.
@@ -353,16 +353,16 @@ Yes, students appearing in the final year/semester of their Bachelor's degree ex
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [Management Education & Research Institute (MERI) Delhi MBA/PGDM 2027-29 Guide](/blog/meri-delhi-mba-pgdm-admission-2027-29)
-- [JIMS Kalkaji PGDM Admission 2027-29 Guide](/blog/jims-kalkaji-delhi-pgdm-admission-2027-29)
-- [FIIB South Delhi PGDM Admission 2027-29 Guide](/blog/fiib-delhi-pgdm-admission-2027-29)
-- [Top PGDM Colleges in Delhi NCR 2027](/blog/top-pgdm-colleges-delhi-ncr-2027)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [Management Education & Research Institute (MERI) Delhi MBA/PGDM 2027-29 Guide](/blog/meri-delhi-mba-pgdm-admission-2027-29/)
+- [JIMS Kalkaji PGDM Admission 2027-29 Guide](/blog/jims-kalkaji-delhi-pgdm-admission-2027-29/)
+- [FIIB South Delhi PGDM Admission 2027-29 Guide](/blog/fiib-delhi-pgdm-admission-2027-29/)
+- [Top PGDM Colleges in Delhi NCR 2027](/blog/top-pgdm-colleges-delhi-ncr-2027/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

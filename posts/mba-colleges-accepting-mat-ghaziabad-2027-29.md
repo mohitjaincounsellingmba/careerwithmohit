@@ -67,7 +67,7 @@ A well-established management institute offering excellent industry networking a
 - **Approx Tuition Fees (2 Years):** ₹6.50 Lakhs
 - **Average Placement Package:** ₹6.80 LPA
 
-### 2. [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad)
+### 2. [Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad/)
 Focuses on dual specializations, digital marketing modules, and industrial internships.
 - **MAT Cutoff Percentile:** 60+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹8.20 Lakhs
@@ -79,7 +79,7 @@ Known for outstanding academic discipline, grooming, and central placement syste
 - **Approx Tuition Fees (2 Years):** ₹10.5 Lakhs
 - **Average Placement Package:** ₹7.50 LPA
 
-### 4. [KIET Group of Institutions](/colleges/kiet-ghaziabad)
+### 4. [KIET Group of Institutions](/colleges/kiet-ghaziabad/)
 Highly affordable choice with an MBA program affiliated to APJ Abdul Kalam Technical University.
 - **MAT Cutoff Percentile:** 60+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹3.50 Lakhs
@@ -92,9 +92,9 @@ Highly affordable choice with an MBA program affiliated to APJ Abdul Kalam Techn
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
 | **Institute of Technology and Science (I.T.S)** | 65+ Percentile | ₹6.50 Lakhs | **₹6.80 LPA** |
-| **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad)** | 60+ Percentile | ₹8.20 Lakhs | **₹6.60 LPA** |
+| **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad/)** | 60+ Percentile | ₹8.20 Lakhs | **₹6.60 LPA** |
 | **Christ University (Delhi NCR Campus)** | 70+ Percentile | ₹10.5 Lakhs | **₹7.50 LPA** |
-| **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | 60+ Percentile | ₹3.50 Lakhs | **₹5.00 LPA** |
+| **[KIET Group of Institutions](/colleges/kiet-ghaziabad/)** | 60+ Percentile | ₹3.50 Lakhs | **₹5.00 LPA** |
 
 ---
 
@@ -112,14 +112,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -130,6 +130,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

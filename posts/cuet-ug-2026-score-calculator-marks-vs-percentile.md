@@ -38,11 +38,11 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CUET UG 2026 Score Calculator: Marks vs Percen...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Millions of students across India prepare tirelessly for the CUET UG exam. Once the exam is over, the immediate question on everyone's mind is simple: "What will my final score and percentile be?" 
 
-If you are eager to know your admission chances, using our official [NTA CUET UG Score Calculator](/calculator/cuet-ug-2026) early on is a smart move. In this comprehensive guide, we will break down the **CUET UG 2026 marking scheme**, discuss how to use the **CUET response sheet to calculate marks**, and explain the much-debated **CUET normalization process**.
+If you are eager to know your admission chances, using our official [NTA CUET UG Score Calculator](/calculator/cuet-ug-2026/) early on is a smart move. In this comprehensive guide, we will break down the **CUET UG 2026 marking scheme**, discuss how to use the **CUET response sheet to calculate marks**, and explain the much-debated **CUET normalization process**.
 
 ---
 
@@ -103,21 +103,21 @@ Banaras Hindu University (BHU) is another heavily targeted institution. The **CU
 ## 🔍 Try Our CUET Score Predictor 2026
 
 Don't stay in the dark until the final results day! Our official **CUET Score Predictor 2026** helps you eliminate anxiety by converting your raw scores into realistic percentiles. 
-Whether you're targeting Delhi University, BHU, or JMI, head over to the **[CUET UG 2026 Score Calculator](/calculator/cuet-ug-2026)** to find your predicted rank today!
+Whether you're targeting Delhi University, BHU, or JMI, head over to the **[CUET UG 2026 Score Calculator](/calculator/cuet-ug-2026/)** to find your predicted rank today!
 
 ---
 
 ## 🔗 Related Resources
-*   [All About CUET UG Exam 2026](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr)
-*   [Delhi University (DU) B.Com Admission Guide 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29)
+*   [All About CUET UG Exam 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr/)
+*   [Delhi University (DU) B.Com Admission Guide 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/)
 
 ---
 
 ## 📞 Career Counselling Guidance
 Navigating the exact course cut-offs, normalization processes, and preference sheets (like DU CSAS) is complex. If you need clarity on your admission chances:
 
-[💬 Schedule a Career Counselling Session](/inquiry) | [👉 Explore Top Universities](/colleges)
+[💬 Schedule a Career Counselling Session](/inquiry/) | [👉 Explore Top Universities](/colleges/)
 
 ---
 
@@ -139,6 +139,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

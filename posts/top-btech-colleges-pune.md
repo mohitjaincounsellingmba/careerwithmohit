@@ -68,12 +68,12 @@ COEP is a legacy institution and one of the oldest engineering colleges in Asia.
 - **Expected Cutoff (CSE):** 99.5+ Percentile
 - **Top Recruiters:** Google, Microsoft, Tata Motors, Bajaj Auto.
 
-## 💻 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)
+## 💻 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune/)
 If your goal is to land a job at a FAANG or a top-tier startup, PICT is the place to be. It is strictly focused on Computer Engineering, IT, and Electronics.
 - **Highest Package (2026 Trend):** ₹95.5 LPA (International)
 - **USP:** A rigorous academic environment that produces some of the best coders in Maharashtra.
 
-## 🌍 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)
+## 🌍 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)
 Located in the heart of Kothrud, MIT-WPU is a private powerhouse. It offers a premium campus life and has one of the largest engineering student intakes in the city.
 - **CSE Total Fees:** ~₹16.5 Lakhs
 - **USP:** World-class infrastructure and massive industry-academia collaborations with global firms.
@@ -118,16 +118,16 @@ For Tier-1 colleges (COEP, PICT), the average package ranges from ₹12L to ₹1
 ---
 
 ### Useful Links:
-- [JEE Main 2026 College Predictor](/blog/jee-main-2026-college-predictor-rank-vs-college)
-- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [JEE Main 2026 College Predictor](/blog/jee-main-2026-college-predictor-rank-vs-college/)
+- [Top B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
 **Planning your Tech Career in the Oxford of the East?**
 Pune is about discipline and depth. Don't waste your score on a college without an industrial tie-up. Mohit Jain provides a "Pune Tech Audit"—helping you pick the college that matches your goals for global IT or core manufacturing.
 
-[👉 Book My Pune Tech Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Pune Tech Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -136,6 +136,6 @@ Pune is about discipline and depth. Don't waste your score on a college without 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

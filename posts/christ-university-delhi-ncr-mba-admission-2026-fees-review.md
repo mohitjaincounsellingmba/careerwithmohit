@@ -36,7 +36,7 @@ faqs:
       campus offers unique placement cycles focused on Northern India's
       industrial centers.
   - question: What is the dress code?
-    answer: "Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n\n**Confused Between Delhi NCR and Bangalore?**\nBangalore is the \"Silicon Valley,\" but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)\n\n**Confused Between Delhi NCR and Bangalore?**\nBangalore is the \"Silicon Valley,\" but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -97,14 +97,14 @@ The Bangalore campuses have a larger corporate volume, but the Delhi NCR campus 
 Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)
 
 **Confused Between Delhi NCR and Bangalore?**
 Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.
 
-[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)
 
 
 
@@ -112,7 +112,7 @@ Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corpo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -126,6 +126,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

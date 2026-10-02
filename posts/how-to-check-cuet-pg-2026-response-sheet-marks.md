@@ -48,7 +48,7 @@ Typically, the National Testing Agency (NTA) releases the response sheets within
 *   **Final Exam Date**: March 27, 2026
 *   **Expected Response Sheet Date**: April 4 – April 7, 2026
 *   **Final Answer Key Release**: Late April 2026
-*   **CUET PG 2026 Result Expected**: Early May 2026 ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date))
+*   **CUET PG 2026 Result Expected**: Early May 2026 ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date/))
 
 ---
 
@@ -76,7 +76,7 @@ The CUET PG 2026 follows a specific marking scheme. Use this formula to get your
 `Total Score = (Number of Correct Answers × 4) - (Number of Incorrect Answers × 1)`
 
 > **Struggling with the manual calculation?** 
-> Use our **[CUET PG 2026 Score Calculator](/calculator/cuet-pg-2026)** to get an instant breakdown of your marks vs percentile!
+> Use our **[CUET PG 2026 Score Calculator](/calculator/cuet-pg-2026/)** to get an instant breakdown of your marks vs percentile!
 
 ---
 
@@ -92,21 +92,21 @@ If you find that an answer marked as "correct" by NTA is actually wrong, you hav
 
 Once you have your raw score, the real game begins. You need to understand which universities fit into your score bracket. 
 
-1.  **Check Percentile Trends**: A score of 200/300 might seem low, but depending on the paper difficulty, it could land you in the 98th percentile. ([Read Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)).
-2.  **Predict Your MBA Colleges**: If you are an MBA aspirant, use our predictor tool to see which tier-1 and tier-2 colleges are within reach. ([Try CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges)).
+1.  **Check Percentile Trends**: A score of 200/300 might seem low, but depending on the paper difficulty, it could land you in the 98th percentile. ([Read Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)).
+2.  **Predict Your MBA Colleges**: If you are an MBA aspirant, use our predictor tool to see which tier-1 and tier-2 colleges are within reach. ([Try CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/)).
 3.  **Start University Registration**: Remember, DU and BHU release separate registration links for counseling. Do not miss those deadlines!
 
 ---
 
 ### **💡 Related Resources for Candidates:**
-- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
+- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
 
 **Need Experts to Handle Your Admission?**
 The post-exam counseling process is often more stressful than the exam itself. From choice filling to document verification, we provide expert guidance to ensure you don't lose your seat.
 
-[👉 Connect with Mohit Jain for Admission Guidance](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+[👉 Connect with Mohit Jain for Admission Guidance](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
 
 
 
@@ -115,6 +115,6 @@ The post-exam counseling process is often more stressful than the exam itself. F
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

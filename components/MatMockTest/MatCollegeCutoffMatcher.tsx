@@ -288,7 +288,7 @@ export function MatCollegeCutoffMatcher() {
         </div>
 
         <Link
-          href="/mba-application-form-discount"
+          href="/mba-application-form-discount/"
           className="inline-flex items-center justify-center gap-2 bg-primary hover:bg-secondary text-white px-6 py-3.5 rounded-xl font-black text-xs uppercase tracking-wider shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-0.5 whitespace-nowrap"
         >
           <Sparkles className="w-4 h-4 text-accent" />

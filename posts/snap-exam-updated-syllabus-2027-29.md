@@ -11,7 +11,7 @@ keywords:
   - SNAP exam pattern 2026
   - SNAP analytical reasoning syllabus
   - SNAP quant syllabus weightage
-  - '[SIBM Pune](/colleges/sibm-pune) SNAP cutoff syllabus'
+  - '[SIBM Pune](/colleges/sibm-pune/) SNAP cutoff syllabus'
   - Pune Colleges
   - Best Colleges in Pune
   - Top Colleges in Pune 2026
@@ -47,7 +47,7 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Symbiosis National Aptitude Test (SNAP)** is one of India's most popular MBA entrance exams, acting as the single-window gateway to 16 prestigious institutes under Symbiosis International (Deemed University) – including flagship campuses like **[SIBM Pune](/colleges/sibm-pune)** and **[SCMHRD Pune](/colleges/scmhrd-pune)**.
+The **Symbiosis National Aptitude Test (SNAP)** is one of India's most popular MBA entrance exams, acting as the single-window gateway to 16 prestigious institutes under Symbiosis International (Deemed University) – including flagship campuses like **[SIBM Pune](/colleges/sibm-pune/)** and **[SCMHRD Pune](/colleges/scmhrd-pune/)**.
 
 Unlike CAT or XAT, SNAP is purely a **speed-driven aptitude assessment**. With **60 questions to answer in just 60 minutes**, understanding the **updated SNAP exam syllabus and topic-wise weightage** is the single most critical factor in maximizing your score.
 
@@ -102,7 +102,7 @@ The General English section tests vocabulary speed, grammatical correctness, and
 
 ### 2. Analytical & Logical Reasoning (25 Questions | 25 Marks)
 
-As the highest-weighted section in SNAP, **Analytical & Logical Reasoning (ALR)** decides whether you clear the 98+ percentile cutoff for **[SIBM Pune](/colleges/sibm-pune)**. The questions test non-verbal reasoning, puzzle-solving, pattern detection, and critical thinking.
+As the highest-weighted section in SNAP, **Analytical & Logical Reasoning (ALR)** decides whether you clear the 98+ percentile cutoff for **[SIBM Pune](/colleges/sibm-pune/)**. The questions test non-verbal reasoning, puzzle-solving, pattern detection, and critical thinking.
 
 #### High-Yield Topics & Weightage:
 * **Arrangements & Puzzles:** Linear Seating Arrangements, Circular Arrangements, Matrix & Scheduling Puzzles.
@@ -166,9 +166,9 @@ If you are preparing for both CAT and SNAP, keep these core strategy differences
 
 To get call invitations for GD-PI-WAT, aim for the following score targets out of 60 marks:
 
-* **[SIBM Pune](/colleges/sibm-pune) (Flagship MBA):** **98.5+ Percentile** (Target Score: **41–44 Marks**)
-* **[SCMHRD Pune](/colleges/scmhrd-pune) (MBA & MBA-HR):** **97.5+ Percentile** (Target Score: **39–42 Marks**)
-* **[SIBM Bangalore](/colleges/sibm-bangalore):** **90.0+ Percentile** (Target Score: **34–36 Marks**)
+* **[SIBM Pune](/colleges/sibm-pune/) (Flagship MBA):** **98.5+ Percentile** (Target Score: **41–44 Marks**)
+* **[SCMHRD Pune](/colleges/scmhrd-pune/) (MBA & MBA-HR):** **97.5+ Percentile** (Target Score: **39–42 Marks**)
+* **[SIBM Bangalore](/colleges/sibm-bangalore/):** **90.0+ Percentile** (Target Score: **34–36 Marks**)
 * **SIIB Pune (International Business):** **92.0+ Percentile** (Target Score: **35–37 Marks**)
 * **SIOM Nashik (Operations Management):** **85.0+ Percentile** (Target Score: **30–32 Marks**)
 
@@ -176,10 +176,10 @@ To get call invitations for GD-PI-WAT, aim for the following score targets out o
 
 ## Related Guides & Practice Resources
 
-* 📖 **[All About SNAP Exam 2026: Cutoffs, Pattern & Top Colleges](/blog/all-about-snap-exam)**
-* 📝 **[SNAP 2026 Application Form & Registration Step-by-Step Guide](/blog/snap-2026-application-form-notification-registration-dates-fees-guide)**
-* ⚡ **[SNAP 2026 Section-Wise Strategy: Which Section to Attempt First?](/blog/snap-2026-section-wise-trends-which-sections-attempt-first)**
-* 🎯 **[Free SNAP Mock Test Series 2026: Speed CBT & Analytics](/blog/free-snap-mock-test-2027-29)**
+* 📖 **[All About SNAP Exam 2026: Cutoffs, Pattern & Top Colleges](/blog/all-about-snap-exam/)**
+* 📝 **[SNAP 2026 Application Form & Registration Step-by-Step Guide](/blog/snap-2026-application-form-notification-registration-dates-fees-guide/)**
+* ⚡ **[SNAP 2026 Section-Wise Strategy: Which Section to Attempt First?](/blog/snap-2026-section-wise-trends-which-sections-attempt-first/)**
+* 🎯 **[Free SNAP Mock Test Series 2026: Speed CBT & Analytics](/blog/free-snap-mock-test-2027-29/)**
 
 ---
 
@@ -203,4 +203,4 @@ Each correct answer carries +1 mark, while each incorrect answer attracts a pena
 
 ### 🚀 Boost Your Preparation
 
-Looking for exam-level practice? **[Explore Our Free MBA Mock Test Series 2027–29](/mock-tests)** to practice full-length timed CBT tests with instant section performance analytics and percentile breakdown!
+Looking for exam-level practice? **[Explore Our Free MBA Mock Test Series 2027–29](/mock-tests/)** to practice full-length timed CBT tests with instant section performance analytics and percentile breakdown!

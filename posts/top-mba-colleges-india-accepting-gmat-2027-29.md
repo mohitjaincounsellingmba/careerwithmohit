@@ -36,7 +36,7 @@ faqs:
       International/NRI candidates can use GMAT for the 2-year program.
   - question: What is a good GMAT Focus score for Indian B-schools?
     answer: >-
-      For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad),
+      For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad/),
       aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score
       between **615-645** is usually sufficient.
   - question: Does XLRI accept GMAT?
@@ -58,10 +58,10 @@ state: Delhi NCR
 | Business School | Primary Program | GMAT Type Accepted | Approx. Cutoff (Focus) |
 | :--- | :--- | :--- | :--- |
 | **ISB Hyderabad/Mohali** | PGP (1-Year) | Focus & Classic | 665+ |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | PGPX (Exec) | Focus & Classic | 685+ |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | PGDM / PGPM | Focus & Classic | 645+ |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | PGPX (Exec) | Focus & Classic | 685+ |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | PGDM / PGPM | Focus & Classic | 645+ |
 | **Great Lakes** | PGPM / PGDM | Focus & Classic | 615+ |
-| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | PGDM (Exec) | Focus & Classic | 665+ |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** | PGDM (Exec) | Focus & Classic | 665+ |
 
 ---
 
@@ -91,11 +91,11 @@ ISB is the most prominent GMAT-accepting school in India. Its flagship **PGP (Po
 
 ### **IIM Executive MBA Programs**
 Most top IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow, Indore) accept GMAT for their 1-year full-time residential programs.
-- **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGPX):** Requires 4+ years of work-ex.
-- **[IIM Bangalore](/colleges/iim-bangalore) (EPGP):** Focuses heavily on professional achievements.
-- **[IIM Calcutta](/colleges/iim-calcutta) (MBAEx):** Known for its analytical rigour.
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad/) (PGPX):** Requires 4+ years of work-ex.
+- **[IIM Bangalore](/colleges/iim-bangalore/) (EPGP):** Focuses heavily on professional achievements.
+- **[IIM Calcutta](/colleges/iim-calcutta/) (MBAEx):** Known for its analytical rigour.
 
-### **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**
+### **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**
 SPJIMR is unique because it accepts GMAT for its two-year flagship PGDM program for Indian residents, not just NRIs.
 - **Why Choose SPJIMR?** Exceptional ROI and location advantage in Mumbai.
 
@@ -106,7 +106,7 @@ For students targeting regular 2-year programs, the following colleges accept GM
 
 | College | Location | Exams Accepted | Avg. Package |
 | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | Gurgaon | CAT / GMAT (NRI/Intl) | ₹27.67 LPA |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | Gurgaon | CAT / GMAT (NRI/Intl) | ₹27.67 LPA |
 | **IMT Ghaziabad** | Ghaziabad | CAT / XAT / GMAT | ₹17.35 LPA |
 | **XIMB** | Bhubaneswar | CAT / XAT / GMAT / X-GMT | ₹20.03 LPA |
 | **GIM Goa** | Goa | CAT / XAT / GMAT / CMAT | ₹14.87 LPA |
@@ -119,7 +119,7 @@ If you are looking for an accelerated career path, these colleges are excellent 
 
 1.  **Great Lakes Institute of Management (Chennai & Gurgaon):** Their PGPM program is highly rated for candidates with 2-8 years of experience.
 2.  **Masters' Union (Gurgaon):** A new-age business school focusing on technology and leadership, accepting GMAT for its PGP TBM.
-3.  **[SOIL Institute of Management](/colleges/soil-gurgaon) (Gurgaon):** Focuses on leadership and social responsibility.
+3.  **[SOIL Institute of Management](/colleges/soil-gurgaon/) (Gurgaon):** Focuses on leadership and social responsibility.
 
 ---
 
@@ -129,7 +129,7 @@ If you are looking for an accelerated career path, these colleges are excellent 
 Yes, but primarily for the **1-year Executive MBA (PGPX/EPGP/MBAEx)**. For the regular 2-year PGP, IIMs only accept CAT for Indian residents. International/NRI candidates can use GMAT for the 2-year program.
 
 ### **2. What is a good GMAT Focus score for Indian B-schools?**
-For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad), aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score between **615-645** is usually sufficient.
+For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad/), aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score between **615-645** is usually sufficient.
 
 ### **3. Does XLRI accept GMAT?**
 XLRI accepts GMAT for its **PGDM (General Management)** program, which is a 15-month executive course. For the flagship BM and HRM programs, only XAT and GMAT (for NRIs) are accepted.
@@ -140,9 +140,9 @@ XLRI accepts GMAT for its **PGDM (General Management)** program, which is a 15-m
 If you are a working professional with 2+ years of experience, the GMAT is often a better investment than the CAT, as it opens doors to both Indian executive programs and global MBA opportunities.
 
 **Need help with your GMAT application?**
-- [Check out our 10 Tips to Crack CAT/GMAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [Explore Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
-- [All About GMAT Focus Edition Guide](/blog/all-about-gmat-exam-colleges-cutoffs)
+- [Check out our 10 Tips to Crack CAT/GMAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [Explore Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)
+- [All About GMAT Focus Edition Guide](/blog/all-about-gmat-exam-colleges-cutoffs/)
 
 
 
@@ -150,7 +150,7 @@ If you are a working professional with 2+ years of experience, the GMAT is often
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -164,6 +164,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

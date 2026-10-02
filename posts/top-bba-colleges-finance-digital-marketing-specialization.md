@@ -27,7 +27,7 @@ faqs:
     answer: >-
       It involves a significant amount of **Mathematics and Statistics**. If you
       are not comfortable with numbers, Marketing or HR might be a better fit.
-  - question: 'does [NMIMS Mumbai](/colleges/nmims-mumbai) offer specialized BBA?'
+  - question: 'does [NMIMS Mumbai](/colleges/nmims-mumbai/) offer specialized BBA?'
     answer: >-
       Yes. NMIMS offers BBA in Finance, Marketing, and specialized tracks via
       their Honors program.
@@ -94,7 +94,7 @@ Currently, **Business Analytics and FinTech** specializations offer the highest 
 **Q3. is BBA Finance tough?**
 It involves a significant amount of **Mathematics and Statistics**. If you are not comfortable with numbers, Marketing or HR might be a better fit.
 
-**Q4. does [NMIMS Mumbai](/colleges/nmims-mumbai) offer specialized BBA?**
+**Q4. does [NMIMS Mumbai](/colleges/nmims-mumbai/) offer specialized BBA?**
 Yes. NMIMS offers BBA in Finance, Marketing, and specialized tracks via their Honors program.
 
 **Q5. What is the scope for BBA in Digital Marketing?**
@@ -103,16 +103,16 @@ Every brand in the world today is a digital brand. A specialist who understands 
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026/)
 
 ---
 
 **Pick the Track that Matches Your Passion.**
 A specialization is not just a subject; it is your professional identity. Don't waste your score on a general degree if you have a specific passion for finance or tech. Mohit Jain provides a **"Specialization Audit"**—helping you pick the track that maximizes your career ROI.
 
-[👉 Book My Specialization Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Specialization Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -120,6 +120,6 @@ A specialization is not just a subject; it is your professional identity. Don't 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

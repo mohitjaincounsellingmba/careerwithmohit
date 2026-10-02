@@ -83,10 +83,10 @@ An MBA in Finance focuses on the management of money, assets, and liabilities. T
 
 ### 🏫 Top Colleges to Consider
 The classic "gold standard" business schools in India continue to dominate traditional finance placements:
-*   [IIM Ahmedabad](/colleges/iim-ahmedabad)
-*   [IIM Calcutta](/colleges/iim-calcutta)
-*   [IIM Bangalore](/colleges/iim-bangalore)
-*   [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)
+*   [IIM Ahmedabad](/colleges/iim-ahmedabad/)
+*   [IIM Calcutta](/colleges/iim-calcutta/)
+*   [IIM Bangalore](/colleges/iim-bangalore/)
+*   [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 
 ---
 
@@ -109,9 +109,9 @@ An MBA or PGDM in FinTech bridges the gap between financial theory and the techn
 
 ### 🏫 Top Colleges to Consider
 Dedicated FinTech programs are highly specialized and require colleges with advanced lab infrastructures:
-*   [Delhi School of Business (DSB), VIPS](/colleges/dsb-delhi) — Offers a fully-fledged PGDM (FinTech) equipped with an Analytics E-Lab and Bloomberg Terminals.
-*   [Alliance University Bangalore](/colleges/alliance-university-bangalore) — Focuses on digital strategy, green finance, and responsible AI.
-*   [Lovely Professional University](/colleges/lovely-professional-university) — Offers specialized business tracks in alliance with tech corporations.
+*   [Delhi School of Business (DSB), VIPS](/colleges/dsb-delhi/) — Offers a fully-fledged PGDM (FinTech) equipped with an Analytics E-Lab and Bloomberg Terminals.
+*   [Alliance University Bangalore](/colleges/alliance-university-bangalore/) — Focuses on digital strategy, green finance, and responsible AI.
+*   [Lovely Professional University](/colleges/lovely-professional-university/) — Offers specialized business tracks in alliance with tech corporations.
 
 ---
 
@@ -144,21 +144,21 @@ Yes. Many finance professionals transition by learning data analytics, Python, o
 ---
 
 ### Useful Links:
-- [Corporate Finance vs. Investment Banking](/blog/corporate-finance-vs-investment-banking-comparison)
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [Delhi School of Business (DSB) VIPS — PGDM Review 2027–29](/blog/usp-of-delhi-school-of-business-pgdm-2027-29)
-- [National Institute of Bank Management (NIBM) Pune Guide](/blog/direct-admission-nibm-pune-banking-finance-2027-29)
+- [Corporate Finance vs. Investment Banking](/blog/corporate-finance-vs-investment-banking-comparison/)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [Delhi School of Business (DSB) VIPS — PGDM Review 2027–29](/blog/usp-of-delhi-school-of-business-pgdm-2027-29/)
+- [National Institute of Bank Management (NIBM) Pune Guide](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 
 ---
 
 **Confused about which MBA specialization matches your profile?**  
 Choosing between core operations and tech innovation requires looking at your individual academic strengths and lifestyle goals. Mohit Jain offers personalized career counselling sessions to help you evaluate B-schools, polish your portfolio, and target the right profile.
 
-[👉 Book My Finance Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Career Roadmap Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

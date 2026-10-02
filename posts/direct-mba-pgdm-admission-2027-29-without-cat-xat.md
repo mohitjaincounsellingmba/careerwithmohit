@@ -61,7 +61,7 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Entrance Exam | Conducting Body | Difficulty Level | Accepted By | Typical Cutoff Range |
 | :--- | :--- | :--- | :--- | :--- |
 | **CAT** | IIMs | Very High | IIMs, IITs, FMS, MDI, SPJIMR | 85 - 99+ Percentile |
-| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
 | **MAT** | AIMA | Moderate | 600+ Top Private PGDM B-Schools | 500 - 700 Composite Score |
 | **CMAT** | NTA | Moderate | AICTE PGDM Institutes & State Universities | 50 - 90 Percentile |
 | **Profile Score** | Individual B-Schools | Holistic Evaluation | Autonomous PGDM Institutes | Academics + Work-Ex + Interview |
@@ -73,8 +73,8 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Region | Top AICTE Approved PGDM Colleges | Avg Placement Package |
 | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FOSTIIMA, FIIB, JIMS Kalkaji, BIMTECH (Spec.), GNIOT GIMS | ₹8.10 LPA - ₹11.25 LPA |
-| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | [XIME Bangalore](/colleges/xime-bangalore), JAGSoM, ISBR, GIBS, IBA, [ISME Bangalore](/colleges/isme-bangalore) | ₹7.40 LPA - ₹10.75 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [XIME Bangalore](/colleges/xime-bangalore/), JAGSoM, ISBR, GIBS, IBA, [ISME Bangalore](/colleges/isme-bangalore/) | ₹7.40 LPA - ₹10.75 LPA |
 | **Mumbai** | ITM Navi Mumbai, Universal AI University, Welingkar (Spec.) | ₹8.20 LPA - ₹12.50 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.50 LPA - ₹7.10 LPA |
 | **Kolkata / Eastern India** | Globsyn Kolkata, Praxis, IEM Kolkata, Heritage | ₹6.80 LPA - ₹9.46 LPA |
@@ -98,6 +98,6 @@ Do not waste a gap year preparing exclusively for CAT. Top autonomous PGDM colle
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

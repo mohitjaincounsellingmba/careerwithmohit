@@ -38,7 +38,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
+**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee [Institute of Management Studies](/colleges/ims-noida/) (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
 
 Enrolling in the 2026 session gives you access to a premium ecosystem with an elite brand that hiring managers and HR teams immediately recognize.
 
@@ -53,7 +53,7 @@ Enrolling in the 2026 session gives you access to a premium ecosystem with an el
 | **Starting Fee** | Approx. ₹45,000 - ₹60,000 per semester |
 | **Brand Legacy** | India's Top-5 Private B-School Brand |
 
-👉 **[Start Your Premium MBA Journey with NMIMS](/inquiry)**
+👉 **[Start Your Premium MBA Journey with NMIMS](/inquiry/)**
 
 
 
@@ -84,19 +84,19 @@ NMIMS offers a focused set of programs focused on high-end management results:
 Yes. All online programs from NMIMS are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher education, and corporate leadership roles.
 
 ## Your Decision Support
-- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29) vs [LPU Online 2026](/blog/lpu-online-review-2027-29).
-- **Mumbai Hub:** Read about [Top-5 Online MBAs in Mumbai 2026](/online-degree-certification).
-- **Specialized Advice:** Not sure if NMIMS fits your budget? [Consult with Mohit Jain today!](/inquiry)
+- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Mumbai Hub:** Read about [Top-5 Online MBAs in Mumbai 2026](/online-degree-certification/).
+- **Specialized Advice:** Not sure if NMIMS fits your budget? [Consult with Mohit Jain today!](/inquiry/)
 
 ---
-[👉 Thinking about NMIMS? Talk to our expert counselors to get a detailed fee breakdown and specialization guide!](/inquiry)
+[👉 Thinking about NMIMS? Talk to our expert counselors to get a detailed fee breakdown and specialization guide!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -112,7 +112,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -126,6 +126,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -310,7 +310,7 @@ export default function ScholarshipsPage() {
                 Chat On WhatsApp (Fastest)
               </a>
               <Link 
-                href="/services" 
+                href="/services/" 
                 className="bg-white/10 hover:bg-white/15 text-white border border-white/15 font-bold px-7 py-4 rounded-2xl transition-all text-xs uppercase tracking-wider flex items-center gap-2"
               >
                 Book Counselling Session <ArrowRight className="w-4 h-4" />

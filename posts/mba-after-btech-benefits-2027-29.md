@@ -82,11 +82,11 @@ This combination creates what industry experts call a **"Techno-Manager"**—a p
 *   **Yes**, if you want to break the ceiling of purely technical roles and enter the corporate decision-making room.
 *   **Yes**, if you are looking for a significant ROI and a versatile career that isn't tied to a single programming language or technology.
 
-[👉 Check Top MBA Colleges for Engineers](/colleges)
-[👉 Calculate your MBA Admission Eligibility](/calculator/certification)
+[👉 Check Top MBA Colleges for Engineers](/colleges/)
+[👉 Calculate your MBA Admission Eligibility](/calculator/certification/)
 
 **Ready to transition from Engineer to Leader?**
-[👉 Get a Personalized Career Roadmap from our Experts](/inquiry)
+[👉 Get a Personalized Career Roadmap from our Experts](/inquiry/)
 
 ---
 
@@ -112,7 +112,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -81,7 +81,7 @@ SNU is widely regarded as a research-centric university with a multidisciplinary
 ### 2. Jaypee Institute of Information Technology (JIIT, Noida)
 JIIT is a favorite for students who didn't get into NITs but want the same level of academic rigor and placement stability. Their Sector 62 and Sector 128 campuses are prime hubs for IT recruitment.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida) (Greater Noida)
+### 3. [Bennett University](/colleges/bennett-greater-noida/) (Greater Noida)
 Backed by the Times Group, Bennett offers a "global" engineering experience. Their focus on the latest tech stacks and entrepreneurship is a major draw for the 2026-27 session.
 
 ### 4. MAIT & MSIT (IP University)
@@ -101,7 +101,7 @@ Maharaja Agrasen and Maharaja Surajmal (located in Delhi) are the top choices fo
 ## 📞 Get Personalized Counselling
 Not sure which college accepts your JEE rank? Or confused between a core branch at DTU vs. CSE at a top private college? Our experts can help you make the right choice to maximize your career ROI.
 
-[👉 Get Free B.Tech Counselling](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+[👉 Get Free B.Tech Counselling](/inquiry/) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry/)
 
 ---
 
@@ -123,6 +123,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

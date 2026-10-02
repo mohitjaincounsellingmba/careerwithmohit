@@ -55,7 +55,7 @@ state: Delhi NCR
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
 
-While a high CAT score gets you the interview call, **your profile converts that call into a final admission offer**. Admissions committees at the **IIMs, [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [FMS Delhi](/colleges/fms-delhi), SPJIMR, and top global B-schools** are not just looking for test-takers; they are selecting future corporate leaders, entrepreneurs, and change-makers.
+While a high CAT score gets you the interview call, **your profile converts that call into a final admission offer**. Admissions committees at the **IIMs, [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), [FMS Delhi](/colleges/fms-delhi/), SPJIMR, and top global B-schools** are not just looking for test-takers; they are selecting future corporate leaders, entrepreneurs, and change-makers.
 
 Whether you are a college fresher looking to enhance your CV or a working professional aiming to showcase managerial potential, this comprehensive masterclass by **Mohit Jain** will guide you through the **5 Pillars of Building a Bulletproof Profile for MBA Interviews in 2027–29**.
 
@@ -161,10 +161,10 @@ Top B-schools actively seek candidates with high **Emotional Intelligence (EQ)**
 ---
 
 ## 🔗 Related Resources
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29)
-*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2027-29)
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
+*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2027-29/)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
 
 ---
 
@@ -183,12 +183,12 @@ Be honest and frame the gap year constructively by showing tangible achievements
 STAR stands for Situation (context), Task (challenge faced), Action (your specific contribution), and Result (quantifiable impact like % revenue increase or hours saved).
 
 ### Can freshers get into top IIMs without work experience?
-Yes, freshers represent 25% to 40% of batches at [IIM Ahmedabad](/colleges/iim-ahmedabad), Calcutta, Bangalore, and [FMS Delhi](/colleges/fms-delhi). Freshers can compensate for work experience with high CAT percentiles, strong academic records, and notable extracurricular leadership.
+Yes, freshers represent 25% to 40% of batches at [IIM Ahmedabad](/colleges/iim-ahmedabad/), Calcutta, Bangalore, and [FMS Delhi](/colleges/fms-delhi/). Freshers can compensate for work experience with high CAT percentiles, strong academic records, and notable extracurricular leadership.
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

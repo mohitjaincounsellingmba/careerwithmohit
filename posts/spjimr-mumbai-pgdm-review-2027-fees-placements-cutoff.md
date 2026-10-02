@@ -123,7 +123,7 @@ Placements at **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** reflect continuous c
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** is conducted through a multi-stage evaluation process:
+Admission to **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**XAT, CAT, GMAT**) and achieve the minimum qualifying percentile/score.
@@ -196,7 +196,7 @@ Yes, **SPJIMR Mumbai** offers merit scholarships for top entrance scorers and ha
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

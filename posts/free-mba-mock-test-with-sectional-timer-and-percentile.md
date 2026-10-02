@@ -68,4 +68,4 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

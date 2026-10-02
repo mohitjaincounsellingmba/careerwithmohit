@@ -41,7 +41,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for Online Course Creation Guide 2026 — From Scrip...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Creating an online course is more than just recording a few videos. It is about building a learning experience that delivers results. In 2026, students are more selective than ever; they value clarity, production quality, and accessibility. 
@@ -115,16 +115,16 @@ Hosted platforms and branded apps provide **Dynamic Watermarking** (showing the 
 ---
 
 ### Useful Links:
-- [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2027-29)
-- [How YouTubers Can Monetize Their Audience](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-- [Marketing Strategies for Your Online Academy](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29)
+- [Best Platforms to Sell Courses Online 2026](/blog/best-platforms-sell-courses-online-comparison-2027-29/)
+- [How YouTubers Can Monetize Their Audience](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+- [Marketing Strategies for Your Online Academy](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29/)
 
 ---
 
 **Turn Your Knowledge into a Digital Legacy.**
 A course is an asset that works for you 24/7. Don't waste your expertise on one-off classes. Mohit Jain provides a **"Curriculum & Launch Audit"**—helping you structure your course for maximum student success and building the branded app that makes your academy look world-class.
 
-[👉 Start Building My Digital Academy](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Start Building My Digital Academy](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -132,6 +132,6 @@ A course is an asset that works for you 24/7. Don't waste your expertise on one-
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

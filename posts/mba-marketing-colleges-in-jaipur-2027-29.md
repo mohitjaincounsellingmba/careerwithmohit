@@ -46,10 +46,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Jaipur** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
-| **[Taxila Business School](/colleges/taxila-jaipur)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Jaipur** | CAT / MAT / CMAT / XAT | ₹11.5 Lakhs (Total) | **₹7.40 LPA** |
+| **[Taxila Business School](/colleges/taxila-jaipur/)** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹11.50 LPA** |
 | **Manipal University, Jaipur** | CAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹6.50 LPA** |
-| **[IIHMR University](/colleges/iihmr-university), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
+| **[IIHMR University](/colleges/iihmr-university/), Jaipur** | CAT / MAT / CMAT | ₹9.0 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -70,13 +70,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Jaipur
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Jaipur
 - **Approximate Fees:** ₹11.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹7.40 LPA**
 - **Key Highlight:** Integrated placements cell ensuring solid placement in consumer retail and banking sectors.
 
-### 2. [Taxila Business School](/colleges/taxila-jaipur)
+### 2. [Taxila Business School](/colleges/taxila-jaipur/)
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹11.50 LPA**
@@ -88,7 +88,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** State-of-the-art campus offering great industry interaction and global learning exposure.
 
-### 4. [IIHMR University](/colleges/iihmr-university), Jaipur
+### 4. [IIHMR University](/colleges/iihmr-university/), Jaipur
 - **Approximate Fees:** ₹9.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -105,9 +105,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -117,16 +117,16 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Marketing Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Marketing Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which is the highest-ranked MBA college in Jaipur?
-[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow) is highly ranked and widely recognized for its management training and corporate tie-ups.
+[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow/) is highly ranked and widely recognized for its management training and corporate tie-ups.
 
-### Is [Taxila Business School](/colleges/taxila-jaipur) good for Marketing?
+### Is [Taxila Business School](/colleges/taxila-jaipur/) good for Marketing?
 Yes, Taxila is known for its rigorous academic curriculum and heavy emphasis on modern digital marketing tools and data analytics.
 
 ### Are direct admissions available for Jaipur MBA colleges?
@@ -135,6 +135,6 @@ Yes, private universities like Manipal Jaipur provide direct admission options b
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

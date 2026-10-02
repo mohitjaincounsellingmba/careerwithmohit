@@ -48,7 +48,7 @@ state: Gujarat
 # [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Nagpur, Maharashtra** recognized for academic rigor (NIRF Rank #43 · Mentored originally by [IIM Ahmedabad](/colleges/iim-ahmedabad)) and industry-aligned specializations in **MBA**.
+> - **Core USP & Focus**: Premier management destination in **Nagpur, Maharashtra** recognized for academic rigor (NIRF Rank #43 · Mentored originally by [IIM Ahmedabad](/colleges/iim-ahmedabad/)) and industry-aligned specializations in **MBA**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹18.90 Lakhs (Total)** against an audited average domestic CTC of **₹16.74 LPA** (Median: **₹16.00 LPA**, Highest: **₹64.00 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT (CAP)** score (**88.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
 
@@ -121,7 +121,7 @@ Placements at **[IIM Nagpur](/colleges/iim-nagpur/)** reflect continuous corpora
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **[IIM Nagpur](/colleges/iim-nagpur)** is conducted through a multi-stage evaluation process:
+Admission to **[IIM Nagpur](/colleges/iim-nagpur/)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.
@@ -194,7 +194,7 @@ Yes, **IIM Nagpur** offers merit scholarships for top entrance scorers and has e
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

@@ -55,7 +55,7 @@ category: BBA
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIMT Group of Colleges](/blog/iimt-greater-noida-bba-review), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.
+[IIMT Group of Colleges](/blog/iimt-greater-noida-bba-review/), located in the bustling educational hub of Knowledge Park III, Greater Noida, has established a strong presence for itself over the last two decades. The BBA (Bachelor of Business Administration) program is run under the **IIMT College of Management** and is highly sought after by students looking for an affordable, career-focused management degree in the Delhi NCR region.
 
 In this **IIMT Greater Noida BBA Review**, we break down the course structure, fee details, placements, and overall ROI to help you decide if IIMT is the right college for your undergraduate management journey.
 
@@ -130,10 +130,10 @@ Like any institution, IIMT Greater Noida has its strengths and areas of improvem
 
 ## 🔗 Related BBA Resources
 To help you make the best choice, check out our other detailed guides on undergraduate management education in Delhi NCR:
-*   [Top 10 BBA Colleges in Greater Noida 2026](/blog/top-bba-colleges-greater-noida-2026)
-*   [BBA Admission Through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026)
-*   [BBA Colleges with the Best Placements in Delhi NCR 2026](/blog/bba-colleges-best-placements-delhi-ncr-2026)
-*   [Best Affordable BBA Colleges in Delhi NCR 2026](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
+*   [Top 10 BBA Colleges in Greater Noida 2026](/blog/top-bba-colleges-greater-noida-2026/)
+*   [BBA Admission Through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
+*   [BBA Colleges with the Best Placements in Delhi NCR 2026](/blog/bba-colleges-best-placements-delhi-ncr-2026/)
+*   [Best Affordable BBA Colleges in Delhi NCR 2026](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
 
 ---
 
@@ -156,6 +156,6 @@ Yes, candidates meeting the eligibility criteria (minimum 45% aggregate in 10+2 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

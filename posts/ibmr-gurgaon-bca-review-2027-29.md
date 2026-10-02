@@ -48,7 +48,7 @@ category: BCA/MCA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-As the IT sector continues to evolve with AI, Cloud Computing, and Data Analytics, choosing the right undergraduate program is critical. **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** offers a specialized **BCA + UGPM (Under Graduate Program in Management)** that aims to bridge the gap between technical skills and corporate management.
+As the IT sector continues to evolve with AI, Cloud Computing, and Data Analytics, choosing the right undergraduate program is critical. **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon/)** offers a specialized **BCA + UGPM (Under Graduate Program in Management)** that aims to bridge the gap between technical skills and corporate management.
 
 In this **IBMR Gurgaon BCA Review 2027–29**, we break down the costs, specializations, and career prospects to help you decide if this integrated program fits your goals.
 
@@ -119,9 +119,9 @@ The admission process is designed to be accessible yet competitive:
 ---
 
 ## 🔗 Related Resources
-*   [IBMR Gurgaon BBA Review 2027–29](/blog/ibmr-gurgaon-bba-review-2026)
-*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
+*   [IBMR Gurgaon BBA Review 2027–29](/blog/ibmr-gurgaon-bba-review-2026/)
+*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 
 ---
 
@@ -129,7 +129,7 @@ The admission process is designed to be accessible yet competitive:
 *   **IBMR Gurgaon:** Better for students on a budget who want an integrated management focus and corporate certifications.
 *   **Sushant University:** Better for students who want a more traditional, large-scale campus experience with a higher fee structure.
 
-[👉 Apply to IBMR Gurgaon BCA 2026](/inquiry) | [💬 Get Free IT Career Counselling](/inquiry)
+[👉 Apply to IBMR Gurgaon BCA 2026](/inquiry/) | [💬 Get Free IT Career Counselling](/inquiry/)
 
 ---
 
@@ -151,6 +151,6 @@ Doing an MCA provides advanced technical expertise and is often treated on par w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -489,7 +489,7 @@ export function EducationFinder() {
                 ⚡ NMIMS &amp; SIBM
               </button>
               <Link
-                href="/mba-application-form-discount"
+                href="/mba-application-form-discount/"
                 className="px-3 py-1 rounded-xl bg-amber-400/20 hover:bg-amber-400/30 text-amber-300 border border-amber-400/30 font-extrabold transition-colors"
               >
                 🏷️ Save ₹5,000+ Form Combos
@@ -537,7 +537,7 @@ export function EducationFinder() {
               </div>
 
               <Link
-                href="/online-degree-certification"
+                href="/online-degree-certification/"
                 className="h-11 px-6 rounded-xl bg-cyan-400 hover:bg-cyan-300 text-slate-950 font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-cyan-500/20 shrink-0"
               >
                 <span>Explore 40+ Universities</span>
@@ -547,16 +547,16 @@ export function EducationFinder() {
 
             <div className="flex flex-wrap items-center gap-2 text-xs">
               <span className="text-slate-400 font-bold">Quick Links:</span>
-              <Link href="/online-degree-certification/online-mba" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10 font-semibold">
+              <Link href="/online-degree-certification/online-mba/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10 font-semibold">
                 🎓 Online MBA
               </Link>
-              <Link href="/online-degree-certification/online-mca" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10 font-semibold">
+              <Link href="/online-degree-certification/online-mca/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-cyan-200 border border-white/10 font-semibold">
                 💻 Online MCA (AI &amp; CS)
               </Link>
-              <Link href="/online-degree-certification/cheapest-online-mba" className="px-3 py-1 rounded-xl bg-amber-400/20 hover:bg-amber-400/30 text-amber-300 border border-amber-400/30 font-bold">
+              <Link href="/online-degree-certification/cheapest-online-mba/" className="px-3 py-1 rounded-xl bg-amber-400/20 hover:bg-amber-400/30 text-amber-300 border border-amber-400/30 font-bold">
                 💰 Cheapest MBA (&lt; ₹1L)
               </Link>
-              <Link href="/online-degree-certification/wes-approved-online-degrees" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-emerald-200 border border-white/10 font-semibold">
+              <Link href="/online-degree-certification/wes-approved-online-degrees/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-emerald-200 border border-white/10 font-semibold">
                 🌍 WES Approved (Canada/USA)
               </Link>
             </div>
@@ -582,7 +582,7 @@ export function EducationFinder() {
               </div>
 
               <Link
-                href="/mock-tests"
+                href="/mock-tests/"
                 className="h-11 px-6 rounded-xl bg-rose-500 hover:bg-rose-400 text-white font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-rose-500/20 shrink-0"
               >
                 <span>Start Free CBT Mock</span>
@@ -627,7 +627,7 @@ export function EducationFinder() {
               </div>
 
               <Link
-                href="/tools/cat-score-calculator"
+                href="/tools/cat-score-calculator/"
                 className="h-11 px-6 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs uppercase tracking-wider flex items-center gap-1.5 transition-all shadow-lg shadow-amber-500/20 shrink-0"
               >
                 <span>Open Calculator Tool</span>
@@ -637,13 +637,13 @@ export function EducationFinder() {
 
             <div className="flex flex-wrap items-center gap-2 text-xs">
               <span className="text-slate-400 font-bold">Available Tools:</span>
-              <Link href="/tools/cat-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
+              <Link href="/tools/cat-score-calculator/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
                 🧮 CAT Score to %ile
               </Link>
-              <Link href="/tools/xat-score-calculator-2027" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
+              <Link href="/tools/xat-score-calculator-2027/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
                 🎯 XAT Score Calculator
               </Link>
-              <Link href="/tools/mat-score-calculator" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
+              <Link href="/tools/mat-score-calculator/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-amber-200 border border-white/10 font-semibold">
                 📊 MAT Score Calculator
               </Link>
             </div>

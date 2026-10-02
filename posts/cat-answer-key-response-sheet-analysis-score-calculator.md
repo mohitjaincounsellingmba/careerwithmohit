@@ -47,7 +47,7 @@ faqs:
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Direct Score Calculation**: Scan your official `cdn.digialm.com` candidate response sheet link directly in our [CAT 2026 Score Calculator Tool](/tools/cat-score-calculator).
+> - **Direct Score Calculation**: Scan your official `cdn.digialm.com` candidate response sheet link directly in our [CAT 2026 Score Calculator Tool](/tools/cat-score-calculator/).
 > - **Marking Scheme**: +3 for correct MCQs, −1 for wrong MCQs, +3 for correct TITAs, 0 for wrong TITAs (198 Max Marks).
 > - **Objection Window**: 3-day challenge window at ₹1,200/question on `iimcat.ac.in` (100% refunded if valid).
 
@@ -62,7 +62,7 @@ In this detailed guide, career counselor **Mohit Jain** explains how to access y
 
 Instead of manually counting 66 questions, use our automated scanner to compute your raw score, apply Slot 1/2/3 equating, and estimate your 2027 IIM percentile:
 
-👉 **[Scan Your CAT Response Sheet on our Free Calculator →](/tools/cat-score-calculator)**
+👉 **[Scan Your CAT Response Sheet on our Free Calculator →](/tools/cat-score-calculator/)**
 
 ---
 
@@ -85,7 +85,7 @@ Instead of manually counting 66 questions, use our automated scanner to compute 
 3. Enter your **User ID** and **Password** (sent via SMS/Email during registration).
 4. Navigate to the tab labeled **'Candidate Response'**.
 5. Click on the link stating: *"Click here to generate your response sheet for CAT 2026"*.
-6. Copy the browser URL and paste it into our **[CAT Score Calculator](/tools/cat-score-calculator)** to get an instant breakdown.
+6. Copy the browser URL and paste it into our **[CAT Score Calculator](/tools/cat-score-calculator/)** to get an instant breakdown.
 
 ---
 
@@ -118,16 +118,16 @@ If you identify an error in the provisional answer key (e.g., an incorrect offic
 ---
 
 ## 🔗 Related Resources & Preparation Links
-* [CAT Score Calculator & Response Sheet Checker Tool](/tools/cat-score-calculator)
-* [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-* [Free CAT Full CBT Mock Test](/tools/cat-mock-test)
-* [Top MBA Colleges in Delhi NCR Accepting CAT](/colleges/mba-colleges-delhi-ncr)
-* [Top Tier MBA Colleges in India: Rankings & Cutoffs](/top-tier-mba-colleges)
+* [CAT Score Calculator & Response Sheet Checker Tool](/tools/cat-score-calculator/)
+* [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+* [Free CAT Full CBT Mock Test](/tools/cat-mock-test/)
+* [Top MBA Colleges in Delhi NCR Accepting CAT](/colleges/mba-colleges-delhi-ncr/)
+* [Top Tier MBA Colleges in India: Rankings & Cutoffs](/top-tier-mba-colleges/)
 
 ---
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

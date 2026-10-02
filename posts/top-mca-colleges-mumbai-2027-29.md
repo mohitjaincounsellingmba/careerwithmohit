@@ -19,7 +19,7 @@ keywords:
   - Noida Admissions 2026
   - Direct Admission in Noida
 faqs:
-  - question: 'Does [NMIMS Mumbai](/colleges/nmims-mumbai) accept CUET PG?'
+  - question: 'Does [NMIMS Mumbai](/colleges/nmims-mumbai/) accept CUET PG?'
     answer: >-
       In 2026, most NMIMS campuses prefer **MAH MCA CET** or their own internal
       selection process. Always check the official NMIMS portal in February for
@@ -59,7 +59,7 @@ Choosing an MCA college in Mumbai means you are at the heart of India's commerci
 | **Somaiya (K J Somaiya)** | MAH MCA CET | ₹3.5 - 4.5 Lakhs | ₹6.0 - 9.5 LPA |
 | **Vidyalankar (VIT)** | MAH MCA CET | ₹2.8 - 3.8 Lakhs | ₹5.0 - 8.0 LPA |
 | **Thakur Institute (TIMSR)**| MAH MCA CET | ₹2.5 - 3.5 Lakhs | ₹4.5 - 7.5 LPA |
-| **[Amity University Mumbai](/colleges/amity-mumbai)**| Merit-based | ₹4.5 - 6.5 Lakhs | ₹4.2 - 7.5 LPA |
+| **[Amity University Mumbai](/colleges/amity-mumbai/)**| Merit-based | ₹4.5 - 6.5 Lakhs | ₹4.2 - 7.5 LPA |
 
 ---
 
@@ -97,7 +97,7 @@ For an MCA student, Mumbai offers a distinct career path:
 If you miss the MAH MCA CET or the regular university deadlines, several reputable private universities in Navi Mumbai and Suburban Mumbai offer merit-based direct entry:
 - **Somaiya Institute (Sion/Vidyavihar):** High brand value and decent placements in the Mumbai-Thane region.
 - **School of Law, DY Patil (Navi Mumbai):** High-end infrastructure with a focus on modern software stacks.
-- **[Amity University](/colleges/amity-noida) (Navi Mumbai):** A growing hub for students looking for global exposure and research-driven MCA degrees.
+- **[Amity University](/colleges/amity-noida/) (Navi Mumbai):** A growing hub for students looking for global exposure and research-driven MCA degrees.
 
 ---
 
@@ -106,7 +106,7 @@ If you miss the MAH MCA CET or the regular university deadlines, several reputab
 **Q1. Is VJTI better than NITs for MCA?**
 For **Fintech and Banking roles**, VJTI is better than many mid-tier NITs. However, NIT Trichy or Surathkal still hold a slightly higher national brand value for pure product development.
 
-**Q2. Does [NMIMS Mumbai](/colleges/nmims-mumbai) accept CUET PG?**
+**Q2. Does [NMIMS Mumbai](/colleges/nmims-mumbai/) accept CUET PG?**
 In 2026, most NMIMS campuses prefer **MAH MCA CET** or their own internal selection process. Always check the official NMIMS portal in February for the specific 2026 intake notification.
 
 **Q3. What is the average fee for MCA in government colleges in Mumbai?**
@@ -121,16 +121,16 @@ Usually held in **March/April**. Registrations typically open in January.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
-- [BCA Colleges in Mumbai 2026](/blog/top-bca-colleges-mumbai-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29/)
+- [BCA Colleges in Mumbai 2026](/blog/top-bca-colleges-mumbai-2027-29/)
 
 ---
 
 **Dreaming of a Code career in the Financial District?**
 Mumbai is about high-stakes logic. Don't waste your years at a college without a fintech connection. Mohit Jain provides a "Mumbai Tech Audit"—helping you pick the college that actually puts you in the offices of Morgan Stanley and J.P. Morgan.
 
-[👉 Book My Mumbai MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Mumbai MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,6 +138,6 @@ Mumbai is about high-stakes logic. Don't waste your years at a college without a
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

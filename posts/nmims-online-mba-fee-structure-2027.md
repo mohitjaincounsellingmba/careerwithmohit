@@ -39,7 +39,7 @@ category: Online Degrees
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (NMIMS Online)** is recognized as one of India's premier business school brands. Its online management programs deliver high corporate recognition across finance, marketing, operations, and human resources.
+**Narsee Monjee [Institute of Management Studies](/colleges/ims-noida/) (NMIMS Online)** is recognized as one of India's premier business school brands. Its online management programs deliver high corporate recognition across finance, marketing, operations, and human resources.
 
 Before applying for the 2027 academic session, candidates must understand the **total tuition fees, semester payment plans, and zero-interest EMI options**. Here is the complete financial guide for NMIMS Online.
 
@@ -92,8 +92,8 @@ The primary tuition fee covers:
 | University | Online MBA Total Fee | Business B-School Brand Rank | NAAC Rating |
 | :--- | :--- | :--- | :--- |
 | **NMIMS Online** | **₹2,00,000** | Top-5 B-School Brand | NAAC A+ |
-| **[Amity University](/colleges/amity-noida) Online** | ₹1,99,000 | Top Private Brand | NAAC A+ |
-| **[Jain University](/colleges/jain-university) Online** | ₹1,96,000 | Top Tech Brand | NAAC A++ |
+| **[Amity University](/colleges/amity-noida/) Online** | ₹1,99,000 | Top Private Brand | NAAC A+ |
+| **[Jain University](/colleges/jain-university/) Online** | ₹1,96,000 | Top Tech Brand | NAAC A++ |
 | **D.Y. Patil University Pune** | ₹1,89,400 | Top Healthcare/Mgmt Brand | NAAC A++ |
 
 ---
@@ -111,7 +111,7 @@ The primary tuition fee covers:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -124,6 +124,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

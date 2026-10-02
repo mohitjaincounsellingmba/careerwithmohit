@@ -65,7 +65,7 @@ state: Telangana
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[ICFAI Business School (IBS)](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **AACSB Accredited, NAAC A++ Grade, SAQS Accredited** accreditations, and distinguished **NIRF Management Rank #40 (Ranked among Top 40 B-Schools in India)**, the institute draws thousands of competitive applicants each admissions season.
+When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[ICFAI Business School (IBS)](/inquiry/)** consistently features as a premier target institution. With its established academic credentials, **AACSB Accredited, NAAC A++ Grade, SAQS Accredited** accreditations, and distinguished **NIRF Management Rank #40 (Ranked among Top 40 B-Schools in India)**, the institute draws thousands of competitive applicants each admissions season.
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
@@ -184,8 +184,8 @@ To help you assess comparative ROI, here is how ICFAI Business School (IBS) comp
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **ICFAI Business School (IBS)** | **₹16.02 Lakhs (Tuition) + ₹3.50 – ₹4.00 Lakhs (Hostel & Mess)** | **₹9.71 – ₹10.42 LPA** | IBSAT/CAT/NMAT/GMAT · IBSAT: 70–75+ Score |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |
@@ -214,13 +214,13 @@ IBS Case Research Center is internationally acclaimed for writing business case 
 
 **Final Verdict**: For aspirants targeting top-tier management education with guaranteed corporate recognition, high faculty standards, and reliable placement trajectories, **ICFAI Business School (IBS)** stands as an outstanding investment. If your entrance test scores and profile align with the expected cutoffs, submitting an early application will significantly maximize your interview shortlisting prospects.
 
-[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests)
+[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry/) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests/)
 
 ---
 
 ### 🚀 Recommended Internal Guides & Reviews
-*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29)
-*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff)
-*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff)
-*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff)
-*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29/)
+*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff/)
+*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff/)
+*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff/)
+*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)

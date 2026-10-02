@@ -216,13 +216,13 @@ Follow these step-by-step instructions to submit your application securely:
 ---
 
 ### **Related Career & Educational Resources**
-*   [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026)
-*   [Unstop Finance Internships 2026: Top Companies, Stipend, Roles & Apply](/blog/unstop-finance-internships-2027-29)
-*   [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2027-29)
-*   [B.Tech Specializations 2026: Best Branches, High Salary & Future Scope](/blog/btech-specializations-skills-salary-2026-guide)
-*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
+*   [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026/)
+*   [Unstop Finance Internships 2026: Top Companies, Stipend, Roles & Apply](/blog/unstop-finance-internships-2027-29/)
+*   [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2027-29/)
+*   [B.Tech Specializations 2026: Best Branches, High Salary & Future Scope](/blog/btech-specializations-skills-salary-2026-guide/)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -247,6 +247,6 @@ The apprenticeship is an in-person, full-time program offered across major Googl
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -48,7 +48,7 @@ category: BBA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-For students looking for a management degree that doesn't break the bank while providing solid industry exposure, **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon)** is a name that frequently pops up. Known for its "out-of-class" learning approach, IBMR offers a unique **BBA + UGPM (Under Graduate Program in Management)**.
+For students looking for a management degree that doesn't break the bank while providing solid industry exposure, **[IBMR Business School, Gurgaon](/colleges/ibmr-gurgaon/)** is a name that frequently pops up. Known for its "out-of-class" learning approach, IBMR offers a unique **BBA + UGPM (Under Graduate Program in Management)**.
 
 In this **IBMR Gurgaon BBA Review 2026**, we dive into the fees, placement reality, and whether it’s the right choice for your undergraduate career.
 
@@ -121,9 +121,9 @@ Admission to IBMR Gurgaon is straightforward and primarily merit-based:
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
-*   [All About IBMR Gurgaon](/blog/all-about-ibmr-gurgaon)
+*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
+*   [All About IBMR Gurgaon](/blog/all-about-ibmr-gurgaon/)
 
 ---
 
@@ -131,7 +131,7 @@ Admission to IBMR Gurgaon is straightforward and primarily merit-based:
 *   **IBMR Gurgaon:** Better if you want a budget-friendly option with a focus on core management and placements.
 *   **KR Mangalam:** Better if you prefer a large university campus experience with more diverse extra-curriculars.
 
-[👉 Apply to IBMR Gurgaon BBA 2026](/inquiry) | [💬 Get Free Career Counselling for Gurgaon Colleges](/inquiry)
+[👉 Apply to IBMR Gurgaon BBA 2026](/inquiry/) | [💬 Get Free Career Counselling for Gurgaon Colleges](/inquiry/)
 
 ---
 
@@ -153,6 +153,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

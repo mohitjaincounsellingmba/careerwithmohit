@@ -50,9 +50,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[SPJIMR Mumbai (S.P. Jain Institute of Management and Research)](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹21.0 Lakhs (Total) | **₹33.00 LPA** |
-| **[JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))](/colleges/jbims-mumbai)** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
-| **[NMIMS Mumbai (School of Business Management)](/colleges/nmims-mumbai)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
+| **[SPJIMR Mumbai (S.P. Jain Institute of Management and Research)](/colleges/spjimr-mumbai/)** | CAT / GMAT | ₹21.0 Lakhs (Total) | **₹33.00 LPA** |
+| **[JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))](/colleges/jbims-mumbai)** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[NMIMS Mumbai (School of Business Management)](/colleges/nmims-mumbai/)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 
 ---
@@ -74,19 +74,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Mumbai
 
-### 1. [SPJIMR Mumbai (S.P. Jain Institute of Management and Research)](/colleges/spjimr-mumbai)
+### 1. [SPJIMR Mumbai (S.P. Jain Institute of Management and Research)](/colleges/spjimr-mumbai/)
 - **Approximate Fees:** ₹21.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / GMAT
 - **Average Placement Package:** **₹33.00 LPA**
 - **Key Highlight:** Elite B-school offering specialized tracks in marketing management and digital strategy.
 
-### 2. [JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))](/colleges/jbims-mumbai)
+### 2. [JBIMS Mumbai (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))](/colleges/jbims-mumbai)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** Highly prestigious 'CEO Factory' offering exceptional marketing placements with corporate interfaces.
 
-### 3. [NMIMS Mumbai (School of Business Management)](/colleges/nmims-mumbai)
+### 3. [NMIMS Mumbai (School of Business Management)](/colleges/nmims-mumbai/)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**
@@ -109,9 +109,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -121,24 +121,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Does [NMIMS Mumbai](/colleges/nmims-mumbai) have a specialized Digital Marketing program?
-Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) offers a highly popular MBA program with dedicated marketing intakes and outstanding placements in top corporate departments.
+### Does [NMIMS Mumbai](/colleges/nmims-mumbai/) have a specialized Digital Marketing program?
+Yes, [NMIMS Mumbai](/colleges/nmims-mumbai/) offers a highly popular MBA program with dedicated marketing intakes and outstanding placements in top corporate departments.
 
-### Is [SPJIMR Mumbai](/colleges/spjimr-mumbai) good for marketing roles?
+### Is [SPJIMR Mumbai](/colleges/spjimr-mumbai/) good for marketing roles?
 Yes, SPJIMR is ranked among the top B-schools in India, and its marketing management specialization places candidates in premium branding and analyst roles.
 
-### What exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai)?
-[JBIMS Mumbai](/colleges/jbims-mumbai) primarily accepts MAH CET and CAT scores for general category management admissions.
+### What exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai/)?
+[JBIMS Mumbai](/colleges/jbims-mumbai/) primarily accepts MAH CET and CAT scores for general category management admissions.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

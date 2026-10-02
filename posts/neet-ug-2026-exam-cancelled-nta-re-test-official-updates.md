@@ -92,17 +92,17 @@ The referral to the CBI signifies the gravity of the situation. The inquiry will
 
 ## 🔗 Important Resources for Aspirants
 
-- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review)
-- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees)
-- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide)
+- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review/)
+- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)
+- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 
 **Worried about the NEET cancellation?**
 Mohit Jain and his team are here to support you. We provide expert counselling to help you navigate through these uncertain times and ensure your career path remains on track.
 
-[👉 Get Career Counselling Support](/inquiry) | [💬 Message Mohit on WhatsApp](/inquiry)
+[👉 Get Career Counselling Support](/inquiry/) | [💬 Message Mohit on WhatsApp](/inquiry/)
 
 ---
 
@@ -124,6 +124,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

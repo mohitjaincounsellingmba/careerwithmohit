@@ -69,7 +69,7 @@ A highly prestigious merit-based award for students at top-tier B-schools.
 
 *   **Scholarship Amount**: ₹3 Lakhs per annum.
 *   **Eligibility**:
-    *   Students of **[IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and [XLRI Jamshedpur](/colleges/xlri-jamshedpur)**.
+    *   Students of **[IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, Kolkata, Lucknow, Indore, Kozhikode, and [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**.
     *   Only the **top 20 students** from each of these institutes (based on entrance ranks) are invited to apply.
     *   Selection is based on academic excellence, leadership traits, and essays.
 *   **Application Process**:
@@ -131,7 +131,7 @@ For those looking to pursue their **MBA overseas** (International B-schools).
 ### **6. Maharashtra State Scholarships (MAH MBA CET)**
 If you are appearing for MAH CET and seeking admission in Maharashtra, you might be eligible for state-specific fee reimbursements (EBC, SC/ST/OBC schemes) via the MahaDBT portal.
 
-[👉 View Detail Guide: MAH MBA CET Scholarship 2027–29 Eligibility & Process](/tools/mhcet-mock-test)
+[👉 View Detail Guide: MAH MBA CET Scholarship 2027–29 Eligibility & Process](/tools/mhcet-mock-test/)
 
 ---
 
@@ -153,8 +153,8 @@ While merit-based scholarships like Aditya Birla require a high entrance rank, s
 *   **Track Deadlines**: Most scholarships open between **January and June**.
 *   **Focus on Essays**: Scholarships like Aditya Birla and Reliance value your vision and leadership potential as much as your marks.
 
-[👉 View Top 100 MBA Colleges in India](/colleges)
-[👉 Need help with your Scholarship Essay?](/inquiry)
+[👉 View Top 100 MBA Colleges in India](/colleges/)
+[👉 Need help with your Scholarship Essay?](/inquiry/)
 
 **Don't let finances stop your MBA dream. Apply today!**
 
@@ -164,7 +164,7 @@ While merit-based scholarships like Aditya Birla require a high entrance rank, s
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

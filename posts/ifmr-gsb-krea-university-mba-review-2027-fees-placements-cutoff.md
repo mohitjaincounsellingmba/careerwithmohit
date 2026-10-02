@@ -49,7 +49,7 @@ location: Sri City
 state: Andhra Pradesh
 ---
 
-# [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29) Review 2027: Fees, Cutoff, Placements & Admission ROI
+# [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Sri City, Andhra Pradesh** recognized for academic rigor (SAQS Accredited · AICTE & UGC Approved) and industry-aligned specializations in **MBA (2 Years Full-Time)**.
@@ -58,17 +58,17 @@ state: Andhra Pradesh
 
 [InquiryCard title="Get Personalized Admission Guidance for IFMR GSB" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 
-Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
+Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
 
 ---
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
 
-The table below provides a verified snapshot of **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** for the upcoming **2027–2029 academic session**:
+The table below provides a verified snapshot of **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** for the upcoming **2027–2029 academic session**:
 
 | Parameter | Official Verified Details |
 | :--- | :--- |
-| **Institution Name** | **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** (IFMR GSB) |
+| **Institution Name** | **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** (IFMR GSB) |
 | **Campus Location** | Sri City, Andhra Pradesh |
 | **Year Established** | 1970 |
 | **Accreditation & Recognitions** | SAQS Accredited · AICTE & UGC Approved |
@@ -97,7 +97,7 @@ Evaluating the financial outlay is critical for computing your real return on in
 
 ## 3. Specialization Tracks & Academic Pedagogy
 
-The curriculum at **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** is engineered to blend theoretical management frameworks with corporate problem-solving:
+The curriculum at **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** is engineered to blend theoretical management frameworks with corporate problem-solving:
 
 *   **Financial Management & Investment Banking:** Corporate valuation, portfolio strategy, fintech, mergers & acquisitions, and private equity analysis.
 *   **Marketing & Digital Brand Strategy:** Consumer psychology, digital media analytics, growth marketing, omni-channel retailing, and sales leadership.
@@ -109,7 +109,7 @@ The curriculum at **[IFMR Graduate School of Business (Krea University)](/blog/i
 
 ## 4. Audited Placement Review: Salary Packages & Top Recruiters
 
-Placements at **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** reflect continuous corporate confidence and recruiters' preference for its graduates:
+Placements at **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** reflect continuous corporate confidence and recruiters' preference for its graduates:
 
 *   **Highest Placement Package:** **₹22.90 LPA**
 *   **Average Placement Package:** **₹13.50 LPA**
@@ -142,11 +142,11 @@ Admission to **IFMR Graduate School of Business (Krea University)** is conducted
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** stands when compared against peer management institutions:
+Here is how **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** stands when compared against peer management institutions:
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29)** | **₹14.50 Lakhs (Total)** | **₹13.50 LPA** | **CAT, XAT, NMAT, CMAT, GMAT** (200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT) |
+| **[IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)** | **₹14.50 Lakhs (Total)** | **₹13.50 LPA** | **CAT, XAT, NMAT, CMAT, GMAT** (200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT) |
 | **Tier-1 Benchmark B-Schools** | ₹22.0L – ₹28.0L | ₹24.0L – ₹34.0L | CAT / XAT / NMAT / SNAP (95%+ %ile) |
 | **Tier-2 Quality B-Schools** | ₹12.0L – ₹18.0L | ₹10.0L – ₹14.5L | CAT / XAT / CMAT / MAT (75%+ %ile) |
 
@@ -198,7 +198,7 @@ Yes, **IFMR Graduate School of Business (Krea University)** offers merit scholar
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

@@ -33,7 +33,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Thinking of studying at Duke University in 2026? Check the latest fee structure in INR, top courses, eligibili...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Studying in the United States remains the top priority for Indian students seeking international exposure, career development, and research opportunities. **Duke University**, located in Durham, North Carolina, USA, stands out as a premier destination for students globally.
 
@@ -112,7 +112,7 @@ To secure an admit at Duke University, applicants should focus on these core cri
 ## 📞 Get Personalized US Admission Guidance
 Applying to US universities can be complex. From picking the right courses to drafting SOPs and securing scholarships, we help you at every step of your study abroad journey.
 
-[👉 Book a Free Counseling Session with Mohit Jain](/inquiry) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
+[👉 Book a Free Counseling Session with Mohit Jain](/inquiry/) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
 
 ---
 
@@ -133,6 +133,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -67,7 +67,7 @@ JNU is globally renowned for its research and social sciences programs. Its **At
 *   **Top Programs:** MA (International Relations), MSc, MBA.
 *   **Admission Process:** CUET PG score (weightage varies by department).
 
-### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**
+### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)**
 While Jamia has its own entrance for many courses, it has integrated CUET PG for several specific postgraduate programs.
 *   **Programs:** MA Persian, MA Sanskrit, MSc Disaster Management, etc. (Always check the latest list as it expands annually).
 
@@ -81,32 +81,32 @@ A state university focused on social sciences, humanities, and management. It is
 
 ### **6. Top Private Universities in Delhi NCR**
 Several top-tier private universities in Noida, Greater Noida, and Gurugram also accept CUET PG scores for admissions into their MBA and other PG programs.
-*   **[Amity University](/colleges/amity-noida) (Noida/Gurugram)**
-*   **[Galgotias University](/colleges/galgotias-university) (Greater Noida)**
-*   **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
-*   **[BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
+*   **[Amity University](/colleges/amity-noida/) (Noida/Gurugram)**
+*   **[Galgotias University](/colleges/galgotias-university/) (Greater Noida)**
+*   **[Sharda University](/colleges/sharda-greater-noida/) (Greater Noida)**
+*   **[BML Munjal University](/colleges/bml-munjal-gurgaon/) (Gurugram)**
 *   **K.R. Mangalam University (Gurugram)**
 
 ---
 
 ### **City-Wise Breakdown within NCR**
 If you want to dive deeper into specific cities within the National Capital Region, check out our dedicated guides:
-*   [CUET PG Colleges in Noida 2026](/blog/cuet-pg-accepting-colleges-noida-2027-29)
-*   [CUET PG Colleges in Greater Noida 2026](/blog/cuet-pg-accepting-colleges-greater-noida-2027-29)
-*   [CUET PG Colleges in Ghaziabad 2026](/blog/cuet-pg-accepting-colleges-ghaziabad-2027-29)
-*   [CUET PG Colleges in Gurugram 2026](/blog/cuet-pg-accepting-colleges-gurugram-2027-29)
+*   [CUET PG Colleges in Noida 2026](/blog/cuet-pg-accepting-colleges-noida-2027-29/)
+*   [CUET PG Colleges in Greater Noida 2026](/blog/cuet-pg-accepting-colleges-greater-noida-2027-29/)
+*   [CUET PG Colleges in Ghaziabad 2026](/blog/cuet-pg-accepting-colleges-ghaziabad-2027-29/)
+*   [CUET PG Colleges in Gurugram 2026](/blog/cuet-pg-accepting-colleges-gurugram-2027-29/)
 
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
+- [How to Check CUET PG 2026 Response Sheet](/blog/how-to-check-cuet-pg-2026-response-sheet-marks/)
 
 **Need help with DU CSAS PG Registration or JNU Admission?**
 Our expert counselors can guide you through the complex preference filling and document verification process.
 
-[👉 Get Admission Counseling Now!](/inquiry)
+[👉 Get Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -128,6 +128,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

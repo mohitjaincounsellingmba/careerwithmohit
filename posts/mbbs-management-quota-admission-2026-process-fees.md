@@ -109,16 +109,16 @@ Register for **Round 1** of either MCC or State counselling. By Round 3 (Stray V
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide)
-- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [UP NEET Counselling Process 2026](/blog/up-neet-counselling-2026-guide/)
+- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 
 **Don't Gamble with Your Medical Career.**
 A management quota seat is a massive investment of your family's hard-earned money. Don't waste it on a college with a dying hospital. Mohit Jain provides a **"Safe Medical Seat Audit"**—verifying the BCI and NMC records of the college and helping you secure a legal, fraud-free admission.
 
-[👉 Book My Safe Medical Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Safe Medical Admission Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -126,7 +126,7 @@ A management quota seat is a massive investment of your family's hard-earned mon
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -37,11 +37,11 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Is the CBSE Class 12 Board Result 2026 out? DigiLocker and UMANG apps show 'Coming Soon' status. Get the lates...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 **Update (May 13, 2026):** The **CBSE Class 12 Result 2026 has been officially declared today!** Students can now check their results using the official link below.
 
-### 🔴 [CLICK HERE TO CHECK CBSE 12TH RESULT 2026 (OFFICIAL)](/blog/cbse-12th-result-2026-declared)
+### 🔴 [CLICK HERE TO CHECK CBSE 12TH RESULT 2026 (OFFICIAL)](/blog/cbse-12th-result-2026-declared/)
 
 ---
 
@@ -88,11 +88,11 @@ Since DigiLocker is already showing the "Coming Soon" banner, here is how you ca
 
 The moment the results are out, admission portals for various universities will open in full swing. Depending on your stream, you should start narrowing down your options:
 
-- **Science Students:** Be aware of the **[NEET UG 2026 Cancellation & Re-Test Updates](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates)** which might affect your medical admission timeline.
+- **Science Students:** Be aware of the **[NEET UG 2026 Cancellation & Re-Test Updates](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates/)** which might affect your medical admission timeline.
 - **Career Guides:** 
-    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2027-29)
-    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29)
-    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2027-29)
+    - [Best Career Options After 12th Science 2026](/blog/career-options-after-12th-science-2027-29/)
+    - [Top Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29/)
+    - [Career Paths After 12th Arts 2026](/blog/career-options-after-12th-arts-2027-29/)
 
 ---
 
@@ -109,7 +109,7 @@ Keep your Admit Card handy. You will need:
 **Confused about your college options based on your marks?**
 Don't worry! Mohit Jain provides specialized career counselling to help you find the best college and course that fits your profile and interests.
 
-[👉 Get Expert Admission Guidance Now!](/inquiry) | [💬 Chat with Mohit on WhatsApp](https://wa.me/919560020771)
+[👉 Get Expert Admission Guidance Now!](/inquiry/) | [💬 Chat with Mohit on WhatsApp](https://wa.me/919560020771)
 
 ---
 
@@ -131,6 +131,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

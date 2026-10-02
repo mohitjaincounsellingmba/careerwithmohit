@@ -91,15 +91,15 @@ pie title DoMS IIT Madras Domain Distribution 2025
 
 ## 3. Related IIT MBA Reports
 
-*   **[SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2027-29)**
-*   **[DoMS IIT Delhi Placement Report 2025](/blog/doms-iit-delhi-mba-placement-report-2027-29)**
-*   **[VGSoM IIT Kharagpur Placement Report 2025](/blog/vgsom-iit-kharagpur-mba-placement-report-2027-29)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   **[SJMSOM [IIT Bombay](/colleges/iit-bombay/) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2027-29)**
+*   **[DoMS IIT Delhi Placement Report 2025](/blog/doms-iit-delhi-mba-placement-report-2027-29/)**
+*   **[VGSoM IIT Kharagpur Placement Report 2025](/blog/vgsom-iit-kharagpur-mba-placement-report-2027-29/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -46,12 +46,12 @@ Here is an in-depth review of the **Best IPU Colleges for BBA in 2026**, coverin
 
 Based on faculty expertise, campus infrastructure, corporate relations, and consistent placement histories, these are the top 5 GGSIPU affiliates for BBA:
 
-### 1. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) - Janakpuri
+### 1. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) - Janakpuri
 MSI is widely regarded as the gold standard of IP University colleges. Located in West Delhi, it consistently produces top university rank holders and attracts the best recruiters.
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Exceptional discipline and reliable campus placements in top corporate houses like Deloitte, EY, and PwC.
 
-### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Rohini
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS) - Rohini
 MAIMS is MSI's primary competitor. Located in Rohini, North-West Delhi, it features a sprawling campus with outstanding infrastructure and highly qualified faculty.
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Strong emphasis on industrial visits, corporate grooming, and management conferences.
@@ -61,7 +61,7 @@ VIPS is famous for its premium infrastructure, tech-enabled classrooms, and a hi
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent extracurricular activities, student clubs, and soft skills training programs.
 
-### 4. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) - Rohini
+### 4. [Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS) - Rohini
 JIMS Rohini is a highly reputable boutique college that focuses heavily on industry-ready curricula and practical business projects.
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent industry collaborations, frequent guest lectures, and dedicated career counseling.
@@ -112,10 +112,10 @@ With a total 3-year tuition fee of approximately **₹3.3 Lakhs to ₹3.6 Lakhs*
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026)
-- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet)
-- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet/)
+- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)
 
 ---
 
@@ -125,7 +125,7 @@ With multiple entrance exams (CUET, IPU CET, SET) and hundreds of colleges in De
 
 **Confused between GGSIPU colleges and DU?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"BBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

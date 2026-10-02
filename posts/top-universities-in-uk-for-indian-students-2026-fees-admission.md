@@ -190,15 +190,15 @@ The **United Kingdom** is home to some of the world's oldest and most prestigiou
 
 Our counselors specialize in UK university shortlisting, SOP writing, and visa documentation support.
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Global MBA Online 2027–29: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026)
+- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
+- [Global MBA Online 2027–29: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
+- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026/)
 
 ---
 
@@ -224,6 +224,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

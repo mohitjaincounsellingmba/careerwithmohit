@@ -42,7 +42,7 @@ The **September MAT 2026 Exam (Management Aptitude Test)** is one of the most st
 
 **Appearing for the September MAT exam provides candidates with an early benchmark of their aptitude, allows multiple re-take attempts (in Dec, Feb, and May), and unlocks early-bird admission rounds in 600+ AICTE-approved B-Schools.**
 
-1. **Early Admission Confirmation**: Top institutions like **[Welingkar Mumbai](/colleges/welingkar-mumbai)**, **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)**, **[XIME Bangalore](/colleges/xime-bangalore)**, and **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** begin early profile evaluation and interview shortlisting using September MAT scores.
+1. **Early Admission Confirmation**: Top institutions like **[Welingkar Mumbai](/colleges/welingkar-mumbai/)**, **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)**, **[XIME Bangalore](/colleges/xime-bangalore/)**, and **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** begin early profile evaluation and interview shortlisting using September MAT scores.
 2. **Stress-Free CAT/XAT Preparation**: Scoring 650+ in September MAT gives you a guaranteed top B-School safety net, allowing you to prepare for CAT and XAT without anxiety.
 3. **No Negative Impact on Composite Score for GK**: Since AIMA reports the Economic & Business Environment (GK) section separately, your core percentile is based purely on Language, Reasoning, Data Analysis, and Math.
 
@@ -54,13 +54,13 @@ The **September MAT 2026 Exam (Management Aptitude Test)** is one of the most st
 
 | College Name & City | Expected MAT Cutoff | Total 2-Year Program Fee | Average Placement Package | Selection Weightage |
 | :--- | :--- | :--- | :--- | :--- |
-| **[PUMBA Pune](/colleges/pumba-pune)** | 95+ %ile (650+ Composite) | ₹1.35 Lakhs | ₹8.90 LPA | MAT/CET Score + GD-PI |
-| **[Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai)** | 95+ %ile (650+ Composite) | ₹14.00 Lakhs | ₹12.50 LPA | Profile Evaluation + GD-PI |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | 90+ %ile (600+ Composite) | ₹14.00 Lakhs | ₹11.25 LPA | MAT Score + PI Round |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | 88 - 90+ %ile (600+ Composite) | ₹12.00 Lakhs | ₹10.30 LPA | Entrance + GD-PI |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** | 80 - 85 %ile (550+ Composite) | ₹11.50 Lakhs | ₹8.90 LPA | Case Analysis + PI |
-| **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji-delhi)** | 80 - 85 %ile (550+ Composite) | ₹8.90 Lakhs | ₹8.10 LPA | Written Test + Interview |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | 78 - 82 %ile (520+ Composite) | ₹10.50 Lakhs | ₹8.50 LPA | Direct Profile Round |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | 95+ %ile (650+ Composite) | ₹1.35 Lakhs | ₹8.90 LPA | MAT/CET Score + GD-PI |
+| **[Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai/)** | 95+ %ile (650+ Composite) | ₹14.00 Lakhs | ₹12.50 LPA | Profile Evaluation + GD-PI |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | 90+ %ile (600+ Composite) | ₹14.00 Lakhs | ₹11.25 LPA | MAT Score + PI Round |
+| **[XIME Bangalore](/colleges/xime-bangalore/)** | 88 - 90+ %ile (600+ Composite) | ₹12.00 Lakhs | ₹10.30 LPA | Entrance + GD-PI |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** | 80 - 85 %ile (550+ Composite) | ₹11.50 Lakhs | ₹8.90 LPA | Case Analysis + PI |
+| **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji/)** | 80 - 85 %ile (550+ Composite) | ₹8.90 Lakhs | ₹8.10 LPA | Written Test + Interview |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | 78 - 82 %ile (520+ Composite) | ₹10.50 Lakhs | ₹8.50 LPA | Direct Profile Round |
 
 ---
 
@@ -105,7 +105,7 @@ Yes, you can take a 100% free full-length 150-question CBT mock test on CareerWi
 
 ### 📚 Related MBA Entrance Resources
 
-- **[Free MAT 2026/27 Full-Length CBT Mock Test](/tools/mat-mock-test)**
-- **[MAT Score to Percentile & Composite Score Calculator](/tools/mat-score-calculator)**
-- **[MBA Application Form Discounts (Save up to ₹5,000)](/mba-application-form-discount)**
-- **[MBA & PGDM Admissions 2027 Hub](/mba-pgdm-admission-2027)**
+- **[Free MAT 2026/27 Full-Length CBT Mock Test](/tools/mat-mock-test/)**
+- **[MAT Score to Percentile & Composite Score Calculator](/tools/mat-score-calculator/)**
+- **[MBA Application Form Discounts (Save up to ₹5,000)](/mba-application-form-discount/)**
+- **[MBA & PGDM Admissions 2027 Hub](/mba-pgdm-admission-2027/)**

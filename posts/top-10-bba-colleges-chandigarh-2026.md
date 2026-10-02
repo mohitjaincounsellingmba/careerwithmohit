@@ -69,7 +69,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Chandigarh for 2026** to 
 - **Entrance Exam / Admission Process:** CUCET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. [Chitkara University](/colleges/chitkara-university) (Rajpura)
+### 6. [Chitkara University](/colleges/chitkara-university/) (Rajpura)
 - **Approximate Annual Fees:** ₹1.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -105,7 +105,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Chandigarh for 2026** to 
 | **3** | **MCM DAV College for Women** | Merit | ₹35,000 |
 | **4** | **Post Graduate Government College (PGGC)** | Merit | ₹25,000 |
 | **5** | **Chandigarh University (Mohali)** | CUCET | ₹1.6 Lakhs |
-| **6** | **[Chitkara University](/colleges/chitkara-university) (Rajpura)** | Merit | ₹1.5 Lakhs |
+| **6** | **[Chitkara University](/colleges/chitkara-university/) (Rajpura)** | Merit | ₹1.5 Lakhs |
 | **7** | **Panjab University (UBS affiliated)** | PU MET | ₹50,000 |
 | **8** | **University of Fraser Valley (Chandigarh Campus)** | Merit | ₹4.0 Lakhs |
 | **9** | **Rayat Bahra University** | Merit | ₹1.0 Lakhs |
@@ -120,16 +120,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Chandigarh?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

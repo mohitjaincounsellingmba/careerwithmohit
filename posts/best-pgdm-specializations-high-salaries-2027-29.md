@@ -62,7 +62,7 @@ For candidates entering the **2027-29 academic batch**, selecting a future-proof
 
 ### 1. Business Analytics & Data Science
 * **Why it Pays High**: Companies rely heavily on big data for forecasting, customer segmentation, and process optimization.
-* **Top Colleges**: [Praxis Business School](/colleges/praxis-kolkata) Kolkata, JAGSoM Bangalore, FIIB Delhi, NDIM Delhi.
+* **Top Colleges**: [Praxis Business School](/colleges/praxis-kolkata/) Kolkata, JAGSoM Bangalore, FIIB Delhi, NDIM Delhi.
 
 ### 2. FinTech (Financial Technology) & Financial Analytics
 * **Why it Pays High**: The convergence of banking, blockchain, payments, and algorithmic trading has created a massive talent deficit.
@@ -74,7 +74,7 @@ For candidates entering the **2027-29 academic batch**, selecting a future-proof
 
 ### 4. Supply Chain Management & Logistics
 * **Why it Pays High**: Driven by e-commerce expansion (Amazon, Flipkart) and global trade logistics.
-* **Top Colleges**: SIOM Nashik, [PIBM Pune](/colleges/pibm-pune), GNIOT GIMS Greater Noida, BIMTECH.
+* **Top Colleges**: SIOM Nashik, [PIBM Pune](/colleges/pibm-pune/), GNIOT GIMS Greater Noida, BIMTECH.
 
 ---
 
@@ -92,7 +92,7 @@ Align your PGDM specialization choice for **2027-29** with market trends and per
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

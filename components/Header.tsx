@@ -159,7 +159,7 @@ export function Header() {
 
               {/* Desktop Face-to-Face Video Counselling Button */}
               <Link
-                href="/book-session"
+                href="/book-session/"
                 prefetch={false}
                 className="hidden sm:inline-flex h-9 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 px-3.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
                 title="Book Free 1-on-1 Video Counselling on Google Meet"
@@ -254,7 +254,7 @@ export function Header() {
               {/* Fast Direct Secondary Links (Right aligned in nav ribbon) */}
               <div className="flex items-center gap-2 pl-3 border-l border-slate-200">
                 <Link
-                  href="/mock-tests"
+                  href="/mock-tests/"
                   className="h-8 px-2.5 rounded-lg text-slate-700 hover:text-blue-700 hover:bg-blue-50 flex items-center gap-1.5 transition-all group"
                 >
                   <Target className="w-3.5 h-3.5 text-blue-600 group-hover:scale-110 transition-transform" />
@@ -265,7 +265,7 @@ export function Header() {
                 </Link>
 
                 <Link
-                  href="/mba-application-form-discount"
+                  href="/mba-application-form-discount/"
                   className="h-8 px-2.5 rounded-lg text-slate-700 hover:text-emerald-700 hover:bg-emerald-50 flex items-center gap-1.5 transition-all group"
                 >
                   <Percent className="w-3.5 h-3.5 text-emerald-600 group-hover:scale-110 transition-transform" />
@@ -311,7 +311,7 @@ export function Header() {
 
             {/* High-Impact Mobile Booking Card */}
             <Link
-              href="/book-session"
+              href="/book-session/"
               prefetch={false}
               onClick={() => setIsMobileMenuOpen(false)}
               className="flex items-center justify-between p-3.5 rounded-2xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 text-white shadow-lg shadow-blue-600/20 active:scale-98 transition-all"

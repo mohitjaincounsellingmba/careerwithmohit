@@ -47,7 +47,7 @@ Let's look at the official rules and requirements.
 >
 > Compare 34+ top online universities on fees, NAAC grades, and courses. Filter and choose the best BBA options.
 >
-> [👉 Compare & Filter Online BBA Colleges Now](/online-degree-certification)
+> [👉 Compare & Filter Online BBA Colleges Now](/online-degree-certification/)
 
 ---
 
@@ -92,9 +92,9 @@ To ensure you face no issues during your government job document verification, v
 ---
 
 *Related Articles:*
-- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12)
-- [Earning While Learning: Best Part-Time Jobs for BBA Students](/blog/earning-while-learning-part-time-jobs-freelance-gigs-online-bba)
-- [The Parent's Guide to Online Undergraduate Degrees](/blog/parents-guide-online-undergraduate-degrees-validity-placements-scope)
+- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12/)
+- [Earning While Learning: Best Part-Time Jobs for BBA Students](/blog/earning-while-learning-part-time-jobs-freelance-gigs-online-bba/)
+- [The Parent's Guide to Online Undergraduate Degrees](/blog/parents-guide-online-undergraduate-degrees-validity-placements-scope/)
 
 
 
@@ -103,6 +103,6 @@ To ensure you face no issues during your government job document verification, v
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -50,7 +50,7 @@ Here is a guide to the best freelance gigs and part-time jobs for online BBA stu
 >
 > Filter 34+ top online universities by fees, NAAC grades, and courses. Find your best BBA path.
 >
-> [👉 Compare & Filter Online BBA Colleges Now](/online-degree-certification)
+> [👉 Compare & Filter Online BBA Colleges Now](/online-degree-certification/)
 
 ---
 
@@ -109,9 +109,9 @@ When you apply for a job or an MBA after your BBA, your work experience will be 
 ---
 
 *Related Articles:*
-- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12)
-- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
-- [Online BBA in Digital Marketing vs. Business Analytics](/blog/online-bba-digital-marketing-vs-business-analytics)
+- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12/)
+- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams/)
+- [Online BBA in Digital Marketing vs. Business Analytics](/blog/online-bba-digital-marketing-vs-business-analytics/)
 
 
 
@@ -120,6 +120,6 @@ When you apply for a job or an MBA after your BBA, your work experience will be 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

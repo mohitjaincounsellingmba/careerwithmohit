@@ -52,9 +52,9 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.
+The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam/)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.
 
-Whether you are an engineering background aspirant or a non-engineer aiming for the IIMs, **smart topic selection and ratio-based shortcuts** are key to scoring a **99+ percentile**. For overarching exam preparation advice, read our [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29).
+Whether you are an engineering background aspirant or a non-engineer aiming for the IIMs, **smart topic selection and ratio-based shortcuts** are key to scoring a **99+ percentile**. For overarching exam preparation advice, read our [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 In this curated practice guide, we cover **handpicked CAT-level questions across Arithmetic, Algebra, Geometry, and Number System** with step-by-step solutions and 30-second topper shortcuts.
 
@@ -270,12 +270,12 @@ $$S = \frac{1}{3} + \frac{2}{3^2} + \frac{3}{3^3} + \frac{4}{3^4} + \cdots \inft
 
 ### 🚀 Boost Your Preparation
 Looking to test your Quant calculation speed and sectional time management under actual CAT simulation?  
-👉 **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to access 100+ topic-wise tests, full-length mocks, and AI-driven weak-area diagnosis.
+👉 **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to access 100+ topic-wise tests, full-length mocks, and AI-driven weak-area diagnosis.
 
 ---
 
 ## 7. Related Resources & MBA Guidance
-* [CAT Exam 2026: Registration, Latest Syllabus & Exam Pattern](/blog/all-about-cat-exam)
-* [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-* [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
+* [CAT Exam 2026: Registration, Latest Syllabus & Exam Pattern](/blog/all-about-cat-exam/)
+* [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+* [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)

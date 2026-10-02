@@ -52,7 +52,7 @@ state: Tamil Nadu
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Industrial & Tech Port Capital**: Chennai (the "Detroit of India" and major IT hub along Old Mahabalipuram Road - OMR) houses global automotive giants, fintech development centers, and maritime logistics conglomerates.
-> - **Top Ranked B-Schools**: **[Great Lakes Institute of Management (GLIM Chennai)](/colleges/great-lakes-chennai)**, **DoMS IIT Madras**, **LIBA Chennai (Loyola)**, **IFMR Graduate School of Business (Krea University)**, and **[SSN School of Management](/colleges/ssn-school-of-management)**.
+> - **Top Ranked B-Schools**: **[Great Lakes Institute of Management (GLIM Chennai)](/colleges/great-lakes-chennai/)**, **DoMS IIT Madras**, **LIBA Chennai (Loyola)**, **IFMR Graduate School of Business (Krea University)**, and **[SSN School of Management](/colleges/ssn-school-of-management/)**.
 > - **Fee & Placement Snapshot**: Course fees range from ₹11.5 Lakhs to ₹21.5 Lakhs, with average placement packages spanning ₹10.5 LPA to ₹17.8 LPA.
 
 ### [InquiryCard title="Targeting Top Chennai Management Colleges?" description="Compare Great Lakes Chennai, DoMS IIT Madras, LIBA, IFMR, and SSN. Get expert 1-on-1 profile evaluation from Mohit Jain." cta="Book Free Chennai Consultation" type="admission"]
@@ -67,14 +67,14 @@ In this 2027 verified admission review, senior education consultant **Mohit Jain
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Great Lakes Chennai (GLIM)](/blog/all-about-great-lakes-campuses)** (1-Yr PGPM / 2-Yr PGDM) | ECR, Manamai | ₹18.50 – ₹21.50 Lakhs | ₹17.80 LPA | CAT / XAT / CMAT / GMAT (85+ %ile) |
-| **[DoMS IIT Madras](/blog/doms-iit-madras-mba-review-2027-fees-placements-cutoff)** (MBA) | Sardar Patel Rd, Guindy | ₹12.50 Lakhs | ₹16.90 LPA | CAT (96.0+ %ile) |
-| **[LIBA Chennai (Loyola)](/blog/all-about-loyola-college-chennai-bba-admission-2026)** (PGDM) | Nungambakkam | ₹17.50 Lakhs | ₹11.20 LPA | CAT / XAT (80.0+ %ile) |
-| **[IFMR GSB (Krea University)](/blog/all-about-institute-of-insurance-and-risk-management)** (MBA) | Sri City (Chennai Belt) | ₹16.00 Lakhs | ₹13.50 LPA | CAT / XAT / CMAT / NMAT / GRE / GMAT |
-| **[SSN School of Management](/blog/all-about-ssn-school-of-management)** (MBA) | Kalavakkam, OMR | ₹7.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / TANCET |
-| **[SRM School of Management](/blog/all-about-srm-university-campuses)** (MBA) | Kattankulathur | ₹9.50 Lakhs | ₹7.50 LPA | SRMJEEM / CAT / MAT / CMAT / Direct |
-| **[Rajalakshmi School of Business](/blog/all-about-rajalakshmi-school-of-business)** (PGDM) | Chembarambakkam | ₹7.80 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT |
-| **[Crescent School of Business](/blog/all-about-crescent-school-of-business)** (MBA) | Vandalur | ₹7.00 Lakhs | ₹6.50 LPA | MAT / CMAT / TANCET / Direct |
+| **[Great Lakes Chennai (GLIM)](/blog/all-about-great-lakes-campuses/)** (1-Yr PGPM / 2-Yr PGDM) | ECR, Manamai | ₹18.50 – ₹21.50 Lakhs | ₹17.80 LPA | CAT / XAT / CMAT / GMAT (85+ %ile) |
+| **[DoMS IIT Madras](/blog/doms-iit-madras-mba-review-2027-fees-placements-cutoff/)** (MBA) | Sardar Patel Rd, Guindy | ₹12.50 Lakhs | ₹16.90 LPA | CAT (96.0+ %ile) |
+| **[LIBA Chennai (Loyola)](/blog/all-about-loyola-college-chennai-bba-admission-2026/)** (PGDM) | Nungambakkam | ₹17.50 Lakhs | ₹11.20 LPA | CAT / XAT (80.0+ %ile) |
+| **[IFMR GSB (Krea University)](/blog/all-about-institute-of-insurance-and-risk-management/)** (MBA) | Sri City (Chennai Belt) | ₹16.00 Lakhs | ₹13.50 LPA | CAT / XAT / CMAT / NMAT / GRE / GMAT |
+| **[SSN School of Management](/blog/all-about-ssn-school-of-management/)** (MBA) | Kalavakkam, OMR | ₹7.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / TANCET |
+| **[SRM School of Management](/blog/all-about-srm-university-campuses/)** (MBA) | Kattankulathur | ₹9.50 Lakhs | ₹7.50 LPA | SRMJEEM / CAT / MAT / CMAT / Direct |
+| **[Rajalakshmi School of Business](/blog/all-about-rajalakshmi-school-of-business/)** (PGDM) | Chembarambakkam | ₹7.80 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT |
+| **[Crescent School of Business](/blog/all-about-crescent-school-of-business/)** (MBA) | Vandalur | ₹7.00 Lakhs | ₹6.50 LPA | MAT / CMAT / TANCET / Direct |
 
 ---
 
@@ -123,6 +123,6 @@ For government-aided and university departments affiliated with Anna University,
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

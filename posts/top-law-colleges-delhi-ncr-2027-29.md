@@ -50,7 +50,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Discover the best Law colleges in Delhi NCR for 2026. Detailed guide on NLU Delhi, Jindal Global (JGLS), Amity...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Delhi NCR (National Capital Region) is the epicentre of India's legal landscape. Home to the Supreme Court, the Delhi High Court, and hundreds of Tier-1 and Magic Circle law firms, Delhi NCR offers a legal education environment that is unparalleled in its professional exposure.
@@ -68,7 +68,7 @@ Whether you are aiming for the state-of-the-art labs of NLU Delhi or the global 
 | **VIPS (GGSIPU)** | New Delhi | CLAT / IPU CET | ₹6.5 - 8.5 Lakhs | ₹5.5 - 8.0 LPA |
 | **Amity Law School** | Noida | Merit-based | ₹12.0 - 15.0 Lakhs | ₹4.5 - 7.5 LPA |
 | **Faculty of Law (DU)** | New Delhi | CUET PG | ₹0.15 - 0.25 Lakhs | ₹10.0 - 15.0 LPA |
-| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | Merit / CLAT | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida/)** | Greater Noida | Merit / CLAT | ₹12.5 - 16.0 Lakhs | ₹5.0 - 8.5 LPA |
 | **JIMS (GGSIPU)** | New Delhi | CLAT / IPU CET | ₹5.5 - 7.5 Lakhs | ₹4.5 - 6.5 LPA |
 
 ---
@@ -125,16 +125,16 @@ AILET is usually held on the **second Sunday of December**.
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [How to Crack CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
-- [B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [How to Crack CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+- [B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
 
 ---
 
 **Planning your Legal Career in the Capital?**
 Delhi's legal market is all about networking. Don't waste your degree at a college that doesn't have a presence in the courts or firms. Mohit Jain provides a "Capital Legal Audit"—helping you pick the college that puts you on the radar of the Supreme Court and Tier-1 firms.
 
-[👉 Book My Delhi NCR Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Delhi NCR Law Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -142,6 +142,6 @@ Delhi's legal market is all about networking. Don't waste your degree at a colle
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

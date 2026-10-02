@@ -78,14 +78,14 @@ Once your scores are in, the real work begins:
 ---
 
 ### **💡 Related Resources for Candidates:**
-- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
-- [CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor)
+- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg/)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
+- [CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor/)
 
 **Confused about which university to pick?**
 Maximize your chances with expert guidance.
 
-[👉 Book Personalised Admission Guidance Today!](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+[👉 Book Personalised Admission Guidance Today!](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
 
 
 
@@ -94,6 +94,6 @@ Maximize your chances with expert guidance.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

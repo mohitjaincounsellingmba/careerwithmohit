@@ -40,20 +40,20 @@ location: Bangalore
 state: Karnataka
 category: Online Degrees
 ---
-# [Jain University](/colleges/jain-university) Online Fee Structure (2027): Complete Program Breakdown & EMI Plans
+# [Jain University](/colleges/jain-university/) Online Fee Structure (2027): Complete Program Breakdown & EMI Plans
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**[Jain University](/colleges/jain-university) Online**, based in the tech capital of **Bangalore**, holds **NAAC A++ accreditation** and **WES approval**, placing it among India's highest-ranked online degree institutions.
+**[Jain University](/colleges/jain-university/) Online**, based in the tech capital of **Bangalore**, holds **NAAC A++ accreditation** and **WES approval**, placing it among India's highest-ranked online degree institutions.
 
-For students planning to enroll in the 2027 academic session, understanding the exact **tuition fee schedules, semester installments, and zero-cost EMI options** is essential. Here is the verified 2027 financial guide for [Jain University](/colleges/jain-university) Online degrees.
+For students planning to enroll in the 2027 academic session, understanding the exact **tuition fee schedules, semester installments, and zero-cost EMI options** is essential. Here is the verified 2027 financial guide for [Jain University](/colleges/jain-university/) Online degrees.
 
 ---
 
-## Key Highlights of [Jain University](/colleges/jain-university) Online Fees (2027)
+## Key Highlights of [Jain University](/colleges/jain-university/) Online Fees (2027)
 
 * **Accreditation**: NAAC A++ | UGC-DEB | AICTE | NIRF | WES Approved
 * **Online MBA Total Fee**: ₹1,96,000 total course fee (₹49,000 per semester)
@@ -110,9 +110,9 @@ No. The quoted fee covers:
 | Institution | Total Online MBA Fee | NAAC Rating | WES Global Validity |
 | :--- | :--- | :--- | :--- |
 | **Jain University Online** | **₹1,96,000** | **NAAC A++** | **Approved** |
-| **[Amity University](/colleges/amity-noida) Online** | ₹1,99,000 | NAAC A+ | Approved |
+| **[Amity University](/colleges/amity-noida/) Online** | ₹1,99,000 | NAAC A+ | Approved |
 | **D.Y. Patil University Pune** | ₹1,89,400 | NAAC A++ | Approved |
-| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | ₹1,75,000 | NAAC A+ | Approved |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur/)** | ₹1,75,000 | NAAC A+ | Approved |
 | **LPU Online** | ₹1,61,600 | NAAC A++ | Approved |
 
 ---
@@ -130,7 +130,7 @@ No. The quoted fee covers:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -143,6 +143,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

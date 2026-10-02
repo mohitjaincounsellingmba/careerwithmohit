@@ -38,7 +38,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Bihar Board (BSEB) has declared the Class 12th (Intermediate) result 2026. Check your Stream-wise (Science, Ar...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Bihar School Examination Board (BSEB) officially declared the **Bihar Board Class 12 (Intermediate) Result 2026 on March 23, 2026**. Students across the Science, Arts, and Commerce streams can now check their scores and download their provisional marksheets from the official portal.
 
@@ -83,10 +83,10 @@ Follow these simple steps to access your Inter result:
 Now that your Inter results are out, it's time to focus on university admissions and entrance exams like **CUET, JEE, NEET, and MBA integrated programs**.
 
 Plan your career with our expert resources:
-*   [BSEB 10th Result 2026 Declared: Check Now](/blog/bseb-10th-result-2026-declared)
-*   [Bihar Student Credit Card (BSCC) Scheme: Funding Your Higher Education](/blog/bihar-student-credit-card-mba-colleges)
-*   [Top MBA Colleges in India: Planning Your Postgraduate Journey](/blog/iims-list-courses-placements-cutoffs-admission)
-*   [Career Options After 12th Science, Commerce, and Arts](/blog/career-options-after-12th-science-2027-29)
+*   [BSEB 10th Result 2026 Declared: Check Now](/blog/bseb-10th-result-2026-declared/)
+*   [Bihar Student Credit Card (BSCC) Scheme: Funding Your Higher Education](/blog/bihar-student-credit-card-mba-colleges/)
+*   [Top MBA Colleges in India: Planning Your Postgraduate Journey](/blog/iims-list-courses-placements-cutoffs-admission/)
+*   [Career Options After 12th Science, Commerce, and Arts](/blog/career-options-after-12th-science-2027-29/)
 
 ### **Details to Verify on Your 12th Marksheet**
 Check the following details carefully on your provisional certificate:
@@ -99,7 +99,7 @@ Check the following details carefully on your provisional certificate:
 **Confused About College Admissions?**
 Whether it’s choosing the right B.Tech branch or finding the best BBA/BCA college, **CareerWithMohit** provides personalized counseling to help you navigate the competitive landscape of Indian higher education.
 
-[👉 Get Expert Career Counseling Now!](/inquiry)
+[👉 Get Expert Career Counseling Now!](/inquiry/)
 
 ---
 
@@ -121,6 +121,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

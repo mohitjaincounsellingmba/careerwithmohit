@@ -30,7 +30,7 @@ faqs:
       Yes, Balaji University accepts **CAT, MAT, XAT, CMAT, and MAH CET**
       scores.
   - question: What is the unique 'Corporate Culture' at Balaji?
-    answer: "The university operates on a **365-day model** with strict attendance and professional grooming standards to make students corporate-ready.\n\n[\U0001F449 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry)"
+    answer: "The university operates on a **365-day model** with strict attendance and professional grooming standards to make students corporate-ready.\n\n[\U0001F449 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry/)"
 location: Pune
 state: Maharashtra
 category: Online Degrees
@@ -77,7 +77,7 @@ The total fee for the two-year program is approximately **₹11.5 - ₹12.5 Lakh
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)
@@ -94,7 +94,7 @@ Yes, Balaji University accepts **CAT, MAT, XAT, CMAT, and MAH CET** scores.
 ### 4. What is the unique 'Corporate Culture' at Balaji?
 The university operates on a **365-day model** with strict attendance and professional grooming standards to make students corporate-ready.
 
-[👉 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry)
+[👉 Take the first step toward Sri Balaji University! Click for admission help.](/inquiry/)
 
 
 
@@ -102,6 +102,6 @@ The university operates on a **365-day model** with strict attendance and profes
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

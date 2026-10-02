@@ -123,15 +123,15 @@ Spain is rapidly emerging as a **top European study destination** for Indian stu
 
 ## 📞 Expert Spain Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [IESE Business School MBA Review 2027–29](/blog/iese-business-school-mba-review-2027-29)
-- [How to Learn Italian Language 2026](/blog/how-to-learn-italian-language-2027-29)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [IESE Business School MBA Review 2027–29](/blog/iese-business-school-mba-review-2027-29/)
+- [How to Learn Italian Language 2026](/blog/how-to-learn-italian-language-2027-29/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 
 ---
 
@@ -153,7 +153,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -167,6 +167,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

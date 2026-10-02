@@ -30,14 +30,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [IIM Udaipur](/colleges/iim-udaipur) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+# [IIM Udaipur](/colleges/iim-udaipur/) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**[IIM Udaipur](/colleges/iim-udaipur)** continues to be one of the most prominent management destinations in **Udaipur (Rajasthan)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[IIM Udaipur](/colleges/iim-udaipur/)** continues to be one of the most prominent management destinations in **Udaipur (Rajasthan)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Rajasthan, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -45,7 +45,7 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **[IIM Udaipur](/colleges/iim-udaipur)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[IIM Udaipur](/colleges/iim-udaipur/)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
@@ -137,9 +137,9 @@ For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Tec
 
 Make an informed decision by comparing fee structures, placement reports, and admission cutoffs across India's top management institutions:
 
-*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Explore & Compare 200+ Top Colleges in India](/colleges)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
+*   [Explore & Compare 200+ Top Colleges in India](/colleges/)
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
@@ -165,7 +165,7 @@ Yes, **IIM Udaipur** offers merit-based scholarships and fee waivers for top ent
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -179,6 +179,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -97,7 +97,7 @@ export function College4SureStreamGrid() {
             </p>
           </div>
           <Link
-            href="/colleges"
+            href="/colleges/"
             className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white hover:bg-[#2563EB] text-[#061124] hover:text-white border border-[#061124]/15 font-bold text-sm transition-all shadow-sm group self-start sm:self-auto"
           >
             <span>All 770+ Colleges</span>

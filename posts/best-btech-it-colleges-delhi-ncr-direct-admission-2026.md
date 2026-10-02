@@ -77,7 +77,7 @@ Delhi NCR is home to highly respected IPU-affiliated colleges and large private 
 *   **Management Quota:** Follows the 10% IPU direct admission guidelines. IT is slightly easier to secure here compared to MSIT/MAIT.
 *   **Average Package:** ₹6 - ₹8 LPA.
 
-### 3. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
+### 3. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/), Noida
 *   **The IT Advantage:** Jaypee is literally branded around Information Technology. Its rigorous curriculum creates robust coders capable of cracking high-tier product-based company interviews.
 *   **Admission Process:** Direct/NRI sponsored seats exist but require high board marks and timely application directly to the university.
 *   **Average Package:** ₹8 - ₹11 LPA.
@@ -110,10 +110,10 @@ The management quota process is heavily time-sensitive. Counseling and document 
 3. Understand the difference between the actual university yearly college fee vs. any one-time development fee for the seat.
 
 *Helpful Links:* 
-*   [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection)
-*   [Education Loan Guide for B.Tech](/blog/education-loan-guide-mba-btech)
+*   [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection/)
+*   [Education Loan Guide for B.Tech](/blog/education-loan-guide-mba-btech/)
 
-[👉 Missed the CSE cut-off? B.Tech IT is the next best path. Connect with our admission experts for guaranteed legal guidance.](/inquiry)
+[👉 Missed the CSE cut-off? B.Tech IT is the next best path. Connect with our admission experts for guaranteed legal guidance.](/inquiry/)
 
 ---
 
@@ -135,6 +135,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

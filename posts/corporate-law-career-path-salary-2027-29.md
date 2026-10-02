@@ -119,16 +119,16 @@ Yes, but you will need to pass the Bar exam of that country (e.g., the New York 
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
-- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026/)
+- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
 
 ---
 
 **Do You Have the Boardroom DNA?**
 Corporate Law is a high-reward, high-stress career. Don't jump in without understanding the lifestyle. Mohit Jain provides a "Corporate Legal Roadmap"—helping you build the skill set and the resume that attracts India's Top Law Firms.
 
-[👉 Book My Corporate Law Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Corporate Law Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -136,6 +136,6 @@ Corporate Law is a high-reward, high-stress career. Don't jump in without unders
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

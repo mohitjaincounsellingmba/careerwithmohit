@@ -128,7 +128,7 @@ export function CertificationsClient() {
                     </a>
                   ) : (
                     <a
-                      href="/inquiry"
+                      href="/inquiry/"
                       className={`block w-full text-center border-4 border-foreground py-3 text-lg font-black uppercase transition-colors ${course.type === 'paid'
                           ? 'bg-foreground text-white hover:bg-red-500'
                           : 'bg-white text-foreground hover:bg-emerald-500 hover:text-white'
@@ -159,7 +159,7 @@ export function CertificationsClient() {
             <div className="font-black text-2xl uppercase italic whitespace-nowrap">Career Growth</div>
           </div>
           <h2 className="font-display text-3xl font-black uppercase mb-6">Need a custom learning path?</h2>
-          <Link href="/inquiry" className="inline-block bg-white text-foreground border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-primary hover:text-white transition-all transform hover:scale-110">
+          <Link href="/inquiry/" className="inline-block bg-white text-foreground border-4 border-white px-8 py-4 text-xl font-black uppercase hover:bg-primary hover:text-white transition-all transform hover:scale-110">
             Get Personal Counselling
           </Link>
         </div>

@@ -27,7 +27,7 @@ faqs:
       score (MAT/CMAT). Only a few direct-admission colleges exist, but their
       placement quality is often low.
   - question: What is the total cost of applying for all exams?
-    answer: "If you apply for 4 major exams (CAT, XAT, NMAT, SNAP), expect to spend around **₹10,000 to ₹12,000** just on application fees.\n\n[\U0001F449 Use our College Predictor based on your Exam Score!](/tools/mat-college-predictor)\n\n**Confused about which exam fits your profile?**\nAt **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest the best exam strategy for your dream B-school.\n\n[\U0001F449 Book a Personalized Strategy Session!](/inquiry)"
+    answer: "If you apply for 4 major exams (CAT, XAT, NMAT, SNAP), expect to spend around **₹10,000 to ₹12,000** just on application fees.\n\n[\U0001F449 Use our College Predictor based on your Exam Score!](/tools/mat-college-predictor/)\n\n**Confused about which exam fits your profile?**\nAt **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest the best exam strategy for your dream B-school.\n\n[\U0001F449 Book a Personalized Strategy Session!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
@@ -42,7 +42,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 | Exam | Conducting Body | App. Fee (Approx.) | Difficulty | Best For... |
 | :--- | :--- | :--- | :--- | :--- |
 | **CAT** | IIMs (On Rotation) | ₹2,700 | **High** | All 21 IIMs, FMS, MDI, SPJIMR |
-| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | ₹2,200 | **High** | XLRI, SPJIMR, IMT, XIMB |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | ₹2,200 | **High** | XLRI, SPJIMR, IMT, XIMB |
 | **NMAT** | GMAC | ₹3,000 | **Moderate** | NMIMS campuses, K J Somaiya |
 | **SNAP** | Symbiosis (SIU) | ₹2,250 | **Moderate** | 16 Symbiosis Institutes (SIBM, SCMHRD) |
 | **GMAT** | GMAC | ₹25,000+ | **High** | ISB, SPJIMR, Global B-Schools |
@@ -67,7 +67,7 @@ To help you plan your budget and preparation strategy, we have compiled the ulti
 The "Gold Standard" of Indian MBA exams.
 *   **Difficulty**: Very High. Requires deep logical thinking and time management.
 *   **Fees**: Increased recently to ₹2,700 for General category.
-*   **Why Take It?**: It is the only way to get into the IIMs. Even a 95+ percentile opens doors to top non-IIM colleges like [MDI Gurgaon](/colleges/mdi-gurgaon).
+*   **Why Take It?**: It is the only way to get into the IIMs. Even a 95+ percentile opens doors to top non-IIM colleges like [MDI Gurgaon](/colleges/mdi-gurgaon/).
 
 #### **2. XAT (Xavier Aptitude Test)**
 Known for its unique **Decision Making** section.
@@ -79,13 +79,13 @@ Known for its unique **Decision Making** section.
 The most candidate-friendly exam.
 *   **Difficulty**: Moderate. Adaptive format (if you answer correctly, the next question is tougher).
 *   **Fees**: ₹3,000. It is one of the most expensive exams because it allows **up to 3 attempts**.
-*   **Why Take It?**: [NMIMS Mumbai](/colleges/nmims-mumbai) is a top-tier brand. The ability to choose your exam date is a huge advantage.
+*   **Why Take It?**: [NMIMS Mumbai](/colleges/nmims-mumbai/) is a top-tier brand. The ability to choose your exam date is a huge advantage.
 
 #### **4. SNAP (Symbiosis National Aptitude Test)**
 Quick-fire 60-minute exam.
 *   **Difficulty**: Moderate. It tests speed more than depth.
 *   **Fees**: ₹2,250 per attempt.
-*   **Why Take It?**: [SIBM Pune](/colleges/sibm-pune) and SCMHRD are elite names in Marketing and HR.
+*   **Why Take It?**: [SIBM Pune](/colleges/sibm-pune/) and SCMHRD are elite names in Marketing and HR.
 
 ---
 
@@ -104,12 +104,12 @@ Most AICTE-approved PGDM/MBA programs require at least one national-level score 
 **3. What is the total cost of applying for all exams?**
 If you apply for 4 major exams (CAT, XAT, NMAT, SNAP), expect to spend around **₹10,000 to ₹12,000** just on application fees.
 
-[👉 Use our College Predictor based on your Exam Score!](/tools/mat-college-predictor)
+[👉 Use our College Predictor based on your Exam Score!](/tools/mat-college-predictor/)
 
 **Confused about which exam fits your profile?**
 At **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest the best exam strategy for your dream B-school.
 
-[👉 Book a Personalized Strategy Session!](/inquiry)
+[👉 Book a Personalized Strategy Session!](/inquiry/)
 
 
 
@@ -117,6 +117,6 @@ At **CareerWithMohit**, we analyze your strengths (Quants vs. Verbal) to suggest
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

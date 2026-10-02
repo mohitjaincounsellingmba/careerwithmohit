@@ -173,13 +173,13 @@ Applying for finance internships on Unstop is simple, intuitive, and completely 
 ---
 
 ### **Related Career & Educational Resources**
-- [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026)
-- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [Top MBA Colleges in Delhi NCR 2027–29: Rankings, Fees & Placement Reports](/colleges/mba-colleges-delhi-ncr)
-- [GDPI Interview Topics and Solutions for MBA Admissions 2027–2029](/blog/gdpi-interview-topics-solutions-mba)
-- [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2027-29)
+- [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026/)
+- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+- [Top MBA Colleges in Delhi NCR 2027–29: Rankings, Fees & Placement Reports](/colleges/mba-colleges-delhi-ncr/)
+- [GDPI Interview Topics and Solutions for MBA Admissions 2027–2029](/blog/gdpi-interview-topics-solutions-mba/)
+- [Career Roadmaps for 2026: Success Guide for Freshers](/blog/career-roadmaps-2027-29/)
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -201,7 +201,7 @@ No, Unstop is a completely free platform for students and job seekers. Employers
 
 ### 🚀 Boost Your Career & Exam Preparation
 
-Looking for expert mentorship to crack your dream finance company or top B-schools? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** for real-time exam simulation and detailed performance analytics.
+Looking for expert mentorship to crack your dream finance company or top B-schools? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** for real-time exam simulation and detailed performance analytics.
 
 
 ## Verified 2027–2029 MBA / PGDM Comparison Matrix
@@ -213,7 +213,7 @@ Looking for expert mentorship to crack your dream finance company or top B-schoo
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 

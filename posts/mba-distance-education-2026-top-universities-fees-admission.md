@@ -113,7 +113,7 @@ NMIMS is India's top brand for distance and online management education. With 40
 
 ---
 
-### 🥈 2. [Amity University](/colleges/amity-noida) Online/Distance
+### 🥈 2. [Amity University](/colleges/amity-noida/) Online/Distance
 
 Amity is globally accredited (WASC, QAA) and one of India's largest private universities. Its distance MBA offers 15+ specializations — the widest choice among Indian distance MBA programs.
 
@@ -164,7 +164,7 @@ CU Online is one of India's fastest-growing universities with NAAC A++ and QS ra
 
 ---
 
-### 5. [Lovely Professional University](/colleges/lovely-professional-university) (LPU) Online
+### 5. [Lovely Professional University](/colleges/lovely-professional-university/) (LPU) Online
 
 LPU Online has a massive student community and NAAC A++ status. Known for interactive online support and a wide network of learners across India.
 
@@ -212,7 +212,7 @@ IGNOU is India's largest public university. The MBA from IGNOU is recognized by 
 
 ### 8. BIMTECH Online — Distance PGDM
 
-BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida)) Greater Noida offers a highly respected distance/online PGDM — one of the few AICTE-approved distance management programs from a premium B-school.
+BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/)) Greater Noida offers a highly respected distance/online PGDM — one of the few AICTE-approved distance management programs from a premium B-school.
 
 | Feature | Details |
 |---|---|
@@ -366,11 +366,11 @@ With 100+ universities, 30+ comparison factors, and 1 lakh+ admissions processed
 ---
 
 *Related Posts:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29)
-- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide)
-- [Best Online MBA for Working Professionals](/blog/best-online-mba-colleges-working-professionals-india-2027-29)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
+- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+- [Best Online MBA for Working Professionals](/blog/best-online-mba-colleges-working-professionals-india-2027-29/)
 
 ---
 
@@ -393,7 +393,7 @@ Yes, universities typically conduct online semester exams using AI-enabled or hu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -407,6 +407,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -108,16 +108,16 @@ Based on NIRF rankings and placement records, here are the top NLUs you should a
 ---
 
 ## 🔗 Related Resources
-- [Top Law Colleges in Delhi NCR 2026](/blog)
-- [Admission Guide for 2026 Admissions](/blog/career-roadmaps-2027-29)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29)
+- [Top Law Colleges in Delhi NCR 2026](/blog/)
+- [Admission Guide for 2026 Admissions](/blog/career-roadmaps-2027-29/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29/)
 
 ---
 
 ## 📞 Confused About Law Admissions?
 Whether it's choosing the right NLU or understanding the difference between NLU Delhi (AILET) and other NLUs (CLAT), we are here to help.
 
-[👉 Book a Law Career Counselling Session with Mohit Jain](/inquiry) | [💬 Chat with Our Admission Experts](/inquiry)
+[👉 Book a Law Career Counselling Session with Mohit Jain](/inquiry/) | [💬 Chat with Our Admission Experts](/inquiry/)
 
 ---
 
@@ -139,6 +139,6 @@ Law graduates can practice in courts, join corporate law firms as legal advisors
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

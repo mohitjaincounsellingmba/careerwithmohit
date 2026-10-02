@@ -53,7 +53,7 @@ As we move into the 2026-27 academy session, O.P. Jindal Global University Onlin
 | **Starting Fee** | Approx. ₹50,000 - ₹90,000 per semester |
 | **Key Advantage** | Only Indian Private University in Top-500 QS World Rankings |
 
-👉 **[Start Your Global Admission Journey at JGU Online](/inquiry)**
+👉 **[Start Your Global Admission Journey at JGU Online](/inquiry/)**
 
 
 
@@ -84,19 +84,19 @@ OP Jindal’s online programs are optimized for the 2026 global workforce:
 Yes. All online programs from O.P. Jindal Global University are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles worldwide.
 
 ## Your Path to a Global Career
-- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29) vs [NMIMS Online 2026](/blog/nmims-online-review-2027-29).
-- **Global Hub:** Read about [Top-5 Online MBAs with AACSB in India](/online-degree-certification).
-- **Consultation:** Not sure if this global brand fits your budget? [Consult with Mohit Jain today!](/inquiry)
+- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29/) vs [NMIMS Online 2026](/blog/nmims-online-review-2027-29/).
+- **Global Hub:** Read about [Top-5 Online MBAs with AACSB in India](/online-degree-certification/).
+- **Consultation:** Not sure if this global brand fits your budget? [Consult with Mohit Jain today!](/inquiry/)
 
 ---
-[👉 Thinking about JGU? Talk to our expert counselors for a detailed fee breakdown and specialization guide!](/inquiry)
+[👉 Thinking about JGU? Talk to our expert counselors for a detailed fee breakdown and specialization guide!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -112,7 +112,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -126,6 +126,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

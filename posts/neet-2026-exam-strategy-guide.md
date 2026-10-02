@@ -128,16 +128,16 @@ Ideally, from **January 2026**. This gives you 4 months to fine-tune your speed 
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 — AIIMS Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [How to Prepare for Physics in NEET](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [MBBS vs BDS — Career Comparison](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+- [Top MBBS Colleges in India 2026 — AIIMS Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [How to Prepare for Physics in NEET](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [MBBS vs BDS — Career Comparison](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 
 **NEET is a Test of Stamina, Not Just Skill.**
 Don't let the 25 lakh competition scare you. 90% of them haven't read NCERT properly. Mohit Jain provides a "NEET Strategy Audit"—analyzing your current mock scores and helping you build the "NCERT Precision Plan" to jump into the 650+ club.
 
-[👉 Book My NEET 2026 Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My NEET 2026 Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -145,6 +145,6 @@ Don't let the 25 lakh competition scare you. 90% of them haven't read NCERT prop
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

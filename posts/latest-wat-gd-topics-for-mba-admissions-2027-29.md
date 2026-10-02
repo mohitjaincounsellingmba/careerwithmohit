@@ -53,7 +53,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/colleges/fms-delhi), Symbiosis, or top private B-schools**, your CAT score takes a back seat. The second and most critical stage of the selection process begins: the **Written Ability Test (WAT)** and **Group Discussion (GD)**.
+Once you receive an interview shortlist from the **IIMs, XLRI, [FMS Delhi](/colleges/fms-delhi/), Symbiosis, or top private B-schools**, your CAT score takes a back seat. The second and most critical stage of the selection process begins: the **Written Ability Test (WAT)** and **Group Discussion (GD)**.
 
 Panels evaluate your ability to think analytically under pressure, communicate coherently, utilize structured mental frameworks, and demonstrate balanced socio-economic awareness.
 
@@ -174,10 +174,10 @@ Introduction & Context  Positive Facets & Pros  Challenges & Risks      Roadmap 
 ---
 
 ## 🔗 Related Resources
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29)
-*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2027-29)
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29/)
+*   [IIM Shortlist Criteria & Minimum CAT Cut Offs](/blog/iim-shortlist-criteria-minimum-cat-cut-offs-2027-29/)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
 
 ---
 
@@ -202,6 +202,6 @@ In most IIMs, the Personal Interview (PI) carries 30-40% weightage while WAT car
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

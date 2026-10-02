@@ -99,7 +99,7 @@ Admission to PSG Medical College Coimbatore is strictly merit-based, determined 
 | **Minority / Management Quota** | NRI Quota: Score 250+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-neet-exam) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-neet-exam/) for rank prediction strategies.
 
 ---
 
@@ -132,7 +132,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-state-boards-india-official-websites)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-state-boards-india-official-websites/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.
@@ -162,7 +162,7 @@ Clinical exposure is the cornerstone of modern medical education. PSG Medical Co
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQs)
@@ -177,7 +177,7 @@ Yes, non-domicile students can apply for Management Quota seats via TN Medical S
 Expected NEET score for TN Govt Quota in PSG is 590 to 625.
 
 
-[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry)
+[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry/)
 
 ---
 
@@ -186,6 +186,6 @@ Source: Official College Prospectus & Medical Counselling Guidelines
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

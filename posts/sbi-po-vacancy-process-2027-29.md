@@ -47,7 +47,7 @@ The **State Bank of India Probationary Officer (SBI PO)** exam is widely conside
 
 For the current recruitment cycle, SBI has officially released the **SBI PO 2026 notification**, announcing approximately **1,500 vacancies**. This comprehensive guide breaks down the important dates, eligibility requirements, selection process, and exam pattern to help you navigate your preparation journey.
 
-Interested in testing your current preparation? Take our **[Free SBI PO Mock Test 2026](/blog/free-sbi-po-mock-test-2026)** to benchmark your speed and accuracy!
+Interested in testing your current preparation? Take our **[Free SBI PO Mock Test 2026](/blog/free-sbi-po-mock-test-2026/)** to benchmark your speed and accuracy!
 
 ---
 
@@ -169,15 +169,15 @@ Interested candidates can apply online by visiting the Careers section on the of
 ---
 
 ### **Related Career & Exam Prep Resources:**
-* [Free RBI Grade B Mock Test 2026: Prelims Practice Paper](/blog/free-rbi-grade-b-mock-test-2026)
-* [Is an Online BBA Degree Valid for UPSC, Bank Exams, and Government Jobs?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
-* [Top MBA Specializations: Career Opportunities, Salaries & Scope](/blog/bba-specializations-skills-salary-2026-guide)
+* [Free RBI Grade B Mock Test 2026: Prelims Practice Paper](/blog/free-rbi-grade-b-mock-test-2026/)
+* [Is an Online BBA Degree Valid for UPSC, Bank Exams, and Government Jobs?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams/)
+* [Top MBA Specializations: Career Opportunities, Salaries & Scope](/blog/bba-specializations-skills-salary-2026-guide/)
 
-[👉 Connect with Our Career Experts for Custom Prep Advice & Counseling](/inquiry)
+[👉 Connect with Our Career Experts for Custom Prep Advice & Counseling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

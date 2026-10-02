@@ -72,16 +72,16 @@ In this guide, we break down **12 key differences** to help you decide which pat
 
 ### Top MBA Colleges in India
 - **FMS (Faculty of Management Studies), Delhi** (Best ROI)
-- **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai**
-- **DMS, IIT Delhi / [IIT Bombay](/colleges/iit-bombay)**
+- **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/)), Mumbai**
+- **DMS, IIT Delhi / [IIT Bombay](/colleges/iit-bombay/)**
 - **PUMBA, Pune University**
-- **SJMSOM, [IIT Bombay](/colleges/iit-bombay)**
+- **SJMSOM, [IIT Bombay](/colleges/iit-bombay/)**
 
 ### Top PGDM Colleges in India
 - **IIMs (Ahmedabad, Bangalore, Calcutta, etc.)** — Note: Most IIMs now award MBA degrees, but follow a PGDM-style pedagogy.
 - **XLRI, Jamshedpur**
 - **SPJIMR, Mumbai**
-- **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)**
+- **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/)**
 - **XIME, Bangalore**
 - **IMI, New Delhi**
 
@@ -95,7 +95,7 @@ In this guide, we break down **12 key differences** to help you decide which pat
 > **Still confused about the right choice for your profile?**
 > A degree or a diploma is just the start. Let's map out which specific college will give you the best ROI for your career.
 
-[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)
+[👉 Get Free Counselling](/inquiry/) | [💬 Book Private Session](/inquiry/)
 
 ---
 
@@ -117,6 +117,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

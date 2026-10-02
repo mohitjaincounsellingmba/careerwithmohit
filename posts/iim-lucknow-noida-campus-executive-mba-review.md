@@ -58,7 +58,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-Running a career upgrade requires choosing the right management program. For working professionals in Noida, the Executive MBA / Executive PGDM offered by [Indian Institute of Management (IIM) Lucknow – Noida Campus](/colleges/iim-lucknow) represents a powerful gateway to higher senior leadership positions.
+Running a career upgrade requires choosing the right management program. For working professionals in Noida, the Executive MBA / Executive PGDM offered by [Indian Institute of Management (IIM) Lucknow – Noida Campus](/colleges/iim-lucknow/) represents a powerful gateway to higher senior leadership positions.
 
 In this review, we break down everything you need to know: fees, admission cutoffs, placements, pros, cons, and our honest expert verdict.
 
@@ -102,7 +102,7 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ## 🔍 Our Expert Verdict
 
-The Executive MBA program at [Indian Institute of Management (IIM) Lucknow – Noida Campus](/colleges/iim-lucknow) is highly recommended for professionals based in Noida who want to scale their careers without disrupting their current geographic setup. 
+The Executive MBA program at [Indian Institute of Management (IIM) Lucknow – Noida Campus](/colleges/iim-lucknow/) is highly recommended for professionals based in Noida who want to scale their careers without disrupting their current geographic setup. 
 
 If you are looking for top-tier consulting placements and have 5+ years of experience, full-time residential paths are stellar. However, if you are looking to continue your full-time job, their weekend/evening classes offer outstanding return on investment.
 
@@ -110,10 +110,10 @@ If you are looking for top-tier consulting placements and have 5+ years of exper
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is the difference between IPMX and WMP at [IIM Lucknow](/colleges/iim-lucknow) Noida campus?
+### What is the difference between IPMX and WMP at [IIM Lucknow](/colleges/iim-lucknow/) Noida campus?
 IPMX is a 1-year full-time residential program for candidates with 5+ years experience, offering on-campus placements. WMP is a 2-year weekend program for candidates with 3+ years experience who want to continue working.
 
-### Is GMAT compulsory for IPMX at [IIM Lucknow](/colleges/iim-lucknow)?
+### Is GMAT compulsory for IPMX at [IIM Lucknow](/colleges/iim-lucknow/)?
 Yes, a valid GMAT or GRE score is mandatory for securing admission to the IPMX program.
 
 ### Does IPMX include an international module?
@@ -123,7 +123,7 @@ Yes, the program includes a mandatory international immersion module at a partne
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -137,6 +137,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -56,13 +56,13 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 
 | College | Location | Admission Type | Bridge Course |
 |---|---|---|---|
-| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Jaipur | Merit-based | Yes |
-| **[Amity University](/colleges/amity-noida)** | Multiple Locations| Merit / Interview | Yes |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur/)** | Jaipur | Merit-based | Yes |
+| **[Amity University](/colleges/amity-noida/)** | Multiple Locations| Merit / Interview | Yes |
 | **LPU (Lovely Professional)** | Punjab | LPUNEST / Merit | Yes |
-| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | Merit-based | Yes |
+| **[Galgotias University](/colleges/galgotias-university/)** | Greater Noida | Merit-based | Yes |
 | **SRM University** | Chennai/NCR | Merit-based | Yes |
 | **Chandigarh University** | Chandigarh | CUCET / Merit | Yes |
-| **[GD Goenka University](/colleges/gd-goenka-gurgaon)** | Gurgaon | Merit-based | Yes |
+| **[GD Goenka University](/colleges/gd-goenka-gurgaon/)** | Gurgaon | Merit-based | Yes |
 
 ---
 
@@ -111,16 +111,16 @@ Yes, but you will need to take the **NIMCET** or other state exams, which typica
 ---
 
 ### Useful Links:
-- [Top BCA Colleges in Jaipur 2026](/blog/top-bca-colleges-jaipur-2027-29)
-- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide)
+- [Top BCA Colleges in Jaipur 2026](/blog/top-bca-colleges-jaipur-2027-29/)
+- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide/)
 
 ---
 
 **Don't Let One Subject Stop Your Tech Dream.**
 Many of India's top developers came from non-science backgrounds. Don't let a "Maths Compulsory" brochure discourage you. Mohit Jain specializes in finding "Bridge Pathways"—colleges that value your logic more than your 12th-grade mark sheet.
 
-[👉 Book My Non-Maths BCA Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
+[👉 Book My Non-Maths BCA Consultation](/inquiry/) | [💬 Talk to Mohit](/inquiry/)
 
 
 
@@ -128,6 +128,6 @@ Many of India's top developers came from non-science backgrounds. Don't let a "M
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

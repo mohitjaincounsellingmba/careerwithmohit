@@ -45,9 +45,9 @@ faqs:
       requiring JEE.
   - question: >-
       What is the fee for B.Tech at [Nirma
-      University](/colleges/nirma-institute-of-management) Ahmedabad?
+      University](/colleges/nirma-institute-of-management/) Ahmedabad?
     answer: >-
-      [Nirma University](/colleges/nirma-institute-of-management) charges approximately ₹2.5
+      [Nirma University](/colleges/nirma-institute-of-management/) charges approximately ₹2.5
       Lakhs per year for engineering programmes. Total programme cost is
       approximately ₹10–11 Lakhs.
 location: Ahmedabad
@@ -72,7 +72,7 @@ This guide covers the **top B.Tech colleges in Ahmedabad and Gujarat for 2026** 
 | IIT Gandhinagar | Gandhinagar | ₹2.5 L/yr | ₹16–22 LPA | JEE Advanced |
 | DAIICT Gandhinagar | Gandhinagar | ₹2.2 L/yr | ₹10–18 LPA | DAIICT Entrance |
 | PDEU Gandhinagar | Gandhinagar | ₹1.8 L/yr | ₹7–12 LPA | ACPC / JEE Main |
-| [Nirma University](/colleges/nirma-institute-of-management) | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
+| [Nirma University](/colleges/nirma-institute-of-management/) | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
 | SVNIT Surat | Surat | ₹1.5 L/yr | ₹6–10 LPA | JEE Main |
 | LD Engineering College | Ahmedabad | ₹0.55 L/yr | ₹5–8 LPA | ACPC |
 | VGEC Ahmedabad | Ahmedabad | ₹0.60 L/yr | ₹5–8 LPA | ACPC |
@@ -114,7 +114,7 @@ A Gujarat state-funded university specialising in energy and petroleum engineeri
 
 ## Tier 2 — Top Private Colleges in Ahmedabad
 
-### 4. [Nirma University](/colleges/nirma-institute-of-management), Ahmedabad
+### 4. [Nirma University](/colleges/nirma-institute-of-management/), Ahmedabad
 One of Gujarat's premium private universities with excellent placement records in CSE, Chemical, and Mechanical Engineering.
 
 - **Courses:** CSE, ECE, Chemical, Mechanical, Civil, Biotechnology
@@ -165,22 +165,22 @@ DAIICT is a private autonomous institute funded by the Reliance/Ambani trust. It
 **Q4. Can I get B.Tech in Ahmedabad without JEE Main?**
 Yes. DAIICT has its own entrance test. Private colleges like Silver Oak, Parul, and GLS offer direct admission based on Class 12 marks without requiring JEE.
 
-**Q5. What is the fee for B.Tech at [Nirma University](/colleges/nirma-institute-of-management) Ahmedabad?**
-[Nirma University](/colleges/nirma-institute-of-management) charges approximately ₹2.5 Lakhs per year for engineering programmes. Total programme cost is approximately ₹10–11 Lakhs.
+**Q5. What is the fee for B.Tech at [Nirma University](/colleges/nirma-institute-of-management/) Ahmedabad?**
+[Nirma University](/colleges/nirma-institute-of-management/) charges approximately ₹2.5 Lakhs per year for engineering programmes. Total programme cost is approximately ₹10–11 Lakhs.
 
 ---
 
 ## Useful Resources
 
-- [DAIICT Gandhinagar B.Tech Admission 2026](/blog/daiict-gandhinagar-btech-admission-2026-fees-cutoff-review)
-- [PDEU Gandhinagar B.Tech Admission 2026](/blog/pdeu-gandhinagar-btech-admission-2026-fees-cutoff-review)
-- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [DAIICT Gandhinagar B.Tech Admission 2026](/blog/daiict-gandhinagar-btech-admission-2026-fees-cutoff-review/)
+- [PDEU Gandhinagar B.Tech Admission 2026](/blog/pdeu-gandhinagar-btech-admission-2026-fees-cutoff-review/)
+- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Want expert help choosing the right Ahmedabad B.Tech college? Get a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Want expert help choosing the right Ahmedabad B.Tech college? Get a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -188,6 +188,6 @@ Yes. DAIICT has its own entrance test. Private colleges like Silver Oak, Parul, 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -35,7 +35,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Looking for government jobs without a written exam? Discover the top direct recruitment and merit-based govt j...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 While the word "Sarkari Naukri" often brings to mind the grueling preparation for UPSC or SSC exams, there is a hidden category of prestigious roles that do not require any written examination. These **Direct Recruitment** positions rely on your academic marks, physical efficiency, or specialized talents.
 
@@ -82,20 +82,20 @@ Certain state government departments prioritize physical fitness over theoretica
 Since there is no exam, your **Document Verification** is the most critical stage.
 1.  **Keep Records Ready**: Original marksheets for 10th, 12th, and Graduation are mandatory.
 2.  **Caste/Category Certificates**: Ensure your EWS/OBC/SC/ST certificates are current and in the central/state format.
-3.  **Regional Languages**: Many merit-based state jobs require proficiency in the local language. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2027-29) to expand your options.
+3.  **Regional Languages**: Many merit-based state jobs require proficiency in the local language. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2027-29/) to expand your options.
 
 ---
 
 ### **Explore More Career Paths:**
-*   [Full Exam Calendar: Upcoming Govt Jobs 2026-27](/blog/upcoming-govt-jobs-india-2026-calendar)
-*   [How to Start Freelancing in 2026 as a Secondary Income](/blog/how-to-start-freelancing-2026-beginners-india)
-*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29)
+*   [Full Exam Calendar: Upcoming Govt Jobs 2026-27](/blog/upcoming-govt-jobs-india-2026-calendar/)
+*   [How to Start Freelancing in 2026 as a Secondary Income](/blog/how-to-start-freelancing-2026-beginners-india/)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29/)
 
 **Need Admission or Career Guidance?**
 If you have high marks but aren't sure which department's merit list you can top, our counselors can help you analyze your scores against previous cut-offs.
 
-[👉 Get Expert Career Counseling Today!](/inquiry)
+[👉 Get Expert Career Counseling Today!](/inquiry/)
 
 ---
 
@@ -117,6 +117,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

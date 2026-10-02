@@ -94,12 +94,12 @@ Recruiters are no longer looking for students who just know theory. You need to 
 Securing a seat in a top college significantly impacts your starting package and alumni network.
 
 1.  **Shahed Sukhdev College of Business Studies (SSCBS), Delhi:** The gold standard for BBA/BMS in India for its high ROI and placement records.
-2.  **[IIM Indore](/colleges/iim-indore)/Rohtak (IPM):** The Five-Year Integrated Program in Management allows students to secure an MBA degree right after class 12th from an IIM.
+2.  **[IIM Indore](/colleges/iim-indore/)/Rohtak (IPM):** The Five-Year Integrated Program in Management allows students to secure an MBA degree right after class 12th from an IIM.
 3.  **NMIMS (ASMSOC), Mumbai:** Known for its rigorous curriculum and urban campus life.
 4.  **Symbiosis (SCMS), Pune:** A great choice for those wanting international exposure and a holistic campus environment.
 5.  **Christ University, Bangalore:** Renowned for discipline and excellent industry ties in South India.
 
-*Read more:* [Top BBA Colleges in Delhi NCR](/blog/top-bba-colleges-delhi-ncr-2026)
+*Read more:* [Top BBA Colleges in Delhi NCR](/blog/top-bba-colleges-delhi-ncr-2026/)
 
 ---
 
@@ -123,12 +123,12 @@ Your salary as a BBA fresher depends heavily on two factors: your **college tier
 If you are certain about a career in management, the **IPM (Integrated Program in Management)** offered by IIMs is the premium choice. However, if you want to explore different career paths or do an MBA later from a different institution (like ISB or a global B-school), a **3-year BBA** is more flexible.
 
 ### Useful Resources:
-*   [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29)
-*   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech)
-*   [Top BBA Colleges in Pune (2026)](/blog/top-bba-colleges-pune-2026)
+*   [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29/)
+*   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech/)
+*   [Top BBA Colleges in Pune (2026)](/blog/top-bba-colleges-pune-2026/)
 
 **Confused about your career path?**
-[👉 Talk to our experts for a personalized Career Roadmap!](/inquiry)
+[👉 Talk to our experts for a personalized Career Roadmap!](/inquiry/)
 
 ---
 
@@ -150,6 +150,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

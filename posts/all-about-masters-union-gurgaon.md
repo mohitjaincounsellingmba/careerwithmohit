@@ -123,7 +123,7 @@ MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning,
 
 **Our Verdict:** Masters' Union is for bold risk-takers. If you want a traditional MBA degree with a massive green campus, look away. But if your goal is to break into elite Product Management, VC, or Consulting roles, and you want to network with actual industry titans, Masters' Union is arguably giving ISB a run for its money.
 
-[👉 Apply to Masters' Union](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to Masters' Union](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 
 
 
@@ -131,7 +131,7 @@ MU-BAAT is an aptitude test that evaluates critical thinking, logical reasoning,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -145,6 +145,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

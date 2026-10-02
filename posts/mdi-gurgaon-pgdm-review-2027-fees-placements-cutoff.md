@@ -71,7 +71,7 @@ state: Delhi NCR
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Management Development Institute (MDI)](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **AACSB, AMBA, SAQS Accredited** accreditations, and distinguished **NIRF Management Rank #11 (Top Tier-1 Private B-School in North India)**, the institute draws thousands of competitive applicants each admissions season.
+When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Management Development Institute (MDI)](/inquiry/)** consistently features as a premier target institution. With its established academic credentials, **AACSB, AMBA, SAQS Accredited** accreditations, and distinguished **NIRF Management Rank #11 (Top Tier-1 Private B-School in North India)**, the institute draws thousands of competitive applicants each admissions season.
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
@@ -172,7 +172,7 @@ The campus at Sukhrali Campus, Sector 17 offers state-of-the-art academic audito
 
 #### ✅ Key Advantages (Pros)
 *   **Strategic location**: Strategic location in Cyber City/Gurgaon corporate corridor ensures daily CXO interactions and top corporate live projects.
-*   **Exceptional HRM**: Exceptional HRM program considered the #2 best HR program in India after [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
+*   **Exceptional HRM**: Exceptional HRM program considered the #2 best HR program in India after [XLRI Jamshedpur](/colleges/xlri-jamshedpur/).
 *   **High peer**: High peer caliber with strict 95–97+ CAT cutoff without reservation quotas in general admissions.
 *   **Lush 37-acre**: Lush 37-acre campus with golf greens, swimming pool, and modern air-conditioned hostels.
 
@@ -190,8 +190,8 @@ To help you assess comparative ROI, here is how Management Development Institute
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Management Development Institute (MDI)** | **₹25.00 – ₹26.50 Lakhs (PGDM Core); ₹30.00 Lakhs (PGDM-IB dual degree)** | **₹25.50 – ₹26.70 LPA** | CAT/GMAT · CAT: 95.0 – 97.0 Percentile (GMAT for NRI/Foreign applicants only) |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |
@@ -201,8 +201,8 @@ To help you assess comparative ROI, here is how Management Development Institute
 
 ## 7. Frequently Asked Questions (FAQ)
 
-### 1. What is the CAT cutoff for [MDI Gurgaon](/colleges/mdi-gurgaon) PGDM?
-The CAT cutoff for general PGDM at [MDI Gurgaon](/colleges/mdi-gurgaon) typically hovers between 95.0 and 97.0 percentile, along with sectional cutoffs around 85 percentile in VARC, DILR, and QA.
+### 1. What is the CAT cutoff for [MDI Gurgaon](/colleges/mdi-gurgaon/) PGDM?
+The CAT cutoff for general PGDM at [MDI Gurgaon](/colleges/mdi-gurgaon/) typically hovers between 95.0 and 97.0 percentile, along with sectional cutoffs around 85 percentile in VARC, DILR, and QA.
 
 ### 2. What is the difference between MDI PGDM Core and PGDM-IB?
 PGDM Core is a 2-year program entirely hosted at the Gurgaon campus, while PGDM-IB (International Business) involves dual-degree collaboration where students spend one academic term at ESCP Europe (Paris/Berlin/Madrid/London) and earn both an MDI PGDM and an ESCP Master in Management.
@@ -211,7 +211,7 @@ PGDM Core is a 2-year program entirely hosted at the Gurgaon campus, while PGDM-
 The combined average package at MDI Gurgaon stands at ₹25.50 to ₹26.70 LPA, with the median salary at ₹24.20 LPA and the top domestic package reaching ₹63.50 LPA.
 
 ### 4. Is MDI Gurgaon considered equivalent to older IIMs?
-Yes, MDI Gurgaon consistently ranks alongside [IIM Indore](/colleges/iim-indore), IIM Kozhikode, and SPJIMR in placement quality, recruiter trust, and corporate alumni footprint.
+Yes, MDI Gurgaon consistently ranks alongside [IIM Indore](/colleges/iim-indore/), IIM Kozhikode, and SPJIMR in placement quality, recruiter trust, and corporate alumni footprint.
 
 
 ---
@@ -220,13 +220,13 @@ Yes, MDI Gurgaon consistently ranks alongside [IIM Indore](/colleges/iim-indore)
 
 **Final Verdict**: For aspirants targeting top-tier management education with guaranteed corporate recognition, high faculty standards, and reliable placement trajectories, **Management Development Institute (MDI)** stands as an outstanding investment. If your entrance test scores and profile align with the expected cutoffs, submitting an early application will significantly maximize your interview shortlisting prospects.
 
-[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests)
+[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry/) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests/)
 
 ---
 
 ### 🚀 Recommended Internal Guides & Reviews
-*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29)
-*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff)
-*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff)
-*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff)
-*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29/)
+*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff/)
+*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff/)
+*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff/)
+*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)

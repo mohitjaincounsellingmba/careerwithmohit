@@ -119,16 +119,16 @@ Usually held on the **first Sunday of May**. Registrations typically open in Jan
 ---
 
 ### Useful Links:
-- [NEET 2026 Prep Strategy & Syllabus](/blog/neet-2026-exam-strategy-guide)
-- [How to Choose Between MBBS and BAMS](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
-- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026)
+- [NEET 2026 Prep Strategy & Syllabus](/blog/neet-2026-exam-strategy-guide/)
+- [How to Choose Between MBBS and BAMS](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026/)
 
 ---
 
 **Becoming a Doctor is a Marathon, Not a Sprint.**
 Don't pick a college just because it's near your house. A medical degree is about clinical exposure. Mohit Jain provides a "National Medical Audit"—helping you pick the college that ensures you become a specialist, not just a graduate.
 
-[👉 Book My National Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My National Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -136,6 +136,6 @@ Don't pick a college just because it's near your house. A medical degree is abou
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

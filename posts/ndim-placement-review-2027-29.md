@@ -48,7 +48,7 @@ category: Exams
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹17.50 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.
+[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.
 
 ### 📊 NDIM Delhi 2025 Placement Snapshot
 
@@ -71,11 +71,11 @@ category: Exams
 *   **Location Advantage**: Being located in the heart of Delhi, students have year-round access to live projects and internships in the NCR region.
 
 ### **Explore More Placement Reviews:**
-*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2027-29)
-*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide)
-*   [Direct Admission in IMT Ghaziabad Guide](/blog/direct-admission-imt-ghaziabad-institutional-quota-2027-29)
+*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2027-29/)
+*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide/)
+*   [Direct Admission in IMT Ghaziabad Guide](/blog/direct-admission-imt-ghaziabad-institutional-quota-2027-29/)
 
-[👉 Get Expert Guidance for NDIM Delhi Admissions!](/inquiry)
+[👉 Get Expert Guidance for NDIM Delhi Admissions!](/inquiry/)
 
 ---
 
@@ -97,7 +97,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -111,6 +111,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

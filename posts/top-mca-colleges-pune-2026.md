@@ -124,16 +124,16 @@ Usually held in **March/April**. Registrations typically open in January/Februar
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [BCA Colleges in Pune 2026](/blog/top-bca-colleges-pune-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [BCA Colleges in Pune 2026](/blog/top-bca-colleges-pune-2027-29/)
 
 ---
 
 **Ready to start your code journey in the Oxford of the East?**
 Pune is the city of logic. Don't waste your years at a college with no recruiter ties. Mohit Jain provides a "Pune IT Career Roadmap"—ensuring you pick the college that puts you in the interview room of TCS, Infosys, and NVIDIA.
 
-[👉 Book My Pune MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Pune MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -141,6 +141,6 @@ Pune is the city of logic. Don't waste your years at a college with no recruiter
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

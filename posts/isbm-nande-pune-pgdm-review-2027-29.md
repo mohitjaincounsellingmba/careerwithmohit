@@ -38,7 +38,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-The **[International School of Business & Media](/colleges/international-school-of-business-media) (ISB&M) Nande, Pune** is a premier B-School known for its "lifestyle-based" learning model, strong corporate connectivity, and impressive placements. Established with a vision to create dynamic corporate leaders, ISB&M Pune has consistently ranked among the top private PGDM colleges in India.
+The **[International School of Business & Media](/colleges/international-school-of-business-media/) (ISB&M) Nande, Pune** is a premier B-School known for its "lifestyle-based" learning model, strong corporate connectivity, and impressive placements. Established with a vision to create dynamic corporate leaders, ISB&M Pune has consistently ranked among the top private PGDM colleges in India.
 
 In this comprehensive review, we cover the ISB&M Nande PGDM fee structure, 2027–29 admission process, exam cutoffs, and placement records.
 
@@ -113,16 +113,16 @@ The placements at ISB&M Nande are exceptionally strong for Marketing, Finance, a
 
 For MBA aspirants looking for a modernized, freedom-oriented education with strong salary outcomes, excellent industry exposure, and a vibrant campus life, ISB&M Nande Pune is an outstanding choice for 2027–29.
 
-[👉 Check your chances of getting into ISB&M Nande Pune! Use our free MBA College Predictor.](/blog/cuet-pg-predictor-2026-mba-colleges)
+[👉 Check your chances of getting into ISB&M Nande Pune! Use our free MBA College Predictor.](/blog/cuet-pg-predictor-2026-mba-colleges/)
 
-Want alternatives? Read our guide on the [Best MBA Colleges in Pune 2027–29](/blog/1-year-online-mba-colleges-india-2027-29).
+Want alternatives? Read our guide on the [Best MBA Colleges in Pune 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/).
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -137,7 +137,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -151,6 +151,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

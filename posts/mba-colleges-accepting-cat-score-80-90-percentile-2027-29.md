@@ -53,7 +53,7 @@ faqs:
 state: Delhi NCR
 ---
 
-Scoring between **80 and 90 percentile in CAT 2026** is a commendable achievement that puts you ahead of nearly 2.5 lakh candidates. While it may narrowly miss the 99+ cutoff required for Old IIMs (BLACKI) and [FMS Delhi](/colleges/fms-delhi), this bracket opens doors to **India's top Tier-2 and elite private business schools**.
+Scoring between **80 and 90 percentile in CAT 2026** is a commendable achievement that puts you ahead of nearly 2.5 lakh candidates. While it may narrowly miss the 99+ cutoff required for Old IIMs (BLACKI) and [FMS Delhi](/colleges/fms-delhi/), this bracket opens doors to **India's top Tier-2 and elite private business schools**.
 
 These institutions provide state-of-the-art infrastructure, stellar faculty, strong corporate networks, and **average placement packages between ₹12 LPA and ₹17 LPA**, delivering excellent return on investment (ROI).
 
@@ -65,17 +65,17 @@ Here is the definitive guide curated by **Mohit Jain** on the **Top MBA Colleges
 
 | College Name | Location | CAT Cutoff | Total Program Fees | Average Placement (2025 Audited) | Highest Placement |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.80 LPA | ₹30.00 LPA |
-| **[LBSIM Delhi](/colleges/lbsim-delhi)** | New Delhi | 83 – 86 %ile | ₹16.50 Lakhs | ₹13.80 LPA | ₹24.75 LPA |
-| **[Goa Institute of Management (GIM)](/colleges)** | Goa | 85 – 88 %ile | ₹19.50 Lakhs | ₹15.20 LPA | ₹55.00 LPA |
-| **[TAPMI Manipal](/colleges/tapmi-bangalore)** | Manipal, Karnataka | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.60 LPA | ₹32.00 LPA |
-| **[Great Lakes Institute of Management](/blog/all-about-great-lakes-campuses)** | Chennai / Gurgaon | 80 – 85 %ile | ₹19.80 Lakhs | ₹15.10 LPA | ₹34.00 LPA |
-| **[BIMTECH](/colleges/bimtech-greater-noida)** | Greater Noida, NCR | 80 – 85 %ile | ₹15.00 Lakhs | ₹11.80 LPA | ₹24.40 LPA |
-| **[KJ Somaiya Institute of Management](/colleges/kj-somaiya-mumbai)** | Mumbai | 84 – 87 %ile | ₹20.50 Lakhs | ₹13.40 LPA | ₹28.25 LPA |
-| **[IRMA](/colleges/institute-of-rural-management)** | Anand, Gujarat | 80 – 85 %ile | ₹17.00 Lakhs | ₹14.14 LPA | ₹31.16 LPA |
-| **[LIBA](/blog/all-about-loyola-college-chennai-bba-admission-2026)** | Chennai | 80 – 82 %ile | ₹17.50 Lakhs | ₹11.50 LPA | ₹20.50 LPA |
-| **[IMI Kolkata](/colleges/imi-kolkata) / [Bhubaneswar](/blog/all-about-kiit-school-of-management-bhubaneswar-bba-admission-2026)** | Kolkata / Odisha | 80 – 83 %ile | ₹14.50 Lakhs | ₹12.20 LPA | ₹22.00 LPA |
-| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** | Pune | 80 – 83 %ile | ₹16.00 Lakhs | ₹15.22 LPA | ₹23.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | New Delhi | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.80 LPA | ₹30.00 LPA |
+| **[LBSIM Delhi](/colleges/lbsim-delhi/)** | New Delhi | 83 – 86 %ile | ₹16.50 Lakhs | ₹13.80 LPA | ₹24.75 LPA |
+| **[Goa Institute of Management (GIM)](/colleges/)** | Goa | 85 – 88 %ile | ₹19.50 Lakhs | ₹15.20 LPA | ₹55.00 LPA |
+| **[TAPMI Manipal](/colleges/tapmi-bangalore/)** | Manipal, Karnataka | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.60 LPA | ₹32.00 LPA |
+| **[Great Lakes Institute of Management](/blog/all-about-great-lakes-campuses/)** | Chennai / Gurgaon | 80 – 85 %ile | ₹19.80 Lakhs | ₹15.10 LPA | ₹34.00 LPA |
+| **[BIMTECH](/colleges/bimtech-greater-noida/)** | Greater Noida, NCR | 80 – 85 %ile | ₹15.00 Lakhs | ₹11.80 LPA | ₹24.40 LPA |
+| **[KJ Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/)** | Mumbai | 84 – 87 %ile | ₹20.50 Lakhs | ₹13.40 LPA | ₹28.25 LPA |
+| **[IRMA](/colleges/institute-of-rural-management/)** | Anand, Gujarat | 80 – 85 %ile | ₹17.00 Lakhs | ₹14.14 LPA | ₹31.16 LPA |
+| **[LIBA](/blog/all-about-loyola-college-chennai-bba-admission-2026/)** | Chennai | 80 – 82 %ile | ₹17.50 Lakhs | ₹11.50 LPA | ₹20.50 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata/) / [Bhubaneswar](/blog/all-about-kiit-school-of-management-bhubaneswar-bba-admission-2026/)** | Kolkata / Odisha | 80 – 83 %ile | ₹14.50 Lakhs | ₹12.20 LPA | ₹22.00 LPA |
+| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** | Pune | 80 – 83 %ile | ₹16.00 Lakhs | ₹15.22 LPA | ₹23.50 LPA |
 
 ---
 
@@ -85,7 +85,7 @@ Here is the definitive guide curated by **Mohit Jain** on the **Top MBA Colleges
 
 ## 🏛️ In-Depth Review: Premier 80-90 Percentile B-Schools
 
-### 1. [FORE School of Management](/colleges/fore-school-delhi), New Delhi
+### 1. [FORE School of Management](/colleges/fore-school-delhi/), New Delhi
 Located in the heart of South Delhi (Qutub Institutional Area), FORE is renowned for its **International Business (IB), Marketing, and Financial Management** programs.
 *   **Why Choose FORE:** Unbeatable industry connect in Delhi NCR, distinguished core faculty, and consistent placement in BFSI and Consulting (Deloitte, EY, KPMG, PwC).
 *   **Target CAT Cutoff:** 85+ Percentile.
@@ -110,7 +110,7 @@ Founded by management guru Dr. Bala V. Balachandran, Great Lakes offers both a 1
 *   **Why Choose GLIM:** Unmatched reputation in IT/ITES, Analytics, Product Management, and Operations.
 *   **Target CAT Cutoff:** 80–85 Percentile.
 
-### 6. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) (Delhi NCR)
+### 6. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/) (Delhi NCR)
 Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB international accreditation and a 35-year legacy.
 *   **Why Choose BIMTECH:** Flagship PGDM alongside specialized PGDM in **Insurance Business Management (IBM)** and **Retail Management**.
 *   **Target CAT Cutoff:** 80–85 Percentile (General PGDM), 70–75 Percentile (Specialized programs).
@@ -133,7 +133,7 @@ Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB 
    • BIMTECH, KJ Somaiya    • Great Lakes Early Round   • NC-OBC / SC / ST
 ```
 
-1.  **Baby IIMs via Common Admission Process (CAP):** If you belong to NC-OBC (80-85 %ile), EWS (85-90 %ile), or SC/ST (70-75 %ile) categories, an 80-90 percentile is often sufficient to secure admission calls from [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Jammu](/colleges/iim-jammu), [IIM Sambalpur](/colleges/iim-sambalpur), and [IIM Sirmaur](/colleges/iim-sirmaur).
+1.  **Baby IIMs via Common Admission Process (CAP):** If you belong to NC-OBC (80-85 %ile), EWS (85-90 %ile), or SC/ST (70-75 %ile) categories, an 80-90 percentile is often sufficient to secure admission calls from [IIM Bodh Gaya](/colleges/iim-bodh-gaya/), [IIM Jammu](/colleges/iim-jammu/), [IIM Sambalpur](/colleges/iim-sambalpur/), and [IIM Sirmaur](/colleges/iim-sirmaur/).
 2.  **Achiever's Rounds:** Colleges like GIM and Great Lakes conduct interview rounds even before CAT scores are finalized for applicants with stellar academic records (80%+ across 10th, 12th, and undergrad) or national-level extracurricular accomplishments.
 
 ---
@@ -147,23 +147,23 @@ Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB 
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges Accepting CAT Score 70-80 Percentile](/blog/mba-colleges-accepting-cat-score-70-80-percentile-2027-29)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges Accepting CAT Score 70-80 Percentile](/blog/mba-colleges-accepting-cat-score-70-80-percentile-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the best MBA colleges accepting 80-90 percentile in CAT?
-Top choices include [FORE School of Management](/colleges/fore-school-delhi) (New Delhi), LBSIM (Delhi), GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand).
+Top choices include [FORE School of Management](/colleges/fore-school-delhi/) (New Delhi), LBSIM (Delhi), GIM (Goa), TAPMI (Manipal), Great Lakes (Chennai/Gurgaon), BIMTECH (Greater Noida), KJ Somaiya (Mumbai), and IRMA (Anand).
 
 ### What is the average placement salary for colleges in the 80-90 percentile bracket?
 Colleges in this tier typically offer average placement packages ranging between INR 12.50 LPA and INR 16.50 LPA, with top 25% students securing INR 18 to 24 LPA.
 
 ### Can I get an IIM call with an 85 percentile in CAT?
-General category non-engineers with exceptional academic records or candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive interview calls from Baby IIMs (like [IIM Bodh Gaya](/colleges/iim-bodh-gaya), Jammu, Sirmaur) via CAP.
+General category non-engineers with exceptional academic records or candidates from reserved categories (NC-OBC, SC, ST, PwD) can receive interview calls from Baby IIMs (like [IIM Bodh Gaya](/colleges/iim-bodh-gaya/), Jammu, Sirmaur) via CAP.
 
 ### Do these 80-90 percentile colleges accept other entrance exams?
 Yes, institutes like GIM, Great Lakes, FORE, LBSIM, and TAPMI also accept XAT, CMAT, and GMAT scores.
@@ -175,6 +175,6 @@ Yes, B-schools like GIM (Goa Achiever's Round) and SPJIMR offer profile-based in
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -39,7 +39,7 @@ state: Delhi NCR
 
 ---
 
-The **Common Admission Test (CAT 2026)** is the premier gateway for admission to 21 Indian Institutes of Management (IIMs) and over 1,200 leading business schools such as [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and [IIT Delhi DMS](/colleges/iit-delhi).
+The **Common Admission Test (CAT 2026)** is the premier gateway for admission to 21 Indian Institutes of Management (IIMs) and over 1,200 leading business schools such as [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), and [IIT Delhi DMS](/colleges/iit-delhi/).
 
 Following the conclusion of the registration process, the CAT convening IIM activates the **CAT 2026 Application Form Correction Window**. This limited window is the final opportunity for registered applicants to rectify blurred uploads, improper background photos, illegible signatures, and inconvenient test city choices.
 
@@ -49,7 +49,7 @@ Below is the definitive, expert-verified guide by **Mohit Jain** on the CAT 2026
 
 > 🎯 **Planning your percentile strategy?**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test/) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator/)
 
 ---
 
@@ -183,7 +183,7 @@ If you made an error in a locked field that cannot be edited during the correcti
   * Carry the original affidavit along with your photo ID during the exam and subsequent interview stages.
 
 ### 3. Academic Percentage / CGPA Conversion Errors
-* Non-IIM B-Schools ([FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [IITs](/colleges/iit-delhi), [BIMTECH](/colleges/bimtech-greater-noida)) mandate separate institutional applications.
+* Non-IIM B-Schools ([FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), [IITs](/colleges/iit-delhi/), [BIMTECH](/colleges/bimtech-greater-noida/)) mandate separate institutional applications.
 * When you fill individual application forms for these B-schools, you will enter your academic records afresh. Ensure that you calculate percentages using your university's exact conversion formula.
 
 ---
@@ -194,14 +194,14 @@ While your application details are locked, target your preparation based on the 
 
 | Institution Name | Total Tuition Fee | Average Placement CTC | CAT 2026 Expected Cutoff & Selection Criteria |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Academic Diversity + AWT/PI |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | ₹24.50 Lakhs | ₹35.92 LPA | CAT 99.0+ %ile · High Work Experience Weightage |
-| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85–98 %ile · Profile-cum-Merit Based |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Strong Corporate NCR Industry Linkages |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.25 Lakhs | ₹14.50 LPA | CAT/XAT 85+ %ile · Core Finance & Analytics Strengths |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | ₹14.00 Lakhs | ₹11.25 LPA | CAT/XAT/CMAT 75–80 %ile · Top AICTE & AIU Accredited |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | ₹13.50 Lakhs | ₹11.29 LPA | CAT/MAT/XAT/CMAT 70+ %ile · AACSB Business Member |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Academic Diversity + AWT/PI |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | ₹24.50 Lakhs | ₹35.92 LPA | CAT 99.0+ %ile · High Work Experience Weightage |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85–98 %ile · Profile-cum-Merit Based |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Strong Corporate NCR Industry Linkages |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | ₹18.25 Lakhs | ₹14.50 LPA | CAT/XAT 85+ %ile · Core Finance & Analytics Strengths |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | ₹14.00 Lakhs | ₹11.25 LPA | CAT/XAT/CMAT 75–80 %ile · Top AICTE & AIU Accredited |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** | ₹13.50 Lakhs | ₹11.29 LPA | CAT/MAT/XAT/CMAT 70+ %ile · AACSB Business Member |
 
 ---
 
@@ -249,18 +249,18 @@ The photograph must be a recent color picture with a white background (30mm x 45
 ---
 
 ### Related Articles & Useful Resources
-* [CAT Exam 2026 Last Date of Registration: Timeline & Fees](/blog/cat-exam-2026-last-date-of-registration)
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-* [Free CAT 2026 Full-Length Online Mock Test](/tools/cat-mock-test)
-* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry)
+* [CAT Exam 2026 Last Date of Registration: Timeline & Fees](/blog/cat-exam-2026-last-date-of-registration/)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam/)
+* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+* [Free CAT 2026 Full-Length Online Mock Test](/tools/cat-mock-test/)
+* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

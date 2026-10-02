@@ -53,17 +53,17 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **NMAT by GMAC 2026-27** stands out as one of the most candidate-friendly yet strategically nuanced MBA entrance examinations in India. Unlike exams like CAT or XAT, NMAT provides candidates with a testing window of up to **three attempts** (one main exam and two retakes). However, when your primary target is the prestigious **School of Business Management at [NMIMS Mumbai](/colleges/nmims-mumbai)**, this multi-attempt feature comes with a critical caveat that many aspirants overlook to their detriment.
+The **NMAT by GMAC 2026-27** stands out as one of the most candidate-friendly yet strategically nuanced MBA entrance examinations in India. Unlike exams like CAT or XAT, NMAT provides candidates with a testing window of up to **three attempts** (one main exam and two retakes). However, when your primary target is the prestigious **School of Business Management at [NMIMS Mumbai](/colleges/nmims-mumbai/)**, this multi-attempt feature comes with a critical caveat that many aspirants overlook to their detriment.
 
-[NMIMS Mumbai](/colleges/nmims-mumbai) strictly accepts **ONLY your FIRST attempt score** for its flagship MBA programs. 
+[NMIMS Mumbai](/colleges/nmims-mumbai/) strictly accepts **ONLY your FIRST attempt score** for its flagship MBA programs. 
 
-This single policy rule fundamentally changes how you must approach your NMAT 2026-27 attempt strategy. You cannot afford to treat Attempt 1 as a "trial run." In this comprehensive guide, we unpack GMAC's computer-adaptive scoring algorithm, calculate exact time management limits per question, outline target sectional cutoffs for [NMIMS Mumbai](/colleges/nmims-mumbai), and build an airtight blueprint across all 3 retake slots.
+This single policy rule fundamentally changes how you must approach your NMAT 2026-27 attempt strategy. You cannot afford to treat Attempt 1 as a "trial run." In this comprehensive guide, we unpack GMAC's computer-adaptive scoring algorithm, calculate exact time management limits per question, outline target sectional cutoffs for [NMIMS Mumbai](/colleges/nmims-mumbai/), and build an airtight blueprint across all 3 retake slots.
 
 ---
 
 ## The Critical NMIMS Rule: Why Attempt 1 Is Non-Negotiable
 
-Before diving into preparation schedules or timing drills, every aspirant targeting [NMIMS Mumbai](/colleges/nmims-mumbai) or its off-campuses ([NMIMS Bangalore](/colleges/nmims-bangalore), Navi Mumbai, Hyderabad, Indore, and Chandigarh) must understand the official admission mandate:
+Before diving into preparation schedules or timing drills, every aspirant targeting [NMIMS Mumbai](/colleges/nmims-mumbai/) or its off-campuses ([NMIMS Bangalore](/colleges/nmims-bangalore/), Navi Mumbai, Hyderabad, Indore, and Chandigarh) must understand the official admission mandate:
 
 > **NMIMS Policy:** Only the score of the **first valid attempt** of NMAT by GMAC will be considered for shortlisting candidates for the Stage 2 selection process (CD/PI). Scores from NMAT retakes (Attempt 2 and Attempt 3) are completely disregarded by NMIMS.
 
@@ -76,7 +76,7 @@ While NMIMS enforces the first-attempt restriction, GMAC allows up to 3 attempts
 - **Great Lakes Institute of Management (GLIM), Chennai & Gurgaon**
 
 Therefore, your overarching exam strategy must be split into two clear mandates:
-1. **Attempt 1 (October / Early November):** Execute a 100% target strike aimed specifically at securing admission to [NMIMS Mumbai](/colleges/nmims-mumbai).
+1. **Attempt 1 (October / Early November):** Execute a 100% target strike aimed specifically at securing admission to [NMIMS Mumbai](/colleges/nmims-mumbai/).
 2. **Attempts 2 & 3 (November / December):** Utilize as strategic safety nets to boost scores for top non-NMIMS B-schools if Attempt 1 falls short.
 
 ---
@@ -177,9 +177,9 @@ Option B (Speed-Build Starter):  [Language Skills] ➔ [Logical Reasoning] ➔ [
 
 ---
 
-## [NMIMS Mumbai](/colleges/nmims-mumbai) Score Targets & Cutoff Breakdown (2026-27)
+## [NMIMS Mumbai](/colleges/nmims-mumbai/) Score Targets & Cutoff Breakdown (2026-27)
 
-To secure a call for the Stage 2 CD/PI round at [NMIMS Mumbai](/colleges/nmims-mumbai), candidates must clear both **overall scaled score cutoffs** and **individual sectional cutoffs**.
+To secure a call for the Stage 2 CD/PI round at [NMIMS Mumbai](/colleges/nmims-mumbai/), candidates must clear both **overall scaled score cutoffs** and **individual sectional cutoffs**.
 
 Here are the expected cutoff benchmarks based on historical NMAT scoring trends:
 
@@ -187,10 +187,10 @@ Here are the expected cutoff benchmarks based on historical NMAT scoring trends:
 
 | Campus / Program | Expected Overall Cutoff Score | Language Cutoff | Quant Cutoff | LR Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (Flagship MBA Core)** | **235 – 245+** | **76 – 80+** | **74 – 78+** | **75 – 78+** |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (Flagship MBA Core)** | **235 – 245+** | **76 – 80+** | **74 – 78+** | **75 – 78+** |
 | **NMIMS Mumbai (MBA HR)** | **232 – 240+** | **75 – 78+** | **72 – 75+** | **74 – 76+** |
 | **NMIMS Mumbai (MBA Business Analytics / Digital Innovation)** | **228 – 235+** | **72 – 75+** | **72 – 75+** | **72 – 74+** |
-| **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai** | **220 – 228+** | **70 – 72+** | **70 – 72+** | **70 – 72+** |
+| **[NMIMS Bangalore](/colleges/nmims-bangalore/) / Navi Mumbai** | **220 – 228+** | **70 – 72+** | **70 – 72+** | **70 – 72+** |
 | **NMIMS Hyderabad / Indore / Chandigarh** | **200 – 215+** | **65 – 68+** | **65 – 68+** | **65 – 68+** |
 
 *Note: Scaled scores range from 36 to 360. Sectional scaled scores range from 12 to 120 per section.*
@@ -226,7 +226,7 @@ NMIMS Focus           Analyze Diagnostic       Backup B-Schools         Final Sc
 ```
 
 ### Phase 1: Attempt 1 (Late October / Early November) — The NMIMS Strike
-- **Primary Objective:** Score **240+ overall** with balanced sectional scores to lock in [NMIMS Mumbai](/colleges/nmims-mumbai).
+- **Primary Objective:** Score **240+ overall** with balanced sectional scores to lock in [NMIMS Mumbai](/colleges/nmims-mumbai/).
 - **Preparation Timeline:** Finish your syllabus by late September. Take 15–20 full-length NMAT adaptive mocks during October.
 - **Testing Strategy:** Schedule Attempt 1 in the first 2-3 weeks of the testing window. This ensures you are at peak preparation right after your CAT exam prep block.
 
@@ -275,14 +275,14 @@ Leaving questions unattempted carries a heavy penalty in GMAC's adaptive scaling
 
 ## Final Thoughts for NMAT 2026-27 Aspirants
 
-Succeeding in NMAT requires combining speed, accuracy, and smart attempt strategy. Focus your preparation on hitting your peak score in **Attempt 1** to secure your seat at [NMIMS Mumbai](/colleges/nmims-mumbai), while keeping Attempts 2 and 3 ready as strategic backups for top-tier B-schools across India.
+Succeeding in NMAT requires combining speed, accuracy, and smart attempt strategy. Focus your preparation on hitting your peak score in **Attempt 1** to secure your seat at [NMIMS Mumbai](/colleges/nmims-mumbai/), while keeping Attempts 2 and 3 ready as strategic backups for top-tier B-schools across India.
 
-For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2027–29](/blog/all-about-nmat-exam), [NMIMS Campuses Review](/blog/all-about-nmims-campuses), and [CAT Exam Preparation Strategy](/blog/all-about-cat-exam).
+For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2027–29](/blog/all-about-nmat-exam/), [NMIMS Campuses Review](/blog/all-about-nmims-campuses/), and [CAT Exam Preparation Strategy](/blog/all-about-cat-exam/).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

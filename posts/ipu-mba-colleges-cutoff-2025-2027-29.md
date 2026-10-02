@@ -127,14 +127,14 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 ## Useful Resources
 
-- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu)
-- [All About CAT Exam 2026](/blog/all-about-cat-exam)
-- [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
-- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
+- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu/)
+- [All About CAT Exam 2026](/blog/all-about-cat-exam/)
+- [All About CMAT Exam 2026](/blog/all-about-cmat-exam/)
+- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 
 ---
 
-**[👉 Unsure if you can clear the IPU MBA cutoff with your score? Get a FREE analysis and admission plan with Mohit!](/inquiry)**
+**[👉 Unsure if you can clear the IPU MBA cutoff with your score? Get a FREE analysis and admission plan with Mohit!](/inquiry/)**
 
 
 
@@ -142,6 +142,6 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

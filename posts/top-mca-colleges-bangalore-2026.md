@@ -53,7 +53,7 @@ For an MCA student, being in Bangalore means you are just a 20-minute drive away
 |---|---|---|---|
 | **RV College of Engg (RVCE)** | PGCET / KMAT | ₹2.5 - 3.5 Lakhs | ₹8.5 - 12.0 LPA |
 | **BMS College of Engg (BMSCE)**| PGCET / KMAT | ₹2.2 - 3.2 Lakhs | ₹7.5 - 10.5 LPA |
-| **[PES University](/colleges/pesu-bangalore)** | PESSAT / PGCET| ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
+| **[PES University](/colleges/pesu-bangalore/)** | PESSAT / PGCET| ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
 | **M S Ramaiah (MSRIT)** | PGCET / KMAT | ₹2.4 - 3.4 Lakhs | ₹6.5 - 9.5 LPA |
 | **Christ University** | CUET | ₹3.5 - 4.5 Lakhs | ₹5.5 - 8.5 LPA |
 | **Dayananda Sagar (DSCE)** | PGCET / KMAT | ₹2.2 - 3.0 Lakhs | ₹5.0 - 8.0 LPA |
@@ -63,15 +63,15 @@ For an MCA student, being in Bangalore means you are just a 20-minute drive away
 
 ## 🏛️ Tier 1: The Bangalore "Holy Trinity"
 
-### 1. [RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore)
+### 1. [RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore/)
 Arguably the best non-NIT college for MCA in India. RVCE’s MCA department has a massive reputation for product-based company placements.
 - **Top Recruiters:** Amazon, CISCO, Atlassian, Adobe.
 - **Admission Strategy:** 100% focus on **Karnataka PGCET** (for Karnataka students) or **KMAT** (for management seats).
 
-### 2. [BMS College of Engineering (BMSCE)](/colleges/bms-college-of-engineering-bangalore)
+### 2. [BMS College of Engineering (BMSCE)](/colleges/bms-college-of-engineering-bangalore/)
 Located in Bull Temple Road, BMSCE is a brand name that recruiters trust. Their MCA program is very practical, with strong ties to Bangalore's startup hubs (Indiranagar/Koramangala).
 
-### 3. [PES University](/colleges/pesu-bangalore) (Ring Road Campus)
+### 3. [PES University](/colleges/pesu-bangalore/) (Ring Road Campus)
 Known for its high-intensity curriculum and incredible technical infrastructure.
 - **USP:** Their placement cell works across all campuses, bringing in over 400+ tech companies annually.
 
@@ -90,8 +90,8 @@ For an MCA student, Bangalore offers more than just a degree:
 
 If you miss the PGCET deadlines, several top-tier private universities offer merit-based direct entry:
 - **Alliance University:** Premium labs and global exposure.
-- **[Presidency University](/colleges/presidency-university):** Good technical pods with affordable private fees.
-- **[Reva University](/colleges/reva-university-bangalore):** One of the fastest-growing private MCA campuses in North Bangalore.
+- **[Presidency University](/colleges/presidency-university/):** Good technical pods with affordable private fees.
+- **[Reva University](/colleges/reva-university-bangalore/):** One of the fastest-growing private MCA campuses in North Bangalore.
 
 ---
 
@@ -115,16 +115,16 @@ Usually held in **July/August**. Registrations typically open in May/June.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026)
-- [MCA vs MBA — Which should you choose?](/blog/mca-vs-mba-career-comparison-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026/)
+- [MCA vs MBA — Which should you choose?](/blog/mca-vs-mba-career-comparison-2027-29/)
 
 ---
 
 **Ready to Code your way into the Silicon Valley?**
 Bangalore is the big league. Don't waste your years at a college with zero placement records. Mohit Jain provides a "Bangalore Tech Roadmap"—ensuring you pick the college that actually transforms you into a Software Architect.
 
-[👉 Book My Bangalore MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Bangalore MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -132,6 +132,6 @@ Bangalore is the big league. Don't waste your years at a college with zero place
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

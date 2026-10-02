@@ -87,7 +87,7 @@ Because the difficulty level is lower, top percentiles require very high raw sco
 
 Nearly 1,000+ AICTE-approved B-Schools accept CMAT. The top tier includes:
 
-- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Great Lakes Institute of Management (GLIM), Chennai
 - GIM (Goa Institute of Management)
@@ -95,11 +95,11 @@ Nearly 1,000+ AICTE-approved B-Schools accept CMAT. The top tier includes:
 - PUMBA (Pune University Department of Management Sciences)
 - NIBM (National Institute of Bank Management), Pune
 - Welingkar Institute of Management (WeSchool), Mumbai/Bangalore
-- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida)), Greater Noida
+- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/)), Greater Noida
 - IFMR Graduate School of Business (Krea University)
 
 ---
-[👉 Want to maximize your CMAT score to guarantee a top college? Book an expert counseling session now!](/inquiry)
+[👉 Want to maximize your CMAT score to guarantee a top college? Book an expert counseling session now!](/inquiry/)
 
 ---
 
@@ -121,7 +121,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -135,6 +135,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

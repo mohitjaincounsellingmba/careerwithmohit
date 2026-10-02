@@ -111,10 +111,10 @@ In finance, your degree helps you get the interview, but your **Portfolio** gets
 ---
 
 ### **Internal Links to Boost Your Finance Career:**
-*   [Financial Modeling & Valuation 2026 — Best Courses & Skills](/blog/financial-modeling-valuation-best-courses-2027-29)
-*   [Investment Banking Career Path & Salary Guide (2026)](/blog/investment-banking-career-path-salary-2027-29)
-*   [CFA Course Guide 2026 — Dates, Syllabus & Fees](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-*   [How to Start a Career in Sports Management (IPL 2026)](/blog/how-to-start-career-in-sports-management-ipl-2027-29)
+*   [Financial Modeling & Valuation 2026 — Best Courses & Skills](/blog/financial-modeling-valuation-best-courses-2027-29/)
+*   [Investment Banking Career Path & Salary Guide (2026)](/blog/investment-banking-career-path-salary-2027-29/)
+*   [CFA Course Guide 2026 — Dates, Syllabus & Fees](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+*   [How to Start a Career in Sports Management (IPL 2026)](/blog/how-to-start-career-in-sports-management-ipl-2027-29/)
 
 ---
 
@@ -126,7 +126,7 @@ Start today. Open a blank spreadsheet, type "Revenue," and begin your journey to
 **Struggling with Excel Logic or Valuation?** 
 Mohit Jain provides personalized **Financial Modelling Mentorship** for MBA students and working professionals. We help you build "Deal-Ready" models and polish your interview case studies.
 
-[👉 Get Your Personalized Finance Roadmap](/inquiry) | [💬 Chat on WhatsApp](/inquiry)
+[👉 Get Your Personalized Finance Roadmap](/inquiry/) | [💬 Chat on WhatsApp](/inquiry/)
 
 ---
 
@@ -148,6 +148,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

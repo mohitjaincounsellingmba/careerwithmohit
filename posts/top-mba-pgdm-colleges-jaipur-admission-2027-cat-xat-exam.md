@@ -42,7 +42,7 @@ category: Exams
 # Top MBA/PGDM Colleges in Jaipur Admission 2027: Fees, Cutoffs, Placements & Scholarships (CAT 2027–29 / XAT Exam)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Ranked Institutions:** [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Jaipur, [IIHMR University](/colleges/iihmr-university), FMS-IRM, [Taxila Business School](/colleges/taxila-jaipur), and [JECRC University](/colleges/jecrc-jaipur).
+> - **Top Ranked Institutions:** [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Jaipur, [IIHMR University](/colleges/iihmr-university/), FMS-IRM, [Taxila Business School](/colleges/taxila-jaipur/), and [JECRC University](/colleges/jecrc-jaipur/).
 > - **Accepted Entrance Exams:** CAT 2026, XAT exam, MAT, CMAT, and ATMA.
 > - **Scholarship Opportunities:** High-performing scorers in CAT/XAT receive fee concessions up to ₹3.0 Lakhs.
 
@@ -55,30 +55,30 @@ category: Exams
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / MAT) |
 | :--- | :--- | :--- | :--- |
 | **Jaipuria Inst. of Management, Jaipur** | ₹12.75 Lakhs | ₹11.29 LPA | CAT 2026 / XAT Exam / CMAT / MAT (65+ %ile) |
-| **[IIHMR University](/colleges/iihmr-university), Jaipur** | ₹10.50 Lakhs | ₹8.80 LPA | Healthcare / Hospital Mgmt Specialist (CAT/MAT/CMAT) |
+| **[IIHMR University](/colleges/iihmr-university/), Jaipur** | ₹10.50 Lakhs | ₹8.80 LPA | Healthcare / Hospital Mgmt Specialist (CAT/MAT/CMAT) |
 | **FMS-IRM Jaipur (Inst. of Rural Mgmt)** | ₹6.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CAT 2026 / ATMA (High ROI) |
-| **[Taxila Business School](/colleges/taxila-jaipur), Jaipur** | ₹9.50 Lakhs | ₹8.50 LPA | CAT 2026 / XAT / CMAT / MAT (SAP Specialization) |
+| **[Taxila Business School](/colleges/taxila-jaipur/), Jaipur** | ₹9.50 Lakhs | ₹8.50 LPA | CAT 2026 / XAT / CMAT / MAT (SAP Specialization) |
 | **JK Lakshmipat University (JKLU)** | ₹8.50 Lakhs | ₹7.20 LPA | CAT 2026 / XAT / MAT / CMAT |
-| **[JECRC University](/colleges/jecrc-jaipur), Jaipur** | ₹4.20 Lakhs | ₹5.50 LPA | Direct Merit / CAT 2026 / MAT |
-| **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)** | ₹9.80 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT |
-| **[Poornima University](/colleges/poornima-jaipur), Jaipur** | ₹3.60 Lakhs | ₹4.80 LPA | Direct Admission / State Merit |
+| **[JECRC University](/colleges/jecrc-jaipur/), Jaipur** | ₹4.20 Lakhs | ₹5.50 LPA | Direct Merit / CAT 2026 / MAT |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur/) (MUJ)** | ₹9.80 Lakhs | ₹7.50 LPA | CAT 2026 / MAT / CMAT / XAT |
+| **[Poornima University](/colleges/poornima-jaipur/), Jaipur** | ₹3.60 Lakhs | ₹4.80 LPA | Direct Admission / State Merit |
 
 ---
 
 ## Detailed College Highlights
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Jaipur
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
-* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-jaipur).
+* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-jaipur/).
 
-### 2. [IIHMR University](/colleges/iihmr-university) Jaipur
-* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/blog/all-about-iihmr-university).
+### 2. [IIHMR University](/colleges/iihmr-university/) Jaipur
+* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/blog/all-about-iihmr-university/).
 
-### 3. FMS-IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management))
-* **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/colleges/fms-irm-jaipur).
+### 3. FMS-IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management/))
+* **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/colleges/fms-irm-jaipur/).
 
-### 4. [Taxila Business School](/colleges/taxila-jaipur)
-* **Focus:** Known for intensive Business Analytics, SAP, and Digital Strategy with personal career coaching. Read [All About Taxila Jaipur](/colleges/taxila-jaipur).
+### 4. [Taxila Business School](/colleges/taxila-jaipur/)
+* **Focus:** Known for intensive Business Analytics, SAP, and Digital Strategy with personal career coaching. Read [All About Taxila Jaipur](/colleges/taxila-jaipur/).
 
 ---
 
@@ -94,14 +94,14 @@ category: Exams
 ---
 
 ## Related Guides
-- [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/blog/top-mba-pgdm-colleges-jaipur-2027-29)
-- [All About CAT Exam](/blog/all-about-cat-exam)
-- [All About XAT Exam](/blog/all-about-xat-exam)
+- [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/blog/top-mba-pgdm-colleges-jaipur-2027-29/)
+- [All About CAT Exam](/blog/all-about-cat-exam/)
+- [All About XAT Exam](/blog/all-about-xat-exam/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

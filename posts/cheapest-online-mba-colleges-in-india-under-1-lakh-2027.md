@@ -53,7 +53,7 @@ state: Delhi NCR
 # Cheapest Online MBA Colleges in India Under ₹1 Lakh (2027): UGC Approved Fees, ROI & Top Universities
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Budget Leaders**: Andhra University Online (₹62,200), Kalinga University (₹80,000), [Galgotias University](/colleges/galgotias-university) (₹90,000), and [Uttaranchal University](/colleges/uttaranchal-university) (₹98,000) offer full 2-year UGC-DEB approved Online MBAs under ₹1 Lakh.
+> - **Top Budget Leaders**: Andhra University Online (₹62,200), Kalinga University (₹80,000), [Galgotias University](/colleges/galgotias-university/) (₹90,000), and [Uttaranchal University](/colleges/uttaranchal-university/) (₹98,000) offer full 2-year UGC-DEB approved Online MBAs under ₹1 Lakh.
 > - **100% Legal Parity**: Low tuition fees do NOT compromise degree validity. All programs hold statutory UGC-DEB equivalence for UPSC, Bank PO, State PSCs, and MNC employment.
 > - **Easy Monthly Installments**: Students can enroll with zero-cost EMIs starting from just ₹2,800/month with zero upfront interest.
 
@@ -63,7 +63,7 @@ An **MBA** remains the most transformative postgraduate credential for working p
 
 The good news is that several accredited **Central, State, and NAAC A+/A grade private universities** provide comprehensive, UGC-DEB entitled Online MBA programs at a fraction of the cost, without compromising on learning quality or government job validity.
 
-Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-degree-certification/cheapest-online-mba).
+Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-degree-certification/cheapest-online-mba/).
 
 ---
 
@@ -71,13 +71,13 @@ Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-deg
 
 | University Name | Total 2-Year Fees | Monthly EMI Option | NAAC Grade & Approvals |
 | :--- | :--- | :--- | :--- |
-| **[Andhra University Online](/online-degree-certification/andhra-university-online)** | **₹62,200** | ~₹2,800 / month | NAAC A, UGC-DEB, Central State University |
-| **[SCDL Symbiosis (Distance/Online)](/online-degree-certification/scdl-symbiosis-online)** | **₹74,000** | ~₹3,200 / month | NAAC A++, AICTE / DEB Pioneer |
-| **[Kalinga University Online](/online-degree-certification/kalinga-university-online)** | **₹80,000** | ~₹3,100 / month | NAAC B+, UGC-DEB Approved |
-| **[Galgotias University Online](/online-degree-certification/galgotias-university-online)** | **₹90,000** | ~₹3,200 / month | NAAC A+, UGC-DEB, NCR Corporate Focus |
-| **[Uttaranchal University Online](/online-degree-certification/uttaranchal-university-online)** | **₹98,000** | ~₹3,400 / month | NAAC A+, UGC-DEB, AICTE Recognized |
-| **[SRM University Online](/online-degree-certification/srm-university-online)** | **₹1,00,000** | ~₹3,500 / month | NAAC A++, Category-I Deemed University |
-| **[Jamia Hamdard Online](/online-degree-certification/jamia-hamdard-university-online)** | **₹1,03,000** | ~₹3,600 / month | NAAC A, UGC-DEB, Delhi Legacy |
+| **[Andhra University Online](/online-degree-certification/andhra-university-online/)** | **₹62,200** | ~₹2,800 / month | NAAC A, UGC-DEB, Central State University |
+| **[SCDL Symbiosis (Distance/Online)](/online-degree-certification/scdl-symbiosis-online/)** | **₹74,000** | ~₹3,200 / month | NAAC A++, AICTE / DEB Pioneer |
+| **[Kalinga University Online](/online-degree-certification/kalinga-university-online/)** | **₹80,000** | ~₹3,100 / month | NAAC B+, UGC-DEB Approved |
+| **[Galgotias University Online](/online-degree-certification/galgotias-university-online/)** | **₹90,000** | ~₹3,200 / month | NAAC A+, UGC-DEB, NCR Corporate Focus |
+| **[Uttaranchal University Online](/online-degree-certification/uttaranchal-university-online/)** | **₹98,000** | ~₹3,400 / month | NAAC A+, UGC-DEB, AICTE Recognized |
+| **[SRM University Online](/online-degree-certification/srm-university-online/)** | **₹1,00,000** | ~₹3,500 / month | NAAC A++, Category-I Deemed University |
+| **[Jamia Hamdard Online](/online-degree-certification/jamia-hamdard-university-online/)** | **₹1,03,000** | ~₹3,600 / month | NAAC A, UGC-DEB, Delhi Legacy |
 
 ---
 
@@ -89,19 +89,19 @@ Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-deg
 - **Why Choose It**: Andhra University is the undisputed leader in affordable management education. With total fees of just **₹62,200** spread over 4 semesters, it provides a high-credibility degree ideal for banking aspirants, state PSC applicants, and corporate executives seeking promotion credentials.
 - **Specializations**: Marketing, Human Resource Management, Financial Management.
 
-### 2. [Galgotias University](/colleges/galgotias-university) Online MBA (₹90,000 Total Fee)
+### 2. [Galgotias University](/colleges/galgotias-university/) Online MBA (₹90,000 Total Fee)
 - **Status**: NAAC A+ Accredited Private University (Greater Noida, NCR)
 - **Why Choose It**: Located in the corporate corridor of Delhi NCR, Galgotias Online offers modern case studies, virtual live guest sessions with NCR corporate leaders, and flexible digital examination modules.
 - **Specializations**: Marketing, Finance, HR, Information Technology, International Business.
 
-### 3. [Uttaranchal University](/colleges/uttaranchal-university) Online MBA (₹98,000 Total Fee)
+### 3. [Uttaranchal University](/colleges/uttaranchal-university/) Online MBA (₹98,000 Total Fee)
 - **Status**: NAAC A+ Accredited University (Dehradun)
-- **Why Choose It**: Known for its structured Learning Management System (LMS), mobile app access, and interactive doubt-clearing sessions, [Uttaranchal University](/colleges/uttaranchal-university) delivers top-tier private university infrastructure under the ₹1 Lakh threshold.
+- **Why Choose It**: Known for its structured Learning Management System (LMS), mobile app access, and interactive doubt-clearing sessions, [Uttaranchal University](/colleges/uttaranchal-university/) delivers top-tier private university infrastructure under the ₹1 Lakh threshold.
 
 ### 4. SCDL Symbiosis (Symbiosis Centre for Distance Learning) (₹74,000 Total Fee)
 - **Status**: AICTE Approved Management Diploma (PGDBA)
 - **Why Choose It**: Symbiosis carries an immense corporate brand reputation. For candidates seeking marketing or HR management credentials without high tuition costs, SCDL is a trusted choice across Indian corporate sectors.
-- **Compare**: Check [SCDL vs NMIMS Online](/online-degree-certification/scdl-vs-nmims).
+- **Compare**: Check [SCDL vs NMIMS Online](/online-degree-certification/scdl-vs-nmims/).
 
 ---
 
@@ -116,7 +116,7 @@ Explore all budget-friendly options at our [Cheapest Online MBA Hub](/online-deg
 | **Placement Drives** | Basic job notification board | Dedicated virtual placement cells (500+ MNCs) |
 | **Best For** | Working professionals, Govt exam aspirants, CA/CS students | Corporate ladder climbers & Global migration |
 
-Compare premium options: [Amity vs Jain Online](/online-degree-certification/amity-vs-jain) and [LPU vs Chandigarh Online](/online-degree-certification/lpu-vs-chandigarh).
+Compare premium options: [Amity vs Jain Online](/online-degree-certification/amity-vs-jain/) and [LPU vs Chandigarh Online](/online-degree-certification/lpu-vs-chandigarh/).
 
 ---
 
@@ -127,7 +127,7 @@ Compare premium options: [Amity vs Jain Online](/online-degree-certification/ami
 3. **Small Business Owners & Entrepreneurs**: Founders looking to build foundational business knowledge in accounting, taxation, and team management.
 4. **Professionals on a Budget**: Anyone wanting to upskill without accumulating educational debt.
 
-Explore our comprehensive [Online MBA Guide](/online-degree-certification/online-mba).
+Explore our comprehensive [Online MBA Guide](/online-degree-certification/online-mba/).
 
 ---
 
@@ -136,12 +136,12 @@ Get unbiased recommendations comparing fee structures, semester installment sche
 
 - 📞 **Direct Helpline**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Counsellor**: [Chat with Mohit Jain](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20information%20on%20online%20MBA%20under%201%20lakh)
-- 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session)
+- 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

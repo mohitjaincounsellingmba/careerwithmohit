@@ -104,7 +104,7 @@ Always put the top government colleges (MBM/RTU/CTAE) in your first few choices,
 **Need Help with REAP Choice Filling?**
 Filling choices correctly is the difference between getting a government seat and a private one. At **CareerWithMohit**, we provide personalized choice-filling lists based on your JEE Main percentile and domicile status.
 
-[👉 Get Expert REAP Counselling Guidance!](/inquiry)
+[👉 Get Expert REAP Counselling Guidance!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Who can apply for REAP 2026?**
@@ -123,6 +123,6 @@ MBM Jodhpur is traditionally considered the top-ranked preference followed by RT
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

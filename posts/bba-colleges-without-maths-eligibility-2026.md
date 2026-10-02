@@ -18,9 +18,9 @@ keywords:
   - Noida Admissions 2026
   - Direct Admission in Noida
 faqs:
-  - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?'
+  - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai/) without Math?'
     answer: >-
-      [NMIMS Mumbai](/colleges/nmims-mumbai) usually mandates
+      [NMIMS Mumbai](/colleges/nmims-mumbai/) usually mandates
       **Math/Statistics** in 12th for its BBA program. However, their other
       programs like B.Des or specialized tracks might be more flexible—always
       check the 2026 NPAT brochure.
@@ -30,7 +30,7 @@ faqs:
       are excellent specializations that do not require heavy quantitative
       analysis.
   - question: >-
-      does [Christ University Bangalore](/colleges/christ-university-bangalore)
+      does [Christ University Bangalore](/colleges/christ-university-bangalore/)
       require Math?
     answer: >-
       No. For the general BBA and BBA (Finance/IB/Law) programs, Math in 12th is
@@ -49,7 +49,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-One of the biggest myths in undergraduate management is that you cannot pursue a top-tier BBA degree without having Mathematics in your Class 12. While it's true that elite institutes like **[IIM Indore](/colleges/iim-indore) (IPMAT) and Shaheed Sukhdev (SSCBS)** mandate Math, over 80% of India's best BBA colleges are open to students from all streams—including those who opted for Physical Education or Psychology over Calculus.
+One of the biggest myths in undergraduate management is that you cannot pursue a top-tier BBA degree without having Mathematics in your Class 12. While it's true that elite institutes like **[IIM Indore](/colleges/iim-indore/) (IPMAT) and Shaheed Sukhdev (SSCBS)** mandate Math, over 80% of India's best BBA colleges are open to students from all streams—including those who opted for Physical Education or Psychology over Calculus.
 
 In 2026, many students are realizing that their management potential is not defined by their high-school math score. This guide lists the **best BBA colleges in India that do not require Math in 12th**.
 
@@ -64,7 +64,7 @@ In 2026, many students are realizing that their management potential is not defi
 | **St. Xavier’s** | Mumbai | XET | ₹0.6 - 0.8 Lakhs | **NO** (Only for BMS)|
 | **Mount Carmel (MCC)** | Bangalore | Merit | ₹1.8 - 2.5 Lakhs | **NO** |
 | **Jain (CMS)** | Bangalore | JET | ₹3.2 - 4.5 Lakhs | **NO** |
-| **[Amity University](/colleges/amity-noida)** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
+| **[Amity University](/colleges/amity-noida/)** | Noida/Lucknow | Merit | ₹2.5 - 3.8 Lakhs | **NO** |
 | **Loyola College** | Chennai | Merit | ₹0.8 - 1.2 Lakhs | **NO** |
 
 ---
@@ -98,15 +98,15 @@ Most state-level private colleges (affiliated with GGSIPU, Mumbai University, or
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. is Math mandatory for BBA IPM (IIM)?**
-For **[IIM Indore](/colleges/iim-indore)**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **[IIM Rohtak](/colleges/iim-rohtak)**, the math level is slightly lower, making it more accessible.
+For **[IIM Indore](/colleges/iim-indore/)**, the exam has a heavy "Higher Math" section. While a non-math student can theoretically give the exam, it is extremely difficult to clear the cutoff. For **[IIM Rohtak](/colleges/iim-rohtak/)**, the math level is slightly lower, making it more accessible.
 
-**Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai) without Math?**
-[NMIMS Mumbai](/colleges/nmims-mumbai) usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
+**Q2. Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai/) without Math?**
+[NMIMS Mumbai](/colleges/nmims-mumbai/) usually mandates **Math/Statistics** in 12th for its BBA program. However, their other programs like B.Des or specialized tracks might be more flexible—always check the 2026 NPAT brochure.
 
 **Q3. Which BBA specialization is best for non-math students?**
 **Marketing, Human Resource Management (HRM), and International Business** are excellent specializations that do not require heavy quantitative analysis.
 
-**Q4. does [Christ University Bangalore](/colleges/christ-university-bangalore) require Math?**
+**Q4. does [Christ University Bangalore](/colleges/christ-university-bangalore/) require Math?**
 No. For the general BBA and BBA (Finance/IB/Law) programs, Math in 12th is not a mandatory eligibility criterion.
 
 **Q5. What is the scope for BBA non-math students?**
@@ -115,16 +115,16 @@ The corporate world hires for **Problem Solving and Communication**. Non-math BB
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [How to Prepare for Symbiosis SET 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com vs BMS — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [How to Prepare for Symbiosis SET 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Don't Let One Subject Stop Your CEO Dreams.**
 A management mind is about strategy, not just numbers. Don't waste your score on a college that doesn't respect your stream. Mohit Jain provides a **"Non-Math Success Roadmap"**—helping you pick the college that offers the best bridge courses and placement support for non-math graduates.
 
-[👉 Book My Non-Math BBA Strategy](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Non-Math BBA Strategy](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -132,7 +132,7 @@ A management mind is about strategy, not just numbers. Don't waste your score on
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -146,6 +146,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -210,7 +210,7 @@ export default function ServicesPage() {
           <p className="text-emerald-50 text-xl font-medium mb-10 max-w-2xl mx-auto leading-relaxed">
             Book a 1-on-1 session to discuss your specific career challenges and build an actionable roadmap.
           </p>
-          <a href="/inquiry" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
+          <a href="/inquiry/" className="inline-flex h-14 items-center justify-center bg-white border-4 border-foreground px-10 py-2 text-xl font-bold text-foreground transition-all hover:bg-gray-100 hover:scale-105 hover:-translate-y-1">
             Book Appointment
           </a>
         </div>

@@ -76,14 +76,14 @@ Shoolini University focuses heavily on internships and industrial exposure, resu
 **Cons**: Mandatory attendance policies, relatively high hostel and mess charges.
 
 Explore other top engineering options in the Himalayan/North region:
-*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
-*   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review)
-*   [JKLU Jaipur: Academic Insights](/blog/jklu-jaipur-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review/)
+*   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review/)
+*   [JKLU Jaipur: Academic Insights](/blog/jklu-jaipur-btech-admission-2026-fees-review/)
 
 **Confused About the Research Focus?**
 Shoolini is often the preferred choice for students who want to enter research and development (R&D) or higher studies. At **CareerWithMohit**, we help you decide if the research-focused B.Tech model at Shoolini is the right fit for your future goals.
 
-[👉 Get Expert Admission Guidance for Shoolini University!](/inquiry)
+[👉 Get Expert Admission Guidance for Shoolini University!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is Shoolini University globally ranked?**
@@ -102,6 +102,6 @@ Yes, Shoolini accepts JEE Main, CUET, and its own SU-SAT scores for admission.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

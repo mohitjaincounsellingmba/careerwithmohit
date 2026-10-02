@@ -66,12 +66,12 @@ Opting for a specific B.Tech in Data Science (or CSE with Data Science specializ
 
 Here are the premium institutions in the Delhi-NCR region that offer advanced Data Science B.Tech degrees with options for Management Quota or Merit-based Direct Admission:
 
-### 1. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
+### 1. [Bennett University](/colleges/bennett-greater-noida/), Greater Noida
 *   **The Data Science Advantage:** Bennett (backed by the Times Group) runs a dedicated Center of Excellence in Artificial Intelligence and Data Science. Their curriculum is highly practical and aligned with global tech standards.
 *   **Admission Process:** Direct admission is available for students with strong 12th board scores (>75% PCM). They encourage fast-track admissions right after board results.
 *   **Average Package:** ₹8 - ₹12 LPA.
 
-### 2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
+### 2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/), Noida
 *   **The Data Science Advantage:** JIIT offers a modernized CSE curriculum with heavy electives in Big Data and Data Analytics. The brand value ensures top product-based recruiters frequently visit the campus.
 *   **Admission Process:** Operates primarily via JEE Main, but specific NRI-sponsored and 10+2 merit-based direct quota seats are available. Competition is fierce.
 *   **Average Package:** ₹8 - ₹10 LPA.
@@ -86,7 +86,7 @@ Here are the premium institutions in the Delhi-NCR region that offer advanced Da
 *   **Management Quota:** 15% AKTU management quota seats. Direct admission is standard for students meeting the base PCM criteria.
 *   **Average Package:** ₹6 - ₹8 LPA.
 
-### 5. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
+### 5. [KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad
 *   **The Data Science Advantage:** Extremely disciplined and placement-oriented. KIET focuses heavily on ensuring students acquire certifications in Data Analytics alongside their B.Tech degree.
 *   **Management Quota:** Accessible via AKTU’s 15% management quota system before the main UPSEE counseling concludes.
 *   **Average Package:** ₹6 - ₹7.5 LPA.
@@ -107,10 +107,10 @@ When analyzing direct admissions, you must separate standard tuition fees from o
 *   **Affiliated Colleges (IPU/AKTU):** Lower annual tuition fees (₹1.2L to ₹1.5L/year) but securing a management quota seat may require a one-time developmental or capitation fee depending on the college's demand.
 
 ### Useful Links for Prospective Students
-*   [Education Loan Guide for Engineering Students](/blog/education-loan-guide-mba-btech)
-*   [How to Avoid Management Quota Scams](/blog/management-quota-legality-fraud-protection)
+*   [Education Loan Guide for Engineering Students](/blog/education-loan-guide-mba-btech/)
+*   [How to Avoid Management Quota Scams](/blog/management-quota-legality-fraud-protection/)
 
-[👉 Fast-track your career in Data Science! Contact our admission counselors today for genuine Direct Admission guidance.](/inquiry)
+[👉 Fast-track your career in Data Science! Contact our admission counselors today for genuine Direct Admission guidance.](/inquiry/)
 
 ---
 
@@ -132,6 +132,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

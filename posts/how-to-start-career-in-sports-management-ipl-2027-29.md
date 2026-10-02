@@ -67,13 +67,13 @@ To be taken seriously in the professional sports ecosystem, having a formal degr
 *   **BA in Sports Management:** Focuses more on the administrative and social aspects of sports.
 *   **General BBA/B.Com:** You can also do a general degree and later specialize during your Master's.
 
-*Related Guide:* [Top Career Options After BBA in 2026](/blog/career-options-after-bba-2026)
+*Related Guide:* [Top Career Options After BBA in 2026](/blog/career-options-after-bba-2026/)
 
 ### **Postgraduate (After Graduation)**
 *   **MBA in Sports Management:** The "gold standard" for entering high-level corporate roles in sports.
 *   **Post Graduate Diploma (PGDM):** Many specialized institutes offer 1-2 year diplomas that are highly industry-focused.
 
-*Read more:* [MBA vs PGDM 2027–29: Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide)
+*Read more:* [MBA vs PGDM 2027–29: Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
@@ -87,10 +87,10 @@ Several institutes have pioneered sports management education in India. Here are
 | **NASM (National Academy of Sports Management)** | Mumbai/Delhi | BBA, MBA, Diploma |
 | **Symbiosis School of Sports Sciences (SSSS)** | Pune | MBA (Sports Mgmt) |
 | **KJ Somaiya Institute of Management** | Mumbai | MBA (Sports Mgmt) |
-| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | BBA (Sports Mgmt) |
-| **[Jain University](/colleges/jain-university) (CMS)** | Bangalore | MBA (Sports Mgmt) |
+| **[Bennett University](/colleges/bennett-greater-noida/)** | Greater Noida | BBA (Sports Mgmt) |
+| **[Jain University](/colleges/jain-university/) (CMS)** | Bangalore | MBA (Sports Mgmt) |
 
-*Looking for colleges in the financial capital? Check:* [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
+*Looking for colleges in the financial capital? Check:* [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 ---
 
@@ -135,15 +135,15 @@ Don't wait for the IPL to call you. Start by volunteering for local marathons, i
 **Need help choosing the right Sports Management college?**
 Our counsellors can help you find the best program based on your profile and career goals!
 
-[👉 Book a Free Career Counselling Session Today!](/inquiry)
-[👉 View Full List of MBA Specializations & Scopes](/blog/bba-specializations-skills-salary-2026-guide)
+[👉 Book a Free Career Counselling Session Today!](/inquiry/)
+[👉 View Full List of MBA Specializations & Scopes](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 
 ### Related Links:
-*   [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29)
-*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide)
-*   [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
+*   [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
+*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide/)
+*   [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)
 
 ---
 
@@ -165,6 +165,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

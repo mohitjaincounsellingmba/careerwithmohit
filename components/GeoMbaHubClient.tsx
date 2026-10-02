@@ -793,7 +793,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
               </p>
             </div>
             <Link
-              href="/mba-pgdm-admission-2027"
+              href="/mba-pgdm-admission-2027/"
               className="text-xs font-semibold text-amber-400 hover:text-amber-300 hidden sm:inline-flex items-center gap-1"
             >
               All India Directory <ArrowRight className="w-3.5 h-3.5" />

@@ -81,7 +81,7 @@ Fill in your parent's names, category, and address. In the academic section, you
 - Work experience (if any)
 
 ### 4. B-School Selection
-This is a crucial step. You can select **5 Management Institutes** (or more if you pay extra) to receive your scores directly. Choose colleges that align with your expected percentile. You can refer to our **[Top MBA Colleges Accepting MAT](/blog/top-mba-colleges-mat)** guide for help.
+This is a crucial step. You can select **5 Management Institutes** (or more if you pay extra) to receive your scores directly. Choose colleges that align with your expected percentile. You can refer to our **[Top MBA Colleges Accepting MAT](/blog/top-mba-colleges-mat/)** guide for help.
 
 ### 5. Upload Documents
 Ensure your files are in the prescribed size and format (JPG/JPEG):
@@ -96,17 +96,17 @@ Pay the fee using a Credit/Debit Card, Net Banking, or UPI.
 After payment, download the **Confirmation Page**. You will need this for future reference during counseling.
 
 ## Why the May MAT is Your Last Strategic Move
-Most top-tier PGDM colleges like **[Jaipuria Institute](/blog/all-about-jaipuria-institute-of-management)**, **[BIMTECH](/blog/bimtech-greater-noida-placement-review-2025)**, and **[NDIM](/blog/ndim-delhi-review-2027-29)** finalize their admissions by June-July. 
+Most top-tier PGDM colleges like **[Jaipuria Institute](/blog/all-about-jaipuria-institute-of-management/)**, **[BIMTECH](/blog/bimtech-greater-noida-placement-review-2025/)**, and **[NDIM](/blog/ndim-delhi-review-2027-29/)** finalize their admissions by June-July. 
 
-The May MAT session is typically the last national-level exam scores these institutes accept for the upcoming session. If you are aiming for a high ROI, check our latest review on **[Low Fees High Placement MBA Colleges in 2027–29](/blog/low-fees-high-placement-mba-colleges-2027-29)**.
+The May MAT session is typically the last national-level exam scores these institutes accept for the upcoming session. If you are aiming for a high ROI, check our latest review on **[Low Fees High Placement MBA Colleges in 2027–29](/blog/low-fees-high-placement-mba-colleges-2027-29/)**.
 
 ## Final Preparation Advice
 Since the PBT exam is on **May 31**, you have less than a month. Focus on:
-1. **Mock Tests:** Solve at least 5-10 full-length mocks. You can access our **[Free MAT Mock Test Series](/mock-tests)** for practice.
+1. **Mock Tests:** Solve at least 5-10 full-length mocks. You can access our **[Free MAT Mock Test Series](/mock-tests/)** for practice.
 2. **Time Management:** You have 150 minutes for 150 questions. Speed is more important than solving complex equations.
 3. **General Awareness:** While not counted in the merit score by most colleges, it's good to stay updated for the interview rounds later.
 
-For a deeper dive into the exam pattern and syllabus, read our comprehensive **[All About MAT Exam](/blog/all-about-mat-exam)** guide.
+For a deeper dive into the exam pattern and syllabus, read our comprehensive **[All About MAT Exam](/blog/all-about-mat-exam/)** guide.
 
 ---
 **Need help with your MBA application?** Connect with our experts for personalized career counseling.

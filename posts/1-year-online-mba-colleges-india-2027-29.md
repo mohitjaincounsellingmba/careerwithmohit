@@ -50,7 +50,7 @@ In 2026, several globally accredited and UGC-recognized universities now offer *
 >
 > Compare 34+ top online universities on fees, NAAC grades, and courses. Filter and choose the best one.
 >
-> [👉 Compare & Filter Online MBA Colleges Now](/online-degree-certification)
+> [👉 Compare & Filter Online MBA Colleges Now](/online-degree-certification/)
 
 ---
 
@@ -288,10 +288,10 @@ Not sure which 1-year MBA is the right fit for your background, budget, and care
 ---
 
 *Related Posts:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29)
-- [Best Online MBA for Working Professionals 2027–29](/blog/best-online-mba-colleges-working-professionals-india-2027-29)
-- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
+- [Best Online MBA for Working Professionals 2027–29](/blog/best-online-mba-colleges-working-professionals-india-2027-29/)
+- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
@@ -314,7 +314,7 @@ Yes, universities typically conduct online semester exams using AI-enabled or hu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

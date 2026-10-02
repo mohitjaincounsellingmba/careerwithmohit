@@ -120,16 +120,16 @@ Typically held in **May/June 2026** across multiple shifts.
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [How to Prepare for IPMAT 2026](/blog/ipmat-2026-preparation-guide-colleges)
-- [BBA vs B.Com vs BMS — Career Choice Guide](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [How to Prepare for IPMAT 2026](/blog/ipmat-2026-preparation-guide-colleges/)
+- [BBA vs B.Com vs BMS — Career Choice Guide](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Master the CUET Hub of Management.**
 CUET is a game of strategy, not just knowledge. Don't waste your score on a university without a stable placement history. Mohit Jain provides a **"CUET Management Audit"**—helping you choose the right domain subjects to maximize your eligibility for India's best central universities.
 
-[👉 Book My CUET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My CUET Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -137,6 +137,6 @@ CUET is a game of strategy, not just knowledge. Don't waste your score on a univ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

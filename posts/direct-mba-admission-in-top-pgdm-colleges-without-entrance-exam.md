@@ -80,14 +80,14 @@ Below is the verified ROI comparison of top AICTE-approved business schools offe
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[SOIL Institute of Management, Gurgaon](/colleges/soil-gurgaon)** | ₹14.5 – 15.5 Lakhs | ₹10.8 – ₹11.5 LPA | **High ROI**: Profile-based STAT test + Interview; min 50% in UG |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹9.5 – 10.5 Lakhs | ₹8.2 – ₹8.8 LPA | **Strong ROI**: AICTE approved; accepts MAT/ATMA/Direct PI round |
-| **[JIMS Rohini, Delhi](/colleges/jims-rohini)** | ₹9.0 – 9.8 Lakhs | ₹8.1 – ₹8.6 LPA | **Solid ROI**: GGSIPU/AICTE dual recognition; GD-PI evaluation |
-| **[Lexicon MILE, Pune](/colleges/lexicon-management-institute-of-leadership-excellence)** | ₹8.5 – 9.5 Lakhs | ₹8.0 – ₹8.5 LPA | **High ROI**: 9-month internship track; profile & interview shortlisting |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹8.0 – 9.0 Lakhs | ₹7.8 – ₹8.4 LPA | **Good ROI**: Sector-specific corporate training; internal PMAT test |
-| **[ISBR Business School, Bangalore](/colleges/isbr-bangalore)** | ₹9.5 – 10.5 Lakhs | ₹7.5 – ₹8.2 LPA | **Solid ROI**: Bangalore IT corridor access; profile evaluation |
-| **[FOSTIIMA Business School, Delhi](/colleges/fostiima-delhi)** | ₹8.5 – 9.2 Lakhs | ₹8.5 – ₹9.0 LPA | **Exceptional ROI**: Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni; interview round |
-| **[Jaipuria Institute of Management (Noida/Jaipur)](/colleges/jaipuria-noida)** | ₹12.5 – 13.5 Lakhs | ₹9.2 – ₹9.8 LPA | **Good ROI**: Institutional merit rounds; 80%+ placement record |
+| **[SOIL Institute of Management, Gurgaon](/colleges/soil-gurgaon/)** | ₹14.5 – 15.5 Lakhs | ₹10.8 – ₹11.5 LPA | **High ROI**: Profile-based STAT test + Interview; min 50% in UG |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹9.5 – 10.5 Lakhs | ₹8.2 – ₹8.8 LPA | **Strong ROI**: AICTE approved; accepts MAT/ATMA/Direct PI round |
+| **[JIMS Rohini, Delhi](/colleges/jims-rohini/)** | ₹9.0 – 9.8 Lakhs | ₹8.1 – ₹8.6 LPA | **Solid ROI**: GGSIPU/AICTE dual recognition; GD-PI evaluation |
+| **[Lexicon MILE, Pune](/colleges/lexicon-management-institute-of-leadership-excellence/)** | ₹8.5 – 9.5 Lakhs | ₹8.0 – ₹8.5 LPA | **High ROI**: 9-month internship track; profile & interview shortlisting |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹8.0 – 9.0 Lakhs | ₹7.8 – ₹8.4 LPA | **Good ROI**: Sector-specific corporate training; internal PMAT test |
+| **[ISBR Business School, Bangalore](/colleges/isbr-bangalore/)** | ₹9.5 – 10.5 Lakhs | ₹7.5 – ₹8.2 LPA | **Solid ROI**: Bangalore IT corridor access; profile evaluation |
+| **[FOSTIIMA Business School, Delhi](/colleges/fostiima-delhi/)** | ₹8.5 – 9.2 Lakhs | ₹8.5 – ₹9.0 LPA | **Exceptional ROI**: Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) alumni; interview round |
+| **[Jaipuria Institute of Management (Noida/Jaipur)](/colleges/jaipuria-noida/)** | ₹12.5 – 13.5 Lakhs | ₹9.2 – ₹9.8 LPA | **Good ROI**: Institutional merit rounds; 80%+ placement record |
 
 ---
 
@@ -116,7 +116,7 @@ graph TD
 - **Myth 1: Direct admission degrees are second-tier or invalid.**  
   *Reality*: AICTE approved PGDM diplomas are equivalent to MBA degrees awarded by AIU (Association of Indian Universities). The certificate does not mention your mode of admission.
 - **Myth 2: Anyone can get into IIMs through management quota.**  
-  *Reality*: False. IIMs, [FMS Delhi](/colleges/fms-delhi), XLRI, and JBIMS do **not** have management quotas. Any agent promising direct seats in IIMs is running a scam.
+  *Reality*: False. IIMs, [FMS Delhi](/colleges/fms-delhi/), XLRI, and JBIMS do **not** have management quotas. Any agent promising direct seats in IIMs is running a scam.
 - **Myth 3: Direct admission costs 2x normal tuition fees.**  
   *Reality*: At reputable AICTE colleges, institutional quota tuition fees are identical or have nominal regulatory fee differentials published clearly on their website.
 
@@ -134,6 +134,6 @@ Need help finding the best PGDM college matching your budget and career goals? R
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

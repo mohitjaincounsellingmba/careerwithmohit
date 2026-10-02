@@ -8,7 +8,7 @@ description: >-
 keywords:
   - top BBA colleges Dehradun
   - best BBA colleges in Dehradun
-  - '[UPES Dehradun](/colleges/upes-dehradun) BBA fees'
+  - '[UPES Dehradun](/colleges/upes-dehradun/) BBA fees'
   - Graphic Era BBA placements
   - BBA admission Dehradun 2026
   - Direct Admission in Delhi
@@ -40,13 +40,13 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 ## 🏛️ Premier BBA Institutes in Dehradun
 
-### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun/) (School of Business)
 - **Approx. Fees:** ₹3.5 - 4.5 Lakhs (Annual)
 - **Average Placement:** ₹4.2 LPA (Highest ₹7.5 LPA)
 - **Entrance Exam:** UPESMET-UG / CUET
 - **USP:** Focused on niche specializations like Digital Business and Logistics.
 
-### 2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)
+### 2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)
 - **Rank:** NAAC A+ Rated
 - **Approx. Fees:** ₹1.15 - 1.45 Lakhs (Annual)
 - **Average Placement:** ₹4.7 - 7.4 LPA (Highest ₹53 LPA)
@@ -65,7 +65,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 
 | College Name | Annual Fees | Top Recruiters | Rating |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun](/colleges/upes-dehradun)** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
+| **[UPES Dehradun](/colleges/upes-dehradun/)** | ₹4.0 Lakhs | Accenture, Amazon | ⭐⭐⭐⭐ |
 | **Graphic Era** | ₹1.3 Lakhs | Infosys, Wipro | ⭐⭐⭐⭐⭐ |
 | **Doon Univ** | ₹0.5 Lakhs | Local Firms | ⭐⭐⭐⭐ |
 
@@ -79,16 +79,16 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Admission FAQs 2026](/blog/mba-pgdm-admissions-faq-2027-29)
-- [Career Roadmaps](/blog/career-roadmaps-2027-29)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Admission FAQs 2026](/blog/mba-pgdm-admissions-faq-2027-29/)
+- [Career Roadmaps](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ## 📞 Get Expert Guidance for Dehradun Admissions
 Need help with UPES or Graphic Era applications? Let's connect and secure your seat today.
 
-[👉 Build My Roadmap for Dehradun](/inquiry) | [💬 Schedule a Session](/inquiry)
+[👉 Build My Roadmap for Dehradun](/inquiry/) | [💬 Schedule a Session](/inquiry/)
 
 ---
 
@@ -110,6 +110,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

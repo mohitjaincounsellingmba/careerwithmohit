@@ -63,7 +63,7 @@ A premier institute in Ghaziabad, known for its undergraduate management and tec
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.
 
-### **3. [KIET Group of Institutions](/colleges/kiet-ghaziabad) (Specific Programs)**
+### **3. [KIET Group of Institutions](/colleges/kiet-ghaziabad/) (Specific Programs)**
 A top-tier technical institute that considers CUET scores for specific multidisciplinary tracks.
 *   **Programs:** B.Pharm, BBA, BCA.
 *   **USP:** High placement rates and excellent infrastructure.
@@ -85,7 +85,7 @@ Part of the SRM family, accepting CUET for various liberal arts and professional
 *   **Industrial Belt:** Ghaziabad and neighboring areas are heavy on manufacturing and IT industries.
 *   **Academic Cluster:** Access to a large network of professional and engineering colleges.
 
-[👉 Get Ghaziabad CUET Admission Assistance](/inquiry)
+[👉 Get Ghaziabad CUET Admission Assistance](/inquiry/)
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about which Ghaziabad college fits your profile? Link up with our CUET consultants for free!**
@@ -110,6 +110,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -59,7 +59,7 @@ Here is the **definitive list of top 10 CMAT colleges in 2026**, their expected 
 | 5 | GIM, Goa | 95+ | ₹21 Lakhs | ₹12–13 LPA |
 | 6 | Welingkar (WeSchool), Mumbai | 90–95+ | ₹13–15 Lakhs | ₹9–11 LPA |
 | 7 | NIBM, Pune | 85–95+ | ₹10–12 Lakhs | ₹8–10 LPA |
-| 8 | [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) | 85–90+ | ₹14–16 Lakhs | ₹11–12 LPA |
+| 8 | [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/) | 85–90+ | ₹14–16 Lakhs | ₹11–12 LPA |
 | 9 | IFMR GSB (Krea University), Chennai | 85+ | ₹18–20 Lakhs | ₹10–12 LPA |
 | 10 | XISS, Ranchi | 90–95+ | ₹7–9 Lakhs | ₹8–10 LPA |
 
@@ -69,7 +69,7 @@ Here is the **definitive list of top 10 CMAT colleges in 2026**, their expected 
 
 ## 🏛️ Detailed College Profiles
 
-### 1. JBIMS — Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida), Mumbai
+### 1. JBIMS — Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/), Mumbai
 
 **CMAT Cutoff:** 99.99+ Percentile  
 **Total Fees:** ₹6–7 Lakhs (Government-aided)  
@@ -84,7 +84,7 @@ JBIMS is the **crown jewel of CMAT admissions**. With placements rivalling IIM-C
 
 ---
 
-### 2. SIMSREE — Sydenham [Institute of Management Studies](/colleges/ims-noida), Mumbai
+### 2. SIMSREE — Sydenham [Institute of Management Studies](/colleges/ims-noida/), Mumbai
 
 **CMAT Cutoff:** 99.9+ Percentile  
 **Total Fees:** ₹70,000–₹2 Lakhs (Government)  
@@ -114,7 +114,7 @@ PUMBA has a well-established alumni network across Pune's corporate ecosystem (I
 
 ---
 
-### 4. [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai
+### 4. [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/), Mumbai
 
 **CMAT Cutoff:** 95–98+ Percentile  
 **Total Fees:** ₹22–23 Lakhs  
@@ -174,7 +174,7 @@ NIBM is a **specialized banking and finance institute** backed by the Reserve Ba
 
 ---
 
-### 8. BIMTECH — [Birla Institute of Management Technology](/colleges/bimtech-greater-noida), Greater Noida
+### 8. BIMTECH — [Birla Institute of Management Technology](/colleges/bimtech-greater-noida/), Greater Noida
 
 **CMAT Cutoff:** 85–90+ Percentile  
 **Total Fees:** ₹14–16 Lakhs  
@@ -274,17 +274,17 @@ For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is better fo
 
 ## 🔗 Related Guides
 
-- [All About CMAT Exam 2026: Pattern, Score, Cutoff](/blog/all-about-cmat-exam)
-- [MAT & CMAT 2026: Best Colleges & Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide)
-- [Top MBA Colleges Accepting CAT 70–80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
-- [Best MBA Colleges Low Fees High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Direct MBA Admission Without Entrance Exam 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [All About CMAT Exam 2026: Pattern, Score, Cutoff](/blog/all-about-cmat-exam/)
+- [MAT & CMAT 2026: Best Colleges & Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)
+- [Top MBA Colleges Accepting CAT 70–80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+- [Best MBA Colleges Low Fees High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Direct MBA Admission Without Entrance Exam 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
 **Your CMAT score is only the first step.** The real game is GD-PI preparation, college selection strategy, and application timing. Mohit Jain has helped 500+ students convert CMAT scores into top B-school admissions — from JBIMS to GIM.
 
-[👉 Book a Free CMAT College Selection Session](/inquiry) | [💬 Chat on WhatsApp](/inquiry)
+[👉 Book a Free CMAT College Selection Session](/inquiry/) | [💬 Chat on WhatsApp](/inquiry/)
 
 
 
@@ -292,6 +292,6 @@ For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is better fo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -79,7 +79,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹15.30 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹11.00 LPA (Highest ₹19.5 LPA) with AICTE Approved.
 
-Planning for management education requires a clear understanding of the complete financial commitment. The **[SOIL Institute of Management](/colleges/soil-gurgaon) (School of Inspired Leadership / School of Business Design, Gurgaon)** has established a transparent, structured fee schedule for its **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
+Planning for management education requires a clear understanding of the complete financial commitment. The **[SOIL Institute of Management](/colleges/soil-gurgaon/) (School of Inspired Leadership / School of Business Design, Gurgaon)** has established a transparent, structured fee schedule for its **2027–2029 PGDM** and **1-Year PGPM** academic cohorts.
 
 Located in Gurgaon (Delhi-NCR)—surrounded by top multinational corporate headquarters—SOIL offers a unique, industry-integrated curriculum co-created by **32 leading corporations**. 
 
@@ -244,12 +244,12 @@ Here is how SOIL's fee structure compares with leading private and autonomous ma
 
 | Business School | Total 2-Year Program Fee | Average Placement (CTC) | Key Program Differentiator |
 | :--- | :--- | :--- | :--- |
-| **[SOIL Gurgaon](/colleges/soil-gurgaon)** | **₹17.17 Lakhs** | **₹11.17 LPA** | MNC Co-Created, Design Thinking & Social Innovation |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | ₹18.75 Lakhs – ₹19.90 Lakhs | ₹11.60 LPA | Analytics & Marketing focus |
-| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | ₹15.10 Lakhs – ₹16.50 Lakhs | ₹10.44 LPA | Hero Group heritage, Imperial College London link |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.25 Lakhs – ₹19.50 Lakhs | ₹14.50 LPA | South Delhi campus, Finance & International Business |
+| **[SOIL Gurgaon](/colleges/soil-gurgaon/)** | **₹17.17 Lakhs** | **₹11.17 LPA** | MNC Co-Created, Design Thinking & Social Innovation |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** | ₹18.75 Lakhs – ₹19.90 Lakhs | ₹11.60 LPA | Analytics & Marketing focus |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon/)** | ₹15.10 Lakhs – ₹16.50 Lakhs | ₹10.44 LPA | Hero Group heritage, Imperial College London link |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | ₹18.25 Lakhs – ₹19.50 Lakhs | ₹14.50 LPA | South Delhi campus, Finance & International Business |
 | **BIMTECH Greater Noida** | ₹14.00 Lakhs – ₹16.00 Lakhs | ₹11.25 LPA | Birla heritage, Insurance & Retail Management |
-| **[Jaipuria Noida](/colleges/jaipuria-noida)** | ₹14.50 Lakhs – ₹16.50 Lakhs | ₹11.29 LPA | AACSB accredited, Pan-India campus pool |
+| **[Jaipuria Noida](/colleges/jaipuria-noida/)** | ₹14.50 Lakhs – ₹16.50 Lakhs | ₹11.29 LPA | AACSB accredited, Pan-India campus pool |
 | **IILM University Gurgaon** | ₹11.50 Lakhs – ₹13.00 Lakhs | ₹8.60 LPA | Liberal education, corporate internships |
 
 ---
@@ -268,18 +268,18 @@ When planning your management budget at SOIL, keep these non-tuition expenses in
 ## 10. How to Pay Admission Fees & Cancellation Policy
 
 1.  **Online Payment Gateways:** Accepted via Net Banking, NEFT/RTGS, Credit/Debit Cards, or UPI on the official SOIL admission portal.
-2.  **Demand Draft (DD):** Payable in favor of *"[SOIL Institute of Management](/colleges/soil-gurgaon)"* payable at Gurgaon/New Delhi.
+2.  **Demand Draft (DD):** Payable in favor of *"[SOIL Institute of Management](/colleges/soil-gurgaon/)"* payable at Gurgaon/New Delhi.
 3.  **Refund & Withdrawal Guidelines:** SOIL adheres strictly to **AICTE fee refund norms**. If a candidate withdraws their admission before the official orientation/closure date, the initial deposit is refunded after a standard administrative processing deduction of ₹1,000.
 
 ---
 
 ## 11. Related MBA Admissions & Delhi-NCR Resources
 
-*   [SOIL Gurgaon Application Form Open 2027–29: Complete Review & Cutoffs](/blog/soil-gurgaon-application-form-open-2027-29-complete-review)
-*   [USP of SOIL Institute of Management: 10 Reasons Why It Stands Out](/blog/usp-of-soil-gurgaon-pgdm-2027-29)
-*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
+*   [SOIL Gurgaon Application Form Open 2027–29: Complete Review & Cutoffs](/blog/soil-gurgaon-application-form-open-2027-29-complete-review/)
+*   [USP of SOIL Institute of Management: 10 Reasons Why It Stands Out](/blog/usp-of-soil-gurgaon-pgdm-2027-29/)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
 
 [InquiryCard title="Get Fee Assistance & Scholarship Counseling for SOIL Gurgaon" subtitle="Verify your scholarship eligibility, calculate exact fee installments, and get connected with banking loan officers." ctaText="Check Scholarship Eligibility / Apply Now"]
 
@@ -306,6 +306,6 @@ The 1-Year PGPM (Business Leadership) fee is approximately **₹15.33 Lakhs to �
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

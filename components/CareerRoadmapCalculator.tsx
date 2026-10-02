@@ -758,7 +758,7 @@ export function CareerRoadmapCalculator() {
 
                             <div className="flex flex-col sm:flex-row items-center gap-3">
                                 <a
-                                    href="/inquiry"
+                                    href="/inquiry/"
                                     className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs uppercase tracking-widest text-center transition-all shadow-md"
                                 >
                                     Book Free Consultation

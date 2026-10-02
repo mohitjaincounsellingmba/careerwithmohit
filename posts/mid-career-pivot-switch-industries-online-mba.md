@@ -99,9 +99,9 @@ A common complaint about online programs is the lack of physical networking. How
 ---
 
 *Related Articles:*
-- [Do Top Employers Value Online MBAs the Same as On-Campus Degrees?](/blog/do-top-employers-value-online-mbas-same-as-on-campus-degrees)
-- [How to Verify if an Online MBA is UGC-Entitled and AICTE-Approved](/blog/how-to-verify-online-mba-ugc-entitled-aicte-approved)
-- [Calculating Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs](/blog/calculating-online-mba-roi-salary-hikes-vs-tuition-costs)
+- [Do Top Employers Value Online MBAs the Same as On-Campus Degrees?](/blog/do-top-employers-value-online-mbas-same-as-on-campus-degrees/)
+- [How to Verify if an Online MBA is UGC-Entitled and AICTE-Approved](/blog/how-to-verify-online-mba-ugc-entitled-aicte-approved/)
+- [Calculating Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs](/blog/calculating-online-mba-roi-salary-hikes-vs-tuition-costs/)
 
 
 
@@ -110,7 +110,7 @@ A common complaint about online programs is the lack of physical networking. How
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

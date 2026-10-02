@@ -51,10 +51,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
-| **[Praxis Business School](/colleges/praxis-kolkata)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
-| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
-| **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
+| **[IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta/)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
+| **[Praxis Business School](/colleges/praxis-kolkata/)** | CAT / XAT / CMAT / MAT | ₹6.5 Lakhs (Total) | **₹13.50 LPA** |
+| **[IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))](/colleges/indian-institute-of-social-welfare-and-business-management)** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[IMI Kolkata (International Management Institute)](/colleges/imi-kolkata/)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
 
 ---
 
@@ -75,25 +75,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. [IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta)
+### 1. [IIM Calcutta (Indian Institute of Management)](/colleges/iim-calcutta/)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.07 LPA**
 - **Key Highlight:** World-class business school providing premium placements in marketing strategy and consulting.
 
-### 2. [Praxis Business School](/colleges/praxis-kolkata)
+### 2. [Praxis Business School](/colleges/praxis-kolkata/)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹13.50 LPA**
 - **Key Highlight:** Rigorous PGDM program with strong marketing and digital media specializations.
 
-### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))](/colleges/indian-institute-of-social-welfare-and-business-management)
+### 3. [IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))](/colleges/indian-institute-of-social-welfare-and-business-management)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first B-school, offering a highly respected MBA with digital marketing tracks.
 
-### 4. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata)
+### 4. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata/)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
@@ -110,9 +110,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -122,17 +122,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [IIM Calcutta](/colleges/iim-calcutta) highly prestigious for marketing?
-While famed for finance, [IIM Calcutta](/colleges/iim-calcutta) offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
+### Why is [IIM Calcutta](/colleges/iim-calcutta/) highly prestigious for marketing?
+While famed for finance, [IIM Calcutta](/colleges/iim-calcutta/) offers general PGP programs that place candidates in premium brand management and corporate strategy roles globally.
 
-### Why is [Praxis Business School](/colleges/praxis-kolkata) highly recommended for Marketing?
-[Praxis Business School](/colleges/praxis-kolkata) is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
+### Why is [Praxis Business School](/colleges/praxis-kolkata/) highly recommended for Marketing?
+[Praxis Business School](/colleges/praxis-kolkata/) is a pioneer in management education, offering highly practical training and industry connections that yield an average placement of around INR 13.50 LPA.
 
 ### What is the fee at IISWBM Kolkata?
 IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and historical brand recognition.
@@ -140,6 +140,6 @@ IISWBM offers high value with a total tuition fee of around INR 6.0 Lakhs and hi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

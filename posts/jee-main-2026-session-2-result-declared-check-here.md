@@ -79,15 +79,15 @@ The cutoff for JEE Advanced is determined based on the performance of all candid
 3.  **Explore Private Universities**: Many top-tier private universities like **BITSAT, VITEEE, and Manipal** have their own entrance exams or accept JEE Main scores for direct admission.
 
 ### **Useful Resources for Admissions**
-*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [Top B.Tech Colleges in India (NIRF Ranking)](/blog/top-btech-colleges-india-nirf-ranking-2026)
-*   [Direct Admission in B.Tech Without JEE Main 2026](/blog/btech-admission-without-jee-2026-all-options)
-*   [JEE Main 2026 Marks vs Percentile Analysis](/blog/jee-main-2026-session-2-marks-vs-percentile)
+*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
+*   [Top B.Tech Colleges in India (NIRF Ranking)](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+*   [Direct Admission in B.Tech Without JEE Main 2026](/blog/btech-admission-without-jee-2026-all-options/)
+*   [JEE Main 2026 Marks vs Percentile Analysis](/blog/jee-main-2026-session-2-marks-vs-percentile/)
 
 **Need Help with Counseling?**
 Choosing the right branch and college during JoSAA counseling can be tricky. Our expert counselors provide personalized guidance to help you secure the best possible seat based on your rank.
 
-[👉 Get Expert Counseling Guidance for NIT/IIIT Admissions!](/inquiry)
+[👉 Get Expert Counseling Guidance for NIT/IIIT Admissions!](/inquiry/)
 
 ---
 
@@ -109,6 +109,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

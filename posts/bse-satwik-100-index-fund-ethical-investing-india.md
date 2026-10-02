@@ -40,7 +40,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical index, the BSE Saatvik 100, its sect...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The Indian investment landscape is undergoing a massive shift. Beyond traditional metrics like P/E ratios and dividend yields, a new wave of value-based and ethical investing is gaining traction. The launch of the **BSE Saatvik 100 Index** (often searched by investors as the **BSE Satwik 100 Fund**) in June 2026 marks a milestone in this journey. 
@@ -75,7 +75,7 @@ While Western markets rely heavily on **ESG (Environmental, Social, and Governan
 | **Key Metric** | Carbon emissions, board diversity, resource waste. | Strict sector exclusions based on product morality and societal impact. |
 | **Goal** | Minimize corporate risk and promote sustainability. | Align investment with personal morals and clean living principles. |
 
-For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2027-29) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
+For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2027-29/) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
 
 ---
 
@@ -131,7 +131,7 @@ The top holdings in the BSE Saatvik index include India's largest and most stabl
 9. **Kotak Mahindra Bank Ltd.** (2.42%)
 10. **Mahindra & Mahindra Ltd.** (2.32%)
 
-For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2027-29)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
+For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2027-29/)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
 
 ---
 
@@ -158,7 +158,7 @@ Since the index has been officially launched, asset managers are expected to fil
 2. **Exchange-Traded Funds (ETFs):** Once listed on the NSE and BSE, you can buy and sell units of the BSE Saatvik 100 ETF directly using your Demat account, just like a regular stock.
 3. **Systematic Investment Plans (SIPs):** For long-term wealth creation, setting up a monthly SIP in a BSE Saatvik 100 Index Fund will be the most convenient and disciplined route.
 
-If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29), to boost your career earnings potential before starting your investment journey.
+If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/), to boost your career earnings potential before starting your investment journey.
 
 ---
 
@@ -174,6 +174,6 @@ As AMCs prepare to roll out official **BSE Satwik 100 Funds**, this index is set
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

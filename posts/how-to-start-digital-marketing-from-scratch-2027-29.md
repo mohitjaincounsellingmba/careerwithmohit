@@ -98,16 +98,16 @@ With a strong portfolio, you are now ready to apply for roles like *Digital Mark
 If you are looking to accelerate your journey and gain formal management credentials, pursuing a specialized post-graduate degree might be the right move. 
 
 **Helpful Resources to Accelerate Your Career:**
-*   [Direct Admission in MBA Digital Marketing Colleges (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2027-29)
-*   [How to Start Freelining in 2026: A Step-by-Step Guide](/blog/how-to-start-freelancing-2026-beginners-india)
-*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29)
+*   [Direct Admission in MBA Digital Marketing Colleges (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2027-29/)
+*   [How to Start Freelining in 2026: A Step-by-Step Guide](/blog/how-to-start-freelancing-2026-beginners-india/)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ### **Final Thoughts**
 Learning digital marketing is a marathon, not a sprint. The algorithms change constantly, so the most important skill you can develop is adaptability. Start executing immediately—launch that blog, run that ad, and start building your digital footprint today!
 
-[👉 Need Personalized Career Guidance? Contact Us Today!](/inquiry)
+[👉 Need Personalized Career Guidance? Contact Us Today!](/inquiry/)
 
 ---
 
@@ -129,6 +129,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

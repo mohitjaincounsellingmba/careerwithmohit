@@ -158,7 +158,7 @@ export function AcademicCalculatorsClient() {
               <p className="text-sm text-blue-700/80 mb-4 font-medium">
                 Are you confused about your next career step or college admission?
               </p>
-              <Link href="/inquiry" className="text-sm font-bold text-blue-600 hover:text-blue-800 flex items-center gap-1 group">
+              <Link href="/inquiry/" className="text-sm font-bold text-blue-600 hover:text-blue-800 flex items-center gap-1 group">
                 Book Free Counselling <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
               </Link>
             </div>

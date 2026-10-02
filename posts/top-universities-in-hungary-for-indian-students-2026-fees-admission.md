@@ -138,15 +138,15 @@ The Hungarian Government's flagship scholarship for international students:
 
 ## 📞 Expert Hungary Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [Top Universities in Poland for Indian Students 2026](/blog/top-universities-in-poland-for-indian-students-2026-fees-admission)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+- [Top Universities in Poland for Indian Students 2026](/blog/top-universities-in-poland-for-indian-students-2026-fees-admission/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 
 ---
 
@@ -168,6 +168,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

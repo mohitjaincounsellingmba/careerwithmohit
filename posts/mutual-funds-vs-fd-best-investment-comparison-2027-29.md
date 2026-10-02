@@ -37,7 +37,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Choosing between Mutual Funds and Fixed Deposits in 2026? Discover the key differences in ROI, tax efficiency,...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 For decades, the **Fixed Deposit (FD)** was the default investment choice for Indian families. It was safe, predictable, and simple. However, in 2026, with the inflation rate hovering between 5-6% and the new tax rules for debt investments, the question isn't just about safety—it's about **"Real Returns" (ROI minus Inflation).** 
@@ -108,16 +108,16 @@ Do **both**. Use FDs for your "Emergency Fund" (6 months of expenses) and SIPs f
 ---
 
 ### Useful Links:
-- [Stock Market for Beginners 2026 Guide](/blog/stock-market-investing-beginners-guide-2027-29)
-- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2027-29)
-- [Investment Banking Career Path 2026](/blog/investment-banking-career-path-salary-2027-29)
+- [Stock Market for Beginners 2026 Guide](/blog/stock-market-investing-beginners-guide-2027-29/)
+- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2027-29/)
+- [Investment Banking Career Path 2026](/blog/investment-banking-career-path-salary-2027-29/)
 
 ---
 
 **Make Your Savings Work for You.**
 Money sitting in a savings account or a low-interest FD is losing value every day. Don't waste your effort by picking sub-par assets. Mohit Jain provides a **"Yield Optimization Audit"**—helping you move from "Saving" to "Investing" by picking a mix of safe and growth assets that beat inflation consistently.
 
-[👉 Book My Wealth Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Wealth Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -125,6 +125,6 @@ Money sitting in a savings account or a low-interest FD is losing value every da
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

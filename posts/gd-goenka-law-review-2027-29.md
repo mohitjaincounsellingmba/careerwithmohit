@@ -41,14 +41,14 @@ category: BBA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-[GD Goenka University](/colleges/gd-goenka-gurgaon)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
+[GD Goenka University](/colleges/gd-goenka-gurgaon/)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
 
 In this **GD Goenka Law Review 2027–29**, we break down the costs, placement success, and the practical training environment provided to budding lawyers.
 
 ---
 
 ## ⚖️ GD Goenka School of Law: Overview
-Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-gurgaon) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
+Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-gurgaon/) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
 
 ### **Key Highlights**
 *   **Infrastructure:** A dedicated School of Law building with its own specialized law library and state-of-the-art Moot Courtrooms.
@@ -113,9 +113,9 @@ Selection is competitive and relies on national and internal assessment:
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026)
-*   [GD Goenka BBA Review 2027–29](/blog/gd-goenka-bba-review-2026)
-*   [Top Law Colleges in Delhi NCR 2026](/blog)
+*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026/)
+*   [GD Goenka BBA Review 2027–29](/blog/gd-goenka-bba-review-2026/)
+*   [Top Law Colleges in Delhi NCR 2026](/blog/)
 
 ---
 
@@ -123,7 +123,7 @@ Selection is competitive and relies on national and internal assessment:
 *   **GD Goenka vs. Amity:** Amity has a larger brand, but Goenka offers a more specialized, personalized student-to-faculty ratio in its School of Law.
 *   **GD Goenka vs. Bennett:** Both are premium; Bennett is stronger for "modern digital" law, while Goenka is great for core corporate and civil legal training.
 
-[👉 Apply to GD Goenka Law 2026](/inquiry) | [💬 Chat with an Expert for Law Admissions](/inquiry)
+[👉 Apply to GD Goenka Law 2026](/inquiry/) | [💬 Chat with an Expert for Law Admissions](/inquiry/)
 
 ---
 
@@ -145,6 +145,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

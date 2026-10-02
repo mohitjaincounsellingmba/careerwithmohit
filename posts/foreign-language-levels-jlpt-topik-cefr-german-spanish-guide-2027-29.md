@@ -101,7 +101,7 @@ German is the most spoken native language in the European Union and an essential
 | **C2** | 1,000+ hours | Native speaker equivalence | Court interpreter, German Literature Professor |
 
 * **Popular Employers:** Siemens, Bosch, BMW, Mercedes-Benz, SAP, Deutsche Bank.
-* **Internal Link:** Exploring higher education in Germany? Read our detailed guide on [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission).
+* **Internal Link:** Exploring higher education in Germany? Read our detailed guide on [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission/).
 
 ---
 
@@ -125,7 +125,7 @@ With over 500 million native speakers globally, Spanish is one of the easiest ma
 | **C2** | 900+ hours | Complete mastery of regional idioms & syntax | Official Translation & Legal Consultancy |
 
 * **Corporate Demand:** US-based MNCs, IT outsourcing hubs in India (Gurgaon, Bangalore, Hyderabad), international trade, and hospitality.
-* **Internal Link:** Planning to study in Spain? Check out the [Top Universities in Spain for Indian Students 2026](/blog/top-universities-in-spain-for-indian-students-2026-fees-admission).
+* **Internal Link:** Planning to study in Spain? Check out the [Top Universities in Spain for Indian Students 2026](/blog/top-universities-in-spain-for-indian-students-2026-fees-admission/).
 
 ---
 
@@ -184,7 +184,7 @@ French is an official language in 29 countries and remains a major asset for int
 ### Key French Milestones:
 * **B2 Level (DELF B2):** Required for direct entry into public universities in France without taking separate language tests.
 * **NCLC Level 7+ (TEF/TCF):** Unlocks up to 50 additional bonus points for Canadian PR applications under bilingual skills.
-* **Internal Link:** Planning higher education in France? Read our complete breakdown on [Top Universities in France for Indian Students 2026](/blog/top-universities-in-france-for-indian-students-2026-fees-admission).
+* **Internal Link:** Planning higher education in France? Read our complete breakdown on [Top Universities in France for Indian Students 2026](/blog/top-universities-in-france-for-indian-students-2026-fees-admission/).
 
 ---
 
@@ -219,16 +219,16 @@ While basic entry roles sometimes accept **JLPT N3**, most IT, engineering, and 
 
 Need personalized guidance on choosing the right study abroad destination, language certification requirements, or SOP preparation? Our experts are here to help.
 
-[👉 Book a Free Study & Career Consultation](/inquiry) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
+[👉 Book a Free Study & Career Consultation](/inquiry/) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
 
 ---
 
 ### 📚 Related Guides & Resources
-* [Study Abroad Exams 2026: Complete Guide to SAT, IELTS, TOEFL & GRE](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-* [All About Duolingo English Test (DET) 2026](/blog/all-about-duolingo-english-test-2026)
-* [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission)
-* [Top Universities in Spain for Indian Students 2026](/blog/top-universities-in-spain-for-indian-students-2026-fees-admission)
-* [Top Universities in France for Indian Students 2026](/blog/top-universities-in-france-for-indian-students-2026-fees-admission)
+* [Study Abroad Exams 2026: Complete Guide to SAT, IELTS, TOEFL & GRE](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+* [All About Duolingo English Test (DET) 2026](/blog/all-about-duolingo-english-test-2026/)
+* [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission/)
+* [Top Universities in Spain for Indian Students 2026](/blog/top-universities-in-spain-for-indian-students-2026-fees-admission/)
+* [Top Universities in France for Indian Students 2026](/blog/top-universities-in-france-for-indian-students-2026-fees-admission/)
 
 ---
 
@@ -236,6 +236,6 @@ Need personalized guidance on choosing the right study abroad destination, langu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -57,7 +57,7 @@ location: Mithapur
 state: Patna
 ---
 
-# [Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+# [Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.
@@ -66,19 +66,19 @@ state: Patna
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When evaluating premier business schools and universities for management education in India, **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** consistently stands out as a high-value institution in **Mithapur, Patna, Bihar**. With established corporate credentials, a strong alumni base, and distinguished accreditation (NIRF Top 100 B-School in India · NBA & AIU Equivalent), the institution attracts ambitious management aspirants from across the country.
+When evaluating premier business schools and universities for management education in India, **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)** consistently stands out as a high-value institution in **Mithapur, Patna, Bihar**. With established corporate credentials, a strong alumni base, and distinguished accreditation (NIRF Top 100 B-School in India · NBA & AIU Equivalent), the institution attracts ambitious management aspirants from across the country.
 
-Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
+Selecting the right B-school requires careful evaluation of audited tuition fees, real ground-level median packages, student ROI, and entrance exam cutoffs. In this in-depth **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/) review for 2027 admissions**, we break down everything you need to know: **audited placement records, revised 2027–2029 fees, entrance cutoffs, specializations, peer ROI comparison, and an honest verdict**.
 
 ---
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Update)
 
-Here is a consolidated overview of **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)**:
+Here is a consolidated overview of **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)**:
 
 | Parameter | Official Verified Details |
 | :--- | :--- |
-| **Institution Name** | **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** |
+| **Institution Name** | **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)** |
 | **Campus Location** | Mithapur, Patna, Bihar |
 | **Year Established** | 2008 |
 | **Institution Type & Ownership** | Government Autonomous (Govt. of Bihar Supported) |
@@ -95,7 +95,7 @@ Here is a consolidated overview of **[Chandragupt Institute of Management Patna 
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of Management Patna](/colleges/cimp-patna/) (CIMP)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.
@@ -107,7 +107,7 @@ Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of
 
 ## 3. Entrance Cutoff & Admission Selection Process 2027
 
-Admissions to **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** follow a multi-stage profile-cum-merit evaluation process:
+Admissions to **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)** follow a multi-stage profile-cum-merit evaluation process:
 
 ### 1. Entrance Exam Score Shortlisting
 Candidates must appear for accepted entrance tests (CAT / XAT / CMAT). Shortlisting is conducted based on overall percentiles along with sectional cutoff criteria where applicable.
@@ -128,7 +128,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Chandragupt Institute of Management Patna](/colleges/cimp-patna/) (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.80 LPA**
@@ -143,7 +143,7 @@ Graduates regularly secure roles in strategy, financial analysis, product manage
 
 ## 5. Key Programs & Curriculum Specializations
 
-The academic structure at **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
+The academic structure at **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)** blends case-method learning, industry guest lectures, live corporate consulting projects, and mandatory summer internships.
 
 ### Popular Specialization Tracks:
 - **PGDM (AICTE Approved)**: Rigorous curriculum designed in collaboration with corporate industry advisory boards.
@@ -157,11 +157,11 @@ The academic structure at **[Chandragupt Institute of Management Patna (CIMP)](/
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)** compares against peer business schools in its category:
+Here is how **[Chandragupt Institute of Management Patna](/colleges/cimp-patna/) (CIMP)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |
-| **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)** | **₹8.65 Lakhs (Total)** | **₹7.80 LPA** | **Balanced ROI with strong regional corporate connections** |
+| **[Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/)** | **₹8.65 Lakhs (Total)** | **₹7.80 LPA** | **Balanced ROI with strong regional corporate connections** |
 | **Tier-2 Benchmark B-Schools** | ₹14.0L – ₹18.0L | ₹10.5L – ₹13.0L | Strong corporate placement track records in metro cities |
 | **Top State University B-Schools** | ₹2.5L – ₹6.0L | ₹7.0L – ₹10.0L | Ultra-high ROI with subsidized tuition structures |
 
@@ -209,13 +209,13 @@ You can book a personalized 1-on-1 guidance session with expert career counselor
 
 Selecting the right MBA/PGDM college requires personalized profile evaluation. Schedule a direct video consultation with **Mohit Jain** to evaluate your call chances, scholarship opportunities, and compare top B-schools.
 
-👉 **[Book a 1-on-1 Video MBA Counselling Session](/book-session)**  
-👉 **[Explore All Colleges in India](/colleges)**
+👉 **[Book a 1-on-1 Video MBA Counselling Session](/book-session/)**  
+👉 **[Explore All Colleges in India](/colleges/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

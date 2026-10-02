@@ -118,16 +118,16 @@ Since these seats are limited, start your preparation at least **8-12 months** b
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 — NIMCET Rankings](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [How to Crack MAH MCA CET 2026](/blog/mah-mca-cet-2026-exam-strategy-guide)
-- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29)
+- [Top MCA Colleges in India 2026 — NIMCET Rankings](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [How to Crack MAH MCA CET 2026](/blog/mah-mca-cet-2026-exam-strategy-guide/)
+- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29/)
 
 ---
 
 **Don't Let Your Budget Limit Your Ambition.**
 A high-end tech career doesn't require a ₹10 Lakh loan. Don't waste your money on marketing hype. Mohit Jain provides an "ROI Audit"—helping you identify the government and subsidized seats that provide a Tier-1 career at a Tier-3 price.
 
-[👉 Book My High ROI MCA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My High ROI MCA Consultation](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -135,6 +135,6 @@ A high-end tech career doesn't require a ₹10 Lakh loan. Don't waste your money
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

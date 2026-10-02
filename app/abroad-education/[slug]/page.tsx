@@ -193,7 +193,7 @@ export default async function CollegePage({ params }: Props) {
       {/* HERO SECTION */}
       <section className="bg-[#0f172a] py-20 px-6 relative overflow-hidden">
         <div className="max-w-4xl mx-auto relative z-10">
-          <Link href="/abroad-education" className="text-gray-400 hover:text-white text-sm font-bold flex items-center gap-2 mb-8 transition-colors">
+          <Link href="/abroad-education/" className="text-gray-400 hover:text-white text-sm font-bold flex items-center gap-2 mb-8 transition-colors">
             ← Back to All Universities
           </Link>
           <div className="flex flex-wrap items-center gap-3 mb-6">

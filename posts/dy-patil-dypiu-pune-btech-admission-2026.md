@@ -88,14 +88,14 @@ DYPIU has a strong placement division that focuses on grooming students for prod
 *   **Akurdi Campus**: Centrally located in Pune's industrial hub, providing easy access to internships.
 
 Explore other engineering options in Pune:
-*   **[MIT-WPU Pune: B.Tech Admission Guide](/blog/mit-wpu-pune-btech-admission-2026-fees-review)**
-*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[MIT-WPU Pune: B.Tech Admission Guide](/blog/mit-wpu-pune-btech-admission-2026-fees-review/)**
+*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026/)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)**
 
 **Need Help with your DYPIU Interview?**
 Unlike traditional engineering colleges, DYPIU uses a **Personal Interaction (PI)** round for final selection. Our experts at **CareerWithMohit** provide mock interview prep and profile-building strategies to help you secure your seat.
 
-[👉 Get Expert Admission Guidance for DYPIU!](/inquiry)
+[👉 Get Expert Admission Guidance for DYPIU!](/inquiry/)
 
 ---
 
@@ -117,6 +117,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

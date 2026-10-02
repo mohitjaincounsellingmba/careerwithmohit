@@ -317,7 +317,7 @@ export default function MbaApplicationFormDiscountPage() {
             <nav className="flex items-center gap-2 font-mono text-xs text-slate-400 mb-6 font-medium">
               <Link href="/" className="hover:text-white transition-colors">Home</Link>
               <span>/</span>
-              <Link href="/mba-pgdm-admission-2027" className="hover:text-white transition-colors">MBA &amp; PGDM 2027</Link>
+              <Link href="/mba-pgdm-admission-2027/" className="hover:text-white transition-colors">MBA &amp; PGDM 2027</Link>
               <span>/</span>
               <span className="text-[#00FF88] font-bold">Application Form Discounts</span>
             </nav>
@@ -775,7 +775,7 @@ export default function MbaApplicationFormDiscountPage() {
                 <span>Chat on WhatsApp</span>
               </a>
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="px-5 py-2.5 bg-white/10 hover:bg-white/20 text-white font-display font-bold text-xs rounded-xl border border-white/15 flex items-center justify-center gap-1.5 transition-all text-center"
               >
                 <span>Book 1-on-1 Call</span>
@@ -817,7 +817,7 @@ export default function MbaApplicationFormDiscountPage() {
                 <span>WhatsApp Mentor Desk</span>
               </a>
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="w-full sm:w-auto rounded-full bg-[#F59E0B] hover:bg-[#d97706] active:scale-95 text-[#061124] px-7 py-3.5 font-display font-extrabold text-sm sm:text-base transition-all shadow-lg shadow-amber-950/20 flex items-center justify-center gap-2 text-center cursor-pointer"
               >
                 <span>Book Free 1-on-1 Call</span>

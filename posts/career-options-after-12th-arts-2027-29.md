@@ -47,7 +47,7 @@ Whether you are interested in creative storytelling, legal advocacy, or social s
 Many students are surprised to learn that BBA is an excellent choice for arts students. It bridges the gap between creativity and business logic.
 *   **Specializations:** Marketing, HR, International Business.
 *   **Top Colleges:** IIMs (IPM Program), Symbiosis, Christ University.
-*   **Internal Link:** Check out the [Top BBA Colleges in Delhi NCR](/blog/top-bba-colleges-delhi-ncr-2026) to start your management journey.
+*   **Internal Link:** Check out the [Top BBA Colleges in Delhi NCR](/blog/top-bba-colleges-delhi-ncr-2026/) to start your management journey.
 
 #### **Hotel Management (BHM)**
 The hospitality sector is booming in 2026 with international tourism reaching new heights.
@@ -62,7 +62,7 @@ The hospitality sector is booming in 2026 with international tourism reaching ne
 A prestigious 5-year integrated program that saves 1 year compared to traditional LLB.
 *   **Entrance Exams:** CLAT, AILET, LSAT India.
 *   **Career Paths:** Corporate Lawyer, Legal Consultant, Judicial Services.
-*   **Internal Link:** View the [Top Law Colleges in Delhi NCR](/blog).
+*   **Internal Link:** View the [Top Law Colleges in Delhi NCR](/blog/).
 
 #### **Civil Services (UPSC)**
 Many arts students aim for the UPSC (IAS, IPS, IFS) because subjects like History, Polity, and Economics provide a strong foundation for the exam.
@@ -80,7 +80,7 @@ For students with a strong visual and creative sense.
 #### **Digital Marketing & Content Creation**
 The internet has opened up vast opportunities for those who can connect with audiences through words, videos, or strategy.
 *   **Roles:** SEO Expert, Social Media Strategist, Content Manager.
-*   **Internal Link:** Refer to our [Digital Marketing Roadmap](/blog/career-roadmaps-2027-29) for more insights.
+*   **Internal Link:** Refer to our [Digital Marketing Roadmap](/blog/career-roadmaps-2027-29/) for more insights.
 
 #### **Journalism & Mass Communication (BJMC)**
 If you are passionate about news, storytelling, and media production.
@@ -109,7 +109,7 @@ If you are passionate about news, storytelling, and media production.
 ### Final Thoughts
 Your success in the arts stream depends on your ability to communicate, think critically, and adapt to new digital tools. The possibilities are endless in 2026.
 
-**Confused about which course is right for you?** Drop a message for a [personalized career counselling session](/inquiry)!
+**Confused about which course is right for you?** Drop a message for a [personalized career counselling session](/inquiry/)!
 
 ---
 
@@ -130,6 +130,6 @@ Yes, arts students can excel as UI-UX Designers, Technical Writers, or Digital M
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

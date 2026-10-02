@@ -54,7 +54,7 @@ Pursuing an MBA remains the most popular and rewarding path after a BBA. An MBA 
 *   **Average Salary post-MBA:** ₹12 LPA – ₹25+ LPA (depending on the college ranking).
 *   **Preparation Strategy:** Start preparing for entrance exams like CAT, XAT, NMAT, or SNAP early on.
 
-*Related Guide:* [MBA vs PGDM 2026: Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide)
+*Related Guide:* [MBA vs PGDM 2026: Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
@@ -73,7 +73,7 @@ If you aren’t ready for a 2-year master's degree but want to increase your emp
 *   **Digital Marketing:** SEO, SEM, content strategy, and performance marketing are crucial for modern businesses. 
 *   **Average Starting Salary:** ₹4 LPA – ₹7 LPA (with rapid growth).
 
-*Read more:* [Guide to BBA Specializations & Skills](/blog/bba-specializations-skills-salary-2026-guide)
+*Read more:* [Guide to BBA Specializations & Skills](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 
@@ -120,14 +120,14 @@ The choice depends entirely on your long-term career goals:
 
 **Still confused about your career path after BBA?**
 Let us help you map out your journey! 
-[👉 Talk to our experts for a personalized Career Roadmap!](/inquiry)
+[👉 Talk to our experts for a personalized Career Roadmap!](/inquiry/)
 
 ---
 
 ### Related Links:
-*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-*   [Top MBA/PGDM Colleges under 10 Lakhs in Delhi NCR](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-*   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech)
+*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+*   [Top MBA/PGDM Colleges under 10 Lakhs in Delhi NCR](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
+*   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech/)
 
 ---
 
@@ -149,6 +149,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

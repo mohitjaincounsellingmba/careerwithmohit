@@ -8,7 +8,7 @@ description: >-
 keywords:
   - MBA colleges under 10 lakhs in Pune
   - PGDM direct admission Pune 2027–29
-  - '[RIIM Pune](/colleges/riim-pune) placement'
+  - '[RIIM Pune](/colleges/riim-pune/) placement'
   - Indira Institute of Management fees
   - PIBM direct admission
   - management quota MBA Pune
@@ -25,7 +25,7 @@ faqs:
       integration under 10 Lakhs, autonomous PGDM programs (like Lexicon or
       PIBM) often outperform university-affiliated MBAs.
   - question: Do direct admission students face discrimination during placements?
-    answer: "Absolutely not. Companies recruit based on skills, communication, and aptitude. Your entry ticket (merit vs. management quota) is irrelevant in the interview room.\n\n**Explore More Insights:**\n*   [\U0001F449 Which MBA specializations offer the highest salary?](/blog)\n*   [\U0001F449 Stuck configuring your target colleges? Get a 1-on-1 Strategy Session!](/inquiry)\n\n*At **CareerWithMohit**, we break down the real ROI of Pune colleges so you don't overpay for an average degree.*"
+    answer: "Absolutely not. Companies recruit based on skills, communication, and aptitude. Your entry ticket (merit vs. management quota) is irrelevant in the interview room.\n\n**Explore More Insights:**\n*   [\U0001F449 Which MBA specializations offer the highest salary?](/blog/)\n*   [\U0001F449 Stuck configuring your target colleges? Get a 1-on-1 Strategy Session!](/inquiry/)\n\n*At **CareerWithMohit**, we break down the real ROI of Pune colleges so you don't overpay for an average degree.*"
 location: Pune
 state: Maharashtra
 category: Certifications & Skills
@@ -38,7 +38,7 @@ If you don't have a top score in CAT or MAH-MBA CET, there are still excellent B
 Here are the **top MBA/PGDM colleges in Pune under ₹10 Lakhs** for the 2027–29 admission cycle.
 
 ### **1. RIIM (Ramachandran International Institute of Management)**
-[RIIM Pune](/colleges/riim-pune) is widely popular among students looking for highly affordable MBA + Employability programs.
+[RIIM Pune](/colleges/riim-pune/) is widely popular among students looking for highly affordable MBA + Employability programs.
 *   **Total Fees (Approx.)**: ₹5.50 - ₹6.50 Lakhs
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
 *   **Why Choose**: High ROI, intensive corporate grooming, and certifications like SAP, Digital Marketing, and Business Analytics included.
@@ -60,7 +60,7 @@ The Indira Group is an absolute giant in Pune's management education scene, offe
 *   **Why Choose**: Tremendous brand value in Maharashtra, top-tier recruiters like Deloitte, HDFC, and TCS, excellent campus life.
 *   **Admission Mode**: Institute-level seats available for direct admission/management quota.
 
-### **3. [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE)**
+### **3. [Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence/) (Lexicon MILE)**
 Lexicon MILE has gained massive popularity for its global approach to PGDM and dual-degree programs.
 *   **Total Fees (Approx.)**: ₹8.50 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹8.5 LPA
@@ -89,8 +89,8 @@ If you are aiming for a dynamic, updated curriculum with heavy corporate integra
 Absolutely not. Companies recruit based on skills, communication, and aptitude. Your entry ticket (merit vs. management quota) is irrelevant in the interview room.
 
 **Explore More Insights:**
-*   [👉 Which MBA specializations offer the highest salary?](/blog)
-*   [👉 Stuck configuring your target colleges? Get a 1-on-1 Strategy Session!](/inquiry)
+*   [👉 Which MBA specializations offer the highest salary?](/blog/)
+*   [👉 Stuck configuring your target colleges? Get a 1-on-1 Strategy Session!](/inquiry/)
 
 *At **CareerWithMohit**, we break down the real ROI of Pune colleges so you don't overpay for an average degree.*
 
@@ -100,7 +100,7 @@ Absolutely not. Companies recruit based on skills, communication, and aptitude. 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -114,6 +114,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

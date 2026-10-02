@@ -79,20 +79,20 @@ Yes, Alliance University typically has a professional dress code for its managem
 Yes, due to its international accreditations and UGC recognition, the BBA degree from Alliance is widely accepted for higher studies and jobs globally.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
-- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
+- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Dreaming of an International Career?**
 Alliance is the only BBA college in Bangalore with multiple international accreditations. Mohit Jain’s "Global Career Audit" helps you decide if Alliance is the right launchpad for your Masters in the USA or UK.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -43,7 +43,7 @@ If you have missed an entrance deadline or need a guaranteed seat in a premium B
 
 | Institute | Popular Program | Direct Seat Type | Average Package |
 | :--- | :--- | :--- | :--- |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | MSc Finance / MMS | Institutional Level | ₹28.02 LPA |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | MSc Finance / MMS | Institutional Level | ₹28.02 LPA |
 | **SIMREE Mumbai** | MMS / PGDM | Institute Level | ₹15.19 LPA |
 | **ITM Navi Mumbai** | PGDM iConnect | Mgmt Quota / Merit | ₹8.65 LPA |
 | **SIES Navi Mumbai** | PGDM | Institutional Seats | ₹9.10 LPA |
@@ -81,21 +81,21 @@ Management quota seats are reserved by the institute for direct admissions. Thes
 Focus on colleges in **Navi Mumbai** and **Andheri**—these hubs have the highest concentration of MNCs, leading to better internship opportunities and final placements.
 
 ### Related Reading:
-- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
-- [How to Recover College Fee Refund: Legal Action](/blog/how-to-recover-college-fee-refund-legal-action)
-- [Career Roadmaps 2026](/blog/career-roadmaps-2027-29)
+- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
+- [How to Recover College Fee Refund: Legal Action](/blog/how-to-recover-college-fee-refund-legal-action/)
+- [Career Roadmaps 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
 **Confused about the Mumbai Admission Maze?**
-[👉 Get Personalized Mumbai Guidance Now](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
+[👉 Get Personalized Mumbai Guidance Now](/inquiry/) | [💬 WhatsApp Support](https://wa.me/919560020771)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -110,6 +110,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

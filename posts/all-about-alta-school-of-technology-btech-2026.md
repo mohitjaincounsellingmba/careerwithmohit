@@ -55,7 +55,7 @@ Here is a comprehensive breakdown of everything you need to know about Alta Scho
 > 
 > Get expert career counseling, explore scholarships, and secure your seat.
 >
-> [👉 Connect with Our Admission Experts & Apply Now](/inquiry)
+> [👉 Connect with Our Admission Experts & Apply Now](/inquiry/)
 
 ---
 
@@ -140,14 +140,14 @@ Securing admission to the B.Tech program at Alta School of Technology involves a
 
 ---
 
-[👉 Still confused about which partner university campus is right for you? Connect with our career advisors for a free session!](/inquiry)
+[👉 Still confused about which partner university campus is right for you? Connect with our career advisors for a free session!](/inquiry/)
 
 ---
 
 *Related Posts:*
-- [B.Tech Admission Without JEE 2026: Direct Admission Guide](/blog/btech-admission-without-jee-2026-all-options)
-- [Best B.Tech CSE Colleges in Delhi NCR: Direct Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-- [Best B.Tech Colleges with Placements in India 2026](/blog/best-btech-colleges-placements-india-2026)
+- [B.Tech Admission Without JEE 2026: Direct Admission Guide](/blog/btech-admission-without-jee-2026-all-options/)
+- [Best B.Tech CSE Colleges in Delhi NCR: Direct Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+- [Best B.Tech Colleges with Placements in India 2026](/blog/best-btech-colleges-placements-india-2026/)
 
 ---
 
@@ -165,6 +165,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -311,7 +311,7 @@ export default function MockTestHubPage() {
                   Translate your raw mock test scores into estimated percentiles and discover your realistic IIM and top college call chances.
                 </p>
                 <Link
-                  href="/tools/cat-score-calculator"
+                  href="/tools/cat-score-calculator/"
                   className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-blue-400 hover:text-blue-300 pt-2"
                 >
                   Explore CAT Score Calculator <ArrowRight className="w-3.5 h-3.5" />
@@ -327,7 +327,7 @@ export default function MockTestHubPage() {
                   Our testing software replicates official exam user interfaces to help you master time management and eliminate exam-day anxiety.
                 </p>
                 <Link
-                  href="/inquiry"
+                  href="/inquiry/"
                   className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-emerald-400 hover:text-emerald-300 pt-2"
                 >
                   Get 1-on-1 Exam Guidance <ArrowRight className="w-3.5 h-3.5" />
@@ -349,7 +349,7 @@ export default function MockTestHubPage() {
                   </h2>
                 </div>
                 <Link
-                  href="/blog"
+                  href="/blog/"
                   className="text-xs font-bold text-slate-600 hover:text-slate-950 flex items-center gap-1.5 self-start sm:self-auto"
                 >
                   View All Guides ({mockTestBlogs.length}) <ArrowRight className="w-3.5 h-3.5" />
@@ -409,27 +409,27 @@ export default function MockTestHubPage() {
                 </h3>
                 <ul className="space-y-2 text-xs font-semibold text-slate-600">
                   <li>
-                    <Link href="/tools/cat-mock-test" className="hover:text-amber-700 transition-colors">
+                    <Link href="/tools/cat-mock-test/" className="hover:text-amber-700 transition-colors">
                       → Free CAT mock test 2026 with sectional timer
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/nmat-mock-test" className="hover:text-amber-700 transition-colors">
+                    <Link href="/tools/nmat-mock-test/" className="hover:text-amber-700 transition-colors">
                       → NMIMS NMAT adaptive practice paper
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/xat" className="hover:text-amber-700 transition-colors">
+                    <Link href="/tools/mock-test/xat/" className="hover:text-amber-700 transition-colors">
                       → XAT Decision Making &amp; QA-DI mock test
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/snap" className="hover:text-amber-700 transition-colors">
+                    <Link href="/tools/mock-test/snap/" className="hover:text-amber-700 transition-colors">
                       → SNAP SIBM Pune 60-minute test series
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mhcet-mock-test" className="hover:text-amber-700 transition-colors">
+                    <Link href="/tools/mhcet-mock-test/" className="hover:text-amber-700 transition-colors">
                       → MAH MBA CET 200-question speed practice
                     </Link>
                   </li>
@@ -442,27 +442,27 @@ export default function MockTestHubPage() {
                 </h3>
                 <ul className="space-y-2 text-xs font-semibold text-slate-600">
                   <li>
-                    <Link href="/tools/jee-main-mock-test" className="hover:text-blue-700 transition-colors">
+                    <Link href="/tools/jee-main-mock-test/" className="hover:text-blue-700 transition-colors">
                       → IIT JEE Main 300-mark full test series
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/jee-advanced-mock-test" className="hover:text-blue-700 transition-colors">
+                    <Link href="/tools/jee-advanced-mock-test/" className="hover:text-blue-700 transition-colors">
                       → JEE Advanced partial marking simulation
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/bitsat-mock-test" className="hover:text-blue-700 transition-colors">
+                    <Link href="/tools/bitsat-mock-test/" className="hover:text-blue-700 transition-colors">
                       → BITSAT 130-question test with bonus questions
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/neet" className="hover:text-blue-700 transition-colors">
+                    <Link href="/tools/mock-test/neet/" className="hover:text-blue-700 transition-colors">
                       → NEET UG NCERT biology physics chemistry mock
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/viteee" className="hover:text-blue-700 transition-colors">
+                    <Link href="/tools/mock-test/viteee/" className="hover:text-blue-700 transition-colors">
                       → VITEEE Vellore entrance mock test
                     </Link>
                   </li>
@@ -475,27 +475,27 @@ export default function MockTestHubPage() {
                 </h3>
                 <ul className="space-y-2 text-xs font-semibold text-slate-600">
                   <li>
-                    <Link href="/tools/mock-test/ielts" className="hover:text-purple-700 transition-colors">
+                    <Link href="/tools/mock-test/ielts/" className="hover:text-purple-700 transition-colors">
                       → IELTS Academic complete 4-module test
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/sat" className="hover:text-purple-700 transition-colors">
+                    <Link href="/tools/mock-test/sat/" className="hover:text-purple-700 transition-colors">
                       → Digital SAT reading and math adaptive mock
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/gre" className="hover:text-purple-700 transition-colors">
+                    <Link href="/tools/mock-test/gre/" className="hover:text-purple-700 transition-colors">
                       → GRE General shorter format practice test
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/duolingo" className="hover:text-purple-700 transition-colors">
+                    <Link href="/tools/mock-test/duolingo/" className="hover:text-purple-700 transition-colors">
                       → Duolingo English test online practice
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tools/mock-test/clat" className="hover:text-purple-700 transition-colors">
+                    <Link href="/tools/mock-test/clat/" className="hover:text-purple-700 transition-colors">
                       → CLAT passage-based legal reasoning mock
                     </Link>
                   </li>
@@ -595,7 +595,7 @@ export default function MockTestHubPage() {
               </p>
             </div>
             <Link
-              href="/inquiry"
+              href="/inquiry/"
               className="bg-slate-950 hover:bg-slate-900 text-white font-bold px-8 py-4 rounded-2xl shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider shrink-0 text-center"
             >
               Book Free Strategy Session →

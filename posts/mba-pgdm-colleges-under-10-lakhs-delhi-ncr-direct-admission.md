@@ -32,7 +32,7 @@ faqs:
       applying through Management Quota, the institute might require a standard
       donation processing, though AICTE regulates this.
   - question: Are placements the same for direct admission students?
-    answer: "Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)\n*   [\U0001F449 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)\n\n*At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*"
+    answer: "Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n*   [\U0001F449 Need Guidance? Book a Free Admission Strategy Call!](/inquiry/)\n\n*At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*"
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
@@ -43,7 +43,7 @@ With the soaring costs of management education, finding a B-school that offers a
 Here is a curated list of the **top MBA and PGDM colleges in Delhi NCR with a fee structure under ₹10 Lakhs** that offer direct admission for the 2027–29 batch.
 
 ### **1. JIMS (Kalkaji & Rohini)**
-[Jagannath International Management School](/colleges/jims-kalkaji) (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
+[Jagannath International Management School](/colleges/jims-kalkaji/) (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
 *   **Total Fees (Approx.)**: ₹9.00 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: High academic rigor, robust alumni network, and specialization in International Business and Retail.
@@ -95,8 +95,8 @@ For profile-based direct admission, the fees remain the same. However, if applyi
 Yes. Once you are part of the program, placements are entirely driven by your skills and academic performance during the MBA/PGDM. Keep in mind that securing direct admission guarantees a seat, not a placement.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
-*   [👉 Need Guidance? Book a Free Admission Strategy Call!](/inquiry)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Need Guidance? Book a Free Admission Strategy Call!](/inquiry/)
 
 *At **CareerWithMohit**, we evaluate your profile carefully to help you crack the best B-school in Delhi NCR without getting trapped by misleading consultants.*
 
@@ -106,7 +106,7 @@ Yes. Once you are part of the program, placements are entirely driven by your sk
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -120,6 +120,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -170,10 +170,10 @@ When smartwatches began disrupting classic quartz wristwatches, Titan did not pa
 
 ## 💡 Related Strategic Case Studies & Articles
 
-*   [Amul Cooperative Model: Cold-Chain Logistics & Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain)
-*   [Zara & Inditex JIT Production & Agile Supply Chain Model](/blog/zara-inditex-jit-production-agile-supply-chain)
-*   [Mumbai Dabbawalas: Six Sigma Operations & Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [10 Proven Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [Amul Cooperative Model: Cold-Chain Logistics & Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain/)
+*   [Zara & Inditex JIT Production & Agile Supply Chain Model](/blog/zara-inditex-jit-production-agile-supply-chain/)
+*   [Mumbai Dabbawalas: Six Sigma Operations & Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system/)
+*   [10 Proven Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
@@ -192,7 +192,7 @@ Titan operates across four main business segments: Watches & Wearables, Jewelry 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 
 ---

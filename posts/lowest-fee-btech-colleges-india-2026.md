@@ -141,7 +141,7 @@ Even at private colleges, scholarships can dramatically reduce fees:
 | Jio (Reliance) Scholarship | ₹2 L coverage | DAIICT, engineering selected colleges |
 | Education Loan | 8.5–10% interest (secured) | Any AICTE-approved college |
 
-[Read: Education Loan Guide for B.Tech Students 2026](/blog/education-loan-guide-mba-btech)
+[Read: Education Loan Guide for B.Tech Students 2026](/blog/education-loan-guide-mba-btech/)
 
 ---
 
@@ -181,15 +181,15 @@ Yes. SC/ST students at government colleges receive full fee waivers funded by st
 
 ## Useful Resources
 
-- [Education Loan Guide for B.Tech & MBA](/blog/education-loan-guide-mba-btech)
-- [B.Tech Admission Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options)
-- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [Education Loan Guide for B.Tech & MBA](/blog/education-loan-guide-mba-btech/)
+- [B.Tech Admission Without JEE 2026 — All Options](/blog/btech-admission-without-jee-2026-all-options/)
+- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Need help finding the best affordable B.Tech option for your budget? Get FREE expert counselling with Mohit!](/inquiry)**
+**[👉 Need help finding the best affordable B.Tech option for your budget? Get FREE expert counselling with Mohit!](/inquiry/)**
 
 
 
@@ -197,6 +197,6 @@ Yes. SC/ST students at government colleges receive full fee waivers funded by st
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

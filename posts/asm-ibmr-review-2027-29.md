@@ -2,16 +2,16 @@
 title: 'ASM IBMR Pune Review 2027–29: Legacy & Placements'
 date: '2026-03-14'
 description: >-
-  Is [ASM IBMR](/colleges/asm-ibmr) good for MBA? Read our 2027–29 review on
-  placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr)
+  Is [ASM IBMR](/colleges/asm-ibmr/) good for MBA? Read our 2027–29 review on
+  placements, fees, and the industrial legacy of [ASM IBMR](/colleges/asm-ibmr/)
   Pune.
 keywords:
-  - '[ASM IBMR](/colleges/asm-ibmr) Pune review 2027–29'
-  - '[ASM IBMR](/colleges/asm-ibmr) placements'
-  - '[ASM IBMR](/colleges/asm-ibmr) fees'
-  - '[ASM IBMR](/colleges/asm-ibmr) Pune reviews'
+  - '[ASM IBMR](/colleges/asm-ibmr/) Pune review 2027–29'
+  - '[ASM IBMR](/colleges/asm-ibmr/) placements'
+  - '[ASM IBMR](/colleges/asm-ibmr/) fees'
+  - '[ASM IBMR](/colleges/asm-ibmr/) Pune reviews'
   - best management college in Chinchwad
-  - '[ASM IBMR](/colleges/asm-ibmr) average package 2025'
+  - '[ASM IBMR](/colleges/asm-ibmr/) average package 2025'
   - Pune Colleges
   - Best Colleges in Pune
   - Top Colleges in Pune 2026
@@ -58,7 +58,7 @@ ASM's Institute of Business Management & Research (IBMR) is one of the oldest ma
 ### **Fee Structure:**
 The total fee is **₹8.25 Lakhs** for PGDM and around **₹4.80 Lakhs** for MBA. It's a solid choice for students looking for a stable, legacy-backed education.
 
-[👉 Secure your seat at [ASM IBMR](/colleges/asm-ibmr) Pune today!](/inquiry)
+[👉 Secure your seat at [ASM IBMR](/colleges/asm-ibmr/) Pune today!](/inquiry)
 
 ---
 
@@ -80,7 +80,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -94,6 +94,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

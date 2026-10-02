@@ -29,9 +29,9 @@ faqs:
     answer: >-
       Top colleges in Pune include **PUMBA, Indira Institute of Management, and
       COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs
-      here.](/colleges/mba-colleges-pune)
+      here.](/colleges/mba-colleges-pune/)
   - question: Can I get a scholarship for MBA via MAH CET?
-    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)"
+    answer: "Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.\n\n[\U0001F449 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test/)\n\n[\U0001F449 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -42,7 +42,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
+The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
 
 Here is the complete overview of the MAH MBA CET exam for 2027–29 admissions:
 
@@ -85,7 +85,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 - **JBIMS (Jamnalal Bajaj), Mumbai:** 99.99 Percentile (Score: ~145+ out of 200)
 - **SIMSREE (Sydenham), Mumbai:** 99.95 Percentile (Score: ~135+ out of 200)
-- **Welingkar & [PUMBA Pune](/colleges/pumba-pune):** 99.50+ Percentile (Score: ~125+ out of 200)
+- **Welingkar & [PUMBA Pune](/colleges/pumba-pune/):** 99.50+ Percentile (Score: ~125+ out of 200)
 - **Chetana's, MET, SIES (Mumbai):** 98.00+ to 99.00+ Percentile
 - **Tier-2 Pune/Mumbai Colleges:** 90.00+ Percentile
 
@@ -93,7 +93,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 The Centralised Admission Process (CAP) manages counselling for nearly 300+ institutes across Maharashtra.
 
-- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Welingkar Institute of Management (WeSchool), Mumbai
 - PUMBA (Pune University Department of Management Sciences)
@@ -101,7 +101,7 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 - Chetana’s Institute of Management and Research, Mumbai
 - MET Institute of Management, Mumbai
 - XIMR (Xavier Institute of Management & Research), Mumbai
-- Rizvi [Institute of Management Studies](/colleges/ims-noida) and Research, Mumbai
+- Rizvi [Institute of Management Studies](/colleges/ims-noida/) and Research, Mumbai
 
 ---
 
@@ -115,7 +115,7 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)
@@ -130,14 +130,14 @@ No, there is **no negative marking** in MAH MBA CET. Students are encouraged to 
 To get into JBIMS, a percentile of **99.99** is typically required, which usually equates to a raw score of **145+** out of 200.
 
 ### 4. Which are the top colleges accepting CET scores in Pune?
-Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs here.](/colleges/mba-colleges-pune)
+Top colleges in Pune include **PUMBA, Indira Institute of Management, and COEP**. [Check out the full list of Pune colleges and 2026 CET cutoffs here.](/colleges/mba-colleges-pune/)
 
 ### 5. Can I get a scholarship for MBA via MAH CET?
 Yes! Maharashtra domicile students admitted through CAP rounds can apply for **EBC (50% fee waiver)** or **Caste-based (up to 100% waiver)** scholarships via the MahaDBT portal.
 
-[👉 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test)
+[👉 Read our detailed MAH MBA CET Scholarship Guide 2027–29](/tools/mhcet-mock-test/)
 
-[👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry)
+[👉 Need help mastering the lightning-fast MAH CET mock tests or the CAP counselling rounds? Book an expert session!](/inquiry/)
 
 
 
@@ -145,6 +145,6 @@ Yes! Maharashtra domicile students admitted through CAP rounds can apply for **E
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

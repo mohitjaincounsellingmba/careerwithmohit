@@ -83,7 +83,7 @@ The definitive legal authority for all online higher education in India is the *
 1. No employer—public or private—can legally disqualify your application solely because the degree was obtained via online mode, provided the university holds **UGC-DEB entitlement**.
 2. Marksheets and final degree certificates issued by UGC-entitled universities specify the award of the degree (e.g., *Master of Business Administration* or *Master of Computer Applications*) with full statutory validity.
 
-Explore recognized programs at the [Online Degree & Certification Directory](/online-degree-certification).
+Explore recognized programs at the [Online Degree & Certification Directory](/online-degree-certification/).
 
 ---
 
@@ -91,10 +91,10 @@ Explore recognized programs at the [Online Degree & Certification Directory](/on
 
 | Domain / Sector | Eligibility & Recognition Status | Key Regulatory Backing | Accepted Universities (Examples) |
 | :--- | :--- | :--- | :--- |
-| **UPSC & Civil Services** (IAS, IPS, IFS, IRS) | **100% Eligible** | UPSC Notification & UGC Act 1956 Sec 2(f) | [Andhra Univ](/online-degree-certification/andhra-university-online), [Jamia](/online-degree-certification/jamia-hamdard-university-online), [Amity](/online-degree-certification/amity-university-online) |
-| **Banking & SSC** (IBPS PO, SSC CGL, RBI Grade B) | **100% Eligible** | Central Staff Selection & IBPS Gazette | [LPU Online](/online-degree-certification/lovely-professional-university-lpu-online), [Chandigarh Univ](/online-degree-certification/chandigarh-university-online) |
-| **Top IT & MNC Corporates** (TCS, Infosys, Deloitte) | **Widely Accepted** | Industry Skill Standards & AICTE Parity | [Jain Online](/online-degree-certification/jain-university-online), [Manipal Online](/online-degree-certification/manipal-university-jaipur-online) |
-| **Global Immigration & WES** (Canada PR, US H1-B) | **Full Equivalency** | World Education Services (WES) Canada/USA | [Amity Online](/online-degree-certification/amity-university-online), [Jain Online](/online-degree-certification/jain-university-online), [LPU](/online-degree-certification/lovely-professional-university-lpu-online) |
+| **UPSC & Civil Services** (IAS, IPS, IFS, IRS) | **100% Eligible** | UPSC Notification & UGC Act 1956 Sec 2(f) | [Andhra Univ](/online-degree-certification/andhra-university-online/), [Jamia](/online-degree-certification/jamia-hamdard-university-online/), [Amity](/online-degree-certification/amity-university-online/) |
+| **Banking & SSC** (IBPS PO, SSC CGL, RBI Grade B) | **100% Eligible** | Central Staff Selection & IBPS Gazette | [LPU Online](/online-degree-certification/lovely-professional-university-lpu-online/), [Chandigarh Univ](/online-degree-certification/chandigarh-university-online/) |
+| **Top IT & MNC Corporates** (TCS, Infosys, Deloitte) | **Widely Accepted** | Industry Skill Standards & AICTE Parity | [Jain Online](/online-degree-certification/jain-university-online/), [Manipal Online](/online-degree-certification/manipal-university-jaipur-online/) |
+| **Global Immigration & WES** (Canada PR, US H1-B) | **Full Equivalency** | World Education Services (WES) Canada/USA | [Amity Online](/online-degree-certification/amity-university-online/), [Jain Online](/online-degree-certification/jain-university-online/), [LPU](/online-degree-certification/lovely-professional-university-lpu-online/) |
 
 ---
 
@@ -110,7 +110,7 @@ Because UGC-DEB approved online universities meet this exact statutory definitio
 - **IBPS Bank PO / Clerk / Specialist Officer**
 - **State Public Service Commissions** (UPPSC, MPSC, KPSC, BPSC, TNPSC)
 - **Public Sector Undertakings** (ONGC, NTPC, IOCL, BHEL, Coal India)
-- **UGC NET / JRF** (for College Assistant Professorships with an [Online MA](/online-degree-certification/online-ma-english) or [Online M.Com](/online-degree-certification/online-mcom))
+- **UGC NET / JRF** (for College Assistant Professorships with an [Online MA](/online-degree-certification/online-ma-english/) or [Online M.Com](/online-degree-certification/online-mcom/))
 
 ---
 
@@ -119,11 +119,11 @@ Because UGC-DEB approved online universities meet this exact statutory definitio
 Modern corporate hiring has shifted from "where did you attend classes?" to **"what skills and problem-solving abilities do you bring to the role?"**
 
 ### Why MNCs actively hire online degree graduates:
-1. **Working Professional Upskilling**: Companies like Accenture, Amazon, TCS, Deloitte, and HDFC Bank frequently sponsor their own junior employees to enroll in [Online MBA](/online-degree-certification/online-mba) and [Online MCA](/online-degree-certification/online-mca) programs.
+1. **Working Professional Upskilling**: Companies like Accenture, Amazon, TCS, Deloitte, and HDFC Bank frequently sponsor their own junior employees to enroll in [Online MBA](/online-degree-certification/online-mba/) and [Online MCA](/online-degree-certification/online-mca/) programs.
 2. **Demonstrated Time Management**: Juggling a 40-hour workweek while completing digital coursework shows exceptional discipline and drive.
 3. **Campus Placement Cells**: Top online universities now have dedicated corporate relations wings organizing virtual hiring hackathons and resume drives with 500+ recruiter tie-ups.
 
-Check out our comparison of top business schools: [Amity vs Jain Online](/online-degree-certification/amity-vs-jain) and [LPU vs Chandigarh Online](/online-degree-certification/lpu-vs-chandigarh).
+Check out our comparison of top business schools: [Amity vs Jain Online](/online-degree-certification/amity-vs-jain/) and [LPU vs Chandigarh Online](/online-degree-certification/lpu-vs-chandigarh/).
 
 ---
 
@@ -135,13 +135,13 @@ For candidates planning to migrate to Canada via the **Express Entry Comprehensi
 - WES recognizes degrees from Indian institutions that hold **NAAC 'A+' or 'A++' accreditation** and autonomous university status.
 - An evaluated 2-year Online Master's degree (such as an Online MBA or Online MCA) is classified as a **Canadian 2-year Master’s Degree Equivalency**, yielding maximum CRS points (up to 126–135 points) on the Canadian immigration scale.
 - Approved Indian institutions include:
-  - **[Amity University Online](/online-degree-certification/amity-university-online)** (WES Listed)
-  - **[Jain University Online](/online-degree-certification/jain-university-online)** (WES Listed)
-  - **[Lovely Professional University (LPU Online)](/online-degree-certification/lovely-professional-university-lpu-online)** (WES Listed)
-  - **[Manipal University Jaipur](/online-degree-certification/manipal-university-jaipur-online)** (WES Listed)
-  - **[D.Y. Patil University Online](/online-degree-certification/d-y-patil-university-online-pune)** (WES Listed)
+  - **[Amity University Online](/online-degree-certification/amity-university-online/)** (WES Listed)
+  - **[Jain University Online](/online-degree-certification/jain-university-online/)** (WES Listed)
+  - **[Lovely Professional University (LPU Online)](/online-degree-certification/lovely-professional-university-lpu-online/)** (WES Listed)
+  - **[Manipal University Jaipur](/online-degree-certification/manipal-university-jaipur-online/)** (WES Listed)
+  - **[D.Y. Patil University Online](/online-degree-certification/d-y-patil-university-online-pune/)** (WES Listed)
 
-Explore the full list at our [WES Approved Online Degrees Hub](/online-degree-certification/wes-approved-online-degrees).
+Explore the full list at our [WES Approved Online Degrees Hub](/online-degree-certification/wes-approved-online-degrees/).
 
 ---
 
@@ -165,12 +165,12 @@ Don't risk your money with unapproved universities. Get your profile evaluated b
 
 - 📞 **Direct Helpline**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Chat**: [Message Mohit Jain Directly](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20have%20doubts%20about%20online%20degree%20validity)
-- 📅 **Book a Free Session**: [1-on-1 Strategic Call](/book-session)
+- 📅 **Book a Free Session**: [1-on-1 Strategic Call](/book-session/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

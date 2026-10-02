@@ -89,7 +89,7 @@ The goal of a Business Analyst is not necessarily to write code all day, but to 
 *   **Product Manager (Analytics):** Leading product features based on user behavior data and metrics.
 *   **Analytics Consultant:** Helping businesses design their internal analytics frameworks.
 
-*Read more:* [MBA Business Analytics vs B.Tech: The Ultimate Guide for Engineering Students](/blog/mba-business-analytics-vs-btech-2027-29)
+*Read more:* [MBA Business Analytics vs B.Tech: The Ultimate Guide for Engineering Students](/blog/mba-business-analytics-vs-btech-2027-29/)
 
 ---
 
@@ -111,7 +111,7 @@ While you are still obtaining a business degree, the core focus is on data infra
 *   **Analytics Engineer:** Cleaning data and managing databases to ensure data scientists have clean pipelines.
 *   **Risk Analyst:** Using machine learning to identify fraud and evaluate financial vulnerabilities.
 
-*Read more:* [Data Analytics Scope After PGDM: Why JKBS Gurgaon's DABI Program is a Game Changer](/blog/data-analytics-scope-after-pgdm-jkbs-gurgaon-dabi)
+*Read more:* [Data Analytics Scope After PGDM: Why JKBS Gurgaon's DABI Program is a Game Changer](/blog/data-analytics-scope-after-pgdm-jkbs-gurgaon-dabi/)
 
 ---
 
@@ -119,10 +119,10 @@ While you are still obtaining a business degree, the core focus is on data infra
 
 When choosing a business school for analytics, you need institutions that offer advanced data labs, access to industry-standard software, and strong corporate networks. 
 
-1.  **Top-Tier Institutions (IIMs & Premier B-Schools):** Programs like the PGDBA offered jointly by **[IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata** are legendary for their technical depth, commanding average packages of ₹25+ LPA. [IIM Bangalore](/colleges/iim-bangalore) and [XLRI Jamshedpur](/colleges/xlri-jamshedpur) also offer highly prestigious tracks in Business Analytics.
+1.  **Top-Tier Institutions (IIMs & Premier B-Schools):** Programs like the PGDBA offered jointly by **[IIM Calcutta](/colleges/iim-calcutta/), IIT Kharagpur, and ISI Kolkata** are legendary for their technical depth, commanding average packages of ₹25+ LPA. [IIM Bangalore](/colleges/iim-bangalore/) and [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) also offer highly prestigious tracks in Business Analytics.
 2.  **JK Business School (JKBS) Gurgaon:** JKBS stands out in Delhi NCR with its specialized **PGDM in Data Analytics and Business Intelligence (DABI)**. Offered in collaboration with the **Institute of Analytics (IoA), UK**, this program gives students a global credential, specialized industry exposure, and access to Gurgaon’s massive corporate network.
-    *   *Read more:* [JKBS Gurgaon PGDM DABI Review 2027–29](/blog/jkbs-gurgaon-pgdm-dabi-data-analytics-review-2027-29)
-3.  **[Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi), Delhi:** MABS offers a modern PGDM curriculum with specialized training in Business Analytics, data frameworks, and decision-making tools, ensuring high corporate relevance and placement opportunities.
+    *   *Read more:* [JKBS Gurgaon PGDM DABI Review 2027–29](/blog/jkbs-gurgaon-pgdm-dabi-data-analytics-review-2027-29/)
+3.  **[Maharaja Agrasen Business School (MABS)](/colleges/mabs-delhi/), Delhi:** MABS offers a modern PGDM curriculum with specialized training in Business Analytics, data frameworks, and decision-making tools, ensuring high corporate relevance and placement opportunities.
 
 ---
 
@@ -140,7 +140,7 @@ The right choice depends on your academic background, coding comfort, and career
     *   You enjoy writing scripts in Python/R, working with databases (SQL), and learning about machine learning.
     *   You want a highly technical role where you build predictive models and work directly with data infrastructure.
 
-*Read more:* [MBA in Finance vs. MBA in FinTech: Which is Best for Your Career in 2027–29?](/blog/mba-finance-vs-fintech-comparison-2027-29)
+*Read more:* [MBA in Finance vs. MBA in FinTech: Which is Best for Your Career in 2027–29?](/blog/mba-finance-vs-fintech-comparison-2027-29/)
 
 ---
 
@@ -160,11 +160,11 @@ Most good Business Analytics programs will introduce you to basic Python or R sc
 **Confused about which MBA specialization fits your profile?**  
 Deciding between the strategic layer of Business Analytics and the technical depth of Data Analytics requires analyzing your career goals and technical strengths. Mohit Jain offers personalized career counselling sessions to help you evaluate B-schools, understand the curriculum, and map out your admission strategy.
 
-[👉 Book My MBA Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My MBA Career Roadmap Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

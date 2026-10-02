@@ -67,12 +67,12 @@ faqs:
 
 ## 🔗 Related Links
 
-* [MBBS Abroad 2026 Overview](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [NEET 2026 Preparation Guide](/blog/all-about-neet-exam)
+* [MBBS Abroad 2026 Overview](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [NEET 2026 Preparation Guide](/blog/all-about-neet-exam/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

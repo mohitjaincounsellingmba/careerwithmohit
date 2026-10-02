@@ -37,7 +37,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Waiting for Bihar Board BSEB Class 12 Inter Result 2026? Get the latest expected date and time, official list ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Bihar School Examination Board (BSEB) has concluded the evaluation of answer sheets, and the wait for over 13 lakh students is about to end. As one of the fastest boards in India to declare results, BSEB is set to release the Class 12 (Intermediate) results for Arts, Science, and Commerce streams very soon.
 
@@ -70,10 +70,10 @@ Follow these steps to access your scorecard instantly once the link is active:
 After the Bihar Board results, students often face the dilemma of choosing the right college and career path. Whether you are from the Science, Commerce, or Arts stream, planning ahead is critical.
 
 Check out our specialized guides for your next steps:
-*   [CBSE 12th Result 2026: Comparison & Dates](/blog/cbse-12th-result-2026-expected-date)
-*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2027-29)
-*   [Top B.Tech Colleges in Pune: Admissions & Fees](/blog/top-btech-colleges-pune)
-*   [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
+*   [CBSE 12th Result 2026: Comparison & Dates](/blog/cbse-12th-result-2026-expected-date/)
+*   [Career Roadmaps for Engineering & Management 2026](/blog/career-roadmaps-2027-29/)
+*   [Top B.Tech Colleges in Pune: Admissions & Fees](/blog/top-btech-colleges-pune/)
+*   [Best BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026/)
 
 ### **Details Check on Your Provisional Marksheet**
 Ensure that the following details are correct on your downloaded Bihar Board 12th scorecard:
@@ -85,7 +85,7 @@ Ensure that the following details are correct on your downloaded Bihar Board 12t
 **Confusion About Your Career?**
 Bihar Board students often aim for top universities across India. If you need help with college admissions, entrance exam forms (CUET, JEE, etc.), or career selection, our experts are here to mentor you.
 
-[👉 Get Personalised Admission Guidance Today!](/inquiry)
+[👉 Get Personalised Admission Guidance Today!](/inquiry/)
 
 ---
 
@@ -107,6 +107,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

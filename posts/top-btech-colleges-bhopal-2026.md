@@ -138,14 +138,14 @@ MANIT Bhopal charges approximately ₹1.5 Lakhs per year — making it one of th
 
 ## Useful Resources
 
-- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Need expert help choosing a Bhopal B.Tech college? Book a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Need expert help choosing a Bhopal B.Tech college? Book a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -153,6 +153,6 @@ MANIT Bhopal charges approximately ₹1.5 Lakhs per year — making it one of th
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -90,10 +90,10 @@ BBAU provides on-campus hostel facilities for both boys and girls, ensuring a sa
 *   **Amenities:** Hostels are equipped with basic amenities such as mess facilities, security, Wi-Fi connectivity, and common study areas.
 
 ### **Check Other University Guides:**
-*   [University of Hyderabad (UoH) Review 2027–29](/blog/university-of-hyderabad-uoh-review-2027-29)
-*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29)
+*   [University of Hyderabad (UoH) Review 2027–29](/blog/university-of-hyderabad-uoh-review-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29/)
 
-[👉 Get Admission Consultation for Central Universities!](/inquiry)
+[👉 Get Admission Consultation for Central Universities!](/inquiry/)
 
 ---
 
@@ -111,6 +111,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

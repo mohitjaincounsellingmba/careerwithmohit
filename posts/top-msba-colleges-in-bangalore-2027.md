@@ -51,11 +51,11 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[IIM Bangalore](/colleges/iim-bangalore)** (PGP-BA / MBA BA) | ₹24.50 Lakhs | ₹35.31 LPA | CAT (99+ %ile) / GMAT + Strong Quant Profile |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** (PGP-BA / MBA BA) | ₹24.50 Lakhs | ₹35.31 LPA | CAT (99+ %ile) / GMAT + Strong Quant Profile |
 | **SIBM Bengaluru** (MBA Business Analytics) | ₹18.50L - ₹19.80L | ₹13.48 LPA - ₹14.50 LPA | SNAP (90+ %ile) + Min 50% in Graduation |
-| **[JAGSoM Bangalore](/colleges/jagsom-bangalore)** (PGDM Business Analytics) | ₹15.95 Lakhs | ₹13.30 LPA - ₹14.00 LPA | CAT / XAT / GMAT / NMAT / CMAT (AACSB Global) |
-| **[Christ University](/colleges/christ-university-bangalore)** (MBA Business Analytics) | ₹9.50L - ₹11.50L | ₹8.50 LPA - ₹10.20 LPA | CAT / MAT / XAT / CMAT / ATMA / CUET |
-| **[Alliance University](/colleges/alliance-university-bangalore)** (MBA Business Analytics) | ₹15.00 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / NMAT / XAT / AMAT / CMAT (65%+ %ile) |
+| **[JAGSoM Bangalore](/colleges/jagsom-bangalore/)** (PGDM Business Analytics) | ₹15.95 Lakhs | ₹13.30 LPA - ₹14.00 LPA | CAT / XAT / GMAT / NMAT / CMAT (AACSB Global) |
+| **[Christ University](/colleges/christ-university-bangalore/)** (MBA Business Analytics) | ₹9.50L - ₹11.50L | ₹8.50 LPA - ₹10.20 LPA | CAT / MAT / XAT / CMAT / ATMA / CUET |
+| **[Alliance University](/colleges/alliance-university-bangalore/)** (MBA Business Analytics) | ₹15.00 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / NMAT / XAT / AMAT / CMAT (65%+ %ile) |
 | **ISBR Business School** (PGDM Business Analytics & AI) | ₹10.50 Lakhs | ₹8.20 LPA - ₹9.00 LPA | CAT / XAT / MAT / CMAT / ISBR Aptitude Test |
 | **CMS Business School (JAIN University)** (MBA BA) | ₹10.80L - ₹12.50L | ₹7.50 LPA - ₹8.50 LPA | JET / CAT / MAT / CMAT / NMAT |
 
@@ -63,7 +63,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 ## 🏛️ In-Depth Breakdown: Best Business Analytics Colleges in Bangalore
 
-### 1. [IIM Bangalore (IIMB)](/colleges/iim-bangalore) – Bannerghatta Road
+### 1. [IIM Bangalore (IIMB)](/colleges/iim-bangalore/) – Bannerghatta Road
 - **Flagship Offering**: Post Graduate Programme in Business Analytics (PGP-BA)
 - **Total Tuition Fee**: ₹24.50 Lakhs
 - **Placement Performance**: Average Domestic CTC ₹35.31 LPA | Median CTC ₹33.00 LPA
@@ -85,7 +85,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 ---
 
-### 3. [JAGSoM (Jagdish Sheth School of Management)](/colleges/jagsom-bangalore), Electronic City
+### 3. [JAGSoM (Jagdish Sheth School of Management)](/colleges/jagsom-bangalore/), Electronic City
 - **Flagship Offering**: PGDM in Business Analytics (Role-Defined Career Tracks)
 - **Total Tuition Fee**: ₹15.95 Lakhs
 - **Placement Performance**: Average CTC ₹13.30 LPA – ₹14.00 LPA | Highest Domestic CTC ₹43.00 LPA
@@ -96,7 +96,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 ---
 
-### 4. [Christ University (School of Business and Management)](/colleges/christ-university-bangalore)
+### 4. [Christ University (School of Business and Management)](/colleges/christ-university-bangalore/)
 - **Flagship Offering**: MBA in Business Analytics / M.Sc. Data and Business Analytics
 - **Total Tuition Fee**: ₹9.50 Lakhs – ₹11.50 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹10.20 LPA | Highest Domestic CTC ₹21.50 LPA
@@ -105,7 +105,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 ---
 
-### 5. [Alliance School of Business (Alliance University)](/colleges/alliance-university-bangalore)
+### 5. [Alliance School of Business (Alliance University)](/colleges/alliance-university-bangalore/)
 - **Flagship Offering**: MBA with Specialization in Business Analytics
 - **Total Tuition Fee**: ₹15.00 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹26.10 LPA
@@ -151,12 +151,12 @@ Absolutely. Business Analytics programs focus heavily on translating business in
 ### 3. What tools should I master before starting an analytics program in Bangalore?
 Master Advanced Excel (Pivot tables, VLOOKUP/XLOOKUP, solver), SQL fundamentals, basic Python (pandas, numpy), and dashboarding basics in Tableau or Power BI.
 
-[👉 Need guidance on selecting the right Bangalore B-School? Book a 1-on-1 profile evaluation with Mohit Jain!](/inquiry)
+[👉 Need guidance on selecting the right Bangalore B-School? Book a 1-on-1 profile evaluation with Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: Best MBA Colleges in Bangalore 2027–29 Fees & Placements](/blog/best-mba-colleges-in-bangalore-2027-29)**
-- **[Read: All About IIM Bangalore Admission & Cutoffs](/blog/all-about-iim-bangalore)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: Best MBA Colleges in Bangalore 2027–29 Fees & Placements](/blog/best-mba-colleges-in-bangalore-2027-29/)**
+- **[Read: All About IIM Bangalore Admission & Cutoffs](/blog/all-about-iim-bangalore/)**

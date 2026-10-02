@@ -107,7 +107,7 @@ The ultimate ROI king of Tamil Nadu.
 
 Chennai has great private universities that offer consistent placements regardless of your entrance score:
 
-- **[SSN School of Management](/colleges/ssn-school-of-management):** Part of the Shiv Nadar legacy. Known for its merit-based scholarship and disciplined environment in Kalavakkam.
+- **[SSN School of Management](/colleges/ssn-school-of-management/):** Part of the Shiv Nadar legacy. Known for its merit-based scholarship and disciplined environment in Kalavakkam.
 - **Vel Tech / SRM University:** Deep corporate ties and massive campuses. Direct admission is available through their respective entrance tests and management quota.
 - **Hindustan Institute of Technology and Science:** A diverse brand with strong ties to the aviation and maritime sectors.
 
@@ -133,16 +133,16 @@ TANCET usually happens in **March**. It is the gateway for MBA admissions into n
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Top MBA Colleges in Hyderabad 2027–29 Guide](/blog/top-mba-colleges-hyderabad-2027-29)
-- [B.Tech Colleges in Chennai 2026 Guide](/blog/top-btech-colleges-chennai-2026)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Top MBA Colleges in Hyderabad 2027–29 Guide](/blog/top-mba-colleges-hyderabad-2027-29/)
+- [B.Tech Colleges in Chennai 2026 Guide](/blog/top-btech-colleges-chennai-2026/)
 
 ---
 
 **Planning your Chennai Move?**
 Chennai's B-schools are known for discipline and academic rigour. Mohit Jain provides a non-sponsored audit of every Chennai campus-from hostel life to actual median packages in 2025.
 
-[👉 Book My Chennai Shortlist Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Chennai Shortlist Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -150,6 +150,6 @@ Chennai's B-schools are known for discipline and academic rigour. Mohit Jain pro
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

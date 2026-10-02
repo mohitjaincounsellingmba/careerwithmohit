@@ -89,7 +89,7 @@ Whether you're a working professional looking to upskill without quitting your j
 - **Fees:** ₹1.30 Lakhs – ₹2.80 Lakhs
 - **Duration:** 2 years
 - **Specializations:** 15+ specializations including International Business, Digital Marketing, Agri Business
-- **Why Choose:** [Amity University](/colleges/amity-noida) is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
+- **Why Choose:** [Amity University](/colleges/amity-noida/) is NAAC A+ accredited. One of the most flexible and affordable UGC-approved online MBAs in India.
 - **Best For:** Students wanting maximum specialization choice at minimal cost.
 
 ---
@@ -123,7 +123,7 @@ Here is a quick breakdown of the fees and duration for top Online MBA programs i
 - **NMIMS Online MBA (NMIMS)**
   - **Fees:** ₹2.5 Lakhs
   - **Duration:** 2 years
-- **Amity Online MBA ([Amity University](/colleges/amity-noida))**
+- **Amity Online MBA ([Amity University](/colleges/amity-noida/))**
   - **Fees:** ₹2.8 Lakhs
   - **Duration:** 2 years
 - **Manipal Online MBA (MAHE)**
@@ -203,7 +203,7 @@ When comparing an Online MBA to a traditional Full-Time MBA/PGDM, here are the k
 
 ---
 
-[👉 Need help choosing between Online MBA and a Full-Time PGDM?](/inquiry) | [💬 Book a Free Career Strategy Session with Mohit Jain](/inquiry)
+[👉 Need help choosing between Online MBA and a Full-Time PGDM?](/inquiry/) | [💬 Book a Free Career Strategy Session with Mohit Jain](/inquiry/)
 
 ---
 
@@ -226,6 +226,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

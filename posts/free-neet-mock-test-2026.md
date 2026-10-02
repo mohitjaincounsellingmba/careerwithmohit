@@ -39,7 +39,7 @@ Succeeding in the **NEET UG 2026** entrance exam demands not just subject expert
 
 [MockTestCard title="Free NEET UG 2026 Full CBT Mock Test 2026" link="/tools/mock-test/neet" questions="200 Questions" time="200 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free NEET UG 2026 Mock Test](/tools/mock-test/neet)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free NEET UG 2026 Mock Test](/tools/mock-test/neet/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -79,4 +79,4 @@ A score of 705-715+ out of 720 (AIR under 50) is typically needed for general ca
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

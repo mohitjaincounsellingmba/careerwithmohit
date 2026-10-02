@@ -52,11 +52,11 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
-| **[SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune)** | SNAP | ₹23.7 Lakhs (Total) | **₹23.71 LPA** |
-| **[PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
-| **[PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
-| **[Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
+| **[SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune/)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
+| **[SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune/)** | SNAP | ₹23.7 Lakhs (Total) | **₹23.71 LPA** |
+| **[PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune/)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
+| **[PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune/)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
+| **[Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29/)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -77,31 +77,31 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Pune
 
-### 1. [SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune)
+### 1. [SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune/)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹28.16 LPA**
 - **Key Highlight:** Flagship Symbiosis campus offering premium placements across top consumer brands and consultancies.
 
-### 2. [SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune)
+### 2. [SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune/)
 - **Approximate Fees:** ₹23.7 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹23.71 LPA**
 - **Key Highlight:** Stellar reputation for marketing and branding electives with robust corporate recruitment networks.
 
-### 3. [PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune)
+### 3. [PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune/)
 - **Approximate Fees:** ₹1.3 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT / CMAT
 - **Average Placement Package:** **₹8.85 LPA**
 - **Key Highlight:** Exceptional ROI with highly subsidized state university fee structure and good regional placements.
 
-### 4. [PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune)
+### 4. [PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune/)
 - **Approximate Fees:** ₹8.75 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.50 LPA**
 - **Key Highlight:** Features highly practical corporate training in SEO, PPC, social media ads, and digital analytics.
 
-### 5. [Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)
+### 5. [Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29/)
 - **Approximate Fees:** ₹7.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CMAT / CAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -118,9 +118,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -130,24 +130,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which MBA college in Pune is best for marketing?
-[SIBM Pune](/colleges/sibm-pune) is the flagship Symbiosis B-school, widely considered one of the best in India for marketing, attracting marquee FMCG and retail recruiters.
+[SIBM Pune](/colleges/sibm-pune/) is the flagship Symbiosis B-school, widely considered one of the best in India for marketing, attracting marquee FMCG and retail recruiters.
 
-### Does [PUMBA Pune](/colleges/pumba-pune) offer specialization in Digital Marketing?
-[PUMBA Pune](/colleges/pumba-pune) offers Marketing as a major specialization, which includes electives in digital marketing, consumer behavior, and marketing research.
+### Does [PUMBA Pune](/colleges/pumba-pune/) offer specialization in Digital Marketing?
+[PUMBA Pune](/colleges/pumba-pune/) offers Marketing as a major specialization, which includes electives in digital marketing, consumer behavior, and marketing research.
 
-### Is [PIBM Pune](/colleges/pibm-pune) good for digital marketing profiles?
-Yes, [PIBM Pune](/colleges/pibm-pune) provides strong practical exposure to digital marketing tools, campaign designs, and content strategies, preparing students for executive and managerial roles.
+### Is [PIBM Pune](/colleges/pibm-pune/) good for digital marketing profiles?
+Yes, [PIBM Pune](/colleges/pibm-pune/) provides strong practical exposure to digital marketing tools, campaign designs, and content strategies, preparing students for executive and managerial roles.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

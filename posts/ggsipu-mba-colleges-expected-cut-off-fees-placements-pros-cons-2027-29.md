@@ -93,7 +93,7 @@ Ranked #1 among the private affiliated colleges of GGSIPU, MAIT is known for its
 * **Pros:** Highly disciplined academic environment, strong corporate relationships, and active campus placements.
 * **Cons:** The environment can feel highly academic and structured, somewhat like a school.
 
-### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
+### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
 JIMS Rohini is highly reputed for its corporate connections, industry-oriented pedagogy, and dedicated placement cell.
 * **Expected CAT Cut-off:** 68 - 75+ Percentile
 * **Expected CMAT Cut-off:** 86 - 90+ Percentile
@@ -113,7 +113,7 @@ DIAS is a long-standing, NAAC 'A' grade accredited college that is especially po
 * **Pros:** Highly qualified faculty, strong academic results, and focused training for financial sectors.
 * **Cons:** The campus is relatively small, with limited scope for sports and grand extracurricular events.
 
-### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS), Rohini
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS), Rohini
 Located adjacent to MAIT, MAIMS shares a massive campus and provides a great learning environment with a focus on holistic student development.
 * **Expected CAT Cut-off:** 60 - 65+ Percentile
 * **Expected CMAT Cut-off:** 80 - 85+ Percentile
@@ -143,7 +143,7 @@ RDIAS is known for its discipline and structured training modules that prepare s
 * **Pros:** Regular workshops, mock interviews, and strong corporate tie-ups.
 * **Cons:** Small campus size and strict attendance rules.
 
-### 8. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi), Rohini
+### 8. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi/), Rohini
 Centrally located and well-connected by metro, Tecnia offers a good platform for student learning and industry visits.
 * **Expected CAT Cut-off:** 45 - 50+ Percentile
 * **Expected CMAT Cut-off:** 65 - 70+ Percentile
@@ -153,7 +153,7 @@ Centrally located and well-connected by metro, Tecnia offers a good platform for
 * **Pros:** Metro connectivity, affordable fees, and active management events.
 * **Cons:** Average placement package is on the lower side; campus infrastructure is compact.
 
-### 9. [Management Education & Research Institute (MERI)](/colleges/meri-delhi), Janakpuri
+### 9. [Management Education & Research Institute (MERI)](/colleges/meri-delhi/), Janakpuri
 MERI Janakpuri is one of the oldest management institutes in West Delhi, offering a balanced MBA experience.
 * **Expected CAT Cut-off:** 45 - 50+ Percentile
 * **Expected CMAT Cut-off:** 65 - 70+ Percentile
@@ -216,20 +216,20 @@ BPIBS is a government-aided institute, offering the lowest fee structure across 
 ---
 
 ### 🔗 Related Reading
-*   [IPU MBA Cut-offs 2027–29-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2027-29)
-*   [Top 14+ GGSIPU MBA Colleges Directory](/blog/ipu-cet-mba-colleges-ggsipu)
-*   [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
+*   [IPU MBA Cut-offs 2027–29-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2027-29/)
+*   [Top 14+ GGSIPU MBA Colleges Directory](/blog/ipu-cet-mba-colleges-ggsipu/)
+*   [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 
 > **Confused about which IPU college you will get with your score?**
 >
-> [👉 Book a Free Admission Strategy Call with Mohit](/inquiry)
+> [👉 Book a Free Admission Strategy Call with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -240,6 +240,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

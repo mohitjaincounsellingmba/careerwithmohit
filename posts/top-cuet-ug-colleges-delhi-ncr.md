@@ -53,7 +53,7 @@ category: BBA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-The Common University Entrance Test (CUET UG) has transformed the undergraduate admission landscape in India. For students targeting Delhi NCR, it is the golden key to the country's most prestigious institutions, including the University of Delhi (DU), Jawaharlal Nehru University (JNU), and [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia).
+The Common University Entrance Test (CUET UG) has transformed the undergraduate admission landscape in India. For students targeting Delhi NCR, it is the golden key to the country's most prestigious institutions, including the University of Delhi (DU), Jawaharlal Nehru University (JNU), and [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/).
 
 Whether you are aiming for a career in **BBA, BCA, B.Com, or Engineering**, CUET UG 2026 is your primary gateway. Success requires not just a high score, but a strategic understanding of which colleges to target based on your course and ranking.
 
@@ -86,12 +86,12 @@ Delhi NCR is home to several other heavyweights that accept CUET UG scores for s
 
 ### Central Universities
 - **Jawaharlal Nehru University (JNU)**: Premier institution for language and social science undergraduate programs.
-- **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**: Known for Excellence in Law, Mass Communication, and Social Sciences.
+- **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)**: Known for Excellence in Law, Mass Communication, and Social Sciences.
 - **Central University of Haryana**: A great alternative with modern infrastructure.
 
 ### State & Technical Universities
 - **Delhi Technological University (DTU)**: While famous for B.Tech, it also accepts CUET for Management/Commerce courses.
-- **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**: Top technical brand offering management under CUET.
+- **[Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)**: Top technical brand offering management under CUET.
 - **Guru Gobind Singh Indraprastha University (GGSIPU)**: Accepts CUET for several professional programs (BBA, BCA).
 
 ---
@@ -107,7 +107,7 @@ Delhi NCR is home to several other heavyweights that accept CUET UG scores for s
 ### Best for BCA / IT
 *   **University of Delhi (Specific courses)**
 *   **GGSIPU** (Through CUET/IPU CET)
-*   **[Amity University](/colleges/amity-noida)** (Noida/Gurugram)
+*   **[Amity University](/colleges/amity-noida/)** (Noida/Gurugram)
 
 ### Best for Commerce (B.Com / Eco Hons)
 *   **SRCC**
@@ -129,7 +129,7 @@ Delhi NCR is home to several other heavyweights that accept CUET UG scores for s
 
 Selecting the right college combination on the portal can make or break your admission. Don't leave your career to chance.
 
-[👉 Build My CUET Roadmap with Mohit Jain](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My CUET Roadmap with Mohit Jain](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -151,6 +151,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -73,7 +73,7 @@ Let's dissect the operational differences, regulatory validity, recruiter percep
 | **Recruiter Perception** | **High** (Skills & Digital Fluency) | **Moderate** (Basic Degree Completion) | **Very High** (Strategic Leadership) |
 | **Global WES Validity** | Yes (Select A++/A+ Univs) | Limited | Yes (Premier B-Schools) |
 
-Explore the complete program directory at our [Online Degrees & Certifications Portal](/online-degree-certification).
+Explore the complete program directory at our [Online Degrees & Certifications Portal](/online-degree-certification/).
 
 ---
 
@@ -85,9 +85,9 @@ An **Online MBA (OL)** represents the modern evolution of digital higher educati
 - 📱 **AI-Powered LMS**: Access 24/7 video libraries, discussion forums, and mobile learning applications.
 - 🕒 **Zero Career Disruption**: Complete classes during weekends or evenings without sacrificing your salary.
 - 🎯 **Industry Specializations**: Cutting-edge electives in Business Analytics, FinTech, Digital Marketing, and Supply Chain.
-- 💼 **Virtual Placements**: Top universities like [Amity Online](/online-degree-certification/amity-university-online), [Jain Online](/online-degree-certification/jain-university-online), [LPU Online](/online-degree-certification/lovely-professional-university-lpu-online), and [Manipal Online](/online-degree-certification/manipal-university-jaipur-online) connect students with 500+ corporate recruiters.
+- 💼 **Virtual Placements**: Top universities like [Amity Online](/online-degree-certification/amity-university-online/), [Jain Online](/online-degree-certification/jain-university-online/), [LPU Online](/online-degree-certification/lovely-professional-university-lpu-online/), and [Manipal Online](/online-degree-certification/manipal-university-jaipur-online/) connect students with 500+ corporate recruiters.
 
-Explore our [Online MBA Hub](/online-degree-certification/online-mba).
+Explore our [Online MBA Hub](/online-degree-certification/online-mba/).
 
 ---
 
@@ -101,7 +101,7 @@ Explore our [Online MBA Hub](/online-degree-certification/online-mba).
 - 💰 **Affordable Pricing**: Complete 2-year programs range between ₹30,000 to ₹80,000.
 - ⚠️ **Limitations**: No live interactive faculty webinars, limited peer networking, and zero campus placement drives.
 
-Learn more at our [Online vs Distance Education Guide](/online-degree-certification/distance-vs-online-degree).
+Learn more at our [Online vs Distance Education Guide](/online-degree-certification/distance-vs-online-degree/).
 
 ---
 
@@ -115,7 +115,7 @@ An **Executive MBA (EMBA)** or 1-Year Executive Post Graduate Program (like IIM 
 - 💼 **High Salary Jump**: Graduates typically see salary increments of 40% to 100%, moving into Director, VP, and General Manager roles.
 - 💵 **Higher Investment**: Program fees range from ₹3 Lakhs to ₹18 Lakhs+ depending on the institution.
 
-Explore our [Executive Online MBA Hub](/online-degree-certification/online-executive-mba) and [1-Year Fast Track MBA](/online-degree-certification/1-year-online-mba).
+Explore our [Executive Online MBA Hub](/online-degree-certification/online-executive-mba/) and [1-Year Fast Track MBA](/online-degree-certification/1-year-online-mba/).
 
 ---
 
@@ -144,11 +144,11 @@ Explore our [Executive Online MBA Hub](/online-degree-certification/online-execu
 ## University Head-to-Head Comparisons
 
 Before making your final choice, explore our side-by-side comparative guides:
-- [Amity vs Jain Online MBA](/online-degree-certification/amity-vs-jain)
-- [LPU vs Chandigarh University Online](/online-degree-certification/lpu-vs-chandigarh)
-- [NMIMS Online vs Amity Online](/online-degree-certification/nmims-vs-amity)
-- [Manipal vs Amity Online](/online-degree-certification/manipal-vs-amity)
-- [SCDL Symbiosis vs NMIMS Online](/online-degree-certification/scdl-vs-nmims)
+- [Amity vs Jain Online MBA](/online-degree-certification/amity-vs-jain/)
+- [LPU vs Chandigarh University Online](/online-degree-certification/lpu-vs-chandigarh/)
+- [NMIMS Online vs Amity Online](/online-degree-certification/nmims-vs-amity/)
+- [Manipal vs Amity Online](/online-degree-certification/manipal-vs-amity/)
+- [SCDL Symbiosis vs NMIMS Online](/online-degree-certification/scdl-vs-nmims/)
 
 ---
 
@@ -157,12 +157,12 @@ Confused about whether an Online MBA, Executive MBA, or traditional B-School is 
 
 - 📞 **Direct Call**: [+91 95600 20771](tel:+919560020771)
 - 💬 **WhatsApp Consultation**: [Chat with Mohit Jain on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20am%20confused%20between%20Online%20MBA%20and%20Executive%20MBA)
-- 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session)
+- 📅 **Book a Free Session**: [Schedule 1-on-1 Consultation](/book-session/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

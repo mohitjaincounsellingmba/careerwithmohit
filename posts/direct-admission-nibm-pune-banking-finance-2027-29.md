@@ -99,11 +99,11 @@ For a specialized career in **Banking and Financial Risk Management**, NIBM is c
 ---
 
 ## 🔗 Related Resources
-- [NIBM Pune Review 2027–29: Placements & Life](/blog/nibm-pune-review-2027-29)
-- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29)
-- [Direct MBA Admission in India Master List](/blog/direct-mba-admission-india)
+- [NIBM Pune Review 2027–29: Placements & Life](/blog/nibm-pune-review-2027-29/)
+- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
+- [Direct MBA Admission in India Master List](/blog/direct-mba-admission-india/)
 
-[👉 Want to build a career in Banking? Get a free profile evaluation from Mohit Jain today!](/inquiry)
+[👉 Want to build a career in Banking? Get a free profile evaluation from Mohit Jain today!](/inquiry/)
 
 
 
@@ -111,6 +111,6 @@ For a specialized career in **Banking and Financial Risk Management**, NIBM is c
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

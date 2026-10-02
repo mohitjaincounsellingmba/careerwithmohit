@@ -81,7 +81,7 @@ If you are serious about becoming a Global Brand Manager, these are the target c
 ### 1. MICA, Ahmedabad
 Known as the "Mecca of Marketing," MICA is the leader in advertising and brand management. Its focus on creative leadership and consumer culture is unmatched.
 
-### 2. [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, & Calcutta
+### 2. [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, & Calcutta
 For strategic depth and high-level corporate connections, the top IIMs remain the gold standard for FMCG giants like HUL and P&G.
 
 ### 3. SPJIMR, Mumbai
@@ -125,13 +125,13 @@ The beauty of Brand Management is the clear, structured growth path.
 **Avoid it if:**
 - You prefer purely technical or operational roles without a creative element.
 
-[👉 Not sure if your profile is a match for MICA or SPJIMR? Join our profile evaluation call with Mohit Jain!](/inquiry)
+[👉 Not sure if your profile is a match for MICA or SPJIMR? Join our profile evaluation call with Mohit Jain!](/inquiry/)
 
 ---
 
 ### Internal References:
-- [BBA Specializations Guide](/blog/bba-specializations-skills-salary-2026-guide)
-- [Career Roadmaps 2026](/blog/career-roadmaps-2027-29)
+- [BBA Specializations Guide](/blog/bba-specializations-skills-salary-2026-guide/)
+- [Career Roadmaps 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
@@ -153,7 +153,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -167,6 +167,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

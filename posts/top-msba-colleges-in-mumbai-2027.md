@@ -52,10 +52,10 @@ If you are exploring a **Master of Science in Business Analytics (MSBA)**, **M.S
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
 | **TISS Mumbai** (M.Sc. in Analytics) | ₹3.20L - ₹3.80L | ₹18.20 LPA - ₹20.50 LPA | CUET-PG / TISS Assessment + Math/Stats/B.Tech |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai)** (MBA Business Analytics) | ₹21.00L - ₹24.00L | ₹18.50 LPA - ₹21.00 LPA | NMAT (232+ Score) + Graduation (50% Min) |
-| **[Welingkar (WeSchool) Mumbai](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29)** (PGDM Analytics) | ₹14.50L - ₹15.20L | ₹12.50 LPA - ₹13.20 LPA | CAT / XAT / CMAT / ATMA / MAH CET (80%+ %ile) |
-| **[NL Dalmia Mumbai](/blog/all-about-nl-dalmia-admission-2027-29)** (PGDM Business Analytics) | ₹14.70L - ₹15.50L | ₹10.20 LPA - ₹11.00 LPA | CAT / XAT / CMAT / MAH CET (75%+ %ile) |
-| **[ATLAS SkillTech University](/blog/atlas-skilltech-university-mumbai-mba-admission-2027-29)** (MBA Analytics) | ₹11.50L - ₹13.50L | ₹9.50 LPA - ₹11.20 LPA | CAT / XAT / GMAT / NMAT / ATLAS Aptitude Test |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/)** (MBA Business Analytics) | ₹21.00L - ₹24.00L | ₹18.50 LPA - ₹21.00 LPA | NMAT (232+ Score) + Graduation (50% Min) |
+| **[Welingkar (WeSchool) Mumbai](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/)** (PGDM Analytics) | ₹14.50L - ₹15.20L | ₹12.50 LPA - ₹13.20 LPA | CAT / XAT / CMAT / ATMA / MAH CET (80%+ %ile) |
+| **[NL Dalmia Mumbai](/blog/all-about-nl-dalmia-admission-2027-29/)** (PGDM Business Analytics) | ₹14.70L - ₹15.50L | ₹10.20 LPA - ₹11.00 LPA | CAT / XAT / CMAT / MAH CET (75%+ %ile) |
+| **[ATLAS SkillTech University](/blog/atlas-skilltech-university-mumbai-mba-admission-2027-29/)** (MBA Analytics) | ₹11.50L - ₹13.50L | ₹9.50 LPA - ₹11.20 LPA | CAT / XAT / GMAT / NMAT / ATLAS Aptitude Test |
 | **Vivekanand Business School (VBS)** (PGDM BA) | ₹8.00L - ₹8.80L | ₹8.00 LPA - ₹8.60 LPA | CAT / MAT / XAT / CMAT / ATMA / MAH CET |
 | **DY Patil School of Management** (MBA Analytics) | ₹12.00L - ₹14.00L | ₹8.20 LPA - ₹9.00 LPA | MAH CET / CAT / MAT / DYPCET (50%+ Marks) |
 
@@ -75,7 +75,7 @@ If you are exploring a **Master of Science in Business Analytics (MSBA)**, **M.S
 
 ---
 
-### 2. [NMIMS Mumbai](/colleges/nmims-mumbai) – School of Business Management & MPSTME
+### 2. [NMIMS Mumbai](/colleges/nmims-mumbai/) – School of Business Management & MPSTME
 - **Flagship Offering**: MBA in Business Analytics / M.Sc. Applied Statistics & Analytics
 - **Total Tuition Fee**: ₹21.00 Lakhs – ₹24.00 Lakhs
 - **Placement Performance**: Average CTC ₹18.50 LPA – ₹21.00 LPA | Highest Domestic CTC ₹42.00 LPA
@@ -85,7 +85,7 @@ If you are exploring a **Master of Science in Business Analytics (MSBA)**, **M.S
 
 ---
 
-### 3. [Welingkar Institute of Management (WeSchool Mumbai)](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29), Matunga
+### 3. [Welingkar Institute of Management (WeSchool Mumbai)](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/), Matunga
 - **Flagship Offering**: PGDM in Business Design / Research & Business Analytics
 - **Total Tuition Fee**: ₹14.50 Lakhs – ₹15.20 Lakhs
 - **Placement Performance**: Average CTC ₹12.50 LPA – ₹13.20 LPA | Highest Domestic CTC ₹25.00 LPA
@@ -95,7 +95,7 @@ If you are exploring a **Master of Science in Business Analytics (MSBA)**, **M.S
 
 ---
 
-### 4. [NL Dalmia Institute of Management Studies & Research](/blog/all-about-nl-dalmia-admission-2027-29), Mira Road
+### 4. [NL Dalmia Institute of Management Studies & Research](/blog/all-about-nl-dalmia-admission-2027-29/), Mira Road
 - **Flagship Offering**: PGDM with Business Analytics & Financial Analytics
 - **Total Tuition Fee**: ₹14.70 Lakhs
 - **Placement Performance**: Average CTC ₹10.20 LPA – ₹11.00 LPA | Highest Domestic CTC ₹25.50 LPA
@@ -105,7 +105,7 @@ If you are exploring a **Master of Science in Business Analytics (MSBA)**, **M.S
 
 ---
 
-### 5. [ATLAS SkillTech University (ISME Mumbai)](/blog/atlas-skilltech-university-mumbai-mba-admission-2027-29), BKC
+### 5. [ATLAS SkillTech University (ISME Mumbai)](/blog/atlas-skilltech-university-mumbai-mba-admission-2027-29/), BKC
 - **Flagship Offering**: MBA in Business Analytics & AI Leadership
 - **Total Tuition Fee**: ₹11.50 Lakhs – ₹13.50 Lakhs
 - **Placement Performance**: Average CTC ₹9.50 LPA – ₹11.20 LPA | Highest Domestic CTC ₹22.00 LPA
@@ -150,12 +150,12 @@ Yes. Colleges like Welingkar, NL Dalmia, VBS, and DY Patil allocate seats throug
 ### 3. What skills are most in demand for analytics roles in Mumbai?
 High proficiency in SQL, Python, Advanced Excel financial modeling, Tableau/Power BI, and domain knowledge in BFSI (banking, insurance, risk, wealth management) or FMCG supply chain.
 
-[👉 Want to evaluate your NMAT, CAT, or CET score for Mumbai B-Schools? Talk to Mohit Jain today!](/inquiry)
+[👉 Want to evaluate your NMAT, CAT, or CET score for Mumbai B-Schools? Talk to Mohit Jain today!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: Best MBA Colleges in Mumbai 2027–29 Fees & Placements](/blog/best-mba-colleges-in-mumbai-2027-29)**
-- **[Read: All About NMIMS Mumbai Admission & Cutoffs](/blog/all-about-nmims-mumbai)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: Best MBA Colleges in Mumbai 2027–29 Fees & Placements](/blog/best-mba-colleges-in-mumbai-2027-29/)**
+- **[Read: All About NMIMS Mumbai Admission & Cutoffs](/blog/all-about-nmims-mumbai/)**

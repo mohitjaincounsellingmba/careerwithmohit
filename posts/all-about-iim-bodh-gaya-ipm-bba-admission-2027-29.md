@@ -28,10 +28,10 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIM Bodh Gaya](/colleges/iim-bodh-gaya), located in the land of enlightenment, is one of the third-generation IIMs to offer the 5-Year Integrated Programme in Management (IPM). With its modern campus and growing reputation, it is a significant player in the undergraduate management space in 2026.
+[IIM Bodh Gaya](/colleges/iim-bodh-gaya/), located in the land of enlightenment, is one of the third-generation IIMs to offer the 5-Year Integrated Programme in Management (IPM). With its modern campus and growing reputation, it is a significant player in the undergraduate management space in 2026.
 
-## 🏛️ Why Choose [IIM Bodh Gaya](/colleges/iim-bodh-gaya) IPM in 2026?
-The IPM program at [IIM Bodh Gaya](/colleges/iim-bodh-gaya) is designed to nurture socially responsible and mindful business leaders.
+## 🏛️ Why Choose [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) IPM in 2026?
+The IPM program at [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) is designed to nurture socially responsible and mindful business leaders.
 - **State-of-the-Art Campus:** A new, expansive campus with world-class residential and academic facilities.
 - **Diverse Curriculum:** Combines foundational courses in social sciences with advanced management subjects.
 - **IIM Brand Value:** Provides an excellent opportunity to join the IIM ecosystem early.
@@ -60,27 +60,27 @@ Admission to IIM Bodh Gaya's IPM is through the **JIPMAT (Joint Integrated Progr
 Yes, students have the option to exit after 3 years with a Bachelor of Business Management (BBM) degree.
 
 **Q2. Does IIM Bodh Gaya accept IPMAT Indore scores?**
-No, IIM Bodh Gaya (along with [IIM Jammu](/colleges/iim-jammu)) primarily uses JIPMAT for its IPM admissions.
+No, IIM Bodh Gaya (along with [IIM Jammu](/colleges/iim-jammu/)) primarily uses JIPMAT for its IPM admissions.
 
 **Q3. What is the intake capacity for IPM 2026?**
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [IIM Jammu IPM Admission 2026](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29)
-- [IIM Indore vs IIM Bodh Gaya IPM Comparison](/blog/baby-iims-review-2026-honest-analysis)
+- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [IIM Jammu IPM Admission 2026](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29/)
+- [IIM Indore vs IIM Bodh Gaya IPM Comparison](/blog/baby-iims-review-2026-honest-analysis/)
 
 ---
 
 **Worried about the JIPMAT Logical Reasoning section?**
 JIPMAT is different from IPMAT Indore in its focus on Data Interpretation. Mohit Jain’s "JIPMAT Accelerator" program helps you master the calculation-heavy DI sets to ensure you clear the cutoff for IIM Bodh Gaya.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -94,7 +94,7 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 

@@ -48,8 +48,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **TISS Mumbai (Tata Institute of Social Sciences)** | CUET PG | ₹1.85 Lakhs (Total) | **₹27.22 LPA** |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 | **SIMSREE Mumbai** | MAH CET / CAT | ₹1.36 Lakhs (Total) | **₹12.30 LPA** |
 
@@ -78,13 +78,13 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹27.22 LPA**
 - **Key Highlight:** The absolute gold standard for HR education in India (MA HRM & LR), matching XLRI in recruiter prestige and placements.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** The legendary 'CEO Factory' with direct corporate headquarter interfaces and high ROI.
 
-### 3. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
+### 3. [NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**
@@ -113,9 +113,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -125,17 +125,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is TISS Mumbai considered the best college in India for HR?
-Yes, TISS Mumbai's MA in HRM & LR is widely considered one of the top two HR programs in India alongside [XLRI Jamshedpur](/colleges/xlri-jamshedpur), offering exceptional placement packages and a highly subsidized tuition fee structure.
+Yes, TISS Mumbai's MA in HRM & LR is widely considered one of the top two HR programs in India alongside [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), offering exceptional placement packages and a highly subsidized tuition fee structure.
 
-### Does [NMIMS Mumbai](/colleges/nmims-mumbai) have a specialized MBA HR program?
-Yes, [NMIMS Mumbai](/colleges/nmims-mumbai) has a dedicated and prestigious MBA Human Resources program with a large batch size and stellar placements in banking, retail, and corporate consulting.
+### Does [NMIMS Mumbai](/colleges/nmims-mumbai/) have a specialized MBA HR program?
+Yes, [NMIMS Mumbai](/colleges/nmims-mumbai/) has a dedicated and prestigious MBA Human Resources program with a large batch size and stellar placements in banking, retail, and corporate consulting.
 
 ### What is the fee for SIMSREE Mumbai?
 SIMSREE has a very low state government fee of approximately INR 68,000 per year, making it one of the top ROI management colleges in India.
@@ -143,6 +143,6 @@ SIMSREE has a very low state government fee of approximately INR 68,000 per year
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

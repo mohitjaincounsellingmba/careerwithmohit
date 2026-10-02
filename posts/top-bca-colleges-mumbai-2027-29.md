@@ -59,7 +59,7 @@ Choosing the right BCA college in Mumbai means starting your career in the same 
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (West)** | NPAT | ₹6.0 - 12.0 Lakhs | ₹5.5 - 9.0 LPA |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (West)** | NPAT | ₹6.0 - 12.0 Lakhs | ₹5.5 - 9.0 LPA |
 | **K J Somaiya (Vidyavihar)** | Merit-based | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
 | **Mithibai College (Vile Parle)**| Merit-based | ₹2.5 - 3.5 Lakhs | ₹4.0 - 6.5 LPA |
 | **SNDT Women's Univ.** | Merit-based | ₹0.8 - 1.2 Lakhs | ₹3.5 - 5.0 LPA |
@@ -129,16 +129,16 @@ Usually in **June**, immediately after the Maharashtra Board (HSC) and CBSE resu
 ---
 
 ### Useful Links:
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
-- [MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29/)
+- [MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29/)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide/)
 
 ---
 
 **Ready to build the future of Finance in Mumbai?**
 Mumbai isn't just about films; it's about the software that runs the world's money. Don't waste your years at a college with no recruiter ties. Mohit Jain provides a "Mumbai Tech Audit"—ensuring you pick the college that puts you in the offices of J.P. Morgan, Reliance, and beyond.
 
-[👉 Book My Mumbai BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Mumbai BCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -146,6 +146,6 @@ Mumbai isn't just about films; it's about the software that runs the world's mon
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

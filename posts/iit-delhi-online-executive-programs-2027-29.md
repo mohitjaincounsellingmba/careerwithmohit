@@ -118,15 +118,15 @@ One of the biggest advantages of an IIT Delhi tag is the employer trust it comma
 
 An executive program from IIT Delhi is more than just a certificate; it is a transformation that aligns your skills with the demands of the 2026 job market. Check out our detailed reviews of other top colleges and exams:
 
-*   [All About IITs: Fees, Cutoffs & Placement Review 2027–29](/blog/all-about-iit-colleges-review)
-*   [Top MBA Colleges in Delhi 2027–29: List & Analysis](/blog/best-mba-colleges-in-delhi-2027-29)
-*   [IIT Delhi B.Tech Review: Admission & Cutoffs](/blog/iit-delhi-btech-admission-2026-cutoff-fees)
-*   [Online MBA India 2027–29: Top 10 Universities](/blog/online-mba-india-2027-29)
+*   [All About IITs: Fees, Cutoffs & Placement Review 2027–29](/blog/all-about-iit-colleges-review/)
+*   [Top MBA Colleges in Delhi 2027–29: List & Analysis](/blog/best-mba-colleges-in-delhi-2027-29/)
+*   [IIT Delhi B.Tech Review: Admission & Cutoffs](/blog/iit-delhi-btech-admission-2026-cutoff-fees/)
+*   [Online MBA India 2027–29: Top 10 Universities](/blog/online-mba-india-2027-29/)
 
 **Still Confused About Which Executive Program to Choose?**
 Selecting the wrong program can waste years of your career. At **CareerWithMohit**, we help you compare IITs, IIMs, and other top private universities to find the perfect fit for your profile.
 
-[👉 Get Expert Advice on Executive Programs Today!](/inquiry)
+[👉 Get Expert Advice on Executive Programs Today!](/inquiry/)
 
 ---
 
@@ -148,6 +148,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

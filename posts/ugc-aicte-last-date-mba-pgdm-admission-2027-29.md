@@ -108,9 +108,9 @@ For the academic cycle starting in **August 2026**, UGC has notified the followi
 ## 🔗 Related Admission & Preparation Guides
 
 To make informed career decisions, check out our other detailed guides:
-*   [MBA vs PGDM Comparison: Which Program is Right for Your Career?](/blog/b-school-vs-university-mba-comparison)
-*   [Direct MBA Admission Without Entrance Exams: Pros, Cons, and Safe Routes](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-*   [All IIM Cut Off 2027–29: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
+*   [MBA vs PGDM Comparison: Which Program is Right for Your Career?](/blog/b-school-vs-university-mba-comparison/)
+*   [Direct MBA Admission Without Entrance Exams: Pros, Cons, and Safe Routes](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+*   [All IIM Cut Off 2027–29: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
 
 ---
 
@@ -136,6 +136,6 @@ Source: AICTE Academic Calendar 2026-27 & UGC Distance Education Bureau (DEB) no
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

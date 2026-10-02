@@ -59,10 +59,10 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 | College Name | Accepted Exams | Total Fees (Approx) | Merit Scholarship | Avg Package |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jaipuria Inst. of Mgmt, Jaipur** | CAT/XAT/MAT/CMAT | ₹12.50 Lakhs | Up to ₹3.00 Lakhs | ₹11.34 LPA |
-| **[MNIT Jaipur](/colleges/mnit-jaipur) (Dept of Mgmt)** | CAT/CMAT | ₹2.50 Lakhs | Govt. schemes | ₹8.50 LPA |
-| **[IIHMR University](/colleges/iihmr-university), Jaipur** | CAT/MAT/CMAT/ATMA/GPAT | ₹10.50 Lakhs | Up to ₹1.50 Lakhs | ₹8.20 LPA |
+| **[MNIT Jaipur](/colleges/mnit-jaipur/) (Dept of Mgmt)** | CAT/CMAT | ₹2.50 Lakhs | Govt. schemes | ₹8.50 LPA |
+| **[IIHMR University](/colleges/iihmr-university/), Jaipur** | CAT/MAT/CMAT/ATMA/GPAT | ₹10.50 Lakhs | Up to ₹1.50 Lakhs | ₹8.20 LPA |
 | **FMS-IRM (Inst. of Rural Mgmt)** | CAT/MAT/CMAT/XAT | ₹7.20 Lakhs | Up to ₹1.00 Lakh | ₹7.10 LPA |
-| **[Taxila Business School](/colleges/taxila-jaipur)** | CAT/MAT/CMAT/XAT | ₹9.50 Lakhs | Up to ₹2.00 Lakhs | ₹11.50 LPA |
+| **[Taxila Business School](/colleges/taxila-jaipur/)** | CAT/MAT/CMAT/XAT | ₹9.50 Lakhs | Up to ₹2.00 Lakhs | ₹11.50 LPA |
 | **JK Lakshmipat University** | CAT/MAT/CMAT/XAT | ₹9.00 Lakhs | Merit-based waiver | ₹7.80 LPA |
 | **Poddar Group of Institutions** | MAT/CMAT/ATMA | ₹4.50 Lakhs | Academic waiver | ₹5.20 LPA |
 
@@ -70,18 +70,18 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 
 ## Detailed Overview of Jaipur's Premier B-Schools
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Jaipur
 * **Highlights**: Located in Bambala Institutional Area, Pratap Nagar. NBA accredited, AIU recognized as MBA equivalent.
-* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-institute-of-management-jaipur).
+* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-institute-of-management-jaipur/).
 
-### 2. [IIHMR University](/colleges/iihmr-university), Jaipur
+### 2. [IIHMR University](/colleges/iihmr-university/), Jaipur
 * **Pioneer Status**: World-renowned institution dedicated to Health Management, Hospital Administration, and Pharmaceutical Management.
 * **Placements**: 100% campus placement with top hospital chains, WHO, and pharma multinationals.
 
-### 3. FMS-IRM (Faculty of Management Studies - [Institute of Rural Management](/colleges/institute-of-rural-management))
-* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/colleges/fms-irm-jaipur).
+### 3. FMS-IRM (Faculty of Management Studies - [Institute of Rural Management](/colleges/institute-of-rural-management/))
+* **Highlights**: AICTE approved PGDM with specialized tracks in Rural Management, Business Analytics, and Marketing. Read [All About FMS-IRM Jaipur](/colleges/fms-irm-jaipur/).
 
-### 4. [Taxila Business School](/colleges/taxila-jaipur), Jaipur
+### 4. [Taxila Business School](/colleges/taxila-jaipur/), Jaipur
 * **Highlights**: Known for PGDM with SAP and Business Analytics certifications.
 * **Placements**: High average placements with guaranteed minimum placement commitments.
 
@@ -91,7 +91,7 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 
 Most top colleges in Jaipur provide lucrative fee waivers to encourage meritorious candidates:
 
-* **CAT / XAT 80+ Percentile**: Up to ₹3.00 Lakhs fee scholarship at [Jaipuria Jaipur](/colleges/jaipuria-jaipur).
+* **CAT / XAT 80+ Percentile**: Up to ₹3.00 Lakhs fee scholarship at [Jaipuria Jaipur](/colleges/jaipuria-jaipur/).
 * **MAT 700+ Composite Score**: Up to ₹1.50 Lakhs fee reduction.
 * **CMAT 85+ Percentile**: ₹1.00 Lakh to ₹2.00 Lakhs fee waiver across Jaipuria, FMS-IRM, and Taxila.
 
@@ -108,6 +108,6 @@ Most top colleges in Jaipur provide lucrative fee waivers to encourage meritorio
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -113,16 +113,16 @@ Usually starts in **June/July** after the 12th board results are announced.
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
-- [BBA Colleges in Coimbatore 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026/)
+- [BBA Colleges in Coimbatore 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Ready to start your code journey in the Manchester of the South?**
 Coimbatore offers authority and mechanical depth. Don't waste your years at a college without an industrial tie-up. Mohit Jain provides a "Coimbatore Tech Audit"—helping you pick the college that puts you on the radar of L&T, Bosch, and the global IT giants.
 
-[👉 Book My Coimbatore Tech Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Coimbatore Tech Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -130,6 +130,6 @@ Coimbatore offers authority and mechanical depth. Don't waste your years at a co
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

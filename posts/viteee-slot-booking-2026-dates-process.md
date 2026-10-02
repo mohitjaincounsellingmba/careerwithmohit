@@ -11,7 +11,7 @@ keywords:
   - VITEEE admit card download
   - VITEEE 2026 exam dates
   - how to book VIT slot
-  - '[VIT Vellore](/colleges/vit-vellore-campus) BTech admission'
+  - '[VIT Vellore](/colleges/vit-vellore-campus/) BTech admission'
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -100,16 +100,16 @@ Immediately after confirmation, your **VITEEE 2026 Admit Card** will be generate
 3.  **Cross-Check Details:** Verify your personal details on the admit card. Discrepancies should be reported to the VIT admissions office immediately.
 4.  **Take a Mock Test:** Familiarize yourself with the CBT (Computer Based Test) environment before the actual exam.
 
-[👉 Take our FREE VITEEE Mock Test 2026 to boost your preparation!](/blog/free-viteee-mock-test-2026)
+[👉 Take our FREE VITEEE Mock Test 2026 to boost your preparation!](/blog/free-viteee-mock-test-2026/)
 
 ---
 
 ### Internal References:
-* [All About VIT University Campuses](/blog/all-about-vit-university-campuses)
-* [VIT Vellore B.Tech Admission 2026: Fees & Direct Admission](/blog/vit-vellore-btech-admission-2026-direct-fees-review)
-* [Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune)
+* [All About VIT University Campuses](/blog/all-about-vit-university-campuses/)
+* [VIT Vellore B.Tech Admission 2026: Fees & Direct Admission](/blog/vit-vellore-btech-admission-2026-direct-fees-review/)
+* [Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune/)
 
-Good luck with your slot booking and your VITEEE preparation! If you need comprehensive career counselling or help with the admission process, you can always reach out for a [profile evaluation](/inquiry).
+Good luck with your slot booking and your VITEEE preparation! If you need comprehensive career counselling or help with the admission process, you can always reach out for a [profile evaluation](/inquiry/).
 
 ---
 
@@ -131,6 +131,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

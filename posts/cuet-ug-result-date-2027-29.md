@@ -40,7 +40,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CUET UG Result Date 2026: Expected Date, Final...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 With the National Testing Agency (NTA) closing the objection window for the provisional answer key on **June 11, 2026**, millions of candidates are now eagerly waiting for the **CUET UG result date 2026**. 
 
@@ -53,7 +53,7 @@ In this article, we cover the expected CUET UG 2026 result date, the final answe
 > 🎓 **Confused about your university preferences based on expected CUET scores?**
 > Don't let a bad preference sheet ruin your chances of getting into North Campus or top colleges. 
 > 
-> [👉 Book a Free Admission Strategy Session with Mohit Jain!](/inquiry)
+> [👉 Book a Free Admission Strategy Session with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -120,7 +120,7 @@ This is the most critical phase. You will have to fill in your preferences for c
 
 Struggling to figure out which colleges you can target with your expected CUET score? Let Mohit Jain help you optimize your preference sheets and guide you through the DU CSAS, IPU, and other university admission processes.
 
-[👉 Connect with Mohit Jain for Expert Admissions Advice](/inquiry)
+[👉 Connect with Mohit Jain for Expert Admissions Advice](/inquiry/)
 
 ---
 
@@ -139,10 +139,10 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 
 ### 🔗 Related Reading & Resources
-* [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-* [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026)
-* [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29)
-* [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
+* [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+* [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
+* [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29/)
+* [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
 
 ---
 
@@ -151,6 +151,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -53,11 +53,11 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune)** | SNAP | ₹23.7 Lakhs (Total) | **₹22.00 LPA** |
-| **[SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
-| **[PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
-| **[PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
-| **[Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
+| **[SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune/)** | SNAP | ₹23.7 Lakhs (Total) | **₹22.00 LPA** |
+| **[SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune/)** | SNAP | ₹24.5 Lakhs (Total) | **₹28.16 LPA** |
+| **[PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune/)** | MAH CET / CAT / CMAT | ₹1.3 Lakhs (Total) | **₹8.85 LPA** |
+| **[PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune/)** | CAT / XAT / CMAT / MAT | ₹8.75 Lakhs (Total) | **₹7.50 LPA** |
+| **[Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29/)** | MAH CET / CMAT / CAT | ₹7.2 Lakhs (Total) | **₹6.80 LPA** |
 
 ---
 
@@ -67,7 +67,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 ## 🚀 Why Choose Pune for an MBA in Business Analytics?
 
-Pune, known as the 'Oxford of the East,' is a thriving industrial, automobile, and IT hub. For students aiming to build a career in data intelligence and business analytics, Pune offers some of India's most prestigious B-schools. The presence of Symbiosis campuses like SCMHRD (which has a dedicated, highly-ranked MBA-BA course) and [SIBM Pune](/colleges/sibm-pune), along with highly affordable university departments like PUMBA, makes it a premier destination for analytics education.
+Pune, known as the 'Oxford of the East,' is a thriving industrial, automobile, and IT hub. For students aiming to build a career in data intelligence and business analytics, Pune offers some of India's most prestigious B-schools. The presence of Symbiosis campuses like SCMHRD (which has a dedicated, highly-ranked MBA-BA course) and [SIBM Pune](/colleges/sibm-pune/), along with highly affordable university departments like PUMBA, makes it a premier destination for analytics education.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -78,31 +78,31 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Pune
 
-### 1. [SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune)
+### 1. [SCMHRD Pune (Symbiosis Centre for Management and Human Resource Development)](/colleges/scmhrd-pune/)
 - **Approximate Fees:** ₹23.7 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹22.00 LPA**
 - **Key Highlight:** Offers a dedicated, highly acclaimed MBA in Business Analytics program matching premium industry standards.
 
-### 2. [SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune)
+### 2. [SIBM Pune (Symbiosis Institute of Business Management)](/colleges/sibm-pune/)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹28.16 LPA**
 - **Key Highlight:** Flagship Symbiosis campus offering premium placements across top consulting and tech firms.
 
-### 3. [PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune)
+### 3. [PUMBA Pune (Department of Management Sciences, Pune University)](/colleges/pumba-pune/)
 - **Approximate Fees:** ₹1.3 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT / CMAT
 - **Average Placement Package:** **₹8.85 LPA**
 - **Key Highlight:** Outstanding ROI with state university fees and good placements in regional corporate analytics wings.
 
-### 4. [PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune)
+### 4. [PIBM Pune (Pune Institute of Business Management)](/colleges/pibm-pune/)
 - **Approximate Fees:** ₹8.75 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / MAT
 - **Average Placement Package:** **₹7.50 LPA**
 - **Key Highlight:** Offers specialized training in enterprise tools, marketing analytics, and financial analytics.
 
-### 5. [Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29)
+### 5. [Indira School of Business Studies (ISBS)](/blog/akemi-business-school-pune-mba-admission-2027-29/)
 - **Approximate Fees:** ₹7.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CMAT / CAT
 - **Average Placement Package:** **₹6.80 LPA**
@@ -119,9 +119,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -131,17 +131,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is [SCMHRD Pune](/colleges/scmhrd-pune) good for MBA in Business Analytics?
-[SCMHRD Pune](/colleges/scmhrd-pune) is highly renowned for its specialized MBA in Business Analytics program, which regularly attracts top recruiters from consulting, IT, and financial service sectors.
+### Is [SCMHRD Pune](/colleges/scmhrd-pune/) good for MBA in Business Analytics?
+[SCMHRD Pune](/colleges/scmhrd-pune/) is highly renowned for its specialized MBA in Business Analytics program, which regularly attracts top recruiters from consulting, IT, and financial service sectors.
 
-### What is the average package at [SIBM Pune](/colleges/sibm-pune) for MBA?
-The overall average placement package at [SIBM Pune](/colleges/sibm-pune) is approximately INR 28.16 LPA, with students focusing on consulting and analytics roles securing highly lucrative packages.
+### What is the average package at [SIBM Pune](/colleges/sibm-pune/) for MBA?
+The overall average placement package at [SIBM Pune](/colleges/sibm-pune/) is approximately INR 28.16 LPA, with students focusing on consulting and analytics roles securing highly lucrative packages.
 
 ### What are the low-fee MBA Business Analytics choices in Pune?
 PUMBA (Department of Management Sciences, Pune University) offers highly subsidized fees of around INR 1.3 Lakhs for the complete program, yielding a very high return on investment.
@@ -149,6 +149,6 @@ PUMBA (Department of Management Sciences, Pune University) offers highly subsidi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

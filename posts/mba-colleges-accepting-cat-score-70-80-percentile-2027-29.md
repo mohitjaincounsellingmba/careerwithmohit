@@ -65,18 +65,18 @@ In this guide, expert education counselor **Mohit Jain** provides an authoritati
 
 | College Name | Location | Expected CAT Cutoff | Total Program Fees | Average Package (2025 Audited) | Highest Package |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[BIMTECH](/colleges/bimtech-greater-noida)** (IBM / RM) | Greater Noida, NCR | 72 – 75 %ile | ₹14.00 Lakhs | ₹11.20 LPA | ₹24.40 LPA |
-| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | Gurgaon, NCR | 70 – 75 %ile | ₹15.90 Lakhs | ₹11.50 LPA | ₹21.00 LPA |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-noida)** | Noida / Lucknow / Jaipur | 70 – 75 %ile | ₹14.50 Lakhs | ₹11.49 LPA | ₹22.00 LPA |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | New Delhi | 70 – 75 %ile | ₹11.50 Lakhs | ₹10.20 LPA | ₹19.50 LPA |
-| **[JIMS Rohini](/colleges/jims-rohini)** | New Delhi | 72 – 75 %ile | ₹9.75 Lakhs | ₹9.20 LPA | ₹22.00 LPA |
-| **[XIME Bangalore](/colleges/xime-bangalore) / Chennai** | Bengaluru / Chennai | 70 – 75 %ile | ₹12.50 Lakhs | ₹10.30 LPA | ₹18.00 LPA |
-| **[Welingkar Institute of Management (WeSchool)](/colleges/welingkar-bangalore)** | Mumbai / Bengaluru | 75 – 80 %ile (Profile) | ₹15.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA |
-| **[Christ University School of Business](/colleges/christ-university-bangalore)** | Bengaluru, Karnataka | 70 – 75 %ile | ₹10.50 Lakhs | ₹9.50 LPA | ₹21.46 LPA |
-| **[SIES College of Management Studies](/blog/all-about-itm-mumbai)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
-| **[IBS Hyderabad (ICFAI)](/blog/all-about-ibs-campuses)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
-| **[ITM Business School](/colleges/itm-mumbai)** | Navi Mumbai / Chennai | 70 – 75 %ile | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA |
-| **[Chetana's R.K. Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29)** | Mumbai | 75 – 80 %ile | ₹9.50 Lakhs | ₹9.10 LPA | ₹17.50 LPA |
+| **[BIMTECH](/colleges/bimtech-greater-noida/)** (IBM / RM) | Greater Noida, NCR | 72 – 75 %ile | ₹14.00 Lakhs | ₹11.20 LPA | ₹24.40 LPA |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon/)** | Gurgaon, NCR | 70 – 75 %ile | ₹15.90 Lakhs | ₹11.50 LPA | ₹21.00 LPA |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** | Noida / Lucknow / Jaipur | 70 – 75 %ile | ₹14.50 Lakhs | ₹11.49 LPA | ₹22.00 LPA |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | New Delhi | 70 – 75 %ile | ₹11.50 Lakhs | ₹10.20 LPA | ₹19.50 LPA |
+| **[JIMS Rohini](/colleges/jims-rohini/)** | New Delhi | 72 – 75 %ile | ₹9.75 Lakhs | ₹9.20 LPA | ₹22.00 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore/) / Chennai** | Bengaluru / Chennai | 70 – 75 %ile | ₹12.50 Lakhs | ₹10.30 LPA | ₹18.00 LPA |
+| **[Welingkar Institute of Management (WeSchool)](/colleges/welingkar-bangalore/)** | Mumbai / Bengaluru | 75 – 80 %ile (Profile) | ₹15.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA |
+| **[Christ University School of Business](/colleges/christ-university-bangalore/)** | Bengaluru, Karnataka | 70 – 75 %ile | ₹10.50 Lakhs | ₹9.50 LPA | ₹21.46 LPA |
+| **[SIES College of Management Studies](/blog/all-about-itm-mumbai/)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
+| **[IBS Hyderabad (ICFAI)](/blog/all-about-ibs-campuses/)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
+| **[ITM Business School](/colleges/itm-mumbai/)** | Navi Mumbai / Chennai | 70 – 75 %ile | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA |
+| **[Chetana's R.K. Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29/)** | Mumbai | 75 – 80 %ile | ₹9.50 Lakhs | ₹9.10 LPA | ₹17.50 LPA |
 
 ---
 
@@ -86,23 +86,23 @@ In this guide, expert education counselor **Mohit Jain** provides an authoritati
 
 ## 🏛️ In-Depth College Insights
 
-### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida) (Specialized PGDM Programs)
+### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/) (Specialized PGDM Programs)
 While BIMTECH's core PGDM requires an 80+ percentile, its nationally recognized specialized programs — **PGDM in Insurance Business Management (IBM)** and **PGDM in Retail Management (RM)** — actively shortlist candidates in the **70 to 75 percentile bracket**.
 *   **Key Advantage:** IBM students enjoy near 100% placement with marquee insurers, brokers, and consultancies (Swiss Re, Marsh, Bajaj Allianz, HDFC ERGO).
 
-### 2. [SOIL Institute of Management](/colleges/soil-gurgaon), Gurgaon
+### 2. [SOIL Institute of Management](/colleges/soil-gurgaon/), Gurgaon
 Located right in the cyber hub of Gurgaon, SOIL focuses heavily on leadership, design thinking, and analytics.
 *   **Key Advantage:** Excellent recruiter access across Gurgaon IT and consulting corridors (Cognizant, Infosys, Schneider Electric, HCL Tech).
 
-### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida / Lucknow)
+### 3. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) (Noida / Lucknow)
 With NBA and AACSB business education member status, Jaipuria offers unified centralized placements across its four campuses (Noida, Lucknow, Jaipur, Indore).
 *   **Key Advantage:** Over 300+ recruiters visit annually, with heavy hiring in FMCG, Retail, and BFSI.
 
-### 4. NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), New Delhi
+### 4. NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi/)), New Delhi
 Consistently ranked among the top industry-linked B-schools by AICTE-CII, NDIM offers dual specializations with very strong corporate interface.
 *   **Key Advantage:** High ROI in central Delhi, offering dual specializations in Marketing, Finance, HR, IT, and Business Analytics.
 
-### 5. [JIMS Rohini ([Jagan Institute of Management Studies](/colleges/jims-rohini))](/colleges/jims-rohini), Delhi
+### 5. [JIMS Rohini ([Jagan Institute of Management Studies](/colleges/jims-rohini/))](/colleges/jims-rohini), Delhi
 One of the most reputed institutes under GGSIPU and AICTE in Delhi NCR.
 *   **Key Advantage:** Low fees under ₹10 Lakhs with strong placement support (average ₹9.2 LPA), offering one of the highest ROIs in North India.
 
@@ -121,17 +121,17 @@ WeSchool accepts profile-based applications for its innovative programs such as 
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges for 50-60 Percentile in CAT](/blog/top-mba-colleges-for-50-60-percentile-in-cat-2027-29)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges for 50-60 Percentile in CAT](/blog/top-mba-colleges-for-50-60-percentile-in-cat-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the top MBA colleges accepting 70-80 percentile in CAT 2027–29?
-Top colleges include BIMTECH Greater Noida (IBM/Retail programs), SOIL Institute of Management Gurgaon, [Jaipuria Institute of Management](/colleges/jaipuria-jaipur) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
+Top colleges include BIMTECH Greater Noida (IBM/Retail programs), SOIL Institute of Management Gurgaon, [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore/), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
 
 ### What average salary package can I expect from a 70-80 percentile college?
 Most reputable AICTE-approved colleges in this range offer average salary packages between INR 9.50 LPA and INR 13.50 LPA, with top performers achieving INR 18 to 22 LPA.
@@ -149,6 +149,6 @@ Candidates with good academic consistency (70%+ in 10th/12th/Graduation), work e
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

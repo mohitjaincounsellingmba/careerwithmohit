@@ -42,7 +42,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Discover rankings, direct admission, fees, and placement reports for top colleges in Gurgaon, Delhi NCR. Get d...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Landing a job at a Fortune 500 Multinational Company (MNC) is a dream for many. However, the biggest hurdle is often finding the **official** career portal amidst a sea of third-party job boards.
 
@@ -181,8 +181,8 @@ To make your job hunt easier, we have compiled a master list of **100 global MNC
 ### **Expert Tip for Applicants**
 Applying directly on a company's terminal is **5x more effective** than applying on third-party aggregators. Recruiters prioritize applicants from their own ecosystem first!
 
-[👉 Need help building an MNC-Ready Resume?](/inquiry)
-[👉 View Top Skills for 2026 Technomanagers](/blog/mba-after-btech-benefits-2027-29)
+[👉 Need help building an MNC-Ready Resume?](/inquiry/)
+[👉 View Top Skills for 2026 Technomanagers](/blog/mba-after-btech-benefits-2027-29/)
 
 **Stay Focused, Stay Proactive!**
 
@@ -206,6 +206,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

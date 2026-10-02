@@ -148,7 +148,7 @@ export function College4SureHero() {
                 </Link>
               ))}
               <Link
-                href="/mba-application-form-discount"
+                href="/mba-application-form-discount/"
                 className="px-3 py-1 rounded-full bg-[#FF007A]/20 text-[#FF5E9A] hover:bg-[#FF007A] hover:text-white border border-[#FF007A]/40 font-bold text-xs transition-all hover:-translate-y-0.5 shadow-[0_0_12px_rgba(255,0,122,0.25)]"
               >
                 🔥 Form Discounts

@@ -271,9 +271,9 @@ export default function NmatMockTestPage() {
                 Ready to level up? Explore our guides for top-tier MBA programs that accept NMAT and how to optimize your application profile.
               </p>
               <ul className="space-y-4">
-                <li><a href="/blog/all-about-nmat-exam" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2026 Ultimate Guide</a></li>
-                <li><a href="/blog/top-mba-colleges-mumbai-2027-29" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
-                <li><a href="/blog/gdpi-interview-topics-solutions-mba" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
+                <li><a href="/blog/all-about-nmat-exam/" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> NMAT 2026 Ultimate Guide</a></li>
+                <li><a href="/blog/top-mba-colleges-mumbai-2027-29/" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> Best Colleges in Mumbai</a></li>
+                <li><a href="/blog/gdpi-interview-topics-solutions-mba/" className="font-black underline uppercase hover:text-accent flex items-center gap-2 italic"><ArrowRight className="h-4 w-4" /> CD/PI Preparation for NMIMS</a></li>
               </ul>
             </div>
           </section>

@@ -29,13 +29,13 @@ faqs:
       While the university reports higher figures, the realistic average for the
       "mass" student stays between ₹4.5 LPA and ₹6.0 LPA.
   - question: Does Galgotias have good faculty for MBA?
-    answer: "They have qualified faculty, but in a classroom of 60-70 students, the \"student-to-faculty\" engagement is almost zero.\n\n[\U0001F449 Compare Galgotias with High-ROI B-Schools!](/tools/college-comparison)\n\n**Don't Be a Part of the Crowd.**\nAt **CareerWithMohit**, we help you find colleges where you are the priority, not the university’s marketing budget.\n\n[\U0001F449 Get an Independent Audit of Your Choice!](/inquiry)"
+    answer: "They have qualified faculty, but in a classroom of 60-70 students, the \"student-to-faculty\" engagement is almost zero.\n\n[\U0001F449 Compare Galgotias with High-ROI B-Schools!](/tools/college-comparison/)\n\n**Don't Be a Part of the Crowd.**\nAt **CareerWithMohit**, we help you find colleges where you are the priority, not the university’s marketing budget.\n\n[\U0001F449 Get an Independent Audit of Your Choice!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Law
 ---
 
-If you live in the Delhi-NCR region, you cannot escape the massive billboards of **[Galgotias University](/colleges/galgotias-university)**. Their marketing is everywhere—promising "Top Placements," "World-Class Infrastructure," and their newest favorite buzzword: **\"AI-Integrated MBA.\"**
+If you live in the Delhi-NCR region, you cannot escape the massive billboards of **[Galgotias University](/colleges/galgotias-university/)**. Their marketing is everywhere—promising "Top Placements," "World-Class Infrastructure," and their newest favorite buzzword: **\"AI-Integrated MBA.\"**
 
 But as an expert who has seen hundreds of students struggle after joining such mass-intake giants, I have a clear message for you: **Stop before you sign that admission letter.**
 
@@ -83,7 +83,7 @@ If you have the 60-70 percentile rank and a ₹10-12 Lakh budget, don't waste it
 ---
 
 ### **Frequently Asked Questions (FAQ)**
-**1. Is [Galgotias University](/colleges/galgotias-university) bad for MBA?**
+**1. Is [Galgotias University](/colleges/galgotias-university/) bad for MBA?**
 It isn't "bad" if you just want a degree. But if you want a **management career** with a high-package placement, the mass-intake model of Galgotias makes it extremely difficult for an average student to succeed.
 
 **2. What is the average package of MBA at Galgotias 2027–29?**
@@ -92,12 +92,12 @@ While the university reports higher figures, the realistic average for the "mass
 **3. Does Galgotias have good faculty for MBA?**
 They have qualified faculty, but in a classroom of 60-70 students, the "student-to-faculty" engagement is almost zero.
 
-[👉 Compare Galgotias with High-ROI B-Schools!](/tools/college-comparison)
+[👉 Compare Galgotias with High-ROI B-Schools!](/tools/college-comparison/)
 
 **Don't Be a Part of the Crowd.**
 At **CareerWithMohit**, we help you find colleges where you are the priority, not the university’s marketing budget.
 
-[👉 Get an Independent Audit of Your Choice!](/inquiry)
+[👉 Get an Independent Audit of Your Choice!](/inquiry/)
 
 
 
@@ -105,7 +105,7 @@ At **CareerWithMohit**, we help you find colleges where you are the priority, no
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -119,6 +119,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

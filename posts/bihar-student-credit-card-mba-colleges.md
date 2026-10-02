@@ -76,7 +76,7 @@ If you are a student from Bihar planning to pursue an MBA in the **2027–29 ses
 - **Admission**: Must have a valid **Bonafide Certificate** and **Fee Structure** from a recognized institution.
 
 > [!TIP]
-> Talk to our experts to see if the ₹4 Lakh DRCC loan combined with your chosen college's placement will give you a good return on investment. [**Check ROI with Experts**](/inquiry)
+> Talk to our experts to see if the ₹4 Lakh DRCC loan combined with your chosen college's placement will give you a good return on investment. [**Check ROI with Experts**](/inquiry/)
 
 ---
 
@@ -85,23 +85,23 @@ If you are a student from Bihar planning to pursue an MBA in the **2027–29 ses
 Students from Bihar have successfully used the DRCC loan for the following institutions. Always confirm the specific course eligibility at your local DRCC office.
 
 ### 🏛️ Delhi NCR (Top Rated)
-- **[NDIM Delhi](/colleges/ndim-delhi)** — Grade 'A' B-school with excellent CSR placement.
-- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2027-29)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
-- **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review)** — Massive intake but consistently accepts the Bihar Credit Card.
-- **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** — Highly preferred for PGDM (Limited BSCC seats).
-- **[FIIB Delhi](/colleges/fiib-delhi)** — Known for International Business and 100% BSCC support.
-- **[GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida)** — Great ROI (High placement, moderate fees).
+- **[NDIM Delhi](/colleges/ndim-delhi/)** — Grade 'A' B-school with excellent CSR placement.
+- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2027-29/)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
+- **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review/)** — Massive intake but consistently accepts the Bihar Credit Card.
+- **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** — Highly preferred for PGDM (Limited BSCC seats).
+- **[FIIB Delhi](/colleges/fiib-delhi/)** — Known for International Business and 100% BSCC support.
+- **[GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/)** — Great ROI (High placement, moderate fees).
 
 ### 🌿 Pune & Mumbai (The Finance/IT Hub)
-- **[ITM Navi Mumbai](/colleges/itm-mumbai)** — Specialised in Fintech and Digital Marketing.
-- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2027-29)** — Good and affordable choice for DRCC students.
+- **[ITM Navi Mumbai](/colleges/itm-mumbai/)** — Specialised in Fintech and Digital Marketing.
+- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2027-29/)** — Good and affordable choice for DRCC students.
 - **ASM's IBMR** — Chinchwad, Pune.
 - **Indira Group (ISBS/IIMP)** — Pune's favorite for centralized placements.
 
 ### 🌺 Bangalore (Silicon Valley of India)
-- **[XIME Bangalore](/colleges/xime-bangalore)** — Top-tier placement in Electronics City.
-- **[ISBR Bangalore](/colleges/isbr-bangalore)** — Awarded for Industry Excellence.
-- **[Alliance University](/colleges/alliance-university-bangalore)** — Large campus with diverse networking.
+- **[XIME Bangalore](/colleges/xime-bangalore/)** — Top-tier placement in Electronics City.
+- **[ISBR Bangalore](/colleges/isbr-bangalore/)** — Awarded for Industry Excellence.
+- **[Alliance University](/colleges/alliance-university-bangalore/)** — Large campus with diverse networking.
 - **Krupanidhi School of Management** — Known for student-centric support.
 
 ---
@@ -139,7 +139,7 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 ---
 
-[**Get Your DRCC College List & Free Counselling**](/inquiry) | [**Book a Session with Mohit Jain**](/blog/join-mba-student-community-whatsapp-telegram-groups-2027)
+[**Get Your DRCC College List & Free Counselling**](/inquiry/) | [**Book a Session with Mohit Jain**](/blog/join-mba-student-community-whatsapp-telegram-groups-2027/)
 
 <script type="application/ld+json">
 {
@@ -181,7 +181,7 @@ Usually **45 to 60 days** from the date of your DRCC office visit.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -195,6 +195,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -143,11 +143,11 @@ If you missed three questions on *Arithmetic* or *Organic Chemistry*, go back to
 
 Get expert guidance for Admissions 2026, Mock Tests, and Career Roadmaps tailored just for you.
 
-- **[Mock Test Hub](/mock-tests):** Access our full-length mock test series.
-- **[CAT 2026 Strategy](/blog/cat-2026-preparation-strategy-syllabus-dates):** Learn how to plan your prep.
-- **[JEE Main 2026 Strategy](/blog/how-to-crack-jee-advanced-2027-29):** Your roadmap to top IITs.
+- **[Mock Test Hub](/mock-tests/):** Access our full-length mock test series.
+- **[CAT 2026 Strategy](/blog/cat-2026-preparation-strategy-syllabus-dates/):** Learn how to plan your prep.
+- **[JEE Main 2026 Strategy](/blog/how-to-crack-jee-advanced-2027-29/):** Your roadmap to top IITs.
 
-[👉 Still struggling with your preparation? Connect with Mohit Jain for a personalized strategy session!](/inquiry)
+[👉 Still struggling with your preparation? Connect with Mohit Jain for a personalized strategy session!](/inquiry/)
 
 ---
 *Note: All papers provided are for educational purposes. We recommend students use them as practice tools alongside their regular coaching material.*

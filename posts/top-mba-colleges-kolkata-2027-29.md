@@ -46,7 +46,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
+Kolkata, the "City of Joy" and the gateway to East India, is home to India's first IIM—[IIM Calcutta](/colleges/iim-calcutta/). For MBA students, Kolkata offers a unique combination of rich intellectual heritage and proximity to major industrial clusters in West Bengal, Odisha, and Bihar.
 
 Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI government options like Jadavpur University, this guide covers the **top MBA colleges in Kolkata** for the 2027–2029 intake.
 
@@ -56,13 +56,13 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT | ₹25.0 Lakhs | ₹35.07 LPA |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | CAT | ₹25.0 Lakhs | ₹35.07 LPA |
 | **VGSOM, IIT Kharagpur**| CAT | ₹11.5 Lakhs | ₹22.13 LPA |
-| **[IMI Kolkata](/colleges/imi-kolkata)** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata/)** | CAT/XAT/GMAT | ₹14.5 Lakhs | ₹10.65 LPA |
 | **IISWBM** | CAT / MAT | ₹6.0 Lakhs | ₹8.5 LPA |
 | **Jadavpur University** | CAT / MAT | ₹0.50 Lakhs | ₹6.5 LPA |
-| **[Globsyn Business School](/colleges/globsyn-kolkata)**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
-| **[Heritage Business School](/colleges/heritage-business-school)**| MAT/CMAT/JEMAT | ₹6.5 Lakhs | ₹5.2 LPA |
+| **[Globsyn Business School](/colleges/globsyn-kolkata/)**| CAT/MAT/CMAT | ₹8.5 Lakhs | ₹7.4 LPA |
+| **[Heritage Business School](/colleges/heritage-business-school/)**| MAT/CMAT/JEMAT | ₹6.5 Lakhs | ₹5.2 LPA |
 | **Calcutta University** | JEMAT / CAT | ₹0.40 Lakhs | ₹5.0 LPA |
 
 ---
@@ -73,7 +73,7 @@ Whether you are targeting the quantitative-heavy IIM-C or looking for high-ROI g
 
 ## 🏛️ Tier 1: The Global Authority
 
-### 1. [IIM Calcutta](/colleges/iim-calcutta) (IIM-C)
+### 1. [IIM Calcutta](/colleges/iim-calcutta/) (IIM-C)
 The "Joka" campus is arguably the best B-school in Asia for **Finance and Quantitative Analytics**.
 - **Top Recruiters:** Goldman Sachs, JP Morgan, Morgan Stanley, BCG.
 - **Why Choose It:** If you love numbers and dream of Wall Street or Dalal Street, IIM-C is the absolute pinnacle.
@@ -82,7 +82,7 @@ The "Joka" campus is arguably the best B-school in Asia for **Finance and Quanti
 Technically located in Kharagpur (2 hours from Kolkata), its placements and brand are deeply integrated with the Kolkata corporate ecosystem.
 - **ROI Tip:** For a fee of ~₹11 Lakhs, getting a ₹22 LPA average is one of India's best ROI stories.
 
-### 3. [IMI Kolkata](/colleges/imi-kolkata)
+### 3. [IMI Kolkata](/colleges/imi-kolkata/)
 The sibling of the famous IMI New Delhi. It has quickly built a reputation for its corporate connections in the manufacturing and IT sectors of North and East India.
 
 ---
@@ -107,16 +107,16 @@ One of India's most prestigious public universities.
 
 Many students from West Bengal and Bihar target Kolkata for reliable private B-schools:
 
-- **[Globsyn Business School](/colleges/globsyn-kolkata):** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
-- **[Heritage Business School](/colleges/heritage-business-school):** Part of the famous Heritage group. Known for a disciplined academic environment.
-- **[Techno India University](/colleges/techno-india-university-kolkata):** Offer massive scaling and direct admission options for students with mid-range graduation marks.
+- **[Globsyn Business School](/colleges/globsyn-kolkata/):** Well-known for its **Knowledge Management** based pedagogy and strong IT sector placements.
+- **[Heritage Business School](/colleges/heritage-business-school/):** Part of the famous Heritage group. Known for a disciplined academic environment.
+- **[Techno India University](/colleges/techno-india-university-kolkata/):** Offer massive scaling and direct admission options for students with mid-range graduation marks.
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 **Q1. Is Kolkata good for MBA finance?**
-It is the BEST. With **[IIM Calcutta](/colleges/iim-calcutta)** leading the way, the city has a massive ecosystem of finance professionals and legacy industry ties.
+It is the BEST. With **[IIM Calcutta](/colleges/iim-calcutta/)** leading the way, the city has a massive ecosystem of finance professionals and legacy industry ties.
 
 **Q2. What is the JEMAT exam?**
 The Joint Entrance Management Aptitude Test (JEMAT) is the state-level entrance exam for MBA/PGDM seats in West Bengal government and private colleges.
@@ -133,16 +133,16 @@ Tier-1 closes by December/January. State colleges through JEMAT continue their p
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Top MBA Colleges in Delhi NCR 2027–29 Guide](/colleges/mba-colleges-delhi-ncr)
-- [B.Tech Colleges in Kolkata 2026 Guide](/blog/top-btech-colleges-kolkata-2026)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Top MBA Colleges in Delhi NCR 2027–29 Guide](/colleges/mba-colleges-delhi-ncr/)
+- [B.Tech Colleges in Kolkata 2026 Guide](/blog/top-btech-colleges-kolkata-2026/)
 
 ---
 
 **Eastern India Aspirants, Stop Guessing.**
 Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. Mohit Jain provides an honest, data-backed audit of Kolkata B-schools to ensure you don't waste your precious 2 years.
 
-[👉 Book My Kolkata Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Kolkata Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -150,6 +150,6 @@ Kolkata offers branding that spans decades. Don't be fooled by shiny brochures. 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

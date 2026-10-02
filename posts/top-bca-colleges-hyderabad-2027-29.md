@@ -117,16 +117,16 @@ Admissions for merit-based seats usually close by **July end**. Management quota
 ---
 
 ### Useful Links:
-- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026)
-- [MBA Colleges in Hyderabad 2027–29](/blog/top-mba-colleges-hyderabad-2027-29)
-- [BCA vs B.Tech — Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026/)
+- [MBA Colleges in Hyderabad 2027–29](/blog/top-mba-colleges-hyderabad-2027-29/)
+- [BCA vs B.Tech — Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
 **Ready to Code your way into HITEC City?**
 Hyderabad offers branding that lasts a lifetime. Don't waste your parents' money on a college that has no software ties. Mohit Jain provides a "Hyderabad IT Audit"—ensuring you pick the college that puts you in the interview room of Microsoft, Google, and beyond.
 
-[👉 Book My Hyderabad BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Hyderabad BCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -134,6 +134,6 @@ Hyderabad offers branding that lasts a lifetime. Don't waste your parents' money
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

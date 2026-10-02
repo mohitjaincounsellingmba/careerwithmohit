@@ -50,9 +50,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun (School of Business)](/colleges/upes-dehradun)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
-| **[Doon Business School (DBS)](/colleges/doon-business-school)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
-| **[Graphic Era University (GEU)](/colleges/graphic-era-dehradun)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
+| **[UPES Dehradun (School of Business)](/colleges/upes-dehradun/)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
+| **[Doon Business School (DBS)](/colleges/doon-business-school/)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
+| **[Graphic Era University (GEU)](/colleges/graphic-era-dehradun/)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
 
@@ -73,19 +73,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Dehradun
 
-### 1. [UPES Dehradun (School of Business)](/colleges/upes-dehradun)
+### 1. [UPES Dehradun (School of Business)](/colleges/upes-dehradun/)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** UPESMET / CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.40 LPA**
 - **Key Highlight:** Offers a highly specialized MBA in Banking and Financial Services program with strong fintech and digital banking certifications.
 
-### 2. [Doon Business School (DBS)](/colleges/doon-business-school)
+### 2. [Doon Business School (DBS)](/colleges/doon-business-school/)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.90 LPA**
 - **Key Highlight:** Offers PGDM with specialized electives in financial planning, digital finance strategy, and tools.
 
-### 3. [Graphic Era University (GEU)](/colleges/graphic-era-dehradun)
+### 3. [Graphic Era University (GEU)](/colleges/graphic-era-dehradun/)
 - **Approximate Fees:** ₹7.2 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.20 LPA**
@@ -102,9 +102,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -114,17 +114,17 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What is special about the [UPES Dehradun](/colleges/upes-dehradun) MBA Finance program?
-[UPES Dehradun](/colleges/upes-dehradun) offers a specialized management track that combines core banking with digital banking, risk management, and fintech analytics.
+### What is special about the [UPES Dehradun](/colleges/upes-dehradun/) MBA Finance program?
+[UPES Dehradun](/colleges/upes-dehradun/) offers a specialized management track that combines core banking with digital banking, risk management, and fintech analytics.
 
-### Does [Doon Business School](/colleges/doon-business-school) provide good placements for fintech?
-Yes, [Doon Business School](/colleges/doon-business-school) has a dedicated placement cell that brings in retail, banking, and digital services firms for hiring finance and management trainees.
+### Does [Doon Business School](/colleges/doon-business-school/) provide good placements for fintech?
+Yes, [Doon Business School](/colleges/doon-business-school/) has a dedicated placement cell that brings in retail, banking, and digital services firms for hiring finance and management trainees.
 
 ### Can I get admission in Dehradun MBA colleges through MAT?
 Yes, almost all management institutions in Dehradun accept MAT and CMAT scores for admissions.
@@ -132,6 +132,6 @@ Yes, almost all management institutions in Dehradun accept MAT and CMAT scores f
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -50,7 +50,7 @@ Here is the detailed overview of the top management institutes in Bangalore acce
 > - **Total Fee Structure**: Verified at ₹14.50 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹12.50 LPA (Highest ₹25.4 LPA) with AICTE / AIU Approved.
 
-## 1. [XIME Bangalore](/colleges/xime-bangalore)
+## 1. [XIME Bangalore](/colleges/xime-bangalore/)
 Accredited by ACBSP, offering globally recognized PGDM with excellent student exchange options.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹12.50 Lakhs
@@ -62,7 +62,7 @@ Known for outstanding corporate mentors, business design courses, and solid plac
 - **Approx Tuition Fees (2 Years):** ₹14.00 Lakhs
 - **Average Placement Package:** ₹10.5 LPA
 
-### 3. [ISBR Business School](/colleges/isbr-bangalore)
+### 3. [ISBR Business School](/colleges/isbr-bangalore/)
 Recognized for global networking, offering multi-country study programs and internship models.
 - **MAT Cutoff Percentile:** 65+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹9.00 Lakhs
@@ -80,7 +80,7 @@ A highly consistent private college focusing on leadership modules and corporate
 - **Approx Tuition Fees (2 Years):** ₹9.00 Lakhs
 - **Average Placement Package:** ₹7.20 LPA
 
-### 6. [Indus Business Academy (IBA)](/colleges/iba-bangalore)
+### 6. [Indus Business Academy (IBA)](/colleges/iba-bangalore/)
 Exclusively dedicated to management studies, with a beautiful green campus and high corporate trust.
 - **MAT Cutoff Percentile:** 70+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹9.50 Lakhs
@@ -92,12 +92,12 @@ Exclusively dedicated to management studies, with a beautiful green campus and h
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | 75+ Percentile | ₹12.50 Lakhs | **₹9.20 LPA** |
+| **[XIME Bangalore](/colleges/xime-bangalore/)** | 75+ Percentile | ₹12.50 Lakhs | **₹9.20 LPA** |
 | **Welingkar Institute of Management (WeSchool)** | 75+ Percentile | ₹14.00 Lakhs | **₹10.5 LPA** |
-| **[ISBR Business School](/colleges/isbr-bangalore)** | 65+ Percentile | ₹9.00 Lakhs | **₹7.50 LPA** |
+| **[ISBR Business School](/colleges/isbr-bangalore/)** | 65+ Percentile | ₹9.00 Lakhs | **₹7.50 LPA** |
 | **Alliance School of Business** | 70+ Percentile | ₹15.00 Lakhs | **₹8.50 LPA** |
 | **AIMS Institutes** | 65+ Percentile | ₹9.00 Lakhs | **₹7.20 LPA** |
-| **[Indus Business Academy (IBA)](/colleges/iba-bangalore)** | 70+ Percentile | ₹9.50 Lakhs | **₹7.80 LPA** |
+| **[Indus Business Academy (IBA)](/colleges/iba-bangalore/)** | 70+ Percentile | ₹9.50 Lakhs | **₹7.80 LPA** |
 
 ---
 
@@ -115,14 +115,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -133,6 +133,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

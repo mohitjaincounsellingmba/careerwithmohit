@@ -188,21 +188,21 @@ Yes. The program features live and recorded sessions accessible 24/7, designed s
 | College | NAAC | Starting Fee | Unique Strength |
 | :--- | :--- | :--- | :--- |
 | **JAIN Online** | A++ | ₹1,60,000 | FinTech, ACCA, Dual Spec |
-| [NMIMS Online](/blog/nmims-online-mba-review-2027-29) | A++ | ₹2,10,000 | Brand, Finance |
-| [SRM Online](/blog/srm-university-online-mba-review-2027-29) | A++ | ₹1,89,000 | AI, Healthcare |
-| [Amity Online](/blog/amity-university-online-mba-review-2027-29) | A+ | ₹1,99,000 | 15+ specializations |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2027-29) | A+ | ₹1,65,000 | 23 specializations |
+| [NMIMS Online](/blog/nmims-online-mba-review-2027-29/) | A++ | ₹2,10,000 | Brand, Finance |
+| [SRM Online](/blog/srm-university-online-mba-review-2027-29/) | A++ | ₹1,89,000 | AI, Healthcare |
+| [Amity Online](/blog/amity-university-online-mba-review-2027-29/) | A+ | ₹1,99,000 | 15+ specializations |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2027-29/) | A+ | ₹1,65,000 | 23 specializations |
 
 ---
 
-[👉 Apply for JAIN Online MBA – Get Expert Guidance](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Apply for JAIN Online MBA – Get Expert Guidance](/inquiry/) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
 
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [Online MBA India 2027–29: Complete Guide](/blog/online-mba-india-2027-29)
-- [NMIMS Online MBA Review 2027–29](/blog/nmims-online-mba-review-2027-29)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [Online MBA India 2027–29: Complete Guide](/blog/online-mba-india-2027-29/)
+- [NMIMS Online MBA Review 2027–29](/blog/nmims-online-mba-review-2027-29/)
 
 
 
@@ -211,7 +211,7 @@ Yes. The program features live and recorded sessions accessible 24/7, designed s
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -225,6 +225,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

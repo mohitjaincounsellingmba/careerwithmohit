@@ -194,10 +194,10 @@ export default function MhcetCalculatorPage() {
                 <div className="mt-32">
                     <h3 className="text-2xl font-black uppercase mb-6">MHCET Resources</h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <Link href="/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
+                        <Link href="/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
                             Top Pune Colleges & Cutoffs →
                         </Link>
-                        <Link href="/blog/all-about-mah-mba-cet-exam" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
+                        <Link href="/blog/all-about-mah-mba-cet-exam/" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
                             MHCET Exam Pattern & Syllabus →
                         </Link>
                     </div>

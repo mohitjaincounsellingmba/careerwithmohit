@@ -146,7 +146,7 @@ Cognizant, Infosys, IBM, Capgemini, TCS, Adani Power, Wipro, HCL, Tech Mahindra
 
 ### **SKIT Jaipur vs. Other Jaipur Engineering Colleges**
 
-| Parameter | SKIT Jaipur | Poornima College | [JECRC University](/colleges/jecrc-jaipur) | MUJ |
+| Parameter | SKIT Jaipur | Poornima College | [JECRC University](/colleges/jecrc-jaipur/) | MUJ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Affiliation** | RTU | RTU | Private Univ. | Deemed Univ. |
 | **Total 4-Year Fees** | ₹4.6–5.2 L | ₹3.5–5 L | ~₹9.8 L | ₹12.6–18 L |
@@ -176,17 +176,17 @@ Cognizant, Infosys, IBM, Capgemini, TCS, Adani Power, Wipro, HCL, Tech Mahindra
 
 ### **Explore More Resources**
 
-- [REAP Counselling 2026 – Rajasthan B.Tech Admission Guide](/blog/reap-counselling-2026-rajasthan-btech-admission)
-- [Direct Admission in Poornima College Jaipur for B.Tech 2026](/blog/direct-admission-poornima-college-jaipur-btech-2026)
-- [Direct Admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur for B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
-- [MNIT Jaipur B.Tech Admission 2026 – Cutoff, Fees & Review](/blog/mnit-jaipur-btech-admission-2026-cutoff-fees-review)
-- [B.Tech Specializations, Skills & Salary Guide](/blog/btech-specializations-skills-salary-2026-guide)
+- [REAP Counselling 2026 – Rajasthan B.Tech Admission Guide](/blog/reap-counselling-2026-rajasthan-btech-admission/)
+- [Direct Admission in Poornima College Jaipur for B.Tech 2026](/blog/direct-admission-poornima-college-jaipur-btech-2026/)
+- [Direct Admission in [JECRC University](/colleges/jecrc-jaipur/) Jaipur for B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
+- [MNIT Jaipur B.Tech Admission 2026 – Cutoff, Fees & Review](/blog/mnit-jaipur-btech-admission-2026-cutoff-fees-review/)
+- [B.Tech Specializations, Skills & Salary Guide](/blog/btech-specializations-skills-salary-2026-guide/)
 
 ---
 
 **Want honest advice on whether SKIT, Poornima, or Manipal Jaipur suits your specific profile?**
 
-[👉 Book a Free Counselling Session with Mohit Jain!](/inquiry)
+[👉 Book a Free Counselling Session with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -208,6 +208,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

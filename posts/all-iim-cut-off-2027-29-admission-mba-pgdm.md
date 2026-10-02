@@ -12,9 +12,9 @@ keywords:
   - IIM Cut off 2026
   - IIM admission 2027–29
   - CAT 2025 cutoff for IIM
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad) cutoff'
-  - '[IIM Bangalore](/colleges/iim-bangalore) cutoff'
-  - '[IIM Calcutta](/colleges/iim-calcutta) cutoff'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/) cutoff'
+  - '[IIM Bangalore](/colleges/iim-bangalore/) cutoff'
+  - '[IIM Calcutta](/colleges/iim-calcutta/) cutoff'
   - IIM sectional cutoffs 2026
   - new IIMs cutoff 2027–29
   - baby IIMs cutoff 2027–29
@@ -55,7 +55,7 @@ Before looking at the numbers, you must understand these two terms:
 1.  **Qualifying Cutoff (Eligibility):** This is the minimum percentile set by an IIM to even consider your application. Meeting this does **NOT** guarantee an interview call.
 2.  **Final Call Cutoff (Shortlist):** This is the actual percentile at which IIMs send out interview invites. This is always significantly higher than the qualifying cutoff.
 
-For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cutoff of 95, but the actual calls for General category candidates usually start at **99.5+ percentile**.
+For example, [IIM Ahmedabad](/colleges/iim-ahmedabad/) might have a qualifying cutoff of 95, but the actual calls for General category candidates usually start at **99.5+ percentile**.
 
 ---
 
@@ -72,27 +72,27 @@ For example, [IIM Ahmedabad](/colleges/iim-ahmedabad) might have a qualifying cu
 
 | IIM Category | Institute | Qualifying Cutoff | Expected Call Cutoff |
 | :--- | :--- | :--- | :--- |
-| **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | 95 | 99.5+ |
-| | [IIM Bangalore](/colleges/iim-bangalore) | 85 | 99.0+ |
-| | [IIM Calcutta](/colleges/iim-calcutta) | 85 | 99.5+ |
-| | [IIM Lucknow](/colleges/iim-lucknow) | 90 | 98.5+ |
-| | [IIM Indore](/colleges/iim-indore) | 90 | 98.0+ |
+| **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | 95 | 99.5+ |
+| | [IIM Bangalore](/colleges/iim-bangalore/) | 85 | 99.0+ |
+| | [IIM Calcutta](/colleges/iim-calcutta/) | 85 | 99.5+ |
+| | [IIM Lucknow](/colleges/iim-lucknow/) | 90 | 98.5+ |
+| | [IIM Indore](/colleges/iim-indore/) | 90 | 98.0+ |
 | | IIM Kozhikode | 85 | 98.0+ |
 | **New IIMs** | IIM Mumbai | 95 | 97.5+ |
 | | IIM Shillong | 92 | 96.5+ |
-| | [IIM Udaipur](/colleges/iim-udaipur) | 92 | 94.0+ |
-| | [IIM Ranchi](/colleges/iim-ranchi) | 92 | 94.0+ |
-| | [IIM Raipur](/colleges/iim-raipur) | 92 | 94.0+ |
+| | [IIM Udaipur](/colleges/iim-udaipur/) | 92 | 94.0+ |
+| | [IIM Ranchi](/colleges/iim-ranchi/) | 92 | 94.0+ |
+| | [IIM Raipur](/colleges/iim-raipur/) | 92 | 94.0+ |
 | | IIM Trichy | 92 | 94.0+ |
-| | [IIM Kashipur](/colleges/iim-kashipur) | 92 | 94.0+ |
-| | [IIM Rohtak](/colleges/iim-rohtak) | 95 | 96.0+ |
-| **Baby IIMs** | [IIM Nagpur](/colleges/iim-nagpur) | 92 | 93.5+ |
+| | [IIM Kashipur](/colleges/iim-kashipur/) | 92 | 94.0+ |
+| | [IIM Rohtak](/colleges/iim-rohtak/) | 95 | 96.0+ |
+| **Baby IIMs** | [IIM Nagpur](/colleges/iim-nagpur/) | 92 | 93.5+ |
 | | IIM Visakhapatnam | 92 | 93.0+ |
-| | [IIM Amritsar](/colleges/iim-amritsar) | 92 | 93.0+ |
-| | [IIM Bodh Gaya](/colleges/iim-bodh-gaya) | 92 | 92.5+ |
-| | [IIM Jammu](/colleges/iim-jammu) | 92 | 92.5+ |
-| | [IIM Sambalpur](/colleges/iim-sambalpur) | 92 | 92.5+ |
-| | [IIM Sirmaur](/colleges/iim-sirmaur) | 90 | 91.5+ |
+| | [IIM Amritsar](/colleges/iim-amritsar/) | 92 | 93.0+ |
+| | [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) | 92 | 92.5+ |
+| | [IIM Jammu](/colleges/iim-jammu/) | 92 | 92.5+ |
+| | [IIM Sambalpur](/colleges/iim-sambalpur/) | 92 | 92.5+ |
+| | [IIM Sirmaur](/colleges/iim-sirmaur/) | 90 | 91.5+ |
 
 ---
 
@@ -123,10 +123,10 @@ Almost all IIMs have **Sectional Cutoffs**. If you score a 99.9 percentile overa
 Getting a high CAT percentile is only 50-60% of the battle. Most IIMs use a **Composite Score (CS)** for shortlisting, which includes:
 
 1.  **CAT 2025 Score:** (40% - 60% weightage)
-2.  **Class 10th & 12th Marks:** High weightage at [IIM Bangalore](/colleges/iim-bangalore) and Indore.
+2.  **Class 10th & 12th Marks:** High weightage at [IIM Bangalore](/colleges/iim-bangalore/) and Indore.
 3.  **Graduation Scores:** Diversity in background (Non-engineers often get extra points).
 4.  **Work Experience:** Usually 2-4 years is the "sweet spot" for maximum points.
-5.  **Gender Diversity:** Many IIMs (like IIM Kozhikode and [IIM Rohtak](/colleges/iim-rohtak)) give extra points to female and transgender candidates.
+5.  **Gender Diversity:** Many IIMs (like IIM Kozhikode and [IIM Rohtak](/colleges/iim-rohtak/)) give extra points to female and transgender candidates.
 
 ---
 
@@ -135,15 +135,15 @@ Getting a high CAT percentile is only 50-60% of the battle. Most IIMs use a **Co
 If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs might be out of reach, you can still target:
 *   **Baby IIMs** (via CAP if you have a strong profile/diversity).
 *   **Top Private B-Schools** like FORE, GIM, or Great Lakes.
-*   Check our guide on **[Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)**.
+*   Check our guide on **[Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)**.
 
 ---
 
 ### **Expert Tips for IIM Admission 2027–29**
 
 1.  **Don't ignore the WAT-PI:** Once you get a call, everyone is on a level playing field. Prepare for current affairs and your undergraduate subjects.
-2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta) might focus more on Quants, while [IIM Ahmedabad](/colleges/iim-ahmedabad) focuses on academic consistency.
-3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/blog/baby-iims-review-2026-honest-analysis)** for more details.
+2.  **Check Individual Admission Policies:** Every year, IIMs tweak their weightage. [IIM Calcutta](/colleges/iim-calcutta/) might focus more on Quants, while [IIM Ahmedabad](/colleges/iim-ahmedabad/) focuses on academic consistency.
+3.  **Target the New/Baby IIMs via CAP:** The **Common Admission Process (CAP)** is a great way to secure an IIM seat with a single interview for 10+ institutes. Read our **[Baby IIMs Honest Review](/blog/baby-iims-review-2026-honest-analysis/)** for more details.
 
 ---
 
@@ -151,21 +151,21 @@ If you fall in the 80-90 percentile range, don't lose hope. While the top IIMs m
 
 At **CareerWithMohit**, we help you navigate the complex IIM admission process with personalized profile evaluation and interview coaching.
 
-[**Book a Free Counselling Session**](/inquiry) | [**Explore Our Mock Test Series**](/mock-tests)
+[**Book a Free Counselling Session**](/inquiry/) | [**Explore Our Mock Test Series**](/mock-tests/)
 
 ---
 
 ### **Related Reading**
-*   [Complete List of 21 IIMs: Courses & Placements](/blog/iims-list-courses-placements-cutoffs-admission)
-*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam)
-*   [MBA vs PGDM: Which is Better for You?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+*   [Complete List of 21 IIMs: Courses & Placements](/blog/iims-list-courses-placements-cutoffs-admission/)
+*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam/)
+*   [MBA vs PGDM: Which is Better for You?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

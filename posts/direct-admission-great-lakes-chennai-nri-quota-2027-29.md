@@ -77,7 +77,7 @@ PGPM is a fast-track **1-year MBA equivalent** for those with at least 24 months
 
 ---
 
-[👉 Apply via NRI Quota](/inquiry) | [👉 Get Admission Assistance](/inquiry)
+[👉 Apply via NRI Quota](/inquiry/) | [👉 Get Admission Assistance](/inquiry/)
 
 
 
@@ -85,6 +85,6 @@ PGPM is a fast-track **1-year MBA equivalent** for those with at least 24 months
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

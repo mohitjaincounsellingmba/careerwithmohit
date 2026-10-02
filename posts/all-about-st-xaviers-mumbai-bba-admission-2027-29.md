@@ -78,21 +78,21 @@ St. Xavier's has a hostel for boys. For girls, the college provides a list of re
 BMS (Bachelor of Management Studies) is the terminology used by Mumbai University and its autonomous colleges like Xavier's. The curriculum and professional outcomes are identical to a BBA program.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2027-29)
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
-- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2027-29)
+- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2027-29/)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
+- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2027-29/)
 
 ---
 
 **Worried about the "Creative Thinking" section of XET?**
 St. Xavier's exam is unique because it tests your ability to think outside the box. Mohit Jain’s "XET Masterclass" helps you tackle the non-traditional questions that make the difference in the final merit list.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -106,6 +106,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

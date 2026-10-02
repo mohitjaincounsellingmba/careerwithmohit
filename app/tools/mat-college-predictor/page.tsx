@@ -348,14 +348,14 @@ export default function MatPredictorPage() {
                 <div className="max-w-4xl mx-auto">
                     <h3 className="text-2xl font-black uppercase tracking-tight text-[#1a1a2e] mb-8">Related <span className="text-emerald-500">Resources</span></h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <Link href="/blog/mba-scholarships-2026-master-guide" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
+                        <Link href="/blog/mba-scholarships-2026-master-guide/" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
                             <div>
                                 <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">MBA Scholarships 2027 Master Guide</h4>
                                 <p className="text-xs text-slate-500 mt-1">Funding your dream B-School</p>
                             </div>
                             <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-emerald-500 transition-colors group-hover:translate-x-1" />
                         </Link>
-                        <Link href="/blog/all-about-gl-bajaj-greater-noida" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
+                        <Link href="/blog/all-about-gl-bajaj-greater-noida/" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
                             <div>
                                 <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">GL Bajaj Greater Noida Review</h4>
                                 <p className="text-xs text-slate-500 mt-1">Top MAT accepting college in NCR</p>

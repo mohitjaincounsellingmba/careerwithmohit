@@ -3,14 +3,14 @@ title: 'IIFT NRI & Foreign National Admission 2026: GMAT Cutoffs'
 date: '2026-03-18'
 description: >-
   Everything about NRI/Foreign National admission at [IIFT
-  Delhi](/colleges/iift-delhi) & Kolkata for 2026. Learn about the GMAT entry
+  Delhi](/colleges/iift-delhi/) & Kolkata for 2026. Learn about the GMAT entry
   route, application deadlines, and latest placement highlights.
 keywords:
   - IIFT NRI quota 2026
   - IIFT direct admission
-  - '[IIFT Delhi](/colleges/iift-delhi) GMAT cutoff'
+  - '[IIFT Delhi](/colleges/iift-delhi/) GMAT cutoff'
   - IIFT MBA IB admission
-  - 'study at [IIFT Delhi](/colleges/iift-delhi)'
+  - 'study at [IIFT Delhi](/colleges/iift-delhi/)'
   - Direct Admission in Delhi
 faqs:
   - question: Can NRIs apply through CAT for IIFT?
@@ -70,7 +70,7 @@ You will typically need a valid Passport, proof of NRI status (e.g., Parent's wo
 
 ---
 
-[👉 Apply via NRI Quota](/inquiry) | [👉 Get IIFT Admission Support](/inquiry)
+[👉 Apply via NRI Quota](/inquiry/) | [👉 Get IIFT Admission Support](/inquiry/)
 
 
 
@@ -78,6 +78,6 @@ You will typically need a valid Passport, proof of NRI status (e.g., Parent's wo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

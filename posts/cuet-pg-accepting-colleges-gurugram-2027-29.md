@@ -7,8 +7,8 @@ description: >-
   and MCA.
 keywords:
   - CUET PG colleges in Gurugram 2026
-  - '[BML Munjal University](/colleges/bml-munjal-gurgaon) CUET PG admission'
-  - '[Amity University](/colleges/amity-noida) Gurugram CUET PG'
+  - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) CUET PG admission'
+  - '[Amity University](/colleges/amity-noida/) Gurugram CUET PG'
   - Sushant University CUET PG
   - best PG colleges in Gurgaon under CUET
   - Noida Colleges
@@ -54,13 +54,13 @@ If you are planning to pursue **MBA, MCA, or MSc in Gurugram**, here is your det
 
 ---
 
-### **1. [BML Munjal University](/colleges/bml-munjal-gurgaon) (Gurugram)**
+### **1. [BML Munjal University](/colleges/bml-munjal-gurgaon/) (Gurugram)**
 Founded by the Hero Group, BML Munjal is highly respected for its industry-aligned curriculum.
 *   **Top Programs:** MBA (Marketing/Finance/HR/Business Analytics), MSc (Economics).
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate programs.
 *   **Why Choose BML?** Strong industry-academic collaboration and high-quality teaching standards.
 
-### **2. [Amity University](/colleges/amity-noida) (Gurugram/Panchgaon)**
+### **2. [Amity University](/colleges/amity-noida/) (Gurugram/Panchgaon)**
 Amity Gurugram is known for its world-class infrastructure and focus on research-driven PG courses.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** They consider CUET PG scores as part of the initial screening for postgraduate programs.
@@ -90,14 +90,14 @@ NCU is highly regarded for its technical and management departments in Gurugram.
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Gurgaon](/blog/top-btech-colleges-gurgaon-2026)
-- [All about JKBS Gurgaon](/blog/all-about-jkbs-gurgaon)
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
+- [Top MBA Colleges in Gurgaon](/blog/top-btech-colleges-gurgaon-2026/)
+- [All about JKBS Gurgaon](/blog/all-about-jkbs-gurgaon/)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
 
 **Confused between BML Munjal vs. Amity?**
 Choosing the right Gurugram college requires balancing your career specialization with the campus culture. Get expert advice today!
 
-[👉 Get Gurgaon Admission Counseling Now!](/inquiry)
+[👉 Get Gurgaon Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -119,7 +119,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -133,6 +133,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

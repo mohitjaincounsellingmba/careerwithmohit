@@ -125,16 +125,16 @@ Massive. With the rise of AI and Automation, companies need people who can *buil
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [Top MBA Colleges in India 2027–29 Guide](/blog/1-year-online-mba-colleges-india-2027-29)
-- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [Top MBA Colleges in India 2027–29 Guide](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
 **Do You Want to Build or Lead?**
 Don't pick a degree based on your neighbor's advice. Mohit Jain provides a "Career Fitment Audit"—analyzing your technical aptitude vs. your management potential to help you pick the path that makes you a millionaire by 30.
 
-[👉 Book My MCA vs MBA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My MCA vs MBA Consultation](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -142,6 +142,6 @@ Don't pick a degree based on your neighbor's advice. Mohit Jain provides a "Care
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

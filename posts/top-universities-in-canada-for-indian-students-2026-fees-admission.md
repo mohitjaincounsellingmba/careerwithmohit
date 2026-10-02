@@ -134,15 +134,15 @@ Canada has consistently ranked as one of the **top 3 study destinations** for In
 
 ## 📞 Get Expert Canada Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
-- [Education Loan Guide for MBA & BTech](/blog/education-loan-guide-mba-btech)
-- [How to Learn French Language 2026](/blog/how-to-learn-french-language-2027-29)
+- [All About IELTS Exam: Eligibility, Curriculum & Uses](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
+- [Education Loan Guide for MBA & BTech](/blog/education-loan-guide-mba-btech/)
+- [How to Learn French Language 2026](/blog/how-to-learn-french-language-2027-29/)
 
 ---
 
@@ -164,6 +164,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

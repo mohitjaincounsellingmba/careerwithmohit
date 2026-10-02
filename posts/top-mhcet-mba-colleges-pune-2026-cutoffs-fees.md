@@ -9,7 +9,7 @@ description: >-
 keywords:
   - MAH MBA CET 2027–29 Pune cutoffs
   - top MBA colleges in Pune accepting CET
-  - '[PUMBA Pune](/colleges/pumba-pune) CET cutoff 2027–29'
+  - '[PUMBA Pune](/colleges/pumba-pune/) CET cutoff 2027–29'
   - COEP MBA cutoff
   - Indira Pune CET cutoff
   - Balaji Pune MAH CET cutoff
@@ -48,7 +48,7 @@ These are the government-affiliated departments where fees are low and placement
 | College Name | Expected 2026 Cutoff (General) | Approx Annual Fee | Average Placement |
 | :--- | :--- | :--- | :--- |
 | **PUMBA (Pune University)** | 99.80 – 99.95+ | ₹65,000 | ₹9.40 LPA |
-| **[COEP Technological University](/colleges/coep-pune)** | 99.50 – 99.80+ | ₹1,05,000 | ₹8.50 LPA |
+| **[COEP Technological University](/colleges/coep-pune/)** | 99.50 – 99.80+ | ₹1,05,000 | ₹8.50 LPA |
 
 *   **PUMBA** is the gold standard for ROI in Pune. Aiming for a 99.8+ percentile is essential for an Open Category seat.
 *   **COEP** has rapidly climbed the ranks for its MBA program, focusing on tech-integrated management.
@@ -85,7 +85,7 @@ Even with a moderate CET score, you can get into reputable private B-schools tha
 | College Name | Expected 2026 Cutoff (General) | Approx Annual Fee | Average Placement |
 | :--- | :--- | :--- | :--- |
 | **Sri Balaji University (BIMM/BITM)** | 85.00 – 90.00 | ₹5,95,000 | ₹8.75 LPA |
-| **[PIBM Pune](/colleges/pibm-pune)** | 80.00 – 93.00 | ₹3,95,000 | ₹8.83 LPA |
+| **[PIBM Pune](/colleges/pibm-pune/)** | 80.00 – 93.00 | ₹3,95,000 | ₹8.83 LPA |
 | **Modern Institute (MIT)** | 88.00 – 92.00 | ₹1,50,000 | ₹5.00 LPA |
 | **DY Patil Inst. of Mgmt (Pimpri)** | 85.00 – 90.00 | ₹1,20,000 | ₹5.40 LPA |
 
@@ -109,8 +109,8 @@ Even with a moderate CET score, you can get into reputable private B-schools tha
 
 ---
 
-[👉 Get the Complete Guide to MAH MBA CET Scholarship 2027–29](/tools/mhcet-mock-test)
-[👉 View Top MBA Colleges in Mumbai accepting CET](/blog/best-mba-colleges-in-mumbai-2027-29)
+[👉 Get the Complete Guide to MAH MBA CET Scholarship 2027–29](/tools/mhcet-mock-test/)
+[👉 View Top MBA Colleges in Mumbai accepting CET](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 **Confused about your percentile vs college chances? Book a free 1-on-1 counseling session with Mohit Jain today!**
 
@@ -119,7 +119,7 @@ Even with a moderate CET score, you can get into reputable private B-schools tha
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -134,6 +134,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

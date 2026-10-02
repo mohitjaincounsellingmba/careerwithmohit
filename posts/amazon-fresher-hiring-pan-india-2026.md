@@ -97,12 +97,12 @@ The recruitment process typically consists of 4-5 rounds:
 ### **[👉 CLICK HERE TO EXPLORE ALL ROLES AT AMAZON](https://www.amazon.jobs)**
 
 ### **Related Career Resources:**
-- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [Career Roadmaps for 2026: Success Guide](/blog/career-roadmaps-2027-29)
-- [GDPI Interview Topics and Solutions for 2026](/blog/gdpi-interview-topics-solutions-mba)
-- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026)
+- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+- [Career Roadmaps for 2026: Success Guide](/blog/career-roadmaps-2027-29/)
+- [GDPI Interview Topics and Solutions for 2026](/blog/gdpi-interview-topics-solutions-mba/)
+- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026/)
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -124,6 +124,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

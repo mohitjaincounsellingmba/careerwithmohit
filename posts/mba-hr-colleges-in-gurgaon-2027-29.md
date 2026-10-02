@@ -56,9 +56,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
-| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon/)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
 | **JK Business School (JKBS)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹7.00 LPA** |
 
 ---
@@ -80,19 +80,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Gurgaon
 
-### 1. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
+### 1. [MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
 - **Key Highlight:** National leader for HR programs (PGDM-HR), offering top-tier consulting, banking, and FMCG placements.
 
-### 2. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)
+### 2. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)
 - **Approximate Fees:** ₹17.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / GMAT
 - **Average Placement Package:** **₹11.60 LPA**
 - **Key Highlight:** Corporate-centric B-school with modern curriculum blending technology and human capital strategies.
 
-### 3. [SOIL Institute of Management](/colleges/soil-gurgaon)
+### 3. [SOIL Institute of Management](/colleges/soil-gurgaon/)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** STAT / CAT / MAT / CMAT
 - **Average Placement Package:** **₹10.30 LPA**
@@ -115,9 +115,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -127,24 +127,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly prestigious for HR?
-[MDI Gurgaon](/colleges/mdi-gurgaon) has historical excellence in PGDM-HR, matching national institutions like XLRI, with its graduates bagging premium leadership positions across the globe.
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon/) highly prestigious for HR?
+[MDI Gurgaon](/colleges/mdi-gurgaon/) has historical excellence in PGDM-HR, matching national institutions like XLRI, with its graduates bagging premium leadership positions across the globe.
 
 ### What is the USP of SOIL Gurgaon for HR?
 SOIL (School of Inspired Leadership) focuses heavily on character development, mindfulness, and practical business design in its HR PGDM program, attracting high placement interest from major companies.
 
-### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept?
-[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accepts CAT, XAT, GMAT, and CMAT scores.
+### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) accept?
+[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) accepts CAT, XAT, GMAT, and CMAT scores.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -157,13 +157,13 @@ export function SearchResults({
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3">
               <Link
-                href="/colleges"
+                href="/colleges/"
                 className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold transition-all shadow-sm"
               >
                 Browse 770+ Colleges Directory
               </Link>
               <Link
-                href="/blog"
+                href="/blog/"
                 className="px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-bold transition-all"
               >
                 Explore All Articles

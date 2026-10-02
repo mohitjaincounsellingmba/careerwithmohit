@@ -51,14 +51,14 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Registration Window:** XAT 2027 registration opens in mid-July / early August 2026 and closes between **November 30 and December 5, 2026** on `xatonline.in`.
-> - **Application Fee:** ₹2,200 base fee for the XAT exam plus an additional ₹200 per programme if applying to [XLRI Jamshedpur](/colleges/xlri-jamshedpur) or XLRI Delhi-NCR.
+> - **Application Fee:** ₹2,200 base fee for the XAT exam plus an additional ₹200 per programme if applying to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) or XLRI Delhi-NCR.
 > - **Exam Date & Format:** XAT 2027 will be held on **Sunday, January 3, 2027 (2:00 PM – 5:30 PM)** testing Decision Making, Verbal & Logical Ability, QA & DI, GK, and Analytical Essay Writing.
 
 ---
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** on behalf of the Xavier Association of Management Institutes (XAMI), is one of the most intellectually rigorous and respected national management entrance tests in India. 
+The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** on behalf of the Xavier Association of Management Institutes (XAMI), is one of the most intellectually rigorous and respected national management entrance tests in India. 
 
-Securing a competitive percentile in XAT opens doors to premier institutions including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi), and Great Lakes**.
+Securing a competitive percentile in XAT opens doors to premier institutions including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi-NCR, XIM University Bhubaneswar, IMT Ghaziabad, GIM Goa, TAPMI Manipal, [FORE School of Management](/colleges/fore-school-delhi/), and Great Lakes**.
 
 Understanding the **XAT exam 2027 last date of registration** is essential for all 2027–2029 PGDM/MBA aspirants to complete documentation, choose XLRI specializations, and book preferred test cities before slots fill up.
 
@@ -66,7 +66,7 @@ Understanding the **XAT exam 2027 last date of registration** is essential for a
 
 > 🎯 **Planning your XAT 2027 Strategy?**
 >
-> [👉 Take our Free MBA Mock Tests Now](/mock-tests) | [Read All About XAT Exam Pattern & Syllabus](/blog/all-about-xat-exam)
+> [👉 Take our Free MBA Mock Tests Now](/mock-tests/) | [Read All About XAT Exam Pattern & Syllabus](/blog/all-about-xat-exam/)
 
 ---
 
@@ -160,7 +160,7 @@ Follow these five steps to complete your registration without errors:
 | **IMT Ghaziabad** | ₹21.50 Lakhs | ₹17.07 LPA | XAT / CAT 90+ %ile · Renowned Marketing Powerhouse |
 | **GIM Goa (Goa Institute of Management)** | ₹19.50 Lakhs | ₹15.00 LPA | XAT 85-88+ %ile · High Corporate ROI in BDA & Healthcare |
 | **TAPMI Manipal** | ₹17.50 Lakhs | ₹14.80 LPA | XAT 85+ %ile · Triple Crown AACSB / AMBA Accreditation |
-| **[FORE School of Management](/colleges/fore-school-delhi), Delhi** | ₹17.90 Lakhs | ₹15.20 LPA | XAT 85+ %ile · Prime Central Delhi Placement Network |
+| **[FORE School of Management](/colleges/fore-school-delhi/), Delhi** | ₹17.90 Lakhs | ₹15.20 LPA | XAT 85+ %ile · Prime Central Delhi Placement Network |
 | **BIMTECH Greater Noida** | ₹14.00 Lakhs | ₹11.25 LPA | XAT 75-80+ %ile · Specialized Insurance & Retail Programs |
 
 ---
@@ -192,16 +192,16 @@ XAT 2027 is scheduled for **Sunday, January 3, 2027**, conducted in a single aft
 ---
 
 ### Related Articles & Useful Resources
-* [All About XAT Exam: Syllabus, Decision Making Tips & Cutoffs](/blog/all-about-xat-exam)
-* [All About XLRI Jamshedpur: Cutoffs, Fees & Placements](/colleges/xlri-jamshedpur)
-* [CAT Exam 2026 Last Date of Registration & Guidelines](/blog/cat-exam-2026-last-date-of-registration)
-* [NMAT Exam 2026 Last Date of Registration & Retake Guide](/blog/nmat-exam-2026-last-date-of-registration)
-* [Speak with Our Senior MBA Admission Experts](/inquiry)
+* [All About XAT Exam: Syllabus, Decision Making Tips & Cutoffs](/blog/all-about-xat-exam/)
+* [All About XLRI Jamshedpur: Cutoffs, Fees & Placements](/colleges/xlri-jamshedpur/)
+* [CAT Exam 2026 Last Date of Registration & Guidelines](/blog/cat-exam-2026-last-date-of-registration/)
+* [NMAT Exam 2026 Last Date of Registration & Retake Guide](/blog/nmat-exam-2026-last-date-of-registration/)
+* [Speak with Our Senior MBA Admission Experts](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

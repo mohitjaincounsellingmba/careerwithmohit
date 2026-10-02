@@ -40,11 +40,11 @@ state: Delhi NCR
 
 In a historic shift for Indian business education, the Indian Institute of Management (IIM) Udaipur is launching its highly anticipated **4-Year Online, Bilingual Bachelor of Business Administration (BBA) program** on **July 6, 2026**. 
 
-Historically, elite management education in India has been restricted to students who could relocate, afford high tuition fees, or score in the top percentiles of highly competitive entrance exams. By introducing a digital-first, bilingual BBA, [IIM Udaipur](/colleges/iim-udaipur) aims to democratize quality education and bring the prestigious IIM brand to a much wider demographic—including rural learners, working professionals, and those pursuing dual degrees.
+Historically, elite management education in India has been restricted to students who could relocate, afford high tuition fees, or score in the top percentiles of highly competitive entrance exams. By introducing a digital-first, bilingual BBA, [IIM Udaipur](/colleges/iim-udaipur/) aims to democratize quality education and bring the prestigious IIM brand to a much wider demographic—including rural learners, working professionals, and those pursuing dual degrees.
 
 ---
 
-## 🏛️ Key Highlights of [IIM Udaipur](/colleges/iim-udaipur) BBA Program
+## 🏛️ Key Highlights of [IIM Udaipur](/colleges/iim-udaipur/) BBA Program
 
 | Feature | Details |
 | :--- | :--- |
@@ -54,7 +54,7 @@ Historically, elite management education in India has been restricted to student
 | **Language** | Bilingual (Hindi-first instruction, English content available) |
 | **Admission Basis** | Class 12th completion & merit (No entrance exam like JIPMAT/IPMAT) |
 | **Total Academic Fees** | ₹5,00,000 (Complete 4-Year Honours degree) |
-| **Degree Awarded** | Bachelor of Business Administration (Honours) by [IIM Udaipur](/colleges/iim-udaipur) |
+| **Degree Awarded** | Bachelor of Business Administration (Honours) by [IIM Udaipur](/colleges/iim-udaipur/) |
 
 ---
 
@@ -135,14 +135,14 @@ Before enrolling, it is crucial to set realistic expectations regarding career s
 
 ---
 
-[👉 Still deciding if an online BBA is right for you? Connect with our counsellors for a free profiling session!](/inquiry)
+[👉 Still deciding if an online BBA is right for you? Connect with our counsellors for a free profiling session!](/inquiry/)
 
 ---
 
 ## 🔗 Useful Links:
-- [Best Online BBA Colleges in Udaipur 2026](/blog/best-online-bba-colleges-in-udaipur-2026)
-- [BBA Colleges Under 5 Lakhs in Udaipur 2026](/blog/bba-colleges-under-5-lakhs-in-udaipur-2026)
-- [IPM Admission Guides for Baby IIMs 2026](/blog/baby-iims-review-2026-honest-analysis)
+- [Best Online BBA Colleges in Udaipur 2026](/blog/best-online-bba-colleges-in-udaipur-2026/)
+- [BBA Colleges Under 5 Lakhs in Udaipur 2026](/blog/bba-colleges-under-5-lakhs-in-udaipur-2026/)
+- [IPM Admission Guides for Baby IIMs 2026](/blog/baby-iims-review-2026-honest-analysis/)
 
 ---
 
@@ -160,7 +160,7 @@ If you choose to exit after 3 years, you will receive a regular Bachelor of Busi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -174,6 +174,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

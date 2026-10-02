@@ -78,16 +78,16 @@ Here are the **Top BBA Colleges in Hyderabad for 2026**.
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
-- [Top Law Colleges in Delhi 2026](/blog)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
+- [Top Law Colleges in Delhi 2026](/blog/)
 
 ---
 
 ## 📞 Confused About BBA in Hyderabad?
 Woxsen or IBS? Budget or Brand? Let's analyze your profile and find the perfect match.
 
-[👉 Build My Hyderabad Roadmap](/inquiry) | [💬 Schedule a Profile Review Session](/inquiry)
+[👉 Build My Hyderabad Roadmap](/inquiry/) | [💬 Schedule a Profile Review Session](/inquiry/)
 
 ---
 
@@ -109,6 +109,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -95,11 +95,11 @@ The JEE Advanced exam is essentially two papers of 3 hours each. Stamina is key.
 **Where do you stand currently?**
 Planning your B.Tech journey involves knowing your current milestones. Use our specialized tools to stay ahead:
 
-[👉 Use our JEE Main & Advanced Roadmap Calculator](/calculator/jee-main-2026)
-[👉 Explore Top 100 Engineering Colleges & Cutoffs](/colleges)
+[👉 Use our JEE Main & Advanced Roadmap Calculator](/calculator/jee-main-2026/)
+[👉 Explore Top 100 Engineering Colleges & Cutoffs](/colleges/)
 
 **Need Personalized Mentorship from IITians?**
-[👉 Talk to our JEE Experts Now](/inquiry)
+[👉 Talk to our JEE Experts Now](/inquiry/)
 
 ---
 
@@ -128,6 +128,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

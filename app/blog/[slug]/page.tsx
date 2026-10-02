@@ -482,7 +482,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             <Breadcrumbs />
           </div>
 
-          <Link href="/blog" className="mb-12 inline-flex items-center gap-3 text-lg font-black text-foreground group transition-all">
+          <Link href="/blog/" className="mb-12 inline-flex items-center gap-3 text-lg font-black text-foreground group transition-all">
             <div className="h-10 w-10 flex items-center justify-center border-4 border-foreground group-hover:bg-primary group-hover:text-white transition-colors uppercase">
               <ArrowLeft className="h-6 w-6 stroke-[3.5px]" />
             </div>
@@ -783,7 +783,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
             <Link
-              href="/inquiry"
+              href="/inquiry/"
               className="w-full sm:w-auto inline-flex h-24 items-center justify-center bg-white border-8 border-foreground px-12 text-2xl font-black text-foreground transition-all hover:bg-accent hover:translate-x-2 hover:-translate-y-2 shadow-[16px_16px_0px_0px_rgba(0,0,0,1)] uppercase active:shadow-none active:translate-x-0 active:translate-y-0"
             >
               Get Free Recommendations

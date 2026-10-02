@@ -78,7 +78,7 @@ These institutes are fiercely competitive, accepting elite percentiles through C
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
+## 1. [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies)
 Often debated as the "Red Building of Dreams," FMS competes neck-and-neck with the top three IIMs (A, B, C) but charges a fraction of their fee.
 *   **Fees:** ₹2.30 Lakhs
 *   **Entrance Exam:** CAT (99.5+ Percentile expected)
@@ -130,7 +130,7 @@ Business Analytics is the fastest-growing sector in management, and DU's dedicat
 *   **Highest Package:** ₹25.00 LPA
 *   **Top Recruiters:** Deloitte, KPMG, IBM, BCG.
 
-### 7. [FMS Delhi](/colleges/fms-delhi) (MBA Executive / MBA Executive HCA)
+### 7. [FMS Delhi](/colleges/fms-delhi/) (MBA Executive / MBA Executive HCA)
 Designed specifically for working professionals, requiring substantial corporate experience. 
 *   **Fees:** ₹2.32 Lakhs - ₹2.43 Lakhs
 *   **Eligibility:** Minimum 5 years of post-qualification administrative/managerial experience.
@@ -157,7 +157,7 @@ Ideal for students who want to pursue their MBA via distance education without l
 
 | College | Exam | Total Fees | Average Package | 
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹2.30 Lakhs | ₹30.10 LPA |
+| **[FMS Delhi](/colleges/fms-delhi/)** | CAT | ₹2.30 Lakhs | ₹30.10 LPA |
 | **DFS** | CAT | ₹24,000 | ₹17.10 LPA |
 | **DSE (IB/HRD)** | CAT | ₹53,980 | ~₹14.00 LPA |
 | **DBE** | CAT | ₹99,700 | ₹15.12 LPA |
@@ -195,6 +195,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

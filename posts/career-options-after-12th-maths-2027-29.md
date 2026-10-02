@@ -30,7 +30,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Discover the best career options after 12th maths in 2026. Explore Data Science, Actuarial Science, Statistics...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 If you have a love for numbers, logic, and problem-solving, your career options in 2026 are some of the most lucrative and future-proof in the world. While many think Mathematics is only for Engineering, the reality is that math is the heartbeat of today's tech and finance industries.
@@ -45,7 +45,7 @@ Whether you want to work in a high-rise bank, a space agency, or a data-driven t
 The digital age is built on data. Those who can analyze and interpret it are in very high demand.
 *   **Best for:** Students who love statistics and logical reasoning.
 *   **Average Salary:** ₹12 LPA to ₹25 LPA (for freshers from top-tier institutes).
-*   **Internal Link:** Follow our [Data Analytics Career Roadmap](/blog/career-roadmaps-2027-29) for a step-by-step guide.
+*   **Internal Link:** Follow our [Data Analytics Career Roadmap](/blog/career-roadmaps-2027-29/) for a step-by-step guide.
 
 #### **Actuarial Science**
 One of the most highly paid but challenging careers. Actuaries use math to assess risks for insurance companies and financial institutes.
@@ -58,7 +58,7 @@ One of the most highly paid but challenging careers. Actuaries use math to asses
 
 #### **Investment Banking & Finance**
 Modern finance is highly mathematical. Roles like "Quants" (Quantitative Analysts) are filled by math wizards.
-*   **Course:** B.A. Economics (Hons), B.Com (Hons), or B.Sc (Maths/Stats) followed by a specialized [CFA certification](/blog/career-roadmaps-2027-29).
+*   **Course:** B.A. Economics (Hons), B.Com (Hons), or B.Sc (Maths/Stats) followed by a specialized [CFA certification](/blog/career-roadmaps-2027-29/).
 *   **Starting Salary:** ₹10 LPA to ₹25 LPA.
 
 #### **Bachelor of Statistics (B.Stat)**
@@ -73,7 +73,7 @@ Offered by the prestigious ISI (Indian Statistical Institute), B.Stat is an elit
 Mathematics is the foundation of structural design and stability.
 *   **Entrance Exams:** NATA or JEE Main Paper 2.
 *   **Future Roles:** Urban Planner, Structural Designer, Sustainable Building Consultant.
-*   **Internal Link:** Check out the [JEE Main Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) for B.Arch college options.
+*   **Internal Link:** Check out the [JEE Main Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/) for B.Arch college options.
 
 ---
 
@@ -94,12 +94,12 @@ Mathematics is the foundation of structural design and stability.
 1.  **Look Beyond Traditional Degrees:** High-level math certifications can sometimes be as valuable as a degree.
 2.  **Combine Math with Coding:** Python and R are essential tools for a mathematician in 2026.
 3.  **Aim for Top Institutes:** ISI, IISc, IITs, and BITS have the best placement records for math-heavy roles.
-    *   **Internal Link:** Learn about the [BITS Pilani Experience](/blog/all-about-bits-pilani-campuses).
+    *   **Internal Link:** Learn about the [BITS Pilani Experience](/blog/all-about-bits-pilani-campuses/).
 
 ### Final Thoughts
 Mathematics is a versatile subject that opens more doors than any other stream. It's not just about solving equations; it's about developing the logical mind that the world of 2026 values above all else.
 
-**Confused about your journey?** Reach out for a [personalized career counselling session](/inquiry)!
+**Confused about your journey?** Reach out for a [personalized career counselling session](/inquiry/)!
 
 ---
 
@@ -120,6 +120,6 @@ Most top universities like DU require Mathematics for B.Com (Hons). However, som
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

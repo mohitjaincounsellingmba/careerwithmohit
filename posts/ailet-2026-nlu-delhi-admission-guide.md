@@ -52,7 +52,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Aiming for NLU Delhi in 2026? Learn about the AILET 2026 exam pattern, syllabus, and preparation tips. Compare...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 While CLAT is the gateway to 24 NLUs, **AILET (All India Law Entrance Test)** is the exclusive gateway to just one: **NLU Delhi**. Ranked consistently among the top 3 law schools in India, NLU Delhi has a legacy of producing elite judicial and litigation professionals.
@@ -133,16 +133,16 @@ Ideally, you should start along with CLAT prep (around **12 months before exam**
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [CLAT 2026 Prep Strategy](/blog/clat-2026-exam-strategy-guide)
-- [BA LLB vs BBA LLB Comparison](/blog)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [CLAT 2026 Prep Strategy](/blog/clat-2026-exam-strategy-guide/)
+- [BA LLB vs BBA LLB Comparison](/blog/)
 
 ---
 
 **Is NLU Delhi Your Dream?**
 The margin of error in AILET is zero. One wrong logic set and you are out. Mohit Jain provides an "AILET Precision Audit"—helping you identify the specific logic types (Syllogisms, Blood relations, Inference) that are slowing you down.
 
-[👉 Book My NLU Delhi Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My NLU Delhi Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -150,6 +150,6 @@ The margin of error in AILET is zero. One wrong logic set and you are out. Mohit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -92,15 +92,15 @@ To qualify for **JEE Advanced 2026**, the expected general category cutoff perce
 ### **🚀 What's Next? Plan Your Engineering Future**
 If your exam went well, you should immediately pivot your focus toward JEE Advanced. However, if you are unsure about your score or looking for backup plans, now is the perfect time to explore top private engineering colleges that accept JEE Main scores or offer direct admission.
 
-*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2027-29)
-*   [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
-*   [Direct Admission in [JECRC University](/colleges/jecrc-jaipur) B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
+*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
+*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2027-29/)
+*   [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur/) B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
+*   [Direct Admission in [JECRC University](/colleges/jecrc-jaipur/) B.Tech 2026](/blog/direct-admission-jecrc-university-jaipur-btech-2026)
 
 **Confused About B.Tech Admissions?**
 Don't let a low percentile stop you from pursuing your dream course. There are excellent engineering colleges available that match your profile and budget. Get expert guidance from our career counsellors.
 
-[👉 Get Free Engineering Admission Guidance Today!](/inquiry) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
+[👉 Get Free Engineering Admission Guidance Today!](/inquiry/) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
 
 ---
 
@@ -122,6 +122,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1380,19 +1380,19 @@ Calculate your score with official Digialm answer key check & slot normalization
 
                 <div className="flex flex-wrap gap-4 pt-4 border-t border-slate-200 text-xs font-bold">
                   <Link
-                    href="/colleges"
+                    href="/colleges/"
                     className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
                     Explore Complete 770+ College Directory →
                   </Link>
                   <Link
-                    href="/top-tier-mba-colleges"
+                    href="/top-tier-mba-colleges/"
                     className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
                     View Top Tier MBA Rankings →
                   </Link>
                   <Link
-                    href="/tools/college-comparison"
+                    href="/tools/college-comparison/"
                     className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
                   >
                     Compare College Fees &amp; Placements →
@@ -1449,7 +1449,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                 </div>
                 <div className="flex flex-col sm:flex-row gap-3 shrink-0">
                   <Link
-                    href="/book-session"
+                    href="/book-session/"
                     className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
                   >
                     <span>Book Google Meet</span>

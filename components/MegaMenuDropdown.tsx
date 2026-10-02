@@ -184,7 +184,7 @@ export function MegaMenuDropdown({ item, onClose }: MegaMenuDropdownProps) {
                 Verified Cutoffs &amp; Placements 2026-27
               </span>
               <Link
-                href="/colleges"
+                href="/colleges/"
                 onClick={onClose}
                 className="font-bold text-blue-600 hover:underline flex items-center gap-1"
               >

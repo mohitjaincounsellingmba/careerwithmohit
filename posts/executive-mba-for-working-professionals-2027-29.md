@@ -170,9 +170,9 @@ Golden Gate University, San Francisco, is AACSB accredited and offers a premium 
 
 ---
 
-### 6. [Uttaranchal University](/colleges/uttaranchal-university) Online — Executive MBA
+### 6. [Uttaranchal University](/colleges/uttaranchal-university/) Online — Executive MBA
 
-[Uttaranchal University](/colleges/uttaranchal-university) is UGC, AICTE, AIU, WES, NAAC A+, and ISO approved. One of the most affordable Executive MBA options from a multi-accredited Indian university.
+[Uttaranchal University](/colleges/uttaranchal-university/) is UGC, AICTE, AIU, WES, NAAC A+, and ISO approved. One of the most affordable Executive MBA options from a multi-accredited Indian university.
 
 | Feature | Details |
 |---|---|
@@ -183,11 +183,11 @@ Golden Gate University, San Francisco, is AACSB accredited and offers a premium 
 | **Specializations** | Finance, Marketing, HR, Operations |
 | **Best For** | Budget-conscious professionals seeking a multi-accredited EMBA under ₹1 Lakh |
 
-[👉 Apply to [Uttaranchal University](/colleges/uttaranchal-university) EMBA – Get 15% Discount](https://cvadm.com/xvHLPw)
+[👉 Apply to [Uttaranchal University](/colleges/uttaranchal-university/) EMBA – Get 15% Discount](https://cvadm.com/xvHLPw)
 
 ---
 
-### 7. [Amity University](/colleges/amity-noida) Online — Executive MBA
+### 7. [Amity University](/colleges/amity-noida/) Online — Executive MBA
 
 Amity Online is globally accredited (WASC, QAA) and one of India's largest and most recognized private universities. Excellent for professionals wanting variety in specializations.
 
@@ -359,11 +359,11 @@ With 100+ universities, 30+ comparison factors, and over 1 lakh successful admis
 ---
 
 *Related Posts:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-- [MBA Distance Education 2027–29 – Top Universities](/blog/mba-distance-education-2026-top-universities-fees-admission)
-- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29)
-- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [MBA Distance Education 2027–29 – Top Universities](/blog/mba-distance-education-2026-top-universities-fees-admission/)
+- [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
+- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
@@ -386,6 +386,6 @@ Yes, universities typically conduct online semester exams using AI-enabled or hu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

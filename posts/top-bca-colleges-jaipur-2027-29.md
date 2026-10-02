@@ -53,11 +53,11 @@ Whether you want a premium private university or a traditional state-affiliated 
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
-| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Merit / Interview | ₹4.5 - 6.0 Lakhs | ₹4.5 - 7.0 LPA |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur/)** | Merit / Interview | ₹4.5 - 6.0 Lakhs | ₹4.5 - 7.0 LPA |
 | **University of Rajasthan** | URATPG / Merit | ₹0.6 - 1.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **Jaipur National Univ.** | JNU CET / Merit | ₹2.5 - 3.5 Lakhs | ₹3.2 - 4.8 LPA |
-| **[Poornima University](/colleges/poornima-jaipur)** | Merit / Interview | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
-| **[JECRC University](/colleges/jecrc-jaipur)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹4.0 - 6.5 LPA |
+| **[Poornima University](/colleges/poornima-jaipur/)** | Merit / Interview | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
+| **[JECRC University](/colleges/jecrc-jaipur/)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹4.0 - 6.5 LPA |
 | **Kanoria College (Women)** | Merit-based | ₹1.2 - 1.8 Lakhs | ₹3.0 - 4.2 LPA |
 | **S.S. Jain Subodh College** | Merit-based | ₹1.0 - 1.5 Lakhs | ₹3.2 - 4.5 LPA |
 
@@ -65,7 +65,7 @@ Whether you want a premium private university or a traditional state-affiliated 
 
 ## 🏛️ Tier 1: The Jaipur Leaders
 
-### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)
+### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur/) (MUJ)
 The most premium BCA program in Rajasthan. MUJ offers a state-of-the-art campus and an industry-aligned curriculum that is highly respected by global MNCs.
 - **Top Recruiters:** Microsoft, Amazon, Infosys, Dell.
 - **USP:** Massive campus life and incredible global exchange opportunities.
@@ -73,7 +73,7 @@ The most premium BCA program in Rajasthan. MUJ offers a state-of-the-art campus 
 ### 2. University of Rajasthan (UniRaj)
 For those looking for high brand value at almost zero fees. Being a state university, it is highly respected across North India for government jobs and MCA admissions.
 
-### 3. [JECRC University](/colleges/jecrc-jaipur)
+### 3. [JECRC University](/colleges/jecrc-jaipur/)
 A name synonymous with engineering in Rajasthan. Their BCA program benefits from the same centralized placement cell that works with hundreds of IT companies.
 
 ---
@@ -91,7 +91,7 @@ BCA students in Jaipur have unique access to:
 
 If you miss entrance deadlines, several reputable institutions offer merit-based direct entry:
 - **Jaipur National University (JNU):** Known for its research facilities and diverse student crowd.
-- **[Poornima University](/colleges/poornima-jaipur):** A great focus on "Project-Based Learning" and technical workshops.
+- **[Poornima University](/colleges/poornima-jaipur/):** A great focus on "Project-Based Learning" and technical workshops.
 - **Subodh College:** The best choice for students looking for high ROI and disciplined education in the main city area.
 
 ---
@@ -116,16 +116,16 @@ Usually in **June/July**, following the RBSE and CBSE board result declarations.
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Jaipur 2026](/blog/top-btech-colleges-jaipur-2026)
-- [BCA vs B.Tech — Career Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [Top MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune)
+- [Top B.Tech Colleges in Jaipur 2026](/blog/top-btech-colleges-jaipur-2026/)
+- [BCA vs B.Tech — Career Comparison Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [Top MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune/)
 
 ---
 
 **Planning your Pink City Tech Career?**
 Jaipur offers authority and value. Don't pick a college that is just a building on a highway. Mohit Jain provides a "Jaipur BCA Audit"—helping you pick the college that puts you in the offices of Infosys, Genpact, and the Jaipur Tech SEZ.
 
-[👉 Book My Jaipur BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Jaipur BCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -133,6 +133,6 @@ Jaipur offers authority and value. Don't pick a college that is just a building 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

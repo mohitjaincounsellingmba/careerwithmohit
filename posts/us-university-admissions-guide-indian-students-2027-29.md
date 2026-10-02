@@ -103,16 +103,16 @@ Ohio University offers a quintessential American college experience with a lower
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [BBA vs BCom vs BMS: Global Career Options](/blog/bba-vs-bcom-vs-bms-career-comparison)
-*   [Direct Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota)
+*   [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [BBA vs BCom vs BMS: Global Career Options](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+*   [Direct Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Personalized US Admission Strategy
 Ready to start your US journey? Don't navigate the complex Common App or Graduate applications alone. 
 
-[👉 Book a Free Consultation with Mohit Jain](/inquiry) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
+[👉 Book a Free Consultation with Mohit Jain](/inquiry/) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
 
 ---
 
@@ -130,6 +130,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

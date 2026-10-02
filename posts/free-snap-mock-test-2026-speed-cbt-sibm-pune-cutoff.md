@@ -47,7 +47,7 @@ faqs:
 location: Pune
 state: Maharashtra
 ---
-# Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with [SIBM Pune](/colleges/sibm-pune) Cutoff Predictor
+# Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with [SIBM Pune](/colleges/sibm-pune/) Cutoff Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
@@ -56,9 +56,9 @@ state: Maharashtra
 
 [MockTestCard title="Free SNAP 2026 Full CBT Mock Test 2026" link="/snap-mock-test" questions="60 Questions" time="60 Mins"]
 
-The **Symbiosis National Aptitude Test (SNAP 2026)** is the sole gateway to 16 prestigious Symbiosis institutes across India, led by flagship campuses **[SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore), and SIIB Pune**.
+The **Symbiosis National Aptitude Test (SNAP 2026)** is the sole gateway to 16 prestigious Symbiosis institutes across India, led by flagship campuses **[SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), [SIBM Bangalore](/colleges/sibm-bangalore/), and SIIB Pune**.
 
-Unlike CAT, which tests in-depth conceptual stamina over 2 hours, SNAP is an ultra-fast **60-question, 60-minute speed race** (1 minute per question) with negative marking (+1 / -0.25). To score 42+ marks and secure a call from **[SIBM Pune](/colleges/sibm-pune)**, your question selection, rapid mental arithmetic, and visual reasoning must be razor-sharp.
+Unlike CAT, which tests in-depth conceptual stamina over 2 hours, SNAP is an ultra-fast **60-question, 60-minute speed race** (1 minute per question) with negative marking (+1 / -0.25). To score 42+ marks and secure a call from **[SIBM Pune](/colleges/sibm-pune/)**, your question selection, rapid mental arithmetic, and visual reasoning must be razor-sharp.
 
 **CareerWithMohit** brings you the **Free Full-Length SNAP 2026 Speed CBT Mock Test**, replicating the exact Symbiosis exam environment with live countdown clocks, instant SIBM/SCMHRD call predictors, and step-by-step solutions for all 60 questions.
 
@@ -88,12 +88,12 @@ SNAP 2026 is a 60-minute speed test consisting of 60 questions across General En
 ### Is there negative marking in SNAP 2026?
 Yes, each correct answer awards +1 mark and every wrong response deducts 0.25 marks.
 
-### What score is needed for [SIBM Pune](/colleges/sibm-pune) in SNAP?
-A score of 42-44+ out of 60 (98.5+ percentile) is generally needed to receive a call for GE-PI-WAT from [SIBM Pune](/colleges/sibm-pune).
+### What score is needed for [SIBM Pune](/colleges/sibm-pune/) in SNAP?
+A score of 42-44+ out of 60 (98.5+ percentile) is generally needed to receive a call for GE-PI-WAT from [SIBM Pune](/colleges/sibm-pune/).
 
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

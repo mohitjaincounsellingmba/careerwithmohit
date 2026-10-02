@@ -228,7 +228,7 @@ export default function MbaPgdmAdmission2027Page() {
             </a>
 
             <Link
-              href="/book-session"
+              href="/book-session/"
               className="bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm px-4 sm:px-5 py-3 rounded-xl border border-white/20 backdrop-blur-sm transition-all flex items-center gap-1.5"
             >
               <Video size={15} className="text-amber-300" />
@@ -236,7 +236,7 @@ export default function MbaPgdmAdmission2027Page() {
             </Link>
 
             <Link
-              href="/mba-application-form-discount"
+              href="/mba-application-form-discount/"
               className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs sm:text-sm px-4 sm:px-5 py-3 rounded-xl shadow-md transition-all flex items-center gap-1.5"
             >
               <Sparkles size={14} className="text-slate-950" />
@@ -274,7 +274,7 @@ export default function MbaPgdmAdmission2027Page() {
             </p>
           </div>
           <Link
-            href="/mba-application-form-discount"
+            href="/mba-application-form-discount/"
             className="shrink-0 px-6 py-3.5 bg-gradient-to-r from-amber-400 to-amber-300 hover:brightness-110 active:scale-95 text-slate-950 font-black text-sm sm:text-base rounded-2xl shadow-xl shadow-amber-500/20 transition-all flex items-center gap-2"
           >
             <span>Open Form Discount Builder</span>
@@ -343,7 +343,7 @@ export default function MbaPgdmAdmission2027Page() {
 
           <div className="mt-10 text-center">
             <Link
-              href="/mba-pgdm-admissions-by-region"
+              href="/mba-pgdm-admissions-by-region/"
               className="inline-flex items-center gap-2.5 bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black text-sm px-7 py-3.5 rounded-xl shadow-lg shadow-amber-500/10 hover:shadow-amber-500/20 transition-all transform hover:-translate-y-0.5"
             >
               <Compass size={17} className="text-slate-950" />

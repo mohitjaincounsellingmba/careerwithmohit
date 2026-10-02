@@ -12,7 +12,7 @@ keywords:
   - IILM Greater Noida cutoff
   - IILM Gurugram BTech fees
   - IILM placement review 2025
-  - 'IILM vs [Bennett University](/colleges/bennett-greater-noida)'
+  - 'IILM vs [Bennett University](/colleges/bennett-greater-noida/)'
   - AKTU colleges Greater Noida
   - Noida Colleges
   - Best Colleges in Noida
@@ -88,14 +88,14 @@ IILM University has a dedicated placement cell that focuses on product-based and
 **Cons**: Smaller campus footprint in Gurugram compared to Greater Noida, relatively high competition for the newer AI tracks.
 
 Explore other top engineering options in the NCR:
-*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review/)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review/)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review/)
 
 **Confused About the Greater Noida vs. Gurugram Choice?**
 While Greater Noida is the hub for B.Tech specializations, the Gurugram campus is perfect for those who want proximity to major corporate headquarters in the CSR and tech sector. At **CareerWithMohit**, we help you pick the right IILM campus based on your career goals.
 
-[👉 Get Expert Admission Guidance for IILM University!](/inquiry)
+[👉 Get Expert Admission Guidance for IILM University!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Does IILM University participate in UPTAC?**
@@ -114,6 +114,6 @@ The highest package recent reached ₹26 LPA at the Greater Noida campus.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

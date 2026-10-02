@@ -60,12 +60,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 - **Entrance Exam / Admission Process:** SET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. [Amity University, Noida](/colleges/amity-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida/)
 - **Approximate Annual Fees:** ₹3.8 Lakhs
 - **Entrance Exam / Admission Process:** Merit / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)
+### 3. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)
 - **Approximate Annual Fees:** ₹2.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -80,7 +80,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 6. [Hierank Business School](/colleges/hierank-noida)
+### 6. [Hierank Business School](/colleges/hierank-noida/)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -100,7 +100,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 10. [Noida International University (NIU)](/colleges/niu-greater-noida)
+### 10. [Noida International University (NIU)](/colleges/niu-greater-noida/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -112,15 +112,15 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
 | **1** | **Symbiosis Centre for Management Studies (SCMS Noida)** | SET | ₹3.5 Lakhs |
-| **2** | **[Amity University](/colleges/amity-noida), Noida** | Merit / CUET | ₹3.8 Lakhs |
-| **3** | **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida)** | Merit / CUET | ₹2.5 Lakhs |
+| **2** | **[Amity University](/colleges/amity-noida/), Noida** | Merit / CUET | ₹3.8 Lakhs |
+| **3** | **[Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/)** | Merit / CUET | ₹2.5 Lakhs |
 | **4** | **IMS Noida** | IPU CET | ₹1.5 Lakhs |
 | **5** | **Asian School of Business (ASB)** | Merit | ₹1.8 Lakhs |
-| **6** | **[Hierank Business School](/colleges/hierank-noida)** | Merit | ₹1.1 Lakhs |
+| **6** | **[Hierank Business School](/colleges/hierank-noida/)** | Merit | ₹1.1 Lakhs |
 | **7** | **JSS Academy of Higher Education** | Merit | ₹1.5 Lakhs |
 | **8** | **FDDI Noida** | FDDI AIST | ₹1.2 Lakhs |
 | **9** | **Chetan Anand Institute** | Merit | ₹1 Lakhs |
-| **10** | **[Noida International University (NIU)](/colleges/niu-greater-noida)** | Merit / CUET | ₹1.2 Lakhs |
+| **10** | **[Noida International University (NIU)](/colleges/niu-greater-noida/)** | Merit / CUET | ₹1.2 Lakhs |
 
 
 ---
@@ -131,16 +131,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Noida?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -158,6 +158,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

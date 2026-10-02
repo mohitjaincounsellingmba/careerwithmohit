@@ -51,7 +51,7 @@ state: Karnataka
 # [IIM Visakhapatnam](/colleges/iim-visakhapatnam/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Visakhapatnam, Andhra Pradesh** recognized for academic rigor (NIRF Rank #26 · Mentored originally by [IIM Bangalore](/colleges/iim-bangalore)) and industry-aligned specializations in **PGP (MBA) & PGP-DGM**.
+> - **Core USP & Focus**: Premier management destination in **Visakhapatnam, Andhra Pradesh** recognized for academic rigor (NIRF Rank #26 · Mentored originally by [IIM Bangalore](/colleges/iim-bangalore/)) and industry-aligned specializations in **PGP (MBA) & PGP-DGM**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹17.80 Lakhs (Total)** against an audited average domestic CTC of **₹16.62 LPA** (Median: **₹16.00 LPA**, Highest: **₹32.65 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT (CAP)** score (**88.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
 
@@ -197,7 +197,7 @@ Yes, **IIM Visakhapatnam** offers merit scholarships for top entrance scorers an
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

@@ -106,9 +106,9 @@ Based on past 5 years of SNAP paper slots, here is the average distribution of t
 2. **Options Substitution:** In algebra questions, do not solve equations. Plug the options back into the equation to see which one satisfies it.
 3. **Approximation:** If options are far apart, round off figures to make calculations simpler.
 
-For a comprehensive prep plan, check out our guide on [SNAP 2026 Preparation Strategy](/blog/all-about-snap-exam) or read the comparison between different [MBA Entrance Exams](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
+For a comprehensive prep plan, check out our guide on [SNAP 2026 Preparation Strategy](/blog/all-about-snap-exam/) or read the comparison between different [MBA Entrance Exams](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
 
-[👉 Want to learn more short-cuts for SNAP 2026? Join our online mentorship program!](/inquiry)
+[👉 Want to learn more short-cuts for SNAP 2026? Join our online mentorship program!](/inquiry/)
 
 ---
 
@@ -130,6 +130,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

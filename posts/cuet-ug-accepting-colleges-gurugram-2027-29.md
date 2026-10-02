@@ -61,7 +61,7 @@ One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
 
-### **2. [GD Goenka University](/colleges/gd-goenka-gurgaon)**
+### **2. [GD Goenka University](/colleges/gd-goenka-gurgaon/)**
 A top-tier institute in Gurugram, known for its undergraduate management and technology programs.
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.
@@ -71,7 +71,7 @@ Established by the KR Mangalam group, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Global exposure and a large international student community.
 
-### **4. [BML Munjal University](/colleges/bml-munjal-gurgaon)**
+### **4. [BML Munjal University](/colleges/bml-munjal-gurgaon/)**
 Named after the Hero Group visionary, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons).
 *   **USP:** Focus on professional ethics and practical skills.
@@ -88,7 +88,7 @@ Known for its management and law education legacy.
 *   **Specializations:** From Media and Design to Data Science and Bio-technology, Gurugram has it all.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
-[👉 Get Gurugram CUET Admission Assistance](/inquiry)
+[👉 Get Gurugram CUET Admission Assistance](/inquiry/)
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about which Gurugram college fits your profile? Link up with our CUET consultants for free!**
@@ -113,6 +113,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

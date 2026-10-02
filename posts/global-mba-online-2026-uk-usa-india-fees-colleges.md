@@ -138,9 +138,9 @@ OP Jindal Global University, powered by upGrad, offers the **most affordable glo
 
 ---
 
-### 4. [IIM Sirmaur](/colleges/iim-sirmaur) — Global MBA Online
+### 4. [IIM Sirmaur](/colleges/iim-sirmaur/) — Global MBA Online
 
-[IIM Sirmaur](/colleges/iim-sirmaur) is one of the newer IIMs under the Ministry of Education, Government of India. Its online Global MBA program carries the prestigious IIM brand — a game-changer for career advancement in India.
+[IIM Sirmaur](/colleges/iim-sirmaur/) is one of the newer IIMs under the Ministry of Education, Government of India. Its online Global MBA program carries the prestigious IIM brand — a game-changer for career advancement in India.
 
 | Feature | Details |
 |---|---|
@@ -152,7 +152,7 @@ OP Jindal Global University, powered by upGrad, offers the **most affordable glo
 | **Mode** | Online |
 | **Best For** | Professionals who want an IIM brand at a fraction of full-time IIM costs |
 
-[👉 Apply to [IIM Sirmaur](/colleges/iim-sirmaur) Global MBA – Get 15% Discount](https://cvadm.com/nzwJCm)
+[👉 Apply to [IIM Sirmaur](/colleges/iim-sirmaur/) Global MBA – Get 15% Discount](https://cvadm.com/nzwJCm)
 
 ---
 
@@ -329,11 +329,11 @@ If you prefer an Indian IIM-level brand with global outlook, these are the top N
 
 | Rank | Institution |
 |---|---|
-| 🥇 1 | [IIM Ahmedabad](/colleges/iim-ahmedabad) |
-| 🥈 2 | [IIM Bangalore](/colleges/iim-bangalore) |
+| 🥇 1 | [IIM Ahmedabad](/colleges/iim-ahmedabad/) |
+| 🥈 2 | [IIM Bangalore](/colleges/iim-bangalore/) |
 | 🥉 3 | IIM Kozhikode |
 | 4 | IIT Delhi (DMS) |
-| 5 | [IIM Lucknow](/colleges/iim-lucknow) |
+| 5 | [IIM Lucknow](/colleges/iim-lucknow/) |
 
 > Several IIMs now offer **online Global MBA and Executive programs** for working professionals — providing IIM brand value with flexible online delivery.
 
@@ -376,11 +376,11 @@ Our expert counselors have guided 1 lakh+ students across 100+ universities. Get
 ---
 
 *Related Posts:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [Executive MBA for Working Professionals 2027–29](/blog/executive-mba-for-working-professionals-2027-29)
-- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-- [MBA Distance Education 2027–29 – Top Universities](/blog/mba-distance-education-2026-top-universities-fees-admission)
-- [Top Global MBA Programs](/blog/top-global-mba-programs)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [Executive MBA for Working Professionals 2027–29](/blog/executive-mba-for-working-professionals-2027-29/)
+- [1-Year Online MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [MBA Distance Education 2027–29 – Top Universities](/blog/mba-distance-education-2026-top-universities-fees-admission/)
+- [Top Global MBA Programs](/blog/top-global-mba-programs/)
 
 ---
 
@@ -403,6 +403,6 @@ Yes, universities typically conduct online semester exams using AI-enabled or hu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

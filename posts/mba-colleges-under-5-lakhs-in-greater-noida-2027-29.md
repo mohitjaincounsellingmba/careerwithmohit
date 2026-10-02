@@ -67,13 +67,13 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. GNIOT [Institute of Management Studies](/colleges/ims-noida)
+## 1. GNIOT [Institute of Management Studies](/colleges/ims-noida/)
 - **Approximate Fees:** ₹3.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.5 LPA**
 - **Key Highlight:** Well-established campus in Knowledge Park II.
 
-### 2. [Galgotias University](/colleges/galgotias-university) (MBA Program)
+### 2. [Galgotias University](/colleges/galgotias-university/) (MBA Program)
 - **Approximate Fees:** ₹3.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CUET-PG / CMAT
 - **Average Placement Package:** **₹5.0 LPA**
@@ -93,8 +93,8 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **GNIOT [Institute of Management Studies](/colleges/ims-noida)** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
-| **[Galgotias University](/colleges/galgotias-university) (MBA Program)** | CUET-PG / CMAT | ₹3.0 Lakhs (Total) | **₹5.0 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/ims-noida/)** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
+| **[Galgotias University](/colleges/galgotias-university/) (MBA Program)** | CUET-PG / CMAT | ₹3.0 Lakhs (Total) | **₹5.0 LPA** |
 | **Mangalmay Institute of Management & Technology** | CMAT / MAT / Merit | ₹2.8 Lakhs (Total) | **₹4.8 LPA** |
 
 ---
@@ -117,9 +117,9 @@ Return on Investment (ROI) is the most critical metric for any management aspira
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges with Low Fees and High ROI in India 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
-- [MBA Distance Education 2027–29: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission)
+- [Best MBA Colleges with Low Fees and High ROI in India 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [MBA Distance Education 2027–29: Top Universities & Fees](/blog/mba-distance-education-2026-top-universities-fees-admission/)
 
 ---
 
@@ -129,7 +129,7 @@ Choosing a budget-friendly MBA college that matches your profile and placement a
 
 **Get professional profile evaluation and admissions guidance:**
 
-[👉 Build My MBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My MBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Yes, because it offers an excellent Return on Investment (ROI). With a total fee
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

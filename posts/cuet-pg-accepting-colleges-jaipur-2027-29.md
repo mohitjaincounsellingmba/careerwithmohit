@@ -81,14 +81,14 @@ Located near Jaipur/Chittorgarh, Mewar University is a large private institution
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29)
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
+- [Top MBA Colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29/)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
 
 **Planning your MBA in the Pink City?**
 Choosing between CURAJ and a top private university like VGU/SGVU depends on your career goals and specializations. Connect with our Jaipur admission experts today!
 
-[👉 Get Jaipur Admission Counseling Now!](/inquiry)
+[👉 Get Jaipur Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -110,6 +110,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

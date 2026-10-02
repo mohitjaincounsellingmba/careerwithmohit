@@ -68,10 +68,10 @@ GGV boasts one of the most budget-friendly fee structures in India:
 *   **Amenities:** Standard facilities including beds, water coolers, recreation rooms, and Wi-Fi access.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Karnataka Review 2027–29](/blog/central-university-of-karnataka-cuk-review-2027-29)
-*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide)
+*   [Central University of Karnataka Review 2027–29](/blog/central-university-of-karnataka-cuk-review-2027-29/)
+*   [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide/)
 
-[👉 Get Admission Consultation for Guru Ghasidas Vishwavidyalaya!](/inquiry)
+[👉 Get Admission Consultation for Guru Ghasidas Vishwavidyalaya!](/inquiry/)
 
 ---
 
@@ -89,6 +89,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -215,7 +215,7 @@ export function InteractiveRoiCalculator() {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="w-full py-2.5 px-4 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-bold text-center transition-all"
               >
                 Schedule Free Video Counselling

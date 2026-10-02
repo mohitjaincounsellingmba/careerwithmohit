@@ -7,7 +7,7 @@ description: >-
   Cutoff. Check updated fees, placement records, real cutoffs, and selection
   tips by Mohit Jain.
 keywords:
-  - '[Tezpur University](/colleges/tezpur-university-management) admissions 2026'
+  - '[Tezpur University](/colleges/tezpur-university-management/) admissions 2026'
   - Tezpur University placements
   - Tezpur University CUET cutoff
   - Tezpur University fees
@@ -37,7 +37,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-[Tezpur University](/colleges/tezpur-university-management), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.
+[Tezpur University](/colleges/tezpur-university-management/), a central university in Assam, is renowned for its lush residential campus, robust academic framework, and excellent placement record, especially in engineering and management disciplines.
 
 ## 📊 Tezpur University 2026 Overview: Fees, Placements & Cutoffs
 
@@ -72,16 +72,16 @@ With a placement rate of around 80%, the Training and Placement Cell is highly a
 *   **Top Companies**: Major recruiters include Infosys, Accenture, TCS, HDFC Bank, and core sector companies like Oil India.
 
 ## Check Other University Reviews:
-*   [Mizoram University Review 2027–29](/blog/mizoram-university-mzu-review-2027-29)
-*   [Top B.Tech Colleges in North East](/blog/top-btech-colleges-north-east)
+*   [Mizoram University Review 2027–29](/blog/mizoram-university-mzu-review-2027-29/)
+*   [Top B.Tech Colleges in North East](/blog/top-btech-colleges-north-east/)
 
-[👉 Get Admission Consultation for Tezpur University!](/inquiry)
+[👉 Get Admission Consultation for Tezpur University!](/inquiry/)
 
 ---
 
 ## 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium CUET & JEE Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium CUET & JEE Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -10,7 +10,7 @@ description: >-
   tips by Mohit Jain.
 keywords:
   - >-
-    [Christ University Bangalore](/colleges/christ-university-bangalore) MBA
+    [Christ University Bangalore](/colleges/christ-university-bangalore/) MBA
     admission 2027–2029
   - Christ University MBA fees 2027–29
   - Christ University MBA cutoff 2027–29
@@ -28,7 +28,7 @@ faqs:
       Yes, Christ University is known for its formal dress code and strict
       grooming standards for its management students.
   - question: What is the difference between MBA and PGDM at Christ?
-    answer: "Christ offers a full-time MBA degree as a Deemed to be University, which is recognized globally for higher education.\n\nExplore other Christ Campuses:\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused Between Central Campus and Kengeri?**\nWhile Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.\n\n[\U0001F449 Get Expert MBA Admission Support for Christ University!](/inquiry)"
+    answer: "Christ offers a full-time MBA degree as a Deemed to be University, which is recognized globally for higher education.\n\nExplore other Christ Campuses:\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)\n\n**Confused Between Central Campus and Kengeri?**\nWhile Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.\n\n[\U0001F449 Get Expert MBA Admission Support for Christ University!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -90,14 +90,14 @@ Yes, Christ University is known for its formal dress code and strict grooming st
 Christ offers a full-time MBA degree as a Deemed to be University, which is recognized globally for higher education.
 
 Explore other Christ Campuses:
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)
 
 **Confused Between Central Campus and Kengeri?**
 While Central Campus is the urban heart, Kengeri offers a lush, sprawling environment with similar placement opportunities. At **CareerWithMohit**, we help you decide based on your specialization and learning style.
 
-[👉 Get Expert MBA Admission Support for Christ University!](/inquiry)
+[👉 Get Expert MBA Admission Support for Christ University!](/inquiry/)
 
 
 
@@ -105,7 +105,7 @@ While Central Campus is the urban heart, Kengeri offers a lush, sprawling enviro
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -119,6 +119,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

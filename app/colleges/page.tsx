@@ -441,7 +441,7 @@ export default function CollegesPage() {
                 
                 <div className="space-y-2.5 pt-2">
                   <Link
-                    href="/inquiry"
+                    href="/inquiry/"
                     className="block w-full text-center py-3 px-4 bg-blue-600 hover:bg-blue-500 text-white font-black text-xs uppercase tracking-wider rounded-xl transition-all shadow-md active:scale-95"
                   >
                     Get Free Shortlist &rarr;

@@ -59,7 +59,7 @@ If you want to be treated on par with B.Tech CSE graduates in terms of salary an
 | **3** | **JNU Delhi** | New Delhi | CUET PG | ₹10.5 - 16.0 LPA |
 | **4** | **NIT Warangal** | Warangal | NIMCET | ₹11.0 - 18.0 LPA |
 | **5** | **BHU Varanasi** | Varanasi | CUET PG | ₹8.0 - 14.5 LPA |
-| **6** | **[VIT Vellore](/colleges/vit-vellore-campus)** | Vellore | VITMEE | ₹7.5 - 12.0 LPA |
+| **6** | **[VIT Vellore](/colleges/vit-vellore-campus/)** | Vellore | VITMEE | ₹7.5 - 12.0 LPA |
 | **7** | **MNNIT Allahabad**| Prayagraj | NIMCET | ₹10.5 - 15.0 LPA |
 | **8** | **University of Hyderabad** | Hyderabad | NIMCET | ₹8.5 - 13.5 LPA |
 
@@ -94,7 +94,7 @@ If you are a 2026 aspirant, keep these factors in mind:
 ## 🏗️ Top Private MCA Frameworks
 
 While NITs are hard to crack, private giants like **VIT, SRM, and BITS** offer incredible infrastructure for those who can afford the higher fee structure:
-- **[VIT Vellore](/colleges/vit-vellore-campus):** High-volume recruitment from mass recruiters like Accenture/Infosys as well as niche tech firms.
+- **[VIT Vellore](/colleges/vit-vellore-campus/):** High-volume recruitment from mass recruiters like Accenture/Infosys as well as niche tech firms.
 - **Manipal (MIT):** Known for its research-driven computer application curriculum.
 
 ---
@@ -119,16 +119,16 @@ Yes. Practically all universities accept B.Sc. graduates (with Maths/Computer Sc
 ---
 
 ### Useful Links:
-- [NIMCET 2026 Prep Strategy & Syllabus](/blog/nimcet-2026-exam-strategy-guide)
-- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026)
+- [NIMCET 2026 Prep Strategy & Syllabus](/blog/nimcet-2026-exam-strategy-guide/)
+- [BCA vs B.Tech — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026/)
 
 ---
 
 **Don't Let Your 3-Year Degree Limit Your Potential.**
 An MCA transforms you from a "Computer Assistant" to a "Software Engineer." Don't waste your years at a college where companies don't visit. Mohit Jain provides a "National MCA Shortlist"—helping you pick the brand that actually gets you into the offices of Microsoft and Google.
 
-[👉 Book My National MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My National MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -136,6 +136,6 @@ An MCA transforms you from a "Computer Assistant" to a "Software Engineer." Don'
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

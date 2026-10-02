@@ -65,7 +65,7 @@ Digital Marketing is no longer an "option" for businesses; it is their primary s
 *   **Modern Trends:** **AI-driven marketing automation**, Voice Search Optimization, and hyper-personalized consumer journeys.
 *   **Job Roles:** SEO Specialist, Performance Marketer, Content Strategist, Social Media Manager, or E-commerce Manager.
 
-*Related Guide:* [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
+*Related Guide:* [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)
 
 ---
 
@@ -96,7 +96,7 @@ Digital Marketing is no longer an "option" for businesses; it is their primary s
 3.  **Content Creation:** Whether it’s copy or video, storytelling is key.
 4.  **Tech-Adaptability:** Staying ahead of daily changing algorithms.
 
-*Learn more about BBA skills:* [BBA Specializations and Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide)
+*Learn more about BBA skills:* [BBA Specializations and Salary Guide 2026](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 
@@ -115,12 +115,12 @@ Both fields offer incredible scope in 2026. However, **BBA in Digital Marketing*
 
 **Ready to start your journey?**
 
-*   Check out: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29)
-*   Check out: [MBA/PGDM Admissions Guide 2026](/blog/mba-pgdm-admissions-2027-29-complete-guide)
-*   Check out: [Transition from Marketing to Digital Marketing](/blog/mba-marketing-to-digital-marketing-career-2027-29)
+*   Check out: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29/)
+*   Check out: [MBA/PGDM Admissions Guide 2026](/blog/mba-pgdm-admissions-2027-29-complete-guide/)
+*   Check out: [Transition from Marketing to Digital Marketing](/blog/mba-marketing-to-digital-marketing-career-2027-29/)
 
 **Need Personalized Career Counselling?**
-[👉 Click here to talk to our expert career counselors!](/inquiry)
+[👉 Click here to talk to our expert career counselors!](/inquiry/)
 
 ---
 
@@ -142,6 +142,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

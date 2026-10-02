@@ -63,12 +63,12 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 | :--- | :--- | :--- | :--- | :--- |
 | **ISB Hyderabad** | GMAT / GRE | ₹39.50 Lakhs | ₹34.21 LPA | ₹60.00+ LPA |
 | **IBS Hyderabad (ICFAI)** | IBSAT / CAT / NMAT / GMAT | ₹16.02 Lakhs | ₹10.42 LPA | ₹21.00 LPA |
-| **[Institute of Public Enterprise](/colleges/ipe-hyderabad) (IPE)** | CAT / MAT / CMAT / XAT / ATMA | ₹9.15 Lakhs | ₹7.10 LPA | ₹15.00 LPA |
+| **[Institute of Public Enterprise](/colleges/ipe-hyderabad/) (IPE)** | CAT / MAT / CMAT / XAT / ATMA | ₹9.15 Lakhs | ₹7.10 LPA | ₹15.00 LPA |
 | **Vignana Jyothi (VJIM)** | CAT / MAT / CMAT / XAT / ATMA | ₹8.50 Lakhs | ₹6.80 LPA | ₹14.00 LPA |
 | **Siva Sivani Institute (SSIM)** | CAT / MAT / CMAT / ATMA / XAT | ₹6.90 Lakhs | ₹6.50 LPA | ₹13.00 LPA |
 | **IMT Hyderabad** | CAT / XAT / CMAT / GMAT | ₹15.00 Lakhs | ₹12.00 LPA | ₹25.00 LPA |
 | **Woxsen University** | WAT / CAT / NMAT / GMAT / CMAT | ₹19.40 Lakhs | ₹9.09 LPA | ₹19.00 LPA |
-| **[Badruka School of Management](/colleges/badruka-school-of-management)** | BSAT / CAT / GMAT / XAT | ₹12.00 Lakhs | ₹8.50 LPA | ₹16.00 LPA |
+| **[Badruka School of Management](/colleges/badruka-school-of-management/)** | BSAT / CAT / GMAT / XAT | ₹12.00 Lakhs | ₹8.50 LPA | ₹16.00 LPA |
 
 ---
 
@@ -76,20 +76,20 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 
 ### 1. ICFAI Business School (IBS), Hyderabad
 * **Campus**: Massive 91-acre eco-friendly campus in Dontanapalli, Hyderabad.
-* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses](/blog/all-about-ibs-campuses).
+* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses](/blog/all-about-ibs-campuses/).
 
-### 2. [Institute of Public Enterprise](/colleges/ipe-hyderabad) (IPE), Hyderabad
+### 2. [Institute of Public Enterprise](/colleges/ipe-hyderabad/) (IPE), Hyderabad
 * **Highlights**: Located in Shamirpet, IPE is recognized as a Centre of Excellence by the Indian Council of Social Science Research (ICSSR).
 * **Specialized PGDM Programs**: PGDM General, PGDM Banking & Financial Services, PGDM International Business, PGDM Marketing.
-* **Read Detailed Review**: [All About Institute of Public Enterprise](/blog/all-about-institute-of-public-enterprise).
+* **Read Detailed Review**: [All About Institute of Public Enterprise](/blog/all-about-institute-of-public-enterprise/).
 
-### 3. [Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad) (VJIM), Hyderabad
+### 3. [Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad/) (VJIM), Hyderabad
 * **Highlights**: AICTE approved and NBA accredited autonomous institute established in 1993.
-* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/blog/all-about-abbs-school-of-management).
+* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/blog/all-about-abbs-school-of-management/).
 
-### 4. [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) (SSIM), Hyderabad
+### 4. [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) (SSIM), Hyderabad
 * **Highlights**: Over 30 years of academic legacy in management education in Secunderabad/Hyderabad.
-* **High ROI**: Affordable fee structure of ₹6.90 Lakhs with strong corporate placement records. Read [All About SSIM Hyderabad](/blog/all-about-siva-sivani-institute-of-management).
+* **High ROI**: Affordable fee structure of ₹6.90 Lakhs with strong corporate placement records. Read [All About SSIM Hyderabad](/blog/all-about-siva-sivani-institute-of-management/).
 
 ---
 
@@ -115,6 +115,6 @@ You do not need a high CAT score to secure admission in Hyderabad's premier mana
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

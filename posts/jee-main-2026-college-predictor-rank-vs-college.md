@@ -25,7 +25,7 @@ faqs:
   - question: Can I use my JEE Main rank for VIT or BITS?
     answer: >-
       **VIT** has its own exam (VITEEE). **[BITS
-      Pilani](/colleges/bits-pilani)** uses BITSAT. However, universities like
+      Pilani](/colleges/bits-pilani/)** uses BITSAT. However, universities like
       **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students
       with JEE Main ranks under 1 Lakh.
   - question: What is the benefit of the Female Supernumerary Quota?
@@ -110,7 +110,7 @@ A 98 percentile corresponds to a rank of approx **25,000 - 30,000**. At this ran
 For the General category, CSE and ECE are unlikely. However, you can realistically target **Mechanical, Production, or Civil Engineering** at NIT Trichy.
 
 **Q3. Can I use my JEE Main rank for VIT or BITS?**
-**VIT** has its own exam (VITEEE). **[BITS Pilani](/colleges/bits-pilani)** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
+**VIT** has its own exam (VITEEE). **[BITS Pilani](/colleges/bits-pilani/)** uses BITSAT. However, universities like **Thapar, LNMIIT, and Jaypee (JIIT)** give direct preference to students with JEE Main ranks under 1 Lakh.
 
 **Q4. What is the benefit of the Female Supernumerary Quota?**
 Female candidates have an extra **5-10% rank buffer** at all NITs and IITs. This means if a branch closes at 5,000 for boys, it may stay open until 8,000-10,000 for girls.
@@ -121,16 +121,16 @@ Expected to start in the **second week of June**, following the JEE Advanced res
 ---
 
 ### Useful Links:
-- [JEE Main 2026 Session 2 Result Official](/blog/jee-main-2026-session-2-result-declared-check-here)
-- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [How to Prepare for JoSAA 2026 Counselling](/blog/josaa-counselling-2026-dates-process-registration)
+- [JEE Main 2026 Session 2 Result Official](/blog/jee-main-2026-session-2-result-declared-check-here/)
+- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [How to Prepare for JoSAA 2026 Counselling](/blog/josaa-counselling-2026-dates-process-registration/)
 
 ---
 
 **Confused About Your Allotment?**
 Don't guess with your career. A "Safe Allotment" depends on your rank, category, and home-state quota. Mohit Jain provides a **"JoSAA Precision Audit"**—building your choice list to ensure you don't miss out on a seat because of a technical error in choice filling.
 
-[👉 Book My JoSAA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My JoSAA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,6 +138,6 @@ Don't guess with your career. A "Safe Allotment" depends on your rank, category,
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

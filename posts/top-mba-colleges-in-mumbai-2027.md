@@ -50,7 +50,7 @@ state: Maharashtra
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Financial Capital Advantage**: Mumbai provides direct access to Dalal Street, Bandra-Kurla Complex (BKC), corporate headquarters of Reserve Bank of India (RBI), SEBI, top investment banks, and global private equity funds.
-> - **Top-Ranked B-Schools**: **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**, **JBIMS (The CEO Factory)**, **SJMSOM [IIT Bombay](/colleges/iit-bombay)**, **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)**, **TISS Mumbai**, **BITSOM**, and **SIMSREE**.
+> - **Top-Ranked B-Schools**: **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**, **JBIMS (The CEO Factory)**, **SJMSOM [IIT Bombay](/colleges/iit-bombay/)**, **[NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM)**, **TISS Mumbai**, **BITSOM**, and **SIMSREE**.
 > - **Fee & Placement Benchmark**: Fees range from ₹1.36 Lakhs (SIMSREE - High ROI) to ₹25+ Lakhs (SPJIMR, NMIMS, BITSOM), with average placement salaries touching ₹15 LPA to ₹33 LPA.
 
 ### [InquiryCard title="Targeting Top Mumbai B-Schools?" description="Compare SPJIMR, JBIMS, NMIMS, BITSOM, Welingkar, and KJ Somaiya. Get 1-on-1 profile evaluation & admission strategies from Mohit Jain." cta="Book Free Mumbai Consultation" type="admission"]
@@ -65,18 +65,18 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SPJIMR Mumbai](/blog/all-about-nmims-campuses)** (PGDM) | Andheri West | ₹22.50 Lakhs | ₹33.00 LPA | CAT / GMAT (Profile: 85+ %ile / Score: 96+ %ile) |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** (MMS / MSc Finance) | Churchgate | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET (99.9+ %ile) / CAT (99.5+ %ile) |
-| **[SJMSOM IIT Bombay](/blog/all-about-iit-colleges-review)** (MBA) | Powai | ₹14.00 Lakhs | ₹28.80 LPA | CAT (98.5+ %ile) |
-| **[NMIMS Mumbai (SBM)](/colleges/nmims-mumbai)** (MBA Core/HR/BA) | Vile Parle West | ₹24.00 Lakhs | ₹25.10 LPA | NMAT by GMAC (235+ Score) |
-| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
-| **[BITSoM (BITS School of Mgmt)](/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff)** | Powai / Kalyan | ₹25.50 Lakhs | ₹23.50 LPA | CAT / GMAT / GRE (Profile-based) |
-| **[SIMSREE Mumbai (Sydenham)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29)** (MMS/PGDM) | Churchgate | ₹1.36 Lakhs | ₹15.20 LPA | MAH-CET (99.7+ %ile) / CAT (95+ %ile) |
-| **[KJ Somaiya Institute of Mgmt](/blog/all-about-nmims-campuses)** (MBA) | Vidyavihar | ₹20.80 Lakhs | ₹12.50 LPA | CAT / XAT / CMAT / NMAT (85+ %ile) |
-| **[Welingkar Mumbai (WeSchool)](/blog/all-about-welingkar)** (PGDM Core/E-Biz) | Matunga | ₹14.00 Lakhs | ₹12.40 LPA | CAT / XAT / CMAT / ATMA (80+ %ile) |
-| **[N.L. Dalmia Inst. of Mgmt](/blog/all-about-nl-dalmia-admission-2027-29)** (PGDM) | Mira Road | ₹13.20 Lakhs | ₹10.20 LPA | CAT / XAT / CMAT / MAT / MAH-CET |
-| **[SIES College of Mgmt Studies](/blog/all-about-mumbai-institute-of-professional-studies)** | Nerul, Navi Mumbai | ₹9.00 Lakhs | ₹9.10 LPA | MAH-CET / CMAT / CAT / MAT |
-| **[Chetana’s RK Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29)** | Bandra East | ₹5.50 Lakhs | ₹8.20 LPA | MAH-CET / CMAT / CAT |
+| **[SPJIMR Mumbai](/blog/all-about-nmims-campuses/)** (PGDM) | Andheri West | ₹22.50 Lakhs | ₹33.00 LPA | CAT / GMAT (Profile: 85+ %ile / Score: 96+ %ile) |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** (MMS / MSc Finance) | Churchgate | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET (99.9+ %ile) / CAT (99.5+ %ile) |
+| **[SJMSOM IIT Bombay](/blog/all-about-iit-colleges-review/)** (MBA) | Powai | ₹14.00 Lakhs | ₹28.80 LPA | CAT (98.5+ %ile) |
+| **[NMIMS Mumbai (SBM)](/colleges/nmims-mumbai/)** (MBA Core/HR/BA) | Vile Parle West | ₹24.00 Lakhs | ₹25.10 LPA | NMAT by GMAC (235+ Score) |
+| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29/)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
+| **[BITSoM (BITS School of Mgmt)](/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff/)** | Powai / Kalyan | ₹25.50 Lakhs | ₹23.50 LPA | CAT / GMAT / GRE (Profile-based) |
+| **[SIMSREE Mumbai (Sydenham)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29/)** (MMS/PGDM) | Churchgate | ₹1.36 Lakhs | ₹15.20 LPA | MAH-CET (99.7+ %ile) / CAT (95+ %ile) |
+| **[KJ Somaiya Institute of Mgmt](/blog/all-about-nmims-campuses/)** (MBA) | Vidyavihar | ₹20.80 Lakhs | ₹12.50 LPA | CAT / XAT / CMAT / NMAT (85+ %ile) |
+| **[Welingkar Mumbai (WeSchool)](/blog/all-about-welingkar/)** (PGDM Core/E-Biz) | Matunga | ₹14.00 Lakhs | ₹12.40 LPA | CAT / XAT / CMAT / ATMA (80+ %ile) |
+| **[N.L. Dalmia Inst. of Mgmt](/blog/all-about-nl-dalmia-admission-2027-29/)** (PGDM) | Mira Road | ₹13.20 Lakhs | ₹10.20 LPA | CAT / XAT / CMAT / MAT / MAH-CET |
+| **[SIES College of Mgmt Studies](/colleges/mba-colleges-mumbai/)** | Nerul, Navi Mumbai | ₹9.00 Lakhs | ₹9.10 LPA | MAH-CET / CMAT / CAT / MAT |
+| **[Chetana’s RK Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29/)** | Bandra East | ₹5.50 Lakhs | ₹8.20 LPA | MAH-CET / CMAT / CAT |
 
 ---
 
@@ -88,13 +88,13 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [Tier-1: National Titans]    [High-ROI Government Icons]   [Corporate Giants]
-  SPJIMR, SJMSOM [IIT Bombay](/colleges/iit-bombay),   JBIMS (₹6.1L Fee)             [NMIMS Mumbai](/colleges/nmims-mumbai), BITSOM,
+  SPJIMR, SJMSOM [IIT Bombay](/colleges/iit-bombay/),   JBIMS (₹6.1L Fee)             [NMIMS Mumbai](/colleges/nmims-mumbai/), BITSOM,
   TISS Mumbai (MA-HRM)         SIMSREE (₹1.36L Fee)          Welingkar, KJ Somaiya
 ```
 
 ### 1. The Super-Elite Tier (SPJIMR, JBIMS, SJMSOM, TISS)
-- **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: Recognized worldwide for non-classroom learning (Abhyudaya, DOCC, Autumn Internships) and specialized tracks in Marketing, Finance, Operations, and Information Management.
-- **[JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)**: Unmatched Mumbai alumni network leading top private banks, NBFCs, and conglomerates (including Chanda Kochhar, Uday Kotak, Ajay Piramal).
+- **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**: Recognized worldwide for non-classroom learning (Abhyudaya, DOCC, Autumn Internships) and specialized tracks in Marketing, Finance, Operations, and Information Management.
+- **[JBIMS Mumbai](/colleges/jbims-mumbai/) (The CEO Factory)**: Unmatched Mumbai alumni network leading top private banks, NBFCs, and conglomerates (including Chanda Kochhar, Uday Kotak, Ajay Piramal).
 - **SJMSOM IIT Bombay**: Outstanding analytics and supply chain placements with strong engineering rigor.
 - **TISS Mumbai**: The gold standard across Asia for Human Resource Management and Industrial Relations.
 
@@ -115,7 +115,7 @@ If you are targeting a career in **Investment Banking, Private Equity, Equity Re
 
 ## Frequently Asked Questions (FAQs)
 
-### How can I get into [JBIMS Mumbai](/colleges/jbims-mumbai) through MAH-CET?
+### How can I get into [JBIMS Mumbai](/colleges/jbims-mumbai/) through MAH-CET?
 Admission to JBIMS MMS program is conducted strictly via the Maharashtra State Common Entrance Test (MAH-MBA CET) through Centralized Admission Process (CAP) rounds. General category Maharashtra domicile cutoffs are typically **99.90 to 99.95+ percentile**, while All-India quota cutoffs require **99.99 percentile**.
 
 ### What is the difference between SPJIMR profile-based and score-based calls?
@@ -132,6 +132,6 @@ Yes, Welingkar Mumbai accepts CAT, XAT, CMAT, ATMA, and GMAT scores for its PGDM
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -97,8 +97,8 @@ For students planning to apply for the 2027 intake session, here is the complete
 | :--- | :--- | :--- | :--- |
 | **IGNOU Online** | **₹62,000** | **NAAC A++** | **Parliament Central Univ** |
 | **Andhra University Online** | ₹62,200 | NAAC A | State Govt Univ |
-| **[Uttaranchal University](/colleges/uttaranchal-university) Online** | ₹98,000 | NAAC A+ | NAAC A+ Private |
-| **[Amity University](/colleges/amity-noida) Online** | ₹1,99,000 | NAAC A+ | NAAC A+ Private |
+| **[Uttaranchal University](/colleges/uttaranchal-university/) Online** | ₹98,000 | NAAC A+ | NAAC A+ Private |
+| **[Amity University](/colleges/amity-noida/) Online** | ₹1,99,000 | NAAC A+ | NAAC A+ Private |
 
 ---
 
@@ -115,7 +115,7 @@ For students planning to apply for the 2027 intake session, here is the complete
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -128,6 +128,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

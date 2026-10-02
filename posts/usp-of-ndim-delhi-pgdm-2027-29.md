@@ -63,7 +63,7 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
+When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
 
 In this post, we break down the **10 real USPs of NDIM Delhi** — the things that actually matter when you're investing ₹13.75 Lakhs and 2 years of your life in a PGDM program.
 
@@ -295,19 +295,19 @@ At **CareerWithMohit**, we've counselled hundreds of students into NDIM, and the
 
 ---
 
-[👉 Apply to NDIM Delhi — Get Free Admission Guidance](/inquiry)
+[👉 Apply to NDIM Delhi — Get Free Admission Guidance](/inquiry/)
 
-[👉 Compare NDIM with Other Top B-Schools](/tools/college-comparison)
+[👉 Compare NDIM with Other Top B-Schools](/tools/college-comparison/)
 
-[👉 Explore Top MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
+[👉 Explore Top MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 
-[👉 Check Your NDIM Eligibility Using CAT/CMAT Score](/tools/college-comparison)
+[👉 Check Your NDIM Eligibility Using CAT/CMAT Score](/tools/college-comparison/)
 
 ---
 
 ### 🚀 Boost Your MBA Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

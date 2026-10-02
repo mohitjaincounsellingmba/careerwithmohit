@@ -1089,7 +1089,7 @@ export function CollegesClient({
               </h2>
             </div>
             <Link
-              href="/inquiry"
+              href="/inquiry/"
               className="text-xs font-bold text-violet-700 hover:text-violet-900 flex items-center gap-1"
             >
               <span>Get State-wise Cutoff Report &rarr;</span>

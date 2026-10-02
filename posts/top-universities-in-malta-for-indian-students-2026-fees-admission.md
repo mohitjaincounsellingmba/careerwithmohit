@@ -141,15 +141,15 @@ As a **Schengen Zone Member**, your Malta Student Visa allows:
 
 ## 📞 Expert Malta Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [Top Universities in Ireland for Indian Students 2026](/blog/top-universities-in-ireland-for-indian-students-2026-fees-admission)
-- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+- [Top Universities in Ireland for Indian Students 2026](/blog/top-universities-in-ireland-for-indian-students-2026-fees-admission/)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
 
 ---
 
@@ -171,6 +171,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -39,7 +39,7 @@ category: Exams
 
 Are you aiming for a top-tier MBA or PGDM through the Common University Entrance Test? With the competition intensifying for spots at prestigious institutions like **TISS Mumbai**, **BHU**, and **JNU**, knowing where you stand is crucial.
 
-Our **[CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor)** is designed to take the guesswork out of your admission journey. Using real-time data and historical trends, it maps your raw score to the most likely university converts.
+Our **[CUET PG MBA College Predictor 2027–29](/tools/cuet-pg-mba-predictor/)** is designed to take the guesswork out of your admission journey. Using real-time data and historical trends, it maps your raw score to the most likely university converts.
 
 ---
 
@@ -49,7 +49,7 @@ Based on the latest trends, here is how your **raw score (out of 300)** translat
 
 | Raw Score (Out of 300) | Predicted Percentile | Admission Tier | Top Colleges to Target |
 | :--- | :--- | :--- | :--- |
-| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi) |
+| **245+** | 99.8+ %ile | **Elite Tier** | TISS Mumbai (HRM), [FMS Delhi](/colleges/fms-delhi/) |
 | **230 - 244** | 99+ %ile | **Elite Tier** | JNU Delhi, TISS (ODCL) |
 | **205 - 229** | 96 - 98%ile | **Top Tier** | BHU Varanasi, DAVV Indore |
 | **160 - 204** | 88 - 95%ile | **Mid Tier** | Pondicherry University, CU Rajasthan |
@@ -79,15 +79,15 @@ These are your "Dream Colleges" that may be 5-10 marks away. If the difficulty l
 ---
 
 ## 💡 Related Reading for MBA Aspirants:
-- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
+- [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
 
 **Ready to see your results?**
-[📊 Open the CUET PG MBA College Predictor](/tools/cuet-pg-mba-predictor)
+[📊 Open the CUET PG MBA College Predictor](/tools/cuet-pg-mba-predictor/)
 
 **Need a personalized admission roadmap?**
-[👉 Book Your Career Counselling Session](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
+[👉 Book Your Career Counselling Session](/inquiry/) | [💬 WhatsApp Support](https://wa.me/919560020771)
 
 
 
@@ -96,7 +96,7 @@ These are your "Dream Colleges" that may be 5-10 marks away. If the difficulty l
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -110,6 +110,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

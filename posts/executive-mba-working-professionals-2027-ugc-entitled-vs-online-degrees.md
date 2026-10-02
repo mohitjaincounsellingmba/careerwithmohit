@@ -59,7 +59,7 @@ In this definitive **2027 Executive MBA & Online Degrees Guide**, we analyze gov
 
 > 🎓 **Unsure Whether an Executive MBA or Online MBA Suits Your Career Goal?**
 >
-> [👉 Compare 35+ UGC-Approved Executive & Online MBA Programs in 2 Minutes](/online-degree-certification)
+> [👉 Compare 35+ UGC-Approved Executive & Online MBA Programs in 2 Minutes](/online-degree-certification/)
 
 ---
 
@@ -113,7 +113,7 @@ To determine which format aligns with your work schedule and budget, examine the
 
 Premier b-schools offer world-class 1-year full-time executive post-graduate programs designed for mid-to-senior level managers:
 
-### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) – PGPX (One Year Post-Graduate Programme for Executives)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad/) – PGPX (One Year Post-Graduate Programme for Executives)
 * **Eligibility:** Bachelor's degree + minimum 4 years of work experience + GMAT/GRE score.
 * **Duration:** 1 Year Full-Time Residential.
 * **Total Program Fee:** Approx ₹33.00 Lakhs.
@@ -127,18 +127,18 @@ Premier b-schools offer world-class 1-year full-time executive post-graduate pro
 * **Average Placement Package:** ₹34.21 LPA.
 * **Highlights:** One of Asia's highest-ranked global business schools with triple-crown international accreditations.
 
-### 3. [IIM Bangalore](/colleges/iim-bangalore) – EPGP (Executive Post Graduate Programme)
+### 3. [IIM Bangalore](/colleges/iim-bangalore/) – EPGP (Executive Post Graduate Programme)
 * **Eligibility:** Graduation + 5 to 12 years of work experience + GMAT/GRE.
 * **Total Program Fee:** Approx ₹31.00 Lakhs.
 * **Average Placement Package:** ₹33.05 LPA.
 * **Highlights:** High focus on Technology Management, Analytics, and International Immersion.
 
-### 4. [IIM Calcutta](/colleges/iim-calcutta) – MBAEx (MBA for Executives Programme)
+### 4. [IIM Calcutta](/colleges/iim-calcutta/) – MBAEx (MBA for Executives Programme)
 * **Eligibility:** Graduation + minimum 5 years of managerial work ex + GMAT.
 * **Total Program Fee:** Approx ₹31.00 Lakhs.
 * **Average Placement Package:** ₹30.90 LPA.
 
-### 5. [XLRI Jamshedpur](/colleges/xlri-jamshedpur) – PGDM (Executive)
+### 5. [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) – PGDM (Executive)
 * **Eligibility:** Graduation + 5+ years of managerial experience + XAT/GMAT.
 * **Total Program Fee:** Approx ₹23.00 Lakhs.
 * **Average Placement Package:** ₹29.40 LPA.
@@ -155,12 +155,12 @@ If quitting your job or paying ₹30+ Lakhs is not feasible, **UGC Entitled Onli
 * **Key Specializations:** Finance, Marketing, Supply Chain, Business Analytics, Applied Finance.
 * **Highlights:** Mobile app-based learning, flexible exam scheduling, and weekend live interactive sessions.
 
-### 2. [Amity University](/colleges/amity-noida) Online MBA
+### 2. [Amity University](/colleges/amity-noida/) Online MBA
 * **Accreditation:** NAAC A++ Grade, UGC-DEB Approved, QS World Ranked Online MBA (#1 in India).
 * **Fee Structure:** Approx ₹1.75 Lakhs – ₹2.50 Lakhs.
 * **Highlights:** Daily live lectures, global faculty, AI-powered career services portal.
 
-### 3. [BITS Pilani](/colleges/bits-pilani) WILP (Work Integrated Learning Programmes)
+### 3. [BITS Pilani](/colleges/bits-pilani/) WILP (Work Integrated Learning Programmes)
 * **Program:** M.Tech / MBA in Business Analytics, Finance, Manufacturing Management.
 * **Eligibility:** Employed professionals with relevant work experience.
 * **Fee Structure:** Approx ₹2.40 Lakhs.
@@ -220,12 +220,12 @@ Q3: What is your total work experience?
 ### Compare Online & Executive MBA Programs Today!
 
 * 📞 **Executive Admission Helpdesk:** Talk directly to Lead Counsellor **Mohit Jain** for eligibility check.
-* 📋 **[Compare 35+ Online & Executive MBA Colleges](/online-degree-certification)** on fees, NAAC grades, and curriculum flexibility.
+* 📋 **[Compare 35+ Online & Executive MBA Colleges](/online-degree-certification/)** on fees, NAAC grades, and curriculum flexibility.
 
 ---
 
 ### Boost Your Preparation
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

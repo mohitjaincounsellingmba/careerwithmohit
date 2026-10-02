@@ -76,7 +76,7 @@ These colleges are mostly state-affiliated institutions (primarily under Guru Go
 
 ### 3. Experiential ROI (High Fees, Brand Networking)
 These private universities charge premium fees for top-tier infrastructure, international exchanges, and diverse networking environments.
-- **Top Colleges:** [Amity University](/colleges/amity-noida), SCMS Noida, BML Munjal, GD Goenka, Masters' Union.
+- **Top Colleges:** [Amity University](/colleges/amity-noida/), SCMS Noida, BML Munjal, GD Goenka, Masters' Union.
 - **Fees:** ₹2.5 Lakhs - ₹5.0 Lakhs per year (Masters' Union is higher).
 - **Average Placements:** ₹5 LPA - ₹6.8 LPA.
 - **Verdict:** **Depends on your goals.** While pure quantitative ROI is lower, the networking opportunities, soft skill development, and alumni support add long-term qualitative value.
@@ -107,9 +107,9 @@ If you join a college where the fees are high relative to starting placements, f
 ---
 
 ## 🔗 Related Resources
-- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [How to Get Into Top BBA Colleges Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
-- [BBA vs BCom vs BMS: Which is Better?](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [How to Get Into Top BBA Colleges Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)
+- [BBA vs BCom vs BMS: Which is Better?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
@@ -131,6 +131,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

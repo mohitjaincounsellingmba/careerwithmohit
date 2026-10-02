@@ -51,11 +51,11 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** (PGDM Analytics Track) | ₹14.50 Lakhs | ₹11.25 LPA - ₹12.00 LPA | CAT / XAT / CMAT / GMAT (75%+ %ile) |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** (PGDM Analytics Track) | ₹14.50 Lakhs | ₹11.25 LPA - ₹12.00 LPA | CAT / XAT / CMAT / GMAT (75%+ %ile) |
 | **Lloyd Business School** (PGDM Business Analytics - IBM) | ₹7.25L - ₹8.25L | ₹6.80 LPA - ₹8.50 LPA | CAT / MAT / XAT / CMAT / ATMA / LMET |
 | **Shiv Nadar University (SNU)** (MBA Analytics Track) | ₹11.50L - ₹14.50L | ₹10.80 LPA - ₹11.50 LPA | SMAT / CAT / XAT / NMAT / GMAT |
-| **[IILM University Greater Noida](/colleges/iilm-university-greater-noida)** (MBA Analytics & AI) | ₹11.50 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / MAT / XAT / CMAT / NMAT |
-| **[Galgotias University](/colleges/galgotias-university)** (MBA Business Analytics) | ₹4.80L - ₹6.50L | ₹5.50 LPA - ₹6.80 LPA | MAT / CAT / CMAT / NMAT / GMAT |
+| **[IILM University Greater Noida](/colleges/iilm-university-greater-noida/)** (MBA Analytics & AI) | ₹11.50 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / MAT / XAT / CMAT / NMAT |
+| **[Galgotias University](/colleges/galgotias-university/)** (MBA Business Analytics) | ₹4.80L - ₹6.50L | ₹5.50 LPA - ₹6.80 LPA | MAT / CAT / CMAT / NMAT / GMAT |
 | **GNIOT Greater Noida** (MBA Business Analytics) | ₹3.80L - ₹5.50L | ₹5.80 LPA - ₹6.50 LPA | CUET-PG / UPSEE / CAT / MAT / CMAT |
 | **IIMT Group of Colleges** (MBA Business Analytics) | ₹3.20L - ₹4.50L | ₹4.80 LPA - ₹5.50 LPA | UPSEE / CUET-PG / Direct Merit (50% Min) |
 
@@ -63,7 +63,7 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 
 ## 🏛️ In-Depth Review: Best Business Analytics Colleges in Greater Noida
 
-### 1. [BIMTECH (Birla Institute of Management Technology)](/colleges/bimtech-greater-noida), Knowledge Park II
+### 1. [BIMTECH (Birla Institute of Management Technology)](/colleges/bimtech-greater-noida/), Knowledge Park II
 - **Flagship Offering**: PGDM with Business Analytics & Artificial Intelligence Electives
 - **Total Tuition Fee**: ₹14.50 Lakhs
 - **Placement Performance**: Average CTC ₹11.25 LPA – ₹12.00 LPA | Highest Domestic CTC ₹24.43 LPA
@@ -96,7 +96,7 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 
 ---
 
-### 4. [IILM University, Greater Noida](/colleges/iilm-university-greater-noida), Knowledge Park
+### 4. [IILM University, Greater Noida](/colleges/iilm-university-greater-noida/), Knowledge Park
 - **Flagship Offering**: MBA in Business Analytics & Artificial Intelligence
 - **Total Tuition Fee**: ₹11.50 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹18.00 LPA
@@ -145,12 +145,12 @@ The expected CAT/XAT cutoff for BIMTECH PGDM programs ranges between 72 and 78 p
 ### 3. Can I get direct admission in Greater Noida MBA colleges without CAT?
 Yes, colleges like Lloyd, GNIOT, Galgotias, and IIMT offer institutional profile-evaluation rounds and direct merit admissions based on graduation marks, MAT/CMAT/ATMA scores, and personal interviews.
 
-[👉 Need guidance on selecting the best Greater Noida college for your profile? Talk to Mohit Jain!](/inquiry)
+[👉 Need guidance on selecting the best Greater Noida college for your profile? Talk to Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: All About BIMTECH Greater Noida Review & Cutoffs](/blog/all-about-bimtech-greater-noida)**
-- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: All About BIMTECH Greater Noida Review & Cutoffs](/blog/all-about-bimtech-greater-noida/)**
+- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29/)**

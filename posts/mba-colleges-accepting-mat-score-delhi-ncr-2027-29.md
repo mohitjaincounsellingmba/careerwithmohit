@@ -61,26 +61,26 @@ These institutions are highly popular among MAT test-takers, offering a blend of
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH) - Greater Noida
+## 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH) - Greater Noida
 BIMTECH is a premier B-school in Greater Noida. While it accepts CAT/XAT for its core PGDM, it accepts MAT scores for its specialized PGDM in **Retail Management** and **Insurance Business Management**.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 - ₹15.0 Lakhs
 - **Average Placement Package:** ₹11.0 LPA
 
-### 2. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) - New Delhi
+### 2. [New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) - New Delhi
 NDIM is consistently ranked among the top private B-schools in India for product marketing and corporate internships.
 - **MAT Cutoff Percentile:** 70-75 Percentile
 - **Approx Tuition Fees (2 Years):** ₹11.5 Lakhs
 - **Average Placement Package:** ₹8.20 LPA
 
-### 3. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) - Rohini, Delhi
+### 3. [Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS) - Rohini, Delhi
 A highly respectable option in North-West Delhi, offering a structured PGDM curriculum and dedicated industry mentoring.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹9.25 Lakhs
 - **Average Placement Package:** ₹8.30 LPA
 
-### 4. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) - Noida
-[Jaipuria Noida](/colleges/jaipuria-noida) is a corporate-focused B-school known for its state-of-the-art infrastructure and extensive corporate connections.
+### 4. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) - Noida
+[Jaipuria Noida](/colleges/jaipuria-noida/) is a corporate-focused B-school known for its state-of-the-art infrastructure and extensive corporate connections.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.5 Lakhs
 - **Average Placement Package:** ₹8.90 LPA
@@ -97,22 +97,22 @@ A legacy management institute in Ghaziabad offering excellent corporate networki
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.00 LPA** |
-| **[Jaipuria Noida](/colleges/jaipuria-noida)** | 75+ Percentile | ₹13.5 Lakhs | **₹8.90 LPA** |
-| **[JIMS Rohini](/colleges/jims-rohini)** | 75+ Percentile | ₹9.25 Lakhs | **₹8.30 LPA** |
-| **[NDIM Delhi](/colleges/ndim-delhi)** | 70+ Percentile | ₹11.5 Lakhs | **₹8.20 LPA** |
-| **[I.T.S Ghaziabad](/colleges/its-ghaziabad)** | 65+ Percentile | ₹6.50 Lakhs | **₹6.80 LPA** |
-| **[Asia-Pacific Institute (APIM)](/colleges/apim-delhi)** | 60+ Percentile | ₹9.50 Lakhs | **₹7.20 LPA** |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | 75+ Percentile | ₹14.0 Lakhs | **₹11.00 LPA** |
+| **[Jaipuria Noida](/colleges/jaipuria-noida/)** | 75+ Percentile | ₹13.5 Lakhs | **₹8.90 LPA** |
+| **[JIMS Rohini](/colleges/jims-rohini/)** | 75+ Percentile | ₹9.25 Lakhs | **₹8.30 LPA** |
+| **[NDIM Delhi](/colleges/ndim-delhi/)** | 70+ Percentile | ₹11.5 Lakhs | **₹8.20 LPA** |
+| **[I.T.S Ghaziabad](/colleges/its-ghaziabad/)** | 65+ Percentile | ₹6.50 Lakhs | **₹6.80 LPA** |
+| **[Asia-Pacific Institute (APIM)](/colleges/apim-delhi/)** | 60+ Percentile | ₹9.50 Lakhs | **₹7.20 LPA** |
 
 ---
 
 ## 🔍 Explore Sub-Regions within Delhi NCR
 
 For a more granular search of colleges accepting MAT scores in specific areas of the National Capital Region, explore our dedicated sub-regional guides:
-- [MAT Accepting Colleges in Noida](/blog/mba-colleges-accepting-mat-noida-2027-29)
-- [MAT Accepting Colleges in Greater Noida](/blog/mba-colleges-accepting-mat-greater-noida-2027-29)
-- [MAT Accepting Colleges in Ghaziabad](/blog/mba-colleges-accepting-mat-ghaziabad-2027-29)
-- [MAT Accepting Colleges in Gurgaon (Gurugram)](/blog/mba-colleges-accepting-mat-gurgaon-2027-29)
+- [MAT Accepting Colleges in Noida](/blog/mba-colleges-accepting-mat-noida-2027-29/)
+- [MAT Accepting Colleges in Greater Noida](/blog/mba-colleges-accepting-mat-greater-noida-2027-29/)
+- [MAT Accepting Colleges in Ghaziabad](/blog/mba-colleges-accepting-mat-ghaziabad-2027-29/)
+- [MAT Accepting Colleges in Gurgaon (Gurugram)](/blog/mba-colleges-accepting-mat-gurgaon-2027-29/)
 
 ---
 
@@ -125,10 +125,10 @@ For a more granular search of colleges accepting MAT scores in specific areas of
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr)
-- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29)
-- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2027-29)
+- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
+- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
+- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2027-29/)
 
 ---
 
@@ -138,7 +138,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 ---
@@ -146,7 +146,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -157,6 +157,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

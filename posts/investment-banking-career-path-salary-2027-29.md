@@ -110,16 +110,16 @@ Most campus hiring happens in **December-January**, while lateral hiring (for ex
 ---
 
 ### Useful Links:
-- [CFA Course Guide 2026 — Dates & Strategy](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29)
-- [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison)
+- [CFA Course Guide 2026 — Dates & Strategy](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29/)
+- [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison/)
 
 ---
 
 **Enter the World of High-Stakes Finance.**
 Investment Banking is not just a job; it’s a lifestyle change. Don't waste your effort by applying without the right technical toolkit. Mohit Jain provides an **"IB Readiness Audit"**—helping you master the financial models and presentation styles that get you noticed by the recruiters at J.P. Morgan and Goldman Sachs.
 
-[👉 Book My IB Career Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My IB Career Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -127,6 +127,6 @@ Investment Banking is not just a job; it’s a lifestyle change. Don't waste you
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

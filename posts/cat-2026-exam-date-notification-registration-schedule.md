@@ -86,41 +86,41 @@ With the exam date roughly 6 months away, May-June is the perfect time to start 
 2.  **Take a Diagnostic Mock:** See where you stand today.
 3.  **Focus on Basics:** Strengthen your Arithmetic and Reading Comprehension skills first.
 
-[👉 Check: 6-Month CAT 2026 Preparation Roadmap & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)
+[👉 Check: 6-Month CAT 2026 Preparation Roadmap & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/)
 
-[👉 Practice: Free CAT 2026 Mock Test Series](/blog/why-take-our-free-cat-mock-test-2026-online)
+[👉 Practice: Free CAT 2026 Mock Test Series](/blog/why-take-our-free-cat-mock-test-2026-online/)
 
 ---
 
 ## 5. Top Colleges Accepting CAT 2026 Scores
 Apart from the 21 IIMs, several other institutes accept CAT scores:
-*   **[FMS Delhi](/colleges/fms-delhi)** (High ROI)
-*   **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** (Profile-based calls)
-*   **[MDI Gurgaon](/colleges/mdi-gurgaon)**
+*   **[FMS Delhi](/colleges/fms-delhi/)** (High ROI)
+*   **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** (Profile-based calls)
+*   **[MDI Gurgaon](/colleges/mdi-gurgaon/)**
 *   **IITs (DoMS)**
 *   **IMT Ghaziabad**
 
-[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
+[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
 
 ---
 
 **Planning to crack CAT 2026? Let’s build your profile.**
 
-[👉 Connect with Mohit Jain for Profile Analysis and Career Counselling](/inquiry)
+[👉 Connect with Mohit Jain for Profile Analysis and Career Counselling](/inquiry/)
 
 ---
 
 *Related Posts:*
-* [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates)
-* [Top 10 MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
-* [CAT vs CMAT vs NMAT: Which Exam is Easier?](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body)
+* [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+* [Top 10 MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)
+* [CAT vs CMAT vs NMAT: Which Exam is Easier?](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -135,6 +135,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

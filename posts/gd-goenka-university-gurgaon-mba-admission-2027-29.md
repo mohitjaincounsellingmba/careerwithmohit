@@ -79,14 +79,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [GD Goenka University](/colleges/gd-goenka-gurgaon) (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.50 Lakhs (Total)** (**₹4.25 Lakhs per Year**). Merit scholarships up to 100% tuition waiver on CAT/MAT/CUET scores.
 > - **Accreditation & Approvals**: UGC Approved State Private University · AIU Member · ACU Member.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.50 LPA** (Top 25% at **₹9.00 LPA**) with a highest package of **₹17.50 LPA**. 18% PPO rate through dedicated corporate resource center linkages.
 
-**[GD Goenka University](/colleges/gd-goenka-gurgaon) (School of Management) (GD Goenka Gurgaon)**, located in **Sohna Road, Gurugram NCR**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management) (GD Goenka Gurgaon)**, located in **Sohna Road, Gurugram NCR**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA programs or comparing top business schools in **Gurgaon**, this detailed guide provides verified facts regarding **GD Goenka Gurgaon's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -96,7 +96,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[GD Goenka University](/colleges/gd-goenka-gurgaon) (School of Management)** (GD Goenka Gurgaon) |
+| **Institution Name** | **[GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management)** (GD Goenka Gurgaon) |
 | **Campus Location** | Sohna Road, Gurugram NCR |
 | **Program Offered** | **2-Year Full-Time MBA (Marketing, Finance, HR, Business Analytics, Supply Chain)** |
 | **Degree / Diploma Type** | **MBA** |
@@ -247,13 +247,13 @@ GD Goenka Gurgaon accepts valid percentiles from national entrance exams includi
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

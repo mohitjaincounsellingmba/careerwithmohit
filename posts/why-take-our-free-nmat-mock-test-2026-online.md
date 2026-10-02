@@ -49,11 +49,11 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-Are you targeting [NMIMS Mumbai](/colleges/nmims-mumbai) for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
+Are you targeting [NMIMS Mumbai](/colleges/nmims-mumbai/) for the 2027 batch? If so, cracking the **NMAT by GMAC** is your primary hurdle. Unlike the CAT exam which tests deep conceptual knowledge and logic over hours, NMAT is a high-octane speed test. 
 
 [MockTestCard title="Free NMAT 2026 Full CBT Mock Test 2026" link="/nmat-mock-test" questions="108 Questions" time="120 Mins"]
 
-To help students adjust to this unique, adaptive format, we have launched our comprehensive, fully interactive **[Free NMAT 2026 Mock Test](/tools/nmat-mock-test)**!
+To help students adjust to this unique, adaptive format, we have launched our comprehensive, fully interactive **[Free NMAT 2026 Mock Test](/tools/nmat-mock-test/)**!
 
 ---
 
@@ -93,4 +93,4 @@ The primary college is NMIMS (Mumbai, Bengaluru, Hyderabad). Other top colleges 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

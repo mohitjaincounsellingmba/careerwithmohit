@@ -75,8 +75,8 @@ state: Delhi NCR
 |---|---|---|
 | **University of Delhi – Faculty of Management Studies (FMS)** | 78 % | Highest ROI, strong corporate placement network. |
 | **Delhi School of Economics (DSE)** | 70 % | Emphasis on analytics & finance. |
-| **[Amity University, Noida](/colleges/amity-noida)** | 65 % | Wide range of specialisations, modern campus. |
-| **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)** | 60 % | Affordable tuition, good industry tie‑ups. |
+| **[Amity University, Noida](/colleges/amity-noida/)** | 65 % | Wide range of specialisations, modern campus. |
+| **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/)** | 60 % | Affordable tuition, good industry tie‑ups. |
 | **Maharshi Dayanand University (MDU)** | 58 % | Focus on entrepreneurship and startup incubation. |
 
 ## Application Tips for 2026
@@ -101,7 +101,7 @@ state: Delhi NCR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -115,6 +115,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

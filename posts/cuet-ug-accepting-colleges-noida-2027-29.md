@@ -53,7 +53,7 @@ If you are a student targeting **Noida for the 2026-27 session**, here are the t
 
 ---
 
-### **1. [Amity University, Noida](/colleges/amity-noida)**
+### **1. [Amity University, Noida](/colleges/amity-noida/)**
 One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
@@ -63,7 +63,7 @@ While technical, JIIT offers several multidisciplinary tracks through various en
 *   **Programs:** Integrated B.Tech, BBA, B.Sc.
 *   **USP:** A top-tier institute known for its high academic standards in technology.
 
-### **3. [Noida International University (NIU)](/colleges/niu-greater-noida)**
+### **3. [Noida International University (NIU)](/colleges/niu-greater-noida/)**
 Located in Greater Noida East, this university offers multidisciplinary education.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Sc, B.Tech.
 *   **USP:** Global exposure and a large international student community.
@@ -80,7 +80,7 @@ Known for its management education legacy.
 *   **Specializations:** From Media and Design to Data Science and Bio-technology, Noida has it all.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
-[👉 Get Noida CUET Admission Guidance](/inquiry)
+[👉 Get Noida CUET Admission Guidance](/inquiry/)
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about Amity vs NIU? Talk to our CUET consultants today!**
@@ -105,6 +105,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

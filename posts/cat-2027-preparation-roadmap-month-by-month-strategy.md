@@ -43,7 +43,7 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-Cracking the Common Admission Test (CAT) and securing a seat at premier management institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), or [FMS Delhi](/colleges/fms-delhi) requires far more than just raw intelligence. The **CAT 2027** exam is fundamentally a test of decision-making, speed, accuracy, and mental stamina under pressure.
+Cracking the Common Admission Test (CAT) and securing a seat at premier management institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), or [FMS Delhi](/colleges/fms-delhi/) requires far more than just raw intelligence. The **CAT 2027** exam is fundamentally a test of decision-making, speed, accuracy, and mental stamina under pressure.
 
 To score a **99+ percentile**, you do not need to solve 100% of the paper. In fact, historically, scoring around **40% to 45% of the total raw marks** (80–90 marks out of 198) easily pushes candidates into the elite 99th percentile bracket.
 
@@ -256,12 +256,12 @@ Yes! Working professionals can achieve a 99+ percentile by dedicating **2 to 3 f
 
 Scoring a 99+ percentile in CAT 2027 is a marathon, not a sprint. Maintain consistency, track your error logs rigorously, and adapt your exam strategy with every mock test.
 
-For further insights into top management entrance exams and selection criteria, explore our guides on [All About CAT Exam](/blog/all-about-cat-exam), [10 Tips to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29), and [IIM Cutoffs & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm).
+For further insights into top management entrance exams and selection criteria, explore our guides on [All About CAT Exam](/blog/all-about-cat-exam/), [10 Tips to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/), and [IIM Cutoffs & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

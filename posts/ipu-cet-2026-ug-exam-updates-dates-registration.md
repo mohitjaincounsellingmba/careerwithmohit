@@ -70,14 +70,14 @@ The CET is mandatory for the following flagship undergraduate programs at IPU:
 3. **Focus on Reasoning:** Logical Reasoning often carries 25% weightage and is the key differentiator for BBA and BCA ranks.
 
 ## Next Steps & Useful Links
-- **B.Tech Aspirants:** Check the [Best B.Tech CSE Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026) for your preference list.
-- **Exam Details:** Read our in-depth guide on [All About IPU CET Exam](/blog/all-about-ipceta-exam).
-- **Direct Admission:** Explore [Direct Admission Options in IPU Colleges](/blog/ipu-cet-mba-colleges-ggsipu).
+- **B.Tech Aspirants:** Check the [Best B.Tech CSE Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/) for your preference list.
+- **Exam Details:** Read our in-depth guide on [All About IPU CET Exam](/blog/all-about-ipceta-exam/).
+- **Direct Admission:** Explore [Direct Admission Options in IPU Colleges](/blog/ipu-cet-mba-colleges-ggsipu/).
 
 Stay tuned to the official website **ipu.ac.in** for the course-wise detailed timetable of the entrance exams.
 
 ---
-[👉 Confused about IPU's complex counseling process? Get expert guidance today!](/inquiry)
+[👉 Confused about IPU's complex counseling process? Get expert guidance today!](/inquiry/)
 
 ---
 
@@ -99,6 +99,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

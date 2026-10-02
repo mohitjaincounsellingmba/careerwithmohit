@@ -50,13 +50,13 @@ Here is the detailed overview of the top management institutes in Kolkata accept
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [IMI Kolkata](/colleges/imi-kolkata)
+## 1. [IMI Kolkata](/colleges/imi-kolkata/)
 An elite private B-school with strong research support and excellent corporate placements.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.20 Lakhs
 - **Average Placement Package:** ₹10.5 LPA
 
-### 2. [Globsyn Business School](/colleges/globsyn-kolkata)
+### 2. [Globsyn Business School](/colleges/globsyn-kolkata/)
 A pioneer in technology-integrated management education in Eastern India.
 - **MAT Cutoff Percentile:** 65+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹8.70 Lakhs
@@ -86,8 +86,8 @@ Spacious campus with diverse PGDM options and strong student support facilities.
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **[IMI Kolkata](/colleges/imi-kolkata)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.5 LPA** |
-| **[Globsyn Business School](/colleges/globsyn-kolkata)** | 65+ Percentile | ₹8.70 Lakhs | **₹7.50 LPA** |
+| **[IMI Kolkata](/colleges/imi-kolkata/)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.5 LPA** |
+| **[Globsyn Business School](/colleges/globsyn-kolkata/)** | 65+ Percentile | ₹8.70 Lakhs | **₹7.50 LPA** |
 | **EIILM Kolkata** | 60+ Percentile | ₹4.50 Lakhs | **₹5.80 LPA** |
 | **BIBS - Bengal Institute of Business Studies** | 60+ Percentile | ₹5.90 Lakhs | **₹6.20 LPA** |
 | **NSHM Business School** | 60+ Percentile | ₹5.50 Lakhs | **₹5.00 LPA** |
@@ -96,7 +96,7 @@ Spacious campus with diverse PGDM options and strong student support facilities.
 
 ## 💡 Crucial Tips for MAT Admissions in Kolkata
 
-1. [IMI Kolkata](/colleges/imi-kolkata) is the premier private institute accepting MAT in Eastern India.
+1. [IMI Kolkata](/colleges/imi-kolkata/) is the premier private institute accepting MAT in Eastern India.
 1. Many colleges in Kolkata offer specialized training programs in logistics, banking, and retail.
 1. Confirm application dates early, as Kolkata colleges usually fill seats by July.
 
@@ -108,14 +108,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -126,6 +126,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

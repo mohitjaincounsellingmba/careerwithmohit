@@ -27,7 +27,7 @@ faqs:
       No, placements for the MBA program are centralized across the three
       Bangalore campuses.
   - question: What is the dress code for MBA at Christ Kengeri?
-    answer: "Exactly the same as other campuses; formal attire and professional grooming are strictly monitored.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About the Location?**\nWhile Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Exactly the same as other campuses; formal attire and professional grooming are strictly monitored.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)\n\n**Confused About the Location?**\nWhile Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -89,14 +89,14 @@ No, placements for the MBA program are centralized across the three Bangalore ca
 Exactly the same as other campuses; formal attire and professional grooming are strictly monitored.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)
 
 **Confused About the Location?**
 While Kengeri is further from the city hub, it is well-connected by the Bangalore Metro. At **CareerWithMohit**, we help you decide if the peaceful environment of Kengeri is better suited for your academic focus than the busy Central Campus.
 
-[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)
 
 
 
@@ -104,7 +104,7 @@ While Kengeri is further from the city hub, it is well-connected by the Bangalor
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -118,6 +118,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

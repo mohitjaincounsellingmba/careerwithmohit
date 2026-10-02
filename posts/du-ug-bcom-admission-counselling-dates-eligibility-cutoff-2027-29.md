@@ -37,7 +37,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Looking for Delhi University DU BCom and UG admission updates? Get the complete breakdown of DU CSAS 2026 coun...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Delhi University (DU) is the dream destination for millions of high school graduates across India. Specifically, programs like **B.Com (Hons.)** and **B.Com (Programme)** offered by top colleges such as SRCC, Hindu College, Hansraj College, and Lady Shri Ram (LSR) witness intense competition every year. 
 
@@ -134,9 +134,9 @@ DU will run multiple rounds of seat allocation. When a seat is allocated:
 
 ## 🔗 Related Guides and Resources
 To help you make the best admission decisions, check out our other detailed guides:
-*   [Delhi University (DU) BCom Admission Process & Eligibility (2026)](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29) — A detailed look into the subject mapping and combinations.
-*   [CUET UG 2026 Result Update & Timeline](/blog/cuet-ug-2026-result-expected-date-answer-key-out) — Stay on top of NTA timeline updates.
-*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide) — Looking at BBA as an alternative option? Read our complete handbook.
+*   [Delhi University (DU) BCom Admission Process & Eligibility (2026)](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/) — A detailed look into the subject mapping and combinations.
+*   [CUET UG 2026 Result Update & Timeline](/blog/cuet-ug-2026-result-expected-date-answer-key-out/) — Stay on top of NTA timeline updates.
+*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/) — Looking at BBA as an alternative option? Read our complete handbook.
 
 ---
 
@@ -160,6 +160,6 @@ For general category students, a safe CUET UG score for SRCC is 780-800+, and fo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -48,7 +48,7 @@ Here is the unfiltered data on all four BITS campuses for 2026 admissions:
 - **Establishment:** 1964 (Pilani Campus)
 - **Legacy & USP:** No reservation policy—admissions are 100% pure merit-based through BITSAT. The "0% Attendance Requirement" fosters massive entrepreneurial and extracurricular growth. The "Practice School (PS)" provides guaranteed paid internships at top MNCs.
 - **Campuses:**
-  - **[BITS Pilani](/colleges/bits-pilani) (The Original & Most Prestigious)**
+  - **[BITS Pilani](/colleges/bits-pilani/) (The Original & Most Prestigious)**
   - **BITS Goa (K.K. Birla Campus)**
   - **BITS Hyderabad**
   - **BITS Dubai (Separate admission process via 12th Marks/SAT)**
@@ -77,7 +77,7 @@ Here is the unfiltered data on all four BITS campuses for 2026 admissions:
 
 ## Placement Statistics (2025-2026)
 
-[BITS Pilani](/colleges/bits-pilani) operates parallel to top IITs, bringing the absolute best tech and finance firms to all three Indian campuses.
+[BITS Pilani](/colleges/bits-pilani/) operates parallel to top IITs, bringing the absolute best tech and finance firms to all three Indian campuses.
 
 - **Highest Placement Package:** ₹1.40 Crores+ (International) / ₹60.00 LPA+ (Domestic)
 - **Average Placement Package:** 
@@ -92,10 +92,10 @@ Here is the unfiltered data on all four BITS campuses for 2026 admissions:
 - **Pros:** Unmatched peer group (you are sitting with top 1% minds of the country). The 0% attendance policy allows students to build startups, learn heavy coding, or prepare for CAT/GRE. The Practice School (PS-1 and PS-2) practically sets up your Pre-Placement Offer (PPO). Unbelievable alumni network (founders of Swiggy, Postman, Mapsense are BITSians).
 - **Cons:** Astronomical fees. It is getting very expensive for the middle class without educational loans. The grading system is notoriously tough (relative grading).
 
-**Our Verdict:** If you clear the BITSAT cutoffs for Pilani, Goa, or Hyderabad, there is no debate—take it. [BITS Pilani](/colleges/bits-pilani) is the only private institute in India that stands shoulder-to-shoulder with [IIT Bombay](/colleges/iit-bombay) and IIT Delhi. The fees are high, but the staggering average packages and the sheer power of the "BITSian" tag provide an instant ROI that lasts a lifetime.
+**Our Verdict:** If you clear the BITSAT cutoffs for Pilani, Goa, or Hyderabad, there is no debate—take it. [BITS Pilani](/colleges/bits-pilani/) is the only private institute in India that stands shoulder-to-shoulder with [IIT Bombay](/colleges/iit-bombay/) and IIT Delhi. The fees are high, but the staggering average packages and the sheer power of the "BITSian" tag provide an instant ROI that lasts a lifetime.
 
 ---
-[👉 Wondering how to crack BITSAT or compare it with NITs? Book a free strategy call with our engineering counsellors!](/inquiry)
+[👉 Wondering how to crack BITSAT or compare it with NITs? Book a free strategy call with our engineering counsellors!](/inquiry/)
 
 ---
 
@@ -117,6 +117,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

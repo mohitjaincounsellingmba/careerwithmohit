@@ -76,7 +76,7 @@ Familiarize yourself with tools like **HubSpot, Salesforce, or Mailchimp**. Unde
 ### D. Content Strategy & AI Integration
 In 2026, mastering Generative AI (like Claude or ChatGPT) for content research and campaign drafting is not optional—it’s a basic requirement.
 
-*Read more:* [How to Start Learning Digital Marketing from Scratch (2026)](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
+*Read more:* [How to Start Learning Digital Marketing from Scratch (2026)](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)
 
 ---
 
@@ -112,7 +112,7 @@ The ROI on an MBA in Marketing is significantly higher when combined with digita
 | **Performance Marketing Lead** | ₹10 - ₹18 Lakhs | ₹35 - ₹60 Lakhs |
 | **Product Marketing Manager** | ₹12 - ₹22 Lakhs | ₹45 - ₹80 Lakhs |
 
-*Read more:* [Top MBA Colleges for Digital Marketing in India (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2027-29)
+*Read more:* [Top MBA Colleges for Digital Marketing in India (2026)](/blog/mba-digital-marketing-direct-admission-colleges-2027-29/)
 
 ---
 
@@ -125,7 +125,7 @@ Your MBA degree gets you into the room, but your digital skills will determine h
 **Mohit’s Insight:** "An MBA teaches you how to manage a business. Digital Marketing teaches you how to grow it. Combining the two makes you an unstoppable force in the 2027–29 job market. If you are a Marketing student, stop thinking of 'Digital' as a separate subject—it *is* the subject."
 
 **Need help choosing the right specialization or certifications?**
-[👉 Get a Personalized Career Roadmap from Mohit Jain!](/inquiry)
+[👉 Get a Personalized Career Roadmap from Mohit Jain!](/inquiry/)
 
 ---
 
@@ -147,7 +147,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -44,10 +44,10 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Emerging North-Western Hub**: Jaipur connects Delhi NCR to Western India via the Delhi-Mumbai Expressway and Mahindra World City SEZ, hosting major IT, tourism, banking, and pharmaceutical enterprises.
-> - **Top Ranked B-Schools**: **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) Jaipur**, **[IIHMR University](/colleges/iihmr-university) (Healthcare Leader)**, **[MNIT Jaipur](/colleges/mnit-jaipur) (DMS)**, **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)**, and **JKLU**.
+> - **Top Ranked B-Schools**: **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Jaipur**, **[IIHMR University](/colleges/iihmr-university/) (Healthcare Leader)**, **[MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)**, **[Manipal University Jaipur](/colleges/manipal-university-jaipur/) (MUJ)**, and **JKLU**.
 > - **Fee & Placement Profile**: Total course fees range from ₹2.5 Lakhs (MNIT) to ₹12.5 Lakhs (Jaipuria / Manipal), with average domestic CTCs ranging between ₹7.0 LPA and ₹11.2 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Jaipur?" description="Compare [Jaipuria Jaipur](/colleges/jaipuria-jaipur), [IIHMR University](/colleges/iihmr-university), MNIT, Manipal, and JKLU. Get 1-on-1 profile evaluation & admission support from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Jaipur?" description="Compare [Jaipuria Jaipur](/colleges/jaipuria-jaipur/), [IIHMR University](/colleges/iihmr-university/), MNIT, Manipal, and JKLU. Get 1-on-1 profile evaluation & admission support from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
 
 Jaipur, the capital of Rajasthan, has transformed into a dynamic commercial, tourism, and IT/BPO hub. With the rapid expansion of the Mahindra World City Multi-Product SEZ, Sitapura Industrial Area, and high-speed expressway connectivity to Delhi NCR, studying management in Jaipur combines lower living costs with high corporate placement access.
 
@@ -59,14 +59,14 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** (PGDM Core/SM) | Pratap Nagar | ₹12.50 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
-| **[IIHMR University](/blog/all-about-iihmr-university)** (MBA Hospital/Health/Pharma) | Sanganer | ₹10.50 Lakhs | ₹9.80 LPA | CAT / XAT / MAT / CMAT / GPAT / IIHMR-U |
-| **[MNIT Jaipur (Dept. of Mgmt Studies)](/blog/all-about-mnit-jaipur)** (MBA) | JLN Marg, Malviya Nagar | ₹2.80 Lakhs | ₹8.50 LPA | CAT / CMAT (75+ %ile) |
-| **[Manipal University Jaipur (MUJ)](/blog/direct-admission-manipal-university-jaipur-btech-2026)** (MBA) | Dehmi Kalan, Ajmer Rd | ₹11.20 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / MUJ Test |
-| **[JK Lakshmipat University (JKLU - HSSB)](/blog/all-about-hari-shankar-singhania-school-of-business-jk-lakshmipat-university)** | Near Mahindra SEZ | ₹9.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / Direct |
-| **[Amity University Jaipur](/blog/amity-university-jaipur-review-2027-29)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
-| **[Poddar Mgmt and Tech Campus](/blog/all-about-poddar-jaipur)** (PGDM/MBA) | Mansarovar | ₹4.50 – ₹6.20 Lakhs | ₹6.00 LPA | CMAT / MAT / CAT / Direct |
-| **[JECRC University (School of Mgmt)](/blog/all-about-jecrc-jaipur)** (MBA) | Sitapura | ₹4.80 Lakhs | ₹5.80 LPA | CAT / MAT / Direct Merit |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur/)** (PGDM Core/SM) | Pratap Nagar | ₹12.50 Lakhs | ₹11.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[IIHMR University](/blog/all-about-iihmr-university/)** (MBA Hospital/Health/Pharma) | Sanganer | ₹10.50 Lakhs | ₹9.80 LPA | CAT / XAT / MAT / CMAT / GPAT / IIHMR-U |
+| **[MNIT Jaipur (Dept. of Mgmt Studies)](/blog/all-about-mnit-jaipur/)** (MBA) | JLN Marg, Malviya Nagar | ₹2.80 Lakhs | ₹8.50 LPA | CAT / CMAT (75+ %ile) |
+| **[Manipal University Jaipur (MUJ)](/blog/direct-admission-manipal-university-jaipur-btech-2026/)** (MBA) | Dehmi Kalan, Ajmer Rd | ₹11.20 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / MUJ Test |
+| **[JK Lakshmipat University (JKLU - HSSB)](/blog/all-about-hari-shankar-singhania-school-of-business-jk-lakshmipat-university/)** | Near Mahindra SEZ | ₹9.50 Lakhs | ₹7.80 LPA | CAT / XAT / MAT / CMAT / Direct |
+| **[Amity University Jaipur](/blog/amity-university-jaipur-review-2027-29/)** (MBA) | Kant Kalwar, NH-11C | ₹7.50 Lakhs | ₹6.50 LPA | CAT / MAT / Amity Test / Direct |
+| **[Poddar Mgmt and Tech Campus](/blog/all-about-poddar-jaipur/)** (PGDM/MBA) | Mansarovar | ₹4.50 – ₹6.20 Lakhs | ₹6.00 LPA | CMAT / MAT / CAT / Direct |
+| **[JECRC University (School of Mgmt)](/blog/all-about-jecrc-jaipur/)** (MBA) | Sitapura | ₹4.80 Lakhs | ₹5.80 LPA | CAT / MAT / Direct Merit |
 
 ---
 
@@ -78,11 +78,11 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [General PGDM Leader]       [Healthcare & Hospital Icon]    [High-ROI Government]
-  Jaipuria Institute Jaipur   IIHMR University Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur) (DMS)
+  Jaipuria Institute Jaipur   IIHMR University Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)
   - ₹11.2 LPA Avg Domestic    - India's #1 Hospital MBA       - ₹2.8L Total Fee
 ```
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur (Pratap Nagar)
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Jaipur (Pratap Nagar)
 - **Centralized Placement Advantage**: Students at the Jaipur campus participate equally in the common corporate placement drive across all four Jaipuria campuses, landing roles at Deloitte, Amazon, HCL, and ICICI Bank.
 - **Campus Life**: State-of-the-art Wi-Fi campus with strong entrepreneurship incubation and digital marketing labs.
 
@@ -100,7 +100,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 ### What is the placement scenario for MBA Hospital Management at IIHMR Jaipur?
 IIHMR University records virtually 100% placement with average packages hovering around ₹9.80 LPA and top packages touching ₹18 LPA in hospital chains, pharmaceutical multinationals, and global health research organizations.
 
-### Can I get admission in [Jaipuria Jaipur](/colleges/jaipuria-jaipur) with MAT score?
+### Can I get admission in [Jaipuria Jaipur](/colleges/jaipuria-jaipur/) with MAT score?
 Yes, Jaipuria Jaipur accepts MAT scores with a minimum threshold of **75 to 80 percentile**, followed by Extempore/Case Discussion and Personal Interview rounds.
 
 ### What are the best affordable MBA colleges in Jaipur?
@@ -108,12 +108,12 @@ Yes, Jaipuria Jaipur accepts MAT scores with a minimum threshold of **75 to 80 p
 
 ---
 
-### [InquiryCard title="Planning Your Jaipur MBA Admissions?" description="Get unbiased counseling for Jaipuria Jaipur, IIHMR, MNIT, and [Manipal University Jaipur](/colleges/manipal-university-jaipur) from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
+### [InquiryCard title="Planning Your Jaipur MBA Admissions?" description="Get unbiased counseling for Jaipuria Jaipur, IIHMR, MNIT, and [Manipal University Jaipur](/colleges/manipal-university-jaipur/) from Mohit Jain." cta="Book Free Jaipur Consultation" type="admission"]
 
 ---
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

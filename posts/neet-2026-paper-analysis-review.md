@@ -112,16 +112,16 @@ Given the difficulty level and the increasing number of candidates, we expect th
 ---
 
 ## 🔗 Useful Links for NEET Aspirants
-- [Top MBBS Colleges in India 2026 — NIRF Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [NEET 2026 Exam Strategy & Roadmap](/blog/neet-2026-exam-strategy-guide)
-- [MBBS Admission Management Quota Guide 2026](/blog/mbbs-management-quota-admission-2026-process-fees)
+- [Top MBBS Colleges in India 2026 — NIRF Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [NEET 2026 Exam Strategy & Roadmap](/blog/neet-2026-exam-strategy-guide/)
+- [MBBS Admission Management Quota Guide 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)
 
 ---
 
 **Confused about your NEET score and college options?**
 Mohit Jain provides personalized career counselling for medical aspirants. Whether it's choosing between MBBS/BDS or finding the best college within your budget, we are here to help.
 
-[👉 Book a Post-NEET Counselling Session](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+[👉 Book a Post-NEET Counselling Session](/inquiry/) | [💬 Chat with Mohit on WhatsApp](/inquiry/)
 
 ---
 
@@ -143,6 +143,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

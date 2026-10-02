@@ -50,7 +50,7 @@ state: Telangana
 
 The transition to the **GMAT Focus Edition** represents the most significant redesign of the Graduate Management Admission Test in decades. With the removal of Sentence Correction and the Analytical Writing Assessment (AWA), and the introduction of **Data Insights** as a fully scored core section, the scoring dynamics have changed dramatically.
 
-Understanding the **GMAT Focus Edition scoring chart and official percentile distribution** is essential for setting realistic target scores for premier institutions like **ISB Hyderabad, [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX, Harvard, Stanford, and INSEAD**.
+Understanding the **GMAT Focus Edition scoring chart and official percentile distribution** is essential for setting realistic target scores for premier institutions like **ISB Hyderabad, [IIM Ahmedabad](/colleges/iim-ahmedabad/) PGPX, Harvard, Stanford, and INSEAD**.
 
 [InquiryCard title="Planning for GMAT Focus Edition 2026?" description="Get personalized B-school profile shortlisting, GMAT score target mapping, and admissions guidance from Mohit Jain." cta="Get Free GMAT Strategy" type="counselling"]
 
@@ -126,10 +126,10 @@ One of the most praised innovations in the GMAT Focus Edition is the **Question 
 
 | Business School & Program | Target GMAT Focus Score | Equivalent Legacy Score | Key Program Strengths |
 | :--- | :--- | :--- | :--- |
-| **[ISB Hyderabad / Mohali (PGP)](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility)** | **655 – 685+** | 710 – 740 | Premier Global Consulting & Product Management hub |
-| **[IIM Ahmedabad (PGPX)](/colleges/iim-ahmedabad)** | **645 – 675+** | 700 – 730 | Senior Leadership, VP/Director corporate transitions |
-| **[IIM Bangalore (EPGP)](/colleges/iim-bangalore)** | **655 – 685+** | 710 – 740 | Tech, Strategy, and Digital Transformation leadership |
-| **[SPJIMR Mumbai (PGPM / Global)](/colleges/spjimr-mumbai)** | **645 – 665+** | 700 – 720 | Values-based leadership and high marketing/supply chain ROI |
+| **[ISB Hyderabad / Mohali (PGP)](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility/)** | **655 – 685+** | 710 – 740 | Premier Global Consulting & Product Management hub |
+| **[IIM Ahmedabad (PGPX)](/colleges/iim-ahmedabad/)** | **645 – 675+** | 700 – 730 | Senior Leadership, VP/Director corporate transitions |
+| **[IIM Bangalore (EPGP)](/colleges/iim-bangalore/)** | **655 – 685+** | 710 – 740 | Tech, Strategy, and Digital Transformation leadership |
+| **[SPJIMR Mumbai (PGPM / Global)](/colleges/spjimr-mumbai/)** | **645 – 665+** | 700 – 720 | Values-based leadership and high marketing/supply chain ROI |
 | **Harvard / Stanford GSB / Wharton** | **695 – 735+** | 750 – 780 | Global elite MBA programs |
 | **INSEAD / London Business School** | **675 – 715+** | 730 – 760 | World leaders in international business and private equity |
 
@@ -139,6 +139,6 @@ One of the most praised innovations in the GMAT Focus Edition is the **Question 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

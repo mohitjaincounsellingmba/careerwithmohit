@@ -121,16 +121,16 @@ Some private universities like **SNDT (Women) or Somaiya** have their own select
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Admission in [NMIMS Mumbai](/colleges/nmims-mumbai) — NPAT Guide](/blog/nmims-npat-preparation-strategy-2026)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Admission in [NMIMS Mumbai](/colleges/nmims-mumbai/) — NPAT Guide](/blog/nmims-npat-preparation-strategy-2026)
 
 ---
 
 **Do You Have the Hustle for the Financial Capital?**
 Mumbai is about speed and specialized networking. Don't waste your score on a college without a stable industry link. Mohit Jain provides a **"Mumbai Management Audit"**—helping you pick the college that puts you on the radar of J.P. Morgan, Deloitte, and the global fintech giants.
 
-[👉 Book My Mumbai BBA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Mumbai BBA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,7 +138,7 @@ Mumbai is about speed and specialized networking. Don't waste your score on a co
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -152,6 +152,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

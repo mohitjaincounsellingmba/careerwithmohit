@@ -32,7 +32,7 @@ state: Maharashtra
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Institution Choice**: [SCMHRD Pune](/colleges/scmhrd-pune) leads the region for Business Analytics with an average domestic CTC of ₹22.14 LPA, followed by specialized tech-management programs at SCIT and MIT-WPU.
+> - **Top Institution Choice**: [SCMHRD Pune](/colleges/scmhrd-pune/) leads the region for Business Analytics with an average domestic CTC of ₹22.14 LPA, followed by specialized tech-management programs at SCIT and MIT-WPU.
 > - **Program Types in Pune**: In India, Master of Science in Business Analytics (MSBA) competencies are delivered through specialized **MBA in Business Analytics**, **M.Sc. Data Science & Analytics**, and **AICTE-approved PGDM (Business Analytics & Applied AI)** degrees.
 > - **Fee vs Placement ROI**: Total tuition ranges between ₹6.50 Lakhs and ₹24.20 Lakhs, delivering average starting packages of ₹7.50 LPA to ₹24.00 LPA across Hinjawadi and Magarpatta tech recruiters.
 > - **Target Entrance Exams**: SNAP (96+ percentile for SCMHRD), CAT/XAT (75-90+ percentile), MAH MBA CET, and institutional profile-based evaluations.
@@ -51,10 +51,10 @@ Whether you aim to become a Data Consultant, Marketing Analytics Lead, Risk Mode
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[SCMHRD Pune](/colleges/scmhrd-pune)** (MBA Business Analytics) | ₹20.50L - ₹24.20L | ₹22.14 LPA | SNAP (96+ %ile) + Min 50% in Graduation |
+| **[SCMHRD Pune](/colleges/scmhrd-pune/)** (MBA Business Analytics) | ₹20.50L - ₹24.20L | ₹22.14 LPA | SNAP (96+ %ile) + Min 50% in Graduation |
 | **SCIT Pune** (MBA Data Sciences & Data Analytics) | ₹14.80L - ₹16.20L | ₹11.80 LPA | SNAP (82+ %ile) + STEM/BCA/B.Sc/B.Tech |
 | **MIT-WPU School of Business** (MBA Business Analytics) | ₹9.50L - ₹12.00L | ₹7.50 LPA - ₹8.50 LPA | CAT / XAT / NMAT / CMAT / MAH CET (65%+ %ile) |
-| **[PIBM Pune](/colleges/pibm-pune)** (PGDM Business Analytics & AI) | ₹7.95L - ₹9.45L | ₹8.00 LPA - ₹8.83 LPA | CAT / XAT / CMAT / MAT / PMAT (60%+ %ile) |
+| **[PIBM Pune](/colleges/pibm-pune/)** (PGDM Business Analytics & AI) | ₹7.95L - ₹9.45L | ₹8.00 LPA - ₹8.83 LPA | CAT / XAT / CMAT / MAT / PMAT (60%+ %ile) |
 | **Indira School of Business Studies (ISBS)** (MBA BA) | ₹6.50L - ₹7.80L | ₹6.80 LPA - ₹7.50 LPA | MAH MBA CET / CAT / CMAT (70%+ %ile) |
 | **Pune Business School (PBS)** (PGDM Analytics Track) | ₹5.90L - ₹6.50L | ₹6.50 LPA - ₹7.40 LPA | CAT / MAT / XAT / CMAT / ATMA (55%+ %ile) |
 | **Lexicon MILE** (PGDM Global Business Analytics) | ₹9.50L - ₹10.80L | ₹7.78 LPA - ₹9.00 LPA | CAT / XAT / MAT / CMAT / LAT Profile Evaluation |
@@ -63,7 +63,7 @@ Whether you aim to become a Data Consultant, Marketing Analytics Lead, Risk Mode
 
 ## 🏛️ In-Depth Breakdown: Best Business Analytics Colleges in Pune
 
-### 1. [SCMHRD Pune](/colleges/scmhrd-pune) – Symbiosis Centre for Management and Human Resource Development
+### 1. [SCMHRD Pune](/colleges/scmhrd-pune/) – Symbiosis Centre for Management and Human Resource Development
 - **Flagship Offering**: MBA in Business Analytics (2-Year Full-Time Residential)
 - **Total Tuition Fee**: ₹24.20 Lakhs
 - **Placement Performance**: Average CTC ₹22.14 LPA | Highest Domestic CTC ₹38.00 LPA
@@ -95,7 +95,7 @@ Whether you aim to become a Data Consultant, Marketing Analytics Lead, Risk Mode
 
 ---
 
-### 4. [PIBM Pune](/colleges/pibm-pune) – Pune Institute of Business Management
+### 4. [PIBM Pune](/colleges/pibm-pune/) – Pune Institute of Business Management
 - **Flagship Offering**: PGDM / MBA with Business Analytics & Applied AI
 - **Total Tuition Fee**: ₹7.95 Lakhs – ₹9.45 Lakhs
 - **Placement Performance**: Average CTC ₹8.00 LPA – ₹8.83 LPA | Highest Domestic CTC ₹18.00 LPA
@@ -156,12 +156,12 @@ An MSBA (Master of Science in Business Analytics) is typically more technical an
 ### 4. Can I get direct admission in Pune Business Analytics colleges?
 Select private institutions (PIBM, Lexicon MILE, MIT-WPU, Indira) offer profile-based and management category admissions based on graduation marks, personal interview performance, and entrance scores. Top Symbiosis institutes admit purely through SNAP merit lists.
 
-[👉 Need help choosing between SCMHRD, SCIT, PIBM, and MIT-WPU? Get a free profile evaluation from Mohit Jain!](/inquiry)
+[👉 Need help choosing between SCMHRD, SCIT, PIBM, and MIT-WPU? Get a free profile evaluation from Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: MBA in Business Analytics vs Data Analytics Comparison Guide](/blog/mba-business-analytics-vs-data-analytics-2027-29)**
-- **[Explore Top MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: MBA in Business Analytics vs Data Analytics Comparison Guide](/blog/mba-business-analytics-vs-data-analytics-2027-29/)**
+- **[Explore Top MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)**

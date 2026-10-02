@@ -191,14 +191,14 @@ In this expanded guide, we provide **20 trending GD topics for 2026** with struc
 **Need personalized GDPI coaching to crack IIM or Top Private B-schools?**
 Don't leave your selection to chance. Our experts provide mock interviews and feedback tailored for 2026 admissions.
 
-[**Inquiry Now for GDPI 2026 Coaching**](/inquiry) | [**Explore Career Roadmaps**](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+[**Inquiry Now for GDPI 2026 Coaching**](/inquiry/) | [**Explore Career Roadmaps**](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -213,6 +213,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -885,7 +885,7 @@ export default function MbaFormDiscountCalculator() {
 
                 <div className="pt-2 border-t border-white/10">
                   <Link
-                    href="/book-session"
+                    href="/book-session/"
                     className="inline-flex items-center justify-center gap-1.5 text-xs text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
                   >
                     <span>Need GD-PI or College Selection Guidance? Book Free 1-on-1 Mentorship</span>

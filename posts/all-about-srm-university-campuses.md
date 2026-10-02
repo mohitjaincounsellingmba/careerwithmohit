@@ -100,7 +100,7 @@ The SRM Career Centre conducts massive centralized placement drives for all camp
 **Our Verdict:** Prioritize the **KTR (Main) Campus** specifically for Computer Science or ECE. While the fees are high, if you work hard and maintain a high GPA, the opportunities provided by SRM's corporate ties and international relations are truly unmatched among private institutions.
 
 ---
-[👉 Confused between SRM KTR and SRM AP? Get expert counselling for your SRMJEEE rank!](/inquiry)
+[👉 Confused between SRM KTR and SRM AP? Get expert counselling for your SRMJEEE rank!](/inquiry/)
 
 ---
 
@@ -122,6 +122,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

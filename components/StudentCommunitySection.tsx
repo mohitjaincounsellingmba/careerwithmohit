@@ -163,7 +163,7 @@ export default function StudentCommunitySection() {
               </a>
 
               <Link
-                href="/community"
+                href="/community/"
                 className="w-full sm:w-auto shrink-0 rounded-xl bg-white/5 hover:bg-white/10 border border-white/15 text-slate-300 hover:text-white font-semibold text-xs sm:text-sm py-3.5 px-4 transition-all flex items-center justify-center gap-1.5 whitespace-nowrap"
               >
                 <span>Explore Hub</span>

@@ -35,7 +35,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Master JEE Advanced with our curated list of 60 high-impact questions. Covering 20 questions each in Physics, ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 JEE Advanced is known for its complex, multi-concept problems. To help you prepare, we have curated **60 Must-Solve Questions** (20 per subject) that cover the highest-weightage topics for 2026. 
 
@@ -96,15 +96,15 @@ JEE Advanced is known for its complex, multi-concept problems. To help you prepa
 
 Since JEE Advanced involves deep derivations, we recommend practicing these 60 questions on paper first. 
 
-[👉 Download Full 60 Questions + Detailed Steps PDF](/blog/jee-advanced-important-questions-2027-29)
+[👉 Download Full 60 Questions + Detailed Steps PDF](/blog/jee-advanced-important-questions-2027-29/)
 
 ---
 
 ### **Final Pro-Tip for JEE Advanced**
 Don't just look at the solution. Try to solve each question for at least 15 minutes before checking the answer. JEE Advanced is about the **journey of solving**, not just reaching the final number.
 
-[👉 Use our JEE Result & College Predictor](/calculator/jee-main-2026)
-[👉 Talk to our IITian Mentors for Doubt Clearing](/inquiry)
+[👉 Use our JEE Result & College Predictor](/calculator/jee-main-2026/)
+[👉 Talk to our IITian Mentors for Doubt Clearing](/inquiry/)
 
 **Stay Hungry, Stay Focused!**
 
@@ -128,6 +128,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

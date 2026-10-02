@@ -117,16 +117,16 @@ Usually starts in **July** after the NEET results are announced.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026)
-- [BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026/)
+- [BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026/)
 
 ---
 
 **Planning your Medical Journey in the Garden City?**
 Bangalore is the city of innovation. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Bangalore Medical Audit"—helping you pick the college that matches your goals for clinical research or high-end surgery.
 
-[👉 Book My Bangalore Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Bangalore Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -134,6 +134,6 @@ Bangalore is the city of innovation. Don't waste your score on a college without
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

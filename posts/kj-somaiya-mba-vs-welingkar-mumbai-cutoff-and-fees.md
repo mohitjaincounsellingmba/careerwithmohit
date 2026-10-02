@@ -47,7 +47,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-When students evaluate tier-2 business schools in India's financial capital, two powerhouse private institutions stand out: **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) (Vidyavihar, Mumbai)** and **Prin. L. N. Welingkar Institute of Management Development & Research (WeSchool, Matunga, Mumbai)**.
+When students evaluate tier-2 business schools in India's financial capital, two powerhouse private institutions stand out: **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/) (Vidyavihar, Mumbai)** and **Prin. L. N. Welingkar Institute of Management Development & Research (WeSchool, Matunga, Mumbai)**.
 
 Both institutions leverage Mumbai's unparalleled financial ecosystem, drawing hundreds of investment banks, financial institutions, FMCG corporations, and consulting firms for annual recruitment.
 
@@ -62,7 +62,7 @@ Both institutions leverage Mumbai's unparalleled financial ecosystem, drawing hu
 
 ## 1. Quick Head-to-Head Comparison
 
-| Feature | [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) | Welingkar Mumbai (WeSchool) |
+| Feature | [K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/) | Welingkar Mumbai (WeSchool) |
 | :--- | :--- | :--- |
 | **Location** | Vidyavihar (East), Mumbai (60-Acre Campus) | Matunga (Central), Mumbai (City Campus) |
 | **Degree Awarded** | Master of Business Administration (MBA) | PGDM (AICTE) & MMS (Mumbai University) |
@@ -95,9 +95,9 @@ The entrance exam cutoff benchmarks differ noticeably between the two campuses:
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[Welingkar Mumbai (PGDM)](/colleges/welingkar-bangalore)** | ₹14.5 – 15.5 Lakhs | ₹12.2 – 12.6 LPA | **Higher ROI**: Affordable fees; CAT 75–80%ile, CMAT 85%ile, Profile GD-PI |
-| **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai)** | ₹20.8 – 21.5 Lakhs | ₹12.5 – 13.0 LPA | **Established Brand**: 60-acre lush campus; CAT 84%ile, NMAT 225+, Case PI |
-| **[Welingkar Mumbai (MMS via CET)](/colleges/welingkar-bangalore)** | ₹7.0 – 7.5 Lakhs | ₹12.2 – 12.6 LPA | **Exceptional ROI**: Maharashtra CAP quota; MAH CET 99.1+ %ile |
+| **[Welingkar Mumbai (PGDM)](/colleges/welingkar-bangalore/)** | ₹14.5 – 15.5 Lakhs | ₹12.2 – 12.6 LPA | **Higher ROI**: Affordable fees; CAT 75–80%ile, CMAT 85%ile, Profile GD-PI |
+| **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/)** | ₹20.8 – 21.5 Lakhs | ₹12.5 – 13.0 LPA | **Established Brand**: 60-acre lush campus; CAT 84%ile, NMAT 225+, Case PI |
+| **[Welingkar Mumbai (MMS via CET)](/colleges/welingkar-bangalore/)** | ₹7.0 – 7.5 Lakhs | ₹12.2 – 12.6 LPA | **Exceptional ROI**: Maharashtra CAP quota; MAH CET 99.1+ %ile |
 
 ---
 
@@ -128,6 +128,6 @@ The entrance exam cutoff benchmarks differ noticeably between the two campuses:
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

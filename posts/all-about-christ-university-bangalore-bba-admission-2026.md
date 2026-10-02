@@ -4,7 +4,7 @@ date: '2026-05-15'
 category: Online Degrees
 description: >-
   Everything about BBA at [Christ University
-  Bangalore](/colleges/christ-university-bangalore) for 2026. Learn about the
+  Bangalore](/colleges/christ-university-bangalore/) for 2026. Learn about the
   Entrance Test, Personal Interview process, latest fees, and campus placements.
 keywords:
   - christ university bba admission 2026
@@ -37,7 +37,7 @@ state: Karnataka
 
 Christ University, Bengaluru, is a household name for management aspirants. Known for its strict discipline, vibrant campus life, and high-quality BBA programs, it is a top destination for students from all over India and abroad in 2026.
 
-## 🏛️ Why Choose [Christ University Bangalore](/colleges/christ-university-bangalore) in 2026?
+## 🏛️ Why Choose [Christ University Bangalore](/colleges/christ-university-bangalore/) in 2026?
 Christ University offers several BBA specializations (General, Finance & International Business, Business Analytics, etc.) that are highly industry-relevant.
 - **Holistic Development:** Focus on extra-curriculars, social work, and soft skills.
 - **Strong Alumni Network:** A vast network in Bangalore's tech and finance sectors.
@@ -78,20 +78,20 @@ Yes, there is typically a negative marking of 0.25 for every wrong answer.
 There is no "Management Quota" or direct admission through agents. All students must go through the entrance and interview process.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
-- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide)
-- [Christ University MBA Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
+- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide/)
+- [Christ University MBA Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
 
 ---
 
 **Nervous about the Christ Micro Presentation?**
 Christ University is unique for its "90-second" Micro Presentation round. Mohit Jain’s "Christ Interview Prep" includes mock MPs on trending topics to ensure you speak with confidence.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

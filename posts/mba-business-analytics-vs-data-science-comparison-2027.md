@@ -176,14 +176,14 @@ Both tracks offer explosive career growth, but they open doors to different func
 Tuition fees vary significantly depending on whether the program is offered by a premier management institute (IIMs, B-schools) or a technical university/IIT.
 
 ### A. MBA in Business Analytics (Fee Range)
-- **Top Tier IIMs ([IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta) PGDBA):** ₹22 Lakhs – ₹28 Lakhs
-- **Premier Private B-Schools ([NMIMS Mumbai](/colleges/nmims-mumbai), Great Lakes, TAPMI, SCIT Pune):** ₹14 Lakhs – ₹20 Lakhs
+- **Top Tier IIMs ([IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/) PGDBA):** ₹22 Lakhs – ₹28 Lakhs
+- **Premier Private B-Schools ([NMIMS Mumbai](/colleges/nmims-mumbai/), Great Lakes, TAPMI, SCIT Pune):** ₹14 Lakhs – ₹20 Lakhs
 - **Mid-Tier Private Colleges & Regional Universities:** ₹6 Lakhs – ₹12 Lakhs
 - **Online/Executive MBA in Analytics:** ₹2 Lakhs – ₹5 Lakhs
 
 ### B. Data Science Programs (M.Tech / M.Sc / PGP) (Fee Range)
 - **Top Government Institutes (IITs, IISc, ISI Kolkata):** ₹2 Lakhs – ₹5 Lakhs (M.Tech / M.Sc)
-- **Premier Private Tech Universities (IIIT Bangalore, [BITS Pilani](/colleges/bits-pilani)):** ₹8 Lakhs – ₹14 Lakhs
+- **Premier Private Tech Universities (IIIT Bangalore, [BITS Pilani](/colleges/bits-pilani/)):** ₹8 Lakhs – ₹14 Lakhs
 - **Post Graduate Programs (PGP in Data Science / UpGrad / Great Learning):** ₹2.5 Lakhs – ₹6 Lakhs
 - **Online Master’s Degrees (Global Universities):** ₹3 Lakhs – ₹8 Lakhs
 
@@ -225,18 +225,18 @@ Salary Growth Progression (LPA)
 ## 6. Top Colleges in India for 2027 Admissions
 
 ### Top Colleges for MBA in Business Analytics
-1. **[IIM Calcutta](/colleges/iim-calcutta) + ISI Kolkata + IIT Kharagpur:** Joint **PGDBA** (Post Graduate Diploma in Business Analytics)—widely considered the #1 analytics program in Asia with average packages exceeding ₹30+ LPA.
-2. **[IIM Bangalore](/colleges/iim-bangalore):** PGP in Business Analytics (PGP-BA).
-3. **[NMIMS Mumbai](/colleges/nmims-mumbai):** MBA in Business Analytics.
+1. **[IIM Calcutta](/colleges/iim-calcutta/) + ISI Kolkata + IIT Kharagpur:** Joint **PGDBA** (Post Graduate Diploma in Business Analytics)—widely considered the #1 analytics program in Asia with average packages exceeding ₹30+ LPA.
+2. **[IIM Bangalore](/colleges/iim-bangalore/):** PGP in Business Analytics (PGP-BA).
+3. **[NMIMS Mumbai](/colleges/nmims-mumbai/):** MBA in Business Analytics.
 4. **Great Lakes Institute of Management (Chennai & Gurgaon):** PGPM/PGDM with Business Analytics specialization.
 5. **Symbiosis Centre for Information Technology (SCIT), Pune:** MBA in Data Sciences and Data Analytics.
 6. **TAPMI Manipal:** MBA in Technology Management / Analytics.
 
 ### Top Institutes for Data Science (M.Tech / M.Sc / PGP)
 1. **Indian Statistical Institute (ISI), Kolkata / Delhi:** M.Tech in Computer Science / Quality, Reliability & Operations Research.
-2. **IIT Madras / [IIT Bombay](/colleges/iit-bombay) / IIT Kharagpur / IIT Hyderabad:** M.Tech in Data Science & Artificial Intelligence.
+2. **IIT Madras / [IIT Bombay](/colleges/iit-bombay/) / IIT Kharagpur / IIT Hyderabad:** M.Tech in Data Science & Artificial Intelligence.
 3. **IIIT Bangalore:** M.Tech / PGP in Data Science.
-4. **[BITS Pilani](/colleges/bits-pilani):** M.Tech in Data Science (Campus & Work Integrated Learning Programs).
+4. **[BITS Pilani](/colleges/bits-pilani/):** M.Tech in Data Science (Campus & Work Integrated Learning Programs).
 5. **Chennai Mathematical Institute (CMI):** M.Sc in Data Science.
 
 ---
@@ -301,12 +301,12 @@ Basic coding in SQL, R, or Python is taught during the program, but deep softwar
 
 Both **MBA in Business Analytics** and **Data Science** represent future-proof career paths in 2027. If your strength lies in business acumen, communication, and executive decision-making, an MBA in Business Analytics offers an unbeatable launchpad into corporate leadership. If your passion lies in coding, advanced mathematics, and building AI models, Data Science is the ideal technical domain.
 
-To explore top management programs, check out our comprehensive guides on [Top MBA Colleges in India](/blog/best-mba-colleges-india-2027-29), [All About CAT Exam](/blog/all-about-cat-exam), and [IIM Placement & Selection Reports](/blog/all-about-iim-colleges-placements-fees-selection-2027-29).
+To explore top management programs, check out our comprehensive guides on [Top MBA Colleges in India](/blog/best-mba-colleges-india-2027-29/), [All About CAT Exam](/blog/all-about-cat-exam/), and [IIM Placement & Selection Reports](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/).
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

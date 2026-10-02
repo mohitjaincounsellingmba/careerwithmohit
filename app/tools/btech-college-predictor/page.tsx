@@ -220,7 +220,7 @@ export default function BtechPredictorPage() {
                             <p className="text-sm font-bold text-black opacity-80 mb-8 leading-tight">
                                 Our engineering admission experts will create a custom preference list for you based on your rank and career goals.
                             </p>
-                            <Link href="/inquiry" className="block text-center w-full bg-[#18181b] text-white py-5 font-black uppercase tracking-widest hover:bg-white hover:text-black transition-all border-4 border-[#18181b]">
+                            <Link href="/inquiry/" className="block text-center w-full bg-[#18181b] text-white py-5 font-black uppercase tracking-widest hover:bg-white hover:text-black transition-all border-4 border-[#18181b]">
                                 Book Consultation
                             </Link>
                         </div>
@@ -253,10 +253,10 @@ export default function BtechPredictorPage() {
                 <div className="mt-32 pt-16 border-t-8 border-[#18181b]">
                      <h3 className="text-2xl font-black uppercase mb-12 italic underline decoration-blue-500 underline-offset-8">Read Before Counselling</h3>
                      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                         <Link href="/blog/top-engineering-colleges-in-delhi-2026" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top Engg. Colleges in Delhi →</Link>
-                         <Link href="/blog/top-btech-colleges-pune" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top B.Tech Colleges in Pune →</Link>
-                         <Link href="/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">RVCE Management Quota Guide →</Link>
-                         <Link href="/tools/college-comparison" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Compare Colleges →</Link>
+                         <Link href="/blog/top-engineering-colleges-in-delhi-2026/" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top Engg. Colleges in Delhi →</Link>
+                         <Link href="/blog/top-btech-colleges-pune/" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Top B.Tech Colleges in Pune →</Link>
+                         <Link href="/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff/" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">RVCE Management Quota Guide →</Link>
+                         <Link href="/tools/college-comparison/" className="font-black uppercase text-sm hover:text-yellow-600 transition-colors">Compare Colleges →</Link>
                      </div>
                 </div>
             </div>

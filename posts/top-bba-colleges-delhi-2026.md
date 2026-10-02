@@ -38,7 +38,7 @@ faqs:
       The annual fee for top BBA colleges under IP University (like MAIMS or
       MSIT) ranges from **₹1.0 to 1.2 Lakhs**.
   - question: Can I get direct admission in BBA in Delhi?
-    answer: "Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.\n\n[\U0001F449 Build My Delhi BBA Roadmap](/inquiry) | [\U0001F4AC Schedule a Private Profile Review](/inquiry)"
+    answer: "Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.\n\n[\U0001F449 Build My Delhi BBA Roadmap](/inquiry/) | [\U0001F4AC Schedule a Private Profile Review](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: BBA
@@ -64,13 +64,13 @@ Here are the **Top BBA Colleges in Delhi for 2026**.
 - **Entrance Exam:** CUET (Common University Entrance Test)
 - **USP:** The "IIM of Undergraduate Management." Best ROI in India with placements matching top MBA colleges.
 
-### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)
 - **Approx. Fees:** ₹1.0 - 1.2 Lakhs (Annual)
 - **Average Placement:** ₹4 - 6 LPA
 - **Entrance Exam:** GGSIPU CET / CUET
 - **USP:** Top-ranked college under IP University known for its discipline and academic results.
 
-### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), Delhi
+### 3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/), Delhi
 - **Approx. Fees:** ₹13,000 (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** JMI Entrance Exam
@@ -94,9 +94,9 @@ If you can clear the **CUET** with a high score, **SSCBS** is the best decision 
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Admission Guide for 2026](/blog/career-roadmaps-2027-29)
-- [Top Law Colleges in Delhi 2026](/blog)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Admission Guide for 2026](/blog/career-roadmaps-2027-29/)
+- [Top Law Colleges in Delhi 2026](/blog/)
 
 ---
 
@@ -118,7 +118,7 @@ The annual fee for top BBA colleges under IP University (like MAIMS or MSIT) ran
 ### 4. Can I get direct admission in BBA in Delhi?
 Some private colleges offer direct admission based on Class 12 marks, but top-ranked institutes strictly require entrance exam scores.
 
-[👉 Build My Delhi BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My Delhi BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 
 
@@ -126,6 +126,6 @@ Some private colleges offer direct admission based on Class 12 marks, but top-ra
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

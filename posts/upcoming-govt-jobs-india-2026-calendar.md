@@ -35,7 +35,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Prepare for your dream career with the latest upcoming govt jobs notification in India for 2026-27. Get full e...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 2026 is set to be a landmark year for government job aspirants in India. With major recruitment drives announced by the **SSC, IBPS, UPSC, and Ministry of Railways**, over 2 lakh central government vacancies are expected to be filled. 
 
@@ -89,19 +89,19 @@ For those aiming for IAS, IPS, and IFS roles, the timeline is strictly fixed:
 Competition is at an all-time high. To stay ahead:
 1.  **Mock Tests**: Start attempting full-length mocks at least 6 months before the exam.
 2.  **Current Affairs**: Focus on the last 12 months of news.
-3.  **Language Bonus**: Learning a regional language can help you in state-specific bank/railway roles. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2027-29).
+3.  **Language Bonus**: Learning a regional language can help you in state-specific bank/railway roles. Check our [guide on learning new languages fast](/blog/how-to-learn-french-language-2027-29/).
 4.  **Stay Updated**: Always check the official websites (ssc.gov.in, upsconline.nic.in, ibps.in) for the final PDF notifications.
 
 ### **Explore More Career Resources:**
-*   [How to Learn French & Other Languages for Global Careers](/blog/how-to-learn-french-language-2027-29)
-*   [Beginner's Guide to Freelancing in 2026](/blog/how-to-start-freelancing-2026-beginners-india)
-*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29)
+*   [How to Learn French & Other Languages for Global Careers](/blog/how-to-learn-french-language-2027-29/)
+*   [Beginner's Guide to Freelancing in 2026](/blog/how-to-start-freelancing-2026-beginners-india/)
+*   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+*   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29/)
 
 **Need Personal Mentorship?**
 If you are confused between Banking, SSC, or private sector roles, our expert counselors can help you map out your strengths and choose the right path.
 
-[👉 Get One-on-One Career Consultation Today!](/inquiry)
+[👉 Get One-on-One Career Consultation Today!](/inquiry/)
 
 ---
 
@@ -123,6 +123,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

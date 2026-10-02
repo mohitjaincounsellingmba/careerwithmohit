@@ -56,7 +56,7 @@ Whether you want the prestige of a state university or a high-end private campus
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
 | **Lucknow University** | LU Entrance (LUVET)| ₹2.1 - 2.8 Lakhs | ₹3.5 - 5.0 LPA |
-| **[Amity University](/colleges/amity-noida) Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
+| **[Amity University](/colleges/amity-noida/) Lucknow** | Merit / Interview | ₹5.0 - 7.5 Lakhs | ₹4.2 - 6.5 LPA |
 | **BBD University (BBDU)** | Merit-based | ₹2.8 - 3.8 Lakhs | ₹3.5 - 5.2 LPA |
 | **Integral University** | IUET / Merit | ₹2.2 - 3.0 Lakhs | ₹3.2 - 4.5 LPA |
 | **SRMU (Ramswaroop)** | Merit-based | ₹2.4 - 3.2 Lakhs | ₹3.5 - 4.8 LPA |
@@ -72,7 +72,7 @@ The gold standard for computer applications in UP. Their BCA degree is highly va
 - **Selection:** LUVET Entrance Test.
 - **Top Recruiters:** TCS, Infosys, HCL, Wipro.
 
-### 2. [Amity University](/colleges/amity-noida), Lucknow
+### 2. [Amity University](/colleges/amity-noida/), Lucknow
 The most "Corporate-Ready" campus in the city. Known for its global infrastructure and massive placement drives.
 - **USP:** Industry-aligned labs and frequent guest lectures from HCL tech leads.
 - **Admission:** Merit-based + Personal Interview.
@@ -120,16 +120,16 @@ Registrations usually start in **April/May**. The entrance test (LUVET) is typic
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026)
-- [BBA Colleges in Lucknow 2026](/blog/top-bba-colleges-lucknow-2026)
-- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [Top B.Tech Colleges in Lucknow 2026](/blog/top-btech-colleges-lucknow-2026/)
+- [BBA Colleges in Lucknow 2026](/blog/top-bba-colleges-lucknow-2026/)
+- [BCA vs B.Tech — Career & Salary Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
 **Planning your Lucknow Tech Career?**
 Lucknow offers value and authority. Don't waste your degree at a college that doesn't have a functional computer lab. Mohit Jain provides a "Lucknow Tech Audit"—helping you pick the college that puts you on the radar of HCL, TCS, and the UP IT City hubs.
 
-[👉 Book My Lucknow BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Lucknow BCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -137,6 +137,6 @@ Lucknow offers value and authority. Don't waste your degree at a college that do
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

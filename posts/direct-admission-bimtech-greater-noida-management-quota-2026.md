@@ -48,7 +48,7 @@ category: Jobs & Careers
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
 
-[Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH), Greater Noida, is a premier AACSB-accredited B-school with a rich legacy of producing industry leaders. Backed by the Birla Group, it offers excellent corporate exposure and research-led education. For the 2027–29 batch, **Direct Admission in BIMTECH Greater Noida** is available through a transparent management quota and NRI category.
+[Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH), Greater Noida, is a premier AACSB-accredited B-school with a rich legacy of producing industry leaders. Backed by the Birla Group, it offers excellent corporate exposure and research-led education. For the 2027–29 batch, **Direct Admission in BIMTECH Greater Noida** is available through a transparent management quota and NRI category.
 
 ## Why BIMTECH is a High-Priority Choice?
 
@@ -96,11 +96,11 @@ BIMTECH is one of the top institutes in India for **PGDM-Insurance Business**, o
 ---
 
 ## 🔗 Related Resources
-- [All About BIMTECH Greater Noida Review](/blog/all-about-bimtech-greater-noida)
-- [Best MBA Colleges in Noida & Ghaziabad 2026](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29)
-- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india)
+- [All About BIMTECH Greater Noida Review](/blog/all-about-bimtech-greater-noida/)
+- [Best MBA Colleges in Noida & Ghaziabad 2026](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/)
+- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india/)
 
-[👉 Secure your future at BIMTECH! Click for expert admission guidance.](/inquiry)
+[👉 Secure your future at BIMTECH! Click for expert admission guidance.](/inquiry/)
 
 
 
@@ -108,6 +108,6 @@ BIMTECH is one of the top institutes in India for **PGDM-Insurance Business**, o
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

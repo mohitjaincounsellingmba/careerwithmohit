@@ -55,7 +55,7 @@ category: Exams
 
 The **AIMA Management Aptitude Test (MAT) May/June 2026** session is a critical gateway for admissions into 600+ top B-Schools in India. Whether you appeared for the **Paper-Based Test (PBT)** on May 31, or are preparing for the **Computer-Based Test (CBT)** on June 14, knowing your score and expected percentile is crucial to shortlisting B-schools.
 
-Using our free **[MAT May 2026 Score Calculator](/tools/mat-score-calculator)**, you can instantly estimate your scaled section scores, composite score (out of 800), and expected percentile band based on your raw attempts.
+Using our free **[MAT May 2026 Score Calculator](/tools/mat-score-calculator/)**, you can instantly estimate your scaled section scores, composite score (out of 800), and expected percentile band based on your raw attempts.
 
 ---
 
@@ -69,7 +69,7 @@ Our online tool eliminates the complexity of scaling. Follow these steps to pred
 4. **View Sectional Scores:** The calculator computes your raw score and estimates your scaled score (ranging from 0 to 200).
 5. **Get Composite Score & Percentile:** Based on the first four sections, the calculator generates your overall composite score (out of 800) and your expected percentile band.
 
-👉 **[Go to MAT Score Calculator Tool →](/tools/mat-score-calculator)**
+👉 **[Go to MAT Score Calculator Tool →](/tools/mat-score-calculator/)**
 
 ---
 
@@ -114,9 +114,9 @@ Below is the historical correlation between raw scores, composite scores, and pe
 
 Depending on the mode of exam you took, check out our dedicated, step-by-step guides for checking results and scorecards:
 
-*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29)**.
-*   **Computer-Based Test (CBT) Guide:** Stay updated with the CBT timelines, registration deadlines, and dashboard details at **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29)**.
-*   **Internet-Based Test (IBT) Guide:** Understand the online proctored scoring environment at **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29)**.
+*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)**.
+*   **Computer-Based Test (CBT) Guide:** Stay updated with the CBT timelines, registration deadlines, and dashboard details at **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29/)**.
+*   **Internet-Based Test (IBT) Guide:** Understand the online proctored scoring environment at **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)**.
 
 ---
 
@@ -124,13 +124,13 @@ Depending on the mode of exam you took, check out our dedicated, step-by-step gu
 
 Different B-schools have varied cutoff scores. Here is a curated list of excellent B-schools accepting MAT scores:
 
-1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026):** Known for its rich PGDM culture and strong placements.
-2.  **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management):** Excellent multi-campus network with customized career tracks.
-3.  **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29):** Located in the heart of Delhi, offering high corporate exposure.
-4.  **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29):** The absolute gold standard for careers in banking, financial services, and insurance.
-5.  **[JIMS Rohini](/blog/all-about-jims-rohini):** Extremely cost-effective PGDM program with consistent ROI.
+1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/):** Known for its rich PGDM culture and strong placements.
+2.  **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/):** Excellent multi-campus network with customized career tracks.
+3.  **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/):** Located in the heart of Delhi, offering high corporate exposure.
+4.  **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/):** The absolute gold standard for careers in banking, financial services, and insurance.
+5.  **[JIMS Rohini](/blog/all-about-jims-rohini/):** Extremely cost-effective PGDM program with consistent ROI.
 
-👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
+👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
 ---
 
@@ -149,7 +149,7 @@ Different B-schools have varied cutoff scores. Here is a curated list of excelle
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources to check your readiness? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed sectional analytics.
+Looking for more resources to check your readiness? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed sectional analytics.
 
 Need customized advice on college admissions based on your MAT score? Book a free consultation with career coach **Mohit Jain**.
 

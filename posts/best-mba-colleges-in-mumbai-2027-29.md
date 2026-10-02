@@ -10,7 +10,7 @@ keywords:
   - top MBA colleges in Mumbai
   - JBIMS fees
   - SPJIMR average package
-  - '[NMIMS Mumbai](/colleges/nmims-mumbai) MBA fees'
+  - '[NMIMS Mumbai](/colleges/nmims-mumbai/) MBA fees'
   - SIMSREE placements
   - Mumbai MBA cutoff 2027–29
   - MBA admission Mumbai
@@ -53,28 +53,28 @@ These colleges are globally ranked and offer the best corporate exposure in Fina
 > - **Total Fee Structure**: Verified at ₹25.00 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹26.63 LPA (Highest ₹67.8 LPA) with AACSB Accredited.
 
-## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai) (S.P. Jain Institute of Management)
+## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai/) (S.P. Jain Institute of Management)
 - **Status:** Consistently ranked among the Top 5-10 B-schools in India.
 - **Fees:** ₹22.5 Lakhs
 - **Average Placement:** ₹33.0 LPA (Highest ₹89 LPA)
 - **Entrance Exam:** CAT, GMAT
 - **USP:** Famous for its "Non-Classroom Learning" and specialization-based admission process.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))
 - **Status:** Known as the "CEO Factory of India."
 - **Fees:** ₹6.0 Lakhs (Approx for 2 years)
 - **Average Placement:** ₹28.0 LPA
 - **Entrance Exam:** MAH MBA CET, CAT
 - **USP:** Exceptional ROI and a legendary alumni base comprising top industry leaders.
 
-### 3. SJMSOM [IIT Bombay](/colleges/iit-bombay) (Shailesh J. Mehta School of Management)
+### 3. SJMSOM [IIT Bombay](/colleges/iit-bombay/) (Shailesh J. Mehta School of Management)
 - **Status:** The management wing of one of the world's best tech institutes.
 - **Fees:** ₹14.0 Lakhs
 - **Average Placement:** ₹28.0 LPA (Highest ₹72 LPA)
 - **Entrance Exam:** CAT (99+ Percentile)
 - **USP:** Excellent for Supply Chain, IT Management, and Analytical roles.
 
-### 4. [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)
+### 4. [NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM)
 - **Status:** A massive private university with global recognition.
 - **Fees:** ₹24.0 Lakhs (Total)
 - **Average Placement:** ₹26.6 LPA
@@ -114,7 +114,7 @@ Ideal for students looking for consistent growth and a solid entry into the Mumb
 - **Fees:** ₹16.5 Lakhs
 - **Average Placement:** ₹9.0 - ₹14.3 LPA
 - **USP:** Famous for its "Bloomberg Lab" and high placements in the Finance and Research sectors.
-- **Detailed Review:** [Read all about NL Dalmia PGDM Admission 2027–2029](/blog/all-about-nl-dalmia-admission-2027-29)
+- **Detailed Review:** [Read all about NL Dalmia PGDM Admission 2027–2029](/blog/all-about-nl-dalmia-admission-2027-29/)
 
 ### 9. MET Mumbai (MET Institute of Management)
 - **Fees:** ₹4.5 - ₹6.0 Lakhs
@@ -134,14 +134,14 @@ Ideal for students looking for consistent growth and a solid entry into the Mumb
 - **If you want the best ROI:** **JBIMS or SIMSREE** are your dream destinations.
 - **If you have an NMAT score:** **NMIMS** is the gold standard.
 
-[👉 Confused about Mumbai city life or which college fits your budget? Get a free profile evaluation from Mohit Jain!](/inquiry)
+[👉 Confused about Mumbai city life or which college fits your budget? Get a free profile evaluation from Mohit Jain!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -156,7 +156,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -170,6 +170,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

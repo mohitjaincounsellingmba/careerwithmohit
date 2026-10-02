@@ -30,7 +30,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.
+[KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar/), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose KSOM Bhubaneswar for BBA in 2026?
 KSOM offers a BBA program that is deeply integrated with industry requirements, providing students with a holistic learning experience.
@@ -68,20 +68,20 @@ Yes, KIIT offers various merit-based scholarships (KIIT Merit Scholarship) based
 Yes, KIIT is a Deemed to be University recognized by the UGC and has been granted the 'Institution of Eminence' status.
 
 ## 🔗 Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide)
-- [KIIT University B.Tech Admission Guide 2026](/blog/best-btech-colleges-india-2026)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide/)
+- [KIIT University B.Tech Admission Guide 2026](/blog/best-btech-colleges-india-2026/)
 
 ---
 
 **Worried about the Logical Reasoning section in KIITEE?**
 KIITEE is known for its tricky logic questions. Mohit Jain’s "KIITEE Accelerator" helps you master the shortcuts to solve complex reasoning sets in record time.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

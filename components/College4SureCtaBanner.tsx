@@ -29,7 +29,7 @@ export function College4SureCtaBanner() {
 
             <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3.5 sm:gap-4">
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="w-full sm:w-auto px-7 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-lg hover:-translate-y-0.5 flex items-center justify-center gap-2 group cursor-pointer"
               >
                 <Video className="w-4 h-4 text-[#061124]" />

@@ -60,13 +60,13 @@ This guide evaluates **Budget-Friendly vs. Premium BBA Colleges in Delhi NCR** t
 
 ### Category A: Budget-Friendly Colleges
 These colleges offer low fees, structured academic environments, and direct placement opportunities.
-- **Key Institutions:** Shaheed Sukhdev College of Business Studies (SSCBS), [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), Maharaja Agrasen (MAIMS), Maharaja Surajmal (MSI).
+- **Key Institutions:** Shaheed Sukhdev College of Business Studies (SSCBS), [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/), Maharaja Agrasen (MAIMS), Maharaja Surajmal (MSI).
 - **Fees:** ₹13,000 to ₹1.2 Lakhs per year.
 - **Average Placements:** ₹4.5 LPA to ₹11.5 LPA.
 
 ### Category B: Premium Private Universities
 These universities feature state-of-the-art infrastructure, international exchanges, flexible curriculum designs, and active student engagement initiatives.
-- **Key Institutions:** [Amity University](/colleges/amity-noida) Noida, SCMS Noida, [BML Munjal University](/colleges/bml-munjal-gurgaon), GD Goenka, Masters' Union.
+- **Key Institutions:** [Amity University](/colleges/amity-noida/) Noida, SCMS Noida, [BML Munjal University](/colleges/bml-munjal-gurgaon/), GD Goenka, Masters' Union.
 - **Fees:** ₹2.5 Lakhs to ₹5.0 Lakhs per year.
 - **Average Placements:** ₹5.0 LPA to ₹7.0 LPA.
 
@@ -107,9 +107,9 @@ While the immediate quantitative ROI of premium private colleges is lower, they 
 ---
 
 ## 🔗 Related Resources
-- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [BBA Fees vs Placement: Complete ROI Analysis](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [Highest Salary Packages After BBA in Delhi NCR](/blog/highest-salary-packages-after-bba-delhi-ncr-colleges-2026)
+- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [BBA Fees vs Placement: Complete ROI Analysis](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [Highest Salary Packages After BBA in Delhi NCR](/blog/highest-salary-packages-after-bba-delhi-ncr-colleges-2026/)
 
 ---
 
@@ -131,6 +131,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

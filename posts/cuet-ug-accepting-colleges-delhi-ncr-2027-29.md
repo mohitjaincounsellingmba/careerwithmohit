@@ -46,7 +46,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Planning your undergraduate studies in the national capital? Discover the top colleges and universities in Del...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Delhi NCR is the epicenter of the **Common University Entrance Test (CUET) UG** movement. With some of the most prestigious central and state universities in the country, the competition is fierce but rewarding.
 
@@ -63,7 +63,7 @@ The University of Delhi is the primary reason why CUET exists today. With over 7
 While famous for its PG courses, JNU offers exceptional BA (Hons.) in Foreign Languages for UG students through CUET.
 *   **Languages Offered:** French, Spanish, German, Japanese, Chinese, Persian, and more.
 
-### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**
+### **3. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)**
 JMI accepts CUET scores for several high-demand UG programs including BA (Hons.) Economics, History, and Foreign Languages.
 *   **Note:** Not all programs in Jamia are under CUET; some still require their own entrance test.
 
@@ -80,7 +80,7 @@ A state university known for its deep focus on social sciences and humanities. A
 *   **Exposure:** Being in the capital provides unmatched access to internships, political exposure, and cultural diversity.
 *   **ROI:** Central universities offer extremely low fees with some of the highest placement packages in India.
 
-[👉 Get CUET 2026 Delhi NCR Admission Counseling](/inquiry)
+[👉 Get CUET 2026 Delhi NCR Admission Counseling](/inquiry/)
 [👉 View Full Citywise CUET University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about Subject Combinations for DU? Connect with our experts today!**
@@ -105,6 +105,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

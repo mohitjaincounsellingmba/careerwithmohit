@@ -200,7 +200,7 @@ If you are aiming to join Apeejay Business School for the 2027–29 batch, follo
 
 **Apeejay Business School (ASM Dwarka)** successfully combines a **50+ year legacy of academic excellence** with **modern, AI-driven corporate readiness**. With a competitive fee structure (~₹9.70 Lakhs inclusive of a laptop), robust average placement packages (**₹8.30 LPA - ₹8.89 LPA**), and strong ties with top-tier MNCs like Deloitte, EY, and Amazon, it stands out as one of the most reliable ROI management choices in Delhi NCR.
 
-[👉 Build Your Admission Strategy with Mohit Jain](/inquiry) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
+[👉 Build Your Admission Strategy with Mohit Jain](/inquiry/) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
 
 ---
 
@@ -222,14 +222,14 @@ Yes, the 2-Year Full-Time PGDM program at ASM Dwarka is approved by AICTE, accre
 
 ## 🔗 Related Resources & Internal Links
 
-- [ASM Apeejay School of Management Direct Review & Cutoffs](/colleges/asm-apeejay-delhi)
-- [Top MBA Colleges in Delhi NCR Accepting CAT & CMAT 2027–29](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-- [CAT 2026 Complete Preparation Strategy & Exam Guide](/blog/all-about-cat-exam)
-- [AIU Approved PGDM Colleges in India 2027–29](/blog/aiu-approved-pgdm-colleges-india-2027-29)
-- [Direct MBA Admissions & Management Quota Guide 2027–29](/blog/direct-bba-admission-2026-management-quota)
+- [ASM Apeejay School of Management Direct Review & Cutoffs](/colleges/asm-apeejay-delhi/)
+- [Top MBA Colleges in Delhi NCR Accepting CAT & CMAT 2027–29](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+- [CAT 2026 Complete Preparation Strategy & Exam Guide](/blog/all-about-cat-exam/)
+- [AIU Approved PGDM Colleges in India 2027–29](/blog/aiu-approved-pgdm-colleges-india-2027-29/)
+- [Direct MBA Admissions & Management Quota Guide 2027–29](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ### 🚀 Boost Your MBA Preparation
 
-Looking to score high in CAT, XAT, MAT, or CMAT? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking to score high in CAT, XAT, MAT, or CMAT? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.

@@ -75,7 +75,7 @@ For students completing their 12th grade, traditional BBA or B.Com degrees often
 
 Instead of waiting for post-graduation to learn industry-relevant skills, this course prepares you to be a digital leader right from day one of college. 
 
-*Related reading: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29)*
+*Related reading: [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29/)*
 
 👉 **[Join the Bachelors in Digital Business Program](https://iide.co/bachelors-in-digital-business-program?ref=MOH825)**
 
@@ -109,7 +109,7 @@ Not everyone can commit to an 11-month PG program. If you need a faster route to
 
 You will learn SEO, SEM, Social Media Marketing, and Email Automation—all integrated with the latest AI tools to make you a highly efficient marketer.
 
-*Related reading: [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2027-29)*
+*Related reading: [How to Start Digital Marketing from Scratch](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)*
 
 👉 **[Start the Online Digital Marketing Course Today](https://iide.co/online-digital-marketing-course?ref=MOH825)**
 
@@ -123,7 +123,7 @@ You will learn SEO, SEM, Social Media Marketing, and Email Automation—all inte
 
 ## Final Verdict
 
-Whether you are looking for an [MBA alternative](/blog/mba-brand-management-complete-review), an undergraduate degree, or a quick professional upskilling course, IIDE provides some of the highest ROI (Return on Investment) programs in India right now. 
+Whether you are looking for an [MBA alternative](/blog/mba-brand-management-complete-review/), an undergraduate degree, or a quick professional upskilling course, IIDE provides some of the highest ROI (Return on Investment) programs in India right now. 
 
 Ready to level up your career? **[Explore all our curated certification courses](/certifications)** to find the perfect fit for your professional growth!
 
@@ -147,6 +147,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

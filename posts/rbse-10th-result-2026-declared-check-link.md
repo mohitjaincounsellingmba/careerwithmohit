@@ -40,7 +40,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for RBSE 10th Result 2026 Declared: Check Rajastha...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Board of Secondary Education, Rajasthan (RBSE) has officially declared the **RBSE Class 10 Result 2026 today, March 24, 2026, at 1:00 PM**. Over 10 lakh students who appeared for the examinations held in February can now access their scores online.
 
@@ -78,10 +78,10 @@ Follow these simple steps to download your provisional marksheet:
 The declaration of the 10th result marks the beginning of a crucial phase in a student's career. Whether you choose Science, Commerce, or Arts, making an informed decision is vital.
 
 If you are planning your future academic journey, check out our expert resources:
-*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites)
-*   [Bihar Board 12th Result 2026: Expected Dates & Links](/blog/bihar-board-12th-result-2026-expected-date)
-*   [Career Roadmaps 2026: Success Blueprint for Students](/blog/career-roadmaps-2027-29)
-*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/blog/best-mba-colleges-in-jaipur-2027-29)
+*   [List of All State Education Boards in India: Official Links](/blog/all-state-boards-india-official-websites/)
+*   [Bihar Board 12th Result 2026: Expected Dates & Links](/blog/bihar-board-12th-result-2026-expected-date/)
+*   [Career Roadmaps 2026: Success Blueprint for Students](/blog/career-roadmaps-2027-29/)
+*   [Top MBA Colleges in Jaipur: Planning Ahead for Post-Graduation](/blog/best-mba-colleges-in-jaipur-2027-29/)
 
 ### **Details Mentioned on RBSE 10th Marksheet**
 Ensure you verify the following details on your provisional scorecard:
@@ -94,7 +94,7 @@ Ensure you verify the following details on your provisional scorecard:
 **Need Career Guidance?**
 Choosing the right stream (PCM, PCB, Commerce, or Arts) after the 10th board is often the most confusing part for students. Our expert counselors at **CareerWithMohit** provide personalized mentorship to help you choose the best path based on your interests and marks.
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -116,6 +116,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -70,11 +70,11 @@ Typically offered by top-tier business schools like IIMs, ISB, and XLRI. These a
 
 ### B. UGC-DEB Approved Online MBA
 For professionals looking for flexibility and affordability, a UGC-DEB approved Online MBA is the perfect choice. You can earn your degree from reputed universities without stepping out of your home.
-* **Key Options:** [Amity University Online MBA](/blog/amity-university-online-mba-review-2027-29), DY Patil, LPU Online, and Manipal Online.
+* **Key Options:** [Amity University Online MBA](/blog/amity-university-online-mba-review-2027-29/), DY Patil, LPU Online, and Manipal Online.
 * **Cost:** Around ₹1.5 Lakhs to ₹3.5 Lakhs total.
 * **Pros:** Highly flexible, cost-effective, UGC recognized.
 
-> 💡 **Related Reading:** Curious about online options? Read our comprehensive reviews of [Amity University Online MBA 2027–29](/blog/amity-university-online-mba-review-2027-29) and [1-Year Online MBA Programs in India](/blog/1-year-online-mba-colleges-india-2027-29).
+> 💡 **Related Reading:** Curious about online options? Read our comprehensive reviews of [Amity University Online MBA 2027–29](/blog/amity-university-online-mba-review-2027-29/) and [1-Year Online MBA Programs in India](/blog/1-year-online-mba-colleges-india-2027-29/).
 
 ---
 
@@ -113,7 +113,7 @@ The CFA program is notoriously rigorous and consists of three levels:
 Data is the new oil, and AI is the engine. Organizations across India are actively hiring professionals who can translate complex data models into business strategies.
 
 ### Top Choices in Data & Tech:
-* **Advanced Excel & Financial Modeling:** The foundation of all analytical work. Highly recommended for junior-to-mid professionals before stepping into complex coding. Check out our guide on [Advanced Excel Course for Professionals](/blog/advanced-excel-certification) to start your learning journey.
+* **Advanced Excel & Financial Modeling:** The foundation of all analytical work. Highly recommended for junior-to-mid professionals before stepping into complex coding. Check out our guide on [Advanced Excel Course for Professionals](/blog/advanced-excel-certification/) to start your learning journey.
 * **PG Program in Data Science & AI (IITs / IIMs / Great Lakes):** Comprehensive 6-to-11 month programs covering Python, Machine Learning, SQL, and Business Intelligence.
 * **Cloud Certifications (AWS / Azure / GCP):** If you are an IT professional, certifying as a Cloud Architect or Developer can immediately pivot your profile into high-paying cloud consulting roles.
 
@@ -152,7 +152,7 @@ Before investing your hard-earned money and valuable weekend hours, ask yourself
 
 Choosing the right course depends heavily on your current academic background, years of experience, budget, and long-term career goals. Get personalized counselling support to compare top universities, course fees, and accreditation realities.
 
-[👉 Get Career Counselling Support](/inquiry) | [💬 Message Mohit on WhatsApp](/inquiry)
+[👉 Get Career Counselling Support](/inquiry/) | [💬 Message Mohit on WhatsApp](/inquiry/)
 
 ---
 
@@ -171,6 +171,6 @@ If you want a role focused purely on project execution, methodologies, and frame
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

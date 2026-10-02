@@ -58,7 +58,7 @@ state: Delhi NCR
 
 Preparing for national management entrance exams like **CAT 2026, XAT 2027, NMAT, SNAP, CMAT, and MAH-MBA CET** can be an overwhelming journey when done in isolation. Between tracking shifting exam dates, analyzing mock percentiles, hunting for authentic college cutoff data, and dodging predatory coaching marketing, aspirants often suffer from severe information overload.
 
-To solve this, **Mohit Jain** (IIM-B / [FMS Delhi](/colleges/fms-delhi) Certified Career Counsellor) established the [CareerWithMohit Student Community](/community) — a 100% free, verified, and active peer network of **over 5,700+ ambitious students** across India.
+To solve this, **Mohit Jain** (IIM-B / [FMS Delhi](/colleges/fms-delhi/) Certified Career Counsellor) established the [CareerWithMohit Student Community](/community/) — a 100% free, verified, and active peer network of **over 5,700+ ambitious students** across India.
 
 ---
 
@@ -121,8 +121,8 @@ Members get instant, lifetime access to curated revision materials in the Telegr
 
 ### 3. Real-Time B-School Cutoff & Application Deadline Alerts
 Never miss an application deadline again. The community monitors **650+ B-Schools** across India, delivering instant push notifications for:
-* [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta, Lucknow, Kozhikode, and Indore shortlist criteria updates
-* Top Non-IIM institutes: [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [NMIMS Mumbai](/colleges/nmims-mumbai), and [SIBM Pune](/colleges/sibm-pune)
+* [IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, Calcutta, Lucknow, Kozhikode, and Indore shortlist criteria updates
+* Top Non-IIM institutes: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), [NMIMS Mumbai](/colleges/nmims-mumbai/), and [SIBM Pune](/colleges/sibm-pune/)
 * Category-wise cutoffs (General, NC-OBC, EWS, SC/ST, and PwD)
 * Tuition fee waivers, merit scholarship deadlines, and spot round announcements
 
@@ -185,18 +185,18 @@ To protect aspirants from spam, aggressive telemarketers, and unauthorized promo
 
 1. **Step 1**: Click here to [Join the Telegram Channel](https://t.me/+fpyLTXTgQQZkMDhl) for daily question drops and downloadable formula sheets.
 2. **Step 2**: Click here to [Join the WhatsApp Community Group](https://chat.whatsapp.com/LV0HCuUzeQaCjBrkuDhMAC) to connect with peer aspirants.
-3. **Step 3**: Explore our suite of free preparation tools, including the [Free CAT Full Mock Test](/tools/cat-mock-test) and the [CAT Score Calculator](/tools/cat-score-calculator).
+3. **Step 3**: Explore our suite of free preparation tools, including the [Free CAT Full Mock Test](/tools/cat-mock-test/) and the [CAT Score Calculator](/tools/cat-score-calculator/).
 
 ---
 
 ## Related Guides & Preparation Resources
 
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About the CAT Exam: Pattern, Syllabus & Eligibility](/blog/all-about-cat-exam)
-* [Comprehensive MBA & PGDM Admissions Guide 2027](/mba-pgdm-admission-2027)
-* [Top Tier MBA Colleges in India: Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-* [Book a 1-on-1 Confidential Career Counselling Session](/book-session)
-* [Official CareerWithMohit Student Community Hub](/community)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About the CAT Exam: Pattern, Syllabus & Eligibility](/blog/all-about-cat-exam/)
+* [Comprehensive MBA & PGDM Admissions Guide 2027](/mba-pgdm-admission-2027/)
+* [Top Tier MBA Colleges in India: Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+* [Book a 1-on-1 Confidential Career Counselling Session](/book-session/)
+* [Official CareerWithMohit Student Community Hub](/community/)
 
 ---
 
@@ -218,6 +218,6 @@ Yes! Mohit Jain frequently reviews profile queries in the group. You can also me
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

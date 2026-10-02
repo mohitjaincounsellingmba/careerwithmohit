@@ -85,7 +85,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
+#### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA
@@ -109,7 +109,7 @@ Steady placement growth and strong faculty pool.
 - **Avg. Placement**: ₹6.0 LPA
 - **Top Recruiters**: Genpact, Yamaha, L&T Infotech, HCL, Capgemini.
 
-#### 7. [Management Education & Research Institute (MERI)](/colleges/meri-delhi), Janakpuri
+#### 7. [Management Education & Research Institute (MERI)](/colleges/meri-delhi/), Janakpuri
 One of the oldest and most trusted management colleges in West Delhi.
 - **Fees**: ₹3.10 Lakhs (Total)
 - **Avg. Placement**: ₹5.8 LPA
@@ -121,7 +121,7 @@ Accredited with 'A' Grade, known for its academic rigor.
 - **Avg. Placement**: ₹5.5 LPA
 - **Top Recruiters**: Amazon, Flipkart, IndusInd Bank, Zomato.
 
-#### 9. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi), Rohini
+#### 9. [Tecnia Institute of Advanced Studies](/colleges/tecnia-institute-of-advanced-studies-delhi/), Rohini
 Centrally located with a focus on modern pedagogy and industry visits.
 - **Fees**: ₹3.00 Lakhs (Total)
 - **Avg. Placement**: ₹5.2 LPA
@@ -188,14 +188,14 @@ If you want the best placement-to-fee ratio (ROI), prioritize **USMS**, **MAIT**
 > **Need help picking the right IPU college?**
 > Don't gamble with your career. Get a personalized roadmap and admission strategy from Mohit Jain.
 
-[👉 Get Free Counselling](/inquiry) | [💬 Book Private Session](/inquiry)
+[👉 Get Free Counselling](/inquiry/) | [💬 Book Private Session](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -210,7 +210,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -224,6 +224,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

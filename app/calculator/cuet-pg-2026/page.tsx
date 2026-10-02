@@ -485,16 +485,16 @@ export default function CuetCalculatorPage() {
                         Related Resources
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <Link href="/blog/top-mba-colleges-cuet-pg" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/top-mba-colleges-cuet-pg/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">Top MBA Colleges Accepting CUET PG →</span>
                         </Link>
-                        <Link href="/blog/cuet-pg-2026-result-expected-date" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/cuet-pg-2026-result-expected-date/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">CUET PG 2027 Result Expected Date →</span>
                         </Link>
-                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">Best MBA Colleges in Delhi 2027 →</span>
                         </Link>
-                        <Link href="/blog/mba-pgdm-admissions-faq-2027-29" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/mba-pgdm-admissions-faq-2027-29/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">MBA/PGDM Admissions FAQ 2027 →</span>
                         </Link>
                     </div>

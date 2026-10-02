@@ -51,14 +51,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-When aspiring managers look for premier management education in North India outside the IIM umbrella, three prominent business schools consistently dominate the shortlist: **IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi) (New Delhi), and LBSIM (New Delhi)**.
+When aspiring managers look for premier management education in North India outside the IIM umbrella, three prominent business schools consistently dominate the shortlist: **IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi/) (New Delhi), and LBSIM (New Delhi)**.
 
 Each of these three institutions enjoys distinct academic reputations, specialized recruiting clusters, and return on investment equations.
 
 [InquiryCard title="Confused Between IMT Ghaziabad, FORE & LBSIM?" description="Speak directly with counselor Mohit Jain to compare batch profiles, specialization strengths, and conversion possibilities." cta="Get Free B-School Guidance" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Domain Leaders**: IMT Ghaziabad is the top choice for **Sales & Marketing**, LBSIM excels in **Finance & Banking**, while [FORE School of Management](/colleges/fore-school-delhi) offers balanced excellence across **Consulting, IT, and International Business**.
+> - **Domain Leaders**: IMT Ghaziabad is the top choice for **Sales & Marketing**, LBSIM excels in **Finance & Banking**, while [FORE School of Management](/colleges/fore-school-delhi/) offers balanced excellence across **Consulting, IT, and International Business**.
 > - **Placement Tiers**: IMT Ghaziabad averages ₹17.35 LPA with high international exposure; FORE averages ₹15.5 LPA; LBSIM averages ₹12.8 LPA with lower fees and a compact batch.
 > - **Location Dynamics**: FORE (Qutub Institutional Area) and LBSIM (Dwarka) provide central Delhi advantages, while IMT's 14-acre Ghaziabad campus delivers a residential cohort experience.
 
@@ -66,7 +66,7 @@ Each of these three institutions enjoys distinct academic reputations, specializ
 
 ## 1. Quick Head-to-Head Overview
 
-| Parameter | IMT Ghaziabad | [FORE School of Management](/colleges/fore-school-delhi) | LBSIM New Delhi |
+| Parameter | IMT Ghaziabad | [FORE School of Management](/colleges/fore-school-delhi/) | LBSIM New Delhi |
 | :--- | :--- | :--- | :--- |
 | **Location** | Raj Nagar, Ghaziabad | Qutub Institutional Area, New Delhi | Sector 11, Dwarka, New Delhi |
 | **Establishment Year** | 1980 | 1992 | 1995 |
@@ -107,9 +107,9 @@ Named in honor of India's second Prime Minister, LBSIM combines a disciplined va
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[IMT Ghaziabad](/colleges/imt-ghaziabad)** | ₹21.5 Lakhs | ₹17.35 LPA | **Top Brand**: Premium marketing roles; cutoff 90–93%ile |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | ₹18.5 Lakhs | ₹15.42 LPA | **Balanced ROI**: Prime Delhi location; cutoff 85–88%ile |
-| **[LBSIM New Delhi](/colleges/lbsim-delhi)** | ₹15.5 Lakhs | ₹12.80 LPA | **Highest Financial ROI**: Low fee; premier BFSI placement; cutoff 82–86%ile |
+| **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | ₹21.5 Lakhs | ₹17.35 LPA | **Top Brand**: Premium marketing roles; cutoff 90–93%ile |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | ₹18.5 Lakhs | ₹15.42 LPA | **Balanced ROI**: Prime Delhi location; cutoff 85–88%ile |
+| **[LBSIM New Delhi](/colleges/lbsim-delhi/)** | ₹15.5 Lakhs | ₹12.80 LPA | **Highest Financial ROI**: Low fee; premier BFSI placement; cutoff 82–86%ile |
 
 ---
 
@@ -135,6 +135,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

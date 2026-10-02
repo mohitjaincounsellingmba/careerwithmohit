@@ -83,33 +83,33 @@ The university follows a specific hierarchy for admissions into its PG programs:
 ## Essential Exam Day Tips
 - **Reporting Time:** Reach the center at least 60 minutes before the shift starts.
 - **Mandatory Documents:** Carry your printed admit card and a valid original photo ID (Aadhar/PAN/Voter ID).
-- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam) for both UG and PG.
+- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam/) for both UG and PG.
 
 Keep checking the official portal **ipu.ac.in** for the latest updates on counseling rounds and merit list declarations.
 
 ---
-[👉 Thinking about MBA from IPU? Talk to our admission counselors for the latest cut-off details and fee structure!](/inquiry)
+[👉 Thinking about MBA from IPU? Talk to our admission counselors for the latest cut-off details and fee structure!](/inquiry/)
 
 
 ## Why Choose IPU for Postgraduation?
 Indraprastha University hosts some of the most budget-friendly yet reputable PG programs in Delhi NCR. With low tuition fees and an expansive alumni network across IT, Management, and Law, IPU colleges provide a high Return on Investment (ROI).
 
 ## Important Links & Preparation
-- **MBA Rankings:** See the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29) including top IPU affiliates like USMS, MAIT, and VIPS.
-- **Top IPU MBA Colleges:** Check our detailed list of [IPU MBA Colleges under GGSIPU](/blog/ipu-cet-mba-colleges-ggsipu).
-- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam) for both UG and PG.
+- **MBA Rankings:** See the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/) including top IPU affiliates like USMS, MAIT, and VIPS.
+- **Top IPU MBA Colleges:** Check our detailed list of [IPU MBA Colleges under GGSIPU](/blog/ipu-cet-mba-colleges-ggsipu/).
+- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam/) for both UG and PG.
 
 Keep checking the official portal **ipu.ac.in** for the course-specific detailed timetable of the entrance exams and counseling rounds.
 
 ---
-[👉 Thinking about MBA from IPU? Talk to our admission counselors for the latest cut-off details and fee structure!](/inquiry)
+[👉 Thinking about MBA from IPU? Talk to our admission counselors for the latest cut-off details and fee structure!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -124,6 +124,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

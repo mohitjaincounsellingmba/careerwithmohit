@@ -29,7 +29,7 @@ faqs:
       including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 ---
 
-### **College Review: [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university)**
+### **College Review: [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -45,7 +45,7 @@ faqs:
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) 2026 Snapshot
+## 📊 [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -73,25 +73,25 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) a good option for PGDM/MBA?
-Yes, [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/) a good option for PGDM/MBA?
+Yes, [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university)?
-The average placement package at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) is approximately ₹6.0 LPA, with the highest package reaching up to ₹15.0 LPA.
+### 2. What is the average package offered at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/)?
+The average placement package at [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/) is approximately ₹6.0 LPA, with the highest package reaching up to ₹15.0 LPA.
 
-### 3. What entrance exams are accepted by [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university)?
+### 3. What entrance exams are accepted by [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Siksha 'O' Anusandhan University](/colleges/siksha-o-anusandhan-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Siksha 'O' Anusandhan University](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to Siksha 'O' Anusandhan University](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -105,7 +105,7 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 

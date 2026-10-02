@@ -73,11 +73,11 @@ GL Bajaj Institute of Management and Research (GLBIMR) at Greater Noida is a pow
 *   **High ROI**: With a relatively moderate fee structure, GL Bajaj provides one of the best return-on-investments for MBA students in Northern India.
 
 ### **Explore Other College Reviews:**
-*   [Jaipuria Noida Placement Review 2027–29](/blog/jaipuria-noida-placement-review-2027-29)
-*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025)
-*   [NDIM Placement Review 2027–29](/blog/ndim-placement-review-2027-29)
+*   [Jaipuria Noida Placement Review 2027–29](/blog/jaipuria-noida-placement-review-2027-29/)
+*   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025/)
+*   [NDIM Placement Review 2027–29](/blog/ndim-placement-review-2027-29/)
 
-[👉 Get Admission Guidance for GL Bajaj Greater Noida!](/inquiry)
+[👉 Get Admission Guidance for GL Bajaj Greater Noida!](/inquiry/)
 
 ---
 
@@ -99,7 +99,7 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -113,6 +113,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

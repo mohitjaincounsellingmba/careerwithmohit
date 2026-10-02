@@ -75,7 +75,7 @@ Since the **official NTA answer key** takes a few days to be released, several c
 **How to use memory-based keys?**
 1.  **Estimate Score**: Compare your responses with the memory-based keys to calculate your raw marks.
 2.  **Sectional Analysis**: Identify which sections you performed best in.
-3.  **Predict Percentile**: Use our [JEE Main College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges) to find your potential rank.
+3.  **Predict Percentile**: Use our [JEE Main College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges/) to find your potential rank.
 
 ---
 
@@ -92,14 +92,14 @@ The NTA is expected to release the provisional answer key for Session 2 in the *
 ### **🚀 Planning Your Next Steps?**
 Now that you have completed the April 4 shift, here’s how to plan for your engineering future:
 
-*   **College Predictor**: Check our [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges) for NIT/IIIT admissions.
-*   **JEE Advanced**: If you expect a high percentile, start your [JEE Advanced 2026 Preparation](/blog/how-to-crack-jee-advanced-2027-29) immediately.
-*   **Direct Admissions**: Exploring private universities? Check our guides for [Direct Admission in JECRC](/blog/direct-admission-jecrc-university-jaipur-btech-2026) and [Direct Admission in SRM](/blog/direct-admission-srm-university-2027-29).
+*   **College Predictor**: Check our [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges/) for NIT/IIIT admissions.
+*   **JEE Advanced**: If you expect a high percentile, start your [JEE Advanced 2026 Preparation](/blog/how-to-crack-jee-advanced-2027-29/) immediately.
+*   **Direct Admissions**: Exploring private universities? Check our guides for [Direct Admission in JECRC](/blog/direct-admission-jecrc-university-jaipur-btech-2026/) and [Direct Admission in SRM](/blog/direct-admission-srm-university-2027-29/).
 
 **Need help with your B.Tech journey?**
 Choosing the right engineering college is a life-changing decision. Get expert guidance and personalized counselling to secure your seat in the best colleges.
 
-[👉 Get Admission Guidance!](/inquiry) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
+[👉 Get Admission Guidance!](/inquiry/) | [💬 Talk to Our Expert on WhatsApp](https://wa.me/919560020771)
 
 ---
 
@@ -121,6 +121,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

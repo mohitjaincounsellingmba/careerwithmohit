@@ -52,7 +52,7 @@ state: Maharashtra
 
 The **MAH MBA/MMS CET** (Maharashtra Master of Business Administration Common Entrance Test) is one of the most competitive state-level entrance examinations in India. Conducted annually by the State CET Cell, Maharashtra, it serves as the gateway to over 330 management institutes across Maharashtra, offering prestigious Master of Management Studies (MMS) and MBA degrees.
 
-From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
+From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
 
 In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, we detail score vs. percentile predictions, college-wise cutoff percentiles, step-by-step CAP registration guidelines, Option Form strategies, and OMS (Outside Maharashtra State) quota rules.
 
@@ -60,7 +60,7 @@ In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, w
 
 > 📊 **Predict Your MBA College & CET Percentile in 2 Minutes!**
 >
-> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/mock-tests)
+> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/mock-tests/)
 
 ---
 
@@ -72,14 +72,14 @@ Due to normalized scoring across multiple exam slots, percentile calculation dep
 
 | Raw Score (Out of 200) | Expected Percentile Range | Target B-School Tier |
 | :--- | :--- | :--- |
-| **142 - 155+** | **99.95 - 99.99 Percentile** | [JBIMS Mumbai](/colleges/jbims-mumbai) (MS & OMS Quota) |
+| **142 - 155+** | **99.95 - 99.99 Percentile** | [JBIMS Mumbai](/colleges/jbims-mumbai/) (MS & OMS Quota) |
 | **132 - 141** | **99.85 - 99.94 Percentile** | SIMSREE Mumbai, Sydenham |
-| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), [PUMBA Pune](/colleges/pumba-pune) |
+| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), [PUMBA Pune](/colleges/pumba-pune/) |
 | **112 - 121** | **99.00 - 99.49 Percentile** | SIES Mumbai, MET Mumbai, XIMR Mumbai |
 | **102 - 111** | **97.50 - 98.99 Percentile** | Chetna Institute, NL Dalmia, CoEP Pune |
 | **92 - 101** | **95.00 - 97.49 Percentile** | IES MCRC, Rizvi, Vidyalankar, Alkesh Dinesh |
 | **82 - 91** | **90.00 - 94.99 Percentile** | Indira Pune, DY Patil Akurdi, SISOM |
-| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, [ASM IBMR](/colleges/asm-ibmr), MIT-SOB |
+| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, [ASM IBMR](/colleges/asm-ibmr/), MIT-SOB |
 
 ---
 
@@ -192,11 +192,11 @@ To ensure a smooth admission journey through MAH MBA CET 2027:
 ### Need CAP Round Choice Code & Option Form Assistance?
 
 * 📞 **Counselling Helpline:** Get expert Option Form review from **Mohit Jain**.
-* 📋 **[Request Free CAP Round 2027 Choice Code List](/blog/best-bba-colleges-jaipur-direct-admission-2026)** customized to your score and target location.
+* 📋 **[Request Free CAP Round 2027 Choice Code List](/blog/best-bba-colleges-jaipur-direct-admission-2026/)** customized to your score and target location.
 
 ---
 
 ### Boost Your Preparation
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

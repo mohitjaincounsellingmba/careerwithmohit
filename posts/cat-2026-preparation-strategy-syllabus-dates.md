@@ -131,17 +131,17 @@ Yes. Dedicate 2 hours daily and 6-8 hours on weekends. Many toppers are working 
 ---
 
 ### Useful Links:
-- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-- [Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
-- [MBA Specialization Guide 2027–29](/blog/top-recruiters-mba-pgdm-specialization)
-- [Practice Our Free CAT Mock Series](/blog/why-take-our-free-cat-mock-test-2026-online)
+- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+- [Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+- [MBA Specialization Guide 2027–29](/blog/top-recruiters-mba-pgdm-specialization/)
+- [Practice Our Free CAT Mock Series](/blog/why-take-our-free-cat-mock-test-2026-online/)
 
 ---
 
 **Stuck in the CAT Prep Loop?**
 Stop following generic advice. Mohit Jain provides a **Personalized CAT Roadmap** based on your current diagnostic mock scores. Let's fix your strategy before you waste another mock.
 
-[👉 Get My Personal CAT Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Get My Personal CAT Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -149,7 +149,7 @@ Stop following generic advice. Mohit Jain provides a **Personalized CAT Roadmap*
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

@@ -11,7 +11,7 @@ description: >-
 keywords:
   - MBA Agri-Business Management India 2027–29
   - Top ABM Colleges 2026
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad) PGP-FABM Placements'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/) PGP-FABM Placements'
   - MANAGE Hyderabad Placements
   - CCS NIAM Jaipur Avg Package
   - Agri-Business MBA Roles
@@ -59,12 +59,12 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGP-FABM)**
+## **[IIM Ahmedabad](/colleges/iim-ahmedabad/) (PGP-FABM)**
 *   **Avg Placement**: ₹22.21 LPA (Highest: ₹41.83 LPA)
 *   **Top Recruiters**: Amul, Nestlé, PepsiCo, P&G, Accenture, PI Industries, Godrej Agrovet.
 *   **Designations**: Category Manager, Product Manager, Supply Chain Consultant, Agri-Investment Analyst.
 
-#### **[IIM Lucknow](/colleges/iim-lucknow) (PGP-ABM)**
+#### **[IIM Lucknow](/colleges/iim-lucknow/) (PGP-ABM)**
 *   **Avg Placement**: ₹32.3 LPA (Latest Batch)
 *   **Top Recruiters**: BCG, McKinsey, Bain, P&G, Amazon, Adani Group, Marriott.
 *   **Designations**: Strategy Consultant, Operations Manager, Finance Head (Agri division), Area Sales Manager.
@@ -132,7 +132,7 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 *   **Top Recruiters**: Mahindra Agribusiness, Syngenta, Bioseed, Adani Wilmar.
 *   **Designations**: Agri-Retail Sales Head, Farm Operations Manager.
 
-#### **[Amity University, Noida](/colleges/amity-noida)**
+#### **[Amity University, Noida](/colleges/amity-noida/)**
 *   **Avg Placement**: ₹5.5 – 7.0 LPA
 *   **Top Recruiters**: ITC, ICICI Bank, Syngenta, Bayer.
 *   **Designations**: Business Analyst, Corporate Sales Manager.
@@ -167,8 +167,8 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 
 | College | Specialization | Avg Package |
 | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | FABM | ₹28.5 LPA |
-| **[IIM Lucknow](/colleges/iim-lucknow)** | ABM | ₹24.2 LPA |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | FABM | ₹28.5 LPA |
+| **[IIM Lucknow](/colleges/iim-lucknow/)** | ABM | ₹24.2 LPA |
 | **IRMA Anand** | Rural Mgmt | ₹15.5 LPA |
 | **MANAGE Hyderabad** | Agri-Business | ₹12.8 LPA |
 
@@ -188,7 +188,7 @@ Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies (UPL, B
 ---
 
 **Ready to lead the rural revolution?**
-[👉 Book My Session](/inquiry)
+[👉 Book My Session](/inquiry/)
  and credit for farmers and agri-corporates in banks.
 *   **Product Manager (Agri-input)**: Launching new seeds, pesticides, or fertilizers.
 
@@ -197,7 +197,7 @@ Major recruiters include FMCG giants (ITC, Nestle), Agri-Input companies (UPL, B
 ### Need Help Choosing the Right ABM College?
 Choosing between a premium IIM or a specialized institute like MANAGE depends on your background and career goals. At **CareerWithMohit**, we help you navigate entrances like CAT, CMAT, and CUET-PG to secure your seat.
 
-[**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Career Guides**](/blog)
+[**Inquiry Now for Personalized Counselling**](/inquiry/) | [**Explore More Career Guides**](/blog/)
 
 
 
@@ -205,7 +205,7 @@ Choosing between a premium IIM or a specialized institute like MANAGE depends on
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -219,6 +219,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

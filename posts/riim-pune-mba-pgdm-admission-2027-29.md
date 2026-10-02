@@ -75,14 +75,14 @@ location: Pune
 state: Maharashtra
 ---
 
-# Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune/)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.20 Lakhs to ₹8.60 Lakhs (Total)** (**₹3.60L - ₹4.30L / Year (Includes 1-Week International Tour to Dubai/Singapore)**). Merit waivers for CAT/XAT/CMAT percentiles above 75% and girl child education rebates.
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to Savitribai Phule Pune University (for MBA) · Govt. of Maharashtra.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.84 LPA** (Top 25% at **₹11.00 LPA**) with a highest package of **₹35.00 LPA**. 30% of the batch converts PPOs through 500+ hours of Employability Development Program (EDP).
 
-**Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune)) ([RIIM Pune](/colleges/riim-pune))**, located in **Bavdhan, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune/)) ([RIIM Pune](/colleges/riim-pune/))**, located in **Bavdhan, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **RIIM Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -245,13 +245,13 @@ RIIM Pune accepts valid percentiles from national entrance exams including CAT, 
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

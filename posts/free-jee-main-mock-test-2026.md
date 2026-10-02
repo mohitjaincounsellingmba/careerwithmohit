@@ -41,7 +41,7 @@ Succeeding in the **IIT JEE Main 2026** entrance exam demands not just subject e
 
 [MockTestCard title="Free JEE Main 2026 Full CBT Mock Test 2026" link="/tools/jee-main-mock-test" questions="90 Questions" time="180 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free IIT JEE Main 2026 Mock Test](/tools/jee-main-mock-test)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free IIT JEE Main 2026 Mock Test](/tools/jee-main-mock-test/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -81,4 +81,4 @@ A percentile of 99.5+ (200+ raw score out of 300) is required for top NIT Comput
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

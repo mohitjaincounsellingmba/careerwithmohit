@@ -79,7 +79,7 @@ Known for its strict discipline and holistic development, the Delhi NCR campus o
 - **Highest Package:** ₹10 LPA
 - **Key Advantage:** Heavy focus on business presentations, research papers, and corporate grooming.
 
-### 4. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS), Delhi
+### 4. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS), Delhi
 Affiliated with GGSIPU, MAIMS is located in Rohini, Delhi, and ranks among the best IP University colleges for management education.
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam:** IPU CET / CUET UG
@@ -87,7 +87,7 @@ Affiliated with GGSIPU, MAIMS is located in Rohini, Delhi, and ranks among the b
 - **Highest Package:** ₹8.5 LPA
 - **Key Advantage:** Proactive internship cell and active extracurricular student societies.
 
-### 5. [Amity University, Noida](/colleges/amity-noida)
+### 5. [Amity University, Noida](/colleges/amity-noida/)
 Amity is a premium private university boasting state-of-the-art campus infrastructure, global study programs, and a massive alumni network.
 - **Approximate Annual Fees:** ₹3.8 Lakhs - ₹4.5 Lakhs
 - **Entrance Exam:** Merit-Based (Class 12th Marks) / English Test + PI
@@ -95,15 +95,15 @@ Amity is a premium private university boasting state-of-the-art campus infrastru
 - **Highest Package:** ₹15 LPA
 - **Key Advantage:** Vast choice of custom specializations and international semester options.
 
-### 6. [BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon
-Backed by the Hero Group, [BML Munjal University](/colleges/bml-munjal-gurgaon) offers a modern BBA program mentored by Imperial College London, emphasizing experiential learning.
+### 6. [BML Munjal University](/colleges/bml-munjal-gurgaon/), Gurgaon
+Backed by the Hero Group, [BML Munjal University](/colleges/bml-munjal-gurgaon/) offers a modern BBA program mentored by Imperial College London, emphasizing experiential learning.
 - **Approximate Annual Fees:** ₹3.0 Lakhs
 - **Entrance Exam:** CUET / SAT / UGAT or Aptitude Test
 - **Average Placement Package:** ₹5.8 LPA
 - **Highest Package:** ₹11 LPA
 - **Key Advantage:** 45% of the curriculum is dedicated to practical hands-on projects and laboratory exercises.
 
-### 7. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), Delhi
+### 7. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/), Delhi
 Another elite GGSIPU affiliate located in Janakpuri, MSI is known for its strong academic discipline, experienced faculty, and consistently high ranks in IPU.
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam:** IPU CET
@@ -111,7 +111,7 @@ Another elite GGSIPU affiliate located in Janakpuri, MSI is known for its strong
 - **Highest Package:** ₹9 LPA
 - **Key Advantage:** Highly affordable fees with reliable placements in top corporate houses like Deloitte and EY.
 
-### 8. [Galgotias University](/colleges/galgotias-university), Greater Noida
+### 8. [Galgotias University](/colleges/galgotias-university/), Greater Noida
 Galgotias is popular for its dynamic campus environment, modern pedagogy, and strong tie-ups with industry partners.
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam:** CUET UG / Merit-Based
@@ -119,7 +119,7 @@ Galgotias is popular for its dynamic campus environment, modern pedagogy, and st
 - **Highest Package:** ₹8.2 LPA
 - **Key Advantage:** Strong placement drive with over 500 recruiters visiting campus annually.
 
-### 9. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
+### 9. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
 JIMS Rohini is a well-established GGSIPU institute known for its industry-aligned BBA program and focused placement preparation.
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam:** IPU CET
@@ -127,7 +127,7 @@ JIMS Rohini is a well-established GGSIPU institute known for its industry-aligne
 - **Highest Package:** ₹7.8 LPA
 - **Key Advantage:** Regular guest lectures, industrial visits, and corporate networking events.
 
-### 10. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia), Delhi
+### 10. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/), Delhi
 JMI is a central university offering one of the most affordable BBA programs in the country, combined with high brand value and excellent faculty support.
 - **Approximate Annual Fees:** ₹13,000
 - **Entrance Exam:** JMI Entrance Exam
@@ -145,12 +145,12 @@ JMI is a central university offering one of the most affordable BBA programs in 
 | **2** | **SCMS, Noida** | SET | ₹3.5 Lakhs | ₹6.8 LPA |
 | **3** | **Christ University (Delhi NCR)** | Christ CUET | ₹2.5 Lakhs | ₹6.2 LPA |
 | **4** | **MAIMS, Delhi** | IPU CET / CUET | ₹1.1 Lakhs | ₹4.5 LPA |
-| **5** | **[Amity University](/colleges/amity-noida), Noida** | Merit / Interview | ₹4.0 Lakhs | ₹5.5 LPA |
-| **6** | **[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon** | UGAT / CUET / SAT | ₹3.0 Lakhs | ₹5.8 LPA |
-| **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET | ₹1.1 Lakhs | ₹4.8 LPA |
-| **8** | **[Galgotias University](/colleges/galgotias-university)** | CUET / Merit | ₹1.2 Lakhs | ₹4.2 LPA |
+| **5** | **[Amity University](/colleges/amity-noida/), Noida** | Merit / Interview | ₹4.0 Lakhs | ₹5.5 LPA |
+| **6** | **[BML Munjal University](/colleges/bml-munjal-gurgaon/), Gurgaon** | UGAT / CUET / SAT | ₹3.0 Lakhs | ₹5.8 LPA |
+| **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)** | IPU CET | ₹1.1 Lakhs | ₹4.8 LPA |
+| **8** | **[Galgotias University](/colleges/galgotias-university/)** | CUET / Merit | ₹1.2 Lakhs | ₹4.2 LPA |
 | **9** | **JIMS Rohini** | IPU CET | ₹1.2 Lakhs | ₹4.5 LPA |
-| **10** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance | ₹13,000 | ₹5.0 LPA |
+| **10** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | JMI Entrance | ₹13,000 | ₹5.0 LPA |
 
 ---
 
@@ -163,9 +163,9 @@ JMI is a central university offering one of the most affordable BBA programs in 
 ---
 
 ## 🔗 Related Resources
-- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
-- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
+- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)
 
 ---
 
@@ -187,6 +187,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

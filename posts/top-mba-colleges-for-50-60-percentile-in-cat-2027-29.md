@@ -68,18 +68,18 @@ Here is the definitive guide by career mentor **Mohit Jain** on the **Top MBA Co
 
 | College Name | Location | Expected CAT Cutoff | Total Program Fees | Average Package (2025 Audited) | Highest Package |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[GL Bajaj Institute of Technology & Management](/colleges/gl-bajaj-greater-noida)** | Greater Noida, NCR | 55 – 60 %ile | ₹6.50 Lakhs | ₹7.50 LPA | ₹18.00 LPA |
-| **[ITS Mohan Nagar](/colleges/its-ghaziabad)** | Ghaziabad, NCR | 50 – 55 %ile | ₹6.24 Lakhs | ₹7.20 LPA | ₹16.00 LPA |
-| **[FIIB (Fortune Institute)](/colleges/fiib-delhi)** | New Delhi | 55 – 60 %ile | ₹9.90 Lakhs | ₹8.50 LPA | ₹25.00 LPA |
-| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.50 Lakhs | ₹6.80 LPA | ₹15.50 LPA |
-| **[Accurate Institute of Management](/blog/accurate-greater-noida-review-2027-29)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.25 Lakhs | ₹6.50 LPA | ₹14.00 LPA |
-| **[IILM University](/colleges/iilm-university-greater-noida)** | Greater Noida / Gurgaon | 55 – 60 %ile | ₹11.50 Lakhs | ₹8.60 LPA | ₹18.50 LPA |
-| **[EMPI Business School](/colleges/empi-delhi)** | New Delhi | 50 – 55 %ile | ₹8.50 Lakhs | ₹7.20 LPA | ₹16.50 LPA |
-| **[Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence)** | Pune, Maharashtra | 55 – 60 %ile | ₹9.50 Lakhs | ₹8.20 LPA | ₹18.00 LPA |
-| **[RIIM Pune](/colleges/riim-pune)** | Pune, Maharashtra | 50 – 55 %ile | ₹6.30 Lakhs | ₹6.90 LPA | ₹16.00 LPA |
-| **[ISBR Business School](/colleges/isbr-bangalore)** | Bengaluru, Karnataka | 55 – 60 %ile | ₹9.80 Lakhs | ₹8.00 LPA | ₹15.00 LPA |
-| **[Amity University](/blog/amity-noida-review-2027-29)** | Noida / Gurgaon | 50 – 60 %ile | ₹14.00 Lakhs | ₹8.00 LPA | ₹25.00 LPA |
-| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida, NCR | 50 – 55 %ile | ₹5.50 Lakhs | ₹6.20 LPA | ₹12.40 LPA |
+| **[GL Bajaj Institute of Technology & Management](/colleges/gl-bajaj-greater-noida/)** | Greater Noida, NCR | 55 – 60 %ile | ₹6.50 Lakhs | ₹7.50 LPA | ₹18.00 LPA |
+| **[ITS Mohan Nagar](/colleges/its-ghaziabad/)** | Ghaziabad, NCR | 50 – 55 %ile | ₹6.24 Lakhs | ₹7.20 LPA | ₹16.00 LPA |
+| **[FIIB (Fortune Institute)](/colleges/fiib-delhi/)** | New Delhi | 55 – 60 %ile | ₹9.90 Lakhs | ₹8.50 LPA | ₹25.00 LPA |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.50 Lakhs | ₹6.80 LPA | ₹15.50 LPA |
+| **[Accurate Institute of Management](/blog/accurate-greater-noida-review-2027-29/)** | Greater Noida, NCR | 50 – 55 %ile | ₹6.25 Lakhs | ₹6.50 LPA | ₹14.00 LPA |
+| **[IILM University](/colleges/iilm-university-greater-noida/)** | Greater Noida / Gurgaon | 55 – 60 %ile | ₹11.50 Lakhs | ₹8.60 LPA | ₹18.50 LPA |
+| **[EMPI Business School](/colleges/empi-delhi/)** | New Delhi | 50 – 55 %ile | ₹8.50 Lakhs | ₹7.20 LPA | ₹16.50 LPA |
+| **[Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/)** | Pune, Maharashtra | 55 – 60 %ile | ₹9.50 Lakhs | ₹8.20 LPA | ₹18.00 LPA |
+| **[RIIM Pune](/colleges/riim-pune/)** | Pune, Maharashtra | 50 – 55 %ile | ₹6.30 Lakhs | ₹6.90 LPA | ₹16.00 LPA |
+| **[ISBR Business School](/colleges/isbr-bangalore/)** | Bengaluru, Karnataka | 55 – 60 %ile | ₹9.80 Lakhs | ₹8.00 LPA | ₹15.00 LPA |
+| **[Amity University](/blog/amity-noida-review-2027-29/)** | Noida / Gurgaon | 50 – 60 %ile | ₹14.00 Lakhs | ₹8.00 LPA | ₹25.00 LPA |
+| **[Galgotias University](/colleges/galgotias-university/)** | Greater Noida, NCR | 50 – 55 %ile | ₹5.50 Lakhs | ₹6.20 LPA | ₹12.40 LPA |
 
 ---
 
@@ -99,18 +99,18 @@ With a legacy spanning nearly three decades, ITS Mohan Nagar is a prime choice f
 *   **Key Highlights:** Robust alumni network across North India with continuous MDPs, corporate guest lectures, and placement drives.
 *   **Average CTC:** ₹7.20 LPA.
 
-### 3. FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi)), New Delhi
+### 3. FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi/)), New Delhi
 Located in Vasant Vihar, South Delhi, FIIB offers specialized PGDM in **Financial Management, Marketing, Operations, and Business Analytics**.
 *   **Key Highlights:** Central Delhi location advantage, strong mentoring system, and extensive career development cell.
 *   **Average CTC:** ₹8.50 LPA.
 
-### 4. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), Greater Noida
+### 4. [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/), Greater Noida
 Renowned for its industry-collaborated PGDM programs in **Supply Chain Management (in collaboration with Safexpress)** and **Business Analytics (with IBM)**.
 *   **Key Highlights:** Hands-on industry exposure with mandatory paid internships.
 *   **Average CTC:** ₹6.80 LPA.
 
-### 5. Lexicon MILE & [RIIM Pune](/colleges/riim-pune)
-For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and [RIIM Pune](/colleges/riim-pune) offer strong corporate engagement, foreign educational tours, and intensive pre-placement training.
+### 5. Lexicon MILE & [RIIM Pune](/colleges/riim-pune/)
+For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and [RIIM Pune](/colleges/riim-pune/) offer strong corporate engagement, foreign educational tours, and intensive pre-placement training.
 *   **Average CTC:** ₹7.00 – ₹8.20 LPA.
 
 ---
@@ -137,17 +137,17 @@ For candidates seeking options in Maharashtra's industrial hub, Lexicon MILE and
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29)
-*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29)
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29/)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Can I get a good MBA college with a 50-60 percentile in CAT?
-Yes. Reputable AICTE-approved B-schools like GL Bajaj (Greater Noida), ITS Ghaziabad, FIIB Delhi, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida), Lexicon MILE Pune, and ISBR Bangalore offer quality management programs with average packages between INR 6.5 LPA and INR 9.0 LPA.
+Yes. Reputable AICTE-approved B-schools like GL Bajaj (Greater Noida), ITS Ghaziabad, FIIB Delhi, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/), Lexicon MILE Pune, and ISBR Bangalore offer quality management programs with average packages between INR 6.5 LPA and INR 9.0 LPA.
 
 ### Is direct admission possible for 50-60 percentile candidates in CAT?
 Yes, many established private universities and autonomous B-schools offer profile-based direct admission, management quota seats, or accept alternate national exams like CMAT, MAT, and ATMA.
@@ -165,6 +165,6 @@ If you need immediate career transition and can join a recognized college offeri
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -125,13 +125,13 @@ Your MAT May 2026 scorecard is valid for **12 months** from the date of declarat
 
 Once you receive your score, these are the top MBA institutes accepting MAT across Delhi NCR and beyond:
 
-- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** – Composite score 500+ preferred
-- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** – Strong MAT-accepting B-School
-- **[NDIM Delhi](/blog/ndim-delhi-review-2027-29)** – Direct admissions with MAT score
-- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** – Banking & Finance MBA accepting MAT
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** – Top PGDM college accepting MAT
+- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** – Composite score 500+ preferred
+- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/)** – Strong MAT-accepting B-School
+- **[NDIM Delhi](/blog/ndim-delhi-review-2027-29/)** – Direct admissions with MAT score
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** – Banking & Finance MBA accepting MAT
+- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** – Top PGDM college accepting MAT
 
-For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
+For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
 ---
 
@@ -140,13 +140,13 @@ For a complete list with cutoffs, read our guide: **[MBA Colleges Accepting MAT 
 Once you have your scorecard, act quickly. The admission window at most institutes is narrow:
 
 ### 1. Shortlist Colleges Based on Your Percentile
-Use your composite score and percentile to filter colleges where you have a realistic chance. Check our **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide)** guide.
+Use your composite score and percentile to filter colleges where you have a realistic chance. Check our **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** guide.
 
 ### 2. Apply Directly to B-Schools
 Most MAT-accepting colleges accept direct applications. Scores are also sent to up to 5 colleges you selected during registration.
 
 ### 3. Prepare for GD/PI Rounds
-Once shortlisted, you'll be called for Group Discussion (GD) and Personal Interview (PI). Read our **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)** guide to get ahead.
+Once shortlisted, you'll be called for Group Discussion (GD) and Personal Interview (PI). Read our **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)** guide to get ahead.
 
 ### 4. Consider Giving MAT Again
 If your score is not up to the mark, the **MAT September 2026** session is your next chance. It is the last session for 2027–29 batch admissions at many institutes.
@@ -177,9 +177,9 @@ Yes. Your MAT score is valid for 12 months, so it can be used for both the curre
 Since AIMA does not pre-announce the result date, bookmark the official site and check your dashboard daily from **mid-June 2026** onwards. Avoid third-party websites claiming early results — the only authentic source is **mat.aima.in**.
 
 For more updates on MBA entrance exams and admissions, read:
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam)**
-- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide)**
-- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29)**
+- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)**
+- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)**
+- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**
 
 ---
 
@@ -189,4 +189,4 @@ For more updates on MBA entrance exams and admissions, read:
 
 ### 🚀 Boost Your Score in the Next Session
 
-Not satisfied with your result? **[Explore Our Free MBA Mock Test Series](/mock-tests)** to practice for MAT September 2027–29 with real exam-pattern questions and detailed analytics.
+Not satisfied with your result? **[Explore Our Free MBA Mock Test Series](/mock-tests/)** to practice for MAT September 2027–29 with real exam-pattern questions and detailed analytics.

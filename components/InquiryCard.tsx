@@ -39,7 +39,7 @@ export function InquiryCard({
                     </p>
                     <div className="flex flex-wrap items-center justify-center md:justify-start gap-4">
                         <Link 
-                            href="/inquiry"
+                            href="/inquiry/"
                             className="bg-[#1a1a2e] text-white px-8 py-4 rounded-xl font-black uppercase text-xs tracking-widest flex items-center gap-3 hover:bg-emerald-600 transition-all hover:scale-105"
                         >
                             {cta} <ArrowUpRight className="w-4 h-4" />

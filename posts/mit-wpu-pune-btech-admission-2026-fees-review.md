@@ -3,7 +3,7 @@ title: 'MIT-WPU Pune B.Tech Admission 2026: Fees, Cutoffs & Placement Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at [MIT World Peace University
-  (MIT-WPU)](/colleges/mit-wpu-pune) Pune? Get the latest on JEE Main/MHT-CET
+  (MIT-WPU)](/colleges/mit-wpu-pune/) Pune? Get the latest on JEE Main/MHT-CET
   cutoffs, semester-wise fees, and its incredible ₹51 LPA placement record for
   2026-2027 admissions & career guidance.
 keywords:
@@ -44,7 +44,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-**[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)**, located in the prestigious Kothrud area of Pune, is one of the most popular private engineering universities in India. Formerly known as MIT Pune, it rebranded into a university and is renowned for its state-of-the-art infrastructure, high-quality faculty, and strong corporate connections.
+**[MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)**, located in the prestigious Kothrud area of Pune, is one of the most popular private engineering universities in India. Formerly known as MIT Pune, it rebranded into a university and is renowned for its state-of-the-art infrastructure, high-quality faculty, and strong corporate connections.
 
 If you are an engineering aspirant looking at **MIT-WPU B.Tech 2026 admission**, here is everything you need to know about the process, cutoffs, and ROI.
 
@@ -89,14 +89,14 @@ MIT-WPU is known for its strong placement cell, which provides 100% placement as
 *   **Global Exposure**: MIT-WPU has tie-ups with numerous international universities for research and exchange programs.
 
 Explore more engineering colleges in Pune:
-*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026)**
-*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026/)**
+*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026/)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)**
 
 **Need Help with the MIT-WPU Direct Application?**
 Unlike many other Pune colleges, MIT-WPU has its own registration portal and deadlines. At **CareerWithMohit**, we help students navigate the direct application process and understand the difference between a JEE-based offer vs. an MHT-CET based offer.
 
-[👉 Get Expert Admission Guidance for MIT-WPU!](/inquiry)
+[👉 Get Expert Admission Guidance for MIT-WPU!](/inquiry/)
 
 ---
 
@@ -118,6 +118,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -79,14 +79,14 @@ export function College4SureOffersBand() {
 
               <div className="mt-8 flex flex-wrap gap-3.5">
                 <Link
-                  href="/mba-application-form-discount"
+                  href="/mba-application-form-discount/"
                   className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#F59E0B]/90 text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group hover:-translate-y-0.5"
                 >
                   <span>See all 55+ fee offers</span>
                   <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
                 </Link>
                 <Link
-                  href="/book-session"
+                  href="/book-session/"
                   className="px-5 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/25 text-white font-bold text-sm sm:text-base transition-all backdrop-blur-sm"
                 >
                   Book free advisory call

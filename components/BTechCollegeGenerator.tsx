@@ -230,7 +230,7 @@ export function BTechCollegeGenerator() {
                 <p className="text-slate-600 font-bold">
                   Found <span className="text-blue-600 font-black text-xl">{results.length}</span> colleges matching your profile
                 </p>
-                <Link href="/inquiry" prefetch={false} className="text-xs font-black uppercase tracking-widest text-blue-600 hover:text-slate-900 flex items-center gap-1 transition-colors">
+                <Link href="/inquiry/" prefetch={false} className="text-xs font-black uppercase tracking-widest text-blue-600 hover:text-slate-900 flex items-center gap-1 transition-colors">
                   Get Expert Help <ArrowRight className="w-3 h-3" />
                 </Link>
               </div>
@@ -295,7 +295,7 @@ export function BTechCollegeGenerator() {
                               </Link>
                             ) : (
                               <Link
-                                href="/inquiry"
+                                href="/inquiry/"
                                 prefetch={false}
                                 className="flex items-center justify-between text-xs font-black uppercase tracking-widest text-slate-400 hover:text-blue-600 transition-colors group"
                               >
@@ -319,7 +319,7 @@ export function BTechCollegeGenerator() {
                   Get a personalized shortlist with direct admission strategies from Mohit Jain — India's trusted B.Tech counsellor.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <Link href="/inquiry" prefetch={false} className="bg-white text-blue-700 font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-blue-50 transition-all shadow-lg">
+                  <Link href="/inquiry/" prefetch={false} className="bg-white text-blue-700 font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-blue-50 transition-all shadow-lg">
                     Free Counselling →
                   </Link>
                   <a href="https://wa.me/919560020771" className="border-2 border-white/40 text-white font-black uppercase tracking-widest text-xs px-8 py-4 rounded-2xl hover:bg-white/10 transition-all">

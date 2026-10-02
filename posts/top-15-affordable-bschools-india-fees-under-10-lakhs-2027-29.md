@@ -60,7 +60,7 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 
 | Rank | College Name | Location | Total Tuition Fee | Average Placement Package | ROI Ratio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | **[FMS Delhi](/colleges/fms-delhi)** | Delhi | ₹2.00 Lakhs | ₹34.10 LPA | **1705%** |
+| **1** | **[FMS Delhi](/colleges/fms-delhi/)** | Delhi | ₹2.00 Lakhs | ₹34.10 LPA | **1705%** |
 | **2** | **SIMSREE** | Mumbai | ₹1.36 Lakhs | ₹15.19 LPA | **1116%** |
 | **3** | **PUMBA** | Pune | ₹1.35 Lakhs | ₹8.85 LPA | **655%** |
 | **4** | **IISWBM** | Kolkata | ₹3.85 Lakhs | ₹8.50 LPA | **220%** |
@@ -68,10 +68,10 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 | **6** | **DPT IIT Roorkee** | Roorkee | ₹8.50 Lakhs | ₹18.34 LPA | **215%** |
 | **7** | **VGSOM IIT Kharagpur** | Kharagpur | ₹11.50 Lakhs | ₹22.13 LPA | **192%** |
 | **8** | **IMS DAVV** | Indore | ₹1.40 Lakhs | ₹6.80 LPA | **485%** |
-| **9** | **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA | **83%** |
+| **9** | **[GIBS Business School](/colleges/gibs-bangalore/)** | Bangalore | ₹8.90 Lakhs | ₹7.40 LPA | **83%** |
 | **10** | **GNIOT (GIMS)** | Greater Noida | ₹6.78 Lakhs | ₹7.25 LPA | **107%** |
 | **11** | **GL Bajaj Inst. of Mgmt** | Greater Noida | ₹6.90 Lakhs | ₹7.35 LPA | **106%** |
-| **12** | **[RIIM Pune](/colleges/riim-pune)** | Pune | ₹6.90 Lakhs | ₹7.15 LPA | **103%** |
+| **12** | **[RIIM Pune](/colleges/riim-pune/)** | Pune | ₹6.90 Lakhs | ₹7.15 LPA | **103%** |
 | **13** | **IBA Bangalore** | Bangalore | ₹9.78 Lakhs | ₹7.80 LPA | **80%** |
 | **14** | **JIMS Kalkaji** | Delhi | ₹9.30 Lakhs | ₹8.10 LPA | **87%** |
 | **15** | **FMS-IRM** | Jaipur | ₹7.20 Lakhs | ₹7.10 LPA | **98%** |
@@ -80,17 +80,17 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 
 ## Detailed Analysis of Top Value B-Schools
 
-### 1. [FMS Delhi](/colleges/fms-delhi) & SIMSREE Mumbai (The ROI Titans)
+### 1. [FMS Delhi](/colleges/fms-delhi/) & SIMSREE Mumbai (The ROI Titans)
 * Both institutes are government-backed management institutions. While FMS admissions require 98+ percentile in CAT, SIMSREE accepts MAH-CET and CAT.
 
 ### 2. IISWBM Kolkata
 * India's first management institute. Offering MBA in Finance, Human Resources, Marketing, and Systems for under ₹4 Lakhs total fee.
 
 ### 3. GNIOT GIMS & GL Bajaj Greater Noida
-* Situated in Greater Noida Knowledge Park, these AICTE-approved PGDM colleges charge under ₹7 Lakhs total fee and deliver 100% campus placement support. Read [All About GNIOT GIMS](/colleges/gniot-greater-noida) and [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
+* Situated in Greater Noida Knowledge Park, these AICTE-approved PGDM colleges charge under ₹7 Lakhs total fee and deliver 100% campus placement support. Read [All About GNIOT GIMS](/colleges/gniot-greater-noida/) and [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida/).
 
-### 4. [RIIM Pune](/colleges/riim-pune) & GIBS Bangalore
-* Premier autonomous PGDM institutes providing practical industry exposure, dual specializations, and living assistance under ₹9 Lakhs total investment. Read [All About RIIM Pune](/blog/all-about-riim-pune) and [All About GIBS Bangalore](/colleges/gibs-bangalore).
+### 4. [RIIM Pune](/colleges/riim-pune/) & GIBS Bangalore
+* Premier autonomous PGDM institutes providing practical industry exposure, dual specializations, and living assistance under ₹9 Lakhs total investment. Read [All About RIIM Pune](/blog/all-about-riim-pune/) and [All About GIBS Bangalore](/colleges/gibs-bangalore/).
 
 ---
 
@@ -103,6 +103,6 @@ For the **2027-29 admission cycle**, here is the curated list of the **Top 15 Af
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

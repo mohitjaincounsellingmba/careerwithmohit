@@ -42,7 +42,7 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The Common Admission Test (CAT) is the most prestigious and competitive national-level MBA entrance exam in India, serving as the gateway to the elite Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and over 1,200 other top-tier business schools.
+The Common Admission Test (CAT) is the most prestigious and competitive national-level MBA entrance exam in India, serving as the gateway to the elite Indian Institutes of Management (IIMs), [FMS Delhi](/colleges/fms-delhi/), SPJIMR, MDI, and over 1,200 other top-tier business schools.
 
 If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 2027–29 application form open date** is crucial. Missing the registration deadline means waiting a full year for the next opportunity.
 
@@ -56,7 +56,7 @@ If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 
 
 ## Official CAT 2026 Registration Dates & Schedule
 
-The official notification for CAT 2026 has been released on July 26, 2026, by [IIM Indore](/colleges/iim-indore). The official registration cycle follows this schedule:
+The official notification for CAT 2026 has been released on July 26, 2026, by [IIM Indore](/colleges/iim-indore/). The official registration cycle follows this schedule:
 
 | Event | Official Date / Timeline |
 | :--- | :--- |
@@ -139,10 +139,10 @@ You will need a scanned passport-size photograph, your signature, category certi
 
 ### Recommended Resources:
 
-* **[Comprehensive Guide to CAT Exam Patterns & Syllabus](/blog/all-about-cat-exam)**
-* **[10 Proven Tips to Crack CAT 2026 by IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29)**
-* **[Top MBA Entrance Exams in India: Dates, Syllabus & Fees](/blog/top-mba-entrance-exams-2026-guide)**
-* **[IIM Cutoffs & Admission Criteria for 2027–29 Batch](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)**
+* **[Comprehensive Guide to CAT Exam Patterns & Syllabus](/blog/all-about-cat-exam/)**
+* **[10 Proven Tips to Crack CAT 2026 by IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[Top MBA Entrance Exams in India: Dates, Syllabus & Fees](/blog/top-mba-entrance-exams-2026-guide/)**
+* **[IIM Cutoffs & Admission Criteria for 2027–29 Batch](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
 
 
 
@@ -150,6 +150,6 @@ You will need a scanned passport-size photograph, your signature, category certi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

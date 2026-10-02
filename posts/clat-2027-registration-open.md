@@ -123,16 +123,16 @@ After successful payment, your CLAT 2027 registration is complete. Download the 
 ---
 
 ## 🔗 Related Resources
-- [All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation](/blog/all-about-clat-exam)
-- [5-Year LLB vs 3-Year LLB: Which is Better for Your Career?](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
-- [AILET 2026: NLU Delhi Admission Guide](/blog/ailet-2026-nlu-delhi-admission-guide)
+- [All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation](/blog/all-about-clat-exam/)
+- [5-Year LLB vs 3-Year LLB: Which is Better for Your Career?](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+- [AILET 2026: NLU Delhi Admission Guide](/blog/ailet-2026-nlu-delhi-admission-guide/)
 
 ---
 
 ## 📞 Need Help with Law Admissions?
 Are you confused about which NLU to target or how to structure your CLAT preparation strategy? We are here to guide you through the process.
 
-[👉 Book a Law Career Counselling Session with Mohit Jain](/inquiry) | [💬 Chat with Our Admission Experts](/inquiry)
+[👉 Book a Law Career Counselling Session with Mohit Jain](/inquiry/) | [💬 Chat with Our Admission Experts](/inquiry/)
 
 ---
 
@@ -151,6 +151,6 @@ The application fee for General/OBC/PWD/NRI/PIO/OCI candidates is usually ₹4,0
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium CLAT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium CLAT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

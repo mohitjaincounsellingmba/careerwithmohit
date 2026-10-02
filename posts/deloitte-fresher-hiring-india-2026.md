@@ -102,12 +102,12 @@ Deloitte’s hiring process is known for being rigorous yet structured:
 ### **[👉 CLICK HERE TO EXPLORE DELOITTE CAREERS](https://www2.deloitte.com/in/en/careers/students.html)**
 
 ### **Related Career Resources:**
-- [Amazon Fresher Hiring 2026: Apply Now](/blog/amazon-fresher-hiring-pan-india-2026)
-- [EY India Fresher Hiring 2026: Tech & Consulting](/blog/ey-fresher-hiring-india-2026)
-- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [Career Roadmaps for 2026 Success](/blog/career-roadmaps-2027-29)
+- [Amazon Fresher Hiring 2026: Apply Now](/blog/amazon-fresher-hiring-pan-india-2026/)
+- [EY India Fresher Hiring 2026: Tech & Consulting](/blog/ey-fresher-hiring-india-2026/)
+- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+- [Career Roadmaps for 2026 Success](/blog/career-roadmaps-2027-29/)
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -129,6 +129,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

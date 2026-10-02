@@ -56,13 +56,13 @@ state: Maharashtra
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | Exams Accepted & Cutoff | Accreditation / Affiliation |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/colleges/sibm-pune) (Symbiosis)** | ₹24.50 Lakhs | ₹28.16 LPA | SNAP (98.0+ %ile) | Deemed University · Tier-1 Flagship |
-| **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹25.20 Lakhs | ₹24.28 LPA | SNAP (97.0+ %ile) | Top HR & Infrastructure B-School |
+| **[SIBM Pune](/colleges/sibm-pune/) (Symbiosis)** | ₹24.50 Lakhs | ₹28.16 LPA | SNAP (98.0+ %ile) | Deemed University · Tier-1 Flagship |
+| **[SCMHRD Pune](/colleges/scmhrd-pune/)** | ₹25.20 Lakhs | ₹24.28 LPA | SNAP (97.0+ %ile) | Top HR & Infrastructure B-School |
 | **PUMBA (Dept. of Mgmt. Sciences)** | ₹2.50 Lakhs | ₹8.85 LPA | MAH-CET (99.0+ %ile) · CAT/CMAT | Savitribai Phule Pune University |
-| **[PIBM Pune](/colleges/pibm-pune) (Praxis Business)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA/CET | AICTE Approved · NBA Accredited |
-| **[RIIM Pune](/colleges/riim-pune) (Arihant Group)** | ₹6.60L – ₹8.90L | ₹7.20 LPA | CAT/MAT/CMAT/ATMA/MAH-CET | Pune University Affiliated / AICTE |
+| **[PIBM Pune](/colleges/pibm-pune/) (Praxis Business)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA/CET | AICTE Approved · NBA Accredited |
+| **[RIIM Pune](/colleges/riim-pune/) (Arihant Group)** | ₹6.60L – ₹8.90L | ₹7.20 LPA | CAT/MAT/CMAT/ATMA/MAH-CET | Pune University Affiliated / AICTE |
 | **Lexicon MILE Pune** | ₹8.90 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT/ATMA | AICTE Approved · Experiential Learning |
-| **[ISMS Pune](/colleges/isms-pune)** | ₹6.50 Lakhs | ₹6.80 LPA | CAT/MAT/CMAT/ATMA/Direct Merit | AICTE Approved · International Exposure |
+| **[ISMS Pune](/colleges/isms-pune/)** | ₹6.50 Lakhs | ₹6.80 LPA | CAT/MAT/CMAT/ATMA/Direct Merit | AICTE Approved · International Exposure |
 | **Balaji Institute of Modern Mgmt (BIMM)** | ₹12.50 Lakhs | ₹8.60 LPA | CAT/XAT/MAT/CMAT/MH-CET | Sri Balaji University Pune |
 | **NIBM Pune** | ₹16.00 Lakhs | ₹15.22 LPA | CAT / XAT / CMAT (85+ %ile) | RBI Established Banking B-School |
 | **NIA Pune (National Insurance Academy)** | ₹12.50 Lakhs | ₹12.50 LPA | CAT / CMAT (75+ %ile) | Ministry of Finance Supported |
@@ -75,7 +75,7 @@ state: Maharashtra
 Yes, all AICTE-approved autonomous PGDM institutes in Pune accept national scores like MAT, CMAT, ATMA, CAT, and XAT, and conduct institutional interview rounds.
 
 ### Which Pune B-School offers the highest ROI for a budget below ₹10 Lakhs?
-[PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), and Lexicon MILE offer the strongest ROI in the ₹6.5L – ₹9.5L fee bracket with consistent 100% placement track records in top MNCs.
+[PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), and Lexicon MILE offer the strongest ROI in the ₹6.5L – ₹9.5L fee bracket with consistent 100% placement track records in top MNCs.
 
 ---
 
@@ -88,6 +88,6 @@ Get 1-on-1 profile evaluation, Pune college comparison, hostel and fee structure
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

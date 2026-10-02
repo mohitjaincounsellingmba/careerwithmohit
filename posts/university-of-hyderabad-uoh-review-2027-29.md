@@ -92,10 +92,10 @@ UoH offers extensive and highly subsidized accommodation, making it an excellent
 *   **Mess Charges:** Typically range from **₹2,500 to ₹3,500 per month**. Additional fee waivers or exemptions are available for SC/ST students with valid income certificates.
 
 ### **Check Other University Guides:**
-*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2027–29](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2027-29)
-*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29)
+*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2027–29](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29/)
 
-[👉 Get Admission Consultation for Central Universities!](/inquiry)
+[👉 Get Admission Consultation for Central Universities!](/inquiry/)
 
 ---
 
@@ -113,6 +113,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -163,18 +163,18 @@ They prove that in logistics, **the simplest process that solves the problem is 
 ---
 
 ### **Related Logistics & Strategy Case Studies:**
-*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain)
-*   [Amul Cooperative Model: Cold-Chain Logistics & Reverse Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain)
-*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization)
+*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain/)
+*   [Amul Cooperative Model: Cold-Chain Logistics & Reverse Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain/)
+*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization/)
 
-[👉 Want to crack your MBA operations interview? Talk to our expert counselors today!](/inquiry)
+[👉 Want to crack your MBA operations interview? Talk to our expert counselors today!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -185,6 +185,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

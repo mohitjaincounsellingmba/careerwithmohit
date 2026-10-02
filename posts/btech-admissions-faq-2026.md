@@ -42,7 +42,7 @@ Entering the world of engineering can be overwhelming. With dozens of entrance e
 ### **Entrance Exams & Eligibility**
 
 **1. What are the main entrance exams for B.Tech in India?**
-JEE Main (for NITs, IIITs, GFTIs) and JEE Advanced (for IITs) are the primary exams. Other popular ones include BITSAT (for [BITS Pilani](/colleges/bits-pilani)), VITEEE, SRMJEEE, and state-level exams like MHT-CET, KCET, and WBJEE.
+JEE Main (for NITs, IIITs, GFTIs) and JEE Advanced (for IITs) are the primary exams. Other popular ones include BITSAT (for [BITS Pilani](/colleges/bits-pilani/)), VITEEE, SRMJEEE, and state-level exams like MHT-CET, KCET, and WBJEE.
 
 **2. What is the 75% criteria for JEE Main?**
 To get admission into NITs, IIITs, and CFTIs through the JoSAA counseling, General/OBC candidates must score at least 75% in their Class 12th board exams (65% for SC/ST).
@@ -134,11 +134,11 @@ Check these three pillars:
 **Confused about your JEE rank or which engineering branch fits your profile?**
 Our tools are designed to give you clarity and confidence.
 
-[👉 Use our Career Roadmap Calculator to plan your 4 years](/calculator/career-roadmap)
-[👉 Explore Top Engineering Colleges & Cutoffs](/colleges)
+[👉 Use our Career Roadmap Calculator to plan your 4 years](/calculator/career-roadmap/)
+[👉 Explore Top Engineering Colleges & Cutoffs](/colleges/)
 
 **Need Personal Mentorship?**
-[👉 Talk to our Engineering Experts Now](/inquiry)
+[👉 Talk to our Engineering Experts Now](/inquiry/)
 
 
 
@@ -161,6 +161,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

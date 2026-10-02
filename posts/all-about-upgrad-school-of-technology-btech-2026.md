@@ -54,7 +54,7 @@ Here is a comprehensive, unbiased review of upGrad School of Technology B.Tech a
 > 
 > Get expert profile evaluation, explore scholarship eligibility, and select your ideal campus.
 >
-> [👉 Connect with Our Admission Experts & Apply Now](/inquiry)
+> [👉 Connect with Our Admission Experts & Apply Now](/inquiry/)
 
 ---
 
@@ -145,15 +145,15 @@ Admissions to upGrad School of Technology are holistic and aptitude-based.
 
 ---
 
-[👉 Still confused about which partner university campus is right for you? Connect with our career advisors for a free session!](/inquiry)
+[👉 Still confused about which partner university campus is right for you? Connect with our career advisors for a free session!](/inquiry/)
 
 ---
 
 *Related Posts:*
-- [All About Intellipaat School of Technology: B.Tech Fees, Placements & Campuses 2026](/blog/all-about-intellipaat-school-of-technology-btech-2026)
-- [All About Alta School of Technology: B.Tech USPs, Fees, Placements & Partner Colleges 2026](/blog/all-about-alta-school-of-technology-btech-2026)
-- [Scaler vs. Newton School of Technology: A Critical Negative Review](/blog/scaler-vs-newton-school-of-technology-negative-review)
-- [Best B.Tech CSE Colleges in Delhi NCR: Direct Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
+- [All About Intellipaat School of Technology: B.Tech Fees, Placements & Campuses 2026](/blog/all-about-intellipaat-school-of-technology-btech-2026/)
+- [All About Alta School of Technology: B.Tech USPs, Fees, Placements & Partner Colleges 2026](/blog/all-about-alta-school-of-technology-btech-2026/)
+- [Scaler vs. Newton School of Technology: A Critical Negative Review](/blog/scaler-vs-newton-school-of-technology-negative-review/)
+- [Best B.Tech CSE Colleges in Delhi NCR: Direct Admission 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
 
 ---
 
@@ -171,6 +171,6 @@ Candidates must be under 20 years of age as of July 2026 to be eligible for admi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

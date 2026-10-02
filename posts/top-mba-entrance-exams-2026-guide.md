@@ -56,7 +56,7 @@ This guide breaks down every major MBA entrance exam for the 2027–2029 intake,
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 ## **CAT (Common Admission Test) - The Gold Standard**
-*   **Best For**: 21 IIMs, [FMS Delhi](/colleges/fms-delhi), SPJIMR, MDI, and IITs.
+*   **Best For**: 21 IIMs, [FMS Delhi](/colleges/fms-delhi/), SPJIMR, MDI, and IITs.
 *   **Conducting Body**: IIMs (on rotation).
 *   **Exam Date**: November 30, 2025 (Tentative).
 *   **Registration**: August - September 2025.
@@ -65,8 +65,8 @@ This guide breaks down every major MBA entrance exam for the 2027–2029 intake,
 *   **Placements**: Average package at top IIMs ranges from ₹28 LPA to ₹35 LPA.
 
 #### **XAT (Xavier Aptitude Test) - The Decision Maker**
-*   **Best For**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi, XIMB, IMT Ghaziabad, and 800+ others.
-*   **Conducting Body**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
+*   **Best For**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)/Delhi, XIMB, IMT Ghaziabad, and 800+ others.
+*   **Conducting Body**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/).
 *   **Exam Date**: January 4, 2026 (Tentative).
 *   **Registration**: July - December 2025.
 *   **Frequency**: Once a year.
@@ -74,20 +74,20 @@ This guide breaks down every major MBA entrance exam for the 2027–2029 intake,
 *   **Placements**: XLRI median package is around ₹30 LPA.
 
 #### **NMAT by GMAC - The Flexible Choice**
-*   **Best For**: [NMIMS Mumbai](/colleges/nmims-mumbai)/Bangalore, XIMB, K J Somaiya.
+*   **Best For**: [NMIMS Mumbai](/colleges/nmims-mumbai/)/Bangalore, XIMB, K J Somaiya.
 *   **Conducting Body**: GMAC.
 *   **Exam Window**: November – December 2025 (Select your own date).
 *   **Frequency**: Multiple attempts allowed (up to 3).
 *   **Application Fee**: ~₹3,000 per attempt.
-*   **Placements**: [NMIMS Mumbai](/colleges/nmims-mumbai) average package is ~₹25 LPA.
+*   **Placements**: [NMIMS Mumbai](/colleges/nmims-mumbai/) average package is ~₹25 LPA.
 
 #### **SNAP (Symbiosis National Aptitude Test)**
-*   **Best For**: 16 Symbiosis Institutes ([SIBM Pune](/colleges/sibm-pune), SCMHRD).
+*   **Best For**: 16 Symbiosis Institutes ([SIBM Pune](/colleges/sibm-pune/), SCMHRD).
 *   **Conducting Body**: Symbiosis International University.
 *   **Exam Dates**: Multiple dates in December 2025.
 *   **Frequency**: Up to 3 attempts allowed.
 *   **Application Fee**: ~₹2,250 per attempt.
-*   **Placements**: [SIBM Pune](/colleges/sibm-pune) average package is ~₹26 LPA.
+*   **Placements**: [SIBM Pune](/colleges/sibm-pune/) average package is ~₹26 LPA.
 
 ---
 
@@ -128,11 +128,11 @@ Applying for these exams usually happens online via their official portals. Foll
 
 | College | Entrance Exam | Approx. Fees | Median Placement |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | CAT | ₹25 Lakhs | ₹33 LPA |
-| **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹2 Lakhs | ₹31 LPA |
-| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | XAT | ₹26 Lakhs | ₹30 LPA |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
-| **[SIBM Pune](/colleges/sibm-pune)** | SNAP | ₹24 Lakhs | ₹24 LPA |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | CAT | ₹25 Lakhs | ₹33 LPA |
+| **[FMS Delhi](/colleges/fms-delhi/)** | CAT | ₹2 Lakhs | ₹31 LPA |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** | XAT | ₹26 Lakhs | ₹30 LPA |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | CAT/XAT | ₹22 Lakhs | ₹32 LPA |
+| **[SIBM Pune](/colleges/sibm-pune/)** | SNAP | ₹24 Lakhs | ₹24 LPA |
 
 ---
 
@@ -144,18 +144,18 @@ Don't put all your eggs in one basket. **Apply for at least 3 exams**: One "Ambi
 **Confused about your preparation or which exam fits your profile?**
 We are here to guide you from registration to the final interview.
 
-[👉 Use our MBA College Predictor Tool](/calculator/certification)
-[👉 View Full List of 1300+ MBA Colleges & Fees](/colleges)
+[👉 Use our MBA College Predictor Tool](/calculator/certification/)
+[👉 View Full List of 1300+ MBA Colleges & Fees](/colleges/)
 
 **Need Personalized Admission Guidance?**
-[👉 Talk to our MBA Experts Today](/inquiry)
+[👉 Talk to our MBA Experts Today](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -170,7 +170,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -184,6 +184,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

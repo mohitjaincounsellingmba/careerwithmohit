@@ -55,10 +55,10 @@ This guide outlines the step-by-step process, eligibility criteria, and fee stru
 
 Here are top business schools that offer admissions based on overall profile (10th/12th/Graduation marks + work experience) rather than exam cutoffs:
 
-* **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) (Delhi NCR)** - ₹11.50L - ₹13.75L (Total) - 100% Placements
+* **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) (Delhi NCR)** - ₹11.50L - ₹13.75L (Total) - 100% Placements
 * **FOSTIIMA Business School (Dwarka, Delhi)** - ₹11.50 Lakhs (Total) - IIM Alumni Legacy
 * **JIMS Kalkaji (Jagannath International) (Kalkaji, Delhi)** - ₹10.75 Lakhs (Total) - High ROI B-School
-* **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida) (Noida)** - ₹2.90L - ₹8.25L (Total) - IBM Partnered PGDM
+* **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/) (Noida)** - ₹2.90L - ₹8.25L (Total) - IBM Partnered PGDM
 * **Pune Institute of Business Management (PIBM) (Pune)** - ₹8.50L - ₹10.00L (Total) - Corporate Integration Leader
 
 ---
@@ -66,14 +66,14 @@ Here are top business schools that offer admissions based on overall profile (10
 ### ⚠️ Warning Regarding Direct Admissions
 Beware of unauthorized consultants claiming to guarantee seats. Always verify the college's AICTE approvals and deal with official representatives.
 
-[👉 Consult Mohit Jain for Direct Admission Profile Review](/mba-pgdm-admission-2027)
+[👉 Consult Mohit Jain for Direct Admission Profile Review](/mba-pgdm-admission-2027/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -86,6 +86,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

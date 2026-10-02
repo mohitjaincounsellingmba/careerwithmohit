@@ -48,7 +48,7 @@ state: Maharashtra
 
 The NMAT by GMAC (NMIMS Management Aptitude Test) is one of the most popular candidate-friendly MBA entrance exams in India. Conducted by the Graduate Management Admission Council (GMAC), NMAT scores are the sole path to NMIMS University campuses (Mumbai, Bengaluru, Hyderabad, Navi Mumbai, Indore, Shirpur) and are accepted by other prestigious business schools like K J Somaiya, XIMB, SDA Bocconi, and VIT University.
 
-Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting [NMIMS Mumbai](/colleges/nmims-mumbai) or other leading institutes for the 2027 batch, staying on top of the **NMAT 2027–29 application form open date** is critical.
+Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduling flexibility, adaptive test design, and multi-attempt model. If you are targeting [NMIMS Mumbai](/colleges/nmims-mumbai/) or other leading institutes for the 2027 batch, staying on top of the **NMAT 2027–29 application form open date** is critical.
 
 ---
 
@@ -88,12 +88,12 @@ Below is the expected fee distribution for the different stages of the NMAT cycl
 
 ## Crucial NMAT Guidelines: Attempts & Retakes
 
-To maximize your chances of getting into [NMIMS Mumbai](/colleges/nmims-mumbai), you need to understand NMAT's unique testing rules:
+To maximize your chances of getting into [NMIMS Mumbai](/colleges/nmims-mumbai/), you need to understand NMAT's unique testing rules:
 
 1. **Three Maximum Attempts:** You can attempt the NMAT a maximum of **three times** in a single testing cycle (1 main attempt + 2 retakes).
 2. **15-Day Gap:** If you choose to retake the exam to improve your score, there must be a mandatory gap of **at least 15 days** between the two exam dates.
 3. **Adaptive Test Design:** NMAT is a computer-adaptive exam. The difficulty level of the next question is determined by whether your answer to the current question is correct or incorrect. There is no negative marking!
-4. **NMIMS Cutoff Policy:** **IMPORTANT Note:** [NMIMS Mumbai](/colleges/nmims-mumbai) only accepts the score of your **first attempt** for their final admission list. Retake scores are generally not considered by [NMIMS Mumbai](/colleges/nmims-mumbai), although other accepting institutes accept retake scores.
+4. **NMIMS Cutoff Policy:** **IMPORTANT Note:** [NMIMS Mumbai](/colleges/nmims-mumbai/) only accepts the score of your **first attempt** for their final admission list. Retake scores are generally not considered by [NMIMS Mumbai](/colleges/nmims-mumbai/), although other accepting institutes accept retake scores.
 
 ---
 
@@ -127,10 +127,10 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 ### Recommended Resources:
 
-* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/all-about-nmat-exam)**
-* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/all-about-nmims-campuses)**
-* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/all-about-omets-mba-entrance-exams-2027-29)**
-* **[Best MBA Colleges Acceptable with 200+ NMAT Score](/blog/baby-iims-review-2026-honest-analysis)**
+* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/all-about-nmat-exam/)**
+* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/all-about-nmims-campuses/)**
+* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/all-about-omets-mba-entrance-exams-2027-29/)**
+* **[Best MBA Colleges Acceptable with 200+ NMAT Score](/blog/baby-iims-review-2026-honest-analysis/)**
 
 *Source: Official guidelines on the GMAC website.*
 
@@ -138,6 +138,6 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

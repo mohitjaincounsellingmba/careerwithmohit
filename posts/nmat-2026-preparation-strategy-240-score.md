@@ -38,7 +38,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **[NMIMS Mumbai](/colleges/nmims-mumbai)**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.
+The NMAT by GMAC™ is one of the most student-friendly entrance exams in India, but don't let its "friendly" reputation fool you. To get into the prestigious **[NMIMS Mumbai](/colleges/nmims-mumbai/)**, you need a score of **240+** (scaled), which requires a unique blend of speed, accuracy, and strategic decision-making.
 
 Since NMAT is an **adaptive test**, your performance on each question determines the difficulty of the next. Here is your definitive roadmap to mastering NMAT 2026.
 
@@ -85,30 +85,30 @@ NMAT LR is a mix of verbal and analytical reasoning.
 ## 🚪 Top Colleges Accepting NMAT 2026
 1.  **NMIMS (Mumbai, Bengaluru, Hyderabad)**
 2.  **XIM University, Bhubaneswar**
-3.  **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai**
+3.  **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/), Mumbai**
 4.  **SDA Bocconi Asia Center, Mumbai**
 5.  **TAPMI, Manipal**
 
 ---
 
 ## 🔗 Relevant Internal Links
-*   [How to Crack CAT 2026: Roadmap](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [Direct MBA Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
+*   [How to Crack CAT 2026: Roadmap](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [Direct MBA Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 ---
 
 ## 📞 Get Personalized NMAT Mentorship
 Struggling with a plateaued score? Our mentors include NMAT toppers who help you refine your strategy and crack the 240+ barrier.
 
-[👉 Book a Strategy Session](/inquiry) | [💬 WhatsApp our Expert](https://wa.me/919560020771)
+[👉 Book a Strategy Session](/inquiry/) | [💬 WhatsApp our Expert](https://wa.me/919560020771)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.

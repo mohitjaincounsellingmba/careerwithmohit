@@ -114,16 +114,16 @@ Rarely for front-end investment roles. However, they may hire from Tier-2 school
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29/)
 
 ---
 
 **Step Into the World of High-Impact Investing.**
 The Buy-Side is where the real power in finance lies. Don't waste your effort by applying with a generic resume. Mohit Jain provides a **"Buy-Side Selection Audit"**—helping you build the "Investment Memorandums" and sourcing strategies that prove you have the "Investor Instinct" needed for VC and PE.
 
-[👉 Book My High-Finance Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My High-Finance Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -131,6 +131,6 @@ The Buy-Side is where the real power in finance lies. Don't waste your effort by
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -58,7 +58,7 @@ The **Indian Institute of Technology (IIT) Delhi** is consistently ranked as the
 4.  **Reporting**: Physical reporting and fee payment at the Hauz Khas campus.
 
 ### **Expected JEE Advanced Cutoffs 2026 (Closing Ranks)**
-Competition for IIT Delhi is the toughest in the country along with [IIT Bombay](/colleges/iit-bombay).
+Competition for IIT Delhi is the toughest in the country along with [IIT Bombay](/colleges/iit-bombay/).
 
 | Branch | General (All India Rank) |
 | :--- | :--- |
@@ -87,15 +87,15 @@ IIT Delhi placements are legendary, often featuring the highest international pa
 **Cons**: Extremely high academic pressure (competition with the brightest minds), some older hostel infrastructure.
 
 Plan your JEE journey with our other resources:
-*   **[Total Seats in All IITs: 2026 Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
-*   **[NIT Delhi B.Tech: Admission & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees)**
-*   **[JEE Main 2026 Session 2: Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)**
+*   **[Total Seats in All IITs: 2026 Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix/)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)**
+*   **[NIT Delhi B.Tech: Admission & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees/)**
+*   **[JEE Main 2026 Session 2: Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card/)**
 
 **Targeting a Top 100 Rank?**
 Securing a seat in IIT Delhi CSE requires not just hard work, but a strategic approach to the JEE Advanced pattern. At **CareerWithMohit**, we provide branch-priority analysis to help you decide between IIT Delhi core branches and newer IIT CSE branches.
 
-[👉 Get Expert JEE Advanced Counselling Support!](/inquiry)
+[👉 Get Expert JEE Advanced Counselling Support!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. What JEE Advanced rank is needed for IIT Delhi CSE?**
@@ -114,6 +114,6 @@ The tuition fee is approximately ₹1.0 Lakh per semester for General/OBC studen
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

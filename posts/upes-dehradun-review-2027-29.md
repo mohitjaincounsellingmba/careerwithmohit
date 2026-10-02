@@ -55,7 +55,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive review of UPES (University of Petroleum and Energy Studies), Dehradun (Dehradun) for 2026. Check...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **UPES (University of Petroleum and Energy Studies), Dehradun**, situated in **Dehradun**, stands out as one of the premier destinations for undergraduate and postgraduate education in Uttarakhand.
@@ -64,9 +64,9 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-## 🏛️ [UPES Dehradun](/colleges/upes-dehradun): University Overview & Accreditation
+## 🏛️ [UPES Dehradun](/colleges/upes-dehradun/): University Overview & Accreditation
 
-[UPES Dehradun](/colleges/upes-dehradun), nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
+[UPES Dehradun](/colleges/upes-dehradun/), nestled in the picturesque foothills of the Himalayas at Bidholi and Kandoli, is an internationally acclaimed NAAC A accredited university. Famous for its specialized domain programs in Energy, Logistics, Computer Science (with IBM/Xebia tie-ups), Design, and Law, UPES boasts a 95%+ placement record with top energy and tech giants.
 
 ### Key Institutional Highlights (2026)
 
@@ -83,7 +83,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ---
 
-[InquiryCard title="Get Free Admission Counselling for [UPES Dehradun](/colleges/upes-dehradun) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
+[InquiryCard title="Get Free Admission Counselling for [UPES Dehradun](/colleges/upes-dehradun/) (2026)" description="Confused about eligibility, fee structures, cutoffs, or placement ROI? Connect with Mohit Jain for 1-on-1 career guidance and admission support." cta="Get Free Counselling" type="admission"]
 
 ---
 
@@ -114,13 +114,13 @@ A critical indicator of any university's strength is its corporate relations cel
 - **Top Visiting Employers:** ONGC, Schlumberger, KPMG, Deloitte, IBM, Microsoft, Amazon, Accenture, Adani, Reliance
 
 ### Return on Investment (ROI) Verdict
-When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, [UPES Dehradun](/colleges/upes-dehradun) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
+When comparing the annual tuition fees against the average placement compensation of **₹8.50 LPA - ₹10.20 LPA**, [UPES Dehradun](/colleges/upes-dehradun/) provides a solid ROI—especially for students graduating from flagship MBA, Computer Science Engineering, and specialized corporate degree tracks.
 
 ---
 
 ## 🏫 Campus Life, Infrastructure & Student Experience
 
-Life at **[UPES Dehradun](/colleges/upes-dehradun)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
+Life at **[UPES Dehradun](/colleges/upes-dehradun/)** extends far beyond traditional classrooms. The campus is designed to promote holistic development, physical fitness, and collaborative learning:
 
 1. **Smart Classrooms & Innovation Labs:** Air-conditioned classrooms equipped with audio-visual learning tools, alongside advanced computer, AI, and domain-specific research laboratories.
 2. **Central Library & Digital Archives:** Extensive collection of academic books, international research journals, IEEE/ACM databases, and quiet reading halls.
@@ -143,9 +143,9 @@ Securing admission to UPES (University of Petroleum and Energy Studies), Dehradu
 
 ## ⚖️ Pros & Cons (Honest Evaluation)
 
-To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[UPES Dehradun](/colleges/upes-dehradun)**:
+To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **[UPES Dehradun](/colleges/upes-dehradun/)**:
 
-### 👍 Why Choose [UPES Dehradun](/colleges/upes-dehradun)? (Pros)
+### 👍 Why Choose [UPES Dehradun](/colleges/upes-dehradun/)? (Pros)
 - **Unrivaled** domain specializations in Energy, Oil & Gas, Supply Chain Logistics, and Aviation Management
 - **Breathtaking** Himalayan campus environment in Bidholi and Kandoli, Dehradun
 - **Stellar** corporate tie-ups with IBM, Xebia, and Microsoft for co-branded engineering courses
@@ -173,20 +173,20 @@ Admissions for 2026 at UPES (University of Petroleum and Energy Studies), Dehrad
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
-## 📞 Need Expert Guidance for [UPES Dehradun](/colleges/upes-dehradun) Admissions?
+## 📞 Need Expert Guidance for [UPES Dehradun](/colleges/upes-dehradun/) Admissions?
 
 Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.
 
-[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
+[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry/) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
 
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.

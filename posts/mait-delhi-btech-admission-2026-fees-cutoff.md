@@ -87,14 +87,14 @@ MAIT is famous for sending students to top-tier product companies like Amazon an
 **Cons**: Small campus compared to DTU/NSUT, limited extracurricular facilities, located on the outskirts of North Delhi.
 
 Explore other top colleges in Delhi-NCR:
-*   [Maharaja Surajmal (MSIT): Admission Guide](/blog/msit-delhi-btech-admission-2026-fees-cutoff)
-*   [NIT Delhi: Cutoffs & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees)
-*   [JIIT Noida: Admission & Fees](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
+*   [Maharaja Surajmal (MSIT): Admission Guide](/blog/msit-delhi-btech-admission-2026-fees-cutoff/)
+*   [NIT Delhi: Cutoffs & Review](/blog/nit-delhi-btech-admission-2026-cutoff-fees/)
+*   [JIIT Noida: Admission & Fees](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff/)
 
 **Confused Between MAIT and MSIT?**
 While MAIT offers a more relaxed atmosphere and slightly better highest packages, MSIT is preferred for its discipline and Metro connectivity. At **CareerWithMohit**, we help you choose the right IPU college based on your specific JEE Main rank and home state advantage.
 
-[👉 Get Expert IPU Admission Guidance Now!](/inquiry)
+[👉 Get Expert IPU Admission Guidance Now!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is MAIT better than MSIT?**
@@ -113,6 +113,6 @@ Yes, MAIT provides separate hostel facilities for boys and girls with both AC an
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

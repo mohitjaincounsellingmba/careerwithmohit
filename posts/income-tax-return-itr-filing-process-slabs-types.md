@@ -43,7 +43,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-Filing an **Income Tax Return (ITR)** is an essential financial responsibility for earning individuals in India. Whether you are a salaried professional settling into your first job after an [MBA](/blog/mba-after-btech-benefits-2027-29) or a freelancer starting out independently, understanding ITR forms, the applicable tax slabs, and the updated filing process is vital.
+Filing an **Income Tax Return (ITR)** is an essential financial responsibility for earning individuals in India. Whether you are a salaried professional settling into your first job after an [MBA](/blog/mba-after-btech-benefits-2027-29/) or a freelancer starting out independently, understanding ITR forms, the applicable tax slabs, and the updated filing process is vital.
 
 In this comprehensive guide, we cover everything you need to know about ITR, the different types of forms, the latest tax brackets for FY 2025-26 (AY 2026-27), and the complete e-filing procedure.
 
@@ -120,7 +120,7 @@ Enter any additional income not pre-filled. The portal will automatically calcul
 After submission, it is mandatory to **e-Verify** your return. You can easily do this within 30 days using an Aadhaar OTP or through Netbanking.
 
 ## Considering a Career in Finance?
-If numbers, tax management, and financial planning excite you, it might be the right time to explore specialized educational routes. Opting for a [Career in Finance](/blog/career-in-finance-course) or an MBA in Finance from [Top MBA Colleges in India](/blog/best-mba-colleges-in-delhi-2027-29) can open immense opportunities in taxation, investing, and corporate finance.
+If numbers, tax management, and financial planning excite you, it might be the right time to explore specialized educational routes. Opting for a [Career in Finance](/blog/career-in-finance-course/) or an MBA in Finance from [Top MBA Colleges in India](/blog/best-mba-colleges-in-delhi-2027-29/) can open immense opportunities in taxation, investing, and corporate finance.
 
 Always consult a certified Chartered Accountant (CA) or financial advisor if your tax situations are complex!
 
@@ -144,6 +144,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

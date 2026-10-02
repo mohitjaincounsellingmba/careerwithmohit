@@ -82,7 +82,7 @@ export function ShikshaCollegeExplorer() {
               </h2>
             </div>
             <Link
-              href="/colleges"
+              href="/colleges/"
               className="text-xs font-bold text-blue-600 hover:text-blue-700 flex items-center gap-1 transition-colors"
             >
               <span>View All 770+</span>
@@ -338,7 +338,7 @@ export function ShikshaCollegeExplorer() {
               </div>
 
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="w-full py-2.5 px-4 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-extrabold text-xs text-center shadow-md transition-all flex items-center justify-center gap-2"
               >
                 <span>Book Free Google Meet</span>
@@ -361,7 +361,7 @@ export function ShikshaCollegeExplorer() {
                 Save up to 50% to 100% on application forms across 55+ premier institutes.
               </p>
               <Link
-                href="/mba-application-form-discount"
+                href="/mba-application-form-discount/"
                 className="text-xs font-bold text-emerald-700 hover:text-emerald-800 flex items-center justify-between py-1.5 px-2.5 rounded-lg bg-emerald-50 border border-emerald-200 hover:bg-emerald-100/80 transition-colors"
               >
                 <span>Calculate My Savings</span>

@@ -37,15 +37,15 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-**[Uttaranchal University](/colleges/uttaranchal-university)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, [Uttaranchal University](/colleges/uttaranchal-university) positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
+**[Uttaranchal University](/colleges/uttaranchal-university/)**, based in **Dehradun, Uttarakhand**, offers an affordable online MBA through its digital education platform (uttaranchaluniversityonline.com). Holding a **NAAC A+ grade** and UGC-DEB recognition, [Uttaranchal University](/colleges/uttaranchal-university/) positions itself as a strong mid-budget option — particularly for students in North India and Himalayan states who need a recognized degree at under ₹1.5 Lakhs.
 
 ---
 
-## 📊 [Uttaranchal University](/colleges/uttaranchal-university) Online MBA: Key Snapshot (2026)
+## 📊 [Uttaranchal University](/colleges/uttaranchal-university/) Online MBA: Key Snapshot (2026)
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | [Uttaranchal University](/colleges/uttaranchal-university), Dehradun |
+| **University** | [Uttaranchal University](/colleges/uttaranchal-university/), Dehradun |
 | **NAAC Grade** | **A+** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **Duration** | 2 Years (4 Semesters) |
@@ -126,13 +126,13 @@ The program uses live weekend sessions and recorded lectures — ideal for profe
 
 ## ❓ Frequently Asked Questions
 
-**Q1. Is [Uttaranchal University](/colleges/uttaranchal-university) online MBA valid for government jobs?**
+**Q1. Is [Uttaranchal University](/colleges/uttaranchal-university/) online MBA valid for government jobs?**
 Yes. It is UGC-DEB approved and NAAC A+ accredited — fully valid for government and private sector employment across India.
 
 **Q2. Is Uttaranchal better than Kalinga for an online MBA?**
 Both are budget options. Uttaranchal holds **NAAC A+** (vs Kalinga's B+) — making it the better pick for corporate credibility at a similar price point (₹94K vs ₹80K).
 
-**Q3. Is [Uttaranchal University](/colleges/uttaranchal-university) online MBA better than Galgotias online MBA?**
+**Q3. Is [Uttaranchal University](/colleges/uttaranchal-university/) online MBA better than Galgotias online MBA?**
 Both hold NAAC A+ and similar fee ranges (₹90K–₹94K). Galgotias has a Delhi NCR industry advantage; Uttaranchal has a North India/Himalayan belt strength. Choose based on geography and employer network fit.
 
 **Q4. Can I pursue Uttaranchal Online MBA from outside Uttarakhand?**
@@ -157,21 +157,21 @@ Yes. The program is 100% online and accessible from any location in India.
 | College | NAAC | Total Fee | Region Strength |
 | :--- | :--- | :--- | :--- |
 | **Uttaranchal Online** | A+ | ₹94,000 | North India / Uttarakhand |
-| [Galgotias Online](/blog/galgotias-university-online-mba-review-2027-29) | A+ | ₹90,000 | Delhi NCR |
-| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2027-29) | A+ | ₹1,00,000 | National + dual spec |
-| [Kalinga Online](/blog/kalinga-university-online-mba-review-2027-29) | B+ | ₹80,000 | Chhattisgarh / Central India |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2027-29) | A+ | ₹1,65,000 | North India, 23 specs |
+| [Galgotias Online](/blog/galgotias-university-online-mba-review-2027-29/) | A+ | ₹90,000 | Delhi NCR |
+| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2027-29/) | A+ | ₹1,00,000 | National + dual spec |
+| [Kalinga Online](/blog/kalinga-university-online-mba-review-2027-29/) | B+ | ₹80,000 | Chhattisgarh / Central India |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2027-29/) | A+ | ₹1,65,000 | North India, 23 specs |
 
 ---
 
-[👉 Get Expert Advice on Uttaranchal Online MBA](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Get Expert Advice on Uttaranchal Online MBA](/inquiry/) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
 
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [Online MBA India 2027–29: Full Guide](/blog/online-mba-india-2027-29)
-- [Top MBA Colleges in Dehradun 2027–29](/blog/mba-pgdm-colleges-under-10-lakhs-dehradun-direct-admission)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [Online MBA India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
+- [Top MBA Colleges in Dehradun 2027–29](/blog/mba-pgdm-colleges-under-10-lakhs-dehradun-direct-admission/)
 
 
 
@@ -180,7 +180,7 @@ Yes. The program is 100% online and accessible from any location in India.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -194,6 +194,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -49,7 +49,7 @@ state: Maharashtra
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Oxford of the East & Auto-IT Epicenter**: Pune combines high academic heritage with major corporate presence across Hinjewadi IT Park, Magarpatta Cybercity, and Chakan-Talegaon manufacturing belts.
-> - **Top-Ranked B-Schools**: **[SIBM Pune](/colleges/sibm-pune)**, **[SCMHRD Pune](/colleges/scmhrd-pune)**, **PUMBA (Pune University)**, **NIBM Pune**, **NIA Pune**, and **Sri Balaji University (SBUP - BIMM)**.
+> - **Top-Ranked B-Schools**: **[SIBM Pune](/colleges/sibm-pune/)**, **[SCMHRD Pune](/colleges/scmhrd-pune/)**, **PUMBA (Pune University)**, **NIBM Pune**, **NIA Pune**, and **Sri Balaji University (SBUP - BIMM)**.
 > - **Fee & Placement Spectrum**: Tuition fees range from ₹1.3 Lakhs (PUMBA) to ₹26.8 Lakhs (Symbiosis), with average salary packages spanning ₹8.5 LPA to ₹26.7 LPA.
 
 ### [InquiryCard title="Targeting Top MBA/PGDM Colleges in Pune?" description="Confused between SIBM, SCMHRD, PUMBA, Balaji, NIBM, or Indira? Get verified placement data & cut-off roadmaps from Mohit Jain." cta="Book Free Pune Counselling" type="admission"]
@@ -64,18 +64,18 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/blog/all-about-symbiosis-mba-institutes)** (MBA Core/I&E) | Lavale, Pune | ₹26.80 Lakhs | ₹26.70 LPA | SNAP (98.5+ %ile) |
-| **[SCMHRD Pune](/blog/all-about-symbiosis-mba-institutes)** (MBA Core/BA/IDM) | Hinjewadi Phase 1 | ₹25.20 Lakhs | ₹23.70 LPA | SNAP (97.0+ %ile) |
-| **[PUMBA (Pune University)](/blog/direct-admission-pumba-pune-university-seats-2027-29)** (MBA) | Ganeshkhind | ₹1.30 Lakhs | ₹8.80 LPA | MAH-CET (99.0+ %ile) / CAT (88+ %ile) |
-| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
-| **[NIA Pune](/blog/all-about-institute-of-insurance-and-risk-management)** (PGDM - Insurance) | Baner Road | ₹12.50 Lakhs | ₹12.80 LPA | CAT / CMAT (75+ %ile) |
-| **[Sri Balaji University (SBUP - BIMM)](/blog/bimm-balaji-pune-mba-review-2027-fees-placements-cutoff)** | Tathawade | ₹12.90 Lakhs | ₹9.20 LPA | CAT / MAT / CMAT / XAT / SBUP Test |
-| **[Indira Group (IIMP / ISBS Pune)](/blog/all-about-isbs-pune)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
-| **[ISB&M Pune (International School)](/blog/all-about-international-school-of-business-media-pune)** | Nande, Pune | ₹13.20 Lakhs | ₹10.80 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
-| **[PIBM Pune (Praxis / Business Mgmt)](/blog/all-about-institute-of-business-management-and-research)** | Pirangut | ₹8.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
-| **[MIT-WPU (School of Business)](/blog/all-about-symbiosis-mba-institutes)** (MBA) | Kothrud | ₹9.50 Lakhs | ₹7.20 LPA | CAT / XAT / NMAT / MAH-CET |
-| **[Lexicon MILE Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
-| **[RIIM Pune (Ramachandran Institute)](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
+| **[SIBM Pune](/blog/all-about-symbiosis-mba-institutes/)** (MBA Core/I&E) | Lavale, Pune | ₹26.80 Lakhs | ₹26.70 LPA | SNAP (98.5+ %ile) |
+| **[SCMHRD Pune](/blog/all-about-symbiosis-mba-institutes/)** (MBA Core/BA/IDM) | Hinjewadi Phase 1 | ₹25.20 Lakhs | ₹23.70 LPA | SNAP (97.0+ %ile) |
+| **[PUMBA (Pune University)](/blog/direct-admission-pumba-pune-university-seats-2027-29/)** (MBA) | Ganeshkhind | ₹1.30 Lakhs | ₹8.80 LPA | MAH-CET (99.0+ %ile) / CAT (88+ %ile) |
+| **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** (PGDM - Banking & FS) | NIBM Post Office Rd | ₹16.00 Lakhs | ₹15.20 LPA | CAT / XAT / CMAT (85+ %ile) |
+| **[NIA Pune](/blog/all-about-institute-of-insurance-and-risk-management/)** (PGDM - Insurance) | Baner Road | ₹12.50 Lakhs | ₹12.80 LPA | CAT / CMAT (75+ %ile) |
+| **[Sri Balaji University (SBUP - BIMM)](/blog/bimm-balaji-pune-mba-review-2027-fees-placements-cutoff/)** | Tathawade | ₹12.90 Lakhs | ₹9.20 LPA | CAT / MAT / CMAT / XAT / SBUP Test |
+| **[Indira Group (IIMP / ISBS Pune)](/blog/all-about-isbs-pune/)** (MBA/PGDM) | Wakad / Tathawade | ₹7.50 – ₹9.50 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / CAT / MAT |
+| **[ISB&M Pune (International School)](/blog/all-about-international-school-of-business-media-pune/)** | Nande, Pune | ₹13.20 Lakhs | ₹10.80 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
+| **[PIBM Pune (Praxis / Business Mgmt)](/blog/all-about-institute-of-business-management-and-research/)** | Pirangut | ₹8.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT |
+| **[MIT-WPU (School of Business)](/blog/all-about-symbiosis-mba-institutes/)** (MBA) | Kothrud | ₹9.50 Lakhs | ₹7.20 LPA | CAT / XAT / NMAT / MAH-CET |
+| **[Lexicon MILE Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29/)** (PGDM) | Wagholi | ₹8.50 Lakhs | ₹7.50 LPA | CAT / MAT / XAT / CMAT |
+| **[RIIM Pune (Ramachandran Institute)](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)** (PGDM/MBA) | Bavdhan | ₹6.50 – ₹7.90 Lakhs | ₹6.80 LPA | MAH-CET / CMAT / MAT / Direct |
 
 ---
 
@@ -87,13 +87,13 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [Symbiosis Flagships]        [Super-Specialized Leaders]     [High-ROI & Corporate]
-  [SIBM Pune](/colleges/sibm-pune) & SCMHRD           NIBM (Banking) & NIA (Insur.)   PUMBA, Balaji (BIMM),
+  [SIBM Pune](/colleges/sibm-pune/) & SCMHRD           NIBM (Banking) & NIA (Insur.)   PUMBA, Balaji (BIMM),
   - ₹23.7 to ₹26.7 LPA CTC     - ₹12.8 to ₹15.2 LPA CTC        Indira (IIMP), ISB&M
 ```
 
 ### 1. Symbiosis Flagship Institutes (SIBM & SCMHRD)
 - **SIBM Pune (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
-- **[SCMHRD Pune](/colleges/scmhrd-pune) (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
+- **[SCMHRD Pune](/colleges/scmhrd-pune/) (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
 
 ### 2. Super-Specialized National BFSI Leaders (NIBM & NIA)
 - **NIBM Pune**: Established by RBI and commercial banks. Recruits senior treasury officers, credit underwriters, and investment bankers directly into national and international banking institutions.
@@ -132,6 +132,6 @@ Yes, SCMHRD's specialized MBA in Business Analytics and MBA in Infrastructure De
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -3,16 +3,16 @@ title: 'Direct Admission in Christ University Bangalore 2026: Management Quota &
 date: '2026-03-17'
 description: >-
   Secure your MBA seat at [Christ University
-  Bangalore](/colleges/christ-university-bangalore) for 2026. Explore direct
+  Bangalore](/colleges/christ-university-bangalore/) for 2026. Explore direct
   admission via management quota, NRI seats, CUET requirements, and the latest
   fee structure.
 keywords:
   - >-
     direct admission in [Christ University
-    Bangalore](/colleges/christ-university-bangalore)
+    Bangalore](/colleges/christ-university-bangalore/)
   - Christ University MBA management quota
   - >-
-    [Christ University Bangalore](/colleges/christ-university-bangalore) MBA
+    [Christ University Bangalore](/colleges/christ-university-bangalore/) MBA
     fees
   - CUET for Christ University
   - management quota MBA Bangalore
@@ -98,11 +98,11 @@ The admission cycle typically begins in **December/January** for the July intake
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2027-29)
-- [MBA Admission Guide 2027–29](/blog/acca-benefits-with-mba-career-guide-2027-29)
-- [Direct MBA Admission in India 2027–29](/blog/direct-mba-admission-india)
+- [Best MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2027-29/)
+- [MBA Admission Guide 2027–29](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [Direct MBA Admission in India 2027–29](/blog/direct-mba-admission-india/)
 
-[👉 Get expert help for your Christ University application today!](/inquiry)
+[👉 Get expert help for your Christ University application today!](/inquiry/)
 
 
 
@@ -110,6 +110,6 @@ The admission cycle typically begins in **December/January** for the July intake
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

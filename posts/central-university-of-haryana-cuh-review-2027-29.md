@@ -80,10 +80,10 @@ CUH is celebrated for its highly economical fee structure:
 *   **Availability:** Demand is high, so allocation often prioritizes students from distances beyond 60 km.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Karnataka Review 2027–29](/blog/central-university-of-karnataka-cuk-review-2027-29)
-*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29)
+*   [Central University of Karnataka Review 2027–29](/blog/central-university-of-karnataka-cuk-review-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29/)
 
-[👉 Get Admission Consultation for Central University of Haryana!](/inquiry)
+[👉 Get Admission Consultation for Central University of Haryana!](/inquiry/)
 
 ---
 
@@ -101,6 +101,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

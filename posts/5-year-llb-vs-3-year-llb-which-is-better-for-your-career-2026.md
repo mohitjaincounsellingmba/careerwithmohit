@@ -125,16 +125,16 @@ No. They are separate programs. You cannot "exit" a 5-year course with just a BA
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
-- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026/)
 
 ---
 
 **Still Confused About the Legal Path?**
 Don't pick a degree just because it sounds prestigious. Mohit Jain provides a "Legal Aptitude Mapping"—analyzing your academic background and logical skills to see if you are a "5-Year Explorer" or a "3-Year Strategist."
 
-[👉 Book My Legal Career Call](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Legal Career Call](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -142,6 +142,6 @@ Don't pick a degree just because it sounds prestigious. Mohit Jain provides a "L
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

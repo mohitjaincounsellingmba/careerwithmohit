@@ -135,11 +135,11 @@ By standardizing their fleets to cut maintenance costs and choreographing lightn
 ---
 
 ### **Related Aviation & Strategy Case Studies:**
-*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain)
-*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization Model](/blog/aravind-eye-care-system-assembly-line-healthcare)
+*   [Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain](/blog/zara-inditex-jit-production-agile-supply-chain/)
+*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system/)
+*   [Aravind Eye Care System: Assembly-Line Healthcare & The Cross-Subsidization Model](/blog/aravind-eye-care-system-assembly-line-healthcare/)
 
-[👉 Want to build a high-flying career in Aviation Management? Explore MBA admissions with Mohit Jain!](/inquiry)
+[👉 Want to build a high-flying career in Aviation Management? Explore MBA admissions with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -157,6 +157,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -37,7 +37,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: NTA has officially released the CUET PG 2026 Response Sheet and Provisional Answer Key. Get the direct link to...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **National Testing Agency (NTA)** has officially released the **CUET PG 2026 Response Sheet** and the **Provisional Answer Key** today, **April 11, 2026**. Candidates who appeared for the postgraduate entrance exam can now login to the official portal to download their individual response sheets and tally them with the master answer key.
 
@@ -90,16 +90,16 @@ Use the following marking scheme to calculate your score:
 **Formula**: `(No. of Correct × 4) - (No. of Incorrect × 1)`
 
 Once you have your raw marks, check how they translate into percentiles:
-👉 **[CUET PG 2026 Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)**
+👉 **[CUET PG 2026 Marks vs Percentile Analysis](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)**
 
 ---
 
 ### **🚀 What Next After the Response Sheet?**
 Now that you have a clear idea of your marks, it is time to plan your university applications. 
 
-1.  **CUET PG Result Date**: The final result is expected within 10 days of the challenge window closing. ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date))
-2.  **MBA Aspirants**: If you are aiming for MBA programs, use our predictor tool to see which colleges you can get. ([CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges))
-3.  **Top Colleges List**: Explore the best universities accepting CUET PG scores here. ([Top MBA Colleges Under CUET PG](/blog/top-mba-colleges-cuet-pg))
+1.  **CUET PG Result Date**: The final result is expected within 10 days of the challenge window closing. ([Check Result Timeline](/blog/cuet-pg-2026-result-expected-date/))
+2.  **MBA Aspirants**: If you are aiming for MBA programs, use our predictor tool to see which colleges you can get. ([CUET PG MBA Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/))
+3.  **Top Colleges List**: Explore the best universities accepting CUET PG scores here. ([Top MBA Colleges Under CUET PG](/blog/top-mba-colleges-cuet-pg/))
 
 **Confused About the Admission Process?**
 The post-result counseling process can be tricky with multiple university registration links and cutoffs. Get personalized help from Mohit Jain to secure your seat in the best possible college.
@@ -126,6 +126,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

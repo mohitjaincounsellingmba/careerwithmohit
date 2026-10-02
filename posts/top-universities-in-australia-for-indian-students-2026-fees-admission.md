@@ -65,7 +65,7 @@ Australia is the **3rd most popular study destination** for Indian students glob
 | University of Wollongong (UOW) | Wollongong & Sydney | PG | ₹19,00,000 |
 | The University of Newcastle | Newcastle, Central Coast, Sydney | UG & PG | ₹18,50,000 |
 | Deakin University | Melbourne, Geelong, Warrnambool | UG & PG | ₹19,50,000 |
-| [Chitkara University](/colleges/chitkara-university) + Deakin University | Chandigarh → Melbourne | UG Pathway (Twinning) | ₹14,00,000 |
+| [Chitkara University](/colleges/chitkara-university/) + Deakin University | Chandigarh → Melbourne | UG Pathway (Twinning) | ₹14,00,000 |
 | Queensland University of Technology (QUT) | Brisbane | UG & PG | ₹20,00,000 |
 | La Trobe University | Melbourne & Sydney | UG & PG | ₹19,00,000 |
 | Griffith University | Brisbane & Gold Coast | UG & PG | ₹18,00,000 |
@@ -158,15 +158,15 @@ Australia is the **3rd most popular study destination** for Indian students glob
 
 ## 📞 Get Expert Australia Admission Help
 
-[👉 Book a Free Consultation](/inquiry) | [💬 WhatsApp](https://wa.me/919560020771)
+[👉 Book a Free Consultation](/inquiry/) | [💬 WhatsApp](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [All About SAT, IELTS, TOEFL, GRE Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [All About SAT, IELTS, TOEFL, GRE Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+- [MBBS Abroad for Indian Students 2026: Fees & NMC Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 
 ---
 
@@ -188,6 +188,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

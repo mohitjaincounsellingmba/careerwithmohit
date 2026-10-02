@@ -11,7 +11,7 @@ keywords:
   - COER University fees 2026
   - COER placement review 2025
   - BTech admission Roorkee
-  - 'COER vs [Quantum University](/colleges/quantum-university-roorkee)'
+  - 'COER vs [Quantum University](/colleges/quantum-university-roorkee/)'
   - Dehradun Colleges
   - Best Colleges in Dehradun
   - Top Colleges in Dehradun 2026
@@ -72,14 +72,14 @@ COER has a dedicated training and placement cell that prepares students for the 
 **Cons**: Limited research facilities compared to premium private universities, mandatory attendance requirements.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
-*   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review)
-*   [Doon Institute Dehradun: Academic Insights](/blog/doon-institute-btech-admission-2026-fees-review)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review/)
+*   [Quantum University Roorkee: Admission Guide](/blog/quantum-university-btech-admission-2026-fees-review/)
+*   [Doon Institute Dehradun: Academic Insights](/blog/doon-institute-btech-admission-2026-fees-review/)
 
-**Confused About the COER vs. [Quantum University](/colleges/quantum-university-roorkee) Choice?**
+**Confused About the COER vs. [Quantum University](/colleges/quantum-university-roorkee/) Choice?**
 COER is often preferred for its slightly more established brand name and academic rigor, while Quantum is known for its modern curriculum. At **CareerWithMohit**, we help you decide which Roorkee-based college is the right fit for your career goals.
 
-[👉 Get Expert Admission Guidance for COER Roorkee!](/inquiry)
+[👉 Get Expert Admission Guidance for COER Roorkee!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is COER University the same as the College of Engineering Roorkee?**
@@ -98,6 +98,6 @@ The highest package recorded for the recent batch was ₹44 LPA.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -3,7 +3,7 @@ title: 'IMM Delhi PGDM Review 2027–29: Placements, Fees & Honest Insights'
 date: '2026-05-03'
 description: >-
   Is IMM Delhi worth it for PGDM in 2027–29? Explore an honest review of [Institute
-  of Marketing & Management (IMM)](/colleges/imm-delhi) including 2025 placement
+  of Marketing & Management (IMM)](/colleges/imm-delhi/) including 2025 placement
   stats, fees, and ROI.
 keywords:
   - IMM Delhi review 2027–29
@@ -49,7 +49,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and [FORE School of Management](/colleges/fore-school-delhi). 
+Founded in 1969, the **Institute of Marketing and Management (IMM) Delhi** is one of the oldest B-schools in India. Located in the prestigious Qutub Institutional Area, it sits alongside elite institutions like IIFT and [FORE School of Management](/colleges/fore-school-delhi/). 
 
 But does its legacy translate into modern-day career success? In this review, we break down the **IMM Delhi PGDM program for the 2027–29 batch**.
 
@@ -103,9 +103,9 @@ IMM Delhi has a dedicated Corporate Resource Centre (CRC) that has been quite ac
 
 ## 📊 IMM Delhi vs. Competitors
 If you are considering IMM Delhi, you are likely also looking at:
-*   [**NDIM Delhi**](/blog/ndim-delhi-review-2027-29): Similar legacy, slightly higher fees, and AIU equivalence.
-*   [**JIMS Rohini**](/blog/all-about-jims-rohini): Stronger focus on the North Delhi corporate belt.
-*   [**FIIB Delhi**](/blog/all-about-fiib): Great for International Business and sustainability roles.
+*   [**NDIM Delhi**](/blog/ndim-delhi-review-2027-29/): Similar legacy, slightly higher fees, and AIU equivalence.
+*   [**JIMS Rohini**](/blog/all-about-jims-rohini/): Stronger focus on the North Delhi corporate belt.
+*   [**FIIB Delhi**](/blog/all-about-fiib/): Great for International Business and sustainability roles.
 
 ---
 
@@ -117,18 +117,18 @@ If you are considering IMM Delhi, you are likely also looking at:
 ---
 
 ## 🔗 Related Reading
-*   [**Best MBA Colleges in Delhi 2027–29: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2027-29)
-*   [**MBA vs PGDM: Which should you choose in 2027–29?**](/blog/mba-vs-pgdm-2026-ultimate-guide)
-*   [**Top PGDM Colleges in Delhi NCR under 10 Lakhs**](/blog/private-pgdm-colleges-under-10-lakhs-delhi-ncr)
+*   [**Best MBA Colleges in Delhi 2027–29: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2027-29/)
+*   [**MBA vs PGDM: Which should you choose in 2027–29?**](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+*   [**Top PGDM Colleges in Delhi NCR under 10 Lakhs**](/blog/private-pgdm-colleges-under-10-lakhs-delhi-ncr/)
 
-[👉 Need help with IMM Delhi Direct Admission? Talk to our experts!](/inquiry)
+[👉 Need help with IMM Delhi Direct Admission? Talk to our experts!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -143,7 +143,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -157,6 +157,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

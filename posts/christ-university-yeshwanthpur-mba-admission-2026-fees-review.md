@@ -23,7 +23,7 @@ faqs:
       Yes, since all Christ Bangalore campuses participate in the same
       centralized placement pool.
   - question: What is the dress code?
-    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2027–29 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)\n\n**Confused About Which Bangalore Campus to Choose?**\nWhile all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2027–29 admission cycle to ensure you land in the campus that fits your personality and career path.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -84,14 +84,14 @@ Yes, since all Christ Bangalore campuses participate in the same centralized pla
 Strict formal attire and professional grooming are the hallmark of Christ, including the Yeshwanthpur campus.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)
 
 **Confused About Which Bangalore Campus to Choose?**
 While all offer the same degree and common placements, each has a different vibe—from urban heart to lush greenery to high-tech modern. At **CareerWithMohit**, we help you navigate the 2026 admission cycle to ensure you land in the campus that fits your personality and career path.
 
-[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)
 
 
 
@@ -99,7 +99,7 @@ While all offer the same degree and common placements, each has a different vibe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -113,6 +113,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

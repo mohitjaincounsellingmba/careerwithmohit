@@ -75,14 +75,14 @@ KR Mangalam University is proud of its corporate connectivity along the NCR busi
 **Cons**: Higher hostel fees than traditional institutes, rigorous attendance requirements.
 
 Explore other top NCR private universities:
-*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review)
-*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review)
-*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review)
+*   [Bennett University Greater Noida: Review](/blog/bennett-university-btech-admission-2026-fees-review/)
+*   [GD Goenka Gurugram: Guide](/blog/gd-goenka-university-btech-admission-2026-fees-review/)
+*   [BML Munjal University: Admission Guide](/blog/bml-munjal-university-btech-admission-2026-fees-review/)
 
 **Confused About the IBM Tie-Up?**
 KRMU's "CSE with IBM" track is one of its most popular programs. At **CareerWithMohit**, we help you decide if a specialized "industry-ready" track is better for your career than a core CSE degree at a traditional college.
 
-[👉 Get Expert Admission Guidance for KR Mangalam University!](/inquiry)
+[👉 Get Expert Admission Guidance for KR Mangalam University!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is KR Mangalam a recognized university?**
@@ -101,6 +101,6 @@ No, but many students prefer it due to the campus's modern facilities and distan
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

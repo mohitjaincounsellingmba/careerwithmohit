@@ -327,7 +327,7 @@ export default function XatScoreCalculatorPage() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Link
-              href="/tools/mock-test/xat"
+              href="/tools/mock-test/xat/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>Free XAT 2027 Mock Test →</span>
@@ -339,13 +339,13 @@ export default function XatScoreCalculatorPage() {
               <span>XAT Previous Year Papers →</span>
             </Link>
             <Link
-              href="/colleges"
+              href="/colleges/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>Top MBA Colleges 2027 →</span>
             </Link>
             <Link
-              href="/services"
+              href="/services/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>Book Admission Counselling Session →</span>

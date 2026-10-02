@@ -126,16 +126,16 @@ Ideally, 4 months before the exam (November/December). If you start in January, 
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in Pune 2026](/blog/top-mca-colleges-pune-2026)
-- [Top MCA Colleges in Mumbai 2026](/blog/top-mca-colleges-mumbai-2027-29)
-- [How to Prepare for NIMCET 2026](/blog/nimcet-2026-exam-strategy-guide)
+- [Top MCA Colleges in Pune 2026](/blog/top-mca-colleges-pune-2026/)
+- [Top MCA Colleges in Mumbai 2026](/blog/top-mca-colleges-mumbai-2027-29/)
+- [How to Prepare for NIMCET 2026](/blog/nimcet-2026-exam-strategy-guide/)
 
 ---
 
 **Don't Just Prepare, Sprint.**
 MAH MCA CET is a race against time. Don't get stuck on one math problem. Mohit Jain provides a "CET Speed Audit"—helping you identify the logic hacks that save you 15 minutes in the final exam.
 
-[👉 Book My MAH MCA CET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My MAH MCA CET Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -143,6 +143,6 @@ MAH MCA CET is a race against time. Don't get stuck on one math problem. Mohit J
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

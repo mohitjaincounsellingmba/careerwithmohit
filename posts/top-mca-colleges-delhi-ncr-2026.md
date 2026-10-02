@@ -71,7 +71,7 @@ Whether you are looking for the financial efficiency of a **Government College**
 | **GGSIPU (USICT)** | NIMCET | ₹2.2 - 3.5 Lakhs | ₹8.5 - 12.0 LPA |
 | **IPU (MSI Janakpuri)** | NIMCET / CET | ₹2.4 - 3.6 Lakhs | ₹6.5 - 9.5 LPA |
 | **KIET Ghaziabad** | UPTAC / CUET PG | ₹2.1 - 2.8 Lakhs | ₹5.5 - 9.0 LPA |
-| **[Amity University](/colleges/amity-noida) Noida** | Merit-based | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida/) Noida** | Merit-based | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
 
 ---
 
@@ -91,13 +91,13 @@ Consisting of USICT (Campus) and top colleges like MSI and JIMS.
 
 If you are looking for early specialization in AI, Cyber Security, or Cloud Computing, these private colleges offer a more dynamic "Industry-First" curriculum:
 
-### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
+### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad
 Consistently outperforming many government colleges in placements. Their "Innovation Cell" has direct ties with companies like HCL and Infosys.
 
-### 2. [Amity University, Noida](/colleges/amity-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida/)
 The most corporate-ready campus. Their MCA students often get PPOs (Pre-Placement Offers) from firms like Capgemini and Accenture during their 3rd semester.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
+### 3. [Bennett University](/colleges/bennett-greater-noida/), Greater Noida
 Backed by the Times Group, Bennett offers one of the most premium and high-tech MCA environments in North India, focusing on Full Stack and Cloud.
 
 ---
@@ -131,16 +131,16 @@ Usually held in **June**. Registrations typically open in February or March of 2
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
-- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
+- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29/)
 
 ---
 
 **Confused between Noida, Gurgaon, or Delhi hubs?**
 Delhi NCR is the biggest IT cluster in the North. Don't waste your degree at a college that big software firms don't recognize. Mohit Jain provides a "NCR Tech Audit"—helping you pick the college that puts you on the radar of HCL, TCS, and the Gurgaon Startup hub.
 
-[👉 Book My Delhi NCR MCA Roadmap](/inquiry) | [💬 Chat with Mohit Jain](/inquiry)
+[👉 Book My Delhi NCR MCA Roadmap](/inquiry/) | [💬 Chat with Mohit Jain](/inquiry/)
 
 
 
@@ -148,6 +148,6 @@ Delhi NCR is the biggest IT cluster in the North. Don't waste your degree at a c
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

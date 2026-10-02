@@ -34,7 +34,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-### **College Review: [JBIMS Mumbai](/colleges/jbims-mumbai)**
+### **College Review: [JBIMS Mumbai](/colleges/jbims-mumbai/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -50,7 +50,7 @@ state: Maharashtra
 > - **Total Fee Structure**: Verified at ₹6.10 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹28.02 LPA (Highest ₹35.75 LPA) with CEO Factory of India.
 
-## 📊 [JBIMS Mumbai](/colleges/jbims-mumbai) 2026 Snapshot
+## 📊 [JBIMS Mumbai](/colleges/jbims-mumbai/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -78,25 +78,25 @@ state: Maharashtra
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [JBIMS Mumbai](/colleges/jbims-mumbai) a good option for PGDM/MBA?
-Yes, [JBIMS Mumbai](/colleges/jbims-mumbai) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [JBIMS Mumbai](/colleges/jbims-mumbai/) a good option for PGDM/MBA?
+Yes, [JBIMS Mumbai](/colleges/jbims-mumbai/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [JBIMS Mumbai](/colleges/jbims-mumbai)?
-The average placement package at [JBIMS Mumbai](/colleges/jbims-mumbai) is approximately ₹28.0 LPA, with the highest package reaching up to ₹44.0 LPA.
+### 2. What is the average package offered at [JBIMS Mumbai](/colleges/jbims-mumbai/)?
+The average placement package at [JBIMS Mumbai](/colleges/jbims-mumbai/) is approximately ₹28.0 LPA, with the highest package reaching up to ₹44.0 LPA.
 
-### 3. What entrance exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai)?
+### 3. What entrance exams are accepted by [JBIMS Mumbai](/colleges/jbims-mumbai/)?
 The college accepts scores from national level entrance examinations including MAH-CET, CAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [JBIMS Mumbai](/colleges/jbims-mumbai) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [JBIMS Mumbai](/colleges/jbims-mumbai/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to JBIMS Mumbai](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to JBIMS Mumbai](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -110,6 +110,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

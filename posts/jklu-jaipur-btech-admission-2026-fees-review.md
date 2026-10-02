@@ -69,14 +69,14 @@ JKLU Jaipur is proud of its high placement percentages across circuit branch gra
 **Cons**: Smaller student intake compared to premium private universities in the NCR, relativamente high fee structure for a newer university.
 
 Explore other top engineering options in Jaipur:
-*   [VGU Jaipur: Admission & Review](/blog/vgu-jaipur-btech-admission-2026-fees-review)
-*   [JKLU vs. VGU Jaipur Selection: Expert Guide](/blog/acca-benefits-with-mba-career-guide-2027-29)
-*   [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)
+*   [VGU Jaipur: Admission & Review](/blog/vgu-jaipur-btech-admission-2026-fees-review/)
+*   [JKLU vs. VGU Jaipur Selection: Expert Guide](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+*   [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)
 
 **Confused About the JKLU Research Advantage?**
 JKLU is often preferred for its faculty-student ratio and research-driven environment. At **CareerWithMohit**, we help you decide if a research-focused B.Tech is better for your career than a traditional engineering degree at a high-volume college.
 
-[👉 Get Expert Admission Guidance for JKLU Jaipur!](/inquiry)
+[👉 Get Expert Admission Guidance for JKLU Jaipur!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is JKLU Jaipur tốt for CSE?**
@@ -95,6 +95,6 @@ Yes, high-merit students can get up to 100% tuition fee waivers based on JEE/CUE
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

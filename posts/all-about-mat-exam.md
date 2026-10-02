@@ -83,8 +83,8 @@ The 200 questions are split equally among five distinct sections (40 questions e
 
 Colleges usually look at either the Composite Score (out of 800) or the overall Percentile.
 
-- **BIMTECH (Retail/Insurance), [XIME Bangalore](/colleges/xime-bangalore):** 85.0+ to 90.0+ Percentile (~650+ Score)
-- **Christ University, [PUMBA Pune](/colleges/pumba-pune):** 80.0+ to 85.0+ Percentile (~600+ Score)
+- **BIMTECH (Retail/Insurance), [XIME Bangalore](/colleges/xime-bangalore/):** 85.0+ to 90.0+ Percentile (~650+ Score)
+- **Christ University, [PUMBA Pune](/colleges/pumba-pune/):** 80.0+ to 85.0+ Percentile (~600+ Score)
 - **NDIM Delhi, Jaipuria Institute, ITM Navi Mumbai:** 75.0+ to 80.0+ Percentile (~550+ Score)
 - **Tier-3 B-Schools:** Accept scores ranging from 50.0 to 70.0 Percentile.
 
@@ -92,18 +92,18 @@ Colleges usually look at either the Composite Score (out of 800) or the overall 
 
 While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges accept MAT.
 
-- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida)), Greater Noida (For niche programs)
+- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/)), Greater Noida (For niche programs)
 - Christ University, Bangalore
 - XIME (Xavier Institute of Management & Entrepreneurship), Bangalore/Kochi/Chennai
 - PUMBA (Department of Management Sciences, Pune University)
-- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida, Lucknow, Jaipur, Indore)
-- NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), Delhi
+- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) (Noida, Lucknow, Jaipur, Indore)
+- NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi/)), Delhi
 - ITM Business School, Navi Mumbai
 - PIBM (Pune Institute of Business Management), Pune
-- [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini), Delhi
+- [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini), Delhi
 
 ---
-[👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry)
+[👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry/)
 
 ---
 
@@ -125,7 +125,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -139,6 +139,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -40,7 +40,7 @@ category: Exams
 
 The Xavier Aptitude Test (XAT) is widely considered one of the most challenging MBA entrance exams in India. While it shares sections like Quantitative Aptitude and Verbal Ability with the CAT, the defining feature of XAT is its **Decision Making (DM)** section. 
 
-DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into [XLRI Jamshedpur](/colleges/xlri-jamshedpur)—the premier institute for Human Resources and Business Management.
+DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)—the premier institute for Human Resources and Business Management.
 
 In this guide, we will analyze the latest trends in the XAT Decision Making section, explain the core concepts tested, and outline a step-by-step methodology to crack these questions.
 
@@ -87,7 +87,7 @@ Choose the option that offers a sustainable, long-term solution that minimizes d
 
 ## How Decision Making Affects XLRI Shortlists
 
-[XLRI Jamshedpur](/colleges/xlri-jamshedpur) evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
+[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
 
 - For the Business Management (BM) program, the DM cutoff is typically around **75 to 80 percentile** for General category male candidates.
 - For the Human Resource Management (HRM) program, the DM cutoff is around **70 to 75 percentile**.
@@ -102,9 +102,9 @@ Because the total marks in XAT are relatively low (usually around 100 marks), ge
 2. **Read Case Studies:** Read business case studies (such as Harvard Business School cases or basic management articles) to understand how real-world decisions are made.
 3. **Mock Tests:** Practice section-specific tests to learn how to manage time. Remember, XAT has a time limit of 175 minutes for Part 1 (VALR, DM, QADI). You should allocate roughly **30 to 35 minutes** to the DM section.
 
-To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam](/blog/all-about-xat-exam) or discover the broader landscape of [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
+To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam](/blog/all-about-xat-exam/) or discover the broader landscape of [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
 
-[👉 Struggling to align your logic with XLRI standards? Speak to our XAT preparation mentors today!](/inquiry)
+[👉 Struggling to align your logic with XLRI standards? Speak to our XAT preparation mentors today!](/inquiry/)
 
 ---
 
@@ -126,6 +126,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

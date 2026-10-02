@@ -48,7 +48,7 @@ category: Exams
 # Top PGDM Colleges in Pune Admission 2027: Fees, Placements & CAT 2027–29 / XAT Exam Cutoffs
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier Private Institutions:** [SIBM Pune](/colleges/sibm-pune), SCMHRD, BIMM Pune, PIBM, Lexicon MILE, and RIIM.
+> - **Top Tier Private Institutions:** [SIBM Pune](/colleges/sibm-pune/), SCMHRD, BIMM Pune, PIBM, Lexicon MILE, and RIIM.
 > - **Exam Acceptance:** Standard acceptance of CAT 2026, XAT exam, CMAT, MAT, ATMA, and MAH-CET.
 > - **Affordability & ROI:** Average tuition fee is ₹7 to ₹11 Lakhs with strong placement averages of ₹7.5 to ₹9.0 LPA in IT, Auto, and FinTech sectors.
 
@@ -62,33 +62,33 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2027–
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / CMAT) |
 | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/colleges/sibm-pune) (Symbiosis)** | ₹24.20 Lakhs | ₹28.16 LPA | SNAP (98.5+ %ile) / Tier-1 Prestige |
-| **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹23.70 Lakhs | ₹23.71 LPA | SNAP (97+ %ile) / HR & Infrastructure Specialization |
-| **[PIBM Pune](/colleges/pibm-pune) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | CAT 2026 / XAT / MAT / CMAT / PMAT |
+| **[SIBM Pune](/colleges/sibm-pune/) (Symbiosis)** | ₹24.20 Lakhs | ₹28.16 LPA | SNAP (98.5+ %ile) / Tier-1 Prestige |
+| **[SCMHRD Pune](/colleges/scmhrd-pune/)** | ₹23.70 Lakhs | ₹23.71 LPA | SNAP (97+ %ile) / HR & Infrastructure Specialization |
+| **[PIBM Pune](/colleges/pibm-pune/) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | CAT 2026 / XAT / MAT / CMAT / PMAT |
 | **Lexicon MILE Pune (Lexicon Institute)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT 2026 / XAT / CMAT / MAT (60+ %ile) |
-| **[RIIM Pune](/colleges/riim-pune) (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | CAT 2026 / MAT / CMAT / ATMA (High ROI) |
+| **[RIIM Pune](/colleges/riim-pune/) (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | CAT 2026 / MAT / CMAT / ATMA (High ROI) |
 | **Balaji Institute of Modern Mgmt (BIMM)** | ₹12.55 Lakhs | ₹8.75 LPA | CAT 2026 / XAT / MAT / CMAT / MAH-CET |
 | **DY Patil B-School, Tathawade Pune** | ₹8.50 Lakhs | ₹7.20 LPA | MAT / CMAT / CAT 2026 / ATMA |
 | **ISBS Pune (Indira School of Business)** | ₹9.20 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / MAT / CAT 2026 |
-| **[ISMS Pune](/colleges/isms-pune) (International School of Mgmt)** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
-| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management-mass-communication) (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
+| **[ISMS Pune](/colleges/isms-pune/) (International School of Mgmt)** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
+| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management-mass-communication/) (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
 
 ---
 
 ## Detailed College Overviews & Placement Highlights
 
-### 1. [PIBM Pune](/colleges/pibm-pune) (Pune Institute of Business Management)
+### 1. [PIBM Pune](/colleges/pibm-pune/) (Pune Institute of Business Management)
 * **Location:** Pirangut, Pune.
-* **Why Choose PIBM:** Known for sector-specific training in Financial Modeling, Bloomberg Terminal training, SAP, and Digital Marketing. Top recruiters include Deloitte, KPMG, Amazon, Reliance, and BNY Mellon. Read [All About PIBM Pune](/blog/all-about-pibm-pune).
+* **Why Choose PIBM:** Known for sector-specific training in Financial Modeling, Bloomberg Terminal training, SAP, and Digital Marketing. Top recruiters include Deloitte, KPMG, Amazon, Reliance, and BNY Mellon. Read [All About PIBM Pune](/blog/all-about-pibm-pune/).
 
 ### 2. Lexicon MILE (Management Institute of Leadership & Excellence)
-* **Highlights:** 9-month industry internship models, global certifications, and extensive leadership boot camps. Learn more at [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence).
+* **Highlights:** 9-month industry internship models, global certifications, and extensive leadership boot camps. Learn more at [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/).
 
-### 3. [RIIM Pune](/colleges/riim-pune) (Ramachandran International Institute of Management)
-* **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/blog/all-about-riim-pune).
+### 3. [RIIM Pune](/colleges/riim-pune/) (Ramachandran International Institute of Management)
+* **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/blog/all-about-riim-pune/).
 
 ### 4. DY Patil B-School & Indira Group (ISBS)
-* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/colleges/dy-patil-b-school) and [All About ISBS Pune](/blog/all-about-isbs-pune).
+* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/colleges/dy-patil-b-school/) and [All About ISBS Pune](/blog/all-about-isbs-pune/).
 
 ---
 
@@ -102,14 +102,14 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2027–
 ---
 
 ## Related Guides & Comparisons
-- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29)
-- [All About SIBM Pune](/blog/all-about-sibm-pune)
-- [All About CAT Exam](/blog/all-about-cat-exam)
+- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29/)
+- [All About SIBM Pune](/blog/all-about-sibm-pune/)
+- [All About CAT Exam](/blog/all-about-cat-exam/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

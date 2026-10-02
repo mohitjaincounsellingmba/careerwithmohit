@@ -42,7 +42,7 @@ state: Maharashtra
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹8.0 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-When choosing a PGDM college in Pune, two names often spark a debate: **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** and **ISB&M ([International School of Business & Media](/colleges/international-school-of-business-media))**. While both institutions have carved a niche in the Pune education hub, your choice depends heavily on your career goal.
+When choosing a PGDM college in Pune, two names often spark a debate: **[IIEBM (Indus Business School)](/colleges/iiebm-pune/)** and **ISB&M ([International School of Business & Media](/colleges/international-school-of-business-media/))**. While both institutions have carved a niche in the Pune education hub, your choice depends heavily on your career goal.
 
 If your heart is set on becoming a **Techno-Functional Consultant through a SAP ERP specialization**, there is a clear winner. In this guide, we break down why IIEBM dominates the SAP landscape compared to ISB&M.
 
@@ -79,7 +79,7 @@ The biggest differentiator is the **PGDM + PGPERP (SAP)** program. While ISB&M f
 *   **ISB&M Nande** has slightly higher *average* placement figures (approx. ₹11.4 LPA) because of its strong FMCG and Marketing placements.
 *   **IIEBM Pune**, however, offers a much higher *ceiling* for tech-savvy management students. The **Highest Package of ₹30-34 LPA** is frequently recorded in their SAP track, as SAP consultants are among the highest-paid professionals in the IT and consulting industry.
 
-If you are aiming for a career in **Digital Transformation or Business Consulting**, the [Importance of SAP in MBA/PGDM Careers](/blog/importance-of-sap-in-mba-pgdm-career-2027-29) cannot be ignored.
+If you are aiming for a career in **Digital Transformation or Business Consulting**, the [Importance of SAP in MBA/PGDM Careers](/blog/importance-of-sap-in-mba-pgdm-career-2027-29/) cannot be ignored.
 
 ---
 
@@ -104,24 +104,24 @@ ISB&M Nande is more scenic and "campus-like," but slightly further from the main
 *   You want a career in **SAP Consulting or IT Management**.
 *   You are looking for a **Higher ROI** (Lower fees vs solid tech placements).
 *   You prefer a disciplined, "corporate-ready" grooming environment.
-*   Read more: [All About IIEBM Pune](/colleges/iiebm-pune).
+*   Read more: [All About IIEBM Pune](/colleges/iiebm-pune/).
 
 #### **Choose ISB&M Pune If:**
 *   You want a career in **Brand Marketing, Media, or Core Finance**.
 *   You enjoy a "free" student-driven campus culture with more extracurricular autonomy.
 *   You have a higher budget (₹14L+) and want a premium lifestyle-based learning experience.
-*   Read more: [ISB&M Nande Review 2027–29](/blog/isbm-nande-pune-pgdm-review-2027-29).
+*   Read more: [ISB&M Nande Review 2027–29](/blog/isbm-nande-pune-pgdm-review-2027-29/).
 
 ---
 
 **Confused about your MBA journey?** 
 Don't make a decision based only on brochures. Get a personalized roadmap for your career!
 
-[👉 Book Free Counselling with Mohit Jain](/inquiry) | [📊 Try our MBA College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges)
+[👉 Book Free Counselling with Mohit Jain](/inquiry/) | [📊 Try our MBA College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/)
 
 **Related Articles:**
-*   [Best MBA Colleges in Pune 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [Why Never Join High Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
+*   [Best MBA Colleges in Pune 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [Why Never Join High Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)
 
 ---
 
@@ -143,6 +143,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

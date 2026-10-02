@@ -58,8 +58,8 @@ These institutes offer unmatched return on investment (ROI) due to heavily subsi
 
 | College Name | Location | Expected Cutoff (Percentile) | Approx. Total Fees (2 Yrs) |
 | :--- | :--- | :--- | :--- |
-| **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** | Mumbai | 99.98+ | ₹6.0 Lakhs |
-| **SIMSREE (Sydenham [Institute of Management Studies](/colleges/ims-noida))** | Mumbai | 99.95+ | ₹1.4 Lakhs |
+| **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))** | Mumbai | 99.98+ | ₹6.0 Lakhs |
+| **SIMSREE (Sydenham [Institute of Management Studies](/colleges/ims-noida/))** | Mumbai | 99.95+ | ₹1.4 Lakhs |
 | **PUMBA (Department of Management Sciences, Pune Univ.)** | Pune | 99.80+ | ₹1.3 Lakhs |
 
 ### 2. Top Autonomous & Private Colleges
@@ -101,21 +101,21 @@ Even if you hold credible scores from CAT, CMAT, MAT, or ATMA, registering for t
 *   **MBA vs. PGDM:** The CAP process primarily allocates seats for the University-affiliated **MMS/MBA** programs. Many top autonomous colleges (like Welingkar or SIES) also run autonomous PGDM programs which might have separate institute-level admission processes alongside CAP. Always check individual college websites.
 *   **Domicile Advantage:** Maharashtra State (MS) candidates have a significantly higher seat allocation quota (typically 85%) compared to Outside Maharashtra State (OMS) / All India candidates (15%). 
 
-[👉 Need help navigating the CAP rounds or targeting the right CET College? Get personalized expert profile evaluation and career counselling from Mohit Jain!](/inquiry)
+[👉 Need help navigating the CAP rounds or targeting the right CET College? Get personalized expert profile evaluation and career counselling from Mohit Jain!](/inquiry/)
 
 ---
 
 ### Internal References:
-* [Top MAH MBA CET Colleges in Mumbai & Pune 2027–29](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29)
-* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
-* [Top MBA Colleges in Pune](/colleges/mba-colleges-pune)
+* [Top MAH MBA CET Colleges in Mumbai & Pune 2027–29](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29/)
+* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+* [Top MBA Colleges in Pune](/colleges/mba-colleges-pune/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -130,6 +130,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

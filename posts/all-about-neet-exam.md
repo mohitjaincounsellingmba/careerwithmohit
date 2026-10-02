@@ -26,7 +26,7 @@ faqs:
       number of attempts for NEET-UG, provided the candidate meets the age and
       qualification requirements.
   - question: Is the NEET syllabus limited to NCERT?
-    answer: "While the majority of questions (roughly 95%+) are directly based on NCERT textbooks, some conceptual application questions may require a slightly deeper understanding of the topics.\n\n[\U0001F449 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry)"
+    answer: "While the majority of questions (roughly 95%+) are directly based on NCERT textbooks, some conceptual application questions may require a slightly deeper understanding of the topics.\n\n[\U0001F449 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Medical/MBBS
@@ -103,7 +103,7 @@ Following a recent amendment, there is currently **no limit** on the number of a
 ### 4. Is the NEET syllabus limited to NCERT?
 While the majority of questions (roughly 95%+) are directly based on NCERT textbooks, some conceptual application questions may require a slightly deeper understanding of the topics.
 
-[👉 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry)
+[👉 Confused about medical admissions and NEET counselling? Get expert advice from Mohit Jain today!](/inquiry/)
 
 
 
@@ -111,6 +111,6 @@ While the majority of questions (roughly 95%+) are directly based on NCERT textb
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

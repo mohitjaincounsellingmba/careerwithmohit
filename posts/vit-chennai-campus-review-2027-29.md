@@ -76,7 +76,7 @@ Vellore Institute of Technology (VIT) Chennai Campus, located on Vandalur-Kelamb
 | **Full Institutional Name** | Vellore Institute of Technology (VIT), Chennai Campus |
 | **Location & Region** | Chennai (Vandalur-Kelambakkam Road), Chennai, South India |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
-| **Established Year** | 2010 ([VIT Vellore](/colleges/vit-vellore-campus) legacy since 1984) |
+| **Established Year** | 2010 ([VIT Vellore](/colleges/vit-vellore-campus/) legacy since 1984) |
 | **Accreditations & Approvals** | UGC, NAAC A++ Grade (3.66/4), NIRF Top 15 Engineering, ABET, AICTE |
 | **Flagship Academic Streams** | B.Tech (CSE/AI/ECE), MBA (VIT Business School), BA LLB / BBA LLB (VITSOL) |
 | **Accepted Entrance Exams** | VITEEE (B.Tech), VITMEE, CAT / MAT / XAT / NMAT (MBA), CLAT / Merit (Law) |
@@ -147,7 +147,7 @@ Securing admission to Vellore Institute of Technology (VIT), Chennai Campus for 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **VIT Chennai Campus**:
 
 ### 👍 Why Choose VIT Chennai Campus? (Pros)
-- **100%** centralized placements with [VIT Vellore](/colleges/vit-vellore-campus) main campus, ensuring identical dream job access
+- **100%** centralized placements with [VIT Vellore](/colleges/vit-vellore-campus/) main campus, ensuring identical dream job access
 - **NAAC** A++ Grade accreditation with an outstanding 3.66 CGPA and top-15 NIRF engineering rank
 - **Innovative** Fully Flexible Credit System (FFCS) allowing students to choose faculty and timetable
 - **Category** 1 tuition fee (₹1.98 Lakhs/year) is exceptionally affordable for top VITEEE rankers
@@ -174,10 +174,10 @@ Admissions for 2026 at Vellore Institute of Technology (VIT), Chennai Campus are
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam)
-- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota)
-- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/all-about-cat-exam/)
+- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+- [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
+- [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
@@ -185,12 +185,12 @@ Admissions for 2026 at Vellore Institute of Technology (VIT), Chennai Campus are
 
 Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.
 
-[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
+[👉 Build Your Admission Roadmap with Mohit Jain](/inquiry/) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
 
 ---
 
 ### 🚀 Boost Your Preparation
-Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 
 ## Verified 2027–2029 MBA / PGDM Comparison Matrix
@@ -202,6 +202,6 @@ Looking for more resources? **[Explore Our Premium Mock Test Series 2026](/mock-
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -44,21 +44,21 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The Common Admission Test (CAT) is India's most prestigious and highly competitive MBA entrance exam. For candidates aiming to secure a seat in one of the 21 Indian Institutes of Management (IIMs) or other top B-schools like [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon), knowing who organizes the exam is one of the first steps of the journey.
+The Common Admission Test (CAT) is India's most prestigious and highly competitive MBA entrance exam. For candidates aiming to secure a seat in one of the 21 Indian Institutes of Management (IIMs) or other top B-schools like [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), and [MDI Gurgaon](/colleges/mdi-gurgaon/), knowing who organizes the exam is one of the first steps of the journey.
 
 A common question among aspirants preparing for the upcoming session is: **Who conducts CAT 2026?** 
 
-Based on the official rotation policy of the senior IIMs and early notifications, **[IIM Indore](/colleges/iim-indore)** is the official conducting body for CAT 2026.
+Based on the official rotation policy of the senior IIMs and early notifications, **[IIM Indore](/colleges/iim-indore/)** is the official conducting body for CAT 2026.
 
 ---
 
 ## 1. The Rotational Policy: How the CAT Conducting IIM is Chosen
 The responsibility of organizing the CAT rotates every year among the top six "older" IIMs:
-1. [IIM Ahmedabad](/colleges/iim-ahmedabad)
-2. [IIM Bangalore](/colleges/iim-bangalore)
-3. [IIM Calcutta](/colleges/iim-calcutta)
-4. [IIM Lucknow](/colleges/iim-lucknow)
-5. [IIM Indore](/colleges/iim-indore)
+1. [IIM Ahmedabad](/colleges/iim-ahmedabad/)
+2. [IIM Bangalore](/colleges/iim-bangalore/)
+3. [IIM Calcutta](/colleges/iim-calcutta/)
+4. [IIM Lucknow](/colleges/iim-lucknow/)
+5. [IIM Indore](/colleges/iim-indore/)
 6. IIM Kozhikode
 
 Each year, the selected IIM appoints a **CAT Convenor** who oversees the exam creation, registration process, test center management, and final result declaration. 
@@ -67,19 +67,19 @@ Here is a quick look at the historical timeline of CAT conducting bodies:
 
 | Year | Conducting IIM | Convenor (If Applicable) |
 | :--- | :--- | :--- |
-| **2026** | **[IIM Indore](/colleges/iim-indore)** | To be announced |
+| **2026** | **[IIM Indore](/colleges/iim-indore/)** | To be announced |
 | **2025** | IIM Kozhikode | Prof. Rajesh S. Upadhyayula |
-| **2024** | [IIM Calcutta](/colleges/iim-calcutta) | Prof. Sanjeet Singh |
-| **2023** | [IIM Lucknow](/colleges/iim-lucknow) | Prof. Sanjeet Singh / Prof. Pradyumna Dash |
-| **2022** | [IIM Bangalore](/colleges/iim-bangalore) | Prof. Ashis Mishra |
-| **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | Prof. M.P. Ram Mohan |
+| **2024** | [IIM Calcutta](/colleges/iim-calcutta/) | Prof. Sanjeet Singh |
+| **2023** | [IIM Lucknow](/colleges/iim-lucknow/) | Prof. Sanjeet Singh / Prof. Pradyumna Dash |
+| **2022** | [IIM Bangalore](/colleges/iim-bangalore/) | Prof. Ashis Mishra |
+| **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | Prof. M.P. Ram Mohan |
 | **2020** | **IIM Indore** | Prof. Harshal Lowalekar |
 
 ---
 
 ## 2. What to Expect from IIM Indore as the Organizing Body?
 IIM Indore has a reputation for executing highly standardized, well-organized examinations. Historically, when IIM Indore conducts the CAT exam, there are a few patterns observed:
-* **Balanced Paper Difficulty:** Unlike [IIM Ahmedabad](/colleges/iim-ahmedabad) (which is known for historically challenging Quantitative Aptitude sections) or [IIM Calcutta](/colleges/iim-calcutta) (known for tough DILR sections), IIM Indore generally sets a balanced paper across VARC, DILR, and QA.
+* **Balanced Paper Difficulty:** Unlike [IIM Ahmedabad](/colleges/iim-ahmedabad/) (which is known for historically challenging Quantitative Aptitude sections) or [IIM Calcutta](/colleges/iim-calcutta/) (known for tough DILR sections), IIM Indore generally sets a balanced paper across VARC, DILR, and QA.
 * **Streamlined Registration:** The online portal is kept highly intuitive and responsive to handle over 3 lakh registrations smoothly.
 * **Test Center Coordination:** IIM Indore has successfully expanded test locations in previous years to ensure accessibility for rural and semi-urban candidates.
 
@@ -96,7 +96,7 @@ While the official brochure will release on the official portal, here is the pro
 * **Answer Key & Response Sheet:** First week of December 2026
 * **CAT 2026 Result Date:** Second week of January 2027
 
-To view a detailed date-by-date schedule, visit our guide on [CAT 2026 Exam Date & Timeline](/blog/cat-2026-exam-date-notification-registration-schedule).
+To view a detailed date-by-date schedule, visit our guide on [CAT 2026 Exam Date & Timeline](/blog/cat-2026-exam-date-notification-registration-schedule/).
 
 ---
 
@@ -121,7 +121,7 @@ Under IIM Indore's coordination, the exam pattern is expected to remain consiste
 2. **Data Interpretation & Logical Reasoning (DILR):** 20 Questions
 3. **Quantitative Aptitude (QA):** 22 Questions
 
-For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs](/blog/all-about-cat-exam).
+For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs](/blog/all-about-cat-exam/).
 
 ---
 
@@ -144,16 +144,16 @@ The official portal is [iimcat.ac.in](https://iimcat.ac.in). Be careful of phish
 ### Need Profile Analysis and Strategy?
 Preparing for CAT 2026 requires more than just studies—it requires profile building to secure final calls from the top IIMs.
 
-[👉 Connect with Mohit Jain for Profile Analysis and Personalized MBA Mentorship](/inquiry)
+[👉 Connect with Mohit Jain for Profile Analysis and Personalized MBA Mentorship](/inquiry/)
 
 *Related Posts:*
-* [CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)
-* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2027-29)
+* [CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2027-29/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

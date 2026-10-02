@@ -57,7 +57,7 @@ export function College4SureVideoShowcase() {
             </p>
           </div>
           <Link
-            href="/blog"
+            href="/blog/"
             className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white hover:bg-[#2563EB] text-[#061124] hover:text-white border border-[#061124]/15 font-bold text-sm transition-all shadow-sm group self-start sm:self-auto"
           >
             <span>Read all admissions guides</span>

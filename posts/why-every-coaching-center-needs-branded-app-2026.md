@@ -83,14 +83,14 @@ The competition is already going digital. Don't be left behind with outdated mod
 
 We specialize in helping coaching institutes like yours launch their own state-of-the-art branded apps in record time.
 
-**[Get a Free Customized Demo for Your Institute Today!](/inquiry)**
+**[Get a Free Customized Demo for Your Institute Today!](/inquiry/)**
 
 ---
 
 *Related content for educational entrepreneurs:*
-*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2027-29)
-*   [How YouTubers Can Monetize Their Audience](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-*   [Direct MBA Admission Guide 2026](/blog/direct-mba-admission-india)
+*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2027-29/)
+*   [How YouTubers Can Monetize Their Audience](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [Direct MBA Admission Guide 2026](/blog/direct-mba-admission-india/)
 
 ---
 
@@ -112,6 +112,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

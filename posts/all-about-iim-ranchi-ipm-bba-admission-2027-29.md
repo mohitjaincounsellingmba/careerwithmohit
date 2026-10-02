@@ -31,9 +31,9 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIM Ranchi](/colleges/iim-ranchi) is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, [IIM Ranchi](/colleges/iim-ranchi) has become a top choice for students who want an IIM brand right after school in 2026.
+[IIM Ranchi](/colleges/iim-ranchi/) is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, [IIM Ranchi](/colleges/iim-ranchi/) has become a top choice for students who want an IIM brand right after school in 2026.
 
-## 🏛️ Why Choose [IIM Ranchi](/colleges/iim-ranchi) IPM in 2026?
+## 🏛️ Why Choose [IIM Ranchi](/colleges/iim-ranchi/) IPM in 2026?
 The IPM program at IIM Ranchi is designed to provide a solid foundation in management with a multi-disciplinary approach.
 - **Academic Rigor:** Curriculum curated by top IIM faculty.
 - **Industry Connect:** Jharkhand's industrial hub provides ample opportunities for field projects and internships.
@@ -69,21 +69,21 @@ Generally, IIM Ranchi accepts IPMAT Indore scores. Candidates should verify the 
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)
-- [IIM Rohtak IPM Admission 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)
+- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29/)
+- [IIM Rohtak IPM Admission 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29/)
 
 ---
 
 **Unsure whether to take the SAT or IPMAT for Ranchi?**
 While IPMAT is tougher on Math, SAT is more logic-driven. Mohit Jain’s "IPM Score Optimizer" helps you decide which exam plays to your strengths to secure a seat at IIM Ranchi.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -97,6 +97,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

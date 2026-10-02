@@ -191,10 +191,10 @@ export default function JeeCalculatorPage() {
                         Essential Resources
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <Link href="/blog/jee-main-college-predictor-2026-btech-top-colleges" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/jee-main-college-predictor-2026-btech-top-colleges/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">NIT/IIIT College Predictor →</span>
                         </Link>
-                        <Link href="/blog/total-seats-in-nits-2026-seat-matrix" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/total-seats-in-nits-2026-seat-matrix/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">JEE Main Seat Matrix 2026 →</span>
                         </Link>
                     </div>

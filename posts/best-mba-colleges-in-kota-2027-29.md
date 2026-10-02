@@ -63,20 +63,20 @@ Government colleges in Kota are the first choice for students seeking high ROI (
 - **Average Placement:** ₹7.0 - ₹8.0 LPA (Highest ₹29 LPA)
 - **Entrance Exam:** CMAT, RMAP (Rajasthan Management Admission Process)
 - **USP:** The apex technical university of Rajasthan; excellent infrastructure and a massive corporate recruitment network.
-- [Read Full RTU Kota Review](/blog/all-about-rtu-kota-mba)
+- [Read Full RTU Kota Review](/blog/all-about-rtu-kota-mba/)
 
 ### 2. University of Kota (UOK)
 - **Fees:** ₹24,000 - ₹28,000 (Total)
 - **Average Placement:** ₹2.1 - ₹3.0 LPA
 - **Entrance Exam:** Merit-based / CMAT
 - **USP:** Extremely affordable education; ideal for students targeting state government jobs or local industrial roles.
-- [Read Full University of Kota Review](/blog/all-about-university-of-kota-mba)
+- [Read Full University of Kota Review](/blog/all-about-university-of-kota-mba/)
 
 ### 3. Vardhman Mahaveer Open University (VMOU)
 - **Specialization:** Distance MBA
 - **Fees:** ~₹14,600 (First Year)
 - **USP:** The premier destination for working professionals in Rajasthan seeking an MBA through distance learning with high flexibility.
-- [Read Full VMOU Distance MBA Review](/blog/all-about-vmou-kota-distance-mba)
+- [Read Full VMOU Distance MBA Review](/blog/all-about-vmou-kota-distance-mba/)
 
 ---
 
@@ -87,19 +87,19 @@ Private universities in Kota offer modern pedagogy, better industry tie-ups, and
 - **Fees:** ₹1.0 - ₹3.0 Lakhs (Depending on Specialization)
 - **Average Placement:** ₹4.0 LPA (Highest ₹1 Crore+)
 - **USP:** Strong focus on "New Age" specializations like Data Analytics and Digital Marketing; wide corporate reach.
-- [Read Full CPU Kota Review](/blog/all-about-career-point-university-kota-mba)
+- [Read Full CPU Kota Review](/blog/all-about-career-point-university-kota-mba/)
 
 ### 5. Modi Institute of Management and Technology (MIMT)
 - **Fees:** ~₹1.21 Lakhs (Total)
 - **Average Placement:** ₹3.0 - ₹5.0 LPA
 - **USP:** One of the oldest and most trusted management institutes in the region with an extensive alumni network.
-- [Read Full MIMT Kota Review](/blog/all-about-modi-institute-kota-mba)
+- [Read Full MIMT Kota Review](/blog/all-about-modi-institute-kota-mba/)
 
 ### 6. Om Kothari Institute of Management and Research (OKIMR)
 - **Fees:** ~₹1.20 Lakhs (Total)
 - **Average Placement:** ₹3.5 - ₹4.0 LPA
 - **USP:** 100% placement assistance and strong ties with banks like Axis and ICICI.
-- [Read Full OKIMR Kota Review](/blog/all-about-om-kothari-institute-kota-mba)
+- [Read Full OKIMR Kota Review](/blog/all-about-om-kothari-institute-kota-mba/)
 
 ---
 
@@ -121,7 +121,7 @@ Most government-affiliated colleges in Kota accept **CMAT** or the **RMAP** proc
 - **For Low Fees:** **University of Kota** or **VMOU** for distance.
 - **For Modern Skills:** **Career Point University** is the best private pick.
 
-[👉 Still confused about which college to pick in Kota? Chat with us for a free counselling session!](/inquiry)
+[👉 Still confused about which college to pick in Kota? Chat with us for a free counselling session!](/inquiry/)
 
 
 
@@ -129,7 +129,7 @@ Most government-affiliated colleges in Kota accept **CMAT** or the **RMAP** proc
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -143,6 +143,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

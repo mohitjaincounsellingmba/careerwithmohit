@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Planning to crack NMAT 2026? Learn how to achieve a 240+ scaled score, tackle
   the computer-adaptive pattern, and secure admission into [NMIMS
-  Mumbai](/colleges/nmims-mumbai).
+  Mumbai](/colleges/nmims-mumbai/).
 keywords:
   - how to crack nmat exam
   - crack nmat 2026
@@ -27,7 +27,7 @@ faqs:
       slots and difficulty levels.
   - question: Does NMAT have sectional cutoffs?
     answer: >-
-      Yes! [NMIMS Mumbai](/colleges/nmims-mumbai) has strict sectional cutoffs
+      Yes! [NMIMS Mumbai](/colleges/nmims-mumbai/) has strict sectional cutoffs
       (typically around 75+ in Language, 72+ in Quant, and 72+ in Logical
       Reasoning). You must perform consistently across all three sections.
   - question: Can I prepare for NMAT alongside CAT?
@@ -45,13 +45,13 @@ state: Maharashtra
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The NMAT by GMAC is unique compared to other management exams in India. It is highly student-friendly, allowing you to choose your section order, schedule your test date, and even retake the exam up to three times to improve your score. However, don't let this flexibility fool you. NMAT is the mandatory gateway to the flagship MBA program at **[NMIMS Mumbai](/colleges/nmims-mumbai)**, and securing a seat there requires a scaled score of 235+.
+The NMAT by GMAC is unique compared to other management exams in India. It is highly student-friendly, allowing you to choose your section order, schedule your test date, and even retake the exam up to three times to improve your score. However, don't let this flexibility fool you. NMAT is the mandatory gateway to the flagship MBA program at **[NMIMS Mumbai](/colleges/nmims-mumbai/)**, and securing a seat there requires a scaled score of 235+.
 
 To crack NMAT 2026, you need a strategy tailored specifically to its **computer-adaptive format** and strict speed limits.
 
 ---
 
-### [InquiryCard title="Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai)?" description="Learn how to score 240+ on your first attempt. Speak with Mohit Jain for NMAT exam strategy, scheduling tips, and profile evaluation." cta="Schedule Free Counselling Session" type="admission"]
+### [InquiryCard title="Aiming for [NMIMS Mumbai](/colleges/nmims-mumbai/)?" description="Learn how to score 240+ on your first attempt. Speak with Mohit Jain for NMAT exam strategy, scheduling tips, and profile evaluation." cta="Schedule Free Counselling Session" type="admission"]
 
 ---
 
@@ -100,7 +100,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 
 *   **Plan Your First Attempt Early (October):** Schedule your first attempt in October. This gives you ample time to take a second or third attempt in November/December if your score is below the NMIMS cutoff.
 *   **The 15-Day Gap Rule:** Remember, you must wait at least 15 days between consecutive NMAT attempts.
-*   **Check College Acceptance Policies:** While NMAT allows three attempts, **[NMIMS Mumbai](/colleges/nmims-mumbai) only accepts the score of your first attempt** for its flagship MBA core program. Make your first attempt count!
+*   **Check College Acceptance Policies:** While NMAT allows three attempts, **[NMIMS Mumbai](/colleges/nmims-mumbai/) only accepts the score of your first attempt** for its flagship MBA core program. Make your first attempt count!
 
 ---
 
@@ -108,8 +108,8 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 
 | College | Expected Cutoff (Scaled Score) | Highlight |
 |:---|:---:|:---|
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (Core/HR)** | 235 - 240+ | Flagship program, high corporate reputation |
-| **[NMIMS Bangalore](/colleges/nmims-bangalore) / Navi Mumbai** | 220 - 225+ | Excellent placement records in IT & finance |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (Core/HR)** | 235 - 240+ | Flagship program, high corporate reputation |
+| **[NMIMS Bangalore](/colleges/nmims-bangalore/) / Navi Mumbai** | 220 - 225+ | Excellent placement records in IT & finance |
 | **K. J. Somaiya (Mumbai)** | 225+ | Great ROI, massive alumni network |
 | **TAPMI Manipal** | 200 - 215+ | Triple Crown accredited B-school |
 | **XIMB (Bhubaneswar)** | 215+ | Accepted only for the specialized HR program |
@@ -122,7 +122,7 @@ LR in NMAT is a mix of verbal reasoning and analytical reasoning.
 Your raw marks are converted into a scaled score ranging from 36 to 360. This scaling ensures that scores are comparable across different test slots and difficulty levels.
 
 ### Q2. Does NMAT have sectional cutoffs?
-Yes! [NMIMS Mumbai](/colleges/nmims-mumbai) has strict sectional cutoffs (typically around 75+ in Language, 72+ in Quant, and 72+ in Logical Reasoning). You must perform consistently across all three sections.
+Yes! [NMIMS Mumbai](/colleges/nmims-mumbai/) has strict sectional cutoffs (typically around 75+ in Language, 72+ in Quant, and 72+ in Logical Reasoning). You must perform consistently across all three sections.
 
 ### Q3. Can I prepare for NMAT alongside CAT?
 Absolutely. The syllabus is virtually identical. The only shift required is practicing NMAT mock tests to adapt to the speed (108 questions in 120 minutes) and learning how to solve Data Sufficiency and Input-Output questions.
@@ -130,13 +130,13 @@ Absolutely. The syllabus is virtually identical. The only shift required is prac
 ---
 
 ### Related Articles:
-*   [All About NMAT Exam 2026: NMIMS Cutoffs, Pattern & Colleges](/blog/all-about-nmat-exam)
-*   [Free NMAT Mock Test 2026: Practice Adaptive Format](/blog/free-nmat-mock-test-2026-nmims-prep)
-*   [NMAT Prep Strategy: Scoring 240+ Scaled Marks](/blog/nmat-2026-preparation-strategy-240-score)
+*   [All About NMAT Exam 2026: NMIMS Cutoffs, Pattern & Colleges](/blog/all-about-nmat-exam/)
+*   [Free NMAT Mock Test 2026: Practice Adaptive Format](/blog/free-nmat-mock-test-2026-nmims-prep/)
+*   [NMAT Prep Strategy: Scoring 240+ Scaled Marks](/blog/nmat-2026-preparation-strategy-240-score/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

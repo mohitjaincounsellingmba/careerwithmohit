@@ -43,7 +43,7 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
+The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
 
 Two sections make or break an aspirant's dream of cracking XLRI: **Decision Making (DM)** and **Verbal & Logical Ability (VALA)**. Unlike standard entrance tests, XAT tests your ability to think like a compassionate, ethical, and commercially astute business leader.
 
@@ -53,7 +53,7 @@ In this masterclass guide for **XAT 2027**, we break down core ethical principle
 
 > 🎯 **Master XAT 2027 DM & VALA with Real Past Papers & Mock Tests!**
 >
-> [👉 Access Free XAT DM Mocks & Sectional Practice Tests](/mock-tests)
+> [👉 Access Free XAT DM Mocks & Sectional Practice Tests](/mock-tests/)
 
 ---
 
@@ -131,7 +131,7 @@ XAT almost always features 1 or 2 poem passages followed by 2–3 questions test
 
 ---
 
-## XAT 2027 Expected Cutoffs for [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi NCR
+## XAT 2027 Expected Cutoffs for [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) & XLRI Delhi NCR
 
 XLRI offers two flagship programs: **PGDM Business Management (BM)** and **PGDM Human Resource Management (HRM)**. XLRI publishes differential cutoffs based on gender and academic background (Engineer vs. Non-Engineer).
 
@@ -164,7 +164,7 @@ Even if you narrowly miss XLRI cutoffs, XAT opens doors to premier management in
 | **XIMB (Xavier Institute of Management, Bhubaneswar)** | **90 - 92 Percentile** | ₹20.03 LPA |
 | **IMT Ghaziabad (PGDM Marketing)** | **90 - 92 Percentile** | ₹17.35 LPA |
 | **TAPMI Manipal** | **85 - 88 Percentile** | ₹15.70 LPA |
-| **[FORE School of Management](/colleges/fore-school-delhi), New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/), New Delhi** | **83 - 85 Percentile** | ₹14.50 LPA |
 | **GIM Goa (Goa Institute of Management)** | **85 - 88 Percentile** | ₹14.87 LPA |
 | **Great Lakes Institute of Management (Chennai/Gurgaon)**| **82 - 85 Percentile** | ₹14.50 LPA |
 | **IRMA Anand (Rural Management)** | **80 - 83 Percentile** | ₹15.50 LPA |
@@ -183,11 +183,11 @@ Even if you narrowly miss XLRI cutoffs, XAT opens doors to premier management in
 ### Need Customized XAT Mentorship & Strategy?
 
 * 📞 **XAT Prep Guidance Hotline:** Connect with mentor **Mohit Jain** for personalized section-wise prep strategy.
-* 📋 **[Download Free XAT DM Solved Question Bank PDF](/mock-tests)** featuring 50+ business case studies.
+* 📋 **[Download Free XAT DM Solved Question Bank PDF](/mock-tests/)** featuring 50+ business case studies.
 
 ---
 
 ### Boost Your Preparation
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

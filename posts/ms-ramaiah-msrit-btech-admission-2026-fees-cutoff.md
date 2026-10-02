@@ -44,7 +44,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-**MS [Ramaiah Institute of Technology (MSRIT)](/colleges/ms-ramaiah-institute-of-technology)**, established in 1962, is widely considered the "Gold Standard" of private engineering education in Bangalore. Ranking consistently among the top 100 engineering institutes in NIRF, MSRIT is the second-most preferred choice after the iconic **RVCE** in the COMEDK and KCET counselling rounds.
+**MS [Ramaiah Institute of Technology (MSRIT)](/colleges/ms-ramaiah-institute-of-technology/)**, established in 1962, is widely considered the "Gold Standard" of private engineering education in Bangalore. Ranking consistently among the top 100 engineering institutes in NIRF, MSRIT is the second-most preferred choice after the iconic **RVCE** in the COMEDK and KCET counselling rounds.
 
 ### **MSRIT Admission Channels 2026**
 1.  **KCET (45% Seats)**: For Karnataka domicile students only.
@@ -77,14 +77,14 @@ MSRIT is one of the most industry-oriented institutes in the country, with over 
 
 ### **Explore Other M.S. Ramaiah Options**
 Make sure to check the difference between the Institute and the University:
-*   **[MS Ramaiah University (MSRUAS): Admission Guide](/blog/ms-ramaiah-university-msruas-btech-admission-2026-fees-review)**
-*   **[RV College of Engineering (RVCE): Detailed Review](/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[MS Ramaiah University (MSRUAS): Admission Guide](/blog/ms-ramaiah-university-msruas-btech-admission-2026-fees-review/)**
+*   **[RV College of Engineering (RVCE): Detailed Review](/blog/rv-college-of-engineering-rvce-btech-admission-2026-fees-cutoff/)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)**
 
 **Confused Between MSRIT and RVCE?**
 MSRIT is often preferred by students who want a more diverse academic environment and a slightly larger campus located in the heart of North Bangalore. At **CareerWithMohit**, we help you choose between MSRIT, RVCE, and BMSCE based on your specific branch preference and future career goals.
 
-[👉 Get Expert Admission Guidance for MSRIT!](/inquiry)
+[👉 Get Expert Admission Guidance for MSRIT!](/inquiry/)
 
 ---
 
@@ -106,6 +106,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

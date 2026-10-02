@@ -355,7 +355,7 @@ export default function InternshipsPage() {
           <p className="text-2xl font-bold mb-12 max-w-2xl mx-auto text-rose-100">
             Learn the exact frameworks used by top students to land high-paying Product, IB, and SWE internships.
           </p>
-          <Link href="/inquiry" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
+          <Link href="/inquiry/" className="inline-flex items-center gap-4 bg-yellow-300 text-[#18181b] border-[6px] border-[#18181b] px-12 py-6 text-3xl font-black uppercase tracking-widest shadow-[12px_12px_0px_0px_rgba(24,24,27,1)] hover:-translate-y-2 hover:shadow-[16px_16px_0px_0px_rgba(24,24,27,1)] transition-all active:translate-y-2 active:shadow-none">
             Get Career Roadmap <ExternalLink className="w-8 h-8" />
           </Link>
         </div>

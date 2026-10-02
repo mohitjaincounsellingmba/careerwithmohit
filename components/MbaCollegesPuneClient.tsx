@@ -655,7 +655,7 @@ export function MbaCollegesPuneClient({
                 </p>
                 <ul className="list-disc pl-6 space-y-2 font-semibold">
                   <li>
-                    <strong className="font-black text-foreground">Return on Investment (ROI):</strong> Government departments like <Link href="/colleges/pumba-pune" className="text-primary hover:underline">PUMBA Pune</Link> offer extremely low fees (~₹1.3 Lakhs) with strong ₹8.5 LPA average salaries. Private colleges like <Link href="/colleges/sibm-pune" className="text-primary hover:underline">SIBM Pune</Link> have higher fees (~₹29 Lakhs) but offer top-tier brand placement records exceeding ₹28 LPA average package.
+                    <strong className="font-black text-foreground">Return on Investment (ROI):</strong> Government departments like <Link href="/colleges/pumba-pune/" className="text-primary hover:underline">PUMBA Pune</Link> offer extremely low fees (~₹1.3 Lakhs) with strong ₹8.5 LPA average salaries. Private colleges like <Link href="/colleges/sibm-pune/" className="text-primary hover:underline">SIBM Pune</Link> have higher fees (~₹29 Lakhs) but offer top-tier brand placement records exceeding ₹28 LPA average package.
                   </li>
                   <li>
                     <strong className="font-black text-foreground">Curriculum Accreditation:</strong> Ensure PGDM courses have AICTE approval and MBA courses are affiliated with Savitribai Phule Pune University (SPPU) or Symbiosis International.

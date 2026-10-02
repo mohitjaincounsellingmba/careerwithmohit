@@ -89,7 +89,7 @@ The placement figures for top NITs easily surpass those of all state-level and m
 **Our Verdict:** If you are scoring 98-99+ percentile in JEE Main, aiming for CSE/ECE in the top 5 NITs is a brilliant, safe career move. They provide a massive brand name, excellent government-subsidized fees, and day-zero tech placements that rival top IITs.
 
 ---
-[👉 Need help with JoSAA Counselling choice filling for NITs? Book a session with our B.Tech admission experts!](/inquiry)
+[👉 Need help with JoSAA Counselling choice filling for NITs? Book a session with our B.Tech admission experts!](/inquiry/)
 
 ---
 
@@ -111,6 +111,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

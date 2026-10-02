@@ -35,7 +35,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [Azim Premji University](/colleges/azim-premji-university)**
+### **College Review: [Azim Premji University](/colleges/azim-premji-university/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -51,7 +51,7 @@ state: Karnataka
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Azim Premji University](/colleges/azim-premji-university) 2026 Snapshot
+## 📊 [Azim Premji University](/colleges/azim-premji-university/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,25 +79,25 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Azim Premji University](/colleges/azim-premji-university) a good option for PGDM/MBA?
-Yes, [Azim Premji University](/colleges/azim-premji-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Azim Premji University](/colleges/azim-premji-university/) a good option for PGDM/MBA?
+Yes, [Azim Premji University](/colleges/azim-premji-university/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Azim Premji University](/colleges/azim-premji-university)?
-The average placement package at [Azim Premji University](/colleges/azim-premji-university) is approximately ₹22 LPA, with the highest package reaching up to ₹12 LPA.
+### 2. What is the average package offered at [Azim Premji University](/colleges/azim-premji-university/)?
+The average placement package at [Azim Premji University](/colleges/azim-premji-university/) is approximately ₹22 LPA, with the highest package reaching up to ₹12 LPA.
 
-### 3. What entrance exams are accepted by [Azim Premji University](/colleges/azim-premji-university)?
+### 3. What entrance exams are accepted by [Azim Premji University](/colleges/azim-premji-university/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Azim Premji University](/colleges/azim-premji-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Azim Premji University](/colleges/azim-premji-university/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Azim Premji University](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to Azim Premji University](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -111,6 +111,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

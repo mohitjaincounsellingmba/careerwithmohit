@@ -95,14 +95,14 @@ To automate your marketing, delivery, and sales, your custom platform should be 
 Taking your academy digital has never been easier. You don't need to be a coding expert to launch an app. We handle the technology so you can focus on what you do best: teaching.
 
 Ready to launch your own Digital Academy? 
-**[Book a Free Personal Demo with our Experts Today!](/inquiry)**
+**[Book a Free Personal Demo with our Experts Today!](/inquiry/)**
 
 ---
 
 *Related reading to help you grow your coaching business:*
-*   [Top Online Coaching for MBA Entrance Exams 2027–29](/blog/best-mba-coaching-online-2027-29)
-*   [Direct MBA Admission Guide](/blog/direct-mba-admission-india)
-*   [How to Start Freelancing in 2026](/blog/how-to-start-freelancing-2026-beginners-india)
+*   [Top Online Coaching for MBA Entrance Exams 2027–29](/blog/best-mba-coaching-online-2027-29/)
+*   [Direct MBA Admission Guide](/blog/direct-mba-admission-india/)
+*   [How to Start Freelancing in 2026](/blog/how-to-start-freelancing-2026-beginners-india/)
 
 ---
 
@@ -124,6 +124,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

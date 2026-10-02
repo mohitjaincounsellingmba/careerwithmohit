@@ -27,7 +27,7 @@ faqs:
       best branches for 2026.
   - question: Which IIT is best for Electrical Engineering?
     answer: >-
-      [IIT Bombay](/colleges/iit-bombay)'s EE department is widely considered
+      [IIT Bombay](/colleges/iit-bombay/)'s EE department is widely considered
       the best in India, followed by IIT Delhi and IIT Madras.
   - question: What GATE score is needed for NTPC recruitment?
     answer: >-
@@ -62,7 +62,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 
 | College | Type | Annual Fees | Avg EE Package | Entrance Exam |
 |---|---|---|---|---|
-| [IIT Bombay](/colleges/iit-bombay) (EE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay/) (EE) | Central Govt | ₹2.5 L | ₹16–24 LPA | JEE Advanced |
 | IIT Delhi (EE) | Central Govt | ₹2.5 L | ₹15–22 LPA | JEE Advanced |
 | IIT Madras (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | IIT Kanpur (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
@@ -70,9 +70,9 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | NIT Tiruchirappalli (EEE) | Central Govt | ₹2.0 L | ₹7–12 LPA | JEE Main |
 | NIT Warangal (EEE) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
 | IIT Hyderabad (EE) | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
-| [BITS Pilani](/colleges/bits-pilani) (EEE) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
+| [BITS Pilani](/colleges/bits-pilani/) (EEE) | Private Deemed | ₹5.5 L | ₹10–18 LPA | BITSAT |
 | Thapar University (EEE) | Private | ₹4.0 L | ₹7–12 LPA | JEE Main |
-| [VIT Vellore](/colleges/vit-vellore-campus) (EEE) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
+| [VIT Vellore](/colleges/vit-vellore-campus/) (EEE) | Private Deemed | ₹2.1 L | ₹5–9 LPA | VITEEE |
 | NIT Surathkal (EE) | Central Govt | ₹1.5 L | ₹7–11 LPA | JEE Main |
 
 ---
@@ -95,7 +95,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 
 | IIT | General Category Closing Rank (EE) |
 |---|---|
-| [IIT Bombay](/colleges/iit-bombay) | ~700 |
+| [IIT Bombay](/colleges/iit-bombay/) | ~700 |
 | IIT Delhi | ~850 |
 | IIT Madras | ~1,000 |
 | IIT Kanpur | ~1,200 |
@@ -104,7 +104,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | IIT Guwahati | ~3,500 |
 | IIT Hyderabad | ~4,000 |
 
-> **Note:** [IIT Bombay](/colleges/iit-bombay) EE is consistently one of the most coveted programmes after CSE, attracting students from the top 1,000 JEE Advanced ranks.
+> **Note:** [IIT Bombay](/colleges/iit-bombay/) EE is consistently one of the most coveted programmes after CSE, attracting students from the top 1,000 JEE Advanced ranks.
 
 ---
 
@@ -116,7 +116,7 @@ This guide covers the **best B.Tech Electrical Engineering colleges in India for
 | NIT Warangal | ~14,000 |
 | NIT Surathkal | ~16,000 |
 | NIT Calicut | ~18,000 |
-| [MNIT Jaipur](/colleges/mnit-jaipur) | ~22,000 |
+| [MNIT Jaipur](/colleges/mnit-jaipur/) | ~22,000 |
 | NIT Delhi | ~20,000 |
 
 ---
@@ -133,7 +133,7 @@ GATE EE (Electrical Engineering) has some of India's most prestigious PSU opport
 - **ECIL** — electronics & communications | Salary: ₹9–11 LPA
 - **Coal India** — power & electrical operations | Salary: ₹9–12 LPA
 
-[Read: All About GATE Exam — Strategy, PSU Jobs & M.Tech Guide](/blog/all-about-gate-exam)
+[Read: All About GATE Exam — Strategy, PSU Jobs & M.Tech Guide](/blog/all-about-gate-exam/)
 
 ---
 
@@ -156,7 +156,7 @@ India's solar and wind capacity expansion needs electrical engineers for grid in
 Yes. The EV revolution, semiconductor boom, renewable energy push, and continued strength of power PSUs make Electrical Engineering one of the best branches for 2026.
 
 **Q2. Which IIT is best for Electrical Engineering?**
-[IIT Bombay](/colleges/iit-bombay)'s EE department is widely considered the best in India, followed by IIT Delhi and IIT Madras.
+[IIT Bombay](/colleges/iit-bombay/)'s EE department is widely considered the best in India, followed by IIT Delhi and IIT Madras.
 
 **Q3. What GATE score is needed for NTPC recruitment?**
 A GATE EE score of at least 700–750/1000 is needed for a reasonable chance at NTPC. PowerGrid cutoffs are similar.
@@ -171,15 +171,15 @@ Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE: ₹9�
 
 ## Useful Resources
 
-- [All About GATE Exam — PSU Jobs & Strategy Guide](/blog/all-about-gate-exam)
-- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [Best B.Tech Mechanical Engineering Colleges India 2026](/blog/best-btech-mechanical-engineering-colleges-india-2026)
-- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
+- [All About GATE Exam — PSU Jobs & Strategy Guide](/blog/all-about-gate-exam/)
+- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [Best B.Tech Mechanical Engineering Colleges India 2026](/blog/best-btech-mechanical-engineering-colleges-india-2026/)
+- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
 
 ---
 
-**[👉 Want expert guidance on Electrical Engineering colleges for your JEE rank? Book a FREE call with Mohit!](/inquiry)**
+**[👉 Want expert guidance on Electrical Engineering colleges for your JEE rank? Book a FREE call with Mohit!](/inquiry/)**
 
 
 
@@ -187,6 +187,6 @@ Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE: ₹9�
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

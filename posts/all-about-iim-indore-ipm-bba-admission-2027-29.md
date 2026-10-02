@@ -30,16 +30,16 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIM Indore](/colleges/iim-indore) was the first IIM to launch the Integrated Programme in Management (IPM), a unique 5-year course that blends undergraduate and postgraduate management education. In 2026, it remains the "Gold Standard" for students aiming to join the Indian Institute of Management straight after Class 12.
+[IIM Indore](/colleges/iim-indore/) was the first IIM to launch the Integrated Programme in Management (IPM), a unique 5-year course that blends undergraduate and postgraduate management education. In 2026, it remains the "Gold Standard" for students aiming to join the Indian Institute of Management straight after Class 12.
 
-## 🏛️ Why Choose [IIM Indore](/colleges/iim-indore) IPM in 2026?
+## 🏛️ Why Choose [IIM Indore](/colleges/iim-indore/) IPM in 2026?
 The IPM program is designed for high-potential students who want to build a strong foundation in social sciences and management.
 - **IIM Brand:** Direct entry into a top-tier IIM without the uncertainty of the CAT exam.
 - **Holistic Development:** The first 3 years cover diverse subjects like Philosophy, Psychology, and Mathematics.
 - **Dual Degree:** After 5 years, students receive a BA (Foundations of Management) and an MBA.
 
 ## 💰 Latest Fee Structure (2026)
-The fee structure at [IIM Indore](/colleges/iim-indore) for the IPM program is divided into two phases:
+The fee structure at [IIM Indore](/colleges/iim-indore/) for the IPM program is divided into two phases:
 - **First 3 Years (UG Phase):** Approximately ₹5,50,000 to ₹6,00,000 per year.
 - **Final 2 Years (PG Phase):** At par with the prevailing PGP (MBA) fees, currently around ₹10,00,000 to ₹12,00,000 per year.
 - **Total Investment:** Approx. ₹38 – 42 Lakhs (inclusive of residential charges).
@@ -68,21 +68,21 @@ No, IIM Indore only accepts IPMAT Indore scores for Indian students. SAT is gene
 There are approximately 150 seats available for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [Top 10 BBA Colleges in India 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)
+- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [Top 10 BBA Colleges in India 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29/)
 
 ---
 
 **Struggling with Higher Math for IPMAT?**
 IIM Indore’s exam is known for its tough Math section. Mohit Jain’s "IPM 100" program helps you master the shortcuts needed to clear the sectional cutoffs.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -96,6 +96,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -24,7 +24,7 @@ faqs:
       companies like Infosys, Wipro, TCS, Capgemini, and niche analytics
       startups right off the campus.
   - question: Are hostels included in the 10 Lakhs?
-    answer: "Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 Lakhs per year depending on the location and facilities.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n*   [\U0001F449 Overwhelmed with options? Book an Admission Audit Today!](/inquiry)\n\n*At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*"
+    answer: "Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 Lakhs per year depending on the location and facilities.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)\n*   [\U0001F449 Overwhelmed with options? Book an Admission Audit Today!](/inquiry/)\n\n*At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*"
 location: Bangalore
 state: Karnataka
 category: Online Degrees
@@ -50,21 +50,21 @@ AIMS is consistently ranked among the top private B-schools in South India. Know
 > - **Total Fee Structure**: Verified at ₹9.50 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹8.00 LPA (Highest ₹18.5 LPA) with IACBE / NBA.
 
-## **2. [ISBR Business School](/colleges/isbr-bangalore) (International School of Business & Research)**
+## **2. [ISBR Business School](/colleges/isbr-bangalore/) (International School of Business & Research)**
 ISBR has seen a massive surge in popularity, especially for its new-age PGDM programs focused on Data Science and Business Analytics.
 *   **Total Fees (Approx.)**: ₹9.00 - ₹10.00 Lakhs (Depending on program chosen)
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: Heavy corporate interface in Electronic City, strong alumni network, international exchange programs.
 *   **Admission Mode**: Institute shortlisting based on profile and their internal aptitude assessment.
 
-### **3. IBA ([Indus Business Academy](/colleges/iba-bangalore))**
+### **3. IBA ([Indus Business Academy](/colleges/iba-bangalore/))**
 IBA is one of the few B-Schools in India to receive international accreditation (IACBE). They have an intense, campus-driven PGDM program.
 *   **Total Fees (Approx.)**: ₹9.50 Lakhs
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: 100% residential program, rigorous dual-specialization, high discipline, very high ROI.
 *   **Admission Mode**: Direct application process focusing on academic consistency and Personal Interview (PI) performance.
 
-### **4. [RV Institute of Management](/colleges/rvim-bangalore) (RVIM)**
+### **4. [RV Institute of Management](/colleges/rvim-bangalore/) (RVIM)**
 Backed by the powerful RV Educational Institutions trust, RVIM offers one of the most cost-effective and highest-ROI MBA programs in Bangalore.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs (Management Quota fees vary)
 *   **Average Placement**: ₹6.5 LPA - ₹7.5 LPA
@@ -84,8 +84,8 @@ Absolutely. Many tier-2 B-Schools in Bangalore place their students in companies
 Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 Lakhs per year depending on the location and facilities.
 
 **Explore More Insights:**
-*   [👉 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
-*   [👉 Overwhelmed with options? Book an Admission Audit Today!](/inquiry)
+*   [👉 Read: Christ University Yeshwanthpur MBA Review](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)
+*   [👉 Overwhelmed with options? Book an Admission Audit Today!](/inquiry/)
 
 *At **CareerWithMohit**, our goal is transparent, data-driven career counseling. Don't compromise on your college choice because of a bad exam day.*
 
@@ -95,7 +95,7 @@ Generally, no. Hostel fees in Bangalore can range from ₹1.2 Lakhs to ₹1.6 La
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -109,6 +109,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

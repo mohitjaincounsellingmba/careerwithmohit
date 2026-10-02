@@ -42,7 +42,7 @@ category: Exams
 
 For Indian MBA aspirants, the Common Admission Test (CAT) is often seen as the ultimate hurdle. However, placing all your eggs in one basket can be a risky strategy. This is where **OMETs (Other Management Entrance Tests)** come into play.
 
-OMETs represent the full suite of national and institute-specific management entrance exams outside of CAT. For many candidates, these exams serve as excellent backup options or even primary targets, as they open doors to premier institutions like [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [NMIMS Mumbai](/colleges/nmims-mumbai), [SIBM Pune](/colleges/sibm-pune), and [JBIMS Mumbai](/colleges/jbims-mumbai).
+OMETs represent the full suite of national and institute-specific management entrance exams outside of CAT. For many candidates, these exams serve as excellent backup options or even primary targets, as they open doors to premier institutions like [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), [NMIMS Mumbai](/colleges/nmims-mumbai/), [SIBM Pune](/colleges/sibm-pune/), and [JBIMS Mumbai](/colleges/jbims-mumbai/).
 
 Here is a complete guide to understanding OMETs, their exam patterns, admission processes, accepting colleges, and expected cutoffs for the 2026 academic season.
 
@@ -52,7 +52,7 @@ Here is a complete guide to understanding OMETs, their exam patterns, admission 
 
 While CAT is known for high conceptual difficulty and strict sectional time limits, OMETs vary significantly in structure, timing, and marking schemes:
 
-*   **Speed vs. Accuracy:** Exams like [SNAP](/blog/all-about-snap-exam) and [NMAT by GMAC](/blog/all-about-nmat-exam) are pure speed-based tests (fewer minutes than questions), whereas [CMAT](/blog/all-about-cmat-exam) and [XAT](/blog/all-about-xat-exam) reward accuracy and endurance.
+*   **Speed vs. Accuracy:** Exams like [SNAP](/blog/all-about-snap-exam/) and [NMAT by GMAC](/blog/all-about-nmat-exam/) are pure speed-based tests (fewer minutes than questions), whereas [CMAT](/blog/all-about-cmat-exam/) and [XAT](/blog/all-about-xat-exam/) reward accuracy and endurance.
 *   **Adaptive Testing:** NMAT is a computer-adaptive test, meaning the difficulty of the questions adjusts based on your performance.
 *   **Negative Marking:** NMAT has zero negative marking, while XAT features unique negative markings for consecutive unattempted questions.
 *   **Number of Attempts:** Unlike CAT (held once a year), NMAT and SNAP allow candidates to make up to three attempts in a single admission cycle, with the best score considered for admissions.
@@ -66,39 +66,39 @@ While CAT is known for high conceptual difficulty and strict sectional time limi
 ## Top OMET Exams: A Quick Breakdown
 
 ### 1. XAT (Xavier Aptitude Test)
-Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is considered the second-most prestigious MBA entrance exam in India. It is highly concept-driven and features a unique **Decision Making** section that evaluates business ethics and managerial logic.
+Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XAT is considered the second-most prestigious MBA entrance exam in India. It is highly concept-driven and features a unique **Decision Making** section that evaluates business ethics and managerial logic.
 
 *   **Held In:** January (Once a year)
-*   **Top Colleges:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa, Great Lakes Chennai, TAPMI Manipal.
+*   **Top Colleges:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XIMB Bhubaneswar, IMT Ghaziabad, GIM Goa, Great Lakes Chennai, TAPMI Manipal.
 *   **Key Cutoffs:** 95-96+ Percentile for XLRI Business Management (BM), 93-94+ for Human Resource Management (HRM).
 
 ### 2. NMAT by GMAC
-The mandatory entrance test for Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (NMIMS). It is candidate-friendly, allowing you to choose your section order and schedule the test window.
+The mandatory entrance test for Narsee Monjee [Institute of Management Studies](/colleges/ims-noida/) (NMIMS). It is candidate-friendly, allowing you to choose your section order and schedule the test window.
 
 *   **Held In:** October to December (Up to 3 attempts)
-*   **Top Colleges:** [NMIMS Mumbai](/colleges/nmims-mumbai) (Flagship), NMIMS Bengaluru, K. J. Somaiya Mumbai, XIMB (HR program only).
-*   **Key Cutoffs:** 235 - 245+ scaled score for [NMIMS Mumbai](/colleges/nmims-mumbai) core MBA.
+*   **Top Colleges:** [NMIMS Mumbai](/colleges/nmims-mumbai/) (Flagship), NMIMS Bengaluru, K. J. Somaiya Mumbai, XIMB (HR program only).
+*   **Key Cutoffs:** 235 - 245+ scaled score for [NMIMS Mumbai](/colleges/nmims-mumbai/) core MBA.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
 A 60-minute, speed-based MCQ exam conducted for entry into the 16 management institutes under Symbiosis International University (SIU).
 
 *   **Held In:** December (Up to 3 attempts)
-*   **Top Colleges:** [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore).
-*   **Key Cutoffs:** 97.5 - 98.5+ Percentile for [SIBM Pune](/colleges/sibm-pune) flagship MBA; 96+ Percentile for SCMHRD.
+*   **Top Colleges:** [SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore/).
+*   **Key Cutoffs:** 97.5 - 98.5+ Percentile for [SIBM Pune](/colleges/sibm-pune/) flagship MBA; 96+ Percentile for SCMHRD.
 
 ### 4. CMAT (Common Management Admission Test)
 CMAT is an AICTE-approved national test conducted by the National Testing Agency (NTA). It features 100 questions to be solved in 3 hours, offering ample time per question.
 
 *   **Held In:** April / May (Once a year)
-*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune), K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
+*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai/), SIMSREE Mumbai, [PUMBA Pune](/colleges/pumba-pune/), K. J. Somaiya Mumbai, Great Lakes, BIMTECH.
 *   **Key Cutoffs:** 99.9+ Percentile for JBIMS; 99.5+ for SIMSREE.
 
 ### 5. MAH MBA CET
 A state-level exam conducted by Maharashtra's CET Cell. While it is highly favorable for Maharashtra state candidates, it provides All India (AI) seats for top-tier colleges.
 
 *   **Held In:** March / May (Once a year)
-*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai), SIMSREE, [PUMBA Pune](/colleges/pumba-pune), Welingkar Mumbai.
-*   **Key Cutoffs:** 99.9+ Percentile for All-India candidates aiming for [JBIMS Mumbai](/colleges/jbims-mumbai).
+*   **Top Colleges:** [JBIMS Mumbai](/colleges/jbims-mumbai/), SIMSREE, [PUMBA Pune](/colleges/pumba-pune/), Welingkar Mumbai.
+*   **Key Cutoffs:** 99.9+ Percentile for All-India candidates aiming for [JBIMS Mumbai](/colleges/jbims-mumbai/).
 
 ---
 
@@ -118,11 +118,11 @@ A state-level exam conducted by Maharashtra's CET Cell. While it is highly favor
 
 If you miss out on a 99+ percentile in CAT, target these top-tier institutions using OMET scores:
 
-1.  **[XLRI Jamshedpur](/colleges/xlri-jamshedpur):** Accepts **XAT** (~95+ Percentile). Known as the best institute for HR in the Asia-Pacific.
-2.  **[JBIMS Mumbai](/colleges/jbims-mumbai):** Accepts **CMAT** or **MAH CET** (99.9+ Percentile). Famous for high ROI and finance placements.
-3.  **[NMIMS Mumbai](/colleges/nmims-mumbai):** Accepts **NMAT** (~235+ Scaled Score). Massive batch size but excellent corporate relationships.
-4.  **[SIBM Pune](/colleges/sibm-pune):** Accepts **SNAP** (~98+ Percentile). Premier campus life and great FMCG / Consulting placements.
-5.  **[SCMHRD Pune](/colleges/scmhrd-pune):** Accepts **SNAP** (~96+ Percentile). Renowned for HR and Infrastructure Management.
+1.  **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/):** Accepts **XAT** (~95+ Percentile). Known as the best institute for HR in the Asia-Pacific.
+2.  **[JBIMS Mumbai](/colleges/jbims-mumbai/):** Accepts **CMAT** or **MAH CET** (99.9+ Percentile). Famous for high ROI and finance placements.
+3.  **[NMIMS Mumbai](/colleges/nmims-mumbai/):** Accepts **NMAT** (~235+ Scaled Score). Massive batch size but excellent corporate relationships.
+4.  **[SIBM Pune](/colleges/sibm-pune/):** Accepts **SNAP** (~98+ Percentile). Premier campus life and great FMCG / Consulting placements.
+5.  **[SCMHRD Pune](/colleges/scmhrd-pune/):** Accepts **SNAP** (~96+ Percentile). Renowned for HR and Infrastructure Management.
 
 ---
 
@@ -141,17 +141,17 @@ A strong balance of consistent preparation across both CAT and OMETs ensures you
 ## Related Guides and Resources
 
 If you are planning your MBA preparation roadmap, check out these detailed guides:
-*   [All About NMAT Exam 2026: NMIMS Cutoffs & Pattern](/blog/all-about-nmat-exam)
-*   [All About CMAT Exam 2026: Innovation Section & Colleges](/blog/all-about-cmat-exam)
-*   [All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam)
-*   [MAH MBA CET 2027–29: Accepting Colleges & Process](/blog/all-about-mah-mba-cet-exam)
+*   [All About NMAT Exam 2026: NMIMS Cutoffs & Pattern](/blog/all-about-nmat-exam/)
+*   [All About CMAT Exam 2026: Innovation Section & Colleges](/blog/all-about-cmat-exam/)
+*   [All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam/)
+*   [MAH MBA CET 2027–29: Accepting Colleges & Process](/blog/all-about-mah-mba-cet-exam/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -162,7 +162,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -176,6 +176,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

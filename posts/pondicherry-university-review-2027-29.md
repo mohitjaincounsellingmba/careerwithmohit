@@ -79,10 +79,10 @@ Hostel accommodation at Pondicherry University is highly sought after but limite
 *   **Fees:** Fees include a refundable caution deposit, establishment charges, and annual rent. SC/ST and differently-abled students are eligible for certain fee concessions, such as room rent exemption.
 
 ### **Check Other Central University Guides:**
-*   [Central University of Rajasthan (CURaj) Review 2027–29](/blog/central-university-of-rajasthan-curaj-review-2027-29)
-*   [University of Hyderabad (UoH) Review 2027–29](/blog/university-of-hyderabad-uoh-review-2027-29)
+*   [Central University of Rajasthan (CURaj) Review 2027–29](/blog/central-university-of-rajasthan-curaj-review-2027-29/)
+*   [University of Hyderabad (UoH) Review 2027–29](/blog/university-of-hyderabad-uoh-review-2027-29/)
 
-[👉 Get Admission Consultation for Top Central Universities!](/inquiry)
+[👉 Get Admission Consultation for Top Central Universities!](/inquiry/)
 
 ---
 
@@ -100,6 +100,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

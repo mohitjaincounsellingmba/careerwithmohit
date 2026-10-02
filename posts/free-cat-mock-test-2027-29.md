@@ -42,7 +42,7 @@ state: Delhi NCR
 
 [MockTestCard title="Free Full-Length CAT 2026/27 CBT Mock Test" link="/tools/cat-mock-test" questions="68 Questions" time="120 Mins"]
 
-The **Common Admission Test (CAT 2026/2027)** is India's premier national management entrance examination, conducted annually on a rotational basis by the **Indian Institutes of Management (IIMs)**. Over **2.88 lakh aspirants** compete for prestigious seats across the **21 IIMs** and premier non-IIM institutions including **[FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), [IIT Bombay (SJMSOM)](/colleges/sjmsom-iit-bombay), and [IIT Delhi (DMS)](/colleges/dms-iit-delhi)**.
+The **Common Admission Test (CAT 2026/2027)** is India's premier national management entrance examination, conducted annually on a rotational basis by the **Indian Institutes of Management (IIMs)**. Over **2.88 lakh aspirants** compete for prestigious seats across the **21 IIMs** and premier non-IIM institutions including **[FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), [IIT Bombay (SJMSOM)](/top-tier-mba-colleges/), and [IIT Delhi (DMS)](/colleges/dms-iit-delhi/)**.
 
 To help you achieve your dream **99+ Percentile** and crack top IIM calls, **CareerWithMohit** provides a **100% Free Full-Length CAT CBT Mock Test** featuring 68 official-standard questions, 40-minute sectional timers, realistic on-screen calculator, raw score converter (/198), instant percentile predictor, and complete step-by-step solutions.
 
@@ -96,16 +96,16 @@ To help you achieve your dream **99+ Percentile** and crack top IIM calls, **Car
 
 | B-School Name & City | Expected CAT Cutoff | Sectional Cutoff Required | Total 2-Year Program Fee | Real Placement Average CTC | Key Highlights |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | **99.5+ %ile** | VARC 80 / DILR 75 / QA 75 | ₹25.00 Lakhs | ₹34.45 LPA | NIRF #1, Global Benchmark in Management |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | **99.2+ %ile** | VARC 80 / DILR 75 / QA 75 | ₹24.50 Lakhs | ₹35.31 LPA | Tech & Consulting Capital, Startup Incubation |
-| **[IIM Calcutta](/colleges/iim-calcutta)** | **99.0+ %ile** | VARC 75 / DILR 75 / QA 80 | ₹27.00 Lakhs | ₹35.07 LPA | Finance Capital of Asia, Joka Campus |
-| **[FMS Delhi](/colleges/fms-delhi)** | **98.8+ %ile** | VARC (40%) / DILR (30%) / QA (30%) | ₹2.00 Lakhs | ₹34.10 LPA | Highest ROI in Asia, 100% Placement Record |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | **95.0+ %ile** | VARC 75 / DILR 75 / QA 75 | ₹22.50 Lakhs | ₹33.00 LPA | Profile-Based Shortlists, Top Consulting & FMCG |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | **94.5+ %ile** | VARC 70 / DILR 70 / QA 70 | ₹24.16 Lakhs | ₹26.70 LPA | Prime Corporate Hub, Top 10 B-School in India |
-| **[IIT Bombay (SJMSOM)](/colleges/sjmsom-iit-bombay)** | **98.5+ %ile** | VARC 75 / DILR 75 / QA 75 | ₹14.50 Lakhs | ₹28.88 LPA | Top Operations & Analytics ROI |
-| **[IIM Udaipur (CAP)](/colleges/iim-udaipur)** | **92.0+ %ile** | VARC 70 / DILR 70 / QA 70 | ₹20.50 Lakhs | ₹20.09 LPA | Fast-Growing New IIM, CAP Central Process |
-| **[FORE School Delhi](/colleges/fore-school-delhi)** | **85.0+ %ile** | No Sectional Cutoff | ₹18.50 Lakhs | ₹14.50 LPA | South Delhi Location, Top Corporate Connect |
-| **[GIM Goa](/colleges/gim-goa)** | **85.0+ %ile** | No Sectional Cutoff | ₹19.40 Lakhs | ₹15.20 LPA | Big Data Analytics (BDA), Healthcare & Core PGDM |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | **99.5+ %ile** | VARC 80 / DILR 75 / QA 75 | ₹25.00 Lakhs | ₹34.45 LPA | NIRF #1, Global Benchmark in Management |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | **99.2+ %ile** | VARC 80 / DILR 75 / QA 75 | ₹24.50 Lakhs | ₹35.31 LPA | Tech & Consulting Capital, Startup Incubation |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | **99.0+ %ile** | VARC 75 / DILR 75 / QA 80 | ₹27.00 Lakhs | ₹35.07 LPA | Finance Capital of Asia, Joka Campus |
+| **[FMS Delhi](/colleges/fms-delhi/)** | **98.8+ %ile** | VARC (40%) / DILR (30%) / QA (30%) | ₹2.00 Lakhs | ₹34.10 LPA | Highest ROI in Asia, 100% Placement Record |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | **95.0+ %ile** | VARC 75 / DILR 75 / QA 75 | ₹22.50 Lakhs | ₹33.00 LPA | Profile-Based Shortlists, Top Consulting & FMCG |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | **94.5+ %ile** | VARC 70 / DILR 70 / QA 70 | ₹24.16 Lakhs | ₹26.70 LPA | Prime Corporate Hub, Top 10 B-School in India |
+| **[IIT Bombay (SJMSOM)](/top-tier-mba-colleges/)** | **98.5+ %ile** | VARC 75 / DILR 75 / QA 75 | ₹14.50 Lakhs | ₹28.88 LPA | Top Operations & Analytics ROI |
+| **[IIM Udaipur (CAP)](/colleges/iim-udaipur/)** | **92.0+ %ile** | VARC 70 / DILR 70 / QA 70 | ₹20.50 Lakhs | ₹20.09 LPA | Fast-Growing New IIM, CAP Central Process |
+| **[FORE School Delhi](/colleges/fore-school-delhi/)** | **85.0+ %ile** | No Sectional Cutoff | ₹18.50 Lakhs | ₹14.50 LPA | South Delhi Location, Top Corporate Connect |
+| **[GIM Goa](/colleges/gim-goa/)** | **85.0+ %ile** | No Sectional Cutoff | ₹19.40 Lakhs | ₹15.20 LPA | Big Data Analytics (BDA), Healthcare & Core PGDM |
 
 ---
 
@@ -158,5 +158,5 @@ No, CAT enforces a strict 40-minute sectional timer for each section in a fixed 
 Ready to benchmark your current score against 2.5 lakh+ national aspirants?
 
 - [👉 **Take the Free CAT 2026 CBT Mock Test (68 Questions)**](https://careerwithmohit.online/tools/cat-mock-test)
-- [👉 **Explore All 50+ Free MBA Entrance Mock Tests**](/mock-tests)
+- [👉 **Explore All 50+ Free MBA Entrance Mock Tests**](/mock-tests/)
 - [👉 **Get 1-on-1 IIM Profile Evaluation from Mohit Jain on WhatsApp**](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20am%20preparing%20for%20CAT%202026%20and%20need%201-on-1%20IIM%20profile%20evaluation.)

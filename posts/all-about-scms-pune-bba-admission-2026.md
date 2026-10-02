@@ -35,7 +35,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[Symbiosis Centre for Management Studies (SCMS), Pune](/colleges/symbiosis-centre-for-management-studies-scms-pune), is one of the most prestigious names in undergraduate management education. Known for its global immersion programs and industry-aligned curriculum, SCMS Pune is a top choice for BBA aspirants in 2026.
+[Symbiosis Centre for Management Studies (SCMS), Pune](/colleges/symbiosis-centre-for-management-studies-scms-pune/), is one of the most prestigious names in undergraduate management education. Known for its global immersion programs and industry-aligned curriculum, SCMS Pune is a top choice for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose SCMS Pune in 2026?
 Symbiosis offers a "Liberal Arts" approach to management, allowing students to choose electives across different domains.
@@ -73,20 +73,20 @@ Yes, as a private university, it follows government-mandated reservations for SC
 No, direct admission is not available for the BBA program. Every candidate must qualify for the SET and the subsequent PI-WAT rounds.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Pune 2026](/blog/top-10-bba-colleges-pune-2026)
-- [All About Symbiosis MBA Institutes](/blog/all-about-symbiosis-mba-institutes)
-- [BBA vs BMS — Understanding the Difference](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Pune 2026](/blog/top-10-bba-colleges-pune-2026/)
+- [All About Symbiosis MBA Institutes](/blog/all-about-symbiosis-mba-institutes/)
+- [BBA vs BMS — Understanding the Difference](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Conflicted between Pune and Noida campuses?**
 Symbiosis has campuses in Pune, Noida, Nagpur, Bengaluru, and Hyderabad. Mohit Jain’s "Campus Selection Audit" helps you compare placement data and faculty quality to make the right choice.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

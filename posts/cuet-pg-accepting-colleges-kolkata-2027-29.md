@@ -9,7 +9,7 @@ keywords:
   - CUET PG colleges in Kolkata 2026
   - Visva-Bharati CUET PG admission
   - RKMVERI Kolkata CUET PG
-  - '[Amity University](/colleges/amity-noida) Kolkata CUET PG'
+  - '[Amity University](/colleges/amity-noida/) Kolkata CUET PG'
   - best PG colleges in Kolkata under CUET
   - Best Colleges in Noida
   - Noida Admissions 2026
@@ -56,7 +56,7 @@ Known for its academic rigor and holistic postgraduate programs.
 *   **Top Programs:** MSc in Environment Management, MSc in Rural Development.
 *   **Admission Process:** They consider CUET PG scores as part of their eligibility criteria for several of their PG programs.
 
-### **3. [Amity University](/colleges/amity-noida) (Kolkata)**
+### **3. [Amity University](/colleges/amity-noida/) (Kolkata)**
 Amity Kolkata is known for its modern infrastructure and diverse PG courses in management and information technology.
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate departments.
@@ -75,14 +75,14 @@ While MAKAUT has its own entrance for many courses, some affiliated private coll
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
+- [Top BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026/)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
 
 **Planning your MBA in the Cultural Capital?**
 Choosing between a central university like Visva-Bharati and a top private university like Amity is crucial for your career. Get expert advice from our Kolkata admission consultants today!
 
-[👉 Get Kolkata Admission Counseling Now!](/inquiry)
+[👉 Get Kolkata Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -104,6 +104,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

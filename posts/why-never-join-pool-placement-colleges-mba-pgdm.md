@@ -28,7 +28,7 @@ faqs:
       Always ask the admission counselor: "Will I have a dedicated placement
       cell for MY campus?"
   - question: Is "Centralized Placement" different from "Pool Placement"?
-    answer: "They are essentially the same. \"Centralized\" means the main campus placement cell manages everyone, which leads to the high-volume competition mentioned above.\n\n[\U0001F449 Check Our Honest College Comparison Tool!](/tools/college-comparison)\n\n**Stop Being a Serial Number.**\nAt **CareerWithMohit**, we help you find \"Independent\" colleges where you get personal attention and honest career growth.\n\n[\U0001F449 Get an Honest Review of Your Shortlisted Colleges!](/inquiry)"
+    answer: "They are essentially the same. \"Centralized\" means the main campus placement cell manages everyone, which leads to the high-volume competition mentioned above.\n\n[\U0001F449 Check Our Honest College Comparison Tool!](/tools/college-comparison/)\n\n**Stop Being a Serial Number.**\nAt **CareerWithMohit**, we help you find \"Independent\" colleges where you get personal attention and honest career growth.\n\n[\U0001F449 Get an Honest Review of Your Shortlisted Colleges!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Jobs & Careers
@@ -82,11 +82,11 @@ Frequently, students on satellite campuses have to travel hours to the main camp
 If you are considering any of the following institutes, check if you are being admitted to the **Flagship Campus**. If not, be extremely cautious about the "Common Pool" promise:
 
 1.  **Christ University**: All campuses (Bangalore Central, Kengeri, Yeshwanthpur, Pune Lavasa, Delhi-NCR) participate in a centralized placement process.
-2.  **[Amity University](/colleges/amity-noida)**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
-3.  **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
+2.  **[Amity University](/colleges/amity-noida/)**: Amity Noida acts as the hub, with students from Gurgaon, Gwalior, and Jaipur often pooled for major recruitment drives.
+3.  **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)**: Its campuses in Noida, Lucknow, Jaipur, and Indore operate under a "Unanimous Placement" model.
 4.  **IBS (ICFAI Business School)**: Famous for its centralized "Mega Placement" event where thousands of students from all 9 campuses descend upon Hyderabad.
 5.  **IILM University**: Students from Lodhi Road, Gurugram, and Greater Noida are often combined for corporate drives.
-6.  **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**: Massive centralized placements with exceptionally high student volume.
+6.  **[Lovely Professional University](/colleges/lovely-professional-university/) (LPU)**: Massive centralized placements with exceptionally high student volume.
 7.  **Chandigarh University**: Similar to LPU, it operates on a high-volume centralized model.
 8.  **JIMS (Jagannath Institute)**: While campuses like Rohini and Kalkaji have their own cells, they often pool for the biggest MNC recruiters.
 9.  **Indira Group (Pune)**: Multiple campuses under the Indira brand (ISBS, IIMP, etc.) often share a common placement pool.
@@ -115,12 +115,12 @@ As listed above, major names include Amity, Christ, IBS, and Jaipuria. Always as
 **3. Is "Centralized Placement" different from "Pool Placement"?**
 They are essentially the same. "Centralized" means the main campus placement cell manages everyone, which leads to the high-volume competition mentioned above.
 
-[👉 Check Our Honest College Comparison Tool!](/tools/college-comparison)
+[👉 Check Our Honest College Comparison Tool!](/tools/college-comparison/)
 
 **Stop Being a Serial Number.**
 At **CareerWithMohit**, we help you find "Independent" colleges where you get personal attention and honest career growth.
 
-[👉 Get an Honest Review of Your Shortlisted Colleges!](/inquiry)
+[👉 Get an Honest Review of Your Shortlisted Colleges!](/inquiry/)
 
 
 
@@ -128,7 +128,7 @@ At **CareerWithMohit**, we help you find "Independent" colleges where you get pe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -142,6 +142,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

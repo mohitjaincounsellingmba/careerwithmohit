@@ -113,16 +113,16 @@ As an Associate or Junior Analyst, you can expect **₹6L to ₹12L** in Tier-2 
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-- [CMA vs MBA Finance — Which is Better?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+- [CMA vs MBA Finance — Which is Better?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
 **Master the Language of Numbers.**
 A financial model is a map of the future. Don't waste your score on a career without the core technical tools. Mohit Jain provides a **"Technical Modeling Audit"**—reviewing your Excel logic and helping you build a professional "Deal Deck" that gets you noticed in high-finance interviews.
 
-[👉 Book My Financial Modeling Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Financial Modeling Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -130,6 +130,6 @@ A financial model is a map of the future. Don't waste your score on a career wit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

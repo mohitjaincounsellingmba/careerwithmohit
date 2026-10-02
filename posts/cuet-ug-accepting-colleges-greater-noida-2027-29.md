@@ -8,7 +8,7 @@ description: >-
 keywords:
   - CUET UG Greater Noida 2026
   - CUET colleges in Greater Noida
-  - '[Sharda University](/colleges/sharda-greater-noida) CUET admission'
+  - '[Sharda University](/colleges/sharda-greater-noida/) CUET admission'
   - Galgotias University CUET eligibility
   - best colleges in Greater Noida for undergraduate
   - Noida Colleges
@@ -54,17 +54,17 @@ If you are a student targeting **Greater Noida for the 2026-27 session**, here a
 
 ---
 
-### **1. [Sharda University](/colleges/sharda-greater-noida)**
+### **1. [Sharda University](/colleges/sharda-greater-noida/)**
 One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
 
-### **2. [Galgotias University](/colleges/galgotias-university)**
+### **2. [Galgotias University](/colleges/galgotias-university/)**
 A top-tier institute in Greater Noida, known for its undergraduate management and technology programs.
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.
 
-### **3. [Bennett University](/colleges/bennett-greater-noida)**
+### **3. [Bennett University](/colleges/bennett-greater-noida/)**
 Established by the Times Group, it offers multidisciplinary education.
 *   **Programs:** B.Tech, BBA, B.Com (Hons), BA Journalism and Mass Communication.
 *   **USP:** Global exposure and a large international student community.
@@ -81,7 +81,7 @@ Offers a wide variety of management and computer application courses.
 *   **Specializations:** From Media and Design to Data Science and Bio-technology, Greater Noida has it all.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
-[👉 Get Greater Noida CUET Admission Assistance](/inquiry)
+[👉 Get Greater Noida CUET Admission Assistance](/inquiry/)
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Confused about Sharda vs Galgotias? Link up with our CUET consultants for free!**
@@ -106,6 +106,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

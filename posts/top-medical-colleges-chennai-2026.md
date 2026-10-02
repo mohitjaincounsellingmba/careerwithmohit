@@ -124,16 +124,16 @@ Counselling registrations typically open in **July** after the NEET results.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
-- [MCA Colleges in Chennai 2026](/blog/top-mca-colleges-chennai-2026)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026/)
+- [MCA Colleges in Chennai 2026](/blog/top-mca-colleges-chennai-2026/)
 
 ---
 
 **Do You Have the Grit for the Healthcare Capital?**
 Chennai is about discipline and depth. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Chennai Medical Audit"—helping you pick the college that matches your goals for surgical practice or high-end diagnostics.
 
-[👉 Book My Chennai Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Chennai Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -141,6 +141,6 @@ Chennai is about discipline and depth. Don't waste your score on a college witho
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -46,17 +46,17 @@ Here is a curated list of the **Top 10 BBA Colleges in Jaipur for 2026** to help
 
 ## 🏆 Top 10 BBA Colleges in Jaipur (2026 Rankings)
 
-### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur)
+### 1. [Manipal University Jaipur](/colleges/manipal-university-jaipur/)
 - **Approximate Annual Fees:** ₹2.0 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. [JECRC University](/colleges/jecrc-jaipur)
+### 2. [JECRC University](/colleges/jecrc-jaipur/)
 - **Approximate Annual Fees:** ₹1.5 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. [Poornima University](/colleges/poornima-jaipur)
+### 3. [Poornima University](/colleges/poornima-jaipur/)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -66,7 +66,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Jaipur for 2026** to help
 - **Entrance Exam / Admission Process:** Merit / VGUCET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 5. [Amity University](/colleges/amity-noida) Jaipur
+### 5. [Amity University](/colleges/amity-noida/) Jaipur
 - **Approximate Annual Fees:** ₹1.8 Lakhs
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -102,11 +102,11 @@ Here is a curated list of the **Top 10 BBA Colleges in Jaipur for 2026** to help
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Merit | ₹2.0 Lakhs |
-| **2** | **[JECRC University](/colleges/jecrc-jaipur)** | Merit | ₹1.5 Lakhs |
-| **3** | **[Poornima University](/colleges/poornima-jaipur)** | Merit | ₹1.2 Lakhs |
+| **1** | **[Manipal University Jaipur](/colleges/manipal-university-jaipur/)** | Merit | ₹2.0 Lakhs |
+| **2** | **[JECRC University](/colleges/jecrc-jaipur/)** | Merit | ₹1.5 Lakhs |
+| **3** | **[Poornima University](/colleges/poornima-jaipur/)** | Merit | ₹1.2 Lakhs |
 | **4** | **Vivekananda Global University (VGU)** | Merit / VGUCET | ₹1.2 Lakhs |
-| **5** | **[Amity University](/colleges/amity-noida) Jaipur** | Merit | ₹1.8 Lakhs |
+| **5** | **[Amity University](/colleges/amity-noida/) Jaipur** | Merit | ₹1.8 Lakhs |
 | **6** | **JK Lakshmipat University (JKLU)** | Merit | ₹1.6 Lakhs |
 | **7** | **UEM Jaipur** | Merit | ₹1.0 Lakhs |
 | **8** | **Jaipur National University** | Merit | ₹1.1 Lakhs |
@@ -122,16 +122,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Jaipur?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -149,6 +149,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

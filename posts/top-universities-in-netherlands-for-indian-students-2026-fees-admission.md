@@ -111,15 +111,15 @@ The Netherlands is the **most popular non-English-speaking country in Europe for
 
 ## 📞 Expert Netherlands Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2027-29)
-- [Mannheim Business School MBA Review 2027–29](/blog/mannheim-business-school-mba-review-2027-29)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2027-29/)
+- [Mannheim Business School MBA Review 2027–29](/blog/mannheim-business-school-mba-review-2027-29/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 
 ---
 
@@ -141,6 +141,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

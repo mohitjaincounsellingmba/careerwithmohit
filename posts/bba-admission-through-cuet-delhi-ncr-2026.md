@@ -80,9 +80,9 @@ If you target the elite business colleges under Delhi University (like SSCBS or 
 Guru Gobind Singh Indraprastha University accepts CUET scores for BBA admissions, but **only to fill vacant seats** after all qualified IPU CET rank holders have been accommodated. If you miss the IPU CET exam, CUET is your crucial backup pathway for colleges like MSI, MAIMS, and VIPS.
 
 ### 3. Renowned Private Universities
-- **[BML Munjal University](/colleges/bml-munjal-gurgaon), Gurgaon:** Accepts CUET UG scores for direct entry and scholarship allocations.
-- **[Bennett University](/colleges/bennett-greater-noida), Greater Noida:** Uses CUET scores alongside Class 12 merit.
-- **[Galgotias University](/colleges/galgotias-university), Greater Noida:** Popular private college accepting CUET.
+- **[BML Munjal University](/colleges/bml-munjal-gurgaon/), Gurgaon:** Accepts CUET UG scores for direct entry and scholarship allocations.
+- **[Bennett University](/colleges/bennett-greater-noida/), Greater Noida:** Uses CUET scores alongside Class 12 merit.
+- **[Galgotias University](/colleges/galgotias-university/), Greater Noida:** Popular private college accepting CUET.
 
 ---
 
@@ -108,10 +108,10 @@ Due to the intense competition, target scores for top government management coll
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)
 
 ---
 
@@ -121,7 +121,7 @@ With multiple entrance exams (CUET, IPU CET, SET) and hundreds of colleges in De
 
 **Confused between GGSIPU colleges and DU?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"BBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -143,6 +143,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -91,16 +91,16 @@ For students who want the prestige of a South Indian university but in Delhi NCR
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Top BBA Colleges in Noida 2026](/blog/top-bba-colleges-noida-2026)
-- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Noida 2026](/blog/top-bba-colleges-noida-2026/)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ## 📞 Still Confused About BBA in Ghaziabad?
 Choosing between ROI and Brand? Let's analyze your future goals (MBA? Job? Startup?) and choose the right base.
 
-[👉 Build My Ghaziabad Roadmap](/inquiry) | [💬 Schedule a Private Session](/inquiry)
+[👉 Build My Ghaziabad Roadmap](/inquiry/) | [💬 Schedule a Private Session](/inquiry/)
 
 ---
 
@@ -122,6 +122,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

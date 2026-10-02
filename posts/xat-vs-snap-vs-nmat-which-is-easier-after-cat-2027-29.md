@@ -87,7 +87,7 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 
 | Parameter | CAT | XAT | SNAP | NMAT by GMAC |
 | :--- | :--- | :--- | :--- | :--- |
-| **Conducting Authority** | IIMs (Rotational) | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | Symbiosis International | GMAC |
+| **Conducting Authority** | IIMs (Rotational) | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | Symbiosis International | GMAC |
 | **Exam Period** | Last Sunday of Nov | 1st Sunday of Jan | Dec (3 Attempts Allowed) | Oct – Dec (75-Day Window) |
 | **Total Duration** | 120 Minutes | 210 Minutes (3.5 Hrs) | **60 Minutes (Speed Test)** | 120 Minutes |
 | **Total Questions** | 66 Questions | ~100 Questions + Essay | 60 Questions | 108 Questions |
@@ -96,7 +96,7 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 | **Special Sections** | None | **Decision Making (DM), GK, Essay** | None | None |
 | **Sectional Time Limit** | Yes (40 Mins Each) | Yes (Part 1: 175m, Part 2: 30m)| **No Sectional Time Limit!** | Yes (Language 28m, QA 52m, LR 40m)|
 | **Order of Sections** | Fixed | Fixed | Flexible | **Candidate Chooses Order** |
-| **Target Top Colleges** | IIMs, FMS, MDI, SPJIMR | **[XLRI](/colleges/xlri-jamshedpur), [XIMB](/colleges), [IMT](/colleges/imt-ghaziabad), [GIM](/colleges)** | **[SIBM Pune](/colleges/sibm-pune), [SCMHRD](/colleges/scmhrd-pune)** | **[NMIMS Mumbai](/colleges/nmims-mumbai), [KJ Somaiya](/colleges/kj-somaiya-mumbai)** |
+| **Target Top Colleges** | IIMs, FMS, MDI, SPJIMR | **[XLRI](/colleges/xlri-jamshedpur/), [XIMB](/colleges/), [IMT](/colleges/imt-ghaziabad/), [GIM](/colleges/)** | **[SIBM Pune](/colleges/sibm-pune/), [SCMHRD](/colleges/scmhrd-pune/)** | **[NMIMS Mumbai](/colleges/nmims-mumbai/), [KJ Somaiya](/colleges/kj-somaiya-mumbai/)** |
 
 ---
 
@@ -116,26 +116,26 @@ In this comprehensive head-to-head analysis, **Mohit Jain** evaluates the **exam
 XAT (Conceptual & Ethics)  SNAP (Pure Pacing)     NMAT (Adaptive & Safe)  CAT (Standard Aptitude)
 • Decision Making          • 60 Mins, 60 Qs        • No Negative Marks     • High Competition
 • Deep Analytical English  • Direct Formulas       • 3 Multi-Attempts      • Strict Sectionals
-• Flagship: XLRI           • Flagship: [SIBM Pune](/colleges/sibm-pune)   • Flagship: NMIMS       • Flagship: IIMs/FMS
+• Flagship: XLRI           • Flagship: [SIBM Pune](/colleges/sibm-pune/)   • Flagship: NMIMS       • Flagship: IIMs/FMS
 ```
 
 ### 1. XAT (Xavier Aptitude Test): The Analytical Thinker's Exam
 *   **Difficulty Rating:** **High / Tough** (Conceptually equal to or slightly tougher than CAT).
 *   **Unique Feature:** The **Decision Making (DM)** section tests your business ethics, organizational dilemmas, and stakeholder balancing.
 *   **Scoring Advantage:** XAT gives ample time (175 minutes for core sections). If your reading speed and ethical judgment are strong, you can score very high even with moderate quantitative skills.
-*   **Prime Target:** [XLRI Jamshedpur & Delhi NCR](/colleges/xlri-jamshedpur).
+*   **Prime Target:** [XLRI Jamshedpur & Delhi NCR](/colleges/xlri-jamshedpur/).
 
 ### 2. SNAP (Symbiosis National Aptitude Test): The Speed-Demon Exam
 *   **Difficulty Rating:** **Easy to Moderate** (Straightforward questions, but extreme time crunch).
 *   **Unique Feature:** 60 questions in 60 minutes with **no sectional time boundaries**. You can hop between General English (15 Qs), Analytical & Logical Reasoning (25 Qs), and Quantitative/DI (20 Qs).
 *   **Scoring Advantage:** Questions are direct formula application. If you have lightning-fast calculation and swift mental logic, SNAP is effortless compared to CAT.
-*   **Prime Target:** [SIBM Pune](/colleges/sibm-pune) (98.5+ %ile) and [SCMHRD Pune](/colleges/scmhrd-pune) (97+ %ile).
+*   **Prime Target:** [SIBM Pune](/colleges/sibm-pune/) (98.5+ %ile) and [SCMHRD Pune](/colleges/scmhrd-pune/) (97+ %ile).
 
 ### 3. NMAT by GMAC: The Candidate-Friendly Adaptive Exam
 *   **Difficulty Rating:** **Moderate** (Computer-adaptive format where question difficulty adjusts based on previous answers).
 *   **Unique Feature:** **Zero Negative Marking!** Plus, candidates can take up to 3 attempts (1 main + 2 retakes within the testing window) to submit their best score.
 *   **Scoring Advantage:** You can choose the section order that matches your confidence (e.g., start with your strongest section).
-*   **Prime Target:** [NMIMS Mumbai](/colleges/nmims-mumbai) (Score 232+ out of 360).
+*   **Prime Target:** [NMIMS Mumbai](/colleges/nmims-mumbai/) (Score 232+ out of 360).
 
 ---
 
@@ -171,10 +171,10 @@ Week 1 (Post-CAT)       Week 2 & 3              Week 4                  January 
 ---
 
 ## 🔗 Related Resources
-*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29)
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29)
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29)
+*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29/)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29/)
 
 ---
 
@@ -190,7 +190,7 @@ XAT features a unique 'Decision Making' section, a separate General Knowledge & 
 No, NMAT by GMAC has zero negative marking. Candidates receive +3 marks for every correct answer and 0 marks for incorrect or unattempted questions, making it advantageous to attempt all questions.
 
 ### Which top colleges can I target through XAT, SNAP, and NMAT?
-Through XAT: [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune), [SIBM Bangalore](/colleges/sibm-bangalore). Through NMAT: [NMIMS Mumbai](/colleges/nmims-mumbai), NMIMS Bengaluru, K J Somaiya, and XIM University.
+Through XAT: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)/Delhi, XIMB, IMT Ghaziabad, GIM Goa. Through SNAP: [SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), [SIBM Bangalore](/colleges/sibm-bangalore/). Through NMAT: [NMIMS Mumbai](/colleges/nmims-mumbai/), NMIMS Bengaluru, K J Somaiya, and XIM University.
 
 ### How should I pivot my preparation from CAT to SNAP, NMAT, and XAT?
 For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic puzzles. For NMAT: Practice timed sectional computer-adaptive tests without guessing recklessly. For XAT: Solve 10 years of past Decision Making sets and practice abstract Reading Comprehension.
@@ -199,6 +199,6 @@ For SNAP: Focus on rapid speed arithmetic, vocabulary, and direct logic puzzles.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

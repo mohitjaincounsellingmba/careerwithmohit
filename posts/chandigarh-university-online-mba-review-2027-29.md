@@ -133,7 +133,7 @@ At ₹1,65,000 for a QS-ranked, NAAC A+ university — CU Online MBA offers amon
 - **Working professionals (2+ years):** 20–30% CTC hike expected
 - **Freshers:** ₹4 – ₹7 LPA starting range with placement support
 
-> ⚠️ **Manage Expectations:** Online MBA placement support = assistance, not guarantee. If campus placements are your primary goal, explore [full-time MBA colleges in Delhi](/blog/best-mba-colleges-in-delhi-2027-29) or [top PGDM colleges in Pune](/blog/best-mba-colleges-in-pune-2027-29).
+> ⚠️ **Manage Expectations:** Online MBA placement support = assistance, not guarantee. If campus placements are your primary goal, explore [full-time MBA colleges in Delhi](/blog/best-mba-colleges-in-delhi-2027-29/) or [top PGDM colleges in Pune](/blog/best-mba-colleges-in-pune-2027-29/).
 
 ---
 
@@ -172,21 +172,21 @@ CU holds **NAAC A+** (not A++). Do not confuse it with other universities — al
 | College | NAAC | Total Fee | Specializations |
 | :--- | :--- | :--- | :--- |
 | **CU Online** | A+ | ₹1,65,000 | 23+ |
-| [Amity Online](/blog/amity-university-online-mba-review-2027-29) | A+ | ₹1,99,000 | 15+ |
-| [NMIMS Online](/blog/nmims-online-mba-review-2027-29) | A++ | ₹2,10,000 | 8 |
-| [LPU Online](/blog/lpu-online-review-2027-29) | A++ | ₹1,61,600 | 6 |
-| [SRM Online](/blog/srm-university-online-mba-review-2027-29) | A++ | ₹1,89,000 | 9 |
+| [Amity Online](/blog/amity-university-online-mba-review-2027-29/) | A+ | ₹1,99,000 | 15+ |
+| [NMIMS Online](/blog/nmims-online-mba-review-2027-29/) | A++ | ₹2,10,000 | 8 |
+| [LPU Online](/blog/lpu-online-review-2027-29/) | A++ | ₹1,61,600 | 6 |
+| [SRM Online](/blog/srm-university-online-mba-review-2027-29/) | A++ | ₹1,89,000 | 9 |
 
 ---
 
-[👉 Apply for CU Online MBA – Talk to an Expert](/inquiry) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
+[👉 Apply for CU Online MBA – Talk to an Expert](/inquiry/) | [💬 WhatsApp Mohit Jain](https://wa.me/919560020771)
 
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29)
-- [Online MBA in India: Complete Guide 2027–29](/blog/online-mba-india-2027-29)
-- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+- [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
+- [Online MBA in India: Complete Guide 2027–29](/blog/online-mba-india-2027-29/)
+- [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 
 
@@ -195,7 +195,7 @@ CU holds **NAAC A+** (not A++). Do not confuse it with other universities — al
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -209,6 +209,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

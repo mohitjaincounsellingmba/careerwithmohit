@@ -41,7 +41,7 @@ category: B.Tech
 ---
 Are you wondering which engineering college you can get with your JEE Main percentile? With over **12 Lakh students** appearing for the exam, the competition for top-tier institutes like **NITs, IIITs, and DTU** is at an all-time high.
 
-Our **[JEE Main B.Tech College Predictor 2026](/tools/btech-college-predictor)** is built to give you real-time insights into your admission probability. Instead of scrolling through endless PDF cutoff lists, our tool maps your percentile to the most accurate college options in seconds.
+Our **[JEE Main B.Tech College Predictor 2026](/tools/btech-college-predictor/)** is built to give you real-time insights into your admission probability. Instead of scrolling through endless PDF cutoff lists, our tool maps your percentile to the most accurate college options in seconds.
 
 ---
 
@@ -54,7 +54,7 @@ Engineering admissions in India are divided into competitive tiers. Based on his
 | **98.5+ %ile** | **Elite Tier** | NIT Trichy, NIT Surathkal, DTU Delhi, NSUT Delhi |
 | **95 - 98.4%ile** | **Top Tier** | IIIT Delhi, COEP Pune, RVCE Bangalore, PEC Chandigarh |
 | **88 - 94.9%ile** | **Premium Tier** | MAIT Delhi, PICT Pune, MSRIT Bangalore, IGDTUW |
-| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pesu-bangalore), AKGEC, BVCOE Delhi |
+| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pesu-bangalore/), AKGEC, BVCOE Delhi |
 | **60 - 74.9%ile** | **Emerging Tier** | GL Bajaj Noida, NIET, GNIOT, ABES Ghaziabad |
 
 > **Pro Tip:** For a Computer Science (CSE) seat in a top-5 NIT, you generally need a percentile above **99.2+**.
@@ -88,18 +88,18 @@ When choosing a B.Tech college, the **location** is just as important as the bra
 ---
 
 ## 💡 Related Reading for Engineering Aspirants:
-- [B.Tech Admissions FAQ 2026: 20+ Questions Answered](/blog/btech-admissions-faq-2026)
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [Top B.Tech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026)
-- [MBA after B.Tech: Is it a Good Choice?](/blog/mba-after-btech-benefits-2027-29)
+- [B.Tech Admissions FAQ 2026: 20+ Questions Answered](/blog/btech-admissions-faq-2026/)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [Top B.Tech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026/)
+- [MBA after B.Tech: Is it a Good Choice?](/blog/mba-after-btech-benefits-2027-29/)
 
 ---
 
 **Ready to see your results?**
-[📊 Open the JEE Main B.Tech College Predictor](/tools/btech-college-predictor)
+[📊 Open the JEE Main B.Tech College Predictor](/tools/btech-college-predictor/)
 
 **Need help with your counselling strategy?**
-[👉 Book Your B.Tech Admission Session](/inquiry) | [💬 WhatsApp Support](https://wa.me/919560020771)
+[👉 Book Your B.Tech Admission Session](/inquiry/) | [💬 WhatsApp Support](https://wa.me/919560020771)
 
 ---
 
@@ -121,6 +121,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

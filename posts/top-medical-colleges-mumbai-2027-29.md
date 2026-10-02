@@ -126,16 +126,16 @@ Usually starts late **July**, following the national MCC counselling cycles.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29)
-- [MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2027-29/)
+- [MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29/)
 
 ---
 
 **Do You Have the Stamina for Mumbai's Frontlines?**
 Mumbai medical colleges aren't just about exams; they are about surviving the busiest wards in India. Don't waste your score on a college without a functional clinical legacy. Mohit Jain provides a "Mumbai Medical Audit"—helping you pick the college that transforms you into a seasoned physician.
 
-[👉 Book My Mumbai Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Mumbai Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -143,7 +143,7 @@ Mumbai medical colleges aren't just about exams; they are about surviving the bu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -157,6 +157,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

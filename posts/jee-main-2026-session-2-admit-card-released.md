@@ -65,14 +65,14 @@ Candidates can follow these simple steps to download their hall tickets:
 ### **🚀 Planning Your Next Steps?**
 Once you have appeared for the exam, it's time to start planning for your college admissions and the next level of entrance exams:
 
-*   **Predict Your College**: Use our [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges) to see which NITs or IIITs you can get into based on your expected percentile.
-*   **JEE Advanced Prep**: If you are aiming for the IITs, check out our guide on [How to Crack JEE Advanced 2026](/blog/how-to-crack-jee-advanced-2027-29).
-*   **Total Seats Matrix**: Understand the [JEE Main 2026 Seat Matrix for NITs, IIITs, and GFTIs](/blog/total-seats-in-nits-2026-seat-matrix).
+*   **Predict Your College**: Use our [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges/) to see which NITs or IIITs you can get into based on your expected percentile.
+*   **JEE Advanced Prep**: If you are aiming for the IITs, check out our guide on [How to Crack JEE Advanced 2026](/blog/how-to-crack-jee-advanced-2027-29/).
+*   **Total Seats Matrix**: Understand the [JEE Main 2026 Seat Matrix for NITs, IIITs, and GFTIs](/blog/total-seats-in-nits-2026-seat-matrix/).
 
 **Confused about B.Tech Admissions?**
 With thousands of engineering colleges in India, choosing the right branch and college can be overwhelming. Get expert guidance on B.Tech admissions 2026 today.
 
-[👉 Book a Personalized Counselling Session!](/inquiry) | [💬 Chat with Our Expert on WhatsApp](https://wa.me/919560020771)
+[👉 Book a Personalized Counselling Session!](/inquiry/) | [💬 Chat with Our Expert on WhatsApp](https://wa.me/919560020771)
 
 ---
 
@@ -94,6 +94,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

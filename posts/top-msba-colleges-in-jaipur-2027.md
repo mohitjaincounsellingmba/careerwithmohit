@@ -51,10 +51,10 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** (PGDM Analytics) | ₹12.50L - ₹13.50L | ₹11.29 LPA - ₹12.00 LPA | CAT / XAT / CMAT / MAT (70%+ %ile) |
-| **[Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur)** (MBA Analytics) | ₹9.80L - ₹11.50L | ₹7.50 LPA - ₹9.10 LPA | CAT / MAT / CMAT / XAT / GMAT / MET |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur/)** (PGDM Analytics) | ₹12.50L - ₹13.50L | ₹11.29 LPA - ₹12.00 LPA | CAT / XAT / CMAT / MAT (70%+ %ile) |
+| **[Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur/)** (MBA Analytics) | ₹9.80L - ₹11.50L | ₹7.50 LPA - ₹9.10 LPA | CAT / MAT / CMAT / XAT / GMAT / MET |
 | **JECRC University** (MBA Business Analytics - IoA UK) | ₹3.80L - ₹5.50L | ₹6.50 LPA - ₹7.80 LPA | CAT / MAT / XAT / CMAT / JECRC Merit |
-| **[IIHMR University Jaipur](/colleges/iihmr-university)** (MBA Healthcare Analytics) | ₹11.50 Lakhs | ₹8.50 LPA - ₹10.20 LPA | CAT / XAT / NMAT / MAT / CMAT / IIHMR-U |
+| **[IIHMR University Jaipur](/colleges/iihmr-university/)** (MBA Healthcare Analytics) | ₹11.50 Lakhs | ₹8.50 LPA - ₹10.20 LPA | CAT / XAT / NMAT / MAT / CMAT / IIHMR-U |
 | **Apex University Jaipur** (MBA Analytics & AI) | ₹2.80L - ₹3.80L | ₹4.50 LPA - ₹5.50 LPA | CUET-PG / Direct Merit / National Entrance |
 | **Jaipur National University (JNU)** (MBA Analytics) | ₹3.50L - ₹4.80L | ₹5.00 LPA - ₹6.20 LPA | JEST / CAT / MAT / CMAT / Graduation Merit |
 | **Arya College of Engineering & IT** (MBA Analytics) | ₹2.20L - ₹3.00L | ₹4.20 LPA - ₹5.00 LPA | REAP / RMAT / CAT / CMAT / Direct Merit |
@@ -63,7 +63,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 ## 🏛️ In-Depth Breakdown: Best Business Analytics Colleges in Jaipur
 
-### 1. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur) – Bambala, Pratap Nagar
+### 1. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur/) – Bambala, Pratap Nagar
 - **Flagship Offering**: PGDM with Specialized Electives in Business Analytics
 - **Total Tuition Fee**: ₹12.50 Lakhs – ₹13.50 Lakhs
 - **Placement Performance**: Average CTC ₹11.29 LPA | Highest Domestic CTC ₹22.00 LPA
@@ -76,7 +76,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 ---
 
-### 2. [Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur) – TAPMI School of Business (Dehmi Kalan)
+### 2. [Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur/) – TAPMI School of Business (Dehmi Kalan)
 - **Flagship Offering**: MBA in Business Analytics / Online M.Sc. in Business Analytics
 - **Total Tuition Fee**: ₹9.80 Lakhs – ₹11.50 Lakhs
 - **Placement Performance**: Average CTC ₹7.50 LPA – ₹9.10 LPA | Highest Domestic CTC ₹24.00 LPA
@@ -97,7 +97,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 ---
 
-### 4. [IIHMR University, Jaipur](/colleges/iihmr-university) – Sanganer
+### 4. [IIHMR University, Jaipur](/colleges/iihmr-university/) – Sanganer
 - **Flagship Offering**: MBA in Health & Hospital Management (Specialization: Healthcare & Pharmaceutical Analytics)
 - **Total Tuition Fee**: ₹11.50 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹10.20 LPA | Highest Domestic CTC ₹24.00 LPA
@@ -146,12 +146,12 @@ Average starting domestic packages range between ₹6.50 LPA and ₹11.29 LPA ac
 ### 3. Can I get direct admission in Jaipur Business Analytics colleges?
 Yes, universities like JECRC, Manipal Jaipur, Apex, and JNU offer direct institutional and merit-based admission rounds based on graduation percentage, entrance test scores (CAT/MAT/CMAT), and personal interviews.
 
-[👉 Confused about choosing the right college in Jaipur for Business Analytics? Talk to Mohit Jain!](/inquiry)
+[👉 Confused about choosing the right college in Jaipur for Business Analytics? Talk to Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: Best MBA Colleges in Jaipur 2027–29 Fees & Placements](/blog/best-mba-colleges-in-jaipur-2027-29)**
-- **[Read: All About Jaipuria Institute of Management Jaipur Review](/blog/all-about-jaipuria-institute-of-management-jaipur)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: Best MBA Colleges in Jaipur 2027–29 Fees & Placements](/blog/best-mba-colleges-in-jaipur-2027-29/)**
+- **[Read: All About Jaipuria Institute of Management Jaipur Review](/blog/all-about-jaipuria-institute-of-management-jaipur/)**

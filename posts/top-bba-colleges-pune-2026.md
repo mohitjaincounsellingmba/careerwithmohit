@@ -97,8 +97,8 @@ If you miss the SET or BUMAT cutoffs, direct admission in Pune is possible under
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is Symbiosis Pune BBA better than [NMIMS Mumbai](/colleges/nmims-mumbai)?**
-In terms of **Campus Life and Culture**, Symbiosis Pune is often preferred. In terms of **pure Financial Placements**, [NMIMS Mumbai](/colleges/nmims-mumbai) holds a slight edge due to its location.
+**Q1. is Symbiosis Pune BBA better than [NMIMS Mumbai](/colleges/nmims-mumbai/)?**
+In terms of **Campus Life and Culture**, Symbiosis Pune is often preferred. In terms of **pure Financial Placements**, [NMIMS Mumbai](/colleges/nmims-mumbai/) holds a slight edge due to its location.
 
 **Q2. does MIT-WPU require CET for BBA?**
 Yes. You generally need to appear for **MIT-WPU CET**. However, students with high scores in other national exams may be exempted—always check the latest 2026 brochure.
@@ -115,16 +115,16 @@ The annual tuition fee is approximately **₹1.2 Lakhs to ₹1.5 Lakhs**, making
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Admission in Symbiosis Pune — SET Guide](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Admission in Symbiosis Pune — SET Guide](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Planning your Management Career in the Oxford of the East?**
 Pune is about depth and discipline. Don't waste your score on a college without a stable industry link. Mohit Jain provides a **"Pune Management Audit"**—helping you pick the college that matches your goals for global marketing or core industrial management.
 
-[👉 Book My Pune BBA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Pune BBA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -132,6 +132,6 @@ Pune is about depth and discipline. Don't waste your score on a college without 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

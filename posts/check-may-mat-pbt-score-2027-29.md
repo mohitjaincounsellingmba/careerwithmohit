@@ -46,7 +46,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for How to Check MAT May 2026 PBT Score – Scorecar...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across multiple test centres in India. If you appeared for the PBT mode, you are now eagerly waiting for your official scorecard. This guide covers everything — the result date, how to check and download your PBT scorecard, and how to make sense of your score.
@@ -59,7 +59,7 @@ The **MAT May 2026 Paper-Based Test (PBT)** was held on **May 31, 2026** across 
 
 <div class="calculator-cta-top">
 
-> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator)**
+> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator/)**
 >
 > Enter your correct & incorrect answers across all 4 sections (LC, MS, DA, ICR) and instantly get your estimated **composite score out of 800** and **expected percentile**. No login required!
 
@@ -162,7 +162,7 @@ Understanding your score in context helps you target the right colleges:
 
 <div class="calculator-cta-mid">
 
-> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator)**
+> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator/)**
 >
 > ✅ Enter your **correct answers** and **wrong answers** for LC, MS, DA, and ICR sections  
 > ✅ Instantly see your **estimated composite score out of 800**  
@@ -183,14 +183,14 @@ Your MAT May 2026 PBT scorecard is valid for **12 months** from the date of decl
 
 Once you have your scorecard, immediately begin applying to relevant colleges:
 
-- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** – 500+ composite preferred
-- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management)** – MAT-friendly admission process
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29)** – Direct PGDM admissions with MAT
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** – Top Delhi PGDM institute accepting MAT
-- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** – Banking & Finance MBA accepting MAT
-- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** – AICTE-approved PGDM with MAT intake
+- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** – 500+ composite preferred
+- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/)** – MAT-friendly admission process
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/)** – Direct PGDM admissions with MAT
+- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** – Top Delhi PGDM institute accepting MAT
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** – Banking & Finance MBA accepting MAT
+- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini/)** – AICTE-approved PGDM with MAT intake
 
-👉 Read full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
+👉 Read full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
 ---
 
@@ -200,13 +200,13 @@ Once you have your scorecard, immediately begin applying to relevant colleges:
 Act immediately — shortlist colleges, check their GD/PI schedules, and apply directly. Most top MAT-accepting B-Schools run rolling admissions and seats fill fast.
 
 ### ✅ If Your Score is 60–80 Percentile
-Target mid-range PGDM institutes with strong placement records. Use the **[MAT College Predictor](/tools/mat-college-predictor)** to get a personalised list.
+Target mid-range PGDM institutes with strong placement records. Use the **[MAT College Predictor](/tools/mat-college-predictor/)** to get a personalised list.
 
 ### ✅ If Your Score is Below 60 Percentile
 Consider re-appearing in the **MAT September 2026** session. It is the last window for 2027–29 batch admissions at many institutes. Meanwhile, explore institutes accepting **CMAT, MAH-CET, or direct admissions**.
 
 ### ✅ Prepare for GD/PI
-Once shortlisted, start preparing for Group Discussion and Personal Interview rounds. Read our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**
+Once shortlisted, start preparing for Group Discussion and Personal Interview rounds. Read our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)**
 
 ---
 
@@ -234,11 +234,11 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam)** — Complete exam overview
-- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download)** — All modes result guide
-- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide)**
-- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide)** — Find your best-fit college
-- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29)**
+- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)** — Complete exam overview
+- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
+- **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)**
+- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Find your best-fit college
+- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**
 
 ---
 
@@ -248,7 +248,7 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 
 <div class="calculator-cta-footer">
 
-> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator)**
+> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator/)**
 >
 > Enter your attempted answers for all 4 sections → Get your **composite score**, **percentile estimate**, and a **personalised college list** based on your projected score.  
 > **Zero cost. Zero login. Instant results.**
@@ -264,6 +264,6 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

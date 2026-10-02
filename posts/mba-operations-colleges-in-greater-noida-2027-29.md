@@ -55,10 +55,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
-| **[Sharda University (School of Business Studies)](/colleges/sharda-greater-noida)** | SUAT / CAT / MAT | ₹6.5 Lakhs (Total) | **₹5.80 LPA** |
-| **[GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
-| **[GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
+| **[BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/))](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
+| **[Sharda University (School of Business Studies)](/colleges/sharda-greater-noida/)** | SUAT / CAT / MAT | ₹6.5 Lakhs (Total) | **₹5.80 LPA** |
+| **[GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida/))](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
+| **[GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida/)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
 
 ---
 
@@ -79,25 +79,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. [BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))](/colleges/bimtech-greater-noida)
+### 1. [BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida/))](/colleges/bimtech-greater-noida)
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
 - **Key Highlight:** Offers PGDM with specialized modules in operations management with strong retail and corporate links.
 
-### 2. [Sharda University (School of Business Studies)](/colleges/sharda-greater-noida)
+### 2. [Sharda University (School of Business Studies)](/colleges/sharda-greater-noida/)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** SUAT / CAT / MAT
 - **Average Placement Package:** **₹5.80 LPA**
 - **Key Highlight:** Offers a specialized MBA in Supply Chain/Operations with extensive practical application training.
 
-### 3. [GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))](/colleges/gniot-greater-noida)
+### 3. [GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida/))](/colleges/gniot-greater-noida)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**
 - **Key Highlight:** AICTE-approved PGDM featuring structured training in data operations and analytics tools.
 
-### 4. [GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida)
+### 4. [GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida/)
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CMAT / MAT / CAT
 - **Average Placement Package:** **₹6.00 LPA**
@@ -114,9 +114,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -126,7 +126,7 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -135,8 +135,8 @@ Finding a program that fits your academic profile, budget, and placement goals c
 ### Does BIMTECH Greater Noida offer Operations specialization?
 Yes, BIMTECH's general PGDM program allows students to specialize in Operations, which is highly popular among top consulting and services recruiters.
 
-### What is the fee structure for [Sharda University](/colleges/sharda-greater-noida) MBA?
-[Sharda University](/colleges/sharda-greater-noida) offers its MBA in Operations/Supply Chain with a total program fee of around INR 6.5 Lakhs, making it a balanced choice.
+### What is the fee structure for [Sharda University](/colleges/sharda-greater-noida/) MBA?
+[Sharda University](/colleges/sharda-greater-noida/) offers its MBA in Operations/Supply Chain with a total program fee of around INR 6.5 Lakhs, making it a balanced choice.
 
 ### What exams does GNIOT accept?
 GNIOT accepts scores from national exams like CAT, MAT, and CMAT.
@@ -144,6 +144,6 @@ GNIOT accepts scores from national exams like CAT, MAT, and CMAT.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

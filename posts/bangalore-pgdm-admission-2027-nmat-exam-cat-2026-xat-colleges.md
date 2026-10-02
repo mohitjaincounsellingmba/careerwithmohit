@@ -47,7 +47,7 @@ category: Exams
 # Top PGDM Colleges in Bangalore Admission 2027: Fees, Cutoffs, NMAT Exam, CAT 2027–29 & XAT Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tech Capital B-Schools:** [XIME Bangalore](/colleges/xime-bangalore), JagSoM (AACSB accredited), [TAPMI Bengaluru](/colleges/tapmi-bangalore), ISBR, GIBS, and IBA.
+> - **Top Tech Capital B-Schools:** [XIME Bangalore](/colleges/xime-bangalore/), JagSoM (AACSB accredited), [TAPMI Bengaluru](/colleges/tapmi-bangalore/), ISBR, GIBS, and IBA.
 > - **Exam Acceptance:** CAT 2026, XAT exam, NMAT exam, MAT, CMAT, and KMAT.
 > - **Tech & Startup Hub:** Exceptional access to IT giants, E-Commerce giants (Amazon, Flipkart), GICs, and VC-funded startups.
 
@@ -59,55 +59,55 @@ category: Exams
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT / NMAT Exam) |
 | :--- | :--- | :--- | :--- |
-| **[IIM Bangalore](/colleges/iim-bangalore)** | ₹24.50 Lakhs | ₹35.31 LPA | CAT 2026 (99+ %ile) / Tier-1 Global Rank |
+| **[IIM Bangalore](/colleges/iim-bangalore/)** | ₹24.50 Lakhs | ₹35.31 LPA | CAT 2026 (99+ %ile) / Tier-1 Global Rank |
 | **JagSoM (IFIM) Bangalore** | ₹15.90 Lakhs | ₹13.30 LPA | CAT 2026 / XAT / NMAT Exam / GMAT (70+ %ile) |
 | **TAPMI Bangalore Campus** | ₹16.50 Lakhs | ₹12.80 LPA | CAT 2026 / XAT / NMAT Exam / GMAT |
-| **[XIME Bangalore](/colleges/xime-bangalore) (Electronics City)** | ₹12.00 Lakhs | ₹10.75 LPA | CAT 2026 / XAT / MAT / CMAT (70+ %ile) |
-| **[ISBR Business School](/colleges/isbr-bangalore) (ECity)** | ₹10.50 Lakhs | ₹8.50 LPA | CAT 2026 / MAT / CMAT / KMAT / NMAT (60+ %ile) |
-| **[GIBS Business School](/colleges/gibs-bangalore) (Bannerghatta)** | ₹8.90 Lakhs | ₹7.40 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
-| **[Indus Business Academy (IBA)](/colleges/iba-bangalore)** | ₹9.78 Lakhs | ₹7.80 LPA | CAT 2026 / MAT / CMAT / ATMA (60+ %ile) |
-| **[ISME Bangalore](/colleges/isme-bangalore) (Sarjapur)** | ₹9.90 Lakhs | ₹7.65 LPA | CAT 2026 / MAT / CMAT / XAT / Direct GD-PI |
-| **[Alliance University Bangalore](/colleges/alliance-university-bangalore)** | ₹15.00 Lakhs | ₹8.50 LPA | AMAT / CAT 2026 / NMAT / CMAT |
+| **[XIME Bangalore](/colleges/xime-bangalore/) (Electronics City)** | ₹12.00 Lakhs | ₹10.75 LPA | CAT 2026 / XAT / MAT / CMAT (70+ %ile) |
+| **[ISBR Business School](/colleges/isbr-bangalore/) (ECity)** | ₹10.50 Lakhs | ₹8.50 LPA | CAT 2026 / MAT / CMAT / KMAT / NMAT (60+ %ile) |
+| **[GIBS Business School](/colleges/gibs-bangalore/) (Bannerghatta)** | ₹8.90 Lakhs | ₹7.40 LPA | CAT 2026 / MAT / CMAT / XAT (55+ %ile) |
+| **[Indus Business Academy (IBA)](/colleges/iba-bangalore/)** | ₹9.78 Lakhs | ₹7.80 LPA | CAT 2026 / MAT / CMAT / ATMA (60+ %ile) |
+| **[ISME Bangalore](/colleges/isme-bangalore/) (Sarjapur)** | ₹9.90 Lakhs | ₹7.65 LPA | CAT 2026 / MAT / CMAT / XAT / Direct GD-PI |
+| **[Alliance University Bangalore](/colleges/alliance-university-bangalore/)** | ₹15.00 Lakhs | ₹8.50 LPA | AMAT / CAT 2026 / NMAT / CMAT |
 
 ---
 
 ## Spotlight on Bangalore’s Top Autonomous B-Schools
 
-### 1. JagSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))
+### 1. JagSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))
 * **Accreditation:** Globally AACSB accredited.
-* **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
+* **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore/).
 
-### 2. [XIME Bangalore](/colleges/xime-bangalore)
+### 2. [XIME Bangalore](/colleges/xime-bangalore/)
 * **Location:** Located in Electronic City Phase 1 right beside Infosys and HP campuses.
-* **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/colleges/xime-bangalore).
+* **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/colleges/xime-bangalore/).
 
-### 3. [ISBR Business School](/colleges/isbr-bangalore) & GIBS Bangalore
-* **[ISBR Business School](/colleges/isbr-bangalore):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/colleges/isbr-bangalore).
-* **[GIBS Business School](/colleges/gibs-bangalore):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/colleges/gibs-bangalore).
+### 3. [ISBR Business School](/colleges/isbr-bangalore/) & GIBS Bangalore
+* **[ISBR Business School](/colleges/isbr-bangalore/):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/colleges/isbr-bangalore/).
+* **[GIBS Business School](/colleges/gibs-bangalore/):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/colleges/gibs-bangalore/).
 
-### 4. [Indus Business Academy](/colleges/iba-bangalore) (IBA) & ISME
-* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/blog/all-about-indus-business-academy).
-* **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/colleges/isme-bangalore).
+### 4. [Indus Business Academy](/colleges/iba-bangalore/) (IBA) & ISME
+* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/blog/all-about-indus-business-academy/).
+* **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/colleges/isme-bangalore/).
 
 ---
 
 ## Cutoff Benchmark Guide for Bangalore PGDM 2027
 
-- **80+ Percentile in CAT 2026 / XAT / NMAT (220+):** JagSoM, [TAPMI Bengaluru](/colleges/tapmi-bangalore), XIME.
+- **80+ Percentile in CAT 2026 / XAT / NMAT (220+):** JagSoM, [TAPMI Bengaluru](/colleges/tapmi-bangalore/), XIME.
 - **60–75 Percentile in CAT 2026 / MAT (600+ Score):** ISBR, IBA, GIBS, ISME, Alliance.
 - **Direct Profile Evaluation Seats:** Available across ISBR, GIBS, and ISME for candidates with strong academic backgrounds (60%+ in 10th/12th/Graduation).
 
 ---
 
 ## Related Reads
-- [Top Ranked MBA/PGDM Institutes in Bangalore (2027-29)](/blog/top-mba-pgdm-institutes-bangalore-2027-29)
-- [All About NMAT Exam](/blog/all-about-nmat-exam)
-- [All About XAT Exam](/blog/all-about-xat-exam)
+- [Top Ranked MBA/PGDM Institutes in Bangalore (2027-29)](/blog/top-mba-pgdm-institutes-bangalore-2027-29/)
+- [All About NMAT Exam](/blog/all-about-nmat-exam/)
+- [All About XAT Exam](/blog/all-about-xat-exam/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

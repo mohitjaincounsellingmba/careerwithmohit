@@ -60,7 +60,7 @@ state: Delhi NCR
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
 
-Two of the most talked-about private engineering colleges in **Delhi-NCR** — **JIIT Noida (Jaypee Institute of Information Technology)** and **[KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad** — are on almost every shortlist for B.Tech 2026. Both have strong reputations, active placement cells, and NAAC 'A' or higher accreditation. But they cater to very different student profiles.
+Two of the most talked-about private engineering colleges in **Delhi-NCR** — **JIIT Noida (Jaypee Institute of Information Technology)** and **[KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad** — are on almost every shortlist for B.Tech 2026. Both have strong reputations, active placement cells, and NAAC 'A' or higher accreditation. But they cater to very different student profiles.
 
 This guide breaks down the real differences so you can make an informed decision.
 
@@ -212,11 +212,11 @@ This is where the two colleges diverge the most:
 ---
 
 ## 📍 Related Reads
-- [JIIT Noida B.Tech Admission 2026: Complete Guide](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff)
-- [KIET Ghaziabad B.Tech Admission 2026: Complete Guide](/blog/kiet-ghaziabad-btech-admission-2026-fees-cutoff)
-- [GL Bajaj Greater Noida: Review & Cutoffs](/blog/gl-bajaj-btech-admission-2026-fees-cutoff)
-- [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [Best B.Tech Colleges in Delhi NCR 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+- [JIIT Noida B.Tech Admission 2026: Complete Guide](/blog/jaypee-noida-jiit-btech-admission-2026-fees-cutoff/)
+- [KIET Ghaziabad B.Tech Admission 2026: Complete Guide](/blog/kiet-ghaziabad-btech-admission-2026-fees-cutoff/)
+- [GL Bajaj Greater Noida: Review & Cutoffs](/blog/gl-bajaj-btech-admission-2026-fees-cutoff/)
+- [JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [Best B.Tech Colleges in Delhi NCR 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
@@ -224,7 +224,7 @@ This is where the two colleges diverge the most:
 
 Every student has a unique JEE rank, budget, and career goal. At **CareerWithMohit**, we map your specific profile to the college that gives you the best return — not just the most popular name.
 
-**[👉 Get a Free College Selection Counselling Session!](/inquiry)** | **[💬 WhatsApp Our Experts](https://wa.me/919560020771)**
+**[👉 Get a Free College Selection Counselling Session!](/inquiry/)** | **[💬 WhatsApp Our Experts](https://wa.me/919560020771)**
 
 ---
 
@@ -251,6 +251,6 @@ For core branches (ECE, Mechanical, Civil), the cutoff difference narrows signif
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

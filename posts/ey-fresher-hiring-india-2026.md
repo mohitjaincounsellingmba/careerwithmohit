@@ -101,12 +101,12 @@ The recruitment process is structured into 3-4 key stages:
 ### **[👉 CLICK HERE TO CHECK OPENINGS AT EY GDS](https://www.ey.com/en_in/careers)**
 
 ### **Related Career Resources:**
-- [Amazon Fresher Hiring 2026: SDE & Ops Roles](/blog/amazon-fresher-hiring-pan-india-2026)
-- [Deloitte India Fresher Hiring 2026 Guide](/blog/deloitte-fresher-hiring-india-2026)
-- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [GDPI Interview Topics and Solutions for 2026](/blog/gdpi-interview-topics-solutions-mba)
+- [Amazon Fresher Hiring 2026: SDE & Ops Roles](/blog/amazon-fresher-hiring-pan-india-2026/)
+- [Deloitte India Fresher Hiring 2026 Guide](/blog/deloitte-fresher-hiring-india-2026/)
+- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+- [GDPI Interview Topics and Solutions for 2026](/blog/gdpi-interview-topics-solutions-mba/)
 
-[👉 Get Personalised Career Guidance Today!](/inquiry)
+[👉 Get Personalised Career Guidance Today!](/inquiry/)
 
 ---
 
@@ -128,6 +128,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

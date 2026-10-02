@@ -39,7 +39,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for How to Save Tax Under Section 80C & 80D — 2026...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Tax saving is often left for the last quarter of the financial year, leading to rushed decisions and sub-par investment returns. In 2026, with the rising costs of living and higher inflation, optimizing your **Section 80C and 80D** deductions is essential to increasing your take-home salary and building long-term wealth.
@@ -99,7 +99,7 @@ Apart from the ₹1.5 Lakh limit of Section 80C, you can invest an additional **
 
 ## ❗ 4. Standard Warning for 2026
 
-If you have already opted for the **New Tax Regime**, most of these deductions (80C, 80D) will **NOT** be available to you. Always check your [Tax Regime Comparison](/blog/india-income-tax-slabs-2026-27-regime-comparison) before investing specifically for tax saving.
+If you have already opted for the **New Tax Regime**, most of these deductions (80C, 80D) will **NOT** be available to you. Always check your [Tax Regime Comparison](/blog/india-income-tax-slabs-2026-27-regime-comparison/) before investing specifically for tax saving.
 
 ---
 
@@ -123,16 +123,16 @@ Yes. You can claim deduction for medical insurance premiums paid for parents, re
 ---
 
 ### Useful Links:
-- [India Income Tax Slabs 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [How to Start Investing in Stock Market 2026](/blog/stock-market-investing-beginners-guide-2027-29)
-- [HMRC Self Assessment Guide 2026](/blog/uk-income-tax-return-self-assessment-guide-2026)
+- [India Income Tax Slabs 2026-27 Breakdown](/blog/india-income-tax-slabs-2026-27-regime-comparison/)
+- [How to Start Investing in Stock Market 2026](/blog/stock-market-investing-beginners-guide-2027-29/)
+- [HMRC Self Assessment Guide 2026](/blog/uk-income-tax-return-self-assessment-guide-2026/)
 
 ---
 
 **Optimize Your Earnings, Minimize Your Taxes.**
 Tax-saving instruments should solve two problems: reduce your tax today and grow your wealth for tomorrow. Don't buy a random insurance policy just to save tax. Mohit Jain provides a **"Portfolio Efficiency Audit"**—helping you pick the right mix of ELSS, NPS, and Health Insurance to ensure your money works as hard as you do.
 
-[👉 Book My Investment Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Investment Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -140,6 +140,6 @@ Tax-saving instruments should solve two problems: reduce your tax today and grow
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

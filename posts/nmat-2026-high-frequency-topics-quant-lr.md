@@ -11,7 +11,7 @@ keywords:
   - NMAT LR syllabus
   - NMAT Quant prep
   - NMAT by GMAC preparation
-  - '[NMIMS Mumbai](/colleges/nmims-mumbai) admission'
+  - '[NMIMS Mumbai](/colleges/nmims-mumbai/) admission'
   - Direct Admission in Delhi
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
@@ -94,16 +94,16 @@ These questions present a code transformation process. If you can decode the pat
 - **Step 3:** Practice Verbal Reasoning daily. Focus on identifying logical fallacies in assumptions.
 - **Step 4:** Build speed in decoding Input-Output patterns and number series.
 
-For a comprehensive prep plan, check out our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score) and evaluate your current speed using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep).
+For a comprehensive prep plan, check out our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score/) and evaluate your current speed using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep/).
 
-[👉 Want to optimize your study plan for NMAT 2026? Speak to our MBA admission guides today!](/inquiry)
+[👉 Want to optimize your study plan for NMAT 2026? Speak to our MBA admission guides today!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -118,6 +118,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

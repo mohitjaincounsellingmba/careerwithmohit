@@ -121,16 +121,16 @@ Counselling registrations typically open in **July** after the national MCC coun
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026)
-- [MCA Colleges in Hyderabad 2026](/blog/top-mca-colleges-hyderabad-2026)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026/)
+- [MCA Colleges in Hyderabad 2026](/blog/top-mca-colleges-hyderabad-2026/)
 
 ---
 
 **Ready to start your Medical Journey in the City of Pearls?**
 Hyderabad offers authority and innovation. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Hyderabad Medical Audit"—helping you pick the college that matches your goals for clinical research or high-end surgery.
 
-[👉 Book My Hyderabad Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Hyderabad Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,6 +138,6 @@ Hyderabad offers authority and innovation. Don't waste your score on a college w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

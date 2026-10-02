@@ -308,7 +308,7 @@ export function College4SureLiveCompare() {
       {/* Footer bar with Stream Pips and Compare Link */}
       <div className="flex items-center justify-between gap-3 pt-3.5 border-t border-dashed border-white/15">
         <Link
-          href="/colleges"
+          href="/colleges/"
           className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-white hover:text-slate-950 transition-all py-1.5 px-3.5 rounded-full border border-white/20 hover:border-transparent bg-white/[0.08] hover:bg-gradient-to-r hover:from-[#00F0FF] hover:to-[#00FF88] shadow-sm hover:shadow-[0_0_15px_rgba(0,240,255,0.5)]"
         >
           <span>Compare any two</span>

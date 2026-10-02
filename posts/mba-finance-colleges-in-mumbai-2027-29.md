@@ -51,9 +51,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT / GMAT | ₹24.0 Lakhs (Total) | **₹33.00 LPA** |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | CAT / GMAT | ₹24.0 Lakhs (Total) | **₹33.00 LPA** |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 | **SIMSREE Mumbai** | MAH CET / CAT | ₹1.36 Lakhs (Total) | **₹12.30 LPA** |
 
@@ -76,19 +76,19 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Mumbai
 
-### 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
+### 1. [JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**
 - **Key Highlight:** The legendary 'CEO Factory' situated in Churchgate, minutes from major financial headquarters.
 
-### 2. [SPJIMR Mumbai](/colleges/spjimr-mumbai)
+### 2. [SPJIMR Mumbai](/colleges/spjimr-mumbai/)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / GMAT
 - **Average Placement Package:** **₹33.00 LPA**
 - **Key Highlight:** Consistently ranks in the top tier nationwide, with exceptional corporate relationships.
 
-### 3. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
+### 3. [NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)
 - **Approximate Fees:** ₹24.0 Lakhs (Total)
 - **Accepted Entrance Exams:** NMAT
 - **Average Placement Package:** **₹26.63 LPA**
@@ -117,9 +117,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -129,14 +129,14 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Finance Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [JBIMS Mumbai](/colleges/jbims-mumbai) highly favored for Finance?
-[JBIMS Mumbai](/colleges/jbims-mumbai) is physically located near the headquarters of top banks and corporate offices. Its classes are often taught by industry MDs and CFOs, offering invaluable industry exposure.
+### Why is [JBIMS Mumbai](/colleges/jbims-mumbai/) highly favored for Finance?
+[JBIMS Mumbai](/colleges/jbims-mumbai/) is physically located near the headquarters of top banks and corporate offices. Its classes are often taught by industry MDs and CFOs, offering invaluable industry exposure.
 
 ### Do I need MAH CET to get into JBIMS?
 Yes, JBIMS primarily accepts MAH CET for Maharashtra state seats, but also reserves seats for All India candidates applying via CAT or CMAT.
@@ -147,6 +147,6 @@ SIMSREE has a very low tuition fee of approximately INR 68,000 per year, making 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -20,19 +20,19 @@ faqs:
   - question: 'Which is the #1 engineering college in India 2026?'
     answer: >-
       IIT Madras has been ranked #1 by NIRF for 6 consecutive years (2019–2024).
-      IIT Delhi and [IIT Bombay](/colleges/iit-bombay) follow closely.
-  - question: 'What JEE rank is needed for [IIT Bombay](/colleges/iit-bombay) CSE?'
+      IIT Delhi and [IIT Bombay](/colleges/iit-bombay/) follow closely.
+  - question: 'What JEE rank is needed for [IIT Bombay](/colleges/iit-bombay/) CSE?'
     answer: >-
       Approximately CRL rank under 100 in JEE Advanced is needed for CSE at [IIT
-      Bombay](/colleges/iit-bombay) in the open category.
+      Bombay](/colleges/iit-bombay/) in the open category.
   - question: Which NIT is best for computer science?
     answer: >-
       NIT Tiruchirappalli (NIT-T) is consistently the top NIT for CSE, followed
       by NIT Surathkal and NIT Warangal.
-  - question: 'Is [BITS Pilani](/colleges/bits-pilani) better than NITs?'
+  - question: 'Is [BITS Pilani](/colleges/bits-pilani/) better than NITs?'
     answer: >-
       For CSE and electronics in private sector placements, [BITS
-      Pilani](/colleges/bits-pilani) (Pilani campus) is generally considered
+      Pilani](/colleges/bits-pilani/) (Pilani campus) is generally considered
       comparable to top NITs and better for software roles. NITs may have an
       edge in government sector jobs and GATE performance.
   - question: 'What are the total B.Tech seats in IITs, NITs, and IIITs?'
@@ -40,9 +40,9 @@ faqs:
       - IITs: ~16,000 seats | NITs: ~23,000 seats | IIITs: ~7,000 seats
 
       - Read: [Total Seats in IITs
-      2026](/blog/total-seats-in-iits-2026-seat-matrix) |
-      [NITs](/blog/total-seats-in-nits-2026-seat-matrix) |
-      [IIITs](/blog/total-seats-in-iiits-2026-seat-matrix)
+      2026](/blog/total-seats-in-iits-2026-seat-matrix/) |
+      [NITs](/blog/total-seats-in-nits-2026-seat-matrix/) |
+      [IIITs](/blog/total-seats-in-iiits-2026-seat-matrix/)
 location: Delhi NCR
 state: Delhi NCR
 ---
@@ -64,17 +64,17 @@ This comprehensive guide covers **India's top B.Tech engineering colleges for 20
 |---|---|---|---|---|---|
 | #1 | IIT Madras | Central Govt | ₹2.5 L | ₹20–30 LPA | JEE Advanced |
 | #2 | IIT Delhi | Central Govt | ₹2.5 L | ₹20–28 LPA | JEE Advanced |
-| #3 | [IIT Bombay](/colleges/iit-bombay) | Central Govt | ₹2.5 L | ₹22–35 LPA | JEE Advanced |
+| #3 | [IIT Bombay](/colleges/iit-bombay/) | Central Govt | ₹2.5 L | ₹22–35 LPA | JEE Advanced |
 | #4 | IIT Kanpur | Central Govt | ₹2.5 L | ₹18–25 LPA | JEE Advanced |
 | #5 | IIT Kharagpur | Central Govt | ₹2.5 L | ₹16–22 LPA | JEE Advanced |
 | #6 | IIT Roorkee | Central Govt | ₹2.5 L | ₹16–20 LPA | JEE Advanced |
 | #7 | IIT Guwahati | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
 | #8 | IIT Hyderabad | Central Govt | ₹2.5 L | ₹18–25 LPA | JEE Advanced |
 | #9 | NIT Tiruchirappalli | Central Govt (NIT) | ₹2.0 L | ₹8–14 LPA | JEE Main |
-| #10 | [BITS Pilani](/colleges/bits-pilani) | Private Deemed | ₹5.5 L | ₹15–20 LPA | BITSAT |
+| #10 | [BITS Pilani](/colleges/bits-pilani/) | Private Deemed | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | #11 | NIT Surathkal | Central Govt (NIT) | ₹1.5 L | ₹8–13 LPA | JEE Main |
 | #12 | IIT BHU Varanasi | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
-| #13 | [VIT Vellore](/colleges/vit-vellore-campus) | Private Deemed | ₹2.1 L | ₹7–14 LPA | VITEEE |
+| #13 | [VIT Vellore](/colleges/vit-vellore-campus/) | Private Deemed | ₹2.1 L | ₹7–14 LPA | VITEEE |
 | #14 | SRM Kattankulathur | Private Deemed | ₹2.0 L | ₹6–12 LPA | SRMJEEE |
 | #15 | NIT Warangal | Central Govt (NIT) | ₹1.5 L | ₹8–13 LPA | JEE Main |
 | #16 | Thapar University | Private | ₹4.0 L | ₹10–18 LPA | JEE Main/Boards |
@@ -95,7 +95,7 @@ India has **23 IITs** offering B.Tech programs. Admission is through **JEE Advan
 
 | IIT | JEE Advanced CSE Closing Rank (2025) |
 |---|---|
-| [IIT Bombay](/colleges/iit-bombay) | ~100 |
+| [IIT Bombay](/colleges/iit-bombay/) | ~100 |
 | IIT Delhi | ~120 |
 | IIT Madras | ~150 |
 | IIT Kanpur | ~210 |
@@ -148,8 +148,8 @@ Top private deemed universities for B.Tech include:
 
 | University | Entrance | Annual Fee | Best For |
 |---|---|---|---|
-| [BITS Pilani](/colleges/bits-pilani) (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
-| [VIT Vellore](/colleges/vit-vellore-campus) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
+| [BITS Pilani](/colleges/bits-pilani/) (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
+| [VIT Vellore](/colleges/vit-vellore-campus/) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
 | Thapar University | JEE Main/Boards | ₹4.0 L | CS, EEE, Chem |
 | Manipal Institute of Tech | MU OET / JEE | ₹2.3 L | CS, ECE, Mech |
 | SRM Kattankulathur | SRMJEEE | ₹2.0 L | CS, ECE, Biomedical |
@@ -170,36 +170,36 @@ Top private deemed universities for B.Tech include:
 ## FAQs — Top B.Tech Colleges in India 2026
 
 **Q1. Which is the #1 engineering college in India 2026?**
-IIT Madras has been ranked #1 by NIRF for 6 consecutive years (2019–2024). IIT Delhi and [IIT Bombay](/colleges/iit-bombay) follow closely.
+IIT Madras has been ranked #1 by NIRF for 6 consecutive years (2019–2024). IIT Delhi and [IIT Bombay](/colleges/iit-bombay/) follow closely.
 
-**Q2. What JEE rank is needed for [IIT Bombay](/colleges/iit-bombay) CSE?**
-Approximately CRL rank under 100 in JEE Advanced is needed for CSE at [IIT Bombay](/colleges/iit-bombay) in the open category.
+**Q2. What JEE rank is needed for [IIT Bombay](/colleges/iit-bombay/) CSE?**
+Approximately CRL rank under 100 in JEE Advanced is needed for CSE at [IIT Bombay](/colleges/iit-bombay/) in the open category.
 
 **Q3. Which NIT is best for computer science?**
 NIT Tiruchirappalli (NIT-T) is consistently the top NIT for CSE, followed by NIT Surathkal and NIT Warangal.
 
-**Q4. Is [BITS Pilani](/colleges/bits-pilani) better than NITs?**
-For CSE and electronics in private sector placements, [BITS Pilani](/colleges/bits-pilani) (Pilani campus) is generally considered comparable to top NITs and better for software roles. NITs may have an edge in government sector jobs and GATE performance.
+**Q4. Is [BITS Pilani](/colleges/bits-pilani/) better than NITs?**
+For CSE and electronics in private sector placements, [BITS Pilani](/colleges/bits-pilani/) (Pilani campus) is generally considered comparable to top NITs and better for software roles. NITs may have an edge in government sector jobs and GATE performance.
 
 **Q5. What are the total B.Tech seats in IITs, NITs, and IIITs?**
 - IITs: ~16,000 seats | NITs: ~23,000 seats | IIITs: ~7,000 seats
-- Read: [Total Seats in IITs 2026](/blog/total-seats-in-iits-2026-seat-matrix) | [NITs](/blog/total-seats-in-nits-2026-seat-matrix) | [IIITs](/blog/total-seats-in-iiits-2026-seat-matrix)
+- Read: [Total Seats in IITs 2026](/blog/total-seats-in-iits-2026-seat-matrix/) | [NITs](/blog/total-seats-in-nits-2026-seat-matrix/) | [IIITs](/blog/total-seats-in-iiits-2026-seat-matrix/)
 
 ---
 
 ## Useful Resources
 
-- [JoSAA Counselling 2026 — Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [Total Seats in IITs 2026](/blog/total-seats-in-iits-2026-seat-matrix)
-- [Total Seats in NITs 2026](/blog/total-seats-in-nits-2026-seat-matrix)
-- [Total Seats in IIITs 2026](/blog/total-seats-in-iiits-2026-seat-matrix)
-- [Top B.Tech Colleges Delhi NCR](/blog/top-btech-colleges-delhi-ncr-2026)
-- [Top B.Tech Colleges Bangalore](/blog/top-btech-colleges-bangalore-2026)
+- [JoSAA Counselling 2026 — Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [Total Seats in IITs 2026](/blog/total-seats-in-iits-2026-seat-matrix/)
+- [Total Seats in NITs 2026](/blog/total-seats-in-nits-2026-seat-matrix/)
+- [Total Seats in IIITs 2026](/blog/total-seats-in-iiits-2026-seat-matrix/)
+- [Top B.Tech Colleges Delhi NCR](/blog/top-btech-colleges-delhi-ncr-2026/)
+- [Top B.Tech Colleges Bangalore](/blog/top-btech-colleges-bangalore-2026/)
 
 ---
 
-**[👉 Get expert counselling to choose the right B.Tech college for your JEE rank & budget!](/inquiry)**
+**[👉 Get expert counselling to choose the right B.Tech college for your JEE rank & budget!](/inquiry/)**
 
 
 
@@ -207,6 +207,6 @@ For CSE and electronics in private sector placements, [BITS Pilani](/colleges/bi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

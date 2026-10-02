@@ -46,19 +46,19 @@ Whether you are targeting top-tier government institutes or premium private univ
 
 ## 🏆 Top B.Tech Colleges in Pune 2026
 
-### 1. [COEP Technological University](/colleges/coep-pune) (formerly COEP)
+### 1. [COEP Technological University](/colleges/coep-pune/) (formerly COEP)
 A legacy institution and one of the oldest engineering colleges in Asia. Admission is extremely competitive and primarily through MHT CET.
 *   **Average Placement:** ₹11 - 14 LPA
 *   **Top Recruiters:** Google, Microsoft, Tata Motors, NVIDIA.
 *   **USP:** Exceptional alumni network and government-backed research facilities.
 
-### 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)
+### 2. [Pune Institute of Computer Technology (PICT)](/colleges/pict-pune/)
 PICT is the go-to choice for students specifically looking for Computer Science (CS) and IT. It consistently rivals top NITs in terms of placement quality.
 *   **Average Placement:** ₹12 LPA
 *   **Highest Placement:** ₹45+ LPA
 *   **USP:** Academic rigor and a strong focus on coding culture.
 
-### 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune)
+### 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune/)
 MIT-WPU is a private powerhouse offering a modern, university-style experience with a multi-disciplinary curriculum.
 *   **Approx. Fees (Annual):** ₹3.5 - 4.5 Lakhs
 *   **Average Placement:** ₹6.5 - 8 LPA
@@ -69,7 +69,7 @@ VIT Pune is highly regarded for its industry-aligned curriculum and excellent in
 *   **Average Placement:** ₹7 - 9 LPA
 *   **USP:** Strong ties with Pune's manufacturing and IT industries.
 
-### 5. [Symbiosis Institute of Technology (SIT)](/colleges/sit-pune)
+### 5. [Symbiosis Institute of Technology (SIT)](/colleges/sit-pune/)
 Part of the prestigious Symbiosis International University, SIT offers a global brand name and diverse peer groups.
 *   **Admission:** Primarily through SITEEE / JEE Main.
 *   **USP:** Holistic development and excellent corporate connections.
@@ -105,9 +105,9 @@ Many private universities in Pune offer a **Management Quota** or **Direct Admis
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
-*   [Direct Admission Guide: B.Tech 2026](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [BTech vs BCA: Which is better for your career?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+*   [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
+*   [Direct Admission Guide: B.Tech 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [BTech vs BCA: Which is better for your career?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
@@ -116,12 +116,12 @@ Confused between **PICT vs COEP**? Or wondering about the **Management Quota fee
 
 Our experts help you navigate the CAP rounds and institutional preferences to ensure you get the best possible college for your profile.
 
-[👉 Book a Free Consultation](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+[👉 Book a Free Consultation](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
 
 ---
 
 ### 🚀 Prepare for Engineering Entrances
-Don't leave your rank to chance. **[Access our Free Engineering Mock Test Hub](/mock-tests)** to practice for MHT CET and JEE Main with real-time analytics.
+Don't leave your rank to chance. **[Access our Free Engineering Mock Test Hub](/mock-tests/)** to practice for MHT CET and JEE Main with real-time analytics.
 
 ---
 

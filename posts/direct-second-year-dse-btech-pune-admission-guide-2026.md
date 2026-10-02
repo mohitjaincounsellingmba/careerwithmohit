@@ -131,16 +131,16 @@ In government colleges like COEP, it is around ₹80k–₹1L per year. In priva
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
-- [MHT CET CAP Counselling Guide 2026](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options/)
+- [MHT CET CAP Counselling Guide 2026](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
 
 ---
 
 **Need help with DSE College Preferences?**
 Choosing the right branch and college during CAP rounds is tricky. DSE cutoffs change every year. Mohit Jain provides a **"DSE Merit Audit"** to help you secure the best possible college based on your diploma percentage.
 
-[👉 Get My DSE College List](/inquiry) | [💬 Chat with Mohit on WhatsApp](https://wa.me/919560020771)
+[👉 Get My DSE College List](/inquiry/) | [💬 Chat with Mohit on WhatsApp](https://wa.me/919560020771)
 
 
 
@@ -148,6 +148,6 @@ Choosing the right branch and college during CAP rounds is tricky. DSE cutoffs c
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

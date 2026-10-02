@@ -42,7 +42,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for Top Law Colleges in Kolkata 2026 — Fees, Place...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Kolkata, the "City of Joy" and a historic bastion of the Indian legal system, remains a top destination for legal studies. With the presence of WBNUJS—one of India's top 3 law schools—and the legendary Calcutta High Court, the city offers a blend of high-end corporate placements and traditional litigation excellence.
@@ -61,7 +61,7 @@ Choosing a Law school in Kolkata means access to the biggest law firms in East I
 | **Faculty of Law, CU** | WB JELET / Merit | ₹0.3 - 0.6 Lakhs | ₹4.0 - 6.0 LPA |
 | **School of Law, Amity** | Merit-based | ₹9.5 - 12.0 Lakhs | ₹3.8 - 6.5 LPA |
 | **St. Xavier's University** | Merit-based | ₹5.5 - 8.5 Lakhs | ₹4.2 - 6.0 LPA |
-| **[Techno India University](/colleges/techno-india-university-kolkata)** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata/)** | Merit-based | ₹4.5 - 7.5 Lakhs | ₹3.5 - 5.0 LPA |
 
 ---
 
@@ -98,7 +98,7 @@ For a 2026 Law student, Kolkata offers distinct advantages:
 ## 🏗️ Direct Law Admission in Kolkata 2026
 
 If you miss the CLAT or WB-specific merit deadlines, several reputable private universities offer merit-based direct entry:
-- **[Amity University](/colleges/amity-noida) Kolkata:** A premium campus with global linkages and high-end moot labs.
+- **[Amity University](/colleges/amity-noida/) Kolkata:** A premium campus with global linkages and high-end moot labs.
 - **Brainware University:** Focuses on affordable law degrees with a practical legal training component.
 - **TIU Kolkata:** Known for its diverse alumni base and strong connections with the local legal chambers.
 
@@ -124,16 +124,16 @@ Registrations for merit-based seats usually open in **June** after the HS and CB
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
-- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
+- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026/)
 
 ---
 
 **Planning your Legal Career in the City of Joy?**
 Kolkata offers heritage and excellence. Don't waste your years at a college without a functional moot society. Mohit Jain provides an "Eastern India Legal Audit"—helping you pick the college that matches your goals for academic law or corporate litigation.
 
-[👉 Book My Kolkata Law Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Kolkata Law Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -141,6 +141,6 @@ Kolkata offers heritage and excellence. Don't waste your years at a college with
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

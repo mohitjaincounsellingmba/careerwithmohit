@@ -50,11 +50,11 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-**[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** is one of the most practical choices for MBA aspirants who want a **PGDM from Gurgaon's corporate belt at under ₹9 Lakhs** — without compromising on placement quality or campus experience.
+**[JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon/)** is one of the most practical choices for MBA aspirants who want a **PGDM from Gurgaon's corporate belt at under ₹9 Lakhs** — without compromising on placement quality or campus experience.
 
 Established in 2006, JKBS has built a quiet but consistent reputation for producing job-ready graduates with a unique selection process that actually tests real business thinking — not just exam scores.
 
-Here are the **10 real USPs of [JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon)** for the 2027–29 batch.
+Here are the **10 real USPs of [JK Business School (JKBS), Gurgaon](/colleges/jkbs-gurgaon/)** for the 2027–29 batch.
 
 ---
 
@@ -238,15 +238,15 @@ Yes — JKBS offers hostel accommodation for outstation students on its 10-acre 
 
 ---
 
-[👉 Apply to JKBS Gurgaon — Get Free Guidance](/inquiry)  
-[👉 Read: JKBS Gurgaon BBA Review 2027–29](/blog/jkbs-gurgaon-bba-review-2026)  
-[👉 Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
+[👉 Apply to JKBS Gurgaon — Get Free Guidance](/inquiry/)  
+[👉 Read: JKBS Gurgaon BBA Review 2027–29](/blog/jkbs-gurgaon-bba-review-2026/)  
+[👉 Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 
 ---
 
 ### 🚀 Boost Your MBA Preparation
 
-**[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** for real-time exam practice and detailed analytics.
+**[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** for real-time exam practice and detailed analytics.
 
 ---
 

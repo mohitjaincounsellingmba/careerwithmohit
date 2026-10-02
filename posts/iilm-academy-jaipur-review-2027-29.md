@@ -38,7 +38,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-With a strong legacy in management education, the **[IILM Academy of Higher Learning](/colleges/iilm-jaipur), Jaipur** campus continues to be a top contender for PGDM aspirants. Supported by the wider IILM network, the Jaipur campus offers excellent corporate exposure and a solid academic foundation.
+With a strong legacy in management education, the **[IILM Academy of Higher Learning](/colleges/iilm-jaipur/), Jaipur** campus continues to be a top contender for PGDM aspirants. Supported by the wider IILM network, the Jaipur campus offers excellent corporate exposure and a solid academic foundation.
 
 If you are planning your MBA/PGDM journey in Jaipur, here is a detailed breakdown of IILM Jaipur’s Fees, Placements, and Cutoffs for the 2027–2029 intake.
 
@@ -88,7 +88,7 @@ IILM maintains an impressive ~100% placement rate. The dedicated Career Developm
 
 IILM Jaipur has a profile-based admission process but relies on standard management entrance exams to shortlist candidates.
 
-1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), XAT, or NMAT.
+1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT](/blog/all-about-cat-exam/), [MAT](/blog/all-about-mat-exam/), [CMAT](/blog/all-about-cmat-exam/), XAT, or NMAT.
 2.  **Cutoffs**:
     *   **CAT/XAT**: Typically requires ~50+ percentile.
     *   **MAT/CMAT**: Requires a decent composite score or rank (a MAT score of 550+ can make you eligible for good scholarships).
@@ -98,16 +98,16 @@ IILM Jaipur has a profile-based admission process but relies on standard managem
 
 ### **The Final Verdict**
 
-IILM Jaipur provides standard management education at an affordable price bracket. With a robust alumni network and access to centralized IILM placements, the ROI is commendable. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29), IILM is a highly practical choice.
+IILM Jaipur provides standard management education at an affordable price bracket. With a robust alumni network and access to centralized IILM placements, the ROI is commendable. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29/), IILM is a highly practical choice.
 
-[👉 Secure Your Seat! Get Free Admission Guidance for IILM Jaipur](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+[👉 Secure Your Seat! Get Free Admission Guidance for IILM Jaipur](/inquiry/) | [💬 Schedule a Call with Mohit Jain](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -122,7 +122,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -136,6 +136,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -98,7 +98,7 @@ Admission to the Intellipaat School of Technology is highly selective and involv
 **Final Recommendation:** If you are a tech-focused student who wants to bypass the "theory-only" trap of traditional engineering and values hands-on industry experience, the **Intellipaat School of Technology** is an excellent choice for B.Tech in 2026.
 
 ---
-[👉 Still confused about which IST campus to choose? Connect with our experts for a personalized career roadmap!](/inquiry)
+[👉 Still confused about which IST campus to choose? Connect with our experts for a personalized career roadmap!](/inquiry/)
 
 ---
 
@@ -120,6 +120,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

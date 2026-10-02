@@ -64,11 +64,11 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## 1. XAT (Xavier Aptitude Test)
-- **Top Acceptors:** [IMT Ghaziabad](/colleges/imt-ghaziabad), [FORE School of Management](/colleges/fore-school-delhi), [IMI New Delhi](/colleges/imi-delhi), and [LBSIM Delhi](/colleges/lbsim-delhi).
+- **Top Acceptors:** [IMT Ghaziabad](/colleges/imt-ghaziabad/), [FORE School of Management](/colleges/fore-school-delhi/), [IMI New Delhi](/colleges/imi-delhi/), and [LBSIM Delhi](/colleges/lbsim-delhi/).
 - **Difficulty:** Comparable to CAT, testing quantitative ability, decision making, and language skills.
 
 ### 2. NMAT by GMAC
-- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-gurgaon), and [Bennett University](/colleges/bennett-greater-noida).
+- **Top Acceptors:** NMIMS (Noida Campus), [SOIL Institute of Management](/colleges/soil-gurgaon/), and [Bennett University](/colleges/bennett-greater-noida/).
 - **USP:** Speed-based adaptive test allowing up to three attempts.
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
@@ -76,7 +76,7 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 - **Difficulty:** Relatively easier, speed-oriented test.
 
 ### 4. MAT (Management Aptitude Test) & CMAT (Common Management Admission Test)
-- **Top Acceptors:** [NDIM Delhi](/colleges/ndim-delhi), [JIMS Rohini](/colleges/jims-rohini), [I.T.S Ghaziabad](/colleges/its-ghaziabad), and [BIMTECH Greater Noida](/colleges/bimtech-greater-noida) (for specific programs).
+- **Top Acceptors:** [NDIM Delhi](/colleges/ndim-delhi/), [JIMS Rohini](/colleges/jims-rohini/), [I.T.S Ghaziabad](/colleges/its-ghaziabad/), and [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) (for specific programs).
 - **Difficulty:** Low to moderate difficulty level, making it highly accessible.
 
 ---
@@ -85,13 +85,13 @@ Most elite and mid-range private B-schools in Delhi NCR accept multiple national
 
 | College Name | Non-CAT Exam Accepted | Approx Total Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IMT Ghaziabad](/colleges/imt-ghaziabad)** | XAT / GMAT | ₹21.0 Lakhs | ₹17.35 LPA |
-| **[IMI New Delhi](/colleges/imi-delhi)** | XAT / GMAT | ₹20.5 Lakhs | ₹17.01 LPA |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | XAT / GMAT | ₹17.5 Lakhs | ₹14.50 LPA |
-| **[LBSIM Delhi](/colleges/lbsim-delhi)** | XAT / GMAT | ₹14.5 Lakhs | ₹12.42 LPA |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | XAT / CMAT / MAT / GMAT | ₹16.0 Lakhs | ₹11.20 LPA |
-| **[SOIL Gurgaon](/colleges/soil-gurgaon)** | NMAT / GMAT / MAT / CMAT | ₹15.5 Lakhs | ₹10.50 LPA |
-| **[NDIM Delhi](/colleges/ndim-delhi)** | XAT / CMAT / MAT / GMAT | ₹11.5 Lakhs | ₹8.20 LPA |
+| **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | XAT / GMAT | ₹21.0 Lakhs | ₹17.35 LPA |
+| **[IMI New Delhi](/colleges/imi-delhi/)** | XAT / GMAT | ₹20.5 Lakhs | ₹17.01 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | XAT / GMAT | ₹17.5 Lakhs | ₹14.50 LPA |
+| **[LBSIM Delhi](/colleges/lbsim-delhi/)** | XAT / GMAT | ₹14.5 Lakhs | ₹12.42 LPA |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | XAT / CMAT / MAT / GMAT | ₹16.0 Lakhs | ₹11.20 LPA |
+| **[SOIL Gurgaon](/colleges/soil-gurgaon/)** | NMAT / GMAT / MAT / CMAT | ₹15.5 Lakhs | ₹10.50 LPA |
+| **[NDIM Delhi](/colleges/ndim-delhi/)** | XAT / CMAT / MAT / GMAT | ₹11.5 Lakhs | ₹8.20 LPA |
 
 ---
 
@@ -101,7 +101,7 @@ For students looking for merit-based direct admissions without preparing for com
 
 1. **Eligibility Criteria:** Most colleges require a minimum of **50% to 60% aggregate marks** in graduation. Working professionals with relevant industry experience are often given preference.
 2. **Process:** Direct admission involves reviewing your academic record, submitting a personal statement of purpose, and clearing a personal interview (PI) round.
-3. **Colleges Offering Direct Admissions:** [Amity University (Noida)](/colleges/amity-noida), [Galgotias University](/colleges/galgotias-university), [GNIOT Greater Noida](/colleges/gniot-greater-noida), and [IILM Gurgaon](/colleges/iilm-gurgaon).
+3. **Colleges Offering Direct Admissions:** [Amity University (Noida)](/colleges/amity-noida/), [Galgotias University](/colleges/galgotias-university/), [GNIOT Greater Noida](/colleges/gniot-greater-noida/), and [IILM Gurgaon](/colleges/iilm-gurgaon/).
 
 ---
 
@@ -114,10 +114,10 @@ For students looking for merit-based direct admissions without preparing for com
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr)
-- [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)
-- [Direct MBA Admission in Delhi NCR: Guide](/blog/direct-mba-admission-delhi-ncr-2027-29)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29)
+- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
+- [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)
+- [Direct MBA Admission in Delhi NCR: Guide](/blog/direct-mba-admission-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
 
 ---
 
@@ -127,7 +127,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 
 **Confused about which colleges accept non-CAT scores?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 ---
@@ -135,7 +135,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -146,6 +146,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

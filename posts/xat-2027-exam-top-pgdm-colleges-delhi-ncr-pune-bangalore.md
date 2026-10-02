@@ -55,11 +55,11 @@ category: Exams
 # XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier XAT Institutions:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur)/Delhi (95+ %ile), IMT Ghaziabad (90+ %ile), XIMB (91+ %ile), and GIM Goa (85+ %ile).
-> - **Top Non-IIM NCR & Pune Hubs (65-85 %ile):** FORE School, BIMTECH Greater Noida, LBSIM, [PIBM Pune](/colleges/pibm-pune), and Lexicon MILE.
+> - **Top Tier XAT Institutions:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)/Delhi (95+ %ile), IMT Ghaziabad (90+ %ile), XIMB (91+ %ile), and GIM Goa (85+ %ile).
+> - **Top Non-IIM NCR & Pune Hubs (65-85 %ile):** FORE School, BIMTECH Greater Noida, LBSIM, [PIBM Pune](/colleges/pibm-pune/), and Lexicon MILE.
 > - **Admission Cycle 2027:** XAT 2027 exam is held on the first Sunday of January 2027 with application windows opening in August 2026.
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur) on behalf of XAMI, is India's most prestigious national management entrance exam after CAT. Over 160+ top-ranked autonomous business schools across **Delhi NCR, Greater Noida, Pune, Bangalore, and Mumbai** accept XAT scores for **PGDM admission 2027**.
+The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) on behalf of XAMI, is India's most prestigious national management entrance exam after CAT. Over 160+ top-ranked autonomous business schools across **Delhi NCR, Greater Noida, Pune, Bangalore, and Mumbai** accept XAT scores for **PGDM admission 2027**.
 
 ---
 
@@ -67,30 +67,30 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 
 | College Name | City Hub | Expected XAT 2027 Cutoff | Total Fees (Approx) | Average Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) / Delhi NCR** | Jamshedpur / Jhajjar | 95+ Percentile | ₹28.00 Lakhs | ₹32.70 LPA |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) / Delhi NCR** | Jamshedpur / Jhajjar | 95+ Percentile | ₹28.00 Lakhs | ₹32.70 LPA |
 | **IMT Ghaziabad** | Delhi NCR (Ghaziabad) | 90+ Percentile | ₹21.50 Lakhs | ₹17.35 LPA |
 | **GIM Goa (Goa Inst. of Mgmt)** | Goa | 85+ Percentile | ₹19.50 Lakhs | ₹15.00 LPA |
-| **[FORE School of Management](/colleges/fore-school-delhi)** | New Delhi | 85+ Percentile | ₹16.98 Lakhs | ₹14.50 LPA |
+| **[FORE School of Management](/colleges/fore-school-delhi/)** | New Delhi | 85+ Percentile | ₹16.98 Lakhs | ₹14.50 LPA |
 | **TAPMI (Manipal / Bengaluru)** | Manipal / Bangalore | 80+ Percentile | ₹16.50 Lakhs | ₹12.80 LPA |
 | **BIMTECH Greater Noida** | Greater Noida (NCR) | 72+ Percentile | ₹14.00 Lakhs | ₹11.25 LPA |
 | **LBSIM Delhi** | New Delhi | 80+ Percentile | ₹15.50 Lakhs | ₹12.40 LPA |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | Bangalore | 70+ Percentile | ₹12.00 Lakhs | ₹10.75 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore/)** | Bangalore | 70+ Percentile | ₹12.00 Lakhs | ₹10.75 LPA |
 | **Lexicon MILE Pune** | Pune | 60+ Percentile | ₹10.50 Lakhs | ₹8.20 LPA |
-| **[PIBM Pune](/colleges/pibm-pune)** | Pune | 60+ Percentile | ₹10.25 Lakhs | ₹7.80 LPA |
+| **[PIBM Pune](/colleges/pibm-pune/)** | Pune | 60+ Percentile | ₹10.25 Lakhs | ₹7.80 LPA |
 
 ---
 
 ## City-Wise XAT 2027 Recommendations
 
 ### 1. Delhi NCR & Greater Noida Hub
-* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/colleges/fore-school-delhi) and [All About LBSIM Delhi](/blog/all-about-lbsim-delhi).
-* **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida).
+* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/colleges/fore-school-delhi/) and [All About LBSIM Delhi](/blog/all-about-lbsim-delhi/).
+* **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/).
 
 ### 2. Pune & Maharashtra Hub
-* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence) and [All About PIBM Pune](/blog/all-about-pibm-pune).
+* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune/):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/) and [All About PIBM Pune](/blog/all-about-pibm-pune/).
 
 ### 3. Bangalore Hub
-* **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/colleges/xime-bangalore) and [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
+* **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/colleges/xime-bangalore/) and [All About JAGSoM Bangalore](/colleges/jagsom-bangalore/).
 
 ---
 
@@ -103,14 +103,14 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 ---
 
 ## Related Reads
-- [All About XAT Exam](/blog/all-about-xat-exam)
-- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027)
-- [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam)
+- [All About XAT Exam](/blog/all-about-xat-exam/)
+- [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
+- [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

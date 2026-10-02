@@ -82,9 +82,9 @@ The **PGDM** is a 2-year post-graduate diploma offered by autonomous business sc
 3.  **Selection Rounds**: Participate in Group Discussion (GD), Written Ability Test (WAT), and Personal Interview (PI) rounds.
 
 ### Placements and Fees
-*   **Top-Tier (Fees: ₹20L – ₹28L | Avg Package: ₹20 LPA – ₹32 LPA)**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur), [SPJIMR Mumbai](/colleges/spjimr-mumbai), and [MDI Gurgaon](/colleges/mdi-gurgaon).
-*   **Mid-Tier (Fees: ₹14L – ₹19L | Avg Package: ₹10 LPA – ₹16 LPA)**: [FORE School of Management](/colleges/fore-school-delhi), [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida), and [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi).
-*   **Affordable Growth (Fees: ₹8L – ₹12L | Avg Package: ₹6 LPA – ₹9.5 LPA)**: [JIMS Rohini](/colleges/jims-rohini) and [NDIM Delhi](/colleges/ndim-delhi).
+*   **Top-Tier (Fees: ₹20L – ₹28L | Avg Package: ₹20 LPA – ₹32 LPA)**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), and [MDI Gurgaon](/colleges/mdi-gurgaon/).
+*   **Mid-Tier (Fees: ₹14L – ₹19L | Avg Package: ₹10 LPA – ₹16 LPA)**: [FORE School of Management](/colleges/fore-school-delhi/), [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/), and [LBSIM Delhi (Lal Bahadur Shastri Institute of Management)](/colleges/lbsim-delhi/).
+*   **Affordable Growth (Fees: ₹8L – ₹12L | Avg Package: ₹6 LPA – ₹9.5 LPA)**: [JIMS Rohini](/colleges/jims-rohini/) and [NDIM Delhi](/colleges/ndim-delhi/).
 
 ---
 
@@ -102,9 +102,9 @@ The **MMS** is a 2-year professional master’s degree awarded by state universi
 2.  **CAP Rounds**: Admissions are processed through a centralized counselling system called the CAP (Centralized Admission Process) based on ranks.
 
 ### Placements and Fees
-*   **The ROI King**: [JBIMS Mumbai](/colleges/jbims-mumbai) (Fees: ~₹6.0 Lakhs for 2 years | Avg Package: ~₹28.0 LPA).
-*   **High Value**: [SIMSREE Mumbai](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29) (Fees: ~₹1.36 Lakhs for 2 years | Avg Package: ~₹15.1 LPA).
-*   **Top University Department**: [PUMBA Pune](/colleges/pumba-pune) (Fees: ~₹1.3 Lakhs for 2 years | Avg Package: ~₹8.1 LPA).
+*   **The ROI King**: [JBIMS Mumbai](/colleges/jbims-mumbai/) (Fees: ~₹6.0 Lakhs for 2 years | Avg Package: ~₹28.0 LPA).
+*   **High Value**: [SIMSREE Mumbai](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29/) (Fees: ~₹1.36 Lakhs for 2 years | Avg Package: ~₹15.1 LPA).
+*   **Top University Department**: [PUMBA Pune](/colleges/pumba-pune/) (Fees: ~₹1.3 Lakhs for 2 years | Avg Package: ~₹8.1 LPA).
 
 ---
 
@@ -147,7 +147,7 @@ Apart from the standard 2-year programs, you can also explore specialized master
 
 *   **Executive MBA / EPGP**: Tailored for working professionals with 3-5+ years of experience who want to accelerate their careers without leaving the workforce.
 *   **Master of Financial Management (MFM) / MFC**: Specialized finance programs offered by university departments with lower fees and a dedicated banking focus.
-*   **Online PGDM / Online MBA**: Offered by universities like [NMIMS Mumbai](/colleges/nmims-mumbai) and [Amity University](/colleges/amity-noida), providing a flexible learning schedule for remote professionals.
+*   **Online PGDM / Online MBA**: Offered by universities like [NMIMS Mumbai](/colleges/nmims-mumbai/) and [Amity University](/colleges/amity-noida/), providing a flexible learning schedule for remote professionals.
 
 ---
 
@@ -162,7 +162,7 @@ Apart from the standard 2-year programs, you can also explore specialized master
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -181,6 +181,6 @@ Yes, many private AICTE-approved colleges offer direct admission options under m
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

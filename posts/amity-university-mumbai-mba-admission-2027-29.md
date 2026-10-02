@@ -63,14 +63,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Amity University Mumbai](/colleges/amity-mumbai) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [Amity University Mumbai](/colleges/amity-mumbai/) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹10.25 Lakhs (Total)** (**₹5.12 Lakhs per Year**). Up to 100% merit scholarships for high national entrance percentiles.
 > - **Accreditation & Approvals**: UGC Approved · WES Approved · NAAC Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.00 LPA** (Top 25% at **₹9.50 LPA**) with a highest package of **₹15.00 LPA**. 20% PPO conversion through centralized corporate placement drives.
 
-**[Amity University](/colleges/amity-noida) Mumbai (Amity Mumbai)**, located in **Panvel, Greater Mumbai, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[Amity University](/colleges/amity-noida/) Mumbai (Amity Mumbai)**, located in **Panvel, Greater Mumbai, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA programs or comparing top business schools in **Mumbai**, this detailed guide provides verified facts regarding **Amity Mumbai's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -80,7 +80,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[Amity University Mumbai](/colleges/amity-mumbai)** (Amity Mumbai) |
+| **Institution Name** | **[Amity University Mumbai](/colleges/amity-mumbai/)** (Amity Mumbai) |
 | **Campus Location** | Panvel, Greater Mumbai, Maharashtra |
 | **Program Offered** | **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)** |
 | **Degree / Diploma Type** | **MBA** |
@@ -98,7 +98,7 @@ Whether you are targeting flagship MBA programs or comparing top business school
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-[Amity University](/colleges/amity-noida) Mumbai offers its flagship **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[Amity University](/colleges/amity-noida/) Mumbai offers its flagship **2-Year Full-Time MBA (General, Marketing, Finance, HR, International Business)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: UGC Approved · WES Approved · NAAC Accredited.
@@ -219,7 +219,7 @@ graph TD
 The verified total course fee for the 2-year MBA program is **₹10.25 Lakhs (Total)** (**₹5.12 Lakhs per Year**).
 
 ### Q2. Is Amity Mumbai approved by AICTE/UGC?
-Yes, [Amity University Mumbai](/colleges/amity-mumbai) is UGC Approved · WES Approved · NAAC Accredited.
+Yes, [Amity University Mumbai](/colleges/amity-mumbai/) is UGC Approved · WES Approved · NAAC Accredited.
 
 ### Q3. What is the average and highest placement package at Amity Mumbai?
 The average CTC stands at **₹7.00 LPA** (with top 25% averaging **₹9.50 LPA**), while the highest package has reached **₹15.00 LPA**.
@@ -230,13 +230,13 @@ Amity Mumbai accepts valid percentiles from national entrance exams including CA
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

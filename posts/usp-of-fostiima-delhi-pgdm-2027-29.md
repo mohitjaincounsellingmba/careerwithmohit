@@ -74,7 +74,7 @@ state: Delhi NCR
 # USP of FOSTIIMA Delhi PGDM Admission 2027-29: 10 Reasons Why This IIM-A Alumni B-School Stands Out
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Heritage**: **FOSTIIMA Business School** in **Dwarka, West Delhi** is the only private B-school founded, funded, and managed by the 1973 batch of **[IIM Ahmedabad](/colleges/iim-ahmedabad)** alumni, replicating IIM-grade case-study pedagogy.
+> - **Core USP & Heritage**: **FOSTIIMA Business School** in **Dwarka, West Delhi** is the only private B-school founded, funded, and managed by the 1973 batch of **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** alumni, replicating IIM-grade case-study pedagogy.
 > - **Fee vs Average Package (ROI)**: Total 2-year PGDM course fee is **₹11.95 Lakhs** against an audited average domestic CTC of **₹11.15 LPA** (Top 25% average: **₹14.20 LPA**; Highest CTC: **₹30.00 LPA**), delivering a nearly 1:1 payback ratio in ~13 months.
 > - **Admissions & Eligibility (2027–29 Intake)**: Minimum 50% marks in graduation + valid scores in **CAT, XAT, CMAT, MAT, ATMA, or FEAT** (60–75 percentile range) followed by institutional GD-PI profile assessment.
 
@@ -82,7 +82,7 @@ state: Delhi NCR
 
 In the crowded Delhi NCR management education landscape, choosing a B-school that delivers genuine corporate readiness without burdening you with exorbitant education loans is paramount. **FOSTIIMA Business School Delhi** has established itself as one of the most compelling options for the upcoming **2027–2029 PGDM batch**.
 
-What makes FOSTIIMA truly distinct from traditional private institutes is its DNA: it was conceived, built, and steered exclusively by **[IIM Ahmedabad](/colleges/iim-ahmedabad)** alumni who wanted to offer rigorous management education at a fee point that yields immediate Return on Investment (ROI).
+What makes FOSTIIMA truly distinct from traditional private institutes is its DNA: it was conceived, built, and steered exclusively by **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** alumni who wanted to offer rigorous management education at a fee point that yields immediate Return on Investment (ROI).
 
 Below is the verified breakdown of the **10 Real USPs of FOSTIIMA Delhi for 2027–29 admission**, updated fee structures, placement audited metrics, entrance cutoffs, and an honest reality check by senior counsellor Mohit Jain.
 
@@ -95,7 +95,7 @@ Below is the verified breakdown of the **10 Real USPs of FOSTIIMA Delhi for 2027
 | **Institution Name** | **FOSTIIMA Business School** (Dwarka, New Delhi) |
 | **Flagship Program** | Post Graduate Diploma in Management (PGDM — 2 Years Full-Time) |
 | **Regulatory Approvals** | **AICTE Approved**, Ministry of Education, Govt. of India (AIU MBA Equivalence) |
-| **Founding Body** | Conceived & Managed by 1973 Alumni Batch of **[IIM Ahmedabad](/colleges/iim-ahmedabad)** |
+| **Founding Body** | Conceived & Managed by 1973 Alumni Batch of **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** |
 | **Total Program Fee** | **₹11.95 Lakhs** (Payable across 4 semester installments) |
 | **Average Placement CTC** | **₹11.15 LPA** |
 | **Top 25% Batch Average CTC** | **₹14.20 LPA** |
@@ -261,7 +261,7 @@ Every business school has distinct strengths and trade-offs. Here is an unbiased
 4. **You want maximum salary-to-fee ROI** with a realistic ₹11.15 LPA average domestic salary.
 
 ### ❌ You Should Look Elsewhere If:
-1. **Your CAT score is 85+ percentile**: You should explore premier legacy institutions such as [IMI Delhi](/colleges/imi-delhi), LBSIM Delhi, FORE School of Management, or GIM Goa.
+1. **Your CAT score is 85+ percentile**: You should explore premier legacy institutions such as [IMI Delhi](/colleges/imi-delhi/), LBSIM Delhi, FORE School of Management, or GIM Goa.
 2. **You require a sprawling 50-acre residential campus**: FOSTIIMA operates a focused urban campus in Dwarka, prioritizing corporate connectivity over massive sports grounds.
 3. **You exclusively seek global AACSB/EQUIS accreditations**: Institutes like FIIB or BIMTECH may be alternate choices to evaluate.
 
@@ -301,17 +301,17 @@ Every business school has distinct strengths and trade-offs. Here is an unbiased
 
 ## Take the Next Step in Your MBA Journey
 
-- [👉 Apply for FOSTIIMA Delhi Admission & Counselling](/inquiry)
-- [👉 Compare Top MBA Colleges in Delhi NCR](/tools/college-comparison)
-- [👉 Read Complete FOSTIIMA Business School Review 2027](/blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff)
-- [👉 Explore Best MBA Colleges in Delhi NCR 2027](/blog/best-mba-colleges-in-delhi-2027-29)
-- [👉 Calculate Your CAT Score to Percentile](/tools/cat-score-calculator)
+- [👉 Apply for FOSTIIMA Delhi Admission & Counselling](/inquiry/)
+- [👉 Compare Top MBA Colleges in Delhi NCR](/tools/college-comparison/)
+- [👉 Read Complete FOSTIIMA Business School Review 2027](/blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff/)
+- [👉 Explore Best MBA Colleges in Delhi NCR 2027](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [👉 Calculate Your CAT Score to Percentile](/tools/cat-score-calculator/)
 - [👉 Access MBA / PGDM Admission 2027 Hub](/mba-pgdm-admission-2027/)
 
 ---
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

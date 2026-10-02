@@ -120,16 +120,16 @@ Most universities have their primary intake in **September/October**. Some also 
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [UP NEET Counselling 2026 — Process & Fees](/blog/up-neet-counselling-2026-guide)
-- [How to Prepare for NEXT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [UP NEET Counselling 2026 — Process & Fees](/blog/up-neet-counselling-2026-guide/)
+- [How to Prepare for NEXT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
 **Don't Settle for an "Agent" Recommendation.**
 Agents push colleges where they get the highest commission. Don't be a statistic. Mohit Jain provides a **"Global Medical Audit"**—verifying the actual student feedback on the ground and helping you pick a university that ensures you pass the NEXT exam in your first attempt.
 
-[👉 Book My Global Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Global Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -137,6 +137,6 @@ Agents push colleges where they get the highest commission. Don't be a statistic
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

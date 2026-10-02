@@ -91,7 +91,7 @@ export function FounderFaq() {
                     Answered personally by Mohit Jain
                   </span>
                   <Link
-                    href="/inquiry"
+                    href="/inquiry/"
                     className="text-xs font-black uppercase text-primary hover:underline flex items-center gap-1"
                   >
                     Discuss your profile <ArrowRight className="w-3.5 h-3.5" />

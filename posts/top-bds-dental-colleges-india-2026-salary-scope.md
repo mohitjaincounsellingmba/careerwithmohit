@@ -114,16 +114,16 @@ Dental officers in the **Army Dental Corps** are commissioned officers with sala
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
-- [Top BAMS & BHMS Colleges in India 2026](/blog/top-bams-bhms-colleges-india-2026-salary-scope)
-- [NEET 2026 Prep Strategy Guide](/blog/neet-2026-exam-strategy-guide)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
+- [Top BAMS & BHMS Colleges in India 2026](/blog/top-bams-bhms-colleges-india-2026-salary-scope/)
+- [NEET 2026 Prep Strategy Guide](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 
 **Do You Have the Precision of a Surgeon?**
 Dentistry is where art meets medicine. Don't settle for a sub-par college. Mohit Jain provides a **"Dental Excellence Audit"**—helping you choose between top government hubs and elite private universities with high-tech labs.
 
-[👉 Book My Dental Career Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Dental Career Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -131,7 +131,7 @@ Dentistry is where art meets medicine. Don't settle for a sub-par college. Mohit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -145,6 +145,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

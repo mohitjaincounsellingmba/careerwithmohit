@@ -119,16 +119,16 @@ Usually held in **June**. Registrations typically open in March.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026)
-- [BCA Colleges in Hyderabad 2026](/blog/top-bca-colleges-hyderabad-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026/)
+- [BCA Colleges in Hyderabad 2026](/blog/top-bca-colleges-hyderabad-2027-29/)
 
 ---
 
 **Ready to start your code journey in the City of Pearls?**
 Hyderabad offers authority and value. Don't waste your years at a college with zero placement records. Mohit Jain provides a "Hyderabad IT Audit"—ensuring you pick the college that puts you on the radar of Microsoft, Google, and the Hyderabad Tech SEZs.
 
-[👉 Book My Hyderabad MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Hyderabad MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -136,6 +136,6 @@ Hyderabad offers authority and value. Don't waste your years at a college with z
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

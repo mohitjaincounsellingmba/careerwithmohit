@@ -27,7 +27,7 @@ faqs:
       Yes, both campuses offer AIU-approved PGDM programs that are equivalent to
       an MBA degree for government jobs and higher studies.
   - question: Does JIMS Rohini have a playground?
-    answer: "No, JIMS Rohini is a standalone building with no playground or open sports facility on its specific PGDM campus.\n\n[\U0001F449 Compare More Delhi B-Schools Here!](/tools/college-comparison)\n\n**Still Confused?**\nDon't let marketing brochures decide your future. At **CareerWithMohit**, we provide an honest 1-on-1 comparison of the internal culture and placement truth of all JIMS campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry)"
+    answer: "No, JIMS Rohini is a standalone building with no playground or open sports facility on its specific PGDM campus.\n\n[\U0001F449 Compare More Delhi B-Schools Here!](/tools/college-comparison/)\n\n**Still Confused?**\nDon't let marketing brochures decide your future. At **CareerWithMohit**, we provide an honest 1-on-1 comparison of the internal culture and placement truth of all JIMS campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -102,12 +102,12 @@ Yes, both campuses offer AIU-approved PGDM programs that are equivalent to an MB
 **3. Does JIMS Rohini have a playground?**
 No, JIMS Rohini is a standalone building with no playground or open sports facility on its specific PGDM campus.
 
-[👉 Compare More Delhi B-Schools Here!](/tools/college-comparison)
+[👉 Compare More Delhi B-Schools Here!](/tools/college-comparison/)
 
 **Still Confused?**
 Don't let marketing brochures decide your future. At **CareerWithMohit**, we provide an honest 1-on-1 comparison of the internal culture and placement truth of all JIMS campuses.
 
-[👉 Get Expert MBA Admission Guidance!](/inquiry)
+[👉 Get Expert MBA Admission Guidance!](/inquiry/)
 
 
 
@@ -115,6 +115,6 @@ Don't let marketing brochures decide your future. At **CareerWithMohit**, we pro
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

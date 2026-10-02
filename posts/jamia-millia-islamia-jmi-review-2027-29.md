@@ -38,7 +38,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-Located in the heart of New Delhi, [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) is a premier central university that offers excellent academic programs, particularly in Engineering, Mass Communication, Law, and Humanities. Known for its rich history and top-tier infrastructure, JMI is highly sought after by students. Here's what you need to know for the 2026 academic session.
+Located in the heart of New Delhi, [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) is a premier central university that offers excellent academic programs, particularly in Engineering, Mass Communication, Law, and Humanities. Known for its rich history and top-tier infrastructure, JMI is highly sought after by students. Here's what you need to know for the 2026 academic session.
 
 ## 📊 JMI 2026 Placement & Fee Snapshot
 
@@ -76,10 +76,10 @@ While JMI offers hostel accommodation, it is quite competitive due to limited av
 *   **Affordability:** Hostel and mess fees are highly subsidized, typically ranging between **₹12,000 and ₹20,000** annually, making living in Delhi quite manageable for outstation students.
 
 ### **Check Other University Reviews:**
-*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026)
-*   [Jawaharlal Nehru University (JNU) Review 2027–29](/blog/jawaharlal-nehru-university-jnu-review-2027-29)
+*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026/)
+*   [Jawaharlal Nehru University (JNU) Review 2027–29](/blog/jawaharlal-nehru-university-jnu-review-2027-29/)
 
-[👉 Need guidance for JMI Admissions? Book a Consultation!](/inquiry)
+[👉 Need guidance for JMI Admissions? Book a Consultation!](/inquiry/)
 
 ---
 
@@ -99,4 +99,4 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Don't leave your admission to chance! **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to score high and secure your spot at JMI.
+Don't leave your admission to chance! **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests/)** to score high and secure your spot at JMI.

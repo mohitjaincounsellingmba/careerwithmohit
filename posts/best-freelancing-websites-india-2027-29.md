@@ -274,11 +274,11 @@ If you're wondering what skills to learn, focus on these high-paying areas:
 
 ## Related Reads
 
-- [How to Start Freelancing in 2026: Step-by-Step Guide for Beginners](/blog/how-to-start-freelancing-2026-beginners-india)
-- [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
-- [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29)
-- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india)
-- [Investment Banking Career Path & Salary 2026](/blog/investment-banking-career-path-salary-2027-29)
+- [How to Start Freelancing in 2026: Step-by-Step Guide for Beginners](/blog/how-to-start-freelancing-2026-beginners-india/)
+- [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)
+- [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29/)
+- [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
+- [Investment Banking Career Path & Salary 2026](/blog/investment-banking-career-path-salary-2027-29/)
 
 ---
 
@@ -293,7 +293,7 @@ There is no single "best" freelancing website in India. The smartest approach is
 
 The gig economy rewards those who are consistent, skilled, and strategic. Stop waiting for the perfect moment—create your profile today and send your first proposal.
 
-[👉 Need Personalized Career Guidance? Talk to Our Experts Today!](/inquiry)
+[👉 Need Personalized Career Guidance? Talk to Our Experts Today!](/inquiry/)
 
 ---
 
@@ -315,6 +315,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

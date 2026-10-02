@@ -69,44 +69,44 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 | College Name | City Zone | AICTE Approved Intake (Seats) | Total Course Fee | Avg Placement Package |
 | :--- | :--- | :--- | :--- | :--- |
 | **BIMTECH** | Greater Noida | 420 Seats | ₹14.00 Lakhs | ₹11.25 LPA |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** | Lucknow | 300 Seats | ₹13.50 Lakhs | ₹11.49 LPA |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** | Lucknow | 300 Seats | ₹13.50 Lakhs | ₹11.49 LPA |
 | **IILM University** | Greater Noida | 180 Seats | ₹10.80 Lakhs | ₹8.60 LPA |
 | **GNIOT (GIMS)** | Greater Noida | 180 Seats | ₹6.78 Lakhs | ₹7.25 LPA |
 | **GL Bajaj Institute of Management** | Greater Noida | 240 Seats | ₹6.90 Lakhs | ₹7.35 LPA |
-| **[Accurate Institute of Management](/colleges/accurate-greater-noida)** | Greater Noida | 180 Seats | ₹6.50 Lakhs | ₹6.85 LPA |
+| **[Accurate Institute of Management](/colleges/accurate-greater-noida/)** | Greater Noida | 180 Seats | ₹6.50 Lakhs | ₹6.85 LPA |
 | **IBI (I-Business Institute)** | Greater Noida | 120 Seats | ₹7.25 Lakhs | ₹7.00 LPA |
-| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida | 180 Seats | ₹6.50 Lakhs | ₹6.50 LPA |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** | Greater Noida | 180 Seats | ₹6.50 Lakhs | ₹6.50 LPA |
 | **Mangalmay Institute of Management** | Greater Noida | 120 Seats | ₹5.50 Lakhs | ₹6.10 LPA |
 
 ---
 
 ## Detailed Overview of Key Colleges
 
-### 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH), Greater Noida
+### 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH), Greater Noida
 * **Highlights**: Rated among top 30 B-Schools in India. AACSB accredited campus in Knowledge Park II.
 * **Specializations**: PGDM, PGDM International Business, PGDM Insurance Business Management, PGDM Retail Management.
-* **Placements**: Average salary ₹11.25 LPA with highest package touching ₹24.40 LPA. Read full post at [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida).
+* **Placements**: Average salary ₹11.25 LPA with highest package touching ₹24.40 LPA. Read full post at [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/).
 
-### 2. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Lucknow
+### 2. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Lucknow
 * **Highlights**: AACSB Business Education Alliance member, NBA accredited, AIU MBA equivalent.
 * **Corporate Connections**: Shared placement pool across 4 campuses (Lucknow, Noida, Jaipur, Indore).
-* **Placements**: Median salary ₹11.49 LPA with 300+ recruiters. Explore [All About Jaipuria Lucknow](/blog/all-about-jaipuria-institute-of-management-lucknow).
+* **Placements**: Median salary ₹11.49 LPA with 300+ recruiters. Explore [All About Jaipuria Lucknow](/blog/all-about-jaipuria-institute-of-management-lucknow/).
 
-### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
+### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 * **Highlights**: Premium autonomous institute of GNIOT Group offering PGDM with dual specializations and corporate certifications.
-* **High ROI**: Fee of just ₹6.78 Lakhs delivering an average package of ₹7.25 LPA. Read review at [All About GNIOT GIMS](/colleges/gniot-greater-noida).
+* **High ROI**: Fee of just ₹6.78 Lakhs delivering an average package of ₹7.25 LPA. Read review at [All About GNIOT GIMS](/colleges/gniot-greater-noida/).
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
 * **Highlights**: Located in Knowledge Park II, known for rigorous academic discipline and corporate mentorship.
-* **Placements**: Average package of ₹7.35 LPA with companies like Accenture, HCL, and ICICI Bank. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).
+* **Placements**: Average package of ₹7.35 LPA with companies like Accenture, HCL, and ICICI Bank. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida/).
 
-### 5. [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology, Greater Noida
+### 5. [Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology, Greater Noida
 * **Highlights**: 100% placement record guarantee, global exposure trip options, and ultra-modern campus.
-* **Read Detailed Review**: [All About Accurate Greater Noida](/colleges/accurate-greater-noida).
+* **Read Detailed Review**: [All About Accurate Greater Noida](/colleges/accurate-greater-noida/).
 
 ### 6. IILM University & IBI Greater Noida
-* **IILM Greater Noida**: Focused on experiential learning, entrepreneurship incubators, and dual degree tracks. Check [All About IILM Greater Noida](/blog/all-about-iilm-university-greater-noida).
-* **IBI Greater Noida**: Specialized institute with heavy focus on industry certifications (PMI, Google, Hubspot). Check [All About IBI Greater Noida](/colleges/ibi-greater-noida).
+* **IILM Greater Noida**: Focused on experiential learning, entrepreneurship incubators, and dual degree tracks. Check [All About IILM Greater Noida](/blog/all-about-iilm-university-greater-noida/).
+* **IBI Greater Noida**: Specialized institute with heavy focus on industry certifications (PMI, Google, Hubspot). Check [All About IBI Greater Noida](/colleges/ibi-greater-noida/).
 
 ---
 
@@ -128,6 +128,6 @@ For students seeking top tier-1 accreditation in NCR, BIMTECH and Jaipuria Luckn
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

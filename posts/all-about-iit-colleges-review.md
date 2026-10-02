@@ -7,7 +7,7 @@ description: >-
   placement records, real cutoffs, and selection tips by Mohit Jain.
 keywords:
   - IIT review 2027–29
-  - '[IIT Bombay](/colleges/iit-bombay) placements'
+  - '[IIT Bombay](/colleges/iit-bombay/) placements'
   - ' आईआईटी IIT BTech fees'
   - JEE Advanced cutoff IIT Delhi
   - top IITs in India
@@ -50,7 +50,7 @@ Here is a comprehensive overview of the IIT system focusing on the top-tier inst
 - **Top 5 Institutes (The "Old IITs"):**
   - IIT Madras (Consistent NIRF Rank #1)
   - IIT Delhi
-  - [IIT Bombay](/colleges/iit-bombay)
+  - [IIT Bombay](/colleges/iit-bombay/)
   - IIT Kanpur
   - IIT Kharagpur
 
@@ -87,20 +87,20 @@ IITs attract global tech giants, high-frequency trading (HFT) firms, and top-tie
 ## Student Reviews & Verdict
 
 **What Students Say:**
-- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at [IIT Bombay](/colleges/iit-bombay)).
+- **Pros:** The peer group is the absolute best in the country. The brand value is permanent; the tag "IITian" opens doors globally. World-class research facilities, massive 500+ acre green campuses, and iconic cultural fests (like Mood Indigo at [IIT Bombay](/colleges/iit-bombay/)).
 - **Cons:** Extremely high pressure and a toxic competitive environment for grading. The curriculum in some older branches can feel outdated compared to the fast-paced tech industry.
 
 **Our Verdict:** There is no debate. If you clear JEE Advanced with a rank good enough for an old IIT or even a core branch in a newer IIT (like Hyderabad, Indore, or BHU), you take it. The ROI, the networking, and the respect commanded by the IIT tag are unparalleled.
 
 ---
-[👉 Thinking about dropping a year for JEE Advanced? Talk to our expert counsellors to plan your strategy!](/inquiry)
+[👉 Thinking about dropping a year for JEE Advanced? Talk to our expert counsellors to plan your strategy!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -115,7 +115,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -129,6 +129,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

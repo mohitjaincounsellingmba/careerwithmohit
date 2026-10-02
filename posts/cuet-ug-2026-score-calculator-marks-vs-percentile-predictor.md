@@ -36,11 +36,11 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for CUET UG 2026 Score Calculator: Marks vs Percen...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The **Common University Entrance Test Undergraduate (CUET UG) 2026** is the single window for admission to all Central Universities in India, including **Delhi University (DU)**, **BHU**, and **JNU**. With millions of students competing across multiple shifts, understanding your raw score and expected percentile is the first step toward securing your seat.
 
-Are you confused about the marking scheme? Use our **[Free CUET UG 2026 Score Calculator](/calculator/cuet-ug-2026)** to get a subject-wise breakdown of your performance.
+Are you confused about the marking scheme? Use our **[Free CUET UG 2026 Score Calculator](/calculator/cuet-ug-2026/)** to get a subject-wise breakdown of your performance.
 
 ## How to Calculate CUET UG 2026 Score?
 
@@ -57,7 +57,7 @@ NTA follows a strict marking scheme for all domain subjects, languages, and the 
 | **Domain Subjects** | 40 (out of 50) | 5 | 200 |
 | **General Test** | 50 (out of 60) | 5 | 250 |
 
-👉 **[Launch CUET UG Score Calculator Now](/calculator/cuet-ug-2026)**
+👉 **[Launch CUET UG Score Calculator Now](/calculator/cuet-ug-2026/)**
 
 ## Why Use Our CUET UG 2026 Calculator?
 
@@ -77,15 +77,15 @@ Based on the previous cycle's data, here is what a safe raw score looks like for
 
 ## Critical Next Steps for Aspirants
 
-- **Admission Guide:** Check the [Delhi University B.Com Admission Process 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29).
-- **College List:** Explore the [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr).
-- **Other Options:** If you are also considering IP University, check the [IPU CET 2026 Updates](/blog/ipu-cet-2026-ug-exam-updates-dates-registration).
-- **Post-Result Strategy:** Read our guide on [CUET UG University List citywise](/blog/cuet-ug-university-list-2026-citywise) to prepare your preference list.
+- **Admission Guide:** Check the [Delhi University B.Com Admission Process 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/).
+- **College List:** Explore the [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr/).
+- **Other Options:** If you are also considering IP University, check the [IPU CET 2026 Updates](/blog/ipu-cet-2026-ug-exam-updates-dates-registration/).
+- **Post-Result Strategy:** Read our guide on [CUET UG University List citywise](/blog/cuet-ug-university-list-2026-citywise/) to prepare your preference list.
 
-Taking the first step in calculating your raw score helps you build a realistic "Preference List" for the CSAS portal or other university counseling rounds. Don't wait—use the **[CUET UG 2026 Score Predictor](/calculator/cuet-ug-2026)** today!
+Taking the first step in calculating your raw score helps you build a realistic "Preference List" for the CSAS portal or other university counseling rounds. Don't wait—use the **[CUET UG 2026 Score Predictor](/calculator/cuet-ug-2026/)** today!
 
 ---
-[👉 Still confused about your domain subject combinations? Get a free profile evaluation from our experts!](/inquiry)
+[👉 Still confused about your domain subject combinations? Get a free profile evaluation from our experts!](/inquiry/)
 
 ---
 
@@ -107,6 +107,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

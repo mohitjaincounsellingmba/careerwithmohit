@@ -53,7 +53,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | :--- | :--- | :--- | :--- |
 | **UBS Chandigarh (University Business School, Panjab University)** | CAT | ₹2.1 Lakhs (Total) | **₹13.70 LPA** |
 | **Chandigarh University (CU)** | CUCET / CAT / MAT / CMAT | ₹5.6 Lakhs (Total) | **₹6.50 LPA** |
-| **[Chitkara University](/colleges/chitkara-university)** | CAT / MAT / CMAT | ₹6.8 Lakhs (Total) | **₹6.20 LPA** |
+| **[Chitkara University](/colleges/chitkara-university/)** | CAT / MAT / CMAT | ₹6.8 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
 
@@ -86,7 +86,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹6.50 LPA**
 - **Key Highlight:** Sprawling infrastructure and strong campus recruitment cell connecting with major tech and manufacturing units.
 
-### 3. [Chitkara University](/colleges/chitkara-university)
+### 3. [Chitkara University](/colleges/chitkara-university/)
 - **Approximate Fees:** ₹6.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.20 LPA**
@@ -103,9 +103,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -115,7 +115,7 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -127,12 +127,12 @@ UBS Chandigarh (under Panjab University) offers highly subsidized fees of around
 ### How are the MBA HR placements at Chandigarh University?
 Chandigarh University has a large central placement cell that brings in multiple tech giants, consulting companies, and banks, leading to average placement packages around INR 6.5 LPA.
 
-### Are CMAT scores accepted by [Chitkara University](/colleges/chitkara-university)?
-Yes, [Chitkara University](/colleges/chitkara-university) accepts CMAT, MAT, and CAT scores for its MBA programs.
+### Are CMAT scores accepted by [Chitkara University](/colleges/chitkara-university/)?
+Yes, [Chitkara University](/colleges/chitkara-university/) accepts CMAT, MAT, and CAT scores for its MBA programs.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

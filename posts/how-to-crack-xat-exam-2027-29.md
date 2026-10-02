@@ -43,7 +43,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur), XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 
+The Xavier Aptitude Test (XAT) is widely considered one of the most intellectually demanding management exams in India. Conducted by [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XAT is the sole gateway to the prestigious XLRI campuses and over 150+ other premium business schools like XIMB, IMT Ghaziabad, and GIM Goa. 
 
 While CAT tests pure speed and structure, XAT evaluates **holistic thinking, ethical reasoning, and endurance** through its unique sections and longer test duration.
 
@@ -102,7 +102,7 @@ This section is generally considered more wordy and logic-intensive than CAT.
 
 | College | Expected Cutoff (Percentile) | Key Specializations |
 |:---|:---:|:---|
-| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | 93.0 - 96.0+ | HR Management (World-Class), Business Management |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** | 93.0 - 96.0+ | HR Management (World-Class), Business Management |
 | **XIMB (Bhubaneswar)** | 90.0+ | Business Management, Human Resources |
 | **IMT Ghaziabad** | 90.0+ | Marketing, Finance, IT |
 | **Goa Institute of Management (GIM)** | 85.0+ | Big Data Analytics, Healthcare Management |
@@ -124,13 +124,13 @@ The essay is evaluated during the second stage of selection. Spend 15 minutes dr
 ---
 
 ### Related Articles:
-*   [All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Colleges](/blog/all-about-xat-exam)
-*   [Last Week XAT Strategy: 7 Days to Go](/blog/last-week-xat-2026-strategy-final-7-days)
-*   [Top MBA Entrance Exams 2027–29: Fees & Placements](/blog/top-mba-entrance-exams-2026-guide)
+*   [All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Colleges](/blog/all-about-xat-exam/)
+*   [Last Week XAT Strategy: 7 Days to Go](/blog/last-week-xat-2026-strategy-final-7-days/)
+*   [Top MBA Entrance Exams 2027–29: Fees & Placements](/blog/top-mba-entrance-exams-2026-guide/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

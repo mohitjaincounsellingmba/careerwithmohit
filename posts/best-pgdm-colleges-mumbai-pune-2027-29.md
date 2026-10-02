@@ -64,7 +64,7 @@ For management aspirants preparing for the **2027-29 academic session**, selecti
 | :--- | :--- | :--- |
 | **Primary Industry Focus** | Banking, FinTech, FMCG, Media, Consulting | Auto & Manufacturing, IT/ITeS, Supply Chain |
 | **Living Expenses** | Higher (Rent & Transport) | Moderate & Student-Friendly |
-| **Top Tier Institutes** | JBIMS, SPJIMR, Welingkar, NL Dalmia, ITM | [SIBM Pune](/colleges/sibm-pune), SCMHRD, PUMBA, PIBM, RIIM |
+| **Top Tier Institutes** | JBIMS, SPJIMR, Welingkar, NL Dalmia, ITM | [SIBM Pune](/colleges/sibm-pune/), SCMHRD, PUMBA, PIBM, RIIM |
 | **Accepted Exams** | CAT, MAH-CET, CMAT, XAT, MAT, ATMA | CAT, SNAP, CMAT, MAT, MAH-CET, ATMA |
 
 ---
@@ -73,14 +73,14 @@ For management aspirants preparing for the **2027-29 academic session**, selecti
 
 | College Name | Total Fees (Approx) | Avg Package | Highest Package | Entrance Exams |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | ₹77.80 LPA | CAT / GMAT (85+ %ile profile) |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | ₹42.00 LPA | MAH-CET / CAT (99.9+ %ile) |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50 Lakhs | ₹33.00 LPA | ₹77.80 LPA | CAT / GMAT (85+ %ile profile) |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | ₹42.00 LPA | MAH-CET / CAT (99.9+ %ile) |
 | **Welingkar (WeSchool) Mumbai** | ₹14.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA | CAT / XAT / CMAT / ATMA |
 | **NL Dalmia Institute of Management** | ₹14.75 Lakhs | ₹10.50 LPA | ₹25.50 LPA | CAT / XAT / CMAT / MAT |
 | **ITM Navi Mumbai** | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA | CAT / XAT / CMAT / MAT |
 | **Universal AI University, Karjat** | ₹11.98 Lakhs | ₹8.20 LPA | ₹22.00 LPA | CAT / CMAT / MAT / UBAT |
 
-For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai) and [All About ITM Mumbai](/blog/all-about-itm-mumbai).
+For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai/) and [All About ITM Mumbai](/blog/all-about-itm-mumbai/).
 
 ---
 
@@ -88,21 +88,21 @@ For comprehensive reviews of Mumbai's growing AI and management hub, visit [All 
 
 | College Name | Total Fees (Approx) | Avg Package | Highest Package | Entrance Exams |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/colleges/sibm-pune)** | ₹24.20 Lakhs | ₹28.16 LPA | ₹49.00 LPA | SNAP (98.5+ %ile) |
-| **[SCMHRD Pune](/colleges/scmhrd-pune)** | ₹23.70 Lakhs | ₹23.71 LPA | ₹38.00 LPA | SNAP (97+ %ile) |
-| **[PUMBA Pune](/colleges/pumba-pune) (Dept of Mgmt DU)** | ₹1.35 Lakhs | ₹8.85 LPA | ₹18.00 LPA | MAH-CET / CMAT (98+ %ile) |
-| **[PIBM Pune](/colleges/pibm-pune) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | ₹18.00 LPA | CAT / MAT / CMAT / PMAT |
-| **[RIIM Pune](/colleges/riim-pune) (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | ₹18.00 LPA | CAT / MAT / CMAT / ATMA |
+| **[SIBM Pune](/colleges/sibm-pune/)** | ₹24.20 Lakhs | ₹28.16 LPA | ₹49.00 LPA | SNAP (98.5+ %ile) |
+| **[SCMHRD Pune](/colleges/scmhrd-pune/)** | ₹23.70 Lakhs | ₹23.71 LPA | ₹38.00 LPA | SNAP (97+ %ile) |
+| **[PUMBA Pune](/colleges/pumba-pune/) (Dept of Mgmt DU)** | ₹1.35 Lakhs | ₹8.85 LPA | ₹18.00 LPA | MAH-CET / CMAT (98+ %ile) |
+| **[PIBM Pune](/colleges/pibm-pune/) (Pune Inst. of Business Mgmt)** | ₹10.25 Lakhs | ₹7.80 LPA | ₹18.00 LPA | CAT / MAT / CMAT / PMAT |
+| **[RIIM Pune](/colleges/riim-pune/) (Ramachandran International)** | ₹6.90L - ₹8.90L | ₹7.15 LPA | ₹18.00 LPA | CAT / MAT / CMAT / ATMA |
 | **Lexicon MILE Pune** | ₹10.50 Lakhs | ₹8.20 LPA | ₹18.00 LPA | CAT / MAT / CMAT / LAT |
 | **DY Patil B-School Pune** | ₹8.50 Lakhs | ₹7.20 LPA | ₹16.50 LPA | MAT / CMAT / ATMA / CAT |
 | **ISBS Pune (Indira School of Business)** | ₹9.20 Lakhs | ₹7.80 LPA | ₹16.00 LPA | MAH-CET / CMAT / MAT |
 
 Explore in-depth reviews of top Pune institutes:
-* [All About PIBM Pune](/blog/all-about-pibm-pune)
-* [All About RIIM Pune](/blog/all-about-riim-pune)
-* [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence)
-* [All About ISBS Pune](/blog/all-about-isbs-pune)
-* [All About DY Patil B-School](/colleges/dy-patil-b-school)
+* [All About PIBM Pune](/blog/all-about-pibm-pune/)
+* [All About RIIM Pune](/blog/all-about-riim-pune/)
+* [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/)
+* [All About ISBS Pune](/blog/all-about-isbs-pune/)
+* [All About DY Patil B-School](/colleges/dy-patil-b-school/)
 
 ---
 
@@ -133,6 +133,6 @@ Many autonomous AICTE-approved B-schools in Pune and Mumbai offer direct admissi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -49,7 +49,7 @@ category: Exams
 # Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs, Fees & Placements
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, [NMIMS Mumbai](/colleges/nmims-mumbai) (via NMAT exam), Welingkar, and K J Somaiya.
+> - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, [NMIMS Mumbai](/colleges/nmims-mumbai/) (via NMAT exam), Welingkar, and K J Somaiya.
 > - **Alternative Growth B-Schools:** N L Dalmia, ITM Navi Mumbai, SIES, and Universal AI University.
 > - **Corporate Edge:** Unrivaled exposure to Dalal Street, Investment Banks, Fintech startups, and FMCG headquarters.
 
@@ -63,9 +63,9 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (NMAT Exam / CAT 2026 / XAT 2027) |
 | :--- | :--- | :--- | :--- |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT 2026 / GMAT (85+ %ile with profile) |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT Exam (232+ Score) / Tier-1 Brand |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET / CAT 2026 (99.9+ %ile) / Exceptional ROI |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT 2026 / GMAT (85+ %ile with profile) |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM)** | ₹24.00 Lakhs | ₹26.63 LPA | NMAT Exam (232+ Score) / Tier-1 Brand |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/) (MMS)** | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET / CAT 2026 (99.9+ %ile) / Exceptional ROI |
 | **Welingkar (WeSchool) Mumbai** | ₹14.00 Lakhs | ₹12.50 LPA | CAT 2026 / XAT 2027 / CMAT / ATMA (75-80 %ile) |
 | **K J Somaiya Inst. of Mgmt (SIMSR)** | ₹20.87 Lakhs | ₹12.32 LPA | CAT 2026 / XAT 2027 / NMAT / CMAT (80+ %ile) |
 | **N L Dalmia Inst. of Mgmt Studies** | ₹14.75 Lakhs | ₹10.50 LPA | CAT 2026 / XAT 2027 / CMAT / MAT (70+ %ile) |
@@ -77,21 +77,21 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ## Key Mumbai B-Schools In Focus
 
-### 1. [NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)
+### 1. [NMIMS Mumbai](/colleges/nmims-mumbai/) (School of Business Management)
 * Flagship MBA program admissions are conducted strictly via the **NMAT exam**.
-* Over 180+ companies participate in placements with highest domestic packages exceeding ₹67 LPA. Check [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
+* Over 180+ companies participate in placements with highest domestic packages exceeding ₹67 LPA. Check [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai/).
 
 ### 2. Welingkar Institute of Management (WeSchool)
 * Renowned for innovative specializations including PGDM Business Design, E-Business, Retail, and Healthcare.
-* Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar](/blog/all-about-welingkar).
+* Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar](/blog/all-about-welingkar/).
 
-### 3. N L Dalmia [Institute of Management Studies](/colleges/ims-noida)
+### 3. N L Dalmia [Institute of Management Studies](/colleges/ims-noida/)
 * Known as Mumbai's premier finance power-house, featuring a dedicated Bloomberg Finance Lab with 24 terminals.
-* Read our complete review at [All About NL Dalmia Admission](/blog/all-about-nl-dalmia-admission-2027-29).
+* Read our complete review at [All About NL Dalmia Admission](/blog/all-about-nl-dalmia-admission-2027-29/).
 
 ### 4. ITM Navi Mumbai & Universal AI University
-* **ITM Kharghar:** Offers 5-month intensive internships with strong placement conversions across BFSI and Retail. Read [All About ITM Mumbai](/blog/all-about-itm-mumbai).
-* **Universal AI University:** India's first dedicated AI-first business university located in green Karjat. Read [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai).
+* **ITM Kharghar:** Offers 5-month intensive internships with strong placement conversions across BFSI and Retail. Read [All About ITM Mumbai](/blog/all-about-itm-mumbai/).
+* **Universal AI University:** India's first dedicated AI-first business university located in green Karjat. Read [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai/).
 
 ---
 
@@ -103,14 +103,14 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 ---
 
 ## Related Articles
-- [All About NMAT Exam Guide](/blog/all-about-nmat-exam)
-- [All About NMIMS Campuses Across India](/blog/all-about-nmims-campuses)
-- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29)
+- [All About NMAT Exam Guide](/blog/all-about-nmat-exam/)
+- [All About NMIMS Campuses Across India](/blog/all-about-nmims-campuses/)
+- [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

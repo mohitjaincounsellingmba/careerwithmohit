@@ -242,10 +242,10 @@ export function CuetUgPageContent() {
                         Admissions Hub
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <Link href="/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                        <Link href="/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
                             <span className="font-black text-lg group-hover:text-primary transition-colors italic uppercase">DU B.Com Admission Guide 2026 →</span>
                         </Link>
-                        <Link href="/blog/top-cuet-ug-colleges-delhi-ncr" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+                        <Link href="/blog/top-cuet-ug-colleges-delhi-ncr/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
                             <span className="font-black text-lg group-hover:text-primary transition-colors italic uppercase">Top CUET UG Colleges in Delhi NCR →</span>
                         </Link>
                     </div>

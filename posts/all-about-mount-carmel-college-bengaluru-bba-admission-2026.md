@@ -73,16 +73,16 @@ Yes, MCC provides hostel facilities for outstation students, but seats are limit
 No, all students must qualify for the entrance test and interview to secure a seat in the BBA program.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
-- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
+- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Preparing for your first ever College Interview?**
 MCC's interview panel looks for confidence and a clear vision. Mohit Jain’s "BBA Interview Prep" helps you articulate your goals and stand out from the competition.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -92,6 +92,6 @@ MCC's interview panel looks for confidence and a clear vision. Mohit Jain’s "B
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

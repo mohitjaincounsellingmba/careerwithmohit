@@ -22,7 +22,7 @@ faqs:
       does not differentiate between a merit-student and an institute-level
       entry.
   - question: Which specialization is best to pursue in Mumbai?
-    answer: "Finance and Marketing reign supreme in Mumbai due to the sheer concentration of banks, PE firms, and FMCG headquarters. Operations/SCM is also growing rapidly due to the port and logistics expansion in Navi Mumbai.\n\n**Explore More Insights:**\n*   [\U0001F449 Unbiased Reviews: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)\n*   [\U0001F449 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry)\n\n*At **CareerWithMohit**, we cut out the noise. Don't fall for flashy advertisements. Stick to the legacy names that deliver real placements.*"
+    answer: "Finance and Marketing reign supreme in Mumbai due to the sheer concentration of banks, PE firms, and FMCG headquarters. Operations/SCM is also growing rapidly due to the port and logistics expansion in Navi Mumbai.\n\n**Explore More Insights:**\n*   [\U0001F449 Unbiased Reviews: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n*   [\U0001F449 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry/)\n\n*At **CareerWithMohit**, we cut out the noise. Don't fall for flashy advertisements. Stick to the legacy names that deliver real placements.*"
 location: Delhi NCR
 state: Delhi NCR
 category: Certifications & Skills
@@ -64,7 +64,7 @@ IES MCRC is another stellar choice that consistently outranks heavily advertised
 *   **Why Choose**: Solid reputation in Finance and Marketing roles, vast alumni network in Mumbai.
 *   **Admission Mode**: Valid scores prioritized,, but profile-based institute-level admissions are available.
 
-### **4. Atharva [Institute of Management Studies](/colleges/ims-noida) (AIMS), Malad**
+### **4. Atharva [Institute of Management Studies](/colleges/ims-noida/) (AIMS), Malad**
 For students looking for a very budget-friendly option without compromising the Mumbai experience, Atharva is an elite choice.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹6.50 Lakhs
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
@@ -84,8 +84,8 @@ Yes. Your mode of admission is strictly administrative. The placement cell does 
 Finance and Marketing reign supreme in Mumbai due to the sheer concentration of banks, PE firms, and FMCG headquarters. Operations/SCM is also growing rapidly due to the port and logistics expansion in Navi Mumbai.
 
 **Explore More Insights:**
-*   [👉 Unbiased Reviews: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
-*   [👉 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry)
+*   [👉 Unbiased Reviews: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Confused between PGDM and MMS? Get Your Free Profile Audit!](/inquiry/)
 
 *At **CareerWithMohit**, we cut out the noise. Don't fall for flashy advertisements. Stick to the legacy names that deliver real placements.*
 
@@ -95,7 +95,7 @@ Finance and Marketing reign supreme in Mumbai due to the sheer concentration of 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -109,6 +109,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

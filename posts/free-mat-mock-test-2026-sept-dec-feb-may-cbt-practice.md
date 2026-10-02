@@ -42,7 +42,7 @@ The **Management Aptitude Test (MAT 2026/2027)**, conducted by the **All India M
 
 The **December MAT Session** is the most widely taken MAT exam of the year as it occurs right after CAT, providing aspirants a vital score-maximizer opportunity for **MBA and PGDM Admissions 2027**.
 
-Top business schools accepting MAT scores for **MBA and PGDM Admissions 2027** include **[PUMBA Pune](/colleges/pumba-pune), [Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai), [BIMTECH Greater Noida](/colleges/bimtech-greater-noida), [XIME Bangalore](/colleges/xime-bangalore), [JIMS Kalkaji](/colleges/jims-kalkaji-delhi), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Christ University, and [NDIM New Delhi](/colleges/ndim-delhi)**.
+Top business schools accepting MAT scores for **MBA and PGDM Admissions 2027** include **[PUMBA Pune](/colleges/pumba-pune/), [Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai/), [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/), [XIME Bangalore](/colleges/xime-bangalore/), [JIMS Kalkaji](/colleges/jims-kalkaji/), [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Christ University, and [NDIM New Delhi](/colleges/ndim-delhi/)**.
 
 To help you achieve a **650+ Composite Score (95+%ile)**, **CareerWithMohit** provides a **100% Free Full-Length MAT CBT Mock Test** with 150 official-standard questions, live 120-minute countdown clocks, instant composite score out of 800, and step-by-step solutions.
 
@@ -97,13 +97,13 @@ To help you achieve a **650+ Composite Score (95+%ile)**, **CareerWithMohit** pr
 
 | B-School Name & City | Expected MAT Cutoff | Total 2-Year Program Fee | Real Placement Average CTC | Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
-| **[PUMBA Pune](/colleges/pumba-pune)** | **95+ %ile (650+ Composite)** | ₹1.35 Lakhs | ₹8.90 LPA | Top Government ROI, Pune University Dept |
-| **[Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai)** | **95+ %ile (650+ Composite)** | ₹14.00 Lakhs | ₹12.50 LPA | Prime Mumbai Location, E-Biz & Core PGDM |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | **90+ %ile (600+ Composite)** | ₹14.00 Lakhs | ₹11.25 LPA | AACSB Accredited, Top Delhi NCR B-School |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | **88 - 90+ %ile (600+)** | ₹12.00 Lakhs | ₹10.30 LPA | Premier South India Business School |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** | **80 - 85 %ile (550+)** | ₹11.50 Lakhs | ₹8.90 LPA | 4 Campuses (Noida, Lucknow, Jaipur, Indore) |
-| **[JIMS Kalkaji & Rohini](/colleges/jims-kalkaji-delhi)** | **80 - 85 %ile (550+)** | ₹8.90 Lakhs | ₹8.10 LPA | Top South Delhi Location, Strong Placements |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | **78 - 82 %ile (520+)** | ₹10.50 Lakhs | ₹8.50 LPA | AICTE Approved, 100% Dual Specialization |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | **95+ %ile (650+ Composite)** | ₹1.35 Lakhs | ₹8.90 LPA | Top Government ROI, Pune University Dept |
+| **[Welingkar (WeSchool) Mumbai](/colleges/welingkar-mumbai/)** | **95+ %ile (650+ Composite)** | ₹14.00 Lakhs | ₹12.50 LPA | Prime Mumbai Location, E-Biz & Core PGDM |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | **90+ %ile (600+ Composite)** | ₹14.00 Lakhs | ₹11.25 LPA | AACSB Accredited, Top Delhi NCR B-School |
+| **[XIME Bangalore](/colleges/xime-bangalore/)** | **88 - 90+ %ile (600+)** | ₹12.00 Lakhs | ₹10.30 LPA | Premier South India Business School |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/)** | **80 - 85 %ile (550+)** | ₹11.50 Lakhs | ₹8.90 LPA | 4 Campuses (Noida, Lucknow, Jaipur, Indore) |
+| **[JIMS Kalkaji & Rohini](/colleges/jims-kalkaji/)** | **80 - 85 %ile (550+)** | ₹8.90 Lakhs | ₹8.10 LPA | Top South Delhi Location, Strong Placements |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | **78 - 82 %ile (520+)** | ₹10.50 Lakhs | ₹8.50 LPA | AICTE Approved, 100% Dual Specialization |
 
 ---
 
@@ -111,7 +111,7 @@ To help you achieve a **650+ Composite Score (95+%ile)**, **CareerWithMohit** pr
 
 **Scoring 650+ in December MAT requires a balanced focus on speed drills, arithmetic accuracy, and regular full-length CBT mock test simulations.**
 
-1. **Week 1: Baseline CBT Mock & Speed Math**: Attempt the [Free MAT Mock Test](/tools/mat-mock-test) to audit your baseline score. Memorize percentage-to-fraction conversions, squares up to 30, and cubes up to 20.
+1. **Week 1: Baseline CBT Mock & Speed Math**: Attempt the [Free MAT Mock Test](/tools/mat-mock-test/) to audit your baseline score. Memorize percentage-to-fraction conversions, squares up to 30, and cubes up to 20.
 2. **Week 2: High-Frequency Quant & Reasoning**: Master Arithmetic (Percentages, Profit & Loss, Ratio, Time & Work), Seating Arrangements, Coding-Decoding, and Blood Relations.
 3. **Week 3: Data Interpretation & Reading Comprehension**: Practice solving 3 DI caselets daily and 4 business-focused RC passages within 25 minutes.
 4. **Week 4: Full-Length Mocks & Analysis**: Attempt 3 full-length 120-minute mocks on CareerWithMohit. Review all step-by-step solutions to eliminate negative marks.
@@ -140,7 +140,7 @@ Top institutes include PUMBA Pune, Welingkar Mumbai, BIMTECH Greater Noida, XIME
 
 ### 🚀 Boost Your MBA 2027 Preparation
 
-- **[Attempt Free Full-Length MAT CBT Mock Test Online](/tools/mat-mock-test)**
-- **[Calculate Your Scaled Composite Score & Percentile](/tools/mat-score-calculator)**
-- **[Save up to ₹5,000 on MBA/PGDM Application Forms](/mba-application-form-discount)**
-- **[Explore 50+ Free National MBA Mock Tests](/mock-tests)**
+- **[Attempt Free Full-Length MAT CBT Mock Test Online](/tools/mat-mock-test/)**
+- **[Calculate Your Scaled Composite Score & Percentile](/tools/mat-score-calculator/)**
+- **[Save up to ₹5,000 on MBA/PGDM Application Forms](/mba-application-form-discount/)**
+- **[Explore 50+ Free National MBA Mock Tests](/mock-tests/)**

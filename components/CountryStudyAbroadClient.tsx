@@ -59,7 +59,7 @@ export default function CountryStudyAbroadClient({ destination }: Props) {
           <div className="flex items-center gap-2 text-xs font-semibold text-slate-300 mb-6">
             <Link href="/" className="hover:text-white transition-colors">Home</Link>
             <span>/</span>
-            <Link href="/abroad-education" className="hover:text-white transition-colors">Abroad Education</Link>
+            <Link href="/abroad-education/" className="hover:text-white transition-colors">Abroad Education</Link>
             <span>/</span>
             <span className="text-amber-400 font-bold">{destination.country}</span>
           </div>
@@ -290,7 +290,7 @@ export default function CountryStudyAbroadClient({ destination }: Props) {
                 Showing 30 of {filteredColleges.length} universities. Connect with counsellor for the complete country database.
               </p>
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs uppercase tracking-wider shadow-md transition-colors"
               >
                 Book Free University Consultation
@@ -401,7 +401,7 @@ export default function CountryStudyAbroadClient({ destination }: Props) {
               <Phone className="w-4 h-4" /> WhatsApp Consultation
             </a>
             <Link
-              href="/book-session"
+              href="/book-session/"
               className="inline-flex items-center gap-2 bg-white hover:bg-slate-100 text-slate-900 font-bold text-sm px-6 py-3.5 rounded-xl shadow-lg transition-all"
             >
               Book 1-on-1 Video Session

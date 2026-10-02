@@ -60,12 +60,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+### 2. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 - **Approximate Annual Fees:** ₹13,000
 - **Entrance Exam / Admission Process:** JMI Entrance
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -85,12 +85,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 7. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)
+### 7. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 8. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS Rohini)
+### 8. [Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS Rohini)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -112,13 +112,13 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
 | **1** | **Shaheed Sukhdev College of Business Studies (SSCBS)** | CUET | ₹20,000 |
-| **2** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance | ₹13,000 |
-| **3** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs |
+| **2** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | JMI Entrance | ₹13,000 |
+| **3** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs |
 | **4** | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET | ₹1.2 Lakhs |
 | **5** | **Deen Dayal Upadhyaya College (DDUC)** | CUET | ₹25,000 |
 | **6** | **Keshav Mahavidyalaya** | CUET | ₹20,000 |
-| **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET | ₹1.1 Lakhs |
-| **8** | **[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS Rohini)** | IPU CET | ₹1.2 Lakhs |
+| **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/)** | IPU CET | ₹1.1 Lakhs |
+| **8** | **[Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS Rohini)** | IPU CET | ₹1.2 Lakhs |
 | **9** | **Gargi College** | CUET | ₹15,000 |
 | **10** | **Sri Guru Gobind Singh College of Commerce** | CUET | ₹30,000 |
 
@@ -131,16 +131,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Delhi?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -158,6 +158,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

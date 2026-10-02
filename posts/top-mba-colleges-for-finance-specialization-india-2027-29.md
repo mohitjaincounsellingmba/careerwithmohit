@@ -21,7 +21,7 @@ keywords:
 faqs:
   - question: Which MBA college has the highest package for Finance?
     answer: >-
-      **[IIM Calcutta](/colleges/iim-calcutta)** and **SPJIMR** consistently
+      **[IIM Calcutta](/colleges/iim-calcutta/)** and **SPJIMR** consistently
       record the highest packages for finance roles, often exceeding ₹50 LPA for
       domestic frontend roles.
   - question: Do I need a CFA to get into a top Finance MBA?
@@ -58,11 +58,11 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 
 | College | Primary Exam | Avg. Finance Package | Top Role Offered |
 |---|---|---|---|
-| **[IIM Calcutta](/colleges/iim-calcutta)** | CAT | ₹35.07 LPA | Investment Banking Associate |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | MAH CET | ₹28.02 LPA | Equity Research / Treasury |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | CAT | ₹33.00 LPA | Private Equity / BFSI |
-| **[IIM Bangalore](/colleges/iim-bangalore)**| CAT | ₹35.31 LPA | Management Consulting (Finance)|
-| **[FMS Delhi](/colleges/fms-delhi)** | CAT | ₹34.10 LPA | Front-end Investment Banking |
+| **[IIM Calcutta](/colleges/iim-calcutta/)** | CAT | ₹35.07 LPA | Investment Banking Associate |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | MAH CET | ₹28.02 LPA | Equity Research / Treasury |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | CAT | ₹33.00 LPA | Private Equity / BFSI |
+| **[IIM Bangalore](/colleges/iim-bangalore/)**| CAT | ₹35.31 LPA | Management Consulting (Finance)|
+| **[FMS Delhi](/colleges/fms-delhi/)** | CAT | ₹34.10 LPA | Front-end Investment Banking |
 
 ---
 
@@ -72,10 +72,10 @@ Not every college with a "Finance" degree is valued by investment banks. This 20
 
 ## 🏛️ The Specialists: Why They Win
 
-### 1. [IIM Calcutta](/colleges/iim-calcutta) (The Quant King)
+### 1. [IIM Calcutta](/colleges/iim-calcutta/) (The Quant King)
 IIM-C is widely regarded as the best institute for Finance in Asia. Its proximity to Kolkata’s intellectual finance tradition and its focus on pure mathematics and statistics make it the #1 choice.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (The CEO Factory)
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai/) (The CEO Factory)
 Located in South Mumbai, minutes away from the RBI and major bank HQs. 
 - **USP:** Real-world training by adjunct faculty who are actually MDs and CEOs of major banks.
 
@@ -100,7 +100,7 @@ If your CAT percentile is in the 70-85 range, these are your best financial care
 
 - **BIMTECH Greter Noida (Insurance/Finance):** Direct admission seats are often available for their specialized insurance management track.
 - **LBSIM Delhi:** Heavily focused on Corporate Finance and Financial Markets.
-- **[XIME Bangalore](/colleges/xime-bangalore):** Offers great diversity and a balanced Finance curriculum for the tech-driven BFSI sector.
+- **[XIME Bangalore](/colleges/xime-bangalore/):** Offers great diversity and a balanced Finance curriculum for the tech-driven BFSI sector.
 
 ---
 
@@ -110,7 +110,7 @@ If your CAT percentile is in the 70-85 range, these are your best financial care
 YES. While the math can be tough, most Finance roles in **Investment Banking and Wealth Management** value diverse backgrounds like Commerce, CA, and Economics.
 
 **Q2. Which MBA college has the highest package for Finance?**
-**[IIM Calcutta](/colleges/iim-calcutta)** and **SPJIMR** consistently record the highest packages for finance roles, often exceeding ₹50 LPA for domestic frontend roles.
+**[IIM Calcutta](/colleges/iim-calcutta/)** and **SPJIMR** consistently record the highest packages for finance roles, often exceeding ₹50 LPA for domestic frontend roles.
 
 **Q3. Do I need a CFA to get into a top Finance MBA?**
 It is not mandatory, but having a **CFA Level 1 or 2** significantly improves your chances during the shortlisting process at IIMs and SPJIMR.
@@ -128,16 +128,16 @@ Yes. NIBM usually takes students in the **85-95 percentile** range of CAT/XAT/CM
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [NIBM Pune Honest Review 2027–29](/blog/nibm-pune-review-2027-29)
+- [Top MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [NIBM Pune Honest Review 2027–29](/blog/nibm-pune-review-2027-29/)
 
 ---
 
 **Is Your Future in Finance?**
 Finance is a game of credibility. Don't waste your degree at a college that big banks don't recognize. Mohit Jain provides a "Finance Audit" to see if your personality and academics fit the rigid world of Investment Banking and Treasury.
 
-[👉 Book My Finance Career Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Career Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -145,7 +145,7 @@ Finance is a game of credibility. Don't waste your degree at a college that big 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -159,6 +159,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

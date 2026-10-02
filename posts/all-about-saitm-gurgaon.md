@@ -70,8 +70,8 @@ category: Jobs & Careers
 
 **Final Verdict**: A great choice for students who prefer a large campus environment and are looking for a mix of solid placements and high-quality infrastructure.
 
-[👉 Apply to SAITM Gurgaon](/inquiry)
-[👉 View More B-Schools in Gurgaon](/colleges)
+[👉 Apply to SAITM Gurgaon](/inquiry/)
+[👉 View More B-Schools in Gurgaon](/colleges/)
 
 ---
 
@@ -93,6 +93,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

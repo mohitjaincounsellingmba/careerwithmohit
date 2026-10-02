@@ -23,7 +23,7 @@ faqs:
     answer: >-
       IET Lucknow (HBTU) is Lucknow's top engineering institution for government
       education. Among private colleges, [Amity
-      University](/colleges/amity-noida) Lucknow is the most recognised brand.
+      University](/colleges/amity-noida/) Lucknow is the most recognised brand.
   - question: What UPTAC rank is needed for IET Lucknow CSE?
     answer: >-
       Approximately a UP State Merit Rank of 2,000 or below (General category)
@@ -64,7 +64,7 @@ This guide covers the **top B.Tech colleges in Lucknow for 2026** with fees, AKT
 | IET Lucknow (HBTU) | State Govt (Autonomous) | ₹0.70 L/yr | ₹5–9 LPA | JEE Main / UPTAC |
 | BBAU Lucknow | Central Govt University | ₹0.80 L/yr | ₹4–7 LPA | CUET UG / Boards |
 | KNIT Sultanpur | Govt (near Lucknow) | ₹1.0 L/yr | ₹4–7 LPA | JEE Main |
-| [Amity University](/colleges/amity-noida) Lucknow | Private | ₹1.5 L/yr | ₹5–8 LPA | JEE / Boards |
+| [Amity University](/colleges/amity-noida/) Lucknow | Private | ₹1.5 L/yr | ₹5–8 LPA | JEE / Boards |
 | Integral University | Private | ₹0.90 L/yr | ₹4–6 LPA | UPTAC / Direct |
 | SRMCEM Lucknow | Private | ₹0.85 L/yr | ₹4–6 LPA | UPTAC / Direct |
 | Shri Ramswaroop College (SRCEM) | Private | ₹0.80 L/yr | ₹3.5–6 LPA | UPTAC |
@@ -94,7 +94,7 @@ BBAU is a central government university (like JNU) offering B.Tech in CSE and al
 
 ## Tier 2 — Top Private Engineering Colleges in Lucknow
 
-### 3. [Amity University](/colleges/amity-noida), Lucknow Campus
+### 3. [Amity University](/colleges/amity-noida/), Lucknow Campus
 Amity's Lucknow campus is a smaller version of the Noida campus with similar branding and curriculum. Good option for students wanting the Amity degree at Lucknow.
 
 - **Courses:** CSE, ECE, Mechanical, Civil
@@ -123,7 +123,7 @@ All AKTU-affiliated private colleges in Lucknow fill B.Tech seats through UPTAC 
 - **Eligibility:** 10+2 with PCM, minimum 45%
 - **Rounds:** 3 rounds of seat allotment in July–August 2026
 
-[Read: UPTAC AKTU Counselling 2026 Complete Guide](/blog/uptac-aktu-counselling-2026-btech-admission-guide)
+[Read: UPTAC AKTU Counselling 2026 Complete Guide](/blog/uptac-aktu-counselling-2026-btech-admission-guide/)
 
 ---
 
@@ -139,7 +139,7 @@ After UPTAC counselling is complete, unsold/leftover seats at private AKTU colle
 ## FAQs — B.Tech Colleges in Lucknow 2026
 
 **Q1. Which is the best B.Tech college in Lucknow?**
-IET Lucknow (HBTU) is Lucknow's top engineering institution for government education. Among private colleges, [Amity University](/colleges/amity-noida) Lucknow is the most recognised brand.
+IET Lucknow (HBTU) is Lucknow's top engineering institution for government education. Among private colleges, [Amity University](/colleges/amity-noida/) Lucknow is the most recognised brand.
 
 **Q2. What UPTAC rank is needed for IET Lucknow CSE?**
 Approximately a UP State Merit Rank of 2,000 or below (General category) is needed for Computer Science at IET Lucknow (HBTU).
@@ -157,14 +157,14 @@ IET Lucknow charges approximately ₹70,000 per year — making it one of the mo
 
 ## Useful Resources
 
-- [UPTAC AKTU Counselling 2026 Complete Guide](/blog/uptac-aktu-counselling-2026-btech-admission-guide)
-- [Top B.Tech Colleges Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [UPTAC AKTU Counselling 2026 Complete Guide](/blog/uptac-aktu-counselling-2026-btech-admission-guide/)
+- [Top B.Tech Colleges Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Want expert help choosing a Lucknow engineering college? Book a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Want expert help choosing a Lucknow engineering college? Book a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -172,6 +172,6 @@ IET Lucknow charges approximately ₹70,000 per year — making it one of the mo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

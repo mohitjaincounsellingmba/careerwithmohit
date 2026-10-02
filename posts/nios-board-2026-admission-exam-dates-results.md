@@ -125,7 +125,7 @@ Compared to private schooling, NIOS is incredibly cost-effective:
 
 ---
 
-[👉 Get Free Personal Counselling for Admissions](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+[👉 Get Free Personal Counselling for Admissions](/inquiry/) | [💬 Schedule a Call with Mohit Jain](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

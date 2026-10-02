@@ -38,7 +38,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Planning to become a Chartered Financial Analyst? Get the definitive CFA 2026 guide. Explore Level 1, 2, and 3...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The **Chartered Financial Analyst (CFA)** credential is the "Gold Standard" of the investment management industry globally. Whether you want to work in Portfolio Management, Equity Research, or Investment Banking, having "CFA" next to your name opens doors to elite financial institutions. In 2026, the CFA Institute has introduced several updates to its Computer-Based Testing (CBT) format and curriculum to keep pace with the evolving fintech world.
@@ -117,16 +117,16 @@ The starting salary for a full Charterholder (Level 3 + Experience) in India ran
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29)
-- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [Financial Modeling & Valuation Best Courses](/blog/financial-modeling-valuation-best-courses-2027-29/)
+- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Elevate Your Financial Pedigree.**
 The CFA designation is more than just an exam; it’s a commitment to professional excellence. Don't waste your registration fee on a sub-par prep strategy. Mohit Jain provides a **"CFA Selection Audit"**—helping you decide when to register and building a study plan that ensures you don't fall into the "50% failure rate" trap.
 
-[👉 Book My CFA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My CFA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -134,6 +134,6 @@ The CFA designation is more than just an exam; it’s a commitment to profession
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -751,7 +751,7 @@ export default function CatExamPapersDashboard() {
 
           <div className="flex flex-col sm:flex-row items-center gap-3 shrink-0 w-full md:w-auto">
             <a
-              href="/tools/cat-mock-test"
+              href="/tools/cat-mock-test/"
               className="w-full sm:w-auto px-8 py-4 bg-[#0f172a] hover:bg-slate-900 text-white text-sm font-black uppercase tracking-widest rounded-2xl shadow-2xl hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-3 border-2 border-orange-300/30"
             >
               <span>Launch Live CBT Mock Test</span>
@@ -1323,7 +1323,7 @@ export default function CatExamPapersDashboard() {
                 ) : (
                   <div className="flex items-center gap-2">
                     <a
-                      href="/tools/cat-mock-test"
+                      href="/tools/cat-mock-test/"
                       className="px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-black uppercase tracking-wider rounded-xl transition-all shadow-sm"
                     >
                       ⚡ Full 66-Q Timed Mock Test

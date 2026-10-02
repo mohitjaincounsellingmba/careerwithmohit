@@ -63,7 +63,7 @@ The **MAT May 2026 Computer-Based Test (CBT)** is scheduled for **June 14, 2026*
 
 <div class="calculator-cta-top">
 
-> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator)**
+> 🎯 **[Use Free MAT May 2026 Score Calculator →](/tools/mat-score-calculator/)**
 >
 > Enter your section-wise correct and wrong answers (LC, MS, DA, ICR) and instantly get your **estimated composite score out of 800** and **expected percentile**. Free, fast, no login needed.
 
@@ -162,7 +162,7 @@ Use this table to benchmark your MAT CBT performance:
 
 <div class="calculator-cta-mid">
 
-> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator)**
+> 📊 **[Open MAT Score Calculator → /tools/mat-score-calculator](/tools/mat-score-calculator/)**
 >
 > ✅ Works for PBT, CBT, and IBT mode candidates  
 > ✅ Enter correct & wrong answers for LC, MS, DA, ICR  
@@ -194,15 +194,15 @@ Wondering how your CBT result compares to other modes? Here's a quick overview:
 
 All colleges accepting MAT accept your CBT score equally. Apply to these as soon as your scorecard is ready:
 
-- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)** — Composite 500+ preferred
-- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/all-about-jaipuria-institute-of-management)** — MAT-friendly process
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29)** — Direct PGDM with MAT
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi)** — AICTE-approved PGDM
-- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** — Banking & Finance MBA
-- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini)** — Top Delhi PGDM with MAT
-- **[Great Lakes Gurgaon](/blog/direct-admission-great-lakes-gurgaon-2027-29)** — Requires strong MAT score
+- **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** — Composite 500+ preferred
+- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/all-about-jaipuria-institute-of-management/)** — MAT-friendly process
+- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/)** — Direct PGDM with MAT
+- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** — AICTE-approved PGDM
+- **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** — Banking & Finance MBA
+- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini/)** — Top Delhi PGDM with MAT
+- **[Great Lakes Gurgaon](/blog/direct-admission-great-lakes-gurgaon-2027-29/)** — Requires strong MAT score
 
-👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29)**
+👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
 ---
 
@@ -212,13 +212,13 @@ All colleges accepting MAT accept your CBT score equally. Apply to these as soon
 Don't wait. Download the scorecard, shortlist colleges, and send applications immediately. MAT-accepting colleges run rolling admissions — seats fill up fast in June-July.
 
 ### ✅ Score 60–80 Percentile?
-Use the **[MAT College Predictor](/tools/mat-college-predictor)** to identify realistic options. Several good PGDM colleges have seats available even at this range.
+Use the **[MAT College Predictor](/tools/mat-college-predictor/)** to identify realistic options. Several good PGDM colleges have seats available even at this range.
 
 ### ✅ Score Below 60 Percentile?
 Two options: Apply for **direct admissions** at colleges not requiring entrance exams, or re-appear in **MAT September 2026** — the final window for 2027–29 batch admissions.
 
 ### ✅ Prepare for GD/PI
-Almost all MAT-accepting colleges conduct GD/PI rounds. Start preparing now with our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba)**
+Almost all MAT-accepting colleges conduct GD/PI rounds. Start preparing now with our guide: **[GD-PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)**
 
 ---
 
@@ -246,12 +246,12 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam)** — Complete MAT overview
-- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download)** — All modes result guide
-- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29)** — PBT-specific guide
-- **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29)** — IBT-specific guide
-- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide)** — Find your target college
-- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29)**
+- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)** — Complete MAT overview
+- **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
+- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
+- **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)** — IBT-specific guide
+- **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Find your target college
+- **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**
 
 ---
 
@@ -261,7 +261,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 <div class="calculator-cta-footer">
 
-> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator)**
+> 🚀 **[Open MAT May 2026 Score Calculator — Free & Instant →](/tools/mat-score-calculator/)**
 >
 > ✔ Enter your section-wise answers  
 > ✔ Get your **composite score out of 800**  
@@ -280,6 +280,6 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

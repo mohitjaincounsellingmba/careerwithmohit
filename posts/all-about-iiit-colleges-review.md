@@ -77,7 +77,7 @@ Here is the ultimate breakdown of the elite IIITs (Hyderabad, Allahabad, Bangalo
 
 ## Placement Statistics (2025-2026 for Top IIITs)
 
-The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or beat those of [IIT Bombay](/colleges/iit-bombay) and IIT Delhi for computer science profiles.
+The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or beat those of [IIT Bombay](/colleges/iit-bombay/) and IIT Delhi for computer science profiles.
 
 - **Highest Placement Package:** ₹1.02 Crores (Domestic) / ₹1.30 Crores+ (International)
 - **Average Placement Package (CSE specifically):** 
@@ -95,7 +95,7 @@ The placement statistics of IIIT Hyderabad and IIIT Allahabad routinely match or
 **Our Verdict:** If you are a hardcore tech and coding enthusiast, aim blindly for IIIT Hyderabad or IIIT Allahabad. While you might trade away the massive 500-acre green campus and cultural fests of an old IIT or NIT, you gain a modern curriculum, elite coding peers, and placement packages that are truly staggering. 
 
 ---
-[👉 Torn between a top NIT and an elite IIIT? Contact us to evaluate your JEE Main rank options!](/inquiry)
+[👉 Torn between a top NIT and an elite IIIT? Contact us to evaluate your JEE Main rank options!](/inquiry/)
 
 ---
 
@@ -117,6 +117,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

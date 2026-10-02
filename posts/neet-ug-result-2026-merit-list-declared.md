@@ -121,17 +121,17 @@ Candidates can follow these steps to download their official NTA NEET UG 2026 sc
 
 Stay updated with our comprehensive resources as you prepare for the counselling process:
 
-*   **[NEET UG 2026 Re-Exam Date & Timings](/blog/neet-2026-re-exam-date-announced-june-21)**
-*   **[NEET UG 2026 Cancellation & Investigation Details](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates)**
-*   **[Direct MBBS Admission & Management Quota Guide 2026](/blog/mbbs-management-quota-admission-2026-process-fees)**
-*   **[Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026)**
+*   **[NEET UG 2026 Re-Exam Date & Timings](/blog/neet-2026-re-exam-date-announced-june-21/)**
+*   **[NEET UG 2026 Cancellation & Investigation Details](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates/)**
+*   **[Direct MBBS Admission & Management Quota Guide 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)**
+*   **[Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026/)**
 
 ---
 
 **Confused About Your MBBS Admissions & Counselling?**
 Selecting the right medical college based on your NEET score, rank, and budget can be challenging. Let expert counsellor Mohit Jain help you navigate the choice filling, counselling rounds, and secure your admission successfully.
 
-[👉 Get Career Counselling Support](/inquiry) | [💬 Message Mohit on WhatsApp](/inquiry)
+[👉 Get Career Counselling Support](/inquiry/) | [💬 Message Mohit on WhatsApp](/inquiry/)
 
 ---
 
@@ -151,6 +151,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -214,11 +214,11 @@ Considering the **11-month fast-track duration**, reduced opportunity cost (1 ye
 ## 7. Useful Related Articles
 
 Looking to explore more about postgraduate finance programs, management entrance exams, and B-school comparisons? Check out these curated guides on **Career With Mohit**:
-*   **[Alternate Masters to MBA / PGDM: MMS, PGP & Specialized Degrees](/blog/alternate-masters-to-mba-pgdm-mms-pgp)**
-*   **[All About CAT Exam 2026: Pattern, Syllabus & Top Cut-offs](/blog/all-about-cat-exam)**
-*   **[All About GMAT Exam 2026: Colleges, Cut-offs & Preparation Guide](/blog/all-about-gmat-exam-colleges-cutoffs)**
-*   **[Top MBA Fintech & Finance Colleges in India 2027–29](/blog/mba-fintech-colleges-in-jaipur-2027-29)**
-*   **[All IIM Cut-offs 2027–29 Batch: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)**
+*   **[Alternate Masters to MBA / PGDM: MMS, PGP & Specialized Degrees](/blog/alternate-masters-to-mba-pgdm-mms-pgp/)**
+*   **[All About CAT Exam 2026: Pattern, Syllabus & Top Cut-offs](/blog/all-about-cat-exam/)**
+*   **[All About GMAT Exam 2026: Colleges, Cut-offs & Preparation Guide](/blog/all-about-gmat-exam-colleges-cutoffs/)**
+*   **[Top MBA Fintech & Finance Colleges in India 2027–29](/blog/mba-fintech-colleges-in-jaipur-2027-29/)**
+*   **[All IIM Cut-offs 2027–29 Batch: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
 
 ---
 
@@ -249,7 +249,7 @@ Applicants need a Bachelor's degree in Finance, Commerce, Economics, Business, E
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -263,6 +263,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

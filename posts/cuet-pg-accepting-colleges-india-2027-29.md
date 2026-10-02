@@ -88,7 +88,7 @@ If you missed CAT/XAT or want high-ROI options, CUET PG opens doors to excellent
 5. **BBAU Lucknow** (MBA)
 6. **AKTU Affiliated Top Colleges** (e.g., KIET, GL Bajaj, JSS Noida for MBA)
 
-[👉 Read our dedicated list of Top CUET PG MBA Colleges](/blog/cuet-pg-mba-colleges-list-2027-29)
+[👉 Read our dedicated list of Top CUET PG MBA Colleges](/blog/cuet-pg-mba-colleges-list-2027-29/)
 
 ---
 
@@ -109,23 +109,23 @@ For IT and software aspirants, the MCA paper in CUET PG (Paper Code: SCQP09) pro
 
 Many premium private universities have partnered with NTA to accept CUET PG scores, offering great infrastructure and specialized PG programs:
 
-1. **[Amity University](/colleges/amity-noida)** (Noida, Gurugram, Lucknow)
-2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
-3. **[Galgotias University](/colleges/galgotias-university)**, Greater Noida
-4. **[GD Goenka University](/colleges/gd-goenka-gurgaon)**, Gurugram
+1. **[Amity University](/colleges/amity-noida/)** (Noida, Gurugram, Lucknow)
+2. **[Bennett University](/colleges/bennett-greater-noida/)**, Greater Noida
+3. **[Galgotias University](/colleges/galgotias-university/)**, Greater Noida
+4. **[GD Goenka University](/colleges/gd-goenka-gurgaon/)**, Gurugram
 5. **K.R. Mangalam University**, Gurugram
-6. **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**, Punjab
-7. **[Sharda University](/colleges/sharda-greater-noida)**, Greater Noida
+6. **[Lovely Professional University](/colleges/lovely-professional-university/) (LPU)**, Punjab
+7. **[Sharda University](/colleges/sharda-greater-noida/)**, Greater Noida
 
 ---
 
 ## City-Wise CUET PG Colleges Guide
 
 Looking for a college in your preferred city?
-- 🏙️ [CUET PG Colleges in Delhi NCR](/blog/cuet-pg-accepting-colleges-delhi-ncr-2027-29)
-- 🏙️ [CUET PG Colleges in Bangalore](/blog/cuet-pg-accepting-colleges-bangalore-2027-29)
-- 🏙️ [CUET PG Colleges in Pune](/blog/cuet-pg-accepting-colleges-pune-2027-29)
-- 🏙️ [CUET PG Colleges in Mumbai](/blog/cuet-pg-accepting-colleges-mumbai-2027-29)
+- 🏙️ [CUET PG Colleges in Delhi NCR](/blog/cuet-pg-accepting-colleges-delhi-ncr-2027-29/)
+- 🏙️ [CUET PG Colleges in Bangalore](/blog/cuet-pg-accepting-colleges-bangalore-2027-29/)
+- 🏙️ [CUET PG Colleges in Pune](/blog/cuet-pg-accepting-colleges-pune-2027-29/)
+- 🏙️ [CUET PG Colleges in Mumbai](/blog/cuet-pg-accepting-colleges-mumbai-2027-29/)
 
 ---
 
@@ -160,7 +160,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -174,6 +174,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

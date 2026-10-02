@@ -189,7 +189,7 @@ export function Footer() {
                 <span>WhatsApp Profile Review</span>
               </a>
               <Link 
-                href="/book-session" 
+                href="/book-session/" 
                 prefetch={false}
                 className="w-full sm:w-auto rounded-xl bg-blue-600 hover:bg-blue-500 active:scale-95 text-white px-6 py-3 font-semibold text-sm transition-all shadow-lg shadow-blue-950/40 flex items-center justify-center gap-2 text-center border border-blue-400/30"
               >
@@ -356,15 +356,15 @@ export function Footer() {
                 <span>Verified Visits: <strong className="text-white">{(visits + 24850).toLocaleString()}</strong></span>
               </div>
             )}
-            <Link href="/privacy" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
+            <Link href="/privacy/" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
               Privacy Policy
             </Link>
             <span className="text-slate-700">•</span>
-            <Link href="/terms" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
+            <Link href="/terms/" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
               Terms of Service
             </Link>
             <span className="text-slate-700">•</span>
-            <Link href="/inquiry" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
+            <Link href="/inquiry/" prefetch={false} className="text-slate-400 hover:text-white transition-colors">
               Student Support
             </Link>
           </div>

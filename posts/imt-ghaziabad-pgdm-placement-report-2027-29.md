@@ -114,15 +114,15 @@ pie title IMT Ghaziabad Sector Split 2025
 
 ## 3. Related Placement Reports
 
-*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2027-29)**
-*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2027-29)**
-*   **[FORE School of Management Placement Report 2025](/blog/fore-school-of-management-delhi-placement-report-2027-29)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   **[MDI Gurgaon Placement Report 2025](/blog/mdi-gurgaon-pgdm-placement-report-2027-29/)**
+*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2027-29/)**
+*   **[FORE School of Management Placement Report 2025](/blog/fore-school-of-management-delhi-placement-report-2027-29/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

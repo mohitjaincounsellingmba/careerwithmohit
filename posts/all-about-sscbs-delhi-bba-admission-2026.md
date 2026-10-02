@@ -79,20 +79,20 @@ No, there is no management quota or direct admission. All seats are filled via C
 BMS is a general management course covering all aspects of business, while BBA(FIA) is highly specialized towards finance and investment banking.
 
 ## 🔗 Useful Links:
-- [Top BBA Colleges in India 2026 — Full List](/blog/top-bba-colleges-india-2026)
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
-- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges)
+- [Top BBA Colleges in India 2026 — Full List](/blog/top-bba-colleges-india-2026/)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
+- [IPMAT 2026 Preparation Guide](/blog/ipmat-2026-preparation-guide-colleges/)
 
 ---
 
 **Need help with your CUET Strategy for SSCBS?**
 Getting into SSCBS requires a 99th percentile strategy. Book a session with Mohit Jain to optimize your subject choices and crack the interview rounds for top internships.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

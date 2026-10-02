@@ -92,7 +92,7 @@ Even with a low percentile, you can secure admission through the CAP rounds. Whi
 | :--- | :--- | :--- |
 | **JSPM Narhe Campus** | 50.48 | Pune |
 | **NSCT's IBMR** | 49.38 | Chakan |
-| **[ASM IBMR](/colleges/asm-ibmr)** | 48.17 | Pune |
+| **[ASM IBMR](/colleges/asm-ibmr/)** | 48.17 | Pune |
 | **Sinhgad SIBAR** | 49.33 | Pune |
 | **GH Raisoni** | 45.63 | Nagpur |
 | **Sandip Institute** | 45.61 | Nashik |
@@ -127,22 +127,22 @@ It is important to remember that MAH MBA CET has **no fixed passing marks**. You
 ### Need Help with MHCET Counselling?
 Choosing the right college based on your percentile can be tricky. Don't waste your score on a college with poor placements.
 
-[👉 Get Expert Career Counselling & Profile Evaluation from Mohit Jain!](/inquiry)
+[👉 Get Expert Career Counselling & Profile Evaluation from Mohit Jain!](/inquiry/)
 
 ---
 
 ### Internal References:
-* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
-* [Top MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29)
-* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2027-29)
-* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+* [Top MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
+* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2027-29/)
+* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -157,6 +157,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

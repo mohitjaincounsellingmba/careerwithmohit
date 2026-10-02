@@ -56,9 +56,9 @@ For the **2027-29 academic session**, hundreds of top-tier AICTE-approved autono
 | Region | Recommended PGDM Colleges | Total Fee (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FIIB Delhi, FOSTIIMA, JIMS Kalkaji, GNIOT GIMS, GL Bajaj | ₹6.78L - ₹12.85L | ₹7.25 LPA - ₹11.15 LPA |
-| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
-| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore/), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
+| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata/), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.90L - ₹9.15L | ₹6.50 LPA - ₹7.10 LPA |
 
 ---
@@ -80,7 +80,7 @@ A 50-70 percentile in CAT/CMAT is more than sufficient to land admission in AICT
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -94,6 +94,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

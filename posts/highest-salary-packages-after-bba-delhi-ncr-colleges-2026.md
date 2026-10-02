@@ -60,7 +60,7 @@ SSCBS routinely outperforms several MBA colleges in terms of starting packages.
 - **Average Salary Package:** ₹11.5 LPA
 - **Top Profiles:** Investment Banking Analyst, Strategy Consultant, Valuation Associate.
 
-### 2. [Amity University, Noida](/colleges/amity-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida/)
 Amity's strong corporate outreach program helps select students secure competitive roles in MNCs.
 - **Highest Salary Package:** ₹15 LPA
 - **Average Salary Package:** ₹5.5 LPA
@@ -116,9 +116,9 @@ To secure a starting salary in the upper bracket, you must differentiate yoursel
 ---
 
 ## 🔗 Related Resources
-- [BBA Fees vs Placement: ROI Evaluation in Delhi NCR](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
-- [BBA Specializations that Pay the Highest Salary](/blog/bba-specializations-skills-salary-2026-guide)
+- [BBA Fees vs Placement: ROI Evaluation in Delhi NCR](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
+- [BBA Specializations that Pay the Highest Salary](/blog/bba-specializations-skills-salary-2026-guide/)
 
 ---
 
@@ -140,6 +140,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

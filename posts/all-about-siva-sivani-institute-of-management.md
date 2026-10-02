@@ -44,14 +44,14 @@ state: Telangana
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management)**
+### **College Review: [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) 2026 Snapshot
+### 📊 [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,25 +79,25 @@ state: Telangana
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) a good option for PGDM/MBA?
-Yes, [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) a good option for PGDM/MBA?
+Yes, [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management)?
-The average placement package at [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) is approximately ₹4.9 LPA, with the highest package reaching up to ₹10.5 LPA.
+### 2. What is the average package offered at [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/)?
+The average placement package at [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) is approximately ₹4.9 LPA, with the highest package reaching up to ₹10.5 LPA.
 
-### 3. What entrance exams are accepted by [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management)?
+### 3. What entrance exams are accepted by [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to Siva Sivani Institute of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to Siva Sivani Institute of Management](/inquiry/) | [👉 Get Free Counselling](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -111,6 +111,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

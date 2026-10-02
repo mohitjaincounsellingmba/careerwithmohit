@@ -154,11 +154,11 @@ To provide clear comparative perspective for MBA aspirants, the table below benc
 | College Name | Total Fees (Approx) | Avg Package (LPA) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **MICA Ahmedabad** | ₹28.00 Lakhs | **₹19.22 – ₹20.46 LPA** | High ROI for Marketing & Brand Strategy; CAT / XAT / GMAT + MICAT |
-| **[IIM Ahmedabad](/blog/iim-ahmedabad-review-2027-29)** | ₹26.50 Lakhs | **₹34.45 LPA** | Tier-1 Pinnacle; CAT 99.5+%ile + Academic Diversity |
-| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2027-29)** | ₹24.00 Lakhs | **₹33.00 LPA** | Elite ROI across all streams; Profile-based / CAT / XAT 85+%ile |
-| **[IRMA Anand](/blog/irma-anand-review-2027-29)** | ₹16.80 Lakhs | **₹15.50 LPA** | Excellent ROI for Rural, FMCG & Agri-Business; CAT / XAT / CMAT |
-| **[SIBM Bangalore](/blog/sibm-bangalore-review-2027-29)** | ₹21.00 Lakhs | **₹14.48 LPA** | Strong Tech-City Corporate Connect; SNAP 90+%ile |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai)** | ₹26.00 Lakhs | **₹20.01 LPA** | High corporate density in Finance & Marketing; NMAT 235+ Score |
+| **[IIM Ahmedabad](/blog/iim-ahmedabad-review-2027-29/)** | ₹26.50 Lakhs | **₹34.45 LPA** | Tier-1 Pinnacle; CAT 99.5+%ile + Academic Diversity |
+| **[SPJIMR Mumbai](/blog/spjimr-mumbai-pgdm-placement-report-2027-29/)** | ₹24.00 Lakhs | **₹33.00 LPA** | Elite ROI across all streams; Profile-based / CAT / XAT 85+%ile |
+| **[IRMA Anand](/blog/irma-anand-review-2027-29/)** | ₹16.80 Lakhs | **₹15.50 LPA** | Excellent ROI for Rural, FMCG & Agri-Business; CAT / XAT / CMAT |
+| **[SIBM Bangalore](/blog/sibm-bangalore-review-2027-29/)** | ₹21.00 Lakhs | **₹14.48 LPA** | Strong Tech-City Corporate Connect; SNAP 90+%ile |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/)** | ₹26.00 Lakhs | **₹20.01 LPA** | High corporate density in Finance & Marketing; NMAT 235+ Score |
 
 ---
 
@@ -231,11 +231,11 @@ MICA’s 19-acre lush green campus in Shela offers a unique residential experien
 
 Explore other top management colleges and comprehensive admission guides:
 
-* [MBA in Brand Management: Top Colleges, Career Paths & Salaries](/blog/mba-brand-management-complete-review)
-* [IRMA Anand Review 2027–29: Fees, Placements & Cutoffs](/blog/irma-anand-review-2027-29)
-* [IIM Ahmedabad Review 2027–29: Campus, Fees & Placement Analysis](/blog/iim-ahmedabad-review-2027-29)
-* [Top MBA Entrance Exams 2027–29: Master Guide to CAT, XAT, NMAT & SNAP](/blog/top-mba-entrance-exams-2026-guide)
-* [Best Executive MBA Colleges in Ahmedabad 2027–29](/blog/best-executive-mba-colleges-in-ahmedabad-2026)
+* [MBA in Brand Management: Top Colleges, Career Paths & Salaries](/blog/mba-brand-management-complete-review/)
+* [IRMA Anand Review 2027–29: Fees, Placements & Cutoffs](/blog/irma-anand-review-2027-29/)
+* [IIM Ahmedabad Review 2027–29: Campus, Fees & Placement Analysis](/blog/iim-ahmedabad-review-2027-29/)
+* [Top MBA Entrance Exams 2027–29: Master Guide to CAT, XAT, NMAT & SNAP](/blog/top-mba-entrance-exams-2026-guide/)
+* [Best Executive MBA Colleges in Ahmedabad 2027–29](/blog/best-executive-mba-colleges-in-ahmedabad-2026/)
 
 [InquiryCard title="Get Personalized Admission Guidance for MICA Ahmedabad 2026" subtitle="Evaluate your profile for MICAT, check CAT/XAT cutoff eligibility, and get 1-on-1 interview preparation mentorship." ctaText="Book Free Counselling Session"]
 
@@ -262,6 +262,6 @@ PGDM-C is MICA's flagship program specifically focused on Strategic Marketing an
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

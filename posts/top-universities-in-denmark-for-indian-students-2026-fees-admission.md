@@ -123,15 +123,15 @@ While not all are on our portal, these are some of Denmark's best universities t
 
 ## 📞 Expert Denmark Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [Top Universities in Sweden for Indian Students 2026](/blog/top-universities-in-sweden-for-indian-students-2026-fees-admission)
-- [Top Universities in Finland for Indian Students 2026](/blog/top-universities-in-finland-for-indian-students-2026-fees-admission)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
+- [Top Universities in Sweden for Indian Students 2026](/blog/top-universities-in-sweden-for-indian-students-2026-fees-admission/)
+- [Top Universities in Finland for Indian Students 2026](/blog/top-universities-in-finland-for-indian-students-2026-fees-admission/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 
 ---
 
@@ -153,6 +153,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

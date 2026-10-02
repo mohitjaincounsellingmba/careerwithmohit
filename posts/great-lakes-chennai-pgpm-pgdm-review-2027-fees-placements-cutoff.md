@@ -66,7 +66,7 @@ state: Tamil Nadu
 
 [InquiryCard title="Get Free MBA / PGDM Admission Guidance 2027" description="Compare top tier MBA colleges (fees, CAT/XAT/GMAT cutoffs, placements, profile shortlisting) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Great Lakes Institute of Management](/inquiry)** consistently features as a premier target institution. With its established academic credentials, **AMBA (UK), SAQS, NBA Accredited** accreditations, and distinguished **NIRF Management Rank #31 (Top Management Institute in South India)**, the institute draws thousands of competitive applicants each admissions season.
+When management aspirants shortlist premier non-IIM and top-tier private business schools in India, **[Great Lakes Institute of Management](/inquiry/)** consistently features as a premier target institution. With its established academic credentials, **AMBA (UK), SAQS, NBA Accredited** accreditations, and distinguished **NIRF Management Rank #31 (Top Management Institute in South India)**, the institute draws thousands of competitive applicants each admissions season.
 
 However, with escalating educational investments, shifting corporate hiring patterns, and rigorous entrance exam benchmarks, selecting the right business school demands an unvarnished examination of fees, median salary distributions, and campus ground reality. 
 
@@ -185,8 +185,8 @@ To help you assess comparative ROI, here is how Great Lakes Institute of Managem
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **Great Lakes Institute of Management** | **PGPM (1-Year): ₹21.50 – ₹22.50 Lakhs; PGDM (2-Year): ₹20.00 – ₹21.00 Lakhs** | **PGPM: ₹17.30 – ₹18.10 LPA; PGDM: ₹15.10 – ₹15.30 LPA** | CAT/XAT/GMAT/CMAT · CAT / XAT: 80–85+ %ile |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50L – ₹24.00L | ₹33.00 LPA | CAT/GMAT (85%+ %ile Profile / 96%+ Score) · AACSB |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.00L – ₹26.50L | ₹25.50 LPA | CAT (95%+ %ile) · Triple Accreditations |
 | **IMT Ghaziabad** | ₹21.50L – ₹22.50L | ₹17.07 LPA | CAT/XAT (90%+ %ile) · AACSB Accredited Marketing Leader |
 | **IMI New Delhi** | ₹21.00L – ₹22.20L | ₹16.70 LPA | CAT/XAT (88%+ %ile) · AACSB & AMBA Dual Accredited |
 | **Great Lakes Chennai** | ₹20.00L – ₹22.50L | ₹15.10L – ₹17.30L | CAT/XAT/GMAT/CMAT · Analytics & Tech Pioneer |
@@ -215,13 +215,13 @@ The campus is a 30-acre LEED Platinum certified green paradise located along the
 
 **Final Verdict**: For aspirants targeting top-tier management education with guaranteed corporate recognition, high faculty standards, and reliable placement trajectories, **Great Lakes Institute of Management** stands as an outstanding investment. If your entrance test scores and profile align with the expected cutoffs, submitting an early application will significantly maximize your interview shortlisting prospects.
 
-[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests)
+[👉 Book Free 1-on-1 Profile Counselling with Mohit Jain](/inquiry/) | [👉 Explore Premium MBA Mock Test Series 2027–29](/mock-tests/)
 
 ---
 
 ### 🚀 Recommended Internal Guides & Reviews
-*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29)
-*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff)
-*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff)
-*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff)
-*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [Top MBA Colleges Accepting 80 to 85 CAT Percentile](/blog/mba-colleges-accepting-cat-cut-off-80-to-85-percentile-2027-29/)
+*   [SPJIMR Mumbai Comprehensive PGDM Review](/blog/spjimr-mumbai-pgdm-review-2027-fees-placements-cutoff/)
+*   [MDI Gurgaon PGDM Admission Analysis](/blog/mdi-gurgaon-pgdm-review-2027-fees-placements-cutoff/)
+*   [IMT Ghaziabad Fees, Placements & Cutoff Guide](/blog/imt-ghaziabad-pgdm-review-2027-fees-placements-cutoff/)
+*   [10 Proven Strategies to Crack CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)

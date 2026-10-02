@@ -131,7 +131,7 @@ Placements at **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anan
 
 ## 5. Admission Selection Criteria & Expected Cutoffs 2027
 
-Admission to **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anand)** is conducted through a multi-stage evaluation process:
+Admission to **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anand/)** is conducted through a multi-stage evaluation process:
 
 ### Step-by-Step Selection Workflow
 1.  **Entrance Examination:** Appear for accepted tests (**CAT, XAT, CMAT**) and achieve the minimum qualifying percentile/score.
@@ -188,7 +188,7 @@ Candidates who are not open to rural market immersion and supply chain fieldwork
 
 ## 9. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average salary package at [Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA)?
+### Q1. What is the average salary package at [Institute of Rural Management](/colleges/institute-of-rural-management/) Anand (IRMA)?
 The verified average placement package at **Institute of Rural Management Anand (IRMA)** is **₹15.50 LPA**, with top quartile students securing offers up to **₹31.16 LPA**.
 
 ### Q2. Which entrance exams are accepted for 2027 admission?
@@ -204,7 +204,7 @@ Yes, **Institute of Rural Management Anand (IRMA)** offers merit scholarships fo
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
+*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)

@@ -73,7 +73,7 @@ If you are interested in corporate law and governance, CS (offered by **ICSI**) 
 #### **Cost & Management Accountant (CMA)**
 CMA focuses on cost management and strategic planning. It is highly valued for manufacturing and service industries.
 *   **Best for:** Students interested in business finance and cost optimization.
-*   **Internal Link:** Check out our [Finance Career Roadmap 2026](/blog/career-roadmaps-2027-29) for more details.
+*   **Internal Link:** Check out our [Finance Career Roadmap 2026](/blog/career-roadmaps-2027-29/) for more details.
 
 ---
 
@@ -82,7 +82,7 @@ CMA focuses on cost management and strategic planning. It is highly valued for m
 #### **Bachelor of Business Administration (BBA)**
 BBA is the foundation for a future MBA. It covers management basics like marketing, HR, and operations.
 *   **Why choose BBA?** It provides early exposure to corporate environments and leadership skills.
-*   **Internal Link:** Looking for options in Delhi? View the [top BBA colleges in Delhi 2026](/blog/top-bba-colleges-delhi-2026).
+*   **Internal Link:** Looking for options in Delhi? View the [top BBA colleges in Delhi 2026](/blog/top-bba-colleges-delhi-2026/).
 
 #### **Bachelor of Management Studies (BMS)**
 Similar to BBA but more focused on analytical and theoretical aspects of management. Many top universities like DU offer BMS.
@@ -97,7 +97,7 @@ The most popular degree course. B.Com (Hons) offers specializations in Accountin
 
 #### **B.Com in Finance & Accounting**
 A specialized version of B.Com that prepares you directly for roles in investment banking and equity research.
-*   **Internal Link:** Learn more about a [Career in Finance](/blog/career-in-finance-course).
+*   **Internal Link:** Learn more about a [Career in Finance](/blog/career-in-finance-course/).
 
 ---
 
@@ -127,14 +127,14 @@ For those who love hospitality and travel. This field offers international expos
 ### Final Thoughts
 Your career after 12th commerce is not just about a degree; it's about building a skillset. Start preparing early, stay updated with industry trends, and choose a path that aligns with your passion.
 
-**Still confused about your next step?** Drop a comment below or [contact our career counsellors](/inquiry) for a one-on-one session!
+**Still confused about your next step?** Drop a comment below or [contact our career counsellors](/inquiry/) for a one-on-one session!
 
 ---
 
 ### Frequently Asked Questions (FAQs)
 
 **Q1. Which course after 12th commerce has the highest salary?**
-Professional courses like **CA** and **CMA** usually offer the highest starting salaries. However, a BBA from a top-tier institute followed by an [MBA](/blog/1-year-online-mba-colleges-india-2027-29) can lead to even higher packages.
+Professional courses like **CA** and **CMA** usually offer the highest starting salaries. However, a BBA from a top-tier institute followed by an [MBA](/blog/1-year-online-mba-colleges-india-2027-29/) can lead to even higher packages.
 
 **Q2. Is math compulsory for BBA?**
 It depends on the university. While many institutes (like DU) require math for BBA, many private universities allow commerce students without math to apply.
@@ -151,6 +151,6 @@ Top options include **CA, CS, Law (LLB), Hotel Management, and Digital Marketing
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

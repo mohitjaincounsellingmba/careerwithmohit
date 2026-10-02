@@ -54,7 +54,7 @@ export function SimilarColleges({ colleges }: Props) {
       </div>
 
       <Link
-        href="/colleges"
+        href="/colleges/"
         prefetch={false}
         className="mt-4 w-full flex items-center justify-center gap-2 py-3 px-4 bg-slate-50 hover:bg-blue-50 border border-slate-100 hover:border-blue-100 rounded-2xl text-[10px] font-black uppercase tracking-widest text-slate-500 hover:text-blue-600 transition-all"
       >

@@ -95,15 +95,15 @@ The unique advantage of SSPU is its **Placement Assistance** and mandatory on-th
 *   **Campus Facilities**: World-class labs for Mechatronics and Automobile engineering, supported by industrial partners.
 
 Explore other engineering options in Pune:
-*   **[MIT-WPU Pune: B.Tech Admission Guide](/blog/mit-wpu-pune-btech-admission-2026-fees-review)**
-*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026)**
-*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026)**
-*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration)**
+*   **[MIT-WPU Pune: B.Tech Admission Guide](/blog/mit-wpu-pune-btech-admission-2026-fees-review/)**
+*   **[Bharati Vidyapeeth Pune: B.Tech Admission Guide](/blog/bharati-vidyapeeth-bvp-pune-btech-admission-2026/)**
+*   **[DY Patil International University (DYPIU): Detailed Review](/blog/dy-patil-dypiu-pune-btech-admission-2026/)**
+*   **[JoSAA Counselling 2026: Step-by-Step Guide](/blog/josaa-counselling-2026-dates-process-registration/)**
 
 **Confused Between a Skill University and a Traditional One?**
 Choosing between a "traditional" university degree and a "skills-based" one from Symbiosis is a major decision. If your goal is to be employable immediately after graduation without extra coaching, SSPU is a strong contender. At **CareerWithMohit**, we help you decide if the "Skill University" model is the right fit for your personality.
 
-[👉 Get Expert Admission Guidance for SSPU!](/inquiry)
+[👉 Get Expert Admission Guidance for SSPU!](/inquiry/)
 
 ---
 
@@ -125,6 +125,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

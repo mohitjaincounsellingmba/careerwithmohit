@@ -106,11 +106,11 @@ A B.Tech degree alone is often not enough to crack top-tier companies. Adding th
 
 | Tier | College Category | Examples | Admission Mode |
 | :--- | :--- | :--- | :--- |
-| **Tier 1** | Premier National Institutes | IITs, NITs, IIITs, [BITS Pilani](/colleges/bits-pilani) | JEE Main / JEE Advanced / BITSAT |
-| **Tier 2** | Top Private & State Univ | [VIT Vellore](/colleges/vit-vellore-campus), SRM, Thapar, DTU/NSIT | VITEEE / SRMJEEE / JEE Main |
+| **Tier 1** | Premier National Institutes | IITs, NITs, IIITs, [BITS Pilani](/colleges/bits-pilani/) | JEE Main / JEE Advanced / BITSAT |
+| **Tier 2** | Top Private & State Univ | [VIT Vellore](/colleges/vit-vellore-campus/), SRM, Thapar, DTU/NSIT | VITEEE / SRMJEEE / JEE Main |
 | **Tier 3** | Regional Private Colleges | Amity, GL Bajaj, Galgotias, Bennett | 12th Marks / Management Quota |
 
-*Read more:* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
+*Read more:* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
 
 ---
 
@@ -136,12 +136,12 @@ The salary varies heavily based on the "Brand" of your college and your speciali
 3.  **Placement Record:** Look for "Mean Package" rather than "Highest Package" to get a realistic view.
 
 ### Useful Resources:
-*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026)
-*   [Education Loan Guide for Engineering Students](/blog/education-loan-guide-mba-btech)
-*   [JEE Main College Predictor 2026](/blog/jee-main-college-predictor-2026-btech-top-colleges)
+*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026/)
+*   [Education Loan Guide for Engineering Students](/blog/education-loan-guide-mba-btech/)
+*   [JEE Main College Predictor 2026](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
 
 **Need help choosing the right branch?**
-[👉 Get Personalized Career Counselling from Mohit Jain!](/inquiry)
+[👉 Get Personalized Career Counselling from Mohit Jain!](/inquiry/)
 
 ---
 
@@ -163,6 +163,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

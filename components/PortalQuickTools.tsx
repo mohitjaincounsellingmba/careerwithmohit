@@ -120,7 +120,7 @@ export function PortalQuickTools() {
             </p>
           </div>
           <Link
-            href="/tools"
+            href="/tools/"
             className="inline-flex items-center gap-2 text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors group self-start md:self-auto"
           >
             <span>View All 20+ Free Tools</span>

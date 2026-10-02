@@ -59,10 +59,10 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Millennium Corporate Capital**: Gurugram (Gurgaon) houses 500+ Fortune 500 MNC offices, global capability centres (GCCs), and prominent startup unicorns across DLF Cyber City, Golf Course Road, and Udyog Vihar.
-> - **Top-Ranked B-Schools**: **[MDI Gurgaon](/colleges/mdi-gurgaon)** (India Top 10), **Masters’ Union** (New-Age Tech & VC), **Great Lakes Institute of Management Gurgaon**, **SOIL Institute of Management**, and **[BML Munjal University](/colleges/bml-munjal-gurgaon)**.
+> - **Top-Ranked B-Schools**: **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (India Top 10), **Masters’ Union** (New-Age Tech & VC), **Great Lakes Institute of Management Gurgaon**, **SOIL Institute of Management**, and **[BML Munjal University](/colleges/bml-munjal-gurgaon/)**.
 > - **Fee & Placement Benchmark**: Tuition fees range from ₹13.5 Lakhs to ₹30 Lakhs, with average domestic packages spanning ₹11.5 LPA to ₹30.7 LPA.
 
-### [InquiryCard title="Targeting Top Gurgaon B-Schools?" description="Compare [MDI Gurgaon](/colleges/mdi-gurgaon), Masters' Union, Great Lakes, SOIL, and BML Munjal. Get 1-on-1 profile evaluation & shortlisting from Mohit Jain." cta="Book Free Gurgaon Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Gurgaon B-Schools?" description="Compare [MDI Gurgaon](/colleges/mdi-gurgaon/), Masters' Union, Great Lakes, SOIL, and BML Munjal. Get 1-on-1 profile evaluation & shortlisting from Mohit Jain." cta="Book Free Gurgaon Consultation" type="admission"]
 
 Gurugram is India’s premier hub for global consulting, corporate finance, private equity, and enterprise technology. With global leaders like Google, Microsoft, McKinsey, Bain, BCG, American Express, Deloitte, and Zomato operating massive headquarters here, business students in Gurgaon benefit from unmatched networking, CXO mentorship, and high-paying placement opportunities.
 
@@ -74,14 +74,14 @@ In this 2027 guide, senior admission consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** (PGDM Core/HRM/IB) | Mehrauli Road, Sukhrali | ₹25.00 Lakhs | ₹27.60 LPA | CAT (95+ %ile) / GMAT (680+) |
-| **[Masters’ Union](/colleges/masters-union-gurgaon)** (PGP in Tech & Bus. Mgmt) | DLF Cyber City, Phase II | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / GRE / MU-BAAT |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** (1-Yr PGPM / 2-Yr PGDM) | Bilaspur Tauru Road | ₹17.20 Lakhs | ₹15.80 LPA | CAT / XAT / CMAT / GMAT |
-| **[SOIL Institute of Management](/colleges/soil-gurgaon)** (PGDM / 1-Yr PGPM) | Sector 44 & Manesar | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
-| **[BML Munjal University (Hero Group)](/blog/all-about-bml-munjal-university)** | NH-8, Sidhrawali | ₹13.50 Lakhs | ₹9.80 LPA | CAT / NMAT / XAT / MAT / BMU-MAT |
-| **[JK Business School (JKBS)](/blog/all-about-jk-business-school-gurugram)** (PGDM) | Sohna Road, Gurugram | ₹7.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
-| **[GD Goenka University (School of Mgmt)](/blog/all-about-gd-goenka-university)** | Sohna Road, Gurugram | ₹9.50 Lakhs | ₹6.80 LPA | MAT / CUET-PG / Direct Merit |
-| **[IILM University Gurugram](/blog/all-about-iilm-university)** (MBA) | Sector 53, Golf Course Rd | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (PGDM Core/HRM/IB) | Mehrauli Road, Sukhrali | ₹25.00 Lakhs | ₹27.60 LPA | CAT (95+ %ile) / GMAT (680+) |
+| **[Masters’ Union](/colleges/masters-union-gurgaon/)** (PGP in Tech & Bus. Mgmt) | DLF Cyber City, Phase II | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / GRE / MU-BAAT |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** (1-Yr PGPM / 2-Yr PGDM) | Bilaspur Tauru Road | ₹17.20 Lakhs | ₹15.80 LPA | CAT / XAT / CMAT / GMAT |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon/)** (PGDM / 1-Yr PGPM) | Sector 44 & Manesar | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
+| **[BML Munjal University (Hero Group)](/blog/all-about-bml-munjal-university/)** | NH-8, Sidhrawali | ₹13.50 Lakhs | ₹9.80 LPA | CAT / NMAT / XAT / MAT / BMU-MAT |
+| **[JK Business School (JKBS)](/blog/all-about-jk-business-school-gurugram/)** (PGDM) | Sohna Road, Gurugram | ₹7.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[GD Goenka University (School of Mgmt)](/blog/all-about-gd-goenka-university/)** | Sohna Road, Gurugram | ₹9.50 Lakhs | ₹6.80 LPA | MAT / CUET-PG / Direct Merit |
+| **[IILM University Gurugram](/blog/all-about-iilm-university/)** (MBA) | Sector 53, Golf Course Rd | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT |
 
 ---
 
@@ -133,7 +133,7 @@ Yes. In terms of location advantage, median CTC (₹26.5 LPA vs ₹16–18 LPA a
 Candidates must possess a recognized Bachelor's or Master's degree in any discipline. Shortlisting is based on CAT, GMAT, GRE, or the MU-BAAT exam, followed by an in-depth essay review, micro-video submission, and panel interview.
 
 ### Which is the best 1-year MBA program in Gurgaon for experienced professionals?
-[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) (1-Year PGPM) and SOIL Institute (1-Year PGPM) are excellent 1-year MBA choices for professionals with 2 to 5 years of corporate experience seeking fast-track career transitions.
+[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) (1-Year PGPM) and SOIL Institute (1-Year PGPM) are excellent 1-year MBA choices for professionals with 2 to 5 years of corporate experience seeking fast-track career transitions.
 
 ---
 
@@ -143,6 +143,6 @@ Candidates must possess a recognized Bachelor's or Master's degree in any discip
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

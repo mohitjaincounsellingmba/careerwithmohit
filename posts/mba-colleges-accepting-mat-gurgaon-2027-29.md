@@ -67,7 +67,7 @@ Offers a highly intensive PGPM (1 Year) and PGDM (2 Years) with prime tech and a
 - **Approx Tuition Fees (2 Years):** ₹19.8 Lakhs
 - **Average Placement Package:** ₹17.5 LPA
 
-### 2. [SOIL Institute of Management](/colleges/soil-gurgaon)
+### 2. [SOIL Institute of Management](/colleges/soil-gurgaon/)
 Known for design thinking, leadership-focused education, and excellent placement statistics.
 - **MAT Cutoff Percentile:** 70+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹15.5 Lakhs
@@ -85,7 +85,7 @@ Focuses on technology-driven business applications, business analytics, and digi
 - **Approx Tuition Fees (2 Years):** ₹8.00 Lakhs
 - **Average Placement Package:** ₹9.00 LPA
 
-### 5. [BML Munjal University](/colleges/bml-munjal-gurgaon)
+### 5. [BML Munjal University](/colleges/bml-munjal-gurgaon/)
 Founded by the Hero Group, offering excellent campus facilities and strong placement partnerships.
 - **MAT Cutoff Percentile:** 65+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.5 Lakhs
@@ -98,16 +98,16 @@ Founded by the Hero Group, offering excellent campus facilities and strong place
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
 | **Great Lakes Institute of Management** | 75+ Percentile | ₹19.8 Lakhs | **₹17.5 LPA** |
-| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | 70+ Percentile | ₹15.5 Lakhs | **₹11.5 LPA** |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon/)** | 70+ Percentile | ₹15.5 Lakhs | **₹11.5 LPA** |
 | **IBMR Group of Institutions** | 60+ Percentile | ₹7.50 Lakhs | **₹6.50 LPA** |
 | **JK Business School (JKBS)** | 65+ Percentile | ₹8.00 Lakhs | **₹9.00 LPA** |
-| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | 65+ Percentile | ₹13.5 Lakhs | **₹9.40 LPA** |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon/)** | 65+ Percentile | ₹13.5 Lakhs | **₹9.40 LPA** |
 
 ---
 
 ## 💡 Crucial Tips for MAT Admissions in Gurgaon
 
-1. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) is one of the premier private management colleges in Gurgaon accepting MAT scores.
+1. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) is one of the premier private management colleges in Gurgaon accepting MAT scores.
 1. SOIL Institute has a strong emphasis on HR and Business Design, offering high starting packages.
 1. Leverage the location advantage of Gurgaon by participating in local meetups and industry conferences.
 
@@ -119,14 +119,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -137,6 +137,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

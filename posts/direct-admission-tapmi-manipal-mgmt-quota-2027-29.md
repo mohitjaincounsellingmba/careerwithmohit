@@ -80,11 +80,11 @@ No, it is a profile-linked merit process conducted through the institutional quo
 ---
 
 ## 🔗 Related Resources
-- [All About TAPMI Manipal Review](/blog/all-about-tapmi)
-- [Top MBA Colleges in India 2027–29 Guide](/blog/acca-benefits-with-mba-career-guide-2027-29)
-- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india)
+- [All About TAPMI Manipal Review](/blog/all-about-tapmi/)
+- [Top MBA Colleges in India 2027–29 Guide](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india/)
 
-[👉 Want to join the TAPMI legacy? Speak to our admission experts today!](/inquiry)
+[👉 Want to join the TAPMI legacy? Speak to our admission experts today!](/inquiry/)
 
 
 
@@ -92,7 +92,7 @@ No, it is a profile-linked merit process conducted through the institutional quo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

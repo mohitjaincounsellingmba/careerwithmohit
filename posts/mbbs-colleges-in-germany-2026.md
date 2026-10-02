@@ -69,12 +69,12 @@ faqs:
 
 ## 🔗 Related Resources
 
-* [SAT, IELTS & TOEFL Exams Guide](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-* [MBBS Abroad 2026 Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
+* [SAT, IELTS & TOEFL Exams Guide](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+* [MBBS Abroad 2026 Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

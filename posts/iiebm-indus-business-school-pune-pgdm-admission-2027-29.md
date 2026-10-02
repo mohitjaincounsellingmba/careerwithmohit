@@ -69,14 +69,14 @@ location: Pune
 state: Maharashtra
 ---
 
-# [IIEBM (Indus Business School)](/colleges/iiebm-pune) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [IIEBM (Indus Business School)](/colleges/iiebm-pune/) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.25 Lakhs (Total)** (**₹4.12 Lakhs per Year**). Merit waivers for high percentiles in national entrance exams and defense wards.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, SAP ERP Collaboration.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.50 LPA**) with a highest package of **₹30.00 LPA**. 28% PPO conversion through direct SAP ERP systems integration and IT consulting tie-ups.
 
-**[IIEBM (Indus Business School)](/colleges/iiebm-pune) (IIEBM Pune)**, located in **Wakad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[IIEBM (Indus Business School)](/colleges/iiebm-pune/) (IIEBM Pune)**, located in **Wakad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **IIEBM Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -86,7 +86,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[IIEBM (Indus Business School)](/colleges/iiebm-pune)** (IIEBM Pune) |
+| **Institution Name** | **[IIEBM (Indus Business School)](/colleges/iiebm-pune/)** (IIEBM Pune) |
 | **Campus Location** | Wakad, Pune, Maharashtra |
 | **Program Offered** | **2-Year Full-Time PGDM & PGPERP (SAP Integrated)** |
 | **Degree / Diploma Type** | **PGDM** |
@@ -237,13 +237,13 @@ IIEBM Pune accepts valid percentiles from national entrance exams including CAT,
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

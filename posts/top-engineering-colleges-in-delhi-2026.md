@@ -54,7 +54,7 @@ If you are an engineering aspirant targeting admission in 2026, navigating the n
 
 > 🎓 **Compare Top Engineering Colleges & Get Admission Guidance!**
 >
-> [👉 Find My Dream College Now](/inquiry)
+> [👉 Find My Dream College Now](/inquiry/)
 
 ---
 
@@ -77,7 +77,7 @@ Formerly known as Delhi College of Engineering (DCE), DTU is a state university 
 * **Highest Placement:** ₹82.0 LPA
 * **Top Recruiters:** Amazon, Atlassian, Adobe, Palantir, Goldman Sachs
 
-## 3. [Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)
+## 3. [Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)
 NSUT (formerly NSIT) stands neck-to-neck with DTU. Located in Dwarka, it is particularly famous for its Computer Science, IT, and ECE branches. The coding culture here is top-notch, leading to stellar software placements.
 
 * **Exams Accepted:** JEE Main (Admission via JAC Delhi)
@@ -113,7 +113,7 @@ IGDTUW is India's premier technical university exclusively for women. The univer
 * **Highest Placement:** ₹82.0 LPA
 * **Top Recruiters:** Google, Microsoft, Uber, Atlassian, Intuit
 
-## 7. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)
+## 7. [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)
 A central university with a rich history, Jamia Millia Islamia offers highly subsidized engineering education with excellent ROI. It consistently ranks in the top 20 engineering colleges in the NIRF rankings.
 
 * **Exams Accepted:** JEE Main
@@ -149,14 +149,14 @@ To get into the top engineering colleges in Delhi, you must primarily focus on t
 
 Confused about choice filling in JAC Delhi or GGSIPU counselling? Unsure which college or branch to prefer based on your JEE Main rank? Let our expert counsellors guide you.
 
-[👉 Get Free B.Tech Admission Counselling 2026](/inquiry)
+[👉 Get Free B.Tech Admission Counselling 2026](/inquiry/)
 
 ---
 
 *Related Posts:*
-- [IPU B.Tech Admissions Guide 2026](/blog/acca-benefits-with-mba-career-guide-2027-29)
-- [Direct B.Tech Admission in Pune](/blog/acca-benefits-with-mba-career-guide-2027-29)
-- [Top B.Tech Colleges in India: NIRF Rankings](/colleges)
+- [IPU B.Tech Admissions Guide 2026](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [Direct B.Tech Admission in Pune](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [Top B.Tech Colleges in India: NIRF Rankings](/colleges/)
 
 ---
 
@@ -178,6 +178,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

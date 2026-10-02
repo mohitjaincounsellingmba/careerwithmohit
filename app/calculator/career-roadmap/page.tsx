@@ -318,7 +318,7 @@ export default function CareerRoadmapPage() {
                             </h2>
                         </div>
                         <Link
-                            href="/inquiry"
+                            href="/inquiry/"
                             className="inline-flex items-center gap-2 text-xs font-bold text-slate-900 bg-white border border-slate-300 px-4 py-2.5 rounded-xl hover:bg-slate-100 transition-all self-start md:self-auto"
                         >
                             Get Profile Evaluation <ChevronRight className="w-4 h-4" />
@@ -412,7 +412,7 @@ export default function CareerRoadmapPage() {
 
                     <div className="flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto">
                         <a
-                            href="/inquiry"
+                            href="/inquiry/"
                             className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs uppercase tracking-widest text-center transition-all shadow-lg shadow-amber-400/20"
                         >
                             Book Free Session

@@ -114,16 +114,16 @@ Usually held in **March**. Registrations typically open in January/February.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
-- [BCA Colleges in Chennai 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026/)
+- [BCA Colleges in Chennai 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Ready to start your code journey in the Detroit of Asia?**
 Chennai offers discipline and depth. Don't waste your years at a college without a project-based legal curriculum. Mohit Jain provides a "Chennai IT Roadmap"—ensuring you pick the college that actually gets you an internship at a Tier-1 SaaS firm.
 
-[👉 Book My Chennai MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Chennai MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -131,6 +131,6 @@ Chennai offers discipline and depth. Don't waste your years at a college without
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

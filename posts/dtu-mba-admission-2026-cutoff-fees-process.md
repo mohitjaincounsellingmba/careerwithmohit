@@ -40,7 +40,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam) aspirants.
+Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam/) aspirants.
 
 DTU offers MBA programs through two distinct campuses/departments:
 1. **Delhi School of Management (DSM)** - Located at the Main Campus (Rohini)
@@ -80,7 +80,7 @@ The admission process for DTU’s MBA program is managed through a centralized c
 2. **Personal Interview (PI) & Group Discussion (GD):** Shortlisted candidates must participate in the GD/PI rounds.
 3. **Final Merit List:** The final selection is based on a composite score comprising the entrance exam score, performance in GD/PI, past academic record, and relevant work experience.
 
-*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29).*
+*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/).*
 
 ## 3. DTU MBA Cutoff 2027–29 (Expected)
 
@@ -103,7 +103,7 @@ One of the biggest advantages of pursuing an MBA from Delhi Technological Univer
 - **Annual Tuition Breakdown:** Roughly ₹2.00 Lakhs to ₹2.50 Lakhs per year.
 - **Additional Costs:** Hostel, mess, and separate university registration charges are over and above the tuition fees. 
 
-*For more insights into managing college fees and finances, explore our [Education Loan Guide for MBA](/blog/education-loan-guide-mba-btech).*
+*For more insights into managing college fees and finances, explore our [Education Loan Guide for MBA](/blog/education-loan-guide-mba-btech/).*
 
 ## 5. DTU MBA Placements (DSM & USME)
 
@@ -118,14 +118,14 @@ The training and placement cell at DTU is centralized, allowing MBA students to 
 If you are looking for a state-university recognized MBA with fantastic ROI, strong alumni connections from the DTU engineering ecosystem, and robust specializations in fields like Business Analytics and Entrepreneurship, DTU (DSM and USME) is a stellar choice. It serves as an excellent alternative for candidates who missed out on the premier IIMs or FMS but still want high-quality education in Delhi.
 
 ---
-[👉 Confused about MBA admissions or CMAC counseling? Connect with Mohit Jain for expert, personalized guidance!](/inquiry)
+[👉 Confused about MBA admissions or CMAC counseling? Connect with Mohit Jain for expert, personalized guidance!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -140,6 +140,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -77,10 +77,10 @@ As a Central University, HNBGU maintains extremely low fees:
 *   **Amenities:** Double/triple occupancy rooms, 24/7 security, Wi-Fi, and basic medical support.
 
 ### **Check Other Placement Guides:**
-*   [Guru Ghasidas Vishwavidyalaya Review 2027–29](/blog/guru-ghasidas-vishwavidyalaya-ggv-review-2027-29)
-*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29)
+*   [Guru Ghasidas Vishwavidyalaya Review 2027–29](/blog/guru-ghasidas-vishwavidyalaya-ggv-review-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/bml-munjal-university-placement-review-2027-29/)
 
-[👉 Get Admission Consultation for HNBGU!](/inquiry)
+[👉 Get Admission Consultation for HNBGU!](/inquiry/)
 
 ---
 
@@ -98,6 +98,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

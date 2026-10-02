@@ -52,13 +52,13 @@ This list includes colleges that offer a specialized MBA in Digital Marketing or
 
 | College Name | Location | Approx. Fees (2 Years) | Admission Mode |
 | :--- | :--- | :--- | :--- |
-| **[Amity University](/colleges/amity-noida)** | Noida, Delhi NCR | ₹12.50 Lakhs | Direct / Interview |
-| **[Jain University](/colleges/jain-university)** | Bangalore | ₹9.80 Lakhs | JET / Direct |
-| **[GIBS Business School](/colleges/gibs-bangalore)** | Bangalore | ₹8.25 Lakhs | Profile Based / Direct |
+| **[Amity University](/colleges/amity-noida/)** | Noida, Delhi NCR | ₹12.50 Lakhs | Direct / Interview |
+| **[Jain University](/colleges/jain-university/)** | Bangalore | ₹9.80 Lakhs | JET / Direct |
+| **[GIBS Business School](/colleges/gibs-bangalore/)** | Bangalore | ₹8.25 Lakhs | Profile Based / Direct |
 | **ITM Business School** | Mumbai/Navi Mumbai | ₹12.45 Lakhs | Direct / Profile |
 | **LPU (Lovely Professional Univ)**| Phagwara, Punjab | ₹7.60 Lakhs | LPUNEST / Direct |
 | **Parul University** | Vadodara, Gujarat | ₹4.50 Lakhs | Direct Admission |
-| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | ₹4.20 Lakhs | Merit Based / Direct |
+| **[Galgotias University](/colleges/galgotias-university/)** | Greater Noida | ₹4.20 Lakhs | Merit Based / Direct |
 | **NIU (Noida International Univ)**| Greater Noida | ₹3.80 Lakhs | Direct Admission |
 | **CMR University** | Bangalore | ₹6.00 Lakhs | Direct Admission |
 | **IIKM Business School** | Chennai | ₹5.50 Lakhs | Direct Admission |
@@ -104,23 +104,23 @@ Graduates from these top colleges often land roles like:
 ---
 
 ## 📍 State-Wise Direct Admission Guides
-*   [Direct MBA Admission in Bangalore 2027–29](/blog/direct-mba-admission-bangalore-2027-29)
-*   [Direct MBA Admission in Mumbai 2027–29](/blog/direct-mba-admission-mumbai-2027-29)
-*   [Best MBA Colleges in Delhi NCR under 10 Lakhs](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
+*   [Direct MBA Admission in Bangalore 2027–29](/blog/direct-mba-admission-bangalore-2027-29/)
+*   [Direct MBA Admission in Mumbai 2027–29](/blog/direct-mba-admission-mumbai-2027-29/)
+*   [Best MBA Colleges in Delhi NCR under 10 Lakhs](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission/)
 
 ---
 
 ## 🎯 Related Resources
-*   [Online MBA India 2027–29: The Ultimate Guide](/blog/online-mba-india-2027-29)
-*   [NMIMS Online MBA Review: Is it Worth It?](/blog/nmims-online-mba-review-2027-29)
-*   [Career Roadmaps 2026: Building a Future-Proof Success Plan](/blog/career-roadmaps-2027-29)
+*   [Online MBA India 2027–29: The Ultimate Guide](/blog/online-mba-india-2027-29/)
+*   [NMIMS Online MBA Review: Is it Worth It?](/blog/nmims-online-mba-review-2027-29/)
+*   [Career Roadmaps 2026: Building a Future-Proof Success Plan](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ### **Confused About Which College is Best for You?**
 Don't let high fees or tough entrance exams stop your career growth. Our expert counselors help you find high-ROI colleges that fit your budget and location.
 
-**[👉 Get a Free Admission Audit Today!](/inquiry)** | **[💬 Chat with us on WhatsApp](https://wa.me/919560020771)**
+**[👉 Get a Free Admission Audit Today!](/inquiry/)** | **[💬 Chat with us on WhatsApp](https://wa.me/919560020771)**
 
 ---
 
@@ -142,6 +142,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -55,7 +55,7 @@ Key Accreditations and Facts:
 * **AICTE Approved:** Ensuring quality technical and management education.
 * **Green Campus:** Graded 4.5 stars for its eco-friendly campus initiatives.
 
-*(Considering an MBA? Don't miss our detailed [VGU Online MBA Review 2027–29](/blog/vivekananda-global-university-vgu-online-mba-review-2027-29) for in-depth insights into the management program.)*
+*(Considering an MBA? Don't miss our detailed [VGU Online MBA Review 2027–29](/blog/vivekananda-global-university-vgu-online-mba-review-2027-29/) for in-depth insights into the management program.)*
 
 ---
 
@@ -80,7 +80,7 @@ VGU provides numerous undergraduate and postgraduate courses in 100% online mode
 * **Online MA** (Master of Arts)
 * **Online M.Sc** (Master of Science)
 
-*(To explore more online options across India, check out our guide on [Online MBA in India 2027–29](/blog/online-mba-india-2027-29).)*
+*(To explore more online options across India, check out our guide on [Online MBA in India 2027–29](/blog/online-mba-india-2027-29/).)*
 
 ---
 
@@ -105,7 +105,7 @@ The university holds an impressive **4.6 out of 5** rating from student reviews,
 2. Direct access to e-books and expert lectures.
 3. Globally recognized degree accepted in both private and government sectors.
 
-*(Still have doubts about the admission process? Read our [MBA Admissions FAQ 2027–29](/blog/mba-pgdm-admissions-faq-2027-29).)*
+*(Still have doubts about the admission process? Read our [MBA Admissions FAQ 2027–29](/blog/mba-pgdm-admissions-faq-2027-29/).)*
 
 ---
 
@@ -113,7 +113,7 @@ The university holds an impressive **4.6 out of 5** rating from student reviews,
 
 **Vivekananda Global University (VGU) Online** is a powerhouse of flexible, high-quality education. With NAAC A+ accreditation, an incredible roster of placement partners, and a wide array of courses tailored to modern industry needs, it stands out as an excellent choice for 2026 admissions.
 
-[👉 Apply for VGU Online Courses](/inquiry) | [💬 Schedule a Career Counselling Session with Mohit Jain](/inquiry)
+[👉 Apply for VGU Online Courses](/inquiry/) | [💬 Schedule a Career Counselling Session with Mohit Jain](/inquiry/)
 
 ---
 
@@ -136,7 +136,7 @@ Yes, universities typically conduct online semester exams using AI-enabled or hu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -150,6 +150,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

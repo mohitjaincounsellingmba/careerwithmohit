@@ -119,9 +119,9 @@ JKBS does not offer direct admission on marks alone. They follow a holistic sele
 ---
 
 ## 🔗 Related Resources
-*   [JKBS Gurgaon BBA Review 2027–29](/blog/jkbs-gurgaon-bba-review-2026)
-*   [IBMR Gurgaon BCA Review 2027–29](/blog/ibmr-gurgaon-bca-review-2027-29)
-*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026)
+*   [JKBS Gurgaon BBA Review 2027–29](/blog/jkbs-gurgaon-bba-review-2026/)
+*   [IBMR Gurgaon BCA Review 2027–29](/blog/ibmr-gurgaon-bca-review-2027-29/)
+*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026/)
 
 ---
 
@@ -129,7 +129,7 @@ JKBS does not offer direct admission on marks alone. They follow a holistic sele
 *   **JKBS Gurgaon:** Preferred if you want a larger campus (10 acres) and a more structured, assessment-heavy selection process.
 *   **IBMR Gurgaon:** Preferred if you are on a tight budget and want a more integrated tech-management (BCA+UGPM) course.
 
-[👉 Apply to JKBS Gurgaon BCA 2026](/inquiry) | [💬 Get Expert IT Career Guidance](/inquiry)
+[👉 Apply to JKBS Gurgaon BCA 2026](/inquiry/) | [💬 Get Expert IT Career Guidance](/inquiry/)
 
 ---
 
@@ -151,7 +151,7 @@ Doing an MCA provides advanced technical expertise and is often treated on par w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -165,6 +165,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

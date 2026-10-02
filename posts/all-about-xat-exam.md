@@ -39,9 +39,9 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Discover rankings, direct admission, fees, and placement reports for top colleges in Ghaziabad, Delhi NCR. Get...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
-The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur), a Mecca for HR and Business Management.
+The Xavier Aptitude Test (XAT) is widely considered one of the toughest management entrance exams in India, often perceived as more rigorous than CAT due to its unique "Decision Making" section. It serves as the exclusive gateway to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), a Mecca for HR and Business Management.
 
 Here is the complete breakdown of the XAT exam for 2026 admissions:
 
@@ -78,14 +78,14 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 
 ## Expected Cut-offs (Percentile)
 
-- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Business Management):** 96.0+ Percentile (Male) / 91.0+ Percentile (Female)
-- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) (Business Management):** 96.0+ Percentile (Male) / 91.0+ Percentile (Female)
+- **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) (Human Resource Management):** 93.0+ Percentile (Male) / 90.0+ Percentile (Female)
 - **XIMB, IMT Ghaziabad, IMI New Delhi:** 90.0+ Percentile
 - **GIM Goa, Great Lakes Chennai, TAPMI:** 80.0+ to 85.0+ Percentile
 
 ## Top Colleges Accepting XAT Scores
 
-- [XLRI Jamshedpur](/colleges/xlri-jamshedpur) & XLRI Delhi-NCR
+- [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) & XLRI Delhi-NCR
 - XIMB (Xavier Institute of Management, Bhubaneswar)
 - IMT (Institute of Management Technology), Ghaziabad
 - IMI (International Management Institute), New Delhi
@@ -93,10 +93,10 @@ XAT is known for its lengthy reading passages and its unique inclusion of an ess
 - TAPMI (T. A. Pai Management Institute), Manipal
 - Great Lakes Institute of Management, Chennai
 - K. J. Somaiya Institute of Management, Mumbai
-- [FORE School of Management](/colleges/fore-school-delhi), New Delhi
+- [FORE School of Management](/colleges/fore-school-delhi/), New Delhi
 
 ---
-[👉 Struggling with the XAT Decision Making section? Get expert mentoring right here!](/inquiry)
+[👉 Struggling with the XAT Decision Making section? Get expert mentoring right here!](/inquiry/)
 
 ---
 
@@ -118,7 +118,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -132,6 +132,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

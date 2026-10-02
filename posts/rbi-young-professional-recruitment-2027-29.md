@@ -137,12 +137,12 @@ To apply for the RBI Young Professional recruitment, candidates must submit thei
 ---
 
 ### **Related Career & Exam Prep Resources:**
-* [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026)
-* [Free NABARD Grade A Officer Mock Test Series 2026](/blog/free-nabard-grade-a-mock-test-2026)
-* [Top Career Path Options and Success Roadmaps](/blog/career-roadmaps-2027-29)
-* [GDPI Interview Topics and Preparation Tips](/blog/gdpi-interview-topics-solutions-mba)
+* [Amazon Fresher Hiring 2026: Apply for SDE, AWS & Operations Roles](/blog/amazon-fresher-hiring-pan-india-2026/)
+* [Free NABARD Grade A Officer Mock Test Series 2026](/blog/free-nabard-grade-a-mock-test-2026/)
+* [Top Career Path Options and Success Roadmaps](/blog/career-roadmaps-2027-29/)
+* [GDPI Interview Topics and Preparation Tips](/blog/gdpi-interview-topics-solutions-mba/)
 
-[👉 Need Personalised Career or Exam Counselling? Connect with Us Today!](/inquiry)
+[👉 Need Personalised Career or Exam Counselling? Connect with Us Today!](/inquiry/)
 
 ---
 
@@ -164,6 +164,6 @@ Source: RBI Official Recruitment Notifications
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

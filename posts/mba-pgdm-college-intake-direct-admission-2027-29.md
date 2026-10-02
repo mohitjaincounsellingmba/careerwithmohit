@@ -63,7 +63,7 @@ Delhi NCR remains the top choice for students due to its massive corporate hub. 
 
 | B-School Name | Location | PGDM/MBA Intake | Direct Admission Status |
 | :--- | :--- | :--- | :--- |
-| **[Amity University](/colleges/amity-noida)** | Noida | 600+ | Open (Merit/Interview) |
+| **[Amity University](/colleges/amity-noida/)** | Noida | 600+ | Open (Merit/Interview) |
 | **IILM University** | Greater Noida | 120+ | Open (Apply Directly) |
 | **GNIOT** | Greater Noida | 240 | Open (Management Quota) |
 | **NDIM** | New Delhi | 240 | Open (PGDM Direct) |
@@ -71,7 +71,7 @@ Delhi NCR remains the top choice for students due to its massive corporate hub. 
 | **FIIB** | New Delhi | 300 (Total) | Open (Direct/CUET) |
 | **JIMS Kalkaji** | New Delhi | 180 (Total) | Open (Interview Based) |
 | **SOIL** | Gurgaon | 510 (PGDM+PGPM) | Open (Direct Route) |
-| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | 180 (Approx) | Open (Early Bird) |
+| **[Bennett University](/colleges/bennett-greater-noida/)** | Greater Noida | 180 (Approx) | Open (Early Bird) |
 
 ---
 
@@ -80,10 +80,10 @@ Pune is famous for its "High Intake" colleges. While the numbers are large, the 
 
 | College Name | MBA Intake | PGDM Intake | Total Seat Count |
 | :--- | :--- | :--- | :--- |
-| **[PIBM Pune](/colleges/pibm-pune)** | 360 | 480 | **840** |
-| **[RIIM Pune](/colleges/riim-pune)** | 300 | 300 | **600** |
+| **[PIBM Pune](/colleges/pibm-pune/)** | 360 | 480 | **840** |
+| **[RIIM Pune](/colleges/riim-pune/)** | 300 | 300 | **600** |
 | **Lexicon MILE** | 120 (Global) | 300 | **420** |
-| **[ISMS Pune](/colleges/isms-pune)** | - | - | **180+** |
+| **[ISMS Pune](/colleges/isms-pune/)** | - | - | **180+** |
 | **Indira (ISBS)** | 300+ | 120+ | **420+** |
 
 ---
@@ -114,11 +114,11 @@ Right now! Most direct admission registrations for the July 2026 batch close by 
 ---
 
 **Related Posts:**
-*   [Direct Admission in CUET MBA Colleges Delhi NCR 2027–29](/blog/direct-admission-cuet-mba-colleges-delhi-ncr-2027-29)
-*   [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg)
-*   [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
+*   [Direct Admission in CUET MBA Colleges Delhi NCR 2027–29](/blog/direct-admission-cuet-mba-colleges-delhi-ncr-2027-29/)
+*   [Top MBA Colleges Accepting CUET PG 2027–29](/blog/top-mba-colleges-cuet-pg/)
+*   [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)
 
-[👉 Need help choosing the right college? Schedule a free counseling session today!](/inquiry)
+[👉 Need help choosing the right college? Schedule a free counseling session today!](/inquiry/)
 
 
 
@@ -126,6 +126,6 @@ Right now! Most direct admission registrations for the July 2026 batch close by 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -145,18 +145,18 @@ For future leaders, it is a timeless lesson: **when you optimize processes for m
 ---
 
 ### **Related Healthcare & Operations Case Studies:**
-*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system)
-*   [Amul Cooperative Model: Cold-Chain Logistics & Reverse Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain)
-*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization)
+*   [Mumbai Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System](/blog/mumbai-dabbawalas-six-sigma-operations-coding-system/)
+*   [Amul Cooperative Model: Cold-Chain Logistics & Reverse Supply Chain Success](/blog/amul-cooperative-cold-chain-logistics-supply-chain/)
+*   [Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets](/blog/southwest-airlines-indigo-ultra-fast-turnaround-fleet-standardization/)
 
-[👉 Preparing for an MBA interview in Operations? Get mock interview prep with Mohit Jain!](/inquiry)
+[👉 Preparing for an MBA interview in Operations? Get mock interview prep with Mohit Jain!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -167,6 +167,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

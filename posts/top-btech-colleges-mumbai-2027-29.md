@@ -11,7 +11,7 @@ keywords:
   - best engineering colleges mumbai 2026
   - mht cet cutoff mumbai colleges
   - engineering college mumbai fees
-  - '[IIT Bombay](/colleges/iit-bombay) admission 2026'
+  - '[IIT Bombay](/colleges/iit-bombay/) admission 2026'
   - VJTI Mumbai admission
   - KJ Somaiya btech
   - direct admission btech mumbai
@@ -24,7 +24,7 @@ keywords:
 faqs:
   - question: Which is the best B.Tech college in Mumbai?
     answer: >-
-      [IIT Bombay](/colleges/iit-bombay) is the #1 ranked engineering college in
+      [IIT Bombay](/colleges/iit-bombay/) is the #1 ranked engineering college in
       India. For state-level government colleges, VJTI Mumbai is the gold
       standard. Among private colleges, KJ Somaiya and NMIMS MPSTME are highly
       regarded.
@@ -54,7 +54,7 @@ state: Maharashtra
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
 
-Mumbai — India's financial capital and a major tech and entrepreneurship hub — is home to some of the country's finest engineering institutions. From [IIT Bombay](/colleges/iit-bombay) (consistently ranked #1 in India) to VJTI, KJ Somaiya, and SPIT, a B.Tech degree from Mumbai opens doors to elite placements in finance, fintech, IT, and manufacturing.
+Mumbai — India's financial capital and a major tech and entrepreneurship hub — is home to some of the country's finest engineering institutions. From [IIT Bombay](/colleges/iit-bombay/) (consistently ranked #1 in India) to VJTI, KJ Somaiya, and SPIT, a B.Tech degree from Mumbai opens doors to elite placements in finance, fintech, IT, and manufacturing.
 
 This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified fees, MHT CET / JEE cutoffs, and placement data.
 
@@ -64,7 +64,7 @@ This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified f
 
 | College | Type | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| [IIT Bombay](/colleges/iit-bombay) | Government (IIT) | ₹2.5 L/yr | ₹22–35 LPA | JEE Advanced |
+| [IIT Bombay](/colleges/iit-bombay/) | Government (IIT) | ₹2.5 L/yr | ₹22–35 LPA | JEE Advanced |
 | VJTI Mumbai | Government (Autonomous) | ₹0.25 L/yr | ₹7–12 LPA | MHT CET / JEE Main |
 | SPCE (SPIT) | Government Aided | ₹0.30 L/yr | ₹6–10 LPA | MHT CET |
 | DJ Sanghvi | Private Aided | ₹0.35 L/yr | ₹6–10 LPA | MHT CET |
@@ -83,8 +83,8 @@ This guide covers the **top B.Tech colleges in Mumbai for 2026** with verified f
 
 ## Tier 1 — IIT & Government Elite
 
-### 1. [IIT Bombay](/colleges/iit-bombay) (IITB)
-[IIT Bombay](/colleges/iit-bombay) is India's #1 ranked engineering institution (NIRF 2024) and consistently among Asia's best universities. Its placements and alumni network are unmatched in the country.
+### 1. [IIT Bombay](/colleges/iit-bombay/) (IITB)
+[IIT Bombay](/colleges/iit-bombay/) is India's #1 ranked engineering institution (NIRF 2024) and consistently among Asia's best universities. Its placements and alumni network are unmatched in the country.
 
 - **Courses:** B.Tech in CSE, EE, ME, Chemical, Civil, Aerospace, Engineering Physics + Dual Degrees
 - **Admission:** JEE Advanced → JoSAA Counselling
@@ -121,7 +121,7 @@ One of Mumbai's most reputed private engineering institutions with a strong CSE 
 - **Avg Package:** ₹8–15 LPA | Highest: ₹45 LPA (Goldman Sachs)
 - **NAAC Rating:** A+
 
-### 5. NMIMS MPSTME (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) — School of Technology)
+### 5. NMIMS MPSTME (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida/) — School of Technology)
 Part of the NMIMS Deemed University, MPSTME offers excellent industry connections particularly in fintech, banking tech, and AI.
 
 - **Courses:** B.Tech CSE (specialisations: AI, Data Science, Blockchain), ECE, Mechanical
@@ -141,7 +141,7 @@ TSEC is Bandra-based and consistently ranked in Mumbai's top 10, especially popu
 - **Admission:** MHT CET | **Fee:** ₹35,000/yr | **Avg Package:** ₹5–9 LPA
 
 ### 8. Vidyalankar Institute of Technology (VIT Mumbai)
-Not to be confused with [VIT Vellore](/colleges/vit-vellore-campus). VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
+Not to be confused with [VIT Vellore](/colleges/vit-vellore-campus/). VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
 
 - **Admission:** MHT CET / Direct Quota | **Fee:** ₹1.4 L/yr | **Avg Package:** ₹5–8 LPA
 
@@ -151,7 +151,7 @@ Not to be confused with [VIT Vellore](/colleges/vit-vellore-campus). VIT Mumbai 
 
 | Exam | Applicable Colleges | Exam Month |
 |---|---|---|
-| JEE Advanced 2026 | [IIT Bombay](/colleges/iit-bombay) | May 2026 |
+| JEE Advanced 2026 | [IIT Bombay](/colleges/iit-bombay/) | May 2026 |
 | MHT CET 2026 | VJTI, SPIT, DJSCE, TSEC, FCRIT | Apr–May 2026 |
 | NMIMS NPAT 2026 | NMIMS MPSTME | Apr 2026 |
 | JEE Main 2026 | KJ Somaiya (Merit) | Jan, Apr 2026 |
@@ -167,7 +167,7 @@ Maharashtra's Centralised Admission Process (CAP) is crucial for all government 
 - **Round 1 Allotment:** July 2026
 - **Admission Closes:** August 2026
 
-[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
+[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
 
 ---
 
@@ -185,7 +185,7 @@ If your MHT CET score is below the cutoff, management quota (15% of seats) is av
 ## FAQs — B.Tech Colleges in Mumbai 2026
 
 **Q1. Which is the best B.Tech college in Mumbai?**
-[IIT Bombay](/colleges/iit-bombay) is the #1 ranked engineering college in India. For state-level government colleges, VJTI Mumbai is the gold standard. Among private colleges, KJ Somaiya and NMIMS MPSTME are highly regarded.
+[IIT Bombay](/colleges/iit-bombay/) is the #1 ranked engineering college in India. For state-level government colleges, VJTI Mumbai is the gold standard. Among private colleges, KJ Somaiya and NMIMS MPSTME are highly regarded.
 
 **Q2. What MHT CET score is needed for VJTI Mumbai CSE?**
 Typically, a percentile of 99.5+ or a raw score above 135/150 is needed for VJTI CSE in open category. Competition is extremely high.
@@ -203,15 +203,15 @@ A few private colleges have started accepting CUET scores as part of their merit
 
 ## Useful Resources
 
-- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
-- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [JoSAA Counselling 2026 Dates & Process](/blog/josaa-counselling-2026-dates-process-registration)
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
+- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [JoSAA Counselling 2026 Dates & Process](/blog/josaa-counselling-2026-dates-process-registration/)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Confused between Mumbai B.Tech college options? Get a FREE expert counselling session with Mohit!](/inquiry)**
+**[👉 Confused between Mumbai B.Tech college options? Get a FREE expert counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -219,7 +219,7 @@ A few private colleges have started accepting CUET scores as part of their merit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -233,6 +233,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

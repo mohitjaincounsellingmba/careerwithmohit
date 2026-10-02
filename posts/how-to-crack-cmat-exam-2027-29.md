@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Planning to crack CMAT 2026? Learn how to tackle the Innovation &
   Entrepreneurship section, score 340+ marks, and secure admission into [JBIMS
-  Mumbai](/colleges/jbims-mumbai).
+  Mumbai](/colleges/jbims-mumbai/).
 keywords:
   - how to crack cmat exam
   - crack cmat 2026
@@ -39,7 +39,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-The Common Management Admission Test (CMAT) is a national-level entrance exam conducted by the National Testing Agency (NTA). It is one of the most popular MBA exams in India because its scores are accepted by over 1,000+ AICTE-approved B-schools. Additionally, CMAT is the primary gateway to the legendary **[JBIMS Mumbai](/colleges/jbims-mumbai)** (often called the CEO factory of India) for non-MH-CET candidates.
+The Common Management Admission Test (CMAT) is a national-level entrance exam conducted by the National Testing Agency (NTA). It is one of the most popular MBA exams in India because its scores are accepted by over 1,000+ AICTE-approved B-schools. Additionally, CMAT is the primary gateway to the legendary **[JBIMS Mumbai](/colleges/jbims-mumbai/)** (often called the CEO factory of India) for non-MH-CET candidates.
 
 Unlike CAT or SNAP, CMAT is not a speed test. It provides a generous **180 minutes for 100 questions**. To crack CMAT 2026, the key focus is **absolute accuracy and mastering specialized sections**.
 
@@ -97,7 +97,7 @@ This section is highly scoring.
 ## 💡 3. Key Tips to Score 340+ in CMAT 2026
 
 *   **Patience is Key:** With 3 hours for 100 questions, time pressure is non-existent. Take your time to calculate, check options, and double-verify answers before submitting.
-*   **The 99.9 Percentile Rule:** Because CMAT is relatively easy, the competition at the top is fierce. To get into [JBIMS Mumbai](/colleges/jbims-mumbai), you need to score around **340+ marks out of 400**.
+*   **The 99.9 Percentile Rule:** Because CMAT is relatively easy, the competition at the top is fierce. To get into [JBIMS Mumbai](/colleges/jbims-mumbai/), you need to score around **340+ marks out of 400**.
 *   **GK & I&E First:** Complete these two sections in the first 25 minutes. This leaves you with a massive 155 minutes to solve the 60 questions of Quant, LR, and English.
 
 ---
@@ -106,11 +106,11 @@ This section is highly scoring.
 
 | College | Expected CMAT Cutoff | Placement Highlight |
 |:---|:---:|:---|
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | 99.99 Percentile (~345+ Marks) | Average Placement: **₹27+ LPA** (Low Fee Structure) |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | 99.99 Percentile (~345+ Marks) | Average Placement: **₹27+ LPA** (Low Fee Structure) |
 | **SIMSREE Mumbai** | 99.9+ Percentile (~330+ Marks) | High ROI, excellent finance placements |
 | **Great Lakes Chennai** | 95.0 - 98.0+ Percentile | Renowned 1-year MBA program |
 | **GIM Goa** | 95.0 - 97.0+ Percentile | Beautiful campus, excellent corporate exposure |
-| **[PUMBA Pune](/colleges/pumba-pune)** | 95.0+ Percentile | Low fees, good placements in Pune region |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | 95.0+ Percentile | Low fees, good placements in Pune region |
 
 ---
 
@@ -128,13 +128,13 @@ Yes. Since the difficulty level is moderate, you can easily crack CMAT by studyi
 ---
 
 ### Related Articles:
-*   [All About CMAT Exam 2026: Pattern, Innovation, Cutoff & Colleges](/blog/all-about-cmat-exam)
-*   [MAT & CMAT Admissions: Top Acceptable Colleges](/blog/mat-2026-cmat-2026-colleges-admission-guide)
-*   [Top MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
+*   [All About CMAT Exam 2026: Pattern, Innovation, Cutoff & Colleges](/blog/all-about-cmat-exam/)
+*   [MAT & CMAT Admissions: Top Acceptable Colleges](/blog/mat-2026-cmat-2026-colleges-admission-guide/)
+*   [Top MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

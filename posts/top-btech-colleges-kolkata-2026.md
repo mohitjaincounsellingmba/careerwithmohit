@@ -67,11 +67,11 @@ This guide covers the **top B.Tech engineering colleges in Kolkata for 2026**, w
 | Jadavpur University | State Govt (Autonomous) | ₹0.40 L/yr | ₹6–12 LPA | WBJEE |
 | IIEST Shibpur | Central Govt | ₹1.0 L/yr | ₹6–10 LPA | JEE Main / WBJEE |
 | Heritage Institute of Tech. | Private | ₹1.4 L/yr | ₹5–9 LPA | WBJEE |
-| [Techno India University](/colleges/techno-india-university-kolkata) | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
+| [Techno India University](/colleges/techno-india-university-kolkata/) | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
 | RCC Institute of Information Tech. | Private | ₹0.85 L/yr | ₹4–7 LPA | WBJEE |
 | MAKAUT (WBUT) Affiliated Colleges | Private | ₹0.75 L/yr | ₹3.5–6 LPA | WBJEE |
 | JIS University | Private | ₹1.0 L/yr | ₹4–7 LPA | WBJEE / Direct |
-| [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) | Private | ₹1.1 L/yr | ₹4–6 LPA | Direct |
+| [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/) | Private | ₹1.1 L/yr | ₹4–6 LPA | Direct |
 
 ---
 
@@ -104,7 +104,7 @@ Consistently Kolkata's top private engineering college, affiliated with MAKAUT (
 
 - **Admission:** WBJEE | **Fee:** ₹1.4 L/yr | **Avg Package:** ₹5–9 LPA
 
-### 4. [Techno India University](/colleges/techno-india-university-kolkata), Salt Lake
+### 4. [Techno India University](/colleges/techno-india-university-kolkata/), Salt Lake
 Located in Kolkata's Salt Lake tech hub (home to TCS, Wipro, Infosys campuses), Techno India offers IT-focused education with strong proximity to placement opportunities.
 
 - **Admission:** WBJEE / Direct | **Fee:** ₹1.0 L/yr | **Avg Package:** ₹4–7 LPA
@@ -163,14 +163,14 @@ Jadavpur University charges approximately ₹40,000 per year — one of the lowe
 
 ## Useful Resources
 
-- [JoSAA Counselling 2026 — Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [JoSAA Counselling 2026 — Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Need help choosing the right Kolkata engineering college? Get a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Need help choosing the right Kolkata engineering college? Get a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -178,6 +178,6 @@ Jadavpur University charges approximately ₹40,000 per year — one of the lowe
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

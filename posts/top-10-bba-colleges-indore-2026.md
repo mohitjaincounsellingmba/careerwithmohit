@@ -44,7 +44,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Indore for 2026** to help
 
 ## 🏆 Top 10 BBA Colleges in Indore (2026 Rankings)
 
-### 1. [IIM Indore](/colleges/iim-indore) (IPMAT)
+### 1. [IIM Indore](/colleges/iim-indore/) (IPMAT)
 - **Approximate Annual Fees:** ₹5.0 Lakhs
 - **Entrance Exam / Admission Process:** IPMAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -100,7 +100,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Indore for 2026** to help
 
 | Rank | College Name | Entrance Exam | Annual Fees |
 | :--- | :--- | :--- | :--- |
-| **1** | **[IIM Indore](/colleges/iim-indore) (IPMAT)** | IPMAT | ₹5.0 Lakhs |
+| **1** | **[IIM Indore](/colleges/iim-indore/) (IPMAT)** | IPMAT | ₹5.0 Lakhs |
 | **2** | **NMIMS Indore** | NPAT | ₹2.8 Lakhs |
 | **3** | **Prestige Institute of Management** | Merit | ₹1.5 Lakhs |
 | **4** | **IPS Academy** | Merit | ₹1.2 Lakhs |
@@ -120,16 +120,16 @@ Admissions to the top BBA programs are highly competitive. It is advisable to tr
 ---
 
 ## 🔗 Related Resources
-- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide)
-- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota)
+- [Best BBA Specializations for 2026](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA vs BCom vs BMS: Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Direct BBA Admission 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
 ## 📞 Need Admission Assistance in Indore?
 Securing a seat in a top BBA college can be overwhelming. From tracking cutoffs to preparing for personal interviews, expert guidance makes a huge difference.
 
-[👉 Build My BBA Roadmap](/inquiry) | [💬 Schedule a Private Profile Review](/inquiry)
+[👉 Build My BBA Roadmap](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -57,13 +57,13 @@ If you want to work on projects like ChatGPT, self-driving algorithms, or global
 
 | College | Specialization Offered | Entrance Exam | Avg. Package |
 |---|---|---|---|
-| **[VIT Vellore](/colleges/vit-vellore-campus)** | AI & Machine Learning | VITMEE | ₹8.5 - 14.5 LPA |
+| **[VIT Vellore](/colleges/vit-vellore-campus/)** | AI & Machine Learning | VITMEE | ₹8.5 - 14.5 LPA |
 | **MIT-WPU Pune** | Data Science & Cloud | MIT-WPU CET | ₹7.0 - 11.5 LPA |
-| **[PES University](/colleges/pesu-bangalore)** | Big Data & Analytics | PESSAT / PGCET| ₹8.0 - 13.0 LPA |
+| **[PES University](/colleges/pesu-bangalore/)** | Big Data & Analytics | PESSAT / PGCET| ₹8.0 - 13.0 LPA |
 | **SICSR Pune** | Data Science & NLP | SNAP / Merit | ₹7.5 - 11.0 LPA |
 | **SRM IST** | Artificial Intelligence | SRM JEE-M | ₹7.0 - 10.5 LPA |
 | **Bennett Univ** | Generative AI & Cloud | Merit / CUET | ₹6.5 - 9.5 LPA |
-| **[Amity University](/colleges/amity-noida)** | Data Science | Merit-based | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida/)** | Data Science | Merit-based | ₹5.5 - 8.5 LPA |
 
 ---
 
@@ -113,16 +113,16 @@ In 2026, you should choose it **at the time of admission**. Waiting until the 3r
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [NIMCET 2026 Exam Strategy](/blog/nimcet-2026-exam-strategy-guide)
-- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [NIMCET 2026 Exam Strategy](/blog/nimcet-2026-exam-strategy-guide/)
+- [BCA Colleges in Delhi NCR 2026](/blog/top-bca-colleges-delhi-ncr-2027-29/)
 
 ---
 
 **Are You Ready for the AI Revolution?**
 The industry is changing. Don't graduate with a degree that's already obsolete. Mohit Jain provides a "Future-Tech Audit"—helping you pick the specialized MCA that puts you in the engine room of the next big tech revolution.
 
-[👉 Book My Specialized MCA Consultation](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Specialized MCA Consultation](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -130,6 +130,6 @@ The industry is changing. Don't graduate with a degree that's already obsolete. 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

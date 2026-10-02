@@ -41,7 +41,7 @@ category: Exams
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹9.50 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-The **[Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH)**, Greater Noida, is a premier name in Indian management education, consistently ranked among the top private B-schools. In 2026, its **Online PGDM program** has become a top choice for working professionals, thanks to its prestigious **AACSB accreditation**—a global gold standard held by less than 5% of business schools worldwide.
+The **[Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH)**, Greater Noida, is a premier name in Indian management education, consistently ranked among the top private B-schools. In 2026, its **Online PGDM program** has become a top choice for working professionals, thanks to its prestigious **AACSB accreditation**—a global gold standard held by less than 5% of business schools worldwide.
 
 <div style="margin: 40px 0; text-align: center;">
   <a href="https://cvadm.com/lR049a" style="display: inline-block; background-color: #000; color: #fff; padding: 20px 40px; font-size: 24px; font-weight: 900; text-transform: uppercase; text-decoration: none; border: 6px solid #000; box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);">
@@ -96,22 +96,22 @@ BIMTECH's online students benefit from the same robust corporate infrastructure 
 ## **Internal Links & Related Reading**
 
 Plan your management journey with our expert resources:
-*   [Direct Admission Guidance: BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026)
-*   [BIMTECH Greater Noida: 2025 Placement Report](/blog/bimtech-greater-noida-placement-review-2025)
-*   [Overall Guide to Online MBA India 2027–29](/blog/online-mba-india-2027-29)
-*   [Review: IIT Delhi Online Executive Programs 2026](/blog/iit-delhi-online-executive-programs-2027-29)
+*   [Direct Admission Guidance: BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)
+*   [BIMTECH Greater Noida: 2025 Placement Report](/blog/bimtech-greater-noida-placement-review-2025/)
+*   [Overall Guide to Online MBA India 2027–29](/blog/online-mba-india-2027-29/)
+*   [Review: IIT Delhi Online Executive Programs 2026](/blog/iit-delhi-online-executive-programs-2027-29/)
 
 **Still Unsure About BIMTECH Online?**
 Selecting the right PGDM can be life-changing. At **CareerWithMohit**, we provide 100% unbiased guidance to help you find the best ROI college for your profile.
 
-[👉 Get Expert Advice on Your PGDM Journey!](/inquiry)
+[👉 Get Expert Advice on Your PGDM Journey!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -127,7 +127,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -141,6 +141,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -57,7 +57,7 @@ state: Delhi NCR
 
 ---
 
-The **Common Admission Test (CAT 2026)** is the undisputed gateway to India's 21 Indian Institutes of Management (IIMs) and over 1,200 premier business schools, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.
+The **Common Admission Test (CAT 2026)** is the undisputed gateway to India's 21 Indian Institutes of Management (IIMs) and over 1,200 premier business schools, including [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), and IIT management departments.
 
 Every year, over 3.3 lakh MBA aspirants register for CAT. However, thousands of candidates miss out due to payment errors, missing OBC-NCL/EWS certificates, or waiting until the final hours. Here is the definitive schedule for the **CAT exam 2027–29 last date of registration**, required documentation, application fees, and step-by-step instructions.
 
@@ -65,7 +65,7 @@ Every year, over 3.3 lakh MBA aspirants register for CAT. However, thousands of 
 
 > 🎯 **Planning your percentile strategy?**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator/)
 
 ---
 
@@ -155,10 +155,10 @@ Follow these five steps before the registration last date:
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
-| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU Equivalent |
 | **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/CMAT (65%+ %ile) · IIM-A Alumni Faculty |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
@@ -181,7 +181,7 @@ After the registration closes, the convening IIM opens a limited **3-day correct
 1. **Waiting for the Last Day:** Over 80,000 students attempt to submit applications in the final 48 hours, causing payment gateways to freeze.
 2. **Uploading State-Format Caste Certificates:** IIMs strictly demand **Central List** formats for NC-OBC and EWS certificates.
 3. **Incorrect CGPA Conversion:** Never use a default 9.5 multiplier unless your university's official transcript explicitly specifies it.
-4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IITs require separate forms.
+4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like [FMS Delhi](/colleges/fms-delhi/), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon/), and IITs require separate forms.
 
 ---
 
@@ -202,17 +202,17 @@ CAT 2026 will be conducted on **November 29, 2026 (Sunday)** in three computer-b
 ---
 
 ### Related Articles & Useful Resources
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)
-* [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test)
-* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam/)
+* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+* [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test/)
+* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

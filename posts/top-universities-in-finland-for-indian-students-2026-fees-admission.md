@@ -129,15 +129,15 @@ Finland has the **world's best education system** — consistently ranked #1 glo
 
 ## 📞 Expert Finland Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2027-29)
-- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
+- [How to Learn German Language 2026](/blog/how-to-learn-german-language-2027-29/)
+- [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
 
 ---
 
@@ -159,6 +159,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

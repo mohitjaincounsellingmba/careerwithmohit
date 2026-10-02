@@ -64,7 +64,7 @@ But does the brand name translate to real-world value? In this honest and data-d
 ## ✅ Why Choose NMIMS for Your Online MBA?
 
 ### 1. The Heritage of Excellence
-[NMIMS Mumbai](/colleges/nmims-mumbai) is a household name in management education. While the online program is different from the regular on-campus MBA, it inherits the same rigorous academic standards and industry-aligned curriculum that the brand is known for.
+[NMIMS Mumbai](/colleges/nmims-mumbai/) is a household name in management education. While the online program is different from the regular on-campus MBA, it inherits the same rigorous academic standards and industry-aligned curriculum that the brand is known for.
 
 ### 2. Industry-Relevant Specializations
 NMIMS offers a wide array of specializations that are updated for the 2026 job market:
@@ -123,30 +123,30 @@ Admission to the NMIMS Online MBA is merit-based. You don't need a CAT/NMAT scor
 *   You want academic flexibility without compromising on quality.
 
 **The NMIMS Online MBA is a "No" if:**
-*   You are a fresher expecting a ₹15 LPA campus placement (Opt for a [Regular MBA in Delhi](/blog/best-mba-colleges-in-delhi-2027-29) instead).
+*   You are a fresher expecting a ₹15 LPA campus placement (Opt for a [Regular MBA in Delhi](/blog/best-mba-colleges-in-delhi-2027-29/) instead).
 *   You prefer face-to-face networking over virtual interactions.
 
 ---
 
 ## 📍 internal Links & Related Reading
-*   [Overall Guide to Online MBA in India 2027–29](/blog/online-mba-india-2027-29)
-*   [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2027-29)
-*   [Jain University Online MBA Review](/blog/jain-university-online-mba-review-2027-29)
-*   [Honeyst Review: Why You Should NEVER Join NMIMS Online MBA](/blog/why-never-join-nmims-online-mba-honest-review-2027-29) (A Critical Perspective)
+*   [Overall Guide to Online MBA in India 2027–29](/blog/online-mba-india-2027-29/)
+*   [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2027-29/)
+*   [Jain University Online MBA Review](/blog/jain-university-online-mba-review-2027-29/)
+*   [Honeyst Review: Why You Should NEVER Join NMIMS Online MBA](/blog/why-never-join-nmims-online-mba-honest-review-2027-29/) (A Critical Perspective)
 
 ---
 
 ### **Need Help Choosing the Right College?**
 Confused between NMIMS, Amity, or LPU? Don't make a decision in haste. We help you find the best ROI college based on your profile.
 
-**[👉 Speak to an Honest Consultant Now!](/inquiry)** | **[💬 WhatsApp Us](https://wa.me/919560020771)**
+**[👉 Speak to an Honest Consultant Now!](/inquiry/)** | **[💬 WhatsApp Us](https://wa.me/919560020771)**
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -162,7 +162,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -176,6 +176,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -53,11 +53,11 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Bangalore (Indian Institute of Management)](/colleges/iim-bangalore)** | CAT | ₹24.5 Lakhs (Total) | **₹35.31 LPA** |
-| **[Christ University (School of Business and Management)](/colleges/christ-university-bangalore)** | CAT / XAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹8.20 LPA** |
-| **[Welingkar Bangalore (WeSchool)](/colleges/welingkar-bangalore)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹10.50 LPA** |
-| **[SIBM Bangalore (Symbiosis Institute of Business Management)](/colleges/sibm-bangalore)** | SNAP | ₹18.0 Lakhs (Total) | **₹14.50 LPA** |
-| **[XIME Bangalore (Xavier Institute of Management & Entrepreneurship)](/colleges/xime-bangalore)** | CAT / XAT / MAT / CMAT | ₹12.5 Lakhs (Total) | **₹9.20 LPA** |
+| **[IIM Bangalore (Indian Institute of Management)](/colleges/iim-bangalore/)** | CAT | ₹24.5 Lakhs (Total) | **₹35.31 LPA** |
+| **[Christ University (School of Business and Management)](/colleges/christ-university-bangalore/)** | CAT / XAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹8.20 LPA** |
+| **[Welingkar Bangalore (WeSchool)](/colleges/welingkar-bangalore/)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹10.50 LPA** |
+| **[SIBM Bangalore (Symbiosis Institute of Business Management)](/colleges/sibm-bangalore/)** | SNAP | ₹18.0 Lakhs (Total) | **₹14.50 LPA** |
+| **[XIME Bangalore (Xavier Institute of Management & Entrepreneurship)](/colleges/xime-bangalore/)** | CAT / XAT / MAT / CMAT | ₹12.5 Lakhs (Total) | **₹9.20 LPA** |
 
 ---
 
@@ -78,31 +78,31 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Bangalore
 
-### 1. [IIM Bangalore (Indian Institute of Management)](/colleges/iim-bangalore)
+### 1. [IIM Bangalore (Indian Institute of Management)](/colleges/iim-bangalore/)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.31 LPA**
 - **Key Highlight:** Offers a world-class PGP-BA (Business Analytics) program with premium analytics consulting placements.
 
-### 2. [Christ University (School of Business and Management)](/colleges/christ-university-bangalore)
+### 2. [Christ University (School of Business and Management)](/colleges/christ-university-bangalore/)
 - **Approximate Fees:** ₹9.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / MAT / CMAT
 - **Average Placement Package:** **₹8.20 LPA**
 - **Key Highlight:** Disciplined management environment offering a highly sought-after MBA in Business Analytics.
 
-### 3. [Welingkar Bangalore (WeSchool)](/colleges/welingkar-bangalore)
+### 3. [Welingkar Bangalore (WeSchool)](/colleges/welingkar-bangalore/)
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / ATMA
 - **Average Placement Package:** **₹10.50 LPA**
 - **Key Highlight:** Offers a dedicated PGDM in Business Analytics program integrating design thinking and data modeling.
 
-### 4. [SIBM Bangalore (Symbiosis Institute of Business Management)](/colleges/sibm-bangalore)
+### 4. [SIBM Bangalore (Symbiosis Institute of Business Management)](/colleges/sibm-bangalore/)
 - **Approximate Fees:** ₹18.0 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹14.50 LPA**
 - **Key Highlight:** Features strong quantitative curricula and proximity to Electronic City corporate giants.
 
-### 5. [XIME Bangalore (Xavier Institute of Management & Entrepreneurship)](/colleges/xime-bangalore)
+### 5. [XIME Bangalore (Xavier Institute of Management & Entrepreneurship)](/colleges/xime-bangalore/)
 - **Approximate Fees:** ₹12.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / MAT / CMAT
 - **Average Placement Package:** **₹9.20 LPA**
@@ -119,9 +119,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -131,24 +131,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [IIM Bangalore](/colleges/iim-bangalore)'s PGP-BA program highly prestigious?
-[IIM Bangalore](/colleges/iim-bangalore)'s PGP-BA is one of the absolute best business analytics programs in the world, combining rigorous mathematical modeling with strategic business management, yielding average packages exceeding INR 35 LPA.
+### Why is [IIM Bangalore](/colleges/iim-bangalore/)'s PGP-BA program highly prestigious?
+[IIM Bangalore](/colleges/iim-bangalore/)'s PGP-BA is one of the absolute best business analytics programs in the world, combining rigorous mathematical modeling with strategic business management, yielding average packages exceeding INR 35 LPA.
 
 ### Is Welingkar Bangalore good for Business Analytics?
 Yes, Welingkar Bangalore offers a specialized PGDM program in Business Analytics that provides training in data mining, python, dashboarding, and marketing analytics.
 
-### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore) MBA in Business Analytics?
+### What is the fee for [Christ University Bangalore](/colleges/christ-university-bangalore/) MBA in Business Analytics?
 The total tuition fee is approximately INR 9.5 Lakhs, offering solid return on investment with good corporate recruitment cycles.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

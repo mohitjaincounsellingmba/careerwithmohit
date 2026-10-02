@@ -50,8 +50,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[UPES Dehradun](/colleges/upes-dehradun) (School of Business)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
-| **[Doon Business School](/colleges/doon-business-school) (DBS)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
+| **[UPES Dehradun](/colleges/upes-dehradun/) (School of Business)** | UPESMET / CAT / MAT / CMAT | ₹16.5 Lakhs (Total) | **₹8.40 LPA** |
+| **[Doon Business School](/colleges/doon-business-school/) (DBS)** | CAT / MAT / CMAT | ₹8.5 Lakhs (Total) | **₹6.90 LPA** |
 | **Graphic Era University (GEU)** | CAT / MAT / CMAT | ₹7.2 Lakhs (Total) | **₹6.20 LPA** |
 
 ---
@@ -73,13 +73,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Dehradun
 
-### 1. [UPES Dehradun](/colleges/upes-dehradun) (School of Business)
+### 1. [UPES Dehradun](/colleges/upes-dehradun/) (School of Business)
 - **Approximate Fees:** ₹16.5 Lakhs (Total)
 - **Accepted Entrance Exams:** UPESMET / CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.40 LPA**
 - **Key Highlight:** Niche management tracks including specialized training in compensation, benefits, and industrial relations.
 
-### 2. [Doon Business School](/colleges/doon-business-school) (DBS)
+### 2. [Doon Business School](/colleges/doon-business-school/) (DBS)
 - **Approximate Fees:** ₹8.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹6.90 LPA**
@@ -102,9 +102,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -114,24 +114,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### What are the key specializations in [UPES Dehradun](/colleges/upes-dehradun) for MBA HR?
-[UPES Dehradun](/colleges/upes-dehradun) offers specialized tracks that blend core strategic HR with technology, compensation structure designs, and modern labor laws.
+### What are the key specializations in [UPES Dehradun](/colleges/upes-dehradun/) for MBA HR?
+[UPES Dehradun](/colleges/upes-dehradun/) offers specialized tracks that blend core strategic HR with technology, compensation structure designs, and modern labor laws.
 
-### Does [Doon Business School](/colleges/doon-business-school) offer good HR placements?
-Yes, [Doon Business School](/colleges/doon-business-school) has a dedicated placement cell that invites consumer goods, IT, and banking firms for hiring graduates for HR executive and trainee profiles.
+### Does [Doon Business School](/colleges/doon-business-school/) offer good HR placements?
+Yes, [Doon Business School](/colleges/doon-business-school/) has a dedicated placement cell that invites consumer goods, IT, and banking firms for hiring graduates for HR executive and trainee profiles.
 
 ### Are MAT scores accepted by B-schools in Dehradun?
-Yes, [Doon Business School](/colleges/doon-business-school), UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
+Yes, [Doon Business School](/colleges/doon-business-school/), UPES, and Graphic Era accept national level exam scores like MAT and CMAT.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

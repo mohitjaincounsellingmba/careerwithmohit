@@ -54,8 +54,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida** | CAT / MAT / CMAT / XAT | ₹13.5 Lakhs (Total) | **₹11.40 LPA** |
-| **[Amity University, Noida](/colleges/amity-noida)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Noida** | CAT / MAT / CMAT / XAT | ₹13.5 Lakhs (Total) | **₹11.40 LPA** |
+| **[Amity University, Noida](/colleges/amity-noida/)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
 | **IMS Noida** | CMAT / MAT | ₹7.9 Lakhs (Total) | **₹5.50 LPA** |
 
 ---
@@ -77,13 +77,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Noida
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Noida
 - **Approximate Fees:** ₹13.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹11.40 LPA**
 - **Key Highlight:** Top corporate link-ups and specialized courses in HR analytics and talent retention strategies.
 
-### 2. [Amity University](/colleges/amity-noida), Noida
+### 2. [Amity University](/colleges/amity-noida/), Noida
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹8.50 LPA**
@@ -106,9 +106,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -118,16 +118,16 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Is [Jaipuria Noida](/colleges/jaipuria-noida) good for MBA HR?
-Yes, [Jaipuria Noida](/colleges/jaipuria-noida) offers a highly sought-after PGDM program with a dedicated specialization in Human Resources, featuring strong corporate connections and placements.
+### Is [Jaipuria Noida](/colleges/jaipuria-noida/) good for MBA HR?
+Yes, [Jaipuria Noida](/colleges/jaipuria-noida/) offers a highly sought-after PGDM program with a dedicated specialization in Human Resources, featuring strong corporate connections and placements.
 
-### What is the fee structure for [Amity University](/colleges/amity-noida) Noida MBA?
+### What is the fee structure for [Amity University](/colleges/amity-noida/) Noida MBA?
 Amity Noida's MBA programs have a total fee structure of approximately INR 14.0 Lakhs, offering extensive infrastructure and global learning modules.
 
 ### Does IMS Noida accept MAT scores?
@@ -136,6 +136,6 @@ Yes, IMS Noida accepts MAT and CMAT scores for its management admissions.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

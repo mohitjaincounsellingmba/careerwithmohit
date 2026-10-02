@@ -31,10 +31,10 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIM Jammu](/colleges/iim-jammu), located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
+[IIM Jammu](/colleges/iim-jammu/), located in the scenic city of temples, is a prominent member of the third-generation IIMs offering the 5-Year Integrated Programme in Management (IPM). In 2026, it offers a blend of top-tier academic rigor and unique cultural exposure.
 
-## 🏛️ Why Choose [IIM Jammu](/colleges/iim-jammu) IPM in 2026?
-[IIM Jammu](/colleges/iim-jammu)'s IPM program focuses on creating globally competitive management professionals with a strong ethical foundation.
+## 🏛️ Why Choose [IIM Jammu](/colleges/iim-jammu/) IPM in 2026?
+[IIM Jammu](/colleges/iim-jammu/)'s IPM program focuses on creating globally competitive management professionals with a strong ethical foundation.
 - **Growing Infrastructure:** A modern campus with cutting-edge academic and residential facilities.
 - **Global Reach:** Increasing focus on international collaborations and exchange opportunities.
 - **IIM Brand Advantage:** Direct entry into the IIM ecosystem right after school.
@@ -69,21 +69,21 @@ Generally, IIM Jammu focuses on JIPMAT for its Indian intake. Candidates should 
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [IIM Bodh Gaya IPM Admission 2026](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29)
-- [Baby IIMs Honest Review 2027–29](/blog/baby-iims-review-2026-honest-analysis)
+- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [IIM Bodh Gaya IPM Admission 2026](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29/)
+- [Baby IIMs Honest Review 2027–29](/blog/baby-iims-review-2026-honest-analysis/)
 
 ---
 
-**Confused between IIM Jammu and [IIM Bodh Gaya](/colleges/iim-bodh-gaya)?**
+**Confused between IIM Jammu and [IIM Bodh Gaya](/colleges/iim-bodh-gaya/)?**
 Both use the JIPMAT exam but have different campus cultures and location advantages. Mohit Jain’s "JIPMAT Preference Guide" helps you rank these colleges correctly during the application process.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -97,6 +97,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

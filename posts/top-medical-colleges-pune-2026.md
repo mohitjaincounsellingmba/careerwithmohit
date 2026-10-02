@@ -121,16 +121,16 @@ Counselling registrations typically open in **July** after the NEET results.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in Mumbai 2026](/blog/top-medical-colleges-mumbai-2027-29)
-- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [MBA Colleges in Pune 2026](/colleges/mba-colleges-pune)
+- [Top MBBS Colleges in Mumbai 2026](/blog/top-medical-colleges-mumbai-2027-29/)
+- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [MBA Colleges in Pune 2026](/colleges/mba-colleges-pune/)
 
 ---
 
 **Dreaming of a Medical Career in the Oxford of the East?**
 Pune is about discipline and depth. Don't waste your score on a college without a stable hospital reputation. Mohit Jain provides a "Pune Medical Hub Audit"—helping you pick the college that matches your goals for global residency or private practice.
 
-[👉 Book My Pune Medical Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Pune Medical Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,6 +138,6 @@ Pune is about discipline and depth. Don't waste your score on a college without 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

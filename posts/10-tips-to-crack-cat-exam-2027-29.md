@@ -108,18 +108,18 @@ The best way to know where you stand is to take a realistic simulation.
 ---
 
 ### Related Articles:
-- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-- [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates)
-- [How to Analyze CAT Mocks Like a Topper](/blog/why-take-our-free-cat-mock-test-2026-online)
+- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+- [CAT 2026 Preparation Roadmap (Month-by-Month)](/blog/cat-2026-preparation-strategy-syllabus-dates/)
+- [How to Analyze CAT Mocks Like a Topper](/blog/why-take-our-free-cat-mock-test-2026-online/)
 - [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test#marks)
-- [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission)
+- [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -134,6 +134,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

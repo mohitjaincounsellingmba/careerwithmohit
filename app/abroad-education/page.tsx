@@ -475,7 +475,7 @@ export default function AbroadEducationPage() {
               </h2>
             </div>
             <Link
-              href="/mock-tests"
+              href="/mock-tests/"
               className="inline-flex items-center gap-2 text-xs font-bold text-slate-900 hover:text-amber-600 uppercase tracking-wider transition-colors"
             >
               View all 24+ mock tests <ArrowRight size={14} />
@@ -484,7 +484,7 @@ export default function AbroadEducationPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <Link
-              href="/mock-tests"
+              href="/mock-tests/"
               className="bg-white rounded-3xl p-6 border border-slate-200/90 hover:border-slate-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center font-bold mb-3 group-hover:scale-110 transition-transform">
@@ -499,7 +499,7 @@ export default function AbroadEducationPage() {
             </Link>
 
             <Link
-              href="/scholarships-2026"
+              href="/scholarships-2026/"
               className="bg-white rounded-3xl p-6 border border-slate-200/90 hover:border-slate-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center font-bold mb-3 group-hover:scale-110 transition-transform">
@@ -514,7 +514,7 @@ export default function AbroadEducationPage() {
             </Link>
 
             <Link
-              href="/tools/cat-score-calculator"
+              href="/tools/cat-score-calculator/"
               className="bg-white rounded-3xl p-6 border border-slate-200/90 hover:border-slate-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center font-bold mb-3 group-hover:scale-110 transition-transform">
@@ -529,7 +529,7 @@ export default function AbroadEducationPage() {
             </Link>
 
             <Link
-              href="/top-tier-mba-colleges"
+              href="/top-tier-mba-colleges/"
               className="bg-white rounded-3xl p-6 border border-slate-200/90 hover:border-slate-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center font-bold mb-3 group-hover:scale-110 transition-transform">

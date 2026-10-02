@@ -56,7 +56,7 @@ state: Delhi NCR
 
 Navigating MBA admissions in India has become an overwhelming minefield of sponsored college rankings, inflated placement brochures, aggressive tele-callers, and conflicting advice. Between preparing for competitive entrance exams like CAT, XAT, NMAT, SNAP, and CMAT, students are constantly pressured to fill out expensive application forms for institutions they know little about.
 
-To bridge this trust gap, **Mohit Jain** (alumnus certification from [IIM Bangalore](/colleges/iim-bangalore) & [FMS Delhi](/colleges/fms-delhi)) offers completely **free 30-minute 1-on-1 face-to-face MBA counselling sessions on Google Meet**. You can schedule your session directly at [Book Free Session](/book-session).
+To bridge this trust gap, **Mohit Jain** (alumnus certification from [IIM Bangalore](/colleges/iim-bangalore/) & [FMS Delhi](/colleges/fms-delhi/)) offers completely **free 30-minute 1-on-1 face-to-face MBA counselling sessions on Google Meet**. You can schedule your session directly at [Book Free Session](/book-session/).
 
 ---
 
@@ -89,13 +89,13 @@ Most students looking for MBA admission advice turn to two sources: generic dire
 | **Parents Welcome?** | **Yes, Highly Encouraged** | Often sidelined | Not applicable |
 | **Unbiased Shortlist** | **Yes** (Dream, Target & Safe colleges) | Pushes colleges with high broker commissions | Automated generic algorithmic lists |
 | **Quota Transparency** | **100% Clear & Ethical Guidance** | Misleading claims regarding "guaranteed seats" | No direct verification available |
-| **Booking Link** | [Book Slot Here](/book-session) | Unregulated cold calling | Lead generation forms |
+| **Booking Link** | [Book Slot Here](/book-session/) | Unregulated cold calling | Lead generation forms |
 
 ---
 
 ## What Actually Happens in Your 30-Minute Google Meet Session?
 
-When you reserve a slot on the [Book Session Page](/book-session), your 30 minutes are structured to maximize clarity and eliminate guesswork:
+When you reserve a slot on the [Book Session Page](/book-session/), your 30 minutes are structured to maximize clarity and eliminate guesswork:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -110,14 +110,14 @@ When you reserve a slot on the [Book Session Page](/book-session), your 30 minut
 
 ### Step 1: Academic Profile Strength & Diversity Audit (Min 00–08)
 Your 10th, 12th, and graduation percentages, along with any work experience, are thoroughly evaluated:
-- **Composite Score Calculation:** Top B-Schools (like [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), and [FMS Delhi](/colleges/fms-delhi)) assign heavy weightage to past academic consistency. Mohit calculates your realistic composite score baseline.
+- **Composite Score Calculation:** Top B-Schools (like [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), and [FMS Delhi](/colleges/fms-delhi/)) assign heavy weightage to past academic consistency. Mohit calculates your realistic composite score baseline.
 - **Academic & Gender Diversity:** If you come from a non-engineering stream (Commerce, Humanities, Science, Law) or qualify for gender diversity points, Mohit shows you colleges where your cutoff threshold drops significantly.
 - **Work Experience vs. Fresher Status:** Learn how to position gap years or relevant corporate work experience effectively.
 
 ### Step 2: Dream, Target, and Safe B-School Shortlisting (Min 08–16)
 Applying to 15 different colleges blindly wastes ₹30,000+ in non-refundable application fees. Mohit establishes a strategic 3-tier shortlist:
-- **Dream Colleges (Ambitious):** High percentile target, exceptional ROI (e.g., FMS, SPJIMR, XLRI, [MDI Gurgaon](/colleges/mdi-gurgaon)).
-- **Target Colleges (Realistic):** Perfectly aligned with your current mock percentiles and academic profile (e.g., [SIBM Pune](/colleges/sibm-pune), [NMIMS Mumbai](/colleges/nmims-mumbai), GIM Goa, TAPMI, [FORE School of Management](/colleges/fore-school-delhi)).
+- **Dream Colleges (Ambitious):** High percentile target, exceptional ROI (e.g., FMS, SPJIMR, XLRI, [MDI Gurgaon](/colleges/mdi-gurgaon/)).
+- **Target Colleges (Realistic):** Perfectly aligned with your current mock percentiles and academic profile (e.g., [SIBM Pune](/colleges/sibm-pune/), [NMIMS Mumbai](/colleges/nmims-mumbai/), GIM Goa, TAPMI, [FORE School of Management](/colleges/fore-school-delhi/)).
 - **Safe Colleges (High-ROI Backups):** Institutes where your admission is secure even if exam day doesn't go as planned (e.g., BIMTECH, GL Bajaj, Welingkar, Christ University, JIMS Rohini).
 
 ### Step 3: Screen-Share Fee vs. Median Placement ROI Check (Min 16–24)
@@ -142,14 +142,14 @@ Here is a sample of the ROI matrix examined during the 1-on-1 video session:
 
 | College / Tier | Program Type | Total Tuition + Living Fees | Verified Median CTC | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | Full-time MBA | ₹2.0 – 2.5 Lakhs | ₹31.0 LPA | **Highest ROI in Asia**; 99.3+ CAT Percentile required |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** | PGDM | ₹22.5 Lakhs | ₹32.0 LPA | Profile-based shortlist; 85+ CAT/XAT with strong profile |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | PGDM | ₹26.0 Lakhs | ₹26.5 LPA | 95+ CAT Percentile; strong corporate reputation |
-| **[SIBM Pune](/colleges/sibm-pune)** | MBA (General) | ₹25.0 Lakhs | ₹24.0 LPA | SNAP Exam (98.5+ percentile); excellent FMCG/BFSI placements |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai)** | MBA Core | ₹26.0 Lakhs | ₹19.5 LPA | NMAT Exam (235+ score); premier Mumbai finance hub |
-| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | PGDM | ₹14.5 Lakhs | ₹11.2 LPA | CAT/XAT/CMAT (75-80 percentile); strong insurance & analytics |
-| **[FORE School of Management](/blog/direct-admission-fore-school-of-management-delhi-2027-29)** | PGDM | ₹18.0 Lakhs | ₹14.5 LPA | Delhi corporate location; 85+ CAT/XAT percentile |
-| **[Direct/Institutional Options](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29)** | MBA / PGDM | ₹4.5 – 9.0 Lakhs | ₹6.5 – 8.5 LPA | Direct merit & institutional rounds; budget-friendly ROI |
+| **[FMS Delhi](/colleges/fms-delhi/)** | Full-time MBA | ₹2.0 – 2.5 Lakhs | ₹31.0 LPA | **Highest ROI in Asia**; 99.3+ CAT Percentile required |
+| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | PGDM | ₹22.5 Lakhs | ₹32.0 LPA | Profile-based shortlist; 85+ CAT/XAT with strong profile |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | PGDM | ₹26.0 Lakhs | ₹26.5 LPA | 95+ CAT Percentile; strong corporate reputation |
+| **[SIBM Pune](/colleges/sibm-pune/)** | MBA (General) | ₹25.0 Lakhs | ₹24.0 LPA | SNAP Exam (98.5+ percentile); excellent FMCG/BFSI placements |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/)** | MBA Core | ₹26.0 Lakhs | ₹19.5 LPA | NMAT Exam (235+ score); premier Mumbai finance hub |
+| **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | PGDM | ₹14.5 Lakhs | ₹11.2 LPA | CAT/XAT/CMAT (75-80 percentile); strong insurance & analytics |
+| **[FORE School of Management](/blog/direct-admission-fore-school-of-management-delhi-2027-29/)** | PGDM | ₹18.0 Lakhs | ₹14.5 LPA | Delhi corporate location; 85+ CAT/XAT percentile |
+| **[Direct/Institutional Options](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29/)** | MBA / PGDM | ₹4.5 – 9.0 Lakhs | ₹6.5 – 8.5 LPA | Direct merit & institutional rounds; budget-friendly ROI |
 
 ---
 
@@ -169,7 +169,7 @@ To make your 30 minutes as productive as possible, keep the following details ha
 
 Scheduling your video consultation takes less than 60 seconds:
 
-1. **Visit the Booking Page:** Head over to [careerwithmohit.online/book-session](/book-session).
+1. **Visit the Booking Page:** Head over to [careerwithmohit.online/book-session](/book-session/).
 2. **Select Your Date & Time:** Choose a 30-minute slot on the interactive Calendly widget that fits your schedule.
 3. **Receive Confirmation:** Your Google Meet joining link is generated immediately, added to your Google Calendar, and sent to your email and WhatsApp with reminder alerts.
 
@@ -193,20 +193,20 @@ Scheduling your video consultation takes less than 60 seconds:
 ## About Your Mentor: Mohit Jain
 
 **Mohit Jain** is the founder and Chief MBA Admissions Strategist at *CareerWithMohit*. 
-- **Credentials:** Executive education and strategic certifications from **[IIM Bangalore](/colleges/iim-bangalore)** and **[FMS Delhi](/colleges/fms-delhi)**.
+- **Credentials:** Executive education and strategic certifications from **[IIM Bangalore](/colleges/iim-bangalore/)** and **[FMS Delhi](/colleges/fms-delhi/)**.
 - **Track Record:** Directly mentored over 10,000+ students across Delhi NCR, Mumbai, Pune, Bangalore, Kolkata, and tier-2 cities.
 - **Philosophy:** Unbiased, data-backed mentorship with zero commercial tie-ups that compromise student interest.
 
-You can read more about Mohit's background and educational journey on the [About Mohit Jain](/about) page.
+You can read more about Mohit's background and educational journey on the [About Mohit Jain](/about/) page.
 
 ---
 
 ### Helpful Admission Resources & Related Articles:
-- [Check All IIM Cutoffs 2027–2029](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
-- [CAT Score Calculator & Percentile Predictor](/tools/cat-score-calculator)
-- [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [MBA Colleges Under 5 Lakhs in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29)
-- [FMS Delhi Cutoff, Fees & Placement Report](/colleges/fms-delhi)
+- [Check All IIM Cutoffs 2027–2029](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
+- [CAT Score Calculator & Percentile Predictor](/tools/cat-score-calculator/)
+- [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [MBA Colleges Under 5 Lakhs in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29/)
+- [FMS Delhi Cutoff, Fees & Placement Report](/colleges/fms-delhi/)
 
 ---
 
@@ -216,7 +216,7 @@ You can read more about Mohit's background and educational journey on the [About
 Yes, completely free. The 30-minute Google Meet consultation with Mohit Jain is 100% complimentary for students and parents. There are no hidden fees, no credit card requirements, and zero high-pressure sales pitches.
 
 ### How do I receive the Google Meet video session link?
-As soon as you pick your preferred slot on the booking calendar at [/book-session](/book-session), an automated Google Calendar invite containing the direct Google Meet video link is sent immediately to your email and verified on WhatsApp.
+As soon as you pick your preferred slot on the booking calendar at [/book-session](/book-session/), an automated Google Calendar invite containing the direct Google Meet video link is sent immediately to your email and verified on WhatsApp.
 
 ### Can parents join the 1-on-1 video call?
 Yes, absolutely. We strongly encourage parents to join so everyone can openly discuss family budgets, educational loan feasibility, hostel life, and placement expectations together on the same screen.
@@ -231,6 +231,6 @@ Yes. You will see real-time cutoff spreadsheets, official audited placement repo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

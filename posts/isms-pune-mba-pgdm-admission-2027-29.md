@@ -70,14 +70,14 @@ location: Pune
 state: Maharashtra
 ---
 
-# International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# International School of Management Studies ([ISMS Pune](/colleges/isms-pune/)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.25 Lakhs (India Track) / ₹14.50 Lakhs (British MBA Pathway)** (**₹3.62 Lakhs / Year (India Track)**). Merit waivers on CAT/MAT/MAH-CET and early international pathway enrolments.
 > - **Accreditation & Approvals**: AICTE Approved · Pearson Assured · UK University Collaborations.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.00 LPA** (Top 25% at **₹11.00 LPA**) with a highest package of **₹19.00 LPA**. 24% of students secure PPOs in Hinjawadi IT & consulting firms.
 
-**International School of Management Studies ([ISMS Pune](/colleges/isms-pune)) ([ISMS Pune](/colleges/isms-pune))**, located in **Hinjawadi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**International School of Management Studies ([ISMS Pune](/colleges/isms-pune/)) ([ISMS Pune](/colleges/isms-pune/))**, located in **Hinjawadi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Pune**, this detailed guide provides verified facts regarding **ISMS Pune's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -238,13 +238,13 @@ ISMS Pune accepts valid percentiles from national entrance exams including CAT, 
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

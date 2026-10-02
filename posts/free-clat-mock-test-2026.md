@@ -38,13 +38,13 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Attempt our 100% Free CLAT 2026 Mock Test 2026. Realistic computer-based exam simulator, 120 questions, 120 mi...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 Succeeding in the **CLAT 2026** entrance exam demands not just subject expertise but also robust pacing, high accuracy under pressure, and sharp decision-making. Utilizing simulated tests is the absolute benchmark method utilized by high-scoring candidates to gauge their preparedness and improve their execution speed.
 
 [MockTestCard title="Free CLAT 2026 Full CBT Mock Test 2026" link="/tools/mock-test/clat" questions="120 Questions" time="120 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free CLAT 2026 Mock Test](/tools/mock-test/clat)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free CLAT 2026 Mock Test](/tools/mock-test/clat/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -84,4 +84,4 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

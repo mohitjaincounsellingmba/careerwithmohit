@@ -93,7 +93,7 @@ Admission to DPU Medical College Pune is strictly merit-based, determined by the
 | **Minority / Management Quota** | NRI Quota: Score 130+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/colleges/dy-patil-b-school) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/colleges/dy-patil-b-school/) for rank prediction strategies.
 
 ---
 
@@ -126,7 +126,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.
@@ -157,7 +157,7 @@ Yes, it is fully recognized by the National Medical Commission (NMC).
 Expected NEET score is 250-350 in MCC Deemed Counselling.
 
 
-[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry)
+[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry/)
 
 ---
 
@@ -166,6 +166,6 @@ Source: Official College Prospectus & Medical Counselling Guidelines
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

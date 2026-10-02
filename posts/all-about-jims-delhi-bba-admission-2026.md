@@ -42,7 +42,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
+[Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose JIMS Delhi for BBA in 2026?
 JIMS offers a practical approach to management education, focusing on skill development and industry readiness.
@@ -79,20 +79,20 @@ Yes, both Rohini and Kalkaji campuses usually operate in two shifts: First Shift
 JIMS provides assistance and tie-ups for hostel and PG accommodations for outstation students near its campuses.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [MSI Delhi BBA Admission Guide 2026](/blog/all-about-msi-delhi-bba-admission-2026)
-- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2027-29)
+- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [MSI Delhi BBA Admission Guide 2026](/blog/all-about-msi-delhi-bba-admission-2026/)
+- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2027-29/)
 
 ---
 
 **Confused between JIMS Rohini Sector-3 and Sector-5?**
 Both campuses are in Rohini but offer different vibes and placement stats. Mohit Jain’s "JIMS Campus Audit" helps you pick the right one based on your preferred specialization in Marketing or HR.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

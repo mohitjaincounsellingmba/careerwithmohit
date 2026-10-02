@@ -51,11 +51,11 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon)** (PGDM Business Analytics) | ₹24.50 Lakhs | ₹25.50 LPA - ₹27.67 LPA | CAT (95+ %ile) / GMAT + Profile Evaluation |
-| **[Masters' Union Gurgaon](/colleges/masters-union-gurgaon)** (PGP Tech & Analytics) | ₹25.00 Lakhs | ₹31.00 LPA - ₹34.07 LPA | MU-BAAT / CAT / GMAT / GRE + Interview |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** (PGDM Analytics Track) | ₹17.50 Lakhs | ₹15.80 LPA - ₹16.50 LPA | CAT / XAT / CMAT / GMAT (80%+ %ile) |
-| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon)** (PGDM DABI - IoA UK) | ₹8.50 Lakhs | ₹7.50 LPA - ₹9.20 LPA | CAT / MAT / CMAT / XAT / ATMA (High ROI) |
-| **[BML Munjal University (BMU)](/colleges/bml-munjal-university)** (MBA Business Analytics) | ₹13.50 Lakhs | ₹9.20 LPA - ₹10.50 LPA | CAT / NMAT / XAT / GMAT / BMU-MAT |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (PGDM Business Analytics) | ₹24.50 Lakhs | ₹25.50 LPA - ₹27.67 LPA | CAT (95+ %ile) / GMAT + Profile Evaluation |
+| **[Masters' Union Gurgaon](/colleges/masters-union-gurgaon/)** (PGP Tech & Analytics) | ₹25.00 Lakhs | ₹31.00 LPA - ₹34.07 LPA | MU-BAAT / CAT / GMAT / GRE + Interview |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** (PGDM Analytics Track) | ₹17.50 Lakhs | ₹15.80 LPA - ₹16.50 LPA | CAT / XAT / CMAT / GMAT (80%+ %ile) |
+| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon/)** (PGDM DABI - IoA UK) | ₹8.50 Lakhs | ₹7.50 LPA - ₹9.20 LPA | CAT / MAT / CMAT / XAT / ATMA (High ROI) |
+| **[BML Munjal University (BMU)](/colleges/bml-munjal-university/)** (MBA Business Analytics) | ₹13.50 Lakhs | ₹9.20 LPA - ₹10.50 LPA | CAT / NMAT / XAT / GMAT / BMU-MAT |
 | **SOIL Institute of Management** (PGPM / PGDM Analytics) | ₹15.50 Lakhs | ₹11.50 LPA - ₹12.20 LPA | CAT / XAT / NMAT / GMAT / SOIL Talent Test |
 | **Amity University Gurugram** (M.Sc Data Science & Analytics) | ₹4.80L - ₹8.50L | ₹6.50 LPA - ₹7.80 LPA | Graduation Merit (Maths/Stats/CS) / Amity Test |
 
@@ -63,7 +63,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ## 🏛️ In-Depth Breakdown: Best Business Analytics B-Schools in Gurgaon
 
-### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon) – Sector 17
+### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon/) – Sector 17
 - **Flagship Offering**: PGDM in Business Analytics (2-Year Full-Time Residential)
 - **Total Tuition Fee**: ₹24.50 Lakhs
 - **Placement Performance**: Average Domestic CTC ₹25.50 LPA – ₹27.67 LPA | Highest Domestic CTC ₹60.00 LPA
@@ -76,7 +76,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 2. [Masters' Union](/colleges/masters-union-gurgaon) – DLF Cyber City (Cyberpark)
+### 2. [Masters' Union](/colleges/masters-union-gurgaon/) – DLF Cyber City (Cyberpark)
 - **Flagship Offering**: Post Graduate Programme in Technology and Business Management (Concentration: Product, Data & Business Analytics)
 - **Total Tuition Fee**: ₹25.00 Lakhs
 - **Placement Performance**: Average CTC ₹31.00 LPA – ₹34.07 LPA | Highest Domestic CTC ₹65.00 LPA
@@ -86,7 +86,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 3. [Great Lakes Institute of Management, Gurgaon](/colleges/great-lakes-gurgaon)
+### 3. [Great Lakes Institute of Management, Gurgaon](/colleges/great-lakes-gurgaon/)
 - **Flagship Offering**: 2-Year PGDM & 1-Year PGPM with Analytics Elective Tracks
 - **Total Tuition Fee**: ₹17.50 Lakhs
 - **Placement Performance**: Average CTC ₹15.80 LPA – ₹16.50 LPA | Highest Domestic CTC ₹33.00 LPA
@@ -97,7 +97,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 4. [JK Business School (JKBS Gurugram)](/colleges/jkbs-gurgaon)
+### 4. [JK Business School (JKBS Gurugram)](/colleges/jkbs-gurgaon/)
 - **Flagship Offering**: PGDM in Data Analytics & Business Intelligence (DABI)
 - **Total Tuition Fee**: ₹8.50 Lakhs (Excellent ROI)
 - **Placement Performance**: Average CTC ₹7.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹18.00 LPA
@@ -108,7 +108,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 5. [BML Munjal University (BMU Gurugram)](/colleges/bml-munjal-university), NH-48
+### 5. [BML Munjal University (BMU Gurugram)](/colleges/bml-munjal-university/), NH-48
 - **Flagship Offering**: MBA in Business Analytics (Academic Mentorship by Imperial College London)
 - **Total Tuition Fee**: ₹13.50 Lakhs
 - **Placement Performance**: Average CTC ₹9.20 LPA – ₹10.50 LPA | Highest Domestic CTC ₹25.00 LPA
@@ -154,12 +154,12 @@ The flagship PGDM is a general management program, whereas PGDM-BA focuses 70% o
 ### 3. Can I get direct admission in Gurgaon Business Analytics colleges?
 Institutions like JKBS, BML Munjal, SOIL, and Amity conduct institutional entrance tests and profile-based interview rounds. MDI Gurgaon admits solely through CAT/GMAT merit.
 
-[👉 Confused about choosing between MDI, Masters' Union, Great Lakes, and JKBS? Get expert 1-on-1 counseling from Mohit Jain!](/inquiry)
+[👉 Confused about choosing between MDI, Masters' Union, Great Lakes, and JKBS? Get expert 1-on-1 counseling from Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: Masters' Union Gurgaon Review & Placements 2027–29](/blog/all-about-masters-union-gurgaon)**
-- **[Read: Data Analytics Scope After PGDM: JKBS DABI Review](/blog/data-analytics-scope-after-pgdm-jkbs-gurgaon-dabi)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: Masters' Union Gurgaon Review & Placements 2027–29](/blog/all-about-masters-union-gurgaon/)**
+- **[Read: Data Analytics Scope After PGDM: JKBS DABI Review](/blog/data-analytics-scope-after-pgdm-jkbs-gurgaon-dabi/)**

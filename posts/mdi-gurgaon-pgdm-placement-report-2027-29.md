@@ -53,17 +53,17 @@ category: Exams
 
 The **Management Development Institute (MDI), Gurgaon** is recognized as one of India's premier B-schools, benefiting immensely from its prime location at the epicenter of Delhi-NCR's corporate hub.
 
-The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
+The **2025 PGDM placement season** at [MDI Gurgaon](/colleges/mdi-gurgaon/) concluded with **100% placements across a massive batch of 555 students**, recording an average CTC of **₹25.60 LPA** and a highest package of **₹53.60 LPA**.
 
-Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Report 2027–29**.
-
----
-
-[InquiryCard title="Targeting [MDI Gurgaon](/colleges/mdi-gurgaon), SPJIMR, or Top Private B-Schools?" description="Get personalized CAT percentile mapping, profile analysis, and WAT-GD-PI interview mentorship from Mohit Jain." cta="Get Free Counselling" type="admission"]
+Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon/) PGDM Placement Report 2027–29**.
 
 ---
 
-## 1. [MDI Gurgaon](/colleges/mdi-gurgaon) Placement 2025 Highlights
+[InquiryCard title="Targeting [MDI Gurgaon](/colleges/mdi-gurgaon/), SPJIMR, or Top Private B-Schools?" description="Get personalized CAT percentile mapping, profile analysis, and WAT-GD-PI interview mentorship from Mohit Jain." cta="Get Free Counselling" type="admission"]
+
+---
+
+## 1. [MDI Gurgaon](/colleges/mdi-gurgaon/) Placement 2025 Highlights
 
 | Metric | Placement Statistics (2025 Cohort) |
 | :--- | :--- |
@@ -91,7 +91,7 @@ Here is the complete **[MDI Gurgaon](/colleges/mdi-gurgaon) PGDM Placement Repor
 ## 3. Sector-Wise Placement Split 2025
 
 ```mermaid
-pie title [MDI Gurgaon](/colleges/mdi-gurgaon) Domain Split 2025
+pie title [MDI Gurgaon](/colleges/mdi-gurgaon/) Domain Split 2025
     "BFSI & Financial Services" : 32
     "Management Consulting & Strategy" : 28
     "Technology, E-Commerce & Media" : 20
@@ -108,15 +108,15 @@ pie title [MDI Gurgaon](/colleges/mdi-gurgaon) Domain Split 2025
 
 ## 4. Related Placement Reports
 
-*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2027-29)**
-*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2027-29)**
-*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2027-29)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   **[SPJIMR Mumbai Placement Report 2025](/blog/spjimr-mumbai-pgdm-placement-report-2027-29/)**
+*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2027-29/)**
+*   **[IMI New Delhi Placement Report 2025](/blog/imi-new-delhi-pgdm-placement-report-2027-29/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

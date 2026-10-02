@@ -79,7 +79,7 @@ Once released, candidates can download their individual response sheets by follo
 
 Since there is **no negative marking** in MHCET, cutoffs for top colleges are always on the higher side. Use our high-accuracy predictor to estimate your percentile based on your correct attempts.
 
-[👉 Use Now: MHCET MBA 2027–29 Score & Percentile Predictor](/calculator/mhcet-mba-2026)
+[👉 Use Now: MHCET MBA 2027–29 Score & Percentile Predictor](/calculator/mhcet-mba-2026/)
 
 ### Estimated Cutoffs for Top Maharashtra B-Schools
 
@@ -103,7 +103,7 @@ If you are confused about which college to target under the Centralized Admissio
 - 2025 vs 2026 Expected Cutoffs city-wise.
 - Placement reports (Average vs Highest Package).
 
-[👉 Submit Inquiry to Download MHCET MBA PDF Pack](/inquiry)
+[👉 Submit Inquiry to Download MHCET MBA PDF Pack](/inquiry/)
 
 ---
 
@@ -112,18 +112,18 @@ If you are confused about which college to target under the Centralized Admissio
 Scoring below 90 percentile doesn't mean your MBA dream is over. Many private institutes in Mumbai and Pune offer excellent placements even at lower percentiles through institute-level seats or direct admission.
 
 **Related Articles:**
-- [Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees)
-- [All About MAH MBA CET Exam Pattern & Syllabus](/blog/all-about-mah-mba-cet-exam)
-- [Direct MBA Admission in Mumbai 2027–29](/blog/direct-mba-admission-mumbai-2027-29)
+- [Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/)
+- [All About MAH MBA CET Exam Pattern & Syllabus](/blog/all-about-mah-mba-cet-exam/)
+- [Direct MBA Admission in Mumbai 2027–29](/blog/direct-mba-admission-mumbai-2027-29/)
 
-For personalized admission support, feel free to fill out the [Inquiry Form](/inquiry) and our experts will reach out to you within 24 hours.
+For personalized admission support, feel free to fill out the [Inquiry Form](/inquiry/) and our experts will reach out to you within 24 hours.
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -138,6 +138,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -31,7 +31,7 @@ faqs:
       Many universities remain "Test Optional," but we strongly recommend taking
       the GRE to strengthen your application, especially for scholarship
       eligibility. See our [US Admissions
-      Guide](/blog/us-university-admissions-guide-indian-students-2027-29) for more
+      Guide](/blog/us-university-admissions-guide-indian-students-2027-29/) for more
       details.
   - question: What is the validity of these scores?
     answer: >-
@@ -74,7 +74,7 @@ The IELTS is the world's most popular English language proficiency test for high
 
 *   **Pattern:** Tests Listening, Reading, Writing, and Speaking.
 *   **IELTS One Skill Retake (OSR):** A game-changer in 2026! If you miss your target band in one section, you can retake just that module instead of the whole exam.
-*   **Internal Link:** Read our detailed [All About IELTS Guide](/blog/all-about-ielts-exam-eligibility-curriculum-uses) for a deeper dive into band requirements.
+*   **Internal Link:** Read our detailed [All About IELTS Guide](/blog/all-about-ielts-exam-eligibility-curriculum-uses/) for a deeper dive into band requirements.
 
 ---
 
@@ -92,7 +92,7 @@ If you are planning for a Master's (MS), PhD, or even an MBA abroad, the GRE is 
 
 *   **Shorter GRE:** The exam is now under 2 hours, making it less exhausting for students.
 *   **Sections:** Analytical Writing, Verbal Reasoning, and Quantitative Reasoning.
-*   **Internal Link:** Planning for an MBA? Check if the [GMAT Exam](/blog/all-about-gmat-exam-colleges-cutoffs) is a better fit for your target B-Schools.
+*   **Internal Link:** Planning for an MBA? Check if the [GMAT Exam](/blog/all-about-gmat-exam-colleges-cutoffs/) is a better fit for your target B-Schools.
 
 ---
 
@@ -103,7 +103,7 @@ The Duolingo English Test is the fastest-growing English proficiency test, known
 *   **Duration:** Under 1 hour.
 *   **Cost:** Approx. ₹5,500 (much cheaper than IELTS/TOEFL).
 *   **Acceptance:** Accepted by over 5,000 institutions globally, including top US universities.
-*   **Mock Test:** Practice for free with our [Duolingo Mock Test Series](/tools/mock-test/duolingo).
+*   **Mock Test:** Practice for free with our [Duolingo Mock Test Series](/tools/mock-test/duolingo/).
 
 ---
 
@@ -113,7 +113,7 @@ The Duolingo English Test is the fastest-growing English proficiency test, known
 This depends on your comfort level. IELTS uses a human examiner for the Speaking section, while TOEFL is entirely computer-based. IELTS is often preferred for UK/Canada, while TOEFL is the gold standard for the USA.
 
 ### 2. Can I skip the GRE for MS in USA in 2026?
-Many universities remain "Test Optional," but we strongly recommend taking the GRE to strengthen your application, especially for scholarship eligibility. See our [US Admissions Guide](/blog/us-university-admissions-guide-indian-students-2027-29) for more details.
+Many universities remain "Test Optional," but we strongly recommend taking the GRE to strengthen your application, especially for scholarship eligibility. See our [US Admissions Guide](/blog/us-university-admissions-guide-indian-students-2027-29/) for more details.
 
 ### 3. What is the validity of these scores?
 *   **SAT, GRE, TOEFL:** 5 Years (though some universities prefer scores within 2 years).
@@ -124,14 +124,14 @@ Many universities remain "Test Optional," but we strongly recommend taking the G
 ## 🚀 Plan Your Study Abroad Journey
 Don't let the complex admission process overwhelm you. Whether it is choosing the right exam or drafting the perfect SOP, our experts are here to help.
 
-[👉 Book a Free Study Abroad Consultation](/inquiry) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
+[👉 Book a Free Study Abroad Consultation](/inquiry/) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
 
 ---
 
 ### 📚 More Resources for You
-*   [US Admissions Guide for Indian Students](/blog/us-university-admissions-guide-indian-students-2027-29)
-*   [Top MBA Colleges in India accepting GMAT](/blog/all-about-gmat-exam-colleges-cutoffs)
-*   [Best BTech Colleges with Global Tie-ups](/blog/best-btech-colleges-india-2026)
+*   [US Admissions Guide for Indian Students](/blog/us-university-admissions-guide-indian-students-2027-29/)
+*   [Top MBA Colleges in India accepting GMAT](/blog/all-about-gmat-exam-colleges-cutoffs/)
+*   [Best BTech Colleges with Global Tie-ups](/blog/best-btech-colleges-india-2026/)
 
 ---
 
@@ -141,6 +141,6 @@ Don't let the complex admission process overwhelm you. Whether it is choosing th
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

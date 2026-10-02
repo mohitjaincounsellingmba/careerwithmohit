@@ -135,21 +135,21 @@ Yes, students from CBSE, ISC, IB, and other state boards across India are eligib
 While Mathematics is highly recommended, the eligibility criteria for BAF and BFM focus on the aggregate score in Class 12. However, for BBA and BMS, Class 12 Mathematics is mandatory.
 
 ## 🔗 Useful Links:
-- [St. Xavier's College Mumbai BBA/BMS Admission Guide 2026](/blog/all-about-st-xaviers-mumbai-bba-admission-2027-29)
-- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2027-29)
-- [Best MBA Colleges in Mumbai — 2027–29 Rankings & Fees](/blog/best-mba-colleges-in-mumbai-2027-29)
+- [St. Xavier's College Mumbai BBA/BMS Admission Guide 2026](/blog/all-about-st-xaviers-mumbai-bba-admission-2027-29/)
+- [NMIMS Mumbai BBA Admission Guide 2026](/blog/all-about-nmims-mumbai-bba-admission-2027-29/)
+- [Best MBA Colleges in Mumbai — 2027–29 Rankings & Fees](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 ---
 
 **Confused between Mithibai, NMIMS, and St. Xavier's Mumbai?**  
 Each of these top colleges has a completely different selection criteria and campus culture. Choosing the right one determines your career trajectory. Mohit Jain’s personalized career counselling helps you build a custom strategy to crack the cutoffs and choose the perfect fit for your goals.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -163,6 +163,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

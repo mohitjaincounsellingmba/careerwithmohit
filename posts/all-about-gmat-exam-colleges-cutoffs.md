@@ -84,7 +84,7 @@ The GMAT Focus Edition comprises three equally weighted sections, each lasting 4
 
 ---
 
-### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2027–29](/blog/top-mba-colleges-india-accepting-gmat-2027-29)
+### 📍 Detailed List: [Top MBA Colleges in India Accepting GMAT Scores 2027–29](/blog/top-mba-colleges-india-accepting-gmat-2027-29/)
 
 ---
 
@@ -103,7 +103,7 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 
 **Final Strategy**: If you plan to target Round 1 (Sept-Oct) or Round 2 (Jan) for 2026-27 admissions, aim to finish your GMAT by **June 2026**.
 
-[👉 Start your GMAT Journey](/inquiry) | [👉 Get Profile Evaluation](/inquiry)
+[👉 Start your GMAT Journey](/inquiry/) | [👉 Get Profile Evaluation](/inquiry/)
 
 
 
@@ -111,7 +111,7 @@ You can take the GMAT up to **5 times within a floating 12-month period** and a 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -125,6 +125,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

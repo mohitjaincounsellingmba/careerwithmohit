@@ -99,13 +99,13 @@ pie title DoMS IIT Delhi Domain Share 2025
 
 With a total fee of just **₹12.0–12.8 Lakhs** and an average starting salary of **₹22.52 LPA**, DoMS IIT Delhi delivers a **payback period of under 7 to 9 months**, ranking among the highest ROI management programs in India.
 
-*   Compare with other IITs: **[SJMSOM [IIT Bombay](/colleges/iit-bombay) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2027-29)**
-*   Compare with national IIM benchmarks: **[All 21 IIMs Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   Compare with other IITs: **[SJMSOM [IIT Bombay](/colleges/iit-bombay/) Placement Report 2025](/blog/sjmsom-iit-bombay-mba-placement-report-2027-29)**
+*   Compare with national IIM benchmarks: **[All 21 IIMs Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

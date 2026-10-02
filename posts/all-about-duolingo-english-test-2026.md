@@ -112,13 +112,13 @@ You can take the test as many times as you like, but you can only purchase three
 
 Don't go into the exam without practice. Our experts have curated a realistic simulation to help you get comfortable with the adaptive format.
 
-[👉 Take the Free Duolingo Mock Test 2026](/tools/mock-test/duolingo)
+[👉 Take the Free Duolingo Mock Test 2026](/tools/mock-test/duolingo/)
 
 ---
 
 **Planning your study abroad journey?** Whether it's choosing between IELTS and DET or drafting a winning SOP, our team is here to guide you.
 
-[👉 Book a Free Consultation](/inquiry) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
+[👉 Book a Free Consultation](/inquiry/) | [💬 WhatsApp our Expert Desk](https://wa.me/919560020771)
 
 ---
 

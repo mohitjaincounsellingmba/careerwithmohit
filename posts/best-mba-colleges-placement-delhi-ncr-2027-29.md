@@ -61,7 +61,7 @@ These premier institutions are highly selective, matching the best IIMs in terms
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## 1. Faculty of Management Studies (FMS) - Delhi University
-[FMS Delhi](/colleges/fms-delhi) is a placement powerhouse, consistently placing 100% of its students in record time.
+[FMS Delhi](/colleges/fms-delhi/) is a placement powerhouse, consistently placing 100% of its students in record time.
 - **Average Placement Package:** **₹34.10 LPA**
 - **Highest Salary Package:** **₹1.2 Crore**
 - **Top Recruiters:** McKinsey & Company, BCG, Bain & Company, Morgan Stanley, Goldman Sachs, and Google.
@@ -89,7 +89,7 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 
 - **IMT Ghaziabad:** The #1 marketing B-school in Delhi NCR, placing students in top FMCG firms like ITC, HUL, and L'Oreal with an average package of **₹17.35 LPA**.
 - **IMI New Delhi:** Ranks closely behind IMT, with strong finance and consulting recruitments offering an average package of **₹17.01 LPA**.
-- **[FORE School of Management](/colleges/fore-school-delhi), Delhi:** A highly popular college in South Delhi, offering an average package of **₹14.50 LPA** with strong placements in corporate finance and marketing.
+- **[FORE School of Management](/colleges/fore-school-delhi/), Delhi:** A highly popular college in South Delhi, offering an average package of **₹14.50 LPA** with strong placements in corporate finance and marketing.
 - **LBSIM Delhi (Dwarka):** Noted for its finance placements, offering an average package of **₹12.42 LPA**.
 
 ---
@@ -98,8 +98,8 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 
 | College Name | Average Placement Package | Highest Package Offered | Top Recruiting Sectors |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi)** | **₹34.10 LPA** | ₹1.2 Crore | Management Consulting / Investment Banking |
-| **[IIFT Delhi](/colleges/iift-delhi)** | **₹29.10 LPA** | ₹85.00 LPA | International Trade / Consulting |
+| **[FMS Delhi](/colleges/fms-delhi/)** | **₹34.10 LPA** | ₹1.2 Crore | Management Consulting / Investment Banking |
+| **[IIFT Delhi](/colleges/iift-delhi/)** | **₹29.10 LPA** | ₹85.00 LPA | International Trade / Consulting |
 | **MDI Gurugram** | **₹27.67 LPA** | ₹65.00 LPA | FMCG Marketing / Strategy Consulting |
 | **IMT Ghaziabad** | **₹17.35 LPA** | ₹60.25 LPA | Retail Marketing / Sales / IT |
 | **IMI New Delhi** | **₹17.01 LPA** | ₹50.00 LPA | Corporate Finance / HR Consulting |
@@ -117,10 +117,10 @@ For students scoring in the 85-95 percentile bracket in CAT/XAT, these colleges 
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr)
-- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29)
-- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2027-29)
+- [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
+- [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
+- [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2027-29/)
 
 ---
 
@@ -130,7 +130,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 
 **Confused about which B-schools offer the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 ---
@@ -138,7 +138,7 @@ With multiple entrance exams (CAT, XAT, MAT, NMAT) and hundreds of colleges in D
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -149,6 +149,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

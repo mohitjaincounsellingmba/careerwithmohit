@@ -9,7 +9,7 @@ keywords:
   - NMIMS Online MBA review negative
   - NMIMS distance MBA placement reality
   - is NMIMS online MBA worth it 2027–29
-  - 'NMIMS Global vs [NMIMS Mumbai](/colleges/nmims-mumbai) MBA'
+  - 'NMIMS Global vs [NMIMS Mumbai](/colleges/nmims-mumbai/) MBA'
   - problems with NMIMS online exams
   - why skip online MBA at NMIMS
   - Direct Admission in Delhi
@@ -25,7 +25,7 @@ faqs:
       MBA do so by leveraging their **previous work experience**, not the degree
       itself.
   - question: Is the degree certificate different from the Mumbai campus?
-    answer: "Yes. It clearly mentions \"NMIMS Global Access School for Continuing Education.\" Every HR will know the difference immediately.\n\n[\U0001F449 Get a Free Career Audit Before You Pay!](/inquiry)\n\n**Don't Let Marketing Define Your Future.**\nAt **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not just the brand. \n\n[\U0001F449 Speak to an Honest Consultant Now!](/inquiry)"
+    answer: "Yes. It clearly mentions \"NMIMS Global Access School for Continuing Education.\" Every HR will know the difference immediately.\n\n[\U0001F449 Get a Free Career Audit Before You Pay!](/inquiry/)\n\n**Don't Let Marketing Define Your Future.**\nAt **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not just the brand. \n\n[\U0001F449 Speak to an Honest Consultant Now!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -40,7 +40,7 @@ Here is the unfiltered truth about why you should probably **Skip the NMIMS Onli
 ---
 
 ### **1. The 'Prestige' Trap: Mumbai vs. Global**
-[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) is a powerhouse. It is ranked among India's Top 10 B-schools. However, **NMIMS Online is a completely different entity.**
+[NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM) is a powerhouse. It is ranked among India's Top 10 B-schools. However, **NMIMS Online is a completely different entity.**
 *   **The Reality**: Employers know the difference. When you list "NMIMS MBA" on your LinkedIn, but it’s from the online portal, you are not getting the prestige of the Mumbai campus. In fact, it can sometimes work against you as it shows you "settled" for a lower-hurdle degree.
 
 #
@@ -93,12 +93,12 @@ Highly unlikely. Most students who secure high packages after an online MBA do s
 **3. Is the degree certificate different from the Mumbai campus?**
 Yes. It clearly mentions "NMIMS Global Access School for Continuing Education." Every HR will know the difference immediately.
 
-[👉 Get a Free Career Audit Before You Pay!](/inquiry)
+[👉 Get a Free Career Audit Before You Pay!](/inquiry/)
 
 **Don't Let Marketing Define Your Future.**
 At **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not just the brand. 
 
-[👉 Speak to an Honest Consultant Now!](/inquiry)
+[👉 Speak to an Honest Consultant Now!](/inquiry/)
 
 
 
@@ -107,7 +107,7 @@ At **CareerWithMohit**, we help you find the **ROI** (Return on Investment), not
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -121,6 +121,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

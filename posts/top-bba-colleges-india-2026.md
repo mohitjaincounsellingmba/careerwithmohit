@@ -24,7 +24,7 @@ faqs:
       In the IPM program, you get a **BA (Foundations of Management)** after 3
       years and an **MBA** after 5 years. However, socially and professionally,
       it is treated as an integrated BBA+MBA pathway.
-  - question: 'What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai)?'
+  - question: 'What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai/)?'
     answer: >-
       The annual tuition fee for the BBA program at NMIMS (Anil Surendra Modi
       School of Commerce) is approximately **₹3.2 Lakhs to ₹3.5 Lakhs**.
@@ -53,12 +53,12 @@ Whether you are targeting the prestigious IIMs or the high-industry-connect priv
 
 | Rank | College | City | Entrance Exam | 1st Yr Fees | Avg. Package |
 |---|---|---|---|---|---|
-| **1** | **[IIM Indore](/colleges/iim-indore) (IPM)** | Indore | IPMAT | ₹5.5 Lakhs | ₹25.0 LPA |
-| **2** | **[IIM Rohtak](/colleges/iim-rohtak) (IPM)** | Rohtak | IPMAT | ₹5.0 Lakhs | ₹18.5 LPA |
+| **1** | **[IIM Indore](/colleges/iim-indore/) (IPM)** | Indore | IPMAT | ₹5.5 Lakhs | ₹25.0 LPA |
+| **2** | **[IIM Rohtak](/colleges/iim-rohtak/) (IPM)** | Rohtak | IPMAT | ₹5.0 Lakhs | ₹18.5 LPA |
 | **3** | **SSCBS (DU)** | Delhi | CUET | ₹0.3 Lakhs | ₹10.5 LPA |
 | **4** | **NMIMS (SBM)** | Mumbai | NPAT | ₹3.5 Lakhs | ₹12.0 LPA |
 | **5** | **Shaheed Sukhdev** | Delhi | CUET | ₹0.3 Lakhs | ₹9.5 LPA |
-| **6** | **[IIM Ranchi](/colleges/iim-ranchi) (IPM)** | Ranchi | IPMAT | ₹4.8 Lakhs | ₹16.0 LPA |
+| **6** | **[IIM Ranchi](/colleges/iim-ranchi/) (IPM)** | Ranchi | IPMAT | ₹4.8 Lakhs | ₹16.0 LPA |
 | **7** | **Symbiosis (SCMS)** | Pune | SET | ₹3.2 Lakhs | ₹7.5 LPA |
 | **8** | **Christ University** | Bangalore | CUET/ET | ₹2.8 Lakhs | ₹6.5 LPA |
 | **9** | **Loyola College** | Chennai | Merit | ₹0.8 Lakhs | ₹5.5 LPA |
@@ -69,7 +69,7 @@ Whether you are targeting the prestigious IIMs or the high-industry-connect priv
 ## 🏛️ The Three Pillars of BBA in 2026
 
 ### 1. The IIM-IPM Path (The Gold Standard)
-Programs like [IIM Indore](/colleges/iim-indore) and [IIM Rohtak](/colleges/iim-rohtak) offer a 5-year Integrated Programme in Management (IPM) where you get an MBA directly from an IIM after your 12th.
+Programs like [IIM Indore](/colleges/iim-indore/) and [IIM Rohtak](/colleges/iim-rohtak/) offer a 5-year Integrated Programme in Management (IPM) where you get an MBA directly from an IIM after your 12th.
 - **Top Choice:** For students with high mathematical and logical aptitude.
 - **Outcome:** Placement parity with top-tier MBA students.
 
@@ -92,7 +92,7 @@ In 2026, getting a top college depends 100% on entrance exam strategy.
 
 ## 🏗️ Direct BBA Admission 2026
 
-If you miss the entrance exam cutoffs, several universities like **[Jain University](/colleges/jain-university) (Bangalore), Amity (Noida), and Bennett (Greater Noida)** offer merit-based direct entry.
+If you miss the entrance exam cutoffs, several universities like **[Jain University](/colleges/jain-university/) (Bangalore), Amity (Noida), and Bennett (Greater Noida)** offer merit-based direct entry.
 - **Strategy:** Use your Class 12 marks (aim for 85%+) to secure early-bird seats.
 - **Fees:** Range from ₹2.5 Lakhs to ₹4.5 Lakhs per year.
 
@@ -103,10 +103,10 @@ If you miss the entrance exam cutoffs, several universities like **[Jain Univers
 **Q1. Is BBA better than B.Com?**
 If you target a **Corporate/Management career**, BBA is better because of its professional curriculum. If you target **CA/Audit/Accounting**, B.Com remains the standard choice.
 
-**Q2. does [IIM Indore](/colleges/iim-indore) give BBA degree?**
+**Q2. does [IIM Indore](/colleges/iim-indore/) give BBA degree?**
 In the IPM program, you get a **BA (Foundations of Management)** after 3 years and an **MBA** after 5 years. However, socially and professionally, it is treated as an integrated BBA+MBA pathway.
 
-**Q3. What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai)?**
+**Q3. What is the fee for BBA in [NMIMS Mumbai](/colleges/nmims-mumbai/)?**
 The annual tuition fee for the BBA program at NMIMS (Anil Surendra Modi School of Commerce) is approximately **₹3.2 Lakhs to ₹3.5 Lakhs**.
 
 **Q4. can I get into SSCBS Delhi with 90% in boards?**
@@ -118,16 +118,16 @@ Most exams (IPMAT, NPAT, SET) are held in **May/June 2026**.
 ---
 
 ### Useful Links:
-- [IPMAT 2026 — Preparation Guide & Strategy](/blog/ipmat-2026-preparation-guide-colleges)
-- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2027-29)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [IPMAT 2026 — Preparation Guide & Strategy](/blog/ipmat-2026-preparation-guide-colleges/)
+- [Top MBA Colleges in India 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 **Ready to start your Management Journey?**
 BBA is the foundation of leadership. Don't waste your score on a college without a corporate placement cell. Mohit Jain provides a "BBA Excellence Audit"—helping you pick the college that matches your goals for investment banking or marketing.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -135,7 +135,7 @@ BBA is the foundation of leadership. Don't waste your score on a college without
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -149,6 +149,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

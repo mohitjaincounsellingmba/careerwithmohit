@@ -31,7 +31,7 @@ export default function NotFound() {
         {/* Quick Hub Navigation Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-left mb-12">
           <Link
-            href="/colleges"
+            href="/colleges/"
             className="group p-6 bg-white border-4 border-foreground rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all"
           >
             <div className="flex items-center gap-4 mb-3">
@@ -51,7 +51,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/mock-tests"
+            href="/mock-tests/"
             className="group p-6 bg-white border-4 border-foreground rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all"
           >
             <div className="flex items-center gap-4 mb-3">
@@ -71,7 +71,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/online-degree-certification"
+            href="/online-degree-certification/"
             className="group p-6 bg-white border-4 border-foreground rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all"
           >
             <div className="flex items-center gap-4 mb-3">
@@ -91,7 +91,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/blog"
+            href="/blog/"
             className="group p-6 bg-white border-4 border-foreground rounded-2xl shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[10px_10px_0px_0px_rgba(0,0,0,1)] transition-all"
           >
             <div className="flex items-center gap-4 mb-3">

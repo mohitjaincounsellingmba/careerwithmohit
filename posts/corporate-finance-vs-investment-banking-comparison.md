@@ -108,16 +108,16 @@ Corporate Finance. Every company needs a finance team. Only a few top banks and 
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Decide Your High-Finance Destiny.**
 Choosing between these two is about lifestyle, not just money. Don't waste your energy in a high-stress bank if your heart is in corporate strategy. Mohit Jain provides a **"Finance Persona Audit"**—helping you decide if you are a "Dealmaker" or an "Operator" and positioning you for the right interviews.
 
-[👉 Book My Finance Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Career Roadmap Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -125,7 +125,7 @@ Choosing between these two is about lifestyle, not just money. Don't waste your 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

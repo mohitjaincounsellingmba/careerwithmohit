@@ -44,7 +44,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-The **IPMAT (Integrated Programme in Management Aptitude Test)** is perhaps the most prestigious entrance exam for 12th-grade students in India. It is your direct ticket into the "IIM League" without waiting for CAT after graduation. In 2026, over 40,000 students will compete for a handful of seats at [IIM Indore](/colleges/iim-indore), [IIM Rohtak](/colleges/iim-rohtak), and other premier institutes.
+The **IPMAT (Integrated Programme in Management Aptitude Test)** is perhaps the most prestigious entrance exam for 12th-grade students in India. It is your direct ticket into the "IIM League" without waiting for CAT after graduation. In 2026, over 40,000 students will compete for a handful of seats at [IIM Indore](/colleges/iim-indore/), [IIM Rohtak](/colleges/iim-rohtak/), and other premier institutes.
 
 This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking down exactly how to navigate the selection criteria of the top IIMs.
 
@@ -54,18 +54,18 @@ This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking
 
 | Institute | Exam Name | Duration | Degrees Awarded |
 |---|---|---|---|
-| **[IIM Indore](/colleges/iim-indore)** | IPMAT Indore | 5 Years | BA (Foundations) + MBA |
-| **[IIM Rohtak](/colleges/iim-rohtak)** | IPMAT Rohtak | 5 Years | BBA + MBA |
-| **[IIM Ranchi](/colleges/iim-ranchi)** | IPMAT Indore | 5 Years | BBA + MBA |
-| **[IIM Jammu](/colleges/iim-jammu)** | JIPMAT | 5 Years | BBA + MBA |
-| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)**| JIPMAT | 5 Years | BBA + MBA |
+| **[IIM Indore](/colleges/iim-indore/)** | IPMAT Indore | 5 Years | BA (Foundations) + MBA |
+| **[IIM Rohtak](/colleges/iim-rohtak/)** | IPMAT Rohtak | 5 Years | BBA + MBA |
+| **[IIM Ranchi](/colleges/iim-ranchi/)** | IPMAT Indore | 5 Years | BBA + MBA |
+| **[IIM Jammu](/colleges/iim-jammu/)** | JIPMAT | 5 Years | BBA + MBA |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/)**| JIPMAT | 5 Years | BBA + MBA |
 | **IIFT Kakinada**| IPMAT Indore | 5 Years | BBA (Bus. Analytics) + MBA |
 
 ---
 
 ## 📊 IPMAT 2026 Exam Pattern (Indore)
 
-[IIM Indore](/colleges/iim-indore)'s exam is the gold standard and follows a unique three-section format:
+[IIM Indore](/colleges/iim-indore/)'s exam is the gold standard and follows a unique three-section format:
 
 | Section | Question Type | Duration | Marking |
 |---|---|---|---|
@@ -112,8 +112,8 @@ No. JEE is purely science-based. IPMAT is an **Aptitude Test**. While the Quant 
 **Q3. What is the safe score for IIM Indore 2026?**
 While cutoffs change every year, a safe target is usually **180-200+ marks** out of 400 for a General category student to ensure an interview call.
 
-**Q4. does [IIM Ranchi](/colleges/iim-ranchi) have a separate exam?**
-No. [IIM Ranchi](/colleges/iim-ranchi) uses the **IPMAT Indore scores** for its first-round selection.
+**Q4. does [IIM Ranchi](/colleges/iim-ranchi/) have a separate exam?**
+No. [IIM Ranchi](/colleges/iim-ranchi/) uses the **IPMAT Indore scores** for its first-round selection.
 
 **Q5. When is IPMAT 2026 scheduled?**
 Typically held in **May 2026**, soon after the 12th standard board exams are over.
@@ -121,16 +121,16 @@ Typically held in **May 2026**, soon after the 12th standard board exams are ove
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [How to Prepare for CUET UG 2026](/blog/cuet-ug-2026-bba-admission-guide)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [How to Prepare for CUET UG 2026](/blog/cuet-ug-2026-bba-admission-guide/)
 
 ---
 
 **Do You Have the Aptitude for an IIM?**
 IPMAT is about speed, precision, and endurance. Don't waste your attempt on a sub-par strategy. Mohit Jain provides a **"Selection Audit"**—evaluating your raw aptitude and building a study plan that ensures you get the "IIM Tag" before you even graduate.
 
-[👉 Book My IPMAT Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My IPMAT Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -138,7 +138,7 @@ IPMAT is about speed, precision, and endurance. Don't waste your attempt on a su
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -152,6 +152,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

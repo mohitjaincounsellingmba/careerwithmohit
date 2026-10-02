@@ -8,7 +8,7 @@ description: >-
 keywords:
   - CUET UG colleges in Jaipur 2026
   - Manipal Jaipur CUET cutoff
-  - '[JECRC University](/colleges/jecrc-jaipur) CUET admissions'
+  - '[JECRC University](/colleges/jecrc-jaipur/) CUET admissions'
   - Jaipur National University list
   - best colleges in Jaipur for undergraduate CUET
   - Direct Admission in Delhi
@@ -43,12 +43,12 @@ If you are a student targeting **Jaipur for the 2026-27 session**, here are the 
 
 ---
 
-### **1. [Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ)**
+### **1. [Manipal University Jaipur](/colleges/manipal-university-jaipur/) (MUJ)**
 Known for its massive campus and highly industry-aligned curriculum.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, B.Sc (Hons).
 *   **USP:** World-class infrastructure and top-tier placements.
 
-### **2. [JECRC University](/colleges/jecrc-jaipur)**
+### **2. [JECRC University](/colleges/jecrc-jaipur/)**
 A hub for technical and professional education in Jaipur.
 *   **Programs:** B.Tech, B.Sc, Design, Liberal Arts.
 *   **USP:** Focus on employability and practical learning.
@@ -63,7 +63,7 @@ Focuses on design, agriculture, and modern engineering specializations.
 *   **Programs:** B.Des, B.Sc Agriculture, BBA, BA J&MC.
 *   **USP:** Focus on research and entrepreneurship.
 
-### **5. [Poornima University](/colleges/poornima-jaipur)**
+### **5. [Poornima University](/colleges/poornima-jaipur/)**
 Known for its engineering and architecture focus.
 *   **Programs:** B.Arch, B.Tech, B.Sc, B.Com.
 *   **USP:** Strong discipline and result-oriented academic culture.
@@ -75,7 +75,7 @@ Known for its engineering and architecture focus.
 *   **Growth:** Emerging as a tech and startup hub.
 *   **Heritage:** A culturally rich and secure environment for students.
 
-[👉 Get Admission Counseling for Jaipur 2026](/inquiry)
+[👉 Get Admission Counseling for Jaipur 2026](/inquiry/)
 [👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
 
 **Need help deciding between Manipal Jaipur and Poornima? Let our experts guide you!**
@@ -100,6 +100,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

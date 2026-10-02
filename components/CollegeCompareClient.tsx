@@ -22,7 +22,7 @@ export function CollegeCompareClient({ colleges }: { colleges: CollegeMetadata[]
           <GraduationCap className="mx-auto mb-6 h-16 w-16 text-slate-300" />
           <h1 className="text-3xl font-black tracking-tight text-slate-900">Compare colleges side-by-side</h1>
           <p className="mt-4 text-slate-500">Choose up to four colleges from the directory to see their fees, placements, rankings, and accepted exams.</p>
-          <Link href="/colleges" className="mt-8 inline-flex items-center gap-2 rounded-2xl bg-slate-900 px-6 py-4 text-xs font-black uppercase tracking-widest text-white hover:bg-blue-600">
+          <Link href="/colleges/" className="mt-8 inline-flex items-center gap-2 rounded-2xl bg-slate-900 px-6 py-4 text-xs font-black uppercase tracking-widest text-white hover:bg-blue-600">
             <ArrowLeft className="h-4 w-4" /> Choose colleges
           </Link>
         </section>
@@ -46,7 +46,7 @@ export function CollegeCompareClient({ colleges }: { colleges: CollegeMetadata[]
   return (
     <main className="min-h-screen bg-slate-50 px-4 pb-28 pt-24">
       <div className="mx-auto max-w-7xl">
-        <Link href="/colleges" className="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-slate-500 hover:text-blue-600"><ArrowLeft className="h-4 w-4" /> Back to directory</Link>
+        <Link href="/colleges/" className="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-slate-500 hover:text-blue-600"><ArrowLeft className="h-4 w-4" /> Back to directory</Link>
         <h1 className="mt-5 text-4xl font-black tracking-tight text-slate-900 md:text-6xl">Compare colleges</h1>
         <p className="mt-3 text-slate-500">A side-by-side view of {selected.length} selected institute{selected.length === 1 ? "" : "s"}.</p>
         <div className="mt-10 overflow-x-auto rounded-[2rem] border border-slate-200 bg-white shadow-xl">

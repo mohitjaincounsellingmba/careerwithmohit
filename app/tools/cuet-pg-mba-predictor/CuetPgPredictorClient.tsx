@@ -267,7 +267,7 @@ function CollegeCard({ college, type }: { college: College, type: "safe" | "targ
                         <span className="font-black text-primary italic">{college.cutoff}+</span>
                     </div>
                 </div>
-                <Link href="/inquiry" className={`w-full py-3 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all flex items-center justify-center gap-2 border-2 border-[#18181b] outline-none ${
+                <Link href="/inquiry/" className={`w-full py-3 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all flex items-center justify-center gap-2 border-2 border-[#18181b] outline-none ${
                     type === "safe" ? "bg-emerald-500 text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none translate-y-0 active:translate-y-1" :
                     type === "target" ? "bg-blue-500 text-white shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:shadow-none translate-y-0 active:translate-y-1" :
                     "bg-[#18181b] text-white shadow-[4px_4px_10px_0px_rgba(37,99,235,1)] hover:shadow-none translate-y-0 active:translate-y-1"

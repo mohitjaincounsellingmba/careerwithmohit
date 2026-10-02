@@ -56,18 +56,18 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [JIMS Kalkaji Review 2027–2029](/colleges/jims-kalkaji): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+# [JIMS Kalkaji Review 2027–2029](/colleges/jims-kalkaji/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and ATMA for an approved intake of **180 seats**.
 > - **Verified Total Fee Investment**: **₹10,75,000** for the 2-year full-time curriculum, payable in 4 installments.
 > - **Placement & ROI Benchmark**: Average placement ranges between **₹8.20 – ₹9.30 LPA** (NIRF median: **₹9.50 LPA**; Highest package: **₹20.00 – ₹35.00 LPA**) with 92–96% placement consistency in BFSI, Consulting, and FMCG.
 
-For management aspirants seeking an AICTE-approved, NBA-accredited business school in the heart of South Delhi with tuition fees under ₹11 Lakhs, **[Jagannath International Management School](/colleges/jims-kalkaji) (JIMS), Kalkaji** is one of the most popular choices in Delhi NCR. 
+For management aspirants seeking an AICTE-approved, NBA-accredited business school in the heart of South Delhi with tuition fees under ₹11 Lakhs, **[Jagannath International Management School](/colleges/jims-kalkaji/) (JIMS), Kalkaji** is one of the most popular choices in Delhi NCR. 
 
 Established in 1997, JIMS Kalkaji has earned a strong reputation among corporate recruiters, particularly in Banking, Financial Services, and Retail Marketing. Backed by **NBA accreditation**, **AIU MBA Equivalence**, and international **SAQS accreditation**, JIMS Kalkaji offers an intimate, high-engagement learning environment with a boutique batch size of just 180 students.
 
-In this exhaustive **JIMS Kalkaji review 2027–2029**, we provide verified details on the **updated fee structure, latest placement reports, entrance exam cutoffs, batch composition, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2027-29), [FIIB South Delhi](/blog/fiib-delhi-review-2027), and [FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29)**.
+In this exhaustive **JIMS Kalkaji review 2027–2029**, we provide verified details on the **updated fee structure, latest placement reports, entrance exam cutoffs, batch composition, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2027-29/), [FIIB South Delhi](/blog/fiib-delhi-review-2027/), and [FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29/)**.
 
 ---
 
@@ -75,7 +75,7 @@ In this exhaustive **JIMS Kalkaji review 2027–2029**, we provide verified deta
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution Name** | **[Jagannath International Management School](/colleges/jims-kalkaji) (JIMS), Kalkaji** |
+| **Institution Name** | **[Jagannath International Management School](/colleges/jims-kalkaji/) (JIMS), Kalkaji** |
 | **Establishment Year** | 1997 (28+ Years of Academic Excellence) |
 | **Campus Location** | MOR Pocket 105, Kalkaji, New Delhi - 110019 (Near Nehru Place) |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence, SAQS Accredited |
@@ -115,7 +115,7 @@ JIMS Kalkaji provides partnered hostel accommodations and helps students settle 
 *   **Nehru Place Proximity:** Students enjoy immediate walking access to Delhi’s major IT and business district with abundant food, shopping, and library facilities.
 
 ### Scholarships & Financial Aid
-*   **Merit-Based Scholarships:** Tuition fee waivers for candidates scoring 80+ percentile in [CAT Exam](/blog/all-about-cat-exam) / [XAT Exam](/blog/all-about-xat-exam) or 85+ percentile in [MAT Exam](/blog/all-about-mat-exam) / [CMAT Exam](/blog/all-about-cmat-exam).
+*   **Merit-Based Scholarships:** Tuition fee waivers for candidates scoring 80+ percentile in [CAT Exam](/blog/all-about-cat-exam/) / [XAT Exam](/blog/all-about-xat-exam/) or 85+ percentile in [MAT Exam](/blog/all-about-mat-exam/) / [CMAT Exam](/blog/all-about-cmat-exam/).
 *   **Special Concessions:** Fee waivers for candidates with consistent 70%+ academic track records, defense wards, and siblings of JIMS alumni.
 *   **Education Loans:** Approved for collateral-free student loans by SBI, Punjab National Bank, and Axis Bank.
 
@@ -179,10 +179,10 @@ Designed specifically for cross-border trade, global logistics, foreign exchange
 
 | Entrance Exam | Minimum Shortlist Cutoff | Recommended Safe Zone |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/all-about-cat-exam)** | 60%ile | 65%ile+ |
-| **[XAT Exam](/blog/all-about-xat-exam)** | 60%ile | 65%ile+ |
-| **[MAT Exam](/blog/all-about-mat-exam)** | 75%ile | 80%ile+ |
-| **[CMAT Exam](/blog/all-about-cmat-exam)** | 70%ile | 75%ile+ |
+| **[CAT Exam](/blog/all-about-cat-exam/)** | 60%ile | 65%ile+ |
+| **[XAT Exam](/blog/all-about-xat-exam/)** | 60%ile | 65%ile+ |
+| **[MAT Exam](/blog/all-about-mat-exam/)** | 75%ile | 80%ile+ |
+| **[CMAT Exam](/blog/all-about-cmat-exam/)** | 70%ile | 75%ile+ |
 | **ATMA** | 75%ile | 80%ile+ |
 
 ### Selection Stages
@@ -212,7 +212,7 @@ Designed specifically for cross-border trade, global logistics, foreign exchange
 
 ## 7. JIMS Kalkaji vs. Competitors: Detailed Comparison
 
-| Feature | **JIMS Kalkaji** | **[NDIM Delhi](/blog/ndim-delhi-review-2027-29)** | **[FIIB South Delhi](/blog/fiib-delhi-review-2027)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29)** |
+| Feature | **JIMS Kalkaji** | **[NDIM Delhi](/blog/ndim-delhi-review-2027-29/)** | **[FIIB South Delhi](/blog/fiib-delhi-review-2027/)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29/)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Kalkaji, South Delhi | Tughlakabad, South Delhi | Vasant Vihar, South Delhi | Dwarka, West Delhi |
 | **Total Program Fee** | **₹10.75 Lakhs** | ₹13.75 Lakhs | ₹12.85 Lakhs | ₹11.50 Lakhs |
@@ -230,13 +230,13 @@ Designed specifically for cross-border trade, global logistics, foreign exchange
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[JIMS Kalkaji](/colleges/jims-kalkaji)** | **₹10.75 Lakhs** | **₹8.20 – ₹9.30 LPA** | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups · 180 Seats |
-| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
-| **[FIIB South Delhi](/blog/fiib-delhi-review-2027)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
-| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
-| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
-| **[ISBR Bangalore](/colleges/isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
+| **[JIMS Kalkaji](/colleges/jims-kalkaji/)** | **₹10.75 Lakhs** | **₹8.20 – ₹9.30 LPA** | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups · 180 Seats |
+| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
+| **[FIIB South Delhi](/blog/fiib-delhi-review-2027/)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
+| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
+| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
+| **[ISBR Bangalore](/colleges/isbr-bangalore/)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
 
 ---
 
@@ -267,4 +267,4 @@ JIMS Kalkaji has a total approved intake of **180 seats** (120 for PGDM and 60 f
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.

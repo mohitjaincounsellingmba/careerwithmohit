@@ -218,7 +218,7 @@ export function HomeCollegeExplorer() {
             </div>
 
             <Link
-              href="/colleges"
+              href="/colleges/"
               className="inline-flex h-11 items-center justify-center gap-1.5 px-5 rounded-xl bg-slate-900 hover:bg-blue-600 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-sm whitespace-nowrap"
             >
               <span>All 770+ Directory</span>
@@ -685,7 +685,7 @@ export function HomeCollegeExplorer() {
                 Reset All Filters
               </button>
               <Link
-                href="/colleges"
+                href="/colleges/"
                 className="px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-all"
               >
                 Search Full 770+ Directory &rarr;
@@ -725,7 +725,7 @@ export function HomeCollegeExplorer() {
 
           <div className="flex flex-wrap items-center gap-3 shrink-0">
             <Link
-              href="/colleges"
+              href="/colleges/"
               className="px-6 py-3.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs sm:text-sm transition-all shadow-lg shadow-amber-950/20 whitespace-nowrap flex items-center gap-1.5"
             >
               <span>Explore All 770+ Colleges</span>

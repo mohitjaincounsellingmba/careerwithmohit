@@ -37,7 +37,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: New to the stock market? Learn how to start investing in 2026. Discover Demat accounts, basic stock picking ti...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The Indian stock market has seen a record-breaking surge in retail participation. In 2026, with inflation-beating returns being a necessity, entering the equity market is no longer a choice—it is a mandatory life skill. However, for a student or a young professional, the "noise" of social media can make the stock market look like a casino. 
@@ -110,16 +110,16 @@ A stock that gives returns multiple times its cost (e.g., a stock that goes from
 ---
 
 ### Useful Links:
-- [India Income Tax Slabs 2026-27 Guide](/blog/india-income-tax-slabs-2026-27-regime-comparison)
-- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2027-29)
-- [Crypto Taxation India 2026 Rules](/blog/cryptocurrency-taxation-india-2026-complete-rules)
+- [India Income Tax Slabs 2026-27 Guide](/blog/india-income-tax-slabs-2026-27-regime-comparison/)
+- [How to Save Tax Under 80C & 80D](/blog/save-income-tax-india-80c-80d-guide-2027-29/)
+- [Crypto Taxation India 2026 Rules](/blog/cryptocurrency-taxation-india-2026-complete-rules/)
 
 ---
 
 **Build Your Wealth, One Share at a Time.**
 Investing is a journey of discipline. Don't waste your capital on "get rich quick" schemes. Mohit Jain provides a **"Beginner Portfolio Audit"**—helping you pick the right asset allocation between Gold, Debt, and Equity to ensure you reach your financial milestones without taking uncalculated risks.
 
-[👉 Book My Investment Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Investment Roadmap Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -127,6 +127,6 @@ Investing is a journey of discipline. Don't waste your capital on "get rich quic
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

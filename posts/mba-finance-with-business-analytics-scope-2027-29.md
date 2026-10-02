@@ -84,7 +84,7 @@ An MBA program focusing on Finance and Business Analytics is designed to give yo
 * **Data Visualization & Storytelling:** Using Tableau and Power BI to construct real-time financial dashboards for executive presentations.
 * **Machine Learning in BFSI:** Building credit risk assessment models, customer churn forecasting, and fraud detection systems.
 
-*Read more:* [MBA in Finance vs. MBA in FinTech: Which is Best in 2027–29?](/blog/mba-finance-vs-fintech-comparison-2027-29)
+*Read more:* [MBA in Finance vs. MBA in FinTech: Which is Best in 2027–29?](/blog/mba-finance-vs-fintech-comparison-2027-29/)
 
 ---
 
@@ -107,7 +107,7 @@ PMs in fintech bridge the gap between software engineers and product operations.
 ### 5. Management/Strategy Consultant
 Advisors at premium firms (like McKinsey, BCG, and Bain) help legacy institutions digitize their financial systems. A dual understanding of analytics and business logic makes you the ideal consultant for these projects.
 
-*Read more:* [Corporate Finance vs. Investment Banking: Career Comparison](/blog/corporate-finance-vs-investment-banking-comparison) | [Investment Banking Career Path Guide](/blog/investment-banking-career-path-salary-2027-29)
+*Read more:* [Corporate Finance vs. Investment Banking: Career Comparison](/blog/corporate-finance-vs-investment-banking-comparison/) | [Investment Banking Career Path Guide](/blog/investment-banking-career-path-salary-2027-29/)
 
 ---
 
@@ -125,11 +125,11 @@ Starting packages for graduates specializing in Finance and Business Analytics d
 
 If you are targeting programs that combine financial training with state-of-the-art analytics labs and Bloomberg Terminals, these B-schools are the top contenders:
 
-1. **Premier Government B-Schools:** Programs like the Joint PGDBA by **[IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata** are highly quantitative. [IIM Bangalore](/colleges/iim-bangalore) (PGPBA) and [FMS Delhi](/colleges/fms-delhi) also offer premier analytical tracks.
-2. **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) & [SPJIMR Mumbai](/colleges/spjimr-mumbai):** Legendary for corporate connections and traditional finance placements, both **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** and **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** have added heavy analytics tracks to their core Finance PGDM.
-3. **[MDI Gurgaon](/colleges/mdi-gurgaon) & [SIBM Pune](/colleges/sibm-pune):** **[MDI Gurgaon](/colleges/mdi-gurgaon)** and **[SIBM Pune](/colleges/sibm-pune)** offer robust specializations in Finance and Analytics, making them excellent choices in the private sector.
-4. **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM), Delhi:** [NDIM Delhi](/colleges/ndim-delhi) is widely recognized for its industry linkages and offers a specialized PGDM in Business Analytics (PGDM-BA) alongside a robust Finance track, making it a top-tier option for corporate placements in Delhi NCR.
-   * *Read more:* [NDIM Delhi Placement Review 2027–29](/blog/ndim-placement-review-2027-29)
+1. **Premier Government B-Schools:** Programs like the Joint PGDBA by **[IIM Calcutta](/colleges/iim-calcutta/), IIT Kharagpur, and ISI Kolkata** are highly quantitative. [IIM Bangalore](/colleges/iim-bangalore/) (PGPBA) and [FMS Delhi](/colleges/fms-delhi/) also offer premier analytical tracks.
+2. **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) & [SPJIMR Mumbai](/colleges/spjimr-mumbai/):** Legendary for corporate connections and traditional finance placements, both **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** and **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** have added heavy analytics tracks to their core Finance PGDM.
+3. **[MDI Gurgaon](/colleges/mdi-gurgaon/) & [SIBM Pune](/colleges/sibm-pune/):** **[MDI Gurgaon](/colleges/mdi-gurgaon/)** and **[SIBM Pune](/colleges/sibm-pune/)** offer robust specializations in Finance and Analytics, making them excellent choices in the private sector.
+4. **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM), Delhi:** [NDIM Delhi](/colleges/ndim-delhi/) is widely recognized for its industry linkages and offers a specialized PGDM in Business Analytics (PGDM-BA) alongside a robust Finance track, making it a top-tier option for corporate placements in Delhi NCR.
+   * *Read more:* [NDIM Delhi Placement Review 2027–29](/blog/ndim-placement-review-2027-29/)
 
 
 ---
@@ -150,11 +150,11 @@ No. You do not need to write production-grade software code. Your role as an MBA
 **Confused about which MBA specialization fits your profile?**  
 Deciding between traditional corporate finance, tech-oriented FinTech, or data-driven business analytics requires examining your academic background and professional strengths. Mohit Jain offers personalized career counselling sessions to help you evaluate B-schools, understand the curriculum, and map out your admission strategy.
 
-[👉 Book My MBA Career Roadmap Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My MBA Career Roadmap Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

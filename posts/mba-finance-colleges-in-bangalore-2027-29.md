@@ -51,10 +51,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.31 LPA** |
-| **[SIBM Bangalore](/colleges/sibm-bangalore) (Symbiosis Institute of Business Management)** | SNAP | ₹18.0 Lakhs (Total) | **₹14.50 LPA** |
+| **[IIM Bangalore](/colleges/iim-bangalore/) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.31 LPA** |
+| **[SIBM Bangalore](/colleges/sibm-bangalore/) (Symbiosis Institute of Business Management)** | SNAP | ₹18.0 Lakhs (Total) | **₹14.50 LPA** |
 | **Christ University (School of Business and Management)** | CAT / XAT / MAT / CMAT | ₹9.5 Lakhs (Total) | **₹8.20 LPA** |
-| **[XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)** | CAT / XAT / MAT / CMAT | ₹12.5 Lakhs (Total) | **₹9.20 LPA** |
+| **[XIME Bangalore](/colleges/xime-bangalore/) (Xavier Institute of Management & Entrepreneurship)** | CAT / XAT / MAT / CMAT | ₹12.5 Lakhs (Total) | **₹9.20 LPA** |
 | **Welingkar Bangalore (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹10.50 LPA** |
 
 ---
@@ -76,13 +76,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Bangalore
 
-### 1. [IIM Bangalore](/colleges/iim-bangalore) (Indian Institute of Management)
+### 1. [IIM Bangalore](/colleges/iim-bangalore/) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.31 LPA**
 - **Key Highlight:** Elite global institution; unmatched prestige in investment banking and consulting.
 
-### 2. [SIBM Bangalore](/colleges/sibm-bangalore) (Symbiosis Institute of Business Management)
+### 2. [SIBM Bangalore](/colleges/sibm-bangalore/) (Symbiosis Institute of Business Management)
 - **Approximate Fees:** ₹18.0 Lakhs (Total)
 - **Accepted Entrance Exams:** SNAP
 - **Average Placement Package:** **₹14.50 LPA**
@@ -94,7 +94,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹8.20 LPA**
 - **Key Highlight:** High academic rigor, disciplined culture, and massive corporate brand recognition.
 
-### 4. [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)
+### 4. [XIME Bangalore](/colleges/xime-bangalore/) (Xavier Institute of Management & Entrepreneurship)
 - **Approximate Fees:** ₹12.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / MAT / CMAT
 - **Average Placement Package:** **₹9.20 LPA**
@@ -117,9 +117,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -129,7 +129,7 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Finance Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -138,8 +138,8 @@ Finding a program that fits your academic profile, budget, and placement goals c
 ### What makes Bangalore a great destination for MBA Finance?
 Bangalore is the headquarters of major tech companies, e-commerce giants, and houses extensive offices of top international investment banks like Goldman Sachs, HSBC, and Standard Chartered.
 
-### What is the minimum cutoff for [SIBM Bangalore](/colleges/sibm-bangalore)?
-[SIBM Bangalore](/colleges/sibm-bangalore) typically shortlists SNAP candidates around the 88-92 percentile range.
+### What is the minimum cutoff for [SIBM Bangalore](/colleges/sibm-bangalore/)?
+[SIBM Bangalore](/colleges/sibm-bangalore/) typically shortlists SNAP candidates around the 88-92 percentile range.
 
 ### Is Christ University good for Finance placements?
 Yes, Christ University is highly favored by top BFSI firms and big-four audit firms (EY, PwC, Deloitte, KPMG) for commercial and financial analyst roles.
@@ -147,6 +147,6 @@ Yes, Christ University is highly favored by top BFSI firms and big-four audit fi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

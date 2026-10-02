@@ -198,7 +198,7 @@ export function HashtagGenerator() {
 
             <div className="mt-6 flex flex-col gap-4">
                 <Link 
-                    href="/inquiry" 
+                    href="/inquiry/" 
                     className="bg-accent border-4 border-foreground p-4 text-center font-black uppercase text-xs flex items-center justify-center gap-2 hover:bg-white transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
                 >
                     Get Personal Growth Coaching <ArrowRight size={14} />

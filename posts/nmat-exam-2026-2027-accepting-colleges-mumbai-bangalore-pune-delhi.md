@@ -56,7 +56,7 @@ category: Exams
 # NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Flagship Destination:** [NMIMS Mumbai](/colleges/nmims-mumbai) (SBM) requires a 232+ scaled score with sectional balance.
+> - **Flagship Destination:** [NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM) requires a 232+ scaled score with sectional balance.
 > - **Top Non-NMIMS Alternatives:** K J Somaiya (Mumbai), TAPMI (Bengaluru/Manipal), SDA Bocconi (Mumbai), SOIL Gurgaon, and JagSoM (Bangalore).
 > - **Score Validity & Retakes:** GMAC allows up to 3 attempts in the 75-day testing window (October to December).
 
@@ -70,7 +70,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 
 | College Name | Location | Expected NMAT Cutoff Score | Total Fees (Approx) | Average Placement |
 | :--- | :--- | :--- | :--- | :--- |
-| **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)** | Mumbai | 232+ Scaled Score | ₹24.00 Lakhs | ₹26.63 LPA |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM)** | Mumbai | 232+ Scaled Score | ₹24.00 Lakhs | ₹26.63 LPA |
 | **K J Somaiya Inst. of Mgmt** | Mumbai | 222+ Scaled Score | ₹20.87 Lakhs | ₹12.32 LPA |
 | **TAPMI (Manipal / Bengaluru)** | Bangalore / Manipal | 215+ Scaled Score | ₹16.50 Lakhs | ₹12.80 LPA |
 | **SDA Bocconi Asia Center** | Mumbai | 200+ Scaled Score | ₹19.50 Lakhs | ₹14.30 LPA |
@@ -78,7 +78,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 | **SOIL Institute of Management** | Gurgaon (Delhi NCR) | 195+ Scaled Score | ₹15.30 Lakhs | ₹10.30 LPA |
 | **ITM Navi Mumbai** | Mumbai | 185+ Scaled Score | ₹12.45 Lakhs | ₹8.65 LPA |
 | **Woxsen University** | Hyderabad | 190+ Scaled Score | ₹19.40 Lakhs | ₹9.09 LPA |
-| **[ISBR Business School](/colleges/isbr-bangalore)** | Bangalore | 180+ Scaled Score | ₹10.50 Lakhs | ₹8.50 LPA |
+| **[ISBR Business School](/colleges/isbr-bangalore/)** | Bangalore | 180+ Scaled Score | ₹10.50 Lakhs | ₹8.50 LPA |
 | **Alliance University** | Bangalore | 180+ Scaled Score | ₹15.00 Lakhs | ₹8.50 LPA |
 
 ---
@@ -86,16 +86,16 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ## Detailed College Review by Region
 
 ### Mumbai Region NMAT Colleges
-* **[NMIMS Mumbai](/colleges/nmims-mumbai):** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai).
+* **[NMIMS Mumbai](/colleges/nmims-mumbai/):** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/blog/all-about-nmims-mumbai/).
 * **SDA Bocconi Asia Center:** European pedagogy with international faculty from Milan, Italy.
 * **K J Somaiya:** Excellent finance and data science placement tracks.
 
 ### Bangalore Region NMAT Colleges
-* **[TAPMI Bengaluru](/colleges/tapmi-bangalore):** Modern urban campus focused on FinTech and Digital Transformation.
-* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
+* **[TAPMI Bengaluru](/colleges/tapmi-bangalore/):** Modern urban campus focused on FinTech and Digital Transformation.
+* **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore/).
 
 ### Delhi NCR Region NMAT Colleges
-* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/blog/all-about-soil-gurgaon).
+* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/blog/all-about-soil-gurgaon/).
 
 ---
 
@@ -109,14 +109,14 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ---
 
 ## Related Reads
-- [All About NMAT Exam](/blog/all-about-nmat-exam)
-- [Top MBA Colleges in Mumbai Admission 2027](/blog/mumbai-mba-admission-2027-nmat-exam-xat-cat-colleges)
-- [Top PGDM Colleges in Bangalore Admission 2027](/blog/bangalore-pgdm-admission-2027-nmat-exam-cat-2026-xat-colleges)
+- [All About NMAT Exam](/blog/all-about-nmat-exam/)
+- [Top MBA Colleges in Mumbai Admission 2027](/blog/mumbai-mba-admission-2027-nmat-exam-xat-cat-colleges/)
+- [Top PGDM Colleges in Bangalore Admission 2027](/blog/bangalore-pgdm-admission-2027-nmat-exam-cat-2026-xat-colleges/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

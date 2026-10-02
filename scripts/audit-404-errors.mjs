@@ -128,6 +128,14 @@ try {
   });
 } catch (e) {}
 
+// 1h. MBA region dynamic routes
+const geoSlugs = ['delhi-ncr', 'delhi', 'ncr', 'noida', 'greater-noida', 'gurgaon', 'gurugram', 'ghaziabad', 'faridabad', 'pune', 'mumbai', 'navi-mumbai', 'thane', 'bangalore', 'bengaluru', 'hyderabad', 'kolkata', 'ahmedabad', 'gujarat', 'jaipur', 'rajasthan'];
+geoSlugs.forEach(slug => {
+  validRoutes.add(normalizeRoute(`/mba-admissions-by-region/${slug}`));
+  validRoutes.add(normalizeRoute(`/mba-pgdm-admissions-by-region/${slug}`));
+});
+
+
 // Also add public static assets recursively
 function addPublicFiles(dir, cur = '') {
   if (!fs.existsSync(dir)) return;

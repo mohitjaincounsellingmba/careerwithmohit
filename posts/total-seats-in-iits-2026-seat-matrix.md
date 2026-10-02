@@ -11,7 +11,7 @@ description: >-
 keywords:
   - total seats in IIT 2026
   - IIT seat matrix JoSAA
-  - 'number of seats in [IIT Bombay](/colleges/iit-bombay)'
+  - 'number of seats in [IIT Bombay](/colleges/iit-bombay/)'
   - IIT Delhi total seats
   - JEE Advanced total seats 2026
   - IIT admission 2026 seats
@@ -53,7 +53,7 @@ While the final JoSAA 2026 seat matrix will be released in June, here is the app
 | Name of IIT | Tentative Total Seats |
 | :--- | :--- |
 | **IIT Kharagpur** | 1,900+ |
-| **[IIT Bombay](/colleges/iit-bombay)** | 1,350+ |
+| **[IIT Bombay](/colleges/iit-bombay/)** | 1,350+ |
 | **IIT Delhi** | 1,200+ |
 | **IIT Madras** | 1,150+ |
 | **IIT Kanpur** | 1,200+ |
@@ -78,26 +78,26 @@ The seats in IITs are reserved as per the Government of India norms:
 The **Joint Seat Allocation Authority (JoSAA)** handles the counselling for all 23 IITs. For 2026, candidates must qualify for **JEE Advanced** to be eligible for these seats.
 
 If you are looking for other top engineering institutes, check our detailed seat guides:
-*   [Total Seats in NITs 2026: State-wise Breakdown](/blog/total-seats-in-nits-2026-seat-matrix)
-*   [Total Seats in IIITs 2026: Top Branch Seats](/blog/total-seats-in-iiits-2026-seat-matrix)
-*   [Total Seats in GFTIs 2026: Complete Institute List](/blog/total-seats-in-gftis-2026-seat-matrix)
+*   [Total Seats in NITs 2026: State-wise Breakdown](/blog/total-seats-in-nits-2026-seat-matrix/)
+*   [Total Seats in IIITs 2026: Top Branch Seats](/blog/total-seats-in-iiits-2026-seat-matrix/)
+*   [Total Seats in GFTIs 2026: Complete Institute List](/blog/total-seats-in-gftis-2026-seat-matrix/)
 
 ### **Key Resources for JEE Aspirants**
-*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card)
-*   [JEE Main College Predictor: Find the Best College for Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [Complete Guide to JEE Main & Advanced 2026](/blog/all-about-jee-exam)
+*   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
+*   [JEE Main College Predictor: Find the Best College for Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
+*   [Complete Guide to JEE Main & Advanced 2026](/blog/all-about-jee-exam/)
 
 **Need Help with IIT Admissions?**
 Navigating the JoSAA choice-filling process can be overwhelming. Choosing the right branch vs. a better IIT is a common dilemma. Our expert counselors at **CareerWithMohit** provide personalized guidance to help you secure the best possible seat based on your JEE Advanced rank.
 
-[👉 Get Expert IIT Admission Support!](/inquiry)
+[👉 Get Expert IIT Admission Support!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -112,6 +112,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

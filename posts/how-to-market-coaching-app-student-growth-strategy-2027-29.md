@@ -38,7 +38,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Launch your app, but how do you get students? Discover the ultimate marketing roadmap for 2026. Learn about va...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 Building a branded app is only half the battle. The real challenge is **Acquisition**. In a crowded 2026 digital market, simply "posting a link" won't get you students. You need a structured funnel that builds trust, provides value, and converts browsers into buyers. 
@@ -109,16 +109,16 @@ Partnering with smaller "Niche Educators" for account takeovers or shoutouts is 
 ---
 
 ### Useful Links:
-- [Launch Your Branded Coaching App Today](/inquiry)
-- [Course Creation Guide — From Script to Launch](/blog/course-creation-guide-script-to-branded-app-2026)
-- [How to Sell Your Coaching Online 2026](/blog/how-to-sell-your-coaching-online-2027-29)
+- [Launch Your Branded Coaching App Today](/inquiry/)
+- [Course Creation Guide — From Script to Launch](/blog/course-creation-guide-script-to-branded-app-2026/)
+- [How to Sell Your Coaching Online 2026](/blog/how-to-sell-your-coaching-online-2027-29/)
 
 ---
 
 **Don't Chase Students—Attract Them.**
 Marketing is not about shouting; it’s about being the obvious solution to a student's problem. Don't waste your budget on generic ads. Mohit Jain provides a **"Growth & Acquisition Audit"**—helping you build the YouTube-to-App funnel that automates your student intake and scales your digital academy 10x.
 
-[👉 Build My Growth Funnel](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Build My Growth Funnel](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -126,6 +126,6 @@ Marketing is not about shouting; it’s about being the obvious solution to a st
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

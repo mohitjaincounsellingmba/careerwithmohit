@@ -91,7 +91,7 @@ While NIMCET is primarily for NITs, several other reputable universities use NIM
 - **NIT Kurukshetra**
 
 ### 📍 Special Focus: GGSIPU (Delhi NCR)
-For students in Delhi NCR, **Guru Gobind Singh Indraprastha University (GGSIPU)** is a major player. As mentioned in our **[IPU CET 2026 Exam Update](/blog/ipu-cet-2026-pg-exam-updates-dates-registration)**, IPU gives primary preference to NIMCET scores for their MCA admissions in colleges like USICT and MAIT.
+For students in Delhi NCR, **Guru Gobind Singh Indraprastha University (GGSIPU)** is a major player. As mentioned in our **[IPU CET 2026 Exam Update](/blog/ipu-cet-2026-pg-exam-updates-dates-registration/)**, IPU gives primary preference to NIMCET scores for their MCA admissions in colleges like USICT and MAIT.
 
 ## 🚀 Last Minute Preparation Tips
 
@@ -105,9 +105,9 @@ With the exam scheduled for **June 6, 2026**, you have roughly six weeks left:
 
 **Are you confused about which NIT fits your rank or looking for backup private colleges in Noida/Gurgaon?**
 
-Explore our detailed guide on the **[Top MCA Colleges in Delhi NCR 2026](/blog/top-mca-colleges-delhi-ncr-2026)** or book a personalized session with our experts.
+Explore our detailed guide on the **[Top MCA Colleges in Delhi NCR 2026](/blog/top-mca-colleges-delhi-ncr-2026/)** or book a personalized session with our experts.
 
-[👉 Book a Career Counselling Session](/inquiry) | [💬 Chat for Admission Strategy](/inquiry)
+[👉 Book a Career Counselling Session](/inquiry/) | [💬 Chat for Admission Strategy](/inquiry/)
 
 ---
 
@@ -129,6 +129,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -24,7 +24,7 @@ faqs:
       offers specialized placement cycles that are highly targeted for analytic
       roles.
   - question: What is the climate like at Pune Lavasa?
-    answer: "Lush green hills with a mild climate, providing one of the most beautiful campus settings in India.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)\n\n**Confused About the Remote Location?**\nWhile Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
+    answer: "Lush green hills with a mild climate, providing one of the most beautiful campus settings in India.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)\n\n**Confused About the Remote Location?**\nWhile Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -85,14 +85,14 @@ While the Bangalore campuses have a larger corporate volume, Pune Lavasa offers 
 Lush green hills with a mild climate, providing one of the most beautiful campus settings in India.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
-*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
+*   [Christ University Delhi-NCR MBA: Guide](/blog/christ-university-delhi-ncr-mba-admission-2026-fees-review/)
 
 **Confused About the Remote Location?**
 While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, we help you decide if the focused environment of Pune Lavasa is the right catalyst for your management career compared to the urban chaos of other campuses.
 
-[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
+[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)
 
 
 
@@ -100,7 +100,7 @@ While Lavasa is peaceful, it is a self-contained city. At **CareerWithMohit**, w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -114,6 +114,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

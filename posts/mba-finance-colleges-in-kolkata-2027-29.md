@@ -50,10 +50,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
-| **[IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
+| **[IIM Calcutta](/colleges/iim-calcutta/) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
+| **[IMI Kolkata](/colleges/imi-kolkata/) (International Management Institute)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
 | **IISWBM Kolkata** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
-| **[Heritage Business School](/colleges/heritage-business-school)** | MAT / CMAT / CAT | ₹6.5 Lakhs (Total) | **₹5.50 LPA** |
+| **[Heritage Business School](/colleges/heritage-business-school/)** | MAT / CMAT / CAT | ₹6.5 Lakhs (Total) | **₹5.50 LPA** |
 
 ---
 
@@ -63,7 +63,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 ## 🚀 Why Choose Kolkata for an MBA in Finance?
 
-Kolkata possesses a rich legacy in commerce and banking, being the birthplace of India's oldest stock exchange. From the undisputed quantitative leader [IIM Calcutta](/colleges/iim-calcutta) to high-ROI heritage institutions, Kolkata remains a top destination for serious finance students.
+Kolkata possesses a rich legacy in commerce and banking, being the birthplace of India's oldest stock exchange. From the undisputed quantitative leader [IIM Calcutta](/colleges/iim-calcutta/) to high-ROI heritage institutions, Kolkata remains a top destination for serious finance students.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.
@@ -74,13 +74,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. [IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)
+### 1. [IIM Calcutta](/colleges/iim-calcutta/) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.07 LPA**
 - **Key Highlight:** Widely regarded as the 'Quant King' and the best B-school for quantitative finance in Asia.
 
-### 2. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
+### 2. [IMI Kolkata](/colleges/imi-kolkata/) (International Management Institute)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
@@ -92,7 +92,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first business school, offering legendary ROI and a vast alumni network.
 
-### 4. [Heritage Business School](/colleges/heritage-business-school)
+### 4. [Heritage Business School](/colleges/heritage-business-school/)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.50 LPA**
@@ -109,9 +109,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -121,24 +121,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Finance Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Finance Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [IIM Calcutta](/colleges/iim-calcutta) considered the best for Finance?
-[IIM Calcutta](/colleges/iim-calcutta) has a rich quantitative tradition, excellent finance faculty, and is the absolute first choice for top global investment banking and private equity recruiters.
+### Why is [IIM Calcutta](/colleges/iim-calcutta/) considered the best for Finance?
+[IIM Calcutta](/colleges/iim-calcutta/) has a rich quantitative tradition, excellent finance faculty, and is the absolute first choice for top global investment banking and private equity recruiters.
 
 ### What is the fee structure for IISWBM Kolkata?
 IISWBM offers highly subsidized fees (approx. INR 6.0 Lakhs total) and is popular for its high ROI.
 
 ### Are CMAT scores accepted by top Kolkata B-schools?
-While [IIM Calcutta](/colleges/iim-calcutta) and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
+While [IIM Calcutta](/colleges/iim-calcutta/) and IISWBM require CAT, several private institutions like Heritage accept CMAT and MAT.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

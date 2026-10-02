@@ -116,14 +116,14 @@ All seats across these top GGSIPU private colleges are filled through a centrali
 ---
 
 ### **Explore Other Admission Guides:**
-* [IP University B.Tech Cutoffs & Rank Guidelines](/blog/ipu-btech-colleges-cutoff-2025-2026)
-* [Low Budget B.Tech Colleges in Delhi NCR 2026](/blog/low-budget-btech-colleges-in-delhi-ncr-2026)
-* [Echelon Institute of Technology Review 2026](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review)
+* [IP University B.Tech Cutoffs & Rank Guidelines](/blog/ipu-btech-colleges-cutoff-2025-2026/)
+* [Low Budget B.Tech Colleges in Delhi NCR 2026](/blog/low-budget-btech-colleges-in-delhi-ncr-2026/)
+* [Echelon Institute of Technology Review 2026](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review/)
 
 **Confused About the GGSIPU Choice Filling Strategy?**
 Understanding the closing ranks for Delhi vs. Outside Delhi quotas is crucial to securing a seat in the top-tier campuses. At **CareerWithMohit**, we help you draft your GGSIPU preference sheet to maximize your chances of getting your desired engineering branch.
 
-[👉 Get Free GGSIPU Choice Filling & Admission Support!](/inquiry)
+[👉 Get Free GGSIPU Choice Filling & Admission Support!](/inquiry/)
 
 ---
 
@@ -146,6 +146,6 @@ The average placement package at Maharaja Surajmal Institute of Technology (MSIT
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

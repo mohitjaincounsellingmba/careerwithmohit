@@ -104,11 +104,11 @@ The "Best" choice depends on your specific career goals:
 **Confused about which college falls into which category?**
 Our experts have categorized over 1,500 institutes into B-Schools and University Departments to help you compare.
 
-[👉 Compare Fees & Placements of Top 100 Institutes](/colleges)
-[👉 Check your eligibility for Top PGDM Programs](/calculator/certification)
+[👉 Compare Fees & Placements of Top 100 Institutes](/colleges/)
+[👉 Check your eligibility for Top PGDM Programs](/calculator/certification/)
 
 **Need a custom career roadmap?**
-[👉 Talk to our Admission Consultants](/inquiry)
+[👉 Talk to our Admission Consultants](/inquiry/)
 
 ---
 
@@ -122,7 +122,7 @@ At the end of the day, recruiters hire **talent**, not just a certificate. Wheth
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -137,6 +137,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

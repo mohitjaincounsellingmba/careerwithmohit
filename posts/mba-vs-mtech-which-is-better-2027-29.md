@@ -49,8 +49,8 @@ Both paths offer incredible career growth, high salaries, and distinct professio
 |---|---|---|
 | **Core Focus** | Leadership, Strategy, Finance, Marketing, HR | Engineering Research, Systems, R&D, Design |
 | **Duration** | 2 Years | 2 Years |
-| **Top Entrance Exams** | [CAT](/blog/all-about-cat-exam), XAT, NMAT, SNAP, GMAT | [GATE](/blog/all-about-gate-exam) |
-| **Top Colleges in India** | IIMs, [FMS Delhi](/colleges/fms-delhi), XLRI, SPJIMR | IITs, IISc Bangalore, NITs, IIITs |
+| **Top Entrance Exams** | [CAT](/blog/all-about-cat-exam/), XAT, NMAT, SNAP, GMAT | [GATE](/blog/all-about-gate-exam/) |
+| **Top Colleges in India** | IIMs, [FMS Delhi](/colleges/fms-delhi/), XLRI, SPJIMR | IITs, IISc Bangalore, NITs, IIITs |
 | **Average Fees (Tier 1)**| ₹15 Lakhs - ₹28 Lakhs (Except FMS) | ₹2 Lakhs - ₹5 Lakhs |
 | **Average Starting Salary**| ₹18 LPA - ₹35 LPA (Tier-1) | ₹10 LPA - ₹24 LPA (Tier-1) |
 | **Ideal For** | Outgoing personalities, strategic thinkers | Tech-savvy builders, research enthusiasts |
@@ -76,7 +76,7 @@ An M.Tech program is academic and highly specialized. You dive deep into advance
 - **What you do:** You write algorithms, design physical hardware or software architectures, troubleshoot complex technical pipelines, or conduct scientific R&D.
 - **Key Skill Sets:** Mathematical logic, coding proficiency, analytical problem-solving, and deep specialized knowledge.
 
-For a detailed look at the advantages of pursuing management after engineering, check out our guide on the [benefits of doing an MBA after B.Tech](/blog/mba-after-btech-benefits-2027-29).
+For a detailed look at the advantages of pursuing management after engineering, check out our guide on the [benefits of doing an MBA after B.Tech](/blog/mba-after-btech-benefits-2027-29/).
 
 ---
 
@@ -84,10 +84,10 @@ For a detailed look at the advantages of pursuing management after engineering, 
 
 Getting into a top-tier college for either degree requires clearing some of the toughest entrance exams in India.
 
-* **For MBA:** The primary route is via [CAT](/blog/all-about-cat-exam), XAT, or NMAT. The exams test Quantitative Aptitude, Verbal Ability (VARC), and Logical Reasoning/Data Interpretation (DILR). The interview process focuses heavily on communication, current affairs, and personality fitment.
-* **For M.Tech:** The primary exam is [GATE](/blog/all-about-gate-exam). Unlike CAT, GATE tests your core engineering branch subjects (such as Computer Science, Mechanical, or Electrical engineering) along with basic Engineering Mathematics. It is highly conceptual and requires a solid foundation in your undergraduate subjects.
+* **For MBA:** The primary route is via [CAT](/blog/all-about-cat-exam/), XAT, or NMAT. The exams test Quantitative Aptitude, Verbal Ability (VARC), and Logical Reasoning/Data Interpretation (DILR). The interview process focuses heavily on communication, current affairs, and personality fitment.
+* **For M.Tech:** The primary exam is [GATE](/blog/all-about-gate-exam/). Unlike CAT, GATE tests your core engineering branch subjects (such as Computer Science, Mechanical, or Electrical engineering) along with basic Engineering Mathematics. It is highly conceptual and requires a solid foundation in your undergraduate subjects.
 
-If you are already working and cannot commit to full-time on-campus classes, you might also explore customized programs like [M.Tech for Working Professionals](/blog/mtech-for-working-professionals-2026-fees-admission-syllabus).
+If you are already working and cannot commit to full-time on-campus classes, you might also explore customized programs like [M.Tech for Working Professionals](/blog/mtech-for-working-professionals-2026-fees-admission-syllabus/).
 
 ---
 
@@ -96,7 +96,7 @@ If you are already working and cannot commit to full-time on-campus classes, you
 The financial investment required for these two paths varies drastically.
 
 * **M.Tech ROI (Low Investment, Stable Return):** M.Tech programs in IITs and NITs are heavily subsidized by the government. The fees are low, and students who qualify through GATE receive a monthly stipend (approx. ₹12,400/month). This makes M.Tech virtually free or highly affordable, resulting in a fantastic ROI.
-* **MBA ROI (High Investment, High Reward):** Top B-schools (with the exception of [FMS Delhi](/colleges/fms-delhi)) charge substantial tuition fees, often ranging from ₹15 Lakhs to ₹28 Lakhs. Most students take out education loans. However, the starting placement packages at Tier-1 MBA colleges easily justify the cost, with average packages crossing ₹25 LPA.
+* **MBA ROI (High Investment, High Reward):** Top B-schools (with the exception of [FMS Delhi](/colleges/fms-delhi/)) charge substantial tuition fees, often ranging from ₹15 Lakhs to ₹28 Lakhs. Most students take out education loans. However, the starting placement packages at Tier-1 MBA colleges easily justify the cost, with average packages crossing ₹25 LPA.
 
 ---
 
@@ -127,7 +127,7 @@ Post M.Tech, you join as a Software Development Engineer (SDE-2), Design Enginee
 **Confused about your career fitment?**
 Don't make this life-altering choice based on general assumptions. Mohit Jain offers a structured **Career Fitment Audit**—evaluating your cognitive patterns, technical inclination, and management potential to point you toward the path that aligns with your long-term success.
 
-[👉 Book My Career Consultation](/inquiry) | [💬 Chat with Mohit on WhatsApp](/inquiry)
+[👉 Book My Career Consultation](/inquiry/) | [💬 Chat with Mohit on WhatsApp](/inquiry/)
 
 ---
 
@@ -145,6 +145,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

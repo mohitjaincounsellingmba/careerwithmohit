@@ -54,7 +54,7 @@ If you are a PG aspirant targeting **Ghaziabad for the 2026-27 academic session*
 
 ---
 
-### **1. [ITS Engineering College](/colleges/its-engineering-greater-noida) (Ghaziabad)**
+### **1. [ITS Engineering College](/colleges/its-engineering-greater-noida/) (Ghaziabad)**
 ITS Group is one of the most recognized names in Ghaziabad's education sector. They accept CUET PG scores for their MBA and MCA programs.
 *   **Top Programs:** MBA (Marketing/Finance/HR/IT), MCA.
 *   **Admission Process:** They consider CUET PG scores as part of the AKTU-led counseling process or direct admission rounds.
@@ -86,14 +86,14 @@ SRM Delhi-NCR campus is a major private university that considers several nation
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [Top MBA Colleges in Noida/Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29)
-- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date)
+- [Top MBA Colleges in Noida/Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/)
+- [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [CUET PG 2026 Result Expected Date](/blog/cuet-pg-2026-result-expected-date/)
 
 **Confused about which Ghaziabad college to pick?**
 Comparing AKTU-affiliated colleges vs. top private universities is crucial for your career. Get expert advice from our Ghaziabad admission consultants today!
 
-[👉 Get Ghaziabad Admission Counseling Now!](/inquiry)
+[👉 Get Ghaziabad Admission Counseling Now!](/inquiry/)
 
 ---
 
@@ -115,6 +115,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

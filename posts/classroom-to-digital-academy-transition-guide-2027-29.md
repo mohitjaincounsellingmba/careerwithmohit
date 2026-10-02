@@ -40,7 +40,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for Transitioning from Classroom to Digital Academ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 The era of relying solely on "Local Area" students is over. While physical coaching centers provide a localized community, they are limited by geographic reach and high real-estate overheads. In 2026, the most successful educators are those who have mastered the **Hybrid Model**—maintaining a physical presence while scaling infinitely via a **Digital Academy**.
@@ -113,16 +113,16 @@ Actually, yes. If you are from education hubs like **Kota, Pune, or Delhi**, lev
 ---
 
 ### Useful Links:
-- [Launch Your Classroom's Branded App Today](/inquiry)
-- [How Top UPSC Coaches Built Their Digital Empire](/blog/upsc-coaches-digital-empire-case-study-2026)
-- [Marketing Strategies for Your Digital Academy](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29)
+- [Launch Your Classroom's Branded App Today](/inquiry/)
+- [How Top UPSC Coaches Built Their Digital Empire](/blog/upsc-coaches-digital-empire-case-study-2026/)
+- [Marketing Strategies for Your Digital Academy](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29/)
 
 ---
 
 **Don't Let Your Geography Limit Your Legacy.**
 The world needs your teaching style. Don't waste your expertise on a small classroom when the whole country is ready to learn from you. Mohit Jain provides a **"Digital Transformation Audit"**—helping you move from "Tuition Center" to "National Brand" by building the hybrid infrastructure and branded app that scales your results in 2026.
 
-[👉 Digitize My Coaching Center](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Digitize My Coaching Center](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -130,6 +130,6 @@ The world needs your teaching style. Don't waste your expertise on a small class
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

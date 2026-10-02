@@ -134,15 +134,15 @@ New Zealand — known as **Aotearoa** — is one of the world's most stunning an
 
 ## 📞 Expert New Zealand Admission Counselling
 
-[👉 Book Free Consultation](/inquiry) | [💬 WhatsApp Us](https://wa.me/919560020771)
+[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses)
-- [MBBS Abroad for Indian Students 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026)
+- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
+- [MBBS Abroad for Indian Students 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+- [All About Duolingo English Test 2026](/blog/all-about-duolingo-english-test-2026/)
 
 ---
 
@@ -164,6 +164,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -39,7 +39,7 @@ category: Exams
 # Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top B-Schools in Uttarakhand:** [Doon Business School](/colleges/doon-business-school) (DBS), UPES School of Business, Graphic Era University, and [Uttaranchal University](/colleges/uttaranchal-university).
+> - **Top B-Schools in Uttarakhand:** [Doon Business School](/colleges/doon-business-school/) (DBS), UPES School of Business, Graphic Era University, and [Uttaranchal University](/colleges/uttaranchal-university/).
 > - **Specialized Programs:** Energy Management, Oil & Gas, Aviation Management, Digital Business, and Agri-Business.
 > - **Exam Acceptance:** CAT 2026, XAT exam, MAT, CMAT, and Direct GD-PI merit evaluations.
 
@@ -51,25 +51,25 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 | College Name | Total Fees (2-Yr Approx) | Avg Placement Package | ROI & Admission Eligibility (CAT 2026 / XAT Exam / MAT) |
 | :--- | :--- | :--- | :--- |
-| **[Doon Business School](/colleges/doon-business-school) (DBS Dehradun)** | ₹7.50 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT 2026 / XAT (High ROI) |
+| **[Doon Business School](/colleges/doon-business-school/) (DBS Dehradun)** | ₹7.50 Lakhs | ₹7.80 LPA | MAT / CMAT / CAT 2026 / XAT (High ROI) |
 | **UPES School of Business, Dehradun** | ₹16.50 Lakhs | ₹9.20 LPA | UPESMET / CAT 2026 / XAT / MAT / CMAT |
 | **Graphic Era University (GEU Dehradun)** | ₹7.17 Lakhs | ₹6.50 LPA | CAT 2026 / MAT / CMAT / Merit Admission |
-| **[Uttaranchal University](/colleges/uttaranchal-university), Dehradun** | ₹4.80 Lakhs | ₹5.20 LPA | Direct Merit / MAT / CMAT / CAT 2026 |
-| **[Quantum University](/colleges/quantum-university-roorkee), Roorkee** | ₹3.80 Lakhs | ₹4.80 LPA | Direct Admission / Q-Care / MAT |
+| **[Uttaranchal University](/colleges/uttaranchal-university/), Dehradun** | ₹4.80 Lakhs | ₹5.20 LPA | Direct Merit / MAT / CMAT / CAT 2026 |
+| **[Quantum University](/colleges/quantum-university-roorkee/), Roorkee** | ₹3.80 Lakhs | ₹4.80 LPA | Direct Admission / Q-Care / MAT |
 
 ---
 
 ## In-Depth College Highlights
 
-### 1. [Doon Business School](/colleges/doon-business-school) (DBS), Selaqui Dehradun
+### 1. [Doon Business School](/colleges/doon-business-school/) (DBS), Selaqui Dehradun
 * **Accreditation:** AICTE approved PGDM and UGC recognized MBA programs.
-* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/blog/all-about-doon-business-school).
+* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/blog/all-about-doon-business-school/).
 
 ### 2. UPES School of Business, Dehradun
 * **Highlights:** Renowned for specialized MBAs in Oil & Gas, Energy Trading, Aviation Management, Logistics & Supply Chain, and Digital Business. Top recruiters include Schlumberger, Shell, L&T, and Reliance.
 
 ### 3. Graphic Era University (GEU), Dehradun
-* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/blog/all-about-graphic-era-dehradun).
+* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/blog/all-about-graphic-era-dehradun/).
 
 ---
 
@@ -83,14 +83,14 @@ Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 ---
 
 ## Related Reads
-- [All About Doon Business School](/blog/all-about-doon-business-school)
-- [All About CAT Exam](/blog/all-about-cat-exam)
-- [All About XAT Exam](/blog/all-about-xat-exam)
+- [All About Doon Business School](/blog/all-about-doon-business-school/)
+- [All About CAT Exam](/blog/all-about-cat-exam/)
+- [All About XAT Exam](/blog/all-about-xat-exam/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

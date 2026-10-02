@@ -75,22 +75,22 @@ A major pain point for many out-of-state students is confusing **Sai Balaji (SBI
 **Sai Balaji Pune is not a scam**; it is an AICTE-approved legitimate group of institutes. It can be a decent backup option if you are aiming purely for a Marketing/Sales career, want strict discipline, and failed to crack top B-schools. However, if you are looking for high ROI, core finance profiles, or a relaxed campus life, you might want to reconsider.
 
 ### **Explore Better Alternatives Before Deciding:**
-* [Sri Balaji University Pune (BIMM) Review 2027–29: Placements & Fees](/blog/balaji-university-pune-review-2027-29)
-* [Best MBA Colleges in Pune 2027–29: The Ultimate List](/blog/best-mba-colleges-in-pune-2027-29)
-* [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
-* [Top Under 5 Lakhs MBA Colleges in Pune](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2027-29)
+* [Sri Balaji University Pune (BIMM) Review 2027–29: Placements & Fees](/blog/balaji-university-pune-review-2027-29/)
+* [Best MBA Colleges in Pune 2027–29: The Ultimate List](/blog/best-mba-colleges-in-pune-2027-29/)
+* [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)
+* [Top Under 5 Lakhs MBA Colleges in Pune](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2027-29/)
 
 **Still Unclear? Get an Unbiased Opinion!**
 Don't rely on just one review or flashy brochures. Our career counselors have spoken to hundreds of students from Pune colleges and can help you match your profile with the best possible MBA college.
 
-[👉 Talk to a Career Expert for an Unbiased Review!](/inquiry)
+[👉 Talk to a Career Expert for an Unbiased Review!](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -105,7 +105,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -119,6 +119,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

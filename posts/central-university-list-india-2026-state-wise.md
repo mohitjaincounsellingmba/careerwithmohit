@@ -275,7 +275,7 @@ One of the biggest advantages of Central Universities over private colleges is t
 | 4 | Banaras Hindu University (BHU) | Varanasi |
 | 5 | Aligarh Muslim University (AMU) | Aligarh |
 | 6 | University of Hyderabad (UoH) | Hyderabad |
-| 7 | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) | New Delhi |
+| 7 | [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) | New Delhi |
 | 8 | Tezpur University (TU) | Assam |
 | 9 | Visva-Bharati University (VBU) | West Bengal |
 | 10 | Pondicherry University (PU) | Puducherry |
@@ -301,7 +301,7 @@ One of the biggest advantages of Central Universities over private colleges is t
 |---|---|
 | **CUET UG 2026 Exam** | Expected: May–June 2026 |
 | **CUET PG 2026 Exam** | Conducted: March 2026 |
-| **CUET PG 2026 Result** | Check: [cuet-pg-2026-result-declared-check-scorecard-link](/blog/cuet-pg-2026-result-declared-check-scorecard-link) |
+| **CUET PG 2026 Result** | Check: [cuet-pg-2026-result-declared-check-scorecard-link](/blog/cuet-pg-2026-result-declared-check-scorecard-link/) |
 | **Official Portal** | exams.nta.ac.in |
 
 ---
@@ -332,21 +332,21 @@ Yes, **IGNOU (Indira Gandhi National Open University)** is a Central University 
 
 If you're planning to apply to a Central University through CUET 2026 and need personalized counseling – from college selection to application strategy – we can help!
 
-[👉 Book a Free 1:1 Counselling Session with Mohit Jain](/inquiry)
+[👉 Book a Free 1:1 Counselling Session with Mohit Jain](/inquiry/)
 
-[👉 CUET UG 2026 Score Calculator – Check Your Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
+[👉 CUET UG 2026 Score Calculator – Check Your Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
 
-[👉 CUET PG 2026 Result – Check Your Score Now](/blog/cuet-pg-2026-result-declared-check-scorecard-link)
+[👉 CUET PG 2026 Result – Check Your Score Now](/blog/cuet-pg-2026-result-declared-check-scorecard-link/)
 
-[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2027-29)
+[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2027-29/)
 
 ---
 
 *Related Posts:*
-- [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise)
-- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2027-29)
-- [Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)
-- [FMS Delhi MBA Admission 2027–2029](/blog/all-about-fms-delhi)
+- [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise/)
+- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)
+- [FMS Delhi MBA Admission 2027–2029](/blog/all-about-fms-delhi/)
 
 ---
 
@@ -368,6 +368,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

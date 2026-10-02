@@ -51,10 +51,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
-| **IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
-| **[IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
-| **[Heritage Business School](/colleges/heritage-business-school)** | MAT / CMAT / CAT | ₹6.5 Lakhs (Total) | **₹5.50 LPA** |
+| **[IIM Calcutta](/colleges/iim-calcutta/) (Indian Institute of Management)** | CAT | ₹24.5 Lakhs (Total) | **₹35.07 LPA** |
+| **IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))** | CAT | ₹6.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[IMI Kolkata](/colleges/imi-kolkata/) (International Management Institute)** | CAT / XAT / GMAT | ₹14.5 Lakhs (Total) | **₹10.45 LPA** |
+| **[Heritage Business School](/colleges/heritage-business-school/)** | MAT / CMAT / CAT | ₹6.5 Lakhs (Total) | **₹5.50 LPA** |
 
 ---
 
@@ -75,25 +75,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Kolkata
 
-### 1. [IIM Calcutta](/colleges/iim-calcutta) (Indian Institute of Management)
+### 1. [IIM Calcutta](/colleges/iim-calcutta/) (Indian Institute of Management)
 - **Approximate Fees:** ₹24.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹35.07 LPA**
 - **Key Highlight:** World-class business school providing elite placement packages in strategic organizational design and corporate consulting.
 
-### 2. IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))
+### 2. IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management/))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹8.50 LPA**
 - **Key Highlight:** India's first B-school with a highly respected, legendary legacy for producing top HR leaders.
 
-### 3. [IMI Kolkata](/colleges/imi-kolkata) (International Management Institute)
+### 3. [IMI Kolkata](/colleges/imi-kolkata/) (International Management Institute)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT
 - **Average Placement Package:** **₹10.45 LPA**
 - **Key Highlight:** Advanced corporate curriculum focusing on industrial relations, behavioral science, and HR analytics.
 
-### 4. [Heritage Business School](/colleges/heritage-business-school)
+### 4. [Heritage Business School](/colleges/heritage-business-school/)
 - **Approximate Fees:** ₹6.5 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.50 LPA**
@@ -110,9 +110,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -122,7 +122,7 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My HR Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My HR Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -131,15 +131,15 @@ Finding a program that fits your academic profile, budget, and placement goals c
 ### Is IISWBM Kolkata prestigious for HR?
 Yes, IISWBM is India's first official B-school, and its MBA-HR program has an exceptionally long legacy, producing leading HR executives and directors across Indian public and private companies.
 
-### Does [IIM Calcutta](/colleges/iim-calcutta) offer specialized HR placements?
-While famed for finance, [IIM Calcutta](/colleges/iim-calcutta) offers general management programs that place candidates in premium consulting, change management, and corporate strategy roles.
+### Does [IIM Calcutta](/colleges/iim-calcutta/) offer specialized HR placements?
+While famed for finance, [IIM Calcutta](/colleges/iim-calcutta/) offers general management programs that place candidates in premium consulting, change management, and corporate strategy roles.
 
-### What exams are accepted by [Heritage Business School](/colleges/heritage-business-school)?
-[Heritage Business School](/colleges/heritage-business-school) accepts CAT, MAT, and CMAT scores for its management programs.
+### What exams are accepted by [Heritage Business School](/colleges/heritage-business-school/)?
+[Heritage Business School](/colleges/heritage-business-school/) accepts CAT, MAT, and CMAT scores for its management programs.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

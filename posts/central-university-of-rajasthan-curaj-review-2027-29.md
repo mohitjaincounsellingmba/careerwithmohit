@@ -48,7 +48,7 @@ Admissions at CURaj are primarily managed through the **Common University Entran
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Get all details for Central University of Rajasthan (CURaj) 2026 admissions, including CUET cutoffs, latest fe...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 ## 📊 CUET Cutoff Trends
 
@@ -82,10 +82,10 @@ CURaj provides excellent residential facilities, making it highly accommodating 
 *   **Fees:** Hostel room rent is affordable at roughly **₹6,000 per semester**, plus electricity and water charges (approx. ₹2,500). Mess services are managed by student committees.
 
 ### **Check Other Central University Guides:**
-*   [Pondicherry University Review 2027–29](/blog/pondicherry-university-review-2027-29)
-*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2027–29](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2027-29)
+*   [Pondicherry University Review 2027–29](/blog/pondicherry-university-review-2027-29/)
+*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2027–29](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2027-29/)
 
-[👉 Get Admission Consultation for Top Central Universities!](/inquiry)
+[👉 Get Admission Consultation for Top Central Universities!](/inquiry/)
 
 ---
 
@@ -103,6 +103,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -84,7 +84,7 @@ In 2026, the starting salary for an MBA in Finance from a mid-tier college is ar
 The number of exemptions depends on the university's curriculum. Typically:
 *   **MBA Finance Graduates**: Eligible for up to 9 exemptions (Applied Knowledge & Applied Skills levels).
 *   **General MBA**: Eligible for 3-5 exemptions.
-*   **Integrated Programs**: Some colleges (like [Poornima University](/colleges/poornima-jaipur) or [Jain University](/colleges/jain-university)) offer MBA programs where ACCA is integrated into the syllabus.
+*   **Integrated Programs**: Some colleges (like [Poornima University](/colleges/poornima-jaipur/) or [Jain University](/colleges/jain-university/)) offer MBA programs where ACCA is integrated into the syllabus.
 
 > [!TIP]
 > Always check the **[ACCA Exemption Calculator](https://www.accaglobal.com/gb/en/help/exemptions-calculator.html)** to see exactly how many papers you can skip based on your specific university degree.
@@ -101,12 +101,12 @@ The number of exemptions depends on the university's curriculum. Typically:
 ---
 
 ### **Related Career Guides:**
-*   [CFA Course Guide: Exam Dates, Syllabus & Salary 2026](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-*   [Investment Banking Career Path & Salary 2026](/blog/investment-banking-career-path-salary-2027-29)
-*   [Importance of SAP in MBA & PGDM Career 2027–29](/blog/importance-of-sap-in-mba-pgdm-career-2027-29)
-*   [Top MBA Colleges for Finance Specialization in India 2027–29](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
+*   [CFA Course Guide: Exam Dates, Syllabus & Salary 2026](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+*   [Investment Banking Career Path & Salary 2026](/blog/investment-banking-career-path-salary-2027-29/)
+*   [Importance of SAP in MBA & PGDM Career 2027–29](/blog/importance-of-sap-in-mba-pgdm-career-2027-29/)
+*   [Top MBA Colleges for Finance Specialization in India 2027–29](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
 
-[👉 Need help choosing the right MBA + ACCA college? Get Free Counselling Today!](/inquiry)
+[👉 Need help choosing the right MBA + ACCA college? Get Free Counselling Today!](/inquiry/)
 
 ---
 
@@ -128,6 +128,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

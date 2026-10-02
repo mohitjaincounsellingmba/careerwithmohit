@@ -59,7 +59,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 | **FORE School**| New Delhi | ₹17.5 Lakhs | ₹14.50 LPA |
 | **GIM Goa** | Goa | ₹18.5 Lakhs | ₹14.80 LPA |
 | **Great Lakes**| Chennai | ₹19.5 Lakhs | ₹14.50 LPA |
-| **[XIME Bangalore](/colleges/xime-bangalore)**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore/)**| Bangalore | ₹12.5 Lakhs | ₹10.30 LPA |
 | **NDIM Delhi** | New Delhi | ₹10.5 Lakhs | ₹9.50 LPA |
 | **KIIT School** | Bhubaneswar| ₹14.5 Lakhs | ₹9.0 LPA |
 
@@ -71,7 +71,7 @@ However, here is the secret: **Some of India's best private B-schools thrive in 
 
 ## 🏛️ The "Safe Bets" in Delhi NCR
 
-### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)
+### 1. [BIMTECH, Greater Noida](/colleges/bimtech-greater-noida/)
 Consistently ranks among the top private B-schools in North India. While their flagship PGDM might require higher scores, their MBA/PGDM in **Insurance or Retail Management** often accepts students in the 70-75 range.
 - **Top Recruiters:** Infosys, ICICI Bank, Maruti Suzuki.
 
@@ -123,19 +123,19 @@ Most close by **mid-January**. It is better to apply *before* the CAT result is 
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-- [Top MBA Colleges in Bangalore 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
+- [Top MBA Colleges in Bangalore 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Don't Settle for Less in the 70th Percentile.**
 A 75 percentile can still lead to a ₹12 LPA career if you choose the right college. Mohit Jain specializes in profile-mapping—finding the college that values *you* beyond just your CAT score.
 
-[👉 Get My Profile Mapping Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Get My Profile Mapping Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ### Check Your Current Percentile:
-Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)** and get an immediate percentile prediction and section-wise analysis.
+Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test/)** and get an immediate percentile prediction and section-wise analysis.
 
 
 
@@ -143,6 +143,6 @@ Not sure where you stand? Take our **[Free CAT 2026 Full-Length Mock Test](/tool
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

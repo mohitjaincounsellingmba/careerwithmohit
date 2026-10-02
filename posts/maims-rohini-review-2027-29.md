@@ -42,14 +42,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+# Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** continues to be one of the most prominent management destinations in **Rohini (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** continues to be one of the most prominent management destinations in **Rohini (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in North-West Delhi, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -57,11 +57,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** |
+| **Institution Name** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** |
 | **Location & Campus** | Rohini, North-West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -93,7 +93,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2027–29–2026: Salary Packages & Recruiters
 
-The placement record at **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹12.00 LPA**
 *   **Average CTC:** **₹6.50 LPA**
@@ -108,7 +108,7 @@ The placement record at **Maharaja Agrasen [Institute of Management Studies](/co
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.
@@ -123,7 +123,7 @@ Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-
 
 ---
 
-## 5. Why Choose Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)? (Pros & Cons)
+## 5. Why Choose Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Rohini and across major commercial hubs in India.
@@ -149,9 +149,9 @@ For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Tec
 
 Make an informed decision by comparing fee structures, placement reports, and admission cutoffs across India's top management institutions:
 
-*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Explore & Compare 200+ Top Colleges in India](/colleges)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
+*   [Explore & Compare 200+ Top Colleges in India](/colleges/)
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
@@ -177,7 +177,7 @@ Yes, **Maharaja Agrasen Institute of Management Studies (MAIMS)** offers merit-b
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -191,6 +191,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

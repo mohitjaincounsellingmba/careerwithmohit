@@ -240,12 +240,12 @@ Step 8: Spot Round Counselling / Management Quota for Vacant Seats
 
 ## 🔗 Related Admission & College Guides
 
-* [IP University B.Tech Cutoffs & Rank Guidelines 2026](/blog/ipu-btech-colleges-cutoff-2025-2026)
-* [Top 5 Private B.Tech Colleges Under GGSIPU 2026](/blog/top-5-private-btech-colleges-under-ggsipu-2026)
-* [Best IPU Colleges for BBA Admission 2026](/blog/best-ipu-colleges-for-bba-2026)
-* [Echelon Institute of Technology Faridabad: Fees, Admission & Detailed Review](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review)
-* [Low Budget B.Tech Colleges in Delhi NCR 2026](/blog/low-budget-btech-colleges-in-delhi-ncr-2026)
-* [Explore GGSIPU Delhi Campus & Programs](/colleges/ggsipu-delhi)
+* [IP University B.Tech Cutoffs & Rank Guidelines 2026](/blog/ipu-btech-colleges-cutoff-2025-2026/)
+* [Top 5 Private B.Tech Colleges Under GGSIPU 2026](/blog/top-5-private-btech-colleges-under-ggsipu-2026/)
+* [Best IPU Colleges for BBA Admission 2026](/blog/best-ipu-colleges-for-bba-2026/)
+* [Echelon Institute of Technology Faridabad: Fees, Admission & Detailed Review](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review/)
+* [Low Budget B.Tech Colleges in Delhi NCR 2026](/blog/low-budget-btech-colleges-in-delhi-ncr-2026/)
+* [Explore GGSIPU Delhi Campus & Programs](/colleges/ggsipu-delhi/)
 
 ---
 
@@ -274,12 +274,12 @@ Choosing between MAIT, MSIT, EIT, BVCOE, and VIPS depends on your entrance exam 
 
 At **CareerWithMohit**, we provide personalized GGSIPU counselling support, college predictor reports, and management quota admission assistance to help you secure the best seat.
 
-[👉 Get Free GGSIPU Admission & Choice Filling Support](/inquiry) | [👉 Explore All College Reviews](/colleges/ggsipu-delhi)
+[👉 Get Free GGSIPU Admission & Choice Filling Support](/inquiry/) | [👉 Explore All College Reviews](/colleges/ggsipu-delhi/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

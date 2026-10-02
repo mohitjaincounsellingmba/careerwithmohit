@@ -108,16 +108,16 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29)
-- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide/)
 
 ---
 
 **Don't Let One Section Stop Your Legal Dream.**
 India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks of maths" in CLAT scare you. Mohit Jain provides a "Non-Maths Legal Strategy"—helping you maximize your scores in Logic and Reading so you can walk into a Top NLU without ever solving a quadratic equation.
 
-[👉 Book My Non-Maths Law Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
+[👉 Book My Non-Maths Law Consultation](/inquiry/) | [💬 Talk to Mohit](/inquiry/)
 
 
 
@@ -125,6 +125,6 @@ India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks o
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

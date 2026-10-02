@@ -49,7 +49,7 @@ category: BBA
 
 The **Integrated Programme in Management Aptitude Test (IPMAT)** is India's most sought-after management entrance examination for students aspiring to enter prestigious **Indian Institutes of Management (IIMs)** directly after Class 12. 
 
-Conducted annually, IPMAT opens the doors to a 5-year dual-degree program (BA + MBA / BBA + MBA) that combines rigorous undergraduate liberal arts and management foundations with world-class MBA education. For candidates who want to avoid the intense post-graduation pressure of the [CAT Exam](/blog/all-about-cat-exam), cracking IPMAT is the ultimate gateway into a premier IIM.
+Conducted annually, IPMAT opens the doors to a 5-year dual-degree program (BA + MBA / BBA + MBA) that combines rigorous undergraduate liberal arts and management foundations with world-class MBA education. For candidates who want to avoid the intense post-graduation pressure of the [CAT Exam](/blog/all-about-cat-exam/), cracking IPMAT is the ultimate gateway into a premier IIM.
 
 In this comprehensive guide, we cover everything you need to know about **IPMAT 2026**, including important exam dates, complete syllabus, top accepting colleges, step-by-step admission process, and final selection criteria.
 
@@ -57,26 +57,26 @@ In this comprehensive guide, we cover everything you need to know about **IPMAT 
 
 > 🎯 **Targeting IIM After 12th? Test Your IPMAT Readiness Now**
 >
-> [👉 Check Out Our IPMAT 2026 Preparation Guide & Strategy](/blog/ipmat-2026-preparation-guide-colleges)
+> [👉 Check Out Our IPMAT 2026 Preparation Guide & Strategy](/blog/ipmat-2026-preparation-guide-colleges/)
 
 ---
 
 ## 1. IPMAT Exam Overview 2026
 
 There are three main entrance exams under the IPM umbrella:
-1. **IPMAT Indore:** Conducted by **[IIM Indore](/colleges/iim-indore)** (accepted by [IIM Indore](/colleges/iim-indore), [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, etc.)
-2. **IPMAT Rohtak:** Conducted separately by **[IIM Rohtak](/colleges/iim-rohtak)** for its 5-year IPM program.
-3. **JIPMAT (Joint Integrated Programme in Management Admission Test):** Conducted by NTA for **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** and **[IIM Jammu](/colleges/iim-jammu)**.
+1. **IPMAT Indore:** Conducted by **[IIM Indore](/colleges/iim-indore/)** (accepted by [IIM Indore](/colleges/iim-indore/), [IIM Ranchi](/colleges/iim-ranchi/), IIFT, NALSAR, etc.)
+2. **IPMAT Rohtak:** Conducted separately by **[IIM Rohtak](/colleges/iim-rohtak/)** for its 5-year IPM program.
+3. **JIPMAT (Joint Integrated Programme in Management Admission Test):** Conducted by NTA for **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/)** and **[IIM Jammu](/colleges/iim-jammu/)**.
 
 | Exam Feature | IPMAT Indore 2026 | IPMAT Rohtak 2026 |
 | :--- | :--- | :--- |
-| **Conducting Body** | [IIM Indore](/colleges/iim-indore) | [IIM Rohtak](/colleges/iim-rohtak) |
+| **Conducting Body** | [IIM Indore](/colleges/iim-indore/) | [IIM Rohtak](/colleges/iim-rohtak/) |
 | **Exam Mode** | Online Computer-Based Test (CBT) | Online Computer-Based Test (CBT) |
 | **Exam Duration** | 120 Minutes (2 Hours) | 120 Minutes (2 Hours) |
 | **Total Questions** | 90 Questions | 120 Questions |
 | **Total Marks** | 360 Marks | 480 Marks |
 | **Marking Scheme** | +4 for correct, -1 for incorrect MCQs (0 negative for SA) | +4 for correct, -1 for incorrect |
-| **Accepting Colleges** | [IIM Indore](/colleges/iim-indore), [IIM Ranchi](/colleges/iim-ranchi), IIFT, NALSAR, TAPMI, Nirma | [IIM Rohtak](/colleges/iim-rohtak) |
+| **Accepting Colleges** | [IIM Indore](/colleges/iim-indore/), [IIM Ranchi](/colleges/iim-ranchi/), IIFT, NALSAR, TAPMI, Nirma | [IIM Rohtak](/colleges/iim-rohtak/) |
 
 ---
 
@@ -136,15 +136,15 @@ The IPMAT exam is no longer restricted to a single institution. Several premier 
 
 | College / University | Program Offered | Score Accepted | Approx. Fees (5 Years) | Average Package (MBA) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Indore](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)** | 5-Year IPM (BA + MBA) | IPMAT Indore | ₹38 – 40 Lakhs | ₹25.68 LPA |
-| **[IIM Ranchi](/blog/all-about-iim-ranchi-ipm-bba-admission-2027-29)** | 5-Year IPM (BBA + MBA) | IPMAT Indore | ₹33 – 35 Lakhs | ₹18.69 LPA |
-| **[IIM Rohtak](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)** | 5-Year IPM (BBA + MBA) | IPMAT Rohtak | ₹34 – 36 Lakhs | ₹19.27 LPA |
+| **[IIM Indore](/blog/all-about-iim-indore-ipm-bba-admission-2027-29/)** | 5-Year IPM (BA + MBA) | IPMAT Indore | ₹38 – 40 Lakhs | ₹25.68 LPA |
+| **[IIM Ranchi](/blog/all-about-iim-ranchi-ipm-bba-admission-2027-29/)** | 5-Year IPM (BBA + MBA) | IPMAT Indore | ₹33 – 35 Lakhs | ₹18.69 LPA |
+| **[IIM Rohtak](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29/)** | 5-Year IPM (BBA + MBA) | IPMAT Rohtak | ₹34 – 36 Lakhs | ₹19.27 LPA |
 | **IIFT Kakinada** | 5-Year Integrated Program | IPMAT Indore | ₹30 – 32 Lakhs | ₹29.10 LPA (Flagship) |
 | **NALSAR University, Hyderabad** | 5-Year IPM | IPMAT Indore | ₹20 – 24 Lakhs | ₹12 – 14 LPA |
-| **[TAPMI Bengaluru](/colleges/tapmi-bangalore)** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
-| **[Nirma University](/colleges/nirma-institute-of-management), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
+| **[TAPMI Bengaluru](/colleges/tapmi-bangalore/)** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
+| **[Nirma University](/colleges/nirma-institute-of-management/), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
 
-*(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29) accept JIPMAT scores conducted by NTA.)*
+*(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29/) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29/) accept JIPMAT scores conducted by NTA.)*
 
 ---
 
@@ -210,7 +210,7 @@ IIM Rohtak incorporates past academic record (Class 10 and 12 percentages) along
 | **Past Academics (Class 12 Percentage)** | **20%** |
 | **Total Composite Score** | **100%** |
 
-### C. [IIM Ranchi](/colleges/iim-ranchi) IPM Final Selection Criteria
+### C. [IIM Ranchi](/colleges/iim-ranchi/) IPM Final Selection Criteria
 IIM Ranchi uses IPMAT Indore scores for shortlisting and computes the final composite score as follows:
 * **IPMAT Indore Score:** 50%
 * **Personal Interview (PI):** 30%
@@ -241,7 +241,7 @@ Cracking IPMAT requires a structured strategy that balances board exam preparati
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)
@@ -250,7 +250,7 @@ Cracking IPMAT requires a structured strategy that balances board exam preparati
 IPMAT Indore and IPMAT Rohtak are expected to be conducted in **May 2026**, shortly after the Class 12 board examinations conclude. Official registrations typically begin in February or March 2026.
 
 ### 2. Which top colleges accept IPMAT scores?
-Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **[TAPMI Bengaluru](/colleges/tapmi-bangalore)**, **[Nirma University](/colleges/nirma-institute-of-management)**, and **T.A. Pai Management Institute**.
+Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **[TAPMI Bengaluru](/colleges/tapmi-bangalore/)**, **[Nirma University](/colleges/nirma-institute-of-management/)**, and **T.A. Pai Management Institute**.
 
 ### 3. Is mathematics compulsory in Class 12 for IPMAT?
 No, having Mathematics in Class 12 is **not compulsory** to appear for IPMAT Indore or IPMAT Rohtak. However, the Quantitative Aptitude section tests high-school mathematics concepts up to Class 10/11 level.
@@ -264,21 +264,21 @@ Yes! A large percentage of students selected at IIM Indore and IIM Rohtak come f
 ---
 
 ### Useful Resources for After-12th Aspirants:
-* **[Top IIMs Offering BBA & IPM Programs 2026](/blog/top-iims-offering-bba-ipm-2027-29)**
-* **[IIM Indore IPM Admission Guide 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)**
-* **[IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29)**
-* **[IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-best-colleges)**
-* **[Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29)**
+* **[Top IIMs Offering BBA & IPM Programs 2026](/blog/top-iims-offering-bba-ipm-2027-29/)**
+* **[IIM Indore IPM Admission Guide 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29/)**
+* **[IIM Rohtak IPM Admission Guide 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2027-29/)**
+* **[IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-best-colleges/)**
+* **[Career Options After 12th Commerce 2026](/blog/career-options-after-12th-commerce-2027-29/)**
 
 ---
 
 ### 🚀 Get Professional Career Counselling
-Confused between IPMAT, CUET, and other BBA entrance exams? **[Speak to our Expert Counsellors Today](/inquiry)** for personalized profile evaluation and college selection guidance.
+Confused between IPMAT, CUET, and other BBA entrance exams? **[Speak to our Expert Counsellors Today](/inquiry/)** for personalized profile evaluation and college selection guidance.
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

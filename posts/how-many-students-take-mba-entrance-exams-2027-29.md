@@ -20,10 +20,10 @@ faqs:
   - question: Is NMAT easier to crack because of lower student volume?
     answer: >-
       Not necessarily. While the volume is lower (~80k), the exam is adaptive
-      and the top-tier [NMIMS Mumbai](/colleges/nmims-mumbai) cutoff remains
+      and the top-tier [NMIMS Mumbai](/colleges/nmims-mumbai/) cutoff remains
       very high (systematically filtered).
   - question: Does every student who registers appear for the exam?
-    answer: "No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparation gaps or distance to the center often lead to a 10-15% dropout on the exam day.\n\n[\U0001F449 Use our Score-to-College Predictor!](/tools/mat-college-predictor)\n\n**Don't Let the Numbers Scare You.**\nAt **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 Lakh other people. In a competition of millions, only those with a strategy survive.\n\n[\U0001F449 Book Your CAT/XAT Preparation Strategy Session!](/inquiry)"
+    answer: "No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparation gaps or distance to the center often lead to a 10-15% dropout on the exam day.\n\n[\U0001F449 Use our Score-to-College Predictor!](/tools/mat-college-predictor/)\n\n**Don't Let the Numbers Scare You.**\nAt **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 Lakh other people. In a competition of millions, only those with a strategy survive.\n\n[\U0001F449 Book Your CAT/XAT Preparation Strategy Session!](/inquiry/)"
 category: Online Degrees
 ---
 
@@ -64,10 +64,10 @@ CAT remains the most populated exam in India. While registrations touched a reco
 XAT saw an unprecedented **40% jump** in registrations in recent years. More students are choosing XAT as a serious alternative to CAT because top colleges like XLRI, SPJIMR, and IMT provide excellent placements outside the IIM umbrella.
 
 #### **3. SNAP: High Multiple Attempts**
-SNAP allows up to **three attempts**. Most of the 1.4 Lakh candidates take at least two attempts to improve their speed, making the internal competition for [SIBM Pune](/colleges/sibm-pune) extremely fierce.
+SNAP allows up to **three attempts**. Most of the 1.4 Lakh candidates take at least two attempts to improve their speed, making the internal competition for [SIBM Pune](/colleges/sibm-pune/) extremely fierce.
 
 #### **4. NMAT: The Corporate Favorite**
-With around 75,000 to 80,000 aspirants, NMAT has a lower "raw" volume compared to CAT, but the quality of competition is very high since the target is primarily **[NMIMS Mumbai](/colleges/nmims-mumbai)**—one of India's best private B-schools.
+With around 75,000 to 80,000 aspirants, NMAT has a lower "raw" volume compared to CAT, but the quality of competition is very high since the target is primarily **[NMIMS Mumbai](/colleges/nmims-mumbai/)**—one of India's best private B-schools.
 
 #### **5. MAT & CMAT: The Tier-2 Lifeline**
 MAT is unique because it is conducted multiple times a year (Feb, May, Sept, Dec). Cumulatively, it handles over **3 Lakh aspirants** annually, providing a steady stream of students for the 600+ B-schools that accept MAT scores.
@@ -84,17 +84,17 @@ MAT is unique because it is conducted multiple times a year (Feb, May, Sept, Dec
 Approximately 2.9 Lakh to 3.0 Lakh students actually appear for the CAT exam on the center, while registrations hover around 3.3 Lakhs.
 
 **2. Is NMAT easier to crack because of lower student volume?**
-Not necessarily. While the volume is lower (~80k), the exam is adaptive and the top-tier [NMIMS Mumbai](/colleges/nmims-mumbai) cutoff remains very high (systematically filtered).
+Not necessarily. While the volume is lower (~80k), the exam is adaptive and the top-tier [NMIMS Mumbai](/colleges/nmims-mumbai/) cutoff remains very high (systematically filtered).
 
 **3. Does every student who registers appear for the exam?**
 No. Most exams see an 85% to 90% attendance rate. Factors like fear of preparation gaps or distance to the center often lead to a 10-15% dropout on the exam day.
 
-[👉 Use our Score-to-College Predictor!](/tools/mat-college-predictor)
+[👉 Use our Score-to-College Predictor!](/tools/mat-college-predictor/)
 
 **Don't Let the Numbers Scare You.**
 At **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 Lakh other people. In a competition of millions, only those with a strategy survive.
 
-[👉 Book Your CAT/XAT Preparation Strategy Session!](/inquiry)
+[👉 Book Your CAT/XAT Preparation Strategy Session!](/inquiry/)
 
 
 
@@ -102,7 +102,7 @@ At **CareerWithMohit**, we teach you to focus on your own accuracy, not the 3 La
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

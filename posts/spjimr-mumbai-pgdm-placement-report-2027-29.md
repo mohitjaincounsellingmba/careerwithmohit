@@ -46,11 +46,11 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio ([IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta).
+The **S.P. Jain Institute of Management and Research (SPJIMR), Mumbai** ranks among India's top 5 management institutions, frequently standing on par with the Old IIM trio ([IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, and Calcutta).
 
 The **2025 PGDM placement season** reaffirmed SPJIMR’s leadership, recording an average CTC of **₹32.00 LPA**, a top international package of **₹89.00 LPA**, and over **162 Pre-Placement Offers (PPOs)**.
 
-Here is the exhaustive **[SPJIMR Mumbai](/colleges/spjimr-mumbai) PGDM Placement Report 2027–29**.
+Here is the exhaustive **[SPJIMR Mumbai](/colleges/spjimr-mumbai/) PGDM Placement Report 2027–29**.
 
 ---
 
@@ -58,7 +58,7 @@ Here is the exhaustive **[SPJIMR Mumbai](/colleges/spjimr-mumbai) PGDM Placement
 
 ---
 
-## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai) Placement 2025: Key Highlights
+## 1. [SPJIMR Mumbai](/colleges/spjimr-mumbai/) Placement 2025: Key Highlights
 
 | Metric | Statistics (2025 Graduating Class) |
 | :--- | :--- |
@@ -101,15 +101,15 @@ pie title SPJIMR Domain Distribution 2025
 
 ## 4. Related Placement Reports
 
-*   **[MDI Gurgaon PGDM Placement Report 2027–29](/blog/mdi-gurgaon-pgdm-placement-report-2027-29)**
-*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2027-29)**
-*   **[IIM BLACKI Placement Report 2025](/blog/iim-blacki-placement-report-2025-salary-recruiters)**
-*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29)**
+*   **[MDI Gurgaon PGDM Placement Report 2027–29](/blog/mdi-gurgaon-pgdm-placement-report-2027-29/)**
+*   **[XLRI Jamshedpur & Delhi Placement Report 2025](/blog/xlri-jamshedpur-delhi-placement-report-2027-29/)**
+*   **[IIM BLACKI Placement Report 2025](/blog/iim-blacki-placement-report-2025-salary-recruiters/)**
+*   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

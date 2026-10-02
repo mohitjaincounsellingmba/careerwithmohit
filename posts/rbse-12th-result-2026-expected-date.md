@@ -40,7 +40,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for RBSE 12th Result 2026 Expected Date: Rajasthan...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Board of Secondary Education, Rajasthan (RBSE) is all set to declare the **RBSE Class 12 Result 2026 for Science, Commerce, and Arts tomorrow, March 31, 2026, at 10:00 AM**. This follows the recent announcement by Rajasthan Education Minister **Madan Dilawar**, who confirmed the results will be available online for students across the state.
 
@@ -74,10 +74,10 @@ Once the results are declared tomorrow, follow these steps to download your prov
 The declaration of the 12th result opens doors to higher education and professional degrees. Whether you are aiming for Engineering (B.Tech), Management (BBA/MBA), or Law, choosing the right college and course is essential.
 
 Check out our curated guides to plan your next step:
-*   [Bihar Board 12th Result 2026: Expected Dates & Highlights](/blog/bihar-board-12th-result-2026-expected-date)
-*   [Top BBA Colleges in Jaipur: Direct Admission 2026](/blog/top-bba-colleges-jaipur-2026)
-*   [Best Engineering Colleges in Rajasthan: B.Tech Admissions 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-*   [All State Boards in India: Official Websites List](/blog/all-state-boards-india-official-websites)
+*   [Bihar Board 12th Result 2026: Expected Dates & Highlights](/blog/bihar-board-12th-result-2026-expected-date/)
+*   [Top BBA Colleges in Jaipur: Direct Admission 2026](/blog/top-bba-colleges-jaipur-2026/)
+*   [Best Engineering Colleges in Rajasthan: B.Tech Admissions 2026](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+*   [All State Boards in India: Official Websites List](/blog/all-state-boards-india-official-websites/)
 
 ### **Details to Verify on Your RBSE 12th Marksheet**
 Ensure you check that all personal and academic details are correct on your provisional scorecard:
@@ -91,7 +91,7 @@ Ensure you check that all personal and academic details are correct on your prov
 **Struggling with College Selection?**
 The competition for top universities and colleges is fierce. At **CareerWithMohit**, we help students navigate the complex world of admissions, providing personalized guidance for MBA, B.Tech, and BBA programs across India.
 
-[👉 Get Expert Career Counselling Now!](/inquiry)
+[👉 Get Expert Career Counselling Now!](/inquiry/)
 
 ---
 
@@ -113,6 +113,6 @@ Law graduates can practice in courts, join corporate law firms as legal advisors
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

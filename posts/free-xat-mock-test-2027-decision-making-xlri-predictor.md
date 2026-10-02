@@ -50,7 +50,7 @@ state: Delhi NCR
 
 [MockTestCard title="Free XAT 2027 Full CBT Mock Test 2026" link="/xat-mock-test" questions="95 Questions" time="210 Mins"]
 
-The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)**, is celebrated as one of India's most prestigious and intellectually rigorous management entrance exams. XAT scores are accepted by over 160 premier B-schools, including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur), XLRI Delhi-NCR, XIM University (Bhubaneswar), IMT Ghaziabad, GIM Goa, TAPMI Manipal, and [FORE School of Management](/colleges/fore-school-delhi)**.
+The **Xavier Aptitude Test (XAT 2027)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**, is celebrated as one of India's most prestigious and intellectually rigorous management entrance exams. XAT scores are accepted by over 160 premier B-schools, including **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi-NCR, XIM University (Bhubaneswar), IMT Ghaziabad, GIM Goa, TAPMI Manipal, and [FORE School of Management](/colleges/fore-school-delhi/)**.
 
 What sets XAT apart is its **5-option format (A, B, C, D, E)**, high-stakes **Decision Making (DM)** business ethics caselets, and rigorous verbal logic.
 
@@ -82,7 +82,7 @@ XAT includes a mandatory Decision Making section and an Essay Writing component,
 ### Is there negative marking for unattempted questions in XAT?
 Yes, in XAT, a minor penalty of -0.10 marks per question applies if more than 8 consecutive questions are left unattempted.
 
-### What is the target percentile for [XLRI Jamshedpur](/colleges/xlri-jamshedpur)?
+### What is the target percentile for [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)?
 For BM (Business Management), a percentile of 96+ is required for male candidates and 93+ for female candidates.
 
 
@@ -90,4 +90,4 @@ For BM (Business Management), a percentile of 96+ is required for male candidate
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

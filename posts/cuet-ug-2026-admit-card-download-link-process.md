@@ -56,7 +56,7 @@ The NTA has finalized the schedule. The exams will be conducted between May 11 a
 | **CUET UG 2026 Exam Dates** | May 11 to May 31, 2026 | Scheduled |
 | **Official Website** | [exams.nta.ac.in/CUET-UG](https://exams.nta.ac.in/CUET-UG) | Official |
 
-[👉 Check: CUET UG 2026 Subject-wise Expected Schedule](/blog/cuet-ug-2026-expected-exam-date)
+[👉 Check: CUET UG 2026 Subject-wise Expected Schedule](/blog/cuet-ug-2026-expected-exam-date/)
 
 ---
 
@@ -94,22 +94,22 @@ Candidates will not be allowed to enter the exam hall without these:
 ## 5. What After CUET UG 2026?
 After the exams, the focus will shift to university preferences and counseling. Colleges like Delhi University, BHU, and JNU will start their own CSAS portals for seat allocation.
 
-[👉 View Full List of CUET UG 2026 Accepting Colleges](/blog/cuet-ug-accepting-colleges-india-2027-29)
+[👉 View Full List of CUET UG 2026 Accepting Colleges](/blog/cuet-ug-accepting-colleges-india-2027-29/)
 
-[👉 Top CUET UG Colleges in Delhi NCR: Fees and Placements](/blog/top-cuet-ug-colleges-delhi-ncr)
+[👉 Top CUET UG Colleges in Delhi NCR: Fees and Placements](/blog/top-cuet-ug-colleges-delhi-ncr/)
 
 ---
 
 **Need help with CUET College Selection or Career Counselling?**
 
-[👉 Connect with our Experts for Personalized Guidance!](/inquiry)
+[👉 Connect with our Experts for Personalized Guidance!](/inquiry/)
 
 ---
 
 *Related Posts:*
-* [CUET UG 2026 Expected Exam Date & Schedule](/blog/cuet-ug-2026-expected-exam-date)
-* [How to Download NEET 2026 Admit Card](/blog/neet-2026-admit-card-download-link-process)
-* [Top MBA Colleges Accepting CUET PG Scores](/blog/top-mba-colleges-cuet-pg)
+* [CUET UG 2026 Expected Exam Date & Schedule](/blog/cuet-ug-2026-expected-exam-date/)
+* [How to Download NEET 2026 Admit Card](/blog/neet-2026-admit-card-download-link-process/)
+* [Top MBA Colleges Accepting CUET PG Scores](/blog/top-mba-colleges-cuet-pg/)
 
 ---
 
@@ -131,6 +131,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

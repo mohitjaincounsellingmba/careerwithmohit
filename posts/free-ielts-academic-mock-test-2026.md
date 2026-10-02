@@ -44,7 +44,7 @@ Succeeding in the **IELTS Academic 2026** entrance exam demands not just subject
 
 [MockTestCard title="Free IELTS Academic Full CBT Mock Test 2026" link="/ielts-mock-test" questions="80 Questions" time="165 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free IELTS Academic 2026 Mock Test](/tools/mock-test/ielts)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free IELTS Academic 2026 Mock Test](/tools/mock-test/ielts/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -84,4 +84,4 @@ Yes, all our online mock tests are fully responsive and optimized for mobile, ta
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

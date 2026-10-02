@@ -82,19 +82,19 @@ With its strong brand presence across Haryana, Delhi, and Punjab, a degree from 
 ## 🏆 Final Verdict: A Trusted Legacy
 The **Kurukshetra University Online MBA** is the perfect choice for those who prioritize **trust, accreditation, and affordability**. It is a safe and dignified path to a masters degree in 2027–29.
 
-[👉 Apply for KUK Online MBA](/inquiry) | [💬 WhatsApp Mohit Jain for Admission Guidance](/inquiry)
+[👉 Apply for KUK Online MBA](/inquiry/) | [💬 WhatsApp Mohit Jain for Admission Guidance](/inquiry/)
 
 ---
 **See Also:**
-*   [Andhra University Online MBA Review](/blog/andhra-university-online-mba-review-2027-29)
-*   [Jaipuria Online PGDM Review 2027–29](/blog/jaipuria-institute-of-management-online-pgdm-review-2027-29)
+*   [Andhra University Online MBA Review](/blog/andhra-university-online-mba-review-2027-29/)
+*   [Jaipuria Online PGDM Review 2027–29](/blog/jaipuria-institute-of-management-online-pgdm-review-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -110,7 +110,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -124,6 +124,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

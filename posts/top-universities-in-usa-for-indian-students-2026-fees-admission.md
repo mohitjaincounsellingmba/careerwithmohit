@@ -53,7 +53,7 @@ The United States of America remains the **#1 study abroad destination** for Ind
 | Johns Hopkins University | Baltimore, Maryland | Engineering – PG | ₹49,80,000 |
 | Arizona State University | Tempe, Arizona & LA | UG & Graduate | ₹27,30,000 |
 | UMass Amherst | Amherst, Massachusetts | Masters Programs | ₹30,70,000 |
-| [Chitkara University](/colleges/chitkara-university) & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
+| [Chitkara University](/colleges/chitkara-university/) & Arizona State | Chandigarh → Arizona | BE – Computer Science | ₹15,00,000 |
 | University of California, Riverside | Riverside, California | Business & Engineering | ₹36,50,000 |
 | Virginia Tech Language & Culture | Blacksburg, Virginia | UG and PG Pathways | ₹26,50,000 |
 | University of South Florida | Tampa, FL | UG only | ₹14,50,000 |
@@ -203,15 +203,15 @@ The United States of America remains the **#1 study abroad destination** for Ind
 
 Navigating USA university admissions alone can be overwhelming. From shortlisting the right university to preparing your SOP and acing interviews, our counselors have helped hundreds of Indian students secure admissions in top US institutions.
 
-[👉 Book a Free Consultation with Mohit Jain](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+[👉 Book a Free Consultation with Mohit Jain](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
 
 ---
 
 ### 🔗 Related Reads
 
-- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026)
-- [Global MBA Online 2027–29: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges)
-- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/blog/all-about-gmat-exam-colleges-cutoffs)
+- [Complete Guide to IELTS, TOEFL & SAT Exams 2026](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+- [Global MBA Online 2027–29: UK, USA & India Fees Guide](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
+- [GMAT Exam: Colleges, Cutoffs & Strategy 2026](/blog/all-about-gmat-exam-colleges-cutoffs/)
 
 ---
 
@@ -237,6 +237,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

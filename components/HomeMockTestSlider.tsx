@@ -249,7 +249,7 @@ export default function HomeMockTestSlider() {
           {/* Slider Controls (Arrows & View All) */}
           <div className="flex items-center gap-3 sm:gap-4 self-start lg:self-end">
             <Link
-              href="/mock-tests"
+              href="/mock-tests/"
               prefetch={false}
               className="inline-flex items-center gap-2 bg-slate-900 text-white rounded-xl px-5 py-2.5 text-sm font-bold tracking-wide hover:bg-blue-600 transition-all shadow-sm"
             >

@@ -62,7 +62,7 @@ This guide covers the **top B.Tech colleges in Chandigarh and the Tricity region
 | PEC Chandigarh | Chandigarh | ₹1.5 L/yr | ₹7–12 LPA | JEE Main |
 | Thapar University | Patiala (near CHD) | ₹4.0 L/yr | ₹10–18 LPA | JEE Main |
 | Chandigarh University (CU) | Mohali | ₹1.5 L/yr | ₹5–9 LPA | CUCET / JEE |
-| [Chitkara University](/colleges/chitkara-university) | Rajpura (Mohali) | ₹2.0 L/yr | ₹5–9 LPA | CUCET / JEE |
+| [Chitkara University](/colleges/chitkara-university/) | Rajpura (Mohali) | ₹2.0 L/yr | ₹5–9 LPA | CUCET / JEE |
 | CGC Jhanjeri | Mohali | ₹1.0 L/yr | ₹4–7 LPA | JEE / Boards |
 | UIET Chandigarh | Chandigarh | ₹0.60 L/yr | ₹5–8 LPA | JEE Main |
 | NITTTR Chandigarh | Chandigarh | ₹0.70 L/yr | ₹5–8 LPA | JEE Main |
@@ -111,7 +111,7 @@ The fastest-growing private university in North India with 30,000+ students, mul
 - **Avg Package:** ₹5–9 LPA | Highest: ₹42 LPA
 - **Top Recruiters:** TCS, Wipro, Infosys, HCL, Cognizant
 
-### 5. [Chitkara University](/colleges/chitkara-university), Rajpura (Mohali)
+### 5. [Chitkara University](/colleges/chitkara-university/), Rajpura (Mohali)
 Chitkara is a fast-rising private university known for its industry-integrated programmes, IBM and Microsoft partnerships, and affordable fees.
 
 - **Courses:** CSE (AI, Data Science, Cloud), ECE, Mechanical, Civil
@@ -154,15 +154,15 @@ Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct admis
 
 ## Useful Resources
 
-- [Thapar University Patiala B.Tech Review 2026](/blog/thapar-university-patiala-btech-review-2026)
-- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [Thapar University Patiala B.Tech Review 2026](/blog/thapar-university-patiala-btech-review-2026/)
+- [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Confused between Chandigarh B.Tech options? Get expert guidance from Mohit — FREE!](/inquiry)**
+**[👉 Confused between Chandigarh B.Tech options? Get expert guidance from Mohit — FREE!](/inquiry/)**
 
 
 
@@ -170,6 +170,6 @@ Yes — Chandigarh University, Chitkara, CGC, and Rayat Bahra offer direct admis
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -54,21 +54,21 @@ BBA colleges in Delhi NCR are broadly classified into three main categories: Cen
 ### 1. Central & State Government Universities
 These are the most competitive institutions in the country, characterized by nominal fee structures, elite brand value, and outstanding corporate placements.
 - **Shaheed Sukhdev College of Business Studies (SSCBS) - Delhi University:** The undisputed leader for BBA/BMS education in India. It attracts top recruiters like McKinsey, BCG, Bain, and DE Shaw.
-- **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia) - Delhi:** A central university that offers an exceptionally high ROI with an annual fee of just ~₹13,000.
+- **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) - Delhi:** A central university that offers an exceptionally high ROI with an annual fee of just ~₹13,000.
 - **Deen Dayal Upadhyaya College (DDUC) - Delhi University:** A constituent college of DU offering a highly competitive BMS program.
 
 ### 2. Guru Gobind Singh Indraprastha University (GGSIPU) Affiliates
 Affiliated GGSIPU colleges offer structured management curricula, active campus life, and consistent recruitment opportunities.
-- **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) - Janakpuri:** Ranks as the top IP University college for BBA, known for its academic rigor.
-- **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Rohini:** Boasts an impressive campus, active corporate relations, and solid corporate grooming.
+- **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) - Janakpuri:** Ranks as the top IP University college for BBA, known for its academic rigor.
+- **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida/) (MAIMS) - Rohini:** Boasts an impressive campus, active corporate relations, and solid corporate grooming.
 - **Vivekananda Institute of Professional Studies (VIPS) - Pitampura:** Renowned for its state-of-the-art infrastructure and vibrant student societies.
 
 ### 3. Premium Private Universities
 These institutions offer modern, global-standard pedagogy, international exchange programs, and diverse corporate networking.
 - **Symbiosis Centre for Management Studies (SCMS) - Noida:** A constituent of Symbiosis International University, SCMS Noida offers major-minor specialization combinations and global exposure.
 - **Christ University (Delhi NCR Campus) - Ghaziabad:** Focuses on holistic development, presentations, and rigorous corporate training.
-- **[BML Munjal University](/colleges/bml-munjal-gurgaon) - Gurgaon:** Mentored by Imperial College London and backed by the Hero Group, it emphasizes experiential learning.
-- **[Amity University](/colleges/amity-noida) - Noida:** Offers a massive choice of specializations and top-tier campus facilities.
+- **[BML Munjal University](/colleges/bml-munjal-gurgaon/) - Gurgaon:** Mentored by Imperial College London and backed by the Hero Group, it emphasizes experiential learning.
+- **[Amity University](/colleges/amity-noida/) - Noida:** Offers a massive choice of specializations and top-tier campus facilities.
 
 ---
 
@@ -95,10 +95,10 @@ These institutions offer modern, global-standard pedagogy, international exchang
 ---
 
 ## 🔗 Related Resources
-- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet)
-- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
+- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet/)
+- [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
 
 ---
 
@@ -108,7 +108,7 @@ With multiple entrance exams (CUET, IPU CET, SET) and hundreds of colleges in De
 
 **Confused between GGSIPU colleges and DU?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"BBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -130,6 +130,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

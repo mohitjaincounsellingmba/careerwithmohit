@@ -59,7 +59,7 @@ Here are the **Top BBA Colleges in Kolkata for 2026**.
 - **Entrance Exam:** Entrance Exam conducted by the college
 - **USP:** One of India’s most prestigious brands; focuses heavily on ethics and discipline.
 
-### 3. [NSHM Knowledge Campus](/colleges/nshm-kolkata), Kolkata
+### 3. [NSHM Knowledge Campus](/colleges/nshm-kolkata/), Kolkata
 - **Rank:** #31 in India (TOI 2025)
 - **Approx. Fees:** ₹1.0 - 1.8 Lakhs (Annual)
 - **Average Placement:** ₹5.8 LPA (Highest 10 LPA+)
@@ -84,16 +84,16 @@ If you seek a corporate job in East India, **NSHM** and **JD Birla** offer great
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29)
-- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 
 ---
 
 ## 📞 Still Deciding on BBA in Kolkata?
 Choosing a college is the first step toward your CEO journey. Let's make sure it's the right one.
 
-[👉 Build My Kolkata Roadmap](/inquiry) | [💬 Schedule a Private Counselling Session](/inquiry)
+[👉 Build My Kolkata Roadmap](/inquiry/) | [💬 Schedule a Private Counselling Session](/inquiry/)
 
 ---
 
@@ -115,6 +115,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

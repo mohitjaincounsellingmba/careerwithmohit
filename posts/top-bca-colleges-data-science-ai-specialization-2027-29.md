@@ -62,11 +62,11 @@ According to industry reports, **90% of new software roles** now involve some le
 | College | Location | Specialization Focus | Avg. Package |
 |---|---|---|---|
 | **SICSR Pune** | Pune | Data Science & Cloud | ₹5.5 - 7.5 LPA |
-| **[Jain University](/colleges/jain-university) (SET)** | Bangalore | AI & Machine Learning | ₹5.0 - 7.0 LPA |
-| **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | AI & Data Science | ₹5.5 - 8.5 LPA |
+| **[Jain University](/colleges/jain-university/) (SET)** | Bangalore | AI & Machine Learning | ₹5.0 - 7.0 LPA |
+| **[Bennett University](/colleges/bennett-greater-noida/)** | Greater Noida | AI & Data Science | ₹5.5 - 8.5 LPA |
 | **MIT-WPU Pune** | Pune | AI & Data Analytics | ₹4.8 - 6.5 LPA |
 | **Alliance University** | Bangalore | Applied Data Science | ₹4.5 - 7.0 LPA |
-| **[Amity University](/colleges/amity-noida)** | Multiple | AI & Blockchain | ₹4.5 - 6.8 LPA |
+| **[Amity University](/colleges/amity-noida/)** | Multiple | AI & Blockchain | ₹4.5 - 6.8 LPA |
 | **Woxsen University** | Hyderabad | Data Science & AI | ₹5.0 - 7.5 LPA |
 
 ---
@@ -112,16 +112,16 @@ Top students in colleges like **Bennett or Jain** have cleared ₹12L-₹15L pac
 ---
 
 ### Useful Links:
-- [Top BCA Colleges in India 2026 NIRF Guide](/blog/top-bca-colleges-india-nirf-ranking-2027-29)
-- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2027-29)
+- [Top BCA Colleges in India 2026 NIRF Guide](/blog/top-bca-colleges-india-nirf-ranking-2027-29/)
+- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2027-29/)
 
 ---
 
 **Is AI the Right Move for You?**
 AI is the biggest buzzword in 2026. Don't fall for a marketing trick. Mohit Jain provides a "Data Career Audit"—helping you identify if you actually have the aptitude for high-end analytics or if a creative IT role suits you better.
 
-[👉 Book My Data Science BCA Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Data Science BCA Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -129,6 +129,6 @@ AI is the biggest buzzword in 2026. Don't fall for a marketing trick. Mohit Jain
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

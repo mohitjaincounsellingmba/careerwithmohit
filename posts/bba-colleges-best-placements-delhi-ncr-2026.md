@@ -74,14 +74,14 @@ Known for its strict academic discipline and holistic development, the Delhi NCR
 - **Key Recruiters:** Ernst & Young (EY), Deloitte, KPMG, HDFC Bank, and Genpact.
 - **Why it shines:** Intense training in presentation skills, business analysis, and resume building.
 
-### 4. [BML Munjal University](/colleges/bml-munjal-gurgaon) - Gurgaon
+### 4. [BML Munjal University](/colleges/bml-munjal-gurgaon/) - Gurgaon
 Backed by the Hero Group and mentored by Imperial College London, BML Munjal offers a highly modern, hands-on BBA curriculum with strong corporate connections.
 - **Average Placement Package:** **₹5.8 LPA**
 - **Highest Salary Package:** **₹11 LPA**
 - **Key Recruiters:** Hero MotoCorp, Deloitte, Axis Bank, Wipro, and TCS.
 - **Why it shines:** Over 40% of the curriculum is dedicated to live industry projects and corporate case studies.
 
-### 5. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) - Janakpuri, GGSIPU
+### 5. [Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi/) - Janakpuri, GGSIPU
 The top-ranked IP University affiliate, MSI is known for its academic discipline and consistently high corporate placement records.
 - **Average Placement Package:** **₹4.8 LPA**
 - **Highest Salary Package:** **₹9.0 LPA**
@@ -97,7 +97,7 @@ The top-ranked IP University affiliate, MSI is known for its academic discipline
 | **SSCBS, Delhi** | **₹11.5 LPA** | **₹44.4 LPA** | Management Consulting / Finance |
 | **SCMS, Noida** | **₹6.8 LPA** | **₹12.0 LPA** | Marketing / Corporate Sales |
 | **Christ University** | **₹6.2 LPA** | **₹10.0 LPA** | Financial Analysis / HR |
-| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | **₹5.8 LPA** | **₹11.0 LPA** | Operations / Business Analytics |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon/)** | **₹5.8 LPA** | **₹11.0 LPA** | Operations / Business Analytics |
 | **MSI Janakpuri (IPU)** | **₹4.8 LPA** | **₹9.0 LPA** | IT Consulting / Business Audits |
 | **MAIMS Rohini (IPU)** | **₹4.5 LPA** | **₹8.5 LPA** | Market Research / Finance |
 
@@ -112,10 +112,10 @@ The top-ranked IP University affiliate, MSI is known for its academic discipline
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026)
-- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet)
-- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026)
-- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet/)
+- [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
+- [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
 
 ---
 
@@ -125,7 +125,7 @@ With multiple entrance exams (CUET, IPU CET, SET) and hundreds of colleges in De
 
 **Confused between GGSIPU colleges and DU?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"BBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
@@ -147,6 +147,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

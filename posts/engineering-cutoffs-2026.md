@@ -142,7 +142,7 @@ Uttarakhand Post‑Test Admission Counseling (UPTAC) for AKTU 2026:
 |---------|--------|--------------|
 | JSS Academy of Technical Education | CSE | 1800 |
 | AKGEC (AKTU) | CSE | 2100 |
-| [KIET Group of Institutions](/colleges/kiet-ghaziabad) | CSE | 2400 |
+| [KIET Group of Institutions](/colleges/kiet-ghaziabad/) | CSE | 2400 |
 | JSS Academy | ECE | 2200 |
 | AKGEC | ECE | 2500 |
 | KIET | ECE | 2800 |
@@ -207,6 +207,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

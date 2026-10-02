@@ -78,14 +78,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹14.00 Lakhs (Total)** (**₹7.00 Lakhs per Year (or ₹3.50L/semester + ₹6k convenience charge)**). ₹2.50 Crore Dedicated Fund Pool (Merit & Category Rebates)
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · AIU MBA Equivalent · ASIC (UK) Premier Institution.
 > - **Audited Placements & PPO**: Average CTC stands at **₹10.00 LPA** (Top 25% at **₹12.80 LPA**) with a highest package of **₹24.00 LPA (International / Domestic High)**. 28% of the batch converts Pre-Placement Offers (PPOs) via mandatory 8-week corporate internships.
 
-**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) (NDIM Delhi)**, located in **Tughlakabad Institutional Area, South Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) (NDIM Delhi)**, located in **Tughlakabad Institutional Area, South Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **New Delhi**, this detailed guide provides verified facts regarding **NDIM Delhi's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -95,7 +95,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** (NDIM Delhi) |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)** (NDIM Delhi) |
 | **Campus Location** | Tughlakabad Institutional Area, South Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM (Dual Specialization: Marketing, Finance, HR, FinTech, Business Analytics, Supply Chain)** |
 | **Degree / Diploma Type** | **PGDM** |
@@ -189,7 +189,7 @@ To bridge academia and industry demands, NDIM Delhi embeds the following corpora
 
 ## 8. Faculty Credentials & Academic Pedagogy
 
-*   👨‍🏫 **Faculty Profile**: 60+ core professors; 85% hold Ph.D. degrees from IIMs, [FMS Delhi](/colleges/fms-delhi), and IITs with over 15+ years average corporate consulting experience.
+*   👨‍🏫 **Faculty Profile**: 60+ core professors; 85% hold Ph.D. degrees from IIMs, [FMS Delhi](/colleges/fms-delhi/), and IITs with over 15+ years average corporate consulting experience.
 *   📚 **Pedagogy**: Case-method discussions, industrial live projects, outbound leadership bootcamps, and executive panel interactions.
 
 ---
@@ -249,13 +249,13 @@ NDIM Delhi accepts valid percentiles from national entrance exams including CAT,
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

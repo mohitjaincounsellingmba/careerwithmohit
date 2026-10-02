@@ -65,12 +65,12 @@ faqs:
 
 ## 🔗 Related Resources
 
-* [MBBS Abroad 2026 Guide](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules)
-* [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
+* [MBBS Abroad 2026 Guide](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
+* [Top Medical Colleges in India](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

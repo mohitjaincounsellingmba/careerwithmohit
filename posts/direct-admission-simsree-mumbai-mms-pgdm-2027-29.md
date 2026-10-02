@@ -37,7 +37,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-Sydenham [Institute of Management Studies](/colleges/ims-noida), Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
+Sydenham [Institute of Management Studies](/colleges/ims-noida/), Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi/). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
 
 ## Why SIMSREE is Exceptional?
 
@@ -91,11 +91,11 @@ The current average package is approximately **₹15.19 LPA**.
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
-- [MAH MBA CET Exam Guide & Patterns](/blog/all-about-mah-mba-cet-exam)
-- [Comparison: MBA vs PGDM ROI](/blog/mba-vs-pgdm-difference)
+- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
+- [MAH MBA CET Exam Guide & Patterns](/blog/all-about-mah-mba-cet-exam/)
+- [Comparison: MBA vs PGDM ROI](/blog/mba-vs-pgdm-difference/)
 
-[👉 Need guidance for your Maharashtra MBA CAP registration? Book a free session!](/inquiry)
+[👉 Need guidance for your Maharashtra MBA CAP registration? Book a free session!](/inquiry/)
 
 
 
@@ -103,6 +103,6 @@ The current average package is approximately **₹15.19 LPA**.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

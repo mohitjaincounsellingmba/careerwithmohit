@@ -78,7 +78,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Goa Institute of Management (GIM), Goa**
     *   **Approx Fees**: ₹11–12 lakh
     *   **Highlights**: Known for its specialized "Big Data Analytics in Healthcare" approach.
-*   **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai), Mumbai**
+*   **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/), Mumbai**
     *   **Approx Fees**: ₹14–20 lakh
     *   **Highlights**: Strong alumni network in the pharmaceutical and insurance sectors.
 
@@ -86,7 +86,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Symbiosis Institute of Health Sciences, Pune**
     *   **Approx Fees**: ₹11–12 lakh
     *   **Highlights**: Highly focused on hospital operations and clinical research management.
-*   **[IIHMR University](/colleges/iihmr-university), Jaipur**
+*   **[IIHMR University](/colleges/iihmr-university/), Jaipur**
     *   **Approx Fees**: ₹9–12 lakh
     *   **Highlights**: A pioneer in health research and specialized management training.
 *   **SGT University, Gurugram**
@@ -97,7 +97,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
 *   **Chandigarh University, Chandigarh**
     *   **Approx Fees**: ₹4–6 lakh
     *   **Highlights**: Rapidly growing placement records and modern infra.
-*   **[Lovely Professional University](/colleges/lovely-professional-university) (LPU), Punjab**
+*   **[Lovely Professional University](/colleges/lovely-professional-university/) (LPU), Punjab**
     *   **Approx Fees**: ₹7–9 lakh
     *   **Highlights**: Global diversity and strong tech-integrated learning.
 *   **SRM Institute of Science and Technology, Chennai**
@@ -105,7 +105,7 @@ Here is the definitive list of institutions to target for the 2026 academic sess
     *   **Highlights**: Excellent research facilities and southern industry links.
 
 #### 4. Specialized Private Universities
-*   **[Amity University, Noida](/colleges/amity-noida)**
+*   **[Amity University, Noida](/colleges/amity-noida/)**
     *   **Approx Fees**: ₹3–7 lakh
     *   **Highlights**: Flexible programs and strong emphasis on corporate networking.
 *   **DY Patil University, Navi Mumbai**
@@ -164,7 +164,7 @@ To secure a seat in these top programs for 2026, keep these tips in mind:
 ### Need Expert Guidance?
 Navigating through fee structures and placement records can be overwhelming. At **CareerWithMohit**, we provide personalized counselling to help you choose the right college based on your budget and career goals.
 
-[**Inquiry Now for Personalized Counselling**](/inquiry) | [**Explore More Colleges**](/colleges)
+[**Inquiry Now for Personalized Counselling**](/inquiry/) | [**Explore More Colleges**](/colleges/)
 
 
 
@@ -172,7 +172,7 @@ Navigating through fee structures and placement records can be overwhelming. At 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -186,6 +186,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

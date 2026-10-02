@@ -23,7 +23,7 @@ faqs:
       slots.
   - question: >-
       What is the average package at [NMIMS
-      Bangalore](/colleges/nmims-bangalore) BBA?
+      Bangalore](/colleges/nmims-bangalore/) BBA?
     answer: >-
       The average package for the 2025 batch was approximately **₹10.5 LPA**,
       with the highest hitting ₹20L+.
@@ -57,8 +57,8 @@ Whether you are targeting the legendary discipline of Christ University or the e
 | **Christ (Central)** | Private | CUET/ET | ₹2.8 - 3.5 Lakhs | ₹6.5 - 9.5 LPA |
 | **St. Joseph’s (SJC)** | Private | Merit/ET | ₹1.2 - 1.8 Lakhs | ₹5.5 - 8.0 LPA |
 | **Jain (CMS)** | Deemed | JET | ₹3.5 - 4.5 Lakhs | ₹5.0 - 7.5 LPA |
-| **[NMIMS Bangalore](/colleges/nmims-bangalore)** | Deemed | NPAT | ₹3.2 - 3.8 Lakhs | ₹8.5 - 12.0 LPA |
-| **[IIM Bangalore](/colleges/iim-bangalore) (DI)** | Central | IPMAT/JIPMAT | ₹5.5 - 6.5 Lakhs | ₹18.0 - 25.0 LPA|
+| **[NMIMS Bangalore](/colleges/nmims-bangalore/)** | Deemed | NPAT | ₹3.2 - 3.8 Lakhs | ₹8.5 - 12.0 LPA |
+| **[IIM Bangalore](/colleges/iim-bangalore/) (DI)** | Central | IPMAT/JIPMAT | ₹5.5 - 6.5 Lakhs | ₹18.0 - 25.0 LPA|
 | **Mount Carmel (MCC)** | Women | Merit | ₹1.8 - 2.5 Lakhs | ₹5.0 - 7.0 LPA |
 
 ---
@@ -69,11 +69,11 @@ Whether you are targeting the legendary discipline of Christ University or the e
 Consistently ranked among the top 3 BBA programs in India. Christ is famous for its strict discipline, holistic skill development, and its own "Entrance Test" (CUET—not to be confused with the national CUET).
 - **Placement Secret:** Most graduates secure placements in Big 4 consulting firms (EY, KPMG, Deloitte, PwC).
 
-### 2. [NMIMS Bangalore](/colleges/nmims-bangalore) (Bannerghatta)
+### 2. [NMIMS Bangalore](/colleges/nmims-bangalore/) (Bannerghatta)
 While NMIMS is synonymous with Mumbai, its Bangalore campus has emerged as a specialization powerhouse for Finance and Business Analytics.
 - **Top Choice:** For students who want an elite brand name with a modern tech-integrated curriculum.
 
-### 3. [Jain University](/colleges/jain-university) (CMS)
+### 3. [Jain University](/colleges/jain-university/) (CMS)
 Jain Center for Management Studies (CMS) is known for its entrepreneurial focus. If you plan to start your own venture or work in a high-growth startup, Jain's alumni network is incredible.
 
 ---
@@ -89,7 +89,7 @@ For a 2026 BBA student, Bangalore offers:
 
 ## 🏗️ Direct BBA Admission in Bangalore 2026
 
-If you miss the entrance exam cutoffs, companies like **Jain, Dayananda Sagar, and [Presidency University](/colleges/presidency-university)** offer "Management Quota" and "Merit-based direct entry."
+If you miss the entrance exam cutoffs, companies like **Jain, Dayananda Sagar, and [Presidency University](/colleges/presidency-university/)** offer "Management Quota" and "Merit-based direct entry."
 - **Process:** Based on your Class 12 aggregate (aim for 80%+).
 - **Fees:** Management quota donation ranges from ₹1 Lakh to ₹5 Lakhs (one-time) on top of the annual fees.
 
@@ -103,7 +103,7 @@ Absolutely. Christ BBA focuses on case studies, presentations, and corporate eti
 **Q2. When is the Christ University BBA entrance 2026?**
 The entrance tests (CUET) are usually held in **March/April** in multiple slots.
 
-**Q3. What is the average package at [NMIMS Bangalore](/colleges/nmims-bangalore) BBA?**
+**Q3. What is the average package at [NMIMS Bangalore](/colleges/nmims-bangalore/) BBA?**
 The average package for the 2025 batch was approximately **₹10.5 LPA**, with the highest hitting ₹20L+.
 
 **Q4. does Mount Carmel College offer BBA for boys?**
@@ -115,16 +115,16 @@ Yes. Several colleges like **MS Ramaiah and Presidency** do not mandate math in 
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [How to Prepare for IPMAT 2026](/blog/ipmat-2026-preparation-guide-colleges)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [How to Prepare for IPMAT 2026](/blog/ipmat-2026-preparation-guide-colleges/)
 
 ---
 
 **Do You Have the Grit for the Silicon Valley of India?**
 Bangalore is about performance. Don't waste your score on a college without a stable industry link. Mohit Jain provides a **"Bangalore Management Audit"**—helping you pick the college that puts you on the radar of Amazon, Deloitte, and the next-gen startups.
 
-[👉 Book My Bangalore BBA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Bangalore BBA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -132,6 +132,6 @@ Bangalore is about performance. Don't waste your score on a college without a st
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

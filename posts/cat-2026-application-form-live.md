@@ -85,14 +85,14 @@ With the application forms out and the exam scheduled for November 29, 2026, the
 
 > 🎯 **Check your current standing!**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](/tools/cat-mock-test/)
 
 ---
 
 ### Related Articles:
-- [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-- [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission)
+- [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+- [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission/)
 - [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test#marks)
 
 ---
@@ -112,7 +112,7 @@ The CAT 2026 exam will be held on November 29, 2026.
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources to ace the exam? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources to ace the exam? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 
 ---

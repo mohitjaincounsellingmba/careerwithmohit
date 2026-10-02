@@ -125,16 +125,16 @@ Admissions usually start in **May/June** after the 12th Board results are declar
 ---
 
 ### Useful Links:
-- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
-- [MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune)
-- [BCA vs B.Tech CSE — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
+- [MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune/)
+- [BCA vs B.Tech CSE — Career Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 ---
 
 **Dreaming of a Software Career in Hinjewadi?**
 Pune's B-school and BCA landscape is vast. Don't be just another name in a batch of 500. Mohit Jain provides a "Pune IT Career Roadmap"—ensuring you pick the college that puts you on the radar of TCS, Infosys, and beyond.
 
-[👉 Book My Pune BCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Pune BCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -142,6 +142,6 @@ Pune's B-school and BCA landscape is vast. Don't be just another name in a batch
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

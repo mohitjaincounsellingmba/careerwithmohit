@@ -51,14 +51,14 @@ If you want an MBA but don't want to deal with the extreme difficulty of CAT, th
 
 | College | Exam Accepted | Cutoff (Approx) | Avg. Package |
 |---|---|---|---|
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | CMAT | 99.9+ Percentile| ₹28.02 LPA |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | CMAT | 99.9+ Percentile| ₹28.02 LPA |
 | **SIMSREE Mumbai** | CMAT | 99.8+ Percentile| ₹15.20 LPA |
-| **[PUMBA Pune](/colleges/pumba-pune)** | CMAT | 99+ Percentile | ₹9.40 LPA |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | CMAT | 99+ Percentile | ₹9.40 LPA |
 | **GIM Goa** | CMAT | 95+ Percentile | ₹14.80 LPA |
 | **K J Somaiya** | CMAT | 95+ Percentile | ₹12.30 LPA |
 | **Great Lakes** | CMAT | 90+ Percentile | ₹14.50 LPA |
 | **BIMTECH** | MAT/CMAT | 85+ Percentile | ₹11.20 LPA |
-| **[XIME Bangalore](/colleges/xime-bangalore)** | MAT/CMAT | 80+ Percentile | ₹10.30 LPA |
+| **[XIME Bangalore](/colleges/xime-bangalore/)** | MAT/CMAT | 80+ Percentile | ₹10.30 LPA |
 
 ---
 
@@ -106,16 +106,16 @@ Registration usually starts in **late December or early January**.
 ---
 
 ### Useful Links:
-- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Direct MBA Admission Guide 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Direct MBA Admission Guide 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
 **Don't Let the CAT Percentile Define You.**
 MAT and CMAT are the smart student's bypass. Many students Mohit Jain has counselled have turned an average MAT score into a career at a Tier-1 private B-school. Let's find your bypass.
 
-[👉 Plan My CMAT/MAT Admission](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Plan My CMAT/MAT Admission](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -123,7 +123,7 @@ MAT and CMAT are the smart student's bypass. Many students Mohit Jain has counse
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -137,6 +137,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

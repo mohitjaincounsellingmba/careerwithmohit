@@ -96,7 +96,7 @@ The DGME will release a state merit list. Based on your rank, you will fill your
 - **GSVM, Kanpur**
 
 ### Private Hubs (Open to All India)
-- **[Sharda University](/colleges/sharda-greater-noida) (Greater Noida)**
+- **[Sharda University](/colleges/sharda-greater-noida/) (Greater Noida)**
 - **Hind Institute (Barabanki/Lucknow)**
 - **SRMS (Bareilly)**
 - **Subharti Medical (Meerut)**
@@ -128,16 +128,16 @@ Usually 15-20 days after the Round 1 result. Round 2 is often when the "Category
 ---
 
 ### Useful Links:
-- [Top Medical Colleges in Lucknow 2026](/blog/top-medical-colleges-lucknow-2026)
-- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026)
-- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide)
+- [Top Medical Colleges in Lucknow 2026](/blog/top-medical-colleges-lucknow-2026/)
+- [Top Medical Colleges in Delhi NCR 2026](/blog/top-medical-colleges-delhi-ncr-2026/)
+- [How to Prepare for NEET 2026](/blog/neet-2026-exam-strategy-guide/)
 
 ---
 
 **Don't Lose Your 2 Lakhs to Bad Choice Filling.**
 UP counselling is a game of strategy. One wrong move and your security deposit is forfeited or you end up in a college with zero patient load. Mohit Jain provides a "UP NEET Strategy Audit"—helping you build a choice list that maximizes your score and secures your career.
 
-[👉 Book My UP NEET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My UP NEET Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -145,6 +145,6 @@ UP counselling is a game of strategy. One wrong move and your security deposit i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

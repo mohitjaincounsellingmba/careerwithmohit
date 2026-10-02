@@ -98,7 +98,7 @@ One of India's oldest and most respected engineering colleges, CEG is part of An
 
 ## Tier 2 — Top Private/Deemed Universities in Chennai
 
-### 3. [SRM Institute of Science and Technology, Kattankulathur](/colleges/srm-institute-of-science-and-technology-kattankulathur)
+### 3. [SRM Institute of Science and Technology, Kattankulathur](/colleges/srm-institute-of-science-and-technology-kattankulathur/)
 SRM (Kattankulathur) is one of the largest private engineering universities in India with 50,000+ students, and a remarkable placement record particularly in IT and software.
 
 - **Courses:** CSE, ECE, EEE, Mechanical, Biomedical, Robotics, Data Science, AIML
@@ -188,15 +188,15 @@ Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed un
 
 ## Useful Resources
 
-- [SRM B.Tech Admission 2026 — All Campuses Guide](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
-- [VIT Vellore B.Tech Admission 2026](/blog/vit-vellore-btech-admission-2026-direct-fees-review)
-- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
-- [JoSAA Counselling 2026 Guide](/blog/josaa-counselling-2026-dates-process-registration)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [SRM B.Tech Admission 2026 — All Campuses Guide](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
+- [VIT Vellore B.Tech Admission 2026](/blog/vit-vellore-btech-admission-2026-direct-fees-review/)
+- [JEE Main 2026 Score Calculator](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
+- [JoSAA Counselling 2026 Guide](/blog/josaa-counselling-2026-dates-process-registration/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Need expert help choosing a Chennai B.Tech college? Book a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Need expert help choosing a Chennai B.Tech college? Book a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -204,6 +204,6 @@ Government-aided college fees are low (₹50,000–₹1 L/yr). Private deemed un
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

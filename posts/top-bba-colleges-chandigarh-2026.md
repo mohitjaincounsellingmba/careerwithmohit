@@ -51,7 +51,7 @@ Here are the **Top BBA Colleges in Chandigarh and its vicinity for 2026**.
 - **Entrance Exam:** CUCET (Mandatory for Scholarships)
 - **USP:** Massive campus, diverse student body, and highest number of recruiters in the region.
 
-### 2. [Chitkara University](/colleges/chitkara-university)
+### 2. [Chitkara University](/colleges/chitkara-university/)
 - **Approx. Fees:** ₹1.2 - 1.8 Lakhs (Annual)
 - **Average Placement:** ₹4 - 5 LPA
 - **Entrance Exam:** Merit-based / Personal Interview
@@ -81,16 +81,16 @@ If you have a strong academic record (90%+ in 12th), GDSD College is the best fo
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [Admission Guide 2026](/blog/career-roadmaps-2027-29)
-- [MBA after B.Tech Benefits](/blog/mba-after-btech-benefits-2027-29)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
+- [MBA after B.Tech Benefits](/blog/mba-after-btech-benefits-2027-29/)
 
 ---
 
 ## 📞 Need Help Choosing a College in Chandigarh?
 Don't get confused by the marketing! Let's analyze the real placement data and choose the best one for you.
 
-[👉 Build My Chandigarh Roadmap](/inquiry) | [💬 Schedule a Private Session](/inquiry)
+[👉 Build My Chandigarh Roadmap](/inquiry/) | [💬 Schedule a Private Session](/inquiry/)
 
 ---
 
@@ -112,6 +112,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

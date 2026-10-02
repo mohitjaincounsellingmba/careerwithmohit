@@ -279,7 +279,7 @@ function CollegeCard({ college, type }: { college: College, type: "safe" | "targ
                         <span className="font-black text-slate-900">{college.tier}</span>
                     </div>
                 </div>
-                <Link href="/inquiry" className={`w-full py-2.5 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all flex items-center justify-center gap-2 ${
+                <Link href="/inquiry/" className={`w-full py-2.5 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all flex items-center justify-center gap-2 ${
                     type === "safe" ? "bg-emerald-500 text-white shadow-lg shadow-emerald-500/20" :
                     type === "target" ? "bg-blue-500 text-white shadow-lg shadow-blue-500/20" :
                     "bg-slate-900 text-white shadow-lg shadow-slate-900/20"

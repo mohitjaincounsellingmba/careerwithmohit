@@ -117,9 +117,9 @@ Business Analytics is the practice of analyzing corporate data to improve busine
 ---
 
 *Related Articles:*
-- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12)
-- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams)
-- [The Parent's Guide to Online Undergraduate Degrees](/blog/parents-guide-online-undergraduate-degrees-validity-placements-scope)
+- [Online BBA vs. Regular BBA: Making the Right Choice After Class 12](/blog/online-bba-vs-regular-bba-right-choice-after-class-12/)
+- [Is an Online BBA Degree Valid for Government Jobs, UPSC, and Bank Exams?](/blog/is-online-bba-degree-valid-government-jobs-upsc-bank-exams/)
+- [The Parent's Guide to Online Undergraduate Degrees](/blog/parents-guide-online-undergraduate-degrees-validity-placements-scope/)
 ---
 
 
@@ -129,6 +129,6 @@ Business Analytics is the practice of analyzing corporate data to improve busine
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

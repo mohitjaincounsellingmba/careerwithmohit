@@ -92,31 +92,31 @@ This is for the tech-savvy leaders who want to manage the "Digital Backbone" of 
 ---
 
 ## 🏛️ Best Colleges for These Trends in 2026
-1.  **[IIM Lucknow](/colleges/iim-lucknow) & [IIM Ahmedabad](/colleges/iim-ahmedabad):** Offering specialized electives in ESG and Digital.
+1.  **[IIM Lucknow](/colleges/iim-lucknow/) & [IIM Ahmedabad](/colleges/iim-ahmedabad/):** Offering specialized electives in ESG and Digital.
 2.  **SPJIMR, Mumbai:** A leader in value-based sustainability management.
-3.  **[MDI Gurgaon](/colleges/mdi-gurgaon):** Strong focus on Digital Transformation and AI strategy.
+3.  **[MDI Gurgaon](/colleges/mdi-gurgaon/):** Strong focus on Digital Transformation and AI strategy.
 4.  **Great Lakes Institute:** Known for its Digital Business and Analytics focus.
 
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top 10 High-Paying Careers After BBA 2026](/blog/high-paying-careers-after-bba-2026)
-*   [How to Crack CAT 2026: Strategy](/blog/1-year-online-mba-colleges-india-2027-29)
-*   [Direct MBA Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [Top 10 High-Paying Careers After BBA 2026](/blog/high-paying-careers-after-bba-2026/)
+*   [How to Crack CAT 2026: Strategy](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [Direct MBA Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 ## 📞 Get Expert MBA Specialization Advice
 Unsure which "future-proof" MBA is right for your background? Speak with our experts to align your career goals with the 2027–29 market demand.
 
-[👉 Book a Free Consultation](/inquiry) | [💬 WhatsApp our Expert](https://wa.me/919560020771)
+[👉 Book a Free Consultation](/inquiry/) | [💬 WhatsApp our Expert](https://wa.me/919560020771)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -128,5 +128,5 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 ---
 
 ### 🚀 Boost Your Preparation
-Whichever path you choose, a high CAT/NMAT score is the first step. **[Access our Free Mock Test Series 2026](/mock-tests)** to start your journey toward India's top B-schools.
+Whichever path you choose, a high CAT/NMAT score is the first step. **[Access our Free Mock Test Series 2026](/mock-tests/)** to start your journey toward India's top B-schools.
 

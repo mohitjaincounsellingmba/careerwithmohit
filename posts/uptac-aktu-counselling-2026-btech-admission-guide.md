@@ -66,7 +66,7 @@ category: B.Tech
 2.  **KNIT Sultanpur** (Kamla Nehru Institute of Technology).
 3.  **BIET Jhansi** (Bundelkhand Institute of Engineering & Technology).
 4.  **JSS Academy of Technical Education, Noida**.
-5.  **[KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad**.
+5.  **[KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad**.
 6.  **GL Bajaj Institute of Technology & Management, Greater Noida**.
 7.  **Galgotias College of Engineering & Technology, Greater Noida**.
 
@@ -85,7 +85,7 @@ In the first round, if you don't get your dream branch in a top college, always 
 **Need a Personalized Choice Filling List?**
 UPTAC has hundreds of colleges, and choosing the right one can be overwhelming. At **CareerWithMohit**, we provide a branch-wise preference list customized for your JEE Main rank.
 
-[👉 Get Expert UPTAC Counselling Support!](/inquiry)
+[👉 Get Expert UPTAC Counselling Support!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. When will UPTAC 2026 registration start?**
@@ -104,6 +104,6 @@ No, government college seats are reserved for students with UP domicile. Outside
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

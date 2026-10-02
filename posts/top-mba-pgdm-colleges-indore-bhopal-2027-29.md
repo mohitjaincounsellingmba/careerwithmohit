@@ -49,7 +49,7 @@ For students planning **2027-29 MBA/PGDM admission**, Indore and Bhopal feature 
 
 | College Name | Location | Accepted Exams | Total Fees (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Indore](/colleges/iim-indore)** | Indore | CAT (97+ %ile) | ₹21.16 Lakhs | ₹25.68 LPA |
+| **[IIM Indore](/colleges/iim-indore/)** | Indore | CAT (97+ %ile) | ₹21.16 Lakhs | ₹25.68 LPA |
 | **Jaipuria Inst. of Mgmt** | Indore | CAT/XAT/MAT/CMAT | ₹11.50 Lakhs | ₹9.50 LPA |
 | **IMS DAVV (Devi Ahilya Univ)** | Indore | CMAT (85+ %ile) | ₹1.40 Lakhs | ₹6.80 LPA |
 | **Prestige Inst. (PIMR)** | Indore | CMAT / MAT / CAT | ₹2.80 Lakhs | ₹6.00 LPA |
@@ -61,9 +61,9 @@ For students planning **2027-29 MBA/PGDM admission**, Indore and Bhopal feature 
 
 ## Featured Colleges Spotlight
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Indore
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Indore
 * **Highlights**: Sprawling campus on Indore-Bypass road. AICTE approved, NBA accredited PGDM program.
-* **Placements**: Shared placement drives across all 4 Jaipuria campuses ensuring top recruiters like Deloitte, ICICI, Amazon, and Moody's Analytics. Read [All About Jaipuria Indore](/blog/all-about-jaipuria-institute-of-management-indore).
+* **Placements**: Shared placement drives across all 4 Jaipuria campuses ensuring top recruiters like Deloitte, ICICI, Amazon, and Moody's Analytics. Read [All About Jaipuria Indore](/blog/all-about-jaipuria-institute-of-management-indore/).
 
 ### 2. IMS DAVV Indore
 * **High ROI Leader**: Extremely low tuition fees of ₹1.40 Lakhs with strong placement support across Central India.
@@ -83,7 +83,7 @@ For students planning **2027-29 MBA/PGDM admission**, Indore and Bhopal feature 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

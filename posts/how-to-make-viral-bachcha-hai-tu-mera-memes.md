@@ -38,7 +38,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for How to Make Viral ‘Bachcha Hai Tu Mera’ Memes ...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 If you have been scrolling through Instagram or X (Twitter) lately, you must have seen the iconic **Jameel Jamali** (played by Rakesh Bedi) pointing at something and saying, **“Bachcha Hai Tu Mera.”** This trend from the movie *Dhurandhar 2* has taken the internet by storm, with everyone from local shops to global brands joining the viral wave.
 
@@ -75,9 +75,9 @@ The reason this meme is viral is its versatility. Here are some ideas:
 Believe it or not, understanding viral trends like the "Bachcha Hai Tu Mera" meme is a crucial skill in **Digital Marketing**. Brands are constantly looking for social media managers who can capitalize on these trends to increase reach organically.
 
 If you are interested in making a career out of viral content and marketing, check out our roadmaps:
-*   [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29)
-*   [How Youtubers are Monetizing Viral Content via Branded Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-*   [Career Roadmaps 2026: From Meme Maker to Marketing Head](/blog/career-roadmaps-2027-29)
+*   [How to Start Digital Marketing from Scratch in 2026](/blog/how-to-start-digital-marketing-from-scratch-2027-29/)
+*   [How Youtubers are Monetizing Viral Content via Branded Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [Career Roadmaps 2026: From Meme Maker to Marketing Head](/blog/career-roadmaps-2027-29/)
 
 ### **The "Student Version" of the Meme**
 In the world of admissions, we see this meme everywhere:
@@ -88,7 +88,7 @@ In the world of admissions, we see this meme everywhere:
 **Want to Build a Career in Social Media?**
 The digital space is changing fast. Whether it’s AI meme creation or advanced SEO, knowing the "pulse" of the internet is the key to high-paying roles.
 
-[👉 Connect with our Digital Career Counselors!](/inquiry)
+[👉 Connect with our Digital Career Counselors!](/inquiry/)
 
 ---
 
@@ -110,6 +110,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

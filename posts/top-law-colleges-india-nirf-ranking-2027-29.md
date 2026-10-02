@@ -117,16 +117,16 @@ CLAT is usually held on the **first Sunday of December** (e.g., Dec 2025 for the
 ---
 
 ### Useful Links:
-- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
-- [BA LLB vs BBA LLB — Career & Salary Guide](/blog)
-- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026/)
+- [BA LLB vs BBA LLB — Career & Salary Guide](/blog/)
+- [Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 
 **Ready to start your Law Journey?**
 India's legal education is highly competitive. Choosing the wrong NLU tier can cost you a high-paying corporate career. Mohit Jain provides a "Law Career Mapping Session"—helping you pick the college that matches your personality, whether it's for the Supreme Court or a Corporate Boardroom.
 
-[👉 Book My Law Admission Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Law Admission Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -134,6 +134,6 @@ India's legal education is highly competitive. Choosing the wrong NLU tier can c
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

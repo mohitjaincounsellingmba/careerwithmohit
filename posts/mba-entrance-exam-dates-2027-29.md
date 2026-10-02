@@ -81,7 +81,7 @@ Preparing for an MBA? Knowing the exact dates of the major entrance exams is the
 - **Why it matters:** Used by 115+ B‑schools across India.
 
 ### 2. XAT 2026
-- **Conducted by:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur).
+- **Conducted by:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur/).
 - **Sections:** Verbal & Logical Ability, Decision Making, Quantitative Ability, and General Knowledge.
 - **Unique:** Decision‑Making section distinguishes XAT from other exams.
 
@@ -120,9 +120,9 @@ Preparing for an MBA? Knowing the exact dates of the major entrance exams is the
 ---
 
 ## Internal Links (SEO Boost)
-- Learn how to **[Create a Winning CAT Preparation Strategy (2026)](/blog/cat-2026-preparation-strategy-syllabus-dates)**.
-- Compare **[XAT vs CAT: Which Is Right for You?](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29)**.
-- Get tips for **[SNAP Exam Success (2026)](/blog/1-year-online-mba-colleges-india-2027-29)**.
+- Learn how to **[Create a Winning CAT Preparation Strategy (2026)](/blog/cat-2026-preparation-strategy-syllabus-dates/)**.
+- Compare **[XAT vs CAT: Which Is Right for You?](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)**.
+- Get tips for **[SNAP Exam Success (2026)](/blog/1-year-online-mba-colleges-india-2027-29/)**.
 
 ---
 
@@ -138,7 +138,7 @@ Ready to ace your MBA entrance exams? **Subscribe** to our newsletter for weekly
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -153,6 +153,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -49,7 +49,7 @@ category: Medical/MBBS
 > - **Licensing & Career Opportunities**: Preparation pathways for NEXT/FMGE and international residency or practice licenses.
 
 
-Planning your medical career and targeting **[Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sharda Medical College Greater Noida offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
+Planning your medical career and targeting **[Sharda University](/colleges/sharda-greater-noida/) (School of Medical Sciences & Research - SMSR), Greater Noida** for **MBBS admission in 2026**? As one of India's premier private/deemed medical institutions, Sharda Medical College Greater Noida offers exceptional clinical training, modern healthcare facilities, and high patient footfall.
 
 This comprehensive guide details everything you need to know about **MBBS admission 2026 at Sharda Medical College Greater Noida**, including the step-by-step application process, seat matrix, detailed fee breakup, expected NEET-UG 2026 cutoff scores, hospital facilities, and career prospects.
 
@@ -59,10 +59,10 @@ This comprehensive guide details everything you need to know about **MBBS admiss
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institute Name** | [Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida |
+| **Institute Name** | [Sharda University](/colleges/sharda-greater-noida/) (School of Medical Sciences & Research - SMSR), Greater Noida |
 | **Location** | Knowledge Park III, Greater Noida, Delhi NCR |
 | **Institute Type** | Private University Medical College |
-| **Affiliation / Body** | [Sharda University](/colleges/sharda-greater-noida) / UPDGME |
+| **Affiliation / Body** | [Sharda University](/colleges/sharda-greater-noida/) / UPDGME |
 | **Total MBBS Seats** | 150 Seats |
 | **Hospital Bed Capacity** | 1,200+ Beds (Sharda Hospital) |
 | **Counselling Authority** | Directorate of Medical Education and Training (UPDGME - upneet.gov.in) |
@@ -114,7 +114,7 @@ Admission to Sharda Medical College Greater Noida is strictly merit-based, deter
 | **Minority / Management Quota** | NRI / Management Seats: Score 200+ |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-abbs-school-of-management) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/all-about-abbs-school-of-management/) for rank prediction strategies.
 
 ---
 
@@ -131,7 +131,7 @@ Depending on the institute type:
 - If **State Private College**: Register on the official State Counselling portal (**Directorate of Medical Education and Training (UPDGME - upneet.gov.in)**).
 
 ### Step 3: Choice Filling & Locking
-During choice filling rounds, select **[Sharda University](/colleges/sharda-greater-noida) (School of Medical Sciences & Research - SMSR), Greater Noida** as your top preference. Ensure your choices are locked before the deadline.
+During choice filling rounds, select **[Sharda University](/colleges/sharda-greater-noida/) (School of Medical Sciences & Research - SMSR), Greater Noida** as your top preference. Ensure your choices are locked before the deadline.
 
 ### Step 4: Seat Allotment Result
 Counselling authorities release seat allotment results based on NEET rank, category, reservation rules, and preference choices.
@@ -147,7 +147,7 @@ Upon allotment:
 ## Eligibility Criteria for MBBS 2026
 
 1. **Age Requirement:** Must be at least 17 years old on or before 31st December 2026.
-2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam)).
+2. **Academic Qualification:** Passed 10+2 or equivalent exam with Physics, Chemistry, Biology/Biotechnology, and English from a recognized board (Refer to [All India State Boards Directory](/blog/all-about-neet-exam/)).
 3. **Minimum Marks:**
    - General Category: Minimum 50% aggregate in Physics, Chemistry, and Biology.
    - SC/ST/OBC: Minimum 40% aggregate.
@@ -168,17 +168,17 @@ Clinical exposure is the cornerstone of modern medical education. Sharda Medical
 
 ## Frequently Asked Questions (FAQs)
 
-### Q1: Can non-UP students apply for [Sharda University](/colleges/sharda-greater-noida) MBBS?
+### Q1: Can non-UP students apply for [Sharda University](/colleges/sharda-greater-noida/) MBBS?
 Yes! Uttar Pradesh private medical college seats are 100% open to students from all states across India through UP NEET Counselling.
 
-### Q2: What is the total fee for MBBS in [Sharda University](/colleges/sharda-greater-noida)?
+### Q2: What is the total fee for MBBS in [Sharda University](/colleges/sharda-greater-noida/)?
 The total fee package is around ₹15.5 Lakhs to ₹16.5 Lakhs per year including hostel, security, and tuition fees.
 
 ### Q3: What is the NEET cutoff for Sharda Medical College Greater Noida?
 The expected NEET score cutoff is 520 to 555 (Rank 70,000 to 1,00,000).
 
 
-[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry)
+[👉 Need guidance for NEET 2026 counselling and choice filling? Connect with Mohit Jain for expert admission counselling!](/inquiry/)
 
 ---
 
@@ -187,6 +187,6 @@ Source: Official College Prospectus & Medical Counselling Guidelines
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

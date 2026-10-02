@@ -76,13 +76,13 @@ state: Delhi NCR
 # Top MBA Colleges Accepting CAT Cut Off 80 to 85 Percentile (2026–2027): Fees, Placements, Cutoffs & ROI Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **The Sweet-Spot B-Schools**: Scoring between 80 and 85 percentile in [CAT Exam](/blog/all-about-cat-exam) unlocks premier Tier-1.5 and Tier-2 institutions including **TAPMI Manipal, FORE School (Delhi), GIM Goa, LBSIM (Delhi), Great Lakes, and NIBM Pune**.
+> - **The Sweet-Spot B-Schools**: Scoring between 80 and 85 percentile in [CAT Exam](/blog/all-about-cat-exam/) unlocks premier Tier-1.5 and Tier-2 institutions including **TAPMI Manipal, FORE School (Delhi), GIM Goa, LBSIM (Delhi), Great Lakes, and NIBM Pune**.
 > - **Competitive Salary Benchmarks**: These institutions boast verified average placement packages between **₹11.5 LPA and ₹16.2 LPA**, with top 25% cohorts earning upwards of **₹18 LPA to ₹25 LPA** across consulting, fintech, and FMCG roles.
 > - **Balanced Financial ROI**: With academic fees ranging from ₹11.5 Lakhs to ₹20 Lakhs, aspirants enjoy a realistic payback horizon of 1.2 to 1.8 years without the high-risk stress of sub-99% IIM calls.
 
 ---
 
-Scoring between **80 and 85 percentile in the Common Admission Test (CAT)** is often called the *strategic sweet spot* of Indian management education. While aspirants scoring above 98 percentile scramble for the fiercely competitive seats at [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [FMS Delhi](/colleges/fms-delhi), or [SPJIMR Mumbai](/colleges/spjimr-mumbai), candidates in the 80–85 percentile window have access to a prestigious cluster of autonomous PGDM institutions, university departments, and IIT business schools.
+Scoring between **80 and 85 percentile in the Common Admission Test (CAT)** is often called the *strategic sweet spot* of Indian management education. While aspirants scoring above 98 percentile scramble for the fiercely competitive seats at [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [FMS Delhi](/colleges/fms-delhi/), or [SPJIMR Mumbai](/colleges/spjimr-mumbai/), candidates in the 80–85 percentile window have access to a prestigious cluster of autonomous PGDM institutions, university departments, and IIT business schools.
 
 These colleges offer **AACSB and AMBA accredited global curriculums**, robust alumni networks spanning 25 to 40 years, and blue-chip corporate placement rosters rivaling new and baby IIMs. 
 
@@ -96,19 +96,19 @@ Before diving into individual campus profiles, evaluate this head-to-head compar
 
 | College Name | Total Fees (2-Year MBA/PGDM) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[TAPMI Manipal](/blog/all-about-tapmi)** | ₹17.34 Lakhs – ₹18.50 Lakhs | ₹13.84 LPA *(Top 10%: ₹20.5 LPA)* | **High Global ROI**: AACSB & AMBA Accredited; CAT/XAT (80–85%ile), NMAT (220+); Flagship BKFS & Core |
-| **[FORE School of Management, New Delhi](/colleges/fore-school-delhi)** | ₹18.27 Lakhs | ₹16.01 LPA *(Highest: ₹30.0 LPA)* | **Elite Corporate ROI**: Prime South Delhi location; CAT/XAT (83–85%ile); Top consulting & BFSI recruiter roster |
-| **[Goa Institute of Management (GIM Goa)](/colleges/gim-goa)** | ₹19.50 Lakhs – ₹20.50 Lakhs | ₹14.87 LPA *(Highest: ₹55.0 LPA)* | **Prestigious Campus ROI**: AACSB & AMBA; CAT/XAT (85%ile Core, 80–82%ile BDA/BIFS); Strong tech & data placement |
-| **[LBSIM New Delhi](/blog/all-about-lbsim-delhi)** | ₹15.75 Lakhs – ₹16.50 Lakhs | ₹12.24 LPA *(Highest: ₹24.7 LPA)* | **High Value ROI**: Dwarka Delhi NCR hub; CAT/XAT (82–85%ile); Legendary reputation in Treasury, Equity & Finance |
-| **[Great Lakes Institute of Management (Chennai / Gurgaon)](/blog/all-about-great-lakes-campuses)** | ₹17.25 Lakhs – ₹20.75 Lakhs | ₹15.10 LPA *(PGDM Chennai)* / ₹12.50 LPA *(Gurgaon)* | **High Analytics ROI**: AMBA accredited; CAT/XAT (80–85%ile), CMAT (95%+); Pioneer in AI & Data-driven management |
-| **[IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management))](/blog/all-about-irma-anand)** | ₹16.80 Lakhs – ₹17.80 Lakhs | ₹14.14 LPA *(Highest: ₹31.16 LPA)* | **Social & Agribusiness ROI**: Verghese Kurien legacy; CAT/XAT (80–83%ile); FMCG, Banking & Rural Supply Chain leaders |
-| **[NIBM Pune (National Institute of Bank Management)](/blog/direct-admission-nibm-pune-banking-finance-2027-29)** | ₹16.00 Lakhs | ₹14.16 LPA *(Highest: ₹23.5 LPA)* | **Unrivaled BFSI ROI**: Established by Reserve Bank of India (RBI); CAT/XAT (80–82%ile); 100% core banking & fin placement |
-| **[K.J. Somaiya Institute of Management, Mumbai](/blog/all-about-abbs-school-of-management)** | ₹20.80 Lakhs | ₹12.50 LPA *(Highest: ₹28.25 LPA)* | **Financial Capital ROI**: Prime Mumbai connectivity; CAT/XAT (83–85%ile), NMAT (222+); Extensive alumni base |
-| **[DoMS IIT ISM Dhanbad](/blog/all-about-iit-colleges-review)** | ₹8.50 Lakhs – ₹9.00 Lakhs | ₹13.00 LPA *(Highest: ₹24.0 LPA)* | **Exceptional Public ROI**: IIT brand; Minimal tuition fees; CAT (80–85%ile); Fast payback period (< 9 months) |
-| **[BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida)** | ₹14.00 Lakhs – ₹15.00 Lakhs | ₹11.25 LPA *(Highest: ₹24.4 LPA)* | **High Industry ROI**: AACSB Accredited; Birla Group heritage; CAT/XAT (75–80%ile for Retail/Insurance, 80%+ for Core) |
-| **[BITS Pilani (Dept of Management - MBA BA)](/blog/all-about-bits-pilani-campuses)** | ₹11.50 Lakhs | ₹15.80 LPA *(Highest: ₹27.0 LPA)* | **High Tech ROI**: [BITS Pilani](/colleges/bits-pilani) engineering network; CAT/XAT/GMAT (80%+); High-demand Business Analytics focus |
-| **[WeSchool / Welingkar Mumbai & Bengaluru](/blog/all-about-welingkar)** | ₹14.50 Lakhs – ₹15.00 Lakhs | ₹12.50 LPA *(Highest: ₹25.4 LPA)* | **Design & Innovation ROI**: CAT/XAT (80–85%ile), CMAT/ATMA; Flagship E-Biz, Healthcare & Business Design |
-| **[LIBA Chennai (Loyola Institute)](/colleges/liba-chennai)** | ₹15.50 Lakhs – ₹16.80 Lakhs | ₹11.20 LPA *(Highest: ₹20.5 LPA)* | **Jesuit Pedigree ROI**: Loyola campus environment; CAT/XAT (80–82%ile); Strict ethics, finance & operations focus |
+| **[TAPMI Manipal](/blog/all-about-tapmi/)** | ₹17.34 Lakhs – ₹18.50 Lakhs | ₹13.84 LPA *(Top 10%: ₹20.5 LPA)* | **High Global ROI**: AACSB & AMBA Accredited; CAT/XAT (80–85%ile), NMAT (220+); Flagship BKFS & Core |
+| **[FORE School of Management, New Delhi](/colleges/fore-school-delhi/)** | ₹18.27 Lakhs | ₹16.01 LPA *(Highest: ₹30.0 LPA)* | **Elite Corporate ROI**: Prime South Delhi location; CAT/XAT (83–85%ile); Top consulting & BFSI recruiter roster |
+| **[Goa Institute of Management (GIM Goa)](/colleges/gim-goa/)** | ₹19.50 Lakhs – ₹20.50 Lakhs | ₹14.87 LPA *(Highest: ₹55.0 LPA)* | **Prestigious Campus ROI**: AACSB & AMBA; CAT/XAT (85%ile Core, 80–82%ile BDA/BIFS); Strong tech & data placement |
+| **[LBSIM New Delhi](/blog/all-about-lbsim-delhi/)** | ₹15.75 Lakhs – ₹16.50 Lakhs | ₹12.24 LPA *(Highest: ₹24.7 LPA)* | **High Value ROI**: Dwarka Delhi NCR hub; CAT/XAT (82–85%ile); Legendary reputation in Treasury, Equity & Finance |
+| **[Great Lakes Institute of Management (Chennai / Gurgaon)](/blog/all-about-great-lakes-campuses/)** | ₹17.25 Lakhs – ₹20.75 Lakhs | ₹15.10 LPA *(PGDM Chennai)* / ₹12.50 LPA *(Gurgaon)* | **High Analytics ROI**: AMBA accredited; CAT/XAT (80–85%ile), CMAT (95%+); Pioneer in AI & Data-driven management |
+| **[IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management/))](/blog/all-about-irma-anand)** | ₹16.80 Lakhs – ₹17.80 Lakhs | ₹14.14 LPA *(Highest: ₹31.16 LPA)* | **Social & Agribusiness ROI**: Verghese Kurien legacy; CAT/XAT (80–83%ile); FMCG, Banking & Rural Supply Chain leaders |
+| **[NIBM Pune (National Institute of Bank Management)](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** | ₹16.00 Lakhs | ₹14.16 LPA *(Highest: ₹23.5 LPA)* | **Unrivaled BFSI ROI**: Established by Reserve Bank of India (RBI); CAT/XAT (80–82%ile); 100% core banking & fin placement |
+| **[K.J. Somaiya Institute of Management, Mumbai](/blog/all-about-abbs-school-of-management/)** | ₹20.80 Lakhs | ₹12.50 LPA *(Highest: ₹28.25 LPA)* | **Financial Capital ROI**: Prime Mumbai connectivity; CAT/XAT (83–85%ile), NMAT (222+); Extensive alumni base |
+| **[DoMS IIT ISM Dhanbad](/blog/all-about-iit-colleges-review/)** | ₹8.50 Lakhs – ₹9.00 Lakhs | ₹13.00 LPA *(Highest: ₹24.0 LPA)* | **Exceptional Public ROI**: IIT brand; Minimal tuition fees; CAT (80–85%ile); Fast payback period (< 9 months) |
+| **[BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/)** | ₹14.00 Lakhs – ₹15.00 Lakhs | ₹11.25 LPA *(Highest: ₹24.4 LPA)* | **High Industry ROI**: AACSB Accredited; Birla Group heritage; CAT/XAT (75–80%ile for Retail/Insurance, 80%+ for Core) |
+| **[BITS Pilani (Dept of Management - MBA BA)](/blog/all-about-bits-pilani-campuses/)** | ₹11.50 Lakhs | ₹15.80 LPA *(Highest: ₹27.0 LPA)* | **High Tech ROI**: [BITS Pilani](/colleges/bits-pilani/) engineering network; CAT/XAT/GMAT (80%+); High-demand Business Analytics focus |
+| **[WeSchool / Welingkar Mumbai & Bengaluru](/blog/all-about-welingkar/)** | ₹14.50 Lakhs – ₹15.00 Lakhs | ₹12.50 LPA *(Highest: ₹25.4 LPA)* | **Design & Innovation ROI**: CAT/XAT (80–85%ile), CMAT/ATMA; Flagship E-Biz, Healthcare & Business Design |
+| **[LIBA Chennai (Loyola Institute)](/colleges/liba-chennai/)** | ₹15.50 Lakhs – ₹16.80 Lakhs | ₹11.20 LPA *(Highest: ₹20.5 LPA)* | **Jesuit Pedigree ROI**: Loyola campus environment; CAT/XAT (80–82%ile); Strict ethics, finance & operations focus |
 
 ---
 
@@ -124,7 +124,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Average CTC ~₹13.84 LPA | Top 10% Batch Average ~₹20.50 LPA
 * **Campus USP:** TAPMI holds the prestigious dual **AACSB and AMBA** accreditations. Its state-of-the-art **Bloomberg Finance Lab** (housing 16 Bloomberg terminals) makes it one of the premier destinations for aspiring equity analysts, wealth managers, and risk analysts.
 
-### 2. [FORE School of Management](/colleges/fore-school-delhi), New Delhi
+### 2. [FORE School of Management](/colleges/fore-school-delhi/), New Delhi
 * **Location:** Qutub Institutional Area, New Delhi
 * **Flagship Programs:** PGDM, PGDM (International Business), PGDM (Financial Management), PGDM (Big Data Analytics)
 * **Expected CAT Cutoff:** 83 – 85 Percentile
@@ -132,7 +132,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Average CTC ~₹16.01 LPA | Highest Domestic CTC ~₹30.00 LPA
 * **Campus USP:** Situated in the heart of South Delhi’s diplomatic and institutional corridor, FORE enjoys daily access to corporate leaders and consulting powerhouses. Top recruiters include Deloitte USI, EY, KPMG, McKinsey Knowledge, Gartner, and HDFC Bank.
 
-### 3. [Goa Institute of Management (GIM Goa)](/colleges/gim-goa)
+### 3. [Goa Institute of Management (GIM Goa)](/colleges/gim-goa/)
 * **Location:** Sanquelim, Goa
 * **Flagship Programs:** PGDM Core, PGDM (Big Data Analytics - BDA), PGDM (Banking, Insurance & Financial Services - BIFS), PGDM (Healthcare Management - HCM)
 * **Expected CAT Cutoff:** 85 Percentile (Core PGDM); 80 – 82 Percentile (BDA, BIFS, HCM via profile route)
@@ -156,7 +156,7 @@ Selecting the right B-school in the 80–85 percentile range requires analyzing 
 * **Placement Metrics:** Chennai PGDM Average ~₹15.10 LPA | Gurgaon PGDM Average ~₹11.60 – ₹12.50 LPA
 * **Campus USP:** Guided by academic visionary Dr. Bala V. Balachandran’s legacy, Great Lakes blends US-style pedagogy with real-time business intelligence. The institute was among the earliest in India to mandate Data Analytics, Machine Learning, and Cloud Business models across its core curriculum.
 
-### 6. [Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA Anand)
+### 6. [Institute of Rural Management](/colleges/institute-of-rural-management/) Anand (IRMA Anand)
 * **Location:** Anand, Gujarat
 * **Flagship Programs:** PGDM (Rural Management - RM)
 * **Expected CAT Cutoff:** 80 – 83 Percentile
@@ -196,7 +196,7 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
   [ FINANCE & BFSI ] [ MARKETING & FMCG ] [ DATA & TECH ]   [ OPERATIONS & ESG ]
   • NIBM Pune        • FORE School Delhi  • Great Lakes     • IRMA Anand
   • LBSIM New Delhi  • TAPMI Manipal      • GIM (BDA)       • BIMTECH Greater Noida
-  • TAPMI (BKFS)     • WeSchool Mumbai    • [BITS Pilani](/colleges/bits-pilani)     • IIT ISM Dhanbad
+  • TAPMI (BKFS)     • WeSchool Mumbai    • [BITS Pilani](/colleges/bits-pilani/)     • IIT ISM Dhanbad
 ```
 
 ### Best for Finance, Investment & Banking
@@ -205,14 +205,14 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
 3. **TAPMI (BKFS):** Complete Bloomberg integration and curriculum mapped to CFA Institute standards.
 
 ### Best for Marketing, Brand Management & Sales
-1. **[FORE School of Management](/colleges/fore-school-delhi):** Unrivaled exposure to corporate head offices located across Gurgaon and Delhi-NCR.
+1. **[FORE School of Management](/colleges/fore-school-delhi/):** Unrivaled exposure to corporate head offices located across Gurgaon and Delhi-NCR.
 2. **TAPMI Manipal:** Strong FMCG and consumer durable placement heritage with brands like HUL, Nestlé, ITC, and Titan.
 3. **Welingkar (WeSchool) Mumbai:** Located in India's advertising and media capital with dedicated tracks in Retail and Media & Entertainment.
 
 ### Best for Business Analytics, AI & Digital Transformation
 1. **Great Lakes (Chennai):** Integrated analytical labs, predictive analytics modeling, and high tech consulting hiring.
 2. **Goa Institute of Management (GIM BDA):** Specialized big-data architecture program boasting independent placement drives with Fortune 500 tech firms.
-3. **[BITS Pilani](/colleges/bits-pilani) (MBA in Business Analytics):** Blends world-renowned engineering faculty with advanced enterprise decision science.
+3. **[BITS Pilani](/colleges/bits-pilani/) (MBA in Business Analytics):** Blends world-renowned engineering faculty with advanced enterprise decision science.
 
 ---
 
@@ -238,7 +238,7 @@ Most premier B-Schools in this band utilize a holistic evaluation formula:
 ## Step-by-Step Strategic Roadmap: How Aspirants Should Plan Applications
 
 1. **Do Not Wait for the CAT Scorecard:** Application deadlines for institutes like FORE, Great Lakes, GIM, and TAPMI frequently close in **December or early January**, prior to or immediately following the CAT result declaration. Applying early safeguards your candidacy across Phase 1 interview slots.
-2. **Diversify Your Entrance Portfolio:** Many of these institutions accept alternative exam scores. If your CAT exam day suffered from bad luck in one section, you can submit your [XAT Exam](/blog/all-about-xat-exam), [NMAT Exam](/blog/all-about-nmat-exam), or [CMAT Exam](/blog/all-about-cmat-exam) scores to TAPMI, GIM, Great Lakes, or K.J. Somaiya without submitting separate application fees.
+2. **Diversify Your Entrance Portfolio:** Many of these institutions accept alternative exam scores. If your CAT exam day suffered from bad luck in one section, you can submit your [XAT Exam](/blog/all-about-xat-exam/), [NMAT Exam](/blog/all-about-nmat-exam/), or [CMAT Exam](/blog/all-about-cmat-exam/) scores to TAPMI, GIM, Great Lakes, or K.J. Somaiya without submitting separate application fees.
 3. **Prepare for High-Stakes GD-PI-WAT:** In the 80–85 percentile range, hundreds of candidates share nearly identical entrance marks. Your performance in the Personal Interview and Written Ability Test (WAT) accounts for over one-third of the total merit weightage and acts as the ultimate differentiator.
 4. **Compare Real In-Hand CTC vs Quoted Averages:** When reviewing placement reports, scrutinize the median package, fixed base pay versus variable bonuses, and the number of students placed versus the total batch size to avoid inflated figures.
 
@@ -252,30 +252,30 @@ DoMS IIT ISM Dhanbad offers the lowest fees in this tier, charging approximately
 ### Is an 80 percentile in CAT enough for non-engineers to get into top B-schools?
 Yes. Many institutes like TAPMI, FORE, LBSIM, and GIM provide 3% to 5% academic diversity weightage to non-engineers (graduates from Commerce, Humanities, Science, and Law). A non-engineer with an 81–83 percentile and consistent 80%+ marks in Class 10 and 12 stands a very strong chance of converting their interview call.
 
-### How does [FORE School of Management](/colleges/fore-school-delhi) compare with TAPMI Manipal?
+### How does [FORE School of Management](/colleges/fore-school-delhi/) compare with TAPMI Manipal?
 Both are prestigious institutions with similar CAT cutoffs (82–85 percentile). FORE School of Management holds a distinct advantage in consulting, corporate proximity, and Delhi-NCR industry engagement, with an average CTC of ~₹16.01 LPA. TAPMI Manipal offers global AACSB & AMBA accreditations, an immersive residential campus culture, and industry-leading specialized programs in Banking & Finance (BKFS) and HRM.
 
 ### Can I get an IIM call with an 80 to 85 percentile in CAT?
-For General Category candidates, receiving an interview call from older IIMs (BLACKI) or CAP (New IIMs) at 80–85 percentile is virtually impossible unless you possess extraordinary diversity credits (e.g., medical or design graduates with 95%+ throughout school). However, candidates belonging to NC-OBC, SC, ST, and PwD categories frequently receive calls from Baby IIMs (such as [IIM Bodh Gaya](/colleges/iim-bodh-gaya), [IIM Sirmaur](/colleges/iim-sirmaur), and [IIM Jammu](/colleges/iim-jammu)) within the 80 to 85 percentile range.
+For General Category candidates, receiving an interview call from older IIMs (BLACKI) or CAP (New IIMs) at 80–85 percentile is virtually impossible unless you possess extraordinary diversity credits (e.g., medical or design graduates with 95%+ throughout school). However, candidates belonging to NC-OBC, SC, ST, and PwD categories frequently receive calls from Baby IIMs (such as [IIM Bodh Gaya](/colleges/iim-bodh-gaya/), [IIM Sirmaur](/colleges/iim-sirmaur/), and [IIM Jammu](/colleges/iim-jammu/)) within the 80 to 85 percentile range.
 
 ---
 
 ## Related MBA Admission & Cutoff Guides
 
 Expand your research with our comprehensive MBA entrance and college guides:
-- **[Comprehensive Guide to CAT Exam Pattern, Syllabus & Dates](/blog/all-about-cat-exam)**
-- **[All IIM Cut Off 2027–2029: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)**
-- **[All About TAPMI Manipal: Fees, Placements & Admission Process](/blog/all-about-tapmi)**
-- **[All About FORE School of Management Delhi: Comprehensive Review](/colleges/fore-school-delhi)**
-- **[All About LBSIM Delhi: Fees, Placement & Specializations](/blog/all-about-lbsim-delhi)**
-- **[Great Lakes Institute of Management Campuses: Chennai vs Gurgaon](/blog/all-about-great-lakes-campuses)**
-- **[BIMTECH Greater Noida Review: Cutoffs, Fees & ROI](/blog/all-about-bimtech-greater-noida)**
-- **[Welingkar (WeSchool) Mumbai & Bangalore: Programs & Cutoffs](/blog/all-about-welingkar)**
+- **[Comprehensive Guide to CAT Exam Pattern, Syllabus & Dates](/blog/all-about-cat-exam/)**
+- **[All IIM Cut Off 2027–2029: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
+- **[All About TAPMI Manipal: Fees, Placements & Admission Process](/blog/all-about-tapmi/)**
+- **[All About FORE School of Management Delhi: Comprehensive Review](/colleges/fore-school-delhi/)**
+- **[All About LBSIM Delhi: Fees, Placement & Specializations](/blog/all-about-lbsim-delhi/)**
+- **[Great Lakes Institute of Management Campuses: Chennai vs Gurgaon](/blog/all-about-great-lakes-campuses/)**
+- **[BIMTECH Greater Noida Review: Cutoffs, Fees & ROI](/blog/all-about-bimtech-greater-noida/)**
+- **[Welingkar (WeSchool) Mumbai & Bangalore: Programs & Cutoffs](/blog/all-about-welingkar/)**
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

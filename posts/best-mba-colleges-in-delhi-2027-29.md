@@ -3,13 +3,13 @@ title: 'Best MBA Colleges in Delhi 2027–29: Fees, Placements & ROI Ranking'
 date: '2026-03-17'
 description: >-
   Explore the best MBA colleges in Delhi NCR 2027–29. Compare [FMS
-  Delhi](/colleges/fms-delhi), IIT Delhi, [MDI Gurgaon](/colleges/mdi-gurgaon),
+  Delhi](/colleges/fms-delhi/), IIT Delhi, [MDI Gurgaon](/colleges/mdi-gurgaon/),
   and IMI by their latest average placements, fees, and ROI.
 keywords:
   - best MBA colleges in Delhi 2027–29
   - top MBA colleges in Delhi NCR
-  - '[FMS Delhi](/colleges/fms-delhi) fees'
-  - '[MDI Gurgaon](/colleges/mdi-gurgaon) placements'
+  - '[FMS Delhi](/colleges/fms-delhi/) fees'
+  - '[MDI Gurgaon](/colleges/mdi-gurgaon/) placements'
   - MBA colleges in Delhi low fees
   - IIT Delhi MBA cutoff
   - Noida Colleges
@@ -27,19 +27,19 @@ keywords:
 faqs:
   - question: Which MBA college in Delhi has the best placements?
     answer: >-
-      **[FMS Delhi](/colleges/fms-delhi)** and **[MDI
-      Gurgaon](/colleges/mdi-gurgaon)** consistently offer the best placements,
+      **[FMS Delhi](/colleges/fms-delhi/)** and **[MDI
+      Gurgaon](/colleges/mdi-gurgaon/)** consistently offer the best placements,
       with average packages exceeding ₹27-30 LPA.
-  - question: 'Can I get into [FMS Delhi](/colleges/fms-delhi) with a low CAT score?'
+  - question: 'Can I get into [FMS Delhi](/colleges/fms-delhi/) with a low CAT score?'
     answer: >-
-      No, [FMS Delhi](/colleges/fms-delhi) is highly competitive and usually
+      No, [FMS Delhi](/colleges/fms-delhi/) is highly competitive and usually
       requires a **99.8+ percentile** in CAT for the general category.
   - question: Are there good MBA colleges in Delhi with fees under 10 Lakhs?
     answer: >-
-      Yes, **[FMS Delhi](/colleges/fms-delhi)** (₹2 Lakhs) and **SRCC GBO**
+      Yes, **[FMS Delhi](/colleges/fms-delhi/)** (₹2 Lakhs) and **SRCC GBO**
       (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
-  - question: 'Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?'
-    answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)"
+  - question: 'Is [MDI Gurgaon](/colleges/mdi-gurgaon/) better than new IIMs?'
+    answer: "Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon/)** is widely considered better than most \"New\" and \"Baby\" IIMs due to its legacy and location advantage.\n\n[\U0001F449 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
@@ -61,21 +61,21 @@ In this guide, we have categorized the **20 Best MBA Colleges in Delhi NCR** int
 ## Tier 1: The Elite & Global Leaders
 These institutions are globally recognized and offer the highest Return on Investment (ROI) or premium corporate paths.
 
-### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies)
 - **Status:** The ROI King of India.
 - **Fees:** ₹2.32 Lakhs (Total)
 - **Average Placement:** ₹30.1 LPA (Highest ₹1.01 Cr)
 - **Entrance Exam:** CAT (99.8+ Percentile)
 - **USP:** Extremely low fees with packages at par with top IIMs.
 
-### 2. [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
+### 2. [MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)
 - **Status:** One of the oldest and most respected private B-schools.
 - **Fees:** ₹25.0 Lakhs
 - **Average Placement:** ₹27.6 LPA
 - **Entrance Exam:** CAT (95+ Percentile)
 - **USP:** Massive 35-acre campus in the heart of the Gurgaon corporate hub.
 
-### 3. [IIFT Delhi](/colleges/iift-delhi) (Indian Institute of Foreign Trade)
+### 3. [IIFT Delhi](/colleges/iift-delhi/) (Indian Institute of Foreign Trade)
 - **Status:** The premier institute for International Business.
 - **Fees:** ₹21.8 Lakhs
 - **Average Placement:** ₹26.0 LPA
@@ -89,14 +89,14 @@ These institutions are globally recognized and offer the highest Return on Inves
 - **Entrance Exam:** CAT (98+ Percentile)
 - **USP:** Backed by the IIT Delhi brand; excellent for Engineering-background managers.
 
-### 5. [IIM Rohtak](/colleges/iim-rohtak)
+### 5. [IIM Rohtak](/colleges/iim-rohtak/)
 - **Status:** The representative IIM of the NCR region.
 - **Fees:** ₹20.0 Lakhs
 - **Average Placement:** ₹18.7 LPA
 - **Entrance Exam:** CAT (95+ Percentile)
 - **USP:** 100% placement record and strong focus on diversity and women in leadership.
 
-### 6. [IMI Delhi](/colleges/imi-delhi) (International Management Institute)
+### 6. [IMI Delhi](/colleges/imi-delhi/) (International Management Institute)
 - **Fees:** ₹23.5 Lakhs
 - **Average Placement:** ₹17.9 LPA
 - **Entrance Exam:** CAT, GMAT
@@ -114,13 +114,13 @@ These institutions are globally recognized and offer the highest Return on Inves
 ## Tier 2: Strong Corporate Interface & High Growth
 These colleges are known for their modern curriculum and strong ties with Gurgaon and Noida-based multinationals.
 
-### 8. [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon)
+### 8. [Masters' Union, Gurgaon](/colleges/masters-union-gurgaon/)
 - **Fees:** ₹30.0 Lakhs
 - **Average Placement:** ₹30.7 LPA
 - **Entrance Exam:** CAT, GMAT, GRE, MU-BAAT
 - **USP:** A new-age business school where you learn from CEOs and industry practitioners.
 
-### 9. [FORE School of Management](/colleges/fore-school-delhi), Delhi
+### 9. [FORE School of Management](/colleges/fore-school-delhi/), Delhi
 - **Fees:** ₹20.7 Lakhs
 - **Average Placement:** ₹16.4 LPA
 - **Entrance Exam:** CAT, XAT, GMAT
@@ -155,7 +155,7 @@ These colleges are known for their modern curriculum and strong ties with Gurgao
 ## Tier 3: Value-for-Money & Career Starters
 Ideal for students with moderate entrance scores looking for solid placement starts.
 
-### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi))](/colleges/ndim-delhi)
+### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi/))](/colleges/ndim-delhi)
 - **Fees:** ₹12.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **USP:** Recognized for global industry link; 100% placements for decades.
@@ -163,7 +163,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 ### 15. FOSTIIMA Business School, Delhi
 - **Fees:** ₹10.9 Lakhs
 - **Average Placement:** ₹11.1 LPA
-- **USP:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni; rigorous training and top-tier faculty.
+- **USP:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) alumni; rigorous training and top-tier faculty.
 
 ### 16. JIMS Rohini (Jagannath Int. Management School)
 - **Fees:** ₹9.50 Lakhs
@@ -194,13 +194,13 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 - **Fees:** ₹3.27 Lakhs
 - **Average Placement:** ₹7.50 LPA
 - **Entrance Exam:** IPU CET, CAT, CMAT
-- **USP:** [MERI Janakpuri MBA Review 2027–29](/blog/meri-janakpuri-mba-review-2027-29) - Best ROI college in West Delhi with NAAC A+ grade.
+- **USP:** [MERI Janakpuri MBA Review 2027–29](/blog/meri-janakpuri-mba-review-2027-29/) - Best ROI college in West Delhi with NAAC A+ grade.
 
 ---
 
 ## Conclusion: How to Choose the Right Delhi College?
 
-- **For the best ROI:** **[FMS Delhi](/colleges/fms-delhi) or SRCC GBO** should be your top choices.
+- **For the best ROI:** **[FMS Delhi](/colleges/fms-delhi/) or SRCC GBO** should be your top choices.
 - **For Corporate Gurgaon Roles:** **MDI, Masters' Union, and Great Lakes** are ideal.
 - **For Marketing Enthusiasts:** **IMT Ghaziabad and FORE** are heavily recommended.
 - **For moderate scores (75-85 percentile):** **JIMS, BIMTECH, and NDIM** provide excellent career launches.
@@ -217,24 +217,24 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Which MBA college in Delhi has the best placements?
-**[FMS Delhi](/colleges/fms-delhi)** and **[MDI Gurgaon](/colleges/mdi-gurgaon)** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
+**[FMS Delhi](/colleges/fms-delhi/)** and **[MDI Gurgaon](/colleges/mdi-gurgaon/)** consistently offer the best placements, with average packages exceeding ₹27-30 LPA.
 
-### 2. Can I get into [FMS Delhi](/colleges/fms-delhi) with a low CAT score?
-No, [FMS Delhi](/colleges/fms-delhi) is highly competitive and usually requires a **99.8+ percentile** in CAT for the general category.
+### 2. Can I get into [FMS Delhi](/colleges/fms-delhi/) with a low CAT score?
+No, [FMS Delhi](/colleges/fms-delhi/) is highly competitive and usually requires a **99.8+ percentile** in CAT for the general category.
 
 ### 3. Are there good MBA colleges in Delhi with fees under 10 Lakhs?
-Yes, **[FMS Delhi](/colleges/fms-delhi)** (₹2 Lakhs) and **SRCC GBO** (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
+Yes, **[FMS Delhi](/colleges/fms-delhi/)** (₹2 Lakhs) and **SRCC GBO** (₹3.2 Lakhs) are excellent low-fee, high-ROI options.
 
-### 4. Is [MDI Gurgaon](/colleges/mdi-gurgaon) better than new IIMs?
-Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than most "New" and "Baby" IIMs due to its legacy and location advantage.
+### 4. Is [MDI Gurgaon](/colleges/mdi-gurgaon/) better than new IIMs?
+Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon/)** is widely considered better than most "New" and "Baby" IIMs due to its legacy and location advantage.
 
-[👉 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry)
+[👉 Not sure which Delhi/NCR college fits your score and budget? Get a free profile evaluation from Mohit Jain today!](/inquiry/)
 
 
 
@@ -242,6 +242,6 @@ Yes, **[MDI Gurgaon](/colleges/mdi-gurgaon)** is widely considered better than m
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

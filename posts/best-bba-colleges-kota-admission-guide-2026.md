@@ -118,9 +118,9 @@ If you have missed entrance exam deadlines for national-level universities, Kota
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Best MBA Colleges in Kota 2026](/blog/best-mba-colleges-in-kota-2027-29)
-*   [Top BTech Colleges in Kota 2026](/blog/top-btech-colleges-kota-direct-admission-2026)
-*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota)
+*   [Best MBA Colleges in Kota 2026](/blog/best-mba-colleges-in-kota-2027-29/)
+*   [Top BTech Colleges in Kota 2026](/blog/top-btech-colleges-kota-direct-admission-2026/)
+*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota/)
 
 ---
 
@@ -129,12 +129,12 @@ Confused between **Career Point vs MIMT**? Or wondering if a distance degree fro
 
 Our experts help you find the right fit based on your profile, budget, and career goals.
 
-[👉 Book a Free Consultation](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/9199114400)
+[👉 Book a Free Consultation](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/9199114400)
 
 ---
 
 ### 🚀 Prepare for Management Entrance Exams
-Planning to target top-tier BBA programs across India? **[Access our Free Mock Test Hub](/mock-tests)** to practice for CUET, IPMAT, and more with real-time performance tracking.
+Planning to target top-tier BBA programs across India? **[Access our Free Mock Test Hub](/mock-tests/)** to practice for CUET, IPMAT, and more with real-time performance tracking.
 
 ---
 

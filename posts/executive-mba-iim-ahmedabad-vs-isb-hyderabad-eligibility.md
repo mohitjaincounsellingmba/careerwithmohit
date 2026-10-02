@@ -51,13 +51,13 @@ location: Hyderabad
 state: Telangana
 ---
 
-For experienced working professionals aiming to transition into senior management, strategic consulting, venture capital, or product leadership, India offers two world-renowned 1-year MBA programs: the **Post Graduate Programme in Management for Executives (PGPX) at [IIM Ahmedabad](/colleges/iim-ahmedabad)** and the **Post Graduate Programme in Management (PGP) at the Indian School of Business (ISB Hyderabad & Mohali)**.
+For experienced working professionals aiming to transition into senior management, strategic consulting, venture capital, or product leadership, India offers two world-renowned 1-year MBA programs: the **Post Graduate Programme in Management for Executives (PGPX) at [IIM Ahmedabad](/colleges/iim-ahmedabad/)** and the **Post Graduate Programme in Management (PGP) at the Indian School of Business (ISB Hyderabad & Mohali)**.
 
 Both programs consistently rank in the **Global Top 40 of the Financial Times (FT) Global MBA Rankings**, rivaling premier US and European business schools.
 
 However, significant differences exist regarding **eligibility thresholds, work experience profiles, program costs, and recruitment ecosystems**.
 
-[InquiryCard title="Evaluating [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX or ISB PGP?" description="Get your resume reviewed, GMAT score evaluated, and essay strategy crafted by expert counselor Mohit Jain." cta="Book Executive MBA Counselling" type="counselling"]
+[InquiryCard title="Evaluating [IIM Ahmedabad](/colleges/iim-ahmedabad/) PGPX or ISB PGP?" description="Get your resume reviewed, GMAT score evaluated, and essay strategy crafted by expert counselor Mohit Jain." cta="Book Executive MBA Counselling" type="counselling"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Experience Threshold**: IIMA PGPX mandates **minimum 4 years of work experience** (batch avg ~7.5 years), whereas ISB PGP requires **minimum 2 years of work experience** (batch avg ~4.5 years).
@@ -68,7 +68,7 @@ However, significant differences exist regarding **eligibility thresholds, work 
 
 ## 1. Eligibility Criteria Comparison: Head-to-Head
 
-| Parameter | [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX | ISB Hyderabad & Mohali PGP |
+| Parameter | [IIM Ahmedabad](/colleges/iim-ahmedabad/) PGPX | ISB Hyderabad & Mohali PGP |
 | :--- | :--- | :--- |
 | **Minimum Work Experience** | **4 Years (48 Months)** full-time post-graduation | **2 Years (24 Months)** full-time post-graduation |
 | **Average Batch Experience** | **7.5 to 8.5 Years** | **4.2 to 5.0 Years** |
@@ -98,8 +98,8 @@ However, significant differences exist regarding **eligibility thresholds, work 
 
 | College Name | Total Fees | Avg Package | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad PGPX](/colleges/iim-ahmedabad)** | ₹33.5 – 35.0 Lakhs | ₹34.5 – 36.5 LPA | **Top Senior Leadership ROI**: Min 4 yrs work-ex; GMAT Focus 650+; IIM brand |
-| **[ISB Hyderabad / Mohali PGP](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility)** | ₹41.5 – 44.5 Lakhs | ₹33.5 – 34.8 LPA | **Global Consulting Powerhouse**: Min 2 yrs work-ex; GMAT Focus 665+; MBB hub |
+| **[IIM Ahmedabad PGPX](/colleges/iim-ahmedabad/)** | ₹33.5 – 35.0 Lakhs | ₹34.5 – 36.5 LPA | **Top Senior Leadership ROI**: Min 4 yrs work-ex; GMAT Focus 650+; IIM brand |
+| **[ISB Hyderabad / Mohali PGP](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility/)** | ₹41.5 – 44.5 Lakhs | ₹33.5 – 34.8 LPA | **Global Consulting Powerhouse**: Min 2 yrs work-ex; GMAT Focus 665+; MBB hub |
 
 ---
 
@@ -137,6 +137,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

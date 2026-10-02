@@ -65,23 +65,23 @@ If a PGDM program is accredited by the **NBA (National Board of Accreditation)**
 2. Pursue a PhD in India or abroad.
 
 ### 🏫 Recommended AIU Equivalent Colleges (2027)
-* **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) (NDIM)** - South Delhi - AICTE approved & AIU Equivalent.
-* **[Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB) (FIIB)** - Vasant Vihar, Delhi - NBA Accredited.
-* **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore) (ISBR Bangalore)** - Bangalore - NBA & AIU Equivalent.
+* **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM) (NDIM)** - South Delhi - AICTE approved & AIU Equivalent.
+* **[Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB) (FIIB)** - Vasant Vihar, Delhi - NBA Accredited.
+* **[ISBR Business School](/colleges/isbr-bangalore/) (Bangalore) (ISBR Bangalore)** - Bangalore - NBA & AIU Equivalent.
 
 ---
 
 ### 🚀 Conclusion: Which should you choose?
 Choose **PGDM** if you want an industry-ready syllabus, dynamic specializations (like FinTech or Digital Marketing), and active corporate internships. Choose **MBA** if you prefer a traditional academic degree or a budget-friendly university-affiliated option.
 
-[💬 Schedule a Career Counseling Session with Mohit Jain](/mba-pgdm-admission-2027)
+[💬 Schedule a Career Counseling Session with Mohit Jain](/mba-pgdm-admission-2027/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -94,6 +94,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

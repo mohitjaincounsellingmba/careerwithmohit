@@ -74,7 +74,7 @@ Emphasizes practical industry training and digital business methodologies.
 - **Approx Tuition Fees (2 Years):** ₹7.50 Lakhs
 - **Average Placement Package:** ₹6.80 LPA
 
-### 5. [SSN School of Management](/colleges/ssn-school-of-management)
+### 5. [SSN School of Management](/colleges/ssn-school-of-management/)
 Phenomenal ROI, beautiful campus, and dedicated placement cell for top MNCs.
 - **MAT Cutoff Percentile:** 70+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹6.00 Lakhs
@@ -90,7 +90,7 @@ Phenomenal ROI, beautiful campus, and dedicated placement cell for top MNCs.
 | **LIBA Chennai (Loyola Institute of Business Administration)** | 75+ Percentile | ₹16.00 Lakhs | **₹11.0 LPA** |
 | **SRM Institute of Science and Technology** | 65+ Percentile | ₹8.00 Lakhs | **₹7.20 LPA** |
 | **VIT Business School Chennai** | 65+ Percentile | ₹7.50 Lakhs | **₹6.80 LPA** |
-| **[SSN School of Management](/colleges/ssn-school-of-management)** | 70+ Percentile | ₹6.00 Lakhs | **₹7.20 LPA** |
+| **[SSN School of Management](/colleges/ssn-school-of-management/)** | 70+ Percentile | ₹6.00 Lakhs | **₹7.20 LPA** |
 
 ---
 
@@ -108,14 +108,14 @@ Choosing the right business school is one of the most critical decisions of your
 
 **Confused about which MAT-accepting colleges deliver the best placements?** Or trying to figure out which private university offers the best placement for your chosen specialization? Mohit Jain’s **"MBA Admission Audit"** helps you navigate the cutoffs, select the right entrance exams, and build a customized application strategy to secure admission to your dream college.
 
-[👉 Book My B-School Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My B-School Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -126,6 +126,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

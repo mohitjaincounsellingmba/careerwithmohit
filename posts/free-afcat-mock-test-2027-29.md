@@ -43,7 +43,7 @@ Succeeding in the **AFCAT 2026** entrance exam demands not just subject expertis
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]
 
-To help you measure your standing, we offer a high-fidelity **[Free AFCAT 2026 Mock Test](/tools/mock-test/afcat)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
+To help you measure your standing, we offer a high-fidelity **[Free AFCAT 2026 Mock Test](/tools/mock-test/afcat/)** designed to match the current 2026 exam pattern. Get instant percentiles, deep sectional analysis, and master your time management.
 
 ---
 
@@ -83,4 +83,4 @@ A raw score of 85+ (out of 198) is typically required to secure a 99+ percentile
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.

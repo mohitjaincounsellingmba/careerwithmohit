@@ -73,15 +73,15 @@ If you have already appeared for Session 1, you know your weak areas. Here is ho
 
 ### **Plan Your Engineering Admissions**
 Once the results are out, the next big challenge is choosing the right college based on your percentile. Check out our high-authority guides to help you:
-*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges)
-*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2027-29)
-*   [Top B.Tech Colleges in Pune: Admissions & Cutoffs](/blog/top-btech-colleges-pune)
-*   [Comprehensive Guide to All India Engineering Exams 2026](/blog/all-about-jee-exam)
+*   [JEE Main College Predictor 2026: Find Your Best B.Tech College](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
+*   [How to Crack JEE Advanced 2026: Strategy for Top IITs](/blog/how-to-crack-jee-advanced-2027-29/)
+*   [Top B.Tech Colleges in Pune: Admissions & Cutoffs](/blog/top-btech-colleges-pune/)
+*   [Comprehensive Guide to All India Engineering Exams 2026](/blog/all-about-jee-exam/)
 
 **Confused About Your B.Tech Admission?**
 Whether you get 99 percentile or 80 percentile, there are excellent college options available. Our expert counselors help students find the best-fitting engineering colleges across India based on fees, placements, and location.
 
-[👉 Get Expert Engineering Admission Guidance Today!](/inquiry)
+[👉 Get Expert Engineering Admission Guidance Today!](/inquiry/)
 
 ---
 
@@ -103,6 +103,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

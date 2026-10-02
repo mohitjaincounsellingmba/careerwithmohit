@@ -165,7 +165,7 @@ export default function MatScoreCalculatorPage() {
         <MatScoreCalculator />
           {/* CTA to Blog */}
           <div className="mt-8 text-center">
-            <Link href="/blog/mat-score-calculator-guide" className="inline-flex items-center gap-2 bg-amber-500 text-white px-4 py-2 rounded font-black uppercase hover:bg-amber-600 transition-colors">
+            <Link href="/blog/mat-score-calculator-guide/" className="inline-flex items-center gap-2 bg-amber-500 text-white px-4 py-2 rounded font-black uppercase hover:bg-amber-600 transition-colors">
               Read the Full MAT Score Calculator Guide <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
@@ -348,37 +348,37 @@ export default function MatScoreCalculatorPage() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Link
-              href="/blog/all-about-mat-exam"
+              href="/blog/all-about-mat-exam/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>All About MAT Exam →</span>
             </Link>
             <Link
-              href="/tools/mat-college-predictor"
+              href="/tools/mat-college-predictor/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>MAT College Predictor →</span>
             </Link>
             <Link
-              href="/blog/mat-may-2026-result-date-scorecard-download"
+              href="/blog/mat-may-2026-result-date-scorecard-download/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>MAT Result Date & Download Guide →</span>
             </Link>
             <Link
-              href="/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29"
+              href="/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>MBA Colleges Accepting MAT Score →</span>
             </Link>
             <Link
-              href="/tools/cat-score-calculator"
+              href="/tools/cat-score-calculator/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>CAT Score Calculator →</span>
             </Link>
             <Link
-              href="/services"
+              href="/services/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
               <span>Book MAT Counselling Session →</span>

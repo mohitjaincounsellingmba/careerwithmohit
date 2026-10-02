@@ -100,11 +100,11 @@ No, it is a transparent, merit-linked process conducted through official institu
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29)
-- [MBA Admission Guide 2027–29: Timelines & Strategy](/blog/acca-benefits-with-mba-career-guide-2027-29)
-- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india)
+- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [MBA Admission Guide 2027–29: Timelines & Strategy](/blog/acca-benefits-with-mba-career-guide-2027-29/)
+- [Direct MBA Admission India Master List](/blog/direct-mba-admission-india/)
 
-[👉 Aiming for LBSIM Delhi? Let us help you craft the perfect application!](/inquiry)
+[👉 Aiming for LBSIM Delhi? Let us help you craft the perfect application!](/inquiry/)
 
 
 
@@ -112,6 +112,6 @@ No, it is a transparent, merit-linked process conducted through official institu
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

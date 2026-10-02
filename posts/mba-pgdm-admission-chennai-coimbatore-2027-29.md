@@ -64,10 +64,10 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 | **Great Lakes Inst. of Mgmt** | Chennai | CAT / XAT / CMAT / GMAT | ₹20.75 Lakhs | ₹14.50 LPA |
 | **DoMS IIT Madras** | Chennai | CAT (95+ %ile) | ₹11.00 Lakhs | ₹16.93 LPA |
 | **LIBA (Loyola Inst. of Business)** | Chennai | CAT / XAT (75+ %ile) | ₹17.30 Lakhs | ₹11.60 LPA |
-| **[SSN School of Management](/colleges/ssn-school-of-management)** | Chennai | MAT / CAT / XAT / TANCET | ₹6.50 Lakhs | ₹6.80 LPA |
+| **[SSN School of Management](/colleges/ssn-school-of-management/)** | Chennai | MAT / CAT / XAT / TANCET | ₹6.50 Lakhs | ₹6.80 LPA |
 | **XIME Chennai** | Chennai | CAT / XAT / MAT / CMAT | ₹9.70 Lakhs | ₹9.20 LPA |
 | **PSG Inst. of Mgmt (PSGIM)** | Coimbatore | TANCET / MAT / CAT / CMAT | ₹9.00 Lakhs | ₹7.80 LPA |
-| **[Amrita School of Business](/colleges/amrita-school-of-business)** | Coimbatore | CAT / MAT / CMAT / XAT / KMAT | ₹11.20 Lakhs | ₹7.50 LPA |
+| **[Amrita School of Business](/colleges/amrita-school-of-business/)** | Coimbatore | CAT / MAT / CMAT / XAT / KMAT | ₹11.20 Lakhs | ₹7.50 LPA |
 | **Thiagarajar School of Mgmt (TSM)** | Madurai | CAT / MAT / CMAT / TANCET | ₹8.50 Lakhs | ₹7.35 LPA |
 
 ---
@@ -77,19 +77,19 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 ### 1. Great Lakes Institute of Management, Chennai
 * **Accreditation**: AMBA (UK), SAQS, AICTE, NBA.
 * **Programs**: PGDM (2-Year) & PGPM (1-Year for Work-ex candidates).
-* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses](/blog/all-about-great-lakes-campuses).
+* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses](/blog/all-about-great-lakes-campuses/).
 
 ### 2. LIBA (Loyola Institute of Business Administration), Chennai
 * **Highlights**: Located in Nungambakkam campus, known for ethics-driven management education and strong corporate alignment.
 * **Placements**: Top recruiters include Deloitte, EY, HSBC, JPMorgan Chase, and Amazon.
 
-### 3. [PSG Institute of Management (PSGIM)](/colleges/psg-institute-of-management), Coimbatore
+### 3. [PSG Institute of Management (PSGIM)](/colleges/psg-institute-of-management/), Coimbatore
 * **Highlights**: Over 50 years of excellence in management education in Coimbatore.
 * **Dual Degrees**: Partnerships with University of Toledo (USA) and Northern Illinois University.
 
-### 4. [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management) (TSM), Madurai
+### 4. [Thiagarajar School of Management](/colleges/thiagarajar-school-of-management/) (TSM), Madurai
 * **Highlights**: Autonomous institute located in Madurai, accredited by NBA and AIU.
-* **High ROI**: Fee of ₹8.50 Lakhs delivering an average package of ₹7.35 LPA. Read [All About Thiagarajar School of Management](/blog/all-about-thiagarajar-school-of-management).
+* **High ROI**: Fee of ₹8.50 Lakhs delivering an average package of ₹7.35 LPA. Read [All About Thiagarajar School of Management](/blog/all-about-thiagarajar-school-of-management/).
 
 ---
 
@@ -114,6 +114,6 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

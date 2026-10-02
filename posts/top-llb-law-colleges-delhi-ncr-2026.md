@@ -109,16 +109,16 @@ Vivekananda Institute of Professional Studies is the top choice for students app
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026)
-- [CUET PG 2026 Predictor & Calculator](/calculator/cuet-pg-2026)
-- [Top Private MA Colleges in Delhi NCR 2026](/blog/top-private-ma-colleges-delhi-ncr-2027-29)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [CUET PG 2026 Predictor & Calculator](/calculator/cuet-pg-2026/)
+- [Top Private MA Colleges in Delhi NCR 2026](/blog/top-private-ma-colleges-delhi-ncr-2027-29/)
 
 ---
 
 ## 📞 Get Expert Legal Career Guidance
 Confused between Litigation vs. Corporate Law? Or trying to decide between a local NCR college vs. an NLU? Our legal mentors can help you map your future.
 
-[👉 Get Free Law Counselling](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
+[👉 Get Free Law Counselling](/inquiry/) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry/)
 
 ---
 
@@ -140,6 +140,6 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -1037,7 +1037,7 @@ export default function StarterKitPlacementTable() {
           <p className="text-xs text-slate-300 mt-1">Explore detailed reviews, cutoffs, ROI stats, campus galleries, and fee structures.</p>
         </div>
         <a
-          href="/colleges"
+          href="/colleges/"
           className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 hover:bg-indigo-600 text-white rounded-xl font-bold text-xs uppercase tracking-wider transition-all whitespace-nowrap shadow-md"
         >
           Explore All Colleges <ArrowRight className="w-4 h-4" />

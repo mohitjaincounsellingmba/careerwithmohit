@@ -50,11 +50,11 @@ state: Gujarat
 # Top MBA Colleges in Ahmedabad 2027: Fees, Cutoff & Placements ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **The Entrepreneurship & Marketing Capital**: Ahmedabad is home to India’s undisputed #1 business school (**[IIM Ahmedabad](/colleges/iim-ahmedabad)**), Asia’s premier strategic marketing institute (**MICA**), and the rapid expansion of **GIFT City** (India’s first operational smart city and international financial services centre).
-> - **Top-Ranked B-Schools**: **[IIM Ahmedabad](/colleges/iim-ahmedabad)**, **MICA Ahmedabad**, **[Nirma University](/colleges/nirma-institute-of-management) (IMNU)**, **EDII Ahmedabad**, and **SPM PDEU Gandhinagar**.
+> - **The Entrepreneurship & Marketing Capital**: Ahmedabad is home to India’s undisputed #1 business school (**[IIM Ahmedabad](/colleges/iim-ahmedabad/)**), Asia’s premier strategic marketing institute (**MICA**), and the rapid expansion of **GIFT City** (India’s first operational smart city and international financial services centre).
+> - **Top-Ranked B-Schools**: **[IIM Ahmedabad](/colleges/iim-ahmedabad/)**, **MICA Ahmedabad**, **[Nirma University](/colleges/nirma-institute-of-management/) (IMNU)**, **EDII Ahmedabad**, and **SPM PDEU Gandhinagar**.
 > - **Fee & Placement Snapshot**: Total tuition fees range from ₹6.5 Lakhs to ₹26.5 Lakhs, with average placement packages spanning ₹8.5 LPA to ₹34.3 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare IIM Ahmedabad, MICA, [Nirma University](/colleges/nirma-institute-of-management), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare IIM Ahmedabad, MICA, [Nirma University](/colleges/nirma-institute-of-management/), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
 
 Ahmedabad, the commercial powerhouse of Gujarat and India's first UNESCO World Heritage City, provides a dynamic business environment steeped in entrepreneurial resilience, family business empires (Adani, Reliance, Torrent, Cadila), and modern financial innovation inside the neighboring **GIFT City** corridor.
 
@@ -66,14 +66,14 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2027-29)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
-| **[MICA Ahmedabad](/blog/all-about-nmims-campuses)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
-| **[Institute of Management, Nirma Univ (IMNU)](/blog/all-about-nmims-campuses)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
-| **[EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |
-| **[SPM - PDEU Gandhinagar](/blog/all-about-symbiosis-mba-institutes)** (MBA Energy/General) | Raysan, Gandhinagar | ₹9.50 Lakhs | ₹9.40 LPA | CAT / XAT / NMAT (75+ %ile) |
-| **[Amrut Mody School of Mgmt (AU)](/blog/all-about-abbs-school-of-management)** (MBA) | Navrangpura | ₹10.00 Lakhs | ₹8.20 LPA | CAT / XAT / CMAT / MAT / AU Test |
-| **[Shanti Business School (SBS)](/blog/all-about-shanti-business-school)** (PGDM) | Shela, Bopal | ₹7.85 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / ATMA (60+ %ile) |
-| **[BK School of Mgmt Studies](/blog/all-about-abbs-school-of-management)** (Gujarat Univ) | Navrangpura | ₹50,000 | ₹6.50 LPA | CMAT (90+ %ile) / ACPC Merit |
+| **[IIM Ahmedabad](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)** (PGP / PGP-FABM) | Vastrapur | ₹26.50 Lakhs | ₹34.30 LPA | CAT (99.5+ %ile) |
+| **[MICA Ahmedabad](/blog/all-about-nmims-campuses/)** (PGDM-C / PGDM) | Shela, Ahmedabad | ₹23.00 Lakhs | ₹20.10 LPA | MICAT + CAT / XAT / GMAT |
+| **[Institute of Management, Nirma Univ (IMNU)](/blog/all-about-nmims-campuses/)** | SG Highway | ₹11.50 Lakhs | ₹12.20 LPA | CAT (80+ %ile) |
+| **[EDII Ahmedabad](/blog/all-about-entrepreneurship-development-institute-of-india/)** (PGDM-E / PGDM-DS) | Bhat, Gandhinagar | ₹10.50 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT / XAT |
+| **[SPM - PDEU Gandhinagar](/blog/all-about-symbiosis-mba-institutes/)** (MBA Energy/General) | Raysan, Gandhinagar | ₹9.50 Lakhs | ₹9.40 LPA | CAT / XAT / NMAT (75+ %ile) |
+| **[Amrut Mody School of Mgmt (AU)](/blog/all-about-abbs-school-of-management/)** (MBA) | Navrangpura | ₹10.00 Lakhs | ₹8.20 LPA | CAT / XAT / CMAT / MAT / AU Test |
+| **[Shanti Business School (SBS)](/blog/all-about-shanti-business-school/)** (PGDM) | Shela, Bopal | ₹7.85 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / ATMA (60+ %ile) |
+| **[BK School of Mgmt Studies](/blog/all-about-abbs-school-of-management/)** (Gujarat Univ) | Navrangpura | ₹50,000 | ₹6.50 LPA | CMAT (90+ %ile) / ACPC Merit |
 
 ---
 
@@ -93,11 +93,11 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 - **Global Pedagogy**: Renowned worldwide for pioneering the Harvard Case Method pedagogy in India. The Louis Kahn-designed red brick campus represents the pinnacle of academic ambition.
 - **Top Recruiters**: McKinsey, BCG, Bain, Goldman Sachs, Morgan Stanley, Oliver Wyman, Tata Administrative Services (TAS), HUL, Google.
 
-### 2. [MICA Ahmedabad (The School of Ideas)](/colleges/mica-ahmedabad)
+### 2. [MICA Ahmedabad (The School of Ideas)](/colleges/mica-ahmedabad/)
 - **Creative Leadership**: Undisputed leader in Strategic Marketing, Brand Management, Advertising, Digital Communications, and Media Analytics.
 - **Selection Process**: Candidates must qualify through CAT/XAT/GMAT followed by the unique **MICAT** exam (evaluating Psychometric, Descriptive, Divergent Thinking, and Analytical capabilities).
 
-### 3. [Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management)
+### 3. [Institute of Management, Nirma University (IMNU)](/colleges/nirma-institute-of-management/)
 - **High Corporate ROI**: Situated along the bustling SG Highway corporate corridor, IMNU offers strong placement outcomes in Banking, FMCG, IT Services, and Manufacturing.
 
 ### 4. SPM - Pandit Deendayal Energy University (PDEU)
@@ -132,6 +132,6 @@ BK School of Professional and Management Studies (Gujarat University) is a top-t
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

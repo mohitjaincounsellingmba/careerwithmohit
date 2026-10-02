@@ -78,7 +78,7 @@ If you're hunting for high-value PGDM programs for the 2027–2029 batch, here a
 
 ---
 
-## 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
+## 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 
 GIMS continues to emerge as a dominant player in Greater Noida, balancing an incredibly practical PGDM pedagogy with reasonable fees.
 
@@ -111,7 +111,7 @@ Located in Gurugram, India's corporate capital, JKBS offers student access to ma
 
 ---
 
-## 4. [EMPI Business School](/colleges/empi-delhi), Delhi
+## 4. [EMPI Business School](/colleges/empi-delhi/), Delhi
 
 Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intensely on experiential learning and corporate co-developed course structures.
 
@@ -122,7 +122,7 @@ Operating formally near the Chattarpur belt of South Delhi, EMPI focuses intense
 
 ---
 
-## 5. [Asian Business School (ABS)](/colleges/asian-business-school-noida), Noida
+## 5. [Asian Business School (ABS)](/colleges/asian-business-school-noida/), Noida
 
 ABS is renowned for its dual-specialization PGDM programs and heavy focus on international networking (often offering Oxford residential programs).
 
@@ -166,7 +166,7 @@ When evaluating PGDM programs under ₹10 Lakhs:
 3.  **Review the Alumni Network.**
 
 **Confused about which budget B-school to pick?**
-[👉 Talk to our experts today](/inquiry)
+[👉 Talk to our experts today](/inquiry/)
 
 
 
@@ -174,7 +174,7 @@ When evaluating PGDM programs under ₹10 Lakhs:
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -188,6 +188,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

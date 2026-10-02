@@ -36,7 +36,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Everything you need to know about the legality of Management Quota in B.Tech and MBA. Learn the difference bet...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 "Can I get admission through Management Quota?" This is a question many students ask when they miss out on merit-based seats. However, the fear of legality and the risk of being cheated by "fake agents" often holds them back. 
 
@@ -105,11 +105,11 @@ Management quota is a legitimate pathway to enter your dream college if you have
 
 **Stay Safe. Stay Informed.**
 
-[👉 View Valid Management Quota Seats & Fees for Top Colleges](/colleges)
-[👉 Check your eligibility for direct admission via our Calculator](/calculator/certification)
+[👉 View Valid Management Quota Seats & Fees for Top Colleges](/colleges/)
+[👉 Check your eligibility for direct admission via our Calculator](/calculator/certification/)
 
 **Facing issues or need a verified admission path?**
-[👉 Talk to our Legal & Admission Experts Now](/inquiry)
+[👉 Talk to our Legal & Admission Experts Now](/inquiry/)
 
 ---
 
@@ -131,7 +131,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

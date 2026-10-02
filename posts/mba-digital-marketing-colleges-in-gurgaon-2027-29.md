@@ -58,10 +58,10 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
-| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
-| **[SOIL Institute of Management](/colleges/soil-gurgaon)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
-| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹7.00 LPA** |
+| **[MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon/)** | CAT | ₹25.0 Lakhs (Total) | **₹27.60 LPA** |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** | CAT / XAT / CMAT / GMAT | ₹17.8 Lakhs (Total) | **₹11.60 LPA** |
+| **[SOIL Institute of Management](/colleges/soil-gurgaon/)** | STAT / CAT / MAT / CMAT | ₹14.5 Lakhs (Total) | **₹10.30 LPA** |
+| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon/)** | CAT / MAT / CMAT | ₹7.9 Lakhs (Total) | **₹7.00 LPA** |
 
 ---
 
@@ -82,25 +82,25 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Gurgaon
 
-### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon)
+### 1. [MDI Gurgaon (Management Development Institute)](/colleges/mdi-gurgaon/)
 - **Approximate Fees:** ₹25.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT
 - **Average Placement Package:** **₹27.60 LPA**
 - **Key Highlight:** Offers PGDM program with specialized digital marketing courses and top corporate recruitments.
 
-### 2. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)
+### 2. [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)
 - **Approximate Fees:** ₹17.8 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / CMAT / GMAT
 - **Average Placement Package:** **₹11.60 LPA**
 - **Key Highlight:** Corporate-centric B-school with a highly quantitative, marketing-heavy PGDM curriculum.
 
-### 3. [SOIL Institute of Management](/colleges/soil-gurgaon)
+### 3. [SOIL Institute of Management](/colleges/soil-gurgaon/)
 - **Approximate Fees:** ₹14.5 Lakhs (Total)
 - **Accepted Entrance Exams:** STAT / CAT / MAT / CMAT
 - **Average Placement Package:** **₹10.30 LPA**
 - **Key Highlight:** Offers a dedicated PGDM in Business Design and marketing program focusing on digital tools and leadership traits.
 
-### 4. [JK Business School (JKBS)](/colleges/jkbs-gurgaon)
+### 4. [JK Business School (JKBS)](/colleges/jkbs-gurgaon/)
 - **Approximate Fees:** ₹7.9 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT
 - **Average Placement Package:** **₹7.00 LPA**
@@ -117,9 +117,9 @@ Choosing a B-school in this region offers key advantages:
 ---
 
 ## 🔗 Related Resources
-- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29)
-- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29)
-- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges for Finance in India 2027–29 — Placements & Fees](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI in India](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Is Direct MBA Admission Without Entrance Exam Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---
 
@@ -129,24 +129,24 @@ Finding a program that fits your academic profile, budget, and placement goals c
 
 **Get verified profiles analysis and guidance:**
 
-[👉 Book My Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### Why is [MDI Gurgaon](/colleges/mdi-gurgaon) highly ranked for Digital Marketing?
-[MDI Gurgaon](/colleges/mdi-gurgaon) has outstanding academic credentials and offers a highly specialized sales & marketing course that is closely linked with top brands, resulting in premium packages.
+### Why is [MDI Gurgaon](/colleges/mdi-gurgaon/) highly ranked for Digital Marketing?
+[MDI Gurgaon](/colleges/mdi-gurgaon/) has outstanding academic credentials and offers a highly specialized sales & marketing course that is closely linked with top brands, resulting in premium packages.
 
 ### Does SOIL Gurgaon offer a specialized Digital Marketing program?
 Yes, SOIL Gurgaon provides a dedicated PGDM program focusing on digital campaigns, search engine optimization, content strategy, and marketing analytics.
 
-### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accept?
-[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
+### What exams does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) accept?
+[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) accepts CAT, XAT, GMAT, and CMAT scores for its management programs.
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

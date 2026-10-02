@@ -35,7 +35,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Discover why launching your own branded white-label coaching app is crucial for your educational brand's survi...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 In 2026, the creator economy is going through a massive structural shift. The era of uploading courses to massive marketplaces and watching third-party platforms take 50% to 75% of your earnings is officially dead. 
@@ -102,20 +102,20 @@ If you want unique UI designs, tailored mock test templates, and zero transactio
 ---
 
 *Related reading to help you grow your academy:*
-*   [Classplus vs. Graphy vs. CareerWithMohit: Side-by-Side Comparison](/blog/classplus-vs-graphy-vs-careerwithmohit-best-coaching-app-builder-2027-29)
-*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
-*   [Top Online Mock Test Series Features to Boost Student Success](/blog/building-ai-powered-test-series-branded-app-2026)
+*   [Classplus vs. Graphy vs. CareerWithMohit: Side-by-Side Comparison](/blog/classplus-vs-graphy-vs-careerwithmohit-best-coaching-app-builder-2027-29/)
+*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [Top Online Mock Test Series Features to Boost Student Success](/blog/building-ai-powered-test-series-branded-app-2026/)
 
 ---
 
 **Don't Build Your House on Rented Land.**
 Own your brand, secure your content, and scale your coaching business with maximum profitability. Connect with us today to launch your digital academy.
 
-[👉 Book My Digital Academy Demo](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Digital Academy Demo](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

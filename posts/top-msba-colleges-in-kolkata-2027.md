@@ -51,9 +51,9 @@ From the world-renowned joint PGDBA tri-institute program to dynamic corporate P
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
 | **IIM Calcutta + ISI + IIT Kharagpur** (PGDBA) | ₹25.00 Lakhs | ₹31.05 LPA (High: ₹89 LPA) | National PGDBA Entrance Test (Grad with Math) |
-| **[IMI Kolkata](/colleges/imi-kolkata)** (PGDM Business Analytics) | ₹13.20 Lakhs | ₹10.65 LPA - ₹11.50 LPA | CAT / XAT / CMAT (70%+ %ile) |
+| **[IMI Kolkata](/colleges/imi-kolkata/)** (PGDM Business Analytics) | ₹13.20 Lakhs | ₹10.65 LPA - ₹11.50 LPA | CAT / XAT / CMAT (70%+ %ile) |
 | **Praxis Business School** (PGP Data Science / Analytics) | ₹6.50L - ₹9.50L | ₹9.46 LPA - ₹13.50 LPA | PAT (Praxis Aptitude Test) / CAT / XAT / GMAT |
-| **[Globsyn Business School](/colleges/globsyn-kolkata)** (PGDM Business Analytics) | ₹8.90 Lakhs | ₹7.50 LPA - ₹8.20 LPA | CAT / XAT / MAT / CMAT / ATMA / JEMAT |
+| **[Globsyn Business School](/colleges/globsyn-kolkata/)** (PGDM Business Analytics) | ₹8.90 Lakhs | ₹7.50 LPA - ₹8.20 LPA | CAT / XAT / MAT / CMAT / ATMA / JEMAT |
 | **Calcutta Business School (CBS)** (PGDM Analytics) | ₹7.50L - ₹8.20L | ₹6.80 LPA - ₹7.50 LPA | CAT / MAT / CMAT / XAT / ATMA (50%+ Marks) |
 | **IISWBM Kolkata** (MBA Analytics Specialization) | ₹6.50 Lakhs | ₹7.20 LPA - ₹8.00 LPA | CAT / CMAT / JEMAT (High ROI State College) |
 | **Sister Nivedita University (SNU)** (M.Sc / MBA BA) | ₹4.50L - ₹6.00L | ₹5.50 LPA - ₹6.50 LPA | SNUET / National Entrance / Graduation Merit |
@@ -77,7 +77,7 @@ From the world-renowned joint PGDBA tri-institute program to dynamic corporate P
 
 ---
 
-### 2. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata), Alipore
+### 2. [IMI Kolkata (International Management Institute)](/colleges/imi-kolkata/), Alipore
 - **Flagship Offering**: PGDM with Business Analytics & Artificial Intelligence Electives
 - **Total Tuition Fee**: ₹13.20 Lakhs
 - **Placement Performance**: Average CTC ₹10.65 LPA – ₹11.50 LPA | Highest Domestic CTC ₹20.00 LPA
@@ -98,7 +98,7 @@ From the world-renowned joint PGDBA tri-institute program to dynamic corporate P
 
 ---
 
-### 4. [Globsyn Business School (GBS Kolkata)](/colleges/globsyn-kolkata), Amtala
+### 4. [Globsyn Business School (GBS Kolkata)](/colleges/globsyn-kolkata/), Amtala
 - **Flagship Offering**: AICTE-Approved PGDM in Business Analytics & Data Science
 - **Total Tuition Fee**: ₹8.90 Lakhs
 - **Placement Performance**: Average CTC ₹7.50 LPA – ₹8.20 LPA | Highest Domestic CTC ₹18.00 LPA
@@ -146,12 +146,12 @@ Applicants must have a graduate or postgraduate degree with Mathematics at the 1
 ### 3. Can I get direct admission in Kolkata Business Analytics programs?
 Institutions like Globsyn, Praxis, and Sister Nivedita University offer profile-based evaluation and institutional aptitude test routes. The joint PGDBA and IMI Kolkata admit strictly through competitive entrance test merit lists.
 
-[👉 Need help evaluating your admission chances for Kolkata Business Analytics colleges? Talk to Mohit Jain!](/inquiry)
+[👉 Need help evaluating your admission chances for Kolkata Business Analytics colleges? Talk to Mohit Jain!](/inquiry/)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)**
-- **[Read: All About IMI Kolkata Admission & Cutoffs](/blog/all-about-imi-kolkata)**
-- **[Read: Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29)**
+- **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
+- **[Read: All About IMI Kolkata Admission & Cutoffs](/blog/all-about-imi-kolkata/)**
+- **[Read: Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)**

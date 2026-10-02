@@ -350,7 +350,7 @@ export default function AboutPage() {
                 </a>
 
                 <Link
-                  href="/inquiry"
+                  href="/inquiry/"
                   className="rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 active:scale-95 text-white font-bold text-base px-7 py-3.5 transition-all backdrop-blur-sm flex items-center gap-2.5 group"
                 >
                   <span>Book 1-on-1 Consultation</span>
@@ -559,7 +559,7 @@ export default function AboutPage() {
               </div>
 
               <Link
-                href="/inquiry"
+                href="/inquiry/"
                 className="mt-6 inline-flex items-center justify-center gap-2 bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold text-sm uppercase px-6 py-3 rounded-xl transition-all text-center"
               >
                 Apply for Mentorship
@@ -768,7 +768,7 @@ export default function AboutPage() {
                 </div>
 
                 <Link
-                  href="/inquiry"
+                  href="/inquiry/"
                   className="w-full bg-blue-600 hover:bg-blue-700 active:scale-95 text-white font-bold text-sm tracking-wide text-center py-3 rounded-xl transition-all shadow-md block"
                 >
                   Apply For Program
@@ -830,7 +830,7 @@ export default function AboutPage() {
             </a>
 
             <Link
-              href="/inquiry"
+              href="/inquiry/"
               className="w-full sm:w-auto rounded-xl bg-amber-400 hover:bg-amber-300 active:scale-95 text-slate-950 font-bold text-base sm:text-lg px-8 py-3.5 transition-all shadow-lg shadow-amber-950/20 flex items-center justify-center gap-2.5 group"
             >
               <span>Book 1-on-1 Consultation</span>

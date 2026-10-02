@@ -41,7 +41,7 @@ category: Jobs & Careers
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Comprehensive expert analysis and 2026-2027 admission guide for RBSE 12th Result 2026 Declared: How to Check R...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 The Board of Secondary Education, Rajasthan (RBSE) has officially declared the **RBSE Class 12 Result 2026** for all streams—**Science, Commerce, and Arts**—on March 31, 2026. Over 9 lakh students who appeared for the examinations can now access their provisional marksheets online.
 
@@ -86,9 +86,9 @@ The Rajasthan Board has released the merit list for 2026. Here are some of the s
 ### **What Next After RBSE 12th Result?**
 Now that the results are out, it's time to plan your career path. Depending on your stream and interest, you can explore various undergraduate programs:
 
-*   **For Science Students**: Explore [Career Options After 12th Science](/blog/career-options-after-12th-science-2027-29) or check out the [Best B.Tech Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026).
-*   **For Commerce Students**: Check the [Top BBA Colleges in Jaipur](/blog/top-bba-colleges-jaipur-2026) or read about [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29).
-*   **For Arts Students**: Explore [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2027-29) and top law programs.
+*   **For Science Students**: Explore [Career Options After 12th Science](/blog/career-options-after-12th-science-2027-29/) or check out the [Best B.Tech Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/).
+*   **For Commerce Students**: Check the [Top BBA Colleges in Jaipur](/blog/top-bba-colleges-jaipur-2026/) or read about [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29/).
+*   **For Arts Students**: Explore [Career Options After 12th Arts](/blog/career-options-after-12th-arts-2027-29/) and top law programs.
 
 ---
 
@@ -107,7 +107,7 @@ Ensure you verify the following details on your online marksheet:
 ### **Struggling to Choose the Right College?**
 With so many options available, choosing the right career path can be overwhelming. At **CareerWithMohit**, we provide expert guidance to help you secure admission into top MBA, B.Tech, and BBA colleges across India.
 
-[👉 Book a Free Career Counselling Session Today!](/inquiry)
+[👉 Book a Free Career Counselling Session Today!](/inquiry/)
 
 ---
 
@@ -129,6 +129,6 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

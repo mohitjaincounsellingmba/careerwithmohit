@@ -474,7 +474,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
 
           {/* Online & Distance */}
           <Link
-            href="/online-degree-certification"
+            href="/online-degree-certification/"
             className="group bg-white rounded-2xl p-5 border border-slate-200/90 shadow-sm hover:shadow-xl hover:border-amber-300 transition-all flex flex-col justify-between"
           >
             <div>
@@ -698,7 +698,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
             </p>
           </div>
           <Link
-            href="/colleges"
+            href="/colleges/"
             className="text-xs font-bold text-blue-600 hover:text-blue-700 flex items-center gap-1 self-start sm:self-auto"
           >
             Browse All Cities <ChevronRight className="w-4 h-4" />
@@ -852,7 +852,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
         {/* View all button */}
         <div className="text-center mt-8">
           <Link
-            href="/colleges"
+            href="/colleges/"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-slate-900 hover:bg-blue-600 text-white text-xs font-bold uppercase tracking-wider transition-all shadow-md"
           >
             Explore All 600+ Colleges <ChevronRight className="w-4 h-4" />

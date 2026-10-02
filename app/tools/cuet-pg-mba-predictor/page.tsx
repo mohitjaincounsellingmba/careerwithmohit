@@ -165,7 +165,7 @@ export default function CuetPgPredictorPage() {
                             <p className="text-sm font-bold opacity-80 mb-10 leading-snug">
                                 With 200+ universities, picking the right one is tough. Let Mohit Jain's team help you pick the best ROI program.
                             </p>
-                            <Link href="/inquiry" className="block text-center w-full bg-white text-black py-4 font-black uppercase tracking-widest hover:bg-yellow-500 transition-all border-4 border-[#18181b]">
+                            <Link href="/inquiry/" className="block text-center w-full bg-white text-black py-4 font-black uppercase tracking-widest hover:bg-yellow-500 transition-all border-4 border-[#18181b]">
                                 Talk to Expert
                             </Link>
                         </div>

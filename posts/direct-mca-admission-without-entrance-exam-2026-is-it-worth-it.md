@@ -22,7 +22,7 @@ faqs:
       Most reputable private colleges require a minimum of **50% to 60%** in
       your graduation (BCA/B.Sc. IT).
   - question: >-
-      Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus) for
+      Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus/) for
       MCA?
     answer: >-
       VIT primarily uses the **VITMEE** exam. However, for their other campuses
@@ -75,7 +75,7 @@ Universities like **Amity, SRM, LPU, and Galgotias** often fill their seats base
 | **BMS College of Engg** | Bangalore | ₹4.2 - 6.5 Lakhs | ₹7.5 - 10.5 LPA |
 | **SICSR (Symbiosis)** | Pune | ₹4.5 - 6.5 Lakhs | ₹7.0 - 11.0 LPA |
 | **MIT-WPU Pune** | Pune | ₹4.0 - 5.5 Lakhs | ₹6.5 - 9.0 LPA |
-| **[Amity University](/colleges/amity-noida)** | Noida | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
+| **[Amity University](/colleges/amity-noida/)** | Noida | ₹5.5 - 7.5 Lakhs | ₹5.5 - 8.5 LPA |
 | **SRM IST** | Chennai | ₹4.5 - 6.5 Lakhs | ₹6.5 - 10.5 LPA |
 
 ---
@@ -105,7 +105,7 @@ Yes. Recruiting giants like TCS, Infosys, and Google look for your **Skills and 
 **Q2. What is the minimum percentage for direct MCA admission?**
 Most reputable private colleges require a minimum of **50% to 60%** in your graduation (BCA/B.Sc. IT).
 
-**Q3. Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus) for MCA?**
+**Q3. Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus/) for MCA?**
 VIT primarily uses the **VITMEE** exam. However, for their other campuses or specific categories, they sometimes have specialized admission tracks—always check with an official counsellor.
 
 **Q4. Does direct admission cost more?**
@@ -117,16 +117,16 @@ The "Golden Window" is **May to June** (after your final semester exams). By Aug
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026)
-- [NIMCET 2026 Strategy Guide](/blog/nimcet-2026-exam-strategy-guide)
-- [MCA vs MBA — Career guide](/blog/mca-vs-mba-career-comparison-2027-29)
+- [Top MCA Colleges in Bangalore 2026](/blog/top-mca-colleges-bangalore-2026/)
+- [NIMCET 2026 Strategy Guide](/blog/nimcet-2026-exam-strategy-guide/)
+- [MCA vs MBA — Career guide](/blog/mca-vs-mba-career-comparison-2027-29/)
 
 ---
 
 **Confused About the Direct Route?**
 Don't gamble with your tech future. Mohit Jain provides a **Safe Tech Seat Audit**—verifying the college's actual placement records and helping you secure a seat in a UGC-recognized institution that actually has a pipeline to the IT industry.
 
-[👉 Book My Safe MCA Admission Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Safe MCA Admission Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -134,6 +134,6 @@ Don't gamble with your tech future. Mohit Jain provides a **Safe Tech Seat Audit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -275,7 +275,7 @@ export default function NewsPage() {
                 </h2>
               </div>
               <Link
-                href="/inquiry"
+                href="/inquiry/"
                 className="text-xs font-bold text-amber-700 hover:text-amber-900 flex items-center gap-1 self-start sm:self-auto"
               >
                 Set Deadline Alert with Advisor →
@@ -336,7 +336,7 @@ export default function NewsPage() {
           {/* Quick Admissions Discovery Tools Strip */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link
-              href="/tools/cat-score-calculator"
+              href="/tools/cat-score-calculator/"
               className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm hover:border-amber-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-2xl bg-amber-500/10 text-amber-600 flex items-center justify-center font-bold mb-3">
@@ -351,7 +351,7 @@ export default function NewsPage() {
             </Link>
 
             <Link
-              href="/mock-tests"
+              href="/mock-tests/"
               className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm hover:border-blue-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-2xl bg-blue-500/10 text-blue-600 flex items-center justify-center font-bold mb-3">
@@ -366,7 +366,7 @@ export default function NewsPage() {
             </Link>
 
             <Link
-              href="/top-tier-mba-colleges"
+              href="/top-tier-mba-colleges/"
               className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm hover:border-emerald-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-2xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center font-bold mb-3">
@@ -381,7 +381,7 @@ export default function NewsPage() {
             </Link>
 
             <Link
-              href="/scholarships-2026"
+              href="/scholarships-2026/"
               className="bg-white p-6 rounded-3xl border border-slate-200 shadow-sm hover:border-purple-300 hover:shadow-lg transition-all group"
             >
               <div className="w-10 h-10 rounded-2xl bg-purple-500/10 text-purple-600 flex items-center justify-center font-bold mb-3">
@@ -458,7 +458,7 @@ export default function NewsPage() {
               </p>
             </div>
             <Link
-              href="/inquiry"
+              href="/inquiry/"
               className="bg-slate-950 hover:bg-slate-900 text-white font-bold px-8 py-4 rounded-2xl shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider shrink-0 text-center"
             >
               Book Free Appointment →

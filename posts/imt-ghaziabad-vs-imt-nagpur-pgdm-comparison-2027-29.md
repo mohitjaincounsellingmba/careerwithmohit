@@ -36,7 +36,7 @@ faqs:
       You may be considered for the Nagpur or Hyderabad campus with an 85
       percentile score.
   - question: Which is better for Marketing?
-    answer: "IMT Ghaziabad is often called the \"Marketing Mecca\" of North India. It is significantly better for FMCG and heavy-duty marketing roles.\n\n[\U0001F449 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison)\n\n**Not sure if your score is enough?**\nAt **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagpur's ROI based on your specific profile.\n\n[\U0001F449 Start Your MBA Admission Journey Now!](/inquiry)"
+    answer: "IMT Ghaziabad is often called the \"Marketing Mecca\" of North India. It is significantly better for FMCG and heavy-duty marketing roles.\n\n[\U0001F449 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison/)\n\n**Not sure if your score is enough?**\nAt **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagpur's ROI based on your specific profile.\n\n[\U0001F449 Start Your MBA Admission Journey Now!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
@@ -99,12 +99,12 @@ Generally, No. The General category cutoff strictly hovers around 90-93. You may
 **3. Which is better for Marketing?**
 IMT Ghaziabad is often called the "Marketing Mecca" of North India. It is significantly better for FMCG and heavy-duty marketing roles.
 
-[👉 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison)
+[👉 Compare IMT with IMI and other Top B-Schools!](/tools/college-comparison/)
 
 **Not sure if your score is enough?**
 At **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagpur's ROI based on your specific profile.
 
-[👉 Start Your MBA Admission Journey Now!](/inquiry)
+[👉 Start Your MBA Admission Journey Now!](/inquiry/)
 
 
 
@@ -112,6 +112,6 @@ At **CareerWithMohit**, we help you decide between Ghaziabad's prestige and Nagp
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

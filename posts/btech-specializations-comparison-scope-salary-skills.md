@@ -128,17 +128,17 @@ When choosing a branch, students should use the following three-step framework:
 ---
 
 *Related Articles:*
-*   [Best B.Tech Colleges in India 2026 – Rankings, Fees, & Placements](/blog/best-btech-colleges-india-2026)
-*   [B.Tech Admissions FAQ 2026: Answers to Your Top Doubts](/blog/btech-admissions-faq-2026)
-*   [B.Tech vs BE Difference Guide (2026)](/blog/btech-vs-be-difference-guide-2026)
-*   [Education Loan Guide for Engineering and Management Students](/blog/education-loan-guide-mba-btech)
+*   [Best B.Tech Colleges in India 2026 – Rankings, Fees, & Placements](/blog/best-btech-colleges-india-2026/)
+*   [B.Tech Admissions FAQ 2026: Answers to Your Top Doubts](/blog/btech-admissions-faq-2026/)
+*   [B.Tech vs BE Difference Guide (2026)](/blog/btech-vs-be-difference-guide-2026/)
+*   [Education Loan Guide for Engineering and Management Students](/blog/education-loan-guide-mba-btech/)
 
 ---
 
 ### Need Help Making the Right Choice?
 Selecting your B.Tech specialization dictates your career path for the next several decades. Make your decision with the help of an expert.
 
-**[👉 Get Personalized Career & Admission Counselling from Mohit Jain today!](/inquiry)**
+**[👉 Get Personalized Career & Admission Counselling from Mohit Jain today!](/inquiry/)**
 
 ---
 
@@ -160,6 +160,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

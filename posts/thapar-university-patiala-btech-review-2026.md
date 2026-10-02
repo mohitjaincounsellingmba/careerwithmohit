@@ -36,7 +36,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
 ---
-**[Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala) (TIET)**, commonly known as Thapar University, is one of the oldest and most prestigious private engineering institutes in India. Located in Patiala, Punjab, it consistently ranks among the top private engineering colleges, often heavily compared against new IITs and almost all NITs.
+**[Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala/) (TIET)**, commonly known as Thapar University, is one of the oldest and most prestigious private engineering institutes in India. Located in Patiala, Punjab, it consistently ranks among the top private engineering colleges, often heavily compared against new IITs and almost all NITs.
 
 If you are considering Thapar for your B.Tech in 2026, here is an honest, comprehensive review covering their placement statistics, fee structure, and the exact admission process you need to follow.
 
@@ -55,7 +55,7 @@ Thapar University does NOT conduct its own separate entrance exam for B.Tech. In
 
 ## 1. Via JEE Main Score
 The majority of seats are filled through the Joint Entrance Examination (JEE) Main score. 
-- You must sit for JEE Main. Ensure you evaluate your current level by solving our **[Free JEE Main Mock Test 2026](/tools/jee-main-mock-test)**.
+- You must sit for JEE Main. Ensure you evaluate your current level by solving our **[Free JEE Main Mock Test 2026](/tools/jee-main-mock-test/)**.
 - There is a 50% state quota reserved for candidates who have passed their 10+2 from Punjab, and the remaining 50% is for outside-Punjab candidates.
 
 ### 2. Via 10+2 Board Percentage
@@ -69,7 +69,7 @@ Thapar is renowned, but it is also one of the more expensive private colleges in
 - **Hostel & Mess:** Depending on the accommodation (single, shared, AC, Non-AC), hostel fees range from ₹1 Lakh to ₹1.5 Lakhs per year.
 - **Estimated Total:** Expect a full 4-year B.Tech journey at Thapar to cost roughly **₹22 Lakhs to ₹28 Lakhs** in total.
 
-*Struggling to manage high B.Tech fees? Browse through our detailed [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech) to learn about low-interest schemes.*
+*Struggling to manage high B.Tech fees? Browse through our detailed [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech/) to learn about low-interest schemes.*
 
 ## Placements at TIET: High ROI Guarantee?
 
@@ -85,7 +85,7 @@ Despite the steep fee structure, Thapar consistently draws premier tech giants, 
 Should you choose Thapar over an NIT? 
 If you are weighing Thapar CSE against lower-tier or newer NITs, **Thapar is often considered superior**. It boasts better campus infrastructure, an outstanding alumni network, and coding culture. However, if you have offers from top legacy NITs (like Trichy, Surathkal, or Warangal), those remain the undisputed heavily preferred choices due to the "National Importance" tag and fractionally lower tuition fees. 
 
-You can cross-check our detailed [Total Seats in NITs & Seat Matrix Analysis](/blog/total-seats-in-nits-2026-seat-matrix) to plan your NIT strategy!
+You can cross-check our detailed [Total Seats in NITs & Seat Matrix Analysis](/blog/total-seats-in-nits-2026-seat-matrix/) to plan your NIT strategy!
 
 ## Final Verdict: Why join Thapar?
 
@@ -99,7 +99,7 @@ You can cross-check our detailed [Total Seats in NITs & Seat Matrix Analysis](/b
 - Exceptionally high tuition fee bracket.
 - High student intake in computer science specializations can increase peer pressure.
 
-Ultimately, if finances are not a major roadblock, Thapar University is an A-grade institution that guarantees high-caliber exposure matching that of premium government colleges. To explore further career avenues or B.Tech choices, read our ultimate guide on [B.Tech Specializations & Salary Scope](/blog/btech-specializations-skills-salary-2026-guide).
+Ultimately, if finances are not a major roadblock, Thapar University is an A-grade institution that guarantees high-caliber exposure matching that of premium government colleges. To explore further career avenues or B.Tech choices, read our ultimate guide on [B.Tech Specializations & Salary Scope](/blog/btech-specializations-skills-salary-2026-guide/).
 
 ---
 
@@ -121,6 +121,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

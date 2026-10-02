@@ -425,7 +425,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                 Brochure & Fees
               </button>
               <Link
-                href="/inquiry"
+                href="/inquiry/"
                 prefetch={false}
                 className="inline-flex items-center justify-center px-8 py-4 bg-slate-900 text-white font-black uppercase tracking-widest text-xs rounded-2xl hover:bg-blue-600 transition-all shadow-xl shadow-slate-200"
               >
@@ -527,7 +527,7 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                           <div className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-0.5">Total Fees</div>
                           <div className="text-sm font-black text-blue-600">{prog.fees}</div>
                         </div>
-                        <Link href="/inquiry" prefetch={false} className="hidden sm:flex items-center gap-2 px-5 py-2.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-widest rounded-xl hover:bg-blue-600 transition-all">
+                        <Link href="/inquiry/" prefetch={false} className="hidden sm:flex items-center gap-2 px-5 py-2.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-widest rounded-xl hover:bg-blue-600 transition-all">
                           Apply
                         </Link>
                       </div>
@@ -987,11 +987,11 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
               Connect with Mohit Jain&apos;s expert team for fee structure, scholarship, and seat availability.
             </p>
             <div className="space-y-3 relative z-10">
-              <Link href="/inquiry" prefetch={false} className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl flex items-center justify-center transition-all shadow-lg shadow-blue-900">
+              <Link href="/inquiry/" prefetch={false} className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl flex items-center justify-center transition-all shadow-lg shadow-blue-900">
                 Get Expert Advice
                 <ChevronRight className="w-4 h-4 ml-2" />
               </Link>
-              <Link href="/inquiry" prefetch={false} className="w-full bg-white/5 hover:bg-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl border border-white/10 transition-all flex items-center justify-center">
+              <Link href="/inquiry/" prefetch={false} className="w-full bg-white/5 hover:bg-white/10 text-white font-black uppercase tracking-[0.2em] text-[10px] py-4 px-6 rounded-2xl border border-white/10 transition-all flex items-center justify-center">
                 WhatsApp Now
               </Link>
             </div>
@@ -1055,21 +1055,21 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
                 );
               })()}
               <Link
-                href="/mba-application-form-discount"
+                href="/mba-application-form-discount/"
                 className="flex items-center justify-between p-3 rounded-xl bg-amber-500/10 hover:bg-amber-500/15 border border-amber-300/40 text-xs font-bold text-amber-900 hover:text-amber-950 transition-all group"
               >
                 <span>🔥 Save ₹5,000+ on Form Combos</span>
                 <ChevronRight className="w-4 h-4 text-amber-600 group-hover:translate-x-0.5 transition-transform shrink-0" />
               </Link>
               <Link
-                href="/book-session"
+                href="/book-session/"
                 className="flex items-center justify-between p-3 rounded-xl bg-white/90 hover:bg-white border border-blue-100/70 text-xs font-bold text-slate-800 hover:text-blue-600 transition-all group"
               >
                 <span>Free 1-on-1 Profile Counselling</span>
                 <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-blue-600 shrink-0" />
               </Link>
               <Link
-                href="/mock-tests"
+                href="/mock-tests/"
                 className="flex items-center justify-between p-3 rounded-xl bg-white/90 hover:bg-white border border-blue-100/70 text-xs font-bold text-slate-800 hover:text-blue-600 transition-all group"
               >
                 <span>Free CAT/XAT/NMAT Mock Tests</span>

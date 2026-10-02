@@ -19,11 +19,11 @@ keywords:
 faqs:
   - question: Which is the best B.Tech college in Dehradun?
     answer: >-
-      [UPES Dehradun](/colleges/upes-dehradun) is the top private university in
+      [UPES Dehradun](/colleges/upes-dehradun/) is the top private university in
       Dehradun for specialised engineering programmes (petroleum, energy,
       cybersecurity). Graphic Era University is the best overall private option
       for CSE/ECE.
-  - question: 'Is [UPES Dehradun](/colleges/upes-dehradun) good for B.Tech placements?'
+  - question: 'Is [UPES Dehradun](/colleges/upes-dehradun/) good for B.Tech placements?'
     answer: >-
       Yes. UPES has strong industry ties particularly in oil & gas (ONGC, GAIL),
       aerospace (Airbus), and IT (TCS). Average packages range from ₹5–10 LPA
@@ -60,20 +60,20 @@ This guide covers the **top B.Tech colleges in Dehradun and Uttarakhand for 2026
 
 | College | Type | Annual Fees | Avg Package | Entrance Exam |
 |---|---|---|---|---|
-| [UPES Dehradun](/colleges/upes-dehradun) | Private Deemed | ₹2.5 L/yr | ₹5–10 LPA | UPESEAT / JEE |
+| [UPES Dehradun](/colleges/upes-dehradun/) | Private Deemed | ₹2.5 L/yr | ₹5–10 LPA | UPESEAT / JEE |
 | Graphic Era University | Private Deemed | ₹1.8 L/yr | ₹5–8 LPA | GEEAT / JEE |
 | Graphic Era Hill University | Private | ₹1.4 L/yr | ₹4–7 LPA | GEEAT / Direct |
 | DIT University | Private | ₹1.5 L/yr | ₹4–7 LPA | UASET / Direct |
 | Doon University | State Govt | ₹0.70 L/yr | ₹4–7 LPA | JEE Main / UASET |
 | Dev Bhoomi Uttarakhand Univ. | Private | ₹1.2 L/yr | ₹4–6 LPA | Direct |
-| [Quantum University](/colleges/quantum-university-roorkee) | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
+| [Quantum University](/colleges/quantum-university-roorkee/) | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
 | COER University, Roorkee | Private | ₹1.0 L/yr | ₹4–6 LPA | Direct / JEE |
 
 ---
 
 ## Tier 1 — Top Private Universities in Dehradun
 
-### 1. [UPES Dehradun](/colleges/upes-dehradun) — University of Petroleum and Energy Studies
+### 1. [UPES Dehradun](/colleges/upes-dehradun/) — University of Petroleum and Energy Studies
 UPES is Dehradun's most career-focused private university, known for specialised programmes in oil & gas, aviation, power, cybersecurity, and data science. Strong industry connections with ONGC, GAIL, TCS, and Airbus.
 
 - **Courses:** CSE (Specialised: Cybersecurity, Data Science, DevOps, Blockchain), ECE, Mechanical (Energy/Aerospace), Chemical (Oil & Gas), Civil, Power Engineering
@@ -110,7 +110,7 @@ Uttarakhand's premier state government university offering B.Tech in CSE and all
 
 - **Admission:** JEE Main / UASET | **Fee:** ₹70,000/yr | **Avg Package:** ₹4–7 LPA
 
-### 6. [Quantum University](/colleges/quantum-university-roorkee), Roorkee
+### 6. [Quantum University](/colleges/quantum-university-roorkee/), Roorkee
 Well-known in Uttarakhand for affordable fees and direct admission with growing placement support.
 
 - **Admission:** Direct / JEE Main | **Fee:** ₹1.0 L/yr | **Avg Package:** ₹4–6 LPA
@@ -146,9 +146,9 @@ COER is a growing private university near Roorkee (IIT Roorkee's city) offering 
 ## FAQs — B.Tech Colleges in Dehradun 2026
 
 **Q1. Which is the best B.Tech college in Dehradun?**
-[UPES Dehradun](/colleges/upes-dehradun) is the top private university in Dehradun for specialised engineering programmes (petroleum, energy, cybersecurity). Graphic Era University is the best overall private option for CSE/ECE.
+[UPES Dehradun](/colleges/upes-dehradun/) is the top private university in Dehradun for specialised engineering programmes (petroleum, energy, cybersecurity). Graphic Era University is the best overall private option for CSE/ECE.
 
-**Q2. Is [UPES Dehradun](/colleges/upes-dehradun) good for B.Tech placements?**
+**Q2. Is [UPES Dehradun](/colleges/upes-dehradun/) good for B.Tech placements?**
 Yes. UPES has strong industry ties particularly in oil & gas (ONGC, GAIL), aerospace (Airbus), and IT (TCS). Average packages range from ₹5–10 LPA depending on specialisation.
 
 **Q3. Can I get B.Tech in Dehradun without JEE?**
@@ -164,15 +164,15 @@ Graphic Era charges approximately ₹1.8 Lakhs per year. Total B.Tech programme 
 
 ## Useful Resources
 
-- [UPES Dehradun B.Tech Admission 2026](/blog/upes-dehradun-btech-admission-2026-fees-review)
-- [Quantum University Roorkee B.Tech 2026](/blog/quantum-university-btech-admission-2026-fees-review)
-- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026)
-- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [UPES Dehradun B.Tech Admission 2026](/blog/upes-dehradun-btech-admission-2026-fees-review/)
+- [Quantum University Roorkee B.Tech 2026](/blog/quantum-university-btech-admission-2026-fees-review/)
+- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026/)
+- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
-**[👉 Need expert help choosing a Dehradun B.Tech college? Get a FREE counselling session with Mohit!](/inquiry)**
+**[👉 Need expert help choosing a Dehradun B.Tech college? Get a FREE counselling session with Mohit!](/inquiry/)**
 
 
 
@@ -180,6 +180,6 @@ Graphic Era charges approximately ₹1.8 Lakhs per year. Total B.Tech programme 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

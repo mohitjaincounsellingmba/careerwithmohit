@@ -72,7 +72,7 @@ If you are looking for private engineering options with a total 4-year fee struc
 * **Impressive Placements:** Despite the moderate fees, EIT has a robust placement cell. It boasts a highest package of **₹52 LPA** and an average package between **₹5.3 LPA and ₹8.5 LPA** (with CSE and circuit branches leading).
 * **Top Recruiters:** Companies like Adobe, Oracle, Paytm, Ford, Godrej, Pfizer, TCS, and Wipro regularly recruit from the campus.
 
-Read our complete [Echelon Institute of Technology Review](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review) for a deep dive into EIT's campus life, labs, and GGSIPU admission guidelines.
+Read our complete [Echelon Institute of Technology Review](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review/) for a deep dive into EIT's campus life, labs, and GGSIPU admission guidelines.
 
 ---
 
@@ -130,14 +130,14 @@ When choosing a low-budget college, pay close attention to the following paramet
 ---
 
 ### **Explore More Admission Guides:**
-* [IP University B.Tech Cutoffs & Rank Guidelines](/blog/ipu-btech-colleges-cutoff-2025-2026)
-* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-* [Echelon Institute of Technology Review 2026](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review)
+* [IP University B.Tech Cutoffs & Rank Guidelines](/blog/ipu-btech-colleges-cutoff-2025-2026/)
+* [Best B.Tech CSE Colleges in Delhi NCR for Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+* [Echelon Institute of Technology Review 2026](/blog/echelon-institute-of-technology-faridabad-admission-2026-fees-review/)
 
 **Need Help Comparing Your Shortlisted B.Tech Colleges?**
 Finding the right balance between budget, location, and placement can be difficult. At **CareerWithMohit**, we evaluate your 12th percentage and JEE Main rank to match you with the highest-ROI colleges in the region.
 
-[👉 Get Free B.Tech Admission Audit & Counselling!](/inquiry)
+[👉 Get Free B.Tech Admission Audit & Counselling!](/inquiry/)
 
 ---
 
@@ -160,6 +160,6 @@ Yes, IP University (GGSIPU) affiliated colleges like Delhi Technical Campus (DTC
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

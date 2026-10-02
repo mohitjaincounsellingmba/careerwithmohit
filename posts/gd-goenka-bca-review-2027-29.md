@@ -40,7 +40,7 @@ category: BCA/MCA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-With the rapid rise of the digital economy, a Bachelor of Computer Applications (BCA) is no longer just about basic coding. It’s about specialization in AI, Data Analytics, and Cloud Computing. **[GD Goenka University](/colleges/gd-goenka-gurgaon) (GDGU)**, located on Sohna Road, Gurgaon, has positioned its BCA program as a "future-ready" degree with strong industry tie-ups.
+With the rapid rise of the digital economy, a Bachelor of Computer Applications (BCA) is no longer just about basic coding. It’s about specialization in AI, Data Analytics, and Cloud Computing. **[GD Goenka University](/colleges/gd-goenka-gurgaon/) (GDGU)**, located on Sohna Road, Gurgaon, has positioned its BCA program as a "future-ready" degree with strong industry tie-ups.
 
 In this **GD Goenka BCA Review 2027–29**, we analyze the fees, the "Microsoft-integrated" curriculum, and whether the placement ROI justifies the premium cost.
 
@@ -112,9 +112,9 @@ Selection is holistic and depends on more than just your 12th marks:
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026)
-*   [GD Goenka BBA Review 2027–29](/blog/gd-goenka-bba-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
+*   [GD Goenka BTech Review 2027–29](/blog/gd-goenka-btech-review-2026/)
+*   [GD Goenka BBA Review 2027–29](/blog/gd-goenka-bba-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 
 ---
 
@@ -122,7 +122,7 @@ Selection is holistic and depends on more than just your 12th marks:
 *   **GD Goenka:** Better for students who want a tech-heavy industry integration (Microsoft) and a more "corporate" vibe.
 *   **KR Mangalam:** Better for students who want a balanced university life with equal focus on extra-curriculars and academics.
 
-[👉 Apply to GD Goenka BCA 2026](/inquiry) | [💬 Chat with a Career Expert for Gurgaon Admissions](/inquiry)
+[👉 Apply to GD Goenka BCA 2026](/inquiry/) | [💬 Chat with a Career Expert for Gurgaon Admissions](/inquiry/)
 
 ---
 
@@ -144,6 +144,6 @@ Doing an MCA provides advanced technical expertise and is often treated on par w
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

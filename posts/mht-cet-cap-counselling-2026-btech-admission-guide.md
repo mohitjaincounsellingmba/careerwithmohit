@@ -67,7 +67,7 @@ category: B.Tech
     *   NRI/OCI/PIO: ₹5,000.
 
 ### **Top Participating Colleges in MHT-CET 2026**
-1.  **[COEP Technological University](/colleges/coep-pune), Pune** - *Top Choice.*
+1.  **[COEP Technological University](/colleges/coep-pune/), Pune** - *Top Choice.*
 2.  **VJTI (Veermata Jijabai Technological Institute), Mumbai**.
 3.  **ICT (Institute of Chemical Technology), Mumbai**.
 4.  **Sardar Patel Institute of Technology (SPIT), Mumbai**.
@@ -91,7 +91,7 @@ Maharashtra has many autonomous institutes (COEP, VJTI, ICT) which have their ow
 **Confused About the CAP Selection?**
 The MHT-CET "State Merit Number" system is very specific. At **CareerWithMohit**, we help you decide which order of preferences to fill based on your percentile and domicile status.
 
-[👉 Get Expert MHT-CET Counselling Guidance!](/inquiry)
+[👉 Get Expert MHT-CET Counselling Guidance!](/inquiry/)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Can I get COEP through JEE Main score?**
@@ -110,6 +110,6 @@ Typically there are three CAP rounds followed by an additional institutional-lev
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

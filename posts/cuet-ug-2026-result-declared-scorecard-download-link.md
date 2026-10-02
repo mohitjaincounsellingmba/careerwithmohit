@@ -52,7 +52,7 @@ Let’s review the key highlights of the CUET UG 2026 results, direct download l
 > 🎓 **Confused about your university preferences based on your CUET scores?**
 > Don't let a bad preference sheet ruin your chances of getting into North Campus or top colleges. 
 > 
-> [👉 Book a Free Admission Strategy Session with Mohit Jain!](/inquiry)
+> [👉 Book a Free Admission Strategy Session with Mohit Jain!](/inquiry/)
 
 ---
 
@@ -123,21 +123,21 @@ Candidates must register separately on the admission portals of their target uni
 ---
 
 ## 🔗 Related Resources for Aspirants
-*   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
-*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide)
-*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29)
-*   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026)
+*   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
+*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
+*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29/)
+*   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
 
 ---
 
 **Confused about your choice of college or need help filling your DU CSAS preference sheet?**  
 Choosing the right course-college combination can determine your career path. Mohit Jain’s expert admissions counselling helps you target the best institutions based on your CUET scorecard.
 
-[👉 Book My CUET Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My CUET Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

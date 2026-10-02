@@ -98,7 +98,7 @@ If you have a CAT/XAT score between 75-90 percentile, Hyderabad offers excellent
 
 Hyderabad has several hidden gems that are safe bets for students with mid-range academic profiles:
 
-- **IPE Hyderabad ([Institute of Public Enterprise](/colleges/ipe-hyderabad)):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
+- **IPE Hyderabad ([Institute of Public Enterprise](/colleges/ipe-hyderabad/)):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
 - **Woxsen University:** A premium private university with world-class faculty and industry-first curriculum in Business and AI.
 - **Osmania University (DoMS):** The ROI champion of Hyderabad. Fees are almost negligible compared to private players.
 
@@ -124,16 +124,16 @@ The Telangana Integrated Common Entrance Test (TS ICET) usually happens in May. 
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Delhi NCR 2027–29](/colleges/mba-colleges-delhi-ncr)
-- [Top BBA Colleges in Hyderabad 2026](/blog/top-bba-colleges-hyderabad-2026)
-- [MBA Colleges Under 10 Lakhs India Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
+- [Top MBA Colleges in Delhi NCR 2027–29](/colleges/mba-colleges-delhi-ncr/)
+- [Top BBA Colleges in Hyderabad 2026](/blog/top-bba-colleges-hyderabad-2026/)
+- [MBA Colleges Under 10 Lakhs India Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
 
 ---
 
 **Targeting the Hyderabad Tech Hub?**
 Don't just pick a name from a brochure. Get the ground reality of Hyderabad B-schools—from campus climate to actual placement audit. Mohit Jain provides 1-on-1 verified admission counselling.
 
-[👉 Book My Hyderabad Counselling Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Hyderabad Counselling Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -141,6 +141,6 @@ Don't just pick a name from a brochure. Get the ground reality of Hyderabad B-sc
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

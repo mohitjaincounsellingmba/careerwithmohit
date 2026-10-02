@@ -65,7 +65,7 @@ There are 31 NITs in India. They offer IIT-level campus life, massive government
 - NIT Surathkal (Karnataka)
 - NIT Warangal (Telangana)
 - MNNIT Allahabad (Prayagraj)
-- [MNIT Jaipur](/colleges/mnit-jaipur)
+- [MNIT Jaipur](/colleges/mnit-jaipur/)
 - NIT Rourkela
 - NIT Calicut
 
@@ -95,22 +95,22 @@ Many states have scrapped their own entrance exams and completely rely on JEE Ma
 ### 1. JAC Delhi (Delhi Government Colleges)
 Some of the absolute best engineering colleges in India take admission via JEE Main through JAC Counseling:
 - **Delhi Technological University (DTU)**
-- **[Netaji Subhas University](/colleges/netaji-subhas-university) of Technology (NSUT)**
+- **[Netaji Subhas University](/colleges/netaji-subhas-university/) of Technology (NSUT)**
 - **Indraprastha Institute of Information Technology (IIIT Delhi)**
 - **IGDTUW** (For Women)
 
 ### 2. Maharashtra State (MHT CET Cell)
 15% of seats in top Maharashtra colleges are reserved for All India candidates through JEE Main scores:
-- **[COEP Technological University](/colleges/coep-pune), Pune**
+- **[COEP Technological University](/colleges/coep-pune/), Pune**
 - **VJTI Mumbai**
-- **[Pune Institute of Computer Technology (PICT)](/colleges/pict-pune)**
+- **[Pune Institute of Computer Technology (PICT)](/colleges/pict-pune/)**
 - **Walchand College of Engineering, Sangli**
 
 ### 3. Uttar Pradesh (UPTAC Counseling)
 Top AKTU-affiliated colleges accept JEE Main:
 - **Institute of Engineering and Technology (IET), Lucknow**
 - **JSS Academy of Technical Education, Noida**
-- **[KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad**
+- **[KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad**
 - **GL Bajaj Institute of Technology, Greater Noida**
 
 ### 4. Other State Counseling Portals:
@@ -124,16 +124,16 @@ Top AKTU-affiliated colleges accept JEE Main:
 
 If you prefer private universities with ultra-modern infrastructure, global tie-ups, and massive placement drives, many elite private institutions reserve a percentage of their seats for JEE Main candidates.
 
-### 1. [Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala) (TIET), Patiala
+### 1. [Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala/) (TIET), Patiala
 One of the oldest and most respected private colleges. A large chunk of their seats is filled via JEE Main percentile.
 - **Average Package:** ~₹11 LPA
 - **Status:** Highly Recommended
 
-### 2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
+### 2. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/), Noida
 Famous for its rigorous IT and CSE curriculum and prime location in the Delhi NCR IT hub.
 - **Admission:** Exclusively through JEE Main Rank.
 
-### 3. [Nirma University](/colleges/nirma-institute-of-management), Ahmedabad
+### 3. [Nirma University](/colleges/nirma-institute-of-management/), Ahmedabad
 The top private engineering college in Gujarat, known for strict academics and great ROI.
 - **Admission:** 35% seats for All India quota via JEE Main.
 
@@ -145,7 +145,7 @@ An elite institute dedicated to Information and Communication Technology with ph
 A rapidly growing private institute that rivals newer NITs in terms of coding culture and placement statistics.
 - **Admission:** Direct application using JEE Main score.
 
-### 6. [Amity University, Noida](/colleges/amity-noida) / [Bennett University](/colleges/bennett-greater-noida) / [Galgotias University](/colleges/galgotias-university)
+### 6. [Amity University, Noida](/colleges/amity-noida/) / [Bennett University](/colleges/bennett-greater-noida/) / [Galgotias University](/colleges/galgotias-university/)
 These mega-universities offer direct admission opportunities and scholarships based on your JEE Main percentile.
 
 ---
@@ -165,9 +165,9 @@ Having a valid JEE Main score is like holding a master key, but you must know wh
 ---
 
 *Related Guides:*
-- [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
-- [B.Tech Admission Without JEE Main 2026](/blog/btech-admission-without-jee-2026-all-options)
-- [Lowest Fee B.Tech Colleges in India](/blog/lowest-fee-btech-colleges-india-2026)
+- [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026/)
+- [B.Tech Admission Without JEE Main 2026](/blog/btech-admission-without-jee-2026-all-options/)
+- [Lowest Fee B.Tech Colleges in India](/blog/lowest-fee-btech-colleges-india-2026/)
 
 ---
 
@@ -189,6 +189,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

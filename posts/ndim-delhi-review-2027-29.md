@@ -84,18 +84,18 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [New Delhi Institute of Management (NDIM) Delhi Review 2027–29–2027](/colleges/ndim-delhi): PGDM Fees, Placements, Cutoffs, Ranking & Honest Student Verdict
+# [New Delhi Institute of Management (NDIM) Delhi Review 2027–29–2027](/colleges/ndim-delhi/): PGDM Fees, Placements, Cutoffs, Ranking & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active through CAT, XAT, MAT, CMAT, ATMA scores and profile-based evaluation rounds for an approved intake of **420 seats**.
 > - **Verified Total Fee Investment**: **₹13.75 Lakhs** for the full 2-year PGDM curriculum (Year 1: ₹6.90L, Year 2: ₹6.85L) with a ₹2.5 Crore scholarship corpus.
 > - **Placement & ROI Benchmark**: Average placement package officially stands at **₹10.00 LPA** (Top 25% average: **₹12.80 LPA**; Highest audited domestic: **₹16.00 – ₹17.50 LPA**, peak **₹24.00 LPA**).
 
-When MBA aspirants evaluate private business schools in Delhi NCR offering a dependable return on investment (ROI) without requiring a 90+ percentile in CAT, **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi)** consistently ranks near the top of the consideration list. Located in South Delhi's established Tughlakabad Institutional Area, NDIM brings over 33 years of management education heritage.
+When MBA aspirants evaluate private business schools in Delhi NCR offering a dependable return on investment (ROI) without requiring a 90+ percentile in CAT, **[New Delhi Institute of Management (NDIM)](/colleges/ndim-delhi/)** consistently ranks near the top of the consideration list. Located in South Delhi's established Tughlakabad Institutional Area, NDIM brings over 33 years of management education heritage.
 
 Declared as the **First and Only "Mentor B-School" in India** in the management category by AICTE and the Confederation of Indian Industry (CII) for three consecutive cycles, NDIM is also ranked **#86 by NIRF 2025** in the Management category. However, with the revised 2027–2029 fee structure and intense competition in the Delhi NCR management cluster, is NDIM the right B-School for you?
 
-In this updated, fact-checked **NDIM Delhi review for 2026–2027**, we present verified details regarding the **updated PGDM fee structure, audited 2027–29–2026 placement packages, entrance exam cutoffs, dual specialization framework, campus ground reality, pros & cons, and comparisons with [JIMS Kalkaji](/colleges/jims-kalkaji), [FIIB South Delhi](/blog/all-about-fiib-delhi), and [Jaipuria Noida](/blog/jaipuria-noida-vs-ndim)**.
+In this updated, fact-checked **NDIM Delhi review for 2026–2027**, we present verified details regarding the **updated PGDM fee structure, audited 2027–29–2026 placement packages, entrance exam cutoffs, dual specialization framework, campus ground reality, pros & cons, and comparisons with [JIMS Kalkaji](/colleges/jims-kalkaji/), [FIIB South Delhi](/blog/all-about-fiib-delhi/), and [Jaipuria Noida](/blog/jaipuria-noida-vs-ndim/)**.
 
 ---
 
@@ -105,7 +105,7 @@ Before exploring placement reports and semester breakdowns, here is a consolidat
 
 | Parameter | Verified Official Details |
 | :--- | :--- |
-| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi/) (NDIM)** |
 | **Establishment Year** | 1992 (33+ Years of Academic Excellence) |
 | **Campus Location** | 60 & 61, Tughlakabad Institutional Area, Near Batra Hospital, New Delhi - 110062 |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |
@@ -163,7 +163,7 @@ NDIM operates dedicated, secured off-campus hostel accommodations for male and f
 
 ### NDIM Merit Scholarships (₹2.5 Crore Corpus)
 For the 2027–2029 batch, NDIM has allocated a **₹2.5 Crore Scholarship Corpus** for deserving applicants:
-1.  **Entrance Exam Percentile Concessions:** 10% to 20% tuition waivers for candidates securing 85+ percentile in [CAT Exam](/blog/all-about-cat-exam) / [XAT Exam](/blog/all-about-xat-exam) or 90+ percentile in [MAT Exam](/blog/all-about-mat-exam) / [CMAT Exam](/blog/all-about-cmat-exam).
+1.  **Entrance Exam Percentile Concessions:** 10% to 20% tuition waivers for candidates securing 85+ percentile in [CAT Exam](/blog/all-about-cat-exam/) / [XAT Exam](/blog/all-about-xat-exam/) or 90+ percentile in [MAT Exam](/blog/all-about-mat-exam/) / [CMAT Exam](/blog/all-about-cmat-exam/).
 2.  **Academic Excellence:** Special fee discounts for students holding continuous 75%+ marks throughout 10th, 12th, and graduation.
 3.  **Special Categories:** Specific waivers for wards of Indian Armed Forces and paramilitary personnel, single girl children, and state/national level athletes.
 4.  **Bank Loan Assistance:** Institutional tie-ups with leading nationalized banks (SBI, Punjab National Bank, Canara Bank, HDFC Credila) for collateral-free education loans covering full tuition and living expenses.
@@ -236,10 +236,10 @@ Admission to NDIM is conducted through a multi-stage evaluation assessing entran
 
 | Entrance Examination | Minimum Eligibility Percentile | Recommended Competitive Safe Zone |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/all-about-cat-exam)** | 60 – 65%ile | 68%+ |
-| **[XAT Exam](/blog/all-about-xat-exam)** | 60 – 65%ile | 65%+ |
-| **[MAT Exam](/blog/all-about-mat-exam)** | 75 – 80%ile | 82%+ |
-| **[CMAT Exam](/blog/all-about-cmat-exam)** | 70 – 75%ile | 78%+ |
+| **[CAT Exam](/blog/all-about-cat-exam/)** | 60 – 65%ile | 68%+ |
+| **[XAT Exam](/blog/all-about-xat-exam/)** | 60 – 65%ile | 65%+ |
+| **[MAT Exam](/blog/all-about-mat-exam/)** | 75 – 80%ile | 82%+ |
+| **[CMAT Exam](/blog/all-about-cmat-exam/)** | 70 – 75%ile | 78%+ |
 | **ATMA Exam** | 75 – 80%ile | 80%+ |
 
 ### Selection Stages & Weightage Breakdown
@@ -278,7 +278,7 @@ Admission to NDIM is conducted through a multi-stage evaluation assessing entran
 
 ## 8. NDIM Delhi vs. Competitors (Comparison Matrix)
 
-| Metric | **NDIM Delhi** | **[JIMS Kalkaji](/colleges/jims-kalkaji)** | **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements)** | **[Jaipuria Noida](/blog/jaipuria-noida-vs-ndim)** |
+| Metric | **NDIM Delhi** | **[JIMS Kalkaji](/colleges/jims-kalkaji/)** | **[FIIB South Delhi](/blog/all-about-fiib-delhi/)** | **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements/)** | **[Jaipuria Noida](/blog/jaipuria-noida-vs-ndim/)** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Tughlakabad, South Delhi | Kalkaji, South Delhi | Vasant Vihar, South Delhi | Dwarka, South Delhi | Sector 62, Noida |
 | **Total Fees** | **₹13.75 Lakhs** | ₹9.50L – ₹9.75L | ₹12.85 Lakhs | ₹11.50 Lakhs | ₹14.50L – ₹15.50L |
@@ -296,13 +296,13 @@ Admission to NDIM is conducted through a multi-stage evaluation assessing entran
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[NDIM New Delhi](/colleges/ndim-delhi)** | **₹13.75 Lakhs** | **₹10.00 LPA** | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
-| **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body · Prime Dwarka Campus |
-| **[FIIB South Delhi](/blog/all-about-fiib-delhi)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Hub |
-| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹14.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
-| **[JIMS Rohini / Kalkaji](/colleges/jims-kalkaji)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong NCR Corporate Network & Moderate Fees |
-| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
-| **[ISBR Bangalore](/colleges/isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
+| **[NDIM New Delhi](/colleges/ndim-delhi/)** | **₹13.75 Lakhs** | **₹10.00 LPA** | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
+| **[FOSTIIMA Business School](/blog/top-mba-colleges-delhi-ncr-admission-2027-2029-fees-placements/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body · Prime Dwarka Campus |
+| **[FIIB South Delhi](/blog/all-about-fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Hub |
+| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim/)** | ₹14.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
+| **[JIMS Rohini / Kalkaji](/colleges/jims-kalkaji/)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong NCR Corporate Network & Moderate Fees |
+| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
+| **[ISBR Bangalore](/colleges/isbr-bangalore/)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
 
 ---
 
@@ -336,4 +336,4 @@ Yes, NDIM has established a dedicated **₹2.5 Crore scholarship corpus** for th
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.

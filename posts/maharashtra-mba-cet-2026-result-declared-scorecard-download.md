@@ -115,15 +115,15 @@ Since there is **no negative marking** in MAH MBA CET, the cutoffs for top colle
 
 | Raw Score (out of 200) | Expected Percentile | Target College |
 |------------------------|---------------------|----------------|
-| 160+ | 99.99+ | [JBIMS Mumbai](/colleges/jbims-mumbai) |
+| 160+ | 99.99+ | [JBIMS Mumbai](/colleges/jbims-mumbai/) |
 | 148–160 | 99.95–99.99 | SIMSREE Mumbai |
-| 135–148 | 99.80–99.95 | [PUMBA Pune](/colleges/pumba-pune), Welingkar |
+| 135–148 | 99.80–99.95 | [PUMBA Pune](/colleges/pumba-pune/), Welingkar |
 | 120–135 | 99.50–99.80 | COEP, XIMR, SIES |
 | 100–120 | 98.00–99.50 | Chetana's, MET, NIBM |
 | 80–100 | 95.00–98.00 | Mid-tier Mumbai/Pune colleges |
 | Below 80 | Below 95 | Consider CMAT/ATMA score-based colleges |
 
-👉 **[Use Our Free MHCET MBA Score Calculator to Check Your Exact Percentile →](/calculator/mhcet-mba-2026)**
+👉 **[Use Our Free MHCET MBA Score Calculator to Check Your Exact Percentile →](/calculator/mhcet-mba-2026/)**
 
 ---
 
@@ -160,12 +160,12 @@ Here is your **action plan** after checking your Maharashtra MBA CET 2027–29 r
 ### ✅ If Your Score is Between 90–99 Percentile:
 - Target Tier-2 and Tier-3 Mumbai/Pune colleges through CAP.
 - Also apply to colleges via **CMAT, MAT, or ATMA scores** as backup.
-- Consider [Direct Admission in MBA Colleges in Pune](/blog/1-year-online-mba-colleges-india-2027-29) or Mumbai.
+- Consider [Direct Admission in MBA Colleges in Pune](/blog/1-year-online-mba-colleges-india-2027-29/) or Mumbai.
 
 ### ✅ If Your Score is Below 90 Percentile:
 - Don't panic. Use your CMAT, ATMA, or MAT score to apply to private colleges.
-- Explore [MBA colleges under ₹5 Lakhs in Maharashtra](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission).
-- Book a **[Free Counselling Session with Mohit Jain](/inquiry)** to explore all options.
+- Explore [MBA colleges under ₹5 Lakhs in Maharashtra](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission/).
+- Book a **[Free Counselling Session with Mohit Jain](/inquiry/)** to explore all options.
 
 ---
 
@@ -180,7 +180,7 @@ Following the Maharashtra CET result declaration, the CET Cell will initiate the
 5. **CAP Round 1, 2, and 3 Seat Allotment**
 6. **Freeze/Float/Cancel & Reporting to College**
 
-👉 **[Full Guide: MHCET MBA Admission Process & CAP Counselling 2027–29](/blog/mhcet-mba-accepting-colleges-2026-fees-cutoff-process)**
+👉 **[Full Guide: MHCET MBA Admission Process & CAP Counselling 2027–29](/blog/mhcet-mba-accepting-colleges-2026-fees-cutoff-process/)**
 
 ---
 
@@ -210,15 +210,15 @@ Maharashtra State (MS) candidates have access to **85% of seats**, while OMS (Ou
 
 Your Maharashtra CET 2026 scorecard is just the beginning. The real challenge is picking the **right college based on your score, budget, career goals, and category**.
 
-[**Book a Free Counselling Session with Mohit Jain**](/inquiry) — MBA Admission Expert with 10+ years of experience guiding students into JBIMS, SIMSREE, PUMBA, and top private B-schools in Maharashtra.
+[**Book a Free Counselling Session with Mohit Jain**](/inquiry/) — MBA Admission Expert with 10+ years of experience guiding students into JBIMS, SIMSREE, PUMBA, and top private B-schools in Maharashtra.
 
 **Related Posts:**
-- [All About MAH MBA CET Exam — Pattern, Syllabus & Cutoffs](/blog/all-about-mah-mba-cet-exam)
-- [Top MHCET MBA Accepting Colleges 2027–29](/blog/mhcet-mba-accepting-colleges-2026-fees-cutoff-process)
-- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29)
-- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29)
-- [MAH MBA CET Scholarship Guide 2027–29](/blog/mah-mba-cet-scholarship-2026-eligibility-application-process)
-- [MHCET MBA Score Calculator & Rank Predictor](/calculator/mhcet-mba-2026)
+- [All About MAH MBA CET Exam — Pattern, Syllabus & Cutoffs](/blog/all-about-mah-mba-cet-exam/)
+- [Top MHCET MBA Accepting Colleges 2027–29](/blog/mhcet-mba-accepting-colleges-2026-fees-cutoff-process/)
+- [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
+- [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
+- [MAH MBA CET Scholarship Guide 2027–29](/blog/mah-mba-cet-scholarship-2026-eligibility-application-process/)
+- [MHCET MBA Score Calculator & Rank Predictor](/calculator/mhcet-mba-2026/)
 
 ---
 
@@ -226,7 +226,7 @@ Your Maharashtra CET 2026 scorecard is just the beginning. The real challenge is
 
 Don't wait for official estimates — use our **free MHCET MBA 2027–29 Score Calculator** to instantly predict your percentile and see which colleges you can target.
 
-**[👉 Try the Free MHCET MBA 2027–29 Score Calculator](/calculator/mhcet-mba-2026)**
+**[👉 Try the Free MHCET MBA 2027–29 Score Calculator](/calculator/mhcet-mba-2026/)**
 
 ---
 
@@ -235,6 +235,6 @@ Don't wait for official estimates — use our **free MHCET MBA 2027–29 Score C
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

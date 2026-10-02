@@ -81,9 +81,9 @@ state: Karnataka
 > - **Accreditation & Approvals**: AICTE Approved · Collaborations with London School of Economics (LSE) & Carleton University.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.50 LPA** (Top 25% at **₹11.50 LPA**) with a highest package of **₹18.00 LPA**. 25% of the batch secures PPOs in Sarjapur tech and consulting corridor firms.
 
-**International School of Management Excellence (ISME) ([ISME Bangalore](/colleges/isme-bangalore))**, located in **Sarjapur Road, Bangalore, Karnataka**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**International School of Management Excellence (ISME) ([ISME Bangalore](/colleges/isme-bangalore/))**, located in **Sarjapur Road, Bangalore, Karnataka**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
-Whether you are targeting flagship PGDM programs or comparing top business schools in **Bangalore**, this detailed guide provides verified facts regarding **[ISME Bangalore](/colleges/isme-bangalore)'s 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
+Whether you are targeting flagship PGDM programs or comparing top business schools in **Bangalore**, this detailed guide provides verified facts regarding **[ISME Bangalore](/colleges/isme-bangalore/)'s 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
 ---
 
@@ -91,7 +91,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **International School of Management Excellence (ISME)** ([ISME Bangalore](/colleges/isme-bangalore)) |
+| **Institution Name** | **International School of Management Excellence (ISME)** ([ISME Bangalore](/colleges/isme-bangalore/)) |
 | **Campus Location** | Sarjapur Road, Bangalore, Karnataka |
 | **Program Offered** | **2-Year Full-Time PGDM (Marketing, Finance, HR, Business Analytics, Logistics)** |
 | **Degree / Diploma Type** | **PGDM** |
@@ -242,13 +242,13 @@ ISME Bangalore accepts valid percentiles from national entrance exams including 
 ---
 
 *Explore related MBA/PGDM 2027–29 guides:*
-- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals)
-- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process)
-- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list)
+- [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
+- [NDIM Delhi PGDM Admission 2027-29 Guide](/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/)
+- [Top UGC-DEB Approved Online Universities in India 2027](/blog/top-ugc-deb-approved-online-universities-in-india-2027-fees-list/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

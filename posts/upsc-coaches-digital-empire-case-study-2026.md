@@ -96,16 +96,16 @@ Most use a combination of **AI-driven Doubt Desks** and junior mentors who answe
 ---
 
 ### Useful Links:
-- [Launch Your Own Branded Academy App](/inquiry)
-- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2027-29)
-- [Marketing Strategies for Educators](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29)
+- [Launch Your Own Branded Academy App](/inquiry/)
+- [How to Sell Your Coaching Online 2026 Guide](/blog/how-to-sell-your-coaching-online-2027-29/)
+- [Marketing Strategies for Educators](/blog/how-to-market-coaching-app-student-growth-strategy-2027-29/)
 
 ---
 
 **Don't Just Be a Coach—Be a Category Leader.**
 The UPSC success stories prove that "Teacher Branding" is more powerful than institutional branding. Don't waste your expertise as a hired educator. Mohit Jain provides a **"SaaS Empire Audit"**—helping you build the infrastructure and branded app that turns your teaching pedagogy into a national household brand in 2026.
 
-[👉 Build My Digital UPSC Empire](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Build My Digital UPSC Empire](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -113,6 +113,6 @@ The UPSC success stories prove that "Teacher Branding" is more powerful than ins
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

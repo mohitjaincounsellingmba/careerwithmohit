@@ -123,9 +123,9 @@ The selection process at JKBS is more rigorous than many other undergraduate col
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026)
-*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
+*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
+*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026/)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 
 ---
 
@@ -133,7 +133,7 @@ The selection process at JKBS is more rigorous than many other undergraduate col
 *   **JKBS Gurgaon:** Better if you want a more disciplined, academically focused environment with a state university degree.
 *   **GD Goenka:** Better if you want a massive campus, international exposure, and a more vibrant social/extra-curricular life.
 
-[👉 Apply to JKBS Gurgaon BBA 2026](/inquiry) | [💬 Schedule a Private Profile Review with Mohit](/inquiry)
+[👉 Apply to JKBS Gurgaon BBA 2026](/inquiry/) | [💬 Schedule a Private Profile Review with Mohit](/inquiry/)
 
 ---
 
@@ -155,7 +155,7 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -169,6 +169,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/m
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

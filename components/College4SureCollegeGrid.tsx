@@ -110,7 +110,7 @@ export function College4SureCollegeGrid() {
             </p>
           </div>
           <Link
-            href="/colleges"
+            href="/colleges/"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#2563EB] hover:bg-[#1D4ED8] text-white font-display font-bold text-sm transition-all shadow-[0_12px_26px_-12px_rgba(37,99,235,0.85)] hover:-translate-y-0.5 self-start sm:self-auto"
           >
             <span>Compare all colleges</span>

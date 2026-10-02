@@ -103,16 +103,16 @@ Managing supply chains and logistics in the age of 10-minute delivery.
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Best BBA Colleges in Ghaziabad 2026](/blog/best-bba-colleges-ghaziabad-admission-guide-2026)
-*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota)
-*   [BBA vs BCom vs BMS: Global Career Options](/blog/bba-vs-bcom-vs-bms-career-comparison)
+*   [Best BBA Colleges in Ghaziabad 2026](/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)
+*   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota/)
+*   [BBA vs BCom vs BMS: Global Career Options](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 
 ## 📞 Get Expert Career Counselling
 Confused about which specialization to choose? Our experts help you find the right career path based on your strengths and the latest 2026 market trends.
 
-[👉 Book a Free Consultation](/inquiry) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
+[👉 Book a Free Consultation](/inquiry/) | [💬 Chat on WhatsApp](https://wa.me/919560020771)
 
 ---
 
@@ -130,6 +130,6 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

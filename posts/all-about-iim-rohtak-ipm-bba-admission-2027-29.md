@@ -30,10 +30,10 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[IIM Rohtak](/colleges/iim-rohtak) is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.
+[IIM Rohtak](/colleges/iim-rohtak/) is the second IIM to offer the prestigious Integrated Programme in Management (IPM). Located in the National Capital Region (NCR), it provides students with a unique advantage of being close to India's corporate and political hub. In 2026, it is a top-tier destination for management aspirants.
 
-## 🏛️ Why Choose [IIM Rohtak](/colleges/iim-rohtak) IPM in 2026?
-The IPM program at [IIM Rohtak](/colleges/iim-rohtak) focuses on developing leadership skills through a blend of academic rigor and practical exposure.
+## 🏛️ Why Choose [IIM Rohtak](/colleges/iim-rohtak/) IPM in 2026?
+The IPM program at [IIM Rohtak](/colleges/iim-rohtak/) focuses on developing leadership skills through a blend of academic rigor and practical exposure.
 - **Strategic Location:** NCR proximity means more guest lectures and internship opportunities from top MNCs.
 - **All-Round Growth:** Curriculum includes courses in humanities, languages, and social sciences.
 - **IIM Brand:** A globally recognized brand that opens doors to elite career paths.
@@ -55,7 +55,7 @@ IPM students at IIM Rohtak are part of the common placement pool with the MBA (P
 Admission is based on the **IPMAT Rohtak** entrance exam.
 - **Exam Pattern:** Quantitative Ability, Logical Reasoning, and Verbal Ability (40 questions each).
 - **Selection Criteria:** Aptitude Test Score (45%) + Personal Interview (15%) + Past Academic Record (40%).
-- **Note:** IIM Rohtak has a separate exam from [IIM Indore](/colleges/iim-indore).
+- **Note:** IIM Rohtak has a separate exam from [IIM Indore](/colleges/iim-indore/).
 
 ## ❓ Frequently Asked Questions (FAQ)
 **Q1. Is there an exit option at IIM Rohtak IPM?**
@@ -68,21 +68,21 @@ No, IIM Rohtak conducts its own entrance exam (IPMAT Rohtak) and does not typica
 The intake is approximately 180 students for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
-- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29)
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026)
+- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
+- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2027-29/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 
 ---
 
-**Confused between [IIM Indore](/colleges/iim-indore) and IIM Rohtak?**
+**Confused between [IIM Indore](/colleges/iim-indore/) and IIM Rohtak?**
 While both are IIMs, their exam patterns and placement cultures differ. Mohit Jain provides a "Deep-Dive Comparison"—helping you decide which IIM aligns better with your career goals in Finance or Marketing.
 
-[👉 Book My BBA Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My BBA Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -96,6 +96,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

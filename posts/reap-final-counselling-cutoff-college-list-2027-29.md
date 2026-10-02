@@ -68,7 +68,7 @@ The REAP admission lifecycle follows a structured sequence. To maximize your cha
 4. **Spot Round (Direct Admission):** Conducted at the end of the regular counselling rounds to fill remaining vacant seats across colleges. It is held at the institute level.
 5. **Internal Sliding:** For candidates who have already reported and settled in a college. This process allows sliding to a better branch (e.g., from ECE to CSE) within the same college based on merit.
 
-For a general overview of eligibility and dates, check our detailed [REAP Counselling 2026 Guide](/blog/reap-counselling-2026-rajasthan-btech-admission).
+For a general overview of eligibility and dates, check our detailed [REAP Counselling 2026 Guide](/blog/reap-counselling-2026-rajasthan-btech-admission/).
 
 ---
 
@@ -99,7 +99,7 @@ The table below highlights the expected JEE Main percentile cutoff ranges for th
 
 *Note: The cutoffs for reserved categories (OBC, SC, ST, EWS, MBC) are considerably lower. For instance, SC/ST candidates might secure CSE at MBM Jodhpur even with a 75-80 percentile.*
 
-If you want to know what options you have based on your specific rank, refer to our [JEE Main College Predictor 2026](/blog/jee-main-2026-college-predictor-rank-vs-college).
+If you want to know what options you have based on your specific rank, refer to our [JEE Main College Predictor 2026](/blog/jee-main-2026-college-predictor-rank-vs-college/).
 
 ---
 
@@ -110,7 +110,7 @@ When filling out your choices on the `reapraj.com` portal, you will be presented
 ### **1. Top Government & Aided Universities**
 *   **MBM University, Jodhpur:** Historically the most prestigious technical college in Rajasthan, offering excellent industry linkages and alumni network.
 *   **College of Technology and Engineering (CTAE), Udaipur:** Famous for its core branches and agricultural engineering programs, situated on an expansive campus.
-*   **University Dept., Rajasthan Technical University (UD RTU), Kota:** Strong technical grounding and placement rates. Learn more about the local engineering ecosystem in our [Top B.Tech Colleges in Kota Direct Admission](/blog/top-btech-colleges-kota-direct-admission-2026).
+*   **University Dept., Rajasthan Technical University (UD RTU), Kota:** Strong technical grounding and placement rates. Learn more about the local engineering ecosystem in our [Top B.Tech Colleges in Kota Direct Admission](/blog/top-btech-colleges-kota-direct-admission-2026/).
 *   **Government Engineering College, Ajmer (GECA)**
 *   **Government Engineering College, Bikaner (ECB)**
 *   **Government Engineering College, Jhalawar**
@@ -126,7 +126,7 @@ When filling out your choices on the `reapraj.com` portal, you will be presented
 *   **Arya Institute of Engineering and Technology (AIET), Jaipur**
 *   **Arya College of Engineering & Research Centre (ACERC), Jaipur**
 
-*(For students looking for national level institutions in the state, also see [MNIT Jaipur B.Tech Admission](/blog/mnit-jaipur-btech-admission-2026-cutoff-fees-review), which utilizes JoSAA/CSAB counselling instead of REAP).*
+*(For students looking for national level institutions in the state, also see [MNIT Jaipur B.Tech Admission](/blog/mnit-jaipur-btech-admission-2026-cutoff-fees-review/), which utilizes JoSAA/CSAB counselling instead of REAP).*
 
 ---
 
@@ -144,7 +144,7 @@ Locking your preferences correctly in REAP final counselling can drastically alt
 **Confused About the Choice Locking Order?**
 Locking the wrong colleges can get you stuck in a sub-par institute with low placements. At **CareerWithMohit**, we build custom preference sheets tailored to your domicile status, category, budget, and JEE Main percentile. 
 
-[👉 Get Expert REAP Counselling Guidance!](/inquiry)
+[👉 Get Expert REAP Counselling Guidance!](/inquiry/)
 
 ---
 
@@ -175,6 +175,6 @@ Source: reapraj.com, CEG Rajasthan
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

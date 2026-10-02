@@ -23,7 +23,7 @@ faqs:
       student-friendly.
   - question: >-
       What is the fee for B.Tech in [Sister Nivedita
-      University](/colleges/sister-nivedita-university-kolkata)?
+      University](/colleges/sister-nivedita-university-kolkata/)?
     answer: >-
       Total annual fees for CSE/AIML range from ₹1.8 Lakhs to ₹2.2 Lakhs. They
       offer significant merit-based scholarships for girls.
@@ -69,7 +69,7 @@ The most prestigious institution in West Bengal. For girls, JU offers an incredi
 - **Scholarships:** Access to the **Kanyashree Prakalpa** (Govt. of WB) for eligible female students.
 - **Safety:** One of the most active and inclusive student communities in East India.
 
-### 2. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)
+### 2. [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/) (SNU)
 A new-age private university specifically focused on modern tech stacks like AI, Data Science, and Cybersecurity. They have excellent high-security hostels specifically for female students within the campus.
 - **Top Recruiters:** Google, Microsoft, and global consulting firms.
 
@@ -95,7 +95,7 @@ While most top institutes are co-ed, several private universities in the Rajarha
 **Q2. is Jadavpur University safe for girls?**
 Yes. JU has a very strong and vocal student union system that prioritizes student safety. The surrounding area of Jadavpur is also very student-friendly.
 
-**Q3. What is the fee for B.Tech in [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata)?**
+**Q3. What is the fee for B.Tech in [Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/)?**
 Total annual fees for CSE/AIML range from ₹1.8 Lakhs to ₹2.2 Lakhs. They offer significant merit-based scholarships for girls.
 
 **Q4. Do colleges in Kolkata provide good hostels for girls?**
@@ -107,16 +107,16 @@ Usually held in **April/May**. Result and counselling follow in June.
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in Kolkata 2026 — General List](/blog/top-btech-colleges-kolkata-2026)
-- [How to Crack WBJEE 2026 in 4 Months](/blog/1-year-online-mba-colleges-india-2027-29)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
+- [Top B.Tech Colleges in Kolkata 2026 — General List](/blog/top-btech-colleges-kolkata-2026/)
+- [How to Crack WBJEE 2026 in 4 Months](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---
 
 **Empowering the Next Generation of Women Engineers.**
 Kolkata is about intellect and equality. Don't waste your score on a college without a supportive female alumni network. Mohit Jain provides a "Girls in STEM Audit"—helping you pick the college that offers the best safety, scholarship, and career mentorship in East India.
 
-[👉 Book My Kolkata Girls Tech Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Kolkata Girls Tech Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -124,6 +124,6 @@ Kolkata is about intellect and equality. Don't waste your score on a college wit
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

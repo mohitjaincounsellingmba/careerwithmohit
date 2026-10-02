@@ -39,7 +39,7 @@ state: Delhi NCR
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Interested in the investigative side of finance? Explore the Forensic Accounting career path in 2026. Discover...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
 
 
 As financial crimes become more sophisticated with the rise of AI and digital banking, the role of a **Forensic Accountant** has moved from the background to the front line of corporate governance. Unlike a standard auditor who checks if accounts are "fair," a Forensic Auditor investigates if accounts are "fraudulent." In 2026, with global regulatory bodies tightening their grip on white-collar crimes, this niche is one of the highest-paying and most secure career paths in the world of finance.
@@ -113,16 +113,16 @@ Maintaining **Professional Skepticism**. You have to assume everything is wrong 
 ---
 
 ### Useful Links:
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29)
-- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29)
-- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2027-29)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [CFA Course Guide 2026 — Dates & Syllabus](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
+- [GST Basics for Beginners 2026](/blog/gst-basics-beginners-filing-rates-guide-2027-29/)
 
 ---
 
 **Become the Guardian of Corporate Integrity.**
 Forensic accounting is where ethics meets intelligence. Don't waste your career in a routine audit role if you have the "Investigative Itch." Mohit Jain provides a **"Forensic Career Audit"**—helping you master the data tools and legal frameworks needed to land a role in the Big 4 Forensic departments.
 
-[👉 Book My Forensic Audit Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Forensic Audit Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -130,6 +130,6 @@ Forensic accounting is where ethics meets intelligence. Don't waste your career 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

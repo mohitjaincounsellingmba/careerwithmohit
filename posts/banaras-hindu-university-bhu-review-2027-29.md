@@ -76,10 +76,10 @@ BHU is famous for its residential nature, offering extensive hostel facilities f
 *   **Cost:** Hostel and mess charges are incredibly economical. The campus itself is self-sufficient, featuring a hospital, library, sports complexes, and lush greenery, providing an excellent environment for holistic development.
 
 ### **Check Other University Reviews:**
-*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026)
-*   [Aligarh Muslim University (AMU) Review 2027–29](/blog/aligarh-muslim-university-amu-review-2027-29)
+*   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026/)
+*   [Aligarh Muslim University (AMU) Review 2027–29](/blog/aligarh-muslim-university-amu-review-2027-29/)
 
-[👉 Need guidance for BHU Admissions? Book a Consultation!](/inquiry)
+[👉 Need guidance for BHU Admissions? Book a Consultation!](/inquiry/)
 
 ---
 
@@ -99,4 +99,4 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 ### 🚀 Boost Your Preparation
 
-Prepare effectively for BHU entrances! **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests)** to analyze your performance and secure your seat.
+Prepare effectively for BHU entrances! **[Explore Our Premium CUET Mock Test Series 2026](/mock-tests/)** to analyze your performance and secure your seat.

@@ -29,7 +29,7 @@ faqs:
       Board exams (65% for SC/ST) or be in the top 20 percentile of their
       respective boards to be eligible for NIT/IIT admissions.
   - question: How many attempts are allowed for JEE Advanced?
-    answer: "Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.\n\n[\U0001F449 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)"
+    answer: "Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.\n\n[\U0001F449 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry/)"
 location: Delhi NCR
 state: Delhi NCR
 category: B.Tech
@@ -75,10 +75,10 @@ The JEE is conducted in two distinct stages:
 
 ## Top Engineering Colleges Accepting JEE Scores
 
-1. **[IIT Bombay](/colleges/iit-bombay), IIT Delhi, IIT Madras, IIT Kanpur** (Through JEE Advanced)
+1. **[IIT Bombay](/colleges/iit-bombay/), IIT Delhi, IIT Madras, IIT Kanpur** (Through JEE Advanced)
 2. **NIT Trichy, NIT Surathkal, NIT Warangal** (Through JEE Main)
 3. **IIIT Hyderabad, IIIT Bangalore, IIIT Delhi** (Through JEE Main)
-4. **[BITS Pilani](/colleges/bits-pilani), Goa, Hyderabad** (Note: BITS has its own exam, BITSAT, but some categories use JEE scores for direct admission).
+4. **[BITS Pilani](/colleges/bits-pilani/), Goa, Hyderabad** (Note: BITS has its own exam, BITSAT, but some categories use JEE scores for direct admission).
 5. **DTU & NSUT, Delhi** (Through JEE Main & JAC Delhi Counselling)
 
 ---
@@ -96,7 +96,7 @@ Candidates must usually secure at least **75% marks** in their Class 12 Board ex
 ### 4. How many attempts are allowed for JEE Advanced?
 Candidates can attempt JEE Advanced a maximum of **two times in two consecutive years**.
 
-[👉 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry)
+[👉 Looking for expert guidance to navigate your B.Tech admissions? Connect with our counsellors today!](/inquiry/)
 
 
 
@@ -104,6 +104,6 @@ Candidates can attempt JEE Advanced a maximum of **two times in two consecutive 
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

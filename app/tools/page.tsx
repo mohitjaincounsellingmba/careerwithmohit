@@ -194,7 +194,7 @@ export default function ToolsHubPage() {
 
             {/* Featured Tool Card */}
             <Link 
-              href="/tools/file-converter"
+              href="/tools/file-converter/"
               className="bg-primary border-4 border-white p-8 text-white flex flex-col gap-4 max-w-xs w-full shrink-0 hover:scale-[1.03] transition-transform"
               style={{ boxShadow: '8px 8px 0px 0px rgba(255,255,255,0.2)' }}
             >
@@ -271,7 +271,7 @@ export default function ToolsHubPage() {
             Our tools give you the data. Mohit Jain gives you the strategy. Book a 1-on-1 expert session for MBA, B.Tech and career admissions.
           </p>
           <Link
-            href="/inquiry"
+            href="/inquiry/"
             className="inline-flex items-center gap-3 bg-white text-foreground px-8 py-4 font-black uppercase tracking-widest text-sm border-4 border-foreground hover:scale-105 transition-transform"
             style={{ boxShadow: '4px 4px 0px 0px rgba(0,0,0,0.3)' }}
           >

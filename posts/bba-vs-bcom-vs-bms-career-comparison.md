@@ -125,16 +125,16 @@ Most BBA/BMS entrance exam forms (IPMAT, CUET) open in **February 2026**. B.Com 
 ---
 
 ### Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [How to Prepare for IPMAT 2026 Guide](/blog/ipmat-2026-preparation-guide-colleges)
-- [Admission in SSCBS Delhi — CUET Guide](/blog/cuet-ug-2026-bba-admission-guide)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [How to Prepare for IPMAT 2026 Guide](/blog/ipmat-2026-preparation-guide-colleges/)
+- [Admission in SSCBS Delhi — CUET Guide](/blog/cuet-ug-2026-bba-admission-guide/)
 
 ---
 
 **Don't Settle for the Wrong Foundation.**
 Your undergraduate degree is the most critical decision of your life. Don't waste your score on a degree that doesn't match your patient-career philosophy. Mohit Jain provides a **"Nomenclatures Audit"**—helping you choose between BBA, BMS, and B.Com based on your 5-year career goal.
 
-[👉 Book My Business Career Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My Business Career Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -142,6 +142,6 @@ Your undergraduate degree is the most critical decision of your life. Don't wast
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

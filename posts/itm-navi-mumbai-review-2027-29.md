@@ -141,9 +141,9 @@ For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Tec
 
 Make an informed decision by comparing fee structures, placement reports, and admission cutoffs across India's top management institutions:
 
-*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges)
-*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027)
-*   [Explore & Compare 200+ Top Colleges in India](/colleges)
+*   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
+*   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
+*   [Explore & Compare 200+ Top Colleges in India](/colleges/)
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
@@ -169,7 +169,7 @@ Yes, **ITM Business School (Navi Mumbai)** offers merit-based scholarships and f
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -183,6 +183,6 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

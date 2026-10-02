@@ -50,7 +50,7 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.
+The **Common Admission Test (CAT) 2026** is the most sought-after management entrance examination in India, serving as the primary gateway to the prestigious **Indian Institutes of Management (IIMs)** as well as over 1,200 premier B-schools including [FMS Delhi](/colleges/fms-delhi/), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon/), and IIT management departments.
 
 Every year, MBA aspirants eagerly wait to know **which IIM will conduct the CAT exam**, as the convening institute often shapes the nuanced flavor, difficulty distribution, and structural presentation of the test paper. 
 
@@ -68,13 +68,13 @@ In this comprehensive guide, we uncover the **convening IIM for CAT 2026**, expl
 
 The **Indian Institute of Management (IIM) Indore** is the official convening and conducting body for **CAT 2026**.
 
-Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore)). 
+Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore/)). 
 
-Following the established rotation cycle—where [IIM Calcutta](/colleges/iim-calcutta) convened CAT 2024 and IIM Kozhikode convened CAT 2025—**[IIM Indore](/colleges/iim-indore)** takes charge of the examination for the 2026–27 admission cycle.
+Following the established rotation cycle—where [IIM Calcutta](/colleges/iim-calcutta/) convened CAT 2024 and IIM Kozhikode convened CAT 2025—**[IIM Indore](/colleges/iim-indore/)** takes charge of the examination for the 2026–27 admission cycle.
 
 ### Key Highlights of CAT 2026 Convening Body
 * **Conducting Institute:** Indian Institute of Management (IIM) Indore
-* **Expected Convening Convenor:** Appointed Senior Faculty / Admissions Chair, [IIM Indore](/colleges/iim-indore)
+* **Expected Convening Convenor:** Appointed Senior Faculty / Admissions Chair, [IIM Indore](/colleges/iim-indore/)
 * **Official CAT Portal:** [iimcat.ac.in](https://iimcat.ac.in)
 * **Exam Mode:** Computer-Based Test (CBT) across 3 slots
 * **Expected Total Aspirants:** Over 3.2 Lakh candidates
@@ -89,13 +89,13 @@ Understanding which IIM convened the exam in previous years helps aspirants trac
 | :--- | :--- | :--- | :--- |
 | **2026** | **IIM Indore** | **November 29, 2026** | **Upcoming exam; focus on balanced QA and analytical VARC** |
 | **2025** | IIM Kozhikode | November 30, 2025 | Standard 66-question format across three slots |
-| **2024** | [IIM Calcutta](/colleges/iim-calcutta) | November 24, 2024 | Moderate-to-high difficulty Quantitative Aptitude |
-| **2023** | [IIM Lucknow](/colleges/iim-lucknow) | November 26, 2023 | High analytical rigor in DILR and QA sections |
-| **2022** | [IIM Bangalore](/colleges/iim-bangalore) | November 27, 2022 | Conceptual focus; RC passages from philosophy & sociology |
-| **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad) | November 28, 2021 | Balanced structure; 66 questions (reduced from 76) |
+| **2024** | [IIM Calcutta](/colleges/iim-calcutta/) | November 24, 2024 | Moderate-to-high difficulty Quantitative Aptitude |
+| **2023** | [IIM Lucknow](/colleges/iim-lucknow/) | November 26, 2023 | High analytical rigor in DILR and QA sections |
+| **2022** | [IIM Bangalore](/colleges/iim-bangalore/) | November 27, 2022 | Conceptual focus; RC passages from philosophy & sociology |
+| **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | November 28, 2021 | Balanced structure; 66 questions (reduced from 76) |
 | **2020** | IIM Indore | November 29, 2020 | Transitioned to 2-hour duration due to COVID-19 protocols |
 | **2019** | IIM Kozhikode | November 24, 2019 | Standard 3-hour format with 100 questions |
-| **2018** | [IIM Calcutta](/colleges/iim-calcutta) | November 25, 2018 | Known for challenging Quantitative Aptitude calculations |
+| **2018** | [IIM Calcutta](/colleges/iim-calcutta/) | November 25, 2018 | Known for challenging Quantitative Aptitude calculations |
 
 ---
 
@@ -157,11 +157,11 @@ Historically, when **IIM Indore** convened CAT in **2020** and **2014**, the pap
 ---
 
 ## 7. Related MBA & CAT 2027–29 Guides
-* [All About CAT Exam 2026: Syllabus, Eligibility & Pattern](/blog/all-about-cat-exam)
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All IIM Cut-Offs 2027–29: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm)
-* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
-* [Top MBA Colleges in India 2027–29: Rankings, Fees & Placements](/blog/iims-list-courses-placements-cutoffs-admission)
+* [All About CAT Exam 2026: Syllabus, Eligibility & Pattern](/blog/all-about-cat-exam/)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All IIM Cut-Offs 2027–29: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
+* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
+* [Top MBA Colleges in India 2027–29: Rankings, Fees & Placements](/blog/iims-list-courses-placements-cutoffs-admission/)
 
 ---
 
@@ -174,7 +174,7 @@ The **Indian Institute of Management (IIM) Indore** is the official convening an
 CAT 2026 is scheduled to be conducted on **Sunday, November 29, 2026** (the last Sunday of November), across over 170 exam cities in India in three separate slots.
 
 ### How are convening IIMs selected for conducting the CAT exam?
-The responsibility of convening CAT rotates annually among the **six older IIMs**: [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), [IIM Calcutta](/colleges/iim-calcutta), [IIM Lucknow](/colleges/iim-lucknow), IIM Kozhikode, and IIM Indore.
+The responsibility of convening CAT rotates annually among the **six older IIMs**: [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, and IIM Indore.
 
 ### What is the official website for CAT 2026 registration?
 The official website for CAT 2026 registration, admit card download, official notifications, and scorecard download is **[iimcat.ac.in](https://iimcat.ac.in)**.
@@ -186,12 +186,12 @@ No major structural deviation is expected. CAT 2026 is expected to retain the 66
 
 ### 🚀 Need Personalized Guidance for CAT 2026 & IIM Admissions?
 
-Unsure which B-schools match your profile and target percentile? **[Speak with Our MBA Career Counsellors Today](/inquiry)** or explore our **[Free CAT Mock Tests](/tools/cat-mock-test)** to kickstart your IIM journey!
+Unsure which B-schools match your profile and target percentile? **[Speak with Our MBA Career Counsellors Today](/inquiry/)** or explore our **[Free CAT Mock Tests](/tools/cat-mock-test/)** to kickstart your IIM journey!
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

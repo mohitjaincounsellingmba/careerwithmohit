@@ -48,7 +48,7 @@ state: Delhi NCR
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹10 Lakhs.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB) Delhi** are two of the most popular choices. 
+Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB) Delhi** are two of the most popular choices. 
 
 Both institutes offer robust PGDM programs and have a long-standing legacy in management education. However, when we dive deep into the data—especially ROI, corporate exposure, and average placements—certain clear winners emerge. In this detailed comparison for the 2027–2029 intake, we break down why **FIIB Delhi holds a strong strategic advantage** for MBA/PGDM aspirants.
 
@@ -126,15 +126,15 @@ While both institutions check the boxes for a solid management education under 1
 * It offers a **better ROI** (lower fees + higher average placements).
 * You get the unbeatable **South Delhi location advantage**, keeping you closer to corporate hubs.
 * The curriculum provides a stronger, more modern **global corporate outlook**, which aligns perfectly with what top MNC recruiters seek today.
-* 👉 [Read our full, detailed review of FIIB Delhi here](/blog/all-about-abbs-school-of-management)
+* 👉 [Read our full, detailed review of FIIB Delhi here](/blog/all-about-abbs-school-of-management/)
 
 **Choose JIMS Rohini only if:**
 * Location in North Delhi is a strict personal preference or constraint for you.
-* 👉 [Read our full, detailed review of JIMS Rohini here](/blog/all-about-jims-rohini)
+* 👉 [Read our full, detailed review of JIMS Rohini here](/blog/all-about-jims-rohini/)
 
 ---
 
-[👉 Get Free Personal Counselling for MBA Admissions](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+[👉 Get Free Personal Counselling for MBA Admissions](/inquiry/) | [💬 Schedule a Call with Mohit Jain](/inquiry/)
 
 ---
 
@@ -156,6 +156,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

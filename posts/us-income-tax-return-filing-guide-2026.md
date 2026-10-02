@@ -39,7 +39,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-Navigating the United States tax system can seem daunting, especially if you are newly employed after an [MBA or advanced degree](/blog/mba-after-btech-benefits-2027-29) or planning to work stateside. Unlike some countries with a centralized tax system, the US system involves both **Federal taxes** collected by the Internal Revenue Service (IRS) and **State taxes** collected by individual states.
+Navigating the United States tax system can seem daunting, especially if you are newly employed after an [MBA or advanced degree](/blog/mba-after-btech-benefits-2027-29/) or planning to work stateside. Unlike some countries with a centralized tax system, the US system involves both **Federal taxes** collected by the Internal Revenue Service (IRS) and **State taxes** collected by individual states.
 
 Here is an in-depth look at how the US tax return process works, the common IRS forms you’ll encounter, and the federal income tax brackets.
 
@@ -94,7 +94,7 @@ Once the forms are filled, you'll see if the taxes automatically withheld from y
 e-Filing is heavily recommended by the IRS because it decreases error rates and dramatically speeds up refunds (usually within 21 days for e-filed returns with direct deposit).
 
 ## Build a Global Finance Career
-Understanding global tax systems like the US IRS is a vital skill for international business. A [Career in Finance](/blog/career-in-finance-course) or a global MBA can position you perfectly for roles in multinational corporate planning. Explore some of the [Top MBA Programs Globally](/blog/top-global-mba-programs) to kickstart your journey.
+Understanding global tax systems like the US IRS is a vital skill for international business. A [Career in Finance](/blog/career-in-finance-course/) or a global MBA can position you perfectly for roles in multinational corporate planning. Explore some of the [Top MBA Programs Globally](/blog/top-global-mba-programs/) to kickstart your journey.
 
 ---
 
@@ -116,6 +116,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

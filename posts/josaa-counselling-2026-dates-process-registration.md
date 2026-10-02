@@ -75,10 +75,10 @@ Ensure you have scanned copies of these documents ready:
 
 ### **Seats Available in JoSAA 2026**
 Planning your choices requires knowing the seat matrix. Check our detailed institute-wise seat guides:
-*   [Total Seats in IITs 2026: JoSAA Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix)
-*   [Total Seats in NITs 2026: State Quota Details](/blog/total-seats-in-nits-2026-seat-matrix)
-*   [Total Seats in IIITs 2026: Top Specializations](/blog/total-seats-in-iiits-2026-seat-matrix)
-*   [Total Seats in GFTIs 2026: Official Institute List](/blog/total-seats-in-gftis-2026-seat-matrix)
+*   [Total Seats in IITs 2026: JoSAA Seat Matrix](/blog/total-seats-in-iits-2026-seat-matrix/)
+*   [Total Seats in NITs 2026: State Quota Details](/blog/total-seats-in-nits-2026-seat-matrix/)
+*   [Total Seats in IIITs 2026: Top Specializations](/blog/total-seats-in-iiits-2026-seat-matrix/)
+*   [Total Seats in GFTIs 2026: Official Institute List](/blog/total-seats-in-gftis-2026-seat-matrix/)
 
 ### **Expert Tips for a Successful JoSAA Counselling**
 *   **Don't Wait for the Last Date**: Server issues are common on the final day of choice locking.
@@ -88,7 +88,7 @@ Planning your choices requires knowing the seat matrix. Check our detailed insti
 **Need Personalized Counselling Support?**
 Choice filling is both an art and a science. Our experts at **CareerWithMohit** have helped thousands of students convert their JEE ranks into seats at the best possible institutes. We provide customized choice-filling lists based on your rank, budget, and location preferences.
 
-[👉 Connect with Our JoSAA Experts Today!](/inquiry)
+[👉 Connect with Our JoSAA Experts Today!](/inquiry/)
 
 ---
 
@@ -110,6 +110,6 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

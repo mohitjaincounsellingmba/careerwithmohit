@@ -4,7 +4,7 @@ date: '2026-04-21'
 category: Exams
 description: >-
   Looking for an MBA that won't break the bank? Discover the top low-fee,
-  high-ROI MBA colleges in India. Compare [FMS Delhi](/colleges/fms-delhi),
+  high-ROI MBA colleges in India. Compare [FMS Delhi](/colleges/fms-delhi/),
   JBIMS, TISS, and PUMBA with placement-to-fee ratios for 2026-2027 admissions &
   career guidance.
 keywords:
@@ -54,12 +54,12 @@ The answer is a resounding **YES**. India is home to several elite, government-r
 
 | College | Total Fees (2 Yrs) | Avg. Placement | ROI % (Approx) |
 |---|---|---|---|
-| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.0 Lakhs | ₹34.10 LPA | **1700%** |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai)** | ₹6.0 Lakhs | ₹28.02 LPA | **460%** |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.0 Lakhs | ₹34.10 LPA | **1700%** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | ₹6.0 Lakhs | ₹28.02 LPA | **460%** |
 | **TISS Mumbai** | ₹1.8 Lakhs | ₹27.22 LPA | **1500%** |
 | **DSE Delhi** | ₹0.5 Lakhs | ₹14.50 LPA | **2900%** |
 | **SIMSREE Mumbai** | ₹1.4 Lakhs | ₹15.20 LPA | **1000%** |
-| **[PUMBA Pune](/colleges/pumba-pune)** | ₹1.5 Lakhs | ₹9.40 LPA | **600%** |
+| **[PUMBA Pune](/colleges/pumba-pune/)** | ₹1.5 Lakhs | ₹9.40 LPA | **600%** |
 | **SRCC (GBO)** | ₹6.4 Lakhs | ₹12.73 LPA | **200%** |
 | **DFS (Delhi Univ)**| ₹0.3 Lakhs | ₹14.50 LPA | **4800%** |
 
@@ -71,7 +71,7 @@ The answer is a resounding **YES**. India is home to several elite, government-r
 
 ## 🏛️ The "Big Three" of ROI
 
-### 1. [FMS Delhi](/colleges/fms-delhi) (Faculty of Management Studies)
+### 1. [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies)
 The undisputed king of ROI globally. FMS belongs to the University of Delhi. 
 - **Fees:** ~₹1 Lakh per year.
 - **Top Recruiters:** Goldman Sachs, BCG, Microsoft, HUL.
@@ -82,7 +82,7 @@ Technically an **MA in HRM & LR**, but it is treated exactly like an MBA by recr
 - **Fees:** Very subsidized hostel and tuition fees.
 - **Highest Package:** ~₹49 LPA.
 
-### 3. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj)
+### 3. [JBIMS Mumbai](/colleges/jbims-mumbai/) (Jamnalal Bajaj)
 Located right in the heart of South Mumbai. Affiliated with Mumbai University.
 - **Niche:** It produces more banking CEOs than any other institute in India.
 
@@ -128,16 +128,16 @@ NO. Government ROI colleges (FMS, JBIMS, PUMBA) have no management quota. Admiss
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29)
-- [Top MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune)
-- [Unive Under 10 Lakhs MBA Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
+- [Top MBA Colleges in Mumbai 2027–29](/blog/top-mba-colleges-mumbai-2027-29/)
+- [Top MBA Colleges in Pune 2027–29](/colleges/mba-colleges-pune/)
+- [Unive Under 10 Lakhs MBA Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
 
 ---
 
 **Worried about MBA Debt?**
 Don't fall for the "Expensive = Best" trap. Mohit Jain specializes in finding high-ROI tracks that fit your budget and career goals. Let's find your FMS equivalent.
 
-[👉 Book My ROI Strategy Session](/inquiry) | [💬 Chat with Mohit](/inquiry)
+[👉 Book My ROI Strategy Session](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
 
 
 
@@ -145,6 +145,6 @@ Don't fall for the "Expensive = Best" trap. Mohit Jain specializes in finding hi
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

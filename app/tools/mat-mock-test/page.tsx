@@ -588,7 +588,7 @@ export default function MatMockTestToolPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 shrink-0 w-full md:w-auto">
             <Link
-              href="/mba-application-form-discount"
+              href="/mba-application-form-discount/"
               className="bg-white hover:bg-slate-100 text-foreground px-8 py-4 rounded-2xl font-black text-xs uppercase tracking-wider text-center transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5"
             >
               Application Form Discounts
@@ -614,7 +614,7 @@ export default function MatMockTestToolPage() {
 
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
             <Link
-              href="/tools/cat-mock-test"
+              href="/tools/cat-mock-test/"
               className="bg-white p-4 rounded-2xl border-2 border-foreground hover:bg-amber-50 hover:-translate-y-1 transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] block"
             >
               <span className="text-[10px] font-black uppercase text-amber-600">66 Questions</span>
@@ -623,7 +623,7 @@ export default function MatMockTestToolPage() {
             </Link>
 
             <Link
-              href="/tools/nmat-mock-test"
+              href="/tools/nmat-mock-test/"
               className="bg-white p-4 rounded-2xl border-2 border-foreground hover:bg-amber-50 hover:-translate-y-1 transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] block"
             >
               <span className="text-[10px] font-black uppercase text-blue-600">Adaptive Engine</span>
@@ -632,7 +632,7 @@ export default function MatMockTestToolPage() {
             </Link>
 
             <Link
-              href="/tools/gmat-mock-test"
+              href="/tools/gmat-mock-test/"
               className="bg-white p-4 rounded-2xl border-2 border-foreground hover:bg-amber-50 hover:-translate-y-1 transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] block"
             >
               <span className="text-[10px] font-black uppercase text-indigo-600">Focus Edition</span>
@@ -641,7 +641,7 @@ export default function MatMockTestToolPage() {
             </Link>
 
             <Link
-              href="/tools/mhcet-mock-test"
+              href="/tools/mhcet-mock-test/"
               className="bg-white p-4 rounded-2xl border-2 border-foreground hover:bg-amber-50 hover:-translate-y-1 transition-all shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] block"
             >
               <span className="text-[10px] font-black uppercase text-emerald-600">200 Questions</span>

@@ -21,9 +21,9 @@ keywords:
 faqs:
   - question: Which Indian engineering college has the best overall placements?
     answer: >-
-      [IIT Bombay](/colleges/iit-bombay) leads for highest packages (avg ₹22–25
+      [IIT Bombay](/colleges/iit-bombay/) leads for highest packages (avg ₹22–25
       LPA). NIT Tiruchirappalli leads for best NIT placements. [BITS
-      Pilani](/colleges/bits-pilani) leads for best private college placements.
+      Pilani](/colleges/bits-pilani/) leads for best private college placements.
   - question: Is 100% placement in engineering college real?
     answer: >-
       Rarely. Most "100% placement" claims count internships, deferred offers,
@@ -31,7 +31,7 @@ faqs:
       on-campus with confirmed joining dates.
   - question: Which private engineering college has the best placements in India?
     answer: >-
-      [BITS Pilani](/colleges/bits-pilani) (Pilani campus) consistently has the
+      [BITS Pilani](/colleges/bits-pilani/) (Pilani campus) consistently has the
       best private college CSE/ECE/Chemical placements. Thapar University and
       JIIT Noida follow for North India.
   - question: What average salary can I expect from a top NIT?
@@ -39,7 +39,7 @@ faqs:
       From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect
       ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.
   - question: >-
-      Is [VIT Vellore](/colleges/vit-vellore-campus) good for placements despite the
+      Is [VIT Vellore](/colleges/vit-vellore-campus/) good for placements despite the
       large batch size?
     answer: >-
       Yes — but with caveats. VIT places ~70% of its 10,000 students. The
@@ -64,17 +64,17 @@ This expert guide gives you **honest, verified placement data for India's best B
 
 | College | Batch Size | % Placed | Avg Package (All Branches) | Highest Package | Top Recruiters |
 |---|---|---|---|---|---|
-| [IIT Bombay](/colleges/iit-bombay) | ~1,200 | ~85% | ₹22–25 LPA | ₹3.67 Cr | Google, Microsoft, Goldman Sachs |
+| [IIT Bombay](/colleges/iit-bombay/) | ~1,200 | ~85% | ₹22–25 LPA | ₹3.67 Cr | Google, Microsoft, Goldman Sachs |
 | IIT Delhi | ~1,000 | ~85% | ₹20–23 LPA | ₹2.8 Cr | Uber, DE Shaw, McKinsey |
 | IIT Madras | ~1,100 | ~80% | ₹18–22 LPA | ₹1.8 Cr | Apple, Qualcomm, Amazon |
 | IIT Kanpur | ~900 | ~80% | ₹18–22 LPA | ₹2.5 Cr | Google, Schlumberger, D.E. Shaw |
-| [BITS Pilani](/colleges/bits-pilani) | ~1,000 | ~80% | ₹15–18 LPA | ₹2.5 Cr | Microsoft, Goldman Sachs, Nvidia |
+| [BITS Pilani](/colleges/bits-pilani/) | ~1,000 | ~80% | ₹15–18 LPA | ₹2.5 Cr | Microsoft, Goldman Sachs, Nvidia |
 | IIT Roorkee | ~1,000 | ~78% | ₹15–18 LPA | ₹1.5 Cr | Amazon, Qualcomm, DRDO |
 | IIIT Hyderabad | ~250 | ~85% | ₹16–20 LPA | ₹1+ Cr | Google, Facebook, Microsoft |
 | NIT Tiruchirappalli | ~1,200 | ~82% | ₹10–14 LPA | ₹55 LPA | Amazon, Zoho, Goldman Sachs |
 | Thapar University | ~2,000 | ~75% | ₹10–13 LPA | ₹60 LPA | Microsoft, Sprinklr, Uber India |
 | NIT Warangal | ~1,200 | ~80% | ₹9–12 LPA | ₹45 LPA | TCS, Wipro, Microsoft |
-| [VIT Vellore](/colleges/vit-vellore-campus) | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
+| [VIT Vellore](/colleges/vit-vellore-campus/) | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
 | SRM Kattankulathur | ~8,000 | ~65% | ₹6–9 LPA | ₹60 LPA | TCS, Infosys, Cognizant |
 | JIIT Noida | ~2,000 | ~75% | ₹8–10 LPA | ₹45 LPA | Amazon, Adobe, Samsung |
 | Chandigarh University | ~6,000 | ~65% | ₹5–8 LPA | ₹42 LPA | TCS, HCL, Wipro, IBM |
@@ -96,9 +96,9 @@ IITs dominate because of:
 
 ---
 
-## Tier 2 — [BITS Pilani](/colleges/bits-pilani): Best Private College Placements
+## Tier 2 — [BITS Pilani](/colleges/bits-pilani/): Best Private College Placements
 
-[BITS Pilani](/colleges/bits-pilani)'s **Practice School (PS)** programme is its biggest placement advantage — students spend 6 months at companies like Microsoft, Goldman Sachs, and Schlumberger before graduation, often converting to full-time offers.
+[BITS Pilani](/colleges/bits-pilani/)'s **Practice School (PS)** programme is its biggest placement advantage — students spend 6 months at companies like Microsoft, Goldman Sachs, and Schlumberger before graduation, often converting to full-time offers.
 
 - **CSE Avg Package:** ₹18–22 LPA
 - **Practice School Companies:** Microsoft, Goldman Sachs, Qualcomm, Nvidia, Shell
@@ -123,7 +123,7 @@ Strong placements in software and core engineering, particularly for CS and ECE 
 
 ## Tier 4 — Top Private: Best for Mass Placements
 
-### [VIT Vellore](/colleges/vit-vellore-campus) — India's Largest Placement Operation
+### [VIT Vellore](/colleges/vit-vellore-campus/) — India's Largest Placement Operation
 20,000+ students, 600+ recruiting companies, ₹7–10 LPA average. Best for students who want placement certainty over prestige.
 
 ### Thapar University — Best Private for High Packages
@@ -147,7 +147,7 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 - Check LinkedIn profiles of recent alumni
 - Ask for **top 3 recruiters and their offers data**
 
-[Read: Why You Should Never Join Pool Placement Colleges](/blog/why-never-join-pool-placement-colleges-mba-pgdm)
+[Read: Why You Should Never Join Pool Placement Colleges](/blog/why-never-join-pool-placement-colleges-mba-pgdm/)
 
 ---
 
@@ -157,43 +157,43 @@ Amazon, Adobe, Samsung, Qualcomm visit JIIT for Delhi NCR tech hiring. Strong CS
 |---|---|---|---|
 | CSE | ₹8–35 LPA | Very High | All IITs, BITS, NITs |
 | ECE | ₹7–24 LPA | High | IITs, BITS, NIT-T |
-| Electrical (EE) | ₹7–22 LPA | Medium | IIT Delhi, [IIT Bombay](/colleges/iit-bombay) |
-| Mechanical | ₹5–18 LPA | Medium | [IIT Bombay](/colleges/iit-bombay), NIT-T, BITS |
+| Electrical (EE) | ₹7–22 LPA | Medium | IIT Delhi, [IIT Bombay](/colleges/iit-bombay/) |
+| Mechanical | ₹5–18 LPA | Medium | [IIT Bombay](/colleges/iit-bombay/), NIT-T, BITS |
 | Civil | ₹4–14 LPA | Low (private) | IIT Roorkee, NIT-T |
-| Chemical | ₹5–15 LPA | Low | [IIT Bombay](/colleges/iit-bombay), [BITS Pilani](/colleges/bits-pilani) |
+| Chemical | ₹5–15 LPA | Low | [IIT Bombay](/colleges/iit-bombay/), [BITS Pilani](/colleges/bits-pilani/) |
 
 ---
 
 ## FAQs — Best B.Tech Colleges for Placements India 2026
 
 **Q1. Which Indian engineering college has the best overall placements?**
-[IIT Bombay](/colleges/iit-bombay) leads for highest packages (avg ₹22–25 LPA). NIT Tiruchirappalli leads for best NIT placements. [BITS Pilani](/colleges/bits-pilani) leads for best private college placements.
+[IIT Bombay](/colleges/iit-bombay/) leads for highest packages (avg ₹22–25 LPA). NIT Tiruchirappalli leads for best NIT placements. [BITS Pilani](/colleges/bits-pilani/) leads for best private college placements.
 
 **Q2. Is 100% placement in engineering college real?**
 Rarely. Most "100% placement" claims count internships, deferred offers, or pool placements. Always ask for the specific number of students placed on-campus with confirmed joining dates.
 
 **Q3. Which private engineering college has the best placements in India?**
-[BITS Pilani](/colleges/bits-pilani) (Pilani campus) consistently has the best private college CSE/ECE/Chemical placements. Thapar University and JIIT Noida follow for North India.
+[BITS Pilani](/colleges/bits-pilani/) (Pilani campus) consistently has the best private college CSE/ECE/Chemical placements. Thapar University and JIIT Noida follow for North India.
 
 **Q4. What average salary can I expect from a top NIT?**
 From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.
 
-**Q5. Is [VIT Vellore](/colleges/vit-vellore-campus) good for placements despite the large batch size?**
+**Q5. Is [VIT Vellore](/colleges/vit-vellore-campus/) good for placements despite the large batch size?**
 Yes — but with caveats. VIT places ~70% of its 10,000 students. The average is ₹7–10 LPA. For mass IT companies, placement is near-certain. For product companies (Google, Amazon direct), competition is intense.
 
 ---
 
 ## Useful Resources
 
-- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026)
-- [Top B.Tech Colleges in India — NIRF Ranking](/blog/top-btech-colleges-india-nirf-ranking-2026)
-- [Best B.Tech CSE Colleges India 2026](/blog/best-btech-cse-colleges-india-2026)
-- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026)
-- [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech)
+- [Top 10 Engineering Colleges in India 2026](/blog/top-10-engineering-colleges-india-2026/)
+- [Top B.Tech Colleges in India — NIRF Ranking](/blog/top-btech-colleges-india-nirf-ranking-2026/)
+- [Best B.Tech CSE Colleges India 2026](/blog/best-btech-cse-colleges-india-2026/)
+- [Top Private Engineering Colleges India 2026](/blog/top-private-engineering-colleges-india-2026/)
+- [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech/)
 
 ---
 
-**[👉 Need help comparing placement records of B.Tech colleges? Get a FREE expert counselling with Mohit!](/inquiry)**
+**[👉 Need help comparing placement records of B.Tech colleges? Get a FREE expert counselling with Mohit!](/inquiry/)**
 
 
 
@@ -201,6 +201,6 @@ Yes — but with caveats. VIT places ~70% of its 10,000 students. The average is
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

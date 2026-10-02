@@ -98,7 +98,7 @@ Since MHCET 2026 Phase 1 was reported to be of moderate difficulty, the cutoffs 
 | **Welingkar, Mumbai** | 99.40+ | 132+ |
 | **COEP, Pune** | 99.20+ | 128+ |
 
-[👉 Check Now: MHCET MBA 2027–29 Marks vs Percentile Calculator](/calculator/mhcet-mba-2026)
+[👉 Check Now: MHCET MBA 2027–29 Marks vs Percentile Calculator](/calculator/mhcet-mba-2026/)
 
 ---
 
@@ -110,7 +110,7 @@ If you are appearing for Phase 2 on May 9, analyzing the Phase 1 answer key is v
 - Potential "ambiguous" questions that might recur.
 
 **Download our curated analysis PDF:**
-[👉 Get Phase 1 Paper Analysis & Important Topics for Phase 2](/inquiry)
+[👉 Get Phase 1 Paper Analysis & Important Topics for Phase 2](/inquiry/)
 
 ---
 
@@ -119,19 +119,19 @@ If you are appearing for Phase 2 on May 9, analyzing the Phase 1 answer key is v
 If your raw score is looking low (below 100), don't lose hope. There are several high-ROI colleges in Pune and Mumbai that accept CMAT, ATMA, or offer Management Quota seats.
 
 **Related Articles:**
-- [Top MHCET MBA Colleges in Mumbai & Pune](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29)
-- [How to Download MHCET MBA Answer Key PDF Step-by-Step](/blog/how-to-download-mhcet-mba-2026-answer-key-pdf)
-- [Direct MBA Admission in Pune 2027–29](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2027-29)
-- [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2027-29)
+- [Top MHCET MBA Colleges in Mumbai & Pune](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29/)
+- [How to Download MHCET MBA Answer Key PDF Step-by-Step](/blog/how-to-download-mhcet-mba-2026-answer-key-pdf/)
+- [Direct MBA Admission in Pune 2027–29](/blog/under-5-lakhs-mba-colleges-pune-direct-admission-2027-29/)
+- [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
-For personalized counselling and college selection, fill out the [Admission Inquiry Form](/inquiry) and we will guide you through the CAP rounds.
+For personalized counselling and college selection, fill out the [Admission Inquiry Form](/inquiry/) and we will guide you through the CAP rounds.
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -146,6 +146,6 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

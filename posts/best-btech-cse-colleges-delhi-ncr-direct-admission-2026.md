@@ -62,7 +62,7 @@ Under the guidelines set by state governments and university standard bodies, pr
 
 It allows students who scored well in their board exams (above 60% in PCM) but underperformed in entrance tests to still study in premier institutes.
 
-*Read more:* [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection)
+*Read more:* [Is Management Quota Legal? Fraud Protection Guide](/blog/management-quota-legality-fraud-protection/)
 
 ---
 
@@ -70,7 +70,7 @@ It allows students who scored well in their board exams (above 60% in PCM) but u
 
 Here is a curated list of top colleges known for excellent CSE placements, infrastructure, and brand value in the Delhi-NCR region that offer direct admissions:
 
-### 1. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida), Noida
+### 1. [Jaypee Institute of Information Technology (JIIT)](/colleges/jiit-noida/), Noida
 *   **Why Choose JIIT:** Known as a powerhouse for IT and CSE placements in Sector-62 Noida. It consistently attracts massive recruiters like Amazon, Adobe, and Microsoft.
 *   **Admission Process:** Merit-based entry through 10+2 marks for specific NRI/Direct Quota seats. Most seats are JEE-based, so direct seats are limited and highly competitive.
 *   **Average CSE Package:** ₹8 - ₹12 LPA.
@@ -80,7 +80,7 @@ Here is a curated list of top colleges known for excellent CSE placements, infra
 *   **Management Quota:** 10% of seats are reserved under the IPU Management Quota guidelines. Counselors assist with the direct counseling and document verification phase.
 *   **Average CSE Package:** ₹7 - ₹10 LPA.
 
-### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida
+### 3. [Bennett University](/colleges/bennett-greater-noida/), Greater Noida
 *   **Why Choose Bennett:** Backed by the Times Group, Bennett has an ultra-modern campus, heavy funding for startups, and strong ties with Silicon Valley giants.
 *   **Admission Process:** Pro-active direct admission based on 12th board marks (usually requiring >70% PCM) alongside SAT/CUET/JEE valid scores.
 *   **Average CSE Package:** ₹8 - ₹11 LPA.
@@ -90,12 +90,12 @@ Here is a curated list of top colleges known for excellent CSE placements, infra
 *   **Management Quota:** Seats are available under the 15% AKTU management quota rule on a first-come, first-serve basis.
 *   **Average CSE Package:** ₹6 - ₹8 LPA.
 
-### 5. [Amity University, Noida](/colleges/amity-noida)
+### 5. [Amity University, Noida](/colleges/amity-noida/)
 *   **Why Choose Amity:** Vast 1200-acre campus, phenomenal infrastructure, and a huge alumni network. Highly attractive for those wanting a dynamic campus life.
 *   **Admission Process:** Conducts an internal video interview or fast-track direct admission for students scoring >80% in CBSE/ICSE boards.
 *   **Average CSE Package:** ₹5 - ₹8 LPA.
 
-### 6. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
+### 6. [KIET Group of Institutions](/colleges/kiet-ghaziabad/), Ghaziabad
 *   **Why Choose KIET:** Consistently ranks alongside GL Bajaj under AKTU for the best academic results and strict discipline favoring core IT placements.
 *   **Management Quota:** 15% Management quota seats are filled usually right after board exam results.
 *   **Average CSE Package:** ₹5.5 - ₹7.5 LPA.
@@ -118,12 +118,12 @@ Securing a management quota seat in B.Tech CSE requires timely action, as seats 
 3.  **Document Verification:** Prepare your 10th & 12th mark sheets, Aadhar card, migration certificate, and rank cards (if any).
 
 ### Useful Resources for Application
-*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026)
-*   [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech)
+*   [FAQ on B.Tech Admissions 2026](/blog/btech-admissions-faq-2026/)
+*   [Education Loan Guide for B.Tech Students](/blog/education-loan-guide-mba-btech/)
 
 **Avoid Fraudulent Agents:** Never hand over cash to agents claiming guaranteed seats in IITs or NITs—these institutions *DO NOT* have management quotas. Private universities and state-affiliated private colleges are the only legal routes for this admission process.
 
-[👉 Secure your B.Tech CSE seat today. Connect with our Career Counsellors for 100% transparent admission guidance!](/inquiry)
+[👉 Secure your B.Tech CSE seat today. Connect with our Career Counsellors for 100% transparent admission guidance!](/inquiry/)
 
 ---
 
@@ -145,6 +145,6 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
