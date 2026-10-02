@@ -15,13 +15,13 @@ export function MatCbtMockTestClient({ config }: MatCbtMockTestClientProps) {
   const [step, setStep] = useState<'register' | 'quiz' | 'results'>('register');
   const [student, setStudent] = useState<GenericStudentInfo | null>(null);
   const [answers, setAnswers] = useState<MatUserAnswers>({});
-  const [selectedCycle, setSelectedCycle] = useState<string>('Sept MAT 2026');
+  const [selectedCycle, setSelectedCycle] = useState<string>('Dec MAT 2026');
 
   const matCycles = [
-    { label: 'Sept MAT 2026', tag: 'Upcoming' },
-    { label: 'Dec MAT 2026', tag: 'Winter' },
-    { label: 'Feb MAT 2027', tag: 'Spring' },
-    { label: 'May MAT 2027', tag: 'Summer' }
+    { label: 'Dec MAT 2026', tag: 'Primary / Active' },
+    { label: 'Feb MAT 2027', tag: 'Upcoming' },
+    { label: 'May MAT 2027', tag: 'Summer' },
+    { label: 'Sept MAT 2026', tag: 'Archive' }
   ];
 
   const handleRegister = (info: GenericStudentInfo) => {

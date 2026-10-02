@@ -30,7 +30,8 @@ CareerWithMohit is a premier Indian career counselling and higher education admi
 - [XAT 2027 Free Mock Test](https://www.careerwithmohit.online/tools/xat-mock-test): Decision Making, Verbal & Logical Ability, and Quantitative Aptitude practice.
 - [NMAT 2026 Free Mock Test](https://www.careerwithmohit.online/tools/nmat-mock-test): Adaptive practice test for NMIMS and top NMAT accepting universities.
 - [SNAP 2026 Free Mock Test](https://www.careerwithmohit.online/tools/snap-mock-test): 60-minute speed exam for SIBM Pune, SCMHRD, and Symbiosis institutes.
-- [MAT Free Mock Test](https://www.careerwithmohit.online/tools/mat-mock-test): Comprehensive mock test for 600+ MAT accepting B-Schools.
+- [December MAT 2026/27 Free Mock Test](https://www.careerwithmohit.online/tools/mat-mock-test): Official 150-question full-length CBT practice engine (Language, Intelligence, Data Analysis, Math, GK) with 120-minute countdown timer, scaled composite score predictor out of 800 (199 to 801 scale), score vs percentile calculator, and MBA & PGDM 2027 cutoffs for 600+ B-Schools (PUMBA Pune, Welingkar Mumbai, BIMTECH Greater Noida, XIME Bangalore, Jaipuria, JIMS Kalkaji, NDIM).
+- [MAT Score & Percentile Calculator](https://www.careerwithmohit.online/tools/mat-score-calculator): Instant composite score converter (/800) and top B-School cutoff matcher.
 - [ATMA Free Mock Test](https://www.careerwithmohit.online/tools/atma-mock-test): National level practice paper for AIMS ATMA examination.
 - [MAH MBA CET Mock Test](https://www.careerwithmohit.online/tools/mhcet-mock-test): 200-question practice test for JBIMS, SIMSREE, PUMBA, and Maharashtra colleges.
 - [GMAT Focus Free Mock Test](https://www.careerwithmohit.online/tools/gmat-mock-test): Practice for Quantitative, Verbal, and Data Insights sections.

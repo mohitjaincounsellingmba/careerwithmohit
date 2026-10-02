@@ -17,7 +17,11 @@ import {
   Filter,
   Sparkles,
   Zap,
-  Building2
+  Building2,
+  Share2,
+  Copy,
+  Send,
+  ExternalLink
 } from 'lucide-react';
 import { MAT_MOCK_TEST_150, MatQuestion } from '@/data/mat_mock_test_150';
 import { MatUserAnswers, MatSectionKey, MAT_SECTIONS } from './MatExamInterface';
@@ -30,9 +34,16 @@ interface MatScorecardSolutionsProps {
   matCycle?: string;
 }
 
-export function MatScorecardSolutions({ student, answers, onReset, matCycle = 'Sept / Dec / Feb / May MAT' }: MatScorecardSolutionsProps) {
+export function MatScorecardSolutions({ student, answers, onReset, matCycle = 'September MAT 2026/27' }: MatScorecardSolutionsProps) {
   const [sectionFilter, setSectionFilter] = useState<'all' | MatSectionKey>('all');
   const [statusFilter, setStatusFilter] = useState<'all' | 'correct' | 'incorrect' | 'skipped'>('all');
+  const [copied, setCopied] = useState(false);
+
+  const handleCopyLink = () => {
+    navigator.clipboard.writeText('https://careerwithmohit.online/tools/mat-mock-test/');
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2500);
+  };
 
   const analytics = useMemo(() => {
     let totalCorrect = 0;
@@ -223,31 +234,68 @@ export function MatScorecardSolutions({ student, answers, onReset, matCycle = 'S
           </p>
 
           {/* Social Share & Action Buttons */}
-          <div className="pt-2 flex flex-wrap justify-center gap-4">
+          <div className="pt-2 flex flex-wrap justify-center gap-3">
             <button
               onClick={() => {
-                const text = `I scored ${analytics.compositeScore}/800 (${analytics.percentile}%ile) in the MAT Mock Test (${matCycle}) on CareerWithMohit! 🎯 Check your top MBA cutoff eligibility: https://careerwithmohit.online/tools/mock-test/mat/`;
+                const text = `🎯 I scored ${analytics.compositeScore}/800 (${analytics.percentile}%ile) in the ${matCycle} Mock Test on CareerWithMohit! 🚀 Target MBA 2027: Welingkar / PUMBA / BIMTECH. Can you beat my score? Take the free 150 Qs test here: https://careerwithmohit.online/tools/mat-mock-test/`;
                 window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
               }}
-              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#25D366]/20 transition-all active:scale-95"
+              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#25D366]/20 transition-all active:scale-95 hover:scale-105"
             >
               <MessageCircle className="w-4 h-4 fill-white" /> Share on WhatsApp
             </button>
             <button
               onClick={() => {
-                const url = `https://careerwithmohit.online/tools/mock-test/mat/`;
+                const text = `🎯 I scored ${analytics.compositeScore}/800 (${analytics.percentile}%ile) in the ${matCycle} Mock Test on CareerWithMohit! Attempt free here: https://careerwithmohit.online/tools/mat-mock-test/`;
+                window.open(`https://t.me/share/url?url=https://careerwithmohit.online/tools/mat-mock-test/&text=${encodeURIComponent(text)}`, '_blank');
+              }}
+              className="bg-[#229ED9] hover:bg-[#1b8ec3] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#229ED9]/20 transition-all active:scale-95 hover:scale-105"
+            >
+              <Send className="w-4 h-4 fill-white" /> Telegram
+            </button>
+            <button
+              onClick={() => {
+                const url = `https://careerwithmohit.online/tools/mat-mock-test/`;
                 window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`, '_blank');
               }}
-              className="bg-[#0077B5] hover:bg-[#006097] text-white px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#0077B5]/20 transition-all active:scale-95"
+              className="bg-[#0077B5] hover:bg-[#006097] text-white px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-lg shadow-[#0077B5]/20 transition-all active:scale-95 hover:scale-105"
             >
-              <Linkedin className="w-4 h-4 fill-white" /> Share on LinkedIn
+              <Linkedin className="w-4 h-4 fill-white" /> LinkedIn
+            </button>
+            <button
+              onClick={handleCopyLink}
+              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
+            >
+              <Copy className="w-4 h-4" /> {copied ? 'Link Copied! ✅' : 'Copy Test Link'}
             </button>
             <button
               onClick={() => window.print()}
-              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-6 py-3.5 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
+              className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-5 py-3 rounded-2xl font-black text-xs uppercase tracking-widest flex items-center gap-2 shadow-md transition-all active:scale-95"
             >
-              <Download className="w-4 h-4" /> Download / Print Report
+              <Download className="w-4 h-4" /> Save Scorecard (PDF)
             </button>
+          </div>
+
+          {/* Direct 1-on-1 MBA 2027 Admission Callout */}
+          <div className="w-full bg-gradient-to-r from-amber-500/20 via-amber-500/10 to-amber-500/20 border-2 border-amber-400/40 rounded-2xl p-4 md:p-6 mt-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="text-left space-y-1">
+              <p className="text-amber-300 text-xs font-black uppercase tracking-wider flex items-center gap-1.5">
+                <Sparkles className="w-4 h-4 text-amber-400" />
+                <span>Need 1-on-1 MBA / PGDM 2027 Admission Guidance?</span>
+              </p>
+              <p className="text-xs text-slate-300 font-medium">
+                Talk to Mohit Jain (IIM Bangalore & FMS Delhi Certified Mentor) for shortlisting colleges matching your {analytics.compositeScore} composite score.
+              </p>
+            </div>
+            <a
+              href={`https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20My%20name%20is%20${encodeURIComponent(student.name)}.%20I%20scored%20${analytics.compositeScore}%2F800%20(${analytics.percentile}%20percentile)%20in%20the%20${encodeURIComponent(matCycle)}%20Mock%20Test.%20Please%20guide%20me%20for%20MBA%2FPGDM%202027%20admissions.`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#25D366] hover:bg-[#20bd5a] text-white px-6 py-3 rounded-xl font-black text-xs uppercase tracking-wider flex items-center gap-2 shadow-lg shadow-[#25D366]/30 transition-transform hover:scale-105 shrink-0 whitespace-nowrap"
+            >
+              <MessageCircle className="w-4 h-4 fill-white" />
+              <span>Get Free Admission Advice</span>
+            </a>
           </div>
         </div>
       </div>

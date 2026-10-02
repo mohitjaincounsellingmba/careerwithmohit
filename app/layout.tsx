@@ -100,6 +100,13 @@ export const metadata: Metadata = {
     images: ["/og-image.webp"],
   },
 
+  alternates: {
+    canonical: "https://careerwithmohit.online/",
+    languages: {
+      "en-IN": "https://careerwithmohit.online/",
+      "x-default": "https://careerwithmohit.online/",
+    },
+  },
   robots: {
     index: true,
     follow: true,
@@ -115,10 +122,12 @@ export const metadata: Metadata = {
     "p:domain_verify": "4c9220342f1f166f04405394b2d6335e",
     "google-adsense-account": "ca-pub-4699585931687069",
     "geo.region": "IN-DL",
-    "geo.placename": "Delhi NCR, India",
+    "geo.placename": "New Delhi, Delhi NCR, India",
     "geo.position": "28.6139;77.2090",
     "ICBM": "28.6139, 77.2090",
-    "coverage": "Pan India, Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Jaipur, Kolkata, Chennai, Ahmedabad",
+    "content-language": "en-IN",
+    "target_country": "IN",
+    "coverage": "Pan India, Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Jaipur, Kolkata, Chennai, Ahmedabad, Chandigarh",
     "distribution": "Global",
     "rating": "General",
     "ai-content-declaration": "human-authored-expert-guidance"
@@ -215,8 +224,10 @@ export default function RootLayout({
     },
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Delhi NCR",
+      "streetAddress": "Connaught Place / South Extension, Delhi NCR",
+      "addressLocality": "New Delhi",
       "addressRegion": "Delhi",
+      "postalCode": "110001",
       "addressCountry": "IN"
     },
     "geo": {
@@ -224,8 +235,58 @@ export default function RootLayout({
       "latitude": "28.6139",
       "longitude": "77.2090"
     },
+    "currenciesAccepted": "INR",
+    "paymentAccepted": "Cash, Credit Card, Debit Card, UPI, Net Banking, EMI",
+    "priceRange": "₹₹",
     "areaServed": [
-      "Delhi NCR", "Noida", "Gurgaon", "Pune", "Mumbai", "Bangalore", "Hyderabad", "Jaipur", "Kolkata", "Chennai", "Ahmedabad", "Chandigarh", "Pan India"
+      {
+        "@type": "Country",
+        "name": "India"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Delhi NCR"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Maharashtra"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Karnataka"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Uttar Pradesh"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Haryana"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Rajasthan"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Telangana"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Tamil Nadu"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "West Bengal"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Gujarat"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Punjab"
+      }
     ],
     "openingHoursSpecification": [
       {
@@ -285,8 +346,7 @@ export default function RootLayout({
           }
         }
       ]
-    },
-    "priceRange": "$$"
+    }
   };
 
   const websiteData = {
@@ -307,7 +367,7 @@ export default function RootLayout({
       },
       "query-input": "required name=search_term_string"
     },
-    "inLanguage": "en-IN"
+    "inLanguage": ["en-IN", "hi-IN"]
   };
 
   const speakableData = {
@@ -323,11 +383,12 @@ export default function RootLayout({
         "#ai-fast-facts"
       ]
     },
-    "url": "https://careerwithmohit.online"
+    "url": "https://careerwithmohit.online",
+    "inLanguage": "en-IN"
   };
 
   return (
-    <html lang="en">
+    <html lang="en-IN">
       <head>
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />

@@ -51,6 +51,11 @@ const DETAILED_FAQS = {
     { question: "Is there negative marking in SNAP 2026?", answer: "Yes, each correct answer awards +1 mark and every wrong response deducts 0.25 marks." },
     { question: "What score is needed for SIBM Pune in SNAP?", answer: "A score of 42-44+ out of 60 (98.5+ percentile) is generally needed to receive a call for GE-PI-WAT from SIBM Pune." }
   ],
+  mat: [
+    { question: "What is the exam pattern of the December MAT 2026/2027 exam?", answer: "MAT consists of 150 questions across 5 sections (Language, Intelligence, Data Analysis, Math, and Economic & Business Environment) with 30 questions each and a 120-minute time limit." },
+    { question: "How is the MAT composite score calculated out of 800?", answer: "The composite score is derived from the first 4 core sections (120 marks). Each correct answer awards +1.00 and wrong answers deduct 0.25 marks, statistically scaled onto a 199 to 801 scale." },
+    { question: "Which top MBA colleges accept December MAT scores for 2027 admissions?", answer: "Top institutes include PUMBA Pune (95+%ile), Welingkar Mumbai (95+%ile), BIMTECH Greater Noida (90+%ile), XIME Bangalore (90+%ile), Jaipuria Institute of Management (85+%ile), and JIMS Kalkaji (85+%ile)." }
+  ],
   xat: [
     { question: "What is unique about the XAT exam?", answer: "XAT includes a mandatory Decision Making section and an Essay Writing component, evaluating analytical skills for leadership programs at XLRI." },
     { question: "Is there negative marking for unattempted questions in XAT?", answer: "Yes, in XAT, a minor penalty of -0.10 marks per question applies if more than 8 consecutive questions are left unattempted." },

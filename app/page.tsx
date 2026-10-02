@@ -114,6 +114,10 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: "https://careerwithmohit.online/",
+    languages: {
+      "en-IN": "https://careerwithmohit.online/",
+      "x-default": "https://careerwithmohit.online/",
+    },
   },
   openGraph: {
     title: "Find Top Colleges, Exams & Admission Guidance in India | CareerWithMohit",

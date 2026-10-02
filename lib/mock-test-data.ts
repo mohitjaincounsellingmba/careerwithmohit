@@ -982,17 +982,17 @@ export const EXAM_CONFIGS: ExamConfig[] = [
   {
     id: 'mat',
     slug: 'mat',
-    name: 'MAT 2026/27 (Sept, Dec, Feb, May)',
+    name: 'MAT 2026/27 (Dec, Feb, May, Sept)',
     durationMinutes: 120,
     totalQuestions: 150,
     targetColleges: 'PUMBA, Welingkar, BIMTECH, XIME, JIMS, Jaipuria, Christ',
     goodScore: '650+ Composite (95+%ile)',
-    seoTitle: 'Free MAT Mock Test 2026/27 | Sept, Dec, Feb & May MAT CBT Practice',
-    seoDescription: 'Take our free full-length MAT exam mock test for Sept MAT, Dec MAT, Feb MAT, and May MAT. 150 questions, 120 minutes with Language, Intelligence, Data Analysis, Math, and Indian/Global Environment.',
+    seoTitle: 'Free MAT Mock Test 2026/27 | Dec, Feb, May & Sept MAT CBT Practice',
+    seoDescription: 'Take our free full-length MAT exam mock test for Dec MAT, Feb MAT, May MAT, and Sept MAT. 150 questions, 120 minutes with Language, Intelligence, Data Analysis, Math, and Indian/Global Environment.',
     keywords: [
-      'MAT mock test 2026', 'Sept MAT mock test', 'Dec MAT mock test', 'Feb MAT mock test', 'May MAT mock test',
+      'MAT mock test 2026', 'Dec MAT mock test', 'December MAT mock test 2026', 'Feb MAT mock test', 'May MAT mock test',
       'free MAT test series online', 'MAT score vs percentile calculator', 'MAT composite score 800',
-      'PUMBA MAT cutoff', 'Welingkar MAT cutoff', 'BIMTECH MAT cutoff'
+      'PUMBA Dec MAT cutoff', 'Welingkar Dec MAT cutoff', 'BIMTECH MAT cutoff'
     ],
     sections: [
       { id: 'language', label: 'Language Comprehension', questionCount: 30 },
