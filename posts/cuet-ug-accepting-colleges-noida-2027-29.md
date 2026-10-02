@@ -53,7 +53,7 @@ If you are a student targeting **Noida for the 2026-27 session**, here are the t
 
 ---
 
-### **1. [Amity University, Noida](/colleges/amity-university-noida)**
+### **1. [Amity University, Noida](/colleges/amity-noida)**
 One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.

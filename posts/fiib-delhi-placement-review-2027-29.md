@@ -48,7 +48,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
+[Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB) Delhi is a fast-growing B-school known for its intense focus on experiential learning and global exposure. With a consistent 96% placement rate, it remains a strong choice for management aspirants.
 
 ### 📊 FIIB Delhi 2025 SnapShot
 

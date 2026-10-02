@@ -66,11 +66,16 @@ export function getAllColleges(): CollegeMetadata[] {
   }
 
   const existingSlugs = new Set(markdownColleges.map((c) => c.slug));
+  const existingNames = new Set(
+    markdownColleges.map((c) => (c.name || '').toLowerCase().replace(/[^a-z0-9]/g, ''))
+  );
   const fallbackColleges: CollegeMetadata[] = [];
 
   MBA_PGDM_COLLEGES_2027.forEach((item) => {
-    const slug = item.slug || item.universitySlug;
-    if (slug && !existingSlugs.has(slug)) {
+    const slug = item.universitySlug || (item.slug ? item.slug.replace(/^blog\//, '') : '');
+    const cleanName = (item.name || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+
+    if (slug && !existingSlugs.has(slug) && !existingNames.has(cleanName)) {
       fallbackColleges.push({
         slug,
         name: item.name,
@@ -91,6 +96,7 @@ export function getAllColleges(): CollegeMetadata[] {
         website: 'https://careerwithmohit.online',
         top_recruiters: item.topRecruiters || ['Deloitte', 'KPMG', 'ICICI Bank', 'Amazon'],
       });
+      existingSlugs.add(slug);
     }
   });
 
@@ -116,7 +122,7 @@ export async function getCollegeBySlug(slug: string): Promise<College | null> {
 
     // Check in MBA_PGDM_COLLEGES_2027 dataset
     const item = MBA_PGDM_COLLEGES_2027.find(
-      (c) => (c.slug || c.universitySlug) === slug
+      (c) => c.universitySlug === slug || (c.slug && c.slug.replace(/^blog\//, '') === slug)
     );
 
     if (item) {

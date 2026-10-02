@@ -78,7 +78,7 @@ Most private colleges affiliated with state universities (such as IP University)
 
 If you want to skip the entrance exams, consider targeting these institutions:
 
-### 1. [Amity University, Noida](/colleges/amity-university-noida)
+### 1. [Amity University, Noida](/colleges/amity-noida)
 Amity offers direct admission to its popular BBA program for students with excellent academic records.
 - **Criteria:** Direct admission (without test/interview) is often offered to candidates scoring above 80% to 85% aggregate in Class 12th. Other candidates undergo an English test and PI.
 

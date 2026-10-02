@@ -76,7 +76,7 @@ If your primary focus is landing a high-paying corporate role right after gradua
 *   **Why it wins**: While BIMTECH's flagship PGDM accepts CAT/XAT, their specialized programs in **Retail Management (RM)** and **Insurance Business Management (IBM)** accept MAT scores. These programs enjoy the same centralized placement drive, bringing in a robust **average package of ₹11.10 LPA**.
 *   **Best For**: Insurance and Retail sectors.
 
-### 2. [NDIM Delhi ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))](/colleges/ndim-delhi)
+### 2. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi))](/colleges/ndim-delhi)
 *   **Why it wins**: NDIM is renowned for its excellent industry linkages and corporate exposure. The campus offers an **average package of ₹9.50 LPA** with a 100% placement track record since inception.
 *   **Best For**: Marketing and Finance.
 
@@ -120,7 +120,7 @@ Don't make your decision based on generic brochures. Let's find your best-fit B-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which MAT accepting B-school has the best placement?
-[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) Noida, BIMTECH Greater Noida, and [XIME Bangalore](/colleges/xime-bangalore) are among the best MAT-accepting colleges for placements, with average packages ranging from ₹10.00 LPA to ₹12.88 LPA.
+[Jaipuria Institute of Management](/colleges/jaipuria-jaipur) Noida, BIMTECH Greater Noida, and [XIME Bangalore](/colleges/xime-bangalore) are among the best MAT-accepting colleges for placements, with average packages ranging from ₹10.00 LPA to ₹12.88 LPA.
 
 ### Can I get direct admission in MBA through MAT?
 Yes, several private B-schools accept MAT scores for admissions and also offer profile-based or direct MBA/PGDM admissions based on your academic background and interview performance.

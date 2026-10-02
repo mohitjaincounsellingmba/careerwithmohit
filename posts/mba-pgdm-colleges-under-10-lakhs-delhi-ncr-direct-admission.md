@@ -43,7 +43,7 @@ With the soaring costs of management education, finding a B-school that offers a
 Here is a curated list of the **top MBA and PGDM colleges in Delhi NCR with a fee structure under ₹10 Lakhs** that offer direct admission for the 2027–29 batch.
 
 ### **1. JIMS (Kalkaji & Rohini)**
-[Jagannath International Management School](/colleges/jagannath-international-management-school) (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
+[Jagannath International Management School](/colleges/jims-kalkaji) (JIMS) is a brand name in Delhi, known for its strong corporate connect and excellent PGDM programs.
 *   **Total Fees (Approx.)**: ₹9.00 - ₹9.50 Lakhs
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: High academic rigor, robust alumni network, and specialization in International Business and Retail.

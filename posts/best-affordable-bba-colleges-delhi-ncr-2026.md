@@ -65,7 +65,7 @@ As a central university, Jamia Millia Islamia offers an incredibly low fee struc
 - **Entrance Exam:** JMI Entrance Exam
 - **Why it fits:** Extremely affordable with solid placements in marketing, HR, and consulting.
 
-### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Delhi
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Delhi
 MAIMS, affiliated with GGSIPU, is an excellent choice for student seeking structured IP University education within a reasonable budget.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.5 LPA
@@ -86,7 +86,7 @@ Another reputed constituent college of Delhi University that offers a highly com
 - **Entrance Exam:** CUET UG
 - **Why it fits:** Exceptional ROI with Delhi University's central branding.
 
-### 6. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi) - Delhi
+### 6. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini) - Delhi
 JIMS Rohini offers an industry-centric BBA curriculum under IP University with a robust alumni base.
 - **Total Program Fees (3 Years):** ~₹3.5 Lakhs
 - **Average Placement Package:** ₹4.5 LPA

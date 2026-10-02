@@ -1,5 +1,5 @@
 ---
-name: Jaipuria Institute of Management
+name: 'Jaipuria Institute of Management, Indore'
 logo: ''
 location: Indore
 category: Management

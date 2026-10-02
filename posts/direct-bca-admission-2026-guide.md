@@ -73,7 +73,7 @@ Many leading private universities like **Amity, Galgotias, and LPU** have done a
 | **Alliance University** | Bangalore | ₹6.0 - 8.0 Lakhs | ₹4.5 - 7.0 LPA |
 | **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | ₹2.2 - 3.5 Lakhs | ₹3.5 - 5.5 LPA |
 | **[Poornima University](/colleges/poornima-jaipur)** | Jaipur | ₹2.2 - 3.0 Lakhs | ₹3.8 - 5.5 LPA |
-| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
+| **[GD Goenka University](/colleges/gd-goenka-gurgaon)** | Gurgaon | ₹3.5 - 5.0 Lakhs | ₹3.8 - 5.2 LPA |
 | **Indira College** | Pune | ₹2.5 - 3.2 Lakhs | ₹3.5 - 5.0 LPA |
 | **SRM University** | Multiple | ₹4.5 - 6.0 Lakhs | ₹4.0 - 6.0 LPA |
 

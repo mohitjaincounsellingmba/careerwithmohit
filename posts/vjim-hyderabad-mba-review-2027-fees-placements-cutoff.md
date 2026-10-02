@@ -103,7 +103,7 @@ Here is a consolidated overview of **[Vignana Jyothi Institute of Management (VJ
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **[Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM Hyderabad)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad) (VJIM Hyderabad)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.
@@ -136,7 +136,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **[Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad) (VJIM Hyderabad)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.20 LPA**
@@ -165,7 +165,7 @@ The academic structure at **[Vignana Jyothi Institute of Management (VJIM Hydera
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **[Vignana Jyothi Institute of Management](/colleges/vignana-jyothi-institute-of-management) (VJIM Hyderabad)** compares against peer business schools in its category:
+Here is how **[Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad) (VJIM Hyderabad)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

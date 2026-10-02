@@ -97,7 +97,7 @@ BIMTECH (Knowledge Park II)                                  GL Bajaj (GLBIMR), 
 - Strong Insurance & Retail Leadership                       - Strong Mid-Tier Placement ROIs
 ```
 
-### 1. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
+### 1. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
 - **Accreditation & Heritage**: Founded in 1988 by the Basant Kumar Birla and Sarala Birla Group, BIMTECH holds prestigious **AACSB international accreditation** (awarded to less than 5% of B-schools globally).
 - **Specialization Strengths**: Pioneering programs in International Business (IB), Insurance Business Management (IBM), and Retail Management (RM).
 - **Top Recruiters**: Marsh India, Swiss Re, KPMG, EY, Infosys, Reliance Retail, Aditya Birla Group, Titan, ICICI Lombard.

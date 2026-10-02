@@ -55,7 +55,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 | **SIBM Bengaluru** (MBA Business Analytics) | ₹18.50L - ₹19.80L | ₹13.48 LPA - ₹14.50 LPA | SNAP (90+ %ile) + Min 50% in Graduation |
 | **[JAGSoM Bangalore](/colleges/jagsom-bangalore)** (PGDM Business Analytics) | ₹15.95 Lakhs | ₹13.30 LPA - ₹14.00 LPA | CAT / XAT / GMAT / NMAT / CMAT (AACSB Global) |
 | **[Christ University](/colleges/christ-university-bangalore)** (MBA Business Analytics) | ₹9.50L - ₹11.50L | ₹8.50 LPA - ₹10.20 LPA | CAT / MAT / XAT / CMAT / ATMA / CUET |
-| **[Alliance University](/colleges/alliance-school-of-business-alliance-university)** (MBA Business Analytics) | ₹15.00 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / NMAT / XAT / AMAT / CMAT (65%+ %ile) |
+| **[Alliance University](/colleges/alliance-university-bangalore)** (MBA Business Analytics) | ₹15.00 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / NMAT / XAT / AMAT / CMAT (65%+ %ile) |
 | **ISBR Business School** (PGDM Business Analytics & AI) | ₹10.50 Lakhs | ₹8.20 LPA - ₹9.00 LPA | CAT / XAT / MAT / CMAT / ISBR Aptitude Test |
 | **CMS Business School (JAIN University)** (MBA BA) | ₹10.80L - ₹12.50L | ₹7.50 LPA - ₹8.50 LPA | JET / CAT / MAT / CMAT / NMAT |
 
@@ -105,7 +105,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 
 ---
 
-### 5. [Alliance School of Business (Alliance University)](/colleges/alliance-school-of-business-alliance-university)
+### 5. [Alliance School of Business (Alliance University)](/colleges/alliance-university-bangalore)
 - **Flagship Offering**: MBA with Specialization in Business Analytics
 - **Total Tuition Fee**: ₹15.00 Lakhs
 - **Placement Performance**: Average CTC ₹8.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹26.10 LPA

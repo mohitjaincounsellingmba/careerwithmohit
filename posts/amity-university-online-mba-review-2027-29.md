@@ -43,7 +43,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-**[Amity University](/colleges/amity-noida) Online MBA** is one of the most recognized online management programs in India, offered by [Amity University, Noida](/colleges/amity-university-noida) — which holds **NAAC A+ accreditation**. With 15+ specializations and a globally recognized degree, it remains a top choice for working professionals in 2027–29.
+**[Amity University](/colleges/amity-noida) Online MBA** is one of the most recognized online management programs in India, offered by [Amity University, Noida](/colleges/amity-noida) — which holds **NAAC A+ accreditation**. With 15+ specializations and a globally recognized degree, it remains a top choice for working professionals in 2027–29.
 
 This is a detailed, honest review covering real fees, placement outcomes, and who should (and shouldn't) consider this program.
 
@@ -53,7 +53,7 @@ This is a detailed, honest review covering real fees, placement outcomes, and wh
 
 | Feature | Details |
 | :--- | :--- |
-| **University** | [Amity University, Noida](/colleges/amity-university-noida) |
+| **University** | [Amity University, Noida](/colleges/amity-noida) |
 | **NAAC Grade** | **A+** |
 | **UGC-DEB Approved** | ✅ Yes |
 | **Duration** | 2 Years (4 Semesters) |

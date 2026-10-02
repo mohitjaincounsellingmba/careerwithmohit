@@ -71,7 +71,7 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2027–
 | **DY Patil B-School, Tathawade Pune** | ₹8.50 Lakhs | ₹7.20 LPA | MAT / CMAT / CAT 2026 / ATMA |
 | **ISBS Pune (Indira School of Business)** | ₹9.20 Lakhs | ₹7.80 LPA | MAH-CET / CMAT / MAT / CAT 2026 |
 | **[ISMS Pune](/colleges/isms-pune) (International School of Mgmt)** | ₹6.50 Lakhs | ₹6.50 LPA | MAT / CMAT / CAT 2026 / Direct GD-PI |
-| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
+| **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management-mass-communication) (SIMMC)** | ₹6.50 Lakhs | ₹6.00 LPA | MAH-CET / MAT / CMAT / CAT 2026 |
 
 ---
 

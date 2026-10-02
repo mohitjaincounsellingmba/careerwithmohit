@@ -56,7 +56,7 @@ state: Delhi NCR
 
 ---
 
-### 📊 [GD Goenka University](/colleges/gd-goenka-university), Gurgaon 2026 Snapshot
+### 📊 [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurgaon 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -85,19 +85,19 @@ state: Delhi NCR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon) a good option for PGDM/MBA?
-Yes, [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurgaon is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)?
-The average placement package at [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is approximately ₹9.0 LPA, with the highest package reaching up to ₹35.0 LPA.
+The average placement package at [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurgaon is approximately ₹9.0 LPA, with the highest package reaching up to ₹35.0 LPA.
 
 ### 3. What entrance exams are accepted by [GD Goenka University, Gurgaon](/colleges/gd-goenka-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, MAT, GMAT, Goenka Aptitude Test for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [GD Goenka University](/colleges/gd-goenka-university), Gurgaon is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurgaon is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to [GD Goenka University](/colleges/gd-goenka-university), Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurgaon](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

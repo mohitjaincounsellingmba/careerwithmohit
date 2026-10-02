@@ -1,7 +1,7 @@
 ---
 name: Chandragupt Institute of Management Patna (CIMP)
 logo: /logo.webp
-location: Ahmedabad
+location: 'Patna, Bihar'
 category: Management
 type: Institute
 courses:

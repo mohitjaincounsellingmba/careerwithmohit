@@ -51,7 +51,7 @@ state: Delhi NCR
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-Choosing the right undergraduate management program is a critical career decision. In Delhi NCR, three institutions are frequently on the radar of BBA aspirants, yet they represent entirely different educational routes: **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**, **[Amity University, Noida](/colleges/amity-university-noida)**, and **Shaheed Sukhdev College of Business Studies (SSCBS)**.
+Choosing the right undergraduate management program is a critical career decision. In Delhi NCR, three institutions are frequently on the radar of BBA aspirants, yet they represent entirely different educational routes: **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)**, **[Amity University, Noida](/colleges/amity-noida)**, and **Shaheed Sukhdev College of Business Studies (SSCBS)**.
 
 This comparative guide will help you understand their differences and decide which college fits your goals, learning style, and budget.
 
@@ -69,7 +69,7 @@ JMI is a historic central university in Delhi. It offers a classic university ex
 - **Vibe:** Socially diverse, traditional campus life, public university structure.
 - **Best for:** Marketing, HR, Public Sector preparation, and affordable learning.
 
-### 3. [Amity University, Noida](/colleges/amity-university-noida)
+### 3. [Amity University, Noida](/colleges/amity-noida)
 Amity Noida is a massive, premium private university. It offers state-of-the-art campus facilities, flexible academic pathways, and international collaboration options.
 - **Vibe:** Modern lifestyle, networking-heavy, corporate ties, expansive infrastructure.
 - **Best for:** Entrepreneurship, family businesses, and global study options.

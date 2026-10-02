@@ -85,7 +85,7 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 
 ## In-Depth Analysis of Top Colleges
 
-### 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH), Greater Noida
+### 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH), Greater Noida
 * **Accreditation:** AACSB International Accreditation, NBA, AICTE approved, AIU MBA equivalence.
 * **Flagship Courses:** PGDM, PGDM International Business (IB), PGDM Retail Management, PGDM Insurance Business Management (IBM).
 * **Placements:** Consistently attracts marquee BFSI and consulting firms like Deloitte, EY, KPMG, Marsh McLennan, and Aditya Birla Group. Read our full analysis at [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida).
@@ -94,8 +94,8 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 * **Legacy:** Over 34 years of excellence in management education in NCR.
 * **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies](/blog/all-about-institute-of-management-studies).
 
-### 3. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
-* **Value Proposition:** Offering the highest ROI in Knowledge Park II with dual specializations, global immersion options, and 100% placement tracking. Check [All About GNIOT GIMS](/colleges/gniot-institute-of-management-studies-gims).
+### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
+* **Value Proposition:** Offering the highest ROI in Knowledge Park II with dual specializations, global immersion options, and 100% placement tracking. Check [All About GNIOT GIMS](/colleges/gniot-greater-noida).
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
 * **Highlights:** Excellent industry-oriented training, strong alumni presence across IT and FMCG sectors, and transparent placement auditing. Check [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida).

@@ -92,7 +92,7 @@ In this comprehensive, data-backed **[Jaipuria Noida](/colleges/jaipuria-noida) 
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution Name** | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida** |
+| **Institution Name** | **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida** |
 | **Establishment Year** | 2004 (79-Year Legacy of Jaipuria Educational Group) |
 | **Campus Location** | A-32A, Sector 62, Institutional Area, Noida - 201309 |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |
@@ -261,7 +261,7 @@ The total course fee is **₹16,50,000**, payable in six trimester-based install
 ### What is the average and highest placement package at Jaipuria Noida?
 The overall average placement package is **₹11.29 LPA**, with the top 10% securing an average of **₹14.70 LPA**. The highest domestic package achieved is **₹24.11 LPA**.
 
-### Is [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-noida) accredited by AACSB?
+### Is [Jaipuria Institute of Management](/colleges/jaipuria-noida) accredited by AACSB?
 Jaipuria is an official member of the **AACSB Business Education Alliance** and holds **NBA accreditation** and **AIU MBA Equivalence**.
 
 ### How many seats are available at Jaipuria Noida?

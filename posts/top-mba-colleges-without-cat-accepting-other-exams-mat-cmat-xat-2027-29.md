@@ -97,7 +97,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 *   **Average Placement:** ₹26.63 LPA | Highest: ₹67.80 LPA | Total Fees: ₹24.00 Lakhs.
 *   **Why It's Elite:** Prime corporate location in Vile Parle, Mumbai, AACSB international accreditation, and extensive finance/consulting hiring.
 
-### 4. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 4. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
 *   **Admission Route:** MAH MBA CET (for Maharashtra & All-India seats) & CAT/CMAT.
 *   **Average Placement:** ₹28.02 LPA | Total Fees: ₹6.00 Lakhs (Unmatched High ROI!).
 *   **Why It's Elite:** Known as the "CEO Factory of India", located in Churchgate next to Nariman Point financial district.

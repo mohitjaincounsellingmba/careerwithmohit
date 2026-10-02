@@ -76,7 +76,7 @@ A premium co-ed private institution with a strong focus on student safety.
 - **Hostel:** High-end, secure, on-campus hostels exclusively for female students.
 - **Placements:** Consistently high placements in marketing, consulting, and business analytics.
 
-### 4. [Amity University, Noida](/colleges/amity-university-noida)
+### 4. [Amity University, Noida](/colleges/amity-noida)
 Amity features a secure, self-contained campus with comprehensive security protocols.
 - **Safety Measures:** Sprawling, fully fenced campus with round-the-clock security checkpoints, biometric hostel entries, and internal security patrols.
 - **Hostel:** Dedicated hostel blocks for female students with strictly monitored curfew hours.

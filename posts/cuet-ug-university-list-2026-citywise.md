@@ -83,7 +83,7 @@ Mumbai offers a mix of prestigious public institutes and state-of-the-art privat
 
 *   **Tata Institute of Social Sciences (TISS):** Premier institute for social sciences.
 *   **SNDT Women’s University:** India’s first women’s university.
-*   **[Amity University, Mumbai](/colleges/amity-university-mumbai):** Offers diverse UG programs with global exposure.
+*   **[Amity University, Mumbai](/colleges/amity-mumbai):** Offers diverse UG programs with global exposure.
 *   **Chhatrapati Shivaji Maharaj University:** A growing hub for multidisciplinary studies.
 *   **Somaiya Vidyavihar University:** Known for its engineering and management focus.
 
@@ -129,7 +129,7 @@ The silicon valley of India has a high demand for merit-based admissions through
 *   **Dr. B.R. Ambedkar School of Economics (BASE):** Highly reputed for specialized economics courses.
 *   **Christ University (Specific Programs):** Known for its rigorous academic culture.
 *   **[Jain University](/colleges/jain-university) (Deemed-to-be):** Popular for its sports and entrepreneurship focus.
-*   **[PES University](/colleges/pes-university):** A tech-heavy university that considers CUET for specific tracks.
+*   **[PES University](/colleges/pesu-bangalore):** A tech-heavy university that considers CUET for specific tracks.
 
 [👉 Detailed Guide: CUET UG Accepting Colleges in Bangalore 2026](/blog/cuet-ug-accepting-colleges-bangalore-2027-29)
 

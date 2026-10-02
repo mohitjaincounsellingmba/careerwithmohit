@@ -1,5 +1,5 @@
 ---
-name: IILM Academy of Higher Learning
+name: 'IILM Academy of Higher Learning, Jaipur'
 logo: ''
 location: Jaipur
 category: Management

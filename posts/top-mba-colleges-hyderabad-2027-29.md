@@ -98,7 +98,7 @@ If you have a CAT/XAT score between 75-90 percentile, Hyderabad offers excellent
 
 Hyderabad has several hidden gems that are safe bets for students with mid-range academic profiles:
 
-- **IPE Hyderabad ([Institute of Public Enterprise](/colleges/institute-of-public-enterprise)):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
+- **IPE Hyderabad ([Institute of Public Enterprise](/colleges/ipe-hyderabad)):** Located in the heart of the city (Osmania University Campus). Incredible history and strong placements particularly in PSUs and Banks.
 - **Woxsen University:** A premium private university with world-class faculty and industry-first curriculum in Business and AI.
 - **Osmania University (DoMS):** The ROI champion of Hyderabad. Fees are almost negligible compared to private players.
 

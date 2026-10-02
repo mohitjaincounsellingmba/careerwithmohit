@@ -348,7 +348,7 @@ export const MEGA_MENU_DATA: MegaMenuItem[] = [
         location: 'Vellore & Chennai',
         badge: 'NIRF Top 10',
         badgeColor: 'bg-purple-50 text-purple-700 border-purple-200',
-        href: '/colleges/vit-vellore',
+        href: '/colleges/vit-vellore-campus',
         packageInfo: 'Super Dream Placements ₹1 Cr+',
         ranking: 'Institute of Eminence (IoE)',
       },

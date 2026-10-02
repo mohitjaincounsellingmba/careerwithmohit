@@ -40,7 +40,7 @@ category: BCA/MCA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-With the rapid rise of the digital economy, a Bachelor of Computer Applications (BCA) is no longer just about basic coding. It’s about specialization in AI, Data Analytics, and Cloud Computing. **[GD Goenka University](/colleges/gd-goenka-university) (GDGU)**, located on Sohna Road, Gurgaon, has positioned its BCA program as a "future-ready" degree with strong industry tie-ups.
+With the rapid rise of the digital economy, a Bachelor of Computer Applications (BCA) is no longer just about basic coding. It’s about specialization in AI, Data Analytics, and Cloud Computing. **[GD Goenka University](/colleges/gd-goenka-gurgaon) (GDGU)**, located on Sohna Road, Gurgaon, has positioned its BCA program as a "future-ready" degree with strong industry tie-ups.
 
 In this **GD Goenka BCA Review 2027–29**, we analyze the fees, the "Microsoft-integrated" curriculum, and whether the placement ROI justifies the premium cost.
 

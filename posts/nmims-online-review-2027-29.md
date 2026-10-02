@@ -38,7 +38,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
+**NMIMS Global Access (NMIMS Online)** is arguably India's most prestigious online management institution, backed by the legendary **Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (Mumbai)**. As a top-5 private business school brand, NMIMS brings its academic rigor and heavy corporate influence to students across India.
 
 Enrolling in the 2026 session gives you access to a premium ecosystem with an elite brand that hiring managers and HR teams immediately recognize.
 

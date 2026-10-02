@@ -99,7 +99,7 @@ With a legacy spanning nearly three decades, ITS Mohan Nagar is a prime choice f
 *   **Key Highlights:** Robust alumni network across North India with continuous MDPs, corporate guest lectures, and placement drives.
 *   **Average CTC:** ₹7.20 LPA.
 
-### 3. FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), New Delhi
+### 3. FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi)), New Delhi
 Located in Vasant Vihar, South Delhi, FIIB offers specialized PGDM in **Financial Management, Marketing, Operations, and Business Analytics**.
 *   **Key Highlights:** Central Delhi location advantage, strong mentoring system, and extensive career development cell.
 *   **Average CTC:** ₹8.50 LPA.

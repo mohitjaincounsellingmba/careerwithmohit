@@ -69,7 +69,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
     *   **MAH CET Cutoff**: 80+ Percentile
     *   **Total Fees**: ₹10.80 Lakhs
     *   **Avg. Placement**: ₹8.75 LPA
-*   **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management) (SIMMC)**
+*   **[Suryadatta Institute of Management](/colleges/suryadatta-institute-of-management-mass-communication) (SIMMC)**
     *   **MAH CET Cutoff**: 75-80 Percentile
     *   **Total Fees**: ₹7.50 Lakhs
     *   **Avg. Placement**: ₹5.50 LPA
@@ -97,7 +97,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
 Mumbai, the financial capital of India, is home to some of the highest-ranked B-schools in the country.
 
 ### Top Government / University Colleges
-*   **[Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)](/colleges/jbims-mumbai)**
+*   **[Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida) (JBIMS)](/colleges/jbims-mumbai)**
     *   **MAH CET Cutoff**: 99.99 Percentile
     *   **Total Fees**: ₹6.50 Lakhs
     *   **Avg. Placement**: ₹28.00 LPA
@@ -131,7 +131,7 @@ Mumbai, the financial capital of India, is home to some of the highest-ranked B-
     *   **MAH CET Cutoff**: 94 Percentile
     *   **Total Fees**: ₹3.20 Lakhs
     *   **Avg. Placement**: ₹5.50 LPA
-*   **Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies)**
+*   **Rizvi [Institute of Management Studies](/colleges/ims-noida)**
     *   **MAH CET Cutoff**: 96 Percentile
     *   **Total Fees**: ₹3.80 Lakhs
     *   **Avg. Placement**: ₹6.00 LPA

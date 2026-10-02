@@ -48,7 +48,7 @@ category: Exams
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹17.50 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.
+[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) has established itself as one of the most reliable PGDM colleges in Delhi NCR, especially for students seeking strong corporate exposure. With a consistent 100% placement record, it remains a top choice for management aspirants.
 
 ### 📊 NDIM Delhi 2025 Placement Snapshot
 

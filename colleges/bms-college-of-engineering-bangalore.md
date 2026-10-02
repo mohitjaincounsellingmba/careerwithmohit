@@ -1,6 +1,6 @@
 ---
 name: BMS College of Engineering (BMSCE)
-logo: ''
+logo: /colleges/bmsce-logo.webp
 location: Bangalore
 state: Karnataka
 category: Engineering

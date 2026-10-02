@@ -40,14 +40,14 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)**
+### **College Review: [JK Business School,Gurugram](/colleges/jkbs-gurgaon)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) 2026 Snapshot
+### 📊 [JK Business School,Gurugram](/colleges/jkbs-gurgaon) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -75,18 +75,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) a good option for PGDM/MBA?
-Yes, [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [JK Business School,Gurugram](/colleges/jkbs-gurgaon) a good option for PGDM/MBA?
+Yes, [JK Business School,Gurugram](/colleges/jkbs-gurgaon) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)?
-The average placement package at [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.
+### 2. What is the average package offered at [JK Business School,Gurugram](/colleges/jkbs-gurgaon)?
+The average placement package at [JK Business School,Gurugram](/colleges/jkbs-gurgaon) is approximately ₹6.20 LPA, with the highest package reaching up to ₹24 LPA.
 
-### 3. What entrance exams are accepted by [JK Business School,Gurugram](/colleges/jk-business-school-gurugram)?
+### 3. What entrance exams are accepted by [JK Business School,Gurugram](/colleges/jkbs-gurgaon)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [JK Business School,Gurugram](/colleges/jk-business-school-gurugram) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [JK Business School,Gurugram](/colleges/jkbs-gurgaon) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to JK Business School,Gurugram](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

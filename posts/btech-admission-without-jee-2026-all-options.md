@@ -26,7 +26,7 @@ faqs:
       degrees.
   - question: Which good college gives B.Tech without JEE?
     answer: >-
-      [VIT Vellore](/colleges/vit-vellore), SRM, Manipal MIT, [BITS
+      [VIT Vellore](/colleges/vit-vellore-campus), SRM, Manipal MIT, [BITS
       Pilani](/colleges/bits-pilani) (BITSAT), Chandigarh University, Amrita
       University, and [Bennett University](/colleges/bennett-greater-noida) all
       offer admission through their own processes without JEE.
@@ -102,7 +102,7 @@ Top private universities conduct their own exams — **independent of JEE Main**
 
 | University | Own Entrance Exam | Annual Fees | Avg Package |
 |---|---|---|---|
-| [VIT Vellore](/colleges/vit-vellore) / Chennai | VITEEE | ₹2.1 L | ₹8–14 LPA |
+| [VIT Vellore](/colleges/vit-vellore-campus) / Chennai | VITEEE | ₹2.1 L | ₹8–14 LPA |
 | SRM University | SRMJEEE | ₹2.0 L | ₹7–12 LPA |
 | [BITS Pilani](/colleges/bits-pilani) | BITSAT | ₹5.5 L | ₹15–22 LPA |
 | Manipal MIT | MU OET | ₹2.3 L | ₹7–12 LPA |
@@ -170,7 +170,7 @@ Some universities have started accepting **CUET UG** scores for B.Tech admission
 Yes, completely valid. AICTE recognises all routes — state exams, private exams, and management quota admissions — as legally valid for B.Tech degrees.
 
 **Q2. Which good college gives B.Tech without JEE?**
-[VIT Vellore](/colleges/vit-vellore), SRM, Manipal MIT, [BITS Pilani](/colleges/bits-pilani) (BITSAT), Chandigarh University, Amrita University, and [Bennett University](/colleges/bennett-greater-noida) all offer admission through their own processes without JEE.
+[VIT Vellore](/colleges/vit-vellore-campus), SRM, Manipal MIT, [BITS Pilani](/colleges/bits-pilani) (BITSAT), Chandigarh University, Amrita University, and [Bennett University](/colleges/bennett-greater-noida) all offer admission through their own processes without JEE.
 
 **Q3. Can I get NIT without JEE Main?**
 No. NITs, IITs, IIITs, and GFTIs admit students exclusively through JEE Main/Advanced via JoSAA. These colleges cannot be accessed without a JEE score.

@@ -93,10 +93,10 @@ Compare the top business schools in Mumbai and Navi Mumbai for 2027.
   * Excellent placement cell with top tier-1 recruiters
   * Strong industrial visit and guest lecture programs
 
-#### 6. [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-mumbai)
+#### 6. [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))](/blog/jagsom-mumbai)
 - **Accreditation:** AICTE Approved · AACSB Accredited Brand
 - **Total Fees:** ₹11.50 Lakhs (Total)
-- **About:** JAGSoM Greater Mumbai campus in Karjat brings the legacy of the AACSB-accredited [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management). Featuring domain-led education, mentored by Padmashri Jagdish Sheth, JAGSoM grooms professionals for international roles.
+- **About:** JAGSoM Greater Mumbai campus in Karjat brings the legacy of the AACSB-accredited [Jagdish Sheth School of Management](/colleges/jagsom-bangalore). Featuring domain-led education, mentored by Padmashri Jagdish Sheth, JAGSoM grooms professionals for international roles.
 - **Highlights:**
   * AACSB Accredited brand flagship extension
   * Domain-led specialized management modules
@@ -115,7 +115,7 @@ Compare the top business schools in Mumbai and Navi Mumbai for 2027.
 | **[ITM Business School (Navi Mumbai)](/colleges/itm-mumbai)** | ₹12.45 Lakhs (Total) | iConnect Placement Focus | Kharghar, Navi Mumbai |
 | **[J.S. Kothari Business School](/colleges/js-kothari-mumbai)** | ₹4.85 Lakhs (Total) | Value B-School | Mumbai Metropolis |
 | **[Amity University (Mumbai Campus)](/colleges/amity-mumbai)** | ₹10.25 Lakhs (Total) | Premium Panvel Campus | Panvel, Greater Mumbai |
-| **[JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-mumbai)** | ₹11.50 Lakhs (Total) | AACSB Accredited Brand | Karjat, Greater Mumbai |
+| **[JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))](/blog/jagsom-mumbai)** | ₹11.50 Lakhs (Total) | AACSB Accredited Brand | Karjat, Greater Mumbai |
 
 ---
 

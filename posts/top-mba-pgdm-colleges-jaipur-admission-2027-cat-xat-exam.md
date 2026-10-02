@@ -67,7 +67,7 @@ category: Exams
 
 ## Detailed College Highlights
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
 * **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/blog/all-about-jaipuria-jaipur).
 

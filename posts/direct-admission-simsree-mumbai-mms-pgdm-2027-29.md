@@ -37,7 +37,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies), Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
+Sydenham [Institute of Management Studies](/colleges/ims-noida), Research and Entrepreneurship Education (SIMSREE), Mumbai, is legendary for offering the best ROI in India after [FMS Delhi](/colleges/fms-delhi). For the 2026 admissions cycle, students often ask about **Direct Admission or Management Quota** at SIMSREE. As a government institute, SIMSREE has a unique, merit-focused approach to institutional seats.
 
 ## Why SIMSREE is Exceptional?
 

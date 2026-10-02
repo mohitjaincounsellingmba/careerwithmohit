@@ -62,7 +62,7 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 | **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | Merit-based | Yes |
 | **SRM University** | Chennai/NCR | Merit-based | Yes |
 | **Chandigarh University** | Chandigarh | CUCET / Merit | Yes |
-| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | Merit-based | Yes |
+| **[GD Goenka University](/colleges/gd-goenka-gurgaon)** | Gurgaon | Merit-based | Yes |
 
 ---
 

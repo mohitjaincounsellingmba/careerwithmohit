@@ -1,6 +1,6 @@
 ---
 name: Thapar Institute of Engineering and Technology (TIET Patiala)
-logo: ''
+logo: /colleges/thapar-institute-logo.webp
 location: 'Patiala, Punjab'
 state: Punjab & Chandigarh
 category: Engineering

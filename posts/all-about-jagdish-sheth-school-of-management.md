@@ -42,14 +42,14 @@ state: Karnataka
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)**
+### **College Review: [Jagdish Sheth School of Management](/colleges/jagsom-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) 2026 Snapshot
+### 📊 [Jagdish Sheth School of Management](/colleges/jagsom-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -77,18 +77,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) a good option for PGDM/MBA?
-Yes, [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jagdish Sheth School of Management](/colleges/jagsom-bangalore) a good option for PGDM/MBA?
+Yes, [Jagdish Sheth School of Management](/colleges/jagsom-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)?
-The average placement package at [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.5 LPA.
+### 2. What is the average package offered at [Jagdish Sheth School of Management](/colleges/jagsom-bangalore)?
+The average placement package at [Jagdish Sheth School of Management](/colleges/jagsom-bangalore) is approximately ₹6.3 LPA, with the highest package reaching up to ₹14.5 LPA.
 
-### 3. What entrance exams are accepted by [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)?
+### 3. What entrance exams are accepted by [Jagdish Sheth School of Management](/colleges/jagsom-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Jagdish Sheth School of Management](/colleges/jagsom-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Jagdish Sheth School of Management](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

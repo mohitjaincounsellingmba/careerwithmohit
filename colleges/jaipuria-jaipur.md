@@ -1,5 +1,5 @@
 ---
-name: Jaipuria Jaipur
+name: 'Jaipuria Institute of Management, Jaipur'
 logo: /colleges/jaipuria-jaipur-logo.webp
 location: Jaipur
 category: Management

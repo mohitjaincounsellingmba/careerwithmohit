@@ -1,5 +1,5 @@
 ---
-name: IILM Academy of Higher Learning
+name: 'IILM Academy of Higher Learning, Lucknow'
 logo: ''
 location: Lucknow
 category: Management

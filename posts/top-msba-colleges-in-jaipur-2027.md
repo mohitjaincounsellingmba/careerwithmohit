@@ -51,7 +51,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 | College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** (PGDM Analytics) | ₹12.50L - ₹13.50L | ₹11.29 LPA - ₹12.00 LPA | CAT / XAT / CMAT / MAT (70%+ %ile) |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** (PGDM Analytics) | ₹12.50L - ₹13.50L | ₹11.29 LPA - ₹12.00 LPA | CAT / XAT / CMAT / MAT (70%+ %ile) |
 | **[Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur)** (MBA Analytics) | ₹9.80L - ₹11.50L | ₹7.50 LPA - ₹9.10 LPA | CAT / MAT / CMAT / XAT / GMAT / MET |
 | **JECRC University** (MBA Business Analytics - IoA UK) | ₹3.80L - ₹5.50L | ₹6.50 LPA - ₹7.80 LPA | CAT / MAT / XAT / CMAT / JECRC Merit |
 | **[IIHMR University Jaipur](/colleges/iihmr-university)** (MBA Healthcare Analytics) | ₹11.50 Lakhs | ₹8.50 LPA - ₹10.20 LPA | CAT / XAT / NMAT / MAT / CMAT / IIHMR-U |
@@ -63,7 +63,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 
 ## 🏛️ In-Depth Breakdown: Best Business Analytics Colleges in Jaipur
 
-### 1. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-institute-of-management-jaipur) – Bambala, Pratap Nagar
+### 1. [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur) – Bambala, Pratap Nagar
 - **Flagship Offering**: PGDM with Specialized Electives in Business Analytics
 - **Total Tuition Fee**: ₹12.50 Lakhs – ₹13.50 Lakhs
 - **Placement Performance**: Average CTC ₹11.29 LPA | Highest Domestic CTC ₹22.00 LPA

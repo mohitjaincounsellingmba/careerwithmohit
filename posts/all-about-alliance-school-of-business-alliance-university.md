@@ -44,7 +44,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university)**
+### **College Review: [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -60,7 +60,7 @@ state: Karnataka
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) 2026 Snapshot
+## 📊 [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -88,18 +88,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) a good option for PGDM/MBA?
-Yes, [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore) a good option for PGDM/MBA?
+Yes, [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university)?
-The average placement package at [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) is approximately ₹6.3 LPA, with the highest package reaching up to ₹15.7 LPA.
+### 2. What is the average package offered at [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore)?
+The average placement package at [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore) is approximately ₹6.3 LPA, with the highest package reaching up to ₹15.7 LPA.
 
-### 3. What entrance exams are accepted by [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university)?
+### 3. What entrance exams are accepted by [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Alliance School of Business , Alliance University](/colleges/alliance-school-of-business-alliance-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Alliance School of Business , Alliance University](/colleges/alliance-university-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Alliance School of Business , Alliance University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

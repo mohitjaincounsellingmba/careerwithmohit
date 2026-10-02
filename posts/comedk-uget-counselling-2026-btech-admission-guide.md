@@ -12,7 +12,7 @@ keywords:
   - COMEDK choice filling guide
   - MSRIT Bangalore admission
   - COMEDK seat allotment
-  - '[BMSCE Bangalore](/colleges/bmsce-bangalore) cutoff'
+  - '[BMSCE Bangalore](/colleges/bms-college-of-engineering-bangalore) cutoff'
   - Bangalore Colleges
   - Best Colleges in Bangalore
   - Top Colleges in Bangalore 2026
@@ -64,9 +64,9 @@ category: B.Tech
 
 ### **Top Participating Colleges in COMEDK 2026**
 1.  **[RV College of Engineering (RVCE)](/colleges/rv-college-of-engineering-bangalore), Bangalore** - *Top Choice.*
-2.  **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore), Bangalore**.
+2.  **[M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/ms-ramaiah-institute-of-technology), Bangalore**.
 3.  **B.M.S. College of Engineering (BMSCE), Bangalore**.
-4.  **[PES University](/colleges/pes-university), Bangalore**.
+4.  **[PES University](/colleges/pesu-bangalore), Bangalore**.
 5.  **[Dayananda Sagar College of Engineering (DSCE)](/colleges/dsce-bangalore), Bangalore**.
 6.  **[Siddaganga Institute of Technology](/colleges/siddaganga-institute-of-technology) (SIT), Tumkur**.
 7.  **[Bangalore Institute of Technology (BIT)](/colleges/bit-bangalore), Bangalore**.

@@ -64,7 +64,7 @@ Known for its international diversity and multi-disciplinary academic environmen
 *   **Top Programs:** MBA, MCA, MA, MSc.
 *   **Admission Process:** [Sharda University](/colleges/sharda-greater-noida) accepts CUET PG scores for admissions to several of its PG programs.
 
-### **3. BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))**
+### **3. BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))**
 BIMTECH is one of the top-ranked private management institutes in Greater Noida. While their flagship PGDM primarily uses CAT/XAT/MAT, they sometimes integrate CUET PG scores for specific programs or scholarships.
 *   **Top Programs:** PGDM (Insurance Business Management), PGDM (Retail Management).
 *   **Why Choose BIMTECH?** Top-tier placement packages and high-quality teaching standards.

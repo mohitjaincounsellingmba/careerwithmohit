@@ -52,7 +52,7 @@ state: Maharashtra
 
 The **MAH MBA/MMS CET** (Maharashtra Master of Business Administration Common Entrance Test) is one of the most competitive state-level entrance examinations in India. Conducted annually by the State CET Cell, Maharashtra, it serves as the gateway to over 330 management institutes across Maharashtra, offering prestigious Master of Management Studies (MMS) and MBA degrees.
 
-From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
+From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
 
 In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, we detail score vs. percentile predictions, college-wise cutoff percentiles, step-by-step CAP registration guidelines, Option Form strategies, and OMS (Outside Maharashtra State) quota rules.
 

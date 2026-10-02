@@ -42,14 +42,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+# Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** continues to be one of the most prominent management destinations in **Rohini (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** continues to be one of the most prominent management destinations in **Rohini (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in North-West Delhi, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -57,11 +57,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** |
+| **Institution Name** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** |
 | **Location & Campus** | Rohini, North-West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -93,7 +93,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2027–29–2026: Salary Packages & Recruiters
 
-The placement record at **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹12.00 LPA**
 *   **Average CTC:** **₹6.50 LPA**
@@ -108,7 +108,7 @@ The placement record at **Maharaja Agrasen [Institute of Management Studies](/co
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.
@@ -123,7 +123,7 @@ Admission to **Maharaja Agrasen [Institute of Management Studies](/colleges/inst
 
 ---
 
-## 5. Why Choose Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)? (Pros & Cons)
+## 5. Why Choose Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Rohini and across major commercial hubs in India.

@@ -160,7 +160,7 @@ India's leading institute for management careers in Telecom, IT, and Digital tec
 * **Average Package:** ₹12.7 LPA - ₹13.08 LPA
 * **Highest Package:** ₹29.04 LPA
 
-### 12. SIMS, Pune (Symbiosis [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 12. SIMS, Pune (Symbiosis [Institute of Management Studies](/colleges/ims-noida))
 **Note:** Primarily for dependents of Defence Personnel, with a small percentage of seats open to civilians.
 * **Expected SNAP Cutoff:** 76 - 80 Percentile
 * **MBA Fees:** ₹8 - ₹11 Lakhs (Tuition)

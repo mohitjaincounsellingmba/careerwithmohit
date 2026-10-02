@@ -75,7 +75,7 @@ state: Delhi NCR
 |---|---|---|
 | **University of Delhi – Faculty of Management Studies (FMS)** | 78 % | Highest ROI, strong corporate placement network. |
 | **Delhi School of Economics (DSE)** | 70 % | Emphasis on analytics & finance. |
-| **[Amity University, Noida](/colleges/amity-university-noida)** | 65 % | Wide range of specialisations, modern campus. |
+| **[Amity University, Noida](/colleges/amity-noida)** | 65 % | Wide range of specialisations, modern campus. |
 | **[BIMTECH, Greater Noida](/colleges/bimtech-greater-noida)** | 60 % | Affordable tuition, good industry tie‑ups. |
 | **Maharshi Dayanand University (MDU)** | 58 % | Focus on entrepreneurship and startup incubation. |
 

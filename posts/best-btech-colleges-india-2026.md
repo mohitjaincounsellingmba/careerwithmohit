@@ -92,7 +92,7 @@ If you are looking for the **best private B.Tech colleges**, these should be on 
 - **Top Specialization:** Computer Science, Electronics
 
 ### 🥈 2. Vellore Institute of Technology (VIT), Vellore
-[VIT Vellore](/colleges/vit-vellore) is famous for its massive campus, diverse student crowd, and the legendary centralized placement process where top IT giants hire in bulk.
+[VIT Vellore](/colleges/vit-vellore-campus) is famous for its massive campus, diverse student crowd, and the legendary centralized placement process where top IT giants hire in bulk.
 - **Exams Accepted:** VITEEE
 - **Fees:** ₹8-20 Lakhs (Category based)
 - **Top Specialization:** CSE with Bioinformatics, AI & ML
@@ -108,7 +108,7 @@ SRM KTR offers incredible exposure and massive placement drives. Their semester 
 - **Exams Accepted:** SRMJEEE
 - **Fees:** ₹10-18 Lakhs
 
-### 5. [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET), Patiala
+### 5. [Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala) (TIET), Patiala
 TIET is highly respected in North India and is known for rigorous academics and excellent placements in the core tech sector.
 - **Exams Accepted:** JEE Main
 - **Fees:** ~₹16-18 Lakhs

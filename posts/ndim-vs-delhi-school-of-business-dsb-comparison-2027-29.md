@@ -47,13 +47,13 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-When it comes to choosing the right PGDM program in the national capital, two names often come up: **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** and **Delhi School of Business (DSB)**. 
+When it comes to choosing the right PGDM program in the national capital, two names often come up: **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** and **Delhi School of Business (DSB)**. 
 
 While both offer good infrastructure and corporate locations, at **CareerWithMohit**, we’ve analyzed the data for the **2026 admission cycle**, and the conclusion is clear: **The NDIM Legacy is the safer and more profitable investment for your career.**
 
 ### **Quick Comparison: 2026 Projections**
 
-| Feature | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) | Delhi School of Business (DSB/VIPS) |
+| Feature | [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) | Delhi School of Business (DSB/VIPS) |
 | :--- | :--- | :--- |
 | **Legacy & Brand** | **34 Years (Est. 1992)** | ~12 Years (Est. 2012) |
 | **National Ranking** | **Best B-School (ASSOCHAM 3 Years Row)** | Emerging Tier-2 |
@@ -88,7 +88,7 @@ DSB is a good college, especially since it is part of the **VIPS (Vivekananda In
 
 ### **Which One Should You Choose?**
 
-#### **Join [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) IF:**
+#### **Join [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) IF:**
 - You want the **proven brand power** and premium corporate access of a 34-year-old legacy.
 - You are targeting **Double Specializations** to match 2026 tech trends.
 - You want the highest possible starting package (₹12 LPA+) and a global alumni reach.

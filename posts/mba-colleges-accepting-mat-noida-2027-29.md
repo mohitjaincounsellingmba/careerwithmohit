@@ -90,7 +90,7 @@ Part of the Jaypee Group, offering great industry integration and focus on busin
 
 | College Name | Target MAT Cutoff | Approx 2-Year Fees | Average Salary Package |
 | :--- | :--- | :--- | :--- |
-| **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** | 75+ Percentile | ₹13.5 Lakhs | **₹8.90 LPA** |
+| **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** | 75+ Percentile | ₹13.5 Lakhs | **₹8.90 LPA** |
 | **[Amity University](/colleges/amity-noida)** | 70+ Percentile | ₹14.5 Lakhs | **₹8.00 LPA** |
 | **IMS Noida** | 60+ Percentile | ₹8.50 Lakhs | **₹6.20 LPA** |
 | **[Jaypee Business School](/colleges/jaypee-business-school-noida) (JBS)** | 65+ Percentile | ₹10.5 Lakhs | **₹7.00 LPA** |

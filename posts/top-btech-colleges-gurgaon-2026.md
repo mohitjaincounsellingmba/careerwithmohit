@@ -75,7 +75,7 @@ Formerly known as ITM Gurgaon, NCU is highly respected in the Delhi NCR region f
 *   **Estimated Fees**: ~₹10.5 Lakhs (Total).
 *   **Placement Highlight**: Excellent local tech-park placements, with nearly 90%+ students placed in reputed software firms.
 
-### **4. [GD Goenka University](/colleges/gd-goenka-university)**
+### **4. [GD Goenka University](/colleges/gd-goenka-gurgaon)**
 With a beautiful 60-acre campus against the backdrop of the Aravalli hills, GD Goenka offers a variety of specialized engineering courses in collaboration with international institutions.
 *   **Entrance Exam**: JEE Main, Goenka Aptitude Test for Admission (GATA).
 *   **Estimated Fees**: ₹8 - ₹10 Lakhs (Total).

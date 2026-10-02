@@ -52,7 +52,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'FOSTIIMA Business School',
-    universitySlug: 'fostiima-business-school',
+    universitySlug: 'fostiima-delhi',
     slug: 'blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Dwarka, West Delhi',
     fee: '₹11.95 Lakhs (Total)',
@@ -103,7 +103,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'IILM Institute for Higher Education',
-    universitySlug: 'iilm-lodhi-road',
+    universitySlug: 'iilm-delhi',
     slug: 'blog/iilm-lodhi-road-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Lodhi Road, Central Delhi',
     fee: '₹12.90 Lakhs (Total)',
@@ -154,7 +154,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Management Education & Research Institute (MERI)',
-    universitySlug: 'meri-janakpuri',
+    universitySlug: 'meri-delhi',
     slug: 'blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Janakpuri, West Delhi',
     fee: '₹5.95 Lakhs (Total)',
@@ -205,7 +205,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Delhi School of Business (VIPS-TC)',
-    universitySlug: 'delhi-school-of-business',
+    universitySlug: 'dsb-delhi',
     slug: 'blog/delhi-school-of-business-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Pitampura, North-West Delhi',
     fee: '₹11.50 Lakhs (Total)',
@@ -230,7 +230,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'EMPI Business School',
-    universitySlug: 'empi-chattarpur',
+    universitySlug: 'empi-delhi',
     slug: 'blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Chattarpur, South Delhi',
     fee: '₹9.85 Lakhs (Total)',
@@ -255,7 +255,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Institute of Marketing & Management (IMM)',
-    universitySlug: 'imm-qutab',
+    universitySlug: 'imm-delhi',
     slug: 'blog/imm-qutab-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Qutab Institutional Area, South Delhi',
     fee: '₹9.45 Lakhs (Total)',
@@ -306,7 +306,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'ASM Apeejay School of Management',
-    universitySlug: 'asm-apeejay-dwarka',
+    universitySlug: 'asm-apeejay-delhi',
     slug: 'blog/asm-apeejay-dwarka-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Dwarka, West Delhi',
     fee: '₹10.50 Lakhs (Total)',
@@ -356,7 +356,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'ITS Ghaziabad (Mohan Nagar)',
-    universitySlug: 'its-ghaziabad-mohan-nagar',
+    universitySlug: 'its-ghaziabad',
     slug: 'blog/its-ghaziabad-mohan-nagar-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Mohan Nagar, Ghaziabad',
     fee: '₹3.15L - ₹6.95L (Total)',
@@ -588,7 +588,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Lloyd Business School',
-    universitySlug: 'lloyd-greater-noida',
+    universitySlug: 'lloyd-business-school-greater-noida',
     slug: 'blog/lloyd-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Knowledge Park II, Greater Noida',
     fee: '₹2.90L - ₹8.25L (Total)',
@@ -614,7 +614,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'IILM Greater Noida (IILM University)',
-    universitySlug: 'iilm-greater-noida',
+    universitySlug: 'iilm-university-greater-noida',
     slug: 'blog/iilm-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Knowledge Park II, Greater Noida',
     fee: '₹12.40 Lakhs (Total)',
@@ -689,7 +689,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Sparsh Global Business School (SGBS)',
-    universitySlug: 'sparsh-greater-noida',
+    universitySlug: 'sparsh-global-greater-noida',
     slug: 'blog/sparsh-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Greater Noida',
     fee: '₹10.50 Lakhs (Total)',
@@ -916,7 +916,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Lexicon MILE (Management Institute of Leadership & Excellence)',
-    universitySlug: 'lexicon-mile-pune',
+    universitySlug: 'lexicon-management-institute-of-leadership-excellence',
     slug: 'blog/lexicon-mile-pune-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Wagholi, Pune',
     fee: '₹10.80 Lakhs (Total)',
@@ -969,7 +969,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'ASM Institute of Business Management & Research (IBMR)',
-    universitySlug: 'asm-ibmr-pune',
+    universitySlug: 'asm-ibmr',
     slug: 'blog/asm-ibmr-pune-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Chinchwad, Pune',
     fee: '₹3.75L - ₹6.95L (Total)',
@@ -995,7 +995,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Dr. D.Y. Patil Institute of Management & Research',
-    universitySlug: 'dy-patil-pune',
+    universitySlug: 'dy-patil-b-school',
     slug: 'blog/dy-patil-pune-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Pimpri, Pune',
     fee: '₹3.50L - ₹6.50L (Total)',
@@ -1021,7 +1021,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'IIEBM (Indus Business School)',
-    universitySlug: 'iiebm-indus-pune',
+    universitySlug: 'iiebm-pune',
     slug: 'blog/iiebm-indus-pune-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Wakad, Pune',
     fee: '₹8.25 Lakhs (Total)',
@@ -1047,7 +1047,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Akemi Business School',
-    universitySlug: 'akemi-pune',
+    universitySlug: 'akemi-business-school',
     slug: 'blog/akemi-pune-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Tathawade, Pune',
     fee: '₹3.15 Lakhs (Total)',
@@ -1124,7 +1124,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Universal Business School (UBS Mumbai) / Universal AI University',
-    universitySlug: 'ubs-mumbai-karjat',
+    universitySlug: 'universal-ai-mumbai',
     slug: 'blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Karjat, Greater Mumbai',
     fee: '₹9.50L - ₹12.50L (Total)',
@@ -1150,7 +1150,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'ITM Business School (Navi Mumbai)',
-    universitySlug: 'itm-navi-mumbai',
+    universitySlug: 'itm-mumbai',
     slug: 'blog/itm-navi-mumbai-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Kharghar, Navi Mumbai',
     fee: '₹12.45 Lakhs (Total)',
@@ -1225,7 +1225,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'JAGSoM (Jagdish Sheth School of Management)',
-    universitySlug: 'jagsom-mumbai-karjat',
+    universitySlug: 'jagsom-mumbai',
     slug: 'blog/jagsom-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Karjat, Greater Mumbai',
     fee: '₹11.50 Lakhs (Total)',
@@ -1328,7 +1328,7 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
   },
   {
     name: 'Alliance University (Alliance School of Business)',
-    universitySlug: 'alliance-bangalore',
+    universitySlug: 'alliance-university-bangalore',
     slug: 'blog/alliance-bangalore-mba-pgdm-review-2027-fees-placements-cutoff',
     location: 'Anekal Campus, Bangalore',
     fee: '₹15.00L - ₹18.00L (Total)',

@@ -93,7 +93,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Excellent placements in tech consulting & analytics firms
   * Strong domain specialization options
 
-#### 6. [Indus Business Academy (IBA Bangalore)](/colleges/indus-business-academy)
+#### 6. [Indus Business Academy (IBA Bangalore)](/colleges/iba-bangalore)
 - **Accreditation:** AICTE Approved · IACBE (USA) Accredited B-School
 - **Fee:** ₹10.25 Lakhs (Total)
 - **USP:** [Indus Business Academy (IBA)](/colleges/iba-bangalore) Kanakapura Road is a premium management institution carrying international IACBE (USA) accreditation. IBA features a large residential green campus and stellar placement pathways.
@@ -103,10 +103,10 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Highly active corporate panel and guest speakers
   * 100% placement track with prominent domestic and global firms
 
-#### 7. [JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-bangalore)
+#### 7. [JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))](/blog/jagsom-bangalore)
 - **Accreditation:** AICTE Approved · AACSB Accredited (Top 5% Globally)
 - **Fee:** ₹17.50 Lakhs (Total)
-- **USP:** JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)), located in Electronic City, is a prestigious AACSB-accredited business school. Ranked in QS World University rankings, it offers domain-led specialist PGDM programs mentored by global corporate veterans.
+- **USP:** JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore)), located in Electronic City, is a prestigious AACSB-accredited business school. Ranked in QS World University rankings, it offers domain-led specialist PGDM programs mentored by global corporate veterans.
 - **Key Highlights:**
   * AACSB accredited (Top 5% Business Schools globally)
   * QS World University Rankings listed
@@ -125,8 +125,8 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
 | **[GIBS Business School](/colleges/gibs-bangalore)** | ₹11.25 Lakhs (Total) | Bannerghatta Campus | Bannerghatta Road, Bangalore |
 | **[Alliance University (Alliance School of Business)](/colleges/alliance-university-bangalore)** | ₹15.00L - ₹18.00L (Total) | Elite Private University | Anekal Campus, Bangalore |
 | **[ISME Bangalore (School of Management Excellence)](/colleges/isme-bangalore)** | ₹9.90L - ₹10.95L (Total) | Global Academic Tie-Ups | Sarjapur Road, Bangalore |
-| **[Indus Business Academy (IBA Bangalore)](/colleges/indus-business-academy)** | ₹10.25 Lakhs (Total) | IACBE USA Accredited | Kanakapura Road, Bangalore |
-| **[JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/blog/jagsom-bangalore)** | ₹17.50 Lakhs (Total) | AACSB Accredited (Top 5%) | Electronic City, Bangalore |
+| **[Indus Business Academy (IBA Bangalore)](/colleges/iba-bangalore)** | ₹10.25 Lakhs (Total) | IACBE USA Accredited | Kanakapura Road, Bangalore |
+| **[JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))](/blog/jagsom-bangalore)** | ₹17.50 Lakhs (Total) | AACSB Accredited (Top 5%) | Electronic City, Bangalore |
 
 ---
 

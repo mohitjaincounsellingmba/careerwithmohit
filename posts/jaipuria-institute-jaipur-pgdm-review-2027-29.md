@@ -61,7 +61,7 @@ If you are aiming for a premier PGDM experience in Rajasthan, [Jaipuria Jaipur](
 
 ### **PGDM Fee Structure (2025-2026 onwards)**
 
-[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) offers a highly curated full-time PGDM program. The fee structure reflects the premium quality of education and the extensive corporate integration provided.
+[Jaipuria Institute of Management](/colleges/jaipuria-jaipur) offers a highly curated full-time PGDM program. The fee structure reflects the premium quality of education and the extensive corporate integration provided.
 
 | Program | Estimated Total Tuition Fees | Remarks |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ Placements at Jaipuria are conducted centrally across all its campuses, bringing
 
 Yes, absolutely. Despite the relatively higher fee bracket (around ₹17-19 Lakhs with hostel), [Jaipuria Jaipur](/colleges/jaipuria-jaipur) provides an elite B-School environment. The centralized placement process ensures that you are exposed to the same top-tier recruiters visiting metro cities. If you want to study at one of the undisputed [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29), Jaipuria is a brilliant, high-ROI investment.
 
-[👉 Get Free Personal Counselling for [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-noida) Admissions!](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
+[👉 Get Free Personal Counselling for [Jaipuria Institute of Management](/colleges/jaipuria-noida) Admissions!](/inquiry) | [💬 Schedule a Call with Mohit Jain](/inquiry)
 
 ---
 

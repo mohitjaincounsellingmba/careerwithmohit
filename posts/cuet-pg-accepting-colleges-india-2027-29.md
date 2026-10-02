@@ -112,7 +112,7 @@ Many premium private universities have partnered with NTA to accept CUET PG scor
 1. **[Amity University](/colleges/amity-noida)** (Noida, Gurugram, Lucknow)
 2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
 3. **[Galgotias University](/colleges/galgotias-university)**, Greater Noida
-4. **[GD Goenka University](/colleges/gd-goenka-university)**, Gurugram
+4. **[GD Goenka University](/colleges/gd-goenka-gurgaon)**, Gurugram
 5. **K.R. Mangalam University**, Gurugram
 6. **[Lovely Professional University](/colleges/lovely-professional-university) (LPU)**, Punjab
 7. **[Sharda University](/colleges/sharda-greater-noida)**, Greater Noida

@@ -12,7 +12,7 @@ keywords:
   - SRM or VIT which is better
   - VIT vs SRM placements
   - SRM vs VIT fees comparison
-  - '[VIT Vellore](/colleges/vit-vellore) vs SRM KTR CSE'
+  - '[VIT Vellore](/colleges/vit-vellore-campus) vs SRM KTR CSE'
   - SRM vs VIT ranking 2026
   - SRM vs VIT average package
   - Chennai Colleges
@@ -49,7 +49,7 @@ This is the most honest, data-backed comparison of **SRM Institute of Science an
 
 ## ⚡ Quick Snapshot: SRM vs VIT at a Glance
 
-| Parameter | [VIT Vellore](/colleges/vit-vellore) | SRM (KTR, Chennai) |
+| Parameter | [VIT Vellore](/colleges/vit-vellore-campus) | SRM (KTR, Chennai) |
 |---|---|---|
 | **NIRF Rank 2025 (Engg)** | 16th | 14th |
 | **NAAC Grade** | A++ | A++ |
@@ -70,7 +70,7 @@ This is the most honest, data-backed comparison of **SRM Institute of Science an
 
 Both universities are **NAAC A++** accredited and consistently rank in the **top 20 private engineering colleges** in India.
 
-| Ranking Body | [VIT Vellore](/colleges/vit-vellore) | SRM KTR |
+| Ranking Body | [VIT Vellore](/colleges/vit-vellore-campus) | SRM KTR |
 |---|---|---|
 | **NIRF 2025 (Engineering)** | 16th | 14th |
 | **India Today 2025** | Top 10 Private | Top 10 Private |
@@ -83,7 +83,7 @@ Both universities are **NAAC A++** accredited and consistently rank in the **top
 
 ## 💰 2. Fee Structure Comparison
 
-### [VIT Vellore](/colleges/vit-vellore) – Category-Based Fee System
+### [VIT Vellore](/colleges/vit-vellore-campus) – Category-Based Fee System
 VIT has a unique sliding-scale fee model based on your VITEEE rank. The better your rank, the lower your fee.
 
 | Category | VITEEE Rank (CSE) | 4-Year Total Fee |
@@ -94,7 +94,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 | **Category 4** | 15,000 – 30,000 | ₹17.80 Lakhs |
 | **Category 5** | Above 30,000 | ₹19.80 Lakhs |
 
-> **Key Point:** If you crack VITEEE in the top 1,500, [VIT Vellore](/colleges/vit-vellore) (Cat 1) at ₹7.8L total is one of the **best ROI deals** in private engineering.
+> **Key Point:** If you crack VITEEE in the top 1,500, [VIT Vellore](/colleges/vit-vellore-campus) (Cat 1) at ₹7.8L total is one of the **best ROI deals** in private engineering.
 
 ---
 
@@ -115,7 +115,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 
 ## 🎓 3. Admission Process
 
-### [VIT Vellore](/colleges/vit-vellore)
+### [VIT Vellore](/colleges/vit-vellore-campus)
 - Entrance: **VITEEE** (online, 125 MCQs)
 - No management quota / no direct admission
 - Slots booked via online portal based on rank
@@ -135,7 +135,7 @@ VIT has a unique sliding-scale fee model based on your VITEEE rank. The better y
 
 This is the most important parameter. Let's break it down honestly.
 
-### [VIT Vellore](/colleges/vit-vellore) Placements 2025-26
+### [VIT Vellore](/colleges/vit-vellore-campus) Placements 2025-26
 | Metric | Data |
 |---|---|
 | **Students Registered** | ~5,000+ |
@@ -168,7 +168,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🏫 5. Campus Life & Culture
 
-### [VIT Vellore](/colleges/vit-vellore)
+### [VIT Vellore](/colleges/vit-vellore-campus)
 - Fully Flexible Credit System (**FFCS**) – choose your own faculty and timetable
 - 220+ student clubs and technical societies
 - **Strict hostel rules** – curfew, limited outing permissions
@@ -191,7 +191,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🔬 6. Research & Faculty
 
-| Parameter | [VIT Vellore](/colleges/vit-vellore) | SRM KTR |
+| Parameter | [VIT Vellore](/colleges/vit-vellore-campus) | SRM KTR |
 |---|---|---|
 | **SIRO Recognition** | ✅ Yes | ✅ Yes |
 | **PhD Faculty** | 80%+ | 70%+ |
@@ -206,7 +206,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🗺️ 7. Campus Location & Infrastructure
 
-### [VIT Vellore](/colleges/vit-vellore)
+### [VIT Vellore](/colleges/vit-vellore-campus)
 - Located in **Vellore, Tamil Nadu** – a Tier 2 city
 - 360-acre main campus – self-contained
 - State-of-the-art labs, central library with 1M+ books
@@ -239,7 +239,7 @@ This is the most important parameter. Let's break it down honestly.
 
 ## 🏆 Final Verdict: SRM vs VIT – Which Should YOU Choose?
 
-### ✅ Choose [VIT Vellore](/colleges/vit-vellore) if:
+### ✅ Choose [VIT Vellore](/colleges/vit-vellore-campus) if:
 - You can crack **VITEEE in top 5,000** (Category 1/2/3) – the fee advantage is massive
 - You prefer **academic discipline and freedom via FFCS**
 - You want to pursue **research, core engineering roles, or international companies**

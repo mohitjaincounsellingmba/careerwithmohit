@@ -72,7 +72,7 @@ In this guide, we break down **12 key differences** to help you decide which pat
 
 ### Top MBA Colleges in India
 - **FMS (Faculty of Management Studies), Delhi** (Best ROI)
-- **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)), Mumbai**
+- **JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai**
 - **DMS, IIT Delhi / [IIT Bombay](/colleges/iit-bombay)**
 - **PUMBA, Pune University**
 - **SJMSOM, [IIT Bombay](/colleges/iit-bombay)**

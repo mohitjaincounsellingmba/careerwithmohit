@@ -34,7 +34,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
 ---
-### **College Review: [GD Goenka University](/colleges/gd-goenka-university)**
+### **College Review: [GD Goenka University](/colleges/gd-goenka-gurgaon)**
 *   **Campus Excellence**: Known for one of the most beautiful and expansive campuses in North India (60+ acres).
 *   **Multi-Disciplinary Exposure**: Offers a vibrant environment with students from various streams like Tech, Design, and Law.
 *   **Global Collaborations**: Strong ties with international universities for exchange programs.

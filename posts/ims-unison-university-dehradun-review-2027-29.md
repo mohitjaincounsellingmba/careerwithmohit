@@ -59,7 +59,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🏛️ IMS Unison University Dehradun: University Overview & Accreditation
 
-IMS Unison University (IUU) in Dehradun, starting as the prestigious [Institute of Management Studies](/colleges/institute-of-management-studies) in 1996, is a specialized private university dedicated to Business Administration, Law, Hospitality, and Liberal Arts. Located on Mussoorie Road, IUU is celebrated for its corporate-styled pedagogy and excellent BFSI/Consulting placements.
+IMS Unison University (IUU) in Dehradun, starting as the prestigious [Institute of Management Studies](/colleges/ims-noida) in 1996, is a specialized private university dedicated to Business Administration, Law, Hospitality, and Liberal Arts. Located on Mussoorie Road, IUU is celebrated for its corporate-styled pedagogy and excellent BFSI/Consulting placements.
 
 ### Key Institutional Highlights (2026)
 

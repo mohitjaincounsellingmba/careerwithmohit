@@ -60,7 +60,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Noida for 2026** to help 
 - **Entrance Exam / Admission Process:** SET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 2. [Amity University, Noida](/colleges/amity-university-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida)
 - **Approximate Annual Fees:** ₹3.8 Lakhs
 - **Entrance Exam / Admission Process:** Merit / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.

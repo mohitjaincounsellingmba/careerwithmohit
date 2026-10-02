@@ -87,7 +87,7 @@ Because the difficulty level is lower, top percentiles require very high raw sco
 
 Nearly 1,000+ AICTE-approved B-Schools accept CMAT. The top tier includes:
 
-- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Great Lakes Institute of Management (GLIM), Chennai
 - GIM (Goa Institute of Management)
@@ -95,7 +95,7 @@ Nearly 1,000+ AICTE-approved B-Schools accept CMAT. The top tier includes:
 - PUMBA (Pune University Department of Management Sciences)
 - NIBM (National Institute of Bank Management), Pune
 - Welingkar Institute of Management (WeSchool), Mumbai/Bangalore
-- BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology)), Greater Noida
+- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida)), Greater Noida
 - IFMR Graduate School of Business (Krea University)
 
 ---

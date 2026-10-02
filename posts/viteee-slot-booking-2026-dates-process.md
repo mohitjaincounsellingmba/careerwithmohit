@@ -11,7 +11,7 @@ keywords:
   - VITEEE admit card download
   - VITEEE 2026 exam dates
   - how to book VIT slot
-  - '[VIT Vellore](/colleges/vit-vellore) BTech admission'
+  - '[VIT Vellore](/colleges/vit-vellore-campus) BTech admission'
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

@@ -83,7 +83,7 @@ These institutions are at the top of the pyramid, known for their academic rigor
 ## Tier 2: Strong Corporate Network & ROI
 These colleges have established deep roots in the Bangalore corporate world.
 
-### 5. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))
+### 5. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))
 - **Fees:** ₹17.5 Lakhs
 - **Average Placement:** ₹10.9 LPA (Highest ₹51 LPA)
 - **Entrance Exam:** CAT, XAT, GMAT, MAT, NMAT

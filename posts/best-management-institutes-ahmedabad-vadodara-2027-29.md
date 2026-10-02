@@ -59,7 +59,7 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 | :--- | :--- | :--- | :--- | :--- |
 | **[IIM Ahmedabad](/colleges/iim-ahmedabad)** | Ahmedabad | CAT (99.5+ %ile) | ₹25.00 Lakhs | ₹34.36 LPA |
 | **MICA Ahmedabad** | Ahmedabad | CAT/XAT + MICAT | ₹23.00 Lakhs | ₹20.09 LPA |
-| **[Nirma University](/colleges/nirma-university) (Inst of Mgmt)** | Ahmedabad | CAT / CMAT (80+ %ile) | ₹11.80 Lakhs | ₹12.20 LPA |
+| **[Nirma University](/colleges/nirma-institute-of-management) (Inst of Mgmt)** | Ahmedabad | CAT / CMAT (80+ %ile) | ₹11.80 Lakhs | ₹12.20 LPA |
 | **EDII Ahmedabad** | Ahmedabad | CAT/MAT/CMAT/ATMA | ₹10.95 Lakhs | ₹7.80 LPA |
 | **[Shanti Business School](/colleges/shanti-business-school)** | Ahmedabad | CAT/MAT/CMAT/ATMA | ₹7.45 Lakhs | ₹6.75 LPA |
 | **[Amity University](/colleges/amity-noida)** | Ahmedabad | CAT/MAT/CMAT | ₹6.50 Lakhs | ₹6.00 LPA |
@@ -80,7 +80,7 @@ For management aspirants preparing for **2027-29 admissions**, Gujarat institute
 ### 3. [MICA Ahmedabad (The School of Ideas)](/colleges/mica-ahmedabad)
 * **Highlights**: Premier institution for Strategic Marketing, Digital Communications, and Brand Management.
 
-### 4. Institute of Management, [Nirma University](/colleges/nirma-university)
+### 4. Institute of Management, [Nirma University](/colleges/nirma-institute-of-management)
 * **Highlights**: Renowned private university campus in Ahmedabad with strong placement track record in consulting and FMCG.
 
 ---

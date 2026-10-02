@@ -41,7 +41,7 @@ state: Delhi NCR
 > - **Total Fee Structure**: Verified at ₹10.50 Lakhs for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹8.20 LPA (Highest ₹16.0 LPA) with AICTE Approved.
 
-**[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** continues to be one of the most prominent management destinations in **Electronic City (Bangalore)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** continues to be one of the most prominent management destinations in **Electronic City (Bangalore)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Bangalore, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -53,7 +53,7 @@ The table below summarizes the key metrics for **[ISBR Business School](/college
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** |
+| **Institution Name** | **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** |
 | **Location & Campus** | Electronic City, Bangalore |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -100,7 +100,7 @@ The placement record at **[ISBR Business School](/colleges/isbr-bangalore) (Bang
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.
@@ -131,7 +131,7 @@ Admission to **[ISBR Business School](/colleges/isbr-business-school) (Bangalore
 
 ## 6. ROI Evaluation & Final Verdict
 
-When evaluating **[ISBR Business School](/colleges/isbr-business-school) (Bangalore)**, the financial return on investment is a major differentiator. With an average starting package of **₹9.0 LPA** against a program fee of **₹11.00 Lakhs (Total)**, graduates typically recover their educational investment within **18 to 24 months** of graduating.
+When evaluating **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)**, the financial return on investment is a major differentiator. With an average starting package of **₹9.0 LPA** against a program fee of **₹11.00 Lakhs (Total)**, graduates typically recover their educational investment within **18 to 24 months** of graduating.
 
 For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Technology Management**, **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** remains a top-tier recommendation in the 2026–2027 B-school landscape.
 
@@ -147,17 +147,17 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
-[InquiryCard title="Get Direct Admission Counseling for [ISBR Business School](/colleges/isbr-business-school) (Bangalore)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
+[InquiryCard title="Get Direct Admission Counseling for [ISBR Business School](/colleges/isbr-bangalore) (Bangalore)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
 
 ---
 
 ## 8. Frequently Asked Questions (FAQs)
 
 ### Q1. What is the average salary package at [ISBR Business School](/colleges/isbr-bangalore) (Bangalore) in 2026?
-The average package offered during campus placements at **[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** is approximately **₹9.0 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
+The average package offered during campus placements at **[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** is approximately **₹9.0 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
 
 ### Q2. Which entrance exams are accepted for MBA/PGDM admission at [ISBR Business School](/colleges/isbr-bangalore) (Bangalore)?
-**[ISBR Business School](/colleges/isbr-business-school) (Bangalore)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
+**[ISBR Business School](/colleges/isbr-bangalore) (Bangalore)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
 
 ### Q3. What is the total fee for the MBA program at ISBR Business School (Bangalore)?
 The total tuition fee for the complete 2-year program is **₹11.00 Lakhs (Total)**. Additional charges apply for hostel accommodations and mess facilities.

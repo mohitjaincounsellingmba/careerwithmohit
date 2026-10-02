@@ -22,7 +22,7 @@ faqs:
       Most reputable private colleges require a minimum of **50% to 60%** in
       your graduation (BCA/B.Sc. IT).
   - question: >-
-      Can I get direct admission in [VIT Vellore](/colleges/vit-vellore) for
+      Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus) for
       MCA?
     answer: >-
       VIT primarily uses the **VITMEE** exam. However, for their other campuses
@@ -105,7 +105,7 @@ Yes. Recruiting giants like TCS, Infosys, and Google look for your **Skills and 
 **Q2. What is the minimum percentage for direct MCA admission?**
 Most reputable private colleges require a minimum of **50% to 60%** in your graduation (BCA/B.Sc. IT).
 
-**Q3. Can I get direct admission in [VIT Vellore](/colleges/vit-vellore) for MCA?**
+**Q3. Can I get direct admission in [VIT Vellore](/colleges/vit-vellore-campus) for MCA?**
 VIT primarily uses the **VITMEE** exam. However, for their other campuses or specific categories, they sometimes have specialized admission tracks—always check with an official counsellor.
 
 **Q4. Does direct admission cost more?**

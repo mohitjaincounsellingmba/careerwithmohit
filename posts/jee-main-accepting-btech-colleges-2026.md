@@ -124,7 +124,7 @@ Top AKTU-affiliated colleges accept JEE Main:
 
 If you prefer private universities with ultra-modern infrastructure, global tie-ups, and massive placement drives, many elite private institutions reserve a percentage of their seats for JEE Main candidates.
 
-### 1. [Thapar Institute of Engineering and Technology](/colleges/thapar-institute) (TIET), Patiala
+### 1. [Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala) (TIET), Patiala
 One of the oldest and most respected private colleges. A large chunk of their seats is filled via JEE Main percentile.
 - **Average Package:** ~₹11 LPA
 - **Status:** Highly Recommended
@@ -133,7 +133,7 @@ One of the oldest and most respected private colleges. A large chunk of their se
 Famous for its rigorous IT and CSE curriculum and prime location in the Delhi NCR IT hub.
 - **Admission:** Exclusively through JEE Main Rank.
 
-### 3. [Nirma University](/colleges/nirma-university), Ahmedabad
+### 3. [Nirma University](/colleges/nirma-institute-of-management), Ahmedabad
 The top private engineering college in Gujarat, known for strict academics and great ROI.
 - **Admission:** 35% seats for All India quota via JEE Main.
 
@@ -145,7 +145,7 @@ An elite institute dedicated to Information and Communication Technology with ph
 A rapidly growing private institute that rivals newer NITs in terms of coding culture and placement statistics.
 - **Admission:** Direct application using JEE Main score.
 
-### 6. [Amity University, Noida](/colleges/amity-university-noida) / [Bennett University](/colleges/bennett-greater-noida) / [Galgotias University](/colleges/galgotias-university)
+### 6. [Amity University, Noida](/colleges/amity-noida) / [Bennett University](/colleges/bennett-greater-noida) / [Galgotias University](/colleges/galgotias-university)
 These mega-universities offer direct admission opportunities and scholarships based on your JEE Main percentile.
 
 ---

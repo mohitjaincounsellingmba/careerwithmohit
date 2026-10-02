@@ -153,7 +153,7 @@ When filling your choices, prioritize the colleges based on cutoffs, placements,
 1. **USMS Dwarka (University Main Campus)** — Best ROI (Fees ~₹2.4 Lakhs, Avg package ~₹9-10 LPA).
 2. **USMS East Campus (Surajmal Vihar)** — Highly modern infrastructure, great for entrepreneurship and analytics.
 3. **Maharaja Agrasen Institute of Technology (MAIT), Rohini** — Top private affiliate (Avg package ~₹7.5 - 8.5 LPA).
-4. **[Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)** — Highly corporate-connected (Avg package ~₹7.5 - 9 LPA).
+4. **[Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)** — Highly corporate-connected (Avg package ~₹7.5 - 9 LPA).
 5. **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), Janakpuri** — Strong academic record and decent placements.
 
 For a deeper dive into these colleges, check out our honest review of [IPU MBA Colleges Review & Cutoff 2027–29](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2027-29).

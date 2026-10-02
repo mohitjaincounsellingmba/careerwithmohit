@@ -79,7 +79,7 @@ Before looking at the colleges, it's important to clarify how "Direct Admission"
 
 Here are some of the most reputable institutions where the total tuition fee for the 2-year MBA/PGDM program sits comfortably under the ₹5 Lakh mark.
 
-### 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
+### 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 - **Approximate Fees:** ₹4.0 Lakh - ₹5.0 Lakh
 - **Status:** AICTE Approved, PGDM.
 - **Why Choose It:** GNIOT has heavily upgraded its infrastructure and placement cell. It attracts companies from various sectors offering decent median packages for freshers.
@@ -94,7 +94,7 @@ Here are some of the most reputable institutions where the total tuition fee for
 - **Status:** Affiliated to AKTU.
 - **Why Choose It:** One of the most affordable MBA programs with decent regional connectivity. Great for those who want a formal MBA degree with minimal financial burden.
 
-### 4. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri, Delhi
+### 4. [Management Education & Research Institute (MERI)](/colleges/meri-delhi), Janakpuri, Delhi
 - **Approximate Fees:** ~₹3.5 Lakh - ₹4.0 Lakh
 - **Status:** Affiliated to GGSIPU (IP University).
 - **Why Choose It:** Located right in the heart of Delhi, giving you fantastic access to urban corporate networking. While IPU primarily takes through IPU-CET/CAT/CMAT, management quota seats are applicable.

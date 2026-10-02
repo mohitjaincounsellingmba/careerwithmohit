@@ -61,19 +61,19 @@ These institutions are highly popular among MAT test-takers, offering a blend of
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) - Greater Noida
+## 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH) - Greater Noida
 BIMTECH is a premier B-school in Greater Noida. While it accepts CAT/XAT for its core PGDM, it accepts MAT scores for its specialized PGDM in **Retail Management** and **Insurance Business Management**.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹14.0 - ₹15.0 Lakhs
 - **Average Placement Package:** ₹11.0 LPA
 
-### 2. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) - New Delhi
+### 2. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) - New Delhi
 NDIM is consistently ranked among the top private B-schools in India for product marketing and corporate internships.
 - **MAT Cutoff Percentile:** 70-75 Percentile
 - **Approx Tuition Fees (2 Years):** ₹11.5 Lakhs
 - **Average Placement Package:** ₹8.20 LPA
 
-### 3. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) - Rohini, Delhi
+### 3. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) - Rohini, Delhi
 A highly respectable option in North-West Delhi, offering a structured PGDM curriculum and dedicated industry mentoring.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹9.25 Lakhs

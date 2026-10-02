@@ -64,7 +64,7 @@ This edge includes:
 Sunstone has a wide network of partner colleges across major educational hubs in India. Here are some of the prominent partner campuses for the BBA program:
 
 ### **North India (Delhi NCR, Jaipur, Punjab/Haryana)**
-*   **Delhi NCR:** [GD Goenka University](/colleges/gd-goenka-university) (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
+*   **Delhi NCR:** [GD Goenka University](/colleges/gd-goenka-gurgaon) (Gurugram), HIERANK Business School (Noida), Delhi Technical Campus (Greater Noida)
 *   **Jaipur:** [JECRC University](/colleges/jecrc-jaipur), Vivekananda Global University (VGU), Jaipur National University
 *   **Punjab/Chandigarh:** Rayat-Bahra University (Mohali)
 *   **Lucknow:** Shri Ramswaroop Memorial University

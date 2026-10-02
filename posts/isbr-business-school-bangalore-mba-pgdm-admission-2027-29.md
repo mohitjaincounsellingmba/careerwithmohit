@@ -81,7 +81,7 @@ state: Karnataka
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · Affiliated to Bangalore University.
 > - **Audited Placements & PPO**: Average CTC stands at **₹9.00 LPA** (Top 25% at **₹12.50 LPA**) with a highest package of **₹20.00 LPA**. 25% of students secure PPOs in Electronic City IT & consulting firms.
 
-**[ISBR Business School](/colleges/isbr-business-school) (ISBR Bangalore)**, located in **Electronic City, Bangalore, Karnataka**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[ISBR Business School](/colleges/isbr-bangalore) (ISBR Bangalore)**, located in **Electronic City, Bangalore, Karnataka**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship MBA / PGDM programs or comparing top business schools in **Bangalore**, this detailed guide provides verified facts regarding **ISBR Bangalore's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -109,7 +109,7 @@ Whether you are targeting flagship MBA / PGDM programs or comparing top business
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-[ISBR Business School](/colleges/isbr-business-school) offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[ISBR Business School](/colleges/isbr-bangalore) offers its flagship **PGDM (AICTE Approved) & MBA (Bangalore University)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved · NBA Accredited · Affiliated to Bangalore University.

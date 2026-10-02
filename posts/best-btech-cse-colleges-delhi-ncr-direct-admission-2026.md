@@ -90,7 +90,7 @@ Here is a curated list of top colleges known for excellent CSE placements, infra
 *   **Management Quota:** Seats are available under the 15% AKTU management quota rule on a first-come, first-serve basis.
 *   **Average CSE Package:** ₹6 - ₹8 LPA.
 
-### 5. [Amity University, Noida](/colleges/amity-university-noida)
+### 5. [Amity University, Noida](/colleges/amity-noida)
 *   **Why Choose Amity:** Vast 1200-acre campus, phenomenal infrastructure, and a huge alumni network. Highly attractive for those wanting a dynamic campus life.
 *   **Admission Process:** Conducts an internal video interview or fast-track direct admission for students scoring >80% in CBSE/ICSE boards.
 *   **Average CSE Package:** ₹5 - ₹8 LPA.

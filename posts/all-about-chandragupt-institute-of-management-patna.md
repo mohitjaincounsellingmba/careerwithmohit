@@ -39,14 +39,14 @@ faqs:
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna)**
+### **College Review: [Chandragupt Institute of Management Patna](/colleges/cimp-patna)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) 2026 Snapshot
+### 📊 [Chandragupt Institute of Management Patna](/colleges/cimp-patna) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -74,18 +74,18 @@ faqs:
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) a good option for PGDM/MBA?
-Yes, [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Chandragupt Institute of Management Patna](/colleges/cimp-patna) a good option for PGDM/MBA?
+Yes, [Chandragupt Institute of Management Patna](/colleges/cimp-patna) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna)?
-The average placement package at [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) is approximately ₹7.50 LPA, with the highest package reaching up to ₹24.80 LPA.
+### 2. What is the average package offered at [Chandragupt Institute of Management Patna](/colleges/cimp-patna)?
+The average placement package at [Chandragupt Institute of Management Patna](/colleges/cimp-patna) is approximately ₹7.50 LPA, with the highest package reaching up to ₹24.80 LPA.
 
-### 3. What entrance exams are accepted by [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna)?
+### 3. What entrance exams are accepted by [Chandragupt Institute of Management Patna](/colleges/cimp-patna)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Chandragupt Institute of Management Patna](/colleges/cimp-patna) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Chandragupt Institute of Management Patna](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

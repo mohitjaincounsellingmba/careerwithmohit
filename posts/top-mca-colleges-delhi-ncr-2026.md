@@ -94,7 +94,7 @@ If you are looking for early specialization in AI, Cyber Security, or Cloud Comp
 ### 1. [KIET Group of Institutions](/colleges/kiet-ghaziabad), Ghaziabad
 Consistently outperforming many government colleges in placements. Their "Innovation Cell" has direct ties with companies like HCL and Infosys.
 
-### 2. [Amity University, Noida](/colleges/amity-university-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida)
 The most corporate-ready campus. Their MCA students often get PPOs (Pre-Placement Offers) from firms like Capgemini and Accenture during their 3rd semester.
 
 ### 3. [Bennett University](/colleges/bennett-greater-noida), Greater Noida

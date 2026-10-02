@@ -50,7 +50,7 @@ category: Jobs & Careers
 
 ### **[Jaipuria Noida](/colleges/jaipuria-noida) vs NDIM Delhi: The Ultimate Showdown**
 
-When it comes to pursuing a PGDM in the Delhi NCR region, **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida)** and **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM, Delhi)** are two of the most popular choices among aspirants. Both institutes boast strong academic foundations and excellent corporate connections. But which one should you choose for the 2027–29 batch?
+When it comes to pursuing a PGDM in the Delhi NCR region, **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida)** and **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM, Delhi)** are two of the most popular choices among aspirants. Both institutes boast strong academic foundations and excellent corporate connections. But which one should you choose for the 2027–29 batch?
 
 In this comprehensive review, we dive deep into fees, placements, location advantage, and overall ROI to give you a definitive answer.
 
@@ -58,7 +58,7 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 
 ### 📊 Head-to-Head Comparison (2026 Expected)
 
-| Feature | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) | [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida |
+| Feature | [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) | [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida |
 | :--- | :--- | :--- |
 | **Location** | Tughlakabad, South Delhi | Sector 62, Noida |
 | **Total Fees (Approx.)** | **₹13.75 Lakhs** | ₹14.50 Lakhs |

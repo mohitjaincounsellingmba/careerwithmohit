@@ -76,15 +76,15 @@ Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, o
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
 ## Top DRCC Approved Colleges in NCR:
-*   **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))** – Greater Noida
-*   **NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))** – Delhi
+*   **BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))** – Greater Noida
+*   **NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi))** – Delhi
 *   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore)** – Noida & Ghaziabad campuses
 *   **IMS Ghaziabad** (University Courses & PGDM)
 *   **IILM University / Graduate School of Management** – Greater Noida
 *   **[Galgotias University](/colleges/galgotias-university)** – Greater Noida
 *   **[Sharda University](/colleges/sharda-greater-noida) (School of Business Studies)** – Greater Noida
 *   **GL Bajaj Institute of Management & Technology** – Greater Noida
-*   **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** – Greater Noida
+*   **[GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida)** – Greater Noida
 *   **Noida Institute of Engineering & Technology (NIET)** – Greater Noida
 *   **[Bennett University](/colleges/bennett-greater-noida)** – Greater Noida
 *   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** – Greater Noida
@@ -116,7 +116,7 @@ Pune, the "Oxford of the East," and Mumbai, India's financial capital, are premi
 Jaipur has quietly emerged as an excellent hub for management studies, offering stellar infrastructure and strong regional placements at comparatively lower living costs.
 
 ### Top DRCC Approved Colleges in Rajasthan:
-*   **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** – Jaipur
+*   **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** – Jaipur
 *   **MNIT (Malaviya National Institute of Technology)** – Jaipur *(While primarily an NIT, its management department is highly sought after)*
 *   **Vivekananda Global University (VGU)** – Jaipur
 *   **Suresh Gyan Vihar University (SGVU)** – Jaipur

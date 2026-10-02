@@ -35,7 +35,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-### **College Review: [PES University](/colleges/pes-university)**
+### **College Review: [PES University](/colleges/pesu-bangalore)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
@@ -51,7 +51,7 @@ state: Karnataka
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 📊 [PES University](/colleges/pes-university) 2026 Snapshot
+## 📊 [PES University](/colleges/pesu-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -79,18 +79,18 @@ state: Karnataka
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [PES University](/colleges/pes-university) a good option for PGDM/MBA?
-Yes, [PES University](/colleges/pes-university) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [PES University](/colleges/pesu-bangalore) a good option for PGDM/MBA?
+Yes, [PES University](/colleges/pesu-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [PES University](/colleges/pes-university)?
-The average placement package at [PES University](/colleges/pes-university) is approximately ₹7.65 LPA, with the highest package reaching up to ₹12.50 LPA.
+### 2. What is the average package offered at [PES University](/colleges/pesu-bangalore)?
+The average placement package at [PES University](/colleges/pesu-bangalore) is approximately ₹7.65 LPA, with the highest package reaching up to ₹12.50 LPA.
 
-### 3. What entrance exams are accepted by [PES University](/colleges/pes-university)?
+### 3. What entrance exams are accepted by [PES University](/colleges/pesu-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [PES University](/colleges/pes-university) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [PES University](/colleges/pesu-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to PES University](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

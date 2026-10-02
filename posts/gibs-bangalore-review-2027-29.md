@@ -279,8 +279,8 @@ Here is how **GIBS Bangalore** compares against peer business schools in Bangalo
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[GIBS Business School Bangalore](/colleges/gibs-bangalore)** | **₹11.25 Lakhs** | **₹8.40 – ₹9.50 LPA** | **CAT/MAT/XAT/CMAT (55%+ %ile) · AICTE Approved · Finishing School & IRE** |
-| **[Indus Business Academy (IBA Bangalore)](/colleges/indus-business-academy)** | ₹10.25 Lakhs | ₹6.60 – ₹8.00 LPA | CAT/XAT/CMAT/MAT · AICTE & AIU Equivalent · Kanakapura Road Campus |
-| **[ISBR Business School Bangalore](/colleges/isbr-business-school)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Electronic City Tech Hub Proximity |
+| **[Indus Business Academy (IBA Bangalore)](/colleges/iba-bangalore)** | ₹10.25 Lakhs | ₹6.60 – ₹8.00 LPA | CAT/XAT/CMAT/MAT · AICTE & AIU Equivalent · Kanakapura Road Campus |
+| **[ISBR Business School Bangalore](/colleges/isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Electronic City Tech Hub Proximity |
 | **[Alliance School of Business Bangalore](/colleges/alliance-university-bangalore)** | ₹15.00L – ₹18.00L | ₹8.50 – ₹10.00 LPA | AMAT/CAT/XAT/NMAT · AMBA Accredited 55-Acre University Campus |
 | **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Corporate Internships |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹11.50L – ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AICTE & AIU MBA Equivalence |

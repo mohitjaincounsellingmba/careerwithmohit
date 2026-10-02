@@ -45,9 +45,9 @@ faqs:
       requiring JEE.
   - question: >-
       What is the fee for B.Tech at [Nirma
-      University](/colleges/nirma-university) Ahmedabad?
+      University](/colleges/nirma-institute-of-management) Ahmedabad?
     answer: >-
-      [Nirma University](/colleges/nirma-university) charges approximately ₹2.5
+      [Nirma University](/colleges/nirma-institute-of-management) charges approximately ₹2.5
       Lakhs per year for engineering programmes. Total programme cost is
       approximately ₹10–11 Lakhs.
 location: Ahmedabad
@@ -72,7 +72,7 @@ This guide covers the **top B.Tech colleges in Ahmedabad and Gujarat for 2026** 
 | IIT Gandhinagar | Gandhinagar | ₹2.5 L/yr | ₹16–22 LPA | JEE Advanced |
 | DAIICT Gandhinagar | Gandhinagar | ₹2.2 L/yr | ₹10–18 LPA | DAIICT Entrance |
 | PDEU Gandhinagar | Gandhinagar | ₹1.8 L/yr | ₹7–12 LPA | ACPC / JEE Main |
-| [Nirma University](/colleges/nirma-university) | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
+| [Nirma University](/colleges/nirma-institute-of-management) | Ahmedabad | ₹2.5 L/yr | ₹6–12 LPA | ACPC / Direct |
 | SVNIT Surat | Surat | ₹1.5 L/yr | ₹6–10 LPA | JEE Main |
 | LD Engineering College | Ahmedabad | ₹0.55 L/yr | ₹5–8 LPA | ACPC |
 | VGEC Ahmedabad | Ahmedabad | ₹0.60 L/yr | ₹5–8 LPA | ACPC |
@@ -114,7 +114,7 @@ A Gujarat state-funded university specialising in energy and petroleum engineeri
 
 ## Tier 2 — Top Private Colleges in Ahmedabad
 
-### 4. [Nirma University](/colleges/nirma-university), Ahmedabad
+### 4. [Nirma University](/colleges/nirma-institute-of-management), Ahmedabad
 One of Gujarat's premium private universities with excellent placement records in CSE, Chemical, and Mechanical Engineering.
 
 - **Courses:** CSE, ECE, Chemical, Mechanical, Civil, Biotechnology
@@ -165,8 +165,8 @@ DAIICT is a private autonomous institute funded by the Reliance/Ambani trust. It
 **Q4. Can I get B.Tech in Ahmedabad without JEE Main?**
 Yes. DAIICT has its own entrance test. Private colleges like Silver Oak, Parul, and GLS offer direct admission based on Class 12 marks without requiring JEE.
 
-**Q5. What is the fee for B.Tech at [Nirma University](/colleges/nirma-university) Ahmedabad?**
-[Nirma University](/colleges/nirma-university) charges approximately ₹2.5 Lakhs per year for engineering programmes. Total programme cost is approximately ₹10–11 Lakhs.
+**Q5. What is the fee for B.Tech at [Nirma University](/colleges/nirma-institute-of-management) Ahmedabad?**
+[Nirma University](/colleges/nirma-institute-of-management) charges approximately ₹2.5 Lakhs per year for engineering programmes. Total programme cost is approximately ₹10–11 Lakhs.
 
 ---
 

@@ -47,7 +47,7 @@ state: Delhi NCR
 
 ---
 
-### 📊 [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) 2026 Snapshot
+### 📊 [Jaipuria Institute of Management](/colleges/jaipuria-jaipur) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,12 +76,12 @@ state: Delhi NCR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-lucknow) a good option for PGDM/MBA?
-Yes, [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Jaipuria Institute of Management](/colleges/jaipuria-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management)?
+### 2. What is the average package offered at [Jaipuria Institute of Management](/colleges/jaipuria-noida)?
 The average placement package at [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) is approximately ₹5.7 LPA, with the highest package reaching up to ₹14.5 LPA.
 
-### 3. What entrance exams are accepted by [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)?
+### 3. What entrance exams are accepted by [Jaipuria Institute of Management](/colleges/jaipuria-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---

@@ -38,7 +38,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-The NMAT by GMAC (Graduate Management Admission Council) is one of the most student-friendly yet demanding MBA entrance exams in India. It is the primary gateway to the prestigious Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS), Mumbai, which requires a scaled score of **235 to 245+** for its flagship MBA program.
+The NMAT by GMAC (Graduate Management Admission Council) is one of the most student-friendly yet demanding MBA entrance exams in India. It is the primary gateway to the prestigious Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (NMIMS), Mumbai, which requires a scaled score of **235 to 245+** for its flagship MBA program.
 
 Two factors make NMAT unique: it is a **Computer Adaptive Test (CAT)**, and it allows candidates to take the exam up to **three times** in a testing window.
 

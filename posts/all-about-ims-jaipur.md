@@ -49,7 +49,7 @@ state: Delhi NCR
 
 ---
 
-### 📊 [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) 2026 Snapshot
+### 📊 [Institute of Management Studies](/colleges/ims-noida) (IIIM) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -78,19 +78,19 @@ state: Delhi NCR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [Institute of Management Studies (IIIM)](/colleges/ims-jaipur) a good option for PGDM/MBA?
-Yes, [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [Institute of Management Studies](/colleges/ims-noida) (IIIM) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [Institute of Management Studies (IIIM)](/colleges/ims-jaipur)?
-The average placement package at [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) is approximately ₹4.0 LPA, with the highest package reaching up to ₹8.0 LPA.
+The average placement package at [Institute of Management Studies](/colleges/ims-noida) (IIIM) is approximately ₹4.0 LPA, with the highest package reaching up to ₹8.0 LPA.
 
 ### 3. What entrance exams are accepted by [Institute of Management Studies (IIIM)](/colleges/ims-jaipur)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Institute of Management Studies](/colleges/ims-noida) (IIIM) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
-[👉 Apply to [Institute of Management Studies](/colleges/institute-of-management-studies) (IIIM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
+[👉 Apply to [Institute of Management Studies](/colleges/ims-noida) (IIIM)](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---
 
 ### 🚀 Boost Your Preparation

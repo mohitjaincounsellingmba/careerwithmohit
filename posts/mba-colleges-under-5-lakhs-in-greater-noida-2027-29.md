@@ -67,7 +67,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)
+## 1. GNIOT [Institute of Management Studies](/colleges/ims-noida)
 - **Approximate Fees:** ₹3.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.5 LPA**
@@ -93,7 +93,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 
 | College Name | Entrance Exams | Approximate Fees | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
-| **GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies)** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
+| **GNIOT [Institute of Management Studies](/colleges/ims-noida)** | MAT / CMAT / CAT | ₹3.2 Lakhs (Total) | **₹5.5 LPA** |
 | **[Galgotias University](/colleges/galgotias-university) (MBA Program)** | CUET-PG / CMAT | ₹3.0 Lakhs (Total) | **₹5.0 LPA** |
 | **Mangalmay Institute of Management & Technology** | CMAT / MAT / Merit | ₹2.8 Lakhs (Total) | **₹4.8 LPA** |
 

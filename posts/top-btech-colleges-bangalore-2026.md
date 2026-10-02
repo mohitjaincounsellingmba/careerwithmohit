@@ -9,7 +9,7 @@ keywords:
   - top B.Tech colleges in Bangalore 2026
   - best engineering colleges Bangalore
   - RVCE Bangalore B.Tech fees
-  - '[BMSCE Bangalore](/colleges/bmsce-bangalore) placements'
+  - '[BMSCE Bangalore](/colleges/bms-college-of-engineering-bangalore) placements'
   - COMEDK B.Tech colleges
   - KCET 2026 Bangalore
   - Direct Admission in Delhi
@@ -60,7 +60,7 @@ If you are aiming for B.Tech admission in 2026, here is your comprehensive guide
 *   **Average Placement:** ₹8 - 9 LPA.
 *   **USP:** Centrally located with strong alumni networks in global tech firms.
 
-### 3. [M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/msrit-bangalore)
+### 3. [M.S. Ramaiah Institute of Technology (MSRIT)](/colleges/ms-ramaiah-institute-of-technology)
 *   **Affiliation:** Autonomous institution under VTU.
 *   **Entrance Exam:** KCET, COMEDK.
 *   **Approx. Fees:** ₹2.5 - 4.0 Lakhs (Annual).
@@ -81,7 +81,7 @@ If you are aiming for B.Tech admission in 2026, here is your comprehensive guide
 | College Name | Top Entrance Exam | Avg. Placement | Key Strength |
 | :--- | :--- | :--- | :--- |
 | **RVCE** | COMEDK / KCET | ₹11 LPA | Industry Legacy |
-| **[PES University](/colleges/pes-university)** | PESSAT / KCET | ₹10.5 LPA | Research Focus |
+| **[PES University](/colleges/pesu-bangalore)** | PESSAT / KCET | ₹10.5 LPA | Research Focus |
 | **BMSCE** | COMEDK / KCET | ₹8.5 LPA | Alumni Network |
 | **MSRIT** | COMEDK / KCET | ₹8 LPA | Corporate Ties |
 

@@ -85,7 +85,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+#### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA
@@ -109,7 +109,7 @@ Steady placement growth and strong faculty pool.
 - **Avg. Placement**: ₹6.0 LPA
 - **Top Recruiters**: Genpact, Yamaha, L&T Infotech, HCL, Capgemini.
 
-#### 7. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri
+#### 7. [Management Education & Research Institute (MERI)](/colleges/meri-delhi), Janakpuri
 One of the oldest and most trusted management colleges in West Delhi.
 - **Fees**: ₹3.10 Lakhs (Total)
 - **Avg. Placement**: ₹5.8 LPA

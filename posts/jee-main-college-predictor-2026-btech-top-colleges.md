@@ -54,7 +54,7 @@ Engineering admissions in India are divided into competitive tiers. Based on his
 | **98.5+ %ile** | **Elite Tier** | NIT Trichy, NIT Surathkal, DTU Delhi, NSUT Delhi |
 | **95 - 98.4%ile** | **Top Tier** | IIIT Delhi, COEP Pune, RVCE Bangalore, PEC Chandigarh |
 | **88 - 94.9%ile** | **Premium Tier** | MAIT Delhi, PICT Pune, MSRIT Bangalore, IGDTUW |
-| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pes-university), AKGEC, BVCOE Delhi |
+| **75 - 87.9%ile** | **Mid Tier** | VIT Pune, [PES University](/colleges/pesu-bangalore), AKGEC, BVCOE Delhi |
 | **60 - 74.9%ile** | **Emerging Tier** | GL Bajaj Noida, NIET, GNIOT, ABES Ghaziabad |
 
 > **Pro Tip:** For a Computer Science (CSE) seat in a top-5 NIT, you generally need a percentile above **99.2+**.

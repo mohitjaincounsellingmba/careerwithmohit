@@ -87,7 +87,7 @@ NMIMS evaluates candidates based on overall scaled scores as well as strict sect
 
 ## Top Colleges Accepting NMAT Scores
 
-- NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) - Mumbai & all off-campuses
+- NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) - Mumbai & all off-campuses
 - K. J. Somaiya Institute of Management, Mumbai
 - XIMB (Xavier Institute of Management, Bhubaneswar) - *Only for HR specialization*
 - SDA Bocconi Asia Center, Mumbai

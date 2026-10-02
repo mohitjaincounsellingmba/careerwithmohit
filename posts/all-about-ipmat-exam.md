@@ -142,7 +142,7 @@ The IPMAT exam is no longer restricted to a single institution. Several premier 
 | **IIFT Kakinada** | 5-Year Integrated Program | IPMAT Indore | ₹30 – 32 Lakhs | ₹29.10 LPA (Flagship) |
 | **NALSAR University, Hyderabad** | 5-Year IPM | IPMAT Indore | ₹20 – 24 Lakhs | ₹12 – 14 LPA |
 | **[TAPMI Bengaluru](/colleges/tapmi-bangalore)** | 4-Year BBA Honors / IPM | IPMAT Indore | ₹16 – 20 Lakhs | ₹14 – 15 LPA |
-| **[Nirma University](/colleges/nirma-university), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
+| **[Nirma University](/colleges/nirma-institute-of-management), Ahmedabad** | 5-Year Integrated BBA-MBA | IPMAT Indore | ₹18 – 22 Lakhs | ₹12 – 13 LPA |
 
 *(Note: [IIM Bodh Gaya](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2027-29) and [IIM Jammu](/blog/all-about-iim-jammu-ipm-bba-admission-2027-29) accept JIPMAT scores conducted by NTA.)*
 
@@ -250,7 +250,7 @@ Cracking IPMAT requires a structured strategy that balances board exam preparati
 IPMAT Indore and IPMAT Rohtak are expected to be conducted in **May 2026**, shortly after the Class 12 board examinations conclude. Official registrations typically begin in February or March 2026.
 
 ### 2. Which top colleges accept IPMAT scores?
-Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **[TAPMI Bengaluru](/colleges/tapmi-bangalore)**, **[Nirma University](/colleges/nirma-university)**, and **T.A. Pai Management Institute**.
+Apart from **IIM Indore**, IPMAT Indore scores are accepted by **IIM Ranchi**, **IIFT Kakinada**, **NALSAR University Hyderabad**, **[TAPMI Bengaluru](/colleges/tapmi-bangalore)**, **[Nirma University](/colleges/nirma-institute-of-management)**, and **T.A. Pai Management Institute**.
 
 ### 3. Is mathematics compulsory in Class 12 for IPMAT?
 No, having Mathematics in Class 12 is **not compulsory** to appear for IPMAT Indore or IPMAT Rohtak. However, the Quantitative Aptitude section tests high-school mathematics concepts up to Class 10/11 level.

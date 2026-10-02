@@ -70,7 +70,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Jaipur
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur
 - **Approximate Fees:** ₹11.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹7.40 LPA**

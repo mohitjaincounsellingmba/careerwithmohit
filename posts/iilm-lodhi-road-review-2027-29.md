@@ -44,7 +44,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** continues to be one of the most prominent management destinations in **Lodhi Road (Central Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[IILM Institute for Higher Education](/colleges/iilm-delhi)** continues to be one of the most prominent management destinations in **Lodhi Road (Central Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Central Delhi, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -56,7 +56,7 @@ The table below summarizes the key metrics for **[IILM Institute for Higher Educ
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** |
+| **Institution Name** | **[IILM Institute for Higher Education](/colleges/iilm-delhi)** |
 | **Location & Campus** | Lodhi Road, Central Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -103,7 +103,7 @@ The placement record at **[IILM Institute for Higher Education](/colleges/iilm-d
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[IILM Institute for Higher Education](/colleges/iilm-delhi)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.
@@ -134,7 +134,7 @@ Admission to **[IILM Institute for Higher Education](/colleges/iilm-institute-fo
 
 ## 6. ROI Evaluation & Final Verdict
 
-When evaluating **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)**, the financial return on investment is a major differentiator. With an average starting package of **₹8.6 LPA** against a program fee of **₹12.90 Lakhs (Total)**, graduates typically recover their educational investment within **18 to 24 months** of graduating.
+When evaluating **[IILM Institute for Higher Education](/colleges/iilm-delhi)**, the financial return on investment is a major differentiator. With an average starting package of **₹8.6 LPA** against a program fee of **₹12.90 Lakhs (Total)**, graduates typically recover their educational investment within **18 to 24 months** of graduating.
 
 For aspirants looking to build a career in **Consulting, BFSI, Marketing, or Technology Management**, **[IILM Institute for Higher Education](/colleges/iilm-delhi)** remains a top-tier recommendation in the 2026–2027 B-school landscape.
 
@@ -150,17 +150,17 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
 *   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
 
-[InquiryCard title="Get Direct Admission Counseling for [IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
+[InquiryCard title="Get Direct Admission Counseling for [IILM Institute for Higher Education](/colleges/iilm-delhi)" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
 
 ---
 
 ## 8. Frequently Asked Questions (FAQs)
 
 ### Q1. What is the average salary package at [IILM Institute for Higher Education](/colleges/iilm-delhi) in 2026?
-The average package offered during campus placements at **[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** is approximately **₹8.6 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
+The average package offered during campus placements at **[IILM Institute for Higher Education](/colleges/iilm-delhi)** is approximately **₹8.6 LPA**, with top quartile students securing significantly higher packages up to **₹20.0 LPA**.
 
 ### Q2. Which entrance exams are accepted for MBA/PGDM admission at [IILM Institute for Higher Education](/colleges/iilm-delhi)?
-**[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
+**[IILM Institute for Higher Education](/colleges/iilm-delhi)** accepts scores from **CAT, XAT, CMAT, MAT, ATMA** for shortlisting applicants for its 2-year full-time management programs.
 
 ### Q3. What is the total fee for the MBA program at IILM Institute for Higher Education?
 The total tuition fee for the complete 2-year program is **₹12.90 Lakhs (Total)**. Additional charges apply for hostel accommodations and mess facilities.

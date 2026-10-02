@@ -36,14 +36,14 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [EMPI Institutions](/colleges/empi-institutions)**
+### **College Review: [EMPI Institutions](/colleges/empi-delhi)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [EMPI Institutions](/colleges/empi-institutions) 2026 Snapshot
+### 📊 [EMPI Institutions](/colleges/empi-delhi) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -71,18 +71,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [EMPI Institutions](/colleges/empi-institutions) a good option for PGDM/MBA?
-Yes, [EMPI Institutions](/colleges/empi-institutions) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [EMPI Institutions](/colleges/empi-delhi) a good option for PGDM/MBA?
+Yes, [EMPI Institutions](/colleges/empi-delhi) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [EMPI Institutions](/colleges/empi-institutions)?
-The average placement package at [EMPI Institutions](/colleges/empi-institutions) is approximately ₹6.5 LPA, with the highest package reaching up to ₹12.0 LPA.
+### 2. What is the average package offered at [EMPI Institutions](/colleges/empi-delhi)?
+The average placement package at [EMPI Institutions](/colleges/empi-delhi) is approximately ₹6.5 LPA, with the highest package reaching up to ₹12.0 LPA.
 
-### 3. What entrance exams are accepted by [EMPI Institutions](/colleges/empi-institutions)?
+### 3. What entrance exams are accepted by [EMPI Institutions](/colleges/empi-delhi)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [EMPI Institutions](/colleges/empi-institutions) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [EMPI Institutions](/colleges/empi-delhi) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to EMPI Institutions](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

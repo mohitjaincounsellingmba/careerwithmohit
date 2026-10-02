@@ -41,7 +41,7 @@ category: Exams
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹9.50 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-The **[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH)**, Greater Noida, is a premier name in Indian management education, consistently ranked among the top private B-schools. In 2026, its **Online PGDM program** has become a top choice for working professionals, thanks to its prestigious **AACSB accreditation**—a global gold standard held by less than 5% of business schools worldwide.
+The **[Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH)**, Greater Noida, is a premier name in Indian management education, consistently ranked among the top private B-schools. In 2026, its **Online PGDM program** has become a top choice for working professionals, thanks to its prestigious **AACSB accreditation**—a global gold standard held by less than 5% of business schools worldwide.
 
 <div style="margin: 40px 0; text-align: center;">
   <a href="https://cvadm.com/lR049a" style="display: inline-block; background-color: #000; color: #fff; padding: 20px 40px; font-size: 24px; font-weight: 900; text-transform: uppercase; text-decoration: none; border: 6px solid #000; box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);">

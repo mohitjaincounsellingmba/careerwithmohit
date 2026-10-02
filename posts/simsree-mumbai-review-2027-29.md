@@ -42,14 +42,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies)) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+# SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida)) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** continues to be one of the most prominent management destinations in **Mumbai (Maharashtra)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))** continues to be one of the most prominent management destinations in **Mumbai (Maharashtra)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in Maharashtra, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -57,11 +57,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** |
+| **Institution Name** | **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))** |
 | **Location & Campus** | Mumbai, Maharashtra |
 | **Accreditation & Approvals** | AICTE Approved, Government of Maharashtra |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -93,7 +93,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2027–29–2026: Salary Packages & Recruiters
 
-The placement record at **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹26.5 LPA**
 *   **Average CTC:** **₹15.19 LPA**
@@ -108,7 +108,7 @@ The placement record at **SIMSREE Mumbai (Sydenham [Institute of Management Stud
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **MAH MBA CET, CAT, CMAT**.
@@ -123,7 +123,7 @@ Admission to **SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colle
 
 ---
 
-## 5. Why Choose SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))? (Pros & Cons)
+## 5. Why Choose SIMSREE Mumbai (Sydenham [Institute of Management Studies](/colleges/ims-noida))? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Mumbai and across major commercial hubs in India.

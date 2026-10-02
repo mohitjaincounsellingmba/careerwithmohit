@@ -1,5 +1,5 @@
 ---
-name: Jaipuria Noida
+name: 'Jaipuria Institute of Management, Noida'
 logo: /colleges/jaipuria-logo.webp
 location: Delhi NCR
 category: Management

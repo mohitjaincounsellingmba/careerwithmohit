@@ -67,7 +67,7 @@ Known for its management education legacy and sports focus.
 *   **Programs:** BA (Hons), B.Com (Hons), B.Tech.
 *   **USP:** Research-led teaching and corporate interface.
 
-### **5. [PES University](/colleges/pes-university)**
+### **5. [PES University](/colleges/pesu-bangalore)**
 A top-tier technical institute that considers CUET scores for specific programs.
 *   **Programs:** BBA, B.Com (Hons).
 *   **USP:** High placement rates and excellent infrastructure.

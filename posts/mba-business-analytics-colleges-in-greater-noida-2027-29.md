@@ -55,9 +55,9 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **[BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
+| **[BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))](/colleges/bimtech-greater-noida)** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
 | **[Sharda University (School of Business Studies)](/colleges/sharda-greater-noida)** | SUAT / CAT / MAT | ₹6.5 Lakhs (Total) | **₹5.80 LPA** |
-| **[GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
+| **[GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))](/colleges/gniot-greater-noida)** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
 | **[GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
 
 ---
@@ -79,7 +79,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. [BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))](/colleges/bimtech-greater-noida)
+### 1. [BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))](/colleges/bimtech-greater-noida)
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
@@ -91,7 +91,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹5.80 LPA**
 - **Key Highlight:** Offers a specialized MBA in Business Analytics with extensive practical application training.
 
-### 3. [GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))](/colleges/gniot-greater-noida)
+### 3. [GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))](/colleges/gniot-greater-noida)
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**

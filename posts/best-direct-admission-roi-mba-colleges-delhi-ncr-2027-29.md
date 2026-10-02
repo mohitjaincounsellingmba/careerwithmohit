@@ -101,14 +101,14 @@ If you are looking for an affordable PGDM program, GL Bajaj is a dominant player
 - **Why it has High ROI:** The fees are extremely competitive, yet it attracts major IT and corporate recruiters from Noida and Gurgaon.
 - **Admission Mode:** Direct admission is available through management quota.
 
-### 4. NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
+### 4. NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), Delhi
 NDIM is renowned for its industry linkage and having one of the largest corporate mentoring panels in India.
 - **Estimated Tuition Fee:** ₹13.85 Lakhs
 - **Average Placement:** ₹9.50 – ₹10.00 Lakhs
 - **Why it has High ROI:** Consistent placements and heavy recruitment by Finance and Marketing giants. 
 - **Admission Mode:** A dedicated percentage of seats is reserved for Management Quota.
 
-### 5. [FIIB ([Fortune Institute of International Business](/colleges/fortune-institute-of-international-business)), Delhi](/colleges/fiib-delhi)
+### 5. [FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi)), Delhi](/colleges/fiib-delhi)
 FIIB offers a robust curriculum focused on international business and sustainability.
 - **Estimated Tuition Fee:** ₹12.85 Lakhs
 - **Average Placement:** ₹8.50 – ₹9.00 Lakhs

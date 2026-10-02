@@ -79,7 +79,7 @@ Known for its strict discipline and holistic development, the Delhi NCR campus o
 - **Highest Package:** ₹10 LPA
 - **Key Advantage:** Heavy focus on business presentations, research papers, and corporate grooming.
 
-### 4. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS), Delhi
+### 4. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS), Delhi
 Affiliated with GGSIPU, MAIMS is located in Rohini, Delhi, and ranks among the best IP University colleges for management education.
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam:** IPU CET / CUET UG
@@ -87,7 +87,7 @@ Affiliated with GGSIPU, MAIMS is located in Rohini, Delhi, and ranks among the b
 - **Highest Package:** ₹8.5 LPA
 - **Key Advantage:** Proactive internship cell and active extracurricular student societies.
 
-### 5. [Amity University, Noida](/colleges/amity-university-noida)
+### 5. [Amity University, Noida](/colleges/amity-noida)
 Amity is a premium private university boasting state-of-the-art campus infrastructure, global study programs, and a massive alumni network.
 - **Approximate Annual Fees:** ₹3.8 Lakhs - ₹4.5 Lakhs
 - **Entrance Exam:** Merit-Based (Class 12th Marks) / English Test + PI
@@ -119,7 +119,7 @@ Galgotias is popular for its dynamic campus environment, modern pedagogy, and st
 - **Highest Package:** ₹8.2 LPA
 - **Key Advantage:** Strong placement drive with over 500 recruiters visiting campus annually.
 
-### 9. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 9. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
 JIMS Rohini is a well-established GGSIPU institute known for its industry-aligned BBA program and focused placement preparation.
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam:** IPU CET

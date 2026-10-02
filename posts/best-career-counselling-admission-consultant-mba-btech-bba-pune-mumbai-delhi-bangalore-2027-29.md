@@ -214,7 +214,7 @@ Pune is recognized as the *"Oxford of the East"*, offering a vibrant student lif
 Mumbai offers unparalleled corporate access to multinational investment banks, media conglomerates, FMCG giants, and Fortune 500 headquarters.
 
 * **Top MBA / PGDM Colleges in Mumbai**:
-  - JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+  - JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
   - [SPJIMR Mumbai](/colleges/spjimr-mumbai) (S.P. Jain Institute of Management and Research)
   - [NMIMS School of Business Management (SBM Mumbai)](/blog/nmims-mumbai-university-review-2027-29)
   - SIMSREE (Sydenham Institute)
@@ -252,9 +252,9 @@ Delhi NCR houses the highest concentration of corporate headquarters, consulting
 Greater Noida’s Knowledge Park I, II, and III have evolved into one of India’s premier higher education corridors, offering excellent infrastructure and top placement cells.
 
 * **Top MBA / PGDM Colleges in Greater Noida**:
-  - [BIMTECH Greater Noida](/colleges/bimtech-greater-noida) ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
+  - [BIMTECH Greater Noida](/colleges/bimtech-greater-noida) ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
   - [GL Bajaj Institute of Management & Research](/colleges/gl-bajaj-greater-noida)
-  - [GNIOT Group of Institutions (GIMS)](/colleges/gniot-institute-of-management-studies-gims)
+  - [GNIOT Group of Institutions (GIMS)](/colleges/gniot-greater-noida)
   - [Accurate Institute of Management & Technology](/blog/accurate-greater-noida-review-2027-29)
   - [Lloyd Business School](/colleges/lloyd-business-school-greater-noida)
   - [IILM University Greater Noida](/colleges/iilm-university-greater-noida)
@@ -283,7 +283,7 @@ Ghaziabad offers strategic proximity to East Delhi and Noida with long-establish
 Jaipur combines affordable living, exceptional campus life, and nationally acclaimed private universities and business schools.
 
 * **Top Institutions in Jaipur**:
-  - [Jaipuria Institute of Management Jaipur](/colleges/jaipuria-institute-of-management-jaipur)
+  - [Jaipuria Institute of Management Jaipur](/colleges/jaipuria-jaipur)
   - [Taxila Business School Jaipur](/colleges/taxila-jaipur)
   - [Manipal University Jaipur (MUJ)](/blog/all-about-manipal-university-btech-campuses)
   - [JK Lakshmipat University (JKLU Jaipur)](/blog/jk-lakshmipat-university-jklu-jaipur-review-2027-29)
@@ -302,7 +302,7 @@ Bangalore provides unmatched exposure to global tech giants (Google, Microsoft, 
   - [SIBM Bangalore](/colleges/sibm-bangalore) & [NMIMS Bangalore](/colleges/nmims-bangalore)
   - [XIME Bangalore](/colleges/xime-bangalore) (Xavier Institute of Management & Entrepreneurship)
   - [Alliance School of Business (Alliance University)](/blog/alliance-university-bangalore-review-2027-29)
-  - [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))](/colleges/jagsom-bangalore)
+  - [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))](/colleges/jagsom-bangalore)
   - [ISBR Business School](/colleges/isbr-bangalore), [AIMS Institutes](/colleges/aims-bangalore), [Welingkar Bangalore](/colleges/welingkar-bangalore)
   - [Christ University (School of Business and Management)](/blog/christ-university-bangalore-review-2027-29)
 * **Top Engineering & BBA Colleges in Bangalore**:

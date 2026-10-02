@@ -60,7 +60,7 @@ SSCBS routinely outperforms several MBA colleges in terms of starting packages.
 - **Average Salary Package:** ₹11.5 LPA
 - **Top Profiles:** Investment Banking Analyst, Strategy Consultant, Valuation Associate.
 
-### 2. [Amity University, Noida](/colleges/amity-university-noida)
+### 2. [Amity University, Noida](/colleges/amity-noida)
 Amity's strong corporate outreach program helps select students secure competitive roles in MNCs.
 - **Highest Salary Package:** ₹15 LPA
 - **Average Salary Package:** ₹5.5 LPA

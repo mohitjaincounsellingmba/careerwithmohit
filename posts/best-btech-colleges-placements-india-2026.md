@@ -39,7 +39,7 @@ faqs:
       From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect
       ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.
   - question: >-
-      Is [VIT Vellore](/colleges/vit-vellore) good for placements despite the
+      Is [VIT Vellore](/colleges/vit-vellore-campus) good for placements despite the
       large batch size?
     answer: >-
       Yes — but with caveats. VIT places ~70% of its 10,000 students. The
@@ -74,7 +74,7 @@ This expert guide gives you **honest, verified placement data for India's best B
 | NIT Tiruchirappalli | ~1,200 | ~82% | ₹10–14 LPA | ₹55 LPA | Amazon, Zoho, Goldman Sachs |
 | Thapar University | ~2,000 | ~75% | ₹10–13 LPA | ₹60 LPA | Microsoft, Sprinklr, Uber India |
 | NIT Warangal | ~1,200 | ~80% | ₹9–12 LPA | ₹45 LPA | TCS, Wipro, Microsoft |
-| [VIT Vellore](/colleges/vit-vellore) | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
+| [VIT Vellore](/colleges/vit-vellore-campus) | ~10,000 | ~70% | ₹7–10 LPA | ₹70 LPA | TCS, Wipro, Amazon, Zoho |
 | SRM Kattankulathur | ~8,000 | ~65% | ₹6–9 LPA | ₹60 LPA | TCS, Infosys, Cognizant |
 | JIIT Noida | ~2,000 | ~75% | ₹8–10 LPA | ₹45 LPA | Amazon, Adobe, Samsung |
 | Chandigarh University | ~6,000 | ~65% | ₹5–8 LPA | ₹42 LPA | TCS, HCL, Wipro, IBM |
@@ -123,7 +123,7 @@ Strong placements in software and core engineering, particularly for CS and ECE 
 
 ## Tier 4 — Top Private: Best for Mass Placements
 
-### [VIT Vellore](/colleges/vit-vellore) — India's Largest Placement Operation
+### [VIT Vellore](/colleges/vit-vellore-campus) — India's Largest Placement Operation
 20,000+ students, 600+ recruiting companies, ₹7–10 LPA average. Best for students who want placement certainty over prestige.
 
 ### Thapar University — Best Private for High Packages
@@ -178,7 +178,7 @@ Rarely. Most "100% placement" claims count internships, deferred offers, or pool
 **Q4. What average salary can I expect from a top NIT?**
 From NIT Trichy, NIT Warangal, or NIT Surathkal for CSE, you can expect ₹10–16 LPA average. For ECE and Mechanical, ₹6–12 LPA.
 
-**Q5. Is [VIT Vellore](/colleges/vit-vellore) good for placements despite the large batch size?**
+**Q5. Is [VIT Vellore](/colleges/vit-vellore-campus) good for placements despite the large batch size?**
 Yes — but with caveats. VIT places ~70% of its 10,000 students. The average is ₹7–10 LPA. For mass IT companies, placement is near-certain. For product companies (Google, Amazon direct), competition is intense.
 
 ---

@@ -73,7 +73,7 @@ If you are targeting direct admission in Delhi NCR, the process typically follow
 
 Many top private universities and legacy PGDM institutes in Noida, Greater Noida, and Gurgaon offer direct admissions:
 
-### 1. [Amity University, Noida](/colleges/amity-university-noida)
+### 1. [Amity University, Noida](/colleges/amity-noida)
 Amity Noida is one of India's largest private universities, boasting state-of-the-art infrastructure and a massive corporate recruitment network.
 - **Pathway:** Merit-based direct admission for graduates with 60%+ aggregate marks, followed by an English language test and personal interview.
 - **Approx Total Fees:** ₹12.0 Lakhs
@@ -100,7 +100,7 @@ A popular choice for students looking for an affordable MBA program with strong 
 | College Name | Admission Mode | Approx 2-Year Tuition Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida)** | Profile / Corporate Quota | ₹16.0 Lakhs | **₹11.00 LPA** |
-| **[Amity University Noida](/colleges/amity-university-noida)** | Academic Merit / PI | ₹12.0 Lakhs | **₹5.50 LPA** |
+| **[Amity University Noida](/colleges/amity-noida)** | Academic Merit / PI | ₹12.0 Lakhs | **₹5.50 LPA** |
 | **[Bennett University](/colleges/bennett-greater-noida)** | Graduation Merit / PI | ₹8.50 Lakhs | **₹6.80 LPA** |
 | **[GNIOT Greater Noida](/colleges/gniot-greater-noida)** | Merit / Graduation Marks | ₹3.50 Lakhs | **₹5.20 LPA** |
 | **[Galgotias University](/colleges/galgotias-university)** | Merit / Graduation Marks | ₹3.60 Lakhs | **₹4.80 LPA** |

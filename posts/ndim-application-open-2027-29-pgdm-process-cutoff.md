@@ -80,7 +80,7 @@ state: Delhi NCR
 
 ---
 
-**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
+**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)**, established in 1992 and located in the prestigious South Delhi institutional cluster (Tughlakabad), has officially commenced its admission notification and online application process for the **2027–2029 academic session (32nd Batch)**.
 
 Recognized consecutively by **AICTE-CII as the #1 B-School in India for Industry Linkages for 3 years**, NDIM offers a future-ready PGDM curriculum designed in consultation with corporate titans from Big 4 consulting firms, multinational financial conglomerates, and fast-growing tech enterprises.
 
@@ -92,7 +92,7 @@ If you are planning to target top-tier PGDM institutions in Delhi NCR with stron
 
 | Admission Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institute Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** |
+| **Institute Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** |
 | **Admission Intake** | **32nd Batch (2027–2029 Academic Session)** |
 | **Application Status** | **Applications OPEN (Early Admissions Round)** |
 | **Flagship Program** | **2-Year Full-Time PGDM (Dual Specialization)** |
@@ -330,7 +330,7 @@ Applying early during the **first admission cycle (October–January)** provides
 ## 13. Frequently Asked Questions (FAQs)
 
 ### Q1. Is the NDIM Delhi PGDM application form open for the 2027–29 batch?
-Yes, [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) has officially opened online applications for its flagship 2-year full-time PGDM program for the 2027–2029 academic session (32nd Batch). Candidates can apply online through the official admission portal.
+Yes, [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) has officially opened online applications for its flagship 2-year full-time PGDM program for the 2027–2029 academic session (32nd Batch). Candidates can apply online through the official admission portal.
 
 ### Q2. What are the entrance exam cutoffs for NDIM Delhi PGDM admission 2027?
 NDIM accepts CAT (60–70 percentile), XAT (60–70 percentile), CMAT (70–80 percentile), MAT (70–80 percentile / Composite 550+), ATMA (70–75 percentile), and GMAT (500+ score). Candidates with strong academic profiles and extracurricular achievements can also qualify under profile-based shortlisting.

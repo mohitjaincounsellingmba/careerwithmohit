@@ -47,7 +47,7 @@ category: Exams
 
 **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida** is one of the few private B-schools in Delhi-NCR that holds **both AACSB accreditation and a NIRF #41 ranking in Management**. For students serious about placing into top companies from a private institute, [Jaipuria Noida](/colleges/jaipuria-noida) offers a compelling mix of legacy, accreditation, and corporate reach.
 
-Here are the **10 real USPs of [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida** for the 2027–29 batch.
+Here are the **10 real USPs of [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida** for the 2027–29 batch.
 
 ---
 

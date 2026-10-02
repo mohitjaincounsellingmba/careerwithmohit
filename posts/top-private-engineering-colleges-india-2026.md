@@ -23,7 +23,7 @@ faqs:
     answer: >-
       [BITS Pilani](/colleges/bits-pilani) (Pilani Campus) consistently holds
       the top position among private engineering institutions, followed by
-      Thapar University and [VIT Vellore](/colleges/vit-vellore) for overall
+      Thapar University and [VIT Vellore](/colleges/vit-vellore-campus) for overall
       value and placements.
   - question: Is a private engineering college worth it?
     answer: >-
@@ -71,7 +71,7 @@ This expert-curated guide covers India's **best private B.Tech engineering colle
 | [BITS Pilani](/colleges/bits-pilani) (Goa) | Goa | ₹5.5 L | ₹14–20 LPA | BITSAT |
 | [BITS Pilani](/colleges/bits-pilani) (Hyderabad) | Telangana | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | Thapar University | Punjab | ₹4.0 L | ₹10–18 LPA | JEE Main / Boards |
-| [VIT Vellore](/colleges/vit-vellore) | Tamil Nadu | ₹2.1 L | ₹7–14 LPA | VITEEE |
+| [VIT Vellore](/colleges/vit-vellore-campus) | Tamil Nadu | ₹2.1 L | ₹7–14 LPA | VITEEE |
 | Manipal Institute of Technology | Karnataka | ₹2.3 L | ₹7–12 LPA | MU OET / JEE |
 | Amrita Vishwa Vidyapeetham | Tamil Nadu | ₹1.8 L | ₹6–10 LPA | AEEE / JEE Main |
 | SRM Institute (Kattankulathur) | Tamil Nadu | ₹2.0 L | ₹6–12 LPA | SRMJEEE |
@@ -113,9 +113,9 @@ Thapar is one of North India's best private engineering universities, with a str
 
 ---
 
-### 3. [VIT Vellore](/colleges/vit-vellore) — India's Largest Private Engineering University
+### 3. [VIT Vellore](/colleges/vit-vellore-campus) — India's Largest Private Engineering University
 
-[VIT Vellore](/colleges/vit-vellore) (Vellore Institute of Technology) is Asia's largest private technical university with 20,000+ B.Tech students. Known for consistent mass placements.
+[VIT Vellore](/colleges/vit-vellore-campus) (Vellore Institute of Technology) is Asia's largest private technical university with 20,000+ B.Tech students. Known for consistent mass placements.
 
 - **Courses:** 60+ B.Tech programmes across all major branches + emerging tech
 - **Admission:** VITEEE (online exam, conducted April every year)
@@ -189,7 +189,7 @@ Not all private engineering colleges deliver on their promises. Watch out for:
 ## FAQs — Private Engineering Colleges India
 
 **Q1. Which is the best private engineering college in India?**
-[BITS Pilani](/colleges/bits-pilani) (Pilani Campus) consistently holds the top position among private engineering institutions, followed by Thapar University and [VIT Vellore](/colleges/vit-vellore) for overall value and placements.
+[BITS Pilani](/colleges/bits-pilani) (Pilani Campus) consistently holds the top position among private engineering institutions, followed by Thapar University and [VIT Vellore](/colleges/vit-vellore-campus) for overall value and placements.
 
 **Q2. Is a private engineering college worth it?**
 Yes — if the college has NAAC A+ grade, NBA accreditation, consistent placement above ₹6 LPA average, and fees under ₹3 Lakhs/year, the ROI is generally positive.

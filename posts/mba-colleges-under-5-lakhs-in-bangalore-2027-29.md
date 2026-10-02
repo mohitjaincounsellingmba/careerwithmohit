@@ -71,7 +71,7 @@ These institutions keep tuition fees under ₹5 Lakhs (either total or annual, f
 - **Average Placement Package:** **₹5.0 LPA**
 - **Key Highlight:** Vibrant campus in Hennur with excellent business lab setup.
 
-### 3. [PES University](/colleges/pes-university) (Subsidized Quota)
+### 3. [PES University](/colleges/pesu-bangalore) (Subsidized Quota)
 - **Approximate Fees:** ₹4.8 Lakhs (Annual)
 - **Accepted Entrance Exams:** Karnataka PGCET / PESSAT
 - **Average Placement Package:** **₹6.5 LPA**
@@ -87,7 +87,7 @@ Here is a quick snapshot comparing the fee structures and average placements for
 | :--- | :--- | :--- | :--- |
 | **Canara Bank School of Management Studies, Bangalore University** | Karnataka PGCET | ₹1.4 Lakhs (Total) | **₹5.5 LPA** |
 | **Kristu Jayanti College (MBA)** | KMAT / PGCET / MAT | ₹3.8 Lakhs (Annual) | **₹5.0 LPA** |
-| **[PES University](/colleges/pes-university) (Subsidized Quota)** | Karnataka PGCET / PESSAT | ₹4.8 Lakhs (Annual) | **₹6.5 LPA** |
+| **[PES University](/colleges/pesu-bangalore) (Subsidized Quota)** | Karnataka PGCET / PESSAT | ₹4.8 Lakhs (Annual) | **₹6.5 LPA** |
 
 ---
 

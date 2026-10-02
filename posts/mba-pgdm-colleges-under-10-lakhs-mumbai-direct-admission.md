@@ -64,7 +64,7 @@ IES MCRC is another stellar choice that consistently outranks heavily advertised
 *   **Why Choose**: Solid reputation in Finance and Marketing roles, vast alumni network in Mumbai.
 *   **Admission Mode**: Valid scores prioritized,, but profile-based institute-level admissions are available.
 
-### **4. Atharva [Institute of Management Studies](/colleges/institute-of-management-studies) (AIMS), Malad**
+### **4. Atharva [Institute of Management Studies](/colleges/ims-noida) (AIMS), Malad**
 For students looking for a very budget-friendly option without compromising the Mumbai experience, Atharva is an elite choice.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹6.50 Lakhs
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA

@@ -92,15 +92,15 @@ Colleges usually look at either the Composite Score (out of 800) or the overall 
 
 While Tier-1 B-Schools prefer CAT/XAT, many excellent Tier-2 and PGDM colleges accept MAT.
 
-- BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology)), Greater Noida (For niche programs)
+- BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida)), Greater Noida (For niche programs)
 - Christ University, Bangalore
 - XIME (Xavier Institute of Management & Entrepreneurship), Bangalore/Kochi/Chennai
 - PUMBA (Department of Management Sciences, Pune University)
 - [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida, Lucknow, Jaipur, Indore)
-- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
+- NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), Delhi
 - ITM Business School, Navi Mumbai
 - PIBM (Pune Institute of Business Management), Pune
-- [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi), Delhi
+- [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini), Delhi
 
 ---
 [👉 Thinking of taking MAT as a backup? Evaluate your college options with our admission experts!](/inquiry)

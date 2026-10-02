@@ -42,7 +42,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
+The MAH MBA/MMS CET is the most important state-level management entrance test in India. Facilitating admissions to the legendary Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida) (JBIMS)—often called the "CEO Factory of India"—this exam witnesses incredible competition every year.
 
 Here is the complete overview of the MAH MBA CET exam for 2027–29 admissions:
 
@@ -93,7 +93,7 @@ Because there is no negative marking, cutoffs for top colleges skyrocket.
 
 The Centralised Admission Process (CAP) manages counselling for nearly 300+ institutes across Maharashtra.
 
-- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies)), Mumbai
+- JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida)), Mumbai
 - SIMSREE (Sydenham Institute), Mumbai
 - Welingkar Institute of Management (WeSchool), Mumbai
 - PUMBA (Pune University Department of Management Sciences)
@@ -101,7 +101,7 @@ The Centralised Admission Process (CAP) manages counselling for nearly 300+ inst
 - Chetana’s Institute of Management and Research, Mumbai
 - MET Institute of Management, Mumbai
 - XIMR (Xavier Institute of Management & Research), Mumbai
-- Rizvi [Institute of Management Studies](/colleges/institute-of-management-studies) and Research, Mumbai
+- Rizvi [Institute of Management Studies](/colleges/ims-noida) and Research, Mumbai
 
 ---
 

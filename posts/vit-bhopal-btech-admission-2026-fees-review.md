@@ -13,7 +13,7 @@ keywords:
   - VIT Bhopal CSE cutoff rank
   - VITEEE 2026 Bhopal
   - VIT Bhopal placement review 2025
-  - 'VIT Bhopal vs [VIT Vellore](/colleges/vit-vellore)'
+  - 'VIT Bhopal vs [VIT Vellore](/colleges/vit-vellore-campus)'
   - VIT Bhopal average package
   - Chennai Colleges
   - Best Colleges in Chennai

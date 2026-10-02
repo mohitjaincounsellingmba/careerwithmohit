@@ -48,7 +48,7 @@ state: Delhi NCR
 > - **Fee & Placement Benchmarks**: Estimated fee: ₹10 Lakhs.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
-Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) Delhi** are two of the most popular choices. 
+Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB) Delhi** are two of the most popular choices. 
 
 Both institutes offer robust PGDM programs and have a long-standing legacy in management education. However, when we dive deep into the data—especially ROI, corporate exposure, and average placements—certain clear winners emerge. In this detailed comparison for the 2027–2029 intake, we break down why **FIIB Delhi holds a strong strategic advantage** for MBA/PGDM aspirants.
 

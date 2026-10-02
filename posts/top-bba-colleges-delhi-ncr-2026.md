@@ -60,7 +60,7 @@ These are the most competitive institutions in the country, characterized by nom
 ### 2. Guru Gobind Singh Indraprastha University (GGSIPU) Affiliates
 Affiliated GGSIPU colleges offer structured management curricula, active campus life, and consistent recruitment opportunities.
 - **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi) - Janakpuri:** Ranks as the top IP University college for BBA, known for its academic rigor.
-- **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini:** Boasts an impressive campus, active corporate relations, and solid corporate grooming.
+- **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Rohini:** Boasts an impressive campus, active corporate relations, and solid corporate grooming.
 - **Vivekananda Institute of Professional Studies (VIPS) - Pitampura:** Renowned for its state-of-the-art infrastructure and vibrant student societies.
 
 ### 3. Premium Private Universities

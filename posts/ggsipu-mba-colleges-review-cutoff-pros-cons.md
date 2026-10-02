@@ -96,7 +96,7 @@ Ranked #1 among private affiliates.
 *   **Pros:** Highly disciplined, strong alumni network in tech and consulting.
 *   **Cons:** High pressure on academics, feels a bit "school-like."
 
-### 4. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 4. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
 Known for its industry-ready curriculum and placement drives.
 *   **Placement:** ₹7.5 - 9.0 LPA Average.
 *   **Pros:** Excellent corporate relations, active student life.

@@ -55,7 +55,7 @@ If you are looking for the absolute best value for your money, these three gover
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+## 1. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
 - **Status**: The "CEO Factory" of India.
 - **Estimated Cutoff (Gen)**: 99.98+ Percentile
 - **Total Fees**: ~₹6.0 Lakhs

@@ -57,8 +57,8 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
-| **BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
-| **GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
+| **BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))** | CAT / XAT / GMAT / CMAT | ₹14.0 Lakhs (Total) | **₹11.20 LPA** |
+| **GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))** | MAT / CMAT / CAT | ₹6.2 Lakhs (Total) | **₹5.80 LPA** |
 | **GL Bajaj (GLBIMR)** | CMAT / MAT / CAT | ₹6.0 Lakhs (Total) | **₹6.00 LPA** |
 
 ---
@@ -80,13 +80,13 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Greater Noida
 
-### 1. BIMTECH ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
+### 1. BIMTECH ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
 - **Approximate Fees:** ₹14.0 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / XAT / GMAT / CMAT
 - **Average Placement Package:** **₹11.20 LPA**
 - **Key Highlight:** Elite business school with deep roots in insurance, risk management, and retail banking.
 
-### 2. GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 2. GNIOT (GIMS - GNIOT [Institute of Management Studies](/colleges/ims-noida))
 - **Approximate Fees:** ₹6.2 Lakhs (Total)
 - **Accepted Entrance Exams:** MAT / CMAT / CAT
 - **Average Placement Package:** **₹5.80 LPA**

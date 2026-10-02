@@ -58,21 +58,21 @@ state: Maharashtra
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies))**, situated in **Mumbai**, stands out as one of the premier destinations for undergraduate and postgraduate education in Mumbai.
+Selecting the right university is one of the most pivotal decisions in a student's academic and professional journey. **SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida))**, situated in **Mumbai**, stands out as one of the premier destinations for undergraduate and postgraduate education in Mumbai.
 
-Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies))**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
+Whether you are aspiring for engineering, management, legal studies, or new-age interdisciplinary courses, understanding the reality of campus placements, actual fee structures, and return on investment (ROI) is crucial. In this comprehensive **2026 review of SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida))**, we analyze the university's academic quality, recruiter network, facilities, and admission procedures.
 
 ---
 
 ## 🏛️ [NMIMS Mumbai](/colleges/nmims-mumbai): University Overview & Accreditation
 
-SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)), headquartered in Vile Parle West, Mumbai, is an AACSB-accredited powerhouse of management and technical education. Ranking among the top 10 B-schools in India, [NMIMS Mumbai](/colleges/nmims-mumbai) offers premier placements, unmatched corporate connectivity in India's financial capital, and rigorous academic standards.
+SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)), headquartered in Vile Parle West, Mumbai, is an AACSB-accredited powerhouse of management and technical education. Ranking among the top 10 B-schools in India, [NMIMS Mumbai](/colleges/nmims-mumbai) offers premier placements, unmatched corporate connectivity in India's financial capital, and rigorous academic standards.
 
 ### Key Institutional Highlights (2026)
 
 | Parameter / Feature | Details |
 | :--- | :--- |
-| **Full Institutional Name** | SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) |
+| **Full Institutional Name** | SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) |
 | **Location & Region** | Mumbai, Mumbai |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A+ Grade) |
 | **Established Year** | 1981 (Deemed University status 2003) |
@@ -89,7 +89,7 @@ SVKM's NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institut
 
 ## 💰 Courses Offered & Fee Structure (2026-2027)
 
-SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
+SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) offers a comprehensive portfolio of industry-aligned programs. Below is an overview of the flagship courses, approximate annual fees, and admission criteria for the 2026 academic year:
 
 | Course Name | Program Duration | Approximate Annual Fees | Key Eligibility & Entrance |
 | :--- | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/instit
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 
@@ -132,7 +132,7 @@ Life at **[NMIMS Mumbai](/colleges/nmims-mumbai)** extends far beyond traditiona
 
 ## 🎯 Admission Process 2026 (Step-by-Step Guide)
 
-Securing admission to SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) for the 2027–2029 intake follows a structured and merit-oriented process:
+Securing admission to SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) for the 2027–2029 intake follows a structured and merit-oriented process:
 
 1. **Online Application Submission:** Candidates must register online through the university's official admissions portal and fill out their academic profile.
 2. **Entrance Exam Qualification:** Depending on the stream, applicants must submit valid national/state entrance scores (**NMAT by GMAC (MBA), NPAT (BBA/UG), NMIMS-CET (B.Tech), NLAT (Law)**) or appear for the university's entrance test.
@@ -160,7 +160,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-### 1. Is SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies)) a good choice for higher education in 2026?
+### 1. Is SVKM’s NMIMS (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida)) a good choice for higher education in 2026?
 Yes, SVKM’s NMIMS (Narsee Monjee Institute of Management Studies) is a highly reputed institution in Mumbai (UGC, NAAC A+ Grade (3.59/4), Category I University, AACSB Accredited (SBM)). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹25.10 LPA (MBA Core) / ₹8.50 LPA (UG Business/Tech).
 
 ### 2. What is the annual fee structure at SVKM’s NMIMS (Narsee Monjee Institute of Management Studies)?

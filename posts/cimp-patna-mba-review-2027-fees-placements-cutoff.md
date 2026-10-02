@@ -95,7 +95,7 @@ Here is a consolidated overview of **[Chandragupt Institute of Management Patna 
 
 ## 2. Updated Fee Structure & Financial Aid (2027–2029 Batch)
 
-Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)** is vital for computing your personal return on investment (ROI).
+Evaluating the total cost of pursuing an MBA/PGDM at **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)** is vital for computing your personal return on investment (ROI).
 
 ### Detailed Fee Breakdown:
 - **Tuition & Academic Fees:** The core tuition covers academic coursework, case study materials (Harvard/Ivey business publishing), computer lab access, and digital libraries.
@@ -128,7 +128,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.80 LPA**
@@ -157,7 +157,7 @@ The academic structure at **[Chandragupt Institute of Management Patna (CIMP)](/
 
 ## 6. Fee vs Average Package ROI Comparison
 
-Here is how **[Chandragupt Institute of Management Patna](/colleges/chandragupt-institute-of-management-patna) (CIMP)** compares against peer business schools in its category:
+Here is how **[Chandragupt Institute of Management Patna](/colleges/cimp-patna) (CIMP)** compares against peer business schools in its category:
 
 | B-School Name | Total Fees | Avg Placement Package | ROI & Key Advantage |
 | :--- | :--- | :--- | :--- |

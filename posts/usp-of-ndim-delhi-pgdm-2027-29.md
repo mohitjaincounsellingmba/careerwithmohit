@@ -63,7 +63,7 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
+When you're shortlisting MBA/PGDM colleges in Delhi, one name that consistently appears in every top list is **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)**. But what actually makes NDIM different from the 50+ B-schools competing in the same percentile band?
 
 In this post, we break down the **10 real USPs of NDIM Delhi** — the things that actually matter when you're investing ₹13.75 Lakhs and 2 years of your life in a PGDM program.
 

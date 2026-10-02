@@ -51,7 +51,7 @@ MSI is widely regarded as the gold standard of IP University colleges. Located i
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Exceptional discipline and reliable campus placements in top corporate houses like Deloitte, EY, and PwC.
 
-### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini
+### 2. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Rohini
 MAIMS is MSI's primary competitor. Located in Rohini, North-West Delhi, it features a sprawling campus with outstanding infrastructure and highly qualified faculty.
 - **Tuition Fee:** ~₹1.1 Lakhs per year.
 - **Key Feature:** Strong emphasis on industrial visits, corporate grooming, and management conferences.
@@ -61,7 +61,7 @@ VIPS is famous for its premium infrastructure, tech-enabled classrooms, and a hi
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent extracurricular activities, student clubs, and soft skills training programs.
 
-### 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) - Rohini
+### 4. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) - Rohini
 JIMS Rohini is a highly reputable boutique college that focuses heavily on industry-ready curricula and practical business projects.
 - **Tuition Fee:** ~₹1.2 Lakhs per year.
 - **Key Feature:** Excellent industry collaborations, frequent guest lectures, and dedicated career counseling.

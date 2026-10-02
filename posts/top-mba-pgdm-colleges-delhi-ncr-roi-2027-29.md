@@ -100,7 +100,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 * **Cutoff 2027-29**: CAT 93-95 percentile, XAT 94+ percentile.
 * **Specializations**: PGDM, PGDM-HRM, PGDM-IB.
 
-### 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), South Delhi
+### 3. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM), South Delhi
 * **Highlights**: UGC & AIU declared PGDM as MBA Equivalent. AICTE approved dual specialization options in FinTech, Business Analytics, Digital Marketing, and Supply Chain.
 * **Why High ROI**: Highly competitive fee structure with 300+ corporate recruiters on campus. Read full review at [All About NDIM Delhi](/blog/ndim-delhi-review-2027-29).
 * **Placements**: Average package of ₹9.50 LPA with highest international offers reaching ₹24 LPA.
@@ -109,7 +109,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 * **Highlights**: Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni with pan-IIM faculty team.
 * **Placement Record**: Outstanding ₹11.15 LPA average package with top brands like Deloitte, KPMG, Axis Bank, and ICICI Bank. Check detailed insights at [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi).
 
-### 5. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB), South Delhi
+### 5. [Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB), South Delhi
 * **Highlights**: Situated in Vasant Vihar, FIIB holds AACSB global membership and NBA accreditation.
 * **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/all-about-fiib-delhi).
 

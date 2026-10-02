@@ -47,7 +47,7 @@ category: Exams
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 
-SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.
+SVKM's Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (NMIMS) is one of India's most respected deemed-to-be universities. With its flagship Mumbai campus consistently ranked among the top 25 B-Schools in the country and an expanding footprint across 8 cities, NMIMS is a powerhouse for MBA, PGDM, and professional education.
 
 Here is a detailed, campus-by-campus breakdown covering fees, placements, cutoffs, specializations, rankings, and real student reviews for 2026 admissions:
 

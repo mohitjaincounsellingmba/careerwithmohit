@@ -39,14 +39,14 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-[GD Goenka University](/colleges/gd-goenka-university)'s School of Engineering & Sciences (SOES) has gained significant attention for its NAAC 'A+' accreditation and its massive 60-acre campus in the heart of Gurgaon (Sohna Road). For BTech aspirants in 2026, the big question remains: Is GD Goenka worth the premium fees?
+[GD Goenka University](/colleges/gd-goenka-gurgaon)'s School of Engineering & Sciences (SOES) has gained significant attention for its NAAC 'A+' accreditation and its massive 60-acre campus in the heart of Gurgaon (Sohna Road). For BTech aspirants in 2026, the big question remains: Is GD Goenka worth the premium fees?
 
 In this **GD Goenka BTech Review 2026**, we analyze the placements, infrastructure, and academic reality of this corporate-centric university.
 
 ---
 
 ## 🛠️ Engineering at GD Goenka: Overview
-[GD Goenka University](/colleges/gd-goenka-university) focuses on "industry-integrated" learning. Their engineering school is particularly popular for Computer Science (CSE) due to the proximity to the Gurgaon IT hub (Cyber City, Udyog Vihar).
+[GD Goenka University](/colleges/gd-goenka-gurgaon) focuses on "industry-integrated" learning. Their engineering school is particularly popular for Computer Science (CSE) due to the proximity to the Gurgaon IT hub (Cyber City, Udyog Vihar).
 
 ### **Key Highlights**
 *   **Accreditation:** NAAC Grade 'A+' (Highest possible category).

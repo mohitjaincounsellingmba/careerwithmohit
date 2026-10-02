@@ -119,7 +119,7 @@ Here is a curated list of top-ranked institutions offering direct, profile-based
 Delhi NCR is India's largest corporate and startup hub, housing top private universities and autonomous B-schools:
 - **[Amity University](/colleges/amity-noida) Noida (NIRF #28-35):** Candidates scoring above 80% aggregate in graduation can skip national entrance tests and appear directly for the GD/PI round.
 - **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida) (NIRF #55):** Offers corporate-sponsored and institutional quota seats for candidates with strong academic profiles.
-- **[Bennett University](/colleges/bennett-greater-noida) & [GD Goenka University](/colleges/gd-goenka-university):** Offer direct profile-based evaluation with generous merit scholarships.
+- **[Bennett University](/colleges/bennett-greater-noida) & [GD Goenka University](/colleges/gd-goenka-gurgaon):** Offer direct profile-based evaluation with generous merit scholarships.
 - *Read More:* [Under 5 Lakhs MBA Colleges in Delhi NCR Direct Admission](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29)
 
 ### 2. Bangalore & South India

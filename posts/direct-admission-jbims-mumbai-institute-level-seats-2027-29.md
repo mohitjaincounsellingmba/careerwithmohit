@@ -40,7 +40,7 @@ category: Online Degrees
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
 
-Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies) (JBIMS), often called the **"CEO Factory of India,"** is one of the most sought-after B-schools due to its legendary alumni and incredible ROI. While JBIMS doesn't have a traditional private "donations-based" management quota, there are specific **Direct Admission pathways** such as Institute-Level Seats and NRI Quota that aspirants should know for 2026.
+Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida) (JBIMS), often called the **"CEO Factory of India,"** is one of the most sought-after B-schools due to its legendary alumni and incredible ROI. While JBIMS doesn't have a traditional private "donations-based" management quota, there are specific **Direct Admission pathways** such as Institute-Level Seats and NRI Quota that aspirants should know for 2026.
 
 ## Why JBIMS is the Dream for Every Topper?
 

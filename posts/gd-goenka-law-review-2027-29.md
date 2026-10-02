@@ -41,14 +41,14 @@ category: BBA
 > - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
-[GD Goenka University](/colleges/gd-goenka-university)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
+[GD Goenka University](/colleges/gd-goenka-gurgaon)’s School of Law has emerged as a premier legal destination in the Delhi NCR region, known for its emphasis on moot court competitions and clinical legal education. Located in Gurgaon (Sohna Road), it offers a blend of legal theory and extensive industry exposure.
 
 In this **GD Goenka Law Review 2027–29**, we break down the costs, placement success, and the practical training environment provided to budding lawyers.
 
 ---
 
 ## ⚖️ GD Goenka School of Law: Overview
-Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-university) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
+Accredited and approved by the **Bar Council of India (BCI)**, the School of Law at [GD Goenka University](/colleges/gd-goenka-gurgaon) (GDGU) aims to produce global legal professionals with a strong understanding of corporate and civil law.
 
 ### **Key Highlights**
 *   **Infrastructure:** A dedicated School of Law building with its own specialized law library and state-of-the-art Moot Courtrooms.

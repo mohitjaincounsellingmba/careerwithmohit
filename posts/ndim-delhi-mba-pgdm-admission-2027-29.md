@@ -78,14 +78,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+# [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹14.00 Lakhs (Total)** (**₹7.00 Lakhs per Year (or ₹3.50L/semester + ₹6k convenience charge)**). ₹2.50 Crore Dedicated Fund Pool (Merit & Category Rebates)
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · AIU MBA Equivalent · ASIC (UK) Premier Institution.
 > - **Audited Placements & PPO**: Average CTC stands at **₹10.00 LPA** (Top 25% at **₹12.80 LPA**) with a highest package of **₹24.00 LPA (International / Domestic High)**. 28% of the batch converts Pre-Placement Offers (PPOs) via mandatory 8-week corporate internships.
 
-**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) (NDIM Delhi)**, located in **Tughlakabad Institutional Area, South Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) (NDIM Delhi)**, located in **Tughlakabad Institutional Area, South Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **New Delhi**, this detailed guide provides verified facts regarding **NDIM Delhi's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -95,7 +95,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 
 | Parameter | Official Details & Verified Metrics |
 | :--- | :--- |
-| **Institution Name** | **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** (NDIM Delhi) |
+| **Institution Name** | **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** (NDIM Delhi) |
 | **Campus Location** | Tughlakabad Institutional Area, South Delhi |
 | **Program Offered** | **2-Year Full-Time PGDM (Dual Specialization: Marketing, Finance, HR, FinTech, Business Analytics, Supply Chain)** |
 | **Degree / Diploma Type** | **PGDM** |

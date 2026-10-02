@@ -48,7 +48,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH) is a premier institute in the Greater Noida HUB, consistently ranking among India's top private B-schools. With over 160+ participating companies, its placements are a benchmark for high-tier management programs.
+[Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH) is a premier institute in the Greater Noida HUB, consistently ranking among India's top private B-schools. With over 160+ participating companies, its placements are a benchmark for high-tier management programs.
 
 ### 📊 BIMTECH Greater Noida 2025 SnapShot
 

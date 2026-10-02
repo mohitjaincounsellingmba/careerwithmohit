@@ -75,7 +75,7 @@ Below are the top private colleges and universities in Delhi, Noida, and Greater
 *   **Management Quota:** Operates strictly under the 10% IPU management quota guidelines. Due to high demand, early application is crucial.
 *   **Average ECE Package:** ₹6.5 - ₹8 LPA.
 
-### 3. [Amity University, Noida](/colleges/amity-university-noida)
+### 3. [Amity University, Noida](/colleges/amity-noida)
 *   **The ECE Advantage:** Offers massive infrastructure and incredible corporate exposure. ECE students here have access to advanced robotics and communication labs.
 *   **Admission Process:** Direct entry or fast-track video interviews are available for students with >80% in CBSE/ICSE boards.
 *   **Average ECE Package:** ₹5 - ₹7 LPA.

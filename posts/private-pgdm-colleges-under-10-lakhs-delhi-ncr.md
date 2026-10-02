@@ -78,7 +78,7 @@ If you're hunting for high-value PGDM programs for the 2027–2029 batch, here a
 
 ---
 
-## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
+## 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 
 GIMS continues to emerge as a dominant player in Greater Noida, balancing an incredibly practical PGDM pedagogy with reasonable fees.
 

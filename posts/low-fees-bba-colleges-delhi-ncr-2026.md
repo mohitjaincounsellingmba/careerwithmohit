@@ -79,7 +79,7 @@ MSI Janakpuri is highly regarded for its disciplined academics and reliable plac
 - **Entrance Exam:** IPU CET
 - **Verdict:** Very reliable mid-budget option with stable campus recruitment.
 
-### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS) - Rohini, GGSIPU
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS) - Rohini, GGSIPU
 MAIMS Rohini offers structured IP University education within a reasonable budget.
 - **Total Program Fees (3 Years):** ~₹3.3 Lakhs
 - **Average Placement Package:** ₹4.5 LPA

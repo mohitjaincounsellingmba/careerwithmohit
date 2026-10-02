@@ -61,7 +61,7 @@ One of the most expansive and high-tech private universities in India.
 *   **Popular Degrees:** B.Tech, BBA, B.Com, BA, B.Sc.
 *   **USP:** World-class infrastructure and high-tier placements.
 
-### **2. [GD Goenka University](/colleges/gd-goenka-university)**
+### **2. [GD Goenka University](/colleges/gd-goenka-gurgaon)**
 A top-tier institute in Gurugram, known for its undergraduate management and technology programs.
 *   **Programs:** BBA, BCA, B.Sc (Hons) Biotechnology, B.Sc (Hons) Microbiology.
 *   **USP:** Solid placement record and corporate interfaces.

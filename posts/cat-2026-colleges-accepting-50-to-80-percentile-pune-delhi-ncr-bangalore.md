@@ -95,7 +95,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 * **[RIIM Pune](/colleges/riim-pune):** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune).
 
 ### 3. Greater Noida Hub (50–65 Percentile Options)
-* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida) and [All About GNIOT GIMS](/colleges/gniot-institute-of-management-studies-gims).
+* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida) and [All About GNIOT GIMS](/colleges/gniot-greater-noida).
 
 ---
 

@@ -89,9 +89,9 @@ Below is an exhaustive overview of the top private universities and colleges acr
 
 | College / University Name | NCR Location | Affiliated University / University Status | Specialized Course Name | Approx. Annual Fee | Approx. Total Fee (3 Years / 4 Years) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Amity University, Noida](/colleges/amity-university-noida)** | Noida | [Amity University](/colleges/amity-noida) Uttar Pradesh (*Private Deemed / State University - UGC*) | BBA (Banking and Finance / Financial Services / BFSI) | ₹3,50,000 | ₹10.5 Lakh (3 Yrs) / ₹14.0 Lakh (4 Yrs) |
+| **[Amity University, Noida](/colleges/amity-noida)** | Noida | [Amity University](/colleges/amity-noida) Uttar Pradesh (*Private Deemed / State University - UGC*) | BBA (Banking and Finance / Financial Services / BFSI) | ₹3,50,000 | ₹10.5 Lakh (3 Yrs) / ₹14.0 Lakh (4 Yrs) |
 | **[Amity University](/colleges/amity-noida), Gurugram** | Gurugram (Manesar) | [Amity University](/colleges/amity-noida) Haryana (*Private University - UGC*) | BBA (Banking and Financial Services) | ₹3,20,000 | ₹9.6 Lakh (3 Yrs) / ₹12.8 Lakh (4 Yrs) |
-| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurugram | [GD Goenka University](/colleges/gd-goenka-university), Haryana (*Private University - UGC*) | BBA (Banking, Financial Services & Insurance - BFSI / Financial Markets) | ₹2,90,000 | ₹8.7 Lakh (3 Yrs) / ₹11.6 Lakh (4 Yrs) |
+| **[GD Goenka University](/colleges/gd-goenka-gurgaon)** | Gurugram | [GD Goenka University](/colleges/gd-goenka-gurgaon), Haryana (*Private University - UGC*) | BBA (Banking, Financial Services & Insurance - BFSI / Financial Markets) | ₹2,90,000 | ₹8.7 Lakh (3 Yrs) / ₹11.6 Lakh (4 Yrs) |
 | **[Sharda University](/colleges/sharda-greater-noida)** | Greater Noida | [Sharda University](/colleges/sharda-greater-noida) (*Private University - UGC*) | BBA (Banking and Finance / Financial Management / BFSI) | ₹2,35,000 | ₹7.0 Lakh (3 Yrs) / ₹9.4 Lakh (4 Yrs) |
 | **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | [Galgotias University](/colleges/galgotias-university) (*Private University - UGC*) | BBA (Banking, Financial Services & Insurance - BFSI / Financial Management) | ₹1,25,000 | ₹3.75 Lakh (3 Yrs) / ₹5.0 Lakh (4 Yrs) |
 | **[Bennett University](/colleges/bennett-greater-noida)** | Greater Noida | [Bennett University](/colleges/bennett-greater-noida) (*Private University by The Times Group - UGC*) | BBA (Finance / Specialization Electives in Banking & FinTech) | ₹3,40,000 | ₹10.2 Lakh (3 Yrs) / ₹13.6 Lakh (4 Yrs) |
@@ -102,12 +102,12 @@ Below is an exhaustive overview of the top private universities and colleges acr
 | **Manav Rachna (MRIIRS)** | Faridabad | MRIIRS (*Deemed-to-be University - UGC Approved*) | BBA (Banking and Financial Markets - in assoc. with NSE / BSE) | ₹2,30,000 | ₹6.9 Lakh (3 Yrs) / ₹9.2 Lakh (4 Yrs) |
 | **SGT University** | Gurugram | SGT University (*Private University - UGC*) | BBA (Banking & Financial Services / Finance) | ₹1,65,000 | ₹4.95 Lakh (3 Yrs) / ₹6.6 Lakh (4 Yrs) |
 | **Lingaya’s Vidyapeeth** | Faridabad | Lingaya’s Vidyapeeth (*Deemed-to-be University - UGC Approved*) | BBA (Banking and Finance) | ₹1,20,000 | ₹3.6 Lakh (3 Yrs) / ₹4.8 Lakh (4 Yrs) |
-| **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance / General BBA with Finance Specialization) | ₹95,000 | ₹2.85 Lakh (3 Yrs) |
+| **[GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance / General BBA with Finance Specialization) | ₹95,000 | ₹2.85 Lakh (3 Yrs) |
 | **IMS Noida (University Courses Campus)** | Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance Track / Financial Management) | ₹1,25,000 | ₹3.75 Lakh (3 Yrs) |
 | **Asian School of Business (ASB)** | Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (with Diploma in Banking, Finance & Analytics) | ₹1,50,000 | ₹4.5 Lakh (3 Yrs) |
 | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Financial Markets & Banking Operations) | ₹1,35,000 | ₹4.05 Lakh (3 Yrs) |
 | **JIMS Rohini / Kalkaji / Vasant Kunj** | Delhi NCR | GGSIPU Delhi / [Jagannath University](/colleges/jagannath-university) (*State / Private University Affiliated*) | BBA (Banking & Finance / Financial Markets) | ₹1,45,000 | ₹4.35 Lakh (3 Yrs) |
-| **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** | New Delhi | GGSIPU Delhi (*Guru Gobind Singh Indraprastha University - State Affiliated*) | BBA (Finance & Banking Specialization Track) | ₹1,35,000 | ₹4.05 Lakh (3 Yrs) |
+| **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** | New Delhi | GGSIPU Delhi (*Guru Gobind Singh Indraprastha University - State Affiliated*) | BBA (Finance & Banking Specialization Track) | ₹1,35,000 | ₹4.05 Lakh (3 Yrs) |
 
 > [!NOTE]
 > Under the **National Education Policy (NEP 2020)**, many universities in Delhi NCR offer both a **3-year BBA degree** and a **4-year BBA (Honors/Research) degree**. Students opting for the 4-year track get additional exposure to advanced financial research, internships, and dissertation work.
@@ -123,12 +123,12 @@ Below is an exhaustive overview of the top private universities and colleges acr
   - State-of-the-art **Bloomberg Finance Lab** for real-time market trading and financial modeling.
   - Dedicated training in corporate banking credit analysis, risk management, and regulatory frameworks.
   - Strong corporate interface with leading private banks (HDFC Bank, Axis Bank, Kotak Mahindra) and consulting firms.
-- **Related Read**: [Amity University Noida BBA Admission 2026 & Review](/colleges/amity-university-noida)
+- **Related Read**: [Amity University Noida BBA Admission 2026 & Review](/colleges/amity-noida)
 
 ---
 
-### 2. [GD Goenka University](/colleges/gd-goenka-university), Gurugram
-- **Affiliated University**: [GD Goenka University](/colleges/gd-goenka-university), Haryana (*Private University - UGC Approved*)
+### 2. [GD Goenka University](/colleges/gd-goenka-gurgaon), Gurugram
+- **Affiliated University**: [GD Goenka University](/colleges/gd-goenka-gurgaon), Haryana (*Private University - UGC Approved*)
 - **Annual Fee**: Approx. ₹2,90,000 per year
 - **Course Highlights**:
   - Industry-aligned **BBA in Banking, Financial Services and Insurance (BFSI)**.
@@ -184,7 +184,7 @@ For students seeking self-financed private colleges affiliated with established 
 
 ### 1. CCS University, Meerut (Affiliated Colleges in Noida & Greater Noida)
 - **Top Colleges**:
-  - **[GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims)**, Greater Noida
+  - **[GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida)**, Greater Noida
   - **IMS Noida (University Courses Campus)**
   - **Asian School of Business (ASB)**, Noida
   - **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)**, Greater Noida
@@ -198,7 +198,7 @@ For students seeking self-financed private colleges affiliated with established 
 ### 2. GGSIPU Delhi (Affiliated Private Institutions in Delhi NCR)
 - **Top Colleges**:
   - **JIMS (Jagannath Institute of Management Sciences)** — Rohini / Kalkaji / Vasant Kunj
-  - **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** — Undergraduate Campus
+  - **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** — Undergraduate Campus
   - **Fairfield Institute of Management & Technology (FIMT)**
 - **Fee Structure**: Approx. **₹1,35,000 to ₹1,50,000 per year**.
 - **Why Choose Them**:
@@ -218,7 +218,7 @@ To help students choose an institution that matches their family budget, here is
 - **Best For**: Students looking for luxury campus infrastructure, Bloomberg trading rooms, global exchange partnerships, and premium corporate branding.
 
 ### 2. Mid-Range Tier (Annual Fee: ₹1.8 Lakh – ₹2.9 Lakh)
-- **Colleges**: [GD Goenka University](/colleges/gd-goenka-university), [Sharda University](/colleges/sharda-greater-noida), Sushant University, Manav Rachna (MRIIRS), K.R. Mangalam University.
+- **Colleges**: [GD Goenka University](/colleges/gd-goenka-gurgaon), [Sharda University](/colleges/sharda-greater-noida), Sushant University, Manav Rachna (MRIIRS), K.R. Mangalam University.
 - **Best For**: Balanced academic rigour, strong corporate connectivity in Gurugram/Noida, and good campus placement support.
 
 ### 3. Value-for-Money / Affordable Tier (Annual Fee: ₹95,000 – ₹1.5 Lakh)
@@ -273,7 +273,7 @@ If you are planning to crack top management entrance exams or want to test your 
 ## 🎯 Final Verdict: Which College Should You Pick?
 
 - If **infrastructure, Bloomberg access, and brand reputation** are your primary goals, choose **Amity University Noida** or **[Bennett University](/colleges/bennett-greater-noida)**.
-- If you want a **Gurugram corporate location with strong fintech exposure**, go for **[GD Goenka University](/colleges/gd-goenka-university)** or **Sushant University**.
+- If you want a **Gurugram corporate location with strong fintech exposure**, go for **[GD Goenka University](/colleges/gd-goenka-gurgaon)** or **Sushant University**.
 - If your focus is **maximum Return on Investment (ROI) and affordable fees**, choose **[Galgotias University](/colleges/galgotias-university)**, **GNIOT**, or **IMS Noida**.
 - If you want a **Delhi state-affiliated degree with strong Delhi NCR brand recall**, opt for **JIMS Rohini / Kalkaji** (GGSIPU).
 

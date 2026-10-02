@@ -43,14 +43,14 @@ state: Delhi NCR
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-### **College Review: [Jagannath International Management School](/colleges/jagannath-international-management-school)**
+### **College Review: [Jagannath International Management School](/colleges/jims-kalkaji)**
 *   **Quality Curriculum**: Tailored directly to industry requirements with standard practical case studies.
 *   **Established Brand**: Over the years, it has earned a strong reputation among regional corporate employers.
 *   **Holistic Learning**: Focuses on both technical business skills and global soft skills development.
 
 ---
 
-### 📊 [Jagannath International Management School](/colleges/jagannath-international-management-school) 2026 Snapshot
+### 📊 [Jagannath International Management School](/colleges/jims-kalkaji) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -78,18 +78,18 @@ state: Delhi NCR
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-### 1. Is [Jagannath International Management School](/colleges/jagannath-international-management-school) a good option for PGDM/MBA?
-Yes, [Jagannath International Management School](/colleges/jagannath-international-management-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+### 1. Is [Jagannath International Management School](/colleges/jims-kalkaji) a good option for PGDM/MBA?
+Yes, [Jagannath International Management School](/colleges/jims-kalkaji) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
-### 2. What is the average package offered at [Jagannath International Management School](/colleges/jagannath-international-management-school)?
-The average placement package at [Jagannath International Management School](/colleges/jagannath-international-management-school) is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0 LPA.
+### 2. What is the average package offered at [Jagannath International Management School](/colleges/jims-kalkaji)?
+The average placement package at [Jagannath International Management School](/colleges/jims-kalkaji) is approximately ₹6.7 LPA, with the highest package reaching up to ₹16.0 LPA.
 
-### 3. What entrance exams are accepted by [Jagannath International Management School](/colleges/jagannath-international-management-school)?
+### 3. What entrance exams are accepted by [Jagannath International Management School](/colleges/jims-kalkaji)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [Jagannath International Management School](/colleges/jagannath-international-management-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [Jagannath International Management School](/colleges/jims-kalkaji) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to Jagannath International Management School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

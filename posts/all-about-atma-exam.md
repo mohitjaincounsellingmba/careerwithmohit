@@ -92,10 +92,10 @@ Over 600+ AICTE-approved management institutes and university departments accept
 - Welingkar Institute of Management Development and Research (MMS & PGDM)
 - SIES College of Management Studies, Navi Mumbai
 - Christ University, Bangalore
-- NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), Delhi
+- NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), Delhi
 - IBS (ICFAI Business Schools) across major cities like Hyderabad and Bangalore
-- N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies) and Research, Mumbai
-- IPE ([Institute of Public Enterprise](/colleges/institute-of-public-enterprise)), Hyderabad
+- N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida) and Research, Mumbai
+- IPE ([Institute of Public Enterprise](/colleges/ipe-hyderabad)), Hyderabad
 - [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore) (Noida, Lucknow, Jaipur, Indore)
 
 ---

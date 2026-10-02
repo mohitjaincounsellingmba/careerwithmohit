@@ -121,7 +121,7 @@ One of Mumbai's most reputed private engineering institutions with a strong CSE 
 - **Avg Package:** ₹8–15 LPA | Highest: ₹45 LPA (Goldman Sachs)
 - **NAAC Rating:** A+
 
-### 5. NMIMS MPSTME (Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) — School of Technology)
+### 5. NMIMS MPSTME (Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) — School of Technology)
 Part of the NMIMS Deemed University, MPSTME offers excellent industry connections particularly in fintech, banking tech, and AI.
 
 - **Courses:** B.Tech CSE (specialisations: AI, Data Science, Blockchain), ECE, Mechanical
@@ -141,7 +141,7 @@ TSEC is Bandra-based and consistently ranked in Mumbai's top 10, especially popu
 - **Admission:** MHT CET | **Fee:** ₹35,000/yr | **Avg Package:** ₹5–9 LPA
 
 ### 8. Vidyalankar Institute of Technology (VIT Mumbai)
-Not to be confused with [VIT Vellore](/colleges/vit-vellore). VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
+Not to be confused with [VIT Vellore](/colleges/vit-vellore-campus). VIT Mumbai is located in Wadala and is well-regarded for practical training, labs, and placement support.
 
 - **Admission:** MHT CET / Direct Quota | **Fee:** ₹1.4 L/yr | **Avg Package:** ₹5–8 LPA
 

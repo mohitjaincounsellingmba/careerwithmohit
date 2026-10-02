@@ -8,7 +8,7 @@ import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingU
 
 export const metadata = {
   title: "Top MBA, PGDM, B.Tech & UG Colleges in India 2027: Fees, Cutoffs, Placements & Search",
-  description: "Search 770+ verified MBA, PGDM, B.Tech & BBA colleges across India. Compare fee structures, 2025-26 placement audits, CAT/JEE/CMAT cutoffs, and NIRF rankings by state (Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Chennai, Kolkata). Get direct 1-on-1 guidance with Mohit Jain.",
+  description: "Search verified MBA, PGDM, B.Tech & BBA colleges across India. Compare fee structures, 2025-26 placement audits, CAT/JEE/CMAT cutoffs, and NIRF rankings by state (Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Chennai, Kolkata). Get direct 1-on-1 guidance with Mohit Jain.",
   keywords: [
     'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA colleges by state India',
     'search colleges in India', 'college search engine India', 'compare MBA colleges fees placement',
@@ -31,7 +31,7 @@ export const metadata = {
   },
   openGraph: {
     title: 'Top Colleges in India 2027: Search MBA, PGDM & B.Tech Fees, Cutoffs & Placements',
-    description: 'Explore verified data on 770+ top colleges across all Indian states. Compare fees, placements, rankings & cutoffs for 2027 admissions with AI-powered search.',
+    description: 'Explore verified data on top colleges across all Indian states. Compare fees, placements, rankings & cutoffs for 2027 admissions with AI-powered search.',
     type: 'website',
     url: 'https://careerwithmohit.online/colleges',
     siteName: 'CareerWithMohit',
@@ -47,7 +47,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Top MBA, PGDM & B.Tech Colleges in India 2027 | College Search Engine',
-    description: 'Explore verified data on 770+ top colleges across India. Compare fees, rankings & placements.',
+    description: 'Explore verified data on top colleges across India. Compare fees, rankings & placements.',
     images: ['https://careerwithmohit.online/og-image.webp'],
   },
 };
@@ -96,7 +96,7 @@ export default function CollegesPage() {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Top MBA, PGDM, B.Tech & UG Colleges in India 2027",
-    "description": "Comprehensive pan-India directory of 770+ top colleges and universities covering all Indian states with fees, placement data, entrance cutoffs, and admission details for 2027.",
+    "description": `Comprehensive pan-India directory of ${colleges.length}+ top verified colleges and universities covering all Indian states with fees, placement data, entrance cutoffs, and admission details for 2027.`,
     "url": "https://careerwithmohit.online/colleges",
     "mainEntity": {
       "@type": "ItemList",

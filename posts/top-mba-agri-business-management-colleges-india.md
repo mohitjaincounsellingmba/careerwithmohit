@@ -132,7 +132,7 @@ In this comprehensive guide, we cover the top 20 institutions in India for MBA/P
 *   **Top Recruiters**: Mahindra Agribusiness, Syngenta, Bioseed, Adani Wilmar.
 *   **Designations**: Agri-Retail Sales Head, Farm Operations Manager.
 
-#### **[Amity University, Noida](/colleges/amity-university-noida)**
+#### **[Amity University, Noida](/colleges/amity-noida)**
 *   **Avg Placement**: ₹5.5 – 7.0 LPA
 *   **Top Recruiters**: ITC, ICICI Bank, Syngenta, Bayer.
 *   **Designations**: Business Analyst, Corporate Sales Manager.

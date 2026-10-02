@@ -64,7 +64,7 @@ state: Maharashtra
 
 ---
 
-The **NMAT by GMAC** (Graduate Management Admission Council) is one of India's most student-friendly and prestigious management entrance examinations. It is the premier pathway to the coveted **SVKM's Narsee Monjee [Institute of Management Studies](/colleges/institute-of-management-studies) (NMIMS)** campuses in Mumbai, Bengaluru, Navi Mumbai, Hyderabad, and Indore, along with esteemed institutions like K J Somaiya, TAPMI, XIM University Bhubaneswar, and SDA Bocconi Asia Center.
+The **NMAT by GMAC** (Graduate Management Admission Council) is one of India's most student-friendly and prestigious management entrance examinations. It is the premier pathway to the coveted **SVKM's Narsee Monjee [Institute of Management Studies](/colleges/ims-noida) (NMIMS)** campuses in Mumbai, Bengaluru, Navi Mumbai, Hyderabad, and Indore, along with esteemed institutions like K J Somaiya, TAPMI, XIM University Bhubaneswar, and SDA Bocconi Asia Center.
 
 Unlike single-day tests like CAT or XAT, NMAT provides a 75-day testing window with customizable sectional order and zero negative marking. However, adhering to the **NMAT exam 2026 last date of registration** is vital because missing the regular window blocks you from taking the main exam and eliminates your eligibility for top NMIMS programs.
 

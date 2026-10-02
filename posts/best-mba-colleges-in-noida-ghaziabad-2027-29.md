@@ -70,7 +70,7 @@ These institutes are nationally ranked and are the primary choice for students s
 - **Entrance Exam:** CAT, XAT, GMAT
 - **USP:** Known as the "Marketing Hub" of North India with an unparalleled alumni network.
 
-### 2. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology))
+### 2. BIMTECH Greater Noida ([Birla Institute of Management Technology](/colleges/bimtech-greater-noida))
 - **Status:** A premier institute backed by the Birla legacy.
 - **Fees:** ₹14.0 Lakhs
 - **Average Placement:** ₹10.5 LPA (International ₹24.4 LPA)

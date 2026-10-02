@@ -74,12 +74,12 @@ Whether you are looking for the absolute best ROI (under ₹2 Lakhs fees) or a g
 
 Mumbai is famous for its high-ROI colleges where you pay less but earn like royalty.
 
-### 1. JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 1. JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
 Known as the **"CEO Factory of India."** Highly competitive.
 - **Why Choose It:** Almost zero tuition fee compared to IIMs, but placements are identical.
 - **Top Recruiters:** BCG, McKinsey, Morgan Stanley, HSBC.
 
-### 2. SIMSREE (Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 2. SIMSREE (Sydenham [Institute of Management Studies](/colleges/ims-noida))
 The #2 ROI choice in Mumbai. Affiliated with Mumbai University.
 - **Total Fees:** ~₹1.4 Lakhs for 2 years.
 - **Avg. Package:** ₹15 LPA+. That is a 10x return!

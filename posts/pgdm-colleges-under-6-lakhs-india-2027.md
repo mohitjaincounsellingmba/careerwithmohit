@@ -52,7 +52,7 @@ Several AICTE approved colleges offer full 2-year programs with fees **under 6 L
 - **Placement USP:** Tech & Digital Focus
 - **About:** NDIIT Kalkaji focuses on creating tech-savvy management professionals. Combining core management studies with advanced digital skills (like Data Science, Analytics, and FinTech), NDIIT grooms leaders for modern digital corporations.
 
-#### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
+#### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)
 - **Location:** Rohini, North-West Delhi
 - **Total Fees:** ₹4.85 Lakhs (Total)
 - **Placement USP:** Top Academic Brand
@@ -97,7 +97,7 @@ Several AICTE approved colleges offer full 2-year programs with fees **under 6 L
 | :--- | :--- | :--- | :--- |
 | **[Management Education & Research Institute (MERI)](/colleges/meri-delhi)** | Janakpuri, West Delhi | ₹5.95 Lakhs (Total) | Affordable PGDM |
 | **New Delhi Institute of Info Tech & Management (NDIIT)** | Kalkaji, South Delhi | ₹5.80 Lakhs (Total) | Tech & Digital Focus |
-| **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | Rohini, North-West Delhi | ₹4.85 Lakhs (Total) | Top Academic Brand |
+| **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** | Rohini, North-West Delhi | ₹4.85 Lakhs (Total) | Top Academic Brand |
 | **[Hierank Business School](/colleges/hierank-noida)** | Sector 62, Noida | ₹3.25 Lakhs (Total) | Value B-School |
 | **[Mangalmay Institute of Management and Technology](/colleges/mangalmay-greater-noida)** | Knowledge Park II, Greater Noida | ₹3.25 Lakhs (Total) | Value B-School |
 | **[St. Andrews Institute of Technology & Management (SAITM)](/colleges/st-andrews-gurgaon)** | Sector 109, Gurugram | ₹3.25 Lakhs (Total) | Affordable MBA |

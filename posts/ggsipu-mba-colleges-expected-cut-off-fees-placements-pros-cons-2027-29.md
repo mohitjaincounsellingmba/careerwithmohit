@@ -93,7 +93,7 @@ Ranked #1 among the private affiliated colleges of GGSIPU, MAIT is known for its
 * **Pros:** Highly disciplined academic environment, strong corporate relationships, and active campus placements.
 * **Cons:** The environment can feel highly academic and structured, somewhat like a school.
 
-### 3. [Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)
+### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida) (JIMS), Rohini](/colleges/jims-rohini)
 JIMS Rohini is highly reputed for its corporate connections, industry-oriented pedagogy, and dedicated placement cell.
 * **Expected CAT Cut-off:** 68 - 75+ Percentile
 * **Expected CMAT Cut-off:** 86 - 90+ Percentile
@@ -113,7 +113,7 @@ DIAS is a long-standing, NAAC 'A' grade accredited college that is especially po
 * **Pros:** Highly qualified faculty, strong academic results, and focused training for financial sectors.
 * **Cons:** The campus is relatively small, with limited scope for sports and grand extracurricular events.
 
-### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS), Rohini
+### 5. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS), Rohini
 Located adjacent to MAIT, MAIMS shares a massive campus and provides a great learning environment with a focus on holistic student development.
 * **Expected CAT Cut-off:** 60 - 65+ Percentile
 * **Expected CMAT Cut-off:** 80 - 85+ Percentile
@@ -153,7 +153,7 @@ Centrally located and well-connected by metro, Tecnia offers a good platform for
 * **Pros:** Metro connectivity, affordable fees, and active management events.
 * **Cons:** Average placement package is on the lower side; campus infrastructure is compact.
 
-### 9. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri), Janakpuri
+### 9. [Management Education & Research Institute (MERI)](/colleges/meri-delhi), Janakpuri
 MERI Janakpuri is one of the oldest management institutes in West Delhi, offering a balanced MBA experience.
 * **Expected CAT Cut-off:** 45 - 50+ Percentile
 * **Expected CMAT Cut-off:** 65 - 70+ Percentile

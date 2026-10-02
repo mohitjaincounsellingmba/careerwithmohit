@@ -55,7 +55,7 @@ Here are the **Top BBA Colleges in Noida for 2026**.
 
 ## 🏛️ Top BBA Institutions in Noida
 
-### 1. [Amity University, Noida](/colleges/amity-university-noida)
+### 1. [Amity University, Noida](/colleges/amity-noida)
 - **Rank:** #1 Private University for management in the region.
 - **Approx. Fees:** ₹2.0 - 3.5 Lakhs (Annual)
 - **Average Placement:** ₹5 - 7 LPA (Highest ₹20 LPA+)

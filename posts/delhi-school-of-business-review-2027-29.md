@@ -45,14 +45,14 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+# [Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-**[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** continues to be one of the most prominent management destinations in **Pitampura (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
+**[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)** continues to be one of the most prominent management destinations in **Pitampura (North-West Delhi)** for the **2026–2027 intake**. Known for its robust academic rigor, strong corporate relations, and impressive ROI, it attracts thousands of management aspirants every year.
 
 Whether you are targeting flagship MBA/PGDM programs or comparing top business schools in North-West Delhi, this comprehensive review provides verified insights into **fee structures, placement packages, entrance exam cutoffs, specialization tracks, and admission criteria**.
 
@@ -60,11 +60,11 @@ Whether you are targeting flagship MBA/PGDM programs or comparing top business s
 
 ## 1. Quick Overview & Key Highlights
 
-The table below summarizes the key metrics for **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** for the upcoming 2026–2027 academic session:
+The table below summarizes the key metrics for **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)** for the upcoming 2026–2027 academic session:
 
 | Parameter | Details |
 | :--- | :--- |
-| **Institution Name** | **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** |
+| **Institution Name** | **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)** |
 | **Location & Campus** | Pitampura, North-West Delhi |
 | **Accreditation & Approvals** | AICTE Approved, AIU Equivalent |
 | **Flagship Program** | MBA / PGDM (2 Years Full-Time) |
@@ -96,7 +96,7 @@ Understanding the fee breakdown and available specialization tracks is essential
 
 ## 3. Placement Review 2027–29–2026: Salary Packages & Recruiters
 
-The placement record at **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
+The placement record at **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)** highlights consistent corporate trust and strong recruitment outcomes across legacy MNCs and high-growth startups.
 
 *   **Highest CTC:** **₹23.9 LPA**
 *   **Average CTC:** **₹10.5 LPA**
@@ -111,7 +111,7 @@ The placement record at **[Delhi School of Business (VIPS-TC)](/colleges/delhi-s
 
 ## 4. Admission Process & Expected Cutoffs 2026
 
-Admission to **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
+Admission to **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)** follows a holistic selection process that evaluates entrance exam scores, academic consistency, work experience, and performance in personal interview rounds.
 
 ### Step-by-Step Selection Process
 1.  **Entrance Exam Score:** Register and appear for **CAT, XAT, CMAT, MAT, ATMA**.
@@ -126,7 +126,7 @@ Admission to **[Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-bu
 
 ---
 
-## 5. Why Choose [Delhi School of Business (VIPS-TC)](/colleges/delhi-school-of-business-vips-tc)? (Pros & Cons)
+## 5. Why Choose [Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi)? (Pros & Cons)
 
 ### Key Advantages (Pros)
 *   **Strong Corporate Brand:** High brand recall among recruiters in Pitampura and across major commercial hubs in India.

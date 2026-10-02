@@ -76,7 +76,7 @@ Vellore Institute of Technology (VIT) Chennai Campus, located on Vandalur-Kelamb
 | **Full Institutional Name** | Vellore Institute of Technology (VIT), Chennai Campus |
 | **Location & Region** | Chennai (Vandalur-Kelambakkam Road), Chennai, South India |
 | **University Type & Status** | Deemed-to-be University (UGC Approved, NAAC A++ Grade) |
-| **Established Year** | 2010 ([VIT Vellore](/colleges/vit-vellore) legacy since 1984) |
+| **Established Year** | 2010 ([VIT Vellore](/colleges/vit-vellore-campus) legacy since 1984) |
 | **Accreditations & Approvals** | UGC, NAAC A++ Grade (3.66/4), NIRF Top 15 Engineering, ABET, AICTE |
 | **Flagship Academic Streams** | B.Tech (CSE/AI/ECE), MBA (VIT Business School), BA LLB / BBA LLB (VITSOL) |
 | **Accepted Entrance Exams** | VITEEE (B.Tech), VITMEE, CAT / MAT / XAT / NMAT (MBA), CLAT / Merit (Law) |
@@ -147,7 +147,7 @@ Securing admission to Vellore Institute of Technology (VIT), Chennai Campus for 
 To help you make an unbiased decision, here is a balanced summary of the key advantages and potential drawbacks of studying at **VIT Chennai Campus**:
 
 ### 👍 Why Choose VIT Chennai Campus? (Pros)
-- **100%** centralized placements with [VIT Vellore](/colleges/vit-vellore) main campus, ensuring identical dream job access
+- **100%** centralized placements with [VIT Vellore](/colleges/vit-vellore-campus) main campus, ensuring identical dream job access
 - **NAAC** A++ Grade accreditation with an outstanding 3.66 CGPA and top-15 NIRF engineering rank
 - **Innovative** Fully Flexible Credit System (FFCS) allowing students to choose faculty and timetable
 - **Category** 1 tuition fee (₹1.98 Lakhs/year) is exceptionally affordable for top VITEEE rankers

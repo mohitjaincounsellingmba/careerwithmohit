@@ -128,7 +128,7 @@ If you are targeting programs that combine financial training with state-of-the-
 1. **Premier Government B-Schools:** Programs like the Joint PGDBA by **[IIM Calcutta](/colleges/iim-calcutta), IIT Kharagpur, and ISI Kolkata** are highly quantitative. [IIM Bangalore](/colleges/iim-bangalore) (PGPBA) and [FMS Delhi](/colleges/fms-delhi) also offer premier analytical tracks.
 2. **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) & [SPJIMR Mumbai](/colleges/spjimr-mumbai):** Legendary for corporate connections and traditional finance placements, both **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** and **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** have added heavy analytics tracks to their core Finance PGDM.
 3. **[MDI Gurgaon](/colleges/mdi-gurgaon) & [SIBM Pune](/colleges/sibm-pune):** **[MDI Gurgaon](/colleges/mdi-gurgaon)** and **[SIBM Pune](/colleges/sibm-pune)** offer robust specializations in Finance and Analytics, making them excellent choices in the private sector.
-4. **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), Delhi:** [NDIM Delhi](/colleges/ndim-delhi) is widely recognized for its industry linkages and offers a specialized PGDM in Business Analytics (PGDM-BA) alongside a robust Finance track, making it a top-tier option for corporate placements in Delhi NCR.
+4. **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM), Delhi:** [NDIM Delhi](/colleges/ndim-delhi) is widely recognized for its industry linkages and offers a specialized PGDM in Business Analytics (PGDM-BA) alongside a robust Finance track, making it a top-tier option for corporate placements in Delhi NCR.
    * *Read more:* [NDIM Delhi Placement Review 2027–29](/blog/ndim-placement-review-2027-29)
 
 

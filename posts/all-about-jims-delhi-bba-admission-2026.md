@@ -42,7 +42,7 @@ state: Delhi NCR
 > - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
 
 
-[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
+[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
 
 ## 🏛️ Why Choose JIMS Delhi for BBA in 2026?
 JIMS offers a practical approach to management education, focusing on skill development and industry readiness.

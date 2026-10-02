@@ -76,7 +76,7 @@ faqs:
 
 Choosing the right business school is one of the most critical milestones for any management aspirant. In an era shaped by artificial intelligence, global supply chains, and cross-border commerce, conventional textbook pedagogy is no longer sufficient. Aspirants require a future-proof curriculum that merges academic rigor with real boardroom execution and global cultural readiness.
 
-Established in 1992 in the institutional hub of South Delhi (Tughlakabad), **[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** has spent over three decades establishing itself as a premier destination for corporate leadership. Governed by a distinguished board featuring former Secretaries to the Government of India, Supreme Court judges, and top industry leaders, NDIM holds approvals from **AICTE**, accreditation from **NBA**, and prestigious **MBA Equivalence from the Association of Indian Universities (AIU)**.
+Established in 1992 in the institutional hub of South Delhi (Tughlakabad), **[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** has spent over three decades establishing itself as a premier destination for corporate leadership. Governed by a distinguished board featuring former Secretaries to the Government of India, Supreme Court judges, and top industry leaders, NDIM holds approvals from **AICTE**, accreditation from **NBA**, and prestigious **MBA Equivalence from the Association of Indian Universities (AIU)**.
 
 In this official program breakdown—sourced directly from [ndimdelhi.org](https://www.ndimdelhi.org/)—we examine everything NDIM offers in its flagship 2-Year Full-Time Post Graduate Diploma in Management (PGDM) program: from dual specializations and professional certifications to international immersion, foreign language training, corporate interface credentials, SIP-to-PPO conversions, and student scholarships.
 
@@ -86,7 +86,7 @@ In this official program breakdown—sourced directly from [ndimdelhi.org](https
 
 | Parameter | Official Details ([ndimdelhi.org](https://www.ndimdelhi.org/)) |
 | :--- | :--- |
-| **Institute Name** | [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) |
+| **Institute Name** | [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) |
 | **Campus Location** | 60 & 50 (M&B), Tughlakabad Institutional Area, New Delhi |
 | **Legacy & Governance** | Established 1992; Board led by former Union Secretaries & Corporate Leaders |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |
@@ -302,7 +302,7 @@ NDIM maintains a comprehensive scholarship framework to support deserving and di
 
 ## 📌 Verdict: Is NDIM Delhi the Right Choice for You?
 
-**[New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)** offers one of the most balanced, practical, and industry-embedded PGDM programs in Delhi NCR. With its AICTE-CII rated corporate interface, True Dual Specialization structure, unique **Japan & Korea Centres of Excellence**, embedded Industry 4.0 certifications, and proactive SIP-to-PPO conversion pipeline, NDIM represents a solid, high-ROI launchpad for domestic and global management careers.
+**[New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)** offers one of the most balanced, practical, and industry-embedded PGDM programs in Delhi NCR. With its AICTE-CII rated corporate interface, True Dual Specialization structure, unique **Japan & Korea Centres of Excellence**, embedded Industry 4.0 certifications, and proactive SIP-to-PPO conversion pipeline, NDIM represents a solid, high-ROI launchpad for domestic and global management careers.
 
 If you have a CAT/XAT/MAT/CMAT score in the 60–80 percentile range and value hands-on corporate immersion in South Delhi alongside international learning pathways, NDIM should feature prominently on your MBA/PGDM application shortlist.
 

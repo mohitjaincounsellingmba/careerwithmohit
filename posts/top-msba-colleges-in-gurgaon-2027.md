@@ -54,7 +54,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 | **[MDI Gurgaon](/colleges/mdi-gurgaon)** (PGDM Business Analytics) | ₹24.50 Lakhs | ₹25.50 LPA - ₹27.67 LPA | CAT (95+ %ile) / GMAT + Profile Evaluation |
 | **[Masters' Union Gurgaon](/colleges/masters-union-gurgaon)** (PGP Tech & Analytics) | ₹25.00 Lakhs | ₹31.00 LPA - ₹34.07 LPA | MU-BAAT / CAT / GMAT / GRE + Interview |
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** (PGDM Analytics Track) | ₹17.50 Lakhs | ₹15.80 LPA - ₹16.50 LPA | CAT / XAT / CMAT / GMAT (80%+ %ile) |
-| **[JK Business School (JKBS)](/colleges/jk-business-school-gurugram)** (PGDM DABI - IoA UK) | ₹8.50 Lakhs | ₹7.50 LPA - ₹9.20 LPA | CAT / MAT / CMAT / XAT / ATMA (High ROI) |
+| **[JK Business School (JKBS)](/colleges/jkbs-gurgaon)** (PGDM DABI - IoA UK) | ₹8.50 Lakhs | ₹7.50 LPA - ₹9.20 LPA | CAT / MAT / CMAT / XAT / ATMA (High ROI) |
 | **[BML Munjal University (BMU)](/colleges/bml-munjal-university)** (MBA Business Analytics) | ₹13.50 Lakhs | ₹9.20 LPA - ₹10.50 LPA | CAT / NMAT / XAT / GMAT / BMU-MAT |
 | **SOIL Institute of Management** (PGPM / PGDM Analytics) | ₹15.50 Lakhs | ₹11.50 LPA - ₹12.20 LPA | CAT / XAT / NMAT / GMAT / SOIL Talent Test |
 | **Amity University Gurugram** (M.Sc Data Science & Analytics) | ₹4.80L - ₹8.50L | ₹6.50 LPA - ₹7.80 LPA | Graduation Merit (Maths/Stats/CS) / Amity Test |
@@ -97,7 +97,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 4. [JK Business School (JKBS Gurugram)](/colleges/jk-business-school-gurugram)
+### 4. [JK Business School (JKBS Gurugram)](/colleges/jkbs-gurgaon)
 - **Flagship Offering**: PGDM in Data Analytics & Business Intelligence (DABI)
 - **Total Tuition Fee**: ₹8.50 Lakhs (Excellent ROI)
 - **Placement Performance**: Average CTC ₹7.50 LPA – ₹9.20 LPA | Highest Domestic CTC ₹18.00 LPA

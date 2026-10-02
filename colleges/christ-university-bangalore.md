@@ -1,5 +1,5 @@
 ---
-name: Christ University Bangalore
+name: 'Christ University, Bangalore'
 logo: /colleges/christ-logo.webp
 location: Bangalore
 category: Management

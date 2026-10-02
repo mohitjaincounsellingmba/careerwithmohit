@@ -91,7 +91,7 @@ Delhi NCR is India's most vibrant corporate hub for MBA and PGDM graduates. For 
 
 ## Detailed Review of Top Delhi NCR Tier-2 PGDM Institutes
 
-### 1. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM)
+### 1. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM)
 - **Accreditation**: AICTE Approved, NBA Accredited, AIU MBA Equivalent.
 - **Highlights**: Ranked among the premier private B-Schools in Delhi. Offers dual specializations in FinTech, Business Analytics, HR, and Marketing with 300+ recruiting partners.
 - **Placement Performance**: Average CTC ₹9.50 LPA | Highest ₹24.0 LPA.
@@ -101,12 +101,12 @@ Delhi NCR is India's most vibrant corporate hub for MBA and PGDM graduates. For 
 - **Highlights**: Founded by alumni of [IIM Ahmedabad](/colleges/iim-ahmedabad). Modern campus in Dwarka with top faculty from IIM/IIT pools, exceptional corporate linkages, and strong finance/marketing placements.
 - **Placement Performance**: Average CTC ₹11.15 LPA | Highest ₹30.0 LPA.
 
-### 3. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB)
+### 3. [Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB)
 - **Accreditation**: AICTE Approved, NBA Accredited, AACSB Business Education Alliance Member.
 - **Highlights**: Prime location in Vasant Vihar, South Delhi. Experiential learning model with mandatory executive mentoring and international corporate live projects.
 - **Placement Performance**: Average CTC ₹8.50 LPA | Highest ₹25.92 LPA.
 
-### 4. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida
+### 4. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida
 - **Accreditation**: AACSB Member, NBA Accredited, AIU Equivalent.
 - **Highlights**: State-of-the-art campus in Sector 62 Noida. Pan-India unified placement pool across Noida, Lucknow, Jaipur, and Indore campuses.
 - **Placement Performance**: Average CTC ₹11.29 LPA | Highest ₹27.0 LPA.

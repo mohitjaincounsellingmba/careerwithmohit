@@ -78,7 +78,7 @@ The Noida region is home to some of the largest private educational setups in In
 *   **Galgotias & Sharda:** Great for students looking for regular MA programs in Political Science, History, and Sociology with affordable fee structures compared to elite private schools.
 
 ### 2. Gurgaon (Gurugram): Corporate & Clinical Focus
-*   **[GD Goenka University](/colleges/gd-goenka-university):** Their **MA in Counselling Psychology** is highly rated for its practical approach.
+*   **[GD Goenka University](/colleges/gd-goenka-gurgaon):** Their **MA in Counselling Psychology** is highly rated for its practical approach.
 *   **K.R. Mangalam University:** Offers a very flexible MA program with special emphasis on English and Economics.
 *   **SGT University:** A medical and research-heavy university that provides great exposure for MA students in Allied Health sciences and Mass Communication.
 

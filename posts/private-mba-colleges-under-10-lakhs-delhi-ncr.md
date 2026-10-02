@@ -78,7 +78,7 @@ If you are a budget-conscious aspirant aiming for the 2027–2029 academic cycle
 
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
-## 1. [GNIOT [Institute of Management Studies](/colleges/institute-of-management-studies) (GIMS)](/colleges/gniot-institute-of-management-studies-gims), Greater Noida
+## 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 
 GNIOT has rapidly ascended the ranks as a premier choice for students seeking a rigorous, placement-driven MBA without a premium price tag. 
 
@@ -100,7 +100,7 @@ If your primary constraint is budget, but you still want an established platform
 
 ---
 
-## 3. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM), Delhi
+## 3. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM), Delhi
 
 *Note: NDIM's fees have revised to ₹13.75 Lakhs for the 2027–29 batch, but its premium corporate placement ROI makes it a must-include for serious aspirants.*
 
@@ -113,7 +113,7 @@ Situated in the heart of Delhi, NDIM is heavily networked with industry bodies l
 
 ---
 
-## 4. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) Rohini, Delhi
+## 4. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS) Rohini, Delhi
 
 JIMS Rohini is NBA and AIU-accredited, making it one of the most credible mid-budget private b-schools in the capital.
 

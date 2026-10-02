@@ -74,7 +74,7 @@ This comprehensive guide covers **India's top B.Tech engineering colleges for 20
 | #10 | [BITS Pilani](/colleges/bits-pilani) | Private Deemed | ₹5.5 L | ₹15–20 LPA | BITSAT |
 | #11 | NIT Surathkal | Central Govt (NIT) | ₹1.5 L | ₹8–13 LPA | JEE Main |
 | #12 | IIT BHU Varanasi | Central Govt | ₹2.5 L | ₹14–20 LPA | JEE Advanced |
-| #13 | [VIT Vellore](/colleges/vit-vellore) | Private Deemed | ₹2.1 L | ₹7–14 LPA | VITEEE |
+| #13 | [VIT Vellore](/colleges/vit-vellore-campus) | Private Deemed | ₹2.1 L | ₹7–14 LPA | VITEEE |
 | #14 | SRM Kattankulathur | Private Deemed | ₹2.0 L | ₹6–12 LPA | SRMJEEE |
 | #15 | NIT Warangal | Central Govt (NIT) | ₹1.5 L | ₹8–13 LPA | JEE Main |
 | #16 | Thapar University | Private | ₹4.0 L | ₹10–18 LPA | JEE Main/Boards |
@@ -149,7 +149,7 @@ Top private deemed universities for B.Tech include:
 | University | Entrance | Annual Fee | Best For |
 |---|---|---|---|
 | [BITS Pilani](/colleges/bits-pilani) (3 campuses) | BITSAT | ₹5.5 L | CS, Elec, Chem |
-| [VIT Vellore](/colleges/vit-vellore) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
+| [VIT Vellore](/colleges/vit-vellore-campus) | VITEEE | ₹2.1 L | CS, ECE, BioTech |
 | Thapar University | JEE Main/Boards | ₹4.0 L | CS, EEE, Chem |
 | Manipal Institute of Tech | MU OET / JEE | ₹2.3 L | CS, ECE, Mech |
 | SRM Kattankulathur | SRMJEEE | ₹2.0 L | CS, ECE, Biomedical |

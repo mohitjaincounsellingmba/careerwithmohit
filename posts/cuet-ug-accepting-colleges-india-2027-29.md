@@ -108,7 +108,7 @@ If you miss out on top Central Universities, don't worry. Many of India's elite 
 2. **[Bennett University](/colleges/bennett-greater-noida)**, Greater Noida
 3. **[BML Munjal University](/colleges/bml-munjal-gurgaon)**, Gurugram
 4. **[Galgotias University](/colleges/galgotias-university)**, Greater Noida
-5. **[GD Goenka University](/colleges/gd-goenka-university)**, Gurugram
+5. **[GD Goenka University](/colleges/gd-goenka-gurgaon)**, Gurugram
 6. **K.R. Mangalam University**, Gurugram
 7. **LPU ([Lovely Professional University](/colleges/lovely-professional-university))**, Phagwara
 8. **SRM University** (Delhi NCR Sonepat)

@@ -47,7 +47,7 @@ state: Karnataka
 
 ---
 
-### 📊 [ISBR Business School](/colleges/isbr-business-school) 2026 Snapshot
+### 📊 [ISBR Business School](/colleges/isbr-bangalore) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -76,17 +76,17 @@ state: Karnataka
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [ISBR Business School](/colleges/isbr-bangalore) a good option for PGDM/MBA?
-Yes, [ISBR Business School](/colleges/isbr-business-school) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, [ISBR Business School](/colleges/isbr-bangalore) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [ISBR Business School](/colleges/isbr-bangalore)?
-The average placement package at [ISBR Business School](/colleges/isbr-business-school) is approximately ₹6.2 LPA, with the highest package reaching up to ₹14.7 LPA.
+The average placement package at [ISBR Business School](/colleges/isbr-bangalore) is approximately ₹6.2 LPA, with the highest package reaching up to ₹14.7 LPA.
 
 ### 3. What entrance exams are accepted by [ISBR Business School](/colleges/isbr-bangalore)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: [ISBR Business School](/colleges/isbr-business-school) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: [ISBR Business School](/colleges/isbr-bangalore) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to ISBR Business School](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

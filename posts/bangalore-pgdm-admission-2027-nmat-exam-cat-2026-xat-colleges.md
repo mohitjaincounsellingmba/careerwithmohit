@@ -73,7 +73,7 @@ category: Exams
 
 ## Spotlight on Bangalore’s Top Autonomous B-Schools
 
-### 1. JagSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management))
+### 1. JagSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore))
 * **Accreditation:** Globally AACSB accredited.
 * **Distinct Pedagogy:** "T-shaped" curriculum with deep focus on MarTech, FinTech, and Digital Business Transformation. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore).
 
@@ -81,11 +81,11 @@ category: Exams
 * **Location:** Located in Electronic City Phase 1 right beside Infosys and HP campuses.
 * **Placements:** 100% placement track record with top recruiting partners including Infosys, Wipro, Oracle, PwC, and EY. Read [All About XIME Bangalore](/colleges/xime-bangalore).
 
-### 3. [ISBR Business School](/colleges/isbr-business-school) & GIBS Bangalore
+### 3. [ISBR Business School](/colleges/isbr-bangalore) & GIBS Bangalore
 * **[ISBR Business School](/colleges/isbr-bangalore):** Renowned for dual specializations, active incubators, and high international student exchange participation. Learn more at [All About ISBR Bangalore](/colleges/isbr-bangalore).
 * **[GIBS Business School](/colleges/gibs-bangalore):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/colleges/gibs-bangalore).
 
-### 4. [Indus Business Academy](/colleges/indus-business-academy) (IBA) & ISME
+### 4. [Indus Business Academy](/colleges/iba-bangalore) (IBA) & ISME
 * **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/blog/all-about-indus-business-academy).
 * **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/colleges/isme-bangalore).
 

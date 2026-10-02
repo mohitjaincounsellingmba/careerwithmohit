@@ -155,7 +155,7 @@ These colleges are known for their modern curriculum and strong ties with Gurgao
 ## Tier 3: Value-for-Money & Career Starters
 Ideal for students with moderate entrance scores looking for solid placement starts.
 
-### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management))](/colleges/ndim-delhi)
+### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi))](/colleges/ndim-delhi)
 - **Fees:** ₹12.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **USP:** Recognized for global industry link; 100% placements for decades.

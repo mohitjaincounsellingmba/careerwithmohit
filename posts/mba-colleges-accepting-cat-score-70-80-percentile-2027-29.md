@@ -98,11 +98,11 @@ Located right in the cyber hub of Gurgaon, SOIL focuses heavily on leadership, d
 With NBA and AACSB business education member status, Jaipuria offers unified centralized placements across its four campuses (Noida, Lucknow, Jaipur, Indore).
 *   **Key Advantage:** Over 300+ recruiters visit annually, with heavy hiring in FMCG, Retail, and BFSI.
 
-### 4. NDIM ([New Delhi Institute of Management](/colleges/new-delhi-institute-of-management)), New Delhi
+### 4. NDIM ([New Delhi Institute of Management](/colleges/ndim-delhi)), New Delhi
 Consistently ranked among the top industry-linked B-schools by AICTE-CII, NDIM offers dual specializations with very strong corporate interface.
 *   **Key Advantage:** High ROI in central Delhi, offering dual specializations in Marketing, Finance, HR, IT, and Business Analytics.
 
-### 5. [JIMS Rohini ([Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies))](/colleges/jims-rohini), Delhi
+### 5. [JIMS Rohini ([Jagan Institute of Management Studies](/colleges/jims-rohini))](/colleges/jims-rohini), Delhi
 One of the most reputed institutes under GGSIPU and AICTE in Delhi NCR.
 *   **Key Advantage:** Low fees under ₹10 Lakhs with strong placement support (average ₹9.2 LPA), offering one of the highest ROIs in North India.
 
@@ -131,7 +131,7 @@ WeSchool accepts profile-based applications for its innovative programs such as 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the top MBA colleges accepting 70-80 percentile in CAT 2027–29?
-Top colleges include BIMTECH Greater Noida (IBM/Retail programs), SOIL Institute of Management Gurgaon, [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
+Top colleges include BIMTECH Greater Noida (IBM/Retail programs), SOIL Institute of Management Gurgaon, [Jaipuria Institute of Management](/colleges/jaipuria-jaipur) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
 
 ### What average salary package can I expect from a 70-80 percentile college?
 Most reputable AICTE-approved colleges in this range offer average salary packages between INR 9.50 LPA and INR 13.50 LPA, with top performers achieving INR 18 to 22 LPA.

@@ -55,7 +55,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore), Noida** | CAT / MAT / CMAT / XAT | ₹13.5 Lakhs (Total) | **₹11.40 LPA** |
-| **[Amity University, Noida](/colleges/amity-university-noida)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
+| **[Amity University, Noida](/colleges/amity-noida)** | CAT / MAT / CMAT | ₹14.0 Lakhs (Total) | **₹8.50 LPA** |
 | **IMS Noida** | CMAT / MAT | ₹7.9 Lakhs (Total) | **₹5.50 LPA** |
 
 ---
@@ -77,7 +77,7 @@ Choosing a B-school in this region offers key advantages:
 
 ## 🔍 Detailed Analysis of Top B-Schools in Noida
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Noida
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Noida
 - **Approximate Fees:** ₹13.5 Lakhs (Total)
 - **Accepted Entrance Exams:** CAT / MAT / CMAT / XAT
 - **Average Placement Package:** **₹11.40 LPA**

@@ -82,7 +82,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
   - ₹11.2 LPA Avg Domestic    - India's #1 Hospital MBA       - ₹2.8L Total Fee
 ```
 
-### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur), Jaipur (Pratap Nagar)
+### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur), Jaipur (Pratap Nagar)
 - **Centralized Placement Advantage**: Students at the Jaipur campus participate equally in the common corporate placement drive across all four Jaipuria campuses, landing roles at Deloitte, Amazon, HCL, and ICICI Bank.
 - **Campus Life**: State-of-the-art Wi-Fi campus with strong entrepreneurship incubation and digital marketing labs.
 

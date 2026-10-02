@@ -65,7 +65,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** JMI Entrance
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)
+### 3. Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)
 - **Approximate Annual Fees:** ₹1.1 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET / CUET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -90,7 +90,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 8. [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)
+### 8. [Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS Rohini)
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam / Admission Process:** IPU CET
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -113,12 +113,12 @@ Here is a curated list of the **Top 10 BBA Colleges in Delhi for 2026** to help 
 | :--- | :--- | :--- | :--- |
 | **1** | **Shaheed Sukhdev College of Business Studies (SSCBS)** | CUET | ₹20,000 |
 | **2** | **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | JMI Entrance | ₹13,000 |
-| **3** | **Maharaja Agrasen [Institute of Management Studies](/colleges/institute-of-management-studies) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs |
+| **3** | **Maharaja Agrasen [Institute of Management Studies](/colleges/ims-noida) (MAIMS)** | IPU CET / CUET | ₹1.1 Lakhs |
 | **4** | **Vivekananda Institute of Professional Studies (VIPS)** | IPU CET / CUET | ₹1.2 Lakhs |
 | **5** | **Deen Dayal Upadhyaya College (DDUC)** | CUET | ₹25,000 |
 | **6** | **Keshav Mahavidyalaya** | CUET | ₹20,000 |
 | **7** | **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi)** | IPU CET | ₹1.1 Lakhs |
-| **8** | **[Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS Rohini)** | IPU CET | ₹1.2 Lakhs |
+| **8** | **[Jagan Institute of Management Studies](/colleges/jims-rohini) (JIMS Rohini)** | IPU CET | ₹1.2 Lakhs |
 | **9** | **Gargi College** | CUET | ₹15,000 |
 | **10** | **Sri Guru Gobind Singh College of Commerce** | CUET | ₹30,000 |
 

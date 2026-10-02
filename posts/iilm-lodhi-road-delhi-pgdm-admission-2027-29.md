@@ -85,7 +85,7 @@ state: Delhi NCR
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.60 LPA** (Top 25% at **₹12.00 LPA**) with a highest package of **₹20.00 LPA**. 24% of students secure PPOs during summer placements with top management consulting and retail brands.
 
-**[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education) (IILM Lodhi Road)**, located in **Lodhi Road, Central Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
+**[IILM Institute for Higher Education](/colleges/iilm-delhi) (IILM Lodhi Road)**, located in **Lodhi Road, Central Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 
 Whether you are targeting flagship PGDM programs or comparing top business schools in **New Delhi**, this detailed guide provides verified facts regarding **IILM Lodhi Road's 2027–2029 fee schedule, degree approvals, placement reports, PPO conversions, embedded certifications, faculty credentials, board of directors, and Why Join USPs**.
 
@@ -113,7 +113,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-[IILM Institute for Higher Education](/colleges/iilm-institute-for-higher-education) offers its flagship **2-Year Full-Time PGDM (Marketing & Innovation, FinTech & Analytics, HR Leadership)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[IILM Institute for Higher Education](/colleges/iilm-delhi) offers its flagship **2-Year Full-Time PGDM (Marketing & Innovation, FinTech & Analytics, HR Leadership)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.

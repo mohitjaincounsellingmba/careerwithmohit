@@ -87,7 +87,7 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
          ┌────────────────────────────┴────────────────────────────┐
          ▼                                                         ▼
 [Institutional Hub: Sector 62]                           [Expressway Hub: Sector 125/126]
-- [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)                       - Amity Business School
+- [Jaipuria Institute of Management](/colleges/jaipuria-jaipur)                       - Amity Business School
 - IMS Noida                                              - [Asian Business School (ABS)](/colleges/asian-business-school-noida)
 - [IILM Academy of Higher Learning](/colleges/iilm-academy-of-higher-learning)                        - Marwah Studios / Media B-Schools
 ```
@@ -119,7 +119,7 @@ Noida is uniquely positioned for distinct management specializations:
 
 ## Frequently Asked Questions (FAQs)
 
-### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-noida) Noida?
+### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-noida) Noida?
 For the PGDM Core and specialized programs, the CAT cutoff is typically **70 to 75 percentile**. Jaipuria also considers MAT (80+ percentile), CMAT (75+ percentile), and XAT scores.
 
 ### Is Asian Business School (ABS) Noida AICTE approved?

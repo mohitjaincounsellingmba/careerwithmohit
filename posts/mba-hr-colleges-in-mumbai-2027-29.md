@@ -48,7 +48,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 | College Name | Accepted Entrance Exams | Total Program Fees | Average Placement Package |
 | :--- | :--- | :--- | :--- |
 | **TISS Mumbai (Tata Institute of Social Sciences)** | CUET PG | ₹1.85 Lakhs (Total) | **₹27.22 LPA** |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))** | MAH CET / CAT | ₹6.0 Lakhs (Total) | **₹28.02 LPA** |
 | **[NMIMS Mumbai](/colleges/nmims-mumbai) (School of Business Management)** | NMAT | ₹24.0 Lakhs (Total) | **₹26.63 LPA** |
 | **Welingkar Mumbai (WeSchool)** | CAT / XAT / CMAT / ATMA | ₹14.0 Lakhs (Total) | **₹12.50 LPA** |
 | **SIMSREE Mumbai** | MAH CET / CAT | ₹1.36 Lakhs (Total) | **₹12.30 LPA** |
@@ -78,7 +78,7 @@ Choosing a B-school in this region offers key advantages:
 - **Average Placement Package:** **₹27.22 LPA**
 - **Key Highlight:** The absolute gold standard for HR education in India (MA HRM & LR), matching XLRI in recruiter prestige and placements.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
 - **Approximate Fees:** ₹6.0 Lakhs (Total)
 - **Accepted Entrance Exams:** MAH CET / CAT
 - **Average Placement Package:** **₹28.02 LPA**

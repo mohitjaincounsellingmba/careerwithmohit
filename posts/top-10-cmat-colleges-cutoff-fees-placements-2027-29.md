@@ -69,7 +69,7 @@ Here is the **definitive list of top 10 CMAT colleges in 2026**, their expected 
 
 ## 🏛️ Detailed College Profiles
 
-### 1. JBIMS — Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies), Mumbai
+### 1. JBIMS — Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida), Mumbai
 
 **CMAT Cutoff:** 99.99+ Percentile  
 **Total Fees:** ₹6–7 Lakhs (Government-aided)  
@@ -84,7 +84,7 @@ JBIMS is the **crown jewel of CMAT admissions**. With placements rivalling IIM-C
 
 ---
 
-### 2. SIMSREE — Sydenham [Institute of Management Studies](/colleges/institute-of-management-studies), Mumbai
+### 2. SIMSREE — Sydenham [Institute of Management Studies](/colleges/ims-noida), Mumbai
 
 **CMAT Cutoff:** 99.9+ Percentile  
 **Total Fees:** ₹70,000–₹2 Lakhs (Government)  
@@ -174,7 +174,7 @@ NIBM is a **specialized banking and finance institute** backed by the Reserve Ba
 
 ---
 
-### 8. BIMTECH — [Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology), Greater Noida
+### 8. BIMTECH — [Birla Institute of Management Technology](/colleges/bimtech-greater-noida), Greater Noida
 
 **CMAT Cutoff:** 85–90+ Percentile  
 **Total Fees:** ₹14–16 Lakhs  

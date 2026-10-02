@@ -74,7 +74,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Bangalore for 2026** to h
 - **Entrance Exam / Admission Process:** Merit
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
 
-### 7. [PES University](/colleges/pes-university)
+### 7. [PES University](/colleges/pesu-bangalore)
 - **Approximate Annual Fees:** ₹2.5 Lakhs
 - **Entrance Exam / Admission Process:** PESSAT
 - **Highlight:** Known for strong academic foundations and excellent corporate connections.
@@ -106,7 +106,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Bangalore for 2026** to h
 | **4** | **Mount Carmel College** | Merit | ₹1.5 Lakhs |
 | **5** | **St. Joseph's College of Commerce** | Merit | ₹1.2 Lakhs |
 | **6** | **Kristu Jayanti College** | Merit | ₹1.1 Lakhs |
-| **7** | **[PES University](/colleges/pes-university)** | PESSAT | ₹2.5 Lakhs |
+| **7** | **[PES University](/colleges/pesu-bangalore)** | PESSAT | ₹2.5 Lakhs |
 | **8** | **MS Ramaiah College** | Merit | ₹1.8 Lakhs |
 | **9** | **IFIM College** | Merit | ₹2.0 Lakhs |
 | **10** | **Alliance University** | AUSAT | ₹2.5 Lakhs |

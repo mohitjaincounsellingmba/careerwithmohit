@@ -41,7 +41,7 @@ faqs:
 
 ---
 
-### 📊 RL [Institute of Management Studies](/colleges/institute-of-management-studies) 2026 Snapshot
+### 📊 RL [Institute of Management Studies](/colleges/ims-noida) 2026 Snapshot
 
 | Category | Details |
 | :--- | :--- |
@@ -70,17 +70,17 @@ faqs:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Is [RL Institute of Management Studies](/colleges/rl-institute-of-management-studies) a good option for PGDM/MBA?
-Yes, RL [Institute of Management Studies](/colleges/institute-of-management-studies) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
+Yes, RL [Institute of Management Studies](/colleges/ims-noida) is a highly respected institution known for its solid academic foundation, industry-aligned curriculum, and good placement track record.
 
 ### 2. What is the average package offered at [RL Institute of Management Studies](/colleges/rl-institute-of-management-studies)?
-The average placement package at RL [Institute of Management Studies](/colleges/institute-of-management-studies) is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.1 LPA.
+The average placement package at RL [Institute of Management Studies](/colleges/ims-noida) is approximately ₹5.1 LPA, with the highest package reaching up to ₹11.1 LPA.
 
 ### 3. What entrance exams are accepted by [RL Institute of Management Studies](/colleges/rl-institute-of-management-studies)?
 The college accepts scores from national level entrance examinations including CAT, MAT, CMAT, XAT for the PGDM and MBA admissions.
 
 ---
 
-**Final Verdict**: RL [Institute of Management Studies](/colleges/institute-of-management-studies) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
+**Final Verdict**: RL [Institute of Management Studies](/colleges/ims-noida) is an excellent choice for management aspirants looking for a balanced curriculum, standard return on investment (ROI), and a robust alumni network.
 
 [👉 Apply to RL Institute of Management Studies](/inquiry) | [👉 Get Free Counselling](/inquiry)
 ---

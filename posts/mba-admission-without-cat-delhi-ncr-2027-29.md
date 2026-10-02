@@ -101,7 +101,7 @@ For students looking for merit-based direct admissions without preparing for com
 
 1. **Eligibility Criteria:** Most colleges require a minimum of **50% to 60% aggregate marks** in graduation. Working professionals with relevant industry experience are often given preference.
 2. **Process:** Direct admission involves reviewing your academic record, submitting a personal statement of purpose, and clearing a personal interview (PI) round.
-3. **Colleges Offering Direct Admissions:** [Amity University (Noida)](/colleges/amity-university-noida), [Galgotias University](/colleges/galgotias-university), [GNIOT Greater Noida](/colleges/gniot-greater-noida), and [IILM Gurgaon](/colleges/iilm-gurgaon).
+3. **Colleges Offering Direct Admissions:** [Amity University (Noida)](/colleges/amity-noida), [Galgotias University](/colleges/galgotias-university), [GNIOT Greater Noida](/colleges/gniot-greater-noida), and [IILM Gurgaon](/colleges/iilm-gurgaon).
 
 ---
 

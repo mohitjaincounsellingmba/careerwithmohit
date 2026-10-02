@@ -60,7 +60,7 @@ These colleges are globally ranked and offer the best corporate exposure in Fina
 - **Entrance Exam:** CAT, GMAT
 - **USP:** Famous for its "Non-Classroom Learning" and specialization-based admission process.
 
-### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))
+### 2. [JBIMS Mumbai](/colleges/jbims-mumbai) (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida))
 - **Status:** Known as the "CEO Factory of India."
 - **Fees:** ₹6.0 Lakhs (Approx for 2 years)
 - **Average Placement:** ₹28.0 LPA

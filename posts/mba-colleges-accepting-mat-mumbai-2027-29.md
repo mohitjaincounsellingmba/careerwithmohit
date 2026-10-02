@@ -68,7 +68,7 @@ India's first AI-focused university, offering beautiful green campus and global 
 - **Approx Tuition Fees (2 Years):** ₹11.80 Lakhs
 - **Average Placement Package:** ₹8.20 LPA
 
-### 4. N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)
+### 4. N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida)
 Highly respected for finance profiles, with state-of-the-art Bloomberg labs.
 - **MAT Cutoff Percentile:** 75+ Percentile
 - **Approx Tuition Fees (2 Years):** ₹13.20 Lakhs
@@ -89,7 +89,7 @@ Offers global standard business curriculum with strong marketing and analytics l
 | **Welingkar Institute of Management (WeSchool)** | 80+ Percentile | ₹14.0 Lakhs | **₹12.5 LPA** |
 | **ITM Business School (Navi Mumbai)** | 70+ Percentile | ₹11.95 Lakhs | **₹8.60 LPA** |
 | **Universal AI University** | 65+ Percentile | ₹11.80 Lakhs | **₹8.20 LPA** |
-| **N. L. Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
+| **N. L. Dalmia [Institute of Management Studies](/colleges/ims-noida)** | 75+ Percentile | ₹13.20 Lakhs | **₹10.2 LPA** |
 | **JAGSoM (Vijaybhoomi University Campus)** | 70+ Percentile | ₹12.00 Lakhs | **₹8.50 LPA** |
 
 ---

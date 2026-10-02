@@ -1,6 +1,6 @@
 ---
-name: Amity University
-logo: ''
+name: 'Amity University, Noida'
+logo: 'https://images.shiksha.com/mediadata/images/1545122048phpQ9n2Z0.jpeg'
 location: Delhi NCR
 category: Engineering
 type: Institute
@@ -19,7 +19,7 @@ highest_placement: ₹61.7 LPA
 exams:
   - JEE Main
   - Amity JEE
-website: ''
+website: 'https://www.amity.edu/'
 brochure_url: ''
 seo_title: 'Amity University B.Tech Fees, Cutoff & Placement 2027'
 seo_description: >-

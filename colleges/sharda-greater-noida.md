@@ -20,7 +20,7 @@ exams:
   - SUAT
   - JEE Main
   - CUET
-website: ''
+website: 'https://www.sharda.ac.in/'
 brochure_url: ''
 seo_title: 'Sharda University B.Tech Fees, Cutoff & Placement 2027'
 seo_description: >-

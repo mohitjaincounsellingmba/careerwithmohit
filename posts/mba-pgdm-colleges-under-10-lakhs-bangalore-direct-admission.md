@@ -57,14 +57,14 @@ ISBR has seen a massive surge in popularity, especially for its new-age PGDM pro
 *   **Why Choose**: Heavy corporate interface in Electronic City, strong alumni network, international exchange programs.
 *   **Admission Mode**: Institute shortlisting based on profile and their internal aptitude assessment.
 
-### **3. IBA ([Indus Business Academy](/colleges/indus-business-academy))**
+### **3. IBA ([Indus Business Academy](/colleges/iba-bangalore))**
 IBA is one of the few B-Schools in India to receive international accreditation (IACBE). They have an intense, campus-driven PGDM program.
 *   **Total Fees (Approx.)**: ₹9.50 Lakhs
 *   **Average Placement**: ₹7.5 LPA - ₹8.5 LPA
 *   **Why Choose**: 100% residential program, rigorous dual-specialization, high discipline, very high ROI.
 *   **Admission Mode**: Direct application process focusing on academic consistency and Personal Interview (PI) performance.
 
-### **4. [RV Institute of Management](/colleges/rv-institute-of-management) (RVIM)**
+### **4. [RV Institute of Management](/colleges/rvim-bangalore) (RVIM)**
 Backed by the powerful RV Educational Institutions trust, RVIM offers one of the most cost-effective and highest-ROI MBA programs in Bangalore.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs (Management Quota fees vary)
 *   **Average Placement**: ₹6.5 LPA - ₹7.5 LPA

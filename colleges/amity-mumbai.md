@@ -1,6 +1,6 @@
 ---
-name: Amity University Mumbai
-logo: ''
+name: 'Amity University, Mumbai'
+logo: 'https://images.shiksha.com/mediadata/images/1545631248phpK2vH0.jpeg'
 location: Mumbai
 category: Management
 type: Institute
@@ -18,7 +18,7 @@ exams:
   - MAT
   - CMAT
   - Amity JEE
-website: ''
+website: 'https://www.amity.edu/mumbai/'
 brochure_url: ''
 seo_title: 'Amity University Mumbai MBA Fees, Cutoff & Placement 2027'
 seo_description: >-

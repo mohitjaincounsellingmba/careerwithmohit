@@ -115,7 +115,7 @@ Here is a curated list of the **Top 10 BBA Colleges in Ghaziabad for 2026** to h
 | **2** | **ITS Ghaziabad** | Merit | ₹1.4 Lakhs |
 | **3** | **Christ University (Delhi NCR Campus)** | CUET (Christ) | ₹2.5 Lakhs |
 | **4** | **[KIET Group of Institutions](/colleges/kiet-ghaziabad)** | Merit | ₹1.2 Lakhs |
-| **5** | **[Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-jaipur)** | Merit | ₹1.5 Lakhs |
+| **5** | **[Jaipuria Institute of Management](/colleges/jaipuria-jaipur)** | Merit | ₹1.5 Lakhs |
 | **6** | **[ABES Engineering College](/colleges/abes-ghaziabad)** | Merit | ₹1.1 Lakhs |
 | **7** | **SRM University, NCR Campus** | SRMJEEE / Merit | ₹1.5 Lakhs |
 | **8** | **Mewar Institute of Management** | Merit | ₹80,000 |

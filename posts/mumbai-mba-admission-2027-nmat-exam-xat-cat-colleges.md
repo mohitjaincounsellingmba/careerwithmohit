@@ -85,7 +85,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 * Renowned for innovative specializations including PGDM Business Design, E-Business, Retail, and Healthcare.
 * Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar](/blog/all-about-welingkar).
 
-### 3. N L Dalmia [Institute of Management Studies](/colleges/institute-of-management-studies)
+### 3. N L Dalmia [Institute of Management Studies](/colleges/ims-noida)
 * Known as Mumbai's premier finance power-house, featuring a dedicated Bloomberg Finance Lab with 24 terminals.
 * Read our complete review at [All About NL Dalmia Admission](/blog/all-about-nl-dalmia-admission-2027-29).
 

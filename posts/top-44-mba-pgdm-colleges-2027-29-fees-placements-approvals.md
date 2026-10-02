@@ -122,7 +122,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 | 5 | **IILM Lodhi Road** | New Delhi | PGDM | ₹12.90 Lakhs | ₹8.60 LPA | ₹20.00 LPA | AICTE · NBA · AIU Eq. · SAQS |
 | 6 | **MERI Janakpuri** | New Delhi | MBA / PGDM | ₹5.95 Lakhs | ₹7.50 LPA | ₹20.00 LPA | AICTE · GGSIPU Affiliated · NAAC A |
 | 7 | **JIMS Kalkaji** | New Delhi | PGDM | ₹10.75 Lakhs | ₹10.50 LPA | ₹35.00 LPA | AICTE · NBA · AIU Eq. · NAAC |
-| 8 | **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | MBA | ₹8.50 Lakhs | ₹6.50 LPA | ₹17.50 LPA | UGC · AIU · ACU Member |
+| 8 | **[GD Goenka University](/colleges/gd-goenka-gurgaon)** | Gurgaon | MBA | ₹8.50 Lakhs | ₹6.50 LPA | ₹17.50 LPA | UGC · AIU · ACU Member |
 | 9 | **[Amity University](/colleges/amity-noida) Gurugram** | Gurgaon | MBA | ₹9.80 Lakhs | ₹6.80 LPA | ₹21.00 LPA | UGC · NAAC A+ · IACBE |
 | 10 | **IILM University** | Sector 53, Gurgaon | MBA | ₹11.50 Lakhs | ₹8.60 LPA | ₹26.00 LPA | UGC Approved State Private Univ. |
 | 11 | **First Bridge Business School** | Gurgaon | PGDM | ₹16.00 Lakhs | ₹8.50 LPA | ₹20.00 LPA | AICTE Approved · Applied AI Model |
@@ -164,7 +164,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 2. In-Depth Profiles: Delhi NCR Region (Delhi, Gurgaon, Greater Noida, Ghaziabad)
 
-### 1. [New Delhi Institute of Management](/colleges/new-delhi-institute-of-management) (NDIM) – New Delhi
+### 1. [New Delhi Institute of Management](/colleges/ndim-delhi) (NDIM) – New Delhi
 *   **Program**: 2-Year Full-Time PGDM (Dual Specialization in Marketing, Finance, HR, FinTech, Business Analytics, Supply Chain & Logistics).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, AIU MBA Equivalent, ASIC (UK) Premier Institution.
 *   **Fee Structure (2027–29)**: **₹14.00 Lakhs** total (₹7.00 Lakhs/year annual plan, or ₹3.50 Lakhs/semester + ₹6,000 convenience charge). ₹2.5 Crore dedicated scholarship pool.
@@ -188,7 +188,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Chaired by IIM-A alumni and senior corporate consultants with 30+ years in international business.
 *   **Why Join**: Direct IIM-A pedagogical framework, heavy case-study immersion, excellent Dwarka metro connectivity, and outstanding ROI.
 
-### 3. [Fortune Institute of International Business](/colleges/fortune-institute-of-international-business) (FIIB) – Vasant Vihar, New Delhi
+### 3. [Fortune Institute of International Business](/colleges/fiib-delhi) (FIIB) – Vasant Vihar, New Delhi
 *   **Program**: PGDM & PGDM (Financial Management).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, AIU Equivalent, Member AACSB & EFMD.
 *   **Fee Structure (2027–29)**: **₹12.85 Lakhs** total.
@@ -224,7 +224,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Senior industrialists, former ambassadors, and academic leaders from premier global business schools.
 *   **Why Join**: Unbeatable Lutyens' Delhi location, 30+ year management legacy, global study exchange partnerships, SAQS quality assurance.
 
-### 6. [Management Education & Research Institute (MERI)](/colleges/management-education-research-institute-meri) – Janakpuri, New Delhi
+### 6. [Management Education & Research Institute (MERI)](/colleges/meri-delhi) – Janakpuri, New Delhi
 *   **Program**: PGDM (AICTE) and MBA (GGSIPU Affiliated).
 *   **Approvals & Accreditations**: AICTE Approved, Affiliated to GGSIPU (for MBA), NAAC Grade A.
 *   **Fee Structure (2027–29)**: **₹5.95 Lakhs** total.
@@ -248,7 +248,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: Led by senior educationists and industry advisors from CII and FICCI panels.
 *   **Why Join**: Proven placement records, double specialization, excellent South Delhi corporate connectivity.
 
-### 8. [GD Goenka University](/colleges/gd-goenka-university) (School of Management) – Sohna Road, Gurgaon
+### 8. [GD Goenka University](/colleges/gd-goenka-gurgaon) (School of Management) – Sohna Road, Gurgaon
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: UGC Approved State Private University, AIU, Association of Commonwealth Universities.
 *   **Fee Structure (2027–29)**: **₹8.50 Lakhs** total.
@@ -608,7 +608,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 *   **Board of Directors**: RBEF trustees and international educational scholars.
 *   **Why Join**: Modern residential campus in Panvel, WES recognition for global visas, corporate placement network.
 
-### 37. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagdish-sheth-school-of-management)) – Karjat, Mumbai
+### 37. JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore)) – Karjat, Mumbai
 *   **Program**: 2-Year Full-Time MBA.
 *   **Approvals & Accreditations**: AICTE Approved, **AACSB Accredited Brand Flagship**.
 *   **Fee Structure (2027–29)**: **₹11.50 Lakhs** total.
@@ -636,7 +636,7 @@ The table below provides a side-by-side evaluation of all 44 colleges across loc
 
 ## 6. In-Depth Profiles: Bangalore Region (Silicon Valley Hub)
 
-### 39. [ISBR Business School](/colleges/isbr-business-school) – Electronic City, Bangalore
+### 39. [ISBR Business School](/colleges/isbr-bangalore) – Electronic City, Bangalore
 *   **Program**: PGDM (AICTE) & MBA (Bangalore University).
 *   **Approvals & Accreditations**: AICTE Approved, NBA Accredited, Affiliated to Bangalore University.
 *   **Fee Structure (2027–29)**: **₹11.00 Lakhs** for PGDM; **₹8.50 Lakhs** for MBA.

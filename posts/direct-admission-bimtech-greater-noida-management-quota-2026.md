@@ -48,7 +48,7 @@ category: Jobs & Careers
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
 
-[Birla Institute of Management Technology](/colleges/birla-institute-of-management-technology) (BIMTECH), Greater Noida, is a premier AACSB-accredited B-school with a rich legacy of producing industry leaders. Backed by the Birla Group, it offers excellent corporate exposure and research-led education. For the 2027–29 batch, **Direct Admission in BIMTECH Greater Noida** is available through a transparent management quota and NRI category.
+[Birla Institute of Management Technology](/colleges/bimtech-greater-noida) (BIMTECH), Greater Noida, is a premier AACSB-accredited B-school with a rich legacy of producing industry leaders. Backed by the Birla Group, it offers excellent corporate exposure and research-led education. For the 2027–29 batch, **Direct Admission in BIMTECH Greater Noida** is available through a transparent management quota and NRI category.
 
 ## Why BIMTECH is a High-Priority Choice?
 
