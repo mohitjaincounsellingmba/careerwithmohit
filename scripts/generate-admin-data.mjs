@@ -98,18 +98,306 @@ const MOCK_TESTS_CATALOG = [
   { id: "det-mock-23", exam: "Duolingo English Test (DET)", questions: 23, timeMinutes: 60, sections: ["Literacy", "Comprehension", "Conversation", "Production"], difficulty: "Adaptive" }
 ];
 
-function inferCategory(slug, title, fileCategory) {
-  if (fileCategory && typeof fileCategory === 'string') return fileCategory;
-  const text = `${slug} ${title}`.toLowerCase();
-  if (text.includes('online')) return 'Online Degrees';
-  if (text.includes('bca') || text.includes('mca')) return 'BCA & MCA';
-  if (text.includes('law') || text.includes('llb') || text.includes('clat')) return 'Law';
-  if (text.includes('mbbs') || text.includes('neet') || text.includes('medical')) return 'Medical & MBBS';
-  if (text.includes('btech') || text.includes('jee') || text.includes('engineering')) return 'B.Tech & Engineering';
-  if (text.includes('bba') || text.includes('ipmat')) return 'BBA & BMS';
-  if (text.includes('mba') || text.includes('cat') || text.includes('xat') || text.includes('pgdm') || text.includes('snap')) return 'MBA & PGDM';
-  if (text.includes('job') || text.includes('hiring') || text.includes('career')) return 'Jobs & Careers';
-  if (text.includes('review') || text.includes('college')) return 'College Reviews';
+function inferCategory(data, slug) {
+  const rawCat = (data?.category && typeof data.category === 'string') ? data.category.trim().toLowerCase() : '';
+  const title = (data?.title && typeof data.title === 'string') ? data.title.toLowerCase() : '';
+  const slugLower = (slug || '').toLowerCase();
+
+  const isMockTest = 
+    title.includes('mock test') ||
+    title.includes('mock series') ||
+    title.includes('cbt mock') ||
+    title.includes('practice paper') ||
+    title.includes('practice test') ||
+    title.includes('test series') ||
+    title.includes('score calculator') ||
+    title.includes('score vs percentile') ||
+    title.includes('marks vs percentile') ||
+    title.includes('answer key') ||
+    title.includes('response sheet') ||
+    title.includes('call predictor') ||
+    title.includes('percentile predictor') ||
+    slugLower.includes('mock-test') ||
+    slugLower.includes('cbt-practice') ||
+    slugLower.includes('score-calculator') ||
+    slugLower.includes('score-vs-percentile') ||
+    slugLower.includes('response-sheet') ||
+    slugLower.includes('answer-key') ||
+    slugLower.includes('mock-tests');
+
+  if (isMockTest) return 'Exams & Admissions';
+
+  const isOnlineDegree =
+    title.includes('online mba') ||
+    title.includes('online bba') ||
+    title.includes('online bca') ||
+    title.includes('online mca') ||
+    title.includes('online degree') ||
+    title.includes('online degrees') ||
+    title.includes('online pgdm') ||
+    title.includes('distance mba') ||
+    title.includes('distance education') ||
+    title.includes('distance learning') ||
+    title.includes('online fee structure') ||
+    title.includes('online university') ||
+    title.includes('online shiksha') ||
+    slugLower.includes('online-mba') ||
+    slugLower.includes('online-bba') ||
+    slugLower.includes('online-bca') ||
+    slugLower.includes('online-mca') ||
+    slugLower.includes('online-degree') ||
+    slugLower.includes('distance-mba') ||
+    slugLower.includes('distance-education') ||
+    slugLower.includes('amity-university-online') ||
+    slugLower.includes('chandigarh-university-online') ||
+    slugLower.includes('manipal-university-online') ||
+    slugLower.includes('dy-patil-university-online') ||
+    slugLower.includes('andhra-university-online') ||
+    slugLower.includes('chitkara-university-online') ||
+    slugLower.includes('amrita-university-online') ||
+    slugLower.includes('bimtech-online') ||
+    slugLower.includes('vmou-kota-distance-mba') ||
+    slugLower.includes('online-shiksha');
+
+  if (isOnlineDegree) return 'Online Degrees';
+
+  const isNationalExam =
+    slugLower.includes('all-about-cat-exam') ||
+    slugLower.includes('all-about-mat-exam') ||
+    slugLower.includes('all-about-xat-exam') ||
+    slugLower.includes('all-about-nmat-exam') ||
+    slugLower.includes('all-about-snap-exam') ||
+    slugLower.includes('all-about-cmat-exam') ||
+    slugLower.includes('all-about-atma-exam') ||
+    slugLower.includes('all-about-clat-exam') ||
+    slugLower.includes('all-about-gate-exam') ||
+    slugLower.includes('all-about-jee-exam') ||
+    slugLower.includes('all-about-neet-exam') ||
+    slugLower.includes('all-about-mah-mba-cet-exam') ||
+    slugLower.includes('all-about-srcc-gbo-exam') ||
+    slugLower.includes('all-about-ipmat-exam') ||
+    slugLower.includes('all-about-ipceta-exam') ||
+    slugLower.includes('all-about-sat-ielts') ||
+    slugLower.includes('all-about-omets') ||
+    slugLower.includes('all-about-ielts') ||
+    slugLower.startsWith('cat-2026-') ||
+    slugLower.startsWith('mat-2026-') ||
+    slugLower.startsWith('xat-2026-') ||
+    slugLower.startsWith('xat-2027-') ||
+    slugLower.startsWith('cuet-ug-2026-') ||
+    slugLower.startsWith('cuet-pg-2026-') ||
+    slugLower.startsWith('clat-2026-') ||
+    slugLower.startsWith('clat-2027-') ||
+    slugLower.includes('-result-2026') ||
+    slugLower.includes('-result-declared') ||
+    slugLower.includes('result-expected-date') ||
+    slugLower.includes('december-mat-exam') ||
+    slugLower.includes('september-mat-exam') ||
+    slugLower.includes('check-may-mat-') ||
+    slugLower.includes('profile-evaluation-for-iim-calls') ||
+    slugLower.includes('top-mba-entrance-exams') ||
+    slugLower.includes('omets-mba-entrance-exams') ||
+    slugLower.includes('mba-entrance-exam') ||
+    slugLower.includes('mba-entrance-exams') ||
+    slugLower.includes('cat-dilr-important-questions') ||
+    slugLower.includes('cat-quant-important-questions') ||
+    slugLower.includes('cat-varc-important-questions') ||
+    slugLower.includes('cat-exam-2026') ||
+    slugLower.includes('10-tips-to-crack-cat-exam') ||
+    slugLower.includes('how-to-crack-cat-exam') ||
+    slugLower.includes('download-cat-jee-neet-previous-year-papers') ||
+    slugLower.includes('atma-july-2026-exam') ||
+    slugLower.includes('ipu-cet-2026-ug-exam') ||
+    slugLower.includes('mah-mca-cet-2026') ||
+    slugLower.includes('neet-2026-exam') ||
+    slugLower.includes('neet-ug-2026-exam') ||
+    slugLower.includes('nimcet-2026-exam') ||
+    slugLower.includes('snap-exam-updated-syllabus') ||
+    slugLower.includes('snap-vs-nmat') ||
+    slugLower.includes('upcoming-mba-entrance-exams') ||
+    slugLower.includes('how-many-students-take-mba-entrance-exams') ||
+    slugLower.includes('engineering-cutoffs-2026') ||
+    title.includes('mat exam') ||
+    title.includes('december mat') ||
+    title.includes('september mat') ||
+    title.includes('may mat') ||
+    title.includes('cat exam') ||
+    title.includes('cat 2026') ||
+    title.includes('xat exam') ||
+    title.includes('xat 202') ||
+    title.includes('nmat exam') ||
+    title.includes('nmat 202') ||
+    title.includes('snap exam') ||
+    title.includes('snap 202') ||
+    title.includes('cmat exam') ||
+    title.includes('cmat 202') ||
+    title.includes('atma exam') ||
+    title.includes('atma 202') ||
+    title.includes('cuet exam') ||
+    title.includes('cuet ug') ||
+    title.includes('cuet pg') ||
+    title.includes('jee exam') ||
+    title.includes('jee main') ||
+    title.includes('neet exam') ||
+    title.includes('neet ug') ||
+    title.includes('gate exam') ||
+    title.includes('clat exam') ||
+    title.includes('ailet exam') ||
+    title.includes('mah mba cet') ||
+    title.includes('mah cet') ||
+    title.includes('mhcet') ||
+    title.includes('mah mca cet') ||
+    title.includes('nimcet') ||
+    title.includes('omets') ||
+    title.includes('ielts exam') ||
+    title.includes('admit card') ||
+    title.includes('application form live') ||
+    title.includes('registration schedule') ||
+    title.includes('registration date') ||
+    title.includes('registration open') ||
+    title.includes('registration process') ||
+    title.includes('correction window') ||
+    title.includes('syllabus pdf') ||
+    title.includes('how to crack') ||
+    title.includes('tips to crack') ||
+    title.includes('result declared') ||
+    title.includes('results declared') ||
+    title.includes('scorecard download') ||
+    title.includes('board result') ||
+    title.includes('entrance exam') ||
+    title.includes('entrance exams') ||
+    title.includes('entrance test') ||
+    title.includes('top mba entrance') ||
+    title.includes('mba entrance exam') ||
+    title.includes('engineering entrance exam') ||
+    title.includes('re-exam date') ||
+    title.includes('re-test') ||
+    ((rawCat === 'exams' || rawCat === 'exam' || rawCat === 'exams & admissions') && (title.includes('exam') || title.includes('cut off') || title.includes('cutoff') || title.includes('test')));
+
+  if (isNationalExam) return 'Exams & Admissions';
+
+  if (
+    slugLower.includes('mbbs') ||
+    slugLower.includes('medical-college') ||
+    title.includes('mbbs') ||
+    title.includes('medical college') ||
+    title.includes('neet counselling') ||
+    title.includes('bds') ||
+    title.includes('aiims')
+  ) return 'Medical & MBBS';
+
+  if (
+    slugLower.includes('llb') ||
+    slugLower.includes('llm') ||
+    slugLower.includes('law-school') ||
+    slugLower.includes('corporate-law') ||
+    title.includes('llb') ||
+    title.includes('llm') ||
+    title.includes('law school') ||
+    title.includes('law college') ||
+    title.includes('legal career') ||
+    title.includes('law without maths')
+  ) return 'Law';
+
+  if (
+    slugLower.includes('bca') ||
+    slugLower.includes('mca') ||
+    slugLower.includes('nimcet') ||
+    title.includes('bca') ||
+    title.includes('mca')
+  ) return 'BCA & MCA';
+
+  if (
+    slugLower.includes('btech') ||
+    slugLower.includes('b-tech') ||
+    slugLower.includes('mtech') ||
+    slugLower.includes('m-tech') ||
+    slugLower.includes('engineering') ||
+    title.includes('btech') ||
+    title.includes('b.tech') ||
+    title.includes('m.tech') ||
+    title.includes('mtech') ||
+    title.includes('engineering')
+  ) return 'B.Tech & Engineering';
+
+  if (
+    slugLower.includes('bba') ||
+    slugLower.includes('bms') ||
+    slugLower.includes('ipm') ||
+    title.includes('bba') ||
+    title.includes('bms') ||
+    title.includes('ipm')
+  ) return 'BBA & BMS';
+
+  if (
+    slugLower.includes('tax') ||
+    slugLower.includes('crypto') ||
+    slugLower.includes('fintech') ||
+    slugLower.includes('cfa') ||
+    slugLower.includes('acca') ||
+    slugLower.includes('saas') ||
+    title.includes('fintech') ||
+    title.includes('taxation') ||
+    title.includes('crypto') ||
+    title.includes('cfa') ||
+    title.includes('acca') ||
+    title.includes('investment banking') ||
+    title.includes('corporate finance')
+  ) return 'Business & Finance';
+
+  if (
+    slugLower.includes('hiring') ||
+    slugLower.includes('recruitment') ||
+    slugLower.includes('fresher-') ||
+    slugLower.includes('career-options') ||
+    slugLower.includes('career-roadmaps') ||
+    title.includes('hiring') ||
+    title.includes('recruitment') ||
+    title.includes('fresher') ||
+    title.includes('internship') ||
+    title.includes('career options after 12th') ||
+    title.includes('career roadmaps') ||
+    title.includes('salary negotiation') ||
+    title.includes('freelancing websites')
+  ) return 'Jobs & Careers';
+
+  const isCollegeReview =
+    rawCat === 'college reviews' ||
+    slugLower.includes('-vs-') ||
+    slugLower.includes('-review') ||
+    slugLower.includes('placement-review') ||
+    slugLower.includes('honest-review') ||
+    title.includes('review (202') ||
+    title.includes('review 202') ||
+    title.includes('honest review') ||
+    title.includes('vs ') ||
+    title.includes('campus life') ||
+    title.includes('placements & infrastructure') ||
+    title.includes('fake university list') ||
+    (slugLower.startsWith('all-about-') && !slugLower.includes('exam') && !slugLower.includes('test') && !slugLower.includes('ielts'));
+
+  if (isCollegeReview) return 'College Reviews';
+
+  if (
+    rawCat.includes('mba') ||
+    rawCat.includes('pgdm') ||
+    slugLower.includes('mba') ||
+    slugLower.includes('pgdm') ||
+    slugLower.includes('iim') ||
+    slugLower.includes('b-school') ||
+    slugLower.includes('executive-mba') ||
+    slugLower.includes('bschool') ||
+    title.includes('mba') ||
+    title.includes('pgdm') ||
+    title.includes('iim') ||
+    title.includes('b-school') ||
+    title.includes('business school') ||
+    title.includes('executive mba') ||
+    title.includes('pgp') ||
+    title.includes('epgdm') ||
+    title.includes('management institute')
+  ) return 'MBA & PGDM';
+
   return 'General & Career Guide';
 }
 
@@ -168,7 +456,7 @@ function buildAdminDataset() {
     const title = String(matterResult.data.title || slug.replace(/-/g, ' '));
     const description = String(matterResult.data.description || matterResult.data.meta_description || "");
     const date = matterResult.data.date ? String(matterResult.data.date) : '2026-01-01';
-    const category = inferCategory(slug, title, matterResult.data.category);
+    const category = inferCategory(matterResult.data, slug);
     
     // Genuine view count from data/views.json
     let totalViews = viewsData[slug];
