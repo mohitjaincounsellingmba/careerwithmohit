@@ -47,8 +47,8 @@ state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹2.00 Lakhs | Audited placement: average package of ₹34 Lakhs.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹2.00 Lakhs | Audited placement: average package of ₹34 Lakhs.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 The Faculty of Management Studies (FMS), affiliated with the prestigious University of Delhi, needs no introduction. Widely known as the "Red Building of Dreams," FMS offers arguably the highest Return on Investment (ROI) of any business school on the planet.

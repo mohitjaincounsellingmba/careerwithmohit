@@ -261,3 +261,11 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 * [All About NIBM Pune: Cutoffs, Fees & BFSI Placements](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 * [All About [PUMBA Pune](/colleges/pumba-pune/): Fees, Cutoffs & High ROI Guide](/blog/all-about-pumba-pune)
 * [All About [PIBM Pune](/colleges/pibm-pune/): Review, Fees & Industry Placements](/blog/all-about-pibm-pune)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

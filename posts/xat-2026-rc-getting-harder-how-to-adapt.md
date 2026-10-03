@@ -33,7 +33,7 @@ state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
 > - **Fee & Placement ROI**: Evaluated against median domestic CTC benchmarks and industry recruitment trends.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 

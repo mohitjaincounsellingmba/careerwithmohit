@@ -42,8 +42,8 @@ state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹16.5 LPA.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹16.5 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 The term **"Baby IIMs"** has become one of the most searched and most debated topics in the MBA world. These are the newest generation of Indian Institutes of Management — established primarily between 2015 and 2016 — and they come with both the prestigious IIM tag and some very real limitations that aspirants must understand before making a life-changing decision.

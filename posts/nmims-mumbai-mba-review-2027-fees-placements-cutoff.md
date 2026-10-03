@@ -208,3 +208,11 @@ Yes, **NMIMS School of Business Management (SBM Mumbai)** offers merit scholarsh
 *   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
 *   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
 *   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -39,8 +39,8 @@ state: Maharashtra
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹9.50 LPA.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹9.50 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 The Symbiosis National Aptitude Test (SNAP) is a highly specialized management entrance exam conducted exclusively for admission into the 16 MBA institutes operating under the Symbiosis International (Deemed) University (SIU). 

@@ -44,8 +44,8 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹10 Lakhs.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹10 Lakhs.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 Choosing the right B-School in Delhi NCR can be overwhelming given the number of options. For students looking at institutes with fees under ₹10 Lakhs, **[Jagan Institute of Management Studies](/colleges/jims-rohini/) (JIMS) Rohini** and **[Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB) Delhi** are two of the most popular choices. 

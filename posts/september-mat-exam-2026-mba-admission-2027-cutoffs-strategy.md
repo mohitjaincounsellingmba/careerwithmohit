@@ -109,3 +109,11 @@ Yes, you can take a 100% free full-length 150-question CBT mock test on CareerWi
 - **[MAT Score to Percentile & Composite Score Calculator](/tools/mat-score-calculator/)**
 - **[MBA Application Form Discounts (Save up to ₹5,000)](/mba-application-form-discount/)**
 - **[MBA & PGDM Admissions 2027 Hub](/mba-pgdm-admission-2027/)**
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

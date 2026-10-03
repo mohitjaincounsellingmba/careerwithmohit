@@ -148,3 +148,11 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 ---
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

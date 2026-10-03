@@ -39,7 +39,7 @@ state: Delhi NCR
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-In the fast-paced corporate world of 2026, an MBA is no longer just a degree—it's a career catalyst. Among the plethora of options, the **NMIMS Online MBA (offered by NMIMS Global)** consistently ranks as a top choice for working professionals. 
+In the fast-paced corporate world of 2026, an MBA is no longer just a degree—it's a career catalyst. Among the wide range of options, the **NMIMS Online MBA (offered by NMIMS Global)** consistently ranks as a top choice for working professionals. 
 
 But does the brand name translate to real-world value? In this honest and data-driven review by **CareerWithMohit**, we break down everything you need to know before clicking that 'Enroll' button.
 

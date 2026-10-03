@@ -35,8 +35,8 @@ state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹10 LPA.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹10 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 Xavier Institute of Management and Entrepreneurship (XIME) is a well-known brand in management education. However, its Kochi campus often gets grouped into the halo effect created by the older, more established Bangalore campus. Before paying the hefty fee for the PGDM program based on flashy brochures, it's critical to look at the ground reality.

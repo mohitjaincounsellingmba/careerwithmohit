@@ -85,7 +85,7 @@ LPU's online programs are designed to meet the needs of the 2026 job market:
 
 ## Why Choose LPU Online?
 
-- **Highest NAAC Ranking:** The A++ grade is a testament to LPU's academic excellence and infrastructure, often placing it above state and central universities.
+- **Highest NAAC Ranking:** The A++ grade is a clear reflection of LPU's academic excellence and infrastructure, often placing it above state and central universities.
 - **Massive Alumni Base:** Join a network of over 2 Lakh+ alumni working in the world’s top Fortune 500 companies.
 - **LPU eConnect:** Their bespoke learning management system is one of the best in India, providing live classes along with 24/7 access to study materials.
 - **Affordability:** Despite the high brand value, LPU's online fees are among the most balanced in the mid-high range.

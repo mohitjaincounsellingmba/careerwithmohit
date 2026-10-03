@@ -160,3 +160,11 @@ Ready to benchmark your current score against 2.5 lakh+ national aspirants?
 - [👉 **Take the Free CAT 2026 CBT Mock Test (68 Questions)**](https://careerwithmohit.online/tools/cat-mock-test)
 - [👉 **Explore All 50+ Free MBA Entrance Mock Tests**](/mock-tests/)
 - [👉 **Get 1-on-1 IIM Profile Evaluation from Mohit Jain on WhatsApp**](https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20am%20preparing%20for%20CAT%202026%20and%20need%201-on-1%20IIM%20profile%20evaluation.)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

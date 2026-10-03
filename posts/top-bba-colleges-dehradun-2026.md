@@ -32,7 +32,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: BBA
 ---
-Dehradun has long been known as the school capital of India, but it is now equally famous for its higher education institutes. Nestled in the foothills of the Himalayas, it offers a peaceful yet competitive environment for BBA students.
+Dehradun has long been known as the school capital of India, but it is now equally famous for its higher education institutes. located in the foothills of the Himalayas, it offers a peaceful yet competitive environment for BBA students.
 
 Here are the **Top BBA Colleges in Dehradun for 2026**.
 

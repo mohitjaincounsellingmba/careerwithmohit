@@ -144,3 +144,11 @@ Top institutes include PUMBA Pune, Welingkar Mumbai, BIMTECH Greater Noida, XIME
 - **[Calculate Your Scaled Composite Score & Percentile](/tools/mat-score-calculator/)**
 - **[Save up to ₹5,000 on MBA/PGDM Application Forms](/mba-application-form-discount/)**
 - **[Explore 50+ Free National MBA Mock Tests](/mock-tests/)**
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

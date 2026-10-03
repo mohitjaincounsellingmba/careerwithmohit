@@ -62,7 +62,7 @@ For students planning their admissions for the 2027–2029 intake, this guide hi
 
 ## 🚀 Why Choose Dehradun for an MBA in Finance?
 
-Nestled in the foothills of the Himalayas, Dehradun has developed into a major education hub. For MBA aspirants focusing on corporate finance, portfolio valuation, and the growing field of energy fintech, Dehradun provides a peaceful study environment paired with modern corporate placement pipelines.
+located in the foothills of the Himalayas, Dehradun has developed into a major education hub. For MBA aspirants focusing on corporate finance, portfolio valuation, and the growing field of energy fintech, Dehradun provides a peaceful study environment paired with modern corporate placement pipelines.
 
 Choosing a B-school in this region offers key advantages:
 - **Corporate Hub Proximity:** Direct access to internship programs, corporate site visits, and industry guest lectures.

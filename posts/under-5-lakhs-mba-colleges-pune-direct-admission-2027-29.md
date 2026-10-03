@@ -34,8 +34,8 @@ state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹5 Lakhs.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹5 Lakhs.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 Pune remains the undisputed "Oxford of the East," and every year, thousands of students flock here seeking quality management education without breaking the bank. If you've been following the latest trends—many of which go **viral in pune location** among student communities—you'll know that an MBA doesn't have to cost 15 or 20 Lakhs. 

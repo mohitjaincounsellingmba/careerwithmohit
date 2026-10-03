@@ -50,7 +50,7 @@ state: Delhi NCR
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
 
-Dehradun — Uttarakhand's capital, nestled in the foothills of the Himalayas — has emerged as a significant education hub with over 100 colleges, including several respected engineering institutions. The city's clean environment, lower cost of living, and proximity to Delhi (5–6 hours) make it an attractive option for engineering aspirants who want quality education outside expensive metro cities.
+Dehradun — Uttarakhand's capital, located in the foothills of the Himalayas — has emerged as a significant education hub with over 100 colleges, including several respected engineering institutions. The city's clean environment, lower cost of living, and proximity to Delhi (5–6 hours) make it an attractive option for engineering aspirants who want quality education outside expensive metro cities.
 
 This guide covers the **top B.Tech colleges in Dehradun and Uttarakhand for 2026** with fees, JEE/UASET/board cutoffs, placement data, and direct admission options.
 

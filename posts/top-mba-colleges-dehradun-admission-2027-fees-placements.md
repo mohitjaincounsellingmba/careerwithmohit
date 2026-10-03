@@ -43,7 +43,7 @@ category: Exams
 > - **Specialized Programs:** Energy Management, Oil & Gas, Aviation Management, Digital Business, and Agri-Business.
 > - **Exam Acceptance:** CAT 2026, XAT exam, MAT, CMAT, and Direct GD-PI merit evaluations.
 
-Nestled in the foothills of the Himalayas, **Dehradun** has emerged as one of North India’s premier residential educational capitals. Known for state-of-the-art campus facilities, high quality of life, and growing placement partnerships with corporate firms in Gurgaon and Noida, Dehradun attracts students from across India for **MBA admission 2027** and **PGDM admission 2027**.
+located in the foothills of the Himalayas, **Dehradun** has emerged as one of North India’s premier residential educational capitals. Known for state-of-the-art campus facilities, high quality of life, and growing placement partnerships with corporate firms in Gurgaon and Noida, Dehradun attracts students from across India for **MBA admission 2027** and **PGDM admission 2027**.
 
 ---
 

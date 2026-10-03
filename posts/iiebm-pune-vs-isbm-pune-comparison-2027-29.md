@@ -38,8 +38,8 @@ location: Pune
 state: Maharashtra
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **2027 Admission & Program Focus**: Comprehensive review covering curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement Benchmarks**: Estimated fee: ₹8.0 LPA.
+> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
+> - **Fee vs Verified Domestic ROI**: Total estimated fee of ₹8.0 LPA.
 > - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
 
 When choosing a PGDM college in Pune, two names often spark a debate: **[IIEBM (Indus Business School)](/colleges/iiebm-pune/)** and **ISB&M ([International School of Business & Media](/colleges/international-school-of-business-media/))**. While both institutions have carved a niche in the Pune education hub, your choice depends heavily on your career goal.
