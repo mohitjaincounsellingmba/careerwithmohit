@@ -164,60 +164,71 @@ export default function Home() {
       {/* Top Multi-Color Gradient Scroll Progress & Back to Top */}
       <College4SureScrollProgress />
 
-      {/* 1. Live Marquee Ticker Bar with Live Dot */}
-      <College4SureTicker />
-
-      {/* 2. Hero Section with Highlighter Angle Marker, Search & Signature Live Compare Widget */}
+      {/* 1. Hero Section with Search & Live Compare HUD */}
       <College4SureHero />
 
-      {/* 3. Browse by Field & Stream ("Where to start") */}
+      {/* 2. Browse by Field & Stream ("Where to start") */}
       <College4SureStreamGrid />
 
-      {/* 4. Application Fee Discounts & Combo Offers Band */}
-      <College4SureOffersBand />
+      {/* 3. Application Fee Discounts & Combo Offers Band */}
+      <div className="section-deferred">
+        <College4SureOffersBand />
+      </div>
 
-      {/* 5. Top Ranked Colleges Grid ("Compare before you apply") */}
-      <College4SureCollegeGrid />
+      {/* 4. Top Ranked Colleges Grid ("Compare before you apply") */}
+      <div className="section-deferred">
+        <College4SureCollegeGrid />
+      </div>
 
-      {/* 6. Unified Pan-India Colleges & B-Schools Discovery Hub */}
-      <div className="bg-white py-12 border-b border-[#061124]/10">
+      {/* 5. Unified Pan-India Colleges & B-Schools Discovery Hub */}
+      <div className="bg-white py-12 border-b border-[#061124]/10 section-deferred">
         <HomeCollegeExplorer />
       </div>
 
-      {/* 7. Why Students Talk to Mohit Jain First ("Before you apply") */}
-      <College4SureWhyGrid />
+      {/* 6. Why Students Talk to Mohit Jain First ("Before you apply") */}
+      <div className="section-deferred">
+        <College4SureWhyGrid />
+      </div>
 
-      {/* 8. Live Interactive MBA ROI & Financial Payback Calculator */}
+      {/* 7. Live Interactive MBA ROI & Financial Payback Calculator */}
       <div className="section-deferred bg-[#061124] text-white py-16 border-b border-white/10">
         <InteractiveRoiCalculator />
       </div>
 
-      {/* 9. Free Full-Length CBT Mock Tests Radar */}
+      {/* 8. Free Full-Length CBT Mock Tests Radar */}
       <div className="section-deferred bg-white py-14 border-b border-[#061124]/10">
         <HomeMockTestSlider />
       </div>
 
-      {/* 10. National Entrance Exam Radar & Deadline Tracker */}
+      {/* 9. National Entrance Exam Radar & Deadline Tracker */}
       <div className="section-deferred bg-[#F1F5F9]/80 py-14 border-b border-[#061124]/10">
         <ExamTrackerSection />
       </div>
 
-      {/* 11. Video Mentorship & Strategy Masterclasses ("In their words") */}
-      <College4SureVideoShowcase />
+      {/* 10. Video Mentorship & Strategy Masterclasses ("In their words") */}
+      <div className="section-deferred">
+        <College4SureVideoShowcase />
+      </div>
 
-      {/* 12. Verified Student Reviews Marquee / Wall of Admits ("After the call") */}
-      <College4SureReviewsMarquee />
+      {/* 11. Verified Student Reviews Marquee / Wall of Admits ("After the call") */}
+      <div className="section-deferred">
+        <College4SureReviewsMarquee />
+      </div>
 
-      {/* 13. Dedicated Student Inquiry & Profile Assessment Form */}
+      {/* 12. Dedicated Student Inquiry & Profile Assessment Form */}
       <div id="inquiry-section" className="section-deferred bg-white py-16 border-b border-[#061124]/10">
         <HomeInquirySection />
       </div>
 
-      {/* 14. Final Cosmic Call-To-Action Banner */}
-      <College4SureCtaBanner />
+      {/* 13. Final Cosmic Call-To-Action Banner */}
+      <div className="section-deferred">
+        <College4SureCtaBanner />
+      </div>
 
-      {/* 15. SEO City Hubs & Tools Footer Ribbon */}
-      <College4SureSeoLinks />
+      {/* 14. SEO City Hubs & Tools Footer Ribbon */}
+      <div className="section-deferred">
+        <College4SureSeoLinks />
+      </div>
     </div>
   );
 }

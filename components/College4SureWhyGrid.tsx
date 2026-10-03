@@ -56,7 +56,7 @@ export function College4SureWhyGrid() {
             <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#061124] tracking-tight">
               Why students talk to us first
             </h2>
-            <p className="mt-2 text-sm sm:text-base text-[#475569] max-w-2xl">
+            <p className="mt-2 text-sm sm:text-base text-slate-700 max-w-2xl">
               Every college application costs non-refundable money and a crucial admissions window you cannot recover.
             </p>
           </div>
@@ -96,7 +96,7 @@ export function College4SureWhyGrid() {
                     {item.title}
                   </h3>
 
-                  <p className="mt-3 text-sm text-[#475569] leading-relaxed">
+                  <p className="mt-3 text-sm text-slate-700 leading-relaxed">
                     {item.desc}
                   </p>
                 </div>

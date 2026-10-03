@@ -52,7 +52,7 @@ export function College4SureVideoShowcase() {
             <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#061124] tracking-tight">
               Strategy, cut-offs &amp; mentorship
             </h2>
-            <p className="mt-2 text-sm sm:text-base text-[#475569] max-w-2xl">
+            <p className="mt-2 text-sm sm:text-base text-slate-700 max-w-2xl">
               Short strategy sessions and masterclasses from Mohit Jain and senior admissions mentors.
             </p>
           </div>
@@ -91,8 +91,11 @@ export function College4SureVideoShowcase() {
                 >
                   <img
                     src={vid.thumbnail}
-                    alt={vid.title}
+                    alt={`${vid.title} video thumbnail`}
+                    width={800}
+                    height={450}
                     loading="lazy"
+                    decoding="async"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-108"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/85 via-transparent to-transparent" />

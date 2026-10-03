@@ -28,12 +28,13 @@ export function College4SureHero() {
 
   useEffect(() => {
     const interval = setInterval(() => {
+      if (document.hidden) return;
       setFadeState("out");
       setTimeout(() => {
         setCityIndex((prev) => (prev + 1) % CITIES.length);
         setFadeState("in");
       }, 240);
-    }, 2600);
+    }, 3200);
 
     return () => clearInterval(interval);
   }, []);
@@ -99,27 +100,36 @@ export function College4SureHero() {
             </h1>
 
             {/* Lede paragraph */}
-            <p className="mt-5 text-base sm:text-lg text-slate-300 max-w-xl leading-relaxed font-normal">
+            <p className="mt-5 text-base sm:text-lg text-slate-200 max-w-xl leading-relaxed font-normal">
               Compare verified placement averages, 2-year course fees, entrance cut-offs, and ROI break-even analysis with 1-on-1 mentorship by Mohit Jain.
             </p>
 
             {/* Gen Z Cyber Glass Search Bar */}
             <form
+              role="search"
+              aria-label="Find top MBA colleges and entrance cutoffs"
               onSubmit={handleSearchSubmit}
               className="mt-7 flex items-center gap-2 bg-white/[0.08] backdrop-blur-2xl p-2 rounded-full border border-white/20 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.5)] max-w-xl transition-all focus-within:border-[#00F0FF] focus-within:shadow-[0_0_30px_rgba(0,240,255,0.4)]"
             >
               <div className="pl-3.5 text-cyan-400">
                 <Search className="w-5 h-5" />
               </div>
+              <label htmlFor="hero-college-search" className="sr-only">
+                Search colleges in India, fees, and CAT cutoffs
+              </label>
               <input
+                id="hero-college-search"
                 type="search"
+                aria-label={`Search colleges in ${currentCity.name}, fees, and CAT cutoffs`}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder={`Search colleges in ${currentCity.name} (${currentCity.landmark}), fees, CAT cutoffs…`}
                 className="w-full bg-transparent px-3 py-2.5 outline-none font-body text-sm sm:text-base text-white placeholder-slate-400 min-w-0 font-medium"
               />
               <button
+                id="hero-search-submit"
                 type="submit"
+                aria-label="Submit college search"
                 className="px-6 py-3 rounded-full bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white font-display font-black text-sm transition-all shrink-0 cursor-pointer shadow-lg shadow-cyan-500/25 hover:scale-105 active:scale-95 hover:opacity-95"
               >
                 Search
@@ -161,7 +171,7 @@ export function College4SureHero() {
                 <b className="block font-display font-black text-2xl sm:text-3xl text-[#00F0FF] leading-none group-hover:drop-shadow-[0_0_10px_rgba(0,240,255,0.8)]">
                   770+
                 </b>
-                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-300 mt-1.5">
+                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-200 mt-1.5">
                   Colleges
                 </span>
               </div>
@@ -170,7 +180,7 @@ export function College4SureHero() {
                 <b className="block font-display font-black text-2xl sm:text-3xl text-[#FF007A] leading-none group-hover:drop-shadow-[0_0_10px_rgba(255,0,122,0.8)]">
                   26+
                 </b>
-                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-300 mt-1.5">
+                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-200 mt-1.5">
                   Exams
                 </span>
               </div>
@@ -179,7 +189,7 @@ export function College4SureHero() {
                 <b className="block font-display font-black text-2xl sm:text-3xl text-[#00FF88] leading-none group-hover:drop-shadow-[0_0_10px_rgba(0,255,136,0.8)]">
                   50+
                 </b>
-                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-300 mt-1.5">
+                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-200 mt-1.5">
                   Mock Tests
                 </span>
               </div>
@@ -188,7 +198,7 @@ export function College4SureHero() {
                 <b className="block font-display font-black text-2xl sm:text-3xl text-[#FFD600] leading-none group-hover:drop-shadow-[0_0_10px_rgba(255,214,0,0.8)]">
                   5,000+
                 </b>
-                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-300 mt-1.5">
+                <span className="block font-mono text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-slate-200 mt-1.5">
                   Mentored
                 </span>
               </div>

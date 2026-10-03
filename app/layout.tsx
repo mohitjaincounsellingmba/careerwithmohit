@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import { Outfit, Bricolage_Grotesque, DM_Sans, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -7,38 +6,6 @@ import { JsonLd } from "@/components/JsonLd";
 import { ClientWidgets } from "@/components/ClientWidgets";
 import { DeferredAnalytics } from "@/components/DeferredAnalytics";
 import { AnalyticsTracker } from "@/components/AnalyticsTracker";
-
-const outfit = Outfit({
-  variable: "--font-outfit",
-  subsets: ["latin"],
-  display: "swap",
-  preload: true,
-  fallback: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "sans-serif"],
-  adjustFontFallback: true,
-});
-
-const bricolage = Bricolage_Grotesque({
-  variable: "--font-bricolage",
-  subsets: ["latin"],
-  display: "swap",
-  preload: true,
-  fallback: ["system-ui", "sans-serif"],
-});
-
-const dmSans = DM_Sans({
-  variable: "--font-dm-sans",
-  subsets: ["latin"],
-  display: "swap",
-  preload: true,
-  fallback: ["system-ui", "sans-serif"],
-});
-
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
-  subsets: ["latin"],
-  display: "swap",
-  fallback: ["monospace"],
-});
 
 export const viewport: Viewport = {
   themeColor: "#0f172a",
@@ -390,6 +357,12 @@ export default function RootLayout({
   return (
     <html lang="en-IN">
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=DM+Sans:ital,opsz,wght@0,9..40,400..800&family=JetBrains+Mono:wght@400..700&display=swap"
+        />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
@@ -403,7 +376,7 @@ export default function RootLayout({
         <JsonLd data={speakableData} />
       </head>
       <body
-        className={`${outfit.variable} ${bricolage.variable} ${dmSans.variable} ${jetbrainsMono.variable} font-body antialiased min-h-screen flex flex-col bg-background text-foreground`}
+        className="font-body antialiased min-h-screen flex flex-col bg-background text-foreground"
       >
         <AnalyticsTracker />
         <DeferredAnalytics />

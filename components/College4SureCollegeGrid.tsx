@@ -105,7 +105,7 @@ export function College4SureCollegeGrid() {
             <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#061124] tracking-tight">
               Compare before you apply
             </h2>
-            <p className="mt-2 text-sm sm:text-base text-[#475569] max-w-2xl">
+            <p className="mt-2 text-sm sm:text-base text-slate-700 max-w-2xl">
               Verified fee structures, highest/average placement packages, and accepted entrance exam cutoffs side by side.
             </p>
           </div>
@@ -130,8 +130,11 @@ export function College4SureCollegeGrid() {
                 <div className="relative aspect-[16/9] overflow-hidden bg-gradient-to-br from-[#2563EB] to-[#0EA5E9]">
                   <img
                     src={college.image}
-                    alt={college.name}
+                    alt={`${college.name} campus building and admission review`}
+                    width={800}
+                    height={450}
                     loading="lazy"
+                    decoding="async"
                     className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-108"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/85 via-[#061124]/20 to-transparent" />
@@ -154,7 +157,7 @@ export function College4SureCollegeGrid() {
                     {college.name}
                   </h3>
 
-                  <div className="font-mono text-[11px] text-[#475569] uppercase tracking-wider mt-1.5 font-medium">
+                  <div className="font-mono text-[11px] text-slate-600 uppercase tracking-wider mt-1.5 font-medium">
                     {college.meta}
                   </div>
 
@@ -164,7 +167,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#10B981] leading-none">
                         {college.placedRate}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-[#475569] mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
                         Placed
                       </span>
                     </div>
@@ -173,7 +176,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#2563EB] leading-none truncate">
                         {college.highestPackage}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-[#475569] mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
                         Highest
                       </span>
                     </div>
@@ -182,7 +185,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#EA580C] leading-none truncate">
                         {college.avgPackage}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-[#475569] mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
                         Average
                       </span>
                     </div>
@@ -193,7 +196,7 @@ export function College4SureCollegeGrid() {
               {/* Card Footer: Fee & View Button */}
               <div className="px-5 pb-5 sm:px-6 sm:pb-6 flex items-center justify-between gap-3 pt-1">
                 <div>
-                  <span className="block font-mono text-[10px] text-[#475569] uppercase tracking-wider font-semibold">
+                  <span className="block font-mono text-[10px] text-slate-600 uppercase tracking-wider font-semibold">
                     Total fees
                   </span>
                   <span className="font-mono font-bold text-xs sm:text-sm text-[#061124]">
@@ -203,6 +206,7 @@ export function College4SureCollegeGrid() {
 
                 <Link
                   href={college.slug}
+                  aria-label={`View details and placement reports for ${college.name}`}
                   className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border-[1.5px] border-[#061124]/15 group-hover:border-[#2563EB] group-hover:bg-[#2563EB] group-hover:text-white text-[#061124] font-bold text-xs transition-all"
                 >
                   <span>View</span>

@@ -73,13 +73,14 @@ export function College4SureOffersBand() {
                 </span>
               </h2>
 
-              <p className="mt-4 text-sm sm:text-base text-white/75 leading-relaxed max-w-lg">
+              <p className="mt-4 text-sm sm:text-base text-slate-200 leading-relaxed max-w-lg">
                 Exclusive institutional discount coupon codes and curated combo bundles arranged directly with accredited business schools across India.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3.5">
                 <Link
                   href="/mba-application-form-discount/"
+                  aria-label="See all 55+ MBA application form fee discount offers"
                   className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#F59E0B]/90 text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group hover:-translate-y-0.5"
                 >
                   <span>See all 55+ fee offers</span>
@@ -87,6 +88,7 @@ export function College4SureOffersBand() {
                 </Link>
                 <Link
                   href="/book-session/"
+                  aria-label="Book a free 1-on-1 MBA admissions advisory call"
                   className="px-5 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/25 text-white font-bold text-sm sm:text-base transition-all backdrop-blur-sm"
                 >
                   Book free advisory call
@@ -100,6 +102,7 @@ export function College4SureOffersBand() {
                 <Link
                   key={idx}
                   href={offer.href}
+                  aria-label={`Get ${offer.badge} on ${offer.name} application form`}
                   className="group flex items-center gap-3.5 p-3.5 sm:p-4 rounded-[18px] bg-white/[0.07] hover:bg-white/[0.14] border border-white/12 hover:border-white/30 transition-all duration-300 hover:translate-x-2"
                 >
                   <span className="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center text-lg shrink-0 group-hover:scale-110 transition-transform">

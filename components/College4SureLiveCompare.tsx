@@ -167,6 +167,7 @@ export function College4SureLiveCompare() {
     if (isPaused) return;
 
     const interval = setInterval(() => {
+      if (document.hidden) return;
       setIsTransitioning(true);
       setTimeout(() => {
         setCurrentIndex((prev) => (prev + 1) % COMPARISON_PAIRS.length);
@@ -221,24 +222,27 @@ export function College4SureLiveCompare() {
         {/* College VS Row */}
         <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-2 sm:gap-3 mb-5">
           <div className="min-w-0">
-            <h4 className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
+            <div className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
               {current.collegeA.name}
-            </h4>
-            <div className="font-mono text-[10px] text-slate-400 mt-1 line-clamp-1">
+            </div>
+            <div className="font-mono text-[10px] text-slate-300 mt-1 line-clamp-1">
               {current.collegeA.meta}
             </div>
           </div>
 
           {/* Rotating VS Badge with Holographic Neon Gradient */}
-          <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-gradient-to-tr from-[#FF007A] to-[#00F0FF] text-white flex items-center justify-center font-display font-black text-xs shadow-[0_0_20px_rgba(255,0,122,0.6)] border-2 border-white/40 animate-spinv shrink-0">
+          <div
+            aria-hidden="true"
+            className="w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-gradient-to-tr from-[#FF007A] to-[#00F0FF] text-white flex items-center justify-center font-display font-black text-xs shadow-[0_0_20px_rgba(255,0,122,0.6)] border-2 border-white/40 animate-spinv shrink-0"
+          >
             VS
           </div>
 
           <div className="min-w-0 text-right">
-            <h4 className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
+            <div className="font-display font-extrabold text-sm sm:text-base text-white leading-tight line-clamp-2">
               {current.collegeB.name}
-            </h4>
-            <div className="font-mono text-[10px] text-slate-400 mt-1 line-clamp-1">
+            </div>
+            <div className="font-mono text-[10px] text-slate-300 mt-1 line-clamp-1">
               {current.collegeB.meta}
             </div>
           </div>
@@ -248,9 +252,9 @@ export function College4SureLiveCompare() {
         <div className="space-y-3.5 mb-5">
           {/* 1. Placement Rate */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-200 mb-1.5">
               <span className="font-black text-[#00F0FF]">{current.collegeA.placementRate}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Placement rate</span>
+              <span className="text-[10px] text-slate-300 font-medium">Placement rate</span>
               <span className="font-black text-[#00FF88]">{current.collegeB.placementRate}</span>
             </div>
             <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
@@ -267,9 +271,9 @@ export function College4SureLiveCompare() {
 
           {/* 2. Highest Package */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-200 mb-1.5">
               <span className="font-black text-[#00F0FF]">{current.collegeA.highestPackage}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Highest package</span>
+              <span className="text-[10px] text-slate-300 font-medium">Highest package</span>
               <span className="font-black text-[#00FF88]">{current.collegeB.highestPackage}</span>
             </div>
             <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
@@ -286,9 +290,9 @@ export function College4SureLiveCompare() {
 
           {/* 3. Total Fees */}
           <div>
-            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-300 mb-1.5">
+            <div className="flex justify-between font-mono text-[11px] uppercase tracking-wider text-slate-200 mb-1.5">
               <span className="font-black text-[#00F0FF]">{current.collegeA.totalFees}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Total fees</span>
+              <span className="text-[10px] text-slate-300 font-medium">Total fees</span>
               <span className="font-black text-[#00FF88]">{current.collegeB.totalFees}</span>
             </div>
             <div className="h-2.5 rounded-full bg-white/10 flex overflow-hidden gap-0.5 p-0.5 border border-white/5">
@@ -315,20 +319,25 @@ export function College4SureLiveCompare() {
           <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-1" />
         </Link>
 
-        {/* Clickable Pips */}
-        <div className="flex items-center gap-1.5">
+        {/* Clickable Pips with Accessible Touch Target Area */}
+        <div className="flex items-center gap-1">
           {COMPARISON_PAIRS.map((pair, idx) => (
             <button
               key={idx}
               type="button"
               onClick={() => handleSelectStream(idx)}
-              aria-label={`Show ${pair.stream}`}
-              className={`h-2 rounded-full transition-all cursor-pointer ${
-                idx === currentIndex
-                  ? "w-6 bg-[#00F0FF] shadow-[0_0_10px_#00F0FF]"
-                  : "w-2 bg-white/20 hover:bg-white/40"
-              }`}
-            />
+              aria-label={`Show ${pair.stream} comparison`}
+              aria-pressed={idx === currentIndex}
+              className="p-1.5 flex items-center justify-center cursor-pointer rounded-full focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400"
+            >
+              <span
+                className={`h-2 rounded-full transition-all block ${
+                  idx === currentIndex
+                    ? "w-6 bg-[#00F0FF] shadow-[0_0_10px_#00F0FF]"
+                    : "w-2 bg-white/30 hover:bg-white/50"
+                }`}
+              />
+            </button>
           ))}
         </div>
       </div>
