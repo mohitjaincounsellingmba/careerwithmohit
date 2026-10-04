@@ -1,9 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import dynamic from "next/dynamic";
 import { JsonLd } from "@/components/JsonLd";
 import { College4SureScrollProgress } from "@/components/College4SureScrollProgress";
-import { College4SureTicker } from "@/components/College4SureTicker";
 import { College4SureHero } from "@/components/College4SureHero";
 import { College4SureStreamGrid } from "@/components/College4SureStreamGrid";
 import { College4SureOffersBand } from "@/components/College4SureOffersBand";
@@ -13,67 +11,11 @@ import { College4SureVideoShowcase } from "@/components/College4SureVideoShowcas
 import { College4SureReviewsMarquee } from "@/components/College4SureReviewsMarquee";
 import { College4SureCtaBanner } from "@/components/College4SureCtaBanner";
 import { College4SureSeoLinks } from "@/components/College4SureSeoLinks";
-
-const HomeCollegeExplorer = dynamic(
-  () => import("@/components/HomeCollegeExplorer").then((mod) => mod.HomeCollegeExplorer),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-[1220px] px-6 py-16 animate-pulse">
-        <div className="h-10 w-64 bg-slate-200 rounded-xl mb-4" />
-        <div className="h-6 w-96 bg-slate-200 rounded-lg mb-8" />
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {[...Array(4)].map((_, i) => (
-            <div key={i} className="h-72 bg-slate-200 rounded-3xl" />
-          ))}
-        </div>
-      </div>
-    ),
-  }
-);
-
-const HomeInquirySection = dynamic(
-  () => import("@/components/HomeInquirySection").then((mod) => mod.HomeInquirySection),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-[1220px] px-6 py-16 animate-pulse">
-        <div className="h-96 bg-slate-200 rounded-3xl" />
-      </div>
-    ),
-  }
-);
-
-const ExamTrackerSection = dynamic(
-  () => import("@/components/ExamTrackerSection").then((mod) => mod.ExamTrackerSection),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-[1220px] px-6 py-16 animate-pulse">
-        <div className="h-80 bg-slate-200 rounded-2xl" />
-      </div>
-    ),
-  }
-);
-
-const InteractiveRoiCalculator = dynamic(
-  () => import("@/components/InteractiveRoiCalculator").then((mod) => mod.InteractiveRoiCalculator),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-[1220px] px-6 py-16 animate-pulse">
-        <div className="h-96 bg-slate-800 rounded-3xl" />
-      </div>
-    ),
-  }
-);
-
-const HomeMockTestSlider = dynamic(
-  () => import("@/components/HomeMockTestSlider"),
-  {
-    loading: () => (
-      <div className="mx-auto max-w-[1220px] px-6 py-16 animate-pulse">
-        <div className="h-80 bg-slate-200 rounded-2xl" />
-      </div>
-    ),
-  }
-);
+import { HomeCollegeExplorer } from "@/components/HomeCollegeExplorer";
+import { HomeInquirySection } from "@/components/HomeInquirySection";
+import { ExamTrackerSection } from "@/components/ExamTrackerSection";
+import { InteractiveRoiCalculator } from "@/components/InteractiveRoiCalculator";
+import HomeMockTestSlider from "@/components/HomeMockTestSlider";
 
 const HOME_FAQS = [
   {
@@ -222,12 +164,104 @@ export default function Home() {
         <HomeInquirySection />
       </div>
 
-      {/* 13. Final Cosmic Call-To-Action Banner */}
+      {/* 13. Comprehensive MBA Admissions & College Guide (Authority SEO Text) */}
+      <section className="bg-white py-16 border-b border-[#061124]/10">
+        <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto space-y-10">
+            <div>
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-xs font-bold uppercase tracking-wider mb-3">
+                <span>Admissions 2027 Intelligence Guide</span>
+              </div>
+              <h2 className="font-display text-2xl sm:text-4xl font-extrabold text-[#061124] tracking-tight leading-tight">
+                Strategic Guidance for Top MBA Colleges &amp; Competitive Entrance Exams in India
+              </h2>
+              <p className="mt-4 text-slate-600 text-base leading-relaxed">
+                Choosing the right business school is one of the most significant investments in your career. With over 770+ accredited institutions in India offering MBA and PGDM programs, candidates often struggle with confusing placement statistics, unverified average packages, and fluctuating cutoffs. <strong>CareerWithMohit</strong> provides transparent, data-driven admissions consulting and unbiased mentorship led by <strong>Mohit Jain</strong>, an alumnus with executive marketing and strategy credentials recognized by top business schools like the <strong>Indian Institute of Management (IIM Bangalore)</strong> and the Faculty of Management Studies (FMS Delhi).
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-4">
+              <div className="bg-slate-50 rounded-2xl p-6 border border-slate-200/80">
+                <h3 className="font-display text-lg font-bold text-slate-900 mb-2.5">
+                  Top MBA Colleges in Delhi NCR, Pune, Mumbai &amp; Bangalore
+                </h3>
+                <p className="text-sm text-slate-600 leading-relaxed">
+                  Explore leading management institutes across prime educational hubs including <strong>Delhi NCR</strong> (Noida, Greater Noida, Gurgaon), Pune, Mumbai, Bangalore, and Jaipur. We evaluate colleges based on faculty-to-student ratios, NIRF rankings, corporate recruiter networks, and specializations across Finance, Marketing, Business Analytics, HR, and Operations.
+                </p>
+              </div>
+
+              <div className="bg-slate-50 rounded-2xl p-6 border border-slate-200/80">
+                <h3 className="font-display text-lg font-bold text-slate-900 mb-2.5">
+                  Total Fees, Scholarships &amp; Real ROI Payback Analysis
+                </h3>
+                <p className="text-sm text-slate-600 leading-relaxed">
+                  Understand true educational costs beyond brochure tuition. Our interactive comparison tools factor in hostel charges, mess fees, and mandatory security deposits against verified median CTC packages ranging from ₹8 <strong>Lakhs</strong> to ₹35+ <strong>Lakhs</strong> per annum, ensuring you select institutions offering a rapid 2 to 3-year return on investment (ROI).
+                </p>
+              </div>
+
+              <div className="bg-slate-50 rounded-2xl p-6 border border-slate-200/80">
+                <h3 className="font-display text-lg font-bold text-slate-900 mb-2.5">
+                  Free Full-Length CBT Mock Test Engine (CAT, XAT, NMAT, SNAP)
+                </h3>
+                <p className="text-sm text-slate-600 leading-relaxed">
+                  Practice under real exam pressure with our 100% free Computer Based Test (CBT) simulator. Take simulated full-length <strong>mock test</strong> papers for CAT 2026, XAT 2027, NMAT, SNAP, MAT, and ATMA featuring sectional countdown timers, negative marking calculations, and detailed post-exam solution analytics.
+                </p>
+              </div>
+
+              <div className="bg-slate-50 rounded-2xl p-6 border border-slate-200/80">
+                <h3 className="font-display text-lg font-bold text-slate-900 mb-2.5">
+                  1-on-1 Profile Assessment &amp; MBA Form Combo Discounts
+                </h3>
+                <p className="text-sm text-slate-600 leading-relaxed">
+                  Save up to ₹5,000+ on application fees across 55+ accredited institutions using our exclusive institutional form discounts. Book a personalized 1-on-1 Google Meet session with <strong>Mohit Jain</strong> to evaluate your profile (Dream, Target, Safe colleges) and craft winning GD-PI-WAT interview strategies.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 14. Frequently Asked Questions (FAQ) Interactive Section */}
+      <section className="bg-[#F8FAFC] py-16 border-b border-[#061124]/10">
+        <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-10">
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 text-xs font-bold uppercase tracking-wider mb-3">
+                <span>Frequently Asked Questions</span>
+              </div>
+              <h2 className="font-display text-2xl sm:text-4xl font-extrabold text-[#061124] tracking-tight">
+                Everything You Need to Know About Admissions &amp; Mock Tests
+              </h2>
+            </div>
+
+            <div className="space-y-4">
+              {HOME_FAQS.map((faq, idx) => (
+                <details
+                  key={idx}
+                  className="group rounded-2xl bg-white border border-slate-200/80 p-5 sm:p-6 shadow-sm transition-all open:shadow-md open:border-blue-400/50"
+                >
+                  <summary className="font-display font-bold text-base sm:text-lg text-slate-900 cursor-pointer list-none flex items-center justify-between gap-4">
+                    <span>{faq.question}</span>
+                    <span className="w-7 h-7 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 group-open:rotate-180 group-open:bg-blue-600 group-open:text-white transition-all shrink-0">
+                      ↓
+                    </span>
+                  </summary>
+                  <p className="mt-3 text-slate-600 text-sm sm:text-base leading-relaxed pt-2 border-t border-slate-100">
+                    {faq.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 15. Final Cosmic Call-To-Action Banner */}
       <div className="section-deferred">
         <College4SureCtaBanner />
       </div>
 
-      {/* 14. SEO City Hubs & Tools Footer Ribbon */}
+      {/* 16. SEO City Hubs & Tools Footer Ribbon */}
       <div className="section-deferred">
         <College4SureSeoLinks />
       </div>
