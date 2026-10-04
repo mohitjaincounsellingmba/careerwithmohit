@@ -103,7 +103,9 @@ const HOME_FAQS = [
 ];
 
 export const metadata: Metadata = {
-  title: "Top Colleges & MBA Admissions in India | CareerWithMohit",
+  title: {
+    absolute: "Top Colleges & MBA Admissions in India | CareerWithMohit",
+  },
   description: "Compare 770+ verified colleges on fees and placements. Practice free CBT mock tests, track exam dates, and get 1-on-1 MBA guidance with Mohit Jain.",
   keywords: [
     "education portal india", "college search portal", "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert",
