@@ -6,7 +6,6 @@ import {
   Instagram, 
   Linkedin, 
   Facebook, 
-  Youtube, 
   ArrowRight, 
   Phone, 
   Mail, 
@@ -124,12 +123,6 @@ export function Footer() {
       href: "https://www.linkedin.com/company/career-with-mohit", 
       label: "LinkedIn", 
       hoverStyle: "hover:bg-blue-600 hover:text-white hover:border-transparent" 
-    },
-    { 
-      icon: <Youtube size={17} />, 
-      href: "https://www.youtube.com/channel/UCNo1vFJ_KdRBbkcjCc9PYQA", 
-      label: "YouTube", 
-      hoverStyle: "hover:bg-red-600 hover:text-white hover:border-transparent" 
     },
     { 
       icon: <Facebook size={17} />, 
