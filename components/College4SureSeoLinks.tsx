@@ -33,9 +33,9 @@ export function College4SureSeoLinks() {
     <section className="bg-[#061124] text-white/70 py-12 border-t border-white/10 text-xs">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div>
-          <h4 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
+          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
             Popular B-School Hubs by City
-          </h4>
+          </h3>
           <div className="flex flex-wrap gap-2">
             {cityHubs.map((link, idx) => (
               <Link
@@ -50,9 +50,9 @@ export function College4SureSeoLinks() {
         </div>
 
         <div className="pt-6 border-t border-white/10">
-          <h4 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
+          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
             Free Entrance Exam Test Engines &amp; Admissions Tools
-          </h4>
+          </h3>
           <div className="flex flex-wrap gap-2">
             {toolsAndExams.map((link, idx) => (
               <Link

@@ -11,7 +11,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/private/', '/admin/', '/api/'],
       },
       {
-        // Explicitly allow AI Search Engines & LLM agents for Generative Engine Optimization (GEO)
+        // Explicitly allow AI Search Engines, major crawlers & SEO indexers
         userAgent: [
           'Googlebot',
           'Googlebot-Image',
@@ -28,14 +28,21 @@ export default function robots(): MetadataRoute.Robots {
           'cohere-ai',
           'Meta-ExternalAgent',
           'DuckAssistBot',
-          'Bingbot'
+          'Bingbot',
+          'AhrefsBot',
+          'SemrushBot',
+          'SEMrushBot',
+          'SEOptimerBot',
+          'DotBot',
+          'MozBot',
+          'rogerbot'
         ],
         allow: '/',
         disallow: ['/private/', '/admin/', '/api/'],
       },
       {
-        // Disallow spam/scraping bots that do not provide search or AI citation value
-        userAgent: ['AhrefsBot', 'SemrushBot', 'DotBot', 'MJ12bot', 'PetalBot'],
+        // Disallow aggressive scraping bots
+        userAgent: ['MJ12bot', 'PetalBot', 'Bytespider'],
         disallow: '/',
       }
     ],

@@ -103,8 +103,8 @@ const HOME_FAQS = [
 ];
 
 export const metadata: Metadata = {
-  title: "Find Top Colleges, Exams & Admission Guidance in India | CareerWithMohit",
-  description: "Compare 770+ verified colleges on fees, placement rate and package. Track 26 entrance exam deadlines, take free CBT mock tests, and book 1-on-1 admissions guidance with Mohit Jain.",
+  title: "Top Colleges & MBA Admissions in India | CareerWithMohit",
+  description: "Compare 770+ verified colleges on fees and placements. Practice free CBT mock tests, track exam dates, and get 1-on-1 MBA guidance with Mohit Jain.",
   keywords: [
     "education portal india", "college search portal", "career counsellor India", "MBA admission guidance 2027", "PGDM admission 2027", "B.Tech admission expert",
     "free cat mock test 2026", "free xat mock test 2027", "nmat practice test", "snap mock test", "mba form combo discounts",
@@ -120,8 +120,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Find Top Colleges, Exams & Admission Guidance in India | CareerWithMohit",
-    description: "Compare 770+ verified colleges on fees, placement rate and package. Track 26 entrance exam deadlines, take free CBT mock tests, and book 1-on-1 admissions guidance with Mohit Jain.",
+    title: "Top Colleges & MBA Admissions in India | CareerWithMohit",
+    description: "Compare 770+ verified colleges on fees and placements. Practice free CBT mock tests, track exam dates, and get 1-on-1 MBA guidance with Mohit Jain.",
     url: "https://careerwithmohit.online/",
     siteName: "CareerWithMohit",
     type: "website",
@@ -137,8 +137,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Find Top Colleges, Exams & Admission Guidance in India | CareerWithMohit",
-    description: "770+ Verified Colleges, Free CBT Mock Tests, MBA Form Discounts & 1-on-1 Guidance.",
+    title: "Top Colleges & MBA Admissions in India | CareerWithMohit",
+    description: "Compare 770+ verified colleges on fees and placements with 1-on-1 MBA guidance.",
     images: ["/og-image.webp"],
   },
 };
