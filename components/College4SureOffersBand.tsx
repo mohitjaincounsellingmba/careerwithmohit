@@ -51,29 +51,29 @@ const LIVE_OFFERS: OfferItem[] = [
 
 export function College4SureOffersBand() {
   return (
-    <section className="py-14 sm:py-18 bg-[#F1F5F9]/80 border-b border-[#061124]/10">
+    <section className="py-14 sm:py-20 bg-white border-b border-slate-200/80">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="relative rounded-[28px] sm:rounded-[40px] bg-[#061124] text-white p-7 sm:p-12 overflow-hidden shadow-[0_34px_70px_-30px_rgba(6,17,36,0.6)] border border-white/10">
-          {/* Glowing Amber/Cyan Halos */}
-          <div className="absolute top-[-140px] right-[-100px] w-96 h-96 rounded-full bg-[#0EA5E9]/25 blur-[90px] pointer-events-none" />
-          <div className="absolute bottom-[-140px] left-[-80px] w-80 h-80 rounded-full bg-[#F59E0B]/20 blur-[90px] pointer-events-none" />
+        <div className="relative rounded-[28px] sm:rounded-[40px] bg-gradient-to-br from-[#1E1B4B] via-[#4338CA] to-[#6336EA] text-white p-7 sm:p-12 overflow-hidden shadow-[0_25px_60px_-15px_rgba(79,70,229,0.3)] border border-purple-400/20">
+          {/* Glowing Halos */}
+          <div className="absolute top-[-140px] right-[-100px] w-96 h-96 rounded-full bg-cyan-400/20 blur-[90px] pointer-events-none" />
+          <div className="absolute bottom-[-140px] left-[-80px] w-80 h-80 rounded-full bg-amber-400/20 blur-[90px] pointer-events-none" />
 
           <div className="relative z-10 grid grid-cols-1 lg:grid-cols-[1fr_1.2fr] gap-8 lg:gap-12 items-center">
             {/* Left Column: Heading & CTAs */}
             <div>
-              <span className="font-mono text-xs uppercase tracking-[0.15em] font-bold text-[#F59E0B] flex items-center gap-2 mb-3">
-                <Flame className="w-4 h-4 text-[#F59E0B]" />
+              <span className="font-mono text-xs uppercase tracking-[0.15em] font-bold text-[#FFD000] flex items-center gap-2 mb-3">
+                <Flame className="w-4 h-4 text-[#FFD000]" />
                 Application Fee Discounts
               </span>
 
               <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-[1.08] tracking-tight">
                 Up to 100% off<br />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#F59E0B] via-[#10B981] to-[#0EA5E9]">
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FFD000] via-[#34D399] to-[#38BDF8]">
                   application form fees
                 </span>
               </h2>
 
-              <p className="mt-4 text-sm sm:text-base text-slate-200 leading-relaxed max-w-lg">
+              <p className="mt-4 text-sm sm:text-base text-purple-100/90 leading-relaxed max-w-lg">
                 Exclusive institutional discount coupon codes and curated combo bundles arranged directly with accredited business schools across India.
               </p>
 
@@ -81,7 +81,7 @@ export function College4SureOffersBand() {
                 <Link
                   href="/mba-application-form-discount/"
                   aria-label="See all 55+ MBA application form fee discount offers"
-                  className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#F59E0B]/90 text-[#061124] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group hover:-translate-y-0.5"
+                  className="px-6 py-3.5 rounded-full bg-[#FFD000] hover:bg-[#FFE033] text-[#0F1026] font-display font-extrabold text-sm sm:text-base transition-all shadow-md flex items-center gap-2 group hover:-translate-y-0.5"
                 >
                   <span>See all 55+ fee offers</span>
                   <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
@@ -103,9 +103,9 @@ export function College4SureOffersBand() {
                   key={idx}
                   href={offer.href}
                   aria-label={`Get ${offer.badge} on ${offer.name} application form`}
-                  className="group flex items-center gap-3.5 p-3.5 sm:p-4 rounded-[18px] bg-white/[0.07] hover:bg-white/[0.14] border border-white/12 hover:border-white/30 transition-all duration-300 hover:translate-x-2"
+                  className="group flex items-center gap-3.5 p-3.5 sm:p-4 rounded-[18px] bg-white/[0.08] hover:bg-white/[0.18] border border-white/15 hover:border-white/35 transition-all duration-300 hover:translate-x-2"
                 >
-                  <span className="w-9 h-9 rounded-xl bg-white/10 flex items-center justify-center text-lg shrink-0 group-hover:scale-110 transition-transform">
+                  <span className="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center text-lg shrink-0 group-hover:scale-110 transition-transform">
                     {offer.icon}
                   </span>
 
@@ -119,7 +119,7 @@ export function College4SureOffersBand() {
                         ? "bg-[#10B981] text-white shadow-sm animate-pulse"
                         : offer.badgeType === "save"
                         ? "bg-[#E11D48] text-white"
-                        : "bg-[#F59E0B] text-[#061124]"
+                        : "bg-[#FFD000] text-[#0F1026]"
                     }`}
                   >
                     {offer.badge}

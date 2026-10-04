@@ -12,22 +12,22 @@
   --header-bg: #ffffff;
   --primary-brand: #2563EB;
 
-  /* CareerWithMohit Theme Colors */
-  --ink: #090D1A;
+  /* CareerWithMohit Theme Colors (College4Sure Light Theme) */
+  --ink: #0F1026;
   --ink-2: #475569;
   --paper: #F8FAFC;
   --card: #FFFFFF;
-  --line: rgba(9, 13, 26, 0.09);
-  --line-2: rgba(9, 13, 26, 0.05);
-  --shadow: 0 18px 44px -22px rgba(9, 13, 26, 0.18);
-  --shadow-lg: 0 34px 70px -30px rgba(9, 13, 26, 0.28);
+  --line: rgba(15, 16, 38, 0.08);
+  --line-2: rgba(15, 16, 38, 0.04);
+  --shadow: 0 10px 30px -8px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 25px 60px -15px rgba(15, 23, 42, 0.12);
 
-  --violet: #8B5CF6; /* Ultraviolet */
-  --pink: #FF007A;   /* Neon Magenta / Hot Punch */
-  --yellow: #FFD600; /* Electric Lemon / Neon Gold */
-  --mint: #00FF88;   /* Acid Lime / Neon Mint */
-  --sky: #00F0FF;    /* Cyber Cyan */
-  --coral: #FF5E3A;  /* Electric Sunset */
+  --violet: #6336EA; /* College4Sure Electric Violet */
+  --pink: #EC4899;   /* Saturated Rose Magenta */
+  --yellow: #FFD000; /* Signature Marker Highlighter Gold */
+  --mint: #00C49F;   /* Emerald Mint Teal */
+  --sky: #0EA5E9;    /* Clean Royal Cyan */
+  --coral: #FF5E62;  /* Electric Sunset */
 
   --r-s: 12px;
   --r-m: 18px;
@@ -277,12 +277,12 @@ body {
   animation: spinv 24s linear infinite reverse;
 }
 
-/* Background Glowing Ambient Blobs */
+/* Background Glowing Ambient Blobs (Light Theme Soft Luminescence) */
 .blob {
   position: absolute;
   border-radius: 50%;
-  filter: blur(70px);
-  opacity: 0.35;
+  filter: blur(80px);
+  opacity: 0.14;
   pointer-events: none;
   z-index: 0;
   transform: translate3d(0, 0, 0);
@@ -302,7 +302,7 @@ body {
   background: var(--pink);
   top: 100px;
   right: -120px;
-  opacity: 0.3;
+  opacity: 0.12;
   animation: fl2 22s ease-in-out infinite;
 }
 .b3 {
@@ -311,15 +311,15 @@ body {
   background: var(--mint);
   bottom: -130px;
   left: 38%;
-  opacity: 0.25;
+  opacity: 0.10;
   animation: fl1 26s ease-in-out infinite reverse;
 }
 
 @media (max-width: 768px) {
   .blob {
-    filter: blur(35px) !important;
+    filter: blur(40px) !important;
     animation: none !important;
-    opacity: 0.22 !important;
+    opacity: 0.08 !important;
   }
 }
 

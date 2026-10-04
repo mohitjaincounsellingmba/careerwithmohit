@@ -135,7 +135,7 @@ export default function Home() {
       </div>
 
       {/* 7. Live Interactive MBA ROI & Financial Payback Calculator */}
-      <div className="section-deferred bg-[#061124] text-white py-16 border-b border-white/10">
+      <div className="section-deferred">
         <InteractiveRoiCalculator />
       </div>
 

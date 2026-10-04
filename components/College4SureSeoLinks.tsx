@@ -30,10 +30,10 @@ export function College4SureSeoLinks() {
   ];
 
   return (
-    <section className="bg-[#061124] text-white/70 py-12 border-t border-white/10 text-xs">
+    <section className="bg-[#F8FAFC] text-slate-600 py-12 border-t border-slate-200/80 text-xs">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div>
-          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
+          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#0F1026] mb-4">
             Popular B-School Hubs by City
           </h3>
           <div className="flex flex-wrap gap-2">
@@ -41,7 +41,7 @@ export function College4SureSeoLinks() {
               <Link
                 key={idx}
                 href={link.href}
-                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#F59E0B] border border-white/10 transition-colors"
+                className="px-3.5 py-1.5 rounded-full bg-white hover:bg-blue-50 text-slate-700 hover:text-blue-700 border border-slate-200/80 shadow-2xs transition-colors font-medium"
               >
                 {link.name}
               </Link>
@@ -49,8 +49,8 @@ export function College4SureSeoLinks() {
           </div>
         </div>
 
-        <div className="pt-6 border-t border-white/10">
-          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-white mb-4">
+        <div className="pt-6 border-t border-slate-200/80">
+          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#0F1026] mb-4">
             Free Entrance Exam Test Engines &amp; Admissions Tools
           </h3>
           <div className="flex flex-wrap gap-2">
@@ -58,7 +58,7 @@ export function College4SureSeoLinks() {
               <Link
                 key={idx}
                 href={link.href}
-                className="px-3.5 py-1.5 rounded-full bg-white/[0.07] hover:bg-white/[0.15] text-white/80 hover:text-[#10B981] border border-white/10 transition-colors"
+                className="px-3.5 py-1.5 rounded-full bg-white hover:bg-emerald-50 text-slate-700 hover:text-emerald-700 border border-slate-200/80 shadow-2xs transition-colors font-medium"
               >
                 {link.name}
               </Link>
