@@ -219,11 +219,11 @@ export default function MbaFormDiscountCalculator() {
   };
 
   return (
-    <div className="w-full text-white">
+    <div className="w-full text-[#0F1026]">
 
       {/* ── 1. SEARCH, FILTER & LOCATION SELECTOR ── */}
       <section id="colleges-catalogue" className="scroll-mt-24 mb-10">
-        <div className="bg-[#061124]/90 border border-white/15 rounded-[28px] sm:rounded-[36px] p-5 sm:p-7 backdrop-blur-2xl shadow-[0_34px_70px_-30px_rgba(6,17,36,0.7)] space-y-6">
+        <div className="bg-white border border-slate-200/90 rounded-[28px] sm:rounded-[36px] p-5 sm:p-7 shadow-[0_10px_30px_-5px_rgba(15,23,42,0.06)] space-y-6">
           
           {/* Search Input + Region Selection */}
           <div className="flex flex-col lg:flex-row gap-4 items-stretch lg:items-center justify-between">
@@ -236,12 +236,12 @@ export default function MbaFormDiscountCalculator() {
                 placeholder="Search 55+ colleges by name, city, recruiter (e.g. NDIM, FOSTIIMA, FIIB, JIMS, Pune, Bangalore)..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full pl-11 pr-10 py-3.5 bg-white/[0.05] border border-white/15 rounded-2xl text-sm text-white placeholder-slate-400 focus:outline-none focus:border-[#00FF88] focus:ring-2 focus:ring-[#00FF88]/20 transition-all shadow-inner"
+                className="w-full pl-11 pr-10 py-3.5 bg-slate-50 border border-slate-200/90 rounded-2xl text-sm text-[#0F1026] placeholder-slate-400 focus:outline-none focus:bg-white focus:border-blue-600 focus:ring-4 focus:ring-blue-500/10 transition-all shadow-inner"
               />
               {searchQuery && (
                 <button
                   onClick={() => setSearchQuery('')}
-                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white p-1"
+                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 p-1"
                   aria-label="Clear search"
                 >
                   <X className="w-4 h-4" />
@@ -260,8 +260,8 @@ export default function MbaFormDiscountCalculator() {
                   }}
                   className={`px-4 py-2.5 rounded-full font-mono text-xs font-bold shrink-0 transition-all cursor-pointer ${
                     selectedRegion === region
-                      ? 'bg-gradient-to-r from-[#00FF88] to-[#00F0FF] text-black shadow-[0_0_20px_rgba(0,255,136,0.3)]'
-                      : 'bg-white/[0.06] text-white/80 hover:bg-white/15 hover:text-white'
+                      ? 'bg-slate-900 text-white shadow-sm'
+                      : 'bg-slate-100 text-slate-700 hover:bg-slate-200 hover:text-[#0F1026]'
                   }`}
                 >
                   {region} {region === 'All' ? `(55)` : region === 'Delhi NCR' ? `(34)` : region === 'Pune' ? `(8)` : region === 'Mumbai' ? `(6)` : `(7)`}
@@ -272,8 +272,8 @@ export default function MbaFormDiscountCalculator() {
 
           {/* Quick Filters Pill Bar */}
           <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none text-xs">
-            <span className="font-mono text-slate-400 font-semibold text-[11px] uppercase tracking-wider shrink-0 flex items-center gap-1">
-              <Zap className="w-3.5 h-3.5 text-[#F59E0B]" /> Filter:
+            <span className="font-mono text-slate-500 font-semibold text-[11px] uppercase tracking-wider shrink-0 flex items-center gap-1">
+              <Zap className="w-3.5 h-3.5 text-amber-500" /> Filter:
             </span>
             {[
               { id: 'all', label: 'All 55 Colleges' },
@@ -288,8 +288,8 @@ export default function MbaFormDiscountCalculator() {
                 onClick={() => setQuickFilter(f.id as any)}
                 className={`px-3.5 py-1.5 rounded-full font-mono text-xs font-bold shrink-0 transition-all cursor-pointer ${
                   quickFilter === f.id
-                    ? 'bg-[#F59E0B] text-[#061124] shadow-md shadow-amber-500/20'
-                    : 'bg-white/[0.04] border border-white/10 text-white/80 hover:border-white/20'
+                    ? 'bg-amber-400 text-[#0F1026] shadow-sm'
+                    : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'
                 }`}
               >
                 {f.label}
@@ -298,12 +298,12 @@ export default function MbaFormDiscountCalculator() {
           </div>
 
           {/* Secondary Controls: City, Sorting, View Toggle */}
-          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-white/10 text-xs">
+          <div className="flex flex-wrap items-center justify-between gap-3 pt-4 border-t border-slate-100 text-xs">
             
             {/* City Sub-filters */}
             <div className="flex items-center gap-2 flex-wrap">
-              <span className="text-slate-400 font-semibold flex items-center gap-1 font-mono">
-                <MapPin className="w-3.5 h-3.5 text-[#00F0FF]" /> City:
+              <span className="text-slate-500 font-semibold flex items-center gap-1 font-mono">
+                <MapPin className="w-3.5 h-3.5 text-blue-600" /> City:
               </span>
               {['All', 'New Delhi', 'Greater Noida', 'Gurugram', 'Ghaziabad', 'Pune', 'Mumbai', 'Bangalore']
                 .filter((c) => selectedRegion === 'All' || (selectedRegion === 'Delhi NCR' ? ['All', 'New Delhi', 'Greater Noida', 'Gurugram', 'Ghaziabad'].includes(c) : [selectedRegion, 'All'].includes(c)))
@@ -313,8 +313,8 @@ export default function MbaFormDiscountCalculator() {
                     onClick={() => setSelectedCity(city)}
                     className={`px-2.5 py-1 rounded-lg transition-colors font-medium cursor-pointer ${
                       selectedCity === city
-                        ? 'bg-[#8B5CF6] text-white shadow-sm'
-                        : 'bg-white/[0.05] text-slate-300 hover:bg-white/10 hover:text-white'
+                        ? 'bg-purple-600 text-white shadow-xs'
+                        : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
                     }`}
                   >
                     {city}
@@ -332,7 +332,7 @@ export default function MbaFormDiscountCalculator() {
                   aria-label="Sort colleges"
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value)}
-                  className="bg-[#070A14] border border-white/15 rounded-xl px-2.5 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-[#00FF88] cursor-pointer"
+                  className="bg-white border border-slate-200 rounded-xl px-2.5 py-1.5 text-xs text-slate-700 focus:outline-none focus:border-blue-600 cursor-pointer shadow-2xs"
                 >
                   <option value="discount">Sort: Highest Discount %</option>
                   <option value="savings">Sort: Maximum Rupee Savings</option>
@@ -343,11 +343,11 @@ export default function MbaFormDiscountCalculator() {
               </div>
 
               {/* View Toggle */}
-              <div className="flex items-center bg-white/[0.05] p-0.5 rounded-lg border border-white/15">
+              <div className="flex items-center bg-slate-100 p-0.5 rounded-lg border border-slate-200">
                 <button
                   onClick={() => setViewMode('grid')}
                   className={`p-1.5 rounded-md transition-colors ${
-                    viewMode === 'grid' ? 'bg-[#00F0FF] text-black font-bold' : 'text-slate-400 hover:text-white'
+                    viewMode === 'grid' ? 'bg-blue-600 text-white font-bold shadow-xs' : 'text-slate-500 hover:text-slate-900'
                   }`}
                   title="Grid View"
                 >
@@ -356,7 +356,7 @@ export default function MbaFormDiscountCalculator() {
                 <button
                   onClick={() => setViewMode('table')}
                   className={`p-1.5 rounded-md transition-colors ${
-                    viewMode === 'table' ? 'bg-[#00F0FF] text-black font-bold' : 'text-slate-400 hover:text-white'
+                    viewMode === 'table' ? 'bg-blue-600 text-white font-bold shadow-xs' : 'text-slate-500 hover:text-slate-900'
                   }`}
                   title="Table View"
                 >
@@ -364,8 +364,8 @@ export default function MbaFormDiscountCalculator() {
                 </button>
               </div>
 
-              <span className="font-mono text-slate-400 text-xs">
-                Showing <strong className="text-white">{filteredColleges.length}</strong> colleges
+              <span className="font-mono text-slate-500 text-xs">
+                Showing <strong className="text-slate-900">{filteredColleges.length}</strong> colleges
               </span>
             </div>
 
@@ -382,87 +382,87 @@ export default function MbaFormDiscountCalculator() {
               return (
                 <div
                   key={college.id}
-                  className="relative rounded-[28px] p-6 border border-white/10 bg-white/[0.04] hover:bg-white/[0.07] hover:border-[#00FF88]/50 hover:shadow-[0_0_35px_rgba(0,255,136,0.15)] transition-all duration-300 flex flex-col justify-between group overflow-hidden backdrop-blur-xl shadow-xl"
+                  className="relative rounded-[28px] p-6 border border-slate-200/90 bg-white hover:border-blue-300 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between group overflow-hidden shadow-sm"
                 >
                   
                   {/* Top Notch: Discount Ribbon + Badges */}
                   <div>
                     <div className="flex items-center justify-between gap-2 mb-3.5">
                       {/* Luminous Discount Badge */}
-                      <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-black tracking-wide shadow-sm">
-                        <Percent className="w-3.5 h-3.5 text-[#00FF88] stroke-[3]" />
+                      <div className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 font-mono text-xs font-black tracking-wide shadow-2xs">
+                        <Percent className="w-3.5 h-3.5 text-emerald-600 stroke-[3]" />
                         <span>{college.discountNote || `${college.discountPercent}% OFF`}</span>
                       </div>
 
                       {college.badge && (
-                        <span className="font-mono text-[10px] font-bold text-[#F59E0B] bg-[#F59E0B]/15 border border-[#F59E0B]/30 px-2.5 py-0.5 rounded-full">
+                        <span className="font-mono text-[10px] font-bold text-amber-800 bg-amber-50 border border-amber-200 px-2.5 py-0.5 rounded-full">
                           {college.badge}
                         </span>
                       )}
                     </div>
 
                     {/* City Location */}
-                    <div className="flex items-center gap-1.5 text-xs text-slate-400 font-medium mb-1.5 font-mono">
-                      <MapPin className="w-3.5 h-3.5 text-[#00F0FF] shrink-0" />
+                    <div className="flex items-center gap-1.5 text-xs text-slate-500 font-medium mb-1.5 font-mono">
+                      <MapPin className="w-3.5 h-3.5 text-blue-600 shrink-0" />
                       <span className="truncate">{college.location}</span>
                     </div>
 
                     {/* College Name */}
-                    <h3 className="font-display text-lg font-extrabold text-white group-hover:text-cyan-200 transition-colors leading-snug">
+                    <h3 className="font-display text-lg font-extrabold text-[#0F1026] group-hover:text-blue-600 transition-colors leading-snug">
                       {college.name}
                     </h3>
 
                     {/* Accreditation Tag */}
                     <div className="mt-2 flex flex-wrap gap-1.5">
-                      <span className="font-mono text-[10px] font-semibold text-cyan-300 bg-cyan-500/10 border border-cyan-500/20 px-2 py-0.5 rounded-md">
+                      <span className="font-mono text-[10px] font-semibold text-blue-700 bg-blue-50 border border-blue-200/80 px-2 py-0.5 rounded-md">
                         {college.accreditation.split('·')[0].trim()}
                       </span>
                       {college.grade && (
-                        <span className="font-mono text-[10px] font-semibold text-purple-300 bg-purple-500/10 border border-purple-500/20 px-2 py-0.5 rounded-md">
+                        <span className="font-mono text-[10px] font-semibold text-purple-700 bg-purple-50 border border-purple-200/80 px-2 py-0.5 rounded-md">
                           {college.grade}
                         </span>
                       )}
                     </div>
 
                     {/* Highlight */}
-                    <p className="text-xs text-slate-300 mt-2.5 line-clamp-2 leading-relaxed">
+                    <p className="text-xs text-slate-600 mt-2.5 line-clamp-2 leading-relaxed">
                       {college.highlight}
                     </p>
 
                     {/* Placement Metrics */}
-                    <div className="mt-4 grid grid-cols-2 gap-2 bg-black/40 p-3 rounded-2xl border border-white/10 text-xs">
+                    <div className="mt-4 grid grid-cols-2 gap-2 bg-slate-50 p-3 rounded-2xl border border-slate-200/80 text-xs">
                       <div>
-                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-400 block font-semibold">Avg CTC</span>
-                        <span className="text-slate-100 font-bold">{college.avgPlacement}</span>
+                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-500 block font-semibold">Avg CTC</span>
+                        <span className="text-[#0F1026] font-bold">{college.avgPlacement}</span>
                       </div>
                       <div>
-                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-400 block font-semibold">Highest Package</span>
-                        <span className="text-[#00FF88] font-bold">{college.highestPlacement}</span>
+                        <span className="font-mono text-[10px] uppercase tracking-wider text-slate-500 block font-semibold">Highest Package</span>
+                        <span className="text-emerald-700 font-bold">{college.highestPlacement}</span>
                       </div>
                     </div>
                   </div>
 
                   {/* Pricing Ticket Cutout & Action Button */}
-                  <div className="mt-5 pt-4 border-t border-dashed border-white/15 space-y-3.5">
+                  <div className="mt-5 pt-4 border-t border-dashed border-slate-200 space-y-3.5">
                     
                     {/* Cost Breakdown */}
                     <div className="flex items-center justify-between">
                       <div>
-                        <div className="text-[11px] text-slate-400 flex items-center gap-1.5 font-mono">
+                        <div className="text-[11px] text-slate-500 flex items-center gap-1.5 font-mono">
                           <span className="line-through text-slate-400">Official: ₹{college.officialFee.toLocaleString()}</span>
-                          <span className="text-[#00FF88] font-bold bg-[#00FF88]/10 px-1.5 py-0.5 rounded text-[10px]">
+                          <span className="text-emerald-700 font-bold bg-emerald-50 px-1.5 py-0.5 rounded text-[10px] border border-emerald-200/60">
                             {college.discountNote ? 'Profile Waiver' : `Save ₹${college.savings.toLocaleString()}`}
                           </span>
                         </div>
-                        <div className="font-display text-xl font-black text-white flex items-baseline gap-1 mt-0.5">
+                        <div className="font-display text-xl font-black text-[#0F1026] flex items-baseline gap-1 mt-0.5">
                           {college.discountNote ? (
-                            <span className="text-[#00FF88] text-base sm:text-lg">Depends on Profile</span>
+                            <span className="text-emerald-700 text-base sm:text-lg">Depends on Profile</span>
                           ) : college.discountedFee === 0 ? (
-                            <span className="text-[#00FF88] text-xl font-black">FREE (₹0)</span>
+                            <span className="text-emerald-700 text-xl font-black">FREE (₹0)</span>
                           ) : (
                             <>
-                              <span className="text-[#00FF88]">₹{college.discountedFee.toLocaleString()}</span>
-                              <span className="text-[10px] text-slate-400 font-normal">form fee</span>
+                              <span className="text-blue-700">₹{college.discountedFee.toLocaleString()}</span>
+                              <span className="text-[10px] text-slate-500 font-normal">form fee</span>
                             </>
                           )}
                         </div>
@@ -470,7 +470,7 @@ export default function MbaFormDiscountCalculator() {
 
                       <div className="text-right">
                         <span className="font-mono text-[10px] text-slate-400 uppercase tracking-wider block">Voucher Code</span>
-                        <span className="font-mono text-[11px] font-bold text-[#00FF88] bg-[#00FF88]/10 px-2 py-0.5 rounded border border-[#00FF88]/25 inline-flex items-center gap-1">
+                        <span className="font-mono text-[11px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded border border-slate-200 inline-flex items-center gap-1">
                           🔒 Locked Code
                         </span>
                       </div>
@@ -480,11 +480,11 @@ export default function MbaFormDiscountCalculator() {
                     <button
                       type="button"
                       onClick={() => handleOpenSingleModal(college)}
-                      className="w-full py-3 px-4 rounded-xl bg-gradient-to-r from-[#00FF88] via-[#00F0FF] to-[#00FF88] hover:brightness-110 active:scale-[0.98] text-black font-display font-black text-xs sm:text-sm transition-all shadow-[0_0_20px_rgba(0,255,136,0.3)] flex items-center justify-center gap-2 cursor-pointer"
+                      className="w-full py-3 px-4 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 active:scale-[0.98] text-white font-display font-black text-xs sm:text-sm transition-all shadow-md shadow-blue-500/20 flex items-center justify-center gap-2 cursor-pointer"
                     >
-                      <Ticket className="w-4 h-4 text-black" />
+                      <Ticket className="w-4 h-4 text-white" />
                       <span>{college.discountNote ? 'Get Profile Evaluation & Code' : `Get Coupon Code (Save ₹${college.savings.toLocaleString()})`}</span>
-                      <ArrowRight className="w-4 h-4 text-black" />
+                      <ArrowRight className="w-4 h-4 text-white" />
                     </button>
 
                   </div>
@@ -495,10 +495,10 @@ export default function MbaFormDiscountCalculator() {
           </div>
         ) : (
           /* TABLE DIRECTORY VIEW */
-          <div className="bg-[#061124] border border-white/15 rounded-[28px] overflow-hidden shadow-2xl">
+          <div className="bg-white border border-slate-200/90 rounded-[28px] overflow-hidden shadow-sm">
             <div className="overflow-x-auto">
-              <table className="w-full text-left text-xs text-slate-300">
-                <thead className="bg-black/40 font-mono text-[11px] uppercase tracking-wider text-slate-400 border-b border-white/10">
+              <table className="w-full text-left text-xs text-slate-700">
+                <thead className="bg-slate-50 font-mono text-[11px] uppercase tracking-wider text-slate-600 border-b border-slate-200">
                   <tr>
                     <th className="py-4 px-5">College Name</th>
                     <th className="py-4 px-3">City</th>
@@ -509,41 +509,41 @@ export default function MbaFormDiscountCalculator() {
                     <th className="py-4 px-5 text-right">Get Code</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-white/10">
+                <tbody className="divide-y divide-slate-100">
                   {filteredColleges.map((college) => {
                     return (
-                      <tr key={college.id} className="hover:bg-white/[0.04] transition-colors">
-                        <td className="py-4 px-5 font-bold text-white">
+                      <tr key={college.id} className="hover:bg-slate-50/80 transition-colors">
+                        <td className="py-4 px-5 font-bold text-[#0F1026]">
                           <div className="flex items-center gap-2">
                             <span className="font-display">{college.name}</span>
                             {college.badge && (
-                              <span className="font-mono text-[9px] bg-[#F59E0B]/20 text-[#F59E0B] px-2 py-0.5 rounded-full">
+                              <span className="font-mono text-[9px] bg-amber-50 text-amber-800 border border-amber-200 px-2 py-0.5 rounded-full">
                                 {college.badge}
                               </span>
                             )}
                           </div>
                         </td>
-                        <td className="py-4 px-3 text-slate-400">{college.city}</td>
-                        <td className="py-4 px-3 font-semibold text-[#00FF88]">{college.avgPlacement}</td>
+                        <td className="py-4 px-3 text-slate-500">{college.city}</td>
+                        <td className="py-4 px-3 font-semibold text-emerald-700">{college.avgPlacement}</td>
                         <td className="py-4 px-3 line-through text-slate-400 font-mono">₹{college.officialFee}</td>
-                        <td className="py-4 px-3 font-bold text-white text-sm font-mono">
+                        <td className="py-4 px-3 font-bold text-[#0F1026] text-sm font-mono">
                           {college.discountNote ? (
-                            <span className="text-[#00FF88] text-xs">Profile-Based</span>
+                            <span className="text-emerald-700 text-xs">Profile-Based</span>
                           ) : college.discountedFee === 0 ? (
-                            <span className="text-[#00FF88] font-bold">FREE (₹0)</span>
+                            <span className="text-emerald-700 font-bold">FREE (₹0)</span>
                           ) : (
                             `₹${college.discountedFee}`
                           )}
                         </td>
                         <td className="py-4 px-3">
-                          <span className="font-mono bg-[#00FF88]/10 text-[#00FF88] px-2.5 py-1 rounded-lg font-bold">
+                          <span className="font-mono bg-emerald-50 text-emerald-700 border border-emerald-200 px-2.5 py-1 rounded-lg font-bold">
                             {college.discountNote || `${college.discountPercent}% OFF`}
                           </span>
                         </td>
                         <td className="py-4 px-5 text-right">
                           <button
                             onClick={() => handleOpenSingleModal(college)}
-                            className="px-4 py-2 bg-[#00FF88] hover:bg-[#00e67a] text-black font-display font-extrabold rounded-xl text-xs transition-colors cursor-pointer shadow-md inline-flex items-center gap-1.5"
+                            className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-display font-extrabold rounded-xl text-xs transition-colors cursor-pointer shadow-sm inline-flex items-center gap-1.5"
                           >
                             <Ticket className="w-3.5 h-3.5" />
                             <span>Get Code</span>
@@ -559,10 +559,10 @@ export default function MbaFormDiscountCalculator() {
         )}
 
         {filteredColleges.length === 0 && (
-          <div className="text-center py-16 bg-white/[0.03] rounded-[32px] border border-white/10 p-8">
-            <Search className="w-10 h-10 text-slate-600 mx-auto mb-3" />
-            <h3 className="text-lg font-bold text-slate-300">No colleges matched your filters</h3>
-            <p className="text-sm text-slate-400 mt-1">Try searching a different city or clearing the search keyword.</p>
+          <div className="text-center py-16 bg-white rounded-[32px] border border-slate-200 p-8 shadow-sm">
+            <Search className="w-10 h-10 text-slate-400 mx-auto mb-3" />
+            <h3 className="text-lg font-bold text-[#0F1026]">No colleges matched your filters</h3>
+            <p className="text-sm text-slate-500 mt-1">Try searching a different city or clearing the search keyword.</p>
             <button
               onClick={() => {
                 setSearchQuery('');
@@ -570,7 +570,7 @@ export default function MbaFormDiscountCalculator() {
                 setSelectedCity('All');
                 setQuickFilter('all');
               }}
-              className="mt-4 px-5 py-2.5 bg-[#00FF88] hover:bg-[#00e67a] text-black font-display font-extrabold text-xs rounded-full cursor-pointer"
+              className="mt-4 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-display font-extrabold text-xs rounded-full cursor-pointer shadow-sm"
             >
               Reset All Filters
             </button>
@@ -579,18 +579,18 @@ export default function MbaFormDiscountCalculator() {
       </section>
 
       {/* ── 3. HOW TO USE DISCOUNT CODES SECTION ── */}
-      <section className="mb-16 bg-[#061124] rounded-[32px] sm:rounded-[40px] p-7 sm:p-12 border border-white/15 shadow-2xl relative overflow-hidden">
-        <div className="absolute top-[-100px] right-[-100px] w-80 h-80 rounded-full bg-[#00F0FF]/15 blur-[80px] pointer-events-none" />
+      <section className="mb-16 bg-gradient-to-br from-[#1E1B4B] via-[#4338CA] to-[#6336EA] rounded-[32px] sm:rounded-[40px] p-7 sm:p-12 text-white shadow-2xl relative overflow-hidden">
+        <div className="absolute top-[-100px] right-[-100px] w-80 h-80 rounded-full bg-cyan-400/15 blur-[80px] pointer-events-none" />
         
         <div className="text-center max-w-3xl mx-auto mb-10 relative z-10">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold uppercase tracking-wider mb-3">
-            <ShieldCheck className="w-3.5 h-3.5 text-[#00FF88]" />
+          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-white/15 border border-white/25 text-white font-mono text-xs font-bold uppercase tracking-wider mb-3">
+            <ShieldCheck className="w-3.5 h-3.5 text-[#FFD000]" />
             Zero Hidden Charges · 100% Official
           </div>
           <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-black text-white tracking-tight">
             How to Get &amp; Use Your College Application Discount Code
           </h2>
-          <p className="text-white/75 text-sm sm:text-base mt-2 leading-relaxed">
+          <p className="text-purple-100/90 text-sm sm:text-base mt-2 leading-relaxed">
             As an authorized institutional advisory portal, CareerWithMohit partners with premier AICTE/AIU approved management institutions to sponsor fee concessions and profile evaluation waivers for students.
           </p>
         </div>
@@ -618,12 +618,12 @@ export default function MbaFormDiscountCalculator() {
               desc: 'Get complementary interview kits, mock GD-PI practice sessions, and 1-on-1 strategy with mentor Mohit Jain.'
             }
           ].map((item, idx) => (
-            <div key={idx} className="bg-black/40 border border-white/10 p-5 rounded-2xl relative group hover:border-[#00FF88]/50 transition-all">
-              <div className="font-display text-3xl font-black text-white/20 group-hover:text-[#00FF88] transition-colors mb-2">
+            <div key={idx} className="bg-white/10 backdrop-blur-md border border-white/20 p-5 rounded-2xl relative group hover:bg-white/15 transition-all">
+              <div className="font-display text-3xl font-black text-white/30 group-hover:text-[#FFD000] transition-colors mb-2">
                 {item.step}
               </div>
               <h3 className="font-display text-base font-bold text-white mb-1.5">{item.title}</h3>
-              <p className="text-xs text-slate-300 leading-relaxed">{item.desc}</p>
+              <p className="text-xs text-purple-100/90 leading-relaxed">{item.desc}</p>
             </div>
           ))}
         </div>
@@ -631,8 +631,8 @@ export default function MbaFormDiscountCalculator() {
 
       {/* ── 4. INQUIRY MODAL / UNLOCK DISCOUNT CODE POPUP ── */}
       {isModalOpen && targetCollege && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/85 backdrop-blur-md overflow-y-auto">
-          <div className="bg-[#070A14] border border-white/20 rounded-[32px] p-6 sm:p-8 max-w-lg w-full shadow-[0_0_80px_rgba(0,240,255,0.15)] relative my-8 text-left max-h-[90vh] overflow-y-auto">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm overflow-y-auto">
+          <div className="bg-white border border-slate-200 rounded-[32px] p-6 sm:p-8 max-w-lg w-full shadow-2xl relative my-8 text-left max-h-[90vh] overflow-y-auto">
             
             {/* Close Button */}
             <button
@@ -641,7 +641,7 @@ export default function MbaFormDiscountCalculator() {
                 setIsSubmitted(false);
                 setTargetCollege(null);
               }}
-              className="absolute top-5 right-5 text-slate-400 hover:text-white p-1.5 rounded-full hover:bg-white/10 transition-colors cursor-pointer"
+              className="absolute top-5 right-5 text-slate-400 hover:text-slate-700 p-1.5 rounded-full hover:bg-slate-100 transition-colors cursor-pointer"
             >
               <X className="w-5 h-5" />
             </button>
@@ -649,32 +649,32 @@ export default function MbaFormDiscountCalculator() {
             {!isSubmitted ? (
               <div>
                 {/* Modal Top Header */}
-                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
-                  <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
+                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 border border-blue-200 text-blue-700 font-mono text-xs font-bold mb-2">
+                  <Sparkles className="w-3.5 h-3.5 text-amber-500" />
                   Instant Discount Code Request
                 </div>
 
-                <h3 className="font-display text-xl sm:text-2xl font-black text-white">
+                <h3 className="font-display text-xl sm:text-2xl font-black text-[#0F1026]">
                   Get Coupon Code: {targetCollege.shortName}
                 </h3>
-                <p className="text-xs text-slate-300 mt-1">
+                <p className="text-xs text-slate-600 mt-1">
                   Fill in your candidate details below to instantly unveil the official fee waiver coupon code &amp; direct portal link.
                 </p>
 
                 {/* College Voucher Card inside Modal */}
-                <div className="mt-4 bg-[#061124] p-4 rounded-2xl border border-cyan-400/30 text-xs space-y-2 shadow-inner">
+                <div className="mt-4 bg-slate-50 p-4 rounded-2xl border border-slate-200/90 text-xs space-y-2 shadow-inner">
                   <div className="flex items-center justify-between">
-                    <span className="font-display font-extrabold text-sm text-white">{targetCollege.name}</span>
-                    <span className="font-mono bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full font-black text-[11px]">
+                    <span className="font-display font-extrabold text-sm text-[#0F1026]">{targetCollege.name}</span>
+                    <span className="font-mono bg-rose-50 text-rose-700 border border-rose-200 px-2 py-0.5 rounded-full font-black text-[11px]">
                       {targetCollege.discountNote || `${targetCollege.discountPercent}% OFF`}
                     </span>
                   </div>
-                  <div className="text-[11px] text-slate-400 mt-0.5 font-mono">{targetCollege.location}</div>
+                  <div className="text-[11px] text-slate-500 mt-0.5 font-mono">{targetCollege.location}</div>
                   
-                  <div className="mt-2.5 pt-2 border-t border-white/10 flex items-center justify-between">
+                  <div className="mt-2.5 pt-2 border-t border-slate-200 flex items-center justify-between">
                     <div>
                       <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
-                      <div className="font-display text-base font-black text-[#00FF88]">
+                      <div className="font-display text-base font-black text-blue-700">
                         {targetCollege.discountNote
                           ? 'Discount: Depends on Profile'
                           : targetCollege.discountedFee === 0
@@ -683,7 +683,7 @@ export default function MbaFormDiscountCalculator() {
                       </div>
                     </div>
                     <div className="text-right">
-                      <span className="font-mono text-[11px] text-[#00FF88] bg-[#00FF88]/10 px-2.5 py-1 rounded-lg font-bold">
+                      <span className="font-mono text-[11px] text-emerald-700 bg-emerald-50 border border-emerald-200 px-2.5 py-1 rounded-lg font-bold">
                         {targetCollege.discountNote ? 'Profile Concession' : `You Save ₹${targetCollege.savings}`}
                       </span>
                     </div>
@@ -693,7 +693,7 @@ export default function MbaFormDiscountCalculator() {
                 {/* Inquiry Lead Form */}
                 <form onSubmit={handleLeadSubmit} className="mt-5 space-y-3.5">
                   <div>
-                    <label className="block text-xs font-bold text-slate-300 mb-1">
+                    <label className="block text-xs font-bold text-slate-700 mb-1">
                       Candidate Full Name *
                     </label>
                     <input
@@ -702,13 +702,13 @@ export default function MbaFormDiscountCalculator() {
                       placeholder="e.g. Rahul Sharma"
                       value={formData.name}
                       onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                      className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
+                      className="w-full px-3.5 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-[#0F1026] placeholder:text-slate-400 focus:bg-white focus:outline-none focus:border-blue-600"
                     />
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <div>
-                      <label className="block text-xs font-bold text-slate-300 mb-1">
+                      <label className="block text-xs font-bold text-slate-700 mb-1">
                         WhatsApp Number *
                       </label>
                       <input
@@ -717,11 +717,11 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="10-digit mobile"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
+                        className="w-full px-3.5 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-[#0F1026] placeholder:text-slate-400 focus:bg-white focus:outline-none focus:border-blue-600"
                       />
                     </div>
                     <div>
-                      <label className="block text-xs font-bold text-slate-300 mb-1">
+                      <label className="block text-xs font-bold text-slate-700 mb-1">
                         Email Address
                       </label>
                       <input
@@ -729,14 +729,14 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="name@gmail.com"
                         value={formData.email}
                         onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
+                        className="w-full px-3.5 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-[#0F1026] placeholder:text-slate-400 focus:bg-white focus:outline-none focus:border-blue-600"
                       />
                     </div>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <div>
-                      <label className="block text-xs font-bold text-slate-300 mb-1">
+                      <label className="block text-xs font-bold text-slate-700 mb-1">
                         Current City *
                       </label>
                       <input
@@ -745,11 +745,11 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="e.g. Delhi, Pune, Patna"
                         value={formData.city}
                         onChange={(e) => setFormData({ ...formData, city: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
+                        className="w-full px-3.5 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-[#0F1026] placeholder:text-slate-400 focus:bg-white focus:outline-none focus:border-blue-600"
                       />
                     </div>
                     <div>
-                      <label className="block text-xs font-bold text-slate-300 mb-1">
+                      <label className="block text-xs font-bold text-slate-700 mb-1">
                         Target Exam / %ile
                       </label>
                       <input
@@ -757,7 +757,7 @@ export default function MbaFormDiscountCalculator() {
                         placeholder="e.g. CAT 75% / MAT / CMAT"
                         value={formData.score}
                         onChange={(e) => setFormData({ ...formData, score: e.target.value })}
-                        className="w-full px-3.5 py-2.5 bg-white/[0.05] border border-white/15 rounded-xl text-xs text-white placeholder:text-slate-500 focus:outline-none focus:border-[#00FF88]"
+                        className="w-full px-3.5 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-[#0F1026] placeholder:text-slate-400 focus:bg-white focus:outline-none focus:border-blue-600"
                       />
                     </div>
                   </div>
@@ -765,15 +765,15 @@ export default function MbaFormDiscountCalculator() {
                   <button
                     type="submit"
                     disabled={isSubmitting}
-                    className="w-full mt-4 py-3.5 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 text-black font-display font-black text-sm rounded-xl shadow-[0_0_20px_rgba(0,255,136,0.3)] transition-all flex items-center justify-center gap-2 cursor-pointer"
+                    className="w-full mt-4 py-3.5 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-display font-black text-sm rounded-xl shadow-md shadow-blue-500/25 transition-all flex items-center justify-center gap-2 cursor-pointer"
                   >
                     {isSubmitting ? (
                       <span>Unlocking Coupon Code...</span>
                     ) : (
                       <>
-                        <Ticket className="w-4 h-4" />
+                        <Ticket className="w-4 h-4 text-white" />
                         <span>Unlock Coupon Code &amp; Direct Apply Link</span>
-                        <ArrowRight className="w-4 h-4" />
+                        <ArrowRight className="w-4 h-4 text-white" />
                       </>
                     )}
                   </button>
@@ -782,37 +782,37 @@ export default function MbaFormDiscountCalculator() {
             ) : (
               /* Success / Unveiled Code View */
               <div className="text-center py-2 space-y-4">
-                <div className="w-16 h-16 rounded-full bg-[#00FF88]/20 border-2 border-[#00FF88] flex items-center justify-center mx-auto text-[#00FF88] shadow-[0_0_30px_rgba(0,255,136,0.35)] animate-pulse">
+                <div className="w-16 h-16 rounded-full bg-emerald-50 border-2 border-emerald-500 flex items-center justify-center mx-auto text-emerald-600 shadow-sm animate-pulse">
                   <CheckCheck className="w-9 h-9 stroke-[3]" />
                 </div>
 
                 <div>
-                  <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-[#00FF88]/15 border border-[#00FF88]/30 text-[#00FF88] font-mono text-xs font-bold mb-2">
-                    <Sparkles className="w-3.5 h-3.5 text-[#F59E0B]" />
+                  <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 font-mono text-xs font-bold mb-2">
+                    <Sparkles className="w-3.5 h-3.5 text-amber-500" />
                     Code Unlocked Successfully!
                   </div>
-                  <h3 className="font-display text-2xl sm:text-3xl font-black text-white">
+                  <h3 className="font-display text-2xl sm:text-3xl font-black text-[#0F1026]">
                     Here is your Discount Code
                   </h3>
-                  <p className="text-xs sm:text-sm text-slate-300 mt-1 max-w-sm mx-auto">
-                    Use this official institutional code on the <strong className="text-white">{targetCollege.name}</strong> portal.
+                  <p className="text-xs sm:text-sm text-slate-600 mt-1 max-w-sm mx-auto">
+                    Use this official institutional code on the <strong className="text-[#0F1026]">{targetCollege.name}</strong> portal.
                   </p>
                 </div>
 
                 {/* Single Code Revealed Box */}
-                <div className="bg-[#061124] border-2 border-[#00FF88]/60 rounded-2xl p-4 sm:p-5 text-center space-y-3 shadow-[0_0_35px_rgba(0,255,136,0.2)] relative overflow-hidden">
-                  <div className="font-mono text-[11px] text-[#00FF88] uppercase tracking-widest font-bold flex items-center justify-center gap-1.5">
-                    <Tag className="w-3.5 h-3.5 text-[#00FF88]" /> Official Application Voucher Code
+                <div className="bg-blue-50/60 border-2 border-blue-200 rounded-2xl p-4 sm:p-5 text-center space-y-3 shadow-sm relative overflow-hidden">
+                  <div className="font-mono text-[11px] text-blue-700 uppercase tracking-widest font-bold flex items-center justify-center gap-1.5">
+                    <Tag className="w-3.5 h-3.5 text-blue-600" /> Official Application Voucher Code
                   </div>
                   
                   <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
-                    <span className="text-2xl sm:text-3xl font-mono font-black text-[#00FF88] tracking-widest bg-black/70 px-5 py-2.5 rounded-xl border border-[#00FF88]/40 shadow-inner select-all w-full sm:w-auto">
+                    <span className="text-2xl sm:text-3xl font-mono font-black text-blue-700 tracking-widest bg-white px-5 py-2.5 rounded-xl border border-blue-200 shadow-xs select-all w-full sm:w-auto">
                       {getCollegeCode(targetCollege)}
                     </span>
                     <button
                       type="button"
                       onClick={() => handleCopyCode(getCollegeCode(targetCollege))}
-                      className="w-full sm:w-auto px-5 py-3 bg-gradient-to-r from-[#00FF88] to-[#00F0FF] hover:brightness-110 active:scale-95 text-black font-display font-black rounded-xl text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer shadow-lg"
+                      className="w-full sm:w-auto px-5 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 active:scale-95 text-white font-display font-black rounded-xl text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer shadow-md shadow-blue-500/20"
                     >
                       {copiedCode === getCollegeCode(targetCollege) ? (
                         <>
@@ -829,22 +829,22 @@ export default function MbaFormDiscountCalculator() {
                   </div>
 
                   <div className="pt-1 flex items-center justify-center gap-2 flex-wrap font-mono text-xs">
-                    <span className="text-slate-400">Official Fee: <span className="line-through">₹{targetCollege.officialFee.toLocaleString()}</span></span>
+                    <span className="text-slate-500">Official Fee: <span className="line-through">₹{targetCollege.officialFee.toLocaleString()}</span></span>
                     {targetCollege.discountNote ? (
-                      <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2.5 py-1 rounded-md text-xs">
+                      <span className="bg-emerald-100 text-emerald-800 font-bold px-2.5 py-1 rounded-md text-xs">
                         Profile Evaluation Waiver (Up to 100% OFF)
                       </span>
                     ) : targetCollege.discountedFee === 0 ? (
                       <>
-                        <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">FREE (₹0)</span></span>
-                        <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                        <span className="text-slate-900 font-bold">Discounted Fee: <span className="text-emerald-700 font-black">FREE (₹0)</span></span>
+                        <span className="bg-emerald-100 text-emerald-800 font-bold px-2 py-0.5 rounded-md text-[11px]">
                           Saved ₹{targetCollege.savings.toLocaleString()} (100% OFF)
                         </span>
                       </>
                     ) : (
                       <>
-                        <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
-                        <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                        <span className="text-slate-900 font-bold">Discounted Fee: <span className="text-blue-700 font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
+                        <span className="bg-emerald-100 text-emerald-800 font-bold px-2 py-0.5 rounded-md text-[11px]">
                           Saved ₹{targetCollege.savings.toLocaleString()} ({targetCollege.discountPercent}% OFF)
                         </span>
                       </>
@@ -853,12 +853,12 @@ export default function MbaFormDiscountCalculator() {
                 </div>
 
                 {/* How to Apply Instructions */}
-                <div className="bg-cyan-950/30 border border-cyan-800/30 p-3.5 rounded-2xl text-left text-xs text-cyan-200 space-y-1.5">
-                  <div className="font-bold text-white flex items-center gap-1.5 font-mono text-xs">
-                    <Info className="w-4 h-4 text-[#00F0FF]" /> 3 Simple Steps to Apply:
+                <div className="bg-slate-50 border border-slate-200 p-3.5 rounded-2xl text-left text-xs text-slate-700 space-y-1.5">
+                  <div className="font-bold text-[#0F1026] flex items-center gap-1.5 font-mono text-xs">
+                    <Info className="w-4 h-4 text-blue-600" /> 3 Simple Steps to Apply:
                   </div>
-                  <ol className="list-decimal list-inside text-xs text-slate-300 space-y-1 leading-relaxed">
-                    <li>Copy your discount code: <strong className="text-[#00FF88] font-mono">{getCollegeCode(targetCollege)}</strong></li>
+                  <ol className="list-decimal list-inside text-xs text-slate-600 space-y-1 leading-relaxed">
+                    <li>Copy your discount code: <strong className="text-blue-700 font-mono">{getCollegeCode(targetCollege)}</strong></li>
                     <li>Click the green WhatsApp button below to ask for the direct application portal link or instant verification.</li>
                     <li>
                       {targetCollege.discountNote
@@ -877,7 +877,7 @@ export default function MbaFormDiscountCalculator() {
                     href={generateSingleWhatsAppUrl(targetCollege)}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center gap-2.5 w-full py-3.5 bg-[#25D366] hover:bg-[#20bd5a] text-black font-display font-black text-sm rounded-xl shadow-[0_0_30px_rgba(37,211,102,0.35)] transition-all cursor-pointer"
+                    className="inline-flex items-center justify-center gap-2.5 w-full py-3.5 bg-[#25D366] hover:bg-[#20bd5a] text-black font-display font-black text-sm rounded-xl shadow-md transition-all cursor-pointer"
                   >
                     <MessageCircle className="w-5 h-5 fill-black text-[#25D366]" />
                     <span>Ask Coupon Code &amp; Apply Link on WhatsApp</span>
@@ -889,9 +889,9 @@ export default function MbaFormDiscountCalculator() {
                       href={targetCollege.applyUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center justify-center gap-2 w-full py-3 bg-white/10 hover:bg-white/20 text-white font-display font-bold text-xs rounded-xl border border-white/15 transition-all cursor-pointer"
+                      className="inline-flex items-center justify-center gap-2 w-full py-3 bg-slate-100 hover:bg-slate-200 text-slate-800 font-display font-bold text-xs rounded-xl border border-slate-200 transition-all cursor-pointer"
                     >
-                      <ExternalLink className="w-4 h-4 text-[#00F0FF]" />
+                      <ExternalLink className="w-4 h-4 text-blue-600" />
                       <span>Open Official {targetCollege.shortName} Application Portal</span>
                     </a>
                   )}
@@ -904,16 +904,16 @@ export default function MbaFormDiscountCalculator() {
                       setIsSubmitted(false);
                       setTargetCollege(null);
                     }}
-                    className="w-full py-2.5 bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white font-medium text-xs rounded-xl transition-all cursor-pointer border border-white/10"
+                    className="w-full py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium text-xs rounded-xl transition-all cursor-pointer border border-slate-200"
                   >
                     Get Discount Code for Another College
                   </button>
                 </div>
 
-                <div className="pt-2 border-t border-white/10">
+                <div className="pt-2 border-t border-slate-100">
                   <Link
                     href="/book-session/"
-                    className="inline-flex items-center justify-center gap-1.5 text-xs text-cyan-300 hover:text-cyan-200 underline underline-offset-4"
+                    className="inline-flex items-center justify-center gap-1.5 text-xs text-blue-600 hover:text-blue-800 underline underline-offset-4 font-medium"
                   >
                     <span>Need GD-PI or College Selection Guidance? Book Free 1-on-1 Mentorship</span>
                     <ArrowRight className="w-3.5 h-3.5" />
