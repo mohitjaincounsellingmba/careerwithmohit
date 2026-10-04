@@ -116,7 +116,7 @@ const jsonLd = {
           name: 'Are all listed PGDM and MBA colleges approved by AICTE or UGC?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'Yes, all 55 listed business schools in Delhi NCR, Gurgaon, Pune, Mumbai, and Bangalore are officially approved by AICTE or UGC.',
+            text: 'Yes, all listed business schools in Delhi NCR, Gurgaon, Pune, Mumbai, and Bangalore are officially approved by AICTE or UGC.',
           },
         },
         {

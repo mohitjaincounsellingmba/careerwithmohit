@@ -13,12 +13,12 @@ import { submitLead } from '@/lib/leads';
 
 // Location filters with sub-region grouping
 const LOCATION_FILTERS = [
-  { label: 'All Hubs', value: 'All', count: 55 },
-  { label: 'Delhi NCR', value: 'delhi-ncr', count: 26 },
+  { label: 'All Hubs', value: 'All', count: 53 },
+  { label: 'Delhi NCR', value: 'delhi-ncr', count: 24 },
   { label: 'South Delhi', value: 'South Delhi', count: 5 },
   { label: 'West / Central Delhi', value: 'west-central-delhi', count: 4 },
-  { label: 'Noida / Gr. Noida', value: 'noida-gr-noida', count: 14 },
-  { label: 'Gurgaon', value: 'Gurgaon', count: 7 },
+  { label: 'Noida / Gr. Noida', value: 'noida-gr-noida', count: 13 },
+  { label: 'Gurgaon', value: 'Gurgaon', count: 6 },
   { label: 'Pune', value: 'Pune', count: 8 },
   { label: 'Bangalore', value: 'Bangalore', count: 7 },
   { label: 'Mumbai', value: 'Mumbai', count: 6 },
