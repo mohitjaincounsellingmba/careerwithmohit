@@ -692,10 +692,16 @@ export default function MbaApplicationFormDiscountPage() {
                       <td className="py-3 px-3 text-slate-400">{c.city}</td>
                       <td className="py-3 px-3 line-through text-slate-400">₹{c.officialFee}</td>
                       <td className="py-3 px-3 text-white font-bold">
-                        {c.discountNote ? <span className="text-[#00FF88]">Profile-Based</span> : `₹${c.discountedFee}`}
+                        {c.discountNote ? (
+                          <span className="text-[#00FF88]">Profile-Based</span>
+                        ) : c.discountedFee === 0 ? (
+                          <span className="text-[#00FF88] font-bold">FREE (₹0)</span>
+                        ) : (
+                          `₹${c.discountedFee}`
+                        )}
                       </td>
                       <td className="py-3 px-3 text-[#00FF88] font-bold">
-                        {c.discountNote || `${c.discountPercent}% OFF (Save ₹${c.savings})`}
+                        {c.discountNote || (c.discountPercent === 100 ? `100% OFF (Save ₹${c.savings})` : `${c.discountPercent}% OFF (Save ₹${c.savings})`)}
                       </td>
                       <td className="py-3 px-3 font-semibold text-emerald-400">{c.avgPlacement}</td>
                       <td className="py-3 px-4 text-right text-[11px] text-slate-400 truncate max-w-[180px]">

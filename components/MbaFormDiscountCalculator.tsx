@@ -161,6 +161,8 @@ export default function MbaFormDiscountCalculator() {
     const code = getCollegeCode(college);
     const discountLine = college.discountNote
       ? `*Discount:* ${college.discountNote} (Profile Evaluation Waiver)`
+      : college.discountedFee === 0
+      ? `*Discounted Fee:* FREE (₹0)%0A*Instant Savings:* ₹${college.officialFee} (100%25 OFF Full Waiver)`
       : `*Discounted Fee:* ₹${college.discountedFee}%0A*Instant Savings:* ₹${college.savings} (${college.discountPercent}%25 OFF)`;
     const msg = `Hi Mohit Sir, I want to apply for *${college.name}* with the official application discount voucher:%0A%0A*Applicant Name:* ${formData.name || 'Candidate'}%0A*WhatsApp:* ${formData.phone || 'N/A'}%0A*City:* ${formData.city || 'N/A'}%0A*Target Exam / Score:* ${formData.score || formData.exam}%0A%0A*College:* ${college.name}%0A*Official Fee:* ₹${college.officialFee}%0A${discountLine}%0A*Voucher Code:* ${code}%0A%0APlease evaluate my profile and share the direct application ERP link with free GD-PI prep.`;
     return `https://wa.me/919560020771?text=${msg}`;
@@ -455,6 +457,8 @@ export default function MbaFormDiscountCalculator() {
                         <div className="font-display text-xl font-black text-white flex items-baseline gap-1 mt-0.5">
                           {college.discountNote ? (
                             <span className="text-[#00FF88] text-base sm:text-lg">Depends on Profile</span>
+                          ) : college.discountedFee === 0 ? (
+                            <span className="text-[#00FF88] text-xl font-black">FREE (₹0)</span>
                           ) : (
                             <>
                               <span className="text-[#00FF88]">₹{college.discountedFee.toLocaleString()}</span>
@@ -523,7 +527,13 @@ export default function MbaFormDiscountCalculator() {
                         <td className="py-4 px-3 font-semibold text-[#00FF88]">{college.avgPlacement}</td>
                         <td className="py-4 px-3 line-through text-slate-400 font-mono">₹{college.officialFee}</td>
                         <td className="py-4 px-3 font-bold text-white text-sm font-mono">
-                          {college.discountNote ? <span className="text-[#00FF88] text-xs">Profile-Based</span> : `₹${college.discountedFee}`}
+                          {college.discountNote ? (
+                            <span className="text-[#00FF88] text-xs">Profile-Based</span>
+                          ) : college.discountedFee === 0 ? (
+                            <span className="text-[#00FF88] font-bold">FREE (₹0)</span>
+                          ) : (
+                            `₹${college.discountedFee}`
+                          )}
                         </td>
                         <td className="py-4 px-3">
                           <span className="font-mono bg-[#00FF88]/10 text-[#00FF88] px-2.5 py-1 rounded-lg font-bold">
@@ -665,7 +675,11 @@ export default function MbaFormDiscountCalculator() {
                     <div>
                       <span className="text-slate-400 line-through text-[11px] font-mono">Official: ₹{targetCollege.officialFee}</span>
                       <div className="font-display text-base font-black text-[#00FF88]">
-                        {targetCollege.discountNote ? 'Discount: Depends on Profile' : `Discounted Fee: ₹${targetCollege.discountedFee}`}
+                        {targetCollege.discountNote
+                          ? 'Discount: Depends on Profile'
+                          : targetCollege.discountedFee === 0
+                          ? 'Discounted Fee: FREE (₹0)'
+                          : `Discounted Fee: ₹${targetCollege.discountedFee}`}
                       </div>
                     </div>
                     <div className="text-right">
@@ -820,6 +834,13 @@ export default function MbaFormDiscountCalculator() {
                       <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2.5 py-1 rounded-md text-xs">
                         Profile Evaluation Waiver (Up to 100% OFF)
                       </span>
+                    ) : targetCollege.discountedFee === 0 ? (
+                      <>
+                        <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">FREE (₹0)</span></span>
+                        <span className="bg-[#00FF88]/15 text-[#00FF88] font-bold px-2 py-0.5 rounded-md text-[11px]">
+                          Saved ₹{targetCollege.savings.toLocaleString()} (100% OFF)
+                        </span>
+                      </>
                     ) : (
                       <>
                         <span className="text-white font-bold">Discounted Fee: <span className="text-[#00FF88] font-black">₹{targetCollege.discountedFee.toLocaleString()}</span></span>
@@ -839,7 +860,13 @@ export default function MbaFormDiscountCalculator() {
                   <ol className="list-decimal list-inside text-xs text-slate-300 space-y-1 leading-relaxed">
                     <li>Copy your discount code: <strong className="text-[#00FF88] font-mono">{getCollegeCode(targetCollege)}</strong></li>
                     <li>Click the green WhatsApp button below to ask for the direct application portal link or instant verification.</li>
-                    <li>Paste the code on the college portal form to pay only ₹{targetCollege.discountedFee.toLocaleString()}.</li>
+                    <li>
+                      {targetCollege.discountNote
+                        ? 'Enter the code during checkout or connect with the mentor desk for profile-based waiver.'
+                        : targetCollege.discountedFee === 0
+                        ? 'Paste the code on the college portal form to claim your 100% Free Application waiver (₹0 payable).'
+                        : `Paste the code on the college portal form to pay only ₹${targetCollege.discountedFee.toLocaleString()}.`}
+                    </li>
                   </ol>
                 </div>
 
