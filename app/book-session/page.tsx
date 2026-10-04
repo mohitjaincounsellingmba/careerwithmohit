@@ -129,7 +129,7 @@ export default function BookSessionPage() {
   };
 
   return (
-    <main className="min-h-screen bg-slate-50">
+    <main className="min-h-screen bg-slate-900">
       <JsonLd data={serviceSchema} />
       <BookSessionClient calendlyUrl="https://calendly.com/careerwithmohit-jain/30min" />
     </main>

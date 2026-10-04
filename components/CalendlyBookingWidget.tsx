@@ -47,7 +47,6 @@ const GOALS = [
     hint: 'Top B-school selection, cutoffs & exam strategy',
     badge: 'Most Popular',
     icon: Target,
-    color: 'blue'
   },
   { 
     id: 'shortlist-backup', 
@@ -55,7 +54,6 @@ const GOALS = [
     hint: 'Dream, Target & Safe colleges matching your score',
     badge: 'Recommended',
     icon: Building2,
-    color: 'emerald'
   },
   { 
     id: 'direct-quota', 
@@ -63,7 +61,6 @@ const GOALS = [
     hint: 'Seat matrix, institutional rounds & official fees',
     badge: 'High Intent',
     icon: ShieldCheck,
-    color: 'amber'
   },
   { 
     id: 'fees-roi', 
@@ -71,23 +68,20 @@ const GOALS = [
     hint: 'Verified median salaries & return on investment',
     badge: 'Verified Data',
     icon: TrendingUp,
-    color: 'indigo'
   },
   { 
     id: 'cat-xat-prep', 
     label: 'CAT, XAT, CMAT & NMAT Strategy', 
     hint: 'Target percentiles, timeline & exam roadmap',
-    badge: 'Exam Prep',
+    badge: 'Exam Strategy',
     icon: Award,
-    color: 'purple'
   },
   { 
     id: 'other-advisory', 
-    label: 'Online MBA / Executive / Study Abroad', 
+    label: 'Online MBA / Executive / Global Study', 
     hint: 'Work-ex profiles, executive & global options',
     badge: 'Global / Online',
     icon: Globe,
-    color: 'cyan'
   },
 ];
 
@@ -244,7 +238,7 @@ export function CalendlyBookingWidget({
     setIsSubmittingLead(true);
 
     try {
-      // 1. Immediately log lead into Firebase / Activepieces webhook / Google Sheets
+      // 1. Immediately log lead into Firebase / Activepieces webhook
       await submitLead({
         name: cleanName,
         number: cleanPhone,
@@ -284,7 +278,6 @@ export function CalendlyBookingWidget({
 
     } catch (err: any) {
       console.warn('Lead submission warning:', err);
-      // Still allow student to proceed to Calendly calendar
       const fallbackUrl = buildEmbedUrl(cleanName, email, selectedGoal, targetColleges, selectedBudget, selectedExam);
       setEmbedUrl(fallbackUrl);
       setIsLoading(true);
@@ -324,8 +317,8 @@ export function CalendlyBookingWidget({
   return (
     <div className={`space-y-6 ${className}`} id="booking-widget-container">
       
-      {/* Visual Step Tracker & Estimated Time Badge */}
-      <div className="bg-white rounded-2xl p-3.5 sm:p-4 border border-slate-200/90 shadow-sm">
+      {/* Visual Step Tracker */}
+      <div className="bg-slate-800/90 rounded-2xl p-3.5 sm:p-4 border border-slate-700/80 shadow-md">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
           
           {/* Steps Progress Tabs */}
@@ -336,23 +329,23 @@ export function CalendlyBookingWidget({
               onClick={() => {
                 if (isStepConfirmed) setIsStepConfirmed(false);
               }}
-              className={`flex-1 sm:flex-none flex items-center gap-2 px-3 py-2 rounded-xl text-left transition-all ${
+              className={`flex-1 sm:flex-none flex items-center gap-2 px-3.5 py-2 rounded-xl text-left transition-all ${
                 !isStepConfirmed 
-                  ? 'bg-blue-600 text-white shadow-sm font-bold ring-2 ring-blue-500/20' 
-                  : 'bg-emerald-50 text-emerald-800 border border-emerald-200 hover:bg-emerald-100/70 font-semibold cursor-pointer'
+                  ? 'bg-blue-600 text-white shadow-sm font-bold ring-2 ring-blue-400/40' 
+                  : 'bg-emerald-950/60 text-emerald-300 border border-emerald-500/40 hover:bg-emerald-900/60 font-semibold cursor-pointer'
               }`}
             >
               <span className={`w-5 h-5 rounded-full flex items-center justify-center text-[11px] font-black shrink-0 ${
-                !isStepConfirmed ? 'bg-white text-blue-600' : 'bg-emerald-600 text-white'
+                !isStepConfirmed ? 'bg-white text-blue-600' : 'bg-emerald-500 text-slate-900'
               }`}>
                 {isStepConfirmed ? <Check className="w-3.5 h-3.5 stroke-[3]" /> : '1'}
               </span>
               <span className="text-xs">
-                {isStepConfirmed ? 'Profile Saved' : '1. Your Profile & Goals'}
+                {isStepConfirmed ? 'Profile Saved' : '1. Profile & Target'}
               </span>
             </button>
 
-            <ChevronRight className="w-4 h-4 text-slate-300 shrink-0 hidden sm:block" />
+            <ChevronRight className="w-4 h-4 text-slate-600 shrink-0 hidden sm:block" />
 
             {/* Step 2 Button */}
             <button
@@ -360,14 +353,14 @@ export function CalendlyBookingWidget({
               onClick={() => {
                 if (!isStepConfirmed) handleDirectCalendarView();
               }}
-              className={`flex-1 sm:flex-none flex items-center gap-2 px-3 py-2 rounded-xl text-left transition-all cursor-pointer ${
+              className={`flex-1 sm:flex-none flex items-center gap-2 px-3.5 py-2 rounded-xl text-left transition-all cursor-pointer ${
                 isStepConfirmed 
-                  ? 'bg-blue-600 text-white shadow-sm font-bold ring-2 ring-blue-500/20' 
-                  : 'bg-slate-100/80 text-slate-600 hover:bg-slate-200/70 font-medium'
+                  ? 'bg-blue-600 text-white shadow-sm font-bold ring-2 ring-blue-400/40' 
+                  : 'bg-slate-900/80 text-slate-400 hover:text-slate-200 hover:bg-slate-750 font-medium border border-slate-700/60'
               }`}
             >
               <span className={`w-5 h-5 rounded-full flex items-center justify-center text-[11px] font-black shrink-0 ${
-                isStepConfirmed ? 'bg-white text-blue-600' : 'bg-slate-300 text-slate-700'
+                isStepConfirmed ? 'bg-white text-blue-600' : 'bg-slate-700 text-slate-300'
               }`}>
                 2
               </span>
@@ -377,12 +370,12 @@ export function CalendlyBookingWidget({
 
           {/* Time & Cost Guarantee Pill */}
           <div className="flex items-center gap-2 text-xs">
-            <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-50 text-emerald-700 font-bold border border-emerald-200 text-[11px]">
-              <Flame className="w-3.5 h-3.5 text-emerald-600" />
-              <span>Takes ~30 Seconds</span>
+            <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-950/80 text-emerald-300 font-bold border border-emerald-500/30 text-[11px]">
+              <Flame className="w-3.5 h-3.5 text-emerald-400" />
+              <span>Takes ~20 Seconds</span>
             </span>
-            <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-blue-50 text-blue-700 font-bold border border-blue-200 text-[11px]">
-              <Sparkles className="w-3 h-3 text-amber-500" />
+            <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-blue-950/80 text-blue-300 font-bold border border-blue-500/30 text-[11px]">
+              <Sparkles className="w-3 h-3 text-amber-400" />
               <span>100% Free</span>
             </span>
           </div>
@@ -392,10 +385,10 @@ export function CalendlyBookingWidget({
 
       {/* STEP 1: Interactive Goal & Profile Builder */}
       {!isStepConfirmed ? (
-        <form onSubmit={handleConfirmStep} className="bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden transition-all">
+        <form onSubmit={handleConfirmStep} className="bg-slate-800/90 rounded-3xl border border-slate-700/80 shadow-2xl overflow-hidden transition-all">
           
           {/* Card Header */}
-          <div className="bg-gradient-to-r from-[#071326] via-[#0D254C] to-[#071326] text-white p-5 sm:p-7 relative overflow-hidden">
+          <div className="bg-gradient-to-r from-[#0a152a] via-[#112448] to-[#0a152a] text-white p-5 sm:p-7 relative overflow-hidden border-b border-slate-700/60">
             <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
             
             <div className="relative z-10">
@@ -404,7 +397,7 @@ export function CalendlyBookingWidget({
                 <span>Step 1: Tell Mohit What You Need</span>
               </div>
               <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight">
-                What is your main focus for this counselling session?
+                What is your main focus for this session?
               </h2>
               <p className="text-xs sm:text-sm text-slate-300 mt-1.5 leading-relaxed max-w-2xl">
                 Select your primary goal below. Mohit will pre-load verified college cutoff sheets, median placement audits, and fee breakdown tools for your call.
@@ -416,8 +409,8 @@ export function CalendlyBookingWidget({
             
             {/* 1. Interactive Focus / Goal Cards */}
             <div>
-              <label className="block text-xs font-black text-slate-900 uppercase tracking-wider mb-2.5">
-                1. Select Counselling Objective <span className="text-rose-500">*</span>
+              <label className="block text-xs font-black text-slate-200 uppercase tracking-wider mb-2.5">
+                1. Select Counselling Objective <span className="text-rose-400">*</span>
               </label>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
                 {GOALS.map((goal) => {
@@ -430,32 +423,32 @@ export function CalendlyBookingWidget({
                       onClick={() => setSelectedGoal(goal.label)}
                       className={`relative flex items-start gap-3 p-3.5 rounded-2xl border text-left transition-all cursor-pointer group ${
                         isSelected
-                          ? 'bg-blue-50/90 border-blue-600 shadow-md ring-2 ring-blue-500/25 text-slate-900'
-                          : 'bg-slate-50/70 hover:bg-slate-100/90 border-slate-200/90 text-slate-700 hover:border-slate-300'
+                          ? 'bg-blue-950/80 border-blue-500 shadow-md ring-2 ring-blue-500/30 text-white'
+                          : 'bg-slate-900/70 hover:bg-slate-900 border-slate-700 text-slate-300 hover:border-slate-600'
                       }`}
                     >
                       <div className={`w-8 h-8 rounded-xl flex items-center justify-center shrink-0 mt-0.5 transition-all ${
                         isSelected 
                           ? 'bg-blue-600 text-white shadow-sm scale-105' 
-                          : 'bg-white border border-slate-200 text-slate-500 group-hover:text-blue-600'
+                          : 'bg-slate-800 border border-slate-700 text-slate-400 group-hover:text-blue-400'
                       }`}>
                         <Icon className="w-4 h-4" />
                       </div>
 
                       <div className="flex-1 min-w-0 pr-1">
                         <div className="flex items-center justify-between gap-1">
-                          <span className={`text-xs font-bold leading-tight ${isSelected ? 'text-blue-950 font-black' : 'text-slate-800'}`}>
+                          <span className={`text-xs font-bold leading-tight ${isSelected ? 'text-white font-black' : 'text-slate-200'}`}>
                             {goal.label}
                           </span>
                         </div>
-                        <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+                        <p className="text-[11px] text-slate-400 mt-0.5 leading-snug">
                           {goal.hint}
                         </p>
                         {goal.badge && (
                           <span className={`inline-block mt-1.5 text-[9px] font-extrabold px-2 py-0.5 rounded-md ${
                             isSelected 
-                              ? 'bg-blue-200/70 text-blue-900' 
-                              : 'bg-amber-100 text-amber-900 border border-amber-200/80'
+                              ? 'bg-blue-600/40 text-blue-200 border border-blue-400/40' 
+                              : 'bg-amber-500/20 text-amber-300 border border-amber-400/30'
                           }`}>
                             {goal.badge}
                           </span>
@@ -463,7 +456,7 @@ export function CalendlyBookingWidget({
                       </div>
 
                       <div className={`w-4 h-4 rounded-full border flex items-center justify-center shrink-0 mt-1 ${
-                        isSelected ? 'border-blue-600 bg-blue-600 text-white' : 'border-slate-300 bg-white'
+                        isSelected ? 'border-blue-500 bg-blue-600 text-white' : 'border-slate-600 bg-slate-800'
                       }`}>
                         {isSelected && <Check className="w-2.5 h-2.5 stroke-[3]" />}
                       </div>
@@ -474,20 +467,20 @@ export function CalendlyBookingWidget({
             </div>
 
             {/* 2. Interactive Profile Chips (Fast 1-Click Pickers) */}
-            <div className="bg-slate-50/80 rounded-2xl p-4 sm:p-5 border border-slate-200/90 space-y-4">
+            <div className="bg-slate-900/80 rounded-2xl p-4 sm:p-5 border border-slate-700/80 space-y-4">
               <div className="flex items-center justify-between">
-                <span className="text-xs font-black text-slate-900 uppercase tracking-wide flex items-center gap-1.5">
-                  <Target className="w-3.5 h-3.5 text-blue-600" />
-                  <span>2. Quick Profile Snapshot (Helps Mohit Prepare)</span>
+                <span className="text-xs font-black text-slate-200 uppercase tracking-wide flex items-center gap-1.5">
+                  <Target className="w-3.5 h-3.5 text-blue-400" />
+                  <span>2. Quick Profile Snapshot</span>
                 </span>
-                <span className="text-[10px] font-bold text-slate-500 bg-white px-2 py-0.5 rounded-md border border-slate-200">
+                <span className="text-[10px] font-bold text-slate-400 bg-slate-800 px-2 py-0.5 rounded-md border border-slate-700">
                   Instant 1-Click
                 </span>
               </div>
 
               {/* Target Intake Year */}
               <div>
-                <label className="block text-[11px] font-bold text-slate-600 mb-1.5">
+                <label className="block text-[11px] font-bold text-slate-400 mb-1.5">
                   Target Admission Year:
                 </label>
                 <div className="flex flex-wrap gap-1.5">
@@ -499,7 +492,7 @@ export function CalendlyBookingWidget({
                       className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
                         intakeYear === yr
                           ? 'bg-blue-600 text-white shadow-xs'
-                          : 'bg-white hover:bg-slate-100 text-slate-700 border border-slate-200'
+                          : 'bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700'
                       }`}
                     >
                       {yr}
@@ -510,7 +503,7 @@ export function CalendlyBookingWidget({
 
               {/* Target Exam */}
               <div>
-                <label className="block text-[11px] font-bold text-slate-600 mb-1.5">
+                <label className="block text-[11px] font-bold text-slate-400 mb-1.5">
                   Primary Target Exam / Status:
                 </label>
                 <div className="flex flex-wrap gap-1.5">
@@ -522,7 +515,7 @@ export function CalendlyBookingWidget({
                       className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
                         selectedExam === ex
                           ? 'bg-blue-600 text-white shadow-xs'
-                          : 'bg-white hover:bg-slate-100 text-slate-700 border border-slate-200'
+                          : 'bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700'
                       }`}
                     >
                       {ex}
@@ -533,7 +526,7 @@ export function CalendlyBookingWidget({
 
               {/* Budget Range */}
               <div>
-                <label className="block text-[11px] font-bold text-slate-600 mb-1.5">
+                <label className="block text-[11px] font-bold text-slate-400 mb-1.5">
                   Preferred Total MBA Budget (Fees + Living):
                 </label>
                 <div className="flex flex-wrap gap-1.5">
@@ -545,7 +538,7 @@ export function CalendlyBookingWidget({
                       className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
                         selectedBudget === b
                           ? 'bg-emerald-600 text-white shadow-xs'
-                          : 'bg-white hover:bg-slate-100 text-slate-700 border border-slate-200'
+                          : 'bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700'
                       }`}
                     >
                       {b}
@@ -556,7 +549,7 @@ export function CalendlyBookingWidget({
 
               {/* Preferred Region */}
               <div>
-                <label className="block text-[11px] font-bold text-slate-600 mb-1.5">
+                <label className="block text-[11px] font-bold text-slate-400 mb-1.5">
                   Preferred College Location / City:
                 </label>
                 <div className="flex flex-wrap gap-1.5">
@@ -568,7 +561,7 @@ export function CalendlyBookingWidget({
                       className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
                         selectedRegion === r
                           ? 'bg-indigo-600 text-white shadow-xs'
-                          : 'bg-white hover:bg-slate-100 text-slate-700 border border-slate-200'
+                          : 'bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700'
                       }`}
                     >
                       {r}
@@ -579,13 +572,13 @@ export function CalendlyBookingWidget({
             </div>
 
             {/* 3. Contact Details Card */}
-            <div className="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/90 shadow-sm space-y-4">
+            <div className="bg-slate-900/80 rounded-2xl p-4 sm:p-5 border border-slate-700/80 space-y-4">
               <div className="flex items-center justify-between">
-                <span className="text-xs font-black text-slate-900 uppercase tracking-wide flex items-center gap-1.5">
-                  <User className="w-3.5 h-3.5 text-blue-600" />
+                <span className="text-xs font-black text-slate-200 uppercase tracking-wide flex items-center gap-1.5">
+                  <User className="w-3.5 h-3.5 text-blue-400" />
                   <span>3. Where Should We Send Your Google Meet Link?</span>
                 </span>
-                <span className="text-[11px] text-emerald-700 font-bold bg-emerald-50 px-2.5 py-0.5 rounded-full border border-emerald-200 flex items-center gap-1">
+                <span className="text-[11px] text-emerald-300 font-bold bg-emerald-950/80 px-2.5 py-0.5 rounded-full border border-emerald-500/30 flex items-center gap-1">
                   <ShieldCheck className="w-3 h-3" />
                   <span>100% Spam-Free</span>
                 </span>
@@ -594,29 +587,29 @@ export function CalendlyBookingWidget({
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
                 {/* Full Name */}
                 <div>
-                  <label className="block text-xs font-bold text-slate-800 mb-1">
-                    Your Full Name <span className="text-rose-500">*</span>
+                  <label className="block text-xs font-bold text-slate-300 mb-1">
+                    Your Full Name <span className="text-rose-400">*</span>
                   </label>
                   <div className="relative">
-                    <User className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <User className="w-4 h-4 text-slate-500 absolute left-3.5 top-3 pointer-events-none" />
                     <input
                       type="text"
                       required
                       placeholder="e.g. Rahul Sharma"
                       value={name}
                       onChange={(e) => setName(e.target.value)}
-                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-50/70 border border-slate-200 rounded-xl focus:bg-white focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900 font-medium"
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-800 border border-slate-700 rounded-xl focus:bg-slate-750 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 outline-none transition-all placeholder:text-slate-500 text-white font-medium"
                     />
                   </div>
                 </div>
 
                 {/* WhatsApp Mobile */}
                 <div>
-                  <label className="block text-xs font-bold text-slate-800 mb-1">
-                    WhatsApp Mobile Number <span className="text-rose-500">*</span>
+                  <label className="block text-xs font-bold text-slate-300 mb-1">
+                    WhatsApp Mobile Number <span className="text-rose-400">*</span>
                   </label>
                   <div className="relative flex">
-                    <span className="inline-flex items-center px-3 rounded-l-xl border border-r-0 border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+                    <span className="inline-flex items-center px-3 rounded-l-xl border border-r-0 border-slate-700 bg-slate-800 text-slate-300 text-xs font-bold">
                       🇮🇳 +91
                     </span>
                     <input
@@ -626,44 +619,44 @@ export function CalendlyBookingWidget({
                       placeholder="10-digit mobile number"
                       value={phone}
                       onChange={(e) => setPhone(e.target.value.replace(/\D/g, ''))}
-                      className="w-full px-3.5 py-2.5 text-xs bg-slate-50/70 border border-slate-200 rounded-r-xl focus:bg-white focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900 font-medium"
+                      className="w-full px-3.5 py-2.5 text-xs bg-slate-800 border border-slate-700 rounded-r-xl focus:bg-slate-750 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 outline-none transition-all placeholder:text-slate-500 text-white font-medium"
                     />
                   </div>
-                  <p className="text-[10px] text-slate-500 mt-1">
-                    Your video link, calendar invite &amp; reminders will be sent to WhatsApp.
+                  <p className="text-[10px] text-slate-400 mt-1">
+                    Your Google Meet link, calendar invite &amp; reminders will be sent to WhatsApp.
                   </p>
                 </div>
 
                 {/* Optional Email */}
                 <div>
-                  <label className="block text-xs font-bold text-slate-800 mb-1">
-                    Email Address <span className="text-slate-400 font-normal">(For Google Calendar)</span>
+                  <label className="block text-xs font-bold text-slate-300 mb-1">
+                    Email Address <span className="text-slate-500 font-normal">(For Google Calendar)</span>
                   </label>
                   <div className="relative">
-                    <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <Mail className="w-4 h-4 text-slate-500 absolute left-3.5 top-3 pointer-events-none" />
                     <input
                       type="email"
                       placeholder="e.g. rahul.sharma@gmail.com"
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
-                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-50/70 border border-slate-200 rounded-xl focus:bg-white focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900"
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-800 border border-slate-700 rounded-xl focus:bg-slate-750 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 outline-none transition-all placeholder:text-slate-500 text-white"
                     />
                   </div>
                 </div>
 
                 {/* Target Colleges / Specific Queries */}
                 <div>
-                  <label className="block text-xs font-bold text-slate-800 mb-1">
-                    Target Colleges or Doubts <span className="text-slate-400 font-normal">(Optional)</span>
+                  <label className="block text-xs font-bold text-slate-300 mb-1">
+                    Target Colleges or Doubts <span className="text-slate-500 font-normal">(Optional)</span>
                   </label>
                   <div className="relative">
-                    <School className="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none" />
+                    <School className="w-4 h-4 text-slate-500 absolute left-3.5 top-3 pointer-events-none" />
                     <input
                       type="text"
-                      placeholder="e.g. SIBM, TAPMI, Great Lakes, or Direct Quota query"
+                      placeholder="e.g. SIBM, TAPMI, Great Lakes, or Direct Quota"
                       value={targetColleges}
                       onChange={(e) => setTargetColleges(e.target.value)}
-                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-50/70 border border-slate-200 rounded-xl focus:bg-white focus:border-blue-600 focus:ring-2 focus:ring-blue-500/15 outline-none transition-all placeholder:text-slate-400 text-slate-900"
+                      className="w-full pl-10 pr-3.5 py-2.5 text-xs bg-slate-800 border border-slate-700 rounded-xl focus:bg-slate-750 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 outline-none transition-all placeholder:text-slate-500 text-white"
                     />
                   </div>
                 </div>
@@ -675,16 +668,16 @@ export function CalendlyBookingWidget({
                   type="checkbox"
                   checked={parentJoining}
                   onChange={(e) => setParentJoining(e.target.checked)}
-                  className="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500"
+                  className="w-4 h-4 rounded border-slate-600 bg-slate-800 text-blue-600 focus:ring-blue-500"
                 />
-                <span className="text-xs text-slate-700 font-medium">
-                  👨‍👩‍👦 My parents / guardian will also join the video call (Strongly recommended for fee &amp; hostel discussions)
+                <span className="text-xs text-slate-300 font-medium">
+                  👨‍👩‍👦 My parents / guardian will also join the video call (Strongly recommended for fee &amp; loan discussions)
                 </span>
               </label>
 
               {formError && (
-                <div className="p-3 bg-rose-50 border border-rose-200 rounded-xl text-xs text-rose-700 font-semibold flex items-center gap-2 animate-shake">
-                  <AlertCircle className="w-4 h-4 shrink-0 text-rose-600" />
+                <div className="p-3 bg-rose-950/60 border border-rose-500/40 rounded-xl text-xs text-rose-300 font-semibold flex items-center gap-2">
+                  <AlertCircle className="w-4 h-4 shrink-0 text-rose-400" />
                   <span>{formError}</span>
                 </div>
               )}
@@ -698,9 +691,9 @@ export function CalendlyBookingWidget({
                 href={`https://wa.me/919560020771?text=${getWhatsAppMessage()}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-full sm:w-auto px-4 py-3 rounded-xl bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 text-xs font-bold transition-all flex items-center justify-center gap-2 cursor-pointer order-2 sm:order-1"
+                className="w-full sm:w-auto px-4 py-3 rounded-xl bg-emerald-950/70 hover:bg-emerald-900/80 text-emerald-300 border border-emerald-500/40 text-xs font-bold transition-all flex items-center justify-center gap-2 cursor-pointer order-2 sm:order-1"
               >
-                <MessageCircle className="w-4 h-4 text-emerald-600 fill-emerald-600/20" />
+                <MessageCircle className="w-4 h-4 text-emerald-400" />
                 <span>⚡ Express WhatsApp Booking (1-Tap)</span>
               </a>
 
@@ -708,7 +701,7 @@ export function CalendlyBookingWidget({
               <button
                 type="submit"
                 disabled={isSubmittingLead}
-                className="w-full sm:w-auto px-8 py-3.5 rounded-2xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 hover:from-blue-700 hover:to-indigo-700 active:scale-98 text-white text-sm font-black transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2.5 cursor-pointer disabled:opacity-75 order-1 sm:order-2"
+                className="w-full sm:w-auto px-8 py-3.5 rounded-2xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 hover:from-blue-500 hover:to-indigo-500 active:scale-98 text-white text-sm font-black transition-all shadow-lg shadow-blue-600/30 flex items-center justify-center gap-2.5 cursor-pointer disabled:opacity-75 order-1 sm:order-2"
               >
                 {isSubmittingLead ? (
                   <>
@@ -728,7 +721,7 @@ export function CalendlyBookingWidget({
               <button
                 type="button"
                 onClick={handleDirectCalendarView}
-                className="text-xs text-slate-500 hover:text-blue-700 hover:underline inline-flex items-center gap-1 font-medium cursor-pointer"
+                className="text-xs text-slate-400 hover:text-blue-400 hover:underline inline-flex items-center gap-1 font-medium cursor-pointer"
               >
                 <span>Or jump straight to Google Meet slot calendar view</span>
                 <ChevronRight className="w-3.5 h-3.5" />
@@ -742,17 +735,17 @@ export function CalendlyBookingWidget({
         <div 
           id="live-calendly-picker" 
           ref={calendarRef} 
-          className="relative w-full bg-white rounded-3xl border border-slate-200/90 shadow-xl overflow-hidden scroll-mt-20 transition-all"
+          className="relative w-full bg-slate-900 rounded-3xl border border-slate-700/80 shadow-2xl overflow-hidden scroll-mt-20 transition-all"
         >
           {/* Header Bar */}
-          <div className="bg-gradient-to-r from-[#071326] via-[#0D254C] to-[#071326] text-white p-4 sm:p-5 flex flex-wrap items-center justify-between gap-3">
+          <div className="bg-gradient-to-r from-[#0a152a] via-[#112448] to-[#0a152a] text-white p-4 sm:p-5 flex flex-wrap items-center justify-between gap-3 border-b border-slate-700/60">
             <div>
               <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[11px] font-bold border border-emerald-400/30 mb-1">
                 <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
                 <span>Live Google Meet Calendar</span>
               </div>
               <h3 className="text-base sm:text-lg font-black text-white">
-                Step 2: Select a Convenient Date &amp; Time
+                Step 2: Select a Date &amp; Time
               </h3>
             </div>
 
@@ -762,28 +755,28 @@ export function CalendlyBookingWidget({
               className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/20 text-xs font-semibold text-white transition-colors cursor-pointer border border-white/15"
             >
               <Edit3 className="w-3.5 h-3.5 text-blue-300" />
-              <span>Edit Profile Details</span>
+              <span>Edit Details</span>
             </button>
           </div>
 
           {/* Student Profile Snapshot Strip */}
-          <div className="bg-blue-50/90 border-b border-blue-100 px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-2 text-xs text-blue-950">
+          <div className="bg-slate-850 border-b border-slate-700/60 px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-300">
             <div className="flex items-center gap-2 flex-wrap">
-              <span className="font-bold text-blue-800">Booking for:</span>
-              <span className="font-bold text-slate-900 bg-white px-2 py-0.5 rounded border border-blue-200">{name || 'MBA Aspirant'}</span>
-              <span className="text-slate-400">•</span>
-              <span className="text-slate-700 font-semibold">{selectedGoal}</span>
-              <span className="text-slate-400">•</span>
-              <span className="text-slate-600">{selectedBudget}</span>
+              <span className="font-bold text-blue-400">Booking for:</span>
+              <span className="font-bold text-white bg-slate-800 px-2 py-0.5 rounded border border-slate-700">{name || 'MBA Aspirant'}</span>
+              <span className="text-slate-600">•</span>
+              <span className="text-slate-300 font-semibold">{selectedGoal}</span>
+              <span className="text-slate-600">•</span>
+              <span className="text-slate-400">{selectedBudget}</span>
               {phone && (
                 <>
-                  <span className="text-slate-400">•</span>
-                  <span className="text-emerald-700 font-bold">WhatsApp: +91 {phone}</span>
+                  <span className="text-slate-600">•</span>
+                  <span className="text-emerald-400 font-bold">WhatsApp: +91 {phone}</span>
                 </>
               )}
             </div>
-            <div className="flex items-center gap-2 text-[11px] font-bold text-emerald-800 bg-emerald-100/90 px-2.5 py-1 rounded-lg border border-emerald-200">
-              <Clock className="w-3.5 h-3.5 text-emerald-700" />
+            <div className="flex items-center gap-2 text-[11px] font-bold text-emerald-300 bg-emerald-950/80 px-2.5 py-1 rounded-lg border border-emerald-500/30">
+              <Clock className="w-3.5 h-3.5 text-emerald-400" />
               <span>30 Mins Video Call (₹0)</span>
             </div>
           </div>
@@ -809,17 +802,17 @@ export function CalendlyBookingWidget({
             </div>
           )}
 
-          {/* Calendly Iframe Area with Custom Loading Skeleton */}
-          <div className="relative w-full bg-white" style={{ minHeight: '700px' }}>
+          {/* Calendly Iframe Area */}
+          <div className="relative w-full bg-white rounded-b-3xl" style={{ minHeight: '700px' }}>
             {/* Loading Skeleton */}
             {isLoading && (
-              <div className="absolute inset-0 bg-white/95 z-10 flex flex-col items-center justify-center p-8 text-center">
+              <div className="absolute inset-0 bg-slate-900/95 z-10 flex flex-col items-center justify-center p-8 text-center">
                 <div className="relative flex items-center justify-center mb-4">
-                  <div className="w-14 h-14 rounded-2xl border-4 border-blue-600 border-t-transparent animate-spin" />
-                  <Video className="w-6 h-6 text-blue-600 absolute" />
+                  <div className="w-14 h-14 rounded-2xl border-4 border-blue-500 border-t-transparent animate-spin" />
+                  <Video className="w-6 h-6 text-blue-400 absolute" />
                 </div>
-                <h4 className="text-base font-bold text-slate-900">Loading Mohit&apos;s Live Calendar Slots...</h4>
-                <p className="text-xs text-slate-500 mt-1 max-w-sm">
+                <h4 className="text-base font-bold text-white">Loading Mohit&apos;s Live Calendar Slots...</h4>
+                <p className="text-xs text-slate-400 mt-1 max-w-sm">
                   Connecting to Google Meet calendar. If slots don&apos;t load in a moment, use the fullscreen button or WhatsApp express option below.
                 </p>
                 <div className="mt-4 flex items-center gap-2">
@@ -827,7 +820,7 @@ export function CalendlyBookingWidget({
                     href={embedUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="px-4 py-2 bg-blue-50 text-blue-700 border border-blue-200 rounded-xl text-xs font-bold hover:bg-blue-100 transition-all"
+                    className="px-4 py-2 bg-blue-600 text-white rounded-xl text-xs font-bold hover:bg-blue-500 transition-all shadow-sm"
                   >
                     Open Fullscreen Calendar
                   </a>
@@ -843,15 +836,15 @@ export function CalendlyBookingWidget({
               style={{ minHeight: '700px', height: iframeHeight }}
               frameBorder="0"
               title="Select a Date & Time with Mohit Jain"
-              className="w-full border-0 bg-transparent transition-opacity duration-300"
+              className="w-full border-0 bg-white transition-opacity duration-300 rounded-b-3xl"
               onLoad={() => setIsLoading(false)}
             />
           </div>
 
           {/* Post-embed Helper Notes */}
-          <div className="border-t border-slate-100 bg-slate-50/90 px-5 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-600">
+          <div className="border-t border-slate-700/60 bg-slate-900 px-5 sm:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-300">
             <div className="flex items-center gap-2">
-              <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
+              <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
               <span>Google Meet link is emailed &amp; sent on WhatsApp immediately after picking your slot.</span>
             </div>
             <div className="flex items-center gap-3">
@@ -859,17 +852,17 @@ export function CalendlyBookingWidget({
                 href={embedUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 text-blue-700 hover:text-blue-900 font-bold shrink-0 hover:underline"
+                className="inline-flex items-center gap-1 text-blue-400 hover:text-blue-300 font-bold shrink-0 hover:underline"
               >
                 <span>Open Fullscreen</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
-              <span className="text-slate-300">•</span>
+              <span className="text-slate-600">•</span>
               <a
                 href={`https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20have%20an%20urgent%20MBA%20counselling%20query%20regarding%20${encodeURIComponent(selectedGoal)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-emerald-700 hover:text-emerald-800 font-bold shrink-0 hover:underline"
+                className="inline-flex items-center gap-1.5 text-emerald-400 hover:text-emerald-300 font-bold shrink-0 hover:underline"
               >
                 <MessageCircle className="w-3.5 h-3.5" />
                 <span>Urgent? WhatsApp Us</span>
@@ -879,39 +872,39 @@ export function CalendlyBookingWidget({
         </div>
       )}
 
-      {/* Trust Mini-Cards for Student Peace of Mind */}
+      {/* Trust Mini-Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
-          <div className="w-9 h-9 rounded-xl bg-blue-50 border border-blue-200 flex items-center justify-center text-blue-600 shrink-0 mt-0.5">
+        <div className="bg-slate-800/80 p-4 rounded-2xl border border-slate-700/80 shadow-xs flex items-start gap-3">
+          <div className="w-9 h-9 rounded-xl bg-blue-500/20 border border-blue-400/30 flex items-center justify-center text-blue-400 shrink-0 mt-0.5">
             <ShieldCheck className="w-4 h-4" />
           </div>
           <div>
-            <h4 className="text-xs font-bold text-slate-900">Direct with Mohit</h4>
-            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+            <h4 className="text-xs font-bold text-white">Direct with Mohit</h4>
+            <p className="text-[11px] text-slate-400 mt-0.5 leading-snug">
               No telecallers or marketing middlemen. You speak 1-on-1 directly with Mohit Jain.
             </p>
           </div>
         </div>
 
-        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
-          <div className="w-9 h-9 rounded-xl bg-indigo-50 border border-indigo-200 flex items-center justify-center text-indigo-600 shrink-0 mt-0.5">
+        <div className="bg-slate-800/80 p-4 rounded-2xl border border-slate-700/80 shadow-xs flex items-start gap-3">
+          <div className="w-9 h-9 rounded-xl bg-indigo-500/20 border border-indigo-400/30 flex items-center justify-center text-indigo-400 shrink-0 mt-0.5">
             <Monitor className="w-4 h-4" />
           </div>
           <div>
-            <h4 className="text-xs font-bold text-slate-900">Live Screen Sharing</h4>
-            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+            <h4 className="text-xs font-bold text-white">Live Screen Sharing</h4>
+            <p className="text-[11px] text-slate-400 mt-0.5 leading-snug">
               See real cutoff sheets, fee structures &amp; placement reports live on your screen.
             </p>
           </div>
         </div>
 
-        <div className="bg-white p-4 rounded-2xl border border-slate-200/90 shadow-xs flex items-start gap-3">
-          <div className="w-9 h-9 rounded-xl bg-emerald-50 border border-emerald-200 flex items-center justify-center text-emerald-600 shrink-0 mt-0.5">
+        <div className="bg-slate-800/80 p-4 rounded-2xl border border-slate-700/80 shadow-xs flex items-start gap-3">
+          <div className="w-9 h-9 rounded-xl bg-emerald-500/20 border border-emerald-400/30 flex items-center justify-center text-emerald-400 shrink-0 mt-0.5">
             <Users className="w-4 h-4" />
           </div>
           <div>
-            <h4 className="text-xs font-bold text-slate-900">Parents Warmly Welcome</h4>
-            <p className="text-[11px] text-slate-500 mt-0.5 leading-snug">
+            <h4 className="text-xs font-bold text-white">Parents Warmly Welcome</h4>
+            <p className="text-[11px] text-slate-400 mt-0.5 leading-snug">
               Parents can join to discuss budget, loan approvals, hostel safety, and placement ROI.
             </p>
           </div>
