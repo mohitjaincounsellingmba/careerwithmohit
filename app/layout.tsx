@@ -169,9 +169,11 @@ export default function RootLayout({
     ],
     "sameAs": [
       "https://wa.me/919560020771",
+      "https://www.youtube.com/channel/UCNo1vFJ_KdRBbkcjCc9PYQA",
       "https://www.youtube.com/@careerwithmohit",
       "https://www.linkedin.com/in/mohit-jain-career-counsellor",
-      "https://www.instagram.com/careerwithmohit"
+      "https://www.instagram.com/careerwithmohit",
+      "https://x.com/careerwithmohit"
     ]
   };
 

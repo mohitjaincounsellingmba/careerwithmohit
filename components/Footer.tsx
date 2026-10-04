@@ -127,7 +127,7 @@ export function Footer() {
     },
     { 
       icon: <Youtube size={17} />, 
-      href: "https://www.youtube.com/@careerwithmohit.online", 
+      href: "https://www.youtube.com/channel/UCNo1vFJ_KdRBbkcjCc9PYQA", 
       label: "YouTube", 
       hoverStyle: "hover:bg-red-600 hover:text-white hover:border-transparent" 
     },
