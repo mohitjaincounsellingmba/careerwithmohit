@@ -1317,7 +1317,7 @@ export default function MbaPgdmClient() {
           onClose={() => setSelectedCollegeForBrochure(null)}
           collegeName={selectedCollegeForBrochure.name}
           collegeSlug={selectedCollegeForBrochure.universitySlug}
-          brochureUrl={selectedCollegeForBrochure.brochureUrl || `/brochures/${selectedCollegeForBrochure.universitySlug}-brochure.pdf`}
+          brochureUrl={selectedCollegeForBrochure.brochureUrl}
           feesText={selectedCollegeForBrochure.fee}
           batch="2027–2029"
           location={selectedCollegeForBrochure.location}

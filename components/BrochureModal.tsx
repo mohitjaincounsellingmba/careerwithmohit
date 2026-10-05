@@ -225,13 +225,12 @@ export function BrochureModal({
                 <input
                   type="tel"
                   required
-                  pattern="[0-9]{10}"
                   value={phone}
-                  onChange={(e) => setPhone(e.target.value.replace(/\D/g, "").slice(0, 10))}
-                  placeholder="9876543210"
+                  onChange={(e) => setPhone(e.target.value)}
+                  placeholder="e.g. 9876543210"
                   className="w-full px-4 py-2.5 rounded-xl border border-slate-200 focus:outline-none focus:border-blue-600 focus:ring-2 focus:ring-blue-100 text-sm"
                 />
-                <span className="text-[10px] text-slate-400 mt-0.5 block">10-digit mobile number for WhatsApp verification</span>
+                <span className="text-[10px] text-slate-400 mt-0.5 block">WhatsApp mobile number for instant verification</span>
               </div>
 
               <div>

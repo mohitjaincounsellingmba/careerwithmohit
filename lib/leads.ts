@@ -233,7 +233,13 @@ export async function submitLead(payload: Record<string, unknown>): Promise<{ su
   if (db) {
     try {
       const docRef = doc(db, "leads", id);
-      setDoc(docRef, cleanLead, { merge: true }).catch((err) => {
+      const firestoreData: Record<string, any> = {};
+      for (const [k, v] of Object.entries(cleanLead)) {
+        if (v !== undefined) {
+          firestoreData[k] = v;
+        }
+      }
+      setDoc(docRef, firestoreData, { merge: true }).catch((err) => {
         console.warn("[Leads] Firebase Firestore write background warning:", err);
       });
     } catch (firebaseErr) {
