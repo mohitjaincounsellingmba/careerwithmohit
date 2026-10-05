@@ -160,7 +160,7 @@ const FAQ_ITEMS = [
   },
   {
     q: 'What is the average PGDM and MBA fee structure across major cities for 2027?',
-    a: 'Fees vary by region and ranking. Budget-friendly options in Jaipur, Roorkee & Greater Noida start at around ₹2.20L - ₹5.50L (like Apex University Jaipur, NIMS Jaipur, JECRC, Poornima GCEC, VGU Jaipur, Quantum Roorkee, RIT Roorkee, Lloyd Business School, Akemi Pune), mid-range institutes range from ₹6.50L to ₹11.00L (like Graphic Era Dehradun, DBS Dehradun, NDIM, FIIB), and premier business schools (like Jaipuria Jaipur, UPES Dehradun, JAGSoM Bangalore, Alliance University) range from ₹11.00L to ₹17.50L for the full 2-year program.',
+    a: 'Fees vary by region and ranking. Budget-friendly options in Jaipur, Roorkee & Greater Noida start at around ₹3.60L - ₹6.00L (like Apex University Jaipur, NIMS Jaipur, JECRC, Poornima GCEC, VGU Jaipur, Quantum Roorkee, RIT Roorkee, Lloyd Business School, Akemi Pune), mid-range institutes range from ₹7.00L to ₹11.00L (like IILM Jaipur, Graphic Era Dehradun, DBS Dehradun, NDIM, FIIB), and premier business schools (like Jaipuria Jaipur, UPES Dehradun, JAGSoM Bangalore, Alliance University) range from ₹14.00L to ₹19.50L for the full 2-year program.',
   },
   {
     q: 'Can I apply for multiple colleges through application fee discount bundles?',
