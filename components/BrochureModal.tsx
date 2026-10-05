@@ -58,7 +58,7 @@ export function BrochureModal({
 
       // Trigger brochure download or generate instant summary window
       setTimeout(() => {
-        if (brochureUrl && brochureUrl !== "#" && brochureUrl.startsWith("http")) {
+        if (brochureUrl && brochureUrl !== "#" && (brochureUrl.startsWith("http") || brochureUrl.startsWith("/"))) {
           window.open(brochureUrl, "_blank", "noopener,noreferrer");
         } else {
           // Generate an instant HTML/PDF printable summary window
@@ -171,16 +171,30 @@ export function BrochureModal({
         {/* Modal Body */}
         <div className="p-6">
           {status === "success" ? (
-            <div className="py-8 text-center space-y-4">
+            <div className="py-6 text-center space-y-4">
               <div className="w-16 h-16 bg-emerald-50 text-emerald-600 rounded-full flex items-center justify-center mx-auto border border-emerald-100">
                 <CheckCircle2 className="w-8 h-8" />
               </div>
               <h4 className="text-xl font-bold text-slate-800">
-                Brochure Downloaded!
+                Brochure Ready!
               </h4>
               <p className="text-sm text-slate-500 max-w-xs mx-auto">
-                We have also sent an instant confirmation to your WhatsApp & email with verified admission details.
+                Your verified {batch} brochure &amp; fee summary has been generated and sent to your WhatsApp &amp; email.
               </p>
+              
+              {brochureUrl && brochureUrl !== "#" && (
+                <a
+                  href={brochureUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  download
+                  className="w-full py-3.5 bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black text-sm rounded-xl transition-all flex items-center justify-center gap-2 shadow-md shadow-amber-400/20"
+                >
+                  <Download className="w-4 h-4 text-slate-950 stroke-[2.5]" />
+                  <span>Open / Download PDF File</span>
+                </a>
+              )}
+
               <button
                 onClick={onClose}
                 className="w-full py-3 bg-slate-900 hover:bg-slate-800 text-white font-bold text-sm rounded-xl transition-all"

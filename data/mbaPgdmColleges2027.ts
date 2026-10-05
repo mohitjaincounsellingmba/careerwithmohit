@@ -20,6 +20,7 @@ export interface MbaPgdmCollege {
   avgPlacement?: string;
   highestPlacement?: string;
   topRecruiters?: string[];
+  brochureUrl?: string;
 }
 
 export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
