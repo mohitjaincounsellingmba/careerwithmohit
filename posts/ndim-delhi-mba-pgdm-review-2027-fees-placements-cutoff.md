@@ -7,7 +7,7 @@ keywords:
   - 'new delhi institute of management (ndim) pgdm admission 2027'
   - 'new delhi institute of management (ndim) mba fees 2027'
   - 'new delhi institute of management (ndim) average placement package'
-  - 'new delhi institute of management (ndim) cutoff 2027–29 2027'
+  - 'new delhi institute of management (ndim) cutoff 2026 2027'
   - 'ndim review 2027'
   - 'direct admission in new delhi institute of management (ndim)'
   - 'top pgdm colleges in tughlakabad'
@@ -173,15 +173,7 @@ You can book a personalized 1-on-1 guidance session with expert career counselor
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027/)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
-
----
-
-### 🚀 Boost Your Preparation & Test Analytics
-
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
-
----
+*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027)
+*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)

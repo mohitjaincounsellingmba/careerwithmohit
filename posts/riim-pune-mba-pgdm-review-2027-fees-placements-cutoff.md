@@ -7,7 +7,7 @@ keywords:
   - 'riim pune (ramachandran international) pgdm admission 2027'
   - 'riim pune (ramachandran international) mba fees 2027'
   - 'riim pune (ramachandran international) average placement package'
-  - 'riim pune (ramachandran international) cutoff 2027–29 2027'
+  - 'riim pune (ramachandran international) cutoff 2026 2027'
   - 'riim pune review 2027'
   - 'direct admission in riim pune (ramachandran international)'
   - 'top pgdm colleges in bawdhan'
@@ -173,15 +173,7 @@ You can book a personalized 1-on-1 guidance session with expert career counselor
 
 ## Related MBA Guides & Direct Resources
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027/)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
-
----
-
-### 🚀 Boost Your Preparation & Test Analytics
-
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
-
----
+*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027)
+*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges)
+*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
+*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)

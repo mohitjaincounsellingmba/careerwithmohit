@@ -14,8 +14,10 @@ import { BrochureModal } from '@/components/BrochureModal';
 
 // Location filters with sub-region grouping
 const LOCATION_FILTERS = [
-  { label: 'All Hubs', value: 'All', count: 53 },
+  { label: 'All Hubs', value: 'All', count: 67 },
   { label: 'Delhi NCR', value: 'delhi-ncr', count: 24 },
+  { label: 'Jaipur / RJ', value: 'jaipur', count: 9 },
+  { label: 'Dehradun / UK', value: 'dehradun', count: 5 },
   { label: 'South Delhi', value: 'South Delhi', count: 5 },
   { label: 'West / Central Delhi', value: 'west-central-delhi', count: 4 },
   { label: 'Noida / Gr. Noida', value: 'noida-gr-noida', count: 13 },
@@ -164,7 +166,7 @@ function InquiryModal({
                   placeholder="e.g. Rahul Sharma"
                   value={form.name}
                   onChange={(e) => setForm({ ...form, name: e.target.value })}
-                  className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-slate-50/60 focus:bg-white"
+                  className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-purple-500/20 focus:border-[#6336EA] transition-all bg-slate-50/60 focus:bg-white"
                 />
               </div>
 
@@ -177,7 +179,7 @@ function InquiryModal({
                     placeholder="10-digit mobile number"
                     value={form.number}
                     onChange={(e) => setForm({ ...form, number: e.target.value })}
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-slate-50/60 focus:bg-white"
+                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-purple-500/20 focus:border-[#6336EA] transition-all bg-slate-50/60 focus:bg-white"
                   />
                 </div>
                 <div>
@@ -188,7 +190,7 @@ function InquiryModal({
                     placeholder="your.email@gmail.com"
                     value={form.email}
                     onChange={(e) => setForm({ ...form, email: e.target.value })}
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-slate-50/60 focus:bg-white"
+                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-purple-500/20 focus:border-[#6336EA] transition-all bg-slate-50/60 focus:bg-white"
                   />
                 </div>
               </div>
@@ -201,7 +203,7 @@ function InquiryModal({
                     placeholder="e.g. Delhi, Pune, Patna..."
                     value={form.location}
                     onChange={(e) => setForm({ ...form, location: e.target.value })}
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-slate-50/60 focus:bg-white"
+                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-purple-500/20 focus:border-[#6336EA] transition-all bg-slate-50/60 focus:bg-white"
                   />
                 </div>
                 <div>
@@ -211,7 +213,7 @@ function InquiryModal({
                     placeholder="e.g. 68% (or Appearing)"
                     value={form.graduationScore}
                     onChange={(e) => setForm({ ...form, graduationScore: e.target.value })}
-                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-slate-50/60 focus:bg-white"
+                    className="w-full border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-3 focus:ring-purple-500/20 focus:border-[#6336EA] transition-all bg-slate-50/60 focus:bg-white"
                   />
                 </div>
               </div>
@@ -220,7 +222,7 @@ function InquiryModal({
                 <button
                   type="submit"
                   disabled={status === 'submitting'}
-                  className="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black py-4 rounded-xl transition-all text-sm shadow-lg shadow-blue-500/25 active:scale-[0.99] flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#4F46E5] hover:brightness-110 text-white font-display font-black py-4 rounded-xl transition-all text-sm shadow-lg shadow-purple-500/25 active:scale-[0.99] flex items-center justify-center gap-2 cursor-pointer"
                 >
                   {status === 'submitting' ? (
                     <span>Submitting Application...</span>
@@ -310,9 +312,9 @@ function CollegeDetailModal({
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id as any)}
-              className={`py-3.5 px-3 sm:px-4 text-xs font-black uppercase tracking-wider whitespace-nowrap transition-all border-b-2 -mb-[1px] ${
+              className={`py-3.5 px-3 sm:px-4 text-xs font-black uppercase tracking-wider whitespace-nowrap transition-all border-b-2 -mb-[1px] cursor-pointer ${
                 activeTab === tab.id
-                  ? 'text-blue-600 border-blue-600 bg-white sm:bg-transparent'
+                  ? 'text-[#6336EA] border-[#6336EA] bg-white sm:bg-transparent font-extrabold'
                   : 'text-slate-500 border-transparent hover:text-slate-900'
               }`}
             >
@@ -327,8 +329,8 @@ function CollegeDetailModal({
             <>
               {/* About */}
               <div>
-                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-2">
-                  <Building2 size={15} className="text-blue-600" /> Institution Profile
+                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-2 font-mono">
+                  <Building2 size={15} className="text-[#6336EA]" /> Institution Profile
                 </h3>
                 <p className="text-slate-700 text-sm leading-relaxed font-normal">{college.about}</p>
               </div>
@@ -336,27 +338,27 @@ function CollegeDetailModal({
               {/* Key Info Grid */}
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
                 <div className="bg-emerald-50/70 border border-emerald-200/80 rounded-2xl p-4">
-                  <p className="text-[10px] text-emerald-700 font-bold uppercase tracking-wider mb-1">Total Course Fee</p>
-                  <p className="text-base sm:text-lg font-black text-emerald-900">{college.fee}</p>
-                </div>
-                <div className="bg-blue-50/70 border border-blue-200/80 rounded-2xl p-4">
-                  <p className="text-[10px] text-blue-700 font-bold uppercase tracking-wider mb-1">Duration</p>
-                  <p className="text-sm font-bold text-blue-900">{college.duration}</p>
+                  <p className="text-[10px] text-emerald-700 font-bold uppercase tracking-wider mb-1 font-mono">Total Course Fee</p>
+                  <p className="text-base sm:text-lg font-black text-emerald-900 font-display">{college.fee}</p>
                 </div>
                 <div className="bg-purple-50/70 border border-purple-200/80 rounded-2xl p-4">
-                  <p className="text-[10px] text-purple-700 font-bold uppercase tracking-wider mb-1">Avg Placement</p>
-                  <p className="text-sm font-black text-purple-900">{college.avgPlacement || '₹8.5 LPA'}</p>
+                  <p className="text-[10px] text-[#6336EA] font-bold uppercase tracking-wider mb-1 font-mono">Duration</p>
+                  <p className="text-sm font-bold text-purple-950">{college.duration}</p>
+                </div>
+                <div className="bg-indigo-50/70 border border-indigo-200/80 rounded-2xl p-4">
+                  <p className="text-[10px] text-indigo-700 font-bold uppercase tracking-wider mb-1 font-mono">Avg Placement</p>
+                  <p className="text-sm font-black text-indigo-950 font-display">{college.avgPlacement || '₹8.5 LPA'}</p>
                 </div>
                 <div className="bg-amber-50/70 border border-amber-200/80 rounded-2xl p-4">
-                  <p className="text-[10px] text-amber-700 font-bold uppercase tracking-wider mb-1">Highest CTC</p>
-                  <p className="text-sm font-black text-amber-900">{college.highestPlacement || '₹20.0 LPA'}</p>
+                  <p className="text-[10px] text-amber-700 font-bold uppercase tracking-wider mb-1 font-mono">Highest CTC</p>
+                  <p className="text-sm font-black text-amber-900 font-display">{college.highestPlacement || '₹20.0 LPA'}</p>
                 </div>
               </div>
 
               {/* Highlights */}
               <div>
-                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3">
-                  <Award size={15} className="text-blue-600" /> Key Campus Advantages
+                <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3 font-mono">
+                  <Award size={15} className="text-[#6336EA]" /> Key Campus Advantages
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
                   {college.highlights.map((h, idx) => (
@@ -374,21 +376,21 @@ function CollegeDetailModal({
             <div className="space-y-6">
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-gradient-to-br from-emerald-500/10 to-teal-500/10 border border-emerald-200 rounded-2xl p-6 text-center">
-                  <p className="text-xs text-emerald-800 font-bold uppercase tracking-wider mb-1">Average Salary (CTC)</p>
-                  <p className="text-3xl font-black text-emerald-950">{college.avgPlacement || '₹8.50 LPA'}</p>
+                  <p className="text-xs text-emerald-800 font-bold uppercase tracking-wider mb-1 font-mono">Average Salary (CTC)</p>
+                  <p className="text-3xl font-black text-emerald-950 font-display">{college.avgPlacement || '₹8.50 LPA'}</p>
                   <span className="text-[11px] text-emerald-700 mt-1 block">Audited 2024-2025 batch</span>
                 </div>
-                <div className="bg-gradient-to-br from-blue-500/10 to-indigo-500/10 border border-blue-200 rounded-2xl p-6 text-center">
-                  <p className="text-xs text-blue-800 font-bold uppercase tracking-wider mb-1">Highest Salary (CTC)</p>
-                  <p className="text-3xl font-black text-blue-950">{college.highestPlacement || '₹22.0 LPA'}</p>
-                  <span className="text-[11px] text-blue-700 mt-1 block">Top mentored package</span>
+                <div className="bg-gradient-to-br from-purple-500/10 to-indigo-500/10 border border-purple-200 rounded-2xl p-6 text-center">
+                  <p className="text-xs text-purple-800 font-bold uppercase tracking-wider mb-1 font-mono">Highest Salary (CTC)</p>
+                  <p className="text-3xl font-black text-purple-950 font-display">{college.highestPlacement || '₹22.0 LPA'}</p>
+                  <span className="text-[11px] text-purple-700 mt-1 block">Top mentored package</span>
                 </div>
               </div>
 
               {college.topRecruiters && college.topRecruiters.length > 0 ? (
                 <div>
-                  <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3">
-                    <Briefcase size={15} className="text-blue-600" /> Top Regular Recruiters on Campus
+                  <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3 font-mono">
+                    <Briefcase size={15} className="text-[#6336EA]" /> Top Regular Recruiters on Campus
                   </h3>
                   <div className="flex flex-wrap gap-2">
                     {college.topRecruiters.map((rec) => (
@@ -412,14 +414,14 @@ function CollegeDetailModal({
 
           {activeTab === 'Specializations' && (
             <div>
-              <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3">
-                <GraduationCap size={15} className="text-blue-600" /> Dual &amp; Core Specialization Options
+              <h3 className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-slate-400 mb-3 font-mono">
+                <GraduationCap size={15} className="text-[#6336EA]" /> Dual &amp; Core Specialization Options
               </h3>
               {college.specializations ? (
                 <div className="space-y-4">
                   {Object.entries(college.specializations).map(([prog, specs]) => (
                     <div key={prog} className="bg-slate-50 border border-slate-200/90 rounded-2xl p-5">
-                      <span className="bg-blue-600 text-white text-[11px] font-black uppercase tracking-wider px-3 py-1 rounded-lg inline-block mb-3">
+                      <span className="bg-[#6336EA] text-white text-[11px] font-black uppercase tracking-wider px-3 py-1 rounded-lg inline-block mb-3 font-mono">
                         {prog}
                       </span>
                       <div className="flex flex-wrap gap-2">
@@ -443,7 +445,7 @@ function CollegeDetailModal({
           {activeTab === 'DirectAdmission' && (
             <div className="space-y-4">
               <div className="bg-amber-50/80 border border-amber-200 rounded-2xl p-5">
-                <h4 className="text-sm font-black text-amber-900 mb-1">Direct Admission &amp; Management Quota Guidelines</h4>
+                <h4 className="text-sm font-black text-amber-900 mb-1 font-display">Direct Admission &amp; Management Quota Guidelines</h4>
                 <p className="text-xs text-amber-800 leading-relaxed">
                   Candidates with min 50% marks in graduation can apply for direct profile assessment. Valid scores in CAT, XAT, MAT, CMAT, ATMA, or GMAT are accepted. Direct interviews (GD-PI) can be scheduled online or on-campus.
                 </p>
@@ -451,12 +453,12 @@ function CollegeDetailModal({
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <div className="border border-slate-200 rounded-2xl p-4">
-                  <span className="text-[10px] font-bold text-blue-600 uppercase">Requirement 1</span>
+                  <span className="text-[10px] font-bold text-[#6336EA] uppercase font-mono">Requirement 1</span>
                   <h5 className="font-extrabold text-slate-900 text-sm mt-1">Graduation Eligibility</h5>
                   <p className="text-xs text-slate-600 mt-1">Minimum 50% aggregate (45% for SC/ST). Final year students can apply provisionally.</p>
                 </div>
                 <div className="border border-slate-200 rounded-2xl p-4">
-                  <span className="text-[10px] font-bold text-blue-600 uppercase">Requirement 2</span>
+                  <span className="text-[10px] font-bold text-[#6336EA] uppercase font-mono">Requirement 2</span>
                   <h5 className="font-extrabold text-slate-900 text-sm mt-1">Entrance Scores &amp; GD-PI</h5>
                   <p className="text-xs text-slate-600 mt-1">Accepts CAT/XAT/MAT/CMAT/ATMA or Institutional Aptitude Test followed by Personal Interview.</p>
                 </div>
@@ -468,16 +470,16 @@ function CollegeDetailModal({
           <div className="pt-4 flex flex-col sm:flex-row gap-3 border-t border-slate-200">
             <button
               onClick={onInquire}
-              className="flex-1 bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black py-4 rounded-xl transition-all text-sm shadow-md shadow-blue-500/20 text-center flex items-center justify-center gap-2"
+              className="flex-1 bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#4F46E5] hover:brightness-110 text-white font-display font-black py-4 rounded-xl transition-all text-sm shadow-md shadow-purple-500/20 text-center flex items-center justify-center gap-2 cursor-pointer"
             >
               <span>Apply for Direct Admission 2027 →</span>
             </button>
 
             <button
               onClick={onBrochure}
-              className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black px-6 py-4 rounded-xl transition-all text-sm flex items-center justify-center gap-2 shadow-md shadow-amber-400/20"
+              className="bg-[#FFD000] hover:bg-[#FFE033] text-[#0F1026] font-display font-black px-6 py-4 rounded-xl transition-all text-sm flex items-center justify-center gap-2 shadow-md hover:scale-105 active:scale-95 cursor-pointer"
             >
-              <Download size={17} className="text-slate-950 stroke-[2.5]" />
+              <Download size={17} className="text-[#0F1026] stroke-[2.5]" />
               <span>Download Brochure</span>
             </button>
 
@@ -485,7 +487,7 @@ function CollegeDetailModal({
               href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi Mohit, I want direct admission details and fee structure for ${college.name} (Batch 2027-2029).`)}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-6 py-4 rounded-xl transition-colors text-sm flex items-center justify-center gap-2 shadow-md shadow-emerald-600/20"
+              className="bg-emerald-600 hover:bg-emerald-700 text-white font-display font-bold px-6 py-4 rounded-xl transition-colors text-sm flex items-center justify-center gap-2 shadow-md shadow-emerald-600/20"
             >
               <MessageCircle size={18} />
               <span>WhatsApp Counsellor</span>
@@ -496,7 +498,7 @@ function CollegeDetailModal({
                 href={`/blog/${reviewSlug}`}
                 className="bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold px-5 py-4 rounded-xl transition-colors text-xs flex items-center justify-center gap-1.5"
               >
-                <GraduationCap size={16} className="text-blue-600" />
+                <GraduationCap size={16} className="text-[#6336EA]" />
                 <span>Read Full Review</span>
               </Link>
             )}
@@ -530,14 +532,14 @@ function CompareModal({
       >
         <div className="sticky top-0 bg-white border-b border-slate-200 px-6 py-5 flex items-center justify-between z-20">
           <div className="flex items-center gap-2">
-            <Scale className="w-5 h-5 text-blue-600" />
-            <h2 className="text-lg sm:text-xl font-black text-slate-900">
+            <Scale className="w-5 h-5 text-[#6336EA]" />
+            <h2 className="text-lg sm:text-xl font-black text-slate-900 font-display">
               Side-by-Side B-School Comparison ({colleges.length}/3)
             </h2>
           </div>
           <button
             onClick={onClose}
-            className="text-slate-400 hover:text-slate-700 p-1.5 rounded-full hover:bg-slate-100 transition-colors"
+            className="text-slate-400 hover:text-slate-700 p-1.5 rounded-full hover:bg-slate-100 transition-colors cursor-pointer"
           >
             <X size={20} />
           </button>
@@ -552,36 +554,36 @@ function CompareModal({
               >
                 <div>
                   <div className="flex items-start justify-between gap-2 mb-3">
-                    <span className="text-[10px] font-black uppercase tracking-wider px-2.5 py-1 bg-blue-100 text-blue-800 rounded-md">
+                    <span className="text-[10px] font-black uppercase tracking-wider px-2.5 py-1 bg-purple-100 text-purple-800 rounded-md font-mono">
                       {college.grade}
                     </span>
                     <button
                       onClick={() => onRemove(college.universitySlug)}
-                      className="text-slate-400 hover:text-rose-600 transition-colors"
+                      className="text-slate-400 hover:text-rose-600 transition-colors cursor-pointer"
                       title="Remove from comparison"
                     >
                       <X size={16} />
                     </button>
                   </div>
 
-                  <h3 className="text-base font-black text-slate-900 leading-snug mb-1">{college.name}</h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug mb-1 font-display">{college.name}</h3>
                   <div className="flex items-center gap-1 text-xs text-slate-500 mb-4">
-                    <MapPin size={12} className="text-blue-600 shrink-0" />
+                    <MapPin size={12} className="text-[#6336EA] shrink-0" />
                     <span>{college.location}</span>
                   </div>
 
                   <div className="space-y-3 text-xs divide-y divide-slate-200/70 border-y border-slate-200/70 py-3">
                     <div className="flex items-center justify-between">
                       <span className="text-slate-500 font-medium">Total 2-Yr Fee</span>
-                      <span className="font-black text-emerald-600 text-sm">{college.fee}</span>
+                      <span className="font-black text-emerald-600 text-sm font-display">{college.fee}</span>
                     </div>
                     <div className="flex items-center justify-between pt-2">
                       <span className="text-slate-500 font-medium">Average Package</span>
-                      <span className="font-black text-blue-700 text-sm">{college.avgPlacement || '₹8.5 LPA'}</span>
+                      <span className="font-black text-[#6336EA] text-sm font-display">{college.avgPlacement || '₹8.5 LPA'}</span>
                     </div>
                     <div className="flex items-center justify-between pt-2">
                       <span className="text-slate-500 font-medium">Highest CTC</span>
-                      <span className="font-black text-amber-700 text-sm">{college.highestPlacement || '₹22.0 LPA'}</span>
+                      <span className="font-black text-amber-700 text-sm font-display">{college.highestPlacement || '₹22.0 LPA'}</span>
                     </div>
                     <div className="flex items-center justify-between pt-2">
                       <span className="text-slate-500 font-medium">Approvals</span>
@@ -594,7 +596,7 @@ function CompareModal({
                   </div>
 
                   <div className="mt-4">
-                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block mb-2">Key USPs</span>
+                    <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block mb-2 font-mono">Key USPs</span>
                     <ul className="space-y-1.5 text-[11px] text-slate-700">
                       {college.highlights.slice(0, 3).map((h, i) => (
                         <li key={i} className="flex items-start gap-1.5">
@@ -612,7 +614,7 @@ function CompareModal({
                       onClose();
                       onInquire(college);
                     }}
-                    className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2.5 rounded-xl text-xs transition-colors shadow-sm"
+                    className="w-full bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#4F46E5] hover:brightness-110 text-white font-display font-bold py-2.5 rounded-xl text-xs transition-all shadow-sm cursor-pointer"
                   >
                     Direct Apply 2027 →
                   </button>
@@ -621,7 +623,7 @@ function CompareModal({
                       onClose();
                       onBrochure(college);
                     }}
-                    className="w-full bg-amber-400 hover:bg-amber-300 text-slate-950 font-black py-2 rounded-xl text-xs transition-colors flex items-center justify-center gap-1.5 shadow-xs"
+                    className="w-full bg-[#FFD000] hover:bg-[#FFE033] text-[#0F1026] font-display font-black py-2 rounded-xl text-xs transition-colors flex items-center justify-center gap-1.5 shadow-xs cursor-pointer"
                   >
                     <Download size={13} className="text-slate-950 stroke-[2.5]" />
                     <span>Download Brochure (PDF)</span>
@@ -708,6 +710,17 @@ export default function MbaPgdmClient() {
       } else if (selectedLocation === 'noida-gr-noida') {
         const colLoc = c.location.toLowerCase();
         matchesLocation = colLoc.includes('noida') || colLoc.includes('greater noida');
+      } else if (selectedLocation === 'dehradun') {
+        const colLoc = c.location.toLowerCase();
+        matchesLocation =
+          colLoc.includes('dehradun') ||
+          colLoc.includes('roorkee') ||
+          colLoc.includes('uttarakhand');
+      } else if (selectedLocation === 'jaipur') {
+        const colLoc = c.location.toLowerCase();
+        matchesLocation =
+          colLoc.includes('jaipur') ||
+          colLoc.includes('rajasthan');
       } else {
         const colLoc = c.location.toLowerCase();
         const selLoc = selectedLocation.toLowerCase();
@@ -778,11 +791,11 @@ export default function MbaPgdmClient() {
   const isCompared = (slug: string) => comparedColleges.some((c) => c.universitySlug === slug);
 
   return (
-    <section className="py-8 sm:py-12 bg-slate-50/70" id="colleges-directory">
-      <div className="max-w-7xl mx-auto px-3 sm:px-6">
+    <section className="py-8 sm:py-12 bg-[#F8FAFC]" id="colleges-directory">
+      <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8">
 
-        {/* ── SEARCH & FILTER PORTAL CONTROL PANEL ── */}
-        <div className="bg-white border border-slate-200/90 rounded-3xl p-4 sm:p-7 shadow-xl shadow-slate-900/5 mb-8 space-y-5">
+        {/* ── SEARCH & FILTER PORTAL CONTROL PANEL (HOME PAGE THEME) ── */}
+        <div className="bg-white border border-slate-200/90 rounded-3xl p-5 sm:p-8 shadow-[0_16px_40px_-10px_rgba(15,23,42,0.08)] mb-8 space-y-5">
           
           {/* Top Search Bar with Direct Search & View Mode Switcher */}
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
@@ -790,15 +803,15 @@ export default function MbaPgdmClient() {
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" size={19} />
               <input
                 type="text"
-                placeholder="Search by college name, city (e.g. Dwarka, Pune, Bangalore), or specialization..."
+                placeholder="Search by college name, city (e.g. Jaipur, Pune, Bangalore), or specialization..."
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
-                className="w-full pl-12 pr-10 py-3.5 bg-slate-50/90 border border-slate-200 rounded-2xl text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-500/10 focus:border-blue-500 focus:bg-white transition-all shadow-xs"
+                className="w-full pl-12 pr-10 py-3.5 bg-slate-50/90 border border-slate-200 rounded-2xl text-sm font-semibold text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-4 focus:ring-purple-500/10 focus:border-[#6336EA] focus:bg-white transition-all shadow-xs"
               />
               {search && (
                 <button
                   onClick={() => setSearch('')}
-                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 p-1"
+                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 p-1 cursor-pointer"
                   aria-label="Clear search"
                 >
                   <X size={16} />
@@ -812,7 +825,7 @@ export default function MbaPgdmClient() {
                 <select
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value)}
-                  className="appearance-none bg-slate-50 border border-slate-200 text-slate-800 font-bold text-xs rounded-2xl pl-3.5 pr-8 py-3.5 focus:outline-none focus:ring-2 focus:ring-blue-500/20 cursor-pointer shadow-xs"
+                  className="appearance-none bg-slate-50 border border-slate-200 text-slate-800 font-bold text-xs rounded-2xl pl-3.5 pr-8 py-3.5 focus:outline-none focus:ring-2 focus:ring-purple-500/20 cursor-pointer shadow-xs"
                 >
                   <option value="featured">🔥 Most Targeted (Recommended)</option>
                   <option value="fee_asc">💰 Fee: Low to High</option>
@@ -828,8 +841,8 @@ export default function MbaPgdmClient() {
               <div className="bg-slate-100 p-1 rounded-2xl border border-slate-200 flex items-center shrink-0">
                 <button
                   onClick={() => setViewMode('grid')}
-                  className={`p-2.5 rounded-xl transition-all ${
-                    viewMode === 'grid' ? 'bg-white text-blue-600 shadow-xs font-bold' : 'text-slate-500 hover:text-slate-900'
+                  className={`p-2.5 rounded-xl transition-all cursor-pointer ${
+                    viewMode === 'grid' ? 'bg-white text-[#6336EA] shadow-xs font-bold' : 'text-slate-500 hover:text-slate-900'
                   }`}
                   title="Grid View"
                   aria-label="Grid View"
@@ -838,8 +851,8 @@ export default function MbaPgdmClient() {
                 </button>
                 <button
                   onClick={() => setViewMode('table')}
-                  className={`p-2.5 rounded-xl transition-all ${
-                    viewMode === 'table' ? 'bg-white text-blue-600 shadow-xs font-bold' : 'text-slate-500 hover:text-slate-900'
+                  className={`p-2.5 rounded-xl transition-all cursor-pointer ${
+                    viewMode === 'table' ? 'bg-white text-[#6336EA] shadow-xs font-bold' : 'text-slate-500 hover:text-slate-900'
                   }`}
                   title="Table / List View"
                   aria-label="Table / List View"
@@ -853,8 +866,8 @@ export default function MbaPgdmClient() {
           {/* Location Filter Pills */}
           <div>
             <div className="flex items-center justify-between mb-2.5">
-              <label className="flex items-center gap-1.5 text-xs font-black text-slate-600 uppercase tracking-wider">
-                <MapPin size={14} className="text-blue-600" /> Filter by Campus Hub
+              <label className="flex items-center gap-1.5 text-xs font-black text-slate-600 uppercase tracking-wider font-mono">
+                <MapPin size={14} className="text-[#6336EA]" /> Filter by Campus Hub
               </label>
             </div>
             <div className="flex items-center gap-1.5 overflow-x-auto pb-1.5 scrollbar-none">
@@ -862,10 +875,10 @@ export default function MbaPgdmClient() {
                 <button
                   key={loc.value}
                   onClick={() => setSelectedLocation(loc.value)}
-                  className={`px-3.5 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all shrink-0 ${
+                  className={`px-3.5 py-2 rounded-xl text-xs whitespace-nowrap transition-all shrink-0 cursor-pointer ${
                     selectedLocation === loc.value
-                      ? 'bg-blue-600 text-white shadow-md shadow-blue-500/20 ring-2 ring-blue-600/30'
-                      : 'bg-slate-100/90 text-slate-700 hover:bg-slate-200 border border-slate-200/60'
+                      ? 'bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#8B5CF6] text-white shadow-md shadow-purple-500/25 ring-2 ring-purple-600/30 font-extrabold'
+                      : 'bg-slate-100/90 text-slate-700 hover:bg-slate-200 border border-slate-200/60 font-semibold'
                   }`}
                 >
                   <span>{loc.label}</span>
@@ -882,10 +895,10 @@ export default function MbaPgdmClient() {
                 <button
                   key={tag.id}
                   onClick={() => setSmartTag(tag.id)}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold whitespace-nowrap transition-all shrink-0 ${
+                  className={`px-3 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all shrink-0 cursor-pointer ${
                     smartTag === tag.id
-                      ? 'bg-slate-900 text-white shadow-xs'
-                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                      ? 'bg-[#0F1026] text-white shadow-xs font-bold'
+                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200 font-semibold'
                   }`}
                 >
                   {tag.label}
@@ -903,7 +916,7 @@ export default function MbaPgdmClient() {
                     const found = FEE_RANGES.find((f) => f.label === e.target.value);
                     if (found) setSelectedFee(found);
                   }}
-                  className="appearance-none bg-slate-50 border border-slate-200 text-slate-800 font-bold text-xs rounded-xl pl-3 pr-7 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500/20 cursor-pointer shadow-xs"
+                  className="appearance-none bg-slate-50 border border-slate-200 text-slate-800 font-bold text-xs rounded-xl pl-3 pr-7 py-2 focus:outline-none focus:ring-2 focus:ring-purple-500/20 cursor-pointer shadow-xs"
                 >
                   {FEE_RANGES.map((f) => (
                     <option key={f.label} value={f.label}>
@@ -920,8 +933,8 @@ export default function MbaPgdmClient() {
         {/* ── RESULTS COUNTER BAR ── */}
         <div className="flex flex-wrap items-center justify-between gap-3 mb-6 px-1">
           <div className="flex items-center gap-2">
-            <h2 className="text-base sm:text-lg font-black text-slate-900">
-              Showing <span className="text-blue-600">{filteredColleges.length}</span> Direct Admission Targeted Colleges
+            <h2 className="text-base sm:text-lg font-black text-slate-900 font-display">
+              Showing <span className="text-[#6336EA] font-black">{filteredColleges.length}</span> Direct Admission Targeted Colleges
             </h2>
             <span className="hidden sm:inline-flex text-[11px] font-bold text-emerald-700 bg-emerald-100/80 px-2 py-0.5 rounded-md">
               Batch 2027–2029
@@ -936,7 +949,7 @@ export default function MbaPgdmClient() {
                 setSmartTag('all');
                 setSearch('');
               }}
-              className="text-xs font-bold text-rose-600 hover:text-rose-700 bg-rose-50 hover:bg-rose-100 border border-rose-200/80 px-3 py-1.5 rounded-xl transition-colors flex items-center gap-1.5"
+              className="text-xs font-bold text-rose-600 hover:text-rose-700 bg-rose-50 hover:bg-rose-100 border border-rose-200/80 px-3 py-1.5 rounded-xl transition-colors flex items-center gap-1.5 cursor-pointer"
             >
               <RotateCcw size={13} />
               <span>Reset All Filters</span>
@@ -954,21 +967,21 @@ export default function MbaPgdmClient() {
               return (
                 <div
                   key={college.universitySlug}
-                  className="bg-white rounded-3xl border border-slate-200/90 shadow-sm hover:shadow-2xl hover:border-blue-300 transition-all duration-300 flex flex-col justify-between overflow-hidden group hover:-translate-y-1 relative"
+                  className="bg-white rounded-3xl border border-slate-200/90 shadow-sm hover:shadow-2xl hover:border-purple-300 transition-all duration-300 flex flex-col justify-between overflow-hidden group hover:-translate-y-1.5 relative"
                 >
                   {/* Card Header with Brand Gradient */}
                   <div>
                     <div className={`bg-gradient-to-r ${college.gradeColor} p-5 sm:p-6 text-white relative`}>
                       <div className="flex items-center justify-between gap-2 mb-2.5">
-                        <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-white/20">
+                        <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-white/20 font-mono">
                           {college.grade}
                         </span>
-                        <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-white/20">
+                        <span className="bg-white/20 backdrop-blur-md text-white text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full border border-white/20 font-mono">
                           {college.badge}
                         </span>
                       </div>
 
-                      <h3 className="font-black text-lg sm:text-xl leading-snug tracking-tight mb-2 group-hover:text-amber-200 transition-colors">
+                      <h3 className="font-display font-black text-lg sm:text-xl leading-snug tracking-tight mb-2 group-hover:text-amber-200 transition-colors">
                         {college.name}
                       </h3>
 
@@ -983,16 +996,16 @@ export default function MbaPgdmClient() {
                       {/* Metric Bar: 3 Key Figures */}
                       <div className="grid grid-cols-3 gap-2 bg-slate-50 border border-slate-200/90 rounded-2xl p-3 text-center">
                         <div className="border-r border-slate-200">
-                          <span className="text-[10px] text-slate-400 font-bold uppercase block">2-Yr Fee</span>
-                          <span className="font-black text-emerald-600 text-xs sm:text-sm block truncate">{college.fee.split(' ')[0]}</span>
+                          <span className="text-[10px] text-slate-400 font-bold uppercase block font-mono">2-Yr Fee</span>
+                          <span className="font-black text-emerald-600 text-xs sm:text-sm block truncate font-display">{college.fee.split(' ')[0]}</span>
                         </div>
                         <div className="border-r border-slate-200">
-                          <span className="text-[10px] text-slate-400 font-bold uppercase block">Avg CTC</span>
-                          <span className="font-black text-blue-700 text-xs sm:text-sm block truncate">{college.avgPlacement || '₹8.5 LPA'}</span>
+                          <span className="text-[10px] text-slate-400 font-bold uppercase block font-mono">Avg CTC</span>
+                          <span className="font-black text-[#6336EA] text-xs sm:text-sm block truncate font-display">{college.avgPlacement || '₹8.5 LPA'}</span>
                         </div>
                         <div>
-                          <span className="text-[10px] text-slate-400 font-bold uppercase block">Highest CTC</span>
-                          <span className="font-black text-amber-700 text-xs sm:text-sm block truncate">{college.highestPlacement || '₹22.0 LPA'}</span>
+                          <span className="text-[10px] text-slate-400 font-bold uppercase block font-mono">Highest CTC</span>
+                          <span className="font-black text-amber-700 text-xs sm:text-sm block truncate font-display">{college.highestPlacement || '₹22.0 LPA'}</span>
                         </div>
                       </div>
 
@@ -1021,22 +1034,26 @@ export default function MbaPgdmClient() {
                       </div>
 
                       {/* Specialization Chips */}
-                      {college.specializations && college.specializations['PGDM'] && (
-                        <div className="pt-1">
-                          <div className="flex flex-wrap gap-1">
-                            {college.specializations['PGDM'].slice(0, 3).map((spec) => (
-                              <span key={spec} className="bg-slate-100 text-slate-700 text-[10px] font-bold px-2 py-0.5 rounded-md">
-                                {spec}
-                              </span>
-                            ))}
-                            {college.specializations['PGDM'].length > 3 && (
-                              <span className="bg-blue-50 text-blue-700 text-[10px] font-bold px-1.5 py-0.5 rounded-md">
-                                +{college.specializations['PGDM'].length - 3} more
-                              </span>
-                            )}
+                      {college.specializations && (() => {
+                        const specs = college.specializations['PGDM'] || college.specializations['MBA'] || Object.values(college.specializations)[0] || [];
+                        if (specs.length === 0) return null;
+                        return (
+                          <div className="pt-1">
+                            <div className="flex flex-wrap gap-1">
+                              {specs.slice(0, 3).map((spec) => (
+                                <span key={spec} className="bg-slate-100 text-slate-700 text-[10px] font-bold px-2 py-0.5 rounded-md">
+                                  {spec}
+                                </span>
+                              ))}
+                              {specs.length > 3 && (
+                                <span className="bg-purple-50 text-[#6336EA] text-[10px] font-bold px-1.5 py-0.5 rounded-md">
+                                  +{specs.length - 3} more
+                                </span>
+                              )}
+                            </div>
                           </div>
-                        </div>
-                      )}
+                        );
+                      })()}
                     </div>
                   </div>
 
@@ -1045,7 +1062,7 @@ export default function MbaPgdmClient() {
                     {/* Primary Direct Admission CTA */}
                     <button
                       onClick={() => setSelectedCollegeForInquiry(college)}
-                      className="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black py-3 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-blue-500/20 active:scale-[0.99]"
+                      className="w-full bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#4F46E5] hover:brightness-110 text-white font-display font-extrabold py-3.5 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-purple-500/20 active:scale-[0.99] cursor-pointer"
                     >
                       <span>⚡ Direct Apply &amp; Fee Waivers</span>
                       <ArrowRight size={14} />
@@ -1054,7 +1071,7 @@ export default function MbaPgdmClient() {
                     {/* Prominent Brochure Download Button */}
                     <button
                       onClick={() => setSelectedCollegeForBrochure(college)}
-                      className="w-full bg-gradient-to-r from-amber-400 via-amber-300 to-amber-400 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black py-2.5 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-amber-400/20 active:scale-[0.99] border border-amber-300"
+                      className="w-full bg-gradient-to-r from-amber-400 via-amber-300 to-amber-400 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-display font-black py-2.5 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-amber-400/20 active:scale-[0.99] border border-amber-300 cursor-pointer"
                     >
                       <Download size={14} className="text-slate-950 stroke-[2.5]" />
                       <span>Download 2027 Brochure &amp; Fee PDF</span>
@@ -1074,7 +1091,7 @@ export default function MbaPgdmClient() {
 
                       <button
                         onClick={() => setSelectedCollegeForDetail(college)}
-                        className="bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-2 rounded-xl text-xs transition-colors text-center"
+                        className="bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-2 rounded-xl text-xs transition-colors text-center cursor-pointer"
                       >
                         Quick Details
                       </button>
@@ -1084,13 +1101,13 @@ export default function MbaPgdmClient() {
                     <div className="flex items-center justify-between pt-1 text-xs">
                       <button
                         onClick={() => toggleCompare(college)}
-                        className={`flex items-center gap-1.5 font-bold transition-colors ${
-                          compared ? 'text-blue-600' : 'text-slate-500 hover:text-slate-800'
+                        className={`flex items-center gap-1.5 font-bold transition-colors cursor-pointer ${
+                          compared ? 'text-[#6336EA]' : 'text-slate-500 hover:text-slate-800'
                         }`}
                       >
                         <div
                           className={`w-3.5 h-3.5 rounded flex items-center justify-center border ${
-                            compared ? 'bg-blue-600 border-blue-600 text-white' : 'border-slate-300 bg-white'
+                            compared ? 'bg-[#6336EA] border-[#6336EA] text-white' : 'border-slate-300 bg-white'
                           }`}
                         >
                           {compared && <Check size={10} />}
@@ -1101,7 +1118,7 @@ export default function MbaPgdmClient() {
                       {reviewSlug ? (
                         <Link
                           href={`/blog/${reviewSlug}`}
-                          className="font-bold text-blue-600 hover:text-blue-700 hover:underline flex items-center gap-1"
+                          className="font-bold text-[#6336EA] hover:text-purple-700 hover:underline flex items-center gap-1"
                         >
                           <span>Full Review</span>
                           <ArrowRight size={12} />
@@ -1123,7 +1140,7 @@ export default function MbaPgdmClient() {
             <div className="overflow-x-auto">
               <table className="w-full text-left border-collapse min-w-[850px]">
                 <thead>
-                  <tr className="bg-slate-900 text-white font-bold text-xs uppercase tracking-wider">
+                  <tr className="bg-gradient-to-r from-[#1E1B4B] via-[#312E81] to-[#4338CA] text-white font-bold text-xs uppercase tracking-wider">
                     <th className="px-5 py-4">B-School &amp; Location</th>
                     <th className="px-5 py-4">Total 2-Yr Fee</th>
                     <th className="px-5 py-4">Avg Placement</th>
@@ -1138,23 +1155,23 @@ export default function MbaPgdmClient() {
                     const compared = isCompared(college.universitySlug);
 
                     return (
-                      <tr key={college.universitySlug} className="hover:bg-blue-50/40 transition-colors">
+                      <tr key={college.universitySlug} className="hover:bg-purple-50/40 transition-colors">
                         <td className="px-5 py-4">
                           <div className="font-extrabold text-slate-900 text-sm mb-0.5">{college.name}</div>
                           <div className="flex items-center gap-2 text-slate-500 text-[11px]">
                             <span className="flex items-center gap-1">
-                              <MapPin size={11} className="text-blue-600" />
+                              <MapPin size={11} className="text-[#6336EA]" />
                               {college.location}
                             </span>
                             <span className="text-slate-300">•</span>
                             <span className="text-emerald-600 font-bold">⚡ Direct Admission Open</span>
                           </div>
                         </td>
-                        <td className="px-5 py-4 font-black text-emerald-600 text-sm">{college.fee}</td>
-                        <td className="px-5 py-4 font-black text-blue-700">{college.avgPlacement || '₹8.5 LPA'}</td>
-                        <td className="px-5 py-4 font-black text-amber-700">{college.highestPlacement || '₹20.0 LPA'}</td>
+                        <td className="px-5 py-4 font-black text-emerald-600 text-sm font-display">{college.fee}</td>
+                        <td className="px-5 py-4 font-black text-[#6336EA] font-display">{college.avgPlacement || '₹8.5 LPA'}</td>
+                        <td className="px-5 py-4 font-black text-amber-700 font-display">{college.highestPlacement || '₹20.0 LPA'}</td>
                         <td className="px-5 py-4">
-                          <span className="bg-slate-100 text-slate-800 text-[10px] font-bold px-2.5 py-1 rounded-md border border-slate-200">
+                          <span className="bg-slate-100 text-slate-800 text-[10px] font-bold px-2.5 py-1 rounded-md border border-slate-200 font-mono">
                             {college.grade}
                           </span>
                         </td>
@@ -1162,13 +1179,13 @@ export default function MbaPgdmClient() {
                           <div className="flex items-center justify-center gap-1.5 flex-wrap">
                             <button
                               onClick={() => setSelectedCollegeForInquiry(college)}
-                              className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-3 py-1.5 rounded-lg text-xs transition-colors"
+                              className="bg-gradient-to-r from-[#6336EA] to-[#7C3AED] hover:brightness-110 text-white font-bold px-3 py-1.5 rounded-lg text-xs transition-all shadow-xs cursor-pointer"
                             >
                               Direct Apply
                             </button>
                             <button
                               onClick={() => setSelectedCollegeForBrochure(college)}
-                              className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black px-2.5 py-1.5 rounded-lg text-xs flex items-center gap-1 transition-colors shadow-xs"
+                              className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black px-2.5 py-1.5 rounded-lg text-xs flex items-center gap-1 transition-colors shadow-xs cursor-pointer"
                               title="Download Brochure"
                             >
                               <Download size={12} className="stroke-[2.5]" />
@@ -1185,14 +1202,14 @@ export default function MbaPgdmClient() {
                             </a>
                             <button
                               onClick={() => setSelectedCollegeForDetail(college)}
-                              className="bg-slate-100 hover:bg-slate-200 text-slate-700 px-2.5 py-1.5 rounded-lg text-xs font-bold"
+                              className="bg-slate-100 hover:bg-slate-200 text-slate-700 px-2.5 py-1.5 rounded-lg text-xs font-bold cursor-pointer"
                             >
                               Details
                             </button>
                             <button
                               onClick={() => toggleCompare(college)}
-                              className={`p-1.5 rounded-lg border text-xs font-bold ${
-                                compared ? 'bg-blue-600 text-white border-blue-600' : 'bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100'
+                              className={`p-1.5 rounded-lg border text-xs font-bold cursor-pointer ${
+                                compared ? 'bg-[#6336EA] text-white border-[#6336EA]' : 'bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100'
                               }`}
                               title="Compare"
                             >
@@ -1215,7 +1232,7 @@ export default function MbaPgdmClient() {
             <div className="w-14 h-14 bg-slate-100 rounded-2xl flex items-center justify-center mx-auto mb-3 text-slate-400">
               <Search size={28} />
             </div>
-            <p className="text-lg font-bold text-slate-800 mb-1">No Targeted Colleges Match Your Filters</p>
+            <p className="text-lg font-bold text-slate-800 mb-1 font-display">No Targeted Colleges Match Your Filters</p>
             <p className="text-sm text-slate-500 mb-5 font-normal">Try searching with a broader location or fee bracket.</p>
             <button
               onClick={() => {
@@ -1224,7 +1241,7 @@ export default function MbaPgdmClient() {
                 setSmartTag('all');
                 setSearch('');
               }}
-              className="bg-blue-600 text-white font-bold px-6 py-2.5 rounded-xl text-sm hover:bg-blue-700 transition-colors shadow-md shadow-blue-500/20"
+              className="bg-[#6336EA] text-white font-bold px-6 py-2.5 rounded-xl text-sm hover:bg-purple-700 transition-colors shadow-md shadow-purple-500/20 cursor-pointer"
             >
               Reset All Filters
             </button>
@@ -1233,16 +1250,16 @@ export default function MbaPgdmClient() {
 
       </div>
 
-      {/* ── FLOATING MULTI-COLLEGE COMPARE TRAY ── */}
+      {/* ── FLOATING MULTI-COLLEGE COMPARE TRAY (HOME PAGE THEME) ── */}
       {comparedColleges.length > 0 && (
-        <div className="fixed bottom-5 inset-x-4 max-w-2xl mx-auto z-40 bg-slate-900/95 backdrop-blur-md text-white rounded-2xl p-4 shadow-2xl border border-white/20 flex items-center justify-between gap-4 animate-in slide-in-from-bottom-5 duration-200">
+        <div className="fixed bottom-5 inset-x-4 max-w-2xl mx-auto z-40 bg-[#0F1026]/95 backdrop-blur-md text-white rounded-2xl p-4 shadow-2xl border border-purple-500/30 flex items-center justify-between gap-4 animate-in slide-in-from-bottom-5 duration-200">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-blue-600 text-white flex items-center justify-center font-black text-sm shrink-0">
+            <div className="w-9 h-9 rounded-xl bg-[#6336EA] text-white flex items-center justify-center font-black text-sm shrink-0">
               {comparedColleges.length}
             </div>
             <div>
-              <p className="text-xs font-bold text-white">Compare B-Schools Side-by-Side</p>
-              <div className="flex items-center gap-1.5 text-[11px] text-slate-300 font-normal truncate max-w-xs sm:max-w-sm">
+              <p className="text-xs font-bold text-white font-display">Compare B-Schools Side-by-Side</p>
+              <div className="flex items-center gap-1.5 text-[11px] text-purple-200 font-normal truncate max-w-xs sm:max-w-sm">
                 {comparedColleges.map((c) => c.name.split('(')[0]).join(' vs ')}
               </div>
             </div>
@@ -1251,14 +1268,14 @@ export default function MbaPgdmClient() {
           <div className="flex items-center gap-2 shrink-0">
             <button
               onClick={() => setIsCompareModalOpen(true)}
-              className="bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-black text-xs px-4 py-2.5 rounded-xl shadow-md transition-all flex items-center gap-1.5"
+              className="bg-gradient-to-r from-[#6336EA] via-[#7C3AED] to-[#8B5CF6] hover:brightness-110 text-white font-black text-xs px-4 py-2.5 rounded-xl shadow-md transition-all flex items-center gap-1.5 cursor-pointer"
             >
               <Scale size={14} />
               <span>Compare Now</span>
             </button>
             <button
               onClick={() => setComparedColleges([])}
-              className="text-slate-400 hover:text-white p-2 text-xs font-bold"
+              className="text-slate-400 hover:text-white p-2 text-xs font-bold cursor-pointer"
               title="Clear comparison"
             >
               Clear
