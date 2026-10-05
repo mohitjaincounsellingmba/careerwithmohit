@@ -23,7 +23,6 @@ import {
   Award, 
   TrendingUp, 
   AlertTriangle, 
-  CheckCircle, 
   Shield, 
   Zap, 
   PhoneCall, 
@@ -39,7 +38,8 @@ import {
   Lock,
   Compass,
   FileSpreadsheet,
-  Coins
+  Coins,
+  BadgePercent
 } from 'lucide-react';
 import { CalendlyBookingWidget } from '@/components/CalendlyBookingWidget';
 
@@ -62,43 +62,12 @@ const TOP_COLLEGES_MARQUEE = [
   { name: 'Direct Institutional Quota', badge: '100% Official', cutoff: 'Profile Based' },
 ];
 
-const SESSION_DELIVERABLES = [
-  {
-    icon: Target,
-    title: 'Profile & Composite Score Audit',
-    badge: 'Min 00 - 08',
-    color: 'from-blue-500/20 to-indigo-500/20 border-blue-500/30 text-blue-400',
-    desc: 'Live calculation of your 10th, 12th, graduation marks, work experience, and gender/academic diversity weightage for IIMs & top B-schools.'
-  },
-  {
-    icon: Building2,
-    title: 'Dream / Target / Safe College List',
-    badge: 'Min 08 - 16',
-    color: 'from-emerald-500/20 to-teal-500/20 border-emerald-500/30 text-emerald-400',
-    desc: 'Get an unbiased 3-tier college shortlist customized to your exact percentile, preferred location (Delhi NCR, Pune, Mumbai, Bangalore) and budget.'
-  },
-  {
-    icon: TrendingUp,
-    title: 'Brochure vs. Real Placement ROI',
-    badge: 'Min 16 - 24',
-    color: 'from-amber-500/20 to-orange-500/20 border-amber-500/30 text-amber-400',
-    desc: 'Screen-share verified median salaries, top 50% average in-hand packages, hidden hostel charges, and batch size realities before investing ₹15L–₹25L.'
-  },
-  {
-    icon: ShieldCheck,
-    title: '100% Official Direct Admission Matrix',
-    badge: 'Min 24 - 30',
-    color: 'from-purple-500/20 to-pink-500/20 border-purple-500/30 text-purple-400',
-    desc: 'Unbiased facts on institutional quota seats, official college receipt payments, merit scholarships, and closing date calendars with zero brokers.'
-  }
-];
-
 const AGENDA_TABS = [
   {
     id: 'profile',
     title: 'Profile & Cutoff Audit',
     icon: Target,
-    badge: 'Min 00-08',
+    badge: 'Min 00 - 08',
     headline: 'Realistic Academic & Category Scorecard Evaluation',
     desc: 'Mohit evaluates your 10th, 12th, graduation marks, work experience, and category/diversity points against past 5-year B-school selection criteria.',
     items: [
@@ -112,7 +81,7 @@ const AGENDA_TABS = [
     id: 'shortlist',
     title: 'Dream / Target / Safe List',
     icon: Building2,
-    badge: 'Min 08-16',
+    badge: 'Min 08 - 16',
     headline: 'Customized College Shortlist for Your Exact Budget',
     desc: 'Get an unbiased list of colleges categorized into Dream, Realistic Target, and Safe Backups based on your budget (<₹10L, ₹10-15L, ₹15-25L) and preferred city.',
     items: [
@@ -126,7 +95,7 @@ const AGENDA_TABS = [
     id: 'roi',
     title: 'Tuition vs. Placement ROI',
     icon: TrendingUp,
-    badge: 'Min 16-24',
+    badge: 'Min 16 - 24',
     headline: 'Brochure Marketing vs. Real Median Salary Truth',
     desc: 'Live screen-share of verified placement records, hidden hostel/infrastructure charges, and actual median packages — separating real career ROI from glossy ads.',
     items: [
@@ -140,7 +109,7 @@ const AGENDA_TABS = [
     id: 'quota',
     title: 'Direct Admission Truth',
     icon: ShieldCheck,
-    badge: 'Min 24-30',
+    badge: 'Min 24 - 30',
     headline: '100% Genuine Management Quota & Institutional Seat Matrix',
     desc: 'Unbiased facts on institutional rounds, management quota seat availability, official college receipt payments, and eligibility cutoffs without middlemen fraud.',
     items: [
@@ -297,21 +266,26 @@ export function BookSessionClient({
   const matchedData = SAMPLE_MATCH_DATABASE[scoreRange] || SAMPLE_MATCH_DATABASE['75-90'];
 
   return (
-    <div className="min-h-screen bg-slate-900 text-slate-100 selection:bg-blue-600 selection:text-white pb-24">
+    <div className="min-h-screen bg-[#F8FAFC] text-slate-900 selection:bg-indigo-600 selection:text-white pb-24 relative overflow-hidden">
+      
+      {/* Subtle modern background gradient blobs & dot mesh */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[550px] bg-gradient-to-b from-indigo-100/60 via-blue-50/40 to-transparent rounded-full blur-[120px] pointer-events-none" />
+      <div className="absolute top-1/4 -right-40 w-96 h-96 bg-amber-100/40 rounded-full blur-[130px] pointer-events-none" />
+      <div className="absolute top-2/3 -left-40 w-96 h-96 bg-purple-100/40 rounded-full blur-[130px] pointer-events-none" />
       
       {/* 1. TOP ANNOUNCEMENT TICKER BANNER */}
-      <div className="bg-gradient-to-r from-blue-700 via-indigo-700 to-blue-800 text-white text-xs font-semibold py-2.5 px-4 shadow-inner border-b border-blue-600/40">
+      <div className="bg-gradient-to-r from-indigo-700 via-indigo-600 to-blue-700 text-white text-xs font-semibold py-2.5 px-4 shadow-sm border-b border-indigo-500/30 relative z-20">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="inline-flex items-center px-2 py-0.5 rounded-full bg-emerald-400/20 text-emerald-200 text-[10px] font-black border border-emerald-400/30 uppercase tracking-wide">
-              <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse mr-1" />
+              <span className="w-1.5 h-1.5 rounded-full bg-emerald-300 animate-pulse mr-1" />
               Live Slots Open
             </span>
-            <span className="text-blue-100 hidden sm:inline">
-              100% Free 1-on-1 MBA &amp; PGDM 2027 Admissions Consultation with Mohit Jain
+            <span className="text-indigo-100 hidden sm:inline">
+              100% Free 1-on-1 MBA &amp; PGDM 2027 Admissions Strategy Session with Mohit Jain
             </span>
-            <span className="text-blue-100 sm:hidden">
-              Free 1-on-1 MBA Counselling on Google Meet
+            <span className="text-indigo-100 sm:hidden">
+              Free 1-on-1 MBA Strategy Call on Google Meet
             </span>
           </div>
 
@@ -320,7 +294,7 @@ export function BookSessionClient({
               <Sparkles className="w-3.5 h-3.5" />
               <span>₹0 Fee • 30 Mins</span>
             </span>
-            <span className="text-blue-300 hidden md:inline">•</span>
+            <span className="text-indigo-300 hidden md:inline">•</span>
             <a 
               href="#booking-engine" 
               className="text-white hover:text-amber-200 underline underline-offset-2 font-bold transition-colors"
@@ -331,547 +305,428 @@ export function BookSessionClient({
         </div>
       </div>
 
-      {/* 2. THE GRAND HERO BANNER - BOOK FREE COUNSELLING SESSION */}
-      <section className="relative overflow-hidden pt-8 pb-16 lg:pb-20 border-b border-slate-800 bg-[#060D1A]">
-        
-        {/* Luminous Glow Background Effects */}
-        <div className="absolute -top-32 left-1/2 -translate-x-1/2 w-[850px] h-[450px] bg-gradient-to-b from-blue-600/20 via-indigo-600/10 to-transparent rounded-full blur-[140px] pointer-events-none" />
-        <div className="absolute top-1/4 -right-20 w-96 h-96 bg-cyan-500/10 rounded-full blur-[120px] pointer-events-none" />
-        <div className="absolute bottom-10 -left-20 w-96 h-96 bg-purple-600/10 rounded-full blur-[130px] pointer-events-none" />
-
-        {/* Decorative subtle grid lines */}
-        <div className="absolute inset-0 bg-[linear-gradient(to_right,#1e293b10_1px,transparent_1px),linear-gradient(to_bottom,#1e293b10_1px,transparent_1px)] bg-[size:32px_32px] pointer-events-none" />
-
+      {/* 2. SPLIT-SCREEN 2-COLUMN HERO SECTION */}
+      <section className="relative pt-6 pb-14 sm:pb-16 lg:pb-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           
           {/* Breadcrumbs */}
-          <nav className="flex items-center gap-2 text-xs text-slate-400 mb-6" aria-label="Breadcrumb">
-            <Link href="/" className="hover:text-white transition-colors">Home</Link>
-            <span className="text-slate-600">/</span>
-            <span className="text-blue-400 font-medium">Book Free 1-on-1 Counselling</span>
+          <nav className="flex items-center gap-2 text-xs text-slate-500 mb-6 font-medium" aria-label="Breadcrumb">
+            <Link href="/" className="hover:text-indigo-600 transition-colors">Home</Link>
+            <span className="text-slate-300">/</span>
+            <span className="text-indigo-600 font-semibold">Book Free 1-on-1 Session</span>
           </nav>
 
-          {/* MAIN SUPER-BANNER CONTAINER */}
-          <div className="bg-gradient-to-b from-slate-900/95 via-slate-900/90 to-[#0B1528] border border-blue-500/20 rounded-3xl p-6 sm:p-8 lg:p-10 shadow-2xl backdrop-blur-xl relative overflow-hidden mb-12">
+          {/* MAIN SPLIT-SCREEN GRID (50% Left & 50% Right on Desktop) */}
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start" id="booking-engine">
             
-            {/* Top Accent Line */}
-            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 via-indigo-400 to-amber-400" />
-            
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
+            {/* LEFT COLUMN: Student Intent & Value Proposition (50% on Desktop / 6 Cols) */}
+            <div className="lg:col-span-6 space-y-6 order-2 lg:order-1">
               
-              {/* Left 7 Columns: Core Message & Value Props */}
-              <div className="lg:col-span-7 space-y-6">
+              {/* Badge */}
+              <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-indigo-50 border border-indigo-200 text-indigo-900 text-xs font-bold shadow-xs">
+                <span className="text-amber-500">⚡</span>
+                <span>100% Free • IIM-B &amp; FMS Certified Mentorship</span>
+              </div>
+
+              {/* Headline */}
+              <div>
+                <h1 className="text-3xl sm:text-4xl lg:text-[42px] font-black text-slate-900 tracking-tight leading-[1.14]">
+                  Avoid a <span className="bg-gradient-to-r from-rose-600 to-indigo-600 bg-clip-text text-transparent">₹20 Lakh Career Mistake</span>. Book Your Free 1-on-1 MBA &amp; PGDM Strategy Session.
+                </h1>
+                <p className="mt-3.5 text-base sm:text-lg text-slate-600 font-normal leading-relaxed">
+                  Connect directly with <strong className="text-slate-900 font-bold">Mohit Jain</strong> on a 1-on-1 Google Meet video call. Screen-share verified cutoffs, audit real median in-hand salaries, and build your customized <strong className="text-indigo-700 font-bold">Dream / Target / Safe</strong> shortlist — before you invest ₹15L–₹25L.
+                </p>
+              </div>
+
+              {/* 4 Bullet Points with Light-Colored Icon Boxes */}
+              <div className="space-y-3 pt-1">
                 
-                {/* Visual Badges Row */}
-                <div className="flex flex-wrap items-center gap-2.5">
-                  <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-bold shadow-xs">
-                    <Video className="w-3.5 h-3.5 text-amber-400" />
-                    <span>Google Meet 1-on-1 Video Session</span>
+                {/* 1. Profile & Cutoff Audit */}
+                <div className="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow flex items-start gap-3.5">
+                  <div className="w-10 h-10 rounded-xl bg-blue-50 border border-blue-200/80 text-blue-600 flex items-center justify-center shrink-0 mt-0.5">
+                    <span className="text-lg">📊</span>
                   </div>
-
-                  <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-500/20 border border-emerald-400/30 text-emerald-300 text-xs font-bold shadow-xs">
-                    <CheckCircle2 className="w-3.5 h-3.5" />
-                    <span>100% Free &amp; Unbiased (₹0)</span>
-                  </div>
-
-                  <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-purple-500/20 border border-purple-400/30 text-purple-300 text-xs font-semibold">
-                    <GraduationCap className="w-3.5 h-3.5 text-purple-300" />
-                    <span>MBA / PGDM 2027</span>
+                  <div>
+                    <h3 className="text-sm font-bold text-slate-900">
+                      Live Profile &amp; Cutoff Audit
+                    </h3>
+                    <p className="text-xs text-slate-600 mt-0.5 leading-relaxed">
+                      10th, 12th, graduation marks, work experience &amp; category diversity score evaluation for IIMs and top B-schools.
+                    </p>
                   </div>
                 </div>
 
-                {/* Primary Headline */}
+                {/* 2. Dream, Target & Safe Shortlist */}
+                <div className="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow flex items-start gap-3.5">
+                  <div className="w-10 h-10 rounded-xl bg-emerald-50 border border-emerald-200/80 text-emerald-600 flex items-center justify-center shrink-0 mt-0.5">
+                    <span className="text-lg">🎯</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-bold text-slate-900">
+                      Dream, Target &amp; Safe Shortlist
+                    </h3>
+                    <p className="text-xs text-slate-600 mt-0.5 leading-relaxed">
+                      Custom 3-tier list tailored to your exact budget &amp; city preference to save <strong className="text-emerald-700 font-semibold">₹15,000+ in form fees</strong>.
+                    </p>
+                  </div>
+                </div>
+
+                {/* 3. Real Placement Salary Truth */}
+                <div className="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow flex items-start gap-3.5">
+                  <div className="w-10 h-10 rounded-xl bg-amber-50 border border-amber-200/80 text-amber-600 flex items-center justify-center shrink-0 mt-0.5">
+                    <span className="text-lg">💰</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-bold text-slate-900">
+                      Real Placement Salary Truth
+                    </h3>
+                    <p className="text-xs text-slate-600 mt-0.5 leading-relaxed">
+                      Actual median in-hand salary packages, batch size realities &amp; hidden charges vs. brochure marketing hype.
+                    </p>
+                  </div>
+                </div>
+
+                {/* 4. Parent-Friendly */}
+                <div className="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-xs hover:shadow-md transition-shadow flex items-start gap-3.5">
+                  <div className="w-10 h-10 rounded-xl bg-purple-50 border border-purple-200/80 text-purple-600 flex items-center justify-center shrink-0 mt-0.5">
+                    <span className="text-lg">👨‍👩‍👦</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-bold text-slate-900">
+                      Parent-Friendly Video Call
+                    </h3>
+                    <p className="text-xs text-slate-600 mt-0.5 leading-relaxed">
+                      Bring your parents to discuss collateral-free student loans, hostel safety &amp; fee installment schedules openly.
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+
+              {/* Social Proof & Trust Strip */}
+              <div className="p-4 sm:p-5 rounded-2xl bg-white border border-slate-200/80 shadow-xs space-y-3">
+                <div className="flex flex-wrap items-center justify-between gap-3 text-xs border-b border-slate-100 pb-3">
+                  <div className="flex items-center gap-2">
+                    <span className="font-extrabold text-slate-900 text-sm">10,000+</span>
+                    <span className="text-slate-500 font-medium">Aspirants Mentored</span>
+                  </div>
+                  <div className="h-4 w-px bg-slate-200 hidden sm:block" />
+                  <div className="flex items-center gap-1.5">
+                    <span className="font-extrabold text-amber-500 text-sm">4.9 ★★★★★</span>
+                    <span className="text-slate-500 font-medium">(1,450+ Verified Reviews)</span>
+                  </div>
+                </div>
+
+                {/* Top Institutional Converts Showcase */}
                 <div>
-                  <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-[1.12]">
-                    Book Your <span className="bg-gradient-to-r from-blue-400 via-indigo-300 to-amber-300 bg-clip-text text-transparent">Free 1-on-1 MBA Counselling</span> Session
-                  </h1>
-                  <p className="mt-4 text-base sm:text-lg text-slate-300 font-normal leading-relaxed">
-                    Connect directly with <strong className="text-white font-semibold">Mohit Jain</strong> (IIM-B &amp; FMS certified). Live screen-share past cutoffs, verify real median placement packages, and build your customized <strong className="text-amber-300 font-semibold">Dream / Target / Safe</strong> shortlist — before you invest ₹15L–₹25L.
-                  </p>
-                </div>
-
-                {/* 4 Pillars Grid (What You Get on the Call) */}
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-                  <div className="p-3.5 rounded-2xl bg-slate-800/60 border border-slate-700/70 flex items-start gap-3">
-                    <div className="w-8 h-8 rounded-xl bg-blue-500/20 border border-blue-400/30 text-blue-400 flex items-center justify-center shrink-0 mt-0.5">
-                      <Target className="w-4 h-4" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">Live Cutoff &amp; Profile Audit</h4>
-                      <p className="text-[11px] text-slate-400 mt-0.5">10th, 12th, grad &amp; diversity points evaluated</p>
-                    </div>
+                  <div className="text-[11px] font-bold text-slate-500 uppercase tracking-wider mb-2 flex items-center gap-1">
+                    <Award className="w-3.5 h-3.5 text-indigo-600" />
+                    <span>Top Institutional Converts Showcase:</span>
                   </div>
-
-                  <div className="p-3.5 rounded-2xl bg-slate-800/60 border border-slate-700/70 flex items-start gap-3">
-                    <div className="w-8 h-8 rounded-xl bg-emerald-500/20 border border-emerald-400/30 text-emerald-400 flex items-center justify-center shrink-0 mt-0.5">
-                      <Building2 className="w-4 h-4" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">Budget-Optimized Shortlist</h4>
-                      <p className="text-[11px] text-slate-400 mt-0.5">Dream, Target &amp; Safe options for your budget</p>
-                    </div>
-                  </div>
-
-                  <div className="p-3.5 rounded-2xl bg-slate-800/60 border border-slate-700/70 flex items-start gap-3">
-                    <div className="w-8 h-8 rounded-xl bg-amber-500/20 border border-amber-400/30 text-amber-400 flex items-center justify-center shrink-0 mt-0.5">
-                      <TrendingUp className="w-4 h-4" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">Real Placement Salary Truth</h4>
-                      <p className="text-[11px] text-slate-400 mt-0.5">Actual median in-hand salary vs brochure hype</p>
-                    </div>
-                  </div>
-
-                  <div className="p-3.5 rounded-2xl bg-slate-800/60 border border-slate-700/70 flex items-start gap-3">
-                    <div className="w-8 h-8 rounded-xl bg-purple-500/20 border border-purple-400/30 text-purple-400 flex items-center justify-center shrink-0 mt-0.5">
-                      <ShieldCheck className="w-4 h-4" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">100% Official Quota Matrix</h4>
-                      <p className="text-[11px] text-slate-400 mt-0.5">Institutional rounds &amp; college receipt fees</p>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Social Proof & Quick CTAs */}
-                <div className="pt-2 flex flex-wrap items-center gap-4 border-t border-slate-800">
-                  <a
-                    href="#booking-engine"
-                    className="px-6 py-3.5 rounded-2xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 hover:from-blue-500 hover:to-indigo-500 text-white text-sm font-extrabold shadow-lg shadow-blue-600/30 inline-flex items-center gap-2 transition-all transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
-                  >
-                    <Calendar className="w-4 h-4" />
-                    <span>Select Free Google Meet Slot</span>
-                    <ArrowRight className="w-4 h-4" />
-                  </a>
-
-                  <a
-                    href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20want%20to%20book%20a%20free%201-on-1%20MBA%20counselling%20video%20session%20today."
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="px-5 py-3.5 rounded-2xl bg-emerald-500/10 hover:bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 text-sm font-bold inline-flex items-center gap-2 transition-colors cursor-pointer"
-                  >
-                    <MessageCircle className="w-4 h-4 text-emerald-400" />
-                    <span>⚡ 1-Tap WhatsApp Booking</span>
-                  </a>
-                </div>
-
-              </div>
-
-              {/* Right 5 Columns: Mentor Spotlight Card */}
-              <div className="lg:col-span-5">
-                <div className="bg-gradient-to-b from-slate-800/90 to-slate-900/90 border border-slate-700/80 rounded-3xl p-6 shadow-2xl relative overflow-hidden backdrop-blur-md">
-                  
-                  {/* Glowing ambient light */}
-                  <div className="absolute top-0 right-0 w-48 h-48 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
-
-                  {/* Mentor Header */}
-                  <div className="flex items-center gap-4 mb-4">
-                    <div className="w-16 h-16 rounded-2xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-amber-500 flex items-center justify-center text-white text-2xl font-black shadow-lg ring-4 ring-blue-500/20 shrink-0">
-                      MJ
-                    </div>
-                    <div>
-                      <div className="flex items-center gap-2">
-                        <h3 className="text-lg font-black text-white">Mohit Jain</h3>
-                        <span className="text-[10px] font-extrabold bg-blue-600 text-white px-2 py-0.5 rounded-full flex items-center gap-1">
-                          <BadgeCheck className="w-3 h-3" />
-                          <span>Verified Mentor</span>
-                        </span>
-                      </div>
-                      <p className="text-xs text-blue-300 font-semibold mt-0.5">Chief MBA Admissions Mentor</p>
-                      <div className="flex items-center gap-1.5 text-xs text-amber-300 font-medium mt-1">
-                        <GraduationCap className="w-3.5 h-3.5" />
-                        <span>IIM-B &amp; FMS Alum Certified</span>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Mentor Quote */}
-                  <blockquote className="text-xs sm:text-sm text-slate-300 leading-relaxed italic border-l-2 border-amber-400/80 pl-3.5 py-1 mb-5">
-                    &ldquo;Choosing an MBA college isn&apos;t just about shiny brochures. It&apos;s a ₹20 Lakh career decision. My goal is to give you and your parents 100% transparent data, real cutoffs, and genuine median salary figures so you can make the right choice.&rdquo;
-                  </blockquote>
-
-                  {/* Key Stats Strip */}
-                  <div className="grid grid-cols-2 gap-2.5 pt-3 border-t border-slate-700/80">
-                    <div className="bg-slate-800/80 p-3 rounded-xl border border-slate-700/60 text-center">
-                      <div className="text-lg font-black text-amber-400">10,000+</div>
-                      <div className="text-[11px] text-slate-400">Aspirants Mentored</div>
-                    </div>
-
-                    <div className="bg-slate-800/80 p-3 rounded-xl border border-slate-700/60 text-center">
-                      <div className="text-lg font-black text-emerald-400">4.9 ★★★★★</div>
-                      <div className="text-[11px] text-slate-400">1,450+ Verified Reviews</div>
-                    </div>
-
-                    <div className="bg-slate-800/80 p-3 rounded-xl border border-slate-700/60 text-center">
-                      <div className="text-lg font-black text-blue-400">₹15,000+</div>
-                      <div className="text-[11px] text-slate-400">Avg. Saved on Form Fees</div>
-                    </div>
-
-                    <div className="bg-slate-800/80 p-3 rounded-xl border border-slate-700/60 text-center">
-                      <div className="text-lg font-black text-purple-400">₹0 Free</div>
-                      <div className="text-[11px] text-slate-400">Zero Sales Pressure</div>
-                    </div>
-                  </div>
-
-                  {/* Trust footer */}
-                  <div className="mt-4 pt-3 border-t border-slate-700/80 flex items-center justify-between text-xs text-slate-400">
-                    <span className="flex items-center gap-1.5 text-emerald-300 font-semibold">
-                      <ShieldCheck className="w-4 h-4 text-emerald-400" />
-                      <span>Zero Spam • 100% Privacy</span>
-                    </span>
-                    <span className="text-[11px] text-slate-400">Google Meet Encrypted</span>
-                  </div>
-
-                </div>
-              </div>
-
-            </div>
-
-          </div>
-
-          {/* 3. TOP TIER B-SCHOOL CONVERT LOGOS RIBBON */}
-          <div className="bg-slate-900/70 border border-slate-800 rounded-2xl p-4 overflow-hidden shadow-md">
-            <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
-              <div className="text-xs font-bold text-slate-400 uppercase tracking-wider shrink-0 flex items-center gap-1.5">
-                <Award className="w-4 h-4 text-amber-400" />
-                <span>Colleges Converted by Mentored Aspirants:</span>
-              </div>
-              <div className="flex items-center gap-2 overflow-x-auto no-scrollbar w-full sm:w-auto py-1">
-                {TOP_COLLEGES_MARQUEE.slice(0, 6).map((c, i) => (
-                  <div key={i} className="shrink-0 px-3 py-1.5 rounded-xl bg-slate-800/90 hover:bg-slate-700/90 border border-slate-700 text-xs font-medium text-slate-200 transition-colors flex items-center gap-2">
-                    <span>{c.name}</span>
-                    <span className="text-[10px] font-bold text-blue-400 bg-blue-950/80 px-1.5 py-0.5 rounded border border-blue-800/50">{c.badge}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </section>
-
-      {/* 4. THE CORE BOOKING ENGINE SECTION (Step Form & Interactive Live Calendly) */}
-      <section id="booking-engine" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 relative z-20">
-        
-        <div className="text-center max-w-3xl mx-auto mb-8">
-          <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-blue-500/10 border border-blue-400/20 text-blue-400 text-xs font-bold mb-2">
-            <CalendarCheck className="w-3.5 h-3.5 text-amber-400" />
-            <span>Interactive Booking Engine</span>
-          </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-black text-white">
-            Schedule Your Free 30-Minute Google Meet Call
-          </h2>
-          <p className="text-xs sm:text-sm text-slate-400 mt-2">
-            Step 1 takes only 20 seconds. Mohit will prepare your customized cutoff sheet and fee audit before the call begins.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-          
-          {/* Left Column: Interactive Agenda & Preparation Highlights (5 cols) */}
-          <div className="lg:col-span-5 space-y-5">
-            
-            {/* Inside the Call: Tabbed Interactive Agenda */}
-            <div className="bg-slate-800/80 rounded-3xl p-5 sm:p-6 border border-slate-700/80 shadow-lg">
-              <div className="flex items-center justify-between mb-3.5">
-                <div>
-                  <h3 className="text-base font-bold text-white flex items-center gap-2">
-                    <Laptop className="w-4 h-4 text-blue-400" />
-                    <span>What Happens On The Call</span>
-                  </h3>
-                  <p className="text-xs text-slate-400">Structured 30-minute agenda:</p>
-                </div>
-                <span className="text-[10px] font-bold text-emerald-400 bg-emerald-950/60 border border-emerald-500/30 px-2 py-0.5 rounded-full">
-                  Live Screen Share
-                </span>
-              </div>
-
-              {/* Tabs Switcher */}
-              <div className="grid grid-cols-2 gap-1.5 p-1 bg-slate-900/90 rounded-xl mb-4 border border-slate-700/60">
-                {AGENDA_TABS.map((tab) => {
-                  const isActive = activeTab === tab.id;
-                  const Icon = tab.icon;
-                  return (
-                    <button
-                      key={tab.id}
-                      type="button"
-                      onClick={() => setActiveTab(tab.id)}
-                      className={`flex items-center gap-1.5 px-2.5 py-2 rounded-lg text-left text-xs font-bold transition-all cursor-pointer ${
-                        isActive
-                          ? 'bg-blue-600 text-white shadow-sm ring-1 ring-blue-400/40'
-                          : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/60'
-                      }`}
-                    >
-                      <Icon className="w-3.5 h-3.5 shrink-0" />
-                      <span className="truncate">{tab.title}</span>
-                    </button>
-                  );
-                })}
-              </div>
-
-              {/* Active Tab Preview Card */}
-              <div className="p-4 rounded-2xl bg-slate-900/80 border border-slate-700/80">
-                <div className="flex items-center justify-between mb-2">
-                  <span className="text-[10px] font-black uppercase text-blue-400 bg-blue-950 border border-blue-800 px-2 py-0.5 rounded-md">
-                    {currentTab.badge}: {currentTab.title}
-                  </span>
-                  <span className="text-[10px] font-semibold text-emerald-400 flex items-center gap-1">
-                    <CheckCircle className="w-3 h-3 text-emerald-400" />
-                    <span>Live Screen Share</span>
-                  </span>
-                </div>
-
-                <h4 className="text-xs font-bold text-white mb-1">
-                  {currentTab.headline}
-                </h4>
-                <p className="text-[11px] text-slate-400 mb-3 leading-relaxed">
-                  {currentTab.desc}
-                </p>
-
-                {/* Deliverables Checklist */}
-                <div className="space-y-2 border-t border-slate-800 pt-3">
-                  {currentTab.items.map((it, idx) => (
-                    <div key={idx} className="flex items-start gap-2 text-xs">
-                      <Check className="w-3.5 h-3.5 text-emerald-400 shrink-0 mt-0.5" />
-                      <div>
-                        <strong className="text-slate-200 font-semibold">{it.label}:</strong>{' '}
-                        <span className="text-slate-400 text-[11px]">{it.val}</span>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-
-            {/* Parent Participation Highlight */}
-            <div className="bg-amber-500/10 border border-amber-500/20 rounded-3xl p-5 flex items-start gap-3.5">
-              <div className="w-10 h-10 rounded-2xl bg-amber-500/20 text-amber-300 flex items-center justify-center shrink-0 mt-0.5 border border-amber-400/30">
-                <Users className="w-5 h-5" />
-              </div>
-              <div>
-                <h4 className="text-xs font-bold text-amber-200">Parents are Warmly Encouraged to Join</h4>
-                <p className="text-[11px] text-amber-100/80 mt-0.5 leading-relaxed">
-                  MBA is a major ₹15L–₹25L family investment. Parents can join the Google Meet call to discuss collateral-free student loans, fee installments, hostel safety, and placement ROI together.
-                </p>
-              </div>
-            </div>
-
-            {/* Preparation Checklist */}
-            <div className="bg-slate-800/80 rounded-3xl p-5 border border-slate-700/80 shadow-md">
-              <div className="flex items-center gap-2 mb-2.5">
-                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <h3 className="text-xs font-bold text-white">Keep Handy for the Call:</h3>
-              </div>
-              <ul className="space-y-2 text-xs text-slate-300">
-                <li className="flex items-start gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
-                  <span>Estimated 10th, 12th, and Graduation marks / CGPA</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
-                  <span>Target entrance exams (CAT / XAT / CMAT / NMAT / MAT / SNAP)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
-                  <span>Preferred total budget (Under ₹10L, ₹10-15L, ₹15-25L)</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
-                  <span>Specific colleges in mind (e.g. SIBM, NMIMS, TAPMI, Great Lakes)</span>
-                </li>
-              </ul>
-            </div>
-
-            {/* Urgent Same-Day WhatsApp Card */}
-            <div className="bg-emerald-950/40 border border-emerald-500/30 rounded-3xl p-5 flex items-center justify-between gap-4">
-              <div>
-                <h4 className="text-xs font-bold text-emerald-200">Have an Urgent Application Closing Today?</h4>
-                <p className="text-[11px] text-emerald-300/80 mt-0.5">Chat directly on WhatsApp to get an immediate priority video slot.</p>
-              </div>
-              <a
-                href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20have%20an%20urgent%20MBA%20counselling%20query%20and%20need%20a%20slot%20today"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white rounded-xl text-xs font-bold shrink-0 transition-all shadow-md flex items-center gap-1.5 cursor-pointer"
-              >
-                <MessageCircle className="w-3.5 h-3.5" />
-                <span>WhatsApp</span>
-              </a>
-            </div>
-
-          </div>
-
-          {/* Right Column: Interactive Calendly Booking Wizard (7 cols) */}
-          <div className="lg:col-span-7">
-            <div className="sticky top-20">
-              <CalendlyBookingWidget url={calendlyUrl} />
-            </div>
-          </div>
-
-        </div>
-
-      </section>
-
-      {/* 5. INTERACTIVE B-SCHOOL MATCH & SHORTLIST SIMULATOR */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-20">
-        <div className="bg-gradient-to-br from-indigo-950 via-slate-900 to-blue-950 text-white rounded-3xl p-6 sm:p-8 shadow-2xl border border-blue-500/30 relative overflow-hidden">
-          <div className="absolute top-0 right-0 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
-          
-          <div className="relative z-10">
-            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
-              <div>
-                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-200 text-xs font-semibold mb-2">
-                  <Calculator className="w-3.5 h-3.5 text-amber-300" />
-                  <span>Instant Match Preview Tool</span>
-                </div>
-                <h2 className="text-xl sm:text-2xl font-black text-white">
-                  See What B-Schools You Can Target Right Now
-                </h2>
-                <p className="text-xs sm:text-sm text-slate-300 mt-1">
-                  Select your expected entrance percentile or direct quota preference:
-                </p>
-              </div>
-
-              <a
-                href="#booking-engine"
-                className="px-5 py-2.5 rounded-2xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold transition-all shadow-md inline-flex items-center justify-center gap-1.5 shrink-0"
-              >
-                <span>Unlock Full 1-on-1 Matrix on Call</span>
-                <ArrowRight className="w-4 h-4" />
-              </a>
-            </div>
-
-            {/* Interactive Selectors */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              
-              {/* Score Range Picker */}
-              <div className="bg-slate-900/80 border border-slate-700/80 rounded-2xl p-4 backdrop-blur-sm">
-                <label className="block text-xs font-bold text-blue-200 mb-2">
-                  1. Target Entrance Percentile / Score:
-                </label>
-                <div className="grid grid-cols-2 gap-1.5">
-                  {[
-                    { id: '90+', label: '90%+ (CAT/XAT/SNAP)' },
-                    { id: '75-90', label: '75–90%ile (Top Tier 2)' },
-                    { id: '50-75', label: '50–75%ile (CMAT/MAT)' },
-                    { id: 'direct', label: 'Direct / Institutional' },
-                  ].map((s) => (
-                    <button
-                      key={s.id}
-                      type="button"
-                      onClick={() => setScoreRange(s.id)}
-                      className={`px-2.5 py-2 rounded-xl text-xs font-bold text-left transition-all cursor-pointer ${
-                        scoreRange === s.id
-                          ? 'bg-blue-600 text-white shadow-sm ring-2 ring-blue-400/40'
-                          : 'bg-slate-800/80 text-slate-300 hover:bg-slate-700'
-                      }`}
-                    >
-                      {s.label}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Budget Range Picker */}
-              <div className="bg-slate-900/80 border border-slate-700/80 rounded-2xl p-4 backdrop-blur-sm">
-                <label className="block text-xs font-bold text-blue-200 mb-2">
-                  2. Preferred Budget (Fees + Living):
-                </label>
-                <div className="grid grid-cols-2 gap-1.5">
-                  {['Under ₹10 Lakhs', '₹10 - 15 Lakhs', '₹15 - 25 Lakhs', '₹25 Lakhs+'].map((b) => (
-                    <button
-                      key={b}
-                      type="button"
-                      onClick={() => setUserBudget(b)}
-                      className={`px-2.5 py-2 rounded-xl text-xs font-bold text-left transition-all cursor-pointer ${
-                        userBudget === b
-                          ? 'bg-emerald-600 text-white shadow-sm ring-2 ring-emerald-400/40'
-                          : 'bg-slate-800/80 text-slate-300 hover:bg-slate-700'
-                      }`}
-                    >
-                      {b}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Live Matching Output Card */}
-              <div className="bg-gradient-to-br from-blue-900/90 to-indigo-900/90 border border-blue-400/40 rounded-2xl p-4 flex flex-col justify-between">
-                <div>
-                  <div className="flex items-center justify-between mb-1.5">
-                    <span className="text-[10px] font-black uppercase text-amber-300 bg-amber-500/20 px-2 py-0.5 rounded border border-amber-400/30">
-                      Matching Tier
-                    </span>
-                    <span className="text-[11px] font-bold text-emerald-300">
-                      High Eligibility
-                    </span>
-                  </div>
-                  <h3 className="text-sm font-black text-white">{matchedData.tier}</h3>
-                  <div className="mt-2 flex flex-wrap gap-1">
-                    {matchedData.colleges.map((c, i) => (
-                      <span key={i} className="text-[10px] font-semibold bg-white/15 px-2 py-0.5 rounded text-blue-100">
-                        {c}
+                  <div className="flex flex-wrap gap-1.5">
+                    {['IIMs', 'SIBM Pune', 'NMIMS Mumbai', 'TAPMI', 'Great Lakes', 'BIMTECH', 'FORE School', 'GIM Goa'].map((college, idx) => (
+                      <span 
+                        key={idx} 
+                        className="px-2.5 py-1 rounded-lg bg-slate-100 text-slate-800 text-xs font-semibold border border-slate-200/70"
+                      >
+                        {college}
                       </span>
                     ))}
                   </div>
                 </div>
-                <p className="text-[11px] text-slate-200 mt-2.5 border-t border-white/10 pt-2 leading-tight">
-                  💡 <strong>Mentor Strategy:</strong> {matchedData.advice}
-                </p>
               </div>
 
+              {/* Mentor Spotlight Card */}
+              <div className="p-4 sm:p-5 rounded-2xl bg-gradient-to-r from-indigo-50/70 via-blue-50/50 to-slate-50/70 border border-indigo-100 flex items-center gap-4 shadow-xs">
+                <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-indigo-600 via-indigo-700 to-blue-600 text-white font-black text-xl flex items-center justify-center shadow-md shrink-0">
+                  MJ
+                </div>
+                <div>
+                  <div className="flex items-center gap-2">
+                    <h4 className="text-sm font-extrabold text-slate-900">Mohit Jain</h4>
+                    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-indigo-600 text-white text-[10px] font-extrabold">
+                      <BadgeCheck className="w-3 h-3" />
+                      <span>Verified Mentor</span>
+                    </span>
+                  </div>
+                  <p className="text-xs text-indigo-900 font-medium mt-0.5">Chief MBA Admissions Strategist • IIM-B &amp; FMS Certified</p>
+                  <p className="text-[11px] text-slate-600 mt-1 italic">
+                    &ldquo;Zero broker bias, zero commission pressure. Pure data &amp; transparent facts for your career.&rdquo;
+                  </p>
+                </div>
+              </div>
+
+            </div>
+
+            {/* RIGHT COLUMN: High-Graphics Multi-Step Interactive Form Card (50% on Desktop / 6 Cols) */}
+            <div className="lg:col-span-6 order-1 lg:order-2">
+              <div className="sticky top-6">
+                <CalendlyBookingWidget url={calendlyUrl} />
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+
+      {/* 3. TOP TIER B-SCHOOL CONVERT LOGOS TICKER RIBBON */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+        <div className="bg-white border border-slate-200/80 rounded-2xl p-4 sm:p-5 shadow-xs">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
+            <div className="text-xs font-bold text-slate-700 uppercase tracking-wider shrink-0 flex items-center gap-1.5">
+              <Award className="w-4 h-4 text-amber-500" />
+              <span>Colleges Converted by Mentored Aspirants:</span>
+            </div>
+            <div className="flex items-center gap-2 overflow-x-auto no-scrollbar w-full sm:w-auto py-1">
+              {TOP_COLLEGES_MARQUEE.slice(0, 6).map((c, i) => (
+                <div key={i} className="shrink-0 px-3 py-1.5 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-200 text-xs font-medium text-slate-800 transition-colors flex items-center gap-2">
+                  <span>{c.name}</span>
+                  <span className="text-[10px] font-bold text-indigo-700 bg-indigo-50 px-1.5 py-0.5 rounded border border-indigo-200/60">{c.badge}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 4. INTERACTIVE B-SCHOOL MATCH & SHORTLIST SIMULATOR */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+        <div className="bg-white rounded-3xl p-6 sm:p-8 shadow-xl shadow-slate-200/60 border border-slate-200/80 relative overflow-hidden">
+          
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+            <div>
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-50 border border-indigo-200 text-indigo-900 text-xs font-bold mb-2">
+                <Calculator className="w-3.5 h-3.5 text-indigo-600" />
+                <span>Instant Profile Match Simulator</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+                See What B-Schools You Can Target Right Now
+              </h2>
+              <p className="text-xs sm:text-sm text-slate-600 mt-1">
+                Select your expected entrance percentile or direct quota preference to preview matches:
+              </p>
+            </div>
+
+            <a
+              href="#booking-engine"
+              className="px-5 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold transition-all shadow-md shadow-indigo-600/20 inline-flex items-center justify-center gap-1.5 shrink-0"
+            >
+              <span>Unlock Full 1-on-1 Matrix on Call</span>
+              <ArrowRight className="w-4 h-4" />
+            </a>
+          </div>
+
+          {/* Interactive Selectors Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            
+            {/* Score Range Picker */}
+            <div className="bg-slate-50/80 border border-slate-200 rounded-2xl p-4">
+              <label className="block text-xs font-bold text-slate-800 mb-2">
+                1. Target Entrance Percentile / Score:
+              </label>
+              <div className="grid grid-cols-2 gap-1.5">
+                {[
+                  { id: '90+', label: '90%+ (CAT/XAT/SNAP)' },
+                  { id: '75-90', label: '75–90%ile (Top Tier 2)' },
+                  { id: '50-75', label: '50–75%ile (CMAT/MAT)' },
+                  { id: 'direct', label: 'Direct / Institutional' },
+                ].map((s) => (
+                  <button
+                    key={s.id}
+                    type="button"
+                    onClick={() => setScoreRange(s.id)}
+                    className={`px-2.5 py-2 rounded-xl text-xs font-bold text-left transition-all cursor-pointer ${
+                      scoreRange === s.id
+                        ? 'bg-indigo-600 text-white shadow-xs ring-2 ring-indigo-200'
+                        : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
+                    }`}
+                  >
+                    {s.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Budget Range Picker */}
+            <div className="bg-slate-50/80 border border-slate-200 rounded-2xl p-4">
+              <label className="block text-xs font-bold text-slate-800 mb-2">
+                2. Preferred Budget (Fees + Living):
+              </label>
+              <div className="grid grid-cols-2 gap-1.5">
+                {['Under ₹10 Lakhs', '₹10 - 15 Lakhs', '₹15 - 25 Lakhs', '₹25 Lakhs+'].map((b) => (
+                  <button
+                    key={b}
+                    type="button"
+                    onClick={() => setUserBudget(b)}
+                    className={`px-2.5 py-2 rounded-xl text-xs font-bold text-left transition-all cursor-pointer ${
+                      userBudget === b
+                        ? 'bg-emerald-600 text-white shadow-xs ring-2 ring-emerald-200'
+                        : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
+                    }`}
+                  >
+                    {b}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Live Matching Output Card */}
+            <div className="bg-gradient-to-br from-indigo-50 via-blue-50 to-slate-50 border border-indigo-200/80 rounded-2xl p-4 flex flex-col justify-between">
+              <div>
+                <div className="flex items-center justify-between mb-1.5">
+                  <span className="text-[10px] font-black uppercase text-indigo-800 bg-indigo-100 px-2 py-0.5 rounded border border-indigo-200">
+                    Matching Tier
+                  </span>
+                  <span className="text-[11px] font-bold text-emerald-700">
+                    High Eligibility
+                  </span>
+                </div>
+                <h3 className="text-sm font-black text-slate-900">{matchedData.tier}</h3>
+                <div className="mt-2 flex flex-wrap gap-1">
+                  {matchedData.colleges.map((c, i) => (
+                    <span key={i} className="text-[10px] font-semibold bg-white border border-slate-200 px-2 py-0.5 rounded-md text-indigo-900 shadow-2xs">
+                      {c}
+                    </span>
+                  ))}
+                </div>
+              </div>
+              <p className="text-[11px] text-slate-700 mt-2.5 border-t border-indigo-100 pt-2 leading-tight">
+                💡 <strong>Mentor Strategy:</strong> {matchedData.advice}
+              </p>
             </div>
 
           </div>
         </div>
       </section>
 
-      {/* 6. BEFORE VS. AFTER / WHY 90% MAKE MISTAKES (Comparison Table) */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-20">
-        <div className="text-center max-w-2xl mx-auto mb-10">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-500/10 border border-rose-500/30 text-rose-300 text-xs font-bold mb-2">
-            <AlertTriangle className="w-3.5 h-3.5 text-rose-400" />
+      {/* 5. STRUCTURED 30-MINUTE AGENDA SECTION */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+        <div className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200/80 shadow-xl shadow-slate-200/60">
+          
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6">
+            <div>
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-50 border border-indigo-200 text-indigo-900 text-xs font-bold mb-2">
+                <Laptop className="w-3.5 h-3.5 text-indigo-600" />
+                <span>What Happens On The Call</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
+                Inside Your 30-Minute Google Meet Session
+              </h2>
+            </div>
+            <span className="text-xs font-bold text-emerald-800 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full self-start sm:self-auto">
+              Live Screen-Share Consultation
+            </span>
+          </div>
+
+          {/* Agenda Tabs Switcher */}
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mb-6">
+            {AGENDA_TABS.map((tab) => {
+              const isActive = activeTab === tab.id;
+              const Icon = tab.icon;
+              return (
+                <button
+                  key={tab.id}
+                  type="button"
+                  onClick={() => setActiveTab(tab.id)}
+                  className={`flex items-center gap-2 p-3 rounded-2xl text-left text-xs font-bold transition-all border cursor-pointer ${
+                    isActive
+                      ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/20 border-indigo-600'
+                      : 'bg-slate-50 hover:bg-slate-100 text-slate-700 border-slate-200'
+                  }`}
+                >
+                  <Icon className={`w-4 h-4 shrink-0 ${isActive ? 'text-white' : 'text-indigo-600'}`} />
+                  <div className="truncate">
+                    <div className="text-[10px] opacity-80">{tab.badge}</div>
+                    <div className="truncate">{tab.title}</div>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+
+          {/* Active Tab Preview Card */}
+          <div className="p-5 sm:p-6 rounded-2xl bg-gradient-to-br from-indigo-50/60 via-slate-50 to-blue-50/60 border border-indigo-100">
+            <div className="flex flex-wrap items-center justify-between gap-2 mb-3">
+              <span className="text-xs font-extrabold uppercase text-indigo-900 bg-indigo-100 px-2.5 py-1 rounded-md border border-indigo-200">
+                {currentTab.badge}: {currentTab.title}
+              </span>
+              <span className="text-xs font-semibold text-emerald-700 flex items-center gap-1">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
+                <span>Live Google Meet Screen-Share</span>
+              </span>
+            </div>
+
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-1.5">
+              {currentTab.headline}
+            </h3>
+            <p className="text-xs sm:text-sm text-slate-600 mb-4 leading-relaxed">
+              {currentTab.desc}
+            </p>
+
+            {/* Deliverables Grid */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 border-t border-slate-200/80 pt-4">
+              {currentTab.items.map((it, idx) => (
+                <div key={idx} className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-slate-200/70 shadow-2xs">
+                  <Check className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                  <div>
+                    <strong className="text-xs font-bold text-slate-900 block">{it.label}</strong>
+                    <span className="text-[11px] text-slate-600">{it.val}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      {/* 6. COMPARISON MATRIX (Avoid Costly MBA Traps) */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+        <div className="text-center max-w-2xl mx-auto mb-8">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-rose-50 border border-rose-200 text-rose-800 text-xs font-bold mb-2">
+            <AlertTriangle className="w-3.5 h-3.5 text-rose-600" />
             <span>Avoid Costly MBA Traps</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+          <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
             Why 90% of Aspirants Waste ₹20,000+ &amp; Pick The Wrong College
           </h2>
-          <p className="text-xs sm:text-sm text-slate-400 mt-1">
-            See the difference between relying on marketing brokers vs. 1-on-1 verified data guidance
+          <p className="text-xs sm:text-sm text-slate-600 mt-1">
+            See the difference between relying on marketing agents vs. verified 1-on-1 data guidance
           </p>
         </div>
 
-        <div className="bg-slate-800/80 rounded-3xl border border-slate-700/80 shadow-xl overflow-hidden">
+        <div className="bg-white rounded-3xl border border-slate-200/80 shadow-xl shadow-slate-200/60 overflow-hidden">
           <div className="overflow-x-auto">
             <table className="w-full text-left border-collapse">
               <thead>
-                <tr className="border-b border-slate-700 bg-slate-900/90">
-                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-slate-400 w-1/3">
+                <tr className="border-b border-slate-200 bg-slate-50">
+                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-slate-600 w-1/3">
                     Decision Factor
                   </th>
-                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-rose-400 bg-rose-950/40 w-1/3">
-                    ❌ The Regular Way (Marketing Agents)
+                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-rose-700 bg-rose-50/70 w-1/3">
+                    ❌ Regular Way (Brokers &amp; Generic Blogs)
                   </th>
-                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-emerald-300 bg-emerald-950/50 w-1/3">
+                  <th className="p-4 sm:p-5 text-xs font-black uppercase text-emerald-800 bg-emerald-50/70 w-1/3">
                     ✅ With Mohit Jain (Google Meet)
                   </th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-slate-700/60 text-xs sm:text-sm">
+              <tbody className="divide-y divide-slate-100 text-xs sm:text-sm">
                 {COMPARISON_ROWS.map((row, idx) => (
-                  <tr key={idx} className="hover:bg-slate-700/30 transition-colors">
-                    <td className="p-4 sm:p-5 font-bold text-white align-top">
+                  <tr key={idx} className="hover:bg-slate-50/50 transition-colors">
+                    <td className="p-4 sm:p-5 font-bold text-slate-900 align-top">
                       {row.feature}
                     </td>
-                    <td className="p-4 sm:p-5 text-slate-300 bg-rose-950/20 align-top">
+                    <td className="p-4 sm:p-5 text-slate-600 bg-rose-50/30 align-top">
                       <div className="flex items-start gap-2">
-                        <XCircle className="w-4 h-4 text-rose-400 shrink-0 mt-0.5" />
+                        <XCircle className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
                         <span>{row.without}</span>
                       </div>
                     </td>
-                    <td className="p-4 sm:p-5 text-slate-200 bg-emerald-950/30 font-medium align-top">
+                    <td className="p-4 sm:p-5 text-slate-900 bg-emerald-50/30 font-medium align-top">
                       <div className="flex items-start gap-2">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
                         <span>{row.withMohit}</span>
                       </div>
                     </td>
@@ -881,13 +736,13 @@ export function BookSessionClient({
             </table>
           </div>
 
-          <div className="p-4 sm:p-5 bg-gradient-to-r from-blue-950 via-indigo-950 to-blue-950 border-t border-blue-900/60 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div className="text-xs text-blue-200 font-semibold text-center sm:text-left">
+          <div className="p-4 sm:p-5 bg-gradient-to-r from-indigo-50 via-blue-50 to-slate-50 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="text-xs text-slate-700 font-semibold text-center sm:text-left">
               💡 <strong>Bottom Line:</strong> 30 minutes of honest guidance can save you ₹15,000+ in unnecessary form fees and prevent a ₹20 Lakh career mistake.
             </div>
             <a
               href="#booking-engine"
-              className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold transition-all shadow-sm shrink-0"
+              className="px-5 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold transition-all shadow-sm shrink-0"
             >
               Book Your Free Slot
             </a>
@@ -896,46 +751,46 @@ export function BookSessionClient({
       </section>
 
       {/* 7. VERIFIED STUDENT TESTIMONIALS */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-20">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
         <div className="text-center max-w-xl mx-auto mb-8">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-400/20 text-blue-400 text-xs font-bold mb-2">
-            <Star className="w-3.5 h-3.5 fill-current text-amber-400" />
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-50 border border-amber-200 text-amber-900 text-xs font-bold mb-2">
+            <Star className="w-3.5 h-3.5 fill-current text-amber-500" />
             <span>Verified Student Reviews</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+          <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
             Real Stories From Real Aspirants
           </h2>
-          <p className="text-xs sm:text-sm text-slate-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-600 mt-1">
             Read how 30 minutes of honest guidance helped students secure admissions in top B-Schools
           </p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {TESTIMONIALS.map((t, idx) => (
-            <div key={idx} className="bg-slate-800/80 rounded-3xl p-5 border border-slate-700/80 shadow-sm flex flex-col justify-between hover:shadow-md hover:border-blue-500/40 transition-all">
+            <div key={idx} className="bg-white rounded-3xl p-5 border border-slate-200/80 shadow-xs flex flex-col justify-between hover:shadow-md hover:border-indigo-300 transition-all">
               <div>
                 <div className="flex items-center justify-between mb-3">
-                  <div className="flex items-center gap-1 text-amber-400">
+                  <div className="flex items-center gap-1 text-amber-500">
                     {[...Array(t.rating)].map((_, i) => (
                       <Star key={i} className="w-3.5 h-3.5 fill-current" />
                     ))}
                   </div>
-                  <span className="text-[10px] font-bold bg-blue-500/20 text-blue-300 border border-blue-400/30 px-2 py-0.5 rounded-full">
+                  <span className="text-[10px] font-bold bg-indigo-50 text-indigo-800 border border-indigo-200 px-2 py-0.5 rounded-full">
                     {t.badge}
                   </span>
                 </div>
-                <p className="text-xs text-slate-300 italic leading-relaxed mb-4">
+                <p className="text-xs text-slate-600 italic leading-relaxed mb-4">
                   &ldquo;{t.quote}&rdquo;
                 </p>
               </div>
 
-              <div className="border-t border-slate-700/60 pt-3 flex items-center gap-2.5">
-                <div className="w-8 h-8 rounded-full bg-blue-600 text-white text-xs font-black flex items-center justify-center shrink-0">
+              <div className="border-t border-slate-100 pt-3 flex items-center gap-2.5">
+                <div className="w-8 h-8 rounded-full bg-indigo-600 text-white text-xs font-black flex items-center justify-center shrink-0">
                   {t.avatar}
                 </div>
                 <div>
-                  <div className="text-xs font-bold text-white">{t.name}</div>
-                  <div className="text-[10px] text-blue-400 font-medium">{t.college}</div>
+                  <div className="text-xs font-bold text-slate-900">{t.name}</div>
+                  <div className="text-[10px] text-indigo-600 font-medium">{t.college}</div>
                 </div>
               </div>
             </div>
@@ -944,16 +799,16 @@ export function BookSessionClient({
       </section>
 
       {/* 8. FREQUENTLY ASKED QUESTIONS */}
-      <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mt-20">
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
         <div className="text-center max-w-xl mx-auto mb-8">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-400/20 text-blue-400 text-xs font-semibold mb-2">
-            <HelpCircle className="w-3.5 h-3.5" />
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-50 border border-indigo-200 text-indigo-900 text-xs font-semibold mb-2">
+            <HelpCircle className="w-3.5 h-3.5 text-indigo-600" />
             <span>Got Questions?</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
+          <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
             Frequently Asked Questions
           </h2>
-          <p className="text-xs sm:text-sm text-slate-400 mt-1">
+          <p className="text-xs sm:text-sm text-slate-600 mt-1">
             Clear, honest answers to help you get the most out of your 1-on-1 session
           </p>
         </div>
@@ -964,8 +819,8 @@ export function BookSessionClient({
             return (
               <div 
                 key={idx} 
-                className={`bg-slate-800/80 rounded-2xl border transition-all ${
-                  isOpen ? 'border-blue-500 shadow-sm ring-2 ring-blue-500/20' : 'border-slate-700/80 hover:border-slate-600'
+                className={`bg-white rounded-2xl border transition-all ${
+                  isOpen ? 'border-indigo-500 shadow-sm ring-2 ring-indigo-100' : 'border-slate-200/80 hover:border-slate-300 shadow-2xs'
                 }`}
               >
                 <button
@@ -973,11 +828,11 @@ export function BookSessionClient({
                   onClick={() => setOpenFaq(isOpen ? null : idx)}
                   className="w-full text-left p-4 sm:p-5 flex items-center justify-between cursor-pointer select-none"
                 >
-                  <span className="font-bold text-xs sm:text-sm text-white pr-4">{faq.q}</span>
-                  <ChevronDown className={`w-4 h-4 text-slate-400 transition-transform duration-200 shrink-0 ${isOpen ? 'rotate-180 text-blue-400' : ''}`} />
+                  <span className="font-bold text-xs sm:text-sm text-slate-900 pr-4">{faq.q}</span>
+                  <ChevronDown className={`w-4 h-4 text-slate-400 transition-transform duration-200 shrink-0 ${isOpen ? 'rotate-180 text-indigo-600' : ''}`} />
                 </button>
                 {isOpen && (
-                  <div className="px-4 sm:px-5 pb-4 sm:pb-5 pt-1 text-xs sm:text-sm text-slate-300 leading-relaxed border-t border-slate-700/80">
+                  <div className="px-4 sm:px-5 pb-4 sm:pb-5 pt-1 text-xs sm:text-sm text-slate-600 leading-relaxed border-t border-slate-100">
                     {faq.a}
                   </div>
                 )}
@@ -987,20 +842,20 @@ export function BookSessionClient({
         </div>
 
         {/* Bottom Reassurance Banner */}
-        <div className="mt-12 text-center p-6 sm:p-8 bg-gradient-to-r from-blue-950/80 via-slate-900 to-indigo-950/80 border border-blue-500/30 rounded-3xl shadow-xl">
-          <div className="w-12 h-12 rounded-2xl bg-blue-600 text-white flex items-center justify-center mx-auto mb-3 shadow-md">
+        <div className="mt-12 text-center p-6 sm:p-8 bg-gradient-to-r from-indigo-50 via-blue-50 to-slate-50 border border-indigo-200/80 rounded-3xl shadow-lg">
+          <div className="w-12 h-12 rounded-2xl bg-indigo-600 text-white flex items-center justify-center mx-auto mb-3 shadow-md">
             <CalendarCheck className="w-6 h-6" />
           </div>
-          <h3 className="text-base sm:text-lg font-bold text-white">
+          <h3 className="text-base sm:text-lg font-bold text-slate-900">
             Still wondering if this session is right for you?
           </h3>
-          <p className="text-xs sm:text-sm text-slate-300 mt-1.5 max-w-lg mx-auto leading-relaxed">
+          <p className="text-xs sm:text-sm text-slate-600 mt-1.5 max-w-lg mx-auto leading-relaxed">
             There is zero financial commitment. It is 30 minutes of honest, expert advice to help you avoid making a ₹15L–₹25L college selection mistake.
           </p>
           <div className="mt-5 flex flex-wrap items-center justify-center gap-3">
             <a
               href="#booking-engine"
-              className="px-6 py-3 rounded-2xl bg-blue-600 hover:bg-blue-500 text-white text-xs sm:text-sm font-bold transition-all shadow-md shadow-blue-500/20 inline-flex items-center gap-2"
+              className="px-6 py-3 rounded-2xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs sm:text-sm font-bold transition-all shadow-md shadow-indigo-600/20 inline-flex items-center gap-2 cursor-pointer"
             >
               <CalendarCheck className="w-4 h-4" />
               <span>Book Your Free Slot Now</span>
@@ -1009,9 +864,9 @@ export function BookSessionClient({
               href="https://wa.me/919560020771?text=Hi%20Mohit%20Sir%2C%20I%20have%20a%20quick%20question%20before%20booking%20my%20session"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-6 py-3 rounded-2xl bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-600 text-xs sm:text-sm font-bold transition-all inline-flex items-center gap-2 shadow-xs"
+              className="px-6 py-3 rounded-2xl bg-white hover:bg-slate-50 text-slate-800 border border-slate-300 text-xs sm:text-sm font-bold transition-all inline-flex items-center gap-2 shadow-xs cursor-pointer"
             >
-              <MessageCircle className="w-4 h-4 text-emerald-400" />
+              <MessageCircle className="w-4 h-4 text-emerald-600" />
               <span>Ask on WhatsApp</span>
             </a>
           </div>
@@ -1019,11 +874,11 @@ export function BookSessionClient({
       </section>
 
       {/* 9. STICKY FLOATING MOBILE ACTION BAR */}
-      <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-md border-t border-slate-800 p-3 shadow-2xl">
+      <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-slate-200 p-3 shadow-2xl">
         <div className="flex items-center gap-2.5 max-w-md mx-auto">
           <a
             href="#booking-engine"
-            className="flex-1 py-3 px-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-black text-center shadow-md flex items-center justify-center gap-1.5"
+            className="flex-1 py-3 px-4 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-black text-center shadow-md shadow-indigo-600/25 flex items-center justify-center gap-1.5"
           >
             <Video className="w-4 h-4 text-amber-300" />
             <span>Book Free Google Meet</span>
@@ -1032,7 +887,7 @@ export function BookSessionClient({
             href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20want%20to%20book%20a%20free%201-on-1%20counselling%20session"
             target="_blank"
             rel="noopener noreferrer"
-            className="py-3 px-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold flex items-center justify-center shrink-0 shadow-md"
+            className="py-3 px-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold flex items-center justify-center shrink-0 shadow-md"
             aria-label="Chat on WhatsApp"
           >
             <MessageCircle className="w-4 h-4" />
