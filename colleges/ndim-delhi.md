@@ -19,6 +19,7 @@ exams:
   - MAT
   - CMAT
   - GMAT
+brochure_url: /brochures/ndim-delhi-brochure.pdf
 website: 'https://www.ndimdelhi.org'
 seo_title: 'NDIM Delhi (New Delhi Institute of Management) MBA Fees, Cut'
 seo_description: >-

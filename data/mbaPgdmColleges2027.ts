@@ -49,7 +49,8 @@ export const MBA_PGDM_COLLEGES_2027: MbaPgdmCollege[] = [
     },
     avgPlacement: '₹9.50 LPA',
     highestPlacement: '₹24.00 LPA',
-    topRecruiters: ['Deloitte', 'KPMG', 'EY', 'Infosys', 'HDFC Bank', 'Amazon', 'Tata Motors']
+    topRecruiters: ['Deloitte', 'KPMG', 'EY', 'Infosys', 'HDFC Bank', 'Amazon', 'Tata Motors'],
+    brochureUrl: '/brochures/ndim-delhi-brochure.pdf'
   },
   {
     name: 'FOSTIIMA Business School',

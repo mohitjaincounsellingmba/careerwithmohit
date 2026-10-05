@@ -23,6 +23,7 @@ export interface FeaturedCollege {
   isHighRoi?: boolean;
   hasDiscount?: boolean;
   hasDirectAdmission?: boolean;
+  brochureUrl?: string;
 }
 
 export const FEATURED_DIRECTORY_COLLEGES: FeaturedCollege[] = [
@@ -377,6 +378,7 @@ export const FEATURED_DIRECTORY_COLLEGES: FeaturedCollege[] = [
     approvals: 'AICTE, NBA, AIU',
     hasDiscount: true,
     hasDirectAdmission: true,
+    brochureUrl: '/brochures/ndim-delhi-brochure.pdf',
   },
   {
     id: 'fostiima',
