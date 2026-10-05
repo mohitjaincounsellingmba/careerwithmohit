@@ -396,6 +396,7 @@ export default function MbaPgdmAdmission2027Page() {
                   <th className="px-6 py-4.5">Total 2-Yr Fee</th>
                   <th className="px-6 py-4.5 text-center">Accreditation</th>
                   <th className="px-6 py-4.5 text-center">Highlight Badge</th>
+                  <th className="px-6 py-4.5 text-center">Official Brochure</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-slate-100 text-sm text-slate-700 font-medium">
@@ -413,6 +414,17 @@ export default function MbaPgdmAdmission2027Page() {
                       <span className="bg-slate-100 text-slate-800 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border border-slate-200 inline-block">
                         {c.badge}
                       </span>
+                    </td>
+                    <td className="px-6 py-4 text-center">
+                      <a
+                        href={`https://wa.me/919560020771?text=${encodeURIComponent(`Hi Mohit, please send me the official 2027 Brochure & Fee Structure for ${c.name} (Batch 2027-2029).`)}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1.5 bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black text-xs px-3.5 py-1.5 rounded-xl shadow-xs transition-all hover:scale-105 active:scale-95"
+                      >
+                        <FileText size={13} className="text-slate-950" />
+                        <span>Get Brochure</span>
+                      </a>
                     </td>
                   </tr>
                 ))}

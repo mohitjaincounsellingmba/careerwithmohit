@@ -6,10 +6,11 @@ import {
   MapPin, BadgeCheck, Search, X, SlidersHorizontal, Phone,
   ChevronDown, GraduationCap, Building2, Award, CheckCircle2, MessageCircle,
   LayoutGrid, List, Scale, ArrowRight, Sparkles, TrendingUp,
-  ShieldCheck, Check, RotateCcw, ExternalLink, HelpCircle, Briefcase, DollarSign
+  ShieldCheck, Check, RotateCcw, ExternalLink, HelpCircle, Briefcase, DollarSign, Download, FileText
 } from 'lucide-react';
 import { MBA_PGDM_COLLEGES_2027, MbaPgdmCollege } from '@/data/mbaPgdmColleges2027';
 import { submitLead } from '@/lib/leads';
+import { BrochureModal } from '@/components/BrochureModal';
 
 // Location filters with sub-region grouping
 const LOCATION_FILTERS = [
@@ -247,10 +248,12 @@ function CollegeDetailModal({
   college,
   onClose,
   onInquire,
+  onBrochure,
 }: {
   college: MbaPgdmCollege;
   onClose: () => void;
   onInquire: () => void;
+  onBrochure: () => void;
 }) {
   const [activeTab, setActiveTab] = useState<'Overview' | 'Placements' | 'Specializations' | 'DirectAdmission'>('Overview');
   const reviewSlug = getReviewSlug(college.name);
@@ -470,6 +473,14 @@ function CollegeDetailModal({
               <span>Apply for Direct Admission 2027 →</span>
             </button>
 
+            <button
+              onClick={onBrochure}
+              className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black px-6 py-4 rounded-xl transition-all text-sm flex items-center justify-center gap-2 shadow-md shadow-amber-400/20"
+            >
+              <Download size={17} className="text-slate-950 stroke-[2.5]" />
+              <span>Download Brochure</span>
+            </button>
+
             <a
               href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi Mohit, I want direct admission details and fee structure for ${college.name} (Batch 2027-2029).`)}`}
               target="_blank"
@@ -502,11 +513,13 @@ function CompareModal({
   onClose,
   onRemove,
   onInquire,
+  onBrochure,
 }: {
   colleges: MbaPgdmCollege[];
   onClose: () => void;
   onRemove: (slug: string) => void;
   onInquire: (college: MbaPgdmCollege) => void;
+  onBrochure: (college: MbaPgdmCollege) => void;
 }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4" onClick={onClose}>
@@ -603,6 +616,16 @@ function CompareModal({
                   >
                     Direct Apply 2027 →
                   </button>
+                  <button
+                    onClick={() => {
+                      onClose();
+                      onBrochure(college);
+                    }}
+                    className="w-full bg-amber-400 hover:bg-amber-300 text-slate-950 font-black py-2 rounded-xl text-xs transition-colors flex items-center justify-center gap-1.5 shadow-xs"
+                  >
+                    <Download size={13} className="text-slate-950 stroke-[2.5]" />
+                    <span>Download Brochure (PDF)</span>
+                  </button>
                   <a
                     href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi, I am comparing B-Schools. Please share admission counseling for ${college.name}.`)}`}
                     target="_blank"
@@ -645,6 +668,7 @@ export default function MbaPgdmClient() {
 
   const [selectedCollegeForInquiry, setSelectedCollegeForInquiry] = useState<MbaPgdmCollege | null>(null);
   const [selectedCollegeForDetail, setSelectedCollegeForDetail] = useState<MbaPgdmCollege | null>(null);
+  const [selectedCollegeForBrochure, setSelectedCollegeForBrochure] = useState<MbaPgdmCollege | null>(null);
   const [comparedColleges, setComparedColleges] = useState<MbaPgdmCollege[]>([]);
   const [isCompareModalOpen, setIsCompareModalOpen] = useState(false);
 
@@ -1017,17 +1041,26 @@ export default function MbaPgdmClient() {
                   </div>
 
                   {/* Card Footer Action Strip */}
-                  <div className="p-5 sm:p-6 pt-0 space-y-2">
+                  <div className="p-5 sm:p-6 pt-0 space-y-2.5">
                     {/* Primary Direct Admission CTA */}
                     <button
                       onClick={() => setSelectedCollegeForInquiry(college)}
-                      className="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black py-3 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-blue-500/20"
+                      className="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-black py-3 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-blue-500/20 active:scale-[0.99]"
                     >
-                      <span>⚡ Direct Apply / Inquiry</span>
+                      <span>⚡ Direct Apply &amp; Fee Waivers</span>
                       <ArrowRight size={14} />
                     </button>
 
-                    {/* Secondary Actions (WhatsApp + Review + Details) */}
+                    {/* Prominent Brochure Download Button */}
+                    <button
+                      onClick={() => setSelectedCollegeForBrochure(college)}
+                      className="w-full bg-gradient-to-r from-amber-400 via-amber-300 to-amber-400 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black py-2.5 rounded-xl text-xs transition-all flex items-center justify-center gap-2 shadow-md shadow-amber-400/20 active:scale-[0.99] border border-amber-300"
+                    >
+                      <Download size={14} className="text-slate-950 stroke-[2.5]" />
+                      <span>Download 2027 Brochure &amp; Fee PDF</span>
+                    </button>
+
+                    {/* Secondary Actions (WhatsApp + Quick Details) */}
                     <div className="grid grid-cols-2 gap-2">
                       <a
                         href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi Mohit, I want direct admission details for ${college.name} (Batch 2027-2029).`)}`}
@@ -1126,12 +1159,20 @@ export default function MbaPgdmClient() {
                           </span>
                         </td>
                         <td className="px-5 py-4 text-center">
-                          <div className="flex items-center justify-center gap-2">
+                          <div className="flex items-center justify-center gap-1.5 flex-wrap">
                             <button
                               onClick={() => setSelectedCollegeForInquiry(college)}
                               className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-3 py-1.5 rounded-lg text-xs transition-colors"
                             >
                               Direct Apply
+                            </button>
+                            <button
+                              onClick={() => setSelectedCollegeForBrochure(college)}
+                              className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-black px-2.5 py-1.5 rounded-lg text-xs flex items-center gap-1 transition-colors shadow-xs"
+                              title="Download Brochure"
+                            >
+                              <Download size={12} className="stroke-[2.5]" />
+                              <span>Brochure</span>
                             </button>
                             <a
                               href={`https://wa.me/${college.whatsapp}?text=${encodeURIComponent(`Hi Mohit, I want details for ${college.name}`)}`}
@@ -1244,6 +1285,11 @@ export default function MbaPgdmClient() {
             setSelectedCollegeForDetail(null);
             setSelectedCollegeForInquiry(c);
           }}
+          onBrochure={() => {
+            const c = selectedCollegeForDetail;
+            setSelectedCollegeForDetail(null);
+            setSelectedCollegeForBrochure(c);
+          }}
         />
       )}
 
@@ -1257,6 +1303,26 @@ export default function MbaPgdmClient() {
             setIsCompareModalOpen(false);
             setSelectedCollegeForInquiry(college);
           }}
+          onBrochure={(college) => {
+            setIsCompareModalOpen(false);
+            setSelectedCollegeForBrochure(college);
+          }}
+        />
+      )}
+
+      {/* ── BROCHURE DOWNLOAD MODAL ── */}
+      {selectedCollegeForBrochure && (
+        <BrochureModal
+          isOpen={!!selectedCollegeForBrochure}
+          onClose={() => setSelectedCollegeForBrochure(null)}
+          collegeName={selectedCollegeForBrochure.name}
+          collegeSlug={selectedCollegeForBrochure.universitySlug}
+          feesText={selectedCollegeForBrochure.fee}
+          batch="2027–2029"
+          location={selectedCollegeForBrochure.location}
+          avgPlacement={selectedCollegeForBrochure.avgPlacement}
+          highestPlacement={selectedCollegeForBrochure.highestPlacement}
+          accreditation={selectedCollegeForBrochure.accreditation}
         />
       )}
     </section>

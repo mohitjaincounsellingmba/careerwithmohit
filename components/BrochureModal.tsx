@@ -11,6 +11,11 @@ interface BrochureModalProps {
   collegeSlug: string;
   brochureUrl?: string;
   feesText?: string;
+  batch?: string;
+  location?: string;
+  avgPlacement?: string;
+  highestPlacement?: string;
+  accreditation?: string;
 }
 
 export function BrochureModal({
@@ -19,7 +24,12 @@ export function BrochureModal({
   collegeName,
   collegeSlug,
   brochureUrl,
-  feesText = "Contact for latest fee structure"
+  feesText = "Contact for latest fee structure",
+  batch = "2027–2029",
+  location,
+  avgPlacement,
+  highestPlacement,
+  accreditation,
 }: BrochureModalProps) {
   const [name, setName] = useState("");
   const [phone, setPhone] = useState("");
@@ -41,7 +51,7 @@ export function BrochureModal({
         course,
         college: collegeName,
         source: `Brochure Download (${collegeSlug})`,
-        message: `Requested 2026 Brochure & Fee Report for ${collegeName}`
+        message: `Requested ${batch} Brochure & Fee Report for ${collegeName}`
       });
       
       setStatus("success");
@@ -58,44 +68,64 @@ export function BrochureModal({
               <!DOCTYPE html>
               <html>
               <head>
-                <title>${collegeName} - 2026 Brochure & Fee Summary</title>
+                <title>${collegeName} - ${batch} Brochure & Fee Summary</title>
                 <style>
-                  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 40px; color: #1e293b; max-width: 750px; margin: 0 auto; }
-                  .header { border-bottom: 3px solid #2563eb; padding-bottom: 20px; margin-bottom: 30px; }
-                  h1 { color: #1e293b; margin: 0 0 10px; font-size: 28px; }
-                  .badge { background: #eff6ff; color: #2563eb; padding: 6px 12px; border-radius: 20px; font-weight: 700; font-size: 12px; text-transform: uppercase; }
-                  .box { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 25px; margin-bottom: 25px; }
-                  .row { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid #e2e8f0; font-size: 15px; }
+                  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; padding: 40px; color: #1e293b; max-width: 750px; margin: 0 auto; line-height: 1.5; }
+                  .header { border-bottom: 3px solid #2563eb; padding-bottom: 20px; margin-bottom: 25px; }
+                  h1 { color: #0f172a; margin: 10px 0 6px; font-size: 26px; }
+                  .badge { background: #eff6ff; color: #2563eb; padding: 6px 14px; border-radius: 20px; font-weight: 800; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid #bfdbfe; }
+                  .box { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; margin-bottom: 24px; }
+                  .row { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 14px; }
                   .row:last-child { border-bottom: none; }
                   .label { font-weight: 600; color: #64748b; }
-                  .val { font-weight: 700; color: #0f172a; }
-                  .footer { margin-top: 40px; font-size: 13px; color: #64748b; text-align: center; border-top: 1px solid #e2e8f0; padding-top: 20px; }
+                  .val { font-weight: 800; color: #0f172a; text-align: right; }
+                  .footer { margin-top: 35px; font-size: 12px; color: #64748b; text-align: center; border-top: 1px solid #e2e8f0; padding-top: 20px; }
                 </style>
               </head>
               <body>
                 <div class="header">
-                  <span class="badge">Verified 2026 Brochure Report</span>
-                  <h1 style="margin-top: 15px;">${collegeName}</h1>
-                  <p style="color: #64748b; margin: 0;">Prepared for ${name} (${phone})</p>
+                  <span class="badge">Official ${batch} Verified Brochure Report</span>
+                  <h1>${collegeName}</h1>
+                  <p style="color: #64748b; margin: 0; font-size: 13px;">Prepared for <strong>${name}</strong> (${phone}) • Generated on ${new Date().toLocaleDateString()}</p>
                 </div>
                 <div class="box">
-                  <h3 style="margin-top: 0; color: #0f172a;">Fee & Admission Summary</h3>
+                  <h3 style="margin-top: 0; color: #0f172a; font-size: 16px; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px;">Program, Fee & Placement Benchmarks</h3>
                   <div class="row">
-                    <span class="label">Total Course Fees</span>
-                    <span class="val">${feesText}</span>
+                    <span class="label">Course Program</span>
+                    <span class="val">${course}</span>
                   </div>
                   <div class="row">
-                    <span class="label">Admission Status</span>
-                    <span class="val" style="color: #16a536;">Applications Open (2026-27)</span>
+                    <span class="label">Total Course Fee</span>
+                    <span class="val" style="color: #16a34a;">${feesText}</span>
                   </div>
+                  ${location ? `
                   <div class="row">
-                    <span class="label">Counselling & Seat Booking</span>
-                    <span class="val">Contact CareerWithMohit Counsellor</span>
+                    <span class="label">Campus Location</span>
+                    <span class="val">${location}</span>
+                  </div>` : ''}
+                  ${avgPlacement ? `
+                  <div class="row">
+                    <span class="label">Average Placement CTC</span>
+                    <span class="val" style="color: #2563eb;">${avgPlacement}</span>
+                  </div>` : ''}
+                  ${highestPlacement ? `
+                  <div class="row">
+                    <span class="label">Highest Placement CTC</span>
+                    <span class="val" style="color: #d97706;">${highestPlacement}</span>
+                  </div>` : ''}
+                  ${accreditation ? `
+                  <div class="row">
+                    <span class="label">Accreditations & Approvals</span>
+                    <span class="val">${accreditation}</span>
+                  </div>` : ''}
+                  <div class="row">
+                    <span class="label">Direct Admission 2027</span>
+                    <span class="val" style="color: #16a34a;">Profile Assessment Open</span>
                   </div>
                 </div>
                 <div class="footer">
-                  <p>Official Education Counselling Partner: CareerWithMohit.online</p>
-                  <p>Need guidance? Reply to our confirmation email or WhatsApp us anytime!</p>
+                  <p><strong>Official Education Counselling Partner:</strong> CareerWithMohit.online (Mohit Jain)</p>
+                  <p>Need 1-on-1 direct admission assistance or application waivers? Call/WhatsApp: <strong>+91 95600 20771</strong></p>
                 </div>
                 <script>window.print();</script>
               </body>
@@ -118,7 +148,7 @@ export function BrochureModal({
         onClick={(e) => e.stopPropagation()}
       >
         {/* Top Gradient Header */}
-        <div className="bg-gradient-to-r from-blue-600 to-indigo-700 p-6 text-white relative">
+        <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 p-6 text-white relative">
           <button
             onClick={onClose}
             className="absolute top-4 right-4 text-white/80 hover:text-white bg-white/10 hover:bg-white/20 p-1.5 rounded-full transition-colors"
@@ -128,13 +158,13 @@ export function BrochureModal({
           </button>
           <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider bg-white/20 w-fit px-3 py-1 rounded-full mb-3">
             <FileText className="w-3.5 h-3.5" />
-            2026 Official Brochure
+            {batch} Official Brochure
           </div>
           <h3 className="text-xl font-black leading-snug">
             {collegeName}
           </h3>
           <p className="text-xs text-blue-100 font-medium mt-1">
-            Fill your details below to instantly download the complete fee report & placement brochure.
+            Fill your details below to instantly download the complete fee report &amp; placement brochure.
           </p>
         </div>
 
