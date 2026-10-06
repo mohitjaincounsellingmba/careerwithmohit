@@ -66,7 +66,8 @@ export function DeferredAnalytics() {
             gtag('config', '${GA_ID}', {
               page_location: window.location.href,
               page_path: window.location.pathname,
-              page_title: document.title
+              page_title: document.title,
+              send_page_view: false
             });
             gtag('config', '${ADS_ID}');
           `,

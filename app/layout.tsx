@@ -86,7 +86,6 @@ export const metadata: Metadata = {
     },
   },
   other: {
-    "p:domain_verify": "4c9220342f1f166f04405394b2d6335e",
     "google-adsense-account": "ca-pub-4699585931687069",
     "geo.region": "IN-DL",
     "geo.placename": "New Delhi, Delhi NCR, India",
