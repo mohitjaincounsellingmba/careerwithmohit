@@ -18,21 +18,21 @@ const VIDEOS: VideoItem[] = [
     title: "The 10-10-10-10 Rule: Crack CAT Quant with High Accuracy",
     category: "CAT 2026 Strategy",
     youtubeId: "7fSYn0Mixws",
-    thumbnail: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&auto=format&fit=crop&q=80",
+    thumbnail: "https://img.youtube.com/vi/7fSYn0Mixws/hqdefault.jpg",
   },
   {
     id: "v2",
     title: "How to Shortlist Safe, Target & Dream MBA Colleges for 2027",
     category: "B-School Selection",
     youtubeId: "tK_Rsn4nQH4",
-    thumbnail: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&auto=format&fit=crop&q=80",
+    thumbnail: "https://img.youtube.com/vi/tK_Rsn4nQH4/hqdefault.jpg",
   },
   {
     id: "v3",
     title: "GD-PI-WAT Secret Tactics: How Top B-Schools Evaluate Candidates",
     category: "Interview Mentorship",
     youtubeId: "7eoPS2AqLUk",
-    thumbnail: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&auto=format&fit=crop&q=80",
+    thumbnail: "https://img.youtube.com/vi/7eoPS2AqLUk/hqdefault.jpg",
   },
 ];
 
@@ -96,6 +96,13 @@ export function College4SureVideoShowcase() {
                     height={450}
                     loading="lazy"
                     decoding="async"
+                    onError={(e) => {
+                      // Fallback to official youtube thumbnail if unsplash fails
+                      const target = e.currentTarget as HTMLImageElement;
+                      if (!target.src.includes('img.youtube.com')) {
+                        target.src = `https://img.youtube.com/vi/${vid.youtubeId}/hqdefault.jpg`;
+                      }
+                    }}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-108"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/85 via-transparent to-transparent" />

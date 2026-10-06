@@ -1,7 +1,8 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
-import { ArrowRight, MapPin, Building2, Star, ShieldCheck } from "lucide-react";
+import { ArrowRight, MapPin, Building2, Sparkles } from "lucide-react";
 
 interface FeaturedCollege {
   name: string;
@@ -14,11 +15,12 @@ interface FeaturedCollege {
   totalFees: string;
   slug: string;
   image: string;
+  badgeColor?: string;
 }
 
 const FEATURED_COLLEGES: FeaturedCollege[] = [
   {
-    name: "Indian Institute Of Management Ahmedabad (IIMA)",
+    name: "Indian Institute of Management Ahmedabad (IIMA)",
     nirfRank: "NIRF 1",
     location: "Ahmedabad",
     meta: "PUBLIC · EST. 1961",
@@ -26,8 +28,9 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     highestPackage: "₹2.20 Cr",
     avgPackage: "₹35.23 LPA",
     totalFees: "₹12 L – ₹33 L",
-    slug: "/top-tier-mba-colleges",
-    image: "https://images.unsplash.com/photo-1562774053-701939374585?w=800&auto=format&fit=crop&q=80",
+    slug: "/colleges/iim-ahmedabad",
+    image: "/images/colleges/iim-ahmedabad-campus.jpg",
+    badgeColor: "bg-amber-400 text-slate-900",
   },
   {
     name: "Indian Institute of Management Bangalore (IIMB)",
@@ -38,8 +41,9 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     highestPackage: "₹1.15 Cr",
     avgPackage: "₹34.88 LPA",
     totalFees: "₹4.5 L – ₹34 L",
-    slug: "/top-tier-mba-colleges",
-    image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&auto=format&fit=crop&q=80",
+    slug: "/colleges/iim-bangalore",
+    image: "/images/colleges/iim-bangalore-campus.jpg",
+    badgeColor: "bg-amber-400 text-slate-900",
   },
   {
     name: "NMIMS School of Business Management (SBM)",
@@ -50,11 +54,12 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     highestPackage: "₹67.80 LPA",
     avgPackage: "₹26.63 LPA",
     totalFees: "₹11.9 L – ₹26.5 L",
-    slug: "/colleges",
-    image: "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=800&auto=format&fit=crop&q=80",
+    slug: "/colleges/nmims-mumbai",
+    image: "/images/colleges/nmims-mumbai-campus.jpg",
+    badgeColor: "bg-orange-500 text-white",
   },
   {
-    name: "SIBM Pune (Symbiosis Institute of Business Mgmt)",
+    name: "SIBM Pune (Symbiosis Institute of Business Management)",
     nirfRank: "TOP 15",
     location: "Pune",
     meta: "SNAP TOP PICK · EST. 1978",
@@ -62,8 +67,9 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     highestPackage: "₹35.20 LPA",
     avgPackage: "₹28.16 LPA",
     totalFees: "₹14 L – ₹24.2 L",
-    slug: "/colleges",
-    image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&auto=format&fit=crop&q=80",
+    slug: "/colleges/sibm-pune",
+    image: "/images/colleges/sibm-pune-campus.jpg",
+    badgeColor: "bg-purple-600 text-white",
   },
   {
     name: "FORE School of Management",
@@ -74,8 +80,9 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     highestPackage: "₹30.00 LPA",
     avgPackage: "₹16.01 LPA",
     totalFees: "₹18.98 Lakhs",
-    slug: "/colleges",
-    image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&auto=format&fit=crop&q=80",
+    slug: "/colleges/fore-school-delhi",
+    image: "/images/colleges/fore-school-delhi-campus.jpg",
+    badgeColor: "bg-blue-600 text-white",
   },
   {
     name: "Amity University Online (UGC-DEB Approved)",
@@ -87,9 +94,39 @@ const FEATURED_COLLEGES: FeaturedCollege[] = [
     avgPackage: "₹8.50 LPA",
     totalFees: "₹1.99 Lakhs",
     slug: "/online-degree-certification/amity-university-online",
-    image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=800&auto=format&fit=crop&q=80",
+    image: "/images/colleges/amity-university-campus.jpg",
+    badgeColor: "bg-emerald-600 text-white",
   },
 ];
+
+function CollegeCardImage({ college }: { college: FeaturedCollege }) {
+  const [hasError, setHasError] = useState(false);
+
+  if (hasError) {
+    return (
+      <div className="w-full h-full bg-gradient-to-br from-[#1E3A8A] via-[#2563EB] to-[#0EA5E9] flex flex-col items-center justify-center p-6 text-center text-white">
+        <div className="w-12 h-12 rounded-2xl bg-white/20 backdrop-blur-md flex items-center justify-center mb-2 shadow-inner border border-white/30">
+          <Building2 className="w-6 h-6 text-white" />
+        </div>
+        <span className="font-display font-extrabold text-sm line-clamp-1">{college.name}</span>
+        <span className="font-mono text-[10px] text-white/80 uppercase tracking-wider">{college.location}</span>
+      </div>
+    );
+  }
+
+  return (
+    <img
+      src={college.image}
+      alt={`${college.name} campus building`}
+      width={800}
+      height={450}
+      loading="lazy"
+      decoding="async"
+      onError={() => setHasError(true)}
+      className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-108"
+    />
+  );
+}
 
 export function College4SureCollegeGrid() {
   return (
@@ -127,25 +164,17 @@ export function College4SureCollegeGrid() {
             >
               {/* Image & Badges */}
               <div>
-                <div className="relative aspect-[16/9] overflow-hidden bg-gradient-to-br from-[#2563EB] to-[#0EA5E9]">
-                  <img
-                    src={college.image}
-                    alt={`${college.name} campus building and admission review`}
-                    width={800}
-                    height={450}
-                    loading="lazy"
-                    decoding="async"
-                    className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-108"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/85 via-[#061124]/20 to-transparent" />
+                <div className="relative aspect-[16/9] overflow-hidden bg-slate-100">
+                  <CollegeCardImage college={college} />
+                  <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/85 via-[#061124]/15 to-transparent pointer-events-none" />
 
                   {/* Badges on Thumbnail */}
                   <div className="absolute left-3.5 bottom-3 right-3.5 z-10 flex items-center justify-between gap-2">
-                    <span className="font-mono text-[10px] sm:text-[11px] font-extrabold px-3 py-1 rounded-full bg-[#F59E0B] text-[#061124] shadow-sm tracking-wider">
+                    <span className={`font-mono text-[10px] sm:text-[11px] font-extrabold px-3 py-1 rounded-full shadow-sm tracking-wider ${college.badgeColor || 'bg-[#F59E0B] text-[#061124]'}`}>
                       {college.nirfRank}
                     </span>
-                    <span className="font-mono text-[10px] sm:text-[11px] font-bold px-3 py-1 rounded-full bg-white/25 backdrop-blur-md text-white border border-white/30 flex items-center gap-1">
-                      <MapPin className="w-3 h-3" />
+                    <span className="font-mono text-[10px] sm:text-[11px] font-bold px-3 py-1 rounded-full bg-white/25 backdrop-blur-md text-white border border-white/30 flex items-center gap-1 shadow-sm">
+                      <MapPin className="w-3 h-3 text-white" />
                       {college.location}
                     </span>
                   </div>
@@ -154,7 +183,9 @@ export function College4SureCollegeGrid() {
                 {/* Card Body */}
                 <div className="p-5 sm:p-6">
                   <h3 className="font-display font-extrabold text-base sm:text-lg text-[#061124] group-hover:text-[#2563EB] transition-colors line-clamp-2 leading-snug min-h-[48px]">
-                    {college.name}
+                    <Link href={college.slug} className="hover:underline">
+                      {college.name}
+                    </Link>
                   </h3>
 
                   <div className="font-mono text-[11px] text-slate-600 uppercase tracking-wider mt-1.5 font-medium">
@@ -167,7 +198,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#10B981] leading-none">
                         {college.placedRate}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block font-semibold">
                         Placed
                       </span>
                     </div>
@@ -176,7 +207,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#2563EB] leading-none truncate">
                         {college.highestPackage}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block font-semibold">
                         Highest
                       </span>
                     </div>
@@ -185,7 +216,7 @@ export function College4SureCollegeGrid() {
                       <b className="block font-display font-black text-sm sm:text-base text-[#EA580C] leading-none truncate">
                         {college.avgPackage}
                       </b>
-                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block">
+                      <span className="font-mono text-[9px] uppercase tracking-wider text-slate-600 mt-1 block font-semibold">
                         Average
                       </span>
                     </div>
@@ -207,7 +238,7 @@ export function College4SureCollegeGrid() {
                 <Link
                   href={college.slug}
                   aria-label={`View details and placement reports for ${college.name}`}
-                  className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border-[1.5px] border-[#061124]/15 group-hover:border-[#2563EB] group-hover:bg-[#2563EB] group-hover:text-white text-[#061124] font-bold text-xs transition-all"
+                  className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border-[1.5px] border-[#061124]/15 group-hover:border-[#2563EB] group-hover:bg-[#2563EB] group-hover:text-white text-[#061124] font-bold text-xs transition-all shadow-xs"
                 >
                   <span>View</span>
                   <ArrowRight className="w-3.5 h-3.5" />
