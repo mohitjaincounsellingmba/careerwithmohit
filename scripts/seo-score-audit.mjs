@@ -43,9 +43,12 @@ totalScore += techScore;
 // ==========================================
 // 2. ACTIVE PAGE ON-PAGE SEO (30 Points)
 // ==========================================
-console.log('📌 2. ACTIVE PAGE ON-PAGE SEO (posts/unstop-finance-internships-2026.md) (Max: 30 pts)');
+console.log('📌 2. ACTIVE PAGE ON-PAGE SEO (Sample / Latest Article) (Max: 30 pts)');
 let pageScore = 0;
-const activeFile = path.join(process.cwd(), 'posts', 'unstop-finance-internships-2026.md');
+const allPostFiles = fs.readdirSync(path.join(process.cwd(), 'posts')).filter(f => f.endsWith('.md'));
+const activeFileName = process.argv[2] || allPostFiles[0];
+const activeFile = path.join(process.cwd(), 'posts', activeFileName);
+console.log(`  Auditing: posts/${activeFileName}`);
 
 if (fs.existsSync(activeFile)) {
   const raw = fs.readFileSync(activeFile, 'utf8');
