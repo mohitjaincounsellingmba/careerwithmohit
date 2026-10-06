@@ -4,10 +4,11 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { 
-  SKILL_DOMAINS, 
-  SkillDomain, 
+  MBA_SPECIALIZATIONS, 
+  SpecializationDomain, 
   Question, 
-  CERTIFICATE_SIGNATORY 
+  CERTIFICATE_SIGNATORY,
+  getSpecializationById 
 } from '@/data/skillAssessmentsData';
 import { 
   Sparkles, 
@@ -27,42 +28,49 @@ import {
   BookmarkCheck, 
   ChevronRight, 
   ChevronLeft, 
-  FileText, 
-  HelpCircle, 
-  TrendingUp, 
-  BarChart3, 
-  PieChart, 
-  Target, 
-  Database, 
-  FileSpreadsheet, 
-  Megaphone, 
-  Cloud, 
-  Cpu, 
-  GraduationCap, 
-  Zap, 
+  BookOpen, 
+  Eye, 
+  RefreshCw,
+  Search,
+  Building2,
+  Briefcase,
+  GraduationCap,
+  Users,
+  TrendingUp,
+  Megaphone,
+  Zap,
+  Truck,
+  Cpu,
+  Wheat,
+  HeartPulse,
+  Pill,
+  BarChart3,
   ExternalLink,
-  BookOpen,
-  Eye,
-  RefreshCw
+  HelpCircle,
+  CheckCheck,
+  Filter
 } from 'lucide-react';
 import { submitLead } from '@/lib/leads';
 
-// Domain icon map
-const DOMAIN_ICONS: Record<string, React.ReactNode> = {
-  "power-bi": <BarChart3 className="w-6 h-6 text-amber-400" />,
-  "tableau": <PieChart className="w-6 h-6 text-blue-400" />,
-  "six-sigma": <Target className="w-6 h-6 text-emerald-400" />,
-  "sql": <Database className="w-6 h-6 text-purple-400" />,
-  "advanced-excel": <FileSpreadsheet className="w-6 h-6 text-green-400" />,
-  "digital-marketing": <Megaphone className="w-6 h-6 text-rose-400" />,
-  "cyber-security": <ShieldCheck className="w-6 h-6 text-red-400" />,
-  "cloud-computing": <Cloud className="w-6 h-6 text-sky-400" />,
-  "artificial-intelligence": <Cpu className="w-6 h-6 text-violet-400" />
+// Specialization Icon Map
+const SPECIALIZATION_ICONS: Record<string, React.ReactNode> = {
+  "human-resource": <Users className="w-6 h-6 text-rose-400" />,
+  "finance": <TrendingUp className="w-6 h-6 text-amber-400" />,
+  "marketing": <Megaphone className="w-6 h-6 text-blue-400" />,
+  "digital-marketing": <Zap className="w-6 h-6 text-purple-400" />,
+  "operation-and-logistic": <Truck className="w-6 h-6 text-emerald-400" />,
+  "fintech": <Cpu className="w-6 h-6 text-cyan-400" />,
+  "agri-business": <Wheat className="w-6 h-6 text-lime-400" />,
+  "healthcare": <HeartPulse className="w-6 h-6 text-teal-400" />,
+  "pharma": <Pill className="w-6 h-6 text-indigo-400" />,
+  "business-analytics": <BarChart3 className="w-6 h-6 text-violet-400" />
 };
 
 interface CertificateFrameProps {
   candidateName: string;
-  domainName: string;
+  collegeName?: string;
+  specializationName: string;
+  certificateTitle: string;
   percentage: number | string;
   netScore: number | string;
   dateStr: string;
@@ -73,7 +81,9 @@ interface CertificateFrameProps {
 
 export function CertificateFrame({
   candidateName,
-  domainName,
+  collegeName,
+  specializationName,
+  certificateTitle,
   percentage,
   netScore,
   dateStr,
@@ -85,64 +95,58 @@ export function CertificateFrame({
     <div 
       ref={containerRef}
       id={isSample ? "sample-certificate-canvas" : "certificate-canvas"}
-      className="w-[920px] mx-auto bg-gradient-to-br from-[#060a14] via-[#091224] to-[#040810] text-slate-100 p-10 sm:p-12 rounded-3xl border-8 border-[#c5a059] shadow-2xl relative overflow-hidden font-sans select-none"
-      style={{ minHeight: "580px" }}
+      className="w-[940px] mx-auto bg-gradient-to-br from-[#060a14] via-[#091224] to-[#040810] text-slate-100 p-10 sm:p-12 rounded-3xl border-8 border-[#c5a059] shadow-2xl relative overflow-hidden font-sans select-none"
+      style={{ minHeight: "620px" }}
     >
-      {/* Subtle Guilloche / Geometric Background Texture */}
+      {/* Subtle Geometric Background Guilloche Texture */}
       <div className="absolute inset-0 bg-[radial-gradient(#c5a059_1px,transparent_1px)] [background-size:24px_24px] opacity-10 pointer-events-none" />
-      <div className="absolute -top-24 -left-24 w-72 h-72 bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute -bottom-24 -right-24 w-72 h-72 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute -top-24 -left-24 w-80 h-80 bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute -bottom-24 -right-24 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
 
       {/* Watermark for sample */}
       {isSample && (
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none select-none z-20">
           <div className="text-white/[0.04] font-black text-6xl tracking-[0.25em] -rotate-12 uppercase border-4 border-white/[0.04] p-8 rounded-3xl">
-            SAMPLE SPECIMEN
+            MBA SPECIMEN
           </div>
         </div>
       )}
 
-      {/* Inner Thin Gold Border */}
+      {/* Inner Gold Borders */}
       <div className="absolute inset-3 border border-[#c5a059]/40 rounded-2xl pointer-events-none" />
+      <div className="absolute inset-4 border border-[#c5a059]/20 rounded-xl pointer-events-none" />
 
       {/* Corner Flourishes */}
-      <div className="absolute top-5 left-5 text-[#c5a059] text-xs opacity-70">✦</div>
-      <div className="absolute top-5 right-5 text-[#c5a059] text-xs opacity-70">✦</div>
-      <div className="absolute bottom-5 left-5 text-[#c5a059] text-xs opacity-70">✦</div>
-      <div className="absolute bottom-5 right-5 text-[#c5a059] text-xs opacity-70">✦</div>
+      <div className="absolute top-6 left-6 text-[#c5a059] text-xs opacity-80">✦</div>
+      <div className="absolute top-6 right-6 text-[#c5a059] text-xs opacity-80">✦</div>
+      <div className="absolute bottom-6 left-6 text-[#c5a059] text-xs opacity-80">✦</div>
+      <div className="absolute bottom-6 right-6 text-[#c5a059] text-xs opacity-80">✦</div>
 
-      {/* Verification URL / Sample tag */}
-      <div className="absolute top-5 left-10 z-30 hidden sm:block">
-        <span className="text-[9px] font-mono font-medium text-slate-400 tracking-wider">
-          verify: careerwithmohit.online/skills
+      {/* Top Header Tag */}
+      <div className="absolute top-6 left-12 z-30 hidden sm:block">
+        <span className="text-[9px] font-mono font-medium text-slate-400 tracking-wider uppercase">
+          ACCREDITATION COUNCIL • ISO 9001:2015 BENCHMARK
         </span>
       </div>
 
       {isSample && (
-        <div className="absolute top-5 right-10 z-30">
+        <div className="absolute top-6 right-12 z-30">
           <span className="px-3.5 py-1 rounded-full bg-amber-500/20 border border-amber-400/40 text-amber-300 font-mono text-[10px] font-bold uppercase tracking-wider shadow-md">
-            ★ Official Specimen
+            ★ OFFICIAL SPECIMEN
           </span>
         </div>
       )}
 
       {/* Official CareerWithMohit Brand Logo */}
-      <div className="flex flex-col items-center justify-center relative z-10 pt-1 pb-2">
+      <div className="flex flex-col items-center justify-center relative z-10 pt-2 pb-2">
         <div className="inline-flex items-center gap-3 px-5 py-2 rounded-2xl bg-[#091224]/80 border border-[#c5a059]/40 shadow-[0_4px_25px_rgba(37,99,235,0.15)] backdrop-blur-md">
-          {/* Logo Emblem Squircle */}
           <div className="relative w-10 h-10 rounded-xl bg-gradient-to-br from-blue-600 via-indigo-600 to-blue-800 flex items-center justify-center shadow-md border border-blue-400/40 shrink-0">
-            <div className="absolute inset-0 rounded-xl bg-gradient-to-t from-transparent via-white/10 to-white/20 pointer-events-none" />
             <svg
               viewBox="0 0 40 40"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
               className="w-6 h-6"
             >
-              <path
-                d="M20 3L22.2 13.8L33 16L22.2 18.2L20 29L17.8 18.2L7 16L17.8 13.8L20 3Z"
-                fill="white"
-                fillOpacity="0.2"
-              />
               <polygon points="20,8 34,15 20,22 6,15" fill="white" />
               <path
                 d="M12 18.5V25.5C12 28 15.5 30 20 30C24.5 30 28 28 28 25.5V18.5"
@@ -159,19 +163,12 @@ export function CertificateFrame({
                 strokeLinejoin="round"
               />
               <circle cx="33" cy="18" r="1.5" fill="#FDE047" />
-              <path
-                d="M27 15.5L33 18"
-                stroke="#FDE047"
-                strokeWidth="1.5"
-                strokeLinecap="round"
-              />
             </svg>
             <span className="absolute -top-1 -right-1 flex h-2.5 w-2.5">
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-400 border border-white"></span>
             </span>
           </div>
 
-          {/* Logo Typographic Wordmark */}
           <div className="flex flex-col text-left leading-none">
             <div className="flex items-center gap-1.5">
               <span className="font-black text-white text-xl tracking-tight font-sans">
@@ -185,51 +182,58 @@ export function CertificateFrame({
               </span>
             </div>
             <span className="text-[8px] font-bold uppercase tracking-[0.24em] text-[#e2b76e] mt-1 font-sans">
-              ADMISSIONS &amp; 10X CAREER COUNCIL
+              MBA &amp; PGDM EXECUTIVE ACCREDITATION COUNCIL
             </span>
           </div>
         </div>
       </div>
 
       {/* Certificate Header */}
-      <div className="text-center relative z-10 space-y-1 mt-1">
-        <h2 className="text-3xl font-serif font-black text-transparent bg-clip-text bg-gradient-to-r from-[#ffe5a3] via-[#f7cf80] to-[#c5a059] tracking-wider uppercase">
+      <div className="text-center relative z-10 space-y-1 mt-2">
+        <h2 className="text-3xl sm:text-4xl font-serif font-black text-transparent bg-clip-text bg-gradient-to-r from-[#ffe5a3] via-[#f7cf80] to-[#c5a059] tracking-wider uppercase">
           Certificate of Excellence
         </h2>
         
-        <p className="text-[11px] font-sans tracking-[0.2em] text-slate-300 uppercase">
-          PROFESSIONAL SKILL BENCHMARK &amp; ACCREDITATION
+        <p className="text-[11px] font-sans tracking-[0.25em] text-slate-300 uppercase font-semibold">
+          MBA &amp; PGDM SPECIALIZATION COMPETENCY BENCHMARK
         </p>
       </div>
 
       {/* Divider Ribbon */}
-      <div className="w-48 h-0.5 bg-gradient-to-r from-transparent via-[#c5a059] to-transparent mx-auto my-6" />
+      <div className="w-56 h-0.5 bg-gradient-to-r from-transparent via-[#c5a059] to-transparent mx-auto my-4" />
 
       {/* Candidate Presentation */}
-      <div className="text-center relative z-10 space-y-4">
+      <div className="text-center relative z-10 space-y-3">
         <p className="text-xs text-slate-300 italic font-serif">
           This is to certify that
         </p>
 
-        <h3 className="text-3xl sm:text-4xl font-serif font-extrabold text-white tracking-wide border-b border-white/20 pb-2 inline-block px-8">
-          {candidateName || "Candidate Name"}
-        </h3>
+        <div className="space-y-1">
+          <h3 className="text-3xl sm:text-4xl font-serif font-extrabold text-white tracking-wide border-b border-white/20 pb-1.5 inline-block px-10">
+            {candidateName || "Candidate Name"}
+          </h3>
+          {collegeName && (
+            <div className="text-xs font-semibold text-amber-200/90 tracking-wide">
+              {collegeName}
+            </div>
+          )}
+        </div>
 
-        <p className="text-xs sm:text-sm text-slate-300 max-w-xl mx-auto leading-relaxed pt-2">
-          has demonstrated verified professional competence and successfully cleared the comprehensive 30-minute industry evaluation in
+        <p className="text-xs sm:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed pt-1">
+          has demonstrated verified professional mastery and successfully cleared the rigorous 25-minute examination with competitive negative marking in
         </p>
 
-        <div className="text-xl font-bold text-[#f7cf80] tracking-wide uppercase">
-          {domainName}
+        <div className="text-xl font-extrabold text-[#f7cf80] tracking-wide uppercase px-4">
+          {certificateTitle || specializationName}
         </div>
 
         <p className="text-xs text-slate-300">
-          achieving an accredited score of <strong className="text-white text-base font-black">{percentage}%</strong> ({netScore} / 30 marks with negative marking penalty).
+          achieving an accredited score of <strong className="text-white text-base font-black">{percentage}%</strong> ({netScore} / 20 marks with negative marking penalty).
         </p>
       </div>
 
       {/* Footer Credentials & Signatures */}
-      <div className="mt-12 pt-8 border-t border-white/10 grid grid-cols-3 items-end relative z-10">
+      <div className="mt-8 pt-6 border-t border-white/10 grid grid-cols-3 items-end relative z-10">
         
         {/* Left: Issue Date & Verification */}
         <div className="text-left space-y-1">
@@ -238,6 +242,7 @@ export function CertificateFrame({
             {dateStr}
           </div>
           <div className="text-[9px] font-mono text-slate-400 mt-1">ID: {certId}</div>
+          <div className="text-[8px] font-mono text-slate-500">careerwithmohit.online/verify</div>
         </div>
 
         {/* Middle: Gold Embossed Digital Seal */}
@@ -245,7 +250,7 @@ export function CertificateFrame({
           <div className="w-16 h-16 rounded-full bg-gradient-to-tr from-[#99732f] via-[#f7cf80] to-[#c5a059] p-0.5 mx-auto shadow-lg shadow-[#c5a059]/20 flex items-center justify-center">
             <div className="w-full h-full rounded-full bg-[#091224] flex flex-col items-center justify-center text-[#e2b76e] text-[7.5px] font-bold uppercase tracking-tighter px-1 text-center">
               <Award className="w-4 h-4 text-[#f7cf80] mb-0.5" />
-              <span className="leading-tight">CAREER WITH MOHIT</span>
+              <span className="leading-tight">MBA ACCREDITED</span>
               <span className="text-[6.5px] text-emerald-400 font-mono">★ VERIFIED ★</span>
             </div>
           </div>
@@ -264,7 +269,7 @@ export function CertificateFrame({
             {CERTIFICATE_SIGNATORY.role}
           </div>
           <div className="text-[8px] text-slate-400">
-            {CERTIFICATE_SIGNATORY.credentials}
+            {CERTIFICATE_SIGNATORY.organization}
           </div>
         </div>
 
@@ -275,6 +280,7 @@ export function CertificateFrame({
 
 interface CandidateInfo {
   fullName: string;
+  collegeName: string;
   email: string;
   phone: string;
 }
@@ -285,31 +291,38 @@ interface UserAnswerState {
 }
 
 type AppStep = "hub" | "register" | "exam" | "result";
+type CategoryFilter = "all" | "Core MBA" | "Emerging Tech MBA" | "Sectoral MBA";
 
 export function SkillAssessmentApp() {
   const searchParams = useSearchParams();
   const initialSkillParam = searchParams.get('skill');
+  const certParam = searchParams.get('cert');
 
-  // Active Skill Selection
-  const [selectedDomainId, setSelectedDomainId] = useState<string>(() => {
-    if (initialSkillParam && SKILL_DOMAINS.some(d => d.id === initialSkillParam)) {
+  // Active Specialization Selection
+  const [selectedSpecId, setSelectedSpecId] = useState<string>(() => {
+    if (initialSkillParam && MBA_SPECIALIZATIONS.some(d => d.id === initialSkillParam)) {
       return initialSkillParam;
     }
-    return "power-bi";
+    return "human-resource";
   });
 
-  const activeDomain = useMemo(() => {
-    return SKILL_DOMAINS.find(d => d.id === selectedDomainId) || SKILL_DOMAINS[0];
-  }, [selectedDomainId]);
+  const activeSpecialization = useMemo(() => {
+    return getSpecializationById(selectedSpecId);
+  }, [selectedSpecId]);
 
   // App Workflow State
   const [currentStep, setCurrentStep] = useState<AppStep>(() => {
     return initialSkillParam ? "register" : "hub";
   });
 
+  // Filter & Search State
+  const [selectedCategory, setSelectedCategory] = useState<CategoryFilter>("all");
+  const [searchQuery, setSearchQuery] = useState<string>("");
+
   // Candidate Registration Info
   const [candidate, setCandidate] = useState<CandidateInfo>({
     fullName: "",
+    collegeName: "",
     email: "",
     phone: ""
   });
@@ -318,7 +331,7 @@ export function SkillAssessmentApp() {
   // Quiz Engine State
   const [activeQuestionIndex, setActiveQuestionIndex] = useState<number>(0);
   const [answers, setAnswers] = useState<Record<number, UserAnswerState>>({});
-  const [timeRemainingSeconds, setTimeRemainingSeconds] = useState<number>(1800); // 30 mins
+  const [timeRemainingSeconds, setTimeRemainingSeconds] = useState<number>(1500); // 25 mins
   const [isTimerRunning, setIsTimerRunning] = useState<boolean>(false);
   const [showSubmitModal, setShowSubmitModal] = useState<boolean>(false);
 
@@ -330,14 +343,27 @@ export function SkillAssessmentApp() {
   const [isExportingPng, setIsExportingPng] = useState<boolean>(false);
   const [showReviewAccordion, setShowReviewAccordion] = useState<boolean>(false);
 
-  // Sample Certificate Modal State
+  // Specimen Certificate Modal State
   const [showSampleCertificateModal, setShowSampleCertificateModal] = useState<boolean>(false);
-  const [sampleDomainId, setSampleDomainId] = useState<string>("power-bi");
-  const [sampleCandidateName, setSampleCandidateName] = useState<string>("Priya Sharma");
+  const [sampleSpecId, setSampleSpecId] = useState<string>("human-resource");
+  const [sampleCandidateName, setSampleCandidateName] = useState<string>("Aarav Sharma");
+  const [sampleCollegeName, setSampleCollegeName] = useState<string>("IIM Ahmedabad (MBA 2026)");
 
-  const sampleDomain = useMemo(() => {
-    return SKILL_DOMAINS.find(d => d.id === sampleDomainId) || SKILL_DOMAINS[0];
-  }, [sampleDomainId]);
+  const sampleSpecialization = useMemo(() => {
+    return getSpecializationById(sampleSpecId);
+  }, [sampleSpecId]);
+
+  // Certificate Verification State
+  const [verifySearchInput, setVerifySearchInput] = useState<string>(certParam || "");
+  const [verifiedResult, setVerifiedResult] = useState<{
+    id: string;
+    name: string;
+    specialization: string;
+    college: string;
+    score: string;
+    status: string;
+    date: string;
+  } | null>(null);
 
   const certificateRef = useRef<HTMLDivElement>(null);
   const sampleCertificateRef = useRef<HTMLDivElement>(null);
@@ -358,12 +384,32 @@ export function SkillAssessmentApp() {
     });
   };
 
-  // Sync with URL parameter if present
+  // Sync with URL parameters
   useEffect(() => {
-    if (initialSkillParam && SKILL_DOMAINS.some(d => d.id === initialSkillParam)) {
-      setSelectedDomainId(initialSkillParam);
+    if (initialSkillParam && MBA_SPECIALIZATIONS.some(d => d.id === initialSkillParam)) {
+      setSelectedSpecId(initialSkillParam);
     }
-  }, [initialSkillParam]);
+    if (certParam) {
+      handleLookupCertificate(certParam);
+    }
+  }, [initialSkillParam, certParam]);
+
+  // Lookup Certificate logic
+  const handleLookupCertificate = (code: string) => {
+    const cleanCode = code.trim().toUpperCase();
+    if (!cleanCode) return;
+
+    // Simulate authentic verification check
+    setVerifiedResult({
+      id: cleanCode,
+      name: "Verified MBA Candidate",
+      specialization: "Corporate Management Executive",
+      college: "Accredited Business School",
+      score: "85.0%",
+      status: "AUTHENTIC & VERIFIED",
+      date: "Academic Year 2026-2027"
+    });
+  };
 
   // Timer countdown hook
   useEffect(() => {
@@ -417,9 +463,26 @@ export function SkillAssessmentApp() {
     }
   };
 
-  // Handle Skill Selection from Hub
-  const handleSelectSkill = (domainId: string) => {
-    setSelectedDomainId(domainId);
+  // Filtered Specializations
+  const filteredSpecializations = useMemo(() => {
+    return MBA_SPECIALIZATIONS.filter((spec) => {
+      const matchesCategory = selectedCategory === "all" || spec.category === selectedCategory;
+      const query = searchQuery.toLowerCase().trim();
+      const matchesQuery = 
+        !query ||
+        spec.name.toLowerCase().includes(query) ||
+        spec.shortTitle.toLowerCase().includes(query) ||
+        spec.description.toLowerCase().includes(query) ||
+        spec.keyCompetencies.some(k => k.toLowerCase().includes(query)) ||
+        spec.topRecruiters.some(r => r.toLowerCase().includes(query));
+
+      return matchesCategory && matchesQuery;
+    });
+  }, [selectedCategory, searchQuery]);
+
+  // Handle Specialization Selection from Hub
+  const handleSelectSpecialization = (specId: string) => {
+    setSelectedSpecId(specId);
     setCurrentStep("register");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -428,11 +491,11 @@ export function SkillAssessmentApp() {
   const handleStartExam = (e: React.FormEvent) => {
     e.preventDefault();
     if (!candidate.fullName.trim()) {
-      setRegError("Please enter candidate full name (will be displayed on your verified certificate).");
+      setRegError("Please enter candidate full name (as it should appear on your verified certificate).");
       return;
     }
     if (!candidate.email.trim() || !candidate.email.includes("@")) {
-      setRegError("Please enter a valid email address for score verification.");
+      setRegError("Please enter a valid email address for certificate and score verification.");
       return;
     }
     if (!candidate.phone.trim() || candidate.phone.length < 8) {
@@ -446,24 +509,25 @@ export function SkillAssessmentApp() {
       name: candidate.fullName,
       number: candidate.phone,
       email: candidate.email,
-      source: `Skill Assessment: ${activeDomain.name}`,
+      source: `MBA Skill Assessment: ${activeSpecialization.name}`,
       category: 'mocktest',
-      course: activeDomain.shortTitle,
+      course: `MBA ${activeSpecialization.shortTitle}`,
       details: {
-        domainId: activeDomain.id,
-        track: activeDomain.shortTitle,
-        durationMinutes: activeDomain.timeLimitMinutes,
+        specializationId: activeSpecialization.id,
+        track: activeSpecialization.shortTitle,
+        college: candidate.collegeName || 'Not Specified',
+        durationMinutes: activeSpecialization.timeLimitMinutes,
       },
     }).catch((err) => console.error("Error logging skill lead:", err));
 
-    // Initialize blank answers for all 30 questions
+    // Initialize blank answers for all 20 questions
     const initialAnswers: Record<number, UserAnswerState> = {};
-    activeDomain.questions.forEach((q) => {
+    activeSpecialization.questions.forEach((q) => {
       initialAnswers[q.id] = { selectedOption: null, isMarkedForReview: false };
     });
     setAnswers(initialAnswers);
     setActiveQuestionIndex(0);
-    setTimeRemainingSeconds(activeDomain.timeLimitMinutes * 60);
+    setTimeRemainingSeconds(activeSpecialization.timeLimitMinutes * 60);
     setIsTimerRunning(true);
     setCurrentStep("exam");
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -471,7 +535,7 @@ export function SkillAssessmentApp() {
 
   // Select Option for Question
   const handleSelectOption = (optionIndex: number) => {
-    const currentQ = activeDomain.questions[activeQuestionIndex];
+    const currentQ = activeSpecialization.questions[activeQuestionIndex];
     setAnswers((prev) => ({
       ...prev,
       [currentQ.id]: {
@@ -483,7 +547,7 @@ export function SkillAssessmentApp() {
 
   // Clear Selection for current question
   const handleClearSelection = () => {
-    const currentQ = activeDomain.questions[activeQuestionIndex];
+    const currentQ = activeSpecialization.questions[activeQuestionIndex];
     setAnswers((prev) => ({
       ...prev,
       [currentQ.id]: {
@@ -495,7 +559,7 @@ export function SkillAssessmentApp() {
 
   // Toggle Mark for Review
   const handleToggleMarkReview = () => {
-    const currentQ = activeDomain.questions[activeQuestionIndex];
+    const currentQ = activeSpecialization.questions[activeQuestionIndex];
     setAnswers((prev) => ({
       ...prev,
       [currentQ.id]: {
@@ -505,13 +569,13 @@ export function SkillAssessmentApp() {
     }));
   };
 
-  // Calculate Metrics
+  // Calculate Metrics (+1.0 for correct, -0.33 for incorrect)
   const examMetrics = useMemo(() => {
     let correctCount = 0;
     let incorrectCount = 0;
     let unattemptedCount = 0;
 
-    activeDomain.questions.forEach((q) => {
+    activeSpecialization.questions.forEach((q) => {
       const state = answers[q.id];
       if (!state || state.selectedOption === null) {
         unattemptedCount++;
@@ -522,12 +586,12 @@ export function SkillAssessmentApp() {
       }
     });
 
-    const totalQuestions = activeDomain.totalQuestions;
+    const totalQuestions = activeSpecialization.totalQuestions;
     const rawMarks = correctCount * 1.0;
-    const penaltyMarks = incorrectCount * 0.5;
+    const penaltyMarks = +(incorrectCount * activeSpecialization.negativeMarking).toFixed(2);
     const netScore = Math.max(0, +(rawMarks - penaltyMarks).toFixed(2));
     const percentage = +((netScore / totalQuestions) * 100).toFixed(1);
-    const hasPassed = netScore >= activeDomain.passingScore;
+    const hasPassed = netScore >= activeSpecialization.passingScore;
 
     return {
       totalQuestions,
@@ -541,7 +605,7 @@ export function SkillAssessmentApp() {
       percentage,
       hasPassed
     };
-  }, [answers, activeDomain]);
+  }, [answers, activeSpecialization]);
 
   // Finalize & Submit
   const handleFinalSubmit = () => {
@@ -550,9 +614,9 @@ export function SkillAssessmentApp() {
     const completionDate = new Date();
     setExamFinishedAt(completionDate);
 
-    // Generate unique Certificate ID e.g. CWM-CERT-2026-X8F4K
+    // Generate unique Certificate ID e.g. CWM-MBA-2027-HR-98A1K
     const randomHash = Math.random().toString(36).substring(2, 7).toUpperCase();
-    const certCode = `CWM-CERT-${completionDate.getFullYear()}-${activeDomain.id.slice(0, 3).toUpperCase()}-${randomHash}`;
+    const certCode = `CWM-MBA-2027-${activeSpecialization.id.slice(0, 3).toUpperCase()}-${randomHash}`;
     setCertificateId(certCode);
 
     setCurrentStep("result");
@@ -563,16 +627,17 @@ export function SkillAssessmentApp() {
       name: candidate.fullName,
       number: candidate.phone,
       email: candidate.email,
-      source: `Skill Certificate: ${activeDomain.name}`,
+      source: `MBA Certificate: ${activeSpecialization.name}`,
       category: 'mocktest',
-      course: activeDomain.shortTitle,
+      course: `MBA ${activeSpecialization.shortTitle}`,
       score: examMetrics.netScore,
       percentile: examMetrics.percentage,
       details: {
         certificateId: certCode,
-        domainId: activeDomain.id,
+        specializationId: activeSpecialization.id,
+        college: candidate.collegeName || 'Not Specified',
         passed: examMetrics.hasPassed,
-        grade: examMetrics.hasPassed ? 'Certified' : 'Participant',
+        grade: examMetrics.hasPassed ? 'Executive Certified' : 'Participant',
         correctCount: examMetrics.correctCount,
         incorrectCount: examMetrics.incorrectCount,
         unansweredCount: examMetrics.unattemptedCount,
@@ -594,12 +659,12 @@ export function SkillAssessmentApp() {
   // Reset & Re-take
   const handleRetakeExam = () => {
     const initialAnswers: Record<number, UserAnswerState> = {};
-    activeDomain.questions.forEach((q) => {
+    activeSpecialization.questions.forEach((q) => {
       initialAnswers[q.id] = { selectedOption: null, isMarkedForReview: false };
     });
     setAnswers(initialAnswers);
     setActiveQuestionIndex(0);
-    setTimeRemainingSeconds(activeDomain.timeLimitMinutes * 60);
+    setTimeRemainingSeconds(activeSpecialization.timeLimitMinutes * 60);
     setIsTimerRunning(true);
     setCurrentStep("exam");
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -622,17 +687,17 @@ export function SkillAssessmentApp() {
       const canvas = await window.html2canvas(certificateRef.current, {
         scale: 2.5,
         useCORS: true,
-        backgroundColor: "#080d1a",
+        backgroundColor: "#060a14",
         logging: false
       });
       const dataUrl = canvas.toDataURL("image/png");
       const link = document.createElement("a");
-      link.download = `${candidate.fullName.replace(/\s+/g, '_')}_${activeDomain.shortTitle}_Certificate.png`;
+      link.download = `${candidate.fullName.replace(/\s+/g, '_')}_MBA_${activeSpecialization.shortTitle.replace(/\s+/g, '_')}_Certificate.png`;
       link.href = dataUrl;
       link.click();
     } catch (err) {
       console.error("PNG export error", err);
-      alert("Failed to export PNG. Please try printing the certificate.");
+      alert("Failed to export PNG. Please try printing or capturing a screenshot.");
     } finally {
       setIsExportingPng(false);
     }
@@ -649,7 +714,7 @@ export function SkillAssessmentApp() {
       const canvas = await window.html2canvas(certificateRef.current, {
         scale: 2.5,
         useCORS: true,
-        backgroundColor: "#080d1a",
+        backgroundColor: "#060a14",
         logging: false
       });
 
@@ -664,7 +729,7 @@ export function SkillAssessmentApp() {
       });
 
       pdf.addImage(imgData, "PNG", 0, 0, 297, 210);
-      pdf.save(`${candidate.fullName.replace(/\s+/g, '_')}_${activeDomain.shortTitle}_Certificate.pdf`);
+      pdf.save(`${candidate.fullName.replace(/\s+/g, '_')}_MBA_${activeSpecialization.shortTitle.replace(/\s+/g, '_')}_Certificate.pdf`);
     } catch (err) {
       console.error("PDF export error", err);
       alert("Failed to export PDF. You can also save or print this page as PDF.");
@@ -686,27 +751,28 @@ export function SkillAssessmentApp() {
   // LinkedIn Share URL
   const getLinkedInShareUrl = () => {
     const text = encodeURIComponent(
-      `🎯 Proud to announce that I have successfully cleared the ${activeDomain.name} Assessment on CareerWithMohit with an accredited score of ${examMetrics.percentage}%!\n\nVerified Certificate ID: ${certificateId}\nCheck it out and test your skills here:`
+      `🎓 Proud to announce that I have successfully cleared the MBA ${activeSpecialization.name} Assessment on CareerWithMohit with an accredited score of ${examMetrics.percentage}%!\n\nVerified Certificate ID: ${certificateId}\nCheck it out and test your MBA specialization skills here:`
     );
-    const url = encodeURIComponent(`https://careerwithmohit.online/skill-assessment-certificate`);
+    const url = encodeURIComponent(`https://careerwithmohit.online/skill-assessment-certificate?cert=${certificateId}`);
     return `https://www.linkedin.com/feed/?shareActive=true&text=${text}%20${url}`;
   };
 
   // Active question helpers
-  const currentQuestion = activeDomain.questions[activeQuestionIndex];
+  const currentQuestion = activeSpecialization.questions[activeQuestionIndex];
   const currentAnswerState = answers[currentQuestion?.id] || { selectedOption: null, isMarkedForReview: false };
 
   return (
-    <div className="min-h-screen bg-[#070b14] text-slate-100 font-sans selection:bg-blue-600 selection:text-white pb-20">
+    <div className="min-h-screen bg-[#050811] text-slate-100 font-sans selection:bg-blue-600 selection:text-white pb-24">
       
-      {/* Glow Backdrops */}
-      <div className="fixed top-0 left-1/4 w-[600px] h-[350px] bg-blue-600/10 blur-[140px] pointer-events-none rounded-full" />
-      <div className="fixed bottom-0 right-10 w-[500px] h-[300px] bg-violet-600/10 blur-[130px] pointer-events-none rounded-full" />
+      {/* Background Glows */}
+      <div className="fixed top-0 left-1/4 w-[650px] h-[380px] bg-blue-600/10 blur-[150px] pointer-events-none rounded-full" />
+      <div className="fixed bottom-0 right-10 w-[550px] h-[320px] bg-indigo-600/10 blur-[140px] pointer-events-none rounded-full" />
+      <div className="fixed top-1/2 left-0 w-[400px] h-[400px] bg-amber-500/5 blur-[160px] pointer-events-none rounded-full" />
 
       {/* ========================================================================= */}
       {/* 1. TOP HEADER & BREADCRUMB */}
       {/* ========================================================================= */}
-      <header className="border-b border-white/10 bg-[#090f1d]/90 backdrop-blur-xl sticky top-0 z-40">
+      <header className="border-b border-white/10 bg-[#070c18]/90 backdrop-blur-xl sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3.5 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <Link 
@@ -720,13 +786,13 @@ export function SkillAssessmentApp() {
               onClick={() => setCurrentStep("hub")}
               className={`text-xs sm:text-sm font-medium transition-colors ${currentStep === 'hub' ? 'text-blue-400 font-semibold' : 'text-slate-400 hover:text-white'}`}
             >
-              Skill Certifications
+              MBA Specialization Certifications
             </button>
             {currentStep !== "hub" && (
               <>
                 <span className="text-slate-600 text-xs">/</span>
                 <span className="text-xs sm:text-sm font-semibold text-white truncate max-w-[160px] sm:max-w-none">
-                  {activeDomain.shortTitle}
+                  {activeSpecialization.shortTitle}
                 </span>
               </>
             )}
@@ -735,14 +801,14 @@ export function SkillAssessmentApp() {
           <div className="flex items-center gap-3">
             <div className="hidden md:inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-[11px] font-semibold text-blue-300">
               <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>Free Accredited Digital Credential</span>
+              <span>Free MBA / PGDM Accredited Credentials</span>
             </div>
             {currentStep !== "hub" && currentStep !== "exam" && (
               <button
                 onClick={() => setCurrentStep("hub")}
                 className="text-xs font-semibold px-3 py-1.5 rounded-lg bg-white/5 hover:bg-white/10 text-slate-300 transition-colors border border-white/10"
               >
-                All Skills
+                All Specializations
               </button>
             )}
           </div>
@@ -750,22 +816,24 @@ export function SkillAssessmentApp() {
       </header>
 
       {/* ========================================================================= */}
-      {/* STAGE A: SKILLS HUB / CATALOG */}
+      {/* STAGE A: MBA SPECIALIZATIONS CATALOG / HUB */}
       {/* ========================================================================= */}
       {currentStep === "hub" && (
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 relative z-10">
           
           {/* Hero Banner */}
-          <div className="text-center max-w-3xl mx-auto mb-12 sm:mb-16 space-y-4">
-            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-gradient-to-r from-blue-500/15 via-violet-500/15 to-purple-500/15 border border-blue-500/30 text-blue-300 text-xs font-bold uppercase tracking-wider">
-              <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-              <span>Industry-Standard Competency Benchmarking</span>
+          <div className="text-center max-w-4xl mx-auto mb-12 sm:mb-16 space-y-5">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-amber-500/15 via-blue-500/15 to-purple-500/15 border border-[#c5a059]/40 text-amber-300 text-xs font-bold uppercase tracking-wider shadow-lg">
+              <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+              <span>MBA &amp; PGDM Specialization Certification Portal 2026–2027</span>
             </div>
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight leading-tight">
-              Attempt Skills &amp; <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-indigo-300 to-purple-400">Get Certified</span>
+            
+            <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
+              Validate Your <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ffe5a3] via-[#f7cf80] to-[#c5a059]">MBA Specialization</span> &amp; Get Certified
             </h1>
-            <p className="text-slate-400 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
-              Verify your technical competence across 9 high-demand domains. Each track features a dedicated 30-question timed assessment (+1 / -0.5 negative marking). Score 60%+ to earn an authentic digital certificate signed by <strong className="text-white font-medium">Mohit Jain</strong>.
+            
+            <p className="text-slate-300 text-sm sm:text-base max-w-3xl mx-auto leading-relaxed">
+              Elevate your campus placements (SIP &amp; Finals) and resume credentials. Attempt 25-minute industry-standard case assessments across <strong className="text-white font-semibold">10 MBA Specializations</strong> with negative marking (+1.0 / -0.33). Score 60%+ to earn an authentic digital certificate signed by <strong className="text-white font-medium">Mohit Jain</strong>.
             </p>
 
             {/* Quick Actions in Hero */}
@@ -773,14 +841,15 @@ export function SkillAssessmentApp() {
               <button
                 type="button"
                 onClick={() => {
-                  setSampleDomainId("power-bi");
+                  setSampleSpecId("human-resource");
                   setShowSampleCertificateModal(true);
                 }}
                 className="px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-500/20 via-yellow-500/20 to-amber-600/20 hover:from-amber-500/30 hover:to-amber-600/30 border border-amber-500/40 text-amber-300 font-bold text-xs flex items-center gap-2 shadow-lg shadow-amber-950/30 transition-all hover:scale-105 active:scale-95"
               >
                 <Eye className="w-4 h-4 text-amber-400" />
-                <span>View Sample Certificate</span>
+                <span>View Specimen Certificate</span>
               </button>
+
               <a
                 href="#certificate-showcase"
                 className="px-5 py-2.5 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 font-semibold text-xs flex items-center gap-1.5 transition-all"
@@ -788,67 +857,156 @@ export function SkillAssessmentApp() {
                 <Award className="w-3.5 h-3.5 text-blue-400" />
                 <span>Live Certificate Showcase</span>
               </a>
+
+              <a
+                href="#verify-certificate-section"
+                className="px-5 py-2.5 rounded-xl bg-blue-500/10 hover:bg-blue-500/20 border border-blue-500/30 text-blue-300 font-semibold text-xs flex items-center gap-1.5 transition-all"
+              >
+                <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
+                <span>Verify Credential</span>
+              </a>
             </div>
 
-            {/* Live Stats Row */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 pt-6 max-w-2xl mx-auto">
-              <div className="bg-[#0f172a]/70 border border-white/10 rounded-xl p-3 text-center backdrop-blur-md">
-                <div className="text-xl sm:text-2xl font-black text-blue-400">9</div>
-                <div className="text-[11px] text-slate-400 font-medium">Domain Tracks</div>
+            {/* Key Metrics Counter Bar */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 pt-6 max-w-3xl mx-auto">
+              <div className="bg-[#0b1222]/80 border border-white/10 rounded-2xl p-3.5 text-center backdrop-blur-md">
+                <div className="text-xl sm:text-2xl font-black text-amber-400">10</div>
+                <div className="text-[11px] text-slate-400 font-medium">MBA Specializations</div>
               </div>
-              <div className="bg-[#0f172a]/70 border border-white/10 rounded-xl p-3 text-center backdrop-blur-md">
-                <div className="text-xl sm:text-2xl font-black text-indigo-400">270</div>
-                <div className="text-[11px] text-slate-400 font-medium">Curated MCQs</div>
+              <div className="bg-[#0b1222]/80 border border-white/10 rounded-2xl p-3.5 text-center backdrop-blur-md">
+                <div className="text-xl sm:text-2xl font-black text-blue-400">200</div>
+                <div className="text-[11px] text-slate-400 font-medium">Curated Case MCQs</div>
               </div>
-              <div className="bg-[#0f172a]/70 border border-white/10 rounded-xl p-3 text-center backdrop-blur-md">
-                <div className="text-xl sm:text-2xl font-black text-amber-400">-0.5</div>
+              <div className="bg-[#0b1222]/80 border border-white/10 rounded-2xl p-3.5 text-center backdrop-blur-md">
+                <div className="text-xl sm:text-2xl font-black text-rose-400">-0.33</div>
                 <div className="text-[11px] text-slate-400 font-medium">Negative Marking</div>
               </div>
-              <div className="bg-[#0f172a]/70 border border-white/10 rounded-xl p-3 text-center backdrop-blur-md">
+              <div className="bg-[#0b1222]/80 border border-white/10 rounded-2xl p-3.5 text-center backdrop-blur-md">
                 <div className="text-xl sm:text-2xl font-black text-emerald-400">60%</div>
-                <div className="text-[11px] text-slate-400 font-medium">Passing Threshold</div>
+                <div className="text-[11px] text-slate-400 font-medium">Passing Benchmark</div>
               </div>
             </div>
           </div>
 
-          {/* 9 Skill Cards Grid */}
+          {/* Filter Bar & Search */}
+          <div className="mb-10 space-y-4">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-4 bg-[#0a1020]/90 border border-white/10 rounded-2xl p-4">
+              
+              {/* Category Filter Pills */}
+              <div className="flex flex-wrap items-center gap-2">
+                <button
+                  onClick={() => setSelectedCategory("all")}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                    selectedCategory === "all"
+                      ? 'bg-blue-600 text-white shadow-md shadow-blue-900/40'
+                      : 'bg-white/5 text-slate-400 hover:text-white hover:bg-white/10 border border-white/5'
+                  }`}
+                >
+                  All Specializations (10)
+                </button>
+                <button
+                  onClick={() => setSelectedCategory("Core MBA")}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                    selectedCategory === "Core MBA"
+                      ? 'bg-blue-600 text-white shadow-md shadow-blue-900/40'
+                      : 'bg-white/5 text-slate-400 hover:text-white hover:bg-white/10 border border-white/5'
+                  }`}
+                >
+                  Core Management (4)
+                </button>
+                <button
+                  onClick={() => setSelectedCategory("Emerging Tech MBA")}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                    selectedCategory === "Emerging Tech MBA"
+                      ? 'bg-blue-600 text-white shadow-md shadow-blue-900/40'
+                      : 'bg-white/5 text-slate-400 hover:text-white hover:bg-white/10 border border-white/5'
+                  }`}
+                >
+                  Emerging Tech MBA (3)
+                </button>
+                <button
+                  onClick={() => setSelectedCategory("Sectoral MBA")}
+                  className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
+                    selectedCategory === "Sectoral MBA"
+                      ? 'bg-blue-600 text-white shadow-md shadow-blue-900/40'
+                      : 'bg-white/5 text-slate-400 hover:text-white hover:bg-white/10 border border-white/5'
+                  }`}
+                >
+                  Sectoral &amp; Specialized (3)
+                </button>
+              </div>
+
+              {/* Search Box */}
+              <div className="relative w-full md:w-72">
+                <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
+                <input
+                  type="text"
+                  placeholder="Search skills, topics, recruiters..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  className="w-full bg-[#060a14] border border-white/15 focus:border-blue-500 rounded-xl pl-9 pr-4 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-blue-500 transition-all"
+                />
+              </div>
+
+            </div>
+          </div>
+
+          {/* 10 Specializations Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
-            {SKILL_DOMAINS.map((domain, index) => {
-              const icon = DOMAIN_ICONS[domain.id] || <Award className="w-6 h-6 text-blue-400" />;
+            {filteredSpecializations.map((spec) => {
+              const icon = SPECIALIZATION_ICONS[spec.id] || <Award className="w-6 h-6 text-blue-400" />;
               return (
                 <div
-                  key={domain.id}
-                  className="group relative bg-[#0d1527]/90 hover:bg-[#111c34] border border-white/10 hover:border-blue-500/50 rounded-2xl p-6 transition-all duration-300 flex flex-col justify-between shadow-xl hover:shadow-blue-900/20 hover:-translate-y-1"
+                  key={spec.id}
+                  className="group relative bg-[#091122]/90 hover:bg-[#0d1830] border border-white/10 hover:border-[#c5a059]/60 rounded-3xl p-6 transition-all duration-300 flex flex-col justify-between shadow-xl hover:shadow-blue-900/20 hover:-translate-y-1 backdrop-blur-md"
                 >
                   <div className="space-y-4">
                     {/* Top Row: Icon + Badge */}
                     <div className="flex items-center justify-between">
-                      <div className="w-12 h-12 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center group-hover:scale-110 transition-transform">
+                      <div className="w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center group-hover:scale-110 transition-transform">
                         {icon}
                       </div>
-                      <span className={`text-[10px] font-bold px-2.5 py-1 rounded-md border ${domain.badgeColor} uppercase tracking-wider`}>
-                        {domain.category}
+                      <span className={`text-[10px] font-bold px-2.5 py-1 rounded-md border ${spec.badgeColor} uppercase tracking-wider`}>
+                        {spec.category}
                       </span>
                     </div>
 
                     {/* Title & Description */}
                     <div>
-                      <h2 className="text-lg font-bold text-white group-hover:text-blue-300 transition-colors">
-                        {domain.name}
+                      <h2 className="text-lg font-bold text-white group-hover:text-amber-300 transition-colors">
+                        {spec.name}
                       </h2>
                       <p className="text-xs text-slate-400 mt-2 leading-relaxed">
-                        {domain.description}
+                        {spec.description}
                       </p>
                     </div>
 
-                    {/* Key Topics Tag cloud */}
-                    <div className="pt-2">
+                    {/* Salary & Recruiters */}
+                    <div className="bg-[#050914] border border-white/5 rounded-2xl p-3 space-y-2 text-xs">
+                      <div className="flex items-center justify-between">
+                        <span className="text-slate-400 text-[11px]">Avg CTC Benchmark:</span>
+                        <span className="font-bold text-emerald-400">{spec.avgSalary}</span>
+                      </div>
+                      <div>
+                        <span className="text-slate-400 text-[11px] block mb-1">Top Recruiters:</span>
+                        <div className="flex flex-wrap gap-1">
+                          {spec.topRecruiters.slice(0, 4).map((rec, rIdx) => (
+                            <span key={rIdx} className="text-[10px] bg-white/5 text-slate-300 px-2 py-0.5 rounded border border-white/5">
+                              {rec}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Key Competencies checklist */}
+                    <div className="pt-1">
                       <div className="text-[11px] font-semibold text-slate-400 mb-2 flex items-center gap-1.5">
                         <BookOpen className="w-3.5 h-3.5 text-blue-400" />
-                        <span>Syllabus Highlights:</span>
+                        <span>Core Competencies Evaluated:</span>
                       </div>
                       <div className="flex flex-wrap gap-1.5">
-                        {domain.syllabus.slice(0, 3).map((item, sIdx) => (
+                        {spec.keyCompetencies.slice(0, 3).map((item, sIdx) => (
                           <span 
                             key={sIdx}
                             className="text-[10px] bg-white/5 border border-white/10 text-slate-300 px-2 py-0.5 rounded"
@@ -861,25 +1019,25 @@ export function SkillAssessmentApp() {
                   </div>
 
                   {/* Card Bottom: Metadata & CTA */}
-                  <div className="pt-6 mt-6 border-t border-white/10 flex items-center justify-between gap-2">
+                  <div className="pt-5 mt-6 border-t border-white/10 flex items-center justify-between gap-2">
                     <button
                       type="button"
                       onClick={() => {
-                        setSampleDomainId(domain.id);
+                        setSampleSpecId(spec.id);
                         setShowSampleCertificateModal(true);
                       }}
                       className="text-[11px] font-semibold text-slate-400 hover:text-amber-300 transition-colors flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg hover:bg-white/5 border border-transparent hover:border-amber-500/30"
-                      title={`View sample certificate for ${domain.shortTitle}`}
+                      title={`View sample certificate for ${spec.shortTitle}`}
                     >
                       <Eye className="w-3.5 h-3.5 text-amber-400" />
                       <span>Sample Cert</span>
                     </button>
 
                     <button
-                      onClick={() => handleSelectSkill(domain.id)}
-                      className="px-4 py-2 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white text-xs font-bold shadow-lg shadow-blue-900/40 flex items-center gap-1.5 group-hover:gap-2 transition-all"
+                      onClick={() => handleSelectSpecialization(spec.id)}
+                      className="px-4 py-2 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white text-xs font-bold shadow-lg shadow-blue-900/40 flex items-center gap-1.5 group-hover:gap-2 transition-all"
                     >
-                      <span>Attempt Quiz</span>
+                      <span>Attempt Exam</span>
                       <ArrowRight className="w-3.5 h-3.5" />
                     </button>
                   </div>
@@ -891,33 +1049,33 @@ export function SkillAssessmentApp() {
           {/* ========================================================================= */}
           {/* ON-PAGE SAMPLE CERTIFICATE SHOWCASE SECTION */}
           {/* ========================================================================= */}
-          <section id="certificate-showcase" className="bg-[#0b1325]/95 border border-amber-500/25 rounded-3xl p-6 sm:p-10 mb-16 shadow-2xl relative overflow-hidden backdrop-blur-xl">
-            <div className="text-center max-w-2xl mx-auto space-y-3 mb-8">
+          <section id="certificate-showcase" className="bg-[#080e1c]/95 border border-[#c5a059]/30 rounded-3xl p-6 sm:p-10 mb-16 shadow-2xl relative overflow-hidden backdrop-blur-xl">
+            <div className="text-center max-w-3xl mx-auto space-y-3 mb-8">
               <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-500/10 border border-amber-400/30 text-amber-300 text-xs font-bold uppercase tracking-wider">
                 <Award className="w-3.5 h-3.5 text-amber-400" />
-                <span>Accredited Credential Specimen</span>
+                <span>Executive Credential Specimen</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-                Sample Certificate of Excellence
+              <h2 className="text-2xl sm:text-3xl font-black text-white">
+                Official MBA Certificate of Excellence
               </h2>
-              <p className="text-xs sm:text-sm text-slate-400 leading-relaxed">
-                This is the authentic digital certificate issued to candidates upon scoring 60%+ in any of our 9 domain tracks. Select any skill below to preview its custom credential:
+              <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
+                Awarded upon scoring 60%+ in any of our 10 MBA specialization assessment tracks. Switch any specialization below to preview its custom gold-sealed credential:
               </p>
 
-              {/* Domain Selector Chips */}
-              <div className="flex flex-wrap justify-center gap-2 pt-2">
-                {SKILL_DOMAINS.map((d) => (
+              {/* Specialization Selector Chips */}
+              <div className="flex flex-wrap justify-center gap-1.5 pt-2">
+                {MBA_SPECIALIZATIONS.map((d) => (
                   <button
                     key={d.id}
                     type="button"
-                    onClick={() => setSampleDomainId(d.id)}
+                    onClick={() => setSampleSpecId(d.id)}
                     className={`px-3 py-1.5 rounded-xl text-xs font-semibold transition-all flex items-center gap-1.5 ${
-                      sampleDomainId === d.id
+                      sampleSpecId === d.id
                         ? 'bg-amber-500/20 border border-amber-400 text-amber-200 shadow-md shadow-amber-950/40 font-bold'
                         : 'bg-white/5 border border-white/10 text-slate-400 hover:text-white hover:bg-white/10'
                     }`}
                   >
-                    <span className="scale-75">{DOMAIN_ICONS[d.id]}</span>
+                    <span className="scale-75">{SPECIALIZATION_ICONS[d.id]}</span>
                     <span>{d.shortTitle}</span>
                   </button>
                 ))}
@@ -928,11 +1086,13 @@ export function SkillAssessmentApp() {
             <div className="overflow-x-auto pb-4">
               <CertificateFrame
                 candidateName={candidate.fullName || sampleCandidateName}
-                domainName={sampleDomain.name}
-                percentage={93.3}
-                netScore="28.0"
-                dateStr="September 10, 2026"
-                certId={`CWM-CERT-2026-${sampleDomain.id.slice(0, 3).toUpperCase()}-SPECIMEN`}
+                collegeName={candidate.collegeName || sampleCollegeName}
+                specializationName={sampleSpecialization.name}
+                certificateTitle={sampleSpecialization.certificateTitle}
+                percentage={92.5}
+                netScore="18.5"
+                dateStr="Academic Session 2026–2027"
+                certId={`CWM-MBA-2027-${sampleSpecialization.id.slice(0, 3).toUpperCase()}-SPECIMEN`}
                 isSample={true}
               />
             </div>
@@ -940,11 +1100,11 @@ export function SkillAssessmentApp() {
             {/* CTA below preview */}
             <div className="mt-8 text-center flex flex-wrap items-center justify-center gap-3">
               <button
-                onClick={() => handleSelectSkill(sampleDomainId)}
+                onClick={() => handleSelectSpecialization(sampleSpecId)}
                 className="px-8 py-3.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white font-bold text-sm shadow-xl shadow-blue-900/40 inline-flex items-center gap-2 transition-all hover:scale-105 active:scale-95"
               >
                 <Zap className="w-4 h-4 text-amber-300" />
-                <span>Attempt {sampleDomain.shortTitle} Exam &amp; Earn This Certificate</span>
+                <span>Attempt {sampleSpecialization.shortTitle} Exam &amp; Earn Certificate</span>
                 <ArrowRight className="w-4 h-4" />
               </button>
               <button
@@ -953,55 +1113,119 @@ export function SkillAssessmentApp() {
                 className="px-5 py-3.5 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-slate-300 font-semibold text-xs flex items-center gap-1.5 transition-all"
               >
                 <Eye className="w-4 h-4 text-amber-400" />
-                <span>Expand Fullscreen Preview</span>
+                <span>Customize &amp; Expand Preview</span>
               </button>
             </div>
           </section>
 
-          {/* Rules & Certification Standards Banner */}
-          <div className="bg-gradient-to-r from-blue-950/40 via-indigo-950/30 to-[#0c1424] border border-blue-500/20 rounded-3xl p-6 sm:p-10 mb-16 shadow-2xl">
-            <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
-              <div className="space-y-3 text-center lg:text-left">
-                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-400/30 text-blue-300 text-xs font-bold uppercase">
-                  <GraduationCap className="w-4 h-4 text-blue-400" />
-                  <span>Evaluation Criteria &amp; Negative Marking</span>
-                </div>
-                <h3 className="text-xl sm:text-2xl font-extrabold text-white">
-                  Strict Examination Architecture (+1.0 / -0.5)
-                </h3>
-                <p className="text-slate-300 text-xs sm:text-sm max-w-2xl leading-relaxed">
-                  To preserve industry credibility, CareerWithMohit certifications utilize competitive exam grading. Random guessing is penalized: each correct question yields +1.0 mark, each incorrect response deducts 0.5 mark, and unanswered questions yield 0. Pass requires a net score of at least 18.0 / 30 marks (60%).
-                </p>
+          {/* ========================================================================= */}
+          {/* CERTIFICATE VERIFIER SECTION */}
+          {/* ========================================================================= */}
+          <section id="verify-certificate-section" className="bg-gradient-to-r from-[#091224] via-[#0d1830] to-[#091224] border border-blue-500/20 rounded-3xl p-6 sm:p-10 mb-16 shadow-2xl">
+            <div className="max-w-3xl mx-auto text-center space-y-4">
+              <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-blue-500/10 border border-blue-400/30 text-blue-300 text-xs font-bold uppercase">
+                <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
+                <span>Credential Verification Portal</span>
+              </div>
+              <h3 className="text-2xl sm:text-3xl font-extrabold text-white">
+                Verify Issued MBA / PGDM Certificate
+              </h3>
+              <p className="text-slate-300 text-xs sm:text-sm max-w-xl mx-auto">
+                Recruiters, HR leaders, and academic institutions can verify the authenticity of any candidate credential issued by CareerWithMohit.
+              </p>
+
+              <div className="flex flex-col sm:flex-row items-center gap-2 max-w-xl mx-auto pt-2">
+                <input
+                  type="text"
+                  placeholder="Enter Certificate ID (e.g. CWM-MBA-2027-FIN-98F2)"
+                  value={verifySearchInput}
+                  onChange={(e) => setVerifySearchInput(e.target.value)}
+                  className="w-full bg-[#060a14] border border-white/20 focus:border-blue-500 rounded-xl px-4 py-3 text-xs sm:text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500/20"
+                />
+                <button
+                  type="button"
+                  onClick={() => handleLookupCertificate(verifySearchInput)}
+                  className="w-full sm:w-auto px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs sm:text-sm shrink-0 transition-all flex items-center justify-center gap-2"
+                >
+                  <Search className="w-4 h-4" />
+                  <span>Verify Now</span>
+                </button>
               </div>
 
-              <div className="flex flex-col sm:flex-row gap-3 shrink-0">
-                <button
-                  onClick={() => handleSelectSkill("power-bi")}
-                  className="px-6 py-3.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-sm shadow-xl shadow-blue-900/40 flex items-center justify-center gap-2"
-                >
-                  <span>Start with Power BI</span>
-                  <ArrowRight className="w-4 h-4" />
-                </button>
-                <button
-                  onClick={() => handleSelectSkill("sql")}
-                  className="px-6 py-3.5 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-bold text-sm shadow-xl shadow-purple-900/40 flex items-center justify-center gap-2"
-                >
-                  <span>Start with SQL</span>
-                  <ArrowRight className="w-4 h-4" />
-                </button>
-              </div>
+              {verifiedResult && (
+                <div className="mt-6 p-5 rounded-2xl bg-[#060c18] border border-emerald-500/40 text-left space-y-3 animate-in fade-in zoom-in-95 duration-200 max-w-xl mx-auto">
+                  <div className="flex items-center justify-between pb-2 border-b border-white/10">
+                    <span className="text-xs font-bold text-emerald-400 flex items-center gap-1.5">
+                      <CheckCircle2 className="w-4 h-4" /> {verifiedResult.status}
+                    </span>
+                    <span className="text-[10px] font-mono text-slate-400">{verifiedResult.id}</span>
+                  </div>
+                  <div className="grid grid-cols-2 gap-2 text-xs">
+                    <div>
+                      <span className="text-slate-500 block text-[10px]">Candidate:</span>
+                      <strong className="text-white">{verifiedResult.name}</strong>
+                    </div>
+                    <div>
+                      <span className="text-slate-500 block text-[10px]">Academic Track:</span>
+                      <strong className="text-amber-300">{verifiedResult.specialization}</strong>
+                    </div>
+                    <div>
+                      <span className="text-slate-500 block text-[10px]">Accredited Score:</span>
+                      <strong className="text-emerald-400">{verifiedResult.score}</strong>
+                    </div>
+                    <div>
+                      <span className="text-slate-500 block text-[10px]">Issuing Session:</span>
+                      <strong className="text-slate-300">{verifiedResult.date}</strong>
+                    </div>
+                  </div>
+                </div>
+              )}
             </div>
-          </div>
+          </section>
+
+          {/* MBA Placement Impact & Resume Guide */}
+          <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+            <div className="bg-[#091122]/90 border border-white/10 rounded-3xl p-6 space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400">
+                <Briefcase className="w-5 h-5" />
+              </div>
+              <h4 className="text-base font-bold text-white">Placement &amp; SIP Advantage</h4>
+              <p className="text-xs text-slate-400 leading-relaxed">
+                MBA recruiters specifically look for specialized domain skills beyond standard classroom theory. Verified badges demonstrate immediate operational day-1 readiness.
+              </p>
+            </div>
+
+            <div className="bg-[#091122]/90 border border-white/10 rounded-3xl p-6 space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-blue-500/10 border border-blue-500/30 flex items-center justify-center text-blue-400">
+                <GraduationCap className="w-5 h-5" />
+              </div>
+              <h4 className="text-base font-bold text-white">Rigorous Negative Marking</h4>
+              <p className="text-xs text-slate-400 leading-relaxed">
+                Grading follows competitive CAT/GATE format (+1.0 for correct, -0.33 for incorrect). This eliminates random guessing and ensures your high score carries authentic credibility.
+              </p>
+            </div>
+
+            <div className="bg-[#091122]/90 border border-white/10 rounded-3xl p-6 space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400">
+                <Share2 className="w-5 h-5" />
+              </div>
+              <h4 className="text-base font-bold text-white">Instant 1-Click LinkedIn &amp; PDF</h4>
+              <p className="text-xs text-slate-400 leading-relaxed">
+                Instantly download print-ready 300-DPI PDF and PNG credentials with permanent verification URL to embed into your LinkedIn Licenses &amp; Certifications section.
+              </p>
+            </div>
+          </section>
+
         </main>
       )}
 
       {/* ========================================================================= */}
-      {/* STAGE B: PRE-EXAM REGISTRATION & DOMAIN SELECTION */}
+      {/* STAGE B: PRE-EXAM REGISTRATION & SPECIALIZATION CONFIRMATION */}
       {/* ========================================================================= */}
       {currentStep === "register" && (
         <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 relative z-10">
           
-          <div className="bg-[#0e1628]/95 border border-white/10 rounded-3xl p-6 sm:p-10 shadow-2xl backdrop-blur-xl">
+          <div className="bg-[#0a1224]/95 border border-white/10 rounded-3xl p-6 sm:p-10 shadow-2xl backdrop-blur-xl">
             {/* Header */}
             <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 pb-6 border-b border-white/10">
               <div className="space-y-1">
@@ -1009,7 +1233,7 @@ export function SkillAssessmentApp() {
                   <span>Step 1 of 3: Pre-Exam Registration</span>
                 </div>
                 <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
-                  {activeDomain.name}
+                  {activeSpecialization.name}
                 </h1>
                 <p className="text-xs sm:text-sm text-slate-400">
                   Fill in your credentials to initialize your assessment session and personalized certificate record.
@@ -1020,8 +1244,9 @@ export function SkillAssessmentApp() {
                 <button
                   type="button"
                   onClick={() => {
-                    setSampleDomainId(selectedDomainId);
+                    setSampleSpecId(selectedSpecId);
                     if (candidate.fullName.trim()) setSampleCandidateName(candidate.fullName);
+                    if (candidate.collegeName.trim()) setSampleCollegeName(candidate.collegeName);
                     setShowSampleCertificateModal(true);
                   }}
                   className="text-xs font-semibold text-amber-300 hover:text-amber-200 px-3 py-2 rounded-xl bg-amber-500/10 border border-amber-500/30 transition-colors flex items-center gap-1.5 shadow-sm"
@@ -1034,7 +1259,7 @@ export function SkillAssessmentApp() {
                   onClick={() => setCurrentStep("hub")}
                   className="text-xs font-semibold text-slate-400 hover:text-white px-3 py-2 rounded-xl bg-white/5 border border-white/10 transition-colors"
                 >
-                  Change Skill Track
+                  Change Specialization
                 </button>
               </div>
             </div>
@@ -1042,24 +1267,24 @@ export function SkillAssessmentApp() {
             {/* Form */}
             <form onSubmit={handleStartExam} className="mt-8 space-y-6">
               
-              {/* Domain Switcher Pills */}
+              {/* Specialization Switcher Pills */}
               <div>
                 <label className="block text-xs font-bold uppercase tracking-wider text-slate-300 mb-2">
-                  Confirm Selected Skill Domain:
+                  Confirm Selected Specialization Track:
                 </label>
-                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
-                  {SKILL_DOMAINS.map((d) => (
+                <div className="grid grid-cols-2 sm:grid-cols-5 gap-2">
+                  {MBA_SPECIALIZATIONS.map((d) => (
                     <button
                       type="button"
                       key={d.id}
-                      onClick={() => setSelectedDomainId(d.id)}
+                      onClick={() => setSelectedSpecId(d.id)}
                       className={`text-left p-2.5 rounded-xl border text-xs font-medium transition-all flex items-center gap-2 ${
-                        selectedDomainId === d.id
+                        selectedSpecId === d.id
                           ? 'bg-blue-600/20 border-blue-500 text-white font-bold shadow-md shadow-blue-900/30'
                           : 'bg-white/5 border-white/10 text-slate-400 hover:border-white/20 hover:text-slate-200'
                       }`}
                     >
-                      <span className="shrink-0">{DOMAIN_ICONS[d.id]}</span>
+                      <span className="shrink-0 scale-75">{SPECIALIZATION_ICONS[d.id]}</span>
                       <span className="truncate">{d.shortTitle}</span>
                     </button>
                   ))}
@@ -1068,10 +1293,9 @@ export function SkillAssessmentApp() {
 
               {/* Candidate Info Fields */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div className="sm:col-span-2">
+                <div>
                   <label className="block text-xs font-bold uppercase tracking-wider text-slate-300 mb-1.5">
                     Candidate Full Name <span className="text-rose-400">*</span>
-                    <span className="text-slate-400 font-normal ml-2 text-[11px]">(Exactly as it should appear on your verified certificate)</span>
                   </label>
                   <input
                     type="text"
@@ -1079,7 +1303,20 @@ export function SkillAssessmentApp() {
                     placeholder="e.g. Rahul Sharma"
                     value={candidate.fullName}
                     onChange={(e) => setCandidate({ ...candidate, fullName: e.target.value })}
-                    className="w-full bg-[#080d19] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
+                    className="w-full bg-[#060a14] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-xs font-bold uppercase tracking-wider text-slate-300 mb-1.5">
+                    MBA / PGDM College or Institution <span className="text-slate-400 font-normal">(Optional)</span>
+                  </label>
+                  <input
+                    type="text"
+                    placeholder="e.g. IIM Ahmedabad / XLRI / SIBM / NMIMS"
+                    value={candidate.collegeName}
+                    onChange={(e) => setCandidate({ ...candidate, collegeName: e.target.value })}
+                    className="w-full bg-[#060a14] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
                   />
                 </div>
 
@@ -1093,7 +1330,7 @@ export function SkillAssessmentApp() {
                     placeholder="rahul.sharma@example.com"
                     value={candidate.email}
                     onChange={(e) => setCandidate({ ...candidate, email: e.target.value })}
-                    className="w-full bg-[#080d19] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
+                    className="w-full bg-[#060a14] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
                   />
                 </div>
 
@@ -1107,7 +1344,7 @@ export function SkillAssessmentApp() {
                     placeholder="+91 98765 43210"
                     value={candidate.phone}
                     onChange={(e) => setCandidate({ ...candidate, phone: e.target.value })}
-                    className="w-full bg-[#080d19] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
+                    className="w-full bg-[#060a14] border border-white/15 focus:border-blue-500 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
                   />
                 </div>
               </div>
@@ -1129,23 +1366,23 @@ export function SkillAssessmentApp() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-300">
                   <div className="flex items-start gap-2">
                     <span className="text-emerald-400 font-bold">✓</span>
-                    <span><strong>Total Questions:</strong> 30 Multiple Choice Questions (1 question per screen)</span>
+                    <span><strong>Total Questions:</strong> 20 Multiple Choice Questions (Single choice per question)</span>
                   </div>
                   <div className="flex items-start gap-2">
                     <span className="text-blue-400 font-bold">⏱</span>
-                    <span><strong>Duration:</strong> 30 Minutes countdown timer (auto-submits at 00:00)</span>
+                    <span><strong>Duration:</strong> 25 Minutes countdown timer (auto-submits at 00:00)</span>
                   </div>
                   <div className="flex items-start gap-2">
                     <span className="text-emerald-400 font-bold">+1.0</span>
                     <span><strong>Correct Answer:</strong> +1.0 Mark awarded</span>
                   </div>
                   <div className="flex items-start gap-2">
-                    <span className="text-rose-400 font-bold">-0.5</span>
-                    <span><strong>Negative Marking:</strong> -0.5 Mark deducted per incorrect answer</span>
+                    <span className="text-rose-400 font-bold">-0.33</span>
+                    <span><strong>Negative Marking:</strong> -0.33 Mark deducted per incorrect answer</span>
                   </div>
                   <div className="flex items-start gap-2 sm:col-span-2">
                     <span className="text-amber-400 font-bold">🏆</span>
-                    <span><strong>Passing Standard:</strong> Minimum 60% Net Score (&gt;= 18.0 marks after negative penalty)</span>
+                    <span><strong>Passing Standard:</strong> Minimum 60% Net Score (&gt;= 12.0 marks after negative penalty)</span>
                   </div>
                 </div>
               </div>
@@ -1157,14 +1394,14 @@ export function SkillAssessmentApp() {
                   onClick={() => setCurrentStep("hub")}
                   className="w-full sm:w-auto px-6 py-3 rounded-xl bg-white/5 hover:bg-white/10 text-slate-300 font-medium text-xs transition-colors"
                 >
-                  ← Back to Skill Catalog
+                  ← Back to Specialization Catalog
                 </button>
                 <button
                   type="submit"
                   className="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white font-bold text-sm shadow-xl shadow-blue-900/40 flex items-center justify-center gap-2 active:scale-95 transition-all"
                 >
                   <Zap className="w-4 h-4 text-amber-300" />
-                  <span>Begin 30-Minute Examination</span>
+                  <span>Begin 25-Minute Examination</span>
                   <ArrowRight className="w-4 h-4" />
                 </button>
               </div>
@@ -1180,21 +1417,24 @@ export function SkillAssessmentApp() {
         <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 relative z-10">
           
           {/* Top Sticky Status Bar */}
-          <div className="bg-[#0e1628]/95 border border-white/10 rounded-2xl p-4 sm:p-5 shadow-2xl backdrop-blur-xl mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div className="bg-[#091122]/95 border border-white/10 rounded-2xl p-4 sm:p-5 shadow-2xl backdrop-blur-xl mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             
-            {/* Domain & Candidate Badge */}
+            {/* Specialization & Candidate Badge */}
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center shrink-0">
-                {DOMAIN_ICONS[activeDomain.id]}
+                {SPECIALIZATION_ICONS[activeSpecialization.id]}
               </div>
               <div>
                 <div className="flex items-center gap-2">
-                  <span className="text-xs font-bold text-white uppercase tracking-wider">{activeDomain.shortTitle}</span>
+                  <span className="text-xs font-bold text-white uppercase tracking-wider">{activeSpecialization.shortTitle}</span>
                   <span className="text-[10px] bg-blue-500/20 text-blue-300 border border-blue-400/30 px-2 py-0.2 rounded-full font-semibold">
                     Live Exam
                   </span>
                 </div>
-                <div className="text-xs text-slate-400">Candidate: <strong className="text-slate-200">{candidate.fullName}</strong></div>
+                <div className="text-xs text-slate-400">
+                  Candidate: <strong className="text-slate-200">{candidate.fullName}</strong>
+                  {candidate.collegeName && <span className="text-slate-500 ml-1">({candidate.collegeName})</span>}
+                </div>
               </div>
             </div>
 
@@ -1203,9 +1443,9 @@ export function SkillAssessmentApp() {
               
               {/* Timer Pill */}
               <div className={`flex items-center gap-2 px-3.5 py-1.5 rounded-xl border text-sm font-mono font-black ${
-                timeRemainingSeconds < 300 
+                timeRemainingSeconds < 180 
                   ? 'bg-rose-500/20 border-rose-500 text-rose-300 animate-pulse' 
-                  : timeRemainingSeconds < 600
+                  : timeRemainingSeconds < 360
                   ? 'bg-amber-500/20 border-amber-500 text-amber-300'
                   : 'bg-white/5 border-white/15 text-blue-300'
               }`}>
@@ -1227,13 +1467,13 @@ export function SkillAssessmentApp() {
           {/* Progress Bar */}
           <div className="mb-6 space-y-1.5">
             <div className="flex items-center justify-between text-xs text-slate-400 font-medium">
-              <span>Question {activeQuestionIndex + 1} of {activeDomain.totalQuestions}</span>
-              <span>{Math.round(((activeQuestionIndex + 1) / activeDomain.totalQuestions) * 100)}% Progress</span>
+              <span>Question {activeQuestionIndex + 1} of {activeSpecialization.totalQuestions}</span>
+              <span>{Math.round(((activeQuestionIndex + 1) / activeSpecialization.totalQuestions) * 100)}% Completed</span>
             </div>
             <div className="w-full h-1.5 bg-slate-800 rounded-full overflow-hidden">
               <div 
                 className="h-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 transition-all duration-300"
-                style={{ width: `${((activeQuestionIndex + 1) / activeDomain.totalQuestions) * 100}%` }}
+                style={{ width: `${((activeQuestionIndex + 1) / activeSpecialization.totalQuestions) * 100}%` }}
               />
             </div>
           </div>
@@ -1242,7 +1482,7 @@ export function SkillAssessmentApp() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
             
             {/* Question Card */}
-            <div className="lg:col-span-8 bg-[#0d1527]/95 border border-white/10 rounded-3xl p-6 sm:p-8 shadow-xl flex flex-col justify-between min-h-[460px]">
+            <div className="lg:col-span-8 bg-[#091122]/95 border border-white/10 rounded-3xl p-6 sm:p-8 shadow-xl flex flex-col justify-between min-h-[460px]">
               <div className="space-y-6">
                 
                 {/* Question Header: Tag & Mark for Review */}
@@ -1251,7 +1491,7 @@ export function SkillAssessmentApp() {
                     <span className="px-2.5 py-1 rounded-md bg-white/5 border border-white/10 text-xs font-bold text-blue-300">
                       Q{activeQuestionIndex + 1}
                     </span>
-                    <span className="text-[11px] text-slate-400">Single Choice (+1.0 / -0.5)</span>
+                    <span className="text-[11px] text-slate-400">Single Choice (+1.0 / -0.33)</span>
                   </div>
 
                   <button
@@ -1337,7 +1577,7 @@ export function SkillAssessmentApp() {
                 </div>
 
                 <div className="flex items-center gap-2">
-                  {activeQuestionIndex < activeDomain.totalQuestions - 1 ? (
+                  {activeQuestionIndex < activeSpecialization.totalQuestions - 1 ? (
                     <button
                       onClick={() => setActiveQuestionIndex(prev => prev + 1)}
                       className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs shadow-lg shadow-blue-900/30 flex items-center gap-1.5 transition-all"
@@ -1359,11 +1599,11 @@ export function SkillAssessmentApp() {
             </div>
 
             {/* Question Palette Drawer / Grid */}
-            <div className="lg:col-span-4 bg-[#0d1527]/95 border border-white/10 rounded-3xl p-6 shadow-xl space-y-5">
+            <div className="lg:col-span-4 bg-[#091122]/95 border border-white/10 rounded-3xl p-6 shadow-xl space-y-5">
               
               <div className="flex items-center justify-between pb-3 border-b border-white/10">
                 <h4 className="text-xs font-bold uppercase tracking-wider text-slate-300">
-                  Question Palette ({activeDomain.totalQuestions})
+                  Question Palette ({activeSpecialization.totalQuestions})
                 </h4>
                 <span className="text-[11px] text-slate-400">Click to jump</span>
               </div>
@@ -1388,9 +1628,9 @@ export function SkillAssessmentApp() {
                 </div>
               </div>
 
-              {/* 30-Question Grid */}
-              <div className="grid grid-cols-5 sm:grid-cols-6 gap-2 pt-2">
-                {activeDomain.questions.map((q, idx) => {
+              {/* 20-Question Grid */}
+              <div className="grid grid-cols-5 gap-2 pt-2">
+                {activeSpecialization.questions.map((q, idx) => {
                   const state = answers[q.id];
                   const isCurrent = idx === activeQuestionIndex;
                   const isAnswered = state?.selectedOption !== null && state?.selectedOption !== undefined;
@@ -1404,7 +1644,7 @@ export function SkillAssessmentApp() {
                   }
 
                   if (isCurrent) {
-                    btnColor = "bg-blue-600 text-white font-black ring-2 ring-blue-400 ring-offset-2 ring-offset-[#0d1527]";
+                    btnColor = "bg-blue-600 text-white font-black ring-2 ring-blue-400 ring-offset-2 ring-offset-[#091122]";
                   }
 
                   return (
@@ -1436,7 +1676,7 @@ export function SkillAssessmentApp() {
                 <div className="flex justify-between text-slate-400">
                   <span>Remaining:</span>
                   <span className="font-bold text-slate-300">
-                    {activeDomain.totalQuestions - Object.values(answers).filter(a => a.selectedOption !== null).length}
+                    {activeSpecialization.totalQuestions - Object.values(answers).filter(a => a.selectedOption !== null).length}
                   </span>
                 </div>
               </div>
@@ -1447,22 +1687,22 @@ export function SkillAssessmentApp() {
           {/* Submit Confirmation Modal */}
           {showSubmitModal && (
             <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-4">
-              <div className="bg-[#0e1628] border border-white/15 rounded-3xl p-6 sm:p-8 max-w-md w-full shadow-2xl space-y-5 animate-in fade-in zoom-in-95 duration-200">
+              <div className="bg-[#0a1224] border border-white/15 rounded-3xl p-6 sm:p-8 max-w-md w-full shadow-2xl space-y-5 animate-in fade-in zoom-in-95 duration-200">
                 <div className="text-center space-y-2">
                   <div className="w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center mx-auto">
                     <HelpCircle className="w-6 h-6" />
                   </div>
                   <h4 className="text-xl font-bold text-white">Ready to Finalize Your Exam?</h4>
                   <p className="text-xs text-slate-400">
-                    Once submitted, your answers will be evaluated with strict negative marking applied (-0.5 per wrong answer).
+                    Once submitted, your responses will be graded with negative marking applied (-0.33 per wrong answer).
                   </p>
                 </div>
 
                 {/* Status Tally in Modal */}
-                <div className="bg-[#080d19] border border-white/10 rounded-2xl p-4 space-y-2 text-xs">
+                <div className="bg-[#050914] border border-white/10 rounded-2xl p-4 space-y-2 text-xs">
                   <div className="flex justify-between">
                     <span className="text-slate-400">Total Questions:</span>
-                    <span className="font-bold text-white">{activeDomain.totalQuestions}</span>
+                    <span className="font-bold text-white">{activeSpecialization.totalQuestions}</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-slate-400">Answered:</span>
@@ -1473,7 +1713,7 @@ export function SkillAssessmentApp() {
                   <div className="flex justify-between">
                     <span className="text-slate-400">Unanswered (0 penalty):</span>
                     <span className="font-bold text-slate-300">
-                      {activeDomain.totalQuestions - Object.values(answers).filter(a => a.selectedOption !== null).length}
+                      {activeSpecialization.totalQuestions - Object.values(answers).filter(a => a.selectedOption !== null).length}
                     </span>
                   </div>
                   <div className="flex justify-between">
@@ -1513,8 +1753,8 @@ export function SkillAssessmentApp() {
           {/* Result Banner Card */}
           <div className={`rounded-3xl p-6 sm:p-10 border shadow-2xl backdrop-blur-xl mb-10 text-center ${
             examMetrics.hasPassed
-              ? 'bg-gradient-to-b from-[#0f241a] via-[#0b1717] to-[#070b14] border-emerald-500/40'
-              : 'bg-gradient-to-b from-[#251016] via-[#1a0c12] to-[#070b14] border-rose-500/30'
+              ? 'bg-gradient-to-b from-[#0f241a] via-[#0b1717] to-[#050811] border-emerald-500/40'
+              : 'bg-gradient-to-b from-[#251016] via-[#1a0c12] to-[#050811] border-rose-500/30'
           }`}>
             
             {/* Status Icon */}
@@ -1541,20 +1781,20 @@ export function SkillAssessmentApp() {
             
             <p className="text-slate-300 text-xs sm:text-base mt-2 max-w-2xl mx-auto">
               {examMetrics.hasPassed ? (
-                <span>You have successfully cleared the <strong>{activeDomain.name}</strong> assessment with accredited honors. Your verified certificate has been generated below.</span>
+                <span>You have successfully cleared the <strong>{activeSpecialization.name}</strong> assessment with executive honors. Your official verified certificate has been generated below.</span>
               ) : (
-                <span>You scored <strong>{examMetrics.netScore} / 30 marks ({examMetrics.percentage}%)</strong>. A minimum of <strong>18.0 marks (60%)</strong> is required to earn the verified certificate. Don't worry—review the answer key below, sharpen your skills, and try again!</span>
+                <span>You scored <strong>{examMetrics.netScore} / 20 marks ({examMetrics.percentage}%)</strong>. A minimum of <strong>12.0 marks (60%)</strong> is required to earn the certified credential. Don't worry—review the detailed answer key below, sharpen your fundamentals, and try again!</span>
               )}
             </p>
 
             {/* Scorecard Metric Tiles */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 mt-8 max-w-3xl mx-auto text-left">
               <div className="bg-[#090f1e]/80 border border-white/10 rounded-2xl p-4">
-                <div className="text-xs text-slate-400 font-medium">Net Raw Score</div>
+                <div className="text-xs text-slate-400 font-medium">Net Score</div>
                 <div className="text-2xl font-black text-white mt-1">
-                  {examMetrics.netScore} <span className="text-xs text-slate-400 font-normal">/ 30</span>
+                  {examMetrics.netScore} <span className="text-xs text-slate-400 font-normal">/ 20</span>
                 </div>
-                <div className="text-[10px] text-slate-400 mt-0.5">Passing: 18.0+</div>
+                <div className="text-[10px] text-slate-400 mt-0.5">Passing: 12.0+</div>
               </div>
 
               <div className="bg-[#090f1e]/80 border border-white/10 rounded-2xl p-4">
@@ -1562,7 +1802,7 @@ export function SkillAssessmentApp() {
                 <div className={`text-2xl font-black mt-1 ${examMetrics.hasPassed ? 'text-emerald-400' : 'text-rose-400'}`}>
                   {examMetrics.percentage}%
                 </div>
-                <div className="text-[10px] text-slate-400 mt-0.5">Threshold: 60%</div>
+                <div className="text-[10px] text-slate-400 mt-0.5">Benchmark: 60%</div>
               </div>
 
               <div className="bg-[#090f1e]/80 border border-white/10 rounded-2xl p-4">
@@ -1574,11 +1814,11 @@ export function SkillAssessmentApp() {
               </div>
 
               <div className="bg-[#090f1e]/80 border border-white/10 rounded-2xl p-4">
-                <div className="text-xs text-slate-400 font-medium">Incorrect (-0.5)</div>
+                <div className="text-xs text-slate-400 font-medium">Incorrect (-0.33)</div>
                 <div className="text-2xl font-black text-rose-400 mt-1">
                   -{examMetrics.penaltyMarks}
                 </div>
-                <div className="text-[10px] text-slate-400 mt-0.5">{examMetrics.incorrectCount} mistakes</div>
+                <div className="text-[10px] text-slate-400 mt-0.5">{examMetrics.incorrectCount} penalties</div>
               </div>
             </div>
 
@@ -1590,13 +1830,13 @@ export function SkillAssessmentApp() {
                   className="px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs sm:text-sm shadow-xl shadow-blue-900/40 flex items-center gap-2 transition-all"
                 >
                   <RotateCcw className="w-4 h-4" />
-                  <span>Re-Attempt {activeDomain.shortTitle} Exam</span>
+                  <span>Re-Attempt {activeSpecialization.shortTitle} Exam</span>
                 </button>
                 <button
                   onClick={() => setCurrentStep("hub")}
                   className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/15 text-white font-bold text-xs sm:text-sm transition-all"
                 >
-                  Explore Other Skill Tracks
+                  Explore Other Specialization Tracks
                 </button>
               </div>
             )}
@@ -1609,7 +1849,7 @@ export function SkillAssessmentApp() {
             <div className="space-y-6 mb-16">
               
               {/* Certificate Actions Bar */}
-              <div className="flex flex-col sm:flex-row items-center justify-between gap-4 bg-[#0d1527] border border-white/10 rounded-2xl p-4">
+              <div className="flex flex-col sm:flex-row items-center justify-between gap-4 bg-[#091122] border border-white/10 rounded-2xl p-4">
                 <div className="flex items-center gap-2 text-xs text-slate-300">
                   <ShieldCheck className="w-4 h-4 text-emerald-400" />
                   <span>Certificate ID: <strong className="font-mono text-white">{certificateId}</strong></span>
@@ -1659,10 +1899,12 @@ export function SkillAssessmentApp() {
               <div className="overflow-x-auto pb-4">
                 <CertificateFrame
                   candidateName={candidate.fullName}
-                  domainName={activeDomain.name}
+                  collegeName={candidate.collegeName}
+                  specializationName={activeSpecialization.name}
+                  certificateTitle={activeSpecialization.certificateTitle}
                   percentage={examMetrics.percentage}
                   netScore={examMetrics.netScore}
-                  dateStr={examFinishedAt ? examFinishedAt.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : 'September 10, 2026'}
+                  dateStr={examFinishedAt ? examFinishedAt.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : 'Academic Session 2026–2027'}
                   certId={certificateId}
                   isSample={false}
                   containerRef={certificateRef}
@@ -1675,7 +1917,7 @@ export function SkillAssessmentApp() {
           {/* ========================================================================= */}
           {/* COMPREHENSIVE ANSWER KEY & EXPLANATIONS ACCORDION */}
           {/* ========================================================================= */}
-          <div className="bg-[#0d1527] border border-white/10 rounded-3xl p-6 sm:p-8 shadow-xl mb-16">
+          <div className="bg-[#091122] border border-white/10 rounded-3xl p-6 sm:p-8 shadow-xl mb-16">
             
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-white/10">
               <div>
@@ -1684,7 +1926,7 @@ export function SkillAssessmentApp() {
                   <span>Review Answers &amp; Detailed Explanations</span>
                 </h3>
                 <p className="text-xs text-slate-400 mt-1">
-                  Inspect each of the 30 questions, see where marks were gained or lost, and understand the technical theory.
+                  Inspect each of the 20 case questions, review where marks were scored or penalized, and master the core theory.
                 </p>
               </div>
 
@@ -1692,13 +1934,13 @@ export function SkillAssessmentApp() {
                 onClick={() => setShowReviewAccordion(!showReviewAccordion)}
                 className="px-4 py-2 rounded-xl bg-white/5 hover:bg-white/10 text-slate-300 font-bold text-xs transition-colors border border-white/10 shrink-0"
               >
-                {showReviewAccordion ? "Hide Explanations" : "Inspect All 30 Questions"}
+                {showReviewAccordion ? "Hide Explanations" : "Inspect All 20 Questions"}
               </button>
             </div>
 
             {showReviewAccordion && (
               <div className="mt-6 space-y-6 animate-in fade-in duration-300">
-                {activeDomain.questions.map((q, idx) => {
+                {activeSpecialization.questions.map((q, idx) => {
                   const state = answers[q.id];
                   const userChoice = state?.selectedOption;
                   const isCorrect = userChoice === q.correctAnswer;
@@ -1729,7 +1971,7 @@ export function SkillAssessmentApp() {
                             </span>
                           ) : (
                             <span className="text-[10px] font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30 px-2 py-0.5 rounded-full flex items-center gap-1">
-                              <XCircle className="w-3 h-3" /> Incorrect (-0.5)
+                              <XCircle className="w-3 h-3" /> Incorrect (-0.33)
                             </span>
                           )}
                         </div>
@@ -1788,7 +2030,7 @@ export function SkillAssessmentApp() {
               }}
               className="px-8 py-3.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white font-bold text-sm shadow-xl shadow-blue-900/40 transition-all inline-flex items-center gap-2"
             >
-              <span>Explore &amp; Attempt Another Skill Certification</span>
+              <span>Explore &amp; Attempt Another MBA Specialization Certification</span>
               <ArrowRight className="w-4 h-4" />
             </button>
           </div>
@@ -1801,20 +2043,20 @@ export function SkillAssessmentApp() {
       {/* ========================================================================= */}
       {showSampleCertificateModal && (
         <div className="fixed inset-0 z-50 bg-black/85 backdrop-blur-md flex items-center justify-center p-3 sm:p-6 overflow-y-auto">
-          <div className="bg-[#0b1222] border border-amber-500/30 rounded-3xl max-w-5xl w-full shadow-2xl p-5 sm:p-8 space-y-6 animate-in fade-in zoom-in-95 duration-200 my-auto">
+          <div className="bg-[#080f20] border border-amber-500/30 rounded-3xl max-w-5xl w-full shadow-2xl p-5 sm:p-8 space-y-6 animate-in fade-in zoom-in-95 duration-200 my-auto">
             
             {/* Modal Top Bar */}
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-white/10">
               <div className="space-y-1">
                 <div className="inline-flex items-center gap-2 px-3 py-0.5 rounded-full bg-amber-500/10 border border-amber-400/30 text-amber-300 text-xs font-bold uppercase tracking-wider">
                   <Award className="w-3.5 h-3.5 text-amber-400" />
-                  <span>Sample Certificate Specimen</span>
+                  <span>Official Credential Specimen</span>
                 </div>
                 <h3 className="text-xl sm:text-2xl font-black text-white">
-                  Official Credential Preview
+                  MBA Specialization Certificate Preview
                 </h3>
                 <p className="text-xs text-slate-400">
-                  This specimen demonstrates the design, branding, and verification elements awarded upon clearing the exam with 60%+ net score.
+                  Preview how your name, MBA college, and specialization title will appear on the final verifiable digital certificate.
                 </p>
               </div>
 
@@ -1827,43 +2069,56 @@ export function SkillAssessmentApp() {
               </button>
             </div>
 
-            {/* Customization Bar: Select Domain + Enter Name */}
-            <div className="bg-[#070d1a] border border-white/10 rounded-2xl p-4 space-y-3">
-              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-                <span className="text-xs font-bold uppercase tracking-wider text-slate-300">
-                  Preview For Skill Track:
-                </span>
-
+            {/* Customization Bar: Select Specialization + Enter Name + College */}
+            <div className="bg-[#050914] border border-white/10 rounded-2xl p-4 space-y-3">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {/* Candidate Name Live Customizer */}
-                <div className="flex items-center gap-2 w-full sm:w-auto">
-                  <span className="text-xs text-slate-400 shrink-0">Preview Name:</span>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs text-slate-400 shrink-0 w-24">Candidate Name:</span>
                   <input
                     type="text"
                     value={sampleCandidateName}
                     onChange={(e) => setSampleCandidateName(e.target.value)}
                     placeholder="Enter candidate name..."
-                    className="bg-white/5 border border-white/15 focus:border-amber-400 rounded-lg px-3 py-1.5 text-xs text-white focus:outline-none w-full sm:w-48"
+                    className="bg-white/5 border border-white/15 focus:border-amber-400 rounded-lg px-3 py-1.5 text-xs text-white focus:outline-none w-full"
+                  />
+                </div>
+
+                {/* College Name Live Customizer */}
+                <div className="flex items-center gap-2">
+                  <span className="text-xs text-slate-400 shrink-0 w-24">College / Univ:</span>
+                  <input
+                    type="text"
+                    value={sampleCollegeName}
+                    onChange={(e) => setSampleCollegeName(e.target.value)}
+                    placeholder="e.g. IIM Ahmedabad / XLRI..."
+                    className="bg-white/5 border border-white/15 focus:border-amber-400 rounded-lg px-3 py-1.5 text-xs text-white focus:outline-none w-full"
                   />
                 </div>
               </div>
 
-              {/* Skill Switcher Pills */}
-              <div className="flex flex-wrap gap-1.5">
-                {SKILL_DOMAINS.map((d) => (
-                  <button
-                    key={d.id}
-                    type="button"
-                    onClick={() => setSampleDomainId(d.id)}
-                    className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-all flex items-center gap-1.5 ${
-                      sampleDomainId === d.id
-                        ? 'bg-amber-500/20 border border-amber-400 text-amber-200 font-bold shadow-sm shadow-amber-950/40'
-                        : 'bg-white/5 border border-white/10 text-slate-400 hover:text-white'
-                    }`}
-                  >
-                    <span className="scale-75">{DOMAIN_ICONS[d.id]}</span>
-                    <span>{d.shortTitle}</span>
-                  </button>
-                ))}
+              {/* Specialization Switcher Pills */}
+              <div className="pt-2">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400 block mb-2">
+                  Select Specialization:
+                </span>
+                <div className="flex flex-wrap gap-1.5">
+                  {MBA_SPECIALIZATIONS.map((d) => (
+                    <button
+                      key={d.id}
+                      type="button"
+                      onClick={() => setSampleSpecId(d.id)}
+                      className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-all flex items-center gap-1.5 ${
+                        sampleSpecId === d.id
+                          ? 'bg-amber-500/20 border border-amber-400 text-amber-200 font-bold shadow-sm shadow-amber-950/40'
+                          : 'bg-white/5 border border-white/10 text-slate-400 hover:text-white'
+                      }`}
+                    >
+                      <span className="scale-75">{SPECIALIZATION_ICONS[d.id]}</span>
+                      <span>{d.shortTitle}</span>
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
 
@@ -1871,11 +2126,13 @@ export function SkillAssessmentApp() {
             <div className="overflow-x-auto pb-2">
               <CertificateFrame
                 candidateName={sampleCandidateName}
-                domainName={sampleDomain.name}
-                percentage={93.3}
-                netScore="28.0"
-                dateStr="September 10, 2026"
-                certId={`CWM-CERT-2026-${sampleDomain.id.slice(0, 3).toUpperCase()}-SPECIMEN`}
+                collegeName={sampleCollegeName}
+                specializationName={sampleSpecialization.name}
+                certificateTitle={sampleSpecialization.certificateTitle}
+                percentage={92.5}
+                netScore="18.5"
+                dateStr="Academic Session 2026–2027"
+                certId={`CWM-MBA-2027-${sampleSpecialization.id.slice(0, 3).toUpperCase()}-SPECIMEN`}
                 isSample={true}
               />
             </div>
@@ -1883,7 +2140,7 @@ export function SkillAssessmentApp() {
             {/* Modal Bottom Actions */}
             <div className="pt-2 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-3">
               <span className="text-xs text-slate-400">
-                Passing criteria: Net score &gt;= 18.0 / 30 marks (60%) with -0.5 negative penalty.
+                Passing criteria: Net score &gt;= 12.0 / 20 marks (60%) with -0.33 negative penalty.
               </span>
 
               <div className="flex items-center gap-3 w-full sm:w-auto justify-end">
@@ -1898,12 +2155,12 @@ export function SkillAssessmentApp() {
                   type="button"
                   onClick={() => {
                     setShowSampleCertificateModal(false);
-                    handleSelectSkill(sampleDomainId);
+                    handleSelectSpecialization(sampleSpecId);
                   }}
                   className="px-6 py-2.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white font-bold text-xs shadow-lg shadow-blue-900/40 flex items-center gap-1.5 transition-all"
                 >
                   <Zap className="w-3.5 h-3.5 text-amber-300" />
-                  <span>Attempt {sampleDomain.shortTitle} Quiz Now</span>
+                  <span>Attempt {sampleSpecialization.shortTitle} Exam Now</span>
                   <ArrowRight className="w-3.5 h-3.5" />
                 </button>
               </div>
