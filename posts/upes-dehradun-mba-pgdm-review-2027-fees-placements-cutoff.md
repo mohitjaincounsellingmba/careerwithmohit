@@ -145,3 +145,11 @@ Yes. UPES Dehradun (School of Business) evaluates candidates on overall profile 
 
 ### Q4: How do I avail form fee discounts for 2027 intake?
 You can apply via the [CareerWithMohit MBA Portal](/mba-pgdm-admission-2027/) to avail official institutional fee waivers and free counseling mentorship.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

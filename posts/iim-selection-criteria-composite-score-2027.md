@@ -71,3 +71,11 @@ faqs:
 Aspirants with Class 10 or 12 marks below 75% lose up to 15 composite score points before writing CAT. If your past academic profile is below 8/8/7:
 1. **Target Score-Centric B-Schools**: FMS Delhi (50% CAT + 10% 10th + 10% 12th), XLRI Jamshedpur (XAT based), and MDI Gurgaon.
 2. **Explore Early Direct Programs**: Evaluate verified [MBA and PGDM Direct Admission Programs](/mba-pgdm-admission-2027) where past academic filters are balanced with personal interviews.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

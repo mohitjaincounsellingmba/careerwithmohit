@@ -74,3 +74,11 @@ To prevent admit card cancellation, ensure uploaded files strictly meet these te
 ## Need Personalized Admission Guidance?
 
 If you are evaluating backup B-school options while preparing for CAT, explore verified [MBA and PGDM Direct Admission Colleges (2027–2029)](/mba-pgdm-admission-2027) or book a free counselling call with Mohit Jain.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
