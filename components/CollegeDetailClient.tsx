@@ -35,6 +35,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { College, CollegeMetadata } from "@/lib/colleges";
+import { getCollegeCampusImage } from "@/lib/collegeImages";
 import { JsonLd } from "./JsonLd";
 import { Breadcrumbs } from "./Breadcrumbs";
 import { ReviewSection } from "./ReviewSection";
@@ -385,30 +386,65 @@ export function CollegeDetailClient({ college, similarColleges = [] }: { college
 
       {/* Hero Header */}
       <div className="bg-white border-b border-slate-100">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row gap-8 items-start md:items-center pb-12 pt-8">
-            <div className="w-28 h-28 bg-gradient-to-br from-blue-50 to-slate-100 rounded-[2rem] shadow-inner border border-slate-100 flex items-center justify-center p-6 flex-shrink-0">
-              <GraduationCap className="w-full h-full text-blue-600" aria-label={`${college.name} Logo`} />
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-4">
+          
+          {/* Panoramic Campus Hero Banner */}
+          <div className="relative w-full h-48 sm:h-64 md:h-80 rounded-3xl overflow-hidden shadow-lg mb-8 bg-slate-900">
+            <img 
+              src={getCollegeCampusImage(college)} 
+              alt={`${college.name} campus architecture and grounds`}
+              className="w-full h-full object-cover"
+              loading="eager"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#061124]/90 via-[#061124]/30 to-transparent pointer-events-none" />
+            
+            <div className="absolute top-4 left-4 right-4 flex items-center justify-between gap-2 z-10">
+              <span className="bg-[#F59E0B] text-slate-950 font-mono font-extrabold text-xs sm:text-sm px-3.5 py-1.5 rounded-full shadow-md flex items-center gap-1.5 tracking-wider">
+                <Award className="w-4 h-4 text-slate-950" />
+                {college.ranking}
+              </span>
+              <span className="bg-black/60 backdrop-blur-md border border-white/20 text-white font-mono font-bold text-xs sm:text-sm px-3.5 py-1.5 rounded-full shadow-md flex items-center gap-1.5">
+                <MapPin className="w-4 h-4 text-amber-300" />
+                {college.location}
+              </span>
+            </div>
+
+            <div className="absolute bottom-4 left-4 right-4 flex items-center justify-between gap-2 z-10">
+              <span className="bg-white/95 backdrop-blur-md text-slate-900 font-mono text-xs font-black px-3.5 py-1 rounded-full uppercase tracking-wider shadow-sm">
+                {college.category} • {college.ownership} {college.type}
+              </span>
+              <span className="bg-emerald-500 text-white font-mono text-xs font-bold px-3 py-1 rounded-full shadow-sm flex items-center gap-1">
+                <ShieldCheck className="w-3.5 h-3.5" />
+                Verified 2027
+              </span>
+            </div>
+          </div>
+
+          <div className="flex flex-col md:flex-row gap-8 items-start md:items-center pb-12">
+            <div className="w-20 h-20 sm:w-24 sm:h-24 bg-gradient-to-br from-blue-600 to-indigo-800 rounded-3xl shadow-lg border border-white flex items-center justify-center p-4 flex-shrink-0 text-white font-mono font-bold text-2xl tracking-wider">
+              {college.name
+                .split(" ")
+                .filter(w => !["of", "and", "the", "&", "in", "for"].includes(w.toLowerCase()))
+                .slice(0, 3)
+                .map(w => w[0])
+                .join("")
+                .toUpperCase() || "COL"}
             </div>
 
             <div className="flex-grow">
-              <div className="flex flex-wrap items-center gap-3 mb-4">
-                <span className="bg-blue-600 text-white text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-[0.2em]">
+              <div className="flex flex-wrap items-center gap-3 mb-3">
+                <span className="bg-blue-600 text-white text-[10px] font-black px-3.5 py-1 rounded-full uppercase tracking-[0.15em]">
                   {college.ownership} {college.type}
                 </span>
-                <span className="flex items-center bg-amber-50 text-amber-700 text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-[0.2em] border border-amber-100/50">
-                  <Award className="w-3.5 h-3.5 mr-2" />
+                <span className="flex items-center bg-amber-50 text-amber-800 text-[10px] font-black px-3.5 py-1 rounded-full uppercase tracking-[0.15em] border border-amber-200">
+                  <Award className="w-3.5 h-3.5 mr-1 text-amber-700" />
                   {college.ranking}
                 </span>
-                <span className="flex items-center bg-emerald-50 text-emerald-700 text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-[0.2em] border border-emerald-100/50">
-                  <ShieldCheck className="w-3.5 h-3.5 mr-2" />
-                  Verified 2027
-                </span>
               </div>
-              <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-4 leading-tight tracking-tighter italic">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-black text-slate-900 mb-3 leading-tight tracking-tight">
                 {college.name}
               </h1>
-              <div className="flex flex-wrap items-center gap-6 text-slate-500 font-bold text-sm">
+              <div className="flex flex-wrap items-center gap-6 text-slate-600 font-bold text-sm">
                 <span className="flex items-center gap-2"><MapPin className="w-4 h-4 text-blue-500" />{college.location}</span>
                 <span className="flex items-center gap-2"><Calendar className="w-4 h-4 text-emerald-500" />Est. {college.established}</span>
                 <span className="flex items-center gap-2"><BookOpen className="w-4 h-4 text-purple-500" />{college.category}</span>
