@@ -7,7 +7,6 @@ import { College4SureStreamGrid } from "@/components/College4SureStreamGrid";
 import { College4SureOffersBand } from "@/components/College4SureOffersBand";
 import { College4SureCollegeGrid } from "@/components/College4SureCollegeGrid";
 import { College4SureWhyGrid } from "@/components/College4SureWhyGrid";
-import { College4SureVideoShowcase } from "@/components/College4SureVideoShowcase";
 import { College4SureReviewsMarquee } from "@/components/College4SureReviewsMarquee";
 import { College4SureCtaBanner } from "@/components/College4SureCtaBanner";
 import { College4SureSeoLinks } from "@/components/College4SureSeoLinks";
@@ -149,10 +148,6 @@ export default function Home() {
         <ExamTrackerSection />
       </div>
 
-      {/* 10. Video Mentorship & Strategy Masterclasses ("In their words") */}
-      <div className="section-deferred">
-        <College4SureVideoShowcase />
-      </div>
 
       {/* 11. Verified Student Reviews Marquee / Wall of Admits ("After the call") */}
       <div className="section-deferred">
