@@ -56,10 +56,10 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
     tagline: 'Corporate & Political Capital · 500+ Fortune 500 Headquarters',
     heroTitle: 'Top MBA & PGDM Colleges in Delhi NCR (2027–2029): Fees, Placements & Admission',
     heroSubtitle:
-      'Compare top AICTE & AIU approved PGDM and MBA institutes across Delhi, Noida, Greater Noida, Gurugram, and Ghaziabad for the 2027–2029 batch. Access verified placement metrics, CAT/XAT/CMAT cutoffs, and get 1-on-1 admission counselling with Mohit Jain.',
-    metaTitle: 'Top MBA Colleges in Delhi NCR (2027–2029): Fees, Cutoffs, Placements | CareerWithMohit',
+      'Compare 120+ top AICTE & AIU approved PGDM and MBA institutes across Delhi, Noida, Greater Noida, Gurugram, and Ghaziabad for the 2027–2029 batch. Access verified placement reports, CAT/XAT/CMAT/MAT cutoffs, direct admission criteria, and get 1-on-1 expert counselling with Mohit Jain.',
+    metaTitle: 'Top MBA Colleges in Delhi NCR (2027–2029): Fees, Cutoffs, Placements & Direct Admission | CareerWithMohit',
     metaDescription:
-      'Explore premier MBA & PGDM colleges in Delhi NCR (Delhi, Noida, Gurgaon, Greater Noida) for 2027–2029 batch. Compare fees, placement reports (NDIM, FIIB, BIMTECH, JIMS, FORE, MDI), cutoffs, and get free expert counselling.',
+      'Explore top MBA & PGDM colleges in Delhi NCR (Delhi, Noida, Gurgaon, Greater Noida) for 2027–2029 batch. Compare verified fees, real median placement packages (NDIM, FIIB, BIMTECH, JIMS, FORE, MDI, FOSTIIMA), cutoffs, and get free expert counselling.',
     keywords: [
       'top MBA colleges in Delhi NCR 2027',
       'best PGDM colleges in Delhi NCR',
@@ -70,7 +70,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
       'low fees high placement MBA Delhi NCR',
       'direct MBA admission in Delhi NCR 2027',
       'AICTE approved PGDM Delhi NCR',
-      'MBA colleges in Ghaziabad'
+      'MBA colleges in Ghaziabad',
+      'MBA colleges accepting MAT in Delhi NCR',
+      'MBA admission without CAT Delhi NCR 2027',
+      'NDIM Delhi MBA fees and placements',
+      'best MBA colleges in Delhi with fees under 10 lakhs',
+      'MBA admission counselling Delhi NCR'
     ],
     geoCoordinates: {
       latitude: '28.6139',
@@ -82,8 +87,8 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
       totalColleges: '120+ B-Schools',
       avgPlacement: '₹8.50 - ₹18.00 LPA',
       highestPlacement: '₹32.00 - ₹50.00 LPA',
-      feeRange: '₹7.50L - ₹24.00L',
-      topExams: ['CAT', 'XAT', 'CMAT', 'MAT', 'NMAT', 'CUET-PG']
+      feeRange: '₹7.50L - ₹24.50L',
+      topExams: ['CAT', 'XAT', 'CMAT', 'MAT', 'NMAT', 'CUET-PG', 'GMAT']
     },
     cutoffsTable: [
       {
@@ -95,6 +100,14 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
         slug: 'mdi-gurgaon'
       },
       {
+        collegeName: 'International Management Institute (IMI) New Delhi',
+        exam: 'CAT / XAT / GMAT',
+        cutoff: '88 - 90 %ile',
+        fee: '₹21.50 Lakhs',
+        avgPlacement: '₹17.01 LPA',
+        slug: 'imi-delhi'
+      },
+      {
         collegeName: 'FORE School of Management, New Delhi',
         exam: 'CAT / XAT / GMAT',
         cutoff: '85 - 88 %ile',
@@ -103,12 +116,28 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
         slug: 'fore-school-delhi'
       },
       {
+        collegeName: 'Lal Bahadur Shastri Institute of Management (LBSIM) Delhi',
+        exam: 'CAT / XAT / GMAT',
+        cutoff: '82 - 85 %ile',
+        fee: '₹16.50 Lakhs',
+        avgPlacement: '₹12.40 LPA',
+        slug: 'lbsim-delhi'
+      },
+      {
         collegeName: 'Birla Institute of Management Technology (BIMTECH)',
         exam: 'CAT / XAT / CMAT',
         cutoff: '75 - 80 %ile',
         fee: '₹14.00 Lakhs',
         avgPlacement: '₹11.25 LPA',
         slug: 'bimtech-greater-noida'
+      },
+      {
+        collegeName: 'Jaipuria Institute of Management, Noida',
+        exam: 'CAT / CMAT / XAT / MAT',
+        cutoff: '70 - 75 %ile',
+        fee: '₹14.75 Lakhs',
+        avgPlacement: '₹11.20 LPA',
+        slug: 'jaipuria-noida'
       },
       {
         collegeName: 'New Delhi Institute of Management (NDIM)',
@@ -135,12 +164,12 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
         slug: 'jims-kalkaji'
       },
       {
-        collegeName: 'Jaipuria Institute of Management, Noida',
-        exam: 'CAT / CMAT / XAT / MAT',
-        cutoff: '70 - 75 %ile',
-        fee: '₹14.75 Lakhs',
-        avgPlacement: '₹11.20 LPA',
-        slug: 'jaipuria-noida'
+        collegeName: 'FOSTIIMA Business School, Delhi',
+        exam: 'CAT / MAT / CMAT / XAT',
+        cutoff: '60 - 70 %ile',
+        fee: '₹9.50 Lakhs',
+        avgPlacement: '₹9.00 LPA',
+        slug: 'fostiima-business-school'
       },
       {
         collegeName: 'GL Bajaj Institute of Management, Greater Noida',
@@ -149,45 +178,76 @@ export const GEO_MBA_HUBS: Record<string, GeoMbaHub> = {
         fee: '₹7.50 Lakhs',
         avgPlacement: '₹7.50 LPA',
         slug: 'gl-bajaj-greater-noida'
+      },
+      {
+        collegeName: 'IMS Ghaziabad',
+        exam: 'CAT / MAT / CMAT / ATMA',
+        cutoff: '65 - 75 %ile',
+        fee: '₹9.50 Lakhs',
+        avgPlacement: '₹8.25 LPA',
+        slug: 'ims-ghaziabad'
+      },
+      {
+        collegeName: 'Accurate Institute of Management, Greater Noida',
+        exam: 'CAT / MAT / CMAT / Direct',
+        cutoff: '55 - 65 %ile',
+        fee: '₹6.50 Lakhs',
+        avgPlacement: '₹6.80 LPA',
+        slug: 'accurate-institute-greater-noida'
       }
     ],
     roiHighlights: [
       {
-        title: 'Massive Corporate Density & Head Offices',
+        title: 'Massive Corporate Density & Fortune 500 HQs',
         description:
-          'Delhi NCR is home to over 500 global MNC headquarters in Cyber City Gurgaon, Noida Expressways, and Central Delhi, offering unparalleled winter and summer internship opportunities.'
+          'Delhi NCR is home to over 500 global MNC headquarters in Cyber City Gurgaon, Noida Expressways, and Central Delhi, offering unparalleled live projects, winter internships, and pre-placement offers (PPOs).'
       },
       {
-        title: 'Dual Specializations & Future-Ready Tracks',
+        title: 'Industry-Integrated Dual Specializations',
         description:
-          'Premier Delhi NCR B-Schools offer dynamic dual-specializations combining FinTech, Business Analytics, Digital Marketing, and Supply Chain with traditional majors.'
+          'Premier Delhi NCR B-Schools offer dynamic dual-specializations combining FinTech, Business Analytics, AI Strategy, and Digital Marketing with traditional majors (Marketing, Finance, HR, Operations).'
       },
       {
-        title: 'Rapid ROI & High Average Stipends',
+        title: 'Rapid ROI & 14–22 Month Payback Period',
         description:
-          'With living expenses moderated across Noida and Greater Noida metro corridors, students achieve average payback periods within 14 to 22 months post graduation.'
+          'With living expenses moderated across metro-connected Noida and Greater Noida corridors, students achieve average payback periods within 14 to 22 months post graduation.'
       }
     ],
     faqs: [
       {
         question: 'Which are the best MBA/PGDM colleges in Delhi NCR with fees under 12 Lakhs?',
         answer:
-          'Top options with fees under ₹12 Lakhs and solid placement track records include New Delhi Institute of Management (NDIM), JIMS (Kalkaji/Rohini), GL Bajaj (Greater Noida), Accurate Institute, and FOSTIIMA Business School. These colleges deliver average placement packages between ₹7.5 LPA to ₹10.5 LPA.'
+          'Top options with total fees under ₹12 Lakhs and solid placement track records include New Delhi Institute of Management (NDIM), JIMS (Kalkaji/Rohini), GL Bajaj (Greater Noida), FOSTIIMA Business School, Accurate Institute, and IMS Ghaziabad. These institutions deliver verified average placement packages between ₹7.5 LPA to ₹10.5 LPA.'
       },
       {
         question: 'What entrance exams are accepted by private PGDM colleges in Delhi NCR?',
         answer:
-          'Most AICTE-approved PGDM colleges in Delhi NCR accept CAT, XAT, CMAT, MAT, ATMA, and CUET-PG scores. Elite colleges like MDI and FORE prioritize CAT/XAT, while institutions like NDIM, FIIB, JIMS, and Jaipuria also accept high MAT and CMAT percentiles.'
-      },
-      {
-        question: 'Is PGDM better than MBA in Delhi NCR?',
-        answer:
-          'Yes, in Delhi NCR, AICTE-approved PGDM colleges frequently update their syllabus in consultation with corporate industry boards, incorporating AI tools, Bloomberg terminals, and live business analytics, giving PGDM graduates a competitive edge in campus recruitments over university-affiliated theoretical MBAs.'
+          'Most AICTE-approved PGDM colleges in Delhi NCR accept CAT, XAT, CMAT, MAT, ATMA, GMAT, and CUET-PG scores. Elite colleges like MDI, IMI, and FORE prioritize CAT/XAT/GMAT, while institutions like NDIM, FIIB, JIMS, Jaipuria, and GL Bajaj also accept high MAT and CMAT percentiles.'
       },
       {
         question: 'Can I get direct admission in MBA colleges in Delhi NCR without CAT?',
         answer:
-          'Yes. Many reputed private business schools accept valid CMAT, MAT, ATMA, or their own aptitude assessments followed by GD-PI rounds. Mohit Jain provides 1-on-1 profile evaluations to help candidates secure direct merit seats.'
+          'Yes. Many reputed private business schools accept valid CMAT, MAT, ATMA, or their own aptitude assessments followed by GD-PI rounds. For candidates with mid-range or missing CAT percentiles, Mohit Jain provides 1-on-1 profile evaluations to help secure direct merit and institutional quota seats.'
+      },
+      {
+        question: 'Is PGDM better than MBA in Delhi NCR for corporate placements?',
+        answer:
+          'Yes, in Delhi NCR, autonomous AICTE-approved PGDM colleges frequently update their curriculum with industry corporate boards, embedding AI tools, Bloomberg terminals, live case studies, and Python/PowerBI analytics. This practical focus gives PGDM graduates a tangible hiring advantage in campus placements over traditional university-affiliated MBAs.'
+      },
+      {
+        question: 'What is the average and highest placement package in top Delhi NCR B-schools?',
+        answer:
+          'In Delhi NCR, Tier-1 colleges (MDI, FMS, IIFT) achieve average packages between ₹26.00 LPA to ₹34.00 LPA with highest packages exceeding ₹50 LPA to ₹1.2 Cr. Tier-2 and Tier-3 private PGDM colleges (FORE, BIMTECH, NDIM, FIIB, JIMS, Jaipuria) deliver average packages between ₹8.50 LPA to ₹16.00 LPA with highest domestic CTCs reaching ₹22.00 to ₹35.00 LPA.'
+      },
+      {
+        question: 'What are the top MBA colleges in Noida and Greater Noida for 2027 admissions?',
+        answer:
+          'Top institutions in Noida and Greater Noida include BIMTECH Greater Noida, Jaipuria Institute of Management Noida, Amity University Noida, GL Bajaj Institute of Management Greater Noida, Bennett University, and Accurate Institute. These colleges offer modern high-tech campuses and strong recruiters from IT, BFSI, and FMCG sectors.'
+      },
+      {
+        question: 'How does Mohit Jain assist with GD-PI preparation and college shortlisting in Delhi NCR?',
+        answer:
+          'Mohit Jain (credentialed by IIM Bangalore and FMS Delhi) provides personalized 1-on-1 profile evaluations, Dream-Target-Safe college shortlist mapping, application form fee discounts (saving up to ₹5,000+), mock GD-PI interview prep, and direct merit admission assistance.'
       }
     ],
     locationKeywords: ['delhi', 'noida', 'greater noida', 'gurgaon', 'gurugram', 'ghaziabad', 'faridabad']
