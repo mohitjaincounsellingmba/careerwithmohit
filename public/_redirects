@@ -60,6 +60,14 @@
 # Specific 1-to-1 Content & College Migrations
 /robot.txt /robots.txt 301
 /robot.txt/ /robots.txt 301
+/posts/* /blog/:splat 301
+/posts/*/ /blog/:splat 301
+/learn-skills/* /tools/ 301
+/learn-skills/*/ /tools/ 301
+/brochures/* /inquiry/ 302
+/brochures/*/ /inquiry/ 302
+/tools/ai-skills/* /tools/ 301
+/tools/ai-skills/*/ /tools/ 301
 /best-mba-colleges-in-pune-2026 /blog/best-mba-colleges-in-pune-2026/ 301
 /best-mba-colleges-in-pune-2026/ /blog/best-mba-colleges-in-pune-2026/ 301
 /blog/bba-colleges-delhi-ncr-2026-cuet-ipu-fees-placements /blog/top-bba-colleges-delhi-ncr-2026/ 301
@@ -70,8 +78,6 @@
 /blog/why-asm-iibs-pune-good-for-mba-pgdm-2026/ /blog/why-asm-iibr-pune-good-for-mba-pgdm-2026/ 301
 /tools/ai-skills /tools/ 301
 /tools/ai-skills/ /tools/ 301
-/tools/ai-skills/* /tools/ 301
-/tools/ai-skills/*/ /tools/ 301
 /tools/mock-test/cat /tools/cat-mock-test/ 301
 /tools/mock-test/cat/ /tools/cat-mock-test/ 301
 /tools/mock-test/nmat /tools/nmat-mock-test/ 301
@@ -130,12 +136,6 @@
 /sell-your-coaching-online/ / 301
 /sell-your-coaching-online/* / 301
 /sell-your-coaching-online/*/ / 301
-/posts/* /blog/:splat 301
-/posts/*/ /blog/:splat 301
-/learn-skills/* /tools/ 301
-/learn-skills/*/ /tools/ 301
-/brochures/* /inquiry/ 302
-/brochures/*/ /inquiry/ 302
 /blog/nirma-university-ahmedabad-mba-review-2027-fees-placements-cutoff /blog/nirma-institute-of-management-mba-review-2027-fees-placements-cutoff/ 301
 /blog/nirma-university-ahmedabad-mba-review-2027-fees-placements-cutoff/ /blog/nirma-institute-of-management-mba-review-2027-fees-placements-cutoff/ 301
 /blog/all-about-amity-university-noida-bba-admission-2026 /blog/amity-university-noida-review-2026/ 301
