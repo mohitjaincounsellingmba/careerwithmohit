@@ -1,202 +1,176 @@
 ---
-title: 'IIM-Kashipur MBA Admission 2027: Fees, Cutoff & ROI'
-date: '2026-09-26'
-category: MBA
-description: >-
-  Verified 2027 MBA review for IIM Kashipur (Kashipur, Uttarakhand). Check
-  audited fees (₹18.50 Lakhs (Total)), average placement (₹18.11 LPA), entrance
-  cutoffs (92.0+ CAT %ile), and admission tips by Mohit Jain.
+title: 'IIM Kashipur MBA Review 2027: Fees, Cutoff & Placements'
+date: '2026-10-09'
+category: MBA Admissions
+description: 'Verified 2027 fees (₹17.5L), 200-acre campus, placements (₹18.1L avg), CAT cutoffs (92%+) & CAP admission guide for IIM Kashipur by Mohit Jain.'
 keywords:
-  - iim kashipur mba admission 2027
-  - iim kashipur fees structure 2027
+  - iim kashipur mba review 2027
+  - iim kashipur fee structure 2027
   - iim kashipur average placement package
-  - iim kashipur cutoff 2027–29 2027
-  - iim-kashipur review 2027
-  - top mba colleges in kashipur
-  - best mba colleges in uttarakhand
-  - direct admission in iim kashipur
+  - iim kashipur cat cutoff cap 2027
+  - iim kashipur selection criteria mba analytics
+  - top 2nd generation iims in north india
 faqs:
-  - question: What is the average placement package at IIM Kashipur in 2026-2027?
-    answer: >-
-      The verified average placement package at IIM Kashipur stands at ₹18.11
-      LPA, with the median package benchmark at ₹17.20 LPA and highest domestic
-      offers reaching ₹37.00 LPA.
-  - question: What entrance exams are accepted for 2027 admission at IIM Kashipur?
-    answer: >-
-      IIM Kashipur accepts valid scores from CAT (CAP) followed by institutional
-      profile evaluation and personal interview rounds (GD-PI / WAT).
-  - question: What is the total fee structure for the MBA/PGDM program at IIM Kashipur?
-    answer: >-
-      The total course tuition fee is approximately ₹18.50 Lakhs (Total) for the
-      2-year full-time curriculum, payable in semester-wise academic
-      installments.
-  - question: What is the expected entrance cutoff for IIM Kashipur?
-    answer: >-
-      The safe cutoff threshold for initial shortlisting is approximately 92.0+
-      CAT %ile. Profile diversity and corporate work experience may offer
-      relaxed considerations.
-location: Kashipur
-state: Uttarakhand
+  - question: 'What is the total fee structure for the MBA program at IIM Kashipur?'
+    answer: 'The total 2-year tuition and residential fee for the flagship MBA / MBA-Analytics programs at IIM Kashipur is approximately ₹17.50 Lakhs to ₹18.50 Lakhs, payable in term-wise installments. The fee covers academic tuition, single-occupancy hostel accommodation, and digital library databases.'
+  - question: 'What is the average and highest placement package at IIM Kashipur?'
+    answer: 'During recent campus placement seasons, IIM Kashipur recorded an overall average domestic package of ₹18.11 LPA, with a median compensation of ₹17.20 LPA and top 25% students securing an average CTC of ₹24.50 LPA (Highest CTC: ₹37.00 LPA).'
+  - question: 'What is the MBA in Analytics program offered by IIM Kashipur?'
+    answer: 'IIM Kashipur was one of the early premier IIMs to launch a specialized 2-year full-time MBA in Analytics, combining big data engineering, AI for decision making, machine learning, and business modeling.'
+  - question: 'What is the CAT cutoff required for an interview call at IIM Kashipur via IIM CAP?'
+    answer: 'IIM Kashipur participates in the Common Admission Process (IIM CAP). Expected safe qualifying percentiles for General category aspirants range between 92.0 and 94.0+ percentile, with sectional cutoffs of 70 percentile across VARC, DILR, and QA.'
+  - question: 'Does IIM Kashipur provide education loan assistance and scholarships?'
+    answer: 'Yes, admitted students at IIM Kashipur are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Punjab National Bank at concessional interest rates, along with Central Sector Scholarships for eligible categories.'
+location: 'Kundeshwari'
+state: 'Kashipur, Uttarakhand'
 ---
-
-# [IIM Kashipur](/colleges/iim-kashipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Kashipur, Uttarakhand** recognized for academic rigor (NIRF Rank #23 · AACSB Member, UGC Approved) and industry-aligned specializations in **MBA & MBA-Analytics**.
-> - **Fee vs Average Package (ROI)**: Total tuition fee is **₹18.50 Lakhs (Total)** against an audited average domestic CTC of **₹18.11 LPA** (Median: **₹17.20 LPA**, Highest: **₹37.00 LPA**), delivering strong return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT (CAP)** score (**92.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+> - **200-Acre Himalayan Foothills Campus**: Set across a sprawling **200-acre permanent campus in Kashipur, Uttarakhand**, IIM Kashipur ranks **#23 in India (NIRF Management)** and delivers premier residential programs in **General MBA and MBA in Analytics**.
+> - **Outstanding Fee-to-Salary ROI**: Total 2-year program fee is **₹17.50 – ₹18.50 Lakhs** against an audited average domestic CTC of **₹18.11 LPA** (Median CTC: **₹17.20 LPA**; Highest Domestic CTC: **₹37.00 LPA**), delivering complete financial break-even within 12 to 14 months.
+> - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**92.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), academic ratings, and gender/academic diversity factors.
+> - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Get Personalized Admission Guidance for IIM-Kashipur" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Check Your IIM Kashipur CAP Shortlist Chances" description="Evaluate your CAT sectional percentiles, academic ratings, and IIM CAP interview conversion chances with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IIM Kashipur](/colleges/iim-kashipur/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
+Established in 2011 as part of the second generation of Indian Institutes of Management, **[IIM Kashipur](/colleges/iim-kashipur/)** has developed into one of North India's foremost management institutions.
 
----
+Located on a picturesque **200-acre residential campus in the Himalayan foothills of Uttarakhand**, the institute blends core business fundamentals with cutting-edge analytics training for the **2027–2029 academic intake**.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **[IIM Kashipur](/colleges/iim-kashipur/)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **[IIM Kashipur](/colleges/iim-kashipur/)** (IIM-Kashipur) |
-| **Campus Location** | Kashipur, Uttarakhand |
-| **Year Established** | 2011 |
-| **Accreditation & Recognitions** | NIRF Rank #23 · AACSB Member, UGC Approved |
-| **Flagship Program** | MBA & MBA-Analytics (2 Years Full-Time) |
-| **Accepted Entrance Exams** | CAT (CAP) |
-| **Expected Cutoff Threshold** | **92.0+ CAT %ile** |
-| **Total Tuition Fee** | **₹18.50 Lakhs (Total)** |
-| **Average Placement CTC** | **₹18.11 LPA** |
-| **Median Placement CTC** | **₹17.20 LPA** |
-| **Highest Domestic CTC** | **₹37.00 LPA** |
-| **Top Recruiting Partners** | Cognizant, Deloitte, HDFC Bank, ICICI Bank, Infosys, TATA Motors, Larsen & Toubro, Puma |
+In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provides an honest, fact-checked breakdown of IIM Kashipur's programs, fees, real median salary packages, cutoffs, and selection advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ IIM Kashipur: Fast Facts Snapshot (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**IIM Kashipur delivers an industry-immersed 2-year residential management curriculum recognized by the Ministry of Education, Government of India.**
 
-### Fee Breakdown
-*   **Total Tuition & Academic Fees:** **₹18.50 Lakhs (Total)** (payable in 4 to 6 term installments).
-*   **Hostel & Residential Amenities:** Approximately ₹1.20 Lakhs – ₹1.90 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Scholarships & Financial Aid:** Merit scholarships and tuition fee waivers are awarded to high percentile scorers in **CAT (CAP)** and students from economically disadvantaged backgrounds.
-*   **Collateral-Free Education Loans:** The institute has national tie-ups with leading public and private banks (SBI, HDFC Credila, Axis Bank, Bank of Baroda, ICICI) offering student education loans covering 100% of academic and living expenses at preferential interest rates with a moratorium period extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-The curriculum at **[IIM Kashipur](/colleges/iim-kashipur/)** is engineered to blend theoretical management frameworks with corporate problem-solving:
-
-*   **Financial Management & Investment Banking:** Corporate valuation, portfolio strategy, fintech, mergers & acquisitions, and private equity analysis.
-*   **Marketing & Digital Brand Strategy:** Consumer psychology, digital media analytics, growth marketing, omni-channel retailing, and sales leadership.
-*   **Business Analytics & Artificial Intelligence:** Predictive modeling, Python/R programming, big data architecture, and decision intelligence.
-*   **Operations & Global Supply Chain:** Lean six sigma, logistics modeling, procurement strategy, and sustainable supply networks.
-*   **Human Resource & Talent Strategy:** Organizational behavior, leadership development, HR analytics, and talent retention.
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | Indian Institute of Management Kashipur (IIM Kashipur) | 2nd Generation Premier IIM (Est. 2011) |
+| **Campus Location** | Kundeshwari, Kashipur, Udham Singh Nagar, Uttarakhand | 200-Acre green permanent smart campus |
+| **Accreditation & Approvals** | Institute of National Importance · AACSB Member | Master of Business Administration (MBA) degree |
+| **Flagship Programs** | MBA (General), MBA (Analytics) & EMBA | 2-Year Full-Time Residential Management |
+| **Total Program Tuition Fee** | **₹17.50 – ₹18.50 Lakhs** *(2 Years Total)* | Inclusive of hostel, tuition & digital cases |
+| **Average Placement CTC** | **₹18.11 LPA** | Median domestic package stands at ₹17.20 LPA |
+| **Top 25% Batch Average CTC** | **₹24.50 LPA** | Dominant offers in consulting, analytics & BFSI |
+| **Highest Placement CTC** | **₹37.00 LPA** | Peak offer in corporate advisory and strategy |
+| **Accepted Entrance Exam** | CAT (via Common Admission Process - CAP) | Standardized national admission route |
+| **Top Recruiting Partners** | Deloitte, PwC, EY, KPMG, Tata Steel, ICICI Bank, Amazon | 140+ marquee national & global recruiters |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 IIM Kashipur Fee Structure (2027–2029)
 
-Placements at **[IIM Kashipur](/colleges/iim-kashipur/)** reflect continuous corporate confidence and recruiters' preference for its graduates:
+The total academic and residential fee for the 2-year curriculum at IIM Kashipur is **₹17.50 Lakhs to ₹18.50 Lakhs**, payable across 6 term installments:
 
-*   **Highest Placement Package:** **₹37.00 LPA**
-*   **Average Placement Package:** **₹18.11 LPA**
-*   **Median Placement Benchmark:** **₹17.20 LPA**
-*   **Marquee Recruiters:** Cognizant, Deloitte, HDFC Bank, ICICI Bank, Infosys, TATA Motors, Larsen & Toubro, Puma
-*   **Sectoral Distribution:**
-    *   **BFSI & FinTech (30–35%):** Investment banking, credit risk, retail banking, and treasury management.
-    *   **Management Consulting & Strategy (25–30%):** Business advisory, transformation consulting, and process optimization.
-    *   **IT / ITES & Product Management (20–25%):** Digital product strategy, client solutions, and enterprise sales.
-    *   **FMCG & Consumer Goods (15–20%):** Brand management, rural marketing, and trade sales leadership.
-
----
-
-## 5. Admission Selection Criteria & Expected Cutoffs 2027
-
-Admission to **[IIM Kashipur](/colleges/iim-kashipur/)** is conducted through a multi-stage evaluation process:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.
-2.  **Application Submission:** Fill out the institutional application form on the official website before the deadline.
-3.  **Profile Shortlisting:** Shortlisting based on entrance scores, academic track record (10th, 12th, graduation), and diversity factors.
-4.  **GD-PI-WAT Assessment:** Shortlisted applicants undergo Written Ability Test (WAT) / Group Discussion (GD) followed by a comprehensive Personal Interview (PI).
-5.  **Final Merit List Generation:** Composite score calculation based on entrance test (35–45%), PI/WAT performance (30–40%), academics (15–20%), and work experience (5–10%).
-
-### Cutoff Overview
-*   **Target Entrance Score:** **92.0+ CAT %ile**
-*   **Profile-Based Shortlisting:** Candidates with exceptional academic diversity, sports/cultural achievements at the national level, or 2+ years of relevant corporate experience may receive relaxed cutoff considerations.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **[IIM Kashipur](/colleges/iim-kashipur/)** stands when compared against peer management institutions:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **[IIM Kashipur](/colleges/iim-kashipur/)** | **₹18.50 Lakhs (Total)** | **₹18.11 LPA** | **CAT (CAP)** (92.0+ CAT %ile) |
-| **Tier-1 Benchmark B-Schools** | ₹22.0L – ₹28.0L | ₹24.0L – ₹34.0L | CAT / XAT / NMAT / SNAP (95%+ %ile) |
-| **Tier-2 Quality B-Schools** | ₹12.0L – ₹18.0L | ₹10.0L – ₹14.5L | CAT / XAT / CMAT / MAT (75%+ %ile) |
+| **Tuition & Academic Facility Fee** | ₹6,75,000 | ₹6,75,000 | ₹13,50,000 |
+| **Hostel & Residential Amenities** | ₹1,75,000 | ₹1,75,000 | ₹3,50,000 |
+| **Course Materials, IT & Alumni Fund** | ₹50,000 | ₹50,000 | ₹1,00,000 |
+| **Total Program Fee** | **₹9,00,000** | **₹9,00,000** | **₹18.00 Lakhs** *(Avg Track)* |
+
+*Note: All admitted students are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Punjab National Bank covering full tuition, living expenses, and laptops.*
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 IIM Kashipur Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Air-conditioned amphitheatres equipped with high-definition audio-visual systems and interactive smart boards.
-*   **Digital Knowledge Centers:** Subscription access to Bloomberg Terminals, Harvard Business Publishing, EBSCO, and ScienceDirect.
-*   **Residential & Recreational Amenities:** Modern hostels, multi-cuisine dining facilities, gymnasium, sports grounds, and medical assistance.
-*   **Student Committees:** Student-led clubs organizing annual management conclaves, cultural fests, case study competitions, and corporate guest lectures.
+**IIM Kashipur demonstrates strong hiring demand across management consulting, financial analytics, manufacturing strategy, and retail.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join IIM-Kashipur?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹37.00 LPA
+├── Top 25% Batch Average: ₹24.50 LPA
+├── Top 50% Batch Average: ₹20.20 LPA
+├── Overall Batch Average CTC: ₹18.11 LPA
+└── Overall Median CTC: ₹17.20 LPA
+```
 
-### Key Strengths (Pros)
-*   **Surrounded by over 180 major industrial plants in Pantnagar/Kashipur industrial belt**
-*   **Strong practical industry exposure through live corporate projects**
-*   **Pioneering MBA in Analytics program with dedicated data labs**
+### Domain-Wise Placement Statistics
 
-### Points to Consider (Cons)
-*   Tier-3 town location requires commute from Delhi NCR / Pantnagar airport
-*   Limited entertainment/metro city amenities around campus
+| Specialization Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **Management Consulting & Advisory** | ₹20.50 LPA | Associate Consultant, Strategic Advisory Trainee |
+| **Business Analytics & Data Science** | ₹19.80 LPA | Analytics Lead, Data Consultant, BI Architect |
+| **Banking, Financial Services & FinTech** | ₹18.50 LPA | Financial Analyst, Credit Appraiser, Wealth Manager |
+| **Marketing, FMCG & E-Commerce** | ₹16.80 LPA | Area Sales Lead, Brand Trainee, Category Executive |
+| **Operations & Supply Chain** | ₹17.20 LPA | Supply Chain Associate, Plant Logistics Officer |
 
-### Who Should Apply?
-Aspirants targeting Industrial Operations, Supply Chain, and Analytics roles in manufacturing and IT sectors.
+### Prominent Recruiters at IIM Kashipur
 
-### Who Should Avoid?
-Aspirants who require vibrant metro city life outside campus.
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at IIM Kashipur?
-The verified average placement package at **IIM Kashipur** is **₹18.11 LPA**, with top quartile students securing offers up to **₹37.00 LPA**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**IIM Kashipur** accepts scores from **CAT (CAP)** for shortlisting candidates for its 2-year full-time management programs.
-
-### Q3. What is the total tuition fee at IIM Kashipur?
-The total course fee is approximately **₹18.50 Lakhs (Total)** for the 2-year curriculum. Additional expenses apply for hostel accommodation and mess facilities.
-
-### Q4. Does IIM Kashipur provide merit scholarships or loan assistance?
-Yes, **IIM Kashipur** offers merit scholarships for top entrance scorers and has established tie-ups with leading commercial banks for collateral-free education loans.
+- **Consulting & Tech**: Deloitte, PwC, EY, KPMG, Cognizant, Infosys, Wipro, Tech Mahindra.
+- **Banking & Financial Services**: ICICI Bank, HDFC Bank, Axis Bank, Federal Bank, Kotak Mahindra, BNY Mellon.
+- **Conglomerates & Manufacturing**: Tata Steel, Larsen & Toubro, Adani Group, Amazon, Berger Paints.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 IIM Kashipur Selection Criteria & CAT Cutoff 2027
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
+IIM Kashipur shortlists candidates through the **Common Admission Process (IIM CAP)**, evaluating candidates across minimum sectional benchmarks and composite scores:
+
+| Category | VARC %ile | DILR %ile | QA %ile | Overall Safe Percentile |
+| :--- | :--- | :--- | :--- | :--- |
+| **General / EWS** | 70 | 70 | 70 | **92.0 – 94.0%ile** |
+| **NC-OBC** | 65 | 65 | 65 | **80.0 – 83.0%ile** |
+| **SC** | 50 | 50 | 50 | **60.0 – 65.0%ile** |
+| **ST / PwD** | 40 | 40 | 40 | **45.0 – 50.0%ile** |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Final Merit List Weightage Breakdown
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+| Evaluation Parameter | Final Selection Weightage (%) |
+| :--- | :--- |
+| **Common Admission Test (CAT) Score** | **40%** |
+| **Personal Interview (PI) Performance (CAP)** | **25%** |
+| **Past Academic Record (10th, 12th & Graduation)** | **15%** |
+| **Work Experience Rating** | **12%** |
+| **Diversity Factor (Gender & Academic)** | **8%** |
 
 ---
+
+## ⚖️ IIM Kashipur vs New IIMs: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **IIM Kashipur** | **₹18.00 Lakhs** | **₹18.11 LPA** | **₹17.20 LPA** | Kashipur, Uttarakhand |
+| **IIM Raipur** | ₹18.00 Lakhs | ₹18.60 LPA | ₹17.50 LPA | Raipur, Chhattisgarh |
+| **IIM Ranchi** | ₹17.50 Lakhs | ₹18.69 LPA | ₹18.00 LPA | Ranchi, Jharkhand |
+| **IIM Rohtak** | ₹18.50 Lakhs | ₹19.27 LPA | ₹18.50 LPA | Rohtak, Haryana |
+| **IIM Amritsar** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "IIM Kashipur stands firmly among India's top 25 business schools. With an audited average package of ₹18.11 LPA, an established 200-acre permanent infrastructure, and pioneer status in MBA Analytics, it delivers outstanding executive corporate traction for CAT aspirants scoring in the 92–95 percentile range."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for MBA at IIM Kashipur?
+The total 2-year fee for the MBA program at IIM Kashipur is approximately **₹17.50 Lakhs to ₹18.50 Lakhs**, payable in 6 term installments.
+
+### 2. What is the average placement package at IIM Kashipur?
+IIM Kashipur recorded an **average domestic package of ₹18.11 LPA** and a **median CTC of ₹17.20 LPA**, with top 25% students securing an average of **₹24.50 LPA** and a peak domestic offer of **₹37.00 LPA**.
+
+### 3. Which entrance exams are accepted for IIM Kashipur 2027 admission?
+IIM Kashipur accepts CAT scores exclusively through the Common Admission Process (IIM CAP).
+
+### 4. What is the MBA in Analytics program at IIM Kashipur?
+IIM Kashipur offers a specialized 2-year full-time MBA in Analytics focusing on AI, machine learning, business intelligence, and big data management.
+
+### 5. What CAT percentile is required to convert IIM Kashipur?
+General category aspirants typically require a CAT percentile of **92.0 to 94.0+**, alongside balanced sectional scores above 70 percentile in IIM CAP.
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official IIM Kashipur Placement Reports, IIM CAP Admission Policy, and NIRF Ranking Data.*

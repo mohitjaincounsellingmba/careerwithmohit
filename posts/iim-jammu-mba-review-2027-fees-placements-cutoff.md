@@ -1,202 +1,176 @@
 ---
-title: 'IIM Jammu MBA Admission 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-26'
-category: MBA
-description: >-
-  Verified 2027 MBA review for IIM Jammu (Jammu, J&K). Check audited fees
-  (₹17.20 Lakhs (Total)), average placement (₹16.43 LPA), entrance cutoffs
-  (88.0+ CAT %ile), and admission tips by Mohit Jain.
+title: 'IIM Jammu MBA Review 2027: Fees, Cutoff & Placements ROI'
+date: '2026-10-09'
+category: MBA Admissions
+description: 'Verified 2027 fees (₹17.15L), 200-acre Jagti campus, placements (₹15.4L avg), CAT cutoffs (88%+) & CAP admission guide for IIM Jammu by Mohit Jain.'
 keywords:
-  - iim jammu mba admission 2027
-  - iim jammu fees structure 2027
+  - iim jammu mba review 2027
+  - iim jammu fee structure 2027
   - iim jammu average placement package
-  - iim jammu cutoff 2027–29 2027
-  - iim-jammu review 2027
-  - top mba colleges in jammu
-  - best mba colleges in j&k
-  - direct admission in iim jammu
+  - iim jammu cat cutoff cap 2027
+  - iim jammu selection criteria mba hahm
+  - top 3rd generation iims in north india
 faqs:
-  - question: What is the average placement package at IIM Jammu in 2026-2027?
-    answer: >-
-      The verified average placement package at IIM Jammu stands at ₹16.43 LPA,
-      with the median package benchmark at ₹15.25 LPA and highest domestic
-      offers reaching ₹64.00 LPA.
-  - question: What entrance exams are accepted for 2027 admission at IIM Jammu?
-    answer: >-
-      IIM Jammu accepts valid scores from CAT (CAP) followed by institutional
-      profile evaluation and personal interview rounds (GD-PI / WAT).
-  - question: What is the total fee structure for the MBA/PGDM program at IIM Jammu?
-    answer: >-
-      The total course tuition fee is approximately ₹17.20 Lakhs (Total) for the
-      2-year full-time curriculum, payable in semester-wise academic
-      installments.
-  - question: What is the expected entrance cutoff for IIM Jammu?
-    answer: >-
-      The safe cutoff threshold for initial shortlisting is approximately 88.0+
-      CAT %ile. Profile diversity and corporate work experience may offer
-      relaxed considerations.
-location: Jammu
-state: J&K
+  - question: 'What is the total fee structure for the MBA program at IIM Jammu?'
+    answer: 'The total 2-year tuition and residential fee for the flagship MBA program at IIM Jammu is approximately ₹17.15 Lakhs to ₹17.50 Lakhs, payable in term-wise installments. The fee covers academic tuition, air-conditioned hostel accommodation, and digital database subscriptions.'
+  - question: 'What is the average and highest placement package at IIM Jammu?'
+    answer: 'During recent campus placement seasons, IIM Jammu recorded an overall average domestic package of ₹15.48 to ₹16.43 LPA, with top 25% students securing an average CTC of ₹21.50 LPA and peak domestic offers reaching ₹32.00 to ₹64.00 LPA.'
+  - question: 'What is the dual specialization in Hospital Administration (MBA-HA&HM) at IIM Jammu?'
+    answer: 'IIM Jammu uniquely collaborates with AIIMS Jammu and IIT Jammu to offer a specialized MBA in Hospital Administration & Healthcare Management (MBA-HA&HM), combining medical management, engineering technology, and administrative leadership.'
+  - question: 'What is the CAT cutoff required for an interview call at IIM Jammu via IIM CAP?'
+    answer: 'IIM Jammu participates in the Common Admission Process (IIM CAP). Expected safe qualifying percentiles for General category aspirants range between 90 and 93+ percentile, with sectional cutoffs of 70 percentile across VARC, DILR, and QA.'
+  - question: 'Does IIM Jammu offer education loan assistance and scholarships?'
+    answer: 'Yes, admitted students at IIM Jammu are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Canara Bank at concessional interest rates, along with Central Sector Scholarships for eligible categories.'
+location: 'Jagti'
+state: 'Jammu, J&K'
 ---
-
-# [IIM Jammu](/colleges/iim-jammu/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Jammu, J&K** recognized for academic rigor (NIRF Rank #42 · UGC Approved) and industry-aligned specializations in **MBA, MBA-HA&HM (Hospitality & Healthcare), IPM**.
-> - **Fee vs Average Package (ROI)**: Total tuition fee is **₹17.20 Lakhs (Total)** against an audited average domestic CTC of **₹16.43 LPA** (Median: **₹15.25 LPA**, Highest: **₹64.00 LPA**), delivering strong return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT (CAP)** score (**88.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+> - **200-Acre Smart Campus & Tri-Institute Pedagogy**: Spanning a scenic **200-acre permanent smart campus at Jagti, Jammu**, IIM Jammu offers flagship residential programs in **MBA, MBA in Hospital Administration & Healthcare Management (MBA-HA&HM jointly with AIIMS & IIT Jammu), and a 5-Year IPM**.
+> - **Solid Fee-to-Salary ROI**: Total 2-year program fee is **₹17.15 – ₹17.50 Lakhs** against an audited average domestic CTC of **₹15.48 – ₹16.43 LPA** (Top 25% batch averaging **₹21.50 LPA**; Highest CTC: **₹64.00 LPA**), delivering complete financial break-even within 14 to 16 months.
+> - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**90.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), past academic record, and gender/academic diversity factors.
+> - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Get Personalized Admission Guidance for IIM-Jammu" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Check Your IIM Jammu CAP Shortlist Chances" description="Evaluate your CAT sectional percentiles, academic ratings, and IIM CAP interview conversion chances with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IIM Jammu](/colleges/iim-jammu/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
+Among India's 3rd generation Indian Institutes of Management, **[IIM Jammu](/colleges/iim-jammu/)** has distinguished itself through rapid infrastructure development and strategic collaborations with AIIMS Jammu and IIT Jammu.
 
----
+Operating from its world-class **200-acre permanent campus at Jagti, Jammu**, the institute combines cutting-edge analytics training with high corporate placement traction for the **2027–2029 academic cycle**.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **[IIM Jammu](/colleges/iim-jammu/)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **[IIM Jammu](/colleges/iim-jammu/)** (IIM-Jammu) |
-| **Campus Location** | Jammu, J&K |
-| **Year Established** | 2016 |
-| **Accreditation & Recognitions** | NIRF Rank #42 · UGC Approved |
-| **Flagship Program** | MBA, MBA-HA&HM (Hospitality & Healthcare), IPM (2 Years Full-Time) |
-| **Accepted Entrance Exams** | CAT (CAP) |
-| **Expected Cutoff Threshold** | **88.0+ CAT %ile** |
-| **Total Tuition Fee** | **₹17.20 Lakhs (Total)** |
-| **Average Placement CTC** | **₹16.43 LPA** |
-| **Median Placement CTC** | **₹15.25 LPA** |
-| **Highest Domestic CTC** | **₹64.00 LPA** |
-| **Top Recruiting Partners** | Amazon, Deloitte, ICICI Bank, Infosys, KPMG, Tech Mahindra, Wipro, Aditya Birla Group |
+In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** delivers an honest, fact-checked breakdown of IIM Jammu's programs, fees, real median salary packages, cutoffs, and selection advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ IIM Jammu: Fast Facts Snapshot (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**IIM Jammu delivers an industry-immersed 2-year residential management curriculum recognized by the Ministry of Education, Government of India.**
 
-### Fee Breakdown
-*   **Total Tuition & Academic Fees:** **₹17.20 Lakhs (Total)** (payable in 4 to 6 term installments).
-*   **Hostel & Residential Amenities:** Approximately ₹1.20 Lakhs – ₹1.90 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Scholarships & Financial Aid:** Merit scholarships and tuition fee waivers are awarded to high percentile scorers in **CAT (CAP)** and students from economically disadvantaged backgrounds.
-*   **Collateral-Free Education Loans:** The institute has national tie-ups with leading public and private banks (SBI, HDFC Credila, Axis Bank, Bank of Baroda, ICICI) offering student education loans covering 100% of academic and living expenses at preferential interest rates with a moratorium period extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-The curriculum at **[IIM Jammu](/colleges/iim-jammu/)** is engineered to blend theoretical management frameworks with corporate problem-solving:
-
-*   **Financial Management & Investment Banking:** Corporate valuation, portfolio strategy, fintech, mergers & acquisitions, and private equity analysis.
-*   **Marketing & Digital Brand Strategy:** Consumer psychology, digital media analytics, growth marketing, omni-channel retailing, and sales leadership.
-*   **Business Analytics & Artificial Intelligence:** Predictive modeling, Python/R programming, big data architecture, and decision intelligence.
-*   **Operations & Global Supply Chain:** Lean six sigma, logistics modeling, procurement strategy, and sustainable supply networks.
-*   **Human Resource & Talent Strategy:** Organizational behavior, leadership development, HR analytics, and talent retention.
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | Indian Institute of Management Jammu (IIM Jammu) | 3rd Generation Premier IIM (Est. 2016) |
+| **Campus Location** | Jagti, PO Nagrota, Jammu, J&K | 200-Acre state-of-the-art smart campus |
+| **Accreditation & Approvals** | Institute of National Importance · Ministry of Education | Master of Business Administration (MBA) degree |
+| **Flagship Programs** | MBA (General), MBA-HA&HM & 5-Year IPM | 2-Year Full-Time Residential Programs |
+| **Total Program Tuition Fee** | **₹17.15 – ₹17.50 Lakhs** *(2 Years Total)* | Inclusive of hostel, tuition & digital courseware |
+| **Average Placement CTC** | **₹15.48 – ₹16.43 LPA** | Median domestic package stands at ₹15.00 LPA |
+| **Top 25% Batch Average CTC** | **₹21.50 LPA** | Strong hiring in consulting, BFSI & healthcare analytics |
+| **Highest Placement CTC** | **₹64.00 LPA** | Peak offer in international corporate advisory |
+| **Accepted Entrance Exam** | CAT (via Common Admission Process - CAP) | Standardized national admission route |
+| **Top Recruiting Partners** | Deloitte, McKinsey, Infosys, ICICI Bank, Microsoft, Amazon | 130+ prominent national & multinational recruiters |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 IIM Jammu Fee Structure (2027–2029)
 
-Placements at **[IIM Jammu](/colleges/iim-jammu/)** reflect continuous corporate confidence and recruiters' preference for its graduates:
+The total academic and residential fee for the 2-year curriculum at IIM Jammu is **₹17.15 Lakhs to ₹17.50 Lakhs**, payable across 6 term installments:
 
-*   **Highest Placement Package:** **₹64.00 LPA**
-*   **Average Placement Package:** **₹16.43 LPA**
-*   **Median Placement Benchmark:** **₹15.25 LPA**
-*   **Marquee Recruiters:** Amazon, Deloitte, ICICI Bank, Infosys, KPMG, Tech Mahindra, Wipro, Aditya Birla Group
-*   **Sectoral Distribution:**
-    *   **BFSI & FinTech (30–35%):** Investment banking, credit risk, retail banking, and treasury management.
-    *   **Management Consulting & Strategy (25–30%):** Business advisory, transformation consulting, and process optimization.
-    *   **IT / ITES & Product Management (20–25%):** Digital product strategy, client solutions, and enterprise sales.
-    *   **FMCG & Consumer Goods (15–20%):** Brand management, rural marketing, and trade sales leadership.
-
----
-
-## 5. Admission Selection Criteria & Expected Cutoffs 2027
-
-Admission to **[IIM Jammu](/colleges/iim-jammu/)** is conducted through a multi-stage evaluation process:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Appear for accepted tests (**CAT (CAP)**) and achieve the minimum qualifying percentile/score.
-2.  **Application Submission:** Fill out the institutional application form on the official website before the deadline.
-3.  **Profile Shortlisting:** Shortlisting based on entrance scores, academic track record (10th, 12th, graduation), and diversity factors.
-4.  **GD-PI-WAT Assessment:** Shortlisted applicants undergo Written Ability Test (WAT) / Group Discussion (GD) followed by a comprehensive Personal Interview (PI).
-5.  **Final Merit List Generation:** Composite score calculation based on entrance test (35–45%), PI/WAT performance (30–40%), academics (15–20%), and work experience (5–10%).
-
-### Cutoff Overview
-*   **Target Entrance Score:** **88.0+ CAT %ile**
-*   **Profile-Based Shortlisting:** Candidates with exceptional academic diversity, sports/cultural achievements at the national level, or 2+ years of relevant corporate experience may receive relaxed cutoff considerations.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **[IIM Jammu](/colleges/iim-jammu/)** stands when compared against peer management institutions:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **[IIM Jammu](/colleges/iim-jammu/)** | **₹17.20 Lakhs (Total)** | **₹16.43 LPA** | **CAT (CAP)** (88.0+ CAT %ile) |
-| **Tier-1 Benchmark B-Schools** | ₹22.0L – ₹28.0L | ₹24.0L – ₹34.0L | CAT / XAT / NMAT / SNAP (95%+ %ile) |
-| **Tier-2 Quality B-Schools** | ₹12.0L – ₹18.0L | ₹10.0L – ₹14.5L | CAT / XAT / CMAT / MAT (75%+ %ile) |
+| **Tuition & Academic Facility Fee** | ₹6,25,000 | ₹6,25,000 | ₹12,50,000 |
+| **Hostel & Residential Amenities** | ₹1,65,000 | ₹1,65,000 | ₹3,30,000 |
+| **Course Materials, IT & Alumni Fund** | ₹67,500 | ₹67,500 | ₹1,35,000 |
+| **Total Program Fee** | **₹8,57,500** | **₹8,57,500** | **₹17.15 Lakhs** *(Avg Track)* |
+
+*Note: All admitted students are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Canara Bank covering full tuition, living expenses, and laptops.*
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 IIM Jammu Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Air-conditioned amphitheatres equipped with high-definition audio-visual systems and interactive smart boards.
-*   **Digital Knowledge Centers:** Subscription access to Bloomberg Terminals, Harvard Business Publishing, EBSCO, and ScienceDirect.
-*   **Residential & Recreational Amenities:** Modern hostels, multi-cuisine dining facilities, gymnasium, sports grounds, and medical assistance.
-*   **Student Committees:** Student-led clubs organizing annual management conclaves, cultural fests, case study competitions, and corporate guest lectures.
+**IIM Jammu demonstrates steady placement momentum across BFSI, IT consulting, product strategy, and healthcare management.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join IIM-Jammu?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹64.00 LPA
+├── Top 25% Batch Average: ₹21.50 LPA
+├── Top 50% Batch Average: ₹17.80 LPA
+├── Overall Batch Average CTC: ₹15.48 – ₹16.43 LPA
+└── Overall Median CTC: ₹15.00 LPA
+```
 
-### Key Strengths (Pros)
-*   **Magnificent 200-acre permanent smart campus in Jagti with top-of-the-line amenities**
-*   **Off-campus center in Srinagar providing diverse learning environment**
-*   **Joint dual degree programs with AIIMS Jammu and IIT Jammu**
+### Domain-Wise Placement Statistics
 
-### Points to Consider (Cons)
-*   Winter weather conditions can affect travel schedules
-*   Lower proportion of top strategy consulting roles
+| Specialization Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **Management Consulting & Advisory** | ₹18.00 LPA | Associate Consultant, Strategic Advisory Trainee |
+| **Banking, Financial Services & FinTech** | ₹16.80 LPA | Financial Analyst, Credit Manager, Wealth Associate |
+| **Business Analytics & IT Systems** | ₹16.50 LPA | Data Analyst, Product Associate, BI Specialist |
+| **Healthcare & Hospital Operations** | ₹15.80 LPA | Hospital Administrator, Healthcare Consultant |
+| **Marketing, FMCG & Retail** | ₹14.80 LPA | Area Sales Lead, Brand Trainee, Category Executive |
 
-### Who Should Apply?
-Aspirants targeting 88+ CAT percentile seeking high-growth IIM brand with specialized healthcare/tech dual capabilities.
+### Prominent Recruiters at IIM Jammu
 
-### Who Should Avoid?
-Students sensitive to cold weather or geographical distance.
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at IIM Jammu?
-The verified average placement package at **IIM Jammu** is **₹16.43 LPA**, with top quartile students securing offers up to **₹64.00 LPA**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**IIM Jammu** accepts scores from **CAT (CAP)** for shortlisting candidates for its 2-year full-time management programs.
-
-### Q3. What is the total tuition fee at IIM Jammu?
-The total course fee is approximately **₹17.20 Lakhs (Total)** for the 2-year curriculum. Additional expenses apply for hostel accommodation and mess facilities.
-
-### Q4. Does IIM Jammu provide merit scholarships or loan assistance?
-Yes, **IIM Jammu** offers merit scholarships for top entrance scorers and has established tie-ups with leading commercial banks for collateral-free education loans.
+- **Consulting & Tech**: Deloitte, McKinsey, Infosys, Cognizant, Wipro, Tech Mahindra, Microsoft.
+- **Banking & Financial Services**: ICICI Bank, HDFC Bank, Axis Bank, Federal Bank, Kotak Mahindra, BNY Mellon.
+- **FMCG, Retail & Logistics**: Amazon, Adani Group, Berger Paints, Tata Motors, Reliance Retail.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 IIM Jammu Selection Criteria & CAT Cutoff 2027
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
+IIM Jammu shortlists candidates through the **Common Admission Process (IIM CAP)**, evaluating candidates across minimum sectional benchmarks and overall composite scores:
+
+| Category | VARC %ile | DILR %ile | QA %ile | Overall Safe Percentile |
+| :--- | :--- | :--- | :--- | :--- |
+| **General / EWS** | 70 | 70 | 70 | **90.0 – 93.5%ile** |
+| **NC-OBC** | 65 | 65 | 65 | **80.0 – 83.0%ile** |
+| **SC** | 50 | 50 | 50 | **60.0 – 65.0%ile** |
+| **ST / PwD** | 40 | 40 | 40 | **45.0 – 50.0%ile** |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Final Merit List Weightage Breakdown
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+| Evaluation Parameter | Final Selection Weightage (%) |
+| :--- | :--- |
+| **Common Admission Test (CAT) Score** | **40%** |
+| **Personal Interview (PI) Performance (CAP)** | **30%** |
+| **Past Academic Record (10th, 12th & Graduation)** | **15%** |
+| **Work Experience Rating** | **10%** |
+| **Gender & Academic Diversity Factor** | **5%** |
 
 ---
+
+## ⚖️ IIM Jammu vs Baby & New IIMs: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **IIM Jammu** | **₹17.15 Lakhs** | **₹15.48 – ₹16.43 LPA** | **₹15.00 LPA** | Jagti, Jammu |
+| **IIM Amritsar** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
+| **IIM Bodh Gaya** | ₹16.00 Lakhs | ₹14.50 LPA | ₹14.00 LPA | Bodh Gaya, Bihar |
+| **IIM Sirmaur** | ₹15.75 Lakhs | ₹14.45 LPA | ₹13.50 LPA | Paonta Sahib, HP |
+| **IIM Sambalpur** | ₹15.00 Lakhs | ₹14.80 LPA | ₹14.00 LPA | Sambalpur, Odisha |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "IIM Jammu has made remarkable strides with its new 200-acre Jagti permanent campus and pioneering healthcare collaborations with AIIMS and IIT Jammu. For CAT candidates scoring between 88 and 93 percentile, it offers strong academic momentum and dependable placement outcomes across consulting and BFSI sectors."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for MBA at IIM Jammu?
+The total 2-year fee for the MBA program at IIM Jammu is approximately **₹17.15 Lakhs to ₹17.50 Lakhs**, payable in 6 term installments.
+
+### 2. What is the average placement package at IIM Jammu?
+IIM Jammu recorded an **average domestic package of ₹15.48 to ₹16.43 LPA**, with top 25% students securing an average of **₹21.50 LPA** and a peak domestic offer of **₹64.00 LPA**.
+
+### 3. Which entrance exams are accepted for IIM Jammu 2027 admission?
+IIM Jammu accepts CAT scores exclusively through the Common Admission Process (IIM CAP).
+
+### 4. What is the collaborative program with AIIMS and IIT Jammu?
+IIM Jammu offers an MBA in Hospital Administration & Healthcare Management (MBA-HA&HM) jointly delivered by IIM Jammu, AIIMS Jammu, and IIT Jammu.
+
+### 5. What CAT percentile is required to convert IIM Jammu?
+General category aspirants typically require a CAT percentile of **90.0 to 93.5+**, alongside balanced sectional scores above 70 percentile in IIM CAP.
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official IIM Jammu Placement Reports, IIM CAP Admission Policy, and NIRF Data.*

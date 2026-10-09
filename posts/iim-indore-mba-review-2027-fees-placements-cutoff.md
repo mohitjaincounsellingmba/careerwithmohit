@@ -1,202 +1,189 @@
 ---
-title: 'IIM Indore MBA Admission 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-26'
-category: MBA
-description: >-
-  Verified 2027 MBA review for IIM Indore (Indore, Madhya Pradesh). Check
-  audited fees (₹21.00 Lakhs (Total)), average placement (₹30.21 LPA), entrance
-  cutoffs (97.0+ CAT %ile), and admission tips by Mohit Jain.
+title: 'IIM Indore MBA Review 2027: Fees, Cutoff & Placements ROI'
+date: '2026-10-09'
+category: MBA Admissions
+description: 'Verified 2027 fees (₹21.0L), Triple Crown Prabandh Shikhar, placements (₹25.6L avg), CAT cutoffs (97%+) & academic weightage for IIM Indore by Mohit Jain.'
 keywords:
-  - iim indore mba admission 2027
-  - iim indore fees structure 2027
-  - iim indore average placement package
-  - iim indore cutoff 2027–29 2027
-  - iimi review 2027
-  - top mba colleges in indore
-  - best mba colleges in madhya pradesh
-  - direct admission in iim indore
+  - iim indore mba review 2027
+  - iim indore fee structure 2027
+  - iimi average placement package
+  - iim indore cutoff cat 2026 2027
+  - iim indore selection criteria composite score
+  - top triple crown mba colleges in central india
 faqs:
-  - question: What is the average placement package at IIM Indore in 2026-2027?
-    answer: >-
-      The verified average placement package at IIM Indore stands at ₹30.21 LPA,
-      with the median package benchmark at ₹27.20 LPA and highest domestic
-      offers reaching ₹1.14 Crore.
-  - question: What entrance exams are accepted for 2027 admission at IIM Indore?
-    answer: >-
-      IIM Indore accepts valid scores from CAT followed by institutional profile
-      evaluation and personal interview rounds (GD-PI / WAT).
-  - question: What is the total fee structure for the MBA/PGDM program at IIM Indore?
-    answer: >-
-      The total course tuition fee is approximately ₹21.00 Lakhs (Total) for the
-      2-year full-time curriculum, payable in semester-wise academic
-      installments.
-  - question: What is the expected entrance cutoff for IIM Indore?
-    answer: >-
-      The safe cutoff threshold for initial shortlisting is approximately 97.0+
-      CAT %ile. Profile diversity and corporate work experience may offer
-      relaxed considerations.
-location: Indore
-state: Madhya Pradesh
+  - question: 'What is the total fee structure for the PGP (MBA) program at IIM Indore?'
+    answer: 'The total 2-year tuition and residential fee for the flagship PGP (MBA) program at IIM Indore is approximately ₹21.00 Lakhs to ₹21.50 Lakhs, payable across term-wise installments. Need-based financial assistance (NBFA) and 100% collateral-free bank loans are available.'
+  - question: 'What is the average and highest placement package at IIM Indore?'
+    answer: 'During recent campus placements, IIM Indore recorded an overall average domestic package of ₹25.68 to ₹30.21 LPA, with the top 25% cohort securing an average CTC of ₹38.50 LPA and peak domestic offers touching ₹1.00 Crore to ₹1.14 Crore.'
+  - question: 'Why does IIM Indore give high weightage to Class 10 and 12 marks in shortlisting?'
+    answer: 'IIM Indore places immense emphasis on consistent academic excellence, assigning 34% weightage to Class 10 marks and 40% weightage to Class 12 marks, with CAT score carrying 20% and gender diversity carrying 6% in the initial interview shortlist.'
+  - question: 'What is the CAT cutoff required for an interview call at IIM Indore?'
+    answer: 'While the minimum qualifying sectional cutoff is 80 percentile for General category candidates, candidates with 90%+ in 10th and 12th typically receive calls between 96.5 and 98.5 percentile. Candidates with lower school marks may require 99.3+ percentile.'
+  - question: 'What is the international accreditation status of IIM Indore?'
+    answer: 'IIM Indore is among the select 1% of business schools worldwide holding the prestigious "Triple Crown" accreditation from AACSB (USA), AMBA (UK), and EQUIS (European Union).'
+location: 'Prabandh Shikhar'
+state: 'Indore, Madhya Pradesh'
 ---
-
-# [IIM Indore](/colleges/iim-indore/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management destination in **Indore, Madhya Pradesh** recognized for academic rigor (NIRF Rank #8 · Triple Crown (AACSB, AMBA, EQUIS)) and industry-aligned specializations in **PGP (MBA) & IPM (5-Year Dual Degree)**.
-> - **Fee vs Average Package (ROI)**: Total tuition fee is **₹21.00 Lakhs (Total)** against an audited average domestic CTC of **₹30.21 LPA** (Median: **₹27.20 LPA**, Highest: **₹1.14 Crore**), delivering strong return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT** score (**97.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+> - **Triple Crown Hilltop Campus & Pedagogy**: Set atop a scenic **193-acre hilltop campus on Prabandh Shikhar in Indore**, IIM Indore holds the elite **Triple Crown accreditation (AACSB, AMBA, EQUIS)** and ranks among India’s top 8 management institutions (NIRF).
+> - **Robust ROI & High Median CTC**: Total 2-year program fee is **₹21.00 – ₹21.50 Lakhs** against an audited average domestic CTC of **₹25.68 – ₹30.21 LPA** (Top 25% batch averaging **₹38.50 LPA**; Highest Domestic CTC: **₹1.14 Crore**), ensuring complete financial payback within 12 to 15 months.
+> - **Admissions & Academic Weightage**: Minimum 50% in graduation + valid **CAT** score (**97.0+ percentile** for candidates with strong school marks), heavily valuing past academic consistency across Class 10 (34%) and Class 12 (40%).
+> - **Strategic Profile Evaluation**: For personalized composite score calculations, academic rating conversions, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Get Personalized Admission Guidance for IIMI" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Calculate Your IIM Indore Shortlist Chances" description="Check your Class 10/12 normalized scores, CAT composite score, and interview shortlist probability with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IIM Indore](/colleges/iim-indore/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.
+Perched on the scenic heights of Prabandh Shikhar, **[IIM Indore (IIMI)](/colleges/iim-indore/)** is celebrated for its distinctive academic rigor, socially conscious rural immersion projects (RIP), and global business accreditation.
 
----
+Known for having one of the most distinctive selection formulas in the IIM system, IIM Indore gives extraordinary importance to past school academic excellence for the **2027–2029 academic cycle**.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **[IIM Indore](/colleges/iim-indore/)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **[IIM Indore](/colleges/iim-indore/)** (IIMI) |
-| **Campus Location** | Indore, Madhya Pradesh |
-| **Year Established** | 1996 |
-| **Accreditation & Recognitions** | NIRF Rank #8 · Triple Crown (AACSB, AMBA, EQUIS) |
-| **Flagship Program** | PGP (MBA) & IPM (5-Year Dual Degree) (2 Years Full-Time) |
-| **Accepted Entrance Exams** | CAT |
-| **Expected Cutoff Threshold** | **97.0+ CAT %ile** |
-| **Total Tuition Fee** | **₹21.00 Lakhs (Total)** |
-| **Average Placement CTC** | **₹30.21 LPA** |
-| **Median Placement CTC** | **₹27.20 LPA** |
-| **Highest Domestic CTC** | **₹1.14 Crore** |
-| **Top Recruiting Partners** | EY, Deloitte, PwC, KPMG, Amazon, Flipkart, ICICI Bank, HUL, Mahindra, BCG |
+In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provides an honest, fact-checked breakdown of IIM Indore's programs, fees, real median salary packages, cutoffs, and selection advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ IIM Indore: Fast Facts Snapshot (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**IIM Indore delivers a globally accredited, socially contextualized 2-year management curriculum recognized under the IIM Act by the Government of India.**
 
-### Fee Breakdown
-*   **Total Tuition & Academic Fees:** **₹21.00 Lakhs (Total)** (payable in 4 to 6 term installments).
-*   **Hostel & Residential Amenities:** Approximately ₹1.20 Lakhs – ₹1.90 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Scholarships & Financial Aid:** Merit scholarships and tuition fee waivers are awarded to high percentile scorers in **CAT** and students from economically disadvantaged backgrounds.
-*   **Collateral-Free Education Loans:** The institute has national tie-ups with leading public and private banks (SBI, HDFC Credila, Axis Bank, Bank of Baroda, ICICI) offering student education loans covering 100% of academic and living expenses at preferential interest rates with a moratorium period extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-The curriculum at **[IIM Indore](/colleges/iim-indore/)** is engineered to blend theoretical management frameworks with corporate problem-solving:
-
-*   **Financial Management & Investment Banking:** Corporate valuation, portfolio strategy, fintech, mergers & acquisitions, and private equity analysis.
-*   **Marketing & Digital Brand Strategy:** Consumer psychology, digital media analytics, growth marketing, omni-channel retailing, and sales leadership.
-*   **Business Analytics & Artificial Intelligence:** Predictive modeling, Python/R programming, big data architecture, and decision intelligence.
-*   **Operations & Global Supply Chain:** Lean six sigma, logistics modeling, procurement strategy, and sustainable supply networks.
-*   **Human Resource & Talent Strategy:** Organizational behavior, leadership development, HR analytics, and talent retention.
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | Indian Institute of Management Indore (IIMI) | Established in 1996 in Central India |
+| **Campus Location** | Prabandh Shikhar, Rau-Pithampur Road, Indore, MP | 193-Acre picturesque hilltop campus |
+| **Accreditation & Approvals** | Triple Crown: AACSB · AMBA · EQUIS Accredited | Top 1% elite business schools globally |
+| **Flagship Programs** | PGP (MBA), IPM (5-Year), PGP-HRM & EPGP | 2-Year Full-Time Residential Management |
+| **Total Program Tuition Fee** | **₹21.00 – ₹21.50 Lakhs** *(2 Years Total)* | Inclusive of single hostel room & course books |
+| **Average Placement CTC** | **₹25.68 – ₹30.21 LPA** | Median domestic compensation stands at ₹24.50 LPA |
+| **Top 25% Batch Average CTC** | **₹38.50 LPA** | Dominant offers in consulting, BFSI & product strategy |
+| **Highest Domestic Placement** | **₹1.00 – ₹1.14 Crore** | Peak offers in corporate strategy and markets |
+| **Accepted Entrance Exam** | CAT (Common Admission Test) | Standardized national admission exam |
+| **Top Recruiting Partners** | BCG, McKinsey, Bain, Goldman Sachs, Deloitte, HUL, ITC | 150+ marquee national & global corporate recruiters |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 IIM Indore Fee Structure & Financial Support (2027–2029)
 
-Placements at **[IIM Indore](/colleges/iim-indore/)** reflect continuous corporate confidence and recruiters' preference for its graduates:
+The total academic and residential fee for the 2-year PGP curriculum at IIM Indore is **₹21.00 Lakhs to ₹21.50 Lakhs**, payable across 6 term installments:
 
-*   **Highest Placement Package:** **₹1.14 Crore**
-*   **Average Placement Package:** **₹30.21 LPA**
-*   **Median Placement Benchmark:** **₹27.20 LPA**
-*   **Marquee Recruiters:** EY, Deloitte, PwC, KPMG, Amazon, Flipkart, ICICI Bank, HUL, Mahindra, BCG
-*   **Sectoral Distribution:**
-    *   **BFSI & FinTech (30–35%):** Investment banking, credit risk, retail banking, and treasury management.
-    *   **Management Consulting & Strategy (25–30%):** Business advisory, transformation consulting, and process optimization.
-    *   **IT / ITES & Product Management (20–25%):** Digital product strategy, client solutions, and enterprise sales.
-    *   **FMCG & Consumer Goods (15–20%):** Brand management, rural marketing, and trade sales leadership.
-
----
-
-## 5. Admission Selection Criteria & Expected Cutoffs 2027
-
-Admission to **[IIM Indore](/colleges/iim-indore/)** is conducted through a multi-stage evaluation process:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Appear for accepted tests (**CAT**) and achieve the minimum qualifying percentile/score.
-2.  **Application Submission:** Fill out the institutional application form on the official website before the deadline.
-3.  **Profile Shortlisting:** Shortlisting based on entrance scores, academic track record (10th, 12th, graduation), and diversity factors.
-4.  **GD-PI-WAT Assessment:** Shortlisted applicants undergo Written Ability Test (WAT) / Group Discussion (GD) followed by a comprehensive Personal Interview (PI).
-5.  **Final Merit List Generation:** Composite score calculation based on entrance test (35–45%), PI/WAT performance (30–40%), academics (15–20%), and work experience (5–10%).
-
-### Cutoff Overview
-*   **Target Entrance Score:** **97.0+ CAT %ile**
-*   **Profile-Based Shortlisting:** Candidates with exceptional academic diversity, sports/cultural achievements at the national level, or 2+ years of relevant corporate experience may receive relaxed cutoff considerations.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **[IIM Indore](/colleges/iim-indore/)** stands when compared against peer management institutions:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **[IIM Indore](/colleges/iim-indore/)** | **₹21.00 Lakhs (Total)** | **₹30.21 LPA** | **CAT** (97.0+ CAT %ile) |
-| **Tier-1 Benchmark B-Schools** | ₹22.0L – ₹28.0L | ₹24.0L – ₹34.0L | CAT / XAT / NMAT / SNAP (95%+ %ile) |
-| **Tier-2 Quality B-Schools** | ₹12.0L – ₹18.0L | ₹10.0L – ₹14.5L | CAT / XAT / CMAT / MAT (75%+ %ile) |
+| **Tuition & Courseware Facility Fee** | ₹7,50,000 | ₹7,50,000 | ₹15,00,000 |
+| **Hostel & Residential Amenities** | ₹2,25,000 | ₹2,25,000 | ₹4,50,000 |
+| **IT Infrastructure, Health & Alumni Fund** | ₹80,000 | ₹80,000 | ₹1,60,000 |
+| **Total Program Fee** | **₹10,55,000** | **₹10,55,000** | **₹21.10 Lakhs** *(Avg Track)* |
+
+### Financial Assistance & Scholarships
+- **Need-Based Financial Assistance (NBFA)**: Up to 100% tuition waivers for admitted students with annual family income below ₹4.5 Lakhs.
+- **SBI Scholar Loan Scheme**: 100% collateral-free education loans covering full tuition, living expenses, and laptop at concessional interest rates.
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 IIM Indore Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Air-conditioned amphitheatres equipped with high-definition audio-visual systems and interactive smart boards.
-*   **Digital Knowledge Centers:** Subscription access to Bloomberg Terminals, Harvard Business Publishing, EBSCO, and ScienceDirect.
-*   **Residential & Recreational Amenities:** Modern hostels, multi-cuisine dining facilities, gymnasium, sports grounds, and medical assistance.
-*   **Student Committees:** Student-led clubs organizing annual management conclaves, cultural fests, case study competitions, and corporate guest lectures.
+**IIM Indore maintains consistent campus recruitment across strategy consulting, corporate banking, consumer retail, and technology leadership.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join IIMI?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹1.14 Crore
+├── Top 25% Batch Average: ₹38.50 LPA
+├── Top 50% Batch Average: ₹30.00 LPA
+├── Overall Batch Average CTC: ₹25.68 – ₹30.21 LPA
+└── Overall Median CTC: ₹24.50 – ₹27.20 LPA
+```
 
-### Key Strengths (Pros)
-*   **Triple Crown accredited with massive 193-acre campus in India's cleanest city**
-*   **Exceptional FMCG, BFSI, and Big 4 consulting recruitment**
-*   **Diverse student body with strong peer learning from IPM and PGP cohorts**
+### Domain-Wise Placement Statistics
 
-### Points to Consider (Cons)
-*   Large batch size (~600 students across PGP + IPM) increases placement competition
-*   Very high weightage to 10th and 12th board marks in composite score
+| Sector / Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **Management Consulting & Advisory** | ₹29.50 LPA | Management Consultant, Associate Principal, Strategy Lead |
+| **Banking, Financial Services & FinTech** | ₹28.20 LPA | Equity Analyst, Investment Banking Associate, Risk Trainee |
+| **General Management & Leadership** | ₹26.50 LPA | Leadership Associate, Executive Assistant to CEO |
+| **FMCG, Marketing & Retail** | ₹25.00 LPA | Brand Manager, Territory Sales Manager, Category Lead |
+| **Product Management & IT Systems** | ₹26.80 LPA | Product Manager, Business Technology Consultant |
 
-### Who Should Apply?
-Candidates with stellar 10th and 12th board scores (90%+) and 97+ CAT percentile targeting FMCG, Consulting, and Corporate Banking.
+### Prominent Recruiters at IIM Indore
 
-### Who Should Avoid?
-Aspirants with low high-school board percentages (<80%).
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at IIM Indore?
-The verified average placement package at **IIM Indore** is **₹30.21 LPA**, with top quartile students securing offers up to **₹1.14 Crore**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**IIM Indore** accepts scores from **CAT** for shortlisting candidates for its 2-year full-time management programs.
-
-### Q3. What is the total tuition fee at IIM Indore?
-The total course fee is approximately **₹21.00 Lakhs (Total)** for the 2-year curriculum. Additional expenses apply for hostel accommodation and mess facilities.
-
-### Q4. Does IIM Indore provide merit scholarships or loan assistance?
-Yes, **IIM Indore** offers merit scholarships for top entrance scorers and has established tie-ups with leading commercial banks for collateral-free education loans.
+- **Strategy Consulting**: Boston Consulting Group (BCG), McKinsey & Company, Bain & Company, Deloitte, PwC, EY, KPMG, Kearney.
+- **Banking & Markets**: Goldman Sachs, JPMorgan Chase, Deutsche Bank, Morgan Stanley, ICICI Bank, HDFC Bank, Axis Bank.
+- **Conglomerates & Tech**: Tata Administrative Services (TAS), Aditya Birla Group, HUL, ITC, Amazon, Microsoft, Procter & Gamble.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 IIM Indore Selection Criteria & CAT Cutoff 2027
 
-*   [Top Tier MBA Colleges 2027: Compare Fees, Cutoffs & Placements](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Free National Entrance Exam CBT Mock Tests](/mock-tests/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
+IIM Indore follows a unique Composite Score (CS) methodology for PI shortlisting that heavily favors past school academics:
+
+### Shortlisting Weightage Matrix (Stage 1: Pre-Interview)
+
+| Evaluation Parameter | Weightage in Stage 1 Shortlist (%) |
+| :--- | :--- |
+| **Class 10th Board Marks (Score normalized)** | **34%** |
+| **Class 12th Board Marks (Score normalized)** | **40%** |
+| **Common Admission Test (CAT) Score** | **20%** |
+| **Gender Diversity Factor (Female Candidates)** | **6%** |
+
+### Minimum Sectional Cutoff Table (Qualifying Only)
+
+| Category | VARC %ile | DILR %ile | QA %ile | Overall %ile |
+| :--- | :--- | :--- | :--- | :--- |
+| **General / EWS** | 80 | 80 | 80 | **90** |
+| **NC-OBC** | 70 | 70 | 70 | **80** |
+| **SC** | 55 | 55 | 55 | **60** |
+| **ST / PwD** | 45 | 45 | 45 | **50** |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Final Merit List Weightage Breakdown (Stage 2: Post-Interview)
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+| Evaluation Component | Final Weightage (%) |
+| :--- | :--- |
+| **Personal Interview (PI) Performance** | **40%** |
+| **Class 10th Academic Score** | **10%** |
+| **Class 12th Academic Score** | **10%** |
+| **Common Admission Test (CAT) Score** | **30%** |
+| **Gender Diversity Factor** | **10%** |
 
 ---
+
+## ⚖️ IIM Indore vs Top IIMs: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **IIM Indore (IIMI)** | **₹21.10 Lakhs** | **₹25.68 – ₹30.21 LPA** | **₹24.50 LPA** | Indore, MP |
+| **IIM Lucknow (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Lucknow, UP |
+| **IIM Kozhikode (IIMK)** | ₹20.50 Lakhs | ₹28.05 LPA | ₹27.00 LPA | Kozhikode, Kerala |
+| **IIM Calcutta (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.60 LPA | Joka, Kolkata |
+| **FMS Delhi** | ₹2.00 Lakhs | ₹34.10 LPA | ₹31.00 LPA | North Campus, Delhi |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "IIM Indore is the golden opportunity for candidates with stellar academic records in Class 10 and 12 (90%+ marks). With Triple Crown global accreditation and audited average packages of ₹25–30 LPA, a strong academic profile can help you convert an IIM Indore seat even with a CAT percentile around 97–98."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for the PGP (MBA) at IIM Indore?
+The total 2-year fee for the PGP (MBA) program at IIM Indore is approximately **₹21.00 Lakhs to ₹21.50 Lakhs**, payable in term installments.
+
+### 2. What is the average placement package at IIM Indore?
+IIM Indore recorded an **average domestic package of ₹25.68 to ₹30.21 LPA**, with top 25% students securing **₹38.50 LPA** and a peak domestic offer of **₹1.14 Crore**.
+
+### 3. Why does IIM Indore give so much weightage to 10th and 12th marks?
+IIM Indore allocates 34% weightage to Class 10 and 40% to Class 12 marks to identify candidates with demonstrated long-term academic discipline and consistency.
+
+### 4. What CAT percentile is required for an interview call at IIM Indore?
+Candidates with 90%+ in both 10th and 12th can receive shortlist calls around **96.5 to 98.0 percentile**. Candidates with lower school marks require **99.3+ percentile**.
+
+### 5. What are the key programs offered by IIM Indore?
+IIM Indore offers the 2-Year PGP (MBA), 5-Year Integrated Programme in Management (IPM), PGP-HRM, and Executive PGP (EPGP).
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official IIM Indore Placement Reports, IIMI Admission Policy Gazette, and NIRF Ranking Portal.*

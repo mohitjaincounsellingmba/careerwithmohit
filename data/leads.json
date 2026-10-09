@@ -1,5 +1,29 @@
 [
   {
+    "id": "lead_1791554086615_qy77un",
+    "name": "Rahul Sharma",
+    "number": "9876543210",
+    "phone": "9876543210",
+    "email": "rahul.sharma@example.com",
+    "location": "Delhi NCR",
+    "source": "Inquiry - Face-to-Face Google Meet Booking",
+    "category": "booking",
+    "course": "MBA / PGDM",
+    "college": "",
+    "slot": "",
+    "details": {
+      "sessionType": "1-on-1 Face-to-Face Video (30 Mins)",
+      "course": "MBA / PGDM",
+      "targetExam": "CAT",
+      "budget": "₹10 - 15 Lakhs",
+      "location": "Delhi NCR",
+      "parentsAttending": "Yes"
+    },
+    "status": "New",
+    "notes": [],
+    "timestamp": "2026-10-09T13:54:46.615Z"
+  },
+  {
     "id": "lead_1791291116399_pgrm1d",
     "name": "Aarav Sharma",
     "number": "9876543210",

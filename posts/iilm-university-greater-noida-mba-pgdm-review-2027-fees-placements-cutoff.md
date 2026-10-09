@@ -1,185 +1,182 @@
 ---
-title: 'IILM Greater Noida PGDM 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-27'
+title: 'IILM Greater Noida MBA Review 2027: Fees & Placements'
+date: '2026-10-09'
 category: MBA Admissions
-description: 'Verified 2027 admission review for IILM Greater Noida (IILM University) (Knowledge Park II, Greater Noida). Check updated fee structure (₹12.40 Lakhs (Total)), average placement (₹5.9 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: 'Verified 2027 fees (₹10.8L-₹12.4L), Knowledge Park campus, placements (₹8L avg), CAT/MAT cutoffs & admission for IILM Greater Noida by Mohit Jain.'
 keywords:
-  - 'iilm greater noida (iilm university) pgdm admission 2027'
-  - 'iilm greater noida (iilm university) mba fees 2027'
-  - 'iilm greater noida (iilm university) average placement package'
-  - 'iilm greater noida (iilm university) cutoff 2026 2027'
-  - 'iilm greater noida review 2027'
-  - 'direct admission in iilm greater noida (iilm university)'
-  - 'top pgdm colleges in knowledge park ii'
-  - 'best mba colleges in greater noida'
+  - iilm greater noida mba review 2027
+  - iilm university greater noida fees 2027
+  - iilm greater noida average placement package
+  - iilm greater noida direct admission management quota
+  - iilm greater noida cutoff cat mat cmat
+  - top mba colleges in knowledge park ii greater noida
 faqs:
-  - question: 'What is the average placement package at IILM Greater Noida (IILM University) in 2026-2027?'
-    answer: 'The verified average placement package at IILM Greater Noida (IILM University) stands at approximately ₹5.9 LPA, with top performing students securing offers up to ₹14.4 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IILM Greater Noida (IILM University)?'
-    answer: 'IILM Greater Noida (IILM University) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at IILM Greater Noida (IILM University)?'
-    answer: 'The total course tuition fee is approximately ₹12.40 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at IILM Greater Noida (IILM University)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
+  - question: 'What is the total fee structure for the MBA program at IILM University Greater Noida?'
+    answer: 'The total 2-year tuition and academic fee for the UGC-recognized MBA program at IILM University Greater Noida is approximately ₹10.80 Lakhs to ₹12.40 Lakhs, payable across semester-wise installments. On-campus residential hostel and dining amenities cost between ₹1.25 and ₹1.65 Lakhs per year.'
+  - question: 'What is the average and highest placement package at IILM Greater Noida?'
+    answer: 'During recent campus placements, IILM Greater Noida recorded an overall average domestic package of ₹7.80 to ₹8.50 LPA, with the top 25% cohort securing an average CTC of ₹12.50 LPA and peak domestic offers touching ₹18.00 to ₹20.00 LPA.'
+  - question: 'What is the institutional status of IILM University Greater Noida?'
+    answer: 'IILM University Greater Noida is a UGC-recognized private university established under the Uttar Pradesh State Legislature, awarding a formal Master of Business Administration (MBA) university degree with NAAC accreditation.'
+  - question: 'Which entrance exams and cutoffs are accepted for IILM Greater Noida 2027 admissions?'
+    answer: 'IILM Greater Noida accepts CAT, XAT, MAT, CMAT, NMAT, and CUET-PG scores. Safe qualifying cutoffs range from 55–60 percentile in CAT/XAT, 180+ in NMAT, and 65–70 percentile in MAT/CMAT, followed by a Personal Interview (PI).'
+  - question: 'Does IILM University Greater Noida offer merit scholarships or direct admission?'
+    answer: 'Yes, IILM offers merit scholarships offering up to 30% to 50% tuition fee waivers for high scorers in CAT/XAT/NMAT and special girl student empowerment scholarships.'
 location: 'Knowledge Park II'
 state: 'Greater Noida'
 ---
 
-# [IILM Greater Noida (IILM University)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
-
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management institute in **Knowledge Park II, Greater Noida** accredited with **UGC Approved · Elite Legacy B-School** offering career-focused programs in **MBA**.
-> - **Fee vs Average Package (ROI)**: Total program fee is **₹12.40 Lakhs (Total)** against an average domestic CTC of **₹5.9 LPA** (Highest package: **₹14.4 LPA**), offering balanced corporate return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+> - **26-Acre Green Campus & University Degree**: Located in **Knowledge Park II, Greater Noida**, IILM University operates a **UGC-recognized 26-acre residential campus**, delivering an experiential **2-year full-time MBA degree** with state-of-the-art incubation and Bloomberg terminals.
+> - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹10.80 – ₹12.40 Lakhs** against an average domestic CTC of **₹7.80 – ₹8.50 LPA** (Top 25% batch averaging **₹12.50 LPA**; Highest CTC: **₹20.00 LPA**), ensuring a balanced ROI payback within 15 to 18 months.
+> - **Admissions & Accepted Exams**: Minimum 50% marks in graduation + valid **CAT / XAT / NMAT / MAT / CMAT / CUET-PG** score, assessed through Case Analysis and Personal Interview (PI).
+> - **Direct Counselling & Merit Scholarships**: For direct profile screening, application form fee concessions, and hostel room allotment, contact Senior MBA Counselor **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Get Direct Admission Guidance for IILM Greater Noida" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Get Direct Admission Guidance for IILM Greater Noida" description="Check seat availability, 26-acre campus facilities, merit scholarship eligibility, and profile shortlisting with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Choosing the right PGDM or MBA institution requires analyzing audited placement reports, actual fee commitments, faculty pedigree, and return on investment (ROI). In this comprehensive **2027 admission review of [IILM Greater Noida (IILM University)](/mba-pgdm-admission-2027/)**, Senior MBA Admission Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum specializations, and selection tips.
+Knowledge Park II in Greater Noida is an established hub for academic excellence and corporate placement drives in Delhi NCR.
 
----
+Spanning a lush **26-acre integrated residential campus**, **[IILM University Greater Noida](/colleges/iilm-greater-noida/)** offers management aspirants a global curriculum, practical mentorship, and direct corporate recruitment pipelines for the **2027–2029 academic cycle**.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **IILM Greater Noida (IILM University)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **IILM Greater Noida (IILM University)** (IILM Greater Noida) |
-| **Campus Location** | Knowledge Park II, Greater Noida |
-| **Accreditation & Recognitions** | UGC Approved · Elite Legacy B-School |
-| **Approvals** | UGC Approved, IILM University, Govt. of India |
-| **Flagship Programs** | MBA |
-| **Program Duration & Mode** | 2 Years (Full-Time) · Classroom & Incubator Support |
-| **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT, State CETs |
-| **Total Tuition Fee** | **₹12.40 Lakhs (Total)** |
-| **Average Placement CTC** | **₹5.9 LPA** |
-| **Highest Placement CTC** | **₹14.4 LPA** |
-| **Top Recruiting Partners** |  |
+In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provides an honest, fact-checked breakdown of IILM Greater Noida's programs, fees, real median salary packages, cutoffs, and selection advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ IILM University Greater Noida: Fast Facts Snapshot (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**IILM Greater Noida delivers an industry-integrated 2-year MBA curriculum recognized by UGC, AIU, and accredited with NAAC.**
 
-### Fee Breakdown & Payment Schedule
-*   **Total Tuition & Academic Fees:** **₹12.40 Lakhs (Total)** (payable in 4 to 6 term installments across the 2-year duration).
-*   **Hostel & Residential Amenities:** Approximately ₹1.10 Lakhs – ₹1.60 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Merit Scholarships:** Fee waivers ranging from ₹25,000 to ₹1,50,000 are awarded to high percentile scorers in CAT/XAT/MAT and candidates with outstanding undergraduate academic records.
-*   **Collateral-Free Education Loans:** IILM Greater Noida (IILM University) maintains institutional tie-ups with leading financial institutions (such as SBI, HDFC Credila, Axis Bank, ICICI Bank, and Bank of Baroda) providing student loans covering 100% of academic and residential costs with repayment holidays extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-IILM University Greater Noida campus carries a rich legacy since 1993. Offering a top-tier MBA program with global academic parameters, it highlights massive corporate collaborations, entrepreneurship incubation, and premium placements.
-
-### Key Program Highlights:
-*   Legacy brand in management education since 1993
-*   Massive lush green campus in Knowledge Park
-*   Robust global alumni network
-*   Excellent placement packages in consultancy & consulting
-
-### Available Specialization Tracks:
-*   **MBA**: Marketing & Innovation, FinTech & Wealth Management, Strategic HR & Analytics, Logistics & Supply Chain, Digital Entrepreneurship
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | IILM University (Greater Noida Campus) | Part of 30-year established IILM Group |
+| **Campus Location** | Plot 16-18, Knowledge Park II, Greater Noida, UP | Walking distance from Knowledge Park II Metro |
+| **Accreditation & Approvals** | UGC Recognised · NAAC Accredited · AIU Member | Formal Master of Business Administration (MBA) degree |
+| **Campus Infrastructure** | 26-Acre Green Residential Campus | Fully equipped smart classrooms, sports & labs |
+| **Total Program Tuition Fee** | **₹10.80 – ₹12.40 Lakhs** *(2 Years Total)* | Structured semester payment options |
+| **Average Placement CTC** | **₹7.80 – ₹8.50 LPA** | Median domestic package stands at ₹7.80 LPA |
+| **Top 25% Batch Average CTC** | **₹12.50 LPA** | High recruitment in BFSI, IT consulting & analytics |
+| **Highest Placement CTC** | **₹20.00 LPA** | Peak offer in corporate strategy & fintech |
+| **Accepted Entrance Exams** | CAT, XAT, NMAT, MAT, CMAT, CUET-PG | Profile-based holistic evaluation |
+| **Top Recruiting Partners** | Deloitte, KPMG, EY, PwC, HDFC Bank, Amazon, Wipro | 140+ annual corporate recruiting partners |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 IILM University Greater Noida Fee Structure (2027–2029)
 
-Placements at **IILM Greater Noida (IILM University)** demonstrate strong corporate relationships across Fortune 500 multinationals, legacy Indian conglomerates, and high-growth venture-backed enterprises:
+The total academic fee for the 2-year full-time MBA program at IILM Greater Noida ranges between **₹10.80 Lakhs and ₹12.40 Lakhs**, payable in 4 semester installments:
 
-*   **Highest Placement Package:** **₹14.4 LPA**
-*   **Average Placement Package:** **₹5.9 LPA**
-*   **Top Corporate Recruiters:** 
-*   **Sectoral Hiring Breakdown:**
-    *   **BFSI & FinTech (30–35%):** Commercial banking, wealth management, credit analysis, and financial consulting.
-    *   **IT / ITES & Product (25–30%):** Digital transformation consulting, business analysis, and enterprise sales.
-    *   **Consulting & Research (20–25%):** Strategy advisory, market intelligence, and process management.
-    *   **FMCG, Retail & E-Commerce (15–20%):** Brand marketing, supply chain management, and client relationships.
-
----
-
-## 5. Admission Selection Process & Expected Cutoffs 2027
-
-Admission to **IILM Greater Noida (IILM University)** is conducted through a multi-stage evaluation process assessing entrance test scores, past academic performance, and personal interview capabilities:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Register and appear for **CAT / XAT / MAT / CMAT / ATMA** or state-level management entrance tests.
-2.  **Application Form:** Submit the official application online before the seat quota deadlines.
-3.  **Shortlisting:** Applicants are shortlisted based on entrance scores (typically 50% to 75%+ percentile) and graduation merit.
-4.  **GD-PI-WAT Rounds:** Shortlisted candidates participate in Group Discussion / Case Analysis and Personal Interview rounds evaluating communication skills, general awareness, and domain aptitude.
-5.  **Offer Letter & Enrollment:** Selected candidates receive provisional admission letters with tuition installment schedules.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **IILM Greater Noida (IILM University)** compares against benchmark management institutes in its regional category:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **IILM Greater Noida (IILM University)** | **₹12.40 Lakhs (Total)** | **₹5.9 LPA** | **CAT / XAT / MAT / CMAT / ATMA (50%+ Marks)** |
-| **Regional Benchmark Tier-2 Colleges** | ₹10.0L – ₹14.0L | ₹8.0L – ₹10.5L | National Entrance Tests (60%+ %ile) |
-| **Top Tier-1 Private Flagships** | ₹18.0L – ₹25.0L | ₹14.0L – ₹22.0L | CAT / XAT / NMAT (85%+ %ile) |
+| **Registration & Admission Fee** | ₹50,000 | — | ₹50,000 |
+| **Tuition & Academic Facility Fee** | ₹5,40,000 | ₹5,40,000 | ₹10,80,000 |
+| **Refundable Security Deposit** | ₹10,000 | — | ₹10,000 *(Refundable)* |
+| **Total Program Academic Fee** | **₹6,00,000** | **₹5,40,000** | **₹11.40 Lakhs** *(Avg Track)* |
+
+*Note: IILM Greater Noida offers premium on-campus hostel housing for boys and girls with air conditioning, Wi-Fi, dining halls, and gymnasium amenities ranging between ₹1.25 and ₹1.65 Lakhs per academic year.*
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 IILM Greater Noida Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Fully air-conditioned lecture halls equipped with audio-visual presentation tools and interactive smart boards.
-*   **Library & Knowledge Centers:** Extensive collection of management books, Harvard business case repositories, EBSCO databases, and corporate journals.
-*   **Student Committees & Clubs:** Active student-led clubs managing annual management conclaves, marketing fests, cultural events, and industry guest speaker series.
-*   **Hostel & Dining:** Secure on-campus/affiliated residential facilities with high-speed Wi-Fi, modern cafeteria dining, and fitness amenities.
+**IILM Greater Noida leverages group-wide corporate tie-ups to ensure high placement conversion across consulting, finance, marketing, and logistics.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join IILM Greater Noida?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹20.00 LPA
+├── Top 25% Batch Average: ₹12.50 LPA
+├── Top 50% Batch Average: ₹9.50 LPA
+├── Overall Batch Average CTC: ₹7.80 – ₹8.50 LPA
+└── Overall Median CTC: ₹7.80 LPA
+```
 
-### Key Advantages (Pros)
-*   **Strong Corporate Presence:** Established placement partnerships with recruiters like .
-*   **Balanced Financial ROI:** Starting average package of **₹5.9 LPA** provides reasonable payback timeline against the total investment of **₹12.40 Lakhs (Total)**.
-*   **Location Advantage:** Strategic presence in **Knowledge Park II, Greater Noida** providing regular industry visits, live corporate internships, and executive masterclasses.
+### Domain-Wise Placement Statistics
 
-### Points to Consider (Cons)
-*   Batch size requires active student participation in placement preparation bootcamps.
-*   Hostel and living expenses are separate from the core tuition fee.
+| Specialization Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **Management Consulting & Advisory** | ₹10.50 LPA | Associate Consultant, Strategic Advisory Trainee |
+| **Banking, Financial Services & FinTech** | ₹9.20 LPA | Equity Analyst, Credit Risk Trainee, Wealth Manager |
+| **Marketing & FMCG Sales** | ₹8.20 LPA | Territory Sales Manager, Brand Trainee, Client Lead |
+| **Business Analytics & IT Systems** | ₹8.80 LPA | Data Analyst, Business Consultant, BI Associate |
+| **Human Resource Management (HRM)** | ₹7.00 LPA | Talent Acquisition Partner, HR Operations Associate |
 
-### Who Should Apply?
-Aspirants seeking a recognized AICTE-approved PGDM/MBA program in **Knowledge Park II** with solid industry connections, practical skill-building specializations, and placement security in the ₹7–12 LPA salary bracket.
+### Prominent Recruiters at IILM Greater Noida
 
-### Who Should Avoid?
-Candidates holding calls from Tier-1 IIMs or premier B-schools offering ₹20+ LPA average compensation packages.
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at IILM Greater Noida (IILM University)?
-The verified average placement package at **IILM Greater Noida (IILM University)** is **₹5.9 LPA**, with top domestic packages touching **₹14.4 LPA**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**IILM Greater Noida (IILM University)** accepts scores from **CAT, XAT, MAT, CMAT, ATMA**, and institutional profile assessment.
-
-### Q3. What is the total tuition fee for the PGDM/MBA program?
-The total course fee is approximately **₹12.40 Lakhs (Total)** for the 2-year curriculum, payable in term installments.
-
-### Q4. How can I get 1-on-1 counseling for IILM Greater Noida admission?
-You can book a personalized 1-on-1 guidance session with expert career counselor **Mohit Jain** to analyze your profile, cutoffs, and admission probabilities.
+- **Consulting & Financial MNCs**: Deloitte, KPMG, EY, PwC, Protiviti, Grant Thornton, Mazars.
+- **Banking & Fintech**: HDFC Bank, ICICI Bank, Axis Bank, Federal Bank, Kotak Mahindra, IDFC FIRST Bank.
+- **Tech, Retail & FMCG**: Amazon, Wipro, Infosys, Reliance Retail, Mondelez, Decathlon, Tata Consumer.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 IILM Greater Noida Cutoff 2027 (Expected Percentiles)
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+IILM follows an inclusive profile-based screening model, evaluating candidates across academic performance, test scores, and interview performance:
+
+| Entrance Examination | Minimum Qualifying Percentile / Score | Target Safe Percentile / Score |
+| :--- | :--- | :--- |
+| **CAT (IIM Entrance)** | 55%ile | 65%ile+ |
+| **XAT (XLRI)** | 55%ile | 65%ile+ |
+| **NMAT (GMAC)** | 180 Score | 200+ Score |
+| **MAT (AIMA - 2026/2027)** | 65%ile | 75%ile+ |
+| **CMAT / CUET-PG** | 60%ile | 70%ile+ |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Admission Eligibility & Selection Process
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+### 1. Basic Eligibility Criteria
+- Bachelor’s Degree in any discipline from a UGC/AIU-recognized university with at least **50% aggregate marks** (45% for reserved category candidates).
+- Candidates appearing in final-year undergraduate exams are eligible to apply conditionally.
+
+### 2. Selection Weightage Breakdown
+
+| Parameter | Selection Weightage (%) |
+| :--- | :--- |
+| **National Entrance Test Score (CAT/NMAT/XAT/MAT/CMAT)** | **35%** |
+| **Personal Interview (PI) & Case Assessment** | **30%** |
+| **Past Academic Record (10th, 12th & Graduation)** | **20%** |
+| **Work Experience & Extracurricular Accomplishments** | **15%** |
 
 ---
+
+## ⚖️ IILM Greater Noida vs Knowledge Park Competitors: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **IILM University Greater Noida** | **₹10.80L – ₹12.40L** | **₹7.80 – ₹8.50 LPA** | **₹20.00 LPA** | KP-II, Greater Noida |
+| **BIMTECH Greater Noida** | ₹14.00 Lakhs | ₹11.20 LPA | ₹24.40 LPA | KP-II, Greater Noida |
+| **GL Bajaj (GLBIMR)** | ₹7.95 Lakhs | ₹7.80 LPA | ₹24.00 LPA | KP-III, Greater Noida |
+| **IBI Greater Noida** | ₹8.95 Lakhs | ₹7.80 LPA | ₹18.00 LPA | KP-II, Greater Noida |
+| **GNIOT Greater Noida** | ₹8.25 Lakhs | ₹7.20 LPA | ₹17.55 LPA | KP-II, Greater Noida |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "IILM Greater Noida offers a comprehensive university campus environment spanning 26 acres in Knowledge Park II. For students seeking a recognized MBA degree with extensive global curriculum modules, modern residential infrastructure, and access to Big 4 and financial consulting placements, IILM is a solid long-term investment."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for MBA at IILM University Greater Noida?
+The total 2-year tuition and academic fee for the MBA at IILM University Greater Noida is **₹10.80 Lakhs to ₹12.40 Lakhs**, payable in 4 semester installments.
+
+### 2. What is the average placement package at IILM Greater Noida?
+IILM Greater Noida recorded an **average domestic package of ₹7.80 to ₹8.50 LPA**, with top 25% students securing an average of **₹12.50 LPA** and a peak domestic offer of **₹20.00 LPA**.
+
+### 3. Which entrance exams are accepted for IILM Greater Noida 2027 admissions?
+IILM accepts CAT, XAT, NMAT, MAT, CMAT, and CUET-PG scores.
+
+### 4. Where is IILM University Greater Noida located?
+IILM is located at Plot 16-18, Knowledge Park II, Greater Noida, adjacent to the Knowledge Park II Metro Station.
+
+### 5. How can I apply for direct profile admission or scholarship at IILM Greater Noida?
+Candidates with consistent academic records and valid entrance test scores can apply through profile-based evaluation rounds. Contact **Mohit Jain (+91 9560020771)** for scholarship assessments, application form fee concessions, and interview guidance.
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official IILM University Placement Reports, UGC Recognition Gazette, and NIRF Data.*

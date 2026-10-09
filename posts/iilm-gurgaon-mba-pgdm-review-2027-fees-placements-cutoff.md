@@ -1,185 +1,182 @@
 ---
-title: 'IILM University PGDM 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-27'
+title: 'IILM Gurgaon MBA Review 2027: Fees, Cutoff & Placements'
+date: '2026-10-09'
 category: MBA Admissions
-description: 'Verified 2027 admission review for IILM University (Gurugram Campus) (Sector 53, Gurugram). Check updated fee structure (₹12.90 Lakhs (Total)), average placement (₹8.6 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: 'Verified 2027 fees (₹11.5L-₹12.9L), Golf Course Road campus, placements (₹8.6L avg), CAT/NMAT cutoffs & admission for IILM Gurugram by Mohit Jain.'
 keywords:
-  - 'iilm university (gurugram campus) pgdm admission 2027'
-  - 'iilm university (gurugram campus) mba fees 2027'
-  - 'iilm university (gurugram campus) average placement package'
-  - 'iilm university (gurugram campus) cutoff 2026 2027'
-  - 'iilm university review 2027'
-  - 'direct admission in iilm university (gurugram campus)'
-  - 'top pgdm colleges in sector 53'
-  - 'best mba colleges in gurugram'
+  - iilm university gurgaon mba review 2027
+  - iilm gurgaon mba fees 2027
+  - iilm gurugram average placement package
+  - iilm golf course road direct admission
+  - iilm mba cutoff cat nmat mat cmat
+  - top mba colleges in golf course road gurugram
 faqs:
-  - question: 'What is the average placement package at IILM University (Gurugram Campus) in 2026-2027?'
-    answer: 'The verified average placement package at IILM University (Gurugram Campus) stands at approximately ₹8.6 LPA, with top performing students securing offers up to ₹26.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at IILM University (Gurugram Campus)?'
-    answer: 'IILM University (Gurugram Campus) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at IILM University (Gurugram Campus)?'
-    answer: 'The total course tuition fee is approximately ₹12.90 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at IILM University (Gurugram Campus)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
+  - question: 'What is the total fee structure for the MBA program at IILM University Gurugram?'
+    answer: 'The total 2-year tuition and academic fee for the UGC-recognized MBA program at IILM University Gurugram is approximately ₹11.50 Lakhs to ₹12.90 Lakhs, payable in semester-wise installments. On-campus residential hostel and dining amenities range between ₹1.50 and ₹2.00 Lakhs annually.'
+  - question: 'What is the average and highest placement package at IILM University Gurugram?'
+    answer: 'During recent campus placements, IILM University recorded an average domestic package of ₹8.60 to ₹9.50 LPA, with the top 25% cohort securing an average CTC of ₹14.20 LPA and peak domestic offers reaching ₹20.00 to ₹26.00 LPA.'
+  - question: 'What are the unique specializations offered in IILM University MBA?'
+    answer: 'IILM University offers contemporary MBA specializations in Business Analytics, Financial Technology (FinTech), Marketing & Innovation, Human Resource Management, and Entrepreneurship & Venture Development.'
+  - question: 'Which entrance exams and cutoffs are accepted for IILM Gurgaon 2027 admissions?'
+    answer: 'IILM University accepts CAT, XAT, MAT, CMAT, NMAT, GMAT, and CUET-PG scores. Safe qualifying cutoffs range between 60–65 percentile in CAT/XAT, 190+ score in NMAT, and 70–75 percentile in MAT/CMAT, followed by a Personal Interview (PI).'
+  - question: 'Does IILM University Gurugram offer merit scholarships or direct admission?'
+    answer: 'Yes, IILM University offers merit-based scholarships providing up to 40% tuition fee waivers for high scorers in CAT/XAT (75%+ percentile) or NMAT (200+ score) alongside female student leadership awards.'
 location: 'Sector 53'
 state: 'Gurugram'
 ---
 
-# [IILM University (Gurugram Campus)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
-
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management institute in **Sector 53, Gurugram** accredited with **UGC Approved · Prime Golf Course Road Zone** offering career-focused programs in **MBA**.
-> - **Fee vs Average Package (ROI)**: Total program fee is **₹12.90 Lakhs (Total)** against an average domestic CTC of **₹8.6 LPA** (Highest package: **₹26.0 LPA**), offering balanced corporate return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+> - **Prime Corporate Corridor & Global Pedagogy**: Located on **Golf Course Road (Sector 53), Gurugram**, IILM University is a **UGC-recognized, NAAC-accredited university** delivering an experiential 2-year full-time MBA backed by SAQS international accreditation and liberal education principles.
+> - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹11.50 – ₹12.90 Lakhs** against an average domestic CTC of **₹8.60 – ₹9.50 LPA** (Top 25% batch averaging **₹14.20 LPA**; Highest CTC: **₹26.00 LPA**), delivering a balanced ROI payback within 15 to 18 months.
+> - **Admissions & Accepted Exams**: Minimum 50% marks in graduation + valid **CAT / XAT / NMAT / MAT / CMAT / GMAT / CUET-PG** score, assessed through Case Analysis and Personal Interview (PI).
+> - **Direct Counselling & Merit Scholarships**: For direct profile screening, application form discounts, and scholarship assessments, contact Senior MBA Counselor **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Get Direct Admission Guidance for IILM University" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Get Direct Admission Guidance for IILM University Gurugram" description="Check seat availability, Golf Course Road campus details, merit scholarship eligibility, and profile shortlisting with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Choosing the right PGDM or MBA institution requires analyzing audited placement reports, actual fee commitments, faculty pedigree, and return on investment (ROI). In this comprehensive **2027 admission review of [IILM University (Gurugram Campus)](/mba-pgdm-admission-2027/)**, Senior MBA Admission Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum specializations, and selection tips.
+Gurugram's Golf Course Road is synonymous with high-end corporate headquarters, global consulting centers, and financial institutions.
 
----
+Positioned right along this prime boulevard, **[IILM University Gurugram](/colleges/iilm-gurgaon/)** provides management aspirants with direct corporate immersion, executive guest lectures, and high-impact internship pathways for the **2027–2029 academic cycle**.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **IILM University (Gurugram Campus)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **IILM University (Gurugram Campus)** (IILM University) |
-| **Campus Location** | Sector 53, Gurugram |
-| **Accreditation & Recognitions** | UGC Approved · Prime Golf Course Road Zone |
-| **Approvals** | UGC Approved, IILM University |
-| **Flagship Programs** | MBA |
-| **Program Duration & Mode** | 2 Years (Full-Time) · Classroom & Mentorship Support |
-| **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT, State CETs |
-| **Total Tuition Fee** | **₹12.90 Lakhs (Total)** |
-| **Average Placement CTC** | **₹8.6 LPA** |
-| **Highest Placement CTC** | **₹26.0 LPA** |
-| **Top Recruiting Partners** | Deloitte, KPMG, EY, Wipro, HDFC Bank, Zomato, Loreal, PwC |
+In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provides an honest, fact-checked breakdown of IILM University's programs, fees, real median salary packages, cutoffs, and selection advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ IILM University Gurugram: Fast Facts Snapshot (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**IILM delivers a global, liberal-arts-integrated 2-year MBA curriculum recognized by UGC, AIU, and accredited with NAAC and SAQS.**
 
-### Fee Breakdown & Payment Schedule
-*   **Total Tuition & Academic Fees:** **₹12.90 Lakhs (Total)** (payable in 4 to 6 term installments across the 2-year duration).
-*   **Hostel & Residential Amenities:** Approximately ₹1.10 Lakhs – ₹1.60 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Merit Scholarships:** Fee waivers ranging from ₹25,000 to ₹1,50,000 are awarded to high percentile scorers in CAT/XAT/MAT and candidates with outstanding undergraduate academic records.
-*   **Collateral-Free Education Loans:** IILM University (Gurugram Campus) maintains institutional tie-ups with leading financial institutions (such as SBI, HDFC Credila, Axis Bank, ICICI Bank, and Bank of Baroda) providing student loans covering 100% of academic and residential costs with repayment holidays extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-IILM University Sector 53 Gurugram campus is situated on the Golf Course Road. Offering a highly structured MBA program, IILM Gurugram highlights a liberal education model, strong internship programs, and prominent corporate ties.
-
-### Key Program Highlights:
-*   Prime location on Golf Course Road zone
-*   Comprehensive mentoring and leadership program
-*   Excellent placement cell with tier-1 recruiters
-*   Incubator cells for student startups
-
-### Available Specialization Tracks:
-*   **MBA**: Marketing & Sales Strategy, FinTech & Analytics, Human Capital & Leadership, Logistics & Supply Chain, Digital Business
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | IILM University (Gurugram Campus) | Established 30-year educational legacy |
+| **Campus Location** | Golf Course Road, Sector 53, Gurugram, Haryana | Direct connectivity via Sector 53-54 Rapid Metro |
+| **Accreditation & Approvals** | UGC Recognised · NAAC Accredited · SAQS Member | Formal Master of Business Administration (MBA) degree |
+| **Flagship Programs** | Master of Business Administration (MBA) | 2-Year Full-Time Dual Specialization |
+| **Total Program Tuition Fee** | **₹11.50 – ₹12.90 Lakhs** *(2 Years Total)* | Structured semester payment options |
+| **Average Placement CTC** | **₹8.60 – ₹9.50 LPA** | Median domestic package stands at ₹8.50 LPA |
+| **Top 25% Batch Average CTC** | **₹14.20 LPA** | Dominant offers in consulting, BFSI & analytics |
+| **Highest Placement CTC** | **₹26.00 LPA** | Peak offer in corporate advisory and financial strategy |
+| **Accepted Entrance Exams** | CAT, XAT, NMAT, MAT, CMAT, GMAT, CUET-PG | Profile-based holistic evaluation |
+| **Top Recruiting Partners** | Deloitte, KPMG, EY, PwC, L'Oreal, HDFC Bank, Zomato | 150+ corporate recruiters annually |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 IILM University Gurugram Fee Structure (2027–2029)
 
-Placements at **IILM University (Gurugram Campus)** demonstrate strong corporate relationships across Fortune 500 multinationals, legacy Indian conglomerates, and high-growth venture-backed enterprises:
+The total academic fee for the 2-year full-time MBA program at IILM University ranges between **₹11.50 Lakhs and ₹12.90 Lakhs**, payable in 4 semester installments:
 
-*   **Highest Placement Package:** **₹26.0 LPA**
-*   **Average Placement Package:** **₹8.6 LPA**
-*   **Top Corporate Recruiters:** Deloitte, KPMG, EY, Wipro, HDFC Bank, Zomato, Loreal, PwC
-*   **Sectoral Hiring Breakdown:**
-    *   **BFSI & FinTech (30–35%):** Commercial banking, wealth management, credit analysis, and financial consulting.
-    *   **IT / ITES & Product (25–30%):** Digital transformation consulting, business analysis, and enterprise sales.
-    *   **Consulting & Research (20–25%):** Strategy advisory, market intelligence, and process management.
-    *   **FMCG, Retail & E-Commerce (15–20%):** Brand marketing, supply chain management, and client relationships.
-
----
-
-## 5. Admission Selection Process & Expected Cutoffs 2027
-
-Admission to **IILM University (Gurugram Campus)** is conducted through a multi-stage evaluation process assessing entrance test scores, past academic performance, and personal interview capabilities:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Register and appear for **CAT / XAT / MAT / CMAT / ATMA** or state-level management entrance tests.
-2.  **Application Form:** Submit the official application online before the seat quota deadlines.
-3.  **Shortlisting:** Applicants are shortlisted based on entrance scores (typically 50% to 75%+ percentile) and graduation merit.
-4.  **GD-PI-WAT Rounds:** Shortlisted candidates participate in Group Discussion / Case Analysis and Personal Interview rounds evaluating communication skills, general awareness, and domain aptitude.
-5.  **Offer Letter & Enrollment:** Selected candidates receive provisional admission letters with tuition installment schedules.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **IILM University (Gurugram Campus)** compares against benchmark management institutes in its regional category:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **IILM University (Gurugram Campus)** | **₹12.90 Lakhs (Total)** | **₹8.6 LPA** | **CAT / XAT / MAT / CMAT / ATMA (50%+ Marks)** |
-| **Regional Benchmark Tier-2 Colleges** | ₹10.0L – ₹14.0L | ₹8.0L – ₹10.5L | National Entrance Tests (60%+ %ile) |
-| **Top Tier-1 Private Flagships** | ₹18.0L – ₹25.0L | ₹14.0L – ₹22.0L | CAT / XAT / NMAT (85%+ %ile) |
+| **Admission & Registration Fee** | ₹60,000 | — | ₹60,000 |
+| **Tuition & Academic Facility Fee** | ₹5,70,000 | ₹5,70,000 | ₹11,40,000 |
+| **Refundable Security Deposit** | ₹10,000 | — | ₹10,000 *(Refundable)* |
+| **Total Program Academic Fee** | **₹6,40,000** | **₹5,70,000** | **₹12.10 Lakhs** *(Avg Track)* |
+
+*Note: IILM University offers modern on-campus and premium off-campus hostel housing with air conditioning, multi-cuisine dining, Wi-Fi, and fitness centers ranging between ₹1.50 and ₹2.00 Lakhs per academic year.*
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 IILM Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Fully air-conditioned lecture halls equipped with audio-visual presentation tools and interactive smart boards.
-*   **Library & Knowledge Centers:** Extensive collection of management books, Harvard business case repositories, EBSCO databases, and corporate journals.
-*   **Student Committees & Clubs:** Active student-led clubs managing annual management conclaves, marketing fests, cultural events, and industry guest speaker series.
-*   **Hostel & Dining:** Secure on-campus/affiliated residential facilities with high-speed Wi-Fi, modern cafeteria dining, and fitness amenities.
+**IILM University benefits from its central location on Golf Course Road to attract prominent recruiters across consulting, FMCG, and technology advisory.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join IILM University?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹26.00 LPA
+├── Top 25% Batch Average: ₹14.20 LPA
+├── Top 50% Batch Average: ₹10.80 LPA
+├── Overall Batch Average CTC: ₹8.60 – ₹9.50 LPA
+└── Overall Median CTC: ₹8.50 LPA
+```
 
-### Key Advantages (Pros)
-*   **Strong Corporate Presence:** Established placement partnerships with recruiters like Deloitte, KPMG, EY, Wipro, HDFC Bank, Zomato, Loreal, PwC.
-*   **Balanced Financial ROI:** Starting average package of **₹8.6 LPA** provides reasonable payback timeline against the total investment of **₹12.90 Lakhs (Total)**.
-*   **Location Advantage:** Strategic presence in **Sector 53, Gurugram** providing regular industry visits, live corporate internships, and executive masterclasses.
+### Domain-Wise Placement Statistics
 
-### Points to Consider (Cons)
-*   Batch size requires active student participation in placement preparation bootcamps.
-*   Hostel and living expenses are separate from the core tuition fee.
+| Specialization Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **Management Consulting & Advisory** | ₹11.50 LPA | Associate Consultant, Strategic Advisory Trainee |
+| **Banking, Financial Services & FinTech** | ₹9.80 LPA | Equity Analyst, Financial Modeler, Wealth Manager |
+| **Marketing & Brand Management** | ₹9.20 LPA | Brand Trainee, Territory Sales Lead, Growth Specialist |
+| **Business Analytics & IT Systems** | ₹9.50 LPA | Business Analyst, Tech Solutions Trainee |
+| **Human Resource Management (HRM)** | ₹7.80 LPA | Talent Acquisition Partner, HR Business Trainee |
 
-### Who Should Apply?
-Aspirants seeking a recognized AICTE-approved PGDM/MBA program in **Sector 53** with solid industry connections, practical skill-building specializations, and placement security in the ₹7–12 LPA salary bracket.
+### Prominent Recruiters at IILM Gurugram
 
-### Who Should Avoid?
-Candidates holding calls from Tier-1 IIMs or premier B-schools offering ₹20+ LPA average compensation packages.
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at IILM University (Gurugram Campus)?
-The verified average placement package at **IILM University (Gurugram Campus)** is **₹8.6 LPA**, with top domestic packages touching **₹26.0 LPA**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**IILM University (Gurugram Campus)** accepts scores from **CAT, XAT, MAT, CMAT, ATMA**, and institutional profile assessment.
-
-### Q3. What is the total tuition fee for the PGDM/MBA program?
-The total course fee is approximately **₹12.90 Lakhs (Total)** for the 2-year curriculum, payable in term installments.
-
-### Q4. How can I get 1-on-1 counseling for IILM University admission?
-You can book a personalized 1-on-1 guidance session with expert career counselor **Mohit Jain** to analyze your profile, cutoffs, and admission probabilities.
+- **Big 4 & Consulting**: Deloitte, KPMG, EY, PwC, Protiviti, Mazars, Gartner.
+- **Banking & Financial Services**: HDFC Bank, ICICI Bank, Axis Bank, Federal Bank, Kotak Mahindra, BlackRock.
+- **FMCG, Retail & Tech**: L'Oreal, Zomato, Wipro, Infosys, Reliance Brands, Tata Consumer Products.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 IILM University Cutoff 2027 (Expected Percentiles)
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+IILM follows an inclusive profile-based screening model, evaluating candidates across academic performance, entrance test scores, and interview communication:
+
+| Entrance Examination | Minimum Qualifying Percentile / Score | Target Safe Percentile / Score |
+| :--- | :--- | :--- |
+| **CAT (IIM Entrance)** | 60%ile | 70%ile+ |
+| **XAT (XLRI)** | 60%ile | 70%ile+ |
+| **NMAT (GMAC)** | 190 Score | 210+ Score |
+| **MAT (AIMA - 2026/2027)** | 70%ile | 80%ile+ |
+| **CMAT / CUET-PG** | 65%ile | 75%ile+ |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Admission Eligibility & Selection Process
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+### 1. Basic Eligibility Criteria
+- Bachelor’s Degree in any discipline from a UGC/AIU-recognized university with at least **50% aggregate marks** (45% for reserved category candidates).
+- Candidates appearing in final-year undergraduate exams are eligible to apply conditionally.
+
+### 2. Selection Weightage Matrix
+
+| Parameter | Selection Weightage (%) |
+| :--- | :--- |
+| **National Entrance Test Score (CAT/NMAT/XAT/MAT/CMAT)** | **35%** |
+| **Personal Interview (PI) & Case Assessment** | **30%** |
+| **Past Academic Record (10th, 12th & Graduation)** | **20%** |
+| **Work Experience & Extracurricular Accomplishments** | **15%** |
 
 ---
+
+## ⚖️ IILM Gurugram vs Delhi NCR Competitors: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **IILM University Gurugram** | **₹11.50L – ₹12.90L** | **₹8.60 – ₹9.50 LPA** | **₹26.00 LPA** | Golf Course Rd, Gurgaon |
+| **BML Munjal University** | ₹14.50 Lakhs | ₹8.50 LPA | ₹33.60 LPA | Sidhrawali, Gurgaon |
+| **Delhi School of Business (DSB)** | ₹11.50 Lakhs | ₹10.50 LPA | ₹23.90 LPA | Pitampura, Delhi |
+| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | ₹30.00 LPA | Dwarka, Delhi |
+| **IBMR Gurgaon** | ₹7.50 Lakhs | ₹7.50 LPA | ₹21.00 LPA | Sector 14, Gurgaon |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "IILM University on Golf Course Road gives students an exceptional corporate interface right in Gurugram's primary commercial corridor. With a recognized university MBA degree, strong consulting and Big 4 placement representation, and merit scholarships up to 40%, it offers an attractive blend of academic rigor and corporate readiness."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for the MBA program at IILM University Gurugram?
+The total 2-year tuition and academic fee for the MBA program at IILM University is **₹11.50 Lakhs to ₹12.90 Lakhs**, payable across 4 semester installments.
+
+### 2. What is the average placement package at IILM University Gurugram?
+IILM University recorded an **average domestic package of ₹8.60 to ₹9.50 LPA**, with top 25% students securing an average of **₹14.20 LPA** and a peak domestic offer of **₹26.00 LPA**.
+
+### 3. Which entrance exams are accepted for IILM Gurugram 2027 admissions?
+IILM accepts CAT, XAT, NMAT, MAT, CMAT, GMAT, and CUET-PG scores.
+
+### 4. Where is IILM University located?
+IILM University is located on Golf Course Road, Sector 53, Gurugram, directly accessible via the Sector 53-54 Rapid Metro Station.
+
+### 5. How can I apply for direct profile admission or scholarship at IILM University?
+Candidates with consistent academic records and entrance test scores can apply through profile-based evaluation rounds. Contact **Mohit Jain (+91 9560020771)** for scholarship evaluation, application form fee concessions, and interview guidance.
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official IILM University Placement Reports, UGC Recognition Gazette, and SAQS Accreditation Records.*

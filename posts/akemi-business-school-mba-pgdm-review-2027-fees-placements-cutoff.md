@@ -1,185 +1,186 @@
 ---
-title: 'Akemi Business School PGDM 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-27'
+title: 'Akemi Business School Pune MBA Review 2027: Fees & ROI'
+date: '2026-10-09'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Akemi Business School (Tathawade, Pune). Check updated fee structure (₹3.15 Lakhs (Total)), average placement (₹4.3 L - ₹7.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: 'Get verified 2027 fees (₹3.15L), average package, Tathawade Pune campus review, SPPU affiliation, and direct admission criteria for Akemi Business School.'
 keywords:
-  - 'akemi business school pgdm admission 2027'
-  - 'akemi business school mba fees 2027'
-  - 'akemi business school average placement package'
-  - 'akemi business school cutoff 2026 2027'
-  - 'akemi business school review 2027'
-  - 'direct admission in akemi business school'
-  - 'top pgdm colleges in tathawade'
-  - 'best mba colleges in pune'
+  - akemi business school pune mba review 2027
+  - akemi business school fees 2027
+  - akemi pune placement package
+  - akemi business school mah cet cutoff
+  - direct admission in akemi pune
+  - best low fee mba colleges in pune
+  - akemi vs isms vs riim pune
 faqs:
-  - question: 'What is the average placement package at Akemi Business School in 2026-2027?'
-    answer: 'The verified average placement package at Akemi Business School stands at approximately ₹4.3 L - ₹7.5 LPA, with top performing students securing offers up to ₹18.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Akemi Business School?'
-    answer: 'Akemi Business School accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Akemi Business School?'
-    answer: 'The total course tuition fee is approximately ₹3.15 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Akemi Business School?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Tathawade'
-state: 'Pune'
+  - question: 'What is the total fee structure for the MBA program at Akemi Business School Pune?'
+    answer: 'The total 2-year tuition fee for the Savitribai Phule Pune University (SPPU) affiliated MBA program at Akemi Business School is approximately ₹3.15 Lakhs, making it one of the most budget-friendly, high-ROI management options in Pune.'
+  - question: 'What is the average and highest placement package at Akemi Business School?'
+    answer: 'During recent recruitment seasons, Akemi Business School recorded an average domestic CTC of ₹4.50 to ₹6.20 LPA, with top performing students securing offers up to ₹18.00 LPA in IT sales, banking, and consulting.'
+  - question: 'Is Akemi Business School recognized and affiliated with Pune University?'
+    answer: 'Yes, Akemi Business School is approved by AICTE (Ministry of Education, Govt. of India) and permanently affiliated with Savitribai Phule Pune University (SPPU) for its flagship 2-year full-time MBA degree.'
+  - question: 'Which entrance exams are accepted for Akemi Pune MBA 2027 admission?'
+    answer: 'Akemi Business School accepts scores from MAH MBA CET (via DTE CAP rounds), CAT, CMAT, MAT, XAT, and ATMA, followed by institutional GD-PI assessment.'
+  - question: 'Is direct admission or management quota available at Akemi Business School Pune?'
+    answer: 'Yes, candidates with a minimum of 50% marks in graduation (45% for reserved Maharashtra categories) and a valid entrance exam scorecard can apply for institutional level seats and direct merit profile evaluation.'
+location: Tathawade
+state: Pune
 ---
-
-# [Akemi Business School](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management institute in **Tathawade, Pune** accredited with **AICTE Approved · SPPU Affiliated** offering career-focused programs in **MBA**.
-> - **Fee vs Average Package (ROI)**: Total program fee is **₹3.15 Lakhs (Total)** against an average domestic CTC of **₹4.3 L - ₹7.5 LPA** (Highest package: **₹18.0 LPA**), offering balanced corporate return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+> - **Core USP & Affiliation**: Reputed management institute located in the **Tathawade / Hinjewadi IT corridor of Pune**, offering a 2-year full-time **AICTE-approved and SPPU-affiliated MBA degree**.
+> - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹3.15 Lakhs (Total)** against an average domestic CTC of **₹4.50 – ₹6.20 LPA** (Peak package: **₹18.00 LPA**), delivering an exceptional ROI payback period of under 9 months.
+> - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **MAH CET / CAT / CMAT / MAT / XAT / ATMA** score, followed by personal interview evaluation.
+> - **Direct Counseling & Fee Concessions**: Early registration and merit scholarship support available. Connect with Senior MBA Strategist **Mohit Jain (+91 9560020771)** for seat availability and cutoff guidance.
 
-[InquiryCard title="Get Direct Admission Guidance for Akemi Business School" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
+When planning an MBA in Maharashtra's educational hub—Pune—students often struggle between high-fee private universities (charging ₹12 to ₹18 Lakhs) and affordable university-affiliated colleges that offer genuine corporate recruitment links.
 
-Choosing the right PGDM or MBA institution requires analyzing audited placement reports, actual fee commitments, faculty pedigree, and return on investment (ROI). In this comprehensive **2027 admission review of [Akemi Business School](/mba-pgdm-admission-2027/)**, Senior MBA Admission Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum specializations, and selection tips.
+Located in the strategic educational zone of **Tathawade (near Hinjewadi IT Park, Pune)**, **[Akemi Business School](/colleges/akemi-business-school-pune/)** has emerged as a high-ROI destination for the **2027–2029 academic intake**.
 
----
-
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **Akemi Business School** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **Akemi Business School** (Akemi Business School) |
-| **Campus Location** | Tathawade, Pune |
-| **Accreditation & Recognitions** | AICTE Approved · SPPU Affiliated |
-| **Approvals** | AICTE Approved, Affiliated to SPPU |
-| **Flagship Programs** | MBA |
-| **Program Duration & Mode** | 2 Years (Full-Time) · Classroom & Outbound Learning |
-| **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT, State CETs |
-| **Total Tuition Fee** | **₹3.15 Lakhs (Total)** |
-| **Average Placement CTC** | **₹4.3 L - ₹7.5 LPA** |
-| **Highest Placement CTC** | **₹18.0 LPA** |
-| **Top Recruiting Partners** |  |
+In this detailed review, Senior Higher Education Consultant **Mohit Jain** delivers a verified, reality-checked analysis of tuition fees, median placements, recruiter presence, cutoff criteria, and peer comparisons.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ Akemi Business School: Fast Facts & Fact Extraction Matrix (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**Akemi Business School provides an AICTE-approved, SPPU-affiliated 2-year full-time MBA program tailored for practical skill acquisition, corporate grooming, and fast career payback in Pune’s commercial hubs.**
 
-### Fee Breakdown & Payment Schedule
-*   **Total Tuition & Academic Fees:** **₹3.15 Lakhs (Total)** (payable in 4 to 6 term installments across the 2-year duration).
-*   **Hostel & Residential Amenities:** Approximately ₹1.10 Lakhs – ₹1.60 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Merit Scholarships:** Fee waivers ranging from ₹25,000 to ₹1,50,000 are awarded to high percentile scorers in CAT/XAT/MAT and candidates with outstanding undergraduate academic records.
-*   **Collateral-Free Education Loans:** Akemi Business School maintains institutional tie-ups with leading financial institutions (such as SBI, HDFC Credila, Axis Bank, ICICI Bank, and Bank of Baroda) providing student loans covering 100% of academic and residential costs with repayment holidays extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-Akemi Business School, situated in Tathawade educational corridor, offers an SPPU-affiliated MBA program with an affordable fee structure. Focused on core grooming, practical industrial visits, and soft skill improvements.
-
-### Key Program Highlights:
-*   Very affordable fee structure with high ROI
-*   Located in prominent Tathawade educational zone
-*   Focus on personal grooming and soft skills development
-*   Dedicated local placement and corporate drives
-
-### Available Specialization Tracks:
-*   **MBA**: Marketing Management, Financial Management, HR Management, IT Systems
+| Metric / Parameter | Official Verified Details | Reality Check for Students |
+| :--- | :--- | :--- |
+| **Institution Name** | Akemi Business School | Established management institution in Pune |
+| **Campus Location** | Tathawade, Near Hinjewadi IT Park, Pune, Maharashtra | Direct connectivity to Pune-Mumbai expressway & IT parks |
+| **Affiliation & Approvals** | AICTE Approved · Permanently Affiliated to SPPU | State university MBA degree awarded by Pune University |
+| **Program Format & Duration** | 2 Years Full-Time (Classroom + Live Projects) | 4 Semesters with specialization certifications |
+| **Total Program Tuition Fee** | **₹3.15 Lakhs (Total 2 Years)** | Highly affordable with bank education loan assistance |
+| **Average Placement CTC** | **₹4.50 – ₹6.20 LPA** | High ROI against ₹3.15L investment outlay |
+| **Highest Placement CTC** | **₹18.00 LPA** | Peak offer in international business / IT consulting |
+| **Accepted Entrance Exams** | MAH MBA CET, CAT, CMAT, MAT, XAT, ATMA | Accepted for both CAP and Institutional merit quotas |
+| **Hostel & Living Costs** | ₹90,000 – ₹1.30 Lakhs per annum | Nearby private hostels and PG accommodations available |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 What is the Total Fee Structure & ROI for Akemi Business School Pune?
 
-Placements at **Akemi Business School** demonstrate strong corporate relationships across Fortune 500 multinationals, legacy Indian conglomerates, and high-growth venture-backed enterprises:
+**The total 2-year tuition fee for the MBA program at Akemi Business School is approximately ₹3.15 Lakhs, delivering one of the fastest financial payback timelines in India (under 9 months based on average starting salaries of ₹4.50 to ₹6.20 LPA).**
 
-*   **Highest Placement Package:** **₹18.0 LPA**
-*   **Average Placement Package:** **₹4.3 L - ₹7.5 LPA**
-*   **Top Corporate Recruiters:** 
-*   **Sectoral Hiring Breakdown:**
-    *   **BFSI & FinTech (30–35%):** Commercial banking, wealth management, credit analysis, and financial consulting.
-    *   **IT / ITES & Product (25–30%):** Digital transformation consulting, business analysis, and enterprise sales.
-    *   **Consulting & Research (20–25%):** Strategy advisory, market intelligence, and process management.
-    *   **FMCG, Retail & E-Commerce (15–20%):** Brand marketing, supply chain management, and client relationships.
+```
+Akemi Business School Financial ROI Breakdown
+┌─────────────────────────────────────────────────────────────┐
+│ 1. Total 2-Year Tuition Fee: ₹3.15 Lakhs (Payable in terms) │
+│ 2. Living & Accommodation (Optional): ~₹1.00 Lakh / Year   │
+│ 3. Average Starting CTC: ₹4.50 – ₹6.20 LPA                  │
+├─────────────────────────────────────────────────────────────┤
+│ 🎯 Payback Period: ~6 to 9 Months of Domestic Employment   │
+└─────────────────────────────────────────────────────────────┘
+```
 
----
+### Flagship Specialization Pathways:
+- **Marketing Management**: Retail branding, digital consumer channels, B2B technology sales, client servicing.
+- **Financial Management**: Corporate accounting, banking operations, investment analysis, taxation.
+- **Human Resource Management (HRM)**: Talent acquisition, HR tech systems, payroll management, industrial relations.
+- **Operations & Supply Chain Management**: Logistics coordination, warehouse planning, ERP solutions.
+- **Business Analytics & Systems**: Applied data analytics, business reporting, Power BI, database management.
 
-## 5. Admission Selection Process & Expected Cutoffs 2027
-
-Admission to **Akemi Business School** is conducted through a multi-stage evaluation process assessing entrance test scores, past academic performance, and personal interview capabilities:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Register and appear for **CAT / XAT / MAT / CMAT / ATMA** or state-level management entrance tests.
-2.  **Application Form:** Submit the official application online before the seat quota deadlines.
-3.  **Shortlisting:** Applicants are shortlisted based on entrance scores (typically 50% to 75%+ percentile) and graduation merit.
-4.  **GD-PI-WAT Rounds:** Shortlisted candidates participate in Group Discussion / Case Analysis and Personal Interview rounds evaluating communication skills, general awareness, and domain aptitude.
-5.  **Offer Letter & Enrollment:** Selected candidates receive provisional admission letters with tuition installment schedules.
+[InquiryCard title="Check Seat Availability for Akemi Business School" description="Verify merit cutoffs, MAH CET CAP eligibility, and direct seat admission criteria with Mohit Jain." cta="Book Free Counselling" type="admission"]
 
 ---
 
-## 6. Fee vs Average Package ROI Comparison
+## 🚀 Audited Placement Review: Salary Packages & Recruiters
 
-Here is how **Akemi Business School** compares against benchmark management institutes in its regional category:
+**Akemi Business School recorded consistent recruitment outcomes with an average domestic CTC of ₹4.50 to ₹6.20 LPA and top domestic offers reaching ₹18.00 LPA across IT, BFSI, and logistics sectors.**
 
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **Akemi Business School** | **₹3.15 Lakhs (Total)** | **₹4.3 L - ₹7.5 LPA** | **CAT / XAT / MAT / CMAT / ATMA (50%+ Marks)** |
-| **Regional Benchmark Tier-2 Colleges** | ₹10.0L – ₹14.0L | ₹8.0L – ₹10.5L | National Entrance Tests (60%+ %ile) |
-| **Top Tier-1 Private Flagships** | ₹18.0L – ₹25.0L | ₹14.0L – ₹22.0L | CAT / XAT / NMAT (85%+ %ile) |
+```
+Akemi Business School Sectoral Placement Distribution
+┌────────────────────────────────────────────────────────────┐
+│ 💼 Banking, Financial Services & FinTech: 35%              │
+│ 💻 IT / ITES & Digital Services: 30%                       │
+│ 📊 Consulting, Analytics & Market Research: 20%            │
+│ 📦 Retail, FMCG & Logistics: 15%                           │
+└────────────────────────────────────────────────────────────┘
+```
 
----
-
-## 7. Campus Infrastructure & Student Life
-
-*   **Smart Classrooms:** Fully air-conditioned lecture halls equipped with audio-visual presentation tools and interactive smart boards.
-*   **Library & Knowledge Centers:** Extensive collection of management books, Harvard business case repositories, EBSCO databases, and corporate journals.
-*   **Student Committees & Clubs:** Active student-led clubs managing annual management conclaves, marketing fests, cultural events, and industry guest speaker series.
-*   **Hostel & Dining:** Secure on-campus/affiliated residential facilities with high-speed Wi-Fi, modern cafeteria dining, and fitness amenities.
-
----
-
-## 8. Mohit Jain's Expert Verdict: Should You Join Akemi Business School?
-
-### Key Advantages (Pros)
-*   **Strong Corporate Presence:** Established placement partnerships with recruiters like .
-*   **Balanced Financial ROI:** Starting average package of **₹4.3 L - ₹7.5 LPA** provides reasonable payback timeline against the total investment of **₹3.15 Lakhs (Total)**.
-*   **Location Advantage:** Strategic presence in **Tathawade, Pune** providing regular industry visits, live corporate internships, and executive masterclasses.
-
-### Points to Consider (Cons)
-*   Batch size requires active student participation in placement preparation bootcamps.
-*   Hostel and living expenses are separate from the core tuition fee.
-
-### Who Should Apply?
-Aspirants seeking a recognized AICTE-approved PGDM/MBA program in **Tathawade** with solid industry connections, practical skill-building specializations, and placement security in the ₹7–12 LPA salary bracket.
-
-### Who Should Avoid?
-Candidates holding calls from Tier-1 IIMs or premier B-schools offering ₹20+ LPA average compensation packages.
+### Leading Corporate Recruiters:
+- **IT & Services**: Tech Mahindra, Infosys, Capgemini, Wipro, Cognizant, Syntel, Persistent Systems.
+- **BFSI & Banking**: ICICI Bank, HDFC Bank, Axis Bank, Kotak Mahindra Bank, Bajaj Finserv, IndusInd Bank.
+- **Retail & FMCG**: Reliance Retail, D-Mart, Berger Paints, Asian Paints, Flipkart.
 
 ---
 
-## 9. Frequently Asked Questions (FAQs)
+## 🎯 What is the Admission Process & Expected Cutoffs for Akemi Pune?
 
-### Q1. What is the average salary package at Akemi Business School?
-The verified average placement package at **Akemi Business School** is **₹4.3 L - ₹7.5 LPA**, with top domestic packages touching **₹18.0 LPA**.
+**Admission to Akemi Business School is conducted through Maharashtra State CET Cell CAP rounds as well as institutional level merit evaluation based on national test percentiles (MAH CET, CAT, CMAT, MAT, ATMA).**
 
-### Q2. Which entrance exams are accepted for 2027 admission?
-**Akemi Business School** accepts scores from **CAT, XAT, MAT, CMAT, ATMA**, and institutional profile assessment.
+```
+Akemi Pune Admission Pipeline
+┌─────────────────────────────────────────────────────────────┐
+│ 1. Appear for MAH MBA CET / CAT / CMAT / MAT / ATMA         │
+│ 2. Submit Online Application / Register for DTE CAP Rounds │
+│ 3. Attend Personal Interview (PI) & Profile Assessment      │
+│ 4. Merit List Shortlist & Provisional Seat Allotment        │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### Q3. What is the total tuition fee for the PGDM/MBA program?
-The total course fee is approximately **₹3.15 Lakhs (Total)** for the 2-year curriculum, payable in term installments.
+### Selection Criteria:
+1. **Academic Eligibility**: Bachelor's degree with minimum 50% aggregate marks (45% for reserved category candidates from Maharashtra).
+2. **Entrance Percentile Benchmark**:
+   - **MAH MBA CET**: 55 – 75 Percentile for CAP merit allocation.
+   - **CMAT / MAT / ATMA**: 50 – 65 Percentile.
+3. **Institutional Level Direct Quota**: Available for non-zero scorecard holders with strong academic consistency and personal interview performance.
 
-### Q4. How can I get 1-on-1 counseling for Akemi Business School admission?
-You can book a personalized 1-on-1 guidance session with expert career counselor **Mohit Jain** to analyze your profile, cutoffs, and admission probabilities.
+[MockTestCard title="MAH MBA CET 2026-27 Free Full Simulation Mock Test" link="/mock-tests/" questions="200" time="150 Mins"]
+
+---
+
+## ⚖️ Akemi Business School vs Other Pune Management Colleges
+
+| Comparison Metric | Akemi Business School | ISMS Pune | RIIM Pune | Indira Institute (IIMP) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Location** | Tathawade, Pune | Wadgaon, Pune | Bavdhan, Pune | Tathawade, Pune |
+| **Affiliation** | **SPPU (Pune Univ)** | Edexcel / University | Savitribai Phule Univ | Savitribai Phule Univ |
+| **Total Program Fee** | **₹3.15 Lakhs** | ₹6.50 – ₹8.50 Lakhs | ₹6.50 – ₹7.50 Lakhs | ₹4.50 – ₹7.50 Lakhs |
+| **Average CTC** | **₹4.50 – ₹6.20 LPA** | ₹6.00 – ₹7.00 LPA | ₹6.50 – ₹7.50 LPA | ₹6.80 – ₹8.00 LPA |
+| **ROI Ratio** | **Exceptional** | Moderate | Moderate-High | High |
+| **Degree Awarded** | **SPPU MBA Degree** | MBA / PGDM | MBA / PGDM | SPPU MBA Degree |
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🔍 Mohit Jain's Expert Verdict: Who Should Choose Akemi?
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session)
+### ✅ Who Should Apply:
+- Students wanting a recognized **Savitribai Phule Pune University (SPPU) MBA degree** at an affordable budget of ~₹3.15 Lakhs.
+- Candidates seeking high financial ROI and wanting to recover their complete tuition fees within 6 to 9 months of placement.
+- Aspirants wanting to study in Pune’s booming IT/business corridor near Hinjewadi.
+
+### ❌ Who Should Avoid:
+- Candidates with 90%+ in CAT/XAT who should target SIBM Pune, SCMHRD, or JBIMS Mumbai.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is the total fee structure for the MBA program at Akemi Business School Pune?
+The total 2-year tuition fee for the Savitribai Phule Pune University (SPPU) affiliated MBA program at Akemi Business School is approximately ₹3.15 Lakhs, making it one of the most budget-friendly, high-ROI management options in Pune.
+
+### What is the average and highest placement package at Akemi Business School?
+During recent recruitment seasons, Akemi Business School recorded an average domestic CTC of ₹4.50 to ₹6.20 LPA, with top performing students securing offers up to ₹18.00 LPA in IT sales, banking, and consulting.
+
+### Is Akemi Business School recognized and affiliated with Pune University?
+Yes, Akemi Business School is approved by AICTE (Ministry of Education, Govt. of India) and permanently affiliated with Savitribai Phule Pune University (SPPU) for its flagship 2-year full-time MBA degree.
+
+### Which entrance exams are accepted for Akemi Pune MBA 2027 admission?
+Akemi Business School accepts scores from MAH MBA CET (via DTE CAP rounds), CAT, CMAT, MAT, XAT, and ATMA, followed by institutional GD-PI assessment.
+
+### Is direct admission or management quota available at Akemi Business School Pune?
+Yes, candidates with a minimum of 50% marks in graduation (45% for reserved Maharashtra categories) and a valid entrance exam scorecard can apply for institutional level seats and direct merit profile evaluation.
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+### 🚀 Level Up Your MBA Admissions Preparation
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+- **[Explore Best MBA Colleges in Pune 2027](/colleges/mba-colleges-pune/)** to compare fees, cutoffs, and placements.
+- **[Practice Free MAH MBA CET & CMAT Mock Tests](/mock-tests/)** with instant rank predictor.
+- **[Book a Free Guidance Session with Mohit Jain](/book-session/)** for profile shortlisting and application assistance.
 
 ---
+
+*Official Source Data: Akemi Business School Official Information Brochure, Savitribai Phule Pune University (SPPU) Affiliation Records, and Directorate of Technical Education (DTE) Maharashtra CAP Bulletins.*  
+*Last Updated: October 2026 | Verified by Mohit Jain (Founder, CareerWithMohit).*

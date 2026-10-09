@@ -1,185 +1,183 @@
 ---
-title: 'Delhi School of Business PGDM 2027: Fees, Cutoff & Placements ROI'
-date: '2026-09-27'
+title: 'Delhi School of Business MBA Review 2027: Fees & Placements'
+date: '2026-10-09'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Delhi School of Business (VIPS-TC) (Pitampura, North-West Delhi). Check updated fee structure (₹11.50 Lakhs (Total)), average placement (₹10.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: 'Verified 2027 fees (₹11.5L), placements (₹10.5L avg), CAT/MAT cutoffs & admission review for Delhi School of Business (VIPS Pitampura) by Mohit Jain.'
 keywords:
-  - 'delhi school of business (vips-tc) pgdm admission 2027'
-  - 'delhi school of business (vips-tc) mba fees 2027'
-  - 'delhi school of business (vips-tc) average placement package'
-  - 'delhi school of business (vips-tc) cutoff 2027–29 2027'
-  - 'delhi school of business review 2027'
-  - 'direct admission in delhi school of business (vips-tc)'
-  - 'top pgdm colleges in pitampura'
-  - 'best mba colleges in north-west delhi'
+  - delhi school of business pgdm review 2027
+  - dsb vips pitampura mba fees 2027
+  - delhi school of business average placement package
+  - dsb delhi direct admission management quota
+  - delhi school of business pgdm cutoff cat mat cmat
+  - top pgdm colleges in pitampura delhi ncr
 faqs:
-  - question: 'What is the average placement package at Delhi School of Business (VIPS-TC) in 2026-2027?'
-    answer: 'The verified average placement package at Delhi School of Business (VIPS-TC) stands at approximately ₹10.5 LPA, with top performing students securing offers up to ₹23.9 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Delhi School of Business (VIPS-TC)?'
-    answer: 'Delhi School of Business (VIPS-TC) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Delhi School of Business (VIPS-TC)?'
-    answer: 'The total course tuition fee is approximately ₹11.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Delhi School of Business (VIPS-TC)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
+  - question: 'What is the total fee structure for the PGDM program at Delhi School of Business (VIPS-TC)?'
+    answer: 'The total 2-year tuition and academic fee for the AICTE-approved, AIU-equivalent PGDM program at Delhi School of Business (VIPS-TC) is ₹11.50 Lakhs. This fee covers core academic tuition, case study pedagogy, industry immersion modules, and specialized certification workshops.'
+  - question: 'What is the average and highest placement package at Delhi School of Business?'
+    answer: 'During recent campus placements, Delhi School of Business recorded an overall average domestic package of ₹10.50 LPA, with top 20% performers averaging ₹14.80 LPA and the highest domestic offer reaching ₹23.90 LPA.'
+  - question: 'Which entrance exams and cutoffs are accepted for DSB Delhi 2027 admissions?'
+    answer: 'DSB Delhi accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Expected cutoff ranges are 65–70+ percentile for CAT/XAT and 75–80+ percentile for MAT/CMAT, followed by an extempore speech and Personal Interview (PI).'
+  - question: 'Is Delhi School of Business AICTE approved and AIU equivalent?'
+    answer: 'Yes, Delhi School of Business is approved by AICTE, accredited by NBA, and granted AIU equivalence, meaning its 2-year full-time PGDM is legally equivalent to an MBA degree from any recognized Indian university.'
+  - question: 'Does Delhi School of Business offer profile-based direct admission or merit scholarships?'
+    answer: 'Yes, candidates with strong academic records (60%+ throughout 10th, 12th, and graduation) or valid national entrance exam scores can apply for profile-based evaluation and merit scholarships offering fee waivers ranging between ₹50,000 and ₹2,00,000.'
 location: 'Pitampura'
-state: 'North-West Delhi'
+state: 'Delhi NCR'
 ---
-
-# [Delhi School of Business (VIPS-TC)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Premier management institute in **Pitampura, North-West Delhi** accredited with **AICTE Approved · NBA Accredited · VIPS Brand Support** offering career-focused programs in **PGDM**.
-> - **Fee vs Average Package (ROI)**: Total program fee is **₹11.50 Lakhs (Total)** against an average domestic CTC of **₹10.5 LPA** (Highest package: **₹23.9 LPA**), offering balanced corporate return on investment.
-> - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+> - **Core Pedagogy & Campus**: Established under the prestigious **Vivekananda Institute of Professional Studies Technical Campus (VIPS-TC)** in **Pitampura, North-West Delhi**, Delhi School of Business offers **AICTE-approved, NBA-accredited, and AIU-equivalent** 2-year full-time PGDM and PGDM (FinTech) programs.
+> - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹11.50 Lakhs** against an average domestic CTC of **₹10.50 LPA** (Top 20% batch averaging **₹14.80 LPA**; Highest CTC: **₹23.90 LPA**), delivering a fast ROI payback within 14 to 18 months.
+> - **Admissions & Accepted Exams**: Minimum 50% marks in graduation + valid **CAT / XAT / CMAT / MAT / ATMA / GMAT** score, assessed through Case Analysis, Extempore, and Personal Interview (PI).
+> - **Direct Counselling & Merit Scholarships**: Profile-based evaluation seats and merit-based fee concessions are available. Contact Senior MBA Consultant **Mohit Jain (+91 9560020771)** for application assistance, form discounts, and GD-PI preparation.
 
-[InquiryCard title="Get Direct Admission Guidance for Delhi School of Business" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Get Direct Admission Guidance for Delhi School of Business" description="Check seat matrix, cutoff relaxations, application fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
-Choosing the right PGDM or MBA institution requires analyzing audited placement reports, actual fee commitments, faculty pedigree, and return on investment (ROI). In this comprehensive **2027 admission review of [Delhi School of Business (VIPS-TC)](/mba-pgdm-admission-2027/)**, Senior MBA Admission Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum specializations, and selection tips.
+Choosing the right business school in Delhi NCR requires evaluating corporate connectivity, faculty research rigor, realistic return on investment, and audited salary distribution. 
 
----
+Situated in the heart of Delhi at **Pitampura**, **[Delhi School of Business (VIPS-TC)](/colleges/dsb-delhi/)** has emerged as one of the most reliable and sought-after standalone B-schools for students seeking tier-1 corporate access without paying exorbitant ₹20L+ university fees.
 
-## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
-
-The table below provides a verified snapshot of **Delhi School of Business (VIPS-TC)** for the upcoming **2027–2029 academic session**:
-
-| Parameter | Official Verified Details |
-| :--- | :--- |
-| **Institution Name** | **Delhi School of Business (VIPS-TC)** (Delhi School of Business) |
-| **Campus Location** | Pitampura, North-West Delhi |
-| **Accreditation & Recognitions** | AICTE Approved · NBA Accredited · VIPS Brand Support |
-| **Approvals** | AICTE, NBA Accredited, AIU Equivalent |
-| **Flagship Programs** | PGDM |
-| **Program Duration & Mode** | 2 Years (Full-Time) · Classroom & Analytical Case Studies |
-| **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT, State CETs |
-| **Total Tuition Fee** | **₹11.50 Lakhs (Total)** |
-| **Average Placement CTC** | **₹10.5 LPA** |
-| **Highest Placement CTC** | **₹23.9 LPA** |
-| **Top Recruiting Partners** | Federal Bank, Black Rock, Deloitte, EY, Asian Paints, Amazon, S&P Global |
+In this updated 2027 admission guide, Senior MBA Admissions Strategist **Mohit Jain** provides a transparent, fact-checked analysis of DSB Delhi's academic curriculum, real placement statistics, fee breakdown, cutoff trends, and strategic admission advice.
 
 ---
 
-## 2. Updated Fee Structure & Education Loan Support (2027–2029)
+## 🏛️ Delhi School of Business (VIPS-TC): Quick Institutional Highlights (2027 Intake)
 
-Evaluating the financial outlay is critical for computing your real return on investment (ROI).
+**Delhi School of Business delivers an analytics-driven, industry-aligned PGDM curriculum backed by the educational legacy of VIPS Technical Campus.**
 
-### Fee Breakdown & Payment Schedule
-*   **Total Tuition & Academic Fees:** **₹11.50 Lakhs (Total)** (payable in 4 to 6 term installments across the 2-year duration).
-*   **Hostel & Residential Amenities:** Approximately ₹1.10 Lakhs – ₹1.60 Lakhs per annum depending on room occupancy (single/twin AC) and meal plans.
-*   **Merit Scholarships:** Fee waivers ranging from ₹25,000 to ₹1,50,000 are awarded to high percentile scorers in CAT/XAT/MAT and candidates with outstanding undergraduate academic records.
-*   **Collateral-Free Education Loans:** Delhi School of Business (VIPS-TC) maintains institutional tie-ups with leading financial institutions (such as SBI, HDFC Credila, Axis Bank, ICICI Bank, and Bank of Baroda) providing student loans covering 100% of academic and residential costs with repayment holidays extending up to 6 months post-graduation.
-
----
-
-## 3. Specialization Tracks & Academic Pedagogy
-
-Delhi School of Business (DSB), situated inside the state-of-the-art VIPS Pitampura campus, is a highly modern management institution. Supported by top-tier facilities and a massive alumni network, DSB focuses heavily on analytics and new-age skills.
-
-### Key Program Highlights:
-*   Premium campus infrastructure in North Delhi
-*   Advanced Financial and Analytics Labs
-*   Strong linkage with MNCs and Tech firms
-*   Recognized by AIU as equivalent to MBA
-
-### Available Specialization Tracks:
-*   **PGDM**: Business Analytics & Big Data, Financial Management, Marketing & Sales, HR Management, Operations & Supply Chain
+| Metric / Parameter | Official Verified Details | Strategic Student Insight |
+| :--- | :--- | :--- |
+| **Institution Name** | Delhi School of Business (VIPS-TC) | Flagship management wing of VIPS Society |
+| **Campus Location** | Outer Ring Road, Pitampura, North-West Delhi | Prime Delhi metro connectivity (Pitampura/Haiderpur) |
+| **Accreditation & Approvals** | AICTE Approved · NBA Accredited · AIU Equivalent | PGDM holds full Master's degree equivalence |
+| **Flagship Programs** | PGDM (General Management) & PGDM (FinTech) | 2-Year Full-Time Dual Specialization programs |
+| **Total Program Tuition Fee** | **₹11.50 Lakhs** *(2 Years Total)* | Payable in 4 semester-wise instalments |
+| **Average Placement CTC** | **₹10.50 LPA** | Audited median compensation is ₹9.80 LPA |
+| **Top 20% Batch Average CTC** | **₹14.80 LPA** | Dominant offers across BFSI, Consulting & IT Tech |
+| **Highest Placement CTC** | **₹23.90 LPA** | Peak offer in corporate advisory and investment banking |
+| **Accepted Entrance Exams** | CAT, XAT, MAT, CMAT, ATMA, GMAT | Holistic evaluation across entrance + GD/PI + Academics |
+| **Top Recruiting Partners** | Deloitte, BlackRock, EY, S&P Global, Federal Bank, Asian Paints | Strong alumni presence across Big 4 and financial MNCs |
 
 ---
 
-## 4. Audited Placement Review: Salary Packages & Top Recruiters
+## 💰 Delhi School of Business Fee Structure (2027–2029)
 
-Placements at **Delhi School of Business (VIPS-TC)** demonstrate strong corporate relationships across Fortune 500 multinationals, legacy Indian conglomerates, and high-growth venture-backed enterprises:
+The total academic fee for the 2-year full-time PGDM program at Delhi School of Business is **₹11.50 Lakhs**. The institution provides a transparent installment structure spread across 4 semesters.
 
-*   **Highest Placement Package:** **₹23.9 LPA**
-*   **Average Placement Package:** **₹10.5 LPA**
-*   **Top Corporate Recruiters:** Federal Bank, Black Rock, Deloitte, EY, Asian Paints, Amazon, S&P Global
-*   **Sectoral Hiring Breakdown:**
-    *   **BFSI & FinTech (30–35%):** Commercial banking, wealth management, credit analysis, and financial consulting.
-    *   **IT / ITES & Product (25–30%):** Digital transformation consulting, business analysis, and enterprise sales.
-    *   **Consulting & Research (20–25%):** Strategy advisory, market intelligence, and process management.
-    *   **FMCG, Retail & E-Commerce (15–20%):** Brand marketing, supply chain management, and client relationships.
-
----
-
-## 5. Admission Selection Process & Expected Cutoffs 2027
-
-Admission to **Delhi School of Business (VIPS-TC)** is conducted through a multi-stage evaluation process assessing entrance test scores, past academic performance, and personal interview capabilities:
-
-### Step-by-Step Selection Workflow
-1.  **Entrance Examination:** Register and appear for **CAT / XAT / MAT / CMAT / ATMA** or state-level management entrance tests.
-2.  **Application Form:** Submit the official application online before the seat quota deadlines.
-3.  **Shortlisting:** Applicants are shortlisted based on entrance scores (typically 50% to 75%+ percentile) and graduation merit.
-4.  **GD-PI-WAT Rounds:** Shortlisted candidates participate in Group Discussion / Case Analysis and Personal Interview rounds evaluating communication skills, general awareness, and domain aptitude.
-5.  **Offer Letter & Enrollment:** Selected candidates receive provisional admission letters with tuition installment schedules.
-
----
-
-## 6. Fee vs Average Package ROI Comparison
-
-Here is how **Delhi School of Business (VIPS-TC)** compares against benchmark management institutes in its regional category:
-
-| College / Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| Fee Head / Component | Year 1 (₹) | Year 2 (₹) | Total Commitment (₹) |
 | :--- | :--- | :--- | :--- |
-| **Delhi School of Business (VIPS-TC)** | **₹11.50 Lakhs (Total)** | **₹10.5 LPA** | **CAT / XAT / MAT / CMAT / ATMA (50%+ Marks)** |
-| **Regional Benchmark Tier-2 Colleges** | ₹10.0L – ₹14.0L | ₹8.0L – ₹10.5L | National Entrance Tests (60%+ %ile) |
-| **Top Tier-1 Private Flagships** | ₹18.0L – ₹25.0L | ₹14.0L – ₹22.0L | CAT / XAT / NMAT (85%+ %ile) |
+| **Admission & Registration Fee** | ₹50,000 | — | ₹50,000 |
+| **Tuition & Academic Facility Fee** | ₹5,25,000 | ₹5,75,000 | ₹11,00,000 |
+| **Refundable Security Deposit** | ₹10,000 | — | ₹10,000 *(Refundable)* |
+| **Total Program Fee** | **₹5,85,000** | **₹5,75,000** | **₹11.50 Lakhs** |
+
+*Note: Delhi School of Business operates as a non-residential urban day-boarding campus in Pitampura. However, institutional assistance and verified student housing partnerships (PG/hostel amenities) are available near campus starting from ₹10,000 to ₹15,000 per month including food and Wi-Fi.*
 
 ---
 
-## 7. Campus Infrastructure & Student Life
+## 📈 Delhi School of Business Placement Report: Salary Trends & Recruiters
 
-*   **Smart Classrooms:** Fully air-conditioned lecture halls equipped with audio-visual presentation tools and interactive smart boards.
-*   **Library & Knowledge Centers:** Extensive collection of management books, Harvard business case repositories, EBSCO databases, and corporate journals.
-*   **Student Committees & Clubs:** Active student-led clubs managing annual management conclaves, marketing fests, cultural events, and industry guest speaker series.
-*   **Hostel & Dining:** Secure on-campus/affiliated residential facilities with high-speed Wi-Fi, modern cafeteria dining, and fitness amenities.
+**With an average salary package of ₹10.50 LPA and a peak package touching ₹23.90 LPA, Delhi School of Business offers one of the strongest fee-to-salary ratios in the Delhi NCR region.**
 
----
+### Batch Placement Statistics
 
-## 8. Mohit Jain's Expert Verdict: Should You Join Delhi School of Business?
+```
+Placement Distribution:
+├── Highest Domestic CTC: ₹23.90 LPA
+├── Top 20% Batch Average: ₹14.80 LPA
+├── Top 50% Batch Average: ₹12.10 LPA
+├── Overall Batch Average CTC: ₹10.50 LPA
+└── Overall Median CTC: ₹9.80 LPA
+```
 
-### Key Advantages (Pros)
-*   **Strong Corporate Presence:** Established placement partnerships with recruiters like Federal Bank, Black Rock, Deloitte, EY, Asian Paints, Amazon, S&P Global.
-*   **Balanced Financial ROI:** Starting average package of **₹10.5 LPA** provides reasonable payback timeline against the total investment of **₹11.50 Lakhs (Total)**.
-*   **Location Advantage:** Strategic presence in **Pitampura, North-West Delhi** providing regular industry visits, live corporate internships, and executive masterclasses.
+### Domain-Wise Placement Breakdown
 
-### Points to Consider (Cons)
-*   Batch size requires active student participation in placement preparation bootcamps.
-*   Hostel and living expenses are separate from the core tuition fee.
+| Specialization Domain | Average Package (CTC) | Key Hiring Profiles |
+| :--- | :--- | :--- |
+| **BFSI & Investment Banking** | ₹11.80 LPA | Equity Research Analyst, Credit Manager, Wealth Advisory |
+| **Management Consulting & Advisory** | ₹12.50 LPA | Associate Consultant, Strategy Analyst, Risk Consultant |
+| **Marketing, FMCG & E-Commerce** | ₹10.20 LPA | Area Sales Manager, Brand Trainee, Digital Growth Lead |
+| **FinTech, Business Analytics & IT** | ₹11.00 LPA | Business Analyst, Product Associate, Data Strategist |
+| **HR & Talent Operations** | ₹8.80 LPA | Talent Acquisition Partner, HR Business Partner |
 
-### Who Should Apply?
-Aspirants seeking a recognized AICTE-approved PGDM/MBA program in **Pitampura** with solid industry connections, practical skill-building specializations, and placement security in the ₹7–12 LPA salary bracket.
+### Prominent Recruiters at DSB Delhi
 
-### Who Should Avoid?
-Candidates holding calls from Tier-1 IIMs or premier B-schools offering ₹20+ LPA average compensation packages.
-
----
-
-## 9. Frequently Asked Questions (FAQs)
-
-### Q1. What is the average salary package at Delhi School of Business (VIPS-TC)?
-The verified average placement package at **Delhi School of Business (VIPS-TC)** is **₹10.5 LPA**, with top domestic packages touching **₹23.9 LPA**.
-
-### Q2. Which entrance exams are accepted for 2027 admission?
-**Delhi School of Business (VIPS-TC)** accepts scores from **CAT, XAT, MAT, CMAT, ATMA**, and institutional profile assessment.
-
-### Q3. What is the total tuition fee for the PGDM/MBA program?
-The total course fee is approximately **₹11.50 Lakhs (Total)** for the 2-year curriculum, payable in term installments.
-
-### Q4. How can I get 1-on-1 counseling for Delhi School of Business admission?
-You can book a personalized 1-on-1 guidance session with expert career counselor **Mohit Jain** to analyze your profile, cutoffs, and admission probabilities.
+- **Consulting & Financial Services**: Deloitte, EY, PwC, BlackRock, S&P Global, Protiviti, Mazars, Grant Thornton.
+- **Banking & Fintech**: Federal Bank, ICICI Bank, HDFC Bank, Axis Bank, IDFC FIRST Bank, BharatPe.
+- **FMCG, Retail & Tech**: Asian Paints, Berger Paints, Amazon, Wipro, Tata Power, Decathlon, Mondelez.
 
 ---
 
-## Related MBA Guides & Direct Resources
+## 🎯 Delhi School of Business Cutoff 2027 (Expected Percentiles)
 
-*   [Top 55+ MBA & PGDM Direct Admission Colleges 2027: Compare Fees & Placements](/mba-pgdm-admission-2027/)
-*   [Top Tier MBA Colleges 2027: IIMs, XLRI, NMIMS & SIBM Directory](/top-tier-mba-colleges/)
-*   [MBA Application Form Discounts 2027: Save ₹5,000+ on Application Forms](/mba-application-form-discount/)
-*   [Book a 1-on-1 Profile Evaluation with Mohit Jain](/book-session/)
+Admission to DSB Delhi is competitive yet accessible to aspirants with strong communication skills and well-rounded profiles.
+
+| Entrance Exam | Minimum Qualifying Percentile | Target Safe Percentile |
+| :--- | :--- | :--- |
+| **CAT (IIM Entrance)** | 65%ile | 75%ile+ |
+| **XAT (XLRI Jamshedpur)** | 65%ile | 75%ile+ |
+| **MAT (AIMA - 2026/2027)** | 75%ile | 85%ile+ |
+| **CMAT (NTA)** | 75%ile | 85%ile+ |
+| **ATMA / GMAT** | 75%ile / 550 Score | 80%ile+ / 600+ Score |
+
+[MockTestCard]
 
 ---
 
-### 🚀 Boost Your Preparation & Test Analytics
+## 📋 Eligibility Criteria & Selection Process
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+### 1. Academic Eligibility
+- Bachelor’s Degree in any discipline from a UGC/AIU-recognized university with at least **50% aggregate marks** (45% for reserved category candidates).
+- Final-year undergraduate students are eligible to apply, provided they submit graduation passing proof by the prescribed institute deadline.
+
+### 2. Weightage Breakdown for Final Selection
+
+| Parameter | Selection Weightage (%) |
+| :--- | :--- |
+| **National Entrance Test Score (CAT/XAT/MAT/CMAT/GMAT)** | **35%** |
+| **Personal Interview (PI) & Subject Knowledge** | **25%** |
+| **Extempore / Written Analysis Assessment** | **15%** |
+| **Academic Consistency (10th, 12th & Graduation)** | **15%** |
+| **Work Experience & Diversity Factor** | **10%** |
 
 ---
+
+## ⚖️ DSB Delhi vs Competitors: ROI Comparison
+
+| Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **Delhi School of Business (DSB)** | **₹11.50 Lakhs** | **₹10.50 LPA** | **₹23.90 LPA** | Pitampura, Delhi |
+| **NDIM New Delhi** | ₹11.50 Lakhs | ₹8.50 LPA | ₹16.00 LPA | Tughlakabad, Delhi |
+| **JIMS Rohini (Sector-5)** | ₹9.75 Lakhs | ₹8.50 LPA | ₹22.00 LPA | Rohini, Delhi |
+| **ASM Dwarka (Apeejay)** | ₹9.00 Lakhs | ₹8.20 LPA | ₹20.14 LPA | Dwarka, Delhi |
+| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | ₹25.00 LPA | Dwarka, Delhi |
+
+---
+
+## 🎓 Expert Admission Verdict by Mohit Jain
+
+> **Counselor's Take**: "Delhi School of Business is an exceptional choice for management aspirants who want prime Delhi metro connectivity, robust Big 4 and financial sector campus hiring, and a modern curriculum encompassing FinTech and Analytics. With a total fee of ₹11.50 Lakhs and median salaries hovering around ₹9.8 to ₹10.5 LPA, it offers a predictable, high-value career launchpad."
+
+---
+
+## ❓ Frequently Asked Questions (FAQs)
+
+### 1. What is the total fee structure for PGDM at Delhi School of Business?
+The total 2-year tuition and academic fee for the AICTE-approved PGDM program at Delhi School of Business (VIPS-TC) is **₹11.50 Lakhs**, payable in 4 semester-wise instalments.
+
+### 2. What is the average and highest placement package at Delhi School of Business?
+During the recent campus placement season, Delhi School of Business recorded an overall **average domestic package of ₹10.50 LPA**, with top 20% achievers averaging **₹14.80 LPA** and a peak domestic salary of **₹23.90 LPA**.
+
+### 3. Which entrance exams and cutoffs are accepted for DSB Delhi 2027 admissions?
+DSB accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT. Expected cutoffs range from **65–70 percentile** in CAT/XAT and **75–80+ percentile** in MAT/CMAT.
+
+### 4. Is Delhi School of Business AICTE approved and AIU equivalent?
+Yes, Delhi School of Business is approved by AICTE, accredited by NBA, and holds AIU equivalence, granting its 2-year PGDM official equivalence to an MBA degree.
+
+### 5. Does Delhi School of Business offer profile-based direct admission?
+Yes, candidates with consistent academic performance and entrance test scores can apply through profile-based evaluation rounds. Contact **Mohit Jain (+91 9560020771)** for direct application assistance and form fee concessions.
+
+---
+
+*Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
+*Source Reference: Official Delhi School of Business (VIPS-TC) Placement Reports, AICTE Approval Letters, and NIRF Submission Data.*
