@@ -19,11 +19,37 @@ import {
   Flame,
   AlertCircle,
   MessageCircle,
-  Users,
-  Award,
-  BookOpen
+  ExternalLink,
+  RefreshCw,
+  HelpCircle
 } from 'lucide-react';
 import { submitLead } from '@/lib/leads';
+
+declare global {
+  interface Window {
+    Calendly?: {
+      initInlineWidget: (options: {
+        url: string;
+        parentElement: HTMLElement | null;
+        prefill?: {
+          name?: string;
+          email?: string;
+          customAnswers?: Record<string, string>;
+        };
+        pageSettings?: {
+          backgroundColor?: string;
+          hideEventTypeDetails?: boolean;
+          hideLandingPageDetails?: boolean;
+          primaryColor?: string;
+          textColor?: string;
+        };
+        utm?: Record<string, string>;
+      }) => void;
+      showPopupWidget?: (url: string) => void;
+      closePopupWidget?: () => void;
+    };
+  }
+}
 
 interface CalendlyBookingWidgetProps {
   url?: string;
@@ -77,11 +103,13 @@ export function CalendlyBookingWidget({
 
   // Calendly Widget States
   const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [iframeHeight, setIframeHeight] = useState<string>('680px');
-  const calendarRef = useRef<HTMLDivElement>(null);
+  const [loadTimedOut, setLoadTimedOut] = useState<boolean>(false);
+  const [scriptBlocked, setScriptBlocked] = useState<boolean>(false);
+  const calendarContainerRef = useRef<HTMLDivElement>(null);
+  const scrollTargetRef = useRef<HTMLDivElement>(null);
 
-  // Construct embed URL with prefilled student name, email, answers, and light theme parameters
-  const buildEmbedUrl = (
+  // Construct direct prefilled URL for Calendly
+  const buildPrefilledUrl = (
     studentName = name, 
     studentEmail = email, 
     course = selectedCourse, 
@@ -99,8 +127,6 @@ export function CalendlyBookingWidget({
 
     try {
       const u = new URL(url);
-      u.searchParams.set('embed_domain', typeof window !== 'undefined' ? window.location.hostname : 'careerwithmohit.online');
-      u.searchParams.set('embed_type', 'Inline');
       u.searchParams.set('hide_landing_page_details', '1');
       u.searchParams.set('hide_gdpr_banner', '1');
       u.searchParams.set('primary_color', '4f46e5');
@@ -132,19 +158,120 @@ export function CalendlyBookingWidget({
     }
   };
 
-  const [embedUrl, setEmbedUrl] = useState<string>(() => buildEmbedUrl());
+  // Express WhatsApp Booking with pre-filled text
+  const getWhatsAppMessage = () => {
+    const student = name.trim() || 'Aspirant';
+    return encodeURIComponent(
+      `Hi Mohit Sir, my name is ${student}. I want to book a free 1-on-1 MBA counselling video session.\n\n` +
+      `📌 *My Profile & Preferences:*\n` +
+      `• Interested Course: ${selectedCourse}\n` +
+      `• Target Exam: ${selectedExam}\n` +
+      `• Preferred Budget: ${selectedBudget}\n` +
+      (location ? `• Current City: ${location}\n` : '') +
+      `• WhatsApp Number: ${phone || 'This Number'}\n` +
+      `• Parents Joining: ${parentJoining ? 'Yes' : 'No'}\n\n` +
+      `Please let me know your next open Google Meet slot today!`
+    );
+  };
 
-  // Listen to Calendly messages (auto-resize height & log completed booking)
+  // Initialize official Calendly Widget when Step 2 is active
+  useEffect(() => {
+    if (!isStepConfirmed) return;
+
+    setIsLoading(true);
+    setLoadTimedOut(false);
+    setScriptBlocked(false);
+
+    // Timeout fallback trigger if embed takes longer than 4.5s
+    const timer = setTimeout(() => {
+      setLoadTimedOut(true);
+      setIsLoading(false);
+    }, 4500);
+
+    const initWidget = () => {
+      if (typeof window === 'undefined' || !calendarContainerRef.current) return;
+
+      try {
+        if (window.Calendly && typeof window.Calendly.initInlineWidget === 'function') {
+          calendarContainerRef.current.innerHTML = '';
+          const targetUrl = buildPrefilledUrl(name, email, selectedCourse, selectedExam, selectedBudget, location);
+
+          window.Calendly.initInlineWidget({
+            url: targetUrl,
+            parentElement: calendarContainerRef.current,
+            prefill: {
+              name: name.trim(),
+              email: email.trim(),
+              customAnswers: {
+                a1: selectedCourse,
+                a2: [
+                  `Course: ${selectedCourse}`,
+                  `Exam: ${selectedExam}`,
+                  `Budget: ${selectedBudget}`,
+                  location ? `City: ${location}` : '',
+                  `Parents: ${parentJoining ? 'Yes' : 'No'}`
+                ].filter(Boolean).join(' | ')
+              }
+            },
+            pageSettings: {
+              backgroundColor: 'ffffff',
+              hideEventTypeDetails: false,
+              hideLandingPageDetails: true,
+              primaryColor: '4f46e5',
+              textColor: '1e293b'
+            }
+          });
+
+          // Wait brief moment for container injection
+          setTimeout(() => {
+            setIsLoading(false);
+          }, 800);
+        }
+      } catch (err) {
+        console.warn('Calendly init warning:', err);
+        setScriptBlocked(true);
+        setIsLoading(false);
+      }
+    };
+
+    // Load Calendly CSS if not present
+    if (!document.querySelector('link[href*="calendly.com/assets/external/widget.css"]')) {
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = 'https://assets.calendly.com/assets/external/widget.css';
+      document.head.appendChild(link);
+    }
+
+    // Load Calendly Script if not present
+    if (window.Calendly) {
+      initWidget();
+    } else {
+      const existingScript = document.querySelector('script[src*="calendly.com/assets/external/widget.js"]');
+      if (existingScript) {
+        existingScript.addEventListener('load', initWidget);
+      } else {
+        const script = document.createElement('script');
+        script.src = 'https://assets.calendly.com/assets/external/widget.js';
+        script.async = true;
+        script.onload = () => {
+          initWidget();
+        };
+        script.onerror = () => {
+          setScriptBlocked(true);
+          setIsLoading(false);
+        };
+        document.body.appendChild(script);
+      }
+    }
+
+    return () => {
+      clearTimeout(timer);
+    };
+  }, [isStepConfirmed, name, email, selectedCourse, selectedExam, selectedBudget, location, parentJoining]);
+
+  // Listen to Calendly messages (scheduled event confirmation)
   useEffect(() => {
     const handleCalendlyMessage = (e: MessageEvent) => {
-      // Calendly height resize event
-      if (e.data && e.data.event === 'calendly.page_height' && e.data.payload?.height) {
-        const h = parseInt(e.data.payload.height, 10);
-        if (!isNaN(h) && h > 450) {
-          setIframeHeight(`${h}px`);
-        }
-      }
-
       // Calendly scheduled event confirmation
       if (e.data && e.data.event === 'calendly.event_scheduled') {
         setIsScheduledSuccess(true);
@@ -227,53 +354,33 @@ export function CalendlyBookingWidget({
         }
       });
 
-      // 2. Update Calendly prefill URL with student details
-      const newUrl = buildEmbedUrl(cleanName, email, selectedCourse, selectedExam, selectedBudget, location);
-      setEmbedUrl(newUrl);
-      setIsLoading(true);
       setIsStepConfirmed(true);
 
-      // 3. Smooth scroll to the Calendly slot calendar
+      // Smooth scroll to the slot calendar
       setTimeout(() => {
-        calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        scrollTargetRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }, 150);
 
     } catch (err: any) {
       console.warn('Lead submission warning:', err);
-      const fallbackUrl = buildEmbedUrl(cleanName, email, selectedCourse, selectedExam, selectedBudget, location);
-      setEmbedUrl(fallbackUrl);
-      setIsLoading(true);
       setIsStepConfirmed(true);
-      calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      setTimeout(() => {
+        scrollTargetRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 150);
     } finally {
       setIsSubmittingLead(false);
     }
   };
 
-  // Express WhatsApp Booking with pre-filled text
-  const getWhatsAppMessage = () => {
-    const student = name.trim() || 'Aspirant';
-    return encodeURIComponent(
-      `Hi Mohit Sir, my name is ${student}. I want to book a free 1-on-1 MBA counselling video session.\n\n` +
-      `📌 *My Profile & Preferences:*\n` +
-      `• Interested Course: ${selectedCourse}\n` +
-      `• Target Exam: ${selectedExam}\n` +
-      `• Preferred Budget: ${selectedBudget}\n` +
-      (location ? `• Current City: ${location}\n` : '') +
-      `• WhatsApp Number: ${phone || 'This Number'}\n` +
-      `• Parents Joining: ${parentJoining ? 'Yes' : 'No'}\n\n` +
-      `Please let me know your next open Google Meet slot today!`
-    );
-  };
-
   // Direct Jump to calendar view
   const handleDirectCalendarView = () => {
-    setIsLoading(true);
     setIsStepConfirmed(true);
     setTimeout(() => {
-      calendarRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      scrollTargetRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }, 150);
   };
+
+  const directCalendlyLink = buildPrefilledUrl(name, email, selectedCourse, selectedExam, selectedBudget, location);
 
   return (
     <div className={`space-y-4 ${className}`} id="booking-widget-container">
@@ -607,7 +714,7 @@ export function CalendlyBookingWidget({
         /* STEP 2: Live Calendly / Google Meet Slot Booking Card */
         <div 
           id="live-calendly-picker" 
-          ref={calendarRef} 
+          ref={scrollTargetRef} 
           className="relative w-full bg-white rounded-3xl border border-slate-200/80 shadow-xl shadow-slate-200/60 overflow-hidden scroll-mt-20 transition-all"
         >
           {/* Step 2 Header Banner */}
@@ -618,14 +725,25 @@ export function CalendlyBookingWidget({
                 <span>Live Google Meet Slots</span>
               </span>
 
-              <button
-                type="button"
-                onClick={() => setIsStepConfirmed(false)}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white hover:bg-slate-50 text-xs font-bold text-slate-700 border border-slate-200 shadow-xs transition-colors cursor-pointer"
-              >
-                <Edit3 className="w-3.5 h-3.5 text-indigo-600" />
-                <span>Edit Details</span>
-              </button>
+              <div className="flex items-center gap-2">
+                <button
+                  type="button"
+                  onClick={() => setIsStepConfirmed(false)}
+                  className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white hover:bg-slate-50 text-xs font-bold text-slate-700 border border-slate-200 shadow-xs transition-colors cursor-pointer"
+                >
+                  <Edit3 className="w-3.5 h-3.5 text-indigo-600" />
+                  <span>Edit Details</span>
+                </button>
+                <a
+                  href={directCalendlyLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-indigo-50 hover:bg-indigo-100 text-xs font-bold text-indigo-700 border border-indigo-200 transition-colors shadow-xs"
+                >
+                  <span>Open in Full Screen</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+              </div>
             </div>
 
             <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
@@ -679,10 +797,49 @@ export function CalendlyBookingWidget({
             </div>
           )}
 
-          {/* Calendly Inline Iframe */}
-          <div className="relative w-full bg-white p-2 sm:p-4 min-h-[550px]">
+          {/* Quick Fallback Action Notice if embed takes time or browser blocks it */}
+          {(loadTimedOut || scriptBlocked) && (
+            <div className="m-4 p-4 rounded-2xl bg-amber-50 border border-amber-200 text-amber-900 space-y-3">
+              <div className="flex items-start gap-2.5">
+                <AlertCircle className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
+                <div>
+                  <div className="text-xs font-bold text-amber-900">
+                    If the calendar widget takes longer to load on your device:
+                  </div>
+                  <div className="text-xs text-amber-800 mt-0.5">
+                    You can pick your slot directly on Calendly in a new tab, or book instantly via WhatsApp.
+                  </div>
+                </div>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-2 pt-1">
+                <a
+                  href={directCalendlyLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-4 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold transition-all inline-flex items-center gap-2 shadow-md shadow-indigo-600/20"
+                >
+                  <span>🚀 Open Slot Picker in New Tab</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+
+                <a
+                  href={`https://wa.me/919560020771?text=${getWhatsAppMessage()}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-4 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold transition-all inline-flex items-center gap-2 shadow-md shadow-emerald-600/20"
+                >
+                  <MessageCircle className="w-3.5 h-3.5" />
+                  <span>💬 Confirm Slot via WhatsApp (+91 9560020771)</span>
+                </a>
+              </div>
+            </div>
+          )}
+
+          {/* Calendly Inline Widget Container */}
+          <div className="relative w-full bg-white p-2 sm:p-4 min-h-[660px]">
             {isLoading && (
-              <div className="absolute inset-0 bg-white/90 z-10 flex flex-col items-center justify-center p-6 text-center">
+              <div className="absolute inset-0 bg-white/95 z-10 flex flex-col items-center justify-center p-6 text-center">
                 <Loader2 className="w-8 h-8 text-indigo-600 animate-spin mb-3" />
                 <div className="text-sm font-bold text-slate-800">
                   Loading Available Google Meet Slots...
@@ -690,35 +847,57 @@ export function CalendlyBookingWidget({
                 <div className="text-xs text-slate-500 mt-1 max-w-xs">
                   Fetching open calendar dates for Mohit Jain. Takes just a moment.
                 </div>
+                <div className="mt-4 flex items-center gap-3">
+                  <a
+                    href={directCalendlyLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-indigo-600 hover:underline font-bold inline-flex items-center gap-1"
+                  >
+                    <span>Open directly in new tab ↗</span>
+                  </a>
+                </div>
               </div>
             )}
 
-            <iframe
-              src={embedUrl}
-              width="100%"
-              height={iframeHeight}
-              style={{ minHeight: '550px', border: 'none' }}
-              title="Select 30-Minute Google Meet Slot with Mohit Jain"
-              onLoad={() => setIsLoading(false)}
-              className="w-full rounded-2xl"
+            {/* Target DOM Element for window.Calendly.initInlineWidget */}
+            <div 
+              ref={calendarContainerRef}
+              className="calendly-inline-widget w-full rounded-2xl overflow-hidden" 
+              style={{ minWidth: '320px', height: '680px' }}
             />
           </div>
 
-          {/* Bottom Security / Trust Footer */}
-          <div className="bg-slate-50 px-4 sm:px-6 py-3 border-t border-slate-200/80 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-500">
+          {/* Bottom Security & Direct Contact Footer */}
+          <div className="bg-slate-50 px-4 sm:px-6 py-3.5 border-t border-slate-200/80 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-500">
             <span className="flex items-center gap-1.5 text-slate-600 font-medium">
               <ShieldCheck className="w-4 h-4 text-emerald-600" />
               <span>Google Meet Encrypted • 100% Privacy • No Spam</span>
             </span>
-            <a
-              href={`https://wa.me/919560020771?text=${getWhatsAppMessage()}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-indigo-600 hover:text-indigo-800 font-bold inline-flex items-center gap-1"
-            >
-              <MessageCircle className="w-3.5 h-3.5 text-emerald-600" />
-              <span>Having trouble with the calendar? Chat on WhatsApp</span>
-            </a>
+
+            <div className="flex items-center gap-3 flex-wrap">
+              <a
+                href={directCalendlyLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-indigo-600 hover:text-indigo-800 font-bold inline-flex items-center gap-1"
+              >
+                <ExternalLink className="w-3.5 h-3.5" />
+                <span>Open in New Window</span>
+              </a>
+
+              <span className="text-slate-300">•</span>
+
+              <a
+                href={`https://wa.me/919560020771?text=${getWhatsAppMessage()}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-emerald-700 hover:text-emerald-900 font-bold inline-flex items-center gap-1"
+              >
+                <MessageCircle className="w-3.5 h-3.5 text-emerald-600" />
+                <span>Chat on WhatsApp</span>
+              </a>
+            </div>
           </div>
 
         </div>
