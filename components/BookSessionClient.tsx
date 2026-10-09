@@ -252,7 +252,7 @@ const FAQS = [
 ];
 
 export function BookSessionClient({
-  calendlyUrl = 'https://calendly.com/careerwithmohit-jain/30min'
+  calendlyUrl = 'https://calendly.com/careerwithmohit-jain'
 }: BookSessionClientProps) {
   // Agenda tab state
   const [activeTab, setActiveTab] = useState<string>('profile');

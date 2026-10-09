@@ -82,7 +82,7 @@ const BUDGET_RANGES = [
 ];
 
 export function CalendlyBookingWidget({
-  url = 'https://calendly.com/careerwithmohit-jain/30min',
+  url = 'https://calendly.com/careerwithmohit-jain',
   className = '',
 }: CalendlyBookingWidgetProps) {
   // Step 1 Form States
