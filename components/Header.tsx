@@ -254,6 +254,18 @@ export function Header() {
               {/* Fast Direct Secondary Links (Right aligned in nav ribbon) */}
               <div className="flex items-center gap-2 pl-3 border-l border-slate-200">
                 <Link
+                  href="/tools/cat-score-calculator/"
+                  className="h-8 px-2.5 rounded-lg text-amber-800 bg-amber-50 hover:bg-amber-100 border border-amber-200/90 flex items-center gap-1.5 transition-all group font-bold shadow-2xs"
+                  title="CAT 2026 Score & Percentile Calculator"
+                >
+                  <Calculator className="w-3.5 h-3.5 text-amber-600 group-hover:scale-110 transition-transform shrink-0" />
+                  <span className="text-xs font-bold capitalize tracking-normal">CAT Score Calc</span>
+                  <span className="px-1.5 py-0.2 rounded-full text-[9px] bg-gradient-to-r from-red-500 to-amber-500 text-white font-extrabold shadow-2xs animate-pulse">
+                    LIVE
+                  </span>
+                </Link>
+
+                <Link
                   href="/mock-tests/"
                   className="h-8 px-2.5 rounded-lg text-slate-700 hover:text-blue-700 hover:bg-blue-50 flex items-center gap-1.5 transition-all group"
                 >

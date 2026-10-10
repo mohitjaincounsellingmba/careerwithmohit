@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import {
   Calculator,
   RefreshCw,
@@ -33,6 +33,7 @@ import {
   ArrowRight,
   ExternalLink,
   Percent,
+  Terminal,
 } from "lucide-react";
 import Link from "next/link";
 import { submitLead } from "@/lib/leads";
@@ -345,6 +346,28 @@ export function CatScoreCalculator() {
   const [parseError, setParseError] = useState("");
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [analysisResult, setAnalysisResult] = useState<any>(null);
+  const [consoleCodeCopied, setConsoleCodeCopied] = useState(false);
+
+  // Read URL query parameter if candidate arrives from bookmarklet or referral link
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const urlParam = params.get("url");
+      if (urlParam) {
+        setResponseSheetUrl(decodeURIComponent(urlParam));
+        setInputMode("url");
+      }
+    }
+  }, []);
+
+  const handleCopyConsoleCode = () => {
+    const code = "copy(document.documentElement.outerHTML);alert('CAT Response Sheet HTML copied to clipboard! Now paste it in the HTML Source tab on CareerWithMohit.');";
+    if (typeof navigator !== "undefined" && navigator.clipboard) {
+      navigator.clipboard.writeText(code);
+      setConsoleCodeCopied(true);
+      setTimeout(() => setConsoleCodeCopied(false), 3000);
+    }
+  };
 
   const handleAnalyzeUrl = async () => {
     if (!responseSheetUrl.trim()) {
@@ -829,6 +852,52 @@ Calculate your score with official Digialm answer key check & slot normalization
                 >
                   {isParsing ? "Parsing Response Source..." : "Extract & Calculate from Source"}
                 </button>
+              </div>
+            )}
+
+            {/* Helper: 1-Click Console Shortcut & Bookmarklet */}
+            {(inputMode === "url" || inputMode === "source") && (
+              <div className="mt-4 p-4 rounded-2xl bg-slate-900 text-slate-200 border border-slate-800 shadow-inner">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-2.5 pb-2.5 border-b border-slate-800">
+                  <div className="flex items-center gap-2">
+                    <span className="w-2 h-2 rounded-full bg-[#00FF88] animate-ping" />
+                    <span className="font-bold text-white text-xs flex items-center gap-1.5 font-mono uppercase tracking-wider">
+                      <Terminal className="w-3.5 h-3.5 text-[#00F0FF]" />
+                      Fast Shortcut: 1-Click Console Auto-Copy
+                    </span>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={handleCopyConsoleCode}
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/20 active:scale-95 text-white text-xs font-semibold transition-all cursor-pointer shrink-0 border border-white/15"
+                  >
+                    {consoleCodeCopied ? (
+                      <>
+                        <Check className="w-3.5 h-3.5 text-[#00FF88]" />
+                        <span className="text-[#00FF88] font-bold">Script Copied!</span>
+                      </>
+                    ) : (
+                      <>
+                        <Copy className="w-3.5 h-3.5 text-[#00F0FF]" />
+                        <span>Copy 1-Click Script</span>
+                      </>
+                    )}
+                  </button>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-[11px] text-slate-300">
+                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
+                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">1</span>
+                    <span>Open response sheet on <strong>digialm.com</strong> and press <kbd className="bg-slate-800 px-1 py-0.5 rounded text-[10px] text-white font-mono">F12</kbd> (or Inspect → Console).</span>
+                  </div>
+                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
+                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">2</span>
+                    <span>Click <strong>Copy 1-Click Script</strong> above, paste in Console &amp; hit <strong>Enter</strong>.</span>
+                  </div>
+                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
+                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">3</span>
+                    <span>Switch to <strong>HTML Source</strong> tab here, press <kbd className="bg-slate-800 px-1 py-0.5 rounded text-[10px] text-white font-mono">Ctrl+V</kbd> &amp; calculate!</span>
+                  </div>
+                </div>
               </div>
             )}
 

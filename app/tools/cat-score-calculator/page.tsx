@@ -35,61 +35,43 @@ import {
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
+  title: "CAT 2026 Score Calculator & Response Sheet Percentile Predictor",
   description:
-    "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
+    "Calculate your CAT 2026 score & percentile instantly from your official response sheet URL or source. Accurate Slot 1, 2, 3 scaling & IIM call predictor.",
   keywords: [
     "cat score calculator 2026",
-    "cat exam score calculator",
-    "cat response sheet",
-    "cat 2026 answer key",
-    "cat 2026 response sheet check",
-    "cat exam",
-    "cat answer key calculator",
+    "cat response sheet calculator 2026",
+    "cat answer key calculator 2026",
     "cat 2026 percentile predictor",
     "cat marks vs percentile 2026",
-    "cat 2026 score calculator",
-    "cat response sheet calculator",
-    "cat marks calculator",
-    "cat percentile calculator",
-    "cat raw score calculator",
-    "cat scaled score calculator",
     "cat raw score vs scaled score 2026",
-    "cat score calculator by slot",
+    "how to calculate cat score from response sheet",
     "cat slot 1 score calculator",
     "cat slot 2 score calculator",
     "cat slot 3 score calculator",
-    "cat 2026 response sheet score calculator",
-    "cat sectional marks vs percentile",
-    "cat varc dilr qa score",
-    "cat score vs percentile analysis",
+    "cat response sheet url check",
+    "cat 2026 response sheet check online",
+    "cat answer key checker",
     "expected cat score for 99 percentile",
     "expected cat score for 95 percentile",
     "expected cat score for 90 percentile",
-    "cat expected percentile 2026",
-    "cat 2026 score vs percentile",
-    "cat normalization process 2026",
-    "cat normalisation calculator",
-    "cat answer key challenge fee",
+    "cat normalisation calculator 2026",
+    "cat score calculator cdn.digialm.com",
     "iim admission score calculator",
     "iim call predictor 2027",
     "iim admission cut-offs 2027",
+    "cat sectional marks vs percentile",
+    "cat varc dilr qa score calculator",
     "mba admission 2027",
-    "pgdm admission 2027",
-    "mba admission delhi ncr",
-    "mba admission mumbai",
-    "mba admission bangalore",
-    "mba admission pune",
-    "mba colleges accepting cat score 2026",
-    "cat response sheet url check"
+    "mba colleges accepting cat score 2026"
   ],
   alternates: {
     canonical: "https://careerwithmohit.online/tools/cat-score-calculator/",
   },
   openGraph: {
-    title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
+    title: "CAT 2026 Score Calculator & Response Sheet Percentile Predictor",
     description:
-      "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
+      "Calculate your CAT 2026 score & percentile instantly from your official response sheet URL or source. Accurate Slot 1, 2, 3 scaling & IIM call predictor.",
     type: "website",
     url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     siteName: "CareerWithMohit",
@@ -105,9 +87,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "CAT 2026 Score to Percentile Calculator (Sectional & Scaled) — Instant Result",
+    title: "CAT 2026 Score Calculator & Response Sheet Percentile Predictor",
     description:
-      "Free CAT 2026 Score to Percentile Calculator & Response Sheet Checker. Calculate sectional raw marks, slot scaled scores & predict IIM calls instantly for 2027 admissions.",
+      "Calculate your CAT 2026 score & percentile instantly from your official response sheet URL or source. Accurate Slot 1, 2, 3 scaling & IIM call predictor.",
     images: ["/og-image.webp"],
   },
   other: {
@@ -185,13 +167,27 @@ export default function CatScoreCalculatorPage() {
     })),
   };
 
+  const speakableSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "CAT 2026 Score Calculator & Response Sheet Percentile Predictor",
+    url: "https://careerwithmohit.online/tools/cat-score-calculator/",
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["#direct-ai-answer-summary", "#marks-vs-percentile", "#faq-section"],
+    },
+  };
+
   const webAppSchema = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: "CAT Score Calculator 2026 & Response Sheet Checker",
+    name: "CAT 2026 Score Calculator & Response Sheet Percentile Predictor",
     url: "https://careerwithmohit.online/tools/cat-score-calculator/",
     applicationCategory: "EducationalApplication",
-    operatingSystem: "All (Web, iOS, Android, macOS, Windows)",
+    applicationSubCategory: "CAT Score Calculator, Response Sheet Checker & IIM Percentile Predictor",
+    operatingSystem: "All (Web, iOS, Android, macOS, Windows, Linux)",
+    softwareVersion: "2026.3",
+    screenshot: "https://careerwithmohit.online/og-image.webp",
     offers: {
       "@type": "Offer",
       price: "0",
@@ -204,9 +200,19 @@ export default function CatScoreCalculatorPage() {
       worstRating: "1",
       ratingCount: "1850",
     },
+    creator: {
+      "@type": "Person",
+      name: "Mohit Jain",
+      url: "https://careerwithmohit.online/about",
+      sameAs: [
+        "https://www.linkedin.com/in/mohitjainmba",
+        "https://api.whatsapp.com/send/?phone=919560020771"
+      ]
+    },
     featureList: [
       "Official CAT Response Sheet URL & Page Source Scanner",
-      "Accurate 66-Question 198-Mark CAT Pattern Calculator",
+      "1-Click Browser Console Auto-Copy Shortcut (bypasses digialm lag)",
+      "Accurate 66-Question 198-Mark CAT Pattern Calculator (+3/-1/0 TITA)",
       "Slot 1, Slot 2 & Slot 3 Equating Normalization Predictor",
       "Sectional Percentile Prediction for VARC, DILR, and QA",
       "IIM Ahmedabad, Bangalore, Calcutta & BLACKI Call Range Estimator",
@@ -285,6 +291,23 @@ export default function CatScoreCalculatorPage() {
     name: "CAT 2026 Score Calculator & Response Sheet Checker",
     description: "Comprehensive CAT 2026 score calculation, answer key analysis, slot normalization guide, and 2027 MBA admission percentile predictor.",
     url: "https://careerwithmohit.online/tools/cat-score-calculator/",
+    about: [
+      {
+        "@type": "Thing",
+        name: "Common Admission Test",
+        sameAs: "https://en.wikipedia.org/wiki/Common_Admission_Test",
+      },
+      {
+        "@type": "Thing",
+        name: "Indian Institutes of Management",
+        sameAs: "https://en.wikipedia.org/wiki/Indian_Institutes_of_Management",
+      },
+      {
+        "@type": "Thing",
+        name: "Equipercentile Equating",
+        sameAs: "https://en.wikipedia.org/wiki/Equipercentile_equating",
+      },
+    ],
     author: {
       "@type": "Person",
       name: "Mohit Jain",
@@ -312,6 +335,7 @@ export default function CatScoreCalculatorPage() {
   return (
     <main className="min-h-screen bg-[#F8FAFC] text-[#061124] selection:bg-[#F59E0B] selection:text-[#061124]">
       <JsonLd data={faqSchema} />
+      <JsonLd data={speakableSchema} />
       <JsonLd data={webAppSchema} />
       <JsonLd data={howToSchema} />
       <JsonLd data={breadcrumbSchema} />
@@ -379,7 +403,7 @@ export default function CatScoreCalculatorPage() {
             </h1>
 
             {/* DIRECT AI ANSWER CARD (GEO / AEO RULE 1) */}
-            <div className="p-5 sm:p-6 rounded-3xl bg-white/[0.08] backdrop-blur-2xl border border-white/20 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.5)] mb-8">
+            <div id="direct-ai-answer-summary" className="p-5 sm:p-6 rounded-3xl bg-white/[0.08] backdrop-blur-2xl border border-white/20 shadow-[0_20px_50px_-15px_rgba(0,0,0,0.5)] mb-8">
               <div className="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-[#00F0FF] mb-2">
                 <Sparkles className="w-4 h-4 text-[#00F0FF]" /> Direct AI Answer Summary
               </div>
@@ -491,9 +515,72 @@ export default function CatScoreCalculatorPage() {
             </div>
 
             <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
+              {/* Inverted Pyramid AEO Direct Answer */}
+              <p className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-cyan-50/70 p-4 sm:p-5 rounded-2xl border border-cyan-200">
+                To calculate your CAT 2026 score from your response sheet, paste your official candidate URL from cdn.digialm.com (or press Ctrl+U to copy page source) into the CareerWithMohit scanner to get an instant breakdown of correct/wrong attempts (+3/−1/0), slot-normalized scaled scores, and 2027 percentile forecasts.
+              </p>
+
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 As soon as the conducting IIM releases the official <strong>CAT 2026 candidate response sheet</strong> and provisional <strong>answer key</strong>, candidates can verify every MCQ and TITA attempt without tedious manual counting. Our built-in <strong>CAT response sheet check tool</strong> reads your official candidate URL (hosted on <code>cdn.digialm.com</code> or <code>iimcat.ac.in</code>) or HTML source code directly to compute instant score results.
               </p>
+
+              {/* AEO / GEO Fact Extraction Entity Triples Matrix */}
+              <div className="rounded-2xl border border-slate-200 overflow-hidden shadow-2xs">
+                <div className="bg-slate-900 text-white px-4 py-2.5 text-xs font-mono font-bold flex items-center justify-between">
+                  <span className="flex items-center gap-1.5 text-[#00F0FF]">
+                    <Sparkles className="w-3.5 h-3.5" /> Verified CAT 2026 Knowledge Entities (AEO Standard)
+                  </span>
+                  <span className="text-[10px] text-slate-400 font-sans uppercase">IIM Admissions 2027</span>
+                </div>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-left text-xs sm:text-sm">
+                    <thead className="bg-slate-100 text-slate-800 font-mono text-[11px] uppercase">
+                      <tr>
+                        <th className="p-3 border-b border-slate-200">Entity Triple Subject</th>
+                        <th className="p-3 border-b border-slate-200">Relationship</th>
+                        <th className="p-3 border-b border-slate-200">Verified Factual Value</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-slate-100 font-medium text-slate-700">
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">CAT 2026 Exam Format</td>
+                        <td className="p-3 font-mono text-slate-500">comprises</td>
+                        <td className="p-3">66 Questions · 198 Maximum Marks · 120 Minutes (40 mins/sec)</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">Marking Scheme</td>
+                        <td className="p-3 font-mono text-slate-500">awards</td>
+                        <td className="p-3">+3 per correct MCQ, −1 per wrong MCQ, 0 penalty for TITA questions</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">99.0+ Percentile Threshold</td>
+                        <td className="p-3 font-mono text-slate-500">requires</td>
+                        <td className="p-3">82 to 94 Raw Marks (approx 29 to 32 Net Correct Questions)</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">95.0+ Percentile Threshold</td>
+                        <td className="p-3 font-mono text-slate-500">requires</td>
+                        <td className="p-3">60 to 74 Raw Marks (approx 21 to 25 Net Correct Questions)</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">Response Sheet Source</td>
+                        <td className="p-3 font-mono text-slate-500">hostedOn</td>
+                        <td className="p-3 font-mono text-xs">cdn.digialm.com / iimcat.ac.in (TCS iON candidate portal)</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">Slot Normalization</td>
+                        <td className="p-3 font-mono text-slate-500">calculatedVia</td>
+                        <td className="p-3">Equipercentile Equating Method across Slot 1, Slot 2, and Slot 3</td>
+                      </tr>
+                      <tr>
+                        <td className="p-3 font-bold text-slate-900">IIM BLACKI Interview Shortlist</td>
+                        <td className="p-3 font-mono text-slate-500">targets</td>
+                        <td className="p-3">99.5+ percentile for General Category (95+ raw marks)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
                 <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3">
@@ -537,6 +624,11 @@ export default function CatScoreCalculatorPage() {
             </div>
 
             <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
+              {/* Inverted Pyramid AEO Direct Answer */}
+              <p className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-amber-50/70 p-4 sm:p-5 rounded-2xl border border-amber-200">
+                The official CAT 2026 provisional answer key is released alongside the candidate response sheet at iimcat.ac.in within 3 to 4 days of the exam. Candidates can raise objections during the 3-day challenge window by paying INR 1,200 per question, which is 100% refunded if the objection is validated.
+              </p>
+
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 The <strong>CAT 2026 provisional answer key</strong> is published alongside the candidate response sheet within 3 to 4 days post-exam. If you discover discrepancies in the official answer key for Slot 1, Slot 2, or Slot 3, you can file an objection through the official candidate grievance portal.
               </p>
@@ -577,6 +669,11 @@ export default function CatScoreCalculatorPage() {
             </div>
 
             <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
+              {/* Inverted Pyramid AEO Direct Answer */}
+              <p className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-violet-50/70 p-4 sm:p-5 rounded-2xl border border-violet-200">
+                CAT 2026 is held on the last Sunday of November across three 2-hour shifts: Slot 1 (8:30–10:30 AM), Slot 2 (12:30–2:30 PM), and Slot 3 (4:30–6:30 PM). Candidates must attempt 24 VARC, 20 DILR, and 22 QA questions with a strict 40-minute non-negotiable limit per section.
+              </p>
+
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 The <strong>Common Admission Test (CAT)</strong> is conducted in 3 distinct shifts on the last Sunday of November across 155+ test cities in India. The exam enforces a strict 40-minute sectional time limit with no option to toggle between sections.
               </p>
@@ -640,6 +737,11 @@ export default function CatScoreCalculatorPage() {
             </div>
 
             <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
+              {/* Inverted Pyramid AEO Direct Answer */}
+              <p id="marks-vs-percentile-summary" className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-cyan-50/70 p-4 sm:p-5 rounded-2xl border border-cyan-200">
+                To achieve a 99.0+ percentile in CAT 2026, an aspirant requires 82 to 94 raw marks (29–32 net questions) out of 198. A score of 60 to 74 marks fetches a 95 percentile, 48 to 59 marks secures a 90 percentile, and an elite 99.9 percentile requires 110+ marks.
+              </p>
+
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 In CAT 2026, scoring above <strong>50% raw marks (~100 marks out of 198)</strong> comfortably places an aspirant above the <strong>99.5 percentile</strong>. Because CAT tests relative performance rather than absolute accuracy, understanding raw marks vs percentile targets helps plan mock test benchmarks and target college shortlists:
               </p>
@@ -701,6 +803,11 @@ export default function CatScoreCalculatorPage() {
             </div>
 
             <div className="bg-white rounded-[32px] border-[1.5px] border-[#061124]/10 p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)] space-y-6">
+              {/* Inverted Pyramid AEO Direct Answer */}
+              <p className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-emerald-50/70 p-4 sm:p-5 rounded-2xl border border-emerald-200">
+                CAT slot normalization applies statistical equipercentile equating to harmonize score variations across Slot 1, Slot 2, and Slot 3. The formula compares individual slot means and standard deviations against the master pool, with tougher slots receiving upward score calibrations before final percentiles are generated.
+              </p>
+
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed font-medium">
                 Because CAT is administered in three distinct shifts across test centers in India, small variations in question paper difficulty naturally occur. To ensure complete fairness for all test takers, IIMs implement a multi-stage <strong>equipercentile equating normalization method</strong> modeled on statistical standardization.
               </p>
@@ -749,6 +856,11 @@ export default function CatScoreCalculatorPage() {
                 Top MBA Colleges &amp; IIM Cutoffs by CAT Percentile Tier (2027 Admissions)
               </h2>
             </div>
+
+            {/* Inverted Pyramid AEO Direct Answer */}
+            <p className="text-sm sm:text-base text-slate-900 leading-relaxed font-bold bg-blue-50/70 p-4 sm:p-5 rounded-2xl border border-blue-200">
+              Aspirants scoring 99+ percentile qualify for IIM Ahmedabad, Bangalore, Calcutta, FMS, and SPJIMR. Scores between 90 and 98 percentile unlock New IIMs, MDI, and IITs, while 80 to 90 percentile qualifies for FORE, GIM Goa, TAPMI, BIMTECH, and Great Lakes.
+            </p>
 
             <div className="space-y-4">
               {[
@@ -999,7 +1111,7 @@ export default function CatScoreCalculatorPage() {
           </article>
 
           {/* Section 9: FAQs */}
-          <article className="space-y-6">
+          <article id="faq-section" className="space-y-6 scroll-mt-24">
             <div className="flex items-center gap-3">
               <div className="w-11 h-11 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold shadow-md">
                 <HelpCircle className="w-5 h-5" />
