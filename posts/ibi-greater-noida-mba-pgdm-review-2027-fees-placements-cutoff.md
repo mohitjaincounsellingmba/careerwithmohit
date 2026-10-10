@@ -159,6 +159,78 @@ IBI evaluates applicants holistically, balancing test percentiles with personal 
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Certification Integration
+
+The 2-year full-time PGDM curriculum at I Business Institute (IBI Greater Noida) is designed around corporate readiness, integrating 8+ verified industry certifications:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Managerial Decision Modeling & Advanced Excel**: Practical data handling, spreadsheet formulas, pivot tables, and statistical modeling for business decisions.
+- **Financial Accounting & Capital Allocation**: Balance sheet structuring, financial statement ratios, working capital cycles, and cost budgeting.
+- **Marketing Strategy & Consumer Insights**: STP frameworks, consumer buyer journeys, brand positioning, and digital advertising channels.
+- **Corporate Grooming & Executive Communication**: Presentation skills, business writing, corporate etiquette, and group discussion drills.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **Marketing Track**: B2B sales pipelines, omnichannel retail distribution, digital growth marketing, and brand portfolio management.
+- **Finance Track**: Corporate valuation models, investment banking fundamentals, credit appraisal, and financial risk modeling.
+- **HR Track**: Strategic human resource management, HR analytics with PowerBI, talent acquisition technology, and labor compliance.
+- **Business Analytics Track**: Python programming, SQL databases, predictive business analytics, and interactive dashboarding with Tableau.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate Exposure
+
+The mandatory 8-to-10-week summer internship between May and July gives IBI students hands-on industry experience:
+- **Average Monthly Stipend**: ₹18,000 to ₹25,000 per month across BFSI, retail, and tech consulting sectors.
+- **Highest SIP Stipend**: ₹40,000 per month offered by financial analytics and digital commerce corporations.
+- **Pre-Placement Offer (PPO) Conversion**: Over 22% of participating students convert internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 65% in Delhi-NCR (Noida, Gurgaon, Delhi), 15% in Mumbai/Pune, 12% in Bangalore, and 8% in other commercial hubs.
+
+---
+
+## 📊 Regional Competitor Matrix: Greater Noida Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IBI Greater Noida** | AICTE Approved | ₹8.95 Lakhs | ₹7.50 LPA | ₹7.20 LPA | ₹11.20 LPA |
+| **GL Bajaj Greater Noida** | AICTE, NBA | ₹7.80 Lakhs | ₹7.50 LPA | ₹7.10 LPA | ₹10.00 LPA |
+| **GNIOT Greater Noida (GIMS)**| AICTE Approved | ₹7.50 Lakhs | ₹7.10 LPA | ₹6.80 LPA | ₹9.50 LPA |
+| **Lloyd Business School** | AKTU / AICTE | ₹3.20L – ₹8.25L | ₹6.80 LPA | ₹6.20 LPA | ₹9.50 LPA |
+| **Accurate Greater Noida** | AICTE Approved | ₹6.50 Lakhs | ₹6.20 LPA | ₹5.80 LPA | ₹8.50 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Knowledge Park Environment
+
+Located in Knowledge Park II, Greater Noida, IBI offers contemporary academic facilities:
+- **Smart Tiered Classrooms**: Air-conditioned lecture rooms equipped with audio-visual equipment and digital collaboration boards.
+- **Analytics & Computing Lab**: Workstations equipped with SPSS, Python, Tableau, and financial modeling tools.
+- **Student Housing**: Verified on-campus and near-campus hostels with Wi-Fi, dining halls, and round-the-clock security.
+- **Student Committees**: Active clubs manage cultural events, annual management conclaves, sports tournaments, and CSR initiatives.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at I Business Institute Greater Noida, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, ATMA, or GMAT with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IBI Greater Noida.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for PGDM at I Business Institute (IBI) Greater Noida?

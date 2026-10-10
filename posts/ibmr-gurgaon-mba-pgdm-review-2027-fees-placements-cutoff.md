@@ -159,6 +159,78 @@ IBMR evaluates applicants based on test percentiles, communication confidence, a
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Gurgaon Corporate Integration
+
+The 2-year management curriculum at IBMR Gurgaon blends academic foundations with direct corporate application across the Cyber City and Udyog Vihar industrial ecosystems:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Quantitative Methods & Decision Modeling**: Data-driven analysis, probability distributions, regression modeling, and advanced Excel applications.
+- **Financial Accounting & Cost Control**: Balance sheet analysis, cash flow modeling, working capital ratios, and cost estimation.
+- **Marketing Strategy & Consumer Behavior**: STP strategies, customer journey mapping, brand equity development, and digital marketing fundamentals.
+- **Corporate Communication & Executive Presence**: Business writing, corporate presentations, negotiation dynamics, and interview simulations.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **Marketing Track**: B2B client acquisition, digital marketing campaigns, omnichannel retail management, and strategic sales management.
+- **Finance Track**: Corporate valuation models, investment banking fundamentals, commercial banking operations, and risk management.
+- **HR Track**: Strategic human capital, HR analytics with PowerBI, labor compliance, and talent management technology.
+- **Supply Chain Track**: Global supply chain logistics, warehouse optimization, procurement contracting, and inventory control.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate Exposure
+
+The mandatory 8-to-10-week summer internship between May and July gives IBMR students practical corporate experience:
+- **Average Monthly Stipend**: ₹20,000 to ₹26,000 per month across Gurgaon and Delhi-NCR corporate hubs.
+- **Highest SIP Stipend**: ₹45,000 per month offered by multinational technology and financial services firms.
+- **Pre-Placement Offer (PPO) Conversion**: Over 24% of participating students convert internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 70% in Gurgaon and Delhi-NCR corporate hubs, 15% in Mumbai/Pune, 10% in Bangalore, and 5% in other regional markets.
+
+---
+
+## 📊 Regional Competitor Matrix: Gurgaon Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IBMR Gurgaon** | AICTE / MDU | ₹6.60L – ₹8.40L | ₹7.50 LPA | ₹7.20 LPA | ₹11.50 LPA |
+| **ISB&M Gurgaon** | AICTE Approved | ₹9.00 Lakhs | ₹8.20 LPA | ₹8.00 LPA | ₹11.50 LPA |
+| **BML Munjal Univ** | UGC, AACSB Member | ₹13.90 Lakhs | ₹9.20 LPA | ₹8.50 LPA | ₹13.50 LPA |
+| **SOIL Gurgaon** | AICTE Approved | ₹14.80 Lakhs | ₹10.30 LPA | ₹9.80 LPA | ₹14.20 LPA |
+| **SAITM Gurgaon** | AICTE, UGC (MDU) | ₹4.20 Lakhs | ₹5.20 LPA | ₹4.80 LPA | ₹7.50 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Sector 14 Location Advantage
+
+Located in Sector 14, Gurugram, IBMR provides modern educational amenities with prime corporate connectivity:
+- **Smart Classrooms**: Air-conditioned tiered lecture halls equipped with digital presentation tools and high-speed Wi-Fi.
+- **Computing & Analytics Lab**: Workstations equipped with business analytics software, SPSS, and Python.
+- **Hostel Accommodations**: Verified student housing facilities in Sector 14 with dining, Wi-Fi, and security.
+- **Student Committees**: Active student clubs manage cultural festivals, sports tournaments, corporate conclaves, and community outreach.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at IBMR Gurgaon, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, or ATMA with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IBMR Gurgaon.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for PGDM at IBMR Gurgaon?

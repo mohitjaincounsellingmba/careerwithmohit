@@ -158,6 +158,78 @@ IIBS follows a holistic admission review, assessing test percentiles alongside c
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Airport Corridor Advantage
+
+The 2-year management curriculum at IIBS Bangalore combines foundational management courses with hands-on corporate immersion across Bangalore's aerospace and technology corridors:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Quantitative Methods & Decision Modeling**: Spreadsheets analysis, statistical probability, regression modeling, and Python data structures.
+- **Financial Accounting & Corporate Reporting**: Balance sheet analysis, cash flow forecasting, working capital cycles, and cost budgeting.
+- **Marketing Strategy & Consumer Behavior**: STP frameworks, consumer journey mapping, brand equity building, and digital marketing channels.
+- **Professional Communication & Leadership Grooming**: Corporate writing, executive presentations, workplace negotiation, and interview performance.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **Marketing Track**: Omnichannel retail, B2B sales pipelines, digital growth marketing, and brand portfolio strategy.
+- **Finance Track**: Corporate valuation models, investment banking fundamentals, credit risk appraisal, and fintech ecosystems.
+- **HR Track**: Strategic human capital, HR analytics with PowerBI, talent management technology, and industrial labor laws.
+- **Business Analytics Track**: Machine learning for managers, SQL relational databases, and executive dashboarding using Tableau.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate Exposure
+
+The mandatory 8-to-10-week summer internship between May and July gives IIBS students practical corporate experience:
+- **Average Monthly Stipend**: ₹20,000 to ₹26,000 per month across Bangalore tech hubs and corporate parks.
+- **Highest SIP Stipend**: ₹45,000 per month offered by multinational technology and financial services firms.
+- **Pre-Placement Offer (PPO) Conversion**: Over 25% of participating students convert internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 60% in Bangalore technology and aerospace corridors, 15% in Mumbai/Pune, 15% in Delhi-NCR, and 10% in other major cities.
+
+---
+
+## 📊 Regional Competitor Matrix: Bangalore Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IIBS Bangalore** | AICTE / Univ | ₹5.25L – ₹8.95L | ₹8.20 LPA | ₹7.80 LPA | ₹11.80 LPA |
+| **IBA Bangalore** | AICTE, NBA, IACBE | ₹9.95 Lakhs | ₹8.20 LPA | ₹7.80 LPA | ₹11.50 LPA |
+| **ISBR Bangalore** | AICTE, NBA | ₹9.50 Lakhs | ₹7.80 LPA | ₹7.40 LPA | ₹11.20 LPA |
+| **ISME Bangalore** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
+| **GIBS Business School**| AICTE Approved | ₹8.25 Lakhs | ₹7.40 LPA | ₹7.10 LPA | ₹10.50 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Airport Corridor Environment
+
+Located near Bangalore International Airport, IIBS provides modern educational facilities:
+- **Smart Classrooms**: Tiered lecture halls equipped with audio-visual equipment, digital boards, and high-speed campus Wi-Fi.
+- **Computing & Analytics Lab**: Workstations equipped with Python, Tableau, and business analytics software.
+- **Student Housing**: On-campus residential hostels with dining halls, sports grounds, and 24x7 security.
+- **Student Committees**: Active clubs manage cultural events, annual management conclaves, sports tournaments, and CSR initiatives.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at IIBS Bangalore, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, ATMA, or KMAT with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IIBS Bangalore.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for MBA and PGDM at IIBS Bangalore?

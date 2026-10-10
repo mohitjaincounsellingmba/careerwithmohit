@@ -159,6 +159,79 @@ IBA considers test scores as one component of its overall evaluation matrix, val
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Trimester Progression
+
+The 2-year full-time PGDM curriculum at Indus Business Academy (IBA Bangalore) is governed by an internationally benchmarked trimester system designed to prepare students for corporate leadership:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Managerial Decision Modeling & Spreadsheets**: Statistical analysis, regression models, probability distributions, and data visualization using advanced Excel and Python.
+- **Financial Statement Analysis & Cost Management**: Balance sheet mechanics, working capital cycles, cost-volume-profit analysis, and corporate budgeting frameworks.
+- **Marketing Strategy & Consumer Insights**: STP frameworks, brand positioning matrices, consumer psychology, and market research methodologies.
+- **Organizational Dynamics & Executive Communications**: High-stakes presentations, cross-cultural workplace negotiation, and leadership behavioral dynamics.
+- **Macroeconomics & Business Regulatory Environment**: Monetary policy impacts, foreign trade regulations, and corporate compliance frameworks.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **Finance Electives**: Investment banking, corporate valuation modeling, fixed income securities, derivatives engineering, and treasury risk management.
+- **Marketing Electives**: Digital growth marketing, omnichannel retail management, consumer brand strategy, and B2B enterprise sales pipelines.
+- **Business Analytics Electives**: Machine learning algorithms for business, SQL relational databases, and executive dashboarding using Tableau and PowerBI.
+- **Supply Chain Electives**: Global logistics operations, warehouse layout optimization, procurement contracting, and Lean Six Sigma methodologies.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate PPO Conversions
+
+The 8-to-10-week summer internship between May and July serves as an essential bridge between academic theory and practical corporate execution at IBA Bangalore:
+- **Average Monthly Stipend**: ₹20,000 to ₹28,000 per month across consulting, banking, and FMCG sectors.
+- **Highest SIP Stipend**: ₹45,000 per month offered by multinational analytics and financial research firms.
+- **Pre-Placement Offer (PPO) Conversion**: Over 25% of the graduating cohort converts their summer internships into full-time pre-placement offers prior to final placement season kickoff.
+- **Geographic Internship Distribution**: 55% in Bangalore tech and corporate parks, 20% in Mumbai/Pune, 15% in Delhi-NCR, and 10% in other major commercial hubs.
+
+---
+
+## 📊 Regional Competitor Matrix: Bangalore Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IBA Bangalore** | AICTE, NBA, IACBE | ₹9.95 Lakhs | ₹8.20 LPA | ₹7.80 LPA | ₹11.50 LPA |
+| **ISBR Bangalore** | AICTE, NBA | ₹9.50 Lakhs | ₹7.80 LPA | ₹7.40 LPA | ₹11.20 LPA |
+| **ISME Bangalore** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
+| **GIBS Business School**| AICTE Approved | ₹8.25 Lakhs | ₹7.40 LPA | ₹7.10 LPA | ₹10.50 LPA |
+| **Alliance Univ (SBM)**| UGC, AACSB Member | ₹15.00 Lakhs | ₹8.50 LPA | ₹8.00 LPA | ₹13.00 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Residential Student Experience
+
+Spread across a 12-acre landscaped campus on Kanakapura Road, IBA provides an environment focused on academic immersion:
+- **Academic Infrastructure**: Tiered multimedia classrooms, modern auditorium spaces, and 24x7 Wi-Fi across the entire residential campus.
+- **Digital Library & Resource Center**: Access to EBSCO, ProQuest, and international business journals along with over 20,000 management volumes.
+- **Residential Facilities**: Separate on-campus hostels for men and women with dining halls, fitness gymnasiums, and round-the-clock medical facilities.
+- **Student Leadership Committees**: Student-run councils manage sports festivals, cultural celebrations, marketing conclaves, and community outreach.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview and portfolio presentation rounds at IBA Bangalore, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, ATMA, or GMAT with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IBA Bangalore.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for PGDM at IBA Bangalore?
