@@ -159,6 +159,78 @@ IILM follows an inclusive profile-based screening model, evaluating candidates a
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Liberal Management Education
+
+The 2-year MBA curriculum at IILM University Gurugram combines international business frameworks, liberal arts thinking, and corporate immersion across Cyber City and Golf Course Road:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Quantitative Methods & Decision Modeling**: Spreadsheets analysis, statistical probability, regression modeling, and Python data structures.
+- **Financial Accounting & Corporate Valuation**: Balance sheet analysis, cash flow forecasting, working capital cycles, and cost budgeting.
+- **Marketing Strategy & Consumer Behavior**: STP frameworks, consumer journey mapping, brand equity development, and digital marketing channels.
+- **Design Thinking & Executive Presence**: Creative problem solving, executive presentation skills, workplace negotiation, and interview performance.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **FinTech & Financial Technology Track**: Algorithmic trading, blockchain in finance, digital banking regulations, and financial modeling.
+- **Marketing & Innovation Track**: Omnichannel retail, B2B sales pipelines, digital growth marketing, and brand portfolio strategy.
+- **Business Analytics Track**: Machine learning for managers, SQL relational databases, and executive dashboarding using Tableau.
+- **Human Capital & Organizational Leadership**: Strategic human capital, HR analytics with PowerBI, talent management technology, and industrial labor laws.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate Exposure
+
+The mandatory 8-to-10-week summer internship between May and July gives IILM Gurugram students practical corporate experience:
+- **Average Monthly Stipend**: ₹25,000 to ₹35,000 per month across Golf Course Road and Cyber City multinational enterprises.
+- **Highest SIP Stipend**: ₹60,000 per month offered by multinational technology and investment advisory firms.
+- **Pre-Placement Offer (PPO) Conversion**: Over 30% of participating students convert internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 70% in Gurgaon and Delhi-NCR corporate hubs, 15% in Mumbai/Pune, 10% in Bangalore, and 5% in other regional markets.
+
+---
+
+## 📊 Regional Competitor Matrix: Gurgaon Premium Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IILM Univ Gurugram** | UGC Recognized | ₹11.50L – ₹12.90L | ₹8.60 LPA | ₹8.20 LPA | ₹14.20 LPA |
+| **SOIL Gurgaon** | AICTE Approved | ₹14.80 Lakhs | ₹10.30 LPA | ₹9.80 LPA | ₹14.20 LPA |
+| **BML Munjal Univ** | UGC, AACSB Member | ₹13.90 Lakhs | ₹9.20 LPA | ₹8.50 LPA | ₹13.50 LPA |
+| **ISB&M Gurgaon** | AICTE Approved | ₹9.00 Lakhs | ₹8.20 LPA | ₹8.00 LPA | ₹11.50 LPA |
+| **Apeejay ASM Dwarka** | AICTE, NBA, AIU | ₹8.50 Lakhs | ₹7.40 LPA | ₹7.00 LPA | ₹10.20 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Golf Course Road Prime Location
+
+Located on Sector 53, Golf Course Road, Gurugram, IILM University offers contemporary academic amenities:
+- **Smart Classrooms & Innovation Theatres**: Tiered lecture halls equipped with state-of-the-art audio-visual presentation equipment.
+- **Computing & Analytics Lab**: Workstations equipped with Python, Tableau, and business analytics software.
+- **Hostel Accommodations**: Residential facilities on and near campus with dining, Wi-Fi, and security.
+- **Student Committees**: Active student clubs manage cultural festivals, sports tournaments, corporate conclaves, and community outreach.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at IILM University Gurugram, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, NMAT, MAT, CMAT, or GMAT with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IILM University.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for the MBA program at IILM University Gurugram?

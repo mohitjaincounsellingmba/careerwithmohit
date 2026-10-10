@@ -158,6 +158,78 @@ IILM Jaipur reviews test percentiles in combination with personal interview read
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & Rajasthan Corporate Integration
+
+The 2-year full-time PGDM curriculum at IILM Academy of Higher Learning Jaipur blends management fundamentals with practical corporate engagement across Rajasthan and North Indian industrial belts:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Quantitative Decision Modeling & Statistical Methods**: Probability distributions, regression modeling, hypothesis testing, and business decision spreadsheets using Excel.
+- **Financial Accounting & Cost Management**: Balance sheet mechanics, working capital cycles, cost-volume-profit analysis, and corporate budgeting.
+- **Marketing Strategy & Consumer Behavior**: STP frameworks, brand positioning matrices, consumer psychology, and market research methodologies.
+- **Business Communication & Soft Skills**: Corporate writing, presentation design, negotiation dynamics, and interview simulations.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **Marketing Track**: B2B sales management, digital performance marketing, retail operations, and brand management.
+- **Finance Track**: Investment banking basics, corporate valuation, commercial banking, and credit risk analysis.
+- **Human Resource Management Track**: Strategic human capital, HR analytics with PowerBI, labor compliance, and talent development.
+- **Business Analytics Track**: Python programming, SQL databases, and business intelligence reporting.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate Exposure
+
+The mandatory 8-to-10-week summer internship between May and July gives IILM Jaipur students practical corporate experience:
+- **Average Monthly Stipend**: ₹15,000 to ₹22,000 per month across Jaipur, Delhi-NCR, and regional industrial hubs.
+- **Highest SIP Stipend**: ₹35,000 per month offered by financial services and digital commerce firms.
+- **Pre-Placement Offer (PPO) Conversion**: Approximately 20% of participating students convert internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 50% in Rajasthan (Jaipur, Udaipur, Kota), 35% in Delhi-NCR, and 15% in Mumbai/Pune and other cities.
+
+---
+
+## 📊 Regional Competitor Matrix: Jaipur & Rajasthan Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IILM Jaipur** | AICTE Approved | ₹6.50L – ₹7.00L | ₹7.20 LPA | ₹6.80 LPA | ₹10.50 LPA |
+| **Jaipuria Jaipur** | AICTE, NBA, AIU | ₹11.75 Lakhs | ₹8.50 LPA | ₹8.00 LPA | ₹12.50 LPA |
+| **VGU Jaipur** | UGC / AICTE | ₹5.50 Lakhs | ₹6.00 LPA | ₹5.50 LPA | ₹8.50 LPA |
+| **TAPMI Jaipur** | AICTE Approved | ₹12.00 Lakhs | ₹8.20 LPA | ₹7.80 LPA | ₹12.00 LPA |
+| **Manipal Univ Jaipur** | UGC / AICTE | ₹10.50 Lakhs | ₹7.50 LPA | ₹7.00 LPA | ₹11.00 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Mansarovar Location Advantage
+
+Located in Mansarovar, Jaipur, IILM provides modern educational amenities:
+- **Smart Classrooms**: Air-conditioned tiered lecture halls equipped with multimedia presentation systems and Wi-Fi.
+- **Computing & Analytics Lab**: Workstations equipped with business analytics software, SPSS, and Python.
+- **Hostel Accommodations**: Verified student housing facilities in Mansarovar with dining, Wi-Fi, and security.
+- **Student Committees**: Active student clubs manage cultural festivals, sports tournaments, corporate conclaves, and community outreach.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at IILM Jaipur, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, or ATMA with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IILM Jaipur.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NGO volunteering.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for PGDM at IILM Academy of Higher Learning Jaipur?

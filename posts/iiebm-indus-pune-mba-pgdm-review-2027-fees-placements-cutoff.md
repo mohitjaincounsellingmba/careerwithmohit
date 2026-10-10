@@ -159,6 +159,78 @@ IIEBM follows a comprehensive evaluation methodology, valuing student discipline
 
 ---
 
+
+---
+
+## 🏛️ Comprehensive Curriculum Architecture & SAP ERP Specialization Modules
+
+The 2-year full-time PGDM curriculum at IIEBM Indus Business School Pune combines military-inspired discipline, executive leadership, and certified enterprise technologies:
+
+### Foundation Trimesters (Year 1: Trimesters I to III)
+- **Quantitative Decision Modeling & Statistical Analytics**: Hypothesis testing, regression modeling, probability distributions, and business forecasting using advanced Excel.
+- **Financial Statement Interpretation & Corporate Accounting**: Balance sheet mechanics, working capital cycles, cash flow analysis, and corporate budgeting frameworks.
+- **Marketing Strategy & Consumer Insights**: STP frameworks, brand positioning, customer lifetime value (CLV), and digital customer journeys.
+- **Executive Leadership & Personality Grooming**: Corporate etiquette, high-stakes presentations, stress resilience, and team dynamics.
+
+### Advanced Specialization Trimesters (Year 2: Trimesters IV to VI)
+- **SAP ERP Functional Integration**: Hands-on training across SAP modules including FI/CO (Financial Accounting/Controlling), SD (Sales & Distribution), MM (Materials Management), and HR.
+- **Marketing Track**: B2B enterprise sales, digital performance marketing, omnichannel retail distribution, and brand portfolio management.
+- **Finance Track**: Corporate valuation models, investment banking fundamentals, credit risk appraisal, and financial derivatives.
+- **Business Analytics Track**: Python for managers, SQL database queries, and executive dashboarding using PowerBI and Tableau.
+
+---
+
+## 💼 Summer Internship Program (SIP) & Corporate PPO Conversions
+
+The 8-to-10-week summer internship between May and July gives IIEBM students practical exposure to corporate environments:
+- **Average Monthly Stipend**: ₹18,000 to ₹25,000 per month across IT consulting, manufacturing, and banking sectors.
+- **Highest SIP Stipend**: ₹42,000 per month offered by multinational technology and logistics firms.
+- **Pre-Placement Offer (PPO) Conversion**: Approximately 24% of participating students convert their summer internships into full-time pre-placement offers.
+- **Geographic Placement Dispersion**: 65% in Pune and Mumbai commercial belts, 15% in Bangalore/Hyderabad, 12% in Delhi-NCR, and 8% in other regional markets.
+
+---
+
+## 📊 Regional Competitor Matrix: Pune Management Institutions
+
+| Business School | Accreditations | 2-Year Program Fee | Audited Avg CTC | Median CTC | Top 20% CTC |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **IIEBM Pune (Wakad)** | AICTE, NBA | ₹8.25 Lakhs | ₹7.80 LPA | ₹7.20 LPA | ₹11.20 LPA |
+| **PIBM Pune** | AICTE, NBA | ₹9.45 Lakhs | ₹7.40 LPA | ₹7.00 LPA | ₹10.50 LPA |
+| **Lexicon MILE Pune** | AICTE Approved | ₹10.80 Lakhs | ₹7.80 LPA | ₹7.20 LPA | ₹10.80 LPA |
+| **RIIM Pune** | SPPU / AICTE | ₹6.60 Lakhs | ₹6.50 LPA | ₹6.20 LPA | ₹9.50 LPA |
+| **ISMS Pune** | SPPU / AICTE | ₹6.50 Lakhs | ₹6.20 LPA | ₹5.80 LPA | ₹8.50 LPA |
+
+---
+
+## 🏢 Campus Infrastructure & Wakad Location Advantage
+
+Located in Wakad, Pune, adjacent to the Mumbai-Pune expressway and Hinjawadi IT Park:
+- **Smart Classrooms**: Air-conditioned tiered lecture halls equipped with multimedia projection systems and high-speed Wi-Fi.
+- **SAP Computer Laboratories**: Dedicated computing labs configured with SAP GUI client software and analytics packages.
+- **Hostel Facilities in Wakad**: On-campus and near-campus student accommodations featuring dining halls, sports grounds, and 24x7 security.
+- **Student Activity Councils**: Student-run committees manage cultural events, annual business conclaves, sports meets, and CSR outreach.
+
+---
+
+## 📜 Step-by-Step GD-PI Dossier Checklist & Profile Assessment Framework
+
+When appearing for the personal interview at IIEBM Pune, candidates must present a curated admissions dossier containing:
+1. **Academic Verification Records**: Attested copies of Class 10, Class 12, and undergraduate graduation marksheets across all semesters.
+2. **National / State Entrance Scorecards**: Official scorecards of CAT, XAT, MAT, CMAT, ATMA, or MAH CET with candidate credentials.
+3. **Statement of Purpose (SOP)**: A 500-word structured personal essay detailing your undergraduate background, career ambitions, and rationale for choosing IIEBM Pune.
+4. **Extracurricular & Leadership Credentials**: Verified certificates documenting inter-college sports, cultural leadership, community initiatives, or NCC/sports achievements.
+5. **Corporate Work History**: Appointment letters, pay slips (last 3 months), and relieving letters for candidates with prior corporate work experience.
+6. **Domain Clarity Statement**: A 200-word written outline articulating your intended business specialization and long-term leadership goals.
+
+
+
+### Senior Alumni Mentorship & Industry Guest Masterclasses
+Graduates of this institution maintain active engagements within India’s corporate sector, occupying roles such as Regional Sales Manager, Senior Financial Analyst, Brand Manager, Product Lead, and Supply Chain Consultant across leading multinational and domestic enterprises. The institutional alumni relations network regularly organizes alumni-student mentoring pods, wherein current students receive 1-on-1 coaching for case competition problem-solving, mock interview simulations, and industry domain selection. This direct bridge between seasoned industry alumni and incoming management students helps bridge the gap between classroom theory and real-world corporate expectations, significantly accelerating campus-to-corporate readiness and career advancement.
+
+### Professional Certification Modules & Analytical Labs
+To further boost campus employability, students participate in value-added workshops covering advanced financial analytics, Bloomberg terminal navigation, Hubspot inbound marketing certification, and supply chain ERP simulations. These weekend intensive bootcamps are conducted by active corporate practitioners, providing participants with industry-validated credentials that distinguish their profiles during final placement interviews.
+
+
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the total fee structure for PGDM at IIEBM Indus Business School Pune?
