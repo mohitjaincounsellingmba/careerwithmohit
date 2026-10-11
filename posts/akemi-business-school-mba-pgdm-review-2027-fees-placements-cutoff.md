@@ -184,3 +184,11 @@ Yes, candidates with a minimum of 50% marks in graduation (45% for reserved Maha
 
 *Official Source Data: Akemi Business School Official Information Brochure, Savitribai Phule Pune University (SPPU) Affiliation Records, and Directorate of Technical Education (DTE) Maharashtra CAP Bulletins.*  
 *Last Updated: October 2026 | Verified by Mohit Jain (Founder, CareerWithMohit).*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

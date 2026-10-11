@@ -239,3 +239,11 @@ No. Direct admission, management quota, or NRI quota seats do not exist at any I
 *Sources & Verification Note: Official placement data and fee structures are verified against IIM Nagpur Audited Placement Statistics, NIRF 2024 institutional reports, and official IIM CAP admissions policies.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

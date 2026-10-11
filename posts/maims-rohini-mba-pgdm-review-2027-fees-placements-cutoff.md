@@ -233,3 +233,11 @@ MAIMS does not provide on-campus hostels for MBA students. However, well-maintai
 *Sources & Verification Note: Placement statistics, cutoff ranks, and fee structures are verified against GGSIPU official counseling notifications, MAIMS institutional disclosure documents, and Delhi Higher Education Department records.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

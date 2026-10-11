@@ -143,3 +143,11 @@ If a question contains errors or ambiguity, the conducting IIM drops the questio
 
 ### How can I verify my answers if digialm servers are slow?
 If the official portal experiences server latency, you can press `Ctrl+U` to view the page source, copy the text, and paste it into our [HTML Source Scanner](/tools/cat-score-calculator/) to calculate your marks offline.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

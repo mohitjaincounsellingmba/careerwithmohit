@@ -239,3 +239,11 @@ No. There is no management quota, NRI quota, or direct admission route at IIM Sh
 *Sources & Verification Note: Placement statistics and fee structures are verified against IIM Shillong Audited Placement Reports, NIRF 2024 institutional filings, and official admission policies.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -238,3 +238,11 @@ Yes. Candidates with non-engineering bachelor's degrees (B.Com, BBA, B.Sc) can a
 *Sources & Verification Note: Placement statistics, fee structures, and regulatory statuses are verified against SCIT official mandatory disclosures, SIU bulletins, and audited placement reports.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

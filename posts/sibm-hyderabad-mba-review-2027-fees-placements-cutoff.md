@@ -237,3 +237,11 @@ Yes. SIBM Hyderabad is a 100% residential campus where all enrolled MBA students
 *Sources & Verification Note: Placement statistics, fee structures, and regulatory statuses are verified against SIBM Hyderabad official mandatory disclosures, SIU notifications, and audited placement reports.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -240,3 +240,11 @@ Yes. Candidates with 50%+ marks in graduation can apply for direct merit-based a
 *Sources & Verification Note: Placement data, fee structures, and approvals are verified against Mangalmay official mandatory disclosures, AKTU examination notifications, and AICTE regulatory approvals.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -285,3 +285,11 @@ Yes. JIMS Kalkaji accepts MAT and CMAT scores alongside CAT, XAT, and ATMA. A pe
 
 ### Q5: How can I connect with Mohit Jain for admission counseling at JIMS Kalkaji?
 You can book a 1-on-1 counseling session with Mohit Jain via [careerwithmohit.online](https://careerwithmohit.online) to review your percentiles, prepare for GD-PI rounds, and evaluate scholarship options.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

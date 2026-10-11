@@ -197,3 +197,11 @@ IIM Kozhikode holds the prestigious Triple Crown accreditation from AMBA, EQUIS,
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IIM Kozhikode Placement Reports, IIMK Admission Policy Gazette, and NIRF Ranking Portal.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
