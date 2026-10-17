@@ -291,10 +291,10 @@ function SearchInputInner({
       {/* ── HIGH-CONVERTING EDUCATION PORTAL SEARCH BAR ── */}
       <form
         onSubmit={handleSearch}
-        className={`flex items-center w-full h-10.5 rounded-xl border bg-white transition-all shadow-xs ${
+        className={`flex items-center w-full h-10.5 rounded-xl border bg-slate-50/50 hover:bg-white focus-within:bg-white transition-all shadow-xs ${
           isOpen
             ? "border-blue-600 ring-3 ring-blue-500/15 shadow-md"
-            : "border-slate-300/90 hover:border-slate-400"
+            : "border-slate-300/80 hover:border-slate-400"
         }`}
       >
         {/* Left Search Icon with Portal Scope Hint */}
@@ -339,10 +339,10 @@ function SearchInputInner({
           ⌘K
         </div>
 
-        {/* High-Contrast Education Portal Orange "Search" Button (Shiksha Style) */}
+        {/* Premium Portal "Search" Button */}
         <button
           type="submit"
-          className="h-[34px] my-1 mr-1 px-4 sm:px-5 rounded-lg bg-gradient-to-r from-orange-500 via-amber-500 to-orange-600 hover:from-orange-600 hover:to-amber-700 text-white font-bold text-xs shadow-sm hover:shadow transition-all flex items-center justify-center gap-1.5 cursor-pointer shrink-0 active:scale-98"
+          className="h-[34px] my-1 mr-1 px-4 sm:px-5 rounded-lg bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 text-white font-bold text-xs shadow-sm shadow-blue-500/20 hover:shadow-md transition-all flex items-center justify-center gap-1.5 cursor-pointer shrink-0 active:scale-98"
         >
           <span>Search</span>
           <ArrowRight className="w-3.5 h-3.5 text-white/90 hidden sm:inline-block" />
