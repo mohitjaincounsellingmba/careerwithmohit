@@ -137,9 +137,9 @@ export function Header() {
         className="sticky top-0 z-40 w-full bg-white border-b border-slate-200/90 shadow-2xs transition-all"
         role="banner"
       >
-        {/* Tier 1: Brand Logo + Education Portal Search Bar + Direct Actions (White & Blue Palette) */}
+        {/* Tier 1: Brand Logo + Education Portal Search Bar + Direct Actions */}
         <div className="border-b border-slate-100 bg-white">
-          <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8 gap-3 sm:gap-6">
+          <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8 gap-3">
             
             {/* Left: Brand Logo */}
             <div className="flex items-center shrink-0">
@@ -147,17 +147,17 @@ export function Header() {
             </div>
 
             {/* Center: Prominent Education Portal Search Bar */}
-            <div className="hidden md:flex flex-1 max-w-2xl xl:max-w-3xl mx-auto items-center justify-center">
+            <div className="hidden md:flex flex-1 max-w-xl lg:max-w-2xl mx-4 lg:mx-8 items-center justify-center">
               <SearchInput isMobile={false} />
             </div>
 
             {/* Right Action Group: Mobile Search + WhatsApp + Book Meet CTA + Mobile Menu Button */}
-            <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
+            <div className="flex items-center gap-2 sm:gap-2.5 shrink-0">
               
               {/* Mobile Quick Search Button */}
               <button
                 type="button"
-                className="md:hidden flex items-center justify-center w-9 h-9 text-slate-600 hover:text-blue-600 transition-colors bg-slate-50 hover:bg-slate-100 border border-slate-200/90 rounded-xl cursor-pointer shrink-0"
+                className="md:hidden flex items-center justify-center w-9.5 h-9.5 text-slate-600 hover:text-blue-600 transition-colors bg-slate-50 hover:bg-slate-100 border border-slate-200/90 rounded-xl cursor-pointer shrink-0"
                 onClick={() => setIsMobileMenuOpen(true)}
                 aria-label="Search colleges"
               >
@@ -169,7 +169,7 @@ export function Header() {
                 href="https://wa.me/919560020771?text=Hi%20Mohit%2C%20I%20need%20expert%20admissions%20guidance"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/90 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 shadow-2xs"
+                className="w-9.5 h-9.5 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/90 text-emerald-600 hover:text-emerald-700 flex items-center justify-center transition-all hover:scale-105 active:scale-95 shrink-0 shadow-2xs"
                 title="Chat directly on WhatsApp (+91 95600 20771)"
                 aria-label="Chat on WhatsApp"
               >
@@ -182,7 +182,7 @@ export function Header() {
               <Link
                 href="/book-session/"
                 prefetch={false}
-                className="hidden sm:inline-flex h-9 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-700 hover:from-blue-700 hover:to-indigo-800 px-3.5 text-xs font-bold text-white transition-all shadow-md shadow-blue-500/20 hover:-translate-y-0.5 active:translate-y-0 shrink-0 ring-1 ring-white/20 whitespace-nowrap"
+                className="hidden sm:inline-flex h-9.5 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 px-3.5 lg:px-4 text-xs font-bold text-white transition-all shadow-sm hover:shadow hover:-translate-y-0.5 active:translate-y-0 shrink-0 whitespace-nowrap"
                 title="Book Free 1-on-1 Video Counselling on Google Meet"
               >
                 <Video className="w-3.5 h-3.5 text-amber-300 shrink-0" />
@@ -192,7 +192,7 @@ export function Header() {
               {/* Mobile Menu Toggle Button */}
               <button
                 type="button"
-                className="lg:hidden flex items-center justify-center w-9 h-9 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
+                className="lg:hidden flex items-center justify-center w-9.5 h-9.5 text-slate-700 hover:text-blue-600 transition-colors bg-slate-100 hover:bg-slate-200 border border-slate-200 rounded-xl cursor-pointer shrink-0"
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
                 aria-label="Toggle mobile menu"
                 aria-expanded={isMobileMenuOpen}
@@ -211,11 +211,11 @@ export function Header() {
         <div className="hidden lg:block bg-white/95 backdrop-blur-xs border-b border-slate-200/80 shadow-[0_1px_3px_rgba(0,0,0,0.03)] relative">
           <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8">
             <nav
-              className="flex items-center justify-between h-10.5 text-[12.5px] font-semibold tracking-normal"
+              className="flex items-center justify-between h-11 text-[12.5px] font-semibold tracking-normal"
               aria-label="Main Course Navigation"
             >
               {/* Primary Course Items with Rich Mega Menu Trigger */}
-              <div className="flex items-center gap-0.5 xl:gap-1 shrink-0">
+              <div className="flex items-center gap-0.5 xl:gap-1 shrink-0 overflow-x-auto scrollbar-none">
                 {MEGA_MENU_DATA.map((course) => {
                   const isOpen = activeMegaMenuId === course.id;
                   const Icon = COURSE_ICONS[course.id] || Sparkles;
@@ -227,11 +227,14 @@ export function Header() {
                     (course.id === "college-reviews" && pathname?.includes("blog"));
 
                   const displayLabel = COURSE_DISPLAY_NAMES[course.id] || course.label;
+                  const isSecondaryCategory = course.id === "design" || course.id === "law";
 
                   return (
                     <div
                       key={course.id}
-                      className="relative h-10.5 flex items-center shrink-0"
+                      className={`relative h-11 items-center shrink-0 ${
+                        isSecondaryCategory ? "hidden 2xl:flex" : "flex"
+                      }`}
                       onMouseEnter={() => handleMouseEnter(course.id)}
                       onMouseLeave={handleMouseLeave}
                     >
@@ -240,7 +243,7 @@ export function Header() {
                         onClick={() =>
                           setActiveMegaMenuId((prev) => (prev === course.id ? null : course.id))
                         }
-                        className={`h-7.5 px-2 xl:px-2.5 rounded-lg flex items-center gap-1.5 transition-all outline-none cursor-pointer group whitespace-nowrap shrink-0 ${
+                        className={`h-8 px-2 xl:px-2.5 rounded-lg flex items-center gap-1.5 transition-all outline-none cursor-pointer group whitespace-nowrap shrink-0 text-xs font-semibold ${
                           isOpen || isCurrentRoute
                             ? "bg-blue-600 text-white font-bold shadow-xs shadow-blue-500/20"
                             : "text-slate-700 hover:text-blue-700 hover:bg-blue-50/80"
@@ -275,17 +278,16 @@ export function Header() {
               </div>
 
               {/* Fast Direct Secondary Links (Right aligned in nav ribbon) */}
-              <div className="flex items-center gap-1.5 xl:gap-2 pl-2.5 border-l border-slate-200/90 shrink-0">
+              <div className="flex items-center gap-1.5 xl:gap-2 pl-3 border-l border-slate-200/80 shrink-0">
                 {/* 1. CAT Predictor */}
                 <Link
                   href="/tools/cat-score-calculator/"
-                  className="h-7.5 px-2 xl:px-2.5 rounded-lg text-amber-900 bg-amber-500/10 hover:bg-amber-500/15 border border-amber-300/70 flex items-center gap-1.5 transition-all group font-semibold text-xs whitespace-nowrap shrink-0 shadow-2xs"
+                  className="h-8 px-2.5 rounded-lg text-amber-900 bg-amber-50/90 hover:bg-amber-100 border border-amber-200/80 flex items-center gap-1.5 transition-all group font-semibold text-xs whitespace-nowrap shrink-0 shadow-2xs"
                   title="CAT 2026 Score & Percentile Calculator"
                 >
-                  <Calculator className="w-3.5 h-3.5 text-amber-600 group-hover:scale-110 transition-transform shrink-0" />
+                  <Calculator className="w-3.5 h-3.5 text-amber-600 group-hover:scale-105 transition-transform shrink-0" />
                   <span className="whitespace-nowrap">CAT Predictor</span>
-                  <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded-full text-[9px] bg-gradient-to-r from-red-500 to-amber-500 text-white font-extrabold shadow-2xs leading-none shrink-0">
-                    <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+                  <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded text-[9px] bg-amber-200/80 text-amber-900 font-extrabold leading-none shrink-0">
                     LIVE
                   </span>
                 </Link>
@@ -293,20 +295,22 @@ export function Header() {
                 {/* 2. Free Mocks */}
                 <Link
                   href="/mock-tests/"
-                  className="h-7.5 px-2 xl:px-2.5 rounded-lg text-slate-700 hover:text-blue-700 hover:bg-blue-50/80 flex items-center gap-1.5 transition-all group font-medium text-xs whitespace-nowrap shrink-0 border border-transparent hover:border-blue-100"
+                  className="h-8 px-2.5 rounded-lg text-slate-700 hover:text-blue-700 hover:bg-blue-50/80 flex items-center gap-1.5 transition-all group font-semibold text-xs whitespace-nowrap shrink-0 border border-slate-200/80 hover:border-blue-200 shadow-2xs"
+                  title="Practice 50+ Free CBT Mock Tests"
                 >
-                  <Target className="w-3.5 h-3.5 text-blue-600 group-hover:scale-110 transition-transform shrink-0" />
+                  <Target className="w-3.5 h-3.5 text-blue-600 group-hover:scale-105 transition-transform shrink-0" />
                   <span className="whitespace-nowrap">Free Mocks</span>
                 </Link>
 
                 {/* 3. Form Discounts */}
                 <Link
                   href="/mba-application-form-discount/"
-                  className="hidden xl:flex h-7.5 px-2 xl:px-2.5 rounded-lg text-slate-700 hover:text-emerald-700 hover:bg-emerald-50/80 items-center gap-1.5 transition-all group font-medium text-xs whitespace-nowrap shrink-0 border border-transparent hover:border-emerald-100"
+                  className="hidden xl:flex h-8 px-2.5 rounded-lg text-emerald-800 bg-emerald-50/80 hover:bg-emerald-100 items-center gap-1.5 transition-all group font-semibold text-xs whitespace-nowrap shrink-0 border border-emerald-200/80 hover:border-emerald-300 shadow-2xs"
+                  title="MBA Application Form Combo Discounts"
                 >
-                  <Percent className="w-3.5 h-3.5 text-emerald-600 group-hover:scale-110 transition-transform shrink-0" />
+                  <Percent className="w-3.5 h-3.5 text-emerald-600 group-hover:scale-105 transition-transform shrink-0" />
                   <span className="whitespace-nowrap">Discounts</span>
-                  <span className="px-1.5 py-0.5 rounded text-[9px] bg-emerald-50 text-emerald-700 border border-emerald-200/70 font-bold leading-none shrink-0">
+                  <span className="px-1.5 py-0.5 rounded text-[9px] bg-emerald-200/80 text-emerald-900 font-extrabold leading-none shrink-0">
                     Save ₹5k+
                   </span>
                 </Link>
@@ -520,12 +524,13 @@ export function Header() {
               <ArrowRight className="w-4 h-4 ml-auto text-emerald-100" />
             </a>
             <Link
-              href="tel:+919560020771"
+              href="/book-session/"
+              prefetch={false}
               onClick={() => setIsMobileMenuOpen(false)}
-              className="flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm shadow-md shadow-blue-500/20 transition-colors"
+              className="flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold text-sm shadow-md shadow-blue-500/20 transition-all"
             >
-              <Phone className="h-4 w-4" />
-              <span>Call +91 95600 20771</span>
+              <Video className="h-4 w-4 text-amber-300" />
+              <span>Book Free 1-on-1 Meet</span>
             </Link>
           </div>
         </div>
