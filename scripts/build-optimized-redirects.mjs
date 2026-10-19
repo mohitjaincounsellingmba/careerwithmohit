@@ -31,6 +31,32 @@ for (const line of lines) {
 
 console.log(`📊 Extracted ${specificMap.size} specific 1-to-1 redirects and ${massRedirects.size} mass pruned redirects.`);
 
+// Flatten any redirect chains so every source points directly to its ultimate destination in 1 hop
+function resolveChain(url, visited = new Set()) {
+  const norm = url.length > 1 && url.endsWith('/') ? url.slice(0, -1) : url;
+  const clean = norm.toLowerCase();
+  if (visited.has(clean)) return url;
+  visited.add(clean);
+
+  const target = specificMap.get(clean) || massRedirects.get(clean);
+  if (target && target.to && target.to !== url) {
+    return resolveChain(target.to, visited);
+  }
+  return url;
+}
+
+let chainsFlattened = 0;
+for (const [from, target] of specificMap.entries()) {
+  const finalDest = resolveChain(target.to);
+  if (finalDest !== target.to) {
+    chainsFlattened++;
+    specificMap.set(from, { ...target, to: finalDest });
+  }
+}
+if (chainsFlattened > 0) {
+  console.log(`⚡ Flattened ${chainsFlattened} redirect chains into direct 1-hop redirects.`);
+}
+
 // 1. Build optimized public/_redirects (strictly under 1,800 lines)
 // We prioritize wildcards, essential static aliases, and specific 1-to-1 routes
 const staticRules = [];
