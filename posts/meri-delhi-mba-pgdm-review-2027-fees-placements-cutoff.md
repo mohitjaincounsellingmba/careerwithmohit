@@ -243,3 +243,11 @@ Yes. For the AICTE PGDM program and the institutional Management Quota in MBA, c
 *Sources & Verification Note: Placement metrics, fee disclosures, and affiliation statuses are verified against MERI official mandatory disclosures, GGSIPU counseling brochures, and AICTE regulatory approvals.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

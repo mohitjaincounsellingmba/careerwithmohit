@@ -252,3 +252,11 @@ Sparsh Global Business School represents a modern, progressive option in the Gre
 
 ### Q5: How can I connect with Mohit Jain for direct admission guidance at SGBS?
 **Mohit Jain**: You can fill out the counseling inquiry card on this page or reach out directly through [careerwithmohit.online](https://careerwithmohit.online/) to evaluate your profile, get application fee discounts, and review admission options.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

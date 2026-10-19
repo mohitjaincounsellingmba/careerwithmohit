@@ -251,3 +251,11 @@ Candidates with consistent academic records and valid entrance test scores can a
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IILM Jaipur Placement Reports, AICTE Approval Letters, and NIRF Data.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

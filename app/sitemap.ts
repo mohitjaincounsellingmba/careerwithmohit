@@ -13,6 +13,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const buildDate = new Date();
 
+  // Load all redirect sources from public/_redirects so no 301/302 redirects are ever submitted to Google
+  const redirectSources = new Set<string>();
+  try {
+    const redirectsPath = path.join(process.cwd(), 'public', '_redirects');
+    if (fs.existsSync(redirectsPath)) {
+      const redirectsContent = fs.readFileSync(redirectsPath, 'utf-8');
+      redirectsContent.split('\n').forEach((line) => {
+        const trimmed = line.trim();
+        if (!trimmed || trimmed.startsWith('#')) return;
+        const [from] = trimmed.split(/\s+/);
+        if (from && !from.includes('*')) {
+          const clean = from.toLowerCase().replace(/\/$/, '');
+          redirectSources.add(clean);
+          redirectSources.add(clean + '/');
+        }
+      });
+    }
+  } catch {}
+
   // Static routes
   const routes = [
     '',
@@ -143,37 +162,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/colleges/mba-colleges-jaipur',
     '/mba-pgdm-admissions-by-region',
     '/mba-admissions-by-region',
-  ].map((route) => ({
-    url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
-    lastModified: buildDate,
-    changeFrequency: route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount' ? ('daily' as const) : ('weekly' as const),
-    priority:
-      route === '' || route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
-        ? 1.0
-        : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
-        ? 0.95
-        : route.includes('/tools/') || route.includes('/calculator/')
-        ? 0.9
-        : 0.7,
-  }));
+  ]
+    .filter((route) => {
+      const clean = route.toLowerCase().replace(/\/$/, '');
+      return !redirectSources.has(clean) && !redirectSources.has(clean + '/');
+    })
+    .map((route) => ({
+      url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
+      lastModified: buildDate,
+      changeFrequency: route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount' ? ('daily' as const) : ('weekly' as const),
+      priority:
+        route === '' || route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
+          ? 1.0
+          : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
+          ? 0.95
+          : route.includes('/tools/') || route.includes('/calculator/')
+          ? 0.9
+          : 0.7,
+    }));
 
-  // Dynamic blog routes
+  // Dynamic blog routes (excluding any redirected legacy URLs)
   const posts = getSortedPostsData();
   const ninetyDaysAgo = new Date();
   ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
 
-  const blogRoutes = posts.map((post) => {
-    const postDate = new Date(post.date);
-    const isRecent = postDate >= ninetyDaysAgo;
-    const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
+  const blogRoutes = posts
+    .filter((post) => {
+      const blogPath = `/blog/${post.slug}`.toLowerCase();
+      return !redirectSources.has(blogPath) && !redirectSources.has(blogPath + '/');
+    })
+    .map((post) => {
+      const postDate = new Date(post.date);
+      const isRecent = postDate >= ninetyDaysAgo;
+      const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
 
-    return {
-      url: `${baseUrl}/blog/${post.slug}/`,
-      lastModified: postDate,
-      changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('weekly' as const) : ('monthly' as const)),
-      priority: isMockTestBlog ? 0.9 : (isRecent ? 0.85 : 0.8),
-    };
-  });
+      return {
+        url: `${baseUrl}/blog/${post.slug}/`,
+        lastModified: postDate,
+        changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('weekly' as const) : ('monthly' as const)),
+        priority: isMockTestBlog ? 0.9 : (isRecent ? 0.85 : 0.8),
+      };
+    });
 
   // Dynamic college routes
   const collegesDir = path.join(process.cwd(), 'colleges');
@@ -182,6 +211,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const collegeFiles = fs.readdirSync(collegesDir);
     collegeRoutes = collegeFiles
       .filter((file) => file.endsWith('.md'))
+      .filter((file) => {
+        const collegePath = `/colleges/${file.replace('.md', '')}`.toLowerCase();
+        return !redirectSources.has(collegePath) && !redirectSources.has(collegePath + '/');
+      })
       .map((file) => {
         let mtime = buildDate;
         try {
@@ -246,7 +279,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [
+  const allRoutes = [
     ...routes,
     ...blogRoutes,
     ...collegeRoutes,
@@ -256,5 +289,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...abroadRoutes,
     ...onlineUniversityRoutes,
   ];
+
+  // Final deduplication & redirect protection guarantee: ensure 100% 200 OK canonical URLs
+  const seenUrls = new Set<string>();
+  return allRoutes.filter((item) => {
+    if (seenUrls.has(item.url)) return false;
+    seenUrls.add(item.url);
+
+    try {
+      const pathOnly = new URL(item.url).pathname.toLowerCase().replace(/\/$/, '');
+      if (redirectSources.has(pathOnly) || redirectSources.has(pathOnly + '/')) {
+        return false;
+      }
+    } catch {}
+
+    return true;
+  });
 }
 

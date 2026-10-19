@@ -300,3 +300,11 @@ Yes. The PGDM program at the Karjat campus is a fully residential experience des
 
 ### Q5: How can I connect with Mohit Jain for admission counseling at JAGSoM?
 You can book a 1-on-1 counseling call with Mohit Jain via [careerwithmohit.online](https://careerwithmohit.online) to review your scores, prepare for interviews, and evaluate your admission prospects.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

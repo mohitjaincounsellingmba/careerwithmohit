@@ -237,3 +237,11 @@ Yes. Lloyd accepts valid MAT, CMAT, ATMA, and State CET scores. Candidates witho
 *Sources & Verification Note: Placement metrics, fee disclosures, and curriculum details are verified against Lloyd Business School audited placement records, AICTE approvals, and AKTU institutional filings.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

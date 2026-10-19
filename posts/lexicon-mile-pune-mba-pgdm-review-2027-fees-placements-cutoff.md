@@ -307,3 +307,11 @@ Yes. Lexicon MILE accepts MAH-CET scores alongside CAT, MAT, CMAT, ATMA, and XAT
 
 ### Q5: How can I connect with Mohit Jain for admission counseling at Lexicon MILE?
 You can book a 1-on-1 counseling session with Mohit Jain via [careerwithmohit.online](https://careerwithmohit.online) for personalized advice on admissions, interview preparation, and scholarship opportunities.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

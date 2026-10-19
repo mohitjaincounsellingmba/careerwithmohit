@@ -187,3 +187,11 @@ IIM Indore offers the 2-Year PGP (MBA), 5-Year Integrated Programme in Managemen
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IIM Indore Placement Reports, IIMI Admission Policy Gazette, and NIRF Ranking Portal.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

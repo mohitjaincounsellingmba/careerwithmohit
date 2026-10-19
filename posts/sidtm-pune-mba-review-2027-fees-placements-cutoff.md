@@ -266,3 +266,11 @@ If you enter SIDTM Pune with realistic expectations—recognizing that it is not
 
 ### Q5: How can I connect with Mohit Jain for direct counselling for SIDTM?
 **Mohit Jain**: You can submit an inquiry through the interactive card on this page or visit the official career counseling portal at [careerwithmohit.online](https://careerwithmohit.online/) to schedule a direct profile evaluation and admission roadmap session.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -253,3 +253,11 @@ Candidates with strong academic backgrounds and valid test scores can apply thro
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IBA Bangalore Placement Reports, AICTE Approval Letters, and IACBE Accreditation Directory.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

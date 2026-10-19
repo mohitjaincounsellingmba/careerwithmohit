@@ -198,3 +198,11 @@ IIMs compute a Composite Score (CS) combining CAT exam percentile (40%–60% wei
 
 *Official Source Data: Official CAT 2025/2026 Information Bulletins, IIM Admission Policies (2026-2028), and NIRF Management Rankings.*  
 *Last Updated: October 2026 | Verified by Mohit Jain (Founder, CareerWithMohit).*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

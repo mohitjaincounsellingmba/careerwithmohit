@@ -193,3 +193,11 @@ No, direct admission, donations, and management quota do not exist at IIM Ahmeda
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IIM Ahmedabad IPRS Audited Placement Reports, IIMA Admission Policy Gazette, and NIRF Ranking Portal.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -238,3 +238,11 @@ Yes. NDIIT accepts scores from MAT, CMAT, XAT, and ATMA. Candidates can also app
 *Sources & Verification Note: Placement metrics, fee disclosures, and regulatory statuses are verified against NDIIT official mandatory disclosures, AICTE approval letters, and corporate placement reports.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

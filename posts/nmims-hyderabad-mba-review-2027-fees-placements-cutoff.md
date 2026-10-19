@@ -237,3 +237,11 @@ Yes. The 90-acre Jadcherla campus is a fully residential environment where all e
 *Sources & Verification Note: Placement statistics, fee structures, and accreditation credentials are verified against NMIMS official mandatory disclosures, AMBA directory listings, and audited placement reports.*
 
 *Last Updated: September 2026 | Reviewed by Mohit Jain, Senior MBA Admissions Strategist.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

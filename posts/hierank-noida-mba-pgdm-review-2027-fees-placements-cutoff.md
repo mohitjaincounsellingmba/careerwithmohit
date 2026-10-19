@@ -303,3 +303,11 @@ Yes. Hierank accepts CUET-PG, MAT, CMAT, CAT, and ATMA scores for its MBA progra
 
 ### Q5: How can I connect with Mohit Jain for admission counseling at Hierank?
 You can book a 1-on-1 counseling session with Mohit Jain via [careerwithmohit.online](https://careerwithmohit.online) for personalized advice on admissions, interview preparation, and profile evaluation.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

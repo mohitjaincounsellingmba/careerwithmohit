@@ -188,3 +188,11 @@ Yes, IIM Calcutta awards gender diversity points (4 marks) and evaluates academi
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IIM Calcutta Placement Reports, IIMC Admission Policy Gazette, and NIRF Ranking Data.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -174,3 +174,11 @@ General category aspirants typically require a CAT percentile of **90.0 to 93.5+
 
 *Last Updated: October 2026 | Verified by Mohit Jain, Senior MBA Admissions Strategist.*
 *Source Reference: Official IIM Jammu Placement Reports, IIM CAP Admission Policy, and NIRF Data.*
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
