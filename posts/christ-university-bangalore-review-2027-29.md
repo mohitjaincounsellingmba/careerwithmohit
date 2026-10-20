@@ -6,7 +6,7 @@ date: '2026-08-03'
 description: >-
   Comprehensive review of CHRIST (Deemed to be University), Bangalore
   (Bangalore) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  statistics.
 keywords:
   - Christ University Bangalore review 2027–29
   - Christ University Bangalore placements 2027–29

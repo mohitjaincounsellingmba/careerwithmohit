@@ -7,8 +7,7 @@ category: Jobs & Careers
 author: Mohit Jain
 description: >-
   Discover the best online digital marketing and AI courses by IIDE in 2026.
-  Explore the PG in Digital Marketing, Bachelors in Digital Business, and
-  Professional AI certification.
+  Explore the PG in Digital Marketing, Bachelors in Digital Business.
 tags:
   - Digital Marketing
   - AI Courses

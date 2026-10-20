@@ -5,9 +5,7 @@ title: >-
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Shailesh J. Mehta
-  School of Management (SJMSOM), IIT Bombay. Learn about total fees,
-  eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts for 2026-2027 admissions & career guidance.
+  School of Management (SJMSOM), IIT Bombay.
 keywords:
   - 'Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba'
   - >-

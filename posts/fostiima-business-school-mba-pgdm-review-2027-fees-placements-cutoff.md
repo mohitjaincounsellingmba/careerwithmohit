@@ -2,7 +2,9 @@
 title: 'FOSTIIMA Delhi PGDM Review 2027: Fees & Placements'
 date: '2026-10-17'
 category: MBA
-description: 'Honest FOSTIIMA Delhi review 2027: IIM-A alumni pedagogy, ₹9.5L fees, ₹8.2 LPA median salary, CAT/MAT cutoffs, and Dwarka campus reality by Mohit Jain.'
+description: >-
+  Honest FOSTIIMA Delhi review 2027: IIM-A alumni pedagogy, ₹9.5L fees, ₹8.2 LPA
+  median salary, CAT/MAT cutoffs, and Dwarka campus reality by Mohit Jain.
 keywords:
   - fostiima business school review 2027
   - fostiima delhi pgdm fees 2027
@@ -11,21 +13,45 @@ keywords:
   - iim ahmedabad alumni business school delhi
   - direct admission in fostiima business school
 faqs:
-  - question: 'What is the audited average placement package at FOSTIIMA Business School Delhi?'
-    answer: 'The verified overall average placement package across graduating PGDM cohorts at FOSTIIMA Business School stands at ₹8.50 LPA to ₹8.90 LPA, with a median of ₹8.20 LPA. Top 20% performers secure packages around ₹12.00 LPA, with peak domestic offers reaching ₹25.00 LPA.'
-  - question: 'What is the total fee structure for the PGDM program at FOSTIIMA Business School?'
-    answer: 'The total 2-year academic tuition fee for the AICTE-approved PGDM at FOSTIIMA is approximately ₹9.50 Lakhs to ₹10.75 Lakhs, payable in term installments. Partnered student hostel facilities in Dwarka range between ₹1,10,000 and ₹1,35,000 per year.'
-  - question: 'What is the core academic differentiator of FOSTIIMA Business School?'
-    answer: 'FOSTIIMA was founded by alumni from the Indian Institute of Management Ahmedabad (IIM-A, 1973 batch). The core curriculum, case study pedagogy, and classroom discussions are directly delivered by IIM alumni faculty and senior corporate CXOs.'
-  - question: 'Which entrance exams and cutoffs are accepted for PGDM admission at FOSTIIMA?'
-    answer: 'FOSTIIMA accepts scores from CAT (65-70 %ile), XAT, MAT (550+ score), CMAT, and ATMA, alongside the FOSTIIMA Entrance & Aptitude Test (FEAT) and Personal Interview rounds.'
-  - question: 'Where is FOSTIIMA Business School located?'
-    answer: 'FOSTIIMA is located in Sector 9, Dwarka, New Delhi (opposite the Dwarka District Court), close to the Sector 9 and Sector 10 Metro stations on the Blue Line.'
-location: Sector 9, Dwarka
+  - question: >-
+      What is the audited average placement package at FOSTIIMA Business School
+      Delhi?
+    answer: >-
+      The verified overall average placement package across graduating PGDM
+      cohorts at FOSTIIMA Business School stands at ₹8.50 LPA to ₹8.90 LPA, with
+      a median of ₹8.20 LPA. Top 20% performers secure packages around ₹12.00
+      LPA, with peak domestic offers reaching ₹25.00 LPA.
+  - question: >-
+      What is the total fee structure for the PGDM program at FOSTIIMA Business
+      School?
+    answer: >-
+      The total 2-year academic tuition fee for the AICTE-approved PGDM at
+      FOSTIIMA is approximately ₹9.50 Lakhs to ₹10.75 Lakhs, payable in term
+      installments. Partnered student hostel facilities in Dwarka range between
+      ₹1,10,000 and ₹1,35,000 per year.
+  - question: What is the core academic differentiator of FOSTIIMA Business School?
+    answer: >-
+      FOSTIIMA was founded by alumni from the Indian Institute of Management
+      Ahmedabad (IIM-A, 1973 batch). The core curriculum, case study pedagogy,
+      and classroom discussions are directly delivered by IIM alumni faculty and
+      senior corporate CXOs.
+  - question: >-
+      Which entrance exams and cutoffs are accepted for PGDM admission at
+      FOSTIIMA?
+    answer: >-
+      FOSTIIMA accepts scores from CAT (65-70 %ile), XAT, MAT (550+ score),
+      CMAT, and ATMA, alongside the FOSTIIMA Entrance & Aptitude Test (FEAT) and
+      Personal Interview rounds.
+  - question: Where is FOSTIIMA Business School located?
+    answer: >-
+      FOSTIIMA is located in Sector 9, Dwarka, New Delhi (opposite the Dwarka
+      District Court), close to the Sector 9 and Sector 10 Metro stations on the
+      Blue Line.
+location: 'Sector 9, Dwarka'
 state: New Delhi
 ---
 
-# FOSTIIMA Business School Delhi Review 2027: Fees, Cutoff, Placements & IIM-A ROI
+## FOSTIIMA Business School Delhi Review 2027: Fees, Cutoff, Placements & IIM-A ROI
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Pedagogy & Founding Legacy**: Founded and managed by alumni of the **Indian Institute of Management Ahmedabad (IIM-A, 1973 batch)**, FOSTIIMA operates in Sector 9, Dwarka, New Delhi, delivering IIM-style case discussions, experiential learning, and executive corporate mentorship.
@@ -174,3 +200,11 @@ Outstation students reside in verified private student hostels and rental apartm
 
 ### 5. What are the key specialization tracks offered at FOSTIIMA?
 FOSTIIMA offers dual specializations in Marketing, Finance, Human Resource Management, Operations & Supply Chain, and Business Analytics.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

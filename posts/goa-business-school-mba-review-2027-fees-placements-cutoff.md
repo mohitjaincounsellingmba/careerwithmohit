@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Goa Business School, Goa University (Panaji, Goa) review for
-  2027 admissions. Explore audited fee structure (₹2.80 Lakhs (Total)), latest
-  placement packages (Avg: ₹6.50 LPA, Highest: ₹14.00 LPA), entrance exam
-  cutoffs (CAT, XAT, CMAT, ATMA), NIRF ranking, and student verdict.
+  2027 admissions. Explore audited fee structure (₹2.80 Lakhs (Total)).
 keywords:
   - 'goa business school, goa university review 2027'
   - 'goa business school, goa university mba fees'
@@ -55,7 +53,7 @@ location: Panaji
 state: Goa
 ---
 
-# [Goa Business School, Goa University](/colleges/goa-business-school/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Goa Business School, Goa University](/colleges/goa-business-school/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, CMAT, ATMA** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

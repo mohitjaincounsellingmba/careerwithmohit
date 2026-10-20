@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Aiming for VJTI or PUMBA in 2026? Get the complete breakdown of MAH MCA CET
-  2026. Explore the latest syllabus, expected exam dates, and a expert
-  preparation guide.
+  2026. Explore the latest syllabus, expected exam dates.
 keywords:
   - mah mca cet 2026 preparation strategy
   - mah mca cet 2026 exam date

@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-12'
 description: >-
   Compare SOIL Institute of Management Gurgaon 1-Year PGPM (BL/HRL) vs 2-Year
-  PGDM. Full breakdown of fees, work experience criteria, average packages, and
-  ROI for 2026-2027 admissions & career guidance.
+  PGDM. Full breakdown of fees, work experience criteria, average packages.
 category: MBA
 keywords:
   - soil gurgaon 1 year pgpm vs 2 year pgdm roi fees

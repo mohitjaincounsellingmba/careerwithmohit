@@ -5,9 +5,8 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of FIIB Delhi for the 2027–29 PGDM batch —
-  from AACSB accreditation and Harvard case-based learning to strong placements
-  and CXO-led sessions. Find out why FIIB is one of Delhi's most respected
-  private B-schools.
+  from AACSB accreditation and Harvard case-based learning to strong
+  placements...
 keywords:
   - USP of FIIB Delhi
   - FIIB Delhi unique selling points

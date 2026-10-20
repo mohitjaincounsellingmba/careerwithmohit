@@ -1,13 +1,11 @@
 ---
 title: >-
-  MHCET MBA 2027–29 Answer Key Out: Check Phase 1 Response Sheet Link & Objection
-  Window
+  MHCET MBA 2027–29 Answer Key Out: Check Phase 1 Response Sheet Link &
+  Objection Window
 date: '2026-05-02'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MHCET MBA 2027–29
-  Answer Key Out: Check Phase 1 Response Sheet Link & Objection Window. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for MHCET MBA 2027–29 Answer Key Out: Check Phase 1 Resp...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MHCET MBA 2027–29 answer key out
   - MAH MBA CET 2027–29 response sheet link

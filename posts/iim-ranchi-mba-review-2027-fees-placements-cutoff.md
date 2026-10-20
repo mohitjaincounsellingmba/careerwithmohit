@@ -2,7 +2,9 @@
 title: 'IIM Ranchi MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Ranchi MBA review with audited ₹18.69 LPA placements, ₹17.50L fees, CAT CAP cutoffs, and admissions strategy by Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Ranchi MBA review with audited ₹18.69 LPA placements,
+  ₹17.50L fees, CAT CAP cutoffs, and admissions strategy by Mohit Jain.
 keywords:
   - iim ranchi mba admission 2027
   - iim ranchi fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Ranchi in 2026-2027?
     answer: >-
-      The verified overall average CTC at IIM Ranchi stands at ₹18.69 LPA across all MBA programs (MBA General at ₹18.90 LPA, MBA-HR at ₹17.30 LPA, and MBA-BA at ₹19.10 LPA), with the median CTC benchmarked at ₹18.00 LPA and highest domestic offer reaching ₹37.80 LPA.
+      The verified overall average CTC at IIM Ranchi stands at ₹18.69 LPA across
+      all MBA programs (MBA General at ₹18.90 LPA, MBA-HR at ₹17.30 LPA, and
+      MBA-BA at ₹19.10 LPA), with the median CTC benchmarked at ₹18.00 LPA and
+      highest domestic offer reaching ₹37.80 LPA.
   - question: What programs are offered by IIM Ranchi for post-graduation?
     answer: >-
-      IIM Ranchi offers its flagship Master of Business Administration (MBA), MBA in Human Resource Management (MBA-HR), MBA in Business Analytics (MBA-BA), Executive MBA, and a 5-year Integrated Programme in Management (IPM).
+      IIM Ranchi offers its flagship Master of Business Administration (MBA),
+      MBA in Human Resource Management (MBA-HR), MBA in Business Analytics
+      (MBA-BA), Executive MBA, and a 5-year Integrated Programme in Management
+      (IPM).
   - question: What is the total fee structure for MBA programs at IIM Ranchi?
     answer: >-
-      The total course fee for the 2-year full-time MBA (General / HR / BA) at IIM Ranchi is approximately ₹17.50 Lakhs, which includes tuition, single-occupancy hostel accommodation, digital resources, and case materials.
+      The total course fee for the 2-year full-time MBA (General / HR / BA) at
+      IIM Ranchi is approximately ₹17.50 Lakhs, which includes tuition,
+      single-occupancy hostel accommodation, digital resources, and case
+      materials.
   - question: What is the CAT cutoff for IIM Ranchi admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 94 percentile overall with 73+ sectional percentiles. Profile-rich candidates with 95+ percentile have strong conversion prospects.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 94 percentile overall with 73+ sectional percentiles.
+      Profile-rich candidates with 95+ percentile have strong conversion
+      prospects.
   - question: Is IIM Ranchi's MBA in HR comparable to XLRI and TISS?
     answer: >-
-      While XLRI Jamshedpur and TISS Mumbai remain the gold standards for HR education in India, IIM Ranchi is the pioneer among all IIMs for dedicated MBA-HR education, attracting top recruiters like Aditya Birla Group, Tata Steel, and Asian Paints.
+      While XLRI Jamshedpur and TISS Mumbai remain the gold standards for HR
+      education in India, IIM Ranchi is the pioneer among all IIMs for dedicated
+      MBA-HR education, attracting top recruiters like Aditya Birla Group, Tata
+      Steel, and Asian Paints.
 location: Ranchi
 state: Jharkhand
 ---
 
-# [IIM Ranchi](/colleges/iim-ranchi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Ranchi](/colleges/iim-ranchi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Established in 2009 (9th IIM in India), **IIM Ranchi** operates from its state-of-the-art 60-acre permanent campus at Prabandhan Nagar (Ranchi, Jharkhand), holding **NIRF Rank #17**.

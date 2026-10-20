@@ -5,9 +5,7 @@ title: >-
 date: '2026-07-21'
 description: >-
   Complete guide for MBBS admission 2026 at Hamdard Institute of Medical
-  Sciences & Research (HIMSR), New Delhi. Check latest fee structure, NEET UG
-  expected cutoff ranks, seat matrix, application process, and campus hospital
-  reviews.
+  Sciences & Research (HIMSR), New Delhi.
 keywords:
   - HIMSR New Delhi MBBS admission 2026
   - HIMSR New Delhi fee structure

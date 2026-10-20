@@ -4,8 +4,7 @@ date: '2026-09-25'
 category: Jobs & Careers
 description: >-
   Complete guide to top MBA & PGDM colleges in Kolkata for 2027. Compare IIM
-  Calcutta, VGSoM IIT Kharagpur, IMI Kolkata, IISWBM, and Praxis with updated
-  fees and packages.
+  Calcutta, VGSoM IIT Kharagpur, IMI Kolkata, IISWBM.
 keywords:
   - top mba college in kolkata
   - top mba colleges in kolkata 2027
@@ -46,7 +45,7 @@ location: Kolkata
 state: West Bengal
 ---
 
-# Top MBA Colleges in Kolkata 2027: Fees, Cutoff & Placements ROI
+## Top MBA Colleges in Kolkata 2027: Fees, Cutoff & Placements ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Eastern India's Management Gateway**: Kolkata blends deep academic heritage with rapid tech expansion across Salt Lake Sector V and Rajarhat New Town.

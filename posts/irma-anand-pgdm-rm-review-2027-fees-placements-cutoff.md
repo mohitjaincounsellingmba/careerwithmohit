@@ -4,9 +4,7 @@ date: '2026-09-26'
 category: Exams
 description: >-
   Verified 2027 MBA review for Institute of Rural Management Anand (IRMA)
-  (Anand, Gujarat). Check audited fees (₹16.80 Lakhs (Total)), average placement
-  (₹15.50 LPA), entrance cutoffs (80.0+ XAT / CAT %ile), and admission tips by
-  Mohit Jain.
+  (Anand, Gujarat). Check audited fees (₹16.80 Lakhs (Total)).
 keywords:
   - institute of rural management anand (irma) mba admission 2027
   - institute of rural management anand (irma) fees structure 2027
@@ -55,7 +53,7 @@ location: Ahmedabad
 state: Gujarat
 ---
 
-# [Institute of Rural Management Anand (IRMA)](/colleges/irma-anand/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [Institute of Rural Management Anand (IRMA)](/colleges/irma-anand/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Anand, Gujarat** recognized for academic rigor (NIRF Rank #54 · NBA & AICTE Approved · AIU Equivalent) and industry-aligned specializations in **PGDM-RM (Rural Management) & PGDM-Management**.

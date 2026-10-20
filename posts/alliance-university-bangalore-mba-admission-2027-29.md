@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Alliance School of Business (Alliance
-  University) (Alliance Bangalore). Verified fee structure (₹18.00 Lakhs
-  (Total)), MBA approvals, audited placements (Avg ₹10.50 LPA, Highest ₹40.00
-  LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and
-  Why Join review.
+  University) (Alliance Bangalore).
 keywords:
   - Alliance School of Business (Alliance University) admission 2027-29
   - Alliance Bangalore fees 2027
@@ -75,7 +72,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-# Alliance School of Business (Alliance University) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Alliance School of Business (Alliance University) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹18.00 Lakhs (Total)** (**₹9.00 Lakhs per Year**). Alliance Merit Scholarships up to 50% for 90%+ percentile holders in CAT/XAT/NMAT.

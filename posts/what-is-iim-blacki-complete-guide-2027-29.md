@@ -2,9 +2,8 @@
 title: 'What is IIM BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings'
 date: '2026-07-27'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for What is IIM
-  BLACKI? 2026 Guide to Fees, Placements, CAT Cutoffs & Rankings. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for What is IIM BLACKI? 2026 Guide to Fees, Placements, ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - IIM BLACKI
   - IIM BLACKI full form

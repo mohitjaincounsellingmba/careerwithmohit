@@ -6,8 +6,7 @@ date: '2026-08-26'
 category: Exams
 description: >-
   Looking for direct MBA admission in Pune under ₹8 Lakhs budget? Explore top
-  affordable colleges, fee structures, placement average packages, hostel costs,
-  ROI calculations, and step-by-step application advice for 2027.
+  affordable colleges, fee structures, placement average packages, hostel costs.
 keywords:
   - direct MBA admission Pune under 8 lakhs
   - low budget MBA colleges in Pune 2027

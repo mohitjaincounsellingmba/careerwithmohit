@@ -4,8 +4,8 @@ title: >-
   Highest ₹1.10 Cr & 100% Placements
 date: '2026-08-15'
 description: >-
-  Complete XLRI Jamshedpur and XLRI Delhi-NCR PGDM (BM & HRM) Placement Report 2027–29. Explore average package of ₹31.08 LPA, highest package of ₹1.10 Cr, PPOs
-  & recruiters.
+  Complete XLRI Jamshedpur and XLRI Delhi-NCR PGDM (BM & HRM) Placement Report
+  2027–29. Explore average package of ₹31.08 LPA, highest package of ₹1.10 Cr.
 keywords:
   - xlri placement report 2025
   - xlri jamshedpur average package 2025

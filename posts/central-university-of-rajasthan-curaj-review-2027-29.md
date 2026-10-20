@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-24'
 description: >-
   Get all details for Central University of Rajasthan (CURaj) 2026 admissions,
-  including CUET cutoffs, latest fee structure, hostel facilities, and placement
-  stats.
+  including CUET cutoffs, latest fee structure, hostel facilities.
 keywords:
   - CURaj admission 2026
   - Central University of Rajasthan fees

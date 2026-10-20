@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Bharati Vidyapeeth (Deemed University) (IMED Pune)
-  (Pune) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Pune) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Bharati Vidyapeeth Pune (IMED) review 2027–29
   - Bharati Vidyapeeth Pune (IMED) placements 2027–29

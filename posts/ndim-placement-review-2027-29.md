@@ -6,7 +6,7 @@ date: '2026-03-22'
 description: >-
   Looking for NDIM Delhi placement reviews? Explore the latest 2024-2025
   placement data, including an average package of ₹9.5 LPA and top recruiters
-  like Deloitte and Amazon.
+  like...
 keywords:
   - NDIM Delhi placement review 2027–29
   - NDIM New Delhi average package

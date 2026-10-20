@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Looking for the best MBA HR colleges in Delhi NCR? Read our 2027–29 guide
   comparing top institutions like FMS, MDI Gurgaon, IMI Delhi, and IMT
-  Ghaziabad, including fees and placements.
+  Ghaziabad.
 keywords:
   - top mba hr colleges in delhi ncr 2027–29
   - best mba hr in delhi ncr

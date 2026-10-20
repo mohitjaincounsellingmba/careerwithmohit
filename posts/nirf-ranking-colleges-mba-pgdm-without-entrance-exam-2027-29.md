@@ -1,13 +1,12 @@
 ---
 title: >-
-  NIRF Ranked MBA & PGDM Colleges Without Entrance Exam 2027–29: Direct Admission,
-  Fees & Placements
+  NIRF Ranked MBA & PGDM Colleges Without Entrance Exam 2027–29: Direct
+  Admission, Fees & Placements
 date: '2026-08-23'
 category: Online Degrees
 description: >-
   Looking for NIRF ranked MBA or PGDM colleges offering admission without CAT,
-  XAT, or MAT? Discover top private universities, management quota options,
-  profile-based seats, and NIRF-ranked online MBA programs in 2027–29.
+  XAT, or MAT? Discover top private universities, management quota options.
 keywords:
   - nirf ranking college of mba without entrance exam
   - nirf ranked pgdm colleges direct admission 2027–29

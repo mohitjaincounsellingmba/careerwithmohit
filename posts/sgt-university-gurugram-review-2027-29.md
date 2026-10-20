@@ -3,8 +3,7 @@ title: 'SGT University, Gurugram Review 2027–29: Placements, Fees, Courses & A
 date: '2026-08-03'
 description: >-
   Comprehensive review of SGT University, Gurugram (Gurugram) for 2026. Check
-  latest fee structure, flagship courses, placement statistics, top recruiters,
-  and admission process.
+  latest fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - SGT University review 2027–29
   - SGT University placements 2027–29

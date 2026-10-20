@@ -6,8 +6,7 @@ date: '2026-08-12'
 category: Exams
 description: >-
   Official UGC & AICTE fake university list pan-India for MBA 2027–29. Check
-  blacklisted institutes and unrecognized B-schools in Delhi NCR, Bangalore,
-  Kolkata, Pune, Mumbai, Jaipur, and Dehradun before admission.
+  blacklisted institutes and unrecognized B-schools in Delhi NCR, Bangalore.
 keywords:
   - fake university list pan india for mba
   - ugc fake universities list 2026
@@ -73,7 +72,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Fake University List Pan India for MBA 2027–29: UGC & AICTE Blacklisted Colleges & Red Flags
+## Fake University List Pan India for MBA 2027–29: UGC & AICTE Blacklisted Colleges & Red Flags
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

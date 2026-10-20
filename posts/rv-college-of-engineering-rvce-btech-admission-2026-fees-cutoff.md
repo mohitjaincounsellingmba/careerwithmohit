@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about RV College of Engineering (RVCE) Bangalore
-  B.Tech admission 2026. Check the latest KCET/COMEDK cutoffs, management quota
-  fees, and placement stats (₹92 LPA Highest).
+  B.Tech admission 2026. Check the latest KCET/COMEDK cutoffs.
 keywords:
   - RVCE Bangalore BTech admission 2026
   - RVCE KCET cutoff for CSE

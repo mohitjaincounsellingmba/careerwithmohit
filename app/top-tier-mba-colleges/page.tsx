@@ -6,8 +6,8 @@ import { TOP_TIER_MBA_COLLEGES } from "@/data/topTierMbaColleges";
 import { Award, ShieldCheck, TrendingUp, Zap, Sparkles, CheckCircle2, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Top Tier MBA Colleges in India (2027–2029): Top 20 IIMs, NMAT, SNAP & XAT Colleges | CareerWithMohit",
-  description: "Compare India's top tier MBA colleges for 2027–2029 batch. Explore complete cutoffs, fee structures, and latest audited placement reports for all 20 IIMs, SNAP (SIBM), NMAT (NMIMS), and XAT (XLRI) accepting colleges. Get profile strategy from Mohit Jain.",
+  title: "Top Tier MBA Colleges in India 2027: Fees & Cutoffs",
+  description: "Compare top tier MBA colleges in India for 2027: 20 IIMs, SIBM, NMIMS & XLRI. Get verified cutoffs, fee structures & audited placement reports with Mohit Jain.",
   keywords: [
     "top tier mba colleges in india 2027-29",
     "top tier mba colleges in india 2027",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     canonical: "/top-tier-mba-colleges/"
   },
   openGraph: {
-    title: "Top Tier MBA Colleges in India (2027–2029): IIMs, NMAT, SNAP & XAT",
+    title: "Top Tier MBA Colleges in India 2027: Fees, Cutoffs & Placements | CareerWithMohit",
     description: "Compare verified fees, cutoffs, and placements for all IIMs and elite SNAP, NMAT, and XAT accepting business schools in India for 2027–2029.",
     type: "website",
     url: "https://careerwithmohit.online/top-tier-mba-colleges/"

@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: Exams
 description: >-
   Explore the best MBA colleges accepting CAT score 80-90 percentile in India
-  for 2026. Compare fees, average placements (12-18 LPA), cutoffs, and selection
-  criteria.
+  for 2026. Compare fees, average placements (12-18 LPA), cutoffs.
 keywords:
   - MBA Colleges Accepting CAT Score 80-90 Percentile
   - CAT 80 to 90 percentile colleges

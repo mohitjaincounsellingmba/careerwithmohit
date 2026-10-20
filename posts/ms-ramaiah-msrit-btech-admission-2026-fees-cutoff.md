@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about MS Ramaiah Institute of Technology (MSRIT)
-  Bangalore B.Tech admission 2026. Check the latest KCET/COMEDK cutoffs,
-  management quota fees, and placement stats (₹58 LPA Highest).
+  Bangalore B.Tech admission 2026.
 keywords:
   - MS Ramaiah Bangalore BTech admission 2026
   - MSRIT KCET cutoff for CSE

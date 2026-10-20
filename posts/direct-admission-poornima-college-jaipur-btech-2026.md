@@ -4,10 +4,8 @@ title: >-
   Management Quota, Fees & Placements
 date: '2026-04-02'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Direct
-  Admission in Poornima College of Engineering Jaipur for B.Tech 2026:
-  Management Quota, Fees & Placements. Check updated fees, placement records,
-  real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Direct Admission in Poornima College of Engineering ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - direct admission Poornima College Jaipur BTech
   - Poornima College BTech management quota 2026

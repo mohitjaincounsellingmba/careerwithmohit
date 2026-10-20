@@ -44,7 +44,7 @@ location: Hyderabad
 state: Telangana
 ---
 
-# Top B-Schools in Hyderabad for 2027-29: Fee Structure, Placement Stats & Non-CAT Options
+## Top B-Schools in Hyderabad for 2027-29: Fee Structure, Placement Stats & Non-CAT Options
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

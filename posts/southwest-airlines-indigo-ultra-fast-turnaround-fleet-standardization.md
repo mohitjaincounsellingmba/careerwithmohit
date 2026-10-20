@@ -2,10 +2,8 @@
 title: 'Southwest & IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets'
 date: '2026-05-28'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Southwest &
-  IndiGo: Ultra-Fast Turnaround Time & Fleet Standardization Secrets. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Southwest & IndiGo: Ultra-Fast Turnaround Time & Fle...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Southwest Airlines fleet standardization
   - IndiGo turnaround time case study

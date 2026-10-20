@@ -3,8 +3,7 @@ title: 'Boston University Admission Guide 2026: Fees, Placements & Requirements'
 date: '2026-06-11'
 description: >-
   Thinking of studying at Boston University in 2026? Check the latest fee
-  structure in INR, top courses, eligibility requirements, and placement reports
-  for Indian students.
+  structure in INR, top courses, eligibility requirements.
 keywords:
   - Boston University admission 2026
   - Boston University fees for Indian students

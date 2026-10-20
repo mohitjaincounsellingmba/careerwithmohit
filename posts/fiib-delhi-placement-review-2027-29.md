@@ -6,7 +6,7 @@ date: '2026-03-22'
 description: >-
   Is FIIB Delhi worth it? Explore the latest FIIB Delhi placement reviews
   2024-2025, with average packages of ₹8.5 LPA and highest offers up to ₹25 LPA
-  by top MNCs.
+  by top...
 keywords:
   - FIIB Delhi placement review 2027–29
   - FIIB New Delhi average package

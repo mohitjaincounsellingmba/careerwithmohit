@@ -6,9 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for IIEBM (Indus Business School) (IIEBM
-  Pune). Verified fee structure (₹8.25 Lakhs (Total)), PGDM approvals, audited
-  placements (Avg ₹7.50 LPA, Highest ₹30.00 LPA), PPO stats, certifications,
-  awards, alumni network, faculty profiles, and Why Join review.
+  Pune). Verified fee structure (₹8.25 Lakhs (Total)), PGDM approvals.
 keywords:
   - IIEBM (Indus Business School) admission 2027-29
   - IIEBM Pune fees 2027
@@ -69,7 +67,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# [IIEBM (Indus Business School)](/colleges/iiebm-pune/) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [IIEBM (Indus Business School)](/colleges/iiebm-pune/) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.25 Lakhs (Total)** (**₹4.12 Lakhs per Year**). Merit waivers for high percentiles in national entrance exams and defense wards.

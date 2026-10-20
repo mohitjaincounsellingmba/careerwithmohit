@@ -4,9 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for SDA Bocconi Asia Center (Mumbai, Maharashtra).
-  Check audited fees (₹19.40 Lakhs (Total)), average placement (₹14.30 LPA),
-  entrance cutoffs (200+ NMAT / Bocconi Test / 80+ CAT %ile), and admission tips
-  by Mohit Jain.
+  Check audited fees (₹19.40 Lakhs (Total)), average placement (₹14.30 LPA).
 keywords:
   - sda bocconi asia center mba admission 2027
   - sda bocconi asia center fees structure 2027
@@ -53,7 +51,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# [SDA Bocconi Asia Center](/blog/sda-bocconi-mumbai-imb-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [SDA Bocconi Asia Center](/blog/sda-bocconi-mumbai-imb-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Mumbai, Maharashtra** recognized for academic rigor (Triple Crown Parent (SDA Bocconi School of Management, Milan, Italy)) and industry-aligned specializations in **IMB (International Master in Business)**.

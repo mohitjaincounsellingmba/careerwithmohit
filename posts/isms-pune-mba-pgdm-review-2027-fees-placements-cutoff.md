@@ -1,8 +1,10 @@
 ---
-title: "ISMS Pune MBA Review 2027: Fees, Cutoff & Placements"
+title: 'ISMS Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 ISMS Pune MBA review with audited ₹6.20L placements, ₹6.50L fees, UK dual degrees, cutoff, and admissions advice from Mohit Jain."
+description: >-
+  Read verified 2027 ISMS Pune MBA review with audited ₹6.20L placements, ₹6.50L
+  fees, UK dual degrees, cutoff, and admissions advice from Mohit Jain.
 keywords:
   - isms pune mba review 2027
   - isms pune fees structure 2027
@@ -15,24 +17,41 @@ keywords:
 faqs:
   - question: What is the audited average placement package at ISMS Pune?
     answer: >-
-      The verified overall average placement package across graduating cohorts at International School of Management Studies (ISMS Pune) stands at ₹6.20 LPA to ₹7.10 LPA. The median CTC is benchmarked at ₹6.00 LPA, with top 20% performers securing ₹9.50 LPA and peak domestic offers reaching ₹15.00 LPA.
+      The verified overall average placement package across graduating cohorts
+      at International School of Management Studies (ISMS Pune) stands at ₹6.20
+      LPA to ₹7.10 LPA. The median CTC is benchmarked at ₹6.00 LPA, with top 20%
+      performers securing ₹9.50 LPA and peak domestic offers reaching ₹15.00
+      LPA.
   - question: What entrance exams and cutoffs are accepted for admission at ISMS Pune?
     answer: >-
-      ISMS Pune accepts scores from MAH MBA CET, CAT, MAT, CMAT, ATMA, and XAT. Indicative cutoff thresholds range between 55.0 and 65.0 percentile, followed by institutional Personal Interview (PI) profile evaluations.
-  - question: What is the complete fee structure for the MBA and PGDM programs at ISMS Pune?
+      ISMS Pune accepts scores from MAH MBA CET, CAT, MAT, CMAT, ATMA, and XAT.
+      Indicative cutoff thresholds range between 55.0 and 65.0 percentile,
+      followed by institutional Personal Interview (PI) profile evaluations.
+  - question: >-
+      What is the complete fee structure for the MBA and PGDM programs at ISMS
+      Pune?
     answer: >-
-      The 2-year academic tuition fee for the International PGDM / MBA program at ISMS Pune is approximately ₹6.50 Lakhs to ₹7.50 Lakhs, payable in academic installments. Partnered student housing facilities in Pune range between ₹85,000 and ₹1,10,000 per year.
+      The 2-year academic tuition fee for the International PGDM / MBA program
+      at ISMS Pune is approximately ₹6.50 Lakhs to ₹7.50 Lakhs, payable in
+      academic installments. Partnered student housing facilities in Pune range
+      between ₹85,000 and ₹1,10,000 per year.
   - question: Which international dual-degree partnerships does ISMS Pune offer?
     answer: >-
-      ISMS Pune offers accredited dual-degree pathways accredited by Pearson Edexcel UK, allowing students to earn international postgraduate diplomas and pursue degree top-ups with leading British universities including Leeds Beckett University and University of Central Lancashire (UCLan).
+      ISMS Pune offers accredited dual-degree pathways accredited by Pearson
+      Edexcel UK, allowing students to earn international postgraduate diplomas
+      and pursue degree top-ups with leading British universities including
+      Leeds Beckett University and University of Central Lancashire (UCLan).
   - question: Is direct admission available under management quota at ISMS Pune?
     answer: >-
-      Yes, eligible candidates possessing a recognized graduation degree with a minimum of 50% aggregate marks (45% for reserved categories) and valid entrance test scores can apply for merit profile-based direct evaluation seats with counselor assistance.
+      Yes, eligible candidates possessing a recognized graduation degree with a
+      minimum of 50% aggregate marks (45% for reserved categories) and valid
+      entrance test scores can apply for merit profile-based direct evaluation
+      seats with counselor assistance.
 location: 'Wadgaon, Hinjawadi'
 state: 'Pune, Maharashtra'
 ---
 
-# [International School of Management Studies (ISMS Pune)](https://careerwithmohit.online/blog/isms-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [International School of Management Studies (ISMS Pune)](https://careerwithmohit.online/blog/isms-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier globally partnered business school situated in Wadgaon and Hinjawadi corridors, Pune, Maharashtra. Accredited by **Pearson Edexcel (UK)**, ISMS is distinguished by its British dual-degree top-up programs, international student exchange pathways, and intensive corporate grooming.

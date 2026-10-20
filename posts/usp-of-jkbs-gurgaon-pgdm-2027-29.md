@@ -5,9 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of JK Business School (JKBS) Gurgaon for
-  the 2027–29 PGDM batch — budget-friendly fees under ₹9L, 10-acre campus,
-  Management Simulation Game, FinTech & Data Analytics PGDM, and ₹24 LPA highest
-  package. Find out why JKBS is Gurgaon's best-value B-school.
+  the 2027–29 PGDM batch — budget-friendly fees under ₹9L, 10-acre campus.
 keywords:
   - USP of JKBS Gurgaon
   - JK Business School 2026

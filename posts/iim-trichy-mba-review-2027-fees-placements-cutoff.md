@@ -2,7 +2,9 @@
 title: 'IIM Trichy MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Trichy MBA review with audited ₹19.40 LPA placements, ₹19.50L fees, CAT CAP cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Trichy MBA review with audited ₹19.40 LPA placements,
+  ₹19.50L fees, CAT CAP cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - iim trichy mba admission 2027
   - iim trichy fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Trichy in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Trichy stands at ₹19.40 LPA to ₹20.55 LPA across recent batches, with the median CTC benchmarked at ₹19.50 LPA. The top 10% of the batch secured an average salary of ₹31.80 LPA, while the highest domestic offer reached ₹41.61 LPA.
+      The verified average placement package at IIM Trichy stands at ₹19.40 LPA
+      to ₹20.55 LPA across recent batches, with the median CTC benchmarked at
+      ₹19.50 LPA. The top 10% of the batch secured an average salary of ₹31.80
+      LPA, while the highest domestic offer reached ₹41.61 LPA.
   - question: What programs are offered at IIM Trichy?
     answer: >-
-      IIM Trichy offers its flagship Post Graduate Programme in Management (PGPM / MBA), Post Graduate Programme in Human Resources (PGPM-HR), Executive MBA (EMBA), and doctoral Fellow Programme in Management (FPM/PhD).
+      IIM Trichy offers its flagship Post Graduate Programme in Management (PGPM
+      / MBA), Post Graduate Programme in Human Resources (PGPM-HR), Executive
+      MBA (EMBA), and doctoral Fellow Programme in Management (FPM/PhD).
   - question: What is the total fee structure for the MBA/PGPM program at IIM Trichy?
     answer: >-
-      The total academic fee for the 2-year full-time PGPM / PGPM-HR program at IIM Trichy is approximately ₹19.50 Lakhs, which covers tuition, single-occupancy air-conditioned hostel rooms, library databases, and academic course packs.
+      The total academic fee for the 2-year full-time PGPM / PGPM-HR program at
+      IIM Trichy is approximately ₹19.50 Lakhs, which covers tuition,
+      single-occupancy air-conditioned hostel rooms, library databases, and
+      academic course packs.
   - question: What is the CAT cutoff for IIM Trichy admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 94 percentile overall with 73+ sectional percentiles across VARC, DILR, and QA. Final interview conversion cutoffs typically range between 95 to 97+ percentile.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 94 percentile overall with 73+ sectional percentiles across
+      VARC, DILR, and QA. Final interview conversion cutoffs typically range
+      between 95 to 97+ percentile.
   - question: Where is IIM Trichy's permanent campus located?
     answer: >-
-      IIM Trichy operates from its sprawling 175-acre permanent green campus on Pudukkottai Road, Chinna Suriyur, Tiruchirappalli, Tamil Nadu, featuring modern smart lecture halls, international sports facilities, and single-occupancy residential hostels.
+      IIM Trichy operates from its sprawling 175-acre permanent green campus on
+      Pudukkottai Road, Chinna Suriyur, Tiruchirappalli, Tamil Nadu, featuring
+      modern smart lecture halls, international sports facilities, and
+      single-occupancy residential hostels.
 location: Tiruchirappalli
 state: Tamil Nadu
 ---
 
-# [IIM Trichy](/colleges/iim-trichy/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Trichy](/colleges/iim-trichy/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Prestige**: Established in 2011 and mentored originally by [IIM Bangalore](/colleges/iim-bangalore/), **IIM Trichy** operates from a 175-acre permanent campus in Tiruchirappalli (Tamil Nadu), holding **NIRF Rank #27** and prestigious **AMBA accreditation**.

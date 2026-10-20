@@ -4,8 +4,7 @@ date: '2026-08-26'
 category: Exams
 description: >-
   Master the XAT 2027 Decision Making (DM) and Verbal & Logical Ability (VALA)
-  sections. Learn core ethics frameworks, business case scenario solving
-  techniques, poem comprehension strategies, and expected XLRI cutoffs.
+  sections. Learn core ethics frameworks, business case scenario solving...
 keywords:
   - XAT 2027 decision making preparation
   - XAT verbal ability mastery guide

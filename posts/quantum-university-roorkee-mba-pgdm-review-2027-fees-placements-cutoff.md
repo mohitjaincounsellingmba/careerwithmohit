@@ -2,7 +2,9 @@
 title: 'Quantum University MBA Review 2027: Fees & Placements'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 Quantum University MBA review with audited ₹5.80L placements, ₹4.35L fees, CAT cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 Quantum University MBA review with audited ₹5.80L
+  placements, ₹4.35L fees, CAT cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - quantum university roorkee mba review 2027
   - quantum university fees structure 2027
@@ -13,26 +15,45 @@ keywords:
   - best mba colleges in uttarakhand
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the average placement package at Quantum University Roorkee in 2026-2027?
+  - question: >-
+      What is the average placement package at Quantum University Roorkee in
+      2026-2027?
     answer: >-
-      The verified overall average CTC at Quantum University Roorkee stands at ₹5.80 LPA to ₹6.50 LPA across its graduating management cohorts. The median package is benchmarked at ₹5.50 LPA, with top performers securing domestic packages reaching up to ₹18.00 LPA across corporate sales, BFSI, and logistics.
+      The verified overall average CTC at Quantum University Roorkee stands at
+      ₹5.80 LPA to ₹6.50 LPA across its graduating management cohorts. The
+      median package is benchmarked at ₹5.50 LPA, with top performers securing
+      domestic packages reaching up to ₹18.00 LPA across corporate sales, BFSI,
+      and logistics.
   - question: What entrance exams are accepted for MBA admission at Quantum University?
     answer: >-
-      Quantum University accepts valid scores from CAT, XAT, MAT, CMAT, ATMA, and CUET-PG. Candidates can also qualify through the university’s internal scholarship test (Q-CARE) followed by personal interview rounds.
-  - question: What is the total fee structure for the MBA program at Quantum University Roorkee?
+      Quantum University accepts valid scores from CAT, XAT, MAT, CMAT, ATMA,
+      and CUET-PG. Candidates can also qualify through the university’s internal
+      scholarship test (Q-CARE) followed by personal interview rounds.
+  - question: >-
+      What is the total fee structure for the MBA program at Quantum University
+      Roorkee?
     answer: >-
-      The total tuition fee for the 2-year full-time MBA program at Quantum University Roorkee is approximately ₹4.20 Lakhs to ₹4.35 Lakhs, payable in semester-wise academic installments of approximately ₹1.05 Lakhs to ₹1.10 Lakhs per semester.
+      The total tuition fee for the 2-year full-time MBA program at Quantum
+      University Roorkee is approximately ₹4.20 Lakhs to ₹4.35 Lakhs, payable in
+      semester-wise academic installments of approximately ₹1.05 Lakhs to ₹1.10
+      Lakhs per semester.
   - question: Is Quantum University UGC recognized and approved by AICTE?
     answer: >-
-      Yes. Quantum University is a state private university established by the Uttarakhand State Legislature, recognized by the University Grants Commission (UGC) under Section 2(f), and approved by the AICTE for its technical and management programs.
+      Yes. Quantum University is a state private university established by the
+      Uttarakhand State Legislature, recognized by the University Grants
+      Commission (UGC) under Section 2(f), and approved by the AICTE for its
+      technical and management programs.
   - question: What is unique about Quantum University's interdisciplinary pedagogy?
     answer: >-
-      Quantum University features an innovative Major-Minor curriculum architecture that allows MBA students to select minor passions in disciplines like AI, Digital Media, Creative Design, Cyber Security, or Performing Arts alongside their core business major.
+      Quantum University features an innovative Major-Minor curriculum
+      architecture that allows MBA students to select minor passions in
+      disciplines like AI, Digital Media, Creative Design, Cyber Security, or
+      Performing Arts alongside their core business major.
 location: Roorkee-Dehradun Highway
 state: Uttarakhand
 ---
 
-# Quantum University Roorkee Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## Quantum University Roorkee Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Interdisciplinary Learning**: Located on the Roorkee-Dehradun Highway in Uttarakhand, Quantum University is a premier **UGC-recognized and AICTE-approved state private university** celebrated for its innovative multidisciplinary pedagogy and vibrant residential campus.

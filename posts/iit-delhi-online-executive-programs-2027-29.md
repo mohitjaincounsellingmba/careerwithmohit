@@ -3,8 +3,7 @@ title: 'IIT Delhi Online Executive Programs 2026: Fees, Placements & Admission G
 date: '2026-03-30'
 description: >-
   Looking for IIT Delhi online courses for working professionals? Discover top
-  executive PG diplomas, IIT Delhi online fees 2027–29, placement assistance, and
-  how to apply for executive programs.
+  executive PG diplomas, IIT Delhi online fees 2027–29, placement assistance.
 keywords:
   - IIT Delhi online executive programs
   - IIT Delhi online fees 2027–29

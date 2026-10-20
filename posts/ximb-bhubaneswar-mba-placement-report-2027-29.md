@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Complete XIMB Bhubaneswar MBA (BM & HRM) Placement Report 2027–29. Explore
-  average package of ₹18.25 LPA, highest CTC of ₹32.80 LPA, top BFSI &
-  consulting recruiters.
+  average package of ₹18.25 LPA, highest CTC of ₹32.80 LPA.
 keywords:
   - ximb bhubaneswar mba placement report 2027–29
   - ximb average package 2025

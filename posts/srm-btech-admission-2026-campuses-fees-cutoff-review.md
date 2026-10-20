@@ -3,8 +3,7 @@ title: 'SRM B.Tech Admission 2026: All Campuses, SRMJEEE Cutoffs, Fees & Placeme
 date: '2026-03-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri for 2026-2027 admissions & career guidance.
+  colleges in Ghaziabad, Delhi NCR.
 keywords:
   - SRM BTech admission 2026
   - SRMJEEE 2026 exam dates

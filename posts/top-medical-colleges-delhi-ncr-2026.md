@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Medical/MBBS
 description: >-
   Planning your MBBS in the National Capital? Compare the best medical colleges
-  in Delhi NCR for 2026. Detailed guide on MAMC, VMMC, [Jamia
-  Hamdard](/colleges/jamia-hamdard-delhi/), and SGT.
+  in Delhi NCR for 2026. Detailed guide on MAMC, VMMC.
 keywords:
   - top medical colleges in delhi ncr 2026
   - best mbbs colleges delhi

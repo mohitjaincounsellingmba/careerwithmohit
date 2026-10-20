@@ -4,8 +4,7 @@ date: '2026-05-21'
 category: BBA
 description: >-
   Is pursuing a BBA in Delhi NCR worth the cost? Read our ROI analysis comparing
-  tuition fees against placement packages for top management colleges for
-  2026-2027 admissions & career guidance.
+  tuition fees against placement packages for top management colleges for...
 keywords:
   - bba fees vs placement
   - is bba worth it in delhi ncr

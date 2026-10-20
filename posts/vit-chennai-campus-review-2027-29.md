@@ -1,12 +1,11 @@
 ---
 title: >-
-  Vellore Institute of Technology (VIT), Chennai Campus Review 2027–29: Placements,
-  Fees, Courses & Admission
+  Vellore Institute of Technology (VIT), Chennai Campus Review 2027–29:
+  Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Vellore Institute of Technology (VIT), Chennai Campus
-  (Chennai (Vandalur-Kelambakkam Road)) for 2026. Check latest fee structure,
-  flagship courses, placement statistics, top recruiters, and admission process.
+  (Chennai (Vandalur-Kelambakkam Road)) for 2026.
 keywords:
   - VIT Chennai Campus review 2027–29
   - VIT Chennai Campus placements 2027–29

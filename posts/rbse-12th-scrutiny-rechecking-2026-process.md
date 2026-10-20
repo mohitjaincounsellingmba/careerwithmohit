@@ -2,10 +2,8 @@
 title: 'RBSE 12th Rechecking & Scrutiny 2026: How to Apply Online, Fees, and Last Date'
 date: '2026-04-01'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for RBSE 12th
-  Rechecking & Scrutiny 2026: How to Apply Online, Fees, and Last Date. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for RBSE 12th Rechecking & Scrutiny 2026: How to Apply O...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - RBSE 12th rechecking 2026
   - RBSE 12th scrutiny online form

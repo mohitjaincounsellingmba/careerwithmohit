@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Finland for Indian students 2026. All
-  fees in INR, FINEEC accredited institutions, Finnish scholarships, and
-  post-study work permit details.
+  fees in INR, FINEEC accredited institutions, Finnish scholarships.
 keywords:
   - universities in Finland for Indian students 2026
   - study in Finland fees in INR

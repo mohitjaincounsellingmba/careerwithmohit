@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Exams
 description: >-
   Planning to crack CAT 2026? Follow our ultimate 6-month preparation roadmap.
-  Get section-wise tips for VARC, DILR, and Quant, plus the latest syllabus and
-  exam dates.
+  Get section-wise tips for VARC, DILR, and Quant.
 keywords:
   - cat 2026 preparation strategy
   - cat 2026 roadmap

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about JoSAA 2026 counselling. Get the latest
-  tentative schedule for registration, choice filling, mock allotment, and a
-  complete list of required documents for IIT/NIT admissions.
+  tentative schedule for registration, choice filling, mock allotment.
 keywords:
   - JoSAA 2026 counselling dates
   - JoSAA registration process 2026

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-25'
 description: >-
   Updated city-wise list of top private MBA colleges accepting the Bihar Student
-  Credit Card (DRCC/BSCC) scheme for 2027–29. Learn how to get up to ₹4 Lakhs at
-  0% interest for MBA in Pune, Delhi, & Bangalore.
+  Credit Card (DRCC/BSCC) scheme for 2027–29.
 keywords:
   - Bihar Student Credit Card top MBA colleges 2027–29
   - DRCC approved MBA colleges list

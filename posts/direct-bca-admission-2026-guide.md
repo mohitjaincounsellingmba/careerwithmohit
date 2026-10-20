@@ -3,9 +3,8 @@ title: 'Direct BCA Admission 2026 — Process, Fees & Management Quota'
 date: '2026-04-21'
 category: BCA/MCA
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Direct BCA
-  Admission 2026 — Process, Fees & Management Quota. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Direct BCA Admission 2026 — Process, Fees & Manageme...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - direct bca admission 2026
   - bca management quota fees

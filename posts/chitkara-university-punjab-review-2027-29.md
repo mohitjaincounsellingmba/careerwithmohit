@@ -1,12 +1,11 @@
 ---
 title: >-
-  Chitkara University, Rajpura / Punjab Review 2027–29: Placements, Fees, Courses &
-  Admission
+  Chitkara University, Rajpura / Punjab Review 2027–29: Placements, Fees,
+  Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Chitkara University, Rajpura / Punjab (Rajpura) for
-  2026. Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Chitkara University Punjab review 2027–29
   - Chitkara University Punjab placements 2027–29

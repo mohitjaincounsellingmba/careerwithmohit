@@ -37,9 +37,9 @@ const PAGE_PATH = '/mba-application-form-discount/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'MBA Application Form Discount Codes 2027: 55+ Colleges (Save 50-100%)',
+  title: 'MBA Form Discount Coupons 2027: Save 50-100%',
   description:
-    'Get verified 2027 MBA application form fee discount coupon codes for 55+ top AICTE B-schools (NDIM, FOSTIIMA, FIIB, JIMS, Jaipuria, PIBM, SOIL, JAGSoM). Save ₹5,000+ with free GD-PI prep.',
+    'Get verified 2027 MBA application form discount coupon codes for 55+ top B-schools (NDIM, JIMS, Jaipuria, PIBM). Save ₹5,000+ with Mohit Jain.',
   keywords: [
     'MBA application form discount coupon 2027',
     'MBA form discount codes 2027',

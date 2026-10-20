@@ -32,7 +32,7 @@ faqs:
       programs in Indore and Bhopal under the All India Seats Quota.
 ---
 
-# Top MBA/PGDM Colleges in Indore & Bhopal (2027-29): CMAT/MAT Cutoffs & Seat Booking
+## Top MBA/PGDM Colleges in Indore & Bhopal (2027-29): CMAT/MAT Cutoffs & Seat Booking
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

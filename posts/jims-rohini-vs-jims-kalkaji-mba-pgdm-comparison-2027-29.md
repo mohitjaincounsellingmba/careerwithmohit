@@ -3,8 +3,7 @@ title: 'JIMS Rohini vs JIMS Kalkaji for MBA/PGDM 2)26: Which is Better?'
 date: '2026-03-25'
 description: >-
   Confused between JIMS Rohini and JIMS Kalkaji? Read our deep-dive comparison
-  focusing on placement quality, location advantage, and the 'North Delhi vs
-  South Delhi' corporate reality for 2026-2027 admissions & career guidance.
+  focusing on placement quality, location advantage.
 keywords:
   - JIMS Rohini vs JIMS Kalkaji PGDM
   - JIMS Rohini placement review negative

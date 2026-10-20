@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-20'
 description: >-
   NTA has officially declared the JEE Main 2026 Session 2 (April Attempt)
-  results today, April 20. Check the direct download link, qualifying cutoff for
-  JEE Advanced, and step-by-step guide to download your scorecard.
+  results today, April 20. Check the direct download link.
 keywords:
   - JEE Main 2026 Session 2 result
   - JEE Main April attempt result date

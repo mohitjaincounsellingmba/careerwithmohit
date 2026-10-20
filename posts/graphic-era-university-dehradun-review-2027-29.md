@@ -1,12 +1,11 @@
 ---
 title: >-
-  Graphic Era (Deemed to be University), Dehradun Review 2027–29: Placements, Fees,
-  Courses & Admission
+  Graphic Era (Deemed to be University), Dehradun Review 2027–29: Placements,
+  Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Graphic Era (Deemed to be University), Dehradun
-  (Dehradun) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Dehradun) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Graphic Era University Dehradun review 2027–29
   - Graphic Era University Dehradun placements 2027–29

@@ -4,8 +4,7 @@ date: '2026-04-20'
 category: B.Tech
 description: >-
   Find the best B.Tech engineering colleges in Kolkata 2026 with fees, WBJEE
-  cutoffs, placement records and direct admission options. Expert-verified guide
-  for West Bengal students.
+  cutoffs, placement records and direct admission options.
 keywords:
   - top btech colleges in kolkata
   - best engineering colleges kolkata 2026

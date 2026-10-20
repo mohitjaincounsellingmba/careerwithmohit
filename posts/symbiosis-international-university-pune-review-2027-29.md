@@ -1,11 +1,11 @@
 ---
 title: >-
-  Symbiosis International (Deemed University) (SIBM Pune, SCMHRD, SIIB) Review 2027–29: Placements, Fees, Courses & Admission
+  Symbiosis International (Deemed University) (SIBM Pune, SCMHRD, SIIB) Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Symbiosis International (Deemed University) (SIBM
-  Pune, SCMHRD, SIIB) (Pune) for 2026. Check latest fee structure, flagship
-  courses, placement statistics, top recruiters, and admission process.
+  Pune, SCMHRD, SIIB) (Pune) for 2026.
 keywords:
   - Symbiosis International University (SIU Pune) review 2027–29
   - Symbiosis International University (SIU Pune) placements 2027–29

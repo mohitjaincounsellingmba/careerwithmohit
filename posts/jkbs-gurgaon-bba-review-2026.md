@@ -3,8 +3,7 @@ title: 'JKBS Gurgaon BBA Review 2026: Fees, Placements & Admission Process'
 date: '2026-03-30'
 description: >-
   Is JK Business School good for BBA? Read our JKBS Gurgaon BBA Review 2026. Get
-  details on BBA fees, industry-aligned specializations, placement outcomes, and
-  the MSG selection process.
+  details on BBA fees, industry-aligned specializations, placement outcomes.
 keywords:
   - JKBS Gurgaon BBA Review 2026
   - JK Business School BBA fees

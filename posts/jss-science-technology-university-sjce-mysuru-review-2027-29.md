@@ -1,12 +1,11 @@
 ---
 title: >-
-  JSS Science and Technology University (SJCE), Mysuru Review 2027–29: Placements,
-  Fees, Courses & Admission
+  JSS Science and Technology University (SJCE), Mysuru Review 2027–29:
+  Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of JSS Science and Technology University (SJCE), Mysuru
-  (Mysuru) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Mysuru) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - JSS Science & Tech University (SJCE Mysuru) review 2027–29
   - JSS Science & Tech University (SJCE Mysuru) placements 2027–29

@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Jobs & Careers
 description: >-
   Interested in the investigative side of finance? Explore the Forensic
-  Accounting career path in 2026. Discover required certifications (CFE),
-  technical skills, and salary scope in India.
+  Accounting career path in 2026. Discover required certifications (CFE).
 keywords:
   - forensic accounting career 2026
   - how to become fraud auditor india

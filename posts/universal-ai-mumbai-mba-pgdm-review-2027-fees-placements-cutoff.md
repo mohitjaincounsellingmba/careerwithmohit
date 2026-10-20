@@ -2,30 +2,61 @@
 title: 'UBS Mumbai PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Universal Business School (UBS Mumbai) / Universal AI University (Karjat, Greater Mumbai). Check updated fee structure (₹11.08L - ₹13.08L (Total)), average placement (₹10.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Universal Business School (UBS Mumbai) /
+  Universal AI University (Karjat, Greater Mumbai).
 keywords:
-  - 'universal business school (ubs mumbai) / universal ai university pgdm admission 2027'
-  - 'universal business school (ubs mumbai) / universal ai university mba fees 2027'
-  - 'universal business school (ubs mumbai) / universal ai university average placement package'
-  - 'universal business school (ubs mumbai) / universal ai university cutoff 2026 2027'
-  - 'ubs mumbai review 2027'
-  - 'direct admission in universal business school (ubs mumbai) / universal ai university'
-  - 'top pgdm colleges in karjat'
-  - 'best mba colleges in greater mumbai'
+  - >-
+    universal business school (ubs mumbai) / universal ai university pgdm
+    admission 2027
+  - >-
+    universal business school (ubs mumbai) / universal ai university mba fees
+    2027
+  - >-
+    universal business school (ubs mumbai) / universal ai university average
+    placement package
+  - >-
+    universal business school (ubs mumbai) / universal ai university cutoff 2026
+    2027
+  - ubs mumbai review 2027
+  - >-
+    direct admission in universal business school (ubs mumbai) / universal ai
+    university
+  - top pgdm colleges in karjat
+  - best mba colleges in greater mumbai
 faqs:
-  - question: 'What is the average placement package at Universal Business School (UBS Mumbai) / Universal AI University in 2026-2027?'
-    answer: 'The verified average placement package at Universal Business School (UBS Mumbai) / Universal AI University stands at approximately ₹10.5 LPA, with top performing students securing offers up to ₹42.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Universal Business School (UBS Mumbai) / Universal AI University?'
-    answer: 'Universal Business School (UBS Mumbai) / Universal AI University accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Universal Business School (UBS Mumbai) / Universal AI University?'
-    answer: 'The total course tuition fee is approximately ₹11.08L - ₹13.08L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Universal Business School (UBS Mumbai) / Universal AI University?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Karjat'
-state: 'Greater Mumbai'
+  - question: >-
+      What is the average placement package at Universal Business School (UBS
+      Mumbai) / Universal AI University in 2026-2027?
+    answer: >-
+      The verified average placement package at Universal Business School (UBS
+      Mumbai) / Universal AI University stands at approximately ₹10.5 LPA, with
+      top performing students securing offers up to ₹42.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Universal Business
+      School (UBS Mumbai) / Universal AI University?
+    answer: >-
+      Universal Business School (UBS Mumbai) / Universal AI University accepts
+      scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by
+      institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Universal
+      Business School (UBS Mumbai) / Universal AI University?
+    answer: >-
+      The total course tuition fee is approximately ₹11.08L - ₹13.08L (Total)
+      for the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Universal Business
+      School (UBS Mumbai) / Universal AI University?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Karjat
+state: Greater Mumbai
 ---
 
-# [Universal Business School (UBS Mumbai) / Universal AI University](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Universal Business School (UBS Mumbai) / Universal AI University](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Karjat, Greater Mumbai** accredited with **AICTE Approved · India's 1st AI University** offering career-focused programs in **MBA (Single Specialization), MBA (Dual Specialization)**.

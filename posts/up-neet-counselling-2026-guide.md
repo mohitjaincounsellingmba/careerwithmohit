@@ -3,9 +3,8 @@ title: 'UP NEET Counselling 2026 — Complete Guide, Process & Fees'
 date: '2026-04-21'
 category: Medical/MBBS
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for UP NEET
-  Counselling 2026 — Complete Guide, Process & Fees. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for UP NEET Counselling 2026 — Complete Guide, Process &...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - up neet counselling 2026
   - up dgme medical admission

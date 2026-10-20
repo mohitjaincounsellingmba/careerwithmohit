@@ -3,8 +3,7 @@ title: 'IBMR Gurgaon BBA Review 2026: Fees, Placements & Admission Guide'
 date: '2026-03-30'
 description: >-
   Looking for an honest IBMR Gurgaon BBA Review 2026? Find details on BBA + UGPM
-  fees, placement packages, dual specializations, and the merit-based admission
-  process.
+  fees, placement packages, dual specializations.
 keywords:
   - IBMR Gurgaon BBA Review 2026
   - IBMR Gurgaon BBA fees

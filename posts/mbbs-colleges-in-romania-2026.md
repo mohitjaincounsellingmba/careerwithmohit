@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Guide to studying MBBS (MD) in Romania for Indian students in 2026. Check low
-  EU tuition fees (€6k-€8.5k/yr), top medical universities, NMC compliance, and
-  European medical practice options.
+  EU tuition fees (€6k-€8.5k/yr), top medical universities, NMC compliance.
 keywords:
   - mbbs colleges in romania 2026
   - mbbs in romania fees for indian students

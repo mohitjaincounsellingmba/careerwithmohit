@@ -2,30 +2,53 @@
 title: 'IBMR PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for ASM Institute of Business Management & Research (IBMR) (Chinchwad, Pune). Check updated fee structure (₹3.75L - ₹6.95L (Total)), average placement (₹7.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for ASM Institute of Business Management &
+  Research (IBMR) (Chinchwad, Pune).
 keywords:
-  - 'asm institute of business management & research (ibmr) pgdm admission 2027'
-  - 'asm institute of business management & research (ibmr) mba fees 2027'
-  - 'asm institute of business management & research (ibmr) average placement package'
-  - 'asm institute of business management & research (ibmr) cutoff 2026 2027'
-  - 'ibmr review 2027'
-  - 'direct admission in asm institute of business management & research (ibmr)'
-  - 'top pgdm colleges in chinchwad'
-  - 'best mba colleges in pune'
+  - asm institute of business management & research (ibmr) pgdm admission 2027
+  - asm institute of business management & research (ibmr) mba fees 2027
+  - >-
+    asm institute of business management & research (ibmr) average placement
+    package
+  - asm institute of business management & research (ibmr) cutoff 2026 2027
+  - ibmr review 2027
+  - direct admission in asm institute of business management & research (ibmr)
+  - top pgdm colleges in chinchwad
+  - best mba colleges in pune
 faqs:
-  - question: 'What is the average placement package at ASM Institute of Business Management & Research (IBMR) in 2026-2027?'
-    answer: 'The verified average placement package at ASM Institute of Business Management & Research (IBMR) stands at approximately ₹7.5 LPA, with top performing students securing offers up to ₹24.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at ASM Institute of Business Management & Research (IBMR)?'
-    answer: 'ASM Institute of Business Management & Research (IBMR) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at ASM Institute of Business Management & Research (IBMR)?'
-    answer: 'The total course tuition fee is approximately ₹3.75L - ₹6.95L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at ASM Institute of Business Management & Research (IBMR)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Chinchwad'
-state: 'Pune'
+  - question: >-
+      What is the average placement package at ASM Institute of Business
+      Management & Research (IBMR) in 2026-2027?
+    answer: >-
+      The verified average placement package at ASM Institute of Business
+      Management & Research (IBMR) stands at approximately ₹7.5 LPA, with top
+      performing students securing offers up to ₹24.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at ASM Institute of
+      Business Management & Research (IBMR)?
+    answer: >-
+      ASM Institute of Business Management & Research (IBMR) accepts scores from
+      CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI
+      profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at ASM
+      Institute of Business Management & Research (IBMR)?
+    answer: >-
+      The total course tuition fee is approximately ₹3.75L - ₹6.95L (Total) for
+      the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at ASM Institute of
+      Business Management & Research (IBMR)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Chinchwad
+state: Pune
 ---
 
-# [ASM Institute of Business Management & Research (IBMR)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [ASM Institute of Business Management & Research (IBMR)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Chinchwad, Pune** accredited with **AICTE Approved · SPPU Affiliated · Harvard Partnered** offering career-focused programs in **MBA, PGDM**.

@@ -4,10 +4,8 @@ title: >-
   Step-by-Step Guide
 date: '2026-03-30'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for How to Make
-  Viral ‘Bachcha Hai Tu Mera’ Memes from Dhurandhar 2: AI Step-by-Step Guide.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for How to Make Viral ‘Bachcha Hai Tu Mera’ Memes from D...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Bachcha Hai Tu Mera meme tutorial
   - Dhurandhar 2 Jameel Jamali AI prompts

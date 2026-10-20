@@ -1,12 +1,12 @@
 ---
 title: >-
-  MDI Gurgaon PGDM Placement Report 2027–29: Average CTC ₹25.60 LPA, Highest ₹53.60
-  LPA & 147 Recruiters
+  MDI Gurgaon PGDM Placement Report 2027–29: Average CTC ₹25.60 LPA, Highest
+  ₹53.60 LPA & 147 Recruiters
 date: '2026-08-15'
 description: >-
-  Detailed MDI Gurgaon PGDM Placement Report 2027–29. Explore average CTC of ₹25.60
-  LPA, median salary of ₹24.20 LPA, highest package of ₹53.60 LPA across 555
-  students.
+  Detailed MDI Gurgaon PGDM Placement Report 2027–29. Explore average CTC of
+  ₹25.60 LPA, median salary of ₹24.20 LPA, highest package of ₹53.60 LPA across
+  555...
 keywords:
   - mdi gurgaon pgdm placement report 2027–29
   - mdi gurgaon average package 2025

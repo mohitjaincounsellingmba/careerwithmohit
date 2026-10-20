@@ -3,8 +3,7 @@ title: 'Direct Admission in LBSIM Delhi 2026: Management Quota & Facts'
 date: '2026-03-17'
 description: >-
   Planning for LBSIM Delhi 2026? Learn how to secure direct admission through
-  the management quota and institutional seats. Get facts on the 2026 PGDM fees
-  and placements.
+  the management quota and institutional seats.
 keywords:
   - LBSIM Delhi direct admission
   - LBSIM Delhi management quota

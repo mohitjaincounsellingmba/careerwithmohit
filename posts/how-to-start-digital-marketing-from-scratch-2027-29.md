@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-28'
 description: >-
   Discover the ultimate step-by-step roadmap to start learning digital marketing
-  from scratch in 2026. Build a successful career with the right skills,
-  certifications, and portfolio.
+  from scratch in 2026. Build a successful career with the right skills.
 keywords:
   - how to start digital marketing learning from scratch
   - digital marketing career guide 2026

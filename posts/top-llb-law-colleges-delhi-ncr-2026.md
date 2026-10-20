@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-13'
 description: >-
   Planning to study Law in 2026? Explore the best LLB colleges in Delhi NCR
-  including NLU Delhi, DU, Jindal Global, and Lloyd. Compare CLAT, AILET, and
-  CUET PG paths for both 5-year and 3-year programs.
+  including NLU Delhi, DU, Jindal Global, and Lloyd.
 keywords:
   - Top Law colleges Delhi NCR 2026
   - NLU Delhi admission AILET 2026

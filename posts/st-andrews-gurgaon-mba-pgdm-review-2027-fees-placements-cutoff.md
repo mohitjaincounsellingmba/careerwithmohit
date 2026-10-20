@@ -2,7 +2,9 @@
 title: 'SAITM Gurgaon MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 SAITM Gurgaon MBA review with audited ₹4.50L placements, ₹3.25L fees, cutoffs, and direct admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SAITM Gurgaon MBA review with audited ₹4.50L placements,
+  ₹3.25L fees, cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - saitm gurgaon mba review 2027
   - st andrews gurgaon mba fees 2027
@@ -13,26 +15,47 @@ keywords:
   - low budget mba colleges in gurgaon
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at SAITM Gurgaon for 2026-2027?
+  - question: >-
+      What is the audited average placement package at SAITM Gurgaon for
+      2026-2027?
     answer: >-
-      The verified overall average placement package at St. Andrews Institute of Technology & Management (SAITM Gurgaon) stands at ₹4.50 LPA to ₹5.00 LPA. The median package benchmark is ₹4.20 LPA, with top 20% performers securing ₹7.50 LPA and the highest domestic offer reaching ₹12.00 LPA.
-  - question: What is the total MBA fee structure at SAITM Gurgaon for the 2027-2029 batch?
+      The verified overall average placement package at St. Andrews Institute of
+      Technology & Management (SAITM Gurgaon) stands at ₹4.50 LPA to ₹5.00 LPA.
+      The median package benchmark is ₹4.20 LPA, with top 20% performers
+      securing ₹7.50 LPA and the highest domestic offer reaching ₹12.00 LPA.
+  - question: >-
+      What is the total MBA fee structure at SAITM Gurgaon for the 2027-2029
+      batch?
     answer: >-
-      The total 2-year course tuition fee for the full-time MBA program at SAITM Gurgaon is approximately ₹3.25 Lakhs, payable in semester-wise installments. Optional hostel and dining facilities range between ₹75,000 and ₹95,000 per year.
+      The total 2-year course tuition fee for the full-time MBA program at SAITM
+      Gurgaon is approximately ₹3.25 Lakhs, payable in semester-wise
+      installments. Optional hostel and dining facilities range between ₹75,000
+      and ₹95,000 per year.
   - question: Which university awards the MBA degree for SAITM Gurgaon?
     answer: >-
-      The MBA program at SAITM is approved by AICTE and affiliated with Maharshi Dayanand University (MDU Rohtak), a NAAC 'A+' state government university, ensuring full degree validity for corporate careers, government examinations, and higher academic research.
-  - question: What entrance exams and eligibility cutoffs are required for admission at SAITM?
+      The MBA program at SAITM is approved by AICTE and affiliated with Maharshi
+      Dayanand University (MDU Rohtak), a NAAC 'A+' state government university,
+      ensuring full degree validity for corporate careers, government
+      examinations, and higher academic research.
+  - question: >-
+      What entrance exams and eligibility cutoffs are required for admission at
+      SAITM?
     answer: >-
-      Candidates require a minimum of 50% aggregate marks in graduation (45% for reserved categories). Scores from CAT, MAT, CMAT, XAT, ATMA, or CUET-PG are accepted, alongside merit-based university counselling and personal interviews.
+      Candidates require a minimum of 50% aggregate marks in graduation (45% for
+      reserved categories). Scores from CAT, MAT, CMAT, XAT, ATMA, or CUET-PG
+      are accepted, alongside merit-based university counselling and personal
+      interviews.
   - question: Is direct admission available under management quota at SAITM Gurgaon?
     answer: >-
-      Yes, SAITM offers merit-based direct admission seats for eligible candidates with qualifying graduation marks. Prospective students can connect through counselor guidance for application assistance and scholarship evaluation.
-location: 'Gurugram'
-state: 'Haryana'
+      Yes, SAITM offers merit-based direct admission seats for eligible
+      candidates with qualifying graduation marks. Prospective students can
+      connect through counselor guidance for application assistance and
+      scholarship evaluation.
+location: Gurugram
+state: Haryana
 ---
 
-# [St. Andrews Institute of Technology & Management (SAITM Gurgaon)](https://careerwithmohit.online/blog/st-andrews-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [St. Andrews Institute of Technology & Management (SAITM Gurgaon)](https://careerwithmohit.online/blog/st-andrews-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Prominent, highly affordable engineering and management institution located in Gurugram (Delhi NCR), accredited by **AICTE** and affiliated with **Maharshi Dayanand University (MDU Rohtak, NAAC A+)**. Offers high-value, cost-effective Master of Business Administration (MBA) education.

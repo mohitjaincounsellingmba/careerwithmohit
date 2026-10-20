@@ -3,8 +3,7 @@ title: 'MBA in Brand Management Guide: Syllabus, Top Colleges & Careers 2027–2
 date: '2026-04-04'
 description: >-
   Is an MBA in Brand Management right for you? Explore the complete review of
-  this specialization including syllabus details (CBBE models), top colleges in
-  India like MICA, salary structures, and career roadmaps for 2025.
+  this specialization including syllabus details (CBBE models).
 keywords:
   - MBA in brand management India
   - best colleges for brand management

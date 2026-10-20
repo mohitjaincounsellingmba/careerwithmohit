@@ -3,8 +3,7 @@ title: 'Christ University (Delhi NCR) MBA Admission 2027–2029: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for MBA at Christ University (Delhi NCR, Ghaziabad)? Get the latest
-  on MAT/CAT 2026 cutoffs, the strategic Delhi-NCR location advantage, detailed
-  fee structure, and its placement record.
+  on MAT/CAT 2026 cutoffs, the strategic Delhi-NCR location advantage.
 keywords:
   - Christ University Delhi NCR MBA admission 2027–2029
   - Christ University Delhi-NCR MBA fees

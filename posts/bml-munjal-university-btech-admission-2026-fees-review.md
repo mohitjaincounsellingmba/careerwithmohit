@@ -3,8 +3,7 @@ title: 'BML Munjal University (BMU) Gurugram B.Tech Admission 2026: Fees & Revie
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at [BML Munjal University](/colleges/bml-munjal-gurgaon/)
-  Gurugram? Get the latest on JEE Main/CUET 2026 cutoffs, Imperial College
-  London mentorship, detailed fee structure, and its ₹59 LPA placement record.
+  Gurugram? Get the latest on JEE Main/CUET 2026 cutoffs.
 keywords:
   - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) BTech admission 2026'
   - BMU Gurugram cutoff

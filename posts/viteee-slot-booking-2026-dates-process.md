@@ -4,7 +4,7 @@ date: '2026-04-18'
 description: >-
   VITEEE 2026 slot booking is now live via the OTBS portal! Learn the
   step-by-step process, important dates, and how to download your VITEEE admit
-  card before the deadline.
+  card before...
 keywords:
   - VITEEE slot booking 2026
   - VIT OTBS portal

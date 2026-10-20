@@ -2,30 +2,51 @@
 title: 'Roorkee Institute of Technology PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Roorkee Institute of Technology (RIT Roorkee) (Puhana, Roorkee (Dehradun Region), Uttarakhand). Check updated fee structure (₹3.90 Lakhs (Total)), average placement (₹8.00 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Roorkee Institute of Technology (RIT
+  Roorkee) (Puhana, Roorkee (Dehradun Region), Uttarakhand).
 keywords:
-  - 'roorkee institute of technology (rit roorkee) pgdm admission 2027'
-  - 'roorkee institute of technology (rit roorkee) mba fees 2027'
-  - 'roorkee institute of technology (rit roorkee) average placement package'
-  - 'roorkee institute of technology (rit roorkee) cutoff 2026 2027'
-  - 'roorkee institute of technology review 2027'
-  - 'direct admission in roorkee institute of technology (rit roorkee)'
-  - 'top pgdm colleges in puhana'
+  - roorkee institute of technology (rit roorkee) pgdm admission 2027
+  - roorkee institute of technology (rit roorkee) mba fees 2027
+  - roorkee institute of technology (rit roorkee) average placement package
+  - roorkee institute of technology (rit roorkee) cutoff 2026 2027
+  - roorkee institute of technology review 2027
+  - direct admission in roorkee institute of technology (rit roorkee)
+  - top pgdm colleges in puhana
   - 'best mba colleges in roorkee (dehradun region), uttarakhand'
 faqs:
-  - question: 'What is the average placement package at Roorkee Institute of Technology (RIT Roorkee) in 2026-2027?'
-    answer: 'The verified average placement package at Roorkee Institute of Technology (RIT Roorkee) stands at approximately ₹8.00 LPA, with top performing students securing offers up to ₹22.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Roorkee Institute of Technology (RIT Roorkee)?'
-    answer: 'Roorkee Institute of Technology (RIT Roorkee) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Roorkee Institute of Technology (RIT Roorkee)?'
-    answer: 'The total course tuition fee is approximately ₹3.90 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Roorkee Institute of Technology (RIT Roorkee)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Puhana'
+  - question: >-
+      What is the average placement package at Roorkee Institute of Technology
+      (RIT Roorkee) in 2026-2027?
+    answer: >-
+      The verified average placement package at Roorkee Institute of Technology
+      (RIT Roorkee) stands at approximately ₹8.00 LPA, with top performing
+      students securing offers up to ₹22.00 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Roorkee Institute
+      of Technology (RIT Roorkee)?
+    answer: >-
+      Roorkee Institute of Technology (RIT Roorkee) accepts scores from CAT,
+      XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI
+      profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Roorkee
+      Institute of Technology (RIT Roorkee)?
+    answer: >-
+      The total course tuition fee is approximately ₹3.90 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Roorkee Institute of
+      Technology (RIT Roorkee)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Puhana
 state: 'Roorkee (Dehradun Region), Uttarakhand'
 ---
 
-# [Roorkee Institute of Technology (RIT Roorkee)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Roorkee Institute of Technology (RIT Roorkee)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Puhana, Roorkee (Dehradun Region), Uttarakhand** accredited with **AICTE Approved · UTU Affiliated · NAAC Accredited** offering career-focused programs in **MBA, MBA International Business**.

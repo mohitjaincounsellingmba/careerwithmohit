@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Compare the best MBA HR colleges in Gurgaon. Explore fees, placements, and
-  eligibility details for MDI Gurgaon, Great Lakes, SOIL, and JKBS for 2026-2027
-  admissions & career guidance.
+  eligibility details for MDI Gurgaon, Great Lakes, SOIL.
 keywords:
   - top mba hr colleges in gurgaon 2027–29
   - best hr mba in gurgaon

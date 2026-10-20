@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Complete guide on pursuing MD (MBBS equivalent) in the USA for Indian students
-  2026. Pre-med BS-MD pathway, MCAT exam, USMLE Step 1 & 2, fees, and top US
-  medical schools.
+  2026. Pre-med BS-MD pathway, MCAT exam, USMLE Step 1 & 2, fees.
 keywords:
   - mbbs in usa for indian students 2026
   - md in usa after 12th pre med pathway

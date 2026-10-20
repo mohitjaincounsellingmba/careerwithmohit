@@ -2,9 +2,8 @@
 title: 'Zara (Inditex) Case Study: JIT Production & Agile Fast-Fashion Supply Chain'
 date: '2026-05-28'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Zara (Inditex)
-  Case Study: JIT Production & Agile Fast-Fashion Supply Chain. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Zara (Inditex) Case Study: JIT Production & Agile Fa...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Zara supply chain case study
   - Zara JIT production fast fashion

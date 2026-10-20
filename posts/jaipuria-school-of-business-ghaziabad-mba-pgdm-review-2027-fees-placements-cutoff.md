@@ -1,8 +1,10 @@
 ---
-title: "Jaipuria Business School Ghaziabad PGDM Review 2027: ROI"
-date: "2026-09-27"
+title: 'Jaipuria Business School Ghaziabad PGDM Review 2027: ROI'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 JSB Ghaziabad PGDM review with audited ₹7.80L placements, ₹9.20L fees, cutoffs, and admissions strategy advice from Mohit Jain."
+description: >-
+  Read verified 2027 JSB Ghaziabad PGDM review with audited ₹7.80L placements,
+  ₹9.20L fees, cutoffs, and admissions strategy advice from Mohit Jain.
 keywords:
   - jaipuria school of business ghaziabad review 2027
   - jsb ghaziabad indirapuram fees structure
@@ -13,26 +15,44 @@ keywords:
   - direct admission in jaipuria ghaziabad
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Jaipuria School of Business (JSB Ghaziabad)?
+  - question: >-
+      What is the audited average placement package at Jaipuria School of
+      Business (JSB Ghaziabad)?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at Jaipuria School of Business (JSB Indirapuram) stands at ₹7.50 LPA to ₹7.80 LPA. The median CTC is benchmarked at ₹7.20 LPA, with the top 20% securing ₹10.20 LPA and peak domestic offers reaching ₹16.50 LPA.
+      The verified overall average placement package across graduating PGDM
+      cohorts at Jaipuria School of Business (JSB Indirapuram) stands at ₹7.50
+      LPA to ₹7.80 LPA. The median CTC is benchmarked at ₹7.20 LPA, with the top
+      20% securing ₹10.20 LPA and peak domestic offers reaching ₹16.50 LPA.
   - question: How is JSB Ghaziabad differentiated from other Jaipuria institutions?
     answer: >-
-      Jaipuria School of Business (JSB) located in Indirapuram, Ghaziabad, operates under the prestigious Seth Anandram Jaipuria Education Society with an independent AICTE-approved PGDM program emphasizing business analytics, digital marketing, and industry-oriented immersion.
+      Jaipuria School of Business (JSB) located in Indirapuram, Ghaziabad,
+      operates under the prestigious Seth Anandram Jaipuria Education Society
+      with an independent AICTE-approved PGDM program emphasizing business
+      analytics, digital marketing, and industry-oriented immersion.
   - question: What is the complete fee structure for the 2-year PGDM at JSB Ghaziabad?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM at Jaipuria School of Business (Indirapuram) is ₹9.20 Lakhs, payable in term installments. Partnered student housing facilities in Indirapuram cost between ₹1,10,000 and ₹1,35,000 per academic year.
-  - question: What entrance exams and cutoffs are accepted for admission to JSB Ghaziabad?
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM at
+      Jaipuria School of Business (Indirapuram) is ₹9.20 Lakhs, payable in term
+      installments. Partnered student housing facilities in Indirapuram cost
+      between ₹1,10,000 and ₹1,35,000 per academic year.
+  - question: >-
+      What entrance exams and cutoffs are accepted for admission to JSB
+      Ghaziabad?
     answer: >-
-      JSB Ghaziabad accepts scores from CAT, MAT, CMAT, XAT, and ATMA. Competitive eligibility thresholds range between 55.0% and 65.0% percentile, accompanied by an evaluation of graduation marks and Personal Interview performance.
+      JSB Ghaziabad accepts scores from CAT, MAT, CMAT, XAT, and ATMA.
+      Competitive eligibility thresholds range between 55.0% and 65.0%
+      percentile, accompanied by an evaluation of graduation marks and Personal
+      Interview performance.
   - question: Does JSB Ghaziabad provide merit scholarships for PGDM students?
     answer: >-
-      Yes, JSB awards merit-based scholarships up to ₹1,00,000 based on national entrance test percentiles, undergraduate academic distinction, sports achievements, and diversity representation.
+      Yes, JSB awards merit-based scholarships up to ₹1,00,000 based on national
+      entrance test percentiles, undergraduate academic distinction, sports
+      achievements, and diversity representation.
 location: 'Indirapuram, Ghaziabad'
-state: 'Uttar Pradesh'
+state: Uttar Pradesh
 ---
 
-# [Jaipuria School of Business (JSB Ghaziabad)](https://careerwithmohit.online/blog/jaipuria-school-of-business-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Jaipuria School of Business (JSB Ghaziabad)](https://careerwithmohit.online/blog/jaipuria-school-of-business-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 2008 under the aegis of the 75-year-old **Seth Anandram Jaipuria Education Society**, JSB Ghaziabad operates from an expansive campus in Indirapuram. Approved by **AICTE**, the institution holds strong industry alignment across Delhi-NCR.

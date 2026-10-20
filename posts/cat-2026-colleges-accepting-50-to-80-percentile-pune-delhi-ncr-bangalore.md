@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-03'
 description: >-
   Scored 50, 60, 70, or 80 percentile in CAT 2026? Explore the best
-  AICTE-approved PGDM and MBA colleges in Pune, Delhi NCR, Bangalore, and Jaipur
-  with high ROI and placements.
+  AICTE-approved PGDM and MBA colleges in Pune, Delhi NCR, Bangalore.
 keywords:
   - cat 2026
   - mba admission 2027
@@ -49,7 +48,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore
+## CAT 2026: Best MBA/PGDM Colleges for 50 to 80 Percentile in Pune, Delhi NCR & Bangalore
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **70–80 Percentile Bracket:** FORE School (select streams), BIMTECH Greater Noida, LBSIM, [XIME Bangalore](/colleges/xime-bangalore/), and JagSoM.

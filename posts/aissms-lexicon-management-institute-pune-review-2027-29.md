@@ -6,7 +6,7 @@ date: '2026-08-03'
 description: >-
   Comprehensive review of AISSMS University / Lexicon Management Institute
   (Pune) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  statistics.
 keywords:
   - AISSMS & Lexicon MILE Pune review 2027–29
   - AISSMS & Lexicon MILE Pune placements 2027–29

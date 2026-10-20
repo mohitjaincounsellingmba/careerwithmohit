@@ -5,7 +5,7 @@ category: BBA
 description: >-
   Looking for the safest BBA colleges for girls in Delhi NCR? Explore top
   women-only and co-ed colleges with secure hostels and strong placement records
-  for 2026-2027 admissions & career guidance.
+  for...
 keywords:
   - best bba colleges for girls in Delhi NCR
   - girls safety BBA colleges

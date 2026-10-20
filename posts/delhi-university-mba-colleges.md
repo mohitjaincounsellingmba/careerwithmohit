@@ -22,7 +22,7 @@ tags:
 description: >-
   Delhi University (DU) isn't just famous for its undergraduate programs; it is
   also home to some of the highest ROI (Return on Investment) MBA programs in
-  t.. for 2026-2027 admissions & career guidance.
+  t..
 keywords:
   - career counselling
   - admissions 2026

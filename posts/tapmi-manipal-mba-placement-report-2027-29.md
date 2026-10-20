@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Detailed TAPMI Manipal MBA Placement Report 2027–29. Explore average package
-  across MBA Core, BKFS, Marketing, HR, IB programs, highest salary of ₹32.77
-  LPA & recruiters.
+  across MBA Core, BKFS, Marketing, HR, IB programs.
 keywords:
   - tapmi manipal mba placement report 2027–29
   - tapmi average package 2025

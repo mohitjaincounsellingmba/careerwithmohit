@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Management Development Institute (MDI), Gurugram
-  (Gurugram) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Gurugram) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - MDI Gurgaon review 2027–29
   - MDI Gurgaon placements 2027–29

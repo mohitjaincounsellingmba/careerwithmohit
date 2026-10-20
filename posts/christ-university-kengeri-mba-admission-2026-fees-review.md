@@ -4,10 +4,8 @@ title: >-
   Review
 date: '2026-03-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Christ
-  University (Kengeri Campus) Bangalore MBA Admission 2027–2029: Fees & Review.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for Christ University (Kengeri Campus) Bangalore MBA Adm...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Christ University Kengeri MBA admission 2027–2029
   - Christ University Kengeri MBA fees

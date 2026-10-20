@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of MGM University of Health Sciences / MGM Institute,
-  Navi Mumbai (Navi Mumbai) for 2026. Check latest fee structure, flagship
-  courses, placement statistics, top recruiters, and admission process.
+  Navi Mumbai (Navi Mumbai) for 2026.
 keywords:
   - MGM University Navi Mumbai review 2027–29
   - MGM University Navi Mumbai placements 2027–29

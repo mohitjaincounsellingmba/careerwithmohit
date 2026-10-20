@@ -5,10 +5,8 @@ title: >-
 date: '2026-08-03'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for IRMA Anand
-  (Institute of Rural Management Anand) Review 2027–29: Fees, Placements, Cutoffs &
-  ROI Analysis. Check updated fees, placement records, real cutoffs, and
-  selection tips by Mohit Jain.
+  2027 guide for IRMA Anand (Institute of Rural Management Anand) Rev...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - IRMA Anand (Institute of Rural Management Anand) review 2027–29
   - IRMA Anand (Institute of Rural Management Anand) mba fees
@@ -42,7 +40,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management/) Anand) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## IRMA Anand ([Institute of Rural Management](/colleges/institute-of-rural-management/) Anand) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

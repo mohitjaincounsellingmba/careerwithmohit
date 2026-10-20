@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Sweden for Indian students 2026. All
-  fees in INR, UKÄ accredited institutions, English-taught master's programs,
-  and Sweden post-study work visa details.
+  fees in INR, UKÄ accredited institutions, English-taught master's programs.
 keywords:
   - universities in Sweden for Indian students 2026
   - study in Sweden fees in INR

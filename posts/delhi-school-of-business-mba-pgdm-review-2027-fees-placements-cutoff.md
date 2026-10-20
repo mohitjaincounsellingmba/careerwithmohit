@@ -2,7 +2,9 @@
 title: 'Delhi School of Business PGDM Review 2027: Fees & ROI'
 date: '2026-10-17'
 category: MBA
-description: 'Honest DSB Delhi PGDM review 2027: VIPS trust backing, ₹9.75L fees, ₹8.2 LPA median placements, CAT/MAT cutoffs, and Pitampura reality by Mohit Jain.'
+description: >-
+  Honest DSB Delhi PGDM review 2027: VIPS trust backing, ₹9.75L fees, ₹8.2 LPA
+  median placements, CAT/MAT cutoffs, and Pitampura reality by Mohit Jain.
 keywords:
   - delhi school of business dsb review 2027
   - dsb pitampura pgdm fees 2027
@@ -11,21 +13,47 @@ keywords:
   - vips delhi business school pgdm
   - direct admission in delhi school of business
 faqs:
-  - question: 'What is the real average placement package at Delhi School of Business (DSB Pitampura)?'
-    answer: 'The audited average package at Delhi School of Business stands at ₹8.50 LPA to ₹9.00 LPA, with a median of ₹8.20 LPA. Top 20% performers secure domestic packages around ₹12.50 LPA, with the highest domestic offer reaching ₹22.30 LPA in financial consulting and tech management.'
-  - question: 'What is the total fee structure for the PGDM program at Delhi School of Business?'
-    answer: 'The total 2-year academic tuition fee for the AICTE-approved PGDM program at DSB is approximately ₹9.75 Lakhs, payable in term installments across six trimesters. Day commuters save on living costs due to metro connectivity, while nearby student PGs in Pitampura/Rohini cost ₹1.10L to ₹1.35L per year.'
-  - question: 'Which accreditations does Delhi School of Business hold?'
-    answer: 'DSB is approved by AICTE, accredited by the National Board of Accreditation (NBA), and granted MBA equivalence by the Association of Indian Universities (AIU). It operates under the prestigious Vivekananda Institute of Professional Studies (VIPS-TC) academic umbrella.'
-  - question: 'Which entrance exams and cutoffs are accepted for PGDM admission at DSB Delhi?'
-    answer: 'DSB accepts scores from CAT (70-75 %ile), XAT, MAT (600+ score), CMAT (75-80 %ile), and GMAT, followed by a written analysis test, extempore, and personal interview.'
-  - question: 'What is the commuting advantage of DSB Pitampura for Delhi students?'
-    answer: 'DSB is located right on the Outer Ring Road in AU Block, Pitampura, directly accessible via the Haiderpur Badli Mor and Pitampura Metro stations on the Yellow and Red Lines, making daily commuting easy for students across Delhi, Noida, and Gurugram.'
-location: AU Block, Pitampura
+  - question: >-
+      What is the real average placement package at Delhi School of Business
+      (DSB Pitampura)?
+    answer: >-
+      The audited average package at Delhi School of Business stands at ₹8.50
+      LPA to ₹9.00 LPA, with a median of ₹8.20 LPA. Top 20% performers secure
+      domestic packages around ₹12.50 LPA, with the highest domestic offer
+      reaching ₹22.30 LPA in financial consulting and tech management.
+  - question: >-
+      What is the total fee structure for the PGDM program at Delhi School of
+      Business?
+    answer: >-
+      The total 2-year academic tuition fee for the AICTE-approved PGDM program
+      at DSB is approximately ₹9.75 Lakhs, payable in term installments across
+      six trimesters. Day commuters save on living costs due to metro
+      connectivity, while nearby student PGs in Pitampura/Rohini cost ₹1.10L to
+      ₹1.35L per year.
+  - question: Which accreditations does Delhi School of Business hold?
+    answer: >-
+      DSB is approved by AICTE, accredited by the National Board of
+      Accreditation (NBA), and granted MBA equivalence by the Association of
+      Indian Universities (AIU). It operates under the prestigious Vivekananda
+      Institute of Professional Studies (VIPS-TC) academic umbrella.
+  - question: >-
+      Which entrance exams and cutoffs are accepted for PGDM admission at DSB
+      Delhi?
+    answer: >-
+      DSB accepts scores from CAT (70-75 %ile), XAT, MAT (600+ score), CMAT
+      (75-80 %ile), and GMAT, followed by a written analysis test, extempore,
+      and personal interview.
+  - question: What is the commuting advantage of DSB Pitampura for Delhi students?
+    answer: >-
+      DSB is located right on the Outer Ring Road in AU Block, Pitampura,
+      directly accessible via the Haiderpur Badli Mor and Pitampura Metro
+      stations on the Yellow and Red Lines, making daily commuting easy for
+      students across Delhi, Noida, and Gurugram.
+location: 'AU Block, Pitampura'
 state: New Delhi
 ---
 
-# Delhi School of Business PGDM Review 2027: Fees, Cutoff, Placements & VIPS ROI
+## Delhi School of Business PGDM Review 2027: Fees, Cutoff, Placements & VIPS ROI
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Institutional Heritage & Location**: Established under the respected **Vivekananda Institute of Professional Studies (VIPS)** trust, DSB is situated on Outer Ring Road in AU Block, Pitampura (North-West Delhi), holding **NBA accreditation** and **AIU MBA Equivalence**.
@@ -160,3 +188,11 @@ Outstation students reside in verified private student hostels and rental apartm
 
 ### 5. What are the key specialization tracks offered at DSB?
 DSB offers dual specializations in Marketing Management, Financial Management, Business Analytics, Human Resource Management, and Operations & Supply Chain Management.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in UK for Indian students 2026. Find fees
-  in INR, programs, admission requirements, and UK Post-Study Work Visa (PSW)
-  details for all major British universities.
+  in INR, programs, admission requirements, and UK Post-Study Work Visa (PSW)...
 keywords:
   - universities in UK for Indian students 2026
   - study in UK fees in INR

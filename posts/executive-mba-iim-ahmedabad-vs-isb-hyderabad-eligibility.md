@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-12'
 description: >-
   Comparing India top 1-year executive MBA programs: IIM Ahmedabad PGPX vs ISB
-  Hyderabad PGP. Eligibility criteria, GMAT/GRE cutoffs, fees, and career ROI
-  for 2026-2027 admissions & career guidance.
+  Hyderabad PGP. Eligibility criteria, GMAT/GRE cutoffs, fees.
 category: Jobs & Careers
 keywords:
   - executive mba iim ahmedabad vs isb hyderabad eligibility

@@ -6,11 +6,7 @@ date: '2026-09-10'
 category: MBA
 description: >-
   In-depth BITS School of Management (BITSoM) (Kalyan / Powai Campus) review for
-  2027 admissions. Explore verified fee structure (₹27.00 – ₹28.50 Lakhs
-  (Complete 2-Year Residential MBA including hostel & meals)), latest placements
-  (avg ₹23.50 – ₹24.00 LPA, highest ₹50.00 LPA), cutoffs (CAT: 90–94+ %ile;
-  GMAT: 680+ (Focus 635+); GRE: 318+ (Holistic evaluation)), and student
-  verdict.
+  2027 admissions. Explore verified fee structure (₹27.00 – ₹28.50 Lakhs...
 keywords:
   - bits school of management (bitsom) review 2027
   - bits school of management (bitsom) fees
@@ -57,7 +53,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# BITS School of Management (BITSoM) (Kalyan / Powai Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## BITS School of Management (BITSoM) (Kalyan / Powai Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, GMAT, GRE scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 150–160 Seats (Curated Boutique Cohort)**.

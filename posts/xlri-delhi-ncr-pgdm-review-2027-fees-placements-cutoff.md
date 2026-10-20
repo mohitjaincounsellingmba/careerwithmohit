@@ -4,8 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for XLRI Delhi NCR (Jhajjar / Delhi NCR, Haryana).
-  Check audited fees (₹25.00 Lakhs (Total)), average placement (₹30.00 LPA),
-  entrance cutoffs (93.0+ XAT %ile), and admission tips by Mohit Jain.
+  Check audited fees (₹25.00 Lakhs (Total)), average placement (₹30.00 LPA).
 keywords:
   - xlri delhi ncr mba admission 2027
   - xlri delhi ncr fees structure 2027
@@ -47,7 +46,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [XLRI Delhi NCR](/blog/xlri-delhi-ncr-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [XLRI Delhi NCR](/blog/xlri-delhi-ncr-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Jhajjar / Delhi NCR, Haryana** recognized for academic rigor (AACSB & AMBA Accredited · AICTE Approved) and industry-aligned specializations in **PGDM-BM (Business Management)**.

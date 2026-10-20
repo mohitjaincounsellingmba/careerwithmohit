@@ -4,8 +4,7 @@ date: '2026-05-21'
 category: BBA
 description: >-
   Discover the highest salary packages and recruiting companies for BBA
-  graduates in Delhi NCR. Learn about top consulting, finance, and marketing
-  profiles for 2026-2027 admissions & career guidance.
+  graduates in Delhi NCR. Learn about top consulting, finance.
 keywords:
   - highest salary after bba
   - bba placement packages delhi ncr 2026

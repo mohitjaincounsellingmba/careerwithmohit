@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: B.Tech
 description: >-
   Aiming for an NIT for MCA in 2026? Get the complete breakdown of NIMCET 2026.
-  Explore the latest syllabus, expected exam dates, and a expert preparation
-  guide.
+  Explore the latest syllabus, expected exam dates.
 keywords:
   - nimcet 2026 preparation strategy
   - nimcet 2026 exam date

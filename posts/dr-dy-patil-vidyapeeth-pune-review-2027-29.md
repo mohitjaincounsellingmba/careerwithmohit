@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Dr. D.Y. Patil Vidyapeeth (DPU / DYPIMS) (Pune) for
-  2026. Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Dr. D.Y. Patil Vidyapeeth Pune review 2027–29
   - Dr. D.Y. Patil Vidyapeeth Pune placements 2027–29

@@ -1,10 +1,11 @@
 ---
-title: 'Quantum University, Roorkee Review 2027–29: Placements, Fees, Courses & Admission'
+title: >-
+  Quantum University, Roorkee Review 2027–29: Placements, Fees, Courses &
+  Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Quantum University, Roorkee (Roorkee) for 2026. Check
-  latest fee structure, flagship courses, placement statistics, top recruiters,
-  and admission process.
+  latest fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - Quantum University Roorkee review 2027–29
   - Quantum University Roorkee placements 2027–29

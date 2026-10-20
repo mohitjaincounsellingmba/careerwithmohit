@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Chinmaya Vishwa Vidyapeeth, Kochi (Kochi (Veliyanad /
-  Onakkoor)) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  Onakkoor)) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Chinmaya Vishwa Vidyapeeth Kochi review 2027–29
   - Chinmaya Vishwa Vidyapeeth Kochi placements 2027–29

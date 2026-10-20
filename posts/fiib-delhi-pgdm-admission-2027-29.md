@@ -2,7 +2,9 @@
 title: 'FIIB Delhi PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-18'
 category: MBA Admissions
-description: 'Read verified 2027 FIIB Delhi PGDM review with audited ₹8.40L placements, ₹10.10L fees, cutoffs, and direct admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 FIIB Delhi PGDM review with audited ₹8.40L placements,
+  ₹10.10L fees, cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - fiib delhi pgdm review 2027
   - fiib delhi fees structure 2027
@@ -13,26 +15,46 @@ keywords:
   - best pgdm colleges in south delhi
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at FIIB Delhi (Fortune Institute)?
+  - question: >-
+      What is the audited average placement package at FIIB Delhi (Fortune
+      Institute)?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at FIIB Delhi stands at ₹8.40 LPA to ₹8.80 LPA. The median CTC is benchmarked at ₹8.10 LPA, with top 20% performers securing ₹11.50 LPA and peak domestic offers reaching ₹25.00 LPA.
-  - question: What entrance exams and cutoffs are accepted for PGDM admission at FIIB Delhi?
+      The verified overall average placement package across graduating PGDM
+      cohorts at FIIB Delhi stands at ₹8.40 LPA to ₹8.80 LPA. The median CTC is
+      benchmarked at ₹8.10 LPA, with top 20% performers securing ₹11.50 LPA and
+      peak domestic offers reaching ₹25.00 LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for PGDM admission at FIIB
+      Delhi?
     answer: >-
-      FIIB Delhi accepts scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT. Indicative cutoff thresholds range between 65.0 and 70.0 percentile, followed by institutional Written Analysis Test (WAT) and Personal Interview (PI) profile evaluations.
+      FIIB Delhi accepts scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT.
+      Indicative cutoff thresholds range between 65.0 and 70.0 percentile,
+      followed by institutional Written Analysis Test (WAT) and Personal
+      Interview (PI) profile evaluations.
   - question: What is the complete fee structure for the PGDM program at FIIB Delhi?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at FIIB Delhi is approximately ₹10.10 Lakhs, payable in term installments across six trimesters. Partnered student housing facilities in Vasant Vihar and South Delhi range between ₹1,35,000 and ₹1,65,000 per year.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at FIIB Delhi is approximately ₹10.10 Lakhs, payable in term
+      installments across six trimesters. Partnered student housing facilities
+      in Vasant Vihar and South Delhi range between ₹1,35,000 and ₹1,65,000 per
+      year.
   - question: Which accreditations and recognitions does FIIB Delhi hold?
     answer: >-
-      FIIB Delhi is approved by AICTE, accredited by the National Board of Accreditation (NBA), granted MBA equivalence by the Association of Indian Universities (AIU), and is a prominent member of AACSB and EFMD global business education networks.
+      FIIB Delhi is approved by AICTE, accredited by the National Board of
+      Accreditation (NBA), granted MBA equivalence by the Association of Indian
+      Universities (AIU), and is a prominent member of AACSB and EFMD global
+      business education networks.
   - question: Is direct admission available under management quota at FIIB Delhi?
     answer: >-
-      Yes, eligible candidates possessing a recognized graduation degree with a minimum of 50% aggregate marks (45% for reserved categories) and valid national entrance scores can apply for merit profile-based direct evaluation seats with counselor assistance.
-location: 'Vasant Vihar'
-state: 'New Delhi'
+      Yes, eligible candidates possessing a recognized graduation degree with a
+      minimum of 50% aggregate marks (45% for reserved categories) and valid
+      national entrance scores can apply for merit profile-based direct
+      evaluation seats with counselor assistance.
+location: Vasant Vihar
+state: New Delhi
 ---
 
-# [Fortune Institute of International Business (FIIB Delhi)](https://careerwithmohit.online/blog/fiib-delhi-pgdm-admission-2027-29/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Fortune Institute of International Business (FIIB Delhi)](https://careerwithmohit.online/blog/fiib-delhi-pgdm-admission-2027-29/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier standalone business school established in 1995 in the diplomatic hub of Vasant Vihar, South Delhi. Accredited by **NBA**, granted **AIU MBA Equivalence**, and holding membership in **AACSB & EFMD**. Celebrated for high-impact international business, analytics, and corporate grooming pedagogy.

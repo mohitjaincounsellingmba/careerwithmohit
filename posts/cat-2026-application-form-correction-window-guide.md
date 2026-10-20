@@ -2,7 +2,10 @@
 title: 'CAT 2026 Form Correction: Photo, City & Error Guide'
 date: '2026-10-06'
 category: CAT
-description: 'Step-by-step instructions for the CAT 2026 application correction window. Learn how to re-upload photos, change test city preferences, and rectify errors.'
+description: >-
+  Step-by-step instructions for the CAT 2026 application correction window.
+  Learn how to re-upload photos, change test city preferences, and rectify
+  errors.
 keywords:
   - cat 2026 form correction window
   - cat application form edit
@@ -10,15 +13,22 @@ keywords:
   - change exam city cat 2026
   - cat application mistakes
 faqs:
-  - question: 'What fields can be changed in the CAT 2026 correction window?'
-    answer: 'Candidates are strictly permitted to edit only three fields: passport photograph, candidate signature, and the 6 exam test city preferences.'
-  - question: 'Can I change my category from General to NC-OBC during correction?'
-    answer: 'No, category, personal name, date of birth, mobile number, and email address cannot be edited once registration closes. A new registration would be required.'
-  - question: 'Is there any additional fee for editing the CAT application form?'
-    answer: 'No, the CAT convening committee does not charge any additional fee for making edits during the designated 3-day correction window.'
+  - question: What fields can be changed in the CAT 2026 correction window?
+    answer: >-
+      Candidates are strictly permitted to edit only three fields: passport
+      photograph, candidate signature, and the 6 exam test city preferences.
+  - question: Can I change my category from General to NC-OBC during correction?
+    answer: >-
+      No, category, personal name, date of birth, mobile number, and email
+      address cannot be edited once registration closes. A new registration
+      would be required.
+  - question: Is there any additional fee for editing the CAT application form?
+    answer: >-
+      No, the CAT convening committee does not charge any additional fee for
+      making edits during the designated 3-day correction window.
 ---
 
-# CAT 2026 Form Correction: Photo, City & Error Guide
+## CAT 2026 Form Correction: Photo, City & Error Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Editable Fields**: Only Photograph, Signature, and 6 Preferred Test City choices can be edited.

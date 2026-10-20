@@ -4,10 +4,8 @@ title: >-
   Cutoffs–29: The Best ROI in Jaipur?
 date: '2026-03-25'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Poornima
-  University(/colleges/poornima-jaipur) GCEC MBA Review 2027–29: The Best ROI in
-  Jaipur?. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for Poornima University GCEC MBA Review (2026-2027): Check fees,
+  verified placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - '[Poornima University](/colleges/poornima-jaipur/) GCEC MBA review 2027–29'
   - GCEC Jaipur MBA placement package

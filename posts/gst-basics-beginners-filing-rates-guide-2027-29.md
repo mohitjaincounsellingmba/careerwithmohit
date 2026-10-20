@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: Jobs & Careers
 description: >-
   New to the world of GST? Discover the basics of Goods and Services Tax in
-  2026. Learn about CGST, SGST, IGST, HSN codes, and the step-by-step GST return
-  process.
+  2026. Learn about CGST, SGST, IGST, HSN codes, and the step-by-step GST
+  return...
 keywords:
   - gst basics for beginners 2026
   - what is cgst sgst igst

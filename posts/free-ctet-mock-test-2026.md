@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free CTET 2026 (Paper 1) Mock Test 2026. Realistic
   computer-based exam simulator, 150 questions, 150 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - CTET 2026 (Paper 1) mock test free
   - ctet practice paper 2026

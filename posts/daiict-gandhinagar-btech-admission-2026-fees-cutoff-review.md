@@ -6,8 +6,7 @@ date: '2026-03-24'
 description: >-
   Planning for B.Tech at Dhirubhai Ambani Institute of Information and
   Communication Technology (DA-IICT)? Get the latest on JEE Main & GUJCET
-  cutoffs, semester-wise fees, and its incredible ₹82 LPA placement record for
-  2026-2027 admissions & career guidance.
+  cutoffs.
 keywords:
   - DA-IICT Gandhinagar BTech admission 2026
   - Dhirubhai Ambani BTech college fees

@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Comprehensive 2026 review of SIBM Noida covering MBA/PGDM fee structures,
   highest and average placements (₹11.20 LPA), entrance exam cutoffs, ROI
-  analysis, and direct admission details.
+  analysis.
 keywords:
   - SIBM Noida review 2027–29
   - SIBM Noida mba fees
@@ -41,7 +41,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# SIBM Noida Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## SIBM Noida Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

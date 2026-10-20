@@ -6,7 +6,7 @@ date: '2026-08-03'
 description: >-
   Comprehensive review of Dayananda Sagar University (DSU), Bangalore
   (Bangalore) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  statistics.
 keywords:
   - Dayananda Sagar University (DSU) review 2027–29
   - Dayananda Sagar University (DSU) placements 2027–29

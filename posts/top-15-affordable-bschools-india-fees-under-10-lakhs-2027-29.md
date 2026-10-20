@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Discover the top 15 affordable MBA and PGDM colleges in India with tuition
   fees under ₹10 Lakhs and average placement packages above ₹8 LPA for the
-  2027-29 batch.
+  2027-29...
 keywords:
   - Affordable MBA Colleges in India 2027-29
   - Top B Schools Fees Under 10 Lakhs
@@ -43,7 +43,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Top 15 Affordable B-Schools in India (Fees Under ₹10 Lakhs) with 8+ LPA Average Placements (2027-29)
+## Top 15 Affordable B-Schools in India (Fees Under ₹10 Lakhs) with 8+ LPA Average Placements (2027-29)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

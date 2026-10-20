@@ -4,8 +4,7 @@ date: '2026-06-05'
 category: Online Degrees
 description: >-
   Looking for affordable MBA options in Rajkot? Check our list of the best MBA
-  colleges under 5 lakhs in Rajkot for 2026, comparing fees, entrance exams, and
-  placement packages.
+  colleges under 5 lakhs in Rajkot for 2026, comparing fees, entrance exams.
 keywords:
   - MBA Colleges under 5 Lakhs in Rajkot
   - affordable MBA in Rajkot

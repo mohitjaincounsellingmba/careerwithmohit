@@ -4,8 +4,7 @@ date: '2026-06-04'
 category: Exams
 description: >-
   Planning to crack NMAT 2026? Learn how to achieve a 240+ scaled score, tackle
-  the computer-adaptive pattern, and secure admission into [NMIMS
-  Mumbai](/colleges/nmims-mumbai/).
+  the computer-adaptive pattern, and secure admission into [NMIMS...
 keywords:
   - how to crack nmat exam
   - crack nmat 2026

@@ -6,8 +6,7 @@ date: '2026-08-26'
 category: Jobs & Careers
 description: >-
   Learn how to build an unbeatable profile for IIM shortlist calls and WAT-PI
-  interviews (2027 admissions). Discover top certification recommendations, work
-  ex framing strategies, and a 5-paragraph SOP writing template.
+  interviews (2027 admissions). Discover top certification recommendations.
 keywords:
   - build profile for IIM interview 2027
   - top certifications for MBA resume

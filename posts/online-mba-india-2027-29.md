@@ -2,9 +2,8 @@
 title: 'Online MBA in India 2027–29: Top Programs, Fees, ROI & Is It Worth It?'
 date: '2026-03-13'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Online MBA in
-  India 2026: Top Programs, Fees, ROI & Is It Worth It?. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Online MBA in India 2027–29: Top Programs, Fees, ROI...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Online MBA India 2027–29
   - best online MBA programs India

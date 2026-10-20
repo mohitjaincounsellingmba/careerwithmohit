@@ -6,8 +6,6 @@ date: '2026-08-03'
 description: >-
   Comprehensive review of Thapar Institute of Engineering and Technology (LM
   Thapar School of Management), Dera Bassi (Dera Bassi / Patiala) for 2026.
-  Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
 keywords:
   - LM Thapar School of Management (TIET) review 2027–29
   - LM Thapar School of Management (TIET) placements 2027–29

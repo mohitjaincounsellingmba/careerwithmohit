@@ -4,8 +4,8 @@ import { BlogList } from '@/components/BlogList';
 import { AdUnit } from '@/components/AdUnit';
 
 export const metadata = {
-  title: 'MBA / PGDM Admission 2027 Blog & Career Insights | CareerWithMohit',
-  description: 'Read latest career insights, MBA admission 2027 updates, PGDM admission 2027 guide, and professional growth strategies from expert counsellor Mohit Jain. Uncompromised guidance for students.',
+  title: 'MBA Admissions 2027 Blog & College Reviews',
+  description: 'Read verified 2027 MBA admission updates, college fee structures, placement audits, cutoff predictions & career guidance articles with expert Mohit Jain.',
   keywords: ['MBA blog', 'career counselling blog', 'MBA admission 2027', 'PGDM admission 2027', 'degree admission 2027', 'MBA admission tips', 'PGDM admission guide', 'career guidance articles', 'B-school insights 2027', 'Mohit Jain blog'],
   alternates: {
     canonical: '/blog/',

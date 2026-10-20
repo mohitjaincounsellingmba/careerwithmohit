@@ -3,9 +3,7 @@ title: 'Institute of Management Technology (IMT), Ghaziabad Executive MBA Review
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Institute of
-  Management Technology (IMT), Ghaziabad. Learn about total fees, eligibility,
-  accepted entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  Management Technology (IMT), Ghaziabad.
 keywords:
   - 'Institute of Management Technology (IMT), Ghaziabad executive mba'
   - 'Institute of Management Technology (IMT), Ghaziabad executive mba review'

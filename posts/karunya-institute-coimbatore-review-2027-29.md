@@ -5,9 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Karunya Institute of Technology and Sciences,
-  Coimbatore (Coimbatore (Siruvani / Karunya Nagar)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  Coimbatore (Coimbatore (Siruvani / Karunya Nagar)) for 2026.
 keywords:
   - Karunya University Coimbatore review 2027–29
   - Karunya University Coimbatore placements 2027–29

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at JSS Academy of Technical Education (JSS) Noida? Get the
-  latest on JEE Main 2026 cutoffs, AKTU (UPTAC) counselling process, detailed
-  fee structure, and its ₹57 LPA placement record.
+  latest on JEE Main 2026 cutoffs, AKTU (UPTAC) counselling process.
 keywords:
   - JSS Noida BTech admission 2026
   - JSS Noida cutoff for CSE

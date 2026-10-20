@@ -3,7 +3,8 @@ title: 'CAT 2026 Score Calculator: Marks vs Percentile & Scaled Score Predictor'
 date: '2026-06-28'
 category: Exams
 description: >-
-  Free CAT 2026 Score Calculator & Marks vs Percentile Predictor. Calculate raw marks out of 198, slot scaled score across Slot 1, 2 & 3, and IIM admission percentile.
+  Free CAT 2026 Score Calculator & Marks vs Percentile Predictor. Calculate raw
+  marks out of 198, slot scaled score across Slot 1, 2 & 3.
 keywords:
   - CAT 2026 score calculator
   - CAT score calculator 2026
@@ -18,7 +19,8 @@ faqs:
     answer: >-
       For MCQs, you get +3 for a correct answer and -1 for an incorrect answer.
       For TITA (Type In The Answer) questions, you get +3 for a correct answer
-      and 0 for an incorrect answer. Unattempted questions get 0 marks. Max score is 198 (66 questions).
+      and 0 for an incorrect answer. Unattempted questions get 0 marks. Max
+      score is 198 (66 questions).
   - question: What is the difference between raw score and scaled score?
     answer: >-
       The raw score is calculated directly based on the marking scheme. The

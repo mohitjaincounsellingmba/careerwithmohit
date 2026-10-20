@@ -4,10 +4,8 @@ title: >-
   & Career Roles
 date: '2026-03-12'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top 20 MBA in
-  Agri-Business Management Colleges in India: Placements, Packages & Career
-  Roles. Check updated fees, placement records, real cutoffs, and selection tips
-  by Mohit Jain.
+  2027 guide for Top 20 MBA in Agri-Business Management Colleges in I...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MBA Agri-Business Management India 2027–29
   - Top ABM Colleges 2026

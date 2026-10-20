@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Chandigarh University (CU), Mohali / Gharuan (Mohali /
-  Gharuan) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  Gharuan) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Chandigarh University (CU) review 2027–29
   - Chandigarh University (CU) placements 2027–29

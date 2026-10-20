@@ -1,8 +1,10 @@
 ---
-title: "MERI Janakpuri Delhi MBA Review 2027: Fees & Cutoff"
-date: "2026-09-27"
+title: 'MERI Janakpuri Delhi MBA Review 2027: Fees & Cutoff'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 MERI Janakpuri review with audited ₹7.50L placements, ₹5.95L fees, IPU CET cutoffs, and direct admission advice from Mohit Jain."
+description: >-
+  Read verified 2027 MERI Janakpuri review with audited ₹7.50L placements,
+  ₹5.95L fees, IPU CET cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - meri janakpuri mba review 2027
   - meri delhi pgdm fees structure 2027
@@ -13,26 +15,47 @@ keywords:
   - direct admission in meri janakpuri
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at MERI Janakpuri (West Delhi)?
+  - question: >-
+      What is the audited average placement package at MERI Janakpuri (West
+      Delhi)?
     answer: >-
-      The verified overall average placement package across graduating MBA and PGDM cohorts at MERI Janakpuri stands at ₹7.20 LPA to ₹7.50 LPA. The median CTC is benchmarked at ₹6.80 LPA, with the top 20% securing ₹10.50 LPA and peak domestic offers touching ₹20.00 LPA.
+      The verified overall average placement package across graduating MBA and
+      PGDM cohorts at MERI Janakpuri stands at ₹7.20 LPA to ₹7.50 LPA. The
+      median CTC is benchmarked at ₹6.80 LPA, with the top 20% securing ₹10.50
+      LPA and peak domestic offers touching ₹20.00 LPA.
   - question: What are the affiliations and accreditations held by MERI Janakpuri?
     answer: >-
-      Management Education & Research Institute (MERI Janakpuri) is approved by AICTE, accredited with an 'A' grade, and affiliated with Guru Gobind Singh Indraprastha University (GGSIPU Delhi) for its MBA program, while also offering an autonomous AICTE-approved PGDM.
-  - question: What is the complete fee structure for the 2-year MBA / PGDM at MERI Delhi?
+      Management Education & Research Institute (MERI Janakpuri) is approved by
+      AICTE, accredited with an 'A' grade, and affiliated with Guru Gobind Singh
+      Indraprastha University (GGSIPU Delhi) for its MBA program, while also
+      offering an autonomous AICTE-approved PGDM.
+  - question: >-
+      What is the complete fee structure for the 2-year MBA / PGDM at MERI
+      Delhi?
     answer: >-
-      The 2-year academic tuition fee for the management program at MERI Janakpuri is approximately ₹5.95 Lakhs, payable in term installments. Partnered student housing facilities in Janakpuri and West Delhi cost between ₹1,10,000 and ₹1,35,000 per academic year.
-  - question: What entrance exams and cutoffs are accepted for admission to MERI Janakpuri?
+      The 2-year academic tuition fee for the management program at MERI
+      Janakpuri is approximately ₹5.95 Lakhs, payable in term installments.
+      Partnered student housing facilities in Janakpuri and West Delhi cost
+      between ₹1,10,000 and ₹1,35,000 per academic year.
+  - question: >-
+      What entrance exams and cutoffs are accepted for admission to MERI
+      Janakpuri?
     answer: >-
-      MERI Janakpuri accepts scores from CAT, CMAT, and GGSIPU CET. Indicative cutoff thresholds for the IPU MBA quota range between 65.0% and 75.0% percentile, accompanied by university counseling rounds and institutional profile screening.
+      MERI Janakpuri accepts scores from CAT, CMAT, and GGSIPU CET. Indicative
+      cutoff thresholds for the IPU MBA quota range between 65.0% and 75.0%
+      percentile, accompanied by university counseling rounds and institutional
+      profile screening.
   - question: What is the location advantage of MERI Janakpuri?
     answer: >-
-      Located in Janakpuri, West Delhi, MERI is situated near the Janakpuri District Centre commercial complex and within walking distance of the Janakpuri West Metro Station (Blue and Magenta Lines), providing direct transit across Delhi-NCR.
+      Located in Janakpuri, West Delhi, MERI is situated near the Janakpuri
+      District Centre commercial complex and within walking distance of the
+      Janakpuri West Metro Station (Blue and Magenta Lines), providing direct
+      transit across Delhi-NCR.
 location: 'Janakpuri, West Delhi'
-state: 'New Delhi'
+state: New Delhi
 ---
 
-# [Management Education & Research Institute (MERI Janakpuri)](https://careerwithmohit.online/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & West Delhi Advantage
+## [Management Education & Research Institute (MERI Janakpuri)](https://careerwithmohit.online/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & West Delhi Advantage
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 1994, MERI Janakpuri is one of Delhi's prominent management institutions. Approved by **AICTE**, accredited with **'A' Grade**, and affiliated with **Guru Gobind Singh Indraprastha University (GGSIPU Delhi)** for its MBA degree.

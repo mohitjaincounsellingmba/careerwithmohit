@@ -7,7 +7,7 @@ category: Online Degrees
 description: >-
   Honest review of JAIN University Online MBA 2027–29. Check fees
   (₹1,60,000–₹3,00,000), 20+ specializations including FinTech and ACCA-linked
-  tracks, NAAC A++ status, and placement support.
+  tracks.
 keywords:
   - Jain University online MBA review 2027–29
   - JAIN online MBA fees 2027–29

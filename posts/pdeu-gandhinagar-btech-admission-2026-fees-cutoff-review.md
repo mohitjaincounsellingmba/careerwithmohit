@@ -3,8 +3,7 @@ title: 'PDEU Gandhinagar B.Tech Admission 2026: Cutoffs, Fees & Placement Review
 date: '2026-03-24'
 description: >-
   Everything you need to know about Pandit Deendayal Energy University (PDEU)
-  B.Tech admission 2026. Check the latest JEE Main/GUJCET cutoffs, semester-wise
-  fees, and its ₹42 LPA placement record.
+  B.Tech admission 2026. Check the latest JEE Main/GUJCET cutoffs.
 keywords:
   - PDEU Gandhinagar BTech admission 2026
   - PDPU Gandhinagar BTech fees

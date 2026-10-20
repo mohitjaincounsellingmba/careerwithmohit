@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning your MCA in East India's gateway? Compare the best MCA colleges in
-  Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage, and
-  Techno India.
+  Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage.
 keywords:
   - top mca colleges in kolkata 2026
   - best mca colleges kolkata

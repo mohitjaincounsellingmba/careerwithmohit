@@ -2,7 +2,9 @@
 title: 'IIM Udaipur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Udaipur MBA review with audited ₹20.02 LPA placements, ₹21.00L fees, CAT CAP cutoffs, and admissions strategy by Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Udaipur MBA review with audited ₹20.02 LPA placements,
+  ₹21.00L fees, CAT CAP cutoffs, and admissions strategy by Mohit Jain.
 keywords:
   - iim udaipur mba admission 2027
   - iim udaipur fees structure 2027
@@ -15,24 +17,40 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Udaipur in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Udaipur stands at ₹20.02 LPA to ₹20.30 LPA (audited strictly under Indian Placement Reporting Standards IPRS), with the median CTC benchmarked at ₹18.53 LPA. The top 10% of the batch secured an average salary of ₹33.50 LPA, while the highest domestic offer reached ₹47.30 LPA.
+      The verified average placement package at IIM Udaipur stands at ₹20.02 LPA
+      to ₹20.30 LPA (audited strictly under Indian Placement Reporting Standards
+      IPRS), with the median CTC benchmarked at ₹18.53 LPA. The top 10% of the
+      batch secured an average salary of ₹33.50 LPA, while the highest domestic
+      offer reached ₹47.30 LPA.
   - question: What specialized MBA programs are offered at IIM Udaipur?
     answer: >-
-      IIM Udaipur offers its flagship 2-year Master of Business Administration (MBA), a 1-year MBA in Digital Enterprise Management (MBA-DEM - India's premier tech-management MBA), a 1-year MBA in Global Supply Chain Management (MBA-GSCM), and PhD programs.
+      IIM Udaipur offers its flagship 2-year Master of Business Administration
+      (MBA), a 1-year MBA in Digital Enterprise Management (MBA-DEM - India's
+      premier tech-management MBA), a 1-year MBA in Global Supply Chain
+      Management (MBA-GSCM), and PhD programs.
   - question: What is the total fee structure for the 2-year MBA at IIM Udaipur?
     answer: >-
-      The total course fee for the 2-year full-time MBA program at IIM Udaipur is approximately ₹21.00 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, digital library databases, and case study subscriptions.
+      The total course fee for the 2-year full-time MBA program at IIM Udaipur
+      is approximately ₹21.00 Lakhs, which covers academic tuition,
+      air-conditioned single-room hostel accommodations, digital library
+      databases, and case study subscriptions.
   - question: What is the CAT cutoff for IIM Udaipur admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 94 percentile overall with 73+ sectional percentiles across VARC, DILR, and QA. High CAT scorers with 95+ percentile hold strong conversion probability due to 60% CAT weightage.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 94 percentile overall with 73+ sectional percentiles across
+      VARC, DILR, and QA. High CAT scorers with 95+ percentile hold strong
+      conversion probability due to 60% CAT weightage.
   - question: What global accreditations does IIM Udaipur hold?
     answer: >-
-      IIM Udaipur holds prestigious AACSB accreditation (Association to Advance Collegiate Schools of Business), making it the youngest AACSB-accredited business school in India, alongside rankings in the Financial Times Masters in Management (FT MiM) global rankings.
+      IIM Udaipur holds prestigious AACSB accreditation (Association to Advance
+      Collegiate Schools of Business), making it the youngest AACSB-accredited
+      business school in India, alongside rankings in the Financial Times
+      Masters in Management (FT MiM) global rankings.
 location: Udaipur
 state: Rajasthan
 ---
 
-# [IIM Udaipur](/colleges/iim-udaipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Udaipur](/colleges/iim-udaipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Global Prestige**: Established in 2011 and mentored originally by [IIM Indore](/colleges/iim-indore/), **IIM Udaipur** operates from a 300-acre permanent green campus at Balicha (Udaipur, Rajasthan), holding **NIRF Rank #22**, **AACSB accreditation**, and global **FT MiM ranking**.

@@ -1,18 +1,18 @@
 ---
 title: >-
-  LIBA Chennai (Loyola Institute of Business Administration) Review 2027–29: Fees,
-  Placements, Cutoffs & ROI Analysis
+  LIBA Chennai (Loyola Institute of Business Administration) Review 2027–29:
+  Fees, Placements, Cutoffs & ROI Analysis
 date: '2026-08-03'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for LIBA Chennai
-  (Loyola Institute of Business Administration) Review 2027–29: Fees, Placements,
-  Cutoffs & ROI Analysis. Check updated fees, placement records, real cutoffs,
-  and selection tips by Mohit Jain.
+  2027 guide for LIBA Chennai (Loyola Institute of Business Administr...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - LIBA Chennai (Loyola Institute of Business Administration) review 2027–29
   - LIBA Chennai (Loyola Institute of Business Administration) mba fees
-  - LIBA Chennai (Loyola Institute of Business Administration) placements 2027–29
+  - >-
+    LIBA Chennai (Loyola Institute of Business Administration) placements
+    2027–29
   - LIBA Chennai (Loyola Institute of Business Administration) admission cutoffs
   - top mba colleges in Chennai
   - Direct Admission in Delhi
@@ -42,7 +42,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# LIBA Chennai (Loyola Institute of Business Administration) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## LIBA Chennai (Loyola Institute of Business Administration) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

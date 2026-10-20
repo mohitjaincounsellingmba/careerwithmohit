@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Bennett University (Bennett Greater
-  Noida). Verified fee structure (₹11.95 Lakhs (Total)), MBA approvals, audited
-  placements (Avg ₹7.50 LPA, Highest ₹1.20 CPA (Peak / International)), PPO
-  stats, certifications, awards, alumni network, faculty profiles, and Why Join
-  review.
+  Noida). Verified fee structure (₹11.95 Lakhs (Total)), MBA approvals.
 keywords:
   - Bennett University admission 2027-29
   - Bennett Greater Noida fees 2027
@@ -83,7 +80,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Bennett University](/colleges/bennett-greater-noida/) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [Bennett University](/colleges/bennett-greater-noida/) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.95 Lakhs (Total)** (**₹5.97 Lakhs per Year**). Up to 50% tuition scholarships for 80%+ CAT/XAT scorers and NMAT toppers.

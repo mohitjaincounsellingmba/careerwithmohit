@@ -1,12 +1,11 @@
 ---
 title: >-
-  Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore Review 2027–29: Placements, Fees, Courses & Admission
+  Amrita Vishwa Vidyapeetham (Amrita School of Business), Coimbatore Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Amrita Vishwa Vidyapeetham (Amrita School of
-  Business), Coimbatore (Coimbatore (Ettimadai)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  Business), Coimbatore (Coimbatore (Ettimadai)) for 2026.
 keywords:
   - Amrita University Coimbatore (ASB) review 2027–29
   - Amrita University Coimbatore (ASB) placements 2027–29

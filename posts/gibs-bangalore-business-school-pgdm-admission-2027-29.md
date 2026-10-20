@@ -7,10 +7,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Global Institute of Business Studies
-  (GIBS Business School) (GIBS Bangalore). Verified fee structure (₹11.25 Lakhs
-  (Total)), PGDM approvals, audited placements (Avg ₹9.50 LPA, Highest ₹22.00
-  LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and
-  Why Join review.
+  (GIBS Business School) (GIBS Bangalore).
 keywords:
   - >-
     Global Institute of Business Studies (GIBS Business School) admission
@@ -78,7 +75,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-# Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore/)) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore/)) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.25 Lakhs (Total)** (**₹5.62 Lakhs per Year**). GIBS Merit & Sports Scholarships up to ₹1.50 Lakhs.

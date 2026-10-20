@@ -3,8 +3,7 @@ title: 'IIMT Greater Noida BBA Review: Fees, Placements & Admission Guide'
 date: '2026-07-13'
 description: >-
   Looking for an honest IIMT Greater Noida BBA Review? Get complete details on
-  BBA fees, affiliation, placement statistics, eligibility, and the direct
-  admission process for 2026-2027 admissions & career guidance.
+  BBA fees, affiliation, placement statistics, eligibility.
 keywords:
   - IIMT Greater Noida BBA Review
   - IIMT Greater Noida BBA Fees

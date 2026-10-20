@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of GD Goenka University, Gurugram (Gurugram) for 2026.
-  Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - GD Goenka University Gurugram review 2027–29
   - GD Goenka University Gurugram placements 2027–29

@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Denmark for Indian students 2026. All
-  fees in INR, Danish accredited institutions, English-taught programs, and
-  Denmark student visa details.
+  fees in INR, Danish accredited institutions, English-taught programs.
 keywords:
   - universities in Denmark for Indian students 2026
   - study in Denmark fees in INR

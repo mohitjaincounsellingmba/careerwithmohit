@@ -7,8 +7,7 @@ category: BBA
 description: >-
   Confused between Jamia Millia (JMI), [Amity
   University](/colleges/amity-noida/), and SSCBS for your BBA? Our comprehensive
-  comparison breaks down fees, placements, and campus life for 2026-2027
-  admissions & career guidance.
+  comparison breaks down fees.
 keywords:
   - jamia millia vs amity vs sscbs
   - sscbs vs amity

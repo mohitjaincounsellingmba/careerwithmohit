@@ -6,8 +6,7 @@ date: '2026-05-10'
 category: Online Degrees
 description: >-
   Honest review of Galgotias University Online MBA 2027–29. Check the real fees
-  (₹90,000 total), NAAC A+ status, UGC-DEB approval, specializations, and
-  whether it's worth it for Delhi NCR aspirants.
+  (₹90,000 total), NAAC A+ status, UGC-DEB approval, specializations.
 keywords:
   - Galgotias University online MBA review 2027–29
   - Galgotias online MBA fees 2027–29

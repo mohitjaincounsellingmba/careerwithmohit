@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive Woxsen School of Business, Woxsen University (Hyderabad,
-  Telangana) review for 2027 admissions. Explore audited fee structure (₹15.20
-  Lakhs (Total)), latest placement packages (Avg: ₹9.04 LPA, Highest: ₹17.00
-  LPA), entrance exam cutoffs (CAT, XAT, NMAT, GMAT, WAT (Woxsen Aptitude
-  Test)), NIRF ranking, and student verdict.
+  Telangana) review for 2027 admissions.
 keywords:
   - 'woxsen school of business, woxsen university review 2027'
   - 'woxsen school of business, woxsen university mba fees'
@@ -64,7 +61,7 @@ location: Hyderabad
 state: Telangana
 ---
 
-# [Woxsen School of Business, Woxsen University](/colleges/woxsen-school-of-business/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Woxsen School of Business, Woxsen University](/colleges/woxsen-school-of-business/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, NMAT, GMAT, WAT (Woxsen Aptitude Test)** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

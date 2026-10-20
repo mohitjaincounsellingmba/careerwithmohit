@@ -6,11 +6,7 @@ date: '2026-09-10'
 category: MBA
 description: >-
   In-depth International Management Institute (IMI) (Qutab Institutional Area
-  Campus) review for 2027 admissions. Explore verified fee structure (₹21.00 –
-  ₹22.20 Lakhs (2 Years Full-Time PGDM)), latest placements (avg ₹16.70 – ₹17.10
-  LPA, highest ₹70.00 LPA (International) / ₹40.00 LPA (Domestic)), cutoffs
-  (CAT: 88–90 Percentile; XAT: 88–90 Percentile; GMAT: 650+), and student
-  verdict.
+  Campus) review for 2027 admissions.
 keywords:
   - international management institute (imi) review 2027
   - international management institute (imi) fees
@@ -60,7 +56,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# International Management Institute (IMI) (Qutab Institutional Area Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## International Management Institute (IMI) (Qutab Institutional Area Campus) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT, XAT, GMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 360–400 Seats across PGDM, HRM & BFS**.

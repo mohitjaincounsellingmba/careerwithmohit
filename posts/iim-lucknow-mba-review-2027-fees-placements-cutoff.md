@@ -4,8 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for IIM Lucknow (Lucknow, Uttar Pradesh). Check
-  audited fees (₹20.75 Lakhs (Total)), average placement (₹32.20 LPA), entrance
-  cutoffs (98.0+ CAT %ile), and admission tips by Mohit Jain.
+  audited fees (₹20.75 Lakhs (Total)), average placement (₹32.20 LPA).
 keywords:
   - iim lucknow mba admission 2027
   - iim lucknow fees structure 2027
@@ -39,7 +38,7 @@ location: Lucknow
 state: Uttar Pradesh
 ---
 
-# [IIM Lucknow](/colleges/iim-lucknow/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Lucknow](/colleges/iim-lucknow/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Lucknow, Uttar Pradesh** recognized for academic rigor (NIRF Rank #7 · AACSB & AMBA Accredited) and industry-aligned specializations in **PGP (MBA), PGP-ABM & PGP-SM**.

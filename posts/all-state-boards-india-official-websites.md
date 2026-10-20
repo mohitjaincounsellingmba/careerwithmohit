@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-22'
 description: >-
   Searching for your 10th or 12th board official website? Get the complete list
-  of all state education boards in India, including official links for results,
-  syllabus, and admit cards for 2026-2027 admissions & career guidance.
+  of all state education boards in India, including official links for results.
 keywords:
   - list of all state boards in India
   - official education board websites

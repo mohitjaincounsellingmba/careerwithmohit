@@ -3,8 +3,7 @@ title: 'Duke University Admission Guide 2026: Fees, Placements & Requirements'
 date: '2026-06-11'
 description: >-
   Thinking of studying at Duke University in 2026? Check the latest fee
-  structure in INR, top courses, eligibility requirements, and placement reports
-  for Indian students.
+  structure in INR, top courses, eligibility requirements.
 keywords:
   - Duke University admission 2026
   - Duke University fees for Indian students

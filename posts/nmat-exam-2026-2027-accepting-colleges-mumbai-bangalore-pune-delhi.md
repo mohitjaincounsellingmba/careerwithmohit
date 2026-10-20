@@ -6,7 +6,7 @@ date: '2026-09-03'
 description: >-
   Complete guide to the NMAT exam 2026-2027. Check top accepting colleges with
   cutoff scores, fees, and placements including NMIMS Mumbai, K J Somaiya,
-  TAPMI, SDA Bocconi, SOIL, and ITM.
+  TAPMI.
 keywords:
   - nmat exam
   - mba admission 2027
@@ -53,7 +53,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR
+## NMAT Exam 2026-27: Top Accepting MBA Colleges in Mumbai, Bangalore, Pune & Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Flagship Destination:** [NMIMS Mumbai](/colleges/nmims-mumbai/) (SBM) requires a 232+ scaled score with sectional balance.

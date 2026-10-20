@@ -6,11 +6,7 @@ date: '2026-09-10'
 category: MBA
 description: >-
   In-depth ICFAI Business School (IBS) (Donthanapally Campus, Shankarpally Road)
-  review for 2027 admissions. Explore verified fee structure (₹16.02 Lakhs
-  (Tuition) + ₹3.50 – ₹4.00 Lakhs (Hostel & Mess)), latest placements (avg ₹9.71
-  – ₹10.42 LPA, highest ₹58.19 LPA (International) / ₹21.00 LPA (Domestic)),
-  cutoffs (IBSAT: 70–75+ Score; CAT: 70–75 Percentile; NMAT: 150+ Score; GMAT:
-  550+), and student verdict.
+  review for 2027 admissions.
 keywords:
   - icfai business school (ibs) review 2027
   - icfai business school (ibs) fees
@@ -56,7 +52,7 @@ location: Hyderabad
 state: Telangana
 ---
 
-# ICFAI Business School (IBS) (Donthanapally Campus, Shankarpally Road) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## ICFAI Business School (IBS) (Donthanapally Campus, Shankarpally Road) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via IBSAT, CAT, NMAT, GMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 1,000+ Seats across MBA specializations**.

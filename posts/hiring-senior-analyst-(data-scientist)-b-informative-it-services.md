@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-22'
 description: >-
   Apply for the Senior Analyst (Data Scientist) role at B-Informative IT
-  Services. Salary: ₹14L - ₹16L/Year. Experience: 3-5+ Years. Verified referral
-  link for 2026.
+  Services. Salary: ₹14L - ₹16L/Year. Experience: 3-5+ Years.
 keywords:
   - Senior Analyst (Data Scientist) jobs
   - B-Informative IT Services recruitment

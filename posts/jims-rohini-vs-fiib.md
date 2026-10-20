@@ -4,8 +4,8 @@ date: '2026-03-26'
 category: Exams
 description: >-
   A detailed comparison between JIMS Rohini and FIIB Delhi. Compare their fees,
-  placements, location advantage, and ROI to find out why FIIB has a strong edge
-  for 2026-2027 admissions & career guidance.
+  placements, location advantage, and ROI to find out why FIIB has a strong
+  edge...
 keywords:
   - JIMS Rohini vs FIIB
   - FIIB Delhi vs JIMS Rohini

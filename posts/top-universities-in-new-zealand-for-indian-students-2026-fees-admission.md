@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in New Zealand for Indian students 2026.
-  All fees in INR, NZQA accredited institutions, post-study work rights, and
-  admission requirements listed.
+  All fees in INR, NZQA accredited institutions, post-study work rights.
 keywords:
   - universities in New Zealand for Indian students 2026
   - study in New Zealand fees in INR

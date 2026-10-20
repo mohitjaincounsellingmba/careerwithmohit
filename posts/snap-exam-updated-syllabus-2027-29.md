@@ -4,7 +4,7 @@ date: '2026-08-21'
 description: >-
   Complete guide to SNAP exam updated syllabus 2026. Explore section-wise
   topics, question weightage, marking scheme, and preparation strategy for SIBM
-  Pune and SCMHRD.
+  Pune...
 keywords:
   - SNAP exam updated syllabus 2026
   - SNAP syllabus topic wise breakdown

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-22'
 description: >-
   Waiting for Bihar Board BSEB Class 12 Inter Result 2026? Get the latest
-  expected date and time, official list of result websites, and a step-by-step
-  guide to check your scores.
+  expected date and time, official list of result websites.
 keywords:
   - Bihar Board 12th result 2026 date
   - BSEB Inter result expected time 2026

@@ -4,8 +4,7 @@ date: '2026-07-25'
 category: Exams
 description: >-
   Check the expected SNAP 2026 application form open date. Learn the
-  registration dates, step-by-step application instructions, fee structure, and
-  SIBM admission details here.
+  registration dates, step-by-step application instructions, fee structure.
 keywords:
   - SNAP 2026 application form open date
   - SNAP exam registration 2026

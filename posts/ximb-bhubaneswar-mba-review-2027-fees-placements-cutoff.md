@@ -2,7 +2,10 @@
 title: 'XIMB Bhubaneswar MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 XIMB Bhubaneswar MBA review with audited ₹20.03L placements, ₹22.0L fees, 91%ile cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 XIMB Bhubaneswar MBA review with audited ₹20.03L
+  placements, ₹22.0L fees, 91%ile cutoffs, and admissions advice from Mohit
+  Jain.
 keywords:
   - ximb bhubaneswar mba review 2027
   - ximb mba fees structure 2027
@@ -13,26 +16,46 @@ keywords:
   - top mba colleges in eastern india
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at XIMB Bhubaneswar for 2026-2027?
+  - question: >-
+      What is the audited average placement package at XIMB Bhubaneswar for
+      2026-2027?
     answer: >-
-      The audited overall average placement package at XIMB (Xavier Institute of Management Bhubaneswar) stands at ₹20.03 LPA. The median salary benchmark is ₹19.20 LPA, with the top 10% securing ₹28.50 LPA, the top 25% averaging ₹24.20 LPA, and the highest domestic offer reaching ₹71.51 LPA.
+      The audited overall average placement package at XIMB (Xavier Institute of
+      Management Bhubaneswar) stands at ₹20.03 LPA. The median salary benchmark
+      is ₹19.20 LPA, with the top 10% securing ₹28.50 LPA, the top 25% averaging
+      ₹24.20 LPA, and the highest domestic offer reaching ₹71.51 LPA.
   - question: What entrance exams and cutoffs are accepted for MBA admission at XIMB?
     answer: >-
-      XIMB accepts scores from XAT, CAT, GMAT, and the university's proprietary entrance test, X-GMT. The cutoff benchmark for non-domicile candidates is 91.0+ percentile in CAT/XAT (90+ in X-GMT / 220+ in NMAT for select programs), while Odisha domicile applicants receive an approximate 5 to 7 percentile relaxation.
-  - question: What is the total fee structure for the MBA-BM program at XIMB for 2027-2029?
+      XIMB accepts scores from XAT, CAT, GMAT, and the university's proprietary
+      entrance test, X-GMT. The cutoff benchmark for non-domicile candidates is
+      91.0+ percentile in CAT/XAT (90+ in X-GMT / 220+ in NMAT for select
+      programs), while Odisha domicile applicants receive an approximate 5 to 7
+      percentile relaxation.
+  - question: >-
+      What is the total fee structure for the MBA-BM program at XIMB for
+      2027-2029?
     answer: >-
-      The 2-year academic course tuition fee for the flagship MBA in Business Management (MBA-BM) is ₹19.30 Lakhs. Including mandatory on-campus residential hostel and mess charges, the total program financial budget is approximately ₹22.00 Lakhs to ₹23.50 Lakhs.
+      The 2-year academic course tuition fee for the flagship MBA in Business
+      Management (MBA-BM) is ₹19.30 Lakhs. Including mandatory on-campus
+      residential hostel and mess charges, the total program financial budget is
+      approximately ₹22.00 Lakhs to ₹23.50 Lakhs.
   - question: Does XIMB offer reservation for Odisha domicile students?
     answer: >-
-      Yes, as part of the charter establishing XIM University under the Government of Odisha, up to 50% of the total seats are reserved for candidates holding permanent domicile in the state of Odisha, subject to meeting minimum qualifying cutoffs.
-  - question: How does XIMB Bhubaneswar compare against XLRI, MDI Gurgaon, and IIFT?
+      Yes, as part of the charter establishing XIM University under the
+      Government of Odisha, up to 50% of the total seats are reserved for
+      candidates holding permanent domicile in the state of Odisha, subject to
+      meeting minimum qualifying cutoffs.
+  - question: 'How does XIMB Bhubaneswar compare against XLRI, MDI Gurgaon, and IIFT?'
     answer: >-
-      While XLRI Jamshedpur leads Tier-1 private institutions (₹32.7L avg), XIMB firmly occupies the upper Tier-1 bracket alongside MDI Gurgaon, SIBM Pune, and IIFT Delhi, commanding elite consulting, FMCG, and BFSI recruiting with an audited ₹20.03L average CTC.
-location: 'Bhubaneswar'
-state: 'Odisha'
+      While XLRI Jamshedpur leads Tier-1 private institutions (₹32.7L avg), XIMB
+      firmly occupies the upper Tier-1 bracket alongside MDI Gurgaon, SIBM Pune,
+      and IIFT Delhi, commanding elite consulting, FMCG, and BFSI recruiting
+      with an audited ₹20.03L average CTC.
+location: Bhubaneswar
+state: Odisha
 ---
 
-# [XIMB Bhubaneswar](https://careerwithmohit.online/blog/ximb-bhubaneswar-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [XIMB Bhubaneswar](https://careerwithmohit.online/blog/ximb-bhubaneswar-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier Jesuit business school established in 1987 in Bhubaneswar, Odisha, operating under XIM University. Globally renowned for its rigorous academic curriculum, Jesuit ethical leadership foundation, and influential alumni network across management consulting, banking, and FMCG.

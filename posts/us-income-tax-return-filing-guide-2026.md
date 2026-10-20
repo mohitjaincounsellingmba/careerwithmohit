@@ -2,10 +2,8 @@
 title: 'Comprehensive Guide to US Income Tax Returns: Forms, Brackets & Filing Process'
 date: '2026-04-17'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Comprehensive
-  Guide to US Income Tax Returns: Forms, Brackets & Filing Process. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Comprehensive Guide to US Income Tax Returns: Forms,...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - US Income Tax 2026
   - IRS tax filing

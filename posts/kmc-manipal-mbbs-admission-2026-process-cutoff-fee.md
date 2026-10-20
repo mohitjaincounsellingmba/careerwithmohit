@@ -4,10 +4,8 @@ title: >-
   Cutoff & Fee Structure
 date: '2026-07-21'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Kasturba
-  Medical College (KMC), Manipal MBBS Admission 2026: Process, NEET Cutoff & Fee
-  Structure. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for Kasturba Medical College (KMC), Manipal MBBS Admissi...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - KMC Manipal MBBS admission 2026
   - KMC Manipal fee structure

@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities and business schools in Spain for Indian
-  students 2026. All fees in INR, programs, admission requirements, and
-  post-study opportunities listed.
+  students 2026. All fees in INR, programs, admission requirements.
 keywords:
   - universities in Spain for Indian students 2026
   - study in Spain fees in INR

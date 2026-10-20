@@ -2,10 +2,8 @@
 title: 'Tezpur University Review 2027–29: Placements, Fees & CUET Cutoff'
 date: '2026-05-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Tezpur
-  University(/colleges/tezpur-university) Review 2027–29: Placements, Fees & CUET
-  Cutoff. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for Tezpur University Review 2027–29: Placements, Fees &...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - '[Tezpur University](/colleges/tezpur-university-management/) admissions 2026'
   - Tezpur University placements

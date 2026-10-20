@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in USA for Indian students in 2026. Explore
-  fees in INR, programs offered, admission requirements, and scholarship
-  opportunities for studying in America.
+  fees in INR, programs offered, admission requirements.
 keywords:
   - universities in USA for Indian students 2026
   - study in USA fees in INR

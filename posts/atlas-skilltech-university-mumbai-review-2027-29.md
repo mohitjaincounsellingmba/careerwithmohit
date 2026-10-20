@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Atlas SkillTech University, Mumbai (Mumbai) for 2026.
-  Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Atlas SkillTech University Mumbai review 2027–29
   - Atlas SkillTech University Mumbai placements 2027–29

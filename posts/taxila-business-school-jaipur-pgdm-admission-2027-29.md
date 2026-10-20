@@ -6,10 +6,8 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Taxila Business School (TBS) (Taxila
-  Jaipur). Verified fee structure (₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs
-  (Lump Sum Plan)), PGDM approvals, audited placements (Avg ₹11.80 LPA, Highest
-  ₹28.60 LPA), PPO stats, certifications, awards, alumni network, faculty
-  profiles, and Why Join review.
+  Jaipur). Verified fee structure (₹10.50 Lakhs (Installment Plan) / ₹9.80
+  Lakhs...
 keywords:
   - Taxila Business School (TBS) admission 2027-29
   - Taxila Jaipur fees 2027
@@ -72,7 +70,7 @@ location: Jaipur
 state: Rajasthan
 ---
 
-# [Taxila Business School](/colleges/taxila-jaipur/) (TBS) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [Taxila Business School](/colleges/taxila-jaipur/) (TBS) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs (Lump Sum Plan)** (**₹5.25 Lakhs per Year (Installment Mode)**). Merit waivers on CAT/XAT/CMAT percentiles above 75%.

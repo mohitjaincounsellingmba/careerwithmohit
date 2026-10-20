@@ -6,7 +6,7 @@ date: '2026-05-17'
 description: >-
   Complete guide to top universities in Poland for Indian students 2026.
   Extremely affordable fees in INR, English-taught programs, Schengen Zone
-  access, and Poland student visa details.
+  access.
 keywords:
   - universities in Poland for Indian students 2026
   - study in Poland fees in INR

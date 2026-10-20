@@ -5,8 +5,8 @@ title: >-
 date: '2026-03-22'
 description: >-
   Looking for SOIL (School of Inspired Leadership) Gurgaon placements 2024-2025?
-  Check our latest report on highest packages up to ₹27 LPA and average packages
-  reaching ₹11.3 LPA.
+  Check our latest report on highest packages up to ₹27 LPA and average
+  packages...
 keywords:
   - SOIL Gurgaon placement review 2027–29
   - SOIL School of Inspired Leadership average package

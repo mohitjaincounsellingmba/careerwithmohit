@@ -2,7 +2,9 @@
 title: 'Lloyd Business School Review 2027: Fees, Cutoff & ROI'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 Lloyd Business School PGDM review with ₹6.58L placements, ₹2.90L-8.25L fees, CAT cutoffs, and admissions ROI guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 Lloyd Business School PGDM review with ₹6.58L placements,
+  ₹2.90L-8.25L fees, CAT cutoffs, and admissions ROI guidance from Mohit Jain.
 keywords:
   - lloyd business school greater noida review 2027
   - lloyd pgdm fees structure 2027
@@ -13,26 +15,47 @@ keywords:
   - direct admission lloyd business school
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the average placement package at Lloyd Business School in 2026-2027?
+  - question: >-
+      What is the average placement package at Lloyd Business School in
+      2026-2027?
     answer: >-
-      The verified overall average CTC at Lloyd Business School stands at ₹6.58 LPA across all management batches, with specialized PGDM cohorts in Business Analytics (IBM) and Supply Chain Management averaging ₹7.20 LPA to ₹7.50 LPA. The highest domestic offer reached ₹18.00 LPA.
+      The verified overall average CTC at Lloyd Business School stands at ₹6.58
+      LPA across all management batches, with specialized PGDM cohorts in
+      Business Analytics (IBM) and Supply Chain Management averaging ₹7.20 LPA
+      to ₹7.50 LPA. The highest domestic offer reached ₹18.00 LPA.
   - question: What entrance exams are accepted for admission at Lloyd Business School?
     answer: >-
-      Lloyd Business School accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs. Candidates without national exam scores can qualify via the Lloyd Management Aptitude Test (LMAT) followed by personal interview rounds.
+      Lloyd Business School accepts scores from CAT, XAT, MAT, CMAT, ATMA, and
+      State CETs. Candidates without national exam scores can qualify via the
+      Lloyd Management Aptitude Test (LMAT) followed by personal interview
+      rounds.
   - question: What is the total fee structure for PGDM and MBA at Lloyd Business School?
     answer: >-
-      The 2-year university MBA (affiliated to AKTU) costs approximately ₹2.90 Lakhs, while the industry-integrated PGDM programs (Core, Business Analytics with IBM, and Supply Chain with Safeducate) range from ₹6.50 Lakhs to ₹8.25 Lakhs total tuition.
-  - question: Does Lloyd Business School offer industry-collaborated management programs?
+      The 2-year university MBA (affiliated to AKTU) costs approximately ₹2.90
+      Lakhs, while the industry-integrated PGDM programs (Core, Business
+      Analytics with IBM, and Supply Chain with Safeducate) range from ₹6.50
+      Lakhs to ₹8.25 Lakhs total tuition.
+  - question: >-
+      Does Lloyd Business School offer industry-collaborated management
+      programs?
     answer: >-
-      Yes. Lloyd Business School features specialized industry-co-delivered tracks including PGDM Business Analytics in technical partnership with IBM and PGDM Supply Chain Management designed with Safexpress (Safeducate), offering practical live labs and corporate mentor certifications.
-  - question: Is direct admission or management quota available at Lloyd Business School?
+      Yes. Lloyd Business School features specialized industry-co-delivered
+      tracks including PGDM Business Analytics in technical partnership with IBM
+      and PGDM Supply Chain Management designed with Safexpress (Safeducate),
+      offering practical live labs and corporate mentor certifications.
+  - question: >-
+      Is direct admission or management quota available at Lloyd Business
+      School?
     answer: >-
-      Yes. Lloyd Business School offers merit-based direct admission and corporate sponsored seats for candidates with 50%+ in graduation, evaluated through profile screening, past academic performance, and personal interview assessments.
+      Yes. Lloyd Business School offers merit-based direct admission and
+      corporate sponsored seats for candidates with 50%+ in graduation,
+      evaluated through profile screening, past academic performance, and
+      personal interview assessments.
 location: Knowledge Park II
 state: Greater Noida
 ---
 
-# Lloyd Business School Greater Noida Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## Lloyd Business School Greater Noida Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Academic Alliances**: Situated in Knowledge Park II, Greater Noida, Lloyd Business School is renowned for its industry-embedded PGDM programs co-delivered with global tech leaders **IBM** (Business Analytics) and **Safexpress / Safeducate** (Supply Chain Management), alongside its affordable AKTU-affiliated MBA.

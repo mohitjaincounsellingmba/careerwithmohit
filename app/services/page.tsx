@@ -81,8 +81,8 @@ const SERVICES = [
 ];
 
 export const metadata = {
-  title: "MBA & B.Tech Career Counselling & Admission Services | CareerWithMohit",
-  description: "Explore comprehensive career counselling services by Mohit Jain: MBA/PGDM 2027 admission consulting, B.Tech guidance, online degree selection, interview prep & placement support.",
+  title: "MBA & B.Tech Admission Consulting Services",
+  description: "Comprehensive career counselling by Mohit Jain: MBA/PGDM 2027 admission consulting, B.Tech guidance, online degree selection, interview prep & placement aid.",
   keywords: [
     'career counselling services', 'MBA admission support 2027', 'PGDM admission guidance 2027',
     'B.Tech college admission', 'interview preparation', 'scholarship guidance',

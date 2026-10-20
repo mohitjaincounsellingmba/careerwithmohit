@@ -2,30 +2,50 @@
 title: 'Poornima University PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Poornima University (GCEC Jaipur) (Sitapura & Ramchandrapura, Jaipur, Rajasthan). Check updated fee structure (₹5.25 Lakhs (Total)), average placement (₹6.50 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Poornima University (GCEC Jaipur) (Sitapura
+  & Ramchandrapura, Jaipur, Rajasthan).
 keywords:
-  - 'poornima university (gcec jaipur) pgdm admission 2027'
-  - 'poornima university (gcec jaipur) mba fees 2027'
-  - 'poornima university (gcec jaipur) average placement package'
-  - 'poornima university (gcec jaipur) cutoff 2026 2027'
-  - 'poornima university review 2027'
-  - 'direct admission in poornima university (gcec jaipur)'
-  - 'top pgdm colleges in sitapura & ramchandrapura'
+  - poornima university (gcec jaipur) pgdm admission 2027
+  - poornima university (gcec jaipur) mba fees 2027
+  - poornima university (gcec jaipur) average placement package
+  - poornima university (gcec jaipur) cutoff 2026 2027
+  - poornima university review 2027
+  - direct admission in poornima university (gcec jaipur)
+  - top pgdm colleges in sitapura & ramchandrapura
   - 'best mba colleges in jaipur, rajasthan'
 faqs:
-  - question: 'What is the average placement package at Poornima University (GCEC Jaipur) in 2026-2027?'
-    answer: 'The verified average placement package at Poornima University (GCEC Jaipur) stands at approximately ₹6.50 LPA, with top performing students securing offers up to ₹18.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Poornima University (GCEC Jaipur)?'
-    answer: 'Poornima University (GCEC Jaipur) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Poornima University (GCEC Jaipur)?'
-    answer: 'The total course tuition fee is approximately ₹5.25 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Poornima University (GCEC Jaipur)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Sitapura & Ramchandrapura'
+  - question: >-
+      What is the average placement package at Poornima University (GCEC Jaipur)
+      in 2026-2027?
+    answer: >-
+      The verified average placement package at Poornima University (GCEC
+      Jaipur) stands at approximately ₹6.50 LPA, with top performing students
+      securing offers up to ₹18.00 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Poornima University
+      (GCEC Jaipur)?
+    answer: >-
+      Poornima University (GCEC Jaipur) accepts scores from CAT, XAT, MAT, CMAT,
+      ATMA, and State CETs followed by institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Poornima
+      University (GCEC Jaipur)?
+    answer: >-
+      The total course tuition fee is approximately ₹5.25 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Poornima University
+      (GCEC Jaipur)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Sitapura & Ramchandrapura
 state: 'Jaipur, Rajasthan'
 ---
 
-# [Poornima University (GCEC Jaipur)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Poornima University (GCEC Jaipur)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Sitapura & Ramchandrapura, Jaipur, Rajasthan** accredited with **UGC Recognized · NAAC Accredited · ACCA (UK) & CMA Integrated** offering career-focused programs in **MBA, MBA International Finance, MBA Entrepreneurship, MBA Digital Marketing**.

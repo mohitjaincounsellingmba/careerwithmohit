@@ -2,7 +2,10 @@
 title: 'SGBS Greater Noida PGDM Review 2027: Fees & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 SGBS Greater Noida PGDM review with audited ₹7.5L placements, ₹10.5L fees, CAT cutoffs, and direct admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SGBS Greater Noida PGDM review with audited ₹7.5L
+  placements, ₹10.5L fees, CAT cutoffs, and direct admission advice from Mohit
+  Jain.
 keywords:
   - sparsh global business school pgdm review 2027
   - sgbs greater noida fees structure 2027
@@ -13,26 +16,49 @@ keywords:
   - best pgdm colleges in greater noida
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Sparsh Global Business School (SGBS)?
+  - question: >-
+      What is the audited average placement package at Sparsh Global Business
+      School (SGBS)?
     answer: >-
-      The verified overall average CTC at Sparsh Global Business School (SGBS Greater Noida) stands at ₹7.50 LPA to ₹8.20 LPA. The median salary benchmark is ₹7.20 LPA, with top performers in the upper 25% securing ₹10.50 LPA and the highest domestic offer reaching ₹18.00 LPA.
-  - question: What entrance exams and cutoffs are accepted for PGDM at SGBS Greater Noida?
+      The verified overall average CTC at Sparsh Global Business School (SGBS
+      Greater Noida) stands at ₹7.50 LPA to ₹8.20 LPA. The median salary
+      benchmark is ₹7.20 LPA, with top performers in the upper 25% securing
+      ₹10.50 LPA and the highest domestic offer reaching ₹18.00 LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for PGDM at SGBS Greater
+      Noida?
     answer: >-
-      SGBS accepts scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT. The indicative cutoff threshold ranges between 60.0 and 70.0 percentile, alongside profile-based evaluation that assesses academic track record, essay writing, and personal interview performance.
-  - question: What is the complete fee structure for the PGDM program at SGBS Greater Noida?
+      SGBS accepts scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT. The
+      indicative cutoff threshold ranges between 60.0 and 70.0 percentile,
+      alongside profile-based evaluation that assesses academic track record,
+      essay writing, and personal interview performance.
+  - question: >-
+      What is the complete fee structure for the PGDM program at SGBS Greater
+      Noida?
     answer: >-
-      The total 2-year academic tuition fee for the AICTE-approved PGDM program is ₹10.50 Lakhs, payable in semester-wise installments. Optional on-campus residential hostel and dining facilities range between ₹1.25 Lakhs and ₹1.50 Lakhs per year.
+      The total 2-year academic tuition fee for the AICTE-approved PGDM program
+      is ₹10.50 Lakhs, payable in semester-wise installments. Optional on-campus
+      residential hostel and dining facilities range between ₹1.25 Lakhs and
+      ₹1.50 Lakhs per year.
   - question: Which industry specializations are offered at SGBS Greater Noida?
     answer: >-
-      SGBS offers dual specializations in Marketing Management, Financial Management, Business Analytics, Human Resource Management, International Business, Supply Chain Management, and an innovative track in ESG & Sustainable Enterprise Management.
-  - question: Is direct admission available under management quota at SGBS Greater Noida?
+      SGBS offers dual specializations in Marketing Management, Financial
+      Management, Business Analytics, Human Resource Management, International
+      Business, Supply Chain Management, and an innovative track in ESG &
+      Sustainable Enterprise Management.
+  - question: >-
+      Is direct admission available under management quota at SGBS Greater
+      Noida?
     answer: >-
-      SGBS provides merit-based profile direct evaluation seats for candidates possessing a minimum of 50% in graduation along with a valid entrance scorecard. Candidates can apply through counselor guidance for application fee waivers and profile shortlisting.
-location: 'Greater Noida'
-state: 'Uttar Pradesh'
+      SGBS provides merit-based profile direct evaluation seats for candidates
+      possessing a minimum of 50% in graduation along with a valid entrance
+      scorecard. Candidates can apply through counselor guidance for application
+      fee waivers and profile shortlisting.
+location: Greater Noida
+state: Uttar Pradesh
 ---
 
-# [Sparsh Global Business School (SGBS)](https://careerwithmohit.online/blog/sparsh-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Sparsh Global Business School (SGBS)](https://careerwithmohit.online/blog/sparsh-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier progressive business school situated in Knowledge Park-I, Greater Noida (Delhi NCR), accredited by **AICTE** and the Ministry of Education (GoI). Distinguished by its purpose-built ESG-integrated curriculum, corporate mentor-mentee framework, and entrepreneurship incubation hub.

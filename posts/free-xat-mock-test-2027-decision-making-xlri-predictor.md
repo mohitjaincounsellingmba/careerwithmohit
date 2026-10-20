@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt the free full-length XAT 2027 CBT Mock Test. 95 questions, 5 choices
-  (A–E), Decision Making caselets, VALR, QADI, and GK with XLRI Jamshedpur BM &
-  HRM percentile predictor and step-by-step solutions.
+  (A–E), Decision Making caselets, VALR, QADI.
 keywords:
   - free xat mock test 2027
   - xat 2027 online test series
@@ -41,7 +40,7 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-# Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor
+## Free XAT Mock Test 2027: Full 95-Question CBT with Decision Making & XLRI Cutoff Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

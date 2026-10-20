@@ -3,9 +3,8 @@ title: India Income Tax Slabs 2026-27 — New vs Old Regime Breakdown
 date: '2026-04-21'
 category: Jobs & Careers
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for India Income
-  Tax Slabs 2026-27 — New vs Old Regime Breakdown. Check updated fees, placement
-  records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for India Income Tax Slabs 2026-27 — New vs Old Regime B...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - income tax slabs india 2026-27
   - new tax regime slabs 2026

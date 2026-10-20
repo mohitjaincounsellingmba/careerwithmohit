@@ -5,7 +5,6 @@ category: B.Tech
 description: >-
   Find the best B.Tech engineering colleges in Ahmedabad & Gujarat 2026 with
   fees, ACPC/JEE cutoffs, placement records & direct admission options.
-  Expert-verified guide for Gujarat students.
 keywords:
   - top btech colleges in ahmedabad
   - best engineering colleges ahmedabad 2026
@@ -47,9 +46,9 @@ faqs:
       What is the fee for B.Tech at [Nirma
       University](/colleges/nirma-institute-of-management/) Ahmedabad?
     answer: >-
-      [Nirma University](/colleges/nirma-institute-of-management/) charges approximately ₹2.5
-      Lakhs per year for engineering programmes. Total programme cost is
-      approximately ₹10–11 Lakhs.
+      [Nirma University](/colleges/nirma-institute-of-management/) charges
+      approximately ₹2.5 Lakhs per year for engineering programmes. Total
+      programme cost is approximately ₹10–11 Lakhs.
 location: Ahmedabad
 state: Gujarat
 ---

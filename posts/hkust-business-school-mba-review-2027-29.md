@@ -2,9 +2,8 @@
 title: 'HKUST Business School MBA Review 2027–29: Fees in INR, Placements & Admission'
 date: '2026-04-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for HKUST Business
-  School MBA Review 2027–29: Fees in INR, Placements & Admission. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for HKUST Business School MBA Review 2027–29: Fees in IN...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - HKUST Business School MBA 2027–29
   - HKUST Business School MBA fees in INR

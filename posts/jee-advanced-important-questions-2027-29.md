@@ -4,7 +4,7 @@ date: '2026-03-14'
 description: >-
   Master JEE Advanced with our curated list of 60 high-impact questions.
   Covering 20 questions each in Physics, Chemistry, and Math with step-by-step
-  solutions for 2026 aspirants.
+  solutions...
 keywords:
   - JEE Advanced important questions 2026
   - JEE Advanced physics questions with solutions

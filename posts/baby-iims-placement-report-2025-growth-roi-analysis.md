@@ -3,8 +3,7 @@ title: 'Baby IIMs Placement Report 2025: Average Packages, Lowest CTC & ROI Anal
 date: '2026-08-15'
 description: >-
   Detailed Baby IIMs Placement Report 2025 for IIM Nagpur, Amritsar,
-  Visakhapatnam, Jammu, Sambalpur, Bodh Gaya & Sirmaur. Compare average CTC and
-  private B-school ROI.
+  Visakhapatnam, Jammu, Sambalpur, Bodh Gaya & Sirmaur.
 keywords:
   - baby iims placement report 2025
   - iim nagpur placement 2025

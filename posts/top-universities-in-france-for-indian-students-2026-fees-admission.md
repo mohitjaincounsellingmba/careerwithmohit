@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Explore top universities and business schools in France for Indian students
-  2026. Complete list with fees in INR, programs, Grandes Écoles rankings, and
-  APS post-study work visa details.
+  2026. Complete list with fees in INR, programs, Grandes Écoles rankings.
 keywords:
   - universities in France for Indian students 2026
   - study in France fees in INR

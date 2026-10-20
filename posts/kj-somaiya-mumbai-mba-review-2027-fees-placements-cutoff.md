@@ -2,7 +2,10 @@
 title: 'KJ Somaiya Mumbai MBA Review 2027: Fees & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 KJ Somaiya Mumbai MBA review with audited ₹13.50 LPA placements, ₹20.87L fees, CAT/NMAT cutoffs, and admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 KJ Somaiya Mumbai MBA review with audited ₹13.50 LPA
+  placements, ₹20.87L fees, CAT/NMAT cutoffs, and admission advice from Mohit
+  Jain.
 keywords:
   - kj somaiya mumbai mba admission 2027
   - kj somaiya fees structure 2027
@@ -15,24 +18,34 @@ keywords:
 faqs:
   - question: What is the average placement package at KJ Somaiya Mumbai in 2026-2027?
     answer: >-
-      The verified overall average CTC at K J Somaiya Institute of Management (Mumbai) stands at ₹13.50 LPA to ₹14.00 LPA across its MBA programs, with the median package benchmarked at ₹13.00 LPA. The top 10% of the batch secured an average salary of ₹20.50 LPA, and the highest domestic offer reached ₹28.25 LPA.
+      The verified overall average CTC at K J Somaiya Institute of Management
+      (Mumbai) stands at ₹13.50 LPA to ₹14.00 LPA across its MBA programs, with
+      the median package benchmarked at ₹13.00 LPA. The top 10% of the batch
+      secured an average salary of ₹20.50 LPA, and the highest domestic offer
+      reached ₹28.25 LPA.
   - question: What entrance exams are accepted for admission at KJ Somaiya Mumbai?
     answer: >-
-      KJ Somaiya accepts valid scores from CAT, XAT, CMAT, NMAT, and GMAT for its two-year full-time MBA programs.
+      KJ Somaiya accepts valid scores from CAT, XAT, CMAT, NMAT, and GMAT for
+      its two-year full-time MBA programs.
   - question: What is the total fee structure for the MBA program at KJ Somaiya Mumbai?
     answer: >-
-      The total course tuition fee for the 2-year full-time MBA program at KJ Somaiya is approximately ₹20.87 Lakhs, payable in academic semester installments.
+      The total course tuition fee for the 2-year full-time MBA program at KJ
+      Somaiya is approximately ₹20.87 Lakhs, payable in academic semester
+      installments.
   - question: What is the cutoff for KJ Somaiya Mumbai admission 2027?
     answer: >-
-      The safe qualifying cutoff for KJ Somaiya Mumbai is 83 to 86 percentile in CAT/XAT, 95+ percentile in CMAT, 222+ score in NMAT, and 600+ in GMAT.
+      The safe qualifying cutoff for KJ Somaiya Mumbai is 83 to 86 percentile in
+      CAT/XAT, 95+ percentile in CMAT, 222+ score in NMAT, and 600+ in GMAT.
   - question: Where is the KJ Somaiya campus located in Mumbai?
     answer: >-
-      KJ Somaiya operates from its sprawling 60-acre lush green residential campus in Vidyavihar East, Mumbai, Maharashtra, featuring Olympic-standard sports facilities and state-of-the-art academic complexes.
+      KJ Somaiya operates from its sprawling 60-acre lush green residential
+      campus in Vidyavihar East, Mumbai, Maharashtra, featuring Olympic-standard
+      sports facilities and state-of-the-art academic complexes.
 location: Mumbai
 state: Maharashtra
 ---
 
-# [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Sprawling 60-Acre Campus**: Established in 1981 under Somaiya Vidyavihar University, **K J Somaiya Institute of Management (Mumbai)** operates from a massive 60-acre green campus in Vidyavihar East (Mumbai), holding **NIRF Rank #63** and prestigious **AACSB global accreditation**.

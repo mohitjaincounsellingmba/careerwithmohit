@@ -2,30 +2,50 @@
 title: 'ITM Business School PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for ITM Business School (Navi Mumbai) (Kharghar, Navi Mumbai). Check updated fee structure (₹12.45 Lakhs (Total)), average placement (₹10.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for ITM Business School (Navi Mumbai)
+  (Kharghar, Navi Mumbai). Check updated fee structure (₹12.45 Lakhs (Total)).
 keywords:
-  - 'itm business school (navi mumbai) pgdm admission 2027'
-  - 'itm business school (navi mumbai) mba fees 2027'
-  - 'itm business school (navi mumbai) average placement package'
-  - 'itm business school (navi mumbai) cutoff 2026 2027'
-  - 'itm business school review 2027'
-  - 'direct admission in itm business school (navi mumbai)'
-  - 'top pgdm colleges in kharghar'
-  - 'best mba colleges in navi mumbai'
+  - itm business school (navi mumbai) pgdm admission 2027
+  - itm business school (navi mumbai) mba fees 2027
+  - itm business school (navi mumbai) average placement package
+  - itm business school (navi mumbai) cutoff 2026 2027
+  - itm business school review 2027
+  - direct admission in itm business school (navi mumbai)
+  - top pgdm colleges in kharghar
+  - best mba colleges in navi mumbai
 faqs:
-  - question: 'What is the average placement package at ITM Business School (Navi Mumbai) in 2026-2027?'
-    answer: 'The verified average placement package at ITM Business School (Navi Mumbai) stands at approximately ₹10.5 LPA, with top performing students securing offers up to ₹25.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at ITM Business School (Navi Mumbai)?'
-    answer: 'ITM Business School (Navi Mumbai) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at ITM Business School (Navi Mumbai)?'
-    answer: 'The total course tuition fee is approximately ₹12.45 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at ITM Business School (Navi Mumbai)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Kharghar'
-state: 'Navi Mumbai'
+  - question: >-
+      What is the average placement package at ITM Business School (Navi Mumbai)
+      in 2026-2027?
+    answer: >-
+      The verified average placement package at ITM Business School (Navi
+      Mumbai) stands at approximately ₹10.5 LPA, with top performing students
+      securing offers up to ₹25.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at ITM Business School
+      (Navi Mumbai)?
+    answer: >-
+      ITM Business School (Navi Mumbai) accepts scores from CAT, XAT, MAT, CMAT,
+      ATMA, and State CETs followed by institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at ITM Business
+      School (Navi Mumbai)?
+    answer: >-
+      The total course tuition fee is approximately ₹12.45 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at ITM Business School
+      (Navi Mumbai)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Kharghar
+state: Navi Mumbai
 ---
 
-# [ITM Business School (Navi Mumbai)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [ITM Business School (Navi Mumbai)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Kharghar, Navi Mumbai** accredited with **AICTE Approved · NBA Accredited · NAAC Grade A** offering career-focused programs in **PGDM**.

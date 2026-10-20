@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Chandragupt Institute of Management Patna (CIMP) (Mithapur,
-  Patna, Bihar) review for 2027 admissions. Explore audited fee structure (₹8.65
-  Lakhs (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹21.50
-  LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student
-  verdict.
+  Patna, Bihar) review for 2027 admissions.
 keywords:
   - chandragupt institute of management patna (cimp) review 2027
   - chandragupt institute of management patna (cimp) mba fees
@@ -57,7 +54,7 @@ location: Mithapur
 state: Patna
 ---
 
-# [Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

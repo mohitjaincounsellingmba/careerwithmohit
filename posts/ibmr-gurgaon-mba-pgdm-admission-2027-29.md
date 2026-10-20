@@ -6,10 +6,8 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for IBMR Group of Institutions (IBMR Gurgaon)
-  (IBMR Gurgaon). Verified fee structure (₹6.95 Lakhs for PGDM / ₹3.75 Lakhs for
-  MBA), MBA / PGDM approvals, audited placements (Avg ₹7.50 LPA, Highest ₹21.00
-  LPA), PPO stats, certifications, awards, alumni network, faculty profiles, and
-  Why Join review.
+  (IBMR Gurgaon). Verified fee structure (₹6.95 Lakhs for PGDM / ₹3.75 Lakhs
+  for...
 keywords:
   - IBMR Group of Institutions (IBMR Gurgaon) admission 2027-29
   - IBMR Gurgaon fees 2027
@@ -79,7 +77,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# IBMR Group of Institutions (IBMR Gurgaon) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## IBMR Group of Institutions (IBMR Gurgaon) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.95 Lakhs for PGDM / ₹3.75 Lakhs for MBA** (**₹3.47 Lakhs / Year (PGDM)**). Merit scholarships for CAT/MAT/CMAT percentiles and early bird applicants.

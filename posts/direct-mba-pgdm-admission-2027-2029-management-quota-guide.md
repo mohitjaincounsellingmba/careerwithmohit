@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-06'
 description: >-
   Everything you need to know about Direct MBA & PGDM Admission for 2027–2029.
-  Discover colleges accepting low CAT/MAT percentiles, profile-based selection,
-  management quota legality, fee structures, and verified colleges.
+  Discover colleges accepting low CAT/MAT percentiles, profile-based selection.
 keywords:
   - Direct MBA Admission 2027-2029
   - Direct PGDM Admission without CAT 2027
@@ -39,7 +38,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota & Eligibility Rules
+## Direct MBA & PGDM Admission 2027–2029: Low Percentile, Management Quota & Eligibility Rules
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Legality & Process**: 100% legal under UGC and AICTE institutional admission frameworks for private universities and autonomous B-Schools.

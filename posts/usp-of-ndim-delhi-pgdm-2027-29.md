@@ -5,9 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points (USPs) of NDIM Delhi for the 2027–29 PGDM
-  batch — from 100% placements and dual specialization to the AICTE-CII 'Best
-  Industry-Linked Institute' award. Find out why NDIM is the top private
-  B-school choice in South Delhi.
+  batch — from 100% placements and dual specialization to the AICTE-CII 'Best...
 keywords:
   - USP of NDIM Delhi
   - NDIM Delhi unique selling points

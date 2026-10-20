@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free IIT JEE Advanced 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 54 questions, 180 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - IIT JEE Advanced 2026 mock test free
   - jee-advanced practice paper 2026

@@ -17,8 +17,7 @@ tags:
   - GMAT Focus Edition
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - MBA admission 2027–2029
   - best MBA colleges
@@ -36,9 +35,10 @@ faqs:
       International/NRI candidates can use GMAT for the 2-year program.
   - question: What is a good GMAT Focus score for Indian B-schools?
     answer: >-
-      For top-tier schools like ISB or [IIM Ahmedabad](/colleges/iim-ahmedabad/),
-      aim for **665+ (Focus Edition)**. For colleges like IMT or GIM, a score
-      between **615-645** is usually sufficient.
+      For top-tier schools like ISB or [IIM
+      Ahmedabad](/colleges/iim-ahmedabad/), aim for **665+ (Focus Edition)**.
+      For colleges like IMT or GIM, a score between **615-645** is usually
+      sufficient.
   - question: Does XLRI accept GMAT?
     answer: >-
       XLRI accepts GMAT for its **PGDM (General Management)** program, which is

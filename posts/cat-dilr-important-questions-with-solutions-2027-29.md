@@ -2,10 +2,8 @@
 title: 'CAT DILR Important Questions with Solutions 2026: Set-Wise Practice Guide'
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for CAT DILR
-  Important Questions with Solutions 2026: Set-Wise Practice Guide. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for CAT DILR Important Questions with Solutions 2026: Se...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - cat dilr important questions with solutions
   - cat dilr practice sets with solutions 2026

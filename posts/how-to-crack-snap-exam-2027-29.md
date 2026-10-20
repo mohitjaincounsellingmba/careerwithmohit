@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Planning to crack SNAP 2026? Learn how to master the 60-minute speed test,
   score 42+ marks, and secure admission into [SIBM Pune](/colleges/sibm-pune/)
-  and SCMHRD.
+  and...
 keywords:
   - how to crack snap exam
   - crack snap 2026

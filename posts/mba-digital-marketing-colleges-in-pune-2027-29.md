@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Jobs & Careers
 description: >-
   Compare the best B-schools for MBA Digital Marketing in Pune. Get details on
-  SNAP cutoffs, fees, and placements for SIBM, SCMHRD, and PUMBA in this 2026
-  guide.
+  SNAP cutoffs, fees, and placements for SIBM, SCMHRD.
 keywords:
   - top mba digital marketing colleges in pune 2027–29
   - best digital marketing mba in pune

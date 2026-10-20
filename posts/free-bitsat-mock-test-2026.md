@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt our 100% Free BITS Pilani (BITSAT) 2026 Mock Test 2026. Realistic
-  computer-based exam simulator, 130 questions, 180 minutes, instant AI score
-  analysis, and target percentiles.
+  computer-based exam simulator, 130 questions, 180 minutes.
 keywords:
   - BITS Pilani (BITSAT) 2026 mock test free
   - bitsat practice paper 2026

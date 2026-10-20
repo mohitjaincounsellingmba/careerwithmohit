@@ -2,7 +2,9 @@
 title: 'UBS Mumbai MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 UBS Mumbai Karjat review with audited ₹10.5L placements, ₹9.5L-12.5L fees, cutoffs, and direct admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 UBS Mumbai Karjat review with audited ₹10.5L placements,
+  ₹9.5L-12.5L fees, cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - universal business school ubs mumbai review 2027
   - universal ai university mba fees 2027
@@ -13,26 +15,46 @@ keywords:
   - top mba colleges in greater mumbai
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Universal AI University (UBS Mumbai)?
+  - question: >-
+      What is the audited average placement package at Universal AI University
+      (UBS Mumbai)?
     answer: >-
-      The verified overall average CTC at Universal Business School / Universal AI University (UBS Karjat) stands at ₹10.50 LPA. The median package is benchmarked at ₹9.80 LPA, with the top 20% securing ₹15.20 LPA and international offers touching up to ₹42.00 LPA (highest domestic offer at ₹22.00 LPA).
+      The verified overall average CTC at Universal Business School / Universal
+      AI University (UBS Karjat) stands at ₹10.50 LPA. The median package is
+      benchmarked at ₹9.80 LPA, with the top 20% securing ₹15.20 LPA and
+      international offers touching up to ₹42.00 LPA (highest domestic offer at
+      ₹22.00 LPA).
   - question: What entrance exams and cutoffs are accepted for admission at UBS Mumbai?
     answer: >-
-      UBS Mumbai accepts CAT, XAT, CMAT, MAT, GMAT, and MAH MBA CET scores. The indicative cutoff threshold ranges between 70.0 and 75.0 percentile, alongside UBSSAT and a comprehensive profile evaluation (academic track record, Statement of Purpose, and personal interview).
+      UBS Mumbai accepts CAT, XAT, CMAT, MAT, GMAT, and MAH MBA CET scores. The
+      indicative cutoff threshold ranges between 70.0 and 75.0 percentile,
+      alongside UBSSAT and a comprehensive profile evaluation (academic track
+      record, Statement of Purpose, and personal interview).
   - question: What is the total fee structure for MBA and PGDM programs at UBS Mumbai?
     answer: >-
-      The 2-year academic tuition fee ranges between ₹9.50 Lakhs and ₹12.50 Lakhs depending on the specific track (AICTE PGDM, Global MBA, or Universal AI University MBA). With on-campus residential hostel and dining facilities at the green Karjat campus, the all-inclusive budget is ₹14.50 Lakhs to ₹16.80 Lakhs.
-  - question: Which global university partnerships and dual degrees are offered by UBS Mumbai?
+      The 2-year academic tuition fee ranges between ₹9.50 Lakhs and ₹12.50
+      Lakhs depending on the specific track (AICTE PGDM, Global MBA, or
+      Universal AI University MBA). With on-campus residential hostel and dining
+      facilities at the green Karjat campus, the all-inclusive budget is ₹14.50
+      Lakhs to ₹16.80 Lakhs.
+  - question: >-
+      Which global university partnerships and dual degrees are offered by UBS
+      Mumbai?
     answer: >-
-      UBS offers dual-degree pathways with Cardiff Metropolitan University (UK), University of Economics Varna (Bulgaria), and Swiss School of Management (SSM Italy), allowing students to acquire internationally recognized postgraduate management credentials.
+      UBS offers dual-degree pathways with Cardiff Metropolitan University (UK),
+      University of Economics Varna (Bulgaria), and Swiss School of Management
+      (SSM Italy), allowing students to acquire internationally recognized
+      postgraduate management credentials.
   - question: Is direct admission available under management quota at UBS Mumbai?
     answer: >-
-      Yes, candidates with a recognized bachelor's degree (minimum 50% marks) and valid national or state entrance scores can apply for merit profile-based direct evaluation seats with counselor assistance.
-location: 'Karjat'
-state: 'Greater Mumbai'
+      Yes, candidates with a recognized bachelor's degree (minimum 50% marks)
+      and valid national or state entrance scores can apply for merit
+      profile-based direct evaluation seats with counselor assistance.
+location: Karjat
+state: Greater Mumbai
 ---
 
-# [Universal Business School (UBS Mumbai / Universal AI University)](https://careerwithmohit.online/blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Universal Business School (UBS Mumbai / Universal AI University)](https://careerwithmohit.online/blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: India’s first Artificial Intelligence University and premier experiential green business school established by 60 global corporate CEOs in Karjat (Greater Mumbai). Offers AICTE-approved PGDM, global dual-degree MBAs, and specialized AI-integrated management programs.

@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: MBA
 description: >-
   Decode IIM Shortlist Criteria and CAT 2026 cutoffs for all 21 IIMs (BLACKI,
-  New, Baby IIMs). Learn Composite Score formulas, diversity points, and CAP
-  interview process.
+  New, Baby IIMs). Learn Composite Score formulas, diversity points.
 keywords:
   - IIM Shortlist Criteria 2026
   - Minimum CAT Cut Offs IIM

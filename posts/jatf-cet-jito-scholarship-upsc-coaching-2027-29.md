@@ -2,9 +2,8 @@
 title: 'JATF CET 2026: JITO Scholarship & Free UPSC Coaching for Jain Students'
 date: '2026-03-28'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for JATF CET 2026:
-  JITO Scholarship & Free UPSC Coaching for Jain Students. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for JATF CET 2026: JITO Scholarship & Free UPSC Coaching...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - JITO scholarship 2026
   - JATF CET 2026

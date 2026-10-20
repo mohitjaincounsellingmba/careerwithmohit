@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Mysore Royal Academy (MYRA School of Business), Mysuru
-  (Mysuru) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Mysuru) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - MYRA School of Business Mysuru review 2027–29
   - MYRA School of Business Mysuru placements 2027–29

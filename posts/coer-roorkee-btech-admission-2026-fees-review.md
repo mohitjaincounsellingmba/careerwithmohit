@@ -3,8 +3,7 @@ title: 'COER University (COER Roorkee) B.Tech Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at COER Roorkee (CORE)? Get the latest on JEE Main 2026
-  cutoffs, specialized technical tracks, detailed fee structure, and its ₹44 LPA
-  placement record.
+  cutoffs, specialized technical tracks, detailed fee structure.
 keywords:
   - COER Roorkee BTech admission 2026
   - College of Engineering Roorkee cutoff

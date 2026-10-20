@@ -2,10 +2,8 @@
 title: 'JEE Main College Predictor 2026: Predict Your B.Tech Admissions & Top Colleges'
 date: '2026-03-23'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for JEE Main
-  College Predictor 2026: Predict Your B.Tech Admissions & Top Colleges. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for JEE Main College Predictor 2026: Predict Your B.Tech...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - JEE Main college predictor 2026
   - B.Tech college predictor 2026

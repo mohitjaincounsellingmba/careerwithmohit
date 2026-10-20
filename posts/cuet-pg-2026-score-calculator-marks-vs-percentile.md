@@ -2,9 +2,8 @@
 title: 'CUET PG 2026 Score Calculator: Marks vs Percentile & Rank Predictor'
 date: '2026-03-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for CUET PG 2026
-  Score Calculator: Marks vs Percentile & Rank Predictor. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for CUET PG 2026 Score Calculator: Marks vs Percentile &...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - CUET PG 2026 score calculator
   - CUET PG marks vs percentile 2026

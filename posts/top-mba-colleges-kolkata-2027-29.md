@@ -3,9 +3,8 @@ title: 'Top MBA Colleges in Kolkata 2027–29 — Fees, Placements & ROI'
 date: '2026-04-21'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
-  Colleges in Kolkata 2026 — Fees, Placements & ROI. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top MBA Colleges in Kolkata 2027–29 — Fees, Placemen...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - top mba colleges in kolkata 2027–29
   - best b-schools kolkata

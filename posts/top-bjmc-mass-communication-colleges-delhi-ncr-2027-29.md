@@ -3,8 +3,7 @@ title: Top BJMC & Mass Communication Colleges in Delhi NCR 2026
 date: '2026-04-14'
 description: >-
   Looking for the best BJMC and Mass Communication colleges in Delhi NCR for
-  2026? Compare top institutes like VIPS, IIMC, Amity, and JIMS based on fees,
-  placements, and media exposure.
+  2026? Compare top institutes like VIPS, IIMC, Amity, and JIMS based on fees.
 keywords:
   - Top BJMC colleges Delhi NCR 2026
   - Best Mass Communication colleges Noida

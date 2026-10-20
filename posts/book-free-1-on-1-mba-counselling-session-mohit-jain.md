@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Schedule a free 30-minute 1-on-1 face-to-face MBA counselling session on
-  Google Meet with Mohit Jain (IIM-B & FMS certified). Live profile evaluation,
-  screen-shared cutoffs, and ROI audits for 2026-2027 admissions & career
-  guidance.
+  Google Meet with Mohit Jain (IIM-B & FMS certified).
 keywords:
   - book face to face MBA counselling
   - free 1 on 1 mba counselling online

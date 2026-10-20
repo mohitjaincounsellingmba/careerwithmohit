@@ -17,7 +17,7 @@ tags:
 description: >-
   Delhi University (DU) is considered the pinnacle for commerce students across
   India. Thousands of students dream of securing a seat in B.Com or B.Com
-  (Hons.. for 2026-2027 admissions & career guidance.
+  (Hons..
 keywords:
   - career counselling
   - admissions 2026

@@ -1,8 +1,11 @@
 ---
-title: "ITM Navi Mumbai PGDM Review 2027: Fees, Cutoff & ROI"
-date: "2026-09-27"
+title: 'ITM Navi Mumbai PGDM Review 2027: Fees, Cutoff & ROI'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 ITM Navi Mumbai PGDM review with audited ₹10.50L placements, ₹12.45L fees, cutoffs, and direct admission advice from Mohit Jain."
+description: >-
+  Read verified 2027 ITM Navi Mumbai PGDM review with audited ₹10.50L
+  placements, ₹12.45L fees, cutoffs, and direct admission advice from Mohit
+  Jain.
 keywords:
   - itm navi mumbai pgdm review 2027
   - itm kharghar fees structure 2027
@@ -13,26 +16,43 @@ keywords:
   - direct admission in itm kharghar
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at ITM Business School Navi Mumbai?
+  - question: >-
+      What is the audited average placement package at ITM Business School Navi
+      Mumbai?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at ITM Kharghar stands at ₹10.50 LPA. The median CTC is recorded at ₹9.80 LPA, with the top 20% achieving ₹14.20 LPA and peak domestic offers touching ₹22.00 LPA.
+      The verified overall average placement package across graduating PGDM
+      cohorts at ITM Kharghar stands at ₹10.50 LPA. The median CTC is recorded
+      at ₹9.80 LPA, with the top 20% achieving ₹14.20 LPA and peak domestic
+      offers touching ₹22.00 LPA.
   - question: What is the unique 5-month iConnect internship at ITM Navi Mumbai?
     answer: >-
-      Unlike conventional 8-week summer internships, ITM Business School mandates a rigorous 5-month full-time paid corporate residency known as the iConnect Internship during the second year, resulting in high pre-placement offer (PPO) conversion rates exceeding 35%.
+      Unlike conventional 8-week summer internships, ITM Business School
+      mandates a rigorous 5-month full-time paid corporate residency known as
+      the iConnect Internship during the second year, resulting in high
+      pre-placement offer (PPO) conversion rates exceeding 35%.
   - question: What is the total fee structure for the 2-year PGDM at ITM Kharghar?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at ITM Navi Mumbai is ₹12.45 Lakhs, payable across scheduled term installments. Optional residential hostel accommodation in Kharghar costs ₹2,10,000 to ₹2,40,000 per academic year.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at ITM Navi Mumbai is ₹12.45 Lakhs, payable across scheduled term
+      installments. Optional residential hostel accommodation in Kharghar costs
+      ₹2,10,000 to ₹2,40,000 per academic year.
   - question: What entrance exams and cutoffs are accepted at ITM Navi Mumbai?
     answer: >-
-      ITM Kharghar accepts scores from CAT, XAT, CMAT, MAT, GMAT, and ATMA. Safe eligibility percentiles range between 65.0% and 75.0% percentile, accompanied by an evaluation of graduation academics and Micro-Presentation Personal Interviews (MPPI).
+      ITM Kharghar accepts scores from CAT, XAT, CMAT, MAT, GMAT, and ATMA. Safe
+      eligibility percentiles range between 65.0% and 75.0% percentile,
+      accompanied by an evaluation of graduation academics and
+      Micro-Presentation Personal Interviews (MPPI).
   - question: Does ITM Navi Mumbai provide institutional scholarships for MBA aspirants?
     answer: >-
-      Yes, ITM conducts the ITM iFirst Scholarship Test, awarding tuition fee waivers ranging from 10% up to 100% based on academic merit, entrance percentiles, and performance in the nationwide scholarship screening round.
+      Yes, ITM conducts the ITM iFirst Scholarship Test, awarding tuition fee
+      waivers ranging from 10% up to 100% based on academic merit, entrance
+      percentiles, and performance in the nationwide scholarship screening
+      round.
 location: 'Kharghar, Navi Mumbai'
-state: 'Maharashtra'
+state: Maharashtra
 ---
 
-# [ITM Business School Navi Mumbai](https://careerwithmohit.online/blog/itm-navi-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Roadmap
+## [ITM Business School Navi Mumbai](https://careerwithmohit.online/blog/itm-navi-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Roadmap
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Accreditations**: Established in 1991, ITM Business School Navi Mumbai (Kharghar) is among Western India's premier private standalone business institutions. Approved by **AICTE**, accredited by the **National Board of Accreditation (NBA)**, and recognized by the **Association of Indian Universities (AIU)** with MBA equivalence.

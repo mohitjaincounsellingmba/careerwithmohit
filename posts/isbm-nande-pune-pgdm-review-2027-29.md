@@ -2,9 +2,8 @@
 title: 'ISB&M Nande Pune PGDM Review 2027–29: Fees, Placements, Admission & Cutoff'
 date: '2026-04-20'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for ISB&M Nande
-  Pune PGDM Review 2027–29: Fees, Placements, Admission & Cutoff. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for ISB&M Nande Pune PGDM Review 2027–29: Check fees, verified
+  placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - ISB&M Nande Pune review 2027–29
   - ISB&M Nande placements

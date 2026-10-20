@@ -3,8 +3,7 @@ title: Top Career Options After 12th Maths 2026 – Beyond Just Engineering
 date: '2026-03-24'
 description: >-
   Discover the best career options after 12th maths in 2026. Explore Data
-  Science, Actuarial Science, Statistics, Economics, Architecture, and more with
-  salary details.
+  Science, Actuarial Science, Statistics, Economics, Architecture.
 keywords:
   - career options after 12th maths
   - best courses after 12th standard with mathematics

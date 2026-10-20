@@ -4,9 +4,7 @@ date: '2026-03-13'
 category: Jobs & Careers
 description: >-
   Discover the wide world of finance careers — from investment banking to
-  financial planning and capital markets. This free course from Elearnmarkets is
-  the perfect starting point for any aspiring finance professional for 2026-2027
-  admissions & career guidance.
+  financial planning and capital markets.
 keywords:
   - career in finance India 2026
   - finance jobs India

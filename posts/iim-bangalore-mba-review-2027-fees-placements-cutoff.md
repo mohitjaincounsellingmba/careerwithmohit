@@ -4,8 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for IIM Bangalore (Bangalore, Karnataka). Check
-  audited fees (₹24.50 Lakhs (Total)), average placement (₹33.50 LPA), entrance
-  cutoffs (99.0+ CAT %ile), and admission tips by Mohit Jain.
+  audited fees (₹24.50 Lakhs (Total)), average placement (₹33.50 LPA).
 keywords:
   - iim bangalore mba admission 2027
   - iim bangalore fees structure 2027
@@ -45,7 +44,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-# [IIM Bangalore](/colleges/iim-bangalore/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Bangalore](/colleges/iim-bangalore/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Bangalore, Karnataka** recognized for academic rigor (NIRF Rank #2 (Management 2024) · EQUIS & AACSB Accredited) and industry-aligned specializations in **PGP (MBA) & PGP-BA**.

@@ -7,8 +7,6 @@ category: Online Degrees
 description: >-
   Honest review of LPU ([Lovely Professional
   University](/colleges/lovely-professional-university/)) Online MBA 2027–29.
-  Real fees (₹1,61,600 total), NAAC A++ rating, 11 specializations including
-  Data Science & Healthcare, LPU eConnect LMS, and placement reality.
 keywords:
   - LPU online MBA review 2027–29
   - LPU Online MBA fees 2027–29

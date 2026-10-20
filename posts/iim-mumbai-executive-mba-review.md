@@ -2,9 +2,8 @@
 title: IIM Mumbai (formerly NITIE) Executive MBA Review
 date: '2026-07-22'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for IIM Mumbai
-  (formerly NITIE) Executive MBA Review. Check updated fees, placement records,
-  real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for IIM Mumbai (formerly NITIE) Executive MBA Review: Check fees,
+  verified placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - IIM Mumbai (formerly NITIE) executive mba
   - IIM Mumbai (formerly NITIE) executive mba review

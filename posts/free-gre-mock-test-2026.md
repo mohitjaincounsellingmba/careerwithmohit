@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free GRE General Test 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 54 questions, 118 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - GRE General Test 2026 mock test free
   - gre practice paper 2026

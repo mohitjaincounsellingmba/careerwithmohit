@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Detailed DoMS IIT Roorkee MBA Placement Report 2027–29. Explore average CTC of
-  ₹17.91 LPA, median of ₹17.64 LPA, highest package of ₹24 LPA, top recruiters &
-  ROI.
+  ₹17.91 LPA, median of ₹17.64 LPA, highest package of ₹24 LPA.
 keywords:
   - doms iit roorkee mba placement report 2027–29
   - doms iit roorkee average package 2025

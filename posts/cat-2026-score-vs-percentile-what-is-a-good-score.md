@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: Exams
 description: >-
   Understand CAT 2026 Score vs Percentile mapping with section-wise marks for
-  VARC, DILR, QA. Learn what is a good raw score for 99+, 95+, and 90 percentile
-  in IIMs and top B-schools.
+  VARC, DILR, QA. Learn what is a good raw score for 99+, 95+.
 keywords:
   - CAT 2026 Score vs Percentile
   - CAT 2026 marks vs percentile

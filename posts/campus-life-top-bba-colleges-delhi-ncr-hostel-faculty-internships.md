@@ -4,8 +4,7 @@ date: '2026-05-21'
 category: BBA
 description: >-
   What is it like to study BBA in Delhi NCR? Explore our guide detailing campus
-  life, hostel facilities, faculty standards, and internships for 2026-2027
-  admissions & career guidance.
+  life, hostel facilities, faculty standards.
 keywords:
   - campus life after bba delhi
   - bba hostels delhi ncr

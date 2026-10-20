@@ -3,9 +3,7 @@ title: 'Galgotias University, Greater Noida Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Galgotias
-  University, Greater Noida. Learn about total fees, eligibility, accepted
-  entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  University, Greater Noida. Learn about total fees, eligibility.
 keywords:
   - 'Galgotias University, Greater Noida executive mba'
   - 'Galgotias University, Greater Noida executive mba review'

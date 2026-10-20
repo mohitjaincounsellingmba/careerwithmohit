@@ -1,12 +1,11 @@
 ---
 title: >-
-  PSG College of Technology / PSG Institute of Management, Coimbatore Review 2027–29: Placements, Fees, Courses & Admission
+  PSG College of Technology / PSG Institute of Management, Coimbatore Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of PSG College of Technology / PSG Institute of
-  Management, Coimbatore (Coimbatore (Peelamedu)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  Management, Coimbatore (Coimbatore (Peelamedu)) for 2026.
 keywords:
   - PSG Tech & PSGIM Coimbatore review 2027–29
   - PSG Tech & PSGIM Coimbatore placements 2027–29

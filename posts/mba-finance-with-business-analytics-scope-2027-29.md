@@ -1,11 +1,12 @@
 ---
-title: 'MBA in Finance with Business Analytics: Importance, Scope, and Careers in 2027–29'
+title: >-
+  MBA in Finance with Business Analytics: Importance, Scope, and Careers in
+  2027–29
 date: '2026-06-17'
 category: MBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - mba in finance with business analytics
   - mba finance and business analytics scope

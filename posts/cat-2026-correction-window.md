@@ -2,7 +2,9 @@
 title: 'CAT 2026 Correction Window: Dates, Editable Fields & Photo Resize Guide'
 date: '2026-09-29'
 category: Exams
-description: 'CAT 2026 Correction Window is live. Check official dates, exact editable vs non-editable fields, step-by-step form edit process, photo & signature upload guidelines, and test city change tips.'
+description: >-
+  CAT 2026 Correction Window is live. Check official dates, exact editable vs
+  non-editable fields, step-by-step form edit process.
 keywords:
   - cat 2026 correction window
   - cat correction window 2026 dates
@@ -13,23 +15,47 @@ keywords:
   - iim cat correction window link
   - cat 2026 application form edit last date
 faqs:
-  - question: 'When does the CAT 2026 correction window open and close?'
-    answer: 'The CAT 2026 application correction window opens in the last week of September 2026 (typically 3 to 4 days after registration closes) and remains active for a strict 72-hour window on iimcat.ac.in.'
-  - question: 'What fields can be edited during the CAT 2026 correction window?'
-    answer: 'Candidates are permitted to edit only three specific fields: (1) Passport-size photograph, (2) Digital signature, and (3) Test city preferences (order and selection across 6 cities).'
-  - question: 'Can I change my category, name, or date of birth in the CAT 2026 correction window?'
-    answer: 'No. Personal details including candidate name, date of birth, mobile number, email ID, reservation category (General/OBC/SC/ST/EWS), and academic marks cannot be edited during the correction window.'
-  - question: 'Is there an extra fee to edit the CAT 2026 application form?'
-    answer: 'No. The convening IIM does not charge any additional fee to re-upload photos, update signatures, or modify test city preferences during the official correction window.'
-  - question: 'What should I do if I made an error in a non-editable field like graduation percentage or category?'
-    answer: 'For category or name discrepancies, immediately write an official email to the CAT Helpdesk (cathelpdesk@iimcat.ac.in) along with your User ID and supporting documents. For academic marks errors, keep university transcripts and affidavits ready for the GD-PI verification round at individual B-schools.'
-  - question: 'What are the required dimensions for photo and signature in CAT 2026?'
-    answer: 'The photograph must be a recent color picture with a white background (30mm x 45mm, JPEG/JPG, 20 KB - 80 KB). The signature must be on plain white paper in black ink (80mm x 35mm, JPEG/JPG, 20 KB - 80 KB).'
+  - question: When does the CAT 2026 correction window open and close?
+    answer: >-
+      The CAT 2026 application correction window opens in the last week of
+      September 2026 (typically 3 to 4 days after registration closes) and
+      remains active for a strict 72-hour window on iimcat.ac.in.
+  - question: What fields can be edited during the CAT 2026 correction window?
+    answer: >-
+      Candidates are permitted to edit only three specific fields: (1)
+      Passport-size photograph, (2) Digital signature, and (3) Test city
+      preferences (order and selection across 6 cities).
+  - question: >-
+      Can I change my category, name, or date of birth in the CAT 2026
+      correction window?
+    answer: >-
+      No. Personal details including candidate name, date of birth, mobile
+      number, email ID, reservation category (General/OBC/SC/ST/EWS), and
+      academic marks cannot be edited during the correction window.
+  - question: Is there an extra fee to edit the CAT 2026 application form?
+    answer: >-
+      No. The convening IIM does not charge any additional fee to re-upload
+      photos, update signatures, or modify test city preferences during the
+      official correction window.
+  - question: >-
+      What should I do if I made an error in a non-editable field like
+      graduation percentage or category?
+    answer: >-
+      For category or name discrepancies, immediately write an official email to
+      the CAT Helpdesk (cathelpdesk@iimcat.ac.in) along with your User ID and
+      supporting documents. For academic marks errors, keep university
+      transcripts and affidavits ready for the GD-PI verification round at
+      individual B-schools.
+  - question: What are the required dimensions for photo and signature in CAT 2026?
+    answer: >-
+      The photograph must be a recent color picture with a white background
+      (30mm x 45mm, JPEG/JPG, 20 KB - 80 KB). The signature must be on plain
+      white paper in black ink (80mm x 35mm, JPEG/JPG, 20 KB - 80 KB).
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-# CAT 2026 Correction Window: Dates, Editable Fields & Photo Resize Guide
+## CAT 2026 Correction Window: Dates, Editable Fields & Photo Resize Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Window Duration:** The CAT 2026 correction window opens in late September on `iimcat.ac.in` and remains active for exactly **3 days (72 hours)**.

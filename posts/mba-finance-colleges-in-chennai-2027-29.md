@@ -4,8 +4,7 @@ date: '2026-07-16'
 category: Exams
 description: >-
   Compare the best MBA Finance colleges in Chennai. Get details on fees,
-  placements, and cutoffs for Great Lakes, IFMR GSB, LIBA, and DoMS IIT Madras
-  for 2026-2027 admissions & career guidance.
+  placements, and cutoffs for Great Lakes, IFMR GSB, LIBA.
 keywords:
   - top mba finance colleges in chennai 2027–29
   - best finance mba in chennai

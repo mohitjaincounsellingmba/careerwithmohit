@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Detailed guide to studying MBBS in Germany for Indian students in 2026. Zero
-  tuition fee public universities, Studienkolleg (M-Course), C1 German language
-  requirement, blocked account, and Approbation exam.
+  tuition fee public universities, Studienkolleg (M-Course).
 keywords:
   - mbbs in germany for indian students 2026
   - free mbbs in germany public universities

@@ -4,10 +4,8 @@ title: >-
   Cutoffs & Placement Reports
 date: '2026-08-08'
 description: >-
-  Download the 100% Free MBA Preparation Kit 2027–29-27 for CAT, XAT, NMAT, SNAP,
-  MAT & CMAT. Get instant access to complete syllabus PDFs, 4-tier percentile
-  cutoff placement reports, 100 GDPI topics, and DRCC Bihar approved MBA
-  colleges.
+  Download the 100% Free MBA Preparation Kit 2027–29-27 for CAT, XAT, NMAT,
+  SNAP, MAT & CMAT. Get instant access to complete syllabus PDFs.
 keywords:
   - Free MBA Preparation Kit 2027–29
   - Free MBA study material PDF download

@@ -4,8 +4,8 @@ date: '2026-03-28'
 category: B.Tech
 description: >-
   Discover the best colleges for B.Tech in Artificial Intelligence & Machine
-  Learning (AI & ML) in Delhi NCR offering direct admission and management quota
-  seats for 2026-2027 admissions & career guidance.
+  Learning (AI & ML) in Delhi NCR offering direct admission and management
+  quota...
 keywords:
   - direct admission B.Tech AI Delhi NCR
   - management quota B.Tech Machine Learning Noida

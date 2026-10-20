@@ -7,9 +7,7 @@ category: MBA
 description: >-
   In-depth Indian School of Business (ISB) (Hyderabad & Mohali) review for 2027
   admissions. Explore verified fee structure (₹41.50 – ₹44.00 Lakhs (inclusive
-  of tuition, accommodation & GST)), latest placements (avg ₹33.25 – ₹34.21 LPA,
-  highest ₹66.00 – ₹72.00 LPA), cutoffs (GMAT: 710+ (Classic) / 655+ (Focus
-  Edition); GRE: 325+ (No CAT/XAT)), and student verdict.
+  of...
 keywords:
   - indian school of business (isb) review 2027
   - indian school of business (isb) fees
@@ -55,7 +53,7 @@ location: Hyderabad
 state: Telangana
 ---
 
-# Indian School of Business (ISB) (Hyderabad & Mohali) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## Indian School of Business (ISB) (Hyderabad & Mohali) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via GMAT, GRE scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 850–900 Seats across Hyderabad & Mohali campuses**.

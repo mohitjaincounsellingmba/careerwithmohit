@@ -2,7 +2,9 @@
 title: 'Great Lakes Chennai MBA Review 2027: Fees & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 Great Lakes Chennai PGPM/PGDM review with audited ₹18.10L placements, ₹21.00L fees, CAT cutoffs, and expert tips from Mohit Jain.'
+description: >-
+  Read verified 2027 Great Lakes Chennai PGPM/PGDM review with audited ₹18.10L
+  placements, ₹21.00L fees, CAT cutoffs, and expert tips from Mohit Jain.
 keywords:
   - great lakes chennai mba admission 2027
   - great lakes chennai fees structure 2027
@@ -15,24 +17,35 @@ keywords:
 faqs:
   - question: What is the average placement package at Great Lakes Chennai in 2026-2027?
     answer: >-
-      The verified average placement package for the 1-year PGPM program stands at ₹18.10 LPA (with median at ₹17.50 LPA and highest domestic offer at ₹39.30 LPA). For the 2-year PGDM program, the average CTC stands at ₹15.10 LPA with a highest offer of ₹37.00 LPA.
+      The verified average placement package for the 1-year PGPM program stands
+      at ₹18.10 LPA (with median at ₹17.50 LPA and highest domestic offer at
+      ₹39.30 LPA). For the 2-year PGDM program, the average CTC stands at ₹15.10
+      LPA with a highest offer of ₹37.00 LPA.
   - question: What is the difference between PGPM and PGDM at Great Lakes Chennai?
     answer: >-
-      PGPM is an intensive 1-year fast-track program designed exclusively for professionals with 24+ months of full-time work experience. PGDM is a traditional 2-year full-time program designed for fresh graduates and candidates with 0 to 24 months of work experience.
+      PGPM is an intensive 1-year fast-track program designed exclusively for
+      professionals with 24+ months of full-time work experience. PGDM is a
+      traditional 2-year full-time program designed for fresh graduates and
+      candidates with 0 to 24 months of work experience.
   - question: What entrance exams are accepted at Great Lakes Chennai?
     answer: >-
-      For the 1-year PGPM, Great Lakes accepts CAT, XAT, and GMAT. For the 2-year PGDM, Great Lakes accepts CAT, XAT, GMAT, and CMAT scores.
+      For the 1-year PGPM, Great Lakes accepts CAT, XAT, and GMAT. For the
+      2-year PGDM, Great Lakes accepts CAT, XAT, GMAT, and CMAT scores.
   - question: What is the total fee structure at Great Lakes Chennai?
     answer: >-
-      The total course fee for the 1-year PGPM program is approximately ₹21.50 Lakhs (including residential accommodation), while the 2-year PGDM program fee is approximately ₹21.00 Lakhs (including residential accommodation).
+      The total course fee for the 1-year PGPM program is approximately ₹21.50
+      Lakhs (including residential accommodation), while the 2-year PGDM program
+      fee is approximately ₹21.00 Lakhs (including residential accommodation).
   - question: Where is the Great Lakes Chennai campus located?
     answer: >-
-      Great Lakes Chennai operates from its lush 27.5-acre LEED Platinum green residential campus located in Manamai on East Coast Road (ECR), Chennai, Tamil Nadu.
+      Great Lakes Chennai operates from its lush 27.5-acre LEED Platinum green
+      residential campus located in Manamai on East Coast Road (ECR), Chennai,
+      Tamil Nadu.
 location: Chennai
 state: Tamil Nadu
 ---
 
-# [Great Lakes Chennai](/colleges/great-lakes-chennai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [Great Lakes Chennai](/colleges/great-lakes-chennai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Analytics Leadership**: Founded in 2004 by management guru Dr. Bala V. Balachandran, **Great Lakes Institute of Management (GLIM Chennai)** operates from a 27.5-acre LEED Platinum green campus in Chennai, holding **NIRF Rank #34** and prestigious **AMBA accreditation**.

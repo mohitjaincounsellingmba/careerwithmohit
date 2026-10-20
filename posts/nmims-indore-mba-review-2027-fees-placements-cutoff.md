@@ -2,7 +2,9 @@
 title: 'NMIMS Indore MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 NMIMS Indore MBA review with audited ₹10.50L placements, ₹18.00L fees, NMAT cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 NMIMS Indore MBA review with audited ₹10.50L placements,
+  ₹18.00L fees, NMAT cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - nmims indore mba admission 2027
   - nmims indore fees structure 2027
@@ -15,24 +17,36 @@ keywords:
 faqs:
   - question: What is the average placement package at NMIMS Indore in 2026-2027?
     answer: >-
-      The verified overall average CTC at NMIMS Indore stands at ₹10.50 LPA to ₹11.20 LPA across graduating MBA cohorts. The median package is benchmarked at ₹9.80 LPA, with top performers securing domestic packages reaching up to ₹21.10 LPA in consulting, financial research, and technology sales.
+      The verified overall average CTC at NMIMS Indore stands at ₹10.50 LPA to
+      ₹11.20 LPA across graduating MBA cohorts. The median package is
+      benchmarked at ₹9.80 LPA, with top performers securing domestic packages
+      reaching up to ₹21.10 LPA in consulting, financial research, and
+      technology sales.
   - question: What entrance exam is accepted for MBA admission at NMIMS Indore?
     answer: >-
-      NMIMS Indore accepts only valid scores from the NMAT by GMAC entrance examination, followed by institutional shortlisting for Stage 2 Competency Discussion (CD) and Personal Interview (PI) rounds.
+      NMIMS Indore accepts only valid scores from the NMAT by GMAC entrance
+      examination, followed by institutional shortlisting for Stage 2 Competency
+      Discussion (CD) and Personal Interview (PI) rounds.
   - question: What is the total fee structure for the MBA program at NMIMS Indore?
     answer: >-
-      The total tuition fee for the 2-year full-time MBA program at NMIMS Indore is approximately ₹17.50 Lakhs to ₹18.00 Lakhs, payable in annual academic installments of approximately ₹8.75 Lakhs to ₹9.00 Lakhs per year.
+      The total tuition fee for the 2-year full-time MBA program at NMIMS Indore
+      is approximately ₹17.50 Lakhs to ₹18.00 Lakhs, payable in annual academic
+      installments of approximately ₹8.75 Lakhs to ₹9.00 Lakhs per year.
   - question: Where is NMIMS Indore campus located?
     answer: >-
-      NMIMS Indore is situated on a sprawling 25-acre modern residential campus located off the Super Corridor in Bada Bangarda, Indore, right in Madhya Pradesh's booming IT and commercial investment corridor.
+      NMIMS Indore is situated on a sprawling 25-acre modern residential campus
+      located off the Super Corridor in Bada Bangarda, Indore, right in Madhya
+      Pradesh's booming IT and commercial investment corridor.
   - question: What is the expected NMAT score cutoff for NMIMS Indore?
     answer: >-
-      The expected qualifying cutoff for NMIMS Indore is a scaled score of 195 to 205+ in NMAT by GMAC, along with clearing sectional cutoffs of 55+ in Quantitative Skills, Logical Reasoning, and Language Skills.
-location: Super Corridor, Indore
+      The expected qualifying cutoff for NMIMS Indore is a scaled score of 195
+      to 205+ in NMAT by GMAC, along with clearing sectional cutoffs of 55+ in
+      Quantitative Skills, Logical Reasoning, and Language Skills.
+location: 'Super Corridor, Indore'
 state: Madhya Pradesh
 ---
 
-# NMIMS Indore MBA Review 2027: Fees, Cutoff, Placements & NMAT Admission ROI
+## NMIMS Indore MBA Review 2027: Fees, Cutoff, Placements & NMAT Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Super Corridor Campus**: Located on a 25-acre modern residential campus along Indore's prestigious Super Corridor, NMIMS Indore is a premier constituent campus of **SVKM's NMIMS Deemed-to-be University**, blending Mumbai's academic rigor with central India's thriving industrial landscape.

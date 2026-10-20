@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Accurate Institute of Management &
-  Technology (AIMT) (Accurate Greater Noida). Verified fee structure (₹6.95
-  Lakhs for PGDM / ₹3.25 Lakhs for MBA), MBA / PGDM approvals, audited
-  placements (Avg ₹6.50 LPA, Highest ₹15.00 LPA), PPO stats, certifications,
-  awards, alumni network, faculty profiles, and Why Join review.
+  Technology (AIMT) (Accurate Greater Noida).
 keywords:
   - Accurate Institute of Management & Technology (AIMT) admission 2027-29
   - Accurate Greater Noida fees 2027
@@ -83,7 +80,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology (AIMT) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology (AIMT) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.95 Lakhs for PGDM / ₹3.25 Lakhs for MBA** (**₹3.47 Lakhs / Year (PGDM)**). Academic scholarships up to ₹50,000 for top entrance scorers.

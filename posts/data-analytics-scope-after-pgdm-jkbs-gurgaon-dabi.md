@@ -6,9 +6,8 @@ date: '2026-05-28'
 category: Jobs & Careers
 description: >-
   Explore the massive scope of data analytics after PGDM. Learn why the DABI
-  (Data Analytics and Business Intelligence) program at JKBS Gurgaon is the best
-  choice for aspiring analytics professionals for 2026-2027 admissions & career
-  guidance.
+  (Data Analytics and Business Intelligence) program at JKBS Gurgaon is the
+  best...
 keywords:
   - data analytics after pgdm
   - dabi program jkbs

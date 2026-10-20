@@ -6,9 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Akemi Business School (Akemi Pune).
-  Verified fee structure (₹3.15 Lakhs (Total)), MBA approvals, audited
-  placements (Avg ₹4.80 LPA, Highest ₹18.00 LPA), PPO stats, certifications,
-  awards, alumni network, faculty profiles, and Why Join review.
+  Verified fee structure (₹3.15 Lakhs (Total)), MBA approvals.
 keywords:
   - Akemi Business School admission 2027-29
   - Akemi Pune fees 2027
@@ -69,7 +67,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# Akemi Business School Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Akemi Business School Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹3.15 Lakhs (Total)** (**₹1.57 Lakhs per Year**). Government fee concessions for backward categories and merit scholarships.

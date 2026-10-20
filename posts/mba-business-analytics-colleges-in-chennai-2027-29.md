@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Compare the best B-schools for MBA Business Analytics in Chennai. Get details
-  on fees, placements, and eligibility for Great Lakes, DoMS IIT Madras, and
-  LIBA Chennai for 2026-2027 admissions & career guidance.
+  on fees, placements, and eligibility for Great Lakes, DoMS IIT Madras.
 keywords:
   - top mba business analytics colleges in chennai 2027–29
   - best business analytics mba in chennai

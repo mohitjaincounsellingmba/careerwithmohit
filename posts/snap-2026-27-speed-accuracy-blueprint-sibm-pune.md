@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-28'
 description: >-
   Master the SNAP 2026-27 speed and accuracy blueprint to crack SIBM Pune and
-  SCMHRD. Learn 60-minute question selection, negative marking avoidance, and
-  target cutoffs.
+  SCMHRD. Learn 60-minute question selection, negative marking avoidance.
 keywords:
   - SNAP 2026 speed and accuracy blueprint
   - SIBM Pune cutoff SNAP 2026

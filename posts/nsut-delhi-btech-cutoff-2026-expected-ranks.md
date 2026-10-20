@@ -3,8 +3,7 @@ title: 'NSUT Delhi B.Tech Cutoff 2026: Expected Ranks, Fees & Branch-wise Analys
 date: '2026-05-06'
 description: >-
   Planning to join NSUT Delhi? Get the latest JAC Delhi 2026 expected cutoffs
-  for CSE, CSAI, IT, and ECE. Explore fee structure, placement stats, and Delhi
-  vs Outside Delhi quota analysis.
+  for CSE, CSAI, IT, and ECE. Explore fee structure, placement stats.
 keywords:
   - NSUT Delhi BTech cutoff 2026
   - NSUT CSE closing rank 2025

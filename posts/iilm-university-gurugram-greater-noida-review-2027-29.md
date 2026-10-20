@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of IILM University, Gurugram & Greater Noida (Gurugram &
-  Greater Noida) for 2026. Check latest fee structure, flagship courses,
-  placement statistics, top recruiters, and admission process.
+  Greater Noida) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - IILM University review 2027–29
   - IILM University placements 2027–29

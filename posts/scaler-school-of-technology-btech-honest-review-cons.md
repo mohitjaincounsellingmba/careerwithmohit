@@ -4,8 +4,7 @@ date: '2026-05-03'
 category: Online Degrees
 description: >-
   Thinking of joining Scaler School of Technology for B.Tech? Read this honest
-  review highlighting the negative points, degree validity issues, and the high
-  fee structure before you decide for 2026-2027 admissions & career guidance.
+  review highlighting the negative points, degree validity issues.
 keywords:
   - scaler school of technology review
   - scaler btech cons

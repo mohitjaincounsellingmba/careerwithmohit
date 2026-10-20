@@ -5,10 +5,9 @@ title: >-
 date: '2026-05-10'
 category: Online Degrees
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Chandigarh
-  University Online MBA Review 2027–29: Fees, Specializations & Placement
-  Reality. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for Chandigarh University Online MBA Review (2026-2027): Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit
+  Jain.
 keywords:
   - Chandigarh University online MBA review 2027–29
   - CU online MBA fees 2027–29

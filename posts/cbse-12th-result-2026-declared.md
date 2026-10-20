@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-13'
 description: >-
   The CBSE Class 12 Result 2026 has been officially declared today, May 13.
-  Check your scorecard via the direct link, see the pass percentage, and learn
-  how to download your marksheet on DigiLocker.
+  Check your scorecard via the direct link, see the pass percentage.
 keywords:
   - CBSE 12th result 2026 out
   - check CBSE 12th result 2026

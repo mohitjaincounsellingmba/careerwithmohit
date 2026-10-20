@@ -2,9 +2,8 @@
 title: Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2027–29)
 date: '2026-03-26'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top MBA & PGDM
-  Colleges Under 10 Lakhs in Dehradun (Direct Admission 2026). Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MBA colleges under 10 lakhs in Dehradun
   - PGDM direct admission Dehradun 2027–29

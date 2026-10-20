@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning a BCA in Kolkata? Discover the best colleges like Heritage, IEM, and
-  St. Xavier's. Compare 2026 fees, MAKAUT admission, and verified tech placement
-  stats for East India.
+  St. Xavier's. Compare 2026 fees, MAKAUT admission.
 keywords:
   - top bca colleges in kolkata 2026
   - best bca colleges kolkata

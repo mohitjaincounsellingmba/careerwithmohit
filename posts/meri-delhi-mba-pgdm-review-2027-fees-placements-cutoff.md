@@ -2,7 +2,9 @@
 title: 'MERI Delhi MBA PGDM Review 2027: Fees, Cutoff & ROI'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 MERI Delhi MBA PGDM review with audited ₹6.80L placements, ₹3.90L-5.95L fees, CAT cutoffs, and admissions guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 MERI Delhi MBA PGDM review with audited ₹6.80L placements,
+  ₹3.90L-5.95L fees, CAT cutoffs, and admissions guidance from Mohit Jain.
 keywords:
   - meri delhi mba review 2027
   - meri janakpuri pgdm fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at MERI Delhi in 2026-2027?
     answer: >-
-      The verified overall average CTC at MERI Delhi (Janakpuri) stands at ₹6.80 LPA to ₹7.25 LPA across its graduating management cohorts. The median package is benchmarked at ₹6.50 LPA, with top performers securing domestic packages up to ₹14.00 LPA and international packages reaching ₹20.00 LPA.
+      The verified overall average CTC at MERI Delhi (Janakpuri) stands at ₹6.80
+      LPA to ₹7.25 LPA across its graduating management cohorts. The median
+      package is benchmarked at ₹6.50 LPA, with top performers securing domestic
+      packages up to ₹14.00 LPA and international packages reaching ₹20.00 LPA.
   - question: What entrance exams are accepted for MBA and PGDM at MERI Delhi?
     answer: >-
-      For the GGSIPU-affiliated MBA, MERI admits candidates through centralized counseling based on CAT scores, followed by CMAT and CET qualifiers. For the AICTE-approved PGDM, MERI accepts CAT, XAT, MAT, CMAT, and ATMA scores.
+      For the GGSIPU-affiliated MBA, MERI admits candidates through centralized
+      counseling based on CAT scores, followed by CMAT and CET qualifiers. For
+      the AICTE-approved PGDM, MERI accepts CAT, XAT, MAT, CMAT, and ATMA
+      scores.
   - question: What is the total fee structure for MBA and PGDM programs at MERI Delhi?
     answer: >-
-      The total 2-year tuition fee for the GGSIPU-affiliated MBA program is approximately ₹3.80 Lakhs to ₹3.90 Lakhs, while the autonomous AICTE-approved PGDM program costs approximately ₹5.95 Lakhs for the complete two-year duration.
+      The total 2-year tuition fee for the GGSIPU-affiliated MBA program is
+      approximately ₹3.80 Lakhs to ₹3.90 Lakhs, while the autonomous
+      AICTE-approved PGDM program costs approximately ₹5.95 Lakhs for the
+      complete two-year duration.
   - question: Is MERI Delhi affiliated with IP University or autonomous?
     answer: >-
-      MERI Delhi operates both tracks: its flagship MBA program is permanently affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), while its PGDM program is autonomous and approved by the All India Council for Technical Education (AICTE).
+      MERI Delhi operates both tracks: its flagship MBA program is permanently
+      affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), while
+      its PGDM program is autonomous and approved by the All India Council for
+      Technical Education (AICTE).
   - question: Is direct admission available at MERI Janakpuri?
     answer: >-
-      Yes. For the AICTE PGDM program and the 10% GGSIPU institutional management quota in MBA, candidates with 50%+ in graduation and valid entrance exam scores can apply for direct merit evaluation through personal interview rounds.
+      Yes. For the AICTE PGDM program and the 10% GGSIPU institutional
+      management quota in MBA, candidates with 50%+ in graduation and valid
+      entrance exam scores can apply for direct merit evaluation through
+      personal interview rounds.
 location: Janakpuri Institutional Area
 state: West Delhi
 ---
 
-# MERI Delhi Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## MERI Delhi Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Central Metro Location**: Established in 1994 in the Janakpuri Institutional Area of West Delhi, Management Education & Research Institute (MERI) is a premier NAAC Grade 'A' accredited institution offering both a **GGSIPU-affiliated MBA** and an **autonomous AICTE-approved PGDM**.

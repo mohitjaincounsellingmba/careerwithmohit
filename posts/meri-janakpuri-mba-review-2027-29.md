@@ -1,10 +1,11 @@
 ---
-title: 'MERI Janakpuri MBA Review 2027–29: Fees, Placements & Why it''s a Top ROI Choice'
+title: >-
+  MERI Janakpuri MBA Review 2027–29: Fees, Placements & Why it's a Top ROI
+  Choice
 date: '2026-03-31'
 description: >-
-  Looking for an honest MERI Janakpuri MBA Review 2027–29? Discover why MERI Delhi
-  is a top GGSIPU college with NAAC A+ grade, excellent placements (₹20 LPA
-  highest), and affordable fees. Get the 100% positive verdict here.
+  Looking for an honest MERI Janakpuri MBA Review 2027–29? Discover why MERI
+  Delhi is a top GGSIPU college with NAAC A+ grade.
 keywords:
   - MERI Janakpuri review 2027–29
   - MERI Delhi MBA fees

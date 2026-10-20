@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of SVKM’s NMIMS (Narsee Monjee Institute of Management
-  Studies) (Mumbai) for 2026. Check latest fee structure, flagship courses,
-  placement statistics, top recruiters, and admission process.
+  Studies) (Mumbai) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - NMIMS Mumbai review 2027–29
   - NMIMS Mumbai placements 2027–29

@@ -3,8 +3,7 @@ title: 'IIT Delhi B.Tech Admission 2026: Cutoffs, Fees & Placement Review'
 date: '2026-03-24'
 description: >-
   Aiming for IIT Delhi? Get the latest on JEE Advanced 2026 expected cutoffs for
-  CSE,JoSAA counselling process, detailed fee structure, and its legendary ₹2
-  Crore+ international placement record.
+  CSE,JoSAA counselling process, detailed fee structure.
 keywords:
   - IIT Delhi BTech admission 2026
   - IIT Delhi JEE Advanced cutoff

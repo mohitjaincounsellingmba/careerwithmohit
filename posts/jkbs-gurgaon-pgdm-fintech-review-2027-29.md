@@ -4,8 +4,7 @@ date: '2026-06-15'
 category: Exams
 description: >-
   A complete, honest review of the PGDM in FinTech program at JK Business School
-  (JKBS) Gurgaon for the 2027–29 batch. Check specialized fees, placements, ISDC
-  collaborations, and career opportunities.
+  (JKBS) Gurgaon for the 2027–29 batch.
 keywords:
   - JKBS Gurgaon PGDM FinTech
   - JK Business School FinTech fees

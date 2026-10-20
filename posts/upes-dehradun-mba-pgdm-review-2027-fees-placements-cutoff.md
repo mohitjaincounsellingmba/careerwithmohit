@@ -2,7 +2,9 @@
 title: 'UPES Dehradun MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 UPES Dehradun MBA review with audited ₹10.50L placements, ₹19.11L fees, cutoffs, and direct admission guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 UPES Dehradun MBA review with audited ₹10.50L placements,
+  ₹19.11L fees, cutoffs, and direct admission guidance from Mohit Jain.
 keywords:
   - upes dehradun mba review 2027
   - upes dehradun mba fees structure 2027
@@ -13,26 +15,43 @@ keywords:
   - best mba colleges in dehradun
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at UPES Dehradun School of Business?
+  - question: >-
+      What is the audited average placement package at UPES Dehradun School of
+      Business?
     answer: >-
-      The verified overall average placement package across graduating MBA cohorts at UPES Dehradun stands at ₹10.50 LPA. The median CTC is benchmarked at ₹9.50 LPA, with the top 10% securing ₹16.00 LPA and peak domestic offers reaching ₹29.00 LPA.
+      The verified overall average placement package across graduating MBA
+      cohorts at UPES Dehradun stands at ₹10.50 LPA. The median CTC is
+      benchmarked at ₹9.50 LPA, with the top 10% securing ₹16.00 LPA and peak
+      domestic offers reaching ₹29.00 LPA.
   - question: What entrance exams and cutoffs are accepted for MBA at UPES Dehradun?
     answer: >-
-      UPES accepts CAT, XAT, MAT, CMAT, and NMAT scores with cutoffs between 70.0 and 75.0 percentile. The university also conducts its own national entrance test, UPESMET, alongside personal interview evaluations.
-  - question: What is the total fee structure for the MBA program at UPES Dehradun for 2027-2029?
+      UPES accepts CAT, XAT, MAT, CMAT, and NMAT scores with cutoffs between
+      70.0 and 75.0 percentile. The university also conducts its own national
+      entrance test, UPESMET, alongside personal interview evaluations.
+  - question: >-
+      What is the total fee structure for the MBA program at UPES Dehradun for
+      2027-2029?
     answer: >-
-      The 2-year academic tuition fee for MBA programs at UPES School of Business ranges between ₹16.50 Lakhs and ₹19.11 Lakhs depending on the specialization. On-campus residential hostel and mess charges range between ₹1.80 Lakhs and ₹2.20 Lakhs per year.
+      The 2-year academic tuition fee for MBA programs at UPES School of
+      Business ranges between ₹16.50 Lakhs and ₹19.11 Lakhs depending on the
+      specialization. On-campus residential hostel and mess charges range
+      between ₹1.80 Lakhs and ₹2.20 Lakhs per year.
   - question: Which industry-specialized MBA programs are offered at UPES Dehradun?
     answer: >-
-      UPES is renowned for sector-focused programs including Oil & Gas Management, Power Management, Aviation Management, Logistics & Supply Chain Management, Business Analytics, Digital Business, and core verticals in Marketing, Finance, and Human Resources.
+      UPES is renowned for sector-focused programs including Oil & Gas
+      Management, Power Management, Aviation Management, Logistics & Supply
+      Chain Management, Business Analytics, Digital Business, and core verticals
+      in Marketing, Finance, and Human Resources.
   - question: Is direct admission available under management quota at UPES Dehradun?
     answer: >-
-      Yes, candidates with a minimum of 50% in graduation and valid national entrance or UPESMET scores can apply for merit profile-based direct evaluation seats with counselor assistance.
-location: 'Dehradun'
-state: 'Uttarakhand'
+      Yes, candidates with a minimum of 50% in graduation and valid national
+      entrance or UPESMET scores can apply for merit profile-based direct
+      evaluation seats with counselor assistance.
+location: Dehradun
+state: Uttarakhand
 ---
 
-# [UPES Dehradun (School of Business)](https://careerwithmohit.online/blog/upes-dehradun-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [UPES Dehradun (School of Business)](https://careerwithmohit.online/blog/upes-dehradun-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier multidisciplinary university in the foothills of Dehradun, Uttarakhand, accredited with **NAAC 'A' Grade** and UGC approval. Internationally acclaimed for specialized management programs in Energy, Oil & Gas, Aviation, Supply Chain, and Digital Business.

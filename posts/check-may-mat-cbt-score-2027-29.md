@@ -4,10 +4,8 @@ title: >-
   Calculator
 date: '2026-06-02'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for How to Check
-  MAT May 2026 CBT Score – Scorecard Download, Result Date & Calculator. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for How to Check MAT May 2026 CBT Score – Scorecard Down...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MAT May 2026 CBT score
   - check MAT CBT result 2026

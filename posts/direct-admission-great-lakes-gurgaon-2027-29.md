@@ -4,7 +4,7 @@ date: '2026-03-17'
 description: >-
   Discover the direct admission process for [Great Lakes
   Gurgaon](/colleges/great-lakes-gurgaon/) for 2026. Learn about the
-  profile-based selection, CAT/XAT requirements, and ROI for the 2027–29 batch.
+  profile-based selection.
 keywords:
   - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) direct admission'
   - '[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) management quota'

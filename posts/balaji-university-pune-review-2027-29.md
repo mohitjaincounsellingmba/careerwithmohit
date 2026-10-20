@@ -3,8 +3,8 @@ title: 'Sri Balaji University Pune (BIMM) Review 2027–29: Placements & Fees'
 date: '2026-03-17'
 description: >-
   Get an honest review of Sri Balaji University Pune (BIMM). Explore the 100%
-  placement record, 2025 average packages, and the unique disciplined corporate
-  training.
+  placement record, 2025 average packages, and the unique disciplined
+  corporate...
 keywords:
   - Sri Balaji University Pune review 2027–29
   - BIMM Pune placements

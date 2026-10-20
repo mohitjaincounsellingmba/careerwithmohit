@@ -7,7 +7,7 @@ category: Online Degrees
 description: >-
   Stuck in a dead-end job? Learn how to pivot industries and transition to
   high-paying managerial roles with an online MBA without losing your active
-  income for 2026-2027 admissions & career guidance.
+  income...
 keywords:
   - switch industries online MBA
   - mid career pivot online MBA

@@ -4,8 +4,7 @@ date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at IMS Ghaziabad.
   Learn about total fees, eligibility, accepted entrance exams, average
-  packages, pros, cons, and expert verdicts for 2026-2027 admissions & career
-  guidance.
+  packages.
 keywords:
   - IMS Ghaziabad executive mba
   - IMS Ghaziabad executive mba review

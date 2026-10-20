@@ -4,8 +4,7 @@ date: '2026-03-28'
 category: B.Tech
 description: >-
   Looking for direct admission in B.Tech Computer Science and Engineering (CSE)
-  in Delhi NCR? Explore top colleges under management quota, fees, placements,
-  and eligibility for 2026.
+  in Delhi NCR? Explore top colleges under management quota, fees, placements.
 keywords:
   - direct admission B.Tech CSE Delhi NCR
   - management quota B.Tech CSE Noida

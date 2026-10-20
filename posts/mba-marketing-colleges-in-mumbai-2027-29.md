@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Dreaming of Brand Management? Explore the best MBA Marketing colleges in
   Mumbai. Compare JBIMS, SPJIMR, NMIMS, and SIMSREE fees and placements for
-  2026-2027 admissions & career guidance.
+  2026-2027...
 keywords:
   - top mba marketing colleges in mumbai 2027–29
   - best marketing b-schools mumbai

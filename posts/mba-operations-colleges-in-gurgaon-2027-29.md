@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Compare the best MBA Operations colleges in Gurgaon. Explore fees, placements,
-  and eligibility details for MDI Gurgaon, Great Lakes, SOIL, and JKBS for
-  2026-2027 admissions & career guidance.
+  and eligibility details for MDI Gurgaon, Great Lakes, SOIL.
 keywords:
   - top mba operations colleges in gurgaon 2027–29
   - best operations mba in gurgaon

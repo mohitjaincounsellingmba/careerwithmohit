@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive Institute of Management, Nirma University (IMNU) (Ahmedabad,
-  Gujarat) review for 2027 admissions. Explore audited fee structure (₹12.50
-  Lakhs (Total)), latest placement packages (Avg: ₹11.20 LPA, Highest: ₹30.00
-  LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Gujarat) review for 2027 admissions.
 keywords:
   - 'institute of management, nirma university (imnu) review 2027'
   - 'institute of management, nirma university (imnu) mba fees'
@@ -62,7 +60,7 @@ location: Ahmedabad
 state: Gujarat
 ---
 
-# [Institute of Management, [Nirma University](/colleges/nirma-institute-of-management/) (IMNU)](/colleges/nirma-institute-of-management) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Institute of Management, [Nirma University](/colleges/nirma-institute-of-management/) (IMNU)](/colleges/nirma-institute-of-management) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

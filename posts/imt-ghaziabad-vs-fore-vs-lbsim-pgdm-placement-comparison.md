@@ -1,10 +1,11 @@
 ---
-title: 'IMT Ghaziabad vs FORE vs LBSIM: PGDM Placement Comparison, Fees & Cutoffs 2027–29'
+title: >-
+  IMT Ghaziabad vs FORE vs LBSIM: PGDM Placement Comparison, Fees & Cutoffs
+  2027–29
 date: '2026-09-12'
 description: >-
   In-depth comparison of Delhi NCR premier B-schools: IMT Ghaziabad vs FORE
-  School of Management vs LBSIM Delhi. Placement stats, fees, batch size, and
-  ROI analysis for 2026-2027 admissions & career guidance.
+  School of Management vs LBSIM Delhi.
 category: Certifications & Skills
 keywords:
   - imt ghaziabad vs fore vs lbsim pgdm placement comparison

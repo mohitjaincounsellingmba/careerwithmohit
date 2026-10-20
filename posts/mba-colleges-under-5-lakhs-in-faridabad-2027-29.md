@@ -4,8 +4,7 @@ date: '2026-06-05'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri for 2026-2027 admissions & career guidance.
+  colleges in Faridabad, Delhi NCR.
 keywords:
   - MBA Colleges under 5 Lakhs in Faridabad
   - affordable MBA in Faridabad

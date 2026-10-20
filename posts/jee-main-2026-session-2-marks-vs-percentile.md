@@ -2,9 +2,8 @@
 title: 'JEE Main 2026 Session 2 Marks vs Percentile Analysis: April Attempt'
 date: '2026-04-13'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for JEE Main 2026
-  Session 2 Marks vs Percentile Analysis: April Attempt. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for JEE Main 2026 Session 2 Marks vs Percentile Analysis...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - JEE Main 2026 Session 2 marks vs percentile
   - JEE Main April attempt analysis 2026

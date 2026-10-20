@@ -4,8 +4,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Achieving a 99+ percentile in CAT 2026 is about strategy, not just knowledge.
-  Learn how to use realistic mock tests and AI analysis to master the 2-hour
-  battle for the IIMs.
+  Learn how to use realistic mock tests and AI analysis to master the 2-hour...
 keywords:
   - 99 percentile cat 2026 strategy
   - best free cat mock test 2026

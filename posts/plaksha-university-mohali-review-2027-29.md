@@ -1,10 +1,11 @@
 ---
-title: 'Plaksha University, Mohali Review 2027–29: Placements, Fees, Courses & Admission'
+title: >-
+  Plaksha University, Mohali Review 2027–29: Placements, Fees, Courses &
+  Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Plaksha University, Mohali (Mohali) for 2026. Check
-  latest fee structure, flagship courses, placement statistics, top recruiters,
-  and admission process.
+  latest fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - Plaksha University Mohali review 2027–29
   - Plaksha University Mohali placements 2027–29

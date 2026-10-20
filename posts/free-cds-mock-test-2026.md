@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt our 100% Free CDS (Elementary Maths) 2026 Mock Test 2026. Realistic
-  computer-based exam simulator, 100 questions, 120 minutes, instant AI score
-  analysis, and target percentiles.
+  computer-based exam simulator, 100 questions, 120 minutes.
 keywords:
   - CDS (Elementary Maths) 2026 mock test free
   - cds practice paper 2026

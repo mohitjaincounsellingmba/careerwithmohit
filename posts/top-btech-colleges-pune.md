@@ -3,9 +3,8 @@ title: 'Top B.Tech Colleges in Pune 2026 — Fees, MHT CET Cutoff & Placements'
 date: '2026-04-21'
 category: B.Tech
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top B.Tech
-  Colleges in Pune 2026 — Fees, MHT CET Cutoff & Placements. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top B.Tech Colleges in Pune 2026 — Fees, MHT CET Cut...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - top btech colleges in pune 2026
   - best engineering colleges pune 2026

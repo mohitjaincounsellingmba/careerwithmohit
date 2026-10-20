@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Discover top MBA and PGDM colleges in Kolkata for 2027-29. Compare fee
   structures, average packages, MAT/CMAT cutoffs, and low-fee high-ROI options
-  like IISWBM.
+  like...
 keywords:
   - Top MBA Colleges in Kolkata 2027-29
   - Low Fee MBA Colleges in Kolkata ROI
@@ -39,7 +39,7 @@ location: Kolkata
 state: West Bengal
 ---
 
-# Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements & Admission Process
+## Top MBA/PGDM Colleges in Kolkata (2027-29): Low Fees, High Placements & Admission Process
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

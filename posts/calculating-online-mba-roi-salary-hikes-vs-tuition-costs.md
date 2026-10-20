@@ -3,9 +3,8 @@ title: 'Calculating Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs
 date: '2026-06-02'
 category: Online Degrees
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Calculating
-  Online MBA ROI: Average Salary Hikes vs. Total Tuition Costs. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Calculating Online MBA ROI: Average Salary Hikes vs....: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - online MBA ROI calculator
   - online MBA fees vs salary hike

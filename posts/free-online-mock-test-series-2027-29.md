@@ -3,9 +3,8 @@ title: 'Free Online Mock Test Series 2026: CAT, JEE, NEET & Govt Exams'
 date: '2026-08-22'
 category: Medical/MBBS
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Free Online
-  Mock Test Series 2026: CAT, JEE, NEET & Govt Exams. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Free Online Mock Test Series 2026: CAT, JEE, NEET & ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - free online mock tests 2026
   - best test series for cat 2026

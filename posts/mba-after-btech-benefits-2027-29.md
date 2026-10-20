@@ -3,8 +3,7 @@ title: 'MBA after B.Tech: Is it the Best Career Move in 2027–29?'
 date: '2026-03-15'
 description: >-
   Discover why an MBA after B.Tech is one of the most powerful career
-  combinations. Explore the 'Techno-Manager' profile, salary potential, and top
-  specializations for engineers for 2026-2027 admissions & career guidance.
+  combinations. Explore the 'Techno-Manager' profile, salary potential.
 keywords:
   - MBA after B.Tech benefits
   - engineering and management combination

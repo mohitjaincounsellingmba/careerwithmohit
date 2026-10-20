@@ -3,8 +3,7 @@ title: 'Top B.Tech Colleges in Delhi NCR 2026: IIT, DTU, NSUT & Best Private Opt
 date: '2026-04-13'
 description: >-
   Looking for the best engineering colleges in Delhi NCR for 2026? Compare IIT
-  Delhi, DTU, NSUT, and top private universities like Shiv Nadar and Jaypee. Get
-  insights on JEE Main cutoffs, fees, and placements.
+  Delhi, DTU, NSUT, and top private universities like Shiv Nadar and Jaypee.
 keywords:
   - Top B.Tech colleges Delhi NCR 2026
   - IIT Delhi admission 2026

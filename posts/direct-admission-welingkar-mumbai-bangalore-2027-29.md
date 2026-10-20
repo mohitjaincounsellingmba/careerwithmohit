@@ -2,9 +2,8 @@
 title: 'Direct Admission in Welingkar (WeSchool) 2026: Mumbai & Bangalore'
 date: '2026-03-17'
 description: >-
-  secure your MBA/PGDM seat at Welingkar Mumbai or Bangalore for 2027–29. Explore
-  direct admission via management quota, profile-based selection, and NRI
-  category seats.
+  secure your MBA/PGDM seat at Welingkar Mumbai or Bangalore for 2027–29.
+  Explore direct admission via management quota, profile-based selection.
 keywords:
   - direct admission in Welingkar Mumbai
   - Welingkar management quota fees

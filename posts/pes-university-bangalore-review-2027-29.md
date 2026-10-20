@@ -1,10 +1,11 @@
 ---
-title: 'PES University, Bangalore Review 2027–29: Placements, Fees, Courses & Admission'
+title: >-
+  PES University, Bangalore Review 2027–29: Placements, Fees, Courses &
+  Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of PES University, Bangalore (Bangalore) for 2026. Check
-  latest fee structure, flagship courses, placement statistics, top recruiters,
-  and admission process.
+  latest fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - PES University Bangalore review 2027–29
   - PES University Bangalore placements 2027–29

@@ -3,8 +3,8 @@ title: 'Best MBA Colleges in Delhi 2027–29: Fees, Placements & ROI Ranking'
 date: '2026-03-17'
 description: >-
   Explore the best MBA colleges in Delhi NCR 2027–29. Compare [FMS
-  Delhi](/colleges/fms-delhi/), IIT Delhi, [MDI Gurgaon](/colleges/mdi-gurgaon/),
-  and IMI by their latest average placements, fees, and ROI.
+  Delhi](/colleges/fms-delhi/), IIT Delhi, [MDI
+  Gurgaon](/colleges/mdi-gurgaon/).
 keywords:
   - best MBA colleges in Delhi 2027–29
   - top MBA colleges in Delhi NCR

@@ -6,8 +6,7 @@ date: '2026-04-10'
 category: Jobs & Careers
 description: >-
   Are you an MBA student specializing in Marketing? Learn how to pivot into
-  Digital Marketing, the most in-demand career path in 2026. Discover essential
-  skills, certifications, and career roadmaps.
+  Digital Marketing, the most in-demand career path in 2026.
 keywords:
   - MBA Marketing to Digital Marketing
   - build career in digital marketing after MBA

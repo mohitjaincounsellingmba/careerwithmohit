@@ -4,8 +4,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt our 100% Free AFCAT 2026 Mock Test 2026. Realistic computer-based exam
-  simulator, 100 questions, 120 minutes, instant AI score analysis, and target
-  percentiles.
+  simulator, 100 questions, 120 minutes, instant AI score analysis.
 keywords:
   - AFCAT 2026 mock test free
   - afcat practice paper 2026

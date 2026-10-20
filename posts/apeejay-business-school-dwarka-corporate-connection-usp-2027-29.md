@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-20'
 description: >-
   Discover Apeejay Business School (ASM Dwarka) 2026 highlights: key USPs, deep
-  corporate connections, 95%+ placement track record, AIU MBA equivalence, fee
-  structure, and admissions guide.
+  corporate connections, 95%+ placement track record, AIU MBA equivalence.
 keywords:
   - Apeejay Business School Dwarka review 2027–29
   - ASM Apeejay corporate connections

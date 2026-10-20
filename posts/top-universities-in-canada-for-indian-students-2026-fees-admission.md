@@ -4,10 +4,8 @@ title: >-
   Admission Guide
 date: '2026-05-17'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top
-  Universities in Canada for Indian Students 2026: Fees in INR, PGWP & Admission
-  Guide. Check updated fees, placement records, real cutoffs, and selection tips
-  by Mohit Jain.
+  2027 guide for Top Universities in Canada for Indian Students 2026:...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - universities in Canada for Indian students 2026
   - study in Canada fees in INR

@@ -5,7 +5,7 @@ category: BBA
 description: >-
   Confused between low-fees government BBA colleges and high-fees private
   universities? Read our comparative ROI analysis of Delhi NCR colleges for
-  2026-2027 admissions & career guidance.
+  2026-2027...
 keywords:
   - budget friendly vs premium bba
   - bba college roi delhi ncr

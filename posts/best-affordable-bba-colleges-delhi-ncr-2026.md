@@ -5,7 +5,7 @@ category: BBA
 description: >-
   Looking for affordable BBA colleges in Delhi NCR under a budget of 3 to 4
   Lakhs? Read our detailed guide on low-fees BBA colleges with great placements
-  for 2026-2027 admissions & career guidance.
+  for...
 keywords:
   - affordable bba colleges in delhi ncr
   - low fees bba colleges in delhi ncr 2026

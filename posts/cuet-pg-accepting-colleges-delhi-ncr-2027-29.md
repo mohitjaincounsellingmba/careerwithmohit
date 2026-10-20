@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-05'
 description: >-
   Looking for PG admissions in the national capital? Discover the top colleges
-  in Delhi NCR accepting CUET PG 2026 scores, including DU, JNU, Jamia, and top
-  private universities.
+  in Delhi NCR accepting CUET PG 2026 scores, including DU, JNU, Jamia.
 keywords:
   - CUET PG colleges in Delhi NCR 2026
   - Delhi University CUET PG admission

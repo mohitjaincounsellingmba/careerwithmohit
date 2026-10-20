@@ -2,7 +2,10 @@
 title: 'Imperial Business School Pune Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-10-09'
 category: MBA Admissions
-description: 'Verified 2027 admission review of Imperial Business School Pune (ISBMS Hinjawadi). Check updated PGDM fees (₹9.25L), real placement CTC, CAT/MAT/CET cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review of Imperial Business School Pune (ISBMS
+  Hinjawadi). Check updated PGDM fees (₹9.25L), real placement CTC, CAT/MAT/CET
+  cutoffs.
 keywords:
   - imperial business school pune review 2027
   - imperial school of banking and management studies pune fees
@@ -13,21 +16,48 @@ keywords:
   - best mba colleges in hinjawadi pune
   - isbms pune vs pibm pune
 faqs:
-  - question: 'What is the average placement package at Imperial Business School Pune (ISBMS) in 2026-2027?'
-    answer: 'The verified realistic median placement package at Imperial School of Banking and Management Studies (ISBMS Pune) ranges between ₹6.8 LPA and ₹7.5 LPA, with the top 25% finance batch securing packages between ₹9.5 LPA and ₹12.0 LPA, and highest packages touching ₹15.0+ LPA.'
-  - question: 'What is the total fee structure for the PGDM program at Imperial Business School Pune?'
-    answer: 'The total course tuition fee for the 2-year AICTE-approved PGDM in Financial Management at Imperial Business School (ISBMS Hinjawadi) is ₹9.25 Lakhs to ₹9.35 Lakhs, payable in 4 semester-wise installments, covering academic tuition, certifications, and financial lab modules.'
-  - question: 'Which entrance exams are accepted for admission at ISBMS Pune for the 2027 intake?'
-    answer: 'Imperial Business School Pune accepts scores from CAT, XAT, MAT, CMAT, ATMA, GMAT, and MAH MBA CET (minimum 50 to 65+ percentile), followed by an institutional profile assessment and personal interview round.'
-  - question: 'Is direct admission or profile-based evaluation available at Imperial Business School Pune?'
-    answer: 'Yes, candidates with minimum 50% graduation marks and valid national or state management entrance test scores can apply for merit and profile-based direct evaluation seats across specialized finance and analytics cohorts.'
-  - question: 'What is the core specialization and USP of Imperial Business School Pune?'
-    answer: 'ISBMS Pune operates as a specialized finance business school located in Hinjawadi, offering AICTE-approved PGDM programs infused with Artificial Intelligence, FinTech, Risk Management, Investment Banking, and Fund Accounting modules.'
-location: 'Hinjawadi'
-state: 'Pune'
+  - question: >-
+      What is the average placement package at Imperial Business School Pune
+      (ISBMS) in 2026-2027?
+    answer: >-
+      The verified realistic median placement package at Imperial School of
+      Banking and Management Studies (ISBMS Pune) ranges between ₹6.8 LPA and
+      ₹7.5 LPA, with the top 25% finance batch securing packages between ₹9.5
+      LPA and ₹12.0 LPA, and highest packages touching ₹15.0+ LPA.
+  - question: >-
+      What is the total fee structure for the PGDM program at Imperial Business
+      School Pune?
+    answer: >-
+      The total course tuition fee for the 2-year AICTE-approved PGDM in
+      Financial Management at Imperial Business School (ISBMS Hinjawadi) is
+      ₹9.25 Lakhs to ₹9.35 Lakhs, payable in 4 semester-wise installments,
+      covering academic tuition, certifications, and financial lab modules.
+  - question: >-
+      Which entrance exams are accepted for admission at ISBMS Pune for the 2027
+      intake?
+    answer: >-
+      Imperial Business School Pune accepts scores from CAT, XAT, MAT, CMAT,
+      ATMA, GMAT, and MAH MBA CET (minimum 50 to 65+ percentile), followed by an
+      institutional profile assessment and personal interview round.
+  - question: >-
+      Is direct admission or profile-based evaluation available at Imperial
+      Business School Pune?
+    answer: >-
+      Yes, candidates with minimum 50% graduation marks and valid national or
+      state management entrance test scores can apply for merit and
+      profile-based direct evaluation seats across specialized finance and
+      analytics cohorts.
+  - question: What is the core specialization and USP of Imperial Business School Pune?
+    answer: >-
+      ISBMS Pune operates as a specialized finance business school located in
+      Hinjawadi, offering AICTE-approved PGDM programs infused with Artificial
+      Intelligence, FinTech, Risk Management, Investment Banking, and Fund
+      Accounting modules.
+location: Hinjawadi
+state: Pune
 ---
 
-# Imperial Business School (ISBMS Pune) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## Imperial Business School (ISBMS Pune) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Academic Focus**: AICTE-approved, DTE-recognized specialized finance B-school—**Imperial School of Banking and Management Studies (ISBMS)**—situated in the primary IT and corporate corridor of **Hinjawadi, Pune**, delivering niche programs in **PGDM in Financial Management with Artificial Intelligence (AI)** and **FinTech Analytics**.

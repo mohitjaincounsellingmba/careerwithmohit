@@ -2,7 +2,9 @@
 title: 'SSBF Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SSBF Pune MBA review with audited ₹11.00L placements, ₹17.0L fees, SNAP 60%ile cutoffs, and admissions guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 SSBF Pune MBA review with audited ₹11.00L placements,
+  ₹17.0L fees, SNAP 60%ile cutoffs, and admissions guidance from Mohit Jain.
 keywords:
   - ssbf pune mba review 2027
   - ssbf pune fees structure 2027
@@ -15,24 +17,43 @@ keywords:
 faqs:
   - question: What is the verified average placement package at SSBF Pune for 2026-2027?
     answer: >-
-      The audited average placement package across graduating cohorts at SSBF Pune stands at ₹11.00 LPA to ₹11.20 LPA. The median salary benchmark is ₹10.40 LPA, with the top 10% securing ₹15.80 LPA, top 25% averaging ₹13.50 LPA, and the highest domestic offer reaching ₹19.60 LPA.
+      The audited average placement package across graduating cohorts at SSBF
+      Pune stands at ₹11.00 LPA to ₹11.20 LPA. The median salary benchmark is
+      ₹10.40 LPA, with the top 10% securing ₹15.80 LPA, top 25% averaging ₹13.50
+      LPA, and the highest domestic offer reaching ₹19.60 LPA.
   - question: What entrance exam and SNAP cutoff percentile are required for SSBF Pune?
     answer: >-
-      Admission to the MBA in Banking and Finance at SSBF Pune is administered exclusively through SNAP. The general category cutoff percentile benchmark is between 60.0 and 65.0 percentile, followed by Symbiosis GE-PIWAT evaluation.
-  - question: What is the complete fee structure for the MBA Banking and Finance program at SSBF Pune?
+      Admission to the MBA in Banking and Finance at SSBF Pune is administered
+      exclusively through SNAP. The general category cutoff percentile benchmark
+      is between 60.0 and 65.0 percentile, followed by Symbiosis GE-PIWAT
+      evaluation.
+  - question: >-
+      What is the complete fee structure for the MBA Banking and Finance program
+      at SSBF Pune?
     answer: >-
-      The 2-year academic tuition fee for SSBF Pune is ₹16.80 Lakhs (approx. ₹17.00 Lakhs). Including mandatory on-campus hostel and dining facilities at the Lavale hilltop campus, the total student financial budget is approximately ₹20.50 Lakhs.
+      The 2-year academic tuition fee for SSBF Pune is ₹16.80 Lakhs (approx.
+      ₹17.00 Lakhs). Including mandatory on-campus hostel and dining facilities
+      at the Lavale hilltop campus, the total student financial budget is
+      approximately ₹20.50 Lakhs.
   - question: Which financial career roles do SSBF Pune graduates typically secure?
     answer: >-
-      Graduates secure specialist roles including Credit Risk Analyst, Wealth Manager, Corporate Banking Relationship Manager, Equity Research Associate, Treasury Management Executive, Financial Planning Analyst, and Investment Banking Operations Specialist.
-  - question: Can non-commerce students apply for MBA in Banking and Finance at SSBF Pune?
+      Graduates secure specialist roles including Credit Risk Analyst, Wealth
+      Manager, Corporate Banking Relationship Manager, Equity Research
+      Associate, Treasury Management Executive, Financial Planning Analyst, and
+      Investment Banking Operations Specialist.
+  - question: >-
+      Can non-commerce students apply for MBA in Banking and Finance at SSBF
+      Pune?
     answer: >-
-      Yes, graduates from any discipline (Engineering, Science, Arts, Management, Commerce) with a minimum of 50% marks (45% for SC/ST) are eligible to appear for SNAP and apply for SSBF Pune. Bridge courses in financial accounting are conducted during initial orientation.
-location: 'Pune'
-state: 'Maharashtra'
+      Yes, graduates from any discipline (Engineering, Science, Arts,
+      Management, Commerce) with a minimum of 50% marks (45% for SC/ST) are
+      eligible to appear for SNAP and apply for SSBF Pune. Bridge courses in
+      financial accounting are conducted during initial orientation.
+location: Pune
+state: Maharashtra
 ---
 
-# [SSBF Pune](https://careerwithmohit.online/blog/ssbf-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SSBF Pune](https://careerwithmohit.online/blog/ssbf-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier banking and finance management school established under Symbiosis International (Deemed University) at Lavale, Pune, dedicated exclusively to cultivating specialized leaders in retail banking, wealth management, corporate credit, treasury, and FinTech.

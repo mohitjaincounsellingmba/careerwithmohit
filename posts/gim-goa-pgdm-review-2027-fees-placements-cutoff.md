@@ -2,7 +2,9 @@
 title: 'GIM Goa PGDM Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 GIM Goa PGDM review with audited ₹15.00 LPA placements, ₹19.50L fees, CAT/XAT/CMAT cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 GIM Goa PGDM review with audited ₹15.00 LPA placements,
+  ₹19.50L fees, CAT/XAT/CMAT cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - gim goa pgdm admission 2027
   - gim goa fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at GIM Goa in 2026-2027?
     answer: >-
-      The verified overall average CTC at GIM Goa stands at ₹15.00 LPA to ₹15.60 LPA across all PGDM programs (with the Big Data Analytics BDA cohort averaging ₹17.20 LPA). The median package is benchmarked at ₹14.80 LPA, and the highest domestic offer reached ₹30.17 LPA (international offers up to ₹60.40 LPA).
+      The verified overall average CTC at GIM Goa stands at ₹15.00 LPA to ₹15.60
+      LPA across all PGDM programs (with the Big Data Analytics BDA cohort
+      averaging ₹17.20 LPA). The median package is benchmarked at ₹14.80 LPA,
+      and the highest domestic offer reached ₹30.17 LPA (international offers up
+      to ₹60.40 LPA).
   - question: What entrance exams are accepted for admission at GIM Goa?
     answer: >-
-      GIM Goa accepts valid scores from CAT, XAT, GMAT, and CMAT (CMAT accepted for PGDM Core, BDA, and BIFS programs).
+      GIM Goa accepts valid scores from CAT, XAT, GMAT, and CMAT (CMAT accepted
+      for PGDM Core, BDA, and BIFS programs).
   - question: What is the total fee structure for the PGDM program at GIM Goa?
     answer: >-
-      The total course fee for the 2-year full-time residential PGDM at GIM Goa is approximately ₹19.50 Lakhs to ₹20.50 Lakhs, which covers academic tuition, air-conditioned hillside hostel accommodations, digital database subscriptions, and case materials.
+      The total course fee for the 2-year full-time residential PGDM at GIM Goa
+      is approximately ₹19.50 Lakhs to ₹20.50 Lakhs, which covers academic
+      tuition, air-conditioned hillside hostel accommodations, digital database
+      subscriptions, and case materials.
   - question: What is the cutoff for GIM Goa admission 2027?
     answer: >-
-      The qualifying cutoff for PGDM Core at GIM Goa is 85 to 90 percentile in CAT or XAT (and 98+ percentile in CMAT). GIM also conducts an Achiever's Round offering profile-based direct interview shortlisting for candidates with stellar achievements without rigid test cutoffs.
+      The qualifying cutoff for PGDM Core at GIM Goa is 85 to 90 percentile in
+      CAT or XAT (and 98+ percentile in CMAT). GIM also conducts an Achiever's
+      Round offering profile-based direct interview shortlisting for candidates
+      with stellar achievements without rigid test cutoffs.
   - question: What specialized PGDM programs are offered at GIM Goa?
     answer: >-
-      GIM Goa offers PGDM (Core), PGDM in Healthcare Management (HCM - recognized as one of India's premier healthcare programs), PGDM in Big Data Analytics (BDA), and PGDM in Banking, Insurance & Financial Services (BIFS).
+      GIM Goa offers PGDM (Core), PGDM in Healthcare Management (HCM -
+      recognized as one of India's premier healthcare programs), PGDM in Big
+      Data Analytics (BDA), and PGDM in Banking, Insurance & Financial Services
+      (BIFS).
 location: Sanquelim
 state: Goa
 ---
 
-# [GIM Goa](/colleges/gim-goa/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [GIM Goa](/colleges/gim-goa/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Double Crown Prestige**: Established in 1993, **Goa Institute of Management (GIM Goa)** operates from a picturesque 50-acre hillside campus in Sanquelim (Goa), holding **NIRF Rank #37** with prestigious dual **AACSB and AMBA accreditations**.

@@ -3,8 +3,7 @@ title: 'Sushant University Gurugram B.Tech Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at Sushant University (Ansal) Gurugram? Get the latest on
-  JEE Main/SUEE 2026 cutoffs, specialized design and tech tracks, detailed fee
-  structure, and its ₹26 LPA highest package.
+  JEE Main/SUEE 2026 cutoffs, specialized design and tech tracks.
 keywords:
   - Sushant University BTech admission 2026
   - Sushant University Gurugram cutoff

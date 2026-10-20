@@ -3,8 +3,7 @@ title: 'Direct Admission in TAPMI Manipal 2026: Mgmt Quota & Interview Guide'
 date: '2026-03-17'
 description: >-
   Planning for TAPMI Manipal 2026? Learn about direct admission pathways, the
-  management quota selection process, latest fees, and placement reports for the
-  2027–29 batch.
+  management quota selection process, latest fees.
 keywords:
   - TAPMI Manipal direct admission
   - TAPMI management quota seats

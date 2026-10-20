@@ -3,9 +3,8 @@ title: '10 Proven Tips to Crack CAT 2026: The IIM Topper''s Secret'
 date: '2026-05-03'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for 10 Proven Tips
-  to Crack CAT 2026: The IIM Topper's Secret. Check updated fees, placement
-  records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for 10 Proven Tips to Crack CAT 2026: Check fees, verified
+  placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - tips to crack cat 2026
   - cat preparation strategy 2026

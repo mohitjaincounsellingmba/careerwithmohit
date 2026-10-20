@@ -2,7 +2,9 @@
 title: 'FORE School Delhi PGDM Review 2027: Fees & Placements'
 date: '2026-10-17'
 category: MBA
-description: 'Honest FORE School Delhi review 2027: 85+ CAT/XAT cutoffs, ₹18L tuition, ₹15.2 LPA audited placements, and South Delhi campus reality check by Mohit Jain.'
+description: >-
+  Honest FORE School Delhi review 2027: 85+ CAT/XAT cutoffs, ₹18L tuition, ₹15.2
+  LPA audited placements, and South Delhi campus reality check by Mohit Jain.
 keywords:
   - fore school delhi pgdm review 2027
   - fore school of management fees 2027
@@ -11,21 +13,42 @@ keywords:
   - fore pgdm core vs ib vs fm
   - fore school of management review
 faqs:
-  - question: 'What is the real average placement package at FORE School of Management in 2026-2027?'
-    answer: 'The verified overall average CTC at FORE School of Management stands at ₹15.20 LPA to ₹16.00 LPA, with a median package of ₹14.50 LPA. The top 10% of the batch secured ₹22.80 LPA, and the highest domestic offer reached ₹30.00 LPA.'
-  - question: 'What is the total fee structure for PGDM at FORE School of Management?'
-    answer: 'The 2-year academic course fee is approximately ₹18.00 Lakhs, payable in semester installments. In addition, students budget roughly ₹3.50L to ₹4.50L for private PG accommodation and meals in South Delhi.'
-  - question: 'Does FORE School of Management accept CMAT or MAT scores?'
-    answer: 'No. FORE strictly accepts valid scores from CAT, XAT, and GMAT. CMAT, MAT, NMAT, and ATMA scores are not considered for admission to any of its four AICTE-approved PGDM programs.'
-  - question: 'Are there on-campus hostels at FORE School of Management Delhi?'
-    answer: 'No, FORE operates a non-residential campus in Qutub Institutional Area. Students reside in nearby private student apartments or PGs in Katwaria Sarai, Ber Sarai, and Hauz Khas.'
-  - question: 'Can I get direct admission in FORE School of Management through Management Quota?'
-    answer: 'No. FORE School does not offer any management quota, donation, or institutional direct seats. Admission is strictly merit-based through CAT/XAT cutoffs, Business Awareness Quiz (BAQ), Extempore, and Personal Interviews.'
+  - question: >-
+      What is the real average placement package at FORE School of Management in
+      2026-2027?
+    answer: >-
+      The verified overall average CTC at FORE School of Management stands at
+      ₹15.20 LPA to ₹16.00 LPA, with a median package of ₹14.50 LPA. The top 10%
+      of the batch secured ₹22.80 LPA, and the highest domestic offer reached
+      ₹30.00 LPA.
+  - question: What is the total fee structure for PGDM at FORE School of Management?
+    answer: >-
+      The 2-year academic course fee is approximately ₹18.00 Lakhs, payable in
+      semester installments. In addition, students budget roughly ₹3.50L to
+      ₹4.50L for private PG accommodation and meals in South Delhi.
+  - question: Does FORE School of Management accept CMAT or MAT scores?
+    answer: >-
+      No. FORE strictly accepts valid scores from CAT, XAT, and GMAT. CMAT, MAT,
+      NMAT, and ATMA scores are not considered for admission to any of its four
+      AICTE-approved PGDM programs.
+  - question: Are there on-campus hostels at FORE School of Management Delhi?
+    answer: >-
+      No, FORE operates a non-residential campus in Qutub Institutional Area.
+      Students reside in nearby private student apartments or PGs in Katwaria
+      Sarai, Ber Sarai, and Hauz Khas.
+  - question: >-
+      Can I get direct admission in FORE School of Management through Management
+      Quota?
+    answer: >-
+      No. FORE School does not offer any management quota, donation, or
+      institutional direct seats. Admission is strictly merit-based through
+      CAT/XAT cutoffs, Business Awareness Quiz (BAQ), Extempore, and Personal
+      Interviews.
 location: Qutub Institutional Area
 state: New Delhi
 ---
 
-# FORE School of Management Delhi Review 2027: Fees, Cutoff, Placements & True ROI
+## FORE School of Management Delhi Review 2027: Fees, Cutoff, Placements & True ROI
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Institutional Pedigree & Location**: Founded in 1981, **FORE School of Management** is situated in South Delhi’s Qutub Institutional Area (flanked by IIFT and ISI), ranked **#53 in NIRF** with SAQS and NBA accreditations.
@@ -200,3 +223,11 @@ The average summer internship stipend stands at ₹75,000 for the two-month peri
 
 ### 5. Can final-year graduation students apply for FORE?
 Yes, students appearing for their final undergraduate semester examinations in mid-2027 can apply provisionally, provided they achieve a minimum of 50% aggregate marks upon graduation.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

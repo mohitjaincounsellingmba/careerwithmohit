@@ -3,9 +3,8 @@ title: 'Top Law Colleges in Kolkata 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
 category: Law
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top Law
-  Colleges in Kolkata 2026 — Fees, Placements & Admission. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top Law Colleges in Kolkata 2026 — Fees, Placements ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - top law colleges in kolkata 2026
   - best law colleges kolkata
@@ -23,7 +22,8 @@ faqs:
     answer: >-
       Previously CU had its separate entrance, but for many Law colleges,
       admission is now primarily based on **12th-grade merit or WB-state level
-      admission tests**. Always check the latest CU Gazette for the 2027–2029 intake.
+      admission tests**. Always check the latest CU Gazette for the 2027–2029
+      intake.
   - question: What is the fee for Law in St. Xavier's Kolkata?
     answer: >-
       St. Xavier's University (New Town) charges around ₹1 Lakh to ₹1.5 Lakhs

@@ -1,8 +1,13 @@
 ---
-title: 'CAT 2026 Marks vs Percentile (Slot 1, 2 & 3 Breakdown): Safe Score for 99+ %ile'
+title: >-
+  CAT 2026 Marks vs Percentile (Slot 1, 2 & 3 Breakdown): Safe Score for 99+
+  %ile
 date: '2026-10-10'
 category: Exams
-description: 'Comprehensive CAT 2026 Marks vs Percentile analysis across Slot 1, Slot 2 & Slot 3. Check section-wise raw scores, normalization scaling & safe cutoffs for IIM BLACKI.'
+description: >-
+  Comprehensive CAT 2026 Marks vs Percentile analysis across Slot 1, Slot 2 &
+  Slot 3. Check section-wise raw scores, normalization scaling & safe cutoffs
+  for...
 keywords:
   - cat 2026 marks vs percentile
   - cat marks vs percentile slot wise
@@ -13,14 +18,30 @@ keywords:
   - cat raw score vs scaled score 2026
   - iim call cutoff marks 2027
 faqs:
-  - question: 'What raw score is needed for a 99 percentile in CAT 2026?'
-    answer: 'A raw score between 82 and 94 marks out of 198 (approx 29 to 32 net correct questions) typically secures a 99.0+ percentile in CAT 2026, qualifying candidates for top IIMs and premier B-schools like FMS, MDI, and SPJIMR.'
-  - question: 'How does normalization affect marks vs percentile across Slot 1, Slot 2, and Slot 3?'
-    answer: 'IIMs apply an equipercentile equating formula to adjust raw scores. If Slot 3 is slightly tougher than Slot 1, a raw score of 80 in Slot 3 might be scaled up to 83.5, while an easier slot may experience minimal scaling adjustments.'
-  - question: 'What is the minimum safe sectional score for IIM call cutoffs?'
-    answer: 'General category aspirants targeting IIM BLACKI require at least 75 to 85 sectional percentile in VARC, DILR, and QA, corresponding to roughly 24-30 marks in VARC, 15-20 marks in DILR, and 16-22 marks in QA.'
-  - question: 'Can I calculate my normalized percentile instantly from my response sheet?'
-    answer: 'Yes! You can paste your official digialm response sheet URL or page source directly into our free CAT 2026 Score Calculator & Percentile Predictor to compute your slot-normalized scaled score.'
+  - question: What raw score is needed for a 99 percentile in CAT 2026?
+    answer: >-
+      A raw score between 82 and 94 marks out of 198 (approx 29 to 32 net
+      correct questions) typically secures a 99.0+ percentile in CAT 2026,
+      qualifying candidates for top IIMs and premier B-schools like FMS, MDI,
+      and SPJIMR.
+  - question: >-
+      How does normalization affect marks vs percentile across Slot 1, Slot 2,
+      and Slot 3?
+    answer: >-
+      IIMs apply an equipercentile equating formula to adjust raw scores. If
+      Slot 3 is slightly tougher than Slot 1, a raw score of 80 in Slot 3 might
+      be scaled up to 83.5, while an easier slot may experience minimal scaling
+      adjustments.
+  - question: What is the minimum safe sectional score for IIM call cutoffs?
+    answer: >-
+      General category aspirants targeting IIM BLACKI require at least 75 to 85
+      sectional percentile in VARC, DILR, and QA, corresponding to roughly 24-30
+      marks in VARC, 15-20 marks in DILR, and 16-22 marks in QA.
+  - question: Can I calculate my normalized percentile instantly from my response sheet?
+    answer: >-
+      Yes! You can paste your official digialm response sheet URL or page source
+      directly into our free CAT 2026 Score Calculator & Percentile Predictor to
+      compute your slot-normalized scaled score.
 location: Delhi NCR
 state: Delhi NCR
 ---

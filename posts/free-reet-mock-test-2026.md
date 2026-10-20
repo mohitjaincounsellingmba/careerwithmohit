@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Attempt our 100% Free REET Level 1 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 150 questions, 150 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - REET Level 1 2026 mock test free
   - reet practice paper 2026

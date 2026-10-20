@@ -4,10 +4,8 @@ title: >-
   Admission
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Manipal
-  University Jaipur (MUJ) Review 2027–29: Placements, Fees, Courses & Admission.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for Manipal University Jaipur (MUJ) Review 2027–29: Plac...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Manipal University Jaipur (MUJ) review 2027–29
   - Manipal University Jaipur (MUJ) placements 2027–29

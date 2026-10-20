@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Complete K.J. Somaiya Institute of Management (KJSIM) Mumbai MBA Placement
-  Report 2025. Explore audited average package of ₹12.70 LPA, top BFSI
-  recruiters & cutoffs.
+  Report 2025. Explore audited average package of ₹12.70 LPA.
 keywords:
   - kj somaiya mba placement report 2027–29
   - kjsim mumbai average package 2025

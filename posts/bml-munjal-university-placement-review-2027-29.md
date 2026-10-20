@@ -6,8 +6,7 @@ date: '2026-03-22'
 description: >-
   Is BML Munjal worth it for MBA? Discover [BML Munjal
   University](/colleges/bml-munjal-gurgaon/) 2025 placement stats, including
-  highest packages of ₹33.6 LPA and average packages for the top 10% of the
-  batch.
+  highest packages of ₹33.6 LPA...
 keywords:
   - >-
     [BML Munjal University](/colleges/bml-munjal-gurgaon/) MBA placements

@@ -27,9 +27,9 @@ import { MockTestsClient } from "@/components/MockTestsClient";
 import { ALL_MOCK_TESTS } from "@/data/mockTests";
 
 export const metadata: Metadata = {
-  title: "Free Mock Test Series 2026-2027: 50+ Practice Papers & Online CBT Simulation",
+  title: "Free Mock Tests: CAT, XAT, NMAT & SNAP CBT",
   description:
-    "Practice 100% free online mock tests for CAT 2026, XAT 2027, SNAP 2026, NMAT 2026, CMAT 2027, ATMA 2026, GMAT Focus, JEE Main, NEET, and Study Abroad exams. Simulate real exam conditions with instant AI score analysis and percentile predictions.",
+    "Practice 100% free online CBT mock tests for CAT 2026, XAT 2027, SNAP, NMAT & CMAT. Instant score analysis and percentile predictor by Mohit Jain.",
   keywords: [
     "free mock test series 2026",
     "cat mock test 2026",

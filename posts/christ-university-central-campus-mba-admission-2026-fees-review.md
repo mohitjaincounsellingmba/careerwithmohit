@@ -4,10 +4,8 @@ title: >-
   Placements
 date: '2026-03-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Christ
-  University (Central Campus) Bangalore MBA Admission 2027–2029: Fees &
-  Placements. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for Christ University (Central Campus) Bangalore MBA Adm...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - >-
     [Christ University Bangalore](/colleges/christ-university-bangalore/) MBA

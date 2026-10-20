@@ -6,8 +6,7 @@ date: '2026-05-16'
 category: Medical/MBBS
 description: >-
   The NTA has officially announced June 21, 2026, as the re-exam date for NEET
-  UG 2026. Check the latest updates on timing, admit card release, and
-  preparation strategy.
+  UG 2026. Check the latest updates on timing, admit card release.
 keywords:
   - neet ug 2026 re exam date
   - neet 2026 new exam date

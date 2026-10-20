@@ -2,8 +2,8 @@
 title: 'JKBS Gurgaon BCA Review 2027–29: Fees, Placements & Admission Guide'
 date: '2026-03-30'
 description: >-
-  Is JK Business School good for BCA? Check our honest JKBS Gurgaon BCA Review 2027–29. Get details on BCA fees, Gurugram University affiliation, placements,
-  and the MSG selection process.
+  Is JK Business School good for BCA? Check our honest JKBS Gurgaon BCA Review
+  2027–29. Get details on BCA fees, Gurugram University affiliation, placements.
 keywords:
   - JKBS Gurgaon BCA Review 2027–29
   - JK Business School BCA fees

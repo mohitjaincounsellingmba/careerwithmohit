@@ -4,8 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for SIMS Pune (Pune, Maharashtra). Check audited fees
-  (₹12.00 Lakhs (Total)), average placement (₹11.00 LPA), entrance cutoffs
-  (77.0+ SNAP %ile), and admission tips by Mohit Jain.
+  (₹12.00 Lakhs (Total)), average placement (₹11.00 LPA).
 keywords:
   - sims pune mba admission 2027
   - sims pune fees structure 2027
@@ -45,7 +44,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# [SIMS Pune](/blog/sims-pune-executive-mba-review/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [SIMS Pune](/blog/sims-pune-executive-mba-review/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Pune, Maharashtra** recognized for academic rigor (NAAC A++ Grade · SIU Khadki, Pune) and industry-aligned specializations in **MBA (Defence Personnel Wards & Open Category)**.

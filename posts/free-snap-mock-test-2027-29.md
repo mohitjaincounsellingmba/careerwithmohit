@@ -4,8 +4,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt our 100% Free SNAP Dec 2026 Mock Test 2026. Realistic computer-based
-  exam simulator, 60 questions, 60 minutes, instant AI score analysis, and
-  target percentiles.
+  exam simulator, 60 questions, 60 minutes, instant AI score analysis.
 keywords:
   - SNAP Dec 2026 mock test free
   - snap practice paper 2026

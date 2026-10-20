@@ -6,8 +6,7 @@ date: '2026-05-23'
 category: Online Degrees
 description: >-
   Looking for MBA admission without CAT in Delhi NCR for 2027–29? Check out top
-  colleges accepting XAT, MAT, CMAT, NMAT, SNAP, or offering direct merit-based
-  admission.
+  colleges accepting XAT, MAT, CMAT, NMAT, SNAP.
 keywords:
   - MBA Admission Without CAT in Delhi NCR
   - mba admission without cat 2027–29

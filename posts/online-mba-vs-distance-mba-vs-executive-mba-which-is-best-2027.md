@@ -6,8 +6,7 @@ date: '2026-09-17'
 category: Online Degrees
 description: >-
   Confused between Online MBA, Distance MBA (ODL), and Executive MBA? Compare
-  differences in LMS classes, exam modes, corporate recognition, fee structures
-  & salary ROI for 2027.
+  differences in LMS classes, exam modes, corporate recognition.
 keywords:
   - difference between online mba distance mba executive mba
   - online mba vs distance mba
@@ -44,7 +43,7 @@ faqs:
       and exposure to contemporary business software and analytics tools.
 ---
 
-# Online MBA vs Distance MBA vs Executive MBA: Which is Best for Working Professionals in 2027?
+## Online MBA vs Distance MBA vs Executive MBA: Which is Best for Working Professionals in 2027?
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Online MBA (Digital First)**: 100% virtual delivery with live weekend masterclasses, LMS mobile apps, AI-proctored home exams, and active placement assistance (Fees: ₹62K–₹2.2L).

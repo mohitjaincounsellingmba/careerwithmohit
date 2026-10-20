@@ -5,9 +5,7 @@ title: >-
 date: '2026-07-21'
 description: >-
   Complete guide for MBBS admission 2026 at Sharda University (School of Medical
-  Sciences & Research - SMSR), Greater Noida. Check latest fee structure, NEET
-  UG expected cutoff ranks, seat matrix, application process, and campus
-  hospital reviews.
+  Sciences & Research - SMSR), Greater Noida.
 keywords:
   - Sharda Medical College Greater Noida MBBS admission 2026
   - Sharda Medical College Greater Noida fee structure

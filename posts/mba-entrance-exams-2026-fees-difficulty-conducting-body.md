@@ -3,8 +3,7 @@ title: 'MBA Entrance Exams 2027–29: Cost, Difficulty, and Conducting Bodies'
 date: '2026-03-25'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - MBA entrance exams 2027–29 India
   - CAT 2026 application fee

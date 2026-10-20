@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for GD Goenka University (School of
-  Management) (GD Goenka Gurgaon). Verified fee structure (₹8.50 Lakhs (Total)),
-  MBA approvals, audited placements (Avg ₹6.50 LPA, Highest ₹17.50 LPA), PPO
-  stats, certifications, awards, alumni network, faculty profiles, and Why Join
-  review.
+  Management) (GD Goenka Gurgaon). Verified fee structure (₹8.50 Lakhs (Total)).
 keywords:
   - GD Goenka University (School of Management) admission 2027-29
   - GD Goenka Gurgaon fees 2027
@@ -79,7 +76,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management) Admission 2027-29: Fees, MBA, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.50 Lakhs (Total)** (**₹4.25 Lakhs per Year**). Merit scholarships up to 100% tuition waiver on CAT/MAT/CUET scores.

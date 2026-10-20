@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-12'
 description: >-
   Discover the complete list of 14+ GGSIPU MBA colleges across Delhi, Noida, and
-  Greater Noida. Detailed comparison of fees, placements, and recruiters for
-  USMS, MAIT, JIMS, AIMT, and more for 2026-2027 admissions & career guidance.
+  Greater Noida. Detailed comparison of fees, placements.
 keywords:
   - IPU CET MBA colleges 2027–29
   - GGSIPU MBA fees

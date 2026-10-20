@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: Exams
 description: >-
   Looking for top MBA colleges for 50-60 percentile in CAT 2027–29? Discover
-  verified AICTE/UGC colleges in Delhi NCR, Pune, and Bangalore offering high
-  ROI and direct admission.
+  verified AICTE/UGC colleges in Delhi NCR, Pune.
 keywords:
   - Top MBA Colleges for 50-60 Percentile in CAT
   - MBA colleges for 50 percentile in CAT 2027–29

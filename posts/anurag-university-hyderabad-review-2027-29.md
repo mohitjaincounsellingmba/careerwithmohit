@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Anurag University, Hyderabad (Hyderabad (Venkatapur /
-  Ghatkesar)) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  Ghatkesar)) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Anurag University Hyderabad review 2027–29
   - Anurag University Hyderabad placements 2027–29

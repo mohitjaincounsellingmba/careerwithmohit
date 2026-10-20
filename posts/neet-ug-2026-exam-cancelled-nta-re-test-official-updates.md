@@ -6,8 +6,7 @@ date: '2026-05-12'
 category: Medical/MBBS
 description: >-
   Breaking News: NTA has officially cancelled the NEET UG 2026 examination held
-  on May 3. Get the latest details on the re-exam dates, CBI inquiry, and what
-  aspirants should do next.
+  on May 3. Get the latest details on the re-exam dates, CBI inquiry.
 keywords:
   - neet ug 2026 cancelled
   - neet 2026 re-test date

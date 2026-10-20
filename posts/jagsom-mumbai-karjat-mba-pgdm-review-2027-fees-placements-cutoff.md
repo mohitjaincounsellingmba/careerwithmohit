@@ -1,8 +1,11 @@
 ---
-title: "JAGSoM Mumbai Karjat PGDM Review 2027: Fees, Cutoff & ROI"
-date: "2026-09-27"
+title: 'JAGSoM Mumbai Karjat PGDM Review 2027: Fees, Cutoff & ROI'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 JAGSoM Mumbai Karjat review with audited ₹10.80L placements, ₹11.50L fees, AACSB pedigree, and admission advice from Mohit Jain."
+description: >-
+  Read verified 2027 JAGSoM Mumbai Karjat review with audited ₹10.80L
+  placements, ₹11.50L fees, AACSB pedigree, and admission advice from Mohit
+  Jain.
 keywords:
   - jagsom mumbai karjat pgdm review 2027
   - jagsom karjat fees structure 2027
@@ -13,26 +16,44 @@ keywords:
   - direct admission in jagsom mumbai
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at JAGSoM Mumbai (Karjat Campus)?
+  - question: >-
+      What is the audited average placement package at JAGSoM Mumbai (Karjat
+      Campus)?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at JAGSoM Mumbai (Karjat) stands at ₹10.80 LPA. The median CTC is recorded at ₹10.00 LPA, with the top 25% securing ₹14.50 LPA and peak domestic offers touching ₹24.00 LPA.
+      The verified overall average placement package across graduating PGDM
+      cohorts at JAGSoM Mumbai (Karjat) stands at ₹10.80 LPA. The median CTC is
+      recorded at ₹10.00 LPA, with the top 25% securing ₹14.50 LPA and peak
+      domestic offers touching ₹24.00 LPA.
   - question: What is the international accreditation status of JAGSoM?
     answer: >-
-      JAGSoM (Jagdish Sheth School of Management, formerly IFIM) is among an elite group of Indian business schools accredited by the prestigious AACSB International (Association to Advance Collegiate Schools of Business), placing it in the top 5% of business schools globally.
+      JAGSoM (Jagdish Sheth School of Management, formerly IFIM) is among an
+      elite group of Indian business schools accredited by the prestigious AACSB
+      International (Association to Advance Collegiate Schools of Business),
+      placing it in the top 5% of business schools globally.
   - question: What is the complete fee structure for the 2-year PGDM at JAGSoM Mumbai?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at JAGSoM Greater Mumbai (Karjat) is ₹11.50 Lakhs. The mandatory residential campus living accommodation and mess package is approximately ₹3,50,000 for the two-year duration.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at JAGSoM Greater Mumbai (Karjat) is ₹11.50 Lakhs. The mandatory
+      residential campus living accommodation and mess package is approximately
+      ₹3,50,000 for the two-year duration.
   - question: What is the T-Shaped curriculum model pioneered by JAGSoM?
     answer: >-
-      JAGSoM pioneered the 'T-Shaped' curriculum, which combines broad foundation management competence (the horizontal bar) with deep functional domain specializations in Fintech, MarTech, Digital Business, or HR (the vertical bar), complemented by experiential 'Request for Problem' (RFP) corporate consulting projects.
+      JAGSoM pioneered the 'T-Shaped' curriculum, which combines broad
+      foundation management competence (the horizontal bar) with deep functional
+      domain specializations in Fintech, MarTech, Digital Business, or HR (the
+      vertical bar), complemented by experiential 'Request for Problem' (RFP)
+      corporate consulting projects.
   - question: What entrance exams and cutoffs are accepted at JAGSoM Greater Mumbai?
     answer: >-
-      JAGSoM accepts CAT, XAT, GMAT, CMAT, MAT, and its proprietary JAGMAT test. Competitive cutoff thresholds range between 70.0% and 75.0% percentile, accompanied by an evaluation of academic credentials and Personal Interviews.
+      JAGSoM accepts CAT, XAT, GMAT, CMAT, MAT, and its proprietary JAGMAT test.
+      Competitive cutoff thresholds range between 70.0% and 75.0% percentile,
+      accompanied by an evaluation of academic credentials and Personal
+      Interviews.
 location: 'Karjat, Greater Mumbai'
-state: 'Maharashtra'
+state: Maharashtra
 ---
 
-# [JAGSoM Greater Mumbai (Karjat Campus)](https://careerwithmohit.online/blog/jagsom-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Blueprint
+## [JAGSoM Greater Mumbai (Karjat Campus)](https://careerwithmohit.online/blog/jagsom-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & AACSB Pedigree**: Jagdish Sheth School of Management (JAGSoM, formerly IFIM) holds the prestigious **AACSB International** accreditation—a distinction held by fewer than 25 business schools in India. The Karjat campus delivers this global standard in Greater Mumbai.

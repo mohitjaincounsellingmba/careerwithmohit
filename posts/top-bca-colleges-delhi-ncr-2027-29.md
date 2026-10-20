@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: B.Tech
 description: >-
   Planning to pursue BCA in Delhi NCR? Compare the best BCA colleges for 2026.
-  Detailed guide on GGSIPU (MSI, VIPS), Bennett, and Amity with fee and
-  placement info.
+  Detailed guide on GGSIPU (MSI, VIPS), Bennett.
 keywords:
   - top bca colleges in delhi ncr 2026
   - best bca colleges delhi ncr

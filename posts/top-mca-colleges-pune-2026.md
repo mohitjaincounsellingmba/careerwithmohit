@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Confused about MCA in Pune? Explore the best colleges like PUMBA DoCS,
-  MIT-WPU, and SICSR. Compare 2026 fees, MAH MCA CET cutoffs, and verified
-  placement stats.
+  MIT-WPU, and SICSR. Compare 2026 fees, MAH MCA CET cutoffs.
 keywords:
   - top mca colleges in pune 2026
   - best mca colleges pune

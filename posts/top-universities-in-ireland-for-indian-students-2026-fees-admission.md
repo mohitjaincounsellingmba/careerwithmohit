@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Ireland for Indian students 2026. All
-  fees in INR, QQI accredited institutions, programs, 2-year stay-back visa, and
-  Ireland admission requirements listed.
+  fees in INR, QQI accredited institutions, programs, 2-year stay-back visa.
 keywords:
   - universities in Ireland for Indian students 2026
   - study in Ireland fees in INR

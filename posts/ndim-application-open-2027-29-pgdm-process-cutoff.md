@@ -6,9 +6,7 @@ date: '2026-09-22'
 category: Exams
 description: >-
   NDIM Delhi PGDM application is now open for the 2027-29 batch (32nd Intake).
-  Complete step-by-step admission process, eligibility criteria,
-  CAT/XAT/MAT/CMAT/ATMA cutoffs, verified ₹14.00 Lakhs fee structure, ₹2.5 Cr
-  scholarships, and GD-PI preparation tips.
+  Complete step-by-step admission process, eligibility criteria.
 keywords:
   - NDIM application open 2027-29
   - NDIM Delhi PGDM admission process 2027-29
@@ -71,7 +69,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# NDIM Application Open 2027-29: PGDM Complete Admission Process, Eligibility, Exam Cutoffs, Fees & GD-PI Guide
+## NDIM Application Open 2027-29: PGDM Complete Admission Process, Eligibility, Exam Cutoffs, Fees & GD-PI Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Application Status & Intake**: Applications are **NOW OPEN** for the **32nd Batch (2027–2029)** of NDIM Delhi’s flagship AICTE-approved, NBA-accredited, and AIU MBA-equivalent 2-year full-time PGDM program.

@@ -2,8 +2,8 @@
 title: 'MBA PGDM College Intake 2027–29: Direct Admission Seat Matrix & Guide'
 date: '2026-03-28'
 description: >-
-  Confused about MBA seats? Get the complete list of MBA/PGDM college intake for 2027–29, including direct admission seats in top B-schools of Delhi NCR, Pune,
-  and Bangalore.
+  Confused about MBA seats? Get the complete list of MBA/PGDM college intake for
+  2027–29, including direct admission seats in top B-schools of Delhi NCR, Pune.
 keywords:
   - MBA college intake 2027–29
   - PGDM seats intake 2027–29

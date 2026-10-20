@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-30'
 description: >-
   Maharashtra MBA CET 2027–29 Result is OUT on May 30, 2026. Download your MAH
-  MBA/MMS CET scorecard from cetcell.mahacet.org, check your percentile, and
-  know what score gets you into JBIMS, SIMSREE & PUMBA.
+  MBA/MMS CET scorecard from cetcell.mahacet.org, check your percentile.
 keywords:
   - maharastra cet result
   - maharashtra mba cet result 2027–29
@@ -28,8 +27,8 @@ keywords:
 faqs:
   - question: When was the Maharashtra MBA CET 2027–29 Result declared?
     answer: >-
-      The MAH MBA CET 2027–29 result was officially declared on **May 30, 2026** by
-      the State Common Entrance Test Cell, Maharashtra.
+      The MAH MBA CET 2027–29 result was officially declared on **May 30, 2026**
+      by the State Common Entrance Test Cell, Maharashtra.
   - question: Where can I download the Maharashtra CET result 2026?
     answer: >-
       Visit **[cetcell.mahacet.org](https://cetcell.mahacet.org)** and log in

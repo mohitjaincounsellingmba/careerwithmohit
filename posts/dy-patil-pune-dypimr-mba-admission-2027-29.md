@@ -7,10 +7,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Dr. D.Y. Patil Institute of Management &
-  Research (DYPIMR) (DY Patil Pune). Verified fee structure (₹6.50 Lakhs for
-  PGDM / ₹3.50 Lakhs for MBA), MBA / PGDM approvals, audited placements (Avg
-  ₹8.00 LPA, Highest ₹24.00 LPA), PPO stats, certifications, awards, alumni
-  network, faculty profiles, and Why Join review.
+  Research (DYPIMR) (DY Patil Pune).
 keywords:
   - Dr. D.Y. Patil Institute of Management & Research (DYPIMR) admission 2027-29
   - DY Patil Pune fees 2027
@@ -74,7 +71,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# Dr. D.Y. Patil Institute of Management & Research (DYPIMR) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Dr. D.Y. Patil Institute of Management & Research (DYPIMR) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.50 Lakhs for PGDM / ₹3.50 Lakhs for MBA** (**₹3.25 Lakhs / Year (PGDM)**). State government fee reimbursement schemes (EBC/SC/ST/OBC) for eligible candidates.

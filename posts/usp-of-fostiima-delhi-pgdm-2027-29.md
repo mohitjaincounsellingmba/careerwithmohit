@@ -6,8 +6,7 @@ date: '2026-09-30'
 category: MBA
 description: >-
   Complete 2027–29 admission guide highlighting the 10 real USPs of FOSTIIMA
-  Business School Delhi. Conceived by IIM-A alumni, ₹11.95L fee, ₹11.15 LPA average
-  package & top ROI.
+  Business School Delhi. Conceived by IIM-A alumni, ₹11.95L fee.
 keywords:
   - USP of FOSTIIMA Delhi
   - FOSTIIMA Delhi PGDM admission 2027-29
@@ -35,8 +34,8 @@ faqs:
       Yes, FOSTIIMA Business School was founded in 2007 by the 1973 alumni batch
       of IIM Ahmedabad. The acronym FOSTIIMA stands for 'Friends Of
       Seventy-Three IIM Ahmedabad.' The board of trustees, core leadership, and
-      academic mentors are all IIM-A alumni who curate the curriculum benchmarked
-      to IIM standards.
+      academic mentors are all IIM-A alumni who curate the curriculum
+      benchmarked to IIM standards.
   - question: What is the total fee for the PGDM 2027–29 batch at FOSTIIMA Delhi?
     answer: >-
       The total course fee for the 2-year full-time PGDM program at FOSTIIMA
@@ -57,21 +56,23 @@ faqs:
       evaluation.
   - question: Does FOSTIIMA Delhi provide Pre-Placement Offers (PPOs) and internships?
     answer: >-
-      Yes, FOSTIIMA has a mandatory 8–10 week corporate summer internship module.
-      Over 25% of students convert their internships into Pre-Placement Offers
-      (PPOs) with leading recruiters like Deloitte, KPMG, HDFC Bank, ICICI Bank,
-      and Asian Paints.
-  - question: How can students get direct admission guidance or scholarships for FOSTIIMA?
+      Yes, FOSTIIMA has a mandatory 8–10 week corporate summer internship
+      module. Over 25% of students convert their internships into Pre-Placement
+      Offers (PPOs) with leading recruiters like Deloitte, KPMG, HDFC Bank,
+      ICICI Bank, and Asian Paints.
+  - question: >-
+      How can students get direct admission guidance or scholarships for
+      FOSTIIMA?
     answer: >-
       Candidates can apply through the official portal or connect with Senior
-      MBA Admission Consultant Mohit Jain (+91 9560020771) for profile evaluation,
-      GD-PI preparation strategies, and merit scholarship eligibility checks up
-      to ₹1.5 Lakhs.
+      MBA Admission Consultant Mohit Jain (+91 9560020771) for profile
+      evaluation, GD-PI preparation strategies, and merit scholarship
+      eligibility checks up to ₹1.5 Lakhs.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-# USP of FOSTIIMA Delhi PGDM Admission 2027-29: 10 Reasons Why This IIM-A Alumni B-School Stands Out
+## USP of FOSTIIMA Delhi PGDM Admission 2027-29: 10 Reasons Why This IIM-A Alumni B-School Stands Out
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Heritage**: **FOSTIIMA Business School** in **Dwarka, West Delhi** is the only private B-school founded, funded, and managed by the 1973 batch of **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** alumni, replicating IIM-grade case-study pedagogy.

@@ -3,8 +3,7 @@ title: 'JITO Education Loan for Jain Students (2026): JELP & SEED Scheme Guide'
 date: '2026-03-28'
 description: >-
   Everything you need to know about the JITO Education Loan (JELP) and SEED
-  interest-free loan schemes for Jain students in 2026. Check eligibility,
-  documents, and application process.
+  interest-free loan schemes for Jain students in 2026.
 keywords:
   - JITO education loan
   - JELP scheme details

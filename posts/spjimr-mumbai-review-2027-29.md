@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of S.P. Jain Institute of Management and Research
-  (SPJIMR) (Mumbai) for 2026. Check latest fee structure, flagship courses,
-  placement statistics, top recruiters, and admission process.
+  (SPJIMR) (Mumbai) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - SPJIMR Mumbai review 2027–29
   - SPJIMR Mumbai placements 2027–29

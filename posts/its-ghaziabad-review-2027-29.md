@@ -6,8 +6,7 @@ date: '2026-08-03'
 category: Exams
 description: >-
   Comprehensive 2026 review of ITS Ghaziabad (Mohan Nagar) covering MBA/PGDM fee
-  structures, highest and average placements (₹6.50 LPA), entrance exam cutoffs,
-  ROI analysis, and direct admission details.
+  structures, highest and average placements (₹6.50 LPA), entrance exam cutoffs.
 keywords:
   - ITS Ghaziabad (Mohan Nagar) review 2027–29
   - ITS Ghaziabad (Mohan Nagar) mba fees
@@ -44,7 +43,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# ITS Ghaziabad (Mohan Nagar) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## ITS Ghaziabad (Mohan Nagar) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

@@ -4,7 +4,7 @@ date: '2026-08-22'
 description: >-
   Master the NMAT by GMAC pattern, sectional timings, and the 'No Negative
   Marking' trick. Practice our adaptive free NMAT mock test to crack NMIMS
-  Mumbai for 2026-2027 admissions & career guidance.
+  Mumbai for...
 keywords:
   - nmat mock test free
   - free nmat mock test 2026

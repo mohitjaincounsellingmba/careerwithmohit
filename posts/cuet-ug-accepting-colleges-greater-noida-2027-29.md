@@ -3,8 +3,7 @@ title: 'Top CUET UG Accepting Colleges in Greater Noida 2026: Detailed Admission
 date: '2026-04-05'
 description: >-
   Planning your UG in Greater Noida with CUET 2026 scores? Explore best colleges
-  in Greater Noida like Sharda, Galgotias, and Bennett for Arts, Commerce, and
-  Tech.
+  in Greater Noida like Sharda, Galgotias, and Bennett for Arts, Commerce.
 keywords:
   - CUET UG Greater Noida 2026
   - CUET colleges in Greater Noida

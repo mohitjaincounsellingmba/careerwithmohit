@@ -3,8 +3,7 @@ title: 'Top CUET UG Colleges in Delhi NCR 2026: List, Rankings, and Admission Gu
 date: '2026-03-15'
 description: >-
   Discover the best colleges in Delhi NCR accepting CUET UG 2026 scores. Explore
-  top DU North and South Campus colleges, central universities, and private
-  institutions for BBA, BCA, and B.Com.
+  top DU North and South Campus colleges, central universities.
 keywords:
   - top CUET UG colleges Delhi NCR
   - CUET UG 2026

@@ -6,9 +6,7 @@ date: '2026-05-03'
 category: B.Tech
 description: >-
   Choosing the right city for your engineering degree is crucial for your
-  career. Compare Bangalore, Hyderabad, Delhi NCR, Pune, and Chennai based on
-  top colleges, job opportunities, and salary packages for 2026-2027 admissions
-  & career guidance.
+  career. Compare Bangalore, Hyderabad, Delhi NCR, Pune.
 keywords:
   - best city for btech in india
   - btech in bangalore vs hyderabad

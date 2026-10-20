@@ -2,9 +2,8 @@
 title: 'Top 10 MBA Colleges in Delhi NCR 2027–29: Fees, Cutoffs, and Placements'
 date: '2026-05-10'
 description: >-
-  Discover the top 10 MBA colleges in Delhi NCR for 2027–29. Get verified details
-  on FMS, [MDI Gurgaon](/colleges/mdi-gurgaon/), IIFT, IMT Ghaziabad, average
-  placements, fees, and entrance exams.
+  Discover the top 10 MBA colleges in Delhi NCR for 2027–29. Get verified
+  details on FMS, [MDI Gurgaon](/colleges/mdi-gurgaon/), IIFT, IMT Ghaziabad.
 keywords:
   - top 10 mba colleges in delhi ncr 2027–29
   - best mba colleges in delhi ncr

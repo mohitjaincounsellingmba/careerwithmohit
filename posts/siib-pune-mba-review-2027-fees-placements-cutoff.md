@@ -2,7 +2,9 @@
 title: 'SIIB Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SIIB Pune MBA review with audited ₹13.12L placements, ₹19.6L fees, SNAP 93%ile cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SIIB Pune MBA review with audited ₹13.12L placements,
+  ₹19.6L fees, SNAP 93%ile cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - siib pune mba review 2027
   - siib pune fees structure 2027
@@ -15,24 +17,45 @@ keywords:
 faqs:
   - question: What is the verified average placement package at SIIB Pune for 2026-2027?
     answer: >-
-      The audited average placement package across graduating cohorts at SIIB Pune stands at ₹13.12 LPA. The median CTC is ₹12.50 LPA, with the top 10% securing ₹18.80 LPA, top 25% averaging ₹16.50 LPA, and the highest international offer touching ₹39.00 LPA (highest domestic offer at ₹22.28 LPA).
+      The audited average placement package across graduating cohorts at SIIB
+      Pune stands at ₹13.12 LPA. The median CTC is ₹12.50 LPA, with the top 10%
+      securing ₹18.80 LPA, top 25% averaging ₹16.50 LPA, and the highest
+      international offer touching ₹39.00 LPA (highest domestic offer at ₹22.28
+      LPA).
   - question: What are the program-wise SNAP cutoff percentiles for SIIB Pune admission?
     answer: >-
-      For the flagship MBA in International Business (IB), the SNAP cutoff is 93.0+ percentile. For the MBA in Agri-Operations / Agri-Business (AB), the cutoff is approximately 82.0 to 85.0 percentile. For the MBA in Energy & Environment (E&E), the SNAP cutoff benchmark ranges between 75.0 and 78.0 percentile.
+      For the flagship MBA in International Business (IB), the SNAP cutoff is
+      93.0+ percentile. For the MBA in Agri-Operations / Agri-Business (AB), the
+      cutoff is approximately 82.0 to 85.0 percentile. For the MBA in Energy &
+      Environment (E&E), the SNAP cutoff benchmark ranges between 75.0 and 78.0
+      percentile.
   - question: What is the complete fee structure for MBA programs at SIIB Pune?
     answer: >-
-      The 2-year academic tuition fee is ₹19.60 Lakhs for MBA (IB), and approximately ₹14.80 Lakhs to ₹16.20 Lakhs for MBA (Agri-Business) and MBA (Energy & Environment). Including mandatory residential hostel and mess charges at Hinjawadi campus, total budgets range between ₹18.50 Lakhs and ₹23.80 Lakhs.
-  - question: Which specializations and electives are available under MBA International Business at SIIB?
+      The 2-year academic tuition fee is ₹19.60 Lakhs for MBA (IB), and
+      approximately ₹14.80 Lakhs to ₹16.20 Lakhs for MBA (Agri-Business) and MBA
+      (Energy & Environment). Including mandatory residential hostel and mess
+      charges at Hinjawadi campus, total budgets range between ₹18.50 Lakhs and
+      ₹23.80 Lakhs.
+  - question: >-
+      Which specializations and electives are available under MBA International
+      Business at SIIB?
     answer: >-
-      Under MBA-IB, students specialize in Marketing, Finance, Supply Chain & Operations, or Human Resource Management, with integrated modules covering global trade logistics, EXIM documentation, cross-border mergers, foreign exchange hedging, and multinational business strategy.
+      Under MBA-IB, students specialize in Marketing, Finance, Supply Chain &
+      Operations, or Human Resource Management, with integrated modules covering
+      global trade logistics, EXIM documentation, cross-border mergers, foreign
+      exchange hedging, and multinational business strategy.
   - question: How does SIIB Pune compare against SIBM Pune and SCMHRD?
     answer: >-
-      SIBM Pune is the top-tier general flagship (98.5+ %ile, ₹28.0L avg), and SCMHRD dominates Human Resources and Infrastructure Management (97+ %ile, ₹23.7L avg). SIIB Pune is the specialized leader for International Trade, Global Supply Chains, Agri-Business, and ESG/Energy consulting (93+ %ile, ₹13.12L avg).
-location: 'Pune'
-state: 'Maharashtra'
+      SIBM Pune is the top-tier general flagship (98.5+ %ile, ₹28.0L avg), and
+      SCMHRD dominates Human Resources and Infrastructure Management (97+ %ile,
+      ₹23.7L avg). SIIB Pune is the specialized leader for International Trade,
+      Global Supply Chains, Agri-Business, and ESG/Energy consulting (93+ %ile,
+      ₹13.12L avg).
+location: Pune
+state: Maharashtra
 ---
 
-# [SIIB Pune](https://careerwithmohit.online/blog/siib-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SIIB Pune](https://careerwithmohit.online/blog/siib-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier constituent institute of Symbiosis International (Deemed University) located inside the Hinjawadi InfoTech Park in Pune, established in 1992 to pioneer specialized postgraduate education in International Business (IB), Agri-Business Management (AB), and Energy & Environment (E&E).

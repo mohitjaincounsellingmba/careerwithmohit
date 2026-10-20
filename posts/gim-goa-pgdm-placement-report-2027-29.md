@@ -4,9 +4,8 @@ title: >-
   ₹15.30 LPA, Highest ₹32.20 LPA & BDA Surge
 date: '2026-08-15'
 description: >-
-  Detailed Goa Institute of Management (GIM) PGDM Placement Report 2027–29. Explore
-  average package of ₹15.30 LPA, highest of ₹32.20 LPA, Big Data Analytics
-  (BDA), fees & cutoffs.
+  Detailed Goa Institute of Management (GIM) PGDM Placement Report 2027–29.
+  Explore average package of ₹15.30 LPA, highest of ₹32.20 LPA.
 keywords:
   - gim goa pgdm placement report 2027–29
   - gim goa average package 2025
@@ -17,9 +16,9 @@ keywords:
 faqs:
   - question: What was the average and highest package at GIM Goa in 2025?
     answer: >-
-      For the PGDM batch of 2027–29, Goa Institute of Management (GIM) recorded an
-      institutional high average package of INR 15.30 LPA, a median CTC of INR
-      14.80 LPA, and a highest package of INR 32.20 LPA, maintaining 100%
+      For the PGDM batch of 2027–29, Goa Institute of Management (GIM) recorded
+      an institutional high average package of INR 15.30 LPA, a median CTC of
+      INR 14.80 LPA, and a highest package of INR 32.20 LPA, maintaining 100%
       placement.
   - question: How did the specialized PGDM in Big Data Analytics (BDA) perform?
     answer: >-

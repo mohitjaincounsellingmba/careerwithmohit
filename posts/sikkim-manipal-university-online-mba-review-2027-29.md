@@ -6,8 +6,7 @@ date: '2026-05-10'
 category: Online Degrees
 description: >-
   Honest review of Sikkim Manipal University (SMU) online MBA 2027–29. Know real
-  fees (₹1,00,000–₹1,20,000), dual specializations, NAAC A+ status, and who
-  should choose SMU over costlier alternatives.
+  fees (₹1,00,000–₹1,20,000), dual specializations, NAAC A+ status.
 keywords:
   - Sikkim Manipal University online MBA review 2027–29
   - SMU online MBA fees 2027–29

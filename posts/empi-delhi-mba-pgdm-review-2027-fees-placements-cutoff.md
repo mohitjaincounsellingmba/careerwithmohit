@@ -2,30 +2,48 @@
 title: 'EMPI Business School PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for EMPI Business School (Chattarpur, South Delhi). Check updated fee structure (₹9.85 Lakhs (Total)), average placement (₹6.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for EMPI Business School (Chattarpur, South
+  Delhi). Check updated fee structure (₹9.85 Lakhs (Total)).
 keywords:
-  - 'empi business school pgdm admission 2027'
-  - 'empi business school mba fees 2027'
-  - 'empi business school average placement package'
-  - 'empi business school cutoff 2026 2027'
-  - 'empi business school review 2027'
-  - 'direct admission in empi business school'
-  - 'top pgdm colleges in chattarpur'
-  - 'best mba colleges in south delhi'
+  - empi business school pgdm admission 2027
+  - empi business school mba fees 2027
+  - empi business school average placement package
+  - empi business school cutoff 2026 2027
+  - empi business school review 2027
+  - direct admission in empi business school
+  - top pgdm colleges in chattarpur
+  - best mba colleges in south delhi
 faqs:
-  - question: 'What is the average placement package at EMPI Business School in 2026-2027?'
-    answer: 'The verified average placement package at EMPI Business School stands at approximately ₹6.5 LPA, with top performing students securing offers up to ₹12.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at EMPI Business School?'
-    answer: 'EMPI Business School accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at EMPI Business School?'
-    answer: 'The total course tuition fee is approximately ₹9.85 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at EMPI Business School?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Chattarpur'
-state: 'South Delhi'
+  - question: >-
+      What is the average placement package at EMPI Business School in
+      2026-2027?
+    answer: >-
+      The verified average placement package at EMPI Business School stands at
+      approximately ₹6.5 LPA, with top performing students securing offers up to
+      ₹12.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at EMPI Business
+      School?
+    answer: >-
+      EMPI Business School accepts scores from CAT, XAT, MAT, CMAT, ATMA, and
+      State CETs followed by institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at EMPI
+      Business School?
+    answer: >-
+      The total course tuition fee is approximately ₹9.85 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: Is direct admission or management quota available at EMPI Business School?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Chattarpur
+state: South Delhi
 ---
 
-# [EMPI Business School](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [EMPI Business School](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Chattarpur, South Delhi** accredited with **AICTE Approved · Residential B-School** offering career-focused programs in **PGDM**.

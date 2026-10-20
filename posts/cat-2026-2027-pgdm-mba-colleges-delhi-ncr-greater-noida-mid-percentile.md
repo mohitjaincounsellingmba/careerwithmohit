@@ -4,8 +4,7 @@ title: >-
   NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)
 description: >-
   Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater
-  Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs,
-  realistic cutoffs & book free profile evaluation with Mohit Jain.
+  Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs.
 date: '2026-09-04'
 category: Exams
 tags:
@@ -41,7 +40,8 @@ keywords:
   - Delhi NCR College Counselling
 faqs:
   - question: >-
-      Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT 2027–29?
+      Can I get a good PGDM college in Delhi NCR with a 65-75 percentile in CAT
+      2027–29?
     answer: >-
       Yes, aspirants scoring between 65-75 percentile in CAT 2026 have strong
       options in Delhi NCR & Greater Noida such as GL Bajaj, JIMS
@@ -64,7 +64,8 @@ faqs:
       experience carry 40% to 50% composite weightage, allowing strong profiles
       to beat higher percentile test-takers.
   - question: >-
-      Which MBA specialization offers the highest ROI in Delhi NCR for the 2027–29-2027 batch?
+      Which MBA specialization offers the highest ROI in Delhi NCR for the
+      2027–29-2027 batch?
     answer: >-
       Business Analytics & AI, Fintech / Banking & Corporate Finance, and
       Digital Marketing & E-Commerce lead campus placement ROI in Delhi NCR with
@@ -73,7 +74,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Delhi NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)
+## CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Delhi NCR & Greater Noida for Mid-Percentile Aspirants (65-85%ile)
 
 Complete 2026-2027 guide to CAT 2026-2027 admissions in Delhi NCR & Greater Noida. Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain.
 

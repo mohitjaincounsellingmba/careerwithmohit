@@ -4,7 +4,7 @@ date: '2026-03-17'
 description: >-
   Planning for [IMI Delhi](/colleges/imi-delhi/) 2026? Learn about direct
   admission via merit-linked institutional seats, NRI quota, latest CAT/XAT
-  cutoffs, and 2025 placement reports for the 2027–29 batch.
+  cutoffs.
 keywords:
   - '[IMI Delhi](/colleges/imi-delhi/) direct admission'
   - '[IMI Delhi](/colleges/imi-delhi/) management quota'

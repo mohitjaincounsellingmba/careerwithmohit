@@ -3,8 +3,7 @@ title: Under 5 Lakhs MBA Colleges in Delhi NCR (Direct Admission) 2027–29
 date: '2026-04-08'
 description: >-
   Find the best MBA colleges under 5 lakhs in Delhi NCR offering direct
-  admission. A complete guide for students from UP, Bihar, Haryana, and
-  Rajasthan for 2026-2027 admissions & career guidance.
+  admission. A complete guide for students from UP, Bihar, Haryana.
 keywords:
   - under 5 lacs mba college in delhi ncr direct admission
   - mba in delhi ncr under 5 lakhs

@@ -25,7 +25,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { FounderFaq } from '@/components/FounderFaq';
 
 export const metadata: Metadata = {
-  title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",
+  title: "About Mohit Jain: MBA Admissions Strategist",
   description: "Meet Mohit Jain — Founder of CareerWithMohit, IIM Bangalore & FMS Delhi certified in Digital Marketing. Uncompromised, ROI-first career guidance and MBA admissions consulting.",
   keywords: [
     "Mohit Jain", "about Mohit Jain", "CareerWithMohit founder", "expert career counsellor India",

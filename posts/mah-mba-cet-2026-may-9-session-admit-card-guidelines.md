@@ -5,7 +5,7 @@ category: Exams
 description: >-
   The MAH MBA CET 2027–29 second session is scheduled for May 9. Download your
   admit card now and review the essential exam day guidelines and last-minute
-  tips for a high score.
+  tips...
 keywords:
   - MAH MBA CET May 9 session
   - MHCET MBA 2027–29 May 9 admit card

@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: MBA
 description: >-
   Comprehensive guide to the best MBA colleges in Delhi NCR accepting CAT score
-  in 2026. Compare FMS Delhi, MDI Gurgaon, IMI, FORE, LBSIM, BIMTECH, fees, and
-  placements.
+  in 2026. Compare FMS Delhi, MDI Gurgaon, IMI, FORE, LBSIM, BIMTECH, fees.
 keywords:
   - Top MBA Colleges in Delhi NCR Accepting CAT Score
   - Best MBA Colleges Delhi NCR CAT Cutoff

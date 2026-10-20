@@ -6,8 +6,7 @@ date: '2026-08-24'
 author: Mohit Jain
 description: >-
   Detailed 2027 fee structure breakdown for Amity University Online. Check
-  semester tuition fees, registration charges, zero-cost EMI plans, and WES
-  approval details for Online MBA, BBA, MCA, BCA & MA.
+  semester tuition fees, registration charges, zero-cost EMI plans.
 keywords:
   - amity university online fee structure 2027
   - amity online mba fees per semester
@@ -35,7 +34,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
 ---
-# [Amity University](/colleges/amity-noida/) Online Fee Structure (2027): Complete Semester Breakdown & EMI Plans
+## [Amity University](/colleges/amity-noida/) Online Fee Structure (2027): Complete Semester Breakdown & EMI Plans
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

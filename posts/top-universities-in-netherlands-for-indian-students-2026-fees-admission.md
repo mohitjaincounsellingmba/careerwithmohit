@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Netherlands for Indian students 2026.
-  All fees in INR, NVAO accredited universities, English-taught programs, and
-  Orientation Year (Zoekjaar) visa guide.
+  All fees in INR, NVAO accredited universities, English-taught programs.
 keywords:
   - universities in Netherlands for Indian students 2026
   - study in Netherlands fees in INR

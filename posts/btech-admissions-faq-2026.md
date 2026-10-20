@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-14'
 description: >-
   Confused about engineering admissions? Our B.Tech FAQ guide for 2026 answers
-  20+ critical questions on JEE Main, Advanced, choosing the right branch,
-  placements, and more.
+  20+ critical questions on JEE Main, Advanced, choosing the right branch.
 keywords:
   - B.Tech admission FAQ 2026
   - JEE Main 75 percent criteria

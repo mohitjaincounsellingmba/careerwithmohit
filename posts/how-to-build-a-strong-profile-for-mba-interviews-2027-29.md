@@ -6,8 +6,7 @@ date: '2026-08-14'
 category: Jobs & Careers
 description: >-
   Learn how to build an outstanding profile for MBA interviews at IIMs, XLRI,
-  FMS, and top B-schools in 2026. Master the 5 pillars: academics, work-ex,
-  certifications, and leadership.
+  FMS, and top B-schools in 2026.
 keywords:
   - How to Build a Strong Profile for MBA Interviews
   - MBA profile building tips 2027–29

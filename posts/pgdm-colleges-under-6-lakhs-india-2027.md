@@ -2,9 +2,8 @@
 title: 'Top PGDM & MBA Colleges Under 6 Lakhs Fees: Best ROI B-Schools 2027'
 date: '2026-07-22'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top PGDM & MBA
-  Colleges Under 6 Lakhs Fees: Best ROI B-Schools 2027. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top PGDM & MBA Colleges Under 6 Lakhs Fees: Best ROI...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - low fee pgdm colleges in india 2027
   - mba colleges under 6 lakhs fees

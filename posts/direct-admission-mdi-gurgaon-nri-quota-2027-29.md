@@ -4,7 +4,7 @@ date: '2026-03-18'
 description: >-
   Everything about NRI/Foreign National admission at [MDI
   Gurgaon](/colleges/mdi-gurgaon/) for 2026. Learn about GMAT score requirements
-  (665+ Focus), application process, and latest fees in USD.
+  (665+ Focus).
 keywords:
   - '[MDI Gurgaon](/colleges/mdi-gurgaon/) NRI quota 2026'
   - '[MDI Gurgaon](/colleges/mdi-gurgaon/) direct admission'

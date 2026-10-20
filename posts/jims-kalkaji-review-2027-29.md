@@ -4,9 +4,7 @@ date: '2026-09-10'
 category: Exams
 description: >-
   Comprehensive JIMS Kalkaji review for 2027–2029 admissions. Explore verified
-  PGDM fee structure (₹10.75 Lakhs in 4 installments), recent placements (avg
-  ₹8.2–₹9.3 LPA, median ₹9.5 LPA, highest ₹20–₹35 LPA), cutoffs, South Delhi
-  ROI, and honest student verdict.
+  PGDM fee structure (₹10.75 Lakhs in 4 installments).
 keywords:
   - JIMS Kalkaji review 2027
   - JIMS Kalkaji review 2027 2029
@@ -56,7 +54,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [JIMS Kalkaji Review 2027–2029](/colleges/jims-kalkaji/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+## [JIMS Kalkaji Review 2027–2029](/colleges/jims-kalkaji/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and ATMA for an approved intake of **180 seats**.

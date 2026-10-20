@@ -2,9 +2,8 @@
 title: 'ISMS Pune PGDM Review 2027: Fees, Cutoff, Placements & Honest Reality Check'
 date: '2026-03-29'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for ISMS PUNE
-  REVIEW. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for ISMS Pune PGDM Review 2027: Fees, Cutoff, Placements...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - '[ISMS Pune](/colleges/isms-pune/) negative review'
   - '[ISMS Pune](/colleges/isms-pune/) placement reality 2026'

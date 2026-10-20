@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Complete guide to MBA and PGDM admissions in Chennai and Coimbatore for
-  2027-29. Check TANCET/MAT cutoffs, total fees, placement stats, and selection
-  criteria.
+  2027-29. Check TANCET/MAT cutoffs, total fees, placement stats.
 keywords:
   - MBA Admission Chennai Coimbatore 2027-29
   - Great Lakes Chennai PGDM Fees
@@ -44,7 +43,7 @@ location: Chennai
 state: Tamil Nadu
 ---
 
-# MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees & Eligibility
+## MBA/PGDM Admission in Chennai & Coimbatore (2027-29): TANCET/MAT Cutoffs, Fees & Eligibility
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
