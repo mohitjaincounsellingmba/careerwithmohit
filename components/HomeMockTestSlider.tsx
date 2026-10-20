@@ -48,7 +48,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: '+3 / -1 Marking & Percentile Predictor',
     accentBg: 'bg-blue-50',
     themeColor: 'text-primary',
-    href: '/cat-mock-test',
+    href: '/cat-mock-test/',
   },
   {
     id: 'xat-2027',
@@ -65,7 +65,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: 'Real DM Cases & Live Scaled Scoring',
     accentBg: 'bg-purple-50',
     themeColor: 'text-purple-600',
-    href: '/xat-mock-test',
+    href: '/xat-mock-test/',
   },
   {
     id: 'nmat-2026',
@@ -82,7 +82,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: 'Zero Negative Marking • Scaled Score',
     accentBg: 'bg-emerald-50',
     themeColor: 'text-emerald-600',
-    href: '/nmat-mock-test',
+    href: '/nmat-mock-test/',
   },
   {
     id: 'snap-2026',
@@ -99,7 +99,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: '1 Q/Minute Speed Test Simulation',
     accentBg: 'bg-rose-50',
     themeColor: 'text-rose-600',
-    href: '/snap-mock-test',
+    href: '/snap-mock-test/',
   },
   {
     id: 'atma-2026',
@@ -116,7 +116,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: 'AIMS Standard 6-Section Interface',
     accentBg: 'bg-amber-50',
     themeColor: 'text-amber-600',
-    href: '/atma-mock-test',
+    href: '/atma-mock-test/',
   },
   {
     id: 'mat',
@@ -133,7 +133,7 @@ const MOCK_EXAMS: MockTestExam[] = [
     highlightFeature: 'Sept / Dec / Feb / May Exam Ready',
     accentBg: 'bg-cyan-50',
     themeColor: 'text-cyan-600',
-    href: '/mat-mock-test',
+    href: '/mat-mock-test/',
   },
 ];
 

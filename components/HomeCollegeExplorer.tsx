@@ -516,7 +516,7 @@ export function HomeCollegeExplorer() {
 
                   {/* College Title */}
                   <h3 className="font-display text-base sm:text-lg font-bold text-slate-900 group-hover:text-blue-600 transition-colors leading-snug mb-2 line-clamp-2">
-                    <Link href={`/${college.slug}`}>
+                    <Link href={`/${college.slug}/`}>
                       {college.name}
                     </Link>
                   </h3>
@@ -570,7 +570,7 @@ export function HomeCollegeExplorer() {
                 {/* Action Buttons */}
                 <div className="mt-5 pt-4 border-t border-slate-100 flex items-center gap-2">
                   <Link
-                    href={`/${college.slug}`}
+                    href={`/${college.slug}/`}
                     className="flex-1 py-2.5 px-3 rounded-xl bg-slate-100 hover:bg-blue-600 text-slate-800 hover:text-white font-bold text-xs text-center transition-all shadow-2xs"
                   >
                     Details &rarr;
@@ -642,7 +642,7 @@ export function HomeCollegeExplorer() {
                       <td className="p-3.5 text-right whitespace-nowrap">
                         <div className="flex items-center justify-end gap-2">
                           <Link
-                            href={`/${col.slug}`}
+                            href={`/${col.slug}/`}
                             className="px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-blue-600 hover:text-white font-bold text-[11px] transition-all"
                           >
                             Details

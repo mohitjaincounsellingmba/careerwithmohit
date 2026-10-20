@@ -56,7 +56,7 @@ export function InteractiveRoiCalculator() {
             </p>
           </div>
           <Link
-            href="/colleges?budget=under-10l"
+            href="/colleges/?budget=under-10l"
             className="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs sm:text-sm transition-all shadow-md shadow-blue-500/20 whitespace-nowrap self-start md:self-auto"
           >
             <span>Explore High-ROI Colleges (&lt; ₹10L Fee)</span>

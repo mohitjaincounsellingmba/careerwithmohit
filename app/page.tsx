@@ -155,7 +155,7 @@ export default function Home() {
       </div>
 
       {/* 12. Dedicated Student Inquiry & Profile Assessment Form */}
-      <div id="inquiry-section" className="section-deferred bg-white py-16 border-b border-[#061124]/10">
+      <div className="section-deferred bg-white py-16 border-b border-[#061124]/10">
         <HomeInquirySection />
       </div>
 
@@ -170,7 +170,7 @@ export default function Home() {
               <h2 className="font-display text-2xl sm:text-4xl font-extrabold text-[#061124] tracking-tight leading-tight">
                 Strategic Guidance for Top MBA Colleges &amp; Competitive Entrance Exams in India
               </h2>
-              <p className="mt-4 text-slate-600 text-base leading-relaxed">
+              <p className="mt-4 text-slate-600 text-base leading-relaxed speakable-summary">
                 Choosing the right business school is one of the most significant investments in your career. With over 770+ accredited institutions in India offering MBA and PGDM programs, candidates often struggle with confusing placement statistics, unverified average packages, and fluctuating cutoffs. <strong>CareerWithMohit</strong> provides transparent, data-driven admissions consulting and unbiased mentorship led by <strong>Mohit Jain</strong>, an alumnus with executive marketing and strategy credentials recognized by top business schools like the <strong>Indian Institute of Management (IIM Bangalore)</strong> and the Faculty of Management Studies (FMS Delhi).
               </p>
             </div>

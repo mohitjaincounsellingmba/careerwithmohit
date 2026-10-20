@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Bricolage_Grotesque, DM_Sans, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -6,6 +7,24 @@ import { JsonLd } from "@/components/JsonLd";
 import { ClientWidgets } from "@/components/ClientWidgets";
 import { DeferredAnalytics } from "@/components/DeferredAnalytics";
 import { AnalyticsTracker } from "@/components/AnalyticsTracker";
+
+const bricolage = Bricolage_Grotesque({
+  subsets: ["latin"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const dmSans = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-body",
+  display: "swap",
+});
+
+const jetbrainsMono = JetBrains_Mono({
+  subsets: ["latin"],
+  variable: "--font-mono",
+  display: "swap",
+});
 
 export const viewport: Viewport = {
   themeColor: "#0f172a",
@@ -354,14 +373,8 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="en-IN">
+    <html lang="en-IN" className={`${bricolage.variable} ${dmSans.variable} ${jetbrainsMono.variable}`}>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=DM+Sans:ital,opsz,wght@0,9..40,400..800&family=JetBrains+Mono:wght@400..700&display=swap"
-        />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />

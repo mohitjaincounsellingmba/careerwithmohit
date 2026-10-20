@@ -7,17 +7,17 @@ import { Search, Sparkles, ArrowRight, Zap } from "lucide-react";
 import { College4SureLiveCompare } from "./College4SureLiveCompare";
 
 const CITIES = [
-  { name: "Delhi NCR", symbol: "🏛️", landmark: "India Gate", href: "/mba-admissions-by-region/delhi-ncr" },
-  { name: "Pune", symbol: "🏰", landmark: "Shaniwar Wada", href: "/mba-admissions-by-region/pune" },
-  { name: "Mumbai", symbol: "🌊", landmark: "Gateway of India", href: "/mba-admissions-by-region/mumbai" },
-  { name: "Bangalore", symbol: "💻", landmark: "Silicon Valley", href: "/mba-admissions-by-region/bangalore" },
-  { name: "Kolkata", symbol: "🌉", landmark: "Howrah Bridge", href: "/mba-admissions-by-region/kolkata" },
-  { name: "Jaipur", symbol: "👑", landmark: "Hawa Mahal", href: "/mba-admissions-by-region/jaipur" },
-  { name: "Greater Noida", symbol: "🏎️", landmark: "Buddh Circuit", href: "/colleges?location=Greater+Noida" },
-  { name: "Faridabad", symbol: "🏭", landmark: "Surajkund Hub", href: "/colleges?location=Faridabad" },
-  { name: "Gurgaon", symbol: "🏙️", landmark: "Cyber Hub", href: "/colleges?location=Gurgaon" },
-  { name: "Dehradun", symbol: "🏔️", landmark: "Doon Valley", href: "/colleges?location=Dehradun" },
-  { name: "Chandigarh", symbol: "✋", landmark: "The Open Hand", href: "/colleges?location=Chandigarh" },
+  { name: "Delhi NCR", symbol: "🏛️", landmark: "India Gate", href: "/mba-admissions-by-region/delhi-ncr/" },
+  { name: "Pune", symbol: "🏰", landmark: "Shaniwar Wada", href: "/mba-admissions-by-region/pune/" },
+  { name: "Mumbai", symbol: "🌊", landmark: "Gateway of India", href: "/mba-admissions-by-region/mumbai/" },
+  { name: "Bangalore", symbol: "💻", landmark: "Silicon Valley", href: "/mba-admissions-by-region/bangalore/" },
+  { name: "Kolkata", symbol: "🌉", landmark: "Howrah Bridge", href: "/mba-admissions-by-region/kolkata/" },
+  { name: "Jaipur", symbol: "👑", landmark: "Hawa Mahal", href: "/mba-admissions-by-region/jaipur/" },
+  { name: "Greater Noida", symbol: "🏎️", landmark: "Buddh Circuit", href: "/colleges/?location=Greater+Noida" },
+  { name: "Faridabad", symbol: "🏭", landmark: "Surajkund Hub", href: "/colleges/?location=Faridabad" },
+  { name: "Gurgaon", symbol: "🏙️", landmark: "Cyber Hub", href: "/colleges/?location=Gurgaon" },
+  { name: "Dehradun", symbol: "🏔️", landmark: "Doon Valley", href: "/colleges/?location=Dehradun" },
+  { name: "Chandigarh", symbol: "✋", landmark: "The Open Hand", href: "/colleges/?location=Chandigarh" },
 ];
 
 export function College4SureHero() {
@@ -46,7 +46,7 @@ export function College4SureHero() {
     if (searchQuery.trim()) {
       router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
     } else {
-      router.push("/colleges");
+      router.push("/colleges/");
     }
   };
 
@@ -70,34 +70,37 @@ export function College4SureHero() {
               <span>770+ colleges · Verified by IIM &amp; FMS Alumni</span>
             </div>
 
-            {/* Main Display Headline with Landmark Symbol and Holographic City Badge */}
-            <h1 className="font-display text-4xl sm:text-6xl lg:text-[62px] font-black text-[#0F1026] leading-[1.1] tracking-tight">
-              Find Top MBA Colleges in<br />
-              <span className="inline-block relative min-h-[1.35em] mt-2">
-                <Link
-                  href={currentCity.href}
-                  className={`inline-flex items-center gap-2.5 sm:gap-3 px-4 sm:px-5 py-1.5 sm:py-2 rounded-2xl bg-gradient-to-r from-[#6336EA] via-[#8B5CF6] to-[#EC4899] text-white shadow-lg shadow-purple-600/25 border border-purple-400/30 backdrop-blur-md transition-all duration-300 transform cursor-pointer hover:scale-105 active:scale-95 ${
-                    fadeState === "in"
-                      ? "opacity-100 translate-y-0 scale-100"
-                      : "opacity-0 -translate-y-2 scale-95"
-                  }`}
-                  title={`View top MBA colleges in ${currentCity.name} (${currentCity.landmark})`}
-                >
-                  {/* Landmark Special Symbol */}
-                  <span className="text-2xl sm:text-3xl filter drop-shadow-[0_2px_8px_rgba(0,0,0,0.3)] animate-bounce shrink-0" role="img" aria-label={currentCity.landmark}>
-                    {currentCity.symbol}
-                  </span>
-                  
-                  {/* City Name */}
-                  <span className="drop-shadow-sm font-black">{currentCity.name}</span>
-                  
-                  {/* Landmark Tag Badge */}
-                  <span className="hidden sm:inline-flex items-center text-[11px] font-mono font-extrabold uppercase tracking-wider bg-black/25 backdrop-blur-md px-2.5 py-0.5 rounded-full border border-white/20 text-purple-100">
-                    {currentCity.landmark}
-                  </span>
-                </Link>
-              </span>
+            {/* Main Display Headline (100% Semantic Pan-India H1 for Maximum SEO Ranking) */}
+            <h1 className="font-display text-4xl sm:text-5xl lg:text-[56px] font-black text-[#0F1026] leading-[1.12] tracking-tight">
+              Top MBA Colleges &amp; Admissions in India 2027
             </h1>
+
+            {/* Dynamic Rotating City Explorer Badge & Subtitle */}
+            <div className="mt-4 flex flex-wrap items-center gap-2.5 text-sm sm:text-base font-bold text-slate-700">
+              <span className="text-slate-500 font-medium">Explore top B-schools in</span>
+              <Link
+                href={currentCity.href}
+                className={`inline-flex items-center gap-2 sm:gap-2.5 px-3.5 sm:px-4 py-1.5 rounded-2xl bg-gradient-to-r from-[#6336EA] via-[#8B5CF6] to-[#EC4899] text-white shadow-md shadow-purple-600/25 border border-purple-400/30 backdrop-blur-md transition-all duration-300 transform cursor-pointer hover:scale-105 active:scale-95 ${
+                  fadeState === "in"
+                    ? "opacity-100 translate-y-0 scale-100"
+                    : "opacity-0 -translate-y-1.5 scale-95"
+                }`}
+                title={`View top MBA colleges in ${currentCity.name} (${currentCity.landmark})`}
+              >
+                {/* Landmark Special Symbol */}
+                <span className="text-lg sm:text-xl filter drop-shadow-[0_2px_6px_rgba(0,0,0,0.3)] animate-bounce shrink-0" role="img" aria-label={currentCity.landmark}>
+                  {currentCity.symbol}
+                </span>
+                
+                {/* City Name */}
+                <span className="drop-shadow-sm font-black">{currentCity.name}</span>
+                
+                {/* Landmark Tag Badge */}
+                <span className="hidden sm:inline-flex items-center text-[10px] font-mono font-extrabold uppercase tracking-wider bg-black/25 backdrop-blur-md px-2 py-0.5 rounded-full border border-white/20 text-purple-100">
+                  {currentCity.landmark}
+                </span>
+              </Link>
+            </div>
 
             {/* Lede paragraph */}
             <p className="mt-5 text-base sm:text-lg text-slate-600 max-w-xl leading-relaxed font-normal">
