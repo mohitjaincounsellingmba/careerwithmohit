@@ -7,8 +7,8 @@ import { JsonLd } from "@/components/JsonLd";
 import { ChevronDown, Sparkles, MapPin, Building2, Award, IndianRupee, TrendingUp, CheckCircle2, MessageSquare, ArrowRight, ShieldCheck } from "lucide-react";
 
 export const metadata = {
-  title: "Top MBA, PGDM, B.Tech & UG Colleges in India 2027: Fees, Cutoffs, Placements & Search",
-  description: "Search verified MBA, PGDM, B.Tech & BBA colleges across India. Compare fee structures, 2025-26 placement audits, CAT/JEE/CMAT cutoffs, and NIRF rankings by state (Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Chennai, Kolkata). Get direct 1-on-1 guidance with Mohit Jain.",
+  title: "Top Colleges in India 2027: Fees & Cutoffs",
+  description: "Search 770+ verified MBA, PGDM & B.Tech colleges across India. Compare fees, 2026-27 placement reports, CAT/JEE cutoffs & NIRF rankings with Mohit Jain.",
   keywords: [
     'top MBA colleges India 2027', 'best PGDM colleges India 2027', 'MBA colleges by state India',
     'search colleges in India', 'college search engine India', 'compare MBA colleges fees placement',

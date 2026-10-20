@@ -4,10 +4,8 @@ title: >-
   Cutoff & Fee Structure
 date: '2026-07-21'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for St. John’s
-  Medical College, Bengaluru MBBS Admission 2026: Process, NEET Cutoff & Fee
-  Structure. Check updated fees, placement records, real cutoffs, and selection
-  tips by Mohit Jain.
+  2027 guide for St. John’s Medical College, Bengaluru MBBS Admission...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - St. John's Medical College MBBS admission 2026
   - St. John's Medical College fee structure

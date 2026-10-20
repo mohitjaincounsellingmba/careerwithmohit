@@ -20,7 +20,7 @@ exams:
   - GMAT
   - MAT
 website: 'https://www.soil.edu.in'
-seo_title: 'SOIL Gurgaon MBA Fees, Cutoff & Placement 2027 | SOIL Institute'
+seo_title: 'SOIL Gurgaon MBA Fees, Cutoff & Placements 2027'
 seo_description: >-
   Complete review of SOIL Institute of Management Gurgaon: 1-Year PGPM & 2-Year PGDM fees, average placement ₹11.2 LPA, cutoffs, ROI, and 2027 admission process.
 keywords:

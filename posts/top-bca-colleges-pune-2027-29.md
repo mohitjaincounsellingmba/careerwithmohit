@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Confused about BCA in Pune? Explore top colleges like SICSR, MIT-WPU, and
-  Indira College. Compare 2026 fees, SET cutoffs, and verified placement
-  statistics for the IT hub.
+  Indira College. Compare 2026 fees, SET cutoffs.
 keywords:
   - top bca colleges in pune 2026
   - best bca colleges pune

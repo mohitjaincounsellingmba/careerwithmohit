@@ -1,11 +1,11 @@
 ---
 title: >-
-  KJ Somaiya MBA vs Welingkar Mumbai: Cutoff, Fees, Placements & ROI Comparison 2027–29
+  KJ Somaiya MBA vs Welingkar Mumbai: Cutoff, Fees, Placements & ROI Comparison
+  2027–29
 date: '2026-09-12'
 description: >-
   Comparing Mumbai top private B-schools: K J Somaiya Institute of Management vs
-  Welingkar Mumbai (WeSchool). Cutoffs, fees, placement stats, and selection
-  criteria for 2026-2027 admissions & career guidance.
+  Welingkar Mumbai (WeSchool).
 category: Exams
 keywords:
   - kj somaiya mba vs welingkar mumbai cutoff and fees

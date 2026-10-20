@@ -3,8 +3,7 @@ title: 'BSE Satwik 100 Fund: Is India’s First Ethical Investing Index Worth It
 date: '2026-06-27'
 description: >-
   Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical
-  index, the BSE Saatvik 100, its sector weightings, exclusions, returns, and
-  how to invest for 2026-2027 admissions & career guidance.
+  index, the BSE Saatvik 100, its sector weightings, exclusions, returns.
 keywords:
   - BSE Satwik 100 fund
   - BSE Saatvik 100 index

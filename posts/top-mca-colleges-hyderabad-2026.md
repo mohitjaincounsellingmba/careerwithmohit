@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning your MCA in the City of Pearls? Compare the best MCA colleges in
-  Hyderabad for 2026. Detailed guide on University of Hyderabad (UoH), Osmania,
-  and CBIT.
+  Hyderabad for 2026. Detailed guide on University of Hyderabad (UoH), Osmania.
 keywords:
   - top mca colleges in hyderabad 2026
   - best mca colleges hyderabad

@@ -2,7 +2,9 @@
 title: 'MDI Gurgaon PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 MDI Gurgaon PGDM review with audited ₹25.50 LPA placements, ₹25.00L fees, CAT cutoffs, and admissions ROI strategy from Mohit Jain.'
+description: >-
+  Read verified 2027 MDI Gurgaon PGDM review with audited ₹25.50 LPA placements,
+  ₹25.00L fees, CAT cutoffs, and admissions ROI strategy from Mohit Jain.
 keywords:
   - mdi gurgaon pgdm admission 2027
   - mdi gurgaon fees structure 2027
@@ -15,24 +17,36 @@ keywords:
 faqs:
   - question: What is the average placement package at MDI Gurgaon in 2026-2027?
     answer: >-
-      The verified combined average CTC at MDI Gurgaon stands between ₹25.50 LPA and ₹26.70 LPA across its PGDM, PGDM-HRM, and PGDM-IB programs, with the median package benchmarked at ₹24.20 LPA to ₹25.00 LPA and the highest domestic offer reaching ₹63.50 LPA.
+      The verified combined average CTC at MDI Gurgaon stands between ₹25.50 LPA
+      and ₹26.70 LPA across its PGDM, PGDM-HRM, and PGDM-IB programs, with the
+      median package benchmarked at ₹24.20 LPA to ₹25.00 LPA and the highest
+      domestic offer reaching ₹63.50 LPA.
   - question: What entrance exams are accepted for admission at MDI Gurgaon?
     answer: >-
-      MDI Gurgaon accepts only CAT scores for Indian candidates (and GMAT for NRI/Foreign applicants). XAT, CMAT, MAT, or NMAT scores are not accepted.
+      MDI Gurgaon accepts only CAT scores for Indian candidates (and GMAT for
+      NRI/Foreign applicants). XAT, CMAT, MAT, or NMAT scores are not accepted.
   - question: What is the total fee structure for the PGDM programs at MDI Gurgaon?
     answer: >-
-      The total course fee for the 2-year full-time PGDM Core and PGDM-HRM programs is approximately ₹25.00 Lakhs, while the dual-degree PGDM-IB (in collaboration with ESCP Europe) is approximately ₹30.00 Lakhs including international tuition components.
+      The total course fee for the 2-year full-time PGDM Core and PGDM-HRM
+      programs is approximately ₹25.00 Lakhs, while the dual-degree PGDM-IB (in
+      collaboration with ESCP Europe) is approximately ₹30.00 Lakhs including
+      international tuition components.
   - question: What is the CAT cutoff for MDI Gurgaon admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for MDI Gurgaon typically ranges between 95 and 97+ percentile overall, with sectional cutoffs around 80+ percentile across VARC, DILR, and QA.
+      The minimum qualifying CAT cutoff for MDI Gurgaon typically ranges between
+      95 and 97+ percentile overall, with sectional cutoffs around 80+
+      percentile across VARC, DILR, and QA.
   - question: How does MDI Gurgaon compare to older IIMs (BLACKI)?
     answer: >-
-      MDI Gurgaon consistently ranks directly alongside IIM Indore, IIM Kozhikode, and SPJIMR Mumbai in corporate recruiter trust, consulting/BFSI recruitment volume, and strategic location advantages in the Delhi-NCR corporate corridor.
+      MDI Gurgaon consistently ranks directly alongside IIM Indore, IIM
+      Kozhikode, and SPJIMR Mumbai in corporate recruiter trust, consulting/BFSI
+      recruitment volume, and strategic location advantages in the Delhi-NCR
+      corporate corridor.
 location: Gurgaon
 state: Haryana
 ---
 
-# [MDI Gurgaon](/colleges/mdi-gurgaon/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [MDI Gurgaon](/colleges/mdi-gurgaon/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Strategic Corporate Hub**: Established in 1973 by IFCI, **Management Development Institute (MDI Gurgaon)** operates from a 37-acre green campus in Sector 17, Gurugram (Delhi-NCR), holding **NIRF Rank #11** with prestigious **AACSB, AMBA, and SAQS accreditations**.

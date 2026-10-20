@@ -2,9 +2,8 @@
 title: 'Top DRCC Approved MBA Colleges in India: Region-Wise List (2026-2027)'
 date: '2026-03-16'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top DRCC
-  Approved MBA Colleges in India: Region-Wise List (2026-2027). Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top DRCC Approved MBA Colleges in India: Region-Wise...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - top DRCC approved MBA colleges 2027–29
   - Bihar Student Credit Card colleges list

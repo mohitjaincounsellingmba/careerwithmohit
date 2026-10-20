@@ -2,7 +2,9 @@
 title: 'Top MSBA Colleges in Mumbai 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-28'
 category: MBA
-description: 'Compare the best MSBA, M.Sc Analytics, and MBA Business Analytics colleges in Mumbai for 2027. Check TISS, NMIMS, Welingkar, and NL Dalmia fees, cutoffs & ROI.'
+description: >-
+  Compare the best MSBA, M.Sc Analytics, and MBA Business Analytics colleges in
+  Mumbai for 2027. Check TISS, NMIMS, Welingkar, and NL Dalmia fees.
 keywords:
   - top msba colleges in mumbai 2027
   - msc analytics colleges in mumbai
@@ -17,16 +19,24 @@ keywords:
 faqs:
   - question: Which is the best institute for M.Sc Analytics / MSBA in Mumbai?
     answer: >-
-      **TISS Mumbai (Tata Institute of Social Sciences)** offers a premier M.Sc. in Analytics with exceptionally low tuition fees (~₹3.5 Lakhs) and average placement packages of ₹18+ LPA, delivering one of the highest ROI figures in India.
+      **TISS Mumbai (Tata Institute of Social Sciences)** offers a premier M.Sc.
+      in Analytics with exceptionally low tuition fees (~₹3.5 Lakhs) and average
+      placement packages of ₹18+ LPA, delivering one of the highest ROI figures
+      in India.
   - question: Does NMIMS Mumbai offer specialized Business Analytics programs?
     answer: >-
-      Yes, NMIMS offers an MBA in Business Analytics through SBM Mumbai and an M.Sc. in Applied Statistics & Analytics through MPSTME, with average placements ranging between ₹18.5 LPA and ₹21.0 LPA.
+      Yes, NMIMS offers an MBA in Business Analytics through SBM Mumbai and an
+      M.Sc. in Applied Statistics & Analytics through MPSTME, with average
+      placements ranging between ₹18.5 LPA and ₹21.0 LPA.
   - question: What are the entrance exams accepted for Business Analytics in Mumbai?
     answer: >-
-      Major exams include NMAT (for NMIMS), CAT/XAT/CMAT/MAH MBA CET (for Welingkar, NL Dalmia, VBS), and TISS-NET/CUET-PG (for TISS Mumbai).
+      Major exams include NMAT (for NMIMS), CAT/XAT/CMAT/MAH MBA CET (for
+      Welingkar, NL Dalmia, VBS), and TISS-NET/CUET-PG (for TISS Mumbai).
   - question: What is the corporate advantage of studying Business Analytics in Mumbai?
     answer: >-
-      As India's financial capital, Mumbai provides unmatched access to BFSI analytics hubs (Bandra-Kurla Complex), investment banks (JP Morgan, Morgan Stanley, Nomura), and fintech giants.
+      As India's financial capital, Mumbai provides unmatched access to BFSI
+      analytics hubs (Bandra-Kurla Complex), investment banks (JP Morgan, Morgan
+      Stanley, Nomura), and fintech giants.
 location: Mumbai
 state: Maharashtra
 ---

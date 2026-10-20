@@ -4,8 +4,8 @@ date: '2026-05-21'
 category: BBA
 description: >-
   Looking for direct BBA admission in Delhi NCR without entrance exams? Discover
-  colleges accepting merit-based admission and management quotas for 2026-2027
-  admissions & career guidance.
+  colleges accepting merit-based admission and management quotas for
+  2026-2027...
 keywords:
   - direct bba admission Delhi NCR 2026
   - bba without entrance exam

@@ -4,9 +4,9 @@ title: >-
   ₹40.91 LPA & 100% Placements
 date: '2026-08-15'
 description: >-
-  Detailed MICA Ahmedabad PGDM (C/PGDM) Placement Report 2027–29. Discover average
-  salary of ₹19.22 LPA, highest package of ₹40.91 LPA, top digital agencies,
-  FMCG & MICAT info.
+  Detailed MICA Ahmedabad PGDM (C/PGDM) Placement Report 2027–29. Discover
+  average salary of ₹19.22 LPA, highest package of ₹40.91 LPA, top digital
+  agencies.
 keywords:
   - mica ahmedabad pgdm placement report 2027–29
   - mica ahmedabad average package 2025

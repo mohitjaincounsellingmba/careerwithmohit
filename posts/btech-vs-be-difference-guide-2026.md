@@ -4,8 +4,8 @@ date: '2026-04-21'
 category: B.Tech
 description: >-
   Confused between B.Tech and B.E.? Discover the real differences in 2026.
-  Explore curriculum focus, industry value, and which degree is better for your
-  engineering career.
+  Explore curriculum focus, industry value, and which degree is better for
+  your...
 keywords:
   - btech vs be difference 2026
   - is be same as btech

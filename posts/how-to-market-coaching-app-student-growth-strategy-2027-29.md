@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Jobs & Careers
 description: >-
   Launch your app, but how do you get students? Discover the ultimate marketing
-  roadmap for 2026. Learn about value-funnels, social media growth, and
-  conversion hacks.
+  roadmap for 2026. Learn about value-funnels, social media growth.
 keywords:
   - marketing for coaching centers 2026
   - how to get students for online course

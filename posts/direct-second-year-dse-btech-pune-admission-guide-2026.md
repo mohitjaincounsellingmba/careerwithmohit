@@ -5,10 +5,8 @@ title: >-
 date: '2026-04-24'
 category: B.Tech
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for B.Tech Lateral
-  Entry (DSE) in Pune 2026: Admission Process, Eligibility & Top Colleges. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for B.Tech Lateral Entry (DSE) in Pune 2026: Admission P...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - btech lateral entry pune 2026
   - direct second year engineering admission maharashtra

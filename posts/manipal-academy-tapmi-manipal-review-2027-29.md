@@ -1,12 +1,11 @@
 ---
 title: >-
-  Manipal Academy of Higher Education (TAPMI), Manipal Review 2027–29: Placements,
-  Fees, Courses & Admission
+  Manipal Academy of Higher Education (TAPMI), Manipal Review 2027–29:
+  Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Manipal Academy of Higher Education (TAPMI), Manipal
-  (Manipal) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Manipal) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - TAPMI & MAHE Manipal review 2027–29
   - TAPMI & MAHE Manipal placements 2027–29

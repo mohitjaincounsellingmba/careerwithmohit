@@ -2,30 +2,51 @@
 title: 'SGBS PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Sparsh Global Business School (SGBS) (Greater Noida). Check updated fee structure (₹11.85 Lakhs (Total)), average placement (₹7.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Sparsh Global Business School (SGBS)
+  (Greater Noida). Check updated fee structure (₹11.85 Lakhs (Total)).
 keywords:
-  - 'sparsh global business school (sgbs) pgdm admission 2027'
-  - 'sparsh global business school (sgbs) mba fees 2027'
-  - 'sparsh global business school (sgbs) average placement package'
-  - 'sparsh global business school (sgbs) cutoff 2026 2027'
-  - 'sgbs review 2027'
-  - 'direct admission in sparsh global business school (sgbs)'
-  - 'top pgdm colleges in greater noida'
-  - 'best mba colleges in greater noida'
+  - sparsh global business school (sgbs) pgdm admission 2027
+  - sparsh global business school (sgbs) mba fees 2027
+  - sparsh global business school (sgbs) average placement package
+  - sparsh global business school (sgbs) cutoff 2026 2027
+  - sgbs review 2027
+  - direct admission in sparsh global business school (sgbs)
+  - top pgdm colleges in greater noida
+  - best mba colleges in greater noida
 faqs:
-  - question: 'What is the average placement package at Sparsh Global Business School (SGBS) in 2026-2027?'
-    answer: 'The verified average placement package at Sparsh Global Business School (SGBS) stands at approximately ₹7.5 LPA, with top performing students securing offers up to ₹18.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Sparsh Global Business School (SGBS)?'
-    answer: 'Sparsh Global Business School (SGBS) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Sparsh Global Business School (SGBS)?'
-    answer: 'The total course tuition fee is approximately ₹11.85 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Sparsh Global Business School (SGBS)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Greater Noida'
-state: 'Greater Noida'
+  - question: >-
+      What is the average placement package at Sparsh Global Business School
+      (SGBS) in 2026-2027?
+    answer: >-
+      The verified average placement package at Sparsh Global Business School
+      (SGBS) stands at approximately ₹7.5 LPA, with top performing students
+      securing offers up to ₹18.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Sparsh Global
+      Business School (SGBS)?
+    answer: >-
+      Sparsh Global Business School (SGBS) accepts scores from CAT, XAT, MAT,
+      CMAT, ATMA, and State CETs followed by institutional GD-PI profile
+      evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Sparsh
+      Global Business School (SGBS)?
+    answer: >-
+      The total course tuition fee is approximately ₹11.85 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Sparsh Global
+      Business School (SGBS)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Greater Noida
+state: Greater Noida
 ---
 
-# [Sparsh Global Business School (SGBS)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Sparsh Global Business School (SGBS)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Greater Noida** accredited with **AICTE Approved · ESG Centric Modern B-School** offering career-focused programs in **PGDM**.

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about VIT Bhopal B.Tech admission 2026. Get the
-  latest details on VITEEE rank for CSE, category-wise fee structure, and an
-  honest review of the 300-acre campus.
+  latest details on VITEEE rank for CSE, category-wise fee structure.
 keywords:
   - VIT Bhopal BTech admission 2026
   - VIT Bhopal fees category 1 to 5

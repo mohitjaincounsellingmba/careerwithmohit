@@ -5,9 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of Delhi School of Business (DSB) VIPS-TC
-  for the 2027–29 PGDM batch — NBA accreditation, FinTech PGDM, ₹23.9 LPA
-  highest package, and analytics labs. Find out why DSB is one of Delhi's
-  best-value premium B-schools.
+  for the 2027–29 PGDM batch — NBA accreditation, FinTech PGDM.
 keywords:
   - USP of Delhi School of Business
   - DSB VIPS PGDM 2027–29

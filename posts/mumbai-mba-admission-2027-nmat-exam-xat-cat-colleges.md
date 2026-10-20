@@ -1,12 +1,12 @@
 ---
 title: >-
-  Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs,
-  Fees & Placements
+  Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29
+  Cutoffs, Fees & Placements
 date: '2026-09-03'
 description: >-
   Complete guide to MBA admission 2027 in Mumbai. Check cutoffs, fees, and
   placement reports for NMIMS Mumbai, SPJIMR, K J Somaiya, Welingkar, N L
-  Dalmia, ITM Navi Mumbai, and Universal AI.
+  Dalmia.
 keywords:
   - nmat exam
   - mba admission 2027
@@ -46,7 +46,7 @@ location: Mumbai
 state: Maharashtra
 category: Exams
 ---
-# Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs, Fees & Placements
+## Top MBA Colleges in Mumbai Admission 2027: NMAT Exam, XAT & CAT 2027–29 Cutoffs, Fees & Placements
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Tier Mumbai B-Schools:** SPJIMR, JBIMS, [NMIMS Mumbai](/colleges/nmims-mumbai/) (via NMAT exam), Welingkar, and K J Somaiya.

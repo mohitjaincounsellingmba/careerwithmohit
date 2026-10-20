@@ -3,8 +3,7 @@ title: 'UPTAC (AKTU) Counselling 2026: Dates, Registration & Choice Filling Guid
 date: '2026-03-24'
 description: >-
   Complete guide to UPTAC (AKTU) Counselling 2026 for B.Tech admission in Uttar
-  Pradesh. Check the latest registration dates, JEE Main cutoffs, and top
-  colleges like IET Lucknow & JSS Noida.
+  Pradesh. Check the latest registration dates, JEE Main cutoffs.
 keywords:
   - UPTAC Counselling 2026 dates
   - AKTU BTech admission 2026

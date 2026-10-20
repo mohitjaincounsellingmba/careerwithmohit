@@ -3,8 +3,7 @@ title: 'Top Private MBA Colleges in Delhi NCR Under 10 Lakhs (2027–29): Fees &
 date: '2026-03-17'
 description: >-
   Looking for an affordable MBA in Delhi NCR? Explore top-ranked private
-  colleges with fees under ₹10 Lakhs, verified 2025 placements, and high ROI for
-  the 2027–29 batch.
+  colleges with fees under ₹10 Lakhs, verified 2025 placements.
 keywords:
   - MBA colleges in Delhi under 10 lakhs
   - affordable MBA Delhi NCR

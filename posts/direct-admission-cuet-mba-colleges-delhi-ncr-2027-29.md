@@ -3,8 +3,8 @@ title: 'Direct Admission in CUET MBA Colleges Delhi NCR 2027–29: Fees & Placem
 date: '2026-03-28'
 description: >-
   Looking for direct admission in MBA colleges accepting CUET PG in Delhi NCR?
-  Check out the top private universities with detailed fee structures and latest
-  placement reports for 2026.
+  Check out the top private universities with detailed fee structures and
+  latest...
 keywords:
   - direct admission CUET MBA colleges Delhi NCR
   - MBA colleges in Delhi NCR with fees and placement

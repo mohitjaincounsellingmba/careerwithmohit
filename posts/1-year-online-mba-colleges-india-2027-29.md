@@ -1,13 +1,12 @@
 ---
 title: >-
-  1 Year Online MBA in India 2027–29 – Top Colleges, Fees, Eligibility & Admission
-  Guide
+  1 Year Online MBA in India 2027–29 – Top Colleges, Fees, Eligibility &
+  Admission Guide
 date: '2026-04-25'
 category: Online Degrees
 description: >-
   Looking for a 1-year online MBA in India? Compare top colleges like OP Jindal,
-  Liverpool John Moores, Golden Gate University & more. Check fees,
-  accreditations, eligibility, and get expert admission guidance for 2026.
+  Liverpool John Moores, Golden Gate University & more.
 keywords:
   - 1 year online MBA India 2027–29
   - one year MBA online India

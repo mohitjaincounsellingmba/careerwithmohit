@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Jobs & Careers
 description: >-
   Planning to become a Chartered Financial Analyst? Get the definitive CFA 2026
-  guide. Explore Level 1, 2, and 3 syllabus, total costs in India, and career
-  scope.
+  guide. Explore Level 1, 2, and 3 syllabus, total costs in India.
 keywords:
   - cfa course guide 2026
   - cfa exam dates india 2026

@@ -6,9 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for JK Business School (JKBS) (JKBS Gurgaon).
-  Verified fee structure (₹7.99 Lakhs (Total)), PGDM approvals, audited
-  placements (Avg ₹9.00 LPA, Highest ₹24.00 LPA), PPO stats, certifications,
-  awards, alumni network, faculty profiles, and Why Join review.
+  Verified fee structure (₹7.99 Lakhs (Total)), PGDM approvals.
 keywords:
   - JK Business School (JKBS) admission 2027-29
   - JKBS Gurgaon fees 2027
@@ -77,7 +75,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# JK Business School (JKBS) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## JK Business School (JKBS) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.99 Lakhs (Total)** (**₹3.99 Lakhs per Year**). Gov. D.P. Singhania Scholarships up to 50% for CAT/XAT/MAT achievers.

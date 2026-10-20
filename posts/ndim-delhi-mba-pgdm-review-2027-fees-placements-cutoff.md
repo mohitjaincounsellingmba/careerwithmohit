@@ -2,7 +2,9 @@
 title: 'NDIM Delhi PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 NDIM Delhi PGDM review with audited ₹8.50L placements, ₹11.50L fees, CAT/MAT cutoffs, and admissions ROI guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 NDIM Delhi PGDM review with audited ₹8.50L placements,
+  ₹11.50L fees, CAT/MAT cutoffs, and admissions ROI guidance from Mohit Jain.
 keywords:
   - ndim delhi pgdm review 2027
   - ndim delhi fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at NDIM Delhi in 2026-2027?
     answer: >-
-      The audited average placement CTC at NDIM Delhi stands at ₹8.50 LPA to ₹9.20 LPA across graduating PGDM cohorts. The median package is benchmarked at ₹8.00 LPA, with top performers securing domestic packages reaching up to ₹16.00 LPA to ₹18.50 LPA and international packages touching ₹24.00 LPA.
+      The audited average placement CTC at NDIM Delhi stands at ₹8.50 LPA to
+      ₹9.20 LPA across graduating PGDM cohorts. The median package is
+      benchmarked at ₹8.00 LPA, with top performers securing domestic packages
+      reaching up to ₹16.00 LPA to ₹18.50 LPA and international packages
+      touching ₹24.00 LPA.
   - question: What entrance exams are accepted for PGDM admission at NDIM Delhi?
     answer: >-
-      NDIM Delhi accepts valid scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT. Candidates are shortlisted for Group Discussion, Written Ability Test (WAT), and Personal Interview (PI) based on overall entrance score and academic profile merit.
+      NDIM Delhi accepts valid scores from CAT, XAT, MAT, CMAT, ATMA, and GMAT.
+      Candidates are shortlisted for Group Discussion, Written Ability Test
+      (WAT), and Personal Interview (PI) based on overall entrance score and
+      academic profile merit.
   - question: What is the total fee structure for the PGDM program at NDIM Delhi?
     answer: >-
-      The total course fee for the 2-year full-time AICTE-approved and AIU-recognized PGDM program at NDIM Delhi is ₹11.50 Lakhs (payable in convenient semester-wise installments of ₹2.875 Lakhs per semester).
+      The total course fee for the 2-year full-time AICTE-approved and
+      AIU-recognized PGDM program at NDIM Delhi is ₹11.50 Lakhs (payable in
+      convenient semester-wise installments of ₹2.875 Lakhs per semester).
   - question: Is NDIM Delhi equivalent to an MBA degree?
     answer: >-
-      Yes. NDIM’s PGDM program is accredited by the National Board of Accreditation (NBA) and recognized by the Association of Indian Universities (AIU) as equivalent to an MBA degree awarded by an Indian university.
+      Yes. NDIM’s PGDM program is accredited by the National Board of
+      Accreditation (NBA) and recognized by the Association of Indian
+      Universities (AIU) as equivalent to an MBA degree awarded by an Indian
+      university.
   - question: What is the corporate industry ranking of NDIM Delhi?
     answer: >-
-      NDIM has been declared the "Best Industry-Linked Management Institute in India" by the AICTE-CII (Confederation of Indian Industry) national survey for consecutive years due to its deep corporate governance and recruiting ties with over 250+ annual campus recruiters.
+      NDIM has been declared the "Best Industry-Linked Management Institute in
+      India" by the AICTE-CII (Confederation of Indian Industry) national survey
+      for consecutive years due to its deep corporate governance and recruiting
+      ties with over 250+ annual campus recruiters.
 location: Tughlakabad Institutional Area
 state: South Delhi
 ---
 
-# NDIM Delhi Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## NDIM Delhi Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & National Corporate Recognition**: Located in the Tughlakabad Institutional Area of South Delhi, New Delhi Institute of Management (NDIM) is an elite **AICTE-approved, NBA-accredited, and AIU-MBA equivalent** business school, repeatedly recognized by AICTE-CII as India's premier industry-linked management institution.

@@ -3,8 +3,8 @@ title: Top MBA Digital Marketing Colleges in Delhi NCR 2027–29 — Placements 
 date: '2026-07-17'
 category: Jobs & Careers
 description: >-
-  Looking for the best MBA Digital Marketing colleges in Delhi NCR? Read our 2027–29 guide comparing top B-schools like MDI Gurgaon, FORE School, LBSIM, and
-  IMT Ghaziabad, including fees and placements.
+  Looking for the best MBA Digital Marketing colleges in Delhi NCR? Read our
+  2027–29 guide comparing top B-schools like MDI Gurgaon, FORE School, LBSIM.
 keywords:
   - top mba digital marketing colleges in delhi ncr 2027–29
   - best mba digital marketing in delhi ncr

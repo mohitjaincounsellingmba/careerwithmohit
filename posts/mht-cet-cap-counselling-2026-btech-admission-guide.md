@@ -3,8 +3,7 @@ title: 'MHT-CET CAP 2026: Dates, Registration & Choice Filling Guide'
 date: '2026-03-24'
 description: >-
   Everything you need to know about MHT-CET Centralised Admission Process (CAP)
-  2026 for B.E./B.Tech admissions in Maharashtra. Check registration dates,
-  fees, and top institutes like COEP & VJTI.
+  2026 for B.E./B.Tech admissions in Maharashtra.
 keywords:
   - MHT-CET CAP 2026 dates
   - MHT-CET registration fee

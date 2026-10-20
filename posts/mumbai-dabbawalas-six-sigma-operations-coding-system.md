@@ -4,10 +4,8 @@ title: >-
   System
 date: '2026-05-28'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Mumbai
-  Dabbawalas Case Study: Six Sigma Operations & Genius Manual Coding System.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for Mumbai Dabbawalas Case Study: Six Sigma Operations &...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Mumbai Dabbawalas case study
   - Six Sigma operations case study

@@ -5,9 +5,7 @@ title: >-
 date: '2026-05-11'
 description: >-
   Discover the unique selling points of Jaipuria Institute of Management Noida
-  for the 2027–29 PGDM batch — AACSB accreditation, NIRF #41, 275+ recruiters,
-  and ₹24 LPA highest package. Find out why [Jaipuria
-  Noida](/colleges/jaipuria-noida/) is a top pick for serious MBA aspirants.
+  for the 2027–29 PGDM batch — AACSB accreditation, NIRF #41, 275+ recruiters.
 keywords:
   - 'USP of [Jaipuria Noida](/colleges/jaipuria-noida/)'
   - Jaipuria Institute of Management Noida 2026
@@ -29,7 +27,9 @@ keywords:
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
 faqs:
-  - question: 'What is the highest package at [Jaipuria Noida](/colleges/jaipuria-noida/)?'
+  - question: >-
+      What is the highest package at [Jaipuria
+      Noida](/colleges/jaipuria-noida/)?
     answer: ₹24.11 LPA for the 2027–2029 intake.
   - question: Does Jaipuria have AACSB accreditation?
     answer: Yes — placing it in the top 6% of B-schools globally.

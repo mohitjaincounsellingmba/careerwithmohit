@@ -3,8 +3,7 @@ title: 'CUET PG 2026 Response Sheet & Answer Key: Expected Date & Release Time'
 date: '2026-03-29'
 description: >-
   When will the NTA release the CUET PG 2026 response sheet and provisional
-  answer key? Get the latest expected date, challenge window details, and
-  step-by-step guide to check your raw marks.
+  answer key? Get the latest expected date, challenge window details.
 keywords:
   - CUET PG 2026 response sheet date
   - CUET PG answer key expected date 2026

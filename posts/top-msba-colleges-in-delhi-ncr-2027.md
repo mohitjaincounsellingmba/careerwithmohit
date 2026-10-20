@@ -2,7 +2,9 @@
 title: 'Top MSBA Colleges in Delhi NCR 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-28'
 category: MBA
-description: 'Compare the best MSBA, M.Sc, and MBA Business Analytics colleges in Delhi NCR for 2027. Review DSE, IMI Delhi, LBSIM, FORE, and JIIT by fees, cutoffs & placements.'
+description: >-
+  Compare the best MSBA, M.Sc, and MBA Business Analytics colleges in Delhi NCR
+  for 2027. Review DSE, IMI Delhi, LBSIM, FORE, and JIIT by fees.
 keywords:
   - top msba colleges in delhi ncr 2027
   - msc business analytics delhi ncr
@@ -17,16 +19,24 @@ keywords:
 faqs:
   - question: Which is the best ROI college for Business Analytics in Delhi NCR?
     answer: >-
-      **Delhi School of Economics (DSE), University of Delhi** offers the highest ROI in India, with a 2-year total tuition fee of under ₹50,000 and average placement packages of ₹14.50 LPA.
+      **Delhi School of Economics (DSE), University of Delhi** offers the
+      highest ROI in India, with a 2-year total tuition fee of under ₹50,000 and
+      average placement packages of ₹14.50 LPA.
   - question: What are the top private B-schools for Business Analytics in Delhi NCR?
     answer: >-
-      Top private institutes include **IMI New Delhi** (PGDM Business Analytics), **FORE School of Management** (PGDM Big Data Analytics), and **LBSIM Delhi** (PGDM Research & Business Analytics).
+      Top private institutes include **IMI New Delhi** (PGDM Business
+      Analytics), **FORE School of Management** (PGDM Big Data Analytics), and
+      **LBSIM Delhi** (PGDM Research & Business Analytics).
   - question: What entrance exams are accepted by Delhi NCR Business Analytics colleges?
     answer: >-
-      DSE accepts CAT (95+ percentile). IMI Delhi, FORE, and LBSIM accept CAT, XAT, and GMAT. Other regional universities accept CMAT, MAT, CUET-PG, and institutional exams.
+      DSE accepts CAT (95+ percentile). IMI Delhi, FORE, and LBSIM accept CAT,
+      XAT, and GMAT. Other regional universities accept CMAT, MAT, CUET-PG, and
+      institutional exams.
   - question: What corporate advantages does Delhi NCR offer for analytics students?
     answer: >-
-      Delhi NCR is the corporate headquarters capital of India, housing global consulting giants (McKinsey, BCG, Bain, Big 4), policy think tanks, and technology corridors across Noida Expressway and Cyber City.
+      Delhi NCR is the corporate headquarters capital of India, housing global
+      consulting giants (McKinsey, BCG, Bain, Big 4), policy think tanks, and
+      technology corridors across Noida Expressway and Cyber City.
 location: Delhi NCR
 state: Delhi NCR
 ---

@@ -3,8 +3,7 @@ title: 'GNA University, Phagwara Review 2027–29: Placements, Fees, Courses & A
 date: '2026-08-03'
 description: >-
   Comprehensive review of GNA University, Phagwara (Phagwara) for 2026. Check
-  latest fee structure, flagship courses, placement statistics, top recruiters,
-  and admission process.
+  latest fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - GNA University Phagwara review 2027–29
   - GNA University Phagwara placements 2027–29

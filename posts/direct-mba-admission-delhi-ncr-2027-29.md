@@ -4,8 +4,7 @@ date: '2026-05-23'
 category: MBA
 description: >-
   Looking for direct MBA admission? Explore our guide on direct MBA admission in
-  Delhi NCR for 2026, detailing the management quota process, fees, and top
-  colleges.
+  Delhi NCR for 2026, detailing the management quota process, fees.
 keywords:
   - Direct MBA Admission in Delhi NCR
   - direct mba admission fees

@@ -4,10 +4,8 @@ title: >-
   Process, NEET Cutoff & Fee Structure
 date: '2026-07-21'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Kalinga
-  Institute of Medical Sciences (KIMS), Bhubaneswar MBBS Admission 2026:
-  Process, NEET Cutoff & Fee Structure. Check updated fees, placement records,
-  real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Kalinga Institute of Medical Sciences (KIMS), Bhuban...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - KIMS Bhubaneswar MBBS admission 2026
   - KIMS Bhubaneswar fee structure

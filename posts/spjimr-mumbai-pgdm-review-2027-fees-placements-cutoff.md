@@ -2,7 +2,10 @@
 title: 'SPJIMR Mumbai PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SPJIMR Mumbai PGDM review with audited ₹33.00 LPA placements, ₹24.00L fees, profile-based cutoffs, and admission tips from Mohit Jain.'
+description: >-
+  Read verified 2027 SPJIMR Mumbai PGDM review with audited ₹33.00 LPA
+  placements, ₹24.00L fees, profile-based cutoffs, and admission tips from Mohit
+  Jain.
 keywords:
   - spjimr mumbai pgdm admission 2027
   - spjimr mumbai fees structure 2027
@@ -15,24 +18,39 @@ keywords:
 faqs:
   - question: What is the average placement package at SPJIMR Mumbai in 2026-2027?
     answer: >-
-      The verified overall average CTC at SPJIMR Mumbai stands at ₹33.00 LPA, with the median CTC benchmarked at ₹31.50 LPA. The top 25% of the batch secured an average salary of ₹41.20 LPA, while the highest domestic offer reached ₹77.80 LPA.
+      The verified overall average CTC at SPJIMR Mumbai stands at ₹33.00 LPA,
+      with the median CTC benchmarked at ₹31.50 LPA. The top 25% of the batch
+      secured an average salary of ₹41.20 LPA, while the highest domestic offer
+      reached ₹77.80 LPA.
   - question: How does the profile-based shortlisting work at SPJIMR Mumbai?
     answer: >-
-      SPJIMR shortlists candidates in two phases. In Phase 1 (Profile-Based), candidates with outstanding academic records, work experience quality, and extracurricular achievements receive early interview calls with a minimum CAT/XAT score of 85 percentile. In Phase 2 (Score-Based), calls are based on 95+ CAT/XAT percentiles.
+      SPJIMR shortlists candidates in two phases. In Phase 1 (Profile-Based),
+      candidates with outstanding academic records, work experience quality, and
+      extracurricular achievements receive early interview calls with a minimum
+      CAT/XAT score of 85 percentile. In Phase 2 (Score-Based), calls are based
+      on 95+ CAT/XAT percentiles.
   - question: What is the total fee structure for the 2-year PGDM at SPJIMR Mumbai?
     answer: >-
-      The total academic fee for the 2-year full-time residential PGDM at SPJIMR Mumbai is approximately ₹24.00 Lakhs, which covers tuition, single-occupancy hostel accommodations, digital resource databases, and global fast-track immersion programs.
+      The total academic fee for the 2-year full-time residential PGDM at SPJIMR
+      Mumbai is approximately ₹24.00 Lakhs, which covers tuition,
+      single-occupancy hostel accommodations, digital resource databases, and
+      global fast-track immersion programs.
   - question: What entrance exams are accepted for admission at SPJIMR Mumbai?
     answer: >-
-      SPJIMR Mumbai accepts valid scores from CAT, XAT, and GMAT. Candidates can apply using either or all of these exam scores in the single application form.
+      SPJIMR Mumbai accepts valid scores from CAT, XAT, and GMAT. Candidates can
+      apply using either or all of these exam scores in the single application
+      form.
   - question: When do students choose their specialization at SPJIMR?
     answer: >-
-      Unlike most business schools where specializations are chosen in the second year, SPJIMR requires applicants to select their specialization (Finance, Marketing, Operations & Supply Chain, or Information Management) at the time of application itself.
+      Unlike most business schools where specializations are chosen in the
+      second year, SPJIMR requires applicants to select their specialization
+      (Finance, Marketing, Operations & Supply Chain, or Information Management)
+      at the time of application itself.
 location: Mumbai
 state: Maharashtra
 ---
 
-# [SPJIMR Mumbai](/colleges/spjimr-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [SPJIMR Mumbai](/colleges/spjimr-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Prestige**: Established in 1981 under Bharatiya Vidya Bhavan, **SPJIMR Mumbai** (Andheri West, Mumbai) holds **NIRF Rank #20**, prestigious dual **AACSB and AMBA accreditations**, and ranks in the **Financial Times Global Top 40 Masters in Management (FT MiM)**.

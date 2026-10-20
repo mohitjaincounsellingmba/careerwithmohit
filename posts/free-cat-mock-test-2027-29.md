@@ -1,8 +1,12 @@
 ---
-title: 'Free CAT Mock Test 2026/27: Full 68-Question CBT with IIM Call Predictor & Solutions'
+title: >-
+  Free CAT Mock Test 2026/27: Full 68-Question CBT with IIM Call Predictor &
+  Solutions
 date: '2026-10-02'
 category: Exams
-description: 'Attempt our 100% free full-length CAT 2026 CBT Mock Test online. Realistic 68 questions across VARC (24), DILR (22), and QA (22) with 40-minute sectional timers, raw score calculator out of 198, score vs percentile matrix, 20 IIM cutoffs, and complete step-by-step solutions.'
+description: >-
+  Attempt our 100% free full-length CAT 2026 CBT Mock Test online. Realistic 68
+  questions across VARC (24), DILR (22), and QA (22) with 40-minute sectional...
 keywords:
   - free cat mock test 2026
   - cat mock test online free
@@ -19,21 +23,38 @@ keywords:
   - cat quantitative aptitude mock test
   - mba pgdm admission 2027 cat
 faqs:
-  - question: 'What is the pattern and duration of the CAT 2026 exam?'
-    answer: 'The CAT 2026 exam consists of 66 to 68 questions divided across 3 sections: VARC (24 questions), DILR (20-22 questions), and Quantitative Ability (22 questions) with a 120-minute total testing time (strictly 40 minutes per section).'
-  - question: 'How is the CAT raw score calculated out of 198?'
-    answer: 'Each correct answer awards +3 marks, while each incorrect multiple-choice question (MCQ) penalizes -1 mark. Non-MCQ (TITA) questions carry zero negative marking. The net score across all 3 sections constitutes your total raw score.'
-  - question: 'What raw score is required for 99 percentile in CAT?'
-    answer: 'A raw score of 85+ marks (out of 198) typically secures a 99+ percentile in CAT, which is the competitive benchmark for interview calls from top IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow) and FMS Delhi.'
-  - question: 'Which top MBA colleges accept CAT 2026 scores for 2027 admissions?'
-    answer: 'All 21 IIMs, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, IIT Bombay (SJMSOM), IIT Delhi (DMS), IIM Rohtak, IMT Ghaziabad, GIM Goa, FORE School Delhi, and TAPMI Manipal accept CAT 2026 scores.'
-  - question: 'Can I switch between sections during the CAT exam?'
-    answer: 'No, CAT enforces a strict 40-minute sectional timer for each section in a fixed order (VARC -> DILR -> QA). You cannot switch or return to a previous section once its 40-minute window has elapsed.'
+  - question: What is the pattern and duration of the CAT 2026 exam?
+    answer: >-
+      The CAT 2026 exam consists of 66 to 68 questions divided across 3
+      sections: VARC (24 questions), DILR (20-22 questions), and Quantitative
+      Ability (22 questions) with a 120-minute total testing time (strictly 40
+      minutes per section).
+  - question: How is the CAT raw score calculated out of 198?
+    answer: >-
+      Each correct answer awards +3 marks, while each incorrect multiple-choice
+      question (MCQ) penalizes -1 mark. Non-MCQ (TITA) questions carry zero
+      negative marking. The net score across all 3 sections constitutes your
+      total raw score.
+  - question: What raw score is required for 99 percentile in CAT?
+    answer: >-
+      A raw score of 85+ marks (out of 198) typically secures a 99+ percentile
+      in CAT, which is the competitive benchmark for interview calls from top
+      IIMs (Ahmedabad, Bangalore, Calcutta, Lucknow) and FMS Delhi.
+  - question: Which top MBA colleges accept CAT 2026 scores for 2027 admissions?
+    answer: >-
+      All 21 IIMs, FMS Delhi, SPJIMR Mumbai, MDI Gurgaon, IIT Bombay (SJMSOM),
+      IIT Delhi (DMS), IIM Rohtak, IMT Ghaziabad, GIM Goa, FORE School Delhi,
+      and TAPMI Manipal accept CAT 2026 scores.
+  - question: Can I switch between sections during the CAT exam?
+    answer: >-
+      No, CAT enforces a strict 40-minute sectional timer for each section in a
+      fixed order (VARC -> DILR -> QA). You cannot switch or return to a
+      previous section once its 40-minute window has elapsed.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Free CAT Mock Test 2026/27: Full 68-Question CBT with IIM Call Predictor & Solutions
+## Free CAT Mock Test 2026/27: Full 68-Question CBT with IIM Call Predictor & Solutions
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Exam Format & Duration**: 66–68 Questions across 3 strictly timed sections (VARC: 24 Qs, DILR: 22 Qs, QA: 22 Qs) in 120 Minutes (40 mins per section) with +3 for correct and -1 for wrong MCQ.

@@ -4,8 +4,7 @@ date: '2026-06-05'
 category: Online Degrees
 description: >-
   Looking for affordable MBA options in Greater Noida? Check our list of the
-  best MBA colleges under 5 lakhs in Greater Noida for 2027–29, comparing fees,
-  entrance exams, and placement packages.
+  best MBA colleges under 5 lakhs in Greater Noida for 2027–29, comparing fees.
 keywords:
   - MBA Colleges under 5 Lakhs in Greater Noida
   - affordable MBA in Greater Noida

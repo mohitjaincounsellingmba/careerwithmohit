@@ -4,8 +4,7 @@ date: '2026-03-28'
 category: B.Tech
 description: >-
   Get direct admission in B.Tech Data Science in Delhi NCR. Explore the best
-  colleges, management quota fees, and placement prospects for Big Data and
-  Analytics in 2026.
+  colleges, management quota fees, and placement prospects for Big Data and...
 keywords:
   - direct admission B.Tech Data Science Delhi NCR
   - management quota B.Tech Big Data Noida

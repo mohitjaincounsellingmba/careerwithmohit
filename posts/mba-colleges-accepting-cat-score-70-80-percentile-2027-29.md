@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Discover top MBA colleges accepting CAT score 70-80 percentile in 2027–29.
   Compare fees, cutoffs, placements (9-14 LPA), and profile-based direct
-  admission options.
+  admission...
 keywords:
   - MBA Colleges Accepting CAT Score 70-80 Percentile
   - CAT 70 to 80 percentile colleges

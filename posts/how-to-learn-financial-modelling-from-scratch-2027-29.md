@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-24'
 description: >-
   Start your high-finance journey with our 2026 step-by-step roadmap to learn
-  financial modelling from scratch. Master Excel, valuation, and AI-augmented
-  workflows to land top IB/PE roles.
+  financial modelling from scratch.
 keywords:
   - how to learn financial modelling from scratch
   - financial modelling roadmap 2026

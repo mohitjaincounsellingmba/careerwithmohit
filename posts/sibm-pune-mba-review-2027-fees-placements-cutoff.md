@@ -2,7 +2,9 @@
 title: 'SIBM Pune MBA Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SIBM Pune MBA review with audited ₹28.16 LPA placements, ₹26.00L fees, SNAP 98.5+ cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SIBM Pune MBA review with audited ₹28.16 LPA placements,
+  ₹26.00L fees, SNAP 98.5+ cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - sibm pune mba admission 2027
   - sibm pune fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at SIBM Pune in 2026-2027?
     answer: >-
-      The verified overall average CTC at SIBM Pune stands at ₹28.16 LPA (with recent batch range of ₹26.77 LPA to ₹28.16 LPA), while the median package is benchmarked at ₹24.00 LPA to ₹25.00 LPA. The top 10% of the batch secured an average salary of ₹37.80 LPA, and the highest domestic offer reached ₹49.00 LPA.
+      The verified overall average CTC at SIBM Pune stands at ₹28.16 LPA (with
+      recent batch range of ₹26.77 LPA to ₹28.16 LPA), while the median package
+      is benchmarked at ₹24.00 LPA to ₹25.00 LPA. The top 10% of the batch
+      secured an average salary of ₹37.80 LPA, and the highest domestic offer
+      reached ₹49.00 LPA.
   - question: What entrance exams are accepted for admission at SIBM Pune?
     answer: >-
-      SIBM Pune accepts only the Symbiosis National Aptitude Test (SNAP) conducted by Symbiosis International University (SIU). CAT, XAT, NMAT, or CMAT scores are not accepted.
+      SIBM Pune accepts only the Symbiosis National Aptitude Test (SNAP)
+      conducted by Symbiosis International University (SIU). CAT, XAT, NMAT, or
+      CMAT scores are not accepted.
   - question: What is the total fee structure for the MBA program at SIBM Pune?
     answer: >-
-      The total course fee for the 2-year full-time residential MBA program at SIBM Pune is approximately ₹26.00 Lakhs, which covers academic tuition, twin-sharing/single hilltop hostel accommodations, library databases, and campus facilities.
+      The total course fee for the 2-year full-time residential MBA program at
+      SIBM Pune is approximately ₹26.00 Lakhs, which covers academic tuition,
+      twin-sharing/single hilltop hostel accommodations, library databases, and
+      campus facilities.
   - question: What is the SNAP cutoff for SIBM Pune admission 2027?
     answer: >-
-      The safe qualifying SNAP cutoff for SIBM Pune MBA flagship is 98.5+ percentile (safe call threshold at 98.7+ %ile). Shortlisted candidates undergo Group Exercise (GE), Personal Interview (PI), and Writing Ability Test (WAT).
+      The safe qualifying SNAP cutoff for SIBM Pune MBA flagship is 98.5+
+      percentile (safe call threshold at 98.7+ %ile). Shortlisted candidates
+      undergo Group Exercise (GE), Personal Interview (PI), and Writing Ability
+      Test (WAT).
   - question: What are the key specializations offered at SIBM Pune?
     answer: >-
-      SIBM Pune offers MBA specializations in Marketing (renowned for Tier-1 FMCG placements), Human Resource Management, Finance, and Operations & Supply Chain Management, alongside an MBA in Innovation & Entrepreneurship (I&E).
+      SIBM Pune offers MBA specializations in Marketing (renowned for Tier-1
+      FMCG placements), Human Resource Management, Finance, and Operations &
+      Supply Chain Management, alongside an MBA in Innovation & Entrepreneurship
+      (I&E).
 location: Pune
 state: Maharashtra
 ---
 
-# [SIBM Pune](/colleges/sibm-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [SIBM Pune](/colleges/sibm-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Scenic Hilltop Campus**: Established in 1978 as the flagship business school of Symbiosis International University (SIU), **SIBM Pune** operates from a breathtaking 300-acre hilltop residential campus in Lavale (Pune, Maharashtra), holding **NIRF Rank #13** and **NAAC A++ Grade (3.58 CGPA)**.

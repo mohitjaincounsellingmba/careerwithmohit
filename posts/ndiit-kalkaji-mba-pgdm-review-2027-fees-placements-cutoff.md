@@ -2,7 +2,9 @@
 title: 'NDIIT Kalkaji PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 NDIIT Kalkaji PGDM review with audited ₹6.80L placements, ₹5.80L fees, CAT/MAT cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 NDIIT Kalkaji PGDM review with audited ₹6.80L placements,
+  ₹5.80L fees, CAT/MAT cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - ndiit kalkaji pgdm review 2027
   - ndiit delhi fees structure 2027
@@ -15,24 +17,37 @@ keywords:
 faqs:
   - question: What is the average placement package at NDIIT Kalkaji in 2026-2027?
     answer: >-
-      The verified overall average CTC at NDIIT Kalkaji stands at ₹6.80 LPA to ₹7.20 LPA across graduating PGDM cohorts. The median package is benchmarked at ₹6.50 LPA, with top performers securing domestic packages reaching up to ₹16.00 LPA to ₹18.00 LPA in consulting, tech sales, and BFSI domains.
+      The verified overall average CTC at NDIIT Kalkaji stands at ₹6.80 LPA to
+      ₹7.20 LPA across graduating PGDM cohorts. The median package is
+      benchmarked at ₹6.50 LPA, with top performers securing domestic packages
+      reaching up to ₹16.00 LPA to ₹18.00 LPA in consulting, tech sales, and
+      BFSI domains.
   - question: What entrance exams are accepted for PGDM admission at NDIIT Kalkaji?
     answer: >-
-      NDIIT Kalkaji accepts valid scores from CAT, XAT, MAT, CMAT, and ATMA. Candidates can also appear for the institute's internal aptitude screening test followed by Written Ability Test (WAT) and personal interview rounds.
+      NDIIT Kalkaji accepts valid scores from CAT, XAT, MAT, CMAT, and ATMA.
+      Candidates can also appear for the institute's internal aptitude screening
+      test followed by Written Ability Test (WAT) and personal interview rounds.
   - question: What is the total fee structure for the PGDM program at NDIIT Kalkaji?
     answer: >-
-      The total course fee for the 2-year full-time AICTE-approved PGDM program at NDIIT Kalkaji is approximately ₹5.80 Lakhs to ₹6.20 Lakhs, payable in convenient semester-wise installments.
+      The total course fee for the 2-year full-time AICTE-approved PGDM program
+      at NDIIT Kalkaji is approximately ₹5.80 Lakhs to ₹6.20 Lakhs, payable in
+      convenient semester-wise installments.
   - question: Is NDIIT Kalkaji approved by AICTE?
     answer: >-
-      Yes. New Delhi Institute of Information Technology & Management (NDIIT) is approved by the All India Council for Technical Education (AICTE), Ministry of Education, Government of India.
+      Yes. New Delhi Institute of Information Technology & Management (NDIIT) is
+      approved by the All India Council for Technical Education (AICTE),
+      Ministry of Education, Government of India.
   - question: What is the location advantage of NDIIT in Kalkaji South Delhi?
     answer: >-
-      Located in Kalkaji adjacent to the Nehru Place commercial district and Okhla Industrial Area, NDIIT provides easy metro connectivity (Violet and Magenta Lines) and continuous access to corporate guest faculty, live consulting sprints, and metro internships.
+      Located in Kalkaji adjacent to the Nehru Place commercial district and
+      Okhla Industrial Area, NDIIT provides easy metro connectivity (Violet and
+      Magenta Lines) and continuous access to corporate guest faculty, live
+      consulting sprints, and metro internships.
 location: Kalkaji
 state: South Delhi
 ---
 
-# NDIIT Kalkaji Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## NDIIT Kalkaji Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & South Delhi Commercial Nexus**: Located in Kalkaji, South Delhi, directly adjacent to Asia’s commercial tech hub Nehru Place and Okhla Industrial Area, New Delhi Institute of Information Technology & Management (NDIIT) offers an industry-curated, **AICTE-approved 2-year PGDM** with heavy digital business immersion.

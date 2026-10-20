@@ -3,8 +3,7 @@ title: 'Total Seats in IIMs 2026: Institute-wise Seat Matrix for CAT Aspirants'
 date: '2026-08-04'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - total seats in IIM 2026
   - IIM seat matrix 2026

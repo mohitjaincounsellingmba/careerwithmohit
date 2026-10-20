@@ -25,8 +25,8 @@ import { ScholarshipsClient } from '@/components/ScholarshipsClient';
 import { ALL_SCHOLARSHIPS } from '@/data/scholarships';
 
 export const metadata: Metadata = {
-  title: 'Top Scholarships 2027-2028: National & Global Funding | CareerWithMohit',
-  description: 'Explore the definitive list of 2027-2028 scholarships for Indian students. Compare merit-based, means-based, MBA, PGDM, engineering, and study abroad funding with eligibility guidelines from Mohit Jain.',
+  title: 'Top Scholarships for Indian Students 2027-2028',
+  description: 'Explore merit & means-based scholarships for MBA, B.Tech & study abroad 2027-2028. Check eligibility, application deadlines & guidelines with Mohit Jain.',
   keywords: [
     'scholarships 2027',
     'mba scholarships 2027 india',

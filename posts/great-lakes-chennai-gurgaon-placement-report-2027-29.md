@@ -23,8 +23,7 @@ ab_test:
         ROI breakdown, PGPM vs PGDM salaries, and direct admission guidelines.
 description: >-
   Detailed Great Lakes Institute of Management (GLIM) Chennai and Gurgaon
-  Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries,
-  top recruiters & ROI.
+  Placement Report 2025. Explore 1-Year PGPM and 2-Year PGDM average salaries.
 keywords:
   - great lakes placement report 2025
   - great lakes chennai average package 2025

@@ -1,31 +1,55 @@
 ---
-title: 'Dr. D.Y. Patil Institute of Management & Research PGDM 2027: Fees, Cutoff & Placements ROI'
+title: >-
+  Dr. D.Y. Patil Institute of Management & Research PGDM 2027: Fees, Cutoff &
+  Placements ROI
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Dr. D.Y. Patil Institute of Management & Research (Pimpri, Pune). Check updated fee structure (₹3.50L - ₹6.50L (Total)), average placement (₹8.0 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Dr. D.Y. Patil Institute of Management &
+  Research (Pimpri, Pune). Check updated fee structure (₹3.50L - ₹6.50L
+  (Total)).
 keywords:
-  - 'dr. d.y. patil institute of management & research pgdm admission 2027'
-  - 'dr. d.y. patil institute of management & research mba fees 2027'
-  - 'dr. d.y. patil institute of management & research average placement package'
-  - 'dr. d.y. patil institute of management & research cutoff 2026 2027'
-  - 'dr. d.y. patil institute of management & research review 2027'
-  - 'direct admission in dr. d.y. patil institute of management & research'
-  - 'top pgdm colleges in pimpri'
-  - 'best mba colleges in pune'
+  - dr. d.y. patil institute of management & research pgdm admission 2027
+  - dr. d.y. patil institute of management & research mba fees 2027
+  - dr. d.y. patil institute of management & research average placement package
+  - dr. d.y. patil institute of management & research cutoff 2026 2027
+  - dr. d.y. patil institute of management & research review 2027
+  - direct admission in dr. d.y. patil institute of management & research
+  - top pgdm colleges in pimpri
+  - best mba colleges in pune
 faqs:
-  - question: 'What is the average placement package at Dr. D.Y. Patil Institute of Management & Research in 2026-2027?'
-    answer: 'The verified average placement package at Dr. D.Y. Patil Institute of Management & Research stands at approximately ₹8.0 LPA, with top performing students securing offers up to ₹24.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Dr. D.Y. Patil Institute of Management & Research?'
-    answer: 'Dr. D.Y. Patil Institute of Management & Research accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Dr. D.Y. Patil Institute of Management & Research?'
-    answer: 'The total course tuition fee is approximately ₹3.50L - ₹6.50L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Dr. D.Y. Patil Institute of Management & Research?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Pimpri'
-state: 'Pune'
+  - question: >-
+      What is the average placement package at Dr. D.Y. Patil Institute of
+      Management & Research in 2026-2027?
+    answer: >-
+      The verified average placement package at Dr. D.Y. Patil Institute of
+      Management & Research stands at approximately ₹8.0 LPA, with top
+      performing students securing offers up to ₹24.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Dr. D.Y. Patil
+      Institute of Management & Research?
+    answer: >-
+      Dr. D.Y. Patil Institute of Management & Research accepts scores from CAT,
+      XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI
+      profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Dr. D.Y.
+      Patil Institute of Management & Research?
+    answer: >-
+      The total course tuition fee is approximately ₹3.50L - ₹6.50L (Total) for
+      the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Dr. D.Y. Patil
+      Institute of Management & Research?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Pimpri
+state: Pune
 ---
 
-# [Dr. D.Y. Patil Institute of Management & Research](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Dr. D.Y. Patil Institute of Management & Research](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Pimpri, Pune** accredited with **AICTE Approved · SPPU Affiliated · NAAC Grade A++** offering career-focused programs in **MBA, PGDM**.

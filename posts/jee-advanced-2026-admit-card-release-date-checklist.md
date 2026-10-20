@@ -5,7 +5,7 @@ category: B.Tech
 description: >-
   IIT Roorkee will release the JEE Advanced 2026 admit cards on May 11. Check
   the official exam date, download process, and mandatory guidelines for the May
-  17 examination.
+  17...
 keywords:
   - JEE Advanced 2026 exam date
   - JEE Advanced admit card 2026 release date

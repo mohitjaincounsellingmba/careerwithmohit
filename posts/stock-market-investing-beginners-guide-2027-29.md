@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Jobs & Careers
 description: >-
   New to the stock market? Learn how to start investing in 2026. Discover Demat
-  accounts, basic stock picking tips, Mutual Funds vs Direct Stocks, and how to
-  avoid common traps.
+  accounts, basic stock picking tips, Mutual Funds vs Direct Stocks.
 keywords:
   - stock market for beginners 2026
   - how to buy first stock india

@@ -2,7 +2,9 @@
 title: 'SCMHRD Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SCMHRD Pune MBA review with audited ₹21.32 LPA placements, ₹26.50L fees, SNAP 96+ cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SCMHRD Pune MBA review with audited ₹21.32 LPA placements,
+  ₹26.50L fees, SNAP 96+ cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - scmhrd pune mba admission 2027
   - scmhrd fees structure 2027
@@ -15,24 +17,37 @@ keywords:
 faqs:
   - question: What is the average placement package at SCMHRD Pune in 2026-2027?
     answer: >-
-      The verified overall average CTC at SCMHRD Pune stands at ₹21.32 LPA to ₹23.71 LPA across all programs (with the flagship MBA-HR cohort averaging ₹24.50 LPA). The median package is benchmarked at ₹20.00 LPA, and the highest domestic offer reached ₹38.00 LPA (international offers up to ₹67.60 LPA).
+      The verified overall average CTC at SCMHRD Pune stands at ₹21.32 LPA to
+      ₹23.71 LPA across all programs (with the flagship MBA-HR cohort averaging
+      ₹24.50 LPA). The median package is benchmarked at ₹20.00 LPA, and the
+      highest domestic offer reached ₹38.00 LPA (international offers up to
+      ₹67.60 LPA).
   - question: What entrance exams are accepted for admission at SCMHRD Pune?
     answer: >-
-      SCMHRD Pune accepts only valid scores from the Symbiosis National Aptitude Test (SNAP). CAT, XAT, NMAT, or CMAT scores are not accepted.
+      SCMHRD Pune accepts only valid scores from the Symbiosis National Aptitude
+      Test (SNAP). CAT, XAT, NMAT, or CMAT scores are not accepted.
   - question: What is the total fee structure for the MBA programs at SCMHRD Pune?
     answer: >-
-      The total course fee for the 2-year full-time residential MBA programs at SCMHRD Pune is approximately ₹26.50 Lakhs to ₹27.50 Lakhs, which covers academic tuition, Hinjawadi hostel accommodations, digital library databases, and case study packs.
+      The total course fee for the 2-year full-time residential MBA programs at
+      SCMHRD Pune is approximately ₹26.50 Lakhs to ₹27.50 Lakhs, which covers
+      academic tuition, Hinjawadi hostel accommodations, digital library
+      databases, and case study packs.
   - question: What is the SNAP cutoff for SCMHRD Pune admission 2027?
     answer: >-
-      The safe qualifying SNAP cutoff for SCMHRD Pune typically ranges between 96.00 and 97.00+ percentile. Shortlisted candidates undergo Group Exercise (GE), Personal Interaction (PI), and Writing Ability Test (WAT).
+      The safe qualifying SNAP cutoff for SCMHRD Pune typically ranges between
+      96.00 and 97.00+ percentile. Shortlisted candidates undergo Group Exercise
+      (GE), Personal Interaction (PI), and Writing Ability Test (WAT).
   - question: How does SCMHRD's MBA-HR compare to XLRI and TISS?
     answer: >-
-      SCMHRD is widely recognized as one of India's top 3 institutions for Human Resource Management alongside XLRI Jamshedpur and TISS Mumbai, attracting premier CHRO pipelines from TAS, Aditya Birla Group, Unilever, P&G, and McKinsey.
+      SCMHRD is widely recognized as one of India's top 3 institutions for Human
+      Resource Management alongside XLRI Jamshedpur and TISS Mumbai, attracting
+      premier CHRO pipelines from TAS, Aditya Birla Group, Unilever, P&G, and
+      McKinsey.
 location: Pune
 state: Maharashtra
 ---
 
-# [SCMHRD Pune](/colleges/scmhrd-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [SCMHRD Pune](/colleges/scmhrd-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & HR Powerhouse**: Established in 1993 under Symbiosis International University (SIU), **SCMHRD Pune** operates from Hinjawadi Infotech Park (Pune, Maharashtra), holding **NIRF Rank #28** and prestigious **AACSB global accreditation**.

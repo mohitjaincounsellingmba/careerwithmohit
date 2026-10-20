@@ -4,10 +4,8 @@ title: >-
   upresults.nic.in
 date: '2026-04-23'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for UP Board 10th
-  & 12th Result 2026 Declared: Check High School & Inter Result at
-  upresults.nic.in. Check updated fees, placement records, real cutoffs, and
-  selection tips by Mohit Jain.
+  2027 guide for UP Board 10th & 12th Result 2026 Declared: Check Hig...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - UP Board 12th result 2026
   - UP Board 10th result 2026

@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of K.R. Mangalam University, Gurugram (Gurugram) for
-  2026. Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - K.R. Mangalam University review 2027–29
   - K.R. Mangalam University placements 2027–29

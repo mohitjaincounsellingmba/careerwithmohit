@@ -4,7 +4,7 @@ date: '2026-05-01'
 description: >-
   Learn how to check and download your CBSE Class 12 Result 2026 using
   DigiLocker. Get the step-by-step process for account activation and using the
-  6-digit security PIN.
+  6-digit...
 keywords:
   - CBSE 12th result 2026 DigiLocker
   - CBSE result security PIN 2026

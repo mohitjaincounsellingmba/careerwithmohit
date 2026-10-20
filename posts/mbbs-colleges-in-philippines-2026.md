@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Detailed guide on MBBS (MD) in Philippines 2026. BS+MD course breakdown, NMAT
-  exam, top medical colleges, fees (₹18L-₹32L), and latest NMC 54+12 months
-  rules update.
+  exam, top medical colleges, fees (₹18L-₹32L).
 keywords:
   - mbbs colleges in philippines 2026
   - md course in philippines fees for indian students

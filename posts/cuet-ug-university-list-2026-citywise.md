@@ -6,8 +6,7 @@ date: '2026-04-03'
 category: Exams
 description: >-
   Looking for universities accepting CUET UG 2026 scores? Explore the
-  categorized list for Delhi NCR, Pune, Jaipur, Bangalore, and Mumbai to plan
-  your undergraduate admission.
+  categorized list for Delhi NCR, Pune, Jaipur, Bangalore.
 keywords:
   - CUET UG university list 2026
   - CUET colleges in Delhi NCR

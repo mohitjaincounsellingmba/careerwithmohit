@@ -1,11 +1,12 @@
 ---
-title: 'Top MBA Colleges Under 5 Lakhs in Thiruvananthapuram 2027–29: Fees & Placements'
+title: >-
+  Top MBA Colleges Under 5 Lakhs in Thiruvananthapuram 2027–29: Fees &
+  Placements
 date: '2026-06-05'
 category: Online Degrees
 description: >-
   Looking for affordable MBA options in Thiruvananthapuram? Check our list of
-  the best MBA colleges under 5 lakhs in Thiruvananthapuram for 2027–29, comparing
-  fees, entrance exams, and placement packages.
+  the best MBA colleges under 5 lakhs in Thiruvananthapuram for 2027–29.
 keywords:
   - MBA Colleges under 5 Lakhs in Thiruvananthapuram
   - affordable MBA in Thiruvananthapuram

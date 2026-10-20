@@ -4,10 +4,8 @@ title: >-
   Tips
 date: '2026-03-12'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for GDPI Master
-  Guide 2026: 20 Trending GD Topics with Solutions & MBA Interview Tips. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for GDPI Master Guide 2026: 20 Trending GD Topics with S...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - GD topics for MBA 2027–29 with solutions
   - MBA interview questions 2027–29

@@ -1,8 +1,10 @@
 ---
-title: "JIMS Kalkaji PGDM Review 2027: Fees, Cutoff & Placements"
-date: "2026-09-27"
+title: 'JIMS Kalkaji PGDM Review 2027: Fees, Cutoff & Placements'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 JIMS Kalkaji PGDM review with audited ₹8.80L placements, ₹9.80L fees, South Delhi advantage, and admission tips from Mohit Jain."
+description: >-
+  Read verified 2027 JIMS Kalkaji PGDM review with audited ₹8.80L placements,
+  ₹9.80L fees, South Delhi advantage, and admission tips from Mohit Jain.
 keywords:
   - jims kalkaji pgdm review 2027
   - jims kalkaji fees structure 2027
@@ -13,26 +15,45 @@ keywords:
   - direct admission in jims kalkaji
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at JIMS Kalkaji (South Delhi)?
+  - question: >-
+      What is the audited average placement package at JIMS Kalkaji (South
+      Delhi)?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at Jagannath International Management School (JIMS Kalkaji) stands at ₹8.50 LPA to ₹8.80 LPA. The median CTC is recorded at ₹8.20 LPA, with top 20% performers securing ₹12.50 LPA and peak domestic offers reaching ₹22.00 LPA.
+      The verified overall average placement package across graduating PGDM
+      cohorts at Jagannath International Management School (JIMS Kalkaji) stands
+      at ₹8.50 LPA to ₹8.80 LPA. The median CTC is recorded at ₹8.20 LPA, with
+      top 20% performers securing ₹12.50 LPA and peak domestic offers reaching
+      ₹22.00 LPA.
   - question: What accreditations are held by JIMS Kalkaji?
     answer: >-
-      JIMS Kalkaji is approved by AICTE, accredited by the National Board of Accreditation (NBA), granted MBA equivalence by the Association of Indian Universities (AIU), and accredited with an 'A' grade by NAAC. It also features consistently in the NIRF management rankings.
+      JIMS Kalkaji is approved by AICTE, accredited by the National Board of
+      Accreditation (NBA), granted MBA equivalence by the Association of Indian
+      Universities (AIU), and accredited with an 'A' grade by NAAC. It also
+      features consistently in the NIRF management rankings.
   - question: What is the complete fee structure for the 2-year PGDM at JIMS Kalkaji?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM at JIMS Kalkaji is approximately ₹9.80 Lakhs to ₹10.75 Lakhs, payable in term installments across six trimesters. Partnered student housing facilities in South Delhi range between ₹1,30,000 and ₹1,60,000 per academic year.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM at
+      JIMS Kalkaji is approximately ₹9.80 Lakhs to ₹10.75 Lakhs, payable in term
+      installments across six trimesters. Partnered student housing facilities
+      in South Delhi range between ₹1,30,000 and ₹1,60,000 per academic year.
   - question: What entrance exams and cutoffs are accepted at JIMS Kalkaji?
     answer: >-
-      JIMS Kalkaji accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative cutoff thresholds range between 65.0% and 75.0% percentile, accompanied by an evaluation of graduation academics, Group Discussion, and Personal Interview (GD-PI) performance.
+      JIMS Kalkaji accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative
+      cutoff thresholds range between 65.0% and 75.0% percentile, accompanied by
+      an evaluation of graduation academics, Group Discussion, and Personal
+      Interview (GD-PI) performance.
   - question: How does JIMS Kalkaji differ from JIMS Rohini?
     answer: >-
-      While both operate under the Jagannath Gupta Memorial Educational Society, JIMS Kalkaji is located in South Delhi near Nehru Place commercial center focusing primarily on PGDM and International Business, whereas JIMS Rohini (Sector 5) is located in North-West Delhi offering both PGDM and GGSIPU programs.
+      While both operate under the Jagannath Gupta Memorial Educational Society,
+      JIMS Kalkaji is located in South Delhi near Nehru Place commercial center
+      focusing primarily on PGDM and International Business, whereas JIMS Rohini
+      (Sector 5) is located in North-West Delhi offering both PGDM and GGSIPU
+      programs.
 location: 'Kalkaji, South Delhi'
-state: 'New Delhi'
+state: New Delhi
 ---
 
-# [JIMS Kalkaji (Jagannath International Management School)](https://careerwithmohit.online/blog/jims-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & South Delhi Advantage
+## [JIMS Kalkaji (Jagannath International Management School)](https://careerwithmohit.online/blog/jims-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & South Delhi Advantage
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Accreditations**: Established in 1997 under the Jagannath Gupta Memorial Educational Society, JIMS Kalkaji is a prominent private management institution in South Delhi. Approved by **AICTE**, accredited by **NBA**, granted **AIU MBA equivalence**, and accredited by **NAAC**.

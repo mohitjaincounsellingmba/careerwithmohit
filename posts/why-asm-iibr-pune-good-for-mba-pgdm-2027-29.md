@@ -1,11 +1,11 @@
 ---
-title: Why ASM IIBR Pune (Group) is Good for MBA and PGDM? Top 5 Reasons to Join 2027–29
+title: >-
+  Why ASM IIBR Pune (Group) is Good for MBA and PGDM? Top 5 Reasons to Join
+  2027–29
 date: '2026-03-29'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Why ASM
-  IIBR(/colleges/asm-iibr) Pune (Group) is Good for MBA and PGDM? Top 5 Reasons
-  to Join 2026. Check updated fees, placement records, real cutoffs, and
-  selection tips by Mohit Jain.
+  2027 guide for Why ASM IIBR Pune (Group) is Good for MBA and PGDM? ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - 'Why [ASM IIBR](/colleges/asm-iibr/) Pune good for MBA'
   - '[ASM IIBR](/colleges/asm-iibr/) Pune PGDM reviews'

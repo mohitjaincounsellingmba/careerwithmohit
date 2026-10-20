@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Uttanchal University, Dehradun (Dehradun) for 2026.
-  Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Uttaranchal University Dehradun review 2027–29
   - Uttaranchal University Dehradun placements 2027–29

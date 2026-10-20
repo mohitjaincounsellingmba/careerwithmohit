@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Exams
 description: >-
   Choosing between a career in Corporate Finance or Investment Banking? Discover
-  the key differences in 2026, including work-life balance, salary, and job
-  responsibilities.
+  the key differences in 2026, including work-life balance, salary.
 keywords:
   - corporate finance vs investment banking 2026
   - is corporate finance better than ib

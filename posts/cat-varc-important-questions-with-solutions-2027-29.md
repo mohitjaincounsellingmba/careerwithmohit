@@ -2,9 +2,8 @@
 title: 'CAT VARC Important Questions with Solutions 2026: RC & VA Practice Guide'
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for CAT VARC
-  Important Questions with Solutions 2026: RC & VA Practice Guide. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for CAT VARC Important Questions with Solutions 2026: RC...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - cat varc important questions with solutions
   - cat varc practice questions with answers

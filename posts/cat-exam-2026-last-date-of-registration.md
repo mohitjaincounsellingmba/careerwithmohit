@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Check the CAT Exam 2026 last date of registration, official application
   deadline, registration fee, step-by-step form fill-up guide, documents
-  required, and top IIM cutoffs.
+  required.
 keywords:
   - cat exam 2026 last date of registration
   - cat 2026 registration deadline
@@ -48,7 +48,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# CAT Exam 2026 Last Date of Registration: Complete Timeline, Fees & Application Guide
+## CAT Exam 2026 Last Date of Registration: Complete Timeline, Fees & Application Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Deadline:** CAT 2026 registration opens on August 1, 2026, and closes in mid-September 2026 at 5:00 PM IST (expected around September 13–20, 2026).

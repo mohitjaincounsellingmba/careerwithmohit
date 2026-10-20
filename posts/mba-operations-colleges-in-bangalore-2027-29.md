@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Looking for top MBA Operations colleges in Bangalore? Discover 2027–29 fees,
-  packages, and cutoffs for IIM Bangalore, SIBM, Christ, and Welingkar in this
-  guide.
+  packages, and cutoffs for IIM Bangalore, SIBM, Christ.
 keywords:
   - top mba operations colleges in bangalore 2027–29
   - best operations mba in bangalore

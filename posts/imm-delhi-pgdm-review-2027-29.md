@@ -2,9 +2,9 @@
 title: 'IMM Delhi PGDM Review 2027–29: Placements, Fees & Honest Insights'
 date: '2026-05-03'
 description: >-
-  Is IMM Delhi worth it for PGDM in 2027–29? Explore an honest review of [Institute
-  of Marketing & Management (IMM)](/colleges/imm-delhi/) including 2025 placement
-  stats, fees, and ROI.
+  Is IMM Delhi worth it for PGDM in 2027–29? Explore an honest review of
+  [Institute of Marketing & Management (IMM)](/colleges/imm-delhi/) including
+  2025...
 keywords:
   - IMM Delhi review 2027–29
   - IMM Delhi PGDM placements 2027–29

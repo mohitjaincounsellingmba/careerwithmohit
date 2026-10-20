@@ -3,8 +3,7 @@ title: 'Direct Admission in Altera Institute 2026: MBA/PGDM Selection & Fees'
 date: '2026-03-17'
 description: >-
   Discover the direct admission process for Altera Institute Gurgaon for 2026.
-  Explore the ALNAT entrance, startup-focused PGDM, latest fee structure, and
-  placement expectations.
+  Explore the ALNAT entrance, startup-focused PGDM, latest fee structure.
 keywords:
   - Altera Institute direct admission
   - Altera Institute management quota

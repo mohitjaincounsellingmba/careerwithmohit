@@ -4,9 +4,9 @@ title: >-
   Median ₹15.20 LPA & Highest ₹29.00 LPA
 date: '2026-08-15'
 description: >-
-  Complete FORE School of Management Delhi PGDM Placement Report 2027–29. Discover
-  average CTC of ₹16.40 LPA, median of ₹15.20 LPA, highest of ₹29.00 LPA, top
-  BFSI & IT recruiters.
+  Complete FORE School of Management Delhi PGDM Placement Report 2027–29.
+  Discover average CTC of ₹16.40 LPA, median of ₹15.20 LPA, highest of ₹29.00
+  LPA.
 keywords:
   - fore school of management delhi placement report 2025
   - fore delhi average package 2025

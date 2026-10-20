@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about Symbiosis Skills and Professional University
-  (SSPU) Pune B.Tech admission 2026. Check the latest SEET entrance dates, fees,
-  and its ₹12 LPA placement record.
+  (SSPU) Pune B.Tech admission 2026.
 keywords:
   - SSPU Pune BTech admission 2026
   - Symbiosis Skills University fees

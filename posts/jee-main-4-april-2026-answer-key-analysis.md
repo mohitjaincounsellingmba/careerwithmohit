@@ -2,10 +2,8 @@
 title: 'JEE Main 4 April 2026 Answer Key & Exam Analysis: Shift 1 & 2 Question Paper'
 date: '2026-04-04'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for JEE Main 4
-  April 2026 Answer Key & Exam Analysis: Shift 1 & 2 Question Paper. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for JEE Main 4 April 2026 Answer Key & Exam Analysis: Sh...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - JEE Main 4 April 2026 answer key
   - JEE Main 4 April shift 1 analysis

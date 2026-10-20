@@ -1,11 +1,11 @@
 ---
-title: 'Smith School of Business MBA Review 2027–29: Fees in INR, Placements & Admission'
+title: >-
+  Smith School of Business MBA Review 2027–29: Fees in INR, Placements &
+  Admission
 date: '2026-04-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Smith School
-  of Business MBA Review 2027–29: Fees in INR, Placements & Admission. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Smith School of Business MBA Review 2027–29: Fees in...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Smith School of Business MBA 2027–29
   - Smith School of Business MBA fees in INR

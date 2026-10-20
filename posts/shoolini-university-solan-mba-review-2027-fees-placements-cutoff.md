@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Faculty of Management Sciences, Shoolini University (Solan,
-  Himachal Pradesh) review for 2027 admissions. Explore audited fee structure
-  (₹6.50 Lakhs (Total)), latest placement packages (Avg: ₹6.80 LPA, Highest:
-  ₹18.00 LPA), entrance exam cutoffs (CAT, MAT, GMAT, HP-CMAT), NIRF ranking,
-  and student verdict.
+  Himachal Pradesh) review for 2027 admissions.
 keywords:
   - 'faculty of management sciences, shoolini university review 2027'
   - 'faculty of management sciences, shoolini university mba fees'
@@ -57,7 +54,7 @@ location: Solan
 state: Himachal Pradesh
 ---
 
-# [Faculty of Management Sciences, Shoolini University](/colleges/shoolini-university-solan/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Faculty of Management Sciences, Shoolini University](/colleges/shoolini-university-solan/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, MAT, GMAT, HP-CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

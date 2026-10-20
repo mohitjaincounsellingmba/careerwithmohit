@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning a BCA in India's Financial Capital? Compare the best BCA colleges in
-  Mumbai for 2026. Check fees, NMIMS NPAT cutoffs, and verified software
-  placement stats.
+  Mumbai for 2026. Check fees, NMIMS NPAT cutoffs.
 keywords:
   - top bca colleges in mumbai 2026
   - best bca colleges mumbai

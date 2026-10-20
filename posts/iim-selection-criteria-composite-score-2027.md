@@ -2,7 +2,9 @@
 title: 'IIM Selection Criteria 2027: CAT vs Academics Weight'
 date: '2026-10-06'
 category: MBA
-description: 'Understand the updated 2027 IIM selection criteria. Calculate your composite score based on CAT weightage, 10th/12th academic diversity, and work-ex.'
+description: >-
+  Understand the updated 2027 IIM selection criteria. Calculate your composite
+  score based on CAT weightage, 10th/12th academic diversity, and work-ex.
 keywords:
   - iim selection criteria 2027
   - iim composite score calculator
@@ -10,15 +12,23 @@ keywords:
   - academic diversity points iim
   - safe cat percentile for engineers
 faqs:
-  - question: 'How much weightage does CAT have in IIM shortlisting for 2027?'
-    answer: 'For the 2027-2029 batch, CAT weightage ranges from 40% (IIM Bangalore) to 55% (IIM Calcutta) for preliminary interview shortlists, with remaining weight allocated to past academic scores and diversity.'
-  - question: 'Can a candidate with 70% in graduation get into an IIM?'
-    answer: 'Yes, candidates with 70% in graduation can convert top IIMs by scoring a 99.5+ CAT percentile and targeting newer IIMs (such as IIM Udaipur, Trichy, Raipur) which place lower weightage on graduation scores.'
-  - question: 'What is the ideal work experience for maximum points in IIM admission?'
-    answer: 'The sweet spot for work experience across most IIMs is between 24 and 36 months, awarding the maximum 5 to 10 composite score points.'
+  - question: How much weightage does CAT have in IIM shortlisting for 2027?
+    answer: >-
+      For the 2027-2029 batch, CAT weightage ranges from 40% (IIM Bangalore) to
+      55% (IIM Calcutta) for preliminary interview shortlists, with remaining
+      weight allocated to past academic scores and diversity.
+  - question: Can a candidate with 70% in graduation get into an IIM?
+    answer: >-
+      Yes, candidates with 70% in graduation can convert top IIMs by scoring a
+      99.5+ CAT percentile and targeting newer IIMs (such as IIM Udaipur,
+      Trichy, Raipur) which place lower weightage on graduation scores.
+  - question: What is the ideal work experience for maximum points in IIM admission?
+    answer: >-
+      The sweet spot for work experience across most IIMs is between 24 and 36
+      months, awarding the maximum 5 to 10 composite score points.
 ---
 
-# IIM Selection Criteria 2027: CAT vs Academics Weight
+## IIM Selection Criteria 2027: CAT vs Academics Weight
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core Shift**: CAT percentile now accounts for only 40–55% of the initial shortlisting composite score across Top IIMs.

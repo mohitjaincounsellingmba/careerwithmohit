@@ -3,8 +3,7 @@ title: 'KR Mangalam University Gurugram B.Tech Admission 2026: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at KR Mangalam University Gurugram? Get the latest on JEE
-  Main/KREE 2026 cutoffs, specialized industry labs, detailed fee structure, and
-  its ₹56 LPA highest package.
+  Main/KREE 2026 cutoffs, specialized industry labs, detailed fee structure.
 keywords:
   - KR Mangalam University BTech admission 2026
   - KR Mangalam Gurugram cutoff

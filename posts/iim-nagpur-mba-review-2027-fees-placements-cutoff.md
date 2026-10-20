@@ -2,7 +2,10 @@
 title: 'IIM Nagpur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Get the verified 2027 IIM Nagpur MBA review with audited ₹16.74 LPA placements, ₹18.90L fees, CAT CAP cutoffs, and admissions ROI tips from Mohit Jain.'
+description: >-
+  Get the verified 2027 IIM Nagpur MBA review with audited ₹16.74 LPA
+  placements, ₹18.90L fees, CAT CAP cutoffs, and admissions ROI tips from Mohit
+  Jain.
 keywords:
   - iim nagpur mba admission 2027
   - iim nagpur fees structure 2027
@@ -15,24 +18,40 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Nagpur in 2026-2027?
     answer: >-
-      The verified overall average CTC at IIM Nagpur stands at ₹16.74 LPA, with the median package benchmarked at ₹16.00 LPA. The top 50% of the batch secured an average package of ₹19.45 LPA, while the highest international offer reached ₹64.00 LPA.
+      The verified overall average CTC at IIM Nagpur stands at ₹16.74 LPA, with
+      the median package benchmarked at ₹16.00 LPA. The top 50% of the batch
+      secured an average package of ₹19.45 LPA, while the highest international
+      offer reached ₹64.00 LPA.
   - question: What entrance exams are accepted for 2027 admission at IIM Nagpur?
     answer: >-
-      IIM Nagpur strictly accepts CAT scores through the centralized IIM Common Admission Process (CAP) and Supplementary Admission Process (SAP), followed by personal interview (PI) evaluations.
+      IIM Nagpur strictly accepts CAT scores through the centralized IIM Common
+      Admission Process (CAP) and Supplementary Admission Process (SAP),
+      followed by personal interview (PI) evaluations.
   - question: What is the total fee structure for the MBA program at IIM Nagpur?
     answer: >-
-      The total academic fee for the 2-year full-time MBA program at IIM Nagpur is approximately ₹18.90 Lakhs, which covers tuition, fully air-conditioned single-room hostel accommodations, library subscriptions, and academic course materials.
+      The total academic fee for the 2-year full-time MBA program at IIM Nagpur
+      is approximately ₹18.90 Lakhs, which covers tuition, fully air-conditioned
+      single-room hostel accommodations, library subscriptions, and academic
+      course materials.
   - question: What is the CAT cutoff for IIM Nagpur admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 92-94 percentile overall with 70+ sectional percentiles. However, final interview conversion cutoffs typically range between 93 to 96 percentile depending on profile diversity.
-  - question: Is IIM Nagpur worth joining compared to top tier-2 private business schools?
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 92-94 percentile overall with 70+ sectional percentiles.
+      However, final interview conversion cutoffs typically range between 93 to
+      96 percentile depending on profile diversity.
+  - question: >-
+      Is IIM Nagpur worth joining compared to top tier-2 private business
+      schools?
     answer: >-
-      Yes. Operating from its state-of-the-art 132-acre MIHAN permanent campus with the prestigious IIM brand identity, original mentorship by IIM Ahmedabad, robust average placements of ₹16.74 LPA, and lower fees than private alternatives, IIM Nagpur offers excellent long-term career ROI.
+      Yes. Operating from its state-of-the-art 132-acre MIHAN permanent campus
+      with the prestigious IIM brand identity, original mentorship by IIM
+      Ahmedabad, robust average placements of ₹16.74 LPA, and lower fees than
+      private alternatives, IIM Nagpur offers excellent long-term career ROI.
 location: Nagpur
 state: Maharashtra
 ---
 
-# [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Legacy**: Established in 2015 and mentored by [IIM Ahmedabad](/colleges/iim-ahmedabad/), **IIM Nagpur** operates from a world-class 132-acre permanent campus at MIHAN SEZ (Nagpur, Maharashtra), holding NIRF Rank #31.

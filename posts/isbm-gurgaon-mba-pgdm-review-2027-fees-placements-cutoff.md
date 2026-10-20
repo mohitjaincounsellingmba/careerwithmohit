@@ -1,8 +1,10 @@
 ---
-title: "ISBM Gurgaon PGDM Review 2027: Fees, Cutoff, ROI & Jobs"
+title: 'ISBM Gurgaon PGDM Review 2027: Fees, Cutoff, ROI & Jobs'
 date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 ISB&M Gurgaon PGDM review with audited ₹8.20L placements, ₹9.00L fees, entrance cutoffs, and admissions guidance from Mohit Jain."
+description: >-
+  Read verified 2027 ISB&M Gurgaon PGDM review with audited ₹8.20L placements,
+  ₹9.00L fees, entrance cutoffs, and admissions guidance from Mohit Jain.
 keywords:
   - isbm gurgaon pgdm review 2027
   - isbm gurgaon fees structure 2027
@@ -15,24 +17,43 @@ keywords:
 faqs:
   - question: What is the audited average placement package at ISB&M Gurgaon?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at International School of Business & Media (ISB&M Gurgaon) stands at ₹8.20 LPA to ₹8.80 LPA. The median CTC is benchmarked at ₹8.00 LPA, with top 20% performers securing ₹11.50 LPA and peak domestic offers reaching ₹21.00 LPA.
-  - question: What entrance exams and cutoffs are accepted for PGDM admission at ISB&M Gurgaon?
+      The verified overall average placement package across graduating PGDM
+      cohorts at International School of Business & Media (ISB&M Gurgaon) stands
+      at ₹8.20 LPA to ₹8.80 LPA. The median CTC is benchmarked at ₹8.00 LPA,
+      with top 20% performers securing ₹11.50 LPA and peak domestic offers
+      reaching ₹21.00 LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for PGDM admission at ISB&M
+      Gurgaon?
     answer: >-
-      ISB&M Gurgaon accepts scores from CAT, XAT, MAT, CMAT, and ATMA. Indicative cutoff thresholds range between 65.0 and 70.0 percentile, followed by institutional Group Discussion and Personal Interview (GD-PI) profile evaluations.
+      ISB&M Gurgaon accepts scores from CAT, XAT, MAT, CMAT, and ATMA.
+      Indicative cutoff thresholds range between 65.0 and 70.0 percentile,
+      followed by institutional Group Discussion and Personal Interview (GD-PI)
+      profile evaluations.
   - question: What is the complete fee structure for the PGDM program at ISB&M Gurgaon?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at ISB&M Gurgaon is approximately ₹9.00 Lakhs to ₹9.60 Lakhs, payable in term installments across six trimesters. Partnered student housing facilities in Sector 51, Gurgaon range between ₹1,20,000 and ₹1,45,000 per year.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at ISB&M Gurgaon is approximately ₹9.00 Lakhs to ₹9.60 Lakhs,
+      payable in term installments across six trimesters. Partnered student
+      housing facilities in Sector 51, Gurgaon range between ₹1,20,000 and
+      ₹1,45,000 per year.
   - question: What is the institutional background of the ISB&M Group?
     answer: >-
-      ISB&M was founded by Dr. Pramod Kumar (former Dean at XLRI Jamshedpur and Symbiosis SIBM Pune). The group follows an intensive corporate-driven curriculum emphasizing business lifestyle grooming, self-discipline, and high-frequency recruitment drives.
+      ISB&M was founded by Dr. Pramod Kumar (former Dean at XLRI Jamshedpur and
+      Symbiosis SIBM Pune). The group follows an intensive corporate-driven
+      curriculum emphasizing business lifestyle grooming, self-discipline, and
+      high-frequency recruitment drives.
   - question: Is direct admission available under management quota at ISB&M Gurgaon?
     answer: >-
-      Yes, eligible candidates possessing a recognized graduation degree with a minimum of 50% aggregate marks (45% for reserved categories) and valid national entrance scores can apply for merit profile-based direct evaluation seats with counselor assistance.
-location: 'Sector 51'
+      Yes, eligible candidates possessing a recognized graduation degree with a
+      minimum of 50% aggregate marks (45% for reserved categories) and valid
+      national entrance scores can apply for merit profile-based direct
+      evaluation seats with counselor assistance.
+location: Sector 51
 state: 'Gurugram, Delhi NCR'
 ---
 
-# [International School of Business & Media (ISB&M Gurgaon)](https://careerwithmohit.online/blog/isbm-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [International School of Business & Media (ISB&M Gurgaon)](https://careerwithmohit.online/blog/isbm-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier corporate-oriented business school situated in Sector 51, Gurugram (Delhi NCR). Founded by **Dr. Pramod Kumar (former Dean at XLRI & SIBM)**, ISB&M is distinguished by its corporate lifestyle grooming, student-driven committee culture, and extensive alumni network across MNCs.

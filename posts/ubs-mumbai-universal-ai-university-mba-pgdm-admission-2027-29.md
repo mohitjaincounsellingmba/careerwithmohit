@@ -7,10 +7,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Universal Business School (UBS Mumbai) /
-  Universal AI University (UBS Mumbai). Verified fee structure (₹12.50 Lakhs
-  (Total)), MBA / PGDM approvals, audited placements (Avg ₹10.50 LPA, Highest
-  ₹42.00 LPA (International / Peak)), PPO stats, certifications, awards, alumni
-  network, faculty profiles, and Why Join review.
+  Universal AI University (UBS Mumbai).
 keywords:
   - >-
     Universal Business School (UBS Mumbai) / Universal AI University admission
@@ -72,7 +69,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# Universal Business School (UBS Mumbai) / Universal AI University Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Universal Business School (UBS Mumbai) / Universal AI University Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.50 Lakhs (Total)** (**₹6.25 Lakhs per Year**). Merit-based scholarships up to ₹2.00 Lakhs for top CAT/XAT/GMAT scorers.

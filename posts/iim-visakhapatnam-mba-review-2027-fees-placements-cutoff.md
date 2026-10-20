@@ -2,7 +2,9 @@
 title: 'IIM Visakhapatnam MBA Review 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Visakhapatnam MBA review with audited ₹16.62 LPA placements, ₹17.80L fees, CAT CAP cutoffs, and expert tips from Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Visakhapatnam MBA review with audited ₹16.62 LPA
+  placements, ₹17.80L fees, CAT CAP cutoffs, and expert tips from Mohit Jain.
 keywords:
   - iim visakhapatnam mba admission 2027
   - iim visakhapatnam fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Visakhapatnam in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Visakhapatnam stands at ₹15.64 LPA to ₹16.62 LPA across recent batches, with the median package benchmarked at ₹16.00 LPA. The top 10% of the batch secured an average CTC of ₹23.80 LPA, while the highest domestic offer reached ₹32.65 LPA (and international offers up to ₹43.25 LPA).
+      The verified average placement package at IIM Visakhapatnam stands at
+      ₹15.64 LPA to ₹16.62 LPA across recent batches, with the median package
+      benchmarked at ₹16.00 LPA. The top 10% of the batch secured an average CTC
+      of ₹23.80 LPA, while the highest domestic offer reached ₹32.65 LPA (and
+      international offers up to ₹43.25 LPA).
   - question: What entrance exams are accepted for 2027 admission at IIM Visakhapatnam?
     answer: >-
-      IIM Visakhapatnam accepts valid scores from CAT through the centralized IIM Common Admission Process (CAP) and Supplementary Admission Process (SAP), followed by personal interview (PI) evaluations.
+      IIM Visakhapatnam accepts valid scores from CAT through the centralized
+      IIM Common Admission Process (CAP) and Supplementary Admission Process
+      (SAP), followed by personal interview (PI) evaluations.
   - question: What is the total fee structure for the PGP/MBA at IIM Visakhapatnam?
     answer: >-
-      The total course fee for the 2-year full-time PGP (MBA) at IIM Visakhapatnam is approximately ₹17.80 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, digital library databases, and case study subscriptions.
+      The total course fee for the 2-year full-time PGP (MBA) at IIM
+      Visakhapatnam is approximately ₹17.80 Lakhs, which covers academic
+      tuition, air-conditioned single-room hostel accommodations, digital
+      library databases, and case study subscriptions.
   - question: What is the CAT cutoff for IIM Visakhapatnam admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 88 to 92 percentile overall with 70+ sectional percentiles across VARC, DILR, and QA. Candidates with 92+ percentile and strong academic profiles hold high conversion probability.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 88 to 92 percentile overall with 70+ sectional percentiles
+      across VARC, DILR, and QA. Candidates with 92+ percentile and strong
+      academic profiles hold high conversion probability.
   - question: Where is IIM Visakhapatnam's permanent campus located?
     answer: >-
-      IIM Visakhapatnam operates from its expansive 241-acre permanent green campus at Gambheeram, Visakhapatnam, Andhra Pradesh, equipped with smart classrooms, Bloomberg finance terminals, and world-class residential facilities.
+      IIM Visakhapatnam operates from its expansive 241-acre permanent green
+      campus at Gambheeram, Visakhapatnam, Andhra Pradesh, equipped with smart
+      classrooms, Bloomberg finance terminals, and world-class residential
+      facilities.
 location: Visakhapatnam
 state: Andhra Pradesh
 ---
 
-# [IIM Visakhapatnam](/colleges/iim-visakhapatnam/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Visakhapatnam](/colleges/iim-visakhapatnam/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Legacy**: Established in 2015 and mentored originally by [IIM Bangalore](/colleges/iim-bangalore/), **IIM Visakhapatnam (IIM Vizag)** operates from a majestic 241-acre permanent campus at Gambheeram (Visakhapatnam, Andhra Pradesh), holding **NIRF Rank #26**.

@@ -3,8 +3,7 @@ title: 'Upcoming Govt Jobs in India 2026-27: Full Calendar, Notifications & Exam
 date: '2026-03-22'
 description: >-
   Prepare for your dream career with the latest upcoming govt jobs notification
-  in India for 2026-27. Get full exam calendars for UPSC, SSC, IBPS, and Railway
-  (RRB) recruitments.
+  in India for 2026-27. Get full exam calendars for UPSC, SSC, IBPS.
 keywords:
   - upcoming govt jobs 2026 notification
   - SSC exam calendar 2026-27

@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Connect with 5,700+ aspirants in the CareerWithMohit Student Community. Join
   verified WhatsApp and Telegram groups for CAT 2026, XAT 2027, free formula
-  PDFs, daily PYQs, real GD-PI transcripts, and direct mentorship by Mohit Jain.
+  PDFs.
 keywords:
   - student community telegram
   - MBA telegram group
@@ -54,7 +54,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Join India's Premier MBA & Higher Education Student Community: WhatsApp & Telegram Hub
+## Join India's Premier MBA & Higher Education Student Community: WhatsApp & Telegram Hub
 
 Preparing for national management entrance exams like **CAT 2026, XAT 2027, NMAT, SNAP, CMAT, and MAH-MBA CET** can be an overwhelming journey when done in isolation. Between tracking shifting exam dates, analyzing mock percentiles, hunting for authentic college cutoff data, and dodging predatory coaching marketing, aspirants often suffer from severe information overload.
 

@@ -6,7 +6,7 @@ date: '2026-09-03'
 description: >-
   Explore MBA and PGDM admission 2027 in Delhi NCR. Discover top non-IIM
   colleges accepting CAT 2026 and XAT 2027 scores including FMS, MDI, FORE,
-  LBSIM, NDIM, FIIB, and SOIL Gurgaon.
+  LBSIM, NDIM.
 keywords:
   - mba admission 2027
   - cat 2026
@@ -53,7 +53,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2027–29 / XAT 2027
+## MBA Admission 2027 in Delhi NCR: Cutoff, Fee Structure & Non-IIM Colleges for CAT 2027–29 / XAT 2027
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Premier Non-IIM Options:** [FMS Delhi](/colleges/fms-delhi/) (₹2 Lakhs fee, ₹34 LPA avg), [MDI Gurgaon](/colleges/mdi-gurgaon/) (₹24 Lakhs fee, ₹26.7 LPA avg), and [FORE School of Management](/colleges/fore-school-delhi/).

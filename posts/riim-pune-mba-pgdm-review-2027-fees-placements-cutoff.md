@@ -2,7 +2,9 @@
 title: 'RIIM Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA
-description: 'Read verified 2027 RIIM Pune MBA PGDM review with audited ₹6.80L placements, ₹5.95L-8.60L fees, CAT cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 RIIM Pune MBA PGDM review with audited ₹6.80L placements,
+  ₹5.95L-8.60L fees, CAT cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - riim pune mba review 2027
   - riim pune pgdm fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at RIIM Pune in 2026-2027?
     answer: >-
-      The verified overall average CTC at RIIM Pune stands at ₹6.80 LPA to ₹7.50 LPA across graduating MBA and PGDM batches. The median package is benchmarked at ₹6.50 LPA, with top performers securing domestic packages up to ₹14.00 LPA and international placement offers reaching up to ₹25.00 LPA to ₹35.00 LPA.
+      The verified overall average CTC at RIIM Pune stands at ₹6.80 LPA to ₹7.50
+      LPA across graduating MBA and PGDM batches. The median package is
+      benchmarked at ₹6.50 LPA, with top performers securing domestic packages
+      up to ₹14.00 LPA and international placement offers reaching up to ₹25.00
+      LPA to ₹35.00 LPA.
   - question: What entrance exams are accepted for admission at RIIM Pune?
     answer: >-
-      RIIM Pune accepts valid scores from CAT, XAT, MAT, CMAT, ATMA, and MAH-MBA CET. Shortlisted candidates are evaluated through RIIM’s institutional Group Discussion and Personal Interview (GD-PI) assessment.
+      RIIM Pune accepts valid scores from CAT, XAT, MAT, CMAT, ATMA, and MAH-MBA
+      CET. Shortlisted candidates are evaluated through RIIM’s institutional
+      Group Discussion and Personal Interview (GD-PI) assessment.
   - question: What is the total fee structure for MBA and PGDM at RIIM Pune?
     answer: >-
-      The total course fee for the SPPU-affiliated MBA (including Employability Enhancement Programme) ranges from approximately ₹5.95 Lakhs to ₹6.60 Lakhs, while the autonomous AICTE-approved PGDM (with international immersion options) ranges from ₹7.20 Lakhs to ₹8.60 Lakhs.
+      The total course fee for the SPPU-affiliated MBA (including Employability
+      Enhancement Programme) ranges from approximately ₹5.95 Lakhs to ₹6.60
+      Lakhs, while the autonomous AICTE-approved PGDM (with international
+      immersion options) ranges from ₹7.20 Lakhs to ₹8.60 Lakhs.
   - question: What is the Employability Enhancement Programme (EEP) at RIIM Pune?
     answer: >-
-      The Employability Enhancement Programme (EEP) at RIIM Pune is a 500+ hour practical skills curriculum that runs alongside regular degree classes, providing certifications in SAP ERP, Advanced Excel, Digital Marketing, Six Sigma, and Business Analytics.
+      The Employability Enhancement Programme (EEP) at RIIM Pune is a 500+ hour
+      practical skills curriculum that runs alongside regular degree classes,
+      providing certifications in SAP ERP, Advanced Excel, Digital Marketing,
+      Six Sigma, and Business Analytics.
   - question: Is direct admission available at RIIM Pune?
     answer: >-
-      Yes. Candidates with 50%+ aggregate marks in graduation can apply directly for profile-based evaluation under the institutional merit quota through screening and personal interview rounds.
+      Yes. Candidates with 50%+ aggregate marks in graduation can apply directly
+      for profile-based evaluation under the institutional merit quota through
+      screening and personal interview rounds.
 location: Bavdhan
-state: Pune, Maharashtra
+state: 'Pune, Maharashtra'
 ---
 
-# RIIM Pune Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## RIIM Pune Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Employability-First Curriculum**: Situated in Bavdhan, Pune, Ramachandran International Institute of Management (RIIM Pune) is an **AICTE-approved and SPPU-affiliated** business school renowned for its intensive 500+ hour Employability Enhancement Programme (EEP) and global immersion tours.

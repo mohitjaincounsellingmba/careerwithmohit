@@ -1,12 +1,11 @@
 ---
 title: >-
-  Shiv Nadar University, Greater Noida Review 2027–29: Placements, Fees, Courses &
-  Admission
+  Shiv Nadar University, Greater Noida Review 2027–29: Placements, Fees, Courses
+  & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Shiv Nadar University, Greater Noida (Greater Noida)
-  for 2026. Check latest fee structure, flagship courses, placement statistics,
-  top recruiters, and admission process.
+  for 2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Shiv Nadar University (SNU) review 2027–29
   - Shiv Nadar University (SNU) placements 2027–29

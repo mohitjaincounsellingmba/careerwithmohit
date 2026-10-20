@@ -3,9 +3,7 @@ title: 'Download CAT, JEE, & NEET Previous Year Question Papers PDF (2017-2024)'
 date: '2026-05-02'
 description: >-
   Boost your entrance exam prep with official previous year question papers.
-  Download slot-wise PDFs for CAT (2017-2024), JEE Main, NEET, and NMAT to
-  understand exam patterns and improve speed for 2026-2027 admissions & career
-  guidance.
+  Download slot-wise PDFs for CAT (2017-2024), JEE Main, NEET.
 keywords:
   - CAT previous year papers PDF
   - JEE Main PYQ 2024 download

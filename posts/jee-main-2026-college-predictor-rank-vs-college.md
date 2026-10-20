@@ -3,9 +3,8 @@ title: 'JEE Main 2026 College Predictor — Rank vs. NIT, IIIT & GFTI List'
 date: '2026-04-21'
 category: B.Tech
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for JEE Main 2026
-  College Predictor — Rank vs. NIT, IIIT & GFTI List. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for JEE Main 2026 College Predictor — Rank vs. NIT, IIIT...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - jee main 2026 college predictor
   - jee main rank vs college list

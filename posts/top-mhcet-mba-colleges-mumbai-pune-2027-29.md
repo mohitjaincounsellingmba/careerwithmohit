@@ -2,9 +2,8 @@
 title: 'Top MAH MBA CET Colleges in Mumbai & Pune 2027–29: Cutoffs & ROI'
 date: '2026-04-04'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top MAH MBA
-  CET Colleges in Mumbai & Pune 2025: Cutoffs & ROI. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top MAH MBA CET Colleges in Mumbai & Pune 2027–29: C...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MAH MBA CET colleges
   - JBIMS CET cutoff 2027–29

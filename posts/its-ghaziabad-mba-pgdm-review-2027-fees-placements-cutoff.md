@@ -1,8 +1,10 @@
 ---
-title: "ITS Mohan Nagar Ghaziabad MBA Review 2027: Fees & Cutoff"
-date: "2026-09-27"
+title: 'ITS Mohan Nagar Ghaziabad MBA Review 2027: Fees & Cutoff'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 ITS Ghaziabad MBA review with audited ₹6.50L placements, ₹3.90L to ₹6.90L fees, cutoffs, and admissions guidance from Mohit Jain."
+description: >-
+  Read verified 2027 ITS Ghaziabad MBA review with audited ₹6.50L placements,
+  ₹3.90L to ₹6.90L fees, cutoffs, and admissions guidance from Mohit Jain.
 keywords:
   - its ghaziabad mba review 2027
   - its mohan nagar pgdm fees structure
@@ -13,26 +15,45 @@ keywords:
   - direct admission in its ghaziabad
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at ITS Mohan Nagar Ghaziabad?
+  - question: >-
+      What is the audited average placement package at ITS Mohan Nagar
+      Ghaziabad?
     answer: >-
-      The verified overall average placement package across graduating MBA and PGDM cohorts at ITS Mohan Nagar Ghaziabad is ₹6.20 LPA to ₹6.50 LPA. The median CTC is benchmarked at ₹5.80 LPA, with top 20% performers securing ₹8.50 LPA and peak domestic offers touching ₹15.60 LPA.
-  - question: What are the differences between the MBA and PGDM programs at ITS Ghaziabad?
+      The verified overall average placement package across graduating MBA and
+      PGDM cohorts at ITS Mohan Nagar Ghaziabad is ₹6.20 LPA to ₹6.50 LPA. The
+      median CTC is benchmarked at ₹5.80 LPA, with top 20% performers securing
+      ₹8.50 LPA and peak domestic offers touching ₹15.60 LPA.
+  - question: >-
+      What are the differences between the MBA and PGDM programs at ITS
+      Ghaziabad?
     answer: >-
-      The MBA program at ITS Ghaziabad is affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow) with a low fee of ₹3.20 Lakhs, while the PGDM is an autonomous AICTE-approved industry-aligned program with a fee of ₹6.90 Lakhs, offering specialized certifications and corporate bootcamps.
+      The MBA program at ITS Ghaziabad is affiliated with Dr. A.P.J. Abdul Kalam
+      Technical University (AKTU Lucknow) with a low fee of ₹3.20 Lakhs, while
+      the PGDM is an autonomous AICTE-approved industry-aligned program with a
+      fee of ₹6.90 Lakhs, offering specialized certifications and corporate
+      bootcamps.
   - question: What is the complete fee structure at ITS Mohan Nagar Ghaziabad?
     answer: >-
-      The 2-year academic fee for the AKTU-affiliated MBA is approximately ₹3.20 Lakhs, whereas the autonomous PGDM program costs approximately ₹6.90 Lakhs. Residential student housing in Mohan Nagar ranges between ₹90,000 and ₹1,20,000 per academic year.
+      The 2-year academic fee for the AKTU-affiliated MBA is approximately ₹3.20
+      Lakhs, whereas the autonomous PGDM program costs approximately ₹6.90
+      Lakhs. Residential student housing in Mohan Nagar ranges between ₹90,000
+      and ₹1,20,000 per academic year.
   - question: What entrance exams and cutoffs are accepted at ITS Ghaziabad?
     answer: >-
-      For the AKTU MBA, admissions consider CUET-PG and UPSEE scores. For the PGDM program, ITS accepts CAT, MAT, CMAT, ATMA, and XAT scores with cutoff percentiles ranging between 50.0% and 65.0% percentile.
+      For the AKTU MBA, admissions consider CUET-PG and UPSEE scores. For the
+      PGDM program, ITS accepts CAT, MAT, CMAT, ATMA, and XAT scores with cutoff
+      percentiles ranging between 50.0% and 65.0% percentile.
   - question: What accreditations are held by ITS Mohan Nagar Ghaziabad?
     answer: >-
-      ITS Mohan Nagar holds the prestigious NAAC 'A+' Grade accreditation, National Board of Accreditation (NBA) accreditation for its management programs, and AICTE approval, standing among the oldest management institutes in the Delhi-NCR corridor.
+      ITS Mohan Nagar holds the prestigious NAAC 'A+' Grade accreditation,
+      National Board of Accreditation (NBA) accreditation for its management
+      programs, and AICTE approval, standing among the oldest management
+      institutes in the Delhi-NCR corridor.
 location: 'Mohan Nagar, Ghaziabad'
-state: 'Uttar Pradesh'
+state: Uttar Pradesh
 ---
 
-# [ITS Ghaziabad (Mohan Nagar)](https://careerwithmohit.online/blog/its-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admissions Analysis
+## [ITS Ghaziabad (Mohan Nagar)](https://careerwithmohit.online/blog/its-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Admissions Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Accreditations**: Established in 1995 under the I.T.S - The Education Group, ITS Mohan Nagar Ghaziabad is one of the earliest private management institutions in Delhi-NCR. Accredited with **NAAC 'A+' Grade**, **NBA** accreditation, and **AICTE** approval.

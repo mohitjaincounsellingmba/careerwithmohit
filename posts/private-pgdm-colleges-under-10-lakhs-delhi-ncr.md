@@ -18,9 +18,8 @@ tags:
   - EMPI
   - JKBS
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top AICTE
-  Approved PGDM Colleges in Delhi NCR Under 10 Lakhs (2027–29). Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top AICTE Approved PGDM Colleges in Delhi NCR Under ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - career counselling
   - admissions 2026

@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Comprehensive guide to MBBS in Nepal 2026 for Indian students. Top colleges
-  (BPKIHS, Manipal Pokhara, IOM), MECEE/NEET admission criteria, total fees
-  (₹45L-₹60L), and visa-free travel.
+  (BPKIHS, Manipal Pokhara, IOM), MECEE/NEET admission criteria.
 keywords:
   - mbbs colleges in nepal 2026
   - mbbs in nepal fees for indian students

@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive Department of Management Studies (DoMS), IIT Roorkee (Roorkee,
-  Uttarakhand) review for 2027 admissions. Explore audited fee structure (₹9.50
-  Lakhs (Total)), latest placement packages (Avg: ₹18.34 LPA, Highest: ₹27.94
-  LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Uttarakhand) review for 2027 admissions.
 keywords:
   - 'department of management studies (doms), iit roorkee review 2027'
   - 'department of management studies (doms), iit roorkee mba fees'
@@ -62,7 +60,7 @@ location: Dehradun
 state: Uttarakhand
 ---
 
-# [Department of Management Studies (DoMS), IIT Roorkee](/colleges/doms-iit-roorkee/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Department of Management Studies (DoMS), IIT Roorkee](/colleges/doms-iit-roorkee/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

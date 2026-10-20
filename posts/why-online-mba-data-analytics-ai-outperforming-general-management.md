@@ -5,7 +5,7 @@ category: Online Degrees
 description: >-
   Compare Online MBA in Data Analytics & AI vs General Management. Explore
   salary trends, curricula, and find out why specialized tech MBAs are
-  dominating in 2026.
+  dominating in...
 keywords:
   - online MBA data analytics AI
   - data analytics MBA vs general management

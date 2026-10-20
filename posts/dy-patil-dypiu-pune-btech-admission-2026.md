@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about DY Patil International University (DYPIU)
-  Pune B.Tech admission 2026. Get the latest on JEE Main/MHT-CET cutoffs,
-  semester-wise fees, and its ₹33 LPA placement record.
+  Pune B.Tech admission 2026. Get the latest on JEE Main/MHT-CET cutoffs.
 keywords:
   - DYPIU Pune BTech admission 2026
   - DY Patil International University fees

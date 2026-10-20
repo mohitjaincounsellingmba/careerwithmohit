@@ -2,30 +2,51 @@
 title: 'IMM PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Institute of Marketing & Management (IMM) (Qutab Institutional Area, South Delhi). Check updated fee structure (₹9.45 Lakhs (Total)), average placement (₹9.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Institute of Marketing & Management (IMM)
+  (Qutab Institutional Area, South Delhi).
 keywords:
-  - 'institute of marketing & management (imm) pgdm admission 2027'
-  - 'institute of marketing & management (imm) mba fees 2027'
-  - 'institute of marketing & management (imm) average placement package'
-  - 'institute of marketing & management (imm) cutoff 2027–29 2027'
-  - 'imm review 2027'
-  - 'direct admission in institute of marketing & management (imm)'
-  - 'top pgdm colleges in qutab institutional area'
-  - 'best mba colleges in south delhi'
+  - institute of marketing & management (imm) pgdm admission 2027
+  - institute of marketing & management (imm) mba fees 2027
+  - institute of marketing & management (imm) average placement package
+  - institute of marketing & management (imm) cutoff 2027–29 2027
+  - imm review 2027
+  - direct admission in institute of marketing & management (imm)
+  - top pgdm colleges in qutab institutional area
+  - best mba colleges in south delhi
 faqs:
-  - question: 'What is the average placement package at Institute of Marketing & Management (IMM) in 2026-2027?'
-    answer: 'The verified average placement package at Institute of Marketing & Management (IMM) stands at approximately ₹9.5 LPA, with top performing students securing offers up to ₹19.75 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Institute of Marketing & Management (IMM)?'
-    answer: 'Institute of Marketing & Management (IMM) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Institute of Marketing & Management (IMM)?'
-    answer: 'The total course tuition fee is approximately ₹9.45 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Institute of Marketing & Management (IMM)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Qutab Institutional Area'
-state: 'South Delhi'
+  - question: >-
+      What is the average placement package at Institute of Marketing &
+      Management (IMM) in 2026-2027?
+    answer: >-
+      The verified average placement package at Institute of Marketing &
+      Management (IMM) stands at approximately ₹9.5 LPA, with top performing
+      students securing offers up to ₹19.75 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Institute of
+      Marketing & Management (IMM)?
+    answer: >-
+      Institute of Marketing & Management (IMM) accepts scores from CAT, XAT,
+      MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile
+      evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Institute of
+      Marketing & Management (IMM)?
+    answer: >-
+      The total course tuition fee is approximately ₹9.45 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Institute of
+      Marketing & Management (IMM)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Qutab Institutional Area
+state: South Delhi
 ---
 
-# [Institute of Marketing & Management (IMM)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Institute of Marketing & Management (IMM)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Qutab Institutional Area, South Delhi** accredited with **AICTE Approved · Established in 1969** offering career-focused programs in **PGDM**.

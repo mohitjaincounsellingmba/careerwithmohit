@@ -7,10 +7,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Ramachandran International Institute of
-  Management (RIIM Pune) (RIIM Pune). Verified fee structure (₹7.20 Lakhs to
-  ₹8.60 Lakhs (Total)), MBA / PGDM approvals, audited placements (Avg ₹7.84 LPA,
-  Highest ₹35.00 LPA), PPO stats, certifications, awards, alumni network,
-  faculty profiles, and Why Join review.
+  Management (RIIM Pune) (RIIM Pune).
 keywords:
   - >-
     Ramachandran International Institute of Management (RIIM Pune) admission
@@ -75,7 +72,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune/)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## Ramachandran International Institute of Management ([RIIM Pune](/colleges/riim-pune/)) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹7.20 Lakhs to ₹8.60 Lakhs (Total)** (**₹3.60L - ₹4.30L / Year (Includes 1-Week International Tour to Dubai/Singapore)**). Merit waivers for CAT/XAT/CMAT percentiles above 75% and girl child education rebates.

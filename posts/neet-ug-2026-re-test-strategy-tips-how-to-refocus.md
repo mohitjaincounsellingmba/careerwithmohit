@@ -6,8 +6,7 @@ date: '2026-05-12'
 category: Medical/MBBS
 description: >-
   NEET UG 2026 has been cancelled. While it is stressful, it is also a massive
-  opportunity to improve your score. Read our expert re-test strategy to stay
-  ahead of the competition.
+  opportunity to improve your score.
 keywords:
   - neet ug 2026 re-test strategy
   - how to prepare for neet 2026 re-exam

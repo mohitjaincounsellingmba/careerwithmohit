@@ -2,30 +2,59 @@
 title: 'Lexicon MILE PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Lexicon MILE (Management Institute of Leadership & Excellence) (Wagholi, Pune). Check updated fee structure (₹6.95L - ₹13.75L (Total)), average placement (₹6.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Lexicon MILE (Management Institute of
+  Leadership & Excellence) (Wagholi, Pune).
 keywords:
-  - 'lexicon mile (management institute of leadership & excellence) pgdm admission 2027'
-  - 'lexicon mile (management institute of leadership & excellence) mba fees 2027'
-  - 'lexicon mile (management institute of leadership & excellence) average placement package'
-  - 'lexicon mile (management institute of leadership & excellence) cutoff 2026 2027'
-  - 'lexicon mile review 2027'
-  - 'direct admission in lexicon mile (management institute of leadership & excellence)'
-  - 'top pgdm colleges in wagholi'
-  - 'best mba colleges in pune'
+  - >-
+    lexicon mile (management institute of leadership & excellence) pgdm
+    admission 2027
+  - lexicon mile (management institute of leadership & excellence) mba fees 2027
+  - >-
+    lexicon mile (management institute of leadership & excellence) average
+    placement package
+  - >-
+    lexicon mile (management institute of leadership & excellence) cutoff 2026
+    2027
+  - lexicon mile review 2027
+  - >-
+    direct admission in lexicon mile (management institute of leadership &
+    excellence)
+  - top pgdm colleges in wagholi
+  - best mba colleges in pune
 faqs:
-  - question: 'What is the average placement package at Lexicon MILE (Management Institute of Leadership & Excellence) in 2026-2027?'
-    answer: 'The verified average placement package at Lexicon MILE (Management Institute of Leadership & Excellence) stands at approximately ₹6.5 LPA, with top performing students securing offers up to ₹13.3 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Lexicon MILE (Management Institute of Leadership & Excellence)?'
-    answer: 'Lexicon MILE (Management Institute of Leadership & Excellence) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Lexicon MILE (Management Institute of Leadership & Excellence)?'
-    answer: 'The total course tuition fee is approximately ₹6.95L - ₹13.75L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Lexicon MILE (Management Institute of Leadership & Excellence)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Wagholi'
-state: 'Pune'
+  - question: >-
+      What is the average placement package at Lexicon MILE (Management
+      Institute of Leadership & Excellence) in 2026-2027?
+    answer: >-
+      The verified average placement package at Lexicon MILE (Management
+      Institute of Leadership & Excellence) stands at approximately ₹6.5 LPA,
+      with top performing students securing offers up to ₹13.3 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Lexicon MILE
+      (Management Institute of Leadership & Excellence)?
+    answer: >-
+      Lexicon MILE (Management Institute of Leadership & Excellence) accepts
+      scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by
+      institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Lexicon MILE
+      (Management Institute of Leadership & Excellence)?
+    answer: >-
+      The total course tuition fee is approximately ₹6.95L - ₹13.75L (Total) for
+      the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Lexicon MILE
+      (Management Institute of Leadership & Excellence)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Wagholi
+state: Pune
 ---
 
-# [Lexicon MILE (Management Institute of Leadership & Excellence)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Lexicon MILE (Management Institute of Leadership & Excellence)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Wagholi, Pune** accredited with **AICTE Approved · Global Collaboration B-School** offering career-focused programs in **PGDM, Global MBA**.

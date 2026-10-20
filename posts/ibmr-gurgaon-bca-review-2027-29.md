@@ -3,8 +3,7 @@ title: 'IBMR Gurgaon BCA Review 2027–29: Fees, Placements & IT Specializations
 date: '2026-03-30'
 description: >-
   Is IBMR Gurgaon good for BCA? Read our honest IBMR Gurgaon BCA Review 2027–29.
-  Explore BCA + UGPM fees, IIT certifications, AI/ML specializations, and
-  placement outcomes.
+  Explore BCA + UGPM fees, IIT certifications, AI/ML specializations.
 keywords:
   - IBMR Gurgaon BCA Review 2027–29
   - IBMR Gurgaon BCA fees

@@ -3,8 +3,7 @@ title: 'MBA & PGDM Admissions 2027–2029: Complete Timeline & Strategy Guide'
 date: '2026-03-17'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - MBA admission 2027–29
   - CAT 2025 registration

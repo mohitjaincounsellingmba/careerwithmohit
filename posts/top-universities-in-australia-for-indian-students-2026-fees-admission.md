@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Explore all top universities in Australia for Indian students in 2026.
-  Complete list with fees in INR, programs, CRICOS registration, and post-study
-  work rights guide for Indian aspirants.
+  Complete list with fees in INR, programs, CRICOS registration.
 keywords:
   - universities in Australia for Indian students 2026
   - study in Australia fees in INR

@@ -2,9 +2,8 @@
 title: 'HEC Paris MBA Review 2027–29: Fees in INR, Placements & Admission'
 date: '2026-04-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for HEC Paris MBA
-  Review 2027–29: Fees in INR, Placements & Admission. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for HEC Paris MBA Review 2027–29: Fees in INR, Placement...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - HEC Paris MBA 2027–29
   - HEC Paris MBA fees in INR

@@ -3,8 +3,7 @@ title: 'DTU MBA Admission 2027–2029: Colleges, Cutoff, Fees, Process & Special
 date: '2026-04-15'
 description: >-
   Everything you need to know about the DTU MBA admission 2027–2029, including
-  Delhi School of Management (DSM) and USME, CAT cutoffs, CMAC process, fee
-  structure, and MBA placements.
+  Delhi School of Management (DSM) and USME, CAT cutoffs, CMAC process.
 keywords:
   - DTU MBA admission 2027–2029
   - DTU MBA cutoff

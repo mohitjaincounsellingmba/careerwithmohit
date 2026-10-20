@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Malta for Indian students 2026. All fees
-  in INR, MFHEA accredited institutions, English-speaking Schengen country, and
-  Malta student visa details.
+  in INR, MFHEA accredited institutions, English-speaking Schengen country.
 keywords:
   - universities in Malta for Indian students 2026
   - study in Malta fees in INR

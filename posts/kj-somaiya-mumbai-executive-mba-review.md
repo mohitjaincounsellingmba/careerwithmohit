@@ -3,9 +3,7 @@ title: 'K. J. Somaiya Institute of Management, Mumbai Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at K. J. Somaiya
-  Institute of Management, Mumbai. Learn about total fees, eligibility, accepted
-  entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  Institute of Management, Mumbai.
 keywords:
   - 'K. J. Somaiya Institute of Management, Mumbai executive mba'
   - 'K. J. Somaiya Institute of Management, Mumbai executive mba review'

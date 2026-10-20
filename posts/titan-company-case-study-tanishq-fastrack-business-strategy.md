@@ -5,9 +5,7 @@ title: >-
 date: '2026-08-22'
 description: >-
   In-depth Titan Company Case Study for MBA students & CAT aspirants. Discover
-  how Titan disrupted watches, turned around Tanishq jewelry, built iconic
-  sub-brands like Fastrack, and scaled retail excellence for 2026-2027
-  admissions & career guidance.
+  how Titan disrupted watches, turned around Tanishq jewelry.
 keywords:
   - Titan Company case study
   - Tanishq business model case study

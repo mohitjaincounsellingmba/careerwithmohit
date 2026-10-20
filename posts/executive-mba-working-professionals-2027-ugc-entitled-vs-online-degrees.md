@@ -6,8 +6,7 @@ date: '2026-08-26'
 category: Online Degrees
 description: >-
   Compare 1-year Executive MBA (PGPX/EPGP) with UGC Entitled Online MBA programs
-  for working professionals in 2027. Understand government approvals (UGC-DEB,
-  AICTE, AIU), fee structures, and career elevation ROI.
+  for working professionals in 2027.
 keywords:
   - Executive MBA for working professionals 2027
   - UGC entitled online MBA vs executive MBA

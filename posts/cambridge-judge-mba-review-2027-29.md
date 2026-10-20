@@ -4,10 +4,8 @@ title: >-
   Admission
 date: '2026-04-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for University of
-  Cambridge (Judge) MBA Review 2027–29: Fees in INR, Placements & Admission. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for University of Cambridge (Judge) MBA Review 2027–29: ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - University of Cambridge (Judge) MBA 2027–29
   - University of Cambridge (Judge) MBA fees in INR

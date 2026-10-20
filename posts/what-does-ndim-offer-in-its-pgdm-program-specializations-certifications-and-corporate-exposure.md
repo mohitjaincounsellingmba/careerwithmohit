@@ -5,9 +5,7 @@ title: >-
 date: '2026-09-16'
 description: >-
   Discover what New Delhi Institute of Management (NDIM) offers in its 2-year
-  PGDM program. Explore dual specializations, industry certifications, Japan &
-  Korea Centres of Excellence, foreign languages, global immersion tours, and
-  placements for 2026-2027 admissions & career guidance.
+  PGDM program. Explore dual specializations, industry certifications.
 keywords:
   - What Does NDIM Offer in its PGDM Program
   - NDIM PGDM specializations
@@ -65,7 +63,7 @@ faqs:
       (AIU).
 ---
 
-# What Does NDIM Offer in its PGDM Program? Specializations, Certifications, and Corporate Exposure
+## What Does NDIM Offer in its PGDM Program? Specializations, Certifications, and Corporate Exposure
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Dual Specialization Flexibility:** NDIM offers a true **Dual Major model** across 9 high-growth disciplines (Marketing, Finance, Business Analytics, HRM, Operations & SCM, Digital Marketing, International Business, IT & E-Commerce, and Media Communication).

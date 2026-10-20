@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Detailed BITSoM Mumbai MBA Placement Report 2027–29. Explore audited average
-  package of ₹21.00 LPA, median of ₹20.52 LPA, highest package of ₹32.50 LPA &
-  top consulting firms.
+  package of ₹21.00 LPA, median of ₹20.52 LPA.
 keywords:
   - bitsom mumbai mba placement report 2027–29
   - bitsom average package 2025

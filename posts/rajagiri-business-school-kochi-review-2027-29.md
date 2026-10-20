@@ -1,12 +1,11 @@
 ---
 title: >-
-  Rajagiri Business School / Rajagiri College of Social Sciences, Kochi Review 2027–29: Placements, Fees, Courses & Admission
+  Rajagiri Business School / Rajagiri College of Social Sciences, Kochi Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Rajagiri
-  Business School / Rajagiri College of Social Sciences, Kochi Review 2027–29:
-  Placements, Fees, Courses & Admission. Check updated fees, placement records,
-  real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Rajagiri Business School / Rajagiri College of Socia...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Rajagiri Business School Kochi review 2027–29
   - Rajagiri Business School Kochi placements 2027–29

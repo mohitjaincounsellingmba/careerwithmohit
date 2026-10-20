@@ -3,8 +3,8 @@ title: 'JEE Main 2026 Score Calculator: How to Check Your Marks & Percentile'
 date: '2026-04-13'
 description: >-
   Calculate your JEE Main 2026 Session 2 score instantly with our response sheet
-  checker. Get accurate marks vs percentile predictions and plan your NIT/IIIT
-  admission.
+  checker. Get accurate marks vs percentile predictions and plan your
+  NIT/IIIT...
 keywords:
   - JEE Main 2026 score calculator
   - JEE Main marks vs percentile 2026

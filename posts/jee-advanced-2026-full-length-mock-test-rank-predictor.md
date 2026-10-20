@@ -4,7 +4,7 @@ date: '2026-08-22'
 description: >-
   Prepare for IIT admissions with our free, full-length JEE Advanced 2026 mock
   test. Experience the real-time PCMB challenge with 54 high-difficulty
-  questions and immediate rank prediction.
+  questions...
 keywords:
   - JEE Advanced mock test 2026
   - free IIT JEE mock test

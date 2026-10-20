@@ -2,7 +2,9 @@
 title: 'Welingkar Mumbai PGDM Review 2027: Fees, Cutoff & ROI'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 Welingkar Mumbai PGDM review with audited ₹12.50 LPA placements, ₹14.00L fees, CAT/CMAT cutoffs, and admissions tips by Mohit Jain.'
+description: >-
+  Read verified 2027 Welingkar Mumbai PGDM review with audited ₹12.50 LPA
+  placements, ₹14.00L fees, CAT/CMAT cutoffs, and admissions tips by Mohit Jain.
 keywords:
   - welingkar mumbai pgdm admission 2027
   - weschool mumbai fees structure 2027
@@ -15,24 +17,36 @@ keywords:
 faqs:
   - question: What is the average placement package at Welingkar Mumbai in 2026-2027?
     answer: >-
-      The verified overall average CTC at Welingkar Mumbai (WeSchool) stands at ₹12.50 LPA to ₹13.00 LPA across all PGDM specializations, with the median package benchmarked at ₹12.00 LPA. The top 10% of the batch secured an average salary of ₹19.20 LPA, and the highest domestic offer reached ₹25.50 LPA (international offers up to ₹40.00 LPA).
+      The verified overall average CTC at Welingkar Mumbai (WeSchool) stands at
+      ₹12.50 LPA to ₹13.00 LPA across all PGDM specializations, with the median
+      package benchmarked at ₹12.00 LPA. The top 10% of the batch secured an
+      average salary of ₹19.20 LPA, and the highest domestic offer reached
+      ₹25.50 LPA (international offers up to ₹40.00 LPA).
   - question: What entrance exams are accepted for PGDM at Welingkar Mumbai?
     answer: >-
-      Welingkar Mumbai accepts valid scores from CAT, XAT, CMAT, ATMA, and GMAT for its two-year full-time AICTE-approved PGDM programs.
+      Welingkar Mumbai accepts valid scores from CAT, XAT, CMAT, ATMA, and GMAT
+      for its two-year full-time AICTE-approved PGDM programs.
   - question: What is the total fee structure for the PGDM programs at Welingkar Mumbai?
     answer: >-
-      The total course tuition fee for the 2-year full-time PGDM program at Welingkar Mumbai is approximately ₹14.00 Lakhs, payable in semester-wise academic installments.
+      The total course tuition fee for the 2-year full-time PGDM program at
+      Welingkar Mumbai is approximately ₹14.00 Lakhs, payable in semester-wise
+      academic installments.
   - question: What is the cutoff for Welingkar Mumbai admission 2027?
     answer: >-
-      The safe qualifying cutoff for Welingkar Mumbai is 80 to 85 percentile in CAT/XAT and 85 to 90 percentile in CMAT/ATMA. Significant weightage is placed on profile evaluation and personal interviews.
+      The safe qualifying cutoff for Welingkar Mumbai is 80 to 85 percentile in
+      CAT/XAT and 85 to 90 percentile in CMAT/ATMA. Significant weightage is
+      placed on profile evaluation and personal interviews.
   - question: What specialized PGDM programs are offered at WeSchool Mumbai?
     answer: >-
-      Welingkar Mumbai is pioneering in specialized management education, offering PGDM (Core), PGDM in Business Design, PGDM in E-Business, PGDM in Research & Business Analytics, PGDM in Healthcare, PGDM in Media & Entertainment, and PGDM in Retail Management.
+      Welingkar Mumbai is pioneering in specialized management education,
+      offering PGDM (Core), PGDM in Business Design, PGDM in E-Business, PGDM in
+      Research & Business Analytics, PGDM in Healthcare, PGDM in Media &
+      Entertainment, and PGDM in Retail Management.
 location: Mumbai
 state: Maharashtra
 ---
 
-# [Welingkar Mumbai (WeSchool)](/colleges/welingkar-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [Welingkar Mumbai (WeSchool)](/colleges/welingkar-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Innovation Focus**: Established in 1977 by Shikshana Prasaraka Mandali, **Prin. L.N. Welingkar Institute of Management Development and Research (WeSchool Mumbai)** operates from Matunga Central (Mumbai), holding **NIRF Rank #65** and recognized nationally for design thinking and innovative specializations.

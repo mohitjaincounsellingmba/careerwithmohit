@@ -4,8 +4,7 @@ date: '2026-08-03'
 category: Exams
 description: >-
   Comprehensive 2026 review of XLRI Delhi NCR covering MBA/PGDM fee structures,
-  highest and average placements (₹30.00 LPA), entrance exam cutoffs, ROI
-  analysis, and direct admission details.
+  highest and average placements (₹30.00 LPA), entrance exam cutoffs.
 keywords:
   - XLRI Delhi NCR review 2027–29
   - XLRI Delhi NCR mba fees
@@ -41,7 +40,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# XLRI Delhi NCR Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## XLRI Delhi NCR Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

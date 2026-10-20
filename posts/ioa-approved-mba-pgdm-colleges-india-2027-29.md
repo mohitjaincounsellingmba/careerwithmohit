@@ -1,12 +1,11 @@
 ---
 title: >-
-  IoA Approved MBA & PGDM Colleges in India 2027–29: The Ultimate Guide to Business
-  Analytics
+  IoA Approved MBA & PGDM Colleges in India 2027–29: The Ultimate Guide to
+  Business Analytics
 date: '2026-05-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - ioa approved mba colleges in india
   - ioa approved pgdm colleges

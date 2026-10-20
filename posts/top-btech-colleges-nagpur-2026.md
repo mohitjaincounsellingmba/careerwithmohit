@@ -4,8 +4,7 @@ date: '2026-04-20'
 category: B.Tech
 description: >-
   Find the best B.Tech engineering colleges in Nagpur 2026 with fees, MHT CET
-  cutoffs, placement records and direct admission options. Expert guide for
-  Maharashtra engineering aspirants.
+  cutoffs, placement records and direct admission options.
 keywords:
   - top btech colleges in nagpur
   - best engineering colleges nagpur 2026

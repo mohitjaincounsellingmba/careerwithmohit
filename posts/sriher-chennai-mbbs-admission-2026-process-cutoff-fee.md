@@ -4,10 +4,8 @@ title: >-
   MBBS Admission 2026: Process, NEET Cutoff & Fee Structure
 date: '2026-07-21'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Sri
-  Ramachandra Institute of Higher Education and Research (SRIHER), Chennai MBBS
-  Admission 2026: Process, NEET Cutoff & Fee Structure. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Sri Ramachandra Institute of Higher Education and Re...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Sri Ramachandra Medical College MBBS admission 2026
   - Sri Ramachandra Medical College fee structure

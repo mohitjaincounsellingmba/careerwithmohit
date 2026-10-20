@@ -4,8 +4,7 @@ date: '2026-08-22'
 category: Law
 description: >-
   Attempt our 100% Free CLAT 2026 Mock Test 2026. Realistic computer-based exam
-  simulator, 120 questions, 120 minutes, instant AI score analysis, and target
-  percentiles.
+  simulator, 120 questions, 120 minutes, instant AI score analysis.
 keywords:
   - CLAT 2026 mock test free
   - clat practice paper 2026

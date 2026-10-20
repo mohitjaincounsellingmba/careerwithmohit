@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-12'
 description: >-
   Can you get IIM calls with an 85 percentile in CAT? In-depth profile
-  evaluation covering academic diversity, gender diversity, category cutoffs,
-  and top non-IIM alternatives for 2026-2027 admissions & career guidance.
+  evaluation covering academic diversity, gender diversity, category cutoffs.
 category: MBA
 keywords:
   - profile evaluation for iim calls cat 85 percentile

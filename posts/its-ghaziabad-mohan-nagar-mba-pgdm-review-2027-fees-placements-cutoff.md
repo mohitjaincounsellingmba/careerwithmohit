@@ -2,30 +2,50 @@
 title: 'ITS Ghaziabad PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for ITS Ghaziabad (Mohan Nagar) (Mohan Nagar, Ghaziabad). Check updated fee structure (₹3.15L - ₹6.95L (Total)), average placement (₹6.0 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for ITS Ghaziabad (Mohan Nagar) (Mohan Nagar,
+  Ghaziabad). Check updated fee structure (₹3.15L - ₹6.95L (Total)).
 keywords:
-  - 'its ghaziabad (mohan nagar) pgdm admission 2027'
-  - 'its ghaziabad (mohan nagar) mba fees 2027'
-  - 'its ghaziabad (mohan nagar) average placement package'
-  - 'its ghaziabad (mohan nagar) cutoff 2027–29 2027'
-  - 'its ghaziabad review 2027'
-  - 'direct admission in its ghaziabad (mohan nagar)'
-  - 'top pgdm colleges in mohan nagar'
-  - 'best mba colleges in ghaziabad'
+  - its ghaziabad (mohan nagar) pgdm admission 2027
+  - its ghaziabad (mohan nagar) mba fees 2027
+  - its ghaziabad (mohan nagar) average placement package
+  - its ghaziabad (mohan nagar) cutoff 2027–29 2027
+  - its ghaziabad review 2027
+  - direct admission in its ghaziabad (mohan nagar)
+  - top pgdm colleges in mohan nagar
+  - best mba colleges in ghaziabad
 faqs:
-  - question: 'What is the average placement package at ITS Ghaziabad (Mohan Nagar) in 2026-2027?'
-    answer: 'The verified average placement package at ITS Ghaziabad (Mohan Nagar) stands at approximately ₹6.0 LPA, with top performing students securing offers up to ₹11.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at ITS Ghaziabad (Mohan Nagar)?'
-    answer: 'ITS Ghaziabad (Mohan Nagar) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at ITS Ghaziabad (Mohan Nagar)?'
-    answer: 'The total course tuition fee is approximately ₹3.15L - ₹6.95L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at ITS Ghaziabad (Mohan Nagar)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Mohan Nagar'
-state: 'Ghaziabad'
+  - question: >-
+      What is the average placement package at ITS Ghaziabad (Mohan Nagar) in
+      2026-2027?
+    answer: >-
+      The verified average placement package at ITS Ghaziabad (Mohan Nagar)
+      stands at approximately ₹6.0 LPA, with top performing students securing
+      offers up to ₹11.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at ITS Ghaziabad
+      (Mohan Nagar)?
+    answer: >-
+      ITS Ghaziabad (Mohan Nagar) accepts scores from CAT, XAT, MAT, CMAT, ATMA,
+      and State CETs followed by institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at ITS
+      Ghaziabad (Mohan Nagar)?
+    answer: >-
+      The total course tuition fee is approximately ₹3.15L - ₹6.95L (Total) for
+      the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at ITS Ghaziabad (Mohan
+      Nagar)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Mohan Nagar
+state: Ghaziabad
 ---
 
-# [ITS Ghaziabad (Mohan Nagar)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [ITS Ghaziabad (Mohan Nagar)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Mohan Nagar, Ghaziabad** accredited with **AICTE Approved · NBA Accredited · NAAC Grade A** offering career-focused programs in **MBA, PGDM**.

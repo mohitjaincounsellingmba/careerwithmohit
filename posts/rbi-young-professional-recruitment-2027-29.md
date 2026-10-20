@@ -2,9 +2,8 @@
 title: 'RBI Young Professional Recruitment 2026: Apply Without Exam for 12 Posts'
 date: '2026-06-27'
 description: >-
-  Reserve Bank of India (RBI) announces Young Professional Recruitment 2026. 
-  Apply without exam for 12 contractual positions at RBI Mumbai. Monthly stipend
-  ₹1.5 Lakh.
+  Reserve Bank of India (RBI) announces Young Professional Recruitment 2026.
+  Apply without exam for 12 contractual positions at RBI Mumbai.
 keywords:
   - RBI Young Professional hiring without exam
   - RBI YP recruitment 2026

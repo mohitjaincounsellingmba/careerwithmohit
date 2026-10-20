@@ -3,8 +3,7 @@ title: 'Bharati Vidyapeeth Pune B.Tech Admission 2026: BVP CET, Fees & Review'
 date: '2026-03-24'
 description: >-
   Everything you need to know about Bharati Vidyapeeth (BVDU) College of
-  Engineering Pune B.Tech admission 2026. Check the latest BVP CET cutoffs,
-  semester-wise fees, and its ₹28 LPA placement record.
+  Engineering Pune B.Tech admission 2026.
 keywords:
   - Bharati Vidyapeeth Pune BTech admission 2026
   - BVP CET 2026 exam dates

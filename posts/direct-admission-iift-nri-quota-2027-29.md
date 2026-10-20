@@ -3,8 +3,7 @@ title: 'IIFT NRI & Foreign National Admission 2026: GMAT Cutoffs'
 date: '2026-03-18'
 description: >-
   Everything about NRI/Foreign National admission at [IIFT
-  Delhi](/colleges/iift-delhi/) & Kolkata for 2026. Learn about the GMAT entry
-  route, application deadlines, and latest placement highlights.
+  Delhi](/colleges/iift-delhi/) & Kolkata for 2026.
 keywords:
   - IIFT NRI quota 2026
   - IIFT direct admission

@@ -23,8 +23,7 @@ ab_test:
         breakdown, profile screening, and admission strategy.
 description: >-
   Complete IMT Ghaziabad PGDM Placement Report 2027–29. Explore average package,
-  highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI, fees and
-  CAT/XAT cutoffs.
+  highest package of ₹41.55 LPA, top recruiters in Marketing & BFSI.
 keywords:
   - imt ghaziabad pgdm placement report 2027–29
   - imt ghaziabad average package 2025

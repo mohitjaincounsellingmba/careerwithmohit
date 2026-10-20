@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Looking for top MBA Business Analytics colleges in Kolkata? Review our 2027–29
-  guide comparing IIM Calcutta PGDBA, Praxis, and IMI Kolkata placements and
-  fees.
+  guide comparing IIM Calcutta PGDBA, Praxis.
 keywords:
   - top mba business analytics colleges in kolkata 2027–29
   - best business analytics mba in kolkata

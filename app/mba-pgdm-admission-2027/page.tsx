@@ -15,9 +15,9 @@ const PAGE_PATH = '/mba-pgdm-admission-2027/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'MBA/PGDM DIRECT ADMISSION COLLEGES (2027–2029): Top 67+ B-Schools, Fees & Cutoffs | CareerWithMohit',
+  title: 'Direct MBA & PGDM Admission 2027: Top Colleges & Fees',
   description:
-    'Compare 67+ most targeted MBA and PGDM direct admission colleges across Delhi NCR, Pune, Bangalore, Mumbai, Dehradun, and Jaipur / Rajasthan for batch 2027–2029. Verified fee structures, placement CTC, and free 1-on-1 counseling.',
+    'Compare 67+ top MBA and PGDM direct admission colleges 2027–2029 across Delhi NCR, Pune, Bangalore & Mumbai. Check verified fees, cutoffs & placement ROI.',
   keywords: [
     'MBA PGDM direct admission colleges',
     'direct MBA admission 2027',
@@ -77,7 +77,7 @@ const jsonLd = {
       '@type': 'WebPage',
       '@id': PAGE_URL,
       url: PAGE_URL,
-      name: 'MBA/PGDM DIRECT ADMISSION COLLEGES (2027–2029) | CareerWithMohit',
+      name: 'Direct MBA & PGDM Admission Colleges (2027–2029) | CareerWithMohit',
       description:
         'Compare top 67+ targeted AICTE & AIU approved PGDM & MBA colleges in Delhi NCR, Pune, Mumbai, Bangalore, Dehradun, and Jaipur / Rajasthan for direct admission 2027–2029 batch.',
       isPartOf: { '@id': `${BASE_URL}/#website` },
@@ -205,7 +205,7 @@ export default function MbaPgdmAdmission2027Page() {
           {/* Main Title & Lede */}
           <div className="max-w-4xl">
             <h1 className="font-display text-3xl sm:text-5xl lg:text-[56px] font-black text-[#0F1026] tracking-tight leading-[1.12] mb-4">
-              MBA/PGDM DIRECT ADMISSION COLLEGES{' '}
+              Direct MBA &amp; PGDM Admission Colleges{' '}
               <span className="bg-gradient-to-r from-[#6336EA] via-[#8B5CF6] to-[#EC4899] bg-clip-text text-transparent">
                 (2027–2029)
               </span>

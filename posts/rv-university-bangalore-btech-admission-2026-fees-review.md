@@ -3,8 +3,7 @@ title: 'RV University (RVU) Bangalore B.Tech Admission 2026: Fees, Review & Plac
 date: '2026-03-24'
 description: >-
   Everything you need to know about RV University (RVU) Bangalore B.Tech
-  admission 2026. Check the latest RVU-ET entrance details, B.Tech (Hons)
-  specializations, and CSE placement review.
+  admission 2026. Check the latest RVU-ET entrance details.
 keywords:
   - RV University Bangalore BTech admission 2026
   - RVU Bangalore vs RVCE

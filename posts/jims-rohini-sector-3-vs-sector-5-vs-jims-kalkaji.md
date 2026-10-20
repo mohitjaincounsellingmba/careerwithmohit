@@ -3,8 +3,7 @@ title: 'JIMS Rohini Sector 3 vs Sector 5 vs JIMS Kalkaji: Comparative Guide 2026
 date: '2026-03-28'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - JIMS Rohini Sector 3 vs Sector 5
   - JIMS Kalkaji vs JIMS Rohini 2026

@@ -14,7 +14,7 @@ tags:
   - INSEAD
   - ISB
   - Study Abroad
-description: "\U0001F4CA Global MBA 2027–29: Regional Highlights | Region | Avg. Salary (Post-MBA) | Approx. Fees (1 Year) | Top Schools | | :--- | :--- | :--- | :--- | | USA (M7)..."
+description: "\U0001F4CA Global MBA 2027–29: Regional Highlights | Region | Avg. Salary (Post-MBA) | Approx. Fees (1 Year) | Top Schools | | :--- | :--- | :--- | :--- | | USA..."
 keywords:
   - career counselling
   - admissions 2026

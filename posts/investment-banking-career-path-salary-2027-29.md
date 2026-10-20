@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Exams
 description: >-
   Dreaming of Wall Street or Dalal Street? Explore the Investment Banking career
-  path for 2026. Discover the skills required, salary expectations, and how to
-  get in.
+  path for 2026. Discover the skills required, salary expectations.
 keywords:
   - investment banking career path 2026
   - how to become investment banker india

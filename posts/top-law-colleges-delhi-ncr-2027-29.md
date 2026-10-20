@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Law
 description: >-
   Discover the best Law colleges in Delhi NCR for 2026. Detailed guide on NLU
-  Delhi, Jindal Global (JGLS), Amity Law School, and VIPS. Compare fees,
-  CLAT/AILET scores, and law firm placements.
+  Delhi, Jindal Global (JGLS), Amity Law School, and VIPS.
 keywords:
   - top law colleges in delhi ncr 2026
   - best llb colleges delhi ncr

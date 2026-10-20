@@ -3,9 +3,8 @@ title: Top MBA Colleges for CAT 70-80 Percentile 2027–29 — Placements & Fees
 date: '2026-04-21'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
-  Colleges for CAT 70-80 Percentile 2026 — Placements & Fees. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Top MBA Colleges for CAT 70-80 Percentile 2027–29 — ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - colleges for 70 percentile cat 2026
   - mba colleges for 80 percentile cat

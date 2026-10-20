@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Guide to studying MBBS in Georgia for Indian students in 2026. European
-  curriculum, 100% English medium, ECTS credits, total fees (₹25L-₹45L), and
-  USMLE/NEXT passing rates.
+  curriculum, 100% English medium, ECTS credits, total fees (₹25L-₹45L).
 keywords:
   - mbbs colleges in georgia 2026
   - mbbs in georgia fees for indian students

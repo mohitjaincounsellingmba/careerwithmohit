@@ -2,30 +2,51 @@
 title: 'Graphic Era PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Graphic Era (Deemed to be University), Dehradun (Clement Town, Dehradun, Uttarakhand). Check updated fee structure (₹7.80 Lakhs (Total)), average placement (₹7.20 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Graphic Era (Deemed to be University),
+  Dehradun (Clement Town, Dehradun, Uttarakhand).
 keywords:
   - 'graphic era (deemed to be university), dehradun pgdm admission 2027'
   - 'graphic era (deemed to be university), dehradun mba fees 2027'
   - 'graphic era (deemed to be university), dehradun average placement package'
   - 'graphic era (deemed to be university), dehradun cutoff 2026 2027'
-  - 'graphic era review 2027'
+  - graphic era review 2027
   - 'direct admission in graphic era (deemed to be university), dehradun'
-  - 'top pgdm colleges in clement town'
+  - top pgdm colleges in clement town
   - 'best mba colleges in dehradun, uttarakhand'
 faqs:
-  - question: 'What is the average placement package at Graphic Era (Deemed to be University), Dehradun in 2026-2027?'
-    answer: 'The verified average placement package at Graphic Era (Deemed to be University), Dehradun stands at approximately ₹7.20 LPA, with top performing students securing offers up to ₹25.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Graphic Era (Deemed to be University), Dehradun?'
-    answer: 'Graphic Era (Deemed to be University), Dehradun accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Graphic Era (Deemed to be University), Dehradun?'
-    answer: 'The total course tuition fee is approximately ₹7.80 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Graphic Era (Deemed to be University), Dehradun?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Clement Town'
+  - question: >-
+      What is the average placement package at Graphic Era (Deemed to be
+      University), Dehradun in 2026-2027?
+    answer: >-
+      The verified average placement package at Graphic Era (Deemed to be
+      University), Dehradun stands at approximately ₹7.20 LPA, with top
+      performing students securing offers up to ₹25.00 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Graphic Era (Deemed
+      to be University), Dehradun?
+    answer: >-
+      Graphic Era (Deemed to be University), Dehradun accepts scores from CAT,
+      XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI
+      profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Graphic Era
+      (Deemed to be University), Dehradun?
+    answer: >-
+      The total course tuition fee is approximately ₹7.80 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Graphic Era (Deemed
+      to be University), Dehradun?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Clement Town
 state: 'Dehradun, Uttarakhand'
 ---
 
-# [Graphic Era (Deemed to be University), Dehradun](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Graphic Era (Deemed to be University), Dehradun](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Clement Town, Dehradun, Uttarakhand** accredited with **NAAC Grade A+ Accredited · UGC Deemed University · NIRF Ranked #59** offering career-focused programs in **MBA, MBA Business Analytics, MBA International Business, MBA Financial Markets**.

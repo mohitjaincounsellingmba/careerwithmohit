@@ -7,10 +7,7 @@ category: MBA
 description: >-
   In-depth Department of Management, BITS Pilani (Pilani Campus, Vidya Vihar)
   review for 2027 admissions. Explore verified fee structure (₹11.50 – ₹13.50
-  Lakhs (Total 2-Year Residential MBA including hostel & mess)), latest
-  placements (avg ₹13.50 – ₹14.20 LPA, highest ₹22.00 – ₹27.00 LPA), cutoffs
-  (BAAT (Business Analytics Aptitude Test conducted by BITS Pilani) + CAT / XAT:
-  75–80+ %ile for initial shortlisting), and student verdict.
+  Lakhs...
 keywords:
   - 'department of management, bits pilani review 2027'
   - 'department of management, bits pilani fees'
@@ -51,7 +48,7 @@ location: Pilani
 state: Rajasthan
 ---
 
-# Department of Management, [BITS Pilani](/colleges/bits-pilani/) (Pilani Campus, Vidya Vihar) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## Department of Management, [BITS Pilani](/colleges/bits-pilani/) (Pilani Campus, Vidya Vihar) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via BAAT (BITS Exam), CAT, XAT, GMAT scores and structured profile-evaluation / WAT-PI rounds for an approved batch intake of **Approx. 80–90 Seats (Boutique High-Caliber Cohort)**.

@@ -2,10 +2,8 @@
 title: 'Direct Admission in SRM University 2026: Management Quota, Fees & Process'
 date: '2026-04-01'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Direct
-  Admission in SRM University 2026: Management Quota, Fees & Process. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Direct Admission in SRM University 2026: Management ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - SRM University direct admission
   - SRM management quota 2026

@@ -5,10 +5,8 @@ title: >-
 date: '2026-05-19'
 description: >-
   Discover the unique selling points of [BML Munjal
-  University](/colleges/bml-munjal-gurgaon/) (BMU) for BTech, BBA, BCA & MBA 2027–29
-  — Hero Group legacy, Imperial College London collaboration, ₹59.35 LPA highest
-  package, portfolio-based learning, and Gurgaon corporate proximity. Know if
-  BMU is the right fit for you.
+  University](/colleges/bml-munjal-gurgaon/) (BMU) for BTech, BBA, BCA & MBA
+  2027–29 — Hero Group legacy.
 keywords:
   - '[BML Munjal University](/colleges/bml-munjal-gurgaon/) USP'
   - BML Munjal BTech 2026

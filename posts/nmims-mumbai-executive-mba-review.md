@@ -3,9 +3,7 @@ title: 'NMIMS School of Business Management, Mumbai Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at NMIMS School of
-  Business Management, Mumbai. Learn about total fees, eligibility, accepted
-  entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  Business Management, Mumbai. Learn about total fees, eligibility.
 keywords:
   - 'NMIMS School of Business Management, Mumbai executive mba'
   - 'NMIMS School of Business Management, Mumbai executive mba review'

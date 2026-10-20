@@ -3,8 +3,7 @@ title: 'JEE Main 2026 Session 2 Admit Card Released: Download Your Hall Ticket N
 date: '2026-03-30'
 description: >-
   The NTA has officially released the JEE Main 2026 Session 2 admit cards for
-  the upcoming April session. Get the direct download link, step-by-step guide,
-  and crucial exam day instructions here.
+  the upcoming April session. Get the direct download link, step-by-step guide.
 keywords:
   - JEE Main 2026 Session 2 admit card
   - NTA JEE Main hall ticket 2026

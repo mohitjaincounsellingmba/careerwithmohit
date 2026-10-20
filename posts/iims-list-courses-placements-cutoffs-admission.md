@@ -2,9 +2,8 @@
 title: 'Complete List of 21 IIMs in India 2026: Courses, Placements & Admission Guide'
 date: '2026-03-12'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Complete List
-  of 21 IIMs in India 2026: Courses, Placements & Admission Guide. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Complete List of 21 IIMs in India 2026: Courses, Pla...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - '[IIM Ahmedabad](/colleges/iim-ahmedabad/)'
   - '[IIM Bangalore](/colleges/iim-bangalore/)'

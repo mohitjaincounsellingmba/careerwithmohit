@@ -4,8 +4,8 @@ date: '2026-06-04'
 category: Exams
 description: >-
   Planning to crack CMAT 2026? Learn how to tackle the Innovation &
-  Entrepreneurship section, score 340+ marks, and secure admission into [JBIMS
-  Mumbai](/colleges/jbims-mumbai/).
+  Entrepreneurship section, score 340+ marks, and secure admission into
+  [JBIMS...
 keywords:
   - how to crack cmat exam
   - crack cmat 2026

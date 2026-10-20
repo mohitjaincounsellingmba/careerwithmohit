@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Jain (Deemed-to-be University), Bangalore (Bangalore)
-  for 2026. Check latest fee structure, flagship courses, placement statistics,
-  top recruiters, and admission process.
+  for 2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Jain University Bangalore review 2027–29
   - Jain University Bangalore placements 2027–29

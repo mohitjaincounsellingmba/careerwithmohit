@@ -2,7 +2,9 @@
 title: 'Top MSBA Colleges in Kolkata 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-28'
 category: MBA
-description: 'Explore the top MSBA & Business Analytics colleges in Kolkata for 2027. Review the prestigious IIM-ISI-IIT PGDBA, IMI Kolkata, Globsyn, and Praxis by fees & packages.'
+description: >-
+  Explore the top MSBA & Business Analytics colleges in Kolkata for 2027. Review
+  the prestigious IIM-ISI-IIT PGDBA, IMI Kolkata, Globsyn.
 keywords:
   - top msba colleges in kolkata 2027
   - pgdba kolkata iim isi iit
@@ -16,16 +18,26 @@ keywords:
 faqs:
   - question: What is the highest-ranked Business Analytics program in Kolkata?
     answer: >-
-      The **PGDBA (Post Graduate Diploma in Business Analytics)** offered jointly by **IIM Calcutta, ISI Kolkata, and IIT Kharagpur** is ranked #1 in India and among the top globally, with average placement CTC exceeding ₹31.05 LPA.
+      The **PGDBA (Post Graduate Diploma in Business Analytics)** offered
+      jointly by **IIM Calcutta, ISI Kolkata, and IIT Kharagpur** is ranked #1
+      in India and among the top globally, with average placement CTC exceeding
+      ₹31.05 LPA.
   - question: How does the triple-institute PGDBA program work?
     answer: >-
-      Students spend 6 months at **ISI Kolkata** mastering statistical and machine learning theory, 6 months at **IIT Kharagpur** learning big data engineering and technology, and 6 months at **IIM Calcutta** studying business strategy and functional analytics, concluding with a 6-month corporate internship.
+      Students spend 6 months at **ISI Kolkata** mastering statistical and
+      machine learning theory, 6 months at **IIT Kharagpur** learning big data
+      engineering and technology, and 6 months at **IIM Calcutta** studying
+      business strategy and functional analytics, concluding with a 6-month
+      corporate internship.
   - question: Which are the top private colleges for Business Analytics in Kolkata?
     answer: >-
-      Notable private institutions include **IMI Kolkata** (NIRF ranked), **Globsyn Business School** (AICTE-approved PGDM in Business Analytics), and **Praxis Business School** (Data Science and Analytics pioneer).
+      Notable private institutions include **IMI Kolkata** (NIRF ranked),
+      **Globsyn Business School** (AICTE-approved PGDM in Business Analytics),
+      and **Praxis Business School** (Data Science and Analytics pioneer).
   - question: What are the entrance exams accepted in Kolkata analytics colleges?
     answer: >-
-      PGDBA conducts its own national entrance test. Private institutions accept CAT, XAT, CMAT, MAT, ATMA, and JEMAT (West Bengal State Entrance).
+      PGDBA conducts its own national entrance test. Private institutions accept
+      CAT, XAT, CMAT, MAT, ATMA, and JEMAT (West Bengal State Entrance).
 location: Kolkata
 state: West Bengal
 ---

@@ -4,10 +4,8 @@ title: >-
   Admission
 date: '2026-04-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Schulich
-  School of Business MBA Review 2027–29: Fees in INR, Placements & Admission. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Schulich School of Business MBA Review 2027–29: Fees...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Schulich School of Business MBA 2027–29
   - Schulich School of Business MBA fees in INR

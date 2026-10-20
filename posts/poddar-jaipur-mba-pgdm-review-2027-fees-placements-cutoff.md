@@ -2,7 +2,9 @@
 title: 'Poddar Business School, Jaipur PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Poddar Business School, Jaipur (Mansarovar & Vatika, Jaipur, Rajasthan). Check updated fee structure (₹5.50 Lakhs (Total)), average placement (₹8.50 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Poddar Business School, Jaipur (Mansarovar
+  & Vatika, Jaipur, Rajasthan).
 keywords:
   - 'poddar business school, jaipur pgdm admission 2027'
   - 'poddar business school, jaipur mba fees 2027'
@@ -10,22 +12,40 @@ keywords:
   - 'poddar business school, jaipur cutoff 2026 2027'
   - 'poddar business school, jaipur review 2027'
   - 'direct admission in poddar business school, jaipur'
-  - 'top pgdm colleges in mansarovar & vatika'
+  - top pgdm colleges in mansarovar & vatika
   - 'best mba colleges in jaipur, rajasthan'
 faqs:
-  - question: 'What is the average placement package at Poddar Business School, Jaipur in 2026-2027?'
-    answer: 'The verified average placement package at Poddar Business School, Jaipur stands at approximately ₹8.50 LPA, with top performing students securing offers up to ₹24.00 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Poddar Business School, Jaipur?'
-    answer: 'Poddar Business School, Jaipur accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Poddar Business School, Jaipur?'
-    answer: 'The total course tuition fee is approximately ₹5.50 Lakhs (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Poddar Business School, Jaipur?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Mansarovar & Vatika'
+  - question: >-
+      What is the average placement package at Poddar Business School, Jaipur in
+      2026-2027?
+    answer: >-
+      The verified average placement package at Poddar Business School, Jaipur
+      stands at approximately ₹8.50 LPA, with top performing students securing
+      offers up to ₹24.00 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Poddar Business
+      School, Jaipur?
+    answer: >-
+      Poddar Business School, Jaipur accepts scores from CAT, XAT, MAT, CMAT,
+      ATMA, and State CETs followed by institutional GD-PI profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Poddar
+      Business School, Jaipur?
+    answer: >-
+      The total course tuition fee is approximately ₹5.50 Lakhs (Total) for the
+      2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Poddar Business
+      School, Jaipur?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Mansarovar & Vatika
 state: 'Jaipur, Rajasthan'
 ---
 
-# [Poddar Business School, Jaipur](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Poddar Business School, Jaipur](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Mansarovar & Vatika, Jaipur, Rajasthan** accredited with **AICTE Approved · Global Certifications (Apple iOS, SAP, Harvard Modules)** offering career-focused programs in **PGDM, MBA**.

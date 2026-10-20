@@ -2,9 +2,8 @@
 title: 'GD Goenka BTech Review 2026: Fees, Placements & Honest Feedback'
 date: '2026-03-30'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for GD Goenka
-  BTech Review 2026: Fees, Placements & Honest Feedback. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for GD Goenka BTech Review 2026: Check fees, verified placement
+  packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - GD Goenka BTech Review 2026
   - GD Goenka engineering fees

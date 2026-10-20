@@ -3,8 +3,7 @@ title: 'NDIM vs Delhi School of Business (DSB): Why the NDIM Legacy Wins in 2026
 date: '2026-03-25'
 description: >-
   Confused between NDIM Delhi and DSB (Delhi School of Business)? Find out why
-  NDIM’s 30+ years of legacy, massive alumni network, and TOP ranking in
-  placements make it the superior choice for PGDM 2027–29.
+  NDIM’s 30+ years of legacy, massive alumni network.
 keywords:
   - NDIM vs DSB Delhi
   - New Delhi Institute of Management ranking 2026

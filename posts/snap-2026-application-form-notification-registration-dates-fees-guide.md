@@ -7,7 +7,7 @@ category: Exams
 description: >-
   The official SNAP 2026 Application Form Notification is out! Check
   registration start & end dates, exam schedule, eligibility, fee structure,
-  test pattern, and a step-by-step guide to apply online at snaptest.org.
+  test pattern.
 keywords:
   - SNAP application form notification
   - SNAP 2026 application form notification

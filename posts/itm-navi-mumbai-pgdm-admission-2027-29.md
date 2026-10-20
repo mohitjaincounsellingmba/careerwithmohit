@@ -6,9 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for ITM Business School (ITM Navi Mumbai).
-  Verified fee structure (₹12.45 Lakhs (Total)), PGDM approvals, audited
-  placements (Avg ₹10.50 LPA, Highest ₹25.00 LPA), PPO stats, certifications,
-  awards, alumni network, faculty profiles, and Why Join review.
+  Verified fee structure (₹12.45 Lakhs (Total)), PGDM approvals.
 keywords:
   - ITM Business School admission 2027-29
   - ITM Navi Mumbai fees 2027
@@ -74,7 +72,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# ITM Business School Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## ITM Business School Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.45 Lakhs (Total)** (**₹6.22 Lakhs per Year**). ITM iFirst Scholarships up to 100% tuition fee waiver.

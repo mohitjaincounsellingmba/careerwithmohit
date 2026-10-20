@@ -3,10 +3,8 @@ title: >-
   AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score
   Predictor
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for AIMA MAT May
-  2026 Score Calculator: Marks vs Percentile & Composite Score Predictor. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for AIMA MAT May 2026 Score Calculator: Marks vs Percent...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 date: '2026-06-04'
 tags:
   - MAT
@@ -46,7 +44,7 @@ state: Delhi NCR
 category: Exams
 ---
 
-# AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score Predictor
+## AIMA MAT May 2026 Score Calculator: Marks vs Percentile & Composite Score Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

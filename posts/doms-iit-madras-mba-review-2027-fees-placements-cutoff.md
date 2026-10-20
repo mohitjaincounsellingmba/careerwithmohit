@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive Department of Management Studies (DoMS), IIT Madras (Chennai,
-  Tamil Nadu) review for 2027 admissions. Explore audited fee structure (₹11.00
-  Lakhs (Total)), latest placement packages (Avg: ₹20.19 LPA, Highest: ₹34.00
-  LPA), entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  Tamil Nadu) review for 2027 admissions.
 keywords:
   - 'department of management studies (doms), iit madras review 2027'
   - 'department of management studies (doms), iit madras mba fees'
@@ -62,7 +60,7 @@ location: Chennai
 state: Tamil Nadu
 ---
 
-# [Department of Management Studies (DoMS), IIT Madras](/colleges/doms-iit-madras/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Department of Management Studies (DoMS), IIT Madras](/colleges/doms-iit-madras/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

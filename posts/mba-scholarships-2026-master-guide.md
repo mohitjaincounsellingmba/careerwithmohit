@@ -3,8 +3,7 @@ title: 'Top MBA Scholarships in India 2027–29: Eligibility, Links & How to App
 date: '2026-03-15'
 description: >-
   Unlock financial aid for your management studies. A comprehensive guide to the
-  best MBA scholarships in 2027–29, including eligibility, direct links, and
-  step-by-step application processes.
+  best MBA scholarships in 2027–29, including eligibility, direct links.
 keywords:
   - MBA scholarships 2027–29 India
   - IDFC First Bank MBA scholarship eligibility

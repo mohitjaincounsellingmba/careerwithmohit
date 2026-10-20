@@ -6,7 +6,7 @@ date: '2026-04-05'
 description: >-
   Planning your UG in Gurugram (Gurgaon) with CUET 2026 scores? Explore best
   colleges in Gurugram like NorthCap, GD Goenka, and KR Mangalam for Arts,
-  Commerce, and Tech.
+  Commerce.
 keywords:
   - CUET UG Gurugram 2026
   - CUET colleges in Gurgaon

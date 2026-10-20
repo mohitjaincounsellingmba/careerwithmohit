@@ -2,9 +2,8 @@
 title: 'IPU CET 2026 PG: Admit Card Out for Phased Exams & Final Schedule'
 date: '2026-05-06'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for IPU CET 2026
-  PG: Admit Card Out for Phased Exams & Final Schedule. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for IPU CET 2026 PG: Admit Card Out for Phased Exams & F...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - IPU CET 2026 PG admit card
   - GGSIPU MBA admission 2027–2029

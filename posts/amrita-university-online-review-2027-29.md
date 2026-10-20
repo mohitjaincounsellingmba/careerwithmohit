@@ -4,9 +4,8 @@ title: >-
   Cutoffs–29: MBA, MCA, BBA & BCA Fee Structure
 date: '2026-04-05'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Amrita Vishwa
-  Vidyapeetham Online Review 2027–29: MBA, MCA, BBA & BCA Fee Structure. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
+  2027 guide for Amrita Vishwa Vidyapeetham Online Review (2026-2027): Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit
   Jain.
 keywords:
   - Amrita Vishwa Vidyapeetham Online review 2027–29

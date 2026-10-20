@@ -6,7 +6,7 @@ date: '2026-03-22'
 description: >-
   Looking for BIMTECH Greater Noida placement reviews 2024-2025? Check our
   detailed guide on average packages of ₹11.1 LPA and top recruiters like
-  Deloitte, EY, and KPMG.
+  Deloitte.
 keywords:
   - BIMTECH Greater Noida placement 2025
   - BIMTECH average package

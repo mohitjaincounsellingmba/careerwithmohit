@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-11'
 description: >-
   NTA has officially released the CUET PG 2026 Response Sheet and Provisional
-  Answer Key. Get the direct link to download your response sheet, raise
-  objections, and calculate your raw marks.
+  Answer Key. Get the direct link to download your response sheet.
 keywords:
   - CUET PG 2026 response sheet out
   - CUET PG 2026 answer key release

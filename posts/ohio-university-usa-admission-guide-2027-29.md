@@ -3,8 +3,7 @@ title: 'Ohio University Admission Guide 2026: Fees, Placements & Requirements'
 date: '2026-06-11'
 description: >-
   Thinking of studying at Ohio University in 2026? Check the latest fee
-  structure in INR, top courses, eligibility requirements, and placement reports
-  for Indian students.
+  structure in INR, top courses, eligibility requirements.
 keywords:
   - Ohio University admission 2026
   - Ohio University fees for Indian students

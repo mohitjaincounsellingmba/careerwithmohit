@@ -3,8 +3,7 @@ title: 'University of Utah Admission Guide 2026: Fees, Placements & Requirements
 date: '2026-06-11'
 description: >-
   Thinking of studying at University of Utah in 2026? Check the latest fee
-  structure in INR, top courses, eligibility requirements, and placement reports
-  for Indian students.
+  structure in INR, top courses, eligibility requirements.
 keywords:
   - University of Utah admission 2026
   - University of Utah fees for Indian students

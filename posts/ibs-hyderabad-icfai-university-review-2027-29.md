@@ -1,13 +1,11 @@
 ---
 title: >-
-  ICFAI Foundation for Higher Education (IBS Hyderabad) Review 2027–29: Placements,
-  Fees, Courses & Admission
+  ICFAI Foundation for Higher Education (IBS Hyderabad) Review 2027–29:
+  Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of ICFAI Foundation for Higher Education (IBS Hyderabad)
-  (Hyderabad (Dontanapalli / Shankarpalli Road)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  (Hyderabad (Dontanapalli / Shankarpalli Road)) for 2026.
 keywords:
   - IBS Hyderabad (ICFAI University) review 2027–29
   - IBS Hyderabad (ICFAI University) placements 2027–29

@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Department of Business Administration, Tezpur University
-  (Napaam, Tezpur, Assam) review for 2027 admissions. Explore audited fee
-  structure (₹1.50 Lakhs (Total)), latest placement packages (Avg: ₹6.20 LPA,
-  Highest: ₹14.50 LPA), entrance exam cutoffs (CAT, MAT, XAT, CMAT), NIRF
-  ranking, and student verdict.
+  (Napaam, Tezpur, Assam) review for 2027 admissions.
 keywords:
   - 'department of business administration, tezpur university review 2027'
   - 'department of business administration, tezpur university mba fees'
@@ -61,7 +58,7 @@ location: Napaam
 state: Tezpur
 ---
 
-# [Department of Business Administration, Tezpur University](/colleges/tezpur-university-management/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Department of Business Administration, Tezpur University](/colleges/tezpur-university-management/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, MAT, XAT, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Dreaming of Investment Banking? Explore the best MBA Finance colleges in
   Mumbai. Compare JBIMS, SPJIMR, NMIMS, and SIMSREE fees and placements for
-  2026-2027 admissions & career guidance.
+  2026-2027...
 keywords:
   - top mba finance colleges in mumbai 2027–29
   - best finance b-schools mumbai

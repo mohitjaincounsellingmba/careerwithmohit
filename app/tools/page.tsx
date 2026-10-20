@@ -7,8 +7,8 @@ import {
 import { JsonLd } from '@/components/JsonLd';
 
 export const metadata: Metadata = {
-  title: 'Free Online Tools Hub: Calculators, Mock Tests & Converters | CareerWithMohit',
-  description: 'Access 20+ free tools: file converters (Word to PDF, PNG to JPG), entrance exam calculators (CAT, XAT, JEE, CUET), college predictors, CBT mock tests and more.',
+  title: 'Free Online Tools: Calculators & Mock Tests',
+  description: 'Access 20+ free tools: entrance exam calculators (CAT, XAT, JEE), college predictors, CBT mock tests, resume builders & file converters with Mohit Jain.',
   keywords: [
     'free tools online', 'file converter', 'cat score calculator', 'jee predictor',
     'career roadmap', 'mock test free', 'word to pdf', 'college predictor',

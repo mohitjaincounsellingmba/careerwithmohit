@@ -4,9 +4,7 @@ date: '2026-03-26'
 category: Online Degrees
 description: >-
   Looking for an honest, highly positive review of the [Sharda
-  University](/colleges/sharda-greater-noida/) Online MBA program? Discover its
-  curriculum, placement support, and why it is an excellent choice for working
-  professionals for 2026-2027 admissions & career guidance.
+  University](/colleges/sharda-greater-noida/) Online MBA program?
 keywords:
   - '[Sharda University](/colleges/sharda-greater-noida/) online MBA review'
   - Sharda Online MBA placements

@@ -6,8 +6,7 @@ date: '2026-08-24'
 author: Mohit Jain
 description: >-
   Detailed 2027 fee structure guide for Jamia Millia Islamia (JMI) Online. Check
-  course fees for MA English, History, Pol Sci, Sociology, B.Com, M.Com, BBA,
-  and eligibility for central university online degrees.
+  course fees for MA English, History, Pol Sci, Sociology, B.Com, M.Com, BBA.
 keywords:
   - jamia millia islamia online fee structure 2027
   - jmi online ma fees
@@ -33,7 +32,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
 ---
-# [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) Online Fee Structure (2027): Complete Course Breakdown
+## [Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/) Online Fee Structure (2027): Complete Course Breakdown
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.

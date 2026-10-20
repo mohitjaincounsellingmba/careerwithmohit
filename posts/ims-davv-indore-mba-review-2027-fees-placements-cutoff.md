@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Institute of Management Studies, DAVV (IMS DAVV) (Indore, Madhya
-  Pradesh) review for 2027 admissions. Explore audited fee structure (₹1.60
-  Lakhs (Total)), latest placement packages (Avg: ₹6.50 LPA, Highest: ₹18.00
-  LPA), entrance exam cutoffs (CUET-PG, CMAT), NIRF ranking, and student
-  verdict.
+  Pradesh) review for 2027 admissions.
 keywords:
   - 'institute of management studies, davv (ims davv) review 2027'
   - 'institute of management studies, davv (ims davv) mba fees'
@@ -57,7 +54,7 @@ location: Indore
 state: Madhya Pradesh
 ---
 
-# [Institute of Management Studies, DAVV (IMS DAVV)](/colleges/ims-davv-indore/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Institute of Management Studies, DAVV (IMS DAVV)](/colleges/ims-davv-indore/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CUET-PG, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

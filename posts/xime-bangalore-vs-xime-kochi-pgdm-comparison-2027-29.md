@@ -4,8 +4,7 @@ date: '2026-04-06'
 category: MBA
 description: >-
   A detailed comparison of [XIME Bangalore](/colleges/xime-bangalore/) vs XIME
-  Kochi — fees, placements, cutoff, location, accreditation, and which campus
-  suits you best for PGDM 2027–29.
+  Kochi — fees, placements, cutoff, location, accreditation.
 keywords:
   - '[XIME Bangalore](/colleges/xime-bangalore/) vs XIME Kochi'
   - 'XIME Kochi vs [XIME Bangalore](/colleges/xime-bangalore/)'

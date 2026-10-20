@@ -7,8 +7,7 @@ category: Online Degrees
 image: /blog/amity-university-online-mba-review-2027-29.png
 description: >-
   Honest review of [Amity University](/colleges/amity-noida/) Online MBA
-  2027–29. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status,
-  NAAC A+ rating, placement support, and who should actually enroll.
+  2027–29. Check fees (₹1,99,000 total), 15+ specializations, UGC-DEB status.
 keywords:
   - Amity University online MBA review 2027–29
   - Amity Online MBA fees 2027–29

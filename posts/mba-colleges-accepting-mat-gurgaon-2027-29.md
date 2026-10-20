@@ -4,8 +4,7 @@ date: '2026-06-05'
 category: Online Degrees
 description: >-
   Looking for top B-schools accepting MAT in Gurgaon (Gurugram)? Read our list
-  of best MBA/PGDM colleges with cutoffs, fees, and average CTC for 2027–29-2027
-  admissions & career guidance.
+  of best MBA/PGDM colleges with cutoffs, fees.
 keywords:
   - MBA Colleges Accepting MAT Score in Gurgaon
   - soil gurgaon mat cutoff

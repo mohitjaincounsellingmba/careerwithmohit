@@ -2,10 +2,8 @@
 title: 'Amity University, Jaipur Review 2027–29: Placements, Fees, Courses & Admission'
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Amity
-  University, Jaipur Review 2027–29: Placements, Fees, Courses & Admission. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Amity University, Jaipur Review 2027–29: Placements,...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Amity University Jaipur review 2027–29
   - Amity University Jaipur placements 2027–29

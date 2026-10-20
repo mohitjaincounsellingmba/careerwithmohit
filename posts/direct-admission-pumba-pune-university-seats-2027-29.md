@@ -4,7 +4,7 @@ date: '2026-03-17'
 description: >-
   Looking for direct admission in [PUMBA Pune](/colleges/pumba-pune/) for 2026?
   Understand the SPPU admission process, university-level seats, MAH-CET
-  cutoffs, and latest placement stats.
+  cutoffs.
 keywords:
   - '[PUMBA Pune](/colleges/pumba-pune/) direct admission'
   - PUMBA management quota

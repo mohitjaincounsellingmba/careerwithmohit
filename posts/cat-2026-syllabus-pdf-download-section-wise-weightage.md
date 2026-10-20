@@ -5,8 +5,8 @@ title: >-
 date: '2026-09-12'
 description: >-
   Download CAT 2026 syllabus PDF with official section-wise weightage. Complete
-  breakdown of VARC, DILR, and Quantitative Aptitude with past 5-year question
-  trends.
+  breakdown of VARC, DILR, and Quantitative Aptitude with past 5-year
+  question...
 category: Exams
 keywords:
   - cat 2026 syllabus pdf download section wise weightage

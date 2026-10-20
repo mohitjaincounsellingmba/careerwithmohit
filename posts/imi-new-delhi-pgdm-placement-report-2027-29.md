@@ -4,9 +4,8 @@ title: >-
   ₹40.31 LPA & Top Consulting Firms
 date: '2026-08-15'
 description: >-
-  Complete IMI New Delhi PGDM Placement Report 2027–29. Explore average salary of
-  ₹18.28 LPA, highest package of ₹40.31 LPA, domain-wise hiring, fees & CAT/XAT
-  cutoffs.
+  Complete IMI New Delhi PGDM Placement Report 2027–29. Explore average salary
+  of ₹18.28 LPA, highest package of ₹40.31 LPA, domain-wise hiring.
 keywords:
   - imi new delhi pgdm placement report 2027–29
   - imi delhi average package 2025

@@ -1,13 +1,11 @@
 ---
 title: >-
-  MIT World Peace University (MIT-WPU) Review 2027–29: Placements, Fees, Courses &
-  Admission
+  MIT World Peace University (MIT-WPU) Review 2027–29: Placements, Fees, Courses
+  & Admission
 date: '2026-08-03'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MIT World
-  Peace University (MIT-WPU) Review 2027–29: Placements, Fees, Courses & Admission.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for MIT World Peace University (MIT-WPU) Review 2027–29:...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MIT-WPU Pune review 2027–29
   - MIT-WPU Pune placements 2027–29

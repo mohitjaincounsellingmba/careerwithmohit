@@ -21,9 +21,8 @@ exams:
   - ATMA
   - MH-CET
 website: 'https://www.iimspune.edu.in'
-seo_title: 'IIMS Pune MBA/PGDM Fees, Cutoff & Placements 2027 | SaiBalaji'
-seo_description: >-
-  Complete review of IIMS Pune (International Institute of Management Studies): Hinjawadi campus, PGDM fees ₹9.5 Lakhs, highest placement ₹26.0 LPA, cutoffs, and 2027 admission process.
+seo_title: 'IIMS Pune MBA/PGDM Fees, Cutoff & Placements 2027'
+seo_description: 'Review IIMS Pune (SaiBalaji): PGDM fees ₹9.5 Lakhs, highest placement ₹26.0 LPA, cutoffs & 2027 admissions with Mohit Jain.'
 keywords:
   - IIMS Pune review
   - IIMS Pune fees structure 2027

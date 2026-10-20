@@ -1,8 +1,10 @@
 ---
-title: "JS Kothari Mumbai PGDM Review 2027: Fees, Cutoff & ROI"
-date: "2026-09-27"
+title: 'JS Kothari Mumbai PGDM Review 2027: Fees, Cutoff & ROI'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 JS Kothari Mumbai review with audited ₹6.50L placements, ₹7.00L fees, cutoffs, and admissions guidance advice from Mohit Jain."
+description: >-
+  Read verified 2027 JS Kothari Mumbai review with audited ₹6.50L placements,
+  ₹7.00L fees, cutoffs, and admissions guidance advice from Mohit Jain.
 keywords:
   - js kothari mumbai pgdm review 2027
   - js kothari business school fees structure
@@ -13,26 +15,45 @@ keywords:
   - direct admission in js kothari mumbai
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at JS Kothari Business School Mumbai?
+  - question: >-
+      What is the audited average placement package at JS Kothari Business
+      School Mumbai?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at JS Kothari Business School stands at ₹6.20 LPA to ₹6.50 LPA. The median CTC is benchmarked at ₹6.00 LPA, with top 20% performers securing ₹8.80 LPA and peak domestic offers touching ₹12.50 LPA.
-  - question: What is the complete fee structure for the 2-year PGDM at JS Kothari Business School?
+      The verified overall average placement package across graduating PGDM
+      cohorts at JS Kothari Business School stands at ₹6.20 LPA to ₹6.50 LPA.
+      The median CTC is benchmarked at ₹6.00 LPA, with top 20% performers
+      securing ₹8.80 LPA and peak domestic offers touching ₹12.50 LPA.
+  - question: >-
+      What is the complete fee structure for the 2-year PGDM at JS Kothari
+      Business School?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at JS Kothari Business School is approximately ₹7.00 Lakhs, payable in term-wise installments across six academic trimesters.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at JS Kothari Business School is approximately ₹7.00 Lakhs,
+      payable in term-wise installments across six academic trimesters.
   - question: What entrance exams and cutoffs are accepted at JS Kothari Mumbai?
     answer: >-
-      JS Kothari Business School accepts scores from MAH-CET, CAT, MAT, CMAT, ATMA, and XAT. Competitive eligibility cutoffs range between 55.0% and 65.0% percentile, accompanied by evaluation of undergraduate academic performance and Personal Interviews.
+      JS Kothari Business School accepts scores from MAH-CET, CAT, MAT, CMAT,
+      ATMA, and XAT. Competitive eligibility cutoffs range between 55.0% and
+      65.0% percentile, accompanied by evaluation of undergraduate academic
+      performance and Personal Interviews.
   - question: What are the primary functional specializations offered at JS Kothari?
     answer: >-
-      The flagship PGDM curriculum provides functional dual specializations in Marketing, Financial Management, Human Resource Management, Operations & Supply Chain, and Business Analytics with digital marketing certifications.
-  - question: Does JS Kothari provide placement opportunities in Mumbai financial institutions?
+      The flagship PGDM curriculum provides functional dual specializations in
+      Marketing, Financial Management, Human Resource Management, Operations &
+      Supply Chain, and Business Analytics with digital marketing
+      certifications.
+  - question: >-
+      Does JS Kothari provide placement opportunities in Mumbai financial
+      institutions?
     answer: >-
-      Yes, being located in the Mumbai Metropolis, JS Kothari maintains active corporate relations with commercial banks, NBFCs, fintech firms, and retail distribution houses across Lower Parel, BKC, and Navi Mumbai.
-location: 'Mumbai Metropolis'
-state: 'Maharashtra'
+      Yes, being located in the Mumbai Metropolis, JS Kothari maintains active
+      corporate relations with commercial banks, NBFCs, fintech firms, and
+      retail distribution houses across Lower Parel, BKC, and Navi Mumbai.
+location: Mumbai Metropolis
+state: Maharashtra
 ---
 
-# [J.S. Kothari Business School (JSKBS Mumbai)](https://careerwithmohit.online/blog/js-kothari-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [J.S. Kothari Business School (JSKBS Mumbai)](https://careerwithmohit.online/blog/js-kothari-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: J.S. Kothari Business School is an established management institution in the Mumbai Metropolitan Region. Approved by **AICTE**, the institution delivers practical business training tailored to the financial, logistics, and retail ecosystems of Western India.

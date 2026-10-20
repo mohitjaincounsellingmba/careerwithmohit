@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Check out the top MBA Business Analytics colleges in Ghaziabad. Read details
-  on IMT Ghaziabad, ITS Mohan Nagar, and Jaipuria School of Business fees &
-  placements for 2026-2027 admissions & career guidance.
+  on IMT Ghaziabad, ITS Mohan Nagar, and Jaipuria School of Business fees &...
 keywords:
   - top mba business analytics colleges in ghaziabad 2027–29
   - best business analytics mba ghaziabad

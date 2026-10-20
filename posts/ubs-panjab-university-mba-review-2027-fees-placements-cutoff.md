@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive University Business School (UBS), Panjab University (Chandigarh)
-  review for 2027 admissions. Explore audited fee structure (₹45,000 (Total for
-  2 Years)), latest placement packages (Avg: ₹13.72 LPA, Highest: ₹58.48 LPA),
-  entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  review for 2027 admissions.
 keywords:
   - 'university business school (ubs), panjab university review 2027'
   - 'university business school (ubs), panjab university mba fees'
@@ -62,7 +60,7 @@ location: Chandigarh
 state: Punjab
 ---
 
-# [University Business School (UBS), Panjab University](/colleges/ubs-panjab-university/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [University Business School (UBS), Panjab University](/colleges/ubs-panjab-university/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

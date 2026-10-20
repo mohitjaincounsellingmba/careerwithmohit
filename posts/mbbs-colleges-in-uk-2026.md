@@ -7,7 +7,7 @@ category: Medical/MBBS
 description: >-
   Comprehensive guide to studying MBBS (MBChB) in the UK for international
   students in 2026. Top medical universities, UCAT exam, tuition fees
-  (£35k-£50k/yr), NHS foundation training, and PLAB/UKMLA roadmap.
+  (£35k-£50k/yr).
 keywords:
   - mbbs colleges in uk 2026
   - mbbs in uk fees for indian students

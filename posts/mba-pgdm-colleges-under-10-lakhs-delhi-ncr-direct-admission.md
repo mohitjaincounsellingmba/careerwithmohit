@@ -4,8 +4,7 @@ date: '2026-03-26'
 description: >-
   Looking for direct admission in Delhi NCR? Explore the top MBA and PGDM
   colleges under 10 Lakhs fee structure, including JIMS, GL Bajaj, and IMS
-  Ghaziabad, offering great placement ROI for 2026-2027 admissions & career
-  guidance.
+  Ghaziabad.
 keywords:
   - MBA colleges under 10 lakhs in Delhi NCR
   - PGDM direct admission Delhi 2027–29

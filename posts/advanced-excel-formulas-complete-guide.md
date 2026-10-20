@@ -5,10 +5,8 @@ title: >-
 date: '2026-05-28'
 category: BBA
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Advanced Excel
-  Formulas: The Ultimate Cheat Sheet for MBA & Corporate Professionals. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Advanced Excel Formulas: The Ultimate Cheat Sheet fo...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - Advanced Excel Formulas
   - Excel Formulas Cheat Sheet

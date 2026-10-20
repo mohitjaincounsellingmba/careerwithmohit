@@ -6,8 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Official NDIM Delhi PGDM/MBA 2027-29 (32nd Batch) admission guide. Updated fee
-  structure (₹14.00 Lakhs), semester vs annual plans, ₹2.5 Cr scholarship pool,
-  CAT/MAT/XAT/CMAT cutoffs, GD-PI rounds, and 100% placements.
+  structure (₹14.00 Lakhs), semester vs annual plans, ₹2.5 Cr scholarship pool.
 keywords:
   - NDIM Delhi PGDM admission 2027-29
   - NDIM Delhi MBA fees 2027
@@ -72,7 +71,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# NDIM Delhi PGDM / MBA Admission 2027-29: Fees, Eligibility, Selection Process, Cutoffs & Placements
+## NDIM Delhi PGDM / MBA Admission 2027-29: Fees, Eligibility, Selection Process, Cutoffs & Placements
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Fee Structure (2027–29 Batch)**: Verified at **₹14.00 Lakhs** for the full 2-year course (**₹7.00 Lakhs/year** under the annual plan, or **₹3.50 Lakhs/semester** under the semester plan + ₹6,000 annual convenience fee).

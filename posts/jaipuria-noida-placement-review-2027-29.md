@@ -6,7 +6,7 @@ date: '2026-03-22'
 description: >-
   Looking for Jaipuria Institute of Management Noida placement reviews
   2024-2025? Check our detailed guide on average packages of ₹9.5 LPA and
-  international offers up to ₹36.6 LPA.
+  international...
 keywords:
   - '[Jaipuria Noida](/colleges/jaipuria-noida/) placement 2025'
   - '[Jaipuria Noida](/colleges/jaipuria-noida/) average package'

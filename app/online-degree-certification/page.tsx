@@ -18,9 +18,9 @@ const PAGE_PATH = '/online-degree-certification/';
 const PAGE_URL = `${BASE_URL}${PAGE_PATH}`;
 
 export const metadata: Metadata = {
-  title: 'Top Online Degrees in India 2027: UGC Approved Universities, Fees & Admission Guide | CareerWithMohit',
+  title: 'UGC Approved Online Degrees & MBA in India 2027',
   description:
-    'Compare 40+ UGC-DEB approved online universities in India for 2027. Fees from ₹20,000 to ₹2 Lakhs. Explore Online MBA, MCA, BBA, BCA, MA English, B.Com, M.Com & PGDM programs with NAAC A++ grades, WES recognition, and 100% government job validity. Free counselling by Mohit Jain.',
+    'Compare 40+ UGC-DEB approved online universities in India for 2027. Explore Online MBA, MCA, BBA & BCA fees from ₹20,000 with 100% government job validity.',
   keywords: [
     'online degree courses in india 2027',
     'ugc deb approved online universities',

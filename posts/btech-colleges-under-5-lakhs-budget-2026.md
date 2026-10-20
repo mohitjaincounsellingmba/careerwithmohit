@@ -4,8 +4,7 @@ date: '2026-05-03'
 category: B.Tech
 description: >-
   Looking for affordable engineering? Explore the best B.Tech colleges in Delhi
-  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur, and Dehradun with a total
-  budget under 5 Lakhs for 2026-2027 admissions & career guidance.
+  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur.
 keywords:
   - btech colleges under 5 lakhs
   - low fees btech colleges india

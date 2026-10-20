@@ -3,9 +3,7 @@ title: 'Faculty of Management Studies (FMS), University of Delhi Executive MBA R
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Faculty of
-  Management Studies (FMS), University of Delhi. Learn about total fees,
-  eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts for 2026-2027 admissions & career guidance.
+  Management Studies (FMS), University of Delhi.
 keywords:
   - 'Faculty of Management Studies (FMS), University of Delhi executive mba'
   - >-

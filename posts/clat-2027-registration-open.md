@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-06'
 description: >-
   The Consortium of NLUs has opened the CLAT 2027 registration. Check the
-  application process, important dates, eligibility criteria, and fee details
-  for the Common Law Admission Test 2027.
+  application process, important dates, eligibility criteria.
 keywords:
   - CLAT 2027 registration
   - CLAT application form 2027

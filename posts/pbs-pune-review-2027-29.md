@@ -4,9 +4,8 @@ title: >-
   Cutoffs–29: A Rising PGDM Powerhouse
 date: '2026-03-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Pune Business
-  School (PBS) Review 2027–29: A Rising PGDM Powerhouse. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Pune Business School (PBS) Review (2026-2027): Check fees,
+  verified placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - Pune Business School review 2027–29
   - PBS Pune placements

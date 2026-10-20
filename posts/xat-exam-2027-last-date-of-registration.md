@@ -6,8 +6,7 @@ date: '2026-09-10'
 category: Exams
 description: >-
   Discover XAT exam 2027 last date of registration, official application
-  deadline, registration fee, XLRI program fees, eligibility, and step-by-step
-  application guide.
+  deadline, registration fee, XLRI program fees, eligibility.
 keywords:
   - xat exam 2027 last date of registration
   - xat 2027 registration deadline
@@ -47,7 +46,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# XAT Exam 2027 Last Date of Registration: Schedule, XLRI Fees & Step-by-Step Guide
+## XAT Exam 2027 Last Date of Registration: Schedule, XLRI Fees & Step-by-Step Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Registration Window:** XAT 2027 registration opens in mid-July / early August 2026 and closes between **November 30 and December 5, 2026** on `xatonline.in`.

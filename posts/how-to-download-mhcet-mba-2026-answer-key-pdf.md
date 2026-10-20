@@ -1,10 +1,11 @@
 ---
-title: 'How to Download MHCET MBA 2027–29 Answer Key: Step-by-Step Guide & Official Link'
+title: >-
+  How to Download MHCET MBA 2027–29 Answer Key: Step-by-Step Guide & Official
+  Link
 date: '2026-04-12'
 description: >-
   Confused about how to download the MHCET MBA 2027–29 Answer Key? Follow our
-  step-by-step guide to download your MAH MBA CET response sheet PDF, check the
-  marking scheme, and calculate your percentile.
+  step-by-step guide to download your MAH MBA CET response sheet PDF.
 keywords:
   - how to download MHCET MBA 2027–29 answer key
   - MAH MBA CET 2027–29 response sheet download

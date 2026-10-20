@@ -5,7 +5,7 @@ title: >-
 description: >-
   Complete 2026-2027 guide to CAT 2026-2027 admissions in Mumbai & Pune
   (Maharashtra). Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15
-  Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain.
+  Lakhs.
 date: '2026-09-04'
 category: Exams
 tags:
@@ -73,7 +73,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Mumbai & Pune (Maharashtra) for Mid-Percentile Aspirants (65-85%ile)
+## CAT 2026-2027 Selection Blueprint: Best 2-Year PGDM / MBA Colleges in Mumbai & Pune (Maharashtra) for Mid-Percentile Aspirants (65-85%ile)
 
 Complete 2026-2027 guide to CAT 2026-2027 admissions in Mumbai & Pune (Maharashtra). Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain.
 

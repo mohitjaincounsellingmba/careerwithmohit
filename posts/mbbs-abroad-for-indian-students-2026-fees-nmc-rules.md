@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Medical/MBBS
 description: >-
   Is MBBS abroad worth it in 2026? Explore the cheapest countries for Indian
-  students including Russia, Georgia, and Kazakhstan. Detailed guide on NMC
-  rules and NEXT exam preparation.
+  students including Russia, Georgia, and Kazakhstan.
 keywords:
   - mbbs abroad for indian students 2026
   - cheapest mbbs in the world

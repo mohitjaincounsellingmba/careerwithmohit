@@ -3,8 +3,7 @@ title: 'MBA Business Analytics vs Data Science: Scope, Fees, & Salary Comparison
 date: '2026-08-28'
 description: >-
   Compare MBA in Business Analytics vs Data Science in 2027. Detailed analysis
-  of course curriculum, tools, salary packages, ROI, career scope, and top
-  colleges in India.
+  of course curriculum, tools, salary packages, ROI, career scope.
 keywords:
   - MBA Business Analytics vs Data Science
   - Business Analytics vs Data Science salary 2027

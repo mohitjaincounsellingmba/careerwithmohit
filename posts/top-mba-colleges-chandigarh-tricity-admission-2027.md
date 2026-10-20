@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-03'
 description: >-
   Explore top MBA and PGDM colleges in Chandigarh, Mohali, and Punjab for 2027
-  admission. Compare UBS Panjab University, Chitkara, LM Thapar, Chandigarh
-  University, and LPU.
+  admission. Compare UBS Panjab University, Chitkara, LM Thapar.
 keywords:
   - mba admission 2027
   - cat 2026
@@ -44,7 +43,7 @@ location: Chandigarh
 state: Punjab
 category: Exams
 ---
-# Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs & Placement Reports
+## Top MBA Colleges in Chandigarh & Tricity Admission 2027: Fees, Cutoffs & Placement Reports
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Ranked Public B-School:** [University Business School (UBS), Panjab University](/colleges/ubs-panjab-university/) Chandigarh (High ROI, ₹1.5L fee, ₹13.7 LPA avg).

@@ -1,12 +1,12 @@
 ---
-title: 'GLA University (Mathura) Online MBA Review 2027–29: Placements, Fees & Admission'
+title: >-
+  GLA University (Mathura) Online MBA Review 2027–29: Placements, Fees &
+  Admission
 date: '2026-03-26'
 category: Online Degrees
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for GLA
-  University(/colleges/gla-university) (Mathura) Online MBA Review 2027–29:
-  Placements, Fees & Admission. Check updated fees, placement records, real
-  cutoffs, and selection tips by Mohit Jain.
+  2027 guide for GLA University (Mathura) Online MBA Review 2027–29: ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - '[GLA University](/colleges/gla-university/) (Mathura) online MBA review'
   - GLA Online MBA placements

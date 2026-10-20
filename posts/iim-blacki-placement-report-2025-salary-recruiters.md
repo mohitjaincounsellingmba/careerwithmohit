@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-15'
 description: >-
   Detailed analysis of IIM BLACKI (Ahmedabad, Bangalore, Calcutta, Lucknow,
-  Kozhikode, Indore) & IIM Mumbai 2025 placement reports. Top recruiters, PPOs,
-  and domain salaries.
+  Kozhikode, Indore) & IIM Mumbai 2025 placement reports.
 keywords:
   - iim blacki placement report 2025
   - iim ahmedabad placement report 2025

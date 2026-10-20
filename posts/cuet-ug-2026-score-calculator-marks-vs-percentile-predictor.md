@@ -2,9 +2,8 @@
 title: 'CUET UG 2026 Score Calculator: Marks vs Percentile & Response Sheet Parser'
 date: '2026-04-05'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for CUET UG 2026
-  Score Calculator: Marks vs Percentile & Response Sheet Parser. Check updated
-  fees, placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for CUET UG 2026 Score Calculator: Marks vs Percentile &...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - CUET UG 2026 Score Calculator
   - CUET UG marks vs percentile

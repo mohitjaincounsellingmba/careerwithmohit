@@ -4,13 +4,14 @@ date: '2026-03-17'
 description: >-
   Looking for direct admission in [FORE School of
   Management](/colleges/fore-school-delhi/) Delhi for 2026? Learn about
-  institutional seats, merit-based management quota, latest fees, and placement
-  reports.
+  institutional seats.
 keywords:
   - FORE Delhi direct admission
   - '[FORE School of Management](/colleges/fore-school-delhi/) management quota'
   - FORE Delhi MBA fees 2027–29
-  - 'direct admission in [FORE School of Management](/colleges/fore-school-delhi/)'
+  - >-
+    direct admission in [FORE School of
+    Management](/colleges/fore-school-delhi/)
   - FORE Delhi NRI quota
   - Delhi Colleges
   - Best Colleges in Delhi

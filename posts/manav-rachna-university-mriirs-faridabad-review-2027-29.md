@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri for 2026-2027 admissions & career guidance.
+  colleges in Faridabad, Delhi NCR.
 keywords:
   - Manav Rachna University (MRIIRS) review 2027–29
   - Manav Rachna University (MRIIRS) placements 2027–29

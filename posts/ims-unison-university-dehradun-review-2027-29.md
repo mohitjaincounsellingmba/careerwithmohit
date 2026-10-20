@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of IMS Unison University, Dehradun (Dehradun) for 2026.
-  Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - IMS Unison University Dehradun review 2027–29
   - IMS Unison University Dehradun placements 2027–29

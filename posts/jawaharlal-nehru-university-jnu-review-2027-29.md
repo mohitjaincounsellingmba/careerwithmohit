@@ -1,11 +1,11 @@
 ---
-title: 'Jawaharlal Nehru University (JNU) Review 2027–29: Fees, Placements & CUET Cutoff'
+title: >-
+  Jawaharlal Nehru University (JNU) Review 2027–29: Fees, Placements & CUET
+  Cutoff
 date: '2026-05-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Jawaharlal
-  Nehru University (JNU) Review 2027–29: Fees, Placements & CUET Cutoff. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Jawaharlal Nehru University (JNU) Review 2027–29: Check fees,
+  verified placement packages, real cutoffs & admission tips with Mohit Jain.
 keywords:
   - Jawaharlal Nehru University 2026
   - JNU CUET cutoff 2027–29

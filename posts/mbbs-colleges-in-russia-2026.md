@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Complete guide on studying MBBS in Russia for Indian students in 2026. Explore
-  top government medical universities, fee structures (₹18L-₹35L), NMC/FMGL
-  compliance, and admission steps.
+  top government medical universities, fee structures (₹18L-₹35L).
 keywords:
   - mbbs colleges in russia 2026
   - mbbs in russia fees for indian students

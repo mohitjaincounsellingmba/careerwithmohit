@@ -4,8 +4,7 @@ date: '2026-07-16'
 category: Exams
 description: >-
   Compare the best MBA Finance colleges in Gurgaon. Explore fees, placements,
-  and eligibility details for MDI Gurgaon, Great Lakes, JKBS, and SOIL for
-  2026-2027 admissions & career guidance.
+  and eligibility details for MDI Gurgaon, Great Lakes, JKBS.
 keywords:
   - top mba finance colleges in gurgaon 2027–29
   - best finance mba in gurgaon

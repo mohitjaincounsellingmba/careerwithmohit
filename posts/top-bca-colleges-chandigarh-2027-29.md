@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning a BCA in Chandigarh? Explore the best colleges like Panjab
-  University, Chitkara, and SD College. Compare 2026 fees, merit cutoffs, and
-  verified IT placement stats for the Tricity.
+  University, Chitkara, and SD College. Compare 2026 fees, merit cutoffs.
 keywords:
   - top bca colleges in chandigarh 2026
   - best bca colleges chandigarh

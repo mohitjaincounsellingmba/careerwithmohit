@@ -2,7 +2,9 @@
 title: 'Akemi Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 Akemi Pune MBA review with audited ₹5.80L placements, ₹3.50L fees, MAH CET cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 Akemi Pune MBA review with audited ₹5.80L placements,
+  ₹3.50L fees, MAH CET cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - akemi business school pune mba review 2027
   - akemi pune mba fees structure 2027
@@ -13,26 +15,41 @@ keywords:
   - sppu affiliated mba colleges pune
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Akemi Business School Pune?
+  - question: >-
+      What is the audited average placement package at Akemi Business School
+      Pune?
     answer: >-
-      The verified overall average domestic CTC at Akemi Business School Pune stands at ₹5.80 LPA to ₹6.20 LPA. The median salary benchmark is ₹5.50 LPA, with top 20% performers securing ₹8.00 LPA to ₹9.50 LPA and peak domestic offers reaching ₹14.00 LPA.
+      The verified overall average domestic CTC at Akemi Business School Pune
+      stands at ₹5.80 LPA to ₹6.20 LPA. The median salary benchmark is ₹5.50
+      LPA, with top 20% performers securing ₹8.00 LPA to ₹9.50 LPA and peak
+      domestic offers reaching ₹14.00 LPA.
   - question: What is the total fee structure for MBA and PGDM at Akemi Pune?
     answer: >-
-      The SPPU-affiliated MBA program has a total 2-year tuition fee of approximately ₹3.50 Lakhs to ₹4.50 Lakhs payable in academic installments. The AICTE-approved PGDM track ranges around ₹6.00 Lakhs, with optional hostel accommodation at ₹75,000 to ₹90,000 per year.
+      The SPPU-affiliated MBA program has a total 2-year tuition fee of
+      approximately ₹3.50 Lakhs to ₹4.50 Lakhs payable in academic installments.
+      The AICTE-approved PGDM track ranges around ₹6.00 Lakhs, with optional
+      hostel accommodation at ₹75,000 to ₹90,000 per year.
   - question: Which university awards the MBA degree for Akemi Business School?
     answer: >-
-      The MBA program is affiliated with Savitribai Phule Pune University (SPPU, Pune University), approved by AICTE and the Directorate of Technical Education (DTE Maharashtra), ensuring full degree validity across public and corporate sectors.
+      The MBA program is affiliated with Savitribai Phule Pune University (SPPU,
+      Pune University), approved by AICTE and the Directorate of Technical
+      Education (DTE Maharashtra), ensuring full degree validity across public
+      and corporate sectors.
   - question: What entrance exams and cutoffs are accepted for Akemi Pune admission?
     answer: >-
-      Akemi accepts scores from MAH MBA CET, CAT, CMAT, MAT, ATMA, and XAT. The general merit cutoff percentile ranges between 50.0 and 65.0 percentile through the Maharashtra DTE CAP rounds and institutional merit evaluation.
+      Akemi accepts scores from MAH MBA CET, CAT, CMAT, MAT, ATMA, and XAT. The
+      general merit cutoff percentile ranges between 50.0 and 65.0 percentile
+      through the Maharashtra DTE CAP rounds and institutional merit evaluation.
   - question: Is direct admission available under management quota at Akemi Pune?
     answer: >-
-      Yes, candidates with a recognized bachelor's degree (minimum 50% marks, 45% for reserved categories) and valid entrance test scores can apply for merit profile-based direct evaluation seats with counselor assistance.
+      Yes, candidates with a recognized bachelor's degree (minimum 50% marks,
+      45% for reserved categories) and valid entrance test scores can apply for
+      merit profile-based direct evaluation seats with counselor assistance.
 location: 'Marunji, Hinjawadi'
 state: 'Pune, Maharashtra'
 ---
 
-# [Akemi Business School (Akemi Pune)](https://careerwithmohit.online/blog/akemi-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Akemi Business School (Akemi Pune)](https://careerwithmohit.online/blog/akemi-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier emerging management institution situated in Marunji, directly adjacent to Hinjawadi InfoTech Park in Pune. Affiliated with **Savitribai Phule Pune University (SPPU)** and approved by **AICTE**, offering high-touch corporate immersion and practical training.

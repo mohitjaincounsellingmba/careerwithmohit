@@ -5,8 +5,8 @@ title: >-
 date: '2026-09-12'
 description: >-
   Complete GMAT Focus Edition scoring chart and percentile table for 2026.
-  Compare Focus scores (205-805) with Classic GMAT (200-800) and target B-school
-  cutoffs.
+  Compare Focus scores (205-805) with Classic GMAT (200-800) and target
+  B-school...
 category: Study Abroad
 keywords:
   - gmat focus edition scoring chart and percentile table 2026

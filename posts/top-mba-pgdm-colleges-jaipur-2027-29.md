@@ -41,7 +41,7 @@ location: Jaipur
 state: Rajasthan
 ---
 
-# Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placement Reports (2027-29)
+## Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placement Reports (2027-29)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

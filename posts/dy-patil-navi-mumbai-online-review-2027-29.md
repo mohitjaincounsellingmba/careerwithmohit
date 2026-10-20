@@ -4,10 +4,8 @@ title: >-
   Fees & Cutoffs–29: MBA, BBA & B.Sc Fee Structure
 date: '2026-04-05'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for DY Patil
-  Vidyapeeth Online (Navi Mumbai) Review 2027–29: MBA, BBA & B.Sc Fee Structure.
-  Check updated fees, placement records, real cutoffs, and selection tips by
-  Mohit Jain.
+  2027 guide for DY Patil Vidyapeeth Online (Navi Mumbai) Review (202...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - DY Patil Navi Mumbai Online review 2027–29
   - DY Patil online MBA fees

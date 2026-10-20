@@ -3,9 +3,8 @@ title: 'Lowest Fee B.Tech Colleges in India 2026 — Under ₹50,000/Year'
 date: '2026-04-20'
 category: B.Tech
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Lowest Fee
-  B.Tech Colleges in India 2026 — Under ₹50,000/Year. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Lowest Fee B.Tech Colleges in India 2026 — Under ₹50...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - lowest fee btech colleges india 2026
   - cheapest btech colleges india

@@ -4,10 +4,8 @@ title: >-
   Aspirants
 date: '2026-03-24'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Total Seats in
-  IITs 2026: Institute-wise Seat Matrix for JEE Advanced Aspirants. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Total Seats in IITs 2026: Institute-wise Seat Matrix...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - total seats in IIT 2026
   - IIT seat matrix JoSAA

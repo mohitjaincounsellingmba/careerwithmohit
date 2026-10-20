@@ -5,7 +5,7 @@ category: B.Tech
 description: >-
   Jaypee Noida (JIIT) vs KIET Ghaziabad for B.Tech 2026 — a head-to-head
   comparison of fees, JEE cutoffs, placements, and campus life to help you pick
-  the right college in Delhi-NCR.
+  the...
 keywords:
   - JIIT Noida vs KIET Ghaziabad
   - Jaypee Noida vs KIET BTech 2026

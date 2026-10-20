@@ -2,7 +2,9 @@
 title: 'EMPI New Delhi PGDM Review 2027: Fees & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 EMPI New Delhi PGDM review with audited ₹7.20L placements, ₹8.45L fees, IBM tie-up, cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 EMPI New Delhi PGDM review with audited ₹7.20L placements,
+  ₹8.45L fees, IBM tie-up, cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - empi business school review 2027
   - empi new delhi pgdm fees structure 2027
@@ -13,26 +15,47 @@ keywords:
   - best pgdm colleges in south delhi
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at EMPI Business School New Delhi?
+  - question: >-
+      What is the audited average placement package at EMPI Business School New
+      Delhi?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at EMPI Business School stands at ₹7.20 LPA to ₹7.80 LPA. The median CTC is benchmarked at ₹7.00 LPA, with top 20% performers securing ₹10.20 LPA and peak domestic offers reaching ₹20.00 LPA.
-  - question: What entrance exams and cutoffs are accepted for PGDM admission at EMPI New Delhi?
+      The verified overall average placement package across graduating PGDM
+      cohorts at EMPI Business School stands at ₹7.20 LPA to ₹7.80 LPA. The
+      median CTC is benchmarked at ₹7.00 LPA, with top 20% performers securing
+      ₹10.20 LPA and peak domestic offers reaching ₹20.00 LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for PGDM admission at EMPI
+      New Delhi?
     answer: >-
-      EMPI accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative cutoff thresholds range between 60.0 and 65.0 percentile, followed by institutional Group Discussion and Personal Interview (GD-PI) profile evaluations.
-  - question: What is the complete fee structure for the PGDM program at EMPI Business School?
+      EMPI accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative cutoff
+      thresholds range between 60.0 and 65.0 percentile, followed by
+      institutional Group Discussion and Personal Interview (GD-PI) profile
+      evaluations.
+  - question: >-
+      What is the complete fee structure for the PGDM program at EMPI Business
+      School?
     answer: >-
-      The 2-year academic tuition fee for the AICTE-approved PGDM program at EMPI is approximately ₹8.45 Lakhs, payable in term-wise installments across six trimesters. On-campus residential hostel and dining facilities in Chattarpur range between ₹1,35,000 and ₹1,60,000 per year.
+      The 2-year academic tuition fee for the AICTE-approved PGDM program at
+      EMPI is approximately ₹8.45 Lakhs, payable in term-wise installments
+      across six trimesters. On-campus residential hostel and dining facilities
+      in Chattarpur range between ₹1,35,000 and ₹1,60,000 per year.
   - question: What is the significance of the IBM partnership at EMPI Business School?
     answer: >-
-      EMPI established India’s first co-branded IBM Business Analytics Lab, integrating specialized curriculum modules, IBM enterprise software certifications, and real-time big data project evaluations into the management program.
+      EMPI established India’s first co-branded IBM Business Analytics Lab,
+      integrating specialized curriculum modules, IBM enterprise software
+      certifications, and real-time big data project evaluations into the
+      management program.
   - question: Is direct admission available under management quota at EMPI New Delhi?
     answer: >-
-      Yes, eligible candidates possessing a recognized graduation degree with a minimum of 50% aggregate marks (45% for reserved categories) and valid national entrance scores can apply for merit profile-based direct evaluation seats with counselor assistance.
+      Yes, eligible candidates possessing a recognized graduation degree with a
+      minimum of 50% aggregate marks (45% for reserved categories) and valid
+      national entrance scores can apply for merit profile-based direct
+      evaluation seats with counselor assistance.
 location: 'Chattarpur, South Delhi'
-state: 'New Delhi'
+state: New Delhi
 ---
 
-# [EMPI Business School (New Delhi)](https://careerwithmohit.online/blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [EMPI Business School (New Delhi)](https://careerwithmohit.online/blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Pioneer standalone management institution established in 1995 on a lush green campus in Chattarpur, South Delhi. Approved by **AICTE**, EMPI is distinguished by its landmark academic collaboration with **IBM** for business analytics and artificial intelligence education.

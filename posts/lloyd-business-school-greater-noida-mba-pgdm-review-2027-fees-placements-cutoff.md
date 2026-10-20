@@ -1,8 +1,10 @@
 ---
-title: "Lloyd Business School PGDM Review 2027: Fees & Cutoff"
-date: "2026-09-27"
+title: 'Lloyd Business School PGDM Review 2027: Fees & Cutoff'
+date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 Lloyd Business School review with audited ₹6.80L placements, ₹3.20L to ₹8.25L fees, cutoffs, and admissions tips by Mohit Jain."
+description: >-
+  Read verified 2027 Lloyd Business School review with audited ₹6.80L
+  placements, ₹3.20L to ₹8.25L fees, cutoffs, and admissions tips by Mohit Jain.
 keywords:
   - lloyd business school pgdm review 2027
   - lloyd greater noida fees structure 2027
@@ -13,26 +15,45 @@ keywords:
   - direct admission in lloyd business school
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Lloyd Business School Greater Noida?
+  - question: >-
+      What is the audited average placement package at Lloyd Business School
+      Greater Noida?
     answer: >-
-      The verified overall average placement package across graduating PGDM and MBA cohorts at Lloyd Business School stands at ₹6.50 LPA to ₹6.80 LPA. The median CTC is benchmarked at ₹6.20 LPA, with the top 20% securing ₹9.50 LPA and peak domestic offers touching ₹18.00 LPA.
-  - question: What are the differences between the MBA and PGDM programs at Lloyd Business School?
+      The verified overall average placement package across graduating PGDM and
+      MBA cohorts at Lloyd Business School stands at ₹6.50 LPA to ₹6.80 LPA. The
+      median CTC is benchmarked at ₹6.20 LPA, with the top 20% securing ₹9.50
+      LPA and peak domestic offers touching ₹18.00 LPA.
+  - question: >-
+      What are the differences between the MBA and PGDM programs at Lloyd
+      Business School?
     answer: >-
-      The MBA program at Lloyd is affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow) with an affordable fee of approximately ₹3.20 Lakhs, while the autonomous AICTE-approved PGDM has a fee of ₹6.50L to ₹8.25L, offering specialized tracks co-designed with industry partners.
+      The MBA program at Lloyd is affiliated with Dr. A.P.J. Abdul Kalam
+      Technical University (AKTU Lucknow) with an affordable fee of
+      approximately ₹3.20 Lakhs, while the autonomous AICTE-approved PGDM has a
+      fee of ₹6.50L to ₹8.25L, offering specialized tracks co-designed with
+      industry partners.
   - question: What specialized PGDM programs are offered at Lloyd Business School?
     answer: >-
-      Lloyd Business School offers industry-collaborative PGDM specializations in Business Analytics, Supply Chain Management (co-designed with Safeducate), Banking & Financial Services, and Core Management.
+      Lloyd Business School offers industry-collaborative PGDM specializations
+      in Business Analytics, Supply Chain Management (co-designed with
+      Safeducate), Banking & Financial Services, and Core Management.
   - question: What is the total fee structure at Lloyd Business School Greater Noida?
     answer: >-
-      The 2-year academic fee for the AKTU MBA is approximately ₹3.20 Lakhs, whereas the autonomous PGDM ranges between ₹6.50 Lakhs and ₹8.25 Lakhs depending on the specialization. Student housing in Knowledge Park II costs between ₹1,10,000 and ₹1,35,000 per year.
+      The 2-year academic fee for the AKTU MBA is approximately ₹3.20 Lakhs,
+      whereas the autonomous PGDM ranges between ₹6.50 Lakhs and ₹8.25 Lakhs
+      depending on the specialization. Student housing in Knowledge Park II
+      costs between ₹1,10,000 and ₹1,35,000 per year.
   - question: What entrance exams and cutoffs are accepted at Lloyd Business School?
     answer: >-
-      Lloyd Business School accepts scores from CAT, MAT, CMAT, ATMA, XAT, and CUET-PG. Competitive eligibility thresholds range between 55.0% and 65.0% percentile, accompanied by an evaluation of graduation marks and Personal Interview performance.
+      Lloyd Business School accepts scores from CAT, MAT, CMAT, ATMA, XAT, and
+      CUET-PG. Competitive eligibility thresholds range between 55.0% and 65.0%
+      percentile, accompanied by an evaluation of graduation marks and Personal
+      Interview performance.
 location: 'Knowledge Park II, Greater Noida'
-state: 'Uttar Pradesh'
+state: Uttar Pradesh
 ---
 
-# [Lloyd Business School Greater Noida](https://careerwithmohit.online/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
+## [Lloyd Business School Greater Noida](https://careerwithmohit.online/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 2008 in the educational corridor of Knowledge Park II, Greater Noida. Approved by **AICTE**, Lloyd Business School operates both university-affiliated **AKTU MBA** and autonomous **PGDM** programs co-designed with industry partners.

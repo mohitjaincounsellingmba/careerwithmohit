@@ -14,8 +14,7 @@ tags:
   - 2026 engineering cutoffs
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri for 2026-2027 admissions & career guidance.
+  colleges in Ghaziabad, Delhi NCR.
 keywords:
   - BTech admissions 2026
   - best engineering colleges
@@ -44,7 +43,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: B.Tech
 ---
-# 2026 Engineering Entrance Exam Cut‑offs & Rankings Guide
+## 2026 Engineering Entrance Exam Cut‑offs & Rankings Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.

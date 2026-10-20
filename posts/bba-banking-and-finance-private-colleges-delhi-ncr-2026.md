@@ -6,8 +6,7 @@ date: '2026-08-03'
 category: BBA
 description: >-
   Complete 2026 guide to BBA in Banking and Finance in Delhi NCR. Explore the
-  complete list of private colleges, annual fee structures, affiliated
-  universities, eligibility, and placement highlights.
+  complete list of private colleges, annual fee structures.
 keywords:
   - bba in banking and finance colleges in delhi ncr
   - bba banking and finance private colleges fees

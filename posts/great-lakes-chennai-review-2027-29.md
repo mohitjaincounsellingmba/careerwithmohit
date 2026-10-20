@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Great Lakes Institute of Management, Chennai (Chennai
-  (Manamai / ECR Campus)) for 2026. Check latest fee structure, flagship
-  courses, placement statistics, top recruiters, and admission process.
+  (Manamai / ECR Campus)) for 2026.
 keywords:
   - Great Lakes Chennai review 2027–29
   - Great Lakes Chennai placements 2027–29

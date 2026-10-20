@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive LM Thapar School of Management (LMTSM) (Dera Bassi, Mohali,
-  Punjab) review for 2027 admissions. Explore audited fee structure (₹9.80 Lakhs
-  (Total)), latest placement packages (Avg: ₹7.60 LPA, Highest: ₹21.35 LPA),
-  entrance exam cutoffs (CAT, XAT, MAT, CMAT, NMAT), NIRF ranking, and student
-  verdict.
+  Punjab) review for 2027 admissions.
 keywords:
   - lm thapar school of management (lmtsm) review 2027
   - lm thapar school of management (lmtsm) mba fees
@@ -62,7 +59,7 @@ location: Chandigarh
 state: Punjab
 ---
 
-# [LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [LM Thapar School of Management (LMTSM)](/colleges/lmtsm-thapar-derabassi/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, MAT, CMAT, NMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

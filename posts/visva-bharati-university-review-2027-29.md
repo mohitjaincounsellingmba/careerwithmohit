@@ -3,11 +3,12 @@ title: 'Visva-Bharati University Review 2027–29: Fees, Placements & CUET Admis
 date: '2026-05-24'
 description: >-
   Complete guide to Visva-Bharati University admissions 2026. Find out about the
-  affordable fee structure, CUET cutoff scores, placements, and hostel
-  allocation.
+  affordable fee structure, CUET cutoff scores, placements.
 keywords:
   - >-
-    [Visva-Bharati University](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29/) admissions 2027–29
+    [Visva-Bharati
+    University](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29/)
+    admissions 2027–29
   - Visva-Bharati placements
   - Visva-Bharati CUET cutoff
   - Visva-Bharati fees

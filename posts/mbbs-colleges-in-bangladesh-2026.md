@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Complete guide on MBBS in Bangladesh 2026 for Indian students. High FMGE pass
-  rate (~45%), BMDC syllabus similar to AIIMS, GPA eligibility, and total fee
-  package (₹28L-₹42L).
+  rate (~45%), BMDC syllabus similar to AIIMS, GPA eligibility.
 keywords:
   - mbbs colleges in bangladesh 2026
   - mbbs in bangladesh fees for indian students

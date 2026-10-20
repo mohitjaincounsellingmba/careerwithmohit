@@ -5,8 +5,7 @@ title: >-
 date: '2026-04-05'
 description: >-
   Is [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) Online a good choice in
-  2026? Check the latest fees, UGC-DEB status, NAAC A grade, and legacy
-  Delhi-based placement reviews.
+  2026? Check the latest fees, UGC-DEB status, NAAC A grade.
 keywords:
   - >-
     [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University Online review

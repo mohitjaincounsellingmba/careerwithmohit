@@ -4,8 +4,7 @@ date: '2026-08-24'
 author: Mohit Jain
 description: >-
   Complete 2027 fee breakdown for Andhra University Online. Discover India's
-  lowest fee UGC approved Online MBA at ₹62,200 total fees. Check MCA, B.Com,
-  MA, and BA semester fee schedules.
+  lowest fee UGC approved Online MBA at ₹62,200 total fees.
 keywords:
   - andhra university online fee structure 2027
   - cheapest online mba in india
@@ -30,7 +29,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 category: Online Degrees
 ---
-# Andhra University Online Fee Structure (2027): Lowest Fee UGC Approved Online MBA
+## Andhra University Online Fee Structure (2027): Lowest Fee UGC Approved Online MBA
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

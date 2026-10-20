@@ -3,8 +3,7 @@ title: 'COMEDK UGET Counselling 2026: Dates, Registration & Choice Filling Guide
 date: '2026-03-24'
 description: >-
   Everything you need to know about COMEDK UGET Counselling 2026 for B.E./B.Tech
-  admissions in Karnataka's top private engineering colleges. Check registration
-  dates, fees, and top institutes like RVCE & MSRIT.
+  admissions in Karnataka's top private engineering colleges.
 keywords:
   - COMEDK UGET Counselling 2026 dates
   - COMEDK registration fee

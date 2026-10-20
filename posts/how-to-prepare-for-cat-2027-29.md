@@ -2,9 +2,8 @@
 title: 'How to Prepare for CAT 2026: Complete Study Plan & Resources'
 date: '2026-05-17'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for How to Prepare
-  for CAT 2026: Complete Study Plan & Resources. Check updated fees, placement
-  records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for How to Prepare for CAT 2026: Complete Study Plan & R...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - CAT 2026 preparation
   - how to prepare for CAT

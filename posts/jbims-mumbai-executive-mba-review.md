@@ -5,9 +5,7 @@ title: >-
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Jamnalal Bajaj
-  Institute of Management Studies (JBIMS), Mumbai. Learn about total fees,
-  eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts for 2026-2027 admissions & career guidance.
+  Institute of Management Studies (JBIMS), Mumbai.
 keywords:
   - 'Jamnalal Bajaj Institute of Management Studies (JBIMS), Mumbai executive mba'
   - >-

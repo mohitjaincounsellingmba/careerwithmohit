@@ -4,8 +4,8 @@ date: '2026-06-05'
 category: Online Degrees
 description: >-
   Find the top MBA/PGDM colleges accepting MAT scores in Ghaziabad. Check out
-  key metrics like cutoffs, fees, placements, and ROI for 2026-2027 admissions &
-  career guidance.
+  key metrics like cutoffs, fees, placements, and ROI for 2026-2027 admissions
+  &...
 keywords:
   - MBA Colleges Accepting MAT Score in Ghaziabad
   - ITS Ghaziabad mat cutoff

@@ -4,10 +4,8 @@ title: >-
   Placement Review
 date: '2026-03-24'
 description: >-
-  Everything about [VIT Vellore](/colleges/vit-vellore-campus/) B.Tech admission 2026.
-  Get the truth about direct admission through management quota, detailed
-  category-wise fee structure, and a honest review of placements and campus
-  life.
+  Everything about [VIT Vellore](/colleges/vit-vellore-campus/) B.Tech admission
+  2026. Get the truth about direct admission through management quota.
 keywords:
   - '[VIT Vellore](/colleges/vit-vellore-campus/) BTech admission 2026'
   - 'direct admission in [VIT Vellore](/colleges/vit-vellore-campus/)'
@@ -15,7 +13,9 @@ keywords:
   - VITEEE 2026 exam dates
   - '[VIT Vellore](/colleges/vit-vellore-campus/) fees category 1 to 5'
   - '[VIT Vellore](/colleges/vit-vellore-campus/) placement review 2025'
-  - 'how to get admission in [VIT Vellore](/colleges/vit-vellore-campus/) for BTech'
+  - >-
+    how to get admission in [VIT Vellore](/colleges/vit-vellore-campus/) for
+    BTech
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

@@ -4,8 +4,7 @@ date: '2026-09-26'
 category: MBA
 description: >-
   Verified 2027 MBA review for MICA Ahmedabad (Ahmedabad, Gujarat). Check
-  audited fees (₹23.00 Lakhs (Total)), average placement (₹20.09 LPA), entrance
-  cutoffs (80.0+ CAT / XAT + MICAT Entrance), and admission tips by Mohit Jain.
+  audited fees (₹23.00 Lakhs (Total)), average placement (₹20.09 LPA).
 keywords:
   - mica ahmedabad mba admission 2027
   - mica ahmedabad fees structure 2027
@@ -48,7 +47,7 @@ location: Ahmedabad
 state: Gujarat
 ---
 
-# [MICA Ahmedabad](/colleges/mica-ahmedabad/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [MICA Ahmedabad](/colleges/mica-ahmedabad/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Ahmedabad, Gujarat** recognized for academic rigor (AICTE Approved · AIU MBA Equivalent · NBA Accredited) and industry-aligned specializations in **PGDM-C (Communications) & PGDM**.

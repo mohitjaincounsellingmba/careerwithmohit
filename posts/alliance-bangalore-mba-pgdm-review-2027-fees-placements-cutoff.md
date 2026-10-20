@@ -2,30 +2,51 @@
 title: 'Alliance University PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Verified 2027 admission review for Alliance University (Alliance School of Business) (Anekal Campus, Bangalore). Check updated fee structure (₹15.00L - ₹18.00L (Total)), average placement (₹10.5 LPA), cutoffs, and selection tips by Mohit Jain.'
+description: >-
+  Verified 2027 admission review for Alliance University (Alliance School of
+  Business) (Anekal Campus, Bangalore).
 keywords:
-  - 'alliance university (alliance school of business) pgdm admission 2027'
-  - 'alliance university (alliance school of business) mba fees 2027'
-  - 'alliance university (alliance school of business) average placement package'
-  - 'alliance university (alliance school of business) cutoff 2027–29 2027'
-  - 'alliance university review 2027'
-  - 'direct admission in alliance university (alliance school of business)'
-  - 'top pgdm colleges in anekal campus'
-  - 'best mba colleges in bangalore'
+  - alliance university (alliance school of business) pgdm admission 2027
+  - alliance university (alliance school of business) mba fees 2027
+  - alliance university (alliance school of business) average placement package
+  - alliance university (alliance school of business) cutoff 2027–29 2027
+  - alliance university review 2027
+  - direct admission in alliance university (alliance school of business)
+  - top pgdm colleges in anekal campus
+  - best mba colleges in bangalore
 faqs:
-  - question: 'What is the average placement package at Alliance University (Alliance School of Business) in 2026-2027?'
-    answer: 'The verified average placement package at Alliance University (Alliance School of Business) stands at approximately ₹10.5 LPA, with top performing students securing offers up to ₹40.0 LPA.'
-  - question: 'What entrance exams are accepted for 2027 admission at Alliance University (Alliance School of Business)?'
-    answer: 'Alliance University (Alliance School of Business) accepts scores from CAT, XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI profile evaluation.'
-  - question: 'What is the total fee structure for the PGDM / MBA program at Alliance University (Alliance School of Business)?'
-    answer: 'The total course tuition fee is approximately ₹15.00L - ₹18.00L (Total) for the 2-year full-time curriculum, payable in semester-wise academic installments.'
-  - question: 'Is direct admission or management quota available at Alliance University (Alliance School of Business)?'
-    answer: 'Yes, candidates with valid graduation marks (50%+) and national entrance exam scores can apply for merit and profile-based direct evaluation seats.'
-location: 'Anekal Campus'
-state: 'Bangalore'
+  - question: >-
+      What is the average placement package at Alliance University (Alliance
+      School of Business) in 2026-2027?
+    answer: >-
+      The verified average placement package at Alliance University (Alliance
+      School of Business) stands at approximately ₹10.5 LPA, with top performing
+      students securing offers up to ₹40.0 LPA.
+  - question: >-
+      What entrance exams are accepted for 2027 admission at Alliance University
+      (Alliance School of Business)?
+    answer: >-
+      Alliance University (Alliance School of Business) accepts scores from CAT,
+      XAT, MAT, CMAT, ATMA, and State CETs followed by institutional GD-PI
+      profile evaluation.
+  - question: >-
+      What is the total fee structure for the PGDM / MBA program at Alliance
+      University (Alliance School of Business)?
+    answer: >-
+      The total course tuition fee is approximately ₹15.00L - ₹18.00L (Total)
+      for the 2-year full-time curriculum, payable in semester-wise academic
+      installments.
+  - question: >-
+      Is direct admission or management quota available at Alliance University
+      (Alliance School of Business)?
+    answer: >-
+      Yes, candidates with valid graduation marks (50%+) and national entrance
+      exam scores can apply for merit and profile-based direct evaluation seats.
+location: Anekal Campus
+state: Bangalore
 ---
 
-# [Alliance University (Alliance School of Business)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## [Alliance University (Alliance School of Business)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Anekal Campus, Bangalore** accredited with **UGC Approved · AACSB Member** offering career-focused programs in **MBA**.

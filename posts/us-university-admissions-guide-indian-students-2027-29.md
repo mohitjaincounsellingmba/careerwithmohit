@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-12'
 description: >-
   Planning to study in the US in 2026? Read our expert guide on admissions for
-  Indian students at Boston University, Duke, Tufts, Ohio, and Utah. Fees,
-  placements, and eligibility explained.
+  Indian students at Boston University, Duke, Tufts, Ohio, and Utah.
 keywords:
   - US University Admissions 2026
   - Study in USA for Indian students

@@ -4,8 +4,7 @@ date: '2026-03-17'
 description: >-
   Secure your MBA seat at [Christ University
   Bangalore](/colleges/christ-university-bangalore/) for 2026. Explore direct
-  admission via management quota, NRI seats, CUET requirements, and the latest
-  fee structure.
+  admission via management quota.
 keywords:
   - >-
     direct admission in [Christ University

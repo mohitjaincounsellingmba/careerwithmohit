@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BCA/MCA
 description: >-
   Planning your MCA in 2026? Check out the best MCA colleges in Delhi NCR
-  including JNU, DU, NIT Delhi, and Amity. Compare fees, NIMCET cutoffs, and
-  software placement stats.
+  including JNU, DU, NIT Delhi, and Amity.
 keywords:
   - top mca colleges in delhi ncr 2026
   - best mca colleges delhi ncr

@@ -4,7 +4,7 @@ date: '2026-03-25'
 description: >-
   Wondering about your competition? Check the latest student volume data for
   CAT, XAT, NMAT, and SNAP. See how many laksh of students you are competing
-  with in the 2026 MBA cycle.
+  with in...
 keywords:
   - number of students in CAT 2026
   - XAT 2026 registration count

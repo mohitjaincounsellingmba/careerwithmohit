@@ -5,7 +5,7 @@ author: Mohit Jain
 description: >-
   Detailed 2027 fee structure breakdown for IGNOU Online. Check course fees,
   registration fees, examination charges, and admission steps for Online MBA,
-  MCA, BBA, BCA, MA, and B.Com.
+  MCA.
 keywords:
   - ignou online fee structure 2027
   - ignou online mba fees
@@ -30,7 +30,7 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 category: Online Degrees
 ---
-# IGNOU Online Fee Structure (2027): Complete Course-Wise Financial Breakdown
+## IGNOU Online Fee Structure (2027): Complete Course-Wise Financial Breakdown
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

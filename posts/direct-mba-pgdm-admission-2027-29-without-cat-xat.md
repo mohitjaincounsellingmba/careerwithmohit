@@ -43,7 +43,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores
+## Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

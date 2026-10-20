@@ -1,13 +1,11 @@
 ---
 title: >-
-  SRM Institute of Science and Technology (SRMIST), Kattankulathur Review 2027–29:
-  Placements, Fees, Courses & Admission
+  SRM Institute of Science and Technology (SRMIST), Kattankulathur Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of SRM Institute of Science and Technology (SRMIST),
-  Kattankulathur (Chennai (Kattankulathur)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  Kattankulathur (Chennai (Kattankulathur)) for 2026.
 keywords:
   - SRM University Chennai (SRMIST) review 2027–29
   - SRM University Chennai (SRMIST) placements 2027–29

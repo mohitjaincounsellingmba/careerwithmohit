@@ -4,7 +4,7 @@ date: '2026-03-15'
 description: >-
   Explore the best BBA colleges in Greater Noida for 2026. Detailed guide on
   Galgotias, Sharda, and [Bennett University](/colleges/bennett-greater-noida/)
-  with fee and placement info.
+  with...
 keywords:
   - top BBA colleges Greater Noida
   - best BBA colleges in Greater Noida

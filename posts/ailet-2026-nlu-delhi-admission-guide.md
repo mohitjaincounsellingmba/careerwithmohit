@@ -5,7 +5,7 @@ category: Law
 description: >-
   Aiming for NLU Delhi in 2026? Learn about the AILET 2026 exam pattern,
   syllabus, and preparation tips. Compare AILET vs CLAT to optimize your Law
-  admission strategy.
+  admission...
 keywords:
   - ailet 2026 notification
   - nlu delhi admission 2026

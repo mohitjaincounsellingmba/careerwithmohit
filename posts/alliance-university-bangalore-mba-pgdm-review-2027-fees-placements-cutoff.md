@@ -2,7 +2,9 @@
 title: 'Alliance University MBA Review 2027: Fees & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: 'Read verified 2027 Alliance University MBA review with audited ₹8.50L placements, ₹15.0L fees, cutoffs, and direct admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 Alliance University MBA review with audited ₹8.50L
+  placements, ₹15.0L fees, cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - alliance university mba review 2027
   - alliance school of business fees structure 2027
@@ -13,26 +15,48 @@ keywords:
   - aacsb member business schools in bangalore
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at Alliance School of Business (Alliance University)?
+  - question: >-
+      What is the audited average placement package at Alliance School of
+      Business (Alliance University)?
     answer: >-
-      The verified overall average placement package across graduating MBA cohorts at Alliance University Bangalore stands at ₹8.50 LPA to ₹9.20 LPA. The median CTC is benchmarked at ₹8.30 LPA, with top 10% performers securing ₹15.00 LPA and peak domestic offers reaching ₹26.10 LPA.
-  - question: What entrance exams and cutoffs are accepted for MBA admission at Alliance University?
+      The verified overall average placement package across graduating MBA
+      cohorts at Alliance University Bangalore stands at ₹8.50 LPA to ₹9.20 LPA.
+      The median CTC is benchmarked at ₹8.30 LPA, with top 10% performers
+      securing ₹15.00 LPA and peak domestic offers reaching ₹26.10 LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for MBA admission at Alliance
+      University?
     answer: >-
-      Alliance University accepts scores from CAT, XAT, MAT, CMAT, NMAT, KMAT, and the university's proprietary test, AMAT (Alliance Management Aptitude Test). Indicative cutoff thresholds range between 70.0 and 75.0 percentile, followed by oral extempore and personal interview evaluations.
-  - question: What is the complete fee structure for the MBA program at Alliance University Bangalore?
+      Alliance University accepts scores from CAT, XAT, MAT, CMAT, NMAT, KMAT,
+      and the university's proprietary test, AMAT (Alliance Management Aptitude
+      Test). Indicative cutoff thresholds range between 70.0 and 75.0
+      percentile, followed by oral extempore and personal interview evaluations.
+  - question: >-
+      What is the complete fee structure for the MBA program at Alliance
+      University Bangalore?
     answer: >-
-      The 2-year academic tuition fee for the full-time MBA program is ₹15.00 Lakhs, payable in semester-wise installments. On-campus residential hostel accommodation and dining facilities range between ₹1,65,000 and ₹1,95,000 per year depending on room occupancy.
+      The 2-year academic tuition fee for the full-time MBA program is ₹15.00
+      Lakhs, payable in semester-wise installments. On-campus residential hostel
+      accommodation and dining facilities range between ₹1,65,000 and ₹1,95,000
+      per year depending on room occupancy.
   - question: Which global accreditations does Alliance School of Business hold?
     answer: >-
-      Alliance School of Business holds international accreditation from IACBE (International Accreditation Council for Business Education, USA) and is a prominent member of AACSB (Association to Advance Collegiate Schools of Business), ensuring high global curriculum standards.
-  - question: Is direct admission available under management quota at Alliance University?
+      Alliance School of Business holds international accreditation from IACBE
+      (International Accreditation Council for Business Education, USA) and is a
+      prominent member of AACSB (Association to Advance Collegiate Schools of
+      Business), ensuring high global curriculum standards.
+  - question: >-
+      Is direct admission available under management quota at Alliance
+      University?
     answer: >-
-      Yes, candidates with a recognized bachelor's degree (minimum 50% marks) and valid national or university entrance scores can apply for merit profile-based direct evaluation seats with counselor guidance.
+      Yes, candidates with a recognized bachelor's degree (minimum 50% marks)
+      and valid national or university entrance scores can apply for merit
+      profile-based direct evaluation seats with counselor guidance.
 location: 'Anekal, Chandapura'
 state: 'Bangalore, Karnataka'
 ---
 
-# [Alliance University (Alliance School of Business)](https://careerwithmohit.online/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Alliance University (Alliance School of Business)](https://careerwithmohit.online/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier private university situated across a 55-acre green campus in Bangalore, Karnataka. Accredited with **IACBE (USA)** and **AACSB membership**, Alliance School of Business is celebrated for international curriculum design, corporate consulting labs, and extensive recruiter integration.

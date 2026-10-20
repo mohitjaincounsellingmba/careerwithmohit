@@ -3,9 +3,8 @@ title: Top MBA Operations Colleges in Delhi NCR 2027–29 — Placements & Fees
 date: '2026-07-17'
 category: Exams
 description: >-
-  Looking for the best MBA Operations colleges in Delhi NCR? Read our 2027–29 guide
-  comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes, and IMI
-  Delhi, including fees and placements.
+  Looking for the best MBA Operations colleges in Delhi NCR? Read our 2027–29
+  guide comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes.
 keywords:
   - top mba operations colleges in delhi ncr 2027–29
   - best mba operations in delhi ncr

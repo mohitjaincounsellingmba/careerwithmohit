@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-12'
 description: >-
   Discover top PGDM and MBA colleges in India offering 1:1 Fee-to-Placement ROI.
-  Total fees under 8 Lakhs with verified 8+ LPA average salary packages for
-  2026-2027 admissions & career guidance.
+  Total fees under 8 Lakhs with verified 8+ LPA average salary packages for...
 category: Jobs & Careers
 keywords:
   - best pgdm college under 8 lakhs with 8 lpa average package

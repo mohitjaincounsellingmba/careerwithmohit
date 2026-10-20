@@ -2,7 +2,9 @@
 title: 'SIDTM Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SIDTM Pune MBA review with audited ₹12.78L placements, ₹18.0L fees, SNAP 83%ile cutoffs, and admissions guidance from Mohit Jain.'
+description: >-
+  Read verified 2027 SIDTM Pune MBA review with audited ₹12.78L placements,
+  ₹18.0L fees, SNAP 83%ile cutoffs, and admissions guidance from Mohit Jain.
 keywords:
   - sidtm pune mba review 2027
   - sidtm pune fees structure 2027
@@ -13,26 +15,45 @@ keywords:
   - top mba colleges in pune
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the verified average placement package at SIDTM Pune for 2026-2027?
+  - question: >-
+      What is the verified average placement package at SIDTM Pune for
+      2026-2027?
     answer: >-
-      The verified overall average CTC at SIDTM Pune stands at ₹12.78 LPA to ₹13.08 LPA for the graduating batch. The median salary is benchmarked at ₹12.20 LPA, with the top 10% securing ₹18.50 LPA, the top 25% averaging ₹16.20 LPA, and the highest domestic offer reaching ₹27.83 LPA.
+      The verified overall average CTC at SIDTM Pune stands at ₹12.78 LPA to
+      ₹13.08 LPA for the graduating batch. The median salary is benchmarked at
+      ₹12.20 LPA, with the top 10% securing ₹18.50 LPA, the top 25% averaging
+      ₹16.20 LPA, and the highest domestic offer reaching ₹27.83 LPA.
   - question: What entrance exam and cutoff are required for SIDTM Pune MBA admission?
     answer: >-
-      SIDTM Pune exclusively accepts the Symbiosis National Aptitude Test (SNAP). The general category cutoff percentile ranges between 83.0 and 85.0 percentile, followed by Symbiosis GE-PIWAT (Group Exercise, Personal Interaction, and Writing Ability Test) evaluation.
+      SIDTM Pune exclusively accepts the Symbiosis National Aptitude Test
+      (SNAP). The general category cutoff percentile ranges between 83.0 and
+      85.0 percentile, followed by Symbiosis GE-PIWAT (Group Exercise, Personal
+      Interaction, and Writing Ability Test) evaluation.
   - question: What is the total MBA fee structure at SIDTM Pune for the 2027-2029 batch?
     answer: >-
-      The academic tuition fee for the 2-year MBA in Digital Telecom Management is ₹15.80 Lakhs. Including mandatory residential hostel and mess charges across four semesters on the Lavale hilltop campus, the total student budget is approximately ₹18.00 Lakhs to ₹19.20 Lakhs.
-  - question: Which specializations are offered at SIDTM Pune and what is their industry scope?
+      The academic tuition fee for the 2-year MBA in Digital Telecom Management
+      is ₹15.80 Lakhs. Including mandatory residential hostel and mess charges
+      across four semesters on the Lavale hilltop campus, the total student
+      budget is approximately ₹18.00 Lakhs to ₹19.20 Lakhs.
+  - question: >-
+      Which specializations are offered at SIDTM Pune and what is their industry
+      scope?
     answer: >-
-      SIDTM offers three distinct dual-oriented specializations: Systems and Finance, Marketing and Finance, and Analytics and Finance. These tracks train candidates for tech consulting, digital transformation, fintech product management, telecom network strategy, and business analytics.
+      SIDTM offers three distinct dual-oriented specializations: Systems and
+      Finance, Marketing and Finance, and Analytics and Finance. These tracks
+      train candidates for tech consulting, digital transformation, fintech
+      product management, telecom network strategy, and business analytics.
   - question: Can non-engineers apply for MBA at SIDTM Pune?
     answer: >-
-      Yes, graduates from any recognized discipline (B.Com, BBA, B.Sc, BCA, BA) with a minimum of 50% aggregate marks (45% for reserved categories) are eligible to appear for SNAP and apply for SIDTM Pune. No mandatory technical engineering degree is required.
-location: 'Pune'
-state: 'Maharashtra'
+      Yes, graduates from any recognized discipline (B.Com, BBA, B.Sc, BCA, BA)
+      with a minimum of 50% aggregate marks (45% for reserved categories) are
+      eligible to appear for SNAP and apply for SIDTM Pune. No mandatory
+      technical engineering degree is required.
+location: Pune
+state: Maharashtra
 ---
 
-# [SIDTM Pune](https://careerwithmohit.online/blog/sidtm-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SIDTM Pune](https://careerwithmohit.online/blog/sidtm-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier constituent institute of Symbiosis International (Deemed University) located in Lavale, Pune, established in 1996 as SITM and rebranded as SIDTM to pioneer techno-management education bridging telecom networks, digital transformation, cloud ecosystems, and analytics.

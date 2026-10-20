@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Looking for top MBA Business Analytics colleges in Bangalore? Discover 2027–29
-  fees, packages, and cutoffs for IIM Bangalore, Christ University, and
-  Welingkar in this guide.
+  fees, packages, and cutoffs for IIM Bangalore, Christ University.
 keywords:
   - top mba business analytics colleges in bangalore 2027–29
   - best business analytics mba in bangalore

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about VIT Chennai B.Tech admission 2026. Get the
-  latest details on VITEEE cutoffs for CSE, category-wise fee structure, and a
-  comparison with the Vellore campus.
+  latest details on VITEEE cutoffs for CSE, category-wise fee structure.
 keywords:
   - VIT Chennai BTech admission 2026
   - VIT Chennai fees category 1 to 5

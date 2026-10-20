@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-17'
 description: >-
   Complete guide to top universities in Malaysia for Indian students 2026. All
-  fees in INR, MQA accredited institutions, international branch campuses,
-  programs and admission requirements.
+  fees in INR, MQA accredited institutions, international branch campuses.
 keywords:
   - universities in Malaysia for Indian students 2026
   - study in Malaysia fees in INR

@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: BBA
 description: >-
   Planning to become a Corporate Lawyer in 2026? Learn about the high-paying law
-  firms, required specializations like M&A and IPR, and the exact path from NLU
-  to a Tier-1 firm.
+  firms, required specializations like M&A and IPR.
 keywords:
   - corporate law career india 2026
   - corporate lawyer salary freshers

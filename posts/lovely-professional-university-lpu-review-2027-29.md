@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Lovely Professional University (LPU), Phagwara /
-  Jalandhar (Phagwara / Jalandhar) for 2026. Check latest fee structure,
-  flagship courses, placement statistics, top recruiters, and admission process.
+  Jalandhar (Phagwara / Jalandhar) for 2026.
 keywords:
   - Lovely Professional University (LPU) review 2027–29
   - Lovely Professional University (LPU) placements 2027–29

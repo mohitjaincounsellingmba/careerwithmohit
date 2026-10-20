@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Medical/MBBS
 description: >-
   Missed the government medical cutoffs? You can still secure an MBBS seat
-  through the Management Quota in 2026. Learn about the legal process,
-  state-wise fees, and how to avoid scams.
+  through the Management Quota in 2026.
 keywords:
   - management quota mbbs admission 2026
   - direct mbbs admission fees india

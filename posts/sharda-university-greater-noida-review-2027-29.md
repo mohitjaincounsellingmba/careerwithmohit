@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of Sharda University, Greater Noida (Greater Noida) for
-  2026. Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - Sharda University review 2027–29
   - Sharda University placements 2027–29

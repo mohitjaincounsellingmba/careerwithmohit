@@ -3,8 +3,7 @@ title: 'Great Lakes Chennai NRI Quota Admission 2026: GMAT Cutoffs'
 date: '2026-03-18'
 description: >-
   How to get admission in Great Lakes Chennai via NRI/PIO quota for 2026.
-  Explore GMAT/GRE requirements, profile-based shortlisting, and 2025 placement
-  snapshot.
+  Explore GMAT/GRE requirements, profile-based shortlisting.
 keywords:
   - Great Lakes Chennai NRI quota
   - GLIM Chennai direct admission

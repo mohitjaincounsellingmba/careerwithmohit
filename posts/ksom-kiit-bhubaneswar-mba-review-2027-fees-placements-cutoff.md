@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive KIIT School of Management (KSOM) (Bhubaneswar, Odisha) review
-  for 2027 admissions. Explore audited fee structure (₹14.90 Lakhs (Total)),
-  latest placement packages (Avg: ₹9.00 LPA, Highest: ₹22.75 LPA), entrance exam
-  cutoffs (KIITEE Management, CAT, XAT, MAT, CMAT), NIRF ranking, and student
-  verdict.
+  for 2027 admissions. Explore audited fee structure (₹14.90 Lakhs (Total)).
 keywords:
   - kiit school of management (ksom) review 2027
   - kiit school of management (ksom) mba fees
@@ -56,7 +53,7 @@ location: Bhubaneswar
 state: Odisha
 ---
 
-# [KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [KIIT School of Management (KSOM)](/colleges/ksom-kiit-bhubaneswar/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **KIITEE Management, CAT, XAT, MAT, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

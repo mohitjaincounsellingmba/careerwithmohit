@@ -5,7 +5,7 @@ category: B.Tech
 description: >-
   Looking for IPU B.Tech colleges and cutoffs? Get the complete list of top
   GGSIPU engineering colleges, JEE Main closing ranks (Delhi vs Outside Delhi),
-  fees, and placements for 2026.
+  fees.
 keywords:
   - ipu btech colleges and cutoff 2026
   - top ipu btech colleges list

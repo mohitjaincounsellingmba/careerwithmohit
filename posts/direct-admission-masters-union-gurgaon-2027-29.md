@@ -3,8 +3,7 @@ title: 'Direct Admission in Masters Union 2026: Profile-Based Selection & MU-SAT
 date: '2026-03-17'
 description: >-
   Secure your PGP seat at Masters Union Gurgaon for 2026. Learn about direct
-  admission via profile assessment, MU-SAT requirements, and the
-  practitioner-led model for the 2027–2029 intake.
+  admission via profile assessment, MU-SAT requirements.
 keywords:
   - Masters Union direct admission
   - Masters Union management quota

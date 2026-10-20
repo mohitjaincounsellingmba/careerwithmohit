@@ -2,7 +2,9 @@
 title: 'IIM Raipur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Raipur MBA review with audited ₹21.04 LPA placements, ₹18.00L fees, CAT CAP cutoff trends, and admissions insights by Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Raipur MBA review with audited ₹21.04 LPA placements,
+  ₹18.00L fees, CAT CAP cutoff trends, and admissions insights by Mohit Jain.
 keywords:
   - iim raipur mba admission 2027
   - iim raipur fees structure 2027
@@ -15,24 +17,37 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Raipur in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Raipur stands at ₹21.04 LPA, with the median CTC benchmarked at ₹20.00 LPA. The top 25% of the batch secured an average salary of ₹28.25 LPA, while the highest international offer reached ₹67.60 LPA.
+      The verified average placement package at IIM Raipur stands at ₹21.04 LPA,
+      with the median CTC benchmarked at ₹20.00 LPA. The top 25% of the batch
+      secured an average salary of ₹28.25 LPA, while the highest international
+      offer reached ₹67.60 LPA.
   - question: What entrance exams are accepted for 2027 admission at IIM Raipur?
     answer: >-
-      IIM Raipur strictly accepts CAT scores through the centralized IIM Common Admission Process (CAP), followed by profile shortlisting and personal interview (PI) rounds.
+      IIM Raipur strictly accepts CAT scores through the centralized IIM Common
+      Admission Process (CAP), followed by profile shortlisting and personal
+      interview (PI) rounds.
   - question: What is the total fee structure for the MBA program at IIM Raipur?
     answer: >-
-      The total course fee for the 2-year full-time MBA program at IIM Raipur is approximately ₹18.00 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, digital library access, and course case studies.
+      The total course fee for the 2-year full-time MBA program at IIM Raipur is
+      approximately ₹18.00 Lakhs, which covers academic tuition, air-conditioned
+      single-room hostel accommodations, digital library access, and course case
+      studies.
   - question: What is the expected CAT cutoff for IIM Raipur admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 94 percentile overall with 73+ sectional percentiles. However, final interview conversion typically requires a percentile between 95 and 97+ depending on profile diversity.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 94 percentile overall with 73+ sectional percentiles. However,
+      final interview conversion typically requires a percentile between 95 and
+      97+ depending on profile diversity.
   - question: How does IIM Raipur rank among Second-Generation (New) IIMs?
     answer: >-
-      IIM Raipur is widely ranked among the top Second-Generation IIMs alongside IIM Udaipur, IIM Ranchi, and IIM Trichy, holding NIRF Rank #14 nationally with an audited ₹21.04 LPA average placement record.
+      IIM Raipur is widely ranked among the top Second-Generation IIMs alongside
+      IIM Udaipur, IIM Ranchi, and IIM Trichy, holding NIRF Rank #14 nationally
+      with an audited ₹21.04 LPA average placement record.
 location: Raipur
 state: Chhattisgarh
 ---
 
-# [IIM Raipur](/colleges/iim-raipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Raipur](/colleges/iim-raipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Prestige**: Established in 2010, **IIM Raipur** operates from a 200-acre eco-friendly permanent campus in Atal Nagar (Raipur, Chhattisgarh), holding a stellar **NIRF Rank #14** nationally.

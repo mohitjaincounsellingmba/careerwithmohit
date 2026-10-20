@@ -2,7 +2,9 @@
 title: 'SCIT Pune MBA Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 SCIT Pune MBA review with audited ₹11.20L placements, ₹16.50L fees, SNAP 76+ cutoffs, and admissions advice from Mohit Jain.'
+description: >-
+  Read verified 2027 SCIT Pune MBA review with audited ₹11.20L placements,
+  ₹16.50L fees, SNAP 76+ cutoffs, and admissions advice from Mohit Jain.
 keywords:
   - scit pune mba admission 2027
   - scit pune fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at SCIT Pune in 2026-2027?
     answer: >-
-      The verified overall average CTC at SCIT Pune stands at ₹11.20 LPA to ₹11.85 LPA across its MBA-ITBM and MBA-DS&DA graduating cohorts. The median package is benchmarked at ₹10.80 LPA, with the specialized Data Sciences cohort averaging ₹12.50 LPA and the highest domestic offer reaching ₹30.00 LPA.
+      The verified overall average CTC at SCIT Pune stands at ₹11.20 LPA to
+      ₹11.85 LPA across its MBA-ITBM and MBA-DS&DA graduating cohorts. The
+      median package is benchmarked at ₹10.80 LPA, with the specialized Data
+      Sciences cohort averaging ₹12.50 LPA and the highest domestic offer
+      reaching ₹30.00 LPA.
   - question: What entrance exam is accepted for MBA admission at SCIT Pune?
     answer: >-
-      SCIT Pune admits students exclusively through the Symbiosis National Aptitude Test (SNAP) conducted by Symbiosis International (Deemed University), followed by the GE-PIWAT (Group Exercise, Personal Interaction, and Writing Ability Test) selection process.
+      SCIT Pune admits students exclusively through the Symbiosis National
+      Aptitude Test (SNAP) conducted by Symbiosis International (Deemed
+      University), followed by the GE-PIWAT (Group Exercise, Personal
+      Interaction, and Writing Ability Test) selection process.
   - question: What is the total fee structure for the MBA programs at SCIT Pune?
     answer: >-
-      The total academic course fee for the 2-year full-time MBA program at SCIT Pune is approximately ₹15.80 Lakhs to ₹16.50 Lakhs, payable in semester-wise academic installments.
+      The total academic course fee for the 2-year full-time MBA program at SCIT
+      Pune is approximately ₹15.80 Lakhs to ₹16.50 Lakhs, payable in
+      semester-wise academic installments.
   - question: What specializations are offered under MBA at SCIT Pune?
     answer: >-
-      SCIT Pune offers two niche flagship degree programs: MBA in Information Technology Business Management (MBA-ITBM) with focus areas in Systems, Information Security, Digital Transformation, and FinTech; and MBA in Data Sciences & Data Analytics (MBA-DS&DA).
+      SCIT Pune offers two niche flagship degree programs: MBA in Information
+      Technology Business Management (MBA-ITBM) with focus areas in Systems,
+      Information Security, Digital Transformation, and FinTech; and MBA in Data
+      Sciences & Data Analytics (MBA-DS&DA).
   - question: What is the expected SNAP cutoff percentile for SCIT Pune?
     answer: >-
-      The expected qualifying cutoff for SCIT Pune is between 75.00 and 78.00+ percentile in the SNAP entrance examination for General category candidates, followed by the GE-PIWAT evaluation round.
-location: Hinjawadi Phase-I, Pune
+      The expected qualifying cutoff for SCIT Pune is between 75.00 and 78.00+
+      percentile in the SNAP entrance examination for General category
+      candidates, followed by the GE-PIWAT evaluation round.
+location: 'Hinjawadi Phase-I, Pune'
 state: Maharashtra
 ---
 
-# SCIT Pune Review 2027: Fees, Cutoff, Placements & SNAP Admission ROI
+## SCIT Pune Review 2027: Fees, Cutoff, Placements & SNAP Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Technology Management Leadership**: Located in Hinjawadi Phase-I, Pune’s Silicon Valley, Symbiosis Centre for Information Technology (SCIT) is India’s premier **AICTE-approved and NAAC Grade 'A++' accredited** business school dedicated exclusively to Information Technology Management, Cyber Security, and Data Sciences.

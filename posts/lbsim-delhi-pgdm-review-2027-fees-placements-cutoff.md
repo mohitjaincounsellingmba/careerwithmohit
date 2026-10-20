@@ -2,7 +2,9 @@
 title: 'LBSIM Delhi PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 LBSIM Delhi PGDM review with audited ₹12.50 LPA placements, ₹16.50L fees, CAT/XAT cutoffs, and admissions strategy from Mohit Jain.'
+description: >-
+  Read verified 2027 LBSIM Delhi PGDM review with audited ₹12.50 LPA placements,
+  ₹16.50L fees, CAT/XAT cutoffs, and admissions strategy from Mohit Jain.
 keywords:
   - lbsim delhi pgdm admission 2027
   - lbsim fees structure 2027
@@ -15,24 +17,35 @@ keywords:
 faqs:
   - question: What is the average placement package at LBSIM Delhi in 2026-2027?
     answer: >-
-      The verified overall average CTC at LBSIM Delhi stands at ₹12.50 LPA to ₹13.00 LPA across all PGDM specializations (with the specialized Financial Management FM cohort averaging ₹13.50 LPA). The median package is benchmarked at ₹12.00 LPA, and the highest domestic offer reached ₹24.75 LPA.
+      The verified overall average CTC at LBSIM Delhi stands at ₹12.50 LPA to
+      ₹13.00 LPA across all PGDM specializations (with the specialized Financial
+      Management FM cohort averaging ₹13.50 LPA). The median package is
+      benchmarked at ₹12.00 LPA, and the highest domestic offer reached ₹24.75
+      LPA.
   - question: What entrance exams are accepted for admission at LBSIM Delhi?
     answer: >-
-      LBSIM Delhi accepts valid scores from CAT, XAT, and GMAT. CMAT, MAT, NMAT, or ATMA scores are not accepted for its AICTE-approved PGDM programs.
+      LBSIM Delhi accepts valid scores from CAT, XAT, and GMAT. CMAT, MAT, NMAT,
+      or ATMA scores are not accepted for its AICTE-approved PGDM programs.
   - question: What is the total fee structure for the PGDM programs at LBSIM Delhi?
     answer: >-
-      The total course tuition fee for the 2-year full-time PGDM program at LBSIM Delhi is approximately ₹16.50 Lakhs, payable in semester-wise academic installments.
+      The total course tuition fee for the 2-year full-time PGDM program at
+      LBSIM Delhi is approximately ₹16.50 Lakhs, payable in semester-wise
+      academic installments.
   - question: What is the CAT/XAT cutoff for LBSIM Delhi admission 2027?
     answer: >-
-      The qualifying cutoff for LBSIM Delhi typically ranges between 80 and 85+ percentile in CAT or XAT. Profile-rich candidates with strong academic records and work experience hold strong conversion probability.
+      The qualifying cutoff for LBSIM Delhi typically ranges between 80 and 85+
+      percentile in CAT or XAT. Profile-rich candidates with strong academic
+      records and work experience hold strong conversion probability.
   - question: What makes LBSIM's Financial Management program unique?
     answer: >-
-      LBSIM's PGDM in Financial Management (PGDM-FM) is widely regarded as one of northern India's premier finance programs, featuring extensive training in Bloomberg terminals, equity research, and risk management.
+      LBSIM's PGDM in Financial Management (PGDM-FM) is widely regarded as one
+      of northern India's premier finance programs, featuring extensive training
+      in Bloomberg terminals, equity research, and risk management.
 location: New Delhi
 state: Delhi NCR
 ---
 
-# [LBSIM Delhi](/colleges/lbsim-delhi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [LBSIM Delhi](/colleges/lbsim-delhi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Value-Based Pedagogy**: Established in 1995 in memory of former Prime Minister Lal Bahadur Shastri, **LBSIM Delhi** operates from a prime modern campus in Sector 11, Dwarka (New Delhi), recognized nationally for value-based management and finance leadership.

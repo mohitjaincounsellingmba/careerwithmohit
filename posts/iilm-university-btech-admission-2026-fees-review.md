@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about IILM University B.Tech admission 2026 across
-  its Greater Noida and Gurugram campuses. Check the latest JEE/CUET cutoffs,
-  fees, and placement reviews.
+  its Greater Noida and Gurugram campuses.
 keywords:
   - IILM University BTech admission 2026
   - IILM Greater Noida cutoff

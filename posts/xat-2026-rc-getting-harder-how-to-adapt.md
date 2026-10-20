@@ -3,8 +3,7 @@ title: Why XAT RC Is Getting Harder in 2026 and How to Adapt
 date: '2026-05-21'
 description: >-
   Analyze why XAT Reading Comprehension (RC) is getting increasingly difficult.
-  Learn how XAT RC differs from CAT, reading strategies, and prep plans for
-  2026-2027 admissions & career guidance.
+  Learn how XAT RC differs from CAT, reading strategies.
 keywords:
   - XAT RC preparation
   - XAT exam 2026

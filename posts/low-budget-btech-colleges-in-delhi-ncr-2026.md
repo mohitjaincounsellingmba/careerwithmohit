@@ -4,8 +4,7 @@ date: '2026-07-15'
 description: >-
   Looking for affordable engineering options? Read our complete guide to
   low-budget private B.Tech colleges in Delhi NCR, featuring Echelon Institute
-  of Technology, detailed fee structures, average packages, and ROI comparison
-  for 2026-2027 admissions & career guidance.
+  of...
 keywords:
   - low budget btech colleges in delhi ncr
   - affordable private engineering colleges delhi

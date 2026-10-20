@@ -3,9 +3,7 @@ title: 'Symbiosis Institute of Business Management (SIBM), Pune Executive MBA Re
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Symbiosis
-  Institute of Business Management (SIBM), Pune. Learn about total fees,
-  eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts for 2026-2027 admissions & career guidance.
+  Institute of Business Management (SIBM), Pune.
 keywords:
   - 'Symbiosis Institute of Business Management (SIBM), Pune executive mba'
   - 'Symbiosis Institute of Business Management (SIBM), Pune executive mba review'

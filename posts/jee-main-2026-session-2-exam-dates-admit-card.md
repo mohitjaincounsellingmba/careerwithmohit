@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   The JEE Main 2026 Session 2 (Attempt 2) is just around the corner. Get the
-  latest official exam schedule (April 2-9), admit card release dates, and
-  expert last-minute preparation tips to maximize your percentile.
+  latest official exam schedule (April 2-9), admit card release dates.
 keywords:
   - JEE Main 2026 Session 2 exam dates
   - JEE Main attempt 2 admit card 2026

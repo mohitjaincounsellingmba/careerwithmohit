@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-03'
 description: >-
   Complete guide to MBA admission 2027 in Dehradun and Uttarakhand. Check fees,
-  cutoffs, and placements for Doon Business School, UPES Dehradun, Graphic Era,
-  and Uttaranchal University.
+  cutoffs, and placements for Doon Business School, UPES Dehradun, Graphic Era.
 keywords:
   - mba admission 2027
   - pgdm admission 2027
@@ -36,7 +35,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
+## Top MBA Colleges in Dehradun Admission 2027: Fees, Placements & Cutoffs (DBS, UPES, Graphic Era)
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top B-Schools in Uttarakhand:** [Doon Business School](/colleges/doon-business-school/) (DBS), UPES School of Business, Graphic Era University, and [Uttaranchal University](/colleges/uttaranchal-university/).

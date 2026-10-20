@@ -6,9 +6,7 @@ date: '2026-09-15'
 category: MBA
 description: >-
   Comprehensive IIM Mumbai (Formerly NITIE Mumbai) (Powai, Mumbai, Maharashtra)
-  review for 2027 admissions. Explore audited fee structure (₹21.00 Lakhs
-  (Total)), latest placement packages (Avg: ₹27.75 LPA, Highest: ₹78.20 LPA),
-  entrance exam cutoffs (CAT), NIRF ranking, and student verdict.
+  review for 2027 admissions. Explore audited fee structure (₹21.00 Lakhs...
 keywords:
   - iim mumbai (formerly nitie mumbai) review 2027
   - iim mumbai (formerly nitie mumbai) mba fees
@@ -61,7 +59,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-# [IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [IIM Mumbai (Formerly NITIE Mumbai)](/colleges/iim-mumbai/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Xavier Institute of Social Service (XISS Ranchi) (Purulia Road,
-  Ranchi, Jharkhand) review for 2027 admissions. Explore audited fee structure
-  (₹8.90 Lakhs (Total)), latest placement packages (Avg: ₹7.50 LPA, Highest:
-  ₹20.50 LPA), entrance exam cutoffs (CAT, XAT, CMAT), NIRF ranking, and student
-  verdict.
+  Ranchi, Jharkhand) review for 2027 admissions.
 keywords:
   - xavier institute of social service (xiss ranchi) review 2027
   - xavier institute of social service (xiss ranchi) mba fees
@@ -57,7 +54,7 @@ location: Purulia Road
 state: Ranchi
 ---
 
-# [Xavier Institute of Social Service (XISS Ranchi)](/colleges/xiss-ranchi/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Xavier Institute of Social Service (XISS Ranchi)](/colleges/xiss-ranchi/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, XAT, CMAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

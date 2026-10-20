@@ -3,8 +3,8 @@ title: 'Amul Cooperative Model: Cold-Chain Logistics & Reverse Supply Chain Succ
 date: '2026-05-28'
 description: >-
   Explore the Amul Cooperative model. Understand its three-tier structure,
-  robust cold-chain logistics, and efficient reverse supply chain that empowered
-  millions of dairy farmers for 2026-2027 admissions & career guidance.
+  robust cold-chain logistics, and efficient reverse supply chain that
+  empowered...
 keywords:
   - Amul cooperative business model
   - Amul cold chain logistics

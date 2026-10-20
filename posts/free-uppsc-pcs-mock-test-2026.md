@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free UPPSC PCS Prelims 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 150 questions, 120 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - UPPSC PCS Prelims 2026 mock test free
   - uppsc-pcs practice paper 2026

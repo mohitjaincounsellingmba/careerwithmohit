@@ -38,7 +38,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target for 2027-29
+## Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target for 2027-29
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

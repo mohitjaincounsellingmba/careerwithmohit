@@ -4,8 +4,7 @@ date: '2026-03-24'
 description: >-
   Everything you need to know about [Bennett
   University](/colleges/bennett-greater-noida/) Greater Noida B.Tech admission
-  2026. Get the latest on JEE Main/10+2 merit cutoffs, fee structure, and its
-  incredible ₹1.37 Crore highest package.
+  2026.
 keywords:
   - '[Bennett University](/colleges/bennett-greater-noida/) BTech admission 2026'
   - '[Bennett University](/colleges/bennett-greater-noida/) Greater Noida cutoff'

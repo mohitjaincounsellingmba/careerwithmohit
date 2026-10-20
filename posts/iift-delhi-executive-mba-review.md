@@ -3,9 +3,7 @@ title: 'Indian Institute of Foreign Trade (IIFT), Delhi Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Indian Institute
-  of Foreign Trade (IIFT), Delhi. Learn about total fees, eligibility, accepted
-  entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  of Foreign Trade (IIFT), Delhi.
 keywords:
   - 'Indian Institute of Foreign Trade (IIFT), Delhi executive mba'
   - 'Indian Institute of Foreign Trade (IIFT), Delhi executive mba review'

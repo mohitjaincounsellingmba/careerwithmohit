@@ -7,8 +7,7 @@ category: Online Degrees
 description: >-
   Confused about which city to choose for your MBA? Compare Mumbai, Bangalore,
   Delhi NCR, Pune, Chennai, Kolkata, and Jaipur based on pros, cons, top
-  colleges, and fresher salary expectations for 2026-2027 admissions & career
-  guidance.
+  colleges.
 keywords:
   - best city for mba in india
   - mumbai vs bangalore for mba

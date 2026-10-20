@@ -5,7 +5,8 @@ title: >-
 date: '2026-08-14'
 category: Exams
 description: >-
-  Complete guide to CAT 2026 Answer Key & Candidate Response Sheet analysis. Calculate raw scores, check question objections, predict percentile, and plan 2027 MBA admissions.
+  Complete guide to CAT 2026 Answer Key & Candidate Response Sheet analysis.
+  Calculate raw scores, check question objections, predict percentile.
 keywords:
   - CAT Answer Key 2026
   - CAT Response Sheet Analysis
@@ -28,7 +29,8 @@ faqs:
     answer: >-
       For each correct MCQ or non-MCQ (TITA), add +3 marks. For each incorrect
       MCQ, deduct -1 mark. Incorrect TITA questions carry 0 negative marks.
-      Total raw score is (Correct Attempts * 3) - (Incorrect MCQs * 1) out of 198 max marks.
+      Total raw score is (Correct Attempts * 3) - (Incorrect MCQs * 1) out of
+      198 max marks.
   - question: What is the fee to challenge an answer key question in CAT?
     answer: >-
       Candidates must pay an objection fee of INR 1,200 per challenged question.

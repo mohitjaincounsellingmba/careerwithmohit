@@ -3,8 +3,8 @@ title: 'IMT Ghaziabad vs IMT Nagpur 2026: Flagship vs ROI Choice'
 date: '2026-03-25'
 description: >-
   Choosing between IMT Ghaziabad and IMT Nagpur? Get the facts on 2026 cutoffs,
-  actual placement averages, and why the ₹8 Lakh fee difference matters for your
-  MBA ROI.
+  actual placement averages, and why the ₹8 Lakh fee difference matters for
+  your...
 keywords:
   - IMT Ghaziabad vs IMT Nagpur
   - IMT Ghaziabad average package 2026

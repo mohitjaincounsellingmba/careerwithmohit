@@ -5,8 +5,7 @@ title: >-
 date: '2026-05-12'
 description: >-
   Is the CBSE Class 12 Board Result 2026 out? DigiLocker and UMANG apps show
-  'Coming Soon' status. Get the latest expected date, official websites, and how
-  to download your marksheet.
+  'Coming Soon' status. Get the latest expected date, official websites.
 keywords:
   - CBSE 12th result 2026 date
   - CBSE 12th expected result date 2026

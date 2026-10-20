@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for ASM’s Institute of Business Management &
-  Research (IBMR) (ASM IBMR Pune). Verified fee structure (₹6.95 Lakhs for PGDM
-  / ₹3.75 Lakhs for MBA), MBA / PGDM approvals, audited placements (Avg ₹7.50
-  LPA, Highest ₹24.00 LPA), PPO stats, certifications, awards, alumni network,
-  faculty profiles, and Why Join review.
+  Research (IBMR) (ASM IBMR Pune).
 keywords:
   - ASM’s Institute of Business Management & Research (IBMR) admission 2027-29
   - ASM IBMR Pune fees 2027
@@ -73,7 +70,7 @@ location: Pune
 state: Maharashtra
 ---
 
-# ASM’s Institute of Business Management & Research (IBMR) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## ASM’s Institute of Business Management & Research (IBMR) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.95 Lakhs for PGDM / ₹3.75 Lakhs for MBA** (**₹3.47 Lakhs / Year (PGDM)**). Government scholarships and merit rebates for entrance exam toppers.

@@ -2,7 +2,9 @@
 title: 'MAIMS Rohini MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-17'
 category: MBA
-description: 'Honest MAIMS Rohini MBA review 2027: GGSIPU CAT cutoffs, ₹3.8L total fee, ₹6.5 LPA real placements, and Rohini campus reality check by Mohit Jain.'
+description: >-
+  Honest MAIMS Rohini MBA review 2027: GGSIPU CAT cutoffs, ₹3.8L total fee, ₹6.5
+  LPA real placements, and Rohini campus reality check by Mohit Jain.
 keywords:
   - maims rohini mba review 2027
   - maims rohini mba fees 2027
@@ -11,21 +13,40 @@ keywords:
   - ggsipu mba admission maims
   - maharaja agrasen institute mba review
 faqs:
-  - question: 'What is the real average placement package at MAIMS Rohini in 2026-2027?'
-    answer: 'The audited average package at MAIMS Rohini is ₹6.50 LPA, with a median of ₹6.00 LPA. Top 20% performers secure ₹8.50 LPA to ₹10.00 LPA, primarily in BFSI relationship management and Big 4 tax/risk operations.'
-  - question: 'What is the total MBA fee at MAIMS Rohini for the 2-year program?'
-    answer: 'Total tuition and university charges over two years come to approximately ₹3.80 to ₹4.00 Lakhs, regulated by Delhi SFRC, making it one of Delhi-NCR’s most cost-effective university MBA options.'
-  - question: 'Which entrance exam is prioritized for MAIMS Rohini MBA admission?'
-    answer: 'GGSIPU centralized counseling strictly gives first preference to CAT qualifiers. Vacant seats in subsequent sliding or spot rounds are then offered to CMAT qualifiers and finally CET applicants.'
-  - question: 'Is hostel accommodation provided on-campus at MAIMS Rohini for MBA students?'
-    answer: 'No on-campus hostel is available for MBA students. Most students commute daily via the Delhi Metro Red Line (Rithala station) or stay in private student PGs across Rohini Sectors 22, 23, and 24.'
-  - question: 'Can Delhi-NCR students get direct admission in MAIMS Rohini under Management Quota?'
-    answer: 'Yes, 10% of seats are reserved under the official GGSIPU Management Quota, filled transparently after main counseling rounds based on graduation marks and entrance test scores.'
+  - question: What is the real average placement package at MAIMS Rohini in 2026-2027?
+    answer: >-
+      The audited average package at MAIMS Rohini is ₹6.50 LPA, with a median of
+      ₹6.00 LPA. Top 20% performers secure ₹8.50 LPA to ₹10.00 LPA, primarily in
+      BFSI relationship management and Big 4 tax/risk operations.
+  - question: What is the total MBA fee at MAIMS Rohini for the 2-year program?
+    answer: >-
+      Total tuition and university charges over two years come to approximately
+      ₹3.80 to ₹4.00 Lakhs, regulated by Delhi SFRC, making it one of
+      Delhi-NCR’s most cost-effective university MBA options.
+  - question: Which entrance exam is prioritized for MAIMS Rohini MBA admission?
+    answer: >-
+      GGSIPU centralized counseling strictly gives first preference to CAT
+      qualifiers. Vacant seats in subsequent sliding or spot rounds are then
+      offered to CMAT qualifiers and finally CET applicants.
+  - question: >-
+      Is hostel accommodation provided on-campus at MAIMS Rohini for MBA
+      students?
+    answer: >-
+      No on-campus hostel is available for MBA students. Most students commute
+      daily via the Delhi Metro Red Line (Rithala station) or stay in private
+      student PGs across Rohini Sectors 22, 23, and 24.
+  - question: >-
+      Can Delhi-NCR students get direct admission in MAIMS Rohini under
+      Management Quota?
+    answer: >-
+      Yes, 10% of seats are reserved under the official GGSIPU Management Quota,
+      filled transparently after main counseling rounds based on graduation
+      marks and entrance test scores.
 location: Rohini Sector 22
 state: North-West Delhi
 ---
 
-# MAIMS Rohini MBA Review 2027: Fees, Cutoff, Placements & GGSIPU Reality Check
+## MAIMS Rohini MBA Review 2027: Fees, Cutoff, Placements & GGSIPU Reality Check
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Degree & Affiliation**: 2-year full-time MBA degree awarded by **Guru Gobind Singh Indraprastha University (GGSIPU, Code 101)**, AICTE-approved and NAAC 'A' accredited.
@@ -188,3 +209,11 @@ Classes run from 9:00 AM to 5:00 PM, Monday through Friday. GGSIPU enforces a st
 
 ### 5. What are the best PG accommodations near MAIMS Rohini?
 Rohini Sectors 22, 23, and 24 offer numerous student PGs and rental flats with food and Wi-Fi, with average monthly expenses ranging between ₹8,000 and ₹12,000.
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -3,9 +3,7 @@ title: 'International Management Institute (IMI), Delhi Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at International
-  Management Institute (IMI), Delhi. Learn about total fees, eligibility,
-  accepted entrance exams, average packages, pros, cons, and expert verdicts for
-  2026-2027 admissions & career guidance.
+  Management Institute (IMI), Delhi.
 keywords:
   - 'International Management Institute (IMI), Delhi executive mba'
   - 'International Management Institute (IMI), Delhi executive mba review'

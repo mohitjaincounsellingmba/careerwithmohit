@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-28'
 description: >-
   Master the ultimate NMAT 2026-27 attempt strategy for NMIMS Mumbai. Detailed
-  guide on GMAC computer-adaptive scoring, time per question, 3-retake planning,
-  and target cutoffs.
+  guide on GMAC computer-adaptive scoring, time per question, 3-retake planning.
 keywords:
   - NMAT 2026 attempt strategy
   - NMIMS Mumbai cutoff NMAT 2026

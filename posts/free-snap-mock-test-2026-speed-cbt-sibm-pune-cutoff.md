@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Take the 100% free full-length SNAP 2026 Speed Mock Test online. 60 questions
-  in 60 minutes covering General English (15), Quant & DI (20), and Analytical
-  Reasoning (25) with SIBM Pune & SCMHRD cutoff predictions.
+  in 60 minutes covering General English (15), Quant & DI (20).
 keywords:
   - free snap mock test 2026
   - snap 2026 speed mock test
@@ -47,7 +46,7 @@ faqs:
 location: Pune
 state: Maharashtra
 ---
-# Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with [SIBM Pune](/colleges/sibm-pune/) Cutoff Predictor
+## Free SNAP Mock Test 2026: 60-Question Speed CBT Simulation with [SIBM Pune](/colleges/sibm-pune/) Cutoff Predictor
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.

@@ -1,14 +1,12 @@
 ---
 title: >-
-  MBA Distance Education 2027–29 – Top Universities, Fees, Eligibility & Admission
-  Guide
+  MBA Distance Education 2027–29 – Top Universities, Fees, Eligibility &
+  Admission Guide
 date: '2026-04-25'
 category: Online Degrees
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MBA Distance
-  Education 2026 – Top Universities, Fees, Eligibility & Admission Guide. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for MBA Distance Education 2027–29 – Top Universities, F...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MBA distance education 2027–29
   - distance MBA India

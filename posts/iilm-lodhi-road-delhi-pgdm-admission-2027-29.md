@@ -6,9 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for IILM Institute for Higher Education (IILM
-  Lodhi Road). Verified fee structure (₹12.90 Lakhs (Total)), PGDM approvals,
-  audited placements (Avg ₹8.60 LPA, Highest ₹20.00 LPA), PPO stats,
-  certifications, awards, alumni network, faculty profiles, and Why Join review.
+  Lodhi Road). Verified fee structure (₹12.90 Lakhs (Total)), PGDM approvals.
 keywords:
   - IILM Institute for Higher Education admission 2027-29
   - IILM Lodhi Road fees 2027
@@ -78,7 +76,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [IILM Institute for Higher Education](/colleges/iilm-delhi/) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [IILM Institute for Higher Education](/colleges/iilm-delhi/) Admission 2027-29: Fees, PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.90 Lakhs (Total)** (**₹6.45 Lakhs per Year**). Up to 50% tuition fee scholarships for outstanding CAT/XAT/GMAT scorers and female leaders.

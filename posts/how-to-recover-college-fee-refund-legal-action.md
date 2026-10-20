@@ -3,8 +3,8 @@ title: College Not Refunding Your Fee? 5 Legal Actions Every Student Can Take
 date: '2026-03-14'
 description: >-
   Is your college delaying or refusing a fee refund? Learn the exact legal steps
-  to recover your money, from sending a legal notice to filing a consumer court
-  case for 2026-2027 admissions & career guidance.
+  to recover your money, from sending a legal notice to filing a consumer
+  court...
 keywords:
   - college not refunding fees what to do
   - legal notice for fee refund sample

@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-24'
 description: >-
   Everything you need to know about KIET Ghaziabad B.Tech admission 2026. Get
-  the latest on JEE Main cutoffs, AKTU counselling (UPTAC), fee structure, and
-  its incredible ₹1.78 Crore highest package.
+  the latest on JEE Main cutoffs, AKTU counselling (UPTAC), fee structure.
 keywords:
   - KIET Ghaziabad BTech admission 2026
   - KIET Ghaziabad cutoff for CSE

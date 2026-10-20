@@ -2,7 +2,10 @@
 title: 'IIM Sambalpur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Sambalpur MBA review with audited ₹14.80 LPA placements, ₹15.00L fees, CAT CAP cutoffs, and admission advice from Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Sambalpur MBA review with audited ₹14.80 LPA
+  placements, ₹15.00L fees, CAT CAP cutoffs, and admission advice from Mohit
+  Jain.
 keywords:
   - iim sambalpur mba admission 2027
   - iim sambalpur fees structure 2027
@@ -15,24 +18,36 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Sambalpur in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Sambalpur stands at ₹14.80 LPA to ₹16.64 LPA across recent batches, with the median package benchmarked at ₹15.00 LPA and the highest international offer reaching ₹64.61 LPA.
+      The verified average placement package at IIM Sambalpur stands at ₹14.80
+      LPA to ₹16.64 LPA across recent batches, with the median package
+      benchmarked at ₹15.00 LPA and the highest international offer reaching
+      ₹64.61 LPA.
   - question: What entrance exams are accepted for 2027 admission at IIM Sambalpur?
     answer: >-
-      IIM Sambalpur accepts CAT scores through the centralized IIM Common Admission Process (CAP) and Supplementary Admission Process (SAP), followed by profile shortlisting and personal interview (PI) evaluations.
+      IIM Sambalpur accepts CAT scores through the centralized IIM Common
+      Admission Process (CAP) and Supplementary Admission Process (SAP),
+      followed by profile shortlisting and personal interview (PI) evaluations.
   - question: What is the total fee structure for the MBA program at IIM Sambalpur?
     answer: >-
-      The total course tuition fee for the 2-year full-time MBA program at IIM Sambalpur is approximately ₹15.00 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, library subscriptions, and academic resources.
+      The total course tuition fee for the 2-year full-time MBA program at IIM
+      Sambalpur is approximately ₹15.00 Lakhs, which covers academic tuition,
+      air-conditioned single-room hostel accommodations, library subscriptions,
+      and academic resources.
   - question: What is the expected entrance cutoff for IIM Sambalpur?
     answer: >-
-      The safe cutoff threshold for initial shortlisting is approximately 88 to 92 percentile overall in CAT under IIM CAP with 70+ sectional percentiles across VARC, DILR, and QA.
+      The safe cutoff threshold for initial shortlisting is approximately 88 to
+      92 percentile overall in CAT under IIM CAP with 70+ sectional percentiles
+      across VARC, DILR, and QA.
   - question: Does IIM Sambalpur have a permanent campus?
     answer: >-
-      Yes. IIM Sambalpur operates from its state-of-the-art 200-acre permanent green campus located in Basantpur, Sambalpur, Odisha, featuring smart academic complexes, sports stadiums, and solar-powered facilities.
+      Yes. IIM Sambalpur operates from its state-of-the-art 200-acre permanent
+      green campus located in Basantpur, Sambalpur, Odisha, featuring smart
+      academic complexes, sports stadiums, and solar-powered facilities.
 location: Sambalpur
 state: Odisha
 ---
 
-# [IIM Sambalpur](/colleges/iim-sambalpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Sambalpur](/colleges/iim-sambalpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Campus**: Established in 2015, **IIM Sambalpur** operates from a majestic 200-acre permanent campus at Basantpur (Sambalpur, Odisha), holding **NIRF Rank #58** with an innovative "Flipped Classroom" pedagogical model.

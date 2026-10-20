@@ -1,14 +1,12 @@
 ---
 title: >-
-  NDIM Delhi Review 2027–29–2027: PGDM Fees, Placements, Cutoffs, Direct Admission
-  & Honest Verdict
+  NDIM Delhi Review 2027–29–2027: PGDM Fees, Placements, Cutoffs, Direct
+  Admission & Honest Verdict
 date: '2026-09-10'
 category: Exams
 description: >-
   Updated NDIM Delhi review for 2026–2027 admissions. Discover verified PGDM fee
-  structure (₹13.75 Lakhs), latest 2025–2026 placement packages (avg ₹10.00 LPA,
-  highest ₹16.0–₹24.0 LPA), CAT/MAT cutoffs, South Delhi campus pros & cons, and
-  admission process.
+  structure (₹13.75 Lakhs), latest 2025–2026 placement packages (avg ₹10.00 LPA.
 keywords:
   - NDIM Delhi review
   - NDIM Delhi review 2027–29
@@ -84,7 +82,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [New Delhi Institute of Management (NDIM) Delhi Review 2027–29–2027](/colleges/ndim-delhi/): PGDM Fees, Placements, Cutoffs, Ranking & Honest Student Verdict
+## [New Delhi Institute of Management (NDIM) Delhi Review 2027–29–2027](/colleges/ndim-delhi/): PGDM Fees, Placements, Cutoffs, Ranking & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active through CAT, XAT, MAT, CMAT, ATMA scores and profile-based evaluation rounds for an approved intake of **420 seats**.

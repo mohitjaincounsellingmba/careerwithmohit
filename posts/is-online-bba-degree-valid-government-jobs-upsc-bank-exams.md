@@ -5,7 +5,7 @@ category: Online Degrees
 description: >-
   Discover if an Online BBA degree is accepted for UPSC, Bank PO, SSC CGL, and
   government jobs in India. Learn about UGC equivalence rules and regulations
-  for 2026-2027 admissions & career guidance.
+  for...
 keywords:
   - online BBA validity government jobs
   - is online BBA eligible for UPSC

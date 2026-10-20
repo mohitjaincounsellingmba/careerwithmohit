@@ -5,8 +5,7 @@ title: >-
 date: '2026-03-29'
 description: >-
   Bihar Board (BSEB) has declared the Class 12th (Intermediate) result 2026.
-  Check your Stream-wise (Science, Arts, Commerce) scores online. Overall pass
-  percentage stands at 85.19%.
+  Check your Stream-wise (Science, Arts, Commerce) scores online.
 keywords:
   - BSEB 12th result 2026 declared
   - Bihar Board Inter result check link

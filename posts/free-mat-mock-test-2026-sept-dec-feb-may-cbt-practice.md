@@ -2,7 +2,10 @@
 title: 'Free MAT Mock Test 2026/27: Full 150-Question CBT for Dec, Feb, May & Sept MAT'
 date: '2026-10-02'
 category: Exams
-description: 'Take our 100% free full-length December MAT 2026/2027 CBT Mock Test online. Practice 150 questions across 5 sections with composite score predictor (/800), +1/-0.25 marking, PUMBA & Welingkar cutoffs, and complete step-by-step solutions.'
+description: >-
+  Take our 100% free full-length December MAT 2026/2027 CBT Mock Test online.
+  Practice 150 questions across 5 sections with composite score predictor
+  (/800).
 keywords:
   - free mat mock test 2026
   - december mat mock test
@@ -15,21 +18,38 @@ keywords:
   - mba admission through mat 2027
   - free cbt test series online
 faqs:
-  - question: 'What is the structure of the December MAT 2026/2027 exam?'
-    answer: 'The December MAT exam consists of 150 multiple-choice questions across 5 sections: Language Comprehension, Intelligence & Critical Reasoning, Data Analysis & Sufficiency, Mathematical Skills, and Economic & Business Environment (30 questions each) with a 120-minute time limit.'
-  - question: 'How is the MAT composite score calculated out of 800?'
-    answer: 'The composite score is derived from the first 4 sections (120 questions). Each correct answer gives +1.00 mark, and each incorrect answer deducts 0.25 marks. The raw score is statistically converted onto a standard composite scale ranging from 199 to 801.'
-  - question: 'Does the GK section affect my MAT composite score?'
-    answer: 'No, AIMA reports Economic & Business Environment (GK) marks separately. It is not calculated in the 800 composite score, but institutes review it during GD-PI rounds.'
-  - question: 'Which top MBA colleges accept December MAT for 2027 admissions?'
-    answer: 'PUMBA Pune (95+%ile), Welingkar Mumbai (95+%ile), BIMTECH Greater Noida (90+%ile), XIME Bangalore (90+%ile), Jaipuria Institute of Management (85+%ile), and JIMS Kalkaji (85+%ile) accept December MAT scores.'
-  - question: 'What is a safe MAT composite score for Tier-1 MBA colleges?'
-    answer: 'A scaled composite score of 650+ (95+ percentile) is required for Tier-1 colleges like Welingkar Mumbai and PUMBA Pune. A score of 600+ (90+ percentile) ensures eligibility for BIMTECH and XIME.'
+  - question: What is the structure of the December MAT 2026/2027 exam?
+    answer: >-
+      The December MAT exam consists of 150 multiple-choice questions across 5
+      sections: Language Comprehension, Intelligence & Critical Reasoning, Data
+      Analysis & Sufficiency, Mathematical Skills, and Economic & Business
+      Environment (30 questions each) with a 120-minute time limit.
+  - question: How is the MAT composite score calculated out of 800?
+    answer: >-
+      The composite score is derived from the first 4 sections (120 questions).
+      Each correct answer gives +1.00 mark, and each incorrect answer deducts
+      0.25 marks. The raw score is statistically converted onto a standard
+      composite scale ranging from 199 to 801.
+  - question: Does the GK section affect my MAT composite score?
+    answer: >-
+      No, AIMA reports Economic & Business Environment (GK) marks separately. It
+      is not calculated in the 800 composite score, but institutes review it
+      during GD-PI rounds.
+  - question: Which top MBA colleges accept December MAT for 2027 admissions?
+    answer: >-
+      PUMBA Pune (95+%ile), Welingkar Mumbai (95+%ile), BIMTECH Greater Noida
+      (90+%ile), XIME Bangalore (90+%ile), Jaipuria Institute of Management
+      (85+%ile), and JIMS Kalkaji (85+%ile) accept December MAT scores.
+  - question: What is a safe MAT composite score for Tier-1 MBA colleges?
+    answer: >-
+      A scaled composite score of 650+ (95+ percentile) is required for Tier-1
+      colleges like Welingkar Mumbai and PUMBA Pune. A score of 600+ (90+
+      percentile) ensures eligibility for BIMTECH and XIME.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-# Free MAT Mock Test 2026/27: Full 150-Question CBT for Dec, Feb, May & Sept MAT
+## Free MAT Mock Test 2026/27: Full 150-Question CBT for Dec, Feb, May & Sept MAT
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Exam Format & Duration**: 150 Questions across 5 sections (30 Qs each) in 120 Minutes (2 hours) with +1.00 for correct and -0.25 for wrong.

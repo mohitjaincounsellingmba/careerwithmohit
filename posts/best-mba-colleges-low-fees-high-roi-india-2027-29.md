@@ -5,8 +5,7 @@ category: Exams
 description: >-
   Looking for an MBA that won't break the bank? Discover the top low-fee,
   high-ROI MBA colleges in India. Compare [FMS Delhi](/colleges/fms-delhi/),
-  JBIMS, TISS, and PUMBA with placement-to-fee ratios for 2026-2027 admissions &
-  career guidance.
+  JBIMS.
 keywords:
   - best mba colleges with low fees and high roi 2027–29
   - high roi mba india

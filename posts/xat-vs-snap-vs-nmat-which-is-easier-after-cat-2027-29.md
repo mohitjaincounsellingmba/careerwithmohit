@@ -24,8 +24,7 @@ ab_test:
 category: Exams
 description: >-
   Confused between XAT, SNAP, and NMAT after CAT 2026? Compare syllabus,
-  difficulty level, time management, target colleges (XLRI, SIBM, NMIMS), and
-  scoring strategy.
+  difficulty level, time management, target colleges (XLRI, SIBM, NMIMS).
 keywords:
   - XAT vs SNAP vs NMAT
   - Which exam is easier after CAT

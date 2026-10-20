@@ -2,7 +2,9 @@
 title: 'IIM Rohtak MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Rohtak MBA review with audited ₹19.27 LPA placements, ₹18.50L fees, CAT cutoffs, and admission strategy from Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Rohtak MBA review with audited ₹19.27 LPA placements,
+  ₹18.50L fees, CAT cutoffs, and admission strategy from Mohit Jain.
 keywords:
   - iim rohtak mba admission 2027
   - iim rohtak fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Rohtak in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Rohtak stands at ₹19.27 LPA, with the median CTC benchmarked at ₹17.50 LPA. The top 10% of the batch secured an average salary of ₹34.80 LPA, while the highest domestic offer reached ₹48.25 LPA.
+      The verified average placement package at IIM Rohtak stands at ₹19.27 LPA,
+      with the median CTC benchmarked at ₹17.50 LPA. The top 10% of the batch
+      secured an average salary of ₹34.80 LPA, while the highest domestic offer
+      reached ₹48.25 LPA.
   - question: Does IIM Rohtak participate in the IIM CAP admission process?
     answer: >-
-      No. IIM Rohtak conducts its own independent admission process (Non-CAP). Candidates must apply directly on the IIM Rohtak portal using their CAT registration details after the CAT results are declared.
+      No. IIM Rohtak conducts its own independent admission process (Non-CAP).
+      Candidates must apply directly on the IIM Rohtak portal using their CAT
+      registration details after the CAT results are declared.
   - question: What is the total fee structure for the MBA/PGP program at IIM Rohtak?
     answer: >-
-      The total course fee for the 2-year full-time PGP (MBA) program at IIM Rohtak is approximately ₹18.50 Lakhs, which covers academic tuition, air-conditioned hostel accommodation, digital library access, and course case studies.
+      The total course fee for the 2-year full-time PGP (MBA) program at IIM
+      Rohtak is approximately ₹18.50 Lakhs, which covers academic tuition,
+      air-conditioned hostel accommodation, digital library access, and course
+      case studies.
   - question: What is the CAT cutoff for IIM Rohtak admission 2027?
     answer: >-
-      The minimum CAT cutoff for shortlisting at IIM Rohtak is generally 95+ percentile for General category candidates, with sectional cutoffs around 70+ percentile. Final calls emphasize academic diversity and personal interview scores.
+      The minimum CAT cutoff for shortlisting at IIM Rohtak is generally 95+
+      percentile for General category candidates, with sectional cutoffs around
+      70+ percentile. Final calls emphasize academic diversity and personal
+      interview scores.
   - question: What makes IIM Rohtak's student batch profile unique?
     answer: >-
-      IIM Rohtak is globally recognized for industry-leading gender diversity, maintaining approximately 70% female representation in its flagship PGP cohort alongside diverse educational backgrounds spanning engineering, commerce, economics, and humanities.
+      IIM Rohtak is globally recognized for industry-leading gender diversity,
+      maintaining approximately 70% female representation in its flagship PGP
+      cohort alongside diverse educational backgrounds spanning engineering,
+      commerce, economics, and humanities.
 location: Rohtak
 state: Haryana
 ---
 
-# [IIM Rohtak](/colleges/iim-rohtak/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Rohtak](/colleges/iim-rohtak/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Strategic Location**: Established in 2009, **IIM Rohtak** operates from a 200-acre permanent green campus in Sunaria (Rohtak, Haryana / Delhi-NCR), holding **NIRF Rank #12** and prestigious **AMBA accreditation**.

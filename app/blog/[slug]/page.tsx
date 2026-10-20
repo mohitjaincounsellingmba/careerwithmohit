@@ -232,7 +232,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!postData) return {};
 
   const cleanedTitle = cleanMarkdown(postData.title);
-  const postTitle = cleanedTitle;
+  // Strip any trailing brand suffix to prevent duplicate "| CareerWithMohit | CareerWithMohit" from layout template
+  let postTitle = cleanedTitle.replace(/\s*\|\s*CareerWithMohit\s*$/i, "").trim();
   
   // Fallback description from content if frontmatter description is missing
   let postDescription = postData.description ? cleanMarkdown(postData.description) : "";
@@ -241,6 +242,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
   postDescription = postDescription || `Expert analysis on ${cleanedTitle}. Detailed insights, placements 2025, and admission strategy for 2027 by Mohit Jain.`;
   
+  // Enforce Google SERP optimal snippet length (max 160 chars) without mid-word cutoff
+  if (postDescription.length > 160) {
+    const truncated = postDescription.substring(0, 157);
+    const lastSpace = truncated.lastIndexOf(" ");
+    postDescription = (lastSpace > 120 ? truncated.substring(0, lastSpace) : truncated) + "...";
+  }
+
   const postUrl = `https://careerwithmohit.online/blog/${slug}/`;
   const cleanedKeywords = (postData.keywords || []).map(kw => cleanMarkdown(kw));
 
@@ -534,6 +542,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
             components={{
+              h1: ({ node, ...props }) => (
+                <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
+              ),
               h2: ({ node, ...props }) => (
                 <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
               ),

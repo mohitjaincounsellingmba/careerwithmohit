@@ -4,9 +4,7 @@ date: '2026-04-14'
 category: B.Tech
 description: >-
   Thinking of joining Scaler or Newton School of Technology for B.Tech? Read
-  this honest review highlighting the negative points, degree validity risks,
-  and the high fee structure before you decide for 2026-2027 admissions & career
-  guidance.
+  this honest review highlighting the negative points, degree validity risks.
 keywords:
   - scaler school of technology negative review
   - newton school of technology btech cons

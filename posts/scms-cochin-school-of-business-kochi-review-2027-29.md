@@ -1,12 +1,11 @@
 ---
 title: >-
-  SCMS Group of Institutions (SCMS Cochin School of Business), Kochi Review 2027–29: Placements, Fees, Courses & Admission
+  SCMS Group of Institutions (SCMS Cochin School of Business), Kochi Review
+  2027–29: Placements, Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of SCMS Group of Institutions (SCMS Cochin School of
-  Business), Kochi (Kochi (Muttom / Aluva)) for 2026. Check latest fee
-  structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  Business), Kochi (Kochi (Muttom / Aluva)) for 2026.
 keywords:
   - SCMS Cochin School of Business review 2027–29
   - SCMS Cochin School of Business placements 2027–29

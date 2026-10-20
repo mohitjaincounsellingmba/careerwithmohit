@@ -6,8 +6,7 @@ date: '2026-07-21'
 category: Medical/MBBS
 description: >-
   Complete guide on MBBS (6-Year MD) in Poland for Indian students 2026. Top
-  European medical universities, English medium, total fees (€11k-€14k/yr), EU
-  medical license, and NMC compliance.
+  European medical universities, English medium, total fees (€11k-€14k/yr).
 keywords:
   - mbbs colleges in poland 2026
   - mbbs in poland fees for indian students

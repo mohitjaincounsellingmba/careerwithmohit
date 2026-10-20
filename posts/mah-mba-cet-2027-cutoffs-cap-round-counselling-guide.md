@@ -5,7 +5,7 @@ category: Exams
 description: >-
   Complete guide to MAH MBA CET 2027 cutoffs, score vs percentile mapping, CAP
   round registration process, Option Form strategy, and OMS quota rules for
-  JBIMS, SIMSREE, PUMBA & top b-schools.
+  JBIMS.
 keywords:
   - MAH MBA CET 2027 cutoffs
   - JBIMS MBA CET cutoff percentile 2027

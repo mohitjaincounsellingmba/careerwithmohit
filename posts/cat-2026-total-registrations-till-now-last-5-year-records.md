@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-10'
 description: >-
   Comprehensive report on CAT 2026 total registrations till now, closing date
-  trends, and last 5-year official records of registered vs appeared candidates,
-  attendance rates, and competition analysis.
+  trends, and last 5-year official records of registered vs appeared candidates.
 keywords:
   - CAT 2026 total registration till now
   - CAT registration last 5 years
@@ -54,7 +53,7 @@ faqs:
       solving around 27 to 30 questions with 90%+ accuracy.
 ---
 
-# CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics
+## CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **CAT 2026 Application Velocity**: With the registration portal closing in mid-September 2026, total applications are pacing toward **3.15 to 3.30 Lakh candidates**, maintaining the high-volume surge witnessed over recent cycles.

@@ -3,9 +3,8 @@ title: How to Verify if an Online MBA is UGC-Entitled and AICTE-Approved
 date: '2026-06-02'
 category: Online Degrees
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for How to Verify
-  if an Online MBA is UGC-Entitled and AICTE-Approved. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for How to Verify if an Online MBA is UGC-Entitled and A...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - verify online MBA approval UGC
   - AICTE approved online MBA

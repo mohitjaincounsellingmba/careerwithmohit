@@ -2,10 +2,8 @@
 title: 'Top MBA Colleges Accepting MAT 2027–29: Fees, Results, and Expected Cutoffs'
 date: '2026-03-12'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Top MBA
-  Colleges Accepting MAT 2026: Fees, Results, and Expected Cutoffs. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Top MBA Colleges Accepting MAT 2027–29: Fees, Result...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MAT 2026 MBA colleges
   - MAT exam results 2026

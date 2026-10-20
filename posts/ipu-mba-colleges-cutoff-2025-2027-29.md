@@ -3,9 +3,8 @@ title: 'IPU MBA Cutoffs 2027–29-2026 — Expected CAT, CMAT & IPU CET Ranks'
 date: '2026-04-23'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for IPU MBA
-  Cutoffs 2025-2026 — Expected CAT, CMAT & IPU CET Ranks. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for IPU MBA Cutoffs 2027–29-2026 — Expected CAT, CMAT & ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - ipu mba cutoff 2027–29
   - ggsipu mba cat cutoff

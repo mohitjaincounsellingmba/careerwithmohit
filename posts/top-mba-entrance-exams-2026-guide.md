@@ -3,8 +3,7 @@ title: 'Top MBA Entrance Exams 2027–29: Dates, Fees, Placements & Application 
 date: '2026-03-14'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Ghaziabad, Delhi NCR. Get details on top colleges under GGSIPU,
-  DU, and pri for 2026-2027 admissions & career guidance.
+  colleges in Ghaziabad, Delhi NCR.
 keywords:
   - MBA entrance exams 2027–29
   - CAT 2025 exam date

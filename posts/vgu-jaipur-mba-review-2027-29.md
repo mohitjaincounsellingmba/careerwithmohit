@@ -1,11 +1,11 @@
 ---
-title: 'Vivekananda Global University (VGU) Jaipur MBA Review 2027–29: Placements & Fees'
+title: >-
+  Vivekananda Global University (VGU) Jaipur MBA Review 2027–29: Placements &
+  Fees
 date: '2026-03-20'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Vivekananda
-  Global University (VGU) Jaipur MBA Review 2027–29: Placements & Fees. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for Vivekananda Global University (VGU) Jaipur MBA Revie...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - VGU Jaipur MBA review
   - VGU Jaipur placements 2027–29

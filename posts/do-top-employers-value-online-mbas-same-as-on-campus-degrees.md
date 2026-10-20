@@ -4,8 +4,7 @@ date: '2026-06-02'
 category: Online Degrees
 description: >-
   Discover how top employers in India view Online MBA degrees vs on-campus
-  programs in 2026. Learn about UGC equivalence rules, recruitment trends, and
-  brand values.
+  programs in 2026. Learn about UGC equivalence rules, recruitment trends.
 keywords:
   - online MBA value employers
   - is online MBA respected by companies

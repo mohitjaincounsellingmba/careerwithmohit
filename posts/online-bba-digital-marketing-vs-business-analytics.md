@@ -6,8 +6,7 @@ date: '2026-06-02'
 category: BBA
 description: >-
   Choosing between an Online BBA in Digital Marketing and Business Analytics?
-  Compare entry-level salaries, course contents, and job scopes in India for
-  2026-2027 admissions & career guidance.
+  Compare entry-level salaries, course contents.
 keywords:
   - online BBA digital marketing vs business analytics
   - best BBA specializations 2026

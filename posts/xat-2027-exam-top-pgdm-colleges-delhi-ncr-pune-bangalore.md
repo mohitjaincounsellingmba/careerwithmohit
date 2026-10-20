@@ -5,8 +5,7 @@ title: >-
 date: '2026-09-03'
 description: >-
   Explore top PGDM colleges accepting XAT 2027 and XAT exam scores in Delhi NCR,
-  Pune, Bangalore, and Mumbai. Check XLRI, IMT, FORE, BIMTECH, GIM, TAPMI, and
-  Lexicon MILE.
+  Pune, Bangalore, and Mumbai.
 keywords:
   - xat 2027
   - xat exam
@@ -52,7 +51,7 @@ location: Delhi NCR
 state: Delhi NCR
 category: Exams
 ---
-# XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores
+## XAT 2027: Top PGDM Colleges in Delhi NCR, Pune & Bangalore Accepting XAT Exam Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Tier XAT Institutions:** [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)/Delhi (95+ %ile), IMT Ghaziabad (90+ %ile), XIMB (91+ %ile), and GIM Goa (85+ %ile).

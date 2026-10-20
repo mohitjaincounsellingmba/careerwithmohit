@@ -3,9 +3,9 @@ title: Top MBA Marketing Colleges in Delhi NCR 2027–29 — Placements & Fees
 date: '2026-07-17'
 category: Exams
 description: >-
-  Looking for the best MBA Marketing colleges in Delhi NCR? Read our 2027–29 guide
-  comparing top institutions like FMS, MDI, IMT Ghaziabad, FORE, and LBSIM,
-  including fees and placements.
+  Looking for the best MBA Marketing colleges in Delhi NCR? Read our 2027–29
+  guide comparing top institutions like FMS, MDI, IMT Ghaziabad, FORE, and
+  LBSIM.
 keywords:
   - top mba marketing colleges in delhi ncr 2027–29
   - best mba marketing in delhi ncr

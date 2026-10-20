@@ -2,7 +2,9 @@
 title: 'XLRI Jamshedpur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 XLRI Jamshedpur PGDM review with audited ₹29.89 LPA placements, ₹28.00L fees, XAT cutoffs, and admissions ROI tips by Mohit Jain.'
+description: >-
+  Read verified 2027 XLRI Jamshedpur PGDM review with audited ₹29.89 LPA
+  placements, ₹28.00L fees, XAT cutoffs, and admissions ROI tips by Mohit Jain.
 keywords:
   - xlri jamshedpur pgdm admission 2027
   - xlri jamshedpur fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at XLRI Jamshedpur in 2026-2027?
     answer: >-
-      The verified overall average CTC at XLRI Jamshedpur stands at ₹29.89 LPA across its PGDM-BM and PGDM-HRM cohorts (with median CTC at ₹28.00 LPA to ₹30.00 LPA). The top 10% of the batch secured an average salary of ₹44.50 LPA, while the highest domestic offer reached ₹75.00 LPA.
+      The verified overall average CTC at XLRI Jamshedpur stands at ₹29.89 LPA
+      across its PGDM-BM and PGDM-HRM cohorts (with median CTC at ₹28.00 LPA to
+      ₹30.00 LPA). The top 10% of the batch secured an average salary of ₹44.50
+      LPA, while the highest domestic offer reached ₹75.00 LPA.
   - question: What entrance exams are accepted for admission at XLRI Jamshedpur?
     answer: >-
-      XLRI Jamshedpur strictly accepts the Xavier Aptitude Test (XAT) for Indian candidates (and GMAT/GRE for NRI/Foreign applicants). CAT scores are not accepted.
+      XLRI Jamshedpur strictly accepts the Xavier Aptitude Test (XAT) for Indian
+      candidates (and GMAT/GRE for NRI/Foreign applicants). CAT scores are not
+      accepted.
   - question: What is the total fee structure for PGDM at XLRI Jamshedpur?
     answer: >-
-      The total course fee for the 2-year full-time residential PGDM (BM / HRM) program at XLRI Jamshedpur is approximately ₹28.00 Lakhs, which covers tuition, single-occupancy hostel accommodations, digital library resources, and case study packs.
+      The total course fee for the 2-year full-time residential PGDM (BM / HRM)
+      program at XLRI Jamshedpur is approximately ₹28.00 Lakhs, which covers
+      tuition, single-occupancy hostel accommodations, digital library
+      resources, and case study packs.
   - question: What is the XAT cutoff for XLRI Jamshedpur admission 2027?
     answer: >-
-      For PGDM Business Management (BM), the safe cutoff is 96 percentile for Male Engineers and 91 percentile for Female Engineers (95%ile and 90%ile for Non-Engineers). For PGDM Human Resource Management (HRM), cutoffs range from 88 to 95 percentile depending on gender and academic discipline.
+      For PGDM Business Management (BM), the safe cutoff is 96 percentile for
+      Male Engineers and 91 percentile for Female Engineers (95%ile and 90%ile
+      for Non-Engineers). For PGDM Human Resource Management (HRM), cutoffs
+      range from 88 to 95 percentile depending on gender and academic
+      discipline.
   - question: How does XLRI HRM compare to IIMs and TISS?
     answer: >-
-      XLRI's PGDM-HRM is widely acknowledged as the #1 Human Resource Management program in Asia, attracting exclusive leadership development pipelines and CHRO-track recruitment from global conglomerates like TAS, Unilever, McKinsey, and Aditya Birla Group.
+      XLRI's PGDM-HRM is widely acknowledged as the #1 Human Resource Management
+      program in Asia, attracting exclusive leadership development pipelines and
+      CHRO-track recruitment from global conglomerates like TAS, Unilever,
+      McKinsey, and Aditya Birla Group.
 location: Jamshedpur
 state: Jharkhand
 ---
 
-# [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Prestige**: Founded in 1949 as India's oldest business school, **XLRI Xavier School of Management** (Jamshedpur, Jharkhand) holds **NIRF Rank #9** with prestigious dual **AACSB and AMBA accreditations**.

@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free RPSC RAS Prelims 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 150 questions, 180 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - RPSC RAS Prelims 2026 mock test free
   - rpsc-ras practice paper 2026

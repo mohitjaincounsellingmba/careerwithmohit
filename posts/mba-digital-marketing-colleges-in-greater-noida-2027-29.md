@@ -1,11 +1,12 @@
 ---
-title: Top MBA Digital Marketing Colleges in Greater Noida 2027–29 — Placements & Fees
+title: >-
+  Top MBA Digital Marketing Colleges in Greater Noida 2027–29 — Placements &
+  Fees
 date: '2026-07-17'
 category: Jobs & Careers
 description: >-
   Compare the best MBA Digital Marketing colleges in Greater Noida. Get details
-  on fees, placements, and programs for BIMTECH, Sharda, GNIOT, and GL Bajaj for
-  2026-2027 admissions & career guidance.
+  on fees, placements, and programs for BIMTECH, Sharda, GNIOT.
 keywords:
   - top mba digital marketing colleges in greater noida 2027–29
   - best digital marketing mba in greater noida

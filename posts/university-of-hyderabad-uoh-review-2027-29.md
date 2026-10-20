@@ -3,8 +3,7 @@ title: 'University of Hyderabad (UoH) Review 2027–29: Fees, Placements & CUET 
 date: '2026-05-24'
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU,
-  and priva for 2026-2027 admissions & career guidance.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
 keywords:
   - University of Hyderabad admission 2026
   - UoH placements 2027–29

@@ -6,10 +6,7 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Comprehensive Rajagiri Centre for Business Studies (RCBS Kochi) (Kochi,
-  Kerala) review for 2027 admissions. Explore audited fee structure (₹7.50 Lakhs
-  (Total)), latest placement packages (Avg: ₹7.80 LPA, Highest: ₹16.50 LPA),
-  entrance exam cutoffs (CAT, CMAT, KMAT Kerala, MAT), NIRF ranking, and student
-  verdict.
+  Kerala) review for 2027 admissions.
 keywords:
   - rajagiri centre for business studies (rcbs kochi) review 2027
   - rajagiri centre for business studies (rcbs kochi) mba fees
@@ -57,7 +54,7 @@ location: Kochi
 state: Kerala
 ---
 
-# [Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
+## [Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies/) Review 2027: Fees, Placements, Cutoff, Ranking & Honest Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via **CAT, CMAT, KMAT Kerala, MAT** followed by structured WAT-PI / GD-PI merit shortlisting rounds.

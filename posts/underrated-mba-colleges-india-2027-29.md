@@ -3,8 +3,7 @@ title: 'Top Underrated MBA Colleges in India (2026): High ROI & Placements'
 date: '2026-04-26'
 description: >-
   Discover the best underrated MBA colleges in India for 2027–29 that offer an
-  incredible Return on Investment (ROI), low fees, and excellent placements
-  compared to top-tier IIMs.
+  incredible Return on Investment (ROI), low fees.
 keywords:
   - underrated MBA colleges in India
   - best ROI MBA colleges 2027–29

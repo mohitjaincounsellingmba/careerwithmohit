@@ -7,7 +7,7 @@ category: Exams
 description: >-
   Attempt our 100% Free NABARD Grade A 2026 Mock Test 2026. Realistic
   computer-based exam simulator, 200 questions, 120 minutes, instant AI score
-  analysis, and target percentiles.
+  analysis.
 keywords:
   - NABARD Grade A 2026 mock test free
   - nabard-grade-a practice paper 2026

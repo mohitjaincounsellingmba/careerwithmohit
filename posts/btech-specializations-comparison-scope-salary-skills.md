@@ -4,9 +4,7 @@ date: '2026-05-20'
 category: B.Tech
 description: >-
   Confused about choosing your B.Tech engineering branch? Read our comprehensive
-  comparison of Computer Science, AI-ML, ECE, Mechanical, Civil, and EEE with
-  their future scope, salaries, and key skills for 2026-2027 admissions & career
-  guidance.
+  comparison of Computer Science, AI-ML, ECE, Mechanical, Civil.
 keywords:
   - B.Tech specializations comparison
   - best engineering branches in India

@@ -3,8 +3,7 @@ title: 'Vishwakarma University Review 2027–29: Placements, Fees, Courses & Adm
 date: '2026-08-03'
 description: >-
   Comprehensive review of Vishwakarma University (Pune) for 2026. Check latest
-  fee structure, flagship courses, placement statistics, top recruiters, and
-  admission process.
+  fee structure, flagship courses, placement statistics, top recruiters.
 keywords:
   - Vishwakarma University (VU Pune) review 2027–29
   - Vishwakarma University (VU Pune) placements 2027–29

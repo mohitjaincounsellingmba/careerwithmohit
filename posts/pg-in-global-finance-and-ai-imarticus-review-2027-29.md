@@ -5,10 +5,8 @@ title: >-
 date: '2026-07-28'
 category: Exams
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for PG in Global
-  Finance & AI Imarticus (ISFB) Review 2027–29: Fees, Placements, Curriculum & IIM
-  Vizag Alumni Status. Check updated fees, placement records, real cutoffs, and
-  selection tips by Mohit Jain.
+  2027 guide for PG in Global Finance & AI Imarticus (ISFB) Review 20...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - pg in global finance and ai
   - imarticus pg in global finance
@@ -56,7 +54,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# PG in Global Finance & AI Imarticus (ISFB) Review 2027–29: Fees, Placements, Curriculum & IIM Vizag Alumni Status
+## PG in Global Finance & AI Imarticus (ISFB) Review 2027–29: Fees, Placements, Curriculum & IIM Vizag Alumni Status
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.

@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Looking for the best MBA FinTech colleges in Delhi NCR? Read our 2027–29 guide
-  comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes, and IMI
-  Delhi, including fees and placements.
+  comparing top B-schools like MDI Gurgaon, LBSIM, FORE, Great Lakes.
 keywords:
   - top mba fintech colleges in delhi ncr 2027–29
   - best mba fintech in delhi ncr

@@ -2,10 +2,8 @@
 title: 'DY Patil University (GBSRC) Pune Review 2027–29: Placements & Academic Legacy'
 date: '2026-03-14'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for DY Patil
-  University (GBSRC) Pune Review 2027–29: Placements & Academic Legacy. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for DY Patil University (GBSRC) Pune Review 2027–29: Pla...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - DY Patil University Pune review 2027–29
   - GBSRC Pune placements

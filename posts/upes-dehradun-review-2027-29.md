@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of UPES (University of Petroleum and Energy Studies),
-  Dehradun (Dehradun) for 2026. Check latest fee structure, flagship courses,
-  placement statistics, top recruiters, and admission process.
+  Dehradun (Dehradun) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - UPES Dehradun review 2027–29
   - UPES Dehradun placements 2027–29

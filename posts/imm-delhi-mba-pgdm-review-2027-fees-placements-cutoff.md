@@ -1,8 +1,10 @@
 ---
-title: "IMM Delhi PGDM Review 2027: Fees, Cutoff & Placements"
+title: 'IMM Delhi PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
 category: MBA Admissions
-description: "Read verified 2027 IMM Delhi PGDM review with audited ₹7.50L placements, ₹8.90L fees, entrance cutoffs, and direct admission advice from Mohit Jain."
+description: >-
+  Read verified 2027 IMM Delhi PGDM review with audited ₹7.50L placements,
+  ₹8.90L fees, entrance cutoffs, and direct admission advice from Mohit Jain.
 keywords:
   - imm delhi pgdm review 2027
   - imm qutab institutional area fees structure 2027
@@ -13,26 +15,47 @@ keywords:
   - best pgdm colleges in south delhi
   - mohit jain mba admissions counselor
 faqs:
-  - question: What is the audited average placement package at IMM Delhi (Qutab Institutional Area)?
+  - question: >-
+      What is the audited average placement package at IMM Delhi (Qutab
+      Institutional Area)?
     answer: >-
-      The verified overall average placement package across graduating PGDM cohorts at Institute of Marketing & Management (IMM Delhi) stands at ₹7.50 LPA to ₹8.00 LPA. The median CTC is benchmarked at ₹7.20 LPA, with top 20% performers securing ₹10.50 LPA and peak domestic offers reaching ₹18.00 LPA.
-  - question: What entrance exams and cutoffs are accepted for PGDM admission at IMM Delhi?
+      The verified overall average placement package across graduating PGDM
+      cohorts at Institute of Marketing & Management (IMM Delhi) stands at ₹7.50
+      LPA to ₹8.00 LPA. The median CTC is benchmarked at ₹7.20 LPA, with top 20%
+      performers securing ₹10.50 LPA and peak domestic offers reaching ₹18.00
+      LPA.
+  - question: >-
+      What entrance exams and cutoffs are accepted for PGDM admission at IMM
+      Delhi?
     answer: >-
-      IMM Delhi accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative cutoff thresholds range between 60.0 and 65.0 percentile, followed by institutional Group Discussion and Personal Interview (GD-PI) profile evaluations.
+      IMM Delhi accepts scores from CAT, MAT, XAT, CMAT, and ATMA. Indicative
+      cutoff thresholds range between 60.0 and 65.0 percentile, followed by
+      institutional Group Discussion and Personal Interview (GD-PI) profile
+      evaluations.
   - question: What is the complete fee structure for the PGDM program at IMM Delhi?
     answer: >-
-      The 2-year academic tuition fee for the flagship AICTE-approved PGDM program at IMM Delhi is approximately ₹8.90 Lakhs, payable in term installments across six trimesters. Partnered student housing facilities in Qutab Institutional Area and South Delhi range between ₹1,35,000 and ₹1,60,000 per year.
+      The 2-year academic tuition fee for the flagship AICTE-approved PGDM
+      program at IMM Delhi is approximately ₹8.90 Lakhs, payable in term
+      installments across six trimesters. Partnered student housing facilities
+      in Qutab Institutional Area and South Delhi range between ₹1,35,000 and
+      ₹1,60,000 per year.
   - question: What is the institutional heritage of IMM Delhi?
     answer: >-
-      Established in 1969, IMM Delhi is one of India's oldest private marketing management institutions, boasting over five decades of academic heritage and an extensive alumni network across multinational FMCG, retail, and advertising corporations.
+      Established in 1969, IMM Delhi is one of India's oldest private marketing
+      management institutions, boasting over five decades of academic heritage
+      and an extensive alumni network across multinational FMCG, retail, and
+      advertising corporations.
   - question: Is direct admission available under management quota at IMM Delhi?
     answer: >-
-      Yes, eligible candidates possessing a recognized graduation degree with a minimum of 50% aggregate marks (45% for reserved categories) and valid national entrance scores can apply for merit profile-based direct evaluation seats with counselor assistance.
-location: 'Qutab Institutional Area'
-state: 'New Delhi'
+      Yes, eligible candidates possessing a recognized graduation degree with a
+      minimum of 50% aggregate marks (45% for reserved categories) and valid
+      national entrance scores can apply for merit profile-based direct
+      evaluation seats with counselor assistance.
+location: Qutab Institutional Area
+state: New Delhi
 ---
 
-# [Institute of Marketing & Management (IMM Delhi)](https://careerwithmohit.online/blog/imm-delhi-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Institute of Marketing & Management (IMM Delhi)](https://careerwithmohit.online/blog/imm-delhi-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Historic standalone management institution established in 1969 in the prestigious Qutab Institutional Area, South Delhi. Approved by **AICTE**, IMM carries over 55 years of marketing leadership heritage, senior corporate alumni networks, and intensive executive grooming.

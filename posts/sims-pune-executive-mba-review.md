@@ -3,9 +3,7 @@ title: 'Symbiosis Institute of Management Studies (SIMS), Pune Executive MBA Rev
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Symbiosis
-  Institute of Management Studies (SIMS), Pune. Learn about total fees,
-  eligibility, accepted entrance exams, average packages, pros, cons, and expert
-  verdicts for 2026-2027 admissions & career guidance.
+  Institute of Management Studies (SIMS), Pune.
 keywords:
   - 'Symbiosis Institute of Management Studies (SIMS), Pune executive mba'
   - 'Symbiosis Institute of Management Studies (SIMS), Pune executive mba review'

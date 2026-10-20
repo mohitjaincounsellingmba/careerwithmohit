@@ -2,7 +2,9 @@
 title: 'IIM Sirmaur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Sirmaur MBA review with audited ₹14.45 LPA placements, ₹16.00L fees, CAT CAP cutoffs, and admissions insights by Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Sirmaur MBA review with audited ₹14.45 LPA placements,
+  ₹16.00L fees, CAT CAP cutoffs, and admissions insights by Mohit Jain.
 keywords:
   - iim sirmaur mba admission 2027
   - iim sirmaur fees structure 2027
@@ -15,24 +17,38 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Sirmaur in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Sirmaur stands at ₹14.45 LPA across all MBA programs (with recent batch ranges up to ₹15.20 LPA), while the median CTC is benchmarked at ₹13.50 LPA to ₹14.00 LPA and highest international offer reached ₹64.00 LPA.
+      The verified average placement package at IIM Sirmaur stands at ₹14.45 LPA
+      across all MBA programs (with recent batch ranges up to ₹15.20 LPA), while
+      the median CTC is benchmarked at ₹13.50 LPA to ₹14.00 LPA and highest
+      international offer reached ₹64.00 LPA.
   - question: What programs are offered at IIM Sirmaur?
     answer: >-
-      IIM Sirmaur offers its flagship Master of Business Administration (MBA General), a specialized MBA in Tourism & Hospitality Management (MBA-T&HM - India's first dedicated IIM tourism program), Executive MBA, and PhD programs.
+      IIM Sirmaur offers its flagship Master of Business Administration (MBA
+      General), a specialized MBA in Tourism & Hospitality Management (MBA-T&HM
+      - India's first dedicated IIM tourism program), Executive MBA, and PhD
+      programs.
   - question: What is the total fee structure for the MBA program at IIM Sirmaur?
     answer: >-
-      The total course fee for the 2-year full-time MBA at IIM Sirmaur is approximately ₹16.00 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, digital library databases, and case study subscriptions.
+      The total course fee for the 2-year full-time MBA at IIM Sirmaur is
+      approximately ₹16.00 Lakhs, which covers academic tuition, air-conditioned
+      single-room hostel accommodations, digital library databases, and case
+      study subscriptions.
   - question: What is the CAT cutoff for IIM Sirmaur admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates under IIM CAP is 88 to 92 percentile overall with 70+ sectional percentiles across VARC, DILR, and QA. Candidates with 90+ percentile and strong academic profiles have high conversion rates.
+      The minimum qualifying CAT cutoff for General category candidates under
+      IIM CAP is 88 to 92 percentile overall with 70+ sectional percentiles
+      across VARC, DILR, and QA. Candidates with 90+ percentile and strong
+      academic profiles have high conversion rates.
   - question: Where is IIM Sirmaur's permanent campus located?
     answer: >-
-      IIM Sirmaur operates from its expansive 210-acre permanent green campus at Dhaula Kuan, Paonta Sahib, Sirmaur district, Himachal Pradesh, surrounded by scenic Himalayan foothills and modern smart academic infrastructure.
+      IIM Sirmaur operates from its expansive 210-acre permanent green campus at
+      Dhaula Kuan, Paonta Sahib, Sirmaur district, Himachal Pradesh, surrounded
+      by scenic Himalayan foothills and modern smart academic infrastructure.
 location: Sirmaur
 state: Himachal Pradesh
 ---
 
-# [IIM Sirmaur](/colleges/iim-sirmaur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Sirmaur](/colleges/iim-sirmaur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Legacy**: Established in 2015 and mentored originally by [IIM Lucknow](/colleges/iim-lucknow/), **IIM Sirmaur** operates from an expansive 210-acre permanent green campus at Dhaula Kuan (Paonta Sahib, Himachal Pradesh), holding **NIRF Rank #57**.

@@ -3,9 +3,8 @@ title: Can I do BCA Without Maths? — Schools & Eligibility Guide 2026
 date: '2026-04-21'
 category: BCA/MCA
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Can I do BCA
-  Without Maths? — Schools & Eligibility Guide 2026. Check updated fees,
-  placement records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Can I do BCA Without Maths? — Schools & Eligibility ...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - can i do bca without maths in 12th
   - bca colleges for non maths students 2026

@@ -3,8 +3,7 @@ title: 'NIT Delhi B.Tech Admission 2026: Cutoffs, Fees & Placement Review'
 date: '2026-03-24'
 description: >-
   Planning for B.Tech at NIT Delhi? Get the latest on JEE Main 2026 cutoffs for
-  CSE, the JoSAA counselling process, detailed fee structure, and its ₹62 LPA
-  highest package.
+  CSE, the JoSAA counselling process, detailed fee structure.
 keywords:
   - NIT Delhi BTech admission 2026
   - NIT Delhi JEE Main cutoff

@@ -4,8 +4,7 @@ date: '2026-04-21'
 category: Medical/MBBS
 description: >-
   Confused about which medical college to choose? Discover the 2026 rankings of
-  top MBBS colleges including AIIMS Delhi, MAMC, and CMC Vellore. Compare fees,
-  NEET cutoffs, and hospital reputation.
+  top MBBS colleges including AIIMS Delhi, MAMC, and CMC Vellore.
 keywords:
   - top mbbs colleges in india 2026
   - best medical college india ranking

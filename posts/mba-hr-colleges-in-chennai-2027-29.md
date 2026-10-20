@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Compare the best B-schools for MBA HR in Chennai. Get details on fees,
-  placements, and eligibility for Great Lakes, LIBA, MSSW, and IIT Madras for
-  2026-2027 admissions & career guidance.
+  placements, and eligibility for Great Lakes, LIBA, MSSW.
 keywords:
   - top mba hr colleges in chennai 2027–29
   - best hr mba in chennai

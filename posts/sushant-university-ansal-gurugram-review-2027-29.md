@@ -1,12 +1,11 @@
 ---
 title: >-
-  Ansal University (Sushant University), Gurugram Review 2027–29: Placements, Fees,
-  Courses & Admission
+  Ansal University (Sushant University), Gurugram Review 2027–29: Placements,
+  Fees, Courses & Admission
 date: '2026-08-03'
 description: >-
   Comprehensive review of Ansal University (Sushant University), Gurugram
-  (Gurugram) for 2026. Check latest fee structure, flagship courses, placement
-  statistics, top recruiters, and admission process.
+  (Gurugram) for 2026. Check latest fee structure, flagship courses.
 keywords:
   - Sushant University (Ansal) Gurugram review 2027–29
   - Sushant University (Ansal) Gurugram placements 2027–29

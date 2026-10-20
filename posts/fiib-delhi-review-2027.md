@@ -6,9 +6,7 @@ date: '2026-09-10'
 category: Exams
 description: >-
   Comprehensive FIIB Delhi (Fortune Institute of International Business) review
-  for 2027–2029 admissions. Explore verified PGDM fee structure (₹12.85 Lakhs),
-  placements (avg ₹8.50–₹9.00 LPA, top 20% ₹14.0 LPA), AACSB membership,
-  cutoffs, and South Delhi campus realities.
+  for 2027–2029 admissions. Explore verified PGDM fee structure (₹12.85 Lakhs).
 keywords:
   - FIIB Delhi review 2027
   - FIIB Delhi review 2027 2029
@@ -75,7 +73,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Fortune Institute of International Business (FIIB) Delhi Review 2027–2029](/colleges/fiib-delhi/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+## [Fortune Institute of International Business (FIIB) Delhi Review 2027–2029](/colleges/fiib-delhi/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and ATMA for an approved intake of **240 seats**.

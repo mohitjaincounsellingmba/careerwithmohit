@@ -2,9 +2,8 @@
 title: 'IMI Delhi vs IMI Kolkata 2026: Is the High Fee Worth It?'
 date: '2026-03-25'
 description: >-
-  Choosing between [IMI Delhi](/colleges/imi-delhi/) and its Kolkata campus? Read
-  our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality, and average
-  placement packages.
+  Choosing between [IMI Delhi](/colleges/imi-delhi/) and its Kolkata campus?
+  Read our 2026 comparison on CAT/XAT cutoffs, ₹32L high-fee reality.
 keywords:
   - '[IMI Delhi](/colleges/imi-delhi/) vs [IMI Kolkata](/colleges/imi-kolkata/)'
   - '[IMI Delhi](/colleges/imi-delhi/) average package 2026'
@@ -27,9 +26,9 @@ keywords:
 faqs:
   - question: 'Is [IMI Kolkata](/colleges/imi-kolkata/) placements as good as Delhi?'
     answer: >-
-      No. While [IMI Kolkata](/colleges/imi-kolkata/) is an excellent choice, the
-      average package in Delhi is about ₹5-6 LPA higher. However, remember the
-      fee in Delhi is also double.
+      No. While [IMI Kolkata](/colleges/imi-kolkata/) is an excellent choice,
+      the average package in Delhi is about ₹5-6 LPA higher. However, remember
+      the fee in Delhi is also double.
   - question: Does IMI accept CMAT?
     answer: >-
       [IMI Delhi](/colleges/imi-delhi/) does not accept CMAT scores. However,

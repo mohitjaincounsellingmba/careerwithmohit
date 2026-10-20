@@ -5,8 +5,7 @@ title: >-
 date: '2026-08-03'
 description: >-
   Comprehensive review of DY Patil University, Navi Mumbai (Navi Mumbai) for
-  2026. Check latest fee structure, flagship courses, placement statistics, top
-  recruiters, and admission process.
+  2026. Check latest fee structure, flagship courses, placement statistics.
 keywords:
   - DY Patil University Navi Mumbai review 2027–29
   - DY Patil University Navi Mumbai placements 2027–29

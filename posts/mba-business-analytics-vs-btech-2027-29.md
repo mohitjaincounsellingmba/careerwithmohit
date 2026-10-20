@@ -3,10 +3,8 @@ title: 'MBA Business Analytics vs B.Tech: The Ultimate Guide for Engineering Stu
 date: '2026-04-10'
 category: B.Tech
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for MBA Business
-  Analytics vs B.Tech: The Ultimate Guide for Engineering Students. Check
-  updated fees, placement records, real cutoffs, and selection tips by Mohit
-  Jain.
+  2027 guide for MBA Business Analytics vs B.Tech: The Ultimate Guide...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - MBA Business Analytics vs BTech
   - Business Analytics after engineering

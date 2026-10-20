@@ -2,7 +2,9 @@
 title: 'IIM Shillong MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-26'
 category: MBA
-description: 'Read verified 2027 IIM Shillong MBA review with audited ₹26.10 LPA placements, ₹18.00L fees, CAT cutoffs, and admissions ROI strategy from Mohit Jain.'
+description: >-
+  Read verified 2027 IIM Shillong MBA review with audited ₹26.10 LPA placements,
+  ₹18.00L fees, CAT cutoffs, and admissions ROI strategy from Mohit Jain.
 keywords:
   - iim shillong mba admission 2027
   - iim shillong fees structure 2027
@@ -15,24 +17,39 @@ keywords:
 faqs:
   - question: What is the average placement package at IIM Shillong in 2026-2027?
     answer: >-
-      The verified average placement package at IIM Shillong stands at ₹26.10 LPA (with median package at ₹25.00 LPA and recent batch highs of ₹26.96 LPA). The top 10% of the batch secured an average CTC of ₹39.60 LPA, while the highest domestic offer reached ₹71.30 LPA.
+      The verified average placement package at IIM Shillong stands at ₹26.10
+      LPA (with median package at ₹25.00 LPA and recent batch highs of ₹26.96
+      LPA). The top 10% of the batch secured an average CTC of ₹39.60 LPA, while
+      the highest domestic offer reached ₹71.30 LPA.
   - question: Does IIM Shillong participate in the IIM CAP admission process?
     answer: >-
-      No. IIM Shillong conducts its own independent shortlisting and personal interview process (Non-CAP). Candidates who apply for IIM Shillong during CAT registration are shortlisted directly based on the institute's specific composite criteria.
+      No. IIM Shillong conducts its own independent shortlisting and personal
+      interview process (Non-CAP). Candidates who apply for IIM Shillong during
+      CAT registration are shortlisted directly based on the institute's
+      specific composite criteria.
   - question: What is the total fee structure for the PGP/MBA program at IIM Shillong?
     answer: >-
-      The total course fee for the 2-year full-time residential PGP at IIM Shillong is approximately ₹18.00 Lakhs, which covers academic tuition, air-conditioned single-room hostel accommodations, digital library databases, and case study subscriptions.
+      The total course fee for the 2-year full-time residential PGP at IIM
+      Shillong is approximately ₹18.00 Lakhs, which covers academic tuition,
+      air-conditioned single-room hostel accommodations, digital library
+      databases, and case study subscriptions.
   - question: What is the CAT cutoff for IIM Shillong admission 2027?
     answer: >-
-      The minimum qualifying CAT cutoff for General category candidates is 95+ percentile overall with 75+ sectional percentiles across VARC, DILR, and QA. Final interview shortlisting typically requires 96 to 98+ percentile depending on academic diversity.
+      The minimum qualifying CAT cutoff for General category candidates is 95+
+      percentile overall with 75+ sectional percentiles across VARC, DILR, and
+      QA. Final interview shortlisting typically requires 96 to 98+ percentile
+      depending on academic diversity.
   - question: Where is IIM Shillong's permanent campus located?
     answer: >-
-      IIM Shillong operates from its picturesque 120-acre permanent green campus at Umsawli, New Shillong, Meghalaya, equipped with state-of-the-art smart lecture theaters, Bloomberg finance labs, sports complexes, and eco-sustainable student residences.
+      IIM Shillong operates from its picturesque 120-acre permanent green campus
+      at Umsawli, New Shillong, Meghalaya, equipped with state-of-the-art smart
+      lecture theaters, Bloomberg finance labs, sports complexes, and
+      eco-sustainable student residences.
 location: Shillong
 state: Meghalaya
 ---
 
-# [IIM Shillong](/colleges/iim-shillong/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IIM Shillong](/colleges/iim-shillong/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Prestige**: Established in 2007 as the 7th IIM in India (Rajiv Gandhi Indian Institute of Management), **IIM Shillong** operates from a majestic 120-acre permanent campus at Umsawli (New Shillong, Meghalaya), holding **NIRF Rank #24** and international **AMBA accreditation**.

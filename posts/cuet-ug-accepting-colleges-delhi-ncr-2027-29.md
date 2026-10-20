@@ -3,8 +3,7 @@ title: 'Top CUET UG Accepting Colleges in Delhi NCR 2026: The Ultimate Guide'
 date: '2026-04-05'
 description: >-
   Planning your undergraduate studies in the national capital? Discover the top
-  colleges and universities in Delhi NCR accepting CUET UG 2026 scores,
-  including DU, JNU, and Jamia.
+  colleges and universities in Delhi NCR accepting CUET UG 2026 scores.
 keywords:
   - CUET UG colleges in Delhi NCR 2026
   - Delhi University CUET 2026

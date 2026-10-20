@@ -4,9 +4,7 @@ date: '2026-09-26'
 category: Exams
 description: >-
   Verified 2027 MBA review for IFMR Graduate School of Business (Krea
-  University) (Sri City, Andhra Pradesh). Check audited fees (₹14.50 Lakhs
-  (Total)), average placement (₹13.50 LPA), entrance cutoffs (200+ NMAT / 80+
-  CAT %ile / 80+ XAT %ile / 85+ CMAT), and admission tips by Mohit Jain.
+  University) (Sri City, Andhra Pradesh).
 keywords:
   - ifmr graduate school of business (krea university) mba admission 2027
   - ifmr graduate school of business (krea university) fees structure 2027
@@ -49,7 +47,7 @@ location: Sri City
 state: Andhra Pradesh
 ---
 
-# [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/) Review 2027: Fees, Cutoff, Placements & Admission ROI
+## [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management destination in **Sri City, Andhra Pradesh** recognized for academic rigor (SAQS Accredited · AICTE & UGC Approved) and industry-aligned specializations in **MBA (2 Years Full-Time)**.

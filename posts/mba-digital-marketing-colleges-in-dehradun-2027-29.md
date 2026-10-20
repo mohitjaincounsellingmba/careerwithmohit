@@ -3,9 +3,8 @@ title: Top MBA Digital Marketing Colleges in Dehradun 2027–29 — Placements &
 date: '2026-07-17'
 category: Exams
 description: >-
-  Explore the best MBA colleges for Digital Marketing in Dehradun. Read our 2027–29
-  guide on UPES, Doon Business School, and Graphic Era fees, packages, and
-  eligibility.
+  Explore the best MBA colleges for Digital Marketing in Dehradun. Read our
+  2027–29 guide on UPES, Doon Business School, and Graphic Era fees, packages.
 keywords:
   - top mba digital marketing colleges in dehradun 2027–29
   - best mba digital marketing dehradun

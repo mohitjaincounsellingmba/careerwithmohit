@@ -4,8 +4,7 @@ date: '2026-05-23'
 category: Online Degrees
 description: >-
   Looking for affordable MBA options? Check out our list of the best low fees
-  MBA colleges in Delhi NCR for 2027–29, comparing tuition fees and placement
-  packages.
+  MBA colleges in Delhi NCR for 2027–29, comparing tuition fees and placement...
 keywords:
   - Low Fees MBA Colleges in Delhi NCR
   - affordable mba colleges in delhi

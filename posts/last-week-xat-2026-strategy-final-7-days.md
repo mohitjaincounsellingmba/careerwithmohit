@@ -2,9 +2,8 @@
 title: 'Last‑Week XAT 2026 Strategy: What to Do in the Final 7 Days'
 date: '2026-05-21'
 description: >-
-  Comprehensive expert analysis and 2026-2027 admission guide for Last‑Week XAT
-  2026 Strategy: What to Do in the Final 7 Days. Check updated fees, placement
-  records, real cutoffs, and selection tips by Mohit Jain.
+  2027 guide for Last‑Week XAT 2026 Strategy: What to Do in the Final...: Check
+  fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
   - XAT 2026 preparation
   - last week XAT strategy

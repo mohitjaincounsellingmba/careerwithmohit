@@ -5,7 +5,6 @@ category: B.Tech
 description: >-
   Find the best B.Tech engineering colleges in Noida 2026 with fees, IPU
   CET/AKTU cutoffs, placement packages & direct admission options.
-  Expert-verified list for Noida & Greater Noida.
 keywords:
   - top btech colleges in noida
   - best engineering colleges noida 2026
@@ -49,9 +48,9 @@ faqs:
   - question: Can I get B.Tech in Noida without JEE Main?
     answer: >-
       Yes. [Bennett University](/colleges/bennett-greater-noida/), [Amity
-      University](/colleges/amity-noida/), IILM, and several AKTU colleges accept
-      students without a JEE score through board merit or direct admission for
-      management quota seats.
+      University](/colleges/amity-noida/), IILM, and several AKTU colleges
+      accept students without a JEE score through board merit or direct
+      admission for management quota seats.
   - question: What is the fee for B.Tech at JIIT Noida?
     answer: >-
       JIIT charges approximately ₹2.1 Lakhs per year. Total B.Tech programme

@@ -4,8 +4,7 @@ date: '2026-07-17'
 category: Exams
 description: >-
   Compare the best B-schools for MBA Operations in Chennai. Get details on fees,
-  placements, and cutoffs for Great Lakes, DoMS IIT Madras, and LIBA Chennai for
-  2026-2027 admissions & career guidance.
+  placements, and cutoffs for Great Lakes, DoMS IIT Madras.
 keywords:
   - top mba operations colleges in chennai 2027–29
   - best operations mba in chennai

@@ -4,8 +4,7 @@ date: '2026-04-13'
 description: >-
   Looking for the best private institutions for Master of Arts (MA) in Delhi
   NCR? Explore top colleges in Noida, Gurgaon, and Sonipat including Ashoka,
-  Amity, and O.P. Jindal. Get insights on specializations and career scope for
-  2026-2027 admissions & career guidance.
+  Amity.
 keywords:
   - Private MA colleges Delhi NCR
   - Best private universities for MA Economics

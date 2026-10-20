@@ -3,8 +3,7 @@ title: 'B.Tech at Doon Institute (DIET) Dehradun: Admission 2026, Fees & Review'
 date: '2026-03-24'
 description: >-
   Everything you need to know about Doon Institute of Engineering and Technology
-  (DIET) Dehradun B.Tech admission 2026. Check the latest JEE Main cutoffs,
-  affordable fee structure, and placement review.
+  (DIET) Dehradun B.Tech admission 2026.
 keywords:
   - Doon Institute of Engineering and Technology BTech admission 2026
   - DIET Dehradun fees

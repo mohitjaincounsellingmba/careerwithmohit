@@ -6,8 +6,7 @@ date: '2026-05-11'
 description: >-
   Discover the unique selling points of SOIL School of Inspired Leadership
   Gurgaon for 2026 — co-created by 32 MNCs, ₹12.3 LPA average package, Morning
-  Circle, Social Innovation Program, and a leadership-first curriculum. Find out
-  why SOIL stands out from every other B-school.
+  Circle.
 keywords:
   - USP of SOIL Gurgaon
   - SOIL School of Inspired Leadership 2026

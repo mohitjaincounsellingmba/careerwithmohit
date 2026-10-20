@@ -6,7 +6,7 @@ date: '2026-08-03'
 description: >-
   Comprehensive review of Gitam University, Hyderabad Campus (Hyderabad
   (Rudraram / Patancheru)) for 2026. Check latest fee structure, flagship
-  courses, placement statistics, top recruiters, and admission process.
+  courses.
 keywords:
   - GITAM University Hyderabad review 2027–29
   - GITAM University Hyderabad placements 2027–29

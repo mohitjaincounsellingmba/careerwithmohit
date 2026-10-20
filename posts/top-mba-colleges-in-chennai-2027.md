@@ -4,8 +4,7 @@ date: '2026-09-25'
 category: MBA
 description: >-
   Complete guide to top MBA & PGDM colleges in Chennai for 2027. Compare Great
-  Lakes Chennai, DoMS IIT Madras, LIBA, IFMR Krea, and SSN with updated fees and
-  packages.
+  Lakes Chennai, DoMS IIT Madras, LIBA, IFMR Krea.
 keywords:
   - top mba college in chennai
   - top mba colleges in chennai 2027
@@ -48,7 +47,7 @@ location: Chennai
 state: Tamil Nadu
 ---
 
-# Top MBA Colleges in Chennai 2027: Fees, Cutoff & Placements ROI
+## Top MBA Colleges in Chennai 2027: Fees, Cutoff & Placements ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Industrial & Tech Port Capital**: Chennai (the "Detroit of India" and major IT hub along Old Mahabalipuram Road - OMR) houses global automotive giants, fintech development centers, and maritime logistics conglomerates.

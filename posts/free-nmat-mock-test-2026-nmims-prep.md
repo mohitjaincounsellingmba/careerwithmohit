@@ -6,8 +6,7 @@ date: '2026-08-22'
 category: Exams
 description: >-
   Attempt our 100% Free NMAT 2026 (For Admission 2027) Mock Test 2026. Realistic
-  computer-based exam simulator, 108 questions, 120 minutes, instant AI score
-  analysis, and target percentiles.
+  computer-based exam simulator, 108 questions, 120 minutes.
 keywords:
   - NMAT 2026 (For Admission 2027) mock test free
   - nmat practice paper 2026

@@ -4,8 +4,7 @@ date: '2026-07-25'
 category: Exams
 description: >-
   Check the expected NMAT 2026 application form open date. Learn the
-  step-by-step registration guide, exam dates, retake schedule, fees, and NMIMS
-  admission updates here.
+  step-by-step registration guide, exam dates, retake schedule, fees.
 keywords:
   - NMAT 2026 application form open date
   - NMAT exam registration 2026

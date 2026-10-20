@@ -6,10 +6,7 @@ date: '2026-09-18'
 category: Exams
 description: >-
   Complete 2027-29 admission guide for Lloyd Business School (Lloyd Greater
-  Noida). Verified fee structure (₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA),
-  MBA / PGDM approvals, audited placements (Avg ₹6.00 LPA, Highest ₹18.00 LPA),
-  PPO stats, certifications, awards, alumni network, faculty profiles, and Why
-  Join review.
+  Noida). Verified fee structure (₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA).
 keywords:
   - Lloyd Business School admission 2027-29
   - Lloyd Greater Noida fees 2027
@@ -84,7 +81,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
+## [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/) Admission 2027-29: Fees, MBA / PGDM, Approvals, Placements, PPO, Certifications, Faculty & ROI Review
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.25 Lakhs for PGDM / ₹2.90 Lakhs for MBA** (**₹4.12 Lakhs / Year (PGDM)**). Merit-cum-means scholarships and female empowerment rebates up to ₹50,000.

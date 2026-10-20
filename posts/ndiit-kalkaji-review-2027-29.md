@@ -7,8 +7,7 @@ category: Exams
 description: >-
   Comprehensive 2026 review of New Delhi Institute of Info Tech & Management
   (NDIIT) covering MBA/PGDM fee structures, highest and average placements
-  (₹7.50 LPA), entrance exam cutoffs, ROI analysis, and direct admission
-  details.
+  (₹7.50...
 keywords:
   - New Delhi Institute of Info Tech & Management (NDIIT) review 2027–29
   - New Delhi Institute of Info Tech & Management (NDIIT) mba fees
@@ -53,7 +52,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# New Delhi Institute of Info Tech & Management (NDIIT) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
+## New Delhi Institute of Info Tech & Management (NDIIT) Review 2027–29: Fees, Placements, Cutoffs & ROI Analysis
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
