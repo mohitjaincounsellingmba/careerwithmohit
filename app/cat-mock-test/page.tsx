@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import CatMockTestPage, { metadata as originalMetadata } from '@/app/tools/cat-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free CAT Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/cat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/cat-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/cat-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelCatMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "CAT 2026 Free Full Mock Test",
-    "url": "https://careerwithmohit.online/tools/cat-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <CatMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/cat-mock-test");
 }

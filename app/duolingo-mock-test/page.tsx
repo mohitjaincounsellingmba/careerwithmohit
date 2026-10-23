@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import DuolingoMockTestToolPage, { metadata as toolMetadata } from '@/app/tools/duolingo-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...toolMetadata,
+  title: "Free Duolingo Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/duolingo-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/duolingo-mock-test/",
   },
-  openGraph: {
-    ...toolMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/duolingo-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...toolMetadata.twitter,
-  }
 };
 
-export default function DuolingoMockTestAliasPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "Duolingo English Test (DET) CBT Mock Test",
-    "url": "https://careerwithmohit.online/tools/duolingo-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <DuolingoMockTestToolPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/duolingo-mock-test");
 }

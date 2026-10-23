@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import DedicatedSnapMockTestPage, { metadata as originalMetadata } from '@/app/tools/snap-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free SNAP Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/snap-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/snap-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/snap-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelSnapMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "SNAP 2026-2027 Free Mock Test",
-    "url": "https://careerwithmohit.online/tools/snap-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <DedicatedSnapMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/snap-mock-test");
 }

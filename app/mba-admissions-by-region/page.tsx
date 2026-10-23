@@ -1,8 +1,5 @@
 import { Metadata } from 'next';
-import { getAllGeoHubs } from '@/data/geoMbaHubs';
-import { getCollegesForGeoHub } from '@/lib/geoColleges';
-import { CollegeMetadata } from '@/lib/colleges';
-import MbaPgdmAdmissionsByRegionClient from '@/components/MbaPgdmAdmissionsByRegionClient';
+import { redirect } from 'next/navigation';
 
 const BASE_URL = 'https://careerwithmohit.online';
 const PAGE_PATH = '/mba-admissions-by-region/';
@@ -24,6 +21,10 @@ export const metadata: Metadata = {
   alternates: {
     canonical: `${BASE_URL}/mba-pgdm-admissions-by-region/`,
   },
+  robots: {
+    index: false,
+    follow: true,
+  },
   openGraph: {
     title: 'MBA & PGDM Admissions by Region (2027–2029) | CareerWithMohit',
     description:
@@ -35,22 +36,6 @@ export const metadata: Metadata = {
 };
 
 export default function MbaAdmissionsByRegionPage() {
-  const allHubs = getAllGeoHubs();
-
-  const collegesByHub: Record<string, CollegeMetadata[]> = {};
-  let totalCollegesCount = 0;
-
-  allHubs.forEach((hub) => {
-    const cols = getCollegesForGeoHub(hub);
-    collegesByHub[hub.hubKey] = cols;
-    totalCollegesCount += cols.length;
-  });
-
-  return (
-    <MbaPgdmAdmissionsByRegionClient
-      allHubs={allHubs}
-      collegesByHub={collegesByHub}
-      totalCollegesCount={totalCollegesCount}
-    />
-  );
+  redirect('/mba-pgdm-admissions-by-region');
 }
+

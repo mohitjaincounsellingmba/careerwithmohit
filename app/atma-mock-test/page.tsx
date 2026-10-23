@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import AtmaMockTestPage, { metadata as originalMetadata } from '@/app/tools/atma-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free ATMA Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/atma-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/atma-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/atma-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelAtmaMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "ATMA AIMS Free Mock Test",
-    "url": "https://careerwithmohit.online/tools/atma-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <AtmaMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/atma-mock-test");
 }

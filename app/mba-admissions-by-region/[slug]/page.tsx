@@ -54,7 +54,7 @@ export async function generateMetadata({
     description: hub.metaDescription,
     keywords: hub.keywords,
     alternates: {
-      canonical: `https://careerwithmohit.online/mba-admissions-by-region/${slug}/`,
+      canonical: `https://careerwithmohit.online${hub.route}/`,
     },
     openGraph: {
       title: hub.metaTitle,

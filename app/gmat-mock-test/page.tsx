@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import DedicatedGmatMockTestPage, { metadata as originalMetadata } from '@/app/tools/gmat-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free GMAT Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/gmat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/gmat-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/gmat-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelGmatMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "GMAT Focus Edition Free Mock Test",
-    "url": "https://careerwithmohit.online/tools/gmat-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <DedicatedGmatMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/gmat-mock-test");
 }

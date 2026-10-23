@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import IeltsMockTestToolPage, { metadata as toolMetadata } from '@/app/tools/ielts-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...toolMetadata,
+  title: "Free IELTS Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/ielts-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/ielts-mock-test/",
   },
-  openGraph: {
-    ...toolMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/ielts-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...toolMetadata.twitter,
-  }
 };
 
-export default function IeltsMockTestAliasPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "IELTS Academic & General Mock Test",
-    "url": "https://careerwithmohit.online/tools/ielts-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <IeltsMockTestToolPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/ielts-mock-test");
 }

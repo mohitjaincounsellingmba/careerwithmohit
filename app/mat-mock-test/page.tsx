@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import MatMockTestToolPage, { metadata as toolMetadata } from '@/app/tools/mat-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...toolMetadata,
+  title: "Free MAT Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/mat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/mat-mock-test/",
   },
-  openGraph: {
-    ...toolMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/mat-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...toolMetadata.twitter,
-  }
 };
 
-export default function MatMockTestAliasPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "MAT Exam Mock Test Tool",
-    "url": "https://careerwithmohit.online/tools/mat-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <MatMockTestToolPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/mat-mock-test");
 }

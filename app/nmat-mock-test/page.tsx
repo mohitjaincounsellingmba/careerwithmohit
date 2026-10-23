@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import NmatMockTestPage, { metadata as originalMetadata } from '@/app/tools/nmat-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free NMAT Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/nmat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/nmat-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/nmat-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelNmatMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "NMAT 2026 Free Mock Test",
-    "url": "https://careerwithmohit.online/tools/nmat-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <NmatMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/nmat-mock-test");
 }

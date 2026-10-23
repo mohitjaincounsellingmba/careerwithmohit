@@ -1,40 +1,17 @@
-import { Metadata } from 'next';
-import DedicatedXatMockTestPage, { metadata as originalMetadata } from '@/app/tools/xat-mock-test/page';
-import { JsonLd } from '@/components/JsonLd';
+import type { Metadata } from 'next';
+import { redirect } from 'next/navigation';
 
 export const metadata: Metadata = {
-  ...originalMetadata,
+  title: "Free XAT Mock Test 2027 | CareerWithMohit",
   alternates: {
-    canonical: 'https://careerwithmohit.online/tools/xat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/xat-mock-test/",
   },
-  openGraph: {
-    ...originalMetadata.openGraph,
-    url: 'https://careerwithmohit.online/tools/xat-mock-test',
+  robots: {
+    index: false,
+    follow: true,
   },
-  twitter: {
-    ...originalMetadata.twitter,
-  }
 };
 
-export default function TopLevelXatMockTestPage() {
-  const schema = {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "XAT 2027 Free Mock Test",
-    "url": "https://careerwithmohit.online/tools/xat-mock-test",
-    "applicationCategory": "EducationalApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "INR"
-    }
-  };
-
-  return (
-    <>
-      <JsonLd data={schema} />
-      <DedicatedXatMockTestPage />
-    </>
-  );
+export default function MockTestRedirectPage() {
+  redirect("/tools/xat-mock-test");
 }
