@@ -206,9 +206,9 @@ With total applications tracking in the 3.2 Lakh bracket, casual preparation wil
 
 To strengthen your 2026–2027 admission roadmap, explore our expert resources:
 * **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/all-about-cat-exam/)**
+* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)**
 * **[All IIM Cut-Offs 2027–2029: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
-* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)**
+* **[Top IIM Colleges Placement Report & Fee Structures](/blog/1-year-online-mba-colleges-india-2027-29)**
 * **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide/)**
 
 ---

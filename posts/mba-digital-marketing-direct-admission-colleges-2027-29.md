@@ -105,8 +105,8 @@ Graduates from these top colleges often land roles like:
 ---
 
 ## 📍 State-Wise Direct Admission Guides
-*   [Direct MBA Admission in Bangalore 2027–29](/blog/direct-mba-admission-bangalore-2027-29/)
-*   [Direct MBA Admission in Mumbai 2027–29](/blog/direct-mba-admission-mumbai-2027-29/)
+*   [Direct MBA Admission in Bangalore 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [Direct MBA Admission in Mumbai 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
 *   [Best MBA Colleges in Delhi NCR under 10 Lakhs](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission/)
 
 ---

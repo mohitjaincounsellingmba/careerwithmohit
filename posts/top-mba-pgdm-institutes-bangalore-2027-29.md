@@ -96,7 +96,7 @@ For students planning **PGDM/MBA admission for the 2027-29 session**, Bangalore 
 
 ### 5. IBA ([Indus Business Academy](/colleges/iba-bangalore/)), Kanakapura Road
 * **Highlights**: Single-program focused institute dedicated exclusively to PGDM.
-* **Infrastructure**: 8.5-acre dedicated residential campus with dual degree certification options. Read complete details at [All About IBA Bangalore](/blog/all-about-indus-business-academy/).
+* **Infrastructure**: 8.5-acre dedicated residential campus with dual degree certification options. Read complete details at [All About IBA Bangalore](/blog/classroom-to-digital-academy-transition-guide-2027-29).
 
 ### 6. [ISME Bangalore](/colleges/isme-bangalore/) (International School of Management Excellence)
 * **Highlights**: Known for global academic linkages, international study tours to Singapore, and robust corporate placements. Visit [All About ISME Bangalore](/colleges/isme-bangalore/).

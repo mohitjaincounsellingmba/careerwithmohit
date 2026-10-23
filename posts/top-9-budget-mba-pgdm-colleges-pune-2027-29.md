@@ -104,7 +104,7 @@ A part of the PCET group, PBS has gained rapid popularity due to its strong plac
 ### 7. MILE (Lexicon MILE)
 Lexicon MILE offers a more "premium" experience in the budget category. They focus heavily on "Day 1 Readiness" for their students.
 - **Best For:** Finance and Digital Marketing.
-- **[Read Detailed MILE Review](/blog/lexicon-mile-pune-review-2027-29/)**
+- **[Read Detailed MILE Review](/blog/1-year-online-mba-colleges-india-2027-29)**
 
 ### 8. [FUEL Business School](/colleges/fuel-business-school/) (MBA)
 FUEL (Friends Union for Energising Lives) is unique because of its social mission and strong tie-ups with CSR wings of top MNCs.
@@ -114,7 +114,7 @@ FUEL (Friends Union for Energising Lives) is unique because of its social missio
 ### 9. IIEBM Pune (PGDM)
 One of the oldest PGDM institutes in Pune with a very "disciplined" and "military-style" approach to management education.
 - **Best For:** Discipline and core placement stability.
-- **[Read Detailed IIEBM Review](/blog/iiebm-pune-review-2027-29/)**
+- **[Read Detailed IIEBM Review](/colleges/iiebm-pune)**
 
 ---
 

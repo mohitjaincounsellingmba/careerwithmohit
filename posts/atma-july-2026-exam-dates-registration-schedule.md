@@ -81,7 +81,7 @@ Follow these steps to complete your registration on the official portal:
 ---
 
 ### 📚 Related Resources
-- **[All About ATMA Exam: Pattern & Syllabus](https://www.careerwithmohit.online/posts/all-about-atma-exam)**
+- **[All About ATMA Exam: Pattern & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)**
 - **[Top MBA Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)**
 - **[Top MBA Colleges in Pune Accepting ATMA](/colleges/mba-colleges-pune/)**
 

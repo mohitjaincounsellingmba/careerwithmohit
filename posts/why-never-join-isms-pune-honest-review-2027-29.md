@@ -71,7 +71,7 @@ Before finalizing ISMS, compare it with other mid-tier colleges in Pune that mig
 No, it is a legitimate, AICTE-approved institution. However, the gap between the **marketing promises** and the **student experience** is what leads to the negative reviews. It works well for students who are purely looking for a Marketing career and are okay with a smaller setup, but for Finance or HR aspirants, the risks are high.
 
 ### **Explore More Before You Decide:**
-*   [ISMS Pune Review 2027–29: Placements & Fees](/blog/isms-pune-review-2027-29/)
+*   [ISMS Pune Review 2027–29: Placements & Fees](/colleges/isms-pune)
 *   [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)
 *   [Best MBA Colleges in Pune 2027–29: The Ultimate List](/blog/best-mba-colleges-in-pune-2027-29/)
 *   [Comparison: AKEMI vs ISMS vs RIIM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)

@@ -77,10 +77,10 @@ In this 2027 guide, senior admission consultant **Mohit Jain** delivers an autho
 | **[Masters’ Union](/colleges/masters-union-gurgaon/)** (PGP in Tech & Bus. Mgmt) | DLF Cyber City, Phase II | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / GRE / MU-BAAT |
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** (1-Yr PGPM / 2-Yr PGDM) | Bilaspur Tauru Road | ₹17.20 Lakhs | ₹15.80 LPA | CAT / XAT / CMAT / GMAT |
 | **[SOIL Institute of Management](/colleges/soil-gurgaon/)** (PGDM / 1-Yr PGPM) | Sector 44 & Manesar | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
-| **[BML Munjal University (Hero Group)](/blog/all-about-bml-munjal-university/)** | NH-8, Sidhrawali | ₹13.50 Lakhs | ₹9.80 LPA | CAT / NMAT / XAT / MAT / BMU-MAT |
-| **[JK Business School (JKBS)](/blog/all-about-jk-business-school-gurugram/)** (PGDM) | Sohna Road, Gurugram | ₹7.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
-| **[GD Goenka University (School of Mgmt)](/blog/all-about-gd-goenka-university/)** | Sohna Road, Gurugram | ₹9.50 Lakhs | ₹6.80 LPA | MAT / CUET-PG / Direct Merit |
-| **[IILM University Gurugram](/blog/all-about-iilm-university/)** (MBA) | Sector 53, Golf Course Rd | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT |
+| **[BML Munjal University (Hero Group)](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff)** | NH-8, Sidhrawali | ₹13.50 Lakhs | ₹9.80 LPA | CAT / NMAT / XAT / MAT / BMU-MAT |
+| **[JK Business School (JKBS)](/blog/bml-munjal-university-gurugram-review-2027-29)** (PGDM) | Sohna Road, Gurugram | ₹7.95 Lakhs | ₹7.50 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[GD Goenka University (School of Mgmt)](/blog/gd-goenka-bba-review-2026)** | Sohna Road, Gurugram | ₹9.50 Lakhs | ₹6.80 LPA | MAT / CUET-PG / Direct Merit |
+| **[IILM University Gurugram](/blog/iilm-academy-jaipur-review-2027-29)** (MBA) | Sector 53, Golf Course Rd | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT |
 
 ---
 

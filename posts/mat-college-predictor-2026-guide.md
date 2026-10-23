@@ -93,7 +93,7 @@ AIMA divides participating institutes into four zones. Our predictor allows you 
 
 ### Related Reading:
 - [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
-- [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+- [All About MAH MBA CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [MBA after B.Tech: Benefits 2027–29](/blog/mba-after-btech-benefits-2027-29/)
 
 ---

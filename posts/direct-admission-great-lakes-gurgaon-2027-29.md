@@ -107,7 +107,7 @@ Cycle 1 usually ends in **January**, with subsequent rounds ending in March or A
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
-- [MAH MBA CET vs CAT: Which one is better?](/blog/all-about-cat-exam/)
+- [MAH MBA CET vs CAT: Which one is better?](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Direct MBA Admission India 2027–29 Master List](/blog/direct-mba-admission-india/)
 
 [👉 Aiming for [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)? Let us help you with your application!](/inquiry)

@@ -193,11 +193,11 @@ Wondering how your CBT result compares to other modes? Here's a quick overview:
 All colleges accepting MAT accept your CBT score equally. Apply to these as soon as your scorecard is ready:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** — Composite 500+ preferred
-- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/all-about-jaipuria-institute-of-management/)** — MAT-friendly process
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/)** — Direct PGDM with MAT
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** — AICTE-approved PGDM
+- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review)** — MAT-friendly process
+- **[NDIM New Delhi](/colleges/ndim-delhi)** — Direct PGDM with MAT
+- **[FOSTIIMA Delhi](/colleges/fostiima-delhi)** — AICTE-approved PGDM
 - **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** — Banking & Finance MBA
-- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini/)** — Top Delhi PGDM with MAT
+- **[JIMS Rohini Delhi](/colleges/jims-rohini)** — Top Delhi PGDM with MAT
 - **[Great Lakes Gurgaon](/blog/direct-admission-great-lakes-gurgaon-2027-29/)** — Requires strong MAT score
 
 👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
@@ -244,7 +244,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)** — Complete MAT overview
+- **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)** — Complete MAT overview
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
 - **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
 - **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)** — IBT-specific guide

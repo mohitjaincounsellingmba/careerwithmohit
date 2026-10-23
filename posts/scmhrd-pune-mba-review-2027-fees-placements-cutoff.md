@@ -242,7 +242,7 @@ To conquer SCMHRD's admissions process for the 2027–2029 batch, execute this s
 
 ## 8. Comparative Analysis: SCMHRD Pune vs Peer Business Schools
 
-| Parameter | [SCMHRD Pune](/colleges/scmhrd-pune/) | [SIBM Pune](/colleges/sibm-pune/) | [XLRI Jamshedpur (HRM)](/colleges/xlri-jamshedpur/) | [TISS Mumbai](/colleges/tiss-mumbai/) |
+| Parameter | [SCMHRD Pune](/colleges/scmhrd-pune/) | [SIBM Pune](/colleges/sibm-pune/) | [XLRI Jamshedpur (HRM)](/colleges/xlri-jamshedpur/) | [TISS Mumbai](/blog/amity-university-mumbai-review-2027-29) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#28** | #13 | #9 | — |
 | **Total Program Fee** | **₹26.50 Lakhs** | ₹26.00 Lakhs | ₹28.00 Lakhs | ₹3.50 Lakhs |

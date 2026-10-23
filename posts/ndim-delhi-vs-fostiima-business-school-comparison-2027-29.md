@@ -217,11 +217,11 @@ For personalized profile matching, GD-PI preparation tips, or institutional fee 
 ---
 
 ### Related Delhi NCR College Reviews & Guides:
-- [NDIM Delhi Review 2027–29: PGDM Fees, Placements & Cutoff](/blog/ndim-delhi-review-2027-29)
+- [NDIM Delhi Review 2027–29: PGDM Fees, Placements & Cutoff](/colleges/ndim-delhi)
 - [FOSTIIMA Business School Review 2027–29: Fees & Placements](/blog/fostiima-business-school-review-2027-29)
 - [BIMTECH Greater Noida PGDM Review 2027](/blog/bimtech-greater-noida-pgdm-review-2027-fees-placements-cutoff)
-- [Jaipuria Institute of Management Noida Review 2027](/blog/jaipuria-noida-mba-pgdm-review-2027-fees-placements-cutoff)
-- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-delhi-mba-pgdm-review-2027-fees-placements-cutoff)
+- [Jaipuria Institute of Management Noida Review 2027](/colleges/jaipuria-noida)
+- [JIMS Rohini vs JIMS Kalkaji Comparison](/colleges/jims-rohini)
 
 ---
 

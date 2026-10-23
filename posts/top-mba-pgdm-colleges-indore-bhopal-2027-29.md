@@ -63,7 +63,7 @@ For students planning **2027-29 MBA/PGDM admission**, Indore and Bhopal feature 
 
 ### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Indore
 * **Highlights**: Sprawling campus on Indore-Bypass road. AICTE approved, NBA accredited PGDM program.
-* **Placements**: Shared placement drives across all 4 Jaipuria campuses ensuring top recruiters like Deloitte, ICICI, Amazon, and Moody's Analytics. Read [All About Jaipuria Indore](/blog/all-about-jaipuria-institute-of-management-indore/).
+* **Placements**: Shared placement drives across all 4 Jaipuria campuses ensuring top recruiters like Deloitte, ICICI, Amazon, and Moody's Analytics. Read [All About Jaipuria Indore](/colleges/jaipuria-institute-of-management-indore).
 
 ### 2. IMS DAVV Indore
 * **High ROI Leader**: Extremely low tuition fees of ₹1.40 Lakhs with strong placement support across Central India.

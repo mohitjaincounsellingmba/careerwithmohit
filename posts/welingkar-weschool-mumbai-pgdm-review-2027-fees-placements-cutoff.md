@@ -220,7 +220,7 @@ To secure a seat in the 2027–2029 PGDM batch at Welingkar Mumbai, follow this 
 
 ## 8. Comparative Analysis: Welingkar Mumbai vs Peer Business Schools
 
-| Parameter | [Welingkar Mumbai](/colleges/welingkar-mumbai/) | [SIES Navi Mumbai](/colleges/sies-navi-mumbai/) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
+| Parameter | [Welingkar Mumbai](/colleges/welingkar-mumbai/) | [SIES Navi Mumbai](/blog/sies-navi-mumbai-review-2027-29) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#65** | — | #63 | #64 |
 | **Total Program Fee** | **₹14.00 Lakhs** | ₹11.00 Lakhs | ₹21.00 Lakhs | ₹14.50 Lakhs |

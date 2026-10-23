@@ -213,7 +213,7 @@ Located on the scenic highway between Roorkee and Dehradun, Quantum University p
 
 To help you decide whether Quantum University aligns with your budget and score expectations, consider this side-by-side comparison with peer private universities in Uttarakhand and northern India:
 
-| Parameter | [Quantum University Roorkee](/colleges/quantum-university/) | [Graphic Era Dehradun](/colleges/graphic-era-dehradun/) | [UPES Dehradun](/colleges/upes-dehradun/) | [DIT University Dehradun](/colleges/dit-university/) |
+| Parameter | [Quantum University Roorkee](/colleges/quantum-university-roorkee) | [Graphic Era Dehradun](/colleges/graphic-era-dehradun/) | [UPES Dehradun](/colleges/upes-dehradun/) | [DIT University Dehradun](/blog/dit-university-dehradun-review-2027-29) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Roorkee (NH 73) | Dehradun | Bidholi, Dehradun | Dehradun |
 | **Flagship Degree** | 2-Year Full-Time MBA | 2-Year Full-Time MBA | 2-Year Full-Time MBA | 2-Year Full-Time MBA |

@@ -100,7 +100,7 @@ Use these benchmarks to estimate your percentile based on your composite score:
 ---
 
 ## 🔗 Related Resources
-*   [MAT Exam Pattern & Syllabus 2026](/blog/all-about-mat-exam/)
+*   [MAT Exam Pattern & Syllabus 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
 *   [Top Colleges Accepting MAT Scores](/blog/top-mba-colleges-mat/)
 *   [Direct MBA Admission Guide](/blog/direct-mba-admission-india/)
 

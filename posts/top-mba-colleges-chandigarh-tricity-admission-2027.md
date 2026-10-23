@@ -76,7 +76,7 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 * **Highlights:** AACSB member institution offering experiential management learning and global dual degree tracks with universities in USA, Netherlands, and France.
 
 ### 3. Chitkara Business School, Chandigarh
-* **Highlights:** Renowned for modern digital curriculum, retail marketing, and supply chain management with top tier hiring. Read [All About Chitkara University](/blog/all-about-chitkara-university/).
+* **Highlights:** Renowned for modern digital curriculum, retail marketing, and supply chain management with top tier hiring. Read [All About Chitkara University](/colleges/chitkara-university).
 
 ---
 
@@ -89,9 +89,9 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 ---
 
 ## Related Reads
-- [All About CAT Exam](/blog/all-about-cat-exam/)
-- [All About XAT Exam](/blog/all-about-xat-exam/)
-- [All About Chitkara University](/blog/all-about-chitkara-university/)
+- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About Chitkara University](/colleges/chitkara-university)
 
 ---
 

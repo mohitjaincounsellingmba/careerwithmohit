@@ -50,7 +50,7 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/blog/all-about-cat-exam/)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.
+The **Quantitative Aptitude (QA)** section of the Common Admission Test ([CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)) is the final test of endurance. After 80 minutes of intense verbal reasoning and DILR case-solving, your brain is fatigued—yet you must execute crisp mathematical calculations in 40 minutes.
 
 Whether you are an engineering background aspirant or a non-engineer aiming for the IIMs, **smart topic selection and ratio-based shortcuts** are key to scoring a **99+ percentile**. For overarching exam preparation advice, read our [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
@@ -273,7 +273,7 @@ Looking to test your Quant calculation speed and sectional time management under
 ---
 
 ## 7. Related Resources & MBA Guidance
-* [CAT Exam 2026: Registration, Latest Syllabus & Exam Pattern](/blog/all-about-cat-exam/)
+* [CAT Exam 2026: Registration, Latest Syllabus & Exam Pattern](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/1-year-online-mba-colleges-india-2027-29)
 * [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)

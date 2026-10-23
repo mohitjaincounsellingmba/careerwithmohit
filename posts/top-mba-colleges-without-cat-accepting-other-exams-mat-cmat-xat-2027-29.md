@@ -69,7 +69,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 | **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | 1st Sunday of January | 3.5 Hours, Includes Decision Making & Essay | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), [XLRI Delhi](/colleges/xlri-jamshedpur/), [XIMB](/colleges/), [IMT](/colleges/imt-ghaziabad/) |
 | **SNAP** | Symbiosis International | December (3 Slots) | 60 Mins Speed Test, 60 Questions, -0.25 Neg | [SIBM Pune](/colleges/sibm-pune/), [SCMHRD Pune](/colleges/scmhrd-pune/), [SIBM Bangalore](/colleges/sibm-bangalore/) |
 | **NMAT** | GMAC | Oct to Dec (75-day window) | Adaptive, 3 Attempts Allowed, **No Negative Marking** | [NMIMS Mumbai](/colleges/nmims-mumbai/), [NMIMS Bangalore](/colleges/nmims-bangalore/), [K J Somaiya](/colleges/kj-somaiya-mumbai/), [XIMB](/colleges/) |
-| **CMAT** | NTA (National Testing Agency) | April / May | 3 Hours, 100 Questions, Moderate Difficulty | [JBIMS](/colleges/jbims-mumbai/), [GIM Goa](/colleges/), [Great Lakes](/blog/all-about-great-lakes-campuses/), [BIMTECH](/colleges/bimtech-greater-noida/) |
+| **CMAT** | NTA (National Testing Agency) | April / May | 3 Hours, 100 Questions, Moderate Difficulty | [JBIMS](/colleges/jbims-mumbai/), [GIM Goa](/colleges/), [Great Lakes](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff), [BIMTECH](/colleges/bimtech-greater-noida/) |
 | **MAT** | AIMA | 4 Times/Year (Feb, May, Sep, Dec) | PBT, CBT, & IBT Modes, Moderate Difficulty | [Jaipuria Noida](/colleges/jaipuria-noida/), [NDIM Delhi](/colleges/ndim-delhi/), [JIMS Rohini](/colleges/jims-rohini/), [XIME](/colleges/xime-bangalore/) |
 | **MAH MBA CET** | State CET Cell Maharashtra | March / April | 150 Mins, 200 Questions, **No Negative Marking** | [JBIMS Mumbai](/colleges/jbims-mumbai/), [SIMSREE Mumbai](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29/), [PUMBA Pune](/colleges/pumba-pune/) |
 
@@ -108,7 +108,7 @@ Here is the definitive 2026 guide compiled by **Mohit Jain** on the **Top MBA Co
 | College Name | Location | Non-CAT Exams Accepted | Total Fees | Average Package |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Goa Institute of Management (GIM)](/colleges/)** | Goa | XAT, CMAT, GMAT, CAT | ₹19.50 Lakhs | ₹15.20 LPA |
-| **[Great Lakes Institute](/blog/all-about-great-lakes-campuses/)** | Chennai / Gurgaon | XAT, CMAT, GMAT, CAT | ₹19.80 Lakhs | ₹15.10 LPA |
+| **[Great Lakes Institute](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff)** | Chennai / Gurgaon | XAT, CMAT, GMAT, CAT | ₹19.80 Lakhs | ₹15.10 LPA |
 | **[TAPMI](/colleges/tapmi-bangalore/)** | Manipal, Karnataka | XAT, NMAT, GMAT, CAT | ₹18.50 Lakhs | ₹14.60 LPA |
 | **[FORE School of Management](/colleges/fore-school-delhi/)** | New Delhi | XAT, GMAT, CAT | ₹18.50 Lakhs | ₹14.80 LPA |
 | **[BIMTECH](/colleges/bimtech-greater-noida/)** | Greater Noida, NCR | XAT, CMAT, MAT (Spec), CAT | ₹15.00 Lakhs | ₹11.80 LPA |

@@ -221,7 +221,7 @@ Once you crack the exam, you'll go through **counselling and campus/branch allot
 
 👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee/)
 
-👉 [Explore All SRM University Campuses & Fees](/blog/all-about-srm-university-campuses/)
+👉 [Explore All SRM University Campuses & Fees](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
 
 👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29/)
 

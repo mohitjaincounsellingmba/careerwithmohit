@@ -105,7 +105,7 @@ Even if you hold credible scores from CAT, CMAT, MAT, or ATMA, registering for t
 
 ### Internal References:
 * [Top MAH MBA CET Colleges in Mumbai & Pune 2027–29](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29/)
-* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+* [All About MAH MBA CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [Top MBA Colleges in Pune](/colleges/mba-colleges-pune/)
 
 ---

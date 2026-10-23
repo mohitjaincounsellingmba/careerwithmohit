@@ -157,7 +157,7 @@ Admission to FOSTIIMA evaluates both standardized test scores and conversational
 | **ATMA 2027** | **65.00 – 70.00 %ile** | Direct GD-PI Shortlist |
 | **FOSTIIMA FEAT** | Institutional Aptitude Test | Direct Interview Evaluation |
 
-Check closing percentiles across institutions with our [CAT Percentile & College Predictor](/tools/cat-college-predictor) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check closing percentiles across institutions with our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 

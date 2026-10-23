@@ -85,7 +85,7 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 1. Faculty of Management Studies ([FMS Delhi](/colleges/fms-delhi/))
 * Known as the **"Red Building of Dreams"**, FMS offers the highest ROI in management education globally.
-* Shortlisting for MBA 2027 will rely on weighted CAT 2027–29 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/blog/all-about-fms-delhi/).
+* Shortlisting for MBA 2027 will rely on weighted CAT 2027–29 sectional scores (VARC 40%, DILR 30%, QA 30%) followed by Extempore and Personal Interview. Read more at [All About FMS Delhi](/colleges/fms-delhi).
 
 ### 2. [MDI Gurgaon](/colleges/mdi-gurgaon/)
 * Accredited by AACSB, AMBA, and SAQS.
@@ -93,11 +93,11 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 
 ### 3. [FORE School of Management](/colleges/fore-school-delhi/) & LBSIM Delhi
 * **FORE School:** Situated in Qutub Institutional Area, renowned for its strong corporate linkages in Consulting, Analytics, and BFSI. Read [All About FORE School Delhi](/colleges/fore-school-delhi/).
-* **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/blog/all-about-lbsim-delhi/).
+* **LBSIM Dwarka:** Premier institute for PGDM Research and Business Analytics, Financial Management, and AI. Read [All About LBSIM Delhi](/colleges/lbsim-delhi).
 
 ### 4. NDIM & FOSTIIMA: The 60-75 CAT/XAT Percentile Leaders
-* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/blog/ndim-delhi-review-2027-29/).
-* **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/).
+* **NDIM Delhi:** Recognized by AICTE and declared equivalent to MBA by AIU. Excellent corporate placement footprint in FMCG, Retail, and Digital Marketing. Learn more at [All About NDIM Delhi](/colleges/ndim-delhi).
+* **FOSTIIMA Business School:** Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) alumni, FOSTIIMA provides mentorship with average salary packages crossing ₹11.15 LPA. Read [All About FOSTIIMA Delhi](/colleges/fostiima-delhi).
 
 ---
 
@@ -112,8 +112,8 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 ---
 
 ## Related Reads & Resources
-- [All About CAT Exam 2026](/blog/all-about-cat-exam/)
-- [All About XAT Exam Preparation Guide](/blog/all-about-xat-exam/)
+- [All About CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About XAT Exam Preparation Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
 
 ---

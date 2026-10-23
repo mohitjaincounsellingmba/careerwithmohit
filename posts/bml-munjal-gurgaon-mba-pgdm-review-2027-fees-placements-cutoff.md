@@ -166,7 +166,7 @@ Candidates without standardized test scores can sit for the **BMU-MAT entrance a
 1. **Case Analysis Discussion**: Candidates analyze a short business problem in small groups, evaluating logical reasoning and teamwork.
 2. **Personal Interview (PI)**: Evaluates academic fundamentals, domain knowledge, career purpose, and ethical problem-solving.
 
-Evaluate your score against historical closing percentiles with our [CAT Percentile & College Predictor](/tools/cat-college-predictor) and check our [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Evaluate your score against historical closing percentiles with our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) and check our [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 

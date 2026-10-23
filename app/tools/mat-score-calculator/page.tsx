@@ -348,10 +348,10 @@ export default function MatScoreCalculatorPage() {
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <Link
-              href="/blog/all-about-mat-exam/"
+              href="/blog/december-mat-exam-2026-mba-admission-2027-cutoffs-strategy/"
               className="bg-white border-4 border-foreground p-6 font-black hover:bg-amber-50 transition-colors flex items-center justify-between group"
             >
-              <span>All About MAT Exam →</span>
+              <span>MAT Exam & Cutoffs Strategy →</span>
             </Link>
             <Link
               href="/tools/mat-college-predictor/"

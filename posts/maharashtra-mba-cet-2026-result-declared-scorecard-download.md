@@ -163,7 +163,7 @@ Here is your **action plan** after checking your Maharashtra MBA CET 2027–29 r
 
 ### ✅ If Your Score is Below 90 Percentile:
 - Don't panic. Use your CMAT, ATMA, or MAT score to apply to private colleges.
-- Explore [MBA colleges under ₹5 Lakhs in Maharashtra](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission/).
+- Explore [MBA colleges under ₹5 Lakhs in Maharashtra](/blog/1-year-online-mba-colleges-india-2027-29).
 - Book a **[Free Counselling Session with Mohit Jain](/inquiry/)** to explore all options.
 
 ---
@@ -212,7 +212,7 @@ Your Maharashtra CET 2026 scorecard is just the beginning. The real challenge is
 [**Book a Free Counselling Session with Mohit Jain**](/inquiry/) — MBA Admission Expert with 10+ years of experience guiding students into JBIMS, SIMSREE, PUMBA, and top private B-schools in Maharashtra.
 
 **Related Posts:**
-- [All About MAH MBA CET Exam — Pattern, Syllabus & Cutoffs](/blog/all-about-mah-mba-cet-exam/)
+- [All About MAH MBA CET Exam — Pattern, Syllabus & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Top MHCET MBA Accepting Colleges 2027–29](/blog/mhcet-mba-accepting-colleges-2026-fees-cutoff-process/)
 - [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
 - [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)

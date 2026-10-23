@@ -197,8 +197,8 @@ export default function MhcetCalculatorPage() {
                         <Link href="/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
                             Top Pune Colleges & Cutoffs →
                         </Link>
-                        <Link href="/blog/all-about-mah-mba-cet-exam/" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
-                            MHCET Exam Pattern & Syllabus →
+                        <Link href="/blog/mah-mba-cet-2027-cutoffs-cap-round-counselling-guide/" className="bg-white border-4 border-foreground p-6 font-black hover:bg-secondary/5 transition-colors">
+                            MHCET Exam Pattern & Cutoffs Guide →
                         </Link>
                     </div>
                 </div>

@@ -182,11 +182,11 @@ Your MAT May 2026 PBT scorecard is valid for **12 months** from the date of decl
 Once you have your scorecard, immediately begin applying to relevant colleges:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** – 500+ composite preferred
-- **[Jaipuria Institute of Management](/blog/all-about-jaipuria-institute-of-management/)** – MAT-friendly admission process
-- **[NDIM New Delhi](/blog/ndim-delhi-review-2027-29/)** – Direct PGDM admissions with MAT
-- **[FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/)** – Top Delhi PGDM institute accepting MAT
+- **[Jaipuria Institute of Management](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review)** – MAT-friendly admission process
+- **[NDIM New Delhi](/colleges/ndim-delhi)** – Direct PGDM admissions with MAT
+- **[FOSTIIMA Delhi](/colleges/fostiima-delhi)** – Top Delhi PGDM institute accepting MAT
 - **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** – Banking & Finance MBA accepting MAT
-- **[JIMS Rohini Delhi](/blog/all-about-jims-rohini/)** – AICTE-approved PGDM with MAT intake
+- **[JIMS Rohini Delhi](/colleges/jims-rohini)** – AICTE-approved PGDM with MAT intake
 
 👉 Read full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
@@ -232,7 +232,7 @@ The maximum composite score is **800** (200 per section × 4 sections: LC, ICR, 
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/all-about-mat-exam/)** — Complete exam overview
+- **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)** — Complete exam overview
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
 - **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)**
 - **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Find your best-fit college

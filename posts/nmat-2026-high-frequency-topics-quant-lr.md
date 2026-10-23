@@ -92,7 +92,7 @@ These questions present a code transformation process. If you can decode the pat
 - **Step 3:** Practice Verbal Reasoning daily. Focus on identifying logical fallacies in assumptions.
 - **Step 4:** Build speed in decoding Input-Output patterns and number series.
 
-For a comprehensive prep plan, check out our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score/) and evaluate your current speed using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep/).
+For a comprehensive prep plan, check out our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score/) and evaluate your current speed using our [Free NMAT Mock Test](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026).
 
 [👉 Want to optimize your study plan for NMAT 2026? Speak to our MBA admission guides today!](/inquiry/)
 

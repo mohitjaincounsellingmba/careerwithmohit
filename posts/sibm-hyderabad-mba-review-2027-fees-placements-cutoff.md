@@ -204,7 +204,7 @@ Located in Modallaguda, SIBM Hyderabad provides a world-class residential enviro
 
 To help you decide whether SIBM Hyderabad matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Hyderabad and other Symbiosis campuses:
 
-| Parameter | [SIBM Hyderabad](/colleges/sibm-hyderabad/) | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [IMT Hyderabad](/colleges/imt-hyderabad/) | [SIBM Nagpur](/colleges/sibm-nagpur/) |
+| Parameter | [SIBM Hyderabad](/colleges/sibm-hyderabad/) | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [IMT Hyderabad](/blog/anurag-university-hyderabad-review-2027-29) | [SIBM Nagpur](/blog/iim-nagpur-mba-review-2027-fees-placements-cutoff) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Modallaguda, Hyderabad | Jadcherla, Hyderabad | Shamshabad, Hyderabad | Wathoda, Nagpur |
 | **Parent University** | Symbiosis (SIU Pune) | SVKM's NMIMS | Autonomous | Symbiosis (SIU Pune) |

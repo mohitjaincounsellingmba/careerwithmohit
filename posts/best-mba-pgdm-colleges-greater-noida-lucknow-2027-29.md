@@ -84,12 +84,12 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 ### 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH), Greater Noida
 * **Highlights**: Rated among top 30 B-Schools in India. AACSB accredited campus in Knowledge Park II.
 * **Specializations**: PGDM, PGDM International Business, PGDM Insurance Business Management, PGDM Retail Management.
-* **Placements**: Average salary ₹11.25 LPA with highest package touching ₹24.40 LPA. Read full post at [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/).
+* **Placements**: Average salary ₹11.25 LPA with highest package touching ₹24.40 LPA. Read full post at [All About BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### 2. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Lucknow
 * **Highlights**: AACSB Business Education Alliance member, NBA accredited, AIU MBA equivalent.
 * **Corporate Connections**: Shared placement pool across 4 campuses (Lucknow, Noida, Jaipur, Indore).
-* **Placements**: Median salary ₹11.49 LPA with 300+ recruiters. Explore [All About Jaipuria Lucknow](/blog/all-about-jaipuria-institute-of-management-lucknow/).
+* **Placements**: Median salary ₹11.49 LPA with 300+ recruiters. Explore [All About Jaipuria Lucknow](/colleges/jaipuria-institute-of-management-lucknow).
 
 ### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 * **Highlights**: Premium autonomous institute of GNIOT Group offering PGDM with dual specializations and corporate certifications.
@@ -97,14 +97,14 @@ Both cities offer state-of-the-art infrastructure, AICTE-approved PGDM programs,
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
 * **Highlights**: Located in Knowledge Park II, known for rigorous academic discipline and corporate mentorship.
-* **Placements**: Average package of ₹7.35 LPA with companies like Accenture, HCL, and ICICI Bank. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida/).
+* **Placements**: Average package of ₹7.35 LPA with companies like Accenture, HCL, and ICICI Bank. Read [All About GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida).
 
 ### 5. [Accurate Institute of Management](/colleges/accurate-greater-noida/) & Technology, Greater Noida
 * **Highlights**: 100% placement record guarantee, global exposure trip options, and ultra-modern campus.
 * **Read Detailed Review**: [All About Accurate Greater Noida](/colleges/accurate-greater-noida/).
 
 ### 6. IILM University & IBI Greater Noida
-* **IILM Greater Noida**: Focused on experiential learning, entrepreneurship incubators, and dual degree tracks. Check [All About IILM Greater Noida](/blog/all-about-iilm-university-greater-noida/).
+* **IILM Greater Noida**: Focused on experiential learning, entrepreneurship incubators, and dual degree tracks. Check [All About IILM Greater Noida](/colleges/iilm-university-greater-noida).
 * **IBI Greater Noida**: Specialized institute with heavy focus on industry certifications (PMI, Google, Hubspot). Check [All About IBI Greater Noida](/colleges/ibi-greater-noida/).
 
 ---

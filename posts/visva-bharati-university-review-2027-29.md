@@ -7,7 +7,7 @@ description: >-
 keywords:
   - >-
     [Visva-Bharati
-    University](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29/)
+    University](/blog/1-year-online-mba-colleges-india-2027-29)
     admissions 2027–29
   - Visva-Bharati placements
   - Visva-Bharati CUET cutoff
@@ -36,7 +36,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-[Visva-Bharati University](/blog/all-about-bharati-vidyapeeth-mba-courses-admission-2027-29/), located in Santiniketan, West Bengal, is an institution of national importance founded by Rabindranath Tagore. It offers a unique blend of traditional values and modern academics.
+[Visva-Bharati University](/blog/1-year-online-mba-colleges-india-2027-29), located in Santiniketan, West Bengal, is an institution of national importance founded by Rabindranath Tagore. It offers a unique blend of traditional values and modern academics.
 
 ## 📊 Visva-Bharati 2026 Overview: Fees, Placements & Cutoffs
 

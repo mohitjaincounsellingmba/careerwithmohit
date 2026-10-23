@@ -111,7 +111,7 @@ To make the most of this policy, schedule your attempts as follows:
 
 *Note: Some institutes (including [NMIMS Mumbai](/colleges/nmims-mumbai/)) only accept the **first attempt score** for specific programs, while others accept the best score. Check the latest college guidelines before planning your attempts.*
 
-To evaluate your readiness, take our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep/) or check our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score/).
+To evaluate your readiness, take our [Free NMAT Mock Test](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026) or check our [NMAT 2026 Preparation Guide](/blog/nmat-2026-preparation-strategy-240-score/).
 
 [👉 Need help scheduling your NMAT attempts? Speak to our counselling team today!](/inquiry/)
 

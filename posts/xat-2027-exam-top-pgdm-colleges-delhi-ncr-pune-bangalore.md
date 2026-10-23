@@ -82,8 +82,8 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 ## City-Wise XAT 2027 Recommendations
 
 ### 1. Delhi NCR & Greater Noida Hub
-* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/colleges/fore-school-delhi/) and [All About LBSIM Delhi](/blog/all-about-lbsim-delhi/).
-* **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/).
+* **FORE School & LBSIM:** Ideal for students targeting Consulting and Analytics careers in Central Delhi. Read [All About FORE School Delhi](/colleges/fore-school-delhi/) and [All About LBSIM Delhi](/colleges/lbsim-delhi).
+* **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### 2. Pune & Maharashtra Hub
 * **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune/):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/) and [All About PIBM Pune](/blog/all-about-pibm-pune/).
@@ -102,7 +102,7 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 ---
 
 ## Related Reads
-- [All About XAT Exam](/blog/all-about-xat-exam/)
+- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
 - [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam/)
 

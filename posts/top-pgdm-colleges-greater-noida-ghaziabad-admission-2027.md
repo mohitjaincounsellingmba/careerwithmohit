@@ -87,20 +87,20 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 ### 1. [Birla Institute of Management Technology](/colleges/bimtech-greater-noida/) (BIMTECH), Greater Noida
 * **Accreditation:** AACSB International Accreditation, NBA, AICTE approved, AIU MBA equivalence.
 * **Flagship Courses:** PGDM, PGDM International Business (IB), PGDM Retail Management, PGDM Insurance Business Management (IBM).
-* **Placements:** Consistently attracts marquee BFSI and consulting firms like Deloitte, EY, KPMG, Marsh McLennan, and Aditya Birla Group. Read our full analysis at [All About BIMTECH Greater Noida](/blog/all-about-bimtech-greater-noida/).
+* **Placements:** Consistently attracts marquee BFSI and consulting firms like Deloitte, EY, KPMG, Marsh McLennan, and Aditya Birla Group. Read our full analysis at [All About BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### 2. IMS Ghaziabad (University Courses Campus)
 * **Legacy:** Over 34 years of excellence in management education in NCR.
-* **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies](/blog/all-about-institute-of-management-studies/).
+* **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies](/blog/rajagiri-centre-for-business-studies-mba-review-2027-fees-placements-cutoff).
 
 ### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 * **Value Proposition:** Offering the highest ROI in Knowledge Park II with dual specializations, global immersion options, and 100% placement tracking. Check [All About GNIOT GIMS](/colleges/gniot-greater-noida/).
 
 ### 4. GL Bajaj Institute of Management & Research, Greater Noida
-* **Highlights:** Excellent industry-oriented training, strong alumni presence across IT and FMCG sectors, and transparent placement auditing. Check [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida/).
+* **Highlights:** Excellent industry-oriented training, strong alumni presence across IT and FMCG sectors, and transparent placement auditing. Check [All About GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida).
 
 ### 5. Accurate Institute & [Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)
-* Both institutions provide specialized industry certifications (Lean Six Sigma, Google Analytics, Advanced Excel) integrated within their PGDM curriculum to ensure freshers secure entry-level corporate packages of ₹6.5 LPA to ₹10 LPA. Learn more at [All About Accurate Greater Noida](/colleges/accurate-greater-noida/) and [All About Lloyd Business School](/blog/all-about-abbs-school-of-management/).
+* Both institutions provide specialized industry certifications (Lean Six Sigma, Google Analytics, Advanced Excel) integrated within their PGDM curriculum to ensure freshers secure entry-level corporate packages of ₹6.5 LPA to ₹10 LPA. Learn more at [All About Accurate Greater Noida](/colleges/accurate-greater-noida/) and [All About Lloyd Business School](/colleges/abbs-school-of-management).
 
 ---
 
@@ -119,8 +119,8 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 
 ## Recommended Internal Guides
 - [Top MBA/PGDM Colleges in Delhi NCR with Best ROI 2027](/blog/top-mba-pgdm-colleges-delhi-ncr-roi-2027-29/)
-- [All About XAT Exam Eligibility & Syllabus](/blog/all-about-xat-exam/)
-- [All About CAT Exam Score vs Percentile Guide](/blog/all-about-cat-exam/)
+- [All About XAT Exam Eligibility & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam Score vs Percentile Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
 
 ---
 

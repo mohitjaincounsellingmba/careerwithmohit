@@ -70,11 +70,11 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
 | :--- | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** (PGDM Core/SM/BA) | Sector 62, Noida | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[Amity Business School](/blog/amity-noida-review-2027-29/)** (MBA Core/IB/M&S) | Sector 125, Noida | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / NMAT / Amity Test |
-| **[Asian Business School (ABS)](/blog/all-about-asian-business-school-noida/)** (PGDM) | Sector 125, Noida | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / XAT / CMAT (60+ %ile) |
-| **[IMS Noida](/blog/all-about-institute-of-management-studies/)** (PGDM / MBA) | Sector 62, Noida | ₹6.50 – ₹8.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
-| **[IILM Academy of Higher Learning](/blog/all-about-iilm-delhi/)** (PGDM) | Sector 62, Noida | ₹8.25 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[Asian Business School (ABS)](/colleges/asian-business-school-noida)** (PGDM) | Sector 125, Noida | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / XAT / CMAT (60+ %ile) |
+| **[IMS Noida](/blog/rajagiri-centre-for-business-studies-mba-review-2027-fees-placements-cutoff)** (PGDM / MBA) | Sector 62, Noida | ₹6.50 – ₹8.50 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[IILM Academy of Higher Learning](/colleges/iilm-delhi)** (PGDM) | Sector 62, Noida | ₹8.25 Lakhs | ₹7.20 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
 | **[JSS Academy of Technical Education](/colleges/mba-colleges-delhi-ncr/)** (MBA) | Sector 62, Noida | ₹3.10 Lakhs | ₹5.20 LPA | CUET-PG / UPTAC Merit |
-| **[Symbiosis Centre for Management Studies (SCMS Noida)](/blog/all-about-symbiosis-mba-institutes/)** | Sector 62, Noida | ₹10.50 Lakhs | ₹7.50 LPA | SET / SNAP / Institutional |
+| **[Symbiosis Centre for Management Studies (SCMS Noida)](/blog/best-cat-coaching-institutes-and-fees-2027-29)** | Sector 62, Noida | ₹10.50 Lakhs | ₹7.50 LPA | SET / SNAP / Institutional |
 
 ---
 

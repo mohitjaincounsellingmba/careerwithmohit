@@ -149,7 +149,7 @@ Admission to Amity Business School evaluates standardized exam performance along
 2. **Video Assessment & Extempore**: Complete recorded video responses to situational management prompts.
 3. **Personal Interview (PI)**: Face-to-face or virtual interview with faculty evaluating career motivation, leadership initiatives, and business awareness.
 
-Check closing percentiles across institutions using our [CAT Percentile & College Predictor](/tools/cat-college-predictor) and review our comprehensive [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check closing percentiles across institutions using our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) and review our comprehensive [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 

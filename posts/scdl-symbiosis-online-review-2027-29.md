@@ -91,7 +91,7 @@ SCDL's online programs are optimized for the 2026 workforce:
 Yes. All programs from Symbiosis Centre for Distance Learning are **AICTE approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all corporate roles, and the PGDBA is generally accepted for most PG requirements in the private sector.
 
 ## Next Step in Your Career
-- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **Pune Hub:** Read about the [Top-5 Online MBAs in Pune](/online-degree-certification/).
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry/)
 

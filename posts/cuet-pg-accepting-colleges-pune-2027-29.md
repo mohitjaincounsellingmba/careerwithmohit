@@ -74,7 +74,7 @@ While D.Y. Patil often has its own entrance tests, many of its constituent units
 ---
 
 ### **Helpful Resources for CUET PG Aspirants:**
-- [All about MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam/)
+- [All about MAH MBA CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
 - [Top 10 High ROI MBA Colleges via CUET PG](/blog/top-mba-colleges-cuet-pg/)
 

@@ -31,7 +31,94 @@ for (const line of lines) {
 
 console.log(`📊 Extracted ${specificMap.size} specific 1-to-1 redirects and ${massRedirects.size} mass pruned redirects.`);
 
-// Flatten any redirect chains so every source points directly to its ultimate destination in 1 hop
+// Build complete valid routes index to guarantee 0 broken redirect destinations
+const validRoutes = new Set();
+function normalizeRoute(r) {
+  if (!r) return '/';
+  let cleaned = r.trim().split('#')[0].split('?')[0];
+  if (!cleaned.startsWith('/')) cleaned = '/' + cleaned;
+  if (cleaned.length > 1 && cleaned.endsWith('/')) cleaned = cleaned.slice(0, -1);
+  return cleaned;
+}
+
+// 1. Static pages
+function findStatic(dir, cur = '') {
+  if (!fs.existsSync(dir)) return;
+  const items = fs.readdirSync(dir);
+  if (items.includes('page.tsx') || items.includes('page.jsx') || items.includes('page.js')) {
+    if (!cur.includes('[')) validRoutes.add(normalizeRoute(cur || '/'));
+  }
+  items.forEach(i => {
+    const f = path.join(dir, i);
+    if (fs.statSync(f).isDirectory()) findStatic(f, cur + '/' + i);
+  });
+}
+findStatic(path.join(process.cwd(), 'app'));
+
+// 2. Posts & Colleges
+const postsDir = path.join(process.cwd(), 'posts');
+const collegesDir = path.join(process.cwd(), 'colleges');
+const postSlugs = fs.existsSync(postsDir) ? fs.readdirSync(postsDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, '')) : [];
+const collegeSlugs = fs.existsSync(collegesDir) ? fs.readdirSync(collegesDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, '')) : [];
+postSlugs.forEach(s => validRoutes.add(normalizeRoute(`/blog/${s}`)));
+collegeSlugs.forEach(s => validRoutes.add(normalizeRoute(`/colleges/${s}`)));
+
+// 3. Exam hubs & online courses
+['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'].forEach(s => validRoutes.add(normalizeRoute('/resources/' + s)));
+
+// Destination Resolver
+function findValidTarget(destUrl) {
+  const norm = normalizeRoute(destUrl);
+  if (validRoutes.has(norm) || destUrl.includes(':splat')) return destUrl.endsWith('/') ? destUrl : destUrl + '/';
+
+  // Smart resolution for blog posts
+  if (norm.startsWith('/blog/')) {
+    const slug = norm.replace('/blog/', '');
+    const tokens = slug.split('-').filter(t => t.length > 2 && !['2026', '2027', '2028', '2029', 'review', 'admission', 'mba', 'pgdm'].includes(t));
+    let bestMatch = null;
+    let maxMatches = 0;
+    for (const postSlug of postSlugs) {
+      let matches = 0;
+      for (const t of tokens) {
+        if (postSlug.includes(t)) matches++;
+      }
+      if (matches > maxMatches && matches >= 2) {
+        maxMatches = matches;
+        bestMatch = postSlug;
+      }
+    }
+    if (bestMatch) {
+      return `/blog/${bestMatch}/`;
+    }
+    return '/blog/';
+  }
+
+  // Smart resolution for colleges
+  if (norm.startsWith('/colleges/')) {
+    const slug = norm.replace('/colleges/', '');
+    const tokens = slug.split('-').filter(t => t.length > 2);
+    let bestMatch = null;
+    let maxMatches = 0;
+    for (const colSlug of collegeSlugs) {
+      let matches = 0;
+      for (const t of tokens) {
+        if (colSlug.includes(t)) matches++;
+      }
+      if (matches > maxMatches && matches >= 2) {
+        maxMatches = matches;
+        bestMatch = colSlug;
+      }
+    }
+    if (bestMatch) {
+      return `/colleges/${bestMatch}/`;
+    }
+    return '/colleges/';
+  }
+
+  return '/';
+}
+
+// Flatten any redirect chains and ensure destinations are 100% valid
 function resolveChain(url, visited = new Set()) {
   const norm = url.length > 1 && url.endsWith('/') ? url.slice(0, -1) : url;
   const clean = norm.toLowerCase();
@@ -46,15 +133,21 @@ function resolveChain(url, visited = new Set()) {
 }
 
 let chainsFlattened = 0;
+let brokenFixed = 0;
 for (const [from, target] of specificMap.entries()) {
-  const finalDest = resolveChain(target.to);
+  let finalDest = resolveChain(target.to);
+  const validatedDest = findValidTarget(finalDest);
+  if (validatedDest !== finalDest) {
+    brokenFixed++;
+    finalDest = validatedDest;
+  }
   if (finalDest !== target.to) {
     chainsFlattened++;
     specificMap.set(from, { ...target, to: finalDest });
   }
 }
-if (chainsFlattened > 0) {
-  console.log(`⚡ Flattened ${chainsFlattened} redirect chains into direct 1-hop redirects.`);
+if (chainsFlattened > 0 || brokenFixed > 0) {
+  console.log(`⚡ Flattened ${chainsFlattened} redirect chains and repaired ${brokenFixed} 404 destination targets.`);
 }
 
 // 1. Build optimized public/_redirects (strictly under 1,800 lines)

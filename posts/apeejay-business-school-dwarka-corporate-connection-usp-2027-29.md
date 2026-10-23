@@ -223,7 +223,7 @@ Yes, the 2-Year Full-Time PGDM program at ASM Dwarka is approved by AICTE, accre
 
 - [ASM Apeejay School of Management Direct Review & Cutoffs](/colleges/asm-apeejay-delhi/)
 - [Top MBA Colleges in Delhi NCR Accepting CAT & CMAT 2027–29](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
-- [CAT 2026 Complete Preparation Strategy & Exam Guide](/blog/all-about-cat-exam/)
+- [CAT 2026 Complete Preparation Strategy & Exam Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [AIU Approved PGDM Colleges in India 2027–29](/blog/aiu-approved-pgdm-colleges-india-2027-29/)
 - [Direct MBA Admissions & Management Quota Guide 2027–29](/blog/direct-bba-admission-2026-management-quota/)
 

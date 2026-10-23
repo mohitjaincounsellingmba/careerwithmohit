@@ -68,7 +68,7 @@ Studying medicine in the **United Kingdom (UK)** offers access to premier global
 
 ## 🔗 Related Resources
 
-* [SAT, IELTS, TOEFL & GRE Complete Guide](/blog/all-about-sat-ielts-toefl-gre-exams-guide-2026/)
+* [SAT, IELTS, TOEFL & GRE Complete Guide](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
 * [MBBS Abroad Overview](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
 ---
 

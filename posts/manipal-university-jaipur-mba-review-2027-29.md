@@ -90,7 +90,7 @@ MUJ has a centralized placement cell that works tirelessly to bring top-tier com
 
 Admission to the MUJ MBA program is transparent and depends heavily on entrance scores and subsequent assessment rounds.
 
-1.  **Entrance Exam**: Candidates must have a valid score in [CAT](/blog/all-about-cat-exam/), [MAT](/blog/all-about-mat-exam/), [CMAT](/blog/all-about-cmat-exam/), XAT, or GMAT.
+1.  **Entrance Exam**: Candidates must have a valid score in [CAT](/blog/10-tips-to-crack-cat-exam-2027-29), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29), XAT, or GMAT.
 2.  **Cutoffs (Expected)**:
     *   **CAT**: ~25+ Percentile
     *   **MAT**: ~35-40+ Percentile

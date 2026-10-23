@@ -73,8 +73,8 @@ In this guide, expert education counselor **Mohit Jain** provides an authoritati
 | **[XIME Bangalore](/colleges/xime-bangalore/) / Chennai** | Bengaluru / Chennai | 70 – 75 %ile | ₹12.50 Lakhs | ₹10.30 LPA | ₹18.00 LPA |
 | **[Welingkar Institute of Management (WeSchool)](/colleges/welingkar-bangalore/)** | Mumbai / Bengaluru | 75 – 80 %ile (Profile) | ₹15.00 Lakhs | ₹12.50 LPA | ₹25.40 LPA |
 | **[Christ University School of Business](/colleges/christ-university-bangalore/)** | Bengaluru, Karnataka | 70 – 75 %ile | ₹10.50 Lakhs | ₹9.50 LPA | ₹21.46 LPA |
-| **[SIES College of Management Studies](/blog/all-about-itm-mumbai/)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
-| **[IBS Hyderabad (ICFAI)](/blog/all-about-ibs-campuses/)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
+| **[SIES College of Management Studies](/colleges/itm-mumbai)** | Navi Mumbai | 75 – 80 %ile | ₹11.00 Lakhs | ₹9.80 LPA | ₹23.00 LPA |
+| **[IBS Hyderabad (ICFAI)](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)** | Hyderabad, Telangana | 70 – 75 %ile | ₹16.00 Lakhs | ₹10.42 LPA | ₹58.19 LPA (Intl) |
 | **[ITM Business School](/colleges/itm-mumbai/)** | Navi Mumbai / Chennai | 70 – 75 %ile | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA |
 | **[Chetana's R.K. Institute (CRKIMSR)](/blog/chetana-mumbai-review-2027-29/)** | Mumbai | 75 – 80 %ile | ₹9.50 Lakhs | ₹9.10 LPA | ₹17.50 LPA |
 

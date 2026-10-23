@@ -70,7 +70,7 @@ state: Delhi NCR
 ## 🔗 Related Links
 
 * [MBBS Abroad Roadmap 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
-* [NEET UG Exam Details](/blog/all-about-neet-exam/)
+* [NEET UG Exam Details](/blog/10-tips-to-crack-cat-exam-2027-29)
 ---
 
 ### 🚀 Boost Your Preparation

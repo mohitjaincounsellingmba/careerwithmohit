@@ -78,7 +78,7 @@ However, an investment of ₹21.50 Lakhs and a batch of ~500 students demand an 
 | **Audited Overall Average** | **₹17.35 LPA – ₹17.60 LPA** |
 | **PGDM Marketing Average** | **₹18.10 LPA** |
 | **Highest Domestic Package** | **₹65.60 LPA** |
-| **Accepted Entrance Tests** | [CAT 2026](/tools/cat-college-predictor), XAT 2027, GMAT (CMAT/MAT not accepted) |
+| **Accepted Entrance Tests** | [CAT 2026](/blog/cuet-pg-predictor-2026-mba-colleges), XAT 2027, GMAT (CMAT/MAT not accepted) |
 
 ---
 
@@ -194,7 +194,7 @@ Before finalizing your exam targets, estimate your percentile targets with our [
 1. **Leverage the Profile-Based Channel Early**: If you have 1–3 years of work experience and solid graduation marks, submit your IMT common application before the early deadline. Profile shortlists are typically declared before general score shortlists.
 2. **Prepare for the Critical Thinking (CT) Test**: IMT replaced traditional WAT with a structured Critical Thinking assessment. Practice breaking down complex societal or business dilemmas into clear arguments with logical counterpoints.
 3. **Be Specific in Your Marketing Motivation**: If you interview for the PGDM Marketing program, interviewers will drill you on real brand campaigns, product distribution strategies, and digital customer acquisition metrics. Avoid giving superficial answers.
-4. **Predict Your Admission Chances**: Check historical cutoff trends and benchmark your profile using our [Free CAT Percentile & College Predictor](/tools/cat-college-predictor).
+4. **Predict Your Admission Chances**: Check historical cutoff trends and benchmark your profile using our [Free CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges).
 
 ---
 

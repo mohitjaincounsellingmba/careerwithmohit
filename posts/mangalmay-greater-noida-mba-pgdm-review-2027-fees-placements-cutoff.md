@@ -213,7 +213,7 @@ MIMT’s campus in Knowledge Park II provides an environment conducive to holist
 
 To help you decide whether Mangalmay matches your budget and score expectations, consider this direct comparison with peer institutions in Greater Noida and Delhi-NCR:
 
-| Parameter | [Mangalmay Greater Noida](/colleges/mangalmay-greater-noida/) | [Lloyd Business School](/colleges/lloyd-greater-noida/) | [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/) | [IIMT Greater Noida](/colleges/iimt-greater-noida/) |
+| Parameter | [Mangalmay Greater Noida](/colleges/mangalmay-greater-noida/) | [Lloyd Business School](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff) | [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/) | [IIMT Greater Noida](/colleges/iimt-greater-noida/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Knowledge Park II | Knowledge Park II | Knowledge Park II | Knowledge Park III |
 | **Flagship Degree** | 2-Year AKTU MBA | PGDM & AKTU MBA | PGDM & MBA | MBA (AKTU) |

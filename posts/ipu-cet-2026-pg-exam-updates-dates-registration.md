@@ -82,7 +82,7 @@ The university follows a specific hierarchy for admissions into its PG programs:
 ## Essential Exam Day Tips
 - **Reporting Time:** Reach the center at least 60 minutes before the shift starts.
 - **Mandatory Documents:** Carry your printed admit card and a valid original photo ID (Aadhar/PAN/Voter ID).
-- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam/) for both UG and PG.
+- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29) for both UG and PG.
 
 Keep checking the official portal **ipu.ac.in** for the latest updates on counseling rounds and merit list declarations.
 
@@ -96,7 +96,7 @@ Indraprastha University hosts some of the most budget-friendly yet reputable PG 
 ## Important Links & Preparation
 - **MBA Rankings:** See the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/) including top IPU affiliates like USMS, MAIT, and VIPS.
 - **Top IPU MBA Colleges:** Check our detailed list of [IPU MBA Colleges under GGSIPU](/blog/ipu-cet-mba-colleges-ggsipu/).
-- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/all-about-ipceta-exam/) for both UG and PG.
+- **Exam Pattern:** Find more details on [All About IPU CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29) for both UG and PG.
 
 Keep checking the official portal **ipu.ac.in** for the course-specific detailed timetable of the entrance exams and counseling rounds.
 

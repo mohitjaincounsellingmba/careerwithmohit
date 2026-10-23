@@ -192,7 +192,7 @@ To protect aspirants from spam, aggressive telemarketers, and unauthorized promo
 ## Related Guides & Preparation Resources
 
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About the CAT Exam: Pattern, Syllabus & Eligibility](/blog/all-about-cat-exam/)
+* [All About the CAT Exam: Pattern, Syllabus & Eligibility](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [Comprehensive MBA & PGDM Admissions Guide 2027](/mba-pgdm-admission-2027/)
 * [Top Tier MBA Colleges in India: Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
 * [Book a 1-on-1 Confidential Career Counselling Session](/book-session/)

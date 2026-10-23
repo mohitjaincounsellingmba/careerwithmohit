@@ -95,7 +95,7 @@ Placements at NDIIT are a mix of corporate tie-ups and student-driven initiative
 ## ⚠️ Cons to Consider
 1.  **Campus Size**: The physical campus is compact, which might not appeal to those looking for a traditional large university experience.
 2.  **Mixed Placement Reviews**: While many students land good roles, the consistency across the entire batch can vary.
-3.  **Brand Recognition**: While well-regarded, it may not have the same "instant" brand recall as top-tier IIMs or established brands like [**NDIM**](/blog/ndim-delhi-review-2027-29/).
+3.  **Brand Recognition**: While well-regarded, it may not have the same "instant" brand recall as top-tier IIMs or established brands like [**NDIM**](/colleges/ndim-delhi).
 
 ---
 
@@ -117,7 +117,7 @@ Admission is based on a holistic evaluation of the candidate's profile.
 ---
 
 ## 🔗 Related Reading
-*   [**NDIM Delhi Review 2027–29: Placements & Highlights**](/blog/ndim-delhi-review-2027-29/)
+*   [**NDIM Delhi Review 2027–29: Placements & Highlights**](/colleges/ndim-delhi)
 *   [**Top MBA Colleges in Delhi 2027–29: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2027-29/)
 *   [**PGDM vs MBA: The 2027–29 Comparison Guide**](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 *   [**IMM Delhi PGDM Review: Is it Worth It?**](/blog/imm-delhi-pgdm-review-2027-29/)

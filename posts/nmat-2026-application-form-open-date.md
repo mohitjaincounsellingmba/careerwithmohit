@@ -126,9 +126,9 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 ### Recommended Resources:
 
-* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/all-about-nmat-exam/)**
-* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/all-about-nmims-campuses/)**
-* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/all-about-omets-mba-entrance-exams-2027-29/)**
+* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai)**
+* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/1-year-online-mba-colleges-india-2027-29)**
 * **[Best MBA Colleges Acceptable with 200+ NMAT Score](/blog/baby-iims-review-2026-honest-analysis/)**
 
 *Source: Official guidelines on the GMAC website.*

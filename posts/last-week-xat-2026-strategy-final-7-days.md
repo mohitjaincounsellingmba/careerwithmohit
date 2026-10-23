@@ -98,7 +98,7 @@ graph TD
   - **Buffer/Review:** 5 Minutes
 - **The Essay is Important:** Do not neglect the essay writing section. Write in a neutral, professional, and clear tone.
 
-For a review of other speed-based exams that take place around this time, read our guide on the [NMAT Speed & Accuracy Trends](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy/) or prepare using our [Free NMAT Mock Test](/blog/free-nmat-mock-test-2026-nmims-prep/).
+For a review of other speed-based exams that take place around this time, read our guide on the [NMAT Speed & Accuracy Trends](/blog/nmat-2026-speed-accuracy-trends-3-attempts-prep-strategy/) or prepare using our [Free NMAT Mock Test](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026).
 
 [👉 Unsure about your exam-day strategy? Speak to our MBA admission experts for last-minute guidance!](/inquiry/)
 

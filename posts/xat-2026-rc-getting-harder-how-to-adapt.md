@@ -38,7 +38,7 @@ category: Exams
 
 Ask any veteran MBA aspirant, and they will tell you that the Verbal and Logical Ability (VALR) section of the Xavier Aptitude Test (XAT) is a different beast compared to CAT. In particular, **Reading Comprehension (RC) in XAT** has earned a reputation for being abstract, philosophical, and intensely challenging.
 
-As we prepare for [XAT Exam 2026](/blog/all-about-xat-exam/), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
+As we prepare for [XAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
 
 In this guide, we analyze why XAT RC is getting harder and outline concrete strategies to adapt your reading style to clear the VALR cutoff.
 

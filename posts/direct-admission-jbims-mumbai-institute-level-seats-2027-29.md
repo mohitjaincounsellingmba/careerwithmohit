@@ -90,7 +90,7 @@ Yes, JBIMS accepts CAT and CMAT scores for All India Category seats through the 
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
-- [MAH MBA CET 2027–29 Exam Guide](/blog/all-about-mah-mba-cet-exam/)
+- [MAH MBA CET 2027–29 Exam Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Top 10 High-ROI MBA Colleges in India](/blog/mba-vs-pgdm-difference/)
 
 [👉 Confused about the JBIMS CAP process? Book a session with our Mumbai admission experts!](/inquiry/)

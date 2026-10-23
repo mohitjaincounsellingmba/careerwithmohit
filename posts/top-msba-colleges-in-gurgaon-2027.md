@@ -55,7 +55,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 | **[Masters' Union Gurgaon](/colleges/masters-union-gurgaon/)** (PGP Tech & Analytics) | ₹25.00 Lakhs | ₹31.00 LPA - ₹34.07 LPA | MU-BAAT / CAT / GMAT / GRE + Interview |
 | **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)** (PGDM Analytics Track) | ₹17.50 Lakhs | ₹15.80 LPA - ₹16.50 LPA | CAT / XAT / CMAT / GMAT (80%+ %ile) |
 | **[JK Business School (JKBS)](/colleges/jkbs-gurgaon/)** (PGDM DABI - IoA UK) | ₹8.50 Lakhs | ₹7.50 LPA - ₹9.20 LPA | CAT / MAT / CMAT / XAT / ATMA (High ROI) |
-| **[BML Munjal University (BMU)](/colleges/bml-munjal-university/)** (MBA Business Analytics) | ₹13.50 Lakhs | ₹9.20 LPA - ₹10.50 LPA | CAT / NMAT / XAT / GMAT / BMU-MAT |
+| **[BML Munjal University (BMU)](/blog/bml-munjal-university-btech-admission-2026-fees-review)** (MBA Business Analytics) | ₹13.50 Lakhs | ₹9.20 LPA - ₹10.50 LPA | CAT / NMAT / XAT / GMAT / BMU-MAT |
 | **SOIL Institute of Management** (PGPM / PGDM Analytics) | ₹15.50 Lakhs | ₹11.50 LPA - ₹12.20 LPA | CAT / XAT / NMAT / GMAT / SOIL Talent Test |
 | **Amity University Gurugram** (M.Sc Data Science & Analytics) | ₹4.80L - ₹8.50L | ₹6.50 LPA - ₹7.80 LPA | Graduation Merit (Maths/Stats/CS) / Amity Test |
 
@@ -108,7 +108,7 @@ Whether you aim for elite strategy consulting (McKinsey, Bain, BCG), investment 
 
 ---
 
-### 5. [BML Munjal University (BMU Gurugram)](/colleges/bml-munjal-university/), NH-48
+### 5. [BML Munjal University (BMU Gurugram)](/blog/bml-munjal-university-btech-admission-2026-fees-review), NH-48
 - **Flagship Offering**: MBA in Business Analytics (Academic Mentorship by Imperial College London)
 - **Total Tuition Fee**: ₹13.50 Lakhs
 - **Placement Performance**: Average CTC ₹9.20 LPA – ₹10.50 LPA | Highest Domestic CTC ₹25.00 LPA
@@ -161,5 +161,5 @@ Institutions like JKBS, BML Munjal, SOIL, and Amity conduct institutional entran
 ### 🚀 Boost Your Preparation
 
 - **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
-- **[Read: Masters' Union Gurgaon Review & Placements 2027–29](/blog/all-about-masters-union-gurgaon/)**
+- **[Read: Masters' Union Gurgaon Review & Placements 2027–29](/colleges/masters-union-gurgaon)**
 - **[Read: Data Analytics Scope After PGDM: JKBS DABI Review](/blog/data-analytics-scope-after-pgdm-jkbs-gurgaon-dabi/)**

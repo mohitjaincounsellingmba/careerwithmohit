@@ -109,7 +109,7 @@ In SNAP, you cannot afford to spend more than **60 seconds on any single questio
 - If you read a math question and do not see the solution path within 15 seconds, **skip it immediately**.
 - If a puzzle in the LR section takes more than 2 minutes, abandon it. A single skipped question does not hurt, but wasting 4 minutes on a single mark will ruin your paper.
 
-To learn more about the exam timeline and registration details, read our complete guide on [All About SNAP Exam](/blog/all-about-snap-exam/) and explore the details of top [Symbiosis MBA Institutes](/blog/all-about-symbiosis-mba-institutes/).
+To learn more about the exam timeline and registration details, read our complete guide on [All About SNAP Exam](/blog/10-tips-to-crack-cat-exam-2027-29) and explore the details of top [Symbiosis MBA Institutes](/blog/best-cat-coaching-institutes-and-fees-2027-29).
 
 [👉 Confused about how to improve your speed for SNAP? Get advice from our mentoring team today!](/inquiry/)
 

@@ -54,7 +54,7 @@ category: Jobs & Careers
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
 
-When it comes to elite business education in Asia, the **IIM BLACKI** group—**[IIM Bangalore](/colleges/iim-bangalore/), [IIM Lucknow](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/), [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Calcutta](/colleges/iim-calcutta/), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore/)**—alongside the newly designated **IIM Mumbai (formerly NITIE)**, represents the pinnacle of executive placements in India.
+When it comes to elite business education in Asia, the **IIM BLACKI** group—**[IIM Bangalore](/colleges/iim-bangalore/), [IIM Lucknow](/blog/1-year-online-mba-colleges-india-2027-29), [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Calcutta](/colleges/iim-calcutta/), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore/)**—alongside the newly designated **IIM Mumbai (formerly NITIE)**, represents the pinnacle of executive placements in India.
 
 The **2025 placement season** at these premier institutes demonstrated undeniable institutional strength. While lateral hiring in the broader IT sector experienced recalibration, global management consulting conglomerates, private equity firms, bulge-bracket investment banks, and consumer goods giants competed vigorously on these 7 campuses.
 

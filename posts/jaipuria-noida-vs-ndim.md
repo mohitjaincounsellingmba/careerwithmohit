@@ -73,7 +73,7 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 *   **The Pros**: Excellent infrastructure, strong faculty, and top-tier guest lectures. The campus life is vibrant.
 *   **The Cons**: With a very large batch size across multiple campuses, placement competition can sometimes be fierce. The average package hovers around ₹8.95 LPA, which is good but slightly trails behind top-tier Delhi competitors when factoring in living costs in Noida.
 
-*(Read our full [Jaipuria Noida Review](/blog/all-about-jaipuria-institute-of-management/))*
+*(Read our full [Jaipuria Noida Review](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review))*
 
 ---
 
@@ -89,7 +89,7 @@ Location plays a massive role in MBA networking. Being situated in Tughlakabad, 
 #### **3. Unmatched Industry Integration**
 NDIM is famously backed by a board of seasoned industry professionals and former bureaucrats. The curriculum is heavily case-based, ensuring students don't just learn theory but actually solve real-world problems. The result? Recruiters from Deloitte, BlackRock, PwC, and KPMG actively prefer NDIM graduates for core roles in Finance and Marketing.
 
-*(Read our full [NDIM Delhi Review](/blog/ndim-delhi-review-2027-29/))*
+*(Read our full [NDIM Delhi Review](/colleges/ndim-delhi))*
 
 ---
 

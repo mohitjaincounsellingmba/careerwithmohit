@@ -355,7 +355,7 @@ export default function MatPredictorPage() {
                             </div>
                             <ArrowRight className="w-5 h-5 text-slate-300 group-hover:text-emerald-500 transition-colors group-hover:translate-x-1" />
                         </Link>
-                        <Link href="/blog/all-about-gl-bajaj-greater-noida/" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
+                        <Link href="/blog/gl-bajaj-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/" className="p-6 rounded-2xl bg-slate-50 border-2 border-slate-100 hover:border-emerald-500 hover:shadow-lg transition-all group flex items-center justify-between">
                             <div>
                                 <h4 className="font-bold text-slate-900 group-hover:text-emerald-600 transition-colors">GL Bajaj Greater Noida Review</h4>
                                 <p className="text-xs text-slate-500 mt-1">Top MAT accepting college in NCR</p>

@@ -79,7 +79,7 @@ No, it is a profile-linked merit process conducted through the institutional quo
 ---
 
 ## 🔗 Related Resources
-- [All About TAPMI Manipal Review](/blog/all-about-tapmi/)
+- [All About TAPMI Manipal Review](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29)
 - [Top MBA Colleges in India 2027–29 Guide](/blog/acca-benefits-with-mba-career-guide-2027-29/)
 - [Direct MBA Admission India Master List](/blog/direct-mba-admission-india/)
 

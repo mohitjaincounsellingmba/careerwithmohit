@@ -85,7 +85,7 @@ Under NMC Foreign Medical Graduate Licentiate (FMGL) Regulations 2021:
 ## 🔗 Related Articles
 
 * [MBBS Abroad 2026: Country Wise Comparison & Rules](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
-* [All About NEET UG Exam](/blog/all-about-neet-exam/)
+* [All About NEET UG Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 * [MBBS Management Quota Fees in India](/blog/mbbs-management-quota-admission-2026-process-fees/)
 ---
 

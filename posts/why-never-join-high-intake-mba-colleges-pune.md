@@ -30,7 +30,7 @@ faqs:
       considered high and requires a massive corporate network to place everyone
       fairly.
   - question: How can I check the real intake of a college?
-    answer: "Check the **AICTE Extension of Approval (EoA)** letter on the college website. They are legally required to disclose their approved intake.\n\n[\U0001F449 Not sure if a high intake college is right for you? Get a Profile Review!](/inquiry/)\n\n**Related Posts:**\n*   [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)\n*   [The Pool Placement Trap: Why You Should Never Join](/blog/why-never-join-pool-placement-colleges-mba-pgdm/)\n*   [Direct Admission in Pune MBA Colleges 2027–29](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission/)"
+    answer: "Check the **AICTE Extension of Approval (EoA)** letter on the college website. They are legally required to disclose their approved intake.\n\n[\U0001F449 Not sure if a high intake college is right for you? Get a Profile Review!](/inquiry/)\n\n**Related Posts:**\n*   [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)\n*   [The Pool Placement Trap: Why You Should Never Join](/blog/why-never-join-pool-placement-colleges-mba-pgdm/)\n*   [Direct Admission in Pune MBA Colleges 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)"
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
@@ -130,7 +130,7 @@ Check the **AICTE Extension of Approval (EoA)** letter on the college website. T
 **Related Posts:**
 *   [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
 *   [The Pool Placement Trap: Why You Should Never Join](/blog/why-never-join-pool-placement-colleges-mba-pgdm/)
-*   [Direct Admission in Pune MBA Colleges 2027–29](/blog/mba-pgdm-colleges-under-10-lakhs-pune-direct-admission/)
+*   [Direct Admission in Pune MBA Colleges 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
 
 
 

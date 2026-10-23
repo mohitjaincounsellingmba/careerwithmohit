@@ -86,7 +86,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ## Detailed Hub Analysis
 
 ### 1. Delhi NCR Hub (60–75 Percentile Options)
-* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/blog/ndim-delhi-review-2027-29/) and [All About FOSTIIMA Delhi](/blog/all-about-fostiima-delhi/).
+* **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/colleges/ndim-delhi) and [All About FOSTIIMA Delhi](/colleges/fostiima-delhi).
 * **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/all-about-fiib-delhi/) and [All About JIMS Kalkaji](/colleges/jims-kalkaji/).
 
 ### 2. Pune Hub (50–70 Percentile Options)
@@ -94,7 +94,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 * **[RIIM Pune](/colleges/riim-pune/):** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune/).
 
 ### 3. Greater Noida Hub (50–65 Percentile Options)
-* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/blog/all-about-gl-bajaj-greater-noida/) and [All About GNIOT GIMS](/colleges/gniot-greater-noida/).
+* **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida) and [All About GNIOT GIMS](/colleges/gniot-greater-noida/).
 
 ---
 
@@ -107,7 +107,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ---
 
 ## Related Reads
-- [All About CAT Exam](/blog/all-about-cat-exam/)
+- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
 - [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam/)
 

@@ -203,8 +203,8 @@ CAT 2026 will be conducted on **November 29, 2026 (Sunday)** in three computer-b
 
 ### Related Articles & Useful Resources
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam/)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)
+* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/1-year-online-mba-colleges-india-2027-29)
 * [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test/)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
 * [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)

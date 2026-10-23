@@ -84,7 +84,7 @@ For management aspirants targeting Delhi NCR business schools that combine inter
 
 Situated in the upscale diplomatic enclave of **Vasant Vihar (South Delhi)**, FIIB is an **AACSB Business Education Alliance member**, accredited by the **National Board of Accreditation (NBA)**, and granted **AIU MBA Equivalence**. But with an overall fee of approximately ₹12.85 Lakhs, does FIIB justify the investment for the upcoming **2027–2029 session**?
 
-In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college's verified **fee schedule, latest placement data, expected cutoffs, specialization tracks, campus life, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2027-29/), [FOSTIIMA Business School](/blog/fostiima-business-school-review-2027-29/), and [JIMS Kalkaji](/colleges/jims-kalkaji/)**.
+In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college's verified **fee schedule, latest placement data, expected cutoffs, specialization tracks, campus life, pros & cons, and comparisons with [NDIM Delhi](/colleges/ndim-delhi), [FOSTIIMA Business School](/blog/fostiima-business-school-review-2027-29/), and [JIMS Kalkaji](/colleges/jims-kalkaji/)**.
 
 ---
 
@@ -193,10 +193,10 @@ FIIB structures its learning models around future-facing business needs:
 
 | Entrance Exam | Minimum Eligibility Cutoff | Safe Merit Shortlist Zone |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/all-about-cat-exam/)** | 60%ile | 65%ile+ |
-| **[XAT Exam](/blog/all-about-xat-exam/)** | 60%ile | 65%ile+ |
-| **[MAT Exam](/blog/all-about-mat-exam/)** | 75%ile | 80%ile+ |
-| **[CMAT Exam](/blog/all-about-cmat-exam/)** | 70%ile | 75%ile+ |
+| **[CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 60%ile | 65%ile+ |
+| **[XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 60%ile | 65%ile+ |
+| **[MAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 75%ile | 80%ile+ |
+| **[CMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 70%ile | 75%ile+ |
 | **ATMA Exam** | 75%ile | 80%ile+ |
 
 ### Selection Stages
@@ -226,7 +226,7 @@ FIIB structures its learning models around future-facing business needs:
 
 ## 7. FIIB vs. Competitors: Detailed Comparison
 
-| Feature | **FIIB South Delhi** | **[NDIM Delhi](/blog/ndim-delhi-review-2027-29/)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29/)** | **[JIMS Kalkaji](/colleges/jims-kalkaji/)** |
+| Feature | **FIIB South Delhi** | **[NDIM Delhi](/colleges/ndim-delhi)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-review-2027-29/)** | **[JIMS Kalkaji](/colleges/jims-kalkaji/)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Vasant Vihar, South Delhi | Tughlakabad, South Delhi | Dwarka, West Delhi | Kalkaji, South Delhi |
 | **Total Program Fee** | **₹12.85 Lakhs** | ₹13.75 Lakhs | ₹11.50 Lakhs | ₹10.75 Lakhs |
@@ -245,7 +245,7 @@ FIIB structures its learning models around future-facing business needs:
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[FIIB South Delhi](/colleges/fiib-delhi/)** | **₹12.85 Lakhs** | **₹8.50 – ₹9.00 LPA** | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
-| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
 | **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
 | **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
 | **[JIMS Kalkaji](/colleges/jims-kalkaji/)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |

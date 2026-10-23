@@ -92,7 +92,7 @@ If your primary focus is landing a high-paying corporate role right after gradua
 *   **Why it wins**: Situated in Bangalore's Electronic City, XIME offers incredible corporate exposure. It boasts a **₹10.00 LPA average package** and maintains a 100% placement rate for its PGDM program.
 *   **Best For**: Business Analytics and HR.
 
-> **Note**: If you want to check your chances of getting into these colleges with your current score, read our detail-packed guides on [all about MAT exam](/blog/all-about-mat-exam/) and how to navigate [direct MBA admission in India](/blog/direct-mba-admission-india/).
+> **Note**: If you want to check your chances of getting into these colleges with your current score, read our detail-packed guides on [all about MAT exam](/blog/10-tips-to-crack-cat-exam-2027-29) and how to navigate [direct MBA admission in India](/blog/direct-mba-admission-india/).
 
 ---
 

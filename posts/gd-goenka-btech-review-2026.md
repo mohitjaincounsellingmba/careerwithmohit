@@ -111,7 +111,7 @@ Admissions are based on a mix of entrance scores and personal interaction:
 ## 🔗 Related Resources
 *   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
 *   [Top BTech Colleges in Gurgaon 2026](/blog/top-btech-colleges-gurgaon-2026/)
-*   [All About GD Goenka University](/blog/all-about-gd-goenka-university/)
+*   [All About GD Goenka University](/blog/gd-goenka-bba-review-2026)
 *   [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
 
 ---

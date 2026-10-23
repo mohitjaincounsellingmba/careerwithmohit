@@ -74,8 +74,8 @@ category: Jobs & Careers
 
 ### **Read More Placement Reviews:**
 *   [Jaipuria Noida Placement Review 2025](/blog/jaipuria-noida-placement-review-2027-29/)
-*   [NDIM Delhi Placement Review 2025](/blog/ndim-placement-review-2027-29/)
-*   [MICA Ahmedabad 2026 Placement Review](/blog/mica-ahmedabad-review-2027-29/)
+*   [NDIM Delhi Placement Review 2025](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [MICA Ahmedabad 2026 Placement Review](/colleges/mica-ahmedabad)
 
 [👉 Get Direct Admission Guidance for BIMTECH Greater Noida!](/inquiry/)
 

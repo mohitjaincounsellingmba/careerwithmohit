@@ -203,7 +203,7 @@ Located in Jadcherla, NMIMS Hyderabad provides a sprawling residential environme
 
 To help you decide whether NMIMS Hyderabad matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Hyderabad and other NMIMS campuses:
 
-| Parameter | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [NMIMS Navi Mumbai](/colleges/nmims-navi-mumbai/) | [NMIMS Indore](/colleges/nmims-indore/) | [IMT Hyderabad](/colleges/imt-hyderabad/) |
+| Parameter | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [NMIMS Navi Mumbai](/colleges/nmims-navi-mumbai/) | [NMIMS Indore](/colleges/nmims-indore/) | [IMT Hyderabad](/blog/anurag-university-hyderabad-review-2027-29) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Jadcherla, Hyderabad | Kharghar, Navi Mumbai | Super Corridor, Indore | Shamshabad, Hyderabad |
 | **Global Accreditation** | **AMBA (UK) Accredited** | AACSB Member | NBA / AICTE | SAQS Accredited |

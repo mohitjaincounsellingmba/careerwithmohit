@@ -93,7 +93,7 @@ Mathematics is the foundation of structural design and stability.
 1.  **Look Beyond Traditional Degrees:** High-level math certifications can sometimes be as valuable as a degree.
 2.  **Combine Math with Coding:** Python and R are essential tools for a mathematician in 2026.
 3.  **Aim for Top Institutes:** ISI, IISc, IITs, and BITS have the best placement records for math-heavy roles.
-    *   **Internal Link:** Learn about the [BITS Pilani Experience](/blog/all-about-bits-pilani-campuses/).
+    *   **Internal Link:** Learn about the [BITS Pilani Experience](/colleges/bits-pilani).
 
 ### Final Thoughts
 Mathematics is a versatile subject that opens more doors than any other stream. It's not just about solving equations; it's about developing the logical mind that the world of 2026 values above all else.

@@ -134,7 +134,7 @@ With the CAT exam scheduled for November, the mid-year window is the perfect tim
 
 ## Useful Resources:
 *   **[CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/)**
-*   **[Everything You Need to Know About CAT Exam](/blog/all-about-cat-exam/)**
+*   **[Everything You Need to Know About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)**
 *   **[All IIM Cut-offs for 2027–29 Batch](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
 *   **[Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide/)**
 

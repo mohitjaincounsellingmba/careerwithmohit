@@ -249,14 +249,14 @@ Getting instant access to all 6 study guides, syllabus PDFs, and placement maste
 
 To supercharge your admission journey, explore our in-depth analysis of major entrance tests and top B-schools:
 
-* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs](/blog/all-about-cat-exam/)**
-* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs](/blog/all-about-xat-exam/)**
+* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)**
 * **[All About NMAT Exam 2026: [NMIMS Mumbai](/colleges/nmims-mumbai/) Cutoffs & Scoring](/blog/all-about-nmat-exam)**
-* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam/)**
-* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges](/blog/all-about-mat-exam/)**
-* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy](/blog/all-about-cmat-exam/)**
-* **[All About OMET MBA Entrance Exams 2027–29](/blog/all-about-omets-mba-entrance-exams-2027-29/)**
-* **[IIM Colleges Placements, Fees & Selection Criteria 2026](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)**
+* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[All About OMET MBA Entrance Exams 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)**
+* **[IIM Colleges Placements, Fees & Selection Criteria 2026](/blog/1-year-online-mba-colleges-india-2027-29)**
 
 ---
 

@@ -96,7 +96,7 @@ The gap between SNAP slots is usually **7 to 10 days**. Here is how to spend tha
 - **Analyze Slot 1 feedback:** MBA portals publish slot analyses immediately after the exam. Read these to understand which topics (e.g., specific arithmetic models or logical puzzles) were heavily tested.
 - **Solve 2 short sectional tests daily:** Focus entirely on maintaining your calculation speed.
 
-To learn more about Symbiosis institutes and their fee structures, read our [All About Symbiosis MBA Institutes](/blog/all-about-symbiosis-mba-institutes/) guide or prepare with our [Free CAT Mock Test](/tools/cat-mock-test/).
+To learn more about Symbiosis institutes and their fee structures, read our [All About Symbiosis MBA Institutes](/blog/best-cat-coaching-institutes-and-fees-2027-29) guide or prepare with our [Free CAT Mock Test](/tools/cat-mock-test/).
 
 [👉 Need assistance planning your SNAP registration schedule? Get in touch with our experts today!](/inquiry/)
 

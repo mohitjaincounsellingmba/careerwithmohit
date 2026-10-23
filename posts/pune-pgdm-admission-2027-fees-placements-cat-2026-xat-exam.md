@@ -87,7 +87,7 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2027–
 * **High ROI Model:** Provides complete tuition + certification + international educational tour under ₹8.90 Lakhs with strong placement support. Read [All About RIIM Pune](/blog/all-about-riim-pune/).
 
 ### 4. DY Patil B-School & Indira Group (ISBS)
-* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/colleges/dy-patil-b-school/) and [All About ISBS Pune](/blog/all-about-isbs-pune/).
+* Both institutes offer robust university-affiliated and autonomous PGDM programs with strong ties to Pune's automotive and manufacturing corridors (Pimpri-Chinchwad, Chakan). Explore [All About DY Patil B-School](/colleges/dy-patil-b-school/) and [All About ISBS Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29).
 
 ---
 
@@ -103,7 +103,7 @@ For candidates targeting **PGDM admission 2027** and preparing for **CAT 2027–
 ## Related Guides & Comparisons
 - [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29/)
 - [All About SIBM Pune](/blog/all-about-sibm-pune/)
-- [All About CAT Exam](/blog/all-about-cat-exam/)
+- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
 
 ---
 

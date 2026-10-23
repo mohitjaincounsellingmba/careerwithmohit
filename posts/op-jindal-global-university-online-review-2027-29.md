@@ -86,7 +86,7 @@ OP Jindal’s online programs are optimized for the 2026 global workforce:
 Yes. All online programs from O.P. Jindal Global University are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles worldwide.
 
 ## Your Path to a Global Career
-- **Compare:** Check [Amity Online 2026](/blog/amity-university-online-review-2027-29/) vs [NMIMS Online 2026](/blog/nmims-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29) vs [NMIMS Online 2026](/blog/1-year-online-mba-colleges-india-2027-29).
 - **Global Hub:** Read about [Top-5 Online MBAs with AACSB in India](/online-degree-certification/).
 - **Consultation:** Not sure if this global brand fits your budget? [Consult with Mohit Jain today!](/inquiry/)
 

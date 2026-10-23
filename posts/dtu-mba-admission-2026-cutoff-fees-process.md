@@ -39,7 +39,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/all-about-cat-exam/) aspirants.
+Delhi Technological University (DTU), a premier engineering institution, is also making a significant mark in the field of management education. With excellent ROI and strong industry connections, the MBA programs at DTU are highly sought after by [CAT exam](/blog/10-tips-to-crack-cat-exam-2027-29) aspirants.
 
 DTU offers MBA programs through two distinct campuses/departments:
 1. **Delhi School of Management (DSM)** - Located at the Main Campus (Rohini)

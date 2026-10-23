@@ -209,7 +209,7 @@ Located in Bavdhan, RIIM provides a modern corporate academic environment:
 
 To help you decide whether RIIM matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Pune:
 
-| Parameter | [RIIM Pune](/colleges/riim-pune/) | [PIBM Pune](/colleges/pibm-pune/) | [ISB&M Pune (Nande)](/colleges/isbm-pune/) | [Indira Pune (ISBS)](/colleges/indira-pune/) |
+| Parameter | [RIIM Pune](/colleges/riim-pune/) | [PIBM Pune](/colleges/pibm-pune/) | [ISB&M Pune (Nande)](/colleges/isbm-pune/) | [Indira Pune (ISBS)](/blog/indira-pune-review-2027-29) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Bavdhan, Pune | Pirangut, Pune | Nande, Pune | Wakad, Pune |
 | **Flagship Degrees** | SPPU MBA & AICTE PGDM | AICTE PGDM & SPPU MBA | AICTE PGDM | AICTE PGDM & MBA |

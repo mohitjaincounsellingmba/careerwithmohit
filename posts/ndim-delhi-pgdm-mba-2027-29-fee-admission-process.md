@@ -291,7 +291,7 @@ NDIM Delhi continues its **100% placement legacy** driven by its strong corporat
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[NDIM New Delhi](/colleges/ndim-delhi/)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School](/blog/fostiima-business-school-delhi-pgdm-admission-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by IIM-A Alumni |
+| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by IIM-A Alumni |
 | **[FIIB South Delhi](/colleges/fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
 | **[Jaipuria Institute (Noida/LKO/JAI)](/colleges/jaipuria-noida/)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member, NBA |
 | **[JIMS Rohini / Kalkaji](/colleges/jims-kalkaji/)** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
@@ -315,7 +315,7 @@ For aspirants targeting NDIM’s 32nd Batch (2027–29), applying in early round
 Explore related MBA resources:
 *   [Top Tier MBA Colleges in India: Compare Fees & Placements](/top-tier-mba-colleges/)
 *   [Top 10 MBA Colleges in Delhi NCR 2027–29](/blog/top-10-mba-colleges-delhi-ncr-2027-29/)
-*   [NDIM Delhi Comprehensive Campus Review & Highlights](/blog/ndim-delhi-review-2027-29/)
+*   [NDIM Delhi Comprehensive Campus Review & Highlights](/colleges/ndim-delhi)
 *   [MBA & PGDM Direct Admission Complete Guide 2027](/mba-pgdm-admission-2027/)
 *   [Explore 200+ Top Business Schools in India](/colleges/)
 

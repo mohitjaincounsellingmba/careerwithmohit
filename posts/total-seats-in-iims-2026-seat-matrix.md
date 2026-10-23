@@ -149,8 +149,8 @@ The youngest generation of IIMs has rapidly expanded their infrastructure and se
 
 ### **Related Reading**
 *   [All IIM Cut Off 2027–29: CAT Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
-*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/all-about-iim-colleges-placements-fees-selection-2027-29/)
-*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/all-about-cat-exam/)
+*   [Complete List of 21 IIMs: Courses, Placements & Cutoffs](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [All About CAT Exam: Syllabus, Dates & Preparation](/blog/10-tips-to-crack-cat-exam-2027-29)
 *   [MBA vs PGDM: Which is Better for Your Career in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---

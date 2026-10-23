@@ -171,9 +171,9 @@ The university does have a **management quota** for a limited number of seats, b
 ### **Explore More Resources**
 
 - [REAP Counselling 2026 – Rajasthan B.Tech Admission Guide](/blog/reap-counselling-2026-rajasthan-btech-admission/)
-- [JECRC University MBA Review 2026](/blog/jecrc-university-mba-review-2027-29/)
+- [JECRC University MBA Review 2026](/blog/1-year-online-mba-colleges-india-2027-29)
 - [Direct Admission in [Manipal University Jaipur](/colleges/manipal-university-jaipur/) for B.Tech 2026](/blog/direct-admission-manipal-university-jaipur-btech-2026)
-- [All About JEE Exam – Complete Guide](/blog/all-about-jee-exam/)
+- [All About JEE Exam – Complete Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [B.Tech Specializations, Skills & Salary Guide](/blog/btech-specializations-skills-salary-2026-guide/)
 
 ---

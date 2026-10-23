@@ -138,7 +138,7 @@ Malaysia is the **most affordable English-speaking study destination** in Asia f
 
 ### 🔗 Related Reads
 
-- [All About IELTS Exam 2026](/blog/all-about-ielts-exam-eligibility-curriculum-uses/)
+- [All About IELTS Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
 - [MBBS Abroad for Indian Students 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
 - [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 

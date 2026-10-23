@@ -344,7 +344,7 @@ If you're planning to apply to a Central University through CUET 2026 and need p
 - [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise/)
 - [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2027-29/)
 - [Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)
-- [FMS Delhi MBA Admission 2027–2029](/blog/all-about-fms-delhi/)
+- [FMS Delhi MBA Admission 2027–2029](/colleges/fms-delhi)
 
 ---
 
