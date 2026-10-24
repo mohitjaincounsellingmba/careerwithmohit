@@ -2,6 +2,7 @@ import { getCollegeBySlug, getAllColleges, type CollegeMetadata } from "@/lib/co
 import { notFound } from "next/navigation";
 import { CollegeDetailClient } from "@/components/CollegeDetailClient";
 import { JsonLd } from "@/components/JsonLd";
+import { SxoFloatingBar } from "@/components/SxoFloatingBar";
 import type { Metadata } from "next";
 
 interface PageProps {
@@ -316,6 +317,7 @@ export default async function CollegeDetailPage({ params }: PageProps) {
       <JsonLd data={jsonLdFaQ} />
       <JsonLd data={jsonLdBreadcrumb} />
       <CollegeDetailClient college={college} similarColleges={similarColleges} />
+      <SxoFloatingBar title={`${college.name} Admission 2027`} slug={`colleges/${slug}`} />
     </>
   );
 }

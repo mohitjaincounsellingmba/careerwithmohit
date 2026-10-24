@@ -16,6 +16,9 @@ import { AdUnit } from "@/components/AdUnit";
 import { BlogViewCounter } from "@/components/BlogViewCounter";
 import { BlogPostABHeader } from "@/components/BlogPostABHeader";
 import { SocialShareButtons } from "@/components/SocialShareButtons";
+import { AiOverviewBox } from "@/components/AiOverviewBox";
+import { SxoTableOfContents } from "@/components/SxoTableOfContents";
+import { SxoFloatingBar } from "@/components/SxoFloatingBar";
 
 
 function cleanMarkdown(text: string | undefined): string {
@@ -36,6 +39,135 @@ function extractNodeText(node: React.ReactNode): string {
     return extractNodeText((node.props as any).children);
   }
   return "";
+}
+
+function slugifyHeading(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-");
+}
+
+function extractHeadingsFromMarkdown(content: string): { title: string; id: string }[] {
+  if (!content) return [];
+  const headingRegex = /^##\s+(.+)$/gm;
+  const headings: { title: string; id: string }[] = [];
+  const seenIds = new Set<string>();
+  let match;
+  while ((match = headingRegex.exec(content)) !== null) {
+    const rawTitle = cleanMarkdown(match[1]);
+    if (
+      rawTitle &&
+      !rawTitle.toLowerCase().includes("[inquirycard") &&
+      !rawTitle.toLowerCase().includes("key takeaways")
+    ) {
+      let id = slugifyHeading(rawTitle);
+      if (!id) id = `section-${headings.length + 1}`;
+      if (seenIds.has(id)) {
+        id = `${id}-${headings.length + 1}`;
+      }
+      seenIds.add(id);
+      headings.push({
+        title: rawTitle,
+        id,
+      });
+      if (headings.length >= 20) break;
+    }
+  }
+  return headings;
+}
+
+function parseAiOverviewData(postData: any, geoResult: GeoLocationResult) {
+  const content = postData.content || "";
+  const title = cleanMarkdown(postData.title || "");
+  const description = cleanMarkdown(postData.description || "");
+
+  let summaryText = "";
+  const bullets: string[] = [];
+
+  // Check if there is an existing blockquote with Key Takeaways
+  const takeawayMatch = content.match(/>\s*(?:💡|🤖)?\s*\*\*Key Takeaways[^\n]*\*\*([\s\S]*?)(?=\n\n---|\n\n##|\n\n\[InquiryCard|$)/i);
+  if (takeawayMatch) {
+    const rawBlock = takeawayMatch[1];
+    const bulletLines = rawBlock
+      .split("\n")
+      .map((line: string) => line.replace(/^>\s*[-*•]?\s*/, "").trim())
+      .filter((line: string) => line.length > 5);
+
+    if (bulletLines.length > 0) {
+      summaryText = cleanMarkdown(bulletLines[0]);
+      for (let i = 1; i < Math.min(bulletLines.length, 5); i++) {
+        bullets.push(cleanMarkdown(bulletLines[i]));
+      }
+    }
+  }
+
+  // Fallback summary if no blockquote match
+  if (!summaryText) {
+    if (postData.faqs && postData.faqs.length > 0) {
+      summaryText = cleanMarkdown(postData.faqs[0].answer);
+      if (postData.faqs.length > 1) {
+        bullets.push(cleanMarkdown(postData.faqs[1].answer));
+      }
+    } else if (description) {
+      summaryText = description;
+    } else {
+      summaryText = `Comprehensive 2027 admissions guide for ${title}, covering verified fees, cutoffs, placements ROI, and direct admission counselling by Mohit Jain.`;
+    }
+  }
+
+  // Extract Key Facts
+  const facts: { label: string; value: string; icon?: "fees" | "placement" | "cutoff" | "location" | "degree" | "verdict" }[] = [];
+
+  // Fees extraction
+  const feesMatch = content.match(/(?:fees?|tuition|fee structure)[^.\n]*?(?:of|is|:)?\s*(₹\s*[\d.]+\s*(?:Lakhs?|LPA|Cr|Crores?|k)?(?:\s*(?:to|-)\s*₹?\s*[\d.]+\s*(?:Lakhs?|LPA)?)?)/i) ||
+                    content.match(/(₹\s*[\d.]+\s*(?:Lakhs?|Cr))/i);
+  if (feesMatch) {
+    facts.push({
+      label: "Total Fees",
+      value: feesMatch[1].trim(),
+      icon: "fees",
+    });
+  }
+
+  // Placement extraction
+  const placementMatch = content.match(/(?:average\s*(?:domestic)?\s*(?:placement|package|salary)|median\s*package)[^.\n]*?(?:of|is|:)?\s*(₹\s*[\d.]+\s*LPA(?:\s*(?:to|-)\s*₹?\s*[\d.]+\s*LPA)?)/i) ||
+                         content.match(/(₹\s*[\d.]+\s*LPA)/i);
+  if (placementMatch) {
+    facts.push({
+      label: "Avg Package",
+      value: placementMatch[1].trim(),
+      icon: "placement",
+    });
+  }
+
+  // Cutoff extraction
+  const cutoffMatch = content.match(/(?:CAT|MAT|XAT|CMAT|ATMA|NMAT|SNAP|CET|CUET)[^.\n]*?(?:cutoff|percentile)[^.\n]*?(?:is|of|:)?\s*([0-9]+(?:\.[0-9]+)?(?:\s*(?:to|-)\s*[0-9]+)?\s*percentile|[0-9]+\+?\s*%ile)/i) ||
+                      content.match(/([0-9]{2,3}(?:\.[0-9]+)?\s*percentile)/i);
+  if (cutoffMatch) {
+    facts.push({
+      label: "Cutoff Target",
+      value: cutoffMatch[1].trim(),
+      icon: "cutoff",
+    });
+  } else {
+    facts.push({
+      label: "Exams Accepted",
+      value: "CAT / MAT / CMAT / Direct",
+      icon: "cutoff",
+    });
+  }
+
+  // Location
+  const loc = postData.location || (geoResult.hasGeo ? geoResult.placename.split(",")[0] : "Delhi NCR / Pan-India");
+  facts.push({
+    label: "Location",
+    value: loc,
+    icon: "location",
+  });
+
+  return { summaryText, bullets, facts };
 }
 
 interface GeoLocationResult {
@@ -468,6 +600,28 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     }))
   } : null;
 
+  const isCollegePost = /review|mba|pgdm|bba|btech|admission|cutoff|fees|placements/i.test(postData.title || "");
+  const collegeSchema = isCollegePost ? {
+    "@context": "https://schema.org",
+    "@type": "EducationalOccupationalProgram",
+    "name": cleanedTitle,
+    "description": cleanMarkdown(postData.description || postData.content?.substring(0, 160)),
+    "provider": {
+      "@type": "EducationalOrganization",
+      "name": (postData as any).location ? `${cleanedTitle.split("Review")[0].trim()}` : "CareerWithMohit Partner Institution",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": geoResult.placename || "India"
+      }
+    },
+    "educationalCredentialAwarded": postData.category || "Postgraduate Degree / Diploma",
+    "occupationalCategory": "Management & Business Administration",
+    "timeToComplete": "P2Y"
+  } : null;
+
+  const aiOverviewData = parseAiOverviewData(postData, geoResult);
+  const tocHeadings = extractHeadingsFromMarkdown(postData.content || "");
+
   return (
     <article className="w-full bg-slate-50 pb-24 font-body">
       {postData.ab_test?.id && (
@@ -475,6 +629,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       )}
       <JsonLd data={articleData} />
       <JsonLd data={breadcrumbSchema} />
+      {collegeSchema && <JsonLd data={collegeSchema} />}
       {faqData && <JsonLd data={faqData} />}
       {howToSchema && <JsonLd data={howToSchema} />}
       {quizSchema && <JsonLd data={quizSchema} />}
@@ -537,20 +692,71 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             />
           </div>
         )}
+
+        {/* AIO: DIRECT AI OVERVIEW & KEY FACTS MATRIX */}
+        <AiOverviewBox
+          title={cleanedTitle}
+          summaryText={aiOverviewData.summaryText}
+          bulletPoints={aiOverviewData.bullets}
+          facts={aiOverviewData.facts}
+          category={postData.category}
+        />
+
+        {/* SXO: INTERACTIVE TABLE OF CONTENTS (ZERO BOUNCE) */}
+        {tocHeadings.length > 0 && (
+          <SxoTableOfContents headings={tocHeadings} />
+        )}
+
         <div className="prose prose-xl prose-slate max-w-none">
           <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
             components={{
-              h1: ({ node, ...props }) => (
-                <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
-              ),
-              h2: ({ node, ...props }) => (
-                <h2 className="font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6" {...props} />
-              ),
-              h3: ({ node, ...props }) => (
-                <h3 className="font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-8 border-l-8 border-primary pl-6" {...props} />
-              ),
+              h1: ({ node, ...props }) => {
+                const text = extractNodeText(props.children);
+                const id = slugifyHeading(text);
+                return (
+                  <h2
+                    id={id}
+                    className="scroll-mt-28 font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6 group"
+                    {...props}
+                  >
+                    <a href={`#${id}`} className="hover:text-primary transition-colors">
+                      {props.children}
+                    </a>
+                  </h2>
+                );
+              },
+              h2: ({ node, ...props }) => {
+                const text = extractNodeText(props.children);
+                const id = slugifyHeading(text);
+                return (
+                  <h2
+                    id={id}
+                    className="scroll-mt-28 font-display text-4xl sm:text-5xl font-black uppercase tracking-tight text-foreground mt-24 mb-10 border-b-8 border-foreground pb-6 group"
+                    {...props}
+                  >
+                    <a href={`#${id}`} className="hover:text-primary transition-colors">
+                      {props.children}
+                    </a>
+                  </h2>
+                );
+              },
+              h3: ({ node, ...props }) => {
+                const text = extractNodeText(props.children);
+                const id = slugifyHeading(text);
+                return (
+                  <h3
+                    id={id}
+                    className="scroll-mt-28 font-display text-2xl sm:text-3xl font-black uppercase tracking-tight text-primary mt-16 mb-8 border-l-8 border-primary pl-6 group"
+                    {...props}
+                  >
+                    <a href={`#${id}`} className="hover:underline">
+                      {props.children}
+                    </a>
+                  </h3>
+                );
+              },
               p: ({ node, children, ...props }) => {
                 const content = String(children);
                 if (content.startsWith('[InquiryCard') && content.endsWith(']')) {
@@ -617,16 +823,8 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 const isKeyTakeaway = /key takeaways|ai answer summary|direct ai answer|quick takeaways|💡|🤖/i.test(contentStr);
 
                 if (isKeyTakeaway) {
-                  return (
-                    <blockquote className="ai-summary-card my-10 relative overflow-hidden not-italic" {...props}>
-                      <div className="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-amber-400 mb-4 bg-amber-400/10 px-3 py-1 rounded-md border border-amber-400/30 w-fit">
-                        <span>🤖 Direct AI Answer Summary (ChatGPT & Gemini Optimized)</span>
-                      </div>
-                      <div className="relative z-10 text-base md:text-lg font-medium leading-relaxed">
-                        {children}
-                      </div>
-                    </blockquote>
-                  );
+                  // Key Takeaways are rendered at the top in AiOverviewBox
+                  return null;
                 }
 
                 return (
@@ -814,6 +1012,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </div>
         </div>
       </div>
+
+      {/* SXO: FLOATING READING PROGRESS & WHATSAPP ADMISSION CONVERSION BAR */}
+      <SxoFloatingBar title={cleanedTitle} slug={slug} />
     </article>
   );
 }
