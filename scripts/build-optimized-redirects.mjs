@@ -246,30 +246,31 @@ export const onRequest: PagesFunction = async (context) => {
   const url = new URL(context.request.url);
   const pathname = url.pathname.toLowerCase();
 
-  // 1. Direct match on path without trailing slash
+  // Normalize path without trailing slash
   const normPath = pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
 
-  if (REDIRECT_MAP[normPath]) {
-    const dest = REDIRECT_MAP[normPath];
-    const destinationUrl = new URL(dest, url.origin);
-    return Response.redirect(destinationUrl.toString(), 301);
+  const target = REDIRECT_MAP[normPath] || REDIRECT_MAP[pathname];
+  if (target) {
+    const destinationUrl = new URL(target, url.origin);
+    const destPath = destinationUrl.pathname.toLowerCase();
+    const normDest = destPath.length > 1 && destPath.endsWith('/') ? destPath.slice(0, -1) : destPath;
+
+    // Safety guard: prevent redirect loops if target equals requested path
+    if (normDest !== normPath && destPath !== pathname) {
+      return Response.redirect(destinationUrl.toString(), 301);
+    }
   }
 
-  // 2. Direct match on path as-is
-  if (REDIRECT_MAP[pathname]) {
-    const dest = REDIRECT_MAP[pathname];
-    const destinationUrl = new URL(dest, url.origin);
-    return Response.redirect(destinationUrl.toString(), 301);
-  }
-
-  // 3. Fallback for pruned synthetic blog doorway pages pattern
+  // Fallback for pruned synthetic blog doorway pages pattern
   if (
     pathname.startsWith('/blog/all-about-amity-') ||
     pathname.startsWith('/blog/low-budget-bba-') ||
     pathname.startsWith('/blog/low-budget-mba-') ||
     pathname.startsWith('/blog/private-mtech-')
   ) {
-    return Response.redirect(new URL('/blog/', url.origin).toString(), 301);
+    if (pathname !== '/blog' && pathname !== '/blog/') {
+      return Response.redirect(new URL('/blog/', url.origin).toString(), 301);
+    }
   }
 
   // Pass request to static asset handler

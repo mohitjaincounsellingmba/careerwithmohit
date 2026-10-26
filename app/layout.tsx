@@ -86,13 +86,7 @@ export const metadata: Metadata = {
     images: ["/og-image.webp"],
   },
 
-  alternates: {
-    canonical: "https://careerwithmohit.online/",
-    languages: {
-      "en-IN": "https://careerwithmohit.online/",
-      "x-default": "https://careerwithmohit.online/",
-    },
-  },
+
   robots: {
     index: true,
     follow: true,
