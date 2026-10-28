@@ -218,14 +218,39 @@ console.log(`✅ Saved compact public/_redirects with ${staticRules.length} line
 // Combine all redirects into a fast lookup map
 const combinedMap = {};
 for (const [from, target] of massRedirects.entries()) {
-  combinedMap[from] = target.to;
+  const dest = target.to.endsWith('/') ? target.to : target.to + '/';
+  combinedMap[from] = dest;
 }
 for (const [from, target] of specificMap.entries()) {
-  combinedMap[from] = target.to;
+  const dest = target.to.endsWith('/') ? target.to : target.to + '/';
+  combinedMap[from] = dest;
 }
 
-const middlewareContent = `// Cloudflare Pages Edge Middleware — Complete Zero-Loss Redirect Handler
-// Handles 100% of historical and legacy URLs at the Cloudflare edge in <1ms
+// Guarantee recovered ranking URLs point strictly to original canonicals
+combinedMap['/blog/fee-refund-policy-aicte-ugc-2027-29'] = '/blog/fee-refund-policy-aicte-ugc-2026/';
+combinedMap['/blog/fee-refund-policy-aicte-ugc-2027-29/'] = '/blog/fee-refund-policy-aicte-ugc-2026/';
+combinedMap['/blog/top-healthcare-management-colleges-india-2027-29'] = '/blog/top-healthcare-management-colleges-india-2026/';
+combinedMap['/blog/top-healthcare-management-colleges-india-2027-29/'] = '/blog/top-healthcare-management-colleges-india-2026/';
+delete combinedMap['/blog/fee-refund-policy-aicte-ugc-2026'];
+delete combinedMap['/blog/fee-refund-policy-aicte-ugc-2026/'];
+delete combinedMap['/blog/top-healthcare-management-colleges-india-2026'];
+delete combinedMap['/blog/top-healthcare-management-colleges-india-2026/'];
+delete combinedMap['/blog/cat-2026-whatsapp-group-links-top-coaching'];
+delete combinedMap['/blog/cat-2026-whatsapp-group-links-top-coaching/'];
+
+// Export REDIRECT_MAP.csv deliverable
+const csvLines = ['Old URL,New URL,Status Code,Type'];
+for (const [from, dest] of Object.entries(combinedMap)) {
+  const isRecovered = from.includes('fee-refund') || from.includes('healthcare');
+  const type = isRecovered ? 'Ranking URL Recovery' : (from.startsWith('/blog/') ? 'Blog Slug Migration' : 'Site Alias');
+  csvLines.push(`https://careerwithmohit.online${from},https://careerwithmohit.online${dest},301,${type}`);
+}
+const csvPath = path.join(process.cwd(), 'REDIRECT_MAP.csv');
+fs.writeFileSync(csvPath, csvLines.join('\n') + '\n', 'utf8');
+console.log(`✅ Generated REDIRECT_MAP.csv with ${Object.keys(combinedMap).length} mapped 301 rules.`);
+
+const middlewareContent = `// Cloudflare Pages Edge Middleware — Complete Zero-Loss Redirect & Canonical Handler
+// Handles 100% of historical URLs, domain normalization, and trailing slash in EXACTLY 1 HOP (<1ms)
 
 interface EventContext<Env, P extends string, Data> {
   request: Request;
@@ -239,37 +264,78 @@ type PagesFunction<Env = unknown, P extends string = string, Data extends Record
   context: EventContext<Env, P, Data>
 ) => Response | Promise<Response>;
 
-// Pre-compiled redirect dictionary (all 4,800+ legacy and pruned routes)
+// Pre-compiled redirect dictionary
 const REDIRECT_MAP: Record<string, string> = ${JSON.stringify(combinedMap, null, 2)};
 
 export const onRequest: PagesFunction = async (context) => {
   const url = new URL(context.request.url);
-  const pathname = url.pathname.toLowerCase();
+  const hostname = url.hostname.toLowerCase();
+  const pathname = url.pathname;
+  const protocol = url.protocol;
 
-  // Normalize path without trailing slash
-  const normPath = pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+  // Static assets bypass: do not redirect assets, builds, feeds or system files
+  const isStaticAsset =
+    pathname.startsWith('/_next/') ||
+    pathname.startsWith('/images/') ||
+    pathname.startsWith('/brochures/') ||
+    pathname.startsWith('/papers/') ||
+    pathname.startsWith('/downloads/') ||
+    /\\.(ico|png|jpg|jpeg|webp|svg|css|js|woff|woff2|ttf|json|xml|txt)$/i.test(pathname);
 
-  const target = REDIRECT_MAP[normPath] || REDIRECT_MAP[pathname];
-  if (target) {
-    const destinationUrl = new URL(target, url.origin);
-    const destPath = destinationUrl.pathname.toLowerCase();
-    const normDest = destPath.length > 1 && destPath.endsWith('/') ? destPath.slice(0, -1) : destPath;
-
-    // Safety guard: prevent redirect loops if target equals requested path
-    if (normDest !== normPath && destPath !== pathname) {
-      return Response.redirect(destinationUrl.toString(), 301);
-    }
+  if (isStaticAsset) {
+    return context.next();
   }
+
+  const cleanPath = pathname.toLowerCase();
+  const normPath = cleanPath.length > 1 && cleanPath.endsWith('/') ? cleanPath.slice(0, -1) : cleanPath;
+
+  // 1. Resolve redirect target from dictionary
+  let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
 
   // Fallback for pruned synthetic blog doorway pages pattern
   if (
-    pathname.startsWith('/blog/all-about-amity-') ||
-    pathname.startsWith('/blog/low-budget-bba-') ||
-    pathname.startsWith('/blog/low-budget-mba-') ||
-    pathname.startsWith('/blog/private-mtech-')
+    !targetPath &&
+    (cleanPath.startsWith('/blog/all-about-amity-') ||
+     cleanPath.startsWith('/blog/low-budget-bba-') ||
+     cleanPath.startsWith('/blog/low-budget-mba-') ||
+     cleanPath.startsWith('/blog/private-mtech-'))
   ) {
-    if (pathname !== '/blog' && pathname !== '/blog/') {
-      return Response.redirect(new URL('/blog/', url.origin).toString(), 301);
+    if (cleanPath !== '/blog' && cleanPath !== '/blog/') {
+      targetPath = '/blog/';
+    }
+  }
+
+  // 2. Ensure target ends with trailing slash
+  let finalPath = targetPath || cleanPath;
+  if (!finalPath.endsWith('/') && !finalPath.includes('?') && !finalPath.includes('#')) {
+    finalPath = finalPath + '/';
+  }
+
+  // 3. Domain & Protocol Normalization: Single Hop Guarantee
+  const isApex = hostname === 'careerwithmohit.online' || hostname === 'localhost' || hostname === '127.0.0.1';
+  const isHttps = protocol === 'https:';
+  const isPathChanged = targetPath !== null || (pathname !== finalPath);
+
+  // If www or non-apex domain on production
+  if (!isApex && hostname.endsWith('careerwithmohit.online')) {
+    const canonicalUrl = \`https://careerwithmohit.online\${finalPath}\${url.search}\`;
+    return Response.redirect(canonicalUrl, 301);
+  }
+
+  // If http on production
+  if (!isHttps && !hostname.includes('localhost') && !hostname.includes('127.0.0.1')) {
+    const canonicalUrl = \`https://careerwithmohit.online\${finalPath}\${url.search}\`;
+    return Response.redirect(canonicalUrl, 301);
+  }
+
+  // If pathname changed due to redirect map or missing trailing slash
+  if (isPathChanged) {
+    const canonicalOrigin = (hostname.endsWith('careerwithmohit.online'))
+      ? 'https://careerwithmohit.online'
+      : url.origin;
+    const destinationUrl = new URL(finalPath, canonicalOrigin);
+    if (destinationUrl.toString() !== url.toString()) {
+      return Response.redirect(destinationUrl.toString(), 301);
     }
   }
 
@@ -281,3 +347,4 @@ export const onRequest: PagesFunction = async (context) => {
 const middlewarePath = path.join(process.cwd(), 'functions', '_middleware.ts');
 fs.writeFileSync(middlewarePath, middlewareContent, 'utf8');
 console.log(`✅ Saved functions/_middleware.ts with full edge redirect table (${Object.keys(combinedMap).length} routes).`);
+

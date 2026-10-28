@@ -1,5 +1,5 @@
-// Cloudflare Pages Edge Middleware — Complete Zero-Loss Redirect Handler
-// Handles 100% of historical and legacy URLs at the Cloudflare edge in <1ms
+// Cloudflare Pages Edge Middleware — Complete Zero-Loss Redirect & Canonical Handler
+// Handles 100% of historical URLs, domain normalization, and trailing slash in EXACTLY 1 HOP (<1ms)
 
 interface EventContext<Env, P extends string, Data> {
   request: Request;
@@ -13,7 +13,7 @@ type PagesFunction<Env = unknown, P extends string = string, Data extends Record
   context: EventContext<Env, P, Data>
 ) => Response | Promise<Response>;
 
-// Pre-compiled redirect dictionary (all 4,800+ legacy and pruned routes)
+// Pre-compiled redirect dictionary
 const REDIRECT_MAP: Record<string, string> = {
   "/robot.txt": "/",
   "/posts/*": "/blog/:splat/",
@@ -596,7 +596,6 @@ const REDIRECT_MAP: Record<string, string> = {
   "/blog/esmt-berlin-mba-review-2026": "/abroad-education/",
   "/blog/executive-mba-for-working-professionals-2026": "/blog/executive-mba-for-working-professionals-2027-29/",
   "/blog/fake-university-list-pan-india-mba-2026": "/blog/fake-university-list-pan-india-mba-2027-29/",
-  "/blog/fee-refund-policy-aicte-ugc-2026": "/blog/fee-refund-policy-aicte-ugc-2027-29/",
   "/blog/fiib-delhi-placement-review-2025": "/blog/fiib-delhi-placement-review-2027-29/",
   "/blog/financial-modeling-valuation-best-courses-2026": "/blog/financial-modeling-valuation-best-courses-2027-29/",
   "/blog/flame-university-pune-review-2026": "/blog/flame-university-pune-review-2027-29/",
@@ -808,37 +807,82 @@ const REDIRECT_MAP: Record<string, string> = {
   "/blog/mba-admission-counselling-faq-2026": "/blog/mba-admission-counselling-faq-2027-29/",
   "/blog/mba-admission-through-cuet-delhi-ncr-2026": "/blog/mba-admission-through-cuet-delhi-ncr-2027-29/",
   "/blog/mba-admission-without-cat-delhi-ncr-2026": "/blog/mba-admission-without-cat-delhi-ncr-2027-29/",
-  "/blog/top-bba-colleges-delhi-ncr-2026": "/blog/top-10-bba-colleges-delhi-ncr-2026/"
+  "/blog/top-bba-colleges-delhi-ncr-2026": "/blog/top-10-bba-colleges-delhi-ncr-2026/",
+  "/blog/fee-refund-policy-aicte-ugc-2027-29": "/blog/fee-refund-policy-aicte-ugc-2026/",
+  "/blog/top-healthcare-management-colleges-india-2027-29": "/blog/top-healthcare-management-colleges-india-2026/",
+  "/blog/fee-refund-policy-aicte-ugc-2027-29/": "/blog/fee-refund-policy-aicte-ugc-2026/",
+  "/blog/top-healthcare-management-colleges-india-2027-29/": "/blog/top-healthcare-management-colleges-india-2026/"
 };
 
 export const onRequest: PagesFunction = async (context) => {
   const url = new URL(context.request.url);
-  const pathname = url.pathname.toLowerCase();
+  const hostname = url.hostname.toLowerCase();
+  const pathname = url.pathname;
+  const protocol = url.protocol;
 
-  // Normalize path without trailing slash
-  const normPath = pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+  // Static assets bypass: do not redirect assets, builds, feeds or system files
+  const isStaticAsset =
+    pathname.startsWith('/_next/') ||
+    pathname.startsWith('/images/') ||
+    pathname.startsWith('/brochures/') ||
+    pathname.startsWith('/papers/') ||
+    pathname.startsWith('/downloads/') ||
+    /\.(ico|png|jpg|jpeg|webp|svg|css|js|woff|woff2|ttf|json|xml|txt)$/i.test(pathname);
 
-  const target = REDIRECT_MAP[normPath] || REDIRECT_MAP[pathname];
-  if (target) {
-    const destinationUrl = new URL(target, url.origin);
-    const destPath = destinationUrl.pathname.toLowerCase();
-    const normDest = destPath.length > 1 && destPath.endsWith('/') ? destPath.slice(0, -1) : destPath;
-
-    // Safety guard: prevent redirect loops if target equals requested path
-    if (normDest !== normPath && destPath !== pathname) {
-      return Response.redirect(destinationUrl.toString(), 301);
-    }
+  if (isStaticAsset) {
+    return context.next();
   }
+
+  const cleanPath = pathname.toLowerCase();
+  const normPath = cleanPath.length > 1 && cleanPath.endsWith('/') ? cleanPath.slice(0, -1) : cleanPath;
+
+  // 1. Resolve redirect target from dictionary
+  let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
 
   // Fallback for pruned synthetic blog doorway pages pattern
   if (
-    pathname.startsWith('/blog/all-about-amity-') ||
-    pathname.startsWith('/blog/low-budget-bba-') ||
-    pathname.startsWith('/blog/low-budget-mba-') ||
-    pathname.startsWith('/blog/private-mtech-')
+    !targetPath &&
+    (cleanPath.startsWith('/blog/all-about-amity-') ||
+     cleanPath.startsWith('/blog/low-budget-bba-') ||
+     cleanPath.startsWith('/blog/low-budget-mba-') ||
+     cleanPath.startsWith('/blog/private-mtech-'))
   ) {
-    if (pathname !== '/blog' && pathname !== '/blog/') {
-      return Response.redirect(new URL('/blog/', url.origin).toString(), 301);
+    if (cleanPath !== '/blog' && cleanPath !== '/blog/') {
+      targetPath = '/blog/';
+    }
+  }
+
+  // 2. Ensure target ends with trailing slash
+  let finalPath = targetPath || cleanPath;
+  if (!finalPath.endsWith('/') && !finalPath.includes('?') && !finalPath.includes('#')) {
+    finalPath = finalPath + '/';
+  }
+
+  // 3. Domain & Protocol Normalization: Single Hop Guarantee
+  const isApex = hostname === 'careerwithmohit.online' || hostname === 'localhost' || hostname === '127.0.0.1';
+  const isHttps = protocol === 'https:';
+  const isPathChanged = targetPath !== null || (pathname !== finalPath);
+
+  // If www or non-apex domain on production
+  if (!isApex && hostname.endsWith('careerwithmohit.online')) {
+    const canonicalUrl = `https://careerwithmohit.online${finalPath}${url.search}`;
+    return Response.redirect(canonicalUrl, 301);
+  }
+
+  // If http on production
+  if (!isHttps && !hostname.includes('localhost') && !hostname.includes('127.0.0.1')) {
+    const canonicalUrl = `https://careerwithmohit.online${finalPath}${url.search}`;
+    return Response.redirect(canonicalUrl, 301);
+  }
+
+  // If pathname changed due to redirect map or missing trailing slash
+  if (isPathChanged) {
+    const canonicalOrigin = (hostname.endsWith('careerwithmohit.online'))
+      ? 'https://careerwithmohit.online'
+      : url.origin;
+    const destinationUrl = new URL(finalPath, canonicalOrigin);
+    if (destinationUrl.toString() !== url.toString()) {
+      return Response.redirect(destinationUrl.toString(), 301);
     }
   }
 
