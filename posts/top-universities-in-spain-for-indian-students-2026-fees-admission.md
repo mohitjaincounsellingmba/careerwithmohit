@@ -34,6 +34,12 @@ category: Study Abroad
 > - **Admission & Visa Process**: Step-by-step documentation, eligibility scores (NEET/IELTS/DET), and transparent fee schedules.
 > - **Licensing & Career Opportunities**: Preparation pathways for NEXT/FMGE and international residency or practice licenses.
 
+## What are the Admission Cutoffs, Fees, and Placement Records for Top Universities in Spain for Indian Students?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹15 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
+
 Spain is rapidly emerging as a **top European study destination** for Indian students — offering vibrant culture, sunny weather, English-taught programs, and some of Europe's most innovative business schools. From the globally ranked **IESE Business School** to affordable private universities in Barcelona and Madrid, Spain has something for every budget and academic aspiration in 2026.
 
 ---

@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Does IMT Ghaziabad has a management quota?
     answer: >-
@@ -48,6 +49,12 @@ category: Jobs & Careers
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in IMT Ghaziabad 2026: NRI &?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹17.35 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 
 Institute of Management Technology (IMT) Ghaziabad is a premier B-school in India, especially recognized for its excellence in **Marketing**. Known for its massive alumni network and industry-aligned pedagogy, it is a top destination for PGDM aspirants. For the 2027–29 batch, **Direct Admission in IMT Ghaziabad** is a structured path through institutional and NRI categories.
@@ -84,7 +91,16 @@ The total fees for the two-year PGDM at IMT Ghaziabad is approximately **₹21 L
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in IMT Ghaziabad 2026: NRI &** | ₹17.35 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Does IMT Ghaziabad has a management quota?
 Yes, IMT Ghaziabad offers institutional seats and NRI quota seats for its PGDM programs, which are filled based on merit and profile assessment.

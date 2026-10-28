@@ -15,6 +15,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
     answer: >-
@@ -67,7 +74,7 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 
 ## 🏗️ What is a "Bridge Course"?
 
-Most universities listed above understand that a student from a Commerce/Arts background might struggle with logic-heavy math topics like **Discrete Mathematics or Calculus**. 
+**Most universities listed above understand that a student from a Commerce/Arts background might struggle with logic-heavy math topics like **Discrete Mathematics or Calculus**.**
 - They include a mandatory **Non-Credit Bridge Course** in the first semester.
 - This course covers the 11th and 12th-grade maths topics essential for programming.
 - Once you clear this, you are on equal footing with students from a Science/Maths background.

@@ -187,7 +187,7 @@ The **United Kingdom** is home to some of the world's oldest and most prestigiou
 
 ## 📞 Need Help Applying to UK Universities?
 
-Our counselors specialize in UK university shortlisting, SOP writing, and visa documentation support.
+**Our counselors specialize in UK university shortlisting, SOP writing, and visa documentation support.**
 
 [👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
 

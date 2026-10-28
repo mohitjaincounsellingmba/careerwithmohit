@@ -4,7 +4,8 @@ date: '2026-04-15'
 category: B.Tech
 description: >-
   Is [Alliance University Bangalore](/colleges/alliance-university-bangalore/)
-  good for B.Tech? Read this honest review highlighting the negative points.
+  good for B.Tech? Read this honest review highlighting the negative points for
+  2026-2027 admissions & career guidance.
 keywords:
   - alliance university btech review
   - alliance university negative points
@@ -17,6 +18,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-

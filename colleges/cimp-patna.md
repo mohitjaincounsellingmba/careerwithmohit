@@ -1,7 +1,7 @@
 ---
 name: Chandragupt Institute of Management Patna (CIMP)
 logo: /logo.webp
-location: 'Patna, Bihar'
+location: Ahmedabad
 category: Management
 type: Institute
 courses:
@@ -57,6 +57,8 @@ keywords:
   - Ahmedabad Direct Admission 2027-29
   - Colleges in Gujarat
   - Ahmedabad Career Counselling
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
 state: Gujarat
 ---
 

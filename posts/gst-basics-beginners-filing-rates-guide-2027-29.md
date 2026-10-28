@@ -14,6 +14,13 @@ keywords:
   - hsn vs sac codes guide
   - input tax credit gst explained
   - how to register for gst 2026
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: does a freelancer need GST?
     answer: >-
@@ -71,7 +78,7 @@ GST is not a single rate for all products. It is divided into five main brackets
 
 ## 🚀 2. What are HSN and SAC Codes?
 
-To identify every product and service globally, GST uses Two types of classification:
+**To identify every product and service globally, GST uses Two types of classification:**
 *   **HSN (Harmonized System of Nomenclature):** A 6-digit code for identifying **Goods**.
 *   **SAC (Services Accounting Code):** A 6-digit code for identifying **Services**.
 *   *Requirement:* In 2026, including the correct HSN/SAC code on every invoice is mandatory for businesses with turnover above ₹5 Crores.

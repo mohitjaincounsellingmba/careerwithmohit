@@ -21,6 +21,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       Which is the most important upcoming MBA entrance exam for 2027–29-27
@@ -167,7 +174,7 @@ The **[MAH MBA CET](/blog/10-tips-to-crack-cat-exam-2027-29)** is conducted by t
 
 ## Budgeting Your MBA Application Costs: How Many Exams to Target?
 
-When planning your MBA application strategy, it is crucial to budget not only for **exam registration fees** but also for **individual institute application form fees**, which typically range from **INR 1,000 to INR 3,000 per college**.
+**When planning your MBA application strategy, it is crucial to budget not only for **exam registration fees** but also for **individual institute application form fees**, which typically range from **INR 1,000 to INR 3,000 per college**.**
 
 ### Recommended Application Budget Strategy:
 1.  **Primary Target (Mandatory):** Apply for **CAT 2026** (**~INR 2,500**), which automatically covers your registration for all 21 IIMs without additional college fees.

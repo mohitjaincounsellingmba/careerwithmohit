@@ -3,7 +3,7 @@ title: >-
   Dr. D.Y. Patil Institute of Management & Research PGDM 2027: Fees, Cutoff &
   Placements ROI
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for Dr. D.Y. Patil Institute of Management &
   Research (Pimpri, Pune). Check updated fee structure (₹3.50L - ₹6.50L
@@ -17,6 +17,13 @@ keywords:
   - direct admission in dr. d.y. patil institute of management & research
   - top pgdm colleges in pimpri
   - best mba colleges in pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Dr. D.Y. Patil Institute of
@@ -45,8 +52,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Pimpri
-state: Pune
+location: Pune
+state: Maharashtra
 ---
 
 ## [Dr. D.Y. Patil Institute of Management & Research](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -55,6 +62,12 @@ state: Pune
 > - **Core USP & Focus**: Premier management institute in **Pimpri, Pune** accredited with **AICTE Approved · SPPU Affiliated · NAAC Grade A++** offering career-focused programs in **MBA, PGDM**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹3.50L - ₹6.50L (Total)** against an average domestic CTC of **₹8.0 LPA** (Highest package: **₹24.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Dr. D.Y. Patil Institute of Management & Rese?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹8.0 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for Dr. D.Y. Patil Institute of Management & Research" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

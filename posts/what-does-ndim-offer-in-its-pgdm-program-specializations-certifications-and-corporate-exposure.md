@@ -5,7 +5,8 @@ title: >-
 date: '2026-09-16'
 description: >-
   Discover what New Delhi Institute of Management (NDIM) offers in its 2-year
-  PGDM program. Explore dual specializations, industry certifications.
+  PGDM program. Explore dual specializations, industry certifications for
+  2026-2027 admissions & career guidance.
 keywords:
   - What Does NDIM Offer in its PGDM Program
   - NDIM PGDM specializations
@@ -20,6 +21,13 @@ keywords:
   - NDIM Delhi fees and placements
   - NDIM AICTE CII ranking
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 category: Jobs & Careers
 location: Delhi NCR
 state: Delhi NCR

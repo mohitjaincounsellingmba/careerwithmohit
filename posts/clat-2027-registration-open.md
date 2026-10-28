@@ -21,6 +21,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: When is the last date to apply for CLAT 2027?
     answer: >-
@@ -81,7 +82,7 @@ Before filling out the CLAT 2027 application form, candidates must ensure they m
 
 ## 📝 How to Fill the CLAT 2027 Registration Form?
 
-The CLAT 2027 application process is completely online. Follow these simple steps to complete your registration smoothly:
+**The CLAT 2027 application process is completely online. Follow these simple steps to complete your registration smoothly:**
 
 ### Step 1: Online Registration
 1.  Visit the official website of the Consortium of NLUs: **consortiumofnlus.ac.in**.

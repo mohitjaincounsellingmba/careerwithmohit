@@ -13,6 +13,13 @@ keywords:
   - JATF PACE program
   - JATF scholarship eligibility
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -45,7 +52,7 @@ If you are a Jain aspirant dreaming of breaking into the Indian bureaucracy, the
 ---
 
 ## What is the JATF CET & PACE Program?
-JATF conducts a nationwide **Common Entrance Test (CET)** every year. The objective is to identify bright, dedicated aspirants from the Jain community and sponsor them through the **PACE (Public Administration and Civil Services Enhancement)** project.
+**JATF conducts a nationwide **Common Entrance Test (CET)** every year. The objective is to identify bright, dedicated aspirants from the Jain community and sponsor them through the **PACE (Public Administration and Civil Services Enhancement)** project.**
 
 Instead of a traditional cash scholarship, meritorious students selected through this exam are provided with **heavy financial sponsorship for coaching fees** at some of India's premier UPSC coaching institutes (primarily in hubs like Delhi and Pune).
 
@@ -117,3 +124,12 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **JATF CET 2026: JITO Scholarship & Free UPSC C** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

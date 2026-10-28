@@ -27,6 +27,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What CAT percentile do I need for NDIM Delhi?
     answer: >-
@@ -234,7 +235,7 @@ For students, this translates into:
 
 ## Who Should Choose NDIM Delhi?
 
-NDIM is the **right fit** if:
+**NDIM is the **right fit** if:**
 - ✅ Your CAT/XAT percentile is in the **65–80 range** and you want a strong Delhi brand
 - ✅ You are targeting **Marketing, Finance, or HR** roles in top corporates
 - ✅ You want **international exposure** without going abroad for your MBA

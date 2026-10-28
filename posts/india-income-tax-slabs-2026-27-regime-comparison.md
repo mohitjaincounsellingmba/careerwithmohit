@@ -14,6 +14,13 @@ keywords:
   - how to calculate income tax 2026
   - standard deduction 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is standard deduction available in the New Tax Regime?
     answer: >-
@@ -85,7 +92,7 @@ The Old Regime allows you to reduce your taxable income using various deductions
 
 ## 🚀 3. Which One Should You Choose?
 
-The "Switch-over point" generally lies around **₹3.75 Lakhs to ₹4.25 Lakhs** of total deductions.
+**The "Switch-over point" generally lies around **₹3.75 Lakhs to ₹4.25 Lakhs** of total deductions.**
 - If your total eligible deductions are **above ₹4 Lakhs**, the **Old Regime** may result in lower tax.
 - If your deductions are **below ₹3 Lakhs**, the **New Regime** is almost always better.
 

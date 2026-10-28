@@ -20,6 +20,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -97,7 +98,7 @@ The **Online MBA** at Jain University is a 2-year (4-semester) degree offering t
 
 ## Are There Any Hidden Registration or Examination Charges?
 
-No. The quoted fee covers:
+**No. The quoted fee covers:**
 * Full access to Jain's interactive Learning Management System (LMS)
 * Live weekend lectures with Bangalore industry practitioners
 * AI-proctored online semester examinations

@@ -6,7 +6,8 @@ date: '2026-09-17'
 category: Online Degrees
 description: >-
   Confused between Online MBA, Distance MBA (ODL), and Executive MBA? Compare
-  differences in LMS classes, exam modes, corporate recognition.
+  differences in LMS classes, exam modes, corporate recognition for 2026-2027
+  admissions & career guidance.
 keywords:
   - difference between online mba distance mba executive mba
   - online mba vs distance mba
@@ -120,7 +121,7 @@ Explore our [Executive Online MBA Hub](/online-degree-certification/online-execu
 
 ## Decision Matrix: Which Program Fits Your Profile?
 
-```
+**```**
 +--------------------------------------------------------------------------------+
 | YOUR CURRENT SITUATION                      | RECOMMENDED PROGRAM FORMAT       |
 +--------------------------------------------------------------------------------+

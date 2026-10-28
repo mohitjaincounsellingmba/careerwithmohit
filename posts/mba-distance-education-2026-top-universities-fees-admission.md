@@ -20,6 +20,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -52,7 +59,7 @@ In 2026, Distance MBA programs from **UGC-DEB and AICTE approved universities** 
 
 ## What is a Distance MBA?
 
-A **Distance MBA** (Master of Business Administration via Distance Education) is a postgraduate management degree where study materials, assignments, and exams are delivered remotely — without any mandatory on-campus attendance.
+**A **Distance MBA** (Master of Business Administration via Distance Education) is a postgraduate management degree where study materials, assignments, and exams are delivered remotely — without any mandatory on-campus attendance.**
 
 Students receive:
 - **Digital/physical study materials** from the university

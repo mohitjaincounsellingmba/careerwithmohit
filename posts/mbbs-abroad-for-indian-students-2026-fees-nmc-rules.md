@@ -49,7 +49,7 @@ However, moving abroad is not just about "low fees." It involves navigating stri
 
 ## 📅 Why Choose MBBS Abroad in 2026?
 
-1.  **Low Tuition Fees:** While a private Indian MBBS costs ₹60L - ₹1Cr, an MBBS in Russia or Uzbekistan can be completed for **₹15L - ₹35L (Total for 6 years)**.
+**1.  **Low Tuition Fees:** While a private Indian MBBS costs ₹60L - ₹1Cr, an MBBS in Russia or Uzbekistan can be completed for **₹15L - ₹35L (Total for 6 years)**.**
 2.  **No Entrance for Admission:** Most top foreign universities accept you based on your NEET-qualified scorecard and 12th Marks.
 3.  **Global Exposure:** Learning medicine in a foreign country provides a global perspective on healthcare and resilience.
 

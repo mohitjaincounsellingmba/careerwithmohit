@@ -6,7 +6,7 @@ date: '2026-09-10'
 description: >-
   Looking for top MBA colleges accepting CAT cut off 80 to 85 percentile?
   Compare TAPMI, FORE, GIM, LBSIM, Great Lakes, IRMA, NIBM, and IIT Dhanbad with
-  fees.
+  fees for 2026-2027 admissions & career guidance.
 keywords:
   - mba college accepting cat cut off 80 to 85 percentile
   - top mba colleges with 80-85 percentile in cat
@@ -20,6 +20,13 @@ keywords:
   - cat 85 percentile mba colleges average package
   - mba admission 80 percentile cat
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 category: MBA
 image: /images/blog/mba-guide.webp
 faqs:
@@ -218,7 +225,7 @@ Choosing an MBA college should be dictated by your post-MBA functional goals rat
 
 ## What Determines Selection Beyond the CAT Percentile?
 
-Securing an 80 to 85 percentile in CAT is necessary to clear the first screening gate, but the **final composite score** determines your admission offer. 
+**Securing an 80 to 85 percentile in CAT is necessary to clear the first screening gate, but the **final composite score** determines your admission offer.**
 
 Most premier B-Schools in this band utilize a holistic evaluation formula:
 

@@ -16,6 +16,13 @@ keywords:
   - wes approved online universities india
   - is online degree valid in india
   - mohit jain career counsellor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 image: /og-image.webp
 faqs:
   - question: How do I verify if an online university is UGC-DEB approved in 2027?
@@ -63,7 +70,7 @@ Whether you are looking to pursue an [Online MBA](/online-degree-certification/o
 
 ## What is UGC-DEB Approval and Why is it Mandatory?
 
-The **Distance Education Bureau (DEB)** is a dedicated statutory wing of the UGC that evaluates and grants *Online (OL)* and *Open & Distance Learning (ODL)* entitlement to universities in India.
+**The **Distance Education Bureau (DEB)** is a dedicated statutory wing of the UGC that evaluates and grants *Online (OL)* and *Open & Distance Learning (ODL)* entitlement to universities in India.**
 
 ### Critical Criteria for UGC-DEB Entitlement:
 1. **Accreditation Threshold**: A university must have a **NAAC score of at least 3.26 (NAAC A+ grade)** or rank within the **Top 100 in NIRF University Category** to offer online degrees without prior approval (Category-I Autonomy).

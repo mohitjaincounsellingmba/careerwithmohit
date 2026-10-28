@@ -16,8 +16,8 @@ tags:
   - Commerce
 description: >-
   Delhi University (DU) is considered the pinnacle for commerce students across
-  India. Thousands of students dream of securing a seat in B.Com or B.Com
-  (Hons..
+  India. Thousands of students dream of securing a seat in B.Com or B.Com (Hons.
+  for 2026-2027 admissions & career guidance.
 keywords:
   - career counselling
   - admissions 2026
@@ -34,6 +34,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -65,7 +66,7 @@ In this comprehensive guide, we'll walk you through the complete **Delhi Univers
 
 ## 🎓 Why Choose DU for B.Com in 2026?
 
-Pursuing a Bachelor of Commerce degree from Delhi University comes with massive perks:
+**Pursuing a Bachelor of Commerce degree from Delhi University comes with massive perks:**
 - **Exceptional ROI:** While private colleges charge extravagant fees, DU offers world-class education at a fraction of the cost.
 - **Top-Tier Placements:** Colleges like SRCC see average packages crossing ₹10-12 LPA for undergraduates.
 - **Vibrant Campus Life:** Connecting with some of the brightest minds in North Campus and South Campus.
@@ -169,3 +170,12 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Delhi University (DU) BCom Admission Process ** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

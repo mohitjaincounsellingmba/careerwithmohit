@@ -187,7 +187,7 @@ Operating from its permanent 60-acre campus in Nayasarai (Prabandhan Nagar), IIM
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Ranchi Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Ranchi:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Ranchi:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

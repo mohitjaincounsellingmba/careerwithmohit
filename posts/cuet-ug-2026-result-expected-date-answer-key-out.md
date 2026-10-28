@@ -16,6 +16,13 @@ keywords:
   - CUET UG official website link
   - university admission via CUET UG 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -72,7 +79,7 @@ To download response sheets or view the scorecard once declared, use these direc
 
 ## 📝 How to Download CUET UG 2026 Answer Key & Response Sheet?
 
-Follow these steps to access your response sheets and match them with the answer key:
+**Follow these steps to access your response sheets and match them with the answer key:**
 
 1.  Go to the official website at [cuet.nta.nic.in](https://cuet.nta.nic.in).
 2.  Click on the **"CUET UG 2026 Answer Key Challenge & Response Sheet"** link.

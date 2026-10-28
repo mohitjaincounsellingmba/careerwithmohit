@@ -26,6 +26,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the highest package at [Jaipuria
@@ -166,7 +167,7 @@ Very few private B-schools in India carry all three credentials simultaneously.
 
 ## Who Should Choose [Jaipuria Noida](/colleges/jaipuria-noida/)?
 
-✅ 70–80 percentile aspirants wanting a NIRF-ranked, AACSB-accredited institute  
+**✅ 70–80 percentile aspirants wanting a NIRF-ranked, AACSB-accredited institute**
 ✅ Students targeting **BFSI or Consulting** careers  
 ✅ Candidates eligible for merit scholarships (reducing net fee significantly)  
 ✅ Students from outside NCR who value a multi-city alumni network  

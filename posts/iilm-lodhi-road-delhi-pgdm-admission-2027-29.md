@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at IILM Lodhi Road?
     answer: >-
@@ -82,6 +83,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.90 Lakhs (Total)** (**₹6.45 Lakhs per Year**). Up to 50% tuition fee scholarships for outstanding CAT/XAT/GMAT scorers and female leaders.
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.60 LPA** (Top 25% at **₹12.00 LPA**) with a highest package of **₹20.00 LPA**. 24% of students secure PPOs during summer placements with top management consulting and retail brands.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IILM Institute for Higher Education MBA / PGD?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.90 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[IILM Institute for Higher Education](/colleges/iilm-delhi/) (IILM Lodhi Road)**, located in **Lodhi Road, Central Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

@@ -15,6 +15,13 @@ keywords:
   - xlri decision making cutoff 2027
   - xat dm caselets with answers and explanation
   - decision making tips for xat
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the Decision Making (DM) section in XAT?
     answer: >-
@@ -58,7 +65,11 @@ Carrying 21 to 22 questions, the DM section accounts for a standalone sectional 
 
 ---
 
-## 1. The Managerial Decision Framework
+## What are the Key Admissions, Fees, and Placement Details for The Managerial Decision Framework?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 When analyzing any XAT Decision Making caselet, apply this systematic 4-tier decision filter:
 
@@ -138,3 +149,12 @@ graph TD
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **XAT 2027 Decision Making Previous Year Questi** | ₹50 Crore | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

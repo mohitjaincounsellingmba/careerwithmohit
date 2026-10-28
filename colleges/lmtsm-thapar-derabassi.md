@@ -60,6 +60,8 @@ keywords:
   - Chandigarh Direct Admission 2027-29
   - Colleges in Punjab
   - Chandigarh Career Counselling
+  - Top Colleges in Chandigarh 2026
+  - Chandigarh Direct Admission 2026
 state: Punjab
 ---
 

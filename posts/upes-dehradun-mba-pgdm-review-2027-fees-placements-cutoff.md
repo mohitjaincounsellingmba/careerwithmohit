@@ -1,7 +1,7 @@
 ---
 title: 'UPES Dehradun MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 UPES Dehradun MBA review with audited ₹10.50L placements,
   ₹19.11L fees, cutoffs, and direct admission guidance from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in upes dehradun
   - best mba colleges in dehradun
   - mohit jain mba admissions counselor
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+  - Dehradun Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at UPES Dehradun School of

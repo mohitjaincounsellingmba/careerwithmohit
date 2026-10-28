@@ -1,8 +1,11 @@
 ---
 title: 'Akemi Business School Pune MBA Review 2027: Fees & ROI'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Get verified 2027 fees (₹3.15L), average package, Tathawade Pune campus review, SPPU affiliation, and direct admission criteria for Akemi Business School.'
+category: Exams
+description: >-
+  Get verified 2027 fees (₹3.15L), average package, Tathawade Pune campus
+  review, SPPU affiliation, and direct admission criteria for Akemi Business
+  School.
 keywords:
   - akemi business school pune mba review 2027
   - akemi business school fees 2027
@@ -11,19 +14,48 @@ keywords:
   - direct admission in akemi pune
   - best low fee mba colleges in pune
   - akemi vs isms vs riim pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
-  - question: 'What is the total fee structure for the MBA program at Akemi Business School Pune?'
-    answer: 'The total 2-year tuition fee for the Savitribai Phule Pune University (SPPU) affiliated MBA program at Akemi Business School is approximately ₹3.15 Lakhs, making it one of the most budget-friendly, high-ROI management options in Pune.'
-  - question: 'What is the average and highest placement package at Akemi Business School?'
-    answer: 'During recent recruitment seasons, Akemi Business School recorded an average domestic CTC of ₹4.50 to ₹6.20 LPA, with top performing students securing offers up to ₹18.00 LPA in IT sales, banking, and consulting.'
-  - question: 'Is Akemi Business School recognized and affiliated with Pune University?'
-    answer: 'Yes, Akemi Business School is approved by AICTE (Ministry of Education, Govt. of India) and permanently affiliated with Savitribai Phule Pune University (SPPU) for its flagship 2-year full-time MBA degree.'
-  - question: 'Which entrance exams are accepted for Akemi Pune MBA 2027 admission?'
-    answer: 'Akemi Business School accepts scores from MAH MBA CET (via DTE CAP rounds), CAT, CMAT, MAT, XAT, and ATMA, followed by institutional GD-PI assessment.'
-  - question: 'Is direct admission or management quota available at Akemi Business School Pune?'
-    answer: 'Yes, candidates with a minimum of 50% marks in graduation (45% for reserved Maharashtra categories) and a valid entrance exam scorecard can apply for institutional level seats and direct merit profile evaluation.'
-location: Tathawade
-state: Pune
+  - question: >-
+      What is the total fee structure for the MBA program at Akemi Business
+      School Pune?
+    answer: >-
+      The total 2-year tuition fee for the Savitribai Phule Pune University
+      (SPPU) affiliated MBA program at Akemi Business School is approximately
+      ₹3.15 Lakhs, making it one of the most budget-friendly, high-ROI
+      management options in Pune.
+  - question: >-
+      What is the average and highest placement package at Akemi Business
+      School?
+    answer: >-
+      During recent recruitment seasons, Akemi Business School recorded an
+      average domestic CTC of ₹4.50 to ₹6.20 LPA, with top performing students
+      securing offers up to ₹18.00 LPA in IT sales, banking, and consulting.
+  - question: Is Akemi Business School recognized and affiliated with Pune University?
+    answer: >-
+      Yes, Akemi Business School is approved by AICTE (Ministry of Education,
+      Govt. of India) and permanently affiliated with Savitribai Phule Pune
+      University (SPPU) for its flagship 2-year full-time MBA degree.
+  - question: Which entrance exams are accepted for Akemi Pune MBA 2027 admission?
+    answer: >-
+      Akemi Business School accepts scores from MAH MBA CET (via DTE CAP
+      rounds), CAT, CMAT, MAT, XAT, and ATMA, followed by institutional GD-PI
+      assessment.
+  - question: >-
+      Is direct admission or management quota available at Akemi Business School
+      Pune?
+    answer: >-
+      Yes, candidates with a minimum of 50% marks in graduation (45% for
+      reserved Maharashtra categories) and a valid entrance exam scorecard can
+      apply for institutional level seats and direct merit profile evaluation.
+location: Pune
+state: Maharashtra
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**

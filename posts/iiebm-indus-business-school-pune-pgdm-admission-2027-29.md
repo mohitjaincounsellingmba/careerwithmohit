@@ -26,6 +26,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at IIEBM Pune?
     answer: >-
@@ -73,6 +74,12 @@ state: Maharashtra
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.25 Lakhs (Total)** (**₹4.12 Lakhs per Year**). Merit waivers for high percentiles in national entrance exams and defense wards.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, SAP ERP Collaboration.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.50 LPA**) with a highest package of **₹30.00 LPA**. 28% PPO conversion through direct SAP ERP systems integration and IT consulting tie-ups.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IIEBM (Indus Business School) MBA / PGDM Admi?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹8.25 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[IIEBM (Indus Business School)](/colleges/iiebm-pune/) (IIEBM Pune)**, located in **Wakad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

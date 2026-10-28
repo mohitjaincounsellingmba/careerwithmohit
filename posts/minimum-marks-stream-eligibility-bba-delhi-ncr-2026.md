@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -55,7 +56,7 @@ Eligibility rules vary significantly between universities. To help you plan your
 
 ## 🌾 Stream Eligibility: Can Science, Commerce & Arts Students Apply?
 
-The short answer is **yes**. The BBA (Bachelor of Business Administration) is an interdisciplinary management program. It is designed to train students from all educational backgrounds.
+**The short answer is **yes**. The BBA (Bachelor of Business Administration) is an interdisciplinary management program. It is designed to train students from all educational backgrounds.**
 
 - **Commerce Stream:** Naturally aligned. Commerce students find many familiar concepts in accounting, business studies, and economics.
 - **Science Stream (PCM/PCB):** Highly welcomed. Science students often perform exceptionally well due to their analytical and quantitative backgrounds.

@@ -1,7 +1,7 @@
 ---
 title: 'SGBS PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for Sparsh Global Business School (SGBS)
   (Greater Noida). Check updated fee structure (₹11.85 Lakhs (Total)).
@@ -14,6 +14,13 @@ keywords:
   - direct admission in sparsh global business school (sgbs)
   - top pgdm colleges in greater noida
   - best mba colleges in greater noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Sparsh Global Business School
@@ -42,8 +49,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Greater Noida
-state: Greater Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [Sparsh Global Business School (SGBS)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -52,6 +59,12 @@ state: Greater Noida
 > - **Core USP & Focus**: Premier management institute in **Greater Noida** accredited with **AICTE Approved · ESG Centric Modern B-School** offering career-focused programs in **PGDM**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹11.85 Lakhs (Total)** against an average domestic CTC of **₹7.5 LPA** (Highest package: **₹18.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for SGBS PGDM 2027: Fees, Cutoff & Placements ROI?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹11.85 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for SGBS" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

@@ -17,6 +17,7 @@ keywords:
   - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
+  - Dehradun Admissions 2027
 faqs:
   - question: Is Doon Institute affordable?
     answer: >-
@@ -94,3 +95,16 @@ Placements are solid for local industries, with top service companies frequently
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## What are the Key Admissions, Fees, and Placement Details for Verified Admissions & Placement Facts Matrix?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **B.Tech at Doon Institute (DIET) Dehradun: Adm** | ₹3.2 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

@@ -28,6 +28,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What makes SOIL different from other Gurgaon B-schools?
     answer: >-
@@ -203,7 +204,7 @@ The scholarship program ensures that **financial constraints don't filter out hi
 
 ## Who Should Choose SOIL Gurgaon?
 
-✅ Students who want **leadership development**, not just a degree  
+**✅ Students who want **leadership development**, not just a degree**
 ✅ Aspirants targeting **Consulting, HR leadership, or ESG/sustainability roles**  
 ✅ Candidates who value **social impact experience** as a career differentiator  
 ✅ Working professionals wanting the **1-year PGPM** pathway  

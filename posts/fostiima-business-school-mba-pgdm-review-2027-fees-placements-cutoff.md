@@ -1,7 +1,7 @@
 ---
 title: 'FOSTIIMA Delhi PGDM Review 2027: Fees & Placements'
 date: '2026-10-17'
-category: MBA
+category: Exams
 description: >-
   Honest FOSTIIMA Delhi review 2027: IIM-A alumni pedagogy, ₹9.5L fees, ₹8.2 LPA
   median salary, CAT/MAT cutoffs, and Dwarka campus reality by Mohit Jain.
@@ -12,6 +12,13 @@ keywords:
   - fostiima delhi cat mat cmat cutoff 2027
   - iim ahmedabad alumni business school delhi
   - direct admission in fostiima business school
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at FOSTIIMA Business School
@@ -47,11 +54,15 @@ faqs:
       FOSTIIMA is located in Sector 9, Dwarka, New Delhi (opposite the Dwarka
       District Court), close to the Sector 9 and Sector 10 Metro stations on the
       Blue Line.
-location: 'Sector 9, Dwarka'
-state: New Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
-## FOSTIIMA Business School Delhi Review 2027: Fees, Cutoff, Placements & IIM-A ROI
+## What are the Key Admissions, Fees, and Placement Details for FOSTIIMA Business School Delhi Review 2027: Fees, Cutoff, Placements & IIM-A ROI?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Pedagogy & Founding Legacy**: Founded and managed by alumni of the **Indian Institute of Management Ahmedabad (IIM-A, 1973 batch)**, FOSTIIMA operates in Sector 9, Dwarka, New Delhi, delivering IIM-style case discussions, experiential learning, and executive corporate mentorship.

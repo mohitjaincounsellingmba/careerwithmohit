@@ -20,6 +20,13 @@ keywords:
   - global MBA eligibility India
   - international MBA online India
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -54,7 +61,7 @@ In 2026, you no longer need to travel abroad or spend ₹50–80 Lakhs on an int
 
 ## What is a Global MBA?
 
-A **Global MBA** is a Master of Business Administration program with a strong emphasis on **international business, global strategy, cross-cultural management, and worldwide economic trends**. It is offered by universities in the UK, USA, Dubai, Australia, and India — and is now available in fully online mode.
+**A **Global MBA** is a Master of Business Administration program with a strong emphasis on **international business, global strategy, cross-cultural management, and worldwide economic trends**. It is offered by universities in the UK, USA, Dubai, Australia, and India — and is now available in fully online mode.**
 
 #
 

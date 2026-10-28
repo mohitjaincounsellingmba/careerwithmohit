@@ -29,6 +29,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at UBS Mumbai?
     answer: >-
@@ -75,6 +76,12 @@ state: Maharashtra
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹12.50 Lakhs (Total)** (**₹6.25 Lakhs per Year**). Merit-based scholarships up to ₹2.00 Lakhs for top CAT/XAT/GMAT scorers.
 > - **Accreditation & Approvals**: AICTE Approved · India’s 1st AI University · Endorsed by 60 Global CEOs.
 > - **Audited Placements & PPO**: Average CTC stands at **₹10.50 LPA** (Top 25% at **₹14.50 LPA**) with a highest package of **₹42.00 LPA (International / Peak)**. 32% PPO conversion through CEO-led corporate project mentoring.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Universal Business School (UBS Mumbai) / Univ?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **Universal Business School (UBS Mumbai) / Universal AI University (UBS Mumbai)**, located in **Karjat, Greater Mumbai, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

@@ -18,6 +18,13 @@ keywords:
   - ai finance courses with placement
   - imarticus pg fee structure
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the PG in Global Finance & AI at Imarticus (ISFB)?
     answer: >-
@@ -122,7 +129,7 @@ Instead of purely academic lectures, your work is continuously reviewed by **ind
 
 ## 3. Career Track vs. Venture Track: Where Can You Land?
 
-The PG in Global Finance & AI offers two distinct pathways tailored to your professional ambitions: the **Placement Track (Career Track)** and the **Founder Track (Venture Track)**.
+**The PG in Global Finance & AI offers two distinct pathways tailored to your professional ambitions: the **Placement Track (Career Track)** and the **Founder Track (Venture Track)**.**
 
 ```
                   ┌─────────────────────────────────────────┐

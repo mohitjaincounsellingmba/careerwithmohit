@@ -20,6 +20,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: What is the average placement package at IIM Bangalore in 2026-2027?
     answer: >-
@@ -50,6 +51,12 @@ state: Karnataka
 > - **Core USP & Focus**: Premier management destination in **Bangalore, Karnataka** recognized for academic rigor (NIRF Rank #2 (Management 2024) · EQUIS & AACSB Accredited) and industry-aligned specializations in **PGP (MBA) & PGP-BA**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹24.50 Lakhs (Total)** against an audited average domestic CTC of **₹33.50 LPA** (Median: **₹31.20 LPA**, Highest: **₹1.15 Crore**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT** score (**99.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IIMB MBA Admission 2027: Fees, Cutoff & ROI?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹24.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for IIMB" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

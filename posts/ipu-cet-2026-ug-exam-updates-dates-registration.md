@@ -12,6 +12,13 @@ keywords:
   - GGSIPU UG updates
   - Indraprastha University admission
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -64,7 +71,7 @@ The CET is mandatory for the following flagship undergraduate programs at IPU:
 *Note: For **B.Tech**, admission is based on **JEE Main** scores, and for **Law (LLB)**, it is based on **CLAT-UG**. However, you MUST still register on the IPU portal by April 11 to participate in the counseling.*
 
 ## How to Prepare for IPU CET 2026?
-1. **Understand the Pattern:** Most UG CETs consist of 100 questions covering English, General Awareness, Logical Reasoning, and subject-specific aptitude.
+**1. **Understand the Pattern:** Most UG CETs consist of 100 questions covering English, General Awareness, Logical Reasoning, and subject-specific aptitude.**
 2. **Speed & Accuracy:** You have 150 minutes to solve the paper. Practice with previous year papers to master the timing.
 3. **Focus on Reasoning:** Logical Reasoning often carries 25% weightage and is the key differentiator for BBA and BCA ranks.
 

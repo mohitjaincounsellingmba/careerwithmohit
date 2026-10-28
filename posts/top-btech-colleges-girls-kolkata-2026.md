@@ -14,6 +14,13 @@ keywords:
   - scholarships for girls in engineering west bengal
   - heritage kolkata btech girls hostel
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is Jadavpur University safe for girls?
     answer: >-
@@ -79,7 +86,7 @@ Located in Anandapur, Heritage is known for its discipline and its massive alumn
 
 ## 🚀 Why Study Engineering in Kolkata?
 
-For a 2026 female engineering student, Kolkata offers:
+**For a 2026 female engineering student, Kolkata offers:**
 - **Salt Lake Sector V Hub:** Proximity to East India's biggest IT hub ensures that students can commute safely for internships and final placements.
 - **Gender Diversity Scholarships:** Many private universities like SNU and Techno India offer **25-50% scholarships** exclusively for female students who score well in WBJEE.
 - **Safe & Progressive Culture:** Kolkata is consistently ranked as one of the safest metro cities for women in India, offering a comfortable environment for 4 years of intensive study.

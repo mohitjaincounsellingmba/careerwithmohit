@@ -18,6 +18,7 @@ keywords:
   - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
+  - Dehradun Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -58,7 +59,7 @@ Mark these dates to ensure you don't miss any critical steps:
 | **Official Website** | [jeeadv.ac.in](https://jeeadv.ac.in) |
 
 ## 2. How to Download the Hall Ticket?
-Once the link is activated on May 11, follow these steps:
+**Once the link is activated on May 11, follow these steps:**
 1.  Visit the official portal: **[jeeadv.ac.in](https://jeeadv.ac.in)**.
 2.  Click on the link "JEE (Advanced) 2026 Admit Card".
 3.  Enter your **Registration Number**, **Date of Birth**, and **Mobile Number**.

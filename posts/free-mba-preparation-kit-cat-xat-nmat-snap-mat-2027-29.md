@@ -19,6 +19,13 @@ keywords:
   - 100 GDPI topics with answers PDF
   - Mohit Jain MBA counselling
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is included in the Free MBA Preparation Kit 2027–29-27?
     answer: >-
@@ -84,7 +91,7 @@ Choosing the right mix of entrance exams is the single most important strategic 
 
 ## What is Inside the Free MBA Preparation Kit 2027–29-27?
 
-The **[Free MBA Preparation Starter Kit](/starter-kit)** is engineered as a zero-fluff, highly actionable resource repository. Here is a granular preview of what you will unlock upon instant PDF download:
+**The **[Free MBA Preparation Starter Kit](/starter-kit)** is engineered as a zero-fluff, highly actionable resource repository. Here is a granular preview of what you will unlock upon instant PDF download:**
 
 ```mermaid
 graph TD

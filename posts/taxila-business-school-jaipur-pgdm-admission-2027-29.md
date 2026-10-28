@@ -27,6 +27,7 @@ keywords:
   - Jaipur Direct Admission 2026
   - Colleges in Rajasthan
   - Jaipur Career Counselling
+  - Jaipur Admissions 2027
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at Taxila Jaipur?
     answer: >-
@@ -76,6 +77,12 @@ state: Rajasthan
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹10.50 Lakhs (Installment Plan) / ₹9.80 Lakhs (Lump Sum Plan)** (**₹5.25 Lakhs per Year (Installment Mode)**). Merit waivers on CAT/XAT/CMAT percentiles above 75%.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹11.80 LPA** (Top 25% at **₹15.50 LPA**) with a highest package of **₹28.60 LPA**. 100% placement track with 35% PPO conversion in SAP consulting and analytics firms.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Taxila Business School (TBS) MBA / PGDM Admis?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹10.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[Taxila Business School](/colleges/taxila-jaipur/) (TBS) (Taxila Jaipur)**, located in **Mansarovar, Jaipur, Rajasthan**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

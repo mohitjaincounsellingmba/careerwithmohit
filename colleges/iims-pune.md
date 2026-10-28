@@ -1,7 +1,7 @@
 ---
 name: International Institute of Management Studies (IIMS) Pune
 logo: /logo.webp
-location: Hinjawadi, Pune, Maharashtra
+location: Pune
 category: Management
 type: Institute
 courses:
@@ -22,7 +22,9 @@ exams:
   - MH-CET
 website: 'https://www.iimspune.edu.in'
 seo_title: 'IIMS Pune MBA/PGDM Fees, Cutoff & Placements 2027'
-seo_description: 'Review IIMS Pune (SaiBalaji): PGDM fees ₹9.5 Lakhs, highest placement ₹26.0 LPA, cutoffs & 2027 admissions with Mohit Jain.'
+seo_description: >-
+  Review IIMS Pune (SaiBalaji): PGDM fees ₹9.5 Lakhs, highest placement ₹26.0
+  LPA, cutoffs & 2027 admissions with Mohit Jain.
 keywords:
   - IIMS Pune review
   - IIMS Pune fees structure 2027
@@ -30,6 +32,12 @@ keywords:
   - IIMS Pune cutoff
   - IIMS Pune Hinjawadi
   - International Institute of Management Studies Pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
 state: Maharashtra
 ---
 

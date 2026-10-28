@@ -183,7 +183,7 @@ Operating from its permanent 200-acre campus in Basantpur, IIM Sambalpur provide
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Sambalpur Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Sambalpur:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Sambalpur:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

@@ -13,6 +13,13 @@ keywords:
   - Germany EU Blue Card for Indians
   - study abroad Germany 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -128,7 +135,7 @@ Germany is a **dream destination** for Indian STEM and business students — com
 
 ## 📞 Need Help with APS & Germany University Applications?
 
-[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)
+**[👉 Book Free Consultation](/inquiry/) | [💬 WhatsApp Us](https://wa.me/919560020771)**
 
 ---
 

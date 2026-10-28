@@ -20,6 +20,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Chennai Admissions 2027
 faqs:
   - question: What is the average placement package at LIBA Chennai in 2026-2027?
     answer: >-
@@ -50,6 +51,12 @@ state: Tamil Nadu
 > - **Core USP & Focus**: Premier management destination in **Chennai, Tamil Nadu** recognized for academic rigor (SAQS & NBA Accredited · AICTE Approved) and industry-aligned specializations in **PGDM (Full-Time 2 Years)**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹17.00 Lakhs (Total)** against an audited average domestic CTC of **₹11.50 LPA** (Median: **₹11.00 LPA**, Highest: **₹20.50 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT, XAT** score (**80.0+ XAT / CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for LIBA Chennai MBA Admission 2027: Fees, Cutoff?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹17.00 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for LIBA Chennai" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

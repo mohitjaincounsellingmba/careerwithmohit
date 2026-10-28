@@ -14,6 +14,13 @@ keywords:
   - JBIMS cutoff 2027–29
   - MHCET MBA result date
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -63,7 +70,7 @@ Based on previous trends, the MHCET MBA answer key and response sheet are typica
 
 ## How to Download MHCET MBA 2027–29 Answer Key PDF?
 
-Once released, candidates can download their individual response sheets by following these steps:
+**Once released, candidates can download their individual response sheets by following these steps:**
 
 1.  Visit the official CET Cell website: [cetcell.mahacet.org](https://cetcell.mahacet.org).
 2.  Click on the **'MAH-MBA/MMS-CET 2027–29'** portal link.

@@ -14,6 +14,13 @@ keywords:
   - mdi gurgaon review 2027
   - top mba colleges in delhi ncr
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the average placement package at MDI Gurgaon in 2026-2027?
     answer: >-
@@ -42,8 +49,8 @@ faqs:
       Kozhikode, and SPJIMR Mumbai in corporate recruiter trust, consulting/BFSI
       recruitment volume, and strategic location advantages in the Delhi-NCR
       corporate corridor.
-location: Gurgaon
-state: Haryana
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [MDI Gurgaon](/colleges/mdi-gurgaon/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -182,7 +189,7 @@ Located in the heart of Gurgaon's Cyber City corporate hub, MDI Gurgaon offers p
 
 ## 6. Mohit's Candid Counselor Take: Is MDI Gurgaon Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of MDI Gurgaon:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of MDI Gurgaon:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

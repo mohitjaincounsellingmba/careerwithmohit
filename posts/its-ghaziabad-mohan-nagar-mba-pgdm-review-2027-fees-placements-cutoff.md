@@ -1,7 +1,7 @@
 ---
 title: 'ITS Ghaziabad PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for ITS Ghaziabad (Mohan Nagar) (Mohan Nagar,
   Ghaziabad). Check updated fee structure (₹3.15L - ₹6.95L (Total)).
@@ -14,6 +14,13 @@ keywords:
   - direct admission in its ghaziabad (mohan nagar)
   - top pgdm colleges in mohan nagar
   - best mba colleges in ghaziabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at ITS Ghaziabad (Mohan Nagar) in
@@ -41,8 +48,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Mohan Nagar
-state: Ghaziabad
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [ITS Ghaziabad (Mohan Nagar)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -51,6 +58,12 @@ state: Ghaziabad
 > - **Core USP & Focus**: Premier management institute in **Mohan Nagar, Ghaziabad** accredited with **AICTE Approved · NBA Accredited · NAAC Grade A** offering career-focused programs in **MBA, PGDM**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹3.15L - ₹6.95L (Total)** against an average domestic CTC of **₹6.0 LPA** (Highest package: **₹11.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for ITS Ghaziabad PGDM 2027: Fees, Cutoff & Place?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹6.0 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for ITS Ghaziabad" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

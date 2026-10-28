@@ -22,6 +22,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is there a management quota in Masters Union?
     answer: >-
@@ -46,6 +47,12 @@ category: Jobs & Careers
 > - **Strategic Focus & Core Value**: Secure your PGP seat at Masters Union Gurgaon for 2026. Learn about direct admission via profile assessment, M...
 > - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
 > - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in Masters Union 2026: Profi?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹22 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 
 Masters Union, located in the Cyber Park hub of Gurgaon, is disrupting management education with its "un-business school" model. Led by CXOs and industry veterans rather than traditional professors, it has become a top choice for students eyeing a career in startups and tech. For the 2027–29 batch, **Direct Admission in Masters Union** is centered around profile quality and entrepreneurship potential.
@@ -80,7 +87,16 @@ The total fees for the 16-month PGP program is approximately **₹22 Lakhs to �
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in Masters Union 2026: Profi** | ₹22 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Is there a management quota in Masters Union?
 Masters Union follows a holistic admission process where diverse and high-impact profiles can secure direct admission even with moderate test scores.

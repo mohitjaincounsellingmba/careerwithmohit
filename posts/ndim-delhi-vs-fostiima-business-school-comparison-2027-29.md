@@ -16,6 +16,13 @@ keywords:
   - fostiima business school average package
   - best mba colleges in delhi ncr 2027
   - direct admission in ndim fostiima
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Which college is better: NDIM Delhi or FOSTIIMA Business School?'
     answer: >-
@@ -49,6 +56,8 @@ faqs:
       Shortlisting cutoffs generally range from 60–65 percentile in CAT/XAT,
       70–75 percentile in CMAT, and 75–80 percentile in MAT, supported by
       profile evaluations and personal interviews.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## NDIM Delhi vs FOSTIIMA: Which is Better for PGDM in 2027?
@@ -187,7 +196,7 @@ Both NDIM and FOSTIIMA adopt a comprehensive profile-based selection procedure b
 
 ## 6. Who Should Choose NDIM Delhi?
 
-Choose **New Delhi Institute of Management (NDIM)** if:
+**Choose **New Delhi Institute of Management (NDIM)** if:**
 1. **You want AIU MBA Equivalence & NBA Accreditation**: Essential if you plan to sit for government competitive exams, PSU recruitments, or apply for PhD/Doctoral programs in India and abroad.
 2. **You want Dual Functional Specializations**: You wish to graduate with strong credentials across two distinct business domains (e.g., Marketing + Analytics or Finance + HR).
 3. **You value a 34+ Year Alumni Base**: NDIM's extensive alumni network spans senior management positions across Fortune 500 companies in India and the Middle East.

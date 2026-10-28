@@ -14,6 +14,13 @@ keywords:
   - central university admission 2026
   - UGC central universities list
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -328,7 +335,7 @@ Yes, **IGNOU (Indira Gandhi National Open University)** is a Central University 
 
 ## 📞 Need Admission Guidance?
 
-If you're planning to apply to a Central University through CUET 2026 and need personalized counseling – from college selection to application strategy – we can help!
+**If you're planning to apply to a Central University through CUET 2026 and need personalized counseling – from college selection to application strategy – we can help!**
 
 [👉 Book a Free 1:1 Counselling Session with Mohit Jain](/inquiry/)
 

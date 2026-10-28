@@ -21,6 +21,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 location: Delhi NCR
 faqs:
   - question: What raw score is needed for a 99 percentile in CAT 2026?
@@ -148,7 +155,7 @@ Because top institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bang
 
 ## 🏆 What is a "Good Score" in CAT 2026?
 
-A "good score" in CAT depends entirely on your academic profile, category (General vs NC-OBC/SC/ST/EWS), academic background (Engineer vs Non-Engineer), and target colleges.
+**A "good score" in CAT depends entirely on your academic profile, category (General vs NC-OBC/SC/ST/EWS), academic background (Engineer vs Non-Engineer), and target colleges.**
 
 ### 1. Top Tier (98 to 99.9+ Percentile | 72–100+ Marks)
 *   **Institutions:** [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, [IIM Indore](/colleges/iim-indore/), [FMS Delhi](/colleges/fms-delhi/), [MDI Gurgaon](/colleges/mdi-gurgaon/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), IIT Delhi DMS, [IIT Bombay](/colleges/iit-bombay/) SJMSOM.

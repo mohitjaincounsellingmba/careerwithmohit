@@ -1,7 +1,7 @@
 ---
 title: 'MAIMS Rohini MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-17'
-category: MBA
+category: Exams
 description: >-
   Honest MAIMS Rohini MBA review 2027: GGSIPU CAT cutoffs, ₹3.8L total fee, ₹6.5
   LPA real placements, and Rohini campus reality check by Mohit Jain.
@@ -12,6 +12,13 @@ keywords:
   - maims rohini cat cutoff 2027
   - ggsipu mba admission maims
   - maharaja agrasen institute mba review
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the real average placement package at MAIMS Rohini in 2026-2027?
     answer: >-
@@ -42,11 +49,15 @@ faqs:
       Yes, 10% of seats are reserved under the official GGSIPU Management Quota,
       filled transparently after main counseling rounds based on graduation
       marks and entrance test scores.
-location: Rohini Sector 22
-state: North-West Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
-## MAIMS Rohini MBA Review 2027: Fees, Cutoff, Placements & GGSIPU Reality Check
+## What are the Key Admissions, Fees, and Placement Details for MAIMS Rohini MBA Review 2027: Fees, Cutoff, Placements & GGSIPU Reality Check?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Degree & Affiliation**: 2-year full-time MBA degree awarded by **Guru Gobind Singh Indraprastha University (GGSIPU, Code 101)**, AICTE-approved and NAAC 'A' accredited.

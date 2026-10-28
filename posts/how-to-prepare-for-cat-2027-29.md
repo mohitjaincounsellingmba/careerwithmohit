@@ -12,6 +12,13 @@ keywords:
   - CAT mock tests
   - MBA entrance exam
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -37,7 +44,11 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-## Introduction
+## What are the Key Admissions, Fees, and Placement Details for Introduction?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 The Common Admission Test (CAT) is the gateway to India’s top MBA programs. With the 2027–29 edition approaching, competition is fiercer than ever. This guide walks you through a **structured, 12‑week study plan**, the best resources, and proven tactics to boost your percentile.
 
 ---

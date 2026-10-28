@@ -1,7 +1,7 @@
 ---
 title: 'ATLAS SkillTech MBA Review 2027: Fees & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 ATLAS SkillTech Mumbai MBA review with audited ₹9.50L
   placements, ₹11.5L fees, cutoffs, and admissions advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best mba colleges in bkc mumbai
   - new age mba colleges in mumbai
   - mohit jain mba admissions counselor
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at ATLAS SkillTech
@@ -53,8 +60,8 @@ faqs:
       Yes, eligible candidates possessing a recognized bachelor's degree with a
       minimum of 50% aggregate marks and valid entrance scores can apply for
       merit profile-based direct evaluation seats with counselor assistance.
-location: 'Equinox Business Park, BKC Annex'
-state: 'Mumbai, Maharashtra'
+location: Mumbai
+state: Maharashtra
 ---
 
 ## [ATLAS SkillTech University (ISME Mumbai)](https://careerwithmohit.online/blog/atlas-skilltech-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

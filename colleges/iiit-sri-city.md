@@ -86,6 +86,8 @@ keywords:
   - Hyderabad Direct Admission 2027-29
   - Colleges in Telangana
   - Hyderabad Career Counselling
+  - Top Colleges in Hyderabad 2026
+  - Hyderabad Direct Admission 2026
 ---
 
 ### About IIIT Sri City (Indian Institute of Information Technology Sri City)

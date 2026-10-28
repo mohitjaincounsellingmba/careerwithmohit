@@ -6,7 +6,7 @@ date: '2026-04-25'
 category: Online Degrees
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Faridabad, Delhi NCR.
+  colleges in Faridabad, Delhi NCR for 2026-2027 admissions & career guidance.
 keywords:
   - M.Tech for working professionals 2026
   - MTech working professionals India
@@ -20,6 +20,13 @@ keywords:
   - Best Colleges in Faridabad
   - Faridabad Admissions 2026
   - Direct Admission in Faridabad
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -55,7 +62,7 @@ For engineers seeking senior technical roles, R&D leadership, or a pathway to ac
 
 ## What is M.Tech for Working Professionals?
 
-A **2-year postgraduate engineering program** in hybrid format — online live sessions + periodic campus lab visits. Carries the same degree value as a full-time M.Tech.
+**A **2-year postgraduate engineering program** in hybrid format — online live sessions + periodic campus lab visits. Carries the same degree value as a full-time M.Tech.**
 
 > 📌 **Note:** A purely online M.Tech is **not valid** as per AICTE norms. The M.Tech for Working Professionals is the official flexible alternative with lab components on campus.
 

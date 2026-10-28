@@ -26,6 +26,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: What degree does BITSoM award upon graduation?
     answer: >-

@@ -18,6 +18,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the updated exam pattern for SNAP 2026?
     answer: >-
@@ -153,7 +154,7 @@ Quantitative Aptitude in SNAP is heavily dominated by **Arithmetic and Algebra**
 
 ## SNAP vs CAT Syllabus: What Should You Tweak?
 
-If you are preparing for both CAT and SNAP, keep these core strategy differences in mind:
+**If you are preparing for both CAT and SNAP, keep these core strategy differences in mind:**
 
 1. **No Sectional Time Limit in SNAP:** You can jump between English, LR, and Quant freely to pick low-hanging fruit first.
 2. **Speed Over Depth:** CAT tests conceptual depth with complex multi-layered questions; SNAP tests mental math agility, direct formula memory, and quick visual recognition.

@@ -14,6 +14,13 @@ keywords:
   - amity online mca fees
   - amity online emi options
   - amity university online review
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -93,7 +100,7 @@ The **Online BBA** and **Online BCA** are 3-year (6-semester) undergraduate prog
 
 ## Hidden Costs Audit: Are There Extra Exam or Re-Evaluation Fees?
 
-Unlike distance learning centers that charge extra for exam hall tickets, **[Amity University](/colleges/amity-noida/) Online does NOT charge hidden exam fees**. The semester tuition fee includes:
+**Unlike distance learning centers that charge extra for exam hall tickets, **[Amity University](/colleges/amity-noida/) Online does NOT charge hidden exam fees**. The semester tuition fee includes:**
 * Access to 24/7 Learning Management System (LMS) e-books & recorded webinars
 * Live weekend masterclasses by industry experts
 * Online proctored semester examinations

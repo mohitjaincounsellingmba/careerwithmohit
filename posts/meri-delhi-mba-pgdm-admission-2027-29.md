@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the total fee for the MBA / PGDM (2027–29) Batch at MERI
@@ -86,6 +87,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹5.95 Lakhs (Total)** (**₹2.97 Lakhs per Year**). Merit rebates and fee concessions for meritorious candidates and defense wards.
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to GGSIPU (for MBA) · NAAC Grade A.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹9.80 LPA**) with a highest package of **₹20.00 LPA**. Strong local corporate internship ties leading to 20% PPO conversions.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Management Education & Research Institute (ME?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹5.95 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[Management Education & Research Institute (MERI)](/colleges/meri-delhi/) (MERI Janakpuri)**, located in **Janakpuri, West Delhi**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

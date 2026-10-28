@@ -89,3 +89,12 @@ Aspirants with Class 10 or 12 marks below 75% lose up to 15 composite score poin
 Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **IIM Selection Criteria 2027: CAT vs Academics** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

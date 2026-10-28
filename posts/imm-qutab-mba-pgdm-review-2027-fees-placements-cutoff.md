@@ -1,7 +1,7 @@
 ---
 title: 'IMM PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for Institute of Marketing & Management (IMM)
   (Qutab Institutional Area, South Delhi).
@@ -14,6 +14,13 @@ keywords:
   - direct admission in institute of marketing & management (imm)
   - top pgdm colleges in qutab institutional area
   - best mba colleges in south delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Institute of Marketing &
@@ -42,8 +49,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Qutab Institutional Area
-state: South Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [Institute of Marketing & Management (IMM)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -52,6 +59,12 @@ state: South Delhi
 > - **Core USP & Focus**: Premier management institute in **Qutab Institutional Area, South Delhi** accredited with **AICTE Approved · Established in 1969** offering career-focused programs in **PGDM**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹9.45 Lakhs (Total)** against an average domestic CTC of **₹9.5 LPA** (Highest package: **₹19.75 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IMM PGDM 2027: Fees, Cutoff & Placements ROI?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹9.45 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for IMM" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

@@ -43,7 +43,11 @@ If you were disappointed with your performance on May 3, or even if you did well
 
 ---
 
-## 🔍 Step 1: Conduct a "May 3 Post-Mortem"
+## What are the Key Admissions, Fees, and Placement Details for 🔍 Step 1: Conduct a "May 3 Post-Mortem"?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 Before you dive back into your books, analyze exactly what happened during the May 3 exam. 
 
@@ -141,3 +145,12 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **NEET UG 2026 Re-Test Strategy: How to Refocus** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

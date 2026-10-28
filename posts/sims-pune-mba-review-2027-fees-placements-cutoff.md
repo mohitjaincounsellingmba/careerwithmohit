@@ -20,6 +20,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the average placement package at SIMS Pune in 2026-2027?
     answer: >-
@@ -50,6 +51,12 @@ state: Maharashtra
 > - **Core USP & Focus**: Premier management destination in **Pune, Maharashtra** recognized for academic rigor (NAAC A++ Grade · SIU Khadki, Pune) and industry-aligned specializations in **MBA (Defence Personnel Wards & Open Category)**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹12.00 Lakhs (Total)** against an audited average domestic CTC of **₹11.00 LPA** (Median: **₹10.50 LPA**, Highest: **₹21.50 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **SNAP** score (**77.0+ SNAP %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for SIMS Pune MBA Admission 2027: Fees, Cutoff & ?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.00 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for SIMS Pune" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

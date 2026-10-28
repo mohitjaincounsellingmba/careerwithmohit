@@ -15,6 +15,13 @@ keywords:
   - DU CSAS portal registration 2026
   - NTA CUET UG results 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -82,7 +89,7 @@ Once NTA announces the results officially, scorecards will be hosted on the foll
 
 ## 📝 How to Download Your CUET UG 2026 Scorecard?
 
-Follow these steps to access and download your official CUET UG scorecard:
+**Follow these steps to access and download your official CUET UG scorecard:**
 
 1. Visit the official website: **[cuet.nta.nic.in](https://cuet.nta.nic.in)**.
 2. Click on the link titled **"CUET UG 2026 Scorecard / Result Download"** on the homepage.

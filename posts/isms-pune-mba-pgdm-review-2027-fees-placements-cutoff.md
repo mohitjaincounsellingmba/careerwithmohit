@@ -1,7 +1,7 @@
 ---
 title: 'ISMS Pune MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 ISMS Pune MBA review with audited ₹6.20L placements, ₹6.50L
   fees, UK dual degrees, cutoff, and admissions advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in isms pune
   - uk dual degree mba pune
   - mohit jain mba admissions counselor
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the audited average placement package at ISMS Pune?
     answer: >-
@@ -47,8 +54,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       entrance test scores can apply for merit profile-based direct evaluation
       seats with counselor assistance.
-location: 'Wadgaon, Hinjawadi'
-state: 'Pune, Maharashtra'
+location: Pune
+state: Maharashtra
 ---
 
 ## [International School of Management Studies (ISMS Pune)](https://careerwithmohit.online/blog/isms-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

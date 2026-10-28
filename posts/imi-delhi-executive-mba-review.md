@@ -3,7 +3,7 @@ title: 'International Management Institute (IMI), Delhi Executive MBA Review'
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at International
-  Management Institute (IMI), Delhi.
+  Management Institute (IMI), Delhi for 2026-2027 admissions & career guidance.
 keywords:
   - 'International Management Institute (IMI), Delhi executive mba'
   - 'International Management Institute (IMI), Delhi executive mba review'
@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 category: Exams
 faqs:
   - question: Is the Executive PGDM at IMI Delhi a residential program?
@@ -52,7 +53,11 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ---
 
-## 🏆 Program Overview
+## What are the Key Admissions, Fees, and Placement Details for 🏆 Program Overview?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 - **Official Course Name:** Executive PGDM (15-Month Program)
 - **Approximate Fees:** ₹13.50 Lakhs (Total Program Fees)

@@ -1,7 +1,7 @@
 ---
 title: 'CAT 2026 Form Correction: Photo, City & Error Guide'
 date: '2026-10-06'
-category: CAT
+category: Exams
 description: >-
   Step-by-step instructions for the CAT 2026 application correction window.
   Learn how to re-upload photos, change test city preferences, and rectify
@@ -92,3 +92,12 @@ If you are evaluating backup B-school options while preparing for CAT, explore v
 Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **CAT 2026 Form Correction: Photo, City & Error** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

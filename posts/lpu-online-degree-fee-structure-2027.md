@@ -17,6 +17,7 @@ keywords:
   - Chandigarh Direct Admission 2026
   - Colleges in Punjab
   - Chandigarh Career Counselling
+  - Chandigarh Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -95,7 +96,7 @@ The **Online MBA** at LPU is a 2-year (4-semester) program with specializations 
 
 ## Are Scholarships Available at LPU Online?
 
-Yes. LPU Online offers fee concessions and scholarships under the following categories:
+**Yes. LPU Online offers fee concessions and scholarships under the following categories:**
 1. **Defense / Armed Forces Personnel Concession**: Special fee relaxation for serving defense personnel and veterans.
 2. **Merit-Based Scholarships**: Partial tuition fee waivers based on graduation / 12th marks percentage.
 3. **Early Bird Admission Benefit**: Additional discount for early applicants in the 2027 intake session.

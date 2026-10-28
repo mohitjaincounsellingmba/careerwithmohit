@@ -1,8 +1,10 @@
 ---
 title: 'IIM Amritsar MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹16.0L), permanent campus, placements (₹16.5L avg), CAT cutoffs (90%+) & CAP admission guide for IIM Amritsar by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 fees (₹16.0L), permanent campus, placements (₹16.5L avg), CAT
+  cutoffs (90%+) & CAP admission guide for IIM Amritsar by Mohit Jain.
 keywords:
   - iim amritsar mba review 2027
   - iim amritsar fee structure 2027
@@ -11,17 +13,38 @@ keywords:
   - iim amritsar selection criteria mba ba hr
   - top 3rd generation iims in north india
 faqs:
-  - question: 'What is the total fee structure for the MBA program at IIM Amritsar?'
-    answer: 'The total 2-year tuition and residential fee for the flagship MBA / MBA-BA / MBA-HR programs at IIM Amritsar is approximately ₹16.00 Lakhs to ₹17.30 Lakhs, payable in 6 term-wise installments. The fee covers core tuition, single-occupancy hostel accommodation, and digital library access.'
-  - question: 'What is the average and highest placement package at IIM Amritsar?'
-    answer: 'During recent campus placement seasons, IIM Amritsar recorded an overall average domestic package of ₹16.51 to ₹17.15 LPA, with the top 25% cohort securing an average CTC of ₹20.57 LPA and peak domestic offers touching ₹36.25 LPA.'
-  - question: 'Which MBA specializations are offered at IIM Amritsar?'
-    answer: 'IIM Amritsar offers three flagship 2-year residential programs: core Master of Business Administration (MBA), MBA in Business Analytics (MBA-BA), and MBA in Human Resource Management (MBA-HR).'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Amritsar via IIM CAP?'
-    answer: 'IIM Amritsar participates in the Common Admission Process (IIM CAP). Expected safe qualifying percentiles for General category aspirants range between 92 and 94+ percentile, with sectional cutoffs of 70–75 percentile across VARC, DILR, and QA.'
-  - question: 'Does IIM Amritsar provide education loan assistance and scholarships?'
-    answer: 'Yes, admitted students at IIM Amritsar are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Central Bank of India at concessional interest rates, alongside Government of India national scholarships.'
-location: 'Manawala'
+  - question: What is the total fee structure for the MBA program at IIM Amritsar?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship MBA / MBA-BA
+      / MBA-HR programs at IIM Amritsar is approximately ₹16.00 Lakhs to ₹17.30
+      Lakhs, payable in 6 term-wise installments. The fee covers core tuition,
+      single-occupancy hostel accommodation, and digital library access.
+  - question: What is the average and highest placement package at IIM Amritsar?
+    answer: >-
+      During recent campus placement seasons, IIM Amritsar recorded an overall
+      average domestic package of ₹16.51 to ₹17.15 LPA, with the top 25% cohort
+      securing an average CTC of ₹20.57 LPA and peak domestic offers touching
+      ₹36.25 LPA.
+  - question: Which MBA specializations are offered at IIM Amritsar?
+    answer: >-
+      IIM Amritsar offers three flagship 2-year residential programs: core
+      Master of Business Administration (MBA), MBA in Business Analytics
+      (MBA-BA), and MBA in Human Resource Management (MBA-HR).
+  - question: >-
+      What is the CAT cutoff required for an interview call at IIM Amritsar via
+      IIM CAP?
+    answer: >-
+      IIM Amritsar participates in the Common Admission Process (IIM CAP).
+      Expected safe qualifying percentiles for General category aspirants range
+      between 92 and 94+ percentile, with sectional cutoffs of 70–75 percentile
+      across VARC, DILR, and QA.
+  - question: Does IIM Amritsar provide education loan assistance and scholarships?
+    answer: >-
+      Yes, admitted students at IIM Amritsar are eligible for 100%
+      collateral-free education loans under the SBI Scholar Scheme and Central
+      Bank of India at concessional interest rates, alongside Government of
+      India national scholarships.
+location: Manawala
 state: 'Amritsar, Punjab'
 ---
 
@@ -41,7 +64,11 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** deliver
 
 ---
 
-## 🏛️ IIM Amritsar: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Amritsar: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Amritsar delivers an industry-immersed 2-year residential management curriculum recognized by the Ministry of Education, Government of India.**
 

@@ -4,7 +4,8 @@ date: '2026-07-27'
 category: Exams
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU
+  for 2026-2027 admissions & career guidance.
 keywords:
   - who will conduct cat 2026 exam
   - which iim will conduct cat 2026
@@ -20,6 +21,13 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Who is conducting the CAT 2026 exam?
     answer: >-
@@ -65,7 +73,7 @@ In this comprehensive guide, we uncover the **convening IIM for CAT 2026**, expl
 
 ## 1. Who Will Conduct the CAT 2026 Exam?
 
-The **Indian Institute of Management (IIM) Indore** is the official convening and conducting body for **CAT 2026**.
+**The **Indian Institute of Management (IIM) Indore** is the official convening and conducting body for **CAT 2026**.**
 
 Each year, the responsibility of hosting and administering the Common Admission Test rotates among the **six older IIMs** (known as the *BLACKI + Indore* core group: [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, and [IIM Indore](/colleges/iim-indore/)). 
 

@@ -4,7 +4,8 @@ date: '2026-05-20'
 category: B.Tech
 description: >-
   Confused about choosing your B.Tech engineering branch? Read our comprehensive
-  comparison of Computer Science, AI-ML, ECE, Mechanical, Civil.
+  comparison of Computer Science, AI-ML, ECE, Mechanical, Civil for 2026-2027
+  admissions & career guidance.
 keywords:
   - B.Tech specializations comparison
   - best engineering branches in India
@@ -117,7 +118,7 @@ Civil engineering is essential for nation-building. The growth of this branch is
 
 ## 3. How to Choose the Right B.Tech Branch?
 
-When choosing a branch, students should use the following three-step framework:
+**When choosing a branch, students should use the following three-step framework:**
 
 1.  **Aptitude vs. Interest:** Do not choose CSE just because of the high packages if you struggle with logical mathematics and long hours of screen-coding. Similarly, if you love hands-on mechanical designs, a branch like Robotics or Mechatronics might be a perfect hybrid.
 2.  **College Tier vs. Branch:** A common dilemma is choosing a core branch at a Tier-1 college (like Mechanical at an IIT/NIT) versus Computer Science at a Tier-2/3 private university. Tier-1 colleges offer unmatched network opportunities and soft skills. However, if you are absolutely sure of your software goals, choosing CSE at a Tier-2 university with strong coding cultures is recommended.

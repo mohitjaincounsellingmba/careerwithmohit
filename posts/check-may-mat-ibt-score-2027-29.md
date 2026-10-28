@@ -19,6 +19,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Where do I check my MAT IBT scorecard?
     answer: >-
@@ -87,7 +94,7 @@ Since the IBT was conducted across multiple slots in **May 2026**, results are r
 
 ## What is the MAT IBT Mode?
 
-The **Internet-Based Test (IBT)** is AIMA's most flexible MAT format — you can take it **from anywhere** using your own computer or laptop with a reliable internet connection. No test centre visit required.
+**The **Internet-Based Test (IBT)** is AIMA's most flexible MAT format — you can take it **from anywhere** using your own computer or laptop with a reliable internet connection. No test centre visit required.**
 
 Key facts about MAT IBT:
 - **Exam Venue:** Home or any location with stable internet

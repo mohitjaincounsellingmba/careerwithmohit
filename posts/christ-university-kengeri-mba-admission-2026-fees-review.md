@@ -14,6 +14,13 @@ keywords:
   - MBA in Kengeri campus
   - Christ University vs Other MBA
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is Kengeri Campus good for MBA?
     answer: >-
@@ -47,7 +54,11 @@ The **Kengeri Campus** of Christ (Deemed to be University) in Bangalore is a bea
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **Expected Merit Requirements 2026**
+## What are the Key Admissions, Fees, and Placement Details for **Expected Merit Requirements 2026**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 Kengeri shares its cutoff pool with the central campus.
 
 | Entrance Exam | Expected Cutoff (Score/Percentile) |

@@ -27,6 +27,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at DY Patil Pune?
     answer: >-
@@ -77,6 +78,12 @@ state: Maharashtra
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.50 Lakhs for PGDM / ₹3.50 Lakhs for MBA** (**₹3.25 Lakhs / Year (PGDM)**). State government fee reimbursement schemes (EBC/SC/ST/OBC) for eligible candidates.
 > - **Accreditation & Approvals**: AICTE Approved · Affiliated to SPPU · NAAC Grade A++ Accredited (Score 3.73).
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.00 LPA** (Top 25% at **₹11.50 LPA**) with a highest package of **₹24.00 LPA**. 26% PPO conversion through automotive and IT industrial attachments in PCMC corridor.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Dr. D.Y. Patil Institute of Management & Rese?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹6.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **Dr. D.Y. Patil Institute of Management & Research (DYPIMR) (DY Patil Pune)**, located in **Pimpri, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

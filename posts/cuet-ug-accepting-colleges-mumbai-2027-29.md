@@ -11,6 +11,13 @@ keywords:
   - SNDT Mumbai CUET eligibility
   - best colleges in Mumbai for undergraduate
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -51,7 +58,11 @@ Known for its high academic standards in the social science domain.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **2. SNDT Women’s University**
+## What are the Key Admissions, Fees, and Placement Details for **2. SNDT Women’s University**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 India’s first university for women with multiple campuses across Mumbai and Maharashtra.
 *   **Popular Degrees:** BA, B.Sc (Home Science), B.Com.
 

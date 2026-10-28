@@ -1,8 +1,10 @@
 ---
 title: 'Imperial College London MBA Review 2027: Fees, GMAT & ROI'
 date: '2026-10-09'
-category: Global MBA
-description: 'Get verified 2027 fees in INR, GMAT Focus cutoffs, London living costs, and median salary ROI for Imperial College Business School Full-Time MBA.'
+category: Study Abroad
+description: >-
+  Get verified 2027 fees in INR, GMAT Focus cutoffs, London living costs, and
+  median salary ROI for Imperial College Business School Full-Time MBA.
 keywords:
   - imperial college business school mba review 2027
   - imperial college london mba fees in inr
@@ -13,18 +15,56 @@ keywords:
   - imperial mba scholarships for indian students
   - imperial business school vs lbs vs oxford said
 faqs:
-  - question: 'What is the total cost of an MBA at Imperial College Business School in Indian Rupees (INR)?'
-    answer: 'The total estimated cost for the 1-year Full-Time MBA at Imperial College Business School for the 2027 intake is approximately ₹1.00 Crore to ₹1.05 Crore INR. This comprises a tuition fee of £71,500 (approx. ₹78.65 Lakhs INR) and estimated London living expenses of £20,000 to £24,000 (approx. ₹22 to ₹26.4 Lakhs INR).'
-  - question: 'What GMAT Focus Edition or GRE score is required for Imperial MBA admission?'
-    answer: 'Imperial College Business School requires a competitive GMAT Focus Edition score of 645 to 665+ (equivalent to 690-720 in classic GMAT) or a GRE score of 320+ with a strong quantitative percentile (160+), alongside a minimum of 3 years of demonstrated professional leadership.'
-  - question: 'What is the average post-MBA salary and placement rate at Imperial College London?'
-    answer: 'Graduates from the Imperial Full-Time MBA command an average base domestic salary of £88,500 to £95,000 (approx. ₹97.3 Lakhs to ₹1.05 Crore INR), with over 90% of the cohort securing high-impact roles within 3 months of graduation across consulting, finance, and technology.'
-  - question: 'Can international and Indian students work in the UK after graduating from Imperial Business School?'
-    answer: 'Yes, international graduates are eligible for the UK Graduate Route Visa, which permits them to live and work in the UK for up to 2 years post-graduation without requiring immediate employer visa sponsorship, facilitating smooth career transitions into London corporate hubs.'
-  - question: 'How does Imperial College Business School compare with London Business School (LBS) and Oxford Saïd?'
-    answer: 'Imperial offers an intensive 1-year STEM-integrated curriculum with unparalleled strength in technology, fintech, entrepreneurship (via Imperial Enterprise Lab), and healthcare innovation, whereas LBS offers a flexible 15-21 month model with heavy finance focus, and Oxford Saïd emphasizes global policy and social impact.'
-  - question: 'Are scholarships available for Indian applicants at Imperial College Business School?'
-    answer: 'Yes, Imperial provides merit-based scholarships ranging from £10,000 to £25,000+, including the Dean’s Excellence Award, Imperial Women in Business Scholarship, Forté Fellowships, and Regional South Asia Leadership Awards.'
+  - question: >-
+      What is the total cost of an MBA at Imperial College Business School in
+      Indian Rupees (INR)?
+    answer: >-
+      The total estimated cost for the 1-year Full-Time MBA at Imperial College
+      Business School for the 2027 intake is approximately ₹1.00 Crore to ₹1.05
+      Crore INR. This comprises a tuition fee of £71,500 (approx. ₹78.65 Lakhs
+      INR) and estimated London living expenses of £20,000 to £24,000 (approx.
+      ₹22 to ₹26.4 Lakhs INR).
+  - question: >-
+      What GMAT Focus Edition or GRE score is required for Imperial MBA
+      admission?
+    answer: >-
+      Imperial College Business School requires a competitive GMAT Focus Edition
+      score of 645 to 665+ (equivalent to 690-720 in classic GMAT) or a GRE
+      score of 320+ with a strong quantitative percentile (160+), alongside a
+      minimum of 3 years of demonstrated professional leadership.
+  - question: >-
+      What is the average post-MBA salary and placement rate at Imperial College
+      London?
+    answer: >-
+      Graduates from the Imperial Full-Time MBA command an average base domestic
+      salary of £88,500 to £95,000 (approx. ₹97.3 Lakhs to ₹1.05 Crore INR),
+      with over 90% of the cohort securing high-impact roles within 3 months of
+      graduation across consulting, finance, and technology.
+  - question: >-
+      Can international and Indian students work in the UK after graduating from
+      Imperial Business School?
+    answer: >-
+      Yes, international graduates are eligible for the UK Graduate Route Visa,
+      which permits them to live and work in the UK for up to 2 years
+      post-graduation without requiring immediate employer visa sponsorship,
+      facilitating smooth career transitions into London corporate hubs.
+  - question: >-
+      How does Imperial College Business School compare with London Business
+      School (LBS) and Oxford Saïd?
+    answer: >-
+      Imperial offers an intensive 1-year STEM-integrated curriculum with
+      unparalleled strength in technology, fintech, entrepreneurship (via
+      Imperial Enterprise Lab), and healthcare innovation, whereas LBS offers a
+      flexible 15-21 month model with heavy finance focus, and Oxford Saïd
+      emphasizes global policy and social impact.
+  - question: >-
+      Are scholarships available for Indian applicants at Imperial College
+      Business School?
+    answer: >-
+      Yes, Imperial provides merit-based scholarships ranging from £10,000 to
+      £25,000+, including the Dean’s Excellence Award, Imperial Women in
+      Business Scholarship, Forté Fellowships, and Regional South Asia
+      Leadership Awards.
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**

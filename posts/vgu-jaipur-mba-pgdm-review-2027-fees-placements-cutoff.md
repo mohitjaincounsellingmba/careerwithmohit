@@ -1,7 +1,7 @@
 ---
 title: 'VGU Jaipur MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 VGU Jaipur MBA review with audited ₹6.70L placements,
   ₹5.00L fees, cutoffs, and direct admission counseling advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best mba colleges in jaipur rajasthan
   - naac a plus universities in jaipur
   - mohit jain mba admissions counselor
+  - Jaipur Colleges
+  - Best Colleges in Jaipur
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
+  - Jaipur Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at Vivekananda Global

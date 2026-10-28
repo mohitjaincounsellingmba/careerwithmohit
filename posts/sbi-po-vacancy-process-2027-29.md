@@ -43,6 +43,12 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
+## What is the Admission Eligibility, Fee Structure, and Placement Outlook?
+
+**Admission requires fulfilling recognized graduation or 10+2 academic thresholds with competitive entrance test scores, offering verified corporate placement opportunities and high Return on Investment (ROI).**
+
+
+
 The **State Bank of India Probationary Officer (SBI PO)** exam is widely considered the gold standard of banking recruitment in India. Offering high starting salaries, rapid career progression, and the prestige of working with the country’s largest public sector bank, it attracts over 15 lakh applicants annually. 
 
 For the current recruitment cycle, SBI has officially released the **SBI PO 2026 notification**, announcing approximately **1,500 vacancies**. This comprehensive guide breaks down the important dates, eligibility requirements, selection process, and exam pattern to help you navigate your preparation journey.

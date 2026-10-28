@@ -14,6 +14,13 @@ keywords:
   - lbsim review 2027
   - top mba colleges in delhi
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the average placement package at LBSIM Delhi in 2026-2027?
     answer: >-
@@ -41,7 +48,7 @@ faqs:
       LBSIM's PGDM in Financial Management (PGDM-FM) is widely regarded as one
       of northern India's premier finance programs, featuring extensive training
       in Bloomberg terminals, equity research, and risk management.
-location: New Delhi
+location: Delhi NCR
 state: Delhi NCR
 ---
 
@@ -179,7 +186,7 @@ Located adjacent to the Sector 11 Dwarka Metro Station in West Delhi, LBSIM offe
 
 ## 6. Mohit's Candid Counselor Take: Is LBSIM Delhi Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of LBSIM Delhi:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of LBSIM Delhi:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

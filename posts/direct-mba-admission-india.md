@@ -14,6 +14,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct MBA admission without CAT?
     answer: >-
@@ -121,7 +128,7 @@ Here are the top 10 institutions where you can secure your management seat direc
 
 ## 🚀 How Direct Admission Works?
 
-Direct admission doesn't mean "anyone can get in." Top colleges still follow a rigorous **profile evaluation** to ensure quality.
+**Direct admission doesn't mean "anyone can get in." Top colleges still follow a rigorous **profile evaluation** to ensure quality.**
 
 ### The 3-Step Selection Process:
 1. **Profile Screening**: Your 10th, 12th, and Graduation marks are reviewed (minimum 50% usually required).
@@ -136,6 +143,15 @@ Direct admission doesn't mean "anyone can get in." Top colleges still follow a r
 > **Key Takeaway:** Focus on your Interview prep. In direct admission, your personality and confidence matter more than your entrance exam percentile.
 
 ---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct MBA Admission in India 2027–29: Top Co** | ₹11.2 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Can I get direct MBA admission without CAT?

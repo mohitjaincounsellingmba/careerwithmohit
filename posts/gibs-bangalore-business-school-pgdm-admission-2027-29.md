@@ -29,6 +29,7 @@ keywords:
   - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at GIBS Bangalore?
     answer: >-
@@ -81,6 +82,12 @@ state: Karnataka
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹11.25 Lakhs (Total)** (**₹5.62 Lakhs per Year**). GIBS Merit & Sports Scholarships up to ₹1.50 Lakhs.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹9.50 LPA** (Top 25% at **₹13.00 LPA**) with a highest package of **₹22.00 LPA**. 28% PPO conversion through Finishing School and Innovation Incubation labs.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Global Institute of Business Studies (GIBS Bu?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹11.25 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore/)) (GIBS Bangalore)**, located in **Bannerghatta Road, Bangalore, Karnataka**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

@@ -20,6 +20,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -52,7 +59,7 @@ Whether you're a science graduate looking to specialize, a working professional 
 
 ## What is an Online M.Sc?
 
-An **Online M.Sc** is a 2-year postgraduate science degree delivered entirely through an online learning platform. As per UGC norms, an online M.Sc from an accredited university holds **equal value** to a regular on-campus M.Sc degree.
+**An **Online M.Sc** is a 2-year postgraduate science degree delivered entirely through an online learning platform. As per UGC norms, an online M.Sc from an accredited university holds **equal value** to a regular on-campus M.Sc degree.**
 
 #
 

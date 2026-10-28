@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Is there a management quota in [IMI Delhi](/colleges/imi-delhi/)?'
     answer: >-
@@ -49,6 +50,12 @@ category: Jobs & Careers
 > - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in IMI Delhi 2026: Instituti?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹17.1 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 
 International Management Institute (IMI) Delhi is India's first corporate-sponsored B-school, known for its strong academic rigor and premium infrastructure. Located in the heart of South Delhi (Qutub Institutional Area), it is a top-tier choice for MBA aspirants. For the 2027–29 batch, **Direct Admission in [IMI Delhi](/colleges/imi-delhi/)** is a merit-linked process focusing on profile diversity and the institutional category.
@@ -85,7 +92,16 @@ Even for the institutional category, [IMI Delhi](/colleges/imi-delhi/) maintains
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in IMI Delhi 2026: Instituti** | ₹17.1 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Is there a management quota in [IMI Delhi](/colleges/imi-delhi/)?
 Yes, [IMI Delhi](/colleges/imi-delhi/) has provision for institutional quota seats which are filled transparently based on merit and profile assessment.

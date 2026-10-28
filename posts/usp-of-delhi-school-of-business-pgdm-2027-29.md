@@ -27,6 +27,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is DSB's PGDM equivalent to an MBA?
     answer: >-
@@ -192,7 +193,7 @@ This triple credential at under ₹11 Lakhs makes DSB genuinely exceptional valu
 
 ## Who Should Choose Delhi School of Business?
 
-✅ Budget-conscious students wanting **Delhi credentials under ₹11 Lakhs**  
+**✅ Budget-conscious students wanting **Delhi credentials under ₹11 Lakhs****
 ✅ Aspirants interested in **FinTech as a career** — DSB's dedicated program is rare  
 ✅ Students targeting **BFSI, Consulting, or E-Commerce** roles  
 ✅ North Delhi residents who want a strong B-school close to home  

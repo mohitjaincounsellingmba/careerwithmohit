@@ -13,6 +13,13 @@ keywords:
   - ba llb vs bba llb for corporate law
   - corporate law internships guide
   - salary in khaitan and co
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is Corporate Law "harder" than Litigation?
     answer: >-
@@ -50,7 +57,7 @@ If you are a Law aspirant motivated by high-impact boardrooms and premium salary
 
 ## 🔝 Why Corporate Law in 2026?
 
-Unlike traditional litigation, which can take years to yield a stable income, Corporate Law offers:
+**Unlike traditional litigation, which can take years to yield a stable income, Corporate Law offers:**
 1.  **High Starting Salaries:** Fresh graduates from Top 5 NLUs or Tier-1 private schools often start at ₹15L to ₹20L per annum.
 2.  **Global Mobility:** Skills in international arbitration and global contracts allow you to work in London, Singapore, or Dubai hubs.
 3.  **Structured Growth:** You follow a clear path from Associate → Senior Associate → Principal Associate → Partner.

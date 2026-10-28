@@ -50,7 +50,7 @@ In this guide, we provide a complete breakdown of **MBBS colleges in Russia for 
 
 ## 🌟 Why Study MBBS in Russia in 2026?
 
-1. **Subsidized Tuition Fees:** Russian government universities subsidize education for international students, keeping total 6-year costs between **₹18 Lakhs and ₹35 Lakhs**.
+**1. **Subsidized Tuition Fees:** Russian government universities subsidize education for international students, keeping total 6-year costs between **₹18 Lakhs and ₹35 Lakhs**.**
 2. **NMC & WHO Approved:** Top Russian medical colleges are recognized by WHO, ECFMG (USA), FAIMER, and fully comply with NMC FMGL regulations.
 3. **No Entrance Exam Required:** Admissions are granted based on 12th PCB marks and NEET qualification—no IELTS/TOEFL or university entrance exams.
 4. **100% English Medium Curriculum:** Premier universities offer full 6-year programs in English for international students.

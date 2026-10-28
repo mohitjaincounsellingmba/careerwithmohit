@@ -1,8 +1,11 @@
 ---
 title: 'All 21 IIM Placement Reports 2026: Average & Highest CTC'
 date: '2026-10-09'
-category: MBA Placements
-description: 'Compare verified placement reports across all 21 IIMs (BLACKI, New, Baby). Check average CTC, median salary, peak international offers & top recruiters.'
+category: Jobs & Careers
+description: >-
+  Compare verified placement reports across all 21 IIMs (BLACKI, New, Baby).
+  Check average CTC, median salary, peak international offers & top recruiters
+  for 2026-2027 admissions & career guidance.
 keywords:
   - all iim placement reports 2026
   - iim average package 2025 2026
@@ -11,17 +14,47 @@ keywords:
   - baby iims average package
   - iim consulting and bfsi placements
   - iim median salary comparison
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
-  - question: 'What is the average placement salary across Old IIMs (BLACKI)?'
-    answer: 'In recent placement cycles, top tier Old IIMs (IIM Ahmedabad, IIM Bangalore, and IIM Calcutta) recorded average domestic CTCs between ₹34.20 LPA and ₹34.88 LPA, while IIM Lucknow, IIM Kozhikode, IIM Indore, and IIM Mumbai averaged between ₹28.18 LPA and ₹34.50 LPA.'
-  - question: 'Which IIM recorded the highest domestic and international placement package?'
-    answer: 'IIM Calcutta recorded an international peak offer of ₹1.45 Crore per annum, while IIM Ahmedabad and IIM Bangalore recorded peak domestic offers exceeding ₹1.10 Crore to ₹1.15 Crore per annum.'
-  - question: 'How much do New and Baby IIMs average in campus placements?'
-    answer: 'Second-generation New IIMs average between ₹17.50 LPA and ₹27.03 LPA (led by IIM Shillong at ₹27.03 LPA). Third-generation Baby IIMs average between ₹13.10 LPA and ₹19.73 LPA (led by IIM Amritsar at ₹19.73 LPA and IIM Nagpur at ₹18.07 LPA).'
-  - question: 'What are the dominant recruiting sectors in IIM placements?'
-    answer: 'Management Consulting & Strategy (McKinsey, BCG, Bain, AT Kearney) accounts for 38% of all offers, followed by BFSI & Investment Banking (Goldman Sachs, Morgan Stanley, JP Morgan) at 24%, and Product Management/Big Tech at 15%.'
-  - question: 'What is the return on investment (ROI) payback period for an IIM degree?'
-    answer: 'With total 2-year tuition fees ranging between ₹16 Lakhs (Baby IIMs) and ₹28-30 Lakhs (Old IIMs), the average starting CTC enables graduates to recover their total educational investment within 10 to 18 months of employment.'
+  - question: What is the average placement salary across Old IIMs (BLACKI)?
+    answer: >-
+      In recent placement cycles, top tier Old IIMs (IIM Ahmedabad, IIM
+      Bangalore, and IIM Calcutta) recorded average domestic CTCs between ₹34.20
+      LPA and ₹34.88 LPA, while IIM Lucknow, IIM Kozhikode, IIM Indore, and IIM
+      Mumbai averaged between ₹28.18 LPA and ₹34.50 LPA.
+  - question: >-
+      Which IIM recorded the highest domestic and international placement
+      package?
+    answer: >-
+      IIM Calcutta recorded an international peak offer of ₹1.45 Crore per
+      annum, while IIM Ahmedabad and IIM Bangalore recorded peak domestic offers
+      exceeding ₹1.10 Crore to ₹1.15 Crore per annum.
+  - question: How much do New and Baby IIMs average in campus placements?
+    answer: >-
+      Second-generation New IIMs average between ₹17.50 LPA and ₹27.03 LPA (led
+      by IIM Shillong at ₹27.03 LPA). Third-generation Baby IIMs average between
+      ₹13.10 LPA and ₹19.73 LPA (led by IIM Amritsar at ₹19.73 LPA and IIM
+      Nagpur at ₹18.07 LPA).
+  - question: What are the dominant recruiting sectors in IIM placements?
+    answer: >-
+      Management Consulting & Strategy (McKinsey, BCG, Bain, AT Kearney)
+      accounts for 38% of all offers, followed by BFSI & Investment Banking
+      (Goldman Sachs, Morgan Stanley, JP Morgan) at 24%, and Product
+      Management/Big Tech at 15%.
+  - question: What is the return on investment (ROI) payback period for an IIM degree?
+    answer: >-
+      With total 2-year tuition fees ranging between ₹16 Lakhs (Baby IIMs) and
+      ₹28-30 Lakhs (Old IIMs), the average starting CTC enables graduates to
+      recover their total educational investment within 10 to 18 months of
+      employment.
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
@@ -36,7 +69,11 @@ From the elite pinnacle of the **[IIM BLACKI](/blog/what-is-iim-blacki-complete-
 
 ---
 
-## 📊 Master Table: All 21 IIMs Placement Report (Audited Benchmark)
+## What are the Key Admissions, Fees, and Placement Details for 📊 Master Table: All 21 IIMs Placement Report (Audited Benchmark)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 Below is the verified placement summary across all 21 Indian Institutes of Management for the recent graduating MBA/PGP batches:
 

@@ -1,7 +1,7 @@
 ---
 title: >-
-  DoMS, IIT Madras MBA Placement Report 2027–29: Average CTC ₹17.90 LPA, Tech MBA
-  Highest ₹81 LPA & High ROI
+  DoMS, IIT Madras MBA Placement Report 2027–29: Average CTC ₹17.90 LPA, Tech
+  MBA Highest ₹81 LPA & High ROI
 date: '2026-08-15'
 description: >-
   Detailed DoMS IIT Madras MBA Placement Report 2027–29. Explore average CTC of
@@ -19,6 +19,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Chennai Admissions 2027
 faqs:
   - question: What was the average and highest package at DoMS IIT Madras in 2025?
     answer: >-
@@ -57,7 +58,11 @@ Here is the complete **DoMS IIT Madras MBA Placement Report 2027–29**.
 
 ---
 
-## 1. DoMS IIT Madras Placement 2025 Highlights
+## What are the Key Admissions, Fees, and Placement Details for DoMS IIT Madras Placement 2025 Highlights?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 | Metric | Statistics (2025 Placement Season) |
 | :--- | :--- |

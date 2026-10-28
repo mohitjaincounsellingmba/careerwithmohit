@@ -13,6 +13,13 @@ keywords:
   - NTA CUET schedule 2026
   - CUET UG 2026 datesheet
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -61,7 +68,7 @@ The exam will be held in multiple shifts (Morning, Afternoon, and Evening) depen
 ---
 
 ## 2. When will the Subject-wise Datesheet be Released?
-While the overall window is known, the **subject-wise datesheet**—which tells you exactly which day your History, Physics, or Commerce paper is scheduled—is typically released **10-15 days before the first exam**.
+**While the overall window is known, the **subject-wise datesheet**—which tells you exactly which day your History, Physics, or Commerce paper is scheduled—is typically released **10-15 days before the first exam**.**
 
 *   **Expected Date for Datesheet:** Between April 20 and April 25, 2026.
 *   **Where to Check:** Official website [cuet.nta.nic.in](https://cuet.nta.nic.in).

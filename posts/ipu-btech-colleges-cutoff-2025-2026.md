@@ -5,7 +5,7 @@ category: B.Tech
 description: >-
   Looking for IPU B.Tech colleges and cutoffs? Get the complete list of top
   GGSIPU engineering colleges, JEE Main closing ranks (Delhi vs Outside Delhi),
-  fees.
+  fees for 2026-2027 admissions & career guidance.
 keywords:
   - ipu btech colleges and cutoff 2026
   - top ipu btech colleges list
@@ -16,6 +16,13 @@ keywords:
   - msit janakpuri btech cutoff
   - best btech colleges in delhi ipu
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get IPU B.Tech without JEE Main?
     answer: >-
@@ -105,7 +112,7 @@ IPU colleges are famous for their "ROI." While the fees are relatively low compa
 
 ## Admission Process — How to Apply?
 
-1. **JEE Main Exam:** You MUST appear for JEE Main Session 1 or Session 2.
+**1. **JEE Main Exam:** You MUST appear for JEE Main Session 1 or Session 2.**
 2. **IPU Registration:** Register on the official portal [ipu.admissions.nic.in](https://ipu.admissions.nic.in/) and pay the ₹1,500 application fee.
 3. **Choice Filling:** During the counseling process, you list your preferred colleges and branches.
 4. **Counseling Rounds:** There are 3 main rounds + 1 Sliding Round + Spot Rounds.

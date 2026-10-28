@@ -5,7 +5,8 @@ title: >-
 date: '2026-09-12'
 description: >-
   Can you get IIM calls with an 85 percentile in CAT? In-depth profile
-  evaluation covering academic diversity, gender diversity, category cutoffs.
+  evaluation covering academic diversity, gender diversity, category cutoffs for
+  2026-2027 admissions & career guidance.
 category: MBA
 keywords:
   - profile evaluation for iim calls cat 85 percentile
@@ -54,6 +55,12 @@ The reality of IIM admissions is that **CAT percentile is only one component of 
 > - **Category Advantage**: Reserved category aspirants (NC-OBC, EWS, SC, ST, PwD) with 85 percentile have a 90%+ probability of receiving calls from New & Baby IIMs through the Common Admission Process (CAP).
 > - **Diversity Bonus**: Female non-engineers with 9/9/9 academics can secure calls from [IIM Rohtak](/colleges/iim-rohtak/), [IIM Amritsar](/colleges/iim-amritsar/), and IIM Visakhapatnam even in the 85–90 percentile bracket.
 > - **Top Non-IIM Alternatives**: 85 percentile opens confirmed interview opportunities at tier-1.5 business schools like GIM Goa, FORE, TAPMI, and LBSIM offering ₹14–17 LPA average packages.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Profile Evaluation for IIM Calls at CAT 85 Pe?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹18.5 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 ---
 

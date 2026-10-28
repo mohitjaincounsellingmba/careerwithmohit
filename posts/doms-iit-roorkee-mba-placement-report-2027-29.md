@@ -19,6 +19,7 @@ keywords:
   - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
+  - Dehradun Admissions 2027
 faqs:
   - question: What was the average and median salary for MBA at IIT Roorkee in 2027–29?
     answer: >-
@@ -55,7 +56,11 @@ Here is the complete **DoMS IIT Roorkee MBA Placement Report 2027–29**.
 
 ---
 
-## 1. DoMS IIT Roorkee Placement 2025 Highlights
+## What are the Key Admissions, Fees, and Placement Details for DoMS IIT Roorkee Placement 2025 Highlights?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 | Metric | Placement Statistics (2025 Cohort) |
 | :--- | :--- |

@@ -11,6 +11,13 @@ keywords:
   - Mumbai University CUET PG admission
   - D.Y. Patil Mumbai CUET PG
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -52,7 +59,11 @@ TISS Mumbai is the dream destination for aspirants of HRM & LR, ODCL, and social
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **2. Somaiya Vidyavihar University (Mumbai)**
+## What are the Key Admissions, Fees, and Placement Details for **2. Somaiya Vidyavihar University (Mumbai)**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 Somaiya is one of Mumbai’s largest private universities with a multi-disciplinary campus in Vidyavihar and Sion.
 *   **Top Programs:** MBA, MA (Philosophy), MSc (Journalism).
 *   **Admission Process:** They consider various national scores including CUET PG for several of their postgraduate departments.

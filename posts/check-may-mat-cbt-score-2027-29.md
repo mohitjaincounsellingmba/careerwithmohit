@@ -18,6 +18,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How to check MAT CBT scorecard online?
     answer: >-
@@ -86,7 +93,7 @@ AIMA typically releases results **10–15 days after the exam date**. Based on t
 
 ## What is the MAT CBT Mode?
 
-The **Computer-Based Test (CBT)** is a centre-based, computer-administered version of the MAT exam. Unlike IBT (Internet-Based Test taken from home), the CBT requires you to visit an **AIMA-designated test centre**, but you respond on a computer screen rather than a paper sheet.
+**The **Computer-Based Test (CBT)** is a centre-based, computer-administered version of the MAT exam. Unlike IBT (Internet-Based Test taken from home), the CBT requires you to visit an **AIMA-designated test centre**, but you respond on a computer screen rather than a paper sheet.**
 
 Key details about MAT CBT:
 - **Exam Centre:** Designated AIMA CBT centres across India

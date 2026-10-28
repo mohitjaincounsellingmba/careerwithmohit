@@ -14,6 +14,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Why are Jaipur colleges cheaper than Delhi NCR?
     answer: >-
@@ -24,6 +31,13 @@ faqs:
       Is [Poornima University](/colleges/poornima-jaipur/)’s GCEC degree valid
       globally?
     answer: "Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.\n\n**Explore More Insights:**\n*   [\U0001F449 Deep Dive: [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2027–29](/blog/poornima-university-gcec-mba-review-2027-29)\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n\n*At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry/)*"
+  - question: >-
+      What is the expected admission cutoff for Top MBA Colleges Under 10 Lakhs
+      in Jaipur (Direct Admission 2027–29)?
+    answer: >-
+      The expected cutoff typically ranges between 65 to 85+ percentile
+      depending on the national entrance examination (CAT, XAT, MAT, CMAT) and
+      institutional composite profile criteria.
 location: Delhi NCR
 state: Delhi NCR
 category: MBA
@@ -49,7 +63,11 @@ Often regarded as one of the most intense B-schools in North India, Taxila deman
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **2. GCEC Global Foundation ([Poornima University](/colleges/poornima-jaipur/))**
+## What are the Key Admissions, Fees, and Placement Details for **2. GCEC Global Foundation ([Poornima University](/colleges/poornima-jaipur/))**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 GCEC (Global Centre for Entrepreneurship and Commerce) is rapidly becoming the gold standard for global finance and startup-focused MBAs in Rajasthan.
 *   **Total Fees (Approx.)**: ₹6.00 Lakhs
 *   **Average Placement**: ₹7.0 LPA - ₹10.0 LPA

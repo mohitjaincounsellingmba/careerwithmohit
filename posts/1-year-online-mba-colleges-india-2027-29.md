@@ -6,7 +6,8 @@ date: '2026-04-25'
 category: Online Degrees
 description: >-
   Looking for a 1-year online MBA in India? Compare top colleges like OP Jindal,
-  Liverpool John Moores, Golden Gate University & more.
+  Liverpool John Moores, Golden Gate University & more for 2026-2027 admissions
+  & career guidance.
 keywords:
   - 1 year online MBA India 2027–29
   - one year MBA online India
@@ -55,7 +56,7 @@ In 2026, several globally accredited and UGC-recognized universities now offer *
 
 ## What is a 1-Year Online MBA?
 
-A **1-Year Online MBA** is a full master's program in business administration compressed into 12 months, delivered entirely online. It covers core management subjects — Strategy, Finance, Marketing, HR, Operations — along with a chosen specialization.
+**A **1-Year Online MBA** is a full master's program in business administration compressed into 12 months, delivered entirely online. It covers core management subjects — Strategy, Finance, Marketing, HR, Operations — along with a chosen specialization.**
 
 Unlike a part-time MBA or a certificate course, a 1-year online MBA is a **full degree** that carries the same academic weight as a regular 2-year MBA from a recognized university.
 

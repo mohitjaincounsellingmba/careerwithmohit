@@ -14,6 +14,13 @@ keywords:
   - SRMJEEE subject wise preparation
   - SRM JEE marking scheme
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -208,7 +215,7 @@ Since there's no negative marking, **mark all unattempted questions** using your
 
 ## After Clearing SRMJEEE: What's Next?
 
-Once you crack the exam, you'll go through **counselling and campus/branch allotment** based on your rank. Key points:
+**Once you crack the exam, you'll go through **counselling and campus/branch allotment** based on your rank. Key points:**
 
 - **Higher rank = Priority choice** of campus and branch.
 - KTR (Kattankulathur, Chennai) is the flagship campus with the best placements.

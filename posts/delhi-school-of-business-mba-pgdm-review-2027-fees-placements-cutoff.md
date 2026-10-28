@@ -1,7 +1,7 @@
 ---
 title: 'Delhi School of Business PGDM Review 2027: Fees & ROI'
 date: '2026-10-17'
-category: MBA
+category: Exams
 description: >-
   Honest DSB Delhi PGDM review 2027: VIPS trust backing, ₹9.75L fees, ₹8.2 LPA
   median placements, CAT/MAT cutoffs, and Pitampura reality by Mohit Jain.
@@ -12,6 +12,13 @@ keywords:
   - dsb delhi cat cmat cutoff 2027
   - vips delhi business school pgdm
   - direct admission in delhi school of business
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the real average placement package at Delhi School of Business
@@ -49,11 +56,15 @@ faqs:
       directly accessible via the Haiderpur Badli Mor and Pitampura Metro
       stations on the Yellow and Red Lines, making daily commuting easy for
       students across Delhi, Noida, and Gurugram.
-location: 'AU Block, Pitampura'
-state: New Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
-## Delhi School of Business PGDM Review 2027: Fees, Cutoff, Placements & VIPS ROI
+## What are the Key Admissions, Fees, and Placement Details for Delhi School of Business PGDM Review 2027: Fees, Cutoff, Placements & VIPS ROI?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 > 💡 **Key Takeaways (Direct Admission Summary)**
 > - **Institutional Heritage & Location**: Established under the respected **Vivekananda Institute of Professional Studies (VIPS)** trust, DSB is situated on Outer Ring Road in AU Block, Pitampura (North-West Delhi), holding **NBA accreditation** and **AIU MBA Equivalence**.

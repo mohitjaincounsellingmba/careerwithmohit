@@ -14,6 +14,13 @@ keywords:
   - direct admission in ssbf pune
   - best banking mba colleges in india
   - mohit jain mba admissions counselor
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the verified average placement package at SSBF Pune for 2026-2027?
     answer: >-

@@ -1,7 +1,7 @@
 ---
 title: 'IILM Institute for Higher Education PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for IILM Institute for Higher Education (Lodhi
   Road, Central Delhi). Check updated fee structure (₹12.90 Lakhs (Total)).
@@ -14,6 +14,13 @@ keywords:
   - direct admission in iilm institute for higher education
   - top pgdm colleges in lodhi road
   - best mba colleges in central delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at IILM Institute for Higher
@@ -42,8 +49,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Lodhi Road
-state: Central Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [IILM Institute for Higher Education](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -52,6 +59,12 @@ state: Central Delhi
 > - **Core USP & Focus**: Premier management institute in **Lodhi Road, Central Delhi** accredited with **AICTE Approved · NBA Accredited · SAQS Accredited** offering career-focused programs in **PGDM**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹12.90 Lakhs (Total)** against an average domestic CTC of **₹8.6 LPA** (Highest package: **₹20.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IILM Institute for Higher Education PGDM 2027?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.90 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for IILM Institute for Higher Education" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

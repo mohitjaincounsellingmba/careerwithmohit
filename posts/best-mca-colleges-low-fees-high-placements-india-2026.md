@@ -14,6 +14,13 @@ keywords:
   - jnu mca fees vs placement
   - low budget mca colleges bangalore pune
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is it harder to get into low-fee colleges?
     answer: >-
@@ -81,7 +88,7 @@ The undisputed king of ROI in East India. Jadavpur produces world-class software
 
 ## 🚀 How to Secure a High-ROI Seat?
 
-To get into these low-fee, high-placement colleges, you must excel in these specific entrance exams:
+**To get into these low-fee, high-placement colleges, you must excel in these specific entrance exams:**
 - **CUET PG (for JNU, DU, JMI):** Focus on the "General" and "Computer Science" sections.
 - **MAH MCA CET (for DoCS Pune & VJTI):** Focus on Speed and Logical Reasoning.
 - **WB JECA (for Jadavpur & Heritage):** Focus on high-level Mathematics and C Programming.

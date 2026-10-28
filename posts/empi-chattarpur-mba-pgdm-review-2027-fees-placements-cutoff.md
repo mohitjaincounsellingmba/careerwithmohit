@@ -1,7 +1,7 @@
 ---
 title: 'EMPI New Delhi PGDM Review 2027: Fees & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 EMPI New Delhi PGDM review with audited ₹7.20L placements,
   ₹8.45L fees, IBM tie-up, cutoffs, and admissions advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in empi new delhi
   - best pgdm colleges in south delhi
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at EMPI Business School New
@@ -51,8 +58,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       national entrance scores can apply for merit profile-based direct
       evaluation seats with counselor assistance.
-location: 'Chattarpur, South Delhi'
-state: New Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [EMPI Business School (New Delhi)](https://careerwithmohit.online/blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

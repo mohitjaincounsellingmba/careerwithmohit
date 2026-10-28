@@ -17,6 +17,13 @@ keywords:
   - Chandigarh University UGC DEB approved MBA
   - is CU online MBA worth it 2027–29
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Does CU Online MBA need CAT score?
     answer: >-
@@ -76,6 +83,12 @@ Here's our honest, research-backed review of everything you need to know before 
 | **Early Bird Scholarship** | Up to 25% discount available |
 
 > 💡 **Tip:** Chandigarh University frequently runs early admission scholarships. Enrolling early in the admission window can reduce your total fee to as low as ₹1,20,000. Check [onlinecu.in](https://onlinecu.in) for current discount windows.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Chandigarh University Online MBA Review (2026?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹7 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 ---
 

@@ -46,7 +46,7 @@ const REDIRECT_MAP: Record<string, string> = {
   "/tools/resume-analyzer": "/tools/",
   "/top-mba-colleges-delhi-ncr-2026": "/colleges/mba-colleges-delhi-ncr/",
   "/best-mba-colleges-in-pune-2026": "/blog/best-mba-colleges-in-pune-2027-29/",
-  "/blog/bba-colleges-delhi-ncr-2026-cuet-ipu-fees-placements": "/blog/top-bba-colleges-delhi-ncr-2026/",
+  "/blog/bba-colleges-delhi-ncr-2026-cuet-ipu-fees-placements": "/blog/top-10-bba-colleges-delhi-ncr-2026/",
   "/blog/mer-janakpuri-review": "/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/",
   "/blog/why-asm-iibs-pune-good-for-mba-pgdm-2026": "/blog/why-asm-iibr-pune-good-for-mba-pgdm-2027-29/",
   "/tools/ai-skills": "/tools/",
@@ -141,7 +141,7 @@ const REDIRECT_MAP: Record<string, string> = {
   "/blog/all-about-xime-bangalore": "/blog/xime-bangalore-vs-xime-kochi-pgdm-comparison-2027-29/",
   "/blog/btech-vs-bca-career-guide": "/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/",
   "/blog/all-iim-cut-off-2027–29-admission-mba-pgdm": "/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/",
-  "/blog/top-10-bba-colleges-india-2026": "/blog/top-bba-colleges-delhi-ncr-2026/",
+  "/blog/top-10-bba-colleges-india-2026": "/blog/top-10-bba-colleges-delhi-ncr-2026/",
   "/colleges/isbs-gurgaon": "/blog/first-bridge-business-school-gurgaon-pgdm-admission-2027-29/",
   "/top-mhcet-mba-colleges-pune-2026-cutoffs-fees": "/colleges/mba-colleges-pune/",
   "/mah-mba-cet-scholarship-2026-eligibility-application-process": "/tools/mhcet-mock-test/",
@@ -150,7 +150,7 @@ const REDIRECT_MAP: Record<string, string> = {
   "/colleges/amity-university-jaipur": "/blog/amity-university-jaipur-executive-mba-review/",
   "/posts/top-mba-colleges-pune": "/colleges/mba-colleges-pune/",
   "/blog/symbiosis-set-preparation-strategy-2026": "/blog/1-year-online-mba-colleges-india-2027-29/",
-  "/blog/top-bba-colleges-delhi-ncr": "/blog/top-bba-colleges-delhi-ncr-2026/",
+  "/blog/top-bba-colleges-delhi-ncr": "/blog/top-10-bba-colleges-delhi-ncr-2026/",
   "/blog/bba-vs-bca-career-comparison": "/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/",
   "/blog/direct-btech-admission-2026-guide": "/blog/1-year-online-mba-colleges-india-2027-29/",
   "/colleges/welingkar": "/colleges/welingkar-bangalore/",
@@ -807,7 +807,8 @@ const REDIRECT_MAP: Record<string, string> = {
   "/blog/mannheim-business-school-mba-review-2026": "/abroad-education/",
   "/blog/mba-admission-counselling-faq-2026": "/blog/mba-admission-counselling-faq-2027-29/",
   "/blog/mba-admission-through-cuet-delhi-ncr-2026": "/blog/mba-admission-through-cuet-delhi-ncr-2027-29/",
-  "/blog/mba-admission-without-cat-delhi-ncr-2026": "/blog/mba-admission-without-cat-delhi-ncr-2027-29/"
+  "/blog/mba-admission-without-cat-delhi-ncr-2026": "/blog/mba-admission-without-cat-delhi-ncr-2027-29/",
+  "/blog/top-bba-colleges-delhi-ncr-2026": "/blog/top-10-bba-colleges-delhi-ncr-2026/"
 };
 
 export const onRequest: PagesFunction = async (context) => {

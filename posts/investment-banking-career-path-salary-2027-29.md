@@ -58,7 +58,7 @@ Whether you are a student at a top IIM or a professional looking to pivot from a
 
 ## 🏛️ 1. What Does an Investment Banker Actually Do?
 
-Investment banks act as intermediaries between companies that need capital and investors who have it. An IB professional's day-to-day involves:
+**Investment banks act as intermediaries between companies that need capital and investors who have it. An IB professional's day-to-day involves:**
 *   **Mergers & Acquisitions (M&A):** Advising Company A on buying Company B.
 *   **Equity Capital Markets (ECM):** Helping a company go public through an IPO (Initial Public Offering).
 *   **Debt Capital Markets (DCM):** Assisting companies in raising debt through bonds.

@@ -16,6 +16,13 @@ keywords:
   - direct admission btech pune 2026
   - pune it hub placements btech
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What MHT CET percentile is needed for COEP Pune CSE?
     answer: >-
@@ -90,7 +97,7 @@ For a 2026 engineering student, Pune offers:
 
 ## 🏁 Which One Should You Choose?
 
-1. **For the "Tag" and Low Fees:** Aim for **COEP**.
+**1. **For the "Tag" and Low Fees:** Aim for **COEP**.**
 2. **For High-End Software Placements:** **PICT** is unbeatable.
 3. **For a Well-Rounded Experience:** **VIT Pune** or **MIT-WPU**.
 4. **For Women Aspirants:** **Cummins** is a gold standard in South Asia.

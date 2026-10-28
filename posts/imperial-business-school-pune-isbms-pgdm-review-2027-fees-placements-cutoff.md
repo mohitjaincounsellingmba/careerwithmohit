@@ -1,7 +1,7 @@
 ---
 title: 'Imperial Business School Pune Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-10-09'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review of Imperial Business School Pune (ISBMS
   Hinjawadi). Check updated PGDM fees (₹9.25L), real placement CTC, CAT/MAT/CET
@@ -15,6 +15,13 @@ keywords:
   - top finance pgdm colleges in pune
   - best mba colleges in hinjawadi pune
   - isbms pune vs pibm pune
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Imperial Business School Pune
@@ -53,8 +60,8 @@ faqs:
       Hinjawadi, offering AICTE-approved PGDM programs infused with Artificial
       Intelligence, FinTech, Risk Management, Investment Banking, and Fund
       Accounting modules.
-location: Hinjawadi
-state: Pune
+location: Pune
+state: Maharashtra
 ---
 
 ## Imperial Business School (ISBMS Pune) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI

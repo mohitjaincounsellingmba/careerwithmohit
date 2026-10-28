@@ -1,7 +1,7 @@
 ---
 title: 'Alliance University MBA Review 2027: Fees & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 Alliance University MBA review with audited ₹8.50L
   placements, ₹15.0L fees, cutoffs, and direct admission advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best mba colleges in bangalore karnataka
   - aacsb member business schools in bangalore
   - mohit jain mba admissions counselor
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at Alliance School of
@@ -52,8 +59,8 @@ faqs:
       Yes, candidates with a recognized bachelor's degree (minimum 50% marks)
       and valid national or university entrance scores can apply for merit
       profile-based direct evaluation seats with counselor guidance.
-location: 'Anekal, Chandapura'
-state: 'Bangalore, Karnataka'
+location: Bangalore
+state: Karnataka
 ---
 
 ## [Alliance University (Alliance School of Business)](https://careerwithmohit.online/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

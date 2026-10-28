@@ -1,7 +1,7 @@
 ---
 title: 'GIBS Bangalore PGDM Review 2027: Fees & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 GIBS Bangalore PGDM review with audited ₹7.40L placements,
   ₹8.95L fees, cutoffs, and direct admission advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in gibs bangalore
   - best pgdm colleges in bangalore karnataka
   - mohit jain mba admissions counselor
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at GIBS Business School
@@ -50,8 +57,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       entrance test scores can apply for merit profile-based direct evaluation
       seats with counselor assistance.
-location: Bannerghatta Road
-state: 'Bangalore, Karnataka'
+location: Bangalore
+state: Karnataka
 ---
 
 ## [Global Institute of Business Studies (GIBS Bangalore)](https://careerwithmohit.online/blog/gibs-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

@@ -12,6 +12,13 @@ keywords:
   - MBA in Pune Lavasa campus
   - Christ vs Other MBA in Pune
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is Christ Pune Lavasa good for MBA?
     answer: >-
@@ -45,7 +52,11 @@ The **Pune Lavasa Campus** of Christ (Deemed to be University) is a unique "Hill
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **Expected Merit Requirements 2026**
+## What are the Key Admissions, Fees, and Placement Details for **Expected Merit Requirements 2026**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 Cutoffs for Pune Lavasa are generally slightly more accessible than the Bangalore central campus.
 
 | Entrance Exam | Expected Cutoff (Score/Percentile) |

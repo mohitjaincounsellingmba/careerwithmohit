@@ -62,6 +62,8 @@ keywords:
   - Bangalore Direct Admission 2027-29
   - Colleges in Karnataka
   - Bangalore Career Counselling
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
 ---
 
 ### About RV College of Engineering (RVCE)

@@ -11,6 +11,13 @@ keywords:
   - Decision Making questions
   - XAT preparation strategy
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -46,7 +53,7 @@ In this guide, we will analyze the latest trends in the XAT Decision Making sect
 
 ## What is XAT Decision Making?
 
-Decision Making is not a test of your math skills or vocabulary. It is a test of your **management capability, ethical standards, and logic**. You are presented with a business scenario, an ethical dilemma, or a organizational conflict, and you must select the best course of action from the perspective of a manager, business owner, or consultant.
+**Decision Making is not a test of your math skills or vocabulary. It is a test of your **management capability, ethical standards, and logic**. You are presented with a business scenario, an ethical dilemma, or a organizational conflict, and you must select the best course of action from the perspective of a manager, business owner, or consultant.**
 
 ### Recent Trends in DM (2022–2025)
 - **Complex Multi-Stakeholder Scenarios:** Older papers had simple employee-employer conflicts. Recent papers (2023-2025) feature scenarios involving local communities, government regulations, and environmental impacts.

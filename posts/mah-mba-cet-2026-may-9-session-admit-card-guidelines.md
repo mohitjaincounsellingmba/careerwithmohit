@@ -38,7 +38,11 @@ The State Common Entrance Test Cell, Maharashtra, is all set to conduct the seco
 
 With only 3 days left for the exam, here is everything you need to know about your hall ticket and the final checklist for the exam day.
 
-## 1. MAH MBA CET May 9 Session Admit Card
+## What are the Key Admissions, Fees, and Placement Details for MAH MBA CET May 9 Session Admit Card?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 The admit card for the May 9 session was officially released on **May 2, 2026**. If you haven't downloaded it yet, follow these steps:
 
 1.  Visit the official website: **[cetcell.mahacet.org](https://cetcell.mahacet.org)**.
@@ -106,3 +110,12 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **MAH MBA CET 2027–29 (May 9 Session): Admit Ca** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

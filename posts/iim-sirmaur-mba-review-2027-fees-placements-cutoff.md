@@ -185,7 +185,7 @@ Operating from its permanent 210-acre campus at Dhaula Kuan in Himachal Pradesh,
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Sirmaur Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Sirmaur:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Sirmaur:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

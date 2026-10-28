@@ -20,6 +20,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at SDA Bocconi Asia Center in
@@ -57,6 +58,12 @@ state: Maharashtra
 > - **Core USP & Focus**: Premier management destination in **Mumbai, Maharashtra** recognized for academic rigor (Triple Crown Parent (SDA Bocconi School of Management, Milan, Italy)) and industry-aligned specializations in **IMB (International Master in Business)**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹19.40 Lakhs (Total)** against an audited average domestic CTC of **₹14.30 LPA** (Median: **₹13.50 LPA**, Highest: **₹36.28 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **NMAT, CAT, GMAT, GRE, Bocconi Test** score (**200+ NMAT / Bocconi Test / 80+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for SDA Bocconi Mumbai MBA Admission 2027: Fees, ?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹19.40 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for SDA Bocconi Mumbai" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

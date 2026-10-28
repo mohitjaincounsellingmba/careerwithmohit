@@ -13,6 +13,13 @@ keywords:
   - skills for forensic accountant
   - white collar crime investigation careers
   - top firms for forensic audit
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: can I become a Forensic Auditor without a CA?
     answer: >-
@@ -60,7 +67,7 @@ This guide provides a definitive **Forensic Accounting career roadmap for 2026**
 
 ## 🏛️ 1. What Does a Forensic Accountant Do?
 
-Forensic accountants are the "Detectives of Finance." Their work is divided into two main categories:
+**Forensic accountants are the "Detectives of Finance." Their work is divided into two main categories:**
 1.  **Litigation Support:** Quantifying economic damages in legal disputes and serving as an "Expert Witness" in court.
 2.  **Investigation:** Identifying if money has been embezzled, if financial statements have been "cooked," or if there is any evidence of bribery and corruption.
 

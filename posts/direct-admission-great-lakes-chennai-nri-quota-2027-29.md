@@ -16,6 +16,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Chennai Admissions 2027
 faqs:
   - question: Is there a Management Quota in Great Lakes Chennai?
     answer: >-
@@ -56,7 +57,7 @@ category: Exams
 ---
 
 ## 2. Why Great Lakes for Global Mindsets?
-Great Lakes Chennai is renowned for its focus on **Business Analytics, AI, and Machine Learning**. For NRI candidates, it offers:
+**Great Lakes Chennai is renowned for its focus on **Business Analytics, AI, and Machine Learning**. For NRI candidates, it offers:**
 *   **International Faculty:** Regular sessions by visiting professors from top US/European B-schools.
 *   **Data-Driven Culture:** Curricula designed to meet the demands of the modern, tech-heavy corporate world.
 *   **Coastal Campus:** A world-class, LEED-certified green campus on the scenic ECR.

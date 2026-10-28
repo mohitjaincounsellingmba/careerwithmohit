@@ -1,7 +1,7 @@
 ---
 title: 'UBS Mumbai MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 UBS Mumbai Karjat review with audited ₹10.5L placements,
   ₹9.5L-12.5L fees, cutoffs, and direct admission advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in ubs mumbai
   - top mba colleges in greater mumbai
   - mohit jain mba admissions counselor
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at Universal AI University
@@ -50,8 +57,8 @@ faqs:
       Yes, candidates with a recognized bachelor's degree (minimum 50% marks)
       and valid national or state entrance scores can apply for merit
       profile-based direct evaluation seats with counselor assistance.
-location: Karjat
-state: Greater Mumbai
+location: Mumbai
+state: Maharashtra
 ---
 
 ## [Universal Business School (UBS Mumbai / Universal AI University)](https://careerwithmohit.online/blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

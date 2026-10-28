@@ -28,6 +28,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Does FIIB have AACSB accreditation?
     answer: >-
@@ -202,7 +203,7 @@ These rankings are particularly credible because they reflect **peer review, rec
 
 ## Who Should Choose FIIB Delhi?
 
-FIIB is the **right fit** if:
+**FIIB is the **right fit** if:**
 - ✅ Your CAT/XAT percentile is in the **60–75 range** and you want global-standard accreditation
 - ✅ You value **AACSB recognition** for international career aspirations
 - ✅ You prefer **Harvard-style case-based learning** over rote academics

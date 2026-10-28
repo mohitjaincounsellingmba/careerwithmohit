@@ -26,6 +26,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the average package at IIM Mumbai (Formerly NITIE Mumbai) in
@@ -210,7 +211,7 @@ You can book a personalized 1-on-1 guidance session with expert career counselor
 
 ## Need Personalized Admission Guidance?
 
-Selecting the right MBA/PGDM college requires personalized profile evaluation. Schedule a direct video consultation with **Mohit Jain** to evaluate your call chances, scholarship opportunities, and compare top B-schools.
+**Selecting the right MBA/PGDM college requires personalized profile evaluation. Schedule a direct video consultation with **Mohit Jain** to evaluate your call chances, scholarship opportunities, and compare top B-schools.**
 
 👉 **[Book a 1-on-1 Video MBA Counselling Session](/book-session/)**  
 👉 **[Explore All Colleges in India](/colleges/)**

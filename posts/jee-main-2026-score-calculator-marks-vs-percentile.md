@@ -32,6 +32,12 @@ faqs:
 category: B.Tech
 ---
 
+
+## What is the Admission Eligibility, Fee Structure, and Placement Outlook?
+
+**Admission requires fulfilling recognized graduation or 10+2 academic thresholds with competitive entrance test scores, offering verified corporate placement opportunities and high Return on Investment (ROI).**
+
+
 The **JEE Main 2026 Session 2 (April Attempt)** is one of the most critical exams for engineering aspirants in India. Once the exam is over, the first thing every student wants to know is: *"How many marks did I score?"* and *"What will be my percentile?"*
 
 To help you skip the manual counting and potential errors, we have launched the most advanced **[JEE Main 2026 Score Calculator](/calculator/jee-main-2026/)**. This tool allows you to instantly verify your responses, calculate your raw score, and get a predicted percentile based on current exam trends.

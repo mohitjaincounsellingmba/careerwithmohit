@@ -16,6 +16,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: Does Welingkar have a management quota?
     answer: >-
@@ -45,7 +46,7 @@ Welingkar Institute of Management (WeSchool) is a top-ranked institute in Mumbai
 
 ## Why WeSchool is a Top Choice?
 
-Welingkar is known for its specialized PGDM programs that cater to emerging industry needs:
+**Welingkar is known for its specialized PGDM programs that cater to emerging industry needs:**
 - **PGDM Specializations**: E-Business, Research & Business Analytics, Retail, Healthcare, and Media.
 - **Mumbai Campus**: Located in Matunga, it offers massive networking opportunities in India's financial capital.
 - **Bangalore Campus**: Situated in Electronic City, perfect for students eyeing roles in Tech and E-commerce.
@@ -77,7 +78,16 @@ To secure a seat at Welingkar directly:
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in Welingkar (WeSchool) 2026** | ₹12 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Does Welingkar have a management quota?
 Yes, Welingkar (WeSchool) offers management and institutional quota seats for its Mumbai and Bangalore campuses.

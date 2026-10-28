@@ -48,6 +48,8 @@ keywords:
   - Jaipur Direct Admission 2027-29
   - Colleges in Rajasthan
   - Jaipur Career Counselling
+  - Top Colleges in Jaipur 2026
+  - Jaipur Direct Admission 2026
 state: Rajasthan
 ---
 

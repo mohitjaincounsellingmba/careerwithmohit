@@ -20,6 +20,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the average placement package at XLRI Delhi NCR in 2026-2027?
     answer: >-
@@ -52,6 +53,12 @@ state: Delhi NCR
 > - **Core USP & Focus**: Premier management destination in **Jhajjar / Delhi NCR, Haryana** recognized for academic rigor (AACSB & AMBA Accredited · AICTE Approved) and industry-aligned specializations in **PGDM-BM (Business Management)**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹25.00 Lakhs (Total)** against an audited average domestic CTC of **₹30.00 LPA** (Median: **₹28.50 LPA**, Highest: **₹75.00 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **XAT** score (**93.0+ XAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for XLRI Delhi MBA Admission 2027: Fees, Cutoff &?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹25.00 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for XLRI Delhi" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

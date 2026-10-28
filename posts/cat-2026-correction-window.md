@@ -14,6 +14,13 @@ keywords:
   - cat 2026 test city change
   - iim cat correction window link
   - cat 2026 application form edit last date
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: When does the CAT 2026 correction window open and close?
     answer: >-
@@ -197,7 +204,7 @@ If you are allotted the morning slot (8:30 AM), arriving at a distant exam cente
 
 ## What To Do If You Made an Unfixable Mistake (Category, Name, Marks)?
 
-If you made an error in a locked field that cannot be edited during the correction window, follow this practical mitigation protocol:
+**If you made an error in a locked field that cannot be edited during the correction window, follow this practical mitigation protocol:**
 
 ### 1. Category Discrepancy (e.g., General selected instead of NC-OBC/EWS)
 * **Reality Check:** IIMs strictly do not allow category alterations after registration closes. If you registered as General, you will be evaluated under the General/UR cutoff criteria.

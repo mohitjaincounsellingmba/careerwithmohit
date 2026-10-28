@@ -25,6 +25,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What was the average and highest package at IMI New Delhi in 2025?
     answer: >-
@@ -62,7 +63,11 @@ Here is the complete **IMI New Delhi PGDM Placement Report 2027–29**.
 
 ---
 
-## 1. IMI New Delhi Placement 2025 Highlights
+## What are the Key Admissions, Fees, and Placement Details for IMI New Delhi Placement 2025 Highlights?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 | Metric | Statistics (2025 Graduating Cohort) |
 | :--- | :--- |

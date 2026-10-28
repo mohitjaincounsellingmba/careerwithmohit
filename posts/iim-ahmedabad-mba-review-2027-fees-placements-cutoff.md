@@ -1,8 +1,10 @@
 ---
 title: 'IIM Ahmedabad MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹26.5L), IPRS placement report (₹35.2L avg), CAT cutoffs (99.5%+) & composite score guide for IIM Ahmedabad by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 fees (₹26.5L), IPRS placement report (₹35.2L avg), CAT cutoffs
+  (99.5%+) & composite score guide for IIM Ahmedabad by Mohit Jain.
 keywords:
   - iim ahmedabad mba review 2027
   - iim ahmedabad fees structure 2027
@@ -10,19 +12,53 @@ keywords:
   - iim ahmedabad cutoff cat 2026 2027
   - iim ahmedabad selection criteria composite score
   - best mba colleges in india nirf 1
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+  - Ahmedabad Admissions 2027
 faqs:
-  - question: 'What is the total fee structure for the 2-year PGP (MBA) program at IIM Ahmedabad?'
-    answer: 'The total 2-year tuition and residential fee for the flagship PGP (MBA) program at IIM Ahmedabad is approximately ₹26.50 Lakhs to ₹27.00 Lakhs, payable in term-wise installments. Need-based financial assistance (NBFA) and full tuition waivers are available for candidates with annual parental income below ₹15 Lakhs.'
-  - question: 'What is the average and highest placement package at IIM Ahmedabad?'
-    answer: 'According to audited IPRS (Indian Placement Reporting Standards) data, IIM Ahmedabad recorded an average domestic package of ₹34.45 to ₹35.22 LPA, with a median compensation of ₹31.50 LPA and peak domestic packages exceeding ₹1.15 Crore to ₹1.46 Crore.'
-  - question: 'What is the minimum CAT cutoff required for an interview call at IIMA?'
-    answer: 'While the minimum qualifying sectional threshold is 70 percentile across VARC, DILR, and QA, actual interview shortlisting for General category engineers typically requires a CAT percentile of 99.50 to 99.85+. Non-engineers and diverse academic categories (AC-1 to AC-6) may receive calls around 97.5 to 99.0 percentile.'
-  - question: 'What is the selection process and Composite Score (CS) formula at IIM Ahmedabad?'
-    answer: 'IIMA calculates a Composite Score combining CAT exam scores (65% weightage), past academic ratings across Class 10, 12, and Graduation (30% weightage), and gender/academic diversity factors (5%). Shortlisted candidates undergo an Analytical Writing Test (AWT) and Personal Interview (PI).'
-  - question: 'Does IIM Ahmedabad have a management quota or direct admission?'
-    answer: 'No, IIM Ahmedabad does not offer any management quota, NRI quota, or direct admission. All admissions are strictly merit-based through the Common Admission Test (CAT) followed by institutional shortlisting criteria.'
-location: 'Vastrapur'
-state: 'Ahmedabad, Gujarat'
+  - question: >-
+      What is the total fee structure for the 2-year PGP (MBA) program at IIM
+      Ahmedabad?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship PGP (MBA)
+      program at IIM Ahmedabad is approximately ₹26.50 Lakhs to ₹27.00 Lakhs,
+      payable in term-wise installments. Need-based financial assistance (NBFA)
+      and full tuition waivers are available for candidates with annual parental
+      income below ₹15 Lakhs.
+  - question: What is the average and highest placement package at IIM Ahmedabad?
+    answer: >-
+      According to audited IPRS (Indian Placement Reporting Standards) data, IIM
+      Ahmedabad recorded an average domestic package of ₹34.45 to ₹35.22 LPA,
+      with a median compensation of ₹31.50 LPA and peak domestic packages
+      exceeding ₹1.15 Crore to ₹1.46 Crore.
+  - question: What is the minimum CAT cutoff required for an interview call at IIMA?
+    answer: >-
+      While the minimum qualifying sectional threshold is 70 percentile across
+      VARC, DILR, and QA, actual interview shortlisting for General category
+      engineers typically requires a CAT percentile of 99.50 to 99.85+.
+      Non-engineers and diverse academic categories (AC-1 to AC-6) may receive
+      calls around 97.5 to 99.0 percentile.
+  - question: >-
+      What is the selection process and Composite Score (CS) formula at IIM
+      Ahmedabad?
+    answer: >-
+      IIMA calculates a Composite Score combining CAT exam scores (65%
+      weightage), past academic ratings across Class 10, 12, and Graduation (30%
+      weightage), and gender/academic diversity factors (5%). Shortlisted
+      candidates undergo an Analytical Writing Test (AWT) and Personal Interview
+      (PI).
+  - question: Does IIM Ahmedabad have a management quota or direct admission?
+    answer: >-
+      No, IIM Ahmedabad does not offer any management quota, NRI quota, or
+      direct admission. All admissions are strictly merit-based through the
+      Common Admission Test (CAT) followed by institutional shortlisting
+      criteria.
+location: Ahmedabad
+state: Gujarat
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
@@ -41,7 +77,11 @@ In this authoritative guide, Senior MBA Admissions Strategist **Mohit Jain** pro
 
 ---
 
-## 🏛️ IIM Ahmedabad: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Ahmedabad: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Ahmedabad delivers India's most prestigious full-time residential management program, governed under the IIM Act by the Government of India.**
 

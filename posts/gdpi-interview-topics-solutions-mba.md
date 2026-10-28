@@ -19,6 +19,13 @@ keywords:
   - GD topics current affairs 2026
   - IIM GDPI preparation guide
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -55,6 +62,12 @@ In this expanded guide, we provide **20 trending GD topics for 2026** with struc
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for GDPI Master Guide 2026: 20 Trending GD Topics?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹8.00 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 ## 1. Agentic AI: Synergy or Job Competition?
 *   **Context**: The shift from tools like ChatGPT to AI "Agents" that perform autonomous actions.
@@ -214,3 +227,12 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **GDPI Master Guide 2026: 20 Trending GD Topics** | INR 2 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

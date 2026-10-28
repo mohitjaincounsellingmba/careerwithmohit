@@ -84,6 +84,12 @@ Sweden — the land of **IKEA, Spotify, Ericsson, and Volvo** — is one of Scan
 
 > 💡 Swedish Institute Scholarships available for Indian students — covers full tuition + living allowance!
 
+## What are the Admission Cutoffs, Fees, and Placement Records for Top Universities in Sweden for Indian Student?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹11 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
+
 ---
 
 ## 🛂 Sweden Post-Study Work Visa

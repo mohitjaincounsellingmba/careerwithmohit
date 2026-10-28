@@ -4,7 +4,8 @@ date: '2026-05-20'
 category: BBA
 description: >-
   Discover rankings, direct admission, fees, and placement reports for top
-  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU.
+  colleges in Gurgaon, Delhi NCR. Get details on top colleges under GGSIPU, DU
+  for 2026-2027 admissions & career guidance.
 keywords:
   - top iim offering bba
   - iim bba program fees
@@ -16,6 +17,13 @@ keywords:
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
   - Direct Admission in Gurgaon
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is Class 12 Mathematics compulsory for IIM BBA programs?
     answer: >-
@@ -28,6 +36,13 @@ faqs:
       Lakhs for 5 years, the average placements for top IIMs like Indore (₹25.6
       LPA) and Shillong (₹26.1 LPA) mean you can recover the costs within 2
       years of starting your career.
+  - question: >-
+      Is mathematics mandatory for admission in Top IIMs Offering BBA (IPM) in
+      2026: Fees, Placements, and Admission Process?
+    answer: >-
+      Mathematics is not strictly mandatory for standard professional tracks in
+      most private universities, though candidates with analytical foundations
+      have higher curriculum comfort.
 location: Delhi NCR
 state: Delhi NCR
 ---
@@ -44,7 +59,7 @@ In 2026, **eight IIMs** offer undergraduate-level management education (BBA/BMS 
 ---
 
 ## 🏛️ What is IIM IPM (BBA + MBA)?
-Unlike a standard 3-year BBA, the Integrated Programme in Management (IPM) is a **5-year dual-degree program**. 
+**Unlike a standard 3-year BBA, the Integrated Programme in Management (IPM) is a **5-year dual-degree program**.**
 - **Undergraduate Phase (Years 1-3):** Focuses on foundation courses including Mathematics, Statistics, Economics, Humanities, and Social Sciences. Upon completion, students are awarded a Bachelor’s degree (BBA, BA, or BS depending on the IIM).
 - **Postgraduate Phase (Years 4-5):** Students join the flagship PGP (MBA) batch at the respective IIM.
 - **Exit Option:** Most IIMs align with the National Education Policy (NEP) 2020, allowing students to exit after 3 years with a Bachelor's degree if they wish to pursue other paths or study abroad.

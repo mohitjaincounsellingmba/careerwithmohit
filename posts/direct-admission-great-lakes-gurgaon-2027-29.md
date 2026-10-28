@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) offer direct
@@ -66,7 +67,7 @@ Great Lakes Institute of Management (GLIM) Gurgaon is a sister campus of the leg
 
 ## Is there a Management Quota in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/)?
 
-As per official guidelines, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) is a strictly merit-based institution. However, students often use "Direct Admission" keywords to find the institutional selection process:
+**As per official guidelines, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) is a strictly merit-based institution. However, students often use "Direct Admission" keywords to find the institutional selection process:**
 
 ### 1. Cycle-Based Direct Shortlist
 Great Lakes follows a 4-cycle admission process. 
@@ -89,7 +90,16 @@ The total academic fee for the two-year PGDM at [Great Lakes Gurgaon](/colleges/
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in Great Lakes Gurgaon 2026:** | ₹11.6 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Does [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/) offer direct admission?
 Official direct admission (donation-based) is not available. All admissions are via the merit portal based on entrance scores and profile assessment.

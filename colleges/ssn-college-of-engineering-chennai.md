@@ -61,6 +61,8 @@ keywords:
   - Chennai Direct Admission 2027-29
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
 ---
 
 ### About SSN College of Engineering (Shiv Nadar Foundation)

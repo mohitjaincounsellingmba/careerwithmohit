@@ -17,6 +17,13 @@ keywords:
   - Manipal Jaipur NRI quota BTech
   - direct admission engineering Jaipur 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -63,6 +70,12 @@ category: B.Tech
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in Manipal University Jaipur?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.61 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 ## **Does [Manipal University Jaipur](/colleges/manipal-university-jaipur/) Offer Direct Admission or Management Quota for B.Tech?**
 

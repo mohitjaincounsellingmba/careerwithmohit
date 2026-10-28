@@ -16,6 +16,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Can I get into [NMIMS Mumbai](/colleges/nmims-mumbai/) without Math?'
     answer: >-
@@ -81,7 +88,7 @@ Most new-age private universities prioritize **Aptitude and Communication Skills
 
 ## 🚀 How to Cope with "Business Math" in BBA?
 
-Even if math isn't required for admission, your BBA curriculum will include a subject called **Business Mathematics or Statistics** in the first year.
+**Even if math isn't required for admission, your BBA curriculum will include a subject called **Business Mathematics or Statistics** in the first year.**
 - **The Good News:** This math is not about complex calculus or trigonometry. It is about interest rates, ratios, data interpretation, and basic probability.
 - **Strategy for 2026:** If you haven't touched math in two years, take a 1-month "Bridge Course" in basic arithmetic before college starts. It’s all you need to clear the exams.
 

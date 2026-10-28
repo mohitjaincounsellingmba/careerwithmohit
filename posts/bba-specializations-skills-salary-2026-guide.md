@@ -14,6 +14,13 @@ keywords:
   - BBA vs IPM
   - BBA skills for freshers
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -119,7 +126,7 @@ Your salary as a BBA fresher depends heavily on two factors: your **college tier
 
 ## 5. BBA or IPM? Which one to choose?
 
-If you are certain about a career in management, the **IPM (Integrated Program in Management)** offered by IIMs is the premium choice. However, if you want to explore different career paths or do an MBA later from a different institution (like ISB or a global B-school), a **3-year BBA** is more flexible.
+**If you are certain about a career in management, the **IPM (Integrated Program in Management)** offered by IIMs is the premium choice. However, if you want to explore different career paths or do an MBA later from a different institution (like ISB or a global B-school), a **3-year BBA** is more flexible.**
 
 ### Useful Resources:
 *   [Career Options After 12th Commerce](/blog/career-options-after-12th-commerce-2027-29/)

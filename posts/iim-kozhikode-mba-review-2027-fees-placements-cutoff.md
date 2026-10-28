@@ -1,8 +1,11 @@
 ---
 title: 'IIM Kozhikode MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹20.5L), Triple Crown twin hills campus, placements (₹28.0L avg), CAT cutoffs (97%+) & AIS criteria for IIM Kozhikode by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 fees (₹20.5L), Triple Crown twin hills campus, placements
+  (₹28.0L avg), CAT cutoffs (97%+) & AIS criteria for IIM Kozhikode by Mohit
+  Jain.
 keywords:
   - iim kozhikode mba review 2027
   - iim kozhikode fee structure 2027
@@ -11,17 +14,38 @@ keywords:
   - iim kozhikode selection criteria pgp lsm finance
   - top triple crown mba colleges in south india
 faqs:
-  - question: 'What is the total fee structure for the PGP (MBA) program at IIM Kozhikode?'
-    answer: 'The total 2-year tuition and residential fee for the flagship PGP (MBA), PGP-Finance, and PGP-LSM programs at IIM Kozhikode is ₹20.50 Lakhs, payable in term-wise installments. Need-based financial assistance (NBFA) and 100% collateral-free education loans are available for all admitted students.'
-  - question: 'What is the average and highest placement package at IIM Kozhikode?'
-    answer: 'During recent campus placements, IIM Kozhikode recorded an overall average domestic package of ₹28.05 to ₹31.02 LPA, with a median compensation of ₹27.00 LPA and peak domestic offers touching ₹67.00 to ₹72.00 LPA.'
-  - question: 'What specialized management programs are offered at IIM Kozhikode?'
-    answer: 'In addition to its flagship 2-year PGP, IIM Kozhikode offers PGP in Liberal Studies & Management (PGP-LSM), PGP in Finance (PGP-Finance), and a 1-year residential PGP in Business Leadership (PGP-BL).'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Kozhikode?'
-    answer: 'While the minimum qualifying overall CAT cutoff is 85 percentile (with 75 percentile in each section), actual interview calls for General Engineer Males (GEM) range between 98.0 and 99.2+ percentile. Female and non-engineer candidates receive shortlist calls around 95.0 to 97.5 percentile due to 15% diversity weightage.'
-  - question: 'What is the international accreditation status of IIM Kozhikode?'
-    answer: 'IIM Kozhikode is globally recognized with Triple Crown accreditation from AMBA (UK), EQUIS (European Union), and AACSB (USA), ranking among the top business schools in Asia.'
-location: 'Kunnamangalam'
+  - question: >-
+      What is the total fee structure for the PGP (MBA) program at IIM
+      Kozhikode?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship PGP (MBA),
+      PGP-Finance, and PGP-LSM programs at IIM Kozhikode is ₹20.50 Lakhs,
+      payable in term-wise installments. Need-based financial assistance (NBFA)
+      and 100% collateral-free education loans are available for all admitted
+      students.
+  - question: What is the average and highest placement package at IIM Kozhikode?
+    answer: >-
+      During recent campus placements, IIM Kozhikode recorded an overall average
+      domestic package of ₹28.05 to ₹31.02 LPA, with a median compensation of
+      ₹27.00 LPA and peak domestic offers touching ₹67.00 to ₹72.00 LPA.
+  - question: What specialized management programs are offered at IIM Kozhikode?
+    answer: >-
+      In addition to its flagship 2-year PGP, IIM Kozhikode offers PGP in
+      Liberal Studies & Management (PGP-LSM), PGP in Finance (PGP-Finance), and
+      a 1-year residential PGP in Business Leadership (PGP-BL).
+  - question: What is the CAT cutoff required for an interview call at IIM Kozhikode?
+    answer: >-
+      While the minimum qualifying overall CAT cutoff is 85 percentile (with 75
+      percentile in each section), actual interview calls for General Engineer
+      Males (GEM) range between 98.0 and 99.2+ percentile. Female and
+      non-engineer candidates receive shortlist calls around 95.0 to 97.5
+      percentile due to 15% diversity weightage.
+  - question: What is the international accreditation status of IIM Kozhikode?
+    answer: >-
+      IIM Kozhikode is globally recognized with Triple Crown accreditation from
+      AMBA (UK), EQUIS (European Union), and AACSB (USA), ranking among the top
+      business schools in Asia.
+location: Kunnamangalam
 state: 'Kozhikode, Kerala'
 ---
 
@@ -41,7 +65,11 @@ In this authoritative guide, Senior MBA Admissions Strategist **Mohit Jain** pro
 
 ---
 
-## 🏛️ IIM Kozhikode: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Kozhikode: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Kozhikode delivers India's premier globally accredited management curriculum recognized under the IIM Act by the Government of India.**
 

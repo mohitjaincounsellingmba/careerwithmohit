@@ -11,6 +11,13 @@ keywords:
   - MBA entrance exams 2027–29
   - admission backup plan
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -75,7 +82,7 @@ Narsee Monjee [Institute of Management Studies](/colleges/ims-noida/) (NMIMS), M
 
 ## Syllabus Overlap: How Much Extra Study is Needed?
 
-If you are already preparing for CAT, **you have covered 80% of the NMAT syllabus**. The core concepts of arithmetic, algebra, and reading comprehension are identical. 
+**If you are already preparing for CAT, **you have covered 80% of the NMAT syllabus**. The core concepts of arithmetic, algebra, and reading comprehension are identical.**
 
 However, you must allocate extra study time to three NMAT-specific areas:
 

@@ -1,8 +1,10 @@
 ---
 title: 'IIM Jammu MBA Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹17.15L), 200-acre Jagti campus, placements (₹15.4L avg), CAT cutoffs (88%+) & CAP admission guide for IIM Jammu by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 fees (₹17.15L), 200-acre Jagti campus, placements (₹15.4L avg),
+  CAT cutoffs (88%+) & CAP admission guide for IIM Jammu by Mohit Jain.
 keywords:
   - iim jammu mba review 2027
   - iim jammu fee structure 2027
@@ -11,17 +13,41 @@ keywords:
   - iim jammu selection criteria mba hahm
   - top 3rd generation iims in north india
 faqs:
-  - question: 'What is the total fee structure for the MBA program at IIM Jammu?'
-    answer: 'The total 2-year tuition and residential fee for the flagship MBA program at IIM Jammu is approximately ₹17.15 Lakhs to ₹17.50 Lakhs, payable in term-wise installments. The fee covers academic tuition, air-conditioned hostel accommodation, and digital database subscriptions.'
-  - question: 'What is the average and highest placement package at IIM Jammu?'
-    answer: 'During recent campus placement seasons, IIM Jammu recorded an overall average domestic package of ₹15.48 to ₹16.43 LPA, with top 25% students securing an average CTC of ₹21.50 LPA and peak domestic offers reaching ₹32.00 to ₹64.00 LPA.'
-  - question: 'What is the dual specialization in Hospital Administration (MBA-HA&HM) at IIM Jammu?'
-    answer: 'IIM Jammu uniquely collaborates with AIIMS Jammu and IIT Jammu to offer a specialized MBA in Hospital Administration & Healthcare Management (MBA-HA&HM), combining medical management, engineering technology, and administrative leadership.'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Jammu via IIM CAP?'
-    answer: 'IIM Jammu participates in the Common Admission Process (IIM CAP). Expected safe qualifying percentiles for General category aspirants range between 90 and 93+ percentile, with sectional cutoffs of 70 percentile across VARC, DILR, and QA.'
-  - question: 'Does IIM Jammu offer education loan assistance and scholarships?'
-    answer: 'Yes, admitted students at IIM Jammu are eligible for 100% collateral-free education loans under the SBI Scholar Scheme and Canara Bank at concessional interest rates, along with Central Sector Scholarships for eligible categories.'
-location: 'Jagti'
+  - question: What is the total fee structure for the MBA program at IIM Jammu?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship MBA program
+      at IIM Jammu is approximately ₹17.15 Lakhs to ₹17.50 Lakhs, payable in
+      term-wise installments. The fee covers academic tuition, air-conditioned
+      hostel accommodation, and digital database subscriptions.
+  - question: What is the average and highest placement package at IIM Jammu?
+    answer: >-
+      During recent campus placement seasons, IIM Jammu recorded an overall
+      average domestic package of ₹15.48 to ₹16.43 LPA, with top 25% students
+      securing an average CTC of ₹21.50 LPA and peak domestic offers reaching
+      ₹32.00 to ₹64.00 LPA.
+  - question: >-
+      What is the dual specialization in Hospital Administration (MBA-HA&HM) at
+      IIM Jammu?
+    answer: >-
+      IIM Jammu uniquely collaborates with AIIMS Jammu and IIT Jammu to offer a
+      specialized MBA in Hospital Administration & Healthcare Management
+      (MBA-HA&HM), combining medical management, engineering technology, and
+      administrative leadership.
+  - question: >-
+      What is the CAT cutoff required for an interview call at IIM Jammu via IIM
+      CAP?
+    answer: >-
+      IIM Jammu participates in the Common Admission Process (IIM CAP). Expected
+      safe qualifying percentiles for General category aspirants range between
+      90 and 93+ percentile, with sectional cutoffs of 70 percentile across
+      VARC, DILR, and QA.
+  - question: Does IIM Jammu offer education loan assistance and scholarships?
+    answer: >-
+      Yes, admitted students at IIM Jammu are eligible for 100% collateral-free
+      education loans under the SBI Scholar Scheme and Canara Bank at
+      concessional interest rates, along with Central Sector Scholarships for
+      eligible categories.
+location: Jagti
 state: 'Jammu, J&K'
 ---
 
@@ -41,7 +67,11 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** deliver
 
 ---
 
-## 🏛️ IIM Jammu: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Jammu: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Jammu delivers an industry-immersed 2-year residential management curriculum recognized by the Ministry of Education, Government of India.**
 

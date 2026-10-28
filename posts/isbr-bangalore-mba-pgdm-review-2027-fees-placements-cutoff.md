@@ -1,7 +1,7 @@
 ---
 title: 'ISBR Bangalore PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 ISBR Bangalore PGDM review with audited ₹7.80L placements,
   ₹9.50L fees, entrance cutoffs, and direct admission tips from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in isbr bangalore
   - best pgdm colleges in electronic city bangalore
   - mohit jain mba admissions counselor
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at ISBR Business School
@@ -51,8 +58,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       national entrance scores can apply for merit profile-based direct
       evaluation seats with counselor assistance.
-location: Electronic City Phase 1
-state: 'Bangalore, Karnataka'
+location: Bangalore
+state: Karnataka
 ---
 
 ## [International School of Business & Research (ISBR Bangalore)](https://careerwithmohit.online/blog/isbr-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

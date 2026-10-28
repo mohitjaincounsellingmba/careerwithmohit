@@ -24,6 +24,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: When was the Maharashtra MBA CET 2027–29 Result declared?
     answer: >-
@@ -98,7 +99,7 @@ Follow these steps to download your MAH MBA CET 2027–29 scorecard:
 
 ## What Does the MAH MBA CET 2027–29 Scorecard Contain?
 
-Your Maharashtra CET result scorecard includes:
+**Your Maharashtra CET result scorecard includes:**
 
 - ✅ **Total Raw Score** (out of 200)
 - ✅ **Overall Percentile**

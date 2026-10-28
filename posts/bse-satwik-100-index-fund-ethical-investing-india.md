@@ -3,7 +3,8 @@ title: 'BSE Satwik 100 Fund: Is India’s First Ethical Investing Index Worth It
 date: '2026-06-27'
 description: >-
   Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical
-  index, the BSE Saatvik 100, its sector weightings, exclusions, returns.
+  index, the BSE Saatvik 100, its sector weightings, exclusions, returns for
+  2026-2027 admissions & career guidance.
 keywords:
   - BSE Satwik 100 fund
   - BSE Saatvik 100 index
@@ -12,6 +13,13 @@ keywords:
   - BSE Saatvik 100 ETF
   - value based investing India
   - BSE Saatvik index holdings
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the BSE Saatvik 100 Index?
     answer: >-
@@ -52,7 +60,7 @@ If you are an investor looking for ethical mutual funds or passive index funds i
 
 ## What is the BSE Saatvik 100 Index?
 
-First, a quick clarification: **the BSE Saatvik 100 is an index, not a mutual fund.** 
+**First, a quick clarification: **the BSE Saatvik 100 is an index, not a mutual fund.****
 
 Launched by BSE Index Services (a subsidiary of Asia's oldest stock exchange, the Bombay Stock Exchange), the index acts as a benchmark. You cannot buy shares of the index directly. Instead, asset management companies (AMCs) use this benchmark to launch passive investment products like **Index Funds** or **Exchange-Traded Funds (ETFs)**. 
 

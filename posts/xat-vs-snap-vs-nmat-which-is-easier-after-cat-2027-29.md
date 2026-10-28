@@ -35,6 +35,13 @@ keywords:
   - SIBM SNAP cutoff
   - NMIMS NMAT cutoff
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 location: Delhi NCR
 faqs:
   - question: 'Which exam is easiest among XAT, SNAP, and NMAT?'
@@ -140,7 +147,7 @@ XAT (Conceptual & Ethics)  SNAP (Pure Pacing)     NMAT (Adaptive & Safe)  CAT (S
 
 ## 🎯 Which Exam is "Easier" For Your Profile?
 
-1.  **If You Excel at Verbal Reasoning & Ethics but Struggle with Speed Quants $\rightarrow$ Pick XAT:**
+**1.  **If You Excel at Verbal Reasoning & Ethics but Struggle with Speed Quants $\rightarrow$ Pick XAT:****
     *   XAT rewards critical analysis and comprehension over mechanical speed.
 2.  **If You Have Rapid Calculation Speed & Quick Logic $\rightarrow$ Pick SNAP:**
     *   No complicated DILR cases or philosophy passages. Just direct, fast-paced problem solving.

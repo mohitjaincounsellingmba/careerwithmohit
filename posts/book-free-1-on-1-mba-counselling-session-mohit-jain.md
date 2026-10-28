@@ -6,7 +6,8 @@ date: '2026-09-15'
 category: Exams
 description: >-
   Schedule a free 30-minute 1-on-1 face-to-face MBA counselling session on
-  Google Meet with Mohit Jain (IIM-B & FMS certified).
+  Google Meet with Mohit Jain (IIM-B & FMS certified) for 2026-2027 admissions &
+  career guidance.
 keywords:
   - book face to face MBA counselling
   - free 1 on 1 mba counselling online
@@ -20,6 +21,13 @@ keywords:
   - best mba career counsellor in india
   - free career counselling session
   - MBA Admissions 2027
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is this 1-on-1 MBA counselling call really 100% free?
     answer: >-
@@ -93,7 +101,7 @@ Most students looking for MBA admission advice turn to two sources: generic dire
 
 ## What Actually Happens in Your 30-Minute Google Meet Session?
 
-When you reserve a slot on the [Book Session Page](/book-session/), your 30 minutes are structured to maximize clarity and eliminate guesswork:
+**When you reserve a slot on the [Book Session Page](/book-session/), your 30 minutes are structured to maximize clarity and eliminate guesswork:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

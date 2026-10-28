@@ -18,6 +18,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Where can I check my MAT PBT scorecard?
     answer: >-
@@ -82,7 +89,7 @@ The **MAT PBT (May 31, 2026)** result is expected approximately **10–15 days**
 
 ## What is the MAT PBT Mode?
 
-The **Paper-Based Test (PBT)** is the traditional pen-and-paper format of the Management Aptitude Test conducted by the **All India Management Association (AIMA)**. Unlike the CBT (Computer-Based Test) or IBT (Internet-Based Test), the PBT is conducted at **designated test centres** across India.
+**The **Paper-Based Test (PBT)** is the traditional pen-and-paper format of the Management Aptitude Test conducted by the **All India Management Association (AIMA)**. Unlike the CBT (Computer-Based Test) or IBT (Internet-Based Test), the PBT is conducted at **designated test centres** across India.**
 
 Key facts about the PBT mode:
 - **Duration:** 2.5 hours (150 minutes)

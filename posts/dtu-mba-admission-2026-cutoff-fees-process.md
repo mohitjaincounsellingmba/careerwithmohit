@@ -14,6 +14,13 @@ keywords:
   - CMAC Delhi MBA counseling
   - best MBA colleges in Delhi
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -114,7 +121,7 @@ The training and placement cell at DTU is centralized, allowing MBA students to 
 
 ## Is DTU MBA Right for You?
 
-If you are looking for a state-university recognized MBA with fantastic ROI, strong alumni connections from the DTU engineering ecosystem, and robust specializations in fields like Business Analytics and Entrepreneurship, DTU (DSM and USME) is a stellar choice. It serves as an excellent alternative for candidates who missed out on the premier IIMs or FMS but still want high-quality education in Delhi.
+**If you are looking for a state-university recognized MBA with fantastic ROI, strong alumni connections from the DTU engineering ecosystem, and robust specializations in fields like Business Analytics and Entrepreneurship, DTU (DSM and USME) is a stellar choice. It serves as an excellent alternative for candidates who missed out on the premier IIMs or FMS but still want high-quality education in Delhi.**
 
 ---
 [👉 Confused about MBA admissions or CMAC counseling? Connect with Mohit Jain for expert, personalized guidance!](/inquiry/)
@@ -142,3 +149,12 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **DTU MBA Admission 2027–2029: Colleges, Cutoff** | ₹4.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

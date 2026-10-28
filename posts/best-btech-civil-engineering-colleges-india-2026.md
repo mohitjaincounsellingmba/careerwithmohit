@@ -17,6 +17,13 @@ keywords:
   - government jobs civil engineering india
   - btech civil salary 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is Civil Engineering a good career choice in 2026?
     answer: >-
@@ -77,7 +84,7 @@ This guide covers the **best B.Tech Civil Engineering colleges in India for 2026
 
 ## Why Civil Engineering in 2026?
 
-India's infrastructure spending is at an all-time high:
+**India's infrastructure spending is at an all-time high:**
 - **PM Gati Shakti National Master Plan** — ₹100 Lakh Crore infrastructure pipeline
 - **AMRUT 2.0, Smart Cities Mission** — urban infra development
 - **Defence Construction** — military cantonments, border roads (BRO)

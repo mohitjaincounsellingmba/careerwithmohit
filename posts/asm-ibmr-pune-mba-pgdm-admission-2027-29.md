@@ -26,6 +26,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the total fee for the MBA / PGDM (2027–29) Batch at ASM IBMR Pune?
     answer: >-
@@ -76,6 +77,12 @@ state: Maharashtra
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.95 Lakhs for PGDM / ₹3.75 Lakhs for MBA** (**₹3.47 Lakhs / Year (PGDM)**). Government scholarships and merit rebates for entrance exam toppers.
 > - **Accreditation & Approvals**: AICTE Approved · SPPU Affiliated · Harvard Business Publishing & IBM Partnered.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.00 LPA**) with a highest package of **₹24.00 LPA**. 22% PPO conversion through IBM and Amazon AWS tech-management curriculum tracks.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for ASM’s Institute of Business Management & Rese?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹6.95 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **ASM’s Institute of Business Management & Research (IBMR) ([ASM IBMR](/colleges/asm-ibmr/) Pune)**, located in **Chinchwad, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

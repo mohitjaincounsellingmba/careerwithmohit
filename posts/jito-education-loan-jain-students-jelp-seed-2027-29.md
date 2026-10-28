@@ -42,7 +42,11 @@ This guide covers everything you need to know about both schemes, including elig
 
 ---
 
-## 1. JITO Education Loan Program (JELP)
+## What are the Key Admissions, Fees, and Placement Details for JITO Education Loan Program (JELP)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 The **JELP scheme** does *not* provide the principal loan amount. Instead, it offers an **interest subsidy** on an education loan that a student has already taken from a recognized bank or NBFC. 
 
 This significantly reduces the financial burden of high-interest rates on standard education loans.
@@ -133,3 +137,12 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **JITO Education Loan for Jain Students (2026):** | ₹4 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

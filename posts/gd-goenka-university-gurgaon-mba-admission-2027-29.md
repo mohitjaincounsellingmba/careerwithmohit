@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at GD Goenka Gurgaon?
     answer: >-
@@ -82,6 +83,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹8.50 Lakhs (Total)** (**₹4.25 Lakhs per Year**). Merit scholarships up to 100% tuition waiver on CAT/MAT/CUET scores.
 > - **Accreditation & Approvals**: UGC Approved State Private University · AIU Member · ACU Member.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.50 LPA** (Top 25% at **₹9.00 LPA**) with a highest package of **₹17.50 LPA**. 18% PPO rate through dedicated corporate resource center linkages.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for GD Goenka University (School of Management) M?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹8.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[GD Goenka University](/colleges/gd-goenka-gurgaon/) (School of Management) (GD Goenka Gurgaon)**, located in **Sohna Road, Gurugram NCR**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

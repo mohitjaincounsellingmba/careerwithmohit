@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Which is the #1 BBA college in Delhi?'
     answer: >-
@@ -101,7 +102,7 @@ If you can clear the **CUET** with a high score, **SSCBS** is the best decision 
 ---
 
 ## 📞 Want to Join SSCBS or IP University?
-Delhi admissions can be extremely tricky with cutoffs and counselling rounds. Let's ensure you don't miss any deadlines.
+**Delhi admissions can be extremely tricky with cutoffs and counselling rounds. Let's ensure you don't miss any deadlines.**
 
 ---
 ## Frequently Asked Questions (FAQ)

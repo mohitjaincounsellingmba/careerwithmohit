@@ -171,7 +171,7 @@ Admissions for 2026 at Chinmaya Vishwa Vidyapeeth, Kochi are conducted based on 
 
 ## 📞 Need Expert Guidance for Chinmaya Vishwa Vidyapeeth Kochi Admissions?
 
-Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.
+**Navigating college cutoffs, fee structures, and course specializations can be challenging. Whether you are aiming for merit admissions or seeking personalized career roadmap counseling, our expert desk is here to help.**
 
 [👉 Build Your Admission Roadmap with Mohit Jain](/inquiry/) | [💬 WhatsApp our Counseling Desk](https://wa.me/919560020771)
 

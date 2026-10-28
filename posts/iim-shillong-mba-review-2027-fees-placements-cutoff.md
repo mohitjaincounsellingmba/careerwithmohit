@@ -185,7 +185,7 @@ Operating from its permanent 120-acre campus at Umsawli, IIM Shillong offers one
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Shillong Right for You?
 
-Having counseled thousands of management aspirants, here is my balanced strategic assessment of IIM Shillong:
+**Having counseled thousands of management aspirants, here is my balanced strategic assessment of IIM Shillong:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

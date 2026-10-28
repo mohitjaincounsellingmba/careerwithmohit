@@ -43,7 +43,11 @@ In this guide, we will analyze the role of TITA questions in the [CAT exam 2026]
 
 ---
 
-## The TITA Question Distribution: What to Expect
+## What are the Key Admissions, Fees, and Placement Details for The TITA Question Distribution: What to Expect?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 On average, TITA questions make up **25% to 30%** of the entire CAT paper. The section-wise distribution typically looks like this:
 

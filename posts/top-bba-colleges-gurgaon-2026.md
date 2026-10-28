@@ -22,6 +22,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -100,7 +101,7 @@ If you want to be part of an innovative curriculum with massive hardware and man
 ---
 
 ## 📞 Want to Secure a Fortune 500 Placement?
-Studying in Gurgaon is half the battle won. Let's make sure the other half (choosing the right college) is also a win.
+**Studying in Gurgaon is half the battle won. Let's make sure the other half (choosing the right college) is also a win.**
 
 [👉 Build My Gurgaon Roadmap with Mohit Jain](/inquiry/) | [💬 Schedule a Private Profile Review](/inquiry/)
 

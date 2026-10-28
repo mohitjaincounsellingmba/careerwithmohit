@@ -11,6 +11,13 @@ keywords:
   - NMIMS Mumbai cutoff
   - NMAT 3 attempts
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -46,7 +53,7 @@ In this guide, we analyze how these features affect your NMAT 2026 preparation s
 
 ## What is a Computer Adaptive Test (CAT)?
 
-Unlike static exams, an adaptive test adjusts its difficulty based on your answers:
+**Unlike static exams, an adaptive test adjusts its difficulty based on your answers:**
 - The exam begins with a medium-difficulty question.
 - If you answer correctly, the next question is harder and carries **higher weightage/marks**.
 - If you answer incorrectly, the next question is easier and carries **fewer marks**.

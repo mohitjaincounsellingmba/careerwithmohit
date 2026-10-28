@@ -21,6 +21,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -53,7 +60,7 @@ Whether you're a BCA/B.Sc graduate looking to deepen your tech expertise, or a w
 
 ## What is an Online MCA?
 
-An **Online MCA (Master of Computer Applications)** is a 2-year postgraduate program covering advanced computer science concepts — delivered fully through an online learning platform. It is equivalent to a regular MCA degree when earned from a UGC-DEB recognized university.
+**An **Online MCA (Master of Computer Applications)** is a 2-year postgraduate program covering advanced computer science concepts — delivered fully through an online learning platform. It is equivalent to a regular MCA degree when earned from a UGC-DEB recognized university.**
 
 #
 

@@ -12,6 +12,13 @@ keywords:
   - NSHM Kolkata placements
   - BBA admission Kolkata 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -90,7 +97,7 @@ If you seek a corporate job in East India, **NSHM** and **JD Birla** offer great
 ---
 
 ## 📞 Still Deciding on BBA in Kolkata?
-Choosing a college is the first step toward your CEO journey. Let's make sure it's the right one.
+**Choosing a college is the first step toward your CEO journey. Let's make sure it's the right one.**
 
 [👉 Build My Kolkata Roadmap](/inquiry/) | [💬 Schedule a Private Counselling Session](/inquiry/)
 

@@ -54,6 +54,12 @@ state: Andhra Pradesh
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹14.50 Lakhs (Total)** against an audited average domestic CTC of **₹13.50 LPA** (Median: **₹13.00 LPA**, Highest: **₹22.90 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT, XAT, NMAT, CMAT, GMAT** score (**200+ NMAT / 80+ CAT %ile / 80+ XAT %ile / 85+ CMAT**) followed by structured GD-PI / WAT evaluation rounds.
 
+## What are the Admission Cutoffs, Fees, and Placement Records for IFMR GSB MBA Admission 2027: Fees, Cutoff & R?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹14.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
+
 [InquiryCard title="Get Personalized Admission Guidance for IFMR GSB" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 
 Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IFMR Graduate School of Business (Krea University)](/blog/ifmr-gsb-sri-city-review-2027-29/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.

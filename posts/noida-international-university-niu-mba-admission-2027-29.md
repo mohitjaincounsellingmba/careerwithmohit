@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at NIU Greater Noida?
     answer: >-
@@ -81,6 +82,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹6.50 Lakhs (Total)** (**₹3.25 Lakhs per Year**). Merit scholarships up to 100% for high academic percentage and sports achievers.
 > - **Accreditation & Approvals**: UGC Approved · NAAC Grade A+ Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹5.50 LPA** (Top 25% at **₹8.00 LPA**) with a highest package of **₹13.96 LPA**. 85% overall placement rate with 15% PPO conversion.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Noida International University (NIU) MBA / PG?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹6.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[Noida International University (NIU)](/colleges/niu-greater-noida/) (NIU Greater Noida)**, located in **Yamuna Expressway, Greater Noida**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

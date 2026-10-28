@@ -56,6 +56,8 @@ keywords:
   - Kolkata Direct Admission 2027-29
   - Colleges in West Bengal
   - Kolkata Career Counselling
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
 state: West Bengal
 ---
 

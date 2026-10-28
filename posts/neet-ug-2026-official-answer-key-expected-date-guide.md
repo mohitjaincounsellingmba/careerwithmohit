@@ -12,6 +12,13 @@ keywords:
   - NEET UG 2026 OMR sheet
   - NEET UG 2026 result date
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -60,7 +67,7 @@ Once the NTA activates the link, you can download your specific set's answer key
 5.  Download the PDF for score calculation.
 
 ## 3. How to Challenge the Provisional Answer Key?
-If you find any discrepancy in the official key, you can challenge it within the stipulated window:
+**If you find any discrepancy in the official key, you can challenge it within the stipulated window:**
 - **Fee:** You must pay a non-refundable processing fee of **₹200 per question** challenged.
 - **Process:** Upload supporting documents or justifications for your claim on the NTA portal.
 - **Review:** Experts will review all challenges, and if valid, a **Final Answer Key** will be prepared.

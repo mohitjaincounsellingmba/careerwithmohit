@@ -12,6 +12,13 @@ keywords:
   - DU admission 2026 cutoff
   - CUET UG result predictor
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -43,7 +50,7 @@ Are you confused about the marking scheme? Use our **[Free CUET UG 2026 Score Ca
 
 ## How to Calculate CUET UG 2026 Score?
 
-NTA follows a strict marking scheme for all domain subjects, languages, and the general test. Unlike many other exams, CUET UG has a high-reward, high-risk structure:
+**NTA follows a strict marking scheme for all domain subjects, languages, and the general test. Unlike many other exams, CUET UG has a high-reward, high-risk structure:**
 
 - **Correct Answer:** +5 Marks
 - **Incorrect Answer:** -1 Mark

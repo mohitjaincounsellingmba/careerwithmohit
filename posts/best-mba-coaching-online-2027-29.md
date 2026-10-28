@@ -16,6 +16,13 @@ keywords:
   - iQuanta coaching
   - best online coaching MBA entrance exam India
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -61,7 +68,11 @@ The most competitive MBA entrance exam in India. Top providers focus on conceptu
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## 2. XAT (Xavier Aptitude Test)
+## What are the Key Admissions, Fees, and Placement Details for XAT (Xavier Aptitude Test)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 XAT requires a unique focus on Decision Making and Verbal Ability.
 
 *   **Mindworkzz**: Led by Arun Sharma, they provide specialized modules for the "Decision Making" section which is crucial for XAT.
@@ -128,3 +139,12 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Top Online Coaching for CAT, XAT, SNAP, NMAT ** | INR 2 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

@@ -45,6 +45,12 @@ state: Uttar Pradesh
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹20.75 Lakhs (Total)** against an audited average domestic CTC of **₹32.20 LPA** (Median: **₹30.00 LPA**, Highest: **₹1.00 Crore**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT** score (**98.0+ CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
 
+## What are the Admission Cutoffs, Fees, and Placement Records for IIML MBA Admission 2027: Fees, Cutoff & ROI?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹20.75 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
+
 [InquiryCard title="Get Personalized Admission Guidance for IIML" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 
 Selecting the ideal business school requires analyzing audited placement reports, actual fee commitments, faculty pedagogy, and return on investment (ROI). In this comprehensive **2027 admission review of [IIM Lucknow](/colleges/iim-lucknow/)**, Senior MBA Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum highlights, and selection tips.

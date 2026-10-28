@@ -24,6 +24,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is IMT Nagpur placements centralized with Ghaziabad?
     answer: >-
@@ -45,6 +46,12 @@ category: Exams
 > - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
+## What is the Admission Eligibility, Fee Structure, and Placement Outlook?
+
+**Admission requires fulfilling recognized graduation or 10+2 academic thresholds with competitive entrance test scores, offering verified corporate placement opportunities and high Return on Investment (ROI).**
+
+
 
 
 The **Institute of Management Technology (IMT)** is one of India’s most recognized management brands. However, there is often a huge gap between its flagship campus in **Ghaziabad** and its second-largest campus in **Nagpur**. For a 2026 aspirant, understanding this gap is the difference between a high-stress topper environment and a balanced, high-ROI career path.

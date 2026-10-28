@@ -1,7 +1,7 @@
 ---
 title: 'MERI Janakpuri Delhi MBA Review 2027: Fees & Cutoff'
 date: '2026-09-27'
-category: MBA Admissions
+category: MBA
 description: >-
   Read verified 2027 MERI Janakpuri review with audited ₹7.50L placements,
   ₹5.95L fees, IPU CET cutoffs, and direct admission advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best mba colleges in west delhi janakpuri
   - direct admission in meri janakpuri
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at MERI Janakpuri (West
@@ -51,8 +58,8 @@ faqs:
       District Centre commercial complex and within walking distance of the
       Janakpuri West Metro Station (Blue and Magenta Lines), providing direct
       transit across Delhi-NCR.
-location: 'Janakpuri, West Delhi'
-state: New Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [Management Education & Research Institute (MERI Janakpuri)](https://careerwithmohit.online/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & West Delhi Advantage
@@ -284,7 +291,7 @@ Schedule a strategy session to evaluate your entrance test scores, explore manag
 
 ## 13. Final Counselor Verdict: Is MERI Janakpuri Worth It?
 
-Management Education & Research Institute (MERI Janakpuri) is one of West Delhi's most established and affordable business schools.
+**Management Education & Research Institute (MERI Janakpuri) is one of West Delhi's most established and affordable business schools.**
 
 With an 'A' grade accreditation, GGSIPU affiliation, transparent tuition fees of ₹5.95 Lakhs, and verified average placements of ₹7.20 LPA to ₹7.50 LPA, it provides exceptional return on investment and strong corporate connectivity in Delhi.
 

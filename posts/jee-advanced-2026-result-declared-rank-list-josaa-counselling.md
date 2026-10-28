@@ -17,6 +17,13 @@ keywords:
   - JEE Advanced topper 2026
   - jeeadv.ac.in result link
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -49,7 +56,7 @@ A total of **56,880 candidates** have qualified this year, including **10,107 fe
 
 ## How to Check JEE Advanced 2026 Result?
 
-Follow these simple steps to download your JEE Advanced 2026 scorecard:
+**Follow these simple steps to download your JEE Advanced 2026 scorecard:**
 
 1. **Visit the Official Portal**: Go to [jeeadv.ac.in](https://jeeadv.ac.in)
 2. **Click on the Result Link**: Find the "JEE Advanced 2026 Result / Rank Card" link on the homepage.

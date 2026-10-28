@@ -64,6 +64,8 @@ keywords:
   - Chennai Direct Admission 2027-29
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
 ---
 
 ### About IIT Madras (Indian Institute of Technology Madras)

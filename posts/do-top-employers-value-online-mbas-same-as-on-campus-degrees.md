@@ -32,6 +32,12 @@ faqs:
       showcase how you applied your learning in real-time.
 ---
 
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Do Top Employers Value Online MBAs the Same a?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹3.5 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 With the rapid growth of remote work and digital learning in 2026, the perception of **online MBA programs** has shifted dramatically. Gone are the days when online education was viewed as a secondary option. 
 
 However, a critical question remains for every aspirant: **Do top employers value an online MBA the same as a traditional, on-campus degree?**

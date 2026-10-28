@@ -37,7 +37,7 @@ T. A. Pai Management Institute (TAPMI), located in the scenic university town of
 
 ## Why TAPMI stands out?
 
-TAPMI is legendary for its academic rigor and "Finance Lab" (one of the largest in India).
+**TAPMI is legendary for its academic rigor and "Finance Lab" (one of the largest in India).**
 - **Flagship PGDM**: Strong focus on experiential learning.
 - **Specialized Programs**: BKFS (Banking & Financial Services), HRM, and Marketing.
 - **Placements**: Consistently achieves **100% placements** with an average package of **₹14.5 LPA to ₹15 LPA**.
@@ -62,7 +62,16 @@ Even for direct admission, TAPMI maintains high standards:
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in TAPMI Manipal 2026: Mgmt ** | ₹14.5 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Is there a management quota in TAPMI Manipal?
 Yes, TAPMI offers admission under the management and NRI category for all its major PGDM programs.

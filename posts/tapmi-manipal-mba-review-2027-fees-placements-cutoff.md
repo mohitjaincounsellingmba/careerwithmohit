@@ -182,7 +182,7 @@ Perched on the scenic Manipal hills, TAPMI provides world-class residential and 
 
 ## 6. Mohit's Candid Counselor Take: Is TAPMI Manipal Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of TAPMI Manipal:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of TAPMI Manipal:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

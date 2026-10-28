@@ -1,8 +1,10 @@
 ---
 title: 'IIM Calcutta MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹27.0L), Triple Crown Joka campus, placements (₹35.0L avg), CAT cutoffs (99%+) & selection criteria for IIM Calcutta by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 fees (₹27.0L), Triple Crown Joka campus, placements (₹35.0L
+  avg), CAT cutoffs (99%+) & selection criteria for IIM Calcutta by Mohit Jain.
 keywords:
   - iim calcutta mba review 2027
   - iim calcutta fee structure 2027
@@ -10,19 +12,45 @@ keywords:
   - iim calcutta cutoff cat 2026 2027
   - iim calcutta selection criteria pgdba mba
   - top triple crown mba colleges in india
+  - Kolkata Colleges
+  - Best Colleges in Kolkata
+  - Top Colleges in Kolkata 2026
+  - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
+  - Kolkata Admissions 2027
 faqs:
-  - question: 'What is the total fee structure for the MBA program at IIM Calcutta?'
-    answer: 'The total 2-year tuition and residential fee for the flagship MBA program at IIM Calcutta is ₹27.00 Lakhs, payable in term-wise installments. Need-based financial assistance (NBFA) and 100% collateral-free education loans are available for all admitted students.'
-  - question: 'What is the average and highest placement package at IIM Calcutta?'
-    answer: 'During recent campus placements, IIM Calcutta recorded an average domestic package of ₹35.07 to ₹35.80 LPA, with a median CTC of ₹33.60 LPA and peak domestic offers surpassing ₹1.20 Crore.'
-  - question: 'What is the significance of IIM Calcutta’s Triple Crown accreditation?'
-    answer: 'IIM Calcutta is one of only two Indian business schools holding the prestigious "Triple Crown" accreditation from AACSB (USA), AMBA (UK), and EQUIS (European Union), placing it among the top 1% of business schools globally.'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Calcutta?'
-    answer: 'For General category engineer males (GEM), the safe interview calling cutoff typically ranges between 99.50 and 99.80+ percentile. Non-engineers and female candidates receive shortlist calls around 98.0 to 99.0 percentile due to diversity points.'
-  - question: 'Does IIM Calcutta offer specialized programs like PGDBA?'
-    answer: 'Yes, IIM Calcutta jointly offers the Post Graduate Diploma in Business Analytics (PGDBA) in collaboration with IIT Kharagpur and the Indian Statistical Institute (ISI Kolkata), which is widely rated as India’s top analytics curriculum.'
-location: 'Joka'
-state: 'Kolkata, West Bengal'
+  - question: What is the total fee structure for the MBA program at IIM Calcutta?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship MBA program
+      at IIM Calcutta is ₹27.00 Lakhs, payable in term-wise installments.
+      Need-based financial assistance (NBFA) and 100% collateral-free education
+      loans are available for all admitted students.
+  - question: What is the average and highest placement package at IIM Calcutta?
+    answer: >-
+      During recent campus placements, IIM Calcutta recorded an average domestic
+      package of ₹35.07 to ₹35.80 LPA, with a median CTC of ₹33.60 LPA and peak
+      domestic offers surpassing ₹1.20 Crore.
+  - question: What is the significance of IIM Calcutta’s Triple Crown accreditation?
+    answer: >-
+      IIM Calcutta is one of only two Indian business schools holding the
+      prestigious "Triple Crown" accreditation from AACSB (USA), AMBA (UK), and
+      EQUIS (European Union), placing it among the top 1% of business schools
+      globally.
+  - question: What is the CAT cutoff required for an interview call at IIM Calcutta?
+    answer: >-
+      For General category engineer males (GEM), the safe interview calling
+      cutoff typically ranges between 99.50 and 99.80+ percentile. Non-engineers
+      and female candidates receive shortlist calls around 98.0 to 99.0
+      percentile due to diversity points.
+  - question: Does IIM Calcutta offer specialized programs like PGDBA?
+    answer: >-
+      Yes, IIM Calcutta jointly offers the Post Graduate Diploma in Business
+      Analytics (PGDBA) in collaboration with IIT Kharagpur and the Indian
+      Statistical Institute (ISI Kolkata), which is widely rated as India’s top
+      analytics curriculum.
+location: Kolkata
+state: West Bengal
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
@@ -41,7 +69,11 @@ In this comprehensive 2027 review, Senior MBA Admissions Strategist **Mohit Jain
 
 ---
 
-## 🏛️ IIM Calcutta: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Calcutta: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Calcutta delivers India's premier quantitative and finance management curriculum recognized with global Triple Crown accreditation.**
 

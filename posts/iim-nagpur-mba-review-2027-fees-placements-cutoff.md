@@ -15,6 +15,13 @@ keywords:
   - iim nagpur review 2027
   - baby iims cutoff and placement comparison
   - mohit jain mba admissions counselor
+  - Ahmedabad Colleges
+  - Best Colleges in Ahmedabad
+  - Top Colleges in Ahmedabad 2026
+  - Ahmedabad Direct Admission 2026
+  - Colleges in Gujarat
+  - Ahmedabad Career Counselling
+  - Ahmedabad Admissions 2027
 faqs:
   - question: What is the average placement package at IIM Nagpur in 2026-2027?
     answer: >-
@@ -47,8 +54,8 @@ faqs:
       with the prestigious IIM brand identity, original mentorship by IIM
       Ahmedabad, robust average placements of ₹16.74 LPA, and lower fees than
       private alternatives, IIM Nagpur offers excellent long-term career ROI.
-location: Nagpur
-state: Maharashtra
+location: Ahmedabad
+state: Gujarat
 ---
 
 ## [IIM Nagpur](/colleges/iim-nagpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -187,7 +194,7 @@ Located in the Special Economic Zone at MIHAN, IIM Nagpur boasts one of the most
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Nagpur Right for You?
 
-Having evaluated thousands of student profiles over the past decade, here is my honest assessment of where IIM Nagpur stands in your MBA application portfolio:
+**Having evaluated thousands of student profiles over the past decade, here is my honest assessment of where IIM Nagpur stands in your MBA application portfolio:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

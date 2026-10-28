@@ -1,7 +1,7 @@
 ---
 title: 'Lloyd Business School PGDM Review 2027: Fees & Cutoff'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 Lloyd Business School review with audited ₹6.80L
   placements, ₹3.20L to ₹8.25L fees, cutoffs, and admissions tips by Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best pgdm colleges in knowledge park ii greater noida
   - direct admission in lloyd business school
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at Lloyd Business School
@@ -49,8 +56,8 @@ faqs:
       CUET-PG. Competitive eligibility thresholds range between 55.0% and 65.0%
       percentile, accompanied by an evaluation of graduation marks and Personal
       Interview performance.
-location: 'Knowledge Park II, Greater Noida'
-state: Uttar Pradesh
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [Lloyd Business School Greater Noida](https://careerwithmohit.online/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
@@ -282,7 +289,7 @@ Schedule a strategy call to evaluate your entrance test scores, compare regional
 
 ## 13. Final Counselor Verdict: Is Lloyd Business School Worth It?
 
-Lloyd Business School (Knowledge Park II, Greater Noida) is a practical, value-oriented management institution in the Delhi-NCR corridor.
+**Lloyd Business School (Knowledge Park II, Greater Noida) is a practical, value-oriented management institution in the Delhi-NCR corridor.**
 
 With an AICTE-approved PGDM curriculum, industry-partnered programs with Safeducate, affordable fees starting at ₹3.20 Lakhs for the university MBA, and verified average placements of ₹6.50 LPA to ₹6.80 LPA, it provides a dependable route to corporate entry for aspiring managers.
 

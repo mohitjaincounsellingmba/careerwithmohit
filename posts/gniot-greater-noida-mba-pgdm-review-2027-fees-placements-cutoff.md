@@ -1,7 +1,7 @@
 ---
 title: 'GNIOT Greater Noida MBA Review 2027: Fees & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 GNIOT Greater Noida MBA review with audited ₹6.20L
   placements, ₹3.25L-7.25L fees, cutoffs, and admissions tips from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - best mba colleges in knowledge park 2
   - aktu affiliated mba colleges ncr
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at GNIOT (GIMS Greater
@@ -50,8 +57,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       national entrance scores can apply for merit profile-based direct
       evaluation seats with counselor assistance.
-location: Knowledge Park II
-state: 'Greater Noida, Delhi NCR'
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [GNIOT Institute of Management Studies (GIMS / GNIOT)](https://careerwithmohit.online/blog/gniot-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Is [IMI Kolkata](/colleges/imi-kolkata/) placements as good as Delhi?'
     answer: >-
@@ -44,6 +45,12 @@ category: Exams
 > - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
+## What is the Admission Eligibility, Fee Structure, and Placement Outlook?
+
+**Admission requires fulfilling recognized graduation or 10+2 academic thresholds with competitive entrance test scores, offering verified corporate placement opportunities and high Return on Investment (ROI).**
+
+
 
 
 The **International Management Institute (IMI)** is one of the "Old Guard" in Indian management education, with its Delhi campus consistently ranking in the Top 30 nationwide. But with the high fees at its **Delhi** flagship campus and the competitive metropolitan edge of its **Kolkata** campus, aspirants are asking: **"Which is the real winner in 2026?"**

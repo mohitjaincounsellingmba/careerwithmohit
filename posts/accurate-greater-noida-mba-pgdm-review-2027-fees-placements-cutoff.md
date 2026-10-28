@@ -1,7 +1,7 @@
 ---
 title: 'Accurate Greater Noida MBA Review 2027: Fees & Placements'
 date: '2026-10-09'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 Accurate Greater Noida MBA review with audited ₹6.50L
   placements, ₹3.25L-6.95L fees, cutoffs, and admissions tips from Mohit Jain.
@@ -13,6 +13,13 @@ keywords:
   - direct admission in accurate greater noida 2027
   - best mba colleges in knowledge park 3 greater noida
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at Accurate Institute
@@ -57,8 +64,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) can apply for
       merit-based profile evaluation and direct management quota seats with
       counselor guidance.
-location: Knowledge Park III
-state: Greater Noida
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [Accurate Institute of Management & Technology (AIMT)](https://careerwithmohit.online/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

@@ -27,6 +27,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the highest package at JKBS?
     answer: ₹24 LPA for recent batches — achieved by top performers from the batch.
@@ -208,7 +209,7 @@ This multi-layered process means JKBS admits students with **actual business thi
 
 ## Who Should Choose JKBS Gurgaon?
 
-✅ Students who want a **Gurgaon PGDM under ₹9 Lakhs**  
+**✅ Students who want a **Gurgaon PGDM under ₹9 Lakhs****
 ✅ Aspirants interested in **FinTech or Data Analytics** specialization at budget fees  
 ✅ Students from **Haryana, UP, or Rajasthan** seeking NCR-belt placement access  
 ✅ Candidates who prefer **residential campus life** with sports and hostel facilities  

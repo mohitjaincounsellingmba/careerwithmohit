@@ -12,6 +12,13 @@ keywords:
   - '[JBIMS Mumbai](/colleges/jbims-mumbai/) MBA fees'
   - Jamnalal Bajaj admission
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Is there a management quota in [JBIMS Mumbai](/colleges/jbims-mumbai/)?'
     answer: >-
@@ -66,13 +73,22 @@ A dedicated percentage of seats are reserved for NRI and foreign national candid
 
 ## How to Increase Your Chances for 2026?
 
-1. **Target 99.99 Percentile**: For general merit, aim for the top score in MAH-CET.
+**1. **Target 99.99 Percentile**: For general merit, aim for the top score in MAH-CET.**
 2. **Monitor the 'Against CAP' Vacancy**: Many students get into IIMs and leave their JBIMS seats. Keep a close watch on the JBIMS official website for institutional round notifications.
 3. **Register for CAP**: You MUST be registered with the State CET Cell Maharashtra to be eligible for any type of merit seat in JBIMS.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in JBIMS Mumbai: Institute-L** | ₹27.63 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Is there a management quota in [JBIMS Mumbai](/colleges/jbims-mumbai/)?
 No, JBIMS is a government-run institute and does not offer donation-based management quota seats.

@@ -11,6 +11,13 @@ keywords:
   - direct admission in Sydenham Mumbai
   - SIMSREE NRI quota admission
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in SIMSREE through management quota?
     answer: >-
@@ -50,7 +57,7 @@ Sydenham [Institute of Management Studies](/colleges/ims-noida/), Research and E
 
 ## Is there Direct Admission at SIMSREE?
 
-It is important to understand the hierarchy of seats to avoid misinformation:
+**It is important to understand the hierarchy of seats to avoid misinformation:**
 
 ### 1. Management Quota (Donation-Based)
 **Does not exist.** SIMSREE is a government institute under the Maharashtra State Government. It does not accept donations or offer "backdoor" entry.
@@ -73,7 +80,16 @@ NRI/Special category fees are higher as per government directives.
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in SIMSREE Mumbai: MMS vs PG** | ₹1.36 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Can I get direct admission in SIMSREE through management quota?
 No, SIMSREE does not have a management quota. Admission is 100% merit-based via the CAP rounds.

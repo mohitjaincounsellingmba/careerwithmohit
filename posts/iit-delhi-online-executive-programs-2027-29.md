@@ -24,6 +24,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -47,6 +48,12 @@ category: B.Tech
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IIT Delhi Online Executive Programs 2026: Fee?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹1.00 Lakh, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 IIT Delhi is globally recognized as one of India's most prestigious engineering and management institutions, currently ranked **#3 in the NIRF Overall Category**. While it is famous for its highly competitive B.Tech programs, IIT Delhi has also emerged as a leader in **Executive Education**, offering specialized online programs designed specifically for working professionals.
 

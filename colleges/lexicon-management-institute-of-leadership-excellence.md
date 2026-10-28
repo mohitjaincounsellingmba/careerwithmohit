@@ -52,6 +52,8 @@ keywords:
   - Pune Direct Admission 2027-29
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
 state: Maharashtra
 ---
 

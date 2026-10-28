@@ -26,6 +26,7 @@ keywords:
   - Jaipur Direct Admission 2026
   - Colleges in Rajasthan
   - Jaipur Career Counselling
+  - Jaipur Admissions 2027
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at VGU Jaipur?
     answer: >-
@@ -71,6 +72,12 @@ state: Rajasthan
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹5.05 Lakhs (Total)** (**₹2.53 Lakhs per Year**). Merit scholarships up to 100% tuition waiver based on national test percentiles.
 > - **Accreditation & Approvals**: UGC Approved · NAAC Grade A+ Accredited · AIU Member.
 > - **Audited Placements & PPO**: Average CTC stands at **₹5.20 LPA** (Top 25% at **₹7.50 LPA**) with a highest package of **₹54.00 LPA (International / Peak)**. Sunstone placement protection with 18% PPO conversion.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Vivekananda Global University (VGU) MBA / PGD?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹5.05 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **Vivekananda Global University (VGU) (VGU Jaipur)**, located in **Jagatpura, Jaipur, Rajasthan**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

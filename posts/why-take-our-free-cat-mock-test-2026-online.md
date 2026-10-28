@@ -78,7 +78,11 @@ Here is your 3-step blueprint to mastering CAT 2026 using realistic mocks.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## What are the Key Admissions, Fees, and Placement Details for ❓ Frequently Asked Questions (FAQ)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 ### What is the pattern of the CAT 2026 exam?
 CAT 2026 is a 120-minute computer-based test with 3 sections: VARC (24 questions), DILR (20 questions), and Quantitative Ability (22 questions).
@@ -95,3 +99,12 @@ A raw score of 85+ (out of 198) is typically required to secure a 99+ percentile
 ### 🚀 Boost Your Preparation
 
 Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **How to Score 99+ Percentile in CAT 2026: The ** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

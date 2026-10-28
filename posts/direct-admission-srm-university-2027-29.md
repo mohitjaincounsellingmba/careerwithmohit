@@ -14,6 +14,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -44,7 +51,7 @@ For students who might not secure a top rank in SRMJEEE, **Direct Admission in S
 
 ## Is there a Management Quota in SRM University?
 
-Yes, like many top private deemed universities in India, SRM University reserves a certain percentage of its seats for the **Management Quota / NRI Quota**. 
+**Yes, like many top private deemed universities in India, SRM University reserves a certain percentage of its seats for the **Management Quota / NRI Quota**.**
 
 This allows students to secure admission in their desired branch (like Computer Science Engineering) at their preferred campus without relying strictly on the SRMJEEE merit rank, provided they meet the basic academic eligibility criteria and are willing to pay the management fee structure.
 

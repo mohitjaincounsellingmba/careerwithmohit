@@ -64,6 +64,8 @@ keywords:
   - Dehradun Direct Admission 2027-29
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
 ---
 
 ### About IIT Roorkee (Indian Institute of Technology Roorkee)

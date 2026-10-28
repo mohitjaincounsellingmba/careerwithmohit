@@ -1,8 +1,10 @@
 ---
 title: 'IIM Indore MBA Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹21.0L), Triple Crown Prabandh Shikhar, placements (₹25.6L avg), CAT cutoffs (97%+) & academic weightage for IIM Indore by Mohit Jain.'
+category: Exams
+description: >-
+  Verified 2027 fees (₹21.0L), Triple Crown Prabandh Shikhar, placements (₹25.6L
+  avg), CAT cutoffs (97%+) & academic weightage for IIM Indore by Mohit Jain.
 keywords:
   - iim indore mba review 2027
   - iim indore fee structure 2027
@@ -11,17 +13,38 @@ keywords:
   - iim indore selection criteria composite score
   - top triple crown mba colleges in central india
 faqs:
-  - question: 'What is the total fee structure for the PGP (MBA) program at IIM Indore?'
-    answer: 'The total 2-year tuition and residential fee for the flagship PGP (MBA) program at IIM Indore is approximately ₹21.00 Lakhs to ₹21.50 Lakhs, payable across term-wise installments. Need-based financial assistance (NBFA) and 100% collateral-free bank loans are available.'
-  - question: 'What is the average and highest placement package at IIM Indore?'
-    answer: 'During recent campus placements, IIM Indore recorded an overall average domestic package of ₹25.68 to ₹30.21 LPA, with the top 25% cohort securing an average CTC of ₹38.50 LPA and peak domestic offers touching ₹1.00 Crore to ₹1.14 Crore.'
-  - question: 'Why does IIM Indore give high weightage to Class 10 and 12 marks in shortlisting?'
-    answer: 'IIM Indore places immense emphasis on consistent academic excellence, assigning 34% weightage to Class 10 marks and 40% weightage to Class 12 marks, with CAT score carrying 20% and gender diversity carrying 6% in the initial interview shortlist.'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Indore?'
-    answer: 'While the minimum qualifying sectional cutoff is 80 percentile for General category candidates, candidates with 90%+ in 10th and 12th typically receive calls between 96.5 and 98.5 percentile. Candidates with lower school marks may require 99.3+ percentile.'
-  - question: 'What is the international accreditation status of IIM Indore?'
-    answer: 'IIM Indore is among the select 1% of business schools worldwide holding the prestigious "Triple Crown" accreditation from AACSB (USA), AMBA (UK), and EQUIS (European Union).'
-location: 'Prabandh Shikhar'
+  - question: What is the total fee structure for the PGP (MBA) program at IIM Indore?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship PGP (MBA)
+      program at IIM Indore is approximately ₹21.00 Lakhs to ₹21.50 Lakhs,
+      payable across term-wise installments. Need-based financial assistance
+      (NBFA) and 100% collateral-free bank loans are available.
+  - question: What is the average and highest placement package at IIM Indore?
+    answer: >-
+      During recent campus placements, IIM Indore recorded an overall average
+      domestic package of ₹25.68 to ₹30.21 LPA, with the top 25% cohort securing
+      an average CTC of ₹38.50 LPA and peak domestic offers touching ₹1.00 Crore
+      to ₹1.14 Crore.
+  - question: >-
+      Why does IIM Indore give high weightage to Class 10 and 12 marks in
+      shortlisting?
+    answer: >-
+      IIM Indore places immense emphasis on consistent academic excellence,
+      assigning 34% weightage to Class 10 marks and 40% weightage to Class 12
+      marks, with CAT score carrying 20% and gender diversity carrying 6% in the
+      initial interview shortlist.
+  - question: What is the CAT cutoff required for an interview call at IIM Indore?
+    answer: >-
+      While the minimum qualifying sectional cutoff is 80 percentile for General
+      category candidates, candidates with 90%+ in 10th and 12th typically
+      receive calls between 96.5 and 98.5 percentile. Candidates with lower
+      school marks may require 99.3+ percentile.
+  - question: What is the international accreditation status of IIM Indore?
+    answer: >-
+      IIM Indore is among the select 1% of business schools worldwide holding
+      the prestigious "Triple Crown" accreditation from AACSB (USA), AMBA (UK),
+      and EQUIS (European Union).
+location: Prabandh Shikhar
 state: 'Indore, Madhya Pradesh'
 ---
 
@@ -41,7 +64,11 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provide
 
 ---
 
-## 🏛️ IIM Indore: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Indore: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Indore delivers a globally accredited, socially contextualized 2-year management curriculum recognized under the IIM Act by the Government of India.**
 

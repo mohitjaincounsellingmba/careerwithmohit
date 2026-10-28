@@ -1,7 +1,7 @@
 ---
 title: Top 50 GD Topics for MBA 2026-27 with Answers & PI Questions
 date: '2026-10-11'
-category: MBA
+category: Exams
 description: >-
   Master the top 50 GD topics for MBA admission 2026-27 with structured pros,
   cons, and conclusions, plus 10 high-impact personal interview (PI) model

@@ -14,6 +14,13 @@ keywords:
   - scmhrd review 2027
   - top mba colleges in pune
   - mohit jain mba admissions counselor
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: What is the average placement package at SCMHRD Pune in 2026-2027?
     answer: >-
@@ -43,7 +50,7 @@ faqs:
       Resource Management alongside XLRI Jamshedpur and TISS Mumbai, attracting
       premier CHRO pipelines from TAS, Aditya Birla Group, Unilever, P&G, and
       McKinsey.
-location: Pune
+location: Mumbai
 state: Maharashtra
 ---
 
@@ -184,7 +191,7 @@ Located in Hinjawadi Infotech Park in Pune, SCMHRD offers high-tech corporate co
 
 ## 6. Mohit's Candid Counselor Take: Is SCMHRD Pune Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of SCMHRD Pune:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of SCMHRD Pune:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

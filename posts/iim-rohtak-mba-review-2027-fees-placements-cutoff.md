@@ -14,6 +14,13 @@ keywords:
   - iim rohtak review 2027
   - mba colleges in delhi ncr
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the average placement package at IIM Rohtak in 2026-2027?
     answer: >-
@@ -44,8 +51,8 @@ faqs:
       maintaining approximately 70% female representation in its flagship PGP
       cohort alongside diverse educational backgrounds spanning engineering,
       commerce, economics, and humanities.
-location: Rohtak
-state: Haryana
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [IIM Rohtak](/colleges/iim-rohtak/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -183,7 +190,7 @@ Located in Sunaria, Rohtak (less than 90 minutes from New Delhi International Ai
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Rohtak Right for You?
 
-Having counseled thousands of MBA applicants, here is my balanced strategic assessment of IIM Rohtak:
+**Having counseled thousands of MBA applicants, here is my balanced strategic assessment of IIM Rohtak:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

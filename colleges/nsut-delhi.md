@@ -71,6 +71,8 @@ keywords:
   - Delhi NCR Direct Admission 2027-29
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
 ---
 
 ### About Netaji Subhas University of Technology (NSUT, formerly NSIT)

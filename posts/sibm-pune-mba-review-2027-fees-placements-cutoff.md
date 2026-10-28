@@ -14,6 +14,13 @@ keywords:
   - sibm pune review 2027
   - top mba colleges in pune
   - mohit jain mba admissions counselor
+  - Pune Colleges
+  - Best Colleges in Pune
+  - Top Colleges in Pune 2026
+  - Pune Direct Admission 2026
+  - Colleges in Maharashtra
+  - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the average placement package at SIBM Pune in 2026-2027?
     answer: >-
@@ -184,7 +191,7 @@ Perched atop the Lavale hills in Pune, SIBM Pune features one of the most breath
 
 ## 6. Mohit's Candid Counselor Take: Is SIBM Pune Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of SIBM Pune:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of SIBM Pune:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

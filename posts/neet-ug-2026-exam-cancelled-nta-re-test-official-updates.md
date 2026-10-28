@@ -44,7 +44,7 @@ The decision comes after weeks of allegations regarding examination irregulariti
 
 ## 🚨 Why was NEET UG 2026 Cancelled?
 
-Following the conduct of the exam on May 3, several reports of "unusual patterns" and local paper leak allegations emerged. While initially the NTA denied any widespread leakage, further investigations and internal reviews pointed towards serious discrepancies.
+**Following the conduct of the exam on May 3, several reports of "unusual patterns" and local paper leak allegations emerged. While initially the NTA denied any widespread leakage, further investigations and internal reviews pointed towards serious discrepancies.**
 
 Key reasons for the cancellation include:
 - **Allegations of Paper Leak:** Reports of questions circulating on social media platforms before the exam.

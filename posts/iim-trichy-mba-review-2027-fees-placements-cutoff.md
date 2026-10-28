@@ -14,6 +14,13 @@ keywords:
   - iimt review 2027
   - top mba colleges in tamil nadu
   - mohit jain mba admissions counselor
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: What is the average placement package at IIM Trichy in 2026-2027?
     answer: >-
@@ -44,8 +51,8 @@ faqs:
       Pudukkottai Road, Chinna Suriyur, Tiruchirappalli, Tamil Nadu, featuring
       modern smart lecture halls, international sports facilities, and
       single-occupancy residential hostels.
-location: Tiruchirappalli
-state: Tamil Nadu
+location: Bangalore
+state: Karnataka
 ---
 
 ## [IIM Trichy](/colleges/iim-trichy/) Review 2027: Fees, Cutoff, Placements & Admission ROI
@@ -184,7 +191,7 @@ Operating from its permanent 175-acre green campus on Pudukkottai Road, IIM Tric
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Trichy Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Trichy:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of IIM Trichy:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

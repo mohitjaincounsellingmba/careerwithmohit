@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the total fee for the PGDM (2027–29) Batch at First Bridge
@@ -87,6 +88,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹16.00 Lakhs (Total)** (**₹8.00 Lakhs per Year**). Merit and diversity scholarships for tech/engineering graduates and women leaders.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.50 LPA** (Top 25% at **₹12.00 LPA**) with a highest package of **₹20.00 LPA**. Portfolio-based live project tracks with high conversion in consulting & product startups.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for First Bridge Business School (FBBS) MBA / PGD?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹16.00 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **First Bridge Business School (FBBS) (First Bridge Gurgaon)**, located in **Gurugram Corporate Corridor, Haryana**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

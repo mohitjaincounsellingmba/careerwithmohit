@@ -16,6 +16,13 @@ keywords:
   - diploma to degree admission pune
   - Maharashtra DSE CAP rounds 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I change my branch during lateral entry?
     answer: >-
@@ -46,7 +53,7 @@ In 2026, the DSE admission process remains highly competitive, especially for br
 ---
 
 ## 🛠️ What is B.Tech Lateral Entry (DSE)?
-Lateral entry allows students to skip the first year of the engineering program and enter directly into the **second year (3rd semester)**. In Maharashtra, this is centrally managed by the **State Common Entrance Test (CET) Cell** through the Centralized Admission Process (CAP).
+**Lateral entry allows students to skip the first year of the engineering program and enter directly into the **second year (3rd semester)**. In Maharashtra, this is centrally managed by the **State Common Entrance Test (CET) Cell** through the Centralized Admission Process (CAP).**
 
 ### Key Highlights for 2026:
 - **No Entrance Exam:** Unlike first-year admissions, DSE is purely based on the **aggregate percentage** of your Diploma or B.Sc. degree.

@@ -11,6 +11,13 @@ keywords:
   - SNAP registration strategy
   - best score SNAP
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -80,7 +87,7 @@ If you decide to register for multiple attempts, do not treat them as separate e
 
 ## Should You Register for All 3 Attempts?
 
-The simple answer is **yes, if your budget permits**. 
+**The simple answer is **yes, if your budget permits**.**
 
 According to past candidate statistics, **over 70% of students who took 3 attempts saw a score increase of 4 to 8 marks** between their first and best attempt. In SNAP's competitive structure, a 4-mark increase can be the difference between a 90 percentile and a 98.5 percentile (the cutoff for [SIBM Pune](/colleges/sibm-pune/)).
 

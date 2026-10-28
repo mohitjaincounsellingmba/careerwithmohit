@@ -4,7 +4,8 @@ date: '2026-05-03'
 category: B.Tech
 description: >-
   Looking for affordable engineering? Explore the best B.Tech colleges in Delhi
-  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur.
+  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur for 2026-2027 admissions &
+  career guidance.
 keywords:
   - btech colleges under 5 lakhs
   - low fees btech colleges india
@@ -12,6 +13,13 @@ keywords:
   - btech in kolkata under 5 lakhs
   - government engineering colleges fees
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -145,7 +153,7 @@ Uttarakhand's state universities provide affordable engineering with a focus on 
 
 ## How to Get Admission in Low-Fee Colleges?
 
-1.  **State Entrance Exams:** Most of these colleges are state-run and reserve 85-100% seats for local domiciles through exams like **WBJEE, KCET, TS EAMCET, and TNEA**.
+**1.  **State Entrance Exams:** Most of these colleges are state-run and reserve 85-100% seats for local domiciles through exams like **WBJEE, KCET, TS EAMCET, and TNEA**.**
 2.  **JEE Main:** National-level colleges like JMI, MNIT, and DTU accept JEE Main scores. 
 3.  **Tuition Fee Waiver (TFW) Scheme:** Most states have a TFW scheme where top 5% merit students from economically weaker sections pay **Zero Tuition Fees**.
 4.  **Scholarships:** Even in private colleges, you can bring your budget under ₹5 Lakhs by securing merit-based scholarships (e.g., scoring 90%+ in Boards or a high JEE rank).

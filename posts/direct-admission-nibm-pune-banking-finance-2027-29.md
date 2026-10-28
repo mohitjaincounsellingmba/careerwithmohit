@@ -16,6 +16,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: Does NIBM Pune have a management quota?
     answer: >-
@@ -43,6 +44,12 @@ category: Exams
 > - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in NIBM Pune 2026: Banking &?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹14.23 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 
 The National Institute of Bank Management (NIBM), Pune, is an autonomous institute established by the **Reserve Bank of India (RBI)** and Public Sector Banks. It is widely considered the "FinTech and Banking Hub" of management education. For students looking for **Direct Admission in NIBM Pune for 2026**, understanding the specialized selection process is key.
@@ -81,7 +88,16 @@ The total academic fees for the two-year PGDM program is approximately **₹17.6
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in NIBM Pune 2026: Banking &** | ₹14.23 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Does NIBM Pune have a management quota?
 NIBM is a strictly merit-based autonomous body; however, a small percentage of seats are evaluated under the institutional category for students with stellar profiles.

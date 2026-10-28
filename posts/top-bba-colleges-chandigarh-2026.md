@@ -11,6 +11,13 @@ keywords:
   - Chitkara University BBA placements
   - BBA admission Chandigarh 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -87,7 +94,7 @@ If you have a strong academic record (90%+ in 12th), GDSD College is the best fo
 ---
 
 ## 📞 Need Help Choosing a College in Chandigarh?
-Don't get confused by the marketing! Let's analyze the real placement data and choose the best one for you.
+**Don't get confused by the marketing! Let's analyze the real placement data and choose the best one for you.**
 
 [👉 Build My Chandigarh Roadmap](/inquiry/) | [💬 Schedule a Private Session](/inquiry/)
 

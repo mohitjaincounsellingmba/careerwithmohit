@@ -1,11 +1,12 @@
 ---
 title: >-
-  DoMS, IIT Delhi MBA Placement Report 2027–29: Average Package ₹22.52 LPA, Highest
-  ₹43.55 LPA & Analytics Roles
+  DoMS, IIT Delhi MBA Placement Report 2027–29: Average Package ₹22.52 LPA,
+  Highest ₹43.55 LPA & Analytics Roles
 date: '2026-08-15'
 description: >-
-  Complete DoMS IIT Delhi MBA Placement Report 2027–29. Read about average package
-  of ₹22.52 LPA, median of ₹22.50 LPA, top recruiters, consulting roles & fees.
+  Complete DoMS IIT Delhi MBA Placement Report 2027–29. Read about average
+  package of ₹22.52 LPA, median of ₹22.50 LPA, top recruiters, consulting roles
+  & fees.
 keywords:
   - doms iit delhi mba placement report 2027–29
   - doms iit delhi average package 2025
@@ -25,6 +26,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the average package for MBA at DoMS IIT Delhi in 2027–29?
     answer: >-
@@ -63,7 +65,11 @@ Here is the complete **DoMS IIT Delhi MBA Placement Report 2027–29**.
 
 ---
 
-## 1. DoMS IIT Delhi Placement 2025 Highlights
+## What are the Key Admissions, Fees, and Placement Details for DoMS IIT Delhi Placement 2025 Highlights?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 | Metric | Statistics (2025 Placement Cycle) |
 | :--- | :--- |

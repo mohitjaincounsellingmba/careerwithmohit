@@ -183,7 +183,7 @@ Spanning 200 acres in Atal Nagar, the permanent campus of IIM Raipur represents 
 
 ## 6. Mohit's Candid Counselor Take: Is IIM Raipur Right for You?
 
-Having mentored thousands of management aspirants, here is my balanced strategic assessment of IIM Raipur:
+**Having mentored thousands of management aspirants, here is my balanced strategic assessment of IIM Raipur:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

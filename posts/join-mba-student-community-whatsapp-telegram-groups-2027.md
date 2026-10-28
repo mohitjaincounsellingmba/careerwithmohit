@@ -19,6 +19,13 @@ keywords:
   - CAT 2026 daily quiz telegram
   - B-school cutoffs alerts telegram
   - MBA GD PI interview transcripts group
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       Is joining the CareerWithMohit Telegram channel and WhatsApp group 100%
@@ -81,7 +88,7 @@ To solve this, **Mohit Jain** (IIM-B / [FMS Delhi](/colleges/fms-delhi/) Certifi
 
 ## Why Join the CareerWithMohit Student Community?
 
-Most online forums and open Telegram groups quickly devolve into spam, coaching advertisements, and unverified rumors. The **CareerWithMohit Community Hub** is built differently: it is strictly moderated, structured by milestone, and focused purely on high-yield academic output.
+**Most online forums and open Telegram groups quickly devolve into spam, coaching advertisements, and unverified rumors. The **CareerWithMohit Community Hub** is built differently: it is strictly moderated, structured by milestone, and focused purely on high-yield academic output.**
 
 ```
        ┌─────────────────────────────────────────────────────────────┐

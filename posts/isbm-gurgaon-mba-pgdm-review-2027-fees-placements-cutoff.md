@@ -1,7 +1,7 @@
 ---
 title: 'ISBM Gurgaon PGDM Review 2027: Fees, Cutoff, ROI & Jobs'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 ISB&M Gurgaon PGDM review with audited ₹8.20L placements,
   ₹9.00L fees, entrance cutoffs, and admissions guidance from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in isbm gurgaon
   - best pgdm colleges in gurugram
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the audited average placement package at ISB&M Gurgaon?
     answer: >-
@@ -49,8 +56,8 @@ faqs:
       minimum of 50% aggregate marks (45% for reserved categories) and valid
       national entrance scores can apply for merit profile-based direct
       evaluation seats with counselor assistance.
-location: Sector 51
-state: 'Gurugram, Delhi NCR'
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [International School of Business & Media (ISB&M Gurgaon)](https://careerwithmohit.online/blog/isbm-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

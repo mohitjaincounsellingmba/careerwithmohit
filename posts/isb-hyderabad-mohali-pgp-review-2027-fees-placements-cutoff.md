@@ -27,6 +27,7 @@ keywords:
   - Hyderabad Direct Admission 2026
   - Colleges in Telangana
   - Hyderabad Career Counselling
+  - Hyderabad Admissions 2027
 faqs:
   - question: Does ISB accept CAT or XAT scores for PGP admission?
     answer: >-

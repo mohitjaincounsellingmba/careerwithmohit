@@ -15,6 +15,13 @@ keywords:
   - mca vs mba for software engineers
   - highest package mca vs mba
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is an MCA equivalent to an MBA in salary?
     answer: >-

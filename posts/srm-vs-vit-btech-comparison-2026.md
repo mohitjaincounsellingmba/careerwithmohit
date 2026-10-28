@@ -20,6 +20,7 @@ keywords:
   - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
+  - Chennai Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -281,7 +282,7 @@ Yes, if you're looking at SRM KTR specifically and have realistic career goals i
 
 ## 📞 Need Personalised Guidance?
 
-Still confused between SRM and VIT? Your ideal college depends on your **VITEEE/SRMJEEE rank, budget, career goals, and preferred learning environment**.
+**Still confused between SRM and VIT? Your ideal college depends on your **VITEEE/SRMJEEE rank, budget, career goals, and preferred learning environment**.**
 
 [👉 Book a Free 1:1 Session with Mohit Jain – Get Expert Admission Advice](/inquiry/)
 

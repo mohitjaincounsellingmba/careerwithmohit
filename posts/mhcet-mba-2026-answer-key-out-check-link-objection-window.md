@@ -14,6 +14,13 @@ keywords:
   - JBIMS cutoff 2027–29
   - CET Cell Maharashtra login
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -63,7 +70,7 @@ The CET Cell has provided a very short window for candidates to review their res
 
 ## How to Download MHCET MBA 2027–29 Response Sheet?
 
-Follow these steps to access your individual response sheet and official answer key:
+**Follow these steps to access your individual response sheet and official answer key:**
 
 1.  Visit the official website: [cetcell.mahacet.org](https://cetcell.mahacet.org).
 2.  Navigate to the **'Candidate Registration A.Y. 2026-27'** or the dedicated **'MAH-MBA/MMS-CET 2027–29'** portal.

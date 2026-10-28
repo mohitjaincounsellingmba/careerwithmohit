@@ -80,7 +80,7 @@ The **Online MBA** is a 2-year (4-semester) degree with specializations in Finan
 
 ## Why Choose Andhra University Online?
 
-1. **Lowest Fee Structure**: Save over ₹1.3 Lakhs compared to private online universities without compromising on degree validity.
+**1. **Lowest Fee Structure**: Save over ₹1.3 Lakhs compared to private online universities without compromising on degree validity.**
 2. **Century-Old Government Legacy**: Recognized nationwide for government job recruitments, state administrative services, and PSU promotions.
 3. **Flexible Self-Paced Learning**: Designed specifically for working adults and budget-conscious learners across India.
 

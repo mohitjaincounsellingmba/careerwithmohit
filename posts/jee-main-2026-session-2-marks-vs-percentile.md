@@ -14,6 +14,13 @@ keywords:
   - 99 percentile marks in JEE 2026
   - JAC Delhi cutoffs for JEE Main 2026
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -44,7 +51,11 @@ Because JEE Main is conducted in multiple shifts, the marks required to achieve 
 
 ---
 
-## 📊 Expected Marks vs. Percentile (April 2026)
+## What are the Key Admissions, Fees, and Placement Details for 📊 Expected Marks vs. Percentile (April 2026)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 Based on initial student feedback and expert analysis, here is the projected marks-to-percentile mapping for Session 2.
 

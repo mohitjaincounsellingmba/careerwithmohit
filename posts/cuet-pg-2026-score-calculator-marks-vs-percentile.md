@@ -16,6 +16,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How is the CUET PG 2026 raw score calculated?
     answer: >-
@@ -65,7 +72,7 @@ In CUET PG, your raw score is converted into a percentile through a normalizatio
 
 ## 🚀 How to Use the CUET PG Score Calculator?
 
-Calculating your score manually can be tricky with negative marking. Here’s how our tool simplifies it for you:
+**Calculating your score manually can be tricky with negative marking. Here’s how our tool simplifies it for you:**
 
 1.  **Select Your Method**: Use the **Auto-Calculate** feature by pasting your NTA Response Sheet URL, or enter your data **Manually**.
 2.  **Input Correct/Incorrect**: Feed in the number of correct responses and incorrect ones (based on 75 questions).

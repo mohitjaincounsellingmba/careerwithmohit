@@ -20,6 +20,7 @@ keywords:
   - Ahmedabad Direct Admission 2026
   - Colleges in Gujarat
   - Ahmedabad Career Counselling
+  - Ahmedabad Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Institute of Rural Management
@@ -59,6 +60,12 @@ state: Gujarat
 > - **Core USP & Focus**: Premier management destination in **Anand, Gujarat** recognized for academic rigor (NIRF Rank #54 · NBA & AICTE Approved · AIU Equivalent) and industry-aligned specializations in **PGDM-RM (Rural Management) & PGDM-Management**.
 > - **Fee vs Average Package (ROI)**: Total tuition fee is **₹16.80 Lakhs (Total)** against an audited average domestic CTC of **₹15.50 LPA** (Median: **₹14.80 LPA**, Highest: **₹31.16 LPA**), delivering strong return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation + valid **CAT, XAT, CMAT** score (**80.0+ XAT / CAT %ile**) followed by structured GD-PI / WAT evaluation rounds.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for IRMA Anand MBA Admission 2027: Fees, Cutoff &?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹16.80 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Personalized Admission Guidance for IRMA Anand" description="Talk to expert counselor Mohit Jain for direct B-School profile evaluation, cutoff predictions, and fee structure comparisons." cta="Book Free Counselling" type="admission"]
 

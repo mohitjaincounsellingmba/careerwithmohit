@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in top Delhi colleges without CAT/MAT?
     answer: >-
@@ -67,7 +68,7 @@ In this guide, we break down the **Best Direct Admission ROI MBA/PGDM Colleges i
 
 ## What is a High ROI in MBA?
 
-Return on Investment (ROI) is simply how fast you can recover your tuition fees through your starting salary.
+**Return on Investment (ROI) is simply how fast you can recover your tuition fees through your starting salary.**
 * **Good ROI:** Average Package is almost equal to the Total Fees.
 * **Excellent ROI:** Average Package is higher than the Total Fees.
 

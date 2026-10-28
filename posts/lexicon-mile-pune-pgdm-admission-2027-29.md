@@ -29,6 +29,7 @@ keywords:
   - Pune Direct Admission 2026
   - Colleges in Maharashtra
   - Pune Career Counselling
+  - Pune Admissions 2027
 faqs:
   - question: What is the total fee for the PGDM (2027–29) Batch at Lexicon MILE Pune?
     answer: >-
@@ -80,6 +81,12 @@ state: Maharashtra
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹10.80 Lakhs (Total)** (**₹5.40 Lakhs per Year**). Merit scholarships up to ₹1.00 Lakh for academic toppers and entrance achievers.
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.50 LPA** (Top 25% at **₹9.20 LPA**) with a highest package of **₹13.30 LPA**. 20% PPO conversion through active live projects and internships.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Lexicon Management Institute of Leadership & ?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹10.80 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence/) (Lexicon MILE) (Lexicon MILE Pune)**, located in **Wagholi, Pune, Maharashtra**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

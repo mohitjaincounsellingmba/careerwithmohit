@@ -23,6 +23,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: 'Does [MDI Gurgaon](/colleges/mdi-gurgaon/) have a Management Quota?'
     answer: >-
@@ -61,7 +62,11 @@ category: Exams
 
 ---
 
-## 2. Eligibility for NRI/Foreign National Category
+## What are the Key Admissions, Fees, and Placement Details for Eligibility for NRI/Foreign National Category?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 For the 2027–29 batch, [MDI Gurgaon](/colleges/mdi-gurgaon/) follows strict AICTE norms for specialized category seats:
 *   **NRI Candidates:** Must have resided outside India for at least 180 days in a calendar year.
 *   **Foreign Nationals:** Candidates holding a passport of a country other than India.

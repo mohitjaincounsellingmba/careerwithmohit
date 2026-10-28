@@ -1,7 +1,7 @@
 ---
 name: SOIL Institute of Management Gurgaon
 logo: /logo.webp
-location: Gurgaon, Delhi NCR
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -22,7 +22,9 @@ exams:
 website: 'https://www.soil.edu.in'
 seo_title: 'SOIL Gurgaon MBA Fees, Cutoff & Placements 2027'
 seo_description: >-
-  Complete review of SOIL Institute of Management Gurgaon: 1-Year PGPM & 2-Year PGDM fees, average placement ₹11.2 LPA, cutoffs, ROI, and 2027 admission process.
+  Complete review of SOIL Institute of Management Gurgaon: 1-Year PGPM & 2-Year
+  PGDM fees, average placement ₹11.2 LPA, cutoffs, ROI, and 2027 admission
+  process.
 keywords:
   - SOIL Gurgaon review
   - SOIL Institute of Management Gurgaon
@@ -31,6 +33,12 @@ keywords:
   - SOIL Gurgaon placement report 2027
   - SOIL Gurgaon cutoff
   - SOIL Gurgaon PGDM admission 2027
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 state: Delhi NCR
 ---
 

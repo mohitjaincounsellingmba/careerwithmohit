@@ -64,7 +64,7 @@ The NTA has outlined the complete schedule for the upcoming examination to ensur
 
 ## 🛑 Why Was the Exam Rescheduled?
 
-In case you missed the developments over the past few weeks, the initial NEET UG exam held on May 3 was cancelled following massive public outcry over alleged paper leaks and systemic irregularities at certain centers. The Ministry of Education, prioritizing student fairness, scrapped the test and ordered a comprehensive investigation by the CBI.
+**In case you missed the developments over the past few weeks, the initial NEET UG exam held on May 3 was cancelled following massive public outcry over alleged paper leaks and systemic irregularities at certain centers. The Ministry of Education, prioritizing student fairness, scrapped the test and ordered a comprehensive investigation by the CBI.**
 
 *Read the full details here:* **[NEET UG 2026 Exam Cancelled: NTA Announces Re-Test Due to Irregularities](/blog/neet-ug-2026-exam-cancelled-nta-re-test-official-updates/)**
 

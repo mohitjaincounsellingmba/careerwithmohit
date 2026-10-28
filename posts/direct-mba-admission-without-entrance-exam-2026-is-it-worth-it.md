@@ -15,6 +15,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the process for management quota in 2026?
     answer: >-
@@ -57,6 +64,12 @@ There are three primary legal routes to securing a seat without a national entra
 > - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct MBA Admission Without Entrance Exam 20?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹15.0 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 ## 1. Management Quota Seats (15-20%)
 Most private and minority-affiliated B-schools in India (Noida, Pune, Mumbai, Bangalore) have a legally allotted **Management Quota**. These seats are filled directly by the institute based on merit and individual student profiles.

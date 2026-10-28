@@ -63,7 +63,11 @@ This is one of the most popular need-based scholarships for students from financ
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## **2. Aditya Birla Scholarship**
+## What are the Key Admissions, Fees, and Placement Details for **2. Aditya Birla Scholarship**?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 A highly prestigious merit-based award for students at top-tier B-schools.
 
 *   **Scholarship Amount**: ₹3 Lakhs per annum.
@@ -174,3 +178,12 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shortlisting based on your percentile & budget, and direct application assistance.
 
 👉 **[Click Here to Connect with Our Chief MBA Counsellor on WhatsApp](https://wa.me/919560020771?text=Hi%20Mohit,%20I%20need%20MBA/PGDM%202027-2029%20Admission%20Guidance)** or request a free callback through our inquiry desk.
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Top MBA Scholarships in India 2027–29: Eligib** | ₹2 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

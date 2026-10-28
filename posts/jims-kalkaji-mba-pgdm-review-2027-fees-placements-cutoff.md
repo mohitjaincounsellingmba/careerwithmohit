@@ -1,7 +1,7 @@
 ---
 title: 'JIMS Kalkaji PGDM Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 JIMS Kalkaji PGDM review with audited ₹8.80L placements,
   ₹9.80L fees, South Delhi advantage, and admission tips from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - jims kalkaji vs jims rohini comparison
   - direct admission in jims kalkaji
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at JIMS Kalkaji (South
@@ -49,8 +56,8 @@ faqs:
       focusing primarily on PGDM and International Business, whereas JIMS Rohini
       (Sector 5) is located in North-West Delhi offering both PGDM and GGSIPU
       programs.
-location: 'Kalkaji, South Delhi'
-state: New Delhi
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [JIMS Kalkaji (Jagannath International Management School)](https://careerwithmohit.online/blog/jims-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & South Delhi Advantage
@@ -274,7 +281,7 @@ Schedule a strategy session to evaluate your profile, explore merit scholarships
 
 ## 13. Final Counselor Verdict: Is JIMS Kalkaji Worth It?
 
-JIMS Kalkaji (Jagannath International Management School) is one of South Delhi's most consistent and reliable Tier-2 business schools.
+**JIMS Kalkaji (Jagannath International Management School) is one of South Delhi's most consistent and reliable Tier-2 business schools.**
 
 With NBA accreditation, AIU MBA equivalence, an established 25+ year pedigree, and fees of ₹9.80 Lakhs delivering audited average placements of ₹8.50 LPA to ₹8.80 LPA, it provides solid return on investment and corporate exposure in the heart of Delhi.
 

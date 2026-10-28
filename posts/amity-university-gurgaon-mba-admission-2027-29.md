@@ -32,6 +32,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the total fee for the MBA (2027–29) Batch at Amity Gurgaon?
     answer: >-
@@ -82,6 +83,12 @@ state: Delhi NCR
 > - **Verified 2027–29 Fee Structure**: Total 2-year program fee is **₹9.80 Lakhs (Total)** (**₹4.90 Lakhs per Year**). Up to 100% merit scholarship based on 12th/Graduation and CAT/MAT percentiles.
 > - **Accreditation & Approvals**: UGC Approved · NAAC Grade A+ Accredited · IACBE (USA) · WES Approved.
 > - **Audited Placements & PPO**: Average CTC stands at **₹6.80 LPA** (Top 25% at **₹9.50 LPA**) with a highest package of **₹21.00 LPA**. 20% of the batch secures PPOs through campus corporate partnership networks.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for Amity University Gurugram (Manesar) MBA / PGD?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹9.80 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 **[Amity University](/colleges/amity-noida/) Gurugram (Manesar) (Amity Gurgaon)**, located in **Amity Education Valley, Manesar, Gurugram**, is widely recognized among the premier business schools for the **2027–2029 academic batch**. Designed for high corporate readiness and global competence, the institution combines rigorous academic pedagogy with hands-on live business immersion.
 

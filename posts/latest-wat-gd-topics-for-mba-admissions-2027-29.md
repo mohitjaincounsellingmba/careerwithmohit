@@ -16,6 +16,13 @@ keywords:
   - Abstract GD topics for MBA
   - PESTLE framework for WAT
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 location: Delhi NCR
 faqs:
   - question: What is the Written Ability Test (WAT) in IIM admissions?
@@ -60,7 +67,11 @@ In this master repository, career counselor **Mohit Jain** presents **50+ of the
 
 ---
 
-## 🧠 Proven Analytical Frameworks for WAT & GD
+## What are the Key Admissions, Fees, and Placement Details for 🧠 Proven Analytical Frameworks for WAT & GD?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 Before looking at specific topics, master these two universally acclaimed frameworks to organize your arguments in under 60 seconds:
 
@@ -204,3 +215,12 @@ In most IIMs, the Personal Interview (PI) carries 30-40% weightage while WAT car
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Latest WAT/GD Topics for MBA Admissions 2026 ** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

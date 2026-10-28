@@ -21,6 +21,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -53,7 +60,7 @@ Unlike a regular MBA, the Executive MBA is specifically designed for **mid-to-se
 
 ## What is an Executive MBA (EMBA)?
 
-An **Executive MBA** is a postgraduate management program specifically designed for experienced working professionals, typically those with **5+ years of work experience**. It covers advanced management concepts — strategy, leadership, entrepreneurship, global business — and is delivered in a flexible format so you never need to leave your job.
+**An **Executive MBA** is a postgraduate management program specifically designed for experienced working professionals, typically those with **5+ years of work experience**. It covers advanced management concepts — strategy, leadership, entrepreneurship, global business — and is delivered in a flexible format so you never need to leave your job.**
 
 In 2026, top Executive MBA programs are available in **fully online mode**, making them accessible from anywhere in India or the world.
 

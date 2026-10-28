@@ -1,8 +1,10 @@
 ---
 title: 'All IIM Cutoff 2027: CAT Qualifying & Final Call Percentiles'
 date: '2026-10-09'
-category: MBA
-description: 'Check verified CAT 2026-2027 cutoffs for all 21 IIMs: BLACKI, New, and Baby IIMs. Compare qualifying vs final shortlist percentiles and CAP criteria.'
+category: Exams
+description: >-
+  Check verified CAT 2026-2027 cutoffs for all 21 IIMs: BLACKI, New, and Baby
+  IIMs. Compare qualifying vs final shortlist percentiles and CAP criteria.
 keywords:
   - all iim cut off 2027
   - cat 2026 cutoff for iim
@@ -12,17 +14,51 @@ keywords:
   - baby iims cap cutoff 2027
   - iim sectional cutoffs cat 2026
   - iim composite score calculator
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
-  - question: 'What is the difference between IIM Qualifying Cutoff and Final Call Cutoff?'
-    answer: 'The Qualifying Cutoff is the bare minimum percentile (typically 80–85%ile) required to make an applicant eligible for evaluation, whereas the Final Calling Cutoff is the actual competitive percentile (typically 97–99.5+%ile for General category) at which interview invitations (WAT-PI) are issued.'
-  - question: 'What is the minimum CAT percentile needed for IIM Ahmedabad, Bangalore, and Calcutta?'
-    answer: 'For General category candidates, realistic final shortlist calls for IIM Ahmedabad (IIMA), IIM Bangalore (IIMB), and IIM Calcutta (IIMC) generally start at 99.0 to 99.8+ percentile for engineers (GEM) and 97.5 to 98.5+ percentile for non-engineers with strong academic records.'
-  - question: 'Do all IIMs have mandatory sectional cutoffs in CAT?'
-    answer: 'Yes, almost all 21 IIMs mandate sectional qualifying cutoffs across VARC (Verbal Ability & Reading Comprehension), DILR (Data Interpretation & Logical Reasoning), and QA (Quantitative Aptitude), usually ranging between 70 to 80 percentile for General category candidates.'
-  - question: 'Can I get into an IIM with an 85 to 90 CAT percentile?'
-    answer: 'Yes, candidates scoring between 85 and 92 percentile can secure interview calls from Baby IIMs (such as IIM Bodh Gaya, IIM Jammu, IIM Sirmaur, and IIM Sambalpur) through the Common Admission Process (CAP) or SAP, especially if they have academic or gender diversity points.'
-  - question: 'How is the IIM Composite Score calculated for final admissions?'
-    answer: 'IIMs compute a Composite Score (CS) combining CAT exam percentile (40%–60% weightage), Class 10th and 12th board marks (10%–20%), graduation scores (5%–15%), quality work experience (5%–10%), and academic/gender diversity points (5%–10%).'
+  - question: >-
+      What is the difference between IIM Qualifying Cutoff and Final Call
+      Cutoff?
+    answer: >-
+      The Qualifying Cutoff is the bare minimum percentile (typically 80–85%ile)
+      required to make an applicant eligible for evaluation, whereas the Final
+      Calling Cutoff is the actual competitive percentile (typically
+      97–99.5+%ile for General category) at which interview invitations (WAT-PI)
+      are issued.
+  - question: >-
+      What is the minimum CAT percentile needed for IIM Ahmedabad, Bangalore,
+      and Calcutta?
+    answer: >-
+      For General category candidates, realistic final shortlist calls for IIM
+      Ahmedabad (IIMA), IIM Bangalore (IIMB), and IIM Calcutta (IIMC) generally
+      start at 99.0 to 99.8+ percentile for engineers (GEM) and 97.5 to 98.5+
+      percentile for non-engineers with strong academic records.
+  - question: Do all IIMs have mandatory sectional cutoffs in CAT?
+    answer: >-
+      Yes, almost all 21 IIMs mandate sectional qualifying cutoffs across VARC
+      (Verbal Ability & Reading Comprehension), DILR (Data Interpretation &
+      Logical Reasoning), and QA (Quantitative Aptitude), usually ranging
+      between 70 to 80 percentile for General category candidates.
+  - question: Can I get into an IIM with an 85 to 90 CAT percentile?
+    answer: >-
+      Yes, candidates scoring between 85 and 92 percentile can secure interview
+      calls from Baby IIMs (such as IIM Bodh Gaya, IIM Jammu, IIM Sirmaur, and
+      IIM Sambalpur) through the Common Admission Process (CAP) or SAP,
+      especially if they have academic or gender diversity points.
+  - question: How is the IIM Composite Score calculated for final admissions?
+    answer: >-
+      IIMs compute a Composite Score (CS) combining CAT exam percentile (40%–60%
+      weightage), Class 10th and 12th board marks (10%–20%), graduation scores
+      (5%–15%), quality work experience (5%–10%), and academic/gender diversity
+      points (5%–10%).
+location: Mumbai
+state: Maharashtra
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**

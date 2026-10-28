@@ -18,6 +18,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -61,7 +68,7 @@ Engineering admissions in India are divided into competitive tiers. Based on his
 
 ## 🚀 How to Use the B.Tech College Predictor?
 
-Our tool uses a **Zonal Mapping Algorithm** to help you find colleges in your preferred region (North, South, East, West). It categorizes your chances into three zones:
+**Our tool uses a **Zonal Mapping Algorithm** to help you find colleges in your preferred region (North, South, East, West). It categorizes your chances into three zones:**
 
 ### 1. Choice Selection (Target Zone)
 These are the colleges that perfectly match your current percentile. You should prioritize these in your JoSAA or state-level counselling rounds.

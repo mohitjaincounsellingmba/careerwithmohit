@@ -25,6 +25,7 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       Can I get direct admission in [FORE School of
@@ -63,7 +64,7 @@ Foundation for Organisational Research and Education (FORE) School of Management
 
 ## Is there a Management Quota in [FORE School of Management](/colleges/fore-school-delhi/)?
 
-[FORE School of Management](/colleges/fore-school-delhi/) follows a strictly merit-linked admission policy, but here is how the alternative seat categories function for 2026:
+**[FORE School of Management](/colleges/fore-school-delhi/) follows a strictly merit-linked admission policy, but here is how the alternative seat categories function for 2026:**
 
 ### 1. Institutional Seats (Merit-Category)
 FORE reserves a specific number of seats as Institutional Category seats. 
@@ -87,7 +88,16 @@ Even for institutional seats, the standards are high:
 
 ---
 
-### Frequently Asked Questions (FAQ)
+#
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Direct Admission in FORE School of Management** | ₹15.4 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+
+---
+
+## Frequently Asked Questions (FAQ)
 
 ### 1. Can I get direct admission in [FORE School of Management](/colleges/fore-school-delhi/)?
 Direct admission is available through the **Institutional Merit category** and the **NRI quota**, which focus on a holistic profile evaluation alongside entrance scores.

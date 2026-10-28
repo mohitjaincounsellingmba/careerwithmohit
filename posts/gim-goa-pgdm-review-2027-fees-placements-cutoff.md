@@ -1,7 +1,7 @@
 ---
 title: 'GIM Goa PGDM Review 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-26'
-category: MBA
+category: Exams
 description: >-
   Read verified 2027 GIM Goa PGDM review with audited ₹15.00 LPA placements,
   ₹19.50L fees, CAT/XAT/CMAT cutoffs, and admissions advice from Mohit Jain.
@@ -183,7 +183,7 @@ Located in Sanquelim against the scenic Western Ghats, GIM Goa offers an inspiri
 
 ## 6. Mohit's Candid Counselor Take: Is GIM Goa Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of GIM Goa:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of GIM Goa:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

@@ -1,7 +1,7 @@
 ---
 title: 'USP of Alliance University Bangalore MBA 2027–29: Key USPs, Fees & Placements'
 date: '2026-10-05'
-category: MBA
+category: Exams
 description: >-
   Discover the top USPs of Alliance University Bangalore MBA 2027-29. Explore
   AACSB membership, Bangalore corporate edge, ₹40 LPA peak package.
@@ -16,6 +16,13 @@ keywords:
   - best mba colleges in bangalore 2027
   - alliance mba global immersion aacsb
   - alliance university mba admission 2027-29
+  - Bangalore Colleges
+  - Best Colleges in Bangalore
+  - Top Colleges in Bangalore 2026
+  - Bangalore Direct Admission 2026
+  - Colleges in Karnataka
+  - Bangalore Career Counselling
+  - Bangalore Admissions 2027
 faqs:
   - question: What is the main USP of Alliance University Bangalore MBA Program?
     answer: >-

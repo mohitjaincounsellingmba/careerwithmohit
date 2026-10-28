@@ -1,7 +1,7 @@
 ---
 title: 'December MAT Exam 2026: MBA Admission 2027 Cutoffs, Fees & Strategy'
 date: '2026-10-02'
-category: MBA
+category: Online Degrees
 description: >-
   Complete guide for December MAT Exam 2026/2027. Check top MBA & PGDM 2027
   accepting colleges (PUMBA, Welingkar, BIMTECH, XIME), expected cutoffs, fees.
@@ -14,6 +14,13 @@ keywords:
   - welingkar dec mat cutoff 2027
   - free mat mock test online
   - mba admission direct through mat
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: When is the December MAT 2026/2027 exam conducted?
     answer: >-

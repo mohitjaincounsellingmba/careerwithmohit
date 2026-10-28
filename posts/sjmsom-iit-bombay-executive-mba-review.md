@@ -5,7 +5,8 @@ title: >-
 date: '2026-07-22'
 description: >-
   Read an honest review of the Executive MBA / PGDM program at Shailesh J. Mehta
-  School of Management (SJMSOM), IIT Bombay.
+  School of Management (SJMSOM), IIT Bombay for 2026-2027 admissions & career
+  guidance.
 keywords:
   - 'Shailesh J. Mehta School of Management (SJMSOM), IIT Bombay executive mba'
   - >-
@@ -25,6 +26,7 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 category: Exams
 faqs:
   - question: Is the degree awarded jointly by IIT Bombay and WashU?
@@ -55,7 +57,11 @@ In this review, we break down everything you need to know: fees, admission cutof
 
 ---
 
-## 🏆 Program Overview
+## What are the Key Admissions, Fees, and Placement Details for 🏆 Program Overview?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 - **Official Course Name:** Executive MBA (Joint degree with Washington University in St. Louis)
 - **Approximate Fees:** ₹36.00 Lakhs (Total Fees)

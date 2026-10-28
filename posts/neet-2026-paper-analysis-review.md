@@ -16,6 +16,13 @@ keywords:
   - neet 2026 physics review
   - neet ug 2026 student reactions
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: How can I choose the right college for higher studies?
     answer: >-
@@ -103,7 +110,7 @@ Given the difficulty level and the increasing number of candidates, we expect th
 
 ## 🗓️ What’s Next?
 
-1.  **Answer Key:** Unofficial answer keys from top coaching institutes (like Aakash, Allen, etc.) will be available by tonight.
+**1.  **Answer Key:** Unofficial answer keys from top coaching institutes (like Aakash, Allen, etc.) will be available by tonight.**
 2.  **OMR Challenge:** NTA is expected to release the official scanned OMR sheets and provisional answer keys by the third week of May.
 3.  **Results:** Expected in the second or third week of June 2026.
 

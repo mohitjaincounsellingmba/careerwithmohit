@@ -13,6 +13,13 @@ keywords:
   - salary after bba vs bcom 2026
   - bba vs bcom for ca students
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: is Math mandatory for BBA in 2026?
     answer: >-

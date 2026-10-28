@@ -1,7 +1,7 @@
 ---
 title: 'Great Lakes Chennai MBA Review 2027: Fees & Placements'
 date: '2026-09-26'
-category: MBA
+category: Exams
 description: >-
   Read verified 2027 Great Lakes Chennai PGPM/PGDM review with audited ₹18.10L
   placements, ₹21.00L fees, CAT cutoffs, and expert tips from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - great lakes review 2027
   - top mba colleges in chennai
   - mohit jain mba admissions counselor
+  - Chennai Colleges
+  - Best Colleges in Chennai
+  - Top Colleges in Chennai 2026
+  - Chennai Direct Admission 2026
+  - Colleges in Tamil Nadu
+  - Chennai Career Counselling
+  - Chennai Admissions 2027
 faqs:
   - question: What is the average placement package at Great Lakes Chennai in 2026-2027?
     answer: >-
@@ -180,7 +187,7 @@ Located along the scenic East Coast Road in Chennai, Great Lakes offers world-cl
 
 ## 6. Mohit's Candid Counselor Take: Is Great Lakes Chennai Right for You?
 
-Having evaluated thousands of student profiles, here is my balanced strategic assessment of Great Lakes Chennai:
+**Having evaluated thousands of student profiles, here is my balanced strategic assessment of Great Lakes Chennai:**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

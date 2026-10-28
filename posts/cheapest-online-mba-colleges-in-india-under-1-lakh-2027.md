@@ -19,6 +19,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 image: /og-image.webp
 faqs:
   - question: Which is the cheapest UGC-DEB approved Online MBA in India in 2027?
@@ -121,7 +128,7 @@ Compare premium options: [Amity vs Jain Online](/online-degree-certification/ami
 
 ## Who Should Pursue an Online MBA Under ₹1 Lakh?
 
-1. **Government & Civil Service Aspirants**: Candidates preparing for UPSC, SSC CGL, or State PSCs who want a formal Master's degree as a safety net without heavy financial burden.
+**1. **Government & Civil Service Aspirants**: Candidates preparing for UPSC, SSC CGL, or State PSCs who want a formal Master's degree as a safety net without heavy financial burden.**
 2. **Promotions in PSUs & Banking**: Working professionals in public sector undertakings or nationalized banks where a formal Master's degree triggers mandatory promotion scale upgrades.
 3. **Small Business Owners & Entrepreneurs**: Founders looking to build foundational business knowledge in accounting, taxation, and team management.
 4. **Professionals on a Budget**: Anyone wanting to upskill without accumulating educational debt.

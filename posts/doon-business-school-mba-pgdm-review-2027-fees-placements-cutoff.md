@@ -1,7 +1,7 @@
 ---
 title: 'Doon Business School PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for Doon Business School (DBS Dehradun)
   (Selaqui, Dehradun, Uttarakhand). Check updated fee structure (₹8.90 Lakhs
@@ -15,6 +15,13 @@ keywords:
   - direct admission in doon business school (dbs dehradun)
   - top pgdm colleges in selaqui
   - 'best mba colleges in dehradun, uttarakhand'
+  - Dehradun Colleges
+  - Best Colleges in Dehradun
+  - Top Colleges in Dehradun 2026
+  - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
+  - Dehradun Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Doon Business School (DBS
@@ -43,11 +50,15 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Selaqui
-state: 'Dehradun, Uttarakhand'
+location: Dehradun
+state: Uttarakhand
 ---
 
-## [Doon Business School (DBS Dehradun)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
+## What are the Key Admissions, Fees, and Placement Details for [Doon Business School (DBS Dehradun)](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier management institute in **Selaqui, Dehradun, Uttarakhand** accredited with **AICTE Approved · NAAC Accredited · Global Certifications (SAP, KPMG, Bloomberg)** offering career-focused programs in **PGDM, MBA, MBA International Business, PGDM Global**.

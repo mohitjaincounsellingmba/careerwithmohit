@@ -39,6 +39,12 @@ faqs:
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
+## What are the Admission Cutoffs, Fees, and Placement Records for Best PGDM Specializations for High Salaries (?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹9.50 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
+
 Choosing the right **PGDM specialization** is just as critical as choosing the right business school. As automation, Artificial Intelligence (AI), and data-driven decision-making re-shape global industry, traditional general management degrees are giving way to **high-demand, specialized PGDM tracks**.
 
 For candidates entering the **2027-29 academic batch**, selecting a future-proof specialization ensures higher starting salaries, faster career progression, and job security.

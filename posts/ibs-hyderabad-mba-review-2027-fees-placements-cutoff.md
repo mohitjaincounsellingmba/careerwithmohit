@@ -26,6 +26,7 @@ keywords:
   - Hyderabad Direct Admission 2026
   - Colleges in Telangana
   - Hyderabad Career Counselling
+  - Hyderabad Admissions 2027
 faqs:
   - question: What entrance exams are accepted by IBS Hyderabad?
     answer: >-

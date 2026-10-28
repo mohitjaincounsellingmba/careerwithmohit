@@ -17,6 +17,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: Is an online MBA degree recognized by the government?
     answer: >-
@@ -279,7 +286,7 @@ Most online MBA programs in India have simple eligibility requirements:
 
 ## Need Help Choosing the Right Online MBA?
 
-Every student has different goals, budget, and background. Our expert counselors will help you find the **best online MBA match for your profile — for FREE**.
+**Every student has different goals, budget, and background. Our expert counselors will help you find the **best online MBA match for your profile — for FREE**.**
 
 [👉 Get Free Counseling & Find Your College](https://cvadm.com/G1fbUg)
 

@@ -16,6 +16,13 @@ keywords:
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What if I hold crypto for more than 3 years?
     answer: >-
@@ -61,7 +68,7 @@ This guide provides a definitive **Cryptocurrency Taxation roadmap for India in 
 
 ## 🏛️ 1. What qualifies as a Virtual Digital Asset (VDA)?
 
-Under Section 2(47A) of the Income Tax Act, VDA includes:
+**Under Section 2(47A) of the Income Tax Act, VDA includes:**
 *   All Cryptocurrencies (Bitcoin, Ethereum, Altcoins).
 *   Non-Fungible Tokens (NFTs).
 *   Any other digital token representing value.

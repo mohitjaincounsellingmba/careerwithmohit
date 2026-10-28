@@ -1,8 +1,10 @@
 ---
 title: 'IIM Bodh Gaya MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-10-09'
-category: MBA Admissions
-description: 'Verified 2027 fees (₹15.5L), 119-acre campus, placements (₹15L avg), CAT cutoffs (88%+) & CAP admission guide for IIM Bodh Gaya by Mohit Jain.'
+category: MBA
+description: >-
+  Verified 2027 fees (₹15.5L), 119-acre campus, placements (₹15L avg), CAT
+  cutoffs (88%+) & CAP admission guide for IIM Bodh Gaya by Mohit Jain.
 keywords:
   - iim bodh gaya mba review 2027
   - iim bodh gaya fee structure 2027
@@ -11,17 +13,39 @@ keywords:
   - iim bodh gaya selection criteria mba dbm hhm
   - top 3rd generation iims in east india
 faqs:
-  - question: 'What is the total fee structure for the MBA program at IIM Bodh Gaya?'
-    answer: 'The total 2-year tuition and residential fee for the flagship MBA / MBA-DBM / MBA-HHM programs at IIM Bodh Gaya is approximately ₹15.50 Lakhs to ₹17.00 Lakhs, payable in term-wise installments. The fee covers academic tuition, air-conditioned single-room hostel accommodation, and digital database access.'
-  - question: 'What is the average and highest placement package at IIM Bodh Gaya?'
-    answer: 'During recent campus placement seasons, IIM Bodh Gaya recorded an overall average domestic package of ₹14.50 to ₹15.80 LPA, with the top 25% cohort securing an average CTC of ₹18.50 LPA and peak domestic offers touching ₹32.50 to ₹48.58 LPA.'
-  - question: 'What specialized MBA programs are offered at IIM Bodh Gaya?'
-    answer: 'In addition to its core 2-year MBA, IIM Bodh Gaya offers specialized programs in MBA in Digital Business Management (MBA-DBM) and MBA in Hospital & Healthcare Management (MBA-HHM).'
-  - question: 'What is the CAT cutoff required for an interview call at IIM Bodh Gaya via IIM CAP?'
-    answer: 'IIM Bodh Gaya shortlists candidates through the Common Admission Process (IIM CAP). Expected safe qualifying percentiles for General category aspirants range between 90 and 93+ percentile, with sectional cutoffs of 70 percentile across VARC, DILR, and QA.'
-  - question: 'Does IIM Bodh Gaya offer education loan assistance and scholarships?'
-    answer: 'Yes, admitted students at IIM Bodh Gaya can avail 100% collateral-free education loans under the SBI Scholar Scheme and Canara Bank at concessional interest rates, along with Central Sector Scholarships for eligible categories.'
-location: 'Bodh Gaya'
+  - question: What is the total fee structure for the MBA program at IIM Bodh Gaya?
+    answer: >-
+      The total 2-year tuition and residential fee for the flagship MBA /
+      MBA-DBM / MBA-HHM programs at IIM Bodh Gaya is approximately ₹15.50 Lakhs
+      to ₹17.00 Lakhs, payable in term-wise installments. The fee covers
+      academic tuition, air-conditioned single-room hostel accommodation, and
+      digital database access.
+  - question: What is the average and highest placement package at IIM Bodh Gaya?
+    answer: >-
+      During recent campus placement seasons, IIM Bodh Gaya recorded an overall
+      average domestic package of ₹14.50 to ₹15.80 LPA, with the top 25% cohort
+      securing an average CTC of ₹18.50 LPA and peak domestic offers touching
+      ₹32.50 to ₹48.58 LPA.
+  - question: What specialized MBA programs are offered at IIM Bodh Gaya?
+    answer: >-
+      In addition to its core 2-year MBA, IIM Bodh Gaya offers specialized
+      programs in MBA in Digital Business Management (MBA-DBM) and MBA in
+      Hospital & Healthcare Management (MBA-HHM).
+  - question: >-
+      What is the CAT cutoff required for an interview call at IIM Bodh Gaya via
+      IIM CAP?
+    answer: >-
+      IIM Bodh Gaya shortlists candidates through the Common Admission Process
+      (IIM CAP). Expected safe qualifying percentiles for General category
+      aspirants range between 90 and 93+ percentile, with sectional cutoffs of
+      70 percentile across VARC, DILR, and QA.
+  - question: Does IIM Bodh Gaya offer education loan assistance and scholarships?
+    answer: >-
+      Yes, admitted students at IIM Bodh Gaya can avail 100% collateral-free
+      education loans under the SBI Scholar Scheme and Canara Bank at
+      concessional interest rates, along with Central Sector Scholarships for
+      eligible categories.
+location: Bodh Gaya
 state: 'Bodh Gaya, Bihar'
 ---
 
@@ -41,7 +65,11 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provide
 
 ---
 
-## 🏛️ IIM Bodh Gaya: Fast Facts Snapshot (2027 Intake)
+## What are the Key Admissions, Fees, and Placement Details for 🏛️ IIM Bodh Gaya: Fast Facts Snapshot (2027 Intake)?
+
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 **IIM Bodh Gaya delivers an industry-integrated 2-year residential management curriculum recognized by the Ministry of Education, Government of India.**
 

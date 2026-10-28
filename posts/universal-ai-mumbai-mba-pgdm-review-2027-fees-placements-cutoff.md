@@ -1,7 +1,7 @@
 ---
 title: 'UBS Mumbai PGDM 2027: Fees, Cutoff & Placements ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Verified 2027 admission review for Universal Business School (UBS Mumbai) /
   Universal AI University (Karjat, Greater Mumbai).
@@ -24,6 +24,13 @@ keywords:
     university
   - top pgdm colleges in karjat
   - best mba colleges in greater mumbai
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the average placement package at Universal Business School (UBS
@@ -52,8 +59,8 @@ faqs:
     answer: >-
       Yes, candidates with valid graduation marks (50%+) and national entrance
       exam scores can apply for merit and profile-based direct evaluation seats.
-location: Karjat
-state: Greater Mumbai
+location: Mumbai
+state: Maharashtra
 ---
 
 ## [Universal Business School (UBS Mumbai) / Universal AI University](/mba-pgdm-admission-2027/) Review 2027: Fees, Cutoff, Placements & Direct Admission ROI
@@ -62,6 +69,12 @@ state: Greater Mumbai
 > - **Core USP & Focus**: Premier management institute in **Karjat, Greater Mumbai** accredited with **AICTE Approved · India's 1st AI University** offering career-focused programs in **MBA (Single Specialization), MBA (Dual Specialization)**.
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹11.08L - ₹13.08L (Total)** against an average domestic CTC of **₹10.5 LPA** (Highest package: **₹42.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
+
+## What are the Admission Cutoffs, Fees, and Placement Records for UBS Mumbai PGDM 2027: Fees, Cutoff & Placemen?
+
+**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹10.5 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
+
+
 
 [InquiryCard title="Get Direct Admission Guidance for UBS Mumbai" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 

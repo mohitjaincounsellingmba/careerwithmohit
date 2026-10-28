@@ -1,7 +1,7 @@
 ---
 title: 'ITM Navi Mumbai PGDM Review 2027: Fees, Cutoff & ROI'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 ITM Navi Mumbai PGDM review with audited ₹10.50L
   placements, ₹12.45L fees, cutoffs, and direct admission advice from Mohit
@@ -15,6 +15,13 @@ keywords:
   - itm business school navi mumbai ranking
   - direct admission in itm kharghar
   - mohit jain mba admissions counselor
+  - Mumbai Colleges
+  - Best Colleges in Mumbai
+  - Top Colleges in Mumbai 2026
+  - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
+  - Mumbai Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at ITM Business School Navi
@@ -48,7 +55,7 @@ faqs:
       waivers ranging from 10% up to 100% based on academic merit, entrance
       percentiles, and performance in the nationwide scholarship screening
       round.
-location: 'Kharghar, Navi Mumbai'
+location: Mumbai
 state: Maharashtra
 ---
 
@@ -302,7 +309,7 @@ Position yourself to leverage Mumbai's BFSI, fintech, and digital corporate clus
 
 ## 13. Final Counselor Verdict: Is ITM Navi Mumbai Worth It?
 
-ITM Business School Navi Mumbai (Kharghar) is an established Tier-2 management institution offering a strong value proposition for students targeting the financial and corporate ecosystem of Mumbai.
+**ITM Business School Navi Mumbai (Kharghar) is an established Tier-2 management institution offering a strong value proposition for students targeting the financial and corporate ecosystem of Mumbai.**
 
 Its 5-month iConnect corporate residency gives students an edge in securing Pre-Placement Offers compared to traditional two-month summer internships. With average placement packages verified at ₹10.50 LPA against a ₹12.45 Lakhs tuition fee, ITM provides solid return on investment for ambitious management aspirants.
 

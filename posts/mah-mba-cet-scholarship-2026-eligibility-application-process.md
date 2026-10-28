@@ -12,6 +12,13 @@ keywords:
   - Maharashtra MBA fee reimbursement
   - Rajarshi Shahu Maharaj scholarship MBA 2027–29
   - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -47,9 +54,11 @@ In this guide, we break down everything you need to know about the **MAH MBA CET
 
 Most state scholarships in Maharashtra are administered through the **MahaDBT (Direct Benefit Transfer)** portal. Here are the most common schemes:
 
-##
+## What are the Key Admissions, Fees, and Placement Details for [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]?
 
-[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
+**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+
+
 
 ## **A. Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)**
 *   **Target Group**: Economically Backward Class (EBC) / Open Category students.
@@ -154,3 +163,12 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **MAH MBA CET Scholarship 2027–29: Eligibility,** | ₹8 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

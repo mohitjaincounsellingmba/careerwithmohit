@@ -1,7 +1,7 @@
 ---
 title: 'SAITM Gurgaon MBA Review 2027: Fees, Cutoff & Placements'
 date: '2026-09-27'
-category: MBA Admissions
+category: Exams
 description: >-
   Read verified 2027 SAITM Gurgaon MBA review with audited ₹4.50L placements,
   ₹3.25L fees, cutoffs, and direct admission advice from Mohit Jain.
@@ -14,6 +14,13 @@ keywords:
   - direct admission in saitm gurgaon
   - low budget mba colleges in gurgaon
   - mohit jain mba admissions counselor
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is the audited average placement package at SAITM Gurgaon for
@@ -51,8 +58,8 @@ faqs:
       candidates with qualifying graduation marks. Prospective students can
       connect through counselor guidance for application assistance and
       scholarship evaluation.
-location: Gurugram
-state: Haryana
+location: Delhi NCR
+state: Delhi NCR
 ---
 
 ## [St. Andrews Institute of Technology & Management (SAITM Gurgaon)](https://careerwithmohit.online/blog/st-andrews-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint

@@ -116,7 +116,7 @@ You will learn SEO, SEM, Social Media Marketing, and Email Automation—all inte
 
 ## Why Choose IIDE Over Traditional Colleges?
 
-1. **Industry-Vetted Curriculum**: The syllabus is constantly updated to reflect the latest algorithm changes and market trends.
+**1. **Industry-Vetted Curriculum**: The syllabus is constantly updated to reflect the latest algorithm changes and market trends.**
 2. **Practical Application**: You don't just read about campaigns; you run them.
 3. **Networking Opportunities**: Direct interaction with industry stalwarts and a strong alumni network.
 
@@ -149,3 +149,12 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---
+
+
+---
+
+## Verified Admissions & Placement Facts Matrix
+
+| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
+| :--- | :--- | :--- | :--- |
+| **Top IIDE Digital Marketing & AI Courses Revie** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

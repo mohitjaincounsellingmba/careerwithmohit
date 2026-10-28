@@ -17,6 +17,7 @@ keywords:
   - Kolkata Direct Admission 2026
   - Colleges in West Bengal
   - Kolkata Career Counselling
+  - Kolkata Admissions 2027
 faqs:
   - question: 'Which pays more in 2027, MBA Business Analytics or Data Science?'
     answer: >-
