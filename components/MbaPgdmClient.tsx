@@ -495,7 +495,7 @@ function CollegeDetailModal({
 
             {reviewSlug && (
               <Link
-                href={`/blog/${reviewSlug}`}
+                href={`/blog/${reviewSlug}/`}}
                 className="bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold px-5 py-4 rounded-xl transition-colors text-xs flex items-center justify-center gap-1.5"
               >
                 <GraduationCap size={16} className="text-[#6336EA]" />
@@ -1117,7 +1117,7 @@ export default function MbaPgdmClient() {
 
                       {reviewSlug ? (
                         <Link
-                          href={`/blog/${reviewSlug}`}
+                          href={`/blog/${reviewSlug}/`}}
                           className="font-bold text-[#6336EA] hover:text-purple-700 hover:underline flex items-center gap-1"
                         >
                           <span>Full Review</span>

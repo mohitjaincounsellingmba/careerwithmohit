@@ -60,7 +60,7 @@ export function SxoFloatingBar({ title, slug }: SxoFloatingBarProps) {
       {isVisible && !isDismissed && (
         <aside
           aria-label="Quick Admissions Consultation Bar"
-          className="fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:max-w-md z-40 animate-in fade-in slide-in-from-bottom-5 duration-300"
+          className="hidden sm:block fixed bottom-4 right-6 max-w-md z-40 animate-in fade-in slide-in-from-bottom-5 duration-300"
         >
           <div className="bg-slate-950 text-white border-4 border-foreground rounded-2xl p-3.5 sm:p-4 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] relative overflow-hidden flex flex-col gap-2.5">
             {/* Top Row: Context & Dismiss */}

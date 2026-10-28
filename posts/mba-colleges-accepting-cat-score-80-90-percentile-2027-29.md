@@ -79,12 +79,12 @@ Here is the definitive guide curated by **Mohit Jain** on the **Top MBA Colleges
 | **[LBSIM Delhi](/colleges/lbsim-delhi/)** | New Delhi | 83 – 86 %ile | ₹16.50 Lakhs | ₹13.80 LPA | ₹24.75 LPA |
 | **[Goa Institute of Management (GIM)](/colleges/)** | Goa | 85 – 88 %ile | ₹19.50 Lakhs | ₹15.20 LPA | ₹55.00 LPA |
 | **[TAPMI Manipal](/colleges/tapmi-bangalore/)** | Manipal, Karnataka | 85 – 88 %ile | ₹18.50 Lakhs | ₹14.60 LPA | ₹32.00 LPA |
-| **[Great Lakes Institute of Management](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff)** | Chennai / Gurgaon | 80 – 85 %ile | ₹19.80 Lakhs | ₹15.10 LPA | ₹34.00 LPA |
+| **[Great Lakes Institute of Management]((/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** | Chennai / Gurgaon | 80 – 85 %ile | ₹19.80 Lakhs | ₹15.10 LPA | ₹34.00 LPA |
 | **[BIMTECH](/colleges/bimtech-greater-noida/)** | Greater Noida, NCR | 80 – 85 %ile | ₹15.00 Lakhs | ₹11.80 LPA | ₹24.40 LPA |
 | **[KJ Somaiya Institute of Management](/colleges/kj-somaiya-mumbai/)** | Mumbai | 84 – 87 %ile | ₹20.50 Lakhs | ₹13.40 LPA | ₹28.25 LPA |
 | **[IRMA](/colleges/institute-of-rural-management/)** | Anand, Gujarat | 80 – 85 %ile | ₹17.00 Lakhs | ₹14.14 LPA | ₹31.16 LPA |
-| **[LIBA](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)** | Chennai | 80 – 82 %ile | ₹17.50 Lakhs | ₹11.50 LPA | ₹20.50 LPA |
-| **[IMI Kolkata](/colleges/imi-kolkata/) / [Bhubaneswar](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)** | Kolkata / Odisha | 80 – 83 %ile | ₹14.50 Lakhs | ₹12.20 LPA | ₹22.00 LPA |
+| **[LIBA]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)** | Chennai | 80 – 82 %ile | ₹17.50 Lakhs | ₹11.50 LPA | ₹20.50 LPA |
+| **[IMI Kolkata](/colleges/imi-kolkata/) / [Bhubaneswar]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)** | Kolkata / Odisha | 80 – 83 %ile | ₹14.50 Lakhs | ₹12.20 LPA | ₹22.00 LPA |
 | **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** | Pune | 80 – 83 %ile | ₹16.00 Lakhs | ₹15.22 LPA | ₹23.50 LPA |
 
 ---

@@ -94,8 +94,8 @@ located in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 ## Related Reads
 - [All About Doon Business School](/colleges/doon-business-school)
-- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

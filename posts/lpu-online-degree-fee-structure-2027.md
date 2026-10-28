@@ -117,7 +117,7 @@ The **Online MBA** at LPU is a 2-year (4-semester) program with specializations 
 
 ## How to Apply for Admissions
 
-1. Check program details on our [LPU Online Directory Page](https://www.careerwithmohit.online/online-degree-certification/lovely-professional-university-lpu-online).
+1. Check program details on our [LPU Online Directory Page](https://careerwithmohit.online/online-degree-certification/lovely-professional-university-lpu-online).
 2. Connect with Counsellor Mohit Jain for official scholarship verification and zero-cost EMI assistance.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

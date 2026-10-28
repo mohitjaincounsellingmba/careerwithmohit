@@ -140,7 +140,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
   - Industry-aligned **BBA in Banking, Financial Services and Insurance (BFSI)**.
   - Academic collaboration with **NSE Academy** and industry partners for practical financial markets certification.
   - Located in Gurugram, giving students proximity to Fortune 500 financial corporations and fintech startups.
-- **Related Read**: [GD Goenka University Gurgaon Complete Review](/blog/gd-goenka-bba-review-2026)
+- **Related Read**: [GD Goenka University Gurgaon Complete Review]((/blog/gd-goenka-bba-review-2026/)
 
 ---
 
@@ -211,7 +211,7 @@ For students seeking self-financed private colleges affiliated with established 
   - Degree awarded by **Guru Gobind Singh Indraprastha University (GGSIPU)**, Delhi.
   - Admissions conducted via **IPU CET** or **CUET UG**, ensuring a competitive and merit-based peer group.
   - Direct placements in Delhi-based banking branches, wealth management firms, and financial consultancies.
-- **Related Read**: [JIMS Delhi BBA Admission 2026 & Fee Structure](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+- **Related Read**: [JIMS Delhi BBA Admission 2026 & Fee Structure]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 

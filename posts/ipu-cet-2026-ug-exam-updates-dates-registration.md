@@ -77,7 +77,7 @@ The CET is mandatory for the following flagship undergraduate programs at IPU:
 
 ## Next Steps & Useful Links
 - **B.Tech Aspirants:** Check the [Best B.Tech CSE Colleges in Delhi NCR](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/) for your preference list.
-- **Exam Details:** Read our in-depth guide on [All About IPU CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29).
+- **Exam Details:** Read our in-depth guide on [All About IPU CET Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/).
 - **Direct Admission:** Explore [Direct Admission Options in IPU Colleges](/blog/ipu-cet-mba-colleges-ggsipu/).
 
 Stay tuned to the official website **ipu.ac.in** for the course-wise detailed timetable of the entrance exams.

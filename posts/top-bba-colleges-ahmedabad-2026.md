@@ -127,7 +127,7 @@ For top-tier colleges like Nirma and AU, the average package ranges from ₹6L t
 ### Useful Links:
 - [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
 - [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
-- [Admission in [Nirma University](/colleges/nirma-institute-of-management/) — IPMAT Guide](/blog/ipmat-2026-preparation-guide-colleges)
+- [Admission in [Nirma University](/colleges/nirma-institute-of-management/) — IPMAT Guide]((/blog/ipmat-2026-preparation-guide-colleges/)
 
 ---
 

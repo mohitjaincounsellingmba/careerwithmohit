@@ -93,7 +93,7 @@ IILM maintains an impressive ~100% placement rate. The dedicated Career Developm
 
 IILM Jaipur has a profile-based admission process but relies on standard management entrance exams to shortlist candidates.
 
-1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT](/blog/10-tips-to-crack-cat-exam-2027-29), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29), XAT, or NMAT.
+1.  **Entrance Exam Score**: Must have a valid score in exams like [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), XAT, or NMAT.
 2.  **Cutoffs**:
     *   **CAT/XAT**: Typically requires ~50+ percentile.
     *   **MAT/CMAT**: Requires a decent composite score or rank (a MAT score of 550+ can make you eligible for good scholarships).

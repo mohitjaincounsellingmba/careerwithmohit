@@ -178,7 +178,7 @@ It depends on the college. Some institutes charge a premium "donation" fee for M
 > [!TIP]
 > **Need help picking the right college?** Don't waste money on high-fee colleges with poor placements. Connect with **Mohit Jain** for a data-driven admission strategy. [Click here to book a free consultation!](/inquiry/)
 
-*Explore more at [careerwithmohit.online](https://www.careerwithmohit.online)*
+*Explore more at [careerwithmohit.online](https://careerwithmohit.online)*
 
 
 

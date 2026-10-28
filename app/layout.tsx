@@ -87,6 +87,9 @@ export const metadata: Metadata = {
   },
 
 
+  alternates: {
+    canonical: "https://careerwithmohit.online/",
+  },
   robots: {
     index: true,
     follow: true,
@@ -108,8 +111,7 @@ export const metadata: Metadata = {
     "target_country": "IN",
     "coverage": "Pan India, Delhi NCR, Mumbai, Pune, Bangalore, Hyderabad, Jaipur, Kolkata, Chennai, Ahmedabad, Chandigarh",
     "distribution": "Global",
-    "rating": "General",
-    "ai-content-declaration": "human-authored-expert-guidance"
+    "rating": "General"
   }
 };
 
@@ -118,6 +120,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // TODO: Verify every credential claim (IIM Bangalore, FMS Delhi, certifications) against official certificates and documents before promoting in schema.
   const personData = {
     "@context": "https://schema.org",
     "@type": "Person",

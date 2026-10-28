@@ -97,7 +97,7 @@ pie title DoMS IIT Roorkee Domain Split 2025
 *   **[IIT Kanpur IME MBA Placement Report 2027–29](/blog/iit-kanpur-ime-mba-placement-report-2027-29/)**
 *   **[DoMS IIT Madras MBA Placement Report 2027–29](/blog/doms-iit-madras-mba-placement-report-2027-29/)**
 *   **[VGSoM IIT Kharagpur MBA Placement Report 2027–29](/blog/vgsom-iit-kharagpur-mba-placement-report-2027-29/)**
-*   **[SJMSOM [IIT Bombay](/colleges/iit-bombay/) MBA Placement Report 2027–29](/blog/sjmsom-iit-bombay-mba-placement-report-2027-29)**
+*   **[SJMSOM [IIT Bombay](/colleges/iit-bombay/) MBA Placement Report 2027–29]((/blog/sjmsom-iit-bombay-mba-placement-report-2027-29/)**
 *   **[All 21 IIMs Recent Placement Report 2025](/blog/all-iim-recent-placement-report-2027-29/)**
 
 ---

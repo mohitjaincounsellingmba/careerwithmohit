@@ -105,8 +105,8 @@ category: Exams
 
 ## Related Guides
 - [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/blog/top-mba-pgdm-colleges-jaipur-2027-29/)
-- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

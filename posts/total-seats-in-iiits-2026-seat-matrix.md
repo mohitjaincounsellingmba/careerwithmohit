@@ -82,7 +82,7 @@ Expand your research to other engineering colleges:
 ### **Key Resources for IIIT Aspirants**
 *   [JEE Main College Predictor 2026: Best IIIT Based on Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
 *   [JEE Main 2026 Session 2: Exam Updates & Admit Card](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
-*   [Complete Guide to Top Engineering Exams 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [Complete Guide to Top Engineering Exams 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 **Confused About Selecting Your IIIT?**
 With many new IIITs established in the last few years, choosing the right one requires careful research on permanent campus availability, faculty, and industry connect. At **CareerWithMohit**, we help students differentiate between established IIITs and newer ones to ensure long-term career success.

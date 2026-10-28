@@ -117,8 +117,8 @@ The **Delhi NCR region** represents the economic and corporate powerhouse of Ind
 ---
 
 ## Related Reads & Resources
-- [All About CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About XAT Exam Preparation Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam Preparation Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
 
 ---

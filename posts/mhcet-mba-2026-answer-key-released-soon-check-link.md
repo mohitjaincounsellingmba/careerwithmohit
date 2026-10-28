@@ -118,8 +118,8 @@ Scoring below 90 percentile doesn't mean your MBA dream is over. Many private in
 
 **Related Articles:**
 - [Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/)
-- [All About MAH MBA CET Exam Pattern & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [Direct MBA Admission in Mumbai 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+- [All About MAH MBA CET Exam Pattern & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [Direct MBA Admission in Mumbai 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
 
 For personalized admission support, feel free to fill out the [Inquiry Form](/inquiry/) and our experts will reach out to you within 24 hours.
 

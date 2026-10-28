@@ -69,8 +69,8 @@ In this 2027 guide, senior admission consultant **Mohit Jain** evaluates the pre
 
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
-| **[IIM Calcutta](/blog/1-year-online-mba-colleges-india-2027-29)** (MBA) | Diamond Harbour Rd, Joka | ₹27.00 Lakhs | ₹34.80 LPA | CAT (99.4+ %ile) |
-| **[VGSoM IIT Kharagpur](/blog/1-year-online-mba-colleges-india-2027-29)** (MBA) | Kharagpur (Kolkata Region) | ₹12.50 Lakhs | ₹22.13 LPA | CAT (95.0+ %ile) |
+| **[IIM Calcutta]((/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA) | Diamond Harbour Rd, Joka | ₹27.00 Lakhs | ₹34.80 LPA | CAT (99.4+ %ile) |
+| **[VGSoM IIT Kharagpur]((/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA) | Kharagpur (Kolkata Region) | ₹12.50 Lakhs | ₹22.13 LPA | CAT (95.0+ %ile) |
 | **[IIFT Kolkata Campus](/colleges/iift-delhi/)** (MBA-IB) | Madurdaha, Chowbaga Rd | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
 | **[IMI Kolkata](/colleges/imi-kolkata)** (PGDM Core) | Judges Court Rd, Alipore | ₹14.50 Lakhs | ₹10.60 LPA | CAT / XAT / CMAT / GMAT (70+ %ile) |
 | **[IISWBM Kolkata](/colleges/indian-institute-of-social-welfare-and-business-management)** (MBA Day/Evening) | College Square, Kolkata | ₹6.50 Lakhs | ₹7.80 LPA | CAT (70+ %ile) / MAT (80+ %ile) |

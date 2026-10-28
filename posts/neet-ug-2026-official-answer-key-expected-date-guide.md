@@ -83,7 +83,7 @@ To estimate your marks:
 ## 5. What’s Next?
 After the final answer key, the NTA will declare the **NEET UG 2026 Result** and the All India Rank (AIR). This will be followed by the MCC counseling for 15% All India Quota and respective state counseling for 85% state quota seats.
 
-[👉 Learn More: All About NEET Exam 2026 - Eligibility & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)
+[👉 Learn More: All About NEET Exam 2026 - Eligibility & Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 **Confused about your MBBS/BDS options based on your estimated score?** Get a personalized session with our medical admission experts to explore top private and government colleges.

@@ -100,7 +100,7 @@ As we move into the 2026-27 academy session, [Jamia Hamdard](/colleges/jamia-ham
 **Yes. All online programs from [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University are **UGC-DEB approved** and recognized by the **Association of Indian Universities (AIU)**. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles.**
 
 ## Next Step in Your Career
-- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **Delhi Hub:** Read about the [Top-5 Online MBAs in Delhi NCR](/online-degree-certification/).
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry/)
 

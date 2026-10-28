@@ -243,7 +243,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 ### **Explore Our MBA Admission Resources**
 
 - [Complete List of All 21 IIMs — Placements, Fees & Cutoffs](/blog/iims-list-courses-placements-cutoffs-admission/)
-- [All About CAT Exam — Complete Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam — Complete Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [MBA vs PGDM — Key Differences](/blog/mba-vs-pgdm-difference/)
 - [GD/PI Interview Topics & Solutions for MBA](/blog/gdpi-interview-topics-solutions-mba/)
 - [Gap Year Before MBA — Good Choice?](/blog/gap-year-mba-good-choice/)

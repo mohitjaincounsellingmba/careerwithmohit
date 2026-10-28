@@ -169,7 +169,7 @@ Admission to IILM University is profile-centric, evaluating entrance test scores
 
 Candidates possessing above 60% aggregate marks in graduation can apply directly for interview screening.
 
-Check closing cutoffs across institutions with our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check closing cutoffs across institutions with our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 

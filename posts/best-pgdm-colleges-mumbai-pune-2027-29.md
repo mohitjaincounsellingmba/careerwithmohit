@@ -106,7 +106,7 @@ Explore in-depth reviews of top Pune institutes:
 * [All About PIBM Pune](/blog/all-about-pibm-pune/)
 * [All About RIIM Pune](/blog/all-about-riim-pune/)
 * [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/)
-* [All About ISBS Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29)
+* [All About ISBS Pune]((/blog/aissms-lexicon-management-institute-pune-review-2027-29/)
 * [All About DY Patil B-School](/colleges/dy-patil-b-school/)
 
 ---

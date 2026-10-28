@@ -87,7 +87,7 @@ VIT’s fee structure depends on your VITEEE rank. The higher the rank, the lowe
 *   **High Intake**: Thousands of students are admitted every year, leading to stiff internal competition for the best placement packages.
 
 Looking for more on VIT? Check out our other guides:
-*   [All About VIT Campuses: Chennai vs. Vellore vs. AP](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
+*   [All About VIT Campuses: Chennai vs. Vellore vs. AP]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 *   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
 *   [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
 

@@ -185,8 +185,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       "geo.placename": geoInfo.placename,
       "geo.position": geoInfo.position,
       "ICBM": geoInfo.position.replace(';', ', '),
-      "coverage": geoInfo.placename,
-      "ai-content-declaration": "human-authored-expert-guidance"
+      "coverage": geoInfo.placename
     }
   };
 }

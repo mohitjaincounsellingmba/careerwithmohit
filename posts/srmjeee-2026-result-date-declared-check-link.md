@@ -155,7 +155,7 @@ A: SRM Kattankulathur alone has 10,000+ seats across all branches, making it one
 
 👉 [How to Clear SRM JEE 2026 — Full Strategy Guide](/blog/how-to-clear-srm-jee-2027-29/)
 
-👉 [All About SRM University Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
+👉 [All About SRM University Campuses]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 
 👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026/)
 

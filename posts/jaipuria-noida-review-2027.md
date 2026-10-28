@@ -124,7 +124,7 @@ For the **2027–2029 session**, [Jaipuria Institute of Management](/colleges/ja
 *   **Sector 62 Advantage:** Sector 62 is a major educational and IT hub with several student PGs and residential complexes charging ₹9,000 to ₹14,000 per month.
 
 ### Scholarships & Financial Aid
-*   **Merit-Based Scholarships (Up to ₹3.0 Lakhs):** Granted to high percentile scorers in [CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29) / [XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29) (80+ %ile) and [CMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29) / [MAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29) (85+ %ile).
+*   **Merit-Based Scholarships (Up to ₹3.0 Lakhs):** Granted to high percentile scorers in [CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) / [XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) (80+ %ile) and [CMAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) / [MAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) (85+ %ile).
 *   **Sibling & Alumni Grants:** Additional financial waivers for candidates whose siblings are current or past Jaipuria students.
 *   **Education Loans:** Pre-approved institutional tie-ups with SBI, Punjab National Bank, Axis Bank, and Bank of Baroda.
 
@@ -182,10 +182,10 @@ Jaipuria’s most formidable asset is its **Unified Centralized Placement Proces
 
 | Entrance Exam | Minimum Eligibility Cutoff | Safe Percentile for Shortlist |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 65%ile | 70%ile+ |
-| **[XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 65%ile | 70%ile+ |
-| **[MAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 80%ile | 85%ile+ |
-| **[CMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)** | 75%ile | 80%ile+ |
+| **[CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)** | 65%ile | 70%ile+ |
+| **[XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)** | 65%ile | 70%ile+ |
+| **[MAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)** | 80%ile | 85%ile+ |
+| **[CMAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)** | 75%ile | 80%ile+ |
 | **ATMA** | 80%ile | 85%ile+ |
 
 ### Selection Stages
@@ -234,7 +234,7 @@ Jaipuria’s most formidable asset is its **Unified Centralized Placement Proces
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[Jaipuria Institute (Noida)](/colleges/jaipuria-noida/)** | **₹16.50 Lakhs** | **₹11.29 LPA** | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Centralized 4-Campus Placements |
-| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2027-29)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[FOSTIIMA Business School]((/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
 | **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
 | **[FIIB South Delhi](/blog/fiib-delhi-review-2027/)** | ₹12.85 Lakhs | ₹8.50 – ₹9.00 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
 | **[JIMS Kalkaji](/colleges/jims-kalkaji)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups · 180 Seats |

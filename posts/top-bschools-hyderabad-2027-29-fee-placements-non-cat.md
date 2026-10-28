@@ -81,7 +81,7 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 
 ### 1. ICFAI Business School (IBS), Hyderabad
 * **Campus**: Massive 91-acre eco-friendly campus in Dontanapalli, Hyderabad.
-* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review).
+* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/).
 
 ### 2. [Institute of Public Enterprise](/colleges/ipe-hyderabad/) (IPE), Hyderabad
 * **Highlights**: Located in Shamirpet, IPE is recognized as a Centre of Excellence by the Indian Council of Social Science Research (ICSSR).

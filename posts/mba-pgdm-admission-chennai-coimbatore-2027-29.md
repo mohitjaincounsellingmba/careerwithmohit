@@ -81,7 +81,7 @@ For candidates targeting **2027-29 management admissions**, Tamil Nadu offers st
 ### 1. Great Lakes Institute of Management, Chennai
 * **Accreditation**: AMBA (UK), SAQS, AICTE, NBA.
 * **Programs**: PGDM (2-Year) & PGPM (1-Year for Work-ex candidates).
-* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff).
+* **Highlights**: Waterfront campus on ECR Road, guest faculty from Kellogg, Stanford, and Harvard. Read [All About Great Lakes Campuses]((/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/).
 
 ### 2. LIBA (Loyola Institute of Business Administration), Chennai
 * **Highlights**: Located in Nungambakkam campus, known for ethics-driven management education and strong corporate alignment.

@@ -112,7 +112,7 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 ---
 
 ## Related Reads
-- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [Top PGDM Colleges in Greater Noida & Ghaziabad Admission 2027](/blog/top-pgdm-colleges-greater-noida-ghaziabad-admission-2027/)
 - [Top PGDM Colleges in Pune Admission 2027](/blog/pune-pgdm-admission-2027-fees-placements-cat-2026-xat-exam/)
 

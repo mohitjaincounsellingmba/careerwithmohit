@@ -112,7 +112,7 @@ This is where most students get confused.
 ## 🚀 How to Decide: The 60-Second Profile Check
 
 - **Choose MBA if:** You are on a budget, want a formal degree for future PhD plans, or are aiming for government sector stability. Check out: [FMS Delhi](/colleges/fms-delhi) or [Jamia Millia Islamia MBA](/colleges/jamia-millia-islamia/).
-- **Choose PGDM if:** You want a fast-paced corporate career, deep specialization in emerging fields, and are willing to invest for better placement services and industry exposure. Check out: [Jaipuria Institute](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review) or [JIMS Rohini](/colleges/jims-rohini).
+- **Choose PGDM if:** You want a fast-paced corporate career, deep specialization in emerging fields, and are willing to invest for better placement services and industry exposure. Check out: [Jaipuria Institute]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/) or [JIMS Rohini](/colleges/jims-rohini).
 
 ---
 

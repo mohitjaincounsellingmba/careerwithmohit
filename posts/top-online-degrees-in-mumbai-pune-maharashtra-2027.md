@@ -98,7 +98,7 @@ In this guide, we review top online degree providers in Mumbai and Pune for 2027
 ## Admissions & Free Guidance
 
 For free guidance on choosing between Mumbai and Pune online universities:
-* Visit our [Mumbai & Pune Online Hub Page](https://www.careerwithmohit.online/online-degree-certification/online-degree-mumbai-pune)
+* Visit our [Mumbai & Pune Online Hub Page](https://careerwithmohit.online/online-degree-certification/online-degree-mumbai-pune)
 * Contact Chief Counsellor Mohit Jain at **+91 95600 20771** or [Chat on WhatsApp](https://wa.me/919560020771?text=Hi%2C%20I%20need%20guidance%20for%20online%20degree%20admission%20in%20Mumbai/Pune).
 
 ---

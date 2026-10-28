@@ -128,7 +128,7 @@ Under IIM Indore's coordination, the exam pattern is expected to remain consiste
 2. **Data Interpretation & Logical Reasoning (DILR):** 20 Questions
 3. **Quantitative Aptitude (QA):** 22 Questions
 
-For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29).
+For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 ---
 

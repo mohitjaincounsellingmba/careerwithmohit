@@ -87,7 +87,7 @@ While both programs are strong, we generally recommend the **PGDM** at IIBR for 
 *   [ASM IBMR Pune Review 2027–29: Placements & ROI](/colleges/asm-ibmr)
 *   [ASM IIBR Pune Review 2027–29: Specialized PGDM Training](/blog/asm-iibr-review-2027-29/)
 *   [Best MBA Colleges in Pune 2027–29: The Ultimate List](/blog/best-mba-colleges-in-pune-2027-29/)
-*   [MBA PGDM Colleges Under 10 Lakhs in Pune](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [MBA PGDM Colleges Under 10 Lakhs in Pune]((/blog/1-year-online-mba-colleges-india-2027-29/)
 
 **Need a Direct Comparison?**
 Deciding between [ASM IIBR](/colleges/asm-iibr/) and other Pune options like RIIM or ISMS? Our expert counselors provide a side-by-side comparison of placements, hidden costs, and student culture.

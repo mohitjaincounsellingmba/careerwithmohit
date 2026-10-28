@@ -2,24 +2,17 @@
 title: 'Fee Refund Policy 2026: AICTE & UGC Guidelines for MBA/PGDM Admissions'
 date: '2026-03-14'
 description: >-
-  2027 guide for Fee Refund Policy 2026: AICTE & UGC Guidelines for M...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Official AICTE and UGC fee refund rules 2026 for MBA/PGDM colleges. Learn
+  cancellation deadlines, deduction caps, and step-by-step refund claim
+  procedures.
 keywords:
   - AICTE fee refund policy 2026
   - UGC refund guidelines 2026
   - MBA fee refund rules
   - PGDM admission cancellation refund
-  - university fee refund deadline
+  - college fee refund deadline
   - AICTE processing fee rs 1000
   - how to get college fee refund
-  - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -36,8 +29,6 @@ faqs:
       An MBA is a degree awarded by universities affiliated with UGC, whereas a
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
-location: Delhi NCR
-state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**

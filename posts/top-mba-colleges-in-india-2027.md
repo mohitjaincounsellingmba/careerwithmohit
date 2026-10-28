@@ -72,17 +72,17 @@ In this verified 2027 admission guide, senior education consultant **Mohit Jain*
 
 | College / Program | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/blog/1-year-online-mba-colleges-india-2027-29)** (PGP) | ₹26.5 Lakhs | ₹34.3 LPA | CAT (99.5+ %ile) |
+| **[IIM Ahmedabad]((/blog/1-year-online-mba-colleges-india-2027-29/)** (PGP) | ₹26.5 Lakhs | ₹34.3 LPA | CAT (99.5+ %ile) |
 | **[IIM Bangalore](/colleges/iim-bangalore/)** (PGP) | ₹25.0 Lakhs | ₹33.8 LPA | CAT (99.3+ %ile) |
-| **[IIM Calcutta](/blog/1-year-online-mba-colleges-india-2027-29)** (MBA) | ₹27.0 Lakhs | ₹34.8 LPA | CAT (99.4+ %ile) |
+| **[IIM Calcutta]((/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA) | ₹27.0 Lakhs | ₹34.8 LPA | CAT (99.4+ %ile) |
 | **[FMS Delhi](/colleges/fms-delhi/)** (MBA) | ₹2.32 Lakhs | ₹30.1 LPA | CAT (99.7+ %ile) |
-| **[XLRI Jamshedpur](/blog/10-tips-to-crack-cat-exam-2027-29)** (PGDM BM/HRM) | ₹28.5 Lakhs | ₹29.8 LPA | XAT (96+ %ile) / GMAT |
-| **[SPJIMR Mumbai](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai)** (PGDM) | ₹22.5 Lakhs | ₹33.0 LPA | CAT / GMAT (Profile-based 85+ / 96+) |
+| **[XLRI Jamshedpur]((/blog/10-tips-to-crack-cat-exam-2027-29/)** (PGDM BM/HRM) | ₹28.5 Lakhs | ₹29.8 LPA | XAT (96+ %ile) / GMAT |
+| **[SPJIMR Mumbai]((/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)** (PGDM) | ₹22.5 Lakhs | ₹33.0 LPA | CAT / GMAT (Profile-based 85+ / 96+) |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (PGDM) | ₹25.0 Lakhs | ₹27.6 LPA | CAT (95+ %ile) / GMAT |
-| **[ISB Hyderabad / Mohali](/blog/1-year-online-mba-colleges-india-2027-29)** (PGP 1-Yr) | ₹41.5 Lakhs | ₹34.2 LPA | GMAT (710+) / GRE (325+) |
-| **[IIT Bombay - SJMSOM](/blog/1-year-online-mba-colleges-india-2027-29)** (MBA) | ₹14.0 Lakhs | ₹28.8 LPA | CAT (98.5+ %ile) |
+| **[ISB Hyderabad / Mohali]((/blog/1-year-online-mba-colleges-india-2027-29/)** (PGP 1-Yr) | ₹41.5 Lakhs | ₹34.2 LPA | GMAT (710+) / GRE (325+) |
+| **[IIT Bombay - SJMSOM]((/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA) | ₹14.0 Lakhs | ₹28.8 LPA | CAT (98.5+ %ile) |
 | **[IIFT Delhi](/colleges/iift-delhi/)** (MBA-IB) | ₹21.8 Lakhs | ₹26.0 LPA | CAT (96+ %ile) |
-| **[SIBM Pune](/blog/best-cat-coaching-institutes-and-fees-2027-29)** (MBA) | ₹26.8 Lakhs | ₹26.7 LPA | SNAP (98.5+ %ile) |
+| **[SIBM Pune]((/blog/best-cat-coaching-institutes-and-fees-2027-29/)** (MBA) | ₹26.8 Lakhs | ₹26.7 LPA | SNAP (98.5+ %ile) |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai/)** (MMS) | ₹6.10 Lakhs | ₹27.6 LPA | MAH-CET (99.9+ %ile) / CAT |
 | **[NMIMS Mumbai](/colleges/nmims-mumbai/)** (MBA Core) | ₹24.0 Lakhs | ₹25.1 LPA | NMAT (235+ Score) |
 | **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29/)** (MA-HRM & LR) | ₹2.50 Lakhs | ₹27.2 LPA | CAT / CUET-PG (98+ %ile) |

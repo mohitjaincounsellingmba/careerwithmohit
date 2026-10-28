@@ -245,8 +245,8 @@ Need personalized guidance on choosing the right study abroad destination, langu
 ---
 
 ### 📚 Related Guides & Resources
-* [Study Abroad Exams 2026: Complete Guide to SAT, IELTS, TOEFL & GRE](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
-* [All About Duolingo English Test (DET) 2026](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+* [Study Abroad Exams 2026: Complete Guide to SAT, IELTS, TOEFL & GRE]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+* [All About Duolingo English Test (DET) 2026]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 * [Top Universities in Germany for Indian Students 2026](/blog/top-universities-in-germany-for-indian-students-2026-fees-admission/)
 * [Top Universities in Spain for Indian Students 2026](/blog/top-universities-in-spain-for-indian-students-2026-fees-admission/)
 * [Top Universities in France for Indian Students 2026](/blog/top-universities-in-france-for-indian-students-2026-fees-admission/)

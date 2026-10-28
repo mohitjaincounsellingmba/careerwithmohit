@@ -68,20 +68,20 @@ Government colleges in Kota are the first choice for students seeking high ROI (
 - **Average Placement:** ₹7.0 - ₹8.0 LPA (Highest ₹29 LPA)
 - **Entrance Exam:** CMAT, RMAP (Rajasthan Management Admission Process)
 - **USP:** The apex technical university of Rajasthan; excellent infrastructure and a massive corporate recruitment network.
-- [Read Full RTU Kota Review](/blog/best-bba-colleges-kota-admission-guide-2026)
+- [Read Full RTU Kota Review]((/blog/best-bba-colleges-kota-admission-guide-2026/)
 
 ### 2. University of Kota (UOK)
 - **Fees:** ₹24,000 - ₹28,000 (Total)
 - **Average Placement:** ₹2.1 - ₹3.0 LPA
 - **Entrance Exam:** Merit-based / CMAT
 - **USP:** Extremely affordable education; ideal for students targeting state government jobs or local industrial roles.
-- [Read Full University of Kota Review](/blog/best-bba-colleges-kota-admission-guide-2026)
+- [Read Full University of Kota Review]((/blog/best-bba-colleges-kota-admission-guide-2026/)
 
 ### 3. Vardhman Mahaveer Open University (VMOU)
 - **Specialization:** Distance MBA
 - **Fees:** ~₹14,600 (First Year)
 - **USP:** The premier destination for working professionals in Rajasthan seeking an MBA through distance learning with high flexibility.
-- [Read Full VMOU Distance MBA Review](/blog/best-bba-colleges-kota-admission-guide-2026)
+- [Read Full VMOU Distance MBA Review]((/blog/best-bba-colleges-kota-admission-guide-2026/)
 
 ---
 
@@ -92,19 +92,19 @@ Private universities in Kota offer modern pedagogy, better industry tie-ups, and
 - **Fees:** ₹1.0 - ₹3.0 Lakhs (Depending on Specialization)
 - **Average Placement:** ₹4.0 LPA (Highest ₹1 Crore+)
 - **USP:** Strong focus on "New Age" specializations like Data Analytics and Digital Marketing; wide corporate reach.
-- [Read Full CPU Kota Review](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+- [Read Full CPU Kota Review]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ### 5. Modi Institute of Management and Technology (MIMT)
 - **Fees:** ~₹1.21 Lakhs (Total)
 - **Average Placement:** ₹3.0 - ₹5.0 LPA
 - **USP:** One of the oldest and most trusted management institutes in the region with an extensive alumni network.
-- [Read Full MIMT Kota Review](/blog/best-bba-colleges-kota-admission-guide-2026)
+- [Read Full MIMT Kota Review]((/blog/best-bba-colleges-kota-admission-guide-2026/)
 
 ### 6. Om Kothari Institute of Management and Research (OKIMR)
 - **Fees:** ~₹1.20 Lakhs (Total)
 - **Average Placement:** ₹3.5 - ₹4.0 LPA
 - **USP:** 100% placement assistance and strong ties with banks like Axis and ICICI.
-- [Read Full OKIMR Kota Review](/blog/best-bba-colleges-kota-admission-guide-2026)
+- [Read Full OKIMR Kota Review]((/blog/best-bba-colleges-kota-admission-guide-2026/)
 
 ---
 

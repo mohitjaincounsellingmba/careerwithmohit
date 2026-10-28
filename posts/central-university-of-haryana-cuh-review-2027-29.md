@@ -92,7 +92,7 @@ CUH is celebrated for its highly economical fee structure:
 
 ### **Check Other Placement Guides:**
 *   [Central University of Karnataka Review 2027–29](/blog/central-university-of-karnataka-cuk-review-2027-29/)
-*   [BML Munjal University Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [BML Munjal University Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
 
 [👉 Get Admission Consultation for Central University of Haryana!](/inquiry/)
 

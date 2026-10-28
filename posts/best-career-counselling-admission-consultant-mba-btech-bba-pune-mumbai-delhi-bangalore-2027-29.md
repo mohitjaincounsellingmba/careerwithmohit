@@ -141,7 +141,7 @@ Profile Audit  Branch Selection    Early Leadership    Tech & Software  Intl. Vi
 ```
 
 ### A. MBA & PGDM (Postgraduate Management)
-- **Top Entrance Exams**: [CAT](/tools/cat-score-calculator/), [XAT](/blog/10-tips-to-crack-cat-exam-2027-29), [SNAP](/blog/10-tips-to-crack-cat-exam-2027-29), [NMAT](/blog/10-tips-to-crack-cat-exam-2027-29), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29), [MAH MBA CET](/blog/10-tips-to-crack-cat-exam-2027-29), and ATMA.
+- **Top Entrance Exams**: [CAT](/tools/cat-score-calculator/), [XAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [SNAP]((/blog/10-tips-to-crack-cat-exam-2027-29/), [NMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAH MBA CET]((/blog/10-tips-to-crack-cat-exam-2027-29/), and ATMA.
 - **Key Deliverables in Counselling**:
   - Profile strength evaluation (10th/12th/Graduation percentages + Work Experience).
   - Categorizing B-Schools into **Dream, Reach, and Safe** tiers.
@@ -224,7 +224,7 @@ Mumbai offers unparalleled corporate access to multinational investment banks, m
   - SIMSREE (Sydenham Institute)
   - [Welingkar Institute of Management (WeSchool Mumbai)](/colleges/welingkar-bangalore/)
   - [K J Somaiya Institute of Management](/blog/kj-somaiya-btech-review-2026/)
-  - [NL Dalmia Institute of Management Studies](/blog/1-year-online-mba-colleges-india-2027-29)
+  - [NL Dalmia Institute of Management Studies]((/blog/1-year-online-mba-colleges-india-2027-29/)
   - [Universal AI University (Karjat/Mumbai)](/colleges/universal-ai-mumbai/), [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/)
 * **Top Engineering & Undergraduate Colleges**:
   - VJTI Mumbai, SPIT Mumbai, DJ Sanghvi (DJSCE), Mukesh Patel (MPSTME), Mithibai College, NM College, St. Xavier's Mumbai.
@@ -244,9 +244,9 @@ Delhi NCR houses the highest concentration of corporate headquarters, consulting
   - [LBSIM Delhi](/colleges/lbsim-delhi/) (Lal Bahadur Shastri Institute of Management)
   - Masters' Union (Gurgaon - New-Age Tech & Business School)
   - [Great Lakes Institute of Management (Gurgaon Campus)](/colleges/great-lakes-gurgaon/)
-  - [BML Munjal University](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff), [Bennett University](/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2027-29/)
+  - [BML Munjal University]((/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/), [Bennett University]((/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2027-29/)
 * **Top Engineering & BBA Colleges in Delhi NCR**:
-  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026).
+  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/).
 * **Admission Consultant Advantage in Delhi NCR**:
   - Comprehensive counselling for IPU CET, JAC Delhi, CAT/XAT score-based cutoffs, and scholarship evaluations for private universities.
 
@@ -289,9 +289,9 @@ Jaipur combines affordable living, exceptional campus life, and nationally accla
 * **Top Institutions in Jaipur**:
   - [Jaipuria Institute of Management Jaipur](/colleges/jaipuria-jaipur/)
   - [Taxila Business School Jaipur](/colleges/taxila-jaipur/)
-  - [Manipal University Jaipur (MUJ)](/blog/alliance-university-btech-honest-review-cons)
+  - [Manipal University Jaipur (MUJ)]((/blog/alliance-university-btech-honest-review-cons/)
   - [JK Lakshmipat University (JKLU Jaipur)](/blog/jk-lakshmipat-university-jklu-jaipur-review-2027-29/)
-  - [JECRC University](/colleges/jecrc-jaipur/), [Poornima University](/blog/1-year-online-mba-colleges-india-2027-29)
+  - [JECRC University](/colleges/jecrc-jaipur/), [Poornima University]((/blog/1-year-online-mba-colleges-india-2027-29/)
   - [IIHMR University Jaipur](/colleges/iihmr-university/) (Healthcare & Hospital Management)
 * **Admission Consultant Advantage in Jaipur**:
   - Guidance for CMAT/MAT based scholarships, specialized healthcare management admissions, and private university engineering counselling.

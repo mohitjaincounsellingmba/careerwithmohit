@@ -6,7 +6,7 @@ date: '2026-10-28'
 category: Exams
 description: >-
   FMS Delhi MBA application form 2027 is officially out. Check the registration
-  dates, ₹2.5 Lakh fee structure, 99+ CAT cutoff, selection criteria, and ROI.
+  dates, ₹2.5 Lakh fee structure, 99+ CAT cutoff, official selection criteria, and ROI.
 keywords:
   - FMS Delhi application form 2027
   - FMS Delhi application form out
@@ -16,13 +16,12 @@ keywords:
   - FMS Delhi selection process composite score
   - Faculty of Management Studies Delhi admission
   - FMS Delhi vs IIM Ahmedabad ROI
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
+  - FMS Delhi New Delhi
+  - MBA Colleges in New Delhi
+  - Best Colleges in Delhi
+  - Delhi Admissions 2027
+  - Top Colleges in Delhi 2026
+  - Delhi Career Counselling
 faqs:
   - question: Is the FMS Delhi application form out for the 2027–29 batch?
     answer: >-
@@ -33,33 +32,39 @@ faqs:
     answer: >-
       The application fee is ₹1,000 for General, OBC-NCL, and EWS candidates,
       and ₹350 for SC, ST, PwD, and CW category applicants, payable online
-      through the official portal.
+      through the official admission portal (fmsadmissions.co.in).
   - question: What is the CAT cutoff for FMS Delhi general category?
     answer: >-
       FMS Delhi uses a weighted composite score rather than a raw overall
       percentile. For general category candidates, the composite score cutoff
-      hovers around 46.5 to 47.5, which translates roughly to a 99.0 to 99.5+
+      hovers around 45.5 to 47.5, which translates roughly to a 99.0 to 99.5+
       overall percentile in CAT 2026.
   - question: What is the total fee structure for MBA at FMS Delhi?
     answer: >-
-      The total 2-year tuition fee at FMS Delhi is approximately ₹2.40 Lakhs to
-      ₹2.50 Lakhs (roughly ₹60,000 per semester), making it the highest Return
+      The total 2-year academic fee at FMS Delhi is approximately ₹2.50 Lakhs to
+      ₹2.60 Lakhs (roughly ₹65,000 per semester), making it the highest Return
       on Investment (ROI) business school in India.
+  - question: What is the official final selection weightage at FMS Delhi?
+    answer: >-
+      The final admission merit list assigns 50% weightage to the weighted CAT score,
+      15% to Personal Interview (PI), 10% to Statement of Purpose (SOP) discussion,
+      10% to Class 10 marks, 10% to Class 12 marks, and 5% to Extempore speech. Women candidates receive an additional 5 bonus marks.
   - question: Does FMS Delhi accept any exam other than CAT?
     answer: >-
       No, Indian applicants must appear for the Common Admission Test (CAT
       2026). Foreign nationals or NRI candidates can apply using a valid GMAT
       score of 650 or above.
-location: Delhi NCR
-state: Delhi NCR
+location: New Delhi
+state: Delhi
 ---
 
 # FMS Delhi Application Form 2027 (Out): Dates, CAT Cutoff, Fees & Selection Process
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Application Form Status**: Officially released on **October 26, 2026**; online portal closes on **November 25, 2026** at [fmsadmissions.co.in](http://www.fms.edu).
-> - **Total Program Fee**: **₹2.40 Lakhs to ₹2.50 Lakhs** for the entire 2-year full-time MBA curriculum.
-> - **Placement & ROI Benchmark**: Average domestic CTC stands at **₹34.10 LPA** with a median CTC of **₹31.00 LPA**, offering an unmatched 13x fee-to-salary ROI ratio.
+> - **Application Form Status**: Officially released on **October 26, 2026**; online portal closes on **November 25, 2026** at [fmsadmissions.co.in](https://fmsadmissions.co.in) and [fms.edu](https://www.fms.edu).
+> - **Total Program Fee**: **₹2.50 Lakhs to ₹2.60 Lakhs** for the entire 2-year full-time MBA curriculum (~₹65,000 per semester).
+> - **Placement & ROI Benchmark**: Average domestic CTC stands at **₹34.10 LPA** with a median CTC of **₹31.00 LPA**, highest domestic offer of **₹66.00 LPA**, and highest international offer of **₹1.23 Crore**, offering an unmatched 13x fee-to-salary ROI ratio.
+> - **Official Selection Weightage**: **50% CAT, 15% Personal Interview (PI), 10% Statement of Purpose (SOP) Discussion, 10% Class 10, 10% Class 12, 5% Extempore** (+5 Marks for Female Candidates).
 > - **Mandatory Entrance Exam**: **CAT 2026** (Separate FMS registration form is mandatory before the November 25 deadline).
 
 The **Faculty of Management Studies (FMS), University of Delhi**, widely revered as the *"Red Building of Dreams"*, has officially released its application form for the **2027–2029 Full-Time MBA batch**. 
@@ -75,16 +80,17 @@ In this verified admission guide by **Mohit Jain**, learn the exact application 
 | Institute / Parameter | Verified 2027 Metrics |
 | :--- | :--- |
 | **Institute Name** | **Faculty of Management Studies (FMS), University of Delhi** |
-| **Campus Location** | Malkaganj, North Campus, Delhi University, Delhi – 110007 |
+| **Campus Location** | Prof. N.D. Kapoor Marg, Opp. Kirori Mal College, University Enclave, North Campus, New Delhi, Delhi – 110007 |
 | **Flagship Program** | 2-Year Full-Time Master of Business Administration (MBA) |
+| **Sanctioned Seat Intake** | **251 Seats** (Gen: 101, OBC: 69, SC: 37, ST: 19, EWS: 25) + Supernumerary Seats |
 | **Application Window** | **October 26, 2026 to November 25, 2026** |
 | **Application Portal** | `fmsadmissions.co.in` or via `fms.edu` |
-| **Application Fee** | ₹1,000 (General/OBC/EWS) \| ₹350 (SC/ST/PwD) |
+| **Application Fee** | ₹1,000 (General/OBC/EWS) \| ₹350 (SC/ST/PwD/CW) |
 | **Qualifying Entrance Exam** | **CAT 2026** (Conducted November 29, 2026) |
-| **Total 2-Year Tuition Fee** | **₹2.40 Lakhs – ₹2.50 Lakhs** (~₹60,000/Semester) |
+| **Total 2-Year Tuition Fee** | **₹2.50 Lakhs – ₹2.60 Lakhs** (~₹65,000/Semester) |
 | **Average Placement CTC** | **₹34.10 LPA** (Domestic) |
 | **Median Placement CTC** | **₹31.00 LPA** |
-| **Highest Domestic Package** | **₹1.23 Crore Per Annum** |
+| **Highest Domestic Package** | **₹66.00 LPA – ₹70.00 LPA** (International: **₹1.23 Crore**) |
 
 ---
 
@@ -97,7 +103,7 @@ In this verified admission guide by **Mohit Jain**, learn the exact application 
 | **CAT 2026 Entrance Examination** | November 29, 2026 |
 | **Declaration of CAT 2026 Results** | First week of January 2027 |
 | **Release of FMS Delhi Shortlist for Interview** | Third week of January 2027 |
-| **Extempore & Personal Interview (PI) Rounds** | March – April 2027 |
+| **Extempore, SOP Discussion & PI Rounds** | March – April 2027 |
 | **Final Admission Offers Announced** | Third week of April 2027 |
 | **Academic Session Commences** | July 2027 |
 
@@ -110,7 +116,7 @@ In this verified admission guide by **Mohit Jain**, learn the exact application 
 
 | Institution & Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi/) (Full-Time MBA)** | **₹2.45 Lakhs** | **₹34.10 LPA** | **CAT 2026** (Min 50% in Graduation; 45% SC/ST/PwD) |
+| **[FMS Delhi](/colleges/fms-delhi/) (Full-Time MBA)** | **₹2.50 Lakhs** | **₹34.10 LPA** | **CAT 2026** (Min 50% in Graduation for Gen; 45% for OBC/EWS; Passing marks for SC/ST/PwD) |
 
 ---
 
@@ -134,35 +140,35 @@ An additional **5 marks** are added to the composite score of female applicants 
 ```
 
 ### Mathematical Formula:
-$$\text{Composite Score} = (0.40 \times \text{VARC Score}) + (0.30 \times \text{QA Score}) + (0.30 \times \text{DILR Score}) + \text{Gender Bonus}$$
+$$\text{Composite Score} = (0.40 \times \text{VARC Scaled Score}) + (0.30 \times \text{QA Scaled Score}) + (0.30 \times \text{DILR Scaled Score}) + \text{Gender Diversity Bonus}$$
 
-### Category-Wise Expected Composite Cutoffs:
-* **General (Unreserved):** 46.5 – 47.5 Composite Score (~**99.0 – 99.5+ percentile** in CAT)
-* **OBC-NCL:** 34.5 – 35.8 Composite Score (~**95.5 – 96.5 percentile**)
-* **EWS:** 36.5 – 37.5 Composite Score (~**90.0 – 92.5 percentile**)
-* **SC:** 28.5 – 29.8 Composite Score (~**88.0 – 90.0 percentile**)
-* **ST:** 22.0 – 23.5 Composite Score (~**84.0 – 86.0 percentile**)
-* **PwD:** 18.0 – 20.0 Composite Score (~**75.0 – 80.0 percentile**)
+### Category-Wise Expected & Audited Composite Cutoffs:
+* **General (Unreserved):** 45.5 – 47.5 Composite Score (~**99.0 – 99.5+ percentile** in CAT)
+* **OBC-NCL:** 37.5 – 38.7 Composite Score (~**95.5 – 96.5 percentile**)
+* **EWS:** 37.2 – 38.5 Composite Score (~**92.0 – 94.0 percentile**)
+* **SC:** 28.0 – 29.0 Composite Score (~**88.0 – 90.0 percentile**)
+* **ST:** 22.5 – 23.5 Composite Score (~**84.0 – 86.0 percentile**)
+* **PwD:** 21.5 – 22.5 Composite Score (~**78.0 – 82.0 percentile**)
 
 ---
 
 ## 5. FMS Delhi Fee Structure & Return on Investment (ROI)
 
-**The total academic fee for the 2-year full-time MBA at FMS Delhi is ₹2,40,000 to ₹2,50,000, payable in 4 semester instalments of approximately ₹60,000 each.**
+**The total academic fee for the 2-year full-time MBA at FMS Delhi is approximately ₹2,50,000 to ₹2,60,000, payable across 4 semesters at approximately ₹65,000 each.**
 
 Compared to private IIMs and elite autonomous B-schools where tuition ranges from ₹23 Lakhs to ₹32 Lakhs, FMS Delhi provides unbeatable financial freedom. Graduates graduate virtually debt-free with starting annual salaries that exceed their total tuition by over 13 times.
 
 | Expense Head | Amount (INR) |
 | :--- | :--- |
-| **Semester 1 Tuition & DU Enrolment Fee** | ₹60,000 |
-| **Semester 2 Academic Fee** | ₹60,000 |
-| **Semester 3 Academic Fee** | ₹60,000 |
-| **Semester 4 Academic Fee** | ₹60,000 |
-| **Refundable Library & Security Deposit** | ₹5,000 |
-| **Total 2-Year Program Fee** | **₹2,45,000 (~₹2.45 Lakhs)** |
-| *Living & Private PG Expenses in North Campus (Optional)* | ₹10,000 – ₹18,000 per month |
+| **Semester 1 Tuition & DU Enrolment Fee** | ₹65,000 |
+| **Semester 2 Academic Fee** | ₹65,000 |
+| **Semester 3 Academic Fee** | ₹65,000 |
+| **Semester 4 Academic Fee** | ₹65,000 |
+| **Refundable Caution / Library Deposit** | ₹5,000 – ₹10,000 |
+| **Total 2-Year Program Fee** | **₹2,60,000 (~₹2.60 Lakhs)** |
+| *Living & Private PG Expenses in North Campus (Optional)* | ₹12,000 – ₹18,000 per month |
 
-*(Note: FMS does not offer on-campus hostel accommodation to all MBA students. DU hostels like VKRV Rao Hostel have extremely limited quotas; most outstation students stay in student housing across Kamla Nagar and Hudson Lane).*
+*(Note: FMS does not offer on-campus hostel accommodation to all MBA students. Delhi University hostels like VKRV Rao Hostel and Gwyer Hall have extremely limited quotas; most outstation students stay in student housing across Kamla Nagar, Hudson Lane, and Vijay Nagar).*
 
 ---
 
@@ -176,7 +182,8 @@ Compared to private IIMs and elite autonomous B-schools where tuition ranges fro
 +-------------------------------------------------------------+
 | Metric                                          | Package   |
 +-------------------------------------------------------------+
-| Highest Domestic Package                        | ₹1.23 Cr  |
+| Highest International Package                   | ₹1.23 Cr  |
+| Highest Domestic Package                        | ₹66.00 LPA|
 | Top 10% Batch Average CTC                       | ₹68.16 LPA|
 | Top 25% Batch Average CTC                       | ₹51.48 LPA|
 | Top 50% Batch Average CTC                       | ₹40.70 LPA|
@@ -198,30 +205,32 @@ Compared to private IIMs and elite autonomous B-schools where tuition ranges fro
 
 Following the personal interview round, FMS Delhi computes the final merit list using these parameters:
 
-| Selection Component | Final Weightage |
-| :--- | :--- |
-| **CAT 2026 Weighted Score** | **50%** |
-| **Personal Interview (PI)** | **30%** |
-| **Extempore Speech (Speaking on an unannounced topic for 2 mins)** | **10%** |
-| **Class 10 Academic Marks (Min 60% = 5 marks, 75%+ = 10 marks)** | **5%** |
-| **Class 12 Academic Marks (Min 60% = 5 marks, 75%+ = 10 marks)** | **5%** |
-| **Additional Gender Diversity (For Women Applicants)** | **+5 Marks** |
-| **Total Composite Score** | **100%** |
+| Selection Component | Official Weightage | Scoring Details |
+| :--- | :--- | :--- |
+| **Weighted CAT 2026 Score** | **50%** | Derived from sectional scaled scores (VARC 40%, QA 30%, DILR 30%) |
+| **Personal Interview (PI)** | **15%** | Evaluates leadership, clarity of goals, domain awareness & communication |
+| **Discussion on Statement of Purpose (SOP)** | **10%** | Comprehensive discussion on candidate's submitted SOP and aspirations |
+| **Class 10 Academic Marks** | **10%** | 75% and above = 10% marks; 60% to < 75% = 5% marks; Below 60% = 0% |
+| **Class 12 Academic Marks** | **10%** | 75% and above = 10% marks; 60% to < 75% = 5% marks; Below 60% = 0% |
+| **Extempore Speech** | **5%** | Candidate speaks for 2 minutes on an unannounced impromptu topic |
+| **Gender Diversity (Women Applicants)** | **+5 Bonus Marks** | Additional 5 marks awarded to female candidates appearing in interview |
+| **Total Composite Score** | **100%** | (+ 5 Gender Bonus Marks) |
 
 ---
 
 ## 8. Step-by-Step: How to Fill the FMS Delhi Application Form 2027
 
-1. **Access the Portal**: Open [fmsadmissions.co.in](http://www.fms.edu) or navigate through Delhi University's official portal.
+1. **Access the Portal**: Open [fmsadmissions.co.in](https://fmsadmissions.co.in) or navigate through Delhi University's official portal at [fms.edu](https://www.fms.edu).
 2. **Register Online**: Create an applicant account using your active Email ID, Mobile Number, and Date of Birth.
 3. **Enter CAT 2026 Registration ID**: Ensure your CAT User ID matches your official IIM CAT application exactly.
-4. **Fill Academic Records**: Enter Class 10, Class 12, and Graduation marks/CGPA.
-5. **Upload Required Documents**:
+4. **Fill Academic Records**: Enter Class 10, Class 12, and Graduation marks/CGPA accurately.
+5. **Draft & Submit Statement of Purpose (SOP)**: Prepare a thoughtful SOP articulating your professional journey, career goals, and why FMS fits your ambitions (carries 10% weightage in final evaluation).
+6. **Upload Required Documents**:
    - Recent passport photograph (under 50 KB).
    - Scanned signature (under 50 KB).
-   - Caste / Category Certificate (OBC-NCL / EWS / SC / ST / PwD) valid for Central Government quotas.
-6. **Pay Application Fee**: Pay ₹1,000 (General) or ₹350 (Reserved) via UPI, Debit Card, Credit Card, or Net Banking.
-7. **Download & Archive Confirmation**: Save the PDF copy of the completed application form and fee payment slip.
+   - Caste / Category Certificate (OBC-NCL / EWS / SC / ST / PwD / CW) valid for Central Government quotas.
+7. **Pay Application Fee**: Pay ₹1,000 (General/OBC/EWS) or ₹350 (SC/ST/PwD/CW) via UPI, Debit Card, Credit Card, or Net Banking.
+8. **Download & Archive Confirmation**: Save the PDF copy of the completed application form and fee payment slip.
 
 [InquiryCard title="Get FMS Delhi Profile & CAT Percentile Evaluation" description="Talk to Mohit Jain for composite score shortlisting chances and extempore preparation tips" cta="Book Free Counselling" type="admission"]
 
@@ -231,7 +240,7 @@ Following the personal interview round, FMS Delhi computes the final merit list 
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.45 Lakhs | ₹34.10 LPA | CAT 2026 (99%+ %ile) · Highest ROI in India |
+| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.50 Lakhs | ₹34.10 LPA | CAT 2026 (99%+ %ile) · Highest ROI in India |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.10 Lakhs | ₹25.50 LPA | CAT 2026 (94%+ %ile) · Corporate Cyber City Hub |
 | **[IIFT Delhi](/colleges/iift-delhi/)** | ₹21.75 Lakhs | ₹29.10 LPA | CAT 2026 (98%+ %ile) · Global Trade & Consulting |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | ₹6.00 Lakhs | ₹28.02 LPA | MAH CET (99.9+ %ile) / CAT (99.98+ %ile) · CEO Factory |

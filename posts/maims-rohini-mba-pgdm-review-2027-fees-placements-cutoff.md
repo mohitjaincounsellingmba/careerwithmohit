@@ -90,7 +90,7 @@ The institutional metrics below reflect the official fee caps and audited outcom
 | **Audited Median CTC** | **₹6.00 LPA** |
 | **Audited Average CTC** | **₹6.50 LPA** |
 | **Highest Domestic CTC** | **₹12.00 LPA – ₹14.50 LPA** |
-| **Primary Admission Exams** | [CAT 2026](/blog/cuet-pg-predictor-2026-mba-colleges) (First Priority), followed by CMAT 2027 |
+| **Primary Admission Exams** | [CAT 2026]((/blog/cuet-pg-predictor-2026-mba-colleges/) (First Priority), followed by CMAT 2027 |
 
 ---
 
@@ -161,7 +161,7 @@ To plan your backup options across colleges, check our guide on [Direct MBA Admi
 
 Here is how MAIMS compares against its immediate GGSIPU counterparts:
 
-| Parameter | [MAIMS Rohini](/blog/maims-rohini-mba-pgdm-review-2027-fees-placements-cutoff) | USMS GGSIPU (Dwarka) | BVISR (Paschim Vihar) | [MERI Janakpuri](/colleges/meri-delhi/) |
+| Parameter | [MAIMS Rohini]((/blog/maims-rohini-mba-pgdm-review-2027-fees-placements-cutoff/) | USMS GGSIPU (Dwarka) | BVISR (Paschim Vihar) | [MERI Janakpuri](/colleges/meri-delhi/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Sector 22, Rohini | Sector 16C, Dwarka | Paschim Vihar | Janakpuri |
 | **Total Course Fee** | **₹4.00 Lakhs** | ₹2.20 Lakhs | ₹3.80 Lakhs | ₹3.60L – ₹4.50L |
@@ -200,7 +200,7 @@ If you are considering MAIMS Rohini for the 2027 intake, keep these actionable t
 1. **Prioritize USMS First, MAIMS Second**: When filling your GGSIPU choice form, place USMS Dwarka as Choice 1, MAIMS Rohini as Choice 2, and BVISR Paschim Vihar as Choice 3. Never put tier-3 IPU colleges above MAIMS.
 2. **Hold on Until the Sliding Round**: Many candidates panic after Round 1 if they receive a lower-ranked college. Seat upgrades are common in Round 3 and the Sliding Round as students with higher CAT scores vacate seats for IIMs or baby IIMs.
 3. **Build Core Certifications Early**: Because MAIMS follows university syllabus guidelines, set yourself apart by clearing NCFM/NISM certifications (for Finance) or Google/HubSpot certifications (for Marketing) during your first semester.
-4. **Use College Predictor Tools**: Compare your current exam percentiles with historical closing ranks using our [CAT College Predictor Tool](/blog/cuet-pg-predictor-2026-mba-colleges) before finalizing your application budget.
+4. **Use College Predictor Tools**: Compare your current exam percentiles with historical closing ranks using our [CAT College Predictor Tool]((/blog/cuet-pg-predictor-2026-mba-colleges/) before finalizing your application budget.
 
 ---
 

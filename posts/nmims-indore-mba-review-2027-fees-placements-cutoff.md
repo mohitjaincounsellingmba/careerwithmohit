@@ -213,7 +213,7 @@ Located along the Super Corridor, NMIMS Indore provides a sprawling residential 
 
 To help you decide whether NMIMS Indore matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Madhya Pradesh and other NMIMS campuses:
 
-| Parameter | [NMIMS Indore](/colleges/nmims-indore/) | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [NMIMS Navi Mumbai](/colleges/nmims-navi-mumbai/) | [Jaipuria Indore](/blog/iim-indore-mba-review-2027-fees-placements-cutoff) |
+| Parameter | [NMIMS Indore](/colleges/nmims-indore/) | [NMIMS Hyderabad](/colleges/nmims-hyderabad/) | [NMIMS Navi Mumbai](/colleges/nmims-navi-mumbai/) | [Jaipuria Indore]((/blog/iim-indore-mba-review-2027-fees-placements-cutoff/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Super Corridor, Indore | Jadcherla, Hyderabad | Kharghar, Navi Mumbai | Dakachya, Indore |
 | **Accreditation / Status** | UGC Category-1 | AMBA Accredited | AACSB Member | NBA / AICTE |

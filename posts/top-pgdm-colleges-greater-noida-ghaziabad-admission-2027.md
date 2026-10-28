@@ -96,7 +96,7 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 
 ### 2. IMS Ghaziabad (University Courses Campus)
 * **Legacy:** Over 34 years of excellence in management education in NCR.
-* **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies](/blog/rajagiri-centre-for-business-studies-mba-review-2027-fees-placements-cutoff).
+* **Curriculum Focus:** AI in Marketing, FinTech Modeling, and Global Supply Chain. Read more at [All About Institute of Management Studies]((/blog/rajagiri-centre-for-business-studies-mba-review-2027-fees-placements-cutoff/).
 
 ### 3. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
 * **Value Proposition:** Offering the highest ROI in Knowledge Park II with dual specializations, global immersion options, and 100% placement tracking. Check [All About GNIOT GIMS](/colleges/gniot-greater-noida/).
@@ -124,8 +124,8 @@ For aspirants planning **PGDM admission 2027** and preparing for **CAT 2027–29
 
 ## Recommended Internal Guides
 - [Top MBA/PGDM Colleges in Delhi NCR with Best ROI 2027](/blog/top-mba-pgdm-colleges-delhi-ncr-roi-2027-29/)
-- [All About XAT Exam Eligibility & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About CAT Exam Score vs Percentile Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About XAT Exam Eligibility & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About CAT Exam Score vs Percentile Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

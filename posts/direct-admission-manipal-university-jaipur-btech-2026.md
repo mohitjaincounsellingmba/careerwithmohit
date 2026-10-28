@@ -219,7 +219,7 @@ MET 2026 applications are typically open till April–May 2026. Check the [offic
 - [JKLU Jaipur B.Tech Admission 2026 – Fees & Review](/blog/jklu-jaipur-btech-admission-2026-fees-review/)
 - [JEE Main 2026 Session 2 – Exam Dates & Admit Card](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
 - [B.Tech Specializations, Skills & Salary Guide 2026](/blog/btech-specializations-skills-salary-2026-guide/)
-- [All About JEE Exam – Complete Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About JEE Exam – Complete Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

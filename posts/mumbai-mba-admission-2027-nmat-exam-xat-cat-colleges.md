@@ -88,11 +88,11 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ### 2. Welingkar Institute of Management (WeSchool)
 * Renowned for innovative specializations including PGDM Business Design, E-Business, Retail, and Healthcare.
-* Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29).
+* Attracts top recruiters like Morgan Stanley, Goldman Sachs, Nestlé, and HUL. Read [All About Welingkar]((/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/).
 
 ### 3. N L Dalmia [Institute of Management Studies](/colleges/ims-noida/)
 * Known as Mumbai's premier finance power-house, featuring a dedicated Bloomberg Finance Lab with 24 terminals.
-* Read our complete review at [All About NL Dalmia Admission](/blog/1-year-online-mba-colleges-india-2027-29).
+* Read our complete review at [All About NL Dalmia Admission]((/blog/1-year-online-mba-colleges-india-2027-29/).
 
 ### 4. ITM Navi Mumbai & Universal AI University
 * **ITM Kharghar:** Offers 5-month intensive internships with strong placement conversions across BFSI and Retail. Read [All About ITM Mumbai](/colleges/itm-mumbai).
@@ -108,8 +108,8 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 ---
 
 ## Related Articles
-- [All About NMAT Exam Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About NMIMS Campuses Across India](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai)
+- [All About NMAT Exam Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About NMIMS Campuses Across India]((/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)
 - [Best PGDM Colleges in Mumbai & Pune (2027-29)](/blog/best-pgdm-colleges-mumbai-pune-2027-29/)
 
 ---

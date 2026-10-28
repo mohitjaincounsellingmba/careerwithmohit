@@ -92,7 +92,7 @@ The Rural Management (PGDM-RM) students also get lucrative offers from top micro
 
 FMS IRM shortlists candidates on the basis of national-level management entrance exams.
 
-*   **Accepted Exams**: [CAT](/blog/10-tips-to-crack-cat-exam-2027-29), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29), XAT, [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29), and ATMA.
+*   **Accepted Exams**: [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), XAT, [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), and ATMA.
 *   **Expected Cutoffs**: 
     *   **CAT/XAT**: ~80 Percentile
     *   **MAT/ATMA**: ~75-80 Percentile

@@ -140,7 +140,7 @@ Read our full guide: [MBA Scholarships 2027–29 Master Guide](/blog/mba-scholar
 Yes. Nationalized banks (SBI, Bank of Baroda) offer collateral-free loans up to ₹7.5 lakh and collateral-backed loans up to ₹1.5 crore. Private banks offer up to ₹40 lakhs. IIA and NBFCs cater to students from lower-ranked colleges too.
 
 **19. What is the fee refund policy if I switch colleges?**
-AICTE mandates a graded fee refund: 100% before the last date of admission at state level, 80% if you leave 15 days before the session, and so on. Read: [Fee Refund Policy AICTE/UGC 2026](/blog/fee-refund-policy-aicte-ugc-2027-29/).
+AICTE mandates a graded fee refund: 100% before the last date of admission at state level, 80% if you leave 15 days before the session, and so on. Read: [Fee Refund Policy AICTE/UGC 2026](/blog/fee-refund-policy-aicte-ugc-2026/).
 
 **20. Can I negotiate fees with a private B-school?**
 For management quota seats, yes — there is often flexibility, especially for students with strong entrance scores. A counsellor can sometimes negotiate merit-based waivers that aren't publicly advertised.

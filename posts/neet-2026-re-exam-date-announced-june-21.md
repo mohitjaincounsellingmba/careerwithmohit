@@ -87,7 +87,7 @@ With the exam now set for June 21, candidates have a crucial window to consolida
 
 - [Top MBBS Colleges in India — Fees & Rankings 2026](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
 - [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)
-- [Free NEET Mock Test 2026](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+- [Free NEET Mock Test 2026]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 

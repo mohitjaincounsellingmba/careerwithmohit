@@ -100,12 +100,12 @@ Immediately after confirmation, your **VITEEE 2026 Admit Card** will be generate
 3.  **Cross-Check Details:** Verify your personal details on the admit card. Discrepancies should be reported to the VIT admissions office immediately.
 4.  **Take a Mock Test:** Familiarize yourself with the CBT (Computer Based Test) environment before the actual exam.
 
-[👉 Take our FREE VITEEE Mock Test 2026 to boost your preparation!](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026)
+[👉 Take our FREE VITEEE Mock Test 2026 to boost your preparation!]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 
 ### Internal References:
-* [All About VIT University Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
+* [All About VIT University Campuses]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 * [VIT Vellore B.Tech Admission 2026: Fees & Direct Admission](/blog/vit-vellore-btech-admission-2026-direct-fees-review/)
 * [Top B.Tech Colleges in Pune](/blog/top-btech-colleges-pune/)
 

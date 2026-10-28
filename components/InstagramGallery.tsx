@@ -15,7 +15,7 @@ export async function InstagramGallery() {
         {posts.map((post) => (
           <a 
             key={post.slug} 
-            href={`/blog/${post.slug}`} 
+            href={`/blog/${post.slug}/`}} 
             className="group relative aspect-square overflow-hidden rounded-xl border border-white/10 block bg-black/20"
           >
             <Image 

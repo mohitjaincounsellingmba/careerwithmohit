@@ -1,25 +1,16 @@
 ---
-title: Top B.Tech Colleges Under 5 Lakhs Total Fees (2026) – City-wise List
+title: 'Top B.Tech Colleges Under 5 Lakhs Budget in 2026: Fees, Placements & ROI'
 date: '2026-05-03'
 category: B.Tech
 description: >-
-  Looking for affordable engineering? Explore the best B.Tech colleges in Delhi
-  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur for 2026-2027 admissions &
-  career guidance.
+  Find top B.Tech colleges with total tuition under 5 Lakhs for 2026. Compare
+  government and private engineering institutes with strong placements and ROI.
 keywords:
-  - btech colleges under 5 lakhs
-  - low fees btech colleges india
-  - affordable engineering colleges 2026
-  - btech in kolkata under 5 lakhs
-  - government engineering colleges fees
-  - Direct Admission in Delhi
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
+  - btech colleges under 5 lakhs 2026
+  - low budget engineering colleges india
+  - btech colleges low fees high placement
+  - government btech colleges low fees
+  - affordable btech colleges 2026
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -35,8 +26,6 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-location: Delhi NCR
-state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.

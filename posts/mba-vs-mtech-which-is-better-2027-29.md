@@ -62,7 +62,7 @@ Both paths offer incredible career growth, high salaries, and distinct professio
 |---|---|---|
 | **Core Focus** | Leadership, Strategy, Finance, Marketing, HR | Engineering Research, Systems, R&D, Design |
 | **Duration** | 2 Years | 2 Years |
-| **Top Entrance Exams** | [CAT](/blog/10-tips-to-crack-cat-exam-2027-29), XAT, NMAT, SNAP, GMAT | [GATE](/blog/10-tips-to-crack-cat-exam-2027-29) |
+| **Top Entrance Exams** | [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), XAT, NMAT, SNAP, GMAT | [GATE]((/blog/10-tips-to-crack-cat-exam-2027-29/) |
 | **Top Colleges in India** | IIMs, [FMS Delhi](/colleges/fms-delhi/), XLRI, SPJIMR | IITs, IISc Bangalore, NITs, IIITs |
 | **Average Fees (Tier 1)**| ₹15 Lakhs - ₹28 Lakhs (Except FMS) | ₹2 Lakhs - ₹5 Lakhs |
 | **Average Starting Salary**| ₹18 LPA - ₹35 LPA (Tier-1) | ₹10 LPA - ₹24 LPA (Tier-1) |
@@ -97,8 +97,8 @@ For a detailed look at the advantages of pursuing management after engineering, 
 
 Getting into a top-tier college for either degree requires clearing some of the toughest entrance exams in India.
 
-* **For MBA:** The primary route is via [CAT](/blog/10-tips-to-crack-cat-exam-2027-29), XAT, or NMAT. The exams test Quantitative Aptitude, Verbal Ability (VARC), and Logical Reasoning/Data Interpretation (DILR). The interview process focuses heavily on communication, current affairs, and personality fitment.
-* **For M.Tech:** The primary exam is [GATE](/blog/10-tips-to-crack-cat-exam-2027-29). Unlike CAT, GATE tests your core engineering branch subjects (such as Computer Science, Mechanical, or Electrical engineering) along with basic Engineering Mathematics. It is highly conceptual and requires a solid foundation in your undergraduate subjects.
+* **For MBA:** The primary route is via [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), XAT, or NMAT. The exams test Quantitative Aptitude, Verbal Ability (VARC), and Logical Reasoning/Data Interpretation (DILR). The interview process focuses heavily on communication, current affairs, and personality fitment.
+* **For M.Tech:** The primary exam is [GATE]((/blog/10-tips-to-crack-cat-exam-2027-29/). Unlike CAT, GATE tests your core engineering branch subjects (such as Computer Science, Mechanical, or Electrical engineering) along with basic Engineering Mathematics. It is highly conceptual and requires a solid foundation in your undergraduate subjects.
 
 If you are already working and cannot commit to full-time on-campus classes, you might also explore customized programs like [M.Tech for Working Professionals](/blog/mtech-for-working-professionals-2026-fees-admission-syllabus/).
 

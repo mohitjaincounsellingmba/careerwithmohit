@@ -54,7 +54,7 @@ Unlike other competitive MBA entrance exams, NMAT stands out due to its scheduli
 
 > 🎯 **Master the Adaptive Format of NMAT**
 >
-> [👉 Start Your Free NMAT 2026 Mock Test Now](https://www.careerwithmohit.online/tools/nmat-mock-test)
+> [👉 Start Your Free NMAT 2026 Mock Test Now](https://careerwithmohit.online/tools/nmat-mock-test)
 
 ---
 
@@ -131,9 +131,9 @@ You are allowed up to three attempts in a single testing cycle (1 original attem
 
 ### Recommended Resources:
 
-* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)**
-* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai)**
-* **[Other Major MBA Entrance Exams for 2027–29 Admissions](/blog/1-year-online-mba-colleges-india-2027-29)**
+* **[Ultimate Guide to NMAT Exam Structure & Sectional Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[Honest Review of NMIMS Campuses: Mumbai vs Bangalore vs Hyderabad]((/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)**
+* **[Other Major MBA Entrance Exams for 2027–29 Admissions]((/blog/1-year-online-mba-colleges-india-2027-29/)**
 * **[Best MBA Colleges Acceptable with 200+ NMAT Score](/blog/baby-iims-review-2026-honest-analysis/)**
 
 *Source: Official guidelines on the GMAC website.*

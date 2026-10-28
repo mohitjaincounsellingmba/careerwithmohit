@@ -151,7 +151,7 @@ Math has the **highest number of questions (40)** and is the primary differentia
 | Mathematics | NCERT, RD Sharma (Concepts), Arihant Objective Math |
 | Aptitude | RS Aggarwal Quantitative Aptitude |
 | English | Wren & Martin (Grammar), Word Power Made Easy (Vocabulary) |
-| Mock Tests | SRMJEEE Previous Year Papers (2019–2025), [careerwithmohit.online free mock test](https://www.careerwithmohit.online/mock-tests) |
+| Mock Tests | SRMJEEE Previous Year Papers (2019–2025), [careerwithmohit.online free mock test](https://careerwithmohit.online/mock-tests) |
 
 ---
 
@@ -228,7 +228,7 @@ Since there's no negative marking, **mark all unattempted questions** using your
 
 👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee/)
 
-👉 [Explore All SRM University Campuses & Fees](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
+👉 [Explore All SRM University Campuses & Fees]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 
 👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29/)
 

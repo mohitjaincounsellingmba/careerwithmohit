@@ -45,12 +45,12 @@ export function BlogPostABHeader({ slug, defaultTitle, defaultDescription, abTes
 
   return (
     <div>
-      <h1 className="font-display text-5xl font-black tracking-tight text-foreground sm:text-7xl md:text-8xl mb-12 leading-[0.95] uppercase">
+      <h1 className="font-display text-2xl sm:text-3xl md:text-4xl font-black tracking-tight text-foreground mb-4 leading-snug">
         {displayTitle}
       </h1>
 
       {displayDescription && (
-        <p className="text-2xl md:text-3xl font-bold text-gray-700 leading-tight max-w-3xl border-l-[12px] border-primary pl-8 py-2">
+        <p className="text-sm sm:text-base font-medium text-slate-600 leading-relaxed max-w-3xl border-l-4 border-primary pl-4 py-1">
           {displayDescription}
         </p>
       )}

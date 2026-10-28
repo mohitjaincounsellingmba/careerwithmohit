@@ -107,7 +107,7 @@ Because the total marks in XAT are relatively low (usually around 100 marks), ge
 2. **Read Case Studies:** Read business case studies (such as Harvard Business School cases or basic management articles) to understand how real-world decisions are made.
 3. **Mock Tests:** Practice section-specific tests to learn how to manage time. Remember, XAT has a time limit of 175 minutes for Part 1 (VALR, DM, QADI). You should allocate roughly **30 to 35 minutes** to the DM section.
 
-To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29) or discover the broader landscape of [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
+To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) or discover the broader landscape of [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
 
 [👉 Struggling to align your logic with XLRI standards? Speak to our XAT preparation mentors today!](/inquiry/)
 

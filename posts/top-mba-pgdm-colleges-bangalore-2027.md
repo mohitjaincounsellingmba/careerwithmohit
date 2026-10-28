@@ -109,7 +109,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
   * Highly active corporate panel and guest speakers
   * 100% placement track with prominent domestic and global firms
 
-#### 7. [JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))](/blog/jagsom-bangalore)
+#### 7. [JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))]((/blog/jagsom-bangalore/)
 - **Accreditation:** AICTE Approved · AACSB Accredited (Top 5% Globally)
 - **Fee:** ₹17.50 Lakhs (Total)
 - **USP:** JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/)), located in Electronic City, is a prestigious AACSB-accredited business school. Ranked in QS World University rankings, it offers domain-led specialist PGDM programs mentored by global corporate veterans.
@@ -132,7 +132,7 @@ Here are the premier business schools in Bangalore for the 2027 admission intake
 | **[Alliance University (Alliance School of Business)](/colleges/alliance-university-bangalore/)** | ₹15.00L - ₹18.00L (Total) | Elite Private University | Anekal Campus, Bangalore |
 | **[ISME Bangalore (School of Management Excellence)](/colleges/isme-bangalore/)** | ₹9.90L - ₹10.95L (Total) | Global Academic Tie-Ups | Sarjapur Road, Bangalore |
 | **[Indus Business Academy (IBA Bangalore)](/colleges/iba-bangalore/)** | ₹10.25 Lakhs (Total) | IACBE USA Accredited | Kanakapura Road, Bangalore |
-| **[JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))](/blog/jagsom-bangalore)** | ₹17.50 Lakhs (Total) | AACSB Accredited (Top 5%) | Electronic City, Bangalore |
+| **[JAGSoM Bangalore ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))]((/blog/jagsom-bangalore/)** | ₹17.50 Lakhs (Total) | AACSB Accredited (Top 5%) | Electronic City, Bangalore |
 
 ---
 

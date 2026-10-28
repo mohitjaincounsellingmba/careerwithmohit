@@ -132,14 +132,14 @@ This is a battle of contrasts.
 * You specifically want to pursue niche fields like E-Business, Business Design, or Retail.
 * You want the geographic advantage of being in Mumbai for networking.
 * You are looking for a slightly lower fee structure to minimize your education loan burden.
-* 👉 [Read our full detailed review of Welingkar here](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29)
+* 👉 [Read our full detailed review of Welingkar here]((/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/)
 
 **Choose TAPMI If:**
 * You are dead set on a career in **Finance or Consulting** (the BKFS program is exceptional).
 * You want a globally recognized degree (AACSB & AMBA accredited).
 * You thrive in a highly rigorous, competitive, and structured academic environment.
 * You can afford the ₹20L+ investment and are aiming for a higher average starting package.
-* 👉 [Read our full detailed review of TAPMI here](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29)
+* 👉 [Read our full detailed review of TAPMI here]((/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/)
 
 ---
 

@@ -134,7 +134,7 @@ The essay is evaluated during the second stage of selection. Spend 15 minutes dr
 ---
 
 ### Related Articles:
-*   [All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Colleges](/blog/10-tips-to-crack-cat-exam-2027-29)
+*   [All About XAT Exam 2026: Pattern, Decision Making, Cutoff & Colleges]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 *   [Last Week XAT Strategy: 7 Days to Go](/blog/last-week-xat-2026-strategy-final-7-days/)
 *   [Top MBA Entrance Exams 2027–29: Fees & Placements](/blog/top-mba-entrance-exams-2026-guide/)
 ---

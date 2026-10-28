@@ -284,7 +284,7 @@ For top-tier colleges in Maharashtra, CMAT is the gateway exam. MAT is better fo
 
 ## 🔗 Related Guides
 
-- [All About CMAT Exam 2026: Pattern, Score, Cutoff](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CMAT Exam 2026: Pattern, Score, Cutoff]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [MAT & CMAT 2026: Best Colleges & Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)
 - [Top MBA Colleges Accepting CAT 70–80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
 - [Best MBA Colleges Low Fees High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)

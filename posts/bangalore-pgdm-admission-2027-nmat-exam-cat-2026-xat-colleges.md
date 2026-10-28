@@ -92,7 +92,7 @@ category: Exams
 * **[GIBS Business School](/colleges/gibs-bangalore/):** Focuses on innovation, practical entrepreneurship masterclasses, and strong corporate hiring. Check [All About GIBS Bangalore](/colleges/gibs-bangalore/).
 
 ### 4. [Indus Business Academy](/colleges/iba-bangalore/) (IBA) & ISME
-* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy](/blog/classroom-to-digital-academy-transition-guide-2027-29).
+* **IBA Bangalore:** Dedicated solely to PGDM with dual certifications and 8.5-acre lush residential campus. Read [All About Indus Business Academy]((/blog/classroom-to-digital-academy-transition-guide-2027-29/).
 * **ISME Sarjapur:** Known for global academic linkages, Singapore study tours, and fintech analytics tracks. Read [All About ISME Bangalore](/colleges/isme-bangalore/).
 
 ---
@@ -107,8 +107,8 @@ category: Exams
 
 ## Related Reads
 - [Top Ranked MBA/PGDM Institutes in Bangalore (2027-29)](/blog/top-mba-pgdm-institutes-bangalore-2027-29/)
-- [All About NMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About NMAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

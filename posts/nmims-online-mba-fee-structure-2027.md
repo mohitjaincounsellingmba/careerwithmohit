@@ -109,7 +109,7 @@ The **Online MBA** at NMIMS is a 2-year (4-semester) postgraduate program with s
 
 ## How to Apply for Admissions & Get Fee Support
 
-1. Check program options on the [NMIMS Online Directory Page](https://www.careerwithmohit.online/online-degree-certification/nmims-online).
+1. Check program options on the [NMIMS Online Directory Page](https://careerwithmohit.online/online-degree-certification/nmims-online).
 2. Connect with Chief Counsellor Mohit Jain for admission assistance and zero-cost EMI processing.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

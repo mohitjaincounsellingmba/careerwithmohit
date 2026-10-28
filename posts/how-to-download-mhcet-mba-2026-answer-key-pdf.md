@@ -120,8 +120,8 @@ If you believe a question in the official answer key is wrong, you can raise an 
 Once you have your raw score, you should start looking at the cutoffs for top colleges in Maharashtra. Remember that MHCET scores are used for all MMS/MBA seats in the state through the **Centralized Admission Process (CAP)**.
 
 1.  **Check Top Colleges**: Read our guide on [Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/).
-2.  **Understand the Exam**: Refresh your knowledge on the [MAH MBA CET Pattern & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29).
-3.  **Explore Backup Options**: If your expected score is low, consider [Direct MBA Admission in Mumbai](/blog/1-year-online-mba-colleges-india-2027-29).
+2.  **Understand the Exam**: Refresh your knowledge on the [MAH MBA CET Pattern & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+3.  **Explore Backup Options**: If your expected score is low, consider [Direct MBA Admission in Mumbai]((/blog/1-year-online-mba-colleges-india-2027-29/).
 4.  **Check Scholarship Opportunities**: Don't miss out on [MAH MBA CET Scholarship 2027–29](/blog/mah-mba-cet-scholarship-2026-eligibility-application-process/) details.
 
 **Need help with the CAP Round process?**  

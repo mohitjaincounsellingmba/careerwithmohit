@@ -4,16 +4,24 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { ChevronRight, Home } from "lucide-react";
 
-export function Breadcrumbs() {
+interface BreadcrumbsProps {
+    customTitle?: string;
+    skipJsonLd?: boolean;
+}
+
+export function Breadcrumbs({ customTitle, skipJsonLd = false }: BreadcrumbsProps = {}) {
     const pathname = usePathname();
     const pathSegments = pathname.split("/").filter((segment) => segment !== "");
 
     const breadcrumbs = pathSegments.map((segment, index) => {
-        const href = `/${pathSegments.slice(0, index + 1).join("/")}`;
-        const label = segment
-            .split("-")
-            .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-            .join(" ");
+        const href = `/${pathSegments.slice(0, index + 1).join("/")}/`;
+        const isCurrentPage = index === pathSegments.length - 1;
+        const label = isCurrentPage && customTitle
+            ? customTitle
+            : segment
+                .split("-")
+                .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(" ");
 
         return { label, href };
     });
@@ -42,10 +50,12 @@ export function Breadcrumbs() {
 
     return (
         <nav aria-label="Breadcrumb" className="mb-6">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbListSchema) }}
-            />
+            {!skipJsonLd && (
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbListSchema) }}
+                />
+            )}
             <ol className="flex flex-wrap items-center gap-2 text-sm font-bold uppercase tracking-wider text-slate-500">
                 <li className="flex items-center">
                     <Link href="/" className="hover:text-primary flex items-center gap-1 transition-colors">

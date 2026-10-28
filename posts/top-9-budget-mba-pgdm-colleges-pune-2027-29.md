@@ -93,12 +93,12 @@ Located in Tathawade, Akemi is known for its personalized mentoring. It’s a so
 ### 2. [ASM IIBR](/colleges/asm-iibr/) (MBA / PGDM)
 Part of the legacy ASM Group, IIBR offers industry-integrated programs with certifications from AWS, SAP, and Microsoft.
 - **Best For:** IT & Supply Chain Management.
-- **[Read Detailed [ASM IIBR](/colleges/asm-iibr/) Review](/blog/asm-iibr-review-2027-29)**
+- **[Read Detailed [ASM IIBR](/colleges/asm-iibr/) Review]((/blog/asm-iibr-review-2027-29/)**
 
 ### 3. [RIIM Pune](/colleges/riim-pune/) (MBA / PGDM)
 RIIM is famous for its "Corporate Residency" program and heavy emphasis on soft skills and personality development.
 - **Best For:** High ROI and Sales roles.
-- **[Read Detailed [RIIM Pune](/colleges/riim-pune/) Review](/blog/riim-pune-review-2027-29)**
+- **[Read Detailed [RIIM Pune](/colleges/riim-pune/) Review]((/blog/riim-pune-review-2027-29/)**
 
 ### 4. [ISMS Pune](/colleges/isms-pune/) (MBA / PGDM)
 ISMS positions itself as an "International" school. While the building is compact, they focus heavily on grooming students for MNC roles.
@@ -117,7 +117,7 @@ A part of the PCET group, PBS has gained rapid popularity due to its strong plac
 ### 7. MILE (Lexicon MILE)
 Lexicon MILE offers a more "premium" experience in the budget category. They focus heavily on "Day 1 Readiness" for their students.
 - **Best For:** Finance and Digital Marketing.
-- **[Read Detailed MILE Review](/blog/1-year-online-mba-colleges-india-2027-29)**
+- **[Read Detailed MILE Review]((/blog/1-year-online-mba-colleges-india-2027-29/)**
 
 ### 8. [FUEL Business School](/colleges/fuel-business-school/) (MBA)
 FUEL (Friends Union for Energising Lives) is unique because of its social mission and strong tie-ups with CSR wings of top MNCs.

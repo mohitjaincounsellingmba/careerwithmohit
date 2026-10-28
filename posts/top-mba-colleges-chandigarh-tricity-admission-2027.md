@@ -94,8 +94,8 @@ The **Chandigarh Tricity region (Chandigarh, Mohali, Panchkula)** and surroundin
 ---
 
 ## Related Reads
-- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
-- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [All About Chitkara University](/colleges/chitkara-university)
 
 ---

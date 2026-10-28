@@ -246,7 +246,7 @@ To maximize admission conversion at KJ Somaiya Mumbai for the 2027–2029 batch,
 
 ## 8. Comparative Analysis: KJ Somaiya Mumbai vs Peer Business Schools
 
-| Parameter | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [Welingkar Mumbai](/colleges/welingkar-mumbai/) | [SIES Navi Mumbai](/blog/sies-navi-mumbai-review-2027-29) | [TAPMI Manipal](/colleges/tapmi-manipal/) |
+| Parameter | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [Welingkar Mumbai](/colleges/welingkar-mumbai/) | [SIES Navi Mumbai]((/blog/sies-navi-mumbai-review-2027-29/) | [TAPMI Manipal](/colleges/tapmi-manipal/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#63** | #65 | — | #42 |
 | **Total Program Fee** | **₹20.87 Lakhs** | ₹14.00 Lakhs | ₹11.00 Lakhs | ₹19.50 Lakhs |

@@ -200,7 +200,7 @@ Wondering how your CBT result compares to other modes? Here's a quick overview:
 All colleges accepting MAT accept your CBT score equally. Apply to these as soon as your scorecard is ready:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** — Composite 500+ preferred
-- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review)** — MAT-friendly process
+- **[Jaipuria Institute of Management (Noida/Lucknow/Jaipur)]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/)** — MAT-friendly process
 - **[NDIM New Delhi](/colleges/ndim-delhi)** — Direct PGDM with MAT
 - **[FOSTIIMA Delhi](/colleges/fostiima-delhi)** — AICTE-approved PGDM
 - **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** — Banking & Finance MBA
@@ -251,7 +251,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)** — Complete MAT overview
+- **[All About MAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)** — Complete MAT overview
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
 - **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
 - **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)** — IBT-specific guide
@@ -280,7 +280,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 **Need personalised MBA counselling based on your MAT CBT score?** Connect with **Mohit Jain** for expert guidance on selecting the right college, preparing for GD/PI, and securing your admission.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://careerwithmohit.online/inquiry)**
 ---
 
 ### 🚀 Boost Your Preparation

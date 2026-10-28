@@ -53,7 +53,7 @@ Here are the **10 proven tips** to help you secure a seat in the elite IIMs.
 
 > 🎯 **Benchmark your prep today!**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://careerwithmohit.online/tools/cat-mock-test)
 
 ---
 
@@ -113,7 +113,7 @@ Solving complex math after 80 minutes of intense reading (VARC) and logic (DILR)
 ### Ready to Start?
 The best way to know where you stand is to take a realistic simulation.
 
-> [👉 Take the Free CAT 2026 Mock Test (Full Analysis)](https://www.careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take the Free CAT 2026 Mock Test (Full Analysis)](https://careerwithmohit.online/tools/cat-mock-test)
 
 ---
 

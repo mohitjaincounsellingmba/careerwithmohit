@@ -219,13 +219,13 @@ Your score is valid for 12 months. If you're targeting the 2027–29 batch but d
 All MAT-accepting colleges treat IBT scores equally with PBT and CBT. Apply to these:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** — Composite 500+ preferred
-- **[Jaipuria Institute of Management](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review)** — Strong MAT intake across campuses
+- **[Jaipuria Institute of Management]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/)** — Strong MAT intake across campuses
 - **[NDIM New Delhi](/colleges/ndim-delhi)** — Direct PGDM admissions
 - **[FOSTIIMA Delhi](/colleges/fostiima-delhi)** — Top Delhi PGDM institute
 - **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** — Banking & Finance specialisation
 - **[JIMS Rohini Delhi](/colleges/jims-rohini)** — AICTE-approved PGDM
-- **[TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29)** — Top B-School for high IBT scores
-- **[Lexicon MILE Pune](/blog/1-year-online-mba-colleges-india-2027-29)** — MAT-accepting Pune institute
+- **[TAPMI Manipal]((/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/)** — Top B-School for high IBT scores
+- **[Lexicon MILE Pune]((/blog/1-year-online-mba-colleges-india-2027-29/)** — MAT-accepting Pune institute
 
 👉 Full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
@@ -273,7 +273,7 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 ## Related Resources
 
-- **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)** — Complete MAT exam guide
+- **[All About MAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)** — Complete MAT exam guide
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes combined guide
 - **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
 - **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29/)** — CBT-specific guide
@@ -303,7 +303,7 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 **Want personalised advice on the best MBA college for your MAT IBT score?** Connect with **Mohit Jain** for expert admission counselling tailored to your score, budget, and career goals.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.online](https://www.careerwithmohit.online/inquiry)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://careerwithmohit.online/inquiry)**
 ---
 
 ### 🚀 Boost Your Preparation

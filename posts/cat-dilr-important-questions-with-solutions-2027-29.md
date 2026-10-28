@@ -59,7 +59,7 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.
+The **Data Interpretation and Logical Reasoning (DILR)** section is widely considered the make-or-break segment of the Common Admission Test ([CAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)). While Verbal Ability tests language nuance and Quantitative Aptitude rewards formula familiarity, **DILR tests raw analytical problem-solving under extreme time pressure**.
 
 To score a **99+ percentile in CAT 2026 DILR**, you do not need to solve all 20 questions. Mastering the art of **selecting the right sets and deploying structured tabular methods** is what separates IIM call-holders from the rest. For a holistic preparation overview, check out our [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
@@ -383,7 +383,7 @@ Looking to test your speed and accuracy under real exam simulation?
 ---
 
 ## 6. Related Resources & MBA Guidance
-* [All About CAT Exam 2026: Pattern, Syllabus & Registration](/blog/10-tips-to-crack-cat-exam-2027-29)
+* [All About CAT Exam 2026: Pattern, Syllabus & Registration]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [10 Proven Tips to Crack CAT 2026 from Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About IIM Colleges: Fees, Placements & Admission Process 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+* [All About IIM Colleges: Fees, Placements & Admission Process 2026]((/blog/1-year-online-mba-colleges-india-2027-29/)
 * [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)

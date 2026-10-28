@@ -76,7 +76,7 @@ Every year, over 3.3 lakh MBA aspirants register for CAT. However, thousands of 
 
 > 🎯 **Planning your percentile strategy?**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator/)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://careerwithmohit.online/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator/)
 
 ---
 
@@ -214,8 +214,8 @@ CAT 2026 will be conducted on **November 29, 2026 (Sunday)** in three computer-b
 
 ### Related Articles & Useful Resources
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About IIM Colleges: Placements, Fees & Selection 2026]((/blog/1-year-online-mba-colleges-india-2027-29/)
 * [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test/)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
 * [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)

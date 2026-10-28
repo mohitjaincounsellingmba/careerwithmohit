@@ -128,7 +128,7 @@ Admissions for the 2026 cycle are currently open. The selection process is more 
 ## 🔗 Related Resources
 *   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
 *   [Top BBA Colleges in Delhi 2026](/blog/top-bba-colleges-delhi-2026/)
-*   [All About GD Goenka University](/blog/gd-goenka-bba-review-2026)
+*   [All About GD Goenka University]((/blog/gd-goenka-bba-review-2026/)
 
 ---
 

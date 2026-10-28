@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { usePathname } from 'next/navigation';
 import dynamic from 'next/dynamic';
 
 const InquiryPopup = dynamic(
@@ -15,6 +16,8 @@ const BotInquiryPopup = dynamic(
 
 export function ClientWidgets() {
   const [shouldRender, setShouldRender] = useState(false);
+  const pathname = usePathname();
+  const isBlogPost = pathname?.startsWith('/blog/');
 
   useEffect(() => {
     // Delay loading heavy popups until after the initial critical render & interaction
@@ -55,6 +58,11 @@ export function ClientWidgets() {
   }, []);
 
   if (!shouldRender) return null;
+
+  // On blog post pages, keep at most ONE small dismissible element (the chat bubble)
+  if (isBlogPost) {
+    return <BotInquiryPopup />;
+  }
 
   return (
     <>

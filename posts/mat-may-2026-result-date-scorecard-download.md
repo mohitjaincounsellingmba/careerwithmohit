@@ -132,7 +132,7 @@ Your MAT May 2026 scorecard is valid for **12 months** from the date of declarat
 Once you receive your score, these are the top MBA institutes accepting MAT across Delhi NCR and beyond:
 
 - **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/)** – Composite score 500+ preferred
-- **[Jaipuria Institute of Management](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review)** – Strong MAT-accepting B-School
+- **[Jaipuria Institute of Management]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/)** – Strong MAT-accepting B-School
 - **[NDIM Delhi](/colleges/ndim-delhi)** – Direct admissions with MAT score
 - **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** – Banking & Finance MBA accepting MAT
 - **[FOSTIIMA Delhi](/colleges/fostiima-delhi)** – Top PGDM college accepting MAT
@@ -183,7 +183,7 @@ Yes. Your MAT score is valid for 12 months, so it can be used for both the curre
 Since AIMA does not pre-announce the result date, bookmark the official site and check your dashboard daily from **mid-June 2026** onwards. Avoid third-party websites claiming early results — the only authentic source is **mat.aima.in**.
 
 For more updates on MBA entrance exams and admissions, read:
-- **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29)**
+- **[All About MAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
 - **[MAT 2026 & CMAT 2026 Colleges Admission Guide](/blog/mat-2026-cmat-2026-colleges-admission-guide/)**
 - **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**
 

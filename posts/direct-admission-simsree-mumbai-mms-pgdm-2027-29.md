@@ -107,7 +107,7 @@ The current average package is approximately **₹15.19 LPA**.
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
-- [MAH MBA CET Exam Guide & Patterns](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [MAH MBA CET Exam Guide & Patterns]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [Comparison: MBA vs PGDM ROI](/blog/mba-vs-pgdm-difference/)
 
 [👉 Need guidance for your Maharashtra MBA CAP registration? Book a free session!](/inquiry/)

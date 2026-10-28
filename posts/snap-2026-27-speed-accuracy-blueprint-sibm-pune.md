@@ -225,7 +225,7 @@ Each correct answer awards +1 mark, while each wrong answer incurs a penalty of 
 
 Cracking SNAP is about ruthless speed and elimination of time-wasters. Focus on attempting **48 to 52 questions with 90%+ accuracy** to comfortably clear the cutoff for SIBM Pune and SCMHRD.
 
-For complete coverage of top entrance exams and Symbiosis institutes, check out our detailed guides on [All About SNAP Exam](/blog/10-tips-to-crack-cat-exam-2027-29), [How to Crack SNAP Exam](/blog/how-to-crack-snap-exam-2027-29/), and [All About Symbiosis Institutes](/blog/best-cat-coaching-institutes-and-fees-2027-29).
+For complete coverage of top entrance exams and Symbiosis institutes, check out our detailed guides on [All About SNAP Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/), [How to Crack SNAP Exam](/blog/how-to-crack-snap-exam-2027-29/), and [All About Symbiosis Institutes]((/blog/best-cat-coaching-institutes-and-fees-2027-29/).
 
 ---
 

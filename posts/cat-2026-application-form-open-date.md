@@ -56,7 +56,7 @@ If you are aiming to start your MBA journey in 2027, keeping track of the **CAT 
 
 > 🎯 **Measure Your Preparation Level Today**
 >
-> [👉 Try Our Free CAT 2026 Full-Length Mock Test Now](https://www.careerwithmohit.online/tools/cat-mock-test)
+> [👉 Try Our Free CAT 2026 Full-Length Mock Test Now](https://careerwithmohit.online/tools/cat-mock-test)
 
 ---
 
@@ -149,7 +149,7 @@ You will need a scanned passport-size photograph, your signature, category certi
 
 ### Recommended Resources:
 
-* **[Comprehensive Guide to CAT Exam Patterns & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29)**
+* **[Comprehensive Guide to CAT Exam Patterns & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
 * **[10 Proven Tips to Crack CAT 2026 by IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)**
 * **[Top MBA Entrance Exams in India: Dates, Syllabus & Fees](/blog/top-mba-entrance-exams-2026-guide/)**
 * **[IIM Cutoffs & Admission Criteria for 2027–29 Batch](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**

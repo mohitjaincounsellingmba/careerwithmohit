@@ -707,7 +707,7 @@ export function MbaCollegesPuneClient({
                   {trendingBlogs.slice(0, 4).map((post) => (
                     <Link
                       key={post.slug}
-                      href={`/blog/${post.slug}`}
+                      href={`/blog/${post.slug}/`}}
                       className="group block border-l-4 border-primary-brand pl-3 py-1 hover:border-foreground transition-all"
                     >
                       <span className="text-[9px] font-black text-slate-400 block mb-1">

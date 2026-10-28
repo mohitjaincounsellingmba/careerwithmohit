@@ -178,11 +178,37 @@ interface GeoLocationResult {
   keywords: string[];
 }
 
-function detectGeoFocus(title: string, content: string, keywords: string[]): GeoLocationResult {
-  const text = `${title} ${content} ${(keywords || []).join(" ")}`.toLowerCase();
-  
-  // 1. Noida / Greater Noida
-  if (text.includes("greater noida") || text.includes("noida") || text.includes("galgotias") || text.includes("bimtech") || text.includes("sharda") || text.includes("bennett")) {
+function detectGeoFocus(title: string, content: string, keywords: string[], postLocation?: string): GeoLocationResult {
+  const loc = (postLocation || "").toLowerCase();
+  const tit = (title || "").toLowerCase();
+
+  // Priority 1: Check explicit postLocation or title keywords first
+  if (
+    loc.includes("new delhi") ||
+    loc === "delhi" ||
+    loc.startsWith("delhi") ||
+    tit.includes("fms delhi") ||
+    tit.includes("fms") ||
+    tit.includes("delhi university") ||
+    tit.includes("iift delhi") ||
+    tit.includes("iit delhi") ||
+    tit.includes("dms iit delhi") ||
+    tit.includes("dtu delhi") ||
+    tit.includes("dtu") ||
+    tit.includes("fore school") ||
+    tit.includes("delhi school of economics") ||
+    tit.includes("in delhi")
+  ) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-DL",
+      placename: "New Delhi, Delhi, India",
+      position: "28.6139;77.2090",
+      keywords: ["Delhi Colleges", "Best Colleges in Delhi", "Delhi Admissions 2027", "New Delhi Direct Admission", "Delhi Career Counselling"]
+    };
+  }
+
+  if (loc.includes("noida") || tit.includes("greater noida") || tit.includes("noida") || tit.includes("bimtech") || tit.includes("galgotias") || tit.includes("sharda") || tit.includes("bennett")) {
     return {
       hasGeo: true,
       regionCode: "IN-UP",
@@ -192,8 +218,7 @@ function detectGeoFocus(title: string, content: string, keywords: string[]): Geo
     };
   }
 
-  // 2. Gurgaon / Gurugram
-  if (text.includes("gurgaon") || text.includes("gurugram") || text.includes("mdi gurgaon") || text.includes("great lakes gurgaon") || text.includes("bml munjal")) {
+  if (loc.includes("gurgaon") || loc.includes("gurugram") || tit.includes("gurgaon") || tit.includes("gurugram") || tit.includes("mdi gurgaon") || tit.includes("great lakes gurgaon") || tit.includes("bml munjal")) {
     return {
       hasGeo: true,
       regionCode: "IN-HR",
@@ -203,8 +228,7 @@ function detectGeoFocus(title: string, content: string, keywords: string[]): Geo
     };
   }
 
-  // 3. Ghaziabad / Faridabad
-  if (text.includes("ghaziabad") || text.includes("faridabad") || text.includes("imt ghaziabad") || text.includes("kiet") || text.includes("akgec")) {
+  if (loc.includes("ghaziabad") || loc.includes("faridabad") || tit.includes("ghaziabad") || tit.includes("faridabad") || tit.includes("imt ghaziabad")) {
     return {
       hasGeo: true,
       regionCode: "IN-UP",
@@ -214,10 +238,92 @@ function detectGeoFocus(title: string, content: string, keywords: string[]): Geo
     };
   }
 
-  // 4. Delhi / IPU / FMS
+  if (loc.includes("mumbai") || tit.includes("mumbai") || tit.includes("jbims") || tit.includes("spjimr") || tit.includes("nmims") || tit.includes("welingkar") || tit.includes("kj somaiya") || tit.includes("simsree")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-MH",
+      placename: "Mumbai, Maharashtra, India",
+      position: "19.0760;72.8777",
+      keywords: ["Mumbai Colleges", "Top MBA Colleges Mumbai", "Mumbai Admissions 2027", "Direct Admission Mumbai", "JBIMS & NMIMS Admission"]
+    };
+  }
+
+  if (loc.includes("pune") || tit.includes("pune") || tit.includes("sibm") || tit.includes("scmhrd") || tit.includes("pumba") || tit.includes("pibm") || tit.includes("iiebm")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-MH",
+      placename: "Pune, Maharashtra, India",
+      position: "18.5204;73.8567",
+      keywords: ["Pune Colleges", "Top MBA Colleges Pune", "Pune Admissions 2027", "Direct Admission Pune", "SIBM & SCMHRD Cutoff"]
+    };
+  }
+
+  if (loc.includes("bangalore") || loc.includes("bengaluru") || tit.includes("bangalore") || tit.includes("bengaluru") || tit.includes("iim bangalore") || tit.includes("christ university") || tit.includes("jain university") || tit.includes("jagsom")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-KA",
+      placename: "Bangalore, Karnataka, India",
+      position: "12.9716;77.5946",
+      keywords: ["Bangalore Colleges", "Top MBA Colleges Bangalore", "Bangalore Admissions 2027", "Direct Admission Bangalore", "Christ University Admission"]
+    };
+  }
+
+  if (loc.includes("hyderabad") || tit.includes("hyderabad") || tit.includes("isb") || tit.includes("woxsen") || tit.includes("ipe hyderabad")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-TG",
+      placename: "Hyderabad, Telangana, India",
+      position: "17.3850;78.4867",
+      keywords: ["Hyderabad Colleges", "Top MBA Colleges Hyderabad", "Hyderabad Admissions 2027", "Woxsen University Admission"]
+    };
+  }
+
+  if (loc.includes("chennai") || tit.includes("chennai") || tit.includes("great lakes chennai") || tit.includes("loyola chennai")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-TN",
+      placename: "Chennai, Tamil Nadu, India",
+      position: "13.0827;80.2707",
+      keywords: ["Chennai Colleges", "Tamil Nadu Admissions 2027", "Great Lakes Chennai Admission", "Top B-Schools South India"]
+    };
+  }
+
+  if (loc.includes("kolkata") || tit.includes("kolkata") || tit.includes("iim calcutta") || tit.includes("imi kolkata")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-WB",
+      placename: "Kolkata, West Bengal, India",
+      position: "22.5726;88.3639",
+      keywords: ["Kolkata Colleges", "Top MBA Colleges Kolkata", "Kolkata Admissions 2027", "West Bengal Management Colleges"]
+    };
+  }
+
+  if (loc.includes("jaipur") || tit.includes("jaipur") || tit.includes("jaipuria jaipur")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-RJ",
+      placename: "Jaipur, Rajasthan, India",
+      position: "26.9124;75.7873",
+      keywords: ["Jaipur Colleges", "Top MBA Colleges Jaipur", "Rajasthan Admissions 2027", "Direct Admission Jaipur"]
+    };
+  }
+
+  if (loc.includes("ahmedabad") || tit.includes("ahmedabad") || tit.includes("iim ahmedabad") || tit.includes("nirma") || tit.includes("irma")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-GJ",
+      placename: "Ahmedabad, Gujarat, India",
+      position: "23.0225;72.5714",
+      keywords: ["Ahmedabad Colleges", "Gujarat Admissions 2027", "IIM Ahmedabad & Nirma Admission"]
+    };
+  }
+
+  // Priority 2: Full text search across title, content, and keywords
+  const text = `${title} ${content} ${(keywords || []).join(" ")}`.toLowerCase();
+  
+  // 1. Delhi / IPU / FMS (checked first in body)
   if (
     text.includes("delhi") || 
-    text.includes("ncr") || 
     text.includes("ggsipu") || 
     text.includes("ipu") || 
     text.includes("janakpuri") || 
@@ -231,9 +337,42 @@ function detectGeoFocus(title: string, content: string, keywords: string[]): Geo
     return {
       hasGeo: true,
       regionCode: "IN-DL",
-      placename: "Delhi NCR, India",
+      placename: "New Delhi, Delhi, India",
       position: "28.6139;77.2090",
-      keywords: ["Delhi NCR Colleges", "Best Colleges in Delhi", "Delhi Admissions 2027", "GGSIPU Admission 2027", "Delhi Career Counselling"]
+      keywords: ["Delhi Colleges", "Best Colleges in Delhi", "Delhi Admissions 2027", "New Delhi Direct Admission", "Delhi Career Counselling"]
+    };
+  }
+
+  // 2. Noida / Greater Noida
+  if (text.includes("greater noida") || text.includes("noida") || text.includes("galgotias") || text.includes("bimtech") || text.includes("sharda") || text.includes("bennett")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-UP",
+      placename: "Noida, Greater Noida, Delhi NCR, India",
+      position: "28.5355;77.3910",
+      keywords: ["Noida Colleges", "Greater Noida Colleges", "Delhi NCR Admissions 2027", "Direct Admission Noida", "Top Colleges in Noida"]
+    };
+  }
+
+  // 3. Gurgaon / Gurugram
+  if (text.includes("gurgaon") || text.includes("gurugram") || text.includes("mdi gurgaon") || text.includes("great lakes gurgaon") || text.includes("bml munjal")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-HR",
+      placename: "Gurgaon, Gurugram, Delhi NCR, India",
+      position: "28.4595;77.0266",
+      keywords: ["Gurgaon Colleges", "Top B-Schools Gurgaon", "Delhi NCR Admissions 2027", "Gurugram Direct Admission"]
+    };
+  }
+
+  // 4. Ghaziabad / Faridabad
+  if (text.includes("ghaziabad") || text.includes("faridabad") || text.includes("imt ghaziabad") || text.includes("kiet") || text.includes("akgec")) {
+    return {
+      hasGeo: true,
+      regionCode: "IN-UP",
+      placename: "Ghaziabad, Faridabad, Delhi NCR, India",
+      position: "28.6692;77.4538",
+      keywords: ["Ghaziabad Colleges", "Faridabad Colleges", "Delhi NCR Admissions 2027"]
     };
   }
 
@@ -390,12 +529,32 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     ogImageUrl = `https://careerwithmohit.online${ogImageUrl}`;
   }
 
-  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
+  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || [], (postData as any).location);
+
+  const postKeywords = geoResult.hasGeo
+    ? [...cleanedKeywords, ...geoResult.keywords, "Mohit Jain"]
+    : [...cleanedKeywords, "Career Counselling India", "Mohit Jain"];
+
+  const otherMeta: Record<string, string> = {
+    "citation_title": cleanedTitle,
+    "citation_author": "Mohit Jain",
+    "citation_publication_date": postData.date,
+    "citation_online_date": postData.date,
+    "citation_publisher": "CareerWithMohit",
+  };
+
+  if (geoResult.hasGeo && geoResult.placename) {
+    otherMeta["geo.region"] = geoResult.regionCode;
+    otherMeta["geo.placename"] = geoResult.placename;
+    otherMeta["geo.position"] = geoResult.position;
+    otherMeta["ICBM"] = geoResult.position.replace(';', ', ');
+    otherMeta["coverage"] = geoResult.placename;
+  }
 
   return {
     title: postTitle,
     description: postDescription,
-    keywords: [...cleanedKeywords, ...geoResult.keywords, "MBA Admissions 2027", "Career Counselling India", "Mohit Jain"],
+    keywords: postKeywords,
     openGraph: {
       title: postTitle,
       description: postDescription,
@@ -421,21 +580,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       images: [ogImageUrl],
     },
     alternates: {
-      canonical: `/blog/${slug}/`,
+      canonical: `https://careerwithmohit.online/blog/${slug}/`,
     },
-    other: {
-      "citation_title": cleanedTitle,
-      "citation_author": "Mohit Jain",
-      "citation_publication_date": postData.date,
-      "citation_online_date": postData.date,
-      "citation_publisher": "CareerWithMohit",
-      "geo.region": geoResult.regionCode,
-      "geo.placename": geoResult.placename,
-      "geo.position": geoResult.position,
-      "ICBM": geoResult.position.replace(';', ', '),
-      "coverage": geoResult.placename,
-      "ai-content-declaration": "human-authored-expert-guidance"
-    }
+    other: otherMeta
   };
 }
 
@@ -461,7 +608,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     ? (postData.image.startsWith('http') ? postData.image : `https://careerwithmohit.online${postData.image}`)
     : `https://careerwithmohit.online/og-image.webp`;
 
-  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || []);
+  const geoResult = detectGeoFocus(postData.title || "", postData.content || "", postData.keywords || [], (postData as any).location);
 
   const articleData: any = {
     "@context": "https://schema.org",
@@ -471,6 +618,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "image": articleImage,
     "datePublished": postData.date,
     "dateModified": postData.date,
+    // TODO: Verify every credential claim (IIM Bangalore, FMS Delhi, certifications) against official certificates and documents before promoting in schema.
     "author": {
       "@type": "Person",
       "@id": "https://careerwithmohit.online/#person-mohit-jain",
@@ -634,38 +782,35 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       {howToSchema && <JsonLd data={howToSchema} />}
       {quizSchema && <JsonLd data={quizSchema} />}
 
-      {/* HEADER SECTION - ULTRA PREMIUM */}
-      <div className="bg-white border-b-[12px] border-foreground pt-20 pb-20 px-6 sm:px-12 relative overflow-hidden">
+      {/* HEADER SECTION - BALANCED & EDITORIAL */}
+      <div className="bg-white border-b-4 border-foreground pt-6 pb-6 px-4 sm:px-8 relative overflow-hidden">
         {/* Decorative elements */}
-        <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full -mr-20 -mt-20" />
-        <div className="absolute bottom-0 left-0 w-40 h-40 bg-accent/10 rotate-12 -ml-10 -mb-10" />
+        <div className="absolute top-0 right-0 w-48 h-48 bg-primary/5 rounded-full -mr-16 -mt-16 pointer-events-none" />
 
         <div className="mx-auto max-w-4xl relative z-10">
-          <div className="mb-8">
-            <Breadcrumbs />
+          <div className="mb-3">
+            <Breadcrumbs customTitle={cleanedTitle} skipJsonLd={true} />
           </div>
 
-          <Link href="/blog/" className="mb-12 inline-flex items-center gap-3 text-lg font-black text-foreground group transition-all">
-            <div className="h-10 w-10 flex items-center justify-center border-4 border-foreground group-hover:bg-primary group-hover:text-white transition-colors uppercase">
-              <ArrowLeft className="h-6 w-6 stroke-[3.5px]" />
-            </div>
-            Back to Articles
+          <Link href="/blog/" className="mb-4 inline-flex items-center gap-2 text-xs sm:text-sm font-bold text-slate-600 hover:text-primary transition-colors group">
+            <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
+            <span>Back to Articles</span>
           </Link>
 
           <header>
-            <div className="mb-10 flex flex-wrap items-center gap-6">
-              <div className="bg-foreground text-white px-5 py-2 text-sm font-black uppercase tracking-widest -rotate-1 border-4 border-foreground">
-                {new Date(postData.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
-              </div>
+            <div className="mb-4 flex flex-wrap items-center gap-2 sm:gap-3 text-xs">
+              <span className="bg-foreground text-white px-3 py-1 font-bold uppercase tracking-wider rounded">
+                {new Date(postData.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+              </span>
               <Link
                 href={`/blog/?category=${encodeURIComponent(postData.category || 'General & Career Guide')}`}
-                className="bg-primary hover:bg-secondary text-white px-5 py-2 text-sm font-black uppercase tracking-widest rotate-1 border-4 border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-transform hover:-translate-y-0.5 inline-block"
+                className="bg-primary hover:bg-secondary text-white px-3 py-1 font-bold uppercase tracking-wider rounded transition-colors inline-block"
               >
                 {postData.category || 'General & Career Guide'}
               </Link>
-              <div className="bg-accent text-foreground px-5 py-2 text-sm font-black uppercase tracking-widest rotate-1 border-4 border-foreground">
+              <span className="bg-accent text-foreground px-3 py-1 font-bold uppercase tracking-wider rounded border border-foreground/20">
                 Expert Analysis
-              </div>
+              </span>
               <BlogViewCounter slug={slug} publishDate={postData.date} />
             </div>
 
@@ -679,15 +824,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         </div>
       </div>
 
-      <div className="mx-auto max-w-4xl px-6 sm:px-12 mt-20 pb-20">
+      <div className="mx-auto max-w-4xl px-4 sm:px-8 mt-8 pb-16">
         {postData.image && (
-          <div className="mb-16 relative w-full h-[400px] md:h-[500px] border-8 border-foreground rounded-xl overflow-hidden shadow-[12px_12px_0px_0px_rgba(0,0,0,1)]">
+          <div className="mb-8 relative w-full h-[220px] sm:h-[300px] md:h-[360px] border-4 border-foreground rounded-xl overflow-hidden shadow-[6px_6px_0px_0px_rgba(0,0,0,1)]">
             <Image
               src={postData.image}
               alt={cleanedTitle}
               fill
               className="object-cover"
-              sizes="(max-w-7xl) 100vw, 800px"
+              sizes="(max-width: 768px) 100vw, 800px"
               priority
             />
           </div>
@@ -964,7 +1109,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               const displayPosts = sameCat.length >= 2 ? sameCat.slice(0, 2) : allPosts.slice(0, 2);
 
               return displayPosts.map(other => (
-                <Link key={other.slug} href={`/blog/${other.slug}`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
+                <Link key={other.slug} href={`/blog/${other.slug}/`} className="group p-8 border-4 border-foreground bg-white hover:bg-accent transition-all shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] flex flex-col justify-between">
                   <div>
                     <span className="inline-block px-2.5 py-0.5 rounded bg-secondary text-white text-xs font-black uppercase mb-4 border border-foreground">
                       {other.category || 'General & Career Guide'}

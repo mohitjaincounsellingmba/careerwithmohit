@@ -222,7 +222,7 @@ Yes. Most IT companies (TCS, Wipro, Infosys, Accenture) hire ECE graduates for s
 
 - [Best B.Tech ECE Colleges in Delhi NCR (Direct Admission)](/blog/best-btech-ece-colleges-delhi-ncr-direct-admission-2026/)
 - [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
-- [All About GATE Exam — PSU Jobs & M.Tech Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+- [All About GATE Exam — PSU Jobs & M.Tech Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
 - [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
 

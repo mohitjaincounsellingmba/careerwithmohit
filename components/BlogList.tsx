@@ -663,7 +663,7 @@ function BlogListInner({ initialPosts }: { initialPosts: PostData[] }) {
                   </button>
                 </div>
 
-                <Link href={`/blog/${slug}`} prefetch={false} className="flex flex-col flex-grow">
+                <Link href={`/blog/${slug}/`} prefetch={false} className="flex flex-col flex-grow">
                   <h3 className="font-display text-xl font-bold tracking-tight text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-3 leading-snug">
                     {title}
                   </h3>

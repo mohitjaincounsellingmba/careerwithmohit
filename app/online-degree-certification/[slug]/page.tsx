@@ -1149,14 +1149,14 @@ export default async function OnlineDegreeSubpage({ params }: { params: Promise<
                     </div>
                     <div className="mx-1.5">
                       {collegeA.slug ? (
-                        <a href={`/blog/${collegeA.slug}`} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
+                        <a href={`/blog/${collegeA.slug}/`}} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
                           <BookOpen size={12} /> {collegeA.name.split(' ')[0]} Review
                         </a>
                       ) : '—'}
                     </div>
                     <div className="mx-1.5">
                       {collegeB.slug ? (
-                        <a href={`/blog/${collegeB.slug}`} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
+                        <a href={`/blog/${collegeB.slug}/`}} className="inline-flex items-center gap-1 font-display font-extrabold text-xs text-[#2563EB] bg-blue-50 px-4 py-2 rounded-full border border-blue-200/60 hover:bg-[#2563EB] hover:text-white transition-colors">
                           <BookOpen size={12} /> {collegeB.name.split(' ')[0]} Review
                         </a>
                       ) : '—'}

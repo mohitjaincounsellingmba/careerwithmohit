@@ -78,7 +78,7 @@ In this verified 2027 admission review, senior education consultant **Mohit Jain
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** (PGDM Core/IB/IBM/RM) | Knowledge Park II | ₹14.50 Lakhs | ₹11.80 LPA | CAT / XAT / CMAT (75+ %ile) / GMAT |
-| **[Bennett University](/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff)** (MBA Core/Tech-MBA) | Plot 8-11, TechZone II | ₹12.50 Lakhs | ₹9.50 LPA | CAT / XAT / NMAT / MAT / BUMAT |
+| **[Bennett University]((/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** (MBA Core/Tech-MBA) | Plot 8-11, TechZone II | ₹12.50 Lakhs | ₹9.50 LPA | CAT / XAT / NMAT / MAT / BUMAT |
 | **[GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida)** (PGDM) | Knowledge Park II | ₹8.25 Lakhs | ₹8.10 LPA | CAT / MAT / CMAT / XAT (65+ %ile) |
 | **[IILM University Greater Noida](/colleges/iilm-university-greater-noida)** (MBA / PGDM) | Knowledge Park II | ₹11.50 Lakhs | ₹8.50 LPA | CAT / MAT / XAT / CMAT (65+ %ile) |
 | **[Galgotias University (School of Business)](/colleges/galgotias-university)** (MBA) | Yamuna Expressway | ₹5.50 Lakhs | ₹6.50 LPA | CUET-PG / MAT / NMAT / Direct |

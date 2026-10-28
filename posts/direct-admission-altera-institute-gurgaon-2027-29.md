@@ -109,7 +109,7 @@ Minimum 50% in graduation and a valid score in ALNAT or any national entrance ex
 ---
 
 ## 🔗 Related Resources
-- [All About Altera Institute Review](/blog/direct-admission-altera-institute-gurgaon-2027-29)
+- [All About Altera Institute Review]((/blog/direct-admission-altera-institute-gurgaon-2027-29/)
 - [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 - [Direct MBA Admission India 2027–29](/blog/direct-mba-admission-india/)
 

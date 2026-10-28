@@ -47,7 +47,7 @@ Whether you are a working professional or a college student, this ultimate **CAT
 
 > 🚀 **Think you're ready for the IIMs?**
 >
-> [👉 Take the Realistic CAT 2026 Mock Test (Free)](https://www.careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take the Realistic CAT 2026 Mock Test (Free)](https://careerwithmohit.online/tools/cat-mock-test)
 
 ---
 

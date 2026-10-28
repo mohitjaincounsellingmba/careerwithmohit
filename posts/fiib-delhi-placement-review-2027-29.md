@@ -74,7 +74,7 @@ category: Jobs & Careers
 *   **Mentorship Model**: The institute provides personal mentorship to ensure students are industry-ready, which reflects in their high Top-20% salary performance.
 
 ### **Check Other Placement Guides:**
-*   [NDIM Delhi Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)
+*   [NDIM Delhi Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
 *   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025/)
 *   [MICA Ahmedabad 2026 Placement Review](/colleges/mica-ahmedabad)
 

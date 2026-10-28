@@ -75,7 +75,7 @@ In this comprehensive review, we dive deep into fees, placements, location advan
 *   **The Pros**: Excellent infrastructure, strong faculty, and top-tier guest lectures. The campus life is vibrant.
 *   **The Cons**: With a very large batch size across multiple campuses, placement competition can sometimes be fierce. The average package hovers around ₹8.95 LPA, which is good but slightly trails behind top-tier Delhi competitors when factoring in living costs in Noida.
 
-*(Read our full [Jaipuria Noida Review](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review))*
+*(Read our full [Jaipuria Noida Review]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/))*
 
 ---
 

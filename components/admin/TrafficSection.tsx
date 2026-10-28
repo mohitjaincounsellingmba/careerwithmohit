@@ -417,7 +417,7 @@ export function TrafficSection({ data, activeNow, timeRange }: TrafficSectionPro
                   </span>
                   <div className="min-w-0">
                     <a
-                      href={`/blog/${b.slug}`}
+                      href={`/blog/${b.slug}/`}}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-xs font-bold text-white group-hover:text-amber-400 transition-colors line-clamp-1 flex items-center gap-1.5"

@@ -220,9 +220,9 @@ Considering the **11-month fast-track duration**, reduced opportunity cost (1 ye
 
 Looking to explore more about postgraduate finance programs, management entrance exams, and B-school comparisons? Check out these curated guides on **Career With Mohit**:
 *   **[Alternate Masters to MBA / PGDM: MMS, PGP & Specialized Degrees](/blog/alternate-masters-to-mba-pgdm-mms-pgp/)**
-*   **[All About CAT Exam 2026: Pattern, Syllabus & Top Cut-offs](/blog/10-tips-to-crack-cat-exam-2027-29)**
-*   **[All About GMAT Exam 2026: Colleges, Cut-offs & Preparation Guide](/blog/1-year-online-mba-colleges-india-2027-29)**
-*   **[Top MBA Fintech & Finance Colleges in India 2027–29](/blog/1-year-online-mba-colleges-india-2027-29)**
+*   **[All About CAT Exam 2026: Pattern, Syllabus & Top Cut-offs]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
+*   **[All About GMAT Exam 2026: Colleges, Cut-offs & Preparation Guide]((/blog/1-year-online-mba-colleges-india-2027-29/)**
+*   **[Top MBA Fintech & Finance Colleges in India 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)**
 *   **[All IIM Cut-offs 2027–29 Batch: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
 
 ---
@@ -248,7 +248,7 @@ Applicants need a Bachelor's degree in Finance, Commerce, Economics, Business, E
 
 ### 🚀 Ready to Elevate Your Finance & MBA Journey?
 
-> [👉 Take our Free MBA & CAT 2027–29 Full-Length Mock Test & Benchmark Your Preparation](https://www.careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take our Free MBA & CAT 2027–29 Full-Length Mock Test & Benchmark Your Preparation](https://careerwithmohit.online/tools/cat-mock-test)
 
 ---
 

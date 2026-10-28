@@ -284,8 +284,8 @@ The photograph must be a recent color picture with a white background (30mm x 45
 ### Related Articles & Useful Resources
 * [CAT Exam 2026 Last Date of Registration: Timeline & Fees](/blog/cat-exam-2026-last-date-of-registration/)
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/1-year-online-mba-colleges-india-2027-29)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About IIM Colleges: Placements, Fees & Selection 2026]((/blog/1-year-online-mba-colleges-india-2027-29/)
 * [Free CAT 2026 Full-Length Online Mock Test](/tools/cat-mock-test/)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
 * [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)

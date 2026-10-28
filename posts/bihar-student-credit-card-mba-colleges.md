@@ -4,26 +4,14 @@ title: >-
   City-Wise List
 date: '2026-03-25'
 description: >-
-  Updated city-wise list of top private MBA colleges accepting the Bihar Student
-  Credit Card (DRCC/BSCC) scheme for 2027–29.
+  Complete state-wise list of top private MBA colleges accepting Bihar Student
+  Credit Card (DRCC/BSCC) 4 Lakh loan scheme for 2027-29 admissions.
 keywords:
-  - Bihar Student Credit Card top MBA colleges 2027–29
+  - Bihar Student Credit Card top MBA colleges
   - DRCC approved MBA colleges list
   - BSCC scheme 0 percent interest MBA
   - MBA colleges for Bihar students in Pune
-  - Bihar education loan 2026 for PGDM
   - DRCC approved colleges Bangalore
-  - how to apply for BSCC for MBA outside Bihar
-  - Best Colleges in Noida
-  - Noida Admissions 2026
-  - Direct Admission in Noida
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Is the Bihar Student Credit Card really interest-free in 2026?
     answer: >-
@@ -39,8 +27,6 @@ faqs:
       your grace period.
   - question: How long does the verification process take?
     answer: Usually **45 to 60 days** from the date of your DRCC office visit.
-location: Delhi NCR
-state: Delhi NCR
 category: MBA
 ---
 

@@ -73,7 +73,7 @@ Students must ensure their course complies with NMC FMGL 2021:
 ## 🔗 Related Links
 
 * [MBBS Abroad Guidelines 2026](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
-* [NEET UG Exam Guide](/blog/10-tips-to-crack-cat-exam-2027-29)
+* [NEET UG Exam Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
 ---
 
 ### 🚀 Boost Your Preparation

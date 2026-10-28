@@ -78,7 +78,7 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (PGDM Core/HRM/IB) | Gurugram | ₹25.00 Lakhs | ₹27.60 LPA | CAT (95.0+ %ile) / GMAT |
 | **[Masters’ Union](/colleges/masters-union-gurgaon/)** (PGP-TBM) | DLF Cyber City, GGN | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / MU-BAAT |
 | **[IIFT Delhi](/colleges/iift-delhi/)** (MBA-IB) | South Delhi | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
-| **[IMT Ghaziabad](/blog/best-bba-colleges-ghaziabad-admission-guide-2026)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
+| **[IMT Ghaziabad]((/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
 | **[IIM Rohtak](/colleges/iim-rohtak/)** (PGP) | Rohtak (NCR) | ₹20.00 Lakhs | ₹18.70 LPA | CAT (95.0+ %ile) |
 | **[IMI New Delhi](/colleges/imi-delhi/)** (PGDM) | South Delhi | ₹23.50 Lakhs | ₹17.90 LPA | CAT / XAT (88.0+ %ile) |
 | **[FORE School of Management](/colleges/fore-school-delhi/)** (PGDM) | South Delhi | ₹20.70 Lakhs | ₹16.40 LPA | CAT / XAT (85.0+ %ile) |
