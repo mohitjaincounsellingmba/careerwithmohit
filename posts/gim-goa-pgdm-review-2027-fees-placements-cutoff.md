@@ -241,7 +241,7 @@ Securing admission into GIM Goa across its competitive specialized streams requi
 
 ## 8. Comparative Analysis: GIM Goa vs Peer Business Schools
 
-| Parameter | [GIM Goa](/colleges/gim-goa/) | [TAPMI Manipal](/colleges/tapmi-manipal/) | [FORE School Delhi](/colleges/fore-school-delhi/) | [Great Lakes Chennai (PGDM)](/colleges/great-lakes-chennai/) |
+| Parameter | [GIM Goa](/colleges/gim-goa/) | [TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/) | [FORE School Delhi](/colleges/fore-school-delhi/) | [Great Lakes Chennai (PGDM)](/colleges/great-lakes-chennai/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#37** | #42 | #53 | #34 |
 | **Total Program Fee** | **₹19.50 Lakhs** | ₹19.50 Lakhs | ₹18.00 Lakhs | ₹21.00 Lakhs |

@@ -82,7 +82,7 @@ Known for its engineering and architecture focus.
 *   **Heritage:** A culturally rich and secure environment for students.
 
 [👉 Get Admission Counseling for Jaipur 2026](/inquiry/)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Need help deciding between Manipal Jaipur and Poornima? Let our experts guide you!**
 

@@ -97,8 +97,8 @@ Symbiosis institutes shortlist candidates based purely on overall raw score out 
 
 | Institute Name | Program Offered | Expected Percentile Cutoff | Target Raw Score (Out of 60) |
 | :--- | :--- | :--- | :--- |
-| **[SIBM Pune](/blog/all-about-sibm-pune/)** | **MBA (Flagship) / MBA Innovation** | **98.5+ Percentile** | **44 – 46+ Marks** |
-| **[SCMHRD Pune](/blog/all-about-scmhrd-pune/)** | **MBA Core / MBA HR** | **97.0+ Percentile** | **41 – 43+ Marks** |
+| **[SIBM Pune](/blog/sibm-pune-mba-review-2027-fees-placements-cutoff/)** | **MBA (Flagship) / MBA Innovation** | **98.5+ Percentile** | **44 – 46+ Marks** |
+| **[SCMHRD Pune](/blog/scmhrd-pune-mba-review-2027-fees-placements-cutoff/)** | **MBA Core / MBA HR** | **97.0+ Percentile** | **41 – 43+ Marks** |
 | **[SCMHRD Pune](/colleges/scmhrd-pune/)** | **MBA Business Analytics** | **95.0+ Percentile** | **38 – 40+ Marks** |
 | **[SIBM Bangalore](/colleges/sibm-bangalore/)** | **MBA Core** | **90.0+ Percentile** | **36 – 38+ Marks** |
 | **SIIB Pune** | **MBA International Business** | **88.0+ Percentile** | **34 – 36+ Marks** |

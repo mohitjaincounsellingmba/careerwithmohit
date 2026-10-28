@@ -199,7 +199,7 @@ Typical IIM Shortlisting Weightage Distribution
 **Scoring in the 80–90 percentile bracket opens strong opportunities in premier non-IIM institutions as well as select Baby IIMs through profile-based evaluation.**
 
 If your CAT percentile falls in the 80–90 range, target these high-ROI institutions:
-- **Premier Non-IIM B-Schools**: [FMS Delhi](/colleges/fms-delhi/) *(for reserved categories)*, [FORE School of Management](/colleges/fore-school-delhi/), [GIM Goa](/colleges/gim-goa/), [Great Lakes Chennai](/colleges/great-lakes-chennai/), [TAPMI Manipal](/colleges/tapmi-manipal/), and [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/).
+- **Premier Non-IIM B-Schools**: [FMS Delhi](/colleges/fms-delhi/) *(for reserved categories)*, [FORE School of Management](/colleges/fore-school-delhi/), [GIM Goa](/colleges/gim-goa/), [Great Lakes Chennai](/colleges/great-lakes-chennai/), [TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/), and [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/).
 - **Baby IIM Supplementary Rounds (SAP)**: Participate in IIM Jammu and IIM Sirmaur SAP counseling rounds.
 - **Alternative National Exams**: Boost your admission odds by taking **XAT** (for XLRI, XIMB, IMT), **NMAT** (for NMIMS Mumbai), and **SNAP** (for SIBM Pune, SCMHRD).
 

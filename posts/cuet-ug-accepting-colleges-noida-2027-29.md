@@ -82,7 +82,7 @@ Known for its management education legacy.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
 [👉 Get Noida CUET Admission Guidance](/inquiry/)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about Amity vs NIU? Talk to our CUET consultants today!**
 

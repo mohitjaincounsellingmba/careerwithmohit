@@ -90,7 +90,7 @@ Jaipur is an excellent choice for students who want a balanced lifestyle with qu
 
 ## 🔗 Related Resources
 - [Best MBA Colleges in Jaipur 2026](/blog/best-mba-colleges-in-jaipur-2027-29/)
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [Career Roadmaps 2026](/blog/career-roadmaps-2027-29/)
 
 ---

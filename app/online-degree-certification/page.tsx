@@ -879,7 +879,7 @@ export default function OnlineDegreePage() {
                       <td className="px-6 py-4 font-mono text-xs font-bold text-[#061124]">{univ.approvals}</td>
                       <td className="px-6 py-4 text-center">
                         {univ.slug ? (
-                          <Link href={`/blog/${univ.slug}/`}} className="inline-flex items-center gap-1 text-xs font-bold text-[#2563EB] hover:bg-[#2563EB] hover:text-white bg-blue-50 px-3 py-1.5 rounded-full border border-blue-200/60 transition-colors">
+                          <Link href={`/blog/${univ.slug}/`} className="inline-flex items-center gap-1 text-xs font-bold text-[#2563EB] hover:bg-[#2563EB] hover:text-white bg-blue-50 px-3 py-1.5 rounded-full border border-blue-200/60 transition-colors">
                             <BookOpen size={12} /> Review
                           </Link>
                         ) : (

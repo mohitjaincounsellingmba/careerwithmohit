@@ -115,7 +115,7 @@ For aspirants planning their **MBA/PGDM admission for the 2027-29 batch**, evalu
 
 ### 5. [Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB), South Delhi
 * **Highlights**: Situated in Vasant Vihar, FIIB holds AACSB global membership and NBA accreditation.
-* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/all-about-fiib-delhi/).
+* **Curriculum**: Heavy focus on digital transformation, business analytics, and corporate mentorship. Learn more at [All About FIIB Delhi](/blog/fiib-delhi-review-2027/).
 
 ---
 

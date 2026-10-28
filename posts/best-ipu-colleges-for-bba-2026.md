@@ -118,7 +118,7 @@ With a total 3-year tuition fee of approximately **₹3.3 Lakhs to ₹3.6 Lakhs*
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [BBA Admission 2026 Delhi NCR Entrance Guide](/blog/bba-admission-2026-delhi-ncr-cutoffs-entrance-exams-cuet/)
 - [Best Affordable BBA Colleges under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
 - [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)

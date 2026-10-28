@@ -92,11 +92,11 @@ The good news is that top autonomous AICTE-approved institutions across **Delhi 
 
 ### 1. Delhi NCR Hub (60–75 Percentile Options)
 * **NDIM New Delhi & FOSTIIMA:** Both located in South/West Delhi, providing students with direct corporate live projects across Gurgaon and Connaught Place corporate corridors. Read [All About NDIM Delhi](/colleges/ndim-delhi) and [All About FOSTIIMA Delhi](/colleges/fostiima-delhi).
-* **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/all-about-fiib-delhi/) and [All About JIMS Kalkaji](/colleges/jims-kalkaji/).
+* **FIIB & JIMS Kalkaji:** Well-established institutions offering specialized data analytics and dual specializations. Read [All About FIIB Delhi](/blog/fiib-delhi-review-2027/) and [All About JIMS Kalkaji](/colleges/jims-kalkaji/).
 
 ### 2. Pune Hub (50–70 Percentile Options)
-* **[PIBM Pune](/colleges/pibm-pune/) & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/blog/all-about-pibm-pune/) and [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/).
-* **[RIIM Pune](/colleges/riim-pune/):** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/all-about-riim-pune/).
+* **[PIBM Pune](/colleges/pibm-pune/) & Lexicon MILE:** Focus on corporate preparedness, Bloomberg terminal training, and intensive 2-month summer internships. Read [All About PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/) and [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/).
+* **[RIIM Pune](/colleges/riim-pune/):** Budget-friendly fee model under ₹8.90 Lakhs with 100% placement tracking. Check [All About RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
 
 ### 3. Greater Noida Hub (50–65 Percentile Options)
 * **GL Bajaj, GNIOT (GIMS), Accurate, and Lloyd:** Knowledge Park institutions providing low tuition costs and proximity to Noida IT hubs. Read [All About GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida) and [All About GNIOT GIMS](/colleges/gniot-greater-noida/).

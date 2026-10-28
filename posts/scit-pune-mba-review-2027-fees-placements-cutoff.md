@@ -218,7 +218,7 @@ Located inside Hinjawadi Infotech Park, SCIT provides a world-class academic env
 
 To help you decide whether SCIT aligns with your career goals, consider this side-by-side comparison with top peer business schools in technology management:
 
-| Parameter | [SCIT Pune](/colleges/scit-pune/) | [SIDTM Pune](/colleges/sidtm-pune/) | [TAPMI (MBA-BKFS/Core)](/colleges/tapmi-manipal/) | [GIM Goa (PGDM-BDA)](/colleges/gim-goa/) |
+| Parameter | [SCIT Pune](/blog/scit-pune-mba-review-2027-fees-placements-cutoff/) | [SIDTM Pune](/blog/sidtm-pune-mba-review-2027-fees-placements-cutoff/) | [TAPMI (MBA-BKFS/Core)](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/) | [GIM Goa (PGDM-BDA)](/colleges/gim-goa/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Hinjawadi, Pune | Lavale, Pune | Manipal, Karnataka | Sanquelim, Goa |
 | **Primary Domain** | **IT Consulting & Cyber Security**| Telecom & Digital Tech | Finance & Core | Big Data Analytics |

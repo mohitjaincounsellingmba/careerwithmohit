@@ -81,7 +81,7 @@ A state university known for its deep focus on social sciences and humanities. A
 *   **ROI:** Central universities offer extremely low fees with some of the highest placement packages in India.
 
 [👉 Get CUET 2026 Delhi NCR Admission Counseling](/inquiry/)
-[👉 View Full Citywise CUET University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise CUET University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about Subject Combinations for DU? Connect with our experts today!**
 

@@ -943,7 +943,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
               {posts.slice(0, 4).map((post) => (
                 <Link
                   key={post.slug}
-                  href={`/blog/${post.slug}/`}}
+                  href={`/blog/${post.slug}/`}
                   className="bg-white border border-slate-200/90 hover:border-blue-300 p-4 rounded-2xl block hover:shadow-md transition-all group"
                 >
                   <span className="text-[10px] font-bold text-blue-600 block mb-1">

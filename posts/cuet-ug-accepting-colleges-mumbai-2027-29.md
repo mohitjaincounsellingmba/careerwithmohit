@@ -87,7 +87,7 @@ Integrating CUET scores for plusieurs professional courses and engineering progr
 *   **Campus Life:** Vibrant, inclusive, and cosmopolitan atmosphere.
 
 [👉 Get Mumbai CUET Admission Assistance](/inquiry/)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about subject requirements for Mumbai colleges? Link up with our CUET consultants for free!**
 

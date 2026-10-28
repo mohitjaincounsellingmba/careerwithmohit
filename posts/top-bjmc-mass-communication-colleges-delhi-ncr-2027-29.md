@@ -131,7 +131,7 @@ Graduating from a top college in Delhi NCR opens doors to various booming sector
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [CUET UG 2026 Score Calculator & Predictor](/calculator/cuet-ug-2026/)
 - [Top Private MA Colleges in Delhi NCR 2026](/blog/top-private-ma-colleges-delhi-ncr-2027-29/)
 

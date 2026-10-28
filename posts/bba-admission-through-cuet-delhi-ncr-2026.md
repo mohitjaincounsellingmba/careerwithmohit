@@ -109,7 +109,7 @@ Due to the intense competition, target scores for top government management coll
 ---
 
 ## 🔗 Related Resources
-- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top 10 BBA Colleges in Delhi NCR 2026 Rankings](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [Best Affordable BBA Colleges in Delhi NCR under 3-4 Lakhs](/blog/best-affordable-bba-colleges-delhi-ncr-2026/)
 - [BBA Fees vs Placement in Delhi NCR: Worth it?](/blog/bba-fees-vs-placement-delhi-ncr-colleges-worth-it-2026/)
 - [Direct BBA Admissions Without Entrance Exams](/blog/get-into-top-bba-colleges-delhi-ncr-without-entrance-exams/)

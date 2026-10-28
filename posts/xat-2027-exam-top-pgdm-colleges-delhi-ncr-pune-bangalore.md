@@ -91,7 +91,7 @@ The **Xavier Aptitude Test (XAT 2027)**, conducted by [XLRI Jamshedpur](/college
 * **BIMTECH Greater Noida:** Offers specialized insurance, international business, and retail management programs with top placements. Read [All About BIMTECH Greater Noida](/colleges/bimtech-greater-noida).
 
 ### 2. Pune & Maharashtra Hub
-* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune/):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/) and [All About PIBM Pune](/blog/all-about-pibm-pune/).
+* **Lexicon MILE & [PIBM Pune](/colleges/pibm-pune/):** Perfect for XAT test-takers scoring between 60 to 75 percentile seeking high corporate immersion in Pune's IT and auto corridors. Read [All About Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/) and [All About PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
 
 ### 3. Bangalore Hub
 * **XIME & JagSoM:** Proven placement track records in Silicon Valley b-schools. Read [All About XIME Bangalore](/colleges/xime-bangalore/) and [All About JAGSoM Bangalore](/colleges/jagsom-bangalore/).

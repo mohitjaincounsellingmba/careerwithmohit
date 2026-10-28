@@ -96,7 +96,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ### 4. ITM Navi Mumbai & Universal AI University
 * **ITM Kharghar:** Offers 5-month intensive internships with strong placement conversions across BFSI and Retail. Read [All About ITM Mumbai](/colleges/itm-mumbai).
-* **Universal AI University:** India's first dedicated AI-first business university located in green Karjat. Read [All About Universal AI Mumbai](/blog/all-about-universal-ai-mumbai/).
+* **Universal AI University:** India's first dedicated AI-first business university located in green Karjat. Read [All About Universal AI Mumbai](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/).
 
 ---
 

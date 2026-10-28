@@ -87,7 +87,7 @@ If you have a strong academic record (90%+ in 12th), GDSD College is the best fo
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 - [MBA after B.Tech Benefits](/blog/mba-after-btech-benefits-2027-29/)
 

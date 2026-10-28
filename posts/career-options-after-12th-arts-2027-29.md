@@ -65,7 +65,7 @@ Whether you are interested in creative storytelling, legal advocacy, or social s
 Many students are surprised to learn that BBA is an excellent choice for arts students. It bridges the gap between creativity and business logic.
 *   **Specializations:** Marketing, HR, International Business.
 *   **Top Colleges:** IIMs (IPM Program), Symbiosis, Christ University.
-*   **Internal Link:** Check out the [Top BBA Colleges in Delhi NCR](/blog/top-bba-colleges-delhi-ncr-2026/) to start your management journey.
+*   **Internal Link:** Check out the [Top BBA Colleges in Delhi NCR](/blog/top-10-bba-colleges-delhi-ncr-2026/) to start your management journey.
 
 #### **Hotel Management (BHM)**
 The hospitality sector is booming in 2026 with international tourism reaching new heights.

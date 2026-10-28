@@ -88,7 +88,7 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 ### 1. Akemi Business School (MBA)
 Located in Tathawade, Akemi is known for its personalized mentoring. It’s a solid choice if you want a university-affiliated MBA at a low cost.
 - **Best For:** Marketing & Operations.
-- **[Read Detailed Akemi Review](/blog/akemi-pune-review-2027-29/)**
+- **[Read Detailed Akemi Review](/blog/akemi-business-school-mba-pgdm-review-2027-fees-placements-cutoff/)**
 
 ### 2. [ASM IIBR](/colleges/asm-iibr/) (MBA / PGDM)
 Part of the legacy ASM Group, IIBR offers industry-integrated programs with certifications from AWS, SAP, and Microsoft.

@@ -221,7 +221,7 @@ Kolkata is a historic center of learning with premier institutes like [IIM Calcu
 
 ### D. Pune (Maharashtra)
 
-Pune, celebrated as the "Oxford of the East," is a premier destination for management studies with powerhouse institutions like [SIBM Pune](/blog/all-about-sibm-pune/), [SCMHRD Pune](/blog/all-about-scmhrd-pune/), [PUMBA](/colleges/pumba-pune/), and [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/).
+Pune, celebrated as the "Oxford of the East," is a premier destination for management studies with powerhouse institutions like [SIBM Pune](/blog/sibm-pune-mba-review-2027-fees-placements-cutoff/), [SCMHRD Pune](/blog/scmhrd-pune-mba-review-2027-fees-placements-cutoff/), [PUMBA](/colleges/pumba-pune/), and [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/).
 
 #### Key Risks in Pune:
 1. **Unapproved Autonomous PGDM Institutes in Hinjewadi & Wakad:** Mushrooming private academies offering "Corporate Industry-Ready PGDM" without obtaining AICTE sanction or Savitribai Phule Pune University (SPPU) affiliation.

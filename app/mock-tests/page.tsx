@@ -367,7 +367,7 @@ export default function MockTestHubPage() {
                         {post.category || "Exam Prep"}
                       </span>
                       <h3 className="text-lg sm:text-xl font-extrabold text-slate-950 group-hover:text-amber-700 transition-colors leading-snug mb-2">
-                        <Link href={`/blog/${post.slug}/`}}>{post.title}</Link>
+                        <Link href={`/blog/${post.slug}/`}>{post.title}</Link>
                       </h3>
                       <p className="text-xs text-slate-600 font-medium line-clamp-3 mb-6 leading-relaxed">
                         {post.description}
@@ -375,7 +375,7 @@ export default function MockTestHubPage() {
                     </div>
 
                     <Link
-                      href={`/blog/${post.slug}/`}}
+                      href={`/blog/${post.slug}/`}
                       className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-amber-700 hover:text-amber-900 border-t border-slate-100 pt-4"
                     >
                       Read Strategy Guide <ArrowRight className="w-3.5 h-3.5" />

@@ -84,7 +84,7 @@ In this 2027 guide, senior admission consultant **Mohit Jain** presents an hones
 | **[Delhi School of Economics (DSE)](/colleges/fms-delhi)** (MBA HRD / IB) | ₹48,000 | ₹14.50 LPA | CAT (93+ %ile) |
 | **[Dept. of Financial Studies (DFS)](/colleges/fms-delhi)** (MBA Finance) | ₹48,000 | ₹15.80 LPA | CAT (94+ %ile) |
 | **[SRCC GBO Delhi]((/blog/10-tips-to-crack-cat-exam-2027-29/)** (Global Business Operations) | ₹3.20 Lakhs | ₹12.50 LPA | SRCC GBO Online Entrance |
-| **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-dsb-pgdm-admission-2027-29/)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
+| **[Delhi School of Business (DSB)](/blog/delhi-school-of-business-mba-pgdm-review-2027-fees-placements-cutoff/)** (PGDM) | ₹10.90 Lakhs | ₹9.20 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[JIMS Rohini (Sector 5)](/colleges/jims-rohini)** (PGDM) | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
 | **[NDIM New Delhi](/colleges/ndim-delhi)** (PGDM) | ₹11.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT (65+ %ile) |
 

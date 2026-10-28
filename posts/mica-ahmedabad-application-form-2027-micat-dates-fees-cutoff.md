@@ -195,7 +195,7 @@ Shortlisted candidates undergo a **Group Exercise (GE)** and **Personal Intervie
 | **[MICA Ahmedabad](/colleges/mica-ahmedabad/)** | ₹29.50 Lakhs | ₹20.09 LPA | CAT/XAT/GMAT + MICAT · Premier Brand & Media B-School |
 | **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | ₹21.53 Lakhs | ₹17.35 LPA | CAT/XAT (90%+ %ile) · Flagship Marketing Campus |
 | **[IMI New Delhi](/colleges/imi-delhi/)** | ₹23.54 Lakhs | ₹17.01 LPA | CAT/XAT (88%+ %ile) · Strategy & Corporate Legacy |
-| **[TAPMI Manipal](/colleges/tapmi-manipal/)** | ₹19.50 Lakhs | ₹14.80 LPA | CAT/XAT/NMAT (85%+ %ile) · Triple Accredited Hub |
+| **[TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/)** | ₹19.50 Lakhs | ₹14.80 LPA | CAT/XAT/NMAT (85%+ %ile) · Triple Accredited Hub |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.10 Lakhs | ₹25.50 LPA | CAT 2026 (94%+ %ile) · Top Corporate Tier-1 Hub |
 
 ---

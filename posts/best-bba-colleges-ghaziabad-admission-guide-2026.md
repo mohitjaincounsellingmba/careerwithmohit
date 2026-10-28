@@ -136,7 +136,7 @@ Many private institutes have a dedicated **Management Quota** or offer **Direct 
 ---
 
 ## 🔗 Relevant Internal Links
-*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 *   [BBA vs BCom vs BMS: Which is better?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 *   [Direct BBA Admission Guide 2026](/blog/direct-bba-admission-2026-management-quota/)
 

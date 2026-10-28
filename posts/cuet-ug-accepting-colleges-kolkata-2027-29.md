@@ -84,7 +84,7 @@ Offers a wide variety of management and computer application courses.
 *   **Education:** A wide array of multidisciplinary and liberal arts courses.
 
 [👉 Get Kolkata CUET Admission Assistance](/inquiry/)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about which Kolkata college fits your profile? Link up with our CUET consultants for free!**
 

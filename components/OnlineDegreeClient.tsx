@@ -290,7 +290,7 @@ function CollegeDetailModal({ college, onClose, onInquire }: {
             </button>
             {college.slug && (
               <a
-                href={`/blog/${college.slug}/`}}
+                href={`/blog/${college.slug}/`}
                 className="flex-1 bg-white hover:bg-slate-50 text-[#061124] border border-[#061124]/15 font-display font-bold py-3.5 rounded-full transition-colors text-sm text-center flex items-center justify-center gap-1.5"
               >
                 <BookOpen size={14} />
@@ -603,7 +603,7 @@ export default function OnlineDegreeClient({ initialCourse = 'All' }: { initialC
 
                   {college.slug ? (
                     <a
-                      href={`/blog/${college.slug}/`}}
+                      href={`/blog/${college.slug}/`}
                       onClick={(e) => e.stopPropagation()}
                       className="font-mono text-xs font-bold text-[#475569] hover:text-[#2563EB] hover:underline flex items-center gap-1"
                     >

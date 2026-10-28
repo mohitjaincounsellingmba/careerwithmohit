@@ -74,7 +74,7 @@ A relatively new but highly popular choice for professional undergraduate progra
 *   **Education:** A wide array of multidisciplinary and liberal arts courses.
 
 [👉 Inquire About Pune CUET Admission 2026](/inquiry/)
-[👉 Check State-wise CUET 2026 University List](/cuet-ug-university-list-2026-citywise)
+[👉 Check State-wise CUET 2026 University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Need help deciding between Pune and Mumbai? Talk to our counselors!**
 

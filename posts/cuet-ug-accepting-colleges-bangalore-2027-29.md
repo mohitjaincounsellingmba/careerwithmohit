@@ -81,7 +81,7 @@ A top-tier technical institute that considers CUET scores for specific programs.
 *   **Specializations:** From Data Science and AI to Fashion and Media, Bangalore has it all.
 
 [👉 Get Bangalore CUET Admission Guidance](/inquiry/)
-[👉 View Full Citywise CUET University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise CUET University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about subject combinations for Bangalore 2026? Connect with our experts today!**
 

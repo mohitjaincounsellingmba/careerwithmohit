@@ -82,7 +82,7 @@ Offers a wide variety of management and computer application courses.
 *   **Infrastructure:** World-class campuses with global-standard facilities.
 
 [👉 Get Greater Noida CUET Admission Assistance](/inquiry/)
-[👉 View Full Citywise University List](/cuet-ug-university-list-2026-citywise)
+[👉 View Full Citywise University List](/blog/cuet-ug-university-list-2026-citywise/)
 
 **Confused about Sharda vs Galgotias? Link up with our CUET consultants for free!**
 

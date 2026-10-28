@@ -238,7 +238,7 @@ IIEBM considers scores from all leading national entrance exams:
 - **[Best MBA Colleges in Pune 2027–29: Rankings, Cutoffs & Fees](/blog/best-mba-colleges-in-pune-2027-29/)**
 - **[AKEMI vs ISMS vs [RIIM Pune](/colleges/riim-pune/): MBA/PGDM Comprehensive Comparison]((/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)**
 - **[Why You Should Avoid High Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)**
-- **[PIBM Pune Review: Placements, Fees & Specializations](/blog/all-about-pibm-pune/)**
+- **[PIBM Pune Review: Placements, Fees & Specializations](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/)**
 
 ---
 

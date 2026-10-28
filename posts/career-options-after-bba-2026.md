@@ -131,7 +131,7 @@ Let us help you map out your journey!
 ---
 
 ### Related Links:
-*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+*   [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 *   [Top MBA/PGDM Colleges under 10 Lakhs in Delhi NCR](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
 *   [Education Loan Guide for Students](/blog/education-loan-guide-mba-btech/)
 

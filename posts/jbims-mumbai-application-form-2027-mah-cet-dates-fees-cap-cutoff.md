@@ -181,7 +181,7 @@ Because JBIMS offers only around 150–160 total MMS seats and conducts no perso
 | **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | ₹6.00 Lakhs | ₹28.02 LPA | MAH CET (99.9+ %ile) / CAT (99.98+ %ile) · CEO Factory |
 | **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.45 Lakhs | ₹34.10 LPA | CAT 2026 (99%+ %ile) · Unmatched ROI Leader |
 | **[TISS Mumbai](/colleges/tiss-mumbai/)** | ₹3.00 Lakhs | ₹27.22 LPA | CAT 2026 (97%+ %ile) · India's Premier HR Institution |
-| **[SIMSREE Mumbai](/colleges/simsree-mumbai/)** | ₹1.34 Lakhs | ₹15.30 LPA | MAH CET (99.7+ %ile) · High ROI Churchgate B-School |
+| **[SIMSREE Mumbai](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29/)** | ₹1.34 Lakhs | ₹15.30 LPA | MAH CET (99.7+ %ile) · High ROI Churchgate B-School |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.10 Lakhs | ₹25.50 LPA | CAT 2026 (94%+ %ile) · Leading NCR Management Hub |
 
 ---

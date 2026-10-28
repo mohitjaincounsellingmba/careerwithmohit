@@ -90,7 +90,7 @@ If you seek a corporate job in East India, **NSHM** and **JD Birla** offer great
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29/)
 - [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 

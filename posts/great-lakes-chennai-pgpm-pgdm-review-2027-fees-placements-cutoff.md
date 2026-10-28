@@ -225,7 +225,7 @@ To secure a seat in the 2027–2028 PGPM / 2027–2029 PGDM batch at Great Lakes
 
 ## 8. Comparative Analysis: Great Lakes Chennai vs Peer Business Schools
 
-| Parameter | [Great Lakes Chennai (PGPM)](/colleges/great-lakes-chennai/) | [ISB Hyderabad (PGP)](/colleges/isb-hyderabad/) | [TAPMI Manipal](/colleges/tapmi-manipal/) | [GIM Goa](/colleges/gim-goa/) |
+| Parameter | [Great Lakes Chennai (PGPM)](/colleges/great-lakes-chennai/) | [ISB Hyderabad (PGP)](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility/) | [TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/) | [GIM Goa](/colleges/gim-goa/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#34** | — | #42 | #37 |
 | **Total Program Fee** | **₹21.50 Lakhs** | ₹40.00 Lakhs | ₹19.50 Lakhs | ₹19.50 Lakhs |

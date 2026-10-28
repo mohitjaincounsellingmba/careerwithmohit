@@ -91,7 +91,7 @@ Here are the **Top BBA Colleges in Dehradun for 2026**.
 ---
 
 ## 🔗 Related Resources
-- [Top BBA Colleges in Delhi NCR 2026](/blog/top-bba-colleges-delhi-ncr-2026/)
+- [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 - [Admission FAQs 2026](/blog/mba-pgdm-admissions-faq-2027-29/)
 - [Career Roadmaps](/blog/career-roadmaps-2027-29/)
 
