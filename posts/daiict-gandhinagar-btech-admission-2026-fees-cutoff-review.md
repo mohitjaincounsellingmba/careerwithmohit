@@ -80,7 +80,7 @@ DA-IICT is focused on future-ready domains:
 *   B.Tech in Mathematics and Computing (MnC)
 
 Looking for other top-tier B.Tech options? Check out our guides:
-*   [All About IIITs: Rankings & Admission Guide]((/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [All About IIITs: Rankings & Admission Guide](/blog/1-year-online-mba-colleges-india-2027-29/)
 *   [JEE Main 2026 Session 2: Exam Dates & Admit Card Updates](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
 *   [JoSAA Counselling 2026: Step-by-Step Registration](/blog/josaa-counselling-2026-dates-process-registration/)
 *   [Best Engineering Colleges in Pune 2026](/blog/top-btech-colleges-pune/)

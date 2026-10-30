@@ -127,11 +127,11 @@ While both colleges offer rigorous PGDM programs:
 * It offers a **better ROI** (lower fees + higher average placements).
 * You get the unbeatable **South Delhi location advantage**, keeping you closer to corporate hubs.
 * The curriculum provides a stronger, more modern **global corporate outlook**, which aligns perfectly with what top MNC recruiters seek today.
-* 👉 [Read our full, detailed review of FIIB Delhi here](/colleges/abbs-school-of-management)
+* 👉 [Read our full, detailed review of FIIB Delhi here](/colleges/abbs-school-of-management/)
 
 **Choose JIMS Rohini only if:**
 * Location in North Delhi is a strict personal preference or constraint for you.
-* 👉 [Read our full, detailed review of JIMS Rohini here](/colleges/jims-rohini)
+* 👉 [Read our full, detailed review of JIMS Rohini here](/colleges/jims-rohini/)
 
 ---
 

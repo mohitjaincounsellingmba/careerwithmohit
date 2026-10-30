@@ -672,7 +672,7 @@ export function CollegesClient({
               <span>Free 1-on-1 Shortlist</span>
             </a>
             <Link
-              href="/inquiry?type=counselling"
+              href="/inquiry/?type=counselling"
               className="px-6 py-3.5 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-bold text-xs uppercase tracking-wider rounded-full transition-all flex items-center gap-2"
             >
               <span>Explore Waivers &rarr;</span>

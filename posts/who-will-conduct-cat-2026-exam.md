@@ -67,7 +67,7 @@ In this comprehensive guide, we uncover the **convening IIM for CAT 2026**, expl
 
 > 🎯 **Benchmark Your MBA Preparation Today!**
 >
-> [👉 Take Our Free CAT 2026 Full-Length Mock Test & Percentile Predictor](https://careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take Our Free CAT 2026 Full-Length Mock Test & Percentile Predictor](https://careerwithmohit.online/tools/cat-mock-test/)
 
 ---
 
@@ -164,7 +164,7 @@ Historically, when **IIM Indore** convened CAT in **2020** and **2014**, the pap
 ---
 
 ## 7. Related MBA & CAT 2027–29 Guides
-* [All About CAT Exam 2026: Syllabus, Eligibility & Pattern]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About CAT Exam 2026: Syllabus, Eligibility & Pattern](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [All IIM Cut-Offs 2027–29: Admission Criteria & Selection Process](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
 * [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)

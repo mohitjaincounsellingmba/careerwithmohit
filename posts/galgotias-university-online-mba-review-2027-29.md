@@ -200,7 +200,7 @@ No. Admission is open to fresh graduates and working professionals without any e
 
 *Related Reading:*
 - [Best Online MBA Colleges in India 2027–29](/blog/best-online-mba-colleges-india-2027-29/)
-- [Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA? (Honest Review)]((/blog/why-never-join-galgotias-university-for-mba-review/)
+- [Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA? (Honest Review)](/blog/why-never-join-galgotias-university-for-mba-review/)
 - [Online MBA India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
 
 

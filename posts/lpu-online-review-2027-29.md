@@ -100,7 +100,7 @@ LPU's online programs are designed to meet the needs of the 2026 job market:
 **Yes. All online programs from [Lovely Professional University](/colleges/lovely-professional-university/) are **UGC-DEB approved** and recognized internationally. They are fully valid for all government jobs, PSU recruitment, higher studies, and global immigration.**
 
 ## Decision Making Guide
-- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [Chandigarh University Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/) vs [Chandigarh University Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/).
 - **Accreditation Hub:** Read about [UGC-DEB Approved Online Universities in India](/online-degree-certification/).
 - **Personalized Advice:** Not sure which program to pick? [Consult with Mohit Jain for free today!](/inquiry/)
 

@@ -80,7 +80,7 @@ Check out other engineering college seat guides:
 ### **Key Resources for GFTI Aspirants**
 *   [JEE Main College Predictor 2026: Best GFTI Based on Your Rank](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
 *   [JEE Main 2026 Session 2: Exam Updates & Schedule](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
-*   [Complete Guide to Engineering Admissions 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+*   [Complete Guide to Engineering Admissions 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 **Confused About GFTI and Newer NITs?**
 Many established GFTIs like PEC Chandigarh or BIT Mesra are often ranked higher in terms of placements and industrial heritage than newer NITs. At **CareerWithMohit**, we clarify these nuances to help you choose the best return on investment for your career.

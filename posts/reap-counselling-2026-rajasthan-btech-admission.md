@@ -110,7 +110,7 @@ REAP allocates seats based on a strict priority ladder:
 **Choice Filling Tips for REAP 2026**:
 Always put the top government colleges (MBM/RTU/CTAE) in your first few choices, even if your rank is slightly lower. You can always get upgraded in the upward movement rounds.
 
-[👉 Explore Top Rajasthan B.Tech Colleges Here!](/colleges?state=Rajasthan)
+[👉 Explore Top Rajasthan B.Tech Colleges Here!](/colleges/?state=Rajasthan)
 
 **Need Help with REAP Choice Filling?**
 Filling choices correctly is the difference between getting a government seat and a private one. At **CareerWithMohit**, we provide personalized choice-filling lists based on your JEE Main percentile and domicile status.

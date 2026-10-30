@@ -92,7 +92,7 @@ category: B.Tech
 **Pro Tip for UPTAC 2026**:
 In the first round, if you don't get your dream branch in a top college, always choose 'Float'. This keeps your current seat safe while giving you a chance to upgrade as others withdraw.
 
-[👉 Check Top AKTU (UPTAC) Colleges & Reviews Here!](/colleges?affiliation=AKTU)
+[👉 Check Top AKTU (UPTAC) Colleges & Reviews Here!](/colleges/?affiliation=AKTU)
 
 **Need a Personalized Choice Filling List?**
 UPTAC has hundreds of colleges, and choosing the right one can be overwhelming. At **CareerWithMohit**, we provide a branch-wise preference list customized for your JEE Main rank.

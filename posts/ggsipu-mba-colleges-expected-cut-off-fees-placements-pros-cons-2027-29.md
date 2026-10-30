@@ -98,7 +98,7 @@ Ranked #1 among the private affiliated colleges of GGSIPU, MAIT is known for its
 * **Pros:** Highly disciplined academic environment, strong corporate relationships, and active campus placements.
 * **Cons:** The environment can feel highly academic and structured, somewhat like a school.
 
-### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
+### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini/)
 JIMS Rohini is highly reputed for its corporate connections, industry-oriented pedagogy, and dedicated placement cell.
 * **Expected CAT Cut-off:** 68 - 75+ Percentile
 * **Expected CMAT Cut-off:** 86 - 90+ Percentile

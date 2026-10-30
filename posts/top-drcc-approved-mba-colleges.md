@@ -94,7 +94,7 @@ Delhi NCR boasts the largest concentration of DRCC-eligible private B-schools, o
 *   **[Galgotias University](/colleges/galgotias-university/)** – Greater Noida
 *   **[Sharda University](/colleges/sharda-greater-noida/) (School of Business Studies)** – Greater Noida
 *   **GL Bajaj Institute of Management & Technology** – Greater Noida
-*   **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida)** – Greater Noida
+*   **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida/)** – Greater Noida
 *   **Noida Institute of Engineering & Technology (NIET)** – Greater Noida
 *   **[Bennett University](/colleges/bennett-greater-noida/)** – Greater Noida
 *   **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** – Greater Noida

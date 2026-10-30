@@ -120,7 +120,7 @@ The **Online MBA** at Jain University is a 2-year (4-semester) degree offering t
 
 ## How to Apply for Admissions & Get Fee Guidance
 
-1. Explore the [Jain University Online Hub](https://careerwithmohit.online/online-degree-certification/jain-university-online).
+1. Explore the [Jain University Online Hub](https://careerwithmohit.online/online-degree-certification/jain-university-online/).
 2. Connect with Chief Counsellor Mohit Jain for 1-on-1 eligibility checks and zero-cost EMI approval.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

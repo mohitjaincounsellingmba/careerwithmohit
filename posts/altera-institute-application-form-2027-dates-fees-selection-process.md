@@ -169,7 +169,7 @@ Candidates with valid scores in national entrance exams are exempt from appearin
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[Altera Institute](/colleges/altera-institute/)** | ₹16.44 Lakhs | ₹12.50 LPA | ALNAT / CAT / NMAT · CMO-Led Applied Marketing |
-| **[Masters' Union](/colleges/masters-union/)** | ₹29.38 Lakhs | ₹34.07 LPA | MU-BAAT / CAT / GMAT · Cyber City Tech B-School |
+| **[Masters' Union](/colleges/masters-union-gurgaon/)** | ₹29.38 Lakhs | ₹34.07 LPA | MU-BAAT / CAT / GMAT · Cyber City Tech B-School |
 | **[SOIL Gurgaon](/colleges/soil-gurgaon/)** | ₹16.35 Lakhs | ₹11.17 LPA | CAT/XAT/CMAT (70%+ %ile) · Design Thinking & HR |
 | **[Jaipuria Noida](/colleges/jaipuria-noida/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **[FOSTIIMA Delhi](/colleges/fostiima-delhi/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT (65%+ %ile) · High ROI Marketing |
@@ -178,6 +178,6 @@ Candidates with valid scores in national entrance exams are exempt from appearin
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

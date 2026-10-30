@@ -183,7 +183,7 @@ The **Indian Institutes of Management (IIMs)** continue their dominance over the
   • IIM Mumbai (#6)                                   • [IIM Sirmaur](/colleges/iim-sirmaur/) (#45)
 ```
 
-To dive deeper into the latest cutoffs, batch profiles, and comprehensive placement statistics across all 21 IIMs, check out our in-depth guide on [All IIM Colleges: Placements, Fees & Selection Criteria]((/blog/1-year-online-mba-colleges-india-2027-29/).
+To dive deeper into the latest cutoffs, batch profiles, and comprehensive placement statistics across all 21 IIMs, check out our in-depth guide on [All IIM Colleges: Placements, Fees & Selection Criteria](/blog/1-year-online-mba-colleges-india-2027-29/).
 
 ---
 
@@ -207,7 +207,7 @@ For candidates exploring non-IIM avenues through **XAT, SNAP, NMAT, or CMAT**, p
 * **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (NIRF #11): Located in the heart of Delhi NCR’s corporate hub, leading in Strategy, Marketing, and BFSI placements.
 * **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** (NIRF #17): Celebrated for its unique Autumn Internship model, non-classroom learning initiatives (DOCC, Abhyudaya), and top consulting recruitment.
 * **[SIBM Pune](/colleges/sibm-pune/)** (NIRF #19): The flagship institution under Symbiosis International University, known for FMCG Marketing, HR, and Corporate Finance.
-* **[MICA Ahmedabad](/colleges/mica-ahmedabad)** (NIRF #47): The premier destination for Brand Management, Strategic Advertising, and Digital Marketing leadership.
+* **[MICA Ahmedabad](/colleges/mica-ahmedabad/)** (NIRF #47): The premier destination for Brand Management, Strategic Advertising, and Digital Marketing leadership.
 
 ---
 
@@ -249,12 +249,12 @@ Securing admission into the top 50 NIRF management institutes requires planning 
 ### 1. CAT (Common Admission Test)
 * **Target Institutes**: IIM Ahmedabad, IIM Bangalore, IIM Calcutta, IIM Lucknow, IIM Kozhikode, IIM Mumbai, [FMS Delhi](/colleges/fms-delhi/), IIT Delhi, IIT Bombay, SPJIMR.
 * **Expected Cutoffs**: 98.5% to 99.8%+ for Top 10; 92% to 96% for New/Baby IIMs.
-* **Preparation Guide**: Explore our complete [CAT Exam Strategy & Syllabus Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+* **Preparation Guide**: Explore our complete [CAT Exam Strategy & Syllabus Guide](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 ### 2. XAT (Xavier Aptitude Test)
 * **Target Institutes**: [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi-NCR, XIMB Bhubaneswar, IMT Ghaziabad, TAPMI, GIM Goa, [FORE School of Management](/colleges/fore-school-delhi/).
 * **Expected Cutoffs**: 93% to 96%+ for XLRI; 85% to 90% for XIMB, IMT, and GIM.
-* **Preparation Guide**: Check our detailed [XAT Exam Comprehensive Overview]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+* **Preparation Guide**: Check our detailed [XAT Exam Comprehensive Overview](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
 * **Target Institutes**: SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune/), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore/).

@@ -61,7 +61,7 @@ category: Exams
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
 
-The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.
+The **Verbal Ability and Reading Comprehension (VARC)** section is the opening section of the Common Admission Test ([CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)). Because it is the first section you face, your performance here sets the psychological momentum for the entire 2-hour examination.
 
 Unlike conventional English grammar tests, **CAT VARC is an test of critical reasoning, synthesis of complex arguments, and strict elimination of trap options**. To help you score a **99+ percentile**, this practice guide provides a curated collection of **CAT-level Reading Comprehension (RC) passages and Verbal Ability (VA) problems** with comprehensive option-by-option explanations.
 
@@ -234,7 +234,7 @@ Want to test your Reading Comprehension reading speed and eliminate VARC trap op
 ---
 
 ## 6. Related Resources & MBA Guidance
-* [CAT Exam 2026: Complete Exam Pattern, Syllabus & Important Dates]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [CAT Exam 2026: Complete Exam Pattern, Syllabus & Important Dates](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [10 Proven Tips to Crack CAT 2026: Strategy from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About IIM Colleges 2026: Fees, Placements & Admission Selection]((/blog/1-year-online-mba-colleges-india-2027-29/)
+* [All About IIM Colleges 2026: Fees, Placements & Admission Selection](/blog/1-year-online-mba-colleges-india-2027-29/)
 * [IIM Cutoff 2027–29: Category-Wise Call Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)

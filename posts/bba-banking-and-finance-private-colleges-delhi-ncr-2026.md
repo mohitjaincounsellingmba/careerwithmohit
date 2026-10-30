@@ -108,7 +108,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
 | **Manav Rachna (MRIIRS)** | Faridabad | MRIIRS (*Deemed-to-be University - UGC Approved*) | BBA (Banking and Financial Markets - in assoc. with NSE / BSE) | ₹2,30,000 | ₹6.9 Lakh (3 Yrs) / ₹9.2 Lakh (4 Yrs) |
 | **SGT University** | Gurugram | SGT University (*Private University - UGC*) | BBA (Banking & Financial Services / Finance) | ₹1,65,000 | ₹4.95 Lakh (3 Yrs) / ₹6.6 Lakh (4 Yrs) |
 | **Lingaya’s Vidyapeeth** | Faridabad | Lingaya’s Vidyapeeth (*Deemed-to-be University - UGC Approved*) | BBA (Banking and Finance) | ₹1,20,000 | ₹3.6 Lakh (3 Yrs) / ₹4.8 Lakh (4 Yrs) |
-| **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance / General BBA with Finance Specialization) | ₹95,000 | ₹2.85 Lakh (3 Yrs) |
+| **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida/)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance / General BBA with Finance Specialization) | ₹95,000 | ₹2.85 Lakh (3 Yrs) |
 | **IMS Noida (University Courses Campus)** | Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Banking & Finance Track / Financial Management) | ₹1,25,000 | ₹3.75 Lakh (3 Yrs) |
 | **Asian School of Business (ASB)** | Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (with Diploma in Banking, Finance & Analytics) | ₹1,50,000 | ₹4.5 Lakh (3 Yrs) |
 | **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)** | Greater Noida | CCS University, Meerut (*Chaudhary Charan Singh University - State Affiliated*) | BBA (Financial Markets & Banking Operations) | ₹1,35,000 | ₹4.05 Lakh (3 Yrs) |
@@ -140,7 +140,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
   - Industry-aligned **BBA in Banking, Financial Services and Insurance (BFSI)**.
   - Academic collaboration with **NSE Academy** and industry partners for practical financial markets certification.
   - Located in Gurugram, giving students proximity to Fortune 500 financial corporations and fintech startups.
-- **Related Read**: [GD Goenka University Gurgaon Complete Review]((/blog/gd-goenka-bba-review-2026/)
+- **Related Read**: [GD Goenka University Gurgaon Complete Review](/blog/gd-goenka-bba-review-2026/)
 
 ---
 
@@ -161,7 +161,7 @@ Below is an exhaustive overview of the top private universities and colleges acr
   - Known for delivering one of the **highest Return on Investment (ROI)** among private universities in Delhi NCR.
   - Curriculum emphasizes digital banking, retail banking operations, and financial accounting standards.
   - Excellent track record of mass recruitment by private sector banks, NBFCs, and KPO/BPO financial services.
-- **Related Read**: [Galgotias University Complete Admission Guide & Review](/colleges/galgotias-university)
+- **Related Read**: [Galgotias University Complete Admission Guide & Review](/colleges/galgotias-university/)
 
 ---
 
@@ -190,7 +190,7 @@ For students seeking self-financed private colleges affiliated with established 
 
 ### 1. CCS University, Meerut (Affiliated Colleges in Noida & Greater Noida)
 - **Top Colleges**:
-  - **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida)**, Greater Noida
+  - **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida/)**, Greater Noida
   - **IMS Noida (University Courses Campus)**
   - **Asian School of Business (ASB)**, Noida
   - **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida/)**, Greater Noida
@@ -211,7 +211,7 @@ For students seeking self-financed private colleges affiliated with established 
   - Degree awarded by **Guru Gobind Singh Indraprastha University (GGSIPU)**, Delhi.
   - Admissions conducted via **IPU CET** or **CUET UG**, ensuring a competitive and merit-based peer group.
   - Direct placements in Delhi-based banking branches, wealth management firms, and financial consultancies.
-- **Related Read**: [JIMS Delhi BBA Admission 2026 & Fee Structure]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+- **Related Read**: [JIMS Delhi BBA Admission 2026 & Fee Structure](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 
 ---
 

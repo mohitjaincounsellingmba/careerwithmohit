@@ -78,7 +78,7 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** (PGDM Core/HRM/IB) | Gurugram | ₹25.00 Lakhs | ₹27.60 LPA | CAT (95.0+ %ile) / GMAT |
 | **[Masters’ Union](/colleges/masters-union-gurgaon/)** (PGP-TBM) | DLF Cyber City, GGN | ₹30.00 Lakhs | ₹30.70 LPA | CAT / GMAT / MU-BAAT |
 | **[IIFT Delhi](/colleges/iift-delhi/)** (MBA-IB) | South Delhi | ₹21.80 Lakhs | ₹26.00 LPA | CAT (96.5+ %ile) |
-| **[IMT Ghaziabad]((/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
+| **[IMT Ghaziabad](/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM Core/Mktg/BFS) | Ghaziabad | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90.0+ %ile) / GMAT |
 | **[IIM Rohtak](/colleges/iim-rohtak/)** (PGP) | Rohtak (NCR) | ₹20.00 Lakhs | ₹18.70 LPA | CAT (95.0+ %ile) |
 | **[IMI New Delhi](/colleges/imi-delhi/)** (PGDM) | South Delhi | ₹23.50 Lakhs | ₹17.90 LPA | CAT / XAT (88.0+ %ile) |
 | **[FORE School of Management](/colleges/fore-school-delhi/)** (PGDM) | South Delhi | ₹20.70 Lakhs | ₹16.40 LPA | CAT / XAT (85.0+ %ile) |
@@ -88,7 +88,7 @@ In this verified 2027 guide, senior education consultant **Mohit Jain** provides
 | **[Jaipuria Institute of Management](/colleges/jaipuria-noida/)** | Noida (Sec-62) | ₹14.75 Lakhs | ₹11.50 LPA | CAT / XAT / MAT / CMAT (70+ %ile) |
 | **[SOIL Institute of Management](/colleges/soil-gurgaon/)** (1-Yr / 2-Yr) | Gurugram | ₹15.90 Lakhs | ₹11.50 LPA | CAT / XAT / NMAT / GMAT / SOIL-SAT |
 | **[Amity Business School](/blog/amity-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** (MBA) | Noida (Sec-125) | ₹16.50 Lakhs | ₹8.50 LPA | CAT / MAT / Amity Test / Direct |
-| **[JIMS Rohini](/colleges/jims-rohini)** (PGDM) | North-West Delhi | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
+| **[JIMS Rohini](/colleges/jims-rohini/)** (PGDM) | North-West Delhi | ₹9.85 Lakhs | ₹8.50 LPA | CAT / MAT / CMAT (70+ %ile) |
 
 ---
 

@@ -218,7 +218,7 @@ Located in Kalkaji, NDIIT provides a modern urban academic environment equipped 
 
 To help you decide whether NDIIT matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in South Delhi and NCR:
 
-| Parameter | [NDIIT Kalkaji]((/blog/ndiit-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) | [JIMS Kalkaji](/colleges/jims-kalkaji/) | [FORE School Delhi](/colleges/fore-school-delhi/) | [NDIM Delhi](/colleges/ndim-delhi/) |
+| Parameter | [NDIIT Kalkaji](/blog/ndiit-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) | [JIMS Kalkaji](/colleges/jims-kalkaji/) | [FORE School Delhi](/colleges/fore-school-delhi/) | [NDIM Delhi](/colleges/ndim-delhi/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Kalkaji, South Delhi | Kalkaji, South Delhi | Qutub Inst. Area | Tughlakabad, South Delhi |
 | **Flagship Degree** | 2-Year AICTE PGDM | 2-Year AICTE PGDM | 2-Year AICTE PGDM | 2-Year AICTE PGDM |
@@ -269,6 +269,6 @@ Yes. NDIIT accepts scores from MAT, CMAT, XAT, and ATMA. Candidates can also app
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

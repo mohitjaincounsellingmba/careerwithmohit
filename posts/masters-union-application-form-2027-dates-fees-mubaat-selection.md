@@ -108,7 +108,7 @@ In this deep-dive admission guide by **Mohit Jain**, explore the application cyc
 
 | Institution & Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Masters' Union](/colleges/masters-union/) (PGP-TBM)** | **₹29.38 Lakhs** | **₹34.07 LPA** | **MU-BAAT / CAT / GMAT / GRE** (Min 50% in Graduation) |
+| **[Masters' Union](/colleges/masters-union-gurgaon/) (PGP-TBM)** | **₹29.38 Lakhs** | **₹34.07 LPA** | **MU-BAAT / CAT / GMAT / GRE** (Min 50% in Graduation) |
 
 ---
 
@@ -184,7 +184,7 @@ In this deep-dive admission guide by **Mohit Jain**, explore the application cyc
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[Masters' Union](/colleges/masters-union/)** | ₹29.38 Lakhs | ₹34.07 LPA | MU-BAAT / CAT / GMAT · Cyber City Tech B-School |
+| **[Masters' Union](/colleges/masters-union-gurgaon/)** | ₹29.38 Lakhs | ₹34.07 LPA | MU-BAAT / CAT / GMAT · Cyber City Tech B-School |
 | **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹25.10 Lakhs | ₹25.50 LPA | CAT 2026 (94%+ %ile) · Elite Tier-1 Placement Hub |
 | **[ISB Hyderabad/Mohali](/blog/executive-mba-iim-ahmedabad-vs-isb-hyderabad-eligibility/)** | ₹41.50 Lakhs | ₹34.21 LPA | GMAT / GRE · Premier Global PGP Benchmark |
 | **[BITSoM Mumbai](/colleges/bitsom-mumbai/)** | ₹27.50 Lakhs | ₹23.50 LPA | CAT/GMAT/GRE · Modern Multi-disciplinary Curriculum |
@@ -194,6 +194,6 @@ In this deep-dive admission guide by **Mohit Jain**, explore the application cyc
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

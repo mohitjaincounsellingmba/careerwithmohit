@@ -81,7 +81,7 @@ Looking for other engineering seat details? Check our category-wise guides:
 ### **Key Resources for NIT Aspirants**
 *   [JEE Main College Predictor: Find Based on Your Percentile](/blog/jee-main-college-predictor-2026-btech-top-colleges/)
 *   [JEE Main 2026 Session 2: Exam Schedule & Admit Card](/blog/jee-main-2026-session-2-exam-dates-admit-card/)
-*   [NIT Cutoffs & Admission Guide 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+*   [NIT Cutoffs & Admission Guide 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 **Confused About Selecting Your NIT?**
 Choosing between a "Top 10 NIT with a second-tier branch" and a "Newer NIT with Computer Science" is a tough decision. At **CareerWithMohit**, we help students analyze placement trends, fees, and campus life to make the right choice.

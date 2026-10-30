@@ -90,7 +90,7 @@ Consistently ranked #1 among private affiliates for academics and discipline.
 - **Avg. Placement**: ₹7.0 LPA
 - **Top Recruiters**: KPMG, Infosys, Accenture, Federal Bank, TCS.
 
-#### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
+#### 3. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini/)
 Famous for its placement cell and massive industry network.
 - **Fees**: ₹3.50 Lakhs (Total)
 - **Avg. Placement**: ₹7.5 LPA

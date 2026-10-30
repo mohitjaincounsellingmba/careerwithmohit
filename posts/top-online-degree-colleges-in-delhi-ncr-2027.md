@@ -127,7 +127,7 @@ In this guide, we review the top UGC-DEB approved online universities located ac
 Selecting the right online degree program in Delhi NCR depends on your budget, specialization requirements, and long-term career goals. 
 
 For free personalized counseling and fee EMI assistance:
-* **Explore the Official Directory**: Visit our [Delhi NCR Online Degree Hub](https://careerwithmohit.online/online-degree-certification/online-degree-delhi-ncr)
+* **Explore the Official Directory**: Visit our [Delhi NCR Online Degree Hub](https://careerwithmohit.online/online-degree-certification/online-degree-delhi-ncr/)
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)
 * **WhatsApp Chat Support**: [Click to Chat on WhatsApp](https://wa.me/919560020771?text=Hi%2C%20I%20need%20guidance%20for%20online%20degree%20admission%20in%20Delhi%20NCR)
 

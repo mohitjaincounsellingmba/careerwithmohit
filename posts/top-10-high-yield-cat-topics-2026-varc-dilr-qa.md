@@ -34,7 +34,7 @@ category: Exams
 > - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
 > - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
 
-When preparing for the [CAT exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
+When preparing for the [CAT exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
 
 By applying the Pareto Principle (the 80/20 rule), we find that roughly **80% of the CAT score comes from 20% of the topics**. If you can master these high-yield topics, you can secure a 90+ percentile with a highly optimized study timeline.
 

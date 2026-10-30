@@ -73,7 +73,7 @@ faqs:
 
 ## 🔗 Related Resources
 
-* [SAT, IELTS & TOEFL Exams Guide]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+* [SAT, IELTS & TOEFL Exams Guide](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 * [MBBS Abroad 2026 Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
 ---
 

@@ -111,7 +111,7 @@ BIMTECH is one of the top institutes in India for **PGDM-Insurance Business**, o
 ---
 
 ## 🔗 Related Resources
-- [All About BIMTECH Greater Noida Review](/colleges/bimtech-greater-noida)
+- [All About BIMTECH Greater Noida Review](/colleges/bimtech-greater-noida/)
 - [Best MBA Colleges in Noida & Ghaziabad 2026](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/)
 - [Direct MBA Admission India Master List](/blog/direct-mba-admission-india/)
 

@@ -175,7 +175,7 @@ Candidates seeking admissions guidance without CAT percentiles can review our gu
 
 ## 6. GL Bajaj vs Peer Business Schools in Knowledge Park II
 
-| Parameter | [GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida/) | [NIET Greater Noida](/colleges/niet-greater-noida/) | [Lloyd Business School]((/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
+| Parameter | [GL Bajaj (GLBIMR)](/colleges/gl-bajaj-greater-noida/) | [NIET Greater Noida](/colleges/niet-greater-noida/) | [Lloyd Business School](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Flagship Degree** | AICTE PGDM (NBA Accredited) | Autonomous MBA & PGDM | PGDM & AKTU MBA | Standalone PGDM (AACSB) |
 | **Total Program Fee** | **₹8.50 Lakhs** | ₹3.20L – ₹6.80L | ₹2.90L – ₹8.25L | ₹14.00 Lakhs |
@@ -193,7 +193,7 @@ Candidates seeking admissions guidance without CAT percentiles can review our gu
 1. **Utilize MAT and CMAT Scores Early**: GL Bajaj fills the majority of its PGDM seats through December and February MAT/CMAT cycles. Waiting until June leaves you competing for residual seats.
 2. **Prepare for the GD-PI Rigorously**: GL Bajaj evaluates clarity of career goals and verbal articulation. Focus on speaking logically about current economic developments in India.
 3. **Commit to the Attendance Policy**: If you prefer an unstructured, casual university lifestyle, GL Bajaj will feel restrictive. Only enroll if you are prepared to commit to daily punctuality and rigorous placement bootcamps.
-4. **Predict Your Chances**: Evaluate your entrance exam percentiles with our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/).
+4. **Predict Your Chances**: Evaluate your entrance exam percentiles with our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/).
 
 ---
 
@@ -218,6 +218,6 @@ Hostel accommodations on campus range between ₹1,15,000 and ₹1,35,000 per ac
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

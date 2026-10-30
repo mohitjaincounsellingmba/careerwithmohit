@@ -126,7 +126,7 @@ If your raw score is looking low (below 100), don't lose hope. There are several
 **Related Articles:**
 - [Top MHCET MBA Colleges in Mumbai & Pune](/blog/top-mhcet-mba-colleges-mumbai-pune-2027-29/)
 - [How to Download MHCET MBA Answer Key PDF Step-by-Step](/blog/how-to-download-mhcet-mba-2026-answer-key-pdf/)
-- [Direct MBA Admission in Pune 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
+- [Direct MBA Admission in Pune 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 - [JBIMS vs SIMSREE: Which is Better?](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 For personalized counselling and college selection, fill out the [Admission Inquiry Form](/inquiry/) and we will guide you through the CAP rounds.

@@ -102,7 +102,7 @@ BBAU provides on-campus hostel facilities for both boys and girls, ensuring a sa
 
 ### **Check Other University Guides:**
 *   [University of Hyderabad (UoH) Review 2027–29](/blog/university-of-hyderabad-uoh-review-2027-29/)
-*   [BML Munjal University Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 [👉 Get Admission Consultation for Central Universities!](/inquiry/)
 

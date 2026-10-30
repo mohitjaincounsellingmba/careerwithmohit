@@ -214,7 +214,7 @@ Located in Jadcherla, NMIMS Hyderabad provides a sprawling residential environme
 
 To help you decide whether NMIMS Hyderabad matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Hyderabad and other NMIMS campuses:
 
-| Parameter | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [NMIMS Indore](/blog/nmims-indore-mba-review-2027-fees-placements-cutoff/) | [IMT Hyderabad]((/blog/anurag-university-hyderabad-review-2027-29/) |
+| Parameter | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [NMIMS Indore](/blog/nmims-indore-mba-review-2027-fees-placements-cutoff/) | [IMT Hyderabad](/blog/anurag-university-hyderabad-review-2027-29/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Jadcherla, Hyderabad | Kharghar, Navi Mumbai | Super Corridor, Indore | Shamshabad, Hyderabad |
 | **Global Accreditation** | **AMBA (UK) Accredited** | AACSB Member | NBA / AICTE | SAQS Accredited |
@@ -267,6 +267,6 @@ Yes. The 90-acre Jadcherla campus is a fully residential environment where all e
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

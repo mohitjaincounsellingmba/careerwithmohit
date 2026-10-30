@@ -223,7 +223,7 @@ Located in the serene valley of Pirangut, PIBM provides an immersive residential
 
 To help you decide whether PIBM matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Pune and Maharashtra:
 
-| Parameter | [PIBM Pune](/colleges/pibm-pune/) | [RIIM Pune](/colleges/riim-pune/) | [Indira Pune (ICMP/ISBS)]((/blog/indira-pune-review-2027-29/) | [Balaji Pune (BIMM)](/colleges/bimm-balaji-pune) |
+| Parameter | [PIBM Pune](/colleges/pibm-pune/) | [RIIM Pune](/colleges/riim-pune/) | [Indira Pune (ICMP/ISBS)](/blog/indira-pune-review-2027-29/) | [Balaji Pune (BIMM)](/colleges/bimm-balaji-pune/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Pirangut, Pune | Bavdhan, Pune | Wakad, Pune | Tathawade, Pune |
 | **Flagship Degrees** | AICTE PGDM & SPPU MBA | AICTE PGDM & SPPU MBA | AICTE PGDM & MBA | AICTE PGDM |
@@ -275,6 +275,6 @@ Yes. PIBM accepts scores from MAT, CMAT, ATMA, and MAH-MBA CET. Eligible candida
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

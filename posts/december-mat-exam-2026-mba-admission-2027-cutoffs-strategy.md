@@ -98,7 +98,7 @@ The **December MAT 2026 Exam (Management Aptitude Test)** is the largest and mos
 
 > 🚀 **Test your readiness for December MAT with real CBT countdown simulation!**
 >
-> [👉 **Take Free 150-Question MAT CBT Mock Test Now**](https://careerwithmohit.online/tools/mat-mock-test)
+> [👉 **Take Free 150-Question MAT CBT Mock Test Now**](https://careerwithmohit.online/tools/mat-mock-test/)
 >
 > *Instant Composite Score out of 800 • Percentile Predictor • Step-by-Step Explanations.*
 
@@ -135,6 +135,6 @@ Yes, you can take a 100% free full-length 150-question CBT mock test on CareerWi
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

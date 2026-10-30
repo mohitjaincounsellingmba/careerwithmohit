@@ -105,7 +105,7 @@ state: Delhi NCR
 
 
 
-Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi/) or [IIT Delhi DMS]((/blog/1-year-online-mba-colleges-india-2027-29/) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
+Scoring in the **70 to 80 percentile bracket in CAT, XAT, or MAT** is one of the most strategic positions an MBA aspirant can hold for the **2027–29 admission cycle**. While Tier-1 government institutions like [FMS Delhi](/colleges/fms-delhi/) or [IIT Delhi DMS](/blog/1-year-online-mba-colleges-india-2027-29/) demand 98+ percentiles, Delhi National Capital Region (Delhi NCR)—encompassing **New Delhi, Gurgaon, Noida, Greater Noida, and Ghaziabad**—houses India's largest and most vibrant cluster of **AICTE-approved, AIU-equivalent private PGDM institutions**.
 
 These institutions provide state-of-the-art infrastructure, dual-specialization flexibility (such as FinTech, AI & Business Analytics, Digital Marketing, and Supply Chain Logistics), and direct access to over 250 Fortune 500 corporate headquarters across Cyber City, Noida Expressway, and South Delhi. With average placement packages spanning **₹6.50 LPA to ₹12.30 LPA**, they offer exceptional **Return on Investment (ROI)** for pragmatic management candidates.
 
@@ -164,7 +164,7 @@ The structured comparison table below outlines the 2-year total tuition fees, av
 | **[ITS School of Management, Mohan Nagar, Ghaziabad](/colleges/its-ghaziabad/)** | ₹7.50 Lakhs | **₹7.20 LPA** (Highest: ₹16.0 LPA) | ⭐⭐⭐⭐⭐ (Low Financial Risk, 300+ Annual Placement Drives) | CAT: 65–70% \| MAT: 70–75% |
 | **[EMPI Business School, Chattarpur, New Delhi](/colleges/empi-delhi/)** | ₹8.75 Lakhs | **₹7.80 LPA** (Highest: ₹20.0 LPA) | ⭐⭐⭐ (Residential Green Campus, AI & Futuristic Tech Specializations) | CAT: 68–72% \| MAT: 70–75% |
 | **[Asian Business School (ABS), Sector 125, Noida](/colleges/asian-business-school-noida/)** | ₹8.65 Lakhs | **₹7.50 LPA** (Highest: ₹18.0 LPA) | ⭐⭐⭐ (Oxford Business College UK Diploma Module Included) | CAT: 65–70% \| MAT: 70–75% |
-| **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Gr. Noida](/colleges/gniot-greater-noida)** | ₹6.90 Lakhs | **₹6.80 LPA** (Highest: ₹15.5 LPA) | ⭐⭐⭐⭐ (Affordable ₹6.9L Fee, Chanakya Leadership Bootcamp) | CAT: 65–70% \| MAT: 70–75% |
+| **[GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Gr. Noida](/colleges/gniot-greater-noida/)** | ₹6.90 Lakhs | **₹6.80 LPA** (Highest: ₹15.5 LPA) | ⭐⭐⭐⭐ (Affordable ₹6.9L Fee, Chanakya Leadership Bootcamp) | CAT: 65–70% \| MAT: 70–75% |
 
 ---
 
@@ -227,7 +227,7 @@ Situated strategically in the heart of Gurgaon's corporate belt on Golf Course R
 
 ---
 
-### 6. [IMS Ghaziabad ([Institute of Management Studies](/colleges/ims-noida/))](/colleges/its-ghaziabad)
+### 6. [IMS Ghaziabad ([Institute of Management Studies](/colleges/ims-noida/))](/colleges/its-ghaziabad/)
 With a 34-year institutional legacy, **[IMS Ghaziabad](/colleges/its-ghaziabad/)** holds a coveted **NAAC A++ Grade** and NBA accreditation, functioning from an expansive green campus in Lal Quan.
 
 *   **Total Program Fee (2 Years):** ₹9.50 Lakhs
@@ -318,7 +318,7 @@ Located on the Noida Expressway, **[ABS Noida](/colleges/asian-business-school-n
 
 ---
 
-### 15. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Greater Noida](/colleges/gniot-greater-noida)
+### 15. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS), Greater Noida](/colleges/gniot-greater-noida/)
 **[GNIOT GIMS](/colleges/gniot-greater-noida/)** in Knowledge Park II provides a modern tech-driven PGDM program featuring practical industry bootcamps.
 
 *   **Total Program Fee (2 Years):** ₹6.90 Lakhs
@@ -371,7 +371,7 @@ Step 4: Education Loan & Financial Clearance
 *   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
 *   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2027-29/)
 *   [All About NDIM New Delhi: Reviews, Fees & Placements](/colleges/ndim-delhi/)
-*   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Noida](/colleges/jaipuria-noida)
+*   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Noida](/colleges/jaipuria-noida/)
 *   [All About FIIB New Delhi: Admissions & Selection Criteria](/colleges/fiib-delhi/)
 *   [All About JIMS Kalkaji / Rohini Reviews](/colleges/jims-kalkaji/)
 *   [Latest WAT/GD Topics for MBA Admissions 2027](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)

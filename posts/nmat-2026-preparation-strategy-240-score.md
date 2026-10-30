@@ -130,7 +130,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 ---
 
 ### 🚀 Boost Your Preparation
-Don't leave your NMAT score to chance. **[Explore Our Premium NMAT Mock Test Series 2026](https://careerwithmohit.online/tools/nmat-mock-test)** to experience the adaptive test environment and get detailed performance analytics.
+Don't leave your NMAT score to chance. **[Explore Our Premium NMAT Mock Test Series 2026](https://careerwithmohit.online/tools/nmat-mock-test/)** to experience the adaptive test environment and get detailed performance analytics.
 
 
 

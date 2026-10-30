@@ -88,7 +88,7 @@ The **Online MBA** is a 2-year (4-semester) degree with specializations in Finan
 
 ## How to Get Admission Support
 
-1. Explore the [Andhra University Online Hub Page](https://careerwithmohit.online/online-degree-certification/andhra-university-online).
+1. Explore the [Andhra University Online Hub Page](https://careerwithmohit.online/online-degree-certification/andhra-university-online/).
 2. Connect with Chief Counsellor Mohit Jain for application assistance.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

@@ -162,7 +162,7 @@ These colleges are known for their modern curriculum and strong ties with Gurgao
 ## Tier 3: Value-for-Money & Career Starters
 Ideal for students with moderate entrance scores looking for solid placement starts.
 
-### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi/))](/colleges/ndim-delhi)
+### 14. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi/))](/colleges/ndim-delhi/)
 - **Fees:** ₹12.7 Lakhs
 - **Average Placement:** ₹9.50 LPA
 - **USP:** Recognized for global industry link; 100% placements for decades.
@@ -201,7 +201,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 - **Fees:** ₹3.27 Lakhs
 - **Average Placement:** ₹7.50 LPA
 - **Entrance Exam:** IPU CET, CAT, CMAT
-- **USP:** [MERI Janakpuri MBA Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/) - Best ROI college in West Delhi with NAAC A+ grade.
+- **USP:** [MERI Janakpuri MBA Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/) - Best ROI college in West Delhi with NAAC A+ grade.
 
 ---
 

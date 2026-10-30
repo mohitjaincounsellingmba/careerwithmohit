@@ -76,7 +76,7 @@ Understanding the **XAT exam 2027 last date of registration** is essential for a
 
 > 🎯 **Planning your XAT 2027 Strategy?**
 >
-> [👉 Take our Free MBA Mock Tests Now](/mock-tests/) | [Read All About XAT Exam Pattern & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+> [👉 Take our Free MBA Mock Tests Now](/mock-tests/) | [Read All About XAT Exam Pattern & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
@@ -202,7 +202,7 @@ XAT 2027 is scheduled for **Sunday, January 3, 2027**, conducted in a single aft
 ---
 
 ### Related Articles & Useful Resources
-* [All About XAT Exam: Syllabus, Decision Making Tips & Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About XAT Exam: Syllabus, Decision Making Tips & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [All About XLRI Jamshedpur: Cutoffs, Fees & Placements](/colleges/xlri-jamshedpur/)
 * [CAT Exam 2026 Last Date of Registration & Guidelines](/blog/cat-exam-2026-last-date-of-registration/)
 * [NMAT Exam 2026 Last Date of Registration & Retake Guide](/blog/nmat-exam-2026-last-date-of-registration/)

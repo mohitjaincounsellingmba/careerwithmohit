@@ -178,7 +178,7 @@ Candidates seeking direct pathways without waiting for competitive exam cycles c
 
 Here is how NIET compares against other prominent business schools in Knowledge Park II:
 
-| Parameter | [NIET Greater Noida](/colleges/niet-greater-noida/) | [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/) | [Lloyd Business School]((/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) | [Mangalmay Greater Noida](/colleges/mangalmay-greater-noida/) |
+| Parameter | [NIET Greater Noida](/colleges/niet-greater-noida/) | [GL Bajaj Greater Noida](/colleges/gl-bajaj-greater-noida/) | [Lloyd Business School](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) | [Mangalmay Greater Noida](/colleges/mangalmay-greater-noida/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Flagship Degree** | Autonomous MBA & PGDM | PGDM & MBA | PGDM & MBA | 2-Year AKTU MBA |
 | **Total Program Fee** | **₹3.20L – ₹6.80L** | ₹7.50L – ₹8.50L | ₹2.90L – ₹8.25L | ₹3.25 Lakhs |
@@ -211,7 +211,7 @@ Here is how NIET compares against other prominent business schools in Knowledge 
 1. **Pick the Right Program for Your Budget**: If your budget is limited, opt for the **Autonomous MBA**. Do not stretch your family finances for the PGDM unless you specifically plan to leverage their niche analytics lab partnerships.
 2. **Utilize MAT and CMAT as Safety Nets**: If CAT did not go well, aim for 550+ in MAT (February or May cycle) to lock in your seat early before seats fill up in May–June.
 3. **Sharpen Technical Skills**: Even if you specialize in HR or Marketing, learn Advanced Excel, SQL, and Power BI. The recruiters visiting NIET lean heavily toward IT and tech-enabled businesses; showing tech fluency on your resume gives you an instant advantage.
-4. **Test Your Percentiles**: Benchmark your score against real closing percentiles with our [Free CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/).
+4. **Test Your Percentiles**: Benchmark your score against real closing percentiles with our [Free CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/).
 
 ---
 
@@ -236,6 +236,6 @@ Students undergo a mandatory 8-week corporate internship between their second an
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

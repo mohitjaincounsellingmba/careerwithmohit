@@ -148,7 +148,7 @@ For a complete step-by-step counselling guide, check out: [JoSAA Counselling 202
 - [JEE Main 2026 College Predictor: Find Your Best B.Tech College](/blog/jee-main-2026-college-predictor-rank-vs-college/)
 - [B.Tech Admission Without JEE 2026 – All Options](/blog/btech-admission-without-jee-2026-all-options/)
 - [How to Crack JEE Advanced 2026 – Preparation Strategy](/blog/how-to-crack-jee-advanced-2027-29/)
-- [Free JEE Advanced Mock Test 2026]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
+- [Free JEE Advanced Mock Test 2026](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 - [Best B.Tech Colleges in India 2026 (NIRF Ranking)](/blog/best-btech-colleges-india-2026/)
 
 ---

@@ -144,7 +144,7 @@ GATE EE (Electrical Engineering) has some of India's most prestigious PSU opport
 - **ECIL** — electronics & communications | Salary: ₹9–11 LPA
 - **Coal India** — power & electrical operations | Salary: ₹9–12 LPA
 
-[Read: All About GATE Exam — Strategy, PSU Jobs & M.Tech Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+[Read: All About GATE Exam — Strategy, PSU Jobs & M.Tech Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
@@ -182,7 +182,7 @@ Private sector (core EE roles): ₹5–10 LPA for freshers. PSU via GATE: ₹9�
 
 ## Useful Resources
 
-- [All About GATE Exam — PSU Jobs & Strategy Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About GATE Exam — PSU Jobs & Strategy Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
 - [Best B.Tech Mechanical Engineering Colleges India 2026](/blog/best-btech-mechanical-engineering-colleges-india-2026/)
 - [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)

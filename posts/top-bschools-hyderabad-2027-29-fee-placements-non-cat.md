@@ -81,20 +81,20 @@ For candidates targeting **MBA and PGDM admissions for the 2027-29 academic sess
 
 ### 1. ICFAI Business School (IBS), Hyderabad
 * **Campus**: Massive 91-acre eco-friendly campus in Dontanapalli, Hyderabad.
-* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses]((/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/).
+* **Why Choose IBS**: One of India's largest case-study development centers, robust global alumni base, and 95%+ campus placements. Check [All About IBS Campuses](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/).
 
 ### 2. [Institute of Public Enterprise](/colleges/ipe-hyderabad/) (IPE), Hyderabad
 * **Highlights**: Located in Shamirpet, IPE is recognized as a Centre of Excellence by the Indian Council of Social Science Research (ICSSR).
 * **Specialized PGDM Programs**: PGDM General, PGDM Banking & Financial Services, PGDM International Business, PGDM Marketing.
-* **Read Detailed Review**: [All About Institute of Public Enterprise](/blog).
+* **Read Detailed Review**: [All About Institute of Public Enterprise](/blog/).
 
 ### 3. [Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad/) (VJIM), Hyderabad
 * **Highlights**: AICTE approved and NBA accredited autonomous institute established in 1993.
-* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/colleges/abbs-school-of-management).
+* **Curriculum**: Offers dual specializations in Finance, Marketing, HR, Business Analytics, and Operations. Read [All About VJIM Hyderabad](/colleges/abbs-school-of-management/).
 
 ### 4. [Siva Sivani Institute of Management](/colleges/siva-sivani-institute-of-management/) (SSIM), Hyderabad
 * **Highlights**: Over 30 years of academic legacy in management education in Secunderabad/Hyderabad.
-* **High ROI**: Affordable fee structure of ₹6.90 Lakhs with strong corporate placement records. Read [All About SSIM Hyderabad](/colleges/siva-sivani-institute-of-management).
+* **High ROI**: Affordable fee structure of ₹6.90 Lakhs with strong corporate placement records. Read [All About SSIM Hyderabad](/colleges/siva-sivani-institute-of-management/).
 
 ---
 

@@ -134,10 +134,10 @@ Depending on the mode of exam you took, check out our dedicated, step-by-step gu
 Different B-schools have varied cutoff scores. Here is a curated list of excellent B-schools accepting MAT scores:
 
 1.  **[BIMTECH Greater Noida](/blog/direct-admission-bimtech-greater-noida-management-quota-2026/):** Known for its rich PGDM culture and strong placements.
-2.  **[Jaipuria Institute of Management]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/):** Excellent multi-campus network with customized career tracks.
-3.  **[NDIM New Delhi](/colleges/ndim-delhi):** Located in the heart of Delhi, offering high corporate exposure.
+2.  **[Jaipuria Institute of Management](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/):** Excellent multi-campus network with customized career tracks.
+3.  **[NDIM New Delhi](/colleges/ndim-delhi/):** Located in the heart of Delhi, offering high corporate exposure.
 4.  **[NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/):** The absolute gold standard for careers in banking, financial services, and insurance.
-5.  **[JIMS Rohini](/colleges/jims-rohini):** Extremely cost-effective PGDM program with consistent ROI.
+5.  **[JIMS Rohini](/colleges/jims-rohini/):** Extremely cost-effective PGDM program with consistent ROI.
 
 👉 Read the full list: **[MBA Colleges Accepting MAT Score in Delhi NCR 2027–29](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)**
 
@@ -162,7 +162,7 @@ Looking for more resources to check your readiness? **[Explore Our Premium MBA M
 
 Need customized advice on college admissions based on your MAT score? Book a free consultation with career coach **Mohit Jain**.
 
-📞 **[Book a Free Counselling Session → careerwithmohit.online](https://careerwithmohit.online/inquiry)**
+📞 **[Book a Free Counselling Session → careerwithmohit.online](https://careerwithmohit.online/inquiry/)**
 
 
 

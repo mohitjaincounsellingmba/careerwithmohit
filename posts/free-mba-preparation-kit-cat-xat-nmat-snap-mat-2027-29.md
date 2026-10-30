@@ -37,7 +37,7 @@ faqs:
   - question: How can I download the MBA Preparation Starter Kit?
     answer: >-
       You can access and download the complete PDF kit instantly by visiting the
-      [Free MBA Preparation Kit Portal](/starter-kit), submitting your target
+      [Free MBA Preparation Kit Portal](/starter-kit/), submitting your target
       exam and specialization preferences, and unlocking direct high-speed PDF
       downloads.
   - question: Is this MBA Preparation Kit completely free?
@@ -66,7 +66,7 @@ Every year, over **3.5 Lakh candidates** register for management entrance exams 
 
 Whether you are preparing for **CAT, XAT, NMAT, SNAP, MAT, or CMAT**, relying on scattered YouTube videos and unverified forum threads wastes precious prep time. 
 
-To bridge this critical gap, we have built the **[100% Free MBA Preparation Kit 2027–29-27](https://careerwithmohit.online/starter-kit)** — an all-in-one digital toolkit packed with official syllabus breakdowns, verified 4-tier percentile cutoff placement reports, 100 trending GDPI interview frameworks, and financial aid guides.
+To bridge this critical gap, we have built the **[100% Free MBA Preparation Kit 2027–29-27](https://careerwithmohit.online/starter-kit/)** — an all-in-one digital toolkit packed with official syllabus breakdowns, verified 4-tier percentile cutoff placement reports, 100 trending GDPI interview frameworks, and financial aid guides.
 
 ---
 
@@ -91,7 +91,7 @@ Choosing the right mix of entrance exams is the single most important strategic 
 
 ## What is Inside the Free MBA Preparation Kit 2027–29-27?
 
-**The **[Free MBA Preparation Starter Kit](/starter-kit)** is engineered as a zero-fluff, highly actionable resource repository. Here is a granular preview of what you will unlock upon instant PDF download:**
+**The **[Free MBA Preparation Starter Kit](/starter-kit/)** is engineered as a zero-fluff, highly actionable resource repository. Here is a granular preview of what you will unlock upon instant PDF download:**
 
 ```mermaid
 graph TD
@@ -153,7 +153,7 @@ Unlike generic ranking tables, the Starter Kit organizes B-Schools into **4 tran
 └───────────────────┴────────────────────────────┴────────────────────┴───────────────────────┘
 ```
 
-You can interactively explore and filter these colleges directly on the **[Starter Kit Placement Table](/starter-kit#placement-data)**.
+You can interactively explore and filter these colleges directly on the **[Starter Kit Placement Table](/starter-kit/#placement-data)**.
 
 ---
 
@@ -240,7 +240,7 @@ Month 6: Exam Simulation & Score Maximization
 
 Getting instant access to all 6 study guides, syllabus PDFs, and placement master reports takes less than 30 seconds:
 
-1. **Step 1:** Visit the official **[Free MBA Preparation Kit Portal](https://careerwithmohit.online/starter-kit)**.
+1. **Step 1:** Visit the official **[Free MBA Preparation Kit Portal](https://careerwithmohit.online/starter-kit/)**.
 2. **Step 2:** Fill in your details (Full Name, Active WhatsApp Number, Target MBA Entrance Exam, and Preferred Specialization like Marketing, Finance, HR, Business Analytics, or Operations).
 3. **Step 3:** Click **"Download 100% Free Preparation Kit (PDF)"**.
 4. **Step 4:** Instantly unlock direct download links for all syllabus PDFs, percentile cutoff sheets, and the 100 GDPI question bank.
@@ -256,14 +256,14 @@ Getting instant access to all 6 study guides, syllabus PDFs, and placement maste
 
 To supercharge your admission journey, explore our in-depth analysis of major entrance tests and top B-schools:
 
-* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About NMAT Exam 2026: [NMIMS Mumbai](/colleges/nmims-mumbai/) Cutoffs & Scoring]((/blog/all-about-nmat-exam/)**
-* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About OMET MBA Entrance Exams 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)**
-* **[IIM Colleges Placements, Fees & Selection Criteria 2026]((/blog/1-year-online-mba-colleges-india-2027-29/)**
+* **[All About CAT Exam 2026: Pattern, Registration & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About XAT Exam 2026: Decision Making & XLRI Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About NMAT Exam 2026: [NMIMS Mumbai](/colleges/nmims-mumbai/) Cutoffs & Scoring](/blog/all-about-nmat-exam/)**
+* **[All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About MAT Exam 2026: Frequency, Syllabuses & Colleges](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About CMAT Exam 2026: Top Accepting Colleges & Strategy](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About OMET MBA Entrance Exams 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)**
+* **[IIM Colleges Placements, Fees & Selection Criteria 2026](/blog/1-year-online-mba-colleges-india-2027-29/)**
 
 ---
 
@@ -273,7 +273,7 @@ To supercharge your admission journey, explore our in-depth analysis of major en
 The kit includes official exam syllabuses with sectional weightage for CAT, XAT, NMAT, SNAP, MAT & CMAT; 4-tier percentile cutoff placement master reports; 100 trending GDPI & WAT topics with IIM alumni frameworks; DRCC Bihar Student Credit Card approved private B-school guides; and month-by-month study roadmaps.
 
 ### 2. How can I download the MBA Preparation Starter Kit?
-You can access and download the complete PDF kit instantly by visiting the [Free MBA Preparation Kit Portal](/starter-kit), submitting your target exam and specialization preferences, and unlocking direct high-speed PDF downloads.
+You can access and download the complete PDF kit instantly by visiting the [Free MBA Preparation Kit Portal](/starter-kit/), submitting your target exam and specialization preferences, and unlocking direct high-speed PDF downloads.
 
 ### 3. Is this MBA Preparation Kit completely free?
 Yes, the entire MBA Preparation Kit is 100% free with no hidden paywalls. It is curated by career counsellor Mohit Jain to assist MBA and PGDM aspirants across India in making data-backed admission and preparation decisions.

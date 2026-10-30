@@ -97,7 +97,7 @@ With the application forms out and the exam scheduled for November 29, 2026, the
 - [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
 - [Top IIM Admissions Guide 2026](/blog/iims-list-courses-placements-cutoffs-admission/)
-- [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test#marks)
+- [CAT Score vs Percentile 2026 Projections](/tools/cat-mock-test/#marks)
 
 ---
 

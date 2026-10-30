@@ -141,7 +141,7 @@ Profile Audit  Branch Selection    Early Leadership    Tech & Software  Intl. Vi
 ```
 
 ### A. MBA & PGDM (Postgraduate Management)
-- **Top Entrance Exams**: [CAT](/tools/cat-score-calculator/), [XAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [SNAP]((/blog/10-tips-to-crack-cat-exam-2027-29/), [NMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAH MBA CET]((/blog/10-tips-to-crack-cat-exam-2027-29/), and ATMA.
+- **Top Entrance Exams**: [CAT](/tools/cat-score-calculator/), [XAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [SNAP](/blog/10-tips-to-crack-cat-exam-2027-29/), [NMAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [MAH MBA CET](/blog/10-tips-to-crack-cat-exam-2027-29/), and ATMA.
 - **Key Deliverables in Counselling**:
   - Profile strength evaluation (10th/12th/Graduation percentages + Work Experience).
   - Categorizing B-Schools into **Dream, Reach, and Safe** tiers.
@@ -220,11 +220,11 @@ Mumbai offers unparalleled corporate access to multinational investment banks, m
 * **Top MBA / PGDM Colleges in Mumbai**:
   - JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))
   - [SPJIMR Mumbai](/colleges/spjimr-mumbai/) (S.P. Jain Institute of Management and Research)
-  - [NMIMS School of Business Management (SBM Mumbai)](/colleges/nmims-mumbai)
+  - [NMIMS School of Business Management (SBM Mumbai)](/colleges/nmims-mumbai/)
   - SIMSREE (Sydenham Institute)
   - [Welingkar Institute of Management (WeSchool Mumbai)](/colleges/welingkar-bangalore/)
   - [K J Somaiya Institute of Management](/blog/kj-somaiya-btech-review-2026/)
-  - [NL Dalmia Institute of Management Studies]((/blog/1-year-online-mba-colleges-india-2027-29/)
+  - [NL Dalmia Institute of Management Studies](/blog/1-year-online-mba-colleges-india-2027-29/)
   - [Universal AI University (Karjat/Mumbai)](/colleges/universal-ai-mumbai/), [Atlas SkillTech University](/colleges/atlas-skilltech-mumbai/)
 * **Top Engineering & Undergraduate Colleges**:
   - VJTI Mumbai, SPIT Mumbai, DJ Sanghvi (DJSCE), Mukesh Patel (MPSTME), Mithibai College, NM College, St. Xavier's Mumbai.
@@ -238,15 +238,15 @@ Delhi NCR houses the highest concentration of corporate headquarters, consulting
 
 * **Top MBA / PGDM Colleges in Delhi NCR**:
   - [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies - Best ROI in India)
-  - [MDI Gurgaon](/colleges/mdi-gurgaon) (Management Development Institute)
+  - [MDI Gurgaon](/colleges/mdi-gurgaon/) (Management Development Institute)
   - [IIFT Delhi](/colleges/iift-delhi/) (Indian Institute of Foreign Trade)
   - [FORE School of Management](/colleges/fore-school-delhi/) & [IMI New Delhi](/colleges/imi-delhi/)
   - [LBSIM Delhi](/colleges/lbsim-delhi/) (Lal Bahadur Shastri Institute of Management)
   - Masters' Union (Gurgaon - New-Age Tech & Business School)
   - [Great Lakes Institute of Management (Gurgaon Campus)](/colleges/great-lakes-gurgaon/)
-  - [BML Munjal University]((/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/), [Bennett University]((/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2027-29/)
+  - [BML Munjal University](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/), [Bennett University](/blog/bennett-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/), [GD Goenka University](/blog/gd-goenka-university-gurugram-review-2027-29/)
 * **Top Engineering & BBA Colleges in Delhi NCR**:
-  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi]((/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/).
+  - DTU Delhi, NSUT Delhi, IIIT Delhi, GGSIPU (USICT, MAIT, MSIT, VIPs), [SSCBS Delhi](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/).
 * **Admission Consultant Advantage in Delhi NCR**:
   - Comprehensive counselling for IPU CET, JAC Delhi, CAT/XAT score-based cutoffs, and scholarship evaluations for private universities.
 
@@ -289,9 +289,9 @@ Jaipur combines affordable living, exceptional campus life, and nationally accla
 * **Top Institutions in Jaipur**:
   - [Jaipuria Institute of Management Jaipur](/colleges/jaipuria-jaipur/)
   - [Taxila Business School Jaipur](/colleges/taxila-jaipur/)
-  - [Manipal University Jaipur (MUJ)]((/blog/alliance-university-btech-honest-review-cons/)
+  - [Manipal University Jaipur (MUJ)](/blog/alliance-university-btech-honest-review-cons/)
   - [JK Lakshmipat University (JKLU Jaipur)](/blog/jk-lakshmipat-university-jklu-jaipur-review-2027-29/)
-  - [JECRC University](/colleges/jecrc-jaipur/), [Poornima University]((/blog/1-year-online-mba-colleges-india-2027-29/)
+  - [JECRC University](/colleges/jecrc-jaipur/), [Poornima University](/blog/1-year-online-mba-colleges-india-2027-29/)
   - [IIHMR University Jaipur](/colleges/iihmr-university/) (Healthcare & Hospital Management)
 * **Admission Consultant Advantage in Jaipur**:
   - Guidance for CMAT/MAT based scholarships, specialized healthcare management admissions, and private university engineering counselling.
@@ -306,11 +306,11 @@ Bangalore provides unmatched exposure to global tech giants (Google, Microsoft, 
   - [SIBM Bangalore](/colleges/sibm-bangalore/) & [NMIMS Bangalore](/colleges/nmims-bangalore/)
   - [XIME Bangalore](/colleges/xime-bangalore/) (Xavier Institute of Management & Entrepreneurship)
   - [Alliance School of Business (Alliance University)](/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/)
-  - [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))](/colleges/jagsom-bangalore)
+  - [JAGSoM ([Jagdish Sheth School of Management](/colleges/jagsom-bangalore/))](/colleges/jagsom-bangalore/)
   - [ISBR Business School](/colleges/isbr-bangalore/), [AIMS Institutes](/colleges/aims-bangalore/), [Welingkar Bangalore](/colleges/welingkar-bangalore/)
   - [Christ University (School of Business and Management)](/blog/christ-university-bangalore-review-2027-29/)
 * **Top Engineering & BBA Colleges in Bangalore**:
-  - RVCE (RV College of Engineering), BMSCE, MSRIT (Ramaiah Institute of Technology), [PES University](/blog), [Dayananda Sagar College of Engineering](/blog/dayananda-sagar-university-dsu-bangalore-review-2027-29/).
+  - RVCE (RV College of Engineering), BMSCE, MSRIT (Ramaiah Institute of Technology), [PES University](/blog/), [Dayananda Sagar College of Engineering](/blog/dayananda-sagar-university-dsu-bangalore-review-2027-29/).
 * **Admission Consultant Advantage in Bangalore**:
   - COMEDK rank counselling, management quota transparency in top VTU/Autonomous engineering colleges, and BBA/MBA startup cohort admissions.
 

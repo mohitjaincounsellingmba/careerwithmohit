@@ -80,11 +80,11 @@ When IIMs release their admission policies on their websites, they display the *
 | **Old IIMs (BLACKI)** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | 80 %ile | **99.6+ %ile** (Engg) / **98.0+** (Non-Engg) | 94 – 96 %ile | 78 – 85 %ile |
 | | [IIM Bangalore](/colleges/iim-bangalore/) | 85 %ile | **99.2+ %ile** (High Academics weight) | 92 – 95 %ile | 75 – 82 %ile |
 | | [IIM Calcutta](/colleges/iim-calcutta/) | 85 %ile | **99.6+ %ile** (High Quants focus) | 94 – 96 %ile | 75 – 82 %ile |
-| | [IIM Lucknow]((/blog/1-year-online-mba-colleges-india-2027-29/) | 90 %ile | **98.5+ %ile** | 90 – 93 %ile | 72 – 78 %ile |
-| | [IIM Kozhikode]((/blog/1-year-online-mba-colleges-india-2027-29/) | 85 %ile | **98.0+ %ile** (High Gender Diversity) | 88 – 92 %ile | 70 – 76 %ile |
-| | [IIM Indore]((/blog/1-year-online-mba-colleges-india-2027-29/) | 90 %ile | **98.0+ %ile** (Heavy 10th/12th weight) | 88 – 92 %ile | 70 – 75 %ile |
-| **New IIMs (CAP)** | [IIM Mumbai (NITIE)]((/blog/1-year-online-mba-colleges-india-2027-29/) | 85 %ile | **97.5+ %ile** | 90 – 93 %ile | 75 – 80 %ile |
-| | [IIM Shillong]((/blog/1-year-online-mba-colleges-india-2027-29/) | 75 %ile | **96.5+ %ile** | 88 – 92 %ile | 70 – 75 %ile |
+| | [IIM Lucknow](/blog/1-year-online-mba-colleges-india-2027-29/) | 90 %ile | **98.5+ %ile** | 90 – 93 %ile | 72 – 78 %ile |
+| | [IIM Kozhikode](/blog/1-year-online-mba-colleges-india-2027-29/) | 85 %ile | **98.0+ %ile** (High Gender Diversity) | 88 – 92 %ile | 70 – 76 %ile |
+| | [IIM Indore](/blog/1-year-online-mba-colleges-india-2027-29/) | 90 %ile | **98.0+ %ile** (Heavy 10th/12th weight) | 88 – 92 %ile | 70 – 75 %ile |
+| **New IIMs (CAP)** | [IIM Mumbai (NITIE)](/blog/1-year-online-mba-colleges-india-2027-29/) | 85 %ile | **97.5+ %ile** | 90 – 93 %ile | 75 – 80 %ile |
+| | [IIM Shillong](/blog/1-year-online-mba-colleges-india-2027-29/) | 75 %ile | **96.5+ %ile** | 88 – 92 %ile | 70 – 75 %ile |
 | | [IIM Udaipur](/colleges/iim-udaipur/), Ranchi, Raipur, Trichy, Kashipur | 92 %ile (CAP) | **94.0 – 95.5+ %ile** | 74 – 78 %ile | 54 – 60 %ile |
 | | [IIM Rohtak](/colleges/iim-rohtak/) (Own PI) | 95 %ile | **96.0+ %ile** | 86 – 90 %ile | 65 – 72 %ile |
 | **Baby IIMs** | [IIM Nagpur](/colleges/iim-nagpur/), Vizag, Amritsar, Bodh Gaya, Jammu, Sambalpur, Sirmaur | 92 %ile (CAP) | **92.5 – 94.0+ %ile** | 74 – 78 %ile | 50 – 58 %ile |

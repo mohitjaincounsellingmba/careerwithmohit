@@ -281,7 +281,7 @@ Leaving questions unattempted carries a heavy penalty in GMAC's adaptive scaling
 
 Succeeding in NMAT requires combining speed, accuracy, and smart attempt strategy. Focus your preparation on hitting your peak score in **Attempt 1** to secure your seat at [NMIMS Mumbai](/colleges/nmims-mumbai/), while keeping Attempts 2 and 3 ready as strategic backups for top-tier B-schools across India.
 
-For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2027–29]((/blog/10-tips-to-crack-cat-exam-2027-29/), [NMIMS Campuses Review]((/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/), and [CAT Exam Preparation Strategy]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+For more insights into MBA entrance exams and college selection, check out our comprehensive guides on [All About NMAT Exam 2027–29](/blog/10-tips-to-crack-cat-exam-2027-29/), [NMIMS Campuses Review](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/), and [CAT Exam Preparation Strategy](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 ---
 

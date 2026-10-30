@@ -92,7 +92,7 @@ category: B.Tech
 **Pro Tip for MHT-CET 2026**:
 Maharashtra has many autonomous institutes (COEP, VJTI, ICT) which have their own academic calendar and very high placement reputations. If your rank is good, prioritize these even if they are outside your home district.
 
-[👉 Check Top Maharashtra B.Tech Colleges & Reviews Here!](/colleges?state=Maharashtra)
+[👉 Check Top Maharashtra B.Tech Colleges & Reviews Here!](/colleges/?state=Maharashtra)
 
 **Confused About the CAP Selection?**
 The MHT-CET "State Merit Number" system is very specific. At **CareerWithMohit**, we help you decide which order of preferences to fill based on your percentile and domicile status.

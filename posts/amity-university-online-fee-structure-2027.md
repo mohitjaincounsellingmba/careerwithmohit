@@ -122,7 +122,7 @@ The **Online BBA** and **Online BCA** are 3-year (6-semester) undergraduate prog
 
 ## How to Apply & Claim Scholarship / Fee Discount
 
-1. Visit the [Amity University Online Directory Page](https://careerwithmohit.online/online-degree-certification/amity-university-online) on CareerWithMohit.
+1. Visit the [Amity University Online Directory Page](https://careerwithmohit.online/online-degree-certification/amity-university-online/) on CareerWithMohit.
 2. Verify eligibility (50% in Graduation for MBA/MCA, 45% in 10+2 for BBA/BCA).
 3. Connect with Counsellor Mohit Jain for official fee rebate vouchers and zero-cost EMI assistance.
 

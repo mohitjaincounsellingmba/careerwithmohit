@@ -179,4 +179,4 @@ Master Advanced Excel (Pivot tables, VLOOKUP/XLOOKUP, solver), SQL fundamentals,
 
 - **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
 - **[Read: Best MBA Colleges in Bangalore 2027–29 Fees & Placements](/blog/best-mba-colleges-in-bangalore-2027-29/)**
-- **[Read: All About IIM Bangalore Admission & Cutoffs](/colleges/iim-bangalore)**
+- **[Read: All About IIM Bangalore Admission & Cutoffs](/colleges/iim-bangalore/)**

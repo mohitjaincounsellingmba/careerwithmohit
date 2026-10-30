@@ -66,7 +66,7 @@ Why should you learn **Chinese**? Because top global companies are actively look
 *   [How to Start Freelancing in 2026: Step-by-Step](/blog/how-to-start-freelancing-2026-beginners-india/)
 *   [Top 100 MNC Career Links in India](/blog/top-100-mnc-career-links-india/)
 *   [Career Roadmaps for Success in 2026](/blog/career-roadmaps-2027-29/)
-*   [Hiring Jobs Board (Verified Roles)](/jobs)
+*   [Hiring Jobs Board (Verified Roles)](/jobs/)
 
 **Need Personalized Career Guidance?**
 Thinking about moving abroad or landing a job in a specific MNC? Our expert mentors can help you choose the right language and career path to maximize your salary.

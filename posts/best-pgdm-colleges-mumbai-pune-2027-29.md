@@ -85,7 +85,7 @@ For management aspirants preparing for the **2027-29 academic session**, selecti
 | **ITM Navi Mumbai** | ₹12.45 Lakhs | ₹8.65 LPA | ₹21.00 LPA | CAT / XAT / CMAT / MAT |
 | **Universal AI University, Karjat** | ₹11.98 Lakhs | ₹8.20 LPA | ₹22.00 LPA | CAT / CMAT / MAT / UBAT |
 
-For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/) and [All About ITM Mumbai](/colleges/itm-mumbai).
+For comprehensive reviews of Mumbai's growing AI and management hub, visit [All About Universal AI Mumbai](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/) and [All About ITM Mumbai](/colleges/itm-mumbai/).
 
 ---
 
@@ -106,7 +106,7 @@ Explore in-depth reviews of top Pune institutes:
 * [All About PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/)
 * [All About RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/)
 * [All About Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/)
-* [All About ISBS Pune]((/blog/aissms-lexicon-management-institute-pune-review-2027-29/)
+* [All About ISBS Pune](/blog/aissms-lexicon-management-institute-pune-review-2027-29/)
 * [All About DY Patil B-School](/colleges/dy-patil-b-school/)
 
 ---

@@ -122,7 +122,7 @@ Yes, [IMI Delhi](/colleges/imi-delhi/) has a good mix of both freshers and stude
 - [MBA PGDM Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 - [Direct MBA Admission India 2027–29 Profile Weights](/blog/direct-mba-admission-india/)
 
-[👉 Want to secure your seat at [IMI Delhi](/colleges/imi-delhi/)? Speak to our admission experts today!](/inquiry)
+[👉 Want to secure your seat at [IMI Delhi](/colleges/imi-delhi/)? Speak to our admission experts today!](/inquiry/)
 
 
 

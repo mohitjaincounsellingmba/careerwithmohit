@@ -81,7 +81,7 @@ In this definitive guide, we break down the technical differences, market realit
 Did you know? Most IIMs (Ahmedabad, Bangalore, Calcutta, etc.) now award **MBA degrees** instead of diplomas. However, they continue to follow a PGDM-style autonomous curriculum. This means you get the global prestige of a degree with the industry relevance of a diploma.
 
 ### 2. Curriculum & Industry Alignment
-If you want to stay ahead of AI trends, FinTech, and Digital Marketing, **PGDM** usually takes the leadahr. Autonomous institutes like [BIMTECH](/blog/bimtech-greater-noida-placement-review-2025/) or [NDIM Delhi](/colleges/ndim-delhi) can update their syllabus within weeks to match corporate demands. MBA curricula, governed by universities, often take 3-5 years to undergo major revisions.
+If you want to stay ahead of AI trends, FinTech, and Digital Marketing, **PGDM** usually takes the leadahr. Autonomous institutes like [BIMTECH](/blog/bimtech-greater-noida-placement-review-2025/) or [NDIM Delhi](/colleges/ndim-delhi/) can update their syllabus within weeks to match corporate demands. MBA curricula, governed by universities, often take 3-5 years to undergo major revisions.
 
 ### 3. The AIU Equivalence Rule
 This is where most students get confused. 
@@ -89,7 +89,7 @@ This is where most students get confused.
 - **Why it matters:** If you plan to pursue a PhD in India or apply for certain UPSCs/Government jobs that explicitly ask for a "Master's Degree," ensure your PGDM college has AIU equivalence.
 
 ### 4. Fees and ROI
-- **MBA:** Generally more affordable, especially in state or central universities (e.g., [FMS Delhi](/colleges/fms-delhi) or PUMBA).
+- **MBA:** Generally more affordable, especially in state or central universities (e.g., [FMS Delhi](/colleges/fms-delhi/) or PUMBA).
 - **PGDM:** Usually involves higher fees due to self-funding, better corporate networking, and premium campus facilities (e.g., [IMI New Delhi](/blog/imi-delhi-vs-imi-kolkata-pgdm-comparison-2027-29/)).
 
 ### 5. Corporate Perception
@@ -111,8 +111,8 @@ This is where most students get confused.
 
 ## 🚀 How to Decide: The 60-Second Profile Check
 
-- **Choose MBA if:** You are on a budget, want a formal degree for future PhD plans, or are aiming for government sector stability. Check out: [FMS Delhi](/colleges/fms-delhi) or [Jamia Millia Islamia MBA](/colleges/jamia-millia-islamia/).
-- **Choose PGDM if:** You want a fast-paced corporate career, deep specialization in emerging fields, and are willing to invest for better placement services and industry exposure. Check out: [Jaipuria Institute]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/) or [JIMS Rohini](/colleges/jims-rohini).
+- **Choose MBA if:** You are on a budget, want a formal degree for future PhD plans, or are aiming for government sector stability. Check out: [FMS Delhi](/colleges/fms-delhi/) or [Jamia Millia Islamia MBA](/colleges/jamia-millia-islamia/).
+- **Choose PGDM if:** You want a fast-paced corporate career, deep specialization in emerging fields, and are willing to invest for better placement services and industry exposure. Check out: [Jaipuria Institute](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/) or [JIMS Rohini](/colleges/jims-rohini/).
 
 ---
 

@@ -107,7 +107,7 @@ Here is a comprehensive list of top colleges in Pune and Mumbai that accept the 
 Mumbai, the financial capital of India, is home to some of the highest-ranked B-schools in the country.
 
 ### Top Government / University Colleges
-*   **[Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/) (JBIMS)](/colleges/jbims-mumbai)**
+*   **[Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/) (JBIMS)](/colleges/jbims-mumbai/)**
     *   **MAH CET Cutoff**: 99.99 Percentile
     *   **Total Fees**: ₹6.50 Lakhs
     *   **Avg. Placement**: ₹28.00 LPA

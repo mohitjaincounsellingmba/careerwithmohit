@@ -213,7 +213,7 @@ Located along the Super Corridor, NMIMS Indore provides a sprawling residential 
 
 To help you decide whether NMIMS Indore matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Madhya Pradesh and other NMIMS campuses:
 
-| Parameter | [NMIMS Indore](/blog/nmims-indore-mba-review-2027-fees-placements-cutoff/) | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [Jaipuria Indore]((/blog/iim-indore-mba-review-2027-fees-placements-cutoff/) |
+| Parameter | [NMIMS Indore](/blog/nmims-indore-mba-review-2027-fees-placements-cutoff/) | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [Jaipuria Indore](/blog/iim-indore-mba-review-2027-fees-placements-cutoff/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Super Corridor, Indore | Jadcherla, Hyderabad | Kharghar, Navi Mumbai | Dakachya, Indore |
 | **Accreditation / Status** | UGC Category-1 | AMBA Accredited | AACSB Member | NBA / AICTE |
@@ -266,6 +266,6 @@ Yes. NMIMS Indore provides separate air-conditioned on-campus student residences
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

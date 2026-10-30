@@ -79,10 +79,10 @@ category: Exams
 
 ### 1. [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/), Jaipur
 * **Campus:** Located in Bambala Institutional Area, Pratap Nagar.
-* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/colleges/jaipuria-jaipur).
+* **Placement Highlights:** Centralized placement pool across all 4 Jaipuria campuses ensuring access to 300+ recruiters like Deloitte, ICICI Bank, HDFC, and Amazon. Check [All About Jaipuria Jaipur](/colleges/jaipuria-jaipur/).
 
 ### 2. [IIHMR University](/colleges/iihmr-university/) Jaipur
-* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/colleges/iihmr-university).
+* **Specialty:** World Health Organization (WHO) collaborating centre and pioneer in Hospital Management, Pharmaceutical Management, and Development Management. Read [All About IIHMR University](/colleges/iihmr-university/).
 
 ### 3. FMS-IRM Jaipur ([Institute of Rural Management](/colleges/institute-of-rural-management/))
 * **Highlights:** Over 30 years of pedigree in rural management, agribusiness marketing, and financial inclusion. High ROI with fee of just ₹6.50 Lakhs. Read [All About FMS IRM Jaipur](/colleges/fms-irm-jaipur/).
@@ -105,8 +105,8 @@ category: Exams
 
 ## Related Guides
 - [Top MBA/PGDM Colleges in Jaipur: Admission Criteria, Scholarships & Placements](/blog/top-mba-pgdm-colleges-jaipur-2027-29/)
-- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
-- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

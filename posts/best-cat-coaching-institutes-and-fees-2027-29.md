@@ -69,7 +69,7 @@ Whether you prefer physical classroom learning or the flexibility of interactive
 
 > 🎯 **Planning your CAT 2026 preparation journey?**
 >
-> [👉 Take our Free CAT 2026 Mock Test with AI Percentile Analysis](https://careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take our Free CAT 2026 Mock Test with AI Percentile Analysis](https://careerwithmohit.online/tools/cat-mock-test/)
 
 ---
 
@@ -167,7 +167,7 @@ Physics Wallah entered the MBA segment with the goal of democratizing CAT coachi
 ---
 
 ### Useful Related Articles:
-* **[All About CAT Exam 2026: Pattern, Syllabus & Cut-offs]((/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[All About CAT Exam 2026: Pattern, Syllabus & Cut-offs](/blog/10-tips-to-crack-cat-exam-2027-29/)**
 * **[10 Proven Tips to Crack CAT 2026 from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)**
 * **[CAT 2026 Preparation Strategy & Month-by-Month Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates/)**
 * **[Top Online MBA Coaching Platforms in India 2027–29](/blog/best-mba-coaching-online-2027-29/)**
@@ -193,7 +193,7 @@ Yes, thousands of candidates self-study for CAT using standard textbooks (such a
 
 ### 🚀 Ready to Elevate Your CAT Preparation?
 
-> [👉 Take our Free CAT 2026 Full-Length Mock Test & Benchmark Your Score](https://careerwithmohit.online/tools/cat-mock-test)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test & Benchmark Your Score](https://careerwithmohit.online/tools/cat-mock-test/)
 ---
 
 ### 🚀 Boost Your Preparation

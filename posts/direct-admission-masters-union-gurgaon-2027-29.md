@@ -113,7 +113,7 @@ Masters Union is not a traditional university; it offers a Post Graduate Program
 ---
 
 ## 🔗 Related Resources
-- [Masters Union Gurgaon Review: Placements & Life](/colleges/masters-union-gurgaon)
+- [Masters Union Gurgaon Review: Placements & Life](/colleges/masters-union-gurgaon/)
 - [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 - [Direct MBA Admission India 2027–29](/blog/direct-mba-admission-india/)
 

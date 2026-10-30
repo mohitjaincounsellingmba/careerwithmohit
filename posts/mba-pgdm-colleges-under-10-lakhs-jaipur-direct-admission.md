@@ -30,7 +30,7 @@ faqs:
   - question: >-
       Is [Poornima University](/colleges/poornima-jaipur/)’s GCEC degree valid
       globally?
-    answer: "Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.\n\n**Explore More Insights:**\n*   [\U0001F449 Deep Dive: [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2027–29]((/blog/poornima-university-gcec-mba-review-2027-29/)\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n\n*At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry/)*"
+    answer: "Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.\n\n**Explore More Insights:**\n*   [\U0001F449 Deep Dive: [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2027–29](/blog/poornima-university-gcec-mba-review-2027-29/)\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n\n*At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry/)*"
   - question: >-
       What is the expected admission cutoff for Top MBA Colleges Under 10 Lakhs
       in Jaipur (Direct Admission 2027–29)?
@@ -101,8 +101,8 @@ The baseline cost of real estate and infrastructure operations is lower in Rajas
 Yes. Poornima is UGC recognized, and the GCEC MBA often seamlessly integrates international professional bodies like ACCA, giving you direct global mobility.
 
 **Explore More Insights:**
-*   [👉 Deep Dive: [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2027–29]((/blog/poornima-university-gcec-mba-review-2027-29/)
-*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA]((/blog/why-never-join-galgotias-university-for-mba-review/)
+*   [👉 Deep Dive: [Poornima University](/colleges/poornima-jaipur/) GCEC MBA Review 2027–29](/blog/poornima-university-gcec-mba-review-2027-29/)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)
 
 *At **CareerWithMohit**, we believe that geographic strategy is key to ROI. Need help picking a Jaipur B-School? [Book a Strategy Session!](/inquiry/)*
 

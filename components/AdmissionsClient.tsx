@@ -393,7 +393,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {/* MBA / PGDM */}
           <Link
-            href="/colleges?category=Management"
+            href="/colleges/?category=Management"
             className="group bg-white rounded-2xl p-5 border border-slate-200/90 shadow-sm hover:shadow-xl hover:border-blue-300 transition-all flex flex-col justify-between"
           >
             <div>
@@ -420,7 +420,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
 
           {/* Engineering (B.Tech) */}
           <Link
-            href="/colleges?category=Engineering"
+            href="/colleges/?category=Engineering"
             className="group bg-white rounded-2xl p-5 border border-slate-200/90 shadow-sm hover:shadow-xl hover:border-indigo-300 transition-all flex flex-col justify-between"
           >
             <div>
@@ -447,7 +447,7 @@ export function AdmissionsClient({ colleges, posts }: AdmissionsClientProps) {
 
           {/* Undergrad UG */}
           <Link
-            href="/colleges?category=UG%20Courses"
+            href="/colleges/?category=UG%20Courses"
             className="group bg-white rounded-2xl p-5 border border-slate-200/90 shadow-sm hover:shadow-xl hover:border-emerald-300 transition-all flex flex-col justify-between"
           >
             <div>

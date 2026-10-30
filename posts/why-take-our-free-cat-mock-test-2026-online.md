@@ -46,7 +46,7 @@ Scoring a 99+ percentile in the Common Admission Test (CAT) is less about knowin
 
 [MockTestCard title="Free CAT 2026 Full CBT Mock Test 2026" link="/cat-mock-test" questions="68 Questions" time="120 Mins"]
 
-In 2026, the competition for the Top 7 IIMs (A, B, C, L, K, I, S) is at an all-time high. To help you bridge the gap, we have launched a **[Free CAT 2026 Mock Test Tool](/cat-mock-test)** that simulates the exact pressure and exam pattern.
+In 2026, the competition for the Top 7 IIMs (A, B, C, L, K, I, S) is at an all-time high. To help you bridge the gap, we have launched a **[Free CAT 2026 Mock Test Tool](/cat-mock-test/)** that simulates the exact pressure and exam pattern.
 
 Here is your 3-step blueprint to mastering CAT 2026 using realistic mocks.
 
@@ -54,7 +54,7 @@ Here is your 3-step blueprint to mastering CAT 2026 using realistic mocks.
 
 > 🚀 **Ready to test your prep?**
 >
-> [👉 Take the Full-Length CAT 2026 Mock Test Now](/cat-mock-test)
+> [👉 Take the Full-Length CAT 2026 Mock Test Now](/cat-mock-test/)
 
 ---
 
@@ -98,7 +98,7 @@ A raw score of 85+ (out of 198) is typically required to secure a 99+ percentile
 
 ### 🚀 Boost Your Preparation
 
-Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers)** with step-by-step solutions.
+Looking for more test prep resources? **[Explore Our 50+ Free Online Mock Test Series](/mock-tests/)** or check out **[Previous Year Question Papers](/previous-year-papers/)** with step-by-step solutions.
 
 
 ---

@@ -104,8 +104,8 @@ IMM Delhi has a dedicated Corporate Resource Centre (CRC) that has been quite ac
 
 ## 📊 IMM Delhi vs. Competitors
 If you are considering IMM Delhi, you are likely also looking at:
-*   [**NDIM Delhi**](/colleges/ndim-delhi): Similar legacy, slightly higher fees, and AIU equivalence.
-*   [**JIMS Rohini**](/colleges/jims-rohini): Stronger focus on the North Delhi corporate belt.
+*   [**NDIM Delhi**](/colleges/ndim-delhi/): Similar legacy, slightly higher fees, and AIU equivalence.
+*   [**JIMS Rohini**](/colleges/jims-rohini/): Stronger focus on the North Delhi corporate belt.
 *   [**FIIB Delhi**](/blog/fiib-delhi-review-2027/): Great for International Business and sustainability roles.
 
 ---

@@ -91,7 +91,7 @@ As a Central University, HNBGU maintains extremely low fees:
 
 ### **Check Other Placement Guides:**
 *   [Guru Ghasidas Vishwavidyalaya Review 2027–29](/blog/guru-ghasidas-vishwavidyalaya-ggv-review-2027-29/)
-*   [BML Munjal University Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 [👉 Get Admission Consultation for HNBGU!](/inquiry/)
 

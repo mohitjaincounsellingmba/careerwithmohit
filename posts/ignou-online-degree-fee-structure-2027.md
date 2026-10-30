@@ -108,7 +108,7 @@ For students planning to apply for the 2027 intake session, here is the complete
 
 ## How to Get Admission Guidance
 
-1. Explore the [IGNOU Online Directory Page](https://careerwithmohit.online/online-degree-certification/ignou-online).
+1. Explore the [IGNOU Online Directory Page](https://careerwithmohit.online/online-degree-certification/ignou-online/).
 2. Connect with Counsellor Mohit Jain for application assistance and subject elective selections.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

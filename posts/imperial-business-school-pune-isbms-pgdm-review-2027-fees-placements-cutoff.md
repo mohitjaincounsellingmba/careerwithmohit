@@ -198,7 +198,7 @@ ISBMS Pune Selection Weightage Matrix
 
 **Compared to generalist mid-tier Pune business schools, Imperial Business School offers a more concentrated finance and fund administration ecosystem at a competitive total fee point.**
 
-| Comparison Parameter | Imperial Business School (ISBMS) | [PIBM Pune](/colleges/pibm-pune/) | [IIEBM Indus Pune](/posts/iiebm-indus-pune-mba-pgdm-review-2027-fees-placements-cutoff/) | Indira Institute (ISIMP/IIMP) |
+| Comparison Parameter | Imperial Business School (ISBMS) | [PIBM Pune](/colleges/pibm-pune/) | [IIEBM Indus Pune](/blog/iiebm-indus-pune-mba-pgdm-review-2027-fees-placements-cutoff/) | Indira Institute (ISIMP/IIMP) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Hinjawadi, Pune | Pirangut / Bavdhan, Pune | Wakad, Pune | Tathawade, Pune |
 | **Total Program Fee** | **₹9.25L – ₹9.35L** | ~₹9.45 Lakhs | ~₹8.25 Lakhs | ~₹8.50L – ₹9.50L |
@@ -246,7 +246,7 @@ Aspirants can submit their academic details, graduation scores (minimum 50%), an
 
 ### 🚀 Related MBA Resources & Next Steps
 
-- **[Explore Top MBA & PGDM Colleges in Pune 2027: Fees, Cutoffs & Real ROI](/posts/best-mba-pgdm-colleges-pune-2027/)**
+- **[Explore Top MBA & PGDM Colleges in Pune 2027: Fees, Cutoffs & Real ROI](/blog/best-mba-pgdm-colleges-pune-2027/)**
 - **[Compare Top 55+ Direct Admission B-Schools in India](/mba-pgdm-admission-2027/)**
 - **[Book a 1-on-1 Profile Strategy Session with Mohit Jain](/inquiry/)** to evaluate your Pune MBA shortlists.
 
@@ -254,6 +254,6 @@ Aspirants can submit their academic details, graduation scores (minimum 50%), an
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

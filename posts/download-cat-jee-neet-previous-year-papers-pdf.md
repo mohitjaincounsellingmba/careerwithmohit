@@ -53,10 +53,10 @@ The Common Admission Test (CAT) has evolved significantly over the years. Below 
 
 | Year | Available Format | Status |
 | :--- | :--- | :--- |
-| **CAT 2025** | Expected Pattern & Mock | [Download Now](/previous-year-papers) |
-| **CAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **CAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **CAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **CAT 2025** | Expected Pattern & Mock | [Download Now](/previous-year-papers/) |
+| **CAT 2024** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **CAT 2023** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **CAT 2022** | Official Question Paper | [Download Now](/previous-year-papers/) |
 
 ---
 
@@ -66,10 +66,10 @@ Practice decision making and quantitative ability sections with official XAT pap
 
 | Year | Available Format | Status |
 | :--- | :--- | :--- |
-| **XAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
-| **XAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **XAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **XAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers/) |
+| **XAT 2024** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **XAT 2023** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **XAT 2022** | Official Question Paper | [Download Now](/previous-year-papers/) |
 
 ---
 
@@ -79,10 +79,10 @@ Since SNAP is a computer-based speed test, these memory-based question papers an
 
 | Year | Paper Type | Status |
 | :--- | :--- | :--- |
-| **SNAP 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
-| **SNAP 2024** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
-| **SNAP 2023** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
-| **SNAP 2022** | Memory-Based Solved Paper | [Download Now](/previous-year-papers) |
+| **SNAP 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers/) |
+| **SNAP 2024** | Memory-Based Solved Paper | [Download Now](/previous-year-papers/) |
+| **SNAP 2023** | Memory-Based Solved Paper | [Download Now](/previous-year-papers/) |
+| **SNAP 2022** | Memory-Based Solved Paper | [Download Now](/previous-year-papers/) |
 
 ---
 
@@ -92,10 +92,10 @@ Get familiar with adaptive exam formats using official guide mock tests and past
 
 | Year | Paper Type | Status |
 | :--- | :--- | :--- |
-| **NMAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers) |
-| **NMAT 2024** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **NMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **NMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **NMAT 2025** | Expected Pattern & Official Mock | [Download Now](/previous-year-papers/) |
+| **NMAT 2024** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **NMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **NMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers/) |
 
 ---
 
@@ -105,8 +105,8 @@ CMAT requires high speed and accuracy, check out past papers:
 
 | Year | Paper Type | Status |
 | :--- | :--- | :--- |
-| **CMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers) |
-| **CMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers) |
+| **CMAT 2023** | Official Question Paper | [Download Now](/previous-year-papers/) |
+| **CMAT 2022** | Official Question Paper | [Download Now](/previous-year-papers/) |
 
 ---
 
@@ -116,7 +116,7 @@ Engineering and Medical aspirants can now access official papers for:
 -   **JEE Main:** All shifts from 2021 to 2024.
 -   **NEET UG:** Code-wise papers from 2021 to 2024.
 
-[👉 Visit our Previous Year Papers Hub to unlock all PDFs for free!](/previous-year-papers)
+[👉 Visit our Previous Year Papers Hub to unlock all PDFs for free!](/previous-year-papers/)
 
 ---
 
@@ -179,6 +179,6 @@ Get personalized 1-on-1 career counselling, GD-PI preparation tips, college shor
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

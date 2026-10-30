@@ -84,7 +84,7 @@ Before looking at the colleges, it's important to clarify how "Direct Admission"
 
 Here are some of the most reputable institutions where the total tuition fee for the 2-year MBA/PGDM program sits comfortably under the ₹5 Lakh mark.
 
-### 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida), Greater Noida
+### 1. [GNIOT [Institute of Management Studies](/colleges/ims-noida/) (GIMS)](/colleges/gniot-greater-noida/), Greater Noida
 - **Approximate Fees:** ₹4.0 Lakh - ₹5.0 Lakh
 - **Status:** AICTE Approved, PGDM.
 - **Why Choose It:** GNIOT has heavily upgraded its infrastructure and placement cell. It attracts companies from various sectors offering decent median packages for freshers.

@@ -101,7 +101,7 @@ Manav Rachna's online programs are optimized for the 2026 workforce:
 **Yes. All online programs from Manav Rachna University are **UGC-DEB approved** and recognized by the **Association of Indian Universities (AIU)**. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles.**
 
 ## Next Step in Your Career
-- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **Faridabad Hub:** Read about the [Top-10 Online MBAs in Haryana](/online-degree-certification/).
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry/)
 

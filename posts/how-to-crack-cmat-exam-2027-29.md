@@ -133,7 +133,7 @@ Yes. Since the difficulty level is moderate, you can easily crack CMAT by studyi
 ---
 
 ### Related Articles:
-*   [All About CMAT Exam 2026: Pattern, Innovation, Cutoff & Colleges]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+*   [All About CMAT Exam 2026: Pattern, Innovation, Cutoff & Colleges](/blog/10-tips-to-crack-cat-exam-2027-29/)
 *   [MAT & CMAT Admissions: Top Acceptable Colleges](/blog/mat-2026-cmat-2026-colleges-admission-guide/)
 *   [Top MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
 ---

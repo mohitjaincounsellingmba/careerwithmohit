@@ -91,7 +91,7 @@ Another reputed constituent college of Delhi University that offers a highly com
 - **Entrance Exam:** CUET UG
 - **Why it fits:** Exceptional ROI with Delhi University's central branding.
 
-### 6. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini) - Delhi
+### 6. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini/) - Delhi
 JIMS Rohini offers an industry-centric BBA curriculum under IP University with a robust alumni base.
 - **Total Program Fees (3 Years):** ~₹3.5 Lakhs
 - **Average Placement Package:** ₹4.5 LPA

@@ -71,10 +71,10 @@ In this 2027 admission review, senior educational advisor **Mohit Jain** deliver
 
 | College / Program | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- |
-| **[IMT Ghaziabad]((/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM Core/Mktg/BFS/Dual) | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90+ %ile) / GMAT |
-| **[IMS Ghaziabad (University Courses Campus / Lal Quan)]((/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM) | ₹9.50 Lakhs | ₹8.25 LPA | CAT / XAT / CMAT / MAT (65+ %ile) |
-| **[Jaipuria School of Business (JSB, Indirapuram)]((/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM) | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
-| **[ITS - School of Management (Mohan Nagar)](/colleges/i-t-s-school-of-management)** (PGDM/MBA) | ₹6.50 – ₹8.20 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
+| **[IMT Ghaziabad](/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM Core/Mktg/BFS/Dual) | ₹21.50 Lakhs | ₹18.90 LPA | CAT / XAT (90+ %ile) / GMAT |
+| **[IMS Ghaziabad (University Courses Campus / Lal Quan)](/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM) | ₹9.50 Lakhs | ₹8.25 LPA | CAT / XAT / CMAT / MAT (65+ %ile) |
+| **[Jaipuria School of Business (JSB, Indirapuram)](/blog/best-bba-colleges-ghaziabad-admission-guide-2026/)** (PGDM) | ₹8.75 Lakhs | ₹7.80 LPA | CAT / MAT / CMAT / XAT (60+ %ile) |
+| **[ITS - School of Management (Mohan Nagar)](/colleges/i-t-s-school-of-management/)** (PGDM/MBA) | ₹6.50 – ₹8.20 Lakhs | ₹6.80 LPA | MAT / CMAT / CUET-PG / Direct |
 | **[KIET School of Management (Muradnagar)](/colleges/mba-colleges-delhi-ncr/)** (MBA) | ₹3.50 Lakhs | ₹5.50 LPA | CUET-PG / UPTAC / Direct |
 | **[ABES Engineering College - Dept of Management](/colleges/mba-colleges-delhi-ncr/)** (MBA) | ₹3.20 Lakhs | ₹5.20 LPA | CUET-PG / Direct Merit |
 | **[RKGIT Ghaziabad - Management Studies](/colleges/mba-colleges-delhi-ncr/)** (MBA) | ₹2.90 Lakhs | ₹4.80 LPA | CUET-PG / Direct Merit |

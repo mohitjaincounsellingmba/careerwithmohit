@@ -90,7 +90,7 @@ MGCUB provides very accessible education:
 
 ### **Check Other Placement Guides:**
 *   [Central University of Haryana Review 2027–29](/blog/central-university-of-haryana-cuh-review-2027-29/)
-*   [BML Munjal University Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [BML Munjal University Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 [👉 Get Admission Consultation for MGCUB!](/inquiry/)
 

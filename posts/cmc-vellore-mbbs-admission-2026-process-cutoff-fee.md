@@ -109,7 +109,7 @@ Admission to CMC Vellore is strictly merit-based, determined by the **NEET UG 20
 | **Minority / Management Quota** | Score 580 - 635 (Rank 12,000 - 35,000) |
 | **NRI Quota Seats** | Qualified NEET Score (130+) | Top Percentile Candidates |
 
-To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/) for rank prediction strategies.
+To secure your seat, candidates are advised to keep a safe margin above these estimated cutoffs, as competition for top medical seats increases each year. Check our detailed [NEET UG 2026 Exam & Counselling Guide](/blog/10-tips-to-crack-cat-exam-2027-29/) for rank prediction strategies.
 
 ---
 

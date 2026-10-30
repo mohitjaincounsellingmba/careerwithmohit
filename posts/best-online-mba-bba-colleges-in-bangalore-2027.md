@@ -107,7 +107,7 @@ Graduates holding online degrees from Bangalore universities transition into hig
 3. **Select Payment Plan**: Choose between full annual fee payment or monthly zero-cost EMI plans.
 
 For free 1-on-1 counseling:
-* Explore the [Bangalore Online Degree Hub](https://careerwithmohit.online/online-degree-certification/online-degree-bangalore)
+* Explore the [Bangalore Online Degree Hub](https://careerwithmohit.online/online-degree-certification/online-degree-bangalore/)
 * Contact Chief Counsellor Mohit Jain at **+91 95600 20771** or via [WhatsApp Guidance](https://wa.me/919560020771?text=Hi%2C%20I%20need%20help%20choosing%20an%20online%20degree%20in%20Bangalore).
 
 ---

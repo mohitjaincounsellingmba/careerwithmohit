@@ -162,8 +162,8 @@ Make an informed decision by comparing fee structures, placement reports, and ad
 *   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
 *   [Explore & Compare 200+ Top Colleges in India](/colleges/)
-*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test)
-*   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026)
+*   [CAT 2026 Mock Test & Expected Percentile Calculator](/cat-mock-test/)
+*   [Check Your Eligibility for Scholarships & Education Loans](/scholarships-2026/)
 
 [InquiryCard title="Get Direct Admission Counseling for SIES College of Management Studies Navi Mumbai" subtitle="Verify your eligibility, check cutoff percentiles, and download official placement brochures instantly." ctaText="Apply Now / Check Eligibility"]
 

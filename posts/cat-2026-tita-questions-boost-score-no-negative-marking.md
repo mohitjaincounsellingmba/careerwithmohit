@@ -39,7 +39,7 @@ One of the most unique aspects of the Common Admission Test (CAT) is the inclusi
 
 The biggest advantage of TITA questions is simple yet powerful: **they carry zero negative marking**. While a wrong MCQ answer deducts 1 mark, a wrong TITA answer results in 0 marks deducted.
 
-In this guide, we will analyze the role of TITA questions in the [CAT exam 2026]((/blog/10-tips-to-crack-cat-exam-2027-29/), highlight historical patterns, and discuss strategies to exploit this feature to boost your overall percentile.
+In this guide, we will analyze the role of TITA questions in the [CAT exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/), highlight historical patterns, and discuss strategies to exploit this feature to boost your overall percentile.
 
 ---
 

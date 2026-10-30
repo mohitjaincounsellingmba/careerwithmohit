@@ -313,7 +313,7 @@ NDIM maintains an enviable **100% placement track record** with marquee corporat
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **[NDIM New Delhi](/colleges/ndim-delhi/)** | **₹14.00 Lakhs** | **₹10.00 LPA** | **CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalence · ₹2.5 Cr Scholarships** |
-| **[FOSTIIMA Business School]((/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni |
+| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · Founded by [IIM Ahmedabad](/colleges/iim-ahmedabad/) Alumni |
 | **[Jaipuria Institute of Management (Noida)](/colleges/jaipuria-noida/)** | ₹14.75 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · NAAC A+ |
 | **[FIIB South Delhi](/colleges/fiib-delhi/)** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA Accredited |
 | **[JIMS Kalkaji New Delhi](/colleges/jims-kalkaji/)** | ₹9.75 Lakhs | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · NBA Accredited, AIU Equivalence |
@@ -364,7 +364,7 @@ Yes, students appearing in the final year/semester of their Bachelor's degree ex
 *Explore related MBA/PGDM 2027–29 guides:*
 - [Top 44 MBA & PGDM Colleges in India 2027-29 Master Comparison](/blog/top-44-mba-pgdm-colleges-2027-29-fees-placements-approvals/)
 - [Management Education & Research Institute (MERI) Delhi MBA/PGDM 2027-29 Guide](/blog/meri-delhi-mba-pgdm-admission-2027-29/)
-- [JIMS Kalkaji PGDM Admission 2027-29 Guide](/colleges/jims-kalkaji)
+- [JIMS Kalkaji PGDM Admission 2027-29 Guide](/colleges/jims-kalkaji/)
 - [FIIB South Delhi PGDM Admission 2027-29 Guide](/blog/fiib-delhi-pgdm-admission-2027-29/)
 - [Top PGDM Colleges in Delhi NCR 2027](/blog/top-pgdm-colleges-delhi-ncr-2027/)
 

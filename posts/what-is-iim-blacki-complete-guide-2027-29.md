@@ -70,7 +70,7 @@ category: Exams
 
 Every MBA aspirant in India dreams of stepping into the hallowed halls of an Indian Institute of Management. But within the IIM ecosystem itself, one acronym stands above all others as the absolute **holy grail of Indian management education**: **IIM "BLACKI"**.
 
-If you are preparing for the [CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) and aiming for the 2027–29 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
+If you are preparing for the [CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/) and aiming for the 2027–29 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
 
 ---
 
@@ -191,10 +191,10 @@ To make an informed choice across the entire IIM hierarchy, explore our detailed
 
 ## Recommended Reads for MBA Aspirants
 
-*   [All About CAT Exam 2026 — Complete Syllabus & Strategy Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+*   [All About CAT Exam 2026 — Complete Syllabus & Strategy Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)
 *   [MBA vs PGDM — Key Differences & Which is Better?](/blog/mba-vs-pgdm-difference/)
 *   [GD/PI Interview Topics & Solutions for Top MBA Colleges](/blog/gdpi-interview-topics-solutions-mba/)
-*   [All About GMAT Exam — Eligibility, Curriculum & Top Colleges]((/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [All About GMAT Exam — Eligibility, Curriculum & Top Colleges](/blog/1-year-online-mba-colleges-india-2027-29/)
 
 ---
 

@@ -199,11 +199,11 @@ export function EducationFinder() {
         router.push(`/colleges${queryString ? `?${queryString}` : ""}`);
       }
     } else if (activeTab === "online") {
-      router.push("/online-degree-certification");
+      router.push("/online-degree-certification/");
     } else if (activeTab === "mocks") {
-      router.push("/mock-tests");
+      router.push("/mock-tests/");
     } else if (activeTab === "calculators") {
-      router.push("/tools/cat-score-calculator");
+      router.push("/tools/cat-score-calculator/");
     }
   };
 
@@ -592,16 +592,16 @@ export function EducationFinder() {
 
             <div className="flex flex-wrap items-center gap-2 text-xs">
               <span className="text-slate-400 font-bold">Exam Engines:</span>
-              <Link href="/cat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+              <Link href="/cat-mock-test/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
                 🎯 CAT Mock
               </Link>
-              <Link href="/xat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+              <Link href="/xat-mock-test/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
                 ⚡ XAT Mock
               </Link>
-              <Link href="/nmat-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+              <Link href="/nmat-mock-test/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
                 📈 NMAT Practice
               </Link>
-              <Link href="/snap-mock-test" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
+              <Link href="/snap-mock-test/" className="px-3 py-1 rounded-xl bg-white/10 hover:bg-white/20 text-rose-200 border border-white/10 font-semibold">
                 ⏱️ SNAP Speed Test
               </Link>
             </div>

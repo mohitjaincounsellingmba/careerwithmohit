@@ -82,7 +82,7 @@ Below is a detailed side-by-side comparison of the top-performing MAT-accepting 
 *   **Why it wins**: While BIMTECH's flagship PGDM accepts CAT/XAT, their specialized programs in **Retail Management (RM)** and **Insurance Business Management (IBM)** accept MAT scores. These programs enjoy the same centralized placement drive, bringing in a robust **average package of ₹11.10 LPA**.
 *   **Best For**: Insurance and Retail sectors.
 
-### 2. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi/))](/colleges/ndim-delhi)
+### 2. [NDIM Delhi ([New Delhi Institute of Management](/colleges/ndim-delhi/))](/colleges/ndim-delhi/)
 *   **Why it wins**: NDIM is renowned for its excellent industry linkages and corporate exposure. The campus offers an **average package of ₹9.50 LPA** with a 100% placement track record since inception.
 *   **Best For**: Marketing and Finance.
 
@@ -99,7 +99,7 @@ Below is a detailed side-by-side comparison of the top-performing MAT-accepting 
 *   **Why it wins**: Situated in Bangalore's Electronic City, XIME offers incredible corporate exposure. It boasts a **₹10.00 LPA average package** and maintains a 100% placement rate for its PGDM program.
 *   **Best For**: Business Analytics and HR.
 
-> **Note**: If you want to check your chances of getting into these colleges with your current score, read our detail-packed guides on [all about MAT exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) and how to navigate [direct MBA admission in India](/blog/direct-mba-admission-india/).
+> **Note**: If you want to check your chances of getting into these colleges with your current score, read our detail-packed guides on [all about MAT exam](/blog/10-tips-to-crack-cat-exam-2027-29/) and how to navigate [direct MBA admission in India](/blog/direct-mba-admission-india/).
 
 ---
 

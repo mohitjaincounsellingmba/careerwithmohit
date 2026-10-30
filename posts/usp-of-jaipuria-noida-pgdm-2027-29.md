@@ -193,8 +193,8 @@ Yes — placing it in the top 6% of B-schools globally.
 
 ---
 
-[👉 Apply to [Jaipuria Noida](/colleges/jaipuria-noida/) — Get Free Guidance](/inquiry)  
-[👉 Read: [Jaipuria Noida](/colleges/jaipuria-noida/) Placement Review 2027–29]((/blog/jaipuria-noida-placement-review-2027-29/)  
+[👉 Apply to [Jaipuria Noida](/colleges/jaipuria-noida/) — Get Free Guidance](/inquiry/)  
+[👉 Read: [Jaipuria Noida](/colleges/jaipuria-noida/) Placement Review 2027–29](/blog/jaipuria-noida-placement-review-2027-29/)  
 [👉 Top MBA Colleges in Noida & Ghaziabad 2027–29](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/)
 
 ---

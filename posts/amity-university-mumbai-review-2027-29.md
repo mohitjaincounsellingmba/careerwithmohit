@@ -166,8 +166,8 @@ Admissions for 2026 at [Amity University](/colleges/amity-noida/), Mumbai are co
 
 ## 🔗 Related Resources & Internal Links
 
-- [CAT 2026 Complete Exam Guide & Preparation Strategy]((/blog/10-tips-to-crack-cat-exam-2027-29/)
-- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs]((/blog/1-year-online-mba-colleges-india-2027-29/)
+- [CAT 2026 Complete Exam Guide & Preparation Strategy](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [Top MBA & PGDM Colleges in India 2027–29: Placements, Fees & Cutoffs](/blog/1-year-online-mba-colleges-india-2027-29/)
 - [Direct Admission in BBA & MBA 2027–29 (Management Quota Guide)](/blog/direct-bba-admission-2026-management-quota/)
 - [Compare B.Tech vs BCA: Career & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 

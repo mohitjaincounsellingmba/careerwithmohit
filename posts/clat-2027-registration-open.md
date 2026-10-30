@@ -123,7 +123,7 @@ After successful payment, your CLAT 2027 registration is complete. Download the 
 ---
 
 ## 🔗 Related Resources
-- [All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About CLAT Exam 2026: Pattern, Eligibility, Top NLUs & Preparation](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [5-Year LLB vs 3-Year LLB: Which is Better for Your Career?](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
 - [AILET 2026: NLU Delhi Admission Guide](/blog/ailet-2026-nlu-delhi-admission-guide/)
 

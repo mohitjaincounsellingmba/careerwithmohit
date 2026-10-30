@@ -174,7 +174,7 @@ Maharashtra's premier government engineering college known for producing excelle
 GATE (Graduate Aptitude Test in Engineering) is the gateway to government PSU jobs worth ₹9–14 LPA for Mechanical graduates. Key PSUs recruiting via GATE ME:
 
 - BHEL | NTPC | GAIL | ONGC | SAIL | Coal India | IOCL | PowerGrid
-- [Read: All About GATE Exam — Eligibility, Syllabus, Strategy]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [Read: All About GATE Exam — Eligibility, Syllabus, Strategy](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
@@ -199,7 +199,7 @@ Fresh B.Tech ME graduates earn ₹4–8 LPA in private sector. Government PSU (v
 
 ## Useful Resources
 
-- [All About GATE Exam — PSU Jobs & M.Tech Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About GATE Exam — PSU Jobs & M.Tech Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [JoSAA Counselling 2026 Complete Guide](/blog/josaa-counselling-2026-dates-process-registration/)
 - [Top B.Tech Colleges in India — NIRF Ranking 2026](/blog/top-btech-colleges-india-nirf-ranking-2026/)
 - [B.Tech Specializations, Skills & Salary Guide 2026](/blog/btech-specializations-skills-salary-2026-guide/)

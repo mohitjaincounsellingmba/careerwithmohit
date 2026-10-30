@@ -91,7 +91,7 @@ NCU is highly regarded for its technical and management departments in Gurugram.
 
 ### **Helpful Resources for CUET PG Aspirants:**
 - [Top MBA Colleges in Gurgaon](/blog/top-btech-colleges-gurgaon-2026/)
-- [All about JKBS Gurgaon](/colleges/jkbs-gurgaon)
+- [All about JKBS Gurgaon](/colleges/jkbs-gurgaon/)
 - [CUET PG MBA Colleges List 2027–29](/blog/cuet-pg-mba-colleges-list-2027-29/)
 
 **Confused between BML Munjal vs. Amity?**

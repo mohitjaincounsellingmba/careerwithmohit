@@ -109,7 +109,7 @@ The National Medical Commission (NMC) India enforces strict rules for foreign me
 ## 🔗 Related Resources
 
 * [MBBS Abroad 2026: Comprehensive Fees & Country Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
-* [NEET UG 2026 Exam & Counselling Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [NEET UG 2026 Exam & Counselling Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [Top MBBS Colleges in India NIRF Ranking](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
 ---
 

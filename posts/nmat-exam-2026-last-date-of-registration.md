@@ -82,7 +82,7 @@ Unlike single-day tests like CAT or XAT, NMAT provides a 75-day testing window w
 
 > 🎯 **Aiming for 235+ in NMAT 2026?**
 >
-> [👉 Practice Free MBA Mock Tests Now](/mock-tests/) | [Read All About NMAT Exam Pattern & Syllabus]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+> [👉 Practice Free MBA Mock Tests Now](/mock-tests/) | [Read All About NMAT Exam Pattern & Syllabus](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 
@@ -204,10 +204,10 @@ Yes, you can reschedule your exam date or test centre up to 72 hours prior to yo
 ---
 
 ### Related Articles & Useful Resources
-* [All About NMAT Exam: Pattern, Syllabus & NMIMS Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About NMIMS Campuses: Fees, Cutoffs & Placement Reports]((/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)
+* [All About NMAT Exam: Pattern, Syllabus & NMIMS Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About NMIMS Campuses: Fees, Cutoffs & Placement Reports](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)
 * [CAT Exam 2026 Last Date of Registration & Timeline](/blog/cat-exam-2026-last-date-of-registration/)
-* [Top MBA Entrance Exams 2027–29 Comprehensive Guide]((/blog/1-year-online-mba-colleges-india-2027-29/)
+* [Top MBA Entrance Exams 2027–29 Comprehensive Guide](/blog/1-year-online-mba-colleges-india-2027-29/)
 * [Free MBA Preparation & Counselling Consultation](/inquiry/)
 
 ---

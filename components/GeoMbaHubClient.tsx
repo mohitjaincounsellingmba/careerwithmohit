@@ -903,7 +903,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                 </h3>
                 <div className="flex flex-wrap gap-2.5">
                   <Link
-                    href="/posts/ndim-delhi-vs-fostiima-business-school-comparison-2027-29"
+                    href="/blog/ndim-delhi-vs-fostiima-business-school-comparison-2027-29/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />
@@ -911,7 +911,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                   </Link>
 
                   <Link
-                    href="/posts/ndim-delhi-pgdm-mba-2027-29-fee-admission-process"
+                    href="/blog/ndim-delhi-pgdm-mba-2027-29-fee-admission-process/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />
@@ -919,7 +919,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                   </Link>
 
                   <Link
-                    href="/posts/low-fees-mba-colleges-delhi-ncr-2027-29"
+                    href="/blog/low-fees-mba-colleges-delhi-ncr-2027-29/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />
@@ -927,7 +927,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                   </Link>
 
                   <Link
-                    href="/posts/top-mba-colleges-in-noida-2027"
+                    href="/blog/top-mba-colleges-in-noida-2027/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />
@@ -935,7 +935,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                   </Link>
 
                   <Link
-                    href="/posts/direct-mba-admission-delhi-ncr-2027-29"
+                    href="/blog/direct-mba-admission-delhi-ncr-2027-29/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />

@@ -88,7 +88,7 @@ category: B.Tech
 **Pro Tip for COMEDK 2026**:
 Bangalore is the "Silicon Valley" of India. If your rank is good, prioritize colleges in Bangalore (RVCE, MSRIT, BMSCE) as they offer significantly better exposure and high-tech internships compared to remote colleges.
 
-[👉 Check Top COMEDK Bangalore Colleges & Reviews Here!](/colleges?location=Bangalore)
+[👉 Check Top COMEDK Bangalore Colleges & Reviews Here!](/colleges/?location=Bangalore)
 
 **Stuck with Choice Filling?**
 With 150+ colleges, one wrong click can move you to a lower-ranked institute. At **CareerWithMohit**, we provide a professional preference order list based on your COMEDK rank.

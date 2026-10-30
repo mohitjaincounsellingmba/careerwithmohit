@@ -213,7 +213,7 @@ Located in Kharghar, NMIMS Navi Mumbai provides a modern high-rise academic envi
 
 To help you decide whether NMIMS Navi Mumbai matches your budget and career aspirations, consider this side-by-side comparison with top peer business schools in Mumbai and other NMIMS campuses:
 
-| Parameter | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [SIES Navi Mumbai]((/blog/sies-navi-mumbai-review-2027-29/) |
+| Parameter | [NMIMS Navi Mumbai](/blog/nmims-navi-mumbai-mba-review-2027-fees-placements-cutoff/) | [NMIMS Hyderabad](/blog/nmims-hyderabad-mba-review-2027-fees-placements-cutoff/) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [SIES Navi Mumbai](/blog/sies-navi-mumbai-review-2027-29/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Campus Location** | Kharghar, Navi Mumbai | Jadcherla, Hyderabad | Vidyavihar, Mumbai | Nerul, Navi Mumbai |
 | **Total Program Fee** | **₹21.00 Lakhs** | ₹21.00 Lakhs | ₹20.87 Lakhs | ₹11.00 Lakhs |
@@ -266,6 +266,6 @@ Yes. NMIMS Navi Mumbai coordinates modern, fully air-conditioned student residen
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

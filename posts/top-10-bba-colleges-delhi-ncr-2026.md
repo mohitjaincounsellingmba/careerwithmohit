@@ -126,7 +126,7 @@ Galgotias is popular for its dynamic campus environment, modern pedagogy, and st
 - **Highest Package:** ₹8.2 LPA
 - **Key Advantage:** Strong placement drive with over 500 recruiters visiting campus annually.
 
-### 9. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini)
+### 9. [Jagan [Institute of Management Studies](/colleges/ims-noida/) (JIMS), Rohini](/colleges/jims-rohini/)
 JIMS Rohini is a well-established GGSIPU institute known for its industry-aligned BBA program and focused placement preparation.
 - **Approximate Annual Fees:** ₹1.2 Lakhs
 - **Entrance Exam:** IPU CET

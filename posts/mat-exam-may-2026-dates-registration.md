@@ -103,10 +103,10 @@ Some of the most prominent colleges you can apply to using your MAT May 2026 sco
 - **[BIMTECH Greater Noida](/blog/bimtech-greater-noida-placement-review-2025/)**
 - **[XIME Bangalore](/colleges/xime-bangalore/), Chennai, Kochi**
 - **Christ University, Bengaluru**
-- **[Jaipuria Institute of Management (Lucknow, Noida, Jaipur, Indore)]((/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/)**
-- **[JIMS Rohini, Delhi](/colleges/jims-rohini)**
-- **[NDIM New Delhi](/colleges/ndim-delhi)**
-- **[Lexicon MILE, Pune]((/blog/1-year-online-mba-colleges-india-2027-29/)**
+- **[Jaipuria Institute of Management (Lucknow, Noida, Jaipur, Indore)](/blog/jaipuria-institute-of-management-jaipur-executive-mba-review/)**
+- **[JIMS Rohini, Delhi](/colleges/jims-rohini/)**
+- **[NDIM New Delhi](/colleges/ndim-delhi/)**
+- **[Lexicon MILE, Pune](/blog/1-year-online-mba-colleges-india-2027-29/)**
 
 *Wondering exactly which college accepts your projected percentile? Try our free **[MAT College Predictor 2026](/tools/mat-college-predictor/)** to get a personalized list instantly.*
 
@@ -117,7 +117,7 @@ Some of the most prominent colleges you can apply to using your MAT May 2026 sco
 3. **Double Registration Strategy:** AIMA allows candidates to opt for double testing (e.g., CBT + IBT or PBT + IBT) at a slightly higher consolidated fee compared to a single test. This gives you two distinct chances to maximize your scorecard.
 4. **Avoid the GK Trap:** Focus your preparation highly on Quant and Language. Few colleges value the "Indian & Global Environment" section during final selection. 
 
-Are you looking strictly for high ROI colleges independent of exam scores? Understand your possibilities with our review of the **[Low Fees High Placement MBA Colleges in 2027–29](/blog/low-fees-high-placement-mba-colleges-2027-29/)** or navigate directly into the overarching **[All About MAT Exam Guide]((/blog/10-tips-to-crack-cat-exam-2027-29/)**.
+Are you looking strictly for high ROI colleges independent of exam scores? Understand your possibilities with our review of the **[Low Fees High Placement MBA Colleges in 2027–29](/blog/low-fees-high-placement-mba-colleges-2027-29/)** or navigate directly into the overarching **[All About MAT Exam Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)**.
 
 ---
 

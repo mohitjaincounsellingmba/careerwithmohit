@@ -74,11 +74,11 @@ category: Jobs & Careers
 *   **Un-campus Approach**: Frequent national guest lectures and corporate tie-ups ensure students are current with global industry shifts.
 
 ### **More College Placement Reviews:**
-*   [NDIM Delhi Placement Review 2027–29]((/blog/1-year-online-mba-colleges-india-2027-29/)
-*   [SOIL Gurgaon Placement Review 2027–29](/colleges/soil-gurgaon)
+*   [NDIM Delhi Placement Review 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
+*   [SOIL Gurgaon Placement Review 2027–29](/colleges/soil-gurgaon/)
 *   [BIMTECH Placement Review 2024-2025](/blog/bimtech-greater-noida-placement-review-2025/)
 
-[👉 Need Admission Help for [Jaipuria Noida](/colleges/jaipuria-noida/)? Click Here!](/inquiry)
+[👉 Need Admission Help for [Jaipuria Noida](/colleges/jaipuria-noida/)? Click Here!](/inquiry/)
 
 ---
 

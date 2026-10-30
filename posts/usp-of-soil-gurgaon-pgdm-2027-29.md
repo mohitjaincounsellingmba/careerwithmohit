@@ -244,7 +244,7 @@ PGDM: ₹14.5–17.5 Lakhs | PGPM: ₹15.33 Lakhs | PGPM-HR: ₹13.33–14.5 Lak
 ---
 
 [👉 Apply to SOIL Gurgaon — Get Free Guidance](/inquiry/)  
-[👉 Read: SOIL Gurgaon Placement Review 2027–29](/colleges/soil-gurgaon)  
+[👉 Read: SOIL Gurgaon Placement Review 2027–29](/colleges/soil-gurgaon/)  
 [👉 Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
 
 ---

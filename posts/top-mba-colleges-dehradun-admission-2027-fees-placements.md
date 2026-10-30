@@ -73,13 +73,13 @@ located in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 
 ### 1. [Doon Business School](/colleges/doon-business-school/) (DBS), Selaqui Dehradun
 * **Accreditation:** AICTE approved PGDM and UGC recognized MBA programs.
-* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/colleges/doon-business-school).
+* **Certifications:** Integrated with SAP, Bloomberg, Global Immersion in Singapore/Dubai, and Data Analytics. Read [All About Doon Business School](/colleges/doon-business-school/).
 
 ### 2. UPES School of Business, Dehradun
 * **Highlights:** Renowned for specialized MBAs in Oil & Gas, Energy Trading, Aviation Management, Logistics & Supply Chain, and Digital Business. Top recruiters include Schlumberger, Shell, L&T, and Reliance.
 
 ### 3. Graphic Era University (GEU), Dehradun
-* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/colleges/graphic-era-dehradun).
+* **Highlights:** NAAC A+ accredited deemed university with strong placement records in BFSI and IT consulting. Check [All About Graphic Era Dehradun](/colleges/graphic-era-dehradun/).
 
 ---
 
@@ -93,9 +93,9 @@ located in the foothills of the Himalayas, **Dehradun** has emerged as one of No
 ---
 
 ## Related Reads
-- [All About Doon Business School](/colleges/doon-business-school)
-- [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
-- [All About XAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About Doon Business School](/colleges/doon-business-school/)
+- [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 ---
 

@@ -77,7 +77,7 @@ faqs:
 ## 🔗 Related Posts
 
 * [MBBS Abroad 2026 Rules & Comparison](/blog/mbbs-abroad-for-indian-students-2026-fees-nmc-rules/)
-* [NEET UG Official Updates]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [NEET UG Official Updates](/blog/10-tips-to-crack-cat-exam-2027-29/)
 ---
 
 ### 🚀 Boost Your Preparation

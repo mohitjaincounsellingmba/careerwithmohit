@@ -104,16 +104,16 @@ Joining a CAT 2026 exam preparation WhatsApp group can give you the edge you nee
 ---
 
 *Related Articles:*
-- [Best MBA Colleges in India 2026]((/blog/best-mba-colleges-india-2026/)
-- [Executive MBA for Working Professionals 2026]((/blog/executive-mba-for-working-professionals-2026/)
-- [How to Prepare for CAT 2026 While Working]((/blog/underrated-mba-colleges-india-2026/)
+- [Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026/)
+- [Executive MBA for Working Professionals 2026](/blog/executive-mba-for-working-professionals-2026/)
+- [How to Prepare for CAT 2026 While Working](/blog/underrated-mba-colleges-india-2027-29/)
 
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -130,6 +130,6 @@ Source: Shiksha.com
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

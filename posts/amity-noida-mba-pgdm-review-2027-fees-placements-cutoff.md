@@ -160,7 +160,7 @@ Admission to Amity Business School evaluates standardized exam performance along
 2. **Video Assessment & Extempore**: Complete recorded video responses to situational management prompts.
 3. **Personal Interview (PI)**: Face-to-face or virtual interview with faculty evaluating career motivation, leadership initiatives, and business awareness.
 
-Check closing percentiles across institutions using our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/) and review our comprehensive [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check closing percentiles across institutions using our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/) and review our comprehensive [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 
@@ -209,6 +209,6 @@ Students complete a mandatory 8-week corporate summer internship between semeste
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

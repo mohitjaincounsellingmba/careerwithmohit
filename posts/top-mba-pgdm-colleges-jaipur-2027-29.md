@@ -77,7 +77,7 @@ For aspirants planning **MBA/PGDM admission for 2027-29**, Jaipur B-schools offe
 
 ### 1. [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/), Jaipur
 * **Highlights**: Located in Bambala Institutional Area, Pratap Nagar. NBA accredited, AIU recognized as MBA equivalent.
-* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur]((/blog/amity-university-jaipur-executive-mba-review/).
+* **Placement Record**: Average package ₹11.34 LPA with 300+ recruiters. Check [All About Jaipuria Jaipur](/blog/amity-university-jaipur-executive-mba-review/).
 
 ### 2. [IIHMR University](/colleges/iihmr-university/), Jaipur
 * **Pioneer Status**: World-renowned institution dedicated to Health Management, Hospital Administration, and Pharmaceutical Management.

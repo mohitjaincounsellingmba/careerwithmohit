@@ -8776,5 +8776,26 @@
     "date": "2026-05-28",
     "locked": true,
     "lastVerified": "2026-10-28"
+  },
+  "hiring-business-development-executive-saas-rannkly": {
+    "slug": "hiring-business-development-executive-saas-rannkly",
+    "title": "Hiring: Business Development Executive (SaaS) at Rannkly - Noida, UP",
+    "date": "2026-03-22",
+    "locked": true,
+    "lastVerified": "2026-10-31"
+  },
+  "hiring-data-scientist-sr-ml-engineer-ithena-technologies": {
+    "slug": "hiring-data-scientist-sr-ml-engineer-ithena-technologies",
+    "title": "Hiring: Data Scientist / Sr. ML Engineer at Ithena Technologies - Pune, MH",
+    "date": "2026-03-22",
+    "locked": true,
+    "lastVerified": "2026-10-31"
+  },
+  "hiring-senior-analyst-data-scientist-b-informative-it-services": {
+    "slug": "hiring-senior-analyst-data-scientist-b-informative-it-services",
+    "title": "Hiring: Senior Analyst (Data Scientist) at B-Informative IT Services - Bengaluru, KA",
+    "date": "2026-03-22",
+    "locked": true,
+    "lastVerified": "2026-10-31"
   }
 }

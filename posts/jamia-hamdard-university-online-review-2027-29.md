@@ -63,7 +63,7 @@ As we move into the 2026-27 academy session, [Jamia Hamdard](/colleges/jamia-ham
 | **Starting Fee** | Approx. ₹25,000 - ₹50,000 per semester |
 | **Key Advantage** | Delhi-Based Heritage + Strongest Value in the Capital |
 
-👉 **[Launch Your Admission Journey at [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University Online](/inquiry)**
+👉 **[Launch Your Admission Journey at [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University Online](/inquiry/)**
 
 
 
@@ -100,12 +100,12 @@ As we move into the 2026-27 academy session, [Jamia Hamdard](/colleges/jamia-ham
 **Yes. All online programs from [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) University are **UGC-DEB approved** and recognized by the **Association of Indian Universities (AIU)**. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles.**
 
 ## Next Step in Your Career
-- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **Delhi Hub:** Read about the [Top-5 Online MBAs in Delhi NCR](/online-degree-certification/).
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry/)
 
 ---
-[👉 Looking for scholarship info or current enrollment deadlines for [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) Online? Talk to our expert counselors today!](/inquiry)
+[👉 Looking for scholarship info or current enrollment deadlines for [Jamia Hamdard](/colleges/jamia-hamdard-delhi/) Online? Talk to our expert counselors today!](/inquiry/)
 
 ---
 

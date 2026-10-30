@@ -227,7 +227,7 @@ To secure a seat in the 2027–2029 PGDM batch at Welingkar Mumbai, follow this 
 
 ## 8. Comparative Analysis: Welingkar Mumbai vs Peer Business Schools
 
-| Parameter | [Welingkar Mumbai](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/) | [SIES Navi Mumbai]((/blog/sies-navi-mumbai-review-2027-29/) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
+| Parameter | [Welingkar Mumbai](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/) | [SIES Navi Mumbai](/blog/sies-navi-mumbai-review-2027-29/) | [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) | [BIMTECH Greater Noida](/colleges/bimtech-greater-noida/) |
 | :--- | :--- | :--- | :--- | :--- |
 | **NIRF Rank** | **#65** | — | #63 | #64 |
 | **Total Program Fee** | **₹14.00 Lakhs** | ₹11.00 Lakhs | ₹21.00 Lakhs | ₹14.50 Lakhs |
@@ -265,6 +265,6 @@ No. Direct admission, management quota, or donation seats do not exist for the A
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

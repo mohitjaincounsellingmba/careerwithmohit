@@ -123,7 +123,7 @@ If you decide to take the plunge, don't just stay at home with books. Follow the
 
 Is a gap year for MBA a good choice? **Yes, provided it is a "productive" gap.** A year spent only on entrance exams is a risk, but a year spent on exam prep + skill building + profile enhancement is an investment that can land you in a top-rank [MBA college with great ROI](/blog/direct-mba-admission-india/).
 
-Before you decide, make sure you understand the [All About CAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/) and other competitive options like [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/) or [NMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+Before you decide, make sure you understand the [All About CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/) and other competitive options like [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29/) or [NMAT](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 **Still confused?** Use our [Career Roadmap Calculator](/blog/career-roadmaps-2027-29/) to see where you stand!
 

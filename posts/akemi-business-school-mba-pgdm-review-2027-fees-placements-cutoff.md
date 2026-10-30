@@ -66,7 +66,7 @@ state: Maharashtra
 
 When planning an MBA in Maharashtra's educational hub—Pune—students often struggle between high-fee private universities (charging ₹12 to ₹18 Lakhs) and affordable university-affiliated colleges that offer genuine corporate recruitment links.
 
-Located in the strategic educational zone of **Tathawade (near Hinjewadi IT Park, Pune)**, **[Akemi Business School](/colleges/akemi-business-school)** has emerged as a high-ROI destination for the **2027–2029 academic intake**.
+Located in the strategic educational zone of **Tathawade (near Hinjewadi IT Park, Pune)**, **[Akemi Business School](/colleges/akemi-business-school/)** has emerged as a high-ROI destination for the **2027–2029 academic intake**.
 
 In this detailed review, Senior Higher Education Consultant **Mohit Jain** delivers a verified, reality-checked analysis of tuition fees, median placements, recruiter presence, cutoff criteria, and peer comparisons.
 
@@ -221,6 +221,6 @@ Yes, candidates with a minimum of 50% marks in graduation (45% for reserved Maha
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

@@ -62,7 +62,7 @@ category: Exams
 ### **Fee Structure:**
 With a total two-year fee ranging from **₹5.5 Lakhs to ₹8.0 Lakhs**, FUEL is an excellent choice for students looking for high-quality instruction with a mission-driven approach.
 
-[👉 Explore scholarships at [FUEL Business School](/colleges/fuel-business-school/) Pune!](/inquiry)
+[👉 Explore scholarships at [FUEL Business School](/colleges/fuel-business-school/) Pune!](/inquiry/)
 
 ---
 

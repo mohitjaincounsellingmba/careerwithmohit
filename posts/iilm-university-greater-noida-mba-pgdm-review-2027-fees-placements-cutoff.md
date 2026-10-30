@@ -70,7 +70,7 @@ state: Delhi NCR
 
 Knowledge Park II in Greater Noida is an established hub for academic excellence and corporate placement drives in Delhi NCR.
 
-Spanning a lush **26-acre integrated residential campus**, **[IILM University Greater Noida]((/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** offers management aspirants a global curriculum, practical mentorship, and direct corporate recruitment pipelines for the **2027–2029 academic cycle**.
+Spanning a lush **26-acre integrated residential campus**, **[IILM University Greater Noida](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/)** offers management aspirants a global curriculum, practical mentorship, and direct corporate recruitment pipelines for the **2027–2029 academic cycle**.
 
 In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provides an honest, fact-checked breakdown of IILM Greater Noida's programs, fees, real median salary packages, cutoffs, and selection advice.
 
@@ -296,6 +296,6 @@ Candidates with consistent academic records and valid entrance test scores can a
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

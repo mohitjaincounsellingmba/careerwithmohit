@@ -101,7 +101,7 @@ As we move into the 2026-27 session, a degree from [Manipal University Jaipur](/
 **Yes. All online programs from [Manipal University Jaipur](/colleges/manipal-university-jaipur/) are **UGC-DEB approved** and hold the highest degree of academic and corporate credibility. They are fully valid for all government exams, higher education, and corporate roles in India and abroad.**
 
 ## Your Path Forward
-- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **Global Aspirations:** Read about [Top WES-Approved Online Degrees in India](/online-degree-certification/).
 - **Consultation:** Not sure which specialization fits your career profile? [Get free professional advice from Mohit Jain!](/inquiry/)
 

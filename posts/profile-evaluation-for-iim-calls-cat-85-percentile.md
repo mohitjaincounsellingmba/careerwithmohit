@@ -112,7 +112,7 @@ If you have scored or are targeting 85 percentile in CAT 2026, here is your targ
 | **[TAPMI Manipal](/colleges/tapmi-bangalore/)** | ₹18.5 Lakhs | ₹14.8 LPA | **Solid ROI**: AACSB accredited; strong finance and marketing placements |
 | **[LBSIM Delhi](/colleges/lbsim-delhi/)** | ₹15.5 Lakhs | ₹12.8 LPA | **Very High ROI**: Premier finance focus; cutoff around 83–86%ile |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | ₹14.5 Lakhs | ₹11.5 LPA | **Good ROI**: Strong insurance, retail & PGDM flagship tracks |
-| **[IIM Bodh Gaya / [IIM Jammu](/colleges/iim-jammu/) (CAP)](/colleges/iim-jammu)** | ₹17.5 Lakhs | ₹15.2 LPA | **IIM Brand ROI**: Reserved category & diverse profile calls at 80–85%ile |
+| **[IIM Bodh Gaya / [IIM Jammu](/colleges/iim-jammu/) (CAP)](/colleges/iim-jammu/)** | ₹17.5 Lakhs | ₹15.2 LPA | **IIM Brand ROI**: Reserved category & diverse profile calls at 80–85%ile |
 
 ---
 

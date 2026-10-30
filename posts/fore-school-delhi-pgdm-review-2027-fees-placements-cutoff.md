@@ -214,7 +214,7 @@ For details on legitimate admission channels and application guidance, read our 
 1. **Apply for Multiple Programs on One Form**: When completing the FORE application on `fsm.ac.in`, select multiple preferences (e.g., Core as Choice 1, FM as Choice 2, IB as Choice 3). If your CAT score settles around 83–84 percentile, you remain eligible for the specialized tracks.
 2. **Prepare for the Business Awareness Quiz (BAQ)**: FORE's selection round includes a written Business Awareness Quiz. Regularly read business dailies (Mint, Economic Times) and track macroeconomic policies (RBI repo rate shifts, Union Budget initiatives) to score high in this component.
 3. **Master Extempore Speaking**: You will receive an extempore topic during the PI round with just 30–60 seconds to prepare. Practice speaking coherently for 2 minutes on contemporary business themes.
-4. **Benchmark Your Percentile**: Use our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/) to evaluate your composite score against previous closing cutoffs.
+4. **Benchmark Your Percentile**: Use our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/) to evaluate your composite score against previous closing cutoffs.
 
 ---
 
@@ -239,6 +239,6 @@ Yes, students appearing for their final undergraduate semester examinations in m
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

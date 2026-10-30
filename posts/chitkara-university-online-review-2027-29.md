@@ -61,7 +61,7 @@ As we move into the 2026-27 academy session, [Chitkara University](/colleges/chi
 | **Starting Fee** | Approx. ₹40,000 - ₹60,000 per semester |
 | **Key Advantage** | High-Quality Innovation Ecosystem + Strongest Punjab Brand |
 
-👉 **[Launch Your Admission Journey at [Chitkara University](/colleges/chitkara-university/) Online](/inquiry)**
+👉 **[Launch Your Admission Journey at [Chitkara University](/colleges/chitkara-university/) Online](/inquiry/)**
 
 
 
@@ -98,7 +98,7 @@ Chitkara's online programs are optimized for the 2026 workforce:
 **Yes. All online programs from [Chitkara University](/colleges/chitkara-university/) are **UGC-DEB approved** and recognized by the **Association of Indian Universities (AIU)**. They are fully valid for all government exams, higher studies (India & Abroad), and corporate leadership roles.**
 
 ## Next Step in Your Career
-- **Compare:** Check [Amity Online 2026]((/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
+- **Compare:** Check [Amity Online 2026](/blog/1-year-online-mba-colleges-india-2027-29/) vs [LPU Online 2026](/blog/lpu-online-review-2027-29/).
 - **North India Hub:** Read about the [Top-5 Online MBAs in Punjab](/online-degree-certification/).
 - **Personalized Advice:** Not sure how to pivot your career? [Consult with Mohit Jain today!](/inquiry/)
 

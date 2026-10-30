@@ -155,7 +155,7 @@ Admission to DSB evaluates overall candidate profile, academic consistency, and 
 
 Candidates with strong undergraduate profiles (>65% aggregate) can apply directly for interview screening.
 
-Check your admission probability across institutions using our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check your admission probability across institutions using our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 
@@ -204,6 +204,6 @@ DSB offers dual specializations in Marketing Management, Financial Management, B
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

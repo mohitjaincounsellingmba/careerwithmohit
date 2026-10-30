@@ -101,7 +101,7 @@ The **Online MA** is a 2-year postgraduate degree with specializations in Englis
 
 ## How to Apply for Admissions
 
-1. Check program guidelines on our [Jamia Millia Islamia Online Directory Page](https://careerwithmohit.online/online-degree-certification/jamia-millia-islamia-online).
+1. Check program guidelines on our [Jamia Millia Islamia Online Directory Page](https://careerwithmohit.online/online-degree-certification/jamia-millia-islamia-online/).
 2. Connect with Counsellor Mohit Jain for admission notifications and application support.
 
 * **Call Chief Counsellor Mohit Jain**: [+91 95600 20771](tel:+919560020771)

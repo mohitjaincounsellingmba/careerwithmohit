@@ -104,9 +104,9 @@ Yes, the degree (PGDM) and all placement opportunities are identical for all stu
 ---
 
 ## 🔗 Related Resources
-- [All About Welingkar Mumbai/Bangalore]((/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/)
+- [All About Welingkar Mumbai/Bangalore](/blog/direct-admission-welingkar-mumbai-bangalore-2027-29/)
 - [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
-- [MAH MBA CET 2027–29 Review & Cutoffs]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [MAH MBA CET 2027–29 Review & Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)
 
 [👉 Secure your seat at Welingkar! Click for expert admission assistance.](/inquiry/)
 

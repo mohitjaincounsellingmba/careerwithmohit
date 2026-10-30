@@ -91,7 +91,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ## Detailed College Review by Region
 
 ### Mumbai Region NMAT Colleges
-* **[NMIMS Mumbai](/colleges/nmims-mumbai/):** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/colleges/nmims-mumbai).
+* **[NMIMS Mumbai](/colleges/nmims-mumbai/):** Premier management school famous for Marketing, Finance, and Analytics. Read [All About NMIMS Mumbai](/colleges/nmims-mumbai/).
 * **SDA Bocconi Asia Center:** European pedagogy with international faculty from Milan, Italy.
 * **K J Somaiya:** Excellent finance and data science placement tracks.
 
@@ -100,7 +100,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 * **JagSoM Bangalore:** AACSB accredited b-school delivering ₹13.30 LPA average packages. Check [All About JAGSoM Bangalore](/colleges/jagsom-bangalore/).
 
 ### Delhi NCR Region NMAT Colleges
-* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon]((/blog/soil-gurgaon-fee-structure-2027-29/).
+* **SOIL Gurgaon:** Situated in the heart of Gurgaon's corporate sector, renowned for its 1-year and 2-year leadership programs. Check [All About SOIL Gurgaon](/blog/soil-gurgaon-fee-structure-2027-29/).
 
 ---
 
@@ -114,7 +114,7 @@ For aspirants targeting **MBA admission 2027** and **PGDM admission 2027**, here
 ---
 
 ## Related Reads
-- [All About NMAT Exam]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+- [All About NMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [Top MBA Colleges in Mumbai Admission 2027](/blog/mumbai-mba-admission-2027-nmat-exam-xat-cat-colleges/)
 - [Top PGDM Colleges in Bangalore Admission 2027](/blog/bangalore-pgdm-admission-2027-nmat-exam-cat-2026-xat-colleges/)
 

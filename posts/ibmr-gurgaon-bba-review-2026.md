@@ -127,7 +127,7 @@ Admission to IBMR Gurgaon is straightforward and primarily merit-based:
 ## 🔗 Related Resources
 *   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
 *   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
-*   [All About IBMR Gurgaon](/colleges/ibmr-gurgaon)
+*   [All About IBMR Gurgaon](/colleges/ibmr-gurgaon/)
 
 ---
 

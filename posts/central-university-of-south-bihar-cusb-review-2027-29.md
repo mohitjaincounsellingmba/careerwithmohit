@@ -7,7 +7,7 @@ description: >-
   Comprehensive review of Central University of South Bihar (CUSB) for 2026.
   Check CUET cutoffs, placement records, fee structure, and hostel facilities.
 keywords:
-  - '[CUSB](/colleges/iim-bodh-gaya) admissions 2026'
+  - '[CUSB](/colleges/iim-bodh-gaya/) admissions 2026'
   - CUSB placements
   - CUSB CUET cutoff
   - Central University of South Bihar fees
@@ -35,7 +35,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-[Central University of South Bihar](/colleges/iim-bodh-gaya) (CUSB), situated in Gaya, has rapidly emerged as a center of academic excellence. With a strong focus on integrated programs and research, CUSB offers modern infrastructure and quality education.
+[Central University of South Bihar](/colleges/iim-bodh-gaya/) (CUSB), situated in Gaya, has rapidly emerged as a center of academic excellence. With a strong focus on integrated programs and research, CUSB offers modern infrastructure and quality education.
 
 ## What are the Key Admissions, Fees, and Placement Details for 📊 CUSB 2026 Overview: Fees, Placements & Cutoffs?
 

@@ -83,7 +83,7 @@ state: Maharashtra
 Complete 2026-2027 guide to CAT 2026-2027 admissions in Mumbai & Pune (Maharashtra). Discover top 2-Year PGDM / MBA colleges under ₹8 Lakhs - ₹15 Lakhs, realistic cutoffs & book free profile evaluation with Mohit Jain.
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Realistic Target Percentiles:** Aspirants scoring in the 65–85%ile bracket in CAT 2026-2027 have premier AICTE-approved PGDM and MBA options across Mumbai & Pune, including [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [NL Dalmia Mumbai]((/blog/1-year-online-mba-colleges-india-2027-29/), [ISB&M Pune](/colleges/international-school-of-business-media-pune), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [ITM Navi Mumbai](/colleges/itm-mumbai), [Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Pune](/colleges/iiebm-pune/), [Kirloskar Institute (KIM)](/colleges/kirloskar-institute-of-management-pune), and [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
+> - **Realistic Target Percentiles:** Aspirants scoring in the 65–85%ile bracket in CAT 2026-2027 have premier AICTE-approved PGDM and MBA options across Mumbai & Pune, including [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [NL Dalmia Mumbai](/blog/1-year-online-mba-colleges-india-2027-29/), [ISB&M Pune](/colleges/international-school-of-business-media-pune/), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [ITM Navi Mumbai](/colleges/itm-mumbai/), [Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Pune](/colleges/iiebm-pune/), [Kirloskar Institute (KIM)](/colleges/kirloskar-institute-of-management-pune/), and [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
 > - **Budget & ROI Sweet Spot:** Total 2-year course fees range comfortably between ₹7.50 Lakhs and ₹15.00 Lakhs (and even under ₹3 Lakhs for PUMBA), yielding solid average placement packages from ₹7.50 LPA to ₹15.22 LPA, delivering rapid capital recovery within 10 to 18 months.
 > - **Maharashtra Corporate Advantage:** Proximity to Mumbai’s financial headquarters (Bandra-Kurla Complex / Nariman Point) and Pune’s Hinjawadi IT & Automotive manufacturing clusters gives mid-percentile candidates direct exposure to 500+ Fortune recruiters through corporate live projects and winter/summer internships.
 
@@ -113,7 +113,7 @@ For these mid-percentile aspirants, **the Mumbai-Pune industrial belt (Maharasht
 ### Why Choose Mumbai & Pune for CAT 65-85 Percentile Aspirants?
 1. **Unrivalled Corporate Density:** Over 500+ BFSI institutions, consulting giants (Deloitte, PwC, EY, KPMG), FMCG leaders, and technology majors recruit continuously across Mumbai and Pune.
 2. **Balanced Fee & ROI Ratio (₹8 Lakhs – ₹15 Lakhs):** Compared to high-bracket programs charging ₹22–30 Lakhs, mid-percentile Maharashtra institutes offer industry-aligned 2-year programs between ₹7.5L and ₹15L with average packages touching ₹8.0 to ₹15.2 LPA.
-3. **Multi-Exam Flexibility:** Most AICTE-approved PGDM institutions in Pune and Mumbai accept scores from [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [XAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [ATMA]((/blog/10-tips-to-crack-cat-exam-2027-29/), and [MAH MBA CET]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+3. **Multi-Exam Flexibility:** Most AICTE-approved PGDM institutions in Pune and Mumbai accept scores from [CAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [XAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [ATMA](/blog/10-tips-to-crack-cat-exam-2027-29/), and [MAH MBA CET](/blog/10-tips-to-crack-cat-exam-2027-29/).
 4. **Experiential Industry Learning:** Mandatory 2-to-3 month summer internships, live corporate consulting assignments, and sector-focused capstone projects ensure graduates enter the corporate world job-ready.
 
 ---
@@ -124,9 +124,9 @@ To maximize your application investment and secure early round interview slots, 
 
 | Tier Classification | CAT Percentile Range | Target Business Schools in Mumbai & Pune (Maharashtra) | Primary Admission Parameters |
 | :--- | :--- | :--- | :--- |
-| **Tier-2 Premium** | **80 – 85+ %ile** | [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [NL Dalmia Mumbai]((/blog/1-year-online-mba-colleges-india-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [SIESCOMS Navi Mumbai](/colleges/suryadatta-institute-of-management-mass-communication) | High CAT / CMAT weightage (40-50%), stringent academic cutoffs (60%+ across 10th/12th/Grad), strict WAT-PI rigor |
-| **Tier-2 Core** | **70 – 80 %ile** | [ISB&M Pune](/colleges/international-school-of-business-media-pune), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [ITM Navi Mumbai](/colleges/itm-mumbai), [Sri Balaji University (BIMM/BITM/BIIB)](/colleges/asm-ibmr/), [Indira Institute (ISBS/IIMP)]((/blog/aissms-lexicon-management-institute-pune-review-2027-29/), [IES MCRC Mumbai](/colleges/lexicon-management-institute-of-leadership-excellence/) | Balanced Composite Score: CAT/XAT/CMAT (35%), GD-PI (35%), Academics & Work Experience (30%) |
-| **Tier-3 High ROI** | **65 – 70 %ile** | [Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Indus Business School](/colleges/iiebm-pune/), [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [Kirloskar Institute (KIM Pune)](/colleges/kirloskar-institute-of-management-pune), [Universal AI University Mumbai](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/), [Suryadatta (SIMMC)](/colleges/suryadatta-institute-of-management-mass-communication) | High focus on Extempore/Personal Interview, Communication readiness, Aptitude test versatility ([CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/)/[XAT]((/blog/10-tips-to-crack-cat-exam-2027-29/)/[MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/)/[CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/)/[ATMA]((/blog/10-tips-to-crack-cat-exam-2027-29/)) |
+| **Tier-2 Premium** | **80 – 85+ %ile** | [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [NL Dalmia Mumbai](/blog/1-year-online-mba-colleges-india-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [SIESCOMS Navi Mumbai](/colleges/suryadatta-institute-of-management-mass-communication/) | High CAT / CMAT weightage (40-50%), stringent academic cutoffs (60%+ across 10th/12th/Grad), strict WAT-PI rigor |
+| **Tier-2 Core** | **70 – 80 %ile** | [ISB&M Pune](/colleges/international-school-of-business-media-pune/), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [ITM Navi Mumbai](/colleges/itm-mumbai/), [Sri Balaji University (BIMM/BITM/BIIB)](/colleges/asm-ibmr/), [Indira Institute (ISBS/IIMP)](/blog/aissms-lexicon-management-institute-pune-review-2027-29/), [IES MCRC Mumbai](/colleges/lexicon-management-institute-of-leadership-excellence/) | Balanced Composite Score: CAT/XAT/CMAT (35%), GD-PI (35%), Academics & Work Experience (30%) |
+| **Tier-3 High ROI** | **65 – 70 %ile** | [Lexicon MILE Pune](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Indus Business School](/colleges/iiebm-pune/), [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [Kirloskar Institute (KIM Pune)](/colleges/kirloskar-institute-of-management-pune/), [Universal AI University Mumbai](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/), [Suryadatta (SIMMC)](/colleges/suryadatta-institute-of-management-mass-communication/) | High focus on Extempore/Personal Interview, Communication readiness, Aptitude test versatility ([CAT](/blog/10-tips-to-crack-cat-exam-2027-29/)/[XAT](/blog/10-tips-to-crack-cat-exam-2027-29/)/[MAT](/blog/10-tips-to-crack-cat-exam-2027-29/)/[CMAT](/blog/10-tips-to-crack-cat-exam-2027-29/)/[ATMA](/blog/10-tips-to-crack-cat-exam-2027-29/)) |
 
 ---
 
@@ -140,15 +140,15 @@ Here is the comprehensive, data-backed ROI comparison table for the best PGDM / 
 | :--- | :--- | :--- | :--- |
 | **[NIBM Pune (National Institute of Bank Management)](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)** | ₹16.00 Lakhs | ₹15.22 LPA | **ROI: Exceptional (Top BFSI Hub)** \| CAT 80–85%ile, XAT 80%ile, CMAT 95%ile \| Elite RBI-promoted institution for Banking, Risk & Treasury |
 | **[PUMBA Pune (Dept of Management Sciences)](/colleges/pumba-pune/)** | ₹2.45 Lakhs – ₹2.80 Lakhs | ₹8.80 LPA – ₹9.50 LPA | **ROI: Unbeatable (>300% 1-Year ROI)** \| CAT 80–85%ile (All India), MAH CET 99+ %ile \| Savitribai Phule Pune University flagship |
-| **[NL Dalmia Institute of Management, Mumbai]((/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹14.50 Lakhs – ₹15.50 Lakhs | ₹10.50 LPA – ₹11.50 LPA | **ROI: High** \| CAT 75–85%ile, XAT 75%ile, CMAT 85%ile, MH CET 90%ile \| Renowned Bloomberg Lab & Investment Banking network |
-| **[ISB&M Pune ([International School of Business & Media](/colleges/international-school-of-business-media/))]((/blog/all-about-international-school-of-business-media-pune/)** | ₹11.80 Lakhs – ₹13.20 Lakhs | ₹10.50 LPA – ₹11.20 LPA | **ROI: High** \| CAT 70–80%ile, XAT 70%ile, CMAT 80%ile \| Excellent Media, Supply Chain & FMCG Brand Management roles |
+| **[NL Dalmia Institute of Management, Mumbai](/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹14.50 Lakhs – ₹15.50 Lakhs | ₹10.50 LPA – ₹11.50 LPA | **ROI: High** \| CAT 75–85%ile, XAT 75%ile, CMAT 85%ile, MH CET 90%ile \| Renowned Bloomberg Lab & Investment Banking network |
+| **[ISB&M Pune ([International School of Business & Media](/colleges/international-school-of-business-media/))](/blog/all-about-international-school-of-business-media-pune/)** | ₹11.80 Lakhs – ₹13.20 Lakhs | ₹10.50 LPA – ₹11.20 LPA | **ROI: High** \| CAT 70–80%ile, XAT 70%ile, CMAT 80%ile \| Excellent Media, Supply Chain & FMCG Brand Management roles |
 | **[PIBM Pune (Pune Institute of Business Management)](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/)** | ₹9.45 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: Exceptional** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile, MAT 80%ile \| Sector-specific training (SAP, Bloomberg, PowerBI, FinTech) |
 | **[Sri Balaji University, Pune (SBUP / BIMM / BITM / BIIB)](/colleges/asm-ibmr/)** | ₹11.50 Lakhs – ₹12.50 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: High** \| CAT 65–75%ile, MAT 75%ile, CMAT 75%ile \| Huge corporate placement engine; strong Telecom & IT hiring |
-| **[ITM Business School, Navi Mumbai (Kharghar)](/colleges/itm-mumbai)** | ₹12.50 Lakhs – ₹13.50 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: High** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile, MAT 75%ile \| 5-Month intensive industry internship model |
-| **[SIESCOMS Navi Mumbai (Nerul)](/colleges/suryadatta-institute-of-management-mass-communication)** | ₹10.50 Lakhs – ₹11.50 Lakhs | ₹9.00 LPA – ₹9.80 LPA | **ROI: Very High** \| CAT 75–82%ile, CMAT 85%ile, MAH CET 92%ile \| Dominant in Pharmaceutical, Healthcare & BFSI domains |
+| **[ITM Business School, Navi Mumbai (Kharghar)](/colleges/itm-mumbai/)** | ₹12.50 Lakhs – ₹13.50 Lakhs | ₹8.50 LPA – ₹9.20 LPA | **ROI: High** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile, MAT 75%ile \| 5-Month intensive industry internship model |
+| **[SIESCOMS Navi Mumbai (Nerul)](/colleges/suryadatta-institute-of-management-mass-communication/)** | ₹10.50 Lakhs – ₹11.50 Lakhs | ₹9.00 LPA – ₹9.80 LPA | **ROI: Very High** \| CAT 75–82%ile, CMAT 85%ile, MAH CET 92%ile \| Dominant in Pharmaceutical, Healthcare & BFSI domains |
 | **[Lexicon MILE, Pune (Lexicon Management Institute)](/colleges/lexicon-management-institute-of-leadership-excellence/)** | ₹9.80 Lakhs – ₹10.50 Lakhs | ₹8.20 LPA – ₹8.80 LPA | **ROI: High** \| CAT 60–70%ile, CMAT 70%ile, MAT 75%ile \| Strong Leadership, AI in Business & Global Immersion options |
 | **[IIEBM Indus Business School, Pune](/colleges/iiebm-pune/)** | ₹8.50 Lakhs – ₹9.00 Lakhs | ₹7.80 LPA – ₹8.40 LPA | **ROI: Exceptional (100% 1-Year Recovery)** \| CAT 60–70%ile, MAT 70%ile, CMAT 65%ile \| Rigorous military-style discipline & corporate grooming |
-| **[Kirloskar Institute of Management (KIM Pune)](/colleges/kirloskar-institute-of-management-pune)** | ₹12.50 Lakhs – ₹13.00 Lakhs | ₹8.50 LPA – ₹9.00 LPA | **ROI: High** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile \| Kirloskar corporate pedigree; strong Operations & Analytics focus |
+| **[Kirloskar Institute of Management (KIM Pune)](/colleges/kirloskar-institute-of-management-pune/)** | ₹12.50 Lakhs – ₹13.00 Lakhs | ₹8.50 LPA – ₹9.00 LPA | **ROI: High** \| CAT 65–75%ile, XAT 65%ile, CMAT 75%ile \| Kirloskar corporate pedigree; strong Operations & Analytics focus |
 | **[RIIM Pune (Ramachandran International Institute)](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/)** | ₹6.50 Lakhs – ₹8.50 Lakhs | ₹6.80 LPA – ₹7.60 LPA | **ROI: Outstanding (Budget-Friendly)** \| CAT 60–70%ile, CMAT 60%ile, MAT 65%ile \| 500+ hours of live corporate employability training |
 | **[Universal AI University / UBS Mumbai (Karjat)](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/)** | ₹12.00 Lakhs – ₹14.00 Lakhs | ₹8.50 LPA – ₹9.50 LPA | **ROI: High** \| CAT 65–75%ile, CMAT 70%ile, GMAT \| India's first AI-integrated curriculum with lush green campus |
 
@@ -176,17 +176,17 @@ Selecting the right specialization dictates 80% of your campus placement CTC, da
 ```
 
 ### 1. Finance, FinTech & Investment Banking
-* **Best Colleges in Maharashtra:** [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [NL Dalmia Mumbai]((/blog/1-year-online-mba-colleges-india-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
+* **Best Colleges in Maharashtra:** [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/), [NL Dalmia Mumbai](/blog/1-year-online-mba-colleges-india-2027-29/), [PUMBA Pune](/colleges/pumba-pune/), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/).
 * **Key Roles:** Investment Banking Analyst, Wealth Manager, Credit Risk Underwriter, Treasury Associate, Equity Research Associate.
 * **Top Recruiters:** Morgan Stanley, JPMorgan Chase, TresVista, Crisil, Nomura, HDFC Bank, ICICI Securities, Barclays, Citi.
 
 ### 2. Marketing, FMCG, Media & Retail
-* **Best Colleges in Maharashtra:** [ISB&M Pune](/colleges/international-school-of-business-media-pune), [ITM Navi Mumbai](/colleges/itm-mumbai), [Sri Balaji University](/colleges/asm-ibmr/), [Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/).
+* **Best Colleges in Maharashtra:** [ISB&M Pune](/colleges/international-school-of-business-media-pune/), [ITM Navi Mumbai](/colleges/itm-mumbai/), [Sri Balaji University](/colleges/asm-ibmr/), [Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/).
 * **Key Roles:** Area Sales Manager (ASM), Brand Strategist, Media Planner, Key Account Manager, Digital Growth Manager.
 * **Top Recruiters:** Hindustan Unilever, ITC, Nestle, Marico, Loreal, Amazon, Mondelez, Reliance Retail, Asian Paints.
 
 ### 3. Business Analytics, AI, Supply Chain & Operations
-* **Best Colleges in Maharashtra:** [Universal AI University](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/), [Kirloskar Institute (KIM)](/colleges/kirloskar-institute-of-management-pune), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [IIEBM Pune](/colleges/iiebm-pune/).
+* **Best Colleges in Maharashtra:** [Universal AI University](/blog/ubs-mumbai-universal-ai-university-mba-pgdm-admission-2027-29/), [Kirloskar Institute (KIM)](/colleges/kirloskar-institute-of-management-pune/), [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [IIEBM Pune](/colleges/iiebm-pune/).
 * **Key Roles:** Business Analytics Consultant, Supply Chain Strategist, Logistics Head, AI Solutions Consultant, Product Manager.
 * **Top Recruiters:** Tata Motors, Mahindra & Mahindra, Accenture, Genpact, DHL, Capgemini, Infosys, Cummins India.
 
@@ -228,7 +228,7 @@ Aspirants scoring between 65%ile and 85%ile often make tactical errors during co
 
 ### Direct Admission & Profile-Based Institutional Guidance
 If your CAT percentile is between 60–85%ile or you missed sectional cutoffs, established AICTE-approved B-schools offer:
-* **Multi-Exam Evaluation:** You can submit your highest percentile across [CAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [XAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT]((/blog/10-tips-to-crack-cat-exam-2027-29/), or [ATMA]((/blog/10-tips-to-crack-cat-exam-2027-29/).
+* **Multi-Exam Evaluation:** You can submit your highest percentile across [CAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [XAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [CMAT](/blog/10-tips-to-crack-cat-exam-2027-29/), [MAT](/blog/10-tips-to-crack-cat-exam-2027-29/), or [ATMA](/blog/10-tips-to-crack-cat-exam-2027-29/).
 * **Profile-Based Early Shortlisting:** Candidates with consistent academic records (70%+ in 10th/12th/UG) or quality work experience can secure early interview slots.
 * **Merit & Diversity Scholarships:** Tuition fee concessions from ₹50,000 up to ₹2,50,000 are available for academic toppers, female candidates, and national-level achievers.
 
@@ -237,7 +237,7 @@ If your CAT percentile is between 60–85%ile or you missed sectional cutoffs, e
 ## 7. Frequently Asked Questions (FAQs) for CAT 2026-2027 Candidates
 
 ### Q1. Can I get a top PGDM college in Mumbai or Pune with a 70 percentile in CAT 2027–29?
-**Yes.** Institutions like [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [Sri Balaji University (SBUP)](/colleges/asm-ibmr/), [ITM Navi Mumbai](/colleges/itm-mumbai), [Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Pune](/colleges/iiebm-pune/), and [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/) actively shortlist candidates in the 65–75 percentile range based on composite profile and GD-PI performance.
+**Yes.** Institutions like [PIBM Pune](/blog/pibm-pune-mba-pgdm-review-2027-fees-placements-cutoff/), [Sri Balaji University (SBUP)](/colleges/asm-ibmr/), [ITM Navi Mumbai](/colleges/itm-mumbai/), [Lexicon MILE](/colleges/lexicon-management-institute-of-leadership-excellence/), [IIEBM Pune](/colleges/iiebm-pune/), and [RIIM Pune](/blog/riim-pune-mba-pgdm-review-2027-fees-placements-cutoff/) actively shortlist candidates in the 65–75 percentile range based on composite profile and GD-PI performance.
 
 ### Q2. Is a 2-year AICTE-approved PGDM degree equivalent to an MBA in Maharashtra?
 **Yes.** When a PGDM program is approved by AICTE and holds **AIU (Association of Indian Universities) equivalence**, it is treated identically to a university MBA degree for corporate hiring, UPSC/PSU eligibility, and international PhD applications.
@@ -259,18 +259,18 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 ---
 
 ### Related Reading & MBA Guides
-* [All About CAT Exam: Syllabus, Dates & Preparation]((/blog/10-tips-to-crack-cat-exam-2027-29/)
+* [All About CAT Exam: Syllabus, Dates & Preparation](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [CAT 2026-2027 Selection Blueprint: Delhi NCR & Greater Noida](/blog/cat-2026-2027-pgdm-mba-colleges-delhi-ncr-greater-noida-mid-percentile/)
 * [Top MBA Colleges Accepting 70-80 Percentile in CAT](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
 * [MBA vs PGDM: Which is Better for Your Career?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 * [All About NIBM Pune: Cutoffs, Fees & BFSI Placements](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
-* [All About [PUMBA Pune](/colleges/pumba-pune/): Fees, Cutoffs & High ROI Guide]((/blog/all-about-pumba-pune/)
-* [All About [PIBM Pune](/colleges/pibm-pune/): Review, Fees & Industry Placements]((/blog/all-about-pibm-pune/)
+* [All About [PUMBA Pune](/colleges/pumba-pune/): Fees, Cutoffs & High ROI Guide](/blog/all-about-pumba-pune/)
+* [All About [PIBM Pune](/colleges/pibm-pune/): Review, Fees & Industry Placements](/blog/all-about-pibm-pune/)
 
 ---
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

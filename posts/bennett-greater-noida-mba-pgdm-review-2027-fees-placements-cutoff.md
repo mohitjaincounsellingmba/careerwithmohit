@@ -169,7 +169,7 @@ Admission to Bennett University evaluates both entrance exam performance and per
 
 Candidates without standardized test scores can sit for the **Bennett Management Aptitude Test (BMAT)**.
 
-Check your admission probability across colleges with our [CAT Percentile & College Predictor]((/blog/cuet-pg-predictor-2026-mba-colleges/) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
+Check your admission probability across colleges with our [CAT Percentile & College Predictor](/blog/cuet-pg-predictor-2026-mba-colleges/) and review our broader [Delhi NCR MBA Cutoff Tracker](/blog/delhi-ncr-mba-admission-2027-cat-2026-xat-2027-cutoffs/).
 
 ---
 
@@ -218,6 +218,6 @@ BIMTECH is an older, standalone PGDM institution with higher cutoffs (80+ CAT) a
 
 ### 🚀 Boost Your Preparation & Test Analytics
 
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
 
 ---

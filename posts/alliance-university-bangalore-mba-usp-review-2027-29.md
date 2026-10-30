@@ -299,7 +299,7 @@ Planning your 2027–2029 MBA admissions journey? Check out these verified guide
 - **[Alliance University Bangalore Overview](/colleges/alliance-university-bangalore/)**: Detailed course catalogue, campus photos, and student reviews.
 - **[Top MBA Colleges in Bangalore 2027](/colleges/mba-colleges-bangalore/)**: Compare fees, cutoffs, and placements across all premier Bengaluru B-Schools.
 - **[MBA / PGDM Admissions 2027 Complete Guide](/mba-pgdm-admission-2027/)**: Step-by-step application timelines, entrance exam schedules, and GD-PI preparation tips.
-- **[Free MBA Mock Test Series](/mock-tests)**: Practice timed CBT tests for CAT, NMAT, XAT, SNAP, and MAT exams.
+- **[Free MBA Mock Test Series](/mock-tests/)**: Practice timed CBT tests for CAT, NMAT, XAT, SNAP, and MAT exams.
 
 ---
 

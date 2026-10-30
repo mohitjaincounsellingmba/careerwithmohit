@@ -109,7 +109,7 @@ NDIM is renowned for its industry linkage and having one of the largest corporat
 - **Why it has High ROI:** Consistent placements and heavy recruitment by Finance and Marketing giants. 
 - **Admission Mode:** A dedicated percentage of seats is reserved for Management Quota.
 
-### 5. [FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi/)), Delhi](/colleges/fiib-delhi)
+### 5. [FIIB ([Fortune Institute of International Business](/colleges/fiib-delhi/)), Delhi](/colleges/fiib-delhi/)
 FIIB offers a robust curriculum focused on international business and sustainability.
 - **Estimated Tuition Fee:** ₹12.85 Lakhs
 - **Average Placement:** ₹8.50 – ₹9.00 Lakhs
