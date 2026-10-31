@@ -27,6 +27,10 @@ faqs:
     answer: 'Never mention low fees, high ROI, or financial affordability as your primary reason for joining FMS. Faculty interviewers view this as opportunistic; instead, focus on FMS Delhi academic rigor, dual-specialization pedagogy, distinguished alumni base, and student-run clubs.'
 location: New Delhi
 state: Delhi
+total_fees: '₹2.43 Lakhs – ₹2.50 Lakhs'
+avg_package: '₹30.10 LPA'
+cutoff: '99+ %ile (CAT 2026)'
+exams_accepted: 'CAT 2026 Only'
 ---
 
 # FMS Delhi SOP Application Form 2027: 1000-Character Guide, Samples & Interview Strategy

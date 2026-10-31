@@ -57,6 +57,10 @@ faqs:
       score of 650 or above.
 location: New Delhi
 state: Delhi
+total_fees: '₹2.43 Lakhs – ₹2.50 Lakhs'
+avg_package: '₹30.10 LPA'
+cutoff: '99+ %ile (CAT 2026)'
+exams_accepted: 'CAT 2026 Only'
 ---
 
 # FMS Delhi Application Form 2027 (Out): Dates, CAT Cutoff, Fees & Selection Process

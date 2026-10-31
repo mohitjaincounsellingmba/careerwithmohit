@@ -120,41 +120,89 @@ function parseAiOverviewData(postData: any, geoResult: GeoLocationResult) {
   // Extract Key Facts
   const facts: { label: string; value: string; icon?: "fees" | "placement" | "cutoff" | "location" | "degree" | "verdict" }[] = [];
 
-  // Fees extraction
-  const feesMatch = content.match(/(?:fees?|tuition|fee structure)[^.\n]*?(?:of|is|:)?\s*(₹\s*[\d.]+\s*(?:Lakhs?|LPA|Cr|Crores?|k)?(?:\s*(?:to|-)\s*₹?\s*[\d.]+\s*(?:Lakhs?|LPA)?)?)/i) ||
-                    content.match(/(₹\s*[\d.]+\s*(?:Lakhs?|Cr))/i);
-  if (feesMatch) {
+  // Fees extraction (supports explicit frontmatter or robust regex)
+  const explicitFees = postData.total_fees || postData.fees;
+  let feesValue = explicitFees ? cleanMarkdown(explicitFees) : "";
+
+  if (!feesValue) {
+    const feesMatch =
+      content.match(/(?:total\s*(?:program|academic|2-year|tuition)?\s*fees?|fee\s*structure)[^.\n]*?(?:of|is|:)?\s*(?:[*_]*\s*)?(₹\s*[\d,.]+\s*(?:Lakhs?|Cr|Crores?)(?:\s*(?:to|-)\s*₹?\s*[\d,.]+\s*Lakhs?)?)/i) ||
+      content.match(/(?:fees?|tuition)[^.\n]*?(?:of|is|:)?\s*(?:[*_]*\s*)?(₹\s*[\d,.]+\s*(?:Lakhs?|Cr|Crores?)(?:\s*(?:to|-)\s*₹?\s*[\d,.]+\s*Lakhs?)?)/i) ||
+      content.match(/(₹\s*[\d,.]+\s*(?:Lakhs?|Cr))/i) ||
+      content.match(/(?:fees?|tuition|fee structure)[^.\n]*?(?:of|is|:)?\s*(?:[*_]*\s*)?(₹\s*[\d,.]+\s*(?:Lakhs?|LPA|Cr|Crores?|k)?(?:\s*(?:to|-)\s*₹?\s*[\d,.]+\s*(?:Lakhs?|LPA)?)?)/i);
+
+    if (feesMatch && feesMatch[1]) {
+      const candidate = feesMatch[1].trim();
+      // Guard against broken matches like "₹60" when it was ₹60,818 or missing unit
+      if (!candidate.match(/^₹\s*\d{1,2}$/)) {
+        feesValue = candidate;
+      }
+    }
+  }
+
+  if (feesValue) {
     facts.push({
       label: "Total Fees",
-      value: feesMatch[1].trim(),
+      value: feesValue,
       icon: "fees",
     });
   }
 
   // Placement extraction
-  const placementMatch = content.match(/(?:average\s*(?:domestic)?\s*(?:placement|package|salary)|median\s*package)[^.\n]*?(?:of|is|:)?\s*(₹\s*[\d.]+\s*LPA(?:\s*(?:to|-)\s*₹?\s*[\d.]+\s*LPA)?)/i) ||
-                         content.match(/(₹\s*[\d.]+\s*LPA)/i);
-  if (placementMatch) {
+  const explicitPlacement = postData.avg_package || postData.placement || postData.average_package;
+  let placementValue = explicitPlacement ? cleanMarkdown(explicitPlacement) : "";
+
+  if (!placementValue) {
+    const placementMatch =
+      content.match(/(?:average\s*(?:domestic)?\s*(?:placement|package|salary)|median\s*package)[^.\n]*?(?:of|is|:)?\s*(₹\s*[\d.]+\s*LPA(?:\s*(?:to|-)\s*₹?\s*[\d.]+\s*LPA)?)/i) ||
+      content.match(/(₹\s*[\d.]+\s*LPA)/i);
+
+    if (placementMatch && placementMatch[1]) {
+      placementValue = placementMatch[1].trim();
+    }
+  }
+
+  if (placementValue) {
     facts.push({
       label: "Avg Package",
-      value: placementMatch[1].trim(),
+      value: placementValue,
       icon: "placement",
     });
   }
 
   // Cutoff extraction
-  const cutoffMatch = content.match(/(?:CAT|MAT|XAT|CMAT|ATMA|NMAT|SNAP|CET|CUET)[^.\n]*?(?:cutoff|percentile)[^.\n]*?(?:is|of|:)?\s*([0-9]+(?:\.[0-9]+)?(?:\s*(?:to|-)\s*[0-9]+)?\s*percentile|[0-9]+\+?\s*%ile)/i) ||
-                      content.match(/([0-9]{2,3}(?:\.[0-9]+)?\s*percentile)/i);
-  if (cutoffMatch) {
+  const explicitCutoff = postData.cutoff || postData.target_cutoff;
+  let cutoffValue = explicitCutoff ? cleanMarkdown(explicitCutoff) : "";
+
+  if (!cutoffValue) {
+    const cutoffMatch =
+      content.match(/(?:CAT|MAT|XAT|CMAT|ATMA|NMAT|SNAP|CET|CUET)[^.\n]*?(?:cutoff|percentile)[^.\n]*?(?:is|of|:)?\s*([0-9]+(?:\.[0-9]+)?\+?\s*(?:to|-)?\s*[0-9]*(?:\.[0-9]+)?\+?\s*(?:percentile|%ile))/i) ||
+      content.match(/([0-9]{2,3}(?:\.[0-9]+)?\+?\s*(?:percentile|%ile))/i);
+
+    if (cutoffMatch && cutoffMatch[1]) {
+      cutoffValue = cutoffMatch[1].trim();
+    }
+  }
+
+  if (cutoffValue) {
     facts.push({
       label: "Cutoff Target",
-      value: cutoffMatch[1].trim(),
+      value: cutoffValue,
       icon: "cutoff",
     });
   } else {
+    const explicitExams = postData.exams_accepted || postData.exams;
+    let examsValue = explicitExams ? cleanMarkdown(explicitExams) : "";
+    if (!examsValue) {
+      if (/FMS|IIM|XLRI|SPJIMR/i.test(title) || /FMS|Faculty of Management Studies/i.test(content)) {
+        examsValue = "CAT (99+ %ile)";
+      } else {
+        examsValue = "CAT / MAT / CMAT / Direct";
+      }
+    }
     facts.push({
       label: "Exams Accepted",
-      value: "CAT / MAT / CMAT / Direct",
+      value: examsValue,
       icon: "cutoff",
     });
   }
