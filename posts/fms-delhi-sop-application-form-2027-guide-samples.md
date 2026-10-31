@@ -16,11 +16,11 @@ keywords:
   - fms delhi personal interview extempore
 faqs:
   - question: 'What is the exact word and character limit for the FMS Delhi SOP?'
-    answer: 'The FMS Delhi application form enforces a strict technical limit of 1,000 characters inclusive of spaces, which translates to approximately 140 to 175 words. Content exceeding 1,000 characters will be automatically truncated by the admission portal text field.'
+    answer: 'The FMS Delhi application form enforces a strict technical limit of 1,000 characters inclusive of spaces, which translates to approximately 140 to 170 words. Content exceeding 1,000 characters will be automatically truncated by the admission portal text field.'
   - question: 'What weightage does the Statement of Purpose (SOP) carry in FMS Delhi selection?'
     answer: 'FMS Delhi assigns an explicit 10% weightage to the Discussion on Statement of Purpose (SOP) in its final admission composite score merit list, alongside Personal Interview (15%), Extempore (5%), CAT Score (50%), and 10th/12th Academics (20%).'
-  - question: 'Can I change or update my FMS Delhi SOP after submitting the application form?'
-    answer: 'No, once you pay the application fee and submit the online application on fmsadmissions.co.in, you cannot edit or re-upload your Statement of Purpose. A printed copy of your submitted SOP is handed directly to your interview panel in April.'
+  - question: 'What is the exact fee structure for the 2-year full-time MBA at FMS Delhi?'
+    answer: 'The official tuition fee at FMS Delhi is ₹60,818 per semester, totaling ₹2,43,272 (~₹2.43 Lakhs) for the 2-year MBA program across 4 semesters. With university enrollment, library, and student body funds, total 2-year academic costs stand at approximately ₹2.45 Lakhs to ₹2.50 Lakhs.'
   - question: 'What are the three subjective profile questions in the FMS application form?'
     answer: 'The three subjective sections in the FMS application portal are (1) Statement of Purpose (SOP), (2) Academic Honours, Prizes, Scholarships & Other Awards, and (3) Extra-Curricular Activities, Social Work & Hobbies, each capped at 1,000 characters.'
   - question: 'Should I mention FMS Delhi low fees and high ROI in my SOP?'
@@ -34,9 +34,10 @@ state: Delhi
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The 1000-Character Constraint**: The [FMS Delhi](/colleges/fms-delhi/) MBA application form enforces a hard technical ceiling of **1,000 characters including spaces** (~140 to 170 words). Pasting longer essays leads to silent character truncation in the portal.
 > - **High-Stakes 10% PI Weightage**: Unlike other B-schools where the SOP is merely an informational document, FMS Delhi officially assigns **10 marks (10% weightage)** to the *"Discussion on Statement of Purpose"* in the final merit list.
+> - **Audited Fee & ROI Reality**: Official semester tuition is **₹60,818 per semester** (~**₹2.43 Lakhs to ₹2.50 Lakhs** total for 2 years). In the latest audited placements, the batch recorded an **Average Domestic CTC of ₹30.10 LPA**, a **Median CTC of ₹30.00 LPA**, and a **Highest Domestic CTC of ₹1.01 Crore**, yielding an extraordinary 12x fee-to-salary ROI ratio.
 > - **The Interview Reality**: The exact text you submit before **November 25, 2026** is printed and handed to the senior faculty interview panel in April. Every claim, domain buzzword, and career milestone will be cross-examined under intense scrutiny.
 > - **Three Subjective Portal Boxes**: The application form requires three separate 1000-character entries: (1) Statement of Purpose, (2) Academic Honours & Scholarships, and (3) Extra-Curricular Activities & Hobbies.
-> - **The Cardinal Rule**: Never write that you want to join FMS Delhi because of its "₹2.5 Lakh fees" or "high ROI". Frame your motivation around pedagogical fit, collaborative peer governance, and domain advancement.
+> - **The Cardinal Rule**: Never write that you want to join FMS Delhi because of its low fees or high ROI. Frame your motivation around pedagogical fit, collaborative peer governance, and domain advancement.
 
 ---
 
@@ -65,6 +66,7 @@ In this master strategy guide, **Mohit Jain** breaks down the exact character ma
 | Formatting Allowed                 | Plain Text Only (No HTML/Rich Text) |
 | Post-Submission Edits              | Strictly Prohibited                 |
 | Official Merit Weightage           | 10% (10 Marks out of 100)           |
+| Official Semester Fee              | ₹60,818 per semester (₹2.43L Total) |
 +------------------------------------+-------------------------------------+
 ```
 
@@ -78,7 +80,7 @@ However, Microsoft Word counts words, whereas the FMS application portal databas
 
 If your draft is 1,080 characters, the portal's frontend will silently drop the last 80 characters. In past admission cycles, dozens of candidates discovered during their interview that their final sentence—stating their long-term career ambition—ended abruptly with an incomplete phrase like *"Furthermore, I look forward to contributing to FMS by spear..."*
 
-> ⚠️ **Expert Advisory from Mohit Jain**: Always test your draft in a dedicated character counter. Target between **850 and 960 characters (including spaces)**. This provides a safe buffer against browser encoding discrepancies while delivering a complete, high-impact managerial pitch.
+> ⚠️ **Expert Advisory from Mohit Jain**: Always test your draft in a dedicated character counter. Target between **800 and 920 characters (including spaces)**. This provides a safe buffer against browser encoding discrepancies while delivering a complete, high-impact managerial pitch.
 
 ---
 
@@ -97,7 +99,7 @@ To put this into perspective, review the official final selection criteria publi
 | **Class 12 Academic Record** | **10%** | ≥ 75% = 10 Marks; 60% to < 75% = 5 Marks; Below 60% = 0 Marks |
 | **Extempore Speech** | **5%** | Impromptu 2-minute oral presentation on an unannounced topic |
 | **Gender Diversity (Women Candidates)** | **+5 Bonus Marks** | Additional 5 marks added to composite total for female applicants |
-| **Total Composite Score** | **100% (+5)** | Final merit list determines the 251 admitted candidates |
+| **Total Composite Score** | **100% (+5)** | Final merit list determines the admitted cohort (251 Core Seats) |
 
 Notice that the **SOP Discussion (10%) + Personal Interview (15%) + Extempore (5%)** constitute **30% of your total admission composite score**. In a hyper-competitive cutoff environment where thousands of candidates cluster between 99.2 and 99.8 CAT percentile, a variance of just 3 to 4 marks in the SOP discussion is often the exact differentiator between a confirmed admission offer and an un-cleared waitlist spot.
 
@@ -173,7 +175,7 @@ This is where 90% of applicants stumble. You must demonstrate genuine knowledge 
 * Specific student societies: **MarkSoc** (Marketing), **FinSoc** (Finance), **ConSet** (Consulting), **SysCon** (Systems & Technology), or **ViMCC** (Media & Communications).
 
 #### 5. Pillar 5: Value Contribution to the Cohort (~120–150 Characters)
-FMS operates with a tight batch size of approximately 251 students. The faculty values collaborative peer learning. Conclude with what you uniquely bring to classroom discussions—whether it is cross-border supply chain insights, deep financial modeling, or data-driven consumer research.
+FMS operates with a tight batch size of 251 core students. The faculty values collaborative peer learning. Conclude with what you uniquely bring to classroom discussions—whether it is cross-border supply chain insights, deep financial modeling, or data-driven consumer research.
 
 ---
 
@@ -335,37 +337,43 @@ If the answer is no, replace that sentence with an authentic achievement you can
 
 ---
 
-## FMS Delhi MBA 2027 Application Deadlines & Key Highlights
+## FMS Delhi MBA 2027 Application Deadlines, Intake & Verified Metrics
 
-For candidates completing their registration, keep these critical admission dates and verified program parameters top of mind:
+For candidates completing their registration, keep these verified admission dates, official seat breakdowns, and audited placement figures top of mind:
 
-| Admission Milestone / Parameter | Verified 2027–2029 Cycle Details |
+| Admission Milestone / Parameter | Official Verified Metrics (2027–2029 Cycle) |
 | :--- | :--- |
 | **Application Portal Status** | **Live Now** at [fmsadmissions.co.in](https://fmsadmissions.co.in) and [fms.edu](https://www.fms.edu) |
 | **Application Commencement Date** | **October 26, 2026** |
 | **Application Closing Deadline** | **November 25, 2026 (Midnight)** |
 | **Application Registration Fee** | ₹1,000 (General / OBC-NCL / EWS) \| ₹350 (SC / ST / PwD / CW) |
 | **Mandatory Qualifying Exam** | **CAT 2026** (Conducted Sunday, November 29, 2026) |
-| **Sanctioned Seat Intake** | **251 Seats** (Gen: 101, OBC: 69, SC: 37, ST: 19, EWS: 25) |
-| **Total 2-Year Program Fee** | **₹2.50 Lakhs to ₹2.60 Lakhs** (~₹65,000 per semester) |
-| **Latest Average Domestic CTC** | **₹34.10 LPA** (Median CTC: **₹31.00 LPA**) |
-| **Highest Domestic Placement** | **₹66.00 LPA – ₹70.00 LPA** (International: **₹1.23 Crore**) |
+| **Sanctioned Core Seat Intake** | **251 Seats** (Gen: 101, OBC-NCL: 69, SC: 37, EWS: 25, ST: 19) |
+| **Supernumerary Seats Intake** | **63 Seats** (PwD: 12, CW: 12, Foreign: 25, DU Ward: 12, Orphan: 2) \| **Total: 314 Seats** |
+| **Official Semester Tuition Fee** | **₹60,818 per semester** (~₹2,43,272 across 4 semesters) |
+| **Total 2-Year Academic Program Fee** | **₹2.43 Lakhs to ₹2.50 Lakhs** (including university charges & security deposits) |
+| **Latest Audited Average CTC (Batch 2025)** | **₹30.10 LPA** (Batch 2024: ₹29.20 LPA \| 2023 Peak: ₹34.10 LPA) |
+| **Latest Audited Median CTC (Batch 2025)** | **₹30.00 LPA** (Batch 2024: ₹29.00 LPA \| 2023 Peak: ₹31.00 LPA) |
+| **Top 10% Batch Average CTC** | **₹53.20 LPA** |
+| **Top 25% Batch Average CTC** | **₹45.80 LPA** |
+| **Top 50% Batch Average CTC** | **₹38.20 LPA** |
+| **Highest Domestic Placement** | **₹1.01 Crore (₹101.00 LPA)** (Batch 2023 International Peak: ₹1.23 Crore) |
 | **Official Admission Helpdesk** | admissions@fms.edu \| +91-11-2766 6382 / 6388 |
 
 ---
 
 ## Verified Tier-1 MBA Application & ROI Benchmark
 
-How does FMS Delhi compare against other premier management institutions requiring separate application forms?
+How does FMS Delhi compare against other premier management institutions requiring independent application forms?
 
-| Business School | Total 2-Year Fees | Average Placement CTC | Application Exam & Cutoff | Flagship ROI Distinction |
+| Business School | Total 2-Year Program Fees | Average Placement CTC | Application Exam & Cutoff | Flagship ROI Distinction |
 | :--- | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi/)** | **₹2.50 Lakhs** | **₹34.10 LPA** | CAT 2026 (99.0+ %ile) | 13x Fee-to-Salary Ratio (Highest in Asia) |
-| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | **₹6.00 Lakhs** | **₹28.02 LPA** | MAH CET (99.9+ %ile) / CAT | Elite Finance Legacy & Mumbai BFSI Network |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | **₹25.10 Lakhs** | **₹25.50 LPA** | CAT 2026 (94+ %ile) | Corporate Cyber City Hub & Consulting Hub |
-| **[IIFT Delhi](/colleges/iift-delhi/)** | **₹21.75 Lakhs** | **₹29.10 LPA** | CAT 2026 (98+ %ile) | International Trade, Strategy & Finance |
-| **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | **₹21.53 Lakhs** | **₹17.35 LPA** | CAT / XAT (90+ %ile) | India's Premier FMCG Marketing Alma Mater |
-| **[IMI New Delhi](/colleges/imi-delhi/)** | **₹23.54 Lakhs** | **₹17.01 LPA** | CAT / XAT (88+ %ile) | Corporate Strategy & BFSI Analytics Focus |
+| **[FMS Delhi](/colleges/fms-delhi/)** | **₹2.43 Lakhs – ₹2.50 Lakhs** | **₹30.10 LPA** (Median: ₹30.00 LPA) | CAT 2026 (99.0+ %ile) | 12x Fee-to-Salary Ratio (Highest in Asia) |
+| **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | **₹8.10 Lakhs – ₹8.50 Lakhs** | **₹26.48 LPA** (Median: ₹26.15 LPA) | MAH CET (99.9+ %ile) / CAT (99.98+ %ile) | Elite Finance Legacy & Mumbai BFSI Network |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | **₹26.55 Lakhs** | **₹25.60 LPA – ₹26.20 LPA** | CAT 2026 (94+ %ile) | Corporate Cyber City Hub & Consulting Focus |
+| **[IIFT Delhi](/colleges/iift-delhi/)** | **₹21.00 Lakhs – ₹21.80 Lakhs** | **₹31.30 LPA** (Median: ₹26.00 LPA) | CAT 2026 (98+ %ile) | International Trade, Strategy & Finance Hub |
+| **[IMT Ghaziabad](/colleges/imt-ghaziabad/)** | **₹21.50 Lakhs – ₹22.00 Lakhs** | **₹16.25 LPA – ₹17.20 LPA** | CAT / XAT (90+ %ile) | India's Premier FMCG Marketing Alma Mater |
+| **[IMI New Delhi](/colleges/imi-delhi/)** | **₹23.50 Lakhs – ₹24.00 Lakhs** | **₹17.91 LPA – ₹18.08 LPA** | CAT / XAT (88+ %ile) | Corporate Strategy & BFSI Analytics Focus |
 
 For a complete breakdown of FMS Delhi registration steps, composite score calculation rules, and detailed fee refund terms, read our companion analysis on the **[FMS Delhi Application Form 2027 Dates, CAT Cutoff & Fees Guide](/blog/fms-delhi-application-form-2027-dates-fees-cat-cutoff-selection/)**.
 
@@ -374,11 +382,3 @@ For a complete breakdown of FMS Delhi registration steps, composite score calcul
 ### 🚀 Sharpen Your CAT Percentile Before November 29
 
 Remember that clearing the weighted CAT threshold (VARC 40%, QA 30%, DILR 30%) is the mandatory first filter before your SOP is evaluated. **[Access Our Free CAT CBT Mock Test Series & Score Predictor](/mock-tests/)** to benchmark your sectional performance against national percentiles.
-
----
-
-### 🚀 Boost Your Preparation & Test Analytics
-
-Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
-
----
