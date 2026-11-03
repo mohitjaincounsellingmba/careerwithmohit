@@ -15,10 +15,6 @@ type PagesFunction<Env = unknown, P extends string = string, Data extends Record
 
 // Pre-compiled redirect dictionary
 const REDIRECT_MAP: Record<string, string> = {
-  "/blog/cambridge-judge-mba-review-2027-29": "/blog/",
-  "/blog/chicago-booth-mba-review-2027-29": "/blog/",
-  "/blog/esmt-berlin-mba-review-2027-29": "/blog/",
-  "/blog/hec-paris-mba-review-2027-29": "/blog/",
   "/robot.txt": "/",
   "/posts/*": "/blog/:splat/",
   "/learn-skills/*": "/tools/",
@@ -49,6 +45,10 @@ const REDIRECT_MAP: Record<string, string> = {
   "/tools/resume-generator": "/tools/",
   "/tools/resume-analyzer": "/tools/",
   "/top-mba-colleges-delhi-ncr-2026": "/colleges/mba-colleges-delhi-ncr/",
+  "/colleges/tiss-mumbai": "/blog/tiss-mumbai-application-form-2027-hrm-lr-cat-dates-fees-cutoff/",
+  "/colleges/altera-institute": "/blog/direct-admission-altera-institute-gurgaon-2027-29/",
+  "/colleges/bitsom-mumbai": "/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff/",
+  "/tools/mock-test/srmjee": "/mock-tests/",
   "/blog/hiring-business-development-executive-(saas)-rannkly": "/blog/hiring-business-development-executive-saas-rannkly/",
   "/blog/hiring-data-scientist-sr.-ml-engineer-ithena-technologies": "/blog/hiring-data-scientist-sr-ml-engineer-ithena-technologies/",
   "/blog/hiring-senior-analyst-(data-scientist)-b-informative-it-services": "/blog/hiring-senior-analyst-data-scientist-b-informative-it-services/",
@@ -886,6 +886,10 @@ const REDIRECT_MAP: Record<string, string> = {
   "/blog/iim-indore-review-2027-29": "/blog/iim-indore-mba-review-2027-fees-placements-cutoff/",
   "/blog/iim-jammu-review-2027-29": "/blog/iim-jammu-mba-review-2027-fees-placements-cutoff/",
   "/blog/iim-kashipur-review-2027-29": "/blog/iim-kashipur-mba-review-2027-fees-placements-cutoff/",
+  "/blog/cambridge-judge-mba-review-2027-29": "/blog/",
+  "/blog/chicago-booth-mba-review-2027-29": "/blog/",
+  "/blog/esmt-berlin-mba-review-2027-29": "/blog/",
+  "/blog/hec-paris-mba-review-2027-29": "/blog/",
   "/blog/iim-kozhikode-review-2027-29": "/blog/iim-kozhikode-mba-review-2027-fees-placements-cutoff/",
   "/blog/iim-nagpur-review-2027-29": "/blog/iim-nagpur-mba-review-2027-fees-placements-cutoff/",
   "/blog/iim-raipur-review-2027-29": "/blog/iim-raipur-mba-review-2027-fees-placements-cutoff/",
@@ -1634,17 +1638,24 @@ export const onRequest: PagesFunction = async (context) => {
   // 1. Resolve redirect target from dictionary
   let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
 
-  // Fallback for pruned synthetic blog doorway pages pattern
-  if (
+  // SEO Health: Return 410 Gone for permanently pruned/retired blog doorway pages to prevent Soft 404 penalties
+  const isPrunedDoorway =
     !targetPath &&
     (cleanPath.startsWith('/blog/all-about-amity-') ||
      cleanPath.startsWith('/blog/low-budget-bba-') ||
      cleanPath.startsWith('/blog/low-budget-mba-') ||
-     cleanPath.startsWith('/blog/private-mtech-'))
-  ) {
-    if (cleanPath !== '/blog' && cleanPath !== '/blog/') {
-      targetPath = '/blog/';
-    }
+     cleanPath.startsWith('/blog/private-mtech-'));
+
+  const isArchivedToHub = targetPath === '/blog/' && normPath !== '/blog' && normPath !== '/blog/';
+
+  if (isPrunedDoorway || isArchivedToHub) {
+    return new Response("This resource has been permanently retired.", {
+      status: 410,
+      headers: {
+        "Content-Type": "text/plain; charset=utf-8",
+        "Cache-Control": "public, max-age=604800",
+      },
+    });
   }
 
   // 2. Ensure target ends with trailing slash

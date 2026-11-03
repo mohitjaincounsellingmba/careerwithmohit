@@ -384,17 +384,24 @@ export const onRequest: PagesFunction = async (context) => {
   // 1. Resolve redirect target from dictionary
   let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
 
-  // Fallback for pruned synthetic blog doorway pages pattern
-  if (
+  // SEO Health: Return 410 Gone for permanently pruned/retired blog doorway pages to prevent Soft 404 penalties
+  const isPrunedDoorway =
     !targetPath &&
     (cleanPath.startsWith('/blog/all-about-amity-') ||
      cleanPath.startsWith('/blog/low-budget-bba-') ||
      cleanPath.startsWith('/blog/low-budget-mba-') ||
-     cleanPath.startsWith('/blog/private-mtech-'))
-  ) {
-    if (cleanPath !== '/blog' && cleanPath !== '/blog/') {
-      targetPath = '/blog/';
-    }
+     cleanPath.startsWith('/blog/private-mtech-'));
+
+  const isArchivedToHub = targetPath === '/blog/' && normPath !== '/blog' && normPath !== '/blog/';
+
+  if (isPrunedDoorway || isArchivedToHub) {
+    return new Response("This resource has been permanently retired.", {
+      status: 410,
+      headers: {
+        "Content-Type": "text/plain; charset=utf-8",
+        "Cache-Control": "public, max-age=604800",
+      },
+    });
   }
 
   // 2. Ensure target ends with trailing slash

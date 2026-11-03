@@ -29,10 +29,39 @@ export function College4SureSeoLinks() {
     { name: "Study Abroad Admissions", href: "/abroad-education/" },
   ];
 
+  const latestReviews = [
+    { name: "🎯 IIM Calcutta MBA Review 2027", href: "/blog/iim-calcutta-mba-review-2027-fees-placements-cutoff/" },
+    { name: "⭐ IIM Ahmedabad MBA Review 2027", href: "/blog/iim-ahmedabad-mba-review-2027-fees-placements-cutoff/" },
+    { name: "📝 FMS Delhi SOP & Form Guide 2027", href: "/blog/fms-delhi-sop-application-form-2027/" },
+    { name: "🏆 IIM Amritsar MBA Review 2027", href: "/blog/iim-amritsar-mba-review-2027-fees-placements-cutoff/" },
+    { name: "📈 IIM Bodh Gaya MBA Review 2027", href: "/blog/iim-bodh-gaya-mba-review-2027-fees-placements-cutoff/" },
+    { name: "🎓 IILM University Greater Noida Review 2027", href: "/blog/iilm-university-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/" },
+    { name: "💼 FORE School Delhi PGDM Review 2027", href: "/blog/fore-school-delhi-pgdm-review-2027-fees-placements-cutoff/" },
+    { name: "📊 BIMTECH Greater Noida PGDM Review 2027", href: "/blog/bimtech-greater-noida-pgdm-review-2027-fees-placements-cutoff/" },
+    { name: "📚 Explore All 2027 Admissions Guides →", href: "/blog/" },
+  ];
+
   return (
     <section className="bg-[#F8FAFC] text-slate-600 py-12 border-t border-slate-200/80 text-xs">
       <div className="max-w-[1220px] mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         <div>
+          <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#0F1026] mb-4">
+            🔥 Latest 2027 Admissions Guides &amp; B-School Reviews
+          </h3>
+          <div className="flex flex-wrap gap-2">
+            {latestReviews.map((link, idx) => (
+              <Link
+                key={idx}
+                href={link.href}
+                className="px-3.5 py-1.5 rounded-full bg-white hover:bg-amber-50 text-slate-800 hover:text-amber-800 border border-slate-200/80 shadow-2xs transition-colors font-medium"
+              >
+                {link.name}
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        <div className="pt-6 border-t border-slate-200/80">
           <h3 className="font-mono text-xs uppercase tracking-[0.15em] font-extrabold text-[#0F1026] mb-4">
             Popular B-School Hubs by City
           </h3>

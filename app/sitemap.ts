@@ -11,7 +11,13 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://careerwithmohit.online';
 
-  const buildDate = new Date();
+  const posts = getSortedPostsData();
+  const latestPostDate = posts.length > 0 && posts[0].date ? new Date(posts[0].date) : new Date('2026-11-01');
+  const staticSiteBaseline = new Date('2026-10-31T00:00:00.000Z');
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  const ninetyDaysAgo = new Date();
+  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
 
   // Load all redirect sources from public/_redirects so no 301/302 redirects are ever submitted to Google
   const redirectSources = new Set<string>();
@@ -155,25 +161,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const clean = route.toLowerCase().replace(/\/$/, '');
       return !redirectSources.has(clean) && !redirectSources.has(clean + '/');
     })
-    .map((route) => ({
-      url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
-      lastModified: buildDate,
-      changeFrequency: route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount' ? ('daily' as const) : ('weekly' as const),
-      priority:
-        route === '' || route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
-          ? 1.0
-          : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
-          ? 0.95
-          : route.includes('/tools/') || route.includes('/calculator/')
-          ? 0.9
-          : 0.7,
-    }));
+    .map((route) => {
+      const isDynamicHub = route === '' || route === '/blog' || route === '/colleges';
+      return {
+        url: route === '' ? `${baseUrl}/` : `${baseUrl}${route}/`,
+        lastModified: isDynamicHub ? latestPostDate : staticSiteBaseline,
+        changeFrequency:
+          route === '' || route === '/blog'
+            ? ('daily' as const)
+            : route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
+            ? ('daily' as const)
+            : ('weekly' as const),
+        priority:
+          route === ''
+            ? 1.0
+            : route === '/blog'
+            ? 0.95
+            : route === '/tools/cat-score-calculator' || route === '/mba-application-form-discount'
+            ? 0.95
+            : route.startsWith('/online-degree-certification') || route.includes('/colleges/mba-colleges-') || route === '/mba-pgdm-admission-2027' || route === '/mba-pgdm-admissions-by-region' || route === '/mba-admissions-by-region'
+            ? 0.95
+            : route.includes('/tools/') || route.includes('/calculator/')
+            ? 0.9
+            : 0.75,
+      };
+    });
 
   // Dynamic blog routes (excluding any redirected legacy URLs)
-  const posts = getSortedPostsData();
-  const ninetyDaysAgo = new Date();
-  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
-
   const blogRoutes = posts
     .filter((post) => {
       const blogPath = `/blog/${post.slug}`.toLowerCase();
@@ -181,14 +195,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
     .map((post) => {
       const postDate = new Date(post.date);
-      const isRecent = postDate >= ninetyDaysAgo;
+      const isTopPriority2027 = post.slug.includes('2027') || postDate >= thirtyDaysAgo;
       const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
 
       return {
         url: `${baseUrl}/blog/${post.slug}/`,
         lastModified: postDate,
-        changeFrequency: isMockTestBlog ? ('weekly' as const) : (isRecent ? ('weekly' as const) : ('monthly' as const)),
-        priority: isMockTestBlog ? 0.9 : (isRecent ? 0.85 : 0.8),
+        changeFrequency: isTopPriority2027 ? ('weekly' as const) : isMockTestBlog ? ('weekly' as const) : ('monthly' as const),
+        priority: isTopPriority2027 ? 0.95 : isMockTestBlog ? 0.85 : 0.75,
       };
     });
 
@@ -204,7 +218,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         return !redirectSources.has(collegePath) && !redirectSources.has(collegePath + '/');
       })
       .map((file) => {
-        let mtime = buildDate;
+        let mtime = staticSiteBaseline;
         try {
           const stat = fs.statSync(path.join(collegesDir, file));
           mtime = stat.mtime;
@@ -228,7 +242,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter((config: any) => !customStaticSlugs.includes(config.slug))
     .map((config: any) => ({
       url: `${baseUrl}/tools/mock-test/${config.slug}/`,
-      lastModified: buildDate,
+      lastModified: staticSiteBaseline,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     }));
@@ -237,7 +251,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const examSlugs = ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'];
   const resourceRoutes = examSlugs.map((exam) => ({
     url: `${baseUrl}/resources/${exam}/`,
-    lastModified: buildDate,
+    lastModified: staticSiteBaseline,
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
@@ -246,7 +260,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const { ABROAD_DESTINATIONS } = require('@/data/abroadDestinations');
   const abroadCountryRoutes = Object.keys(ABROAD_DESTINATIONS).map((slug) => ({
     url: `${baseUrl}/abroad-education/${slug}/`,
-    lastModified: buildDate,
+    lastModified: staticSiteBaseline,
     changeFrequency: 'weekly' as const,
     priority: 0.9,
   }));
@@ -254,7 +268,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic abroad education college routes
   const abroadRoutes = ABROAD_COLLEGES.map((college) => ({
     url: `${baseUrl}/abroad-education/${generateCollegeSlug(college.name, college.location)}/`,
-    lastModified: buildDate,
+    lastModified: staticSiteBaseline,
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
@@ -262,7 +276,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic online university hubs routes
   const onlineUniversityRoutes = COLLEGES.map((c) => ({
     url: `${baseUrl}/online-degree-certification/${c.universitySlug}/`,
-    lastModified: buildDate,
+    lastModified: staticSiteBaseline,
     changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));

@@ -1,8 +1,4 @@
 Old URL,New URL,Status Code,Type
-https://careerwithmohit.online/blog/cambridge-judge-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
-https://careerwithmohit.online/blog/chicago-booth-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
-https://careerwithmohit.online/blog/esmt-berlin-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
-https://careerwithmohit.online/blog/hec-paris-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
 https://careerwithmohit.online/robot.txt,https://careerwithmohit.online/,301,Site Alias
 https://careerwithmohit.online/posts/*,https://careerwithmohit.online/blog/:splat/,301,Site Alias
 https://careerwithmohit.online/learn-skills/*,https://careerwithmohit.online/tools/,301,Site Alias
@@ -33,6 +29,10 @@ https://careerwithmohit.online/tools/offer-letter-generator,https://careerwithmo
 https://careerwithmohit.online/tools/resume-generator,https://careerwithmohit.online/tools/,301,Site Alias
 https://careerwithmohit.online/tools/resume-analyzer,https://careerwithmohit.online/tools/,301,Site Alias
 https://careerwithmohit.online/top-mba-colleges-delhi-ncr-2026,https://careerwithmohit.online/colleges/mba-colleges-delhi-ncr/,301,Site Alias
+https://careerwithmohit.online/colleges/tiss-mumbai,https://careerwithmohit.online/blog/tiss-mumbai-application-form-2027-hrm-lr-cat-dates-fees-cutoff/,301,Site Alias
+https://careerwithmohit.online/colleges/altera-institute,https://careerwithmohit.online/blog/direct-admission-altera-institute-gurgaon-2027-29/,301,Site Alias
+https://careerwithmohit.online/colleges/bitsom-mumbai,https://careerwithmohit.online/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff/,301,Site Alias
+https://careerwithmohit.online/tools/mock-test/srmjee,https://careerwithmohit.online/mock-tests/,301,Site Alias
 https://careerwithmohit.online/blog/hiring-business-development-executive-(saas)-rannkly,https://careerwithmohit.online/blog/hiring-business-development-executive-saas-rannkly/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/hiring-data-scientist-sr.-ml-engineer-ithena-technologies,https://careerwithmohit.online/blog/hiring-data-scientist-sr-ml-engineer-ithena-technologies/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/hiring-senior-analyst-(data-scientist)-b-informative-it-services,https://careerwithmohit.online/blog/hiring-senior-analyst-data-scientist-b-informative-it-services/,301,Blog Slug Migration
@@ -870,6 +870,10 @@ https://careerwithmohit.online/blog/iim-calcutta-review-2027-29,https://careerwi
 https://careerwithmohit.online/blog/iim-indore-review-2027-29,https://careerwithmohit.online/blog/iim-indore-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/iim-jammu-review-2027-29,https://careerwithmohit.online/blog/iim-jammu-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/iim-kashipur-review-2027-29,https://careerwithmohit.online/blog/iim-kashipur-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
+https://careerwithmohit.online/blog/cambridge-judge-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
+https://careerwithmohit.online/blog/chicago-booth-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
+https://careerwithmohit.online/blog/esmt-berlin-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
+https://careerwithmohit.online/blog/hec-paris-mba-review-2027-29,https://careerwithmohit.online/blog/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/iim-kozhikode-review-2027-29,https://careerwithmohit.online/blog/iim-kozhikode-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/iim-nagpur-review-2027-29,https://careerwithmohit.online/blog/iim-nagpur-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
 https://careerwithmohit.online/blog/iim-raipur-review-2027-29,https://careerwithmohit.online/blog/iim-raipur-mba-review-2027-fees-placements-cutoff/,301,Blog Slug Migration
