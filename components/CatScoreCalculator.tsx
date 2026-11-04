@@ -616,52 +616,42 @@ Calculate your score with official Digialm answer key check & slot normalization
 
   return (
     <div className="w-full max-w-5xl mx-auto" id="cat-calculator-app">
-      {/* Main Glassmorphic Modern Calculator Container Matching Home Page */}
-      <div className="bg-white rounded-[32px] sm:rounded-[40px] border-[1.5px] border-[#061124]/10 shadow-[0_34px_70px_-30px_rgba(6,17,36,0.18)] overflow-hidden transition-all">
+      {/* Main Clean Light Theme Calculator Container */}
+      <div className="bg-white rounded-[32px] sm:rounded-[40px] border border-slate-200/90 shadow-[0_20px_50px_-20px_rgba(15,23,42,0.08)] overflow-hidden transition-all">
         
-        {/* Calculator Header: Sleek Cyber Deep Navy Gradient */}
-        <div className="relative bg-[#070A14] text-white p-6 sm:p-8 md:p-10 overflow-hidden border-b border-white/10">
-          {/* Ambient Glowing Blobs */}
-          <div className="absolute -top-16 -right-16 w-72 h-72 bg-[#00F0FF]/15 rounded-full blur-3xl pointer-events-none" />
-          <div className="absolute -bottom-16 -left-16 w-72 h-72 bg-[#FF007A]/15 rounded-full blur-3xl pointer-events-none" />
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-[#8B5CF6]/10 rounded-full blur-3xl pointer-events-none" />
-
-          {/* Cyber Grid Texture */}
-          <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:3rem_3rem] pointer-events-none" />
-
+        {/* Calculator Header: Clean Light Gradient */}
+        <div className="relative bg-gradient-to-b from-slate-50/90 via-white to-blue-50/30 text-slate-900 p-6 sm:p-8 md:p-10 border-b border-slate-200/80">
           <div className="relative z-10 flex flex-col lg:flex-row lg:items-center justify-between gap-6">
             <div className="flex items-start sm:items-center gap-4">
-              <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-[#FF007A] via-[#8B5CF6] to-[#00F0FF] p-0.5 shadow-[0_0_25px_rgba(0,240,255,0.3)] shrink-0">
-                <div className="w-full h-full bg-[#070A14] rounded-[14px] flex items-center justify-center">
-                  <Calculator className="w-7 h-7 text-[#00F0FF]" />
-                </div>
+              <div className="w-14 h-14 rounded-2xl bg-blue-600 text-white flex items-center justify-center shadow-lg shadow-blue-500/20 shrink-0">
+                <Calculator className="w-7 h-7 text-white" />
               </div>
               <div>
                 <div className="flex flex-wrap items-center gap-2 mb-1.5">
-                  <span className="bg-white/10 text-[#00FF88] text-[11px] font-mono font-bold uppercase tracking-wider px-3 py-0.5 rounded-full border border-[#00FF88]/30 flex items-center gap-1.5 shadow-[0_0_12px_rgba(0,255,136,0.2)]">
-                    <span className="w-1.5 h-1.5 rounded-full bg-[#00FF88] animate-ping" />
+                  <span className="bg-blue-50 text-blue-700 text-[11px] font-mono font-bold uppercase tracking-wider px-3 py-0.5 rounded-full border border-blue-200/80 flex items-center gap-1.5 shadow-2xs">
+                    <span className="w-1.5 h-1.5 rounded-full bg-blue-600 animate-ping" />
                     CAT 2026 Engine
                   </span>
-                  <span className="text-slate-400 text-xs font-mono font-semibold">
+                  <span className="text-slate-500 text-xs font-mono font-semibold">
                     66 Qs · 198 Max Marks · Equipercentile Scaling
                   </span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl md:text-4xl font-display font-black tracking-tight text-white leading-tight">
+                <h2 className="text-2xl sm:text-3xl md:text-4xl font-display font-black tracking-tight text-slate-950 leading-tight">
                   CAT Exam Score Calculator &amp; Percentile Predictor
                 </h2>
-                <p className="text-slate-300 text-xs sm:text-sm mt-1 max-w-xl font-normal">
+                <p className="text-slate-600 text-xs sm:text-sm mt-1 max-w-xl font-normal">
                   Official +3 / −1 marking scheme with Slot Equating Normalization, candidate response sheet scan &amp; 2027 IIM call forecasting.
                 </p>
               </div>
             </div>
 
             {/* Exam Slot Selector Pill Group */}
-            <div className="bg-white/[0.08] backdrop-blur-xl p-3.5 rounded-2xl border border-white/15 shrink-0 shadow-lg">
+            <div className="bg-white p-3.5 rounded-2xl border border-slate-200/90 shrink-0 shadow-sm">
               <label
                 htmlFor="slot-select"
-                className="block text-[11px] font-mono font-bold uppercase tracking-wider text-[#00F0FF] mb-2 flex items-center gap-1.5"
+                className="block text-[11px] font-mono font-bold uppercase tracking-wider text-slate-700 mb-2 flex items-center gap-1.5"
               >
-                <Clock className="w-3.5 h-3.5 text-[#00F0FF]" /> Exam Slot Normalization
+                <Clock className="w-3.5 h-3.5 text-blue-600" /> Exam Slot Normalization
               </label>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-1.5">
                 {[
@@ -676,8 +666,8 @@ Calculate your score with official Digialm answer key check & slot normalization
                     onClick={() => setSelectedSlot(s.key as SlotKey)}
                     className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all text-center cursor-pointer ${
                       selectedSlot === s.key
-                        ? "bg-gradient-to-r from-[#00F0FF] to-[#6366F1] text-slate-950 font-black shadow-[0_0_15px_rgba(0,240,255,0.4)]"
-                        : "bg-white/5 text-slate-300 hover:bg-white/15 hover:text-white"
+                        ? "bg-blue-600 text-white font-black shadow-sm"
+                        : "bg-slate-50 text-slate-700 hover:bg-slate-100 border border-slate-200/60"
                     }`}
                   >
                     {s.label}
@@ -688,34 +678,34 @@ Calculate your score with official Digialm answer key check & slot normalization
           </div>
 
           {/* Marking Rules Micro-Strip */}
-          <div className="relative z-10 flex flex-wrap items-center gap-2 mt-6 pt-5 border-t border-white/10 font-mono text-xs">
-            <span className="inline-flex items-center gap-1.5 bg-[#00FF88]/10 text-[#00FF88] border border-[#00FF88]/30 px-3 py-1 rounded-full font-semibold">
-              <CheckCircle2 className="w-3.5 h-3.5 text-[#00FF88]" /> Correct MCQ: +3 Marks
+          <div className="relative z-10 flex flex-wrap items-center gap-2 mt-6 pt-5 border-t border-slate-200/80 font-mono text-xs">
+            <span className="inline-flex items-center gap-1.5 bg-emerald-50 text-emerald-800 border border-emerald-200 px-3 py-1 rounded-full font-semibold">
+              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" /> Correct MCQ: +3 Marks
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-[#FF007A]/10 text-[#FF007A] border border-[#FF007A]/30 px-3 py-1 rounded-full font-semibold">
-              <X className="w-3.5 h-3.5 text-[#FF007A]" /> Wrong MCQ: −1 Mark Penalty
+            <span className="inline-flex items-center gap-1.5 bg-rose-50 text-rose-800 border border-rose-200 px-3 py-1 rounded-full font-semibold">
+              <X className="w-3.5 h-3.5 text-rose-600" /> Wrong MCQ: −1 Mark Penalty
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-[#FFD600]/10 text-[#FFD600] border border-[#FFD600]/30 px-3 py-1 rounded-full font-semibold">
-              <Sparkles className="w-3.5 h-3.5 text-[#FFD600]" /> TITA Correct: +3 Marks
+            <span className="inline-flex items-center gap-1.5 bg-amber-50 text-amber-900 border border-amber-200 px-3 py-1 rounded-full font-semibold">
+              <Sparkles className="w-3.5 h-3.5 text-amber-600" /> TITA Correct: +3 Marks
             </span>
-            <span className="inline-flex items-center gap-1.5 bg-slate-800/80 text-slate-300 border border-white/10 px-3 py-1 rounded-full font-semibold">
-              🛡️ Wrong TITA: 0 (No Negative Marking)
+            <span className="inline-flex items-center gap-1.5 bg-slate-100 text-slate-700 border border-slate-200 px-3 py-1 rounded-full font-semibold">
+              🛡️ Wrong TITA: 0 (No Penalty)
             </span>
           </div>
         </div>
 
         {/* Calculator Body */}
-        <div className="p-6 sm:p-8 md:p-10 space-y-10 bg-slate-50/40">
+        <div className="p-6 sm:p-8 md:p-10 space-y-10 bg-[#FAFBFD]">
 
           {/* STEP 1: Response Sheet Scan, Manual Input or Goal Planner Tabs */}
-          <div className="bg-white rounded-3xl p-5 sm:p-7 border border-[#061124]/10 shadow-[0_12px_32px_-16px_rgba(6,17,36,0.08)]">
+          <div className="bg-white rounded-3xl p-5 sm:p-7 border border-slate-200/80 shadow-sm">
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
               <div className="flex items-center gap-3">
-                <div className="w-9 h-9 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-black text-sm shadow-md">
+                <div className="w-9 h-9 rounded-2xl bg-blue-600 text-white flex items-center justify-center font-black text-sm shadow-sm">
                   1
                 </div>
                 <div>
-                  <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
+                  <h3 className="font-display text-base sm:text-lg font-black text-slate-900">
                     Check Response Sheet URL, Page Source or Key Attempts
                   </h3>
                   <p className="text-xs text-slate-500 font-medium">
@@ -725,14 +715,14 @@ Calculate your score with official Digialm answer key check & slot normalization
               </div>
 
               {/* Input Mode Selector */}
-              <div className="flex flex-wrap bg-slate-100/80 rounded-2xl p-1 border border-slate-200 gap-1">
+              <div className="flex flex-wrap bg-slate-100/90 rounded-2xl p-1 border border-slate-200 gap-1">
                 <button
                   type="button"
                   id="tab-url-mode"
                   onClick={() => setInputMode("url")}
                   className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "url"
-                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
+                      ? "bg-blue-600 text-white shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -744,7 +734,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                   onClick={() => setInputMode("source")}
                   className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "source"
-                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
+                      ? "bg-blue-600 text-white shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -756,7 +746,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                   onClick={() => setInputMode("manual")}
                   className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "manual"
-                      ? "bg-[#061124] text-[#00F0FF] shadow-sm font-black"
+                      ? "bg-blue-600 text-white shadow-sm font-black"
                       : "text-slate-600 hover:text-slate-900"
                   }`}
                 >
@@ -768,8 +758,8 @@ Calculate your score with official Digialm answer key check & slot normalization
                   onClick={() => setInputMode("target")}
                   className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                     inputMode === "target"
-                      ? "bg-gradient-to-r from-[#FF007A] to-[#8B5CF6] text-white font-black shadow-sm"
-                      : "text-rose-700 bg-rose-50 hover:bg-rose-100"
+                      ? "bg-gradient-to-r from-amber-600 to-indigo-600 text-white font-black shadow-sm"
+                      : "text-amber-800 bg-amber-50 hover:bg-amber-100"
                   }`}
                 >
                   🎯 %ile Goal Planner
@@ -801,13 +791,13 @@ Calculate your score with official Digialm answer key check & slot normalization
                     value={responseSheetUrl}
                     onChange={(e) => setResponseSheetUrl(e.target.value)}
                     placeholder="https://cdn.digialm.com/.../CandidateResponseSheet.html"
-                    className="flex-1 bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-sm text-slate-900 focus:outline-none focus:ring-2 focus:ring-[#00F0FF] focus:border-[#00F0FF] shadow-sm transition-all"
+                    className="flex-1 bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-sm text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow-sm transition-all"
                   />
                   <button
                     id="scan-answer-key-btn"
                     onClick={handleAnalyzeUrl}
                     disabled={isAnalyzing}
-                    className="bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] hover:opacity-95 text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-lg shadow-cyan-500/25 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-50"
+                    className="bg-blue-600 hover:bg-blue-700 text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-lg shadow-blue-500/25 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer shrink-0 disabled:opacity-50"
                   >
                     {isAnalyzing ? (
                       <>
@@ -815,7 +805,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                       </>
                     ) : (
                       <>
-                        <Zap className="w-4 h-4" /> Scan My Answer Key
+                        <Zap className="w-4 h-4 text-amber-300" /> Scan My Answer Key
                       </>
                     )}
                   </button>
@@ -842,13 +832,13 @@ Calculate your score with official Digialm answer key check & slot normalization
                   onChange={(e) => setPageSource(e.target.value)}
                   placeholder="<!DOCTYPE html><html>... paste complete HTML source code here ..."
                   rows={4}
-                  className="w-full bg-slate-50 border border-slate-300 rounded-2xl p-3.5 font-mono text-xs text-slate-800 focus:outline-none focus:ring-2 focus:ring-[#00F0FF] focus:border-[#00F0FF] shadow-sm transition-all"
+                  className="w-full bg-slate-50 border border-slate-300 rounded-2xl p-3.5 font-mono text-xs text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow-sm transition-all"
                 />
                 <button
                   id="parse-source-btn"
                   onClick={handleParseSource}
                   disabled={isParsing}
-                  className="w-full sm:w-auto bg-[#061124] hover:bg-[#070A14] text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-md transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
+                  className="w-full sm:w-auto bg-slate-900 hover:bg-slate-800 text-white font-display font-black px-7 py-3.5 rounded-2xl shadow-md transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
                 >
                   {isParsing ? "Parsing Response Source..." : "Extract & Calculate from Source"}
                 </button>
@@ -857,45 +847,45 @@ Calculate your score with official Digialm answer key check & slot normalization
 
             {/* Helper: 1-Click Console Shortcut & Bookmarklet */}
             {(inputMode === "url" || inputMode === "source") && (
-              <div className="mt-4 p-4 rounded-2xl bg-slate-900 text-slate-200 border border-slate-800 shadow-inner">
-                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-2.5 pb-2.5 border-b border-slate-800">
+              <div className="mt-4 p-4 rounded-2xl bg-slate-50 text-slate-800 border border-slate-200/90 shadow-2xs">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-2.5 pb-2.5 border-b border-slate-200">
                   <div className="flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-[#00FF88] animate-ping" />
-                    <span className="font-bold text-white text-xs flex items-center gap-1.5 font-mono uppercase tracking-wider">
-                      <Terminal className="w-3.5 h-3.5 text-[#00F0FF]" />
+                    <span className="w-2 h-2 rounded-full bg-emerald-600 animate-ping" />
+                    <span className="font-bold text-slate-900 text-xs flex items-center gap-1.5 font-mono uppercase tracking-wider">
+                      <Terminal className="w-3.5 h-3.5 text-blue-600" />
                       Fast Shortcut: 1-Click Console Auto-Copy
                     </span>
                   </div>
                   <button
                     type="button"
                     onClick={handleCopyConsoleCode}
-                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/20 active:scale-95 text-white text-xs font-semibold transition-all cursor-pointer shrink-0 border border-white/15"
+                    className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white hover:bg-slate-100 active:scale-95 text-slate-800 text-xs font-semibold transition-all cursor-pointer shrink-0 border border-slate-200 shadow-2xs"
                   >
                     {consoleCodeCopied ? (
                       <>
-                        <Check className="w-3.5 h-3.5 text-[#00FF88]" />
-                        <span className="text-[#00FF88] font-bold">Script Copied!</span>
+                        <Check className="w-3.5 h-3.5 text-emerald-600" />
+                        <span className="text-emerald-700 font-bold">Script Copied!</span>
                       </>
                     ) : (
                       <>
-                        <Copy className="w-3.5 h-3.5 text-[#00F0FF]" />
+                        <Copy className="w-3.5 h-3.5 text-blue-600" />
                         <span>Copy 1-Click Script</span>
                       </>
                     )}
                   </button>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-[11px] text-slate-300">
-                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
-                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">1</span>
-                    <span>Open response sheet on <strong>digialm.com</strong> and press <kbd className="bg-slate-800 px-1 py-0.5 rounded text-[10px] text-white font-mono">F12</kbd> (or Inspect → Console).</span>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-[11px] text-slate-600">
+                  <div className="flex items-start gap-2 bg-white p-2.5 rounded-xl border border-slate-200">
+                    <span className="w-4 h-4 rounded-full bg-blue-100 text-blue-700 flex items-center justify-center font-bold shrink-0 text-[10px]">1</span>
+                    <span>Open response sheet on <strong>digialm.com</strong> and press <kbd className="bg-slate-100 border border-slate-200 px-1 py-0.5 rounded text-[10px] text-slate-800 font-mono">F12</kbd> (Console).</span>
                   </div>
-                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
-                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">2</span>
+                  <div className="flex items-start gap-2 bg-white p-2.5 rounded-xl border border-slate-200">
+                    <span className="w-4 h-4 rounded-full bg-blue-100 text-blue-700 flex items-center justify-center font-bold shrink-0 text-[10px]">2</span>
                     <span>Click <strong>Copy 1-Click Script</strong> above, paste in Console &amp; hit <strong>Enter</strong>.</span>
                   </div>
-                  <div className="flex items-start gap-2 bg-slate-950/60 p-2.5 rounded-xl border border-white/5">
-                    <span className="w-4 h-4 rounded-full bg-cyan-500/20 text-[#00F0FF] flex items-center justify-center font-bold shrink-0 text-[10px]">3</span>
-                    <span>Switch to <strong>HTML Source</strong> tab here, press <kbd className="bg-slate-800 px-1 py-0.5 rounded text-[10px] text-white font-mono">Ctrl+V</kbd> &amp; calculate!</span>
+                  <div className="flex items-start gap-2 bg-white p-2.5 rounded-xl border border-slate-200">
+                    <span className="w-4 h-4 rounded-full bg-blue-100 text-blue-700 flex items-center justify-center font-bold shrink-0 text-[10px]">3</span>
+                    <span>Switch to <strong>HTML Source</strong> tab here, press <kbd className="bg-slate-100 border border-slate-200 px-1 py-0.5 rounded text-[10px] text-slate-800 font-mono">Ctrl+V</kbd> &amp; calculate!</span>
                   </div>
                 </div>
               </div>
@@ -903,8 +893,8 @@ Calculate your score with official Digialm answer key check & slot normalization
 
             {/* Method C: Manual Entry Hint */}
             {inputMode === "manual" && (
-              <div className="p-4 bg-cyan-50 border border-cyan-200 rounded-2xl text-xs text-cyan-900 font-medium flex items-center gap-3 animate-in fade-in duration-300">
-                <Sparkles className="w-4 h-4 text-cyan-600 shrink-0" />
+              <div className="p-4 bg-blue-50 border border-blue-200 rounded-2xl text-xs text-blue-900 font-medium flex items-center gap-3 animate-in fade-in duration-300">
+                <Sparkles className="w-4 h-4 text-blue-600 shrink-0" />
                 <span>
                   Direct Section Mode active. Select each section tab below (VARC, DILR, QA) to key in your correct and incorrect attempts.
                 </span>
@@ -918,7 +908,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                   <span className="text-xs font-mono font-bold text-slate-700 uppercase tracking-wider">
                     Select Your Dream Percentile Target:
                   </span>
-                  <span className="text-xs font-black text-rose-700 bg-rose-100 px-3 py-0.5 rounded-full">
+                  <span className="text-xs font-black text-indigo-700 bg-indigo-50 border border-indigo-200 px-3 py-0.5 rounded-full">
                     {activeTargetPlan.percentile} Goal
                   </span>
                 </div>
@@ -932,8 +922,8 @@ Calculate your score with official Digialm answer key check & slot normalization
                       onClick={() => setSelectedTargetIndex(idx)}
                       className={`p-2.5 rounded-2xl text-xs font-bold transition-all text-center cursor-pointer border ${
                         selectedTargetIndex === idx
-                          ? "bg-[#061124] text-[#00F0FF] border-[#061124] shadow-md font-black"
-                          : "bg-white text-slate-700 border-slate-200 hover:bg-slate-100"
+                          ? "bg-blue-600 text-white border-blue-600 shadow-sm font-black"
+                          : "bg-white text-slate-700 border-slate-200 hover:bg-slate-50"
                       }`}
                     >
                       {plan.percentile}
@@ -942,10 +932,10 @@ Calculate your score with official Digialm answer key check & slot normalization
                 </div>
 
                 {/* Target Strategy Card */}
-                <div className="p-5 sm:p-6 rounded-3xl bg-slate-50 border border-slate-200/90 shadow-sm space-y-4">
+                <div className="p-5 sm:p-6 rounded-3xl bg-slate-50 border border-slate-200 shadow-sm space-y-4">
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-200 pb-3">
                     <div>
-                      <span className="text-base sm:text-lg font-display font-black text-[#061124]">
+                      <span className="text-base sm:text-lg font-display font-black text-slate-900">
                         Target Raw Score Needed: {activeTargetPlan.rawScoreNeeded}
                       </span>
                       <p className="text-xs text-slate-600 font-medium">{activeTargetPlan.desc}</p>
@@ -956,19 +946,19 @@ Calculate your score with official Digialm answer key check & slot normalization
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
-                    <div className="bg-[#8B5CF6]/10 p-3.5 rounded-2xl border border-[#8B5CF6]/20">
-                      <span className="text-[11px] font-mono font-bold text-[#8B5CF6] uppercase block">VARC Attempt Strategy</span>
+                    <div className="bg-indigo-50 p-3.5 rounded-2xl border border-indigo-200/80">
+                      <span className="text-[11px] font-mono font-bold text-indigo-700 uppercase block">VARC Attempt Strategy</span>
                       <span className="text-base font-black text-slate-900">{activeTargetPlan.varcTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">3 RCs + 4-5 VA Qs</span>
                     </div>
 
-                    <div className="bg-[#00F0FF]/10 p-3.5 rounded-2xl border border-[#00F0FF]/20">
-                      <span className="text-[11px] font-mono font-bold text-[#0EA5E9] uppercase block">DILR Attempt Strategy</span>
+                    <div className="bg-sky-50 p-3.5 rounded-2xl border border-sky-200/80">
+                      <span className="text-[11px] font-mono font-bold text-sky-700 uppercase block">DILR Attempt Strategy</span>
                       <span className="text-base font-black text-slate-900">{activeTargetPlan.dilrTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">2 Full Sets with 100% Accuracy</span>
                     </div>
 
-                    <div className="bg-[#00FF88]/10 p-3.5 rounded-2xl border border-[#00FF88]/20">
+                    <div className="bg-emerald-50 p-3.5 rounded-2xl border border-emerald-200/80">
                       <span className="text-[11px] font-mono font-bold text-emerald-700 uppercase block">QA Attempt Strategy</span>
                       <span className="text-base font-black text-slate-900">{activeTargetPlan.qaTarget}</span>
                       <span className="text-[10px] text-slate-500 block mt-0.5">Arithmetic + Algebra Core</span>
@@ -976,7 +966,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                   </div>
 
                   <div className="text-xs font-bold text-slate-800 pt-1 flex items-center gap-1.5">
-                    <Building2 className="w-4 h-4 text-[#F59E0B] shrink-0" />
+                    <Building2 className="w-4 h-4 text-amber-600 shrink-0" />
                     <span>Expected Shortlists: <span className="text-amber-800 font-extrabold">{activeTargetPlan.iimCall}</span></span>
                   </div>
                 </div>
@@ -1033,11 +1023,11 @@ Calculate your score with official Digialm answer key check & slot normalization
           {/* STEP 2: Sectional Tabs & Input Fields */}
           <div>
             <div className="flex items-center gap-3 mb-5">
-              <div className="w-9 h-9 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-black text-sm shadow-md">
+              <div className="w-9 h-9 rounded-2xl bg-blue-600 text-white flex items-center justify-center font-black text-sm shadow-sm">
                 2
               </div>
               <div>
-                <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
+                <h3 className="font-display text-base sm:text-lg font-black text-slate-900">
                   Enter Section Attempts (VARC · DILR · QA)
                 </h3>
                 <p className="text-xs text-slate-500 font-medium">
@@ -1059,25 +1049,25 @@ Calculate your score with official Digialm answer key check & slot normalization
                     onClick={() => setActiveTab(s.key as SectionKey)}
                     className={`p-3.5 sm:p-5 rounded-3xl border text-left transition-all cursor-pointer ${
                       isActive
-                        ? "bg-[#061124] text-white border-[#061124] shadow-[0_18px_40px_-15px_rgba(6,17,36,0.4)]"
+                        ? "bg-blue-50/90 text-blue-950 border-2 border-blue-600 shadow-sm"
                         : "bg-white text-slate-700 border-slate-200 hover:border-slate-300 hover:bg-slate-50/50"
                     }`}
                   >
                     <div className="flex items-center justify-between">
-                      <span className={`text-xs sm:text-sm font-display font-black uppercase ${isActive ? "text-[#00F0FF]" : "text-slate-900"}`}>
+                      <span className={`text-xs sm:text-sm font-display font-black uppercase ${isActive ? "text-blue-700" : "text-slate-900"}`}>
                         {s.label}
                       </span>
                       <span className={`text-[10px] font-mono font-bold px-2 py-0.5 rounded-full ${
-                        isActive ? "bg-white/15 text-white border border-white/20" : "bg-slate-100 text-slate-600"
+                        isActive ? "bg-blue-100 text-blue-800" : "bg-slate-100 text-slate-600"
                       }`}>
                         Max {s.maxScore}M
                       </span>
                     </div>
                     <div className="mt-1 flex items-baseline gap-1">
-                      <span className={`text-xl sm:text-3xl font-black ${isActive ? "text-white" : "text-slate-800"}`}>
+                      <span className={`text-xl sm:text-3xl font-black ${isActive ? "text-blue-950" : "text-slate-800"}`}>
                         {sRaw}
                       </span>
-                      <span className={`text-[11px] font-medium ${isActive ? "text-slate-300" : "text-slate-400"}`}>
+                      <span className={`text-[11px] font-medium ${isActive ? "text-blue-700" : "text-slate-400"}`}>
                         marks
                       </span>
                     </div>
@@ -1087,14 +1077,14 @@ Calculate your score with official Digialm answer key check & slot normalization
             </div>
 
             {/* Active Section Inputs Box */}
-            <div className="bg-white border-[1.5px] border-[#061124]/10 rounded-[32px] p-5 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.08)]">
+            <div className="bg-white border border-slate-200/90 rounded-[32px] p-5 sm:p-8 shadow-sm">
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6 pb-4 border-b border-slate-200">
                 <div>
                   <div className="flex items-center gap-2">
-                    <span className={`text-xs font-mono font-bold px-3 py-1 rounded-full border ${currentSection.badgeColor}`}>
+                    <span className="text-xs font-mono font-bold px-3 py-1 rounded-full border bg-blue-50 text-blue-700 border-blue-200">
                       {currentSection.label}
                     </span>
-                    <h4 className="text-base sm:text-lg font-display font-black text-[#061124]">
+                    <h4 className="text-base sm:text-lg font-display font-black text-slate-900">
                       {currentSection.fullName}
                     </h4>
                   </div>
@@ -1102,15 +1092,15 @@ Calculate your score with official Digialm answer key check & slot normalization
                     {currentSection.totalMcq + currentSection.totalTita} Questions total ({currentSection.totalMcq} MCQs + {currentSection.totalTita} TITAs)
                   </p>
                 </div>
-                <div className="inline-flex items-center gap-1.5 text-xs font-mono font-bold text-slate-600 bg-slate-100 px-3.5 py-1.5 rounded-2xl border border-slate-200 shadow-sm self-start sm:self-auto">
-                  <Clock className="w-3.5 h-3.5 text-slate-400" /> 40 Minutes Sectional Limit
+                <div className="inline-flex items-center gap-1.5 text-xs font-mono font-bold text-slate-600 bg-slate-100 px-3.5 py-1.5 rounded-2xl border border-slate-200 shadow-2xs self-start sm:self-auto">
+                  <Clock className="w-3.5 h-3.5 text-slate-500" /> 40 Minutes Sectional Limit
                 </div>
               </div>
 
               {/* 3 Input Cards */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
                 {/* Correct MCQ */}
-                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-2xs space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`correct-mcq-${activeTab}`}
@@ -1138,7 +1128,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                 </div>
 
                 {/* Wrong MCQ */}
-                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-2xs space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`wrong-mcq-${activeTab}`}
@@ -1146,7 +1136,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     >
                       Wrong MCQs
                     </label>
-                    <span className="text-[10px] font-mono font-bold text-[#FF007A] bg-rose-50 px-2 py-0.5 rounded-full border border-rose-200">
+                    <span className="text-[10px] font-mono font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded-full border border-rose-200">
                       −1 Penalty
                     </span>
                   </div>
@@ -1158,7 +1148,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     value={currentInput.wrongMcq}
                     onChange={(e) => updateInput(activeTab, "wrongMcq", e.target.value)}
                     placeholder="0"
-                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-[#FF007A] focus:outline-none focus:ring-2 focus:ring-rose-500/50 focus:border-rose-500 transition-all text-center"
+                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-500/50 focus:border-rose-500 transition-all text-center"
                   />
                   <div className="text-[11px] text-slate-500 text-center font-medium">
                     Max: {currentSection.totalMcq} MCQs
@@ -1166,7 +1156,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                 </div>
 
                 {/* Correct TITA */}
-                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-sm space-y-2">
+                <div className="bg-slate-50/70 p-5 rounded-2xl border border-slate-200/80 shadow-2xs space-y-2">
                   <div className="flex items-center justify-between">
                     <label
                       htmlFor={`correct-tita-${activeTab}`}
@@ -1174,7 +1164,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     >
                       Correct TITA
                     </label>
-                    <span className="text-[10px] font-mono font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
+                    <span className="text-[10px] font-mono font-bold text-amber-800 bg-amber-50 px-2 py-0.5 rounded-full border border-amber-200">
                       +3 / 0 Neg
                     </span>
                   </div>
@@ -1186,7 +1176,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     value={currentInput.correctTita}
                     onChange={(e) => updateInput(activeTab, "correctTita", e.target.value)}
                     placeholder="0"
-                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-[#F59E0B]/50 focus:border-[#F59E0B] transition-all text-center"
+                    className="w-full bg-white border border-slate-200 rounded-2xl px-4 py-3 text-2xl font-black text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500 transition-all text-center"
                   />
                   <div className="text-[11px] text-slate-500 text-center font-medium">
                     Max: {currentSection.totalTita} Non-MCQs
@@ -1195,9 +1185,9 @@ Calculate your score with official Digialm answer key check & slot normalization
               </div>
 
               {/* Section Score Live Pill */}
-              <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 bg-slate-50 p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-sm">
+              <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 bg-slate-50 p-4 sm:p-5 rounded-2xl border border-slate-200 shadow-2xs">
                 <div className="flex items-center gap-3">
-                  <div className={`w-3 h-3 rounded-full ${currentSection.accentBg}`} />
+                  <div className="w-3 h-3 rounded-full bg-blue-600" />
                   <div>
                     <span className="text-xs font-bold text-slate-900 block">
                       {currentSection.label} Current Raw Score
@@ -1233,7 +1223,7 @@ Calculate your score with official Digialm answer key check & slot normalization
               <button
                 id="see-results-btn"
                 onClick={() => setShowLeadForm(true)}
-                className="w-full sm:w-auto bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white font-display font-black px-8 py-4 rounded-full shadow-[0_20px_50px_-15px_rgba(0,240,255,0.4)] hover:scale-105 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
+                className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white font-display font-black px-8 py-4 rounded-full shadow-lg shadow-blue-500/25 hover:scale-105 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
               >
                 <Lock className="w-4 h-4" /> Unlock Full Score, Percentile &amp; IIM Calls
               </button>
@@ -1242,16 +1232,16 @@ Calculate your score with official Digialm answer key check & slot normalization
 
           {/* Lead Gate Modal / Drawer */}
           {showLeadForm && !isUnlocked && (
-            <div className="relative bg-[#070A14] text-white p-6 sm:p-8 rounded-[32px] border border-white/20 shadow-2xl animate-in zoom-in-95 duration-300">
+            <div className="relative bg-white text-slate-900 p-6 sm:p-8 rounded-[32px] border-2 border-blue-500 shadow-2xl animate-in zoom-in-95 duration-300">
               <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 rounded-2xl bg-[#00FF88]/20 flex items-center justify-center text-[#00FF88]">
-                  <Zap className="w-5 h-5 animate-pulse" />
+                <div className="w-10 h-10 rounded-2xl bg-blue-50 border border-blue-200 flex items-center justify-center text-blue-600">
+                  <Zap className="w-5 h-5" />
                 </div>
                 <div>
-                  <h3 className="font-display text-lg sm:text-xl font-black text-white">
+                  <h3 className="font-display text-lg sm:text-xl font-black text-slate-950">
                     Unlock Your CAT 2026 Score, Percentile &amp; IIM Call Predictor
                   </h3>
-                  <p className="text-xs text-slate-300 mt-0.5">
+                  <p className="text-xs text-slate-600 mt-0.5">
                     Instant sectional breakdown + Free 2027 MBA admission eligibility report.
                   </p>
                 </div>
@@ -1266,7 +1256,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     placeholder="Full Name"
                     value={leadData.name}
                     onChange={(e) => setLeadData({ ...leadData, name: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-slate-900 placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500"
                   />
                   <input
                     required
@@ -1275,7 +1265,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     placeholder="WhatsApp Number (for call updates)"
                     value={leadData.number}
                     onChange={(e) => setLeadData({ ...leadData, number: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-slate-900 placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500"
                   />
                   <input
                     required
@@ -1284,7 +1274,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     placeholder="Email Address"
                     value={leadData.email}
                     onChange={(e) => setLeadData({ ...leadData, email: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-slate-900 placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500"
                   />
                   <input
                     required
@@ -1293,7 +1283,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     placeholder="Current City / State (e.g. Delhi, Mumbai, Pune)"
                     value={leadData.location}
                     onChange={(e) => setLeadData({ ...leadData, location: e.target.value })}
-                    className="w-full bg-white/10 border border-white/20 rounded-2xl px-4 py-3.5 font-medium text-white placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-[#00F0FF]"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-2xl px-4 py-3.5 font-medium text-slate-900 placeholder:text-slate-400 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500"
                   />
                 </div>
 
@@ -1301,14 +1291,14 @@ Calculate your score with official Digialm answer key check & slot normalization
                   <button
                     type="submit"
                     id="reveal-score-btn"
-                    className="flex-1 bg-gradient-to-r from-[#00F0FF] via-[#6366F1] to-[#FF007A] text-white font-display font-black py-4 rounded-full shadow-lg active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
+                    className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-display font-black py-4 rounded-full shadow-lg shadow-blue-500/25 active:scale-95 transition-all text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
                   >
                     Reveal My Predicted CAT Score &amp; Percentile <ChevronRight className="w-4 h-4" />
                   </button>
                   <button
                     type="button"
                     onClick={() => setShowLeadForm(false)}
-                    className="text-xs font-bold text-slate-400 hover:text-white px-5 py-3 transition-colors cursor-pointer text-center"
+                    className="text-xs font-bold text-slate-500 hover:text-slate-900 px-5 py-3 transition-colors cursor-pointer text-center"
                   >
                     Cancel
                   </button>
@@ -1321,16 +1311,16 @@ Calculate your score with official Digialm answer key check & slot normalization
           {isUnlocked && (
             <div className="space-y-8 animate-in fade-in duration-500">
               
-              {/* Overall Score Master Banner */}
-              <div className="relative bg-[#070A14] text-white p-6 sm:p-8 md:p-10 rounded-[32px] sm:rounded-[40px] border border-cyan-400/40 shadow-[0_34px_70px_-30px_rgba(0,240,255,0.3)] overflow-hidden">
+              {/* Overall Score Master Banner (Clean Premium Royal Indigo Card) */}
+              <div className="relative bg-gradient-to-br from-blue-700 via-indigo-700 to-indigo-800 text-white p-6 sm:p-8 md:p-10 rounded-[32px] sm:rounded-[40px] shadow-xl shadow-indigo-600/20 overflow-hidden">
                 <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none">
-                  <Trophy className="w-56 h-56 text-[#00F0FF]" />
+                  <Trophy className="w-56 h-56 text-white" />
                 </div>
 
                 <div className="relative z-10">
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
-                    <div className="flex items-center gap-2 text-[#00FF88] text-xs font-mono font-bold uppercase tracking-widest">
-                      <Sparkles className="w-4 h-4 text-[#00FF88]" />
+                    <div className="flex items-center gap-2 text-emerald-300 text-xs font-mono font-bold uppercase tracking-widest">
+                      <Sparkles className="w-4 h-4 text-emerald-300" />
                       Predicted CAT Result (MBA 2027 Batch)
                     </div>
                     <div className="flex items-center gap-2">
@@ -1352,15 +1342,15 @@ Calculate your score with official Digialm answer key check & slot normalization
                       <button
                         type="button"
                         onClick={handleCopyResults}
-                        className="inline-flex items-center gap-1.5 bg-white/10 hover:bg-white/20 border border-white/15 px-3.5 py-1.5 rounded-full text-xs font-bold text-white transition-all cursor-pointer"
+                        className="inline-flex items-center gap-1.5 bg-white/15 hover:bg-white/25 border border-white/20 px-3.5 py-1.5 rounded-full text-xs font-bold text-white transition-all cursor-pointer"
                       >
                         {copied ? (
                           <>
-                            <Check className="w-3.5 h-3.5 text-[#00FF88]" /> Copied!
+                            <Check className="w-3.5 h-3.5 text-emerald-300" /> Copied!
                           </>
                         ) : (
                           <>
-                            <Copy className="w-3.5 h-3.5 text-[#00F0FF]" /> Copy Summary
+                            <Copy className="w-3.5 h-3.5 text-white" /> Copy Summary
                           </>
                         )}
                       </button>
@@ -1368,18 +1358,18 @@ Calculate your score with official Digialm answer key check & slot normalization
                   </div>
 
                   <div className="flex flex-wrap items-baseline gap-4 mb-8">
-                    <span className="text-6xl sm:text-8xl font-display font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-100 to-cyan-300">
+                    <span className="text-6xl sm:text-8xl font-display font-black text-white">
                       {stats.totalRaw}
                     </span>
-                    <span className="text-lg sm:text-2xl font-bold text-slate-400">
+                    <span className="text-lg sm:text-2xl font-bold text-indigo-200">
                       / {stats.maxTotal} marks raw
                     </span>
                   </div>
 
                   {/* 3 Result Metric Cards */}
                   <div className="grid grid-cols-1 sm:grid-cols-3 gap-3.5">
-                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00FF88] block mb-1">
+                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-emerald-300 block mb-1">
                         Expected Percentile
                       </span>
                       <span className="text-2xl sm:text-3xl font-display font-black text-white">
@@ -1387,8 +1377,8 @@ Calculate your score with official Digialm answer key check & slot normalization
                       </span>
                     </div>
 
-                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#00F0FF] block mb-1">
+                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-sky-200 block mb-1">
                         Estimated Scaled Score
                       </span>
                       <span className="text-2xl sm:text-3xl font-display font-black text-white">
@@ -1396,8 +1386,8 @@ Calculate your score with official Digialm answer key check & slot normalization
                       </span>
                     </div>
 
-                    <div className="bg-white/10 backdrop-blur-xl p-4 rounded-2xl border border-white/15">
-                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-[#FFD600] block mb-1">
+                    <div className="bg-white/10 backdrop-blur-md p-4 rounded-2xl border border-white/15">
+                      <span className="text-[11px] font-mono font-bold uppercase tracking-wider text-amber-300 block mb-1">
                         Slot Equated
                       </span>
                       <span className="text-lg sm:text-xl font-display font-black text-white uppercase">
@@ -1415,14 +1405,14 @@ Calculate your score with official Digialm answer key check & slot normalization
               </div>
 
               {/* Dynamic Target College Recommendations */}
-              <div className="bg-white border-[1.5px] border-[#061124]/10 rounded-[32px] p-6 sm:p-8 shadow-[0_18px_44px_-22px_rgba(6,17,36,0.1)]">
+              <div className="bg-white border border-slate-200/90 rounded-[32px] p-6 sm:p-8 shadow-sm">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-2xl bg-[#061124] text-[#00F0FF] flex items-center justify-center font-bold">
+                    <div className="w-10 h-10 rounded-2xl bg-blue-50 border border-blue-200 text-blue-600 flex items-center justify-center font-bold">
                       <Building2 className="w-5 h-5" />
                     </div>
                     <div>
-                      <h3 className="font-display text-base sm:text-lg font-black text-[#061124]">
+                      <h3 className="font-display text-base sm:text-lg font-black text-slate-900">
                         Eligible B-Schools For Your Score Band (~{stats.overallPercentile}+ %ile)
                       </h3>
                       <p className="text-xs text-slate-600 font-medium">
@@ -1439,9 +1429,9 @@ Calculate your score with official Digialm answer key check & slot normalization
                   {stats.recommendedColleges.colleges.map((col, idx) => (
                     <div
                       key={idx}
-                      className="bg-slate-50 p-3.5 rounded-2xl border border-slate-200 text-xs font-bold text-slate-800 flex items-center gap-2 shadow-sm hover:border-cyan-400 transition-colors"
+                      className="bg-slate-50 p-3.5 rounded-2xl border border-slate-200 text-xs font-bold text-slate-800 flex items-center gap-2 shadow-2xs hover:border-blue-400 hover:bg-blue-50/40 transition-colors"
                     >
-                      <Sparkles className="w-3.5 h-3.5 text-[#00F0FF] shrink-0" />
+                      <Sparkles className="w-3.5 h-3.5 text-blue-600 shrink-0" />
                       <span className="truncate">{col}</span>
                     </div>
                   ))}
@@ -1450,19 +1440,19 @@ Calculate your score with official Digialm answer key check & slot normalization
                 <div className="flex flex-wrap gap-4 pt-4 border-t border-slate-200 text-xs font-bold">
                   <Link
                     href="/colleges/"
-                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
+                    className="text-blue-600 hover:text-blue-800 underline underline-offset-4 flex items-center gap-1"
                   >
                     Explore Complete 770+ College Directory →
                   </Link>
                   <Link
                     href="/top-tier-mba-colleges/"
-                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
+                    className="text-blue-600 hover:text-blue-800 underline underline-offset-4 flex items-center gap-1"
                   >
                     View Top Tier MBA Rankings →
                   </Link>
                   <Link
                     href="/tools/college-comparison/"
-                    className="text-[#2563EB] hover:text-[#1D4ED8] underline underline-offset-4 flex items-center gap-1"
+                    className="text-blue-600 hover:text-blue-800 underline underline-offset-4 flex items-center gap-1"
                   >
                     Compare College Fees &amp; Placements →
                   </Link>
@@ -1503,10 +1493,10 @@ Calculate your score with official Digialm answer key check & slot normalization
                 </div>
               </div>
 
-              {/* High-Converting 1-on-1 Advisory CTA Matching Home Page */}
-              <div className="bg-gradient-to-r from-[#061124] via-[#1E40AF] to-[#0D9488] rounded-[32px] p-7 sm:p-9 text-white flex flex-col sm:flex-row items-center justify-between gap-6 shadow-[0_34px_70px_-30px_rgba(37,99,235,0.45)]">
+              {/* High-Converting 1-on-1 Advisory CTA */}
+              <div className="bg-gradient-to-r from-blue-700 via-indigo-700 to-indigo-800 rounded-[32px] p-7 sm:p-9 text-white flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl shadow-indigo-600/20">
                 <div>
-                  <span className="text-[11px] font-mono font-bold uppercase tracking-widest text-[#00FF88] bg-white/10 px-3 py-1 rounded-full inline-block mb-2 border border-white/15">
+                  <span className="text-[11px] font-mono font-bold uppercase tracking-widest text-emerald-300 bg-white/10 px-3 py-1 rounded-full inline-block mb-2 border border-white/15">
                     Free 1-on-1 Profile Assessment
                   </span>
                   <h3 className="font-display text-xl sm:text-2xl font-black tracking-tight leading-tight">
@@ -1519,7 +1509,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                 <div className="flex flex-col sm:flex-row gap-3 shrink-0">
                   <Link
                     href="/book-session/"
-                    className="px-6 py-3.5 rounded-full bg-[#F59E0B] hover:bg-[#fbbf24] text-[#061124] font-display font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
+                    className="px-6 py-3.5 rounded-full bg-amber-400 hover:bg-amber-300 text-slate-950 font-display font-extrabold text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-1.5"
                   >
                     <span>Book Google Meet</span>
                     <ArrowRight className="w-4 h-4" />
@@ -1530,7 +1520,7 @@ Calculate your score with official Digialm answer key check & slot normalization
                     rel="noopener noreferrer"
                     className="px-5 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/25 text-white font-bold text-xs uppercase tracking-wider transition-all text-center flex items-center justify-center gap-1.5"
                   >
-                    <MessageCircle className="w-4 h-4 text-[#00FF88]" />
+                    <MessageCircle className="w-4 h-4 text-emerald-300" />
                     <span>WhatsApp</span>
                   </a>
                 </div>

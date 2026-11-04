@@ -1,26 +1,19 @@
 ---
-title: 'CAT 2026 Score Calculator: Marks vs Percentile & Scaled Score Predictor'
+title: 'CAT 2026 Marks vs Percentile Analysis: Raw Score to Scaled Percentile Guide'
 date: '2026-06-28'
 category: Exams
 description: >-
-  Free CAT 2026 Score Calculator & Marks vs Percentile Predictor. Calculate raw
-  marks out of 198, slot scaled score across Slot 1, 2 & 3.
+  Detailed CAT 2026 marks vs percentile analysis. Understand raw scores out of 198, slot difficulty scaling across Slot 1, 2, 3, and sectional IIM cut-offs.
 keywords:
-  - CAT 2026 score calculator
-  - CAT score calculator 2026
   - CAT marks vs percentile 2026
-  - CAT raw score vs scaled score
+  - CAT 2026 raw score vs scaled score
+  - CAT score calculator 2026
   - CAT percentile predictor 2026
-  - CAT response sheet calculator
+  - CAT slot normalization 2026
+  - expected CAT score for 99 percentile
+  - expected CAT score for 95 percentile
   - CAT answer key 2026
-  - CAT exam score calculator
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
+  - IIM admission cut-offs 2027
 faqs:
   - question: How is the CAT 2026 raw score calculated?
     answer: >-
@@ -53,13 +46,11 @@ Since CAT uses a multi-slot system with varying difficulty levels across Slot 1,
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for 🧮 How to Use the CAT 2026 Score Calculator?
+## 🧮 How to Calculate Your CAT 2026 Score & Percentile Online
 
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+Candidates can easily calculate their exact raw marks, apply slot normalization, and forecast eligible IIM call ranges using our interactive **CAT Score Calculator 2026**.
 
-
-
-Our online tool is built using the exact rotational evaluation algorithms of past CAT trends. Follow these simple steps to calculate your scores:
+Our online tool is built using official IIM normalization formulas and multi-year score trends. Follow these simple steps:
 
 1. **Paste Response Sheet Link:** Paste your official URL from `cdn.digialm.com` or `iimcat.ac.in` in Step 1 to automatically parse all attempts.
 2. **Or Select Section Tabs:** Click on the tabs for **VARC**, **DILR**, or **QA** depending on which section you want to calculate manually.

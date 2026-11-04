@@ -40,7 +40,7 @@ const ROTATING_PLACEHOLDERS = [
 const TRENDING_SEARCHES = [
   { label: "Top MBA Colleges in Delhi NCR", href: "/colleges/mba-colleges-delhi-ncr", icon: "🏛️", badge: "Hot" },
   { label: "Top 20 IIMs & XLRI Cutoffs", href: "/top-tier-mba-colleges?tab=iim", icon: "🏆", badge: "Tier-1" },
-  { label: "CAT 2026 Score Calculator", href: "/tools/cat-score-calculator", icon: "📊", badge: "AI Tool" },
+  { label: "CAT Score Calculator 2026", href: "/tools/cat-score-calculator/", icon: "📊", badge: "AI Tool" },
   { label: "MBA Form Combo Discounts (Save ₹5k+)", href: "/mba-application-form-discount", icon: "💰", badge: "Save ₹" },
   { label: "Top MBA Colleges in Pune", href: "/colleges/mba-colleges-pune", icon: "📍" },
   { label: "Top Engineering Colleges in Delhi", href: "/colleges/top-engineering-colleges-in-delhi", icon: "⚡" },
@@ -51,7 +51,7 @@ const TRENDING_SEARCHES = [
 // Quick Portal Tools for search modal
 const QUICK_PORTAL_TOOLS = [
   { label: "MBA Direct Admission 2027", href: "/mba-pgdm-admission-2027", icon: GraduationCap, color: "text-amber-600 bg-amber-50" },
-  { label: "CAT / MAT Score Predictor", href: "/tools/cat-score-calculator", icon: Calculator, color: "text-blue-600 bg-blue-50" },
+  { label: "CAT Score Calculator 2026", href: "/tools/cat-score-calculator/", icon: Calculator, color: "text-blue-600 bg-blue-50" },
   { label: "MBA Form Discount Bundle", href: "/mba-application-form-discount", icon: Percent, color: "text-emerald-600 bg-emerald-50" },
   { label: "Free ATS Resume Builder", href: "/tools/ats-resume-builder", icon: FileText, color: "text-purple-600 bg-purple-50" },
 ];
@@ -180,7 +180,7 @@ function SearchInputInner({
 
     // 2. Match Tools / Calculators / Mock Tests
     const TOOL_KEYWORDS = [
-      { name: "CAT 2026 Score & Percentile Calculator", href: "/tools/cat-score-calculator", keywords: ["cat", "percentile", "calculator", "score"] },
+      { name: "CAT Score Calculator 2026", href: "/tools/cat-score-calculator/", keywords: ["cat", "percentile", "calculator", "score", "2026", "response sheet"] },
       { name: "MBA Application Form Discount Calculator", href: "/mba-application-form-discount", keywords: ["discount", "form", "combo", "application", "save"] },
       { name: "Free CBT Mock Test Series (50+ Tests)", href: "/mock-tests", keywords: ["mock", "test", "cbt", "xat", "cat", "mat", "nmat", "snap"] },
       { name: "Free ATS Resume Builder for Placements", href: "/tools/ats-resume-builder", keywords: ["resume", "ats", "builder", "cv", "placement"] },

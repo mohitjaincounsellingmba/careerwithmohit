@@ -74,7 +74,7 @@ export function Footer() {
     tools: [
       { name: 'Free CBT Mock Test Hub', href: '/mock-tests/', badge: 'Free' },
       { name: 'MBA Form Discount Calculator', href: '/mba-application-form-discount/' },
-      { name: 'CAT 2026 Score & Percentile Calculator', href: '/tools/cat-score-calculator/' },
+      { name: 'CAT Score Calculator 2026', href: '/tools/cat-score-calculator/' },
       { name: 'XAT 2027 Cutoff Predictor', href: '/tools/xat-score-calculator-2027/' },
       { name: 'MAT Score Calculator', href: '/tools/mat-score-calculator/' },
       { name: 'Free ATS Resume Builder', href: '/tools/ats-resume-builder/', badge: 'Tool' },

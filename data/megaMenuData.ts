@@ -171,7 +171,7 @@ export const MEGA_MENU_DATA: MegaMenuItem[] = [
         label: 'CAT Percentile Predictor',
         iconName: 'Calculator',
         links: [
-          { title: 'CAT 2026 Score & Percentile Calculator', href: '/tools/cat-score-calculator/', badge: 'Popular' },
+          { title: 'CAT Score Calculator 2026', href: '/tools/cat-score-calculator/', badge: 'Popular' },
           { title: 'MAT Scaled Score Calculator (Out of 800)', href: '/tools/mat-score-calculator/' },
           { title: 'XAT Score & Percentile Predictor', href: '/tools/xat-score-calculator-2027/' },
           { title: 'MBA Form Combo Discount Calculator', href: '/mba-application-form-discount/', badge: 'Save ₹5k+' },

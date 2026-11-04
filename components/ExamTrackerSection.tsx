@@ -288,8 +288,9 @@ export function ExamTrackerSection() {
                     <Link
                       href={exam.calcHref}
                       className="flex-1 py-1.5 px-2 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 text-center text-[11px] font-bold transition-colors"
+                      title={exam.id === "cat" ? "CAT Score Calculator 2026" : `${exam.name} Score Calculator`}
                     >
-                      📊 Score Calculator
+                      📊 {exam.id === "cat" ? "CAT Score Calculator 2026" : "Score Calculator"}
                     </Link>
                   ) : null}
                   <Link

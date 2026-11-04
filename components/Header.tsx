@@ -283,10 +283,10 @@ export function Header() {
                 <Link
                   href="/tools/cat-score-calculator/"
                   className="h-8 px-2.5 rounded-lg text-amber-900 bg-amber-50/90 hover:bg-amber-100 border border-amber-200/80 flex items-center gap-1.5 transition-all group font-semibold text-xs whitespace-nowrap shrink-0 shadow-2xs"
-                  title="CAT 2026 Score & Percentile Calculator"
+                  title="CAT Score Calculator 2026 & Response Sheet Predictor"
                 >
                   <Calculator className="w-3.5 h-3.5 text-amber-600 group-hover:scale-105 transition-transform shrink-0" />
-                  <span className="whitespace-nowrap">CAT Predictor</span>
+                  <span className="whitespace-nowrap">CAT Score Calculator 2026</span>
                   <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded text-[9px] bg-amber-200/80 text-amber-900 font-extrabold leading-none shrink-0">
                     LIVE
                   </span>
@@ -485,7 +485,7 @@ export function Header() {
                 Quick Tools &amp; Admissions
               </div>
               {[
-                { name: "CAT / Percentile Calculator", href: "/tools/cat-score-calculator", icon: Calculator },
+                { name: "CAT Score Calculator 2026", href: "/tools/cat-score-calculator/", icon: Calculator },
                 { name: "MBA Form Combo Discounts", href: "/mba-application-form-discount", icon: Percent },
                 { name: "Free CBT Mock Tests (50+)", href: "/mock-tests", icon: Target },
                 { name: "Free ATS Resume Builder", href: "/tools/ats-resume-builder", icon: FileText },

@@ -69,7 +69,7 @@ export function PortalQuickTools() {
       description: "Convert raw test responses into normalized percentile bands and calculate your realistic chances at Tier-1 & Tier-2 colleges.",
       features: ["CAT Score to %ile Matrix", "Sept MAT Checker & Composite", "JEE Main & MHCET Predictors"],
       cta: "Predict Percentile",
-      href: "/tools/cat-score-calculator",
+      href: "/tools/cat-score-calculator/",
       highlight: false,
       accentBorder: "hover:border-amber-400",
     },

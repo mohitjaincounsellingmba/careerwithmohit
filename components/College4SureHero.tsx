@@ -166,6 +166,14 @@ export function College4SureHero() {
               >
                 🔥 Form Discounts
               </Link>
+              <Link
+                href="/tools/cat-score-calculator/"
+                className="px-3 py-1 rounded-full bg-amber-50 text-amber-900 hover:bg-amber-100 border border-amber-200 font-bold text-xs transition-all hover:-translate-y-0.5 shadow-2xs flex items-center gap-1"
+                title="CAT Score Calculator 2026"
+              >
+                <span>⚡</span>
+                <span>CAT Score Calculator 2026</span>
+              </Link>
             </div>
 
             {/* 4 Light Elevated Counter Stat Cards */}
