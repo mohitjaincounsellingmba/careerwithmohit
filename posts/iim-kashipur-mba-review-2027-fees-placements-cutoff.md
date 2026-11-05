@@ -50,7 +50,7 @@ state: 'Kashipur, Uttarakhand'
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **200-Acre Himalayan Foothills Campus**: Set across a sprawling **200-acre permanent campus in Kashipur, Uttarakhand**, IIM Kashipur ranks **#23 in India (NIRF Management)** and delivers premier residential programs in **General MBA and MBA in Analytics**.
+> - **200-Acre Himalayan Foothills Campus**: Set across a sprawling **200-acre permanent campus in Kashipur, Uttarakhand**, [IIM Kashipur](/colleges/iim-kashipur) ranks **#23 in India (NIRF Management)** and delivers premier residential programs in **General MBA and MBA in Analytics**.
 > - **Outstanding Fee-to-Salary ROI**: Total 2-year program fee is **₹17.50 – ₹18.50 Lakhs** against an audited average domestic CTC of **₹18.11 LPA** (Median CTC: **₹17.20 LPA**; Highest Domestic CTC: **₹37.00 LPA**), delivering complete financial break-even within 12 to 14 months.
 > - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**92.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), academic ratings, and gender/academic diversity factors.
 > - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
@@ -168,10 +168,10 @@ IIM Kashipur shortlists candidates through the **Common Admission Process (IIM C
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Kashipur** | **₹18.00 Lakhs** | **₹18.11 LPA** | **₹17.20 LPA** | Kashipur, Uttarakhand |
-| **IIM Raipur** | ₹18.00 Lakhs | ₹18.60 LPA | ₹17.50 LPA | Raipur, Chhattisgarh |
-| **IIM Ranchi** | ₹17.50 Lakhs | ₹18.69 LPA | ₹18.00 LPA | Ranchi, Jharkhand |
-| **IIM Rohtak** | ₹18.50 Lakhs | ₹19.27 LPA | ₹18.50 LPA | Rohtak, Haryana |
-| **IIM Amritsar** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
+| **[IIM Raipur](/colleges/iim-raipur)** | ₹18.00 Lakhs | ₹18.60 LPA | ₹17.50 LPA | Raipur, Chhattisgarh |
+| **[IIM Ranchi](/colleges/iim-ranchi)** | ₹17.50 Lakhs | ₹18.69 LPA | ₹18.00 LPA | Ranchi, Jharkhand |
+| **[IIM Rohtak](/colleges/iim-rohtak)** | ₹18.50 Lakhs | ₹19.27 LPA | ₹18.50 LPA | Rohtak, Haryana |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
 
 ---
 

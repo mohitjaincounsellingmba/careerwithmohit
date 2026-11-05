@@ -104,7 +104,7 @@ Evaluating the financial outlay is critical for computing your real return on in
 
 ## 3. Specialization Tracks & Academic Pedagogy
 
-Roorkee Institute of Technology (RIT) is an established technical and management institute located in the educational corridor of Roorkee-Dehradun. Celebrated for its budget-friendly fee structure under ₹4 Lakhs, intensive industrial internship tracks, and proactive corporate placement assistance.
+[Roorkee Institute of Technology (RIT)](/colleges/rit-roorkee) is an established technical and management institute located in the educational corridor of Roorkee-Dehradun. Celebrated for its budget-friendly fee structure under ₹4 Lakhs, intensive industrial internship tracks, and proactive corporate placement assistance.
 
 ### Specializations in MBA
 - **Marketing Management**

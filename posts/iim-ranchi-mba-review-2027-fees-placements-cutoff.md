@@ -52,7 +52,7 @@ state: Jharkhand
 ## [IIM Ranchi](/colleges/iim-ranchi/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Focus**: Established in 2009 (9th IIM in India), **IIM Ranchi** operates from its state-of-the-art 60-acre permanent campus at Prabandhan Nagar (Ranchi, Jharkhand), holding **NIRF Rank #17**.
+> - **Core USP & Focus**: Established in 2009 (9th IIM in India), **[IIM Ranchi](/colleges/iim-ranchi)** operates from its state-of-the-art 60-acre permanent campus at Prabandhan Nagar (Ranchi, Jharkhand), holding **NIRF Rank #17**.
 > - **Specialized MBA Programs**: Recognized nationally for its flagship **MBA (General)**, pioneering **MBA-HR**, and high-demand **MBA in Business Analytics (MBA-BA)**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹17.50 Lakhs** against an audited average CTC of **₹18.69 LPA** (Median: **₹18.00 LPA**, Top 25%: **₹24.50 LPA**, Highest: **₹37.80 LPA**).
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **94+ CAT percentile** overall alongside personal interview and profile diversity parameters.
@@ -205,7 +205,7 @@ Operating from its permanent 60-acre campus in Nayasarai (Prabandhan Nagar), IIM
 ### Who Should Choose IIM Ranchi?
 - **Aspirants Looking for Specialized HR or Business Analytics**: If you want the IIM brand combined with top-tier specialized training in Human Resources or Data Analytics.
 - **CAT Aspirants in the 94–97%ile Range**: Outstanding institutional choice that consistently competes with older IIMs in consulting and corporate finance placements.
-- **Candidates Comparing Top Tier-2 Private B-Schools**: IIM Ranchi offers better brand equity, superior alumni network, and significantly lower fees than SCMHRD, NMIMS, or SIBM Pune.
+- **Candidates Comparing Top Tier-2 Private B-Schools**: IIM Ranchi offers better brand equity, superior alumni network, and significantly lower fees than SCMHRD, NMIMS, or [SIBM Pune](/colleges/sibm-pune).
 
 [MockTestCard exam="CAT" title="Evaluate Your CAT Percentile & IIM Conversion Probability" description="Take our full-length CAT diagnostic mock test and receive personalized percentile predictions and IIM CAP interview readiness reports." cta="Take Free Diagnostic Mock"]
 

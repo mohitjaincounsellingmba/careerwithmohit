@@ -184,7 +184,7 @@ Here is how **[Vignana Jyothi Institute of Management](/colleges/vjim-hyderabad/
 
 ---
 
-## 8. Final Admission Verdict: Should You Join Vignana Jyothi Institute of Management (VJIM Hyderabad)?
+## 8. Final Admission Verdict: Should You Join [Vignana Jyothi Institute of Management (VJIM Hyderabad)](/colleges/vjim-hyderabad)?
 
 ### Why Choose Vignana Jyothi Institute of Management (VJIM Hyderabad)?
 1. **Solid Placement Track Record:** Consistent average CTC of **₹7.20 LPA** with blue-chip recruiters.

@@ -63,7 +63,7 @@ state: Maharashtra
 ## [J.S. Kothari Business School (JSKBS Mumbai)](https://careerwithmohit.online/blog/js-kothari-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Institutional Heritage & Governance**: J.S. Kothari Business School is an established management institution in the Mumbai Metropolitan Region. Approved by **AICTE**, the institution delivers practical business training tailored to the financial, logistics, and retail ecosystems of Western India.
+> - **Institutional Heritage & Governance**: [J.S. Kothari Business School](/colleges/js-kothari-mumbai) is an established management institution in the Mumbai Metropolitan Region. Approved by **AICTE**, the institution delivers practical business training tailored to the financial, logistics, and retail ecosystems of Western India.
 > - **Fee vs Average Package (ROI)**: 2-year academic tuition fee of **₹7.00 Lakhs** against an audited average domestic CTC of **₹6.20 LPA to ₹6.50 LPA** and median of **₹6.00 LPA** (highest package: **₹12.50 LPA**), delivering balanced payback metrics.
 > - **Mumbai Commercial Advantage**: Positioned within Mumbai's thriving commercial belt, giving students access to regular guest lectures, corporate live projects, and summer internships across the BFSI and retail sectors.
 > - **Entrance Cutoffs & Selection**: Accepts **MAH-CET, CAT, CMAT, MAT, ATMA, XAT (55.0–65.0 percentile)**, followed by Personal Interview rounds and profile evaluation.

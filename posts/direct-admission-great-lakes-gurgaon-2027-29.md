@@ -95,7 +95,7 @@ The total academic fee for the two-year PGDM at [Great Lakes Gurgaon](/colleges/
 
 | Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **Direct Admission in Great Lakes Gurgaon 2026:** | ₹11.6 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+| **Direct Admission in [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon) 2026:** | ₹11.6 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
 
 ---
 

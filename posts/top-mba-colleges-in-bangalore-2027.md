@@ -92,7 +92,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
          ┌──────────────────────────────┼──────────────────────────────┐
          ▼                              ▼                              ▼
   [Tier-1: The Gold Standard]   [Electronic City Tech Hub]    [High-ROI University]
-  IIM Bangalore (Bannerghatta)  SIBM, JAGSoM, XIME, WeSchool  Christ University, Ramaiah,
+  [IIM Bangalore](/colleges/iim-bangalore) (Bannerghatta)  SIBM, JAGSoM, XIME, WeSchool  Christ University, Ramaiah,
   - ₹33.8 LPA Avg Domestic CTC  - ₹10.3 to ₹14.5 LPA CTC      Alliance University
 ```
 

@@ -168,7 +168,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. Is [Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad/) (MRIIRS), Faridabad a good choice for higher education in 2026?
-Yes, Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad is a highly reputed institution in Haryana (UGC, NAAC A++ Grade, NBA Accredited Programs, AICTE, NIRF Top 100). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹6.20 LPA - ₹7.80 LPA.
+Yes, [Manav Rachna International Institute of Research and Studies](/colleges/manav-rachna-faridabad) (MRIIRS), Faridabad is a highly reputed institution in Haryana (UGC, NAAC A++ Grade, NBA Accredited Programs, AICTE, NIRF Top 100). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹6.20 LPA - ₹7.80 LPA.
 
 ### 2. What is the annual fee structure at Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad?
 The annual tuition fee at Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad generally ranges between ₹2.20 Lakhs - ₹4.50 Lakhs per annum, depending on the chosen program (B.Tech (CSE/AI), MBA, BBA, BCA, B.Sc Sports Science, Media, Law) and applicable merit scholarships.

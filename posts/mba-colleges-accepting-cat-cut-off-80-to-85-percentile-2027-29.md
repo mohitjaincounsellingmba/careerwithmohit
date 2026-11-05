@@ -254,13 +254,13 @@ Most premier B-Schools in this band utilize a holistic evaluation formula:
 ## Frequently Asked Questions (FAQs)
 
 ### Which MBA college accepting CAT cut off 80 to 85 percentile has the lowest fees?
-DoMS IIT ISM Dhanbad offers the lowest fees in this tier, charging approximately **₹8.50 Lakhs to ₹9.00 Lakhs** for its 2-year full-time MBA program, followed by BITS Pilani (around ₹11.50 Lakhs). Both institutes deliver exceptional return on investment (ROI) with average packages exceeding ₹13.00 LPA to ₹15.80 LPA.
+DoMS IIT ISM Dhanbad offers the lowest fees in this tier, charging approximately **₹8.50 Lakhs to ₹9.00 Lakhs** for its 2-year full-time MBA program, followed by [BITS Pilani](/colleges/bits-pilani) (around ₹11.50 Lakhs). Both institutes deliver exceptional return on investment (ROI) with average packages exceeding ₹13.00 LPA to ₹15.80 LPA.
 
 ### Is an 80 percentile in CAT enough for non-engineers to get into top B-schools?
 Yes. Many institutes like TAPMI, FORE, LBSIM, and GIM provide 3% to 5% academic diversity weightage to non-engineers (graduates from Commerce, Humanities, Science, and Law). A non-engineer with an 81–83 percentile and consistent 80%+ marks in Class 10 and 12 stands a very strong chance of converting their interview call.
 
 ### How does [FORE School of Management](/colleges/fore-school-delhi/) compare with TAPMI Manipal?
-Both are prestigious institutions with similar CAT cutoffs (82–85 percentile). FORE School of Management holds a distinct advantage in consulting, corporate proximity, and Delhi-NCR industry engagement, with an average CTC of ~₹16.01 LPA. TAPMI Manipal offers global AACSB & AMBA accreditations, an immersive residential campus culture, and industry-leading specialized programs in Banking & Finance (BKFS) and HRM.
+Both are prestigious institutions with similar CAT cutoffs (82–85 percentile). [FORE School of Management](/colleges/fore-school-delhi) holds a distinct advantage in consulting, corporate proximity, and Delhi-NCR industry engagement, with an average CTC of ~₹16.01 LPA. TAPMI Manipal offers global AACSB & AMBA accreditations, an immersive residential campus culture, and industry-leading specialized programs in Banking & Finance (BKFS) and HRM.
 
 ### Can I get an IIM call with an 80 to 85 percentile in CAT?
 For General Category candidates, receiving an interview call from older IIMs (BLACKI) or CAP (New IIMs) at 80–85 percentile is virtually impossible unless you possess extraordinary diversity credits (e.g., medical or design graduates with 95%+ throughout school). However, candidates belonging to NC-OBC, SC, ST, and PwD categories frequently receive calls from Baby IIMs (such as [IIM Bodh Gaya](/colleges/iim-bodh-gaya/), [IIM Sirmaur](/colleges/iim-sirmaur/), and [IIM Jammu](/colleges/iim-jammu/)) within the 80 to 85 percentile range.

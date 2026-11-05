@@ -50,7 +50,7 @@ state: Chhattisgarh
 ## [IIM Raipur](/colleges/iim-raipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Prestige**: Established in 2010, **IIM Raipur** operates from a 200-acre eco-friendly permanent campus in Atal Nagar (Raipur, Chhattisgarh), holding a stellar **NIRF Rank #14** nationally.
+> - **Core USP & Prestige**: Established in 2010, **[IIM Raipur](/colleges/iim-raipur)** operates from a 200-acre eco-friendly permanent campus in Atal Nagar (Raipur, Chhattisgarh), holding a stellar **NIRF Rank #14** nationally.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹18.00 Lakhs** against an audited average CTC of **₹21.04 LPA** (Median: **₹20.00 LPA**, Top 25%: **₹28.25 LPA**, Highest: **₹67.60 LPA**), delivering exceptional career ROI.
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **94+ CAT percentile** overall alongside strong Personal Interview performance and academic diversity weightage.
 
@@ -199,7 +199,7 @@ Spanning 200 acres in Atal Nagar, the permanent campus of IIM Raipur represents 
 ```
 
 ### Who Should Choose IIM Raipur?
-- **Aspirants Scoring 95–98%ile in CAT**: Outstanding choice if you miss out on older IIMs (IIM Indore/Kozhikode) but want an elite tier-1 brand with average CTC above ₹21 LPA.
+- **Aspirants Scoring 95–98%ile in CAT**: Outstanding choice if you miss out on older IIMs ([IIM Indore](/colleges/iim-indore)/Kozhikode) but want an elite tier-1 brand with average CTC above ₹21 LPA.
 - **Candidates Targeting BFSI & Corporate Consulting**: With 38% of offers originating from the BFSI domain and 20% in management consulting, Raipur offers career trajectories matching older IIMs.
 - **Engineers & Non-Engineers Seeking Brand Value**: With strong national alumni presence and global university exchange programs, Raipur provides long-term corporate mobility.
 

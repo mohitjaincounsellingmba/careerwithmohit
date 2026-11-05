@@ -96,7 +96,7 @@ This guide provides a comprehensive **IPMAT 2026 preparation roadmap**, breaking
 - **Verbal:** Start reading one quality editorial (The Hindu/Indian Express) daily to build reading speed and vocabulary.
 
 ### Phase 2: Advanced Math (2 Months)
-- Unlike Rohtak, **IIM Indore** asks "Higher Math" (Class 11 & 12 topics) like Permutations, Combinations, Probability, and basic Integration. Do not skip these.
+- Unlike Rohtak, **[IIM Indore](/colleges/iim-indore)** asks "Higher Math" (Class 11 & 12 topics) like Permutations, Combinations, Probability, and basic Integration. Do not skip these.
 
 ### Phase 3: Mock Season (Last 2 Months)
 - Give at least 2 full-length mocks per week.

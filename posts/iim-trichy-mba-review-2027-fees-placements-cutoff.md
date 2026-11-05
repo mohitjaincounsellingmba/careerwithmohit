@@ -17,7 +17,6 @@ keywords:
   - Bangalore Colleges
   - Best Colleges in Bangalore
   - Top Colleges in Bangalore 2026
-  - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
   - Bangalore Admissions 2027
@@ -75,7 +74,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Tiruchirappalli (IIM Trichy / IIMT)** |
-| **Year of Establishment** | 2011 (Mentored by IIM Bangalore) |
+| **Year of Establishment** | 2011 (Mentored by [IIM Bangalore](/colleges/iim-bangalore)) |
 | **Campus Location** | Pudukkottai Road, Chinna Suriyur, Tiruchirappalli, Tamil Nadu (175 Acres) |
 | **NIRF Management Ranking** | **Rank #27** nationally |
 | **Global Accreditation** | **AMBA Accredited** (Association of MBAs, UK) |

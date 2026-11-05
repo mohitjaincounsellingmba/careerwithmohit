@@ -69,7 +69,7 @@ state: Uttarakhand
 
 ---
 
-[InquiryCard title="Check Your UPES Dehradun Shortlist Probability" description="Evaluate your entrance test score, academic profile, and merit scholarship eligibility with expert counselor Mohit Jain." cta="Book Free Strategy Call" type="admission"]
+[InquiryCard title="Check Your [UPES Dehradun](/colleges/upes-dehradun) Shortlist Probability" description="Evaluate your entrance test score, academic profile, and merit scholarship eligibility with expert counselor Mohit Jain." cta="Book Free Strategy Call" type="admission"]
 
 ---
 

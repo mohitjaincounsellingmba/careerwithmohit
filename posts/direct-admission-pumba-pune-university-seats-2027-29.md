@@ -44,7 +44,7 @@ category: Online Degrees
 > - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
 > - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in PUMBA Pune: University Se?
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in [PUMBA Pune](/colleges/pumba-pune): University Se?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹1.3 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

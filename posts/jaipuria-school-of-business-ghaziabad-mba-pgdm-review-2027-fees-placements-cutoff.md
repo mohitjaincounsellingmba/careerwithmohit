@@ -77,7 +77,7 @@ state: Delhi NCR
 
 ## 1. Institutional Background: Seven Decades of Educational Excellence in Indirapuram
 
-Jaipuria School of Business (JSB Ghaziabad) operates under the umbrella of the Seth Anandram Jaipuria Education Society, an educational group with over 75 years of history in India. Established in 2008 in Indirapuram, Ghaziabad, JSB was created to provide practical, corporate-oriented management education in the National Capital Region.
+[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (JSB Ghaziabad) operates under the umbrella of the Seth Anandram Jaipuria Education Society, an educational group with over 75 years of history in India. Established in 2008 in Indirapuram, Ghaziabad, JSB was created to provide practical, corporate-oriented management education in the National Capital Region.
 
 Approved by the **All India Council for Technical Education (AICTE)**, JSB's flagship Post Graduate Diploma in Management (PGDM) integrates classroom study with corporate mentorship, live projects, and executive certifications.
 

@@ -235,7 +235,7 @@ JAGSoM offers international study pathways in collaboration with accredited glob
 | **ITM Navi Mumbai** | AICTE, NBA, AIU | ₹12.45 Lakhs | ₹10.50 LPA | ₹9.80 LPA | ₹14.20 LPA |
 | **Universal AI (UBS Karjat)**| AICTE Approved | ₹11.58 Lakhs | ₹10.41 LPA | ₹9.50 LPA | ₹14.00 LPA |
 | **SIES Navi Mumbai** | AICTE, NBA | ₹9.50 Lakhs | ₹9.10 LPA | ₹8.60 LPA | ₹12.50 LPA |
-| **PIBM Pune** | AICTE, NBA | ₹9.45 Lakhs | ₹7.40 LPA | ₹7.00 LPA | ₹10.50 LPA |
+| **[PIBM Pune](/colleges/pibm-pune)** | AICTE, NBA | ₹9.45 Lakhs | ₹7.40 LPA | ₹7.00 LPA | ₹10.50 LPA |
 
 ---
 

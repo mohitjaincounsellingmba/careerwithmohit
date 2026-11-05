@@ -54,7 +54,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# MDI Gurgaon Application Form 2027: Dates, CAT Cutoff, Fees, Placements & Selection Criteria
+# [MDI Gurgaon](/colleges/mdi-gurgaon) Application Form 2027: Dates, CAT Cutoff, Fees, Placements & Selection Criteria
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Application Portal Status**: Active and open for the 2027–2029 PGDM cohort; closing strictly on **November 28, 2026 (5:00 PM IST)** at [mdi.ac.in](https://www.mdi.ac.in).

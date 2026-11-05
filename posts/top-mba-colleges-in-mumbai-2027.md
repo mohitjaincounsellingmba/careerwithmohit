@@ -100,11 +100,11 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 ### 1. The Super-Elite Tier (SPJIMR, JBIMS, SJMSOM, TISS)
 - **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**: Recognized worldwide for non-classroom learning (Abhyudaya, DOCC, Autumn Internships) and specialized tracks in Marketing, Finance, Operations, and Information Management.
 - **[JBIMS Mumbai](/colleges/jbims-mumbai/) (The CEO Factory)**: Unmatched Mumbai alumni network leading top private banks, NBFCs, and conglomerates (including Chanda Kochhar, Uday Kotak, Ajay Piramal).
-- **SJMSOM IIT Bombay**: Outstanding analytics and supply chain placements with strong engineering rigor.
+- **SJMSOM [IIT Bombay](/colleges/iit-bombay)**: Outstanding analytics and supply chain placements with strong engineering rigor.
 - **TISS Mumbai**: The gold standard across Asia for Human Resource Management and Industrial Relations.
 
 ### 2. The Private Powerhouses (NMIMS, BITSOM, Welingkar, KJ Somaiya)
-- **NMIMS Mumbai (SBM)**: Flagship campus in Vile Parle West with 600+ batch size and massive recruiter participation in FMCG, private wealth management, and enterprise sales.
+- **[NMIMS Mumbai](/colleges/nmims-mumbai) (SBM)**: Flagship campus in Vile Parle West with 600+ batch size and massive recruiter participation in FMCG, private wealth management, and enterprise sales.
 - **BITSoM Mumbai**: Backed by the Aditya Birla Group, featuring global faculty from Wharton, Kellogg, and NYU Stern with high starting compensation packages.
 - **Welingkar Institute (WeSchool)**: Pioneer in Design Thinking, E-Business, and Business Design & Innovation.
 

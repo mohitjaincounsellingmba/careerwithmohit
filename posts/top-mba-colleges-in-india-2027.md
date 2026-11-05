@@ -106,7 +106,7 @@ In this verified 2027 admission guide, senior education consultant **Mohit Jain*
 These institutes attract the world's most selective management consulting firms (*McKinsey, BCG, Bain*), bulge-bracket investment banks (*Goldman Sachs, Morgan Stanley, J.P. Morgan*), and global tech product giants (*Google, Microsoft, Amazon*).
 
 - **[IIM Ahmedabad](/colleges/iim-ahmedabad/), Bangalore, Calcutta (IIM ABC)**: Undisputed leaders in brand equity, global alumni strength, and boardroom representation.
-- **FMS Delhi**: The highest return-on-investment institution across Asia, leveraging Delhi University’s subsidized fee structure and historic corporate ties.
+- **[FMS Delhi](/colleges/fms-delhi)**: The highest return-on-investment institution across Asia, leveraging Delhi University’s subsidized fee structure and historic corporate ties.
 - **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**: Globally revered for Human Resource Management (HRM) and General Business Management (BM).
 - **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)**: Pioneer in profile-based shortlisting and value-based management education situated in the financial capital.
 - **[JBIMS Mumbai](/colleges/jbims-mumbai/) (The CEO Factory)**: Exceptional ROI with Mumbai corporate immersion via Maharashtra State CAP round and All-India seats.
@@ -137,7 +137,7 @@ When evaluating top MBA colleges in India, candidates frequently confuse **Cost 
   ─────────────────┼───────────────────────────┼─────────────────────
   FMS Delhi        │ ₹ 2.5 Lakhs               │ ₹ 1.70 - ₹ 1.90 Lakhs/mo
   [JBIMS Mumbai](/colleges/jbims-mumbai/)     │ ₹ 6.5 Lakhs               │ ₹ 1.55 - ₹ 1.75 Lakhs/mo
-  IIM Ahmedabad    │ ₹ 28.0 Lakhs              │ ₹ 1.95 - ₹ 2.30 Lakhs/mo
+  [IIM Ahmedabad](/colleges/iim-ahmedabad)    │ ₹ 28.0 Lakhs              │ ₹ 1.95 - ₹ 2.30 Lakhs/mo
   [MDI Gurgaon](/colleges/mdi-gurgaon/)      │ ₹ 27.0 Lakhs              │ ₹ 1.50 - ₹ 1.70 Lakhs/mo
   Tier-2 Pvt B-Sch │ ₹ 18.0 - ₹ 22.0 Lakhs     │ ₹ 85,000 - ₹ 1.15 Lakhs/mo
 ```
@@ -166,7 +166,7 @@ To maximize your chances of getting into a top-tier Indian MBA program, do not p
 Top Indian IIMs (Ahmedabad, Bangalore, Calcutta) and FMS Delhi regularly record domestic peak compensation packages between ₹70 LPA and ₹1.15 Crore per annum, with international packages crossing ₹1.4 Crore per annum.
 
 ### Can I get admission to top MBA colleges in India without CAT?
-Yes. Renowned business schools like XLRI (accepts XAT), NMIMS (accepts NMAT), SIBM Pune (accepts SNAP), and ISB (accepts GMAT/GRE) do not require CAT scores.
+Yes. Renowned business schools like XLRI (accepts XAT), NMIMS (accepts NMAT), [SIBM Pune](/colleges/sibm-pune) (accepts SNAP), and ISB (accepts GMAT/GRE) do not require CAT scores.
 
 ### Is work experience mandatory for IIMs and Top B-Schools?
 No. Fresh graduates are eligible for almost all flagship 2-year PGP/MBA programs (including IIM A, B, C, FMS, and XLRI). However, candidates with 12 to 36 months of quality work experience receive additional weightage during the composite score calculation.

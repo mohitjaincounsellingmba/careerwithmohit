@@ -55,7 +55,7 @@ state: 'Bodh Gaya, Bihar'
 > - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**90.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), academic ratings, and gender/academic diversity weightages.
 > - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Check Your IIM Bodh Gaya CAP Shortlist Chances" description="Evaluate your CAT sectional percentiles, academic ratings, and IIM CAP interview conversion chances with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Check Your [IIM Bodh Gaya](/colleges/iim-bodh-gaya) CAP Shortlist Chances" description="Evaluate your CAT sectional percentiles, academic ratings, and IIM CAP interview conversion chances with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
 Among India's newer generation Indian Institutes of Management, **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/)** has distinguished itself through specialized curriculum tracks in Digital Business and Healthcare Management.
 
@@ -168,10 +168,10 @@ IIM Bodh Gaya admits students through the **Common Admission Process (IIM CAP)**
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Bodh Gaya** | **₹16.00 Lakhs** | **₹14.50 – ₹15.80 LPA** | **₹14.00 LPA** | Bodh Gaya, Bihar |
-| **IIM Amritsar** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
-| **IIM Jammu** | ₹17.15 Lakhs | ₹15.48 LPA | ₹15.00 LPA | Jagti, Jammu |
-| **IIM Sambalpur** | ₹15.00 Lakhs | ₹14.80 LPA | ₹14.00 LPA | Sambalpur, Odisha |
-| **IIM Sirmaur** | ₹15.75 Lakhs | ₹14.45 LPA | ₹13.50 LPA | Paonta Sahib, HP |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
+| **[IIM Jammu](/colleges/iim-jammu)** | ₹17.15 Lakhs | ₹15.48 LPA | ₹15.00 LPA | Jagti, Jammu |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | ₹15.00 Lakhs | ₹14.80 LPA | ₹14.00 LPA | Sambalpur, Odisha |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | ₹15.75 Lakhs | ₹14.45 LPA | ₹13.50 LPA | Paonta Sahib, HP |
 
 ---
 

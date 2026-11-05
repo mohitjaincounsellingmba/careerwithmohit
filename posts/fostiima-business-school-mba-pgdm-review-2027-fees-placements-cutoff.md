@@ -73,7 +73,7 @@ state: Delhi NCR
 
 [InquiryCard title="Evaluate Your Profile for FOSTIIMA Business School" description="Check your CAT/MAT percentiles, explore merit scholarships (up to ₹1.5 Lakhs), and get strategic advice from Mohit Jain." cta="Book Free Strategy Call" type="admission"]
 
-Among business schools in Delhi, **FOSTIIMA Business School** carries an unusual origins story. The acronym stands for **"Friends Of Seven-Two [1972] IIM Ahmedabad"**—representing a group of senior corporate leaders and IIM-A graduates who established the business school to deliver IIM-quality management pedagogy without prohibitive entrance cutoff barriers.
+Among business schools in Delhi, **FOSTIIMA Business School** carries an unusual origins story. The acronym stands for **"Friends Of Seven-Two [1972] [IIM Ahmedabad](/colleges/iim-ahmedabad)"**—representing a group of senior corporate leaders and IIM-A graduates who established the business school to deliver IIM-quality management pedagogy without prohibitive entrance cutoff barriers.
 
 Located in Sector 9, Dwarka—opposite the Dwarka District Court—FOSTIIMA attracts applicants who value case-based classroom discussions, small interactive batches, and direct executive mentorship from alumni of India’s premier management institute.
 
@@ -105,7 +105,7 @@ However, spending approximately ₹10 Lakhs on tuition requires cutting through 
 The defining attraction of FOSTIIMA is its instructional faculty:
 
 ### Core Pedagogical Features:
-1. **Instruction by IIM Alumni**: Over 65% of permanent and visiting faculty members are alumni of IIM Ahmedabad, IIM Calcutta, or XLRI Jamshedpur, bringing authentic corporate case study frameworks into daily classroom sessions.
+1. **Instruction by IIM Alumni**: Over 65% of permanent and visiting faculty members are alumni of IIM Ahmedabad, [IIM Calcutta](/colleges/iim-calcutta), or [XLRI Jamshedpur](/colleges/xlri-jamshedpur), bringing authentic corporate case study frameworks into daily classroom sessions.
 2. **Harvard Business School Case Method**: Rather than rote textbook lecturing, classroom sessions revolve around participatory case discussions, financial modeling clinics, and strategic boardroom simulations.
 3. **One-on-One Corporate Mentoring**: Every enrolled student is assigned a senior corporate mentor (often an IIM alumnus working in corporate Delhi-NCR) who guides curriculum electives, resume building, and placement preparation.
 

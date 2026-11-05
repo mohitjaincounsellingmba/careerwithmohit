@@ -58,7 +58,7 @@ state: Gujarat
 > - **Top-Ranked B-Schools**: **[IIM Ahmedabad](/colleges/iim-ahmedabad/)**, **MICA Ahmedabad**, **[Nirma University](/colleges/nirma-institute-of-management/) (IMNU)**, **EDII Ahmedabad**, and **SPM PDEU Gandhinagar**.
 > - **Fee & Placement Snapshot**: Total tuition fees range from ₹6.5 Lakhs to ₹26.5 Lakhs, with average placement packages spanning ₹8.5 LPA to ₹34.3 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare IIM Ahmedabad, MICA, [Nirma University](/colleges/nirma-institute-of-management/), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Ahmedabad?" description="Compare [IIM Ahmedabad](/colleges/iim-ahmedabad), MICA, [Nirma University](/colleges/nirma-institute-of-management/), EDII, and SPM PDEU. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Ahmedabad Consultation" type="admission"]
 
 Ahmedabad, the commercial powerhouse of Gujarat and India's first UNESCO World Heritage City, provides a dynamic business environment steeped in entrepreneurial resilience, family business empires (Adani, Reliance, Torrent, Cadila), and modern financial innovation inside the neighboring **GIFT City** corridor.
 

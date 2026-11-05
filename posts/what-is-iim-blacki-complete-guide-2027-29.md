@@ -20,14 +20,11 @@ keywords:
   - holy grail IIMs
   - MBA admissions 2027–2029
   - CAT exam 2026
-  - Direct Admission in Delhi
   - Best Colleges in Noida
   - Noida Admissions 2026
-  - Direct Admission in Noida
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -140,8 +137,8 @@ Investing in an IIM BLACKI degree requires significant financial commitment, but
 | **[IIM Bangalore](/colleges/iim-bangalore/)** | **#2** | ₹24.5 – 26.5 Lakhs | **₹35.0 – 36.0 LPA** | Median: ~₹32.5 LPA; Leading recruiter in MBB & Tech |
 | **IIM Kozhikode** | **#3** | ₹22.0 – 24.0 Lakhs | **₹28.0 – 30.0 LPA** | Median: ~₹27 LPA; Exceptional consulting & product growth |
 | **[IIM Calcutta](/colleges/iim-calcutta/)** | **#4** | ₹27.0 – 29.0 Lakhs | **₹35.0 – 35.5 LPA** | Median: ~₹33.7 LPA; #1 in IB & PE domestic packages |
-| **IIM Lucknow** | **#6** | ₹20.5 – 22.5 Lakhs | **₹30.0 – 33.0 LPA** | Median: ~₹30 LPA; Highest ROI among top-4 old IIMs |
-| **IIM Indore** | **#8** | ₹21.0 – 23.0 Lakhs | **₹25.0 – 27.5 LPA** | Median: ~₹25 LPA; Massive batch size with 100% placement |
+| **[IIM Lucknow](/colleges/iim-lucknow)** | **#6** | ₹20.5 – 22.5 Lakhs | **₹30.0 – 33.0 LPA** | Median: ~₹30 LPA; Highest ROI among top-4 old IIMs |
+| **[IIM Indore](/colleges/iim-indore)** | **#8** | ₹21.0 – 23.0 Lakhs | **₹25.0 – 27.5 LPA** | Median: ~₹25 LPA; Massive batch size with 100% placement |
 
 *Note: Fee structures and average compensation figures are indicative and updated based on recent institutional reports and admission notifications.*
 

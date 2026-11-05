@@ -61,11 +61,11 @@ The comprehensive marks vs percentile matrix based on historical 66-question CAT
 
 | Target Percentile Band | Estimated Raw Score (out of 198) | Net Correct Questions (out of 66) | Qualifying B-School Call Range |
 | :--- | :--- | :--- | :--- |
-| **99.9+ %ile** | **110 – 125+ Marks** | 38 – 42 Net Qs | IIM Ahmedabad, Bangalore, Calcutta (BLACKI Elite) |
-| **99.5+ %ile** | **95 – 109 Marks** | 33 – 37 Net Qs | IIM Lucknow, Kozhikode, Indore, FMS Delhi, SPJIMR |
-| **99.0+ %ile** | **82 – 94 Marks** | 29 – 32 Net Qs | IIM Shillong, MDI Gurgaon, IIT Bombay (SJMSOM), IIFT |
+| **99.9+ %ile** | **110 – 125+ Marks** | 38 – 42 Net Qs | [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, Calcutta (BLACKI Elite) |
+| **99.5+ %ile** | **95 – 109 Marks** | 33 – 37 Net Qs | [IIM Lucknow](/colleges/iim-lucknow), Kozhikode, Indore, [FMS Delhi](/colleges/fms-delhi), SPJIMR |
+| **99.0+ %ile** | **82 – 94 Marks** | 29 – 32 Net Qs | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon), [IIT Bombay](/colleges/iit-bombay) (SJMSOM), IIFT |
 | **98.0+ %ile** | **75 – 81 Marks** | 26 – 28 Net Qs | New IIMs (Udaipur, Trichy, Ranchi, Raipur), IIT Delhi |
-| **95.0+ %ile** | **60 – 74 Marks** | 21 – 25 Net Qs | IMT Ghaziabad, IMI New Delhi, IIM Rohtak, GIM Goa |
+| **95.0+ %ile** | **60 – 74 Marks** | 21 – 25 Net Qs | IMT Ghaziabad, IMI New Delhi, [IIM Rohtak](/colleges/iim-rohtak), GIM Goa |
 | **90.0+ %ile** | **48 – 59 Marks** | 17 – 20 Net Qs | Baby IIMs (Nagpur, Vizag, Bodh Gaya), FORE, TAPMI |
 | **85.0+ %ile** | **38 – 47 Marks** | 14 – 16 Net Qs | Great Lakes Chennai, BIMTECH Greater Noida, LBSIM |
 | **80.0+ %ile** | **32 – 37 Marks** | 11 – 13 Net Qs | K J Somaiya Mumbai, Welingkar, LIBA Chennai |
@@ -131,7 +131,7 @@ To verify your exact slot adjustment, paste your response sheet in our [CAT Slot
 
 ## What B-Schools Can You Target with 80 to 90 Percentile in CAT?
 
-**Candidates scoring between 80 and 90 percentile (32 to 59 raw marks) can target premier B-schools including FORE School of Management, GIM Goa, TAPMI Manipal, Great Lakes Chennai, BIMTECH Greater Noida, and Baby IIMs (CAP round).**
+**Candidates scoring between 80 and 90 percentile (32 to 59 raw marks) can target premier B-schools including [FORE School of Management](/colleges/fore-school-delhi), GIM Goa, TAPMI Manipal, Great Lakes Chennai, BIMTECH Greater Noida, and Baby IIMs (CAP round).**
 
 ```
  99+ %ile  → IIM Ahmedabad, Bangalore, Calcutta, FMS, SPJIMR
@@ -141,7 +141,7 @@ To verify your exact slot adjustment, paste your response sheet in our [CAT Slot
  70-80 %ile → K J Somaiya, Welingkar, NDIM, SOIL, Jaipuria
 ```
 
-[InquiryCard title="Get Personalized B-School Profile Shortlist" description="Consult Mohit Jain (IIM Bangalore & FMS Certified) for honest profile evaluation & admission strategy." cta="Book Free 1-on-1 Meet" type="admission"]
+[InquiryCard title="Get Personalized B-School Profile Shortlist" description="Consult Mohit Jain ([IIM Bangalore](/colleges/iim-bangalore) & FMS Certified) for honest profile evaluation & admission strategy." cta="Book Free 1-on-1 Meet" type="admission"]
 
 ---
 
@@ -150,7 +150,7 @@ To verify your exact slot adjustment, paste your response sheet in our [CAT Slot
 1. **Ignoring TITA Zero-Negative Marking**: Remember that non-MCQ / TITA questions carry **0 negative marks**. Do not deduct penalties for unattempted or incorrect TITA responses.
 2. **Confusing Raw Score with Final Scaled Score**: Your final percentile is determined by your normalized scaled score, not your raw marks out of 198.
 3. **Overlooking Sectional Cutoffs**: Having a 99 percentile overall will not yield Old IIM calls if your Quant or DILR sectional percentile dips below institutional minimums (typically 75–80 percentile).
-4. **Delaying Non-IIM Application Deadlines**: Many premier business schools (like MDI Gurgaon, SPJIMR Mumbai, and FMS Delhi) close their application windows before or right around the announcement of official CAT results. Check [MBA Form Combo Discounts](/mba-application-form-discount/) to save on your application fees.
+4. **Delaying Non-IIM Application Deadlines**: Many premier business schools (like MDI Gurgaon, [SPJIMR Mumbai](/colleges/spjimr-mumbai), and FMS Delhi) close their application windows before or right around the announcement of official CAT results. Check [MBA Form Combo Discounts](/mba-application-form-discount/) to save on your application fees.
 
 ---
 

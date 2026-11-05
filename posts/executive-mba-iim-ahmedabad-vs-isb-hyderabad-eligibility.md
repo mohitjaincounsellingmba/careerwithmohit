@@ -18,7 +18,6 @@ keywords:
   - Hyderabad Colleges
   - Best Colleges in Hyderabad
   - Top Colleges in Hyderabad 2026
-  - Hyderabad Direct Admission 2026
   - Colleges in Telangana
   - Hyderabad Career Counselling
   - Hyderabad Admissions 2027
@@ -88,7 +87,7 @@ However, significant differences exist regarding **eligibility thresholds, work 
 
 ## 2. Program Structure, Fees & ROI
 
-| Metric | IIM Ahmedabad PGPX | ISB Hyderabad / Mohali PGP |
+| Metric | [IIM Ahmedabad](/colleges/iim-ahmedabad) PGPX | ISB Hyderabad / Mohali PGP |
 | :--- | :--- | :--- |
 | **Class Size** | ~140 – 150 Executives | ~850 – 900 Students (across two campuses) |
 | **Total Program Cost** | **₹33.5 – 35.0 Lakhs** | **₹41.5 – 44.5 Lakhs** |

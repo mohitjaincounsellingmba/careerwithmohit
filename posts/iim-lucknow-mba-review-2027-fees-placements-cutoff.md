@@ -13,7 +13,6 @@ keywords:
   - iiml review 2027
   - top mba colleges in lucknow
   - best mba colleges in uttar pradesh
-  - direct admission in iim lucknow
 faqs:
   - question: What is the average placement package at IIM Lucknow in 2026-2027?
     answer: >-
@@ -177,7 +176,7 @@ Students who cannot handle rigorous daily quizzes, case deadlines, and high pres
 
 ## 9. Frequently Asked Questions (FAQs)
 
-### Q1. What is the average salary package at IIM Lucknow?
+### Q1. What is the average salary package at [IIM Lucknow](/colleges/iim-lucknow)?
 The verified average placement package at **IIM Lucknow** is **₹32.20 LPA**, with top quartile students securing offers up to **₹1.00 Crore**.
 
 ### Q2. Which entrance exams are accepted for 2027 admission?

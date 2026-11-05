@@ -81,7 +81,7 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provide
 
 | Metric / Parameter | Official Verified Details | Strategic Student Insight |
 | :--- | :--- | :--- |
-| **Institution Name** | IILM Academy of Higher Learning, Jaipur | Part of established IILM Group (Since 1993) |
+| **Institution Name** | [IILM Academy of Higher Learning, Jaipur](/colleges/iilm-jaipur) | Part of established IILM Group (Since 1993) |
 | **Campus Location** | Sector 1, Mansarovar, Jaipur, Rajasthan | Proximity to Mansarovar Metro Station |
 | **Accreditation & Approvals** | AICTE Approved · Ministry of Education, Govt. of India | Full regulatory validity for corporate & PSU roles |
 | **Flagship Programs** | Post Graduate Diploma in Management (PGDM) | 2-Year Full-Time Dual Specialization |
@@ -181,7 +181,7 @@ IILM Jaipur reviews test percentiles in combination with personal interview read
 | **IILM Academy Jaipur** | **₹6.50L – ₹7.00L** | **₹6.50 – ₹7.50 LPA** | **₹20.00 LPA** | Mansarovar, Jaipur |
 | **Jaipuria Institute Jaipur** | ₹12.50 Lakhs | ₹10.50 LPA | ₹22.00 LPA | Bambala, Jaipur |
 | **FMS IRM Jaipur** | ₹7.20 Lakhs | ₹6.50 LPA | ₹15.00 LPA | Mansarovar, Jaipur |
-| **Taxila Business School** | ₹9.50 Lakhs | ₹8.50 LPA | ₹20.50 LPA | Mansarovar, Jaipur |
+| **[Taxila Business School](/colleges/taxila-jaipur)** | ₹9.50 Lakhs | ₹8.50 LPA | ₹20.50 LPA | Mansarovar, Jaipur |
 | **IPS Business School** | ₹3.50 Lakhs | ₹5.00 LPA | ₹11.00 LPA | Nirman Nagar, Jaipur |
 
 ---

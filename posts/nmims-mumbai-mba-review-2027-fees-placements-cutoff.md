@@ -60,7 +60,7 @@ state: Maharashtra
 ## [NMIMS Mumbai](/colleges/nmims-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Legacy**: Established in 1981, **School of Business Management (SBM) - SVKM's NMIMS Mumbai** (Vile Parle West, Mumbai) holds **NIRF Rank #21** and prestigious **AACSB global accreditation**.
+> - **Core USP & Legacy**: Established in 1981, **School of Business Management (SBM) - SVKM's [NMIMS Mumbai](/colleges/nmims-mumbai)** (Vile Parle West, Mumbai) holds **NIRF Rank #21** and prestigious **AACSB global accreditation**.
 > - **Flagship Programs**: Premier institutional brand for **MBA (Core - General Management)**, **MBA in Human Resource Management (MBA-HR)**, and **MBA in Business Analytics**.
 > - **Fee vs Average Package (ROI)**: Total 2-year tuition fee is **₹24.00 Lakhs** against an audited average CTC of **₹26.63 LPA** (Median: **₹24.50 LPA**, Top 10%: **₹37.50 LPA**, Highest: **₹67.80 LPA**).
 > - **Cutoffs & Selection**: Admission is routed exclusively through **NMAT by GMAC (First Attempt Score Only)** requiring a scaled score of **232–236+** with sectional thresholds, followed by Watson Glaser Critical Thinking Test and Personal Interviews.

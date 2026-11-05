@@ -236,7 +236,7 @@ The mandatory 8-to-10-week summer internship between May and July gives IBI stud
 | **IBI Greater Noida** | AICTE Approved | ₹8.95 Lakhs | ₹7.50 LPA | ₹7.20 LPA | ₹11.20 LPA |
 | **GL Bajaj Greater Noida** | AICTE, NBA | ₹7.80 Lakhs | ₹7.50 LPA | ₹7.10 LPA | ₹10.00 LPA |
 | **GNIOT Greater Noida (GIMS)**| AICTE Approved | ₹7.50 Lakhs | ₹7.10 LPA | ₹6.80 LPA | ₹9.50 LPA |
-| **Lloyd Business School** | AKTU / AICTE | ₹3.20L – ₹8.25L | ₹6.80 LPA | ₹6.20 LPA | ₹9.50 LPA |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | AKTU / AICTE | ₹3.20L – ₹8.25L | ₹6.80 LPA | ₹6.20 LPA | ₹9.50 LPA |
 | **Accurate Greater Noida** | AICTE Approved | ₹6.50 Lakhs | ₹6.20 LPA | ₹5.80 LPA | ₹8.50 LPA |
 
 ---

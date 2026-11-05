@@ -76,7 +76,7 @@ state: Delhi NCR
 
 ## 1. Institutional Background: Two Decades of Management Education in Sector 62
 
-Hierank Business School was founded in 2006 under the aegis of the ABR Education Foundation. Situated in Sector 62, Noida—the preeminent institutional and IT hub of Noida—the campus is surrounded by corporate campuses such as Barclays, IBM, Samsung, Tech Mahindra, and numerous media conglomerates.
+[Hierank Business School](/colleges/hierank-noida) was founded in 2006 under the aegis of the ABR Education Foundation. Situated in Sector 62, Noida—the preeminent institutional and IT hub of Noida—the campus is surrounded by corporate campuses such as Barclays, IBM, Samsung, Tech Mahindra, and numerous media conglomerates.
 
 Approved by the **All India Council for Technical Education (AICTE)** and affiliated with **Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow)**, Hierank provides focused management training emphasizing fundamental business concepts, practical sales skills, and corporate readiness.
 
@@ -223,7 +223,7 @@ The learning framework at Hierank integrates theoretical principles with practic
 | **Hierank Noida (Sec 62)** | AKTU / AICTE | ₹3.25 Lakhs | ₹5.80 LPA | ₹5.20 LPA | ₹7.80 LPA |
 | **ITS Ghaziabad (Mohan Nagar)**| AKTU / AICTE | ₹3.20L – ₹6.90L | ₹6.50 LPA | ₹5.80 LPA | ₹8.50 LPA |
 | **Jaipuria JSB Ghaziabad** | AICTE Approved | ₹9.20 Lakhs | ₹7.80 LPA | ₹7.20 LPA | ₹10.20 LPA |
-| **Lloyd Business School** | AKTU / AICTE | ₹3.20L – ₹8.25L | ₹6.80 LPA | ₹6.20 LPA | ₹9.50 LPA |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | AKTU / AICTE | ₹3.20L – ₹8.25L | ₹6.80 LPA | ₹6.20 LPA | ₹9.50 LPA |
 | **IMS Ghaziabad (Univ Courses)**| CCS University | ₹4.50 Lakhs | ₹5.50 LPA | ₹5.00 LPA | ₹7.50 LPA |
 
 ---

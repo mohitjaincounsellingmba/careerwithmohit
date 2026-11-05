@@ -93,7 +93,7 @@ In this comprehensive guide by **Mohit Jain**, learn the application timelines, 
 
 | Institution & Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[Altera Institute](/colleges/altera-institute/) (PGP Applied Marketing)** | **₹16.44 Lakhs** | **₹12.50 LPA** | **ALNAT / CAT / XAT / NMAT** (Min 50% in Graduation) |
+| **[Altera Institute](/blog/direct-admission-altera-institute-gurgaon-2027-29/) (PGP Applied Marketing)** | **₹16.44 Lakhs** | **₹12.50 LPA** | **ALNAT / CAT / XAT / NMAT** (Min 50% in Graduation) |
 
 ---
 
@@ -168,7 +168,7 @@ Candidates with valid scores in national entrance exams are exempt from appearin
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[Altera Institute](/colleges/altera-institute/)** | ₹16.44 Lakhs | ₹12.50 LPA | ALNAT / CAT / NMAT · CMO-Led Applied Marketing |
+| **[Altera Institute](/blog/direct-admission-altera-institute-gurgaon-2027-29/)** | ₹16.44 Lakhs | ₹12.50 LPA | ALNAT / CAT / NMAT · CMO-Led Applied Marketing |
 | **[Masters' Union](/colleges/masters-union-gurgaon/)** | ₹29.38 Lakhs | ₹34.07 LPA | MU-BAAT / CAT / GMAT · Cyber City Tech B-School |
 | **[SOIL Gurgaon](/colleges/soil-gurgaon/)** | ₹16.35 Lakhs | ₹11.17 LPA | CAT/XAT/CMAT (70%+ %ile) · Design Thinking & HR |
 | **[Jaipuria Noida](/colleges/jaipuria-noida/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |

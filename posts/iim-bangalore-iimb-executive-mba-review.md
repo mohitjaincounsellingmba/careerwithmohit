@@ -14,7 +14,6 @@ keywords:
   - Bangalore Colleges
   - Best Colleges in Bangalore
   - Top Colleges in Bangalore 2026
-  - Bangalore Direct Admission 2026
   - Colleges in Karnataka
   - Bangalore Career Counselling
   - Bangalore Admissions 2027

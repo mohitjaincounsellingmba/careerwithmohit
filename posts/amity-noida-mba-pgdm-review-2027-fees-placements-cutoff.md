@@ -80,7 +80,7 @@ However, an investment exceeding ₹15.50 Lakhs requires cutting through marketi
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution** | **Amity Business School (Amity University, Noida)** |
+| **Institution** | **Amity Business School ([Amity University, Noida](/colleges/amity-noida))** |
 | **Campus Location** | Sector 125, Noida, Uttar Pradesh 201313 (Delhi-NCR) |
 | **Accreditation Rating** | **NAAC 'A+' Grade**, WASC Senior College (USA), IACBE (USA) |
 | **Regulatory Approvals** | UGC Recognized, AICTE Approved |

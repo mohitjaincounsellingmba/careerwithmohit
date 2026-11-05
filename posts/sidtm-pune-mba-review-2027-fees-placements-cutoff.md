@@ -271,10 +271,10 @@ During the GE-PIWAT process, SIDTM interview panels place high emphasis on why y
 
 **Final Rating: 8.8 / 10 (Tier-2 Specialized Premier Category)**
 
-If you enter SIDTM Pune with realistic expectations—recognizing that it is not IIM Ahmedabad or XLRI, but rather a focused, highly respected industry specialist—it offers one of the best risk-adjusted career outcomes in India:
+If you enter SIDTM Pune with realistic expectations—recognizing that it is not [IIM Ahmedabad](/colleges/iim-ahmedabad) or XLRI, but rather a focused, highly respected industry specialist—it offers one of the best risk-adjusted career outcomes in India:
 
 - **Who Should Definitely Join**: Aspirants with 75–88 percentile in SNAP who want a guaranteed gateway into top-tier tech consulting (EY, PwC, Deloitte, Accenture) or digital platform product operations with starting salaries between ₹11.0L and ₹18.0L.
-- **Who Should Reconsider**: Candidates seeking traditional fast-moving consumer goods (FMCG) brand management, frontline investment banking advisory (M&A), or HR management, for which SIIB, SCMHRD, or SIBM Pune are better suited.
+- **Who Should Reconsider**: Candidates seeking traditional fast-moving consumer goods (FMCG) brand management, frontline investment banking advisory (M&A), or HR management, for which SIIB, SCMHRD, or [SIBM Pune](/colleges/sibm-pune) are better suited.
 
 ---
 

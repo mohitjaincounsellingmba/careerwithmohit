@@ -74,7 +74,7 @@ Choosing the right PGDM or MBA institution requires analyzing audited placement 
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
 
-The table below provides a verified snapshot of **Institute of Marketing & Management (IMM)** for the upcoming **2027–2029 academic session**:
+The table below provides a verified snapshot of **[Institute of Marketing & Management (IMM)](/colleges/imm-delhi)** for the upcoming **2027–2029 academic session**:
 
 | Parameter | Official Verified Details |
 | :--- | :--- |

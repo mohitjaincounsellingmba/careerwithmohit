@@ -91,7 +91,9 @@ Instead of manually counting all 66 questions, use our automated [CAT Score Calc
 
 ---
 
-## 🧮 How to Accurately Calculate Your CAT Raw Score
+## 🧮 How to Accurately Calculate Your CAT Raw Score?
+
+**To accurately calculate your CAT raw score, tally total correct MCQs and multiply by 3, add 3 marks for each correct non-MCQ (TITA), and deduct 1 mark for every incorrect MCQ attempt.** Non-attempted questions and incorrect TITA responses carry zero penalties, giving a maximum possible raw score of 198 marks.
 
 $$\text{Raw Score} = (\text{Total Correct Questions} \times 3) - (\text{Incorrect MCQs} \times 1)$$
 

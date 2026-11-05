@@ -83,7 +83,7 @@ state: Delhi NCR
 > - **Accreditation & Approvals**: UGC Approved · NAAC Grade A+ Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹5.50 LPA** (Top 25% at **₹8.00 LPA**) with a highest package of **₹13.96 LPA**. 85% overall placement rate with 15% PPO conversion.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Noida International University (NIU) MBA / PG?
+## What are the Admission Cutoffs, Fees, and Placement Records for [Noida International University (NIU)](/colleges/niu-greater-noida) MBA / PG?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹6.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

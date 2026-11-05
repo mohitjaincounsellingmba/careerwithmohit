@@ -55,7 +55,7 @@ state: Tamil Nadu
 ## [Great Lakes Chennai](/colleges/great-lakes-chennai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Analytics Leadership**: Founded in 2004 by management guru Dr. Bala V. Balachandran, **Great Lakes Institute of Management (GLIM Chennai)** operates from a 27.5-acre LEED Platinum green campus in Chennai, holding **NIRF Rank #34** and prestigious **AMBA accreditation**.
+> - **Core USP & Analytics Leadership**: Founded in 2004 by management guru Dr. Bala V. Balachandran, **[Great Lakes Institute of Management (GLIM Chennai)](/colleges/great-lakes-chennai)** operates from a 27.5-acre LEED Platinum green campus in Chennai, holding **NIRF Rank #34** and prestigious **AMBA accreditation**.
 > - **Flagship Program Duality**:
 >   - **PGPM (1-Year)**: Elite program for professionals with 24+ months work ex (Avg CTC: **₹18.10 LPA**, Median: **₹17.50 LPA**, Highest: **₹39.30 LPA**).
 >   - **PGDM (2-Year)**: Tailored for freshers & candidates with 0–24 months work ex (Avg CTC: **₹15.10 LPA**, Highest: **₹37.00 LPA**).
@@ -244,7 +244,7 @@ The 1-year PGPM strictly requires a minimum of **24 months (2 years)** of full-t
 ### 2. Does Great Lakes Chennai accept CMAT scores?
 Yes. Great Lakes accepts CMAT scores for its **2-year PGDM program** (with a qualifying cutoff of 95+ percentile). However, CMAT is not accepted for the 1-year PGPM program.
 
-### 3. What is the difference between Great Lakes Chennai and Great Lakes Gurgaon?
+### 3. What is the difference between Great Lakes Chennai and [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)?
 Great Lakes Chennai is the flagship 27.5-acre LEED Platinum campus with higher average placement figures (₹18.10 LPA for PGPM). Great Lakes Gurgaon operates as an independent northern campus with separate placements and faculty.
 
 ### 4. What are the summer internship stipend figures for the 2-year PGDM at Great Lakes?

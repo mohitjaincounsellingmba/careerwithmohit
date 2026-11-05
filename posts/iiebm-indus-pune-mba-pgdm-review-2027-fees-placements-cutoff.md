@@ -58,7 +58,7 @@ state: Maharashtra
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **IT Corridor Location & Leadership Pedagogy**: Situated in **Wakad, Pune** (adjoining Hinjawadi IT Park), IIEBM (Indus Business School) is an **AICTE-approved business school** founded on military leadership principles and enriched with dedicated **SAP ERP enterprise modules**.
+> - **IT Corridor Location & Leadership Pedagogy**: Situated in **Wakad, Pune** (adjoining Hinjawadi IT Park), [IIEBM (Indus Business School)](/colleges/iiebm-pune) is an **AICTE-approved business school** founded on military leadership principles and enriched with dedicated **SAP ERP enterprise modules**.
 > - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹8.25 – ₹8.75 Lakhs** against an average domestic CTC of **₹7.50 – ₹8.20 LPA** (Top 25% batch averaging **₹11.50 LPA**; Highest CTC: **₹22.00 LPA**), ensuring a balanced ROI payback within 12 to 15 months.
 > - **Admissions & Accepted Exams**: Minimum 50% marks in graduation + valid **CAT / XAT / MAT / CMAT / ATMA / MAH MBA CET** score, assessed through Case Discussions and Personal Interview (PI).
 > - **Direct Counselling & Merit Assistance**: For direct profile evaluations, application fee concessions, and hostel bookings, contact Senior MBA Counselor **Mohit Jain (+91 9560020771)**.
@@ -183,7 +183,7 @@ IIEBM follows a comprehensive evaluation methodology, valuing student discipline
 | :--- | :--- | :--- | :--- | :--- |
 | **IIEBM (Indus Business School)** | **₹8.25 Lakhs** | **₹7.50 – ₹8.20 LPA** | **₹22.00 LPA** | Wakad, Pune |
 | **Balaji Institute (BIMM Pune)** | ₹13.80 Lakhs | ₹9.20 LPA | ₹21.50 LPA | Tathawade, Pune |
-| **PIBM Pune** | ₹9.45 Lakhs | ₹7.50 LPA | ₹17.00 LPA | Pirangut, Pune |
+| **[PIBM Pune](/colleges/pibm-pune)** | ₹9.45 Lakhs | ₹7.50 LPA | ₹17.00 LPA | Pirangut, Pune |
 | **Indira Institute (IIMP)** | ₹6.00 Lakhs | ₹7.80 LPA | ₹18.00 LPA | Tathawade, Pune |
 | **DYPIMR Pimpri (DY Patil)** | ₹3.15 Lakhs | ₹7.50 LPA | ₹24.00 LPA | Pimpri, Pune |
 
@@ -233,8 +233,8 @@ The 8-to-10-week summer internship between May and July gives IIEBM students pra
 | **IIEBM Pune (Wakad)** | AICTE, NBA | ₹8.25 Lakhs | ₹7.80 LPA | ₹7.20 LPA | ₹11.20 LPA |
 | **PIBM Pune** | AICTE, NBA | ₹9.45 Lakhs | ₹7.40 LPA | ₹7.00 LPA | ₹10.50 LPA |
 | **Lexicon MILE Pune** | AICTE Approved | ₹10.80 Lakhs | ₹7.80 LPA | ₹7.20 LPA | ₹10.80 LPA |
-| **RIIM Pune** | SPPU / AICTE | ₹6.60 Lakhs | ₹6.50 LPA | ₹6.20 LPA | ₹9.50 LPA |
-| **ISMS Pune** | SPPU / AICTE | ₹6.50 Lakhs | ₹6.20 LPA | ₹5.80 LPA | ₹8.50 LPA |
+| **[RIIM Pune](/colleges/riim-pune)** | SPPU / AICTE | ₹6.60 Lakhs | ₹6.50 LPA | ₹6.20 LPA | ₹9.50 LPA |
+| **[ISMS Pune](/colleges/isms-pune)** | SPPU / AICTE | ₹6.50 Lakhs | ₹6.20 LPA | ₹5.80 LPA | ₹8.50 LPA |
 
 ---
 

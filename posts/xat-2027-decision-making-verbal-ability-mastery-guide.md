@@ -4,7 +4,7 @@ date: '2026-08-26'
 category: Exams
 description: >-
   Master the XAT 2027 Decision Making (DM) and Verbal & Logical Ability (VALA)
-  sections. Learn core ethics frameworks, business case scenario solving...
+  sections. Learn core ethics frameworks, business case scenarios & XLRI cutoffs.
 keywords:
   - XAT 2027 decision making preparation
   - XAT verbal ability mastery guide
@@ -14,13 +14,6 @@ keywords:
   - XAT poem comprehension strategy
   - crack XLRI call XAT 2027
   - XAT decision making business case study
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: >-
       What is a good score in XAT 2027 Decision Making section to clear XLRI
@@ -40,13 +33,11 @@ faqs:
       Yes, XLRI applies differential cutoffs for BM and HRM programs. Cutoffs
       for female candidates and non-engineers are typically 1-3 percentile
       points lower across overall and sectional scores.
-location: Delhi NCR
-state: Delhi NCR
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
-> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
-> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
+> - **XLRI Sectional Benchmark**: Securing **8.5 to 10.5 raw marks out of 21–22 questions** (~86+ percentile) safely clears the Decision Making threshold for XLRI BM and HRM programs.
+> - **Golden Rule of Ethics**: In DM scenarios, never choose an option that involves deception, illegality, or compromising workplace safety—even if it offers immediate financial profit.
+> - **Expert Mentorship & PI-WAT**: For personal guidance on XLRI composite score shortlists and mock interview training, consult Senior Admissions Strategist **Mohit Jain (+91 9560020771)**.
 
 
 The **Xavier Aptitude Test (XAT)**, conducted by **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)**, is widely recognized as one of India's most challenging and prestigious management entrance examinations. Providing gateway access to [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi NCR, XIMB, IMT Ghaziabad, TAPMI, and 160+ top b-schools, XAT evaluates strategic thinking rather than simple speed.
@@ -63,9 +54,9 @@ In this masterclass guide for **XAT 2027**, we break down core ethical principle
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for Part 1: XAT 2027 Decision Making (DM) Mastery?
+## How to Master the Decision Making (DM) Section in XAT 2027?
 
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
+**Mastering XAT Decision Making requires scoring 9 to 11 raw marks out of 21 questions by eliminating emotional biases, identifying primary stakeholders, and prioritizing ethical compliance over short-term financial gains.** The section contains zero negative marks for unattempted questions up to 8 questions.
 
 
 

@@ -213,9 +213,9 @@ To make an informed admissions choice, compare SIIB with comparable management i
 | Institution | Exam & Cutoff | Total Budget | Average CTC | Key Core Strengths |
 |---|:---:|:---:|:---:|:---:|
 | **SIIB Pune (IB)** | SNAP (93–94 %ile) | ₹23.70 Lakhs | **₹13.12 LPA** | Global Trade, International Logistics, Agri & ESG |
-| **SIBM Pune** | SNAP (98.5 %ile) | ₹26.50 Lakhs | **₹28.16 LPA** | Premier General Management, Consulting & FMCG |
-| **SCMHRD Pune** | SNAP (97 %ile) | ₹25.80 Lakhs | **₹23.71 LPA** | Number 1 for HR in western India, Infrastructure |
-| **IIFT Delhi / Kolkata** | CAT (98+ %ile) | ₹25.00 Lakhs | **₹29.10 LPA** | Government of India National Apex for Global Trade |
+| **[SIBM Pune](/colleges/sibm-pune)** | SNAP (98.5 %ile) | ₹26.50 Lakhs | **₹28.16 LPA** | Premier General Management, Consulting & FMCG |
+| **[SCMHRD Pune](/colleges/scmhrd-pune)** | SNAP (97 %ile) | ₹25.80 Lakhs | **₹23.71 LPA** | Number 1 for HR in western India, Infrastructure |
+| **[IIFT Delhi](/colleges/iift-delhi) / Kolkata** | CAT (98+ %ile) | ₹25.00 Lakhs | **₹29.10 LPA** | Government of India National Apex for Global Trade |
 | **KJ Somaiya Mumbai** | CAT/XAT/NMAT (84+ %ile) | ₹22.50 Lakhs | **₹12.32 LPA** | General Management, Finance, Strong Mumbai Network |
 | **GIM Goa** | CAT/XAT (85–88 %ile) | ₹22.00 Lakhs | **₹14.87 LPA** | General MBA, Big Data Analytics, Healthcare (HCM) |
 

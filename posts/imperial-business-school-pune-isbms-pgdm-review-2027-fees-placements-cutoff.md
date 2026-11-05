@@ -223,7 +223,7 @@ ISBMS Pune Selection Weightage Matrix
 ### ❌ Who Should Avoid or Reconsider:
 
 1. **Aspirants Seeking Core Marketing, Advertising, or HR**: ISBMS is heavily skewed toward finance; marketing and HR placement opportunities are comparatively limited.
-2. **Candidates with Top 90+ Percentiles**: Candidates who have secured calls from IIMs, SIBM Pune, SCMHRD, or JBIMS Mumbai should not settle for mid-tier institutions.
+2. **Candidates with Top 90+ Percentiles**: Candidates who have secured calls from IIMs, [SIBM Pune](/colleges/sibm-pune), SCMHRD, or [JBIMS Mumbai](/colleges/jbims-mumbai) should not settle for mid-tier institutions.
 3. **Students Expecting Massive Campus Infrastructure**: ISBMS operates on a focused corporate-style setup rather than a sprawling 50-acre residential university campus.
 
 ---

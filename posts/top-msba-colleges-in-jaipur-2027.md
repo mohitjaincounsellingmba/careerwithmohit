@@ -47,9 +47,9 @@ state: Rajasthan
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Ranked B-School**: **Jaipuria Institute of Management, Jaipur** (AACSB Member) leads the state with average placement packages of ₹11.29 LPA across analytics and consulting.
-> - **Global University Infrastructure**: **Manipal University Jaipur (MUJ - TAPMI School of Business)** provides international-grade labs, multidisciplinary analytics programs, and campus placements.
-> - **UK-Accredited Technical Program**: **JECRC University** provides an **Institute of Analytics (IoA), UK-accredited** MBA in Business Analytics.
+> - **Top Ranked B-School**: **[Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)** (AACSB Member) leads the state with average placement packages of ₹11.29 LPA across analytics and consulting.
+> - **Global University Infrastructure**: **[Manipal University Jaipur](/colleges/manipal-university-jaipur) (MUJ - TAPMI School of Business)** provides international-grade labs, multidisciplinary analytics programs, and campus placements.
+> - **UK-Accredited Technical Program**: **[JECRC University](/colleges/jecrc-jaipur)** provides an **Institute of Analytics (IoA), UK-accredited** MBA in Business Analytics.
 > - **Cost-Effective Living & Education**: Jaipur offers affordable tuition fees (₹3.50L to ₹13.50L) coupled with lower cost-of-living and booming IT hubs in Mahindra World City and Sitapura.
 
 ---
@@ -74,7 +74,7 @@ For students considering a **Master of Science in Business Analytics (MSBA)** or
 | **[Manipal University Jaipur (MUJ)](/colleges/manipal-university-jaipur/)** (MBA Analytics) | ₹9.80L - ₹11.50L | ₹7.50 LPA - ₹9.10 LPA | CAT / MAT / CMAT / XAT / GMAT / MET |
 | **JECRC University** (MBA Business Analytics - IoA UK) | ₹3.80L - ₹5.50L | ₹6.50 LPA - ₹7.80 LPA | CAT / MAT / XAT / CMAT / JECRC Merit |
 | **[IIHMR University Jaipur](/colleges/iihmr-university/)** (MBA Healthcare Analytics) | ₹11.50 Lakhs | ₹8.50 LPA - ₹10.20 LPA | CAT / XAT / NMAT / MAT / CMAT / IIHMR-U |
-| **Apex University Jaipur** (MBA Analytics & AI) | ₹2.80L - ₹3.80L | ₹4.50 LPA - ₹5.50 LPA | CUET-PG / Direct Merit / National Entrance |
+| **[Apex University](/colleges/apex-jaipur) Jaipur** (MBA Analytics & AI) | ₹2.80L - ₹3.80L | ₹4.50 LPA - ₹5.50 LPA | CUET-PG / Direct Merit / National Entrance |
 | **Jaipur National University (JNU)** (MBA Analytics) | ₹3.50L - ₹4.80L | ₹5.00 LPA - ₹6.20 LPA | JEST / CAT / MAT / CMAT / Graduation Merit |
 | **Arya College of Engineering & IT** (MBA Analytics) | ₹2.20L - ₹3.00L | ₹4.20 LPA - ₹5.00 LPA | REAP / RMAT / CAT / CMAT / Direct Merit |
 

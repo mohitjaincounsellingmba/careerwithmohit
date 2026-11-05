@@ -93,7 +93,7 @@ Even for institutional seats, the standards are high:
 
 | Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **Direct Admission in FORE School of Management** | ₹15.4 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+| **Direct Admission in [FORE School of Management](/colleges/fore-school-delhi)** | ₹15.4 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
 
 ---
 

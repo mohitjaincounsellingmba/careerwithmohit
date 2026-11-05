@@ -16,11 +16,9 @@ keywords:
   - Gurgaon Colleges
   - Best Colleges in Gurgaon
   - Gurgaon Admissions 2026
-  - Direct Admission in Gurgaon
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -121,7 +119,7 @@ Offering some of the most competitive fees among all IIMs, [IIM Jammu](/colleges
 
 ### 8. [IIM Sirmaur](/colleges/iim-sirmaur/) (NEP-Aligned 4-Year BMS Program)
 [IIM Sirmaur](/colleges/iim-sirmaur/) has structured its program as a 4-year Bachelor in Management Studies (BMS).
-- **Why it stands out:** Designed with exit options after every year (Certificate/Diploma/Degree/Hons). Graduates with a CGPA of 8.0 or above can directly transition into the IIM Sirmaur MBA program without CAT.
+- **Why it stands out:** Designed with exit options after every year (Certificate/Diploma/Degree/Hons). Graduates with a CGPA of 8.0 or above can directly transition into the [IIM Sirmaur](/colleges/iim-sirmaur) MBA program without CAT.
 
 ---
 
@@ -129,9 +127,9 @@ Offering some of the most competitive fees among all IIMs, [IIM Jammu](/colleges
 
 To secure a seat in these programs, you must prepare for one (or more) of the following entrance exams:
 
-1. **IPMAT Indore:** Conducted by IIM Indore. Widely considered the toughest exam due to its higher mathematics section (including Short Answer type questions). Accepted by **IIM Indore, IIM Ranchi, IIM Shillong, IIM Amritsar, and IIM Sirmaur**.
-2. **IPMAT Rohtak:** Conducted by IIM Rohtak. Focuses heavily on speed and accuracy. It features Quantitative Aptitude, Verbal Ability, and Logical Reasoning. Accepted exclusively by **IIM Rohtak**.
-3. **JIPMAT (Joint IPM Admission Test):** Conducted by the National Testing Agency (NTA). It features standard, moderately difficult questions in Quant, Data Interpretation, Logical Reasoning, and Verbal Ability. Accepted by **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/) and IIM Jammu**.
+1. **IPMAT Indore:** Conducted by [IIM Indore](/colleges/iim-indore). Widely considered the toughest exam due to its higher mathematics section (including Short Answer type questions). Accepted by **IIM Indore, [IIM Ranchi](/colleges/iim-ranchi), IIM Shillong, [IIM Amritsar](/colleges/iim-amritsar), and IIM Sirmaur**.
+2. **IPMAT Rohtak:** Conducted by [IIM Rohtak](/colleges/iim-rohtak). Focuses heavily on speed and accuracy. It features Quantitative Aptitude, Verbal Ability, and Logical Reasoning. Accepted exclusively by **IIM Rohtak**.
+3. **JIPMAT (Joint IPM Admission Test):** Conducted by the National Testing Agency (NTA). It features standard, moderately difficult questions in Quant, Data Interpretation, Logical Reasoning, and Verbal Ability. Accepted by **[IIM Bodh Gaya](/colleges/iim-bodh-gaya/) and [IIM Jammu](/colleges/iim-jammu)**.
 
 *Confused about the prep strategies? Check out our complete **[IPMAT 2026 Preparation Guide & Syllabus](/blog/ipmat-2026-preparation-guide-colleges/)**.*
 

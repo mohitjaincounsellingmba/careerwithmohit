@@ -205,7 +205,7 @@ The selection process includes an Oral Extempore presentation evaluating spontan
 |---|:---:|:---:|:---:|:---:|
 | **Alliance University** | Anekal, Bangalore | ₹18.00 L – ₹19.00 L | **₹8.50 – ₹9.20 LPA** | AACSB member, 55-acre campus, Bangalore corporate ties |
 | **Christ University** | Bannerghatta, Bangalore | ₹9.50 L – ₹11.50 L | **₹8.20 LPA** | Strict academic discipline, central Bangalore campus |
-| **SIBM Bangalore** | Electronic City, Bangalore | ₹20.50 L – ₹22.50 L | **₹13.48 LPA** | Symbiosis brand in Electronic City, higher cutoff |
+| **[SIBM Bangalore](/colleges/sibm-bangalore)** | Electronic City, Bangalore | ₹20.50 L – ₹22.50 L | **₹13.48 LPA** | Symbiosis brand in Electronic City, higher cutoff |
 | **IFIM (JAGSoM) Bangalore** | Electronic City, Bangalore | ₹16.00 L – ₹18.00 L | **₹11.20 LPA** | AACSB accredited, specialized martech/fintech |
 | **Welingkar Bangalore** | Electronic City, Bangalore | ₹14.50 L – ₹16.50 L | **₹10.52 LPA** | E-business focus, Mumbai parent brand network |
 | **PES University** | Ring Road, Bangalore | ₹11.00 L – ₹13.00 L | **₹7.80 LPA** | Engineering heritage, corporate Bangalore placements |

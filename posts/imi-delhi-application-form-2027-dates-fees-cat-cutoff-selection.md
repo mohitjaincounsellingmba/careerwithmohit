@@ -53,7 +53,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-# IMI Delhi Application Form 2027 Open: Dates, CAT/XAT Cutoffs, Fees & Eligibility
+# [IMI Delhi](/colleges/imi-delhi) Application Form 2027 Open: Dates, CAT/XAT Cutoffs, Fees & Eligibility
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Application Portal Status**: Active and open for the 2027–2029 PGDM intake; closing on **December 19, 2026** at [admission.imi.edu](https://admission.imi.edu).
@@ -102,7 +102,7 @@ In this authoritative admission guide by **Mohit Jain**, we analyze application 
 | **Program Orientation & Commencement** | July 2027 |
 
 > [!TIP]
-> Through IMI's unified application system, candidates can also apply for IMI Kolkata and IMI Bhubaneswar by marking campus preferences in the same form without filling duplicate applications.
+> Through IMI's unified application system, candidates can also apply for [IMI Kolkata](/colleges/imi-kolkata) and IMI Bhubaneswar by marking campus preferences in the same form without filling duplicate applications.
 
 ---
 

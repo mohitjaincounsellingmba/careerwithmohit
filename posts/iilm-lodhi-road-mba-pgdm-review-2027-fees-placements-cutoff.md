@@ -60,7 +60,7 @@ state: Delhi NCR
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹12.90 Lakhs (Total)** against an average domestic CTC of **₹8.6 LPA** (Highest package: **₹20.0 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for IILM Institute for Higher Education PGDM 2027?
+## What are the Admission Cutoffs, Fees, and Placement Records for [IILM Institute for Higher Education](/colleges/iilm-delhi) PGDM 2027?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.90 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

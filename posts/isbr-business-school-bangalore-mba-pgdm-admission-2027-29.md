@@ -79,7 +79,7 @@ state: Karnataka
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · Affiliated to Bangalore University.
 > - **Audited Placements & PPO**: Average CTC stands at **₹9.00 LPA** (Top 25% at **₹12.50 LPA**) with a highest package of **₹20.00 LPA**. 25% of students secure PPOs in Electronic City IT & consulting firms.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for ISBR Business School MBA / PGDM Admission 202?
+## What are the Admission Cutoffs, Fees, and Placement Records for [ISBR Business School](/colleges/isbr-bangalore) MBA / PGDM Admission 202?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹11.00 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

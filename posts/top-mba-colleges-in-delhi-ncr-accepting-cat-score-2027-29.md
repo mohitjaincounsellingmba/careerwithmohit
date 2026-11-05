@@ -157,7 +157,7 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 [FMS Delhi](/colleges/fms-delhi/) (Faculty of Management Studies) and [MDI Gurgaon](/colleges/mdi-gurgaon/) are the top-ranked B-schools in Delhi NCR, followed by IIT Delhi DMS, [IIFT Delhi](/colleges/iift-delhi/), IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi/), and LBSIM Delhi.
 
 ### What is the CAT cutoff for [FMS Delhi](/colleges/fms-delhi/) and [MDI Gurgaon](/colleges/mdi-gurgaon/)?
-FMS Delhi typically requires a 99.3+ percentile in CAT for General category. MDI Gurgaon shortlists candidates in the 94-96+ percentile range.
+[FMS Delhi](/colleges/fms-delhi) typically requires a 99.3+ percentile in CAT for General category. [MDI Gurgaon](/colleges/mdi-gurgaon) shortlists candidates in the 94-96+ percentile range.
 
 ### Which MBA colleges in Delhi NCR offer the highest ROI?
 FMS Delhi offers the highest ROI in India with a 2-year fee of around INR 2 Lakhs and average placements exceeding INR 34 LPA. Other high ROI options include DSE Delhi, DFS Delhi, JIMS Rohini, and GL Bajaj Greater Noida.

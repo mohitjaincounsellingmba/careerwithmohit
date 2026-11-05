@@ -197,7 +197,7 @@ The personal interview focuses on business awareness, communication confidence, 
 | **Welingkar (WeSchool) Mumbai** | Matunga, Mumbai | ₹15.00 L – ₹18.00 L | **₹12.50 LPA** | Central Mumbai brand, design thinking pedagogy |
 | **KJ Somaiya Mumbai** | Vidyavihar, Mumbai | ₹22.50 L – ₹25.00 L | **₹12.32 LPA** | Massive campus, established Mumbai alumni network |
 | **IBS Mumbai (ICFAI)** | Powai, Mumbai | ₹10.50 L – ₹12.00 L | **₹7.80 LPA** | High batch volume, affordable finance/marketing |
-| **PIBM Pune** | Pirangut, Pune | ₹12.00 L – ₹13.50 L | **₹8.50 LPA** | Corporate grooming, high-intensity training |
+| **[PIBM Pune](/colleges/pibm-pune)** | Pirangut, Pune | ₹12.00 L – ₹13.50 L | **₹8.50 LPA** | Corporate grooming, high-intensity training |
 | **SIES Navi Mumbai** | Nerul, Navi Mumbai | ₹10.50 L – ₹12.50 L | **₹9.10 LPA** | Established South Indian Education Society network |
 
 ### Counselor Insight: UBS vs Welingkar vs PIBM

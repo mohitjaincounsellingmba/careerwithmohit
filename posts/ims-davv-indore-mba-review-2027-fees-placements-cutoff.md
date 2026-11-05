@@ -175,7 +175,7 @@ Here is how **[Institute of Management Studies](/colleges/ims-noida/), DAVV (IMS
 
 ---
 
-## 8. Final Admission Verdict: Should You Join Institute of Management Studies, DAVV (IMS DAVV)?
+## 8. Final Admission Verdict: Should You Join [Institute of Management Studies, DAVV (IMS DAVV)](/colleges/ims-davv-indore)?
 
 ### Why Choose Institute of Management Studies, DAVV (IMS DAVV)?
 1. **Solid Placement Track Record:** Consistent average CTC of **₹6.50 LPA** with blue-chip recruiters.

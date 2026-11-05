@@ -66,7 +66,7 @@ state: Rajasthan
 > - **Fee vs Average Package (ROI)**: Total program fee is **₹14.75 Lakhs (Total)** against an average domestic CTC of **₹9.50 LPA** (Highest package: **₹24.11 LPA**), offering balanced corporate return on investment.
 > - **Admissions & Eligibility**: Minimum 50% in graduation (45% for reserved categories) + valid **CAT / XAT / MAT / CMAT / ATMA** score followed by GD-PI assessment.
 
-[InquiryCard title="Get Direct Admission Guidance for Jaipuria Institute of Management, Jaipur" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Get Direct Admission Guidance for [Jaipuria Institute of Management, Jaipur](/colleges/jaipuria-jaipur)" description="Check seat availability, form fee discounts, and profile shortlisting chances with expert counselor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
 Choosing the right PGDM or MBA institution requires analyzing audited placement reports, actual fee commitments, faculty pedigree, and return on investment (ROI). In this comprehensive **2027 admission review of [Jaipuria Institute of Management, Jaipur](/mba-pgdm-admission-2027/)**, Senior MBA Admission Consultant **Mohit Jain** provides an honest, evidence-backed breakdown of fee structures, placement statistics, cutoff trends, curriculum specializations, and selection tips.
 

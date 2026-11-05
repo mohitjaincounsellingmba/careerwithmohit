@@ -116,7 +116,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-Lexicon Management Institute of Leadership & Excellence (Lexicon MILE) offers its flagship **PGDM & Global MBA (with UK/US University degree options)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+[Lexicon Management Institute of Leadership & Excellence](/colleges/lexicon-management-institute-of-leadership-excellence) (Lexicon MILE) offers its flagship **PGDM & Global MBA (with UK/US University degree options)**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved, Ministry of Education, Govt. of India.

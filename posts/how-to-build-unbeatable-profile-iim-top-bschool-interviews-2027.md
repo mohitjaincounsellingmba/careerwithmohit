@@ -18,7 +18,6 @@ keywords:
   - Mumbai Colleges
   - Best Colleges in Mumbai
   - Top Colleges in Mumbai 2026
-  - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
   - Mumbai Admissions 2027

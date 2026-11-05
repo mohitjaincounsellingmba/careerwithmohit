@@ -17,7 +17,6 @@ keywords:
   - Mumbai Colleges
   - Best Colleges in Mumbai
   - Top Colleges in Mumbai 2026
-  - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
   - Mumbai Admissions 2027
@@ -63,7 +62,7 @@ state: Maharashtra
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Qualifying vs Final Call Reality**: Qualifying cutoffs on official IIM brochures range from **80 to 90 percentile**, but the true minimum percentile for General candidates to receive an interview call (WAT-PI) is **98.0–99.8+ percentile** for Old IIMs (BLACKI) and **92.0–95.0+ percentile** for New/Baby IIMs.
-> - **Top Tier Legacy IIMs (BLACKI + IIM Mumbai)**: Target **99.5+ percentile** for IIM Ahmedabad and IIM Calcutta, **99.0+ percentile** for IIM Bangalore, and **98.0+ percentile** for IIM Lucknow, Kozhikode, and Indore.
+> - **Top Tier Legacy IIMs (BLACKI + IIM Mumbai)**: Target **99.5+ percentile** for [IIM Ahmedabad](/colleges/iim-ahmedabad) and [IIM Calcutta](/colleges/iim-calcutta), **99.0+ percentile** for [IIM Bangalore](/colleges/iim-bangalore), and **98.0+ percentile** for [IIM Lucknow](/colleges/iim-lucknow), Kozhikode, and Indore.
 > - **New & Baby IIM CAP Process**: 10+ participating IIMs conduct a single coordinated interview via the **Common Admission Process (CAP)** with typical shortlisting thresholds around **92–94 percentile** for General candidates and **70–75 percentile** for reserved categories.
 > - **Sectional Cutoffs are Non-Negotiable**: Failing to clear even a single sectional cutoff (typically **75–80 percentile** in VARC, DILR, or QA) disqualifies candidates from top IIM shortlists regardless of an overall 99+ percentile.
 
@@ -167,7 +166,7 @@ Standard Sectional Cutoff Thresholds for CAT 2026/2027
 └─────────────────────────────────────────────────────────────┘
 ```
 
-*Note: IIM Rohtak is among the few exceptions that rely primarily on overall percentile without enforcing separate sectional cutoffs.*
+*Note: [IIM Rohtak](/colleges/iim-rohtak) is among the few exceptions that rely primarily on overall percentile without enforcing separate sectional cutoffs.*
 
 ---
 
@@ -188,7 +187,7 @@ Typical IIM Shortlisting Weightage Distribution
 
 ### Profile Diversity Advantages:
 1. **Academic Diversity**: Non-engineering graduates (Commerce, Arts, Humanities, Medical, Law) receive 5 to 10 bonus points at IIM Ahmedabad, IIM Bangalore, IIM Calcutta, and IIM Lucknow.
-2. **Gender Diversity**: Female and transgender candidates receive 5 bonus points at institutions like IIM Kozhikode, IIM Rohtak, and IIM Sambalpur to promote balanced classroom representation.
+2. **Gender Diversity**: Female and transgender candidates receive 5 bonus points at institutions like IIM Kozhikode, IIM Rohtak, and [IIM Sambalpur](/colleges/iim-sambalpur) to promote balanced classroom representation.
 
 [MockTestCard title="CAT 2026-27 Free Full-Length CBT Mock Test" link="/mock-tests/" questions="66" time="120 Mins"]
 
@@ -200,8 +199,8 @@ Typical IIM Shortlisting Weightage Distribution
 
 If your CAT percentile falls in the 80–90 range, target these high-ROI institutions:
 - **Premier Non-IIM B-Schools**: [FMS Delhi](/colleges/fms-delhi/) *(for reserved categories)*, [FORE School of Management](/colleges/fore-school-delhi/), [GIM Goa](/colleges/gim-goa/), [Great Lakes Chennai](/colleges/great-lakes-chennai/), [TAPMI Manipal](/blog/direct-admission-tapmi-manipal-mgmt-quota-2027-29/), and [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/).
-- **Baby IIM Supplementary Rounds (SAP)**: Participate in IIM Jammu and IIM Sirmaur SAP counseling rounds.
-- **Alternative National Exams**: Boost your admission odds by taking **XAT** (for XLRI, XIMB, IMT), **NMAT** (for NMIMS Mumbai), and **SNAP** (for SIBM Pune, SCMHRD).
+- **Baby IIM Supplementary Rounds (SAP)**: Participate in [IIM Jammu](/colleges/iim-jammu) and [IIM Sirmaur](/colleges/iim-sirmaur) SAP counseling rounds.
+- **Alternative National Exams**: Boost your admission odds by taking **XAT** (for XLRI, XIMB, IMT), **NMAT** (for [NMIMS Mumbai](/colleges/nmims-mumbai)), and **SNAP** (for [SIBM Pune](/colleges/sibm-pune), SCMHRD).
 
 ---
 
@@ -217,7 +216,7 @@ For General category candidates, realistic final shortlist calls for IIM Ahmedab
 Yes, almost all 21 IIMs mandate sectional qualifying cutoffs across VARC, DILR, and QA, usually ranging between 70 to 80 percentile for General category candidates.
 
 ### Can I get into an IIM with an 85 to 90 CAT percentile?
-Yes, candidates scoring between 85 and 92 percentile can secure interview calls from Baby IIMs (such as IIM Bodh Gaya, IIM Jammu, IIM Sirmaur, and IIM Sambalpur) through the Common Admission Process (CAP) or SAP, especially if they have academic or gender diversity points.
+Yes, candidates scoring between 85 and 92 percentile can secure interview calls from Baby IIMs (such as [IIM Bodh Gaya](/colleges/iim-bodh-gaya), IIM Jammu, IIM Sirmaur, and IIM Sambalpur) through the Common Admission Process (CAP) or SAP, especially if they have academic or gender diversity points.
 
 ### How is the IIM Composite Score calculated for final admissions?
 IIMs compute a Composite Score (CS) combining CAT exam percentile (40%–60% weightage), Class 10th and 12th board marks (10%–20%), graduation scores (5%–15%), quality work experience (5%–10%), and academic/gender diversity points (5%–10%).

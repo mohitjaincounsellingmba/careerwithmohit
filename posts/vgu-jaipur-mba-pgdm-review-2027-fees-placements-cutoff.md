@@ -210,9 +210,9 @@ The personal interview evaluates business awareness, communication skills, caree
 | Institution | Location | Total All-Inclusive Fees | Average Domestic CTC | Key Distinct Strength |
 |---|:---:|:---:|:---:|:---:|
 | **VGU Jaipur** | Jaipur, Rajasthan | ₹5.00 L – ₹7.00 L | **₹6.70 LPA** | NAAC A+, low fee structure, high ROI |
-| **Manipal University Jaipur** | Jaipur, Rajasthan | ₹12.50 L – ₹15.50 L | **₹8.50 LPA** | Premium campus, higher fee structure |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Jaipur, Rajasthan | ₹12.50 L – ₹15.50 L | **₹8.50 LPA** | Premium campus, higher fee structure |
 | **Jaipuria Institute Jaipur** | Jaipur, Rajasthan | ₹11.50 L – ₹13.50 L | **₹8.80 LPA** | Established PGDM network, national brand |
-| **JECRC University Jaipur** | Jaipur, Rajasthan | ₹4.50 L – ₹6.50 L | **₹5.80 LPA** | Large student body, regional hiring ties |
+| **[JECRC University](/colleges/jecrc-jaipur) Jaipur** | Jaipur, Rajasthan | ₹4.50 L – ₹6.50 L | **₹5.80 LPA** | Large student body, regional hiring ties |
 | **Amity University Jaipur** | Kant Kalwar, Jaipur | ₹8.00 L – ₹10.50 L | **₹6.20 LPA** | Amity brand, suburban campus location |
 | **BIMTECH Greater Noida** | Greater Noida, NCR | ₹14.50 L – ₹17.50 L | **₹11.25 LPA** | Tier-1 NCR institution, higher fee level |
 

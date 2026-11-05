@@ -125,7 +125,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Rajagiri Centre for Business Studies (RCBS Kochi)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Rajagiri Centre for Business Studies (RCBS Kochi)](/colleges/rajagiri-centre-for-business-studies)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹7.80 LPA**

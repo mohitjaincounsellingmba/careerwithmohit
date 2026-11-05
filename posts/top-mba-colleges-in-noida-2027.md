@@ -122,7 +122,7 @@ In this 2027 guide, senior education mentor **Mohit Jain** evaluates the top MBA
 ### What is the CAT cutoff for [Jaipuria Institute of Management](/colleges/jaipuria-noida/) Noida?
 For the PGDM Core and specialized programs, the CAT cutoff is typically **70 to 75 percentile**. Jaipuria also considers MAT (80+ percentile), CMAT (75+ percentile), and XAT scores.
 
-### Is Asian Business School (ABS) Noida AICTE approved?
+### Is [Asian Business School (ABS)](/colleges/asian-business-school-noida) Noida AICTE approved?
 Yes, Asian Business School is approved by AICTE, Ministry of Education, Government of India, and its PGDM program is recognized by AIU as equivalent to an MBA.
 
 ### What are the best low fee MBA options in Noida?

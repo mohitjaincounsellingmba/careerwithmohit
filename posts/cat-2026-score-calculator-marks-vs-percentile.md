@@ -46,7 +46,9 @@ Since CAT uses a multi-slot system with varying difficulty levels across Slot 1,
 
 ---
 
-## 🧮 How to Calculate Your CAT 2026 Score & Percentile Online
+## 🧮 How to Calculate Your CAT 2026 Score & Percentile Online?
+
+**To calculate your CAT 2026 score, assign +3 marks for every correct MCQ or TITA answer, deduct -1 mark for each wrong MCQ, and input these attempts into the CAT score calculator for instant scaled percentile estimation.** The tool accurately projects normalization across Slot 1, 2, and 3 based on official IIM guidelines.
 
 Candidates can easily calculate their exact raw marks, apply slot normalization, and forecast eligible IIM call ranges using our interactive **CAT Score Calculator 2026**.
 
@@ -91,7 +93,7 @@ The following table highlights the expected raw marks required to score various 
 | :---: | :---: | :--- |
 | **110 – 125+** | **99.9+ %ile** | [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [FMS Delhi](/colleges/fms-delhi/) |
 | **95 – 109** | **99.5 – 99.89 %ile** | [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, [IIM Indore](/colleges/iim-indore/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/) |
-| **82 – 94** | **99.0 – 99.49 %ile** | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon/), [IIFT Delhi](/colleges/iift-delhi/), IIT Delhi, IIT Bombay |
+| **82 – 94** | **99.0 – 99.49 %ile** | IIM Shillong, [MDI Gurgaon](/colleges/mdi-gurgaon/), [IIFT Delhi](/colleges/iift-delhi/), IIT Delhi, [IIT Bombay](/colleges/iit-bombay) |
 | **75 – 81** | **98.0 – 98.99 %ile** | [IIM Ranchi](/colleges/iim-ranchi/), [IIM Udaipur](/colleges/iim-udaipur/), [IIM Raipur](/colleges/iim-raipur/), [IIM Trichy](/colleges/iim-trichy/) |
 | **60 – 74** | **95.0 – 97.99 %ile** | Baby IIMs, [IMT Ghaziabad](/colleges/imt-ghaziabad/), [IMI New Delhi](/colleges/imi-delhi/), DoMS IIT Madras |
 | **48 – 59** | **90.0 – 94.99 %ile** | [FORE School of Management](/colleges/fore-school-delhi/), GIM Goa, TAPMI Manipal, Great Lakes |

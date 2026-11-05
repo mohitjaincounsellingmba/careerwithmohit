@@ -48,7 +48,7 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Top Value & High ROI Leader**: **Delhi School of Economics (DSE)** leads the Delhi NCR region with an unbeatable fee of under ₹50,000 for 2 years and average placements of ₹14.50 LPA.
-> - **Elite Private B-Schools**: **IMI New Delhi** (Avg ₹17.01 LPA), **FORE School of Management** (Avg ₹14.80 LPA), and **LBSIM Delhi** (Avg ₹12.40 LPA) offer top-tier specialized analytics degrees.
+> - **Elite Private B-Schools**: **IMI New Delhi** (Avg ₹17.01 LPA), **[FORE School of Management](/colleges/fore-school-delhi)** (Avg ₹14.80 LPA), and **LBSIM Delhi** (Avg ₹12.40 LPA) offer top-tier specialized analytics degrees.
 > - **Headquarters Advantage**: Proximity to central government ministries, global strategy think tanks, and Fortune 500 corporate headquarters creates high-paying consulting and data analytics opportunities.
 > - **Accepted Entrance Exams**: CAT (85–96+ percentile), XAT, GMAT, CMAT, MAT, and CUET-PG.
 
@@ -156,7 +156,7 @@ Graduates from Delhi NCR institutions access the broadest spectrum of corporate 
 ## 🎯 Profile Checklist & Admission Strategy
 
 - **If your CAT score is 95+**: DSE is an unbeatable financial and career investment.
-- **If your CAT/XAT is 85–92**: Prioritize IMI Delhi, FORE School (BDA), and LBSIM (R&BA).
+- **If your CAT/XAT is 85–92**: Prioritize [IMI Delhi](/colleges/imi-delhi), FORE School (BDA), and LBSIM (R&BA).
 - **If you prefer an affordable M.Sc. track under ₹5 Lakhs**: Consider JIIT Noida Data & Business Analytics.
 - **If your percentile is 70–80**: Explore JIMS Rohini, Christ University Delhi NCR, or Amity Noida.
 

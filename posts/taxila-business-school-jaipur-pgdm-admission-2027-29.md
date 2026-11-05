@@ -78,7 +78,7 @@ state: Rajasthan
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, Govt. of India.
 > - **Audited Placements & PPO**: Average CTC stands at **₹11.80 LPA** (Top 25% at **₹15.50 LPA**) with a highest package of **₹28.60 LPA**. 100% placement track with 35% PPO conversion in SAP consulting and analytics firms.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Taxila Business School (TBS) MBA / PGDM Admis?
+## What are the Admission Cutoffs, Fees, and Placement Records for [Taxila Business School](/colleges/taxila-jaipur) (TBS) MBA / PGDM Admis?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹10.50 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

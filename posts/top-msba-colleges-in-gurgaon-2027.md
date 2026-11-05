@@ -50,9 +50,9 @@ state: Delhi NCR
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Top Tier Leader**: **MDI Gurgaon** (NIRF Top 15) offers India's premier **PGDM in Business Analytics** with average domestic packages of ₹25.50 LPA – ₹27.67 LPA.
+> - **Top Tier Leader**: **[MDI Gurgaon](/colleges/mdi-gurgaon)** (NIRF Top 15) offers India's premier **PGDM in Business Analytics** with average domestic packages of ₹25.50 LPA – ₹27.67 LPA.
 > - **Tech & Business Management Innovator**: **Masters' Union** (DLF Cyber City) provides immersive, practitioner-led training in Product Analytics, Growth Analytics, and AI decision models with average CTCs exceeding ₹31 LPA.
-> - **Global Accreditation & High ROI**: **JKBS Gurugram** (IoA UK Accredited DABI Program) and **Great Lakes Gurgaon** offer strong mid-budget analytics leadership tracks.
+> - **Global Accreditation & High ROI**: **JKBS Gurugram** (IoA UK Accredited DABI Program) and **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** offer strong mid-budget analytics leadership tracks.
 > - **MNC Capital Advantage**: Gurgaon hosts over 250+ Fortune 500 headquarters, management consultancies (McKinsey, BCG, Bain), and tech giants (Google, Microsoft, Zomato) along Cyber City and Golf Course Road.
 
 ---

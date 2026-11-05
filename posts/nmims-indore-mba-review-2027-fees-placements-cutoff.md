@@ -95,7 +95,7 @@ Established in 2017, NMIMS Indore is situated on a sprawling 25-acre green campu
 
 ## 2. Program Portfolio & Transparent Fee Structure (2027–2029)
 
-The flagship 2-year full-time MBA program at NMIMS Indore follows the case-based academic curriculum curated by SVKM's NMIMS Mumbai, maintaining identical examination standards and academic benchmarks across campuses.
+The flagship 2-year full-time MBA program at NMIMS Indore follows the case-based academic curriculum curated by SVKM's [NMIMS Mumbai](/colleges/nmims-mumbai), maintaining identical examination standards and academic benchmarks across campuses.
 
 ### Detailed Fee Breakdown (2-Year Full-Time MBA)
 

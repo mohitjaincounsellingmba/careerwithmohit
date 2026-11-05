@@ -103,7 +103,7 @@ Securing a seat in a top college significantly impacts your starting package and
 2.  **[IIM Indore](/colleges/iim-indore/)/Rohtak (IPM):** The Five-Year Integrated Program in Management allows students to secure an MBA degree right after class 12th from an IIM.
 3.  **NMIMS (ASMSOC), Mumbai:** Known for its rigorous curriculum and urban campus life.
 4.  **Symbiosis (SCMS), Pune:** A great choice for those wanting international exposure and a holistic campus environment.
-5.  **Christ University, Bangalore:** Renowned for discipline and excellent industry ties in South India.
+5.  **[Christ University, Bangalore](/colleges/christ-university-bangalore):** Renowned for discipline and excellent industry ties in South India.
 
 *Read more:* [Top BBA Colleges in Delhi NCR](/blog/top-10-bba-colleges-delhi-ncr-2026/)
 

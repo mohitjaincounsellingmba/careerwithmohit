@@ -94,7 +94,7 @@ Understanding which IIM convened the exam in previous years helps aspirants trac
 
 | Year | Conducting IIM | Exam Date | Major Highlights / Notes |
 | :--- | :--- | :--- | :--- |
-| **2026** | **IIM Indore** | **November 29, 2026** | **Upcoming exam; focus on balanced QA and analytical VARC** |
+| **2026** | **[IIM Indore](/colleges/iim-indore)** | **November 29, 2026** | **Upcoming exam; focus on balanced QA and analytical VARC** |
 | **2025** | IIM Kozhikode | November 30, 2025 | Standard 66-question format across three slots |
 | **2024** | [IIM Calcutta](/colleges/iim-calcutta/) | November 24, 2024 | Moderate-to-high difficulty Quantitative Aptitude |
 | **2023** | [IIM Lucknow](/colleges/iim-lucknow/) | November 26, 2023 | High analytical rigor in DILR and QA sections |

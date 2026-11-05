@@ -48,7 +48,7 @@ state: Karnataka
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **India's Top Analytics Flagship**: **IIM Bangalore (PGP-BA)** is the undisputed #1 program in the country, delivering an average domestic CTC of ₹35.31 LPA.
+> - **India's Top Analytics Flagship**: **[IIM Bangalore](/colleges/iim-bangalore) (PGP-BA)** is the undisputed #1 program in the country, delivering an average domestic CTC of ₹35.31 LPA.
 > - **Top Private Contenders**: **SIBM Bengaluru**, **JAGSoM (AACSB Accredited)**, **Christ University**, and **Alliance University** offer industry-integrated analytics curricula.
 > - **Tech Capital Placement Advantage**: Bangalore offers instant proximity to Electronic City, Whitefield, and Outer Ring Road tech corridors, translating into high conversion rates for data science and business analytics internships.
 > - **Admission Routes**: CAT (99+ %ile for IIMB), SNAP (90+ %ile for SIBM), XAT/NMAT/CMAT/MAT, and institutional direct profile evaluations.
@@ -76,7 +76,7 @@ Whether your aspiration is to work with top-tier product conglomerates (Amazon, 
 | **[JAGSoM Bangalore](/colleges/jagsom-bangalore/)** (PGDM Business Analytics) | ₹15.95 Lakhs | ₹13.30 LPA - ₹14.00 LPA | CAT / XAT / GMAT / NMAT / CMAT (AACSB Global) |
 | **[Christ University](/colleges/christ-university-bangalore/)** (MBA Business Analytics) | ₹9.50L - ₹11.50L | ₹8.50 LPA - ₹10.20 LPA | CAT / MAT / XAT / CMAT / ATMA / CUET |
 | **[Alliance University](/colleges/alliance-university-bangalore/)** (MBA Business Analytics) | ₹15.00 Lakhs | ₹8.50 LPA - ₹9.20 LPA | CAT / NMAT / XAT / AMAT / CMAT (65%+ %ile) |
-| **ISBR Business School** (PGDM Business Analytics & AI) | ₹10.50 Lakhs | ₹8.20 LPA - ₹9.00 LPA | CAT / XAT / MAT / CMAT / ISBR Aptitude Test |
+| **[ISBR Business School](/colleges/isbr-bangalore)** (PGDM Business Analytics & AI) | ₹10.50 Lakhs | ₹8.20 LPA - ₹9.00 LPA | CAT / XAT / MAT / CMAT / ISBR Aptitude Test |
 | **CMS Business School (JAIN University)** (MBA BA) | ₹10.80L - ₹12.50L | ₹7.50 LPA - ₹8.50 LPA | JET / CAT / MAT / CMAT / NMAT |
 
 ---

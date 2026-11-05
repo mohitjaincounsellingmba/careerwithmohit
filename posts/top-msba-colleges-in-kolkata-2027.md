@@ -48,8 +48,8 @@ state: West Bengal
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Asia's #1 Analytics Flagship**: Kolkata hosts the prestigious **Tri-Institute PGDBA** program run jointly by **IIM Calcutta, ISI Kolkata, and IIT Kharagpur**, delivering average placement packages of ₹31.05 LPA (Highest ₹89 LPA).
-> - **Industry-Aligned Private Options**: **IMI Kolkata**, **Globsyn Business School**, and **Praxis Business School** provide strong management analytics tracks with fees ranging between ₹6.50 Lakhs and ₹13.20 Lakhs.
+> - **Asia's #1 Analytics Flagship**: Kolkata hosts the prestigious **Tri-Institute PGDBA** program run jointly by **[IIM Calcutta](/colleges/iim-calcutta), ISI Kolkata, and IIT Kharagpur**, delivering average placement packages of ₹31.05 LPA (Highest ₹89 LPA).
+> - **Industry-Aligned Private Options**: **[IMI Kolkata](/colleges/imi-kolkata)**, **[Globsyn Business School](/colleges/globsyn-kolkata)**, and **[Praxis Business School](/colleges/praxis-kolkata)** provide strong management analytics tracks with fees ranging between ₹6.50 Lakhs and ₹13.20 Lakhs.
 > - **Eastern Tech & Consulting Corridor**: Kolkata’s Salt Lake Sector V and New Town Rajarhat analytics hubs host major data practices for PwC, Deloitte USI, Cognizant, Wipro, and Genpact.
 > - **Admission Gateways**: PGDBA National Test, CAT, XAT, CMAT, MAT, and JEMAT.
 
@@ -75,9 +75,9 @@ From the world-renowned joint PGDBA tri-institute program to dynamic corporate P
 | **[IMI Kolkata](/colleges/imi-kolkata/)** (PGDM Business Analytics) | ₹13.20 Lakhs | ₹10.65 LPA - ₹11.50 LPA | CAT / XAT / CMAT (70%+ %ile) |
 | **Praxis Business School** (PGP Data Science / Analytics) | ₹6.50L - ₹9.50L | ₹9.46 LPA - ₹13.50 LPA | PAT (Praxis Aptitude Test) / CAT / XAT / GMAT |
 | **[Globsyn Business School](/colleges/globsyn-kolkata/)** (PGDM Business Analytics) | ₹8.90 Lakhs | ₹7.50 LPA - ₹8.20 LPA | CAT / XAT / MAT / CMAT / ATMA / JEMAT |
-| **Calcutta Business School (CBS)** (PGDM Analytics) | ₹7.50L - ₹8.20L | ₹6.80 LPA - ₹7.50 LPA | CAT / MAT / CMAT / XAT / ATMA (50%+ Marks) |
+| **[Calcutta Business School](/colleges/calcutta-business-school) (CBS)** (PGDM Analytics) | ₹7.50L - ₹8.20L | ₹6.80 LPA - ₹7.50 LPA | CAT / MAT / CMAT / XAT / ATMA (50%+ Marks) |
 | **IISWBM Kolkata** (MBA Analytics Specialization) | ₹6.50 Lakhs | ₹7.20 LPA - ₹8.00 LPA | CAT / CMAT / JEMAT (High ROI State College) |
-| **Sister Nivedita University (SNU)** (M.Sc / MBA BA) | ₹4.50L - ₹6.00L | ₹5.50 LPA - ₹6.50 LPA | SNUET / National Entrance / Graduation Merit |
+| **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU)** (M.Sc / MBA BA) | ₹4.50L - ₹6.00L | ₹5.50 LPA - ₹6.50 LPA | SNUET / National Entrance / Graduation Merit |
 
 ---
 
@@ -128,7 +128,7 @@ From the world-renowned joint PGDBA tri-institute program to dynamic corporate P
 
 ---
 
-### 5. IISWBM Kolkata (Indian Institute of Social Welfare and Business Management)
+### 5. IISWBM Kolkata ([Indian Institute of Social Welfare and Business Management](/colleges/indian-institute-of-social-welfare-and-business-management))
 - **Flagship Offering**: MBA with Analytics / Systems Specialization
 - **Total Tuition Fee**: ₹6.50 Lakhs (High ROI)
 - **Placement Performance**: Average CTC ₹7.20 LPA – ₹8.00 LPA

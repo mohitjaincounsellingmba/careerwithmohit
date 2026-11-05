@@ -60,7 +60,7 @@ state: Maharashtra
 ## [SPJIMR Mumbai](/colleges/spjimr-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Prestige**: Established in 1981 under Bharatiya Vidya Bhavan, **SPJIMR Mumbai** (Andheri West, Mumbai) holds **NIRF Rank #20**, prestigious dual **AACSB and AMBA accreditations**, and ranks in the **Financial Times Global Top 40 Masters in Management (FT MiM)**.
+> - **Core USP & Prestige**: Established in 1981 under Bharatiya Vidya Bhavan, **[SPJIMR Mumbai](/colleges/spjimr-mumbai)** (Andheri West, Mumbai) holds **NIRF Rank #20**, prestigious dual **AACSB and AMBA accreditations**, and ranks in the **Financial Times Global Top 40 Masters in Management (FT MiM)**.
 > - **Unique Profile-Based Route**: Offers early interview shortlisting at **85+ CAT/XAT percentile** for candidates with stellar academic and leadership profiles, alongside score-based calls at **95+ percentile**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹24.00 Lakhs** against an audited average CTC of **₹33.00 LPA** (Median: **₹31.50 LPA**, Top 25%: **₹41.20 LPA**, Highest: **₹77.80 LPA**), offering one of the highest ROI metrics among all Asian B-schools.
 > - **Specialization Selection at Application**: Applicants choose their major (**Finance, Marketing, Operations & Supply Chain, or Information Management**) during the application phase.
@@ -117,7 +117,7 @@ The fee structure at **SPJIMR Mumbai** is distributed across six academic terms 
 
 ## 3. Audited Placements & Salary Breakdown (Latest Reports)
 
-SPJIMR Mumbai consistently matches and exceeds IIM Ahmedabad, Bangalore, and Calcutta across FMCG, Consumer Marketing, and Tier-1 Management Consulting roles.
+SPJIMR Mumbai consistently matches and exceeds [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, and Calcutta across FMCG, Consumer Marketing, and Tier-1 Management Consulting roles.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

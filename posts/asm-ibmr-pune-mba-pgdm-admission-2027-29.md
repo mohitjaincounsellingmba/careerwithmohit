@@ -122,7 +122,7 @@ ASM’s Institute of Business Management & Research (IBMR) offers its flagship *
 
 ## 3. Verified Fee Structure & Scholarship Policies (2027–29)
 
-For the **2027–29 academic session**, ASM IBMR Pune provides structured installment schedules and generous merit-cum-means scholarship funds:
+For the **2027–29 academic session**, [ASM IBMR](/colleges/asm-ibmr) Pune provides structured installment schedules and generous merit-cum-means scholarship funds:
 
 | Fee Component | Amount (INR) | Payment Due Date |
 | :--- | :--- | :--- |

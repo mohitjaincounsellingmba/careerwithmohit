@@ -49,7 +49,7 @@ state: 'Indore, Madhya Pradesh'
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Triple Crown Hilltop Campus & Pedagogy**: Set atop a scenic **193-acre hilltop campus on Prabandh Shikhar in Indore**, IIM Indore holds the elite **Triple Crown accreditation (AACSB, AMBA, EQUIS)** and ranks among India’s top 8 management institutions (NIRF).
+> - **Triple Crown Hilltop Campus & Pedagogy**: Set atop a scenic **193-acre hilltop campus on Prabandh Shikhar in Indore**, [IIM Indore](/colleges/iim-indore) holds the elite **Triple Crown accreditation (AACSB, AMBA, EQUIS)** and ranks among India’s top 8 management institutions (NIRF).
 > - **Robust ROI & High Median CTC**: Total 2-year program fee is **₹21.00 – ₹21.50 Lakhs** against an audited average domestic CTC of **₹25.68 – ₹30.21 LPA** (Top 25% batch averaging **₹38.50 LPA**; Highest Domestic CTC: **₹1.14 Crore**), ensuring complete financial payback within 12 to 15 months.
 > - **Admissions & Academic Weightage**: Minimum 50% in graduation + valid **CAT** score (**97.0+ percentile** for candidates with strong school marks), heavily valuing past academic consistency across Class 10 (34%) and Class 12 (40%).
 > - **Strategic Profile Evaluation**: For personalized composite score calculations, academic rating conversions, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
@@ -180,10 +180,10 @@ IIM Indore follows a unique Composite Score (CS) methodology for PI shortlisting
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Indore (IIMI)** | **₹21.10 Lakhs** | **₹25.68 – ₹30.21 LPA** | **₹24.50 LPA** | Indore, MP |
-| **IIM Lucknow (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Lucknow, UP |
+| **[IIM Lucknow](/colleges/iim-lucknow) (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Lucknow, UP |
 | **IIM Kozhikode (IIMK)** | ₹20.50 Lakhs | ₹28.05 LPA | ₹27.00 LPA | Kozhikode, Kerala |
-| **IIM Calcutta (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.60 LPA | Joka, Kolkata |
-| **FMS Delhi** | ₹2.00 Lakhs | ₹34.10 LPA | ₹31.00 LPA | North Campus, Delhi |
+| **[IIM Calcutta](/colleges/iim-calcutta) (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.60 LPA | Joka, Kolkata |
+| **[FMS Delhi](/colleges/fms-delhi)** | ₹2.00 Lakhs | ₹34.10 LPA | ₹31.00 LPA | North Campus, Delhi |
 
 ---
 

@@ -16,7 +16,6 @@ keywords:
   - Dehradun Colleges
   - Best Colleges in Dehradun
   - Top Colleges in Dehradun 2026
-  - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
   - Dehradun Admissions 2027

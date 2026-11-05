@@ -55,7 +55,7 @@ state: Maharashtra
 ## [KJ Somaiya Mumbai](/colleges/kj-somaiya-mumbai/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Sprawling 60-Acre Campus**: Established in 1981 under Somaiya Vidyavihar University, **K J Somaiya Institute of Management (Mumbai)** operates from a massive 60-acre green campus in Vidyavihar East (Mumbai), holding **NIRF Rank #63** and prestigious **AACSB global accreditation**.
+> - **Core USP & Sprawling 60-Acre Campus**: Established in 1981 under Somaiya Vidyavihar University, **[K J Somaiya Institute of Management](/colleges/kj-somaiya-mumbai) (Mumbai)** operates from a massive 60-acre green campus in Vidyavihar East (Mumbai), holding **NIRF Rank #63** and prestigious **AACSB global accreditation**.
 > - **Flagship Programs**: Offers its flagship **MBA (General Management with Major/Minor Specializations)** alongside **MBA in Healthcare Management (HCM)** and **MBA in Sports Management (SM)**.
 > - **Fee vs Average Package (ROI)**: Total 2-year tuition fee is **₹20.87 Lakhs** against an audited average CTC of **₹13.50 LPA – ₹14.00 LPA** (Median: **₹13.00 LPA**, Top 10%: **₹20.50 LPA**, Highest: **₹28.25 LPA**).
 > - **Cutoffs & Multi-Test Acceptance**: Accepts **CAT/XAT (83–86 %ile)**, **CMAT (95+ %ile)**, **NMAT (222+ Score)**, and GMAT, followed by Case Analysis and Personal Interviews.

@@ -173,7 +173,7 @@ Here is how **[Chandragupt Institute of Management Patna](/colleges/cimp-patna/)
 
 ---
 
-## 8. Final Admission Verdict: Should You Join Chandragupt Institute of Management Patna (CIMP)?
+## 8. Final Admission Verdict: Should You Join [Chandragupt Institute of Management Patna (CIMP)](/colleges/cimp-patna)?
 
 ### Why Choose Chandragupt Institute of Management Patna (CIMP)?
 1. **Solid Placement Track Record:** Consistent average CTC of **₹7.80 LPA** with blue-chip recruiters.

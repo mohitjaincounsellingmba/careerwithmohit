@@ -58,7 +58,7 @@ location: Pune
 state: Maharashtra
 ---
 
-## [International School of Management Studies (ISMS Pune)](https://careerwithmohit.online/blog/isms-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [International School of Management Studies ([ISMS Pune](/colleges/isms-pune))](https://careerwithmohit.online/blog/isms-pune-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier globally partnered business school situated in Wadgaon and Hinjawadi corridors, Pune, Maharashtra. Accredited by **Pearson Edexcel (UK)**, ISMS is distinguished by its British dual-degree top-up programs, international student exchange pathways, and intensive corporate grooming.
@@ -214,8 +214,8 @@ The selection process evaluates spontaneous articulation, business awareness, ca
 | **ISMS Pune** | Wadgaon / Hinjawadi | ₹6.50 L – ₹7.50 L | **₹6.20 – ₹7.10 LPA** | Pearson UK accreditation, British dual degree pathways |
 | **Akemi Business School** | Marunji, Hinjawadi | ₹3.50 L – ₹4.50 L | **₹5.80 – ₹6.20 LPA** | SPPU degree, Hinjawadi tech proximity |
 | **DY Patil Institute (DYPIMR)** | Pimpri, Pune | ₹2.80 L – ₹3.20 L | **₹5.80 – ₹6.50 LPA** | NAAC A++, regulated low fees, Pimpri auto hub |
-| **RIIM Pune** | Bavdhan, Pune | ₹8.50 L – ₹9.95 L | **₹8.50 LPA** | Corporate grooming, national certifications |
-| **PIBM Pune** | Pirangut, Pune | ₹12.00 L – ₹13.50 L | **₹8.50 LPA** | Intensive sales & finance training |
+| **[RIIM Pune](/colleges/riim-pune)** | Bavdhan, Pune | ₹8.50 L – ₹9.95 L | **₹8.50 LPA** | Corporate grooming, national certifications |
+| **[PIBM Pune](/colleges/pibm-pune)** | Pirangut, Pune | ₹12.00 L – ₹13.50 L | **₹8.50 LPA** | Intensive sales & finance training |
 | **Indira Institute Pune** | Wakad, Pune | ₹7.50 L – ₹9.50 L | **₹7.50 LPA** | Strong regional alumni network in Pune |
 
 ### Counselor Insight: ISMS vs Akemi vs RIIM

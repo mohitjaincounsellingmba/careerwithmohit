@@ -125,4 +125,4 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 
 | Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **Why ASM IIBR Pune (Group) is Good for MBA and** | ₹5.5 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+| **Why [ASM IIBR](/colleges/asm-iibr) Pune (Group) is Good for MBA and** | ₹5.5 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

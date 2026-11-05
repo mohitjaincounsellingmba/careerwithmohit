@@ -77,7 +77,7 @@ state: Delhi NCR
 
 ## 1. Institutional Background: The XLRI Pedagogy at ISB&M Gurgaon
 
-The International School of Business & Media (ISB&M), established under the leadership of Dr. Pramod Kumar—an alumnus of University of California, Berkeley and former Dean at XLRI Jamshedpur and SIBM Pune—was founded to bring corporate realism into Indian management education. 
+The [International School of Business & Media](/colleges/international-school-of-business-media) (ISB&M), established under the leadership of Dr. Pramod Kumar—an alumnus of University of California, Berkeley and former Dean at [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and [SIBM Pune](/colleges/sibm-pune)—was founded to bring corporate realism into Indian management education. 
 
 Located in Sector 51, Gurugram, ISB&M operates directly within India’s millennium corporate city. Surrounded by multinational corporate towers on Golf Course Road, Cyber City, and Sohna Road, ISB&M connects students with live industry mentorship and continuous recruitment drives.
 
@@ -216,9 +216,9 @@ The selection process evaluates spontaneous articulation, business awareness, ca
 |---|:---:|:---:|:---:|:---:|
 | **ISB&M Gurgaon** | Sector 51, Gurgaon | ₹9.00 L – ₹9.60 L | **₹8.20 – ₹8.80 LPA** | XLRI pedigree, Gurgaon corporate location, student governance |
 | **SOIL Institute Gurgaon** | Sector 44, Gurgaon | ₹15.50 L – ₹17.50 L | **₹10.50 LPA** | Leadership focus, central Gurgaon location |
-| **BML Munjal University** | Sidhrawali, Gurgaon | ₹17.50 L – ₹18.50 L | **₹8.50 – ₹9.12 LPA** | Hero Group legacy, Imperial College London mentorship |
-| **Great Lakes Gurgaon** | Bilaspur, Gurgaon | ₹18.00 L – ₹20.00 L | **₹11.80 LPA** | Analytics focus, Chennai parent brand network |
-| **FOSTIIMA Business School** | Dwarka, New Delhi | ₹9.50 L – ₹10.75 L | **₹8.50 – ₹8.90 LPA** | IIM Ahmedabad alumni founded, IIM faculty |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | Sidhrawali, Gurgaon | ₹17.50 L – ₹18.50 L | **₹8.50 – ₹9.12 LPA** | Hero Group legacy, Imperial College London mentorship |
+| **[Great Lakes Gurgaon](/colleges/great-lakes-gurgaon)** | Bilaspur, Gurgaon | ₹18.00 L – ₹20.00 L | **₹11.80 LPA** | Analytics focus, Chennai parent brand network |
+| **FOSTIIMA Business School** | Dwarka, New Delhi | ₹9.50 L – ₹10.75 L | **₹8.50 – ₹8.90 LPA** | [IIM Ahmedabad](/colleges/iim-ahmedabad) alumni founded, IIM faculty |
 | **ASM Apeejay Dwarka** | Dwarka, New Delhi | ₹8.75 Lakhs | **₹7.80 – ₹8.20 LPA** | 30-year legacy, ACBSP accredited, Dwarka metro |
 
 ### Counselor Insight: ISB&M vs SOIL vs Great Lakes Gurgaon
@@ -275,7 +275,7 @@ Located within the thriving corporate ecosystem of Gurgaon, ISB&M leverages its 
 
 ISB&M Gurgaon is an established, dependable choice for management education:
 - **Best Suited For**: Candidates seeking an accredited AICTE PGDM in Gurgaon with manageable fees (under ₹9.60 Lakhs) and reliable corporate placements averaging ₹8.20 LPA to ₹8.80 LPA.
-- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or MDI Gurgaon.
+- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or [MDI Gurgaon](/colleges/mdi-gurgaon).
 
 ---
 

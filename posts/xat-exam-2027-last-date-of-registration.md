@@ -164,7 +164,7 @@ Follow these five steps to complete your registration without errors:
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **XLRI Jamshedpur (BM / HRM)** | ₹28.50 Lakhs | ₹29.89 LPA | XAT 95-96+ %ile · Asia's Foremost HR & Management School |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur) (BM / HRM)** | ₹28.50 Lakhs | ₹29.89 LPA | XAT 95-96+ %ile · Asia's Foremost HR & Management School |
 | **XLRI Delhi-NCR (BM)** | ₹28.50 Lakhs | ₹29.00 LPA | XAT 93-95+ %ile · Shared Curriculum & Centralized Placements |
 | **XIM University (XIMB), Bhubaneswar** | ₹21.00 Lakhs | ₹19.53 LPA | XAT 90+ %ile · Premier Eastern India Business School |
 | **IMT Ghaziabad** | ₹21.50 Lakhs | ₹17.07 LPA | XAT / CAT 90+ %ile · Renowned Marketing Powerhouse |

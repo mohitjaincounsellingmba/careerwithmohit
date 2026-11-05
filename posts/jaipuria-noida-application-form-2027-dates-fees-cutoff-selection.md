@@ -62,7 +62,7 @@ state: Delhi NCR
 > - **Placement & ROI Benchmark**: Average domestic CTC stands at **₹11.29 LPA** (Highest package: **₹22.00 LPA**) with over 300 marquee corporate recruiters.
 > - **Accepted Entrance Exams**: **CAT 2026, XAT 2027, MAT, CMAT, and GMAT** (Shortlisting baseline: 55–70 percentile).
 
-The **Jaipuria Institute of Management, Noida**, established in 2004 in the thriving industrial center of Sector 62, Noida, has opened applications for its **2027–2029 PGDM batch**. 
+The **[Jaipuria Institute of Management, Noida](/colleges/jaipuria-noida)**, established in 2004 in the thriving industrial center of Sector 62, Noida, has opened applications for its **2027–2029 PGDM batch**. 
 
 Accredited by the **National Board of Accreditation (NBA)**, recognized by the **Association of Indian Universities (AIU)** as equivalent to an MBA, and an active member of **AACSB**, Jaipuria Noida is one of Delhi-NCR's most preferred private B-schools for candidates scoring between the 50th and 80th percentiles in national entrance tests.
 

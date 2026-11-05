@@ -79,7 +79,7 @@ state: Delhi NCR
 
 ## 1. Institutional Background: Three Decades of Innovation in South Delhi
 
-Established in 1995, EMPI Business School (Entrepreneurship & Management Processes International) is one of Delhi’s historic residential management institutions. Situated across an institutional campus in the green environs of Chattarpur, South Delhi, EMPI was founded by former public sector heads, senior corporate leaders, and academic administrators.
+Established in 1995, [EMPI Business School](/colleges/empi-delhi) (Entrepreneurship & Management Processes International) is one of Delhi’s historic residential management institutions. Situated across an institutional campus in the green environs of Chattarpur, South Delhi, EMPI was founded by former public sector heads, senior corporate leaders, and academic administrators.
 
 Approved by the **All India Council for Technical Education (AICTE)**, EMPI achieved national prominence by establishing India's first dedicated **IBM Business Analytics Lab** on campus. While mainstream business schools were focused on traditional generic management electives, EMPI integrated predictive modeling, enterprise artificial intelligence, advertising communication, and global business logistics directly into its core diploma.
 
@@ -219,7 +219,7 @@ The selection process evaluates spontaneous articulation, business awareness, ca
 | **Delhi School of Business** | Pitampura, New Delhi | ₹9.75 Lakhs | **₹8.50 – ₹9.00 LPA** | NBA, AIU equivalence, VIPS heritage, Pitampura metro |
 | **NDIM New Delhi** | Tughlakabad, Delhi | ₹11.50 L – ₹13.00 L | **₹8.20 LPA** | Industry tie-ups, South Delhi location |
 | **FOSTIIMA Business School** | Dwarka, New Delhi | ₹9.50 L – ₹11.00 L | **₹8.50 LPA** | IIM alumni founded, practical curriculum |
-| **Lloyd Business School** | Greater Noida, NCR | ₹7.50 Lakhs | **₹6.50 LPA** | Affordable budget option in Greater Noida |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida, NCR | ₹7.50 Lakhs | **₹6.50 LPA** | Affordable budget option in Greater Noida |
 
 ### Counselor Insight: EMPI vs ASM vs DSB
 - **Choose EMPI Business School** if you want specialized training in IBM Analytics or Advertising Communication in a South Delhi green campus.
@@ -267,7 +267,7 @@ Submitting applications during early cycles (November to February) maximizes sch
 
 EMPI Business School is an established, dependable choice for management education:
 - **Best Suited For**: Candidates seeking an accredited AICTE PGDM in South Delhi with manageable fees (under ₹8.5 Lakhs) and reliable corporate placements averaging ₹7.20 LPA to ₹7.80 LPA.
-- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or FMS Delhi.
+- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or [FMS Delhi](/colleges/fms-delhi).
 
 ---
 

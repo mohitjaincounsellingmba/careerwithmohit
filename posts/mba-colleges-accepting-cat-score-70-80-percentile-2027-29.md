@@ -142,7 +142,7 @@ WeSchool accepts profile-based applications for its innovative programs such as 
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Which are the top MBA colleges accepting 70-80 percentile in CAT 2027–29?
-Top colleges include BIMTECH Greater Noida (IBM/Retail programs), SOIL Institute of Management Gurgaon, [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore/), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
+Top colleges include BIMTECH Greater Noida (IBM/Retail programs), [SOIL Institute of Management Gurgaon](/colleges/soil-gurgaon), [Jaipuria Institute of Management](/colleges/jaipuria-jaipur/) (Noida/Lucknow), NDIM New Delhi, JIMS Rohini, [XIME Bangalore](/colleges/xime-bangalore/), Welingkar Mumbai/Bangalore, and Christ University Bengaluru.
 
 ### What average salary package can I expect from a 70-80 percentile college?
 Most reputable AICTE-approved colleges in this range offer average salary packages between INR 9.50 LPA and INR 13.50 LPA, with top performers achieving INR 18 to 22 LPA.

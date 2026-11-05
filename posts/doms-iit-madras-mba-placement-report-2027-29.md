@@ -16,7 +16,6 @@ keywords:
   - Chennai Colleges
   - Best Colleges in Chennai
   - Top Colleges in Chennai 2026
-  - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
   - Chennai Admissions 2027

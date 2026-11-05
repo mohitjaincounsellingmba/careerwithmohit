@@ -50,8 +50,8 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Region's Premier Institute**: **BIMTECH Greater Noida** (NIRF Top 50, AACSB Accredited) leads the Knowledge Park corridor with average domestic packages of ₹11.25 LPA.
-> - **Industry Co-Branded Program**: **Lloyd Business School** offers an exclusive **IBM-collaborated PGDM in Business Analytics**, providing specialized labs in Python, R, SAS, and IBM Watson.
-> - **Research & Technology Hub**: **Shiv Nadar University (SNU)** and **IILM University** provide cutting-edge data science and analytics master's programs.
+> - **Industry Co-Branded Program**: **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** offers an exclusive **IBM-collaborated PGDM in Business Analytics**, providing specialized labs in Python, R, SAS, and IBM Watson.
+> - **Research & Technology Hub**: **[Shiv Nadar University (SNU)](/colleges/snu-greater-noida)** and **IILM University** provide cutting-edge data science and analytics master's programs.
 > - **Budget-Friendly Options**: Institutes like **GNIOT** and **IIMT** offer university-affiliated MBA degrees in Business Analytics with total fees under ₹5.50 Lakhs.
 
 ---
@@ -126,7 +126,7 @@ For students looking for a **Master of Science in Business Analytics (MSBA)** or
 
 ---
 
-### 5. GNIOT (Greater Noida Institute of Technology), Knowledge Park II
+### 5. [GNIOT (Greater Noida Institute of Technology)](/colleges/gniot-greater-noida), Knowledge Park II
 - **Flagship Offering**: MBA in Business Analytics (AKTU Affiliated)
 - **Total Tuition Fee**: ₹3.80 Lakhs – ₹5.50 Lakhs
 - **Placement Performance**: Average CTC ₹5.80 LPA – ₹6.50 LPA | Highest Domestic CTC ₹12.50 LPA

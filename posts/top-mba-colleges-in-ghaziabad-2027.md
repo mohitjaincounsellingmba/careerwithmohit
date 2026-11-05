@@ -101,7 +101,7 @@ In this 2027 admission review, senior educational advisor **Mohit Jain** deliver
 
 ### 2. Tier 2: Established PGDM Institutions (High ROI & Corporate Connect)
 - **IMS Ghaziabad (Lal Quan Campus)**: Over 34 years of academic excellence. Offers AICTE-approved, NBA-accredited, and AIU-equivalent PGDM programs with strong industry certifications in Big Data, Digital Marketing, and Financial Modelling.
-- **Jaipuria School of Business (Indirapuram)**: Located right on NH-24 opposite Delhi border. Known for high individual faculty attention, experiential learning labs, and strong logistics & supply chain placement connections.
+- **[Jaipuria School of Business](/colleges/jaipuria-school-of-business-ghaziabad) (Indirapuram)**: Located right on NH-24 opposite Delhi border. Known for high individual faculty attention, experiential learning labs, and strong logistics & supply chain placement connections.
 - **ITS School of Management (Mohan Nagar)**: Situated next to the Mohan Nagar Metro Station. Offers an accessible PGDM and AKTU-affiliated MBA program with regular corporate guest lecture series and industrial visits.
 
 ### 3. Tier 3: University-Affiliated Technical University MBA Programs

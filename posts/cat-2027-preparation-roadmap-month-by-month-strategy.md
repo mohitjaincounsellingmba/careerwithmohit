@@ -2,22 +2,18 @@
 title: 'CAT 2027 Preparation Roadmap: Month-by-Month Strategy for 99+ Percentile'
 date: '2026-08-28'
 description: >-
-  Master the complete CAT 2027 month-by-month preparation strategy to score 99+
-  percentile. Actionable plan for VARC, DILR, QA, and mock analysis.
+  Master the CAT 2027 month-by-month roadmap for 99+ percentile. Section-wise
+  VARC, DILR, QA blueprints, mock test analytics & IIM cutoff targets by Mohit
+  Jain.
 keywords:
   - CAT 2027 preparation roadmap
   - CAT 2027 strategy for 99 percentile
   - month-by-month CAT 2027 plan
+  - how to prepare for CAT 2027 from scratch
+  - CAT 2027 exam pattern and syllabus
   - VARC DILR QA preparation strategy
   - CAT mock test analysis tracking
-  - IIM admission prep 2027
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
+  - IIM admission cutoffs CAT 2027
 faqs:
   - question: How many months of preparation are needed for 99+ percentile in CAT 2027?
     answer: >-
@@ -40,15 +36,12 @@ faqs:
       Absolutely! Working professionals can achieve a 99+ percentile by
       dedicating 2 to 3 focused hours on weekdays and 6 to 8 hours on weekends,
       following a disciplined sectional routine.
-location: Delhi NCR
-state: Delhi NCR
 category: Exams
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
-> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
-> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
-
+> - **Target Score & Raw Marks for 99%ile**: Scoring **82 to 92 raw marks out of 198** (~41% to 46% net accuracy) reliably secures a 99+ percentile across CAT exam slots.
+> - **Structured 4-Phase Roadmap**: Phase 1 (Jan–Apr: Core Concept Foundations), Phase 2 (May–Jul: Advanced Problem Sets & Sectionals), Phase 3 (Aug–Oct: 35+ Full Mocks & Error Log Audits), Phase 4 (Nov: Test-Taking Temperament Sprint).
+> - **Personalized IIM Call Profile Evaluation**: Calculate your composite score chances (GEM vs Non-Engineer, Academic Diversity, Work Experience) with Senior MBA Admissions Strategist **Mohit Jain (+91 9560020771)**.
 
 Cracking the Common Admission Test (CAT) and securing a seat at premier management institutes like [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), or [FMS Delhi](/colleges/fms-delhi/) requires far more than just raw intelligence. The **CAT 2027** exam is fundamentally a test of decision-making, speed, accuracy, and mental stamina under pressure.
 
@@ -58,11 +51,9 @@ The secret lies in **strategic consistency**. This comprehensive month-by-month 
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for CAT 2027 Exam Pattern Overview?
+## What is the Exam Pattern and Marking Scheme for CAT 2027?
 
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+**The CAT 2027 examination comprises 66 questions divided across three 40-minute sections (120 minutes total), with a maximum raw score of 198 marks.** Every correct MCQ and non-MCQ (TITA) yields +3 marks, wrong MCQs deduct −1 mark, while non-MCQ TITA questions carry zero negative penalty.
 
 Before building your prep schedule, familiarize yourself with the standard CAT exam structure:
 
@@ -74,6 +65,8 @@ Before building your prep schedule, familiarize yourself with the standard CAT e
 | **Total / Overall** | **66 Questions** | **120 Minutes** | **MCQs & TITA** | **~82 – 90 Marks (Out of 198)** |
 
 *Note: TITA = Type In The Answer (No negative marking).*
+
+[MockTestCard title="CAT 2027 Free Full-Length CBT Mock Test" link="/tools/cat-mock-test/" questions="66" time="120 Mins"]
 
 ---
 
@@ -260,6 +253,10 @@ Serious aspirants should take between **30 to 45 full-length mock tests** starti
 
 ### Can working professionals crack CAT 2027 with a 99+ percentile?
 Yes! Working professionals can achieve a 99+ percentile by dedicating **2 to 3 focused hours on weekdays** and **6 to 8 hours on weekends**, following a disciplined sectional routine.
+
+---
+
+[InquiryCard title="Evaluate Your IIM Profile & CAT 2027 Study Roadmap" description="Connect with Senior Consultant Mohit Jain (+91 9560020771) for realistic composite score targets, academic diversity planning, and top B-School shortlists." cta="Book Free Strategy Call" type="admission"]
 
 ---
 

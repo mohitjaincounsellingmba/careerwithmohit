@@ -226,7 +226,7 @@ Since there's no negative marking, **mark all unattempted questions** using your
 
 **Ready to practice?**
 
-👉 [Take the Free SRMJEEE 2026 Mock Test](/tools/mock-test/srmjee/)
+👉 [Take the Free SRMJEEE 2026 Mock Test](/mock-tests/)
 
 👉 [Explore All SRM University Campuses & Fees](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 

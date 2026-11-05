@@ -97,7 +97,7 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 ```
 
 ### 1. Symbiosis Flagship Institutes (SIBM & SCMHRD)
-- **SIBM Pune (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
+- **[SIBM Pune](/colleges/sibm-pune) (Lavale Hilltop)**: Symbiosis's crowning glory. Exceptional placement records in Marketing (P&G, HUL, ITC, Marico) and Corporate Strategy.
 - **[SCMHRD Pune](/colleges/scmhrd-pune/) (Hinjewadi)**: Renowned as one of India's top 3 institutes for Human Resource Management (HRM), alongside robust Business Analytics and Infrastructure Management (IDM) programs.
 
 ### 2. Super-Specialized National BFSI Leaders (NIBM & NIA)
@@ -121,7 +121,7 @@ In this 2027 verified admission guide, senior education consultant **Mohit Jain*
 ## Frequently Asked Questions (FAQs)
 
 ### What is the SNAP cutoff for SIBM Pune and SCMHRD?
-For SIBM Pune, candidates need **98.5+ percentile** in SNAP. For SCMHRD Pune Core MBA, the cutoff stands around **97.0+ percentile**.
+For SIBM Pune, candidates need **98.5+ percentile** in SNAP. For [SCMHRD Pune](/colleges/scmhrd-pune) Core MBA, the cutoff stands around **97.0+ percentile**.
 
 ### Which MBA college in Pune has the best ROI?
 **PUMBA (Department of Management Sciences, Savitribai Phule Pune University)** provides the highest ROI in Pune, with total 2-year tuition fees under ₹1.35 Lakhs and average placement CTC of ₹8.80 LPA.

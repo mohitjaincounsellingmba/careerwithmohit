@@ -21,7 +21,6 @@ keywords:
   - Mumbai Colleges
   - Best Colleges in Mumbai
   - Top Colleges in Mumbai 2026
-  - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
   - Mumbai Admissions 2027
@@ -123,7 +122,7 @@ graph LR
 
 ### 6. IIM Kozhikode & [IIM Indore](/colleges/iim-indore/)
 *   **IIM Kozhikode**: Recorded an average of ₹28.18 LPA with 100% placement completion, driven by strong recruiter confidence in its highly diverse and gender-balanced cohort.
-*   **IIM Indore**: Clocked ₹29.75 LPA average, supported by over 150 marquee recruiters including AB InBev, Dabur, Marico, Kotak Mahindra, and Samsung.
+*   **[IIM Indore](/colleges/iim-indore)**: Clocked ₹29.75 LPA average, supported by over 150 marquee recruiters including AB InBev, Dabur, Marico, Kotak Mahindra, and Samsung.
 
 ---
 

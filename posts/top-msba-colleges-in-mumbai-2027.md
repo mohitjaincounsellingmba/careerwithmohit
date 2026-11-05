@@ -47,7 +47,7 @@ state: Maharashtra
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Premier Choices**: **TISS Mumbai** (M.Sc. in Analytics with high ROI) and **NMIMS Mumbai** (MBA / M.Sc. Business Analytics) lead the Mumbai metropolitan region.
+> - **Premier Choices**: **TISS Mumbai** (M.Sc. in Analytics with high ROI) and **[NMIMS Mumbai](/colleges/nmims-mumbai)** (MBA / M.Sc. Business Analytics) lead the Mumbai metropolitan region.
 > - **Financial Capital Advantage**: Mumbai institutions provide unparalleled live internships and pre-placement offers with top-tier investment banks, private equity firms, and fintech unicorns located in BKC, Lower Parel, and Nariman Point.
 > - **Fee vs Placement ROI**: Program investments range from ₹3.50 Lakhs (TISS) to ₹24.00 Lakhs (NMIMS), offering median domestic salaries between ₹8.50 LPA and ₹21.00 LPA.
 > - **Key Accepted Exams**: NMAT, CAT, XAT, CMAT, MAH MBA CET, and institutional profile-evaluation rounds.

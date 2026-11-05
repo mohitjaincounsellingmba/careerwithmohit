@@ -107,7 +107,7 @@ Whether you are aspiring for engineering, management, legal studies, or new-age 
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. Chitkara University, Rajpura / Punjab maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [Chitkara University](/colleges/chitkara-university), Rajpura / Punjab maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

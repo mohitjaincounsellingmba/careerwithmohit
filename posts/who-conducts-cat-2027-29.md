@@ -80,7 +80,7 @@ Here is a quick look at the historical timeline of CAT conducting bodies:
 | **2023** | [IIM Lucknow](/colleges/iim-lucknow/) | Prof. Sanjeet Singh / Prof. Pradyumna Dash |
 | **2022** | [IIM Bangalore](/colleges/iim-bangalore/) | Prof. Ashis Mishra |
 | **2021** | [IIM Ahmedabad](/colleges/iim-ahmedabad/) | Prof. M.P. Ram Mohan |
-| **2020** | **IIM Indore** | Prof. Harshal Lowalekar |
+| **2020** | **[IIM Indore](/colleges/iim-indore)** | Prof. Harshal Lowalekar |
 
 ---
 

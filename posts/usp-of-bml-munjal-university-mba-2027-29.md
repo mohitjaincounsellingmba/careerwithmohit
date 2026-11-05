@@ -81,7 +81,7 @@ state: Delhi NCR
 > - **Imperial College London Mentorship & Experiential Pedagogy**: Curriculum co-designed with Imperial College Business School, featuring 45% experiential contact hours and a graduate portfolio of 8–10 real corporate projects.
 > - **Proven Placement Returns**: The top 10% of the MBA cohort averages ₹13.39 LPA and the top 25% averages ₹12.10 LPA (highest package ₹17 LPA) across recruiters like Deloitte US, KPMG, BNY Mellon, and Hero FinCorp.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Top 10 USPs of BML Munjal University MBA: Her?
+## What are the Admission Cutoffs, Fees, and Placement Records for Top 10 USPs of [BML Munjal University](/colleges/bml-munjal-gurgaon) MBA: Her?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹13.39 LPA, and domestic placement packages averaging highest package ₹17 LPA across primary recruitment sectors.**
 

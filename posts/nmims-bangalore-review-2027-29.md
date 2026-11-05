@@ -43,7 +43,7 @@ state: Delhi NCR
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for NMIMS Bangalore Review 2027–29: Fees, Placeme?
+## What are the Admission Cutoffs, Fees, and Placement Records for [NMIMS Bangalore](/colleges/nmims-bangalore) Review 2027–29: Fees, Placeme?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹20.0 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

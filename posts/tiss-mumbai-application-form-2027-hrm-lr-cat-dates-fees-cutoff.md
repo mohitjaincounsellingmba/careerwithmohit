@@ -59,7 +59,7 @@ state: Maharashtra
 > - **Mandatory Entrance Exam**: **CAT 2026** (TISSNET is permanently discontinued; CUET-PG does **not** apply to HRM & LR).
 > - **Application Portal Status**: Register via [admissions.tiss.ac.in](https://admissions.tiss.ac.in) by submitting your CAT registration number.
 > - **Total Program Fee**: **₹2.80 Lakhs to ₹3.20 Lakhs** for the complete 2-year flagship curriculum.
-> - **Placement & ROI Benchmark**: Average salary stands at **₹27.22 LPA** with a median CTC of **₹25.75 LPA**, competing directly with XLRI Jamshedpur and IIM Lucknow.
+> - **Placement & ROI Benchmark**: Average salary stands at **₹27.22 LPA** with a median CTC of **₹25.75 LPA**, competing directly with [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and [IIM Lucknow](/colleges/iim-lucknow).
 
 The **Tata Institute of Social Sciences (TISS), Mumbai**, established in 1936 in Deonar, Mumbai, is India's most prestigious institution for Human Resource Management and Industrial Relations. 
 
@@ -91,7 +91,7 @@ In this strategic admissions blueprint by **Mohit Jain**, understand the transit
 
 | Institution & Program | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **[TISS Mumbai](/colleges/tiss-mumbai/) (MA HRM & LR)** | **₹3.00 Lakhs** | **₹27.22 LPA** | **CAT 2026** (Min 50% in Graduation; Central Quotas) |
+| **[TISS Mumbai](/blog/tiss-mumbai-application-form-2027-hrm-lr-cat-dates-fees-cutoff/) (MA HRM & LR)** | **₹3.00 Lakhs** | **₹27.22 LPA** | **CAT 2026** (Min 50% in Graduation; Central Quotas) |
 
 ---
 
@@ -174,7 +174,7 @@ Unlike business schools with lengthy interview panels, TISS has streamlined its 
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[TISS Mumbai](/colleges/tiss-mumbai/)** | ₹3.00 Lakhs | ₹27.22 LPA | CAT 2026 (97%+ %ile) · India's Top HR Institution |
+| **[TISS Mumbai](/blog/tiss-mumbai-application-form-2027-hrm-lr-cat-dates-fees-cutoff/)** | ₹3.00 Lakhs | ₹27.22 LPA | CAT 2026 (97%+ %ile) · India's Top HR Institution |
 | **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.45 Lakhs | ₹34.10 LPA | CAT 2026 (99%+ %ile) · Unmatched ROI Leader |
 | **[XLRI Jamshedpur](/colleges/xlri-jamshedpur/)** | ₹28.60 Lakhs | ₹29.89 LPA | XAT 2027 (95%+ %ile) · Global HR Powerhouse |
 | **[JBIMS Mumbai](/colleges/jbims-mumbai/)** | ₹6.00 Lakhs | ₹28.02 LPA | MAH CET (99.9+ %ile) · Finance & CEO Factory |

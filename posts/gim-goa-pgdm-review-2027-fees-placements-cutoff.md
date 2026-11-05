@@ -51,7 +51,7 @@ state: Goa
 ## [GIM Goa](/colleges/gim-goa/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Double Crown Prestige**: Established in 1993, **Goa Institute of Management (GIM Goa)** operates from a picturesque 50-acre hillside campus in Sanquelim (Goa), holding **NIRF Rank #37** with prestigious dual **AACSB and AMBA accreditations**.
+> - **Core USP & Double Crown Prestige**: Established in 1993, **[Goa Institute of Management (GIM Goa)](/colleges/gim-goa)** operates from a picturesque 50-acre hillside campus in Sanquelim (Goa), holding **NIRF Rank #37** with prestigious dual **AACSB and AMBA accreditations**.
 > - **Flagship Programs**: Highly recognized for **PGDM (Core)**, **PGDM in Healthcare Management (HCM - #1 in India)**, **PGDM in Big Data Analytics (BDA - ₹17.20L Avg CTC)**, and **PGDM-BIFS**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹19.50 Lakhs** (including residential hostel) against an audited average CTC of **₹15.00 LPA – ₹15.60 LPA** (Median: **₹14.80 LPA**, Top 10%: **₹22.50 LPA**, Highest: **₹30.17 LPA**).
 > - **Cutoffs & Selection**: Shortlisting requires **85–90+ CAT/XAT percentile** (or **98+ CMAT percentile** / **Achiever's Profile Round**), followed by Group Discussion and Personal Interviews.

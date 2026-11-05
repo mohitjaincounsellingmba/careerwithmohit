@@ -109,7 +109,7 @@ Whether you aim to become a Data Consultant, Marketing Analytics Lead, Risk Mode
 
 ---
 
-### 3. MIT World Peace University (MIT-WPU), Kothrud Pune
+### 3. [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune), Kothrud Pune
 - **Flagship Offering**: MBA in Business Analytics / M.Sc. Data Science & Analytics
 - **Total Tuition Fee**: ₹9.50 Lakhs – ₹12.00 Lakhs
 - **Placement Performance**: Average CTC ₹7.50 LPA – ₹8.50 LPA | Highest Domestic CTC ₹24.00 LPA
@@ -169,7 +169,7 @@ Before finalizing your admission, evaluate colleges based on these 4 critical pa
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### 1. Which is the best MBA college in Pune for Business Analytics?
-**SCMHRD Pune** is the premier B-school in Pune for Business Analytics, boasting average placements of ₹22.14 LPA and direct recruiting by MBB and Big 4 consulting firms.
+**[SCMHRD Pune](/colleges/scmhrd-pune)** is the premier B-school in Pune for Business Analytics, boasting average placements of ₹22.14 LPA and direct recruiting by MBB and Big 4 consulting firms.
 
 ### 2. Can non-engineers (B.Com, BBA, BA) do Business Analytics in Pune?
 Yes. Unlike pure Data Science M.Tech degrees, MBA/PGDM Business Analytics programs welcome students from commerce, economics, and business backgrounds. Foundations in Excel, SQL, and business problem-solving are taught from scratch.

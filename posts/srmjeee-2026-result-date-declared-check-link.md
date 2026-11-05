@@ -151,7 +151,7 @@ A: SRM Kattankulathur alone has 10,000+ seats across all branches, making it one
 
 **Useful Links:**
 
-👉 [Free SRMJEEE 2026 Mock Test — Practice Now](/tools/mock-test/srmjee/)
+👉 [Free SRMJEEE 2026 Mock Test — Practice Now](/mock-tests/)
 
 👉 [How to Clear SRM JEE 2026 — Full Strategy Guide](/blog/how-to-clear-srm-jee-2027-29/)
 

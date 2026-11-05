@@ -17,7 +17,6 @@ keywords:
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -58,7 +57,7 @@ state: Delhi NCR
 ## [IIM Rohtak](/colleges/iim-rohtak/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Strategic Location**: Established in 2009, **IIM Rohtak** operates from a 200-acre permanent green campus in Sunaria (Rohtak, Haryana / Delhi-NCR), holding **NIRF Rank #12** and prestigious **AMBA accreditation**.
+> - **Core USP & Strategic Location**: Established in 2009, **[IIM Rohtak](/colleges/iim-rohtak)** operates from a 200-acre permanent green campus in Sunaria (Rohtak, Haryana / Delhi-NCR), holding **NIRF Rank #12** and prestigious **AMBA accreditation**.
 > - **Independent Admission Process**: Unlike most Second-Generation IIMs, IIM Rohtak **does not participate in IIM CAP**. It conducts an independent application and interview process with a **95+ CAT percentile** threshold.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹18.50 Lakhs** against an audited average CTC of **₹19.27 LPA** (Median: **₹17.50 LPA**, Top 10%: **₹34.80 LPA**, Highest: **₹48.25 LPA**).
 > - **Diversity Leadership**: Internationally renowned for outstanding diversity with **~70% women representation** in the student cohort.

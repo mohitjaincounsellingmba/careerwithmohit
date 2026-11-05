@@ -192,7 +192,7 @@ Here are the expected cutoff benchmarks based on historical NMAT scoring trends:
 | Campus / Program | Expected Overall Cutoff Score | Language Cutoff | Quant Cutoff | LR Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[NMIMS Mumbai](/colleges/nmims-mumbai/) (Flagship MBA Core)** | **235 – 245+** | **76 – 80+** | **74 – 78+** | **75 – 78+** |
-| **NMIMS Mumbai (MBA HR)** | **232 – 240+** | **75 – 78+** | **72 – 75+** | **74 – 76+** |
+| **[NMIMS Mumbai](/colleges/nmims-mumbai) (MBA HR)** | **232 – 240+** | **75 – 78+** | **72 – 75+** | **74 – 76+** |
 | **NMIMS Mumbai (MBA Business Analytics / Digital Innovation)** | **228 – 235+** | **72 – 75+** | **72 – 75+** | **72 – 74+** |
 | **[NMIMS Bangalore](/colleges/nmims-bangalore/) / Navi Mumbai** | **220 – 228+** | **70 – 72+** | **70 – 72+** | **70 – 72+** |
 | **NMIMS Hyderabad / Indore / Chandigarh** | **200 – 215+** | **65 – 68+** | **65 – 68+** | **65 – 68+** |

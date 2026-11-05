@@ -89,7 +89,7 @@ Consulting firms hired aggressively for business strategy and transformation rol
 *   **Roles Offered**: Investment Banking Analyst, Quantitative Risk, Wealth Management, Corporate Finance.
 
 ### 3. Supply Chain, Operations & Manufacturing (22% of Offers)
-Capitalizing on IIT Bombay’s deep engineering strengths, global supply chain giants recruited heavily.
+Capitalizing on [IIT Bombay](/colleges/iit-bombay)’s deep engineering strengths, global supply chain giants recruited heavily.
 *   **Key Recruiters**: Procter & Gamble (P&G), Hindustan Unilever (HUL), Asian Paints, ITC, Flipkart, Micron, Tata Motors.
 
 ### 4. Product Management & Technology (18% of Offers)

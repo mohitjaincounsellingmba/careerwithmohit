@@ -17,7 +17,6 @@ keywords:
   - Jaipur Colleges
   - Best Colleges in Jaipur
   - Top Colleges in Jaipur 2026
-  - Jaipur Direct Admission 2026
   - Colleges in Rajasthan
   - Jaipur Career Counselling
   - Jaipur Admissions 2027
@@ -60,7 +59,7 @@ state: Rajasthan
 ## [IIM Udaipur](/colleges/iim-udaipur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Global Prestige**: Established in 2011 and mentored originally by [IIM Indore](/colleges/iim-indore/), **IIM Udaipur** operates from a 300-acre permanent green campus at Balicha (Udaipur, Rajasthan), holding **NIRF Rank #22**, **AACSB accreditation**, and global **FT MiM ranking**.
+> - **Core USP & Global Prestige**: Established in 2011 and mentored originally by [IIM Indore](/colleges/iim-indore/), **[IIM Udaipur](/colleges/iim-udaipur)** operates from a 300-acre permanent green campus at Balicha (Udaipur, Rajasthan), holding **NIRF Rank #22**, **AACSB accreditation**, and global **FT MiM ranking**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹21.00 Lakhs** against an audited average CTC of **₹20.02 LPA** (Median: **₹18.53 LPA**, Top 10%: **₹33.50 LPA**, Highest: **₹47.30 LPA**) with 100% IPRS-audited transparency.
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **94+ CAT percentile** overall with an industry-high **60% weightage on CAT scores**.
 
@@ -77,7 +76,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Udaipur (IIMU)** |
-| **Year of Establishment** | 2011 (Mentored by IIM Indore) |
+| **Year of Establishment** | 2011 (Mentored by [IIM Indore](/colleges/iim-indore)) |
 | **Campus Location** | Balicha, Udaipur, Rajasthan (300 Acres) |
 | **NIRF Management Ranking** | **Rank #22** nationally |
 | **Global Accreditation** | **AACSB Accredited** & FT MiM Ranked |

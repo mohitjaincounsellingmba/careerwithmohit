@@ -84,7 +84,7 @@ state: Delhi NCR
 > - **Accreditation & Approvals**: AICTE Approved · NBA Accredited · AIU Equivalent · SAQS Accredited.
 > - **Audited Placements & PPO**: Average CTC stands at **₹8.60 LPA** (Top 25% at **₹12.00 LPA**) with a highest package of **₹20.00 LPA**. 24% of students secure PPOs during summer placements with top management consulting and retail brands.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for IILM Institute for Higher Education MBA / PGD?
+## What are the Admission Cutoffs, Fees, and Placement Records for [IILM Institute for Higher Education](/colleges/iilm-delhi) MBA / PGD?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹12.90 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

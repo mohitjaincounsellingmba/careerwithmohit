@@ -101,7 +101,7 @@ Founded by the promoters of the Hero Group, [BML Munjal University](/colleges/bm
 
 ## 🚀 Placement Review & ROI Analysis (2025-2026 Batch)
 
-A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. BML Munjal University, Gurugram maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
+A critical indicator of any university's strength is its corporate relations cell and final campus recruitment outcomes. [BML Munjal University](/colleges/bml-munjal-gurgaon), Gurugram maintains an active placement cell that conducts year-round skill training, mock interviews, and corporate recruitment drives.
 
 ### Placement Statistics Summary
 

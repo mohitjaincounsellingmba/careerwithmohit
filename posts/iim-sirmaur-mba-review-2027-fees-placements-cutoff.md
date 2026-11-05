@@ -51,7 +51,7 @@ state: Himachal Pradesh
 ## [IIM Sirmaur](/colleges/iim-sirmaur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Legacy**: Established in 2015 and mentored originally by [IIM Lucknow](/colleges/iim-lucknow/), **IIM Sirmaur** operates from an expansive 210-acre permanent green campus at Dhaula Kuan (Paonta Sahib, Himachal Pradesh), holding **NIRF Rank #57**.
+> - **Core USP & Legacy**: Established in 2015 and mentored originally by [IIM Lucknow](/colleges/iim-lucknow/), **[IIM Sirmaur](/colleges/iim-sirmaur)** operates from an expansive 210-acre permanent green campus at Dhaula Kuan (Paonta Sahib, Himachal Pradesh), holding **NIRF Rank #57**.
 > - **Pioneering Programs**: Recognized for its flagship **MBA (General)** and India's first specialized **MBA in Tourism & Hospitality Management (MBA-T&HM)**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹16.00 Lakhs** against an audited average CTC of **₹14.45 LPA** (Median: **₹13.50 LPA**, Top 25%: **₹19.80 LPA**, Highest: **₹64.00 LPA**).
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **88–92+ CAT percentile** overall alongside personal interview and profile diversity weightage.
@@ -69,7 +69,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Sirmaur (IIMS)** |
-| **Year of Establishment** | 2015 (Mentored by IIM Lucknow) |
+| **Year of Establishment** | 2015 (Mentored by [IIM Lucknow](/colleges/iim-lucknow)) |
 | **Campus Location** | Dhaula Kuan, Paonta Sahib, Sirmaur, Himachal Pradesh (210 Acres) |
 | **NIRF Management Ranking** | **Rank #57** nationally |
 | **Flagship Programs** | MBA (General) & MBA-T&HM (Tourism & Hospitality) |

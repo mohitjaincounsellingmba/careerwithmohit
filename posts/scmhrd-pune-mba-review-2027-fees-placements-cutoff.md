@@ -57,7 +57,7 @@ state: Maharashtra
 ## [SCMHRD Pune](/colleges/scmhrd-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & HR Powerhouse**: Established in 1993 under Symbiosis International University (SIU), **SCMHRD Pune** operates from Hinjawadi Infotech Park (Pune, Maharashtra), holding **NIRF Rank #28** and prestigious **AACSB global accreditation**.
+> - **Core USP & HR Powerhouse**: Established in 1993 under Symbiosis International University (SIU), **[SCMHRD Pune](/colleges/scmhrd-pune)** operates from Hinjawadi Infotech Park (Pune, Maharashtra), holding **NIRF Rank #28** and prestigious **AACSB global accreditation**.
 > - **Flagship Programs**: Undisputed leader in **MBA in Human Resource Management (MBA-HR - Top 3 in India)** alongside **MBA in Business Analytics (MBA-BA)** and **MBA in Infrastructure Development & Management (MBA-IDM)**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹26.50 Lakhs** (including residential hostel) against an audited average CTC of **₹21.32 LPA – ₹23.71 LPA** (Median: **₹20.00 LPA**, Top 10%: **₹33.80 LPA**, Highest: **₹38.00 LPA**).
 > - **Cutoffs & Selection**: Admission is routed exclusively through **SNAP (Symbiosis National Aptitude Test)** requiring **96–97+ percentile**, followed by GE-PI-WAT evaluation rounds.
@@ -207,7 +207,7 @@ Located in Hinjawadi Infotech Park in Pune, SCMHRD offers high-tech corporate co
 ```
 
 ### Who Should Choose SCMHRD Pune?
-- **Aspirants Seeking Leadership in Human Resources**: Ranked directly alongside XLRI Jamshedpur and TISS Mumbai as India's best HR training ground.
+- **Aspirants Seeking Leadership in Human Resources**: Ranked directly alongside [XLRI Jamshedpur](/colleges/xlri-jamshedpur) and TISS Mumbai as India's best HR training ground.
 - **Engineers Interested in Infrastructure & Energy Advisory (IDM)**: The MBA-IDM program provides niche access to Big 4 infrastructure consulting and real estate investment banking with accessible SNAP cutoffs (~82%ile).
 - **SNAP Aspirants Scoring 96–98%ile**: Ideal Tier-1 institutional destination with an audited average package exceeding ₹21.3 LPA.
 

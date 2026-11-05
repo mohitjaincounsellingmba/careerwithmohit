@@ -216,7 +216,7 @@ The selection process evaluates spontaneous articulation, business awareness, ca
 |---|:---:|:---:|:---:|:---:|
 | **GNIOT / GIMS** | Knowledge Park II, GN | ₹6.75 L – ₹7.25 L | **₹6.20 – ₹6.80 LPA** | Technical ecosystem, low fees, dual MBA/PGDM options |
 | **GL Bajaj (GLBIMR)** | Knowledge Park II, GN | ₹8.50 Lakhs | **₹7.60 – ₹8.10 LPA** | NBA, AIU equivalence, high discipline |
-| **Lloyd Business School** | Knowledge Park II, GN | ₹7.50 Lakhs | **₹6.50 LPA** | Supply chain tie-ups, affordable fee band |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Knowledge Park II, GN | ₹7.50 Lakhs | **₹6.50 LPA** | Supply chain tie-ups, affordable fee band |
 | **Accurate Institute** | Knowledge Park III, GN | ₹6.25 L – ₹6.95 L | **₹6.50 LPA** | Corporate certifications, low fee tier |
 | **Mangalmay Group** | Knowledge Park II, GN | ₹6.50 Lakhs | **₹5.80 LPA** | Balanced budget, regional recruitment |
 | **SGBS Greater Noida** | Knowledge Park I, GN | ₹10.50 Lakhs | **₹7.50 – ₹8.20 LPA** | Modern ESG curriculum, small batch sizes |

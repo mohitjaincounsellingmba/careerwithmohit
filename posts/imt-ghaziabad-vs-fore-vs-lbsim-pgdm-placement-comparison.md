@@ -91,7 +91,7 @@ IMT Ghaziabad's flagship PGDM holds a legendary legacy in FMCG, consumer tech, a
 - **Key Recruiters**: Google, Microsoft, Amazon, HUL, ITC, Loreal, BCG, Deloitte, Aditya Birla Group.
 - **Batch Size Challenge**: With over 600 students across programs (PGDM Core, Marketing, Finance, BFS, DCP), internal competition during campus drives is intense.
 
-### B. FORE School of Management (The Consulting & Tech Hub)
+### B. [FORE School of Management](/colleges/fore-school-delhi) (The Consulting & Tech Hub)
 Situated in New Delhi's prestigious institutional hub, FORE benefits from close proximity to corporate boardrooms and consulting practices:
 - **Top 10% Batch Average**: ₹22.8 LPA
 - **Top 25% Batch Average**: ₹18.5 LPA

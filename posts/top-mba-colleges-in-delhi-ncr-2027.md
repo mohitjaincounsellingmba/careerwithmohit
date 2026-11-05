@@ -118,7 +118,7 @@ Ghaziabad is home to **IMT Ghaziabad**, the legendary FMCG sales and marketing c
 ## Admissions & Cutoff Playbook for Delhi NCR
 
 Candidates targeting Delhi NCR should segment their applications strategically:
-- **CAT/XAT 95+ Percentile**: Apply for FMS Delhi, MDI Gurgaon, IIFT, and [IIM Rohtak](/colleges/iim-rohtak/).
+- **CAT/XAT 95+ Percentile**: Apply for [FMS Delhi](/colleges/fms-delhi), [MDI Gurgaon](/colleges/mdi-gurgaon), IIFT, and [IIM Rohtak](/colleges/iim-rohtak/).
 - **CAT/XAT 80–92 Percentile**: Target IMI New Delhi, [FORE School of Management](/colleges/fore-school-delhi/), IMT Ghaziabad, and LBSIM.
 - **CAT/XAT/CMAT/MAT 70–80 Percentile**: Target BIMTECH Greater Noida, [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/), [Jaipuria Noida](/colleges/jaipuria-noida/), and SOIL Gurgaon.
 - **Alternative / Profile-Based / Direct Entry**: Candidates with strong extracurriculars or graduation marks can explore [Bennett University](/colleges/bennett-greater-noida/), [Amity University](/colleges/amity-noida/), and institutional seats in approved private colleges.

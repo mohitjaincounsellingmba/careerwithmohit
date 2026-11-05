@@ -69,7 +69,7 @@ category: B.Tech
 > - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
 > - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in JECRC University Jaipur f?
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in [JECRC University](/colleges/jecrc-jaipur) Jaipur f?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹1.74 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

@@ -67,7 +67,7 @@ In this comprehensive, data-verified **Department of Management, [BITS Pilani](/
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Update)
 
-Here is a consolidated institutional fact-sheet for Department of Management, BITS Pilani:
+Here is a consolidated institutional fact-sheet for Department of Management, [BITS Pilani](/colleges/bits-pilani):
 
 | Parameter | Official Verified Details |
 | :--- | :--- |

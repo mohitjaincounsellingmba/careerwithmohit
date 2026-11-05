@@ -63,7 +63,7 @@ cutoff: '99+ %ile (CAT 2026)'
 exams_accepted: 'CAT 2026 Only'
 ---
 
-# FMS Delhi Application Form 2027 (Out): Dates, CAT Cutoff, Fees & Selection Process
+# [FMS Delhi](/colleges/fms-delhi) Application Form 2027 (Out): Dates, CAT Cutoff, Fees & Selection Process
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Application Form Status**: Officially released on **October 26, 2026**; online portal closes on **November 25, 2026** at [fmsadmissions.co.in](https://fmsadmissions.co.in) and [fms.edu](https://www.fms.edu).
@@ -130,7 +130,9 @@ In this verified admission guide by **Mohit Jain**, learn the exact application 
 
 ---
 
-## 4. FMS Delhi Cutoff & Shortlisting Criteria (Composite Score Explained)
+## 4. What is the CAT Cutoff and Shortlisting Criteria for FMS Delhi?
+
+**The expected CAT cutoff for FMS Delhi is a composite score threshold of 45.5 to 47.5 for general category candidates (roughly 99.0+ percentile), calculated with 40% weightage for VARC and 30% each for QA and DILR.** Shortlisted candidates undergo extempore, statement of purpose (SOP) discussion, and personal interview rounds.
 
 Unlike IIMs that prioritize overall CAT percentile and past academic records for the initial shortlist, **FMS Delhi shortlists candidates for interviews based entirely on a weighted sectional CAT composite score**.
 

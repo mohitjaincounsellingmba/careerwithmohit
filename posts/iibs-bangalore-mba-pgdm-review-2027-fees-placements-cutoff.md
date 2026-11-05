@@ -80,7 +80,7 @@ In this detailed review, Senior MBA Admissions Strategist **Mohit Jain** provide
 
 | Metric / Parameter | Official Verified Details | Strategic Student Insight |
 | :--- | :--- | :--- |
-| **Institution Name** | International Institute of Business Studies (IIBS) | Established educational group in Bangalore |
+| **Institution Name** | [International Institute of Business Studies (IIBS)](/colleges/iibs-bangalore) | Established educational group in Bangalore |
 | **Campus Location** | Airport Road (Bagalur) & RT Nagar, Bengaluru, Karnataka | Proximity to Bangalore International Airport hub |
 | **Accreditation & Approvals** | AICTE Approved (PGDM) · Bangalore University (MBA) | Dual recognition for corporate and public sector careers |
 | **Flagship Programs** | AICTE PGDM & Bangalore University MBA | 2-Year Full-Time Dual Specialization |
@@ -178,9 +178,9 @@ IIBS follows a holistic admission review, assessing test percentiles alongside c
 | Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIBS Bangalore** | **₹5.75L (MBA) / ₹8.75L (PGDM)** | **₹7.50 – ₹8.40 LPA** | **₹24.00 LPA** | Airport Rd, Bangalore |
-| **GIBS Business School** | ₹11.25 Lakhs | ₹8.40 – ₹9.50 LPA | ₹22.00 LPA | Bannerghatta, Bangalore |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | ₹11.25 Lakhs | ₹8.40 – ₹9.50 LPA | ₹22.00 LPA | Bannerghatta, Bangalore |
 | **IBA Bangalore (Indus)** | ₹9.95 Lakhs | ₹7.80 – ₹8.40 LPA | ₹20.00 LPA | Kanakapura, Bangalore |
-| **ISBR Business School** | ₹11.50 Lakhs | ₹8.50 LPA | ₹15.00 LPA | Electronic City, Bangalore |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | ₹11.50 Lakhs | ₹8.50 LPA | ₹15.00 LPA | Electronic City, Bangalore |
 | **Alliance University** | ₹15.00 Lakhs | ₹8.50 LPA | ₹21.60 LPA | Anekal, Bangalore |
 
 ---
@@ -229,7 +229,7 @@ The mandatory 8-to-10-week summer internship between May and July gives IIBS stu
 | **IIBS Bangalore** | AICTE / Univ | ₹5.25L – ₹8.95L | ₹8.20 LPA | ₹7.80 LPA | ₹11.80 LPA |
 | **IBA Bangalore** | AICTE, NBA, IACBE | ₹9.95 Lakhs | ₹8.20 LPA | ₹7.80 LPA | ₹11.50 LPA |
 | **ISBR Bangalore** | AICTE, NBA | ₹9.50 Lakhs | ₹7.80 LPA | ₹7.40 LPA | ₹11.20 LPA |
-| **ISME Bangalore** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
+| **[ISME Bangalore](/colleges/isme-bangalore)** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
 | **GIBS Business School**| AICTE Approved | ₹8.25 Lakhs | ₹7.40 LPA | ₹7.10 LPA | ₹10.50 LPA |
 
 ---

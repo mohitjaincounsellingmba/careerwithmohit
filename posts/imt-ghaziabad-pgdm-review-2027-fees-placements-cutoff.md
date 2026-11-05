@@ -68,7 +68,7 @@ state: Delhi NCR
 
 For four decades, **Institute of Management Technology (IMT), Ghaziabad** has held a near-legendary reputation across corporate India. Ask any senior marketing director at Hindustan Unilever, Marico, or Reckitt about top campus pipelines outside older IIMs, and IMT Ghaziabad will consistently be named first.
 
-Holding prestigious **AACSB accreditation** (a quality benchmark achieved by less than 6% of business schools globally), IMT competes directly with tier-1 b-schools like MDI Gurgaon, IMI New Delhi, and Baby IIMs.
+Holding prestigious **AACSB accreditation** (a quality benchmark achieved by less than 6% of business schools globally), IMT competes directly with tier-1 b-schools like [MDI Gurgaon](/colleges/mdi-gurgaon), IMI New Delhi, and Baby IIMs.
 
 However, an investment of ₹21.50 Lakhs and a batch of ~500 students demand an objective assessment. In this comprehensive 2027 review, let's explore: how the profile-based shortlisting channel works, audited specialization-wise placements, the single-room hostel lifestyle in Raj Nagar, and the reality of navigating internal batch competition.
 

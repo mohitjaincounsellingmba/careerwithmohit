@@ -158,7 +158,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-### 1. Is MIT World Peace University (MIT-WPU) a good choice for higher education in 2026?
+### 1. Is [MIT World Peace University (MIT-WPU)](/colleges/mit-wpu-pune) a good choice for higher education in 2026?
 Yes, MIT World Peace University (MIT-WPU) is a highly reputed institution in Pune (UGC, NAAC A Grade, NBA Accredited Programs, AICTE). It offers modern campus infrastructure, strong industry integration, and a commendable average placement package of ₹7.20 LPA - ₹9.00 LPA.
 
 ### 2. What is the annual fee structure at MIT World Peace University (MIT-WPU)?

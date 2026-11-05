@@ -5,17 +5,14 @@ description: >-
   2027 guide for Direct Admission in JBIMS Mumbai: Institute-Level Se...: Check
   fees, verified placement packages, real cutoffs & admission tips with Mohit...
 keywords:
-  - '[JBIMS Mumbai](/colleges/jbims-mumbai/) direct admission'
   - JBIMS institute level seats
   - JBIMS management quota
   - JBIMS NRI quota 2026
   - '[JBIMS Mumbai](/colleges/jbims-mumbai/) MBA fees'
   - Jamnalal Bajaj admission
-  - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -84,7 +81,7 @@ A dedicated percentage of seats are reserved for NRI and foreign national candid
 
 | Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
 | :--- | :--- | :--- | :--- |
-| **Direct Admission in JBIMS Mumbai: Institute-L** | ₹27.63 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
+| **Direct Admission in [JBIMS Mumbai](/colleges/jbims-mumbai): Institute-L** | ₹27.63 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |
 
 ---
 

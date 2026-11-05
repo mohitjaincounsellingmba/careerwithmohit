@@ -56,7 +56,7 @@ state: Delhi NCR
 ## [MDI Gurgaon](/colleges/mdi-gurgaon/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Strategic Corporate Hub**: Established in 1973 by IFCI, **Management Development Institute (MDI Gurgaon)** operates from a 37-acre green campus in Sector 17, Gurugram (Delhi-NCR), holding **NIRF Rank #11** with prestigious **AACSB, AMBA, and SAQS accreditations**.
+> - **Core USP & Strategic Corporate Hub**: Established in 1973 by IFCI, **Management Development Institute ([MDI Gurgaon](/colleges/mdi-gurgaon))** operates from a 37-acre green campus in Sector 17, Gurugram (Delhi-NCR), holding **NIRF Rank #11** with prestigious **AACSB, AMBA, and SAQS accreditations**.
 > - **Flagship Programs**: Highly recognized for **PGDM (Core)**, **PGDM-HRM**, and prestigious dual-degree **PGDM-IB (International Business with ESCP Europe)**.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹25.00 Lakhs** against an audited average CTC of **₹25.50 LPA – ₹26.70 LPA** (Median: **₹24.20 LPA**, Top 10%: **₹39.50 LPA**, Highest: **₹63.50 LPA**).
 > - **Cutoffs & Selection**: Admission is routed through **CAT only** requiring **95–97+ percentile** overall, followed by institutional Personal Interview and profile evaluation.
@@ -205,7 +205,7 @@ Located in the heart of Gurgaon's Cyber City corporate hub, MDI Gurgaon offers p
 ```
 
 ### Who Should Choose MDI Gurgaon?
-- **Aspirants Scoring 95–98%ile in CAT**: Excellent institutional choice that directly competes with older IIMs (IIM Indore/Kozhikode) in consulting, corporate finance, and tech-management roles.
+- **Aspirants Scoring 95–98%ile in CAT**: Excellent institutional choice that directly competes with older IIMs ([IIM Indore](/colleges/iim-indore)/Kozhikode) in consulting, corporate finance, and tech-management roles.
 - **Candidates Seeking Delhi-NCR Corporate Mobility**: Unmatched corporate connectivity in Gurgaon and Delhi-NCR allows frequent CXO guest interactions, live industry projects, and high PPO conversion rates.
 - **International Business Aspirants (PGDM-IB)**: Dual degree with ESCP Europe provides global mobility and high European placement opportunities.
 

@@ -182,7 +182,7 @@ Here is how **[Institute of Public Enterprise](/colleges/ipe-hyderabad/) (IPE Hy
 
 ---
 
-## 8. Final Admission Verdict: Should You Join Institute of Public Enterprise (IPE Hyderabad)?
+## 8. Final Admission Verdict: Should You Join [Institute of Public Enterprise (IPE Hyderabad)](/colleges/ipe-hyderabad)?
 
 ### Why Choose Institute of Public Enterprise (IPE Hyderabad)?
 1. **Solid Placement Track Record:** Consistent average CTC of **₹7.50 LPA** with blue-chip recruiters.

@@ -63,7 +63,7 @@ state: Delhi NCR
 ## [Lloyd Business School Greater Noida](https://careerwithmohit.online/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Institutional Heritage & Governance**: Established in 2008 in the educational corridor of Knowledge Park II, Greater Noida. Approved by **AICTE**, Lloyd Business School operates both university-affiliated **AKTU MBA** and autonomous **PGDM** programs co-designed with industry partners.
+> - **Institutional Heritage & Governance**: Established in 2008 in the educational corridor of Knowledge Park II, Greater Noida. Approved by **AICTE**, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) operates both university-affiliated **AKTU MBA** and autonomous **PGDM** programs co-designed with industry partners.
 > - **Fee vs Average Package (ROI)**: 2-year AKTU MBA fee of **₹3.20 Lakhs** (exceptional ROI) and autonomous PGDM fee of **₹6.50L to ₹8.25L** against an audited average domestic CTC of **₹6.50 LPA to ₹6.80 LPA** and median of **₹6.20 LPA** (highest package: **₹18.00 LPA**).
 > - **Industry Collaborative Verticals**: Offers industry-partnered PGDM programs in **Supply Chain Management** (with Safeducate) and **Business Analytics**, providing dedicated corporate mentoring and live industry projects.
 > - **Entrance Cutoffs & Selection**: Accepts **CAT, MAT, CMAT, ATMA, XAT, CUET-PG (55.0–65.0 percentile)**, followed by Personal Interview rounds and profile screening.

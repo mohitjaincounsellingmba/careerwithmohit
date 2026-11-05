@@ -52,7 +52,7 @@ state: 'Jammu, J&K'
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **200-Acre Smart Campus & Tri-Institute Pedagogy**: Spanning a scenic **200-acre permanent smart campus at Jagti, Jammu**, IIM Jammu offers flagship residential programs in **MBA, MBA in Hospital Administration & Healthcare Management (MBA-HA&HM jointly with AIIMS & IIT Jammu), and a 5-Year IPM**.
+> - **200-Acre Smart Campus & Tri-Institute Pedagogy**: Spanning a scenic **200-acre permanent smart campus at Jagti, Jammu**, [IIM Jammu](/colleges/iim-jammu) offers flagship residential programs in **MBA, MBA in Hospital Administration & Healthcare Management (MBA-HA&HM jointly with AIIMS & IIT Jammu), and a 5-Year IPM**.
 > - **Solid Fee-to-Salary ROI**: Total 2-year program fee is **₹17.15 – ₹17.50 Lakhs** against an audited average domestic CTC of **₹15.48 – ₹16.43 LPA** (Top 25% batch averaging **₹21.50 LPA**; Highest CTC: **₹64.00 LPA**), delivering complete financial break-even within 14 to 16 months.
 > - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**90.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), past academic record, and gender/academic diversity factors.
 > - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
@@ -170,10 +170,10 @@ IIM Jammu shortlists candidates through the **Common Admission Process (IIM CAP)
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Jammu** | **₹17.15 Lakhs** | **₹15.48 – ₹16.43 LPA** | **₹15.00 LPA** | Jagti, Jammu |
-| **IIM Amritsar** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
-| **IIM Bodh Gaya** | ₹16.00 Lakhs | ₹14.50 LPA | ₹14.00 LPA | Bodh Gaya, Bihar |
-| **IIM Sirmaur** | ₹15.75 Lakhs | ₹14.45 LPA | ₹13.50 LPA | Paonta Sahib, HP |
-| **IIM Sambalpur** | ₹15.00 Lakhs | ₹14.80 LPA | ₹14.00 LPA | Sambalpur, Odisha |
+| **[IIM Amritsar](/colleges/iim-amritsar)** | ₹16.30 Lakhs | ₹16.51 LPA | ₹16.00 LPA | Amritsar, Punjab |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | ₹16.00 Lakhs | ₹14.50 LPA | ₹14.00 LPA | Bodh Gaya, Bihar |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | ₹15.75 Lakhs | ₹14.45 LPA | ₹13.50 LPA | Paonta Sahib, HP |
+| **[IIM Sambalpur](/colleges/iim-sambalpur)** | ₹15.00 Lakhs | ₹14.80 LPA | ₹14.00 LPA | Sambalpur, Odisha |
 
 ---
 

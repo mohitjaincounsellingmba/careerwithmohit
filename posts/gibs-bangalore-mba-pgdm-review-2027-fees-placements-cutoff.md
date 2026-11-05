@@ -216,10 +216,10 @@ The selection process evaluates spontaneous articulation, business awareness, ca
 
 | Institution | Location | Total 2-Year Fees | Average Domestic CTC | Key Distinct Strength |
 |---|:---:|:---:|:---:|:---:|
-| **GIBS Business School** | Bannerghatta, Bangalore | ₹8.95 Lakhs | **₹7.40 – ₹8.20 LPA** | Finishing School, IRE startup lab, Bannerghatta location |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | Bannerghatta, Bangalore | ₹8.95 Lakhs | **₹7.40 – ₹8.20 LPA** | Finishing School, IRE startup lab, Bannerghatta location |
 | **Christ University** | Bannerghatta, Bangalore | ₹9.50 L – ₹11.50 L | **₹8.20 LPA** | Strict discipline, central Bangalore presence |
 | **Alliance University** | Anekal, Bangalore | ₹18.00 L – ₹19.00 L | **₹8.50 – ₹9.20 LPA** | 55-acre campus, AACSB member, higher fees |
-| **ISBR Business School** | Electronic City, Bangalore | ₹9.50 L – ₹11.00 L | **₹7.80 LPA** | Electronic City IT hub location, global tie-ups |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | Electronic City, Bangalore | ₹9.50 L – ₹11.00 L | **₹7.80 LPA** | Electronic City IT hub location, global tie-ups |
 | **IIBS Bangalore** | Airport Road, Bangalore | ₹7.50 L – ₹8.50 L | **₹6.50 LPA** | Affordable budget option near airport |
 | **Welingkar Bangalore** | Electronic City, Bangalore | ₹14.50 L – ₹16.50 L | **₹10.52 LPA** | E-business focus, Mumbai parent brand network |
 
@@ -269,7 +269,7 @@ Submitting applications during early cycles (November to February) maximizes sch
 
 GIBS Business School is an established, dependable choice for management education:
 - **Best Suited For**: Candidates seeking an intensive corporate-grooming PGDM in Bangalore with manageable fees (under ₹9.0 Lakhs) and reliable corporate placements averaging ₹7.40 LPA to ₹8.20 LPA.
-- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIM Bangalore, SIBM, or TAPMI.
+- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like [IIM Bangalore](/colleges/iim-bangalore), SIBM, or TAPMI.
 
 ---
 

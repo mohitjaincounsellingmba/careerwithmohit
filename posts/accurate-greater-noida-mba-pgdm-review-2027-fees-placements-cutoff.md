@@ -85,7 +85,7 @@ state: Delhi NCR
 
 ## 1. Institutional Background: The Knowledge Park III Advantage
 
-Established in 2006 under the Accurate Group of Institutions, Accurate Institute of Management & Technology (AIMT Greater Noida) was built to deliver industry-responsive management and engineering education in the National Capital Region.
+Established in 2006 under the Accurate Group of Institutions, [Accurate Institute of Management](/colleges/accurate-greater-noida) & Technology (AIMT Greater Noida) was built to deliver industry-responsive management and engineering education in the National Capital Region.
 
 Situated across a 16-acre campus in Knowledge Park-III, Greater Noida, AIMT benefits from its strategic location in Delhi NCR’s primary educational and corporate hub. Surrounded by major multinational offices, IT campuses, and manufacturing facilities across Noida, Greater Noida, and the Yamuna Expressway corridor, AIMT leverages its geographical advantage to connect students with live corporate projects, guest seminars, and campus hiring drives.
 
@@ -211,7 +211,7 @@ The personal interview evaluates communication confidence, basic business awaren
 | **Accurate Institute (PGDM)** | AICTE Approved | ₹6.25 L – ₹6.95 L | **₹6.50 LPA** | Corporate certifications, low fee tier |
 | **Accurate Institute (MBA)** | AKTU Affiliated | ₹3.25 Lakhs | **₹5.50 LPA** | Ultra-budget state university degree |
 | **GL Bajaj Greater Noida** | AICTE Approved | ₹8.50 Lakhs | **₹7.60 LPA** | Large batch size, strict discipline |
-| **Lloyd Business School** | AICTE Approved | ₹7.50 Lakhs | **₹6.50 LPA** | Supply chain tie-ups, affordable budget |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | AICTE Approved | ₹7.50 Lakhs | **₹6.50 LPA** | Supply chain tie-ups, affordable budget |
 | **Mangalmay Group** | AICTE / AKTU | ₹6.50 Lakhs | **₹5.80 LPA** | Balanced budget, regional recruitment |
 | **SGBS Greater Noida** | AICTE Approved | ₹10.50 Lakhs | **₹7.50 – ₹8.20 LPA** | Modern ESG curriculum, small batch sizes |
 

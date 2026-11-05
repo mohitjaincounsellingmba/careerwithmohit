@@ -15,7 +15,6 @@ keywords:
   - Ahmedabad Colleges
   - Best Colleges in Ahmedabad
   - Top Colleges in Ahmedabad 2026
-  - Ahmedabad Direct Admission 2026
   - Colleges in Gujarat
   - Ahmedabad Career Counselling
   - Ahmedabad Admissions 2027
@@ -67,7 +66,7 @@ state: Gujarat
 > - **Admissions & Selection Criteria**: Minimum 50% in graduation + top-percentile **CAT** score (**99.50+ percentile** for GEM; **97.5+ percentile** for diverse categories) evaluated via Composite Score (CS), Analytical Writing Test (AWT), and Personal Interview (PI).
 > - **Expert Profile Evaluation**: For detailed academic rating calculations, category diversity cutoffs, and WAT-PI interview coaching, consult Senior MBA Admissions Strategist **Mohit Jain (+91 9560020771)**.
 
-[InquiryCard title="Calculate Your IIM Ahmedabad Admission Chances" description="Check your CAT composite score, academic ratings (10th/12th/Grad), and interview shortlist probability with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
+[InquiryCard title="Calculate Your [IIM Ahmedabad](/colleges/iim-ahmedabad) Admission Chances" description="Check your CAT composite score, academic ratings (10th/12th/Grad), and interview shortlist probability with mentor Mohit Jain." cta="Book Free Counselling" type="admission"]
 
 Indian Institute of Management Ahmedabad (IIMA) stands as the gold standard of management education in the Asia-Pacific region, commanding unmatched global brand equity and corporate executive alumni leadership.
 
@@ -199,9 +198,9 @@ For the second stage (Final Selection after AWT-PI), IIMA assigns the following 
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Ahmedabad (IIMA)** | **₹26.50 Lakhs** | **₹35.22 LPA** | **₹31.50 LPA** | Ahmedabad, Gujarat |
-| **IIM Bangalore (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
-| **IIM Calcutta (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.67 LPA | Joka, Kolkata |
-| **IIM Lucknow (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Prabandh Nagar, Lucknow |
+| **[IIM Bangalore](/colleges/iim-bangalore) (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
+| **[IIM Calcutta](/colleges/iim-calcutta) (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.67 LPA | Joka, Kolkata |
+| **[IIM Lucknow](/colleges/iim-lucknow) (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Prabandh Nagar, Lucknow |
 | **IIM Kozhikode (IIMK)** | ₹20.50 Lakhs | ₹28.05 LPA | ₹27.00 LPA | Kunnamangalam, Kerala |
 
 ---

@@ -49,7 +49,7 @@ state: 'Amritsar, Punjab'
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **60-Acre Permanent Campus & Pedagogy**: Located along the **GT Road at Manawala, Amritsar**, IIM Amritsar operates a **state-of-the-art 60-acre permanent smart campus** offering flagship programs in **MBA, MBA in Business Analytics (MBA-BA), and MBA in Human Resource Management (MBA-HR)**.
+> - **60-Acre Permanent Campus & Pedagogy**: Located along the **GT Road at Manawala, Amritsar**, [IIM Amritsar](/colleges/iim-amritsar) operates a **state-of-the-art 60-acre permanent smart campus** offering flagship programs in **MBA, MBA in Business Analytics (MBA-BA), and MBA in Human Resource Management (MBA-HR)**.
 > - **Robust Fee-to-Salary ROI**: Total 2-year program fee is **₹16.00 – ₹17.30 Lakhs** against an audited average domestic CTC of **₹16.51 – ₹17.15 LPA** (Top 25% batch averaging **₹20.57 LPA**; Highest Domestic CTC: **₹36.25 LPA**), delivering a fast financial payback within 12 to 14 months.
 > - **Admissions & IIM CAP Route**: Minimum 50% in graduation + valid **CAT** score (**92.0+ percentile** for General category in IIM CAP) evaluated via Personal Interview (PI), academic ratings, and gender/academic diversity factors.
 > - **Strategic Profile Evaluation**: For detailed IIM CAP cutoff calculations, shortlist chances, and WAT-PI interview coaching, consult Senior MBA Consultant **Mohit Jain (+91 9560020771)**.
@@ -167,10 +167,10 @@ IIM Amritsar admits students through the **Common Admission Process (IIM CAP)**,
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Amritsar** | **₹16.30 Lakhs** | **₹16.51 LPA** | **₹16.00 LPA** | Amritsar, Punjab |
-| **IIM Bodh Gaya** | ₹15.50 Lakhs | ₹14.50 LPA | ₹14.00 LPA | Bodh Gaya, Bihar |
-| **IIM Jammu** | ₹17.15 Lakhs | ₹15.48 LPA | ₹15.00 LPA | Jagti, Jammu |
-| **IIM Kashipur** | ₹17.50 Lakhs | ₹18.11 LPA | ₹17.20 LPA | Kashipur, Uttarakhand |
-| **IIM Nagpur** | ₹18.90 Lakhs | ₹16.74 LPA | ₹16.00 LPA | MIHAN, Nagpur |
+| **[IIM Bodh Gaya](/colleges/iim-bodh-gaya)** | ₹15.50 Lakhs | ₹14.50 LPA | ₹14.00 LPA | Bodh Gaya, Bihar |
+| **[IIM Jammu](/colleges/iim-jammu)** | ₹17.15 Lakhs | ₹15.48 LPA | ₹15.00 LPA | Jagti, Jammu |
+| **[IIM Kashipur](/colleges/iim-kashipur)** | ₹17.50 Lakhs | ₹18.11 LPA | ₹17.20 LPA | Kashipur, Uttarakhand |
+| **[IIM Nagpur](/colleges/iim-nagpur)** | ₹18.90 Lakhs | ₹16.74 LPA | ₹16.00 LPA | MIHAN, Nagpur |
 
 ---
 

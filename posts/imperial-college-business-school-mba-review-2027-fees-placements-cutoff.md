@@ -287,7 +287,7 @@ Conducted by a senior admissions officer or alumni interviewer over Zoom:
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India vs Imperial UK?
-While top Indian B-Schools like IIM Ahmedabad or ISB Hyderabad charge between ₹25 Lakhs and ₹42 Lakhs INR for their flagship programs, Imperial College Business School's tuition fee is approximately ₹78.65 Lakhs INR (£71,500). However, Imperial provides international salary earning potential in British Pounds (£88,500+ base) and immediate access to global European and Middle Eastern corporate markets.
+While top Indian B-Schools like [IIM Ahmedabad](/colleges/iim-ahmedabad) or ISB Hyderabad charge between ₹25 Lakhs and ₹42 Lakhs INR for their flagship programs, Imperial College Business School's tuition fee is approximately ₹78.65 Lakhs INR (£71,500). However, Imperial provides international salary earning potential in British Pounds (£88,500+ base) and immediate access to global European and Middle Eastern corporate markets.
 
 ### Can I get admission to Imperial Business School without a GMAT or GRE score?
 Standard admission requires a valid GMAT Focus Edition or GRE score. GMAT/GRE waivers are exceptionally rare and reserved solely for applicants holding advanced quantitative doctorates (PhDs), terminal engineering master's degrees, or certified CFA charterholders with 8+ years of executive-level management experience.

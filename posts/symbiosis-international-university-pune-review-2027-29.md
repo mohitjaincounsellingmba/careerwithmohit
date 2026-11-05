@@ -114,7 +114,7 @@ A critical indicator of any university's strength is its corporate relations cel
 ### Placement Statistics Summary
 
 - **Highest Salary Package:** **₹49 LPA - ₹54 LPA (MBA) / ₹36 LPA (B.Tech)**
-- **Average Salary Package:** **₹23.50 LPA (SIBM Pune) / ₹22.80 LPA (SCMHRD) / ₹8.50 LPA (UG)**
+- **Average Salary Package:** **₹23.50 LPA ([SIBM Pune](/colleges/sibm-pune)) / ₹22.80 LPA (SCMHRD) / ₹8.50 LPA (UG)**
 - **Major Recruiting Sectors:** IT Services, BFSI (Banking & Finance), Consulting, Core Engineering, FMCG & E-Commerce
 - **Top Visiting Employers:** McKinsey, BCG, Accenture Strategy, HUL, ITC, Google, Amazon, JP Morgan, Goldman Sachs, Tata
 

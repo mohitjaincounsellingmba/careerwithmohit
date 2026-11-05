@@ -102,7 +102,7 @@ For candidates targeting **MBA admission 2027** through **NMAT exam**, **CAT 202
 
 ## Important Admission Advice for Mumbai MBA 2027
 
-- Candidates targeting **NMIMS Mumbai** must register for the **NMAT exam** before the October deadline and ensure they select NMIMS Mumbai as their priority preference.
+- Candidates targeting **[NMIMS Mumbai](/colleges/nmims-mumbai)** must register for the **NMAT exam** before the October deadline and ensure they select NMIMS Mumbai as their priority preference.
 - Candidates seeking **Finance and FinTech** careers should apply early to **N L Dalmia, Welingkar, and ITM Navi Mumbai** as seats fill up in early rounds (Jan–Feb 2027).
 
 ---

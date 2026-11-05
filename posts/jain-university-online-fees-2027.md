@@ -67,7 +67,7 @@ For students planning to enroll in the 2027 academic session, understanding the 
 
 ## 1. Jain Online MBA Fee Structure 2027
 
-The **Online MBA** at Jain University is a 2-year (4-semester) degree offering tech-driven specializations including Data Science, Business Intelligence, FinTech, Aviation Management, Marketing, and HR.
+The **Online MBA** at [Jain University](/colleges/jain-university) is a 2-year (4-semester) degree offering tech-driven specializations including Data Science, Business Intelligence, FinTech, Aviation Management, Marketing, and HR.
 
 | Payment Option | Fee Amount | Schedule / Details |
 | :--- | :--- | :--- |

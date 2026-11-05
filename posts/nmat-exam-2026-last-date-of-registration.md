@@ -151,7 +151,7 @@ Follow these steps carefully before the registration last date:
 * Enter your Class 10, Class 12, and undergraduate degree percentage and university details.
 
 ### 3. Select 5 Participating B-Schools (Free)
-* Under the B-Schools Selection section, choose 5 B-school programs that you want to send your scores to without any extra charge (e.g., NMIMS Mumbai, TAPMI, K J Somaiya, XIM University, SDA Bocconi).
+* Under the B-Schools Selection section, choose 5 B-school programs that you want to send your scores to without any extra charge (e.g., [NMIMS Mumbai](/colleges/nmims-mumbai), TAPMI, K J Somaiya, XIM University, SDA Bocconi).
 * If you wish to apply to more than 5 institutes, you can add them by paying ₹300 + GST each.
 
 ### 4. Pay the Registration Fee

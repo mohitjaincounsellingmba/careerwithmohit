@@ -57,7 +57,7 @@ state: West Bengal
 > - **Top-Ranked B-Schools**: **[IIM Calcutta](/colleges/iim-calcutta/) (Joka)**, **VGSoM IIT Kharagpur**, **IIFT Kolkata**, **[IMI Kolkata](/colleges/imi-kolkata/)**, **IISWBM (India's First Management Institute)**, and **[Praxis Business School](/colleges/praxis-kolkata/)**.
 > - **Fee & Placement Spectrum**: Tuition fees range from ₹6.0 Lakhs (IISWBM) to ₹27.0 Lakhs ([IIM Calcutta](/colleges/iim-calcutta/)), with average salary packages touching ₹7.5 LPA to ₹34.8 LPA.
 
-### [InquiryCard title="Targeting Top Management Colleges in Kolkata?" description="Compare IIM Calcutta, VGSoM, [IMI Kolkata](/colleges/imi-kolkata/), IISWBM, Praxis, and Globsyn. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Kolkata Consultation" type="admission"]
+### [InquiryCard title="Targeting Top Management Colleges in Kolkata?" description="Compare [IIM Calcutta](/colleges/iim-calcutta), VGSoM, [IMI Kolkata](/colleges/imi-kolkata/), IISWBM, Praxis, and Globsyn. Get 1-on-1 profile evaluation & cut-off guidance from Mohit Jain." cta="Book Free Kolkata Consultation" type="admission"]
 
 Kolkata, the cultural and economic capital of Eastern India, holds a distinguished position in the history of Indian business education. Home to both India’s first IIM (IIM Calcutta, 1961) and India’s first management institute (IISWBM, 1953), Kolkata offers profound academic rigor, deep alumni roots across FMCG and consulting, and emerging technology analytics hubs in Salt Lake and New Town.
 
@@ -113,7 +113,7 @@ In this 2027 guide, senior admission consultant **Mohit Jain** evaluates the pre
 ### What is the CAT cutoff for IIM Calcutta?
 For general category candidates, the qualifying percentile is 85, but the actual interview call threshold is typically **99.4+ percentile** with high weightage on 10th and 12th board percentages.
 
-### How are placements at IMI Kolkata?
+### How are placements at [IMI Kolkata](/colleges/imi-kolkata)?
 IMI Kolkata (RP-Sanjiv Goenka Group) records 100% placements with an average CTC of **₹10.60 LPA**, with top recruiters including Deloitte, PwC, ICICI Bank, KPMG, and Tata Play.
 
 ### What is the JEMAT exam in West Bengal?

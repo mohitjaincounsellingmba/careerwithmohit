@@ -51,7 +51,7 @@ category: Jobs & Careers
 > - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
 > - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in IMI Delhi 2026: Instituti?
+## What are the Admission Cutoffs, Fees, and Placement Records for Direct Admission in [IMI Delhi](/colleges/imi-delhi) 2026: Instituti?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹17.1 LPA, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

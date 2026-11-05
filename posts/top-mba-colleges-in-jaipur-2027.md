@@ -88,7 +88,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
          ┌─────────────────────────────┼─────────────────────────────┐
          ▼                             ▼                             ▼
   [General PGDM Leader]       [Healthcare & Hospital Icon]    [High-ROI Government]
-  Jaipuria Institute Jaipur   IIHMR University Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)
+  Jaipuria Institute Jaipur   [IIHMR University](/colleges/iihmr-university) Jaipur         [MNIT Jaipur](/colleges/mnit-jaipur/) (DMS)
   - ₹11.2 LPA Avg Domestic    - India's #1 Hospital MBA       - ₹2.8L Total Fee
 ```
 
@@ -100,7 +100,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** evaluates the top
 - **Niche Leadership**: Designated as a WHO Collaborating Centre for District Health Systems. Undisputed national leader for careers in Hospital Operations, Health Analytics, and Public Health Consulting.
 - **Top Recruiters**: Apollo Hospitals, Fortis Healthcare, Max Healthcare, Cipla, Dr. Reddy's, PwC Healthcare Advisory, UNICEF, and PATH.
 
-### 3. MNIT Jaipur - Department of Management Studies (DMS)
+### 3. [MNIT Jaipur](/colleges/mnit-jaipur) - Department of Management Studies (DMS)
 - **ROI Champion**: Backed by the prestigious Malaviya National Institute of Technology (NIT) engineering and research infrastructure, offering MBA specializations in Operations, Finance, and Marketing at minimal tuition cost.
 
 ---

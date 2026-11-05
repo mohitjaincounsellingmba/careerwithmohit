@@ -281,7 +281,7 @@ Schedule a strategy session to evaluate your profile, explore merit scholarships
 
 ## 13. Final Counselor Verdict: Is JIMS Kalkaji Worth It?
 
-**JIMS Kalkaji (Jagannath International Management School) is one of South Delhi's most consistent and reliable Tier-2 business schools.**
+**[JIMS Kalkaji (Jagannath International Management School)](/colleges/jims-kalkaji) is one of South Delhi's most consistent and reliable Tier-2 business schools.**
 
 With NBA accreditation, AIU MBA equivalence, an established 25+ year pedigree, and fees of ₹9.80 Lakhs delivering audited average placements of ₹8.50 LPA to ₹8.80 LPA, it provides solid return on investment and corporate exposure in the heart of Delhi.
 

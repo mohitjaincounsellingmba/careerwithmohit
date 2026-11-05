@@ -56,7 +56,7 @@ state: Karnataka
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Global Accreditation & Pedagogy**: Set on an **8.5-acre green residential campus on Kanakapura Road, Bengaluru**, Indus Business Academy (IBA) is **AICTE-approved, NBA-accredited, AIU-equivalent**, and internationally accredited by **IACBE (USA)**, offering 3D leadership development.
+> - **Global Accreditation & Pedagogy**: Set on an **8.5-acre green residential campus on Kanakapura Road, Bengaluru**, [Indus Business Academy (IBA)](/colleges/iba-bangalore) is **AICTE-approved, NBA-accredited, AIU-equivalent**, and internationally accredited by **IACBE (USA)**, offering 3D leadership development.
 > - **Fee vs Average Placement (ROI)**: Total 2-year program fee is **₹9.95 – ₹10.25 Lakhs** against an average domestic CTC of **₹7.80 – ₹8.40 LPA** (Top 25% cohort averaging **₹11.50 LPA**; Highest CTC: **₹20.00 LPA**), ensuring a balanced ROI payback within 15 to 18 months.
 > - **Admissions & Accepted Exams**: Minimum 50% marks in graduation + valid **CAT / XAT / MAT / CMAT / ATMA / GMAT / KMAT** score, assessed via Statement of Purpose (SOP) and Personal Interview (PI).
 > - **Direct Counselling & Merit Scholarships**: For direct profile evaluations, application fee concessions, and hostel bookings, contact Senior MBA Counselor **Mohit Jain (+91 9560020771)**.
@@ -180,9 +180,9 @@ IBA considers test scores as one component of its overall evaluation matrix, val
 | Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IBA Bangalore (Indus)** | **₹9.95 Lakhs** | **₹7.80 – ₹8.40 LPA** | **₹20.00 LPA** | Kanakapura, Bangalore |
-| **GIBS Business School** | ₹11.25 Lakhs | ₹8.40 – ₹9.50 LPA | ₹22.00 LPA | Bannerghatta, Bangalore |
+| **[GIBS Business School](/colleges/gibs-bangalore)** | ₹11.25 Lakhs | ₹8.40 – ₹9.50 LPA | ₹22.00 LPA | Bannerghatta, Bangalore |
 | **Alliance University** | ₹15.00 Lakhs | ₹8.50 LPA | ₹21.60 LPA | Anekal, Bangalore |
-| **ISBR Business School** | ₹11.50 Lakhs | ₹8.50 LPA | ₹15.00 LPA | Electronic City, Bangalore |
+| **[ISBR Business School](/colleges/isbr-bangalore)** | ₹11.50 Lakhs | ₹8.50 LPA | ₹15.00 LPA | Electronic City, Bangalore |
 | **IFIM College Bangalore** | ₹10.00 Lakhs | ₹7.50 LPA | ₹16.00 LPA | Electronic City, Bangalore |
 
 ---
@@ -231,7 +231,7 @@ The 8-to-10-week summer internship between May and July serves as an essential b
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IBA Bangalore** | AICTE, NBA, IACBE | ₹9.95 Lakhs | ₹8.20 LPA | ₹7.80 LPA | ₹11.50 LPA |
 | **ISBR Bangalore** | AICTE, NBA | ₹9.50 Lakhs | ₹7.80 LPA | ₹7.40 LPA | ₹11.20 LPA |
-| **ISME Bangalore** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
+| **[ISME Bangalore](/colleges/isme-bangalore)** | AICTE, NBA, AIU | ₹9.40 Lakhs | ₹7.80 LPA | ₹7.30 LPA | ₹11.50 LPA |
 | **GIBS Business School**| AICTE Approved | ₹8.25 Lakhs | ₹7.40 LPA | ₹7.10 LPA | ₹10.50 LPA |
 | **Alliance Univ (SBM)**| UGC, AACSB Member | ₹15.00 Lakhs | ₹8.50 LPA | ₹8.00 LPA | ₹13.00 LPA |
 

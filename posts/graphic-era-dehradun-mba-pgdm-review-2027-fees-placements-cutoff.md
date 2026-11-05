@@ -72,7 +72,7 @@ Choosing the right PGDM or MBA institution requires analyzing audited placement 
 
 ## 1. Quick Institutional Overview & Key Highlights (2027 Intake)
 
-The table below provides a verified snapshot of **Graphic Era (Deemed to be University), Dehradun** for the upcoming **2027–2029 academic session**:
+The table below provides a verified snapshot of **[Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun), Dehradun** for the upcoming **2027–2029 academic session**:
 
 | Parameter | Official Verified Details |
 | :--- | :--- |

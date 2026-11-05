@@ -895,7 +895,7 @@ Use the Past-Present-Future framework: spend 20 seconds on your academic/work fo
 Ground abstract topics immediately in tangible metaphors and business applications. For example, interpret "Red vs Blue" as aggressive innovation and risk-taking (Red Ocean) versus blue ocean differentiation, compliance, and governance.
 
 ### Can an average entrance percentile be compensated for in the GD-PI round?
-Yes. Top institutions like SPJIMR, XLRI, MDI, SIBM Pune, and Baby/New IIMs allocate between 30% and 50% of composite selection weightage to WAT, GD, and PI rounds, allowing well-prepared candidates to outperform higher percentile scorers.
+Yes. Top institutions like SPJIMR, XLRI, MDI, [SIBM Pune](/colleges/sibm-pune), and Baby/New IIMs allocate between 30% and 50% of composite selection weightage to WAT, GD, and PI rounds, allowing well-prepared candidates to outperform higher percentile scorers.
 
 ---
 

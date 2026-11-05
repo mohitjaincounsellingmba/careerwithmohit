@@ -201,9 +201,9 @@ Operating from its permanent 120-acre campus at Umsawli, IIM Shillong offers one
 ```
 
 ### Who Should Choose IIM Shillong?
-- **CAT Aspirants in the 97–99%ile Bracket**: If you narrowly miss out on IIM Ahmedabad, Bangalore, or Calcutta, IIM Shillong provides identical front-end consulting and investment banking opportunities with a ₹26+ LPA average package.
+- **CAT Aspirants in the 97–99%ile Bracket**: If you narrowly miss out on [IIM Ahmedabad](/colleges/iim-ahmedabad), Bangalore, or Calcutta, IIM Shillong provides identical front-end consulting and investment banking opportunities with a ₹26+ LPA average package.
 - **Candidates Targeting MBB Consulting & Global Banking**: Active recruitment by McKinsey, BCG, Bain, and Goldman Sachs places IIM Shillong at par with top older IIMs (BLACKI).
-- **Candidates Comparing MDI Gurgaon, IIFT Delhi, or SIBM Pune**: IIM Shillong delivers stronger institutional pedigree, superior alumni brand value, and higher average compensation.
+- **Candidates Comparing [MDI Gurgaon](/colleges/mdi-gurgaon), [IIFT Delhi](/colleges/iift-delhi), or [SIBM Pune](/colleges/sibm-pune)**: IIM Shillong delivers stronger institutional pedigree, superior alumni brand value, and higher average compensation.
 
 [MockTestCard exam="CAT" title="Evaluate Your CAT Percentile & IIM Shillong Conversion Probability" description="Take our full-length CAT diagnostic mock test and receive personalized percentile predictions and interview readiness reports." cta="Take Free Diagnostic Mock"]
 

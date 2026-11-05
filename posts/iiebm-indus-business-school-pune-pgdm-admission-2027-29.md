@@ -75,7 +75,7 @@ state: Maharashtra
 > - **Accreditation & Approvals**: AICTE Approved, Ministry of Education, SAP ERP Collaboration.
 > - **Audited Placements & PPO**: Average CTC stands at **₹7.50 LPA** (Top 25% at **₹10.50 LPA**) with a highest package of **₹30.00 LPA**. 28% PPO conversion through direct SAP ERP systems integration and IT consulting tie-ups.
 
-## What are the Admission Cutoffs, Fees, and Placement Records for IIEBM (Indus Business School) MBA / PGDM Admi?
+## What are the Admission Cutoffs, Fees, and Placement Records for [IIEBM (Indus Business School)](/colleges/iiebm-pune) MBA / PGDM Admi?
 
 **Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹8.25 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
 

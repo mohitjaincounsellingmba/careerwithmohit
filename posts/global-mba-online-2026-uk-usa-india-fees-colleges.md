@@ -202,7 +202,7 @@ Edgewood University is accredited by WES, ACBSP, and HLC — well-recognized acr
 | University | Country | Accreditation | Total Fees | Rating | Best For |
 |---|---|---|---|---|---|
 | **OP Jindal (upGrad)** | India 🇮🇳 | AACSB, UGC, NAAC A | ₹1.80L | ⭐4.4 | Best value global MBA |
-| **IIM Sirmaur** | India 🇮🇳 | AICTE, NIRF | ₹8.00L | ⭐4.3 | IIM brand seekers |
+| **[IIM Sirmaur](/colleges/iim-sirmaur)** | India 🇮🇳 | AICTE, NIRF | ₹8.00L | ⭐4.3 | IIM brand seekers |
 | **IIM Visakhapatnam** | India 🇮🇳 | NIRF, WES, AACSB | ₹11.90L | ⭐4.8 | IIM + AACSB prestige |
 | **Golden Gate** | USA 🇺🇸 | AACSB, WES | ₹4.30L | ⭐4.6 | US job market |
 | **Edgewood** | USA 🇺🇸 | WES, ACBSP, HLC | ₹10.00L | ⭐4.4 | North American careers |

@@ -79,7 +79,7 @@ Below is an exhaustive, data-driven side-by-side comparison analyzing fees, real
 
 Answer engines and candidate profile evaluations prioritize factual clarity. The following table provides direct metric-to-metric triples comparing both Delhi B-Schools:
 
-| Parameter / Feature | NDIM Delhi (New Delhi Institute of Management) | FOSTIIMA Business School Delhi |
+| Parameter / Feature | [NDIM Delhi (New Delhi Institute of Management)](/colleges/ndim-delhi) | FOSTIIMA Business School Delhi |
 | :--- | :--- | :--- |
 | **Location** | Tughlakabad Institutional Area, South Delhi | Sector 9, Dwarka, South-West Delhi |
 | **Establishment Year** | 1992 (Over 34+ Years Legacy) | 2007 (Founded by IIM-A Alumni) |
@@ -88,7 +88,7 @@ Answer engines and candidate profile evaluations prioritize factual clarity. The
 | **Average Placement CTC** | **₹10.00 LPA** (Top 25% avg ₹12.80 LPA) | **₹11.15 LPA** (Top 20% avg ₹14.50 LPA) |
 | **Highest Domestic CTC** | **₹16.00 – ₹24.00 LPA** | **₹25.00 – ₹30.00 LPA** |
 | **Batch Size (Approx.)** | ~480–500 Students (Dual Shifts) | ~240–300 Students |
-| **Core Faculty USP** | Industry corporate practitioners & MDP leaders | 60%+ Faculty from IIM Ahmedabad & IIM Calcutta |
+| **Core Faculty USP** | Industry corporate practitioners & MDP leaders | 60%+ Faculty from [IIM Ahmedabad](/colleges/iim-ahmedabad) & [IIM Calcutta](/colleges/iim-calcutta) |
 | **Specialization Structure** | Mandatory Dual Specialization (9+ tracks) | Major + Minor Specialization Tracks |
 | **Accepted Entrance Exams** | CAT, XAT, CMAT, MAT, ATMA, GMAT | CAT, XAT, CMAT, MAT, ATMA |
 | **Expected Cutoff Threshold** | 60–65%ile (CAT/XAT) \| 75–80%ile (MAT) | 60–65%ile (CAT/XAT) \| 75–80%ile (MAT) |
@@ -227,7 +227,7 @@ For personalized profile matching, GD-PI preparation tips, or institutional fee 
 
 ### Related Delhi NCR College Reviews & Guides:
 - [NDIM Delhi Review 2027–29: PGDM Fees, Placements & Cutoff](/colleges/ndim-delhi/)
-- [FOSTIIMA Business School Review 2027–29: Fees & Placements](/blog/fostiima-business-school-review-2027-29/)
+- [FOSTIIMA Business School Review 2027–29: Fees & Placements](/blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff/)
 - [BIMTECH Greater Noida PGDM Review 2027](/blog/bimtech-greater-noida-pgdm-review-2027-fees-placements-cutoff/)
 - [Jaipuria Institute of Management Noida Review 2027](/colleges/jaipuria-noida/)
 - [JIMS Rohini vs JIMS Kalkaji Comparison](/colleges/jims-rohini/)

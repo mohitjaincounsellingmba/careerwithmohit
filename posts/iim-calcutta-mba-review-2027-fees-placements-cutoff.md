@@ -15,7 +15,6 @@ keywords:
   - Kolkata Colleges
   - Best Colleges in Kolkata
   - Top Colleges in Kolkata 2026
-  - Kolkata Direct Admission 2026
   - Colleges in West Bengal
   - Kolkata Career Counselling
   - Kolkata Admissions 2027
@@ -54,7 +53,7 @@ state: West Bengal
 ---
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Triple Crown Pedagogy & Campus**: Set across a **135-acre campus with 7 natural lakes in Joka, Kolkata**, IIM Calcutta is India’s first IIM and holds the elite **Triple Crown accreditation (AACSB, AMBA, EQUIS)**, recognized globally as the finance and quantitative strategy capital of management education.
+> - **Triple Crown Pedagogy & Campus**: Set across a **135-acre campus with 7 natural lakes in Joka, Kolkata**, [IIM Calcutta](/colleges/iim-calcutta) is India’s first IIM and holds the elite **Triple Crown accreditation (AACSB, AMBA, EQUIS)**, recognized globally as the finance and quantitative strategy capital of management education.
 > - **World-Class Placement Outcomes**: Total 2-year program fee is **₹27.00 Lakhs** against an audited average domestic CTC of **₹35.07 – ₹35.80 LPA** (Median CTC: **₹33.60 LPA**; Highest Domestic CTC: **₹1.20 – ₹1.45 Crore**), delivering premier financial consulting and investment banking trajectories.
 > - **Admissions & Selection Criteria**: Minimum 50% in graduation + valid **CAT** score (**99.50+ percentile** for GEM; **98.0+ percentile** for diverse academic streams) evaluated via Composite Score, Personal Interview (PI), and Written Ability Test (WAT).
 > - **Strategic Profile Evaluation**: For comprehensive composite score evaluations, academic category diversity points, and WAT-PI interview coaching, consult Senior MBA Admissions Strategist **Mohit Jain (+91 9560020771)**.
@@ -186,10 +185,10 @@ IIM Calcutta shortlists candidates for Personal Interview (PI) and Written Abili
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Calcutta (IIMC)** | **₹27.00 Lakhs** | **₹35.07 LPA** | **₹33.60 LPA** | Joka, Kolkata |
-| **IIM Ahmedabad (IIMA)** | ₹26.50 Lakhs | ₹35.22 LPA | ₹31.50 LPA | Vastrapur, Ahmedabad |
-| **IIM Bangalore (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
-| **IIM Lucknow (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Prabandh Nagar, Lucknow |
-| **XLRI Jamshedpur** | ₹28.00 Lakhs | ₹32.70 LPA | ₹30.00 LPA | Jamshedpur, Jharkhand |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)** | ₹26.50 Lakhs | ₹35.22 LPA | ₹31.50 LPA | Vastrapur, Ahmedabad |
+| **[IIM Bangalore](/colleges/iim-bangalore) (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
+| **[IIM Lucknow](/colleges/iim-lucknow) (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Prabandh Nagar, Lucknow |
+| **[XLRI Jamshedpur](/colleges/xlri-jamshedpur)** | ₹28.00 Lakhs | ₹32.70 LPA | ₹30.00 LPA | Jamshedpur, Jharkhand |
 
 ---
 

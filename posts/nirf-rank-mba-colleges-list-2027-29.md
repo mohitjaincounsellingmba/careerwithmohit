@@ -174,11 +174,11 @@ The **Indian Institutes of Management (IIMs)** continue their dominance over the
          ┌─────────────────────────┼─────────────────────────┐
          ▼                         ▼                         ▼
   Generation 1 (BLACKI)     Generation 2 (New IIMs)   Generation 3 (Baby IIMs)
-  • IIM Ahmedabad (#1)      • [IIM Udaipur](/colleges/iim-udaipur/) (#18)       • [IIM Nagpur](/colleges/iim-nagpur/) (#40)
-  • IIM Bangalore (#2)      • [IIM Raipur](/colleges/iim-raipur/) (#15)        • IIM Visakhapatnam (#39)
+  • [IIM Ahmedabad](/colleges/iim-ahmedabad) (#1)      • [IIM Udaipur](/colleges/iim-udaipur/) (#18)       • [IIM Nagpur](/colleges/iim-nagpur/) (#40)
+  • [IIM Bangalore](/colleges/iim-bangalore) (#2)      • [IIM Raipur](/colleges/iim-raipur/) (#15)        • IIM Visakhapatnam (#39)
   • IIM Kozhikode (#3)      • [IIM Rohtak](/colleges/iim-rohtak/) (#16)        • [IIM Amritsar](/colleges/iim-amritsar/) (#43)
-  • IIM Lucknow (#5)        • [IIM Ranchi](/colleges/iim-ranchi/) (#23)        • [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) (#41)
-  • IIM Calcutta (#7)       • IIM Trichy (#21)        • [IIM Sambalpur](/colleges/iim-sambalpur/) (#42)
+  • [IIM Lucknow](/colleges/iim-lucknow) (#5)        • [IIM Ranchi](/colleges/iim-ranchi/) (#23)        • [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) (#41)
+  • [IIM Calcutta](/colleges/iim-calcutta) (#7)       • IIM Trichy (#21)        • [IIM Sambalpur](/colleges/iim-sambalpur/) (#42)
   • [IIM Indore](/colleges/iim-indore/) (#8)         • [IIM Kashipur](/colleges/iim-kashipur/) (#20)      • [IIM Jammu](/colleges/iim-jammu/) (#44)
   • IIM Mumbai (#6)                                   • [IIM Sirmaur](/colleges/iim-sirmaur/) (#45)
 ```
@@ -189,7 +189,7 @@ To dive deeper into the latest cutoffs, batch profiles, and comprehensive placem
 
 ## 4. Why IIT Management Departments Are Rising in NIRF
 
-A noteworthy trend in recent NIRF management lists is the aggressive climb of **IIT MBA Departments** (DMS IIT Delhi, SJMSOM IIT Bombay, VGSoM IIT Kharagpur, DoMS IIT Madras, DoMS IIT Roorkee, and IME IIT Kanpur).
+A noteworthy trend in recent NIRF management lists is the aggressive climb of **IIT MBA Departments** (DMS IIT Delhi, SJMSOM [IIT Bombay](/colleges/iit-bombay), VGSoM IIT Kharagpur, DoMS IIT Madras, DoMS IIT Roorkee, and IME IIT Kanpur).
 
 ### Key Advantages of Pursuing an MBA at an IIT:
 1. **Unrivaled Return on Investment (ROI)**: While top private B-schools charge between ₹24 Lakhs and ₹30 Lakhs, IIT MBA programs cost between **₹10 Lakhs and ₹14 Lakhs** for the entire 2-year duration.
@@ -257,7 +257,7 @@ Securing admission into the top 50 NIRF management institutes requires planning 
 * **Preparation Guide**: Check our detailed [XAT Exam Comprehensive Overview](/blog/10-tips-to-crack-cat-exam-2027-29/).
 
 ### 3. SNAP (Symbiosis National Aptitude Test)
-* **Target Institutes**: SIBM Pune, [SCMHRD Pune](/colleges/scmhrd-pune/), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore/).
+* **Target Institutes**: [SIBM Pune](/colleges/sibm-pune), [SCMHRD Pune](/colleges/scmhrd-pune/), SIIB Pune, [SIBM Bangalore](/colleges/sibm-bangalore/).
 * **Expected Cutoffs**: 98.5%+ for SIBM Pune; 97%+ for SCMHRD.
 
 ### 4. NMAT by GMAC

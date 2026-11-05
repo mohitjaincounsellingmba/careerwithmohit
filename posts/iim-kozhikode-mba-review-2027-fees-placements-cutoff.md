@@ -191,10 +191,10 @@ IIM Kozhikode shortlists candidates for Personal Interview (PI) based on the **A
 | Business School | 2-Year Program Fee | Average Placement CTC | Median CTC | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IIM Kozhikode (IIMK)** | **₹20.50 Lakhs** | **₹28.05 – ₹31.02 LPA** | **₹27.00 LPA** | Kozhikode, Kerala |
-| **IIM Calcutta (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.60 LPA | Joka, Kolkata |
-| **IIM Ahmedabad (IIMA)** | ₹26.50 Lakhs | ₹35.22 LPA | ₹31.50 LPA | Vastrapur, Ahmedabad |
-| **IIM Bangalore (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
-| **IIM Lucknow (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Lucknow, UP |
+| **[IIM Calcutta](/colleges/iim-calcutta) (IIMC)** | ₹27.00 Lakhs | ₹35.07 LPA | ₹33.60 LPA | Joka, Kolkata |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)** | ₹26.50 Lakhs | ₹35.22 LPA | ₹31.50 LPA | Vastrapur, Ahmedabad |
+| **[IIM Bangalore](/colleges/iim-bangalore) (IIMB)** | ₹26.00 Lakhs | ₹34.80 LPA | ₹32.00 LPA | Bannerghatta, Bangalore |
+| **[IIM Lucknow](/colleges/iim-lucknow) (IIML)** | ₹20.50 Lakhs | ₹30.50 LPA | ₹28.00 LPA | Lucknow, UP |
 
 ---
 

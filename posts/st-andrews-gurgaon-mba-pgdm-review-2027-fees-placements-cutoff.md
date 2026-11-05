@@ -208,7 +208,7 @@ To evaluate where SAITM fits among accessible, budget-friendly management option
 | **Mangalmay Group** | Greater Noida | ₹6.50 Lakhs | **₹5.80 LPA** | AICTE, AKTU / CCSU Affiliated |
 | **MERI Delhi** | Janakpuri, New Delhi | ₹4.80 Lakhs | **₹5.50 LPA** | AICTE, GGSIPU Affiliated |
 | **NDIIT New Delhi** | Kalkaji, New Delhi | ₹6.50 Lakhs | **₹6.20 LPA** | AICTE Approved PGDM |
-| **Lloyd Business School** | Greater Noida | ₹7.50 Lakhs | **₹6.50 LPA** | AICTE Approved PGDM |
+| **[Lloyd Business School](/colleges/lloyd-business-school-greater-noida)** | Greater Noida | ₹7.50 Lakhs | **₹6.50 LPA** | AICTE Approved PGDM |
 
 ### Strategic Counselor Guidance: SAITM vs Regional Peers
 - **Choose SAITM Gurgaon** if your top priority is keeping total educational expenses under ₹3.50 Lakhs while earning an accredited state university degree in the corporate hub of Gurugram.

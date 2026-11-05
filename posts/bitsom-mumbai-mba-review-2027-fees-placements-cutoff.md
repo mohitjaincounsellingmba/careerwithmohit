@@ -165,7 +165,7 @@ The campus at Kalyan / Powai Campus offers state-of-the-art academic auditoriums
 #### ✅ Key Advantages (Pros)
 *   **Boutique batch**: Boutique batch size (150 students) ensures individual executive mentoring and superior recruiter attention.
 *   **Stellar placements**: Stellar placements with top consulting firms (McKinsey, Bain, Kearney, ADL) participating in day-1 placements.
-*   **Brand prestige**: Brand prestige of BITS Pilani (Institution of Eminence) combined with deep corporate patronage of the Aditya Birla Group.
+*   **Brand prestige**: Brand prestige of [BITS Pilani](/colleges/bits-pilani) (Institution of Eminence) combined with deep corporate patronage of the Aditya Birla Group.
 *   **Brand new**: Brand new 60-acre zero-carbon state-of-the-art residential campus in Mumbai.
 
 #### ⚠️ Key Considerations (Cons)

@@ -59,7 +59,7 @@ Located in the heart of Gurgaon's vibrant corporate cyber corridor, the **School
 
 For prospective applicants, a pivotal choice arises: **Should you enroll in SOIL's 1-Year Post Graduate Program in Management (PGPM) or the AICTE-approved 2-Year PGDM?**
 
-[InquiryCard title="Considering SOIL Institute of Management Gurgaon?" description="Get personalized admission counseling, program matching, and fee waiver insights from Mohit Jain." cta="Apply to SOIL Gurgaon" type="admission"]
+[InquiryCard title="Considering [SOIL Institute of Management Gurgaon](/colleges/soil-gurgaon)?" description="Get personalized admission counseling, program matching, and fee waiver insights from Mohit Jain." cta="Apply to SOIL Gurgaon" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Eligibility Separation**: The 1-Year PGPM requires **minimum 24 months of full-time work experience**, whereas the 2-Year PGDM accepts freshers and candidates with 0–5 years of experience.

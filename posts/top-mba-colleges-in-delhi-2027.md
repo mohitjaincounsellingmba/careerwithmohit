@@ -131,9 +131,9 @@ Studying in Delhi provides a distinct locational advantage:
 ## Frequently Asked Questions (FAQs)
 
 ### What is the minimum CAT percentile needed for Delhi University MBA?
-For FMS Delhi, general category cutoff stands at 99.7+ percentile. For DSE and DFS, safe composite scores are achieved at 93 to 95 percentile in CAT.
+For [FMS Delhi](/colleges/fms-delhi), general category cutoff stands at 99.7+ percentile. For DSE and DFS, safe composite scores are achieved at 93 to 95 percentile in CAT.
 
-### Which is better: [IMI Delhi](/colleges/imi-delhi/) or FORE School of Management?
+### Which is better: [IMI Delhi](/colleges/imi-delhi/) or [FORE School of Management](/colleges/fore-school-delhi)?
 Both are situated in the Qutab Institutional Area with strong recruiter networks. [IMI Delhi](/colleges/imi-delhi/) leads slightly in Finance and Consulting roles with a higher average CTC (₹17.9 LPA), whereas FORE School of Management offers great marketing & IT consulting tracks with competitive fees.
 
 ### Does Delhi have direct admission for MBA without entrance exams?

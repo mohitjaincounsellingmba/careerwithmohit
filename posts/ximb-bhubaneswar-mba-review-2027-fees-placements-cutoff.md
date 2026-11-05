@@ -72,7 +72,7 @@ state: Odisha
 
 ## 1. Institutional Legacy: Four Decades of Elite Jesuit Management Education
 
-Founded in 1987 under a historic social contract between the Government of Odisha and the Society of Jesus (Jesuits)—the same global educational order that established XLRI Jamshedpur, Loyola College Chennai, and St. Xavier’s College Mumbai—the Xavier Institute of Management Bhubaneswar (XIMB) has earned a reputation as one of India's foremost management institutions.
+Founded in 1987 under a historic social contract between the Government of Odisha and the Society of Jesus (Jesuits)—the same global educational order that established [XLRI Jamshedpur](/colleges/xlri-jamshedpur), Loyola College Chennai, and St. Xavier’s College Mumbai—the Xavier Institute of Management Bhubaneswar (XIMB) has earned a reputation as one of India's foremost management institutions.
 
 Now operating as the flagship business school of **XIM University**, XIMB consistently ranks among the top 15 to 20 management institutes in India across NIRF, Business Today, and Outlook rankings. What distinguishes XIMB from conventional commercial business schools is its commitment to academic rigor combined with ethical, value-based leadership.
 
@@ -196,9 +196,9 @@ The personal interview focuses on intellectual curiosity, critical thinking, glo
 |---|:---:|:---:|:---:|:---:|
 | **XIMB Bhubaneswar** | CAT/XAT (91+ %ile) | ₹22.00 L – ₹23.50 L | **₹20.03 LPA** | Jesuit academic rigor, top consulting & BFSI recruiter reach |
 | **XLRI Jamshedpur** | XAT (96–99 %ile) | ₹28.50 L – ₹31.00 L | **₹32.70 LPA** | Apex private b-school, unmatched HR & business pedigree |
-| **MDI Gurgaon** | CAT (95–97 %ile) | ₹26.00 L – ₹28.50 L | **₹25.50 LPA** | Delhi NCR corporate belt advantage, elite consulting hub |
-| **SIBM Pune** | SNAP (98.5 %ile) | ₹26.50 L – ₹28.00 L | **₹28.16 LPA** | Premier brand in western India, marketing leadership |
-| **IIFT Delhi** | CAT (98+ %ile) | ₹25.00 L – ₹27.00 L | **₹29.10 LPA** | National leader for international trade and finance |
+| **[MDI Gurgaon](/colleges/mdi-gurgaon)** | CAT (95–97 %ile) | ₹26.00 L – ₹28.50 L | **₹25.50 LPA** | Delhi NCR corporate belt advantage, elite consulting hub |
+| **[SIBM Pune](/colleges/sibm-pune)** | SNAP (98.5 %ile) | ₹26.50 L – ₹28.00 L | **₹28.16 LPA** | Premier brand in western India, marketing leadership |
+| **[IIFT Delhi](/colleges/iift-delhi)** | CAT (98+ %ile) | ₹25.00 L – ₹27.00 L | **₹29.10 LPA** | National leader for international trade and finance |
 | **IMT Ghaziabad** | CAT/XAT (90–92 %ile) | ₹22.50 L – ₹24.50 L | **₹17.07 LPA** | Premier marketing alumni base in Delhi NCR |
 
 ### Counselor Insight: XIMB vs IMT Ghaziabad vs SIBM Pune

@@ -79,7 +79,7 @@ If you want a career in Big Tech but don't want to spend 4 years in engineering,
 
 ## 🏛️ Profiles of the Top 3 B-Schools for Computing
 
-### 1. Christ University, Bangalore (The Leader)
+### 1. [Christ University, Bangalore](/colleges/christ-university-bangalore) (The Leader)
 Consistently ranked #1 in India by India Today and various ranking bodies. Christ University is the gold standard for computer applications.
 - **Why Choose It:** Unbeatable corporate networking in Bangalore. They have a curriculum that is often updated every year to match industry trends like AI and Cloud.
 

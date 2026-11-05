@@ -105,7 +105,7 @@ If you miss the IPMAT or CUET cutoffs, direct admission in Indore is possible in
 
 ## ❓ Frequently Asked Questions (FAQ)
 
-**Q1. is IIM Indore BBA better than a normal BBA?**
+**Q1. is [IIM Indore](/colleges/iim-indore) BBA better than a normal BBA?**
 It is on a different level. An IPM graduate from IIM Indore is treated equivalent to an MBA from a top-tier B-school. A "normal" BBA is a 3-year undergraduate degree.
 
 **Q2. When is the IPMAT Indore 2026 held?**

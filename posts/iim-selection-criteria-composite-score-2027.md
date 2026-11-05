@@ -57,10 +57,10 @@ faqs:
 
 | IIM Campus | CAT Score Weightage | Class 10 & 12 Weightage | Graduation Score Weightage | Work Experience Weight | Diversity Points |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IIM Ahmedabad (PGP)** | 65% (AR + CAT) | 20% | 10% | 5% | Academic Discipline Rating |
-| **IIM Bangalore (MBA)** | 40% | 20% | 20% | 10% | 10% (Gender & Quality of Work-Ex) |
-| **IIM Calcutta (MBA)** | 56% | 20% | 10% | 8% | 6% (Gender Diversity) |
-| **IIM Lucknow (PGP)** | 60% | 10% | 10% | 10% | 10% (5% Gender + 5% Academic) |
+| **[IIM Ahmedabad](/colleges/iim-ahmedabad) (PGP)** | 65% (AR + CAT) | 20% | 10% | 5% | Academic Discipline Rating |
+| **[IIM Bangalore](/colleges/iim-bangalore) (MBA)** | 40% | 20% | 20% | 10% | 10% (Gender & Quality of Work-Ex) |
+| **[IIM Calcutta](/colleges/iim-calcutta) (MBA)** | 56% | 20% | 10% | 8% | 6% (Gender Diversity) |
+| **[IIM Lucknow](/colleges/iim-lucknow) (PGP)** | 60% | 10% | 10% | 10% | 10% (5% Gender + 5% Academic) |
 | **IIM Kozhikode (PGP)** | 45% | 25% | 10% | 5% | 15% (10% Gender + 5% Academic) |
 
 ---
@@ -79,7 +79,7 @@ faqs:
 ## Strategic Advice: Who Should Target Non-IIM Tier 1 Institutions?
 
 Aspirants with Class 10 or 12 marks below 75% lose up to 15 composite score points before writing CAT. If your past academic profile is below 8/8/7:
-1. **Target Score-Centric B-Schools**: FMS Delhi (50% CAT + 10% 10th + 10% 12th), XLRI Jamshedpur (XAT based), and MDI Gurgaon.
+1. **Target Score-Centric B-Schools**: [FMS Delhi](/colleges/fms-delhi) (50% CAT + 10% 10th + 10% 12th), [XLRI Jamshedpur](/colleges/xlri-jamshedpur) (XAT based), and [MDI Gurgaon](/colleges/mdi-gurgaon).
 2. **Explore Early Direct Programs**: Evaluate verified [MBA and PGDM Direct Admission Programs](/mba-pgdm-admission-2027/) where past academic filters are balanced with personal interviews.
 
 ---

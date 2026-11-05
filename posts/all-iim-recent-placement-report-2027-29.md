@@ -17,7 +17,6 @@ keywords:
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -59,8 +58,8 @@ state: Delhi NCR
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Tier-1 Legacy IIMs (BLACKI + IIM Mumbai)**: Average domestic CTC stands at **₹34.45 LPA (IIMA)**, **₹34.88 LPA (IIMB)**, **₹34.23 LPA (IIMC)**, and **₹34.50 LPA (IIM Mumbai)**, with peak international packages reaching **₹1.45 Crore**.
-> - **New Generation IIMs (Gen-2)**: Average CTC ranges between **₹17.58 LPA and ₹27.03 LPA**, led by **IIM Shillong (₹27.03 LPA)**, **IIM Rohtak (₹20.03 LPA)**, and **IIM Ranchi (₹19.29 LPA)**.
-> - **Baby IIMs (Gen-3 Rapid Growth)**: Outperforming several legacy private colleges, with **IIM Amritsar (₹19.73 LPA)** and **IIM Nagpur (₹18.07 LPA)** leading the third generation.
+> - **New Generation IIMs (Gen-2)**: Average CTC ranges between **₹17.58 LPA and ₹27.03 LPA**, led by **IIM Shillong (₹27.03 LPA)**, **[IIM Rohtak](/colleges/iim-rohtak) (₹20.03 LPA)**, and **[IIM Ranchi](/colleges/iim-ranchi) (₹19.29 LPA)**.
+> - **Baby IIMs (Gen-3 Rapid Growth)**: Outperforming several legacy private colleges, with **[IIM Amritsar](/colleges/iim-amritsar) (₹19.73 LPA)** and **[IIM Nagpur](/colleges/iim-nagpur) (₹18.07 LPA)** leading the third generation.
 > - **Dominant Hiring Sectors**: **Management Consulting & Strategy (38%)** and **BFSI & Investment Banking (24%)** capture over 60% of all premium domestic and international job offers.
 
 The **21 Indian Institutes of Management (IIMs)** represent the gold standard of management education and executive hiring across the Asia-Pacific region. Despite global tech rationalization, IIM campus recruitment demonstrated formidable corporate stability.
@@ -108,15 +107,15 @@ Below is the verified placement summary across all 21 Indian Institutes of Manag
 ## 🏛️ In-Depth Placement Cluster Breakdown
 
 ### 1. Old IIMs (IIM BLACKI & IIM Mumbai): The Global Elite
-- **IIM Ahmedabad**: Averaged **₹34.45 LPA** with median at **₹31.50 LPA**. Over 38% of the cohort secured strategy consulting roles at McKinsey, BCG, Bain, Kearney, and Oliver Wyman.
-- **IIM Bangalore**: Averaged **₹34.88 LPA** with a 45%+ Pre-Placement Offer (PPO) rate. Major recruiters included Accenture Strategy, Microsoft, Amazon, and Goldman Sachs.
-- **IIM Calcutta**: Retained its status as the **Finance Capital of Indian B-Schools** (Avg: **₹34.23 LPA**, Peak: **₹1.45 Cr**). Over 32% joined bulge-bracket investment banks (Goldman Sachs, Morgan Stanley, JP Morgan, Avendus Capital).
-- **IIM Lucknow & IIM Mumbai**: IIM Lucknow averaged **₹32.30 LPA**, while IIM Mumbai averaged **₹34.50 LPA** for its top 50% students, dominating in Supply Chain, Tech, and Industrial Management.
+- **[IIM Ahmedabad](/colleges/iim-ahmedabad)**: Averaged **₹34.45 LPA** with median at **₹31.50 LPA**. Over 38% of the cohort secured strategy consulting roles at McKinsey, BCG, Bain, Kearney, and Oliver Wyman.
+- **[IIM Bangalore](/colleges/iim-bangalore)**: Averaged **₹34.88 LPA** with a 45%+ Pre-Placement Offer (PPO) rate. Major recruiters included Accenture Strategy, Microsoft, Amazon, and Goldman Sachs.
+- **[IIM Calcutta](/colleges/iim-calcutta)**: Retained its status as the **Finance Capital of Indian B-Schools** (Avg: **₹34.23 LPA**, Peak: **₹1.45 Cr**). Over 32% joined bulge-bracket investment banks (Goldman Sachs, Morgan Stanley, JP Morgan, Avendus Capital).
+- **[IIM Lucknow](/colleges/iim-lucknow) & IIM Mumbai**: IIM Lucknow averaged **₹32.30 LPA**, while IIM Mumbai averaged **₹34.50 LPA** for its top 50% students, dominating in Supply Chain, Tech, and Industrial Management.
 
 ### 2. New IIMs (Gen-2): High Corporate Stability
 - **IIM Shillong**: The breakout star among second-generation campuses, recording an outstanding average package of **₹27.03 LPA** and a peak package of **₹71.50 LPA**.
 - **IIM Rohtak, Ranchi & Trichy**: Maintained steady averages between **₹19.27 LPA and ₹20.03 LPA**, with heavy recruitment from ICICI Bank, KPMG, Deloitte, HSBC, and Wells Fargo.
-- **IIM Udaipur**: Standout for its strictly audited transparent Indian Placement Reporting Standards (IPRS) data (Avg: **₹17.58 LPA**).
+- **[IIM Udaipur](/colleges/iim-udaipur)**: Standout for its strictly audited transparent Indian Placement Reporting Standards (IPRS) data (Avg: **₹17.58 LPA**).
 
 ### 3. Baby IIMs (Gen-3): Fast-Growing Contenders
 - **IIM Amritsar**: Led the third generation with an impressive average CTC of **₹19.73 LPA** and a top international offer of **₹58.52 LPA**.
@@ -162,7 +161,7 @@ IIM Placements Domain Distribution (2025/2026 Graduating Batch)
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the average placement salary across Old IIMs (BLACKI)?
-In recent placement cycles, top tier Old IIMs (IIM Ahmedabad, IIM Bangalore, and IIM Calcutta) recorded average domestic CTCs between ₹34.20 LPA and ₹34.88 LPA, while IIM Lucknow, IIM Kozhikode, IIM Indore, and IIM Mumbai averaged between ₹28.18 LPA and ₹34.50 LPA.
+In recent placement cycles, top tier Old IIMs (IIM Ahmedabad, IIM Bangalore, and IIM Calcutta) recorded average domestic CTCs between ₹34.20 LPA and ₹34.88 LPA, while IIM Lucknow, IIM Kozhikode, [IIM Indore](/colleges/iim-indore), and IIM Mumbai averaged between ₹28.18 LPA and ₹34.50 LPA.
 
 ### Which IIM recorded the highest domestic and international placement package?
 IIM Calcutta recorded an international peak offer of ₹1.45 Crore per annum, while IIM Ahmedabad and IIM Bangalore recorded peak domestic offers exceeding ₹1.10 Crore to ₹1.15 Crore per annum.

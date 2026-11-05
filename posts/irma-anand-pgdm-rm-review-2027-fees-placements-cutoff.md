@@ -194,10 +194,10 @@ Candidates who are not open to rural market immersion and supply chain fieldwork
 ## 9. Frequently Asked Questions (FAQs)
 
 ### Q1. What is the average salary package at [Institute of Rural Management](/colleges/institute-of-rural-management/) Anand (IRMA)?
-The verified average placement package at **Institute of Rural Management Anand (IRMA)** is **₹15.50 LPA**, with top quartile students securing offers up to **₹31.16 LPA**.
+The verified average placement package at **[Institute of Rural Management Anand (IRMA)](/colleges/irma-anand)** is **₹15.50 LPA**, with top quartile students securing offers up to **₹31.16 LPA**.
 
 ### Q2. Which entrance exams are accepted for 2027 admission?
-**Institute of Rural Management Anand (IRMA)** accepts scores from **CAT, XAT, CMAT** for shortlisting candidates for its 2-year full-time management programs.
+**[Institute of Rural Management](/colleges/institute-of-rural-management) Anand (IRMA)** accepts scores from **CAT, XAT, CMAT** for shortlisting candidates for its 2-year full-time management programs.
 
 ### Q3. What is the total tuition fee at Institute of Rural Management Anand (IRMA)?
 The total course fee is approximately **₹16.80 Lakhs (Total)** for the 2-year curriculum. Additional expenses apply for hostel accommodation and mess facilities.

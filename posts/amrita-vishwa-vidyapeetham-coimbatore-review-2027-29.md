@@ -148,7 +148,7 @@ To help you make an unbiased decision, here is a balanced summary of the key adv
 
 ### 👍 Why Choose Amrita University Coimbatore (ASB)? (Pros)
 - **NAAC** A++ Grade (3.70/4) and top-10 NIRF University rank nationwide
-- **AACSB** Accreditation for Amrita School of Business (ASB), guaranteeing world-class MBA quality
+- **AACSB** Accreditation for [Amrita School of Business](/colleges/amrita-school-of-business) (ASB), guaranteeing world-class MBA quality
 - **Stunning** 400-acre eco-friendly campus in Ettimadai surrounded by the Western Ghats mountains
 - **Excellent** placement track record in both B.Tech CSE and MBA with average packages above ₹9 LPA
 

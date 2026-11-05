@@ -61,7 +61,7 @@ state: Delhi NCR
 > - **Placement & ROI Benchmark**: Average domestic salary stands at **₹14.05 LPA** with a median CTC of **₹13.52 LPA** and a highest offer touching **₹70.00 LPA**.
 > - **Accepted Entrance Exams**: **CAT 2026, XAT 2027, and GMAT** (Expected shortlisting cutoff: **85 – 88+ percentile**).
 
-Located in South Delhi's prestigious diplomatic and educational corridor—**Qutab Institutional Area, New Delhi**—the **Foundation for Organisational Research and Education (FORE School of Management)** has been a pillar of Indian management education since 1981. 
+Located in South Delhi's prestigious diplomatic and educational corridor—**Qutab Institutional Area, New Delhi**—the **Foundation for Organisational Research and Education ([FORE School of Management](/colleges/fore-school-delhi))** has been a pillar of Indian management education since 1981. 
 
 Holding prestigious accreditations from **NBA and SAQS**, and recognized by the **Association of Indian Universities (AIU)** as an MBA equivalent, FORE School of Management is renowned for its international orientation, corporate board research, and programs in **International Business (PGDM-IB), Financial Management (PGDM-FM)**, and **Big Data Analytics (PGDM-BDA)**.
 

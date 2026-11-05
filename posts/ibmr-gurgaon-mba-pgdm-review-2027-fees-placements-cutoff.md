@@ -181,7 +181,7 @@ IBMR evaluates applicants based on test percentiles, communication confidence, a
 | Business School | 2-Year Program Fee | Average Placement CTC | Highest Package | Location |
 | :--- | :--- | :--- | :--- | :--- |
 | **IBMR Gurgaon** | **₹6.60L – ₹8.40L** | **₹7.20 – ₹8.00 LPA** | **₹21.00 LPA** | Sector 14, Gurgaon |
-| **BML Munjal University** | ₹14.50 Lakhs | ₹8.50 LPA | ₹33.60 LPA | Sidhrawali, Gurgaon |
+| **[BML Munjal University](/colleges/bml-munjal-gurgaon)** | ₹14.50 Lakhs | ₹8.50 LPA | ₹33.60 LPA | Sidhrawali, Gurgaon |
 | **IILM University Gurgaon** | ₹12.50 Lakhs | ₹8.60 LPA | ₹18.00 LPA | Golf Course Rd, Gurgaon |
 | **GL Bajaj Greater Noida** | ₹7.95 Lakhs | ₹7.80 LPA | ₹24.00 LPA | KP-III, Greater Noida |
 | **GNIOT Greater Noida** | ₹8.25 Lakhs | ₹7.20 LPA | ₹17.55 LPA | KP-II, Greater Noida |

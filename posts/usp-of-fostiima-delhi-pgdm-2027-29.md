@@ -113,7 +113,7 @@ Below is the verified breakdown of the **10 Real USPs of FOSTIIMA Delhi for 2027
 
 ## 10 Unique Selling Points (USPs) of FOSTIIMA Delhi (2027–29 Batch)
 
-### 1. 🎓 Conceived, Funded & Governed Exclusively by IIM Ahmedabad Alumni
+### 1. 🎓 Conceived, Funded & Governed Exclusively by [IIM Ahmedabad](/colleges/iim-ahmedabad) Alumni
 
 **FOSTIIMA stands for "Friends Of Seventy-Three IIM Ahmedabad" — founded in 2007 by the batch of 1973 from IIM-A to bring premier management education to Delhi NCR.** Unlike commercial universities run by real estate or family trusts, FOSTIIMA's entire board of governors and academic leadership comprises corporate veterans from IIM Ahmedabad.
 
@@ -265,7 +265,7 @@ graph TD
 4. **You want maximum salary-to-fee ROI** with a realistic ₹11.15 LPA average domestic salary.
 
 ### ❌ You Should Look Elsewhere If:
-1. **Your CAT score is 85+ percentile**: You should explore premier legacy institutions such as [IMI Delhi](/colleges/imi-delhi/), LBSIM Delhi, FORE School of Management, or GIM Goa.
+1. **Your CAT score is 85+ percentile**: You should explore premier legacy institutions such as [IMI Delhi](/colleges/imi-delhi/), LBSIM Delhi, [FORE School of Management](/colleges/fore-school-delhi), or GIM Goa.
 2. **You require a sprawling 50-acre residential campus**: FOSTIIMA operates a focused urban campus in Dwarka, prioritizing corporate connectivity over massive sports grounds.
 3. **You exclusively seek global AACSB/EQUIS accreditations**: Institutes like FIIB or BIMTECH may be alternate choices to evaluate.
 

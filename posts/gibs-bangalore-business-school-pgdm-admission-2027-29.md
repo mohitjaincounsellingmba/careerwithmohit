@@ -117,7 +117,7 @@ Whether you are targeting flagship PGDM programs or comparing top business schoo
 ## 2. Program Details & Statutory Approvals
 
 ### A. Program Structure & Nomenclature
-Global Institute of Business Studies (GIBS Business School) offers its flagship **PGDM (AICTE Approved) & BBA/MBA programs**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
+Global Institute of Business Studies ([GIBS Business School](/colleges/gibs-bangalore)) offers its flagship **PGDM (AICTE Approved) & BBA/MBA programs**. The curriculum is crafted under continuous consultation with corporate advisory panels, featuring modern electives, dual specializations, and experiential simulations.
 
 ### B. Approvals & Accreditation Status
 *   **Accreditation Standards**: AICTE Approved, Ministry of Education, Govt. of India.

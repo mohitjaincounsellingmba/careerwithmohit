@@ -50,7 +50,7 @@ state: Odisha
 ## [IIM Sambalpur](/colleges/iim-sambalpur/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Campus**: Established in 2015, **IIM Sambalpur** operates from a majestic 200-acre permanent campus at Basantpur (Sambalpur, Odisha), holding **NIRF Rank #58** with an innovative "Flipped Classroom" pedagogical model.
+> - **Core USP & Campus**: Established in 2015, **[IIM Sambalpur](/colleges/iim-sambalpur)** operates from a majestic 200-acre permanent campus at Basantpur (Sambalpur, Odisha), holding **NIRF Rank #58** with an innovative "Flipped Classroom" pedagogical model.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹15.00 Lakhs** against an audited average CTC of **₹14.80 LPA** (Median: **₹15.00 LPA**, Top 25%: **₹21.50 LPA**, Highest: **₹64.61 LPA**).
 > - **Cutoffs & Selection**: Admission is routed through the **IIM CAP (Common Admission Process)** requiring **88–92+ CAT percentile** overall alongside personal interview and profile diversity weightage.
 
@@ -67,7 +67,7 @@ The table below outlines the core operational and academic parameters of **[IIM 
 | Parameter | Official Verified Details |
 | :--- | :--- |
 | **Institute Name** | **Indian Institute of Management Sambalpur (IIMS)** |
-| **Year of Establishment** | 2015 (Mentored by IIM Indore) |
+| **Year of Establishment** | 2015 (Mentored by [IIM Indore](/colleges/iim-indore)) |
 | **Campus Location** | Basantpur, Sambalpur, Odisha (200 Acres) |
 | **NIRF Management Ranking** | **Rank #58** nationally |
 | **Flagship Program** | Master of Business Administration (2-Year Full-Time MBA) |

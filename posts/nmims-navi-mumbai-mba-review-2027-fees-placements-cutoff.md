@@ -95,7 +95,7 @@ Established in 2017, NMIMS Navi Mumbai operates from an architecturally stunning
 
 ## 2. Program Portfolio & Transparent Fee Structure (2027–2029)
 
-The flagship 2-year full-time MBA program at NMIMS Navi Mumbai follows the case-based academic curriculum curated by SVKM's NMIMS Mumbai, maintaining identical examination standards and academic benchmarks across campuses.
+The flagship 2-year full-time MBA program at NMIMS Navi Mumbai follows the case-based academic curriculum curated by SVKM's [NMIMS Mumbai](/colleges/nmims-mumbai), maintaining identical examination standards and academic benchmarks across campuses.
 
 ### Detailed Fee Breakdown (2-Year Full-Time MBA)
 

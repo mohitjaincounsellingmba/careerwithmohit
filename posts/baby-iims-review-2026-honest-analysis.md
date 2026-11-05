@@ -18,11 +18,9 @@ keywords:
   - IIM Jammu review
   - Baby IIM CAT cutoff 2027–29
   - is Baby IIM worth it
-  - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
   - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
   - Delhi NCR Admissions 2027
@@ -152,7 +150,7 @@ The 21 IIMs in India are broadly divided into three generations:
 - **Average Package**: ₹14.5 LPA | **Highest**: ~₹28+ LPA
 - **CAT Cutoff**: 90+ Percentile | **Admission**: CAP Interview
 - **Campus**: Paonta Sahib, Himachal Pradesh
-- **Mentor**: IIM Lucknow
+- **Mentor**: [IIM Lucknow](/colleges/iim-lucknow)
 - **Unique Offering**: **MBA in Tourism & Hospitality** — one of the only IIMs with this specialisation
 - **Verdict**: The lowest average package among Baby IIMs. Remote Himachal Pradesh location creates challenges for placement drives. The Tourism MBA is niche and not for everyone. Only consider if you have a specific interest in the tourism/hospitality sector.
 
@@ -223,8 +221,8 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 | You have a 96+ CAT percentile | **Retake CAT or target New/Old IIMs instead** |
 | You are a fresher seeking MBA brand value | **Baby IIM is a very good choice** |
 | You are an experienced professional (5+ years) | **Carefully evaluate ROI — an exec program may be better** |
-| You are targeting IIM Nagpur or IIM Visakhapatnam | **Strong yes — mentored by IIM-A and IIM-B respectively** |
-| You are targeting IIM Sirmaur | **Think carefully — lowest placement stats in the group** |
+| You are targeting [IIM Nagpur](/colleges/iim-nagpur) or IIM Visakhapatnam | **Strong yes — mentored by IIM-A and IIM-B respectively** |
+| You are targeting [IIM Sirmaur](/colleges/iim-sirmaur) | **Think carefully — lowest placement stats in the group** |
 
 **Bottom line**: A Baby IIM degree is a gateway to a ₹14–17 LPA starting salary with the lifelong credibility of an IIM tag. If your CAT percentile sits in the 90–95 range and a top private B-school isn't in reach, a Baby IIM — especially IIM Nagpur or IIM Visakhapatnam — is an excellent decision.
 
@@ -234,7 +232,7 @@ Most Baby IIMs participate in the **CAP (Common Admission Process)**:
 
 1. **Check mentor IIM** — IIM-A mentored (Nagpur) and IIM-B mentored (Vizag) are top picks.
 2. **Location matters** — pick metros or growing industrial cities for better recruiter access.
-3. **Specialisation value** — IIM Amritsar (HR/BA), [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) (IPM), IIM Sirmaur (Tourism) have niche offerings worth evaluating.
+3. **Specialisation value** — [IIM Amritsar](/colleges/iim-amritsar) (HR/BA), [IIM Bodh Gaya](/colleges/iim-bodh-gaya/) (IPM), IIM Sirmaur (Tourism) have niche offerings worth evaluating.
 4. **Read the latest placement report** — always download the official annual report, not third-party summaries.
 5. **Attend GDPI prep seriously** — with CAT cutoffs at 90–94%, the WAT-PI round often differentiates the final selection.
 

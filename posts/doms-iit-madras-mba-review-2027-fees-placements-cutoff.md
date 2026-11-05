@@ -23,7 +23,6 @@ keywords:
   - Chennai Colleges
   - Best Colleges in Chennai
   - Top Colleges in Chennai 2026
-  - Chennai Direct Admission 2026
   - Colleges in Tamil Nadu
   - Chennai Career Counselling
   - Chennai Admissions 2027
@@ -132,7 +131,7 @@ The final merit list incorporates:
 
 ## 4. Latest Audited Placement Report & Recruiters
 
-Placement performance is one of the strongest pillars of **Department of Management Studies (DoMS), IIT Madras**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
+Placement performance is one of the strongest pillars of **[Department of Management Studies (DoMS), IIT Madras](/colleges/doms-iit-madras)**. The placement cell maintains strong corporate relationships across Fortune 500 companies and high-growth startups.
 
 ### Key Placement Metrics:
 - **Average Salary Package:** **₹20.19 LPA**

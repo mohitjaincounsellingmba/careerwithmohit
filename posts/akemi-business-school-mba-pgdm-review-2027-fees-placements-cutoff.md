@@ -164,7 +164,7 @@ Akemi Pune Admission Pipeline
 
 ## ⚖️ Akemi Business School vs Other Pune Management Colleges
 
-| Comparison Metric | Akemi Business School | ISMS Pune | RIIM Pune | Indira Institute (IIMP) |
+| Comparison Metric | Akemi Business School | [ISMS Pune](/colleges/isms-pune) | [RIIM Pune](/colleges/riim-pune) | Indira Institute (IIMP) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Tathawade, Pune | Wadgaon, Pune | Bavdhan, Pune | Tathawade, Pune |
 | **Affiliation** | **SPPU (Pune Univ)** | Edexcel / University | Savitribai Phule Univ | Savitribai Phule Univ |
@@ -183,7 +183,7 @@ Akemi Pune Admission Pipeline
 - Aspirants wanting to study in Pune’s booming IT/business corridor near Hinjewadi.
 
 ### ❌ Who Should Avoid:
-- Candidates with 90%+ in CAT/XAT who should target SIBM Pune, SCMHRD, or JBIMS Mumbai.
+- Candidates with 90%+ in CAT/XAT who should target [SIBM Pune](/colleges/sibm-pune), SCMHRD, or [JBIMS Mumbai](/colleges/jbims-mumbai).
 
 ---
 

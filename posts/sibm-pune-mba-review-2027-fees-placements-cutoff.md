@@ -59,7 +59,7 @@ state: Maharashtra
 ## [SIBM Pune](/colleges/sibm-pune/) Review 2027: Fees, Cutoff, Placements & Admission ROI
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Core USP & Scenic Hilltop Campus**: Established in 1978 as the flagship business school of Symbiosis International University (SIU), **SIBM Pune** operates from a breathtaking 300-acre hilltop residential campus in Lavale (Pune, Maharashtra), holding **NIRF Rank #13** and **NAAC A++ Grade (3.58 CGPA)**.
+> - **Core USP & Scenic Hilltop Campus**: Established in 1978 as the flagship business school of Symbiosis International University (SIU), **[SIBM Pune](/colleges/sibm-pune)** operates from a breathtaking 300-acre hilltop residential campus in Lavale (Pune, Maharashtra), holding **NIRF Rank #13** and **NAAC A++ Grade (3.58 CGPA)**.
 > - **FMCG & Marketing Powerhouse**: Renowned nationwide for marketing leadership with premier corporate representation from Unilever, P&G, Nestlé, ITC, and Asian Paints.
 > - **Fee vs Average Package (ROI)**: Total 2-year program fee is **₹26.00 Lakhs** against an audited average CTC of **₹28.16 LPA** (Median: **₹25.00 LPA**, Top 10%: **₹37.80 LPA**, Highest: **₹49.00 LPA**).
 > - **Cutoffs & Selection**: Admission is routed exclusively through **SNAP (Symbiosis National Aptitude Test)** requiring **98.5+ percentile**, followed by GE-PI-WAT evaluation rounds.
@@ -207,7 +207,7 @@ Perched atop the Lavale hills in Pune, SIBM Pune features one of the most breath
 ```
 
 ### Who Should Choose SIBM Pune?
-- **Aspirants Seeking FMCG & Sales/Marketing Leadership**: SIBM Pune is among India's top 3 institutions for marketing recruitment alongside IIM Ahmedabad and SPJIMR Mumbai.
+- **Aspirants Seeking FMCG & Sales/Marketing Leadership**: SIBM Pune is among India's top 3 institutions for marketing recruitment alongside [IIM Ahmedabad](/colleges/iim-ahmedabad) and [SPJIMR Mumbai](/colleges/spjimr-mumbai).
 - **Candidates Looking for Low Batch Competition**: Unlike schools with 500–600 students, SIBM's compact 180-student batch guarantees high placement attention.
 - **SNAP Aspirants Targeting a Top-10 B-School**: SIBM Pune provides compensation, recruiter quality, and alumni equity rivaling older IIMs (BLACKI).
 

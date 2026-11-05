@@ -267,7 +267,7 @@ Submitting applications during early cycles (November to February) maximizes sch
 
 FIIB Delhi is an established, dependable choice for management education:
 - **Best Suited For**: Candidates seeking an accredited AIU-equivalent PGDM in prime South Delhi with manageable fees (around ₹10.10 Lakhs) and reliable corporate placements averaging ₹8.40 LPA to ₹8.80 LPA.
-- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or FMS Delhi.
+- **Considerations**: Candidates seeking tier-1 consulting (McKinsey, BCG) or high-bracket investment banking should target 90+ percentile institutions like IIMs, XLRI, or [FMS Delhi](/colleges/fms-delhi).
 
 ---
 

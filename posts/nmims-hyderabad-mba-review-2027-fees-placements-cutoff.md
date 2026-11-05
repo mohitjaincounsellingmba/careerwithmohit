@@ -96,7 +96,7 @@ Established in 2010, NMIMS Hyderabad operates from a state-of-the-art 90-acre gr
 
 ## 2. Program Portfolio & Transparent Fee Structure (2027–2029)
 
-The flagship 2-year full-time MBA program at NMIMS Hyderabad follows the rigorous case-based academic curriculum curated by SVKM's NMIMS Mumbai, maintaining identical examination standards and academic benchmarks across campuses.
+The flagship 2-year full-time MBA program at NMIMS Hyderabad follows the rigorous case-based academic curriculum curated by SVKM's [NMIMS Mumbai](/colleges/nmims-mumbai), maintaining identical examination standards and academic benchmarks across campuses.
 
 ### Detailed Fee Breakdown (2-Year Full-Time MBA)
 
