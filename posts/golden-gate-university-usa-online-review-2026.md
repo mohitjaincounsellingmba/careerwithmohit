@@ -44,6 +44,12 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official University / Institute Admission Prospectus & Fee Circulars"
+  - "National Institutional Ranking Framework (NIRF) Statutory Filings"
+  - "UGC & AICTE Regulatory Databases"
 ---
 **Golden Gate University (GGU, USA) Online** is a powerhouse in the global higher education landscape, based in the heart of San Francisco, Silicon Valley. One of the oldest private institutions in California, JGU's online international programs bring the same Silicon Valley academic rigor and industry-aligned focus directly to you. With a prestigious **AACSB accreditation** and full WES recognition, GGU offers some of the most globalized online degrees in India for 2026.
 
@@ -121,7 +127,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 For more insights on online universities and courses, explore [Online Shiksha](https://onlineshiksha.online/).
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

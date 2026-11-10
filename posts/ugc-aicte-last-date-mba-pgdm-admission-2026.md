@@ -45,6 +45,12 @@ faqs:
 category: Admissions
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "All India Council for Technical Education (AICTE) Fee Refund Circular"
+  - "University Grants Commission (UGC) Mandatory Refund Guidelines"
+  - "National Consumer Disputes Redressal Commission (NCDRC) Precedents"
 ---
 Securing admission into an MBA or PGDM program is a major milestone for any career-oriented student. However, amidst the flurry of group discussions, personal interviews, and seat booking processes, it is crucial to stay updated on the official timeline limits. 
 

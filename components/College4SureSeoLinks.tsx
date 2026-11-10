@@ -24,7 +24,7 @@ export function College4SureSeoLinks() {
     { name: "Free MAT Mock Test", href: "/mat-mock-test/" },
     { name: "Free GMAT Focus Practice Test", href: "/gmat-mock-test/" },
     { name: "MBA Form Combo Discounts", href: "/mba-application-form-discount/" },
-    { name: "Interactive MBA ROI Calculator", href: "/calculator/" },
+    { name: "Interactive Academic & ROI Calculators", href: "/tools/academic-calculators/" },
     { name: "UGC Online MBA Degrees", href: "/online-degree-certification/" },
     { name: "Study Abroad Admissions", href: "/abroad-education/" },
   ];
@@ -32,7 +32,7 @@ export function College4SureSeoLinks() {
   const latestReviews = [
     { name: "🎯 IIM Calcutta MBA Review 2027", href: "/blog/iim-calcutta-mba-review-2027-fees-placements-cutoff/" },
     { name: "⭐ IIM Ahmedabad MBA Review 2027", href: "/blog/iim-ahmedabad-mba-review-2027-fees-placements-cutoff/" },
-    { name: "📝 FMS Delhi SOP & Form Guide 2027", href: "/blog/fms-delhi-sop-application-form-2027/" },
+    { name: "📝 FMS Delhi SOP & Form Guide 2027", href: "/blog/fms-delhi-sop-application-form-2027-guide-samples/" },
     { name: "🏆 IIM Amritsar MBA Review 2027", href: "/blog/iim-amritsar-mba-review-2027-fees-placements-cutoff/" },
     { name: "📈 IIM Bodh Gaya MBA Review 2027", href: "/blog/iim-bodh-gaya-mba-review-2027-fees-placements-cutoff/" },
     { name: "🎓 IILM University Greater Noida Review 2027", href: "/blog/iilm-university-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/" },

@@ -190,6 +190,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic blog routes (excluding any redirected legacy URLs)
   const blogRoutes = posts
     .filter((post) => {
+      if (post.noindex) return false;
       const blogPath = `/blog/${post.slug}`.toLowerCase();
       return !redirectSources.has(blogPath) && !redirectSources.has(blogPath + '/');
     })

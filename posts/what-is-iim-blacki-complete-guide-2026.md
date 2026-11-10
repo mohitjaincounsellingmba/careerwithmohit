@@ -60,6 +60,12 @@ faqs:
       status and comparable placement benchmarks.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 
 Every MBA aspirant in India dreams of stepping into the hallowed halls of an Indian Institute of Management. But within the IIM ecosystem itself, one acronym stands above all others as the absolute **holy grail of Indian management education**: **IIM "BLACKI"**.

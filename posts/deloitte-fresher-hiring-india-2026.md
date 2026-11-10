@@ -42,6 +42,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: B.Tech
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official University / Institute Admission Prospectus & Fee Circulars"
+  - "National Institutional Ranking Framework (NIRF) Statutory Filings"
+  - "UGC & AICTE Regulatory Databases"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.

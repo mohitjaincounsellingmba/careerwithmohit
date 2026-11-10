@@ -21,6 +21,8 @@ faqs:
     answer: >-
       Yes, KIIT is a Deemed to be University recognized by the UGC and has been
       granted the 'Institution of Eminence' status.
+noindex: true
+author: Mohit Jain
 ---
 
 KIIT School of Management (KSOM), part of the Kalinga Institute of Industrial Technology (KIIT) Deemed to be University, is one of the most prestigious management schools in Eastern India. Known for its world-class infrastructure and high-quality faculty, KSOM is a top choice for BBA aspirants in 2026.

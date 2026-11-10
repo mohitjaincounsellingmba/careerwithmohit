@@ -31,6 +31,8 @@ faqs:
       undergraduate and postgraduate programs.
 location: Chennai
 state: Tamil Nadu
+noindex: true
+author: Mohit Jain
 ---
 
 Madras Christian College (MCC), Chennai, is one of the oldest and most prestigious institutions in India. Set in a sprawling 365-acre scrub jungle campus, MCC offers a unique academic environment that combines tradition with modern management practices. It is a top choice for BBA aspirants in 2026.
@@ -86,7 +88,7 @@ MCC is the only college in India with a scrub jungle on campus. Mohit Jain’s "
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

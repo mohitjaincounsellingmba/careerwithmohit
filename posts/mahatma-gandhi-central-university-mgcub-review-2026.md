@@ -41,6 +41,12 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Ministry of Education Official Central Universities Directory"
+  - "University Grants Commission (UGC) Consolidated List of Universities"
+  - "National Testing Agency (NTA) CUET Official Information Bulletin"
 ---
 Mahatma Gandhi Central University (MGCUB) located in Motihari, Bihar, has been rapidly expanding its academic offerings and campus infrastructure. It serves as an excellent central university option for students aiming to secure admission through CUET 2026.
 

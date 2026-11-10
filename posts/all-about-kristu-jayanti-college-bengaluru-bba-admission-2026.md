@@ -30,6 +30,8 @@ faqs:
       market.
 location: Bangalore
 state: Karnataka
+noindex: true
+author: Mohit Jain
 ---
 
 Kristu Jayanti College (KJC), Bengaluru, is an autonomous institution known for its high standards of academic excellence and value-based education. Consistently ranked among the top colleges in India, it is a preferred destination for BBA aspirants in 2026 who are looking for a disciplined yet dynamic learning environment.
@@ -85,7 +87,7 @@ The panel at KJC focuses on your values and communication skills. Mohit Jain’s
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

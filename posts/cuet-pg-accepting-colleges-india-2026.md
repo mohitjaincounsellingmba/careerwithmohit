@@ -42,6 +42,12 @@ faqs:
       reliable benchmark for students.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Ministry of Education Official Central Universities Directory"
+  - "University Grants Commission (UGC) Consolidated List of Universities"
+  - "National Testing Agency (NTA) CUET Official Information Bulletin"
 ---
 The **Common University Entrance Test for Postgraduates (CUET PG) 2026** is the largest postgraduate entrance exam in India. With a single score, candidates can apply to postgraduate programs (MBA, MCA, M.Tech, M.A, M.Sc, LLM) across 190+ Central, State, Deemed, and Private Universities.
 
@@ -165,7 +171,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

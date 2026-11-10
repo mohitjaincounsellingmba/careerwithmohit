@@ -30,6 +30,12 @@ faqs:
       PGDM is a post-graduate diploma offered by autonomous institutes approved
       by AICTE. Both are highly valued in the job market.
 category: Exams
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "All India Council for Technical Education (AICTE) Fee Refund Circular"
+  - "University Grants Commission (UGC) Mandatory Refund Guidelines"
+  - "National Consumer Disputes Redressal Commission (NCDRC) Precedents"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
@@ -40,7 +46,7 @@ Admission season in India is a high-pressure time. Often, students secure a seat
 
 Understanding the **AICTE** and **UGC** refund policies is essential to ensure you don't lose your hard-earned money. Here is the complete breakdown of the refund rules for the 2026 academic session.
 
-## What are the Key Admissions, Fees, and Placement Details for 📅 Key Deadlines for 2026 Admissions?
+## 📅 Key Deadlines & Regulatory Timelines for 2026 Admissions
 
 **Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
 

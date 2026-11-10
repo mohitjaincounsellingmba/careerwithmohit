@@ -40,6 +40,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: Online Degrees
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 **[Thapar Institute of Engineering and Technology](/colleges/thapar-university-patiala/) (TIET)**, commonly known as Thapar University, is one of the oldest and most prestigious private engineering institutes in India. Located in Patiala, Punjab, it consistently ranks among the top private engineering colleges, often heavily compared against new IITs and almost all NITs.
 

@@ -62,6 +62,8 @@ faqs:
       the traditional PGDM diplomas.
 location: Delhi NCR
 state: Delhi NCR
+noindex: true
+author: Mohit Jain
 ---
 
 The **Indian Institutes of Management (IIMs)** represent the pinnacle of management education in India. For over six decades, an IIM degree has been the gold standard for corporate leadership, entrepreneurship, and global business excellence. Whether you are aiming for prestigious MBB consulting firms, bulge-bracket investment banks, or high-growth tech unicorns, entering an IIM is often the most transformative career decision an aspirant can make.

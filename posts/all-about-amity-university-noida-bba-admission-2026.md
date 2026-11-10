@@ -40,6 +40,8 @@ faqs:
       after the first year.
 location: Delhi NCR
 state: Delhi NCR
+noindex: true
+author: Mohit Jain
 ---
 
 [Amity University, Noida](/colleges/amity-university-noida), is one of the largest and most well-known private universities in India. Known for its world-class infrastructure and strong industry linkages, it is a popular choice for BBA aspirants in 2026 who are looking for global exposure and diverse specialization options.
@@ -99,7 +101,7 @@ From 'BBA Fintech' to 'BBA Sports Management,' picking the right track is crucia
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

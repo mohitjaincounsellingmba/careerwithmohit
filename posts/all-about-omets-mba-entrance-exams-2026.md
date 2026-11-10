@@ -42,6 +42,8 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
+noindex: true
+author: Mohit Jain
 ---
 For Indian MBA aspirants, the Common Admission Test (CAT) is often seen as the ultimate hurdle. However, placing all your eggs in one basket can be a risky strategy. This is where **OMETs (Other Management Entrance Tests)** come into play.
 

@@ -29,6 +29,12 @@ faqs:
     answer: Usually held in **June**. Registrations typically open in March.
 location: Hyderabad
 state: Telangana
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official University / Institute Admission Prospectus & Fee Circulars"
+  - "National Institutional Ranking Framework (NIRF) Statutory Filings"
+  - "UGC & AICTE Regulatory Databases"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.

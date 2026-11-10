@@ -45,6 +45,12 @@ faqs:
       same curriculum and degree.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU) is one of the most sought-after universities for MBA in Delhi NCR due to its excellent ROI and centralized counseling. However, unlike other universities, IPU follows a unique **Priority System** for MBA admissions.
@@ -145,7 +151,7 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation

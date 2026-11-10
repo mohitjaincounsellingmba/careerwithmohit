@@ -38,6 +38,12 @@ faqs:
 location: Bangalore
 state: Karnataka
 category: Online Degrees
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 **MS [Ramaiah University of Applied Sciences](/colleges/ramaiah-university-of-applied-sciences/) (MSRUAS)** is a leading private university in Bangalore that offers a wide range of specialized B.Tech programs through its Faculty of Engineering and Technology (FET). While its sister institution, **MSRIT**, remains a traditional powerhouse, MSRUAS is known for its application-oriented curriculum and a more modern campus in Peenya.
 

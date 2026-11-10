@@ -30,6 +30,8 @@ faqs:
       globally.
 location: Bangalore
 state: Karnataka
+noindex: true
+author: Mohit Jain
 ---
 
 Alliance University, Bengaluru, is a top-ranked private university in India, known for its flagship Alliance School of Business. With its beautiful 50-acre green campus and international focus, it is a premier choice for BBA aspirants in 2026 who want a global management education experience.

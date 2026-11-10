@@ -69,6 +69,13 @@ collegeSlugs.forEach(s => validRoutes.add(normalizeRoute(`/colleges/${s}`)));
 // 3. Exam hubs & online courses
 ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'].forEach(s => validRoutes.add(normalizeRoute('/resources/' + s)));
 
+// Helper to detect programmatic city doorway pages that should never be redirected to hubs
+function isDoorwaySlug(slug) {
+  if (!slug) return false;
+  const s = slug.toLowerCase().replace(/^\/blog\//, '').replace(/^\/colleges\//, '').replace(/\/$/, '');
+  return /^(best-online-(?:mba|bba|bca|executive-mba)-colleges-in-|cat-2026-exam-preparation-|nmat-2026-exam-guide-|xat-2027-exam-strategy-|btech-colleges-under-|bba-colleges-under-|mba-colleges-under-|private-mtech-colleges-in-)/i.test(s);
+}
+
 // Destination Resolver
 function findValidTarget(destUrl) {
   const norm = normalizeRoute(destUrl);
@@ -77,6 +84,7 @@ function findValidTarget(destUrl) {
   // Smart resolution for blog posts
   if (norm.startsWith('/blog/')) {
     const slug = norm.replace('/blog/', '');
+    if (isDoorwaySlug(slug)) return null;
     
     // Direct batch-year variations
     const alt1 = slug.replace(/-2027-29$/, '-2026');
@@ -90,6 +98,7 @@ function findValidTarget(destUrl) {
     let bestMatch = null;
     let maxMatches = 0;
     for (const postSlug of postSlugs) {
+      if (isDoorwaySlug(postSlug)) continue;
       let matches = 0;
       for (const t of tokens) {
         if (postSlug.includes(t)) matches++;
@@ -102,7 +111,7 @@ function findValidTarget(destUrl) {
     if (bestMatch) {
       return `/blog/${bestMatch}/`;
     }
-    return '/blog/';
+    return null;
   }
 
   // Smart resolution for colleges
@@ -161,14 +170,17 @@ try {
 
   let renamesAdded = 0;
   for (const [oldSlug, newSlug] of historicalRenames.entries()) {
+    if (isDoorwaySlug(oldSlug) || isDoorwaySlug(newSlug)) continue;
     if (activePostSet.has(oldSlug)) continue; // Post is active, no redirect
 
     const normFrom = `/blog/${oldSlug}`.toLowerCase();
     if (!specificMap.has(normFrom) && !massRedirects.has(normFrom)) {
       let targetSlug = activePostSet.has(newSlug) ? newSlug : null;
       let targetPath = targetSlug ? `/blog/${targetSlug}/` : findValidTarget(`/blog/${oldSlug}`);
-      specificMap.set(normFrom, { to: targetPath, status: '301' });
-      renamesAdded++;
+      if (targetPath && !isDoorwaySlug(targetPath)) {
+        specificMap.set(normFrom, { to: targetPath, status: '301' });
+        renamesAdded++;
+      }
     }
   }
   console.log(`➕ Added ${renamesAdded} historical git post renames to redirect table.`);
@@ -183,13 +195,16 @@ if (fs.existsSync(archivedDir)) {
   let archivedAdded = 0;
   for (const file of archivedFiles) {
     const archSlug = file.replace(/\.md$/, '');
+    if (isDoorwaySlug(archSlug)) continue;
     if (activePostSet.has(archSlug)) continue;
 
     const normFrom = `/blog/${archSlug}`.toLowerCase();
     if (!specificMap.has(normFrom) && !massRedirects.has(normFrom)) {
       const targetPath = findValidTarget(`/blog/${archSlug}`);
-      specificMap.set(normFrom, { to: targetPath, status: '301' });
-      archivedAdded++;
+      if (targetPath && !isDoorwaySlug(targetPath)) {
+        specificMap.set(normFrom, { to: targetPath, status: '301' });
+        archivedAdded++;
+      }
     }
   }
   console.log(`➕ Added ${archivedAdded} archived duplicate posts to redirect table.`);
@@ -197,7 +212,7 @@ if (fs.existsSync(archivedDir)) {
 
 // Purge active valid routes & mismatched redirects from maps
 for (const [from, target] of Array.from(specificMap.entries())) {
-  if (validRoutes.has(normalizeRoute(from))) {
+  if (isDoorwaySlug(from) || validRoutes.has(normalizeRoute(from))) {
     specificMap.delete(from);
     continue;
   }
@@ -226,7 +241,7 @@ for (const [from, target] of Array.from(specificMap.entries())) {
 }
 
 for (const [from] of Array.from(massRedirects.entries())) {
-  if (validRoutes.has(normalizeRoute(from))) {
+  if (isDoorwaySlug(from) || validRoutes.has(normalizeRoute(from))) {
     massRedirects.delete(from);
   }
 }
@@ -432,20 +447,16 @@ export const onRequest: PagesFunction = async (context) => {
 
   // SEO Health: Return 410 Gone for permanently pruned/retired blog doorway pages to prevent Soft 404 penalties
   const isPrunedDoorway =
-    !targetPath &&
-    (cleanPath.startsWith('/blog/all-about-amity-') ||
-     cleanPath.startsWith('/blog/low-budget-bba-') ||
-     cleanPath.startsWith('/blog/low-budget-mba-') ||
-     cleanPath.startsWith('/blog/private-mtech-'));
+    new RegExp('^/blog/(best-online-(?:mba|bba|bca|executive-mba)-colleges-in-|cat-2026-exam-preparation-|nmat-2026-exam-guide-|xat-2027-exam-strategy-|btech-colleges-under-|bba-colleges-under-|mba-colleges-under-|private-mtech-colleges-in-|all-about-amity-|low-budget-)', 'i').test(normPath);
 
   const isArchivedToHub = targetPath === '/blog/' && normPath !== '/blog' && normPath !== '/blog/';
 
   if (isPrunedDoorway || isArchivedToHub) {
-    return new Response("This resource has been permanently retired.", {
+    return new Response("410 Gone - This doorway page has been permanently removed.", {
       status: 410,
       headers: {
         "Content-Type": "text/plain; charset=utf-8",
-        "Cache-Control": "public, max-age=604800",
+        "Cache-Control": "public, max-age=604800, s-maxage=604800",
       },
     });
   }

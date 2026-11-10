@@ -27,6 +27,12 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official University / Institute Admission Prospectus & Fee Circulars"
+  - "National Institutional Ranking Framework (NIRF) Statutory Filings"
+  - "UGC & AICTE Regulatory Databases"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.

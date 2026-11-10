@@ -37,6 +37,8 @@ faqs:
       must qualify for the SET and the subsequent PI-WAT rounds.
 location: Delhi NCR
 state: Delhi NCR
+noindex: true
+author: Mohit Jain
 ---
 
 [Symbiosis Centre for Management Studies (SCMS), Pune](/colleges/symbiosis-centre-for-management-studies-scms-pune), is one of the most prestigious names in undergraduate management education. Known for its global immersion programs and industry-aligned curriculum, SCMS Pune is a top choice for BBA aspirants in 2026.

@@ -27,6 +27,12 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Ministry of Education Official Central Universities Directory"
+  - "University Grants Commission (UGC) Consolidated List of Universities"
+  - "National Testing Agency (NTA) CUET Official Information Bulletin"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.

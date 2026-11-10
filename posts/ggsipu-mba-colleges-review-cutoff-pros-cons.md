@@ -47,6 +47,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.

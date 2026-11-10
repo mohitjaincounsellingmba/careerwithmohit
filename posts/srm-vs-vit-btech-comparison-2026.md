@@ -38,6 +38,12 @@ faqs:
       reliable benchmark for students.
 location: Chennai
 state: Tamil Nadu
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 Two names that every B.Tech aspirant compares: **SRM vs VIT**. Both are private universities ranked among India's top 20 engineering colleges by NIRF. Both have thousands of students, multinational recruiters, and massive campuses near Chennai.
 

@@ -34,6 +34,8 @@ faqs:
       followed by Bengaluru and Navi Mumbai.
 location: Mumbai
 state: Maharashtra
+noindex: true
+author: Mohit Jain
 ---
 
 The Anil Surendra Modi School of Commerce (ASMSOC) at [NMIMS Mumbai](/colleges/nmims-mumbai) is widely considered one of the top private BBA colleges in India. Located in the financial capital, it offers students unparalleled access to the corporate world through guest lectures, internships, and a modern curriculum.

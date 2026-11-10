@@ -35,6 +35,8 @@ faqs:
     answer: The intake is approximately 120 seats for the 2027–2029 intake.
 location: Delhi NCR
 state: Delhi NCR
+noindex: true
+author: Mohit Jain
 ---
 
 IIM Ranchi is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, IIM Ranchi has become a top choice for students who want an IIM brand right after school in 2026.

@@ -43,6 +43,12 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 With a sprawling campus and a massive reputation in technical and management education, **[JECRC University](/colleges/jecrc-jaipur) Jaipur** has emerged as a preferred destination for MBA aspirants. The university is primarily known for its strong industry connections and a modern, skill-oriented curriculum.
 
@@ -133,7 +139,7 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 
 
-Source: Shiksha.com
+
 ---
 
 ### 🚀 Boost Your Preparation
