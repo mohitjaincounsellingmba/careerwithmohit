@@ -156,3 +156,19 @@ When the team merges `seo-url-recovery` to `main` and deploys to Cloudflare Page
 
 5. **Monitor Referring Pages**:
    - Ensure external backlink providers update to the restored canonicals where possible, though the single-hop 301 redirect now safely passes 100% PageRank.
+
+---
+
+## 5. Phase 3 Production Deployment Log (November 10, 2026)
+
+- **Pre-Merge Tag**: `pre-recovery-merge-20261110` created at commit `f643bf624` and pushed to `origin`.
+- **Merge Commit**: `120f42592` (`Merge branch 'feat/seo-url-recovery-2026' into main`).
+- **Production Status**: Live on Cloudflare Pages (`https://careerwithmohit.online`).
+- **Deployment Verification**:
+  - Restored 299 genuine high-equity articles (0 city doorways in T1–T11).
+  - Top 8 high-traffic T12 college guides rewritten with 100% original analysis and E-E-A-T signals.
+  - 14 low-traffic T12 stubs set to `noindex` and excluded from `sitemap.xml`.
+  - Edge HTTP 410 Gone handler active in `functions/_middleware.ts` for all historical doorway URLs.
+  - Single-hop canonical edge normalization verified across all URL variants.
+  - Production verification confirmed 200 OK for all top 10 URLs, 410 Gone for doorway URLs, and valid sitemap/robots.
+
