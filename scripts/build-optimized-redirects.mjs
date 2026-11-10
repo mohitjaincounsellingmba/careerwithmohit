@@ -108,6 +108,9 @@ function findValidTarget(destUrl) {
   // Smart resolution for colleges
   if (norm.startsWith('/colleges/')) {
     const slug = norm.replace('/colleges/', '');
+    if (activePostSet.has(slug)) {
+      return `/blog/${slug}/`;
+    }
     const tokens = slug.split('-').filter(t => t.length > 2);
     let bestMatch = null;
     let maxMatches = 0;
@@ -190,6 +193,42 @@ if (fs.existsSync(archivedDir)) {
     }
   }
   console.log(`➕ Added ${archivedAdded} archived duplicate posts to redirect table.`);
+}
+
+// Purge active valid routes & mismatched redirects from maps
+for (const [from, target] of Array.from(specificMap.entries())) {
+  if (validRoutes.has(normalizeRoute(from))) {
+    specificMap.delete(from);
+    continue;
+  }
+  // If from is /colleges/all-about-[slug] and [slug] is an active blog post, redirect to /blog/[slug]/
+  if (from.startsWith('/colleges/all-about-')) {
+    const slug = from.replace('/colleges/', '');
+    if (activePostSet.has(slug)) {
+      specificMap.set(from, { ...target, to: `/blog/${slug}/` });
+      continue;
+    }
+  }
+  const fLow = from.toLowerCase();
+  const tLow = target.to.toLowerCase();
+  if (
+    (fLow.includes("bba") && !tLow.includes("bba") && (tLow.includes("mba") || tLow.includes("pgdm"))) ||
+    (fLow.includes("btech") && !tLow.includes("btech") && (tLow.includes("mba") || tLow.includes("pgdm"))) ||
+    (fLow.includes("law") && !tLow.includes("law")) ||
+    (fLow.includes("medical") && !tLow.includes("medical") && !tLow.includes("mbbs")) ||
+    (fLow.includes("set-preparation") && tLow.includes("online-mba")) ||
+    (fLow.includes("mithibai") && tLow.includes("best-mba-colleges")) ||
+    (fLow.includes("st-xaviers") && tLow.includes("best-career-counselling"))
+  ) {
+    specificMap.delete(from);
+    continue;
+  }
+}
+
+for (const [from] of Array.from(massRedirects.entries())) {
+  if (validRoutes.has(normalizeRoute(from))) {
+    massRedirects.delete(from);
+  }
 }
 
 // Explicit special character sanitization redirects
@@ -316,6 +355,13 @@ for (const [from, target] of massRedirects.entries()) {
 for (const [from, target] of specificMap.entries()) {
   const dest = target.to.endsWith('/') ? target.to : target.to + '/';
   combinedMap[from] = dest;
+}
+
+// Clean combinedMap: ensure NO active post route is ever intercepted by a redirect
+for (const postSlug of activePostSet) {
+  const norm = `/blog/${postSlug}`.toLowerCase();
+  delete combinedMap[norm];
+  delete combinedMap[norm + "/"];
 }
 
 // Guarantee recovered ranking URLs point strictly to original canonicals
