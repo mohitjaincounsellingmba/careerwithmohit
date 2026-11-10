@@ -40,6 +40,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official University / Institute Admission Prospectus & Fee Circulars"
+  - "National Institutional Ranking Framework (NIRF) Statutory Filings"
+  - "UGC & AICTE Regulatory Databases"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.

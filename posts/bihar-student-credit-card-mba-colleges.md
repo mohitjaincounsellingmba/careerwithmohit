@@ -28,6 +28,12 @@ faqs:
   - question: How long does the verification process take?
     answer: Usually **45 to 60 days** from the date of your DRCC office visit.
 category: MBA
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 
 If you are a student from Bihar planning to pursue an MBA in the **2027–29 session**, the **Bihar Student Credit Card (BSCC)** scheme is your most powerful financial tool. Managed through **District Registration & Counselling Centres (DRCC)**, it has recently been updated to offer even better terms for students.

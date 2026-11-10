@@ -54,6 +54,6 @@
   Cache-Control: public, max-age=86400
   Content-Type: application/manifest+json; charset=utf-8
 
-# HTML pages - revalidate for fast updates
+# HTML pages - standard edge cache with background revalidation
 /*.html
-  Cache-Control: public, max-age=0, must-revalidate
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400

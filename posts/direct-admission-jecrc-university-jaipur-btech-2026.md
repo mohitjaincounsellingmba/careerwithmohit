@@ -39,6 +39,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: B.Tech
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 [JECRC University](/colleges/jecrc-jaipur/), Jaipur, is one of Rajasthan's most recognized private universities for engineering. Students across the state search for **direct admission in JECRC for B.Tech** — either through management quota or on the basis of 12th marks. Here is everything you need to know about the real admission process, fees, and placements at [JECRC University](/colleges/jecrc-jaipur/) for 2026.
 

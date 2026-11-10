@@ -190,19 +190,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Dynamic blog routes (excluding any redirected legacy URLs)
   const blogRoutes = posts
     .filter((post) => {
+      if (post.noindex) return false;
       const blogPath = `/blog/${post.slug}`.toLowerCase();
       return !redirectSources.has(blogPath) && !redirectSources.has(blogPath + '/');
     })
     .map((post) => {
       const postDate = new Date(post.date);
-      const isTopPriority2027 = post.slug.includes('2027') || postDate >= thirtyDaysAgo;
+      const isRecent = postDate >= ninetyDaysAgo;
       const isMockTestBlog = post.slug.includes('mock-test') || post.slug.includes('mock');
 
       return {
         url: `${baseUrl}/blog/${post.slug}/`,
         lastModified: postDate,
-        changeFrequency: isTopPriority2027 ? ('weekly' as const) : isMockTestBlog ? ('weekly' as const) : ('monthly' as const),
-        priority: isTopPriority2027 ? 0.95 : isMockTestBlog ? 0.85 : 0.75,
+        changeFrequency: isRecent ? ('weekly' as const) : ('monthly' as const),
+        priority: isRecent ? 0.85 : isMockTestBlog ? 0.80 : 0.75,
       };
     });
 

@@ -42,6 +42,12 @@ faqs:
       required for the test.
 location: Delhi NCR
 state: Delhi NCR
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Bar Council of India (BCI) Approved Law Colleges Directory"
+  - "Consortium of National Law Universities (CLAT) Regulatory Norms"
+  - "Official University Faculty of Law Admission Guidelines"
 ---
 
 One of the biggest concerns for Humanities, Arts, and Commerce (without Maths) students is: **"Is Mathematics mandatory for a career in Law?"**

@@ -54,6 +54,12 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 category: Exams
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official B-School Admission Bulletin & Audited Placement Report"
+  - "National Institutional Ranking Framework (NIRF Management)"
+  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 Getting into an **Indian Institute of Management (IIM)** is the ultimate dream for thousands of management aspirants appearing for the **Common Admission Test (CAT)** every year. While tracking cutoffs and placement reports is essential, understanding the **IIM Seat Matrix** gives you a realistic view of your competition and helps you strategize your B-school applications.
 

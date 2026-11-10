@@ -27,6 +27,12 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.

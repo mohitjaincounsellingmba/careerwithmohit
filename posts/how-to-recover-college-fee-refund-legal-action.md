@@ -26,6 +26,12 @@ faqs:
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
 category: Jobs & Careers
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "All India Council for Technical Education (AICTE) Fee Refund Circular"
+  - "University Grants Commission (UGC) Mandatory Refund Guidelines"
+  - "National Consumer Disputes Redressal Commission (NCDRC) Precedents"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Strategic Focus & Core Value**: Is your college delaying or refusing a fee refund? Learn the exact legal steps to recover your money, from sen...

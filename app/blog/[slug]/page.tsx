@@ -19,6 +19,7 @@ import { SocialShareButtons } from "@/components/SocialShareButtons";
 import { AiOverviewBox } from "@/components/AiOverviewBox";
 import { SxoTableOfContents } from "@/components/SxoTableOfContents";
 import { SxoFloatingBar } from "@/components/SxoFloatingBar";
+import { AuthorBox } from "@/components/AuthorBox";
 
 
 function cleanMarkdown(text: string | undefined): string {
@@ -630,6 +631,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `https://careerwithmohit.online/blog/${slug}/`,
     },
+    ...(postData.noindex ? {
+      robots: {
+        index: false,
+        follow: true,
+      }
+    } : {}),
     other: otherMeta
   };
 }
@@ -665,7 +672,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     "description": cleanMarkdown(postData.description || postData.content?.substring(0, 160)),
     "image": articleImage,
     "datePublished": postData.date,
-    "dateModified": postData.date,
+    "dateModified": postData.lastUpdated || postData.date,
     // TODO: Verify every credential claim (IIM Bangalore, FMS Delhi, certifications) against official certificates and documents before promoting in schema.
     "author": {
       "@type": "Person",
@@ -848,7 +855,16 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           <header>
             <div className="mb-4 flex flex-wrap items-center gap-2 sm:gap-3 text-xs">
               <span className="bg-foreground text-white px-3 py-1 font-bold uppercase tracking-wider rounded">
-                {new Date(postData.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                Published: {new Date(postData.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+              </span>
+              {postData.lastUpdated && (
+                <span className="bg-emerald-700 text-white px-3 py-1 font-bold uppercase tracking-wider rounded">
+                  Updated: {new Date(postData.lastUpdated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                </span>
+              )}
+              <span className="bg-amber-100 text-slate-800 border border-amber-300 px-3 py-1 font-bold uppercase tracking-wider rounded flex items-center gap-1.5">
+                <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block shrink-0" />
+                By {postData.author || 'Mohit Jain'}
               </span>
               <Link
                 href={`/blog/?category=${encodeURIComponent(postData.category || 'General & Career Guide')}`}
@@ -857,7 +873,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
                 {postData.category || 'General & Career Guide'}
               </Link>
               <span className="bg-accent text-foreground px-3 py-1 font-bold uppercase tracking-wider rounded border border-foreground/20">
-                Expert Analysis
+                Verified Review
               </span>
               <BlogViewCounter slug={slug} publishDate={postData.date} />
             </div>
@@ -1121,6 +1137,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             {postData.content || ''}
           </ReactMarkdown>
         </div>
+
+        {/* AUTHOR & VERIFIED EDITORIAL E-E-A-T CARD */}
+        <AuthorBox
+          author={postData.author}
+          publishDate={postData.date}
+          lastUpdated={postData.lastUpdated}
+          sources={postData.sources}
+          category={postData.category}
+        />
 
         {/* SOCIAL SHARE & PINTEREST PIN WIDGET */}
         <SocialShareButtons

@@ -52,6 +52,12 @@ faqs:
       programme cost is approximately ₹10–11 Lakhs.
 location: Ahmedabad
 state: Gujarat
+author: Mohit Jain
+lastUpdated: "2026-11-05"
+sources:
+  - "Official Institute Academic Prospectus & Seat Matrix"
+  - "National Institutional Ranking Framework (NIRF Engineering)"
+  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.

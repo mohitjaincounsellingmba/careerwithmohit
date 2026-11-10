@@ -2,6 +2,10 @@ export interface PostData {
   slug: string;
   title: string;
   date: string;
+  lastUpdated?: string;
+  author?: string;
+  noindex?: boolean;
+  sources?: string[];
   description?: string;
   keywords?: string[];
   content?: string;
