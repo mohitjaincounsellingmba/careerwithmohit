@@ -1,3 +1,4 @@
+
 import React from 'react';
 import Link from 'next/link';
 import { ShieldCheck, Award, Calendar, CheckCircle, ExternalLink, BookOpen, MessageSquare } from 'lucide-react';
@@ -20,7 +21,7 @@ export function AuthorBox({
   const formattedPublish = publishDate
     ? new Date(publishDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
     : '2026';
-    
+
   const formattedUpdated = lastUpdated
     ? new Date(lastUpdated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
     : 'November 2026 (Academic Cycle 2026-2027)';
