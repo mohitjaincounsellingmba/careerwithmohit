@@ -30,7 +30,6 @@ faqs:
       globally.
 location: Bangalore
 state: Karnataka
-noindex: true
 author: Mohit Jain
 ---
 
@@ -76,9 +75,9 @@ Yes, Alliance University typically has a professional dress code for its managem
 Yes, due to its international accreditations and UGC recognition, the BBA degree from Alliance is widely accepted for higher studies and jobs globally.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
-- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
+- [Christ University Bangalore BBA Admission Guide 2026](/colleges/christ-university-bangalore/)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 

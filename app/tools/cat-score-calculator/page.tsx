@@ -1000,7 +1000,7 @@ export default function CatScoreCalculatorPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <Link
-                  href="/mba-admissions-by-region/delhi-ncr/"
+                  href="/mba-pgdm-admissions-by-region/delhi-ncr/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1017,7 +1017,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/mumbai/"
+                  href="/mba-pgdm-admissions-by-region/mumbai/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1034,7 +1034,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/bangalore/"
+                  href="/mba-pgdm-admissions-by-region/bangalore/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-emerald-50/60 hover:border-emerald-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1051,7 +1051,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/pune/"
+                  href="/mba-pgdm-admissions-by-region/pune/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-purple-50/60 hover:border-purple-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1068,7 +1068,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/hyderabad/"
+                  href="/mba-pgdm-admissions-by-region/hyderabad/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-rose-50/60 hover:border-rose-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1085,7 +1085,7 @@ export default function CatScoreCalculatorPage() {
                 </Link>
 
                 <Link
-                  href="/mba-admissions-by-region/kolkata/"
+                  href="/mba-pgdm-admissions-by-region/kolkata/"
                   className="p-5 rounded-2xl border border-slate-200 bg-slate-50 hover:bg-blue-50/60 hover:border-blue-300 transition-all group"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -1104,7 +1104,7 @@ export default function CatScoreCalculatorPage() {
 
               <div className="pt-2 text-center">
                 <Link
-                  href="/mba-admissions-by-region/"
+                  href="/mba-pgdm-admissions-by-region/"
                   className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-display font-black text-xs uppercase px-7 py-3.5 rounded-full shadow-md transition-all hover:scale-105"
                 >
                   <span>Explore All 8 Indian MBA Regions &amp; State Admissions Guide</span>

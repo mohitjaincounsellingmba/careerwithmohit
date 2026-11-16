@@ -174,4 +174,4 @@ Yes, colleges like Lloyd, GNIOT, Galgotias, and IIMT offer institutional profile
 
 - **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
 - **[Read: All About BIMTECH Greater Noida Review & Cutoffs](/colleges/bimtech-greater-noida/)**
-- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2027-29/)**
+- **[Read: Best Direct Admission ROI Colleges in Delhi NCR 2026](/blog/best-direct-admission-roi-mba-colleges-delhi-ncr-2026/)**

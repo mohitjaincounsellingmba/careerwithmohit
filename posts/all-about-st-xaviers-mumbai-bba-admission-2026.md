@@ -116,9 +116,9 @@ St. Xavier's provides an on-campus hostel for male students with limited capacit
 ---
 
 ## 🔗 Related Admissions Guides:
-- [Top 10 BBA & BMS Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2026)
-- [Mithibai College Mumbai BBA/BMS Admission Guide](/blog/all-about-mithibai-college-mumbai-admission-2026)
-- [BBA vs B.Com vs BMS Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA & BMS Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2027-29/)
+- [Mithibai College Mumbai BBA/BMS Admission Guide](/blog/all-about-mithibai-college-mumbai-admission-2026/)
+- [BBA vs B.Com vs BMS Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 **Planning your Mumbai BMS application strategy?**  
 Connect directly with Mohit Jain to calibrate your entrance test preparation and portfolio for St. Xavier's and Mithibai.

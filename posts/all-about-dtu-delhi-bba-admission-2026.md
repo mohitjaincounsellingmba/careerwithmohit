@@ -114,9 +114,9 @@ Yes. To be eligible for DTU BBA, candidates must have passed Mathematics or Appl
 ---
 
 ## 🔗 Related Admissions Guides:
-- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [SSCBS Delhi BBA & BFIA Admission Guide](/blog/all-about-sscbs-delhi-bba-admission-2026)
-- [GGSIPU BBA Colleges Cutoffs & Ranking](/blog/ggsipu-mba-colleges-review-cutoff-pros-cons)
+- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [SSCBS Delhi BBA & BFIA Admission Guide](/blog/all-about-sscbs-delhi-bba-admission-2026/)
+- [GGSIPU BBA Colleges Cutoffs & Ranking](/blog/ggsipu-mba-colleges-review-cutoff-pros-cons/)
 
 **Weighing DTU USME against DU Top Colleges?**  
 Get an unbiased profile evaluation with Mohit Jain to compare your target percentiles, batch profiles, and career pathways.

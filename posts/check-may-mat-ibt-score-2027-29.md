@@ -275,7 +275,7 @@ Immediately on the day of result declaration. Download the scorecard and start a
 
 - **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)** — Complete MAT exam guide
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes combined guide
-- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
+- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2026/)** — PBT-specific guide
 - **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29/)** — CBT-specific guide
 - **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Personalised college list
 - **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**

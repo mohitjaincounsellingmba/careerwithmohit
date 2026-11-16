@@ -134,7 +134,7 @@ Candidates must register separately on the admission portals of their target uni
 ## 🔗 Related Resources for Aspirants
 *   [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
 *   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
-*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29/)
+*   [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2026/)
 *   [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
 
 ---

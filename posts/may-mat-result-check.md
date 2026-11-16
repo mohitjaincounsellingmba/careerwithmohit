@@ -185,7 +185,7 @@ For a full breakdown of regional cutoffs, explore **[MBA Colleges Accepting MAT 
 
 *Related Resources:*
 - [Check MAT May 2026 CBT Score Guide](/blog/check-may-mat-cbt-score-2027-29/)
-- [Check MAT May 2026 PBT Score Guide](/blog/check-may-mat-pbt-score-2027-29/)
+- [Check MAT May 2026 PBT Score Guide](/blog/check-may-mat-pbt-score-2026/)
 - [Check MAT May 2026 IBT Score Guide](/blog/check-may-mat-ibt-score-2027-29/)
 - [MAT College Predictor 2026 Guide](/blog/mat-college-predictor-2026-guide/)
 ---

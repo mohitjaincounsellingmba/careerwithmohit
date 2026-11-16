@@ -115,7 +115,7 @@ Amity provides modern residential hostel towers inside the Sector 125 campus:
 - **Mess & Food Charges**: Roughly ₹40,000 to ₹50,000 per year across student cafeterias and food courts.
 - *Total Living Budget*: Approximately **₹3.80L to ₹4.30L** over two years.
 
-For a broader perspective on regional business school options, compare Amity with our guide to the [Best MBA Colleges in Noida & Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/).
+For a broader perspective on regional business school options, compare Amity with our guide to the [Best MBA Colleges in Noida & Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2026/).
 
 ---
 

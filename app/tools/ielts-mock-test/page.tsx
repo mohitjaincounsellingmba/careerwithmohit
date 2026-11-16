@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     'Oxford IELTS cutoff', 'Cambridge IELTS requirement', 'Harvard IELTS minimum score', 'Toronto university IELTS band'
   ],
   alternates: {
-    canonical: '/tools/ielts-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/ielts-mock-test/",
   },
   openGraph: {
     title: 'Free IELTS Academic Mock Test 2026 | Full Length Practice Paper (80 Qs)',

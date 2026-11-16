@@ -159,11 +159,11 @@ Physics Wallah entered the MBA segment with the goal of democratizing CAT coachi
 ---
 
 ### Useful Related Articles:
-* **[All About CAT Exam 2026: Pattern, Syllabus & Cut-offs](/blog/all-about-cat-exam)**
-* **[10 Proven Tips to Crack CAT 2026 from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2026)**
-* **[CAT 2026 Preparation Strategy & Month-by-Month Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)**
-* **[Top Online MBA Coaching Platforms in India 2026](/blog/best-mba-coaching-online-2026)**
-* **[Expected IIM Cut-offs 2027–29 Batch](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)**
+* **[All About CAT Exam 2026: Pattern, Syllabus & Cut-offs](/resources/cat/)**
+* **[10 Proven Tips to Crack CAT 2026 from IIM Toppers](/blog/10-tips-to-crack-cat-exam-2027-29/)**
+* **[CAT 2026 Preparation Strategy & Month-by-Month Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates/)**
+* **[Top Online MBA Coaching Platforms in India 2026](/blog/best-mba-coaching-online-2026/)**
+* **[Expected IIM Cut-offs 2027–29 Batch](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
 
 ---
 

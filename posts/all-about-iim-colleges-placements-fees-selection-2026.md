@@ -62,7 +62,6 @@ faqs:
       the traditional PGDM diplomas.
 location: Delhi NCR
 state: Delhi NCR
-noindex: true
 author: Mohit Jain
 ---
 
@@ -88,9 +87,9 @@ In this comprehensive guide, we cover **everything you need to know about all 21
 ## 1. Complete List of All 21 IIMs: Placement Statistics (Lowest, Average & Highest)
 
 When evaluating IIMs, aspirants typically categorize them into three core clusters based on their establishment year, alumni maturity, and corporate standing:
-1. **Old IIMs ([IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026) + IIM Mumbai)**
+1. **Old IIMs ([IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026/) + IIM Mumbai)**
 2. **New IIMs (Est. 2007–2011)**
-3. **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis) (Est. 2015–2016)**
+3. **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/) (Est. 2015–2016)**
 
 Below is the exhaustive comparison table of **all 21 IIMs**, detailing their establishment year, approx. 2-year MBA fee, and latest placement highlights including the **lowest (minimum recorded base)**, **average**, and **highest** annual packages.
 
@@ -135,7 +134,7 @@ Below is the exhaustive comparison table of **all 21 IIMs**, detailing their est
 *   **Placement Sweet Spot**: With average salaries hovering around **₹18–26 LPA**, they offer exceptional ROI for candidates with CAT percentiles in the **94–97 range**.
 
 #### 3. Baby IIMs (Est. 2015–2016)
-*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis), third-generation IIMs such as **IIM Nagpur, IIM Visakhapatnam, and IIM Amritsar** are growing rapidly through industry mentorship from Old IIMs.
+*   **High Growth Trajectory**: As covered in our [Baby IIMs Review 2026](/blog/baby-iims-review-2026-honest-analysis/), third-generation IIMs such as **IIM Nagpur, IIM Visakhapatnam, and IIM Amritsar** are growing rapidly through industry mentorship from Old IIMs.
 *   **Accessible Cutoffs**: For aspirants scoring between **91 and 94 percentile**, Baby IIMs provide a guaranteed entry into the IIM ecosystem with average packages between **₹14.5 LPA and ₹17 LPA**.
 
 ---
@@ -212,7 +211,7 @@ Because IIMs are Institutes of National Importance, every major bank in India (S
 
 ## 4. Complete IIM Selection Criteria (2027–29 Batch)
 
-Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm).
+Getting admission into an IIM is a rigorous, multi-stage screening process that evaluates both analytical intelligence and holistic personal consistency. For a comprehensive look at expected cutoffs, refer to our [All IIM Cut Off 2027–29 Admission Guide](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/).
 
 ### Stage 1: CAT Entrance Exam & Sectional Cutoffs
 *   You must first appear for the **Common Admission Test (CAT)**.

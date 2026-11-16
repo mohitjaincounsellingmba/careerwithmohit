@@ -131,9 +131,9 @@ Entrance-based admissions close by **March-April**. Direct merit-based admission
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026)
-- [BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026/)
+- [BBA Colleges in Bangalore 2026](/blog/top-bba-colleges-bangalore-2026/)
 
 ---
 

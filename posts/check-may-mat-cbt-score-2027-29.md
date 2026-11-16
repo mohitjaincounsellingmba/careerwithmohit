@@ -253,7 +253,7 @@ Yes. Every MBA/PGDM institute accepting MAT treats CBT, PBT, and IBT scores inte
 
 - **[All About MAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)** — Complete MAT overview
 - **[MAT May 2026 Result Date & Scorecard Download](/blog/mat-may-2026-result-date-scorecard-download/)** — All modes result guide
-- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)** — PBT-specific guide
+- **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2026/)** — PBT-specific guide
 - **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)** — IBT-specific guide
 - **[MAT College Predictor 2026](/blog/mat-college-predictor-2026-guide/)** — Find your target college
 - **[MBA Entrance Exam Dates 2027–29](/blog/mba-entrance-exam-dates-2027-29/)**

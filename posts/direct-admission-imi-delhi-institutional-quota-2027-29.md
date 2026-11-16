@@ -118,7 +118,7 @@ Yes, [IMI Delhi](/colleges/imi-delhi/) has a good mix of both freshers and stude
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 - [MBA PGDM Admission Guide 2027–29](/blog/1-year-online-mba-colleges-india-2027-29/)
 - [Direct MBA Admission India 2027–29 Profile Weights](/blog/direct-mba-admission-india/)
 

@@ -338,13 +338,13 @@ Yes, **IGNOU (Indira Gandhi National Open University)** is a Central University 
 
 [👉 CUET PG 2026 Result – Check Your Score Now](/blog/cuet-pg-2026-result-declared-check-scorecard-link/)
 
-[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2027-29/)
+[👉 Top MBA Colleges via CUET PG](/blog/cuet-pg-mba-colleges-list-2026/)
 
 ---
 
 *Related Posts:*
 - [CUET UG 2026: University List City-Wise](/blog/cuet-ug-university-list-2026-citywise/)
-- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2027-29/)
+- [CUET PG 2026: Top MBA Colleges List](/blog/cuet-pg-mba-colleges-list-2026/)
 - [Best MBA Colleges in India 2027–29](/blog/best-mba-colleges-india-2027-29/)
 - [FMS Delhi MBA Admission 2027–2029](/colleges/fms-delhi/)
 

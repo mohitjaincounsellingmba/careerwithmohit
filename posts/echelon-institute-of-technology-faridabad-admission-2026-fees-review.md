@@ -75,7 +75,7 @@ This transition is a major milestone for the campus:
 * **Centralized Counselling:** Admissions are conducted through the GGSIPU online counselling portal based on national/state exams (like JEE Main for B.Tech).
 * **Improved Opportunities:** The affiliation shift is expected to attract a more diverse student body and bring in a broader network of corporate recruiters.
 
-For more details on the IP University admission ecosystem, read our [GGSIPU MBA Colleges 2027–29 Guide](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2027-29/) and [IP University B.Tech Cutoffs Guide](/blog/ipu-btech-colleges-cutoff-2025-2026/).
+For more details on the IP University admission ecosystem, read our [GGSIPU MBA Colleges 2027–29 Guide](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2026/) and [IP University B.Tech Cutoffs Guide](/blog/ipu-btech-colleges-cutoff-2025-2026/).
 
 ---
 

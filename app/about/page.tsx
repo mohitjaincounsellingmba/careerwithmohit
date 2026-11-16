@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     "MBA career counselling Delhi NCR", "best MBA career counsellor Pune", "direct MBA admission guide"
   ],
   alternates: {
-    canonical: "/about/",
+    canonical: "https://careerwithmohit.online/about/",
   },
   openGraph: {
     title: "About Mohit Jain | Founder & Chief MBA Admissions Strategist",

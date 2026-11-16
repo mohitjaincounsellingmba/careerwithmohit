@@ -207,13 +207,21 @@ export default function InternshipsPage() {
       "item": {
         "@type": "JobPosting",
         "title": internship.title,
+        "datePosted": "2026-09-01T00:00:00.000Z",
+        "validThrough": "2027-12-31T23:59:59.000Z",
         "hiringOrganization": {
           "@type": "Organization",
           "name": internship.company,
         },
         "jobLocationType": internship.location.includes("WFH") || internship.location.includes("Remote") ? "TELECOMMUTE" : undefined,
+        "applicantLocationRequirements": {
+          "@type": "Country",
+          "name": "India"
+        },
         "employmentType": internship.type === "Part Time" ? "PART_TIME" : "FULL_TIME",
         "description": internship.description,
+        "directApply": true,
+        "url": "https://careerwithmohit.online/internships/"
       }
     }))
   };

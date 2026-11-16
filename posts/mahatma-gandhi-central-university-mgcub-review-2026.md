@@ -86,8 +86,8 @@ MGCUB provides very accessible education:
 *   **Amenities:** Standard facilities including Wi-Fi, mess, and necessary furniture are provided to ensure a comfortable stay.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
+*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026/)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
 
 [👉 Get Admission Consultation for MGCUB!](/inquiry)
 

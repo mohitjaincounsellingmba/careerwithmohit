@@ -61,7 +61,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## [Universal Business School (UBS Mumbai / Universal AI University)](https://careerwithmohit.online/blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Universal Business School (UBS Mumbai / Universal AI University)](/blog/ubs-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: India’s first Artificial Intelligence University and premier experiential green business school established by 60 global corporate CEOs in Karjat (Greater Mumbai). Offers AICTE-approved PGDM, global dual-degree MBAs, and specialized AI-integrated management programs.

@@ -60,7 +60,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [International School of Business & Media (ISB&M Gurgaon)](https://careerwithmohit.online/blog/isbm-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [International School of Business & Media (ISB&M Gurgaon)](/blog/isbm-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier corporate-oriented business school situated in Sector 51, Gurugram (Delhi NCR). Founded by **Dr. Pramod Kumar (former Dean at XLRI & SIBM)**, ISB&M is distinguished by its corporate lifestyle grooming, student-driven committee culture, and extensive alumni network across MNCs.

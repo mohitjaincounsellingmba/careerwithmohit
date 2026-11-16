@@ -97,9 +97,9 @@ IMM Delhi has a dedicated Corporate Resource Centre (CRC) that has been quite ac
 
 ## 📊 IMM Delhi vs. Competitors
 If you are considering IMM Delhi, you are likely also looking at:
-*   [**NDIM Delhi**](/blog/all-about-ndim-delhi): Similar legacy, slightly higher fees, and AIU equivalence.
-*   [**JIMS Rohini**](/blog/all-about-jims-rohini): Stronger focus on the North Delhi corporate belt.
-*   [**FIIB Delhi**](/blog/all-about-fiib): Great for International Business and sustainability roles.
+*   [**NDIM Delhi**](/blog/ndim-delhi-mba-pgdm-review-2027-fees-placements-cutoff/): Similar legacy, slightly higher fees, and AIU equivalence.
+*   [**JIMS Rohini**](/colleges/jims-rohini/): Stronger focus on the North Delhi corporate belt.
+*   [**FIIB Delhi**](/blog/fiib-delhi-review-2027/): Great for International Business and sustainability roles.
 
 ---
 
@@ -111,9 +111,9 @@ If you are considering IMM Delhi, you are likely also looking at:
 ---
 
 ## 🔗 Related Reading
-*   [**Best MBA Colleges in Delhi 2026: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2026)
-*   [**MBA vs PGDM: Which should you choose in 2026?**](/blog/mba-vs-pgdm-2026-ultimate-guide)
-*   [**Top PGDM Colleges in Delhi NCR under 10 Lakhs**](/blog/private-pgdm-colleges-under-10-lakhs-delhi-ncr)
+*   [**Best MBA Colleges in Delhi 2026: Ranking & Fees**](/blog/best-mba-colleges-in-delhi-2026/)
+*   [**MBA vs PGDM: Which should you choose in 2026?**](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+*   [**Top PGDM Colleges in Delhi NCR under 10 Lakhs**](/blog/private-pgdm-colleges-under-10-lakhs-delhi-ncr/)
 
 [👉 Need help with IMM Delhi Direct Admission? Talk to our experts!](/inquiry)
 

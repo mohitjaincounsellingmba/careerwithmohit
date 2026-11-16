@@ -55,7 +55,7 @@ location: Bhubaneswar
 state: Odisha
 ---
 
-## [XIMB Bhubaneswar](https://careerwithmohit.online/blog/ximb-bhubaneswar-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [XIMB Bhubaneswar](/blog/ximb-bhubaneswar-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier Jesuit business school established in 1987 in Bhubaneswar, Odisha, operating under XIM University. Globally renowned for its rigorous academic curriculum, Jesuit ethical leadership foundation, and influential alumni network across management consulting, banking, and FMCG.

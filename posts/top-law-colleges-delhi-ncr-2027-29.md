@@ -129,7 +129,7 @@ AILET is usually held on the **second Sunday of December**.
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
 - [How to Crack CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
 - [B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
 

@@ -123,10 +123,10 @@ If you miss out on top Central Universities, don't worry. Many of India's elite 
 
 If you prefer studying in a specific metropolitan area, check out our city-wise guides for CUET UG Colleges:
 
-- 🏛️ [CUET UG Colleges in Delhi NCR](/blog/cuet-ug-accepting-colleges-delhi-ncr-2026)
-- 🏛️ [CUET UG Colleges in Bangalore](/blog/cuet-ug-accepting-colleges-bangalore-2026)
-- 🏛️ [CUET UG Colleges in Mumbai](/blog/cuet-ug-accepting-colleges-mumbai-2026)
-- 🏛️ [CUET UG Colleges in Pune](/blog/cuet-ug-accepting-colleges-pune-2026)
+- 🏛️ [CUET UG Colleges in Delhi NCR](/blog/cuet-ug-accepting-colleges-delhi-ncr-2027-29/)
+- 🏛️ [CUET UG Colleges in Bangalore](/blog/cuet-ug-accepting-colleges-bangalore-2026/)
+- 🏛️ [CUET UG Colleges in Mumbai](/blog/cuet-ug-accepting-colleges-mumbai-2026/)
+- 🏛️ [CUET UG Colleges in Pune](/blog/cuet-ug-accepting-colleges-pune-2027-29/)
 
 ---
 
@@ -148,9 +148,9 @@ If you prefer studying in a specific metropolitan area, check out our city-wise 
 ---
 
 *Read More:*
-- [CUET UG 2026 Expected Exam Dates](/blog/cuet-ug-2026-expected-exam-date)
-- [CUET UG Marks vs Percentile Calculator](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile)
-- [BBA Admission via CUET UG 2026](/blog/cuet-ug-2026-bba-admission-guide)
+- [CUET UG 2026 Expected Exam Dates](/blog/cuet-ug-2026-expected-exam-date/)
+- [CUET UG Marks vs Percentile Calculator](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
+- [BBA Admission via CUET UG 2026](/blog/cuet-ug-2026-bba-admission-guide/)
 
 ---
 

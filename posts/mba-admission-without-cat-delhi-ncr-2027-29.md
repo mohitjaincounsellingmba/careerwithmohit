@@ -117,7 +117,7 @@ For students looking for merit-based direct admissions without preparing for com
 - [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
 - [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)
 - [Direct MBA Admission in Delhi NCR: Guide](/blog/direct-mba-admission-delhi-ncr-2027-29/)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026/)
 
 ---
 

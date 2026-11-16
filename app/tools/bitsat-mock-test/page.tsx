@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/bitsat-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/bitsat-mock-test/",
   },
   title: 'Free BITSAT Mock Test 2026 | BITS Pilani Preparation Platform',
   description: 'Practice for BITSAT 2026 with our free full-length mock test. 130 questions in 3 hours covering Physics, Chemistry, English, and Logical Reasoning. Get BITS Goa and Hyderabad campus rank prediction.',

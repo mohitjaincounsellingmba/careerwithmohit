@@ -116,7 +116,7 @@ Whether you're targeting Delhi University, BHU, or JMI, head over to the **[CUET
 ## 🔗 Related Resources
 *   [All About CUET UG Exam 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
 *   [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr/)
-*   [Delhi University (DU) B.Com Admission Guide 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/)
+*   [Delhi University (DU) B.Com Admission Guide 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2026/)
 
 ---
 

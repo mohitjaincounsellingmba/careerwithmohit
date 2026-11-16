@@ -6,11 +6,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://careerwithmohit.online/tools/mat-mock-test/",
   },
-  robots: {
-    index: false,
-    follow: true,
-  },
-};
+  };
 
 export default function MockTestRedirectPage() {
   redirect("/tools/mat-mock-test");

@@ -138,10 +138,10 @@ Choosing the right college based on your percentile can be tricky. Don't waste y
 ---
 
 ### Internal References:
-* [All About MAH MBA CET Exam](/blog/all-about-mah-mba-cet-exam)
-* [Top MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
-* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2026)
-* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide)
+* [All About MAH MBA CET Exam](/resources/mah-mba-cet/)
+* [Top MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2027-29/)
+* [JBIMS Cutoff & Admission Guide](/blog/direct-admission-jbims-mumbai-institute-level-seats-2026/)
+* [MBA vs PGDM: Which is better?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 
 ---
 

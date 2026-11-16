@@ -261,7 +261,7 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 ### Related Reading & MBA Guides
 * [All About CAT Exam: Syllabus, Dates & Preparation](/blog/10-tips-to-crack-cat-exam-2027-29/)
 * [CAT 2026-2027 Selection Blueprint: Delhi NCR & Greater Noida](/blog/cat-2026-2027-pgdm-mba-colleges-delhi-ncr-greater-noida-mid-percentile/)
-* [Top MBA Colleges Accepting 70-80 Percentile in CAT](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+* [Top MBA Colleges Accepting 70-80 Percentile in CAT](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026/)
 * [MBA vs PGDM: Which is Better for Your Career?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 * [All About NIBM Pune: Cutoffs, Fees & BFSI Placements](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 * [All About [PUMBA Pune](/colleges/pumba-pune/): Fees, Cutoffs & High ROI Guide](/colleges/pumba-pune/)

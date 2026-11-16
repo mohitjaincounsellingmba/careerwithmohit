@@ -21,7 +21,6 @@ faqs:
     answer: >-
       Yes, KIIT is a Deemed to be University recognized by the UGC and has been
       granted the 'Institution of Eminence' status.
-noindex: true
 author: Mohit Jain
 ---
 
@@ -63,9 +62,9 @@ Yes, KIIT offers various merit-based scholarships (KIIT Merit Scholarship) based
 Yes, KIIT is a Deemed to be University recognized by the UGC and has been granted the 'Institution of Eminence' status.
 
 ## 🔗 Useful Links:
-- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026)
-- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide)
-- [KIIT University B.Tech Admission Guide 2026](/blog/best-btech-colleges-india-2026)
+- [Top BBA Colleges in India 2026](/blog/top-bba-colleges-india-2026/)
+- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide/)
+- [KIIT University B.Tech Admission Guide 2026](/blog/best-btech-colleges-india-2026/)
 
 ---
 

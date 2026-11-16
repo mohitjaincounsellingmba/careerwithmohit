@@ -125,7 +125,7 @@ Yes, but you will need to pass the Bar exam of that country (e.g., the New York 
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
 - [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026/)
 - [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
 

@@ -63,7 +63,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-## [Alliance University (Alliance School of Business)](https://careerwithmohit.online/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Alliance University (Alliance School of Business)](/blog/alliance-university-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier private university situated across a 55-acre green campus in Bangalore, Karnataka. Accredited with **IACBE (USA)** and **AACSB membership**, Alliance School of Business is celebrated for international curriculum design, corporate consulting labs, and extensive recruiter integration.

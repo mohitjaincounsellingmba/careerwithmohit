@@ -74,7 +74,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 | **[JBIMS Mumbai](/colleges/jbims-mumbai/)** (MMS / MSc Finance) | Churchgate | ₹6.10 Lakhs | ₹27.60 LPA | MAH-CET (99.9+ %ile) / CAT (99.5+ %ile) |
 | **[SJMSOM IIT Bombay](/blog/1-year-online-mba-colleges-india-2027-29/)** (MBA) | Powai | ₹14.00 Lakhs | ₹28.80 LPA | CAT (98.5+ %ile) |
 | **[NMIMS Mumbai (SBM)](/colleges/nmims-mumbai/)** (MBA Core/HR/BA) | Vile Parle West | ₹24.00 Lakhs | ₹25.10 LPA | NMAT by GMAC (235+ Score) |
-| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2027-29/)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
+| **[TISS Mumbai](/blog/cuet-pg-mba-colleges-list-2026/)** (MA-HRM & LR) | Deonar | ₹2.50 Lakhs | ₹27.20 LPA | CAT / CUET-PG (98+ %ile) |
 | **[BITSoM (BITS School of Mgmt)](/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff/)** | Powai / Kalyan | ₹25.50 Lakhs | ₹23.50 LPA | CAT / GMAT / GRE (Profile-based) |
 | **[SIMSREE Mumbai (Sydenham)](/blog/direct-admission-simsree-mumbai-mms-pgdm-2027-29/)** (MMS/PGDM) | Churchgate | ₹1.36 Lakhs | ₹15.20 LPA | MAH-CET (99.7+ %ile) / CAT (95+ %ile) |
 | **[KJ Somaiya Institute of Mgmt](/blog/nmat-2026-27-attempt-strategy-nmims-mumbai/)** (MBA) | Vidyavihar | ₹20.80 Lakhs | ₹12.50 LPA | CAT / XAT / CMAT / NMAT (85+ %ile) |

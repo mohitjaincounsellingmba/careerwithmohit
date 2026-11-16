@@ -133,7 +133,7 @@ Usually held in **June**. Applications typically open in March.
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
 - [B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026/)
 - [BBA Colleges in Hyderabad 2026](/blog/top-bba-colleges-hyderabad-2026/)
 

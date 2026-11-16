@@ -368,8 +368,8 @@ Step 4: Education Loan & Financial Clearance
 ---
 
 ## 🔗 Related Resources & Internal Links
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
-*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score 2027–29-27](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
+*   [XAT vs SNAP vs NMAT: Which is Easier After CAT?](/blog/xat-vs-snap-vs-nmat-which-is-easier-after-cat-2026/)
 *   [All About NDIM New Delhi: Reviews, Fees & Placements](/colleges/ndim-delhi/)
 *   [All About [Jaipuria Institute of Management](/colleges/jaipuria-institute-of-management-indore/) Noida](/colleges/jaipuria-noida/)
 *   [All About FIIB New Delhi: Admissions & Selection Criteria](/colleges/fiib-delhi/)

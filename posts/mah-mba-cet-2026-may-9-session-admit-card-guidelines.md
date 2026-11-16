@@ -72,7 +72,7 @@ Once the results are out, the **Centralized Admission Process (CAP)** will begin
 
 [👉 Check: Top MHCET MBA Colleges in Pune with Cutoffs](/blog/top-mhcet-mba-colleges-pune-2026-cutoffs-fees/)
 
-[👉 Check: MAH MBA CET 2027–29 Accepting Colleges List & Fees](/blog/mah-mba-cet-colleges-list-cutoff-placements-2027-29/)
+[👉 Check: MAH MBA CET 2027–29 Accepting Colleges List & Fees](/blog/mah-mba-cet-colleges-list-cutoff-placements-2026/)
 
 ## 4. Last-Minute Tips for May 9 Session
 If you are appearing for the May 9 session, keep these points in mind:

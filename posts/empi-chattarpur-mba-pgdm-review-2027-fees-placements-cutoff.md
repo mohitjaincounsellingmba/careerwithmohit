@@ -62,7 +62,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [EMPI Business School (New Delhi)](https://careerwithmohit.online/blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [EMPI Business School (New Delhi)](/blog/empi-chattarpur-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Pioneer standalone management institution established in 1995 on a lush green campus in Chattarpur, South Delhi. Approved by **AICTE**, EMPI is distinguished by its landmark academic collaboration with **IBM** for business analytics and artificial intelligence education.

@@ -113,7 +113,7 @@ Because the Pitampura campus is located along the Outer Ring Road with direct fo
 
 Commuting from home saves **₹1,20,000 to ₹1,50,000 annually** on food, laundry, and private hostel rents, keeping your total 2-year educational cost strictly to the **₹9.75 Lakhs** tuition figure. With a median salary of ₹8.20 LPA, full educational payback occurs in roughly 14 to 16 months.
 
-For candidates comparing standalone business schools across the national capital, check our regional guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+For candidates comparing standalone business schools across the national capital, check our regional guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 
@@ -179,7 +179,7 @@ Check your admission probability across institutions using our [CAT Percentile &
 1. **Leverage VIPS Merit Scholarships**: DSB provides merit scholarships (up to ₹1.5 Lakhs tuition concession) for high scorers in CAT (75+ percentile) and MAT (650+ score). Applying in early admission rounds maximizes scholarship consideration.
 2. **Prepare for the Written Analysis Round**: The personal interview includes a short case essay or written assessment evaluating structured reasoning. Practice summarizing business news articles with clear pros and cons.
 3. **Commute from Home if Based in Delhi**: If you live anywhere in Delhi-NCR with metro connectivity, save on hostel fees and graduate with minimal debt.
-4. **Compare Peer Options**: Explore how DSB compares against nearby business schools with our [Head-to-Head Comparison: NDIM vs Delhi School of Business](/blog/ndim-vs-delhi-school-of-business-dsb-comparison-2027-29/).
+4. **Compare Peer Options**: Explore how DSB compares against nearby business schools with our [Head-to-Head Comparison: NDIM vs Delhi School of Business](/blog/ndim-vs-delhi-school-of-business-dsb-comparison-2026/).
 
 ---
 

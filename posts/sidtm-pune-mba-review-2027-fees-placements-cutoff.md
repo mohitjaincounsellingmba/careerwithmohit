@@ -60,7 +60,7 @@ location: Pune
 state: Maharashtra
 ---
 
-## [SIDTM Pune](https://careerwithmohit.online/blog/sidtm-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SIDTM Pune](/blog/sidtm-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier constituent institute of Symbiosis International (Deemed University) located in Lavale, Pune, established in 1996 as SITM and rebranded as SIDTM to pioneer techno-management education bridging telecom networks, digital transformation, cloud ecosystems, and analytics.

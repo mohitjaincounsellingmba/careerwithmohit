@@ -120,9 +120,9 @@ No. As a constituent college of the University of Delhi, 100% of seats are alloc
 ---
 
 ## 🔗 Related Admissions Guides:
-- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [BBA vs B.Com vs BMS: Comprehensive Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [DTU USME BBA Admission Process & Cutoffs](/blog/all-about-dtu-delhi-bba-admission-2026)
+- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [BBA vs B.Com vs BMS: Comprehensive Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [DTU USME BBA Admission Process & Cutoffs](/blog/all-about-dtu-delhi-bba-admission-2026/)
 
 **Targeting SSCBS for 2026 or 2027?**  
 Book a personalized strategy consultation with Mohit Jain to calibrate your CUET score requirements and build a high-ROI college backup list.

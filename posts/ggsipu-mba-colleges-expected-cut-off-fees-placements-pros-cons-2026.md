@@ -214,9 +214,9 @@ BPIBS is a government-aided institute, offering the lowest fee structure across 
 ---
 
 ### 🔗 Related Reading
-*   [IPU MBA Cut-offs 2025-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2026)
-*   [Top 14+ GGSIPU MBA Colleges Directory](/blog/ipu-cet-mba-colleges-ggsipu)
-*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+*   [IPU MBA Cut-offs 2025-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2026/)
+*   [Top 14+ GGSIPU MBA Colleges Directory](/blog/ipu-cet-mba-colleges-ggsipu/)
+*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 > **Confused about which IPU college you will get with your score?**
 >

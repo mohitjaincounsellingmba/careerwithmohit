@@ -159,7 +159,7 @@ Backed by the prestigious Birla Academy of Art and Culture, BIMTECH holds AACSB 
 ## 🔗 Related Resources
 *   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
 *   [Top MBA Colleges Accepting CAT Score 70-80 Percentile](/blog/mba-colleges-accepting-cat-score-70-80-percentile-2027-29/)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
 *   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
 
 ---

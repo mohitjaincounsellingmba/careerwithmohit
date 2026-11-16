@@ -62,8 +62,8 @@ The university's placement cell organizes campus drives and skill development wo
 *   **Sectors**: Students from pharmacy, management, and technical programs see robust hiring from top banking and pharmaceutical companies.
 
 ## Check Other University Reviews:
-*   [Central University of South Bihar Review 2026](/blog/central-university-of-south-bihar-cusb-review-2026)
-*   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
+*   [Central University of South Bihar Review 2026](/blog/central-university-of-south-bihar-cusb-review-2027-29/)
+*   [Top MBA Entrance Exams 2026 Guide](/blog/top-mba-entrance-exams-2026-guide/)
 
 [👉 Get Admission Consultation for DHSGSU!](/inquiry)
 

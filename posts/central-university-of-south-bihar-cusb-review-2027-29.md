@@ -73,7 +73,7 @@ CUSB has a dedicated placement cell that ensures good corporate and institutiona
 *   **Opportunities**: Strong placements are observed in the education sector, NGOs, and various corporate roles.
 
 ## Check Other University Reviews:
-*   [Dr. Harisingh Gour Vishwavidyalaya Review 2027–29](/blog/dr-harisingh-gour-vishwavidyalaya-dhsgsu-review-2027-29/)
+*   [Dr. Harisingh Gour Vishwavidyalaya Review 2027–29](/blog/dr-harisingh-gour-vishwavidyalaya-dhsgsu-review-2026/)
 *   [Top CUET Universities Guide](/blog/acca-benefits-with-mba-career-guide-2027-29/)
 
 [👉 Get Admission Consultation for CUSB!](/inquiry/)

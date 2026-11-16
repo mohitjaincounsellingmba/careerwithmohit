@@ -60,7 +60,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## [J.S. Kothari Business School (JSKBS Mumbai)](https://careerwithmohit.online/blog/js-kothari-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [J.S. Kothari Business School (JSKBS Mumbai)](/blog/js-kothari-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: [J.S. Kothari Business School](/colleges/js-kothari-mumbai) is an established management institution in the Mumbai Metropolitan Region. Approved by **AICTE**, the institution delivers practical business training tailored to the financial, logistics, and retail ecosystems of Western India.

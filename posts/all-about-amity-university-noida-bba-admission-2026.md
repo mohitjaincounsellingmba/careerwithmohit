@@ -40,7 +40,6 @@ faqs:
       after the first year.
 location: Delhi NCR
 state: Delhi NCR
-noindex: true
 author: Mohit Jain
 ---
 
@@ -85,9 +84,9 @@ Yes, [Amity University](/colleges/amity-noida) is recognized by the University G
 Generally, specializations are chosen at the time of admission. However, check with the academic department for any lateral movement possibilities after the first year.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Noida 2026](/blog/top-10-bba-colleges-noida-2026)
-- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide)
-- [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2026)
+- [Top 10 BBA Colleges in Noida 2026](/blog/top-10-bba-colleges-noida-2026/)
+- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide/)
+- [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2027-29/)
 
 ---
 

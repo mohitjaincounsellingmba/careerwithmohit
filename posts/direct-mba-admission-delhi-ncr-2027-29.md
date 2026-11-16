@@ -118,7 +118,7 @@ A popular choice for students looking for an affordable MBA program with strong 
 ## 🔗 Related Resources
 - [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
 - [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29/)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026/)
 - [MBA Colleges Accepting MAT Score in Delhi NCR](/blog/mba-colleges-accepting-mat-score-delhi-ncr-2027-29/)
 
 ---

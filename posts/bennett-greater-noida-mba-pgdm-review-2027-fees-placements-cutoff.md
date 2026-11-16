@@ -127,7 +127,7 @@ Bennett University is a fully residential campus, meaning all MBA students live 
 - **Dining Facilities**: Multi-cuisine dining halls managed by Sodexo, serving vegetarian and non-vegetarian meals alongside multiple campus food outlets.
 - **Recreational Infrastructure**: Fully equipped fitness center, indoor squash courts, Olympic-size swimming pool, and basketball arenas.
 
-Compare Bennett's costs against other regional options in our curated [Best MBA Colleges in Noida & Ghaziabad Guide](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/).
+Compare Bennett's costs against other regional options in our curated [Best MBA Colleges in Noida & Ghaziabad Guide](/blog/best-mba-colleges-in-noida-ghaziabad-2026/).
 
 ---
 

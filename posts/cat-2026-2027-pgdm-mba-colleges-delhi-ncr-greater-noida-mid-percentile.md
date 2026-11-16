@@ -248,7 +248,7 @@ Connect directly with **Mohit Jain**, Senior MBA Admissions Consultant. Get your
 
 ### Related Reading & MBA Guides
 * [All About CAT Exam: Syllabus, Dates & Preparation](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+* [Top MBA Colleges Accepting 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026/)
 * [MBA vs PGDM: Which is Better for Your Career?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
 * [All About BIMTECH Greater Noida: Cutoffs, Fees & Placements](/colleges/bimtech-greater-noida/)
 * [All About GL Bajaj Greater Noida: Review, Placements & Admission](/colleges/gl-bajaj-greater-noida/)

@@ -92,7 +92,7 @@ The classic "gold standard" business schools in India continue to dominate tradi
 *   [IIM Ahmedabad](/colleges/iim-ahmedabad)
 *   [IIM Calcutta](/colleges/iim-calcutta)
 *   [IIM Bangalore](/colleges/iim-bangalore)
-*   [NIBM Pune](/blog/all-about-nibm-pune)
+*   [NIBM Pune](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 
 ---
 
@@ -150,10 +150,10 @@ Yes. Many finance professionals transition by learning data analytics, Python, o
 ---
 
 ### Useful Links:
-- [Corporate Finance vs. Investment Banking](/blog/corporate-finance-vs-investment-banking-comparison)
-- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2026)
-- [Delhi School of Business (DSB) VIPS — PGDM Review 2026](/blog/usp-of-delhi-school-of-business-pgdm-2026)
-- [National Institute of Bank Management (NIBM) Pune Guide](/blog/all-about-nibm-pune)
+- [Corporate Finance vs. Investment Banking](/blog/corporate-finance-vs-investment-banking-comparison/)
+- [Investment Banking Career Path 2026 Guide](/blog/investment-banking-career-path-salary-2027-29/)
+- [Delhi School of Business (DSB) VIPS — PGDM Review 2026](/blog/usp-of-delhi-school-of-business-pgdm-2027-29/)
+- [National Institute of Bank Management (NIBM) Pune Guide](/blog/direct-admission-nibm-pune-banking-finance-2027-29/)
 
 ---
 

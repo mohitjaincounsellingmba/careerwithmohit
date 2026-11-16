@@ -61,7 +61,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [GNIOT Institute of Management Studies (GIMS / GNIOT)](https://careerwithmohit.online/blog/gniot-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [GNIOT Institute of Management Studies (GIMS / GNIOT)](/blog/gniot-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier technical and management education institution situated in Knowledge Park II, Greater Noida (Delhi NCR). Approved by **AICTE** and affiliated with **AKTU Lucknow**, offering both budget university MBA degrees and modern industry-aligned PGDM (GIMS) programs.

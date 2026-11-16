@@ -61,7 +61,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Fortune Institute of International Business (FIIB Delhi)](https://careerwithmohit.online/blog/fiib-delhi-pgdm-admission-2027-29/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Fortune Institute of International Business (FIIB Delhi)](/blog/fiib-delhi-pgdm-admission-2027-29/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier standalone business school established in 1995 in the diplomatic hub of Vasant Vihar, South Delhi. Accredited by **NBA**, granted **AIU MBA Equivalence**, and holding membership in **AACSB & EFMD**. Celebrated for high-impact international business, analytics, and corporate grooming pedagogy.

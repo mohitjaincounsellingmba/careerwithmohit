@@ -146,7 +146,7 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 ### 🔗 Related Reading & Resources
 * [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/)
 * [BBA Admission through CUET in Delhi NCR 2026](/blog/bba-admission-through-cuet-delhi-ncr-2026/)
-* [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2027-29/)
+* [CUET UG Accepting Colleges in India 2026](/blog/cuet-ug-accepting-colleges-india-2026/)
 * [CUET UG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-ug-2026-score-calculator-marks-vs-percentile/)
 
 ---

@@ -59,7 +59,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## [ITM Business School Navi Mumbai](https://careerwithmohit.online/blog/itm-navi-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Roadmap
+## [ITM Business School Navi Mumbai](/blog/itm-navi-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Roadmap
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Accreditations**: Established in 1991, ITM Business School Navi Mumbai (Kharghar) is among Western India's premier private standalone business institutions. Approved by **AICTE**, accredited by the **National Board of Accreditation (NBA)**, and recognized by the **Association of Indian Universities (AIU)** with MBA equivalence.

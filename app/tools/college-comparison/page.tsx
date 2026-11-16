@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/college-comparison/',
+    canonical: "https://careerwithmohit.online/tools/college-comparison/",
   },
     title: "MBA College Comparison Calculator | Compare Fees, Placement & Cutoffs",
     description: "Compare top MBA/PGDM colleges in India side-by-side. Check fees, average placements, highest packages, NMAT/CAT cutoffs, courses, and infrastructure instantly.",
@@ -185,7 +185,7 @@ export default function CollegeComparisonPage() {
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Top MBA Colleges in Mumbai</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>
-                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
+                        <Link href="/blog/best-mba-colleges-in-delhi-2026/" className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm hover:shadow-md hover:border-blue-200 transition-all group flex flex-col justify-between h-32">
                             <span className="font-black text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Top MBA Colleges in Delhi NCR</span>
                             <ArrowRightLeft className="w-5 h-5 text-slate-300 group-hover:text-blue-500" />
                         </Link>

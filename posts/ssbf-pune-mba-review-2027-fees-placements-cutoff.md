@@ -60,7 +60,7 @@ location: Pune
 state: Maharashtra
 ---
 
-## [SSBF Pune](https://careerwithmohit.online/blog/ssbf-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SSBF Pune](/blog/ssbf-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier banking and finance management school established under Symbiosis International (Deemed University) at Lavale, Pune, dedicated exclusively to cultivating specialized leaders in retail banking, wealth management, corporate credit, treasury, and FinTech.

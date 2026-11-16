@@ -99,7 +99,7 @@ Now that you have completed the April 4 shift, here’s how to plan for your eng
 
 *   **College Predictor**: Check our [JEE Main 2026 College Predictor](/blog/jee-main-college-predictor-2026-btech-top-colleges/) for NIT/IIIT admissions.
 *   **JEE Advanced**: If you expect a high percentile, start your [JEE Advanced 2026 Preparation](/blog/how-to-crack-jee-advanced-2027-29/) immediately.
-*   **Direct Admissions**: Exploring private universities? Check our guides for [Direct Admission in JECRC](/blog/direct-admission-jecrc-university-jaipur-btech-2026/) and [Direct Admission in SRM](/blog/direct-admission-srm-university-2027-29/).
+*   **Direct Admissions**: Exploring private universities? Check our guides for [Direct Admission in JECRC](/blog/direct-admission-jecrc-university-jaipur-btech-2026/) and [Direct Admission in SRM](/blog/direct-admission-srm-university-2026/).
 
 **Need help with your B.Tech journey?**
 Choosing the right engineering college is a life-changing decision. Get expert guidance and personalized counselling to secure your seat in the best colleges.

@@ -113,9 +113,9 @@ Due to extreme competition, the first merit list cutoff for BBA in the General c
 ---
 
 ## 🔗 Recommended Next Steps & Admissions Guidance:
-- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026)
-- [BBA vs B.Com vs BMS Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [Madras Christian College (MCC) BBA Admission Guide](/blog/all-about-madras-christian-college-chennai-bba-admission-2026)
+- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026/)
+- [BBA vs B.Com vs BMS Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Madras Christian College (MCC) BBA Admission Guide](/blog/all-about-madras-christian-college-chennai-bba-admission-2026/)
 
 **Need a realistic backup plan if you don't hit 97% for Loyola?**  
 Mohit Jain's South India Admissions Strategy evaluates your board scores to match you with top-tier alternative business schools in Chennai and Bengaluru.

@@ -60,7 +60,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## [JAGSoM Greater Mumbai (Karjat Campus)](https://careerwithmohit.online/blog/jagsom-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Blueprint
+## [JAGSoM Greater Mumbai (Karjat Campus)](/blog/jagsom-mumbai-karjat-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & AACSB Pedigree**: Jagdish Sheth School of Management (JAGSoM, formerly IFIM) holds the prestigious **AACSB International** accreditation—a distinction held by fewer than 25 business schools in India. The Karjat campus delivers this global standard in Greater Mumbai.

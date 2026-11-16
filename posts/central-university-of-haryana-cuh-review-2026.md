@@ -82,8 +82,8 @@ CUH is celebrated for its highly economical fee structure:
 *   **Availability:** Demand is high, so allocation often prioritizes students from distances beyond 60 km.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Karnataka Review 2026](/blog/central-university-of-karnataka-cuk-review-2026)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
+*   [Central University of Karnataka Review 2026](/blog/central-university-of-karnataka-cuk-review-2026/)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
 
 [👉 Get Admission Consultation for Central University of Haryana!](/inquiry)
 

@@ -92,7 +92,7 @@ The admission process for DTU’s MBA program is managed through a centralized c
 2. **Personal Interview (PI) & Group Discussion (GD):** Shortlisted candidates must participate in the GD/PI rounds.
 3. **Final Merit List:** The final selection is based on a composite score comprising the entrance exam score, performance in GD/PI, past academic record, and relevant work experience.
 
-*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/).*
+*Looking for other options in the capital? Check out our guide on the [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2026/).*
 
 ## 3. DTU MBA Cutoff 2027–29 (Expected)
 

@@ -129,7 +129,7 @@ GL Bajaj operates on a clean, predictable six-trimester fee schedule:
 - **Commuter Flexibility**: For students residing in Noida, Greater Noida, or East Delhi, daily commuting via the Aqua Line Metro (Knowledge Park II Station) is straightforward, eliminating residential costs entirely.
 - *Total 2-Year All-Inclusive Cost*: Approximately **₹10.8L to ₹11.3L** for residential students, and **₹8.6L** for day commuters.
 
-For a broader evaluation of institutions across the region, read our guide to the [Best MBA Colleges in Noida & Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/).
+For a broader evaluation of institutions across the region, read our guide to the [Best MBA Colleges in Noida & Ghaziabad](/blog/best-mba-colleges-in-noida-ghaziabad-2026/).
 
 ---
 

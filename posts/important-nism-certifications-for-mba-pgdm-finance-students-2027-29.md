@@ -272,7 +272,7 @@ Corporate recruiters across commercial banking, investment banking, brokerage, a
 - [Financial Modeling & Valuation Best Courses Guide](/blog/financial-modeling-valuation-best-courses-2027-29/)
 - [Corporate Finance vs Investment Banking Comparison](/blog/corporate-finance-vs-investment-banking-comparison/)
 - [ACCA with MBA: Benefits, Career Scope & Exemptions](/blog/acca-benefits-with-mba-career-guide-2027-29/)
-- [Top MBA Colleges for Finance Specialization in India](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+- [Top MBA Colleges for Finance Specialization in India](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
 
 ---
 

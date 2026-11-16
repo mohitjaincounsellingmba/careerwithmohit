@@ -83,7 +83,7 @@ Based on the previous cycle's data, here is what a safe raw score looks like for
 
 ## Critical Next Steps for Aspirants
 
-- **Admission Guide:** Check the [Delhi University B.Com Admission Process 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2027-29/).
+- **Admission Guide:** Check the [Delhi University B.Com Admission Process 2026](/blog/delhi-university-du-bcom-admission-process-eligibility-2026/).
 - **College List:** Explore the [Top CUET UG Colleges in Delhi NCR](/blog/top-cuet-ug-colleges-delhi-ncr/).
 - **Other Options:** If you are also considering IP University, check the [IPU CET 2026 Updates](/blog/ipu-cet-2026-ug-exam-updates-dates-registration/).
 - **Post-Result Strategy:** Read our guide on [CUET UG University List citywise](/blog/cuet-ug-university-list-2026-citywise/) to prepare your preference list.

@@ -88,7 +88,7 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 
 ### 🏛️ Delhi NCR (Top Rated)
 - **[NDIM Delhi](/colleges/ndim-delhi/)** — Grade 'A' B-school with excellent CSR placement.
-- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2027-29/)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
+- **[NIU Noida](/blog/niu-vs-galgotias-university-mba-placement-review-2026/)** — Recognized for its elite IBM-data tie-ups and strong placement focus.
 - **[Galgotias University](/blog/why-never-join-galgotias-university-for-mba-review/)** — Massive intake but consistently accepts the Bihar Credit Card.
 - **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** — Highly preferred for PGDM (Limited BSCC seats).
 - **[FIIB Delhi](/colleges/fiib-delhi/)** — Known for International Business and 100% BSCC support.
@@ -96,7 +96,7 @@ Students from Bihar have successfully used the DRCC loan for the following insti
 
 ### 🌿 Pune & Mumbai (The Finance/IT Hub)
 - **[ITM Navi Mumbai](/colleges/itm-mumbai/)** — Specialised in Fintech and Digital Marketing.
-- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2027-29/)** — Good and affordable choice for DRCC students.
+- **[ISBM Pune](/blog/iiebm-pune-vs-isbm-pune-comparison-2026/)** — Good and affordable choice for DRCC students.
 - **ASM's IBMR** — Chinchwad, Pune.
 - **Indira Group (ISBS/IIMP)** — Pune's favorite for centralized placements.
 

@@ -42,7 +42,6 @@ faqs:
       ₹5,00,000 for the full 4-year Honours degree.
 location: Udaipur
 state: Rajasthan
-noindex: true
 author: Mohit Jain
 ---
 
@@ -148,9 +147,9 @@ Before enrolling, it is crucial to set realistic expectations regarding career s
 ---
 
 ## 🔗 Useful Links:
-- [IIM Bodh Gaya IPM & BBA Admission Guide](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2026)
-- [IIM Ranchi IPM & BBA Admission Guide](/blog/all-about-iim-ranchi-ipm-bba-admission-2026)
-- [IPM Admission Guides for Baby IIMs 2026](/blog/baby-iims-review-2026-honest-analysis)
+- [IIM Bodh Gaya IPM & BBA Admission Guide](/blog/all-about-iim-bodh-gaya-ipm-bba-admission-2026/)
+- [IIM Ranchi IPM & BBA Admission Guide](/blog/all-about-iim-ranchi-ipm-bba-admission-2026/)
+- [IPM Admission Guides for Baby IIMs 2026](/blog/baby-iims-review-2026-honest-analysis/)
 
 ---
 

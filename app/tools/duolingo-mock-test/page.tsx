@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     'Columbia DET requirement', 'Yale Duolingo English score', 'NYU Stern DET cutoff'
   ],
   alternates: {
-    canonical: '/tools/duolingo-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/duolingo-mock-test/",
   },
   openGraph: {
     title: 'Free Duolingo English Test (DET) Mock 2026 | Adaptive Practice Paper',

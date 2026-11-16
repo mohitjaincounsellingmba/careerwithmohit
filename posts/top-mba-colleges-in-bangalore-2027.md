@@ -70,7 +70,7 @@ In this 2027 guide, senior education consultant **Mohit Jain** delivers an autho
 | College / Program | Location | Total Tuition Fee | Average Domestic CTC | Key Accepted Exams & Target Cutoff |
 | :--- | :--- | :--- | :--- | :--- |
 | **[IIM Bangalore](/colleges/iim-bangalore/)** (PGP) | Bannerghatta Road | ₹25.00 Lakhs | ₹33.80 LPA | CAT (99.3+ %ile) |
-| **[SIBM Bengaluru](/blog/best-cat-coaching-institutes-and-fees-2027-29/)** (MBA Core/BA/QF) | Electronic City Phase 1 | ₹20.50 Lakhs | ₹14.50 LPA | SNAP (90.0+ %ile) |
+| **[SIBM Bengaluru](/blog/best-cat-coaching-institutes-and-fees-2026/)** (MBA Core/BA/QF) | Electronic City Phase 1 | ₹20.50 Lakhs | ₹14.50 LPA | SNAP (90.0+ %ile) |
 | **[JAGSoM (Jagdish Sheth School)](/blog/)** (PGDM) | Electronic City Phase 1 | ₹15.95 Lakhs | ₹13.30 LPA | CAT / XAT / GMAT / MAT (75+ %ile) |
 | **[XIME Bangalore](/colleges/international-school-of-business-media-bangalore/)** (PGDM) | Electronic City Phase 2 | ₹12.50 Lakhs | ₹10.30 LPA | CAT / XAT / CMAT / MAT (70+ %ile) |
 | **[Christ University (School of Business)](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)** | Hosur Rd / Kengeri / BGR | ₹8.80 – ₹9.50 Lakhs | ₹8.20 LPA | CAT / MAT / CMAT / XAT / Christ Test |

@@ -19,7 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const ninetyDaysAgo = new Date();
   ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
 
-  // Load all redirect sources from public/_redirects so no 301/302 redirects are ever submitted to Google
+  // Load all redirect sources from public/_redirects and REDIRECT_MAP.csv so no 301/302 redirects are ever submitted to Google
   const redirectSources = new Set<string>();
   try {
     const redirectsPath = path.join(process.cwd(), 'public', '_redirects');
@@ -31,6 +31,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
         const [from] = trimmed.split(/\s+/);
         if (from && !from.includes('*')) {
           const clean = from.toLowerCase().replace(/\/$/, '');
+          redirectSources.add(clean);
+          redirectSources.add(clean + '/');
+        }
+      });
+    }
+    const csvPath = path.join(process.cwd(), 'REDIRECT_MAP.csv');
+    if (fs.existsSync(csvPath)) {
+      const csvContent = fs.readFileSync(csvPath, 'utf-8');
+      csvContent.split('\n').forEach((line) => {
+        const trimmed = line.trim();
+        if (!trimmed || trimmed.startsWith('Old URL')) return;
+        const [from] = trimmed.split(',');
+        if (from && !from.includes('*')) {
+          const clean = from.replace('https://careerwithmohit.online', '').toLowerCase().replace(/\/$/, '');
           redirectSources.add(clean);
           redirectSources.add(clean + '/');
         }

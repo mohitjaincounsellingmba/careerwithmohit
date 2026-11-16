@@ -90,7 +90,7 @@ This is where most students get confused.
 
 ### 4. Fees and ROI
 - **MBA:** Generally more affordable, especially in state or central universities (e.g., [FMS Delhi](/colleges/fms-delhi/) or PUMBA).
-- **PGDM:** Usually involves higher fees due to self-funding, better corporate networking, and premium campus facilities (e.g., [IMI New Delhi](/blog/imi-delhi-vs-imi-kolkata-pgdm-comparison-2027-29/)).
+- **PGDM:** Usually involves higher fees due to self-funding, better corporate networking, and premium campus facilities (e.g., [IMI New Delhi](/blog/imi-delhi-vs-imi-kolkata-pgdm-comparison-2026/)).
 
 ### 5. Corporate Perception
 **The Harsh Reality:** Recruiters at top consulting firms (McKinsey, BCG) or tech giants (Google, Amazon) do NOT care about the "Degree vs. Diploma" label. They care about two things:

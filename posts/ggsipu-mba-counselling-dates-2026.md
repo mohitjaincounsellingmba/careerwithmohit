@@ -149,7 +149,7 @@ When filling your choices, prioritize the colleges based on cutoffs, placements,
 4. **[Jagan [Institute of Management Studies](/colleges/institute-of-management-studies) (JIMS), Rohini](/colleges/jagan-institute-of-management-studies-jims-rohini-delhi)** — Highly corporate-connected (Avg package ~₹7.5 - 9 LPA).
 5. **[Maharaja Surajmal Institute (MSI)](/colleges/maharaja-surajmal-institute-msi-delhi), Janakpuri** — Strong academic record and decent placements.
 
-For a deeper dive into these colleges, check out our honest review of [IPU MBA Colleges Review & Cutoff 2026](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2026).
+For a deeper dive into these colleges, check out our honest review of [IPU MBA Colleges Review & Cutoff 2026](/blog/ggsipu-mba-colleges-expected-cut-off-fees-placements-pros-cons-2026/).
 
 ---
 
@@ -170,9 +170,9 @@ No. GGSIPU CET is only conducted to fill vacant seats left after CAT and CMAT ro
 ---
 
 ### 🔗 Related Reading
-* [IPU CET MBA Colleges Directory & Priority System](/blog/ipu-cet-mba-colleges-ggsipu)
-* [Best MBA Colleges in Delhi 2026: Rankings & Fees](/blog/best-mba-colleges-in-delhi-2026)
-* [IPU MBA Colleges Cutoff 2025-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2026)
+* [IPU CET MBA Colleges Directory & Priority System](/blog/ipu-cet-mba-colleges-ggsipu/)
+* [Best MBA Colleges in Delhi 2026: Rankings & Fees](/blog/best-mba-colleges-in-delhi-2026/)
+* [IPU MBA Colleges Cutoff 2025-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2026/)
 
 ---
 

@@ -111,7 +111,7 @@ ASM is situated in Sector 8 Dwarka, literally 300 meters from the **Dwarka Secto
 
 Commuting saves approximately **₹1,20,000 to ₹1,40,000 per year** in residential rents, keeping the total cost of your management qualification under **₹9.0 Lakhs** all-inclusive.
 
-For broader options across the capital, explore our curated guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+For broader options across the capital, explore our curated guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 

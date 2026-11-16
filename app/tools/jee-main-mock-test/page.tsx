@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/jee-main-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/jee-main-mock-test/",
   },
   title: 'Free JEE Main Mock Test 2026 | Full Length PCM Tool',
   description: 'Boost your percentile with our free full-length JEE Main 2026 mock test. 90 questions, 180 minutes, with detailed performance analytics for Physics, Chemistry, and Maths.',

@@ -296,7 +296,7 @@ Most online MBA programs in India have simple eligibility requirements:
 - [Online MBA in India 2027–29: Full Guide](/blog/online-mba-india-2027-29/)
 - [Best Online MBA for Working Professionals](/blog/best-online-mba-colleges-working-professionals-india-2027-29/)
 - [MBA vs PGDM: Which is Better in 2027–29?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
-- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

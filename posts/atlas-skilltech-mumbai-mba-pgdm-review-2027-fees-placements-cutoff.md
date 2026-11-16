@@ -64,7 +64,7 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## [ATLAS SkillTech University (ISME Mumbai)](https://careerwithmohit.online/blog/atlas-skilltech-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [ATLAS SkillTech University (ISME Mumbai)](/blog/atlas-skilltech-mumbai-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier urban innovation university situated in Equinox Business Park, BKC Annex (Bandra-Kurla Complex), Mumbai. Built by corporate leaders and design educators, ATLAS integrates modern management, design thinking, artificial intelligence, and startup entrepreneurship.

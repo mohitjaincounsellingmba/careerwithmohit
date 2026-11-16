@@ -132,9 +132,9 @@ Yes. NIBM usually takes students in the **85-95 percentile** range of CAT/XAT/CM
 ---
 
 ### Useful Links:
-- [Top MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026)
-- [Best MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [NIBM Pune Honest Review 2026](/blog/nibm-pune-review-2025)
+- [Top MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026/)
+- [Best MBA Colleges with Low Fees & High ROI](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [NIBM Pune Honest Review 2026](/blog/nibm-pune-review-2027-29/)
 
 ---
 

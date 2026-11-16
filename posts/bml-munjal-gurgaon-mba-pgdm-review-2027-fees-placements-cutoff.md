@@ -130,7 +130,7 @@ BMU is a fully residential campus located along the Delhi-Jaipur Highway (NH-48)
 - **Residential Facilities**: Air-conditioned hostel blocks, multi-cuisine dining facilities, sports complexes, tennis courts, and 24/7 on-campus medical centers.
 - **Weekend Connectivity**: The university provides regular weekend shuttle buses to IFFCO Chowk and HUDA City Centre Metro stations in Gurugram for students commuting into Delhi-NCR.
 
-For broader regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+For broader regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 

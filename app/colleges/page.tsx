@@ -21,7 +21,7 @@ export const metadata = {
     'JEE Advanced cutoff 2027', 'direct admission engineering MBA 2027', 'Mohit Jain career counseling'
   ],
   alternates: {
-    canonical: '/colleges/',
+    canonical: "https://careerwithmohit.online/colleges/",
   },
   other: {
     'geo.region': 'IN',

@@ -53,7 +53,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ## Delhi NCR: The Corporate Hub
 
 ### Tier 1: The Elite Leaders (Avg Placement: ₹18 LPA - ₹30 LPA+)
-*   **[MDI Gurgaon](/colleges/mdi-gurgaon)**: NIRF #9 | Avg Placement: ₹25.6 LPA | Fees: ₹26.55 Lakhs. [Read More](/blog/best-mba-colleges-in-delhi-2026)
+*   **[MDI Gurgaon](/colleges/mdi-gurgaon)**: NIRF #9 | Avg Placement: ₹25.6 LPA | Fees: ₹26.55 Lakhs. [Read More](/blog/best-mba-colleges-in-delhi-2026/)
 *   **IMI New Delhi**: NIRF #34 | Avg Placement: ₹17.91 LPA | Fees: ₹23.54 Lakhs
 *   **IMT Ghaziabad**: NIRF #38 | Avg Placement: ₹16.25 LPA | Fees: ₹20.8 Lakhs
 *   **IIT Delhi (DMS)**: NIRF #4 | Avg Placement: ₹23.4 LPA | Fees: ₹12.4 Lakhs
@@ -74,7 +74,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ## Mumbai: The Financial Capital
 
 ### Tier 1: Elite Institutions (Avg Placement: ₹25 LPA+)
-*   **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: NIRF #20 | Avg Placement: ₹33.75 LPA | Fees: ₹26.5 Lakhs. [Read More](/blog/best-mba-colleges-in-mumbai-2026)
+*   **[SPJIMR Mumbai](/colleges/spjimr-mumbai)**: NIRF #20 | Avg Placement: ₹33.75 LPA | Fees: ₹26.5 Lakhs. [Read More](/blog/best-mba-colleges-in-mumbai-2027-29/)
 *   **IIM Mumbai**: NIRF #7 | Avg Placement: ₹29.44 LPA | Fees: ₹21.0 Lakhs
 *   **[NMIMS Mumbai](/colleges/nmims-mumbai)**: NIRF #21 | Avg Placement: ₹25.13 LPA | Fees: ₹24.0 Lakhs
 
@@ -93,7 +93,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ## Pune: The Education Hub
 
 ### Tier 1: Top Rated (Avg Placement: ₹15 LPA+)
-*   **[SIBM Pune](/colleges/sibm-pune)**: NIRF #13 | Avg Placement: ₹28.83 LPA | Fees: ₹27.77 Lakhs. [Read More](/blog/best-mba-colleges-in-pune-2026)
+*   **[SIBM Pune](/colleges/sibm-pune)**: NIRF #13 | Avg Placement: ₹28.83 LPA | Fees: ₹27.77 Lakhs. [Read More](/blog/best-mba-colleges-in-pune-2027-29/)
 *   **[SCMHRD Pune](/colleges/scmhrd-pune)**: NIRF #25-30 | Avg Placement: ₹23.7 LPA | Fees: ₹22.0 Lakhs
 
 ### Tier 2: Industry Focused (Avg: ₹8 LPA - ₹14 LPA)
@@ -112,7 +112,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 ## Bangalore: The Tech & Innovation Center
 
 ### Tier 1 & 2: Strong Movers (Avg: ₹10 LPA - ₹18 LPA)
-*   **JAGSOM Bangalore**: NIRF #77 | Avg Placement: ₹10.96 LPA | Fees: ₹17.5 Lakhs. [Read More](/blog/best-mba-colleges-in-bangalore-2026)
+*   **JAGSOM Bangalore**: NIRF #77 | Avg Placement: ₹10.96 LPA | Fees: ₹17.5 Lakhs. [Read More](/blog/best-mba-colleges-in-bangalore-2026/)
 *   **[XIME Bangalore](/colleges/xime-bangalore)**: NIRF #100-125 | Avg Placement: ₹9.6 LPA | Fees: ₹15.6 Lakhs
 *   **Christ University**: NIRF #60 | Avg Placement: ₹7.0 LPA | Fees: ₹6.7 Lakhs (Batch 2025)
 *   **Alliance University**: NIRF #80 | Avg Placement: ₹8.5 LPA | Fees: ₹10.0 Lakhs
@@ -132,7 +132,7 @@ This equivalence is crucial for students who wish to pursue higher education abr
 *   **[Calcutta Business School](/colleges/calcutta-business-school) (Tier 3)**: Avg: ₹7.5 LPA | Fees: ₹7.45 Lakhs
 
 ### Jaipur
-*   **[Jaipuria Jaipur](/colleges/jaipuria-jaipur) (Tier 2)**: NIRF #74 | Avg: ₹9.5 LPA | Fees: ₹12.75 Lakhs. [Read More](/blog/best-mba-colleges-in-jaipur-2026)
+*   **[Jaipuria Jaipur](/colleges/jaipuria-jaipur) (Tier 2)**: NIRF #74 | Avg: ₹9.5 LPA | Fees: ₹12.75 Lakhs. [Read More](/blog/best-mba-colleges-in-jaipur-2027-29/)
 *   **[Taxila Business School](/colleges/taxila-jaipur) (Tier 1/2)**: Avg: ₹11.5 LPA | Fees: ₹9.5 Lakhs
 *   **[IIHMR University](/colleges/iihmr-university) (Tier 2)**: Healthcare Focused | Avg: ₹7.8 LPA | Fees: ₹12.5 Lakhs
 *   **JIMS Jaipur (Tier 3)**: Avg: ₹7.5 LPA | Fees: ₹6.95 Lakhs

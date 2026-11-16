@@ -126,7 +126,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="/search"
+            href="/search/"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-white text-foreground border-4 border-foreground px-8 py-4 text-lg font-black uppercase shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:bg-accent hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-y-0 transition-all rounded-xl"
           >
             <Search className="w-5 h-5" />

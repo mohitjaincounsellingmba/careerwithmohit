@@ -155,7 +155,7 @@ Here is a sample of the ROI matrix examined during the 1-on-1 video session:
 | **[NMIMS Mumbai](/colleges/nmims-mumbai/)** | MBA Core | ₹26.0 Lakhs | ₹19.5 LPA | NMAT Exam (235+ score); premier Mumbai finance hub |
 | **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida/)** | PGDM | ₹14.5 Lakhs | ₹11.2 LPA | CAT/XAT/CMAT (75-80 percentile); strong insurance & analytics |
 | **[FORE School of Management](/blog/direct-admission-fore-school-of-management-delhi-2027-29/)** | PGDM | ₹18.0 Lakhs | ₹14.5 LPA | Delhi corporate location; 85+ CAT/XAT percentile |
-| **[Direct/Institutional Options](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29/)** | MBA / PGDM | ₹4.5 – 9.0 Lakhs | ₹6.5 – 8.5 LPA | Direct merit & institutional rounds; budget-friendly ROI |
+| **[Direct/Institutional Options](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026/)** | MBA / PGDM | ₹4.5 – 9.0 Lakhs | ₹6.5 – 8.5 LPA | Direct merit & institutional rounds; budget-friendly ROI |
 
 ---
 
@@ -211,7 +211,7 @@ You can read more about Mohit's background and educational journey on the [About
 - [Check All IIM Cutoffs 2027–2029](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
 - [CAT Score Calculator & Percentile Predictor](/tools/cat-score-calculator/)
 - [10 Proven Tips to Crack CAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
-- [MBA Colleges Under 5 Lakhs in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29/)
+- [MBA Colleges Under 5 Lakhs in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026/)
 - [FMS Delhi Cutoff, Fees & Placement Report](/colleges/fms-delhi/)
 
 ---

@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/calculator/cuet-pg-2026/',
+    canonical: "https://careerwithmohit.online/calculator/cuet-pg-2026/",
   },
     title: "CUET PG 2027 Score Calculator & Rank Predictor | Marks vs Percentile",
     description: "Free CUET PG 2027 score calculator. Instantly calculate your raw score with official NTA marking scheme (+4/-1), predict percentile, check marks vs rank, and compare cutoffs for DU, JNU, BHU, TISS MBA & other PG programs.",
@@ -491,7 +491,7 @@ export default function CuetCalculatorPage() {
                         <Link href="/blog/cuet-pg-2026-result-expected-date/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">CUET PG 2027 Result Expected Date →</span>
                         </Link>
-                        <Link href="/blog/best-mba-colleges-in-delhi-2027-29/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
+                        <Link href="/blog/best-mba-colleges-in-delhi-2026/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">
                             <span className="font-black text-lg group-hover:text-primary transition-colors">Best MBA Colleges in Delhi 2027 →</span>
                         </Link>
                         <Link href="/blog/mba-pgdm-admissions-faq-2027-29/" className="bg-white border-4 border-foreground p-6 hover:bg-primary/5 transition-colors group block">

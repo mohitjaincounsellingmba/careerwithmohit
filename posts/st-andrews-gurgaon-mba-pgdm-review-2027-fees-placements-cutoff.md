@@ -62,7 +62,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [St. Andrews Institute of Technology & Management (SAITM Gurgaon)](https://careerwithmohit.online/blog/st-andrews-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [St. Andrews Institute of Technology & Management (SAITM Gurgaon)](/blog/st-andrews-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Prominent, highly affordable engineering and management institution located in Gurugram (Delhi NCR), accredited by **AICTE** and affiliated with **Maharshi Dayanand University (MDU Rohtak, NAAC A+)**. Offers high-value, cost-effective Master of Business Administration (MBA) education.

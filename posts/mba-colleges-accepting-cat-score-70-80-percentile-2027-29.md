@@ -134,8 +134,8 @@ WeSchool accepts profile-based applications for its innovative programs such as 
 ## 🔗 Related Resources
 *   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
 *   [Top MBA Colleges for 50-60 Percentile in CAT](/blog/top-mba-colleges-for-50-60-percentile-in-cat-2027-29/)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
-*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Score](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
+*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2026/)
 
 ---
 

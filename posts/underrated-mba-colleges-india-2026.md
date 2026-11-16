@@ -97,8 +97,8 @@ When researching underrated colleges, don't just look at the highest CTC (Cost t
 
 Broadening your college list to include these hidden gems can significantly reduce your financial burden while giving your career a massive boost.
 
-*   [Check out Top MBA Colleges under 10 Lakhs in Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission)
-*   [Explore Online MBA Options for Working Professionals](/blog/best-online-mba-colleges-working-professionals-india-2026)
+*   [Check out Top MBA Colleges under 10 Lakhs in Delhi NCR](/blog/mba-pgdm-colleges-under-10-lakhs-delhi-ncr-direct-admission/)
+*   [Explore Online MBA Options for Working Professionals](/blog/best-online-mba-colleges-working-professionals-india-2027-29/)
 
 **Need Help Shortlisting Colleges?**
 Finding the right college that fits your profile and budget can be tricky. Let our experts guide you!

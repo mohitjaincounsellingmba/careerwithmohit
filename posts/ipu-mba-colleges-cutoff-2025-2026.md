@@ -139,10 +139,10 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 ## Useful Resources
 
-- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu)
-- [All About CAT Exam 2026](/blog/all-about-cat-exam)
-- [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu/)
+- [All About CAT Exam 2026](/resources/cat/)
+- [All About CMAT Exam 2026](/resources/cmat/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

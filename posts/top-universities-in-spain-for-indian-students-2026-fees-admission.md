@@ -134,7 +134,7 @@ Spain is rapidly emerging as a **top European study destination** for Indian stu
 
 ### 🔗 Related Reads
 
-- [IESE Business School MBA Review 2027–29](/blog/iese-business-school-mba-review-2027-29/)
+- [IESE Business School MBA Review 2027–29](/blog/iese-business-school-mba-review-2026/)
 - [How to Learn Italian Language 2026](/blog/how-to-learn-italian-language-2027-29/)
 - [Global MBA Online 2027–29](/blog/global-mba-online-2026-uk-usa-india-fees-colleges/)
 

@@ -230,7 +230,7 @@ Since there's no negative marking, **mark all unattempted questions** using your
 
 👉 [Explore All SRM University Campuses & Fees](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
 
-👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2027-29/)
+👉 [Direct Admission at SRM University 2026](/blog/direct-admission-srm-university-2026/)
 
 👉 [SRM vs VIT — Which is Better for B.Tech?](/blog/srm-vs-vit-btech-comparison-2026/)
 

@@ -157,7 +157,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description,
     keywords: [...keywords, `${college.location} Colleges`, "MBA Admissions 2027", "Direct Admission India"],
     alternates: {
-      canonical: `/colleges/${slug}/`,
+      canonical: `https://careerwithmohit.online/colleges/${slug}/`,
     },
     openGraph: {
       title: `${college.name} – Fees, Placement, Admission 2027 | CareerWithMohit`,

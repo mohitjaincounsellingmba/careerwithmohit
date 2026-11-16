@@ -111,9 +111,9 @@ ISTEE is an online proctored aptitude test assessing Mathematics, Logical Reason
 ---
 
 ## 🔗 Related Engineering Guides & Comparisons:
-- [Scaler School of Technology vs Newton School of Technology: Review](/blog/scaler-vs-newton-school-of-technology-negative-review)
-- [B.Tech Colleges Under 5 Lakhs Budget in India](/blog/btech-colleges-under-5-lakhs-budget-2026)
-- [Top Computer Science Engineering Specializations & Salary Guide](/blog/btech-vs-bca-career-guide)
+- [Scaler School of Technology vs Newton School of Technology: Review](/blog/scaler-vs-newton-school-of-technology-negative-review/)
+- [B.Tech Colleges Under 5 Lakhs Budget in India](/blog/btech-colleges-under-5-lakhs-budget-2026/)
+- [Top Computer Science Engineering Specializations & Salary Guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 
 **Unsure which IST partner campus offers the best ROI?**  
 Book a personalized admissions advisory session with Mohit Jain to compare campus facilities, partner university reputations, and scholarship options.

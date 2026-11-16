@@ -71,7 +71,7 @@ Engineering students have a natural advantage when pursuing an MBA in Business A
 2.  **Familiarity with Coding:** While B.Tech involves heavy software development, Business Analytics requires scripting in Python, R, or SQL. Engineers pick these up effortlessly.
 3.  **The "Techno-Manager" Edge:** Corporates love leaders who understand both the technical backend and the business frontend. Engineers with an MBA fill this exact gap.
 
-*Read more:* [MBA after B.Tech: Is it the Best Career Move in 2026?](/blog/mba-after-btech-benefits-2026)
+*Read more:* [MBA after B.Tech: Is it the Best Career Move in 2026?](/blog/mba-after-btech-benefits-2027-29/)
 
 ---
 
@@ -97,7 +97,7 @@ One of the biggest reasons B.Tech students pivot to Business Analytics is the po
 *   **Average Starting Salary (Fresher):** ₹4 LPA - ₹10 LPA (depending on the college tier).
 *   **Growth:** Highly dependent on mastering new tech stacks every few years.
 
-*Read more:* [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide)
+*Read more:* [Guide to B.Tech Specializations, Skills, and Placements (2026)](/blog/btech-specializations-skills-salary-2026-guide/)
 
 ### After MBA in Business Analytics
 *   **Job Roles:** Data Scientist, Business Analyst, Product Manager, Management Consultant, Strategy Manager.
@@ -122,8 +122,8 @@ Choosing between staying in pure engineering or moving to Business Analytics dep
 *   You want to accelerate your way into management and leadership roles.
 
 ### Useful Resources:
-*   [Top MBA Entrance Exams for 2026 Guide](/blog/top-mba-entrance-exams-2026-guide)
-*   [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
+*   [Top MBA Entrance Exams for 2026 Guide](/blog/top-mba-entrance-exams-2026-guide/)
+*   [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2027-29/)
 
 ---
 

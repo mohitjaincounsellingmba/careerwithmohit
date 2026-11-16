@@ -123,7 +123,7 @@ Below is the historical correlation between raw scores, composite scores, and pe
 
 Depending on the mode of exam you took, check out our dedicated, step-by-step guides for checking results and scorecards:
 
-*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2027-29/)**.
+*   **Paper-Based Test (PBT) Guide:** Learn when and how to download your scorecard for the May 31 exam at **[Check MAT May 2026 PBT Score](/blog/check-may-mat-pbt-score-2026/)**.
 *   **Computer-Based Test (CBT) Guide:** Stay updated with the CBT timelines, registration deadlines, and dashboard details at **[Check MAT May 2026 CBT Score](/blog/check-may-mat-cbt-score-2027-29/)**.
 *   **Internet-Based Test (IBT) Guide:** Understand the online proctored scoring environment at **[Check MAT May 2026 IBT Score](/blog/check-may-mat-ibt-score-2027-29/)**.
 

@@ -68,7 +68,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Accurate Institute of Management & Technology (AIMT)](https://careerwithmohit.online/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Accurate Institute of Management & Technology (AIMT)](/blog/accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Prominent business and technical education institution situated across a 16-acre campus in Knowledge Park-III, Greater Noida (Delhi NCR), accredited by **AICTE** and affiliated with **AKTU Lucknow**. Offers both industry-focused PGDM and cost-effective university MBA degrees.

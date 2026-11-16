@@ -64,7 +64,7 @@ state: Delhi NCR
 
 The **21 Indian Institutes of Management (IIMs)** represent the gold standard of management education and executive hiring across the Asia-Pacific region. Despite global tech rationalization, IIM campus recruitment demonstrated formidable corporate stability.
 
-From the elite pinnacle of the **[IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2027-29/)** campuses to the rapid rise of **New and [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/)**, this audited report by Senior Higher Education Strategist **Mohit Jain** provides a consolidated analysis of average CTCs, median salary packages, sector distributions, and top recruiters across all 21 IIMs.
+From the elite pinnacle of the **[IIM BLACKI](/blog/what-is-iim-blacki-complete-guide-2026/)** campuses to the rapid rise of **New and [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/)**, this audited report by Senior Higher Education Strategist **Mohit Jain** provides a consolidated analysis of average CTCs, median salary packages, sector distributions, and top recruiters across all 21 IIMs.
 
 ---
 

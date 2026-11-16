@@ -59,7 +59,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Jaipuria School of Business (JSB Ghaziabad)](https://careerwithmohit.online/blog/jaipuria-school-of-business-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [Jaipuria School of Business (JSB Ghaziabad)](/blog/jaipuria-school-of-business-ghaziabad-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 2008 under the aegis of the 75-year-old **Seth Anandram Jaipuria Education Society**, JSB Ghaziabad operates from an expansive campus in Indirapuram. Approved by **AICTE**, the institution holds strong industry alignment across Delhi-NCR.

@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Academic Grade & CGPA/SGPA Calculators | CareerWithMohit",
   description: "Calculate CGPA to Percentage, SGPA to CGPA, and Marks/Grades to Percentages easily. Simple and accurate online academic converters.",
   alternates: {
-    canonical: "/tools/academic-calculators/",
+    canonical: "https://careerwithmohit.online/tools/academic-calculators/",
   },
   openGraph: {
     title: "Academic Grade & CGPA/SGPA Calculators",

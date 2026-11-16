@@ -7,7 +7,7 @@ export async function generateMetadata({ params }: { params: Promise<{ exam: str
     title: `${examName} Previous Year Question Papers PDF & Solutions | CareerWithMohit`,
     description: `Download official ${examName} previous year question papers with detailed answer keys and solutions. Essential practice resources for MBA and engineering aspirants.`,
     alternates: {
-      canonical: `/resources/${exam}/`,
+      canonical: `https://careerwithmohit.online/resources/${exam}/`,
     },
     openGraph: {
       title: `${examName} Previous Year Question Papers PDF & Solutions`,

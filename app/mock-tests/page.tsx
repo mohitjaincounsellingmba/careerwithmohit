@@ -295,7 +295,7 @@ export default function MockTestHubPage() {
                   Download authentic question papers with official answer keys from the last 10 years for CAT, JEE Main, XAT, and NEET.
                 </p>
                 <Link
-                  href="/previous-year-papers"
+                  href="/previous-year-papers/"
                   className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-amber-400 hover:text-amber-300 pt-2"
                 >
                   Access Free PYQ Papers <ArrowRight className="w-3.5 h-3.5" />

@@ -62,7 +62,7 @@ location: Pune
 state: Maharashtra
 ---
 
-## [SIIB Pune](https://careerwithmohit.online/blog/siib-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [SIIB Pune](/blog/siib-pune-mba-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier constituent institute of Symbiosis International (Deemed University) located inside the Hinjawadi InfoTech Park in Pune, established in 1992 to pioneer specialized postgraduate education in International Business (IB), Agri-Business Management (AB), and Energy & Environment (E&E).

@@ -147,8 +147,8 @@ Known for its industry-ready curriculum and placement drives.
 
 ### 🔗 Related Reading
 *   [Top 14+ GGSIPU MBA Colleges Directory](/blog/ipu-cet-mba-colleges-ggsipu/)
-*   [IPU MBA Cut-offs 2027–29-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2027-29/)
-*   [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+*   [IPU MBA Cut-offs 2027–29-2026 Detail Guide](/blog/ipu-mba-colleges-cutoff-2025-2026/)
+*   [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 
 > **Still confused about which IPU college fits your rank?**
 > Don't make a decision based on brochures. Get an expert opinion.

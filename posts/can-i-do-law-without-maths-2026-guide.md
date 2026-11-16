@@ -120,7 +120,7 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2027-29/)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
 - [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
 - [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide/)
 

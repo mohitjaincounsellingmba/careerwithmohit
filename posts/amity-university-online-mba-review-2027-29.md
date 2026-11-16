@@ -154,7 +154,7 @@ Amity Online provides **placement assistance** — not guaranteed placements. He
 - **Working professionals (3+ years exp.):** Expect a **20–35% hike** in CTC after completion.
 - **Freshers:** Starting salaries typically range from **₹4.5 – ₹7 LPA**.
 
-> ⚠️ **Important:** If you are a fresher expecting a ₹15 LPA campus offer, an online MBA is not the right choice. Consider a [full-time PGDM in Delhi](/blog/best-mba-colleges-in-delhi-2027-29/) or a [direct admission MBA in Mumbai](/blog/best-mba-colleges-in-mumbai-2027-29/) instead.
+> ⚠️ **Important:** If you are a fresher expecting a ₹15 LPA campus offer, an online MBA is not the right choice. Consider a [full-time PGDM in Delhi](/blog/best-mba-colleges-in-delhi-2026/) or a [direct admission MBA in Mumbai](/blog/best-mba-colleges-in-mumbai-2027-29/) instead.
 
 ---
 
@@ -195,8 +195,8 @@ The Online MBA uses a live LMS with real-time classes, while Distance MBA was an
 | **Amity Online** | A+ | ₹1,99,000 | Strong |
 | [NMIMS Online](/blog/nmims-online-mba-review-2027-29/) | A++ | ₹2,10,000 | Strong |
 | [LPU Online](/blog/lpu-online-review-2027-29/) | A++ | ₹1,61,600 | Good |
-| [Chandigarh University Online](/blog/chandigarh-university-online-mba-review-2027-29/) | A+ | ₹1,65,000 | Good |
-| [Jain University Online](/blog/jain-university-online-mba-review-2027-29/) | A++ | ₹1,60,000+ | Moderate |
+| [Chandigarh University Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | Good |
+| [Jain University Online](/blog/jain-university-online-mba-review-2026/) | A++ | ₹1,60,000+ | Moderate |
 
 ---
 

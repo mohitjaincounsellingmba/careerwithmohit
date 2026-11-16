@@ -78,8 +78,8 @@ With a placement rate of around 80%, the Training and Placement Cell is highly a
 *   **Top Companies**: Major recruiters include Infosys, Accenture, TCS, HDFC Bank, and core sector companies like Oil India.
 
 ## Check Other University Reviews:
-*   [Mizoram University Review 2026](/blog/mizoram-university-mzu-review-2026)
-*   [Top B.Tech Colleges in North East](/blog/top-btech-colleges-north-east)
+*   [Mizoram University Review 2026](/blog/mizoram-university-mzu-review-2026/)
+*   [Top B.Tech Colleges in North East](/blog/top-10-engineering-colleges-india-2026/)
 
 [👉 Get Admission Consultation for Tezpur University!](/inquiry)
 

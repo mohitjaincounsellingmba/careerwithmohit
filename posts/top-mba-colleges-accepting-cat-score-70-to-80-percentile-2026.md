@@ -127,9 +127,9 @@ Most close by **mid-January**. It is better to apply *before* the CAT result is 
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026)
-- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr)
-- [Top MBA Colleges in Bangalore 2026](/blog/top-mba-colleges-bangalore-2026)
+- [Best MBA Colleges with Low Fees & High ROI 2026](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [MBA Colleges Under 10 Lakhs NCR Guide](/blog/private-mba-colleges-under-10-lakhs-delhi-ncr/)
+- [Top MBA Colleges in Bangalore 2026](/blog/top-mba-colleges-bangalore-2026/)
 
 ---
 

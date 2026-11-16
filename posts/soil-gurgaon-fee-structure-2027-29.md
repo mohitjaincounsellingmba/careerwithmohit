@@ -282,7 +282,7 @@ When planning your management budget at SOIL, keep these non-tuition expenses in
 *   [USP of SOIL Institute of Management: 10 Reasons Why It Stands Out](/blog/usp-of-soil-gurgaon-pgdm-2027-29/)
 *   [Top Tier MBA Colleges 2027–29–2027: Compare Fees, Placements & Cutoffs](/top-tier-mba-colleges/)
 *   [MBA & PGDM Direct Admission 2027: Complete Eligibility Guide](/mba-pgdm-admission-2027/)
-*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2027-29/)
+*   [Top MBA Colleges in Delhi NCR Accepting CAT Scores](/blog/top-mba-colleges-in-delhi-ncr-accepting-cat-score-2026/)
 
 [InquiryCard title="Get Fee Assistance & Scholarship Counseling for SOIL Gurgaon" subtitle="Verify your scholarship eligibility, calculate exact fee installments, and get connected with banking loan officers." ctaText="Check Scholarship Eligibility / Apply Now"]
 

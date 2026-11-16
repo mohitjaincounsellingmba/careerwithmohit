@@ -218,7 +218,7 @@ Simply fill out the inquiry form on our website or [WhatsApp us directly](https:
 
 **Explore more resources:**
 - [MBA vs PGDM 2027–29: The Ultimate Guide](/blog/mba-vs-pgdm-2026-ultimate-guide/)
-- [Best MBA Colleges in Delhi 2027–29: Fees & Placements](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Best MBA Colleges in Delhi 2027–29: Fees & Placements](/blog/best-mba-colleges-in-delhi-2026/)
 - [Direct MBA Admission Guide India 2027–29](/blog/direct-mba-admission-india/)
 - [Top MBA Entrance Exams 2027–29 Guide](/blog/top-mba-entrance-exams-2026-guide/)
 

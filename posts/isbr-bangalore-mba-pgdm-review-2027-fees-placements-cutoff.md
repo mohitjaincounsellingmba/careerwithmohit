@@ -62,7 +62,7 @@ location: Bangalore
 state: Karnataka
 ---
 
-## [International School of Business & Research (ISBR Bangalore)](https://careerwithmohit.online/blog/isbr-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [International School of Business & Research (ISBR Bangalore)](/blog/isbr-bangalore-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier corporate-oriented business school situated in Electronic City Phase 1, Bangalore, Karnataka. Accredited by **NBA** and approved by **AICTE**, ISBR operates directly inside India’s premier technology park adjacent to Infosys, Wipro, Siemens, and HP.

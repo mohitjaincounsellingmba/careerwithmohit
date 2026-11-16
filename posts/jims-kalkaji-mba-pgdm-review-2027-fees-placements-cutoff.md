@@ -60,7 +60,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [JIMS Kalkaji (Jagannath International Management School)](https://careerwithmohit.online/blog/jims-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & South Delhi Advantage
+## [JIMS Kalkaji (Jagannath International Management School)](/blog/jims-kalkaji-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & South Delhi Advantage
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Accreditations**: Established in 1997 under the Jagannath Gupta Memorial Educational Society, JIMS Kalkaji is a prominent private management institution in South Delhi. Approved by **AICTE**, accredited by **NBA**, granted **AIU MBA equivalence**, and accredited by **NAAC**.

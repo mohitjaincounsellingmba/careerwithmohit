@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         "degree admission 2027"
     ],
     alternates: {
-        canonical: "/tools/mat-college-predictor/",
+        canonical: "https://careerwithmohit.online/tools/mat-college-predictor/",
     },
     openGraph: {
         title: "MAT College Predictor 2027 | Predict Your B-School",

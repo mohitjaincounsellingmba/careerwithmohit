@@ -128,7 +128,7 @@ FOSTIIMA operates on a transparent bi-annual fee structure across the two-year p
 - **The Metro Advantage**: Situated close to **Dwarka Sector 9 Metro Station (Blue Line)**, students residing across Delhi, Gurgaon, and Noida can commute daily, saving roughly **₹1,20,000 to ₹1,40,000 annually** on rent and dining.
 - **Outstation Student Housing**: FOSTIIMA coordinates with verified private student hostels and apartments in Dwarka Sectors 7, 8, 9, and 10 with air conditioning, Wi-Fi, and meals ranging from **₹10,000 to ₹13,000 per month**.
 
-For regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+For regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 

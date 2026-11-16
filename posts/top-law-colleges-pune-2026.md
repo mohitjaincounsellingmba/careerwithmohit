@@ -118,9 +118,9 @@ The 5-year CET is usually in **May**, and the 3-year CET is in **June**.
 ---
 
 ### Useful Links:
-- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026)
-- [MBA Colleges in Pune 2026](/blog/top-mba-colleges-pune)
-- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
+- [Top Private Law Colleges in India 2026](/blog/top-private-llb-colleges-india-2026/)
+- [MBA Colleges in Pune 2026](/colleges/mba-colleges-pune/)
+- [B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
 
 ---
 

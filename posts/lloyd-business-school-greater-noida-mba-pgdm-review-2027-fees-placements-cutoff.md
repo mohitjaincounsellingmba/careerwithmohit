@@ -60,7 +60,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Lloyd Business School Greater Noida](https://careerwithmohit.online/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
+## [Lloyd Business School Greater Noida](/blog/lloyd-business-school-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Industry Collaboration Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 2008 in the educational corridor of Knowledge Park II, Greater Noida. Approved by **AICTE**, [Lloyd Business School](/colleges/lloyd-business-school-greater-noida) operates both university-affiliated **AKTU MBA** and autonomous **PGDM** programs co-designed with industry partners.

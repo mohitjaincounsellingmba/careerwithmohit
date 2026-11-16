@@ -116,9 +116,9 @@ Top students in colleges like **Bennett or Jain** have cleared ₹12L-₹15L pac
 ---
 
 ### Useful Links:
-- [Top BCA Colleges in India 2026 NIRF Guide](/blog/top-bca-colleges-india-nirf-ranking-2026)
-- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
-- [BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-bangalore-2026)
+- [Top BCA Colleges in India 2026 NIRF Guide](/blog/top-bca-colleges-india-nirf-ranking-2026/)
+- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+- [BCA Colleges in Bangalore 2026](/blog/top-bca-colleges-india-nirf-ranking-2026/)
 
 ---
 

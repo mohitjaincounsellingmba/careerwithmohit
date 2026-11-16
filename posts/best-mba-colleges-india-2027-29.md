@@ -151,9 +151,9 @@ If you scored between 70 to 90 percentile in CAT, XAT, or CMAT, you still have e
 
 Depending on your preferred location, we have curated specific lists for the top corporate hubs:
 
-- 📍 [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- 📍 [Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 - 📍 [Best MBA Colleges in Pune 2027–29](/blog/best-mba-colleges-in-pune-2027-29/)
-- 📍 [Best MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2027-29/)
+- 📍 [Best MBA Colleges in Bangalore 2027–29](/blog/best-mba-colleges-in-bangalore-2026/)
 - 📍 [Best MBA Colleges in Mumbai 2027–29](/blog/best-mba-colleges-in-mumbai-2027-29/)
 
 ---

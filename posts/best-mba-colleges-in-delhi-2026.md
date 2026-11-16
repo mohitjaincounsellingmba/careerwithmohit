@@ -188,7 +188,7 @@ Ideal for students with moderate entrance scores looking for solid placement sta
 - **Fees:** ₹3.27 Lakhs
 - **Average Placement:** ₹7.50 LPA
 - **Entrance Exam:** IPU CET, CAT, CMAT
-- **USP:** [MERI Janakpuri MBA Review 2026](/blog/meri-janakpuri-mba-review-2026) - Best ROI college in West Delhi with NAAC A+ grade.
+- **USP:** [MERI Janakpuri MBA Review 2026](/blog/meri-janakpuri-mba-review-2026/) - Best ROI college in West Delhi with NAAC A+ grade.
 
 ---
 

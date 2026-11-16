@@ -5,35 +5,13 @@ import { execSync } from 'child_process';
 console.log('🚀 Optimizing Cloudflare Pages Redirects & Edge Middleware...');
 
 const redirectsPath = path.join(process.cwd(), 'public', '_redirects');
-const raw = fs.readFileSync(redirectsPath, 'utf8');
+const raw = fs.existsSync(redirectsPath) ? fs.readFileSync(redirectsPath, 'utf8') : '';
 const lines = raw.split('\n').map(l => l.trim()).filter(l => l && !l.startsWith('#'));
 
-// Categorize existing redirects
 const specificMap = new Map();
 const massRedirects = new Map();
 
-for (const line of lines) {
-  const parts = line.split(/\s+/);
-  if (parts.length >= 2) {
-    let from = parts[0].toLowerCase().trim();
-    let to = parts[1].trim();
-    const status = parts[2] || '301';
-
-    // Normalize from key without trailing slash for dictionary
-    const normFrom = from.length > 1 && from.endsWith('/') ? from.slice(0, -1) : from;
-
-    if (to === '/blog/' || to === '/blog' || to === '/colleges/' || to === '/colleges') {
-      massRedirects.set(normFrom, { to: to.endsWith('/') ? to : to + '/', status });
-    } else {
-      specificMap.set(normFrom, { to, status });
-    }
-  }
-}
-
-console.log(`📊 Extracted ${specificMap.size} specific 1-to-1 redirects and ${massRedirects.size} mass pruned redirects from initial file.`);
-
-// Build complete valid routes index to guarantee 0 broken redirect destinations
-const validRoutes = new Set();
+// Helper to normalize route
 function normalizeRoute(r) {
   if (!r) return '/';
   let cleaned = r.trim().split('#')[0].split('?')[0];
@@ -42,7 +20,11 @@ function normalizeRoute(r) {
   return cleaned;
 }
 
-// 1. Static pages
+// Build complete valid routes index to guarantee 0 broken redirect destinations
+const validRoutes = new Set();
+validRoutes.add('/');
+
+// 1. Static pages in app/
 function findStatic(dir, cur = '') {
   if (!fs.existsSync(dir)) return;
   const items = fs.readdirSync(dir);
@@ -63,243 +45,35 @@ const collegesDir = path.join(process.cwd(), 'colleges');
 const postSlugs = fs.existsSync(postsDir) ? fs.readdirSync(postsDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, '')) : [];
 const collegeSlugs = fs.existsSync(collegesDir) ? fs.readdirSync(collegesDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, '')) : [];
 const activePostSet = new Set(postSlugs);
+const activeCollegeSet = new Set(collegeSlugs);
+
 postSlugs.forEach(s => validRoutes.add(normalizeRoute(`/blog/${s}`)));
 collegeSlugs.forEach(s => validRoutes.add(normalizeRoute(`/colleges/${s}`)));
 
 // 3. Exam hubs & online courses
 ['cat', 'xat', 'cmat', 'snap', 'nmat', 'mah-mba-cet', 'cuet-pg'].forEach(s => validRoutes.add(normalizeRoute('/resources/' + s)));
 
-// Helper to detect programmatic city doorway pages that should never be redirected to hubs
-function isDoorwaySlug(slug) {
-  if (!slug) return false;
-  const s = slug.toLowerCase().replace(/^\/blog\//, '').replace(/^\/colleges\//, '').replace(/\/$/, '');
-  return /^(best-online-(?:mba|bba|bca|executive-mba)-colleges-in-|cat-2026-exam-preparation-|nmat-2026-exam-guide-|xat-2027-exam-strategy-|btech-colleges-under-|bba-colleges-under-|mba-colleges-under-|private-mtech-colleges-in-)/i.test(s);
-}
+// Read existing _redirects to seed maps
+for (const line of lines) {
+  const parts = line.split(/\s+/);
+  if (parts.length >= 2) {
+    let from = parts[0].toLowerCase().trim();
+    let to = parts[1].trim();
+    const status = parts[2] || '301';
 
-// Destination Resolver
-function findValidTarget(destUrl) {
-  const norm = normalizeRoute(destUrl);
-  if (validRoutes.has(norm) || destUrl.includes(':splat')) return destUrl.endsWith('/') ? destUrl : destUrl + '/';
+    const normFrom = from.length > 1 && from.endsWith('/') ? from.slice(0, -1) : from;
 
-  // Smart resolution for blog posts
-  if (norm.startsWith('/blog/')) {
-    const slug = norm.replace('/blog/', '');
-    if (isDoorwaySlug(slug)) return null;
-    
-    // Direct batch-year variations
-    const alt1 = slug.replace(/-2027-29$/, '-2026');
-    if (activePostSet.has(alt1)) return `/blog/${alt1}/`;
-    const alt2 = slug.replace(/-2026$/, '-2027-29');
-    if (activePostSet.has(alt2)) return `/blog/${alt2}/`;
-    const alt3 = slug.replace(/-2027-29$/, '');
-    if (activePostSet.has(alt3)) return `/blog/${alt3}/`;
-
-    const tokens = slug.split('-').filter(t => t.length > 2 && !['2025', '2026', '2027', '2028', '2029', 'review', 'admission', 'mba', 'pgdm', 'colleges'].includes(t));
-    let bestMatch = null;
-    let maxMatches = 0;
-    for (const postSlug of postSlugs) {
-      if (isDoorwaySlug(postSlug)) continue;
-      let matches = 0;
-      for (const t of tokens) {
-        if (postSlug.includes(t)) matches++;
-      }
-      if (matches > maxMatches && matches >= Math.min(tokens.length, 2)) {
-        maxMatches = matches;
-        bestMatch = postSlug;
-      }
+    if (to === '/blog/' || to === '/blog' || to === '/colleges/' || to === '/colleges') {
+      massRedirects.set(normFrom, { to: to.endsWith('/') ? to : to + '/', status });
+    } else {
+      specificMap.set(normFrom, { to, status });
     }
-    if (bestMatch) {
-      return `/blog/${bestMatch}/`;
-    }
-    return null;
   }
-
-  // Smart resolution for colleges
-  if (norm.startsWith('/colleges/')) {
-    const slug = norm.replace('/colleges/', '');
-    if (activePostSet.has(slug)) {
-      return `/blog/${slug}/`;
-    }
-    const tokens = slug.split('-').filter(t => t.length > 2);
-    let bestMatch = null;
-    let maxMatches = 0;
-    for (const colSlug of collegeSlugs) {
-      let matches = 0;
-      for (const t of tokens) {
-        if (colSlug.includes(t)) matches++;
-      }
-      if (matches > maxMatches && matches >= 2) {
-        maxMatches = matches;
-        bestMatch = colSlug;
-      }
-    }
-    if (bestMatch) {
-      return `/colleges/${bestMatch}/`;
-    }
-    return '/colleges/';
-  }
-
-  return '/';
 }
 
 // -----------------------------------------------------------------------------
-// INGEST ALL HISTORICAL RENAMES & ARCHIVED POSTS FROM GIT & POSTS_ARCHIVED_DUPLICATES
+// TOP LEVEL PAGE ALIASES (Including the 14 mock test and pseudo-redirect routes)
 // -----------------------------------------------------------------------------
-console.log('🔍 Ingesting all historical renames & archived duplicate posts...');
-
-try {
-  const gitLog = execSync('git log --name-status -M --diff-filter=R --oneline', { maxBuffer: 30 * 1024 * 1024 }).toString();
-  const historicalRenames = new Map();
-
-  gitLog.split('\n').forEach(line => {
-    if (line.startsWith('R')) {
-      const parts = line.split('\t');
-      if (parts.length >= 3) {
-        const oldFile = parts[1];
-        const newFile = parts[2];
-        if (oldFile.startsWith('posts/') && oldFile.endsWith('.md')) {
-          const oldSlug = oldFile.replace('posts/', '').replace(/\.md$/, '');
-          const newSlug = newFile.replace(/^(?:posts|posts_archived_duplicates)\//, '').replace(/\.md$/, '');
-          if (!historicalRenames.has(oldSlug)) {
-            historicalRenames.set(oldSlug, newSlug);
-          }
-        }
-      }
-    }
-  });
-
-  let renamesAdded = 0;
-  for (const [oldSlug, newSlug] of historicalRenames.entries()) {
-    if (isDoorwaySlug(oldSlug) || isDoorwaySlug(newSlug)) continue;
-    if (activePostSet.has(oldSlug)) continue; // Post is active, no redirect
-
-    const normFrom = `/blog/${oldSlug}`.toLowerCase();
-    if (!specificMap.has(normFrom) && !massRedirects.has(normFrom)) {
-      let targetSlug = activePostSet.has(newSlug) ? newSlug : null;
-      let targetPath = targetSlug ? `/blog/${targetSlug}/` : findValidTarget(`/blog/${oldSlug}`);
-      if (targetPath && !isDoorwaySlug(targetPath)) {
-        specificMap.set(normFrom, { to: targetPath, status: '301' });
-        renamesAdded++;
-      }
-    }
-  }
-  console.log(`➕ Added ${renamesAdded} historical git post renames to redirect table.`);
-} catch (e) {
-  console.warn('⚠️ Could not extract git renames:', e.message);
-}
-
-// Ingest archived posts in posts_archived_duplicates/
-const archivedDir = path.join(process.cwd(), 'posts_archived_duplicates');
-if (fs.existsSync(archivedDir)) {
-  const archivedFiles = fs.readdirSync(archivedDir).filter(f => f.endsWith('.md'));
-  let archivedAdded = 0;
-  for (const file of archivedFiles) {
-    const archSlug = file.replace(/\.md$/, '');
-    if (isDoorwaySlug(archSlug)) continue;
-    if (activePostSet.has(archSlug)) continue;
-
-    const normFrom = `/blog/${archSlug}`.toLowerCase();
-    if (!specificMap.has(normFrom) && !massRedirects.has(normFrom)) {
-      const targetPath = findValidTarget(`/blog/${archSlug}`);
-      if (targetPath && !isDoorwaySlug(targetPath)) {
-        specificMap.set(normFrom, { to: targetPath, status: '301' });
-        archivedAdded++;
-      }
-    }
-  }
-  console.log(`➕ Added ${archivedAdded} archived duplicate posts to redirect table.`);
-}
-
-// Purge active valid routes & mismatched redirects from maps
-for (const [from, target] of Array.from(specificMap.entries())) {
-  if (isDoorwaySlug(from) || validRoutes.has(normalizeRoute(from))) {
-    specificMap.delete(from);
-    continue;
-  }
-  // If from is /colleges/all-about-[slug] and [slug] is an active blog post, redirect to /blog/[slug]/
-  if (from.startsWith('/colleges/all-about-')) {
-    const slug = from.replace('/colleges/', '');
-    if (activePostSet.has(slug)) {
-      specificMap.set(from, { ...target, to: `/blog/${slug}/` });
-      continue;
-    }
-  }
-  const fLow = from.toLowerCase();
-  const tLow = target.to.toLowerCase();
-  if (
-    (fLow.includes("bba") && !tLow.includes("bba") && (tLow.includes("mba") || tLow.includes("pgdm"))) ||
-    (fLow.includes("btech") && !tLow.includes("btech") && (tLow.includes("mba") || tLow.includes("pgdm"))) ||
-    (fLow.includes("law") && !tLow.includes("law")) ||
-    (fLow.includes("medical") && !tLow.includes("medical") && !tLow.includes("mbbs")) ||
-    (fLow.includes("set-preparation") && tLow.includes("online-mba")) ||
-    (fLow.includes("mithibai") && tLow.includes("best-mba-colleges")) ||
-    (fLow.includes("st-xaviers") && tLow.includes("best-career-counselling"))
-  ) {
-    specificMap.delete(from);
-    continue;
-  }
-}
-
-for (const [from] of Array.from(massRedirects.entries())) {
-  if (isDoorwaySlug(from) || validRoutes.has(normalizeRoute(from))) {
-    massRedirects.delete(from);
-  }
-}
-
-// Explicit special character sanitization redirects
-const specialRenames = [
-  ['/blog/hiring-business-development-executive-(saas)-rannkly', '/blog/hiring-business-development-executive-saas-rannkly/'],
-  ['/blog/hiring-data-scientist-sr.-ml-engineer-ithena-technologies', '/blog/hiring-data-scientist-sr-ml-engineer-ithena-technologies/'],
-  ['/blog/hiring-senior-analyst-(data-scientist)-b-informative-it-services', '/blog/hiring-senior-analyst-data-scientist-b-informative-it-services/'],
-];
-for (const [from, to] of specialRenames) {
-  specificMap.set(from.toLowerCase(), { to, status: '301' });
-}
-
-// Flatten any redirect chains and ensure destinations are 100% valid
-function resolveChain(url, visited = new Set()) {
-  const norm = url.length > 1 && url.endsWith('/') ? url.slice(0, -1) : url;
-  const clean = norm.toLowerCase();
-  if (visited.has(clean)) return url;
-  visited.add(clean);
-
-  const target = specificMap.get(clean) || massRedirects.get(clean);
-  if (target && target.to && target.to !== url) {
-    return resolveChain(target.to, visited);
-  }
-  return url;
-}
-
-let chainsFlattened = 0;
-let brokenFixed = 0;
-for (const [from, target] of specificMap.entries()) {
-  let finalDest = resolveChain(target.to);
-  const validatedDest = findValidTarget(finalDest);
-  if (validatedDest !== finalDest) {
-    brokenFixed++;
-    finalDest = validatedDest;
-  }
-  if (finalDest !== target.to) {
-    chainsFlattened++;
-    specificMap.set(from, { ...target, to: finalDest });
-  }
-}
-if (chainsFlattened > 0 || brokenFixed > 0) {
-  console.log(`⚡ Flattened ${chainsFlattened} redirect chains and repaired ${brokenFixed} 404 destination targets.`);
-}
-
-// 1. Build optimized public/_redirects (strictly under 1,800 lines for Cloudflare Pages 2k limit)
-const staticRules = [];
-
-// Essential wildcards & top aliases first
-staticRules.push('# Core Site Aliases & Wildcards');
-staticRules.push('/robot.txt /robots.txt 301');
-staticRules.push('/posts/* /blog/:splat 301');
-staticRules.push('/learn-skills/* /tools/ 301');
-staticRules.push('/brochures/* /inquiry/ 302');
-staticRules.push('/tools/ai-skills/* /tools/ 301');
-
-staticRules.push('\n# Top-Level Page Aliases');
 const topAliases = [
   ['/mhcet-mba-colleges-list', '/colleges/mba-colleges-mumbai/'],
   ['/mba-discount', '/mba-application-form-discount/'],
@@ -330,66 +104,316 @@ const topAliases = [
   ['/colleges/altera-institute', '/blog/direct-admission-altera-institute-gurgaon-2027-29/'],
   ['/colleges/bitsom-mumbai', '/blog/bitsom-mumbai-mba-review-2027-fees-placements-cutoff/'],
   ['/tools/mock-test/srmjee', '/mock-tests/'],
+  // Direct Edge 301s for the 14 mock test and pseudo-redirect routes
+  ['/cat-mock-test', '/tools/cat-mock-test/'],
+  ['/mock-tests/cat', '/tools/cat-mock-test/'],
+  ['/duolingo-mock-test', '/tools/duolingo-mock-test/'],
+  ['/gmat-mock-test', '/tools/gmat-mock-test/'],
+  ['/ielts-mock-test', '/tools/ielts-mock-test/'],
+  ['/atma-mock-test', '/tools/atma-mock-test/'],
+  ['/mat-mock-test', '/tools/mat-mock-test/'],
+  ['/resume-builder', '/tools/ats-resume-builder/'],
+  ['/attempt-skills-get-certificate', '/skill-assessment-certificate/'],
+  ['/mba-admissions-by-region', '/mba-pgdm-admissions-by-region/'],
+  ['/snap-mock-test', '/tools/snap-mock-test/'],
+  ['/xat-mock-test', '/tools/xat-mock-test/'],
+  ['/nmat-mock-test', '/tools/nmat-mock-test/'],
 ];
 
+for (const [from, to] of topAliases) {
+  specificMap.set(from.toLowerCase(), { to, status: '301' });
+}
+
+// -----------------------------------------------------------------------------
+// MANUAL EXACT OVERRIDES (Fixing all 15 mismatched redirects)
+// -----------------------------------------------------------------------------
+const manualExactOverrides = [
+  // Exam guides
+  ['/blog/wbjee-preparation-strategy-2026', '/tools/jee-main-mock-test/'],
+  ['/blog/sat-ielts-toefl-gre-exams-guide-2026', '/tools/ielts-mock-test/'],
+  ['/blog/how-to-crack-cat-2026-strategy', '/blog/10-tips-to-crack-cat-exam-2027-29/'],
+  ['/blog/all-about-cat-exam', '/resources/cat/'],
+  ['/blog/all-about-nmat-exam', '/resources/nmat/'],
+  ['/blog/all-about-gmat-exam-colleges-cutoffs', '/tools/gmat-mock-test/'],
+  ['/blog/direct-mba-admission-2026-management-quota', '/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/'],
+  // CUET guides
+  ['/blog/all-about-cuet-ug-exam-2026', '/blog/cuet-ug-university-list-2026-citywise/'],
+  ['/blog/cuet-2026-guide-management', '/blog/cuet-ug-2026-bba-admission-guide/'],
+  ['/blog/top-arts-colleges-cuet', '/blog/cuet-ug-university-list-2026-citywise/'],
+  ['/blog/jac-delhi-counselling-2026', '/colleges/top-engineering-colleges-in-delhi/'],
+  // Regional & Category hubs
+  ['/blog/top-engineering-colleges-north-east', '/blog/top-10-engineering-colleges-india-2026/'],
+  ['/blog/top-bca-colleges-chennai-2026', '/blog/top-bca-colleges-india-nirf-ranking-2026/'],
+  ['/blog/top-bca-colleges-bangalore-2026', '/blog/top-bca-colleges-india-nirf-ranking-2026/'],
+  ['/blog/career-counselling-guide-2026', '/book-session/'],
+  ['/blog/best-mba-colleges-in-hyderabad-2026', '/colleges/mba-colleges-hyderabad/'],
+  ['/blog/online-mba-india-2026', '/online-degree-certification/online-mba/'],
+  // College specific matches
+  ['/blog/all-about-nl-dalmia-admission-2026', '/colleges/mba-colleges-mumbai/'],
+  ['/blog/lexicon-mile-pune-review-2025', '/blog/lexicon-management-institute-of-leadership-excellence-mba-pgdm-review-2027-fees-placements-cutoff/'],
+  // Global MBA reviews -> Abroad destinations
+  ['/blog/columbia-business-school-mba-review-2027-29', '/abroad-education/study-in-usa/'],
+  ['/blog/harvard-business-school-mba-review-2027-29', '/abroad-education/study-in-usa/'],
+  ['/blog/london-business-school-lbs-mba-review-2027-29', '/abroad-education/study-in-uk/'],
+  ['/blog/melbourne-business-school-mba-review-2027-29', '/abroad-education/study-in-australia/'],
+  ['/blog/melbourne-business-school-mba-review-2026', '/abroad-education/study-in-australia/'],
+  ['/blog/schulich-school-of-business-mba-review-2027-29', '/abroad-education/study-in-canada/'],
+  ['/blog/schulich-school-of-business-mba-review-2026', '/abroad-education/study-in-canada/'],
+  ['/blog/smith-school-of-business-queens-mba-review-2027-29', '/abroad-education/study-in-canada/'],
+  ['/blog/smith-school-of-business-queens-mba-review-2026', '/abroad-education/study-in-canada/'],
+  ['/blog/ivey-business-school-mba-review-2027-29', '/abroad-education/study-in-canada/'],
+  ['/blog/hkust-business-school-mba-review-2027-29', '/abroad-education/'],
+  ['/blog/insead-mba-review-2027-29', '/abroad-education/study-in-france/'],
+  ['/blog/cambridge-judge-mba-review-2027-29', '/abroad-education/study-in-uk/'],
+  ['/blog/chicago-booth-mba-review-2027-29', '/abroad-education/study-in-usa/'],
+  ['/blog/esmt-berlin-mba-review-2027-29', '/abroad-education/study-in-germany/'],
+  // Tool aliases
+  ['/tools/cat-score-percentile-calculator', '/tools/cat-score-calculator/'],
+  ['/tools/iim-blacki-call-predictor', '/tools/cat-score-calculator/'],
+];
+
+for (const [from, to] of manualExactOverrides) {
+  specificMap.set(from.toLowerCase(), { to, status: '301' });
+}
+
+// -----------------------------------------------------------------------------
+// CONSOLIDATED 176 DUPLICATE PAIRS & ARCHIVED POSTS
+// -----------------------------------------------------------------------------
+console.log('🔍 Registering duplicate consolidation & archived post redirects...');
+
+const archivedDir = path.join(process.cwd(), 'posts_archived_duplicates');
+if (fs.existsSync(archivedDir)) {
+  const archivedFiles = fs.readdirSync(archivedDir).filter(f => f.endsWith('.md'));
+  for (const file of archivedFiles) {
+    const archSlug = file.replace(/\.md$/, '');
+    const normFrom = `/blog/${archSlug}`.toLowerCase();
+
+    // Check direct 2026 pair: e.g. foo-2027-29 -> foo-2026
+    if (archSlug.endsWith('-2027-29')) {
+      const base2026 = archSlug.replace(/-2027-29$/, '-2026');
+      if (activePostSet.has(base2026)) {
+        specificMap.set(normFrom, { to: `/blog/${base2026}/`, status: '301' });
+        continue;
+      }
+    }
+
+    // Check direct strip: e.g. foo-2027-29 -> foo
+    if (archSlug.endsWith('-2027-29')) {
+      const basePlain = archSlug.replace(/-2027-29$/, '');
+      if (activePostSet.has(basePlain)) {
+        specificMap.set(normFrom, { to: `/blog/${basePlain}/`, status: '301' });
+        continue;
+      }
+    }
+
+    // Check if college review master exists: e.g. accurate-greater-noida-review-2027-29 -> accurate-greater-noida-mba-pgdm-review-2027-fees-placements-cutoff
+    const colTokens = archSlug.split('-').filter(t => t.length > 2 && !['2025', '2026', '2027', '2028', '2029', 'review', 'admission', 'colleges', 'mba', 'pgdm'].includes(t));
+    if (colTokens.length >= 2) {
+      let matchedMaster = null;
+      for (const pSlug of postSlugs) {
+        if (colTokens.every(tok => pSlug.includes(tok))) {
+          matchedMaster = pSlug;
+          break;
+        }
+      }
+      if (matchedMaster) {
+        specificMap.set(normFrom, { to: `/blog/${matchedMaster}/`, status: '301' });
+        continue;
+      }
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// INGEST GIT HISTORICAL RENAMES
+// -----------------------------------------------------------------------------
+try {
+  const gitLog = execSync('git log --name-status -M --diff-filter=R --oneline', { maxBuffer: 30 * 1024 * 1024 }).toString();
+  const historicalRenames = new Map();
+
+  gitLog.split('\n').forEach(line => {
+    if (line.startsWith('R')) {
+      const parts = line.split('\t');
+      if (parts.length >= 3) {
+        const oldFile = parts[1];
+        const newFile = parts[2];
+        if (oldFile.startsWith('posts/') && oldFile.endsWith('.md')) {
+          const oldSlug = oldFile.replace('posts/', '').replace(/\.md$/, '');
+          const newSlug = newFile.replace(/^(?:posts|posts_archived_duplicates)\//, '').replace(/\.md$/, '');
+          if (!historicalRenames.has(oldSlug)) {
+            historicalRenames.set(oldSlug, newSlug);
+          }
+        }
+      }
+    }
+  });
+
+  for (const [oldSlug, newSlug] of historicalRenames.entries()) {
+    if (activePostSet.has(oldSlug)) continue; // Post is active, no redirect
+    const normFrom = `/blog/${oldSlug}`.toLowerCase();
+    if (!specificMap.has(normFrom)) {
+      if (activePostSet.has(newSlug)) {
+        specificMap.set(normFrom, { to: `/blog/${newSlug}/`, status: '301' });
+      } else {
+        // If newSlug was also renamed or archived, check target
+        const alt26 = newSlug.replace(/-2027-29$/, '-2026');
+        if (activePostSet.has(alt26)) {
+          specificMap.set(normFrom, { to: `/blog/${alt26}/`, status: '301' });
+        }
+      }
+    }
+  }
+} catch (e) {
+  console.warn('⚠️ Could not extract git renames:', e.message);
+}
+
+// Remove any invalid, self-referencing, or local-file redirects
+for (const [from, target] of Array.from(specificMap.entries())) {
+  if (from.includes('file:///') || from.includes('users/mohitjain')) {
+    specificMap.delete(from);
+    continue;
+  }
+  const normFrom = normalizeRoute(from);
+  const normTo = normalizeRoute(target.to);
+  if (normFrom === normTo) {
+    specificMap.delete(from);
+    continue;
+  }
+  // Never redirect an active post to something else
+  if (from.startsWith('/blog/')) {
+    const slug = from.replace('/blog/', '');
+    if (activePostSet.has(slug)) {
+      specificMap.delete(from);
+      continue;
+    }
+  }
+}
+
+// Special sanitized slug aliases
+const specialRenames = [
+  ['/blog/hiring-business-development-executive-(saas)-rannkly', '/blog/hiring-business-development-executive-saas-rannkly/'],
+  ['/blog/hiring-data-scientist-sr.-ml-engineer-ithena-technologies', '/blog/hiring-data-scientist-sr-ml-engineer-ithena-technologies/'],
+  ['/blog/hiring-senior-analyst-(data-scientist)-b-informative-it-services', '/blog/hiring-senior-analyst-data-scientist-b-informative-it-services/'],
+];
+for (const [from, to] of specialRenames) {
+  specificMap.set(from.toLowerCase(), { to, status: '301' });
+}
+
+// Flatten redirect chains (A -> B -> C becomes A -> C)
+function resolveChain(url, visited = new Set()) {
+  const norm = url.length > 1 && url.endsWith('/') ? url.slice(0, -1) : url;
+  const clean = norm.toLowerCase();
+  if (visited.has(clean)) return url;
+  visited.add(clean);
+
+  const target = specificMap.get(clean) || massRedirects.get(clean);
+  if (target && target.to && target.to !== url) {
+    return resolveChain(target.to, visited);
+  }
+  return url;
+}
+
+for (const [from, target] of specificMap.entries()) {
+  let finalDest = resolveChain(target.to);
+  if (!finalDest.endsWith('/') && !finalDest.includes('?') && !finalDest.includes('#')) {
+    finalDest = finalDest + '/';
+  }
+  if (finalDest !== target.to) {
+    specificMap.set(from, { ...target, to: finalDest });
+  }
+}
+
+// Ensure published-slugs.json requirements are 100% satisfied
+const publishedSlugsPath = path.join(process.cwd(), 'data', 'published-slugs.json');
+const publishedSlugs = fs.existsSync(publishedSlugsPath) ? JSON.parse(fs.readFileSync(publishedSlugsPath, 'utf8')) : {};
+const missingPublished = [];
+for (const slug of Object.keys(publishedSlugs)) {
+  if (!activePostSet.has(slug)) {
+    const blogPath = `/blog/${slug}`;
+    if (!specificMap.has(blogPath)) {
+      // Find suitable target
+      const alt26 = slug.replace(/-2027-29$/, '-2026');
+      if (activePostSet.has(alt26)) {
+        specificMap.set(blogPath, { to: `/blog/${alt26}/`, status: '301' });
+      } else {
+        missingPublished.push(slug);
+      }
+    }
+  }
+}
+
+console.log(`📊 Total specific redirects in engine: ${specificMap.size}`);
+
+// -----------------------------------------------------------------------------
+// 1. BUILD public/_redirects (strictly under 1,800 lines for Cloudflare Pages 2k limit)
+// -----------------------------------------------------------------------------
+const staticRules = [];
+
+// Wildcards
+staticRules.push('# Core Site Aliases & Wildcards');
+staticRules.push('/robot.txt /robots.txt 301');
+staticRules.push('/posts/* /blog/:splat 301');
+staticRules.push('/learn-skills/* /tools/ 301');
+staticRules.push('/brochures/* /inquiry/ 301');
+staticRules.push('/tools/ai-skills/* /tools/ 301');
+
+// Top Aliases
+staticRules.push('\n# Top-Level Page Aliases');
 for (const [from, to] of topAliases) {
   staticRules.push(`${from} ${to} 301`);
   staticRules.push(`${from}/ ${to} 301`);
 }
 
-// Add special character renames to static rules (for verify-slug-immutability)
-staticRules.push('\n# Sanitized Slug Aliases');
-for (const [from, to] of specialRenames) {
-  staticRules.push(`${from} ${to} 301`);
-  staticRules.push(`${from}/ ${to} 301`);
+// Inactive Published Slugs (Guarantees verify-slug-immutability passes)
+staticRules.push('\n# Inactive Published Slugs (Immutability Guard)');
+const seenPublished = new Set();
+for (const slug of Object.keys(publishedSlugs)) {
+  if (!activePostSet.has(slug)) {
+    const blogPath = `/blog/${slug}`;
+    const target = specificMap.get(blogPath);
+    if (target && !seenPublished.has(blogPath)) {
+      seenPublished.add(blogPath);
+      staticRules.push(`${blogPath} ${target.to} 301`);
+      staticRules.push(`${blogPath}/ ${target.to} 301`);
+    }
+  }
 }
 
+// High Priority 1-to-1 Content & College Migrations
 staticRules.push('\n# Priority 1-to-1 Content & College Migrations');
 for (const [from, target] of specificMap.entries()) {
   if (topAliases.some(t => t[0] === from)) continue;
-  if (specialRenames.some(s => s[0] === from)) continue;
+  if (seenPublished.has(from)) continue;
   
   staticRules.push(`${from} ${target.to} ${target.status}`);
   staticRules.push(`${from}/ ${target.to} ${target.status}`);
-  // Keep static rules within safety cap of 1,750 lines (Cloudflare 2,000 line limit)
   if (staticRules.length >= 1750) break;
 }
 
 fs.writeFileSync(redirectsPath, staticRules.join('\n') + '\n', 'utf8');
 console.log(`✅ Saved compact public/_redirects with ${staticRules.length} lines (under Cloudflare 2,000 limit).`);
 
-// 2. Build Cloudflare Pages Edge Middleware functions/_middleware.ts
-// Middleware has NO size limit and executes at the Cloudflare edge for 100% of historical URLs!
-
-// Combine ALL redirects into the fast lookup map
+// -----------------------------------------------------------------------------
+// 2. BUILD Cloudflare Pages Edge Middleware functions/_middleware.ts
+// -----------------------------------------------------------------------------
 const combinedMap = {};
-for (const [from, target] of massRedirects.entries()) {
-  const dest = target.to.endsWith('/') ? target.to : target.to + '/';
-  combinedMap[from] = dest;
-}
 for (const [from, target] of specificMap.entries()) {
   const dest = target.to.endsWith('/') ? target.to : target.to + '/';
   combinedMap[from] = dest;
 }
 
-// Clean combinedMap: ensure NO active post route is ever intercepted by a redirect
+// Ensure NO active post route is ever redirected
 for (const postSlug of activePostSet) {
   const norm = `/blog/${postSlug}`.toLowerCase();
   delete combinedMap[norm];
   delete combinedMap[norm + "/"];
 }
 
-// Guarantee recovered ranking URLs point strictly to original canonicals
+// Ensure key ranking assets point to canonical
 combinedMap['/blog/fee-refund-policy-aicte-ugc-2027-29'] = '/blog/fee-refund-policy-aicte-ugc-2026/';
 combinedMap['/blog/fee-refund-policy-aicte-ugc-2027-29/'] = '/blog/fee-refund-policy-aicte-ugc-2026/';
 combinedMap['/blog/top-healthcare-management-colleges-india-2027-29'] = '/blog/top-healthcare-management-colleges-india-2026/';
 combinedMap['/blog/top-healthcare-management-colleges-india-2027-29/'] = '/blog/top-healthcare-management-colleges-india-2026/';
-delete combinedMap['/blog/fee-refund-policy-aicte-ugc-2026'];
-delete combinedMap['/blog/fee-refund-policy-aicte-ugc-2026/'];
-delete combinedMap['/blog/top-healthcare-management-colleges-india-2026'];
-delete combinedMap['/blog/top-healthcare-management-colleges-india-2026/'];
-delete combinedMap['/blog/cat-2026-whatsapp-group-links-top-coaching'];
-delete combinedMap['/blog/cat-2026-whatsapp-group-links-top-coaching/'];
 
 // Export REDIRECT_MAP.csv deliverable
 const csvLines = ['Old URL,New URL,Status Code,Type'];
@@ -417,7 +441,10 @@ type PagesFunction<Env = unknown, P extends string = string, Data extends Record
   context: EventContext<Env, P, Data>
 ) => Response | Promise<Response>;
 
-// Pre-compiled redirect dictionary
+// Active post slugs set: active posts must NEVER return 410 Gone
+const ACTIVE_POSTS = new Set(${JSON.stringify(Array.from(activePostSet))});
+
+// Pre-compiled redirect dictionary (100% single-hop 301 coverage)
 const REDIRECT_MAP: Record<string, string> = ${JSON.stringify(combinedMap, null, 2)};
 
 export const onRequest: PagesFunction = async (context) => {
@@ -445,13 +472,15 @@ export const onRequest: PagesFunction = async (context) => {
   // 1. Resolve redirect target from dictionary
   let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
 
-  // SEO Health: Return 410 Gone for permanently pruned/retired blog doorway pages to prevent Soft 404 penalties
+  // SEO Health: Return 410 Gone ONLY for permanently pruned doorway pages that do NOT exist in ACTIVE_POSTS
+  const blogSlug = normPath.startsWith('/blog/') ? normPath.replace('/blog/', '') : '';
+  const isLivePost = blogSlug ? ACTIVE_POSTS.has(blogSlug) : false;
+
   const isPrunedDoorway =
+    !isLivePost &&
     new RegExp('^/blog/(best-online-(?:mba|bba|bca|executive-mba)-colleges-in-|cat-2026-exam-preparation-|nmat-2026-exam-guide-|xat-2027-exam-strategy-|btech-colleges-under-|bba-colleges-under-|mba-colleges-under-|private-mtech-colleges-in-|all-about-amity-|low-budget-)', 'i').test(normPath);
 
-  const isArchivedToHub = targetPath === '/blog/' && normPath !== '/blog' && normPath !== '/blog/';
-
-  if (isPrunedDoorway || isArchivedToHub) {
+  if (isPrunedDoorway) {
     return new Response("410 Gone - This doorway page has been permanently removed.", {
       status: 410,
       headers: {

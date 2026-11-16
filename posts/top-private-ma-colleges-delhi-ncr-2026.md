@@ -101,8 +101,8 @@ Most of these universities conduct their own entrance exams or accept scores fro
 
 ## 🔗 Related Resources
 - [CUET PG 2026 Score Calculator & Predictor](/calculator/cuet-pg-2026)
-- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg)
-- [Career Counselling: How to Choose the Right Master's Degree](/blog/career-counselling-guide-2026)
+- [Top MBA Colleges Accepting CUET PG 2026](/blog/top-mba-colleges-cuet-pg/)
+- [Career Counselling: How to Choose the Right Master's Degree](/book-session/)
 
 ---
 

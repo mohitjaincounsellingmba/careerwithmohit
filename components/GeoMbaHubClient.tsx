@@ -919,7 +919,7 @@ export function GeoMbaHubClient({ hub, colleges }: GeoMbaHubClientProps) {
                   </Link>
 
                   <Link
-                    href="/blog/low-fees-mba-colleges-delhi-ncr-2027-29/"
+                    href="/blog/low-fees-mba-colleges-delhi-ncr-2026/"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 text-xs font-bold transition-colors"
                   >
                     <BookOpen className="w-3.5 h-3.5 text-blue-600" />

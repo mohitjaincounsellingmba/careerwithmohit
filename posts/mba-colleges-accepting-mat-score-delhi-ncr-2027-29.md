@@ -128,7 +128,7 @@ For a more granular search of colleges accepting MAT scores in specific areas of
 ## 🔗 Related Resources
 - [Top MBA Colleges in Delhi NCR 2027–29 Rankings](/colleges/mba-colleges-delhi-ncr/)
 - [MBA Admission Without CAT in Delhi NCR](/blog/mba-admission-without-cat-delhi-ncr-2027-29/)
-- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2027-29/)
+- [Low Fees MBA Colleges in Delhi NCR](/blog/low-fees-mba-colleges-delhi-ncr-2026/)
 - [Direct MBA Admission in Delhi NCR](/blog/direct-mba-admission-delhi-ncr-2027-29/)
 
 ---

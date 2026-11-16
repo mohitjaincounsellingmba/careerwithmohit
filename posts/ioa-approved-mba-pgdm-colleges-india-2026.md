@@ -72,8 +72,8 @@ When an MBA or PGDM program in India is "IoA Approved" or "IoA Accredited," it m
 
 ## The Confusion: IOA vs. AICTE vs. AIU
 Before choosing a college, it is crucial to understand the difference between these acronyms:
-*   **AICTE (All India Council for Technical Education):** The mandatory Indian government body that approves standalone PGDM colleges. [Read about top AICTE colleges here](/blog/best-mba-colleges-india-2026).
-*   **AIU (Association of Indian Universities):** Grants "MBA equivalence" to PGDM programs, essential for government jobs and higher studies abroad. [Check AIU approved PGDM colleges](/blog/aiu-approved-pgdm-colleges-india-2026).
+*   **AICTE (All India Council for Technical Education):** The mandatory Indian government body that approves standalone PGDM colleges. [Read about top AICTE colleges here](/blog/best-mba-colleges-india-2027-29/).
+*   **AIU (Association of Indian Universities):** Grants "MBA equivalence" to PGDM programs, essential for government jobs and higher studies abroad. [Check AIU approved PGDM colleges](/blog/aiu-approved-pgdm-colleges-india-2026/).
 *   **IoA (Institute of Analytics, UK):** A global *professional accreditation* specifically for analytics courses. It is **not** a government approval body, but an industry-aligned certification that adds immense value to your resume.
 
 ---
@@ -144,7 +144,7 @@ Graduating with an MBA in Business Analytics backed by the Institute of Analytic
 
 If you are planning to join an IoA-approved MBA program, follow these steps:
 1.  **Check Eligibility:** A Bachelor’s degree in any discipline (B.Tech, BBA, B.Com, B.Sc) with at least 50% marks. While a math or coding background is helpful, it is not strictly mandatory for managerial roles.
-2.  **Entrance Exams:** Most universities accept standard scores like **CAT, MAT, CMAT, XAT, or CUET PG**. [Check out MBA Entrance Exam Dates 2026](/blog/mba-entrance-exam-dates-2026).
+2.  **Entrance Exams:** Most universities accept standard scores like **CAT, MAT, CMAT, XAT, or CUET PG**. [Check out MBA Entrance Exam Dates 2026](/blog/mba-entrance-exam-dates-2027-29/).
 3.  **University Specific Tests:** Deemed universities like Jain or JECRC may conduct their own entrance exams (e.g., JET) followed by a Personal Interview.
 4.  **Verify Accreditation:** Always ensure the college has active AICTE/UGC approval alongside the IoA partnership to ensure your degree is valid in India.
 

@@ -87,7 +87,7 @@ BHU is famous for its residential nature, offering extensive hostel facilities f
 
 ### **Check Other University Reviews:**
 *   [University of Delhi (DU) Review 2027–29](/blog/university-of-delhi-du-review-2026/)
-*   [Aligarh Muslim University (AMU) Review 2027–29](/blog/aligarh-muslim-university-amu-review-2027-29/)
+*   [Aligarh Muslim University (AMU) Review 2027–29](/blog/aligarh-muslim-university-amu-review-2026/)
 
 [👉 Need guidance for BHU Admissions? Book a Consultation!](/inquiry/)
 

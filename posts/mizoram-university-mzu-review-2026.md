@@ -62,8 +62,8 @@ The Career Counselling and Placement Cell supports students well, maintaining a 
 *   **Top Companies**: Frequent recruiters include IT giants like TCS, IBM, and Infosys, alongside core companies like PowerGrid.
 
 ## Check Other University Reviews:
-*   [Tezpur University Review 2026](/blog/tezpur-university-review-2026)
-*   [Top Engineering Colleges in North East](/blog/top-engineering-colleges-north-east)
+*   [Tezpur University Review 2026](/blog/tezpur-university-review-2026/)
+*   [Top Engineering Colleges in North East](/blog/top-10-engineering-colleges-india-2026/)
 
 [👉 Get Admission Consultation for Mizoram University!](/inquiry)
 

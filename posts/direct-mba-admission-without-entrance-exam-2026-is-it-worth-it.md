@@ -139,7 +139,7 @@ Recruiters generally don't care how you entered the college. They focus on your 
 ---
 
 ### Useful Links:
-- [Under 5 Lakhs MBA Colleges in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2027-29/)
+- [Under 5 Lakhs MBA Colleges in Delhi NCR](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026/)
 - [Top MBA Colleges in Pune 2027–29 Guide](/colleges/mba-colleges-pune/)
 - [MBA Specializations and Career Paths 2027–29](/blog/top-recruiters-mba-pgdm-specialization/)
 

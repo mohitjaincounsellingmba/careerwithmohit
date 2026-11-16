@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     "degree admission 2027"
   ],
   alternates: {
-    canonical: "/top-tier-mba-colleges/"
+    canonical: "https://careerwithmohit.online/top-tier-mba-colleges/"
   },
   openGraph: {
     title: "Top Tier MBA Colleges in India 2027: Fees, Cutoffs & Placements | CareerWithMohit",

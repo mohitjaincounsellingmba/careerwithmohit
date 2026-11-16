@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'mba admission 2027-29', 'pgdm admission 2027-29'
   ],
   alternates: {
-    canonical: '/tools/atma-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/atma-mock-test/",
   },
   openGraph: {
     title: 'Free ATMA Mock Test 2026/27 | Official 180-Question CBT Practice',

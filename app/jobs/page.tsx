@@ -207,13 +207,21 @@ export default function JobsPage() {
       "item": {
         "@type": "JobPosting",
         "title": job.title,
+        "datePosted": "2026-09-01T00:00:00.000Z",
+        "validThrough": "2027-12-31T23:59:59.000Z",
         "hiringOrganization": {
           "@type": "Organization",
           "name": job.company,
         },
         "jobLocationType": job.location.includes("Remote") ? "TELECOMMUTE" : undefined,
+        "applicantLocationRequirements": {
+          "@type": "Country",
+          "name": "India"
+        },
         "employmentType": job.type === "Full-time" ? "FULL_TIME" : "OTHER",
         "description": job.description,
+        "directApply": true,
+        "url": "https://careerwithmohit.online/jobs/"
       }
     }))
   };

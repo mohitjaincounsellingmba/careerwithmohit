@@ -181,7 +181,7 @@ Candidates without prior corporate experience or with average academic records m
 | **Critical Thinking Test (CT)** | 10% | Evaluates structured thinking and written analysis |
 | **Past Academic Record & Work Experience** | 15% | Consistency across 10th, 12th, graduation, and full-time work |
 
-Before finalizing your exam targets, estimate your percentile targets with our [CAT Score vs Percentile Calculator](/blog/cat-2026-score-calculator-marks-vs-percentile/) and explore regional options in our [Best Colleges in Noida & Ghaziabad Guide](/blog/best-mba-colleges-in-noida-ghaziabad-2027-29/).
+Before finalizing your exam targets, estimate your percentile targets with our [CAT Score vs Percentile Calculator](/blog/cat-2026-score-calculator-marks-vs-percentile/) and explore regional options in our [Best Colleges in Noida & Ghaziabad Guide](/blog/best-mba-colleges-in-noida-ghaziabad-2026/).
 
 ---
 

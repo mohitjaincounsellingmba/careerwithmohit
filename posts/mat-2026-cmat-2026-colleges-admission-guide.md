@@ -112,8 +112,8 @@ Registration usually starts in **late December or early January**.
 ---
 
 ### Useful Links:
-- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
+- [Top MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026/)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
 - [Direct MBA Admission Guide 2027–29](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
 
 ---

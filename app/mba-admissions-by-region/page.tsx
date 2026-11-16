@@ -21,11 +21,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: `${BASE_URL}/mba-pgdm-admissions-by-region/`,
   },
-  robots: {
-    index: false,
-    follow: true,
-  },
-  openGraph: {
+    openGraph: {
     title: 'MBA & PGDM Admissions by Region (2027–2029) | CareerWithMohit',
     description:
       'Compare India\'s 8 major MBA business hubs for 2027–2029 batch. Get fee structures, placement comparisons, and 1-on-1 admission counseling with Mohit Jain.',

@@ -95,7 +95,7 @@ If you want to be part of an innovative curriculum with massive hardware and man
 
 ## 🔗 Related Resources
 - [Top BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-ncr-2026/)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
 - [Admission Guide 2026](/blog/career-roadmaps-2027-29/)
 
 ---

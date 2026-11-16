@@ -109,7 +109,7 @@ To assess [BML Munjal University](/colleges/bml-munjal-gurgaon/)’s return on i
 | **[Jaipuria Institute of Management Noida](/blog/usp-of-jaipuria-noida-pgdm-2027-29/)** | ₹14.75 Lakhs – ₹15.50 Lakhs | ₹11.29 LPA | **Established Brand ROI**: NIRF #41; Triple campus placement pool; CAT/XAT/CMAT |
 | **[Bennett University Greater Noida](/colleges/bennett-greater-noida/)** | ₹12.50 Lakhs – ₹13.20 Lakhs | ₹7.85 LPA | **Media & Tech Nexus**: Times Group pedigree; CXO guest tracks; CAT/NMAT/CMAT |
 | **[FIIB Delhi](/blog/usp-of-fiib-delhi-pgdm-2027-29/)** | ₹10.90 Lakhs | ₹8.50 LPA | **Urban Core ROI**: Central Delhi location; Strong data analytics focus; CAT/MAT |
-| **[NDIM New Delhi](/blog/usp-of-ndim-delhi-pgdm-2027-29/)** | ₹11.50 Lakhs | ₹7.50 LPA | **Affordable Corporate ROI**: Dual specialization; AICTE approved; National tests |
+| **[NDIM New Delhi](/blog/usp-of-ndim-delhi-pgdm-2026/)** | ₹11.50 Lakhs | ₹7.50 LPA | **Affordable Corporate ROI**: Dual specialization; AICTE approved; National tests |
 
 ---
 
@@ -271,7 +271,7 @@ graph TD
 * You aspire to work in **consulting, FinTech, analytics, or tech-enabled management roles**.
 
 ### ❌ Consider alternative choices if:
-* **You are on a tight budget under ₹8–10 Lakhs**: Standalone institutes like [JKBS Gurgaon](/blog/usp-of-jkbs-gurgaon-pgdm-2027-29/) or [NDIM Delhi](/blog/usp-of-ndim-delhi-pgdm-2027-29/) offer lower tuition fees.
+* **You are on a tight budget under ₹8–10 Lakhs**: Standalone institutes like [JKBS Gurgaon](/blog/usp-of-jkbs-gurgaon-pgdm-2027-29/) or [NDIM Delhi](/blog/usp-of-ndim-delhi-pgdm-2026/) offer lower tuition fees.
 * **You hold a 95+ percentile in CAT/XAT**: You should target IIMs, FMS, [MDI Gurgaon](/colleges/mdi-gurgaon/), or XLRI.
 * **You are seeking an executive 1-year blitz**: Look at [SOIL Gurgaon 1-year PGP](/blog/usp-of-soil-gurgaon-pgdm-2027-29/) or [Great Lakes Gurgaon](/colleges/great-lakes-gurgaon/).
 

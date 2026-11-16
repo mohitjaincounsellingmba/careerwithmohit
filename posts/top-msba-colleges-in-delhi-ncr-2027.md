@@ -180,5 +180,5 @@ Top institutions like DSE, IMI, FORE, and LBSIM admit solely on CAT/XAT/GMAT mer
 ### 🚀 Boost Your Preparation
 
 - **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)**
-- **[Read: Best MBA Colleges in Delhi 2027–29 Fees & Placements](/blog/best-mba-colleges-in-delhi-2027-29/)**
+- **[Read: Best MBA Colleges in Delhi 2027–29 Fees & Placements](/blog/best-mba-colleges-in-delhi-2026/)**
 - **[Read: All About IMI Delhi Admission & Cutoffs](/colleges/imi-delhi/)**

@@ -112,7 +112,7 @@ The number of exemptions depends on the university's curriculum. Typically:
 *   [CFA Course Guide: Exam Dates, Syllabus & Salary 2026](/blog/cfa-course-guide-exam-dates-syllabus-2027-29/)
 *   [Investment Banking Career Path & Salary 2026](/blog/investment-banking-career-path-salary-2027-29/)
 *   [Importance of SAP in MBA & PGDM Career 2027–29](/blog/importance-of-sap-in-mba-pgdm-career-2027-29/)
-*   [Top MBA Colleges for Finance Specialization in India 2027–29](/blog/top-mba-colleges-for-finance-specialization-india-2027-29/)
+*   [Top MBA Colleges for Finance Specialization in India 2027–29](/blog/top-mba-colleges-for-finance-specialization-india-2026/)
 
 [👉 Need help choosing the right MBA + ACCA college? Get Free Counselling Today!](/inquiry/)
 

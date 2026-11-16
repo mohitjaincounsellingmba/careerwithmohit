@@ -127,7 +127,7 @@ The academic tuition at IILM is distributed across four semester installments:
 - **Commuter Flexibility**: For students residing in Gurugram, South Delhi, or West Delhi, daily commuting via the Delhi Metro Yellow Line and Rapid Metro is convenient, avoiding hostel costs.
 - *Total All-Inclusive Budget*: Approximately **₹16.0L to ₹17.0L** for residential students, and **₹12.9L** for day commuters.
 
-For regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+For regional comparisons, review our guide to the [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 
@@ -193,7 +193,7 @@ Check closing cutoffs across institutions with our [CAT Percentile & College Pre
 1. **Apply for Merit Scholarships in Phase 1**: IILM distributes the majority of its merit scholarship corpus during its early application windows (January–March). Applying early with a solid NMAT or MAT score maximizes scholarship conversion.
 2. **Emphasize Work Experience and Live Projects**: Interview panels at IILM value real-world corporate exposure, communication poise, and ethical business orientation over theoretical formulas.
 3. **Target Consulting and Financial Services**: IILM's recruiter relationships are exceptionally strong with firms like Deloitte, Protiviti, American Express, and Gartner; align your electives with analytics and finance for top placement outcomes.
-4. **Compare Peer Options**: Explore our analysis on [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2027-29/).
+4. **Compare Peer Options**: Explore our analysis on [Best MBA Colleges in Delhi NCR](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 

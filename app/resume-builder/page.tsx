@@ -7,11 +7,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://careerwithmohit.online/tools/ats-resume-builder/",
   },
-  robots: {
-    index: false,
-    follow: true,
-  },
-};
+  };
 
 export default function ResumeBuilderRedirect() {
   redirect("/tools/ats-resume-builder");

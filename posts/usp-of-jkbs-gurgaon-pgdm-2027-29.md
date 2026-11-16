@@ -239,7 +239,7 @@ Yes — JKBS offers hostel accommodation for outstation students on its 10-acre 
 
 [👉 Apply to JKBS Gurgaon — Get Free Guidance](/inquiry/)  
 [👉 Read: JKBS Gurgaon BBA Review 2027–29](/blog/jkbs-gurgaon-bba-review-2026/)  
-[👉 Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+[👉 Best MBA Colleges in Delhi NCR 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 
 ---
 

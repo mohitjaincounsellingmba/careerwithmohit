@@ -89,7 +89,7 @@ export const metadata = {
     'placement support', 'abroad education counselling', 'Mohit Jain services'
   ],
   alternates: {
-    canonical: "/services/",
+    canonical: "https://careerwithmohit.online/services/",
   },
   openGraph: {
     title: "MBA & B.Tech Career Counselling & Admission Services | CareerWithMohit",

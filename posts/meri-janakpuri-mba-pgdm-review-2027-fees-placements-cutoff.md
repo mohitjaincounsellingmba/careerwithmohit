@@ -62,7 +62,7 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Management Education & Research Institute (MERI Janakpuri)](https://careerwithmohit.online/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & West Delhi Advantage
+## [Management Education & Research Institute (MERI Janakpuri)](/blog/meri-janakpuri-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & West Delhi Advantage
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Institutional Heritage & Governance**: Established in 1994, MERI Janakpuri is one of Delhi's prominent management institutions. Approved by **AICTE**, accredited with **'A' Grade**, and affiliated with **Guru Gobind Singh Indraprastha University (GGSIPU Delhi)** for its MBA degree.

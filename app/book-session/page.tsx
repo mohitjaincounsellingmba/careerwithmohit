@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "PGDM admission guidance Google Meet"
   ],
   alternates: {
-    canonical: "/book-session/",
+    canonical: "https://careerwithmohit.online/book-session/",
   },
   openGraph: {
     title: "Book Free Face-to-Face Video Counselling on Google Meet | CareerWithMohit",

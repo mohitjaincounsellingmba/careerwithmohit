@@ -6,7 +6,7 @@ import { SearchResults } from "@/components/SearchResults";
 export const metadata = {
   title: "Search Colleges & Admissions Insights | CareerWithMohit",
   description: "Search 770+ colleges, cutoffs, placements, and expert admission guidance on CareerWithMohit.",
-  alternates: { canonical: "/search/" },
+  alternates: { canonical: "https://careerwithmohit.online/search/" },
   robots: { index: false, follow: true },
 };
 

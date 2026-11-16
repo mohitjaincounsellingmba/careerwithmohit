@@ -34,7 +34,6 @@ faqs:
       followed by Bengaluru and Navi Mumbai.
 location: Mumbai
 state: Maharashtra
-noindex: true
 author: Mohit Jain
 ---
 
@@ -79,9 +78,9 @@ No, NMIMS does not have a management quota for BBA. All admissions are through t
 The Mumbai campus (ASMSOC) is the flagship and most sought-after campus, followed by Bengaluru and Navi Mumbai.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2026)
-- [BBA vs B.Com — Which is better for you?](/blog/bba-vs-bcom-vs-bms-career-comparison)
-- [NMIMS All Campuses Review](/blog/all-about-nmims-campuses)
+- [Top 10 BBA Colleges in Mumbai 2026](/blog/top-10-bba-colleges-mumbai-2027-29/)
+- [BBA vs B.Com — Which is better for you?](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [NMIMS All Campuses Review](/colleges/nmims-mumbai/)
 
 ---
 

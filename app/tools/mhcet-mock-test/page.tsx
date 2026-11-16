@@ -4,7 +4,7 @@ import { CheckCircle2, BookOpen, Target, Zap, Clock, HelpCircle, BarChart3, Pres
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: '/tools/mhcet-mock-test/',
+    canonical: "https://careerwithmohit.online/tools/mhcet-mock-test/",
   },
   title: 'Free MAH MBA CET Mock Test 2027 | #1 Tool for Maharashtra & MP Aspirants',
   description: 'Take a full-length MAH MBA CET 2027 mock test online. 200 questions, 150 minutes, sectional breakdown, and percentile predictor. Best practice tool for Maharashtra (Mumbai, Pune, Nagpur) and Madhya Pradesh (Indore, Bhopal) students.',
@@ -290,7 +290,7 @@ export default function MhcetMockTestPage() {
               <ul className="space-y-4">
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
-                  <a href="/blog/direct-admission-jbims-mumbai-institute-level-seats-2027-29/" className="underline hover:text-primary">JBIMS Mumbai (The CEO Factory)</a>
+                  <a href="/blog/direct-admission-jbims-mumbai-institute-level-seats-2026/" className="underline hover:text-primary">JBIMS Mumbai (The CEO Factory)</a>
                 </li>
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
@@ -298,7 +298,7 @@ export default function MhcetMockTestPage() {
                 </li>
                 <li className="flex items-center gap-3 font-bold">
                   <CheckCircle2 className="text-primary w-5 h-5" /> 
-                  <a href="/blog/direct-admission-pumba-pune-university-seats-2027-29/" className="underline hover:text-primary">PUMBA Pune (Global Exposure)</a>
+                  <a href="/blog/direct-admission-pumba-pune-university-seats-2026/" className="underline hover:text-primary">PUMBA Pune (Global Exposure)</a>
                 </li>
               </ul>
             </div>

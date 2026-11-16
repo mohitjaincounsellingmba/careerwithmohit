@@ -245,7 +245,7 @@ To help students choose an institution that matches their family budget, here is
    - **University-Specific Aptitude Tests**: Amity (Video Interview / English test), GD Goenka Aptitude Test, Sharda SUAT, Galgotias GEEE.
 3. **Direct Admission / Merit Counselling**:
    - Many private universities in Delhi NCR offer merit-based direct admissions or scholarships based on Class 12 board percentage.
-   - For guidance on management quota and direct admissions, check out our guide on [Direct Admission in Delhi NCR Colleges](/blog/best-mba-colleges-in-delhi-2027-29/).
+   - For guidance on management quota and direct admissions, check out our guide on [Direct Admission in Delhi NCR Colleges](/blog/best-mba-colleges-in-delhi-2026/).
 
 ---
 

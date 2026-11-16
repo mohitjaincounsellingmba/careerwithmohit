@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ examSlug:
     description: config.seoDescription,
     keywords: config.keywords || [],
     alternates: {
-      canonical: `/tools/mock-test/${resolvedParams.examSlug}/`,
+      canonical: `https://careerwithmohit.online/tools/mock-test/${resolvedParams.examSlug}/`,
     },
     openGraph: {
       title: config.seoTitle,

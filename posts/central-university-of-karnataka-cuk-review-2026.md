@@ -80,8 +80,8 @@ Central University of Karnataka (CUK) stands out as a prominent institution in S
 *   **Affordability:** The base hostel charges are quite affordable (often between ₹555 to ₹5,110 per annum), making it a budget-friendly option for outstation students (mess fees are extra).
 
 ### **Check Other Placement Guides:**
-*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
+*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026/)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
 
 [👉 Get Admission Consultation for Central University of Karnataka!](/inquiry)
 

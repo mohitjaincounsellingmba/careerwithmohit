@@ -100,10 +100,10 @@ Securing a management quota seat in a top university requires proper guidance to
 ---
 
 ## 🔗 Related Resources
-*   [SRM B.Tech Admission 2026: Campuses, Fees & Cutoffs](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review)
-*   [All About SRM University Campuses: Direct Review](/blog/all-about-srm-university-campuses)
-*   [Best B.Tech CSE Colleges in Delhi NCR Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026)
-*   [Direct MBA Admission India 2026 Master List](/blog/direct-mba-admission-india)
+*   [SRM B.Tech Admission 2026: Campuses, Fees & Cutoffs](/blog/srm-btech-admission-2026-campuses-fees-cutoff-review/)
+*   [All About SRM University Campuses: Direct Review](/colleges/srm-university-chennai/)
+*   [Best B.Tech CSE Colleges in Delhi NCR Direct Admission](/blog/best-btech-cse-colleges-delhi-ncr-direct-admission-2026/)
+*   [Direct MBA Admission India 2026 Master List](/blog/direct-mba-admission-india/)
 
 **Need Assistance with Direct Admission in SRM?**
 

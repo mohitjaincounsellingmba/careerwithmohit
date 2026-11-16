@@ -101,7 +101,7 @@ VGU has an active placement cell that brings top national and multinational bran
 VGU provides multiple entry pathways into its MBA program.
 
 1.  **Eligibility**: Minimum 50% aggregate in graduation (45% for reserved categories).
-2.  **Entrance Exams**: Valid scores in [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), or [CMAT](/blog/all-about-cmat-exam).
+2.  **Entrance Exams**: Valid scores in [CAT](/resources/cat/), [MAT](/tools/mat-mock-test/), or [CMAT](/resources/cmat/).
 3.  **VGUCET**: The university conducts its own common entrance test. Scoring above 50% generally secures admission, while scores above 70% can lead to direct admission and scholarships.
 4.  **Expected Cutoffs**: For CAT, a percentile of around 50 is usually sufficient to clear the initial screening for core MBA branches.
 
@@ -109,7 +109,7 @@ VGU provides multiple entry pathways into its MBA program.
 
 ### **Final Verdict: Should You Join VGU Jaipur?**
 
-Vivekananda Global University is an excellent choice for a mid-budget MBA. With total fees (including hostel) around ₹6.5 Lakhs and an average placement of over ₹6.5 LPA, it offers a solid, risk-free return on investment. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026), VGU's vast infrastructure and growing industry reputation make it a strong contender.
+Vivekananda Global University is an excellent choice for a mid-budget MBA. With total fees (including hostel) around ₹6.5 Lakhs and an average placement of over ₹6.5 LPA, it offers a solid, risk-free return on investment. If you are comparing the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29/), VGU's vast infrastructure and growing industry reputation make it a strong contender.
 
 [👉 Secure Your Admission at VGU Jaipur - Get Free Counselling!](/inquiry) | [💬 Talk to Career Counsellor Mohit Jain](/inquiry)
 

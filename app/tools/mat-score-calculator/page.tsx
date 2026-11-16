@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     type: "website",
   },
   alternates: {
-    canonical: "/tools/mat-score-calculator/",
+    canonical: "https://careerwithmohit.online/tools/mat-score-calculator/",
   },
 };
 

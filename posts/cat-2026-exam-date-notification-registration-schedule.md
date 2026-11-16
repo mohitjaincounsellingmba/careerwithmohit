@@ -107,7 +107,7 @@ Apart from the 21 IIMs, several other institutes accept CAT scores:
 *   **IITs (DoMS)**
 *   **IMT Ghaziabad**
 
-[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2027-29/)
+[👉 View: Best MBA Colleges for CAT 70-80 Percentile](/blog/top-mba-colleges-accepting-cat-score-70-to-80-percentile-2026/)
 
 ---
 

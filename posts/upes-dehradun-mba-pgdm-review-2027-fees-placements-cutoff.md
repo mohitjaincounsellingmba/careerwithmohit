@@ -58,7 +58,7 @@ location: Dehradun
 state: Uttarakhand
 ---
 
-## [UPES Dehradun (School of Business)](https://careerwithmohit.online/blog/upes-dehradun-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
+## [UPES Dehradun (School of Business)](/blog/upes-dehradun-mba-pgdm-review-2027-fees-placements-cutoff/) Review 2027: Fees, Cutoff, Placements & Strategic Admissions Blueprint
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Core USP & Focus**: Premier multidisciplinary university in the foothills of Dehradun, Uttarakhand, accredited with **NAAC 'A' Grade** and UGC approval. Internationally acclaimed for specialized management programs in Energy, Oil & Gas, Aviation, Supply Chain, and Digital Business.

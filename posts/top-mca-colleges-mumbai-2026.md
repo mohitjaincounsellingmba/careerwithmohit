@@ -125,9 +125,9 @@ Usually held in **March/April**. Registrations typically open in January.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
-- [BCA Colleges in Mumbai 2026](/blog/top-bca-colleges-mumbai-2026)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026/)
+- [BCA Colleges in Mumbai 2026](/blog/top-bca-colleges-mumbai-2026/)
 
 ---
 

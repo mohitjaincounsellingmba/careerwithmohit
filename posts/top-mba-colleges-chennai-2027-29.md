@@ -137,8 +137,8 @@ TANCET usually happens in **March**. It is the gateway for MBA admissions into n
 ---
 
 ### Useful Links:
-- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2027-29/)
-- [Top MBA Colleges in Hyderabad 2027–29 Guide](/blog/top-mba-colleges-hyderabad-2027-29/)
+- [Best MBA Colleges with Low Fees & High ROI 2027–29](/blog/best-mba-colleges-low-fees-high-roi-india-2026/)
+- [Top MBA Colleges in Hyderabad 2027–29 Guide](/blog/top-mba-colleges-hyderabad-2026/)
 - [B.Tech Colleges in Chennai 2026 Guide](/blog/top-btech-colleges-chennai-2026/)
 
 ---

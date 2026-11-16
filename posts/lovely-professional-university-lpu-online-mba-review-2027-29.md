@@ -187,10 +187,10 @@ Yes. LPU provides no-cost EMI options through partner banks, making the program 
 | College | NAAC | Total Fee | NIRF | Unique Strength |
 | :--- | :--- | :--- | :--- | :--- |
 | **LPU Online** | A++ | ₹1,61,600 | ✅ Yes | Healthcare, Defence tracks |
-| [Manipal MAHE Online](/blog/manipal-academy-of-higher-education-mahe-online-mba-review-2027-29/) | A++ | ₹2,92,000 | ✅ Yes | AI LMS, QS ranking |
-| [SRM Online](/blog/srm-university-online-mba-review-2027-29/) | A++ | ₹1,89,000 | ✅ Yes | AI + Healthcare tracks |
+| [Manipal MAHE Online](/blog/manipal-academy-of-higher-education-mahe-online-mba-review-2026/) | A++ | ₹2,92,000 | ✅ Yes | AI LMS, QS ranking |
+| [SRM Online](/blog/srm-university-online-mba-review-2026/) | A++ | ₹1,89,000 | ✅ Yes | AI + Healthcare tracks |
 | [Amity Online](/blog/amity-university-online-mba-review-2027-29/) | A+ | ₹1,99,000 | ✅ Yes | 15+ specializations |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2027-29/) | A+ | ₹1,65,000 | ✅ Yes | 23 specializations, KPMG curriculum |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | ✅ Yes | 23 specializations, KPMG curriculum |
 
 ---
 

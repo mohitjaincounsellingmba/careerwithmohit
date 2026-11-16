@@ -116,9 +116,9 @@ The annual academic fee for BBA at Maharaja Surajmal Institute is approximately 
 ---
 
 ## 🔗 Related IPU & Delhi BBA Guides:
-- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026)
-- [DTU USME BBA Admission & Cutoffs](/blog/all-about-dtu-delhi-bba-admission-2026)
-- [GGSIPU Counselling Process & Spot Round Strategy](/blog/ggsipu-mba-colleges-review-cutoff-pros-cons)
+- [Top 10 BBA Colleges in Delhi NCR 2026](/blog/top-10-bba-colleges-delhi-2026/)
+- [DTU USME BBA Admission & Cutoffs](/blog/all-about-dtu-delhi-bba-admission-2026/)
+- [GGSIPU Counselling Process & Spot Round Strategy](/blog/ggsipu-mba-colleges-review-cutoff-pros-cons/)
 
 **Need assistance navigating the IPU CET choice filling?**  
 Book a one-on-one session with Mohit Jain to optimize your college preferences across MSI, MAIT, BVISR, and VIPs.

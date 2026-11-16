@@ -37,7 +37,6 @@ faqs:
       must qualify for the SET and the subsequent PI-WAT rounds.
 location: Delhi NCR
 state: Delhi NCR
-noindex: true
 author: Mohit Jain
 ---
 
@@ -79,9 +78,9 @@ Yes, as a private university, it follows government-mandated reservations for SC
 No, direct admission is not available for the BBA program. Every candidate must qualify for the SET and the subsequent PI-WAT rounds.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Pune 2026](/blog/top-10-bba-colleges-pune-2026)
-- [All About Symbiosis MBA Institutes](/blog/all-about-symbiosis-mba-institutes)
-- [BBA vs BMS — Understanding the Difference](/blog/bba-vs-bcom-vs-bms-career-comparison)
+- [Top 10 BBA Colleges in Pune 2026](/blog/top-10-bba-colleges-pune-2026/)
+- [All About Symbiosis MBA Institutes](/colleges/sibm-pune/)
+- [BBA vs BMS — Understanding the Difference](/blog/bba-vs-bcom-vs-bms-career-comparison/)
 
 ---
 

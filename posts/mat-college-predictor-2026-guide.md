@@ -99,7 +99,7 @@ AIMA divides participating institutes into four zones. Our predictor allows you 
 - **SEO Optimized**: We provide direct links to fee structures and placement reports for top colleges.
 
 ### Related Reading:
-- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2027-29/)
+- [Best MBA Colleges in Delhi 2027–29](/blog/best-mba-colleges-in-delhi-2026/)
 - [All About MAH MBA CET Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)
 - [MBA after B.Tech: Benefits 2027–29](/blog/mba-after-btech-benefits-2027-29/)
 
