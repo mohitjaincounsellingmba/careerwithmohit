@@ -121,3 +121,11 @@ Due to extreme competition, the first merit list cutoff for BBA in the General c
 Mohit Jain's South India Admissions Strategy evaluates your board scores to match you with top-tier alternative business schools in Chennai and Bengaluru.
 
 [👉 Book My BBA Strategy Session with Mohit Jain](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

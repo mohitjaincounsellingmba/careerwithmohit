@@ -119,3 +119,11 @@ ISTEE is an online proctored aptitude test assessing Mathematics, Logical Reason
 Book a personalized admissions advisory session with Mohit Jain to compare campus facilities, partner university reputations, and scholarship options.
 
 [👉 Consult Mohit Jain for B.Tech Admissions](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

@@ -124,3 +124,11 @@ The annual academic fee for BBA at Maharaja Surajmal Institute is approximately 
 Book a one-on-one session with Mohit Jain to optimize your college preferences across MSI, MAIT, BVISR, and VIPs.
 
 [👉 Book My IPU BBA Counselling Audit](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

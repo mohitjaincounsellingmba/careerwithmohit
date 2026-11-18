@@ -124,3 +124,11 @@ Candidates must typically be under 20 years of age as of July of their admission
 Connect with Mohit Jain to evaluate whether an industry-led B.Tech model aligns with your long-term career goals and budget.
 
 [👉 Book My Engineering Counselling Strategy Session](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

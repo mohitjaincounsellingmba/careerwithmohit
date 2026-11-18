@@ -124,3 +124,11 @@ St. Xavier's provides an on-campus hostel for male students with limited capacit
 Connect directly with Mohit Jain to calibrate your entrance test preparation and portfolio for St. Xavier's and Mithibai.
 
 [👉 Book My Mumbai Admission Consultation](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

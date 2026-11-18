@@ -122,3 +122,11 @@ Yes. To be eligible for DTU BBA, candidates must have passed Mathematics or Appl
 Get an unbiased profile evaluation with Mohit Jain to compare your target percentiles, batch profiles, and career pathways.
 
 [👉 Consult Mohit Jain for Delhi Admissions Guidance](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

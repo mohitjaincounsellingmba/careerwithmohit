@@ -128,3 +128,11 @@ No. As a constituent college of the University of Delhi, 100% of seats are alloc
 Book a personalized strategy consultation with Mohit Jain to calibrate your CUET score requirements and build a high-ROI college backup list.
 
 [👉 Consult Mohit Jain for Delhi University Admissions](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---

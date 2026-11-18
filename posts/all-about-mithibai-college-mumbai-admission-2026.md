@@ -125,3 +125,11 @@ Admissions to undergraduate professional management courses (BMS and BBA) in Mah
 Book a personalized admissions advisory session with Mohit Jain to calibrate your entrance exam percentiles and evaluate the best fit for your career trajectory.
 
 [👉 Consult Mohit Jain for Mumbai College Admissions](/inquiry/)
+
+---
+
+### 🚀 Boost Your Preparation & Test Analytics
+
+Looking for more resources? **[Explore Our Free MBA & Entrance Exam CBT Mock Test Series 2027](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
