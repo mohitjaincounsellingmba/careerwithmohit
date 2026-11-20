@@ -124,7 +124,7 @@ Delhi NCR is India's largest corporate and startup hub, housing top private univ
 - **[Amity University](/colleges/amity-noida) Noida (NIRF #28-35):** Candidates scoring above 80% aggregate in graduation can skip national entrance tests and appear directly for the GD/PI round.
 - **[BIMTECH Greater Noida](/colleges/bimtech-greater-noida) (NIRF #55):** Offers corporate-sponsored and institutional quota seats for candidates with strong academic profiles.
 - **[Bennett University](/colleges/bennett-greater-noida) & [GD Goenka University](/colleges/gd-goenka-university):** Offer direct profile-based evaluation with generous merit scholarships.
-- *Read More:* [Under 5 Lakhs MBA Colleges in Delhi NCR Direct Admission](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026/)
+- *Read More:* [Under 5 Lakhs MBA Colleges in Delhi NCR Direct Admission](/blog/under-5-lakhs-mba-colleges-delhi-ncr-direct-admission-2026)
 
 ### 2. Bangalore & South India
 Known as the Silicon Valley of India, South Indian management institutes offer outstanding corporate connectivity:
@@ -182,7 +182,7 @@ Due to high demand for management seats, fraud cases by fake admission agents ar
 1. **Beware of Fake IIM Direct Admission Promises:** IIMs, [FMS Delhi](/colleges/fms-delhi), XLRI, and JBIMS strictly **DO NOT** offer management quota or direct admission. Anyone claiming to sell seats in IIMs for cash is conducting a fraud.
 2. **Never Pay Cash to Agents:** All official tuition and booking fees must be deposited directly into the institution's official university bank account or online portal.
 3. **Verify AICTE & UGC Approval:** Ensure the college or online degree is listed on the official [AICTE](https://www.aicte-india.org) or UGC-DEB portal.
-4. **Read Previous Guides:** Understand the legalities by visiting our detailed analysis on [Direct MBA Admission Without Entrance Exam 2026: Is It Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/).
+4. **Read Previous Guides:** Understand the legalities by visiting our detailed analysis on [Direct MBA Admission Without Entrance Exam 2026: Is It Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it).
 
 ---
 
@@ -206,9 +206,9 @@ The tuition fee ranges from ₹2.5 Lakhs to ₹6.0 Lakhs for online/distance pro
 ---
 
 ## 🔗 Related Resources & Further Reading
-- [AIU Approved PGDM Colleges in India 2026: Equivalence, Rankings & Fees](/blog/aiu-approved-pgdm-colleges-india-2026/)
-- [Direct MBA Admission Without Entrance Exam 2026 — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
-- [Top MBA Colleges in Pune 2026 Guide](/colleges/mba-colleges-pune/)
+- [AIU Approved PGDM Colleges in India 2026: Equivalence, Rankings & Fees](/blog/aiu-approved-pgdm-colleges-india-2026)
+- [Direct MBA Admission Without Entrance Exam 2026 — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+- [Top MBA Colleges in Pune 2026 Guide](/blog/top-mba-colleges-pune)
 
 ---
 

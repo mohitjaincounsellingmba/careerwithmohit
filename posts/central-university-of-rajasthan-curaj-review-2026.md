@@ -76,8 +76,8 @@ CURaj provides excellent residential facilities, making it highly accommodating 
 *   **Fees:** Hostel room rent is affordable at roughly **₹6,000 per semester**, plus electricity and water charges (approx. ₹2,500). Mess services are managed by student committees.
 
 ### **Check Other Central University Guides:**
-*   [Pondicherry University Review 2026](/blog/pondicherry-university-review-2026/)
-*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2026](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2026/)
+*   [Pondicherry University Review 2026](/blog/pondicherry-university-review-2026)
+*   [Babasaheb Bhimrao Ambedkar University (BBAU) Review 2026](/blog/babasaheb-bhimrao-ambedkar-university-bbau-review-2026)
 
 [👉 Get Admission Consultation for Top Central Universities!](/inquiry)
 

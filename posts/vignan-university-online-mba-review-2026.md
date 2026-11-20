@@ -181,10 +181,10 @@ Budget for an annual examination fee of ~₹4,000 and a one-time registration fe
 | College | NAAC | Total Fee | Dual Spec | Region |
 | :--- | :--- | :--- | :--- | :--- |
 | **Vignan Online** | A+ | ₹90,000 | ✅ Yes | South India |
-| [Galgotias Online](/blog/galgotias-university-online-mba-review-2026/) | A+ | ₹90,000 | ❌ No | Delhi NCR |
-| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026/) | A+ | ₹1,00,000 | ✅ Yes | National |
-| [Uttaranchal Online](/blog/uttaranchal-university-online-mba-review-2026/) | A+ | ₹94,000 | ❌ No | North India |
-| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2027-29/) | A++ | ₹1,61,600 | ❌ No | National |
+| [Galgotias Online](/blog/galgotias-university-online-mba-review-2026) | A+ | ₹90,000 | ❌ No | Delhi NCR |
+| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026) | A+ | ₹1,00,000 | ✅ Yes | National |
+| [Uttaranchal Online](/blog/uttaranchal-university-online-mba-review-2026) | A+ | ₹94,000 | ❌ No | North India |
+| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2026) | A++ | ₹1,61,600 | ❌ No | National |
 
 ---
 
@@ -193,9 +193,9 @@ Budget for an annual examination fee of ~₹4,000 and a one-time registration fe
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2027-29/)
-- [Online MBA India 2026: Full Guide](/online-degree-certification/online-mba/)
-- [Top MBA Colleges in Hyderabad 2026](/colleges/mba-colleges-hyderabad/)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
+- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
+- [Top MBA Colleges in Hyderabad 2026](/blog/best-mba-colleges-in-hyderabad-2026)
 
 
 

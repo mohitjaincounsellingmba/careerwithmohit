@@ -44,12 +44,10 @@ keywords:
   - MBA colleges Roorkee
   - Dehradun Colleges
   - Best Colleges in Dehradun
-  - Top Colleges in Dehradun 2027-29
-  - Dehradun Direct Admission 2027-29
-  - Colleges in Uttarakhand
-  - Dehradun Career Counselling
   - Top Colleges in Dehradun 2026
   - Dehradun Direct Admission 2026
+  - Colleges in Uttarakhand
+  - Dehradun Career Counselling
 state: Uttarakhand
 ---
 

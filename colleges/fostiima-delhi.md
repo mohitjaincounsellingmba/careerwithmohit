@@ -10,7 +10,7 @@ courses:
 established: 2007
 ownership: Private
 ranking: '#1 B-School in Delhi/NCR for ROI'
-fees: ₹11.95 Lakhs
+fees: ₹10.95 Lakhs
 avg_placement: ₹11.15 LPA
 highest_placement: ₹30.0 LPA
 exams:
@@ -22,7 +22,7 @@ website: 'https://www.fostiima.org'
 seo_title: 'Fostiima Business School, Delhi MBA Fees, Cutoff & Placement'
 seo_description: >-
   Explore Fostiima Business School, Delhi Dwarka, Delhi: MBA/PGDM fee structure
-  ₹11.95 Lakhs, average placement ₹11.15 LPA, highest CTC, ranking, and 2027
+  ₹10.95 Lakhs, average placement ₹11.15 LPA, highest CTC, ranking, and 2027
   admissi
 keywords:
   - 'Fostiima Business School, Delhi review'
@@ -44,18 +44,16 @@ keywords:
   - 'MBA colleges Dwarka, Delhi'
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2027-29
-  - Delhi NCR Direct Admission 2027-29
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 state: Delhi NCR
 ---
 
 ### Courses & Fees
-- **PGDM**: General Management | 2 Years | ₹11.95 Lakhs
-- **PGDM**: Marketing & Finance | 2 Years | ₹11.95 Lakhs
+- **PGDM**: General Management | 2 Years | ₹11.50 Lakhs
+- **PGDM**: Marketing & Finance | 2 Years | ₹11.50 Lakhs
 
 ### About Fostiima Delhi
 Fostiima Business School was founded by alumni of IIM Ahmedabad (IIMA) to provide IIM-standard education. The school is located in Dwarka, Delhi, and is known for its "Elite" batch programs which claim high placement packages. It focuses on a practical, case-study based curriculum led by an expert faculty.

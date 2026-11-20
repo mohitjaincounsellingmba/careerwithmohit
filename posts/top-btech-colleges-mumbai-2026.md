@@ -162,7 +162,7 @@ Maharashtra's Centralised Admission Process (CAP) is crucial for all government 
 - **Round 1 Allotment:** July 2026
 - **Admission Closes:** August 2026
 
-[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
+[Read: MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
 
 ---
 
@@ -198,11 +198,11 @@ A few private colleges have started accepting CUET scores as part of their merit
 
 ## Useful Resources
 
-- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide/)
-- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile/)
-- [JoSAA Counselling 2026 Dates & Process](/blog/josaa-counselling-2026-dates-process-registration/)
-- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune/)
-- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026/)
+- [MHT CET CAP Counselling 2026 Complete Guide](/blog/mht-cet-cap-counselling-2026-btech-admission-guide)
+- [JEE Main 2026 Score Calculator & Percentile](/blog/jee-main-2026-score-calculator-marks-vs-percentile)
+- [JoSAA Counselling 2026 Dates & Process](/blog/josaa-counselling-2026-dates-process-registration)
+- [Top B.Tech Colleges in Pune 2026](/blog/top-btech-colleges-pune)
+- [B.Tech Admissions FAQ 2026](/blog/btech-admissions-faq-2026)
 
 ---
 

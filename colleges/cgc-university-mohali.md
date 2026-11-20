@@ -47,12 +47,10 @@ keywords:
   - 'CGC University, Mohali contact number'
   - Chandigarh Colleges
   - Best Colleges in Chandigarh
-  - Top Colleges in Chandigarh 2027-29
-  - Chandigarh Direct Admission 2027-29
-  - Colleges in Punjab
-  - Chandigarh Career Counselling
   - Top Colleges in Chandigarh 2026
   - Chandigarh Direct Admission 2026
+  - Colleges in Punjab
+  - Chandigarh Career Counselling
 state: Punjab
 ---
 

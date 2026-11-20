@@ -42,7 +42,6 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
 ---
 For Indian MBA aspirants, the Common Admission Test (CAT) is often seen as the ultimate hurdle. However, placing all your eggs in one basket can be a risky strategy. This is where **OMETs (Other Management Entrance Tests)** come into play.
 
@@ -56,7 +55,7 @@ Here is a complete guide to understanding OMETs, their exam patterns, admission 
 
 While CAT is known for high conceptual difficulty and strict sectional time limits, OMETs vary significantly in structure, timing, and marking schemes:
 
-*   **Speed vs. Accuracy:** Exams like [SNAP](/resources/snap/) and [NMAT by GMAC](/resources/nmat/) are pure speed-based tests (fewer minutes than questions), whereas [CMAT](/resources/cmat/) and [XAT](/resources/xat/) reward accuracy and endurance.
+*   **Speed vs. Accuracy:** Exams like [SNAP](/blog/all-about-snap-exam) and [NMAT by GMAC](/blog/all-about-nmat-exam) are pure speed-based tests (fewer minutes than questions), whereas [CMAT](/blog/all-about-cmat-exam) and [XAT](/blog/all-about-xat-exam) reward accuracy and endurance.
 *   **Adaptive Testing:** NMAT is a computer-adaptive test, meaning the difficulty of the questions adjusts based on your performance.
 *   **Negative Marking:** NMAT has zero negative marking, while XAT features unique negative markings for consecutive unattempted questions.
 *   **Number of Attempts:** Unlike CAT (held once a year), NMAT and SNAP allow candidates to make up to three attempts in a single admission cycle, with the best score considered for admissions.
@@ -145,10 +144,10 @@ A strong balance of consistent preparation across both CAT and OMETs ensures you
 ## Related Guides and Resources
 
 If you are planning your MBA preparation roadmap, check out these detailed guides:
-*   [All About NMAT Exam 2026: NMIMS Cutoffs & Pattern](/resources/nmat/)
-*   [All About CMAT Exam 2026: Innovation Section & Colleges](/resources/cmat/)
-*   [All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/resources/snap/)
-*   [MAH MBA CET 2026: Accepting Colleges & Process](/resources/mah-mba-cet/)
+*   [All About NMAT Exam 2026: NMIMS Cutoffs & Pattern](/blog/all-about-nmat-exam)
+*   [All About CMAT Exam 2026: Innovation Section & Colleges](/blog/all-about-cmat-exam)
+*   [All About SNAP Exam 2026: Symbiosis Institutes & Strategy](/blog/all-about-snap-exam)
+*   [MAH MBA CET 2026: Accepting Colleges & Process](/blog/all-about-mah-mba-cet-exam)
 
 ---
 

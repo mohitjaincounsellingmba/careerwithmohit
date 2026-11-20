@@ -172,10 +172,10 @@ Candidates with budgets below ₹80,000 or those specifically targeting a FinTec
 | College | NAAC | Total Fee | Placement |
 | :--- | :--- | :--- | :--- |
 | **Kalinga Online** | B+ | ₹80,000 | Minimal |
-| [Galgotias Online](/blog/galgotias-university-online-mba-review-2026/) | A+ | ₹90,000 | Moderate (NCR focus) |
-| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026/) | A+ | ₹1,00,000 | Moderate |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | Strong |
-| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2027-29/) | A++ | ₹1,61,600 | Strong |
+| [Galgotias Online](/blog/galgotias-university-online-mba-review-2026) | A+ | ₹90,000 | Moderate (NCR focus) |
+| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026) | A+ | ₹1,00,000 | Moderate |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026) | A+ | ₹1,65,000 | Strong |
+| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2026) | A++ | ₹1,61,600 | Strong |
 
 ---
 
@@ -184,9 +184,9 @@ Candidates with budgets below ₹80,000 or those specifically targeting a FinTec
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2027-29/)
-- [Online MBA India 2026: Complete Guide](/online-degree-certification/online-mba/)
-- [Cheapest Online MBA Programs with Accreditation 2026](/blog/best-online-mba-colleges-working-professionals-india-2027-29/)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
+- [Online MBA India 2026: Complete Guide](/blog/online-mba-india-2026)
+- [Cheapest Online MBA Programs with Accreditation 2026](/blog/best-online-mba-colleges-working-professionals-india-2026)
 
 
 

@@ -125,55 +125,41 @@ for (const [from, to] of topAliases) {
 }
 
 // -----------------------------------------------------------------------------
-// MANUAL EXACT OVERRIDES (Fixing all 15 mismatched redirects)
+// MANUAL EXACT OVERRIDES (Tool and site aliases only - NO active posts)
 // -----------------------------------------------------------------------------
 const manualExactOverrides = [
-  // Exam guides
-  ['/blog/wbjee-preparation-strategy-2026', '/tools/jee-main-mock-test/'],
-  ['/blog/sat-ielts-toefl-gre-exams-guide-2026', '/tools/ielts-mock-test/'],
-  ['/blog/how-to-crack-cat-2026-strategy', '/blog/10-tips-to-crack-cat-exam-2027-29/'],
-  ['/blog/all-about-cat-exam', '/resources/cat/'],
-  ['/blog/all-about-nmat-exam', '/resources/nmat/'],
-  ['/blog/all-about-gmat-exam-colleges-cutoffs', '/tools/gmat-mock-test/'],
-  ['/blog/direct-mba-admission-2026-management-quota', '/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/'],
-  // CUET guides
-  ['/blog/all-about-cuet-ug-exam-2026', '/blog/cuet-ug-university-list-2026-citywise/'],
-  ['/blog/cuet-2026-guide-management', '/blog/cuet-ug-2026-bba-admission-guide/'],
-  ['/blog/top-arts-colleges-cuet', '/blog/cuet-ug-university-list-2026-citywise/'],
-  ['/blog/jac-delhi-counselling-2026', '/colleges/top-engineering-colleges-in-delhi/'],
-  // Regional & Category hubs
-  ['/blog/top-engineering-colleges-north-east', '/blog/top-10-engineering-colleges-india-2026/'],
-  ['/blog/top-bca-colleges-chennai-2026', '/blog/top-bca-colleges-india-nirf-ranking-2026/'],
-  ['/blog/top-bca-colleges-bangalore-2026', '/blog/top-bca-colleges-india-nirf-ranking-2026/'],
-  ['/blog/career-counselling-guide-2026', '/book-session/'],
-  ['/blog/best-mba-colleges-in-hyderabad-2026', '/colleges/mba-colleges-hyderabad/'],
-  ['/blog/online-mba-india-2026', '/online-degree-certification/online-mba/'],
-  // College specific matches
-  ['/blog/all-about-nl-dalmia-admission-2026', '/colleges/mba-colleges-mumbai/'],
-  ['/blog/lexicon-mile-pune-review-2025', '/blog/lexicon-management-institute-of-leadership-excellence-mba-pgdm-review-2027-fees-placements-cutoff/'],
-  // Global MBA reviews -> Abroad destinations
-  ['/blog/columbia-business-school-mba-review-2027-29', '/abroad-education/study-in-usa/'],
-  ['/blog/harvard-business-school-mba-review-2027-29', '/abroad-education/study-in-usa/'],
-  ['/blog/london-business-school-lbs-mba-review-2027-29', '/abroad-education/study-in-uk/'],
-  ['/blog/melbourne-business-school-mba-review-2027-29', '/abroad-education/study-in-australia/'],
-  ['/blog/melbourne-business-school-mba-review-2026', '/abroad-education/study-in-australia/'],
-  ['/blog/schulich-school-of-business-mba-review-2027-29', '/abroad-education/study-in-canada/'],
-  ['/blog/schulich-school-of-business-mba-review-2026', '/abroad-education/study-in-canada/'],
-  ['/blog/smith-school-of-business-queens-mba-review-2027-29', '/abroad-education/study-in-canada/'],
-  ['/blog/smith-school-of-business-queens-mba-review-2026', '/abroad-education/study-in-canada/'],
-  ['/blog/ivey-business-school-mba-review-2027-29', '/abroad-education/study-in-canada/'],
-  ['/blog/hkust-business-school-mba-review-2027-29', '/abroad-education/'],
-  ['/blog/insead-mba-review-2027-29', '/abroad-education/study-in-france/'],
-  ['/blog/cambridge-judge-mba-review-2027-29', '/abroad-education/study-in-uk/'],
-  ['/blog/chicago-booth-mba-review-2027-29', '/abroad-education/study-in-usa/'],
-  ['/blog/esmt-berlin-mba-review-2027-29', '/abroad-education/study-in-germany/'],
   // Tool aliases
   ['/tools/cat-score-percentile-calculator', '/tools/cat-score-calculator/'],
   ['/tools/iim-blacki-call-predictor', '/tools/cat-score-calculator/'],
+  ['/tools/roadmap-calculator', '/calculator/career-roadmap/'],
+  ['/tools/mock-tests', '/mock-tests/'],
+  ['/cat-mock-test', '/tools/cat-mock-test/'],
+  ['/mock-tests/cat', '/tools/cat-mock-test/'],
+  ['/duolingo-mock-test', '/tools/duolingo-mock-test/'],
+  ['/gmat-mock-test', '/tools/gmat-mock-test/'],
+  ['/ielts-mock-test', '/tools/ielts-mock-test/'],
+  ['/atma-mock-test', '/tools/atma-mock-test/'],
+  ['/mat-mock-test', '/tools/mat-mock-test/'],
+  ['/snap-mock-test', '/tools/snap-mock-test/'],
+  ['/xat-mock-test', '/tools/xat-mock-test/'],
+  ['/nmat-mock-test', '/tools/nmat-mock-test/'],
+  ['/resume-builder', '/tools/ats-resume-builder/'],
+  ['/attempt-skills-get-certificate', '/skill-assessment-certificate/'],
+  ['/mba-admissions-by-region', '/mba-pgdm-admissions-by-region/'],
 ];
 
 for (const [from, to] of manualExactOverrides) {
   specificMap.set(from.toLowerCase(), { to, status: '301' });
+}
+
+// Ingest recovered temporary 2027-29 slug redirects -> restored 2026 canonicals
+const tempRedirectsPath = path.join(process.cwd(), 'seo-recovery', 'temp_renames_redirects.json');
+if (fs.existsSync(tempRedirectsPath)) {
+  const tempRedirects = JSON.parse(fs.readFileSync(tempRedirectsPath, 'utf8'));
+  for (const [from, to] of Object.entries(tempRedirects)) {
+    specificMap.set(from.toLowerCase(), { to, status: '301' });
+  }
+  console.log(`🔄 Ingested ${Object.keys(tempRedirects).length} temporary 2027-29 to 2026 redirects.`);
 }
 
 // -----------------------------------------------------------------------------
@@ -441,7 +427,7 @@ type PagesFunction<Env = unknown, P extends string = string, Data extends Record
   context: EventContext<Env, P, Data>
 ) => Response | Promise<Response>;
 
-// Active post slugs set: active posts must NEVER return 410 Gone
+// Active post slugs set: indexable live posts registry
 const ACTIVE_POSTS = new Set(${JSON.stringify(Array.from(activePostSet))});
 
 // Pre-compiled redirect dictionary (100% single-hop 301 coverage)
@@ -471,24 +457,6 @@ export const onRequest: PagesFunction = async (context) => {
 
   // 1. Resolve redirect target from dictionary
   let targetPath: string | null = REDIRECT_MAP[normPath] || REDIRECT_MAP[cleanPath] || null;
-
-  // SEO Health: Return 410 Gone ONLY for permanently pruned doorway pages that do NOT exist in ACTIVE_POSTS
-  const blogSlug = normPath.startsWith('/blog/') ? normPath.replace('/blog/', '') : '';
-  const isLivePost = blogSlug ? ACTIVE_POSTS.has(blogSlug) : false;
-
-  const isPrunedDoorway =
-    !isLivePost &&
-    new RegExp('^/blog/(best-online-(?:mba|bba|bca|executive-mba)-colleges-in-|cat-2026-exam-preparation-|nmat-2026-exam-guide-|xat-2027-exam-strategy-|btech-colleges-under-|bba-colleges-under-|mba-colleges-under-|private-mtech-colleges-in-|all-about-amity-|low-budget-)', 'i').test(normPath);
-
-  if (isPrunedDoorway) {
-    return new Response("410 Gone - This doorway page has been permanently removed.", {
-      status: 410,
-      headers: {
-        "Content-Type": "text/plain; charset=utf-8",
-        "Cache-Control": "public, max-age=604800, s-maxage=604800",
-      },
-    });
-  }
 
   // 2. Ensure target ends with trailing slash
   let finalPath = targetPath || cleanPath;

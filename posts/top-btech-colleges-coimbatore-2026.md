@@ -119,9 +119,9 @@ Usually starts in **June/July** after the 12th board results are announced.
 ---
 
 ### Useful Links:
-- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026/)
-- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026/)
-- [BBA Colleges in Coimbatore 2026](/blog/top-btech-colleges-coimbatore-2026/)
+- [Top B.Tech Colleges in India 2026 NIRF Guide](/blog/top-btech-colleges-india-nirf-ranking-2026)
+- [B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
+- [BBA Colleges in Coimbatore 2026](/blog/top-bba-colleges-coimbatore-2026)
 
 ---
 

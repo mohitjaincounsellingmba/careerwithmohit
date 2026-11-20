@@ -1,11 +1,11 @@
 ---
 title: 'Scaler School of Technology B.Tech Review: 5 Negative Points You Must Know'
 date: '2026-05-03'
-category: Online Degrees
+category: BTech Admissions
 description: >-
   Thinking of joining Scaler School of Technology for B.Tech? Read this honest
-  review highlighting the negative points, degree validity issues for 2026-2027
-  admissions & career guidance.
+  review highlighting the negative points, degree validity issues, and the high
+  fee structure before you decide.
 keywords:
   - scaler school of technology review
   - scaler btech cons
@@ -27,24 +27,7 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Official Institute Academic Prospectus & Seat Matrix"
-  - "National Institutional Ranking Framework (NIRF Engineering)"
-  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
-> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
-> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
-
-## What are the Admission Cutoffs, Fees, and Placement Records for Scaler School of Technology B.Tech Review: 5 ?
-
-**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹22 Lakhs, and domestic placement packages averaging ₹8.00 LPA – ₹12.50 LPA across primary recruitment sectors.**
-
-
-
 **Scaler School of Technology (SST)** has created a lot of buzz in the Indian education space by promising an industry-aligned curriculum and direct mentorship from top tech veterans. However, behind the flashy marketing and impressive placement claims, there are several "ground realities" that every parent and student must consider.
 
 If you are planning to spend your next 4 years at Scaler, here are the **5 major negative points and risks** associated with their B.Tech program.
@@ -54,7 +37,7 @@ If you are planning to spend your next 4 years at Scaler, here are the **5 major
 ## 1. It is NOT a UGC-Recognized University
 The biggest misconception is that Scaler School of Technology is a university. **It is not.**
 *   Scaler is a private institute/bootcamp-style academy. It does **not** have the authority to grant a B.Tech degree on its own.
-*   The "B.Tech" you get is actually a parallel online degree (usually a B.Sc in Computer Science) from partner institutions like **[BITS Pilani](/colleges/bits-pilani/)** or **IIT Madras**.
+*   The "B.Tech" you get is actually a parallel online degree (usually a B.Sc in Computer Science) from partner institutions like **[BITS Pilani](/colleges/bits-pilani)** or **IIT Madras**.
 *   While these degrees are valid, they are **not traditional on-campus B.Tech degrees**, which might matter for certain government jobs or specific high-tier global MS programs.
 
 ---
@@ -77,7 +60,7 @@ One of the most important aspects of an engineering degree is the "campus experi
 ## 4. The "Parallel Degree" Workload
 Because Scaler isn't a university, you have to manage two things simultaneously:
 1.  **Scaler's Intensive Curriculum:** 8-10 hours of rigorous coding and projects daily.
-2.  **External University Exams:** You still have to clear the exams and assignments of the degree-granting partner (e.g., [BITS Pilani](/colleges/bits-pilani/)).
+2.  **External University Exams:** You still have to clear the exams and assignments of the degree-granting partner (e.g., [BITS Pilani](/colleges/bits-pilani)).
 *   This can lead to significant burnout for students who are not prepared for a high-pressure environment.
 
 ---
@@ -97,23 +80,23 @@ Many critics argue that Scaler's model is more like a **glorified coaching cente
 | **Fees** | ₹10L - ₹20L | ₹25L+ |
 | **Focus** | Holistic Engineering | Only Coding & Placements |
 
-[👉 Check Out: Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026/)
+[👉 Check Out: Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
 
-[👉 Read More: B.Tech Admission Without JEE - Is it Worth it?](/blog/btech-admission-without-jee-2026-all-options/)
+[👉 Read More: B.Tech Admission Without JEE - Is it Worth it?](/blog/btech-admission-without-jee-2026-all-options)
 
 ---
 
 **Confused between Scaler and a traditional B.Tech College?**
 Choosing the wrong college can cost you lakhs and 4 precious years of your life. Get a professional opinion before finalizing.
 
-[👉 Connect with Mohit Jain for an Unbiased Career Counselling Session!](/inquiry/)
+[👉 Connect with Mohit Jain for an Unbiased Career Counselling Session!](/inquiry)
 
 ---
 
 *Related Posts:*
-* [Intellipaat School of Technology B.Tech Review](/blog/5-year-llb-vs-3-year-llb-which-is-better-for-your-career-2026/)
-* [Top Private Engineering Colleges in India 2026](/blog/top-private-engineering-colleges-india-2026/)
-* [BCA vs B.Tech CSE: Which is Better for Your Career?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
+* [Intellipaat School of Technology B.Tech Review](/blog/all-about-intellipaat-school-of-technology-btech-2026)
+* [Top Private Engineering Colleges in India 2026](/blog/top-private-engineering-colleges-india-2026)
+* [BCA vs B.Tech CSE: Which is Better for Your Career?](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
 
 ---
 
@@ -131,10 +114,12 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

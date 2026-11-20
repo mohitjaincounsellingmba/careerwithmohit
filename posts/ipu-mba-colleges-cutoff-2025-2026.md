@@ -45,12 +45,6 @@ faqs:
       same curriculum and degree.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Official B-School Admission Bulletin & Audited Placement Report"
-  - "National Institutional Ranking Framework (NIRF Management)"
-  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 
 Guru Gobind Singh Indraprastha University (GGSIPU) is one of the most sought-after universities for MBA in Delhi NCR due to its excellent ROI and centralized counseling. However, unlike other universities, IPU follows a unique **Priority System** for MBA admissions.
@@ -139,10 +133,10 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 ## Useful Resources
 
-- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu/)
-- [All About CAT Exam 2026](/resources/cat/)
-- [All About CMAT Exam 2026](/resources/cmat/)
-- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
+- [Top 14+ GGSIPU MBA Colleges in Delhi NCR Guide](/blog/ipu-cet-mba-colleges-ggsipu)
+- [All About CAT Exam 2026](/blog/all-about-cat-exam)
+- [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
+- [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 ---
 
@@ -151,7 +145,7 @@ USMS is the university's on-campus department. It has the lowest fees and the hi
 
 
 
-
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

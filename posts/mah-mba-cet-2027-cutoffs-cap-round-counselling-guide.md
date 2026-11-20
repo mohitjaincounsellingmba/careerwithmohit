@@ -1,11 +1,11 @@
 ---
 title: 'MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide: JBIMS, SIMSREE, PUMBA'
 date: '2026-08-26'
-category: Exams
+category: Exam Guide
 description: >-
   Complete guide to MAH MBA CET 2027 cutoffs, score vs percentile mapping, CAP
   round registration process, Option Form strategy, and OMS quota rules for
-  JBIMS.
+  JBIMS, SIMSREE, PUMBA & top b-schools.
 keywords:
   - MAH MBA CET 2027 cutoffs
   - JBIMS MBA CET cutoff percentile 2027
@@ -22,13 +22,6 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What raw score in MAH MBA CET 2027 is required for JBIMS (Jamnalal Bajaj)?
     answer: >-
@@ -48,18 +41,13 @@ faqs:
       Yes, OMS candidates can apply under the All India Quota (15% seats in
       un-aided private colleges and university departments) using MAH CET, CAT,
       or CMAT scores.
-location: Delhi NCR
-state: Delhi NCR
+location: Mumbai
+state: Maharashtra
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
-> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
-> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
-
 
 The **MAH MBA/MMS CET** (Maharashtra Master of Business Administration Common Entrance Test) is one of the most competitive state-level entrance examinations in India. Conducted annually by the State CET Cell, Maharashtra, it serves as the gateway to over 330 management institutes across Maharashtra, offering prestigious Master of Management Studies (MMS) and MBA degrees.
 
-From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/ims-noida/))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
+From the coveted **"CEO Factory" JBIMS (Jamnalal Bajaj [Institute of Management Studies](/colleges/institute-of-management-studies))** to **SIMSREE** and **PUMBA**, CET scores unlock top-tier management education at a fraction of the fee charged by private b-schools.
 
 In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, we detail score vs. percentile predictions, college-wise cutoff percentiles, step-by-step CAP registration guidelines, Option Form strategies, and OMS (Outside Maharashtra State) quota rules.
 
@@ -67,15 +55,11 @@ In this definitive **MAH MBA CET 2027 Cutoffs & CAP Round Counselling Guide**, w
 
 > 📊 **Predict Your MBA College & CET Percentile in 2 Minutes!**
 >
-> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/mock-tests/)
+> [👉 Use the Free MAH CET Score vs Percentile & College Predictor Tool](/mock-tests)
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for MAH MBA CET 2027 Score vs. Percentile Mapping (Estimated)?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## MAH MBA CET 2027 Score vs. Percentile Mapping (Estimated)
 
 The MAH MBA CET exam consists of 200 multiple-choice questions (Logical Reasoning, Abstract Reasoning, Quantitative Aptitude, and Verbal Ability/Reading Comprehension) with a total duration of 150 minutes and no negative marking.
 
@@ -83,14 +67,14 @@ Due to normalized scoring across multiple exam slots, percentile calculation dep
 
 | Raw Score (Out of 200) | Expected Percentile Range | Target B-School Tier |
 | :--- | :--- | :--- |
-| **142 - 155+** | **99.95 - 99.99 Percentile** | [JBIMS Mumbai](/colleges/jbims-mumbai/) (MS & OMS Quota) |
+| **142 - 155+** | **99.95 - 99.99 Percentile** | [JBIMS Mumbai](/colleges/jbims-mumbai) (MS & OMS Quota) |
 | **132 - 141** | **99.85 - 99.94 Percentile** | SIMSREE Mumbai, Sydenham |
-| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), [PUMBA Pune](/colleges/pumba-pune/) |
+| **122 - 131** | **99.50 - 99.84 Percentile** | Welingkar Mumbai (MMS), [PUMBA Pune](/colleges/pumba-pune) |
 | **112 - 121** | **99.00 - 99.49 Percentile** | SIES Mumbai, MET Mumbai, XIMR Mumbai |
 | **102 - 111** | **97.50 - 98.99 Percentile** | Chetna Institute, NL Dalmia, CoEP Pune |
 | **92 - 101** | **95.00 - 97.49 Percentile** | IES MCRC, Rizvi, Vidyalankar, Alkesh Dinesh |
 | **82 - 91** | **90.00 - 94.99 Percentile** | Indira Pune, DY Patil Akurdi, SISOM |
-| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, [ASM IBMR](/colleges/asm-ibmr/), MIT-SOB |
+| **70 - 81** | **80.00 - 89.99 Percentile** | AISSMS Pune, Akemi, [ASM IBMR](/colleges/asm-ibmr), MIT-SOB |
 
 ---
 
@@ -203,11 +187,11 @@ To ensure a smooth admission journey through MAH MBA CET 2027:
 ### Need CAP Round Choice Code & Option Form Assistance?
 
 * 📞 **Counselling Helpline:** Get expert Option Form review from **Mohit Jain**.
-* 📋 **[Request Free CAP Round 2027 Choice Code List](/blog/best-bba-colleges-jaipur-direct-admission-2026/)** customized to your score and target location.
+* 📋 **[Request Free CAP Round 2027 Choice Code List](/direct-admission)** customized to your score and target location.
 
 ---
 
 ### Boost Your Preparation
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

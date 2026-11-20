@@ -1,7 +1,7 @@
 ---
 name: FMS Delhi
 logo: /colleges/fms-logo.webp
-location: New Delhi
+location: Delhi NCR
 category: Management
 type: Institute
 courses:
@@ -10,17 +10,17 @@ courses:
 established: 1954
 ownership: Public (DU)
 ranking: Top 5 (Non-NIRF)
-fees: ₹2.50 Lakhs
-avg_placement: ₹34.1 LPA
-highest_placement: ₹1.23 Crore
+fees: ₹2.32 Lakhs
+avg_placement: ₹30.1 LPA
+highest_placement: ₹1.01 Crore
 exams:
   - CAT
 brochure_url: /brochures/fms-2025.pdf
 website: 'http://fms.edu'
 seo_title: 'FMS Delhi MBA Fees, Cutoff & Placement 2027'
 seo_description: >-
-  Explore FMS Delhi New Delhi: MBA/PGDM fee structure ₹2.50 Lakhs, average
-  placement ₹34.1 LPA, highest CTC, ranking, and 2027 admission process with
+  Explore FMS Delhi New Delhi: MBA/PGDM fee structure ₹2.32 Lakhs, average
+  placement ₹30.1 LPA, highest CTC, ranking, and 2027 admission process with
   Mohit Jain.
 keywords:
   - FMS Delhi review
@@ -42,13 +42,11 @@ keywords:
   - MBA colleges New Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2027-29
-  - Delhi NCR Direct Admission 2027-29
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
-state: Delhi
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
 ### Courses & Fees

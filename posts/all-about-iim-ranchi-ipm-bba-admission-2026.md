@@ -35,7 +35,6 @@ faqs:
     answer: The intake is approximately 120 seats for the 2027–2029 intake.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
 ---
 
 IIM Ranchi is one of the premier "New IIMs" to offer the Integrated Programme in Management (IPM). With its rapid growth and strong placement records, IIM Ranchi has become a top choice for students who want an IIM brand right after school in 2026.
@@ -76,9 +75,9 @@ Generally, IIM Ranchi accepts IPMAT Indore scores. Candidates should verify the 
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
-- [IIM Indore IPM Admission 2026](/colleges/iim-indore/)
-- [IIM Rohtak IPM Admission 2026](/colleges/iim-rohtak/)
+- [IPMAT 2026 Preparation Guide & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
+- [IIM Indore IPM Admission 2026](/blog/all-about-iim-indore-ipm-bba-admission-2026)
+- [IIM Rohtak IPM Admission 2026](/blog/all-about-iim-rohtak-ipm-bba-admission-2026)
 
 ---
 

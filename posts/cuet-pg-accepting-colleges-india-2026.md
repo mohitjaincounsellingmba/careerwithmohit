@@ -42,12 +42,6 @@ faqs:
       reliable benchmark for students.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Ministry of Education Official Central Universities Directory"
-  - "University Grants Commission (UGC) Consolidated List of Universities"
-  - "National Testing Agency (NTA) CUET Official Information Bulletin"
 ---
 The **Common University Entrance Test for Postgraduates (CUET PG) 2026** is the largest postgraduate entrance exam in India. With a single score, candidates can apply to postgraduate programs (MBA, MCA, M.Tech, M.A, M.Sc, LLM) across 190+ Central, State, Deemed, and Private Universities.
 
@@ -102,7 +96,7 @@ If you missed CAT/XAT or want high-ROI options, CUET PG opens doors to excellent
 5. **BBAU Lucknow** (MBA)
 6. **AKTU Affiliated Top Colleges** (e.g., KIET, GL Bajaj, JSS Noida for MBA)
 
-[👉 Read our dedicated list of Top CUET PG MBA Colleges](/blog/cuet-pg-mba-colleges-list-2026/)
+[👉 Read our dedicated list of Top CUET PG MBA Colleges](/blog/cuet-pg-mba-colleges-list-2026)
 
 ---
 
@@ -136,10 +130,10 @@ Many premium private universities have partnered with NTA to accept CUET PG scor
 ## City-Wise CUET PG Colleges Guide
 
 Looking for a college in your preferred city?
-- 🏙️ [CUET PG Colleges in Delhi NCR](/blog/cuet-pg-accepting-colleges-delhi-ncr-2026/)
-- 🏙️ [CUET PG Colleges in Bangalore](/blog/cuet-pg-accepting-colleges-bangalore-2026/)
-- 🏙️ [CUET PG Colleges in Pune](/blog/cuet-pg-accepting-colleges-pune-2026/)
-- 🏙️ [CUET PG Colleges in Mumbai](/blog/cuet-pg-accepting-colleges-mumbai-2026/)
+- 🏙️ [CUET PG Colleges in Delhi NCR](/blog/cuet-pg-accepting-colleges-delhi-ncr-2026)
+- 🏙️ [CUET PG Colleges in Bangalore](/blog/cuet-pg-accepting-colleges-bangalore-2026)
+- 🏙️ [CUET PG Colleges in Pune](/blog/cuet-pg-accepting-colleges-pune-2026)
+- 🏙️ [CUET PG Colleges in Mumbai](/blog/cuet-pg-accepting-colleges-mumbai-2026)
 
 ---
 
@@ -171,7 +165,7 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
-
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

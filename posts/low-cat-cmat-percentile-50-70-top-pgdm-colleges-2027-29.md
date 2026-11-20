@@ -3,7 +3,7 @@ title: >-
   Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target
   for 2027-29
 date: '2026-08-22'
-category: Exams
+category: MBA & PGDM
 description: >-
   Scored 50-70 percentile in CAT or CMAT? Explore top AICTE approved PGDM
   colleges in Delhi, Pune, Bangalore, and Noida offering 100% placements for
@@ -17,14 +17,18 @@ keywords:
   - PIBM Pune CMAT Cutoff
   - ISBR Bangalore MAT CMAT Cutoff
   - FIIB Delhi Admission Low Score
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get a decent PGDM college with 50-60 percentile in CAT or CMAT?
     answer: >-
@@ -45,18 +49,12 @@ location: Delhi NCR
 state: Delhi NCR
 ---
 
-## Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target for 2027-29
+# Low CAT/CMAT Percentile (50-70%ile)? Top PGDM Colleges You Can Still Target for 2027-29
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications open via CAT 2026, XAT 2027, MAT, CMAT, and direct profile-evaluation rounds.
 > - **Total Fee Structure**: Verified at ₹11.50L - ₹13.75L for the complete 2-year full-time curriculum.
 > - **Placement & ROI Benchmark**: Average salary stands at ₹9.50 LPA (Highest ₹24.0 LPA) with AICTE, NBA, AIU Eq..
-
-## What are the Admission Cutoffs, Fees, and Placement Records for Low CAT/CMAT Percentile (50-70%ile)? Top PGDM?
-
-**Comprehensive evaluation confirms competitive entrance cutoffs, verified tuition fees around ₹9.50 LPA, and domestic placement packages averaging ₹9.50 LPA across primary recruitment sectors.**
-
-
 
 Receiving a 50 to 70 percentile score in CAT or CMAT can feel discouraging at first glance. However, in the Indian management education ecosystem, **entrance percentiles only act as an initial screening benchmark for autonomous PGDM institutes.**
 
@@ -69,9 +67,9 @@ For the **2027-29 academic session**, hundreds of top-tier AICTE-approved autono
 | Region | Recommended PGDM Colleges | Total Fee (Approx) | Avg Placement Package |
 | :--- | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FIIB Delhi, FOSTIIMA, JIMS Kalkaji, GNIOT GIMS, GL Bajaj | ₹6.78L - ₹12.85L | ₹7.25 LPA - ₹11.15 LPA |
-| **Pune** | [PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore/), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
-| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata/), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹6.90L - ₹10.50L | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [ISBR Business School](/colleges/isbr-bangalore), GIBS Bangalore, IBA Bangalore, ISME | ₹8.90L - ₹10.50L | ₹7.40 LPA - ₹8.50 LPA |
+| **Kolkata** | [Globsyn Business School](/colleges/globsyn-kolkata), Praxis, IEM Kolkata | ₹6.50L - ₹9.50L | ₹6.80 LPA - ₹9.46 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.90L - ₹9.15L | ₹6.50 LPA - ₹7.10 LPA |
 
 ---
@@ -93,7 +91,7 @@ A 50-70 percentile in CAT/CMAT is more than sufficient to land admission in AICT
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -103,10 +101,10 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

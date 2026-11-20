@@ -1,72 +1,42 @@
 ---
-title: >-
-  CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs
-  Appeared Statistics
-date: '2026-09-10'
-description: >-
-  Comprehensive report on CAT 2026 total registrations till now, closing date
-  trends, and last 5-year official records of registered vs appeared candidates.
+title: "CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics"
+date: "2026-09-10"
+description: "Comprehensive report on CAT 2026 total registrations till now, closing date trends, and last 5-year official records of registered vs appeared candidates, attendance rates, and competition analysis."
 keywords:
-  - CAT 2026 total registration till now
-  - CAT registration last 5 years
-  - CAT registered vs appeared candidates
-  - CAT exam attendance rate
-  - CAT total applicants 2026
-  - CAT 2024 registered vs appeared
-  - CAT 2023 registered vs appeared
-  - IIM CAT competition analysis 2026
-  - CAT percentile vs marks 2026
-category: Exams
-image: /images/blog/mba-guide.webp
+  - "CAT 2026 total registration till now"
+  - "CAT registration last 5 years"
+  - "CAT registered vs appeared candidates"
+  - "CAT exam attendance rate"
+  - "CAT total applicants 2026"
+  - "CAT 2024 registered vs appeared"
+  - "CAT 2023 registered vs appeared"
+  - "IIM CAT competition analysis 2026"
+  - "CAT percentile vs marks 2026"
+category: "MBA"
+image: "/images/blog/mba-guide.webp"
 faqs:
-  - question: What is the expected total registration for CAT 2026 till now?
-    answer: >-
-      As the CAT 2026 registration window enters its final stretch in September
-      2026, total registrations are projected to reach between 3.15 Lakh and
-      3.30 Lakh candidates, tracking closely with the historic highs set during
-      CAT 2023 (3.28 lakh) and CAT 2024 (3.29 lakh).
-  - question: How many candidates actually appeared for CAT in the last 5 years?
-    answer: >-
-      In CAT 2024, 2.93 lakh candidates appeared out of 3.29 lakh registered
-      (89.06% attendance). In CAT 2023, 2.88 lakh appeared out of 3.28 lakh
-      registered (87.80%). In CAT 2022, 2.22 lakh appeared out of 2.55 lakh
-      registered (86.96%). In CAT 2021, 1.92 lakh appeared out of 2.30 lakh
-      registered (83.34%). In CAT 2020, 1.90 lakh appeared out of 2.28 lakh
-      registered (83.46%).
-  - question: What is the average attendance rate in the CAT exam?
-    answer: >-
-      On average, the attendance rate for the CAT exam hovers between 83% and
-      89%. This indicates that approximately 35,000 to 42,000 registered
-      candidates skip the exam on test day each year.
-  - question: Has female candidate participation increased in CAT registrations?
-    answer: >-
-      Yes, female candidate registrations have grown significantly from 75,000
-      (~33%) in 2020 to over 1.19 lakh (~36.2%) in CAT 2024. Increased gender
-      diversity points awarded during IIM shortlisting have encouraged more
-      women graduates to take the test.
-  - question: >-
-      What raw score is needed for a 99 percentile in CAT with 2.9 lakh
-      candidates appearing?
-    answer: >-
-      In the standard 66-question (198-mark) format, a net raw score of 76 to 82
-      marks typically guarantees a 99+ percentile, which translates to correctly
-      solving around 27 to 30 questions with 90%+ accuracy.
+  - question: "What is the expected total registration for CAT 2026 till now?"
+    answer: "As the CAT 2026 registration window enters its final stretch in September 2026, total registrations are projected to reach between 3.15 Lakh and 3.30 Lakh candidates, tracking closely with the historic highs set during CAT 2023 (3.28 lakh) and CAT 2024 (3.29 lakh)."
+  - question: "How many candidates actually appeared for CAT in the last 5 years?"
+    answer: "In CAT 2024, 2.93 lakh candidates appeared out of 3.29 lakh registered (89.06% attendance). In CAT 2023, 2.88 lakh appeared out of 3.28 lakh registered (87.80%). In CAT 2022, 2.22 lakh appeared out of 2.55 lakh registered (86.96%). In CAT 2021, 1.92 lakh appeared out of 2.30 lakh registered (83.34%). In CAT 2020, 1.90 lakh appeared out of 2.28 lakh registered (83.46%)."
+  - question: "What is the average attendance rate in the CAT exam?"
+    answer: "On average, the attendance rate for the CAT exam hovers between 83% and 89%. This indicates that approximately 35,000 to 42,000 registered candidates skip the exam on test day each year."
+  - question: "Has female candidate participation increased in CAT registrations?"
+    answer: "Yes, female candidate registrations have grown significantly from 75,000 (~33%) in 2020 to over 1.19 lakh (~36.2%) in CAT 2024. Increased gender diversity points awarded during IIM shortlisting have encouraged more women graduates to take the test."
+  - question: "What raw score is needed for a 99 percentile in CAT with 2.9 lakh candidates appearing?"
+    answer: "In the standard 66-question (198-mark) format, a net raw score of 76 to 82 marks typically guarantees a 99+ percentile, which translates to correctly solving around 27 to 30 questions with 90%+ accuracy."
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+# CAT 2026 Total Registrations Till Now & Last 5-Year Records: Registered vs Appeared Statistics
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **CAT 2026 Application Velocity**: With the registration portal closing in mid-September 2026, total applications are pacing toward **3.15 to 3.30 Lakh candidates**, maintaining the high-volume surge witnessed over recent cycles.
 > - **5-Year Benchmark (Registered vs Appeared)**: Across 2020–2024, total registrations scaled from 2.28 Lakh to a record 3.29 Lakh in CAT 2024. Actual test-takers who appeared grew from 1.90 Lakh (2020) to 2.93 Lakh (2024).
 > - **Attendance Drop-off Ratio**: Historical data reveals an **83% to 89% test attendance rate**; approximately 35,000 to 40,000 registered aspirants consistently skip the exam on test day, establishing the real competitive pool at ~2.90 Lakh test-takers.
 
-The **Common Admission Test (CAT)** remains the definitive, high-stakes proving ground for graduate business education in India. Conducted annually by the Indian Institutes of Management (IIMs) on a rotational basis, CAT is the gateway to the 21 prestigious IIMs and over 1,200 premier autonomous and university B-Schools, including [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), and the IIT management departments.
+The **Common Admission Test (CAT)** remains the definitive, high-stakes proving ground for graduate business education in India. Conducted annually by the Indian Institutes of Management (IIMs) on a rotational basis, CAT is the gateway to the 21 prestigious IIMs and over 1,200 premier autonomous and university B-Schools, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and the IIT management departments.
 
-For any MBA aspirant aiming for the upcoming **CAT 2027–29** exam, understanding candidate application statistics is not merely academic trivia—it is a critical intelligence metric. The total volume of registrations and the actual number of candidates who appear dictate the percentile calculation curve, the sectional normalization formula, and the intense cut-throat race for an IIM interview call.
+For any MBA aspirant aiming for the upcoming **CAT 2026** exam, understanding candidate application statistics is not merely academic trivia—it is a critical intelligence metric. The total volume of registrations and the actual number of candidates who appear dictate the percentile calculation curve, the sectional normalization formula, and the intense cut-throat race for an IIM interview call.
 
 Here is a deep-dive analysis of the **CAT 2026 registration status till now**, paired with official **last 5-year records of total registered vs appeared candidates**, gender distributions, category dynamics, and what these numbers mean for your preparation.
 
@@ -89,11 +59,11 @@ To appreciate the scale of competition for CAT 2026, examining the official numb
 
 | CAT Exam Year | Conducting IIM | Total Registered Candidates | Total Appeared Candidates | Non-Attendees (Absent) | Attendance Percentage | YoY Registration Growth |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CAT 2024** | **[IIM Calcutta](/colleges/iim-calcutta/)** | **3,29,000** | **2,93,000** | 36,000 | **89.06%** | +0.30% |
-| **CAT 2023** | **[IIM Lucknow](/colleges/iim-lucknow/)** | **3,28,000** | **2,88,000** | 40,000 | **87.80%** | +28.37% |
-| **CAT 2022** | **[IIM Bangalore](/colleges/iim-bangalore/)** | **2,55,501** | **2,22,184** | 33,317 | **86.96%** | +11.10% |
-| **CAT 2021** | **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | **2,29,969** | **1,91,660** | 38,309 | **83.34%** | +0.94% |
-| **CAT 2020** | **[IIM Indore](/colleges/iim-indore/)** | **2,27,835** | **1,90,144** | 37,691 | **83.46%** | -6.69% |
+| **CAT 2024** | **IIM Calcutta** | **3,29,000** | **2,93,000** | 36,000 | **89.06%** | +0.30% |
+| **CAT 2023** | **IIM Lucknow** | **3,28,000** | **2,88,000** | 40,000 | **87.80%** | +28.37% |
+| **CAT 2022** | **IIM Bangalore** | **2,55,501** | **2,22,184** | 33,317 | **86.96%** | +11.10% |
+| **CAT 2021** | **IIM Ahmedabad** | **2,29,969** | **1,91,660** | 38,309 | **83.34%** | +0.94% |
+| **CAT 2020** | **IIM Indore** | **2,27,835** | **1,90,144** | 37,691 | **83.46%** | -6.69% |
 | *CAT 2019 (Ref)* | *IIM Kozhikode* | *2,44,169* | *2,09,926* | *34,243* | *85.98%* | *+1.02%* |
 
 ### Critical Observations from the 5-Year Data:
@@ -116,7 +86,7 @@ Diversity has been a focal point for Indian Institutes of Management. Many top I
 | **CAT 2020** | 1,52,650 | 75,180 | 5 | 1,27,396 | 62,744 | 4 | **33.00%** |
 
 ### Why Female Applications Are Surging:
-1. **Academic & Gender Diversity Policies**: [IIM Rohtak](/colleges/iim-rohtak/), IIM Kozhikode, and [IIM Kashipur](/colleges/iim-kashipur/) have championed batches with 40% to 60%+ women cohorts.
+1. **Academic & Gender Diversity Policies**: IIM Rohtak, IIM Kozhikode, and IIM Kashipur have championed batches with 40% to 60%+ women cohorts.
 2. **Corporate Hiring Incentives**: Top recruiters, management consultancies, and FMCG conglomerates actively seek balanced managerial cohorts during summer and final campus placements.
 3. **Scholarships & Women-Focused Fellowships**: Prominent institutions provide dedicated financial aid and merit scholarships for female scholars.
 
@@ -151,7 +121,7 @@ CAT Academic Demographics (Recent Cycles)
 └──────────────────────────────────────────────────────────────┘
 ```
 
-Because top IIMs (such as [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), and [IIM Calcutta](/colleges/iim-calcutta/)) evaluate Academic Categories (AC-1 to AC-6) and assign **academic diversity points**, non-engineering candidates can often secure interview calls at 96–98 percentile where engineers might require 99.6+ percentile.
+Because top IIMs (such as [IIM Ahmedabad](/colleges/iim-ahmedabad), [IIM Bangalore](/colleges/iim-bangalore), and [IIM Calcutta](/colleges/iim-calcutta)) evaluate Academic Categories (AC-1 to AC-6) and assign **academic diversity points**, non-engineering candidates can often secure interview calls at 96–98 percentile where engineers might require 99.6+ percentile.
 
 ---
 
@@ -171,10 +141,10 @@ The CAT exam pattern has consolidated into a 2-hour test consisting of 66 questi
 
 | Target Percentile | Estimated Raw Score (Out of 198) | Net Correct Questions Needed | Approximate Accuracy Recommended | Target Tier / Colleges |
 | :--- | :--- | :--- | :--- | :--- |
-| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | [IIM Ahmedabad](/colleges/iim-ahmedabad/), [IIM Bangalore](/colleges/iim-bangalore/), [IIM Calcutta](/colleges/iim-calcutta/), [FMS Delhi](/colleges/fms-delhi/) |
-| **99.0+ %ile** | **76 – 82 Marks** | 26 – 28 Net Correct | 85%+ Accuracy | [IIM Lucknow](/colleges/iim-lucknow/), IIM Kozhikode, [IIM Indore](/colleges/iim-indore/), SPJIMR |
-| **95.0+ %ile** | **55 – 62 Marks** | 19 – 22 Net Correct | 85%+ Accuracy | [MDI Gurgaon](/colleges/mdi-gurgaon/), New IIMs (Udaipur, Trichy, Raipur, Ranchi) |
-| **90.0+ %ile** | **42 – 48 Marks** | 15 – 17 Net Correct | 80%+ Accuracy | Baby IIMs, IMT Ghaziabad, [FORE School of Management](/colleges/fore-school-delhi/), GIM Goa |
+| **99.5+ %ile** | **84 – 92 Marks** | 29 – 32 Net Correct | 90%+ Accuracy | IIM Ahmedabad, IIM Bangalore, IIM Calcutta, FMS Delhi |
+| **99.0+ %ile** | **76 – 82 Marks** | 26 – 28 Net Correct | 85%+ Accuracy | IIM Lucknow, IIM Kozhikode, IIM Indore, SPJIMR |
+| **95.0+ %ile** | **55 – 62 Marks** | 19 – 22 Net Correct | 85%+ Accuracy | MDI Gurgaon, New IIMs (Udaipur, Trichy, Raipur, Ranchi) |
+| **90.0+ %ile** | **42 – 48 Marks** | 15 – 17 Net Correct | 80%+ Accuracy | Baby IIMs, IMT Ghaziabad, FORE School of Management, GIM Goa |
 | **85.0+ %ile** | **34 – 39 Marks** | 12 – 14 Net Correct | 80%+ Accuracy | TAPMI, Great Lakes Chennai, BIMTECH, Lal Bahadur Shastri (LBSIM) |
 
 ---
@@ -185,13 +155,13 @@ When competing against 3 lakh aspirants, having a clear view of your target inst
 
 | College Name | Total Fees (2-Year) | Avg Placement Package | ROI & Admission Eligibility / Expected Cutoff |
 | :--- | :--- | :--- | :--- |
-| **[FMS Delhi](/colleges/fms-delhi/) (University of Delhi)** | ₹2.40 Lakhs | ₹34.10 LPA | Highest ROI in Asia · CAT 99.2+ %ile · Selection based heavily on VARC |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad/) (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
-| **[IIM Bangalore](/colleges/iim-bangalore/) (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
-| **[IIM Calcutta](/colleges/iim-calcutta/) (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/) (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon/) (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
-| **[IIT Bombay](/colleges/iit-bombay/) (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |
+| **FMS Delhi (University of Delhi)** | ₹2.40 Lakhs | ₹34.10 LPA | Highest ROI in Asia · CAT 99.2+ %ile · Selection based heavily on VARC |
+| **IIM Ahmedabad (PGP)** | ₹26.50 Lakhs | ₹35.22 LPA | Flagship NIRF #1 · CAT 99.5+ %ile (General) · Strong Academic Weightage |
+| **IIM Bangalore (PGP)** | ₹26.00 Lakhs | ₹35.92 LPA | Premier Tech/Consulting Hub · CAT 99.3+ %ile · High Work-Ex Weightage |
+| **IIM Calcutta (PGP)** | ₹25.00 Lakhs | ₹35.07 LPA | Finance Capital of India · CAT 99.5+ %ile · Quant & DILR friendly |
+| **SPJIMR Mumbai (PGDM)** | ₹24.00 Lakhs | ₹33.00 LPA | Top Private Institute · Profile-based calls at CAT 85+ %ile / Score-based at 98+ %ile |
+| **MDI Gurgaon (PGDM)** | ₹26.00 Lakhs | ₹25.50 LPA | Prime Delhi-NCR Location · CAT 95.0+ %ile · Strong Corporate Network |
+| **IIT Bombay (SJMSOM)** | ₹14.50 Lakhs | ₹28.88 LPA | Top Engineering ROI · CAT 98.5+ %ile · Open to 4-year degree holders |
 | **IIT Delhi (DMS)** | ₹12.00 Lakhs | ₹25.82 LPA | Exceptional Corporate ROI · CAT 98.0+ %ile · Open to multiple streams |
 
 ---
@@ -209,11 +179,11 @@ With total applications tracking in the 3.2 Lakh bracket, casual preparation wil
 ## Related Reading & Essential Guides
 
 To strengthen your 2026–2027 admission roadmap, explore our expert resources:
-* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)**
-* **[All IIM Cut-Offs 2027–2029: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)**
-* **[Top IIM Colleges Placement Report & Fee Structures](/blog/1-year-online-mba-colleges-india-2027-29/)**
-* **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide/)**
+* **[10 Tips to Crack CAT Exam 2026: Complete Strategy Guide](/blog/10-tips-to-crack-cat-exam-2026)**
+* **[All About CAT Exam 2026: Syllabus, Pattern, Registration & IIM Cutoffs](/blog/all-about-cat-exam)**
+* **[All IIM Cut-Offs 2026–2028: Category-Wise Admission Criteria](/blog/all-iim-cut-off-2026-28-admission-mba-pgdm)**
+* **[Top IIM Colleges Placement Report & Fee Structures](/blog/all-about-iim-colleges-placements-fees-selection-2026)**
+* **[MBA & PGDM Admission 2027–2029 Complete Guide](/blog/mba-pgdm-admission-2027-2029-complete-guide)**
 
 ---
 
@@ -221,12 +191,12 @@ To strengthen your 2026–2027 admission roadmap, explore our expert resources:
 > 
 > Don't leave your IIM dream to chance. Assess your real-time percentile and benchmark your sectional preparation today.
 > 
-> [👉 Take the Free AI-Powered CAT 2026 Mock Test Now](/tools/cat-mock-test/)
+> [👉 Take the Free AI-Powered CAT 2026 Mock Test Now](/tools/cat-mock-test)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

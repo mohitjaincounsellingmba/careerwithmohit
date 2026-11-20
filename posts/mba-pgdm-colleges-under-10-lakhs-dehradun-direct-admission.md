@@ -1,48 +1,45 @@
 ---
-title: Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2027–29)
+title: Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (Direct Admission 2026)
 date: '2026-03-26'
 description: >-
-  2027 guide for Top MBA & PGDM Colleges Under 10 Lakhs in Dehradun (...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - MBA colleges under 10 lakhs in Dehradun
-  - PGDM direct admission Dehradun 2027–29
-  - '[Doon Business School](/colleges/doon-business-school/) placement'
+  - PGDM direct admission Dehradun 2026
+  - '[Doon Business School](/colleges/doon-business-school) placement'
   - Graphic Era MBA fees
   - management quota MBA Uttarakhand
   - best ROI MBA Dehradun
+  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Are Dehradun placements limited to Uttarakhand?
     answer: >-
       No. Nearly 80% of placements happen for roles stationed in Delhi NCR,
       Gurgaon, and Noida.
   - question: Which specialization thrives best at these colleges?
-    answer: "Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)\n*   [\U0001F449 Need specific counseling? Book a Strategy Session!](/inquiry/)\n\n*At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*"
-  - question: What is the key takeaway and strategic value of this guide?
-    answer: >-
-      This comprehensive analysis provides verified 2026–2027 timelines,
-      authentic eligibility standards, fee schedules, and realistic career
-      outcomes evaluated by Senior Consultant Mohit Jain.
+    answer: "Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.\n\n**Explore More Insights:**\n*   [\U0001F449 Read: Why Never Join Galgotias University for MBA](/blog/why-never-join-galgotias-university-for-mba-review)\n*   [\U0001F449 Need specific counseling? Book a Strategy Session!](/inquiry)\n\n*At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*"
 location: Delhi NCR
 state: Delhi NCR
-category: Certifications & Skills
 ---
 
 Dehradun has evolved into a premium educational hub that offers a serene, pollution-free academic environment perfectly blended with rigorous management training. Dehradun's proximity to Delhi NCR adds to the robust placement drives handled by top institutions.
 
 If you are looking for a high-quality MBA/PGDM program without stretching beyond a ₹10 Lakh budget, Dehradun has multiple fantastic options that provide **direct admission** for the 2027–2029 intake.
 
-### **1. [Doon Business School](/colleges/doon-business-school/) (DBS)**
+### **1. [Doon Business School](/colleges/doon-business-school) (DBS)**
 DBS is arguably the most famous name in Dehradun specifically for management education (PGDM & MBA). It consistently features high on ROI lists.
 *   **Total Fees (Approx.)**: ₹7.50 - ₹8.50 Lakhs
 *   **Average Placement**: ₹6.0 LPA - ₹7.0 LPA
@@ -54,15 +51,11 @@ DBS is arguably the most famous name in Dehradun specifically for management edu
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## What are the Key Admissions, Fees, and Placement Details for **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun/)**?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## **2. [Graphic Era (Deemed to be University)](/colleges/graphic-era-dehradun)**
 Graphic Era is synonymous with Dehradun's education scene. It’s an enormous, vibrant campus that commands high respect amongst North Indian recruiters.
 *   **Total Fees (Approx.)**: ₹6.00 - ₹7.50 Lakhs 
 *   **Average Placement**: ₹5.5 LPA - ₹6.5 LPA
@@ -98,18 +91,20 @@ No. Nearly 80% of placements happen for roles stationed in Delhi NCR, Gurgaon, a
 Agri-Business Management (popular at DBS) is uniquely strong here. Aside from that, standard Marketing & Finance specializations see the heaviest recruitment.
 
 **Explore More Insights:**
-*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university/) for MBA](/blog/why-never-join-galgotias-university-for-mba-review/)
-*   [👉 Need specific counseling? Book a Strategy Session!](/inquiry/)
+*   [👉 Read: Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA](/blog/why-never-join-galgotias-university-for-mba-review)
+*   [👉 Need specific counseling? Book a Strategy Session!](/inquiry)
 
 *At **CareerWithMohit**, we recommend Dehradun for students who want focused academic rigor matched with a premier campus life experience.*
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -119,10 +114,10 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

@@ -1,13 +1,8 @@
 ---
-title: >-
-  XAT 2027 Decision Making Previous Year Questions with Answers: Solved Caselets
-  & Strategy
+title: 'XAT 2027 Decision Making Previous Year Questions with Answers: Solved Caselets & Strategy'
 date: '2026-09-12'
-description: >-
-  Master XAT 2027 Decision Making (DM). Solved past-year caselets with
-  step-by-step reasoning frameworks, stakeholder analysis, and XLRI cutoff
-  strategy.
-category: Exams
+description: 'Master XAT 2027 Decision Making (DM). Solved past-year caselets with step-by-step reasoning frameworks, stakeholder analysis, and XLRI cutoff strategy.'
+category: 'Entrance Exams'
 keywords:
   - xat 2027 decision making previous year questions with answers
   - xat decision making solved questions pdf
@@ -15,48 +10,24 @@ keywords:
   - xlri decision making cutoff 2027
   - xat dm caselets with answers and explanation
   - decision making tips for xat
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the Decision Making (DM) section in XAT?
-    answer: >-
-      The Decision Making section is a unique, standalone 21-question section in
-      the Xavier Aptitude Test (XAT). It presents business scenarios, ethical
-      dilemmas, behavioral conflicts, and organizational caselets requiring
-      candidates to select the most balanced, ethical, and commercially viable
-      managerial decisions.
+    answer: "The Decision Making section is a unique, standalone 21-question section in the Xavier Aptitude Test (XAT). It presents business scenarios, ethical dilemmas, behavioral conflicts, and organizational caselets requiring candidates to select the most balanced, ethical, and commercially viable managerial decisions."
   - question: What is the sectional cutoff for Decision Making at XLRI?
-    answer: >-
-      XLRI Jamshedpur typically mandates a sectional cutoff between 75 and 80
-      percentile in Decision Making for both Business Management (BM) and Human
-      Resource Management (HRM). In raw score terms, scoring 9.0 to 10.5 marks
-      out of 21 safely clears the DM cutoff.
+    answer: "XLRI Jamshedpur typically mandates a sectional cutoff between 75 and 80 percentile in Decision Making for both Business Management (BM) and Human Resource Management (HRM). In raw score terms, scoring 9.0 to 10.5 marks out of 21 safely clears the DM cutoff."
   - question: Are mathematical calculations involved in XAT Decision Making?
-    answer: >-
-      Yes, approximately 1 to 2 sets in DM involve analytical and mathematical
-      decision making (such as break-even analysis, capacity optimization, or
-      supplier pricing decisions), while the remaining 5 to 6 sets are
-      qualitative behavioral and ethical dilemmas.
+    answer: "Yes, approximately 1 to 2 sets in DM involve analytical and mathematical decision making (such as break-even analysis, capacity optimization, or supplier pricing decisions), while the remaining 5 to 6 sets are qualitative behavioral and ethical dilemmas."
   - question: How can I avoid negative marks in XAT Decision Making?
-    answer: >-
-      Always eliminate extreme, emotionally impulsive, or punitive choices.
-      Prioritize options that uphold ethical governance, respect legal
-      frameworks, engage all stakeholders in constructive dialogue, and resolve
-      the root cause rather than treating superficial symptoms.
-location: Delhi NCR
-state: Delhi NCR
+    answer: "Always eliminate extreme, emotionally impulsive, or punitive choices. Prioritize options that uphold ethical governance, respect legal frameworks, engage all stakeholders in constructive dialogue, and resolve the root cause rather than treating superficial symptoms."
+location: 'Pan India'
+state: 'Pan India'
 ---
 
-The **Xavier Aptitude Test (XAT)**, conducted annually by [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), is celebrated for evaluating true managerial aptitude through its defining section: **Decision Making (DM)**.
+The **Xavier Aptitude Test (XAT)**, conducted annually by XLRI Jamshedpur, is celebrated for evaluating true managerial aptitude through its defining section: **Decision Making (DM)**.
 
-Carrying 21 to 22 questions, the DM section accounts for a standalone sectional cutoff at [XLRI Jamshedpur](/colleges/xlri-jamshedpur/), XLRI Delhi-NCR, XIMB Bhubaneswar, and IMT Ghaziabad. Many students with 99 percentile in Quantitative Aptitude and Verbal Ability fail to convert XLRI calls simply because they stumble below the **75th percentile threshold in Decision Making**.
+Carrying 21 to 22 questions, the DM section accounts for a standalone sectional cutoff at XLRI Jamshedpur, XLRI Delhi-NCR, XIMB Bhubaneswar, and IMT Ghaziabad. Many students with 99 percentile in Quantitative Aptitude and Verbal Ability fail to convert XLRI calls simply because they stumble below the **75th percentile threshold in Decision Making**.
 
-[InquiryCard title="Targeting [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) via XAT 2027?" description="Get specialized Decision Making and Essay Writing prep strategies directly from mentor Mohit Jain." cta="Book XAT Mentorship Session" type="counselling"]
+[InquiryCard title="Targeting XLRI Jamshedpur via XAT 2027?" description="Get specialized Decision Making and Essay Writing prep strategies directly from mentor Mohit Jain." cta="Book XAT Mentorship Session" type="counselling"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **The Core Dilemma**: Decision Making tests balanced managerial judgment across business viability, human empathy, and legal ethics.
@@ -65,11 +36,7 @@ Carrying 21 to 22 questions, the DM section accounts for a standalone sectional 
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for The Managerial Decision Framework?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## 1. The Managerial Decision Framework
 
 When analyzing any XAT Decision Making caselet, apply this systematic 4-tier decision filter:
 
@@ -146,15 +113,6 @@ graph TD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-
----
-
-## Verified Admissions & Placement Facts Matrix
-
-| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **XAT 2027 Decision Making Previous Year Questi** | ₹50 Crore | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

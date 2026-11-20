@@ -118,9 +118,9 @@ Typically, Classplus and Graphy take 10-14 days to deploy your app on the Google
 ---
 
 *Related reading to help you scale your digital education business:*
-*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2027-29/)
-*   [Aggregators vs. Branded Apps: Best Platforms to Sell Courses](/blog/best-platforms-sell-courses-online-comparison-2027-29/)
-*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026/)
+*   [How to Sell Your Coaching Online in 2026](/blog/how-to-sell-your-coaching-online-2026)
+*   [Aggregators vs. Branded Apps: Best Platforms to Sell Courses](/blog/best-platforms-sell-courses-online-comparison-2026)
+*   [How YouTubers Can Monetize Their Audience with Custom Apps](/blog/how-youtubers-can-monetize-audience-with-branded-app-2026)
 
 ---
 

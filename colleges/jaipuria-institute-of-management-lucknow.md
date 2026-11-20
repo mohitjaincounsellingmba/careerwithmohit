@@ -1,5 +1,5 @@
 ---
-name: 'Jaipuria Institute of Management, Lucknow'
+name: Jaipuria Institute of Management
 logo: ''
 location: Lucknow
 category: Management

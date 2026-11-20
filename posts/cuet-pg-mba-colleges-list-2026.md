@@ -117,10 +117,10 @@ Unlike CAT, the CUET PG admission process is **not centralized**. Here is what y
 ---
 
 ### **📊 Helpful Resources for Your MBA Journey:**
-- [Top 10 High ROI MBA Colleges via CUET PG](/blog/top-mba-colleges-cuet-pg/)
-- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile/)
+- [Top 10 High ROI MBA Colleges via CUET PG](/blog/top-mba-colleges-cuet-pg)
+- [CUET PG 2026 Score Calculator: Marks vs Percentile](/blog/cuet-pg-2026-score-calculator-marks-vs-percentile)
 - [CUET PG MBA College Predictor Tool 2026](/tools/cuet-pg-mba-predictor)
-- [CUET PG 2026 Result Expected Date Timeline](/blog/cuet-pg-2026-result-expected-date/)
+- [CUET PG 2026 Result Expected Date Timeline](/blog/cuet-pg-2026-result-expected-date)
 
 **Still Unsure Which College to Pick?**
 Selecting a university is as important as the exam itself. If you need help comparing BHU vs. JNU or understanding the placement trends at private universities, our experts are here to help.

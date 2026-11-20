@@ -143,9 +143,9 @@ XLRI accepts GMAT for its **PGDM (General Management)** program, which is a 15-m
 If you are a working professional with 2+ years of experience, the GMAT is often a better investment than the CAT, as it opens doors to both Indian executive programs and global MBA opportunities.
 
 **Need help with your GMAT application?**
-- [Check out our 10 Tips to Crack CAT/GMAT 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
-- [Explore Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2027-29/)
-- [All About GMAT Focus Edition Guide](/tools/gmat-mock-test/)
+- [Check out our 10 Tips to Crack CAT/GMAT 2026](/blog/10-tips-to-crack-cat-exam-2026)
+- [Explore Best MBA Colleges in India 2026](/blog/best-mba-colleges-india-2026)
+- [All About GMAT Focus Edition Guide](/blog/all-about-gmat-exam-colleges-cutoffs)
 
 
 

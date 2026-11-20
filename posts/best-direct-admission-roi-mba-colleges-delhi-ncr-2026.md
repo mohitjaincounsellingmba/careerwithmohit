@@ -86,7 +86,7 @@ JIMS is one of the most consistent performers in Delhi for PGDM.
 - **Average Placement:** ₹9.00 – ₹10.50 Lakhs
 - **Why it has High ROI:** The fee is kept under 10 Lakhs while the placements routinely hit the 9-10 LPA mark. It's a highly reputable brand in North India.
 - **Admission Mode:** Institute-level seats available for strong academic profiles.
-- **Related Read:** [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026/)
+- **Related Read:** [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026)
 
 ### 3. GL Bajaj Institute of Management & Research, Greater Noida
 If you are looking for an affordable PGDM program, GL Bajaj is a dominant player in the Greater Noida ecosystem.
@@ -134,7 +134,7 @@ Taking direct admission via Management Quota is 100% legal, but the market is fu
 3. **Check Approvals:** Ensure the college is AICTE approved and the MBA degree is UGC recognized.
 4. **Use Expert Guidance:** Speak to verified career counsellors who have official tie-ups with the universities.
 
-👉 **Must Read:** [Management Quota Legality & Fraud Protection Guidelines](/blog/management-quota-legality-fraud-protection/)
+👉 **Must Read:** [Management Quota Legality & Fraud Protection Guidelines](/blog/management-quota-legality-fraud-protection)
 
 ---
 

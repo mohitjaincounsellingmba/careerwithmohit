@@ -1,0 +1,12 @@
+{
+  "total_urls_tested": 7255,
+  "summary": {
+    "status_200": 6148,
+    "status_301": 1107,
+    "status_404": 0,
+    "status_410": 0,
+    "status_5xx": 0,
+    "redirect_chains": 0,
+    "redirect_loops": 0
+  }
+}

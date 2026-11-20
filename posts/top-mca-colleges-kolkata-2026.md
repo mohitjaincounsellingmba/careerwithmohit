@@ -1,10 +1,11 @@
 ---
 title: 'Top MCA Colleges in Kolkata 2026 — Fees, Placements & Admission'
 date: '2026-04-21'
-category: BCA/MCA
+category: MCA Admissions
 description: >-
   Planning your MCA in East India's gateway? Compare the best MCA colleges in
-  Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage.
+  Kolkata for 2026. Detailed guide on Jadavpur University (JU), Heritage, and
+  Techno India.
 keywords:
   - top mca colleges in kolkata 2026
   - best mca colleges kolkata
@@ -20,13 +21,6 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Does University of Calcutta accept WB JECA?
     answer: >-
@@ -43,14 +37,9 @@ faqs:
       University for their flagship software engineering roles.
   - question: When is the WB JECA 2026 exam?
     answer: Usually held in **July**. Registrations typically open in May.
-location: Delhi NCR
-state: Delhi NCR
+location: Mumbai
+state: Maharashtra
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
-> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
-> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
-
 
 Kolkata, the "City of Joy" and East India's primary educational hub, offers some of the most specialized and affordable MCA (Master of Computer Applications) programs in the country. With Jadavpur University leading the way and Salt Lake Sector V housing thousands of IT firms, Kolkata provides a launchpad for students targeting Tier-1 software roles without the high living costs of Mumbai or Bangalore.
 
@@ -58,17 +47,13 @@ Choosing an MCA college in Kolkata means being at the gateway of North-East Indi
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for 🔥 Quick Snapshot: Best MCA Colleges in Kolkata 2026?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## 🔥 Quick Snapshot: Best MCA Colleges in Kolkata 2026
 
 | College | Entrance Exam | Total Fees | Avg. Package |
 |---|---|---|---|
 | **Jadavpur University (JU)** | WB JECA | ₹0.1 - 0.2 Lakhs | ₹10.5 - 18.0 LPA |
 | **Heritage Institute (HIT)**| WB JECA | ₹2.2 - 3.2 Lakhs | ₹5.5 - 9.0 LPA |
-| **[Techno India University](/colleges/techno-india-university-kolkata/)** | WB JECA / Merit | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
+| **[Techno India University](/colleges/techno-india-university-kolkata)** | WB JECA / Merit | ₹3.5 - 5.5 Lakhs | ₹4.5 - 7.5 LPA |
 | **University of Calcutta** | CU Entrance | ₹0.2 - 0.4 Lakhs | ₹4.0 - 6.5 LPA |
 | **MAKAUT (In-house)** | WB JECA | ₹1.8 - 2.8 Lakhs | ₹4.2 - 7.0 LPA |
 | **Netaji Subhash (NSHM)** | WB JECA | ₹2.5 - 4.2 Lakhs | ₹3.8 - 6.0 LPA |
@@ -100,9 +85,9 @@ For an MCA student, Kolkata offers distinct benefits:
 ## 🏗️ Direct MCA Admission in Kolkata 2026
 
 If you miss the WB JECA dates, several reputable colleges offer merit-based direct entry:
-- **[Techno India Group](/colleges/techno-india-group/):** A massive conglomerate with multiple campuses and a centralized placement cell.
+- **[Techno India Group](/colleges/techno-india-group):** A massive conglomerate with multiple campuses and a centralized placement cell.
 - **Brainware University:** Focuses on job-ready skills and affordable private MCA programs.
-- **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata/) (SNU):** A growing brand in New Town with high-end labs and industry tie-ups.
+- **[Sister Nivedita University](/colleges/sister-nivedita-university-kolkata) (SNU):** A growing brand in New Town with high-end labs and industry tie-ups.
 
 ---
 
@@ -126,23 +111,25 @@ Usually held in **July**. Registrations typically open in May.
 ---
 
 ### Useful Links:
-- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026/)
-- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
-- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2026/)
+- [Top MCA Colleges in India 2026 NIRF Guide](/blog/top-mca-colleges-india-nirf-ranking-2026)
+- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
+- [BCA Colleges in Kolkata 2026](/blog/top-bca-colleges-kolkata-2026)
 
 ---
 
 **Ready to start your code journey in the City of Joy?**
 Kolkata offers value and excellence. Don't waste your years at a college without a functional coding club. Mohit Jain provides an "Eastern India Tech Audit"—helping you pick the college that matches your goals for academic computer science or high-end product engineering.
 
-[👉 Book My Kolkata MCA Roadmap](/inquiry/) | [💬 Chat with Mohit](/inquiry/)
+[👉 Book My Kolkata MCA Roadmap](/inquiry) | [💬 Chat with Mohit](/inquiry)
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

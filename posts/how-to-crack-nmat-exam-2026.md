@@ -125,9 +125,9 @@ Absolutely. The syllabus is virtually identical. The only shift required is prac
 ---
 
 ### Related Articles:
-*   [All About NMAT Exam 2026: NMIMS Cutoffs, Pattern & Colleges](/resources/nmat/)
-*   [Free NMAT Mock Test 2026: Practice Adaptive Format](/blog/why-take-our-free-nmat-mock-test-2026-online/)
-*   [NMAT Prep Strategy: Scoring 240+ Scaled Marks](/blog/nmat-2026-preparation-strategy-240-score/)
+*   [All About NMAT Exam 2026: NMIMS Cutoffs, Pattern & Colleges](/blog/all-about-nmat-exam)
+*   [Free NMAT Mock Test 2026: Practice Adaptive Format](/blog/free-nmat-mock-test-2026-nmims-prep)
+*   [NMAT Prep Strategy: Scoring 240+ Scaled Marks](/blog/nmat-2026-preparation-strategy-240-score)
 ---
 
 ### 🚀 Boost Your Preparation

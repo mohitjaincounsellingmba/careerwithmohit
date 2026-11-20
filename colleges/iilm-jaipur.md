@@ -1,5 +1,5 @@
 ---
-name: 'IILM Academy of Higher Learning, Jaipur'
+name: IILM Academy of Higher Learning
 logo: ''
 location: Jaipur
 category: Management
@@ -45,12 +45,10 @@ keywords:
   - MBA colleges Jaipur
   - Jaipur Colleges
   - Best Colleges in Jaipur
-  - Top Colleges in Jaipur 2027-29
-  - Jaipur Direct Admission 2027-29
-  - Colleges in Rajasthan
-  - Jaipur Career Counselling
   - Top Colleges in Jaipur 2026
   - Jaipur Direct Admission 2026
+  - Colleges in Rajasthan
+  - Jaipur Career Counselling
 state: Rajasthan
 ---
 

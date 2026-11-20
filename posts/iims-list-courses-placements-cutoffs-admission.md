@@ -2,12 +2,13 @@
 title: 'Complete List of 21 IIMs in India 2026: Courses, Placements & Admission Guide'
 date: '2026-03-12'
 description: >-
-  2027 guide for Complete List of 21 IIMs in India 2026: Courses, Pla...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - '[IIM Ahmedabad](/colleges/iim-ahmedabad/)'
-  - '[IIM Bangalore](/colleges/iim-bangalore/)'
-  - '[IIM Calcutta](/colleges/iim-calcutta/)'
+  - '[IIM Ahmedabad](/colleges/iim-ahmedabad)'
+  - '[IIM Bangalore](/colleges/iim-bangalore)'
+  - '[IIM Calcutta](/colleges/iim-calcutta)'
   - IIM Lucknow
   - IIM Indore
   - IIM Kozhikode
@@ -16,17 +17,23 @@ keywords:
   - IIM Placement 2026
   - CAT Cut off 2026
   - IIM Admission Process
-  - IIM fees 2027–29
+  - IIM fees 2026
   - IIM PGP program
   - CAT percentile for IIM 2026
   - new IIMs India admission
   - IIM average salary package 2025
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: How can a fresher secure a high-paying job in India?
     answer: >-
@@ -45,44 +52,38 @@ faqs:
       industries.
 location: Delhi NCR
 state: Delhi NCR
-category: Jobs & Careers
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **High-Impact Skillset**: Practical competencies, industry-standard tools, and verified project experience in high demand.
-> - **Hiring & Stipend Trends**: Verified recruiter hiring criteria, interview rounds, and competitive entry-level packages.
-> - **Career Acceleration**: Direct applicability to resumes, ATS score enhancement, and 1-on-1 career guidance.
-
 The Indian Institutes of Management (IIMs) represent the gold standard of business education. Every IIM has its own unique placement record, selection criteria, and course specializations. 
 
 In this comprehensive guide, we list every IIM separately with all the essential information you need for 2026 admission.
 
 ---
 
-### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad/) (IIMA)
+### 1. [IIM Ahmedabad](/colleges/iim-ahmedabad) (IIMA)
 *   **Flagship Courses:** PGP (MBA), PGP-FABM (Agri-Business), PGPX (1-Year Executive).
 *   **Placements (Avg):** ₹32.7 LPA – ₹34.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Sectional 80+).
 *   **Admission Rounds:** AWT (Analytical Writing Test) & Personal Interview (PI).
 
-### 2. [IIM Bangalore](/colleges/iim-bangalore/) (IIMB)
+### 2. [IIM Bangalore](/colleges/iim-bangalore) (IIMB)
 *   **Flagship Courses:** PGP, PGP-BA (Business Analytics), EPGP.
 *   **Placements (Avg):** ₹35.3 LPA.
 *   **Expected CAT Cut-off:** 99.0+ Percentile (High weightage on academics).
 *   **Admission Rounds:** WAT (Written Ability Test) & Personal Interview (PI).
 
-### 3. [IIM Calcutta](/colleges/iim-calcutta/) (IIMC)
+### 3. [IIM Calcutta](/colleges/iim-calcutta) (IIMC)
 *   **Flagship Courses:** MBA, PGDBA (Business Analytics).
 *   **Placements (Avg):** ₹35.0 LPA.
 *   **Expected CAT Cut-off:** 99.5+ Percentile (Focus on Quants).
 *   **Admission Rounds:** Personal Interview (PI) only (WAT is often skipped).
 
-### 4. [IIM Lucknow](/colleges/iim-lucknow/) (IIML)
+### 4. IIM Lucknow (IIML)
 *   **Flagship Courses:** PGP, PGP-ABM (Agri-Business), PGP-SM (Sustainability).
 *   **Placements (Avg):** ₹30.0 LPA – ₹32.3 LPA.
 *   **Expected CAT Cut-off:** 98.5+ Percentile.
 *   **Admission Rounds:** WAT & Personal Interview (PI).
 
-### 5. [IIM Indore](/colleges/iim-indore/) (IIMI)
+### 5. IIM Indore (IIMI)
 *   **Flagship Courses:** PGP, PGP-HRM, IPM (5-Year Program after 12th).
 *   **Placements (Avg):** ₹29.0 LPA – ₹30.2 LPA.
 *   **Expected CAT Cut-off:** 98.0+ Percentile (Strong focus on 10th/12th marks).
@@ -108,25 +109,25 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 95+ Percentile.
 *   **Admission Rounds:** GD (Group Discussion) & Personal Interview (PI).
 
-### 9. [IIM Udaipur](/colleges/iim-udaipur/)
+### 9. IIM Udaipur
 *   **Flagship Courses:** MBA, MBA (Global Supply Chain Management).
 *   **Placements (Avg):** ₹20.3 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** Common Admission Process (CAP) Interview.
 
-### 10. [IIM Rohtak](/colleges/iim-rohtak/)
+### 10. IIM Rohtak
 *   **Flagship Courses:** PGP, IPM (Integrated 5-Year).
 *   **Placements (Avg):** ₹19.3 LPA.
 *   **Expected CAT Cut-off:** 95+ Percentile (Separate process for General).
 *   **Admission Rounds:** Online PI (Personal Interview).
 
-### 11. [IIM Ranchi](/colleges/iim-ranchi/)
+### 11. IIM Ranchi
 *   **Flagship Courses:** MBA, MBA-HRM, MBA-BA, IPM.
 *   **Placements (Avg):** ₹18.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 12. [IIM Raipur](/colleges/iim-raipur/)
+### 12. IIM Raipur
 *   **Flagship Courses:** PGP.
 *   **Placements (Avg):** ₹21.0 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -138,7 +139,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
 *   **Admission Rounds:** CAP Interview.
 
-### 14. [IIM Kashipur](/colleges/iim-kashipur/)
+### 14. IIM Kashipur
 *   **Flagship Courses:** PGP, PGP-BA.
 *   **Placements (Avg):** ₹18.1 LPA.
 *   **Expected CAT Cut-off:** 94+ Percentile (CAP Participant).
@@ -146,7 +147,7 @@ In this comprehensive guide, we list every IIM separately with all the essential
 
 ---
 
-### 15. [IIM Nagpur](/colleges/iim-nagpur/)
+### 15. IIM Nagpur
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.7 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
@@ -158,31 +159,31 @@ In this comprehensive guide, we list every IIM separately with all the essential
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 17. [IIM Amritsar](/colleges/iim-amritsar/)
+### 17. IIM Amritsar
 *   **Flagship Courses:** MBA, MBA-BA, MBA-HR.
 *   **Placements (Avg):** ₹16.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** Personal Interview (PI).
 
-### 18. [IIM Bodh Gaya](/colleges/iim-bodh-gaya/)
+### 18. IIM Bodh Gaya
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹15.8 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile (SAPS for girls).
 *   **Admission Rounds:** CAP Interview.
 
-### 19. [IIM Sambalpur](/colleges/iim-sambalpur/)
+### 19. IIM Sambalpur
 *   **Flagship Courses:** MBA.
 *   **Placements (Avg):** ₹16.6 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 20. [IIM Sirmaur](/colleges/iim-sirmaur/)
+### 20. IIM Sirmaur
 *   **Flagship Courses:** MBA, MBA (Tourism & Hospitality).
 *   **Placements (Avg):** ₹14.5 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
 *   **Admission Rounds:** CAP Interview.
 
-### 21. [IIM Jammu](/colleges/iim-jammu/)
+### 21. IIM Jammu
 *   **Flagship Courses:** MBA, IPM.
 *   **Placements (Avg):** ₹16.4 LPA.
 *   **Expected CAT Cut-off:** 92+ Percentile.
@@ -196,15 +197,11 @@ Most "New" and "Baby" IIMs conduct a synchronized admission round called **CAP**
 ### Need Help with IIM Admission?
 Cracking IIM is about strategy, not just score. At **CareerWithMohit**, we provide personalized mentoring for WAT/GD/PI rounds and help you build a profile that stands out.
 
-[**Inquiry Now for IIM Admission Support**](/inquiry/) | [**Explore More Career Guides**](/blog/)
+[**Inquiry Now for IIM Admission Support**](/inquiry) | [**Explore More Career Guides**](/posts)
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for ❓ Frequently Asked Questions (FAQ)?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## ❓ Frequently Asked Questions (FAQ)
 
 ### How can a fresher secure a high-paying job in India?
 Focus on building in-demand skills (such as coding, business analytics, digital marketing), create a strong portfolio, and actively network on platforms like LinkedIn.
@@ -218,19 +215,12 @@ Communication skills, problem-solving, team collaboration, adaptability, and emo
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-
----
-
-## Verified Admissions & Placement Facts Matrix
-
-| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **Complete List of 21 IIMs in India 2026: Cours** | ₹32.7 LPA | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

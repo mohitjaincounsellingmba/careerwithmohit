@@ -1,6 +1,6 @@
 ---
-name: 'Amity University, Mumbai'
-logo: 'https://images.shiksha.com/mediadata/images/1545631248phpK2vH0.jpeg'
+name: Amity University Mumbai
+logo: ''
 location: Mumbai
 category: Management
 type: Institute
@@ -18,7 +18,7 @@ exams:
   - MAT
   - CMAT
   - Amity JEE
-website: 'https://www.amity.edu/mumbai/'
+website: ''
 brochure_url: ''
 seo_title: 'Amity University Mumbai MBA Fees, Cutoff & Placement 2027'
 seo_description: >-
@@ -45,12 +45,10 @@ keywords:
   - MBA colleges Mumbai
   - Mumbai Colleges
   - Best Colleges in Mumbai
-  - Top Colleges in Mumbai 2027-29
-  - Mumbai Direct Admission 2027-29
-  - Colleges in Maharashtra
-  - Mumbai Career Counselling
   - Top Colleges in Mumbai 2026
   - Mumbai Direct Admission 2026
+  - Colleges in Maharashtra
+  - Mumbai Career Counselling
 state: Maharashtra
 ---
 

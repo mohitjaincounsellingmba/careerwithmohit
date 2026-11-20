@@ -28,26 +28,16 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-category: Exams
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
-> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
-> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
-
 One of the most unique aspects of the Common Admission Test (CAT) is the inclusion of **TITA (Type In The Answer)** questions. Introduced in 2015, TITA questions are non-MCQ questions where candidates do not choose from multiple-choice options. Instead, they must type their calculated answer using an on-screen virtual keyboard.
 
 The biggest advantage of TITA questions is simple yet powerful: **they carry zero negative marking**. While a wrong MCQ answer deducts 1 mark, a wrong TITA answer results in 0 marks deducted.
 
-In this guide, we will analyze the role of TITA questions in the [CAT exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/), highlight historical patterns, and discuss strategies to exploit this feature to boost your overall percentile.
+In this guide, we will analyze the role of TITA questions in the [CAT exam 2026](/blog/all-about-cat-exam), highlight historical patterns, and discuss strategies to exploit this feature to boost your overall percentile.
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for The TITA Question Distribution: What to Expect?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## The TITA Question Distribution: What to Expect
 
 On average, TITA questions make up **25% to 30%** of the entire CAT paper. The section-wise distribution typically looks like this:
 
@@ -102,9 +92,9 @@ In QA, TITA questions are highly common in Algebra, Arithmetic, and Number Syste
 - **Check the typing format:** The system only accepts numeric inputs (and minus/decimal points where applicable). Make sure you type exactly what is asked. If the question asks for "ratio of work completed by A to B" and the ratio is 2:3, do not type "2:3"—check if the question asks for a decimal equivalent like "0.67" or if it asks for the value of a specific variable.
 - **Attempt every TITA question:** In the final 2 minutes of any section, if you have unattempted TITA questions, **do not leave them blank**. Put in reasonable numbers (like 0, 1, 2, or 10 in QA) before the timer runs out. A random guess has a non-zero chance of being correct, and there is no penalty!
 
-To practice handling TITA questions in real-time, compute your estimated raw score using our [CAT Score Calculator 2026](/tools/cat-score-calculator/) or start preparing with our [10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/).
+To practice handling TITA questions in real-time, compute your estimated raw score using our [CAT Score Calculator 2026](/tools/cat-score-calculator) or start preparing with our [10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026).
 
-[👉 Confused about how to balance MCQ and non-MCQ questions? Consult our MBA admission counsellors today!](/inquiry/)
+[👉 Confused about how to balance MCQ and non-MCQ questions? Consult our MBA admission counsellors today!](/inquiry)
 
 ---
 
@@ -122,11 +112,13 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 

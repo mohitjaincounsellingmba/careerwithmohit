@@ -30,7 +30,6 @@ faqs:
       market.
 location: Bangalore
 state: Karnataka
-author: Mohit Jain
 ---
 
 Kristu Jayanti College (KJC), Bengaluru, is an autonomous institution known for its high standards of academic excellence and value-based education. Consistently ranked among the top colleges in India, it is a preferred destination for BBA aspirants in 2026 who are looking for a disciplined yet dynamic learning environment.
@@ -70,9 +69,9 @@ The college provides hostel facilities for both boys and girls through affiliate
 While the General BBA is the most popular, 'BBA in Business Analytics' and 'BBA in Aviation Management' are seeing high demand in the 2026 job market.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026/)
-- [Christ University Bangalore BBA Admission Guide 2026](/colleges/christ-university-bangalore/)
-- [Mount Carmel College Bengaluru BBA Admission Guide 2026](/colleges/mount-carmel-college-bangalore/)
+- [Top 10 BBA Colleges in Bangalore 2026](/blog/top-10-bba-colleges-bangalore-2026)
+- [Christ University Bangalore BBA Admission Guide 2026](/blog/all-about-christ-university-bangalore-bba-admission-2026)
+- [Mount Carmel College Bengaluru BBA Admission Guide 2026](/blog/all-about-mount-carmel-college-bengaluru-bba-admission-2026)
 
 ---
 
@@ -86,7 +85,7 @@ The panel at KJC focuses on your values and communication skills. Mohit Jain’s
 
 
 
-
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

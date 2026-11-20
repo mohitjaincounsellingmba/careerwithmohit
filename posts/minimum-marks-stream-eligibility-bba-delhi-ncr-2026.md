@@ -1,7 +1,7 @@
 ---
 title: Minimum Marks & Stream Eligibility for BBA in Delhi NCR Colleges 2026
 date: '2026-05-21'
-category: BBA
+category: BBA Admissions
 description: >-
   Confused about BBA eligibility? Read our 2026 guide on minimum marks, stream
   eligibility (Science/Commerce/Arts), and maths requirements in Delhi NCR.
@@ -23,7 +23,6 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What are the career options after BBA?
     answer: >-
@@ -43,11 +42,6 @@ faqs:
 location: Delhi NCR
 state: Delhi NCR
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Undergraduate Professional Roadmap**: Early career foundation, practical project work, and skill certification alignment.
-> - **Eligibility Criteria**: Minimum 50% in 10+2 (CBSE/ISC/State Board) with entrance tests (CUET/IPU CET/NPAT) or direct merit.
-> - **Career & Higher Study Pathways**: Direct corporate campus placements or foundation for top-tier MBA/MCA programs.
-
 One of the most common questions undergraduate management aspirants ask is: *"Am I eligible for a BBA program if I am from the Arts or Science stream?"* or *"Do I need Mathematics in Class 12 to pursue BBA in Delhi NCR?"*
 
 Eligibility rules vary significantly between universities. To help you plan your admissions, here is a complete breakdown of **minimum marks, stream eligibility, and subject requirements for BBA in Delhi NCR for 2026**.
@@ -56,7 +50,7 @@ Eligibility rules vary significantly between universities. To help you plan your
 
 ## 🌾 Stream Eligibility: Can Science, Commerce & Arts Students Apply?
 
-**The short answer is **yes**. The BBA (Bachelor of Business Administration) is an interdisciplinary management program. It is designed to train students from all educational backgrounds.**
+The short answer is **yes**. The BBA (Bachelor of Business Administration) is an interdisciplinary management program. It is designed to train students from all educational backgrounds.
 
 - **Commerce Stream:** Naturally aligned. Commerce students find many familiar concepts in accounting, business studies, and economics.
 - **Science Stream (PCM/PCB):** Highly welcomed. Science students often perform exceptionally well due to their analytical and quantitative backgrounds.
@@ -75,7 +69,7 @@ Admissions to elite Delhi University management programs (BMS and BBA in Financi
 
 ### 2. Where Mathematics is NOT Required
 Most private universities and state-affiliated colleges in Delhi NCR do not require Mathematics in Class 12.
-- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida/), [Galgotias University](/colleges/galgotias-university/), [BML Munjal University](/colleges/bml-munjal-gurgaon/).
+- **Key Colleges:** Symbiosis (SCMS Noida), IP University colleges (MAIMS, MSI, VIPS), [Amity University](/colleges/amity-noida), [Galgotias University](/colleges/galgotias-university), [BML Munjal University](/colleges/bml-munjal-gurgaon).
 - **Rule:** General eligibility is based on total aggregate score, regardless of whether you took Mathematics.
 
 ---
@@ -105,15 +99,15 @@ To qualify for application, you must meet the minimum board percentage:
 | **Delhi University (DU)** | Mathematics / Applied Maths | 60% | No |
 | **IP University (GGSIPU)** | English + Best 4 subjects | 50% | **Yes** |
 | **Symbiosis (SET)** | English + Best 4 subjects | 50% | **Yes** |
-| **[Amity University](/colleges/amity-noida/)** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
+| **[Amity University](/colleges/amity-noida)** | Any stream subjects | 55% (Non-sponsored) | **Yes** |
 | **Jamia Millia (JMI)** | Any stream subjects | 50% | **Yes** |
 
 ---
 
 ## 🔗 Related Resources
-- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026/)
-- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs/)
-- [BBA Specializations for 2026 Admissions](/blog/bba-specializations-skills-salary-2026-guide/)
+- [BBA Colleges Without Maths — 2026 Guide](/blog/bba-colleges-without-maths-eligibility-2026)
+- [How to Choose: SSCBS vs Jamia Millia vs Amity](/blog/choose-right-bba-college-delhi-ncr-jamia-vs-amity-vs-sscbs)
+- [BBA Specializations for 2026 Admissions](/blog/bba-specializations-skills-salary-2026-guide)
 
 ---
 
@@ -131,10 +125,12 @@ Specializations in Business Analytics, Digital Marketing, Finance, and Internati
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

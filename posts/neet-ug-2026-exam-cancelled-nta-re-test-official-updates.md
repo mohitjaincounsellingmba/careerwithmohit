@@ -3,10 +3,11 @@ title: >-
   NEET UG 2026 Exam Cancelled: NTA Announces Re-Test Due to Irregularities –
   Latest Updates
 date: '2026-05-12'
-category: Medical/MBBS
+category: Medical Admissions
 description: >-
   Breaking News: NTA has officially cancelled the NEET UG 2026 examination held
-  on May 3. Get the latest details on the re-exam dates, CBI inquiry.
+  on May 3. Get the latest details on the re-exam dates, CBI inquiry, and what
+  aspirants should do next.
 keywords:
   - neet ug 2026 cancelled
   - neet 2026 re-test date
@@ -31,11 +32,6 @@ faqs:
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Global & National Recognition**: NMC/WHO/UGC recognized universities with clinical training and modern campus facilities.
-> - **Admission & Visa Process**: Step-by-step documentation, eligibility scores (NEET/IELTS/DET), and transparent fee schedules.
-> - **Licensing & Career Opportunities**: Preparation pathways for NEXT/FMGE and international residency or practice licenses.
-
 In a massive development for medical aspirants, the **National Testing Agency (NTA)**, with approval from the Government of India, has officially **cancelled the NEET UG 2026 examination** that was conducted on May 3, 2026. 
 
 The decision comes after weeks of allegations regarding examination irregularities and a potential paper leak that surfaced across multiple centers in the country. To maintain the sanctity of the examination and ensure a fair playing field for over **25 lakh students**, the government has decided to conduct a fresh examination.
@@ -44,7 +40,7 @@ The decision comes after weeks of allegations regarding examination irregulariti
 
 ## 🚨 Why was NEET UG 2026 Cancelled?
 
-**Following the conduct of the exam on May 3, several reports of "unusual patterns" and local paper leak allegations emerged. While initially the NTA denied any widespread leakage, further investigations and internal reviews pointed towards serious discrepancies.**
+Following the conduct of the exam on May 3, several reports of "unusual patterns" and local paper leak allegations emerged. While initially the NTA denied any widespread leakage, further investigations and internal reviews pointed towards serious discrepancies.
 
 Key reasons for the cancellation include:
 - **Allegations of Paper Leak:** Reports of questions circulating on social media platforms before the exam.
@@ -91,17 +87,17 @@ The referral to the CBI signifies the gravity of the situation. The inquiry will
 
 ## 🔗 Important Resources for Aspirants
 
-- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review/)
-- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
-- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees/)
-- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide/)
+- [NEET UG 2026 Paper Analysis (May 3 Session Review)](/blog/neet-2026-paper-analysis-review)
+- [Top 10 MBBS Colleges in India — Fees & Rankings](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
+- [Direct Admission Guide for MBBS 2026](/blog/mbbs-management-quota-admission-2026-process-fees)
+- [NEET 2026 Exam Strategy & Last Minute Tips](/blog/neet-2026-exam-strategy-guide)
 
 ---
 
 **Worried about the NEET cancellation?**
 Mohit Jain and his team are here to support you. We provide expert counselling to help you navigate through these uncertain times and ensure your career path remains on track.
 
-[👉 Get Career Counselling Support](/inquiry/) | [💬 Message Mohit on WhatsApp](/inquiry/)
+[👉 Get Career Counselling Support](/inquiry) | [💬 Message Mohit on WhatsApp](/inquiry)
 
 ---
 
@@ -119,10 +115,12 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

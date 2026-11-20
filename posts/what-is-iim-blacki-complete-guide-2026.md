@@ -60,17 +60,11 @@ faqs:
       status and comparable placement benchmarks.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Official B-School Admission Bulletin & Audited Placement Report"
-  - "National Institutional Ranking Framework (NIRF Management)"
-  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
 
 Every MBA aspirant in India dreams of stepping into the hallowed halls of an Indian Institute of Management. But within the IIM ecosystem itself, one acronym stands above all others as the absolute **holy grail of Indian management education**: **IIM "BLACKI"**.
 
-If you are preparing for the [CAT Exam](/resources/cat/) and aiming for the 2027–29 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
+If you are preparing for the [CAT Exam](/blog/all-about-cat-exam) and aiming for the 2027–29 MBA/PGP batch, understanding what makes IIM BLACKI so coveted—and precisely what it takes to crack these institutes—is essential for shaping your preparation strategy.
 
 ---
 
@@ -87,7 +81,7 @@ Here is the full form and breakdown of **IIM BLACKI**:
 *   **K** — **IIM Kozhikode** (Established 1996)
 *   **I** — **IIM Indore** (Established 1996)
 
-While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/) and New IIMs—the original **BLACKI** group remains the benchmark against which all top business schools in Asia are measured.
+While India now has **21 IIMs**—including the [Baby IIMs](/blog/baby-iims-review-2026-honest-analysis) and New IIMs—the original **BLACKI** group remains the benchmark against which all top business schools in Asia are measured.
 
 ---
 
@@ -181,20 +175,20 @@ Scoring a 99.8 percentile in CAT does not automatically guarantee admission to a
 
 ## How IIM BLACKI Compares with New and Baby IIMs
 
-If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like IIM Udaipur, IIM Trichy, IIM Ranchi) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis/)** (like IIM Nagpur, IIM Bodh Gaya, IIM Amritsar) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
+If you fall slightly short of the 99+ percentile benchmark, you should not be disheartened. India's **New IIMs** (like IIM Udaipur, IIM Trichy, IIM Ranchi) and **[Baby IIMs](/blog/baby-iims-review-2026-honest-analysis)** (like IIM Nagpur, IIM Bodh Gaya, IIM Amritsar) offer outstanding infrastructure, rapidly growing corporate networks, and average placements between **₹15 LPA and ₹22 LPA**.
 
 To make an informed choice across the entire IIM hierarchy, explore our detailed comparative guides:
-*   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
-*   [Baby IIMs Review 2026: Complete Honest Analysis of Fees, Placements & ROI](/blog/baby-iims-review-2026-honest-analysis/)
+*   [All IIM Cut Off 2027–29: Expected Qualifying & Final Calling Percentiles](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
+*   [Baby IIMs Review 2026: Complete Honest Analysis of Fees, Placements & ROI](/blog/baby-iims-review-2026-honest-analysis)
 
 ---
 
 ## Recommended Reads for MBA Aspirants
 
-*   [All About CAT Exam 2026 — Complete Syllabus & Strategy Guide](/resources/cat/)
-*   [MBA vs PGDM — Key Differences & Which is Better?](/blog/mba-vs-pgdm-difference/)
-*   [GD/PI Interview Topics & Solutions for Top MBA Colleges](/blog/gdpi-interview-topics-solutions-mba/)
-*   [All About GMAT Exam — Eligibility, Curriculum & Top Colleges](/tools/gmat-mock-test/)
+*   [All About CAT Exam 2026 — Complete Syllabus & Strategy Guide](/blog/all-about-cat-exam)
+*   [MBA vs PGDM — Key Differences & Which is Better?](/blog/mba-vs-pgdm-difference)
+*   [GD/PI Interview Topics & Solutions for Top MBA Colleges](/blog/gdpi-interview-topics-solutions-mba)
+*   [All About GMAT Exam — Eligibility, Curriculum & Top Colleges](/blog/all-about-gmat-exam-colleges-cutoffs)
 
 ---
 

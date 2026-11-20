@@ -140,9 +140,9 @@ DU will run multiple rounds of seat allocation. When a seat is allocated:
 
 ## 🔗 Related Guides and Resources
 To help you make the best admission decisions, check out our other detailed guides:
-*   [Delhi University (DU) BCom Admission Process & Eligibility (2026)](/blog/delhi-university-du-bcom-admission-process-eligibility-2026/) — A detailed look into the subject mapping and combinations.
-*   [CUET UG 2026 Result Update & Timeline](/blog/cuet-ug-2026-result-expected-date-answer-key-out/) — Stay on top of NTA timeline updates.
-*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide/) — Looking at BBA as an alternative option? Read our complete handbook.
+*   [Delhi University (DU) BCom Admission Process & Eligibility (2026)](/blog/delhi-university-du-bcom-admission-process-eligibility-2026) — A detailed look into the subject mapping and combinations.
+*   [CUET UG 2026 Result Update & Timeline](/blog/cuet-ug-2026-result-expected-date-answer-key-out) — Stay on top of NTA timeline updates.
+*   [CUET UG 2026 BBA Admission Guide](/blog/cuet-ug-2026-bba-admission-guide) — Looking at BBA as an alternative option? Read our complete handbook.
 
 ---
 

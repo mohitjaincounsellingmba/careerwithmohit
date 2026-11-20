@@ -103,14 +103,14 @@ If you are evaluating [Poornima University](/colleges/poornima-jaipur) for your 
 Gaining admission into [Poornima University](/colleges/poornima-jaipur)’s MBA program is straightforward, primarily based on merit and entrance exams.
 
 1.  **Eligibility**: A bachelor's degree with a minimum of 50% aggregate (45% for reserved categories). For the Sustainability & Entrepreneurship track, 55% is required.
-2.  **Entrance Exam**: The university accepts [CAT](/resources/cat/), [MAT](/tools/mat-mock-test/), [CMAT](/resources/cmat/), or XAT. Alternatively, candidates can take the university's in-house entrance exam.
+2.  **Entrance Exam**: The university accepts [CAT](/blog/all-about-cat-exam), [MAT](/blog/all-about-mat-exam), [CMAT](/blog/all-about-cmat-exam), or XAT. Alternatively, candidates can take the university's in-house entrance exam.
 3.  **Direct Admission**: Sometimes possible for students scoring heavily in graduation (e.g., above 65% aggregate).
 
 ---
 
 ### **The Final Verdict: Is [Poornima University](/colleges/poornima-jaipur) Good?**
 
-[Poornima University](/colleges/poornima-jaipur) is an excellent choice for students looking for an **affordable MBA with a decent ROI**. Given that the tuition fee is barely ₹2 to ₹3 Lakhs, securing an average package of ₹4.5 LPA ensures that students recover their investment in less than a year. It stands as one of the most accessible yet rewarding options among the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2027-29/).
+[Poornima University](/colleges/poornima-jaipur) is an excellent choice for students looking for an **affordable MBA with a decent ROI**. Given that the tuition fee is barely ₹2 to ₹3 Lakhs, securing an average package of ₹4.5 LPA ensures that students recover their investment in less than a year. It stands as one of the most accessible yet rewarding options among the [best MBA colleges in Jaipur](/blog/best-mba-colleges-in-jaipur-2026).
 
 [👉 Check your eligibility and get free admission assistance for Poornima University](/inquiry) | [💬 Speak with Mohit Jain for Career Counselling](/inquiry)
 

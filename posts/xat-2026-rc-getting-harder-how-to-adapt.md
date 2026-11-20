@@ -3,22 +3,25 @@ title: Why XAT RC Is Getting Harder in 2026 and How to Adapt
 date: '2026-05-21'
 description: >-
   Analyze why XAT Reading Comprehension (RC) is getting increasingly difficult.
-  Learn how XAT RC differs from CAT, reading strategies for 2026-2027 admissions
-  & career guidance.
+  Learn how XAT RC differs from CAT, reading strategies, and prep plans.
 keywords:
   - XAT RC preparation
   - XAT exam 2026
   - XAT verbal ability
   - reading comprehension strategies
   - XAT vs CAT RC
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -37,26 +40,16 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-category: Exams
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement ROI**: Evaluated against median domestic CTC benchmarks and industry recruitment trends.
-> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
-
 Ask any veteran MBA aspirant, and they will tell you that the Verbal and Logical Ability (VALR) section of the Xavier Aptitude Test (XAT) is a different beast compared to CAT. In particular, **Reading Comprehension (RC) in XAT** has earned a reputation for being abstract, philosophical, and intensely challenging.
 
-As we prepare for [XAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
+As we prepare for [XAT Exam 2026](/blog/all-about-xat-exam), the trend lines indicate that RCs are getting even harder. The passages are becoming denser, the themes more academic, and the options more subjective.
 
 In this guide, we analyze why XAT RC is getting harder and outline concrete strategies to adapt your reading style to clear the VALR cutoff.
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for XAT RC vs. CAT RC: The Key Differences?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## XAT RC vs. CAT RC: The Key Differences
 
 Understanding the structural difference between CAT and XAT RCs is the first step toward adapting your preparation.
 
@@ -114,9 +107,9 @@ XAT consistently features a short poem. To solve poem questions:
 - **Days 21–40:** Solve past XAT papers (2015 to 2025). Analyze the explanations for every VALR question, especially the ones you got wrong. Understand why the other options were eliminated.
 - **Days 41–60:** Take sectional tests under timed conditions. Learn to balance speed and accuracy. In the actual XAT, you should spend about **50 to 55 minutes** on the VALR section.
 
-For a broader perspective on how to balance your preparation with other exams, check out our [Top MBA Entrance Exams Guide](/blog/top-mba-entrance-exams-2026-guide/) and practice using our [Free CAT Mock Test](/tools/cat-mock-test/).
+For a broader perspective on how to balance your preparation with other exams, check out our [Top MBA Entrance Exams Guide](/blog/top-mba-entrance-exams-2026-guide) and practice using our [Free CAT Mock Test](/tools/cat-mock-test).
 
-[👉 Having trouble improving your verbal accuracy? Reach out to our expert mentors today!](/inquiry/)
+[👉 Having trouble improving your verbal accuracy? Reach out to our expert mentors today!](/inquiry)
 
 ---
 
@@ -134,10 +127,12 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

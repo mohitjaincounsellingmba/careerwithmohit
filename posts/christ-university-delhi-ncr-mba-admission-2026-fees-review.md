@@ -3,11 +3,12 @@ title: 'Christ University (Delhi NCR) MBA Admission 2027–2029: Fees & Review'
 date: '2026-03-24'
 description: >-
   Planning for MBA at Christ University (Delhi NCR, Ghaziabad)? Get the latest
-  on MAT/CAT 2026 cutoffs, the strategic Delhi-NCR location advantage.
+  on MAT/CAT 2026 cutoffs, the strategic Delhi-NCR location advantage, detailed
+  fee structure, and its placement record.
 keywords:
   - Christ University Delhi NCR MBA admission 2027–2029
   - Christ University Delhi-NCR MBA fees
-  - Christ University Delhi-NCR MBA cutoff 2027–29
+  - Christ University Delhi-NCR MBA cutoff 2025
   - Christ Delhi placement review
   - MBA in Delhi-NCR campus
   - Christ vs Other MBA in Delhi
@@ -23,7 +24,6 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Is Christ University (Delhi NCR) good for MBA?
     answer: >-
@@ -36,15 +36,14 @@ faqs:
       campus offers unique placement cycles focused on Northern India's
       industrial centers.
   - question: What is the dress code?
-    answer: "Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)\n\n**Confused Between Delhi NCR and Bangalore?**\nBangalore is the \"Silicon Valley,\" but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)"
+    answer: "Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.\n\nExplore other Christ Campuses:\n*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)\n*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)\n*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)\n\n**Confused Between Delhi NCR and Bangalore?**\nBangalore is the \"Silicon Valley,\" but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.\n\n[\U0001F449 Get Expert MBA Admission Guidance for Christ University!](/inquiry)"
 location: Delhi NCR
 state: Delhi NCR
-category: Online Degrees
 ---
 
 The **Delhi NCR Campus** of Christ (Deemed to be University) in Ghaziabad is a strategic expansion of Christ's educational excellence into North India. Located along the busy NCR industrial and corporate belt, this campus offers the rigorous academic training of Christ with a distinct location advantage for students aiming at placements in the nationwide corporate headquarters in Delhi and Gurgaon.
 
-### **Christ Delhi NCR MBA Admission Process 2027–29**
+### **Christ Delhi NCR MBA Admission Process 2026**
 1.  **Selection Base**: Valid scores in **MAT (Composite score 600+)**, **CAT (60+ percentile)**, **CMAT**, **XAT**, or **GMAT**.
 2.  **Assessment Path**: Mandatory **Micro Presentation (MP)**, **Group Discussion (GD)**, and a **Personal Interview (PI)**.
 3.  **Application Deadline**: Round 1 applications typically close in late January 2026.
@@ -54,15 +53,11 @@ The **Delhi NCR Campus** of Christ (Deemed to be University) in Ghaziabad is a s
 [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
-## What are the Key Admissions, Fees, and Placement Details for **Expected Merit Requirements 2026**?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## **Expected Merit Requirements 2026**
 Delhi NCR campus cutoffs are generally more accessible than the Bangalore central campus.
 
 | Entrance Exam | Expected Cutoff (Score/Percentile) |
@@ -72,7 +67,7 @@ Delhi NCR campus cutoffs are generally more accessible than the Bangalore centra
 | **CMAT / XAT**| 60+ Percentile |
 | **GMAT / GRE** | 450+ / 295+ |
 
-### **Christ University Delhi-NCR MBA Fee Structure 2027–29**
+### **Christ University Delhi-NCR MBA Fee Structure 2026**
 The costs here are lower than the main Bangalore campuses, making it an attractive high-value option for management aspirants from North India.
 *   **Annual Tuition Fee**: approx. ₹4.0 Lakhs - ₹4.5 Lakhs.
 *   **Total 2-Year Fees**: **₹8.0 Lakhs - ₹9.0 Lakhs**.
@@ -101,22 +96,24 @@ The Bangalore campuses have a larger corporate volume, but the Delhi NCR campus 
 Exactly the same as the Bangalore campuses; formal attire and professional grooming are strictly monitored to ensure a consistent Christ brand image.
 
 Explore other Christ Campuses:
-*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review/)
-*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review/)
-*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review/)
+*   [Christ University Central Campus MBA: Review](/blog/christ-university-central-campus-mba-admission-2026-fees-review)
+*   [Christ University Kengeri Campus MBA: Review](/blog/christ-university-kengeri-mba-admission-2026-fees-review)
+*   [Christ University Yeshwanthpur MBA: Guide](/blog/christ-university-yeshwanthpur-mba-admission-2026-fees-review)
 
 **Confused Between Delhi NCR and Bangalore?**
 Bangalore is the "Silicon Valley," but Delhi NCR is the administrative and corporate capital hub. At **CareerWithMohit**, we help you decide if the location advantage and branch-priority of the Delhi NCR campus is the right fit for your rank and career goal compared to the high-density Bangalore pool.
 
-[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry/)
+[👉 Get Expert MBA Admission Guidance for Christ University!](/inquiry)
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -126,10 +123,10 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 

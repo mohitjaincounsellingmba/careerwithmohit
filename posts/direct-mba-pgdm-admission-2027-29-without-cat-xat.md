@@ -3,7 +3,7 @@ title: >-
   Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting
   MAT, CMAT & Profile Scores
 date: '2026-08-22'
-category: Exams
+category: MBA & PGDM
 description: >-
   Complete guide to direct MBA and PGDM admission 2027-29 without CAT or XAT.
   Find top AICTE approved colleges accepting MAT, CMAT, ATMA, and profile
@@ -22,7 +22,6 @@ keywords:
   - Mumbai Direct Admission 2026
   - Colleges in Maharashtra
   - Mumbai Career Counselling
-  - Mumbai Admissions 2027
 faqs:
   - question: Is CAT or XAT compulsory for doing a high-quality PGDM in India?
     answer: >-
@@ -44,14 +43,10 @@ location: Mumbai
 state: Maharashtra
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+# Direct MBA/PGDM Admission 2027-29 Without CAT/XAT: Best Colleges Accepting MAT, CMAT & Profile Scores
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2027–29, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
+> - **MBA/PGDM 2027–2029 Admissions**: Application cycles are actively accepting CAT 2026, XAT 2027, MAT, CMAT, ATMA, SNAP, NMAT, and merit-based profile rounds.
 > - **Eligibility & Selection**: Minimum 50% aggregate in Graduation (45% for reserved categories) plus GD-PI-WAT score.
 > - **ROI & Scholarships**: Merit scholarships ranging from 10% to 50% tuition waiver available for early 2027–29 applicants.
 
@@ -66,7 +61,7 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Entrance Exam | Conducting Body | Difficulty Level | Accepted By | Typical Cutoff Range |
 | :--- | :--- | :--- | :--- | :--- |
 | **CAT** | IIMs | Very High | IIMs, IITs, FMS, MDI, SPJIMR | 85 - 99+ Percentile |
-| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur/) | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
+| **XAT** | [XLRI Jamshedpur](/colleges/xlri-jamshedpur) | High | XLRI, XIMB, FORE, TAPMI | 80 - 95 Percentile |
 | **MAT** | AIMA | Moderate | 600+ Top Private PGDM B-Schools | 500 - 700 Composite Score |
 | **CMAT** | NTA | Moderate | AICTE PGDM Institutes & State Universities | 50 - 90 Percentile |
 | **Profile Score** | Individual B-Schools | Holistic Evaluation | Autonomous PGDM Institutes | Academics + Work-Ex + Interview |
@@ -78,8 +73,8 @@ The good news for the **2027-29 admission session** is that **a low score in CAT
 | Region | Top AICTE Approved PGDM Colleges | Avg Placement Package |
 | :--- | :--- | :--- |
 | **Delhi NCR** | NDIM Delhi, FOSTIIMA, FIIB, JIMS Kalkaji, BIMTECH (Spec.), GNIOT GIMS | ₹8.10 LPA - ₹11.25 LPA |
-| **Pune** | [PIBM Pune](/colleges/pibm-pune/), [RIIM Pune](/colleges/riim-pune/), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
-| **Bangalore** | [XIME Bangalore](/colleges/xime-bangalore/), JAGSoM, ISBR, GIBS, IBA, [ISME Bangalore](/colleges/isme-bangalore/) | ₹7.40 LPA - ₹10.75 LPA |
+| **Pune** | [PIBM Pune](/colleges/pibm-pune), [RIIM Pune](/colleges/riim-pune), Lexicon MILE, DY Patil B-School, ISBS Pune | ₹7.15 LPA - ₹8.20 LPA |
+| **Bangalore** | [XIME Bangalore](/colleges/xime-bangalore), JAGSoM, ISBR, GIBS, IBA, [ISME Bangalore](/colleges/isme-bangalore) | ₹7.40 LPA - ₹10.75 LPA |
 | **Mumbai** | ITM Navi Mumbai, Universal AI University, Welingkar (Spec.) | ₹8.20 LPA - ₹12.50 LPA |
 | **Hyderabad** | IPE Hyderabad, VJIM Hyderabad, SSIM Hyderabad | ₹6.50 LPA - ₹7.10 LPA |
 | **Kolkata / Eastern India** | Globsyn Kolkata, Praxis, IEM Kolkata, Heritage | ₹6.80 LPA - ₹9.46 LPA |
@@ -103,6 +98,6 @@ Do not waste a gap year preparing exclusively for CAT. Top autonomous PGDM colle
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

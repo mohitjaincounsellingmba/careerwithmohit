@@ -1,18 +1,17 @@
 ---
-title: >-
-  FIIB Delhi Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Student
-  Verdict
+title: 'FIIB Delhi Review 2027–2029: PGDM Fees, Placements, Cutoffs & Honest Student Verdict'
 date: '2026-09-10'
-category: Exams
+category: MBA Admissions
 description: >-
-  Comprehensive FIIB Delhi (Fortune Institute of International Business) review
-  for 2027–2029 admissions. Explore verified PGDM fee structure (₹12.85 Lakhs).
+  Comprehensive FIIB Delhi (Fortune Institute of International Business) review for 2027–2029 admissions.
+  Explore verified PGDM fee structure (₹12.85 Lakhs), placements (avg ₹8.50–₹9.00 LPA, top 20% ₹14.0 LPA),
+  AACSB membership, cutoffs, and South Delhi campus realities.
 keywords:
   - FIIB Delhi review 2027
   - FIIB Delhi review 2027 2029
   - FIIB Delhi PGDM fees
   - FIIB Delhi fee structure 2027
-  - FIIB placements 2027–29 2026
+  - FIIB placements 2025 2026
   - FIIB Delhi average package
   - FIIB highest package
   - FIIB Delhi cutoff CAT CMAT MAT
@@ -33,59 +32,47 @@ keywords:
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
-  - question: >-
-      What is the total fee structure for PGDM at FIIB Delhi for the 2027–2029
-      session?
+  - question: What is the total fee structure for PGDM at FIIB Delhi for the 2027–2029 session?
     answer: >-
-      The total course fee for the 2-year full-time PGDM and PGDM-Financial
-      Management programs at FIIB Delhi is ₹12,85,000 (Tuition Fees ₹9,38,350 +
-      Academic Resources ₹3,46,650), plus a refundable security deposit of
+      The total course fee for the 2-year full-time PGDM and PGDM-Financial Management programs at FIIB Delhi is
+      ₹12,85,000 (Tuition Fees ₹9,38,350 + Academic Resources ₹3,46,650), plus a refundable security deposit of
       ₹20,000. Fees are payable across four structured installments.
-  - question: >-
-      What are the placement packages at FIIB Delhi in the recent placement
-      season?
+  - question: What are the placement packages at FIIB Delhi in the recent placement season?
     answer: >-
-      FIIB Delhi achieved a 96% placement rate with an overall average CTC of
-      ₹8.50 to ₹9.00 LPA. The top 20% of the batch secured an average package of
-      ₹14.00 LPA, while the highest domestic package stood between ₹20.00 LPA
+      FIIB Delhi achieved a 96% placement rate with an overall average CTC of ₹8.50 to ₹9.00 LPA. The top 20% of
+      the batch secured an average package of ₹14.00 LPA, while the highest domestic package stood between ₹20.00 LPA
       and ₹25.92 LPA with recruitment from over 130+ companies.
   - question: What accreditations and international memberships does FIIB Delhi possess?
     answer: >-
-      FIIB is approved by AICTE, accredited by NBA, and granted official MBA
-      equivalence by AIU. Globally, FIIB is a member of the prestigious AACSB
-      Business Education Alliance (USA) and the Association of MBAs (AMBA
-      Development Network).
+      FIIB is approved by AICTE, accredited by NBA, and granted official MBA equivalence by AIU. Globally, FIIB is
+      a member of the prestigious AACSB Business Education Alliance (USA) and the Association of MBAs (AMBA Development Network).
   - question: What entrance exams and cutoffs are accepted by FIIB Delhi?
     answer: >-
-      FIIB accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Typical cutoffs
-      are 60–65 percentile in CAT/XAT, 70–75 percentile in CMAT, and 75–80
-      percentile in MAT. Profile-based evaluations consider academic
-      consistency, extracurricular achievements, and personal interview
-      performance.
+      FIIB accepts CAT, XAT, MAT, CMAT, ATMA, and GMAT scores. Typical cutoffs are 60–65 percentile in CAT/XAT,
+      70–75 percentile in CMAT, and 75–80 percentile in MAT. Profile-based evaluations consider academic consistency,
+      extracurricular achievements, and personal interview performance.
   - question: Where is FIIB Delhi located and what is the campus advantage?
     answer: >-
-      FIIB is located in the prime diplomatic area of Vasant Vihar, South Delhi
-      (Plot 5, Rao Tula Ram Marg). It offers immediate proximity to Delhi
-      Aerocity, Gurgaon Cyber City, and South Delhi business hubs, facilitating
-      year-round corporate interactions.
+      FIIB is located in the prime diplomatic area of Vasant Vihar, South Delhi (Plot 5, Rao Tula Ram Marg). It offers
+      immediate proximity to Delhi Aerocity, Gurgaon Cyber City, and South Delhi business hubs, facilitating year-round
+      corporate interactions.
 location: Delhi NCR
 state: Delhi NCR
 ---
 
-## [Fortune Institute of International Business (FIIB) Delhi Review 2027–2029](/colleges/fiib-delhi/): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
+# [Fortune Institute of International Business (FIIB) Delhi Review 2027–2029](/colleges/fiib-delhi): PGDM Fees, Placements, Cutoffs & Honest Student Verdict
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **2027–2029 Admission Status**: Applications are active via CAT 2026, XAT 2027, MAT, CMAT, and ATMA for an approved intake of **240 seats**.
 > - **Verified Total Fee Investment**: **₹12,85,000** for the 2-year full-time curriculum, payable across 4 installments.
 > - **Placement & ROI Benchmark**: 96% placement rate with an overall average of **₹8.50 – ₹9.00 LPA** (Top 20% average: **₹14.00 LPA**; Highest package: **₹20.00 – ₹25.92 LPA**) across 130+ corporate partners.
 
-For management aspirants targeting Delhi NCR business schools that combine international academic rigor with modern analytics curricula, **[Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB), South Delhi** is frequently evaluated. Established in 1995, FIIB has developed a distinctive identity centered on global immersion, digital transformation, and business analytics.
+For management aspirants targeting Delhi NCR business schools that combine international academic rigor with modern analytics curricula, **Fortune Institute of International Business (FIIB), South Delhi** is frequently evaluated. Established in 1995, FIIB has developed a distinctive identity centered on global immersion, digital transformation, and business analytics.
 
 Situated in the upscale diplomatic enclave of **Vasant Vihar (South Delhi)**, FIIB is an **AACSB Business Education Alliance member**, accredited by the **National Board of Accreditation (NBA)**, and granted **AIU MBA Equivalence**. But with an overall fee of approximately ₹12.85 Lakhs, does FIIB justify the investment for the upcoming **2027–2029 session**?
 
-In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college's verified **fee schedule, latest placement data, expected cutoffs, specialization tracks, campus life, pros & cons, and comparisons with [NDIM Delhi](/colleges/ndim-delhi/), [FOSTIIMA Business School](/blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff/), and [JIMS Kalkaji](/colleges/jims-kalkaji/)**.
+In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college's verified **fee schedule, latest placement data, expected cutoffs, specialization tracks, campus life, pros & cons, and comparisons with [NDIM Delhi](/blog/ndim-delhi-review-2026), [FOSTIIMA Business School](/blog/fostiima-business-school-review-2026), and [JIMS Kalkaji](/blog/all-about-jims-kalkaji)**.
 
 ---
 
@@ -93,7 +80,7 @@ In this comprehensive **FIIB Delhi review 2027–2029**, we analyze the college'
 
 | Parameter | Official Institutional Details |
 | :--- | :--- |
-| **Institution Name** | **[Fortune Institute of International Business](/colleges/fiib-delhi/) (FIIB)** |
+| **Institution Name** | **Fortune Institute of International Business (FIIB)** |
 | **Establishment Year** | 1995 (30+ Years of Academic Excellence) |
 | **Campus Location** | Plot 5, Rao Tula Ram Marg, Vasant Vihar, New Delhi - 110057 |
 | **Approvals & Accreditations** | AICTE Approved, NBA Accredited, AIU MBA Equivalence |
@@ -194,10 +181,10 @@ FIIB structures its learning models around future-facing business needs:
 
 | Entrance Exam | Minimum Eligibility Cutoff | Safe Merit Shortlist Zone |
 | :--- | :--- | :--- |
-| **[CAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)** | 60%ile | 65%ile+ |
-| **[XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)** | 60%ile | 65%ile+ |
-| **[MAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)** | 75%ile | 80%ile+ |
-| **[CMAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/)** | 70%ile | 75%ile+ |
+| **[CAT Exam](/blog/all-about-cat-exam)** | 60%ile | 65%ile+ |
+| **[XAT Exam](/blog/all-about-xat-exam)** | 60%ile | 65%ile+ |
+| **[MAT Exam](/blog/all-about-mat-exam)** | 75%ile | 80%ile+ |
+| **[CMAT Exam](/blog/all-about-cmat-exam)** | 70%ile | 75%ile+ |
 | **ATMA Exam** | 75%ile | 80%ile+ |
 
 ### Selection Stages
@@ -227,7 +214,7 @@ FIIB structures its learning models around future-facing business needs:
 
 ## 7. FIIB vs. Competitors: Detailed Comparison
 
-| Feature | **FIIB South Delhi** | **[NDIM Delhi](/colleges/ndim-delhi/)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-mba-pgdm-review-2027-fees-placements-cutoff/)** | **[JIMS Kalkaji](/colleges/jims-kalkaji/)** |
+| Feature | **FIIB South Delhi** | **[NDIM Delhi](/blog/ndim-delhi-review-2026)** | **[FOSTIIMA Delhi](/blog/fostiima-business-school-review-2026)** | **[JIMS Kalkaji](/blog/all-about-jims-kalkaji)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Location** | Vasant Vihar, South Delhi | Tughlakabad, South Delhi | Dwarka, West Delhi | Kalkaji, South Delhi |
 | **Total Program Fee** | **₹12.85 Lakhs** | ₹13.75 Lakhs | ₹11.50 Lakhs | ₹10.75 Lakhs |
@@ -245,13 +232,13 @@ FIIB structures its learning models around future-facing business needs:
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[FIIB South Delhi](/colleges/fiib-delhi/)** | **₹12.85 Lakhs** | **₹8.50 – ₹9.00 LPA** | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
-| **[FOSTIIMA Business School](/blog/1-year-online-mba-colleges-india-2027-29/)** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
-| **[NDIM New Delhi](/colleges/ndim-delhi/)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
-| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim/)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
-| **[JIMS Kalkaji](/colleges/jims-kalkaji/)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |
-| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2027-29/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
-| **[ISBR Bangalore](/colleges/isbr-bangalore/)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
+| **[FIIB South Delhi](/colleges/fiib-delhi)** | **₹12.85 Lakhs** | **₹8.50 – ₹9.00 LPA** | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA · Vasant Vihar Diplomatic Hub |
+| **[FOSTIIMA Business School](/colleges/fostiima-business-school)** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (60%+ %ile) · IIM-A Alumni Legacy · 100% Placement ROI |
+| **[NDIM New Delhi](/colleges/ndim-delhi)** | ₹13.75 Lakhs | ₹10.00 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent · 420 Seats · ₹2.5 Cr Scholarships |
+| **[Jaipuria Institute (Noida)](/blog/jaipuria-noida-vs-ndim)** | ₹16.50 Lakhs | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member · Established Pan-India Brand |
+| **[JIMS Kalkaji](/blog/all-about-jims-kalkaji)** | ₹10.75 Lakhs | ₹8.20 – ₹9.30 LPA | CAT/MAT/CMAT (75%+ %ile) · Strong South Delhi Corporate Tie-ups |
+| **[PIBM Pune](/blog/akemi-vs-isms-vs-riim-pune-mba-comparison-2026)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Experiential Internships |
+| **[ISBR Bangalore](/blog/all-about-isbr-bangalore)** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem Corporate Tie-ups |
 
 ---
 
@@ -282,4 +269,4 @@ FIIB Delhi has an AICTE-approved intake of **240 seats** across its PGDM and PGD
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.

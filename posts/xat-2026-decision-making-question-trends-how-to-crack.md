@@ -2,22 +2,27 @@
 title: 'XAT 2026 Decision‑Making Section: Latest Question Trends & How to Crack Them'
 date: '2026-05-21'
 description: >-
-  2027 guide for XAT 2026 Decision‑Making Section: Latest Question Tr...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - XAT Decision Making
   - XAT exam 2026
   - XLRI shortlisting
   - Decision Making questions
   - XAT preparation strategy
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: How do I check my exam results online?
     answer: >-
@@ -36,16 +41,10 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-category: Exams
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Counselor Reality Check & Program Focus**: In-depth ground-level review covering verified curriculum, accreditations (AICTE/UGC/AIU), and selection criteria.
-> - **Fee & Placement ROI**: Evaluated against median domestic CTC benchmarks and industry recruitment trends.
-> - **Eligibility & Selection**: Valid score in CAT/XAT/NMAT/SNAP/MAT/CMAT or institutional GD-PI profile evaluation.
-
 The Xavier Aptitude Test (XAT) is widely considered one of the most challenging MBA entrance exams in India. While it shares sections like Quantitative Aptitude and Verbal Ability with the CAT, the defining feature of XAT is its **Decision Making (DM)** section. 
 
-DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into [XLRI Jamshedpur](/colleges/xlri-jamshedpur/)—the premier institute for Human Resources and Business Management.
+DM accounts for about 21 questions of the main paper and is the primary make-or-break factor for getting into [XLRI Jamshedpur](/colleges/xlri-jamshedpur)—the premier institute for Human Resources and Business Management.
 
 In this guide, we will analyze the latest trends in the XAT Decision Making section, explain the core concepts tested, and outline a step-by-step methodology to crack these questions.
 
@@ -53,7 +52,7 @@ In this guide, we will analyze the latest trends in the XAT Decision Making sect
 
 ## What is XAT Decision Making?
 
-**Decision Making is not a test of your math skills or vocabulary. It is a test of your **management capability, ethical standards, and logic**. You are presented with a business scenario, an ethical dilemma, or a organizational conflict, and you must select the best course of action from the perspective of a manager, business owner, or consultant.**
+Decision Making is not a test of your math skills or vocabulary. It is a test of your **management capability, ethical standards, and logic**. You are presented with a business scenario, an ethical dilemma, or a organizational conflict, and you must select the best course of action from the perspective of a manager, business owner, or consultant.
 
 ### Recent Trends in DM (2022–2025)
 - **Complex Multi-Stakeholder Scenarios:** Older papers had simple employee-employer conflicts. Recent papers (2023-2025) feature scenarios involving local communities, government regulations, and environmental impacts.
@@ -92,7 +91,7 @@ Choose the option that offers a sustainable, long-term solution that minimizes d
 
 ## How Decision Making Affects XLRI Shortlists
 
-[XLRI Jamshedpur](/colleges/xlri-jamshedpur/) evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
+[XLRI Jamshedpur](/colleges/xlri-jamshedpur) evaluates candidates on both overall percentiles and strict **sectional cutoffs**. 
 
 - For the Business Management (BM) program, the DM cutoff is typically around **75 to 80 percentile** for General category male candidates.
 - For the Human Resource Management (HRM) program, the DM cutoff is around **70 to 75 percentile**.
@@ -107,9 +106,9 @@ Because the total marks in XAT are relatively low (usually around 100 marks), ge
 2. **Read Case Studies:** Read business case studies (such as Harvard Business School cases or basic management articles) to understand how real-world decisions are made.
 3. **Mock Tests:** Practice section-specific tests to learn how to manage time. Remember, XAT has a time limit of 175 minutes for Part 1 (VALR, DM, QADI). You should allocate roughly **30 to 35 minutes** to the DM section.
 
-To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam](/blog/10-tips-to-crack-cat-exam-2027-29/) or discover the broader landscape of [MBA Entrance Exams 2027–29](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body/).
+To learn more about the complete structure of the XAT exam, read our comprehensive guide on [All About XAT Exam](/blog/all-about-xat-exam) or discover the broader landscape of [MBA Entrance Exams 2026](/blog/mba-entrance-exams-2026-fees-difficulty-conducting-body).
 
-[👉 Struggling to align your logic with XLRI standards? Speak to our XAT preparation mentors today!](/inquiry/)
+[👉 Struggling to align your logic with XLRI standards? Speak to our XAT preparation mentors today!](/inquiry)
 
 ---
 
@@ -127,10 +126,12 @@ Many competitive exams deduct marks for wrong answers (e.g., -1 or -0.25). Candi
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

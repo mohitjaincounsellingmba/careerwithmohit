@@ -2,8 +2,9 @@
 title: 'JEE Main 2026 Session 2 Marks vs Percentile Analysis: April Attempt'
 date: '2026-04-13'
 description: >-
-  2027 guide for JEE Main 2026 Session 2 Marks vs Percentile Analysis...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - JEE Main 2026 Session 2 marks vs percentile
   - JEE Main April attempt analysis 2026
@@ -13,14 +14,18 @@ keywords:
   - JEE Main 2026 shift difficulty comparison
   - 99 percentile marks in JEE 2026
   - JAC Delhi cutoffs for JEE Main 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -38,24 +43,14 @@ faqs:
       focus more on theoretical concepts and foundation sciences.
 location: Delhi NCR
 state: Delhi NCR
-category: B.Tech
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
-> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
-> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
-
 The **JEE Main 2026 Session 2** examinations were conducted between April 2 and April 8, 2026. With the exams now over, students are eagerly calculating their scores using official response sheets. However, the biggest question on everyone's mind is: **"What percentile will I get for my marks?"**
 
 Because JEE Main is conducted in multiple shifts, the marks required to achieve a certain percentile vary significantly based on the difficulty level of your specific shift. 
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for 📊 Expected Marks vs. Percentile (April 2026)?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## 📊 Expected Marks vs. Percentile (April 2026)
 
 Based on initial student feedback and expert analysis, here is the projected marks-to-percentile mapping for Session 2.
 
@@ -90,16 +85,16 @@ To sit for the JEE Advanced exam (May 2026), students must finish in the top 2.5
 ---
 
 ## 🔗 Related Resources
-- [JEE Main 2026 Score Calculator & Verification Tool](/calculator/jee-main-2026/)
-- [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
-- [JAC Delhi Counselling: A Step-by-Step Guide](/blog/1-year-online-mba-colleges-india-2027-29/)
+- [JEE Main 2026 Score Calculator & Verification Tool](/calculator/jee-main-2026)
+- [Top B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
+- [JAC Delhi Counselling: A Step-by-Step Guide](/blog/jac-delhi-counselling-2026)
 
 ---
 
 ## 📞 Post-Result Career Strategy
 Scored lower than expected? Don't worry. There are excellent options in the Delhi NCR region (DTU, NSUT, IIIT-D) that have specific reservation and relaxation policies for Delhi residents. Our experts can help you optimize your counselling choices.
 
-[👉 Get JEE Counselling Support](/inquiry/) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry/)
+[👉 Get JEE Counselling Support](/inquiry) | [💬 Chat with Mohit Jain on WhatsApp](/inquiry)
 
 ---
 
@@ -117,10 +112,12 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

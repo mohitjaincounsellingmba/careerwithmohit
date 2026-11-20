@@ -115,9 +115,9 @@ Selection is competitive and relies on national and internal assessment:
 ---
 
 ## 🔗 Related Resources
-*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026/)
-*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026/)
-*   [Top Law Colleges in Delhi NCR 2026](/blog/top-law-colleges-delhi-ncr-2027-29/)
+*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026)
+*   [GD Goenka BBA Review 2026](/blog/gd-goenka-bba-review-2026)
+*   [Top Law Colleges in Delhi NCR 2026](/blog/top-law-colleges-delhi-ncr)
 
 ---
 

@@ -19,7 +19,6 @@ faqs:
       admissions.
   - question: What is the intake capacity for IPM 2026?
     answer: The intake is approximately 120 seats for the 2027–2029 intake.
-author: Mohit Jain
 ---
 
 IIM Bodh Gaya, located in the land of enlightenment, is one of the third-generation IIMs to offer the 5-Year Integrated Programme in Management (IPM). With its modern campus and growing reputation, it is a significant player in the undergraduate management space in 2026.
@@ -60,9 +59,9 @@ No, IIM Bodh Gaya (along with IIM Jammu) primarily uses JIPMAT for its IPM admis
 The intake is approximately 120 seats for the 2027–2029 intake.
 
 ## 🔗 Useful Links:
-- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges/)
-- [IIM Jammu IPM Admission 2026](/colleges/iim-jammu/)
-- [IIM Indore vs IIM Bodh Gaya IPM Comparison](/blog/baby-iims-review-2026-honest-analysis/)
+- [JIPMAT 2026 Strategy & Best Colleges](/blog/ipmat-2026-preparation-guide-colleges)
+- [IIM Jammu IPM Admission 2026](/blog/all-about-iim-jammu-ipm-bba-admission-2026)
+- [IIM Indore vs IIM Bodh Gaya IPM Comparison](/blog/baby-iims-review-2026-honest-analysis)
 
 ---
 

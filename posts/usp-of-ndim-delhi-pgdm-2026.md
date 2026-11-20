@@ -293,7 +293,7 @@ At **CareerWithMohit**, we've counselled hundreds of students into NDIM, and the
 
 [👉 Compare NDIM with Other Top B-Schools](/tools/college-comparison)
 
-[👉 Explore Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026/)
+[👉 Explore Top MBA Colleges in Delhi NCR 2026](/blog/best-mba-colleges-in-delhi-2026)
 
 [👉 Check Your NDIM Eligibility Using CAT/CMAT Score](/tools/college-comparison)
 

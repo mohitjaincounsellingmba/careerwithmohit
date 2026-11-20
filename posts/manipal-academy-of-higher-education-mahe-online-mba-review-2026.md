@@ -89,7 +89,7 @@ However, at ₹2,92,000 — the highest total fee among Indian online MBAs — i
 | **Monthly EMI (Zero-cost)** | ~₹12,167/month |
 | **Upfront Payment Discount** | 5% off on full one-time payment |
 
-> 📌 Manipal's online MBA is the most expensive among Indian online MBAs. This is justified by its NAAC A++ brand and QS ranking. However, if budget is a constraint, consider [LPU Online](/blog/lpu-online-review-2027-29/) (₹1,61,600) or [Chandigarh University Online](/blog/chandigarh-university-online-mba-review-2026/) (₹1,65,000) as alternatives.
+> 📌 Manipal's online MBA is the most expensive among Indian online MBAs. This is justified by its NAAC A++ brand and QS ranking. However, if budget is a constraint, consider [LPU Online](/blog/lpu-online-review-2026) (₹1,61,600) or [Chandigarh University Online](/blog/chandigarh-university-online-mba-review-2026) (₹1,65,000) as alternatives.
 
 ---
 
@@ -184,10 +184,10 @@ Yes. Zero-cost EMI options are available through partner banks. You can also app
 | College | NAAC | Total Fee | Key Strength |
 | :--- | :--- | :--- | :--- |
 | **Manipal MAHE Online** | A++ | ₹2,92,000 | QS ranked, AI LMS, global recognition |
-| [NMIMS Online](/blog/nmims-online-mba-review-2027-29/) | A++ | ₹2,10,000 | Finance, brand value |
-| [SRM Online](/blog/srm-university-online-mba-review-2026/) | A++ | ₹1,89,000 | AI, Healthcare specialization |
-| [Amity Online](/blog/amity-university-online-mba-review-2027-29/) | A+ | ₹1,99,000 | 15+ specializations |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | Best value, 23 specializations |
+| [NMIMS Online](/blog/nmims-online-mba-review-2026) | A++ | ₹2,10,000 | Finance, brand value |
+| [SRM Online](/blog/srm-university-online-mba-review-2026) | A++ | ₹1,89,000 | AI, Healthcare specialization |
+| [Amity Online](/blog/amity-university-online-mba-review-2026) | A+ | ₹1,99,000 | 15+ specializations |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026) | A+ | ₹1,65,000 | Best value, 23 specializations |
 
 ---
 
@@ -196,9 +196,9 @@ Yes. Zero-cost EMI options are available through partner banks. You can also app
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2027-29/)
-- [Online MBA India 2026: Full Guide](/online-degree-certification/online-mba/)
-- [Is Online MBA Worth It in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide/)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
+- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
+- [Is Online MBA Worth It in 2026?](/blog/mba-vs-pgdm-2026-ultimate-guide)
 
 
 

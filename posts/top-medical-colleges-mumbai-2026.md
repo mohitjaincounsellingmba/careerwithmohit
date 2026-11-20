@@ -132,9 +132,9 @@ Usually starts late **July**, following the national MCC counselling cycles.
 ---
 
 ### Useful Links:
-- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026/)
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026/)
-- [MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026/)
+- [Top MBBS Colleges in India 2026 NIRF Guide](/blog/top-mbbs-colleges-india-nirf-ranking-2026)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
+- [MBA Colleges in Mumbai 2026](/blog/top-mba-colleges-mumbai-2026)
 
 ---
 

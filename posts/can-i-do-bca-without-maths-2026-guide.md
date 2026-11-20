@@ -1,10 +1,11 @@
 ---
 title: Can I do BCA Without Maths? — Schools & Eligibility Guide 2026
 date: '2026-04-21'
-category: BCA/MCA
+category: BCA Admissions
 description: >-
-  2027 guide for Can I do BCA Without Maths? — Schools & Eligibility ...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Noida, Greater Noida, Delhi NCR. Get details on top colleges under
+  GGSIPU, 
 keywords:
   - can i do bca without maths in 12th
   - bca colleges for non maths students 2026
@@ -12,16 +13,18 @@ keywords:
   - is maths compulsory for bca in christ university
   - how to do bca if i had commerce without maths
   - bca with bridge course
+  - Noida Colleges
   - Best Colleges in Noida
   - Noida Admissions 2026
   - Direct Admission in Noida
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Does Guru Gobind Singh Indraprastha University (GGSIPU) require Maths?
     answer: >-
@@ -62,19 +65,19 @@ If you didn't have Maths in 12th, these are your best national-level targets:
 
 | College | Location | Admission Type | Bridge Course |
 |---|---|---|---|
-| **[Manipal University Jaipur](/colleges/manipal-university-jaipur/)** | Jaipur | Merit-based | Yes |
-| **[Amity University](/colleges/amity-noida/)** | Multiple Locations| Merit / Interview | Yes |
+| **[Manipal University Jaipur](/colleges/manipal-university-jaipur)** | Jaipur | Merit-based | Yes |
+| **[Amity University](/colleges/amity-noida)** | Multiple Locations| Merit / Interview | Yes |
 | **LPU (Lovely Professional)** | Punjab | LPUNEST / Merit | Yes |
-| **[Galgotias University](/colleges/galgotias-university/)** | Greater Noida | Merit-based | Yes |
+| **[Galgotias University](/colleges/galgotias-university)** | Greater Noida | Merit-based | Yes |
 | **SRM University** | Chennai/NCR | Merit-based | Yes |
 | **Chandigarh University** | Chandigarh | CUCET / Merit | Yes |
-| **[GD Goenka University](/colleges/gd-goenka-gurgaon/)** | Gurgaon | Merit-based | Yes |
+| **[GD Goenka University](/colleges/gd-goenka-university)** | Gurgaon | Merit-based | Yes |
 
 ---
 
 ## 🏗️ What is a "Bridge Course"?
 
-**Most universities listed above understand that a student from a Commerce/Arts background might struggle with logic-heavy math topics like **Discrete Mathematics or Calculus**.**
+Most universities listed above understand that a student from a Commerce/Arts background might struggle with logic-heavy math topics like **Discrete Mathematics or Calculus**. 
 - They include a mandatory **Non-Credit Bridge Course** in the first semester.
 - This course covers the 11th and 12th-grade maths topics essential for programming.
 - Once you clear this, you are on equal footing with students from a Science/Maths background.
@@ -117,23 +120,25 @@ Yes, but you will need to take the **NIMCET** or other state exams, which typica
 ---
 
 ### Useful Links:
-- [Top BCA Colleges in Jaipur 2026](/blog/top-bca-colleges-jaipur-2026/)
-- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
-- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026-guide/)
+- [Top BCA Colleges in Jaipur 2026](/blog/top-bca-colleges-jaipur-2026)
+- [BCA vs B.Tech CSE — Definitive Comparison](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [Direct BCA Admission 2026 Guide](/blog/direct-bca-admission-2026)
 
 ---
 
 **Don't Let One Subject Stop Your Tech Dream.**
 Many of India's top developers came from non-science backgrounds. Don't let a "Maths Compulsory" brochure discourage you. Mohit Jain specializes in finding "Bridge Pathways"—colleges that value your logic more than your 12th-grade mark sheet.
 
-[👉 Book My Non-Maths BCA Consultation](/inquiry/) | [💬 Talk to Mohit](/inquiry/)
+[👉 Book My Non-Maths BCA Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

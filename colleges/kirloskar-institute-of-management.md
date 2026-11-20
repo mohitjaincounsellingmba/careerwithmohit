@@ -1,5 +1,5 @@
 ---
-name: 'Kirloskar Institute of Management, Harihar'
+name: Kirloskar Institute of Management
 logo: ''
 location: Harihar
 category: Management

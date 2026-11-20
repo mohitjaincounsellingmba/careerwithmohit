@@ -95,13 +95,13 @@ Whether you are applying for JELP or SEED, keep the following documents ready:
 4.  **Get a Recommendation:** Co-ordinate with your local JITO chapter for the mandatory recommendation letter.
 5.  **Submit & Track:** Track your application status directly through the JATF portal. 
 
-For direct banking financial assistance, do not forget to also read our comprehensive [Education Loan Guide for MBA & B.Tech Students](/blog/education-loan-guide-mba-btech/).
+For direct banking financial assistance, do not forget to also read our comprehensive [Education Loan Guide for MBA & B.Tech Students](/blog/education-loan-guide-mba-btech).
 
 ### **Take the Next Step**
 Securing funding is just one part of your higher education journey. Deciding which college maximizes your ROI is equally crucial. 
 
-*   [Explore Top Scholarships Available for MBA Students in 2026](/blog/mba-scholarships-2026-master-guide/)
-*   [Check Career Roadmaps for 2026](/blog/career-roadmaps-2027-29/)
+*   [Explore Top Scholarships Available for MBA Students in 2026](/blog/mba-scholarships-2026-master-guide)
+*   [Check Career Roadmaps for 2026](/blog/career-roadmaps-2026)
 
 [👉 Need guidance on MBA admissions or dealing with high fees? Contact our Career Counselling team today!](/inquiry)
 

@@ -27,14 +27,8 @@ faqs:
       NAAC accreditation grades (like A++, A+, A) evaluate the overall quality
       of education, infrastructure, and research at a university, serving as a
       reliable benchmark for students.
-category: Exams
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Exam Strategy & Pattern**: Verified section-wise weightage, syllabus breakdown, scoring blueprint, and difficulty analysis.
-> - **Target Score & Percentile**: Score vs percentile matrix, safe sectional cutoffs for premier institutes, and negative marking strategy.
-> - **Free Mock Test Practice**: Attempt full-length timed CBT mock tests on CareerWithMohit to boost test-taking speed and accuracy.
-
-When preparing for the [CAT exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
+When preparing for the [CAT exam 2026](/blog/all-about-cat-exam), one of the biggest traps students fall into is trying to study everything with the same intensity. The CAT syllabus is vast, but the distribution of marks is highly skewed. 
 
 By applying the Pareto Principle (the 80/20 rule), we find that roughly **80% of the CAT score comes from 20% of the topics**. If you can master these high-yield topics, you can secure a 90+ percentile with a highly optimized study timeline.
 
@@ -42,11 +36,7 @@ In this article, we identify the top 10 high-yield CAT topics for 2026 across Ve
 
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for Summary of High-Yield Topics & Weightages?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+## Summary of High-Yield Topics & Weightages
 
 Here is a quick look at the highest-yielding topics in the CAT exam based on past 5 years of exam papers:
 
@@ -120,9 +110,9 @@ To prepare efficiently, tackle these high-yield topics in the following chronolo
 4. **Step 4:** Study Venn Diagrams and Games & Tournaments (DILR).
 5. **Step 5:** Complete Geometry and Modern Math (QA).
 
-For a comprehensive preparation strategy, read our guide on [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates/). You can also evaluate your current standing by starting a [Free CAT Mock Test](/tools/cat-mock-test/).
+For a comprehensive preparation strategy, read our guide on [CAT 2026 Preparation Strategy & Syllabus](/blog/cat-2026-preparation-strategy-syllabus-dates). You can also evaluate your current standing by starting a [Free CAT Mock Test](/tools/cat-mock-test).
 
-[👉 Need help structuring your CAT study timetable? Get in touch with our experts today!](/inquiry/)
+[👉 Need help structuring your CAT study timetable? Get in touch with our experts today!](/inquiry)
 
 ---
 
@@ -140,11 +130,13 @@ NAAC accreditation grades (like A++, A+, A) evaluate the overall quality of educ
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
 
@@ -154,11 +146,11 @@ Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–2
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
-| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
 | **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
 | **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 | **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
-| **[PIBM Pune](/colleges/pibm-pune/)** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
 | **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
 
 

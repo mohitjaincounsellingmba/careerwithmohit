@@ -45,12 +45,6 @@ faqs:
 category: Admissions
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "All India Council for Technical Education (AICTE) Fee Refund Circular"
-  - "University Grants Commission (UGC) Mandatory Refund Guidelines"
-  - "National Consumer Disputes Redressal Commission (NCDRC) Precedents"
 ---
 Securing admission into an MBA or PGDM program is a major milestone for any career-oriented student. However, amidst the flurry of group discussions, personal interviews, and seat booking processes, it is crucial to stay updated on the official timeline limits. 
 
@@ -117,9 +111,9 @@ For the academic cycle starting in **August 2026**, UGC has notified the followi
 ## 🔗 Related Admission & Preparation Guides
 
 To make informed career decisions, check out our other detailed guides:
-*   [MBA vs PGDM Comparison: Which Program is Right for Your Career?](/blog/b-school-vs-university-mba-comparison/)
-*   [Direct MBA Admission Without Entrance Exams: Pros, Cons, and Safe Routes](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
-*   [All IIM Cut Off 2027–29: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2027-29-admission-mba-pgdm/)
+*   [MBA vs PGDM Comparison: Which Program is Right for Your Career?](/blog/b-school-vs-university-mba-comparison)
+*   [Direct MBA Admission Without Entrance Exams: Pros, Cons, and Safe Routes](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
+*   [All IIM Cut Off 2027–29: Expected Percentiles and Call Analysis](/blog/all-iim-cut-off-2027–29-admission-mba-pgdm)
 
 ---
 

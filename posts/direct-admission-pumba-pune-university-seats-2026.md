@@ -94,9 +94,9 @@ The primary exam is **MAH MBA CET**. For All India seats, CAT and CMAT scores ar
 ---
 
 ## 🔗 Related Resources
-- [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2027-29/)
-- [MAH MBA CET 2026 Exam Details](/resources/mah-mba-cet/)
-- [PUMBA Pune Review 2025: Placements & Life](/blog/pumba-pune-review-2027-29/)
+- [Best MBA Colleges in Pune 2026](/blog/best-mba-colleges-in-pune-2026)
+- [MAH MBA CET 2026 Exam Details](/blog/all-about-mah-mba-cet-exam)
+- [PUMBA Pune Review 2025: Placements & Life](/blog/pumba-pune-review-2025)
 
 [👉 Need help with your PUMBA application? Book a free profile evaluation with our Pune experts!](/inquiry)
 

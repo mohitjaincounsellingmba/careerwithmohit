@@ -128,9 +128,9 @@ Registrations for merit-based seats usually open in **June** after the HS and CB
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
-- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
-- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026/)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
+- [BBA Colleges in Kolkata 2026](/blog/top-bba-colleges-kolkata-2026)
 
 ---
 

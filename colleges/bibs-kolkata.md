@@ -45,12 +45,10 @@ keywords:
   - MBA colleges Kolkata
   - Kolkata Colleges
   - Best Colleges in Kolkata
-  - Top Colleges in Kolkata 2027-29
-  - Kolkata Direct Admission 2027-29
-  - Colleges in West Bengal
-  - Kolkata Career Counselling
   - Top Colleges in Kolkata 2026
   - Kolkata Direct Admission 2026
+  - Colleges in West Bengal
+  - Kolkata Career Counselling
 state: West Bengal
 ---
 

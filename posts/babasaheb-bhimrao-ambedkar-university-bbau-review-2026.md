@@ -92,8 +92,8 @@ BBAU provides on-campus hostel facilities for both boys and girls, ensuring a sa
 *   **Amenities:** Hostels are equipped with basic amenities such as mess facilities, security, Wi-Fi connectivity, and common study areas.
 
 ### **Check Other University Guides:**
-*   [University of Hyderabad (UoH) Review 2026](/blog/university-of-hyderabad-uoh-review-2026/)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
+*   [University of Hyderabad (UoH) Review 2026](/blog/university-of-hyderabad-uoh-review-2026)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
 
 [👉 Get Admission Consultation for Central Universities!](/inquiry)
 

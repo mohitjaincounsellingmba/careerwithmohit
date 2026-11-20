@@ -35,7 +35,6 @@ faqs:
       outstation students near its campuses.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
 ---
 
 [Jagan Institute of Management Studies](/colleges/jagan-institute-of-management-studies) (JIMS) is a top-tier group of institutions in Delhi, primarily known for its flagship campuses in Rohini and Kalkaji. Affiliated with Guru Gobind Singh Indraprastha University (GGSIPU), JIMS has earned a reputation for its academic rigor and excellent placement support for BBA aspirants in 2026.
@@ -75,9 +74,9 @@ Yes, both Rohini and Kalkaji campuses usually operate in two shifts: First Shift
 JIMS provides assistance and tie-ups for hostel and PG accommodations for outstation students near its campuses.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026/)
-- [MSI Delhi BBA Admission Guide 2026](/blog/all-about-msi-delhi-bba-admission-2026/)
-- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026/)
+- [Top 10 BBA Colleges in Delhi 2026](/blog/top-10-bba-colleges-delhi-2026)
+- [MSI Delhi BBA Admission Guide 2026](/blog/all-about-msi-delhi-bba-admission-2026)
+- [JIMS Rohini vs JIMS Kalkaji Comparison](/blog/jims-rohini-vs-jims-kalkaji-mba-pgdm-comparison-2026)
 
 ---
 

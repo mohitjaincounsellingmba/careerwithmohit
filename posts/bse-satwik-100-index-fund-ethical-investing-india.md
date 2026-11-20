@@ -1,10 +1,7 @@
 ---
 title: 'BSE Satwik 100 Fund: Is India’s First Ethical Investing Index Worth It?'
 date: '2026-06-27'
-description: >-
-  Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical
-  index, the BSE Saatvik 100, its sector weightings, exclusions, returns for
-  2026-2027 admissions & career guidance.
+description: 'Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical index, the BSE Saatvik 100, its sector weightings, exclusions, returns, and how to invest.'
 keywords:
   - BSE Satwik 100 fund
   - BSE Saatvik 100 index
@@ -13,42 +10,17 @@ keywords:
   - BSE Saatvik 100 ETF
   - value based investing India
   - BSE Saatvik index holdings
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the BSE Saatvik 100 Index?
     answer: >-
-      The BSE Saatvik 100 Index is a thematic equity index launched by BSE Index
-      Services in June 2026. It tracks the performance of 100 ethical and
-      value-aligned companies selected from the broader BSE 500 index, screening
-      out sectors like tobacco, alcohol, gambling, meat, and leather.
+      The BSE Saatvik 100 Index is a thematic equity index launched by BSE Index Services in June 2026. It tracks the performance of 100 ethical and value-aligned companies selected from the broader BSE 500 index, screening out sectors like tobacco, alcohol, gambling, meat, and leather.
   - question: Can I invest directly in the BSE Satwik 100 Fund?
     answer: >-
-      No, the BSE Saatvik 100 is an index, not a direct mutual fund. However,
-      Asset Management Companies (AMCs) in India are expected to launch passive
-      index funds or ETFs tracking this benchmark, which will allow investors to
-      buy units of this ethical portfolio.
+      No, the BSE Saatvik 100 is an index, not a direct mutual fund. However, Asset Management Companies (AMCs) in India are expected to launch passive index funds or ETFs tracking this benchmark, which will allow investors to buy units of this ethical portfolio.
   - question: How does the BSE Saatvik 100 compare to Shariah-compliant funds?
     answer: >-
-      While both screen out alcohol, tobacco, gambling, and weapons,
-      Shariah-compliant indices also exclude financial institutions that deal in
-      interest-based lending (Riba) and have specific debt-to-equity ratios. The
-      BSE Saatvik 100 allows financial services and banks (which make up its
-      largest sector at over 37%).
-category: Jobs & Careers
-location: Delhi NCR
-state: Delhi NCR
+      While both screen out alcohol, tobacco, gambling, and weapons, Shariah-compliant indices also exclude financial institutions that deal in interest-based lending (Riba) and have specific debt-to-equity ratios. The BSE Saatvik 100 allows financial services and banks (which make up its largest sector at over 37%).
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Strategic Focus & Core Value**: Confused about the BSE Satwik 100 Fund? Learn about India’s first ethical index, the BSE Saatvik 100, its sect...
-> - **Target Audience & Eligibility**: Ideal for aspiring candidates aiming for 2026–2027 admissions, entrance test readiness, and corporate career acceleration.
-> - **Expert Verdict & ROI**: Evaluated by Mohit Jain (IIM-B & [FMS Delhi](/colleges/fms-delhi/) certified mentor) for transparent fee-to-placement value and proven career roadmap outcomes.
-
 
 The Indian investment landscape is undergoing a massive shift. Beyond traditional metrics like P/E ratios and dividend yields, a new wave of value-based and ethical investing is gaining traction. The launch of the **BSE Saatvik 100 Index** (often searched by investors as the **BSE Satwik 100 Fund**) in June 2026 marks a milestone in this journey. 
 
@@ -60,7 +32,7 @@ If you are an investor looking for ethical mutual funds or passive index funds i
 
 ## What is the BSE Saatvik 100 Index?
 
-**First, a quick clarification: **the BSE Saatvik 100 is an index, not a mutual fund.****
+First, a quick clarification: **the BSE Saatvik 100 is an index, not a mutual fund.** 
 
 Launched by BSE Index Services (a subsidiary of Asia's oldest stock exchange, the Bombay Stock Exchange), the index acts as a benchmark. You cannot buy shares of the index directly. Instead, asset management companies (AMCs) use this benchmark to launch passive investment products like **Index Funds** or **Exchange-Traded Funds (ETFs)**. 
 
@@ -82,7 +54,7 @@ While Western markets rely heavily on **ESG (Environmental, Social, and Governan
 | **Key Metric** | Carbon emissions, board diversity, resource waste. | Strict sector exclusions based on product morality and societal impact. |
 | **Goal** | Minimize corporate risk and promote sustainability. | Align investment with personal morals and clean living principles. |
 
-For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2027-29/) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
+For young professionals entering fields like [Investment Banking](/blog/investment-banking-career-path-salary-2026) or corporate finance, understanding these shifting compliance paradigms is becoming highly valuable.
 
 ---
 
@@ -138,7 +110,7 @@ The top holdings in the BSE Saatvik index include India's largest and most stabl
 9. **Kotak Mahindra Bank Ltd.** (2.42%)
 10. **Mahindra & Mahindra Ltd.** (2.32%)
 
-For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2026/)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
+For students comparing careers in finance—such as [MBA Finance vs Fintech](/blog/mba-finance-vs-fintech-comparison-2026)—analyzing these index designs provides a masterclass in how portfolio construction works in the real world.
 
 ---
 
@@ -165,7 +137,7 @@ Since the index has been officially launched, asset managers are expected to fil
 2. **Exchange-Traded Funds (ETFs):** Once listed on the NSE and BSE, you can buy and sell units of the BSE Saatvik 100 ETF directly using your Demat account, just like a regular stock.
 3. **Systematic Investment Plans (SIPs):** For long-term wealth creation, setting up a monthly SIP in a BSE Saatvik 100 Index Fund will be the most convenient and disciplined route.
 
-If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2026/), to boost your career earnings potential before starting your investment journey.
+If you are a student or young professional learning about the fundamentals of wealth management, exploring these upcoming products is an excellent way to understand modern retail investing. You can also research high-ROI education avenues, like finding the [best MBA colleges with low fees](/blog/best-mba-colleges-low-fees-high-roi-india-2026), to boost your career earnings potential before starting your investment journey.
 
 ---
 
@@ -181,6 +153,6 @@ As AMCs prepare to roll out official **BSE Satwik 100 Funds**, this index is set
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

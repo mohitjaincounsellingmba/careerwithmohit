@@ -1,0 +1,18 @@
+{
+  "total_diff_entries": 6681,
+  "a_url_slug_change_count": 4553,
+  "b_title_h1_meta_count": 103,
+  "c_canonical_count": 4,
+  "d_sitemap_count": 5,
+  "e_internal_links_count": 7,
+  "f_redirect_rules_count": 4,
+  "g_schema_date_count": 20,
+  "h_body_text_year_count": 1118,
+  "sample_analysis": {
+    "title_changed": 102,
+    "desc_changed": 20,
+    "date_changed": 20,
+    "year_in_body_changed": 1118,
+    "schema_changed": 0
+  }
+}

@@ -1,0 +1,118 @@
+---
+title: 'JIMS Rohini Review 2026: Placements & Infrastructure Highlights'
+date: '2026-03-15'
+description: >-
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
+keywords:
+  - JIMS Rohini review 2026
+  - JIMS Rohini placement 2024
+  - JIMS Rohini infrastructure
+  - best B-schools in North Delhi
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+faqs:
+  - question: Is JIMS Rohini good for PGDM?
+    answer: >-
+      Yes, JIMS Rohini is one of the most respected private B-schools in North
+      Delhi. It is known for its academic rigour, high discipline, and
+      consistently strong placements in consulting and finance.
+  - question: Can I get direct admission in JIMS Rohini?
+    answer: >-
+      JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores
+      followed by GD/PI. For guidance on institutional categories or vacant
+      seats, you can contact our expert counsellors.
+  - question: What is the fee structure for JIMS Rohini PGDM 2026?
+    answer: >-
+      The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS
+      Rohini is approximately **₹9.25 Lakhs**.
+location: Delhi NCR
+state: Delhi NCR
+---
+
+### **College Review: JIMS Rohini**
+*   **Academic Excellence**: Long-standing reputation for being one of the most disciplined and result-oriented B-schools in Delhi.
+*   **Corporate Trust**: A favorite hiring ground for top companies due to consistently high-quality graduates.
+*   **Student Environment**: Vibrant yet focused campus life with numerous student-run clubs and activities.
+
+---
+
+### 📊 JIMS Rohini 2026 Snapshot
+
+| Category | Details |
+| :--- | :--- |
+| **Total Fees (2027–29)** | ~₹9.25 Lakhs |
+| **Average Placement** | ₹8.30 LPA |
+| **Highest Placement** | ₹24.00 LPA |
+| **Entrance Accepted** | MAT, CAT, CMAT, XAT |
+| **USP** | Top 1% B-School in North Delhi |
+
+---
+
+### **Placement Review (2025 Batch)**
+*   **Placement Rate**: Maintains a consistent **100% placement record** for eligible students.
+*   **Median Package**: **₹9.05 LPA**.
+*   **Top Recruiters**: Amazon, Deloitte, PhonePe, P&G, EY, McKinsey, and Goldman Sachs.
+
+---
+
+### **Infrastructure & Facilities**
+*   **Smart Campus**: Spacious classrooms equipped with modern smart-tech.
+*   **Double Library**: Two well-stocked libraries to ensure resources are always available.
+*   **Lifestyle**: Reliable hostel facilities available with dedicated transport to the campus.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. Is JIMS Rohini good for PGDM?
+Yes, JIMS Rohini is one of the most respected private B-schools in North Delhi. It is known for its academic rigour, high discipline, and consistently strong placements in consulting and finance.
+
+### 2. Can I get direct admission in JIMS Rohini?
+JIMS Rohini primarily admits students through MAT, CAT, and CMAT scores followed by GD/PI. For guidance on institutional categories or vacant seats, you can contact our expert counsellors.
+
+### 3. What is the fee structure for JIMS Rohini PGDM 2026?
+The total academic fee for the 2-year PGDM program (2027–29 batch) at JIMS Rohini is approximately **₹9.25 Lakhs**.
+
+---
+
+**Final Verdict**: JIMS Rohini is the go-to institute for serious aspirants targeting top-tier consulting, finance, or tech roles in North India.
+
+[👉 Apply to JIMS Rohini](/inquiry) | [👉 Get Free Counselling](/inquiry)
+
+
+
+
+Source: Shiksha.com
+---
+
+### 🚀 Boost Your Preparation
+
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
+
+---
+
+
+## Verified 2027–2029 MBA / PGDM Comparison Matrix
+
+| College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
+| :--- | :--- | :--- | :--- |
+| **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU MBA Equivalent |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/MAT/CMAT (65%+ %ile) · IIM-A Alumni Body |
+| **FIIB South Delhi** | ₹12.85 Lakhs | ₹8.50 LPA | CAT/MAT/CMAT (60%+ %ile) · AACSB Member, NBA |
+| **Jaipuria Institute (Noida/LKO/JAI)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
+| **JIMS Rohini / Kalkaji** | ₹9.50L - ₹9.75L | ₹8.10 LPA | CAT/MAT/CMAT (75%+ %ile) · High NCR Corporate ROI |
+| **PIBM Pune** | ₹9.45 Lakhs | ₹8.00 LPA | CAT/XAT/MAT/CMAT/ATMA · Dual Specialization & Internships |
+| **ISBR Bangalore** | ₹10.50 Lakhs | ₹8.20 LPA | CAT/XAT/MAT/CMAT · Silicon Valley Tech Ecosystem |
+

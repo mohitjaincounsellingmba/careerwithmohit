@@ -1,94 +1,67 @@
 ---
-name: 'Delhi Technological University (DTU, formerly DCE)'
+name: DTU (Delhi Technological University)
 logo: ''
 location: Delhi NCR
-state: Delhi NCR
 category: Engineering
-type: State Technical University
+type: Institute
 courses:
-  - B.Tech Computer Science & Engineering (COE)
-  - B.Tech Software Engineering (SE)
-  - B.Tech Information Technology (IT)
-  - B.Tech Mathematics & Computing (MCE)
-  - B.Tech Electronics & Communication (ECE)
-  - B.Tech Mechanical Engineering
-  - M.Tech Computer Science
-established: 1941
-ownership: Public State University (Govt. of NCT of Delhi)
-ranking: 'NIRF Rank #29 (Engineering 2024)'
-fees: ₹7.50 - ₹9.00 Lakhs (Total 4 Years)
-avg_placement: ₹16.50 LPA
-highest_placement: ₹1.80 CPA
-lowest_placement: ₹9.50 LPA
+  - B.Tech CSE
+  - B.Tech ECE
+  - B.Tech IT
+  - B.Tech ME
+  - B.Tech EE
+established: 2000
+ownership: Private / Govt.
+ranking: Top Engineering College
+fees: ₹8.5 Lakhs
+avg_placement: ₹18.0 LPA
+highest_placement: ₹82.0 LPA
 exams:
-  - JEE Main (JAC Delhi Counselling)
-  - GATE
-brochure_url: '#'
-website: 'https://www.dtu.ac.in'
-top_recruiters:
-  - Google
-  - Microsoft
-  - Apple
-  - Amazon
-  - Uber
-  - Goldman Sachs
-  - Texas Instruments
-  - Qualcomm
-seo_title: 'Delhi Technological University (DTU, formerly DCE) B.Tech Fe'
+  - JEE Main
+  - JAC Delhi
+website: ''
+brochure_url: ''
+seo_title: 'DTU (Delhi Technological University) B.Tech Fees, Cutoff & P'
 seo_description: >-
-  Check Delhi Technological University (DTU, formerly DCE) Rohini, Delhi: B.Tech
-  fee structure ₹7.50 - ₹9.00 Lakhs (Total 4 Years), average placement ₹16.50
-  LPA, 
+  Check DTU (Delhi Technological University) Delhi: B.Tech fee structure ₹8.5
+  Lakhs, average placement ₹18.0 LPA, JEE cutoff, ranking, and 2027 engineering
+  admiss
 keywords:
-  - 'Delhi Technological University (DTU, formerly DCE) review'
-  - 'Delhi Technological University (DTU, formerly DCE) fees structure 2027'
-  - 'Delhi Technological University (DTU, formerly DCE) average package'
-  - 'Delhi Technological University (DTU, formerly DCE) placement report 2027'
-  - 'Delhi Technological University (DTU, formerly DCE) highest package'
-  - 'Delhi Technological University (DTU, formerly DCE) cutoff 2027'
-  - 'Delhi Technological University (DTU, formerly DCE) admission process'
-  - 'Delhi Technological University (DTU, formerly DCE) ranking'
-  - 'Delhi Technological University (DTU, formerly DCE) Rohini, Delhi'
-  - 'is Delhi Technological University (DTU, formerly DCE) good'
-  - 'Delhi Technological University (DTU, formerly DCE) mohit jain review'
-  - 'Delhi Technological University (DTU, formerly DCE) hostel fees'
-  - 'Delhi Technological University (DTU, formerly DCE) contact number'
-  - 'Delhi Technological University (DTU, formerly DCE) B.Tech fees'
-  - 'Delhi Technological University (DTU, formerly DCE) CSE placement'
-  - 'Delhi Technological University (DTU, formerly DCE) B.Tech admission 2027'
-  - 'engineering colleges Rohini, Delhi'
+  - DTU (Delhi Technological University) review
+  - DTU (Delhi Technological University) fees structure 2027
+  - DTU (Delhi Technological University) average package
+  - DTU (Delhi Technological University) placement report 2027
+  - DTU (Delhi Technological University) highest package
+  - DTU (Delhi Technological University) cutoff 2027
+  - DTU (Delhi Technological University) admission process
+  - DTU (Delhi Technological University) ranking
+  - DTU (Delhi Technological University) Delhi
+  - is DTU (Delhi Technological University) good
+  - DTU (Delhi Technological University) mohit jain review
+  - DTU (Delhi Technological University) hostel fees
+  - DTU (Delhi Technological University) contact number
+  - DTU (Delhi Technological University) B.Tech fees
+  - DTU (Delhi Technological University) CSE placement
+  - DTU (Delhi Technological University) B.Tech admission 2027
+  - engineering colleges Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2027-29
-  - Delhi NCR Direct Admission 2027-29
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
+state: Delhi NCR
 ---
 
-### About Delhi Technological University (DTU, formerly DCE)
-Delhi Technological University (DTU, formerly Delhi College of Engineering - DCE) is one of India's most legendary tech institutions. Known for its massive 164-acre Bawana Road campus, top coding clubs, and extraordinary placements rivaling top IITs.
+### B.Tech Courses & Fees
+- **B.Tech Computer Science & Engineering (CSE)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Electronics & Communication (ECE)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Information Technology (IT)**: 4 Years | ₹8.5 Lakhs
+- **B.Tech Mechanical Engineering (ME)**: 4 Years | ₹8.5 Lakhs
 
-### Key B.Tech & M.Tech Programs
-- **B.Tech Computer Science & Engineering (COE)**
-- **B.Tech Software Engineering (SE)**
-- **B.Tech Information Technology (IT)**
-- **B.Tech Mathematics & Computing (MCE)**
-- **B.Tech Electronics & Communication (ECE)**
-- **B.Tech Mechanical Engineering**
-- **M.Tech Computer Science**
+### About DTU (Delhi Technological University)
+DTU (Delhi Technological University) (Delhi) is highly ranked for B.Tech programs in Delhi-NCR, focusing on Core Engineering and IT fields.
 
-### Placement & Career Outcomes
-- **Average Placement Package**: ₹16.50 LPA
-- **Highest Placement Package**: ₹1.80 CPA
-- **Median Package Estimate**: ₹9.50 LPA
-- **Top Recruiting Partners**: Google, Microsoft, Apple, Amazon, Uber, Goldman Sachs, Texas Instruments, Qualcomm
-
-### Admission Process & Eligibility
-- **Accepted Entrance Exams**: JEE Main (JAC Delhi Counselling), GATE
-- **Accreditation & Approvals**: NIRF Rank #29 (Engineering 2024)
-- **Ownership Structure**: Public State University (Govt. of NCT of Delhi)
-- **Total Course Fee Estimate**: ₹7.50 - ₹9.00 Lakhs (Total 4 Years)
-
-For 1-on-1 personalized counselling, JEE / BITSAT cutoff guidance, branch vs college priority mapping, and direct merit seat advisory, get in touch with career counsellor Mohit Jain.
+### Placements
+- **Average CTC**: ₹18.0 LPA
+- **Highest CTC**: ₹82.0 LPA

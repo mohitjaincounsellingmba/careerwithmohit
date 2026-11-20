@@ -1,10 +1,11 @@
 ---
 title: Can I do Law Without Maths? — Schools & Prep Guide 2026
 date: '2026-04-21'
-category: Law
+category: Law Admissions
 description: >-
-  2027 guide for Can I do Law Without Maths? — Schools & Prep Guide 2026: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
   - can i do law without maths in 12th
   - law colleges for non maths students 2026
@@ -13,14 +14,18 @@ keywords:
   - ca llb without maths
   - career in law for arts students
   - maths in ailet exam
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: Is there any Law specialization that requires Maths?
     answer: >-
@@ -42,12 +47,6 @@ faqs:
       required for the test.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Bar Council of India (BCI) Approved Law Colleges Directory"
-  - "Consortium of National Law Universities (CLAT) Regulatory Norms"
-  - "Official University Faculty of Law Admission Guidelines"
 ---
 
 One of the biggest concerns for Humanities, Arts, and Commerce (without Maths) students is: **"Is Mathematics mandatory for a career in Law?"**
@@ -63,7 +62,7 @@ Mathematics is **not** a requirement for studying Law in India. Neither the Bar 
 
 ## 🏛️ What About the Maths Section in CLAT and AILET?
 
-**This is where the confusion usually starts. Let’s look at the entrance exams:**
+This is where the confusion usually starts. Let’s look at the entrance exams:
 
 - **CLAT 2026:** It has a "Quantitative Techniques" section, but it only carries **10-12 marks (out of 120)**. The level of maths is strictly **10th Standard (NCERT level)**—mostly Data Interpretation, Ratios, and Percentages. Even if you skip it entirely, you can still get into a Top NLU if your English and Legal sections are perfect.
 - **AILET 2026:** NLU Delhi has **zero Mathematics**. The exam is entirely focused on English, GK, and Logical Reasoning.
@@ -120,32 +119,25 @@ If you have stayed away from logic and maths, start your CLAT prep at least **12
 ---
 
 ### Useful Links:
-- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
-- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026/)
-- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide/)
+- [Top Law Colleges in India 2026 NIRF Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [BCA vs B.Tech — Career comparison guide](/blog/bca-vs-btech-cse-which-is-better-for-your-career-2026)
+- [How to Crack CLAT 2026](/blog/clat-2026-exam-strategy-guide)
 
 ---
 
 **Don't Let One Section Stop Your Legal Dream.**
 India's best lawyers aren't necessarily math geniuses. Don't let the "10 marks of maths" in CLAT scare you. Mohit Jain provides a "Non-Maths Legal Strategy"—helping you maximize your scores in Logic and Reading so you can walk into a Top NLU without ever solving a quadratic equation.
 
-[👉 Book My Non-Maths Law Consultation](/inquiry/) | [💬 Talk to Mohit](/inquiry/)
+[👉 Book My Non-Maths Law Consultation](/inquiry) | [💬 Talk to Mohit](/inquiry)
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-
----
-
-## Verified Admissions & Placement Facts Matrix
-
-| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **Can I do Law Without Maths? — Schools & Prep ** | ₹8.50 Lakhs – ₹14.50 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

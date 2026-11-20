@@ -178,10 +178,10 @@ Week 1 (Post-CAT)       Week 2 & 3              Week 4                  January 
 ---
 
 ## 🔗 Related Resources
-*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2026/)
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
-*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2027-29/)
+*   [Top MBA Colleges Without CAT / Accepting Other Exams](/blog/top-mba-colleges-without-cat-accepting-other-exams-mat-cmat-xat-2026)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026)
+*   [How to Build a Strong Profile for MBA Interviews](/blog/how-to-build-a-strong-profile-for-mba-interviews-2026)
 
 ---
 

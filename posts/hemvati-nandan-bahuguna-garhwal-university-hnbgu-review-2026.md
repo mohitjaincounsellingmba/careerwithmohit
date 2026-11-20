@@ -79,8 +79,8 @@ As a Central University, HNBGU maintains extremely low fees:
 *   **Amenities:** Double/triple occupancy rooms, 24/7 security, Wi-Fi, and basic medical support.
 
 ### **Check Other Placement Guides:**
-*   [Guru Ghasidas Vishwavidyalaya Review 2026](/blog/guru-ghasidas-vishwavidyalaya-ggv-review-2027-29/)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
+*   [Guru Ghasidas Vishwavidyalaya Review 2026](/blog/guru-ghasidas-vishwavidyalaya-ggv-review-2026)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
 
 [👉 Get Admission Consultation for HNBGU!](/inquiry)
 

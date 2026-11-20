@@ -140,10 +140,10 @@ Whether you are targeting elite government institutions like **[FMS Delhi](/coll
 ---
 
 ## 🔗 Related Resources
-*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score/)
-*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2027-29/)
-*   [Top MBA Colleges for 50-60 Percentile in CAT](/blog/top-mba-colleges-for-50-60-percentile-in-cat-2027-29/)
-*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2027-29/)
+*   [CAT 2026 Score vs Percentile: What is a Good Score?](/blog/cat-2026-score-vs-percentile-what-is-a-good-score)
+*   [Top MBA Colleges Accepting CAT Score 80-90 Percentile](/blog/mba-colleges-accepting-cat-score-80-90-percentile-2026)
+*   [Top MBA Colleges for 50-60 Percentile in CAT](/blog/top-mba-colleges-for-50-60-percentile-in-cat-2026)
+*   [Latest WAT/GD Topics for MBA Admissions](/blog/latest-wat-gd-topics-for-mba-admissions-2026)
 
 ---
 

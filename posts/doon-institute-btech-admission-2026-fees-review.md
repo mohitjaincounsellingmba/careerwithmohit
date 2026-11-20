@@ -3,7 +3,8 @@ title: 'B.Tech at Doon Institute (DIET) Dehradun: Admission 2026, Fees & Review'
 date: '2026-03-24'
 description: >-
   Everything you need to know about Doon Institute of Engineering and Technology
-  (DIET) Dehradun B.Tech admission 2026.
+  (DIET) Dehradun B.Tech admission 2026. Check the latest JEE Main cutoffs,
+  affordable fee structure, and placement review.
 keywords:
   - Doon Institute of Engineering and Technology BTech admission 2026
   - DIET Dehradun fees
@@ -17,7 +18,6 @@ keywords:
   - Dehradun Direct Admission 2026
   - Colleges in Uttarakhand
   - Dehradun Career Counselling
-  - Dehradun Admissions 2027
 faqs:
   - question: Is Doon Institute affordable?
     answer: >-
@@ -33,13 +33,7 @@ faqs:
       frequently recruiting through pool drives.
 location: Dehradun
 state: Uttarakhand
-category: B.Tech
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
-> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
-> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
-
 
 **Doon Institute of Engineering and Technology (DIET)**, located in the scenic surroundings of Dehradun (Rishikesh), is a prominent constituent of the Doon Group of Institutions. Affiliated with Uttarakhand Technical University (UTU) and approved by AICTE, DIET is known for providing quality technical education at an affordable price point compared to premium private universities in the region.
 
@@ -66,14 +60,14 @@ DIET focuses on skill development and career preparation through its dedicated p
 **Cons**: Average packages are lower than premium private universities, infrastructure for advanced research labs is basic compared to high-fee colleges.
 
 Explore other top engineering options in Uttarakhand:
-*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review/)
-*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review/)
-*   [Quantum University Roorkee: Detailed Review](/blog/quantum-university-btech-admission-2026-fees-review/)
+*   [UPES Dehradun: Admission & Review](/blog/upes-dehradun-btech-admission-2026-fees-review)
+*   [COER Roorkee: Admission Guide](/blog/coer-roorkee-btech-admission-2026-fees-review)
+*   [Quantum University Roorkee: Detailed Review](/blog/quantum-university-btech-admission-2026-fees-review)
 
 **Confused About the Various 'Doon' Institutions?**
 Dehradun has multiple institutes with the 'Doon' name. At **CareerWithMohit**, we help you distinguish between the State Government's Doon University and private institutes like DIET to ensure you apply to the right one for your B.Tech goals.
 
-[👉 Get Expert Admission Guidance for Doon Institute!](/inquiry/)
+[👉 Get Expert Admission Guidance for Doon Institute!](/inquiry)
 
 ### **Frequently Asked Questions (FAQ)**
 **1. Is Doon Institute affordable?**
@@ -88,23 +82,12 @@ Placements are solid for local industries, with top service companies frequently
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-
----
-
-## What are the Key Admissions, Fees, and Placement Details for Verified Admissions & Placement Facts Matrix?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
-
-| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **B.Tech at Doon Institute (DIET) Dehradun: Adm** | ₹3.2 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

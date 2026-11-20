@@ -131,9 +131,9 @@ The 5-year CET is usually in **May**, and the 3-year CET is in **June**.
 ---
 
 ### Useful Links:
-- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026/)
-- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates/)
-- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026/)
+- [Top NLU Rankings 2026 Guide](/blog/top-law-colleges-india-nirf-ranking-2026)
+- [How to Prepare for CLAT 2026](/blog/cat-2026-preparation-strategy-syllabus-dates)
+- [B.Tech Colleges in Mumbai 2026](/blog/top-btech-colleges-mumbai-2026)
 
 ---
 

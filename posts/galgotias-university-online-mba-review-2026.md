@@ -188,9 +188,9 @@ No. Admission is open to fresh graduates and working professionals without any e
 | College | NAAC | Total Fee | Location Strength |
 | :--- | :--- | :--- | :--- |
 | **Galgotias Online** | A+ | ₹90,000 | Delhi NCR focus |
-| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026/) | A+ | ₹1,00,000 | National + Dual spec |
-| [CU Online](/blog/chandigarh-university-online-mba-review-2026/) | A+ | ₹1,65,000 | North India + QS ranked |
-| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2027-29/) | A++ | ₹1,61,600 | Pan-India, 2L alumni |
+| [SMU Online](/blog/sikkim-manipal-university-online-mba-review-2026) | A+ | ₹1,00,000 | National + Dual spec |
+| [CU Online](/blog/chandigarh-university-online-mba-review-2026) | A+ | ₹1,65,000 | North India + QS ranked |
+| [LPU Online](/blog/lovely-professional-university-lpu-online-mba-review-2026) | A++ | ₹1,61,600 | Pan-India, 2L alumni |
 
 ---
 
@@ -199,9 +199,9 @@ No. Admission is open to fresh graduates and working professionals without any e
 ---
 
 *Related Reading:*
-- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2027-29/)
+- [Best Online MBA Colleges in India 2026](/blog/best-online-mba-colleges-india-2026)
 - [Why Never Join [Galgotias University](/colleges/galgotias-university) for MBA? (Honest Review)](/blog/why-never-join-galgotias-university-for-mba-review)
-- [Online MBA India 2026: Full Guide](/online-degree-certification/online-mba/)
+- [Online MBA India 2026: Full Guide](/blog/online-mba-india-2026)
 
 
 

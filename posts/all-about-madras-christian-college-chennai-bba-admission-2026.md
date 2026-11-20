@@ -31,7 +31,6 @@ faqs:
       undergraduate and postgraduate programs.
 location: Chennai
 state: Tamil Nadu
-author: Mohit Jain
 ---
 
 Madras Christian College (MCC), Chennai, is one of the oldest and most prestigious institutions in India. Set in a sprawling 365-acre scrub jungle campus, MCC offers a unique academic environment that combines tradition with modern management practices. It is a top choice for BBA aspirants in 2026.
@@ -71,9 +70,9 @@ Yes, MCC has legendary "Halls of Residence" (hostels), but competition for seats
 No, Madras Christian College is a co-educational institution for all its undergraduate and postgraduate programs.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026/)
-- [Loyola College Chennai BBA Admission Guide 2026](/blog/all-about-loyola-college-chennai-bba-admission-2026/)
-- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison/)
+- [Top 10 BBA Colleges in Chennai 2026](/blog/top-10-bba-colleges-chennai-2026)
+- [Loyola College Chennai BBA Admission Guide 2026](/blog/all-about-loyola-college-chennai-bba-admission-2026)
+- [BBA vs B.Com — Future Career Comparison](/blog/bba-vs-bcom-vs-bms-career-comparison)
 
 ---
 
@@ -87,7 +86,7 @@ MCC is the only college in India with a scrub jungle on campus. Mohit Jain’s "
 
 
 
-
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

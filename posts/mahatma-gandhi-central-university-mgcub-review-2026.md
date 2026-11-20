@@ -41,12 +41,6 @@ faqs:
       drops.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Ministry of Education Official Central Universities Directory"
-  - "University Grants Commission (UGC) Consolidated List of Universities"
-  - "National Testing Agency (NTA) CUET Official Information Bulletin"
 ---
 Mahatma Gandhi Central University (MGCUB) located in Motihari, Bihar, has been rapidly expanding its academic offerings and campus infrastructure. It serves as an excellent central university option for students aiming to secure admission through CUET 2026.
 
@@ -86,8 +80,8 @@ MGCUB provides very accessible education:
 *   **Amenities:** Standard facilities including Wi-Fi, mess, and necessary furniture are provided to ensure a comfortable stay.
 
 ### **Check Other Placement Guides:**
-*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026/)
-*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-gurgaon-mba-pgdm-review-2027-fees-placements-cutoff/)
+*   [Central University of Haryana Review 2026](/blog/central-university-of-haryana-cuh-review-2026)
+*   [BML Munjal University Placement Review 2025](/blog/bml-munjal-university-placement-review-2025)
 
 [👉 Get Admission Consultation for MGCUB!](/inquiry)
 

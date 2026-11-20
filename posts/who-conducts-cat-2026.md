@@ -99,7 +99,7 @@ While the official brochure will release on the official portal, here is the pro
 * **Answer Key & Response Sheet:** First week of December 2026
 * **CAT 2026 Result Date:** Second week of January 2027
 
-To view a detailed date-by-date schedule, visit our guide on [CAT 2026 Exam Date & Timeline](/blog/cat-2026-exam-date-notification-registration-schedule/).
+To view a detailed date-by-date schedule, visit our guide on [CAT 2026 Exam Date & Timeline](/blog/cat-2026-exam-date-notification-registration-schedule).
 
 ---
 
@@ -124,7 +124,7 @@ Under IIM Indore's coordination, the exam pattern is expected to remain consiste
 2. **Data Interpretation & Logical Reasoning (DILR):** 20 Questions
 3. **Quantitative Aptitude (QA):** 22 Questions
 
-For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs](/resources/cat/).
+For a detailed look at the syllabus and section weightage, check [CAT Exam 2026: Registration, Latest Syllabus, Pattern & IIM Cutoffs](/blog/all-about-cat-exam).
 
 ---
 
@@ -150,9 +150,9 @@ Preparing for CAT 2026 requires more than just studies—it requires profile bui
 [👉 Connect with Mohit Jain for Profile Analysis and Personalized MBA Mentorship](/inquiry)
 
 *Related Posts:*
-* [CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates/)
-* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2027-29/)
+* [CAT 2026 Preparation Strategy & Roadmap](/blog/cat-2026-preparation-strategy-syllabus-dates)
+* [Top 10 Tips to Crack CAT Exam 2026](/blog/10-tips-to-crack-cat-exam-2026)
+* [How to Prepare for CAT 2026 as a Beginner](/blog/how-to-prepare-for-cat-2026)
 ---
 
 ### 🚀 Boost Your Preparation

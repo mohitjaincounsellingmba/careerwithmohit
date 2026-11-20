@@ -1,24 +1,29 @@
 ---
-title: 'MAH MBA CET Scholarship 2027–29: Eligibility, MahaDBT Portal & How to Apply'
+title: 'MAH MBA CET Scholarship 2026: Eligibility, MahaDBT Portal & How to Apply'
 date: '2026-04-05'
 description: >-
-  2027 guide for MAH MBA CET Scholarship 2027–29: Eligibility, MahaDB...: Check
-  fees, verified placement packages, real cutoffs & admission tips with Mohit...
+  Discover rankings, direct admission, fees, and placement reports for top
+  colleges in Delhi NCR. Get details on top colleges under GGSIPU, DU, and
+  private univer
 keywords:
-  - MAH CET MBA scholarship 2027–29
+  - MAH CET MBA scholarship 2026
   - MahaDBT portal MBA scholarship
   - EBC scholarship for MBA Maharashtra eligibility
   - SC ST OBC scholarship MBA CET
   - Maharashtra MBA fee reimbursement
-  - Rajarshi Shahu Maharaj scholarship MBA 2027–29
+  - Rajarshi Shahu Maharaj scholarship MBA 2026
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
   - Direct Admission in Delhi
   - Delhi NCR Colleges
   - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
   - Top Colleges in Delhi NCR 2026
   - Delhi NCR Direct Admission 2026
   - Colleges in Delhi NCR
   - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the typical fee structure for MBA programs in India?
     answer: >-
@@ -37,22 +42,10 @@ faqs:
       by AICTE. Both are highly valued in the job market.
 location: Delhi NCR
 state: Delhi NCR
-category: Online Degrees
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Official B-School Admission Bulletin & Audited Placement Report"
-  - "National Institutional Ranking Framework (NIRF Management)"
-  - "AICTE Mandatory Regulatory Disclosures & Intake Approvals"
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **UGC-DEB Recognition**: 100% legally valid online degree equivalent to regular campus degree under UGC regulations 2020.
-> - **Flexibility & LMS**: AI-enabled interactive LMS, recorded lectures, live weekend doubt sessions, and proctored online exams.
-> - **Corporate & Govt Eligibility**: Eligible for UPSC, SSC, banking exams, top MNC corporate promotions, and global WES credential evaluation.
-
 For many MBA aspirants in Maharashtra, the high fees of top B-schools like JBIMS, SIMSREE, and PUMBA can be a concern. However, if you are a domicile of Maharashtra and have secured admission through the **Centralized Admission Process (CAP)**, you are eligible for significant government scholarships that can cover up to 50% to 100% of your tuition fees.
 
-In this guide, we break down everything you need to know about the **MAH MBA CET scholarships for the 2027–29-27 academic session**.
+In this guide, we break down everything you need to know about the **MAH MBA CET scholarships for the 2026-27 academic session**.
 
 ---
 
@@ -60,11 +53,9 @@ In this guide, we break down everything you need to know about the **MAH MBA CET
 
 Most state scholarships in Maharashtra are administered through the **MahaDBT (Direct Benefit Transfer)** portal. Here are the most common schemes:
 
-## What are the Key Admissions, Fees, and Placement Details for [InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]?
+##
 
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+[InquiryCard title="Get Free Online Degree & University Guidance 2026" description="Compare top UGC-DEB approved online universities (fees, NAAC A+ grade, EMI options) with expert counselor Mohit Jain." cta="Get Free Counselling" type="admission"]
 
 ## **A. Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)**
 *   **Target Group**: Economically Backward Class (EBC) / Open Category students.
@@ -140,8 +131,8 @@ Usually, the scholarship is discontinued if you fail. However, if you are promot
 
 ---
 
-[👉 Check out the Top MBA Colleges in Mumbai & Pune accepting CET scores](/blog/mah-mba-cet-colleges-mumbai-pune/)
-[👉 Get help with your Maharashtra Scholarship Documentation](/inquiry/)
+[👉 Check out the Top MBA Colleges in Mumbai & Pune accepting CET scores](/mah-mba-cet-colleges-mumbai-pune)
+[👉 Get help with your Maharashtra Scholarship Documentation](/inquiry)
 
 **Need more clarity on your eligibility? Leave a comment below or book a consultation call!**
 
@@ -152,7 +143,7 @@ Usually, the scholarship is discontinued if you fail. However, if you are promot
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### What is the typical fee structure for MBA programs in India?
-The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi/) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
+The fee structure varies widely. Government-aided institutes like [FMS Delhi](/colleges/fms-delhi) have low fees (around INR 2 Lakhs), while top-tier private institutions and IIMs can range from INR 15 Lakhs to INR 25 Lakhs.
 
 ### Is it possible to pursue an MBA without clearing CAT?
 Yes, many colleges accept other entrance exams like XAT, NMAT, SNAP, MAT, or CMAT. Additionally, direct admission options under management quota are available in several private B-schools.
@@ -162,19 +153,12 @@ An MBA is a degree awarded by universities affiliated with UGC, whereas a PGDM i
 
 
 ---
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---
-
-
----
-
-## Verified Admissions & Placement Facts Matrix
-
-| Program / Evaluation Metric | Total Tuition Fee | Average Placement CTC | Key Eligibility & Accepted Exams |
-| :--- | :--- | :--- | :--- |
-| **MAH MBA CET Scholarship 2027–29: Eligibility,** | ₹8 Lakhs | ₹8.00 LPA – ₹12.50 LPA | Min 50% Aggregate · National/State Exam or Merit |

@@ -40,7 +40,6 @@ faqs:
       after the first year.
 location: Delhi NCR
 state: Delhi NCR
-author: Mohit Jain
 ---
 
 [Amity University, Noida](/colleges/amity-university-noida), is one of the largest and most well-known private universities in India. Known for its world-class infrastructure and strong industry linkages, it is a popular choice for BBA aspirants in 2026 who are looking for global exposure and diverse specialization options.
@@ -84,9 +83,9 @@ Yes, [Amity University](/colleges/amity-noida) is recognized by the University G
 Generally, specializations are chosen at the time of admission. However, check with the academic department for any lateral movement possibilities after the first year.
 
 ## 🔗 Useful Links:
-- [Top 10 BBA Colleges in Noida 2026](/blog/top-10-bba-colleges-noida-2026/)
-- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide/)
-- [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2027-29/)
+- [Top 10 BBA Colleges in Noida 2026](/blog/top-10-bba-colleges-noida-2026)
+- [BBA Specializations — Which one to choose?](/blog/bba-specializations-skills-salary-2026-guide)
+- [Amity University Online MBA Review](/blog/amity-university-online-mba-review-2026)
 
 ---
 
@@ -100,7 +99,7 @@ From 'BBA Fintech' to 'BBA Sports Management,' picking the right track is crucia
 
 
 
-
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation

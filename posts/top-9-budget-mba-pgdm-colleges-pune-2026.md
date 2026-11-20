@@ -82,7 +82,7 @@ If you are looking for colleges with a fee structure between **₹4 Lakhs to ₹
 ### 1. Akemi Business School (MBA)
 Located in Tathawade, Akemi is known for its personalized mentoring. It’s a solid choice if you want a university-affiliated MBA at a low cost.
 - **Best For:** Marketing & Operations.
-- **[Read Detailed Akemi Review](/blog/akemi-business-school-mba-pgdm-review-2027-fees-placements-cutoff/)**
+- **[Read Detailed Akemi Review](/blog/akemi-pune-review-2025)**
 
 ### 2. [ASM IIBR](/colleges/asm-iibr) (MBA / PGDM)
 Part of the legacy ASM Group, IIBR offers industry-integrated programs with certifications from AWS, SAP, and Microsoft.
@@ -97,7 +97,7 @@ RIIM is famous for its "Corporate Residency" program and heavy emphasis on soft 
 ### 4. [ISMS Pune](/colleges/isms-pune) (MBA / PGDM)
 ISMS positions itself as an "International" school. While the building is compact, they focus heavily on grooming students for MNC roles.
 - **Warning:** Be careful about specialization pressure.
-- **[Read Honest ISMS Review](/blog/why-never-join-isms-pune-honest-review-2026/)**
+- **[Read Honest ISMS Review](/blog/why-never-join-isms-pune-honest-review-2026)**
 
 ### 5. DY Patil B-School (PGDM)
 One of the most premium names in the "Budget" list. It offers great infrastructure and a very strong corporate network in Pune and Mumbai.
@@ -106,22 +106,22 @@ One of the most premium names in the "Budget" list. It offers great infrastructu
 ### 6. [PBS (Pune Business School)](/colleges/pbs-pune)
 A part of the PCET group, PBS has gained rapid popularity due to its strong placement cell and affordable PGDM curriculum.
 - **Best For:** Placements in manufacturing and core sectors.
-- **[Read Detailed PBS Review](/blog/pbs-pune-review-2027-29/)**
+- **[Read Detailed PBS Review](/blog/pbs-pune-review-2025)**
 
 ### 7. MILE (Lexicon MILE)
 Lexicon MILE offers a more "premium" experience in the budget category. They focus heavily on "Day 1 Readiness" for their students.
 - **Best For:** Finance and Digital Marketing.
-- **[Read Detailed MILE Review](/blog/lexicon-management-institute-of-leadership-excellence-mba-pgdm-review-2027-fees-placements-cutoff/)**
+- **[Read Detailed MILE Review](/blog/lexicon-mile-pune-review-2025)**
 
 ### 8. [FUEL Business School](/colleges/fuel-business-school) (MBA)
 FUEL (Friends Union for Energising Lives) is unique because of its social mission and strong tie-ups with CSR wings of top MNCs.
 - **Best For:** Students looking for ethical management and CSR-linked roles.
-- **[Read Detailed FUEL Review](/blog/fuel-pune-review-2027-29/)**
+- **[Read Detailed FUEL Review](/blog/fuel-pune-review-2025)**
 
 ### 9. IIEBM Pune (PGDM)
 One of the oldest PGDM institutes in Pune with a very "disciplined" and "military-style" approach to management education.
 - **Best For:** Discipline and core placement stability.
-- **[Read Detailed IIEBM Review](/blog/iiebm-indus-pune-mba-pgdm-review-2027-fees-placements-cutoff/)**
+- **[Read Detailed IIEBM Review](/blog/iiebm-pune-review-2025)**
 
 ---
 
@@ -135,9 +135,9 @@ While these colleges are great for starting your career, here is what you need t
 ---
 
 ## 🔗 Useful Links for Your Research
-- [Top MBA Colleges in Pune 2026 (SIBM, SCMHRD, PUMBA)](/colleges/mba-colleges-pune/)
-- [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune/)
-- [Direct MBA Admission in Pune — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it/)
+- [Top MBA Colleges in Pune 2026 (SIBM, SCMHRD, PUMBA)](/blog/top-mba-colleges-pune)
+- [Why Never Join High-Intake MBA Colleges in Pune](/blog/why-never-join-high-intake-mba-colleges-pune)
+- [Direct MBA Admission in Pune — Is it Worth It?](/blog/direct-mba-admission-without-entrance-exam-2026-is-it-worth-it)
 
 ---
 

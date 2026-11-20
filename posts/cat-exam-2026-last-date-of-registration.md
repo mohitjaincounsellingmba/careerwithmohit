@@ -1,13 +1,10 @@
 ---
-title: >-
-  CAT Exam 2026 Last Date of Registration: Deadline, Fees, Extension & How to
-  Apply
+title: 'CAT Exam 2026 Last Date of Registration: Deadline, Fees, Extension & How to Apply'
 date: '2026-09-10'
-category: Exams
+category: MBA
 description: >-
-  Check the CAT Exam 2026 last date of registration, official application
-  deadline, registration fee, step-by-step form fill-up guide, documents
-  required.
+  Check the CAT Exam 2026 last date of registration, official application deadline,
+  registration fee, step-by-step form fill-up guide, documents required, and top IIM cutoffs.
 keywords:
   - cat exam 2026 last date of registration
   - cat 2026 registration deadline
@@ -17,49 +14,33 @@ keywords:
   - how to apply for cat 2026
   - cat 2026 correction window date
   - iim cat registration 2026
-  - Delhi NCR Colleges
-  - Best Colleges in Delhi NCR
-  - Top Colleges in Delhi NCR 2026
-  - Delhi NCR Direct Admission 2026
-  - Colleges in Delhi NCR
-  - Delhi NCR Career Counselling
-  - Delhi NCR Admissions 2027
 faqs:
   - question: What is the CAT exam 2026 last date of registration?
     answer: >-
-      The official last date for CAT 2026 registration is expected to fall in
-      the third week of September 2026 (around September 13 to September 20,
-      2026, by 5:00 PM). In past years, IIMs have typically granted a 5 to 7-day
-      extension before closing the window permanently.
+      The official last date for CAT 2026 registration is expected to fall in the third week
+      of September 2026 (around September 13 to September 20, 2026, by 5:00 PM). In past years,
+      IIMs have typically granted a 5 to 7-day extension before closing the window permanently.
   - question: Can the CAT 2026 registration deadline be extended?
     answer: >-
-      Historically, the CAT convening IIM extends the registration window by 4
-      to 7 days to accommodate candidates facing server surges or payment
-      issues. However, candidates should never wait for an extension.
+      Historically, the CAT convening IIM extends the registration window by 4 to 7 days to accommodate
+      candidates facing server surges or payment issues. However, candidates should never wait for an extension.
   - question: What is the registration fee for CAT 2026?
     answer: >-
-      The registration fee for CAT 2026 is ₹2,500 for General, EWS, and NC-OBC
-      candidates, and ₹1,250 for SC, ST, and PwD category applicants. The fee
-      must be paid online via credit/debit card, net banking, or UPI.
+      The registration fee for CAT 2026 is ₹2,500 for General, EWS, and NC-OBC candidates, and ₹1,250
+      for SC, ST, and PwD category applicants. The fee must be paid online via credit/debit card, net banking, or UPI.
   - question: What documents are required for CAT 2026 online registration?
     answer: >-
-      You need a valid email ID and mobile number, recent passport-size
-      photograph, digital signature, 10th/12th/Graduation marksheets,
-      category/caste certificate (if applicable), and PwD certificate (if
-      applicable).
+      You need a valid email ID and mobile number, recent passport-size photograph, digital signature,
+      10th/12th/Graduation marksheets, category/caste certificate (if applicable), and PwD certificate (if applicable).
   - question: What is the CAT 2026 exam date?
     answer: >-
-      CAT 2026 will be conducted on the last Sunday of November 2026 (November
-      29, 2026) across three computer-based test (CBT) slots nationwide.
-location: Delhi NCR
-state: Delhi NCR
+      CAT 2026 will be conducted on the last Sunday of November 2026 (November 29, 2026) across three
+      computer-based test (CBT) slots nationwide.
+location: All India
+state: India
 ---
 
-## What are the Key Admissions, Fees, and Placement Details for CAT Exam 2026 Last Date of Registration: Complete Timeline, Fees & Application Guide?
-
-**Comprehensive evaluation shows competitive admission standards, structured fee installments, and robust campus placement recruitment driven by industry demand across corporate sectors.**
-
-
+# CAT Exam 2026 Last Date of Registration: Complete Timeline, Fees & Application Guide
 
 > 💡 **Key Takeaways (Direct AI Answer Summary)**
 > - **Official Deadline:** CAT 2026 registration opens on August 1, 2026, and closes in mid-September 2026 at 5:00 PM IST (expected around September 13–20, 2026).
@@ -68,15 +49,15 @@ state: Delhi NCR
 
 ---
 
-The **Common Admission Test (CAT 2026)** is the undisputed gateway to India's 21 Indian Institutes of Management (IIMs) and over 1,200 premier business schools, including [FMS Delhi](/colleges/fms-delhi/), [SPJIMR Mumbai](/colleges/spjimr-mumbai/), [MDI Gurgaon](/colleges/mdi-gurgaon/), and IIT management departments.
+The **Common Admission Test (CAT 2026)** is the undisputed gateway to India's 21 Indian Institutes of Management (IIMs) and over 1,200 premier business schools, including [FMS Delhi](/colleges/fms-delhi), [SPJIMR Mumbai](/colleges/spjimr-mumbai), [MDI Gurgaon](/colleges/mdi-gurgaon), and IIT management departments.
 
-Every year, over 3.3 lakh MBA aspirants register for CAT. However, thousands of candidates miss out due to payment errors, missing OBC-NCL/EWS certificates, or waiting until the final hours. Here is the definitive schedule for the **CAT exam 2027–29 last date of registration**, required documentation, application fees, and step-by-step instructions.
+Every year, over 3.3 lakh MBA aspirants register for CAT. However, thousands of candidates miss out due to payment errors, missing OBC-NCL/EWS certificates, or waiting until the final hours. Here is the definitive schedule for the **CAT exam 2026 last date of registration**, required documentation, application fees, and step-by-step instructions.
 
 ---
 
 > 🎯 **Planning your percentile strategy?**
 >
-> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://careerwithmohit.online/tools/cat-mock-test/) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator/)
+> [👉 Take our Free CAT 2026 Full-Length Mock Test](https://www.careerwithmohit.online/tools/cat-mock-test) | [Check CAT Score vs Percentile Predictor](/tools/cat-score-calculator)
 
 ---
 
@@ -166,12 +147,12 @@ Follow these five steps before the registration last date:
 
 | College Name | Total Fees (2027–29) | Avg Package (Latest) | ROI & Admission Eligibility |
 | :--- | :--- | :--- | :--- |
-| **[IIM Ahmedabad](/colleges/iim-ahmedabad/)** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
-| **[FMS Delhi](/colleges/fms-delhi/)** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
-| **[SPJIMR Mumbai](/colleges/spjimr-mumbai/)** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
-| **[MDI Gurgaon](/colleges/mdi-gurgaon/)** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
+| **IIM Ahmedabad** | ₹25.00 Lakhs | ₹34.36 LPA | CAT 99.5+ %ile · Benchmark Indian B-School |
+| **FMS Delhi** | ₹2.00 Lakhs | ₹34.10 LPA | CAT 99.0+ %ile · Highest ROI B-School in Asia |
+| **SPJIMR Mumbai** | ₹22.50 Lakhs | ₹33.00 LPA | CAT/XAT 85-98 %ile · Profile + Score Based |
+| **MDI Gurgaon** | ₹26.00 Lakhs | ₹26.70 LPA | CAT 95.0+ %ile · Top NCR Corporate Industry Links |
 | **NDIM New Delhi** | ₹11.50L - ₹13.75L | ₹9.50 LPA | CAT/MAT/XAT/CMAT (60%+ %ile) · AIU Equivalent |
-| **FOSTIIMA Business School** | ₹11.95 Lakhs | ₹11.15 LPA | CAT/XAT/CMAT (65%+ %ile) · IIM-A Alumni Faculty |
+| **FOSTIIMA Business School** | ₹11.50 Lakhs | ₹11.15 LPA | CAT/XAT/CMAT (65%+ %ile) · IIM-A Alumni Faculty |
 | **Jaipuria Institute (Noida/LKO)** | ₹12.50L - ₹15.50L | ₹11.29 LPA | CAT/XAT/MAT/CMAT (70%+ %ile) · AACSB Member |
 
 ---
@@ -192,7 +173,7 @@ After the registration closes, the convening IIM opens a limited **3-day correct
 1. **Waiting for the Last Day:** Over 80,000 students attempt to submit applications in the final 48 hours, causing payment gateways to freeze.
 2. **Uploading State-Format Caste Certificates:** IIMs strictly demand **Central List** formats for NC-OBC and EWS certificates.
 3. **Incorrect CGPA Conversion:** Never use a default 9.5 multiplier unless your university's official transcript explicitly specifies it.
-4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like [FMS Delhi](/colleges/fms-delhi/), SPJIMR, [MDI Gurgaon](/colleges/mdi-gurgaon/), and IITs require separate forms.
+4. **Ignoring Non-IIM Deadlines:** Registering for CAT only registers you for IIMs. Top non-IIM institutions like FMS Delhi, SPJIMR, MDI Gurgaon, and IITs require separate forms.
 
 ---
 
@@ -213,17 +194,17 @@ CAT 2026 will be conducted on **November 29, 2026 (Sunday)** in three computer-b
 ---
 
 ### Related Articles & Useful Resources
-* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/10-tips-to-crack-cat-exam-2027-29/)
-* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/1-year-online-mba-colleges-india-2027-29/)
-* [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test/)
-* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator/)
-* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry/)
+* [10 Proven Tips to Crack CAT 2026: The IIM Topper's Secret](/blog/10-tips-to-crack-cat-exam-2026)
+* [All About CAT Exam: Pattern, Syllabus & Top Cutoffs](/blog/all-about-cat-exam)
+* [All About IIM Colleges: Placements, Fees & Selection 2026](/blog/all-about-iim-colleges-placements-fees-selection-2026)
+* [Free CAT 2026 Online Full-Length Mock Test](/tools/cat-mock-test)
+* [CAT Score Calculator & Percentile Predictor 2026](/tools/cat-score-calculator)
+* [Need Direct MBA Admission Guidance? Book a Free Counselling Call](/inquiry)
 
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2027–29](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

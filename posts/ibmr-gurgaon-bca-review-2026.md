@@ -113,9 +113,9 @@ The admission process is designed to be accessible yet competitive:
 ---
 
 ## 🔗 Related Resources
-*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026/)
-*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026/)
-*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026/)
+*   [IBMR Gurgaon BBA Review 2026](/blog/ibmr-gurgaon-bba-review-2026)
+*   [GD Goenka BTech Review 2026](/blog/gd-goenka-btech-review-2026)
+*   [Top BBA Colleges in Gurgaon 2026](/blog/top-bba-colleges-gurgaon-2026)
 
 ---
 

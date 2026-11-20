@@ -1,16 +1,30 @@
 ---
-title: 'Top B.Tech Colleges Under 5 Lakhs Budget in 2026: Fees, Placements & ROI'
+title: Top B.Tech Colleges Under 5 Lakhs Total Fees (2026) – City-wise List
 date: '2026-05-03'
 category: B.Tech
 description: >-
-  Find top B.Tech colleges with total tuition under 5 Lakhs for 2026. Compare
-  government and private engineering institutes with strong placements and ROI.
+  Looking for affordable engineering? Explore the best B.Tech colleges in Delhi
+  NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur, and Dehradun with a total
+  budget under 5 Lakhs.
 keywords:
-  - btech colleges under 5 lakhs 2026
-  - low budget engineering colleges india
-  - btech colleges low fees high placement
-  - government btech colleges low fees
-  - affordable btech colleges 2026
+  - btech colleges under 5 lakhs
+  - low fees btech colleges india
+  - affordable engineering colleges 2026
+  - btech in delhi ncr low fees
+  - btech in kolkata under 5 lakhs
+  - government engineering colleges fees
+  - Delhi Colleges
+  - Best Colleges in Delhi
+  - Delhi Admissions 2026
+  - Direct Admission in Delhi
+  - Delhi NCR Colleges
+  - Best Colleges in Delhi NCR
+  - Direct Admission Delhi NCR
+  - Delhi NCR College Counselling
+  - Top Colleges in Delhi NCR 2026
+  - Delhi NCR Direct Admission 2026
+  - Colleges in Delhi NCR
+  - Delhi NCR Career Counselling
 faqs:
   - question: Can I get direct admission in B.Tech without JEE Main?
     answer: >-
@@ -26,18 +40,9 @@ faqs:
       B.Tech (Bachelor of Technology) is generally more practical and
       application-oriented, whereas B.E. (Bachelor of Engineering) tends to
       focus more on theoretical concepts and foundation sciences.
-author: Mohit Jain
-lastUpdated: "2026-11-05"
-sources:
-  - "Official Institute Academic Prospectus & Seat Matrix"
-  - "National Institutional Ranking Framework (NIRF Engineering)"
-  - "Joint Seat Allocation Authority (JoSAA) & State CET Closing Ranks"
+location: Delhi NCR
+state: Delhi NCR
 ---
-> 💡 **Key Takeaways (Direct AI Answer Summary)**
-> - **Engineering Program Focus**: Core engineering branches (CSE, AI/ML, Data Science, ECE) curriculum and laboratory infrastructure audit.
-> - **Admission Pathways**: Merit-based counselling via JEE Main, state CETs, or direct institutional quota seats.
-> - **Industry Placements**: Top tech recruiters, coding culture, and highest vs. median placement salary trends.
-
 Pursuing an engineering degree doesn't always have to break the bank. While many private universities in India charge anywhere between ₹10 Lakhs to ₹25 Lakhs for a 4-year B.Tech program, there are several prestigious **Government and State-run institutions** where you can complete your degree for **under ₹5 Lakhs (Total Fees)**.
 
 In this guide, we list the most affordable B.Tech colleges across major Indian hubs: **Delhi NCR, Bangalore, Hyderabad, Chennai, Kolkata, Jaipur, and Dehradun**.
@@ -55,12 +60,12 @@ Delhi is home to some of the most subsidized engineering education in India, pri
 
 | College Name | Approx. Total Fees (4 Years) | Admission Path |
 |---|---|---|
-| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia/)** | ~₹65,000 | JMI Entrance / JEE Main |
+| **[Jamia Millia Islamia (JMI)](/colleges/jamia-millia-islamia)** | ~₹65,000 | JMI Entrance / JEE Main |
 | **USICT (IP University, Delhi)** | ~₹3.5 - 4 Lakhs | JEE Main (IPU Counselling) |
 | **G.B. Pant Govt. Engineering College** | ~₹2 - 2.5 Lakhs | JEE Main (JAC Delhi) |
 | **Ch. Brahm Prakash Govt. Engg. College**| ~₹2 - 2.5 Lakhs | JEE Main (JAC Delhi) |
 
-📍 [Explore Best B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026/)
+📍 [Explore Best B.Tech Colleges in Delhi NCR 2026](/blog/top-btech-colleges-delhi-ncr-2026)
 
 ---
 
@@ -74,7 +79,7 @@ While Bangalore is known for expensive private colleges, the state-run instituti
 | **BMSCE (Aided Seats)** | ~₹4 - 4.5 Lakhs | KCET |
 | **SKSJT Institute of Technology** | ~₹1 - 1.5 Lakhs | KCET |
 
-📍 [Explore Top B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026/)
+📍 [Explore Top B.Tech Colleges in Bangalore 2026](/blog/top-btech-colleges-bangalore-2026)
 
 ---
 
@@ -88,7 +93,7 @@ Hyderabad’s state universities are world-renowned and extremely affordable for
 | **CBIT (Aided Seats)** | ~₹4 - 5 Lakhs | TS EAMCET |
 | **Vasavi College of Engg. (Aided)** | ~₹4.5 - 5 Lakhs | TS EAMCET |
 
-📍 [Explore Top B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026/)
+📍 [Explore Top B.Tech Colleges in Hyderabad 2026](/blog/top-btech-colleges-hyderabad-2026)
 
 ---
 
@@ -102,7 +107,7 @@ Chennai offers a vast network of government colleges with some of the lowest fee
 | **Govt. College of Tech (GCT, Coimbatore)**| ~₹40,000 - 60,000 | TNEA (Merit) |
 | **ACT Campus, Anna University** | ~₹1.2 - 2 Lakhs | TNEA (Merit) |
 
-📍 [Explore Top B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026/)
+📍 [Explore Top B.Tech Colleges in Chennai 2026](/blog/top-btech-colleges-chennai-2026)
 
 ---
 
@@ -116,7 +121,7 @@ Kolkata, specifically Jadavpur University, is legendary for offering a world-cla
 | **Jalpaiguri Govt. Engg. College (JGEC)** | ~₹50,000 - 1 Lakh | WBJEE |
 | **MAKAUT Campus (In-house)** | ~₹1.5 - 2 Lakhs | WBJEE |
 
-📍 [Explore Top B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026/)
+📍 [Explore Top B.Tech Colleges in Kolkata 2026](/blog/top-btech-colleges-kolkata-2026)
 
 ---
 
@@ -125,12 +130,12 @@ Jaipur and surrounding areas offer several state-affiliated colleges with highly
 
 | College Name | Approx. Total Fees (4 Years) | Admission Path |
 |---|---|---|
-| **[MNIT Jaipur](/colleges/mnit-jaipur/) (with TFW/Scholarship)** | ~₹2 - 5 Lakhs | JEE Main (JoSAA) |
+| **[MNIT Jaipur](/colleges/mnit-jaipur) (with TFW/Scholarship)** | ~₹2 - 5 Lakhs | JEE Main (JoSAA) |
 | **University College of Engg. (RTU Kota)**| ~₹2.5 - 3.5 Lakhs | REAP / JEE Main |
 | **MBM Engineering College (Jodhpur)** | ~₹1.5 - 2 Lakhs | REAP / JEE Main |
 | **Govt. Engineering College (Ajmer)** | ~₹2.5 - 3.5 Lakhs | REAP / JEE Main |
 
-📍 [Explore Top B.Tech Colleges in Jaipur 2026](/blog/top-btech-colleges-jaipur-2026/)
+📍 [Explore Top B.Tech Colleges in Jaipur 2026](/blog/top-btech-colleges-jaipur-2026)
 
 ---
 
@@ -148,7 +153,7 @@ Uttarakhand's state universities provide affordable engineering with a focus on 
 
 ## How to Get Admission in Low-Fee Colleges?
 
-**1.  **State Entrance Exams:** Most of these colleges are state-run and reserve 85-100% seats for local domiciles through exams like **WBJEE, KCET, TS EAMCET, and TNEA**.**
+1.  **State Entrance Exams:** Most of these colleges are state-run and reserve 85-100% seats for local domiciles through exams like **WBJEE, KCET, TS EAMCET, and TNEA**.
 2.  **JEE Main:** National-level colleges like JMI, MNIT, and DTU accept JEE Main scores. 
 3.  **Tuition Fee Waiver (TFW) Scheme:** Most states have a TFW scheme where top 5% merit students from economically weaker sections pay **Zero Tuition Fees**.
 4.  **Scholarships:** Even in private colleges, you can bring your budget under ₹5 Lakhs by securing merit-based scholarships (e.g., scoring 90%+ in Boards or a high JEE rank).
@@ -160,9 +165,9 @@ Uttarakhand's state universities provide affordable engineering with a focus on 
 ---
 
 ### Also Read:
-- [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026/)
-- [Lowest Fee B.Tech Colleges in India (National List)](/blog/lowest-fee-btech-colleges-india-2026/)
-- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options/)
+- [Best B.Tech Colleges in India 2026](/blog/best-btech-colleges-india-2026)
+- [Lowest Fee B.Tech Colleges in India (National List)](/blog/lowest-fee-btech-colleges-india-2026)
+- [B.Tech Admission Without JEE 2026](/blog/btech-admission-without-jee-2026-all-options)
 
 ---
 
@@ -180,10 +185,12 @@ B.Tech (Bachelor of Technology) is generally more practical and application-orie
 
 
 
+
+Source: Shiksha.com
 ---
 
 ### 🚀 Boost Your Preparation
 
-Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests/)** to get real-time exam experience and detailed performance analytics.
+Looking for more resources? **[Explore Our Premium MBA Mock Test Series 2026](/mock-tests)** to get real-time exam experience and detailed performance analytics.
 
 ---

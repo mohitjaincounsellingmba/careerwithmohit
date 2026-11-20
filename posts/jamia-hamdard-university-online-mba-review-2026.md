@@ -94,8 +94,8 @@ The **[Jamia Hamdard](/colleges/jamia-hamdard-delhi) Online MBA** is a "safe" an
 
 ---
 **Related Posts:**
-*   [Galgotias University Online MBA Review](/blog/galgotias-university-online-mba-review-2026/)
-*   [Manav Rachna University Online MBA Review](/blog/manav-rachna-university-online-mba-review-2026/)
+*   [Galgotias University Online MBA Review](/blog/galgotias-university-online-mba-review-2026)
+*   [Manav Rachna University Online MBA Review](/blog/manav-rachna-university-online-mba-review-2026)
 
 ---
 

@@ -122,9 +122,9 @@ Admission to the MERI MBA program is competitive and follows the GGSIPU guidelin
 ---
 
 ## 🔗 Related Resources
-*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026/)
-*   [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india/)
-*   [All About CMAT Exam 2026](/resources/cmat/)
+*   [Best MBA Colleges in Delhi 2026](/blog/best-mba-colleges-in-delhi-2026)
+*   [Direct MBA Admission in India 2026](/blog/direct-mba-admission-india)
+*   [All About CMAT Exam 2026](/blog/all-about-cmat-exam)
 
 [💬 Still Confused? Book a Private Counseling Session with Mohit Jain](/inquiry)
 
